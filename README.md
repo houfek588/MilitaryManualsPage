@@ -11,7 +11,7 @@ Web je čistě statický (HTML + CSS + JS, data vložená jako `<script>`), tak�
 
 ```
 PRAVIDLA_PREKLADU.md        pravidla překladu a popis datového formátu (závazné pro lidi i agenty)
-projekt.yaml                nastavení webu: autor, kontakt, skupina, údaje pro podporu (dar) – stránka O projektu
+projekt.yaml                nastavení webu: autor, kontakt, skupina, sociální sítě, údaje pro podporu (dar)
 knihy/
   fronsberger-1564/
     kniha.yaml              metadata knihy, zdroj skenů, pořadí předsádky, pokyny k překladu
@@ -29,7 +29,7 @@ nastroje/
   overeno_clovekem.py       označení stran, které ručně ověřil člověk (pole overeno_clovekem)
   vyrez_drevorezy.py        výřez dřevořezů ze skenu přes IIIF (bloky obrazek se souborem drevorez-*.jpg)
   build.py                  sestavení webu do docs/
-  web/                      šablony a aplikace (app.js, app.css, kniha.html, index.html, o-projektu.html, logo.png, payment_qr.png)
+  web/                      šablony a aplikace (app.js, app.css, kniha.html, index.html, o-projektu.html, logo.png, payment_qr.png, fonts/)
 docs/                       VYGENEROVANÝ web (needitovat ručně – přepíše ho build.py)
 .claude/agents/             specializovaní agenti: prekladatel, kontrola-prekladu
 Fronsberger/                původní pracovní překlad (export z Google Docs) – archiv, už se needituje

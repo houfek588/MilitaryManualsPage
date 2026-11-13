@@ -6,12 +6,13 @@
 <title>{{NAZEV}} – {{AUTOR}} {{ROK}}</title>
 <link rel="icon" href="../assets/favicon.png" type="image/png">
 <link rel="stylesheet" href="../assets/app.css">
+<script src="../assets/tema.js"></script>
 </head>
 <body>
 <header class="hlava">
   <div class="wrap hlava-in">
     <a class="znak" href="../index.html" title="{{WEB}} – úvodní stránka a všechny knihy"><img src="../assets/logo.png" alt="{{WEB}} – úvodní stránka" width="42" height="40"></a>
-    <a class="logo" href="#/">{{NAZEV}}<small>{{AUTOR}} · {{ROK}}</small></a>
+    <a class="logo" href="#/"><span class="jm">{{NAZEV}}</span><small>{{AUTOR}} · {{ROK}}</small></a>
     <nav class="menu">
       <a href="#/" data-m="obsah">Obsah</a>
       <a href="#/strany" data-m="strany">Strany</a>
@@ -20,6 +21,7 @@
     </nav>
     <div class="hledat"><input id="q" type="search" placeholder="Hledat v překladu i originálu…" autocomplete="off" aria-label="Hledat"></div>
     <button id="prepinac-orig" class="tl" type="button" aria-pressed="true" title="Zobrazit/skrýt německý originál (klávesa O)">Originál</button>
+    <nav class="socialni" aria-label="Sociální sítě">{{SOCIALNI}}</nav>
     <button id="prepinac-tema" class="tl ikona" type="button" title="Světlý / tmavý režim" aria-label="Přepnout motiv">◐</button>
   </div>
 </header>

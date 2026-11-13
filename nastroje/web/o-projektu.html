@@ -6,16 +6,18 @@
 <title>O projektu – {{WEB}}</title>
 <link rel="icon" href="assets/favicon.png" type="image/png">
 <link rel="stylesheet" href="assets/app.css">
+<script src="assets/tema.js"></script>
 </head>
 <body>
 <header class="hlava"><div class="wrap hlava-in">
   <a class="znak" href="index.html" title="{{WEB}} – úvodní stránka"><img src="assets/logo.png" alt="{{WEB}} – úvodní stránka" width="42" height="40"></a>
-  <a class="logo" href="index.html">{{WEB}}<small>{{PODTITUL}}</small></a>
+  <a class="logo" href="index.html"><span class="jm">{{WEB}}</span><small>{{PODTITUL}}</small></a>
   <nav class="menu">
     <a href="index.html">Knihovna</a>
     <a href="o-projektu.html" class="on">O projektu</a>
   </nav>
   <span class="hledat"></span>
+  <nav class="socialni" aria-label="Sociální sítě">{{SOCIALNI}}</nav>
   <button id="prepinac-tema" class="tl ikona" type="button" title="Světlý / tmavý režim" aria-label="Přepnout motiv">◐</button>
 </div></header>
 <main class="wrap clanek">
@@ -64,6 +66,5 @@
   jen pro nekomerční užití). Edice je nekomerční projekt.</p>
 </main>
 <footer class="pata wrap">{{PATICKA}}</footer>
-<script src="assets/tema.js"></script>
 </body>
 </html>

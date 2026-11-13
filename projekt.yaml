@@ -10,6 +10,11 @@ skupina:
   nazev: Fähnlein Rattenschwanz
   url: https://www.rattenschwanz.cz
 
+# Ikony sociálních sítí v hlavičce (stejné jako na webu skupiny)
+socialni:
+  facebook: https://www.facebook.com/Praporec-Rattenschwanz-104892576268537
+  instagram: https://www.instagram.com/rattenschwanz_fahnlein/
+
 # Repozitář projektu (až bude založený) – na stránce O projektu se objeví odkaz pro hlášení chyb přes GitHub.
 repozitar: ''
 

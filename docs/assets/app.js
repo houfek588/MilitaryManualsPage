@@ -386,12 +386,7 @@ const prepOrig = $('#prepinac-orig');
 function nastavOrig(v) { document.body.classList.toggle('bez-orig', !v); prepOrig.setAttribute('aria-pressed', v); prepOrig.textContent = v ? 'Originál' : 'Jen překlad'; uloz('orig', v); }
 prepOrig.onclick = () => nastavOrig(document.body.classList.contains('bez-orig'));
 nastavOrig(nacti('orig', true));
-const R = document.documentElement;
-const tema = nacti('tema', null); if (tema) R.dataset.theme = tema;
-$('#prepinac-tema').onclick = () => {
-  const dark = R.dataset.theme ? R.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
-  R.dataset.theme = dark ? 'light' : 'dark'; uloz('tema', R.dataset.theme);
-};
+// motiv (světlý/tmavý) obsluhuje společný assets/tema.js
 document.addEventListener('keydown', e => {
   if (e.target.closest('input,select,textarea') || e.ctrlKey || e.metaKey || e.altKey) return;
   if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {

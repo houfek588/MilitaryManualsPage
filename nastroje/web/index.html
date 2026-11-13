@@ -6,16 +6,18 @@
 <title>{{WEB}}</title>
 <link rel="icon" href="assets/favicon.png" type="image/png">
 <link rel="stylesheet" href="assets/app.css">
+<script src="assets/tema.js"></script>
 </head>
 <body>
 <header class="hlava"><div class="wrap hlava-in">
   <a class="znak" href="index.html" title="{{WEB}} – úvodní stránka"><img src="assets/logo.png" alt="" width="42" height="40"></a>
-  <a class="logo" href="index.html">{{WEB}}<small>{{PODTITUL}}</small></a>
+  <a class="logo" href="index.html"><span class="jm">{{WEB}}</span><small>{{PODTITUL}}</small></a>
   <nav class="menu">
     <a href="index.html" class="on">Knihovna</a>
     <a href="o-projektu.html">O projektu</a>
   </nav>
   <span class="hledat"></span>
+  <nav class="socialni" aria-label="Sociální sítě">{{SOCIALNI}}</nav>
   <button id="prepinac-tema" class="tl ikona" type="button" title="Světlý / tmavý režim" aria-label="Přepnout motiv">◐</button>
 </div></header>
 <main class="wrap">
@@ -23,7 +25,7 @@
   <p class="uvod">Dvojjazyčné edice vojenských traktátů 16. století: německý originál podle digitalizace a český překlad
   s poznámkami, věcným rejstříkem a odkazy na skeny tisku. Funguje i offline – stačí otevřít tento soubor.</p>
   <p class="upozorneni">Překlady jsou zatím převážně <b>strojové (AI)</b> a postupně je kontroluje člověk – u každé strany je
-  vyznačeno, zda už byla ověřena. Najdete-li chybu, <a href="mailto:{{EMAIL}}?subject=Vojensk%C3%A9%20manu%C3%A1ly%20%E2%80%93%20oprava">dejte prosím vědět</a>.
+  vyznačeno, zda už byla ověřena. Najdete-li chybu, dejte prosím vědět na <a href="mailto:{{EMAIL}}?subject=Vojensk%C3%A9%20manu%C3%A1ly%20%E2%80%93%20oprava">houfek.pavel@gmail.com</a>.
   Více <a href="o-projektu.html">o projektu</a>.</p>
   <div class="dlazdice" id="knihy"></div>
 </main>
@@ -38,6 +40,5 @@ document.getElementById('knihy').innerHTML = KNIHY.map(k => {
   <span class="m">${hotovo} z ${k.stran} stran přeloženo · ověřeno člověkem ${k.overeno || 0} · ${Object.entries(k.stav).map(([s,n])=>`${STAVY[s]||s} ${n}`).join(' · ')}</span></a>`;
 }).join('');
 </script>
-<script src="assets/tema.js"></script>
 </body>
 </html>
