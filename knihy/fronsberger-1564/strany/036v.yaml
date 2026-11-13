@@ -3,6 +3,7 @@ list: XXXVI
 strana: verso
 sken: 80
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: seznam
   de:

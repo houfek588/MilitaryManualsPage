@@ -3,6 +3,7 @@ list: CIIII
 strana: verso
 sken: 216
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: verse
   pokracovani: true

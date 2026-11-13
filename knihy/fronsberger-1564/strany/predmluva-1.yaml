@@ -3,6 +3,7 @@ list: předmluva
 strana: recto
 sken: 5
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 1

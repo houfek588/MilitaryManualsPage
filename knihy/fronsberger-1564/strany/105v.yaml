@@ -3,6 +3,7 @@ list: CV
 strana: verso
 sken: 218
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: verse
   pokracovani: true

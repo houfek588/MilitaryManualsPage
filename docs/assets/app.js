@@ -4,7 +4,7 @@
 const E = window.EDICE, M = E.meta;
 const $ = s => document.querySelector(s);
 const OBSAH = $('#obsah');
-const STAVY = {zkontrolovano:'zkontrolováno', prelozeno:'přeloženo (čeká na kontrolu)', castecne:'částečně přeloženo', chybi_preklad:'bez překladu', chybi_original:'bez textu'};
+const STAVY = {zkontrolovano:'zkontrolováno strojově', prelozeno:'přeloženo (čeká na kontrolu)', castecne:'částečně přeloženo', chybi_preklad:'bez překladu', chybi_original:'bez textu'};
 const STAV_PORADI = ['zkontrolovano','prelozeno','castecne','chybi_preklad','chybi_original'];
 
 // ---------- úložiště (nemusí být k dispozici)
@@ -52,11 +52,14 @@ function hodnota(v, typ, ctx) {
 }
 
 // ---------- vykreslení rozsahu bloků se značkami stran a poznámkami
+const ovZnacka = p => p.ov
+  ? ` · <span class="ov" title="Stranu prošel a schválil člověk${p.ov.datum ? ' ' + esc(p.ov.datum) : ''}${p.ov.kdo ? ' (' + esc(p.ov.kdo) + ')' : ''}">✓ ověřeno člověkem</span>`
+  : ' · <span class="neov" title="Stranu zatím neověřil člověk">neověřeno člověkem</span>';
 function predel(p, prvni) {
   const strn = p.strana === 'verso' ? 'levá strana' : 'pravá strana';
   return `<div class="predel" id="p-${p.id}"><span class="ik">📄</span><span>${prvni ? 'Strana' : 'Začátek strany'} <b>${folio(p)}</b> (sken č. ${p.sken}, ${strn})</span>
     <a href="#/strana/${p.id}">samostatná strana</a><a href="${skenUrl(p)}" target="_blank" rel="noopener">sken ↗</a>
-    <span class="stav"><span class="tecka" style="background:var(--st-${p.stav})"></span>${STAVY[p.stav] || p.stav}</span></div>`;
+    <span class="stav"><span class="tecka" style="background:var(--st-${p.stav})"></span>${STAVY[p.stav] || p.stav}${ovZnacka(p)}</span></div>`;
 }
 function poznamkyStrany(p, pouzite) {
   const ns = Object.keys(p.pozn || {}).filter(n => pouzite.has(n)).sort((a, b) => a - b);
@@ -127,6 +130,7 @@ V.obsah = () => {
     <p>${esc(M.popis || '')}</p>
     <p class="m">Překlad: ${esc(M.prekladatel || '')}. Sken: ${esc(M.sken.instituce)}, ${esc(M.sken.signatura)} (<a href="${M.sken.url_dilo}" target="_blank" rel="noopener">digitale-sammlungen.de ↗</a>).</p>
     <div class="postup">${postup}</div><div class="legenda">${leg}</div>
+    <p class="m"><span class="ov">✓</span> Ověřeno člověkem: <b>${E.overeno || 0}</b> z ${celk} stran (ostatní prošly jen strojovou kontrolou).</p>
     <p><a class="chip" href="#/kap/${ODD[0].id}">Začít číst</a><a class="chip" href="#/strany">Listovat po stranách</a><a class="chip" href="#/rejstrik">Věcný rejstřík</a><a class="chip" href="#/tisk">Stáhnout PDF</a></p>
   </div><figure><a href="${skenUrl(tit)}" target="_blank" rel="noopener"><img src="${skenObr(tit, 520)}" alt="Titulní list tisku z roku ${M.rok}" loading="lazy" onerror="if(!this.dataset.z){this.dataset.z=1;this.src='obrazky/drevorez-1.jpg'}else{this.closest('figure').hidden=true}"></a><figcaption>Titulní list (BSB München; offline titulní dřevořez)</figcaption></figure></div>
   <h2 class="sekce">Obsah</h2>
@@ -172,7 +176,7 @@ V.strany = () => {
   return `<h1>Strany tisku<span class="de">Listování podle původní foliace (líc r / rub v)</span></h1>
     <p class="uvod">Tisk je číslován po listech (foliace): r = líc, v = rub. List XVI má v tisku chybně číslo XVII.</p><div class="legenda">${leg}</div>` +
     Object.values(skup).map(g => `<h2 class="sekce">${inline(g.s.cs || g.s.de, null)}</h2><div class="mrizka">` +
-      g.p.map(p => `<a href="#/strana/${p.id}" style="--c:var(--st-${p.stav})" title="${STAVY[p.stav]}">${folio(p)}<small>sken ${p.sken}</small></a>`).join('') + '</div>').join('');
+      g.p.map(p => `<a href="#/strana/${p.id}" style="--c:var(--st-${p.stav})" title="${STAVY[p.stav]}${p.ov ? ' · ověřeno člověkem' : ''}">${folio(p)}${p.ov ? ' <span class="ov">✓</span>' : ''}<small>sken ${p.sken}</small></a>`).join('') + '</div>').join('');
 };
 
 V.rejstrik = () => {

@@ -25,6 +25,7 @@ nastroje/
   stahni_ocr_bsb.py         stažení OCR z digitale-sammlungen.de
   over_strany.py            kontrola dat (struktura, párování, poznámky, terminologie)
   normalizuj_zkratky.py     sjednocení přepisu zkratek tisku (ꝛc., vñ, …)
+  overeno_clovekem.py       označení stran, které ručně ověřil člověk (pole overeno_clovekem)
   vyrez_drevorezy.py        výřez dřevořezů ze skenu přes IIIF (bloky obrazek se souborem drevorez-*.jpg)
   build.py                  sestavení webu do docs/
   web/                      šablony a aplikace čtečky (app.js, app.css, kniha.html, index.html)
@@ -41,8 +42,10 @@ Fronsberger/                původní pracovní překlad (export z Google Docs) 
 ## Postup práce
 1. Korektura: uprav `knihy/<kniha>/strany/<id>.yaml` (nebo terminologii v `glosar.yaml`).
 2. Kontrola: `python -I nastroje/over_strany.py knihy/fronsberger-1564 [id …]`
-3. Sestavení webu: `python -I nastroje/build.py`
-4. Náhled: otevři `docs/index.html`, nebo `python -m http.server 8766 --directory docs` a http://localhost:8766/
+3. Ruční ověření: po přečtení a schválení strany `python -I nastroje/overeno_clovekem.py knihy/fronsberger-1564 001r-002v --kdo "jméno"`
+   (`--zrusit` zruší, `--prehled` vypíše ověřené). `stav: zkontrolovano` = strojová kontrola, `overeno_clovekem: true` = ověřil člověk.
+4. Sestavení webu: `python -I nastroje/build.py`
+5. Náhled: otevři `docs/index.html`, nebo `python -m http.server 8766 --directory docs` a http://localhost:8766/
 
 Nová kniha: vytvoř `knihy/<id>/` se stejnou strukturou (kniha.yaml, glosar.yaml, strany/) – build ji přidá do rozcestníku.
 

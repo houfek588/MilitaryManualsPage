@@ -426,7 +426,7 @@ def main():
             list=('titulní list' if p['id'] == 'titul' else _roman_label(p['num'])),
             strana=('recto' if not p['verso'] else 'verso'),
             sken=(1 if p['id'] == 'titul' else canvas(p['num'], p['verso'])),
-            stav=stav,
+            stav=stav, overeno_clovekem=False,
             bloky=out,
         )
         if notes:
@@ -444,12 +444,12 @@ def main():
             pid = page_id(num, verso)
             if pid not in have:
                 out_pages.append(dict(id=pid, list=_roman_label(num), strana='verso' if verso else 'recto',
-                                      sken=canvas(num, verso), stav='chybi_original', bloky=[]))
+                                      sken=canvas(num, verso), stav='chybi_original', overeno_clovekem=False, bloky=[]))
     # předsádka: věnování a předmluva (v pracovním překladu chybí)
     for pid, lbl, sk in (('venovani-1', 'věnování', 3), ('venovani-2', 'věnování', 4),
                          ('predmluva-1', 'předmluva', 5), ('predmluva-2', 'předmluva', 6)):
         out_pages.append(dict(id=pid, list=lbl, strana='recto' if sk % 2 else 'verso', sken=sk,
-                              stav='chybi_original', bloky=[]))
+                              stav='chybi_original', overeno_clovekem=False, bloky=[]))
     front = ['titul', 'venovani-1', 'venovani-2', 'predmluva-1', 'predmluva-2']
     out_pages.sort(key=lambda p: front.index(p['id']) - 10 if p['id'] in front else int(p['id'][:3]) * 2 + (p['id'][3] == 'v'))
     for p in out_pages:

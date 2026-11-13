@@ -3,6 +3,7 @@ list: CI
 strana: verso
 sken: 210
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: odstavec
   de: |-

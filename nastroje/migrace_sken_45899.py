@@ -55,7 +55,7 @@ def main():
         print(f'{stary} → {novy}')
     for pid in ('038v', '039r', '058v', '059r', '068v', '069r'):
         dump(dict(id=pid, list=roman(int(pid[:3])), strana='verso' if pid[3] == 'v' else 'recto',
-                  sken=novy_sken(pid), stav='chybi_original', bloky=[]), S / f'{pid}.yaml')
+                  sken=novy_sken(pid), stav='chybi_original', overeno_clovekem=False, bloky=[]), S / f'{pid}.yaml')
         print(f'nová prázdná strana {pid}')
     prejmenovat = {}
     for f in sorted(S.glob('*.yaml')):

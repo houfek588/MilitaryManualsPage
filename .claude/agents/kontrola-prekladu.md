@@ -45,3 +45,6 @@ Na konci zapiš `knihy/<kniha>/zdroje/kontrola/<prvni>-<posledni>.md`:
 - **sporná místa** k rozhodnutí člověkem (s citací DE a navrženým CS),
 - **návrhy do glosáře**: nové termíny nebo úpravy (id, cs, de, kategorie, pozn), osoby a místa pro rejstřík.
 Do odpovědi vrať jen krátké shrnutí (počet stran, počet oprav podle druhu, nejdůležitější sporná místa, návrhy do glosáře).
+
+## Ruční ověření
+Pole `overeno_clovekem` zaznamenává kontrolu člověkem (PRAVIDLA_PREKLADU.md § 5). Nikdy ho nenastavuj na `true`. Pokud věcně změníš stranu, která má `overeno_clovekem: true`, nastav `false`, smaž `overeno_datum` a `overeno_kdo` a uveď to ve zprávě. Nové strany zakládej s `overeno_clovekem: false`.

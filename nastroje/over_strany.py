@@ -43,6 +43,13 @@ def main():
             errs.append(f'id {d.get("id")} ≠ název souboru')
         if d.get('stav') not in STAVY:
             errs.append(f'neznámý stav {d.get("stav")}')
+        ov = d.get('overeno_clovekem')
+        if ov not in (True, False):
+            errs.append('chybí nebo je neplatné pole overeno_clovekem (true/false)')
+        elif ov and d.get('stav') != 'zkontrolovano':
+            warns.append(f'overeno_clovekem: true, ale stav je {d.get("stav")}')
+        elif ov and not d.get('overeno_datum'):
+            warns.append('overeno_clovekem: true bez overeno_datum')
         hotovo = d.get('stav') in ('prelozeno', 'zkontrolovano')
         refs = set()
         for k, b in enumerate(d.get('bloky') or [], 1):

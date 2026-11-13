@@ -3,6 +3,7 @@ list: XX
 strana: verso
 sken: 48
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: odstavec
   de: Item ein anzal Hellenparten.

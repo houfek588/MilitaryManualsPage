@@ -3,6 +3,7 @@ list: XXX
 strana: recto
 sken: 67
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: odstavec
   de: |-

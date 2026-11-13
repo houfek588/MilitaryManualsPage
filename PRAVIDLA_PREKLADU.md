@@ -14,6 +14,9 @@ list: XVIII            # číslo listu, jak je v tisku
 strana: recto          # recto = líc (pravá strana dvojstrany), verso = rub (levá)
 sken: 43               # pořadí skenu v digitalizaci (viz kniha.yaml → sken)
 stav: zkontrolovano    # chybi_original | chybi_preklad | castecne | prelozeno | zkontrolovano
+overeno_clovekem: false  # true = stranu prošel a schválil člověk (nastavuje JEN člověk, viz § 5)
+# overeno_datum: '2026-11-13'   # doplní nástroj overeno_clovekem.py
+# overeno_kdo: 'jméno'          # volitelné
 bloky:
 - typ: nadpis          # nadpis | odstavec | seznam | verse | obrazek | tabulka
   uroven: 2            # jen u nadpisu: 1 = kniha/hlavní část, 2 = kapitola, 3 = podkapitola
@@ -102,6 +105,15 @@ poznamky:              # poznámky překladatele k této straně
 
 ## 5. Stav strany
 `chybi_original` → `chybi_preklad` → `prelozeno` → `zkontrolovano`. Kontrolor po kontrole nastaví `zkontrolovano`.
+
+`stav: zkontrolovano` znamená strojovou kontrolu (agent kontrola-prekladu). Ruční kontrolu člověkem
+zaznamenává samostatné pole **`overeno_clovekem`**:
+- `false` = stranu zatím ověřil jen stroj; `true` = stranu prošel a schválil člověk (+ `overeno_datum`, volitelně `overeno_kdo`).
+- Nastavuje se příkazem `python -I nastroje/overeno_clovekem.py knihy/<kniha> 001r 001v` (rozsah `001r-010v`,
+  jméno `--kdo "…"`, zrušení `--zrusit`, přehled `--prehled`).
+- **Agenti (překladatel i kontrolor) toto pole nikdy nenastavují na `true` a nemažou ho.** Když agent na straně
+  s `overeno_clovekem: true` provede věcnou změnu textu, nastaví `overeno_clovekem: false`, smaže `overeno_datum`
+  a `overeno_kdo` a změnu uvede ve zprávě, aby ji člověk znovu ověřil.
 
 ## 6. Pomůcky
 - `knihy/<kniha>/zdroje/ocr_bsb/NNNN.txt` – OCR skenu NNNN (číslo = `sken`), po řádcích. Na kontrolu úplnosti.

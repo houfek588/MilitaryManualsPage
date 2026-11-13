@@ -3,6 +3,7 @@ list: LIX
 strana: recto
 sken: 125
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: odstavec
   de: |-

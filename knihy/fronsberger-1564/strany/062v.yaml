@@ -3,6 +3,7 @@ list: LXII
 strana: verso
 sken: 132
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 2

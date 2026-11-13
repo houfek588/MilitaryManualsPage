@@ -3,6 +3,7 @@ list: věnování
 strana: recto
 sken: 3
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 1

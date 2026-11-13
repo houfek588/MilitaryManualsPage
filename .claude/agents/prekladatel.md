@@ -38,3 +38,6 @@ Na konci zapiš `knihy/<kniha>/zdroje/kontrola/preklad-<prvni>-<posledni>.md`: o
 (1–2 věty na kapitolu), sporná místa (DE citace + tvůj překlad + proč je sporné), místa ověřená ve skenu,
 návrhy do glosáře (id, cs, de, kategorie, pozn) a osoby/místa pro rejstřík.
 Do odpovědi vrať jen krátké shrnutí.
+
+## Ruční ověření
+Pole `overeno_clovekem` zaznamenává kontrolu člověkem (PRAVIDLA_PREKLADU.md § 5). Nikdy ho nenastavuj na `true`. Pokud věcně změníš stranu, která má `overeno_clovekem: true`, nastav `false`, smaž `overeno_datum` a `overeno_kdo` a uveď to ve zprávě. Nové strany zakládej s `overeno_clovekem: false`.

@@ -3,6 +3,7 @@ list: CX
 strana: verso
 sken: 228
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 2

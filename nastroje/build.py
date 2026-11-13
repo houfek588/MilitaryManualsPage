@@ -101,6 +101,8 @@ def build_kniha(kniha_dir):
         pages.append(dict(id=pid, list=d.get('list'), strana=d.get('strana'), sken=d.get('sken'),
                           stav=d.get('stav'), od=od, do=len(blocks),
                           pozn={str(n['n']): n['text'] for n in d.get('poznamky') or []}))
+        if d.get('overeno_clovekem'):  # ruční kontrola člověkem
+            pages[-1]['ov'] = dict(datum=str(d.get('overeno_datum') or ''), kdo=d.get('overeno_kdo') or '')
     for i in stack:
         sections[i]['do'] = len(blocks)
 
@@ -145,16 +147,16 @@ def build_kniha(kniha_dir):
         stats[p['stav']] = stats.get(p['stav'], 0) + 1
     data = dict(meta={k: meta[k] for k in meta if k not in ('poznamky_k_prekladu',)},
                 kategorie=glos.get('kategorie', {}), stranky=pages, bloky=blocks, oddily=sections,
-                hesla=hesla, demap=de_map, stav=stats)
+                hesla=hesla, demap=de_map, stav=stats, overeno=sum(1 for p in pages if p.get('ov')))
     js = 'window.EDICE = ' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';\n'
     (out / 'data.js').write_text(js, encoding='utf-8')
     html = (WEB / 'kniha.html').read_text(encoding='utf-8')
     html = html.replace('src="data.js"', f'src="data.js?v={VERZE}"').replace('app.js"', f'app.js?v={VERZE}"').replace('app.css"', f'app.css?v={VERZE}"')
     html = html.replace('{{NAZEV}}', meta['nazev']).replace('{{AUTOR}}', meta['autor']).replace('{{ROK}}', str(meta['rok']))
     (out / 'index.html').write_text(html, encoding='utf-8')
-    print(f"{meta['id']}: {len(pages)} stran, {len(blocks)} bloků, {len(sections)} oddílů, {len(hesla)} hesel, data.js {len(js) // 1024} kB, {stats}")
+    print(f"{meta['id']}: {len(pages)} stran (ověřeno člověkem {data['overeno']}), {len(blocks)} bloků, {len(sections)} oddílů, {len(hesla)} hesel, data.js {len(js) // 1024} kB, {stats}")
     return dict(id=meta['id'], nazev=meta['nazev'], nazev_orig=meta['nazev_orig'], autor=meta['autor'], rok=meta['rok'],
-                popis=meta.get('popis', ''), stav=stats, stran=len(pages))
+                popis=meta.get('popis', ''), stav=stats, stran=len(pages), overeno=data['overeno'])
 
 
 def main():

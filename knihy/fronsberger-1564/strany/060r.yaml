@@ -3,6 +3,7 @@ list: LX
 strana: recto
 sken: 127
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: odstavec
   pokracovani: true

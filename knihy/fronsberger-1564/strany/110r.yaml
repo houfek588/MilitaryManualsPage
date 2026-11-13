@@ -3,6 +3,7 @@ list: CX
 strana: recto
 sken: 227
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: odstavec
   pokracovani: true

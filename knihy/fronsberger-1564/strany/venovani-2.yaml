@@ -3,6 +3,7 @@ list: věnování
 strana: verso
 sken: 4
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: odstavec
   pokracovani: true

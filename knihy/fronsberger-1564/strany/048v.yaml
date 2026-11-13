@@ -3,6 +3,7 @@ list: XLVIII
 strana: verso
 sken: 104
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 3

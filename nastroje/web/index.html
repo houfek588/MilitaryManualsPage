@@ -17,12 +17,12 @@
 </main>
 <script>
 const KNIHY = /*KNIHY*/[];
-const STAVY = {zkontrolovano:'zkontrolováno', prelozeno:'přeloženo', castecne:'částečně', chybi_preklad:'bez překladu', chybi_original:'bez textu'};
+const STAVY = {zkontrolovano:'zkontrolováno strojově', prelozeno:'přeloženo', castecne:'částečně', chybi_preklad:'bez překladu', chybi_original:'bez textu'};
 document.getElementById('knihy').innerHTML = KNIHY.map(k => {
   const hotovo = (k.stav.zkontrolovano||0) + (k.stav.prelozeno||0);
   return `<a class="dl kniha" href="${k.id}/index.html"><span class="rok">${k.rok}</span><b>${k.nazev}</b>
   <i class="de">${k.nazev_orig}</i><span>${k.autor}</span><p>${k.popis}</p>
-  <span class="m">${hotovo} z ${k.stran} stran přeloženo · ${Object.entries(k.stav).map(([s,n])=>`${STAVY[s]||s} ${n}`).join(' · ')}</span></a>`;
+  <span class="m">${hotovo} z ${k.stran} stran přeloženo · ověřeno člověkem ${k.overeno || 0} · ${Object.entries(k.stav).map(([s,n])=>`${STAVY[s]||s} ${n}`).join(' · ')}</span></a>`;
 }).join('');
 (function(){ const r=document.documentElement; let t=null; try{t=localStorage.getItem('tema')}catch(e){}
   if(t) r.dataset.theme=t;

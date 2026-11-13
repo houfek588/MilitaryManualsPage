@@ -3,6 +3,7 @@ list: předmluva
 strana: verso
 sken: 6
 stav: zkontrolovano
+overeno_clovekem: false
 bloky:
 - typ: odstavec
   pokracovani: true
