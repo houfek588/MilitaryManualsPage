@@ -1235,7 +1235,7 @@ hesla:
   de: [Sturmsold, Sturmsöld]
   kategorie: zold
   hledat: ['útočn\w* žold']
-  pozn: Mimořádný žold za útok (šturm) na opevněné místo; císařský artikulní list ho ruší.
+  pozn: Mimořádný žold za útok na opevněné místo; císařský artikulní list ho ruší.
 - id: vypalne
   cs: výpalné
   de: [brandtschatzen, brandschatzen, Brandschatzung]
@@ -1284,8 +1284,9 @@ hesla:
   cs: útok
   de: [Sturm, Sturms]
   kategorie: sluzba
-  hledat: ['\bútok', 'šturm']
-  pozn: Sturm – útok (zteč) na opevněné místo nebo průlom, dobově „šturm“.
+  nepouzivat: ['šturm']
+  hledat: ['\bútok']
+  pozn: Sturm – útok (zteč) na opevněné místo nebo průlom.
 - id: polni-znameni
   cs: polní znamení
   de: [Kreide, Kreiden, Kreyde]

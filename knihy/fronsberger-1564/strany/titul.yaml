@@ -7,7 +7,7 @@ bloky:
 - typ: nadpis
   uroven: 1
   de: KriegsOrdnung Vnd Regiment/
-  cs: Válečný řád a pluk {Regiment}[^1]
+  cs: Válečný řád a zřízení {Regiment}[^1]
 - typ: odstavec
   de: |-
     sampt derselbigen Befehl/Statt vnd Empter/zu Roß vnd Fuß/auch an Geschütz vnd Munition/in Zügen/zu Feldt/vor oder in Besatzungen/gegen oder vor den Feinden sich zu gebrauchen/mit schönen Figuren auffs neuw zugericht/gemehret/dergleichen hievor nicht getruckt worden/
@@ -31,4 +31,4 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Regiment zde znamená celé zřízení vojska (velení, úřady a jejich řád), nikoli jen útvar; titul je ustálený název díla („Válečný řád a pluk“). Na titulním listu je dřevořez: vojevůdce na koni uprostřed lancknechtů s dlouhými kopími a praporci.
+    Regiment zde znamená celé zřízení vojska (velení, úřady a jejich řád), nikoli jen útvar; titul je ustálený název díla („Válečný řád a zřízení“). Na titulním listu je dřevořez: vojevůdce na koni uprostřed lancknechtů s dlouhými kopími a praporci.

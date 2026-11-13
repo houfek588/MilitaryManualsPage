@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Vojenské manuály</title>
-<link rel="stylesheet" href="assets/app.css?v=202611130913">
+<link rel="stylesheet" href="assets/app.css?v=202611131013">
 </head>
 <body>
 <header class="hlava"><div class="wrap hlava-in"><a class="logo" href="index.html">Vojenské manuály<small>české překlady raně novověkých vojenských příruček</small></a>
@@ -16,7 +16,7 @@
   <div class="dlazdice" id="knihy"></div>
 </main>
 <script>
-const KNIHY = [{"id": "fronsberger-1564", "nazev": "Válečný řád a pluk", "nazev_orig": "Kriegs Ordnung vnd Regiment", "autor": "Leonhart Fronsperger", "rok": 1564, "popis": "Příručka organizace žoldnéřského vojska 16. století: úřady, přísahy a povinnosti velitelů jízdy, pěchoty a dělostřelectva, soudní řád lancknechtů, artikulní list, posádky a obrana měst a obecná poučení o vedení války.", "stav": {"zkontrolovano": 249}, "stran": 249}];
+const KNIHY = [{"id": "fronsberger-1564", "nazev": "Válečný řád a zřízení", "nazev_orig": "Kriegs Ordnung vnd Regiment", "autor": "Leonhart Fronsperger", "rok": 1564, "popis": "Příručka organizace žoldnéřského vojska 16. století: úřady, přísahy a povinnosti velitelů jízdy, pěchoty a dělostřelectva, soudní řád lancknechtů, artikulní list, posádky a obrana měst a obecná poučení o vedení války.", "stav": {"zkontrolovano": 249}, "stran": 249}];
 const STAVY = {zkontrolovano:'zkontrolováno', prelozeno:'přeloženo', castecne:'částečně', chybi_preklad:'bez překladu', chybi_original:'bez textu'};
 document.getElementById('knihy').innerHTML = KNIHY.map(k => {
   const hotovo = (k.stav.zkontrolovano||0) + (k.stav.prelozeno||0);

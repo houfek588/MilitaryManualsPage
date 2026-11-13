@@ -118,8 +118,7 @@ V.obsah = () => {
     const p = STR[s.p];
     const pol = `<a class="pol" href="#/kap/${s.id}"><span class="fol">${folio(p)}</span>${inline(s.cs || s.de, null)}</a>`;
     if (!s.deti.length) return `<li class="u${s.u}">${pol}</li>`;
-    const otevreno = s.u === 1 ? ' open' : '';
-    return `<li class="u${s.u}"><details${otevreno}><summary>${pol}</summary><ul>${s.deti.map(strom).join('')}</ul></details></li>`;
+    return `<li class="u${s.u}"><details><summary>${pol}</summary><ul>${s.deti.map(strom).join('')}</ul></details></li>`;
   };
   const tit = STR[0];
   return `<div class="titul"><div>
