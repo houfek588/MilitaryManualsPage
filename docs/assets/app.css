@@ -105,14 +105,16 @@ a.tl{display:inline-block;text-decoration:none}
 .toc li{margin:0}
 .toc a.pol{display:block;padding:5px 6px;border-radius:4px;color:var(--ink);text-decoration:none}
 .toc a.pol:hover{background:var(--hover)}
-.toc .u1>a.pol{font-weight:bold;font-size:18px;margin-top:10px}
-.toc .u3>a.pol{font-size:15px}
-.toc .fol{float:right;font-size:12px;color:var(--muted);margin-left:10px}
-.toc details>summary{cursor:pointer;list-style:none}
+.toc li>a.pol{padding-left:24px}  /* položky bez rozbalovače zarovnat s textem položek se šipkou */
+.toc .u1>a.pol,.toc .u1>details>summary>a.pol{font-weight:bold;font-size:18px}
+.toc .u1>a.pol,.toc .u1>details>summary{margin-top:10px}
+.toc .u3>a.pol,.toc .u3>details>summary>a.pol{font-size:15px}
+.toc .fol{float:right;font-size:12px;color:var(--muted);margin-left:10px;font-weight:normal}
+.toc details>summary{cursor:pointer;list-style:none;display:flex;align-items:baseline}
 .toc details>summary::-webkit-details-marker{display:none}
-.toc details>summary::before{content:"▸";display:inline-block;width:16px;color:var(--muted);transition:transform .15s}
+.toc details>summary::before{content:"▸";flex:none;width:18px;text-align:center;color:var(--muted);transition:transform .15s}
 .toc details[open]>summary::before{transform:rotate(90deg)}
-.toc summary a.pol{display:inline-block}
+.toc summary a.pol{flex:1;min-width:0}
 
 /* čtení: zrcadlové zobrazení */
 .ctecka{margin-top:8px}

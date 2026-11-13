@@ -62,8 +62,8 @@ def staticka_stranka(sablona, knihy=None):
     if not casti:
         casti.append(f'<p>Chcete-li projekt podpořit, napište mi prosím na <a href="mailto:{esc(P["email"])}?subject=Podpora%20projektu">{esc(P["email"])}</a> – rád pošlu podrobnosti.</p>')
     dar_html = ('<div class="dar"><p>Překlady vznikají ve volném čase a jejich zpracování (výpočetní kapacita pro AI, '
-                'čas na ruční kontrolu, případně tisk) něco stojí. Pokud vám edice pomáhá – při reenactmentu, '
-                'studiu nebo vedení skupiny – budu vděčný za jakýkoli příspěvek. Děkuji!</p>' + ''.join(casti) + '</div>')
+                'čas na ruční kontrolu, případně tisk) něco stojí. Pokud vám edice pomáhá, ať při reenactmentu, '
+                'studiu, výzkumu nebo vedení skupiny, budu vděčný za jakýkoli příspěvek. Děkuji!</p>' + ''.join(casti) + '</div>')
     repo = (f' Případně založte issue na <a href="{esc(P["repozitar"])}/issues" target="_blank" rel="noopener">GitHubu</a>.'
             if P.get('repozitar') else '')
     paticka = (f'<a href="index.html">Knihovna</a> · <a href="o-projektu.html">O projektu</a> · '
