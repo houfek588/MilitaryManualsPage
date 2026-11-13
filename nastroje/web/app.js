@@ -52,13 +52,29 @@ function hodnota(v, typ, ctx) {
 }
 
 // ---------- vykreslení rozsahu bloků se značkami stran a poznámkami
+const hlasit = p => {
+  const P = E.projekt || {};
+  const odkaz = location.href.split('#')[0] + '#/strana/' + p.id;
+  const predmet = `${M.nazev} – ${folio(p)} – oprava`;
+  const telo = `Kniha: ${M.nazev} (${M.nazev_orig}, ${M.rok})
+Strana: ${folio(p)} (soubor ${p.id}.yaml, sken ${p.sken})
+Odkaz: ${odkaz}
+
+Citace (originál nebo překlad):
+
+Navrhovaná oprava:
+
+Zdůvodnění / zdroj:
+`;
+  return `mailto:${P.email || ''}?subject=${encodeURIComponent(predmet)}&body=${encodeURIComponent(telo)}`;
+};
 const ovZnacka = p => p.ov
   ? ` · <span class="ov" title="Stranu prošel a schválil člověk${p.ov.datum ? ' ' + esc(p.ov.datum) : ''}${p.ov.kdo ? ' (' + esc(p.ov.kdo) + ')' : ''}">✓ ověřeno člověkem</span>`
   : ' · <span class="neov" title="Stranu zatím neověřil člověk">neověřeno člověkem</span>';
 function predel(p, prvni) {
   const strn = p.strana === 'verso' ? 'levá strana' : 'pravá strana';
   return `<div class="predel" id="p-${p.id}"><span class="ik">📄</span><span>${prvni ? 'Strana' : 'Začátek strany'} <b>${folio(p)}</b> (sken č. ${p.sken}, ${strn})</span>
-    <a href="#/strana/${p.id}">samostatná strana</a><a href="${skenUrl(p)}" target="_blank" rel="noopener">sken ↗</a>
+    <a href="#/strana/${p.id}">samostatná strana</a><a href="${skenUrl(p)}" target="_blank" rel="noopener">sken ↗</a><a href="${hlasit(p)}" title="Poslat opravu nebo připomínku k této straně e-mailem">nahlásit chybu</a>
     <span class="stav"><span class="tecka" style="background:var(--st-${p.stav})"></span>${STAVY[p.stav] || p.stav}${ovZnacka(p)}</span></div>`;
 }
 function poznamkyStrany(p, pouzite) {
@@ -300,6 +316,7 @@ V.oEdici = () => `<h1>O edici</h1>
   doplňky překladatele jsou v [hranatých závorkách].</p>
   <p>Strany jsou označeny podle foliace tisku: <b>r</b> (recto) = líc listu, pravá strana dvojstrany; <b>v</b> (verso) = rub, levá strana. „Sken č.“ odkazuje na pořadí snímku v digitalizaci BSB.</p>
   <p class="m">Licence skenů: ${esc(M.sken.licence || '')}.</p>
+  <p>Překlad vznikl převážně s pomocí AI a postupně ho kontroluje člověk – u každé strany je vyznačeno, zda už byla ověřena. Opravy a připomínky posílejte přes odkaz „nahlásit chybu“ u příslušné strany. Více na stránce <a href="../o-projektu.html">O projektu</a>.</p>
   <p class="m">Ovládání: ← → předchozí/další kapitola nebo strana · O skrýt/zobrazit originál · / hledat.</p>`;
 V.nenalezeno = () => '<h1>Nenalezeno</h1><p><a href="#/">Zpět na obsah</a></p>';
 

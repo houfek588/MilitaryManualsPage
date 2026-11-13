@@ -1,20 +1,35 @@
 <!doctype html>
+<!-- VYGENEROVÁNO nástrojem nastroje/build.py – NEEDITUJ, změny se při dalším sestavení přepíšou.
+     Text uprav v nastroje/web/index.html, nastavení (autor, kontakt, skupina, dar) v projekt.yaml. -->
 <html lang="cs">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Vojenské manuály</title>
-<link rel="stylesheet" href="assets/app.css?v=202611131020">
+<link rel="icon" href="assets/favicon.png" type="image/png">
+<link rel="stylesheet" href="assets/app.css?v=202611131100">
 </head>
 <body>
-<header class="hlava"><div class="wrap hlava-in"><a class="logo" href="index.html">Vojenské manuály<small>české překlady raně novověkých vojenských příruček</small></a>
-<button id="prepinac-tema" class="tl ikona" type="button" title="Světlý / tmavý režim" aria-label="Přepnout motiv">◐</button></div></header>
+<header class="hlava"><div class="wrap hlava-in">
+  <a class="znak" href="index.html" title="Vojenské manuály – úvodní stránka"><img src="assets/logo.png" alt="" width="42" height="40"></a>
+  <a class="logo" href="index.html">Vojenské manuály<small>české překlady raně novověkých vojenských příruček</small></a>
+  <nav class="menu">
+    <a href="index.html" class="on">Knihovna</a>
+    <a href="o-projektu.html">O projektu</a>
+  </nav>
+  <span class="hledat"></span>
+  <button id="prepinac-tema" class="tl ikona" type="button" title="Světlý / tmavý režim" aria-label="Přepnout motiv">◐</button>
+</div></header>
 <main class="wrap">
   <h1>Knihovna</h1>
   <p class="uvod">Dvojjazyčné edice vojenských traktátů 16. století: německý originál podle digitalizace a český překlad
   s poznámkami, věcným rejstříkem a odkazy na skeny tisku. Funguje i offline – stačí otevřít tento soubor.</p>
+  <p class="upozorneni">Překlady jsou zatím převážně <b>strojové (AI)</b> a postupně je kontroluje člověk – u každé strany je
+  vyznačeno, zda už byla ověřena. Najdete-li chybu, <a href="mailto:houfek.pavel@gmail.com?subject=Vojensk%C3%A9%20manu%C3%A1ly%20%E2%80%93%20oprava">dejte prosím vědět</a>.
+  Více <a href="o-projektu.html">o projektu</a>.</p>
   <div class="dlazdice" id="knihy"></div>
 </main>
+<footer class="pata wrap"><a href="index.html">Knihovna</a> · <a href="o-projektu.html">O projektu</a> · Pavel Houfek, <a href="mailto:houfek.pavel@gmail.com">houfek.pavel@gmail.com</a> · pro skupinu <a href="https://www.rattenschwanz.cz" target="_blank" rel="noopener">Fähnlein Rattenschwanz</a></footer>
 <script>
 const KNIHY = [{"id": "fronsberger-1564", "nazev": "Válečný řád a zřízení", "nazev_orig": "Kriegs Ordnung vnd Regiment", "autor": "Leonhart Fronsperger", "rok": 1564, "popis": "Příručka organizace žoldnéřského vojska 16. století: úřady, přísahy a povinnosti velitelů jízdy, pěchoty a dělostřelectva, soudní řád lancknechtů, artikulní list, posádky a obrana měst a obecná poučení o vedení války.", "stav": {"zkontrolovano": 249}, "stran": 249, "overeno": 0}];
 const STAVY = {zkontrolovano:'zkontrolováno strojově', prelozeno:'přeloženo', castecne:'částečně', chybi_preklad:'bez překladu', chybi_original:'bez textu'};
@@ -24,10 +39,7 @@ document.getElementById('knihy').innerHTML = KNIHY.map(k => {
   <i class="de">${k.nazev_orig}</i><span>${k.autor}</span><p>${k.popis}</p>
   <span class="m">${hotovo} z ${k.stran} stran přeloženo · ověřeno člověkem ${k.overeno || 0} · ${Object.entries(k.stav).map(([s,n])=>`${STAVY[s]||s} ${n}`).join(' · ')}</span></a>`;
 }).join('');
-(function(){ const r=document.documentElement; let t=null; try{t=localStorage.getItem('tema')}catch(e){}
-  if(t) r.dataset.theme=t;
-  document.getElementById('prepinac-tema').onclick=()=>{const dark = r.dataset.theme ? r.dataset.theme==='dark' : matchMedia('(prefers-color-scheme: dark)').matches;
-    r.dataset.theme = dark?'light':'dark'; try{localStorage.setItem('tema', r.dataset.theme)}catch(e){}};})();
 </script>
+<script src="assets/tema.js?v=202611131100"></script>
 </body>
 </html>

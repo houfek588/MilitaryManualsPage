@@ -1,0 +1,23 @@
+# Nastavení celého webu (rozcestník, stránka „O projektu“, patička). Po změně spusť: python -I nastroje/build.py
+
+nazev: Vojenské manuály
+podtitul: české překlady raně novověkých vojenských příruček
+
+autor: Pavel Houfek
+email: houfek.pavel@gmail.com
+
+skupina:
+  nazev: Fähnlein Rattenschwanz
+  url: https://www.rattenschwanz.cz
+
+# Repozitář projektu (až bude založený) – na stránce O projektu se objeví odkaz pro hlášení chyb přes GitHub.
+repozitar: ''
+
+# Podpora projektu. Vyplň, co chceš zveřejnit; prázdné položky se nezobrazí.
+# Když nevyplníš nic, stránka vyzve k podpoře e-mailem.
+dar:
+  odkaz: ''          # např. https://ko-fi.com/… nebo https://www.paypal.me/…
+  odkaz_text: ''     # text tlačítka, např. „Podpořit přes Ko-fi“
+  ucet: '238643225/0600'           # číslo účtu pro převod, např. 123456789/0800
+  zprava: ''         # doporučená zpráva pro příjemce, např. „Vojenske manualy“
+  qr: 'payment_qr.png'   # obrázek QR platby v nastroje/web/ (prázdné = bez QR)
