@@ -1,0 +1,61 @@
+id: 032v
+list: XXXII
+strana: verso
+sken: 72
+stav: zkontrolovano
+bloky:
+- typ: seznam
+  de:
+  - 'Darnach den Wagen mit den Winden/Hebeisen/Hämmern/Schlegeln/Zangen vnd dergleichen/so man zu den zügen gebraucht/auffzurichten.'
+  - 'Item darnach alle Quarthanen.'
+  - 'Darnach alle Singerin.'
+  - 'Item auff jede Singerin jhr gefeß.'
+  - 'Darnach alle Nachtgallen.'
+  - 'Item auff jede Nachtgall jhr gefeß.'
+  - 'Darnach alle Basilisca.'
+  - 'Item auff jeden Basiliscen sein gefeß.'
+  - 'Darnach alle Scharpffmetzen vnd beyd Fewrbüchsen.'
+  - 'Item auff jede Scharpffmetz jhr gefeß.'
+  - 'Darnach alle kleyne Böler.'
+  - 'Darnach ein halben Böler oder Narren.'
+  - 'Darnach die grosse Narren oder Böler.'
+  - 'Item darnach den Wagen mit Stützbeumen/Blöcken vnd Vntersetzeln.'
+  - 'Darnach den Wagen mit der Schmidten/vnd was darzu gehört.'
+  - 'Darnach den Wagen mit den Wischern/Ansetzkolben/beyd Schauflen zu dem grossen geschütz.'
+  - 'Darnach den Wagen mit Zimmer vnnd Wagner zeug/vnnd Schmid zeugwagen.'
+  - 'Darnach den Wagen mit den Lanseylern/Lannageln/Hebtremeln/so man braucht in die Reder zustossen/wann man gehn berg abferth.'
+  - 'Item darnach die Wägen mit dem Puluer/darnach die Kugel Wägen zu dem Feldtgeschütz.'
+  - 'Darnach den Wagen mit den Zündtstricken.'
+  - 'Darnach die Kugelwägen zum grossen geschütz.'
+  cs:
+  - 'Potom vůz s rumpály {Winden}, páčidly {Hebeisen}, kladivy, palicemi, kleštěmi a podobnými věcmi, jichž se užívá u kladkostrojů {zügen}[^1] ke zdvihání.'
+  - 'Dále potom všechny čtvrtkartouny {Quarthanen}.'
+  - 'Potom všechny zpěvačky {Singerin}.'
+  - 'Dále ke každé zpěvačce její lafetu {gefeß}.'
+  - 'Potom všechny slavíky {Nachtgallen}.'
+  - 'Dále ke každému slavíku jeho lafetu.'
+  - 'Potom všechny bazilišky {Basilisca}.'
+  - 'Dále ke každému bazilišku jeho lafetu.'
+  - 'Potom všechny šarfmece {Scharpffmetzen} a oba ohnivé moždíře {Fewrbüchsen}.'
+  - 'Dále ke každé šarfmeci její lafetu.'
+  - 'Potom všechny malé moždíře {Böler}.'
+  - 'Potom poloviční moždíř neboli blázna {Narren}[^2].'
+  - 'Potom velké blázny neboli moždíře.'
+  - 'Dále potom vůz s podpěrnými trámy {Stützbeumen}, špalky a podložkami {Vntersetzeln}.'
+  - 'Potom vůz s kovárnou {Schmidten} a s tím, co k ní patří.'
+  - 'Potom vůz s vytěráky {Wischern}, pěchy {Ansetzkolben} a také s nabíjecími lžícemi {Schauflen} k velkým dělům {geschütz}.'
+  - 'Potom vůz s tesařským a kolářským nářadím a vůz s kovářským nářadím.'
+  - 'Potom vůz s provazy k ojnicím {Lanseylern}, hřeby k ojnicím {Lannageln} a sochory {Hebtremeln}, které se strkají do kol, když se jede z kopce.'
+  - 'Dále potom vozy s prachem {Puluer}, potom vozy s koulemi k polním dělům {Feldtgeschütz}.'
+  - 'Potom vůz s doutnáky {Zündtstricken}.'
+  - 'Potom vozy s koulemi k velkým dělům.'
+- typ: odstavec
+  de: |-
+    Vnd allwegen die kleynsten Kuglen sollen vor den grossen geführt werden/zugleich wie das geschütz geführt wird.
+  cs: |-
+    A vždy se mají nejmenší koule {Kuglen} vézt před velkými, stejně jako se vezou děla.
+poznamky:
+- n: 1
+  text: züge – zde kladkostroje (Flaschenzüge), jimiž se těžké hlavně zvedaly z vozů a do lafet.
+- n: 2
+  text: Narr („blázen“) – dobová přezdívka moždíře; tisk ji klade na roveň „Böler“.

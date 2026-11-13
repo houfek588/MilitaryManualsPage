@@ -1,0 +1,25 @@
+id: 007r
+list: VII
+strana: recto
+sken: 21
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Des Obersten Feld Profosen Ampt/Befelch vnd Eydt.
+  cs: |-
+    Úřad, pověření a přísaha nejvyššího polního profouse {Obersten Feld Profosen}
+- typ: obrazek
+  soubor: drevorez-21.jpg
+  popis: |-
+    Nejvyšší polní profous s holí na ležení: postava v plášti s klobouku před stany a houfem knechtů; oválný medailon v rámu s trofejemi.
+- typ: odstavec
+  de: |-
+    SEin Ampt ist/daß er im Zug vnd sonst sich fast vmb vnnd bey dem General Obersten halt/damit was sich zůträgt/jhn der Oberst bey der handt haben mög/Dann so befilcht der Oberst/so etwann etlich vnerbarlich vbel theten/oder sich andere straffbare sachen zůtrügen/dem Profosen gegen den vberträttern zuhandeln/der lůgt dann mit hülff des Obersten vnd seiner Trabanten/daß dieselbigen vbelthäter dem Profosen vnter welchs Regiment er gehört/vberantwort werde/dem sagt dann der Profoß/was er rechtlich oder sonst auß befelch des Obersten gegen dem vbelthäter handeln vnd vollstrecken soll.
+  cs: |-
+    Jeho úřadem je zdržovat se na pochodu {Zug} i jindy pokud možno v blízkosti nejvyššího polního hejtmana {General Obersten}, aby ho nejvyšší [hejtman] měl po ruce, ať se přihodí cokoli. Kdyby se totiž někteří nečestně provinili nebo kdyby se staly jiné trestné věci, nejvyšší [hejtman] nařídí profousovi, aby proti provinilcům zakročil. Ten se pak s pomocí nejvyššího [hejtmana] a jeho drabantů {Trabanten} postará, aby tito zločinci byli předáni profousovi pluku {Regiment}, k němuž patří, a nejvyšší profous mu pak řekne, jak má se zločincem podle práva nebo jinak na rozkaz nejvyššího [hejtmana] naložit a co na něm vykonat.
+- typ: odstavec
+  de: |-
+    So auch die andern Profosen vnter den Regimenten etwas fehl oder mangel haben/so das Regiment oder ander jrs Ampts sachen betreffen/bringen sie durch den Obersten Profosen an den Obersten.
+  cs: |-
+    Mají-li také ostatní profousové u pluků nějaké potíže nebo nedostatky, které se týkají pluku nebo jiných věcí jejich úřadu, přednášejí je nejvyššímu [hejtmanovi] prostřednictvím nejvyššího profouse.

@@ -1,0 +1,56 @@
+id: 029v
+list: XXIX
+strana: verso
+sken: 66
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    hinden oder vor einer nit was der ander fürt/es were auch nit allwegen gůt daß mans wissen solt.
+  cs: |-
+    za ním nebo před ním neví, co veze ten druhý; a také by nebylo vždy dobré, aby se to vědělo.
+- typ: odstavec
+  de: |-
+    Alles so man zu notturfft deß Kriegßuolcks mit der Munition führt/als Harnisch/Spieß/Spießeisen/Handbüchßen/Bley/Hůffeisen/Nägel/Puluer/Zündpuluer/Zündtstrick/vnd alles anders so man zu gemeyner notturfft deß hauffen mitführt/soll der Zeugwart einem jeden so sein notturfftig ist/vmb ein gelt wie es taxiert ist/mittheylen/vnd was er also hinweg gibt/soll er fleissig vnd ordentlich beschreiben/damit er in vberantwortung deß gelößten vnd empfangnen gelts wisse gůte/ordentliche/erbare/vnd eygentliche rechnung zuthůn.
+  cs: |-
+    Všechno, co se pro potřebu válečného lidu {Kriegßuolcks} veze s municí {Munition} – jako zbroj {Harnisch}, kopí {Spieß}, hroty kopí, ručnice {Handbüchßen}, olovo, podkovy, hřebíky, prach {Puluer}, zápalný prach {Zündpuluer}, doutnáky {Zündtstrick} a všechno ostatní, co se veze pro obecnou potřebu vojska {hauffen} –, má zbrojní správce {Zeugwart} vydávat každému, kdo to potřebuje, za peníze podle stanovené taxy. A co takto vydá, má pilně a řádně zapisovat, aby při odevzdávání stržených a přijatých peněz uměl podat dobré, řádné, poctivé a přesné vyúčtování.
+- typ: odstavec
+  de: |-
+    Auch tregt sich zu/So man sich versicht ein Schlacht/Sturm/oder sonst ein gefährlichen zug in der Feind Landt zuthůn/So schlecht man im gantzen Läger vmb vnter allen Fändlin/daß die schützen sollen Kraut vnd Loth holen/alßdann schickt jeder Hauptmann zwen Rottmeyster oder die Weybel mit sampt einem seiner Trabanten/vnnd einer schrifftlichen verbitschierten anzeyg/wieuil jeder Schützen vnter seinem Fändlin hat/dem Zeugmeyster/der befilcht dann dem Zeugwart auff jeglich fändlin nach anzal der Schützen puluer vnnd bley zugeben/den vberschickten verbitschierten zedel eines jeden Hauptmanns läßt der Zeugmeyster in sein Register abschreiben/nachmals schickt man den zedel dem Zeugwarten/darmit er denselbigen zu der Rechnung einlegen möge.
+  cs: |-
+    Stává se také, že když se očekává bitva, útok {Sturm} nebo jiné nebezpečné tažení {zug} do nepřátelské země, dá se v celém ležení {Läger} u všech praporců {Fändlin} vybubnovat, aby si střelci {schützen} přišli pro prach a olovo {Kraut vnd Loth}[^1]. Tu pošle každý hejtman {Hauptmann} zbrojmistrovi {Zeugmeyster} dva rotmistry {Rottmeyster} nebo šikovatele {Weybel} spolu s jedním ze svých drabantů {Trabanten} a s písemným zapečetěným oznámením, kolik střelců má ve svém praporci. Zbrojmistr pak nařídí zbrojnímu správci, aby každému praporci vydal prach a olovo podle počtu střelců. Zaslaný zapečetěný lístek každého hejtmana dá zbrojmistr opsat do svého rejstříku a potom se lístek pošle zbrojnímu správci, aby ho mohl přiložit k vyúčtování.
+- typ: odstavec
+  de: |-
+    Vnnd gibt man gewönlich auff einen Schützen ein vierling Puluer/vnd ein halb pfund Bley.
+  cs: |-
+    A obvykle se dává na jednoho střelce čtvrt libry {vierling}[^2] prachu a půl libry {pfund} olova.
+- typ: odstavec
+  de: |-
+    Dörffen sie dann Zündtstrick/soll jhnen vngefährlich auff tag vnnd nacht mitgetheylt werden/ist vnnot/daß man jhnen zuuil gebe/dann gibt man viel/so verderbt man vil vnnützlich/Deßgleichen so man schlagen oder Stürmen wil/schlecht man gemeynlich vmb/welcher Harnisch/Spieß oder dergleichen bedarff/daß er sich seinem Hauptmann anzeyge/der läßt es dann an Zeugmeyster gelangen/der befilcht darnach dem Zeugwart/wie hieuor vom Puluer vnd Bley auch gemelt.
+  cs: |-
+    Potřebují-li pak doutnáky, má se jim přidělit přibližně na den a noc; není zapotřebí dávat jim příliš mnoho, neboť když se dá mnoho, mnoho se zbytečně zkazí. Stejně tak když se chystá bitva nebo útok, dá se obvykle vybubnovat, aby se ten, kdo potřebuje zbroj, kopí nebo podobné věci, ohlásil svému hejtmanovi. Ten to dá vědět zbrojmistrovi a zbrojmistr pak dá rozkaz zbrojnímu správci, jak bylo také výše řečeno o prachu a olovu.
+- typ: odstavec
+  de: |-
+    Dem gibt man dann vmb ein zimlichs gelt/vnd welcher dann nit bar zubezalen hat/dem zeucht man Monats an der bezalung daran ab ein gülden/oder darnach er besoldung hat/den helt der Hauptmann inn/vnd vberantwort dem Zeugwarten das gelt/das alles soll der Zeugwart fleissig vnnd ordentlich beschreiben/auch jedem Hauptmann die Harnisch selbs behändigen/vnnd ein verbitschierte bekanntnuß nemen.
+  cs: |-
+    Tomu se to pak vydá za přiměřené peníze. Kdo nemá čím hotově zaplatit, tomu se měsíčně strhne z výplaty jeden zlatý {gülden}, nebo podle toho, jaký má žold {besoldung}; ty peníze zadrží hejtman a odevzdá je zbrojnímu správci. To všechno má zbrojní správce pilně a řádně zapisovat, každému hejtmanovi zbroj sám předat a vzít si od něho zapečetěné potvrzení.
+- typ: odstavec
+  de: |-
+    Gleicher gestalt geschicht mit allem andern/so man vnter die Kriegßleuth gibt/sie seien zu Pferdt oder Füß/were auch daß man mehr schützen haben wölt/wo dann ein Knecht ein Rohr vom Zeugwarten nimpt/so soll der Zeugwart sein wehr/ob er ein ander hat/vmb ein zimlichs gelt der tax nach von jme nemen.
+  cs: |-
+    Stejně se postupuje se vším ostatním, co se rozdává válečníkům {Kriegßleuth}, ať jsou na koni, nebo pěší. A kdyby se chtělo mít víc střelců a některý knecht {Knecht} si vezme od zbrojního správce ručnici {Rohr}[^3], má od něho zbrojní správce převzít jeho [dosavadní] zbraň, má-li nějakou jinou, za přiměřené peníze podle taxy.
+- typ: odstavec
+  de: |-
+    So dann die wägen also mit Puluer/Kuglen/Harnisch/Spiessen vnd ander Munition geringert/so soll man die Fürleuth so sie es begeren/abfertigen vnd ziehen lassen/doch den besten Zeug behalten/wie vornen auch gemelt ist.
+  cs: |-
+    Když pak vozy takto ulehčí od prachu, koulí {Kuglen}, zbroje, kopí a jiné munice, mají se vozkové {Fürleuth}, pokud o to žádají, vyplatit a nechat odjet; nejlepší povozy {Zeug}[^4] je však třeba si ponechat, jak bylo také řečeno výše.
+poznamky:
+- n: 1
+  text: Kraut vnd Loth – dobové rčení pro střelný prach („koření“) a olovo na kule.
+- n: 2
+  text: Vierling – čtvrtina libry, tj. asi 0,12–0,14 kg.
+- n: 3
+  text: Rohr – zde ruční palná zbraň (ručnice), nikoli hlaveň děla.
+- n: 4
+  text: Zeug – zde nejspíš nejlepší vozy s koňmi a postroji, které si dělostřelectvo ponechává i po vyprázdnění vozů.

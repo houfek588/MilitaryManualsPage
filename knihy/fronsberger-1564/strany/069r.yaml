@@ -1,0 +1,79 @@
+id: 069r
+list: LXIX
+strana: recto
+sken: 145
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Zum sechsten/ist das zůtrincken verbotten/dermassen/welcher voll wird/der auffruhr oder anders anricht/der soll gestrafft werden an leib vnd gůt.
+  cs: |-
+    Za šesté: Připíjení {zůtrincken}[^1] je zakázáno, a to tak, že kdo se opije a způsobí pozdvižení nebo něco jiného, má být potrestán na těle a na statku.
+- typ: odstavec
+  de: |-
+    Zum sibenden/welcher Kindbetterin/schwangere Weiber oder Jungfrawen/alte leuth/oder Priesterschafft/vnd andere Geystliche leuth/auch die Kirchen güter/vnd was darzů gehört/in vnehren hielt/der soll gestrafft werden ohn alle gnad/sonder sollen die schützen vnd schirmen/vnd in keyn weg beleydigen.
+  cs: |-
+    Za sedmé: Kdo by šestinedělky, těhotné ženy nebo panny, staré lidi nebo kněžstvo a jiné duchovní osoby, jakož i církevní statky a to, co k nim patří, zneuctil, má být potrestán bez jakékoli milosti; naopak je mají chránit a ochraňovat a nijak jim neubližovat.
+- typ: odstavec
+  de: |-
+    Zum achten soll keyner alten schaden rechen im Feld/vnd keyn args nit fürnemmen/oder er soll gestrafft werden/nach vngnaden vnd erkantnuß.
+  cs: |-
+    Za osmé: Nikdo nemá v poli mstít staré křivdy ani podnikat nic zlého, jinak bude potrestán bez milosti, podle uvážení [plukovníka][^2].
+- typ: odstavec
+  de: |-
+    Zum neundten/wann die Knecht mit einander inn vneynigkeyt oder auffruhr kämen/soll sich keyn Parthey wider die ander rotten/sonder von stundan frid nemen/welcher aber den friden nit halten wölt/vnd einer den frid zum dritten mal nicht hielt/vnd darüber entleibet würd/soll er gebůßt sein/so er bey leben bleibt/soll er peinlich anklagt vnd gestrafft werden.
+  cs: |-
+    Za deváté: Když se knechti {Knecht} spolu dostanou do nesvárů nebo pozdvižení, nemá se žádná strana srocovat proti druhé, nýbrž [mají] ihned přijmout mír {frid}. Kdo by však mír nechtěl dodržet, nedodržel by ho ani potřetí a byl by přitom zabit, ten tím má svůj trest odpykán[^3]; zůstane-li naživu, má být hrdelně {peinlich} obžalován a potrestán.
+- typ: odstavec
+  de: |-
+    Zum zehenden/keyne meuterey/aufflauffe/auffruhr noch lärmen vnter jhnen zumachen/in keyn weiß noch weg/wa aber solliches beschehe/soll man sie straffen ohn alle gnad.
+  cs: |-
+    Za desáté: Nemají mezi sebou nijakým způsobem dělat žádnou vzpouru {meuterey}, srocení {aufflauffe}, pozdvižení ani hluk; kdyby se tak však stalo, mají být potrestáni bez jakékoli milosti.
+- typ: odstavec
+  de: |-
+    Zum eylfften/wa die Knecht innen würden/daß einer verrätherey/oder andere böse stück triebe/das soll man dem Profosen anzeygen/So soll der Profoß darinnen handeln/nach laut seines ampts.
+  cs: |-
+    Za jedenácté: Kdyby knechti zjistili, že se někdo dopouští zrady nebo jiných zlých skutků, mají to oznámit profousovi {Profosen}; profous má pak v té věci jednat podle svého úřadu.
+- typ: odstavec
+  de: |-
+    Zum zwölfften/wa ein vbelthäter wer/vnd die Artickel nicht hielt/vnd der Profoß oder seine Knecht jn darumb annemen würden/so sollen sich deß die Knecht nicht annemen/darmit das vbel gestrafft werd/Welcher das vberfüre/soll gestrafft werden an leib vnd leben/doch nach erkantnuß deß Obersten.
+  cs: |-
+    Za dvanácté: Kdyby byl nějaký zločinec, který nedodržoval artikule, a profous nebo jeho pacholci by ho proto zatkli, nemají se ho knechti ujímat, aby zlo bylo potrestáno. Kdo by to přestoupil, má být potrestán na těle i na životě, ovšem podle uvážení plukovníka {Obersten}.
+- typ: odstavec
+  de: |-
+    Zum dreitzehenden/daß auch keyner auß dem Läger ziehe/weder auff beutten/noch anderßwahin/ohne seins Hauptmanns wissen vnd erlaubnuß.
+  cs: |-
+    Za třinácté: Nikdo také nemá odcházet z ležení {Läger}, ani za kořistí {beutten}, ani kamkoli jinam, bez vědomí a svolení svého hejtmana {Hauptmanns}.
+- typ: odstavec
+  de: |-
+    Zum viertzehenden/soll keyner keyn sprach mit den feinden halten/ohne erlaubnuß seines Hauptmanns oder Obersten.
+  cs: |-
+    Za čtrnácté: Nikdo nemá vést rozhovory s nepřítelem bez svolení svého hejtmana nebo plukovníka.
+- typ: odstavec
+  de: |-
+    Zum fünfftzehenden/wa Reysige vnd Fůßknecht ligen/so sollen die Fůßknecht den Reysigen weichen/auff daß die pferde können vnterkommen/doch inn zimlichen sachen.
+  cs: |-
+    Za patnácté: Kde leží jízda {Reysige} a pěší knechti {Fůßknecht} [pohromadě], mají pěší knechti ustoupit jízdě, aby se koně mohli ustájit, ovšem v přiměřených věcech.
+- typ: odstavec
+  de: |-
+    Zum sechtzehenden/ob ander Nationen oder Landschafft im Feld lägen/soll sie keyner verspotten/in keyn weiß noch weg.
+  cs: |-
+    Za šestnácté: Kdyby v poli ležely jiné národy nebo [vojska jiných] zemí, nikdo se jim nemá nijakým způsobem posmívat.
+- typ: odstavec
+  de: |-
+    Zum sibentzehenden/soll auch keyn Gemeyn vnter den Knechten inn keyn weg
+  cs: |-
+    Za sedmnácté: Mezi knechty se také nemá v žádném případě žádné obecní shromáždění {Gemeyn}[^4]
+poznamky:
+- n: 1
+  text: |-
+    Zutrinken – dobový zvyk připíjet si navzájem „do dna“ a nutit druhého k pití stejné míry; vedl k opilství a rvačkám, proto ho artikulní listy zakazovaly.
+- n: 2
+  text: |-
+    „nach vngnaden vnd erkantnuß“ – podle nemilosti (tj. bez nároku na milost) a uvážení; čí uvážení, tisk neuvádí; doplněn plukovník podle ostatních artikulí (12., 17., 24.).
+- n: 3
+  text: |-
+    „soll er gebůßt sein“ – kdo potřetí poruší vyhlášený mír (Frieden gebieten/nehmen) a je přitom zabit, tím za své provinění „zaplatil“; jeho zabití se netrestá a nevyžaduje se za něj odškodnění.
+- n: 4
+  text: |-
+    Gemeine halten – svolat obec, tj. shromáždění mužstva bez velitelů; artikulní listy je zakazovaly, protože z nich často vycházely vzpoury. Místo toho mají praporce volit po třech zástupcích (pokračování na l. LXIXv).

@@ -1,0 +1,68 @@
+id: 084v
+list: LXXXIIII
+strana: verso
+sken: 176
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Deßgleichen wo in Besatzungen weitte plätz seind/daß man daselbs dürre alte fässer/mit Stroh/reiß/scheiter/päch vnd puluer gespickt/so ein lärmen nachts wird/zündt man es flux an/vorm regen mags mit brettern/biß zur notturfft bedeckt vnnd verwart werden.
+  cs: |-
+    Stejně tak tam, kde jsou v posádkách {Besatzungen} široká prostranství, [je dobré postavit] staré vyschlé sudy nacpané slámou, chrastím, poleny, smolou a střelným prachem {puluer}; když v noci nastane poplach, hned se zapálí. Před deštěm je lze až do chvíle potřeby přikrýt a chránit prkny.
+- typ: odstavec
+  de: |-
+    Item vil gůter fewerwerck zimlicher grösse/als ein kopff/langlecht/werden gemacht von Salpetter/Schwefel/kolen/bäch/hartz/werck/leinöl/alten faulen Seylern/vnnd alten faulen lumpen so gern brinnen/so nachts ein lärmen wirdt/zündt mans an/würfft etwann vil vber die mawren hinauß/so brinnen sie hell/darzů so es recht gemacht ist/langsam/daruon gesicht man vnter die feind zůwerffen vnnd zůschiessen.
+  cs: |-
+    Dále se dělá mnoho dobrých ohňostrojů {fewerwerck}[^1] slušné velikosti, asi jako hlava, podlouhlých, z ledku, síry, uhlí, smoly, pryskyřice, koudele, lněného oleje, starých shnilých provazů a starých shnilých hadrů, které dobře hoří. Když v noci nastane poplach, zapálí se a hodí jich třeba i mnoho ven přes hradby; hoří jasně, a jsou-li správně udělány, i pomalu, takže je při nich vidět, kam mezi nepřátele házet a střílet.
+- typ: odstavec
+  de: |-
+    Sollicher gestalt sollen auch Kugeln gemacht werden/so etwann einer faust groß seind/die mag man in die weite hinauß werffen/daruon man gesicht/so man sie mit Schlencken würfft/mag man sie zimlich weit/oder auß kleynen Bölern hinauß werffen.
+  cs: |-
+    Stejným způsobem se mají dělat i koule {Kugeln} asi tak velké jako pěst; ty lze házet daleko ven, a je při nich vidět. Házejí-li se praky, doletí dost daleko; nebo je lze vrhat z malých moždířů {Bölern}.
+- typ: odstavec
+  de: |-
+    Solche Fewerwerck sollen auch gebraucht vnnd hinauß geworffen werden/so man merckt daß die feind nachts herzů schleichen/vnnd etwas besichtigen oder bawen wöllen.
+  cs: |-
+    Takové ohňostroje se mají použít a házet ven také tehdy, když se zpozoruje, že se nepřátelé v noci připlíží a chtějí něco obhlížet nebo stavět.
+- typ: odstavec
+  de: |-
+    Es mögen auch in vnnd auff den gräben ausserthalben der Besatzung/Fässer mit stroh/reiß/holtz/puluer/hartz vnnd päch auffgericht/vnnd so von nöten/an einer darein gerichten Rebschnur brinnende rassen/oder fliegende fewr darein lauffen lassen/die zündets an.
+  cs: |-
+    V příkopech a na nich vně posádky lze také postavit sudy se slámou, chrastím, dřevem, prachem, pryskyřicí a smolou, a je-li třeba, nechat do nich po k tomu natažené zápalné šňůře {Rebschnur} doběhnout hořící „rassen“[^2] nebo létající oheň, který je zapálí.
+- typ: odstavec
+  de: |-
+    Ein zimliche anzal grosser sprützen soll man in einer Besatzung nicht ohn sein/damit so etwann in der höhe fewr von dem schiessen/werffen/oder in ander weg außkompt/daß man dasselbig mit den Sprützen verhindern vnd löschen könne.
+  cs: |-
+    Slušný počet velkých stříkaček {sprützen} nemá v posádce chybět, aby se oheň, který by snad nahoře vypukl od střelby, vrhání nebo jinak, dal stříkačkami zastavit a uhasit.
+- typ: odstavec
+  de: |-
+    Deßgleichen an langen stangen lumpen gebunden/genetzt/vnnd mit gelöscht/ist auch fast nützlich.
+  cs: |-
+    Stejně tak je velmi užitečné uvázat na dlouhé tyče hadry, namočit je a hasit jimi.
+- typ: odstavec
+  de: |-
+    Vil gůter Lederiner Eymer soll man haben/die seind nicht allein zum löschen/sonder auch zu vil anderm gebrauch nützlich vnd gůt in einer Besatzung.
+  cs: |-
+    Má se mít mnoho dobrých kožených věder; ta jsou v posádce užitečná a dobrá nejen k hašení, ale i k mnoha jiným potřebám.
+- typ: odstavec
+  de: |-
+    Damit auch die Pforten vnd Schutzgättern nicht verbrennt werden mögen/ist gůt daß man dieselbige außwendig mit gůtem eisen blächen verwaret vnd innwendig wol mit holtz/erden vnnd mist versorgt/dann es wird zum offtermal ein Besatzung durch die Thor vnd Pforten eingenommen/wo die nit nach notturfft verwaret vnd versorgt werden.
+  cs: |-
+    Aby brány a padací mříže nemohly být vypáleny, je dobré je zvenčí obít dobrými železnými plechy a zevnitř dobře zajistit dřevem, hlínou a hnojem; posádka bývá totiž často dobyta branami a vraty, nejsou-li náležitě chráněny a zajištěny.
+- typ: odstavec
+  de: |-
+    Es ist aber gůt daß ob den Pforten löcher/so zum werffen gerad abgemacht seien/darmit wo man den Pforten zůsetzen/sie auff hawen oder brennen wölt/daß man dasselbig mit werffen vnd wasserschütten von oben herab verhindern möge.
+  cs: |-
+    Je však dobré, aby nad branami byly otvory upravené k vrhání přímo dolů, aby bylo možné, kdyby nepřítel na brány dorážel a chtěl je vysekat nebo vypálit, tomu zabránit vrháním a litím vody shora.
+- typ: odstavec
+  de: |-
+    Für schiessen ist gůt/daß man Wollensäck für die Bollwerck an ketten außhenck/oder an die ort daher man scheußt/dann so die hert vnd wol gefüllt/mag das
+  cs: |-
+    Proti střelbě je dobré zavěsit na řetězech vlněné pytle před bašty {Bollwerck} nebo na místa, kam se střílí; jsou-li totiž tvrdě a dobře nacpané, nemůže je
+poznamky:
+- n: 1
+  text: |-
+    Fewerwerck – „ohňostroj“ v dobovém smyslu: zápalné a světelné náplně, koule a nádoby k zapalování, osvětlení a vrhání na nepřítele, ne zábavní pyrotechnika.
+- n: 2
+  text: |-
+    Rassen – význam nejistý; patrně zápalné „běžce“ (ohňostrojné tělísko, které po šňůře doběhne k sudu), obdoba „fliegende fewr“ (raketa). Ponecháno v původní podobě.

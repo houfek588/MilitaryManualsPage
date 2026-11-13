@@ -1,0 +1,60 @@
+id: 074v
+list: LXXIIII
+strana: verso
+sken: 156
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    die gassen wol bewart vnd beschlossen werden/dann in welcher lücken oder stand er herauß kompt/der soll in seine füßstapffen tretten.
+  cs: |-
+    byla ulička {gassen} dobře střežena a uzavřena; neboť ten, jehož mezerou nebo místem by [odsouzený] unikl ven, má nastoupit na jeho místo.
+- typ: odstavec
+  de: |-
+    Zum dreitzehenden/wann das geschehen ist/alßdann führt jhn der Profoß drey mal in der gassen auff vnd ab/daß er vrlaub nem von meniglichen/vnd bitt vmb verzeihung/vnd er verzeihet auch allen menschen/vnd darnach samlet man seiner armen seel was gůts zuthůn/So sprechen jm auch die Fänderich zu/er soll dapffer vnnd vnuerzagt sein/sie wöllen jm auff halben weg entgegen lauffen/vnd jn erledigen.
+  cs: |-
+    Za třinácté: Když se tak stane, provede ho profous {Profoß} třikrát uličkou tam a zpět, aby se se všemi rozloučil a poprosil o odpuštění; i on odpouští všem lidem. Potom se vybírá, aby se pro jeho ubohou duši vykonalo něco dobrého. Také praporečníci {Fänderich} k němu promlouvají, aby byl statečný a nezoufal, že mu vyběhnou naproti do půli cesty a vysvobodí ho[^1].
+- typ: odstavec
+  de: |-
+    Zum viertzehenden läßt man widerumb vmbschlahen/daß keyner alten neid oder schaden rechen soll/damit lassen sie die spieß nider/vnd die Fänderich stehen/daß sie den rucken gegen der Sonnen keren/vnd mit dem spitz des Fändlins gegen dem armen menschen stehen/Also schleusset jn der Profoß auß den eysen/vnd nimpt vrlaub von jm/daß er jhm verzeihen soll/vnd was er gethan hat/das hab er müssen thůn/von wegen des Regiments/Auch nimpt des Profosen fürsprech in aller maß wie obgemeldet vrlaub/Darnach stellt der Profoß den armen Mann für sich/vnd gibet jhm drey streich auff die rechte Achsel/im namen des Vatters/Sohns/vnd des heyligen Geystes/vnd stellt jn gegen den Spiessen/vnd läßt jn lauffen.
+  cs: |-
+    Za čtrnácté: Znovu se vybubnuje, že nikdo nesmí mstít starou zášť nebo škodu. Nato knechti skloní kopí {spieß} a praporečníci se postaví zády ke slunci, hrotem praporce {Fändlins} proti ubožákovi. Tu ho profous vyjme z okovů a rozloučí se s ním s prosbou, aby mu odpustil: co činil, musel činit kvůli řádu {Regiments}. Stejně se s ním rozloučí i profousův mluvčí {fürsprech}, jak bylo řečeno výše. Potom profous postaví ubožáka před sebe, dá mu tři rány na pravé rameno ve jménu Otce, Syna i Ducha svatého, postaví ho čelem ke kopím a nechá ho běžet.
+- typ: odstavec
+  de: |-
+    Zum fünfftzehenden/wann der arm Mensch verscheyden ist/so kniet man nider/vnnd thůt ein gebett nach seiner armen seel zu trost vnnd zu hülff/darnach macht man ein Ordnung/vnd ziehen drey mal vmb den Cörper/vnd die Schützen schiessen dreymal ab/im namen deß heyligen Geysts/dreyfaltigkeyt/vnnd ziehen darnach widerumb/vnd machen ein beschluß ring.
+  cs: |-
+    Za patnácté: Když ubožák skoná, všichni pokleknou a pomodlí se za jeho ubohou duši k její útěše a pomoci. Potom se utvoří šik {Ordnung}, třikrát obejdou tělo a střelci {Schützen} třikrát vypálí ve jménu Ducha svatého a Trojice; pak opět odtáhnou a utvoří závěrečný kruh {beschluß ring}.
+- typ: odstavec
+  de: |-
+    Zum sechtzehenden/stehet der Profoß/vnnd bedanckt sich fast gegen dem hellen hauffen/daß sie so ehrlich Regiment helffen füren vnd halten/vnd bitten den gantzen hellen hauffen/daß einer von dem anderen straff wöll annemen/vnd nit einer den anderen so liederlich vbergeben/vnd ein Exempel nemen bey diesem abgestorbnen menschen/dann was er thůt/das můß er thůn/von wegen deß Regiments.
+  cs: |-
+    Za šestnácté: Profous vstoupí [doprostřed] a velice děkuje celému houfu {hellen hauffen}, že pomohl tak čestně vést a udržovat řád, a prosí celý houf, aby jeden od druhého ochotně přijímal napomenutí, aby nikdo druhého tak lehkomyslně neopouštěl a aby si všichni vzali příklad z tohoto zemřelého člověka; neboť co [profous] činí, musí činit kvůli řádu.
+- typ: odstavec
+  de: |-
+    Zum sibentzehenden/ist auch breuchlich/wann der gefangen Mann dem Profosen auff sein klag antwort gibt/daß er jhn auß den eysen schließ/so lang die antwort wehrt/vnd sein antwort hör.
+  cs: |-
+    Za sedmnácté: Je také obyčejem, že když vězeň odpovídá profousovi na jeho žalobu, vyjme ho [profous] z okovů, dokud odpověď trvá, a jeho odpověď vyslechne.
+- typ: odstavec
+  de: |-
+    Zum achtzehenden/so ermant man sie/wa ein gůter Gesell mit dem anderen etwas zuschaffen hat/daß nit Malefitz bedarff/so mag er in Ring tretten/vnnd sollichs anzeygen/In dem macht man ein mittel/nach dem die handlung ist/vnd läßt die spieß gehen/vnd ziehet ein jeder seinem Losament zů.
+  cs: |-
+    Za osmnácté: Potom se knechtům připomene, že má-li některý dobrý tovaryš s druhým nějaký spor, který nevyžaduje hrdelní soud {Malefitz}, může vstoupit do kruhu {Ring} a oznámit to. Tu se podle povahy věci zjedná smír, šik se rozpustí a každý odejde do svého ubytování {Losament}.
+- typ: odstavec
+  de: |-
+    Zum neuntzehenden/wa etwas in diser Ordnung vergessen/das dann rechtlich vnd breuchlich darzů dienet/sollichs soll dem öbersten vnd dem gantzen Regiment vorbehalten sein.
+  cs: |-
+    Za devatenácté: Bylo-li v tomto řádu na něco zapomenuto, co k němu podle práva a obyčeje patří, má to být vyhrazeno plukovníkovi {öbersten} a celému pluku.
+- typ: nadpis
+  uroven: 3
+  de: Wie man Zeugen im Feld vnd anderßwa verhören soll.
+  cs: Jak se mají vyslýchat svědci v poli i jinde
+- typ: odstavec
+  de: |-
+    SO zuuor allen Zeugen verkündt ist/vnd die Partheyen sampt den Zeugen gegenwertig seind/sollen sie gefragt werden/ob die Zeugen all da seien.
+  cs: |-
+    Když bylo všem svědkům předem oznámeno [předvolání] a strany jsou se svědky přítomny, mají být [strany] tázány, zda jsou všichni svědci na místě.
+poznamky:
+- n: 1
+  text: |-
+    Praporečníci mu slibují rychlý konec: vyběhnou mu vstříc a ukončí jeho utrpení (srov. hrot praporce obrácený proti odsouzenému ve 14. bodě).

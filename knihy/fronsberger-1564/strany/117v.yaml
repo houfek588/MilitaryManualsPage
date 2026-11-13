@@ -1,0 +1,63 @@
+id: 117v
+list: CXVII
+strana: verso
+sken: 242
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Die Byzantiner mit bewarung jhrer Statt/die Athener mit Schiffrüstung) dünckt mich vil nützlicher/daß er sich zu aller zufelligen abenthewr bereyt/vnnd nach gelegenheyt deß glücks/den Krieg allzeit auffs Feinds bodem außfüre.
+  cs: |-
+    Byzantští obranou svého města, Athéňané výzbrojí loďstva), zdá se mi mnohem užitečnější, aby byl připraven na každou nahodilou příhodu a podle příležitosti, kterou dá štěstí, vedl válku vždy na nepřátelské půdě.
+- typ: nadpis
+  uroven: 2
+  de: Ordnung deß Feldtzugs.
+  cs: Řád polního tažení
+- typ: odstavec
+  de: |-
+    DEr Fürer soll alzeit befelch vnd kundtschafft vom Fürsten empfahen/wonauß er den hauffen füren soll/ein jeder Befelchsmann insonders seines Ampts pflegen/Die ringe Pferdt sollen auch sampt empfangnen kundtschafften winckel ergründen/vnd wo der feind gefärliche heymligkeyt vbet/dem Fürsten eylends verkünden/wie weit auch der Feind von jhm zeucht/soll er doch die Knecht allweg in rechter steiffer Ordnung/vnd zu beyden seiten bewarter hůt/mit Schützen vnd schwären pferden/den Troß in die mitte also zwingen/wo der Feind her flög/daß er sie allenthalben beschlossen finde/vnd mit gespött auffs minst entweychen můß.
+  cs: |-
+    Vůdce {Fürer} má vždy od knížete přijímat rozkaz a zprávy, kudy má houf {hauffen} vést, a každý velitel {Befelchsmann} má zvlášť dbát svého úřadu. Lehká jízda {ringe Pferdt} má také podle obdržených zpráv prozkoumávat [každý] kout, a kde nepřítel chystá nebezpečnou léčku, má to knížeti rychle oznámit. A jakkoli daleko od něho nepřítel táhne, má [kníže] knechty {Knecht} vždy držet v řádném, pevném šiku {Ordnung} a s bdělou stráží po obou stranách – se střelci a těžkou jízdou – a trén {Troß} sevřít doprostřed tak, aby ať nepřítel vyrazí odkudkoli, našel je všude uzavřené a musel přinejmenším s hanbou ustoupit.
+- typ: nadpis
+  uroven: 2
+  de: Kundtschafft.
+  cs: Zpravodajství
+- typ: odstavec
+  de: |-
+    DEr Feind ankunfft sollen seine Landsässen in gebirgen mit fewer melden/vnd wenn es der feind merckt/jm zu betrug vnterlassen/vnd den feind verursachen tieffer ins Land zufallen vnd zugewonen/weil keyns brinnt daß er meyne man hab sein keyn acht/biß er vbervortheylt mög werden.
+  cs: |-
+    Příchod nepřátel mají jeho zemané {Landsässen} v horách ohlašovat ohni; a když to nepřítel zpozoruje, mají toho k jeho oklamání zanechat, a tak nepřítele přimět, aby vpadl hlouběji do země a zvykl si: protože žádný [oheň] nehoří, bude se domnívat, že si ho nikdo nevšímá – dokud ho nebude možné přelstít.
+- typ: nadpis
+  uroven: 2
+  de: Vom Feindfang.
+  cs: O lapání nepřátel
+- typ: odstavec
+  de: |-
+    DEnen soll er etwann wenig zaghaffte oder trewlose leuth wie ein Kärder fürwerffen vnd fahen lassen/offt als lüffen sie auff die peut vmbjagen/vnd alßdann mit versteckten halten/die müden vnnd girigen erlegen/Hette aber der Feind ein macht von Fůßknechten im gebirg/sol er seine Reysigen vil auff sie hatzieren/sich leichtlich zurück treiben lassen/biß sie etwann für die heymliche halt außlauffen/Jtem offt ledige Pferdt für sie lauffen lassen/vnd wann sie jr Ordnung zertrennen/den pferden nacheylen/vnplötzlich erlegen/Jtem ein peut in ein Wald sampt einer hůt zu Roß vnnd Fůß verstecken/dasselb den feinden durch ein listmann kundt thůn/vnd sie mit erholter peut ertaschen.
+  cs: |-
+    Těm má někdy předhodit jako návnadu {Kärder}[^1] několik málo bázlivých nebo nevěrných lidí a nechat je zajmout; [jeho lidé] mají často pobíhat, jako by vyráželi za kořistí, a pak ze skrytých záloh {halten} pobít unavené a chamtivé [pronásledovatele]. Měl-li by však nepřítel v horách sílu pěších knechtů {Fůßknechten}, má na ně často posílat svou jízdu {Reysigen}, aby je dráždila a nechala se snadno zahnat zpět, až [nepřátelé] vyběhnou před skrytou zálohu. Dále má před nimi často nechat pobíhat volné koně, a když rozbijí svůj šik a poženou se za koňmi, znenadání je pobít. Dále má v lese ukrýt kořist spolu se stráží pěší i jízdní, dát o ní nepřátelům vědět po nějakém lstivém muži a dopadnout je, až si kořist vezmou.
+- typ: nadpis
+  uroven: 2
+  de: Vnachtsam Thaten.
+  cs: Činy nehodné pozornosti
+- typ: odstavec
+  de: |-
+    ER soll sich auch allzeit aller Züg/Belägerung/Scharmützel/sturm/Schlachten vnnd alles Kistenfegens entziehen/die kleynen Lob/groß kosten/harte müh/verlust viler redlicher Knecht/gar keyn ehr/nutz noch gewinn bringen mögen.
+  cs: |-
+    Má se také vždy vyhýbat všem tažením, obléháním, šarvátkám, útokům, bitvám a veškerému „vymetání truhel“ {Kistenfegens},[^2] které mohou přinést malou chválu, velké náklady, tvrdou námahu a ztrátu mnoha statečných knechtů, ale žádnou čest, užitek ani zisk.
+- typ: nadpis
+  uroven: 2
+  de: Kreiden.
+  cs: Polní znamení
+- typ: odstavec
+  de: |-
+    SO nun dem menschen nichts thewrers ist dann er jm selbs ist/vnd aber je einer dem andern zum gehülffen erschaffen ist/Sol alzeit in Zügen vnd Stürmen/
+  cs: |-
+    Protože člověku není nic dražšího než on sám, a přece je každý stvořen druhému za pomocníka, mají se vždy na taženích, při útocích,
+poznamky:
+- n: 1
+  text: Kärder = Köder, návnada (vnadidlo).
+- n: 2
+  text: |-
+    Kistenfegen – doslova „vymetání truhel“, tj. drobné plenění a drancování pro kořist bez vojenského významu.

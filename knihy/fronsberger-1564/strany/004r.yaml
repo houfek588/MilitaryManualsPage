@@ -1,0 +1,52 @@
+id: 004r
+list: IIII
+strana: recto
+sken: 15
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Er soll auch mit allem fleiß darob sein/damit N. in der Musterung/vnd in ander weg nit vervortheylt noch betrogen werde/auch sonst gůt regiment vnd ordnung gehalten werde/alles thůn vnd lassen/was einem Obersten Feldthauptmann zuthůn vnd zulassen gebürt/vnd seinem Herren zuthůn schuldig ist.
+  cs: |-
+    Má také se vší pilností dbát, aby N. nebyl při přehlídce {Musterung} ani jinak ošizen a podveden a aby se i jinak zachovávala dobrá správa a pořádek; a má činit i nechávat vše, co nejvyššímu polnímu hejtmanovi {Obersten Feldthauptmann} náleží činit a nechávat a co je povinen konat pro svého pána.
+- typ: odstavec
+  de: |-
+    Ob sich auch begebe/daß N. vnser gnädiger Herr/vnd er der Oberst seins diensts vnd bestallung halben jrrung vberkämen/deren sich gütlich nit entscheyden möchten/solche jrrung vnd spän sollen N. vnd N. gütlich zuentscheyden haben/darbey er auch ohn weigerung oder weitter Appellieren bleiben soll.
+  cs: |-
+    Kdyby se také stalo, že by se N., náš milostivý pán, a on, nejvyšší [hejtman], kvůli jeho službě a služebnímu listu {bestallung} dostali do sporu, který by se nedal urovnat po dobrém, mají takový spor a rozepři smírně rozhodnout N. a N.; a při jejich rozhodnutí má on bez zdráhání a bez dalšího odvolávání zůstat.
+- typ: odstavec
+  de: |-
+    Deß Obersten besoldung geht mit anderer Kriegßleuth besoldung an vnd auß/vnd ist sein besoldung des Monats N. Gülden.
+  cs: |-
+    Žold {besoldung} nejvyššího [hejtmana] začíná a končí spolu se žoldem ostatního válečného lidu a činí N. zlatých {Gülden} měsíčně.
+- typ: odstavec
+  de: |-
+    Jm werden gehalten N. Trabanten/die nimpt er von andern einfachen Söldnern/vnd knechten/den wird doppel sold gegeben. Ferner wird jhm gehalten ein Leutenant/Ein Schreiber/Ein Tolmätsch/wo er in frembden landen ist/Ein Capplon/Ein Spiel vnd ein Koch/jhm soll auch gehalten werden ein Küchen vnnd ein Kammerwagen.
+  cs: |-
+    Vydržuje se mu N. drabantů {Trabanten}, které si vybere z ostatních prostých žoldnéřů a knechtů a kterým se dává dvojitý žold {doppel sold}. Dále se mu vydržuje poručík {Leutenant}, písař {Schreiber}, tlumočník, je-li v cizích zemích, kaplan {Capplon}, hudba {Spiel}[^1] a kuchař; také se mu má vydržovat kuchyňský a komorní vůz.
+- typ: odstavec
+  de: |-
+    Sein Leutenant nimpt er auß den Vnterhauptleuten/dem wird derhalben sein Besoldung duppliert/Nimpt er aber ein Leutenant nicht auß den Vnterhauptleuthen/dem wirdt Hauptmanns sold geben.
+  cs: |-
+    Svého poručíka si bere z podřízených hejtmanů {Vnterhauptleuten} a tomu se proto jeho žold zdvojnásobí; nevezme-li si však poručíka z podřízených hejtmanů, dává se mu žold hejtmana.
+- typ: odstavec
+  de: |-
+    Dem Obersten sollen alle ämpter/Reuers vnd bestallung schrifftlich zugestellt vnd gegeben werden.
+  cs: |-
+    Nejvyššímu [hejtmanovi] mají být všechny úřady, reversy {Reuers}[^2] a služební listy písemně doručeny a předány.
+- typ: odstavec
+  de: |-
+    Dieweil nun gesagt/welcher massen ein General Oberster erkiest vnd erwölet werde/auch was er für mitgehülffen seiner arbeyt vnd beschwerden haben můß/vnnd zu jhm erwölen soll/wollen wir jetzt besehen/welches die ämpter seind/so er zu mittrager seiner bürden zu jhme haben soll/so auch mit sampt jhren Vnterämptern/Regimenten vnd Besoldung vnter des General Obersten gewalt vnd gehorsam/ohn eynich mittel gehörig. Damit wir aber hierinn in dest verstendiger/besserer Ordnung sein vnnd bleiben mögen/so wil ich zůforderst die ämpter/die allein sondern befelch zun Kriegßsachen haben/melden vnd erzelen/was das für ämpter seien/warzů sie dienlich/was für leuth darzů verordnet werden/vnd was jhr jedes Ampt/thůn vnnd lassen sein soll.
+  cs: |-
+    Když tedy bylo řečeno, jakým způsobem se nejvyšší polní hejtman {General Oberster} vybírá a volí a jaké pomocníky ve své práci a strastech musí mít a k sobě zvolit, chceme se nyní podívat, které úřady to jsou, jež má mít u sebe jako spolunositele svého břemene a jež i se svými podřízenými úřady, pluky {Regimenten} a žoldem patří bez jakéhokoli prostředníka pod moc a poslušnost nejvyššího polního hejtmana. Abychom však v tom měli a zachovali tím srozumitelnější a lepší pořádek, chci nejprve jmenovat a vypočítat úřady, které mají jen zvláštní pověření ve válečných věcech: jaké úřady to jsou, k čemu slouží, jací lidé se do nich ustanovují a co má každý z nich ve svém úřadu činit a nechávat.
+- typ: odstavec
+  de: |-
+    Jm ziehen soll der General Oberst/damit man wisse wo er sey/was sich zůtrüge man jhn finden/vnnd darbey erkennen könne/bey jhm haben einen der ein Fändlin führt/das erkanntlich sey/der soll nimmer von jhm kommen.
+  cs: |-
+    Na pochodu má mít nejvyšší polní hejtman u sebe muže, který nese dobře poznatelný praporec {Fändlin}, aby se vědělo, kde je, a aby ho bylo možné, ať se přihodí cokoli, podle něho najít a poznat; ten muž se od něho nikdy nemá vzdálit.
+poznamky:
+- n: 1
+  text: Spiel – „hra“, tj. vojenská hudba, obvykle bubeník a pištec, kteří dávali signály.
+- n: 2
+  text: Reuers (revers) – písemný závazek, jímž přijímající stvrzuje podmínky své služby.

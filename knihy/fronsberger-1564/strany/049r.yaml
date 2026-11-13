@@ -1,0 +1,46 @@
+id: 049r
+list: XLIX
+strana: recto
+sken: 105
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Deß Furiers befelch vnd ampt.
+  cs: Pověření a úřad furýra {Furiers}
+- typ: odstavec
+  de: |-
+    ES wird auch vnter ein jedes Fändlin Knecht ein Furier vom gemeynen Mann erwehlt/sein ampt vnd befelch ist/daß er allwegen mit den Quartiermeystern vnd andern Furiern vorhin zeucht/vnd so man in das Läger kompt/vnnd der Quartiermeyster die hohen ämpter gelosiert/darnach theylt er das Läger auß vnter die Furier/Alßdann so es in einer Statt/Flecken oder Dorff ist/vnnd die Quartier außgetheylt seind/machen sie Bolleten/darin aller heuser Herrn namen beschrieben/die theylen alßdann die Furier vnter jhnen auß/darnach losiert der Furier seinen Hauptmann/Fänderich/die Edelleuth/Doppelsöldner/Befelchßleuth/den Feldtscherer/vnd sich selbs/dieselbigen heuser zeychnet er mit seinem zeychen/wer darinnen ligen soll/nachmals die anderen vberigen Bolleten behelt er/vnd so der hauff zu dem Läger kompt/so läßt man allwegen die Rottmeyster lauffen/der jheder kompt zu seinem Furier/dann gibt der Furier die Bolleten vnter die Rottmeyster auß/Alßdann fragt jeder Rottmeyster nach dem hauß an seiner Bolleten beschrieben/darein zeucht er alßdann mit seinen Rottgesellen.
+  cs: |-
+    U každého praporce knechtů volí obec {gemeynen Mann} také furýra. Jeho úřadem a pověřením je, aby vždy táhl napřed s kvartýrmistry {Quartiermeystern} a ostatními furýry; a když se přijde na místo ležení {Läger} a kvartýrmistr ubytuje vysoké úřady, rozdělí [kvartýrmistr] ležení mezi furýry. Je-li pak [ležení] ve městě, městečku nebo vsi a čtvrti {Quartier} jsou rozděleny, udělají ubytovací lístky {Bolleten}[^1], na nichž jsou napsána jména hospodářů všech domů, a ty si pak furýři mezi sebou rozdělí. Potom furýr ubytuje svého hejtmana, praporečníka, šlechtice {Edelleuth}, dvojžoldnéře {Doppelsöldner}, velitele, ranhojiče {Feldtscherer} a sebe sama a tyto domy označí svou značkou, kdo v nich má ležet. Ostatní zbylé lístky si ponechá, a když houf přijde k ležení, nechají se vždy přiběhnout rotmistři {Rottmeyster}, z nichž každý přijde ke svému furýrovi. Furýr pak rozdá lístky rotmistrům a každý rotmistr se ptá po domě, který je napsán na jeho lístku, a nastěhuje se do něho se svými druhy z roty {Rottgesellen}.
+- typ: odstavec
+  de: |-
+    Were aber daß man zu feld/vnnd in keynem Flecken lege/alßdann so er die hohen ämpter an die lustigsten vnnd besten ort gelosiert/theylt auch der Quartiermeyster/wie an seinem ort gemeldet/die Quartier auß vnter die Furier/alßdann furiert der Furier auch hin vnd wider in seinem Quartier/wie hieuor gemeldt/er darff aber da keyner Bollet/sondern denn da/denn dort jenen baum/da den hag/da den graben/wie mans haben mag/vnd sich zutregt.
+  cs: |-
+    Kdyby se však leželo v poli a ne v nějakém městečku, pak – když [kvartýrmistr] ubytuje vysoké úřady na nejpříjemnějších a nejlepších místech – rozdělí kvartýrmistr, jak je řečeno na příslušném místě, čtvrti mezi furýry. Potom furýr i ve své čtvrti rozděluje ubytování sem a tam, jak bylo řečeno výše, nepotřebuje k tomu však žádné lístky, nýbrž [přidělí] tomu tady a tomu tamhle onen strom, tu ohradu, tu příkop, jak se to dá mít a jak to přijde.
+- typ: odstavec
+  de: |-
+    Sonst im zihen/so er nit voran můß/helt er sich bey den weybeln/vnnd andern befelchsleuthen.
+  cs: |-
+    Jinak se na pochodu, nemusí-li jít napřed, drží u šikovatelů a ostatních velitelů.
+- typ: odstavec
+  de: Sein ampt hat auch alle Monat ein end.
+  cs: Jeho úřad také každý měsíc končí.
+- typ: odstavec
+  de: |-
+    Vnd ist sein besoldung zwen Söld/wie andere des gemeynen Manns befelchsleuth.
+  cs: |-
+    Jeho žold činí dva žoldy {Söld}, jako u ostatních velitelů volených obcí.
+- typ: nadpis
+  uroven: 2
+  de: Deß Schreibers ampt/befelch vnd Eyd.
+  cs: Úřad, pověření a přísaha písaře {Schreibers}
+- typ: odstavec
+  de: |-
+    VNter einem jeden Fendlin wird ein eygner Musterschreiber gebraucht/deß befelch vnd ampt belangt/daß er wol gefaßt vnd versehen sey mit schreiben/lesen vnd rechnen/So er dann von einem Hauptmann angenommen vnd bestellt wird/daß er jm ein Register mache/die knecht/so durch seinen Hauptmann/oder andere von seinet wegen angenommen werden/darein schreibe/doch die vom Adel vnd erfarneste Kriegßleuth hinfür setze in das Register/dasselbig auch wol verwar vnd
+  cs: |-
+    U každého praporce se používá vlastní přehlídkový písař {Musterschreiber}. Pokud jde o jeho pověření a úřad: má být dobře připraven a zběhlý v psaní, čtení a počítání. Když ho pak hejtman přijme a sjedná, má mu založit rejstřík {Register} a zapsat do něho knechty, které přijme jeho hejtman nebo jiní jeho jménem, avšak šlechtice a nejzkušenější válečníky má v rejstříku zapsat napřed; ten má také dobře uschovat a
+poznamky:
+- n: 1
+  text: |-
+    Bolleten (z ital. bolletta, lístek) – ubytovací poukázky se jménem hospodáře; rotmistr se podle nich se svou rotou ubytoval v přiděleném domě.

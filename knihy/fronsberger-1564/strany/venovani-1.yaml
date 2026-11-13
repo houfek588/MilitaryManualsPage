@@ -1,0 +1,34 @@
+id: venovani-1
+list: věnování
+strana: recto
+sken: 3
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Dem Durchleuchtigen Hochgebornen Fürsten vnd Herrn/Herrn Christoffen/Hertzogen zu Würtemberg vnd zu Tegkh/Grauen zu Mimpelgart/etc. Meinem gnedigen Fürsten vnd Herrn.
+  cs: |-
+    Osvícenému, vysoce urozenému knížeti a pánu, panu Kryštofovi, vévodovi württemberskému a z Tecku, hraběti z Montbéliardu[^1] atd., mému milostivému knížeti a pánu.
+- typ: odstavec
+  de: |-
+    DVrchleuchtiger/Hochgeborner Fürst/Gnediger Herr. Es haben die Alten zu müssigen vnd rüwigen zeitten/sonderlich die jenigen/so lust vnd freud an vbung gehabt/jre zeit nimmer in müssiggang verzert/Entweder jr vbung ist gewesen in Ritterlichen waffen vnd gewerben/eins mit Fechten/Stechen/Thurnieren/Kriegen/Kempffen/Jagen/Beyssen/Hetzen/oder dergleichen/Eins andern mit Haußhaltung/Feldtbawen/Etlicher vbung ist gewesen Studieren Lesen vnd Bücher schreiben/etwann darumb/daß sie sich selbs also in mühe vnnd arbeit vor dem schnöden müssiggang verhüten/oder jnen vergangne vnd nütze ding zuwissen/sich darnach zu vben/dester hefftiger einbildeten/sonderlich auch darum/daß sollich jr arbeit vnd fleiß hernachmals jren nachkommen/beuorab dem gemeinen nutz zu ehren vnd gutem reichen vnd kommen möcht.
+  cs: |-
+    Osvícený, vysoce urozený kníže, milostivý pane! Staří ve volných a pokojných časech, zvláště ti, kdo měli zálibu a potěšení v činnosti, nikdy nepromarnili svůj čas zahálkou. Buďto se cvičili v rytířských zbraních a zaměstnáních – jeden v šermu, klání, turnajích, válčení, zápasech, lovu, sokolnictví[^2], štvanicích a podobně, jiný v hospodaření a obdělávání polí –, anebo se zabývali studiem, četbou a psaním knih. Činili tak jednak proto, aby se takovou námahou a prací uchránili před hanebnou zahálkou, nebo aby si věci minulé a užitečné, které je dobré znát, tím pevněji vštípili a mohli se podle nich cvičit, a zvláště také proto, aby jejich práce a píle později sloužila ke cti a prospěchu jejich potomkům, a především obecnému blahu.
+- typ: odstavec
+  de: |-
+    Dieweil ich dann auch diser zeit mit sondern geschäfften nicht beladen/vnd damit ich etwas kurtzweil/vnd vbung für mich nemme/hat mir dem Vegetio gefallen/Tito Liuio/Julio Frontino/vnd andern so zu jren zeiten von Kriegsrüstungen vnd Ritterlicher zucht geschriben/nachzuvolgen/nicht darumb daß mein meinung vnd fürhaben/mich jnen in dem oder anderm zuvergleichen/darzu ich mich gar weder geschickt noch geübt acht/oder ja nur etwas gleich zu sein/sonder in massen wie die selbigen zu jren zeitten die Ritterliche Kriegszucht vbung/vnd damals gebreuchliche Kriegs gewehr/rustung vnd Instrument (die dann vnsern jetzigen zeitten gar vnänlich) zubeschreiben vnd an tag zugeben fürgenommen.
+  cs: |-
+    Protože ani já nejsem v této době zatížen zvláštními povinnostmi a chtěl jsem si opatřit nějaké rozptýlení a zaměstnání, zalíbilo se mi následovat Vegetia, Tita Livia, Julia Frontina a jiné, kteří ve své době psali o válečné výzbroji a rytířské kázni. Nikoli proto, že bych měl v úmyslu se s nimi v tom či onom srovnávat – k tomu se nepokládám ani za dost schopného, ani za dost zběhlého –, ba ani jim být byť jen trochu roven, nýbrž tak, jak si oni ve své době předsevzali popsat a vydat rytířskou válečnou kázeň a cvičení i tehdy obvyklé válečné zbraně, výzbroj a nástroje (které se našim nynějším časům vůbec nepodobají).
+- typ: odstavec
+  de: |-
+    Also steht mein fürhaben/die Ritterliche vnd Kriegsübung/sampt derselbigen gemeinen Gewehr/Waffen/Kriegszeug vnd Rüstung/
+  cs: |-
+    Mým záměrem je tedy popsat rytířské a válečné cvičení spolu s jeho obvyklými zbraněmi, zbrojí, válečným nářadím a výzbrojí,
+poznamky:
+- n: 1
+  text: |-
+    Teck (v tisku Tegkh) – hrad a panství ve Švábsku, jehož vévodský titul nesli württemberští vévodové; Montbéliard (v tisku Mimpelgart) – hrabství při Franche-Comté v držení württemberského rodu.
+- n: 2
+  text: |-
+    „Beyssen“ (Beizen) – lov s dravými ptáky, sokolnictví; „Hetzen“ – štvanice se psy.

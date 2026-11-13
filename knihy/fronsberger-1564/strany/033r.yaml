@@ -1,0 +1,72 @@
+id: 033r
+list: XXXIII
+strana: recto
+sken: 73
+stav: zkontrolovano
+bloky:
+- typ: seznam
+  de:
+  - 'Darnach die Wägen/so Bickel/Hawen vnd Schauflen füren.'
+  - 'Darnach die Wägen so fewrkuglen vnd steynen kugeln zu den Bölern füren.'
+  - 'Item die Wägen so Roßeysen vnd Hůffnägel füren.'
+  - 'Darnach die Wägen so Böck vnd Hackenbüchsen füren.'
+  - 'Darnach die Wägen mit den Handroren.'
+  - 'Darnach die Wägen mit Hellenparten.'
+  - 'Darnach die Wägen mit den Spiessen.'
+  - 'Darnach die Bley Wägen.'
+  - 'Darnach die Büchsen/Mödel/Zangen vnd Kolwegen.'
+  - 'Item darnach der Schwäbel vnd Salpeter Wagen.'
+  - 'Darnach den Wagen mit den vberigen Ladstangen/vnd was darzů gehört.'
+  - 'Darnach den Wagen mit den Fewrpfannen.'
+  - 'Darnach die Harnisch Wägen.'
+  - 'Darnach die Kumet vnd Sattelwägen.'
+  - 'Item der Wagen mit den Stäben vnd Stimeysen.'
+  - 'Darnach die Reder Wägen.'
+  - 'Den Wagen mit den langen stangen vnd zilscheyttern.'
+  - 'Den Wagen mit den Seylern.'
+  - 'Den Wagen mit den Sänfften.'
+  - 'Item die Wägen mit den Tragkörben/Kübeln/so man zum schantzen braucht.'
+  - 'Den Wagen mit den grossen Achßen.'
+  - 'Item den Wagen mit den kleynen Achßen vnd Wagner holtz.'
+  - 'Den Wagen mit den runden Stangen zu den Gezelten gehörig.'
+  - 'Item den Wagen mit den vngemachten gefeß höltzern.'
+  - 'Den Wagen mit den geringen Zimmerhöltzern.'
+  - 'Den Wagen mit den Sturmleytern/die seind die letzten.'
+  cs:
+  - 'Potom vozy, které vezou krumpáče {Bickel}, motyky a lopaty.'
+  - 'Potom vozy, které vezou ohnivé koule {fewrkuglen} a kamenné koule k moždířům {Bölern}.'
+  - 'Dále vozy, které vezou podkovy a podkováky {Hůffnägel}.'
+  - 'Potom vozy, které vezou kozy {Böck}[^1] a hákovnice {Hackenbüchsen}.'
+  - 'Potom vozy s ručnicemi {Handroren}.'
+  - 'Potom vozy s halapartnami {Hellenparten}.'
+  - 'Potom vozy s kopími {Spiessen}.'
+  - 'Potom vozy s olovem.'
+  - 'Potom pušky, formy {Mödel}, kleště a vozy s uhlím {Kolwegen}[^2].'
+  - 'Dále potom vůz se sírou {Schwäbel} a ledkem {Salpeter}.'
+  - 'Potom vůz s náhradními nabijáky {Ladstangen} a s tím, co k nim patří.'
+  - 'Potom vůz s ohnivými pánvemi {Fewrpfannen}[^3].'
+  - 'Potom vozy se zbrojí {Harnisch}.'
+  - 'Potom vozy s chomouty a sedly.'
+  - 'Dále vůz s tyčemi {Stäben} a dláty {Stimeysen}[^4].'
+  - 'Potom vozy s koly.'
+  - 'Vůz s dlouhými tyčemi a vahadly {zilscheyttern}[^5].'
+  - 'Vůz s lany {Seylern}.'
+  - 'Vůz s nosítky {Sänfften}.'
+  - 'Dále vozy s nosnými koši {Tragkörben} a putnami {Kübeln}, jichž se užívá při kopání šancí.'
+  - 'Vůz s velkými nápravami {Achßen}.'
+  - 'Dále vůz s malými nápravami a kolářským dřevem.'
+  - 'Vůz s kulatými tyčemi, které patří ke stanům {Gezelten}.'
+  - 'Dále vůz s neopracovaným dřevem na lafety {gefeß}.'
+  - 'Vůz s lehčím tesařským dřívím.'
+  - 'Vůz s útočnými žebříky {Sturmleytern}; ty jsou poslední.'
+poznamky:
+- n: 1
+  text: Böck – kozy, dřevěné stojany (podpěry), z nichž se střílelo z těžkých hákovnic.
+- n: 2
+  text: Čtení nejisté; „Büchsen/Mödel“ snad jedno slovo („Büchsenmödel“, formy na lití kulí), „Kolwegen“ nejspíš „Kohlwägen“ (vozy s dřevěným uhlím pro kovárnu).
+- n: 3
+  text: Fewrpfannen – železné pánve nebo koše na oheň k osvětlení ležení a k udržování ohně pro zapalování.
+- n: 4
+  text: Stimeysen – nejspíš „Stemmeisen“ (dláta, páčidla); čtení nejisté.
+- n: 5
+  text: Zilscheit – patrně „Ortscheit“, vahadlo (orčík), na něž se zapřahají postraňky; srov. 15r a 20r.

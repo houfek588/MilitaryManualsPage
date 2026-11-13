@@ -1,0 +1,87 @@
+id: 104v
+list: CIIII
+strana: verso
+sken: 216
+stav: zkontrolovano
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - Nicht leid vnter jhn zuspruch/fordrung/
+  - Was meutmacher böß Buben seind/
+  - Solt mustern auß/vnd straffen gschwind.
+  - Sie dir wol so viel vnrath machen/
+  - Als sie nutz frommen deine sachen.
+  - Wilt du mit Kriegßuolck etwas schaffen/
+  - Můßts wol bezaln vnd ernstlich straffen.
+  - Thů jedem ohn verzug gůt Recht/
+  - Er sey Reich/Arm/Ritter oder knecht.
+  - Daß sie in gůter freundtschafft bleiben/
+  - Vnd dir helffen dein Feind vertreiben.
+  - Wie kündten sie dem Feind groß schaden/
+  - So sie selbs seind mit krieg beladen.
+  - Jch hab noch nicht vil hören sagen/
+  - Daß man feind mit feind hab geschlagen.
+  - Hab aber wol glesen vnd gehört/
+  - Dardurch manch herrschafft sey zerstört.
+  - Mach vor frid vnter deinen leuthen/
+  - Magst dester baß die Feind bestreiten.
+  cs:
+  - netrp mezi nimi nároky ani vymáhání.
+  - Kdo jsou buřiči a zlí lotři,
+  - ty máš propustit [z vojska] a rychle potrestat;
+  - natropí ti totiž asi tolik nesnází,
+  - kolik prospějí tvé věci.
+  - Chceš-li s válečným lidem něco svést,
+  - musíš jej dobře platit a přísně trestat.
+  - Každému bez odkladu zjednej spravedlivé právo,
+  - ať je bohatý, chudý, rytíř nebo knecht,
+  - aby zůstali v dobrém přátelství
+  - a pomohli ti zahnat tvého nepřítele.
+  - Jak by mohli nepříteli způsobit velkou škodu,
+  - když jsou sami zatíženi válkou mezi sebou?
+  - Ještě jsem neslyšel mnoho vyprávět,
+  - že by někdo porazil nepřítele nepřáteli.
+  - Zato jsem dobře četl a slyšel,
+  - že tím leckteré panství přišlo vniveč.
+  - Zjednej nejprve mír mezi svými lidmi,
+  - tím lépe pak budeš moci bojovat s nepřáteli.
+- typ: nadpis
+  uroven: 3
+  de: Von Feldtschlachten.
+  cs: O polních bitvách
+- typ: verse
+  de:
+  - WJltu dich in ein Feldschlacht bgeben/
+  - So wart deß platz vnd gegent ebn.
+  - Zuuor erkünd deins feindes macht/
+  - Vnd jhn mit nicht spar vnd veracht.
+  - Verachtung hat manch Heer vmbbracht/
+  - Drumb biß in dem allzeit bedacht.
+  - Nimm war kanst den platz also findn/
+  - Daß man dich nit angreiffen mög hindn.
+  - Keyn vortheyl leichtlich vbergeb/
+  - Keyns künfftigen Glücks dich vberheb.
+  - Das glückrad ist mißlich/gar rundt/
+  - Sich gar offt vmbkert in einer stund.
+  - Dein Feldgschütz ordne zuuoran/
+  - Hab Leuth die können damit vmbgan/
+  - Den Feinden ists erger dann Gifft/
+  - Zuuor wo man recht in sie trifft.
+  cs:
+  - Chceš-li se pustit do polní bitvy,
+  - dbej na místo a na rovnou krajinu.
+  - Napřed vyzvěď sílu svého nepřítele
+  - a v ničem ho nepodceňuj ani jím nepohrdej.
+  - Pohrdání zahubilo už leckteré vojsko,
+  - proto na to vždy pamatuj.
+  - Hleď, zda dokážeš najít takové místo,
+  - aby na tebe nemohli zaútočit zezadu.
+  - Žádné výhody se lehkovážně nevzdávej,
+  - na budoucí štěstí troufale nespoléhej.
+  - Kolo štěstěny je vratké a docela kulaté,
+  - velmi často se obrátí během jediné hodiny.
+  - Především rozestav svá polní děla {Feldgschütz}
+  - a měj lidi, kteří s nimi umějí zacházet;
+  - pro nepřátele jsou horší než jed,
+  - zvláště když se do nich správně trefí.

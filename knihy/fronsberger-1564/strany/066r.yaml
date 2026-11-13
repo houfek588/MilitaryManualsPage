@@ -1,0 +1,55 @@
+id: 066r
+list: LXVI
+strana: recto
+sken: 139
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Was euch der Oberst Hauptmann durch die andern Hauptleuth/Fänderich/Weybel/Trommenschlager vnd Knecht schaffen vnd gebieten würd/dem sollen jhr gefällig vnd gehorsam sein.
+  cs: |-
+    Co vám nejvyšší hejtman {Oberst Hauptmann} skrze ostatní hejtmany {Hauptleuth}, praporečníky {Fänderich}, šikovatele {Weybel}, bubeníky a knechty {Knecht} přikáže a nařídí, v tom mu máte být povolní a poslušní.
+- typ: odstavec
+  de: |-
+    Jhr solt euch N. vnserm Gnedigen Herrn/nicht mehr anheyschen vnd fordern/dann deß Monats für ein einfachen sold vier gülden Reynischer landswerung Müntz/je fünfftzehen Batzen für ein gülden gerechnet/vnd sollen dreyssig tag für ein Monat zudienen schuldig sein.
+  cs: |-
+    Od N., našeho milostivého pána, nemáte žádat a požadovat víc než za měsíc jednoduchý žold {sold} čtyři rýnské zlaté {gülden} v minci zemské měny, počítaje patnáct bacenů {Batzen} za zlatý; a jste povinni sloužit třicet dní za měsíc.
+- typ: odstavec
+  de: |-
+    Item an der Musterung/soll sich ein jeder mit seinem rechten Tauff vnnd zunammen/auch die Statt darinn oder am nechsten darbey er geborn ist/nennen vnnd einschreiben lassen/es soll auch an der Musterung/keyner auff deß andern Namen durchgehn/oder ander vortheyl gebrauchen/noch niemandt darzů fürdern/rathen oder helffen/darmit vnser Gnediger Herr mit vnbillichen Sölden/finantzen vnnd practicken nit betrogen oder beschwerdt werde. Welcher das vberige/vnnd solche diebische Bößwicht stück pflegen oder brauchen/darzů andern hülff oder rath mittheylen vnd beweisen würde/der wird wie einem solchen meyneidigen dieb vnnd bößwicht gebürt/mit dem Hencker am leben gestrafft werden.
+  cs: |-
+    Dále: při přehlídce {Musterung} se má každý jmenovat a dát zapsat svým pravým křestním jménem a příjmením a také městem, v němž nebo nejblíže u něhož se narodil. Při přehlídce také nikdo nemá projít na jméno jiného ani užívat jiných výhod, ani k tomu nikomu pomáhat, radit nebo přispívat, aby náš milostivý pán nebyl podváděn ani zatěžován nenáležitými žoldy, fintami {finantzen} a úklady {practicken}. Kdo by to přestoupil[^1] a takové zlodějské a ničemné kusy provozoval nebo užíval, nebo by k tomu jiným poskytl a prokázal pomoc či radu, bude potrestán na životě rukou kata {Hencker}, jak náleží na takového křivopřísežného zloděje a ničemu.
+- typ: odstavec
+  de: |-
+    Item welcher Gelt empfangen/darumb er noch zudienen schuldig/vnnd darüber ohn erlaubnuß vnd Paßporten vnnd Obersten Hauptmann außgangen hinweg zöge/der soll trewloß vnnd meyneydig erkannt/darfür von meniglichem gescholten vnd gehalten/auch wo er im gantzen Reich/oder anderßwo ankommen vnnd betretten würde/seinem verdienen nach mit dem hencken gestrafft werden.
+  cs: |-
+    Dále: kdo přijal peníze, za něž je ještě povinen sloužit, a přesto by bez svolení a průvodního listu {Paßporten} [od] nejvyššího hejtmana odešel a odtáhl pryč, má být uznán za věrolomného a křivopřísežníka, od každého tak nazýván a za takového pokládán; a kdekoli v celé Říši nebo jinde by se objevil a byl dopaden, má být podle zásluhy potrestán oběšením.
+- typ: odstavec
+  de: |-
+    Item so ein Besatzung mit geding erobert vnnd auffgenommen wird/darumb soll euch N. vnser Gnediger Herr zuthůn nichts schuldig sein.
+  cs: |-
+    Dále: když se nějaké obsazené místo {Besatzung} dobude a přijme na smlouvu {geding}, nebude vám za to N., náš milostivý pán, povinen nic dávat.
+- typ: odstavec
+  de: |-
+    Item so Schlösser/Stätt oder ander Besatzung mit den Stürmen erobert vnd gewunnen würden/so soll der Oberkeyt geschütz/puluer/vnd was zu der Munition gehört/auch die Profandt zu notturfft der Besatzung/desselbigen gewunnens Flecken oder Besatzung außgedingt vnnd vorbehalten sein/Was aber sonst ein jeder von ander farender habe gewinnt/das soll jhm dem Kriegßrecht nach bleiben/oder an gemeyne pfendt kommen/Wo auch einer dem andern das jenig so er gewunnen/abtrüge oder mit gewalt neme/derselbig oder dieselbigen sollen darumb nach erkanntnuß des Obersten Hauptmanns gestrafft werden.
+  cs: |-
+    Dále: kdyby byly zámky, města nebo jiná obsazená místa dobyta a získána šturmem, mají být vrchnosti {Oberkeyt} vyjmuta a vyhrazena děla {geschütz}, prach {puluer} a vše, co patří k munici {Munition}, a také proviant {Profandt} pro potřebu posádky toho dobytého místa či obsazeného místa. Co však kdo jinak získá z ostatního movitého majetku, to mu má podle válečného práva zůstat, nebo to má přijít do společné kořisti {gemeyne pfendt}[^2]. A kdyby někdo jinému to, co získal, odnesl nebo násilím vzal, má být ten nebo ti za to potrestáni podle uvážení nejvyššího hejtmana.
+- typ: odstavec
+  de: |-
+    Item jr sollen auch von Sturm oder Schlacht wegen die jhr thůn vnd erobern möchten/weitter nicht dann wie jhr bestelt seind/heyschen oder fordern/man soll euch darumb nichts weitters schuldig sein.
+  cs: |-
+    Dále nemáte za šturm nebo bitvu, kterou byste podnikli a vyhráli, žádat ani požadovat víc, než na kolik jste najati; nikdo vám za to nebude povinen nic dalšího.
+- typ: odstavec
+  de: |-
+    Nota diser Artickel wird gemeynlich also gestellt/so jhr mit wissen vnd willen/vnd auß geheyß des Obersten Feldhauptmanns ein fürgenommene verordnete Schlacht oder Sturm/darzů jhr durch den Heroldt/Trummeter oder offentlich vmbschlagen vom Obersten darzů ermant vnnd erfordert/thůn/vnnd dieselbigen mit sampt der Feind Geschütz vnd der malstatt erobern vnd behalten werden/so soll euch auff denselbigen tag der Monat auß sein/vnnd ein anderer wider angehn/Solt auch von
+  cs: |-
+    Poznámka: Tento artikul se obvykle formuluje takto: Svedete-li s vědomím a vůlí a z rozkazu nejvyššího polního hejtmana {Obersten Feldhauptmanns} zamýšlenou a nařízenou bitvu nebo šturm, k nimž vás nejvyšší skrze herolda {Heroldt}, trubače {Trummeter} nebo veřejným vybubnováním napomene a vyzve, a dobudete je a udržíte i s nepřátelskými děly a bojištěm[^3], pak vám má ten den měsíc skončit a začít nový; a také máte
+poznamky:
+- n: 1
+  text: |-
+    „Welcher das vberige“ – v tisku zřejmě zkomolené (snad za „vbergienge“ = přestoupil); překládáno podle smyslu.
+- n: 2
+  text: |-
+    „an gemeyne pfendt kommen“ – patrně do společné kořisti (podílu), z níž se dělilo podle válečného práva; přesný význam slova „pfendt“ zde není jistý.
+- n: 3
+  text: V tisku „malstatt“, zřejmě za „walstatt“ (bojiště).

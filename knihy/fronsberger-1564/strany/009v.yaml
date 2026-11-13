@@ -1,0 +1,92 @@
+id: 009v
+list: IX
+strana: verso
+sken: 26
+stav: zkontrolovano
+bloky:
+- typ: seznam
+  pokracovani: true
+  de:
+  - Furierer.
+  - Capplon.
+  - Trommeter.
+  cs:
+  - furýr {Furierer}
+  - kaplan {Capplon}
+  - trubač {Trommeter}
+- typ: nadpis
+  uroven: 3
+  de: Empter der Arckelley.
+  cs: Úřady dělostřelectva {Arckelley}
+- typ: seznam
+  de:
+  - Feldtzeugmeyster.
+  - Sein Leutenandt.
+  - Pfenningmeyster der Arckelley.
+  - Zeugwart.
+  - Schantzmeyster.
+  - Geschirrmeyster.
+  - Schantzbawren Hauptmann.
+  - Profoß der Arckelley.
+  - Puluer Hüter.
+  - Zeug Diener.
+  - Büchssenmeyster.
+  - Feldtschärer der Arckelley.
+  - Die Schneller.
+  cs:
+  - polní zbrojmistr {Feldtzeugmeyster}
+  - jeho poručík
+  - pokladník {Pfenningmeyster} dělostřelectva
+  - zbrojní správce {Zeugwart}
+  - šancmistr {Schantzmeyster}
+  - vozmistr {Geschirrmeyster}
+  - hejtman šancířů {Schantzbawren}
+  - profous {Profoß} dělostřelectva
+  - strážci prachu {Puluer Hüter}
+  - zbrojní služebníci {Zeug Diener}
+  - puškaři {Büchssenmeyster}
+  - ranhojič {Feldtschärer} dělostřelectva
+  - zvedači {Schneller}[^1]
+- typ: nadpis
+  uroven: 3
+  de: Empter so vnter der Fůßknecht Regiment gehörig.
+  cs: Úřady, které patří k pluku pěchoty {Fůßknecht}
+- typ: seznam
+  de:
+  - Der Oberst.
+  - Sein Leutenandt.
+  - Fůßknecht Hauptleuth.
+  - Schuldtheyß.
+  - Gerichtschreiber.
+  - Gerichts Weybel
+  - Gerichtßleuth – gehören vnter den Schuldheyssen.
+  - Wachtmeyster.
+  - Profandtmeyster.
+  - Quartiermeyster.
+  - Profoß.
+  - Hurnweybel.
+  - Stockmeyster.
+  - Steckenknecht.
+  - Nachrichter. – gehören vnter den Profosen.
+  cs:
+  - plukovník {Oberst}
+  - jeho poručík {Leutenandt}
+  - hejtmani {Hauptleuth} pěchoty
+  - rychtář {Schuldtheyß}
+  - soudní písař {Gerichtschreiber}
+  - soudní šikovatel {Gerichts Weybel}
+  - soudní přísedící {Gerichtßleuth} – patří pod rychtáře
+  - vachmistr {Wachtmeyster}
+  - proviantmistr {Profandtmeyster}
+  - kvartýrmistr {Quartiermeyster}
+  - profous {Profoß}
+  - šikovatel trénu {Hurnweybel}
+  - žalářník {Stockmeyster}
+  - profousovi pacholci {Steckenknecht}
+  - kat {Nachrichter} – patří pod profouse
+poznamky:
+- n: 1
+  text: >-
+    Schneller – podle popisu jejich úřadu dále v knize (l. XXXIv) osm pomocníků pod „zbrojmistrem zvedačů“,
+    kteří překládají těžká děla z vozu na vůz, mažou je a pomáhají nakládat a skládat munici; vybírali se
+    k tomu tesaři a vozatajové.

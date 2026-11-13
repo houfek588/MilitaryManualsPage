@@ -1,0 +1,57 @@
+id: 008r
+list: VIII
+strana: recto
+sken: 23
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    WAs vnd wie ein Heroldt ist oder sein soll/ist daher zumelden ohn noth/es ist aber im Heerzug fürnemlich sein Ampt/daß er stäts bey dem General Obersten sey/damit er jm/so offt sichs zůträgt/befelch geben möge/vnd ist das fürnemlich sein befelch/so man etwas offentlich im gantzen Feldläger verkünden/anzeygen gebieten oder verbieten wil/das soll durch den Heroldt geschehen.
+  cs: |-
+    Co je a jaký má být herold {Heroldt}, není třeba zde uvádět. Na válečném tažení {Heerzug} je však především jeho úřadem být stále u nejvyššího polního hejtmana {General Obersten}, aby mu ten mohl, kdykoli je třeba, dávat rozkazy. A to je hlavní jeho pověření: chce-li se v celém polním ležení {Feldläger} něco veřejně vyhlásit, oznámit, přikázat nebo zakázat, má se to stát skrze herolda.
+- typ: odstavec
+  de: |-
+    Der Heroldt hat vber seinem gewönlichen kleyd/so er etwas offentlich außschreien vnd verkünden soll/gemeynlich ein Seyden kleyd an/wie ein Leuiten Rock/vornen vnd hinden des Kriegßherrn wapen darein gestickt/fürt ein weiß stäblin inn der handt/reytet ein Trommeter vor jhm her/dann zeucht er in alle Läger/vnnd an alle ort/darzů am füglichsten/blaset der Trommeter ein stillschweigen/alßdann so der Trommeter auffhört zu blasen/so schreit der Heroldt offentlich sein befelch auß.
+  cs: |-
+    Má-li herold něco veřejně provolat a vyhlásit, mívá přes svůj obvyklý oděv obvykle oblečen hedvábný šat jako levitská suknice {Leuiten Rock}[^1], na němž je vpředu i vzadu vyšit znak válečného pána; v ruce nese bílou hůlku a před ním jede trubač. Tak projíždí všemi částmi ležení a všemi místy, kde je to nejvhodnější; trubač zatroubí k utišení, a když trubač přestane troubit, herold veřejně provolá svůj rozkaz.
+- typ: odstavec
+  de: |-
+    Darumb ist von nöten/daß ein Heroldt geschickt sey/das jenig so jhm befohlen wird/recht zuerkünden vnd außzuschreien/daß er auch ein feine/helle/gůte/vnnd verständtliche stim habe.
+  cs: |-
+    Proto je nutné, aby byl herold schopný správně oznámit a provolat to, co se mu přikáže, a aby měl také pěkný, jasný, dobrý a srozumitelný hlas.
+- typ: odstavec
+  de: |-
+    Jhm wird gehalten ein reysiger Knecht vnnd Pferdt/zůgleich andern gereysigen/vnd ist sein Besoldung auff sein Leib vnd Ampt Monats N. gülden.
+  cs: |-
+    Stejně jako ostatním jezdcům {gereysigen} se mu vydržuje jízdní pacholek a kůň a jeho žold {Besoldung} na jeho osobu a úřad činí N. zlatých měsíčně.
+- typ: odstavec
+  de: |-
+    Sein Eydt wird jm auffgegeben/vnd gestellt auff die Puncten vnd Artickel/darauff er bestellt vnd angenommen worden.
+  cs: |-
+    Přísaha {Eydt} se mu ukládá a sestavuje podle bodů a článků, na které byl ustanoven a přijat do služby.
+- typ: nadpis
+  uroven: 2
+  de: Ampt vnd Befelch des General Obersten Schreiber.
+  cs: Úřad a pověření písaře {Schreiber} nejvyššího polního hejtmana
+- typ: odstavec
+  de: |-
+    DJß Ampt vnd Befelch streckt sich dahin/daß er wol gestaffiert vnd versehen sey/nit allein mit schreiben/lesen/sondern auch der Rechnung ein gůten verstandt hab/vnnd in allerley außschreiben/sonderlichen gůten bericht allerley Missiuen vnd Sendbrieff zůstellen vnd zůsetzen/Dergleichen wa er außgesandt oder geschickt wird mit befelchen/schrifftlich oder mündtlich/auffs aller füglichest vnd besten wiß außzůrichten vnd zůuersehen/auch was sein Obersten belangt/vnd jm vertrawt vnd zůuerwarung wird behändigt/dasselbig getrewlich zůuerwaren vnnd zůuersehen/nach laut seiner pflicht.
+  cs: |-
+    Tento úřad a pověření spočívá v tom, aby byl dobře vybaven a zběhlý nejen ve psaní a čtení, ale aby také dobře rozuměl počtům a při všelijakých vyhláškách měl zvláštní dobrou znalost, jak sestavovat a stylizovat všelijaké misivy {Missiuen}[^2] a posílací listy. Stejně tak, je-li vyslán nebo poslán s rozkazy, písemnými či ústními, aby je uměl co nejvhodněji a nejlépe vyřídit a obstarat; a co se týká jeho nejvyššího [hejtmana] a je mu svěřeno a odevzdáno do úschovy, to má podle své povinnosti věrně opatrovat a obstarávat.
+- typ: odstavec
+  de: |-
+    Er soll auch ein sonderlichen gůten verstandt vnnd bericht haben/einem jeglichen Herrn oder Potentaten nach gebür eins jeglichen Titel wissen zůstellen vnnd zů schreiben/dergleichen die außschreibungen/als etwann an mancherley Ständ/als auff oder abforderungen/dergleichen allerley verträg/verrichtung vnd vereynigung/auch inn sprachhaltungen oder tagleystungen/sich mit behendigkeyt/worten/wercken/schreibens/vnd anders/so sich an sollichen orten viel begibt/bescheydenlich vnnd gebürlich wisse zůhalten.
+  cs: |-
+    Má také obzvlášť dobře rozumět a vědět, jak každému pánu či vládci sestavit a napsat jeho titul, jak mu náleží; stejně tak vyhlášky, například k různým stavům, jako jsou výzvy a odvolávky, a také všelijaké smlouvy, narovnání a dohody; a při rozhovorech a sjezdech {tagleystungen} se má umět chovat obratně, skromně a náležitě ve slovech, skutcích, psaní i v jiném, co se na takových místech často přihází.
+- typ: odstavec
+  de: |-
+    Jhm gebürt auch weiter vnnd ferner/was durch den General Obersten vnnd Kriegßräth in geheymnuß gehandelt vnd berathschlagt wird/daß er dasselbig fleißig
+  cs: |-
+    Dále mu také náleží, aby to, co nejvyšší polní hejtman a váleční radové {Kriegßräth} v tajnosti projednávají a o čem se radí, pilně
+poznamky:
+- n: 1
+  text: >-
+    Leuiten Rock – „levitská suknice“, tj. dalmatika, liturgický svrchní šat jáhna; heroldský tabard se znakem
+    pána měl podobný střih s krátkými širokými rukávy.
+- n: 2
+  text: Missiue (lat. missiva) – úřední dopis, list odesílaný jménem vrchnosti nebo velitele.

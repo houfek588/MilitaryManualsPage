@@ -1,0 +1,50 @@
+id: 041r
+list: XLI
+strana: recto
+sken: 89
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Jetzt folgt der Eydt.
+  cs: Nyní následuje přísaha {Eydt}
+- typ: odstavec
+  de: |-
+    DEr Eyd wird gemeynlich durch den Schultheyssen/auch etwann durch den Obersten selbs im Ring dem Kriegßvolck gegeben/mit solchem geding vnnd worten wie nachfolgt.
+  cs: |-
+    Přísahu předříkává válečnému lidu v kruhu {Ring} obvykle rychtář {Schultheyssen}, někdy také sám plukovník {Obersten}, s takovými podmínkami a slovy, jak následuje.
+- typ: odstavec
+  de: |-
+    Wie mir vorgelesen ist/vnnd ich mit worten wol verstanden vnnd bescheyden bin/das war/fest vnnd stät zuhalten/vnd dem getrewlich vnnd vngefährlich nachzukommen/also schwör vnnd gelob ich als mir Gott helff/vnnd das Heylig Euangelion.
+  cs: |-
+    „Co mi bylo přečteno a čemu jsem ze slov dobře porozuměl a v čem jsem byl poučen, to pravdivě, pevně a stále zachovávat a věrně a bez lsti {vngefährlich} plnit, to přísahám a slibuji, tak mi pomáhej Bůh a svaté evangelium.“
+- typ: odstavec
+  de: |-
+    Alßdann sollen werden angezeygt/die hohen ämpter im Ring/durch den Obersten/Zum ersten der Schultheyß/mit namen N. darnach der Profandtmeyster mit namen N. Der Quartiermeyster/vnd mit sampt dem Profosen/allen jhren namen N. Der Oberst mag sein Leutenant auch wol anzeygen/vnd mit namen N. damit er auch erkannt werde.
+  cs: |-
+    Potom má plukovník v kruhu oznámit vysoké úřady: nejprve rychtáře jménem N., potom proviantmistra {Profandtmeyster} jménem N., kvartýrmistra {Quartiermeyster} a spolu s nimi profouse {Profosen}, všechny jejich jmény N. Plukovník může také ohlásit svého poručíka {Leutenant}, rovněž jménem N., aby i on byl znám.
+- typ: odstavec
+  de: |-
+    Jetzt tretten die hohe ämpter im Ring herfür/vnd erzeygen sich gegen dem gemeynen mann vnnd knechten aller billigkeyt/jeglicher nach seinem befelch besonder/Doch soll der Profoß besonder im Ring anfahen zureden: Also liebe Landsknecht/dieweil ich euch bin zu einem Profosen geordnet/so wil ich euch gebetten haben/jhr wölt betrachten was jhr geschworen habt auff den Artickels Brieff/demselbigen getrewlich nachzukommen vnd zuhalten/vnd wöllet gůt Regiment helffen führen vnd handhaben/vnd euch hůten vor Spilen/voll sauffen/balgen/schelten/schmähworten vnnd anderem dergleichen/dann ich můß darauff greiffen/damit gůt Regiment gehalten werde.
+  cs: |-
+    Nyní vysocí úředníci v kruhu předstoupí a každý zvlášť podle svého pověření se zaváží k obci {gemeynen mann} a knechtům ke vší spravedlnosti. Zvláště však má v kruhu promluvit profous: „Nuže, milí lancknechti {Landsknecht}, protože jsem vám byl ustanoven za profouse, chci vás poprosit, abyste uvážili, co jste odpřisáhli na artikulní list {Artickels Brieff}, a abyste jej věrně plnili a zachovávali, pomáhali udržovat a hájit dobrý pořádek {Regiment} a varovali se hazardních her, opilství, rvaček, nadávání, urážek a jiných podobných věcí; neboť já do toho musím sáhnout, aby se dobrý pořádek zachoval.“
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Ferners werden die Fändlin dem Fänderichen etwann im Ring befolhen/vngefährlich also.
+  cs: |-
+    Dále se praporce {Fändlin} svěřují praporečníkům {Fänderichen} obvykle v kruhu, přibližně takto
+- typ: odstavec
+  de: |-
+    NAchdem facht der Oberst an/Jhr Fänderich/da befilch ich euch die Fändlin mit der Condition/da werden jhr geloben vnd schwören/ewer leib vnnd leben bey dem Fändlin zulassen/etc. Also wann jhr werden in ein hand geschossen/darinn jhr das Fändlin haben oder tragen/daß jhrs werden in die ander nemen/werden jhr in dieselbige hand auch geschossen oder geschedigt/so werden jhr das Fändlin in das maul nemen vnd fliegen lassen. Sofern jhr aber von solchem allem von den feinden vbertrungen/vnnd nimmer erhalten/solt jhr euch darein wicklen/vnnd ewer leib vnd leben darbey vnd innen lassen/ehe jhr ewere Fändlin vbergeben/vnnd mit gewalt nemen lassen/etc. Jr Eyd steht wie hernach folgt/bey jhrem befelch.
+  cs: |-
+    Potom začne plukovník: „Vy praporečníci, svěřuji vám tyto praporce s tou podmínkou, že slíbíte a odpřisáhnete, že u praporce necháte své tělo i život atd. Budete-li tedy postřeleni do ruky, v níž praporec držíte nebo nesete, vezmete jej do druhé; budete-li postřeleni nebo zraněni i do té ruky, vezmete praporec do úst a necháte jej vlát. Kdybyste však byli při tom všem od nepřátel přemoženi a nemohli jej již udržet, máte se do něho zavinout a nechat při něm a v něm své tělo i život, dříve než byste svůj praporec vydali a dali si jej násilím vzít atd.“ Jejich přísaha je uvedena dále u jejich úřadu.
+- typ: odstavec
+  de: |-
+    Darauff zeucht ein jeglicher Hauptmann mit seinem Fändlin besonder/läßt sich Mustern/vnd besetzt die ämpter wie hernach folgt.
+  cs: |-
+    Potom odtáhne každý hejtman se svým praporcem zvlášť, dá se podrobit přehlídce {Mustern} a obsadí úřady, jak bude dále uvedeno.
+- typ: odstavec
+  de: Jm zug soll er allwegen zum mehrertheyl vor der Fůßknecht Ordnung
+  cs: |-
+    Na pochodu {zug} má [plukovník] vždy povětšinou před šikem {Ordnung} pěchoty

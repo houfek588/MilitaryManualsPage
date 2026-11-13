@@ -1,0 +1,53 @@
+id: 047v
+list: XLVII
+strana: verso
+sken: 102
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Die Wachten so es an seinem Fändlin ist/hilfft er besetzen/thůt Scharwacht/vnnd ledigt die Schiltwachten zů ordentlicher zeit ab/vnnd besetzt sie wider mit anderen.
+  cs: |-
+    Když je stráž na jeho praporci {Fändlin}, pomáhá ji obsazovat, koná obchůzku {Scharwacht}, v řádný čas střídá stálé stráže {Schiltwachten} a obsazuje je znovu jinými.
+- typ: odstavec
+  de: |-
+    So die wacht an seinem Fändlin ist/so soll er bey dem Obersten die losung holen/damit er sie der Schiltwacht offenbaren vnd geben könne.
+  cs: |-
+    Když má stráž jeho praporec, má si u plukovníka {Obersten} vyzvednout heslo {losung}, aby ho mohl stálé stráži sdělit a předat.
+- typ: odstavec
+  de: |-
+    Sein pflicht thůt er dem Obersten/So er jhn zum Feldweybel verordnet/vnd setzet vngefährlich deß innhalts/daß er getrewlichen dienen/Jeder zeit was er von wegen seines Befelchs vnd Ampts zuthůn vnd zu versehen/mit rechten trewen/dem Kriegßherrn zum besten außrichten vnnd versehen wölle/auch in Malefitz sachen zu Gericht sitzen/vnd vrtheyl sprechen helffen/niemandts zu lieb noch zu leyd/vnd was dann die notturfft weiter seins befelchs halben erfordert/wird jhm hierinn angezeygt vnd gemelt.
+  cs: |-
+    Přísahu {pflicht} skládá plukovníkovi, když ho ustanovuje šikovatelem {Feldweybel}, a to přibližně tohoto obsahu: že bude věrně sloužit a vždy s pravou věrností k nejlepšímu válečného pána {Kriegßherrn} vykoná a obstará, co mu z jeho pověření a úřadu přísluší činit a obstarávat; že bude v hrdelních věcech {Malefitz sachen} zasedat v soudu a pomáhat vynášet rozsudek, nikomu k vůli ani ke škodě; a co dalšího si jeho pověření žádá, se mu v ní ukáže a oznámí.
+- typ: odstavec
+  de: Sein ordenliche besoldung ist Monats vier Söld.
+  cs: Jeho řádný žold činí čtyři žoldy {Söld} měsíčně.
+- typ: odstavec
+  de: |-
+    Jhm wird ein Jung gehalten vnd gemustert/doch soll er deß alters vnd kräfften sein/daß er mög ein mann in der Ordnung vertretten/Darzů er auch sein wehr/vnd gemeynlich ein halben Hacken haben soll.
+  cs: |-
+    Vydržuje se mu pachole {Jung}, které se při přehlídce zapisuje; musí však mít takový věk a sílu, aby mohlo v šiku zastoupit muže, a k tomu má mít také svou zbraň, obvykle poloviční hákovnici {halben Hacken}.
+- typ: nadpis
+  uroven: 2
+  de: Der gemeynen Weybel/Ampt vnd Befech.
+  cs: Úřad a pověření obecních šikovatelů {gemeynen Weybel}
+- typ: odstavec
+  de: |-
+    VNter einem jeden Fändlin knecht/werden zwen gemeyn Weybel von dem gemeynen mann erwehlt/deren Ampt ist die ziehe ordnung machen/die knecht zusammen vnd bey einander behalten/auch zu jeder zeit auff den wachten mit sampt dem Feldtweybel die wachten besetzen/die Schiltwacht verordnen/nach befelch deß Wachtmeysters/zu ordentlicher zeit Scharwacht helffen thůn/vnnd die Schiltwacht mit andern besetzen helffen.
+  cs: |-
+    U každého praporce knechtů volí obec {gemeynen mann} dva obecní šikovatele. Jejich úřadem je sestavovat pochodový šik {ziehe ordnung}, držet knechty pohromadě a u sebe a také vždy na strážích spolu se šikovatelem {Feldtweybel} obsazovat stráže, rozestavovat stálé stráže podle rozkazu vachmistra {Wachtmeysters}, v řádný čas pomáhat konat obchůzku a pomáhat obsazovat stálé stráže jinými [muži].
+- typ: odstavec
+  de: |-
+    So man den Schützen Puluer vnd Bley soll geben/sollen die Weybel ein zedel wieuil vnter jhrem Fändlin schützen ligen darein verzeychnet vom Hauptmann nemen/denselbigen dem Zeugmeyster bringen/das Puluer vnnd Bley empfahen/nachmals also vnter die Schützen außtheylen.
+  cs: |-
+    Když se má střelcům vydávat prach {Puluer} a olovo, mají si obecní šikovatelé {Weybel} vzít od hejtmana lístek {zedel}, v němž je zapsáno, kolik střelců slouží pod jejich praporcem, donést ho zbrojmistrovi {Zeugmeyster}, prach a olovo převzít a potom je takto rozdělit mezi střelce.
+- typ: odstavec
+  de: |-
+    Item so man Profandt vnter den Fändlin außtheylt/als offt/so mangel an Profandt ist/geschicht gemeynlich in besatzungen/sollen sie dieselbige annemen vnnd empfahen von Profandtmeystern. Darnach wie sie es empfahen/getrewlich vnter alle Rottmeyster/denen sie darzů vmbschlagen/vnnd darzu berůffen lassen sollen/außtheylen.
+  cs: |-
+    Dále, když se mezi praporce rozděluje proviant {Profandt}, což bývá, kdykoli je proviantu nedostatek, obvykle v posádkách, mají ho převzít a přijmout od proviantmistrů {Profandtmeystern}. Potom ho mají, jak ho přijali, věrně rozdělit mezi všechny rotmistry {Rottmeyster}, které k tomu mají dát svolat bubnem a povolat.
+- typ: odstavec
+  de: |-
+    Item sie sollen sich allwegen vmb/vnnd bey dem Hauptmann oder Fänderich vnd jhren Knechten halten vnnd finden lassen/wie sich zutregt/daß sie bey der hande seyen/vnd jhnen der Hauptmann nach der notturfft befelch geben könne.
+  cs: |-
+    Dále se mají vždy zdržovat okolo hejtmana nebo praporečníka {Fänderich} a u svých knechtů a dát se tam najít, ať se přihodí cokoli, aby byli po ruce a hejtman jim mohl podle potřeby dávat rozkazy.

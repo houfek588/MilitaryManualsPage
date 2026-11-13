@@ -1,0 +1,73 @@
+id: 010r
+list: X
+strana: recto
+sken: 27
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Empter so vnter ein jedes Fändlin Knecht gehörig.
+  cs: Úřady, které patří ke každému praporci {Fändlin} knechtů
+- typ: seznam
+  de:
+  - Hauptmann.
+  - Sein Leutenandt.
+  - Fänderich.
+  - Feldtweybel.
+  - Fürer.
+  - Furierer.
+  - Zwen gemeyn Weybel.
+  - Capplon.
+  - Schreiber.
+  - Feldtschärer.
+  - Pfeiffer vnd Trommenschlager.
+  - Rottmeyster.
+  - Trabanten.
+  - Ambesaten.
+  cs:
+  - hejtman {Hauptmann}
+  - jeho poručík {Leutenandt}
+  - praporečník {Fänderich}
+  - šikovatel {Feldtweybel}
+  - vůdce {Fürer}[^1]
+  - furýr {Furierer}
+  - dva obecní šikovatelé {gemeyn Weybel}
+  - kaplan {Capplon}
+  - písař {Schreiber}
+  - ranhojič {Feldtschärer}
+  - pištci a bubeníci
+  - rotmistři {Rottmeyster}
+  - drabanti {Trabanten}
+  - ambasáti {Ambesaten}[^2]
+- typ: odstavec
+  de: |-
+    Diese obgemelte ämpter alle gehören vnter den General Obersten/was der jeder befelch/ampt vnnd eydt sey/Was auch für Personen zu jeglichem ampt tauglich darzů genommen vnnd verordnet werden sollen/doch seind diese ämpter alle vnter gebott/vnnd gehorsame des General Obersten/soll auch jedem inn seinem Eydt vnd Reuerß verleibt/vnd eingebunden werden.
+  cs: |-
+    Všechny tyto výše uvedené úřady patří pod nejvyššího polního hejtmana {General Obersten}; ať je pověření, úřad a přísaha {eydt} kteréhokoli z nich jakékoli a ať se ke kterémukoli úřadu berou a ustanovují jakékoli způsobilé osoby, všechny tyto úřady jsou podřízeny rozkazům a poslušnosti nejvyššího polního hejtmana, a to má být také každému vepsáno a vázáno do jeho přísahy a reversu {Reuerß}.
+- typ: odstavec
+  de: |-
+    Es haben gewonlich die gewaltigen Feldzüg drey Regiment/als Fürsten/Herren/Ritterschafft/sampt allem Reysigen zeug/die haben jhr eygen Regiment.
+  cs: |-
+    Velká tažení {Feldzüg} mívají obvykle tři pluky {Regiment}: knížata, páni a rytířstvo spolu s veškerou jízdou {Reysigen zeug} mají svůj vlastní pluk.
+- typ: odstavec
+  de: |-
+    Der Oberst Feldtzeugmeyster/sampt allen Arckelley personen/hat auch sein eygen Regiment.
+  cs: |-
+    Nejvyšší polní zbrojmistr {Oberst Feldtzeugmeyster} se všemi osobami od dělostřelectva {Arckelley} má také svůj vlastní pluk.
+- typ: odstavec
+  de: |-
+    Aller Fůßknecht Oberster/der hat auch sein eygen Regiment/die jetzt gemelte drey Regiment/wa der Kriegßherr nicht selbs zůgegen/haben ein General Obersten Feldthauptmann/der ist Oberster vber das gantz Feldtläger.
+  cs: |-
+    Plukovník {Oberster} veškeré pěchoty má také svůj vlastní pluk. Tyto tři právě jmenované pluky mají, není-li válečný pán {Kriegßherr} sám přítomen, nejvyššího polního hejtmana {General Obersten Feldthauptmann}, který je nejvyšším velitelem nad celým polním ležením.
+- typ: odstavec
+  de: |-
+    Item es haben gewönlich alle Reysigen jhren Obersten/der wird genannt Feldmarschalck/der hat ein treffenlichen befelch vnd ampt/hat sein eygen Profosen/Der wird genannt der Ritterschafft Profoß. Er hat auch sein eygen Quartier vnd Wachtmeyster/sampt aller Reuter Hauptleuth vnter seinem gewalt/Solcher Feldtmarschalck ist inn allen Kriegßräthen der fürnembsten einer/was aber der Reysigen stath vnd Regiment ist/laß ich bleiben/vnd gehe zu der Arckelley.
+  cs: |-
+    Dále mívá obvykle veškerá jízda {Reysigen} svého nejvyššího velitele, který se nazývá polní maršálek {Feldmarschalck}; ten má významné pověření a úřad a má vlastního profouse {Profosen}, který se nazývá profous rytířstva. Má také vlastního kvartýrmistra a vachmistra {Quartier vnd Wachtmeyster} a pod svou mocí všechny hejtmany jezdců. Takový polní maršálek je ve všech válečných radách jedním z nejpřednějších. Jaké je však postavení a zřízení jízdy, to nechávám stranou a přecházím k dělostřelectvu.
+poznamky:
+- n: 1
+  text: |-
+    Fürer – poddůstojník praporce volený z obce; podle popisu jeho úřadu dále v knize má podobné povinnosti jako šikovatel, jde však před šikem a vede knechty na pochodu, kam mu bylo nařízeno. U jízdy je „Fürer“ jezdec, který s kvartýrmistrem jede napřed a rozděluje ubytování.
+- n: 2
+  text: |-
+    Ambesaten (ambasáti, z ital. ambasciata) – vyslanci, které volí obec knechtů, aby za ni jednali s plukovníkem a velením; jejich úřad popisuje Čtvrtá kniha (LII v–LIII r).

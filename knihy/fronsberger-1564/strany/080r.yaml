@@ -1,0 +1,70 @@
+id: 080r
+list: LXXX
+strana: recto
+sken: 167
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Zubedencken.
+  cs: K uvážení
+- typ: odstavec
+  de: |-
+    OB das Hauß/Koch vnd Trinckwasser/auch wasser zur brunst/metzgen vnd weschen hab.
+  cs: |-
+    Zda má hrad {Hauß} vodu k vaření a pití, také vodu k hašení požáru, k porážce [dobytka] a k praní.
+- typ: odstavec
+  de: |-
+    Ob bawe/zimmer vnnd ander holtz/auch brennholtz/vnnd koln/zum Kochen/Bachen/vnd anderer notturfft vorhanden sey.
+  cs: |-
+    Zda je po ruce stavební, tesařské a jiné dříví, také palivové dříví a uhlí k vaření, pečení a jiné potřebě.
+- typ: odstavec
+  de: |-
+    Item Korn/Mähl/Mülen/Pfistereyen/Bachöfen/sampt aller notturfft/damit man malen/vnd bachen möge.
+  cs: |-
+    Dále obilí, mouka, mlýny, pekárny a pece se vším potřebným, aby se dalo mlít a péct.
+- typ: odstavec
+  de: |-
+    Item Gmůß/als Habermäl/Erbis/Bonen/Linsen/Gärsten/Kochkern/so man es haben mag/Kraut/Rüben/Äpffel/Biren/Zwibel/Kimmich/Wachholderbeer/vnd was dann dergleichen ist/
+  cs: |-
+    Dále potraviny na kaše {Gmůß}[^1], jako ovesná mouka, hrách, boby, čočka, ječmen a špaldové krupky {Kochkern}, lze-li je mít, dále zelí, řepa, jablka, hrušky, cibule, kmín, jalovčinky a co je dalšího podobného.
+- typ: odstavec
+  de: |-
+    Item Fleysch/so man es am futter vnnd weyd gehalten mag/viel gůter Stier vnd Ochsen/so man von tag zu tag niderschlagen vnnd metzgen mag/daneben gedigen Fleysch/Speck/Schuncken/Schweine seitten/Plateißlin/Stockfisch/Häring vnd andere dürre Fisch/wo mans gehaben mag.
+  cs: |-
+    Dále maso: lze-li dobytek uživit krmením a pastvou, mnoho dobrých býků a volů, které lze den po dni porážet a zpracovávat; vedle toho sušené maso, slanina, šunky, vepřové boky, platýsi, sušené tresky, slanečci a jiné sušené ryby, kde se dají sehnat.
+- typ: odstavec
+  de: |-
+    Item Saltz/Butter oder Schmaltz/öl vnd dergleichen/Auch hab ich wol gesehen groß hauffen eiß vnd marckbein/gantz gewelb voll/von vil jaren gesamlet/damit man in vnuermeidenlicher noth daruon auff die kost schmeltzen möge.
+  cs: |-
+    Dále sůl, máslo nebo sádlo, olej a podobně. Také jsem viděl velké hromady kyčelních a morkových kostí {eiß vnd marckbein}[^2], celé klenby plné, shromážděné za mnoho let, aby se z nich v nevyhnutelné nouzi dal vyškvařit tuk k jídlu.
+- typ: odstavec
+  de: |-
+    Item in einer Besatzung/auch im Feldt da man abgang der Prouiant sorgen můß/soll man allwegen so man das Volck mit Fleysch speiset/dieselbig weil das Schmaltz/Eyer/Fisch/vnnd dergleichen sparen/Gleicher gestalt so man dasselbige speißt/soll man dieselbig weil das Fleysch sparen/gleichergestalt soll es in allem anderm gehalten werden.
+  cs: |-
+    Dále: V posádce {Besatzung} i v poli, kde je třeba se obávat nedostatku proviantu {Prouiant}, se má vždy, když se lid krmí masem, po tu dobu šetřit sádlem, vejci, rybami a podobně; a stejně tak, když se jí tyto věci, má se po tu dobu šetřit masem. Tak se má postupovat i ve všem ostatním.
+- typ: odstavec
+  de: |-
+    Item Wein vnnd Bier/auch Gärsten/Weytzen vnnd Hopffen/darmit man zur notturfft Bier machen vnd prewen mög/Darzů soll man auch versehen sein/mit Brewküchen/Geschirr/Kesseln vnd anderm/hierzu dienstlicher notturfft.
+  cs: |-
+    Dále víno a pivo, také ječmen, pšenice a chmel, aby se v případě potřeby dalo pivo vyrábět a vařit; k tomu se má posádka zásobit varnou, nádobím, kotli a dalším k tomu potřebným náčiním.
+- typ: odstavec
+  de: |-
+    Item Jmber/Nägelin/Saffron/Zimmet/Muscatnuß vnnd Plüet/vnd ander dergleichen/von wegen der Krancken.
+  cs: |-
+    Dále zázvor, hřebíček, šafrán, skořice, muškátový oříšek a muškátový květ a jiné podobné [koření] kvůli nemocným.
+- typ: odstavec
+  de: |-
+    Es were sich auch wol zuuersehen/mit allerley Artzeney vnd krefftigung/von wegen der Krancken/dann offt die leuth wundt vnd beschedigt/auch sonst kranck werden/Zů dem/wo die Belägerung lang wehren/vnd in den Besatzungen vil Leuth ob einander ligen/tregt sich gemeynlich kranckheyten vnd sterbend zu/Deßhalben auch an sollichen orten ein geschickten Artzet zuhalten keynes wegs zuuerachten vnnd widerathen were.
+  cs: |-
+    Bylo by také dobré zásobit se všelijakými léky a posilujícími prostředky kvůli nemocným, neboť lidé bývají často zraněni a poraněni nebo jinak onemocní. Kromě toho, trvá-li obležení dlouho a leží-li v posádkách mnoho lidí natěsno u sebe, obvykle propukají nemoci a umírání. Proto by se na takových místech nemělo nikterak pohrdat tím, že se drží zkušený lékař, ani od toho zrazovat.
+- typ: odstavec
+  de: Item wo man es am platz/Weyd vnnd Futer haben mag/sollen da gehalten
+  cs: Dále, lze-li mít na místě pastvu a krmivo, mají se tam chovat
+poznamky:
+- n: 1
+  text: |-
+    Gmüß (Gemüse) znamenalo v 16. století především kaše a vařené pokrmy z obilí a luštěnin, teprve druhotně zeleninu.
+- n: 2
+  text: |-
+    Eisbein – kyčelní kost (z lat. ischium), nikoli led; z kostí se v nouzi vyvařoval tuk.

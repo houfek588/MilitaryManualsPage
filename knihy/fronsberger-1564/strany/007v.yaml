@@ -1,0 +1,33 @@
+id: 007v
+list: VII
+strana: verso
+sken: 22
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Man pflegt gewonlich alte erfarne/dapffere/wolbekandte vnnd wolberedte Knecht zu diesem Ampt zuerwehlen/die lang vnter den Knechten gelegen/viel erfarn vnd viel ämpter getragen haben/damit der General Oberst etwan vnterweilen auch von jm bericht empfahen möge/in jrrigen sachen/oder die die ämpter antreffen/Es begibt sich auch offt/daß der Oberst Profoß an statt vnd namen des General Obersten mit dem gantzen hellen hauffen zu handlen hat/darumb ist von nöten/daß er bey dem Kriegßvolck ein gůten gunst habe/wol bekandt vnd beredt sey.
+  cs: |-
+    Do tohoto úřadu se obvykle volí staří, zkušení, udatní, dobře známí a výmluvní knechti, kteří dlouho sloužili mezi knechty, mnoho zažili a zastávali mnoho úřadů, aby od nich nejvyšší polní hejtman {General Oberst} mohl občas dostat i zprávu ve sporných věcech nebo ve věcech týkajících se úřadů. Často se také stává, že nejvyšší profous {Oberst Profoß} musí místo nejvyššího polního hejtmana a jeho jménem jednat s celým houfem {hellen hauffen}[^1]; proto je nutné, aby byl u válečného lidu v dobré přízni, dobře známý a výmluvný.
+- typ: odstavec
+  de: |-
+    Wann nun ein Regiment Fůßvolck/vnd nur ein Oberster ist/so bedarff man auch nit mehr dann eins Profosen.
+  cs: |-
+    Je-li však jen jeden pluk {Regiment} pěchoty a jen jeden plukovník {Oberster}, není třeba víc než jednoho profouse.
+- typ: odstavec
+  de: |-
+    Des Obersten Feldtprofosen Eydt mag nit specificiert werden/dann er wird jm auff die sondern fürwort vnd Artickel/darauff er bestelt vnd angenommen wird/gesetzt vnd geben.
+  cs: |-
+    Přísahu {Eydt} nejvyššího polního profouse nelze blíže určit, neboť se mu sestavuje a ukládá podle zvláštních podmínek a článků, na které je ustanoven a přijat do služby.
+- typ: nadpis
+  uroven: 2
+  de: Deß Herolds Befelch/Ampt vnd Eydt.
+  cs: Pověření, úřad a přísaha herolda {Herolds}
+- typ: obrazek
+  soubor: drevorez-22.jpg
+  popis: |-
+    Herold na koni se zelenou ratolestí (znamení míru a nedotknutelného posla) a vedle něj trubač, jehož trubka nese praporec s orlicí; dole pes a šancovní koš s koulemi. Oválný medailon v rámu s válečnými trofejemi.
+poznamky:
+- n: 1
+  text: |-
+    Der helle Hauf – „celý, úplný houf“, tj. veškeré shromážděné mužstvo, hlavní voj vojska.

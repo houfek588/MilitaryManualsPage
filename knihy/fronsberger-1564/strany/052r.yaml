@@ -1,0 +1,57 @@
+id: 052r
+list: LII
+strana: recto
+sken: 111
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    VNter einem jeden Fändlin Knecht werden auch gehalten zum wenigsten zwey Spiel/das ist zwen Trommenschläger vnnd zwen Pfeyffer/die bestellt gewonlich der Fänderich mit zulassen des Hauptmanns/so best er sie vberkommen mag.
+  cs: |-
+    U každého praporce {Fändlin} knechtů se rovněž vydržují nejméně dvě hudby {Spiel}, to jest dva bubeníci a dva pištci. Ty obvykle najímá praporečník {Fänderich} se svolením hejtmana {Hauptmanns}, a to ty nejlepší, jaké může sehnat.
+- typ: odstavec
+  de: |-
+    Ihr Ampt vnnd Befelch ist/daß sie sich allzeit bey des Fänderichs Losament halten vnd finden sollen lassen/wo man ihr bedarff/daß man sie bey der hand habe/so der Fänderich mit seinem Fändlin auff ist/sollen sie bey dem Fänderich lassen die Spiel gehn/biß sich die Knecht versamlen/Nachmals so der Fänderich mit seinem Fändlin dahin zeucht/bleibet das ein Spiel bey dem Fändlin/das ander ist vornen zwischen den Schützen vnd langen Spiessen/Seind aber der Spiel drey/so ist das ein vor den Schützen/also halten sie sich wo jhr Fändlin zeucht/es sey auff Zug oder auff Wachten.
+  cs: |-
+    Jejich úřadem a pověřením je, aby se vždy zdržovali u praporečníkova ubytování {Losament} a dali se tam najít, aby byli po ruce, kdykoli jich bude třeba. Když praporečník se svým praporcem vyráží, mají u něho nechat hrát hudbu, dokud se knechti {Knecht} neshromáždí. Když pak praporečník se svým praporcem táhne dál, zůstává jedna hudba u praporce a druhá je vpředu mezi střelci {Schützen} a dlouhými kopími {langen Spiessen}. Jsou-li však hudby tři, je jedna před střelci. Tak se drží, kamkoli jejich praporec táhne, ať na pochodu, nebo na stráž.
+- typ: odstavec
+  de: |-
+    So aber der hauff gar miteinander zeucht/hat es auch sein meynung/wie sie sich halten/vnnd ein rast vmb einander spielen sollen/dann das alles sein Ordnung vnd gebrauch hat/Zu dem erwölen sie vnter ihnen selbs einen Hauptmann/der alle ding nach ordnung anschickt.
+  cs: |-
+    Táhne-li však celý houf {hauff} pohromadě, má to také svůj způsob, jak se mají chovat a jak mají hrát na střídačku vždy po jednom úseku cesty[^1]; to vše má totiž svůj řád a zvyklost. Kromě toho si mezi sebou volí hejtmana, který všechno řídí podle řádu.
+- typ: odstavec
+  de: |-
+    Die Trommenschläger sollen die befelch vnnd gebott des Obersten vnnd ihres Hauptmanns allwegen außzurichten beflissen sein/So einem befolhen wird vmbzuschlagen/daß er dasselbig thu/vnnd mit fleiß außschrey. Derhalben ist gut/daß die Trommenschläger gute helle vnd verstendtliche stimmen haben. Dieweil man auch zum offtermal die Trommenschläger schickt Besatzungen auffzufordern/oder andere befelch mit den Feinden außzurichten/so ist gut vnnd vonnöten/daß sie geschickt/from vnd redlich seyen/vnd denen wol zu vertrawen sey/damit so sie zu den Feinden geschickt/nit mehr oder weniger reden vnd handlen/dann ihnen befolhen oder gut ist/Aber die Obersten haben gemeynlich ihre eygen Spiel/so zu solchen wichtigen händlen gebraucht werden/wie auch an seinem orth vom Trommenschlager meldung geschehen ist.
+  cs: |-
+    Bubeníci mají vždy pilně vykonávat rozkazy a nařízení plukovníka {Obersten} i svého hejtmana. Je-li některému z nich nařízeno, aby obešel ležení s bubnem[^2], má to vykonat a [nařízení] pečlivě vyvolávat. Proto je dobré, aby bubeníci měli dobré, jasné a srozumitelné hlasy. A protože se bubeníci často posílají vyzývat posádky {Besatzungen} ke vzdání nebo vyřizovat u nepřátel jiné vzkazy, je dobré a nutné, aby byli schopní, řádní a poctiví a aby se jim dalo dobře důvěřovat – aby, jsou-li posláni k nepřátelům, neříkali a nejednali víc ani méně, než je jim nařízeno nebo než je dobré. Plukovníci však mívají obvykle svou vlastní hudbu, která se užívá k takovým důležitým jednáním, jak už bylo o bubeníkovi řečeno na příslušném místě.
+- typ: odstavec
+  de: |-
+    Es werden auff ein jedes Spiel vier Söld gegeben/das ist jeder Person Doppel Sold.
+  cs: |-
+    Na každou hudbu se dávají čtyři žoldy {Söld}, to jest každé osobě dvojitý žold {Doppel Sold}.
+- typ: nadpis
+  uroven: 2
+  de: Rottmeysters Ampt vnd Befelch.
+  cs: Úřad a pověření rotmistra {Rottmeysters}
+- typ: odstavec
+  de: |-
+    ES ist der gebrauch vnd auch vonnöten/daß ein jedes Fändlin knecht in Rotten getheylt werde/viler vrsachen halben/nemlich damit man sie den Rotten nach losieren könne.
+  cs: |-
+    Je zvykem a také nutností, aby se každý praporec knechtů rozdělil na roty {Rotten}, a to z mnoha důvodů: předně proto, aby je bylo možné ubytovávat po rotách.
+- typ: odstavec
+  de: |-
+    Item wo man etwann Profandt außtheylen muß/daß man sie ordenlichen in die Rotten theylen könne.
+  cs: |-
+    Dále když je třeba rozdělovat proviant {Profandt}, aby jej bylo možné řádně rozdělit po rotách.
+- typ: odstavec
+  de: |-
+    Item zu Besatzung der Wachten/daher souil/dorthin souil Rotten/nachdem an einem jeden ort not ist/auff die Wacht zuuerordnen.
+  cs: |-
+    Dále k obsazování stráží: aby bylo možné na stráž určit sem tolik a tam tolik rot, podle toho, kolik je na kterém místě třeba.
+poznamky:
+- n: 1
+  text: |-
+    „ein rast vmb einander spielen“ – Rast znamená v dobové němčině i úsek cesty mezi dvěma zastávkami (asi míli); hudby jednotlivých praporců se tedy při pochodu celého houfu v hraní střídaly.
+- n: 2
+  text: |-
+    „vmbschlagen“ – obejít ležení či šik s bubnem a vybubnovat (vyhlásit) rozkaz, svolat lid; viz také 052v, kde se takto „vybubnovávají“ jednotlivé roty.

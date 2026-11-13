@@ -1,0 +1,58 @@
+id: 096r
+list: XCVI
+strana: recto
+sken: 199
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    so man sich der Belägerung versicht/keyn mist mehr auß der Statt/sonder auch den jenigen so daruor ligt/wider hinein führen lassen/damit man denselbigen zum verdarressen/auch sonst außzufüllen/Katzen vnd andere Bew/darzu treffenlich gůt/zumachen/gehaben vnd brauchen möge.
+  cs: |-
+    když se očekává obležení, vyvážet z města už žádný hnůj, nýbrž naopak i ten, který leží před městem, dát svézt zpět dovnitř, aby ho bylo možné mít a použít k náspům[^1] i k jinému vyplňování a ke stavbě „koček“ {Katzen}[^2] a jiných staveb, k nimž se znamenitě hodí.
+- typ: odstavec
+  de: |-
+    Zum grossen geschütz sollen viel Papeiriner ladungen gemacht/geladen vnnd zugericht/vnnd zum geschütz verordnet werden/dann sie seind fast gůt fürderlich zuschiessen/nicht allein in Besatzungen/sonder auch im Feld/aber von schlechtem Kelbern leder diese ladungen gemacht/seind besser dann daß sie etwas mehr kosten.
+  cs: |-
+    K velkým dělům {geschütz} se má zhotovit, naplnit a připravit mnoho papírových nábojů[^3] a přidělit je k dělům, neboť jsou velmi dobré k rychlé střelbě, nejen v posádkách {Besatzungen}, ale i v poli. Náboje zhotovené z obyčejné telecí kůže jsou však lepší, až na to, že stojí o něco víc.
+- typ: nadpis
+  uroven: 3
+  de: Nota.
+  cs: Poznámka
+- typ: odstavec
+  de: |-
+    In einer Besatzung so es die zeit erleiden mag/vnd man viel viechs hat/da dañ täglich viel fütterung auffgeht/ist gůt daß man viel viechs hinweg metzge/in Thunnen vnd Fesser einsaltz/damit die fütterung gespart/vnd ander pferd vnd viehe dester länger mit fütterung erhalten werden möge.
+  cs: |-
+    Má-li posádka, pokud to čas dovolí, mnoho dobytka, na který denně padne mnoho píce, je dobré velkou část dobytka porazit a naložit do soli v kádích a sudech, aby se ušetřila píce a ostatní koně a dobytek se dali o to déle uživit.
+- typ: nadpis
+  uroven: 3
+  de: Holtz einer Besatzung.
+  cs: Dřevěné stavby v posádce
+- typ: odstavec
+  de: |-
+    IN einer jeden Besatzung ist gůt/daß man mit gůten starcken blöchern geschränckte Blochheuser mach/zimlicher grösse/nach gelegenheyt deß platz/auch jnnen vnd aussen wol geschlossen/vnd dermassen gemacht/daß ein noth erleiden möge/auch gůter höhe/dieselbige Blochheuser legt man etwann an ein trucken ort/da es vorm regen vnd wetter verwart lige/also mag es lange zeit vnnd viel jar erhalten werden/Es sollen auch die Blöck ordenlich zusamen verzeichnet werden/damit man in der eyl wissen möge/wie es zusamen vnd auff einander gehöre/So man dann an einer Besatzung anhebt zuschiessen/so soll man zu beyden seyten/neben dem ort/da man die Mawren bescheußt/die Blockheuser von stund hinder der mawr/da man sie nit bescheußt/auffrichten/also daß/so die mawr beschossen/vnd daselbst hinein gestürmpt wird/man zwischen den Blochheusern hinein stürmen můß/dann sollen auff dem boden gůte Streitwehren/vnd dieselbigen mit hagel/Hacken vnd handtschützen wol besetzt sein/darnach auff der nächsten/auff dem vndersten gleicher gestalt/also dann zu oberst soll es besetzt sein/mit den jhenigen/so mit fewrwerck/mit steynen werffen/auch mit heyssem öl vnnd siedigem wasser schütten/man mag auch also geschränckte Blochheuser machen/mit mist vnd erden außfüllen/vnnd oben groß geschütz darauff ziehen/das heysset man Katzen.
+  cs: |-
+    V každé posádce je dobré zhotovit z dobrých silných klád sroubené sruby {Blochheuser}[^4] přiměřené velikosti podle povahy místa, zevnitř i zvenčí dobře uzavřené a udělané tak, aby vydržely nápor, a také náležitě vysoké. Takové sruby se uloží někde na suchém místě, kde leží chráněny před deštěm a nečasem, a tak se dají udržet po dlouhou dobu a mnoho let. Klády mají být také řádně označeny, aby se ve spěchu vědělo, jak k sobě a na sebe patří. Když pak nepřítel začne posádku ostřelovat, mají se po obou stranách místa, kde ostřeluje hradby, hned za hradbou, kam nestřílí, postavit tyto sruby, a to tak, že když je hradba prostřílena a útočí se tam dovnitř, musí se útočit mezi sruby. V přízemí pak mají být dobrá bojová stanoviště, dobře obsazená brokovnicemi, hákovnicemi {Hacken} a střelci s ručnicemi, potom stejně tak v patře nad nejspodnějším, a nahoře mají být ti, kdo házejí ohňostroje {fewrwerck} a kameny a lijí horký olej a vroucí vodu. Takové sroubené sruby lze také vyplnit hnojem a hlínou a nahoru na ně vytáhnout velká děla; tomu se říká „kočky“.
+- typ: odstavec
+  de: |-
+    Also mögen sie auch gemacht/in eyl für oder vnter die geschossen lücken gesetzt vnd außgefüllt werden.
+  cs: |-
+    Takto je lze také zhotovit, ve spěchu postavit před prostřílené průlomy nebo do nich a vyplnit.
+- typ: odstavec
+  de: |-
+    Jnn allen Feldzügen soll keyn Kriegßmann sein/besonder wo man in frembde/vnbekannte Land zeucht/er soll sein gůten läderin Schwimzeug haben/oder zum wenigsten drey oder vier gůter blattern/also/wo man an ein wasser käme/bließ er sein Schwimzeug oder die Blattern auff/vnnd käme also ohn aller Menschen hülff leichtlich vnd sicher vber alle wasser/Ein sollichen Schwimzeug oder Platern köndte
+  cs: |-
+    Na všech taženích {Feldzügen} – zvláště táhne-li se do cizích, neznámých zemí – by neměl být žádný válečník, který by neměl svůj dobrý kožený plovák, nebo aspoň tři nebo čtyři dobré měchýře. Když by se pak přišlo k vodě, nafoukl by svůj plovák nebo měchýře a dostal by se tak bez cizí pomoci snadno a bezpečně přes každou vodu. Takový plovák nebo měchýře by mohl
+poznamky:
+- n: 1
+  text: |-
+    verdarressen – zřejmě od Tarras/Terrasse (zemní násep, val): zpevnit, zasypat hlínou.
+- n: 2
+  text: |-
+    Katze („kočka“) – vyvýšené dělostřelecké postavení (kavalír), zde srub vyplněný hnojem a hlínou s děly nahoře; viz konec následujícího odstavce.
+- n: 3
+  text: |-
+    Ladung – předem odměřená dávka prachu v pouzdru (kartuši) z papíru nebo kůže, která urychluje nabíjení.
+- n: 4
+  text: |-
+    Blockhaus – srubová stavba z vodorovně kladených, v rozích zaklesnutých („geschränckt“) klád; zde rozebíratelné sruby, které se staví za ohroženým úsekem hradby jako vnitřní opevnění.

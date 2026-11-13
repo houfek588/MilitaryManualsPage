@@ -1,0 +1,58 @@
+id: 035v
+list: XXXV
+strana: verso
+sken: 78
+stav: zkontrolovano
+bloky:
+- typ: seznam
+  de:
+  - 'Item ein Schreiber.'
+  - 'Ein Caplon/Ein Tollmätsch.'
+  - 'Ein Wagen vnd ein Troßpferd.'
+  cs:
+  - 'Dále písař {Schreiber}.'
+  - 'Kaplan {Caplon}, tlumočník {Tollmätsch}.'
+  - 'Vůz a trénní kůň {Troßpferd}.'
+- typ: odstavec
+  de: |-
+    Were aber daß ein treffenlicher grosser Heerzug were/vnd der Feldtmarschalck seines Stands ein Fürst oder Graff were/So wird dasselbig bedacht vnd angesehen/vnd jhm gehalten Reißküchen/Zelten vnd ander Wägen/auch Trabanten vnd anders so die notturfft vnd sein Stand erfordert.
+  cs: |-
+    Kdyby však šlo o mimořádně velké válečné tažení {Heerzug} a polní maršálek {Feldtmarschalck} byl svým stavem kníže nebo hrabě, bere se na to ohled a vydržuje se mu polní kuchyně {Reißküchen}, stany a další vozy, také drabanti {Trabanten} a jiné, co vyžaduje potřeba a jeho stav.
+- typ: nadpis
+  uroven: 2
+  de: Des Feldtmarschalcks Leutenants Ampt/Befelch vnd Eydt.
+  cs: Úřad, pověření a přísaha poručíka polního maršálka {Feldtmarschalcks Leutenants}
+- typ: odstavec
+  de: |-
+    DEr Feldtmarschalck ist eines Leutenants nottürfftig/dann dieweil sein Ampt erfordert zu notwendiger zeit/im zihen oder halten/oder auch im Läger/inn Räthen vnnd bey den Obersten zusein/oder etwas besichtigen helffen. So ist noth daß er ein Leutenant habe/mitlerzeit bey seinen Fanen vnnd Reuttern zu sein/auch in ander weg wo sich noth vnnd gelegenheyt zutregt/des Feldtmarschalcks Ampt in abwesen des Feldtmarschalcks zuuerwalten. Deßhalben ist von nöten/daß ein ehrlicher geschickter/verstandner vnnd erfarner Mann vom Adel hierzů erwölt vnd genommen werde.
+  cs: |-
+    Polní maršálek potřebuje poručíka {Leutenants}. Jeho úřad totiž vyžaduje, aby byl v nutných chvílích – na pochodu nebo při zastávce, nebo i v ležení {Läger} – v radách a u nejvyšších [velitelů] {Obersten}, nebo aby pomáhal něco prohlížet. Proto je zapotřebí, aby měl poručíka, který bude mezitím u jeho korouhví {Fanen} a jezdců {Reuttern} a který bude také jinak, kde je toho třeba a kde se naskytne příležitost, v nepřítomnosti polního maršálka spravovat jeho úřad. Proto je nutné, aby k tomu byl zvolen a vzat čestný, schopný, rozumný a zkušený muž ze šlechty.
+- typ: odstavec
+  de: |-
+    Sein Ampt erfordert alles/so des Feldtmarschalcks Ampt erfordert/das soll er in abwesen des Feldtmarschalcks/so sich gelegenheyt vnd not zutregt/versehen vnd außrichten/Were aber das treflich wichtige sachen zufielen/vnd es den verzug haben mag/soll er solchs an den Feldtmarschalck selbs reychen vnnd kommen lassen/darmit nichts versaumpt oder vbereylt werde.
+  cs: |-
+    Jeho úřad vyžaduje vše, co vyžaduje úřad polního maršálka; to má v nepřítomnosti polního maršálka, když se naskytne příležitost a potřeba, obstarávat a vykonávat. Kdyby však nastaly mimořádně důležité věci a snesou-li odklad, má je předložit samotnému polnímu maršálkovi a nechat je k němu dojít, aby se nic nezanedbalo ani neuspěchalo.
+- typ: odstavec
+  de: |-
+    Man pflegt jhme nicht fast einen grossen oder sondern stath zuhaben/sein besoldung wird jhm seins diensts vnnd Ampts halben gebessert/darumb hat er Monats auff sein leib vnd Ampt N. gülden zu besoldung.
+  cs: |-
+    Obvykle se mu nevydržuje nijak zvlášť velký nebo zvláštní stav {stath}[^1]; jeho žold {besoldung} se mu kvůli jeho službě a úřadu zvyšuje, a proto má měsíčně na svou osobu a úřad N. zlatých {gülden} žoldu.
+- typ: odstavec
+  de: |-
+    Sonst wird er mit seinen gerüsten Pferden mit besoldung darauff/auch Wägen/vnnd Troßpferden gleich anderen Reysigen gehalten/es were dann daß er sich also hinein flicken künd/daß jhm ein par Trabanten gehalten/vnnd ein vortheyl mit Wagen vnd Troßpferden gethon würden.
+  cs: |-
+    Jinak se mu jeho zbrojní koně {gerüsten Pferden} se žoldem na ně, také vozy a trénní koně {Troßpferden} vydržují stejně jako ostatním jezdcům {Reysigen} – ledaže by si dokázal vyjednat, aby se mu vydržovala dvojice drabantů a poskytla výhoda ve vozech a trénních koních.
+- typ: odstavec
+  de: |-
+    Er wird sonderlich mit Eydts pflicht/neben der gemeynen Kriegßpflicht/es were dann daß man jhne in geheymen Räthen brauchen thät/nit verpflicht/So man jhn aber auch in Räthen brauchen wölt/wird jhme nach gestalt vnd gelegenheyt der sachen seines thůns vnd verwaltens/ein Eyd begriffen vnd geben.
+  cs: |-
+    Zvláštním přísežným závazkem {Eydts pflicht} vedle obecného válečného slibu {Kriegßpflicht}[^2] se nezavazuje, ledaže by se ho užívalo v tajných radách. Chce-li se ho však užívat i v radách, sestaví se mu podle povahy a okolností jeho činnosti a správy přísaha {Eyd} a dá se mu [složit].
+- typ: nadpis
+  uroven: 2
+  de: Der Reysigen Hauptleuth oder Rittmeyster/Befelch/Ampt vnd Eydt.
+  cs: Pověření, úřad a přísaha jezdeckých hejtmanů neboli rytmistrů {Reysigen Hauptleuth oder Rittmeyster}
+poznamky:
+- n: 1
+  text: stath – „Staat“, tj. vydržování náležející podle hodnosti (čeleď, drabanti, vozy, koně) na účet válečného pána.
+- n: 2
+  text: Kriegßpflicht – obecný závazek, jímž se při vstupu do služby zavazoval všechen válečný lid; vyšší úředníci skládali navíc zvláštní přísahu na úřad.

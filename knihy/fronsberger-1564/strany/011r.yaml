@@ -1,0 +1,38 @@
+id: 011r
+list: XI
+strana: recto
+sken: 29
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    von nöten/die Arckelley zubeschirmen vnd schützen/darumb müssen drey Regiment bey einander sein/dann Reutter vnnd Fůßknecht sollen ohne Geschütz vnd Arckelley nichts/So ist die Arckelley ohne die andern zwey Regiment auch nichts.
+  cs: |-
+    zapotřebí, aby dělostřelectvo {Arckelley} chránily a bránily. Proto musí být tři pluky pohromadě: jezdci a pěší knechti bez děl {Geschütz} a dělostřelectva nic nesvedou, a stejně tak není nic ani dělostřelectvo bez ostatních dvou pluků.
+- typ: odstavec
+  de: |-
+    Dieweil denn alle drey Regiment zusammen gehören/so ist billich/daß sie mit einander regieren/rathen vnd Kriegßräth beschliessen/mit einander heben vnd legen.
+  cs: |-
+    Protože tedy všechny tři pluky patří k sobě, je náležité, aby spolu vládly, radily se a usnášely se ve válečných radách a aby spolu všechno nesly [doslova: zvedaly a kladly][^1].
+- typ: odstavec
+  de: |-
+    Jetzt seind die drey Regiment ein Regiment/vnd haben einen General Obersten/der vber die drey Regiment Oberster Feldthauptmann ist/auß befelch des Kriegßherrn/wa er selbs eygner Person nit zugegen ist.
+  cs: |-
+    Tím jsou tři pluky jedním plukem a mají jednoho nejvyššího polního hejtmana {General Obersten}, který je z rozkazu válečného pána {Kriegßherrn} nejvyšším velitelem nad všemi třemi pluky, není-li [válečný pán] sám osobně přítomen.
+- typ: nadpis
+  uroven: 3
+  de: Wie der Kriegßrath besetzt werden soll.
+  cs: Jak má být obsazena válečná rada {Kriegßrath}
+- typ: odstavec
+  de: |-
+    ERstlich gehören zu dem Obersten Feldthauptmann in Rath/der Feldtmarschalck/der Oberst Zeugmeyster/vnd der Fůßknecht Oberster/zu denselbigen vnd mit jhrem Rath/mag der General Oberst zu jhm in Rath erkiesen/die berhümptesten/erfarnesten/vnd achtbarsten von den Hauptleuthen der Reysigen vnd Fůßknecht/sampt den Befelchßleuthen der hohen ämpter/Doch ist gůt wa möglich/daß man sich gleicher anzal der Reysigen vnd Fůßknecht im Rath befleiß/damit keyn parthey die ander verdencken möge/daß die anschleg gemacht werden/nach gefallen der ander parthey/vnd ist sich in allweg zu hůten/daß nit vnwillen vnter den Regimenten oder Secten des Kriegßvolcks entstehe.
+  cs: |-
+    Nejprve patří k nejvyššímu polnímu hejtmanovi {Obersten Feldthauptmann} do rady polní maršálek {Feldtmarschalck}, nejvyšší zbrojmistr {Oberst Zeugmeyster} a plukovník pěchoty. K nim a s jejich radou si může nejvyšší polní hejtman zvolit do rady nejslavnější, nejzkušenější a nejváženější z hejtmanů {Hauptleuthen} jízdy {Reysigen} a pěchoty, spolu s veliteli {Befelchßleuthen} vysokých úřadů. Je však dobré, aby se pokud možno dbalo na stejný počet [zástupců] jízdy a pěchoty v radě, aby žádná strana nemohla té druhé podezírat, že se plány dělají podle vůle druhé strany; a v každém případě je třeba se vystříhat, aby mezi pluky nebo skupinami {Secten}[^2] válečného lidu nevznikla nevole.
+poznamky:
+- n: 1
+  text: >-
+    „mit einander heben vnd legen“ – obrat „zvedat a klást“ = sdílet všechny práce a břemena; možná se míní
+    i společné vytahování z ležení a táboření.
+- n: 2
+  text: Secten – zde ve smyslu „oddíly, složky“ vojska (jízda, pěchota, dělostřelectvo), bez náboženského významu.

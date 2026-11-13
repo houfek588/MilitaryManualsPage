@@ -1,0 +1,60 @@
+id: 092r
+list: XCII
+strana: recto
+sken: 191
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gewelber/Wehren/zündt allenthalben an/verbrennt das hauß vnd was darinnen ist/also gewinnen die Feind ein schlechte beut.
+  cs: |-
+    klenby i hradby, všude to zapálí a dům [hrad] i všechno, co je v něm, shoří; tak nepřátelé získají jen bídnou kořist.
+- typ: odstavec
+  de: |-
+    Man soll sich befleissen/daß man sich still/vnnd nicht anderst dann wie zu andern nächten daruor geschehen/im Schloß oder Besatzung halt/anderst wo der feind etwas mercken/würde er die Wacht stercken/vnd wol verstehen daß ein anschlag vorhanden were.
+  cs: |-
+    Je třeba se snažit chovat se na hradě či v posádce {Besatzung} tiše a nijak jinak než předešlé noci; kdyby nepřítel něco zpozoroval, posílil by stráže a dobře by pochopil, že se něco chystá.
+- typ: odstavec
+  de: |-
+    Darnach soll man ein losung geben/damit so sie hinauß kommen vnd von einander kämen/sie einander darbey wider erkennen mögen.
+  cs: |-
+    Potom se má dát heslo {losung}, aby se podle něho mohli navzájem zase poznat, až vyjdou ven a rozptýlí se.
+- typ: odstavec
+  de: |-
+    Item sie sollen in grosser stille in der nacht/so sie es am füglichsten bedeucht/doch nicht zůnahe bey tag hinauß ziehen/vnnd kundtschaffter mit sondern zeychen verordnen/die steg vnnd weg wissen/von den Feinden zůführen/auff dieselbige sollen Fänderich vnd Trommenschlager eygentlich acht vnnd auffmercken haben/den Fänderich mag man bey Nacht mit dem Fändlin sehen/vnd den Trommenschlager hören.
+  cs: |-
+    Dále mají ve velkém tichu vytáhnout ven v noci, kdy se jim to bude zdát nejvhodnější, avšak ne příliš blízko svítání. Mají určit zvědy {kundtschaffter} se zvláštními znameními, kteří znají stezky a cesty, aby je vyvedli pryč od nepřátel; na ty mají praporečník {Fänderich} a bubeník {Trommenschlager} bedlivě dávat pozor. Praporečníka lze v noci vidět podle praporce {Fändlin} a bubeníka slyšet.
+- typ: odstavec
+  de: |-
+    Man soll keyn lärmen machen/es begebe sich dann/daß der feind Schiltwacht lautbar würde/alßdann soll der Trommenschlager tröstlich lärmen schlagen/vnnd mit einhelligem geschrey geschriehen werden/här/här/schlach todt/etc. So fellt die Schiltwacht dahin der Scharwacht vnd dem Läger zů/mit jhrem geschrey vnd lärmen/dem sollen sie nicht nachfolgen/vnd bald wider ein stille machen/vnd den nechsten bald wider hinweg jhrem weg nach trachten/Der Trommenschlager soll vnterweilen mit kleynen streichlen die Trommen rüren/so mögen die verjrrten vnnd verhinderte knecht/sich demselbigen wider nachrichten.
+  cs: |-
+    Nemá se dělat žádný hluk, leda by se nepřátelská stálá stráž {Schiltwacht} ozvala; tehdy má bubeník směle bubnovat na poplach a má se jednohlasně křičet: „Sem, sem, bij, zabij!“ atd. Stálá stráž pak se svým křikem a poplachem uteče k obchůzce {Scharwacht} a k ležení {Läger}; tu nemají pronásledovat, nýbrž hned zase utichnout a nejkratší cestou pokračovat dál. Bubeník má občas lehce ťuknout do bubnu, aby se podle toho mohli zbloudilí a opozdilí knechti {knecht} zase řídit.
+- typ: odstavec
+  de: |-
+    So man etwann an Stiglen/Gräben/oder den enden da man sich verhindern můß/kompt/soll man die vordersten/biß jedermann hinüber kompt/auffhalten.
+  cs: |-
+    Přijde-li se k přelezům, příkopům nebo na místa, kde je třeba se zdržet, mají se přední zastavit, dokud všichni nepřejdou.
+- typ: odstavec
+  de: |-
+    So man dann also hinauß kompt/gibt es den feinden ein grossen lärmen/vnd machen ein Schlachtordnung/wissen nicht warfür sie dise vnuersichtliche geschicht verstehn sollen/ob die feind herauß oder leuth zů jnen hinein kommen seind/blieben also in zweiffel/biß die feind die sachen mercken oder erfahren/mag man rüwig vnd ohn sorg hinweg kommen.
+  cs: |-
+    Když se takto vyjde ven, nastane u nepřátel velký poplach a postaví se do bitevního šiku {Schlachtordnung}; nevědí, jak si tu nenadálou událost vyložit, zda nepřátelé vyrazili ven, nebo zda k nim [do hradu] přišla pomoc, a zůstávají tak v nejistotě. Než nepřátelé věc zpozorují nebo se ji dozvědí, lze klidně a bez starosti odejít.
+- typ: nadpis
+  uroven: 2
+  de: Etliche meldung von Kriegßrecht vnd Ordnung.
+  cs: Několik zmínek o válečném právu a řádu
+- typ: odstavec
+  de: |-
+    ITem es ist in gewönlichem gebrauch/es werde dann durch den Artickels brieff außtrücklich abgestrickt/auff den die Kriegßleuth schwören.
+  cs: |-
+    Dále obecným zvykem je následující, pokud to není výslovně zrušeno artikulním listem {Artickels brieff}, na který váleční lidé přísahají.
+- typ: odstavec
+  de: |-
+    Item so man ein Feldtschlacht thůt/Stätt oder Schlösser sturmpt/daß der Monat auff denselbigen tag an/vnd außgeht/darzů ein Monatsold durch das gantz Feldtläger außgegeben wird/auch alle farende habe/an die gemeyne leuth/außgenommen etliche Prouant/so zu vnterhaltung derselbigen Statt/Schloß oder Feldlägers nottürfftig werden möcht.
+  cs: |-
+    Dále, když se svede polní bitva nebo se útokem dobývají města či hrady, končí ten den [žoldový] měsíc a začíná nový a navíc se celému polnímu ležení vyplatí měsíční žold {Monatsold}[^1]; také všechen movitý majetek připadne prostým vojákům, kromě jistého proviantu {Prouant}, který by mohl být potřeba k udržení toho města, hradu nebo polního ležení.
+poznamky:
+- n: 1
+  text: |-
+    Tzv. útočný žold (Sturmsold): den bitvy nebo útoku se počítá jako konec dosavadního a začátek nového žoldového měsíce, takže se vojákům vyplácí celý měsíc.

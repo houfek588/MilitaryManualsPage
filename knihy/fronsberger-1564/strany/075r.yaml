@@ -1,0 +1,67 @@
+id: 075r
+list: LXXV
+strana: recto
+sken: 157
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Zum andern/sollen die Partheyen vnnd die Zeugen offentlich gelesen werden/darzů der Zeugen Namen.
+  cs: |-
+    Za druhé: Strany a svědci mají být veřejně přečteni [vyvoláni], a k tomu i jména svědků.
+- typ: odstavec
+  de: |-
+    Zum dritten/die Zeugen in beyder Parthey beysein/oder einer/ob die ander vngehorsam außblib/in trew vnd eyd nemen/vnd deren one wissen vnd willen der Partheyen nicht erlassen.
+  cs: |-
+    Za třetí: Svědky je třeba za přítomnosti obou stran – nebo jedné z nich, kdyby se druhá neposlušně nedostavila – zavázat slibem věrnosti a přísahou {eyd} a bez vědomí a vůle stran je z nich nepropouštět.
+- typ: nadpis
+  uroven: 3
+  de: Der Eyd soll jnen vorgelesen werden.
+  cs: Přísaha, která se jim má předčíst
+- typ: odstavec
+  de: |-
+    JR Zeugen all/vnnd ein jheder besonder/soll mir/als dem N. befelchhaber/mit handgegebener trew geloben/darnach ein eyd leiblich zu Gott vnd seinem heyligen Euangelio schwören.
+  cs: |-
+    Vy všichni svědci, i každý z vás zvlášť, mi jakožto N., veliteli {befelchhaber}, podáním ruky slíbíte věrnost a potom složíte tělesnou přísahu[^1] Bohu a jeho svatému evangeliu:
+- typ: odstavec
+  de: |-
+    Daß jhr auff eingelegte Artickel vnd Fragstück ein gantze lautere warheyt vnd kundtschafft sagen wöllen/souiel euch darumb kundt vnd wissend sey/niemand zuliebe noch zuleyd/weder durch gab/miet/sinn/gunst/neid oder haß/freundtschafft noch feindschafft/vnd daß keynerley vnterlassen/dardurch die warheyt vnnd gerechtigkeyt nicht verschwigen vnd vntertruckt werd/vnd keyn falschheyt darein vermischen/sondern allein zu fürderung der Göttlichen warheyt vnnd gerechtigkeyt dienstlich/vnnd das jr wolt/das Gott der Herr am jüngsten Gericht vber euch geben solt vnd richten.
+  cs: |-
+    Že k předloženým artikulím a otázkám {Fragstück} vypovíte celou čistou pravdu a podáte svědectví, nakolik je vám o věci známo a vědomo, nikomu k libosti ani k žalu, ani pro dary, úplatu, vlastní zájem, přízeň, závist či nenávist, přátelství ani nepřátelství; že nic neopomenete, čím by pravda a spravedlnost byla zamlčena a potlačena, ani do toho nevmísíte žádnou nepravdu, nýbrž [budete vypovídat] jen k podpoře Boží pravdy a spravedlnosti, tak jak chcete, aby nad vámi Pán Bůh při Posledním soudu vynesl rozsudek a soudil.
+- typ: nadpis
+  uroven: 3
+  de: Darnach soll ein jeder geloben/seine finger auffheben vnd nachreden.
+  cs: Potom má každý slíbit, zvednout prsty a opakovat
+- typ: odstavec
+  de: |-
+    ALs ich mein trew vnd fürgehaltene meynung verstanden hab/dem wil ich nachkommen/getrewlich vnd vngefährlich/das schwör ich/als mir Gott helff vnnd sein heylig Euangelium.
+  cs: |-
+    „Jak jsem svůj slib a předložené znění pochopil, tak je chci dodržet, věrně a bez lsti; to přísahám, tak mi pomáhej Bůh a jeho svaté evangelium.“
+- typ: odstavec
+  de: |-
+    Jetz soll ein jeder zeug sein kundschafft verschweigen/biß zu rechtlicher oder außträglicher offenbarung.
+  cs: |-
+    Nyní má každý svědek své svědectví {kundschafft} zachovat v tajnosti až do soudního či rozhodčího zveřejnění.
+- typ: nadpis
+  uroven: 3
+  de: Beschwörung Meineyds.
+  cs: Zapřisáhnutí proti křivé přísaze {Meineyds}
+- typ: odstavec
+  de: |-
+    SO die Zeugen all geloben vnd geschworen haben/soll jnen stillschweigen auffgelegt/biß zu rechtlicher offenbarung/vnd soll jnen der meineyd erzelt vnd verlesen werden.
+  cs: |-
+    Když všichni svědci slíbili a přísahali, má jim být uloženo mlčení až do soudního zveřejnění a má jim být vyložena a přečtena [povaha] křivé přísahy:
+- typ: odstavec
+  de: |-
+    Zum ersten/welcher ein meineyd schwört/der verleugnet sich Gott deß Allmechtigen/vnd aller seiner gnaden/vnd des bittern leidens vnd sterbens vnsers Herrn Jesu Christi/vnd aller seiner gůtthaten.
+  cs: |-
+    Za prvé: Kdo křivě přísahá, odříká se všemohoucího Boha a veškeré jeho milosti, hořkého utrpení a smrti našeho Pána Ježíše Krista a všech jeho dobrodiní.
+- typ: odstavec
+  de: |-
+    Zum andern/so nimpt der meineydig mit seiner falschen sag dem/wider den er sagt/sein ehr vnd gůt/darumb der Zeug sagt.
+  cs: |-
+    Za druhé: Křivopřísežník bere svou falešnou výpovědí tomu, proti komu vypovídá, jeho čest a statek, o něž ve svědectví jde.
+poznamky:
+- n: 1
+  text: |-
+    „Leiblich schwören“ – přísahat osobně a s tělesným gestem (zdviženými prsty), jak popisuje následující nadpis.

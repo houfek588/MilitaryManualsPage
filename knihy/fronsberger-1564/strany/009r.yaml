@@ -1,0 +1,87 @@
+id: 009r
+list: IX
+strana: recto
+sken: 25
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Empter so vnter keyn Regiment/allein vnter den General Obersten gehörig.
+  cs: |-
+    Úřady, které nepatří pod žádný pluk {Regiment}, nýbrž jen pod nejvyššího polního hejtmana {General Obersten}
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Verzeychnuß vnd meldung aller ämpter so in ein gewaltigen Heerzug gehören/Erstlich der General Oberst.
+  cs: |-
+    Soupis a výčet všech úřadů, které patří k velkému válečnému tažení. Nejprve nejvyšší polní hejtman
+- typ: odstavec
+  de: |-
+    VNter diesen gemelten Obersten gehören alle Regiment zu Pferd vnnd Fůß/auch die Arckelley/vnd waß ein gantzer Feldzug erfordert.
+  cs: |-
+    Pod tohoto jmenovaného nejvyššího [hejtmana] patří všechny pluky na koních i pěšky, také dělostřelectvo {Arckelley} a vše, co vyžaduje celé tažení {Feldzug}.
+- typ: nadpis
+  uroven: 3
+  de: Item des General Obersten.
+  cs: Dále [úřady] nejvyššího polního hejtmana
+- typ: seznam
+  de:
+  - Leutenandt.
+  - Kriegßräth.
+  - Musterherrn.
+  - Commissarien.
+  - Pfenningmeyster.
+  - Oberster Feldtprofoß.
+  - Oberster Feldtprofandtmeyster.
+  - Heroldt.
+  - Schreiber.
+  cs:
+  - poručík {Leutenandt}
+  - váleční radové {Kriegßräth}
+  - přehlídkoví komisaři {Musterherrn}
+  - komisaři {Commissarien}
+  - pokladník {Pfenningmeyster}
+  - nejvyšší polní profous {Oberster Feldtprofoß}
+  - nejvyšší polní proviantmistr {Oberster Feldtprofandtmeyster}
+  - herold {Heroldt}
+  - písař {Schreiber}
+- typ: odstavec
+  de: |-
+    Diese ämpter gehören vnter keyn Regiment/seind allein verpflicht dem General Obersten.
+  cs: |-
+    Tyto úřady nepatří pod žádný pluk, jsou zavázány jen nejvyššímu polnímu hejtmanovi.
+- typ: nadpis
+  uroven: 3
+  de: Empter vnter dem Reysigen Zeug.
+  cs: Úřady u jízdy {Reysigen Zeug}
+- typ: seznam
+  de:
+  - Feldtmarschalck.
+  - Sein Leutenandt.
+  - Aller Reysigen Hauptleut oder Rittmeyster.
+  - Jhr Leutenandt.
+  - Quartiermeyster der Reysigen.
+  - Wachtmeyster der Reysigen.
+  - Profoß der Reysigen vnd Ritterschafft.
+  cs:
+  - polní maršálek {Feldtmarschalck}
+  - jeho poručík
+  - hejtmani neboli rytmistři {Rittmeyster} veškeré jízdy
+  - jejich poručíci
+  - kvartýrmistr {Quartiermeyster} jízdy
+  - vachmistr {Wachtmeyster} jízdy
+  - profous {Profoß} jízdy a rytířstva
+- typ: nadpis
+  uroven: 3
+  de: Empter vnter ein jedes Geschwader Reuter.
+  cs: Úřady u každého jízdního oddílu {Geschwader}
+- typ: seznam
+  de:
+  - Ein Hauptmann oder Rittmeyster.
+  - Sein Leutenandt.
+  - Fänderich.
+  cs:
+  - hejtman neboli rytmistr
+  - jeho poručík
+  - praporečník {Fänderich}

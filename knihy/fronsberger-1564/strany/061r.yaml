@@ -1,0 +1,51 @@
+id: 061r
+list: LXI
+strana: recto
+sken: 129
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd gemetzget/vnd außgehauwen wird/nimpt er von jedem Rind etliche pfund fleysch vnd die Zungen/Gleichergestalt/so man Käß/Schmaltz/Eyer/Fisch/vnd in Summa was man also dem Läger zuführt/soll durch den Profosen geschetzt vnnd gewirdiget werden/Da hat er macht von jedem ein zimlichs profit zunemen/nachdem der Habe vil/vnd sie köstlich ist/Doch soll ers also halten/damit er den jenigen so dem Läger zuführen/jhr haab nicht zugering schetze/auch mit ernst ob den Kauffleuthen/vnd den jenigen so zuführen/damit jhnen keyn schmach/hochmut oder gewalt zugefügt werde/halten/dann darauß folget/daß man dem Läger nicht zuführt/daß dann gar beschwerlich vnnd nachtheylig/So soll ers auch nicht zuthewer schetzen/darmit der gemeyn Kriegsmann darbey bleiben möge/vnnd nicht etwann wo man den Bogen vberspannen wolt/vnter dem Kriegßuolck vnwille/auffrhür vnnd meuterey erfolge.
+  cs: |-
+    a rozsekává, bere z každého kusu hovězího dobytka několik liber {pfund} masa a jazyk. Stejně tak sýr, sádlo, vejce, ryby a zkrátka cokoli se do ležení {Läger} přiváží, má profous {Profosen} ocenit a ohodnotit; z toho má právo vzít si z každého přiměřený užitek {profit}, podle toho, kolik je zboží a jak je drahé. Má si však počínat tak, aby těm, kdo do ležení přivážejí, neocenil jejich zboží příliš nízko, a má také přísně dbát nad kupci a dovozci, aby se jim nedělala žádná potupa, zpupnost ani násilí; z toho by totiž plynulo, že by do ležení nikdo nevozil, což by bylo velmi obtížné a škodlivé. Nemá to však oceňovat ani příliš draze, aby prostý válečník mohl vyjít, a aby snad, kdyby se luk přepínal, nevznikla mezi válečným lidem nevole, pozdvižení a vzpoura.
+- typ: odstavec
+  de: |-
+    So sunst Kauffleuth/Krämer vnnd andere jhr gewerb dem Läger nachführen/von deren jedem hat er macht ein zimlichs profitlin als ein Batzen/zwen/nachdem die haab ist/zunemen.
+  cs: |-
+    Když jinak kupci, kramáři a další vozí své zboží za ležením, má právo vzít od každého z nich přiměřený malý užitek, asi jeden nebo dva baceny {Batzen}, podle toho, jaké je zboží.
+- typ: odstavec
+  de: |-
+    Auch die Sudler vnnd Sudlerin so im Läger kochen/sollen sich alle Monat mit dem Profosen nach zimlichen dingen vertragen.
+  cs: |-
+    Také kuchaři a kuchařky {Sudler vnnd Sudlerin}[^1], kteří v ležení vaří, se mají každý měsíc s profousem přiměřeně dohodnout.
+- typ: odstavec
+  de: |-
+    Auch hat der Profoß von den gefangnen von jedem der gefäncklich angenommen/in die eisen geschlagen/vnnd gefäncklich enthalten wird/sein besonder profit/so er außgelassen wird/doch gebürt jhm hieran gebürliche maß zuhalten.
+  cs: |-
+    Také z vězňů má profous svůj zvláštní užitek – od každého, kdo je zatčen, dán do želez a držen ve vězení, když je propouštěn; i v tom však má zachovávat náležitou míru.
+- typ: odstavec
+  de: |-
+    Sonst ist sein Ampt/so jemandt von einem zu klag kompt/vnd es hette einer etwann jemandts gewalt oder vnbillichs zugefügt/solche straffwirdige personen seine Steckenknecht lassen gefäncklich annemen/dem Stockmeyster zubewaren befelhen/vnd nach gelegenheyt seiner verhandlung etlich tag vnd zeit straffen.
+  cs: |-
+    Jinak je jeho úřadem, přijde-li si někdo na někoho stěžovat, že mu snad učinil násilí nebo křivdu, dát takové trestuhodné osoby svými pacholky {Steckenknecht} zatknout, poručit je žalářníkovi {Stockmeyster} do opatrování a podle povahy provinění je trestat několik dní či po nějakou dobu.
+- typ: odstavec
+  de: |-
+    Weren es aber grosse vnd Malefitz/oder solche sachen die an leib oder leben gestrafft sollen werden/Alßdann soll der Profoß die handlung dem Obersten Feldthauptmann anzeygen/vnd was er mit solchem vbelthäter fürnemen vnnd handlen soll/bescheyd vnd befelch vom Obersten gewarten.
+  cs: |-
+    Jde-li však o velké a hrdelní věci {Malefitz} nebo o takové, které se mají trestat na těle či na životě, má profous čin oznámit nejvyššímu polnímu hejtmanovi {Obersten Feldthauptmann} a očekávat od nejvyššího [hejtmana] rozhodnutí a rozkaz, co má s takovým zločincem podniknout a jak s ním naložit.
+- typ: odstavec
+  de: |-
+    So dann der Oberst befilcht/daß man den vbelthäter für den gemeynen mann stellen/daselbs jhn beklagen/vnd vrtheyl vber ihn ergehn lassen soll/so schlecht man zu der gemeyn an einem gelegnen tag vnd platz vmb/führt den gefangnen in Ring/nimpt einen Feldtweybel zum Fürsprecher/zeygt durch seinen Fürsprechen des vbelthäters mißhandlung an/vnnd begert/daß er vom gemeynen Mann vermög des Artickels Brieff/oder des Kriegßrecht/an ehren/leib oder leben/nachdem die handlung erfordert/gestrafft werden soll.
+  cs: |-
+    Poručí-li pak nejvyšší [hejtman], aby se zločinec postavil před prosté mužstvo {gemeynen mann}, tam byl obžalován a vynesl se nad ním rozsudek, vybubnuje se obec {gemeyn} na vhodný den a místo; [profous] přivede zajatce do kruhu {Ring}, vezme si jednoho šikovatele {Feldtweybel} za řečníka {Fürsprecher}, skrze něho oznámí zločincovo provinění a žádá, aby ho prosté mužstvo podle artikulního listu {Artickels Brieff} nebo vojenského práva potrestalo na cti, na těle nebo na životě, jak to čin vyžaduje.
+- typ: odstavec
+  de: |-
+    Alßdann so der Profoß sein klag gethon/begert der arm beklagt auch einen Fürsprechen auß den Feldtweybeln/thůt sein verantwortung vnd entschuldigung/so also Klag vnd Antwort genugsamlich gehört/so steht ein Feldtweybel in Ring/sagt etwann zu einem Kriegsmann der jhme darzu gefellt/nachdem er zwischen dem
+  cs: |-
+    Když profous přednesl svou žalobu, žádá i ubohý obžalovaný o řečníka z řad šikovatelů a přednese svou obhajobu a omluvu. Když jsou takto žaloba a odpověď dostatečně vyslechnuty, vstoupí jeden šikovatel do kruhu a obrátí se k některému válečníkovi, kterého si k tomu vybere: protože slyšel žalobu a odpověď mezi
+poznamky:
+- n: 1
+  text: |-
+    Sudler – polní kuchař či kuchařka, kteří v ležení vařili a prodávali teplá jídla; podobně jako markytáni platili profousovi poplatek.

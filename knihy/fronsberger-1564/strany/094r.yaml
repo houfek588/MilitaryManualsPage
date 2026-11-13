@@ -1,0 +1,71 @@
+id: 094r
+list: XCIIII
+strana: recto
+sken: 195
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Vnd thůt also auff tausent personen ein tag 10. Centner/Ein wochen 70. Centner/Ein Monat 280. Centner/Ein Jar für zwölff Monat gerechnet thůt es 3360. Centner Fleysch.
+  cs: |-
+    A tak na tisíc osob to činí za den 10 centů {Centner}, za týden 70 centů, za měsíc 280 centů a za rok, počítáno na dvanáct měsíců, 3360 centů masa.
+- typ: nadpis
+  uroven: 3
+  de: Schmaltz Rechnung.
+  cs: Výpočet sádla
+- typ: odstavec
+  de: |-
+    EIn Wochen auff ein Rott Kriegßuolck drey pfund Schmaltz/thůt auff hundert Personen ein wochen 30. pfund/Ein Monat ein Centner/20. pfund/Ein Jar 14. Centner/4. pfund schmaltz.
+  cs: |-
+    Na jednu rotu {Rott} válečného lidu tři libry {pfund} sádla {Schmaltz}[^1] týdně: to činí na sto osob za týden 30 liber, za měsíc 1 cent {Centner} a 20 liber, za rok 14 centů a 4 libry[^2] sádla.
+- typ: odstavec
+  de: |-
+    Auff fünff hundert personen thůt es ein wochen 1. Centner/50. Pfund/ein Monat 6. Centner/Ein Jar 72. Centner/Auff Tausent Personen thůt es ein Wochen 3. Centner/ein Monat 12. Centner/ein Jar für zwölff Monat/thůt es 144. Centner Schmaltz.
+  cs: |-
+    Na pět set osob to činí za týden 1 cent a 50 liber, za měsíc 6 centů, za rok 72 centů. Na tisíc osob to činí za týden 3 centy, za měsíc 12 centů a za rok, počítáno na dvanáct měsíců, 144 centů sádla.
+- typ: nadpis
+  uroven: 3
+  de: Saltz Rechnung.
+  cs: Výpočet soli
+- typ: odstavec
+  de: |-
+    SO man ein Wochen auff zehen Personen ein vierling (deren vier ein simern thůn) saltz gibt/vnd ein Scheyben Saltz 6. simern hellt/thůt es auff hundert personen ein wochen 2. vnd ein halb theyl eins simern Saltz/thůt ein scheyben vnd 4. simern saltz/thůt ein Jar 120. simern/bringt 20. scheyben saltz.
+  cs: |-
+    Dává-li se týdně na deset osob jedna čtvrtka {vierling} soli (čtyři čtvrtky činí jednu mírku {simern}) a drží-li jedna homole soli {Scheyben Saltz}[^3] 6 mírek, činí to na sto osob za týden 2 a půl mírky soli, [za měsíc] jednu homoli a 4 mírky soli, za rok 120 mírek, což dává 20 homolí soli.
+- typ: odstavec
+  de: |-
+    Auff fünff hundert Personen/thůt es ein Wochen 12. vnnd ein halb theyl eines simern/thůt 2. scheyben/2. vierling/ein Monat 50. simern thůt 8. Scheyben/2. Simern saltz/ein Jar thůt es 600. simern/macht 100. scheyben saltz.
+  cs: |-
+    Na pět set osob to činí za týden 12 a půl mírky, tj. 2 homole a 2 čtvrtky; za měsíc 50 mírek, tj. 8 homolí a 2 mírky soli; za rok 600 mírek, což dělá 100 homolí soli.
+- typ: odstavec
+  de: |-
+    Auff Tausent personen/thůt es ein Wochen 25. simern/thůt 4. Scheyben/ein simern saltz/ein Monat 100. simern/macht 16. scheyben/4. Simern saltz/ein Jar lang 1200. simern/thůt 200. scheyben saltz.
+  cs: |-
+    Na tisíc osob to činí za týden 25 mírek, tj. 4 homole a jednu mírku soli; za měsíc 100 mírek, což dělá 16 homolí a 4 mírky soli; za celý rok 1200 mírek, tj. 200 homolí soli.
+- typ: nadpis
+  uroven: 3
+  de: Mähl Rechnung.
+  cs: Výpočet mouky
+- typ: odstavec
+  de: |-
+    WAnn man dann ein Wochen auff hundert personen außtheylt/allwegen ein drittheyl eines Stutgarters Simern Habermähl/vnd das ein scheffel Habern/2. Simern gůt breimähl gibt/so gebürt sich ein Wochen auff hundert Personen 3. simern/ein drittheyl eines simern/thůt ein scheffel/5. simern/vngefährlich thůt ein Monat 13. simern/1. vñ ein drittheyl eins simerns/thůt habern 6. Scheffel/4. Simern/ein Jar 12. Monat darfür gerechnet/thůt es 160. simern/thůt Habern 80. Scheffel.
+  cs: |-
+    Rozděluje-li se pak týdně mezi sto osob vždy [na rotu] třetina stuttgartské mírky {Simern} ovesné mouky {Habermähl}[^4] a dává-li jeden korec {scheffel} ovsa 2 mírky dobré mouky na kaši, připadá týdně na sto osob 3 a třetina mírky, což činí 1 korec a 5 mírek [ovsa]; za měsíc to činí přibližně 13 mírek, 1 a třetinu mírky, v ovsu 6 korců a 4 mírky; za rok, počítáno na 12 měsíců, 160 mírek, v ovsu 80 korců.
+- typ: odstavec
+  de: |-
+    Auff fünff hundert Personen thůt es ein Wochen 16. Simern/2. drittheyl eins Simerns/thůt Habern 8. Scheffel/3. simern vngefährlich/ein Monat 66. Simern vnnd zwey drittheyl/an Habern 33. Scheffel/4. Simern vngefährlich/ein Jar vnd zwölff Monat für ein Jar gerechnet/thůt es 800. Simern Habermähl/thůt frucht 400. scheffel Habern.
+  cs: |-
+    Na pět set osob to činí za týden 16 a dvě třetiny mírky, v ovsu přibližně 8 korců a 3 mírky; za měsíc 66 a dvě třetiny mírky, v ovsu přibližně 33 korců a 4 mírky; za rok, počítáno na dvanáct měsíců, 800 mírek ovesné mouky, v zrní 400 korců ovsa.
+poznamky:
+- n: 1
+  text: |-
+    Schmaltz – přepuštěný tuk (vepřové sádlo nebo přepuštěné máslo). Z čísel vyplývá, že rota se tu počítá na 10 mužů (3 libry na rotu = 30 liber na 100 osob).
+- n: 2
+  text: |-
+    Tak tisk; při 1 centu 20 librách měsíčně (cent = 100 liber) má roční součet správně činit 14 centů 40 liber. Čísla výpočtů na této a následujících stranách jsou přeložena přesně podle tisku, i když se v nich vyskytují nepřesnosti.
+- n: 3
+  text: |-
+    Scheibe Salz – lisovaný bochník (homole, „deska“) soli, v jaké se sůl z jihoněmeckých solivarů prodávala.
+- n: 4
+  text: |-
+    Stuttgartské (württemberské) duté míry: 1 korec (Scheffel) = 8 mírek (Simri), 1 mírka = 4 čtvrtky (Vierling); stuttgartský korec měl asi 177 litrů, mírka tedy asi 22 litrů. Třetina mírky je podle výsledků týdenní dávka na rotu (10 osob), takže sto osob spotřebuje 3 a třetinu mírky.

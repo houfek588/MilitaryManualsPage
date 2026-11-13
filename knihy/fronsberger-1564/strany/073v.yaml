@@ -1,0 +1,47 @@
+id: 073v
+list: LXXIII
+strana: verso
+sken: 154
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    kleyn Hansen/ob einer oder mehr wider solche Artickel oder Regiment stifft oder thet/daß er soll gestrafft werden/damit nit ansehen freundtschafft/Sipschafft/gunst/gab noch gůt/auch nit rechen alten neid oder haß/sondern richten durch die drey Räth/vnd ein vrtheyl fellen/als sie alle wölten/daß Christus vnser HErr vns thet am Jüngsten Gericht/wann er wird richten die zwölff geschlecht Jsrael.
+  cs: |-
+    malí páni[^1]: kdyby jeden nebo více proti těmto artikulím nebo řádu {Regiment} něco podnítili nebo spáchali, že má být potrestán, a že přitom nebudou hledět na přátelství, příbuzenství, přízeň, dary ani statek, ani mstít starou závist či nenávist, nýbrž budou soudit skrze tři rady[^2] a vynesou rozsudek tak, jak by si všichni přáli, aby nám učinil Kristus, náš Pán, na posledním soudu, až bude soudit dvanáct pokolení Izraele.
+- typ: odstavec
+  de: |-
+    Zum dritten/so dann einer oder mehr erfunden würden/die dann vnbillich wolten brauchen/So soll der Profoß nach demselbigen greiffen/vnnd jhn gefenglich annemen/jhn auch wol bewaren/vnd dem Obersten Feldthauptmann sollichs anzeygen/was sie verwirckt haben/vnd sein gnad bitten/daß er ein gemeyn zusammen laß kommen/an einem nüchtern morgen/auch soll der gemeyn lassen anzeygen/auß was vrsachen sie zu einander berüfft seind worden.
+  cs: |-
+    Za třetí: kdyby se pak našel jeden nebo více takových, kdo by si chtěli počínat nepatřičně, má po něm profous {Profoß} sáhnout, zatknout ho a dobře ho střežit a oznámit nejvyššímu polnímu hejtmanovi {Obersten Feldthauptmann}, čím se provinili, a poprosit jeho milost, aby dal svolat obec {gemeyn} na střízlivé ráno; a má dát obci oznámit, z jakých příčin byla svolána.
+- typ: odstavec
+  de: |-
+    Zum vierdten/soll der Profoß keynen gefangnen verkürtzen/vnd jhm ein tag vor der gemeyn lassen fürbieten/ob einer kundtschafft hette oder wißt/des er geniessen soll oder möcht/soll er auch lassen fürbieten/damit keynem zu kurtz geschehe.
+  cs: |-
+    Za čtvrté: profous nemá žádného vězně zkracovat na jeho právu a má ho den před shromážděním obce nechat obeslat; a kdyby [vězeň] měl nebo věděl o svědectví {kundtschafft}, které by mu mohlo prospět, má [profous] dát obeslat i ty svědky, aby se nikomu nestala křivda.
+- typ: odstavec
+  de: |-
+    Zum fünfften/so dann die gemeyn bey einander ist vnd versamlet/so soll der Profoß den gefangnen in Ring bringen/vnd begeren daß der Ring wol verschlossen werde/vnd also zu jhnen sagen: Ein gůten morgen liebe ehrliche Landsknecht/Edel vnd vnedel/wie vns dann Gott zu einander bracht hat oder versamlet/Jhr tragen all gůt wissen/wie wir anfencklich zusamen geschworen haben/daß wir wöllen gůt Regiment füren vnd halten/dem Armen als dem Reichen/dem Reichen als dem Armen/alle vngehorsamkeyt zustraffen/die wider vnser Regiment thůn vnnd brüchig werden/Darauff ich liebe Landtsknecht auff heutigen tag ein mär beger/mir helffen sollich vbel zustraffen/daß wir es auch verantworten können bey anderen Fürsten vnd Herren. Spricht der Profoß zum Feldtwebel/Mach ein mär/Darüber fehet der Feldtwebel an/also/Lieben Landsknecht/jhr habt des Profosen red wol verstanden/welchem es lieb ist/daß wir demselbigen also nachkommen/der heb mit mir ein hände auff.
+  cs: |-
+    Za páté: když je pak obec pohromadě a shromážděna, má profous přivést vězně do kruhu {Ring}, požádat, aby se kruh dobře uzavřel, a promluvit k nim takto: „Dobré jitro, milí čestní lancknechti {Landsknecht}, urození i neurození, jak nás Bůh svedl dohromady a shromáždil. Všichni dobře víte, jak jsme na počátku společně přísahali, že chceme vést a držet dobrý řád {Regiment}, chudému jako bohatému a bohatému jako chudému, a trestat každou neposlušnost, která se proti našemu řádu dopouští a porušuje ho. Proto vás, milí lancknechti, dnešního dne žádám o hlasování {mär}, abyste mi pomohli takové zlo potrestat, abychom to mohli obhájit i před jinými knížaty a pány.“ Profous řekne šikovateli {Feldtwebel}: „Vyhlas hlasování.“ Nato šikovatel začne takto: „Milí lancknechti, dobře jste rozuměli profousově řeči. Komu je milé, abychom jí tak vyhověli, ať se mnou zvedne ruku.“
+- typ: odstavec
+  de: |-
+    Zum sechsten/begert der Profoß jetzt ein Fürsprecher vnd sein Rath/es wird jm vergundt/Die gefangnen auch jhren Fürsprechen vnd jhren Rath/Jetzt dingen sich beyde Fürsprechen ins Recht/vor dem gemeynen Mann wie breuchlich ist.
+  cs: |-
+    Za šesté: profous nyní žádá řečníka {Fürsprecher} a jeho rádce a je mu to povoleno; vězňové rovněž [dostanou] svého řečníka a svého rádce. Nyní se oba řečníci před obcí {gemeynen Mann} ujednají u soudu, jak je obyčejem.
+- typ: odstavec
+  de: |-
+    Zum siebenden/so nimpt der Profoß seinen Fürsprechen vnd Rath/vnd geht mit jhnen auß dem Ring/vnnd zeygt jhnen die handlung an/was der gefangen verwirckt hab/vnnd befilcht dem Fürsprechen was er dem gemeynen Mann soll anzeygen vnd fürhalten/Jn dem gehen sie wider in Ring/spricht des Profosen Fürsprech/Liebe ehrliche Landsknecht/wölt jhr mich hören/von wegen des Profosen/Antworten sie ja/Jetzt erzelt der Fürsprech der gemeyn/was der gefangen verwirckt hat/darauff der Profoß begert/daß er an dem heutigen tag an seinem leib/ehr vnnd gůt gestrafft werde.
+  cs: |-
+    Za sedmé: profous vezme svého řečníka a rádce, vyjde s nimi z kruhu a vyloží jim věc, čím se vězeň provinil, a uloží řečníkovi, co má obci oznámit a předložit. Potom se vrátí do kruhu a profousův řečník promluví: „Milí čestní lancknechti, chcete mě vyslechnout za profouse?“ Oni odpovědí: „Ano.“ Nyní řečník vylíčí obci, čím se vězeň provinil, načež profous žádá, aby byl ještě dnešního dne potrestán na těle, cti a statku.
+- typ: odstavec
+  de: Zum achten/nimpt der gefangen sein Fürsprechen vnd Rath auch/vnnd geht
+  cs: 'Za osmé: vězeň vezme rovněž svého řečníka a rádce a vyjde'
+poznamky:
+- n: 1
+  text: |-
+    „groß vnnd kleyn Hansen“ – velcí i malí „Hansové“, tj. vznešení i prostí (srov. l. LXVv).
+- n: 2
+  text: |-
+    „durch die drey Räth“ – patrně trojí porada (trojí obeslání či hlasování obce) před vynesením rozsudku; přesný smysl formule není jistý.

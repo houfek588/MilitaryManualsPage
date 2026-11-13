@@ -1,0 +1,52 @@
+id: 006r
+list: VI
+strana: recto
+sken: 19
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Pfennigmeysters Eydt.
+  cs: Přísaha pokladníka {Pfennigmeysters}
+- typ: odstavec
+  de: |-
+    SEin Eydt ist zůgleich wie der Musterherrn vnd anderer Kriegßräth/allein es wird hinzů gesetzt/daß er das Gelt etwann von des Kriegßherrn wegen bey handen/mit allen trewen verwaren/zu deß Herren ehr/nutz vnnd wolfart/inhalt seiner bestallung gebrauchen/auch seiner handlung einnemens vnd außgebens/gůte/erbare/ordenliche vnd vnterschidliche Rechnung geben vnd thůn wolle/wie sich gebürt.
+  cs: |-
+    Jeho přísaha {Eydt} je stejná jako přísaha přehlídkových komisařů {Musterherrn} a ostatních válečných radů, jen se k ní přidává, že peníze, které má případně u sebe jménem válečného pána {Kriegßherrn}, bude se vší věrností opatrovat, užívat je ke cti, užitku a blahu pána podle obsahu svého služebního listu {bestallung} a že ze svého hospodaření s příjmy a výdaji složí dobré, poctivé, řádné a rozčleněné účty, jak se sluší.
+- typ: odstavec
+  de: |-
+    Deß Pfennigmeysters Besoldung ist des Monats N. Gülden.
+  cs: |-
+    Žold pokladníka činí N. zlatých měsíčně.
+- typ: odstavec
+  de: |-
+    Jhm werden gehalten zwen Trabanten/einer oder souil die notturfft erfordert Schreiber/dieselbigen Schreiber sollen dem Kriegßherrn geschworen/vnnd dem Pfennigmeyster nichts verpflicht sein.
+  cs: |-
+    Vydržují se mu dva drabanti {Trabanten} a jeden písař, nebo kolik jich je zapotřebí; tito písaři mají přísahat válečnému pánovi a pokladníkovi nemají být ničím zavázáni.
+- typ: odstavec
+  de: |-
+    Sonst wird er gehalten mit sein gereysigen vnnd gerüsten Pferden/wie andere Musterherrn vnd Kriegßräth.
+  cs: |-
+    Jinak se mu vydržují jeho jezdečtí a zbrojní koně jako ostatním přehlídkovým komisařům a válečným radům.
+- typ: odstavec
+  de: Wägen zum Gelt vnd Register werden jhm auch ein notturfft gehalten.
+  cs: Také vozy na peníze a rejstříky se mu vydržují podle potřeby.
+- typ: nadpis
+  uroven: 2
+  de: Profandtmeysters Ampt vnd Befelch.
+  cs: Úřad a pověření proviantmistra {Profandtmeysters}
+- typ: odstavec
+  de: |-
+    WO man ein grossen gewaltigen Feldzug fürnimpt/besonder so es in ein fern vnd frembd Land were/darin man zu fürgenomenem Feldzug nach notturfft Profandt nit gehaben möcht/oder besorgen můß/daß die Feind die Profandt verderben/oder sonst hinweg vnd in gewarsame schaffen würden/So ist vonnöten/daß man ein gůt zeit vor anfang des Kriegs ein nachgedencken habe/wo man Profandt als Korn/Habern/Mahl/Brot/Fleysch/vnd was dann der Kriegßherr zur vnuermeidlichen notturfft zu vnterhaltung des Volcks vnd Pferden vonnöten/sein nachgedencken/vnd rathschlag darauff mache/welcher massen die Profand zu wasser vnd land am gewarsamlichsten zum hauffen vnuerhindert dem Kriegßuolck nachgeführt werden möge.
+  cs: |-
+    Podniká-li se velké a mocné tažení {Feldzug}, zvláště do vzdálené a cizí země, kde by se pro zamýšlené tažení nedalo dost proviantu {Profandt} sehnat, nebo je-li se třeba obávat, že nepřátelé proviant zničí nebo jinak odvezou a uloží do bezpečí, je nutné dlouho před začátkem války promyslet, odkud vzít proviant – obilí, oves, mouku, chléb, maso a cokoli dalšího, co válečný pán nevyhnutelně potřebuje k obživě lidu a koní – a rozvážit a naplánovat, jak lze proviant po vodě i po souši co nejbezpečněji a bez překážek dopravovat za vojskem {hauffen} válečnému lidu.
+- typ: odstavec
+  de: |-
+    Hierzů ist gůt/so man weyß wie starck man zů Roß vnd zů Fůß ins Feld wil/auch wie lang man gedenckt daß der Feldzug wehren möge/daß man sein rechnung mach/was vnd wieuil man Profandt auff souil Volcks vnd Pferdt ein solche zeit notturfftig ist/die rechnung ist gůt zumachen.
+  cs: |-
+    K tomu je dobré, ví-li se, jak silně na koních i pěšky se chce vytáhnout do pole a jak dlouho má tažení podle předpokladu trvat, propočítat si, jaký a kolik proviantu je pro tolik lidu a koní na takovou dobu zapotřebí; ten výpočet se udělá snadno.
+- typ: odstavec
+  de: |-
+    Zu solchem gehört ein besonderer Profandtmeyster/der geschickt vnd anschlegig sey/solch ding nach notturfft zubedencken/anzuschicken vnd zuuersehen/der darff nie im Feldläger sein/sonder er bleibt an den enden da jhn am füglichsten bedünckt/bestellt Profandt/verfertigt dieselbig dem hauffen zu durch mittel personen/so jm zu solchem befelch von einem ort zum andern zůuerordnet seind. Jm Läger hat man gleich wol auch ein Profandtmeyster der dieselbige annimpt/fürter dem Profosen dieselbig zu schätzen anzeyge/vnd wo vonnöten/vnter das Kriegßuolck außtheyle/auch dasselbig was jhm also zůkompt/beschreibe/wo es sach were daß die Profandt des Kriegßherrn/vnd auff desselbigen kosten nachgeführt würd/ist aber die Profandt nit des Kriegßherren/sonder wird dem Läger also nach verfertigt/daß jederman auff sein abenthewer vnd gewinn nachzeucht/so darff es keyner beschreibung.
+  cs: |-
+    K tomu patří zvláštní proviantmistr {Profandtmeyster}, který je schopný a vynalézavý, aby takové věci náležitě promyslel, zařídil a zajistil. Ten nemusí být vůbec v polním ležení {Feldläger}, nýbrž zůstává na místech, která se mu zdají nejpříhodnější, objednává proviant a posílá ho k vojsku po prostřednících, kteří jsou mu k takové službě z místa na místo přiděleni. V ležení je však také proviantmistr, který proviant přebírá, ohlašuje ho profousovi {Profosen}, aby mu stanovil cenu, a kde je třeba, rozděluje ho mezi válečný lid a také zapisuje, co mu takto přichází – totiž v případě, že proviant patří válečnému pánovi a dováží se na jeho náklady. Nepatří-li však proviant válečnému pánovi, nýbrž je za ležením dopravován tak, že každý táhne za vojskem na vlastní riziko a pro vlastní zisk, není třeba nic zapisovat.

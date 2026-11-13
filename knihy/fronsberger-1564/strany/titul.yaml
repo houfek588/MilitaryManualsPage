@@ -1,0 +1,34 @@
+id: titul
+list: titulní list
+strana: recto
+sken: 1
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: KriegsOrdnung Vnd Regiment/
+  cs: Válečný řád a pluk {Regiment}[^1]
+- typ: odstavec
+  de: |-
+    sampt derselbigen Befehl/Statt vnd Empter/zu Roß vnd Fuß/auch an Geschütz vnd Munition/in Zügen/zu Feldt/vor oder in Besatzungen/gegen oder vor den Feinden sich zu gebrauchen/mit schönen Figuren auffs neuw zugericht/gemehret/dergleichen hievor nicht getruckt worden/
+  cs: |-
+    spolu s jeho velitelskými funkcemi, hodnostmi a úřady u jízdy i pěchoty, jakož i u děl {Geschütz} a munice {Munition}, jak se jich má užívat na taženích, v poli, před posádkami {Besatzungen} nebo v nich, proti nepříteli či před ním; nově upraveno s pěknými vyobrazeními a rozšířeno, jak dosud nic podobného nebylo tištěno.
+- typ: odstavec
+  de: Durch Leonhart Fronsperger an tag geben.
+  cs: Na světlo vydal Leonhart Fronsperger.
+- typ: obrazek
+  soubor: drevorez-1.jpg
+  popis: |-
+    Titulní dřevořez: velitel na koni uprostřed sevřeného šiku lancknechtů s dlouhými kopími, prapory a bubnem, v rámu s válečnými trofejemi.
+- typ: odstavec
+  de: |-
+    Getruckt zu Franckfurt am Mayn/bey Johan Lechlern/in Verlegung Sigmund Feyerabends vnd Simon Hüters.
+  cs: |-
+    Vytištěno ve Frankfurtu nad Mohanem u Johanna Lechlera, nákladem Sigmunda Feyerabenda a Simona Hütera.
+- typ: odstavec
+  de: M. D. LXIIII.
+  cs: M. D. LXIIII. [1564]
+poznamky:
+- n: 1
+  text: |-
+    Regiment zde znamená celé zřízení vojska (velení, úřady a jejich řád), nikoli jen útvar; titul je ustálený název díla („Válečný řád a pluk“). Na titulním listu je dřevořez: vojevůdce na koni uprostřed lancknechtů s dlouhými kopími a praporci.

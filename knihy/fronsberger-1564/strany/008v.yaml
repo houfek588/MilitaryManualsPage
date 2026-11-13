@@ -1,0 +1,27 @@
+id: 008v
+list: VIII
+strana: verso
+sken: 24
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    verzeychne vnnd beschreibe/es treffe an freund oder feind/dasselbig in geheymnuß bey jhm behalten vnd verwaren.
+  cs: |-
+    zaznamenával a sepisoval, ať se to týká přítele nebo nepřítele, a v tajnosti to u sebe uchovával a opatroval.
+- typ: obrazek
+  soubor: obrazek2.png
+  popis: >-
+    Dřevořez v oválném rámu zdobeném zbraněmi a zbrojí: v otevřeném stanu sedí u stolu písař s dalšími muži
+    nad listinami a knihami – kancelář nejvyššího polního hejtmana.
+- typ: odstavec
+  de: |-
+    Er soll sich auch befleissen vnnd bewerben/daß er von den Zal oder Pfennigmeystern/oder durch die Commissarien deren Register ein abschrifft oder Copey habe/damit der General Oberst wiß/wie starck er zu Roß vnd Fůß sey/vnd was der Arckelley vermögen/wann oder wa die Fändlin/oder die Reysigen hin oder wider wachen/an welchen orten vnd enden/auch wie offt die Wacht vmbgeh/oder wieuiel vnd wasserley Fändlin auff ein mal wachen.
+  cs: |-
+    Má se také přičinit a vynasnažit, aby od platebníků či pokladníků {Zal oder Pfennigmeystern} nebo skrze komisaře {Commissarien} měl opis či kopii jejich rejstříků, aby nejvyšší polní hejtman {General Oberst} věděl, jak je silný na koních i pěšky a co zmůže dělostřelectvo {Arckelley}; kdy a kde praporce {Fändlin} nebo jezdci tu i tam drží stráž, na kterých místech a koncích, jak často obchází stráž a kolik a jakých praporců drží stráž najednou.
+- typ: odstavec
+  de: |-
+    Er soll auch was der General Oberst für sendungen oder außschreibungen thůt/es were gleich durch den Heroldt offentlich außgerüffen oder durch die Trommeter verkündet/so soll er von einer jeglichen Missiue oder Brieff/ein Copey behalten/die fleißig verwaren/dergleichen wasserley Brieff dem General Obersten zůgesandt vnd geschickt werden/soll er dermassen auch verwaren/dann in dem fall/so es zu verträgen vnd vereynigung kompt/so begeben sich viel spän/jrrung vnd zwitracht/derhalben kan vnd mag sollichs leichtlich durch die auffgehabne Brieff vnnd schrifftlich bekanntnussen entscheyden werden.
+  cs: |-
+    Ze všech poselství a vyhlášek, které nejvyšší polní hejtman vydá, ať je herold veřejně provolá nebo je oznámí trubači, má si z každé misivy či listu ponechat kopii a pilně ji opatrovat; stejně tak má opatrovat všechny listy, jež jsou nejvyššímu polnímu hejtmanovi zaslány a poslány. Dojde-li totiž na smlouvy a dohody, vzniká mnoho sporů, nedorozumění a nesvárů, a ty lze pak snadno rozhodnout podle uschovaných listů a písemných vyznání.

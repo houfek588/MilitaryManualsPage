@@ -1,0 +1,66 @@
+id: 067r
+list: LXVII
+strana: recto
+sken: 141
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vberlauffen/noch schulden oder scheltwort halben/ausserthalb rechtens gegen dem andern nichts fürnemen/Welcher solches vberfert/der soll nach erkantnuß deß Rechten gestrafft werden.
+  cs: |-
+    napadat ani proti druhému pro dluhy nebo nadávky nic podnikat mimo cestu práva. Kdo by to přestoupil, má být potrestán podle nálezu soudu {Rechten}.
+- typ: odstavec
+  de: |-
+    Ob sich begebe/daß einer mit dem andern vneins würde/es were ein Fůßknecht mit dem andern/Reysigen oder andere/soll sich keyner Rotten/sonder von stundan frid nemen vnd geben/vnd welcher vmb friden zugesprochen würd/vnd den nit hielt/auff den sol ein jeder schlahen/vnnd so solcher versager deß fridens darüber erschlagen wird/an demselbigen sol niemands sich vergriffen noch gefräfelt haben.
+  cs: |-
+    Kdyby se stalo, že by se jeden s druhým rozkmotřil, ať pěší knecht {Fůßknecht} s jiným, s jezdci {Reysigen} nebo s jinými, nemá se nikdo srocovat, nýbrž ihned vzít a dát mír; a kdo by byl k míru vyzván a nedodržel by ho, na toho má každý udeřit. A kdyby takový odpírač míru byl přitom ubit, nikdo se na něm neprohřešil ani nespáchal zločin.
+- typ: odstavec
+  de: |-
+    Weitter ob einer sein wehr auff den andern sticht oder nachwirfft/oder jemands stech/oder ligend schlůg/es were vor oder nach dem friden/der soll am leib gestrafft werden.
+  cs: |-
+    Dále: kdyby někdo svou zbraní na druhého bodl nebo ji po něm hodil, nebo někoho probodl či ležícího bil, ať před mírem, nebo po něm, má být potrestán na těle.
+- typ: odstavec
+  de: |-
+    Es soll keyner meuterey/aufflauff/auffrůr oder lärmen machen/welcher aber in solichem sich vbersehe vnd vberfaren würde/der soll nach erkanntnuß deß Obersten vnd der Hauptleuth/sonder alle gnad gestrafft werden.
+  cs: |-
+    Nikdo nemá dělat vzpouru {meuterey}, srocení, pozdvižení ani poplach. Kdo by se v tom však prohřešil a provinil, má být bez jakékoli milosti potrestán podle uvážení plukovníka {Obersten} a hejtmanů {Hauptleuth}.
+- typ: odstavec
+  de: |-
+    Wo einer jnnen würde/daß jemands verrätterey oder andere böse stück tribe/die wider N. vnsern gnedigen HErren/den Obersten/die Hauptleuth/oder ander Befelchsleuth were/der soll das bey seinem Eyd dem Profosen anzeygen/damit man der gebür nach dagegen handlen möge.
+  cs: |-
+    Kdyby se někdo dozvěděl, že někdo provozuje zradu nebo jiné zlé kusy proti N., našemu milostivému pánu, proti plukovníkovi, hejtmanům nebo jiným velitelům {Befelchsleuth}, má to při své přísaze {Eyd} oznámit profousovi {Profosen}, aby se proti tomu dalo náležitě zakročit.
+- typ: odstavec
+  de: |-
+    Es soll keyner auß dem Läger ziehen/weder auff beuthe noch anderßwohin/one seines Hauptmanns wissen vnd erlaubnuß bey leib straff.
+  cs: |-
+    Nikdo nemá odcházet z ležení {Läger}, ani za kořistí, ani kamkoli jinam, bez vědomí a svolení svého hejtmana, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Es soll keyner mit den feinden sprach halten/ohne deß Obersten wissen vnnd befelch.
+  cs: Nikdo nemá s nepřáteli rozmlouvat bez vědomí a rozkazu plukovníka.
+- typ: odstavec
+  de: |-
+    Item wo Reysige vnd Fůßknecht beyeinander in einem Läger ligend/so sollend jhr den Reysigen zimlicher massen entweichen/damit die Reysigen jhre pferde vnderbringen mögen.
+  cs: |-
+    Dále: kde jízda a pěší knechti leží spolu v jednom ležení, máte jezdcům přiměřeně ustoupit, aby jezdci mohli ustájit své koně.
+- typ: odstavec
+  de: |-
+    Item es soll ein jeder wie er von seinem Furier losiert wird/sich derselbigen vergnügen lassen/vnd sich gütlich vnd fridlich betragen.
+  cs: |-
+    Dále se má každý spokojit s tím, jak ho ubytuje jeho furýr {Furier}, a chovat se vlídně a pokojně.
+- typ: odstavec
+  de: |-
+    Es soll keyner an gefärlichen orten/besonder bey der nacht abschiessen/es sey im Läger oder anderßwo/dardurch schaden oder lärmen entstehn möcht/bey vermeidung leibs straff.
+  cs: |-
+    Nikdo nemá na nebezpečných místech, zvláště v noci, vystřelovat, ať v ležení, nebo jinde, čímž by mohla vzniknout škoda nebo poplach, aby se vyhnul trestu na těle.
+- typ: odstavec
+  de: |-
+    Es soll keyner keyn Mülen/Bachöfen/oder was zu gemeyner notturfft dienstlich/beschedigen/zerbrechen one befelch deß Obersten/bey leib straff.
+  cs: |-
+    Nikdo nemá bez rozkazu plukovníka poškozovat ani rozbíjet mlýny, pekařské pece ani nic, co slouží obecné potřebě, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item wo einer oder mehr weren/die Flucht im Feld machen/oder sonst an Schlachten/Stürmen/oder Scharmützeln/soll der nechst so jhne erreychen mag/
+  cs: |-
+    Dále: kdyby jeden nebo více z nich dali se v poli na útěk, nebo jinak v bitvách, při šturmech či v šarvátkách, má ho ten nejbližší, kdo na něho dosáhne,

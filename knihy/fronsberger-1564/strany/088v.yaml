@@ -1,0 +1,57 @@
+id: 088v
+list: LXXXVIII
+strana: verso
+sken: 184
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Die gefangnen soll man wol halten/jhnen gůt geschirr machen/vnd nit gestatten/daß jhnen jemands schmach oder hochmůth beweise/das alles macht dem feind ein entsetzen vnd vnmůth.
+  cs: |-
+    Se zajatci se má dobře zacházet, má se k nim chovat vlídně a nemá se dovolit, aby jim kdokoli prokazoval potupu nebo zpupnost; to vše budí v nepříteli zděšení a malomyslnost.
+- typ: odstavec
+  de: |-
+    Es ist gar liederlich geschehen/daß man gefangne vberkompt/nachts etliche gůte ehrliche gesellen/denen man vertrawen darff/in weisse hembder angethan/vnnd ein losung geben/damit sie einander erkennen mögen/hinnauß geschickt/vnd auffs aller leysest zu der feind Schiltwacht geschlichen/vnd dann auffs stillest vnter die Schiltwacht gefallen/vnd sich in keyn handlung gegeben/auch auffs beldest ehe die Scharwacht sie retten mag/wider daruon gewischt/vnd zu solchem anschlag seind die kurtze wehren am besten.
+  cs: |-
+    Zajatce lze získat velmi snadno: v noci se pošle ven několik dobrých čestných druhů {gesellen}, jimž lze důvěřovat, oblečených do bílých košil, a dá se jim heslo {losung}, aby se navzájem poznali. Ti se co nejtišeji připlíží k nepřátelské stálé stráži {Schiltwacht}, co nejtišeji ji přepadnou, nepouštějí se do žádného boje a co nejrychleji, dřív než jí může přispěchat na pomoc obchůzka {Scharwacht}, zase zmizí. K takovému podniku jsou nejlepší krátké zbraně.
+- typ: odstavec
+  de: |-
+    Item sonst soll ein weiser verständiger Oberster stäts in betrachtung sein/womit er die seinen beschützen/dem feind abbrechen vnd nachtheyl zufügen möge.
+  cs: |-
+    Dále má moudrý a rozumný plukovník {Oberster} i jinak stále přemýšlet, čím by mohl své lidi ochránit, nepříteli ubrat a způsobit mu škodu.
+- typ: odstavec
+  de: |-
+    Item wo er vnwillen zwischen der feind Obersten vnd Kriegßvolck vermerckt/oder zwischen den Hauptleuhten/denselbigen mit geschwinden Practicken mehren vnd stercken.
+  cs: |-
+    Dále, zpozoruje-li nevoli mezi nepřátelskými plukovníky a válečným lidem {Kriegßvolck} nebo mezi hejtmany {Hauptleuhten}, má ji chytrými úklady {Practicken} rozmnožovat a posilovat.
+- typ: odstavec
+  de: |-
+    Item weg vnd mittel sůchen/wo er möcht vnwillen vnd mißvertrawen vnter den Hauptleuhten/Item zwischen der feind Obersten vnnd dem Kriegßvolck/Item zwischen dem kriegßherren der Feind vnd seinem Obersten vnnd Hauptleuthen anzettlen/was er nachtheyligs dem feind erdencken kan/soll er nicht sparen/so viel mit ehr geschehen mag/die weg vnd mittel durch welche sollichs geschehen mag/seind nit noth zůmelden/der verständig kans wol betrachten.
+  cs: |-
+    Dále má hledat cesty a prostředky, jak by mohl rozsévat nevoli a nedůvěru mezi hejtmany, dále mezi nepřátelskými plukovníky a válečným lidem, dále mezi válečným pánem {kriegßherren} nepřátel a jeho plukovníkem a hejtmany. Co dokáže vymyslet nepříteli ke škodě, nemá šetřit, nakolik se to může stát se ctí. Cesty a prostředky, jimiž se to může stát, není třeba uvádět; rozumný si je dobře domyslí.
+- typ: odstavec
+  de: |-
+    Item ob jemands der in der Besatzung verrähterey treiben wölt/von feinden darzu angestifft vnd offenbar würde/der soll mit strenger frag ernstlich ersůcht/vnnd der feind Practicken erkündigt/Nachmals so die schuld befunden/der verrähter gegen der feind Läger vber die mawren/oder geuiertheylt/vnd die viertheyl hinauß gehenckt werde/nach gelegenheyt deß verwirckens/damit der feind sein angestelte verrähterey geoffenbaret/vergebens vnd gestrafft sein/vermercke.
+  cs: |-
+    Dále, kdyby někdo v posádce {Besatzung} chtěl páchat zradu, byl k tomu nepřáteli naveden a vyšlo to najevo, má být přísně vyslýchán na mučidlech a mají se vyzvědět úklady nepřátel. Když se pak vina prokáže, má být zrádce podle povahy provinění buď [shozen] přes hradby směrem k nepřátelskému ležení {Läger}, nebo rozčtvrcen a čtvrti vyvěšeny ven, aby nepřítel poznal, že jím nastrojená zrada byla odhalena, přišla vniveč a byla potrestána.
+- typ: nadpis
+  uroven: 3
+  de: Was für Personen in einer Besatzung von nöthen.
+  cs: Jaké osoby jsou v posádce zapotřebí
+- typ: odstavec
+  de: |-
+    ITem Köch/souiel nach viele der Personen der Besatzung vonnöhten/ist gůt daß sie metzgen können.
+  cs: |-
+    Dále kuchaři, kolik jich je podle počtu osob v posádce třeba; je dobré, umějí-li porážet dobytek.
+- typ: odstavec
+  de: |-
+    Item wo die Köch nicht metzgen können/einen oder so viel vonnöhten Metzger.
+  cs: |-
+    Dále, neumějí-li kuchaři porážet, jeden nebo tolik řezníků, kolik je potřeba.
+- typ: odstavec
+  de: |-
+    Item ein notturfftig anzal der Keller/ist gůt daß sie Küffer oder Binder seyen.
+  cs: Dále potřebný počet sklepníků; je dobré, jsou-li to bednáři či kádaři.
+- typ: odstavec
+  de: Item wo die Keller nicht Binder seind/ein oder zwen Binder.
+  cs: Dále, nejsou-li sklepníci bednáři, jeden nebo dva bednáři.

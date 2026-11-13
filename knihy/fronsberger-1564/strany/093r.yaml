@@ -1,0 +1,53 @@
+id: 093r
+list: XCIII
+strana: recto
+sken: 193
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Das alles ist gemacht auff Rath vnnd verbesserung anderer Kriegßverständigen/dasselbig zůmindern oder mehren/alles nach gelegenheyt vnd gestalt der sachen/vnnd der Herrschafft vermögen/es můß nicht eben also sein/aber gůte Ordnung zůhalten/bringt grosse frucht/besonder in Kriegßsachen/vnordnung aber bringt das widerspiel/angst vnd noth/sterben vnd verderben.
+  cs: |-
+    To všechno je sepsáno k uvážení a zlepšení jinými znalci války, aby to ubrali nebo přidali, vše podle okolností a povahy věcí a podle možností vrchnosti. Nemusí to být přesně takto; ale zachovávat dobrý řád {Ordnung} přináší velký užitek, zvláště ve válečných věcech, kdežto nepořádek přináší opak: úzkost a nouzi, smrt a zkázu.
+- typ: nadpis
+  uroven: 2
+  de: Von der Prouant einer Besatzung.
+  cs: O proviantu {Prouant} posádky
+- typ: odstavec
+  de: |-
+    IN einer Besatzung soll man von stundan Prouantmeyster bestellen/die inn alle heuser/auff alle Kornkästen inn alle Burgers heuser gehn/alle Prouant/von Korn/habern/gärsten/Rocken/wein/speck/digens vnd grün fleysch/vihe/vnd alles das zur speisung dienstlich/auffschreiben vnd verwaren lassen/damit man es im fall der noth haben möge/dann soll mans anwenden/doch den jenigen/deren es ist/zimliche bezalung darumb folgen lassen.
+  cs: |-
+    V posádce {Besatzung} se mají ihned ustanovit proviantmistři {Prouantmeyster}, kteří obejdou všechny domy, všechny sýpky a všechny měšťanské domy a dají sepsat a zajistit veškerý proviant – obilí, oves, ječmen, žito, víno, slaninu, uzené i čerstvé maso, dobytek a vše, co slouží k obživě –, aby to bylo v případě nouze po ruce. Teprve tehdy se to má použít, avšak těm, jimž to patří, se za to má dát přiměřená úhrada.
+- typ: odstavec
+  de: |-
+    Item am ersten der Besatzung soll man ordnen/was man tags für Prouant auff ein person/auff ein pferdt geben wölle/das soll auch alles ordenlich durch die Rechnung gesůcht werden/wie lang man also Prouant haben möge/vnd zu erst vnnd am anfang soll man auff das geringst die Prouant außtheylen/nicht mehr dann die blosse vnuermeidliche notturfft erfordert/dann ehe das Kriegßvolck noth gelitten vnd vnwillig worden/seind sie viel benügiger/dann wann man jnen am ersten die völle gebe/vnd dann erst wölt an der Prouant abbrechen/so die Belägerung etwann lang gewert/vnd das Kriegßvolck vnwillig were/würde nit gůt sein/vnnd möcht meuterey vnnd empörung erwecken/sonst so das Kriegßuolck etwann lang die Belegerung erduldet hat/vnd anhebt vngedultig zůwerden/mag man sie damit etwann stillen vnd zůfrieden machen/so man jnen dann mit handreichung der Prouant zů stewr kompt.
+  cs: |-
+    Dále se má hned na počátku obsazení stanovit, kolik proviantu se chce denně dávat na osobu a na koně; také se má vše řádně propočítat, jak dlouho se takto s proviantem vystačí. Zpočátku se má proviant rozdělovat co nejskrovněji, ne víc, než si žádá holá nevyhnutelná potřeba. Dokud totiž válečný lid {Kriegßvolck} nezakusil nouzi a nezačal se bouřit, je mnohem skromnější; kdyby se mu naopak zpočátku dávalo plnou měrou a teprve pak, když by obležení trvalo dlouho a válečný lid byl nespokojený, se chtělo na proviantu ubírat, nebylo by to dobré a mohlo by to vyvolat vzpouru {meuterey} a pozdvižení. Když naopak válečný lid snáší obležení už dlouho a začíná být netrpělivý, lze ho tím uklidnit a upokojit, že se mu přilepší přídělem proviantu.
+- typ: nadpis
+  uroven: 3
+  de: Wein Rechnung.
+  cs: Výpočet vína
+- typ: odstavec
+  de: |-
+    ITem so man auff ein einiche person tags gibt ein Eßlinger maß Wein/thůt es ein tag auff 100. Personen 10. Jme/thůt ein wochen 4. Eymer/6. Jme/thůt ein Monat 2. Eßlinger Fuder/5. Eymer/8. Jme/vnnd thůt ein Jar oder 12. Monat 35. Fuder. Also thůt es auff 500. Mann ein tag 3. Eymer/2. Jme/thůt ein wochen 3. Fuder/3. Eymer/14. Jme/vnnd thůt ein Monat 14. Fuder/3. Eymer/8. Jme/Thůt ein Jar 175. Fuder.
+  cs: |-
+    Dále, dává-li se jedné osobě denně jeden esslinský máz {maß} vína, činí to na 100 osob za den 10 imi {Jme}, za týden 4 vědra {Eymer} a 6 imi, za měsíc 2 esslinské fudry {Fuder}, 5 věder a 8 imi a za rok čili 12 měsíců 35 fudrů[^1]. Na 500 mužů to tedy činí za den 3 vědra a 2 imi, za týden 3 fudry, 3 vědra a 14 imi, za měsíc 14 fudrů, 3 vědra a 8 imi a za rok 175 fudrů.
+- typ: odstavec
+  de: |-
+    Also geht auff ein tausent personen ein tag 6. Eymer 4. Jme. Ein wochen 7. Fuder 1. Eymer/12. Jme. Ein Monat 29. Fuder/1. Eymer. Ein Jar 350. Fuder.
+  cs: |-
+    Na tisíc osob tedy padne za den 6 věder a 4 imi; za týden 7 fudrů, 1 vědro a 12 imi; za měsíc 29 fudrů a 1 vědro; za rok 350 fudrů.
+- typ: odstavec
+  de: |-
+    So man aber einen tag auff ein Person nit mehr dann ein halbe maß außspeisen wolt/thůt es den tag/die wochen/den Monat vnd das Jar nur halber souiel.
+  cs: |-
+    Kdyby se však chtělo vydávat na osobu denně jen půl mázu, činí to za den, týden, měsíc i rok jen polovinu.
+- typ: odstavec
+  de: |-
+    Also mag man leichtlich vberschlahen/so man weyß wieuiel wein in einer Besatzung/vnd wieuil der personen/So man ein anzal tags auff ein person außzůspeisen fürnimpt/wie lang man wein zůspeisen hat.
+  cs: |-
+    Ví-li se, kolik vína a kolik osob je v posádce, a určí-li se, kolik se má na osobu denně vydávat, lze tak snadno spočítat, na jak dlouho je víno k vydávání.
+poznamky:
+- n: 1
+  text: |-
+    Esslinské míry: 1 fudr = 6 věder, 1 vědro = 16 imi, 1 imi = 10 mázů (máz asi 1,8 l). Výpočet počítá měsíc po 4 týdnech (28 dní) a rok jako 12 takových měsíců; všechna čísla tisku vycházejí.

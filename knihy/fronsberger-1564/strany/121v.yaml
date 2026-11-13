@@ -1,0 +1,55 @@
+id: 121v
+list: CXXI
+strana: verso
+sken: 250
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vergraben/vnd sagen/er hab sie in befelch außgesendt/also macht er die geheylten jhm günstiger/trewer vnnd küner/den feind aber zaghafftiger/so er sicht daß er noch viel todten auff dem platz/vnd dieser keyne hat.
+  cs: |-
+    pohřbít a říkat, že je s rozkazy vyslal pryč. Tak si uzdravené učiní nakloněnějšími, věrnějšími a smělejšími, nepřítele však malomyslnějším, když vidí, že on sám má na bojišti ještě mnoho mrtvých, a tento žádné.
+- typ: nadpis
+  uroven: 2
+  de: Rach.
+  cs: Pomsta
+- typ: odstavec
+  de: |-
+    WO aber sein Feind vmb Sigs willen/oder vmb des zugefügten schadens willen in vnbehůter freud vnd vnachtsamer Ordnung Triumphiert/ist die gelegen zeit jhn nachts zu vberfallen/wie Gedeon die Madianiter/vnnd also das sein von jm auch zuentschütten/wie Abraham Lott vom Kedarlaomor/damit er auch sein ehr widerhol bey freunden vnd feinden/vnnd sein vnd seines Heers hertzen grollen erfüle/Ein jeden frommen Kriegßmann soll deß Feinds trotzlicher vbermůt nit verzagt machen/sonder vil Rachhitziger zum zorn bezwingen/nicht zurůhen biß er sich wider rechet/vnd gůt vnd lob erstreittet/mit grosser schand seines feindes.
+  cs: |-
+    Jestliže však jeho nepřítel pro vítězství nebo pro škodu, kterou [mu] způsobil, jásá v neopatrné radosti a v nedbalém šiku {Ordnung}, je vhodná chvíle přepadnout ho v noci, jako Gedeón Midjánce,[^1] a tak také vysvobodit z jeho rukou to, co je jeho, jako Abraham Lota z rukou Kedorlaomera,[^2] aby si i u přátel a nepřátel získal zpět svou čest a ukojil zášť svého srdce i srdcí svého vojska. Žádného řádného válečníka nemá nepřítelova vzdorovitá pýcha učinit malomyslným, nýbrž ho má mnohem prudčeji podnítit k pomstychtivému hněvu, aby neodpočinul, dokud se nepomstí a nevybojuje statky i slávu k veliké hanbě svého nepřítele.
+- typ: nadpis
+  uroven: 2
+  de: Bestättung der wanckelmütigen.
+  cs: Upevnění nestálých
+- typ: odstavec
+  de: |-
+    BEsorget er daß jm etlich Lande vnnd Stätt nicht farb noch glauben hielten in seinem abwesen/so führ er alle jhre argwönige Obersten Herren (als geschehe es vmb verehrung willen) mit jhm weg/begab sie Fürstlich/vnd laß sie freundlich zu rechter zeit abscheyden/damit erlangt er jhr vnd der Gemeyn gunst.
+  cs: |-
+    Obává-li se, že by mu některé země a města v jeho nepřítomnosti nezachovaly věrnost ani víru, ať všechny jejich podezřelé přední pány odvede s sebou (jako by se to dělo pro jejich poctu), knížecky je obdaruje a v pravý čas je přátelsky propustí; tím získá přízeň jejich i obce {Gemeyn}.
+- typ: odstavec
+  de: |-
+    Wo sich aber die Stätt empören wölten/soll er seinen Amptleuthen befelhen/zuhandelen/wie oben von den trewlosen Stätten vermeldt ist.
+  cs: |-
+    Kdyby se však města chtěla vzbouřit, má svým úředníkům {Amptleuthen} přikázat, aby jednali tak, jak bylo výše řečeno o nevěrných městech.
+- typ: odstavec
+  de: |-
+    Item er soll jhnen Besatzung schicken/Förchtet er aber/daß sie die Besatzung nicht auffnemen/bitt sie daß er mit jhrem gunst seine krancken vnnd wundte bey jhn heylen möge/schick sie also verkleydt hinnein/Oder nemb jhn all jren harnisch/wehr/vnnd was zur Ritterschafft fürderlich ist/verschaff daß jn solchs wider zuerholen gewehrt werd/Hertz ohn Waffen/schlecht sich selbs/wo der Türck solchs nicht gethon/hett er bißher so vil Königreich/weder bekriegt/beherrscht noch behalten.
+  cs: |-
+    Dále jim má poslat posádku {Besatzung}. Obává-li se však, že by posádku nepřijali, ať je poprosí, aby u nich směl s jejich svolením léčit své nemocné a raněné, a ať [posádku] pošle dovnitř takto přestrojenou. Nebo ať jim vezme všechnu zbroj {harnisch}, zbraně a vše, co slouží k válčení, a postará se, aby jim bylo zabráněno to znovu získat: srdce beze zbraní samo sebe porazí. Kdyby to Turek nedělal, nebyl by dosud tolik království ani dobyl, ani ovládl, ani udržel.
+- typ: nadpis
+  uroven: 2
+  de: Platz plünderung.
+  cs: Plenění bojiště
+- typ: odstavec
+  de: |-
+    WAnn er nuh aller sorg frey/soll er Reysigen vnd Füßknechten/Hůren vnnd Buben ein zeychen geben/den Schlachtplatz auffzuraumen/auch sonst keyn frembde zulassen/Oder vor der Schlacht verkündet haben/die peut wöll er gemeynlich vor jhn allen auff heben vnd außtheylen lassen/einem wie dem andern/vnnd welcher eins hellers werth verzwickt/ohn alle gnad an einen Ast hencken/Also auch dem Hürenweibel etlich zugeben/die jhm helffen sampt dem Troß darauff lauren/damit die Knecht deß vnuerhinderter allein acht haben/wie sie die Feind niderlegen/so sie jhrs theyls sicher gewertig seind.
+  cs: |-
+    Až bude zbaven vší starosti, má dát jezdcům, pěším knechtům, nevěstkám a chlapcům znamení, aby bojiště vyklidili [od kořisti], a jinak nepouštět žádné cizí. Nebo má už před bitvou vyhlásit, že kořist dá sebrat a rozdělit společně pro ně pro všechny, jednomu jako druhému, a kdo by zcizil [byť] za haléř, toho bez milosti pověsí na větev. Také má šikovateli trénu {Hürenweibel} přidělit několik [mužů], kteří mu spolu s trénem {Troß} pomohou na to dohlížet, aby knechti {Knecht} tím nerušeněji dbali jen toho, jak nepřátele pobít, když mají jistotu, že svůj díl dostanou.
+poznamky:
+- n: 1
+  text: 'Sd 7: Gedeón se třemi sty muži přepadl v noci ležení Midjánců.'
+- n: 2
+  text: |-
+    Gn 14: Abraham v noci přepadl krále Kedorlaomera a jeho spojence a vysvobodil zajatého synovce Lota s jeho majetkem.

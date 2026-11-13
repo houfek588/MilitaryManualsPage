@@ -1,0 +1,64 @@
+id: 067v
+list: LXVII
+strana: verso
+sken: 142
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    in jne stechen oder zu todt schlahen/vnd damit nichts verwirckt/sonder grossen danck verdient haben/wa aber derselbig darüber entlieff/so soll er das dem Obersten vnnd Hauptleuthen anzeygen/damit er zu einem Schelmen erkant werde.
+  cs: |-
+    bodnout nebo ubít, a tím se ničím neprovinil, nýbrž zasloužil si velký dík. Kdyby však ten [uprchlík] přesto utekl, má to oznámit plukovníkovi {Obersten} a hejtmanům {Hauptleuthen}, aby byl uznán za šelmu {Schelmen}.
+- typ: odstavec
+  de: |-
+    Es soll keyner brennen oder brandschatzen/auch keyn Läger anzünden/bey leib straff.
+  cs: |-
+    Nikdo nemá pálit ani vymáhat výpalné {brandschatzen}, ani zapalovat ležení {Läger}, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item so dem Feldtläger Profandt zugefürt wird/es sey im zufüren oder im Läger/sol keyner darüber fallen/oder eingreiffen/so lang biß sie geschetzt wird/vnd wa jhr in N. vnsers gnädigen Herren/oder anderen der freund Land zögen/soll ein jeder bezalen/vnd niemandt schaden zufügen/Es sol auch vor dem Läger niemands Profandt kauffen/bey leib straff.
+  cs: |-
+    Dále: když se do polního ležení přiváží proviant {Profandt}, ať je ještě na cestě, nebo už v ležení, nemá se na něj nikdo vrhat ani na něj sahat, dokud nebude oceněn. A kdybyste táhli zemí N., našeho milostivého pána, nebo jiných přátel, má každý platit a nikomu neškodit. Také nikdo nemá kupovat proviant před ležením, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item ob der Profoß oder seine Knecht einen oder mehr gefäncklich annemmen würden/so soll sie niemand daran verhindern/oder sich dessen annemen bey leib straff. Vnd ob einer oder mehr in solcher gestalt den Profosen oder seine Knecht verhinderte/vnd der/so man gefäncklich nemen wöllen/dardurch entrünne oder daruon käme/so soll derselbig oder dieselbigen so deß ein vrsach/an die statt gefäncklich angenommen/vnnd mit ernst gestrafft werden.
+  cs: |-
+    Dále: kdyby profous {Profoß} nebo jeho pacholci někoho zatýkali, nemá jim v tom nikdo bránit ani se zatýkaného zastávat, pod trestem na těle. A kdyby jeden nebo více takto bránili profousovi nebo jeho pacholkům a ten, koho chtěli zatknout, by tím unikl nebo utekl, má být ten nebo ti, kdo to zavinili, zatčeni na jeho místo a přísně potrestáni.
+- typ: odstavec
+  de: |-
+    Das zůtrincken soll dermassen verbotten sein/wo einer den andern müßigen/oder wider sein willen nötigen würde/der soll darumb am leib gestrafft werden/Were aber daß einer in voller weiß mißhandlen/vnd sich dardurch entschüldigen würde/dem soll es mit nichten zu gutem kommen/sonder er soll dester herter gestrafft werden.
+  cs: |-
+    Připíjení {zůtrincken} má být zakázáno tak, že kdo by druhého nutil[^1] nebo proti jeho vůli k pití donucoval, má být za to potrestán na těle. Kdyby se však někdo v opilosti provinil a chtěl se tím omlouvat, nemá mu to nijak prospět, nýbrž má být potrestán tím přísněji.
+- typ: odstavec
+  de: |-
+    Jm ziehen soll keyner one notwendige vrsachen auß der Ordnung ziehen/wo aber jemandts hierinn vngehorsam were/der soll von den Hauptleuthen vnnd Weybeln mit gewalt inn die Ordnung getriben/oder den Knechten preiß/vnnd geplündert werden.
+  cs: |-
+    Na pochodu nemá nikdo bez nutné příčiny vystupovat ze šiku {Ordnung}. Kdo by však v tom byl neposlušný, má být hejtmany a šikovateli {Weybeln} zahnán do šiku mocí, nebo vydán knechtům za kořist a oloupen.
+- typ: odstavec
+  de: |-
+    So sich begebe/daß man ein Schlacht/Sturm/oder Scharmützel mit den feinden thůn/vnd dasselbig gewinnen oder erobern würde/So soll sich niemandts vmb der Feind gůt annemen noch plündern/oder auß der Ordnung gehn/es sey dann die walstatt vnd das Feldt erobert vnd gewunnen.
+  cs: |-
+    Kdyby se stalo, že by se s nepřítelem svedla bitva, šturm nebo šarvátka a vyhrála se či dobyla, nemá se nikdo starat o nepřátelský statek, plenit ani vystupovat ze šiku, dokud nebude bojiště a pole dobyto a vyhráno.
+- typ: odstavec
+  de: |-
+    Es soll ob dem Spiel keyner dem anderen wider sein willen nichts auffschlahen/auch keyn Teutscher mit keynem deß sprach er nit verstehn vnd reden kan/spilen/damit auffrůr dester ehe vermitten bleib.
+  cs: |-
+    Při hře nemá nikdo druhému proti jeho vůli nic přirážet[^2] a žádný Němec nemá hrát s nikým, jehož řeči nerozumí a nemluví jí, aby se tím spíše předešlo pozdvižení.
+- typ: odstavec
+  de: |-
+    Es soll auch niemandts dem Nachrichter so er zurichten hett/mit nichten eintrag oder verhinderung thůn/auch sonst keyn schmach oder leyd zufügen/sonder jhne bey seiner freyheyt vnbekümmert lassen/bey leib straff.
+  cs: |-
+    Také nikdo nemá katovi {Nachrichter}, když má vykonat popravu, nijak překážet ani bránit, ani mu jinak činit potupu nebo příkoří, nýbrž ho nechat nerušeně při jeho svobodě, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item wann ein lärmen würd im Zug oder Läger/so soll ein jeder zu seinem Fändlin lauffen/vnd daruon one erlaubnuß deß Hauptmanns nit kommen.
+  cs: |-
+    Dále: když nastane poplach {lärmen} na pochodu nebo v ležení, má každý běžet ke svému praporci {Fändlin} a neodcházet od něho bez svolení hejtmana.
+poznamky:
+- n: 1
+  text: |-
+    V tisku „müßigen“, patrně zkomolené (snad za „nötigen“ či „zwingen“); smysl je nutit k pití.
+- n: 2
+  text: |-
+    „auffschlahen“ – patrně zvyšovat sázku či přirážet k dluhu ze hry proti vůli spoluhráče (srov. obdobný artikul na l. LXV).

@@ -1,0 +1,64 @@
+id: 016v
+list: XVI
+strana: verso
+sken: 40
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Ein Singerin oder Stück das da scheußt fünfftzig pfundt eysen/erfordern hundert Schütz fünff vnd zwentzig Centner Puluers/Fünffhundert Schütz ein hundert vnd fünff vnd zwentzig Centner/Tausent Schütz zwey hundert vnd fünfftzig Centner Puluers.
+  cs: |-
+    Zpěvačka {Singerin} čili kus, který střílí padesát liber {pfundt} železa: sto ran vyžaduje pětadvacet centů {Centner} prachu {Puluers}, pět set ran sto pětadvacet centů, tisíc ran dvě stě padesát centů prachu.
+- typ: odstavec
+  de: |-
+    Ein Quarthan oder Stück/das da scheusset fünff vnd zwentzig pfundt eysen/erfordern hundert Schütz dreytzehen Centner Puluers/Fünffhundert Schütz fünff vnd sechtzig Centner Puluers/Tausent schütz hundert vnd dreißig Centner Puluers vngefährlich.
+  cs: |-
+    Quartan {Quarthan} čili kus, který střílí pětadvacet liber železa: sto ran vyžaduje třináct centů prachu, pět set ran pětašedesát centů prachu, tisíc ran asi sto třicet centů prachu.
+- typ: odstavec
+  de: |-
+    Ein Notschlang die da scheusset sechtzehen pfund eysen/erfordern hundert schütz acht Centner/Fünff hundert schütz viertzig Centner/Tausent schütz achtzig Centner Puluers.
+  cs: |-
+    Nouzová hadovnice {Notschlang}, která střílí šestnáct liber železa: sto ran vyžaduje osm centů, pět set ran čtyřicet centů, tisíc ran osmdesát centů prachu.
+- typ: odstavec
+  de: |-
+    Ein Schlang die da scheusset acht pfundt eysen/brauchen hundert schütz vier Centner Puluers/Fünffhundert schütz zwentzig Centner/Tausent schütz viertzig Centner.
+  cs: |-
+    Hadovnice {Schlang}, která střílí osm liber železa: sto ran potřebuje čtyři centy prachu, pět set ran dvacet centů, tisíc ran čtyřicet centů.
+- typ: odstavec
+  de: |-
+    Ein Falckona die da scheußt vier pfundt eysen/brauchen hundert schütz zwen Centner Puluers/Fünffhundert schütz zehen Centner Puluers/Tausent schütz zwentzig Centner Puluers.
+  cs: |-
+    Falkona {Falckona}, která střílí čtyři libry železa: sto ran potřebuje dva centy prachu, pět set ran deset centů prachu, tisíc ran dvacet centů prachu.
+- typ: odstavec
+  de: |-
+    Ein Falckanet die da scheusset zwey pfundt Bley/erfordern hundert schütz ein Centner/Fünffhundert schütz fünff Centner/Tausent schütz zehen Centner Puluers.
+  cs: |-
+    Falkonet {Falckanet}, který střílí dvě libry olova: sto ran vyžaduje jeden cent, pět set ran pět centů, tisíc ran deset centů prachu.
+- typ: odstavec
+  de: |-
+    Ein Scharpffentin oder Bockbüchßlin/das da scheußt ein halb pfundt Bley/gebrauchen hundert schütz fünff vnnd zwentzig pfundt Puluer/Fünffhundert schütz ein Centner vnd fünff vnd zwentzig pfundt/Tausent schütz zwen Centner vnd fünfftzig pfundt Puluers.
+  cs: |-
+    Serpentina {Scharpffentin} čili kozlíková puška {Bockbüchßlin}[^1], která střílí půl libry olova: sto ran potřebuje pětadvacet liber prachu, pět set ran jeden cent a pětadvacet liber, tisíc ran dva centy a padesát liber prachu.
+- typ: odstavec
+  de: |-
+    Ein Doppelhack der da scheusset ein halben vierling Bley/brauchen hundert schütz sechs pfundt ein vierling Puluers/Fünffhundert schütz ein vnd dreißig pfundt ein vierling Puluers/Tausent schütz zwey vnd sechtzig vnd ein halb pfundt Puluers.
+  cs: |-
+    Dvojitá hákovnice {Doppelhack}, která střílí půl čtvrti {vierling} [libry] olova: sto ran potřebuje šest a čtvrt libry prachu, pět set ran jednatřicet a čtvrt libry prachu, tisíc ran dvaašedesát a půl libry prachu.
+- typ: odstavec
+  de: |-
+    Ein Hack dessen Kuglen zwölff auff ein pfundt gehn/thůnd hundert schütz vier pfundt ein halben vierling vngefährlich/Fünff hundert schütz zwentzig ein halb pfundt vngefährlich/Tausent schütz ein vnd viertzig pfundt vngefährlich.
+  cs: |-
+    Hákovnice {Hack}, jejíchž koulí jde dvanáct na libru: sto ran činí asi čtyři libry a půl čtvrti, pět set ran asi dvacet a půl libry, tisíc ran asi jednačtyřicet liber.
+- typ: odstavec
+  de: |-
+    Ein handtrohr oder halber Hacken da zwentzig Kuglen auff ein pfundt gehn/gebrauchen hundert schützen vnd der jeden hundert schütz zuthůn/dritthalben Centner Puluers/Fünffhundert schützen/vnd jedem hundert schütz zuthůn/dreytzehendhalben Centner. Tausent schützen/vnd jedem hundert schütz zuthůn/gebrauchen fünff vnd zwentzig Centner Puluers.
+  cs: |-
+    Ručnice {handtrohr} čili půlhákovnice {halber Hacken}, jejíchž koulí jde dvacet na libru: sto střelců {schützen}, má-li každý z nich vystřelit sto ran, potřebuje dva a půl centu prachu; pět set střelců, má-li každý vystřelit sto ran, dvanáct a půl centu; tisíc střelců, má-li každý vystřelit sto ran, potřebuje pětadvacet centů prachu.
+- typ: nadpis
+  uroven: 3
+  de: Bley Rechnung auff die Stück vnd Geschütz das Bley scheusset.
+  cs: Výpočet olova pro kusy a děla, která střílejí olovo
+poznamky:
+- n: 1
+  text: >-
+    Bockbüchse – lehké dělo nebo těžká puška střílená z dřevěného kozlíku (Bock); zde jako jiný název serpentiny.

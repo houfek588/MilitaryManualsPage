@@ -1,0 +1,70 @@
+id: 094v
+list: XCIIII
+strana: verso
+sken: 196
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Auff Tausent Personen/thůt es ein wochen 33. simern/ein metzen habermähl/thůt 16. Scheffel/6. simern Habern vngefährlich/thůt einen Monat 133. simern/ein Metzen Habermähl/thůt habern 66. scheffel/5. simern vngefährlich/thůt 1600. simern habermähl/thůt 800. scheffel habern.
+  cs: |-
+    Na tisíc osob to činí za týden 33 mírek {simern} a jednu měřičku {metzen}[^1] ovesné mouky, v ovsu přibližně 16 korců {Scheffel} a 6 mírek; za měsíc 133 mírek a jednu měřičku ovesné mouky, v ovsu přibližně 66 korců a 5 mírek; [za rok] to činí 1600 mírek ovesné mouky, tj. 800 korců ovsa.
+- typ: nadpis
+  uroven: 3
+  de: Haberkern.
+  cs: Ovesné krupky
+- typ: odstavec
+  de: |-
+    EBen die Rechnung wie mit dem habermähl/hat es mit dem Haberkern auch/vnd bedarff keyner besondern Rechnung.
+  cs: |-
+    S ovesnými krupkami {Haberkern} je výpočet stejný jako s ovesnou moukou a není třeba zvláštního výpočtu.
+- typ: nadpis
+  uroven: 3
+  de: Kochgärsten.
+  cs: Ječmen na vaření
+- typ: odstavec
+  de: |-
+    EIn scheffel gärsten gibt gemeynlich 4. simern gestampffte gärsten/so man dann ein Wochen auff zehen Personen gibt ein vierling/der 4. ein simern thůn/gestampffte gärsten/brauchen hundert Personen ein wochen 25. simern/das thůt 6. scheffel/4. simern vngestampffter Gärsten/fünff hundert Personen 128. simern thůt vngestampfft 31. scheffel/2. simern Gärsten/Tausent Personen 250. simern/thůt vngestampfft 61. scheffel/4. simern Gärsten.
+  cs: |-
+    Jeden korec ječmene dává obvykle 4 mírky stloukaného ječmene (krup). Dává-li se tedy týdně na deset osob jedna čtvrtka {vierling} krup (čtyři čtvrtky činí mírku), spotřebuje sto osob za týden 25 mírek[^2], což činí 6 korců a 4 mírky nestloukaného ječmene; pět set osob 128 mírek, nestloukaného 31 korců a 2 mírky ječmene; tisíc osob 250 mírek, nestloukaného 61 korců a 4 mírky ječmene.
+- typ: odstavec
+  de: |-
+    Ein Monat brauchen hundert Personen 100. Simern/thůt vngestampffter Gärsten 28. Scheffel/Fünff hundert Personen 500. Simern/thůt vngestampffter Gärsten 125. Scheffel/Tausent Personen 1000. simern/thůt vngestampfft 250. scheffel Gärsten.
+  cs: |-
+    Za měsíc spotřebuje sto osob 100 mírek, v nestloukaném ječmeni 28 korců; pět set osob 500 mírek, v nestloukaném ječmeni 125 korců; tisíc osob 1000 mírek, nestloukaného 250 korců ječmene.
+- typ: odstavec
+  de: |-
+    Ein Jar brauchen hundert Personen 120. simern/gestampffter Gärsten/thůt vngestampfft 300. scheffel Gärsten/fünff hundert Personen 6000. simern gestampffte gärsten/thůt vngestampfft 1500. scheffel gärsten/Tausent Personen 1200. simern/thůt vngestampfft 3000. scheffel Gärsten.
+  cs: |-
+    Za rok spotřebuje sto osob 120 mírek stloukaného ječmene, nestloukaného 300 korců ječmene; pět set osob 6000 mírek stloukaného ječmene, nestloukaného 1500 korců; tisíc osob 1200 mírek, nestloukaného 3000 korců ječmene.[^3]
+- typ: nadpis
+  uroven: 3
+  de: Kochkärn oder Rattenkärn.
+  cs: Jádro na vaření neboli „Rattenkern“
+- typ: odstavec
+  de: |-
+    MJt dem Kochkern hat es eben die Rechnung wie mit der Gärsten/allein daß die Vesen/darauß man den kern macht/selten den halben theyl geben/deßhalben man jhm am selben ort etwas zugeben můß/Also/so hundert Personen ein Wochen 25. Simern Kern brauchen/thůt es vngefährlich 7. vnnd ein halb theyl eines scheffel Vesen/Fünff hundert Personen etwann 40. Scheffel Vesen vngefährlich/also da tausent Personen ein Jarlang 3000. scheffel vngestampffte Gärsten brauchen/erfordert es gar bey 4000. scheffel Vesen.
+  cs: |-
+    S jádrem na vaření {Kochkern}[^4] je výpočet stejný jako s ječmenem, jenom špalda v pluchách {Vesen}, z níž se jádro dělá, dává zřídka polovinu, a proto se jí tu musí něco přidat. Spotřebuje-li tedy sto osob týdně 25 mírek jádra, činí to přibližně 7 a půl korce špaldy; pět set osob asi 40 korců špaldy; a kde tisíc osob spotřebuje za rok 3000 korců nestloukaného ječmene, je třeba skoro 4000 korců špaldy.
+- typ: nadpis
+  uroven: 3
+  de: Haber Rechnung.
+  cs: Výpočet ovsa
+- typ: odstavec
+  de: |-
+    SO man mit einem Stutgarter Scheffel Habern der 8. Simern thůt/ein Nacht vnd tag 12. Pferd füttern mag/můß man auff hundert Pferd tag vnd
+  cs: |-
+    Jestliže lze jedním stuttgartským korcem ovsa, který činí 8 mírek, krmit 12 koní po jednu noc a den, je třeba na sto koní na den a
+poznamky:
+- n: 1
+  text: |-
+    Metzen – menší dutá míra, díl mírky (Simri); z výsledků zde vychází zhruba na třetinu mírky (33 a třetina mírky týdně na tisíc osob).
+- n: 2
+  text: |-
+    Tak tisk. Při čtvrtce na deset osob by sto osob potřebovalo jen 2 a půl mírky týdně; čísla tisku v tomto oddílu odpovídají spíš čtvrtce na jednu osobu, a ani přepočty na nestloukaný ječmen nejsou vždy přesné. Ponecháno podle originálu.
+- n: 3
+  text: |-
+    Tak tisk; podle měsíčních čísel má být správně 1200 mírek pro sto osob a 12 000 mírek pro tisíc osob – přepočty na nestloukaný ječmen (300 a 3000 korců) tomu odpovídají.
+- n: 4
+  text: |-
+    Kern (Kernen) – v jihozápadním Německu vyluštěné zrno špaldy; Vesen (Fesen) je špalda v pluchách, která dává asi polovinu objemu čistého zrna. Význam slova „Rattenkern“ se nepodařilo zjistit.

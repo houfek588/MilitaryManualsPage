@@ -1,0 +1,48 @@
+id: 112v
+list: CXII
+strana: verso
+sken: 232
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wehrhaffter hand/daß er vnter dieser werbung die vnuersehne vbereyl/Etwann auch mit list den ersten anlauff in die vorstett reytze/mit den Schutzgättern beschliessen vnd erwürgen/Oder wann sie mit den Bürdlin zu erfüllung der gräben/anlauffen/die beladne erlegen/oder im wenden deß abzugs von dem Sturm/allweg das geschütz auff die streitwehre verordnen. Jn Summa ohn gewaltigen vortheyl sol er nimmer außfallen/ohn entschüttung seines eignen geschützes von den Blochheusern oder von den Bollwercken/daß er nit behange/sonder etwann beseitz in den anlauff ein creutz zwerchlich schiessen/vnd also die getrennten abfertigen.
+  cs: |-
+    bojeschopnou hotovostí, aby během tohoto vyjednávání nepřipravené přepadl. Někdy má také lstí vylákat první útok do předměstí, tam [nepřátele] uzavřít padacími mřížemi {Schutzgättern} a pobít; nebo když se ženou s otýpkami {Bürdlin}, aby zasypali příkopy, má obtížené pobít; anebo když se obracejí k ústupu od útoku, má vždy mít děla připravená na hradebních ochozech {streitwehre}. Zkrátka nikdy nemá vyrážet k výpadu bez veliké výhody a bez krytí vlastními děly {geschützes} ze srubů {Blochheusern} nebo z bašt, aby neuvízl, nýbrž aby se mohlo z boku střílet křížem napříč do útočících, a tak vyřídit rozptýlené.
+- typ: nadpis
+  uroven: 2
+  de: Anschleg.
+  cs: Záměry
+- typ: odstavec
+  de: |-
+    ER sol sich bestimpter stund in allen räthen vnd verordnungen/sampt vnd mit seinen Kriegßräthen vnnd verwandten/mit geschwinder wolbedachter geheymnuß nachzukommen also befleissen/daß er die weder zu frů noch zuspat verwarlose/sonder nach beyder beschloßnem Rathschlag vollstrecke.
+  cs: |-
+    Má se snažit ve všech radách a nařízeních spolu se svými válečnými rady {Kriegßräthen} a spojenci v určenou hodinu rychle a s dobře uváženým utajením dostát, aby je nepromarnil ani příliš brzy, ani příliš pozdě, nýbrž je vykonal podle společně uzavřeného usnesení.
+- typ: nadpis
+  uroven: 2
+  de: Entschüttung.
+  cs: Vysvobození
+- typ: odstavec
+  de: |-
+    WVrde jhm ein Statt von der menge seins Feinds also bedrangt/daß sie der entschüttung bedörfft/soll er gůten fleiß brauchen/daß er sein zukunfft dem eynigen Statthauptmann also still verkünd/daß es allein bey jhnen beyden beschlossen sey/Darnach auff bestimpte zeit mit allen vortheyln vnnd listen versteckt halte/durch heymliche weg vnuerdächtlich vnd samenthafft den Feind vberfalle/vnd die seinen entschütt/damit jhnen durch verrähterey nicht misseling/oder er soll deß Feinds Stett in eyl belägern/vnd die Landtschafften blündern/damit er seinen Feindt tringe von der Statt/zu errettung seines eygenthumbs abzuziehen/oder des Feindes Stett erobern/damit er die seinen hie zwischen behůtsamer beuestigen vnnd speisen möge.
+  cs: |-
+    Kdyby bylo některé jeho město přesilou nepřítele sevřeno tak, že by potřebovalo vysvobození, má se dobře přičinit, aby svůj příchod oznámil tak potají jedině hejtmanovi města {Statthauptmann}, že to bude ujednáno jen mezi nimi dvěma; potom se má v určený čas se všemi výhodami a lstmi držet skrytě, tajnými cestami nepozorovaně a společně nepřítele přepadnout a své lidi vysvobodit, aby se jim to zradou nezmařilo. Nebo má v rychlosti oblehnout nepřítelova města a plenit jeho kraje, aby nepřítele donutil odtáhnout od [obleženého] města k záchraně vlastního majetku; anebo má dobývat nepřítelova města, aby mezitím mohl své lidi opatrněji opevnit a zásobit.
+- typ: nadpis
+  uroven: 2
+  de: Widerkehrung verlorner Stett.
+  cs: Znovuzískání ztracených měst
+- typ: odstavec
+  de: |-
+    OB jhm aber den Summer etliche Stett vnnd Schlösser mit grosser macht seines feinds hinlässigkeyt/oder wenigkeyt seiner Besatzung/oder auß verrähterey der Hauptleuth oder Bürgerlicher Vndersessen/veruntrewt oder entwendt würden/soll er es/alßbald der feind ins Wintterleger rückt/mit geschwindem fleiß wider erobern.
+  cs: |-
+    Kdyby mu však během léta byla některá města a hrady velkou mocí jeho nepřítele, nedbalostí či malým počtem jeho posádky, nebo zradou hejtmanů či měšťanských poddaných zpronevěřena nebo odňata, má je, jakmile se nepřítel stáhne do zimního ležení {Wintterleger}, s rychlou pílí znovu dobýt.
+- typ: nadpis
+  uroven: 2
+  de: Trewloß dück.
+  cs: Věrolomné úskoky
+- typ: odstavec
+  de: |-
+    WAnn aber ein Statt von jhrem Herren sich vermäß heymlich abzuweichen/soll jhr Hauptmann mit erdichten Brieffen vnd verheyssung gewaltiger zůkunfft/hülff/oder milterung der ding/die sie zum abfall verursacht hetten/jr fürnemen also lang wenden/biß der sachen gerhaten wird. Oder wer ein Bürger oder Bürgers freund in des feinds Läger/dem sol er in die Statt/in jhens person schreiben/daß er zu seinen Burgers genossen sag/daß sie jrem Herren farb vnd glauben halten/
+  cs: |-
+    Kdyby se však některé město opovážilo potají odpadnout od svého pána, má jeho hejtman {Hauptmann} smyšlenými dopisy a sliby mocného příchodu [vojska], pomoci nebo zmírnění věcí, které je k odpadnutí přiměly, jejich záměr tak dlouho odvracet, dokud se věc nevyřeší. Nebo je-li v nepřátelském ležení některý měšťan či měšťanův přítel, má jeho jménem napsat do města, [aby to vypadalo,] že vzkazuje svým spoluměšťanům, ať zachovají svému pánu věrnost a víru {farb vnd glauben},

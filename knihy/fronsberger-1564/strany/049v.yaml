@@ -1,0 +1,50 @@
+id: 049v
+list: XLIX
+strana: verso
+sken: 106
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    versorge/damit jhm keyn verletzung widerfare/dann ein grosses daran gelegen ist/wann ein Register gefelscht wird.
+  cs: |-
+    opatrovat, aby nepřišel k žádné úhoně; neboť velmi záleží na tom, kdyby byl rejstřík {Register} zfalšován.
+- typ: odstavec
+  de: |-
+    Zu dem soll er zwey Register haben vnnd machen/das ein dem Musterherren oder Commissarien zustellen/eins wie das ander in gleicher form vnnd laut/Er soll auch in der Musterung gůt achtung vnnd auffmercken haben/was der Musterherr einem jeglichen Kriegßmann für vber Söld macht/daß ers von stundan in sein Register schreib/dann wa der Schreiber was vbersicht/můß ers bezalen vnnd erstatten.
+  cs: |-
+    Kromě toho má mít a vyhotovit dva rejstříky, jeden z nich odevzdat přehlídkovému komisaři {Musterherren} nebo komisařům {Commissarien}, oba stejné formy a znění. Má také při přehlídce {Musterung} dávat dobrý pozor a sledovat, jaké příplatky k žoldu {vber Söld} přehlídkový komisař každému válečníkovi přizná, aby je hned zapsal do svého rejstříku; přehlédne-li totiž písař něco, musí to zaplatit a nahradit.
+- typ: odstavec
+  de: |-
+    Zu dem/wann seine knecht gemustert werden/soll er das Register fleißig verwaren biß zur abzelung/da soll er auch gůt achtung haben/daß es recht abgezelet werde/dann wa er was würde vbersehen/soll ers wie vor erstatten vnd erlegen/Deßgleichen wann ein Hauptmann bezalung thůt/soll er gůt auffmercken haben vnd tragen/daß keyner zuuiel oder zuwenig empfahe.
+  cs: |-
+    Dále, když jsou jeho knechti přehlédnuti, má rejstřík pečlivě uchovávat až do vyúčtování {abzelung}; tam má také dobře dbát, aby bylo správně vyúčtováno, neboť kdyby něco přehlédl, musí to jako výše nahradit a zaplatit. Stejně tak, když hejtman vyplácí, má dávat dobrý pozor, aby nikdo nedostal příliš mnoho nebo příliš málo.
+- typ: odstavec
+  de: |-
+    Er soll auch sein sonderlich Register haben/wann man etwann auff die Rotten leihet oder Profandt außtheylt/daß er dasselbig fleißig auffzeychne/wann man nuhn bezalung thůt/daß er sollich geliehen gelt widerumb könn auff heben vnd abziehen/Er soll auch sein sonderlichen Wachtzedel haben/wann man auff die Wacht zeucht/daß er ein wissen habe/was für Rotten/Schilt oder Scharwacht gethon haben/oder müssen.
+  cs: |-
+    Má mít také zvláštní rejstřík pro případ, že se rotám {Rotten} půjčuje nebo rozděluje proviant {Profandt}, aby to pečlivě zaznamenal a mohl pak při výplatě takto půjčené peníze opět vybrat a srazit. Má mít také zvláštní strážní lístek {Wachtzedel} pro případ, že se táhne na stráž, aby věděl, které roty konaly nebo mají konat stálou stráž {Schilt[wacht]} či obchůzku {Scharwacht}.
+- typ: odstavec
+  de: |-
+    Er soll auch verfaßt sein mit einem sondern Register zun Hackenschützen/dann sie werden etwann Rottenweiß hin vnd wider in besatzunge oder profandt vnnd anders zubeleyten geschickt/deßgleichen wann man pflegt vmb den Hacken gülden zuschiessen/daß er die wiß auff einander zulesen.
+  cs: |-
+    Má být také vybaven zvláštním rejstříkem střelců z hákovnic {Hackenschützen}, neboť ti bývají po rotách vysíláni sem a tam do posádek nebo k doprovodu proviantu a jiných věcí; a také, když se, jak bývá zvykem, střílí o hákový zlatý {Hacken gülden}[^1], aby je uměl postupně vyvolávat.
+- typ: odstavec
+  de: |-
+    Darnach soll er seinem Hauptmann fürsehung thůn/mit schreiben/lesen/rechnen/darneben mit dienstlichen pflichten gefällig/Seine besoldung ist deß Monats drey Söld/ist auch Zůg vnnd Wacht gefreyet/darmit er die Register könne versorgen.
+  cs: |-
+    Dále má svému hejtmanovi obstarávat psaní, čtení a počítání a kromě toho mu být ochotně k službám. Jeho žold činí tři žoldy {Söld} měsíčně a je také osvobozen od výprav {Zůg} a stráží, aby mohl pečovat o rejstříky.
+- typ: nadpis
+  uroven: 3
+  de: Der Eyd.
+  cs: Přísaha {Eyd}
+- typ: odstavec
+  de: |-
+    DAß er N. Monat vnter dem Hauptmann N. als sein bestelter Schreiber bey anderm Kriegßuolck vnter sein Fändlin gehörig/getrewlich dienen/N. vnseres gnedigen Herrn schaden warne vnd wende/nutzen vnd frommen fürdere/auch gedachte knecht/so vnter N. seines Hauptmanns Fändlin/als einfache vnnd Doppelsöldner durch den Musterherren gůt gemacht werden/wie es zůgelassen wird/getrewlichen beschreiben/vnnd darinnen weder seinem Hauptmann/jhme selbest/oder anderen zu vortheyl oder nutz/keynerley finantz vnnd betrug nicht gebrauchen/auch niemandts darzů fürdern/hilff/rath/oder fürschub beweisen/
+  cs: |-
+    Že bude N. měsíců pod hejtmanem N. jako jeho sjednaný písař věrně sloužit u ostatního válečného lidu, který patří pod jeho praporec {Fändlin}; že bude před škodou N., našeho milostivého pána, varovat a odvracet ji a podporovat jeho užitek a prospěch; že bude také řečené knechty, kteří budou pod praporcem jeho hejtmana N. přehlídkovým komisařem uznáni jako prostí knechti a dvojžoldnéři {Doppelsöldner}, jak se to povolí, věrně zapisovat a že se v tom nedopustí žádné finty {finantz} ani podvodu ve prospěch nebo k užitku svého hejtmana, sebe ani jiných a nikomu k tomu nebude napomáhat ani mu prokazovat pomoc, radu nebo podporu,
+poznamky:
+- n: 1
+  text: |-
+    vmb den Hacken gülden schiessen – zřejmě střelba o odměnu (zlatý) pro střelce z hákovnic, snad zkouška zručnosti nebo soutěž; písař podle rejstříku vyvolával střelce jednoho po druhém. Výklad nejistý.

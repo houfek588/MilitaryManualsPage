@@ -1,0 +1,74 @@
+id: 087v
+list: LXXXVII
+strana: verso
+sken: 182
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    jhren Gnaden Erben/wo der in dieser handlung mit todt abgieng/allen zimlichen gebotten gefällig/schaden zůwarnen/jhren frommen fürdern/in jhrer gnaden abwesenden Hauptleuthen derselbigen verordneten Kriegßräth/vnd andern so beuelch haben/auch sich ein jeglicher gegen dem andern als ein bruder halten/erzeygen/vnd sich hinwider zu jhm versehen vnd getrösten.
+  cs: |-
+    dědicům Jeho Milosti, kdyby v této válce zemřel; že budete poslušni všech náležitých rozkazů, varovat před škodou a hledět jeho prospěchu, [poslouchat] v nepřítomnosti Jeho Milosti hejtmany {Hauptleuthen}, jeho ustanovené válečné rady {Kriegßräth} a jiné, kdo mají velení; a že se každý bude k druhému chovat a prokazovat jako bratr a na oplátku od něho totéž očekávat a v to doufat.
+- typ: odstavec
+  de: |-
+    Item daß ein jeglicher so in diese Besatzung schwört/zu lob/ehr vnd wolfart/sein ehr/leib vnd gůt wölle darstrecken/gůts vnd böß gedulden/tragen vnd leiden/bey der versamlung bleiben/sterben vnd genesen.
+  cs: |-
+    Dále, že každý, kdo do této posádky {Besatzung} přísahá, chce k její chvále, cti a blahu nasadit svou čest, tělo i statek, dobré i zlé trpělivě snášet, nést a trpět, při shromáždění zůstat, s ním umřít i přežít.
+- typ: odstavec
+  de: |-
+    Item daß keyner keyn meuterey oder vnwillen dem Herren vnnd Obersten erwecken noch machen solle.
+  cs: |-
+    Dále, že nikdo nemá proti pánovi a plukovníkovi {Obersten} podněcovat ani působit vzpouru {meuterey} nebo nevoli.
+- typ: odstavec
+  de: |-
+    Item daß sich ein jeder vngeweigert brauchen vnd heyssen lassen wölle/was jm von dem Obersten/seinem Hauptmann oder andern/so deß gewalt haben/sein ehren vnuerletzlich/beuolhen werde.
+  cs: |-
+    Dále, že se každý bez zdráhání nechá použít a přikázat, cokoli mu nařídí plukovník, jeho hejtman nebo jiní, kdo k tomu mají moc, pokud to neuráží jeho čest.
+- typ: odstavec
+  de: |-
+    Item es soll keyner auß dem Schloß/noch alle desselbigen vnnd der Besatzung gestalt noch wesen/thůn vnd lassen/kleyns noch groß sagen noch offenbaren.
+  cs: |-
+    Dále nikdo nemá z hradu nic vynášet ani o stavu a poměrech hradu a posádky, o tom, co se v nich koná a nekoná, nic malého ani velkého vyprávět ani vyzrazovat.
+- typ: odstavec
+  de: |-
+    Item so einer merckte/daß sich jemandts/er were wer er wölt/gefährlich oder argwöhnig hielt/mit Worten oder wercken/darauß der Herrschafft der Besatzung nachtheyl erfolgen möcht/daß ein jeder so sollichs gewahr wird/der Oberkeyt wölle anzeygen.
+  cs: |-
+    Dále, kdyby někdo zpozoroval, že se kdokoli, ať je to kdo chce, chová slovy nebo skutky nebezpečně nebo podezřele, z čehož by vrchnosti a posádce mohla vzejít škoda, má to každý, kdo to zjistí, oznámit představeným.
+- typ: odstavec
+  de: |-
+    Item es soll keyner mit der feind Ehrnhold/Trometern oder andern gespräch halten/ohn deß Obersten wissen vnd beuelhen.
+  cs: |-
+    Dále nikdo nemá bez vědomí a rozkazu plukovníka mluvit s nepřátelskými heroldy {Ehrnhold}, trubači {Trometern} ani s jinými.
+- typ: odstavec
+  de: |-
+    Item es soll keyner keyn Brieff ohn deß Obersten wissen vnnd beuelch empfahen/annemen noch hinauß schicken/er sey offen oder beschlossen in keyn weg.
+  cs: |-
+    Dále nikdo nemá bez vědomí a rozkazu plukovníka přijímat, přebírat ani ven posílat jakýkoli list, ať otevřený, nebo zapečetěný, nijak.
+- typ: odstavec
+  de: |-
+    Item es soll keyner bey tag noch nacht ohn geheyß/wissen vnd beuelch schiessen/schreyen/singen/pfeyffen/leutten/klopffen/noch an vngewöhnlichen orten sich gegen den feinden sehen lassen/auch nit deuten/wincken noch zeychen geben.
+  cs: |-
+    Dále nikdo nemá ve dne ani v noci bez příkazu, vědomí a rozkazu střílet, křičet, zpívat, pískat, zvonit, tlouci, ani se na neobvyklých místech ukazovat nepřátelům, ani jim něco naznačovat, kývat na ně či dávat znamení.
+- typ: odstavec
+  de: |-
+    Item es soll keyner weder tag noch nacht/auß dem Schloß oder Besatzung gehn/ohn deß Obersten wissen oder willen/welcher aber daraussen zůschaffen hett/soll ein Bolleten bey dem Obersten erlangen.
+  cs: |-
+    Dále nikdo nemá ve dne ani v noci vycházet z hradu nebo posádky bez vědomí či svolení plukovníka; kdo by však měl venku co vyřizovat, má si u plukovníka vyžádat propustku {Bolleten}[^1].
+- typ: odstavec
+  de: |-
+    Item ob sich zutrüge/daß sich ein entpörung oder meuterey erheben vnd zutragen wölt/das soll ein jeder bey seinem Eyd/auffs beldest dem Obersten anbringen/auch wo sich zutrůg vnnd die notturfft erfordert/dem Obersten vnnd Hauptleuhten zuspringen/leib vnd leben zu jnen setzen.
+  cs: |-
+    Dále, kdyby se přihodilo, že by chtělo vzniknout a propuknout pozdvižení nebo vzpoura, má to každý pod svou přísahou {Eyd} co nejrychleji ohlásit plukovníkovi; a kdyby k tomu došlo a bylo třeba, má plukovníkovi a hejtmanům přiskočit na pomoc a nasadit za ně tělo i život.
+- typ: odstavec
+  de: |-
+    Also mögen nach gestalt vnd gelegenheyt der sachen Artickel gestellt/vnnd dem Kriegßuolck mit sampt dem Burckfrieden fürgelesen werden/darauff jnen dann der Eyd/wie sich gebürt/werden soll.
+  cs: |-
+    Takto lze podle povahy a okolností věci sestavit artikule {Artickel} a přečíst je válečnému lidu {Kriegßuolck} spolu s hradním mírem {Burckfrieden}[^2]; potom je má vzít, jak náleží, do přísahy.
+poznamky:
+- n: 1
+  text: |-
+    Bolleten (z ital. bolletta) – písemná propustka, „buleta“; hejtman stráže u brány je večer odevzdává zpět plukovníkovi (viz l. LXXXVIII a XCI).
+- n: 2
+  text: |-
+    Burgfrieden – zvláštní mír vyhlášený pro hrad a jeho obvod: kdo v něm začne rvačku nebo sáhne na zbraň, propadá přísnému trestu.

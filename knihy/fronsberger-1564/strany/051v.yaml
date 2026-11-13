@@ -1,0 +1,25 @@
+id: 051v
+list: LI
+strana: verso
+sken: 110
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mit jhren gewehren auff den dienst warten/sich schicken/vnd zu allem jrer herrschafft befelch vnd geschäfften gebrauchen lassen.
+  cs: |-
+    se svými zbraněmi čekat na službu, být připraveni a dát se použít ke všem rozkazům a záležitostem svého pána.
+- typ: odstavec
+  de: |-
+    Sunst wo jhr Herrschafft etwas gegen den Feinden handlen/oder etwas besichtigen wöllen/sollen sie mitlauffen/vnd auff jhr Herrschafft warten/begibt es sich aber/daß man mit den Feinden handlen wil/so dann jhr Herrschafft in die Ordnung steht/sollen sie auch zu andern jhrs gleichen in die Ordnung stehn. Vmb solche jhre dienst wird jhnen geben doppel Sold.
+  cs: |-
+    Jinak, chce-li jejich pán něco podniknout proti nepříteli nebo něco prohlédnout, mají běžet s ním a být mu k službám. Přijde-li však k boji s nepřítelem a jejich pán se postaví do šiku {Ordnung}, mají se i oni postavit do šiku k jiným sobě rovným. Za tyto služby se jim dává dvojitý žold {doppel Sold}.
+- typ: nadpis
+  uroven: 2
+  de: Pfeiffer vnd Trommenschlagers Befelch vnd Ampt.
+  cs: Pověření a úřad pištců a bubeníků {Pfeiffer vnd Trommenschlagers}
+- typ: obrazek
+  soubor: obrazek9.png
+  popis: |-
+    Dřevořez v oválném medailonu se zdobným rámem z válečných trofejí: pištec hrající na příčnou píšťalu, s mečem u boku, a bubeník s velkým bubnem a paličkami, oba v rozparkovaném oděvu a s pery na kloboucích.

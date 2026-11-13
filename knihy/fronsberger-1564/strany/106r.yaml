@@ -1,0 +1,89 @@
+id: 106r
+list: CVI
+strana: recto
+sken: 219
+stav: zkontrolovano
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - Jst nicht als an der Schlacht gelegen/
+  - Man můß offt anders mehr erwegen.
+  - Vorzeiten stund köngs hertz vnd macht
+  - Jn Feld auff Ritters that vnd schlacht/
+  - Da nit so vil Landt wurdn verhergt/
+  - Die armen Leuth verderbt/zerstört.
+  - Da kandt man Ritters hertz vnd handt/
+  - Man facht nit hinder mawrn vnd wand/
+  - Man hat ein andern sinn erdacht/
+  - Vil starcker Schloß vnd Stätt gemacht/
+  - Daß mans drauß mit mühe bringen mag/
+  - Dahinder ist sicher/gehertzt vnd zag.
+  - Steht offt vnter der grossen mawr
+  - Ein heyloser verzagter Lawr.
+  - Der eim nit dörfft ein böß wort geben/
+  - Stilt eim Ritterlichen mann sein lebn/
+  - Mit grosser arbeyt kost vnd schaden/
+  - Mag man den schelmen kaum außjagen.
+  cs:
+  - Ne všechno záleží na bitvě,
+  - často je třeba zvážit i mnoho jiného.
+  - Kdysi spočívala srdnatost a moc králů
+  - v poli na rytířských činech a bitvách;
+  - tehdy se neplenilo tolik zemí
+  - ani chudí lidé hubeni a ničeni.
+  - Tehdy se poznalo rytířské srdce i ruka,
+  - nebojovalo se za hradbami a zdmi.
+  - '[Dnes] se vymyslel jiný způsob:'
+  - hrady a města se stavějí mnohem pevnější,
+  - takže je odtud lze dostat jen s námahou;
+  - za nimi je v bezpečí udatný i zbabělý.
+  - Často stojí pod velkou hradbou
+  - ničemný, zbabělý lotr,
+  - který by si netroufl nikomu říct zlé slovo,
+  - a připraví rytířského muže o život.
+  - S velkou námahou, náklady a škodou
+  - lze toho šelmu stěží vyhnat.
+- typ: nadpis
+  uroven: 3
+  de: Von Belegerungen vnd Stürmen.
+  cs: O obléhání a útocích
+- typ: verse
+  de:
+  - SChloß/Stätt beläger bey seinr zeit/
+  - Der winter dem keyn fürdrung geit.
+  - Nimb war der gegend vmb die statt/
+  - Was wehr/thürn/gräben darumb gat/
+  - Beschaw der Wasser gelegenheyt/
+  - Obs seind grundloß/schmal oder breyt.
+  - Was man vom stegreiff stürmen wil/
+  - Das thů in eyl/geheym vnd still/
+  - Darzů keyn besser hülff noch rath/
+  - Dann wer verstand vnd kundschafft hat/
+  - Stürm bey vngewarnter rechter zeit/
+  - Vor zugricht saum nit lang noch beit/
+  - Hab acht damit du dich befleißt/
+  - Daß du zuuor die wehr zerreißt.
+  - Mit deim geschütz/fewrwerck vnd pleiden/
+  - Nöt sie daß sie nit mögen leiden.
+  cs:
+  - Hrady a města obléhej v pravý čas,
+  - zima tomu nijak nepomáhá.
+  - Prohlédni si krajinu kolem města,
+  - jaké hradby, věže a příkopy je obklopují.
+  - Prozkoumej, jak jsou položeny vody,
+  - zda jsou bezedné, úzké nebo široké.
+  - Chceš-li něco vzít útokem z patra,
+  - učiň to rychle, tajně a potichu;
+  - k tomu není lepší pomoci ani rady,
+  - než mít rozum a dobré zvědy.
+  - Útoč v pravý čas, než se nadějí,
+  - co je připraveno, neodkládej a neprodlévej.
+  - Dbej a přičiň se o to,
+  - abys nejprve rozbořil jejich opevnění.
+  - Svými děly {geschütz}, ohňostroji a blidami {pleiden}[^1]
+  - je tiskni, až to nebudou moci vydržet.
+poznamky:
+- n: 1
+  text: |-
+    Pleiden (Bliden) – vrhací stroje (protizávažové praky, trebuchety); v 16. století už zastaralé, ve verších, které podle nadpisu sahají do mládí Maxmiliána I. (konec 15. stol.), se ještě uvádějí vedle děl.

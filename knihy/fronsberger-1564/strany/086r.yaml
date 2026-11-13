@@ -1,0 +1,60 @@
+id: 086r
+list: LXXXVI
+strana: recto
+sken: 179
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item was man also für holtzwerck von den hohen gebewen abbricht/das soll an ort vnd ende/da es vor fewer sicher/bewart werden.
+  cs: |-
+    Dále jakékoli dřevo, které se takto z vysokých budov strhne, se má uložit na místě, kde bude v bezpečí před ohněm.
+- typ: odstavec
+  de: |-
+    Sollich holtz mag auch zur notturfft verzimmert/verdarresset/vnd inn ander weg gebraucht werden/warzů die notturfft erfordert.
+  cs: |-
+    Takové dřevo lze také podle potřeby tesařsky zpracovat, vysušit a použít i jinak, k čemu si to potřeba vyžádá.
+- typ: odstavec
+  de: |-
+    Item es ist gůt wo mans gehaben mag/daß man mit Kolen koch/damit die feind die Küchen nit sehen vnd wissen mögen im Läger.
+  cs: |-
+    Dále je dobré, lze-li to mít, vařit na dřevěném uhlí, aby nepřátelé ve svém ležení {Läger} kuchyně neviděli a nevěděli o nich.
+- typ: odstavec
+  de: |-
+    Es ist zůbetrachten deß hauß gelegenheyt/die grösse/weyte oder enge/ob vnnd wieuiel das leuth bedörffe/ob mans an einem oder mehr orten belägern/beschantzen vnnd beschiessen möge/Deßgleichen an wieuiel orten den Sturm man gewarten můß/dem allem nach/soll das Schloß oder die Besatzung besetzt/vnnd alle wehren vnd plätz versehen sein.
+  cs: |-
+    Je třeba zvážit polohu domu [hradu], jeho velikost, rozlehlost či stísněnost; zda a kolik lidí potřebuje; zda jej lze obléhat, obehnat šancemi {beschantzen} a ostřelovat z jednoho, nebo více míst; a také na kolika místech je třeba očekávat útok. Podle toho všeho má být hrad čili posádka {Besatzung} obsazena a všechny hradby a stanoviště zaopatřeny.
+- typ: odstavec
+  de: |-
+    So dann alle plätz vnd wehren/nach aller notturfft besetzt vnd versehen seind/so můß man dennocht noch ein vbermaß von leuthen haben/damit man tag vnd nacht in der not/arbeyt vnd vnrhů den wechßel haben möge/darmit die besten nit durch vberig arbeyt vnd vnrhů abgemerckelt/krafft vnd wehrloß werden.
+  cs: |-
+    Když jsou pak všechna stanoviště a hradby náležitě obsazeny a zaopatřeny, je přesto třeba mít ještě nadbytek lidí, aby se ve dne i v noci v nouzi, práci a neklidu mohli střídat a nejlepší muži nebyli nadměrnou prací a neklidem uštváni, nezesláblí a neschopní boje.
+- typ: odstavec
+  de: |-
+    Item alles vnnütz gesind/zu kranck/zu jung/zu alt/was zänckisch/häderisch ist/fügt nit daher/auch die vnnottürfftigen weibs personen.
+  cs: |-
+    Dále se tam nehodí všechna neužitečná čeleď – příliš nemocní, příliš mladí, příliš staří, kdo jsou svárliví a hádaví –, ani nepotřebné ženské osoby.
+- typ: odstavec
+  de: |-
+    So dann ein Besatzung nach aller notturfft zu Speiß/tranck/zur gegenwehr/auch zu beschůhen vnd kleydern versehen/gibt es nit allein allen belägerten ein hertz vnd trost/sonder mag das Kriegßvolck/vnd besonder die hertzlosen/verzagten keyn vrsach/außrede oder entschuldigung haben noch finden/jr gethane pflicht vnd trew am Herren zubrechen/Alßdann in solchen fällen/faule vnd wichtige vrsachen gesucht vnnd fürgewendt werden.
+  cs: |-
+    Je-li pak posádka náležitě zásobena jídlem, pitím, prostředky k obraně, i obuví a šaty, dodává to nejen všem obleženým odvahu a útěchu, ale válečný lid {Kriegßvolck}, a zvláště malomyslní a zbabělí, nemůže mít ani najít žádnou příčinu, výmluvu či omluvu, aby porušil svůj závazek a věrnost, kterou pánovi přislíbil – jak se v takových případech jinak hledají a předstírají chabé i [zdánlivě] závažné důvody.
+- typ: odstavec
+  de: |-
+    Man soll auch in der Besatzung mit notturfft Bäsem zum firben vnnd kehrn den gestanck vnd mist/versehen vnd gefaßt sein.
+  cs: |-
+    V posádce se má také mít dostatek košťat k vymetání a odklízení smetí a hnoje.
+- typ: odstavec
+  de: |-
+    Item wo ein hauß in der Besatzung mit heymlichen gemachen nach notturfft vnd viele der Personen/nicht versehen/soll man derselbigen nach notturfft/an geheyme ort von der leuth wandel hindan graben vnd machen/vnnd keyns wegs gestatten hin vnd wider in die biegel ein wust zumachen/wie dann in Besatzungen gemeynlich geschicht/auch den wust von dem gemetzgeten vihe/vnd was gestanck vnd vngesunden lufft machen mag/soll man hinweg schaffen oder vergraben lassen/damit dester weniger vergiffter lufft vnd sterben vnterm volck erwachß.
+  cs: |-
+    Dále, není-li dům v posádce vybaven tajnými komorami [záchody] podle potřeby a počtu osob, mají se podle potřeby vykopat a zřídit na skrytých místech stranou od míst, kudy lidé chodí; a v žádném případě se nemá dovolit dělat nečistotu sem a tam po koutech, jak se v posádkách obvykle stává. Také nečistoty z poraženého dobytka a vše, co může působit zápach a nezdravý vzduch, se má odklidit nebo zakopat, aby mezi lidem vznikalo tím méně otráveného vzduchu a umírání.
+- typ: nadpis
+  uroven: 3
+  de: Schießlöcher versorgen.
+  cs: Obsazení střílen
+- typ: odstavec
+  de: |-
+    ZVm Sturm ist gůt/daß man zů jedem Schießloch zwen oder drey Schützen mit halben haacken vnd handroren verordne/damit man fürderlich vnd behend schiessen möge/also biß die zwen abschiessen/hat sich der ein wider gerüst/vnnd geht die sach also fürderlich von statt/dann widerstürmen ein tröstlich sach ist/so sich das handtgeschütz tröstlich helt/so auch zwen oder drey beyeinander seind/můß einer
+  cs: |-
+    Při útoku je dobré přidělit ke každé střílně dva nebo tři střelce {Schützen} s polovičními hákovnicemi {halben haacken} a ručnicemi, aby se mohlo střílet rychle a obratně: než ti dva vystřelí, první už má zase nabito, a tak jde věc rychle od ruky. Odrážet útok je totiž věc nadějná, drží-li se ruční zbraně statečně. A když jsou dva nebo tři pohromadě, musí se jeden

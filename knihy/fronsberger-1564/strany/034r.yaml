@@ -1,0 +1,22 @@
+id: 034r
+list: XXXIIII
+strana: recto
+sken: 75
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das Dritt Bůch. Von dem gantzen Reysigen Zeug/vnd was eines jeglichen Ampt vnd befelch sey.
+  cs: |-
+    Třetí kniha – o veškeré jízdě {Reysigen Zeug} a o tom, jaký je úřad a pověření každého [z ní]
+- typ: obrazek
+  soubor: drevorez-75.jpg
+  popis: >-
+    Dřevořez v oválném rámu zdobeném zbraněmi a zbrojí: hustý šik obrněných jezdců na koních v bardách, s chocholy
+    na přilbách a vztyčenými dlouhými kopími; uprostřed nad nimi vlaje velká korouhev.
+- typ: odstavec
+  de: |-
+    DJeweil vnter dem Regiment der Reysigen viel trefflicher/ehrlicher/hochgeborner/vnnd achtbarer leuth seind/von Fürsten/Herren/Grauen/Edel vnd vnedel/vnd andere ehrliche Personen/die auch mit mercklichem grossem kosten dienen müssen/so ist billich vor andern jhnen die ehr zugeben/vnd vor dem Fůßuolck fürgenommen/vnd ist zumercken/was ämpter vnter jhr Regiment gehörig seind.
+  cs: |-
+    Protože v pluku {Regiment} jízdy {Reysigen} je mnoho znamenitých, čestných, vysoce urozených a vážených lidí, knížat, pánů, hrabat, šlechticů i nešlechticů a jiných počestných osob, kteří navíc musejí sloužit se značným a velkým nákladem, je náležité vzdát čest jim přede všemi ostatními a pojednat o nich před pěchotou {Fůßuolck}; a je třeba si povšimnout, které úřady patří k jejich pluku.

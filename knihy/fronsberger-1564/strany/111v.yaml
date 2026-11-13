@@ -1,0 +1,52 @@
+id: 111v
+list: CXI
+strana: verso
+sken: 230
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    auch allen Troß so viel müglich ist/schmeidigen/vnnd nicht allweg die menge sonder die stercke erwöhlen/vnd hinwider nach gelegenheyt/Wiewol ein kleyner geübter geringer hauffen/gegen einem grossen vnartigen/mit Ordnung/geschwindigkeyt/Besoldung/Prouandt vnd gesundtheyt/alle vortheyl innhat/soll er denselben doch etwann nach erforderung des glücks/in eyl also mehren/seine vntersessen mit jhrer vermüglichsten rüstung zusammen bestimmen/vnd allda jhnen die wahl geben selbs zuziehen/oder ein Söldner in jedes rüstung an seine statt zubestellen/wird jhnen bey den zubleiben/vnd ein verwalter zugeben/ein hoher danck sein.
+  cs: |-
+    také co nejvíce omezit veškerý trén {Troß} a nevybírat vždy množství, nýbrž sílu, a zase naopak podle okolností. Ačkoli malý, vycvičený a lehký houf má proti velkému a neukázněnému díky pořádku, rychlosti, žoldu, proviantu a zdraví všechny výhody, má jej přece někdy, jak to štěstí žádá, v rychlosti rozmnožit takto: své poddané má svolat s jejich nejlepší výzbrojí a tam jim dát na vybranou, zda potáhnou sami, nebo za sebe postaví žoldnéře v jejich výzbroji; budou mu velmi vděčni, že mohou zůstat u svých a dát za sebe zástupce.[^1]
+- typ: nadpis
+  uroven: 2
+  de: Von eygnem Land vnd Vestungen.
+  cs: O vlastní zemi a pevnostech
+- typ: odstavec
+  de: |-
+    BEsorgt er aber seines Lands/so sol ers vor vnnd ehe es jhm vberzogen werd/als viel füglich sein mag/mit hinder gedämpten Mawren/dicken Bollwercken/weiten tieffen vnd gefütterten wassergräben/mit Schantzkörben/Sand/steynen/kaat/mist/holtz/eisen/hartz/bäch/schwäbel/strick/ertz/kuglen/puluer/geschütz/speiß/tranck/sampt aller notwendigkeyt vnd Sturmzeug/auch mit starcker/trewer vnd hertzhafftiger Besatzung vberflüssig stercken/vnd welche Stett/Schlösser vnnd Flecken/von natur jrer gelegenheyt für ein gwalt nicht zubawen weren/sauber auffraumen/in die vesten füren/vnnd an dem ort daher er seins feinds zukunfft gewertig/vorab Winters zeit/etwann also gar nider schleiffen/oder wann er sich dahin lägert/durch getrewe diener in geheym/mit des feinds mercklichem schaden/an viel orten zumal anbrennen/daß sich alda weder viech noch leuth/weder vor Wind/regen/hunger noch durst erhalten mög/Würd er aber zu geschwind vbereylt/so sol er doch alle gelaßne Schnabelweyd wercklich kuttinieren vnnd spicken. Er soll auch nach arth seins gelendts/sein passierung verschantzen/etwann bey seinen Stetten vnnd Vestungen/mit starcken Rächen verschrancken/damit er dem feind die flüß entwenden/vnd was jhm auff dem wasser hinab/zugesandt/auffahen möge/auch Bronnen/See/Bäch/wassergräben/mit gifft dem feind schedlich machen.
+  cs: |-
+    Obává-li se však o svou zemi, má ji dříve, než bude napadena, pokud možno co nejhojněji posílit hradbami zevnitř zasypanými [zeminou],[^2] tlustými bašty {Bollwercken}, širokými, hlubokými a vyzděnými vodními příkopy, šancovními koši {Schantzkörben}, pískem, kamením, hlínou, hnojem, dřevem, železem, pryskyřicí, smolou, sírou, provazy, kovem, koulemi, prachem, děly {geschütz}, jídlem a pitím i vším potřebným a útočným náčiním, jakož i silnou, věrnou a srdnatou posádkou {Besatzung}. Města, hrady a městečka, která by pro svou přirozenou polohu nebylo možné zbudovat proti násilí, má čistě vyklidit, [vše] odvézt do pevností a na straně, odkud očekává příchod nepřítele, je zvláště v zimě někdy zcela srovnat se zemí, nebo je, když se tam nepřítel utáboří, skrze věrné služebníky potají a s citelnou škodou nepřítele zapálit na mnoha místech zároveň, aby se tam neudržel dobytek ani lidé, ani před větrem, deštěm, hladem či žízní. Kdyby však byl zaskočen příliš rychle, má přesto všechnu zanechanou potravu {Schnabelweyd} důkladně zkazit a prošpikovat [jedem].[^3] Podle povahy své krajiny má také opevnit své průchody, například u svých měst a pevností je zahradit silnými česly {Rächen}, aby nepříteli odňal řeky a zachytil, co by mu bylo posíláno po vodě dolů; a také má studny, jezera, potoky a vodní příkopy jedem učinit pro nepřítele škodlivými.
+- typ: nadpis
+  uroven: 2
+  de: Von Wachten.
+  cs: O strážích
+- typ: odstavec
+  de: |-
+    ER soll auch mit strengen Wachten/nächtliche besteigung seiner gebew/fürkommen/offt Wachtzeychen ändern/die vnwackern zum alten entschlaffnen hauffen abfertigen/die hartzliechter bey der menge/an bereytten stetten ausser vnd jnnerhalb den mawren vnd plätzen/nach erforderung verordnen/vnd die Wacht selbs vnbekannter person/heymlich offt bespähen vnd wacker machen/Auch in keynen weg gestatten ohn bewaffet zu schlaffen/sonder etwann dem feind dückisch vrsach geben/mit verstecktem vortheyl einzufallen vnd sie zuwecken.
+  cs: |-
+    Přísnými strážemi má také předcházet nočnímu zlézání svých staveb, často měnit strážní hesla {Wachtzeychen}, nebdělé odeslat ke starému zesnulému houfu,[^4] dát podle potřeby na připravených místech vně i uvnitř hradeb a prostranství zapálit hojně smolných pochodní a stráž sám, nepoznán, často tajně obcházet a burcovat k bdělosti. Také nemá v žádném případě dovolit spát beze zbraně, nýbrž má někdy nepříteli lstivě poskytnout příležitost, aby vpadl, [ale] s ukrytou výhodou, a tak [své lidi] probouzet.
+- typ: nadpis
+  uroven: 2
+  de: Von Thewre vnd mangel.
+  cs: O drahotě a nedostatku
+- typ: odstavec
+  de: |-
+    WVrde dem feind etwann abgang seiner prouiand verkundtschafft/vnd würde zumůth jn außzuhüngern/damit er solchen fürsatz wende/sol er viech vnd brot außwerffen/oder alles getreyd in etlich schewren samlen/die gefangne oder deß
+  cs: |-
+    Kdyby se nepřítel snad vyzvěděl o nedostatku jeho proviantu a pojal úmysl vyhladovět ho, má [obránce], aby ho od takového záměru odvrátil, vyhazovat [za hradby] dobytek a chléb, nebo všechno obilí shromáždit do několika stodol a přivést k nim zajatce nebo
+poznamky:
+- n: 1
+  text: |-
+    „wird jhnen bey den zubleiben/vnd ein verwalter zugeben/ein hoher danck sein“ – čteno jako „bey den [jhren] zubleiben“ (zůstat u svých). Možné je i „beyden“: obojí (zůstat a dát zástupce) budou mít za velkou laskavost.
+- n: 2
+  text: |-
+    „hinder gedämpte Mawren“ – hradby zevnitř zesílené udusanou zeminou (náspem), aby odolaly dělostřelbě.
+- n: 3
+  text: |-
+    „kuttinieren“ – nejasné slovo, snad z lat. contaminare (znečistit, otrávit); „spicken“ = prošpikovat, tj. promíchat s jedem.
+- n: 4
+  text: |-
+    „zum alten entschlaffnen hauffen abfertigen“ – doslova „odeslat k starému usnulému houfu“; patrně ironický eufemismus pro potrestání smrtí (spánek na stráži se trestal hrdlem), nebo prostě odvolání ze stráže.

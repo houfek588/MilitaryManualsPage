@@ -1,0 +1,57 @@
+id: 038r
+list: XXXVIII
+strana: recto
+sken: 83
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Were es aber als auch etwann geschicht/daß man von feinden abzeucht/oder gar in einer flucht ist/soll er gleicher gestalt seinen Fanen so lang er mag vnd jhm müglich ist/fliegen lassen/sich stäts der höhe befleissen/da er gesehen/vnd daruon erkannt werden mag/damit sich die zerstrewten zu jm wissen zuuersamlen. Er soll auch meniglich vnangesehen ob sie vnter seinen oder ein andern Fanen gehören/inn sollichem fall der noth ermanen/ansprechen/zum Fanen berüffen vnd erfordern/vnd wo er mit gůter gelegenheyt mag da er vermeynt nutz zuschaffen/die seinen flucks ordnen/in die zerstrewte nacheilende feind setzen/in solchem fall ist offt grosse ehr eingelegt worden.
+  cs: |-
+    Stane-li se však, jak se také někdy stává, že se od nepřítele ustupuje nebo se dokonce prchá, má stejně tak nechat svou korouhev {Fanen} vlát, dokud může a dokud je to možné, a stále vyhledávat výšinu, kde může být viděn a podle ní poznán, aby se rozptýlení dovedli u něho shromáždit. Má také v takovém případě nouze napomínat, oslovovat, ke korouhvi svolávat a vyzývat každého bez ohledu na to, zda patří pod jeho, nebo pod jinou korouhev. A kde se mu naskytne dobrá příležitost a míní-li, že by mohl prospět, má své lidi rychle seřadit a vrhnout se na rozptýlené pronásledující nepřátele – v takovém případě se už často dobylo velké cti.
+- typ: odstavec
+  de: |-
+    So er aber je von feinden so hart getrungen/weitter nit kommen mag/so zimpt jhm wol/daß er den Fanen vom Spieß reiß/vnnd wie er mag daruon bring/oder wo er nit baß mag/den Fanen zu kleynen fätzlin zerreiß/damit er den feinden nit zutheyl werde.
+  cs: |-
+    Bude-li však nepřítelem tak tvrdě tísněn, že nemůže dál, sluší se, aby strhl korouhev z ratiště {Spieß} a odnesl ji, jak může; anebo nemůže-li jinak, aby korouhev roztrhal na malé cáry, aby nepadla do rukou nepříteli.
+- typ: odstavec
+  de: |-
+    Der Fänderich soll kostfrey/vnd gegen den Reuttern holdsälig vnd feundtlich sein/das macht jhm gůte gunst/etc. Man kans nicht alles schreiben vnd anzeygen/sonder ein ehrlicher geübter Kriegßmann weyß sich selbs wol zuhalten.
+  cs: |-
+    Praporečník {Fänderich} má být štědrý {kostfrey} a k jezdcům {Reuttern} vlídný a přátelský; to mu získává dobrou přízeň atd. Nelze všechno sepsat a uvést, ale čestný a zkušený válečník sám dobře ví, jak se chovat.
+- typ: odstavec
+  de: |-
+    Er schwört dem Herren getrew vnd hold zusein/seinen Fanen gegen vnnd von feinden mit allen trewen biß in seinen todt zubeschirmen/vnd alles das darbey zuthůn/daß einem frommen/ehrlichen/dapfferen Manu/vnnd sein Ampt als ein Fänderich erfordert/zusteht vnd gebürt.
+  cs: |-
+    Přísahá pánovi, že bude věrný a oddaný, že bude svou korouhev při útoku na nepřítele i při ústupu od něho se vší věrností bránit až do své smrti a že při tom učiní vše, co přísluší a náleží řádnému, čestnému a statečnému muži a co vyžaduje jeho úřad praporečníka.
+- typ: odstavec
+  de: |-
+    Jm wird auff sein leib als andern Reysigen Fänderichen Besoldung geben/sein eygner Reyßwagen gehalten/Er hat keyn Trabanten/es were dann daß er etwan ein geborner Herr were/sonst seins ampts halben/helt man jm nit Trabanten.
+  cs: |-
+    Dává se mu na jeho osobu žold {Besoldung} jako jiným jezdeckým praporečníkům a vydržuje se mu vlastní cestovní vůz {Reyßwagen}. Drabanty {Trabanten} nemá, ledaže by byl náhodou urozený pán; jinak se mu kvůli jeho úřadu drabanti nevydržují.
+- typ: nadpis
+  uroven: 2
+  de: Deß Fürers Ampt/vnter ein geschwader Reutter.
+  cs: Úřad vůdce {Fürers} u švadrony {geschwader} jezdců
+- typ: odstavec
+  de: |-
+    MAn verordnet etwann ein feinen geschickten Reysigen einspännigen knecht/der schreiben vnd lesen kan/zu einem Fürer/deß Ampt vnd Befelch ist/daß er mit den jhenigen/so das Läger einnemen/vorhin zeucht/vnd so das Quartier außgetheylt vnd verlosiert ist/vnd er weiß welches sein Quartier ist/So verordnet er das best vnnd gelegnest ort für sein Hauptmann/nachmals für den Fänderich/für den Leutenant vnd alle Herrn vnd Adel/jedem nach seinem standt vnd ansehen/doch daß er sein selbs nicht vergeß/Sein zeychen macht er auch an die Losament/ist es aber im Feld/so theylt er die Losament auch nach gelegenheyt auß.
+  cs: |-
+    Za vůdce se obvykle ustanovuje nějaký pořádný, schopný jezdec s jedním koněm {einspännigen knecht}[^1], který umí psát a číst. Jeho úřadem a povinností je táhnout napřed s těmi, kdo zabírají ležení {Läger}; a když je kvartýr {Quartier} rozdělen a rozlosován a on ví, který kvartýr je jeho, určí nejlepší a nejvhodnější místo pro svého hejtmana {Hauptmann}, potom pro praporečníka, pro poručíka {Leutenant} a všechny pány a šlechtu, každému podle jeho stavu a vážnosti – ovšem tak, aby nezapomněl ani na sebe. Na ubytování {Losament} dělá také své značky; je-li to však v poli, rozdělí ubytování také podle okolností.
+- typ: odstavec
+  de: |-
+    So dann das Läger eingenommen/vnd er seine Losament außgetheylt/so geht er für das Läger/damit so die Reutter oder jr Trosser vnd voreytter kommen/daß er sie in jhr Quartier/vnd einen jeden zu seinem Losament wiß zuweisen.
+  cs: |-
+    Když je pak ležení zabráno a on rozdělil ubytování, vyjde před ležení, aby až přijdou jezdci nebo jejich trénní pacholci {Trosser} a předjezdci {voreytter}, uměl je dovést do jejich kvartýru a každého k jeho ubytování.
+- typ: odstavec
+  de: |-
+    Sonst thůt er seins Ampts halben keyn sondere pflicht/so wird jm keyn sonderer vortheyl/allein für sein mühe vnd arbeyt wird jhm doppelsold gegeben.
+  cs: |-
+    Jinak kvůli svému úřadu neskládá žádný zvláštní závazek {pflicht} a nedostává žádnou zvláštní výhodu; jen za svou námahu a práci se mu dává dvojitý žold {doppelsold}.
+- typ: nadpis
+  uroven: 2
+  de: Capplon der Reysigen.
+  cs: Kaplan {Capplon} jízdy
+poznamky:
+- n: 1
+  text: einspänniger knecht – jezdec s jediným koněm, bez vlastní čeledi; „Einspänniger“ sloužil často jako posel nebo pomocník úředníků.

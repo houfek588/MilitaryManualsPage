@@ -1,0 +1,63 @@
+id: 096v
+list: XCVI
+strana: verso
+sken: 200
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    auch ein jeder bey jhme ohne alle hindernuß führen oder tragen/also zurichten in einem ermel/es were auch nicht so vbel angesehen/wann man schon solche rüstung einem heerzug nachführte.
+  cs: |-
+    také každý vézt nebo nosit u sebe bez jakékoli překážky, takto upravený v rukávu. Nebylo by také tak špatně uváženo, kdyby se taková výbava vezla za vojskem.
+- typ: odstavec
+  de: |-
+    Jtem in jedem Feldzug soll verordnet werden/zu jedem Reißwagen ein Spetknecht/zwen Hacken/vier Schauffeln/vier Bickel/drey Hawen/vnnd zwo ärte/daß dann offt zu grossem nutz kompt/Nemlich so man ein Wagenburg macht/hat man die Hacken/daß man rinden in vnd hinder den Wägen mit den Hacken legt.
+  cs: |-
+    Dále: Na každém tažení se má ke každému polnímu vozu {Reißwagen}[^1] přidělit jeden „Spetknecht“[^2], dvě sekerky {Hacken}, čtyři lopaty, čtyři krumpáče, tři motyky a dvě sekery, což pak často přijde k velkému užitku. Totiž když se staví vozová hradba {Wagenburg}, jsou po ruce sekerky, aby se jimi do vozů a za vozy kladla „rinden“[^3].
+- typ: odstavec
+  de: |-
+    Jtem die Schauflen/Hawen/ärte zum Schantzen/graben vnnd vergraben/vnd aller anderer zutragender notturfft.
+  cs: |-
+    Dále: Lopaty, motyky a sekery [slouží] ke stavbě šancí {Schantzen}, ke kopání a zakopávání a ke všem ostatním naskytnuvším se potřebám.
+- typ: nadpis
+  uroven: 3
+  de: Nota.
+  cs: Poznámka
+- typ: odstavec
+  de: |-
+    Man soll aber alle ding keyn Kriegßuolck still ligen vnnd feyren lassen/sonder ohne vnterlaß jhnen arbeyt aufflegen/vnnd so man nicht mehr mag/ehe von einem Läger zum andern führen/dann es gar ein grosser nachtheyl vnd schaden/so man ein Kriegßuolck zuuil rühen vnd verligen läßt.
+  cs: |-
+    Válečný lid se však nemá za žádných okolností nechat nečinně ležet a zahálet, nýbrž je třeba mu bez ustání ukládat práci, a když už není jak, raději ho vodit z jednoho ležení {Läger} do druhého; je totiž velkou újmou a škodou, když se válečnému lidu dovolí příliš odpočívat a zlenivět.
+- typ: nadpis
+  uroven: 3
+  de: Nota.
+  cs: Poznámka
+- typ: odstavec
+  de: |-
+    Dem Kriegßherrn ist auch zubedencken/daß offt ein Herr/der ein solche großwichtige sach anfacht/sich bedüncken lasset/er hab alle ding wol berathschlagt vnnd versehen/mög jhm nicht fählen/vnd geht doch darüber zu grund/dann es seind jhr vil gewesen/die schlechte leuth/auch gemeynen nutz inn hohen Stand gebracht/dardurch sie schaden empfangen/Es seind auch jhr viel gewesen/die jhrer freund/dienst vnnd freundtschafft wol hetten mögen geniessen/die sie doch lieber für knecht dann Freund achten wöllen/darüber sie jhr gebürliche straff empfangen/jhr vil haben sich auch jhrs erlangten stands vnd leben nicht benügen lassen/wiewol sie in grossem lust gesetzt/Dieweil sie aber vber menniglich herrschen wöllen/haben sie auch das verloren das sie vorgehabt haben/auch seind jhr vil gewesen/nachdem sie groß reichthumb/wie sie es begert/vberkommen/haben sie vmb derselbigen willen verderben müssen.
+  cs: |-
+    Válečný pán {Kriegßherrn} má také uvážit, že pán, který začíná tak závažnou věc, si často namlouvá, že všechno dobře rozvážil a zajistil a nemůže se mu nic nezdařit, a přece při tom vezme za své. Bylo jich totiž mnoho, kteří povýšili nízké lidi, ba i obecní prospěch[^4], do vysokého stavu, a utrpěli tím škodu. Bylo jich také mnoho, kteří mohli dobře užívat služeb a přízně svých přátel, ale raději je chtěli mít za sluhy než za přátele, a za to dostali zasloužený trest. Mnozí se také nespokojili s dosaženým stavem a životem, ačkoli žili ve velkém blahobytu; protože však chtěli vládnout nade všemi, ztratili i to, co předtím měli. A bylo jich také mnoho, kteří poté, co nabyli velkého bohatství, jak si přáli, museli kvůli němu zahynout.
+- typ: odstavec
+  de: |-
+    Jtem in jeder Besatzung sollen ein anzal volcks verordnet werden/die sorg für das Fewer haben/nicht allein für das Fewerwerffen vnnd schiessen/sonder auch vor fewer/so etwann verrätherisch möcht eingelegt/oder sonst durch liederliche leuth verwarloset werden/dartzů sollen besonder leuth anfänglich verordnet werden/also/so fewer außkäme/daß dieselbigen zulieffen/vnd sonst alles ander Kriegßuolck an seinen Wehren vnd geschäfften bleiben/bey verlierung leibs vnd lebens/vnd nit also durch vnordnung jedermann durch einander lieff/die Wehren vnd andere notwendige geschäfft verließ/vnd dartzů seind sonderlich die Bürger am besten zuuerordnen/doch daß jhnen vom Kriegßuolck (allerley beweglicher vrsachen halben) etwann vil ehrlicher vertrawter leuth werden zugeordnet.
+  cs: |-
+    Dále: V každé posádce {Besatzung} se má ustanovit určitý počet lidí, kteří budou mít na starosti oheň – nejen vrhaný ohněm a střelbou [nepřítele], ale i oheň, který by mohl být zrádně založen nebo jinak zaviněn nedbalými lidmi. K tomu se mají hned zpočátku ustanovit zvláštní lidé, aby v případě požáru běželi [hasit] oni a všechen ostatní válečný lid zůstal na svých obranných místech a u svých úkolů pod ztrátou hrdla a života, a aby tak nikdo v nepořádku nepobíhal sem a tam a neopouštěl hradby a jiné nutné úkoly. K tomu se nejlépe hodí zvláště měšťané, ovšem tak, aby k nim byl (z mnoha závažných důvodů) přidělen dosti velký počet čestných a důvěryhodných lidí z válečného lidu.
+- typ: odstavec
+  de: |-
+    Jtem so man sich eines Sturms versicht/vnd die Besatzung zum Sturm beschossen ist/soll man vil Büchsen durch reiß/holtz/büschlen stro/häw/flucks zuhand
+  cs: |-
+    Dále: Když se očekává útok a posádka je již k útoku prostřílena, má se mnoho pušek {Büchsen} [zastrčených] v klestí, dříví, otýpkách slámy a sena bez meškání
+poznamky:
+- n: 1
+  text: |-
+    Reißwagen – vůz polního tažení (Reise, Reis = vojenská výprava), který vezl výstroj a zásoby.
+- n: 2
+  text: |-
+    Spetknecht – výraz nejasný; podle souvislosti spíš nářadí než člověk, snad zvedák k vozu (Knecht = podpěra, zvedák). Ponecháno nepřeloženo.
+- n: 3
+  text: |-
+    „rinden“ – nejasné, snad kůra nebo oloupané kmeny (Rinden) k vyplnění mezer mezi vozy hradby, snad tisková chyba.
+- n: 4
+  text: |-
+    Tak tisk („auch gemeynen nutz inn hohen Stand gebracht“); snad míněno „na úkor obecného prospěchu“.

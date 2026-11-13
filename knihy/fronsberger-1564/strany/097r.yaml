@@ -1,0 +1,53 @@
+id: 097r
+list: XCVII
+strana: recto
+sken: 201
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    richten/damit wo müglich man das beschossen loch möcht also mit sollicher materi verwerffen/so dann die feind biß daran kommen/so werffe man fewrwerck darein/so es dann brinnen wird/mag man dardurch nit stürmen/vnnd müssen die feind wider hindersich weichen/oder im geschütz stehn bleiben.
+  cs: |-
+    připravit, aby se, bude-li to možné, prostřílený průlom dal takovým materiálem zaházet. Až pak nepřátelé dojdou až k němu, hodí se do toho ohňostroj {fewrwerck}, a když to začne hořet, nelze tudy útočit a nepřátelé musí zase ustoupit, nebo zůstat stát v palbě.
+- typ: nadpis
+  uroven: 3
+  de: Wo man einer Besatzung Stürmens besorgt.
+  cs: Když se posádka obává útoku
+- typ: odstavec
+  de: |-
+    SO du dich in einer Besatzung Stürmens besorgest/so nimb vil reiff die etwann zweyer schůch hoch seind/bind allwegen drey zusammen mit bast oder sunst starckem zeug/zugleich rund wie ein Saltzscheiben/derselbigen mach vil/vnd so man wider dich Stürmen wil/so wirff jhr vil in graben/vnd in den weg/so mag man daruor nit fort kommen vnnd hindert hefftig/es wirffts auch ein jeder dem andern selbs vnter die füß.
+  cs: |-
+    Obáváš-li se v posádce {Besatzung} útoku, vezmi mnoho obručí, asi dvě stopy {schůch} vysokých, svaž vždy tři dohromady lýkem nebo jiným pevným materiálem, kulaté jako solná homole, a nadělej jich mnoho. Když na tebe pak budou chtít útočit, naházej jich mnoho do příkopu a do cesty; přes ně se nelze dostat dál a velmi to překáží, a navíc si je každý sám hází druhému pod nohy.
+- typ: odstavec
+  de: |-
+    Jtem in der Besatzung soll der fürsichtigkeyt gepflogen werden/nemlich daß man nit allein an dem ort da man sich besorgt zum sturm rüst/da es geschossen wird/sonder an allen orten soll man sorg haben/vnd sich zum Sturm rüsten/dann es hat sich offt begeben/daß ein Besatzung gantz liederlich/vnd etwann an einem ort hinein/da sich niemands versehen oder sorg gehabt/durch wenig personen/etwann durch steigen oder durch brechen ist erobert worden/oder auch etwann durch verrähterey/Darumb ist nit allein gůt/sonder hoch vonnöten/daß die Besatzung starck vnd an leuthen nit mangelhafftig sey/damit alle ding nach notturfft möge versehen vnd besetzt werden.
+  cs: |-
+    Dále: V posádce se má dbát prozíravosti, totiž aby se k obraně proti útoku nechystalo jen na tom místě, kde se útoku obávají, protože se tam střílí, nýbrž aby se dávalo pozor a chystalo k útoku na všech místech. Často se totiž stalo, že posádka byla dobyta velmi snadno několika málo lidmi, a to na místě, kde to nikdo nečekal a neměl obavy, například přelezením nebo průlomem, nebo také zradou. Proto je nejen dobré, ale nanejvýš nutné, aby posádka byla silná a neměla nedostatek lidí, aby bylo možné všechno podle potřeby zajistit a obsadit.
+- typ: odstavec
+  de: |-
+    Jtem es ist auch fast gůt/daß man in den Besatzungen vil kurtzer Büchsen habe/doch mit zimlichen weiten roren/vngefährlich die ror so weit daß man zwen zwerch finger hinein stossen möge/vnd die ror etwann vngefehrlich zweyer schůch lang/doch an der schwere dermassen/daß sie ein einicher mann tragen/schiessen/vnd wol begwältigen mög/solche Büchsen sollen mit hagelgeschütz vnd kleynen Kugeln/der etwann viertzig oder fünfftzig auff ein pfund gehn/geladen werden/in massen wie man die handrohr mit hagelgeschütz ladet/so man Andvögel oder andere vögel schiessen wil/vnd sollich hagelgeschütz ist treflich gůt vnter ein hauffen volcks/in der nähe zuschiessen/besonder auff nackete leuth/dann es zerstrewt sie/vnd thůt treflichen grossen schaden/wie man dann sicht/so man damit vnter vögel scheußt.
+  cs: |-
+    Dále: Je také velmi dobré mít v posádkách mnoho krátkých pušek {Büchsen}, ovšem s dosti širokými hlavněmi – přibližně tak širokými, aby se do nich daly strčit dva prsty napříč – a s hlavní dlouhou asi dvě stopy, avšak tak těžkých, aby je jeden muž unesl, mohl z nich střílet a dobře je ovládal. Takové pušky se mají nabíjet broky {hagelgeschütz}[^1] a malými kulemi, kterých jde asi čtyřicet nebo padesát na jednu libru {pfund}, stejně jako se nabíjejí ručnice broky, když se chce střílet na divoké kachny nebo jiné ptáky. Takové broky jsou znamenité ke střelbě zblízka do houfu lidí, zvláště na lidi bez zbroje, neboť je rozptýlí a nadělají ohromnou škodu, jak je vidět, když se jimi střílí do ptáků.
+- typ: odstavec
+  de: |-
+    Jtem sollich hagelgeschütz were auch treflich gůt an einer Schlacht/doch in die nähe/vnd vnter einen hauffen zuschiessen.
+  cs: |-
+    Dále: Takové broky by byly znamenité i v bitvě, ovšem ke střelbě zblízka a do houfu.
+- typ: odstavec
+  de: |-
+    Also möcht man auch wol Falckonnet/vnd andere dergleichen Büchsen laden/vnter ein volck/auff drey/vierhundert schritt auß solchen stücken zuschiessen/es kan nicht wol fählen.
+  cs: |-
+    Stejně tak by se daly nabíjet i falkonety {Falckonnet} a jiná podobná děla a střílet z těch kusů do lidu na tři až čtyři sta kroků; to nemůže dobře minout.
+- typ: odstavec
+  de: |-
+    Jtem in den Besatzungen da man die Mawren vnnd Wehren zum Sturm scheusset/mag man sich auch an demselbigen ort dartzů rüsten vnnd schicken/also daß man scheytter/stro vnd häwbüschlen/auch Büchsen ring zur hand ordne vnd leg/vnd wann dann die feind am anlauff seind/daß man dann geschwind in eyl das zerschossen
+  cs: |-
+    Dále: V posádkách, kde [nepřítel] k útoku prostřeluje hradby a opevnění, se lze na tom místě také připravit a zařídit tak, že se po ruce přichystají a složí polena, sláma a otýpky sena a také lehké pušky[^2], a když pak nepřátelé vybíhají k útoku, aby se rychle a ve spěchu to prostřílené
+poznamky:
+- n: 1
+  text: |-
+    Hagelgeschütz – „krupobití“, náboj z broků, sekaného olova nebo kamínků, který se při výstřelu rozptýlí.
+- n: 2
+  text: |-
+    „Büchsen ring“ – čteno jako „Büchsen, ring“ (= gering, lehké); jiné čtení by bylo „obruče“ (Ring) jako výše na této straně.

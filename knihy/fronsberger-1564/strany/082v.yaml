@@ -1,0 +1,63 @@
+id: 082v
+list: LXXXII
+strana: verso
+sken: 172
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    zerschossen/oder sonst zerbrochen werden/daß man sollichen mangel bald erstatten möge.
+  cs: |-
+    byla rozstřílena nebo jinak rozbita, bylo možné takový nedostatek brzy nahradit.
+- typ: odstavec
+  de: |-
+    Welcher massen auch das Zeughauß mit Puluer/Kugeln/Schwefel/Salpetter/Kolen/auch zu aller geschlecht stücken da man bley schiessen mag Mödel/vnd ander notturfft versehen soll sein/ist vorgemelt/Es wil aber auch wol angesehen sein/daß es mit andern mehr Munition zur wehr dienstlich als jetzt nachfolgt/versehen vnd versorgt sey.
+  cs: |-
+    Jak má být zbrojnice {Zeughauß} zásobena prachem, koulemi, sírou, ledkem, uhlím a také formami {Mödel} pro všechny druhy děl, z nichž lze střílet olovo, a jinou potřebou, bylo řečeno výše. Je však také třeba dbát, aby byla zásobena a opatřena ještě další municí {Munition} užitečnou k obraně, jak nyní následuje.
+- typ: odstavec
+  de: |-
+    Item etwann viel Centner Bley zu den Falckonen/Falckonet/Schlangen/vnnd handgeschütz/auch wo eisen Kugeln zerrünnen/daß man zu den Notschlangen vnd Falckonen vber schrot Kugeln giessen möge.
+  cs: |-
+    Dále: Mnoho centů {Centner} olova pro falkony {Falckonen}, falkonety, hadovnice {Schlangen} a ruční zbraně; také aby se, kdyby železné koule došly, daly pro nouzové hadovnice {Notschlangen} a falkony odlévat koule přes železné jádro {vber schrot}[^1].
+- typ: odstavec
+  de: |-
+    Item etwann vil Thonnen Bäch vnnd Hartz/auch Leinöl/das man zů den Fewrwercken/nachtliechtern vnd Ampeln brauchen möge.
+  cs: |-
+    Dále: Mnoho sudů smoly a pryskyřice, také lněný olej, aby se daly použít do ohňostrojů {Fewrwercken}, nočních světel a lamp.
+- typ: odstavec
+  de: |-
+    Item etlich hundert bächring zů den Bächpfannen/so man nachts bawet oder lärman wird/daß man dieselbigen haben vnnd brauchen möge/die werden gemacht auß Schwefel/Bäch/hartz/vnd alten zerfässerten lumpen oder Seylern/die wehren in regen/schnee vnd wind/etc.
+  cs: |-
+    Dále: Několik set smolných věnců {bächring} do smolných pánví {Bächpfannen}, aby je bylo možné mít a použít, když se v noci staví nebo vznikne poplach. Dělají se ze síry, smoly, pryskyřice a starých roztřepených hadrů nebo provazů a vydrží v dešti, sněhu i větru atd.
+- typ: odstavec
+  de: |-
+    Item vil gůter starcker Seyler zů den Zügen/da man geschütz/holtz/steyn vnd anders mit ziehen mag.
+  cs: |-
+    Dále: Mnoho dobrých silných provazů ke kladkostrojům {Zügen}, jimiž lze tahat děla, dřevo, kamení a jiné věci.
+- typ: odstavec
+  de: |-
+    Item ein gůte notturfft der Züg mit jhren Krügen/so etlich brechen/daß man andere haben vnd brauchen möge.
+  cs: |-
+    Dále: Dostatečnou zásobu kladkostrojů s jejich kladkami {Krügen}[^2], aby se, kdyby se některé zlomily, daly mít a použít jiné.
+- typ: odstavec
+  de: |-
+    Item zu allerley geschlecht der Geschütz ein genugsame anzal Papeirine ladungen/damit man sich derselbigen zur notturfft gebrauchen/vnd dester fürderlicher schiessen möge.
+  cs: |-
+    Dále: Pro všechny druhy děl {Geschütz} dostatečný počet papírových náloží {Papeirine ladungen}, aby se jich dalo v potřebě použít a střílet tím rychleji.
+- typ: odstavec
+  de: |-
+    Item es ist auch nicht vbel angesehen/daß man etlich Böller in den Besatzungen hab/damit man Fewr wirfft/dann wo künstliche Büchsenmeyster in einer Besatzung seind/mag man fewrkugeln machen/so man sie wirfft auß der Besatzung gegen der feind Läger/vber die Arckeley oder Schantz/daß sie am herab fallen zerspringen/darein dann ein grosse zal von etlicher materi den künstlichen Fewerwerckmachern bewißt/gemacht wird/das sich im zerspringen entzündt/vnd ein zimliche weite voneinander zersteupt vnnd herab fellt als ein fewriger regen/wo dann derselbigen funcken einer in die Arckeley oder andere orth/da man mit Puluer vmbgeht/fellt/so zündt es an/thůt treffenlichen schaden.
+  cs: |-
+    Dále: Není také od věci mít v posádkách {Besatzungen} několik moždířů {Böller}, jimiž se vrhá oheň. Jsou-li totiž v posádce umělí puškaři {Büchsenmeyster}, lze udělat ohnivé koule, které se při vrhu z posádky proti nepřátelskému ležení {Läger}, přes dělostřelectvo {Arckeley} nebo šanci {Schantz}, při dopadu roztrhnou. Dává se do nich velké množství jisté látky, kterou znají umělí ohněstrůjci; ta se při roztržení vznítí, rozptýlí se do značné šíře a padá dolů jako ohnivý déšť. Padne-li pak některá z těch jisker do dělostřelectva nebo na jiné místo, kde se zachází s prachem, zapálí ho a způsobí ohromnou škodu.
+- typ: odstavec
+  de: |-
+    Item wo man nicht gelegenheyt inn den Besatzungen zu Puluer mühlen gehaben mag/soll man doch fürsehen sein/mit vielen Mörscheln vnnd anderen Stämpffeln/darmit man zur notturfft Puluer auch zeug zu Fewerwercken machen könne.
+  cs: |-
+    Dále: Není-li v posádkách možnost mít prachové mlýny, má se aspoň opatřit mnoho hmoždířů {Mörscheln} a jiných stoup, aby se dal v potřebě vyrobit prach i materiál na ohňostroje.
+poznamky:
+- n: 1
+  text: |-
+    Schrot – kus nasekaného železa, přes který se odlévalo olovo; tak se šetřilo olovem (srov. „Schröt, Kuglen darüber zugiessen“ na l. LXXXIIIr).
+- n: 2
+  text: Krüge – zde patrně kladky (bloky) kladkostroje; význam nejistý.

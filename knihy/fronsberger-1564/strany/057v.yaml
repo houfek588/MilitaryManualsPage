@@ -1,0 +1,49 @@
+id: 057v
+list: LVII
+strana: verso
+sken: 122
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Gleicher gestalt läßt er den Gerichtsweybel den spänigen partheyen/vnd die jn vmb Recht angerufft/vnnd derselbigen gegentheylen zum Rechten gebieten/oder wa sie der Gerichtsweybel nicht zufinden weyß/läßt er ein Trommenschlaher offentlich im Läger vmbschlahen vnnd außschreyen/die personen den fürgebotten wird/stund vnd malstatt benennen.
+  cs: |-
+    Stejně tak dá rychtář {Schultheyß} svářícím se stranám – těm, kdo ho žádali o právo, i jejich protistranám – soudním šikovatelem {Gerichtsweybel} předvolat k soudu. Nemůže-li je soudní šikovatel najít, dá bubeníkem {Trommenschlaher} veřejně v ležení {Läger} vybubnovat a vyvolat osoby, které se předvolávají, a ohlásit hodinu a místo soudu.
+- typ: odstavec
+  de: |-
+    Alßdann so er mit seinen Gerichtsleuthen an gewohnlicher Gerichtsstatt ist/Helt er ordenlichen Proceß deß Rechten/wie sich gebürt.
+  cs: |-
+    Když je pak se svými soudními přísedícími {Gerichtsleuthen} na obvyklém soudním místě, vede řádné soudní řízení {Proceß}, jak náleží.
+- typ: odstavec
+  de: |-
+    So sich aber begibt/daß der Profoß einen vbelthäter für Recht stelt/da es antrifft/ehr/leib oder leben/oder was malefitz sachen es seyen/alßdann lasset der Schultheyß zu jm vnd seinen Gerichtsleuthen erfordern vnd offentlich vmbschlahen/mit benennung des tags/der stund vnd malstatt/allen Fänderichen vnnd Feldweybeln/daß sie kommen/vnnd das peinlich Gericht besitzen helffen/die seind auch schuldig zuerscheinen/die Sachen zuhören/vnnd mit den anderen Gerichtsleuthen vrtheyl sprechen.
+  cs: |-
+    Stane-li se však, že profous {Profoß} postaví před soud zločince ve věci, která se týká cti, těla nebo života, nebo v jakékoli jiné hrdelní věci {malefitz sachen}, dá rychtář k sobě a ke svým přísedícím povolat a veřejně vybubnovat, s uvedením dne, hodiny a místa, všechny praporečníky {Fänderichen} a šikovatele {Feldweybeln}, aby přišli a pomohli zasednout hrdelní soud {peinlich Gericht}. Ti jsou také povinni se dostavit, věc vyslechnout a s ostatními přísedícími vynést rozsudek.
+- typ: odstavec
+  de: |-
+    So dann ein vrtheyl vber vnnd wider einen vbelthäter/der peinlich beklagt/geht/alßdann soll der Schultheyß offentlich im Ring den Gerichtsstab/so er in seiner handt haben soll/zerbrechen/vnnd vonn jhme werffen/das ist ein gemeyner brauch.
+  cs: |-
+    Vyjde-li pak rozsudek proti zločinci, který je hrdelně obžalován, má rychtář veřejně v kruhu {Ring} zlomit soudní hůl {Gerichtsstab}, kterou má mít v ruce, a odhodit ji od sebe; to je obecný zvyk.[^1]
+- typ: odstavec
+  de: |-
+    Vnd damit der Schultheyß in fassungen der vrtheyl sich mit seinen Gerichtsleuten dester gewisser zuhalten wisse/so hat er den Artickels Brieff/drauff das Kriegsvolck geschworen/oder zum wenigsten desselbigen eygentliche Copiam bey seinen Händen.
+  cs: |-
+    A aby rychtář se svými přísedícími věděl, jak si při sestavování rozsudků počínat co nejjistěji, má po ruce artikulní list {Artickels Brieff}, na který válečný lid přísahal, nebo aspoň jeho přesný opis.
+- typ: odstavec
+  de: |-
+    Zu einem Schultheyssen wird gemeynlich erkiest ein dapfferer Mann/der ein Hauptmann verwalten mag/dann es ist auch der fürnemen ämpter/Darumb dieweil man nicht jeden ehrlichen Gesellen mit Hauptmannschafften versehen kan/so theylet man diese ämpter/als Schultheyß/Quartiermeyster/Profandtmeyster/Wachtmeyster/Profosen/vnnd dergleichen ämpter/vnter solche ehrliche fürneme Gesellen auß/damit sie auch ihren ehren vnd stand nach vnterhalten werden/Es werden jnen auch etwann vnterweilen in ansehung ihrer dapfferkeyt/vnd daß sie erfaren vnnd geübte Kriegßleuthe seind/so man mit den Feinden zuhandlen hat/besonder befelch vertrawt vnd angehenckt/vnd wird sein ampt vom Obersten verlihen.
+  cs: |-
+    Za rychtáře se obvykle volí statečný muž, který by mohl zastávat úřad hejtmana {Hauptmann}, neboť i to je jeden z předních úřadů. Protože nelze každého čestného druha {Gesellen} opatřit hejtmanstvím, rozdělují se tyto úřady – rychtář, kvartýrmistr {Quartiermeyster}, proviantmistr {Profandtmeyster}, vachmistr {Wachtmeyster}, profous a podobné – mezi takové čestné a přední druhy, aby byli i oni vydržováni podle své cti a stavu. Někdy se jim také s ohledem na jejich statečnost a na to, že jsou to zkušení a vycvičení váleční lidé, svěřuje a ukládá zvláštní pověření, když se jedná s nepřáteli. Rychtáři propůjčuje úřad plukovník {Obersten}.
+- typ: nadpis
+  uroven: 3
+  de: Sein Eyd.
+  cs: Jeho přísaha {Eyd}
+- typ: odstavec
+  de: |-
+    ER schwort dem Herren trew vnd hold zusein/vnd daneben das Gericht getrewlich one argwon/vnd der partheyen vnbilliche gefährde besitzen/Recht halten/vnd vrtheyl sprechen lassen/wolle keyn parthey vor der andern/oder der anderen zu nachtheyl fürdern noch hindern/sondern ein gemeyner vnpartheischer Schultheyß sein/dem freyen stracken Rechten nach/einem jeden der es begert/vnuerzügenlich/niemandt zu lieb noch zu leyd/alle gefährlichheyt hindan gesetzt/Recht ergehen/
+  cs: |-
+    Přísahá, že bude pánovi věrný a oddaný a že bude kromě toho věrně, bez podezření a bez nespravedlivé úkladnosti vůči stranám zasedat na soudu, držet právo a dávat vynášet rozsudky; že nebude žádnou stranu před druhou ani k újmě druhé podporovat ani jí překážet, nýbrž bude společným a nestranným rychtářem a podle svobodného a přímého práva dá každému, kdo o to žádá, bez odkladu, nikomu k libosti ani k žalu a s odložením všeho úskoku, dojít práva
+poznamky:
+- n: 1
+  text: |-
+    Zlomení soudní hole (Stab brechen) nad odsouzeným bylo znamením, že rozsudek – zpravidla smrti – je nezvratný a že odsouzený je vydán katu.

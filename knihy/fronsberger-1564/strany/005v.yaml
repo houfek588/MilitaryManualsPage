@@ -1,0 +1,61 @@
+id: 005v
+list: V
+strana: verso
+sken: 18
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mit jhren handzeychen vnd bitschafften verfertiget/getrewlich ohn einig betrug vbergeben vnd antworten wollen/vnnd sonst alles das thůn vnd lassen/was jhnen gebürt vnd zůsteht.
+  cs: |-
+    opatřená jejich vlastnoručními podpisy a pečetěmi, věrně a bez jakéhokoli podvodu odevzdají a předají a vůbec budou činit i nechávat vše, co jim náleží a přísluší.
+- typ: odstavec
+  de: |-
+    Jeder besoldung ist Monats N. Gülden/vnnd werden jedem gehalten zwen Trabanten/auß den gemeynen Knechten gezogen.
+  cs: |-
+    Žold {besoldung} každého z nich činí N. zlatých měsíčně a každému se vydržují dva drabanti {Trabanten}, vybraní z obyčejných knechtů.
+- typ: odstavec
+  de: |-
+    Es wird auch jedem ein anzal Reysigen gerüster Pferd/sampt Wagen vnnd Troßpferden/zůgleich andern reysigen gehalten.
+  cs: |-
+    Každému se také stejně jako ostatním jezdcům {reysigen} vydržuje určitý počet zbrojných jezdeckých koní spolu s vozy a koňmi pro trén {Troßpferden}.
+- typ: nadpis
+  uroven: 2
+  de: Pfennigmeysters Ampt vnd Befelch.
+  cs: Úřad a pověření pokladníka {Pfennigmeysters}
+- typ: odstavec
+  de: |-
+    DEr Pfennigmeyster ist auch gemeynlich der Kriegßräth einer/darumb ist vonnöten/wo man jhne auch zum Kriegßrath gebrauchen wolt/daß er nicht allein ein geschickter wolbedachter Schreiber vnd Rechner/sonder auch sonst redlich/dapffer vnd Kriegs erfaren sey/neben andern Kriegßräthen.
+  cs: |-
+    Pokladník bývá obvykle také jedním z válečných radů {Kriegßräth}; je proto nutné, chce-li se ho užít i jako válečného rady, aby byl nejen schopný a rozvážný písař a počtář, ale také jinak poctivý, udatný a stejně jako ostatní váleční radové zkušený ve válce.
+- typ: odstavec
+  de: |-
+    Es ist auch vonnöten/daß er ein geschwinder Practicierischer mann sey/jeder zeit wo Gelt wolt abgehen/practicken anzustellen vnd machen auff gelt vnd wechsel/dann es ist mancher in solchen sachen gantz geschickt vnnd geschwind practicken vnnd Wechsel anzustellen/es ist auch offt noth.
+  cs: |-
+    Je také nutné, aby to byl pohotový a obchodně obratný {Practicierischer} muž, který dokáže, kdykoli by se nedostávalo peněz, zařídit a uzavřít jednání o peníze a směnky {wechsel}; mnohý je totiž v takových věcech velmi zběhlý a pohotově umí taková jednání a směnky zařídit, a je toho také často zapotřebí.
+- typ: odstavec
+  de: |-
+    Darzů ist auch gůt/daß er einen gůten Glauben hab/wol bekannt vnnd verdienet sey.
+  cs: |-
+    K tomu je také dobré, aby měl dobrý úvěr {Glauben}, byl dobře známý a zasloužilý.
+- typ: odstavec
+  de: |-
+    Item es soll alles Gelt auff dem Feldzug vorhanden/vnter sein handen vnnd gewalt sein/das soll er in sein darzů gerüsten vnnd verordneten Wagen vnd Truhen wol vnnd ordenlich verwaren/Were aber daß der Feldzug also gethon/daß man Stätt vnd Schlösser so nahe hette/daß man jeder zeit ohn gefährlichkeyt darzů kommen möcht/so ist viler gefährligkeyt vnnd vrsachen halben besser/man hab das Gelt von einer Musterung zur andern daselbst.
+  cs: |-
+    Dále mají být všechny peníze, které jsou na tažení {Feldzug} k dispozici, v jeho rukou a moci; má je dobře a řádně uchovávat ve svých k tomu vystrojených a určených vozech a truhlách. Kdyby však tažení bylo takové, že by byla města a hrady tak blízko, že by se k nim dalo kdykoli bez nebezpečí dostat, je pro mnohá nebezpečí a z mnoha důvodů lepší mít peníze od jedné přehlídky k druhé uloženy tam.
+- typ: odstavec
+  de: |-
+    Nach der Musterung soll er von jedem Hauptmann das Register der gemusterten vnd gůt gemachten Knecht vnd Namen/mit der Musterherrn vnd des Hauptmanns handzeychen vnd bittschafft verfertigt/sampt gebürlicher quittung annemen/darauff bezalen/dieselbigen Register behalten/damit er dieselbigen in seiner rechnung habe darzulegen.
+  cs: |-
+    Po přehlídce {Musterung} má od každého hejtmana převzít rejstřík jmen knechtů, kteří prošli přehlídkou a byli uznáni za způsobilé, opatřený podpisy a pečetěmi přehlídkových komisařů {Musterherrn} i hejtmana, spolu s náležitou kvitancí; podle něho má vyplácet a rejstříky si ponechat, aby je mohl předložit při svém vyúčtování.
+- typ: odstavec
+  de: |-
+    Gleicher gestallt erfordert sein Ampt/was er außgibt auff die Arckelley/auff die Reysigen/auff Kundschafft/auch den Obersten vnd andern jrer Besoldung halben vnd sonst/daß er das ordenlich beschreibe vnd verrechne.
+  cs: |-
+    Stejně tak jeho úřad vyžaduje, aby řádně zapisoval a vyúčtoval vše, co vydá na dělostřelectvo {Arckelley}, na jízdu, na výzvědy {Kundschafft}, jakož i plukovníkům {Obersten} a jiným na jejich žold nebo z jiných důvodů.
+- typ: odstavec
+  de: |-
+    Es soll ein jede besondere bestallung/darinn all Puncten vnd Artickel des Kriegßherrn notturfft nach beschrieben/mit dem Pfennigmeyster vnnd Musterherrn/auch andern hohen ämptern auffgericht werden/darauff sie schwören vnnd Reuers geben sollen.
+  cs: |-
+    S pokladníkem, přehlídkovými komisaři i s ostatními vysokými úřady se má uzavřít vždy zvláštní služební list {bestallung}, v němž budou podle potřeby válečného pána {Kriegßherrn} sepsány všechny body a články; na něj mají přísahat a vydat revers {Reuers}.

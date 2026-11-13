@@ -1,0 +1,71 @@
+id: 085r
+list: LXXXV
+strana: recto
+sken: 177
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    geschütz nit wol durchgehn/das macht die weiche/So man aber die wollenseck oder wollen nit gehaben mag/so neme man gůt weich Embd oder grumadt/vnd auffs aller hertest auff einander getretten/vnd an statt der wollenseck gebraucht.
+  cs: |-
+    dělová střela {geschütz} dobře prorazit – působí to jejich měkkost. Nemá-li se však vlněných pytlů nebo vlny, ať se vezme dobrá měkká otava čili potaž [seno z druhé seče], co nejpevněji na sebe udupaná, a použije se místo vlněných pytlů.
+- typ: odstavec
+  de: |-
+    Es werden auch Britter in die gräben gelegt/mit spitzigen langen nägeln vnten darauff geschlagen vbersich gekert.
+  cs: |-
+    Do příkopů se také kladou prkna, do nichž jsou zespodu zatlučeny dlouhé ostré hřebíky, obrácené hroty vzhůru.
+- typ: odstavec
+  de: |-
+    Item vil alte Reder auff den boden gehefft/verhindern auch die feind am lauffen hefftig.
+  cs: |-
+    Dále mnoho starých kol připevněných k zemi také nepřátelům silně překáží v běhu.
+- typ: odstavec
+  de: |-
+    In der besatzung da man mangel an wasser besorgen můß/soll man allenthalben vnter die tächer rinnen machen/wa es in der nidere ist/da mans nit sehen vnd schiessen mag/da soll man das wasser so es regnet auffahen/vnd keyns verloren lassen werden.
+  cs: |-
+    V posádce {besatzung}, kde je třeba se obávat nedostatku vody, se mají všude pod střechami udělat žlaby. Kde je to nízko, takže to [nepřítel] nemůže vidět ani tam střílet, má se zachycovat dešťová voda a nemá se nechat přijít nazmar ani kapka.
+- typ: odstavec
+  de: |-
+    Es ist auch wol geschehen/da man mangel an wasser gehabt/vnd in der zeit gewesen/als die thäw vnd näbel nachts reisen/daß man allenthalben Leylacher vnd tůcher auff die heuser gespreit/vnd morgens solliche nasse thůcher außgewunden/vnnd das wasser daruon empfangen hat.
+  cs: |-
+    Stalo se také, že když byl nedostatek vody a bylo to v době, kdy v noci padá rosa a mlha, rozprostřela se všude po domech prostěradla a plachty, ráno se tyto mokré plachty vyždímaly a tak se z nich získala voda.
+- typ: odstavec
+  de: |-
+    So mangel an wasser erscheinen wil/soll man Ordnung machen/vnd das wasser vnter das volck außtheylen/auch niemandt keyn wasser lassen vnnützlich verbrauchen.
+  cs: |-
+    Když se začíná projevovat nedostatek vody, má se zavést pořádek a voda se má lidu rozdělovat na příděl; také se nikomu nemá dovolit, aby vodou zbytečně plýtval.
+- typ: odstavec
+  de: |-
+    In allen gemachen soll man versehen sein/mit gefülten wasser küffen/vnd feuchtem mist/so die feind fewrwerck schiessen vnd werffen/daß man schaden wenden vnd fürkommen möge.
+  cs: |-
+    Ve všech místnostech se má mít zásoba naplněných kádí s vodou a vlhkého hnoje, aby se dalo, když nepřátelé střílejí a vrhají ohňostroje {fewrwerck}, škodě zabránit a předejít.
+- typ: nadpis
+  uroven: 3
+  de: Was einer Besatzung tröstlich ist.
+  cs: Co posádce dodává odvahy
+- typ: odstavec
+  de: |-
+    ITem der Kriegsherr soll selbs eygner person in der Besatzung nit bleiben/auß nachuolgenden vrsachen.
+  cs: |-
+    Dále válečný pán {Kriegsherr} nemá sám osobně v posádce zůstávat, a to z následujících důvodů.
+- typ: odstavec
+  de: |-
+    Er sol darinnen lassen seiner nechsten vnd liebsten freund einen oder mehr/als der Vatter den Sohn/oder der Sohn den Vatter/oder ein Bruder den andern/oder der Herr die Fraw/oder vnerzogne kinder/vnd dergleichen/das macht der Besatzung ein hertz.
+  cs: |-
+    Má v ní nechat jednoho nebo více ze svých nejbližších a nejmilejších příbuzných, jako otec syna nebo syn otce, bratr bratra, pán paní, nebo nedospělé děti a podobně; to posádce dodává odvahy.
+- typ: odstavec
+  de: |-
+    Dann so mag sich der Principal oder Kriegßherr vmb hülff vnd rettung/oder wo es nit verbessert werden mag/vmb ein gůten vertrag bewerben/so er nit in der Besatzung ist/es ist auch ander viel vrsachen halb gůt den verstendigen wol wissend.
+  cs: |-
+    Když totiž hlavní pán {Principal} čili válečný pán není v posádce, může se ucházet o pomoc a vysvobození, anebo, nedá-li se věc zlepšit, o dobrou smlouvu; je to dobré i z mnoha jiných důvodů, rozumným dobře známých.
+- typ: odstavec
+  de: |-
+    So dann also des Kriegßherren nechste verwandten in der Besatzung seind/so ist jederman dester behertzter/auch dester williger vnd gedültiger/alle not vnd gefärlichkeyt zubestehen.
+  cs: |-
+    Jsou-li tedy v posádce nejbližší příbuzní válečného pána, je každý tím odvážnější a také tím ochotnější a trpělivější snést všechnu nouzi a nebezpečí.
+- typ: odstavec
+  de: |-
+    Item es ist zůbedencken/ob vnd wie lang das hauß mit Prouandt/vnd anderer notturfft versehen sey.
+  cs: |-
+    Dále je třeba uvážit, zda a jak dlouho je dům [hrad] zásoben proviantem {Prouandt} a jinými potřebami.

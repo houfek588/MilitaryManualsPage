@@ -1,0 +1,54 @@
+id: 014v
+list: XIIII
+strana: verso
+sken: 36
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    In einem jeden Zeughauß/besonder da besatzungen seind/ist vonnöten/daß man ein notturfftig anzal schlecht Werckpuluer hab/Nämlich/zu den Fewrwercken/auch damit die Sturmkrüge (an Stürmen zuwerffen) zufüllen/dann dasselbig puluer gůt gnůg darzu ist/vnd wäger dann das man deß besten schießpuluers (das dann viel mehr kostet) darzů neme/vnnd so sollich puluer von drey theyl Salpeter/eym teyl Schwäbel/vnd eim halben theyl koln gemacht/vnd wol gearbeyt wird/ist es gůt gnůg/darff auch nicht gekürnt sein.
+  cs: |-
+    V každé zbrojnici {Zeughauß}, zvláště kde jsou posádky {besatzungen}, je zapotřebí mít potřebné množství obyčejného pracovního prachu {Werckpuluer}, totiž k ohňostrojům {Fewrwercken} [tj. zápalným střelám] a také k plnění útočných hrnců {Sturmkrüge}[^1] (které se házejí při útocích), neboť tento prach je k tomu dost dobrý a je to lepší, než brát k tomu nejlepší střelný prach (který stojí mnohem víc). Když se takový prach udělá ze tří dílů ledku {Salpeter}, jednoho dílu síry {Schwäbel} a půl dílu uhlí {koln} a dobře se zpracuje, je dost dobrý a nemusí být ani zrněný {gekürnt}.
+- typ: odstavec
+  de: |-
+    Item ein Zeughauß soll auch nach notturfft/vnd nach anzal grösse oder kleine des geschütz mit allerhand grossen vnd kleinen eysinen Kuglen versorgt vnd versehen sein/auch zu den gar grossen Büchsen/vnd zu den Bölern mit seinen Kuglen/die selbige würfft man auß den Bölern/man scheusset sie auch etwann in einer besatzung auß den fewr vnd andern den grösten Büchßen in die Läger/so seind sie auch fast gůt zubrauchen/vnnd nit so grosses kostens wie die eysinen Kuglen/am puluer braucht man auch nicht souiel.
+  cs: |-
+    Dále má být zbrojnice podle potřeby a podle počtu, velikosti či malosti děl zásobena a opatřena všelijakými velkými i malými železnými koulemi {Kuglen}, a také pro velmi velká děla {Büchsen} a pro moždíře {Bölern} jejich [kamennými] koulemi {seinen Kuglen}[^2]. Ty se vrhají z moždířů a někdy se v posádce střílejí také z ohňových a jiných největších děl do ležení {Läger} [nepřítele]; také jsou velmi dobře použitelné a nestojí tolik jako železné koule a nespotřebuje se na ně ani tolik prachu.
+- typ: odstavec
+  de: |-
+    Item man sol auch zum vorrath mit einer namhafften anzal gůts schwäbels versorgt vnd versehen sein.
+  cs: |-
+    Dále má být [zbrojnice] do zásoby zaopatřena a opatřena značným množstvím dobré síry.
+- typ: odstavec
+  de: |-
+    Item deßgleichen mit gůten Lindin/Fälbin/oder andern Kolen/so zum Puluer machen dienstlich.
+  cs: |-
+    Dále rovněž dobrým lipovým, vrbovým {Fälbin} nebo jiným uhlím, které se hodí k výrobě prachu.
+- typ: odstavec
+  de: |-
+    So man dann also mit Salpeter/Schwäbel/vnd Koln im vorrath stattlich versehen ist/kan man allwegen bald Puluer machen.
+  cs: |-
+    Je-li tedy člověk ledkem, sírou a uhlím hojně zásoben, může kdykoli rychle udělat prach.
+- typ: odstavec
+  de: |-
+    Item zum vorrath soll vnd můß man auch haben/ein gůte anzal gůts vnd wolbereyts Salpeters/damit man (so not) puluer machen könne. Es kompt aber ein Herr oder Potentat nicht baß zu Salpeter/dann das er sich befleißt inn seiner Landtschafft/in allen Stätten vnd Flecken/Salpeter sieder zu ordnen vnnd setzen/den selbigen thů man etwas geringen vortheyl als mit schlechtem brennholtz/Jtem das man sie frey setz/vnnd dergleichen schlechte vortheyl/da dem Herren gar nichts oder wenig auffgeht/Dargegen verding man sich mit den Salpeter siedern/das sie auch den Salpeter vmb ein recht gelt geben vnd lassen müssen/man ordne auch geschickte leuth darzů die sich darauff verstehen/darob vnd daran seyen/damit die Salpeter sieder nit müssig gehen/vnd jhr arbeyt im fürgang sey. So man aber einen spürt/so den vortheyl vom Herren hette/můß derselbig mit ernst gestrafft werden/Also mag ein Herr vmb zimlichen leidlichen werth in kurtzer zeit zu vil Salpeters bekommen/der Salpeter soll auch als dann wol auffgehaben vnd verwart werden.
+  cs: |-
+    Dále se do zásoby má a musí mít také dobré množství dobrého a dobře připraveného ledku, aby se (bude-li třeba) dal udělat prach. Pán nebo mocnář {Potentat} však k ledku nepřijde lépe, než když se přičiní, aby ve své zemi, ve všech městech a městečkách ustanovil a usadil ledkaře {Salpeter sieder}. Těm ať se poskytne nějaká drobná výhoda, například prosté palivové dříví, dále ať jsou osvobozeni [od poplatků] a podobné drobné výhody, které pána nestojí nic nebo jen málo. Naproti tomu ať se s ledkaři smluví, že mu ledek musí dávat a přenechávat za spravedlivou cenu. Ať se k tomu také ustanoví zruční lidé, kteří tomu rozumějí a budou na to dohlížet a pobízet, aby ledkaři nezaháleli a jejich práce šla kupředu. Kdyby se však přišlo na někoho, kdo by výhody od pána požíval [a ledek nedodával], musí být přísně potrestán. Tak může pán za slušnou a snesitelnou cenu v krátké době získat mnoho ledku; ledek se pak má dobře uschovat a opatrovat.
+- typ: odstavec
+  de: |-
+    Weiter ist auch vonnöten zuhaben/zangen vnnd mödel/damit man zu den geringen stücken vnd Feldgeschütz/als Schlangen/Falckonen/Falckanetlin vnnd andern/auch in der not so eysen Kuglen zerrinnen wolten/zu den Notschlangen vber eysne schrot Kuglen giessen könd/auch zu den Scharpffentinlin/Toppel vnd andern Hacken vnnd handtgeschütz Kuglen zuschiessen hab/dieweil man auch offt des bleys zu anderer notturfft haben můß/so ist vonnöten/daß man sich mit stattlichem vorrath des bleys versehe.
+  cs: |-
+    Dále je zapotřebí mít kleště a licí formy {mödel}, aby se daly lít koule pro menší kusy a polní děla {Feldgeschütz}, jako hadovnice {Schlangen}, falkony {Falckonen}, falkonety {Falckanetlin} a jiné, a v nouzi, kdyby železné koule docházely, i pro nouzové hadovnice {Notschlangen} [olověné koule lité] přes železná jádra {eysne schrot}, a aby byly koule ke střelbě i pro malé serpentiny {Scharpffentinlin}, dvojité {Toppel} a jiné hákovnice {Hacken} a ruční palné zbraně. A protože je olova často zapotřebí i k jiným potřebám, je nutné zásobit se hojnou zásobou olova.
+- typ: odstavec
+  de: |-
+    Item man sol auch haben/etwann manche thunnen mit hartz/Bäch vnd Lein öl/das man zum fewrwerck vnd anderer notturfft zugebrauchen habe.
+  cs: |-
+    Dále se má mít také několik sudů pryskyřice, smoly a lněného oleje, aby bylo čeho užít k ohňostrojům a jiným potřebám.
+poznamky:
+- n: 1
+  text: >-
+    Sturmkrug – hliněný hrnec plněný prachem a zápalnou směsí, který se házel na útočníky (nebo obránce) při útoku na hradby.
+- n: 2
+  text: >-
+    V tisku „mit seinen Kuglen“; podle souvislosti (levnější než železné koule, vrhají se z moždířů) jde nejspíš
+    o tiskovou chybu za „steinen Kuglen“ – kamenné koule.

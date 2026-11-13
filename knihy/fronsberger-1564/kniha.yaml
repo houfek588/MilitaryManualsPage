@@ -1,0 +1,43 @@
+id: fronsberger-1564
+nazev: Válečný řád a pluk
+nazev_orig: Kriegs Ordnung vnd Regiment
+podtitul: sampt derselbigen Befehl, Statt vnd Empter, zu Roß vnd Fuß, auch an Geschütz vnd Munition …
+autor: Leonhart Fronsperger
+autor_zivot: asi 1520–1575
+vydani: Frankfurt nad Mohanem, Johann Lechler nákladem Sigmunda Feyerabenda a Simona Hütera, 1564
+rok: 1564
+vd16: VD16 F 3130
+rozsah: '[3], CXXII, [1] listů, folio'
+jazyk_orig: raná nová horní němčina
+popis: >-
+  Příručka organizace žoldnéřského vojska 16. století: úřady, přísahy a povinnosti velitelů
+  jízdy, pěchoty a dělostřelectva, soudní řád lancknechtů, artikulní list, posádky a obrana měst
+  a obecná poučení o vedení války.
+prekladatel: Pracovní překlad (Google Docs) revidovaný a doplněný s pomocí LLM, 2026.
+
+sken:
+  instituce: Bayerische Staatsbibliothek München
+  signatura: 2 Polon. 9#Beibd.1
+  id: bsb00045899
+  urn: urn:nbn:de:bvb:12-bsb00045899-6
+  url_dilo: https://www.digitale-sammlungen.de/de/view/bsb00045899
+  url_strana: https://www.digitale-sammlungen.de/de/view/bsb00045899?page={sken}
+  url_obrazek: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045899_{sken5}/full/{sirka},/0/default.jpg
+  licence: "No Copyright – Non-Commercial Use Only (rightsstatements.org NoC-NC 1.0); uvádět: Bayerische Staatsbibliothek München"
+  google_books: https://books.google.cz/books?id=7aBMAAAAcAAJ
+  poznamka: >-
+    Úplný sken: list N r = sken 7 + 2N, list N v = sken 8 + 2N. Starší digitalizace téhož exempláře
+    (bsb10150061 = Google Books 7aBMAAAAcAAJ) vynechává dvojstrany XXXVIII v–XXXIX r, LVIII v–LIX r
+    a LXVIII v–LXIX r. Tisk sám má jen jednu chybu foliace: list XVI je označen XVII.
+
+# Pořadí stran edice (id souborů ve strany/). Předsádka, pak listy I–CXXII (úplné).
+predsadka: [titul, venovani-1, venovani-2, predmluva-1, predmluva-2]
+
+poznamky_k_prekladu: |
+  Struktura nadpisů (uroven 1 = hlavní části knihy):
+  věnování, předmluva, úvod „Was einem Herren so Krieg fürnemen wil“ (1r), První kniha (2v),
+  Druhá kniha (17v), Třetí kniha (34r), Čtvrtá kniha (40r), Pátá kniha (79r),
+  „Folgen hernach notwendig Ordnungen vnd Lehr“ (107v). Ostatní velké oddíly
+  (zbrojnice 11v, soudní řád, artikulní list) mají úroveň 2, přísahy a dílčí oddíly úroveň 3.
+  Kapitoly uvnitř knih (nadpis v tisku větším písmem na středu, např. úřad a velení X) = úroveň 2;
+  přísahy, podnadpisy seznamů a dílčí oddíly kapitoly = úroveň 3.

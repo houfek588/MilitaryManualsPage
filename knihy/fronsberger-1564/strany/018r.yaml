@@ -1,0 +1,41 @@
+id: 018r
+list: XVIII
+strana: recto
+sken: 43
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Nothschlangen vnd dergleichen Geschütz/so man den auff Redern fortbringen/gewinnen vnd nöthen mag/ist ohn noth Scharpffmetzen vnnd schwere vngebreuchliche Stück mit zuführen/dann darauff nicht allein beschwerlicher grosser kosten/sondern auch viel mühe/arbeyt/vnd viel verhinderung eines gantzen Heerlägers volgt/besonder so man den Feind würd suchen. Item wil sich ein Herr inn seinem Land finden lassen/sich daselbst wehren/die sachen auff ein Schlacht setzen/so er dann mit gutem Feldtgeschütz/als Nothschlangen/Schlangen/Falckonen/Falckonet vnnd Orgel Geschütz/auch Hacken auff böcken nach notturfft versehen/ist ohn noth grösser vnd schwerer Geschütz/des jhn liederlich verhindern/vnnd zu grossem nachtheyl kommen mag/mit zuführen/Darumb ist inn diesem fall nit maß zusetzen/sondern steht das dem Kriegßherren/sampt seinen Hauptleuthen/Zeugmeyster vnd Kriegßräthen/die geschickt vnd erfahrn sollen sein/nach gelegenheyt vnd notturfft zu bedencken vnd zuordnen.
+  cs: |-
+    nouzovými hadovnicemi {Nothschlangen} a podobnými děly {Geschütz}, která se dají dopravovat na kolech, kvůli tomu není třeba vézt s sebou šarfmece {Scharpffmetzen} a těžká, neobvyklá děla {Stück}. Z toho totiž plynou nejen obtížné a velké náklady, ale i mnoho námahy a práce a mnoho překážek pro celé vojenské ležení {Heerlägers}, zvláště když se má nepřítel vyhledat. Dále: chce-li se pán postavit [nepříteli] ve své zemi, tam se bránit a vsadit věc na bitvu, a je-li náležitě zásoben dobrými polními děly {Feldtgeschütz}, totiž nouzovými hadovnicemi, hadovnicemi {Schlangen}, falkonami {Falckonen}, falkonety {Falckonet} a varhanovými děly {Orgel Geschütz}[^1], jakož i hákovnicemi {Hacken} na kozlících, není třeba vézt s sebou větší a těžší děla, která by ho mohla snadno zdržet a přivodit mu velkou škodu. Proto nelze v tomto případě stanovit žádnou míru, nýbrž to náleží uvážit a nařídit podle okolností a potřeby válečnému pánu {Kriegßherren} spolu s jeho hejtmany {Hauptleuthen}, zbrojmistrem {Zeugmeyster} a válečnými rady {Kriegßräthen}, kteří mají být schopní a zkušení.
+- typ: odstavec
+  de: |-
+    Es ist auch hie ohn noth zumelden die Namen/schwere vnnd grösse des Geschütz/der Kuglen aller Geschütz/dann man es an einem ort anders dann an dem andern pflegt zunennen/so wird auch schier täglich anders erdacht/aber gut vnnd von nöten ist/daß man ein guten bericht hab/wie das Geschütz mit sampt aller anderer Munition vnd zugehör/geordnet vnd gefürt werden soll/im Zug vnd im Läger/auch den Schantzen.
+  cs: |-
+    Rovněž zde není třeba uvádět názvy, váhu a velikost děl a koulí {Kuglen} všech děl, neboť na jednom místě se jim obvykle říká jinak než na druhém, a také se téměř denně vymýšlí něco nového. Dobré a nutné však je mít dobrou zprávu o tom, jak se mají děla spolu se vší ostatní municí {Munition} a příslušenstvím uspořádat a vézt na tažení {Zug} i v ležení {Läger}, a také v šancích {Schantzen}.
+- typ: odstavec
+  de: |-
+    Item an ein Büchsen so hundert Centner wigt/die wird nicht im Gefäß/sondern das Rohr allein auff einem eygen Wagen geführt/darfür gehören zum wenigsten sechtzehen Roß/also gebürt ohne den Wagen/der starck/deßhalben auch schwer sein muß/so achtzehen Roß seind/einem jeden Pferdt sechsthalben Centner/daran hat es/so die schwere des Wagens erwegen wird/zu Berg vnd Thal genug zu zihen/dann man die Pferdt nicht vberladen soll/damit so es von nöten ist/daß man fürderlich fahren/von vnd zu den Feinden kommen möge.
+  cs: |-
+    Dále: dělo {Büchsen}, které váží sto centů {Centner}, se neveze v lafetě {Gefäß}, nýbrž se na zvláštním voze veze samotná hlaveň {Rohr}; je k ní třeba nejméně šestnáct koní. Je-li koní osmnáct, připadá tak na každého koně, nepočítaje vůz – který musí být silný, a proto i těžký –, pět a půl centu; to mají, uváží-li se i váha vozu, dost co táhnout do kopce i z kopce. Koně se totiž nemají přetěžovat, aby se v případě potřeby dalo rychle jet a dostat se od nepřítele i k němu.
+- typ: odstavec
+  de: |-
+    Zu solchen vnd dergleichen Büchsen muß jeglicher sein gefäß leer vnnd ledig hernach geführt werden/daran setzt man Pferdt/souiel die notturfft erfordert/nach dem das gefäß schwer oder leicht ist/mag leicht erwegen vnnd außgerechnet werden/was man darfür spannen soll.
+  cs: |-
+    U takových a podobných děl se musí za každým vézt jeho lafeta, prázdná a volná. Zapřáhne se do ní tolik koní, kolik je třeba podle toho, je-li lafeta těžká, či lehká; snadno se uváží a vypočítá, kolik se jich do ní má zapřáhnout.
+- typ: odstavec
+  de: |-
+    Also werden gewönlich die Stück so viertzig Centner vnnd darüber wegen/allein die Rohr auff eygen Wägen/doch etwann wo es gesein mag/zwey Rohr auff einem Wagen geführt/vnd die gefäß ledig geführt.
+  cs: |-
+    Tak se obvykle u děl, která váží čtyřicet centů a více, vezou samotné hlavně na zvláštních vozech – někdy, kde to jde, i dvě hlavně na jednom voze – a lafety se vezou prázdné.
+- typ: odstavec
+  de: |-
+    Vnd ist zumercken das es gut/wo es mit gelegenheyt geschehen mag/daß man die Stück so schwer seind/ob sie schon inn gefäsen zuführen vnnd mit zubringen weren/die Rohr auff Wägen/vnnd die gefäß besondern führe/vmb des willen/damit die gefäß vom führen nicht zerschütt/so man darnach darauff scheusset/dest ehe zerbrechen.
+  cs: |-
+    A je třeba mít na paměti, že je dobré, kde to okolnosti dovolí, vézt u těžkých děl – i kdyby se dala vézt a dopravit v lafetách – hlavně na vozech a lafety zvlášť. To proto, aby lafety nebyly jízdou rozdrncány a nerozbily se pak tím dříve, až se z nich bude střílet.
+poznamky:
+- n: 1
+  text: |-
+    Orgelgeschütz („varhany“) – několik hlavní menší ráže vedle sebe na jedné lafetě, odpalovaných najednou nebo postupně.

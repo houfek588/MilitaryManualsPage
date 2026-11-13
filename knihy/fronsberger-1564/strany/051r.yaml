@@ -1,0 +1,23 @@
+id: 051r
+list: LI
+strana: recto
+sken: 109
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Trabanten Ampt vnd Befelch.
+  cs: Úřad a pověření drabantů {Trabanten}
+- typ: obrazek
+  soubor: obrazek8.png
+  popis: |-
+    Dřevořez v oválném medailonu se zdobným rámem z válečných trofejí: dva drabanti s halapartnami v rozhovoru, jeden obrácený zády, druhý zepředu, vousatý a s pery na klobouku; v pozadí stany ležení.
+- typ: odstavec
+  de: |-
+    ES werden vnter einem jeden hauffen viel Trabanten gehalten/wie dann bey allen ämptern gemelt/die erwölt jhm ein jeder selbs seins gefallen/deren Ampt vnd Befelch ist/daß sie mit jhren Hellenparten jeder zeit bey jhrer Herrschafft seien/darauff sie bescheyden/auff sie warten/sie wo noth vor den jenigen/so jhrer Herrschafft wolten zusetzen/zubeschützen/dann dieweil die Befelchßleuth zum offtermal nicht einem jeden können sein willen machen/wie er wil/deßhalben vil vndancks verdienen/darumb seind sie der Trabanten notturfftig.
+  cs: |-
+    U každého houfu {hauffen} se vydržuje mnoho drabantů, jak bylo uvedeno u všech úřadů; každý [velitel] si je vybírá sám podle svého uvážení. Jejich úřadem a pověřením je být se svými halapartnami {Hellenparten} vždy u svého pána, k němuž jsou přiděleni, čekat na jeho pokyny a v případě potřeby ho chránit před těmi, kdo by na něho chtěli dotírat. Protože velitelé {Befelchßleuth} častokrát nemohou každému vyhovět, jak by chtěl, a tím si vyslouží mnoho nevděku, potřebují drabanty.
+- typ: odstavec
+  de: |-
+    Die Trabanten sollen auch sonst zu jeder zeit wo jhr Herrschafft geht oder steht/
+  cs: Drabanti mají také jinak vždy, ať jejich pán jde, nebo stojí,

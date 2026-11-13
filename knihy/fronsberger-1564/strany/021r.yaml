@@ -1,0 +1,63 @@
+id: 021r
+list: XXI
+strana: recto
+sken: 49
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item ein oder zwo Reyßbaaren/die Krancken vnd verwundten darinn zufüren an die ort da jnen geholffen werden mag.
+  cs: |-
+    Dále jedna nebo dvoje cestovní nosítka {Reyßbaaren}, aby se v nich nemocní a ranění dopravovali na místa, kde jim může být pomoženo.
+- typ: odstavec
+  de: |-
+    Item ein namhaffte anzal Fůßknecht harnisch/vnd etliche stirnen auff die pferdt/mit fünff hundert par kniebückeln den Reysigen.
+  cs: |-
+    Dále značný počet zbrojí {harnisch} pro pěchotu {Fůßknecht}, několik čelních plátů {stirnen} pro koně a pět set párů kolenic {kniebückeln} pro jízdu {Reysigen}.
+- typ: odstavec
+  de: |-
+    Item ein Wagen mit ledigen oder lären Kummatern oder fürsetz zeug/Reitseyl vnd Affter geschirr zu den Wägen/Rossen/sampt einem Satlerzeug/vnnd dergleichen zugehörde.
+  cs: |-
+    Dále jeden vůz s volnými čili prázdnými chomouty {Kummatern} neboli předními postroji {fürsetz zeug}, opratěmi {Reitseyl} a zadními postroji {Affter geschirr}[^1] k vozům a koním, spolu se sedlářským nářadím a podobným příslušenstvím.
+- typ: odstavec
+  de: |-
+    Item etliche Wägen mit mülten/bütten/körben/tragbären/schubkärchlen/damit man erdtrich tregt vnd fürt/die schantzkörb darmit zufüllen/wo die auff felsen oder herten grundt gesetzt werden/můß man die erden darein tragen oder füren.
+  cs: |-
+    Dále několik vozů s necky, putnami, koši, nosítky a trakaři, jimiž se nosí a vozí zemina k plnění šancovních košů {schantzkörb}: staví-li se totiž na skále nebo na tvrdém podkladu, musí se do nich zemina donést nebo dovézt.
+- typ: odstavec
+  de: Item etlich Wägen mit Sturmleytern vnd Fewrhacken.
+  cs: |-
+    Dále několik vozů s útočnými žebříky {Sturmleytern} a hasičskými háky {Fewrhacken}.
+- typ: odstavec
+  de: |-
+    Item etlich Wägen mit gemachten gegoßnen fewrkuglen/so man auß den grossen stücken scheusset/die gehn durch alle Heuser vnd tächer ein/wo man dann sollich fewrkuglen mit menge durch die heuser in alle eck vnnd ort einer Besatzung flux auffeinander scheußt/vnnd dann das Feldtgeschütz mit rechten Kuglen darzwischen stäts hinein läßt gehn/da mag kümmerlich verhindert werden/daß nicht an viel orten einer Besatzung fewr außkom/vnd vnüberwindtlichen schaden thů.
+  cs: |-
+    Dále několik vozů s hotovými litými ohnivými koulemi {fewrkuglen}, které se střílejí z velkých děl {stücken}; ty prorážejí všechny domy a střechy. Střílí-li se takové ohnivé koule ve velkém množství rychle za sebou přes domy do všech koutů a míst posádky {Besatzung} a nechají-li se mezi nimi z polních děl {Feldtgeschütz} neustále posílat dovnitř i skutečné koule {Kuglen}, sotva lze zabránit tomu, aby na mnoha místech posádky nevypukl oheň a nenapáchal nenapravitelnou škodu.
+- typ: odstavec
+  de: |-
+    Item es gehören zu einer Arckelley zum wenigsten vier groß gezellter/die eine dem Zeugmeyster/eine deß Zeugmeysters zalschreiber/sampt andern Arckelley ämptern/eine den Büchsenmeystern/vnd eine das Puluer darunder zubehalten.
+  cs: |-
+    Dále k dělostřelectvu {Arckelley} patří nejméně čtyři velké stany: jeden pro zbrojmistra {Zeugmeyster}, jeden pro zbrojmistrova platebníka {zalschreiber} spolu s ostatními dělostřeleckými úřady, jeden pro puškaře {Büchsenmeystern} a jeden, aby se pod ním uchovával prach {Puluer}.
+- typ: nadpis
+  uroven: 2
+  de: Die Schiff brücken belangend.
+  cs: O lodních mostech {Schiff brücken}
+- typ: odstavec
+  de: |-
+    ITem so man in ferre vnd frembde Land mit eim Kriegßvolck vnd hauffen wil Reysen vnd ziehen/so ist leichtlich zuerachten vnd zuerwegen/daß man etwann kompt an Möser/Gesümpff/Gräben/Weyher/See/Bäch/oder andere grosse fliessende vnd stillstehnde wasser/da man on gebew/brücken vnd zimmer nicht wol vberkommen kan vnd mag/der vrsach wer noth vnd gůt/daß zu einem sollichen fürgenommen Feldtzug ohn ein Schiff brücken/vnd was darzu gehört nicht gezogen/sonder dieselbig mitfüre/dann solliche Schiff brücken eim gantzen Heer oder Feldtzug an den orten da es von nöhten ist/zur fürderung/nutz vnd gůtem erschiessen mag.
+  cs: |-
+    Dále: chce-li se s válečným lidem a houfem táhnout do vzdálených a cizích zemí, lze snadno usoudit a uvážit, že se někdy dojde k močálům, bažinám, příkopům, rybníkům, jezerům, potokům nebo jiným velkým tekoucím i stojatým vodám, přes které se bez staveb, mostů a tesařské práce nelze dobře dostat. Z té příčiny by bylo nutné a dobré netáhnout na takové zamýšlené tažení {Feldtzug} bez lodního mostu a jeho příslušenství, nýbrž vézt jej s sebou, neboť takový lodní most může celému vojsku či tažení na místech, kde je ho třeba, posloužit k urychlení, užitku a dobru.
+- typ: odstavec
+  de: |-
+    Dieweil aber solliche gemelte Schiff brücken ohn grossen kosten nicht gehalten können vnnd mögen werden/so wöllen wir ein kleyne meldung daruon thůn/was sie erfordern mit sampt jhrer zugehörung an Pferden/wägen/für vnd zimmerleuhten/an Schiffen/brittern/thillen/höltzern/nageln/stricken/Seylern/pfälen vnd anders mehr so darzu von nöhten/welches vmb der lenge vnterlassen ist zuerzelen.
+  cs: |-
+    Protože však takové lodní mosty nelze udržovat bez velkých nákladů, chceme se jen krátce zmínit o tom, co si i se svým příslušenstvím vyžadují na koních, vozech, vozcích a tesařích, na lodích, prknech, fošnách, dřevu, hřebech, provazech, lanech, kůlech a mnoha jiných potřebných věcech, jejichž výčet je kvůli délce vynechán.
+- typ: odstavec
+  de: |-
+    Ein Schiff brücken so in ein Feldtzug von nöhten were/gehören zum wenigsten darzu dreissig gůter wolbereyter starcker langer vnnd zimlicher breyter Schiff/die da
+  cs: |-
+    K lodnímu mostu, jehož by bylo třeba na tažení, patří nejméně třicet dobrých, dobře připravených, silných, dlouhých a přiměřeně širokých lodí, které
+poznamky:
+- n: 1
+  text: |-
+    Kummet – chomout; Fürsetzzeug – patrně přední postroj (náprsník); Reitseil – patrně oprať či vodicí provaz; Aftergeschirr – zadní část postroje (podocasník, zádrže), jíž kůň brzdí vůz. Výklad posledních tří termínů nejistý.

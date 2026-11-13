@@ -1,0 +1,45 @@
+id: 076v
+list: LXXVI
+strana: verso
+sken: 160
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    kundtschafft außgespürt/vnd durch die feind ersucht werden/dann die rechte vnd gewaltige hauffen/Derhalben wo solche Obersten vnd Hauptleuth nicht beyhändig vnd zugegen weren/soll solche fürbetrachtung durch die Fänderich vnnd Feldweybel oder andere Befelchshaber fürgenommen vnd verordnet werden.
+  cs: |-
+    vyzvědače {kundtschafft} vypátrány a nepřítelem napadeny. Proto kdyby takoví plukovníci {Obersten} a hejtmani nebyli po ruce a přítomni, mají takové předběžné uvážení provést a nařídit praporečníci {Fänderich} a šikovatelé {Feldweybel} nebo jiní velitelé {Befelchshaber}.
+- typ: odstavec
+  de: |-
+    Solche geuierte Schlachtordnung sollen vnd werden auch dermassen gemacht/wa mans an den Doppelsöldnern vnd Schützen gehaben mag/daß man hinden vnd vornen/dergleichen auff beyden seitten/mit Doppelsöldnern vnd Schützen verwart sey/auch mit den angehenckten flügeln der Schützen/darmit die einfachen Knecht/vnd die Fändlin mitten im hauffen verwart vnd versorgt werden. Weiter seind solliche Schlachtordnungen gůt/wa ein hauffen mehr dann an einem ort angegriffen/vberfallen vnd ersucht wird/Derhalben ist not/daß man auff alle vier ort verwart vnd versehen sey/dann gewarneter sach soll sich niemand beschämen.
+  cs: |-
+    Takové čtvercové bitevní šiky {Schlachtordnung} se mají stavět a také se stavějí tak – má-li se dostatek dvojžoldnéřů {Doppelsöldnern} a střelců {Schützen} –, aby byl šik vzadu i vpředu a rovněž na obou bocích chráněn dvojžoldnéři a střelci a také připojenými křídly střelců, takže prostí knechti {Knecht} a praporce {Fändlin} uprostřed houfu {hauffen} jsou chráněni a zajištěni. Dále jsou takové šiky dobré tam, kde je houf napaden, přepaden a vyhledán na více než jednom místě; proto je nutné být chráněn a zajištěn na všech čtyřech stranách, neboť za opatrnost se nikdo nemusí stydět.
+- typ: odstavec
+  de: |-
+    Wa man solliche Schlachtordnung machen oder fürnemmen wil/sollen alle Schützen vnter einem gantzen hauffen besonder geordnet vnd gerechnet werden/dieweil sie gehören in sonderliche hauffen vnd glider/dann man füret sie etwann voran/etwann hinden/vnd beseytz/oder etwann neben den Ordnungen/sie werden auch gemeynlich an die gewaltige hauffen als zu flügeln angehenckt/vnnd glider weiß eingefürt/darumb můß solliche rechnung vnnd vberschlahung der Hackenschützen in sonderliche theyl geordnet werden.
+  cs: |-
+    Když se má takový šik postavit nebo připravit, mají být všichni střelci z celého houfu zvlášť seřazeni a spočteni, protože patří do zvláštních houfů a řad {glider}: vodí se totiž někdy vpředu, někdy vzadu a po stranách, nebo někdy vedle šiků {Ordnungen}; obvykle se také připojují k hlavním houfům jako křídla a zařazují se po řadách. Proto se musí takový výpočet a odhad střelců z hákovnic {Hackenschützen} rozvrhnout do zvláštních oddílů.
+- typ: odstavec
+  de: |-
+    Dieweil aber die zalen der personen vnter den Fändlin hin vnd wider vngleich seind/dann eins hat etwann viel personen/das ander wenig/sonderlich was die Spanische/Italianische/oder Welsche Fändlin seind/die haben nit viel personen/derhalben ist angefangen hienach mit geringen zalen vnd personen zurechnen.
+  cs: |-
+    Protože však počty osob v praporcích jsou tu i onde nestejné – jeden má mnoho lidí, druhý málo, zvláště praporce španělské, italské neboli vlašské {Welsche}[^1], které nemají mnoho lidí –, začíná se dále počítat s malými počty osob.
+- typ: odstavec
+  de: |-
+    Damit aber solche Schlachtordnungen vnd geuierte hauffen dester verständtlicher gefaßt mögen werden/so seind hie nachfolgend etliche Exempel dermassen gestelt vnd gemacht/vnd ein kleynfügiger bericht darin gegeben/wie im fall der not mit behendigkeyt ein jeder hauffen/er sey kleyn oder groß/wenig oder viel/durch diese mittel vnd Exempel wie nach gestellt/gemacht vnd geordnet möge werden.
+  cs: |-
+    Aby však bylo možné takové bitevní šiky a čtvercové houfy tím snáze pochopit, je zde dále sestaveno několik příkladů s krátkým návodem, jak lze v případě nouze hbitě postavit a seřadit každý houf, ať malý či velký, o málo nebo mnoha lidech, pomocí těchto prostředků a příkladů, jak následují.
+- typ: nadpis
+  uroven: 3
+  de: Der Reysigen Schlachtordnung.
+  cs: Bitevní šik jízdy {Reysigen}
+- typ: odstavec
+  de: |-
+    MJt den Reysigen hat es eben die gestalt/jhre Schlachtordnungen zumachen/wie mit dem Fůßuolck/dann es werden gemeynlich etwann zwen oder drey/vnd biß in sechs oder acht geschwader vnd Fanen oder Paner zusamen gestossen vnd geordnet/darmit ein gwaltiger vnd geuierter hauffen/oder Schlachtordnung darauß gemacht möge werden.
+  cs: |-
+    S jízdou je to při stavění jejích bitevních šiků stejné jako s pěchotou {Fůßuolck}: obvykle se totiž spojí a seřadí dva nebo tři, ba až šest či osm škadron {geschwader} a korouhví {Fanen} či praporů {Paner}, aby z nich mohl vzniknout silný a čtvercový houf čili bitevní šik.
+poznamky:
+- n: 1
+  text: |-
+    Welsch – „vlašský“, románský; zpravidla italský, někdy i francouzský. Spojení „italské neboli vlašské“ je v tisku nadbytečné, ale zachováno.

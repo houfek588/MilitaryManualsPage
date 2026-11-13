@@ -1,0 +1,61 @@
+id: 064v
+list: LXIIII
+strana: verso
+sken: 136
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Es soll auch keyner bey den freunden/vnd dieweil jhr in der freund Land seid/auff dem Zug oder im Läger niemandts nichts mit gewalt vnnd vnbezalt nemen/sonder schon bezalen vnd niemands beschedigen/wer darüber was neme/vnd klag käme/der soll am leib gestrafft werden ohn alle gnad.
+  cs: |-
+    Nikdo také nemá u přátel, a dokud jste v přátelské zemi, na tažení ani v ležení {Läger} nikomu nic brát násilím a bez zaplacení, nýbrž má pěkně platit a nikomu neškodit. Kdo by přesto něco vzal a přišla by na něho stížnost, má být potrestán na těle bez jakékoli milosti.
+- typ: odstavec
+  de: |-
+    Vnd wann dem Feldtläger Profandt zugeführt wird/vnnd ins Läger oder Heer kompt/soll keyner darüber fallen oder angreiffen/es sey dann zuuor geschätzt/es soll auch keyner für das Leger hinauß lauffen/die Profandt in keynen weg fürzukauffen/sonder soll das auff freyen platz führen vnd bringen lassen/vnnd warten biß es geschätzt wird/vnd welcher solches vbertretten/soll am leib gestrafft werden.
+  cs: |-
+    A když se do polního ležení přiváží proviant {Profandt} a přijde do ležení nebo k vojsku, nikdo se na něj nemá vrhat ani na něj sahat, dokud nebude nejprve oceněn. Nikdo také nemá vybíhat před ležení, aby proviant jakkoli předkupoval, nýbrž ho má nechat dovézt a dopravit na volné prostranství a počkat, až bude oceněn[^1]. Kdo by to přestoupil, má být potrestán na těle.
+- typ: odstavec
+  de: |-
+    Item wo die Profosen oder jhre Knecht/ein oder mehr so vngehorsam weren/vnd mißhandelten/annemen wölten/so soll sie niemands darinn verhinderen oder wider sie Rotten/oder sich des annemen/sonder sie dabey handhaben/Vnd ob einer oder mehr den Profosen oder jhrer Knechten einen gefangnen verhinderten/vnnd der mißhandler dardurch hinweg käme/so soll derselb aller maß wie der thäter selbs gestrafft werden.
+  cs: |-
+    Dále: kdyby profousové {Profosen} nebo jejich pacholci chtěli zatknout jednoho nebo více těch, kdo byli neposlušní a provinili se, nemá jim v tom nikdo bránit ani se proti nim srocovat či se provinilce zastávat, nýbrž je má v tom podporovat. A kdyby jeden nebo více z nich bránili profousům nebo jejich pacholkům ve vzetí vězně a provinilec by tím unikl, má být takový potrestán zcela stejně jako sám pachatel.
+- typ: odstavec
+  de: |-
+    Es soll sich auch keyner vnter zwen Hauptmann schreiben lassen/oder zwey mal mustern/vnd keyner auff des andern namen durchgehn/auch keyner den andern vnwerhafftiglich versprechen/oder einer dem andern keyn Harnisch oder Wehr sich damit mustern zulassen nicht leihen/welcher das thůt soll ein Schelm von aller menigklich gescholten vnd gehalten/auch darzu an leib vnd leben gestrafft werden.
+  cs: |-
+    Nikdo se také nemá dát zapsat u dvou hejtmanů {Hauptmann} ani dvakrát projít přehlídkou {mustern}, nikdo nemá přehlídkou projít na jméno jiného, nikdo se nemá za jiného nepravdivě zaručovat[^2] a nikdo nemá jinému půjčovat zbroj {Harnisch} ani zbraň, aby s ní prošel přehlídkou. Kdo by to učinil, má ho každý nazývat šelmou {Schelm} a za šelmu mít, a k tomu má být potrestán na těle i na životě.
+- typ: odstavec
+  de: |-
+    Item wo Reysige vnd Füßknecht bey einander in einem Läger ligen würden/so sollen die Knecht zimlicher massen weichen/damit die Reysigen jhre pferdt vnderbringen mögen/vnd sich mit einander leiden.
+  cs: |-
+    Dále: kdyby jízda {Reysige} a pěší knechti {Füßknecht} leželi pospolu v jednom ležení, mají knechti přiměřeně ustoupit, aby jezdci mohli ustájit své koně, a mají se spolu snášet.
+- typ: odstavec
+  de: |-
+    Es soll sich auch ein jeder wie er von dem Quatiermeyster/Fürier vnnd Rottmeyster losiert würd/desselben orts benügen lassen/vnnd sich deß fridlich vnd gütlich vertragen/vnd keyner dem andern in sein Losament ziehen/Welcher das darüber thäte/soll nach deß Obersten erkanntnuß gestrafft werden.
+  cs: |-
+    Každý se také má spokojit s místem, kam ho ubytuje kvartýrmistr {Quatiermeyster}, furýr {Fürier} a rotmistr {Rottmeyster}, a pokojně a po dobrém se s tím snášet; a nikdo se nemá stěhovat jinému do jeho ubytování {Losament}. Kdo by to přesto učinil, má být potrestán podle uvážení plukovníka {Obersten}.
+- typ: odstavec
+  de: |-
+    Es soll auch keyner ohne sonder beuelch deß Obersten brandtschatzen/brennen/oder die Läger anzünden bey leib straff/vnnd sonderlich soll man das nit thůn/wa das volck für oder durchzeucht/damit die Profandt nit verhindert werd.
+  cs: |-
+    Nikdo také nemá bez zvláštního rozkazu plukovníka vymáhat výpalné {brandtschatzen}[^3], pálit nebo zapalovat ležení, pod trestem na těle; a zvláště se to nemá dělat tam, kudy lid táhne kolem nebo skrz, aby nebyl zdržován proviant.
+- typ: odstavec
+  de: |-
+    Es soll auch keyner keyn Lärmen/dann es sey not nit machen bey leybstraff/vnd ob ein lärmen würd/soll ein jeder auff dem platz/dahin er bescheyden ist/lauffen/vnnd keyner sonder merckliche leibs not inn den Losamenten nit bleiben/bey verlierung deß leibs.
+  cs: |-
+    Nikdo také nemá dělat poplach {Lärmen}, leda v nouzi, pod trestem na těle; a kdyby nastal poplach, má každý běžet na místo, kam je určen, a nikdo nemá bez zjevné tělesné nemoci zůstávat v ubytování, pod ztrátou hrdla.
+- typ: odstavec
+  de: |-
+    Es soll auch keyner die Mülen oder Mülwerck sich vnderstehn zuuerderben vnd zerbrechen bey leib straff.
+  cs: |-
+    Nikdo se také nemá opovážit kazit a rozbíjet mlýny nebo mlýnská zařízení, pod trestem na těle.
+poznamky:
+- n: 1
+  text: |-
+    Cenu proviantu v ležení určoval (taxoval) profous spolu s proviantmistrem; teprve potom se smělo prodávat. Předkupování před ležením mělo zabránit zdražování.
+- n: 2
+  text: |-
+    „vnwerhafftiglich versprechen“ – nepravdivě se za někoho zaručit, tj. při přehlídce prohlásit nezpůsobilého nebo cizího člověka za řádného knechta.
+- n: 3
+  text: |-
+    Brandschatzung – výpalné: peníze vymáhané na obyvatelích výměnou za to, že jejich obec nebude vypálena.

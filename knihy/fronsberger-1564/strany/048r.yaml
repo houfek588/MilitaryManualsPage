@@ -1,0 +1,53 @@
+id: 048r
+list: XLVIII
+strana: recto
+sken: 103
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item wo etwann vnter den gemeynen Knechten gebrechen vnnd mangel erscheinet/vnd dieselbigen etwas fähl vnd mangels haben/das sollen sie an die Weybel gelangen lassen/nachmals die Weybel jeder zeit der Knecht notturfft bey den Hauptleuthen mit trewen anbringen vnnd handlen/Were aber daß die Knecht vnzimlichs fürhabens vnd begerens weren/sollen sie die Weybel daruon gütlich abweisen.
+  cs: |-
+    Dále, objeví-li se mezi prostými knechty nějaké nedostatky a strádání a mají-li v něčem nouzi a nedostatek, mají to dát vědět obecním šikovatelům {Weybel}; šikovatelé pak mají potřeby knechtů vždy věrně přednést hejtmanům a jednat o nich. Kdyby však knechti měli nepatřičné úmysly a požadavky, mají je od toho šikovatelé po dobrém odvrátit.
+- typ: odstavec
+  de: |-
+    Sie sollen auff des Hauptmanns Befelch vnd gebott jederzeit gewärtig sein/vnd ist vonnöten/daß ehrliche/geschickte Knecht/die vnter dem Kriegßuolck bekannt vnd verdient/auch Kriegs erfahren seien/zu Weybeln erwöhlt werden.
+  cs: |-
+    Mají být vždy pohotově k hejtmanovým rozkazům a nařízením. Je potřeba, aby se za šikovatele volili čestní a schopní knechti, kteří jsou u válečného lidu známí, mají u něho zásluhy a jsou také ve válce zkušení.
+- typ: odstavec
+  de: |-
+    Die Knecht besetzen alle Monat jhre ämpter/deßhalben geben die Weybel vnd alle ämpter vom gemeynen mann besetzt/im Ring jhre ämpter auff/Darnach wöhlt man wider/mögen die Knecht die gewesne Weybel wider/oder andere an jhr statt erwöhlen.
+  cs: |-
+    Knechti obsazují své úřady každý měsíc; proto obecní šikovatelé i všechny úřady obsazené obcí {gemeynen mann} skládají v kruhu {Ring} své úřady. Potom se volí znovu a knechti mohou zvolit dosavadní šikovatele opět, nebo jiné na jejich místo.
+- typ: odstavec
+  de: |-
+    Sie werden mit keyner sondern pflicht beladen/sondern man läßt sie bey gemeyner pflicht auff den Artickels brieff geschehen/bleiben.
+  cs: |-
+    Nezavazují se žádnou zvláštní přísahou, nýbrž je nechávají při obecné přísaze složené na artikulní list {Artickels brieff}.
+- typ: odstavec
+  de: Jhr Besoldung ist anderst nicht dann Doppelsold.
+  cs: Jejich žold není jiný než dvojitý žold {Doppelsold}.
+- typ: odstavec
+  de: |-
+    Weybel/vnd alle ämpter vom gemeynen mann besetzt/sollen kurtze wehr/als Hellenparten vnd Schlachtschwerter tragen/auß vrsachen/sie haben vil zuschaffen/hin vnd wider zulauffen/sonst würden sie mit langen Spiessen gesaumpt vnnd verhindert.
+  cs: |-
+    Obecní šikovatelé a všechny úřady obsazené obcí mají nosit krátké zbraně, jako halapartny {Hellenparten} a obouruční meče {Schlachtschwerter}, a to z toho důvodu, že mají mnoho práce a musí pobíhat sem a tam; s dlouhými kopími {Spiessen} by byli zdržováni a omezováni.
+- typ: nadpis
+  uroven: 2
+  de: Des Fürers Befelch vnd Ampt.
+  cs: Pověření a úřad vůdce {Fürers}
+- typ: odstavec
+  de: |-
+    VNter einem jeden Fändlin wird auch erwölt vom gemeynen Man ein Fürer/deß Ampt vnd Befelch ist fast wie der Weybel/vnnd so vil mehr/daß sie allwegen vor der Ordnung herziehen/haben befelch vnnd bescheyd/wohin sie zihen vnnd die Knecht führen sollen/es sey in der freund oder Feind Landt gegen oder von den feinden.
+  cs: |-
+    U každého praporce {Fändlin} volí obec také vůdce. Jeho úřad a pověření jsou skoro jako u obecních šikovatelů, a ještě to navíc, že vůdci táhnou vždy v čele šiku {Ordnung} a mají rozkaz a pokyn, kam mají táhnout a vést knechty, ať v zemi přátel, nebo nepřátel, proti nepříteli, nebo od něho.
+- typ: odstavec
+  de: |-
+    Sie sollen auch den gemeynen Knechten in allen notwendigen/erbaren/vnnd billichen dingen/vnd in jhren sachen jhnen berahten vnd beholffen sein.
+  cs: |-
+    Mají také prostým knechtům ve všech nutných, počestných a náležitých věcech i v jejich záležitostech radit a pomáhat.
+- typ: odstavec
+  de: |-
+    Mit Besatzungen der Wacht/auch mit außtheylung deß Puluers/Bley/Profandt vnnd anders dergleichen haben die Fürer nicht wie die Weybel zuthůn/es sey dann noth vnnd die Weybel das nicht thůn können/auch gemeynlich haben sie jhr Losament bey den Weybeln/vnd lassen sich bey dem Hauptmann oder Fänderich finden.
+  cs: |-
+    S obsazováním stráží ani s rozdělováním prachu, olova, proviantu a podobných věcí nemají vůdci co dělat jako obecní šikovatelé, leda by bylo nouze a šikovatelé to nemohli vykonat. Obvykle mají také ubytování {Losament} u obecních šikovatelů a zdržují se u hejtmana nebo praporečníka.

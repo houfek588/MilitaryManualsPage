@@ -1,0 +1,31 @@
+id: 050v
+list: L
+strana: verso
+sken: 108
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gemeynlich das Vihe wie der stall/die Schaf wie der Hirt/dann selten bey den Wolffen Lämmer gefunden werden.
+  cs: |-
+    obvykle: jaký chlév, takový dobytek, jaký pastýř, takové ovce; neboť u vlků se jehňata najdou jen zřídka.
+- typ: odstavec
+  de: |-
+    Aber wie dem allem/Sein Ampt ist/daß er soll/wo es müß halben sein mag/täglich oder zum wenigsten etliche tag in der Wochen/morgens einen Trommenschlager in dem Quartier/da sein Fändlin ligt/lassen vmbschlagen/den Knechten anzeygen/daß sie sich zu deß Hauptmanns gezellt versamlen/da wölle er predigen/vnnd das Wort Gottes verkünden/daß er auch daselbs mit trew vnnd allem Christlichen fleiß thůn soll/Ist es aber daß man in einer Statt oder Flecken liget/darff er nicht vmbschlagen lassen/dann da versamlet sich sunst wer da wil in die Kirchen.
+  cs: |-
+    Ať je tomu jakkoli, jeho úřadem je, aby – kde to čas {müß} dovolí – denně, nebo aspoň několik dní v týdnu, dal ráno bubeníkovi {Trommenschlager} ve čtvrti, kde leží jeho praporec {Fändlin}, obejít s bubnem a oznámit knechtům, aby se shromáždili u hejtmanova stanu, že tam bude kázat a zvěstovat slovo Boží; to má také činit věrně a se vší křesťanskou pilností. Leží-li se však ve městě nebo městečku, nemusí dávat bubnovat, neboť tam se do kostela shromáždí i tak, kdo chce.
+- typ: odstavec
+  de: |-
+    Item allen den jhenigen/so in tods gefährligkeyt vnnd nöte kommen/besonder vnnd vor andern den jhenigen/so vnter sein Fändlin gehörig/soll er zusprechen/sie ermanen vnnd trösten/wie dann deß orts die notturfft eines jeden sterbenden Menschen erfordert.
+  cs: |-
+    Dále má všem, kdo se ocitnou ve smrtelném nebezpečí a v nouzi, zvláště a přede všemi těm, kdo patří pod jeho praporec, domlouvat, napomínat je a těšit, jak to v takové chvíli vyžaduje potřeba každého umírajícího člověka.
+- typ: odstavec
+  de: |-
+    Die Capplon pflegen gemeynlich jhr wesen bey dem Hauptmann zuhaben/sich zu einkauffen vnnd andern deß Hauptmanns geschäfften gebrauchen zulassen/wiewol sie es zuthůn nit schuldig/vnd pflegt man jhm zugeben doppel Sold.
+  cs: |-
+    Kaplani {Capplon} mají obvykle své bydlení u hejtmana a dávají se používat k nákupům a k jiným hejtmanovým záležitostem, ačkoli to dělat nejsou povinni; a obvykle se mu dává dvojitý žold {doppel Sold}.
+- typ: obrazek
+  soubor: drevorez-108.jpg
+  popis: |-
+    Ozdobná koncová vinětka (proplétaný uzel), jaká v tisku uzavírá kapitoly.

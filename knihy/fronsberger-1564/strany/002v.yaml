@@ -1,0 +1,27 @@
+id: 002v
+list: II
+strana: verso
+sken: 12
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das erste Bůch/von Stath/Ordnung/Ampt vnd Befelch des General Obersten/vnd auch andern Befelchsleuthen.
+  cs: |-
+    První kniha: o postavení, řádu, úřadu a velení nejvyššího polního hejtmana {General Obersten} a také ostatních velitelů {Befelchsleuthen}
+- typ: obrazek
+  soubor: obrazek1.png
+  popis: >-
+    Dřevořez v oválném rámu zdobeném zbraněmi a zbrojí: vojevůdce s peřím na klobouku a velitelskou holí na
+    vzpínajícím se koni, vedle něj dva lancknechti, jeden s kopím (partyzánou); v popředí dělo na lafetě s koulemi
+    a šancovním košem, v pozadí ležení se stany a opevněné město u vody.
+- typ: odstavec
+  de: |-
+    WEre daß ein Fürst oder Herr ein Krieg fürnemen/vnd selbs bey der handlung/vnnd im Feldt nicht sein möcht oder wölt/So ist vonnöten/daß er einen General Obersten dem Kriegßuolck fürsetze/derselbig General Oberst hat ausserthalben den Puncten vnd Artickeln/so jhm villeicht der Kriegßherr beuor behalt/allen gewalt den gantzen Krieg zuführen/nach seinem gůtbedüncken vnnd rath.
+  cs: |-
+    Kdyby kníže nebo pán zamýšlel válku a sám by u toho jednání a v poli nemohl nebo nechtěl být, je nutné, aby válečnému lidu postavil v čelo nejvyššího polního hejtmana. Tento nejvyšší polní hejtman má – kromě těch bodů a článků, které si válečný pán {Kriegßherr} případně vyhradí – plnou moc vést celou válku podle svého uvážení a rozvahy.
+- typ: odstavec
+  de: |-
+    Es ist gůt daß er sey ein herrlicher/dapfferer/von hohem Stammen geborn/
+  cs: Je dobré, aby to byl vznešený, udatný, z vysokého rodu zrozený,

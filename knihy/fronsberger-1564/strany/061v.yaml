@@ -1,0 +1,42 @@
+id: 061v
+list: LXI
+strana: verso
+sken: 130
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Profosen vnd armen Mann Klag vnnd Antwort gehört/So erfordert er ihn bey seinem Eydt/den er dem Kriegßherrn geschworen/daß er sein vrtheyl geben vnd außsprechen soll.
+  cs: |-
+    profousem {Profosen} a ubohým mužem, vyzývá ho při přísaze {Eydt}, kterou složil válečnému pánovi {Kriegßherrn}, aby dal a vyslovil svůj rozsudek.
+- typ: odstavec
+  de: |-
+    Derselbig erfordert Kriegsman steht dann hinein in Ring/zeygt an/nachdem er bey einem hohen pfand seinem Eydt erfordert sey/so sey er allein der sachen nicht weiß genug/bittet/daß man ihm etliche ehrliche Kriegßleuth mit denen er sich berathen möge/zulaß vnnd vergünne/so das geschehen/so rufft er etlichen guten gesellen/etwann zwen oder mehr/mit denen tritt er auß dem Ring/auff ein besonder orth/dieselbigen entschliessen sich einer vrtheyl/dann trit der gefragt wider inn Ring/spricht sein gefaßte vrtheyl offentlichen auß.
+  cs: |-
+    Takto vyzvaný válečník pak vstoupí do kruhu {Ring} a prohlásí, že protože je vyzván při tak vysoké záruce, totiž při své přísaze, není sám v té věci dost moudrý, a prosí, aby mu bylo dovoleno a povoleno [přibrat] několik čestných válečníků, s nimiž by se mohl poradit. Když se tak stane, zavolá si několik dobrých druhů, obvykle dva nebo více, a vystoupí s nimi z kruhu stranou; tam se usnesou na rozsudku. Potom se tázaný vrátí do kruhu a veřejně vysloví rozsudek, na kterém se usnesli.
+- typ: odstavec
+  de: |-
+    Darnach erfordert der Feldtweybel aber einen andern/der thut aller ding wie der erst gethon/das geschicht zum dritten mal/Aber doch/welcher in dem einen Rath gewesen/der soll in dem andern vnd dritten nicht sein/vnd so also die drey Rath vnnd vrtheyl gegeben seind/wo sie dann alle drey mit einander stimmen/so macht man im Ring ein stille/vnd schreit ein Feldtweybel offentlich auß/vnd zeygt an/nachdem die vrtheyl gangen/vnd alle zusammen stimmen/wo nun deren gelebt vnd nachkommen werden soll/welchem das gefellt der soll ein hand auff heben/So man nun die hend auffgehaben/vnnd wider nider gelassen/dann schreyt der Feldtweybel wider/welchem es nicht gefall/soll auch ein hand auffheben/darnach was das mehr ist/dabey bleibt es.
+  cs: |-
+    Potom šikovatel {Feldtweybel} vyzve ještě dalšího, který učiní všechno stejně jako první, a to se stane i potřetí; kdo však byl v jedné radě, nesmí být v druhé ani ve třetí. Když jsou takto vyneseny tři rady a rozsudky a všechny tři se shodují, udělá se v kruhu ticho a šikovatel veřejně vyhlásí: protože rozsudky padly a všechny se shodují, komu se líbí, aby se jimi řídilo a aby byly vykonány, ať zvedne ruku. Když ruce zvedli a zase spustili, volá šikovatel znovu: komu se to nelíbí, ať také zvedne ruku. Potom platí, kde je většina.
+- typ: odstavec
+  de: |-
+    Were aber daß die drey Rath nicht miteinander stimpten/oder zwen stimpten wider den dritten/als so der erst Rath hett geurtheylt/man soll den armen Mann mit dem Schwerdt richten/der ander Rath hett sein vrtheyl geben/man solt jhne an ein Baum hencken/Der dritt Rath hett sein vrtheyl geben/man solt ihn durch die Spieß jagen oder dergleichen/Alßdann was der gemeyn Mann mit dem mehr außspricht oder macht/das ist die vrtheyl/die an dem armen Mann volstreckt werden soll.
+  cs: |-
+    Kdyby se však ty tři rady neshodovaly nebo kdyby dvě stály proti třetí – například kdyby první rada rozhodla, že ubohý muž má být popraven mečem, druhá vynesla rozsudek, že má být oběšen na stromě, a třetí, že má být hnán skrze kopí {durch die Spieß jagen} nebo podobně –, pak je rozsudkem, který se má na ubohém muži vykonat, to, co prosté mužstvo {gemeyn Mann} vysloví či určí většinou.
+- typ: odstavec
+  de: |-
+    Begibt sich aber/daß er einen vbelthäter auß befelch des Obersten für Recht/vnnd das ordenlich Gericht stellt/vnnd daselbs beklagen soll/dann wird daselbs mit Klag vnd Antwort dem ordenlichen Rechten nachgangen vnnd gelebt/doch soll der Profoß den armen durch einen Fürsprechen den er vnter den Richtern nimpt/anklagen.
+  cs: |-
+    Stane-li se však, že [profous] na rozkaz plukovníka {Obersten} postaví zločince před právo a řádný soud {ordenlich Gericht} a má ho tam žalovat, postupuje se tam při žalobě a odpovědi podle řádného práva; profous má však ubohého žalovat skrze řečníka {Fürsprechen}, kterého si vezme z řad soudců.
+- typ: odstavec
+  de: |-
+    Sein Eyd vnd pflicht wird ihm nach seinem Ampt vnd Befelch der notturfft nach gestelt/vnd durch den Obersten von jhm genommen/der jhn dann mit disem befelch zuuersehen hat.
+  cs: |-
+    Jeho přísaha a povinnost se mu sestaví podle potřeby jeho úřadu a pověření a přijímá ji od něho plukovník, který mu toto pověření uděluje.
+- typ: odstavec
+  de: |-
+    Sein Besoldung ist Monats N. Gülden/jhme werden gehalten zwen Trabanten/etwann drey vnnd vier/oder vier Steckenknecht/vnd ein Jung/darnach der hauff groß ist/vnnd die notturfft erfordert/deßgleichen ein Stockmeyster vnnd ein Nachrichter.
+  cs: |-
+    Jeho žold činí měsíčně N. zlatých {Gülden}. Vydržují se mu dva drabanti {Trabanten}, někdy tři a čtyři, nebo čtyři pacholci {Steckenknecht} a jedno pachole {Jung}, podle toho, jak velký je houf a co vyžaduje potřeba; rovněž žalářník {Stockmeyster} a kat {Nachrichter}.

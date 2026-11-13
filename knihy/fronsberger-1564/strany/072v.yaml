@@ -1,0 +1,56 @@
+id: 072v
+list: LXXII
+strana: verso
+sken: 152
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Hochgebornen Fürsten vnd Herrn/Herrn N. Römisch. Keyserl. May. Feldhauptmann vnd General Obersten/vber alles Kriegßuolck inn seiner Mayestat dienste in diesem Land.
+  cs: |-
+    vysoce urozeného knížete a pána, pana N., polního hejtmana Jeho římské císařské Milosti a nejvyššího polního hejtmana {General Obersten} nad veškerým válečným lidem ve službách Jeho Majestátu v této zemi.
+- typ: odstavec
+  de: |-
+    Zum vierdten verbann ich das Recht von wegen deß wolgebornen Herren N. der da jetzt Oberster Feldhauptmann ist/vber vnser Nation der Landsknecht.
+  cs: |-
+    Za čtvrté zahajuji soud jménem urozeného pána N., který je nyní nejvyšším polním hejtmanem {Oberster Feldhauptmann}[^1] nad naším národem lancknechtů {Landsknecht}.
+- typ: odstavec
+  de: |-
+    Zum fünfften verbann ich das Recht von wegen deß gewalts vnnd Stabs/den ich führe mit sampt euch/welcher Stab mir vberlifert ist worden/von der gemelten Oberkeyt/daß mir niemandts wöll einreden im Rechten noch auß dem Rechten/sonder durch seinen angedingten Fürsprechen/vnd auff solche verbannung soll mir keyner die Richter vberstehn/es sollen auch die vmbstender dem Profosen ein gassen lassen/daß er mit den gefangnen zum Rechten vnnd vom Rechten frey paßieren mag/bey der straff eins güldins.
+  cs: |-
+    Za páté zahajuji soud mocí a holí {Stabs}, kterou spolu s vámi vedu a která mi byla předána od jmenované vrchnosti: ať mi nikdo neskáče do řeči u soudu ani mimo soud, leda skrze svého sjednaného řečníka {Fürsprechen}; a po tomto zahájení ať se mi nikdo nestaví přísedícím {Richter} za záda[^2]; a přihlížející {vmbstender} ať nechají profousovi {Profosen} uličku, aby mohl s vězni volně procházet k soudu i od soudu, pod pokutou jednoho zlatého.
+- typ: odstavec
+  de: |-
+    Welchem für Recht gebotten ist worden/nach Ordnung deß Rechten/der stehe für die Schrancken vnd fahe an/Jch frag dich auch Gerichts weybel/ob du jemands habst für gebotten/bey rechter weil vnd zeit nach Ordnung des Rechten/Antwort der Gerichts weybel/Ja. Man soll allwegen anfahen eins Fürsprechens zubegeren/einer vrtheyl/vnd wann man deß Rechtens ein auffschub begert/darauff gehört ein vmbfrag.
+  cs: |-
+    Kdo byl podle soudního řádu předvolán k soudu, ať předstoupí před závoru {Schrancken} a začne. Ptám se tě také, soudní šikovateli {Gerichts weybel}, předvolal-li jsi někoho v pravou chvíli a čas podle soudního řádu? Soudní šikovatel odpoví: Ano. – Vždy se má začínat žádostí o řečníka a o rozsudek; a žádá-li se o odklad soudu, náleží k tomu obeslání přísedících {vmbfrag}.
+- typ: odstavec
+  de: |-
+    Wie sich ein Redner ins Recht eindingen soll/Herr Schultheyß erlaubt mir dem gůten gesellen sein wort zuthůn? Antwort. Es sey dir vergunt warzu er fug vnd Recht hab. HErr Schultheyß ich wil mir eingedingt haben/was die Keyserlichen Rechten vermögen/ob ich wenig oder mehr rede würde thůn/dann ich durch jhn oder seinen Rath bericht würde/daß sein wort nichts gelten sollen.
+  cs: |-
+    Jak se má řečník {Redner} u soudu ujednat: Pane rychtáři {Schultheyß}, dovolte mi vést slovo tohoto dobrého druha. – Odpověď: Budiž ti dovoleno, k čemu má on oprávnění a právo. – Pane rychtáři, chci si vymínit[^3], co dovolují císařská práva: kdybych řekl méně nebo více, než mi on nebo jeho rádce sdělil, ať jeho slovo [kvůli tomu] nic neplatí.
+- typ: odstavec
+  de: |-
+    Mag auch wol wandel haben/von mir zu einem andern/auff den dritten/vom dritten biß auff sein eygen mund/biß er selber ja darzu spricht/auff daß die Göttliche warheyt an tag komme vnd vnserm Rechten ein benügen geschicht/begeren darauff Rath vnnd sprach einem von dem andern wie gebreuchlich ist.
+  cs: |-
+    Může také mít právo opravy {wandel}, ode mne k jinému, k třetímu a od třetího až k vlastním ústům, dokud sám k tomu neřekne „ano“, aby vyšla najevo Boží pravda a našemu soudu se učinilo zadost. Žádáme proto o radu a poradu jeden s druhým, jak je obyčejem.
+- typ: nadpis
+  uroven: 3
+  de: Folgen die vrtheyl auff Sag vnd Antwort.
+  cs: Následuje rozsudek po žalobě a odpovědi
+- typ: odstavec
+  de: |-
+    AVff red vnnd widerred/auch auff beyder theyl verlesen kundtschafft/ist einhellig durch den Schultheyssen vnnd Rechtsprecher mit einhelliger vrtheyl erkennt worden/daß jhn der Profoß mit jhm in sein gewarsam füren soll/vnd soll jhm ein Beichtuatter zustellen/daß er sein sünd gegen Gott erkenn/vnd sein letzt Testament mache vnd beschließ/so er wil/vnnd nach dem soll jhn der Profoß dem freyen Mann vberlifern/der sol jhn auff den freyen platz führen vnd jhme sein leib entzwey schlahen mit dem Schwerdt daß der leib das gröst vnd der kopff das kleynest sey/wann das geschehen ist/so ist der vrtheyl vnnd dem Keyserlichen Rechten ein vernügen geschehen/Darauff spricht der Schultheyß vnd bricht den Stab entzwey/Gnad Gott der Seel/Amen.
+  cs: |-
+    Po řeči a odpovědi a po přečtení svědectví {kundtschafft} obou stran nalezli rychtář a nálezci práva {Rechtsprecher} jednomyslně jednomyslným rozsudkem, že ho profous {Profoß} má odvést s sebou do své vazby a opatřit mu zpovědníka, aby uznal své hříchy před Bohem a učinil a uzavřel svou poslední vůli, chce-li; a potom ho má profous vydat katovi {freyen Mann}, který ho má vyvést na volné prostranství a mečem mu rozetnout tělo vedví tak, aby trup byl největším a hlava nejmenším dílem. Když se to stane, je rozsudku i císařskému soudu učiněno zadost. Nato rychtář promluví a zlomí hůl {Stab} vedví: „Bůh buď milostiv jeho duši. Amen.“
+poznamky:
+- n: 1
+  text: |-
+    „Oberster Feldhauptmann … vber vnser Nation der Landsknecht“ – zde nejvyšší velitel lancknechtské pěchoty, tj. plukovník, odlišný od vrchního velitele celého vojska jmenovaného v předchozím článku.
+- n: 2
+  text: |-
+    „die Richter vberstehn“ – stát nad přísedícími, tísnit je, tj. vstupovat do soudního kruhu.
+- n: 3
+  text: |-
+    Eindingen – řečník si u soudu „vymiňuje“ výhrady: co řekne navíc nebo méně, než mu strana svěřila, nemá straně škodit, a strana i on mají právo výpověď opravit (Wandel), a to i několikrát a nakonec vlastními ústy.

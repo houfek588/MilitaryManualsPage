@@ -1,0 +1,43 @@
+id: 013r
+list: XIII
+strana: recto
+sken: 33
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Vnd ist erstlich ein art des Geschütz die nennt man Fewrbüchsen/das seind kurtze stück vngefährlich vier schůch lang/mit weiten roren/also daß ein rohr gar nach bey eins schůchs weit ist/Wiewol man mags machen wie man wil/Diese fewrbüchsen pflegt man mit ins Feldt zufüren/vnd darauß fewrkugeln in die Besatzungen/oder auch inn einem Feldt vnter einem hauffen zuschiessen/darumb sie auch Fewrbüchsen genannt werden.
+  cs: |-
+    Nejprve je tu druh děl {Geschütz}, kterým se říká ohňová děla {Fewrbüchsen}[^1]: jsou to krátké kusy, asi čtyři stopy {schůch} dlouhé, s širokými hlavněmi, takže hlaveň je široká skoro na jednu stopu, ačkoli je každý může dělat, jak chce. Tato ohňová děla se obvykle berou s sebou do pole a střílejí se z nich ohnivé koule {fewrkugeln} do obležených míst {Besatzungen} nebo také v poli do houfu [nepřátel]; proto se také nazývají ohňová děla.
+- typ: odstavec
+  de: |-
+    Sie seind auch fast gebreuchlich inn Besatzungen vmb der grossen kuglen willen/damit in die Läger zuschiessen/vnd sonderlichen so man stürmbt/dieselbigen mit Hagel zuladen/in die streichwehren/auch vnter die lücken/vnd wo noth zugebrauchen/man scheußt steynen kuglen darauß/so mans nit zum Fewrwerck braucht.
+  cs: |-
+    Jsou také velmi užívaná v posádkách pro své velké koule, aby se jimi střílelo do ležení {Läger} [obléhatelů], a zvláště při útoku {so man stürmbt} se nabíjejí drobnou střelou {Hagel}[^2] a užívají se v bočních obranných stavbách {streichwehren}, pod průlomy {lücken} a kdekoli je třeba. Když se jich neužívá k ohňostroji {Fewrwerck} [tj. k zápalným střelám], střílejí se z nich kamenné koule.
+- typ: odstavec
+  de: |-
+    Noch ist ein ander geschlecht der Büchsen/die man Merthier oder Böler nent/derselbigen macht man vielerley/je ein art grösser dann die ander/also/daß mans etwann macht/daß einer zwen Centner schwer steyn wirfft/etwann ein Centner/etwann ein halben/etwan noch kleyner/biß auff zehen pfundt schwer steyn/vnd diß geschlecht des Geschütz braucht man auch vor den Besatzungen/also/daß man Fewrwerck oder steynen Kuglen darauß wirfft/man richtet sie aber inn alle höhe/vnnd wirfft die Kuglen in lufft/also/daß sie dahin gericht wird/daß sie am herabfallen inn die Besatzung fellt/vnd das macht in einer Besatzung grossen schrecken vnd vnrůhe/sonderlich wo enge Besatzungen/als Heuser oder Schlösser seind/dann so man schwere steyn darauß wirfft/fallen sie durch alle Gebew/Gewelb/vnd thůn mercklichen schaden/man führt vnd scheusset sie auch auff der Achß/vnd in jren besondern gefesen/sonderlich die grossen vnd schweren/aber die kleynen legt man nur schlecht auff den boden/etwann vnterlegt mans mit sandt oder holtz/nachdem der boden fest oder lück ist/etliche nennen diß geschlecht der Büchsen Narren/vmb des willen/dieweil sie (wie die Narren) mit steynen werffen.
+  cs: |-
+    Ještě je jiný druh děl {Büchsen}, kterým se říká moždíř {Merthier} nebo {Böler}. Těch se dělá mnoho druhů, jeden větší než druhý: někdy se dělají tak, že jeden vrhá kámen o váze dvou centů {Centner}, jiný jednoho centu, jiný půl centu, jiný ještě menší, až po kámen o váze deseti liber {pfundt}. Tento druh děl se užívá také při obléhání {vor den Besatzungen}, a to tak, že se z nich vrhají zápalné střely {Fewrwerck} nebo kamenné koule. Zvedají se však do plné výšky a koule se vrhají do vzduchu tak, aby [moždíř] byl namířen tam, kde koule při pádu dopadne do obleženého místa; to v posádce působí velký strach a nepokoj, zvláště kde jsou stísněná opevnění, jako domy nebo hrady, neboť vrhají-li se z nich těžké kameny, prorážejí všechny stavby a klenby a působí značnou škodu. Vozí se a střílí také na nápravě a na svých zvláštních ložích {gefesen}, zvláště ty velké a těžké; malé se však kladou prostě na zem a podle toho, je-li půda pevná nebo kyprá, se někdy podloží pískem nebo dřevem. Někteří nazývají tento druh děl blázny {Narren}, protože (jako blázni) házejí kameny.
+- typ: odstavec
+  de: |-
+    Noch ist auch ein geschlecht des Geschütz/das man auch auff der Achß führt vnd scheußt/das nennt man ein Orgel Geschütz/vmb des willen/dieweil es viel rohr vnd nachbüchsen hat/zugleich wie ein Orgel viel Pfeiffen hat/man nennts auch ein geschrey Geschütz/der vrsach/daß es viel schüß thůt/nachdem es viel rohr hat/dieselbigen schüß zerstrewt es hin vnnd her/so nennt mans auch Hagel Geschütz/dieweil es viel Kuglen scheusset/wie ein Hagel vil steyn wirfft/es ist aber ein solche art/daß man viel Handtrohr zůsammen inn ein gefeß darzů dienstlich ordnet/gleich wie ein Orgel mit vielen Pfeiffen/das ist also zůgericht/so mans anzündt/gehen die rohr jmmer eins nach dem andern ab/vnd ist also geordnet/daß dieselben schüß sich in alle ort hin vnd wider zertheylen vnd zerstrewen/vnd so mans anzündt/so wehret es ein gůte weil biß die vor alle abgehen/vnd ist diß Geschütz sonderlich gebreuchlich inn einer Feldtschlacht für ein ordnung/oder in einer Besatzung vnter ein lücken da man des sturms wartet/zustellen/dann es thůt grossen schaden in die nähe/man machts oder scheussets auch etwann von einem stück/es ist aber schwer/vnd nicht so gebreuchlich/als so mans mit handtrohren zůsamen macht.
+  cs: |-
+    Ještě je také druh děla, které se rovněž veze a střílí na nápravě; nazývá se varhanové dělo {Orgel Geschütz}, protože má mnoho hlavní a přídavných hlavní {nachbüchsen}, tak jako varhany mají mnoho píšťal. Říká se mu také hlučné dělo {geschrey Geschütz}, protože podle počtu hlavní vydá mnoho ran a ty rozmetá sem a tam; a říká se mu také krupobití {Hagel Geschütz}, protože vystřelí mnoho koulí, jako krupobití sype mnoho kamínků. Je to takový druh, že se mnoho ručních hlavní {Handtrohr} sestaví dohromady do jednoho k tomu vhodného lože, jako varhany s mnoha píšťalami, a je to upraveno tak, že když se zapálí, hlavně vystřelí jedna po druhé, a uspořádáno tak, že se rány rozdělí a rozptýlí na všechny strany; a když se to zapálí, trvá to dobrou chvíli, než všechny vystřelí. Toto dělo se zvláště užívá v polní bitvě, kde se staví před šik {ordnung}, nebo v posádce pod průlom, kde se čeká útok {sturm}, neboť zblízka působí velkou škodu. Někdy se také dělá nebo odlévá {scheussets}[^3] z jednoho kusu, to je však těžké a není to tak užívané, jako když se skládá z ručních hlavní.
+- typ: odstavec
+  de: |-
+    So nuh allerhand groß geschütz/vnnd das man auff der Achß füren vnd
+  cs: |-
+    Když jsme tedy všelijaká velká děla a ta, která se musejí vozit na nápravě a
+poznamky:
+- n: 1
+  text: >-
+    Fewrbüchsen – krátká děla velké ráže k vrhání ohnivých (zápalných) koulí, předchůdce houfnic; od moždířů
+    (Merthier, Böler), popsaných v dalším odstavci, je Fronsperger odlišuje.
+- n: 2
+  text: >-
+    Hagel – „krupobití“: náboj z drobných kamínků, sekaného železa nebo olověných broků, střílený zblízka do útočníků
+    (obdoba pozdějšího kartáče).
+- n: 3
+  text: >-
+    „scheussets“ – v tisku tak; smysl vyžaduje spíš „geussets“ (odlévá), vedle „machts“. Přeloženo podle smyslu.

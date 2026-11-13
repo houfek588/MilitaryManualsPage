@@ -1,0 +1,23 @@
+id: 011v
+list: XI
+strana: verso
+sken: 30
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Diß Theyl zeygt an vnd gibt bericht/was in ein Zeughauß gehört vnd erfordert/an Geschütz vnd Munition mit aller zůgehörung.
+  cs: |-
+    Tato část ukazuje a podává zprávu, co patří a je zapotřebí do zbrojnice {Zeughauß}, pokud jde o děla {Geschütz} a munici {Munition} se vším příslušenstvím
+- typ: obrazek
+  soubor: obrazek3.png
+  popis: >-
+    Dřevořez v oválném rámu zdobeném zbraněmi a zbrojí (přilby, štíty, bubny, dělové hlavně): puškař
+    s dlouhým nabijákem či lunetou stojí mezi několika děly na kolových lafetách, za ním další muž s doutnákem
+    u děla na vysoké lafetě; v popředí moždíř a hromádky dělových koulí, v pozadí kouř výstřelu a krajina.
+- typ: odstavec
+  de: |-
+    DJeweil nuh etliche der fürnembsten vnd nötigsten puncten vnd Artickel/so vor anfang eins Kriegß zuerwegen/vnd zu bedencken erzelt vnd angezeygt seind/So dann das erst vnd nötigst ist/daß man mit gelt/auch Geschütz vnnd notturfftiger Munition versehen vnd gefaßt sey/So wöllen wir jetzt melden vnd anzeygen/wie gefährlich ein Kriegßherr mit einem oder mehr Zeugheusern/vnd darinnen Geschütz vnd Munition gestaffiert vnd versehen soll sein/fürter dasselbig ins Feld oder Besatzungen haben zugebrauchen.
+  cs: |-
+    Když jsme nyní vyložili a ukázali několik nejpřednějších a nejnutnějších bodů a článků, které je třeba uvážit a promyslet před započetím války, a protože to první a nejnutnější je, aby byl člověk zásoben a vybaven penězi i děly a potřebnou municí, chceme nyní vyložit a ukázat, jak přibližně {gefährlich} má být válečný pán {Kriegßherr} opatřen a zásoben jednou či více zbrojnicemi a v nich děly a municí, aby je pak mohl užívat v poli nebo v posádkách {Besatzungen}.

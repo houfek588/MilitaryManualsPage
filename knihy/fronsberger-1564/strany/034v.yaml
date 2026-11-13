@@ -1,0 +1,58 @@
+id: 034v
+list: XXXIIII
+strana: verso
+sken: 76
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Erstlich der Feldtmarschalck/der ist der Oberst vber den Reysigen Zeug/Was sein Ampt vnd befelch einhelt vnd belangt.
+  cs: |-
+    Nejprve polní maršálek {Feldtmarschalck}, který je nejvyšším velitelem nad jízdou {Reysigen Zeug}; co obnáší a čeho se týká jeho úřad a pověření
+- typ: odstavec
+  de: |-
+    ZV einem Feldtmarschalck soll genommen vnnd erkießt werden/ein Adenliche hochberhümpte/erfarne/geschickte vnnd wolberedte Person/Dann er ist für ein Obersten anzusehen vnd zuhalten vber alle Reysigen in einem gantzen Feldtzug/darumb ist von nöten vnnd billich/daß er nicht allein die jetzt erzelte/sondern auch alle tugent/geschicklichkeyt vnd bescheydenheyt/hieuor vom General Obersten gemeldt/an jhm habe/Dann er ist nach dem General Obersten/von Kriegßrecht wegen der vorderst vnd fürnemest im Kriegßrath. Zu dem/so hat er alles zuversehen vnd zuverwalten/was den gantzen Reysigen Zeug antrifft/es sey gegen den Feinden oder von den Feinden/vnd vnter den Freunden/zu erhalten gůt Regiment vnd Ordnung.
+  cs: |-
+    Polním maršálkem má být vzata a zvolena osoba šlechtická, velmi proslulá, zkušená, schopná a výmluvná, neboť na něj se má hledět a má být pokládán za nejvyššího velitele {Obersten} nad veškerou jízdou {Reysigen} v celém tažení {Feldtzug}. Proto je nutné a náležité, aby měl nejen právě vyjmenované vlastnosti, ale i všechny ctnosti, schopnosti a rozvážnost, o nichž byla výše řeč u nejvyššího polního hejtmana {General Obersten}. Je totiž podle válečného práva {Kriegßrecht} po nejvyšším polním hejtmanovi prvním a nejpřednějším ve válečné radě {Kriegßrath}. Kromě toho má obstarávat a spravovat všechno, co se týká celé jízdy, ať proti nepříteli, nebo od nepřítele, i mezi přáteli, aby se zachovala dobrá správa a pořádek.
+- typ: odstavec
+  de: |-
+    Er ist vonn Kriegßrecht wegen/nach dem General Obersten/der vorderst im Kriegßrath/zu dem wird jm gemeyniglich mit seinem geschwader Reutter das er vnter jm hat/der Rennfanen vnd vorzug befolhen.
+  cs: |-
+    Podle válečného práva je po nejvyšším polním hejtmanovi prvním ve válečné radě; kromě toho se mu obvykle svěřuje se švadronou {geschwader}[^1] jezdců, kterou má pod sebou, předvojová korouhev {Rennfanen}[^2] a předvoj {vorzug}.
+- typ: odstavec
+  de: |-
+    Also was mit den reysigen außzurichten vnd zuversehen ist/wird durch geheyß/befelch vnd anschickung des Feldtmarschalcks versehen/dann alle reysige Hauptleut oder Rittmeyster haben jr auffsehen auff jn/als jren Obersten.
+  cs: |-
+    Co se tedy má s jízdou vykonat a obstarat, děje se na rozkaz, z pověření a podle nařízení polního maršálka, neboť všichni hejtmani jízdy čili rytmistři {Rittmeyster} se řídí jím jako svým nejvyšším velitelem.
+- typ: odstavec
+  de: |-
+    So er den vorzug hat mit dem Rennfanen/soll er ein zimliche weite vor allen hauffen hinziehen/sich der höhe befleissen/daß er sich wol vmbsehen möge/auch geschickte knecht bey jm habe/die alle Felder besehen vnd vorziehen/So man dann zum Läger/da der hauff vber nacht das Läger haben soll/kompt/läßt er sein Leutenant bey den Reuttern vnnd Rennfanen/die nemen ein höhe ein/da sie sich wol vmbsehen mögen/daselbs bleiben sie halten/so lang biß alle hauffen/das geschütz/vnd was zum Läger gehörig/ins Läger kompt vnd sich gelägern/darnach so man sich gar gelägert vnd daruor nicht/so sollen sie dann auch ins Läger ziehen/vnnd sich lägern/sie sollen auch allwegen/ehe das Läger auffbricht/auß dem Läger ziehen/daß sie allwegen die früesten auß/vnd die spätsten ins Läger seind/so seind auch die vnter dem Rennfanen/aller anderer Wachten gefreyet.
+  cs: |-
+    Má-li předvoj s předvojovou korouhví, má jet přiměřeně daleko před všemi houfy {hauffen}, držet se výšin, aby se mohl dobře rozhlížet, a mít u sebe zdatné knechty {knecht}, kteří všechna pole prohlédnou a jedou napřed. Když se pak přijde k ležení {Läger}, kde má vojsko přes noc tábořit, nechá svého poručíka {Leutenant} u jezdců a předvojové korouhve; ti obsadí výšinu, odkud se mohou dobře rozhlížet, a zůstanou tam stát tak dlouho, dokud všechny houfy, děla a vše, co k ležení patří, nepřijdou do ležení a neutáboří se. Teprve až se všichni utábořili, a ne dříve, mají i oni vtáhnout do ležení a utábořit se. Také mají vždy vytáhnout z ležení dříve, než se ležení zvedne, takže jsou vždy první venku a poslední v ležení; proto jsou ti, kdo slouží pod předvojovou korouhví, osvobozeni ode všech ostatních stráží.
+- typ: odstavec
+  de: |-
+    Weil nuh also des Feldtmarschalcks Leutenant ob dem Läger helt/dieweil reytet der Feldtmarschalck mit sampt den Quartiermeystern/Wachtmeystern/Zeugmeystern/vnnd anderen hierzů verordnet/besichtigen das Läger/berathschlagen/wie man sich lägern soll/wa das Fůßuolck/wa die Reysigen/wa die Arckelley vnd das geschütz/dann theylen die Quartiermeyster die Quartier/etc. vnd zeucht der Feldtmarschalck mit den Wachtmeystern vnd andern hierzů dienstlich/besichtigen vnd berathschlahen/wie vnd wa man die Wacht mit Reysigen vnd Fůßknechten besetzen soll.
+  cs: |-
+    Zatímco tedy poručík polního maršálka drží stráž nad ležením, objíždí polní maršálek s kvartýrmistry {Quartiermeystern}, vachmistry {Wachtmeystern}, zbrojmistry {Zeugmeystern} a jinými k tomu určenými ležení; prohlížejí je a radí se, jak se má tábořit, kde pěchota {Fůßuolck}, kde jízda, kde dělostřelectvo {Arckelley} a děla. Potom kvartýrmistři rozdělí ubikace {Quartier} atd. a polní maršálek jede s vachmistry a jinými, kteří jsou k tomu užiteční; prohlížejí [okolí] a radí se, jak a kde se mají stráže obsadit jízdou a pěchotou.
+- typ: odstavec
+  de: |-
+    Er soll alle geschwader Reutter in Zug ordnen/das Schützen Fändlin vnd alle andere/ein jedes geschwader/wie vnd wa es im Zug sein vnd sich halten sollen.
+  cs: |-
+    Má rozřadit všechny švadrony jezdců k pochodu {Zug}, střelecký praporec {Schützen Fändlin}[^3] i všechny ostatní, každou švadronu [určit], jak a kde má na pochodu být a jak si má počínat.
+- typ: odstavec
+  de: |-
+    So auch lermen wird/vnd man an den Feinden ist/So soll er mit sampt andern
+  cs: |-
+    Když nastane poplach a dojde se na nepřítele, má spolu s jinými
+poznamky:
+- n: 1
+  text: >-
+    Geschwader – jízdní oddíl, švadrona; u Fronspergera skupina jezdců pod jednou korouhví či rytmistrem.
+- n: 2
+  text: >-
+    Rennfahne – korouhev lehčí „předjízdné“ jízdy (Rennern), která jela v předvoji, zjišťovala nepřítele a jako
+    první se s ním střetávala.
+- n: 3
+  text: >-
+    Schützen Fändlin – oddíl jízdních střelců (s ručnicemi nebo kušemi) pod vlastní korouhvičkou.

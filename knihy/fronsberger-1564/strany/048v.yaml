@@ -1,0 +1,29 @@
+id: 048v
+list: XLVIII
+strana: verso
+sken: 104
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Fürer zu einem Fändlin.
+  cs: Vůdce {Fürer} u praporce {Fändlin}
+- typ: obrazek
+  soubor: obrazek7.png
+  popis: |-
+    Dřevořez v oválném medailonu se zdobným rámem z válečných trofejí: vůdce praporce v rozparkovaném oděvu a vysokém klobouku s pery, s dlouhou hrotitou zbraní (partyzánou) v pravici a mečem u boku; vlevo za ním menší postava s pery na klobouku, vpravo sedící pes.
+- typ: odstavec
+  de: |-
+    SJe sitzen auch gemeynlich zu Gericht/wann Malefitz sachen zurechtfertigen seind/gleich wie ander Gerichts verwandten.
+  cs: |-
+    Také obvykle zasedají v soudu, když se mají soudit hrdelní věci {Malefitz sachen}, stejně jako ostatní soudní přísedící {Gerichts verwandten}.
+- typ: odstavec
+  de: |-
+    Sie werden auch bey gemeyner Kriegßpflicht/auff den Artickels brieff geschehen/gelassen.
+  cs: |-
+    Také je nechávají při obecné válečné přísaze složené na artikulní list {Artickels brieff}.
+- typ: odstavec
+  de: |-
+    Vnnd ist sein Besoldung deß Monats zwen Söld/sagt auch wie andere vom gemeynen Mann besetzte ämpter alle Monat wider auff.
+  cs: |-
+    Jeho žold činí dva žoldy {Söld} měsíčně a stejně jako jiné úřady obsazené obcí {gemeynen Mann} [svůj úřad] každý měsíc opět skládá.

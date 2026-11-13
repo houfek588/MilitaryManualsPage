@@ -1,0 +1,63 @@
+id: 027v
+list: XXVII
+strana: verso
+sken: 62
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    befolhen werden gehorsam sein/dasselbig mit rechtem getrewem vnd empsigem fleiß außrichten vnd versehen.
+  cs: |-
+    budou svěřeny, a vykonávat a obstarávat je se správnou, věrnou a horlivou pilností.
+- typ: odstavec
+  de: |-
+    Jm gebürt Fůßknechts Hauptmanns besoldung.
+  cs: |-
+    Náleží mu žold {besoldung} hejtmana pěchoty {Fůßknechts Hauptmanns}.
+- typ: odstavec
+  de: |-
+    Es sollen jhm zwen Trabanten vnd ein Jung gehalten werden.
+  cs: |-
+    Mají se mu vydržovat dva drabanti {Trabanten} a jedno pachole {Jung}.
+- typ: odstavec
+  de: |-
+    Item wil er zu seinem Pferdt noch ein pferdt oder zwen Trabanten/die an der musterung gůt seind/die sollen jhm gehalten werden/dieselbigen sollen sich auch bey der Arckelley als ander Zeugdiener brauchen lassen.
+  cs: |-
+    Dále, chce-li mít ke svému koni ještě jednoho koně nebo dva drabanty[^1], kteří při přehlídce {musterung} obstojí, mají se mu vydržovat; ti se však mají dát u dělostřelectva {Arckelley} použít jako ostatní zbrojní služebníci {Zeugdiener}.
+- typ: nadpis
+  uroven: 2
+  de: Schantzmeysters Ampt/Befelch vnd Eyd.
+  cs: Úřad, pověření a přísaha šancmistra {Schantzmeysters}
+- typ: odstavec
+  de: |-
+    DEr Schantzmeyster soll mit dem Zeugmeyster/seinem Leutenant vnd andern/so vom Obersten vnnd Kriegßräthen darzu verordnet werden/so man sich für ein Schloß oder Statt lägern wil/die plätz vnd malstett besehen vnd helffen berathschlagen/wie man am besten mit dem zeug für mög kommen/bey tag oder nacht/ob der boden die grosse schwere stück tragen möge/ob es graben/moß/wasser/oder wasserfäll in hohen wägen hab/oder andere verhinderung/auch wo/an welches ende/vnd wie man schantzen soll/eygentlich acht haben/wo der feind wehren hin bawen/auch jeder zeit nach gestalt vnd gelegenheyt der sachen/vnd nach erheyschung der notturfft das geschütz vnd die Büchsenmeyster beschantzen vnd besorgen.
+  cs: |-
+    Šancmistr má se zbrojmistrem {Zeugmeyster}, jeho poručíkem {Leutenant} a dalšími, které k tomu určí nejvyšší [polní hejtman] a váleční radové {Kriegßräthen}, když se má položit ležení před zámkem nebo městem, prohlédnout místa a stanoviště {malstett}[^2] a pomáhat radit, jak se s dělostřelectvem {zeug} ve dne či v noci nejlépe dostat kupředu: zda půda unese velké těžké kusy {stück}, zda jsou tam příkopy, bažiny, voda nebo vodní spády ve vysokých cestách {wasserfäll in hohen wägen}[^3], nebo jiné překážky. Má také bedlivě dbát, kde, na kterém místě a jak se má šancovat {schantzen} a kam staví nepřítel své obranné stavby, a vždy podle povahy a okolností věci a podle potřeby krýt děla {geschütz} a puškaře {Büchsenmeyster} šancemi a zabezpečit je.
+- typ: odstavec
+  de: |-
+    Alte vnnd wolgediente Büchsenmeyster die offt vor Besatzungen gebraucht worden/seind gůt zu disem Ampt zugebrauchen/die wissen nach vortheyl zuschantzen.
+  cs: |-
+    Staří a dobře vysloužilí puškaři, kteří byli často nasazeni při obléhání {Besatzungen}, se k tomuto úřadu dobře hodí; ti umějí šancovat s výhodou.
+- typ: odstavec
+  de: |-
+    Er soll auch allwegen mit etlichen Geschirrmeystern vnnd Schantzbawren/auch zimmerleuhten vnd andern mit äxten holtz zufellen/brücken/weg/vnnd steg zumachen/bey dem Rennfänlin vorhin ziehen/mit den kundtschafftern die weg vnd steg wissen/auch deß Lands kündig seind/daß man besehe/ob man mit dem geschütz fürkommen möge oder nit/die brücken/weg vnd steg zubessern/damit das geschütz vnnd der zeug hinüber kommen möge/ohn verhindert/auch besehen wo die weg zu eng oder in ander weg das geschütz darein zufüren vngelegen/daß man dasselbig wenden/oder ander weg machen möge/darzu wissen die geschirrmeyster wol zurahten vnd anschleg zumachen/sonderlich an den räncken in gebirgen/sonst thůnds die langen züg an den Büchsen nicht/als ander gemeynlich wägen/die nicht lang züg haben/darumb můß man offt ander gewöhnliche weg suchen.
+  cs: |-
+    Má také vždy táhnout napřed s předvojovou korouhví {Rennfänlin}, spolu s několika vozmistry {Geschirrmeystern} a šancíři {Schantzbawren}, také s tesaři a jinými, kteří mají sekery ke kácení dřeva a ke stavbě mostů, cest a lávek, a se zvědy {kundtschafftern}, kteří znají cesty a stezky a vyznají se v zemi. Má se prohlédnout, zda se s děly dá projet, nebo ne, opravit mosty, cesty a lávky, aby děla a výzbroj mohly bez překážek přejet, a také prohlédnout, kde jsou cesty příliš úzké nebo jinak nevhodné k vezení děl, aby se tomu dalo vyhnout nebo udělat jiné cesty. K tomu umějí vozmistři dobře poradit a navrhnout řešení, zvláště v zatáčkách {räncken} v horách; dlouhá spřežení {züg} u děl {Büchsen} to tam totiž nezvládnou tak jako jiné obyčejné vozy, které dlouhá spřežení nemají. Proto je často třeba hledat jiné, běžně užívané cesty.
+- typ: odstavec
+  de: |-
+    Der Schantzmeyster sampt der Schantzbawren Hauptmann/sollen darob vnd daran sein die Schantzkörb zumachen/darzu soll der Zeugmeyster etliche Büchsenmeyster vnnd zeugdiener auch verordnen/daß sie darob vnnd daran seien/daß die körb nicht zu groß/kleyn/hoch oder nider gemacht werden/man kan sie selten beyeinander machen/einer do/der an eim andern ort/sonst bedarff man nit vil leuth darbey.
+  cs: |-
+    Šancmistr spolu s hejtmanem {Hauptmann} šancířů mají dohlížet na zhotovování šancovních košů {Schantzkörb}. K tomu má zbrojmistr určit také několik puškařů a zbrojních služebníků {zeugdiener}, aby dbali, aby se koše nedělaly příliš velké, malé, vysoké ani nízké. Zřídka se totiž dají dělat všechny pohromadě – jeden tady, druhý na jiném místě; jinak k tomu není třeba mnoho lidí.
+- typ: odstavec
+  de: |-
+    Der Schantzmeyster soll mit rath deß Zeugmeysters vnd Kriegßräthen die
+  cs: |-
+    Šancmistr má na radu zbrojmistra a válečných radů
+poznamky:
+- n: 1
+  text: Tak tisk („noch ein pferdt oder zwen Trabanten“); obdobné místo o šancmistrovi (28r) má „eins oder zwey gerüste Pferdt“, takže jde snad o tiskovou chybu za „ein oder zwey pferdt“.
+- n: 2
+  text: Malstatt – vyměřené místo, stanoviště (zde pro ležení a postavení děl).
+- n: 3
+  text: „wasserfäll in hohen wägen“ – nejasné; snad strže vymleté vodou na horských cestách, případně (čteme-li „hohlen wegen“) v úvozech.

@@ -1,0 +1,38 @@
+id: 003v
+list: III
+strana: verso
+sken: 14
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ermanen/dann trösten/dann straffen/dann warnen/ich geschweig was man mit den Feinden vnd Freunden zutagen vnd zuthädigen täglich haben mag. Er soll wie zůforderst gemelt/achtbar vnd dapffer sein/wiewol man keynen von reichthumbs wegen erwehlen/auch keynen von armůth wegen verschmehen soll/so er allein geschickt/tröstlich vnnd fromm ist/dann ein Oberster soll nach frommkeyt vnnd nicht nach glück erwehlt werden.
+  cs: |-
+    napomínat, hned těšit, hned trestat, hned varovat, a to nemluvím o tom, co je denně třeba projednávat a vyjednávat s nepřáteli i přáteli. Má být, jak bylo řečeno hned na počátku, vážený a udatný; ačkoli se nikdo nemá volit kvůli bohatství, nemá se ani nikdo zavrhovat kvůli chudobě, je-li jen schopný, srdnatý a řádný {fromm}[^1], neboť nejvyšší velitel {Oberster} se má volit podle řádnosti, a ne podle štěstí.
+- typ: odstavec
+  de: |-
+    So nun der General Oberst also erwehlet vnnd verordnet/soll er sein leidlich/miedsam in reden/vnnd einen jeden der für jhn begert/für sich lassen/doch soll er sich nicht gegen einem jeglichen so gemeyn machen/daß jhm es zu verachtung vnnd verkleynerung reych/Er soll sich auch nicht also hart vnd bitter erzeygen vnd halten/damit er nicht haß vnd vngunst des Kriegßuolcks bekomme. Er soll aber setzen vnd erwehlen getrewe/geschickte/erfahrne/dapffere/seines gleichen/vnnd darzů dienstliche Männer zum Feldtmarschalck/als Obersten vber die Reysigen/Obersten vber alle Fůßknecht/Obersten Zeugmeyster vber das Geschütz/Arckelley/vnd was zu demselbigen Regiment gehört/deren jeder erwehlet vnnd besetz/auch nachmals alle ämpter vnter sein Regiment gehörig/Pfennigmeyster/Kriegßräth/Obersten Profoß/Profandtmeyster/Musterherrn/alle die ämpter soll er mit geschickten/frommen/vertrawten/vnd zu einem jeglichen Befelch dienstlichen Männern versehen/die ämpter vnd befelch außtheylen/damit alle ding in gůter nottürfftiger ordnung versehen vnd außgericht werden/vnd jhm sein grosse bürde/die jhm allein zubedencken vnd außzurichten vnmöglich/tragen helffen.
+  cs: |-
+    Když je tedy nejvyšší polní hejtman {General Oberst} takto zvolen a ustanoven, má být snášenlivý, vlídný v řeči a každého, kdo k němu žádá přístup, k sobě pustit; nemá se však s každým natolik spouštět, aby mu to bylo k opovržení a ke snížení vážnosti. Nemá se také ukazovat a chovat tak tvrdě a příkře, aby si nevysloužil nenávist a nepřízeň válečného lidu. Má pak ustanovit a zvolit věrné, schopné, zkušené a udatné muže sobě rovné a k tomu způsobilé: polního maršálka {Feldtmarschalck} jako nejvyššího velitele nad jízdou {Reysigen}, plukovníka {Obersten} nad veškerou pěchotou a nejvyššího zbrojmistra {Obersten Zeugmeyster} nad děly, dělostřelectvem {Arckelley} a vším, co k tomuto pluku {Regiment} patří, z nichž každý má být vybrán a dosazen. Potom má také všechny úřady patřící pod jeho pluk – pokladníka {Pfennigmeyster}, válečné rady {Kriegßräth}, nejvyššího profouse {Obersten Profoß}, proviantmistra {Profandtmeyster} a přehlídkové komisaře {Musterherrn} – obsadit schopnými, řádnými a spolehlivými muži, způsobilými ke každé jednotlivé funkci, a úřady a funkce rozdělit, aby se všechno zařídilo a vykonalo v dobrém a náležitém pořádku a aby mu pomáhali nést jeho velké břemeno, které sám nemůže všechno promyslet ani vykonat.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Artickel vnd Eydt/darauff der General Oberst Hauptmann bestellt vnd in pflicht genommen werden soll.
+  cs: |-
+    Články a přísaha {Eydt}, na které se nejvyšší polní hejtman {General Oberst Hauptmann} přijímá do služby a bere do povinnosti
+- typ: odstavec
+  de: |-
+    DAs Er N. vnserm gnedigen Herrn diesen fürgenommenen Feldzug/vnnd nemlich N. Monat/auch dreyssig tag für ein Monat dienen/getrew vnd hold sein/schaden warnen/wenden/vnnd wo er kan fürkommen/frommen vnnd nutzen/fürdern vnd schaffen/das Kriegßuolck so jhme von N. wegen zugeordnet/getrewlich befolhen haben/vnd nach deß N. besten nutz wider N. seinem höchsten fleiß vnd verstand nach/gebrauchen soll/vnnd so N. durch seine Kriegßräth mit jhme handlen lassen würde/welcher massen er gegen den Feinden ziehen/ligen vnnd handlen/soll er als oberster Hauptmann/die fürschläg auch selbs betrachten/seinem besten verstande nach/auch darzů rathen/vnnd so es jhn gůt bedünckt/derhalben besichtigung vnd erfahrung thůn/vnd sonst in solchem zug alles das zuthůn vnd zuhandeln/was jhn nach gelegenheyt der sachen vnnd empfangenem befelch nach am besten/ehrlichsten vnnd nutzesten bedunckt/vnnd in dem allem sein fleissig auffmercken haben/daß er nicht N. zu nachtheyl vnd schaden durch verachtung vnd verwarlosung sein befolhen Kriegßuolck verführe.
+  cs: |-
+    Že on N. našemu milostivému pánu v tomto zamýšleném tažení {Feldzug}, totiž po N. měsíců, počítaje třicet dní za měsíc, bude sloužit, bude mu věrný a oddaný, před škodou bude varovat, odvracet ji, a kde může, jí předcházet, jeho prospěch a užitek podporovat a obstarávat; válečný lid, který mu byl jménem N. přidělen, má mít věrně ve své péči a užívat ho k co největšímu užitku N. proti N. podle svého nejvyššího úsilí a rozumu. A kdyby s ním N. skrze své válečné rady {Kriegßräth} jednal o tom, jak má proti nepřátelům táhnout, ležet a postupovat, má jako nejvyšší hejtman tyto návrhy také sám podle svého nejlepšího rozumu uvážit, k tomu radit, a uzná-li za dobré, dát kvůli tomu provést obhlídku a průzkum; a vůbec má v takovém tažení dělat a jednat vše, co se mu podle okolností a podle přijatého rozkazu jeví jako nejlepší, nejčestnější a nejužitečnější, a ve všem tom pilně dbát, aby svěřený válečný lid z opovržení a nedbalosti nepřivedl ke zkáze, k neprospěchu a škodě N.
+- typ: odstavec
+  de: |-
+    Er der Oberst soll auch in sein selbs namen keyn sonderlichen knecht/noch niemandt andern auffnemen.
+  cs: |-
+    Nejvyšší [hejtman] také nemá svým vlastním jménem přijímat žádného zvláštního knechta ani nikoho jiného.
+poznamky:
+- n: 1
+  text: >-
+    Fromm znamená v 16. století především „řádný, poctivý, bezúhonný, statečný“, ne jen „zbožný“; podobně
+    Frommkeyt = řádnost, bezúhonnost. Tak se slovo v překladu převádí podle souvislosti.

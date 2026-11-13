@@ -1,0 +1,31 @@
+id: 040v
+list: XL
+strana: verso
+sken: 88
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    DEr Oberst der Fůßknecht soll zu gleicher gestalt/wie hieuor vom General Obersten vnd Feldtmarschalck geredt/ein ehrlicher/ansehenlicher/trefflicher/geschickter/verstandner vnd Kriegs erfarner Mann sein/der gunst vnd gůten willen/auch ein Auctoritet/forcht vnnd ansehen vnter dem Kriegßuolck habe/Er soll deß Kriegs vnd besonder souiel mit den Fůßknechten außzurichten vnd zuhandlen erfaren vnd wol bericht sein/damit er jeder zeit/es sey gegen den feinden/oder in anderm fürnemmen/vor anderen Kriegßräthen/welcher gestalt man die Fůßknecht ordnen vnd mit jhnen handeln soll/gůt rathschläge zugeben wisse/daß er auch die erfarung vnd verstand habe/alle ämpter seines Regiments nach notturfft zubesetzen vnd zuregieren/auch sonst vnd dem Kriegßuolck gůte Ordnung vnd Regiment anzustellen vnd zuhalten.
+  cs: |-
+    Plukovník pěchoty {Oberst der Fůßknecht} má být stejně, jak bylo výše řečeno o nejvyšším polním hejtmanovi {General Obersten} a polním maršálkovi {Feldtmarschalck}, muž čestný, vážený, znamenitý, schopný, rozumný a ve válce zkušený, který má u válečného lidu přízeň a dobrou vůli, a také autoritu, respekt a vážnost. Má být zkušený a dobře zpravený ve válčení, a zvláště v tom, co se má s pěšími knechty {Fůßknechten} vykonávat a jednat, aby vždy, ať proti nepříteli nebo při jiném podniku, uměl před ostatními válečnými rady {Kriegßräthen} dát dobrou radu, jak se má pěchota šikovat a jak se s ní má jednat; a aby měl zkušenost a rozum k tomu, aby všechny úřady svého pluku {Regiments} podle potřeby obsadil a řídil a aby i jinak u válečného lidu zavedl a udržoval dobrý pořádek a správu.
+- typ: odstavec
+  de: |-
+    Anfencklich soll sich der Oberst bewerben vmb geschickte vnnd erfarne Kriegs vnd Hauptleuth/dieselbigen soll er mit gelt abfertigen/sich vmb Kriegßleuth zubewerben vnd anzunemmen/soll auch den Hauptleuthen ein Musterplatz anzeygen/damit ein jeglicher Hauptmann seine Knecht auff bestimpte tag vnd zeit wisse zubescheyden damit sich ein jeder Kriegßmann seiner notturfft nach richten vnd rüsten könn/auff den genanten Musterplatz sich zuverfügen.
+  cs: |-
+    Nejprve se má plukovník ucházet o schopné a zkušené válečníky a hejtmany {Hauptleuth} a ty má vypravit penězi, aby se ucházeli o válečný lid a najímali ho. Má také hejtmanům určit přehlídkové místo {Musterplatz}, aby každý hejtman věděl, na který den a hodinu má své knechty obeslat, a aby se každý válečník mohl podle své potřeby zařídit a vystrojit a na jmenované přehlídkové místo se dostavit.
+- typ: odstavec
+  de: |-
+    Nach den genanten Hauptleuthen bewirbt er sich vmb geschickte vnnd erfarne Kriegßmänner/den soll er geben vnd außtheylen die hohe befelch vnd ämpter/als des Schultheyssen/Quartier/Profand/Profosen vnd Wachtmeysters/diese hohe ämpter vnnd befelch/soll er/so erstlich Gemeyn gehalten wird/den gemeynen Knechten offentlich im Ring anzeygen/damit ein jeder in seinem befelch vnd ampt erkant werde. So nuh die gemelte Hauptleuth mit jren angenommenen vnd bestelten Knechten auff den bescheydenen Musterplatz ankommen/zeygt sich ein jeder dem Obersten an/vnd ist verfaßt mit seinem Register.
+  cs: |-
+    Po jmenovaných hejtmanech se uchází o schopné a zkušené válečníky, jimž má dát a rozdělit vysoká pověření a úřady, totiž rychtáře {Schultheyssen}, kvartýrmistra, proviantmistra, profouse a vachmistra {Quartier/Profand/Profosen vnd Wachtmeysters}. Tato vysoká pověření a úřady má, jakmile se poprvé shromáždí obec {Gemeyn}, veřejně oznámit prostým knechtům v kruhu {Ring}, aby byl každý ve svém pověření a úřadě znám. Když pak zmínění hejtmani se svými najatými a zjednanými knechty přijdou na určené přehlídkové místo, každý se plukovníkovi ohlásí a má připravený svůj rejstřík {Register}.
+- typ: odstavec
+  de: |-
+    So nuhn der hauff erstmals zůsamen kompt/soll er lassen zur Gemeyn vmbschlahen/vnd fürt alle Fändlin zůsamen/helt Gemeyn/reyt in Ring zu den Knechten zeucht sein paret ab/läßt ein stille machen/vnnd redet mit den Knechten vngefährlich auff diese meynung/Gůten abend liebe Kriegßleuth/Also liebe Landtsknecht/darumb wir versamlet vnd bey einander seind/das geschicht darumb/daß N. vnser G. F. vnd Herr vnser auff dißmal bedarff/zu errettung vnnd beschirmung seiner F. G. Lande vnd Leuth/Vnterthanen/Witwen vnd Weysen/Derhalben so werd jr jetzunder geloben vnd schwören vnserem gnedigen Fürsten vnd Herrn N. Monat getrewlich zudienen/seiner Fürstlichen Gnaden schaden warnen/frommen vnnd nutz fürdern/so ferr eines jheden verstand außweiset/soll euch folgends darauff der Artickels Brieff verlesen werden.
+  cs: |-
+    Když se pak houf {hauff} poprvé sejde, má dát bubnovat ke shromáždění obce, svede všechny praporce {Fändlin} dohromady, svolá obec, vjede na koni do kruhu ke knechtům, smekne baret {paret}, dá zjednat ticho a promluví ke knechtům přibližně v tomto smyslu: „Dobrý večer, milí váleční lidé! Nuže, milí lancknechti {Landtsknecht}, shromáždili jsme se tu pohromadě proto, že nás N., náš milostivý kníže a pán, tentokrát potřebuje k záchraně a ochraně zemí a lidí Jeho knížecí Milosti, poddaných, vdov a sirotků. Proto nyní slíbíte a odpřisáhnete našemu milostivému knížeti a pánu N., že mu budete N. měsíců věrně sloužit, Jeho knížecí Milost před škodou varovat a její prospěch a užitek podporovat, nakolik rozum každého z vás stačí; potom vám bude přečten artikulní list {Artickels Brieff}.
+- typ: odstavec
+  de: |-
+    Jr werdend auch geloben vnd schwören/solche Artickel war vnd stet zuhalten/die obgenannte Monat getrewlich zudienen/auff Zügen vnd Wachten/gegen oder von Feinden/auff Wasser/auff Land/wo vns vnser gnediger Fürst vnd Herr gebrauchen vnd erfordern wird.
+  cs: |-
+    „Také slíbíte a odpřisáhnete, že tyto artikule {Artickel} budete pravdivě a stále zachovávat a po výše jmenované měsíce věrně sloužit na taženích {Zügen} i na stráži {Wachten}, proti nepříteli i od nepřítele, na vodě i na souši, kdekoli nás náš milostivý kníže a pán bude potřebovat a povolá.“

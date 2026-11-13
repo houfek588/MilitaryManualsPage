@@ -1,0 +1,40 @@
+id: 062r
+list: LXII
+strana: recto
+sken: 131
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Ampt vnd Befelch deß Stockmeysters.
+  cs: Úřad a pověření žalářníka {Stockmeysters}
+- typ: odstavec
+  de: |-
+    DEr Profoß erkieset auß seinen Steckenknechten einen Stockmeyster/deß ampt vnd befelch ist/daß er die eysen vnnd gefengnussen in seiner verwaltung hat/die gefangene einschmidet/verwaret/vnd sein sonder achtung vnnd auffmercken/auch sorg vnnd fleiß/mehr dann andere Steckenknecht darüber haben soll/Darumb wird jm auch sein besoldung etwas vor andern Steckenknechten gebessert/die gefangenen werden gemeynlich in deß Profosen Zelt oder Losament enthalten vnd verwart.
+  cs: |-
+    Profous {Profoß} si ze svých pacholků {Steckenknechten} vybere žalářníka, jehož úřadem a pověřením je mít ve své správě okovy a vězení, vězně zakovávat a střežit a mít nad nimi zvláštní dohled a pozornost, péči a pilnost, víc než ostatní pacholci. Proto se mu také žold oproti ostatním pacholkům poněkud zlepšuje. Vězni se obvykle drží a střeží v profousově stanu nebo ubytování {Losament}.
+- typ: nadpis
+  uroven: 2
+  de: Ampt vnd Befelch der Steckenknecht.
+  cs: Úřad a pověření profousových pacholků
+- typ: odstavec
+  de: |-
+    DJe Steckenknecht warten auff den Profosen/vnd so er einen heysset gefäncklich annemen/das sollen sie thun/denselbigen dem Stockmeyster zubewaren vberantworten/sonst braucht sie der Profoß auch zu aller bosselarbeyt/Sie seind auch sunst in zimlichen gebürlichen dingen zugleich wie ein Büttel oder Stattknecht in einer Statt/So der Nachrichter richten/oder einen peinlich fragen soll/seind sie schuldig dem Nachrichter behülfflich zusein.
+  cs: |-
+    Profousovi pacholci jsou profousovi k službám; poručí-li jim někoho zatknout, mají to vykonat a zatčeného předat žalářníkovi k opatrování. Jinak je profous užívá ke všem podřadným pracím {bosselarbeyt}. Ve slušných a náležitých věcech jsou i jinak tím, čím je ve městě biřic {Büttel} nebo městský pacholek. Má-li kat {Nachrichter} popravovat nebo někoho vyslýchat útrpným právem, jsou povinni mu pomáhat.
+- typ: odstavec
+  de: Jhr besoldung ist Monats jedem zwen Sold.
+  cs: Jejich žold činí měsíčně každému dva žoldy {Sold}.
+- typ: nadpis
+  uroven: 2
+  de: Ampt deß Nachrichters.
+  cs: Úřad kata
+- typ: odstavec
+  de: |-
+    DIeweil menniglichem bewißt/was deß Nachrichters ampt ist/so ist ohne not viel dauon zumelden/Das ist sein besoldung Monats etwann drey oder vier Sold/was dann sonst ihr Profandt daneben ist/hat es bey jhnen auch seine Ordnung.
+  cs: |-
+    Protože každý ví, co je úřadem kata, není třeba o něm mnoho psát. Jeho žold činí měsíčně asi tři nebo čtyři žoldy; a co se týče jejich dalšího proviantu {Profandt}, i to má u nich svůj řád.
+- typ: obrazek
+  soubor: drevorez-131.jpg
+  popis: |-
+    Ozdobná koncová vinětka v podobě propletené stuhy (uzlu) na konci oddílu o úřadech pěchoty.

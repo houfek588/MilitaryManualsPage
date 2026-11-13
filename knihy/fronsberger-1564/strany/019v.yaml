@@ -1,0 +1,67 @@
+id: 019v
+list: XIX
+strana: verso
+sken: 46
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Dieweil nun von sollichem anschlag vnd Kundtschafftern/der weg vnnd stäg/dergleichen von geschütz/kuglen/puluer/pferden vnnd fürleuhten/vnnd wie der jedes berathschlagt/vnd ins werck gefürdert vnd bracht werden soll/zimlicher massen gnůg geredt/So wöllen wir jetzt ferrer sehen/was man weitter darzu für Munition wägen mit zufüren vonnöhten sey/vnd ist nämlich dasselbig verzeychnet wie jetzt nachfolgt.
+  cs: |-
+    Protože jsme tedy o takovém plánu, o zvědech {Kundtschafftern}, cestách a stezkách, jakož i o dělech {geschütz}, koulích {kuglen}, prachu {puluer}, koních a vozcích a o tom, jak se o každém z nich má radit a jak se to má uvést do díla a vykonat, pověděli přiměřeně dost, chceme se nyní podívat dále, jaké muniční vozy je k tomu ještě třeba vézt s sebou; jsou zapsány, jak nyní následuje.
+- typ: nadpis
+  uroven: 2
+  de: Was für Wägen einem Feldtzug von nöhten seind.
+  cs: Jaké vozy jsou potřebné pro tažení {Feldtzug}
+- typ: odstavec
+  de: |-
+    ZVm aller ersten soll betracht vnd berathschlagt werden/daß man in ein Feldtzug mitführe vnd näme/etliche züg oder geyßfüß/mit jhren Eseln/Böcken vnd ander vntersetzen/auch Stoßbäwm/gestraub höltzer/winden/vnnd anders darzu gehörig/damit so man die Büchsen schmieden/oder von den Kantzwägen in die gefeß oder sonst von einem wagen auff den andern heben soll/sie sollen groß vnd kleyn/starck vnd schwach sein/nach dem das geschütz ist/vnnd ist gut daß man allwegen zwischen vier derselbigen stück einen zeugwagen füre.
+  cs: |-
+    Nejprve ze všeho se má uvážit a uradit, aby se na tažení vezlo a vzalo několik zdvihadel {züg} nebo kozlů {geyßfüß}[^1] s jejich kozami, kozlíky a jinými podstavci, také páky {Stoßbäwm}, vzpěry {gestraub höltzer}, zvedáky {winden} a jiné příslušenství, [jehož je třeba], když se mají děla kovat[^2] nebo zvedat z převozních vozů {Kantzwägen} do lafet {gefeß} či jinak z jednoho vozu na druhý. Mají být velké i malé, silné i slabé podle toho, jaká jsou děla, a je dobré vézt vždy na každé čtyři takové kusy jeden zbrojní vůz {zeugwagen}.
+- typ: odstavec
+  de: |-
+    Item zwen Bruckwägen mit gůten starcken bruckthilen/die sollen vor allem zůg hingehn/mit den Rennfändlin vor dem verlornen hauffen/wann man an die gräben kompt/die nit wol zuwatten oder zureitten seind/daß man dieselbigen Brück hinüber werff/darmit Reutter vnd Fůßknecht hinüber kommen mögen.
+  cs: |-
+    Dále dva mostní vozy {Bruckwägen} s dobrými silnými mostními fošnami {bruckthilen}; ty mají jet před celým průvodem {zůg} spolu s předvojovými korouhvemi {Rennfändlin}[^3] před ztraceným houfem {verlornen hauffen}, aby se – když se dojde k příkopům, které nelze dobře přebrodit ani přejet na koni – ty mosty přes ně přehodily a jezdci {Reutter} i pěšáci {Fůßknecht} se mohli dostat na druhou stranu.
+- typ: odstavec
+  de: |-
+    Item mehr zwen wägen/ein zum Vorzug/den andern zum Nachzug/die sollen füren Kuglen/Puluer/zündtpuluer/zündtstrick zu dem Feldtgeschütz/so auch zum vor vnnd nachzug geordnet vnd gehört/zu sollichen zweyen wägen gehört auch ein eygner zeugdiener/der die Schlüssel zu den puluertruchen/vnnd anders dergleichen hab.
+  cs: |-
+    Dále další dva vozy, jeden k předvoji {Vorzug}, druhý k zadnímu voji {Nachzug}; ty mají vézt koule, prach, zápalný prach {zündtpuluer} a doutnáky {zündtstrick} k polním dělům {Feldtgeschütz}, která jsou rovněž přidělena k předvoji a zadnímu voji a k nim patří. K těmto dvěma vozům patří také vlastní zbrojní služebník {zeugdiener}, který má klíče k truhlám s prachem a k jiným podobným věcem.
+- typ: odstavec
+  de: Item ein wagen mit holtz/äxten vnd Beiheln.
+  cs: Dále jeden vůz s dřevem, sekerami a sekyrkami.
+- typ: odstavec
+  de: Item ein wagen mit Mawrer gezeug/als allerley Steynwaffen.
+  cs: Dále jeden vůz se zednickým nářadím, totiž se všelijakým kamenickým náčiním {Steynwaffen}.
+- typ: odstavec
+  de: Item zum wenigsten zwen wägen/ein mit Bickeln/den andern mit hawen.
+  cs: Dále nejméně dva vozy, jeden s krumpáči, druhý s motykami.
+- typ: odstavec
+  de: Item zwen wägen mit Schuflen.
+  cs: Dále dva vozy s lopatami.
+- typ: odstavec
+  de: |-
+    Item ein Wagen mit Schmirbin/Speck/öl/Karchsalben/vnnd was zum schmirben gehört.
+  cs: |-
+    Dále jeden vůz s mazivem {Schmirbin}, sádlem, olejem, kolomazí a vším, co patří k mazání.
+- typ: odstavec
+  de: Item ein Wagen mit Hebeysen vnd Schmidgezeug.
+  cs: Dále jeden vůz se sochory a kovářským nářadím.
+- typ: odstavec
+  de: Item ein Wagen mit Hebthremel.
+  cs: Dále jeden vůz se zvedacími trámky {Hebthremel}.
+- typ: odstavec
+  de: |-
+    Item ein Wagen mit Lunnen/Lannagel/Hämmern/Zangen/Brächmeyssel/Schlegel/vnd ander eisen Werckgezeug/auch vberige legeisen.
+  cs: |-
+    Dále jeden vůz s lounky {Lunnen}, hřeby k ojnicím {Lannagel}[^4], kladivy, kleštěmi, sekáči, palicemi a jiným železným nářadím, také s náhradním kováním {legeisen}.
+poznamky:
+- n: 1
+  text: Zug – zdvihadlo s kladkou; Geißfuß – patrně zvedací kozel (troj- či dvojnožka s kladkou); Esel a Böcke – podstavce pod hlaveň; „gestraub höltzer“ – význam nejistý, snad vzpěry (Strebe) nebo šroubové zvedáky.
+- n: 2
+  text: „die Büchsen schmieden“ – smysl nejasný (kovat, tj. opravovat?); Kantzwagen – patrně vůz na převoz hlavní bez lafety (srov. 21v); výklad nejistý.
+- n: 3
+  text: Rennfähnlein – předvojová korouhev lehké jízdy, která jela v čele jako předvoj a průzkum.
+- n: 4
+  text: Lunnen – lounky, kolíky zajišťující kolo na ose; Lanne – ojnice (svory) vozu, do nichž se zapřahá kůň, odtud Lannagel, Lannseyler, Lannstangen, Lannenbäwm; legeisen – patrně železné pásy či kování k vozům, výklad nejistý.

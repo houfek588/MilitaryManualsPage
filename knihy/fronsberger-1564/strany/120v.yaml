@@ -1,0 +1,61 @@
+id: 120v
+list: CXX
+strana: verso
+sken: 248
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    in geheym/sampt etlichen Trossern/daß sie zu roß vnnd zu fůß/an einem sichtbaren orth/als vber ein Bühel zwerch herab/im angriff nicht weit vom feind jhm zufallen/vnd den seinen tröstlich zusprechen/als kem jhn hülff/so bald nuh solches vermeynt/würd es die seine stercken vnd den feind zaghafftig machen/sonderlich so vnter solcher zeit dieselbige sich geschwind gegen dem Feind wenden/vnnd erschröcklich anplatzen würden.
+  cs: |-
+    potají, spolu s několika lidmi z trénu {Trossern}, aby se při útoku nedaleko od nepřítele na viditelném místě – například napříč dolů z pahorku – k němu jízdmo i pěšky připojili a jeho lidem povzbudivě volali, jako by jim přicházela pomoc. Jakmile tomu uvěří, posílí to jeho lidi a nepřítele to zastraší, zvláště kdyby se oni [skrytí] v tu chvíli rychle obrátili proti nepříteli a strašlivě na něj vpadli.
+- typ: odstavec
+  de: |-
+    Zum neunten/soll er Schlachtschwerd/Hellenparten/Mordaxen/vnd dergleichen kurtze wehr/zun Schwerdtschlägen verordnet haben/so der anfall zu grim vnd eng zusammen trüng/daß sie die lange wehr nicht wol gebrauchen möchten/daß er alßdann dieselbe arbeyten laß.
+  cs: |-
+    Za deváté má mít k sečnému boji připraveny obouruční meče {Schlachtschwerd}, halapartny {Hellenparten}, válečné sekery {Mordaxen} a podobné krátké zbraně, aby je mohl nechat pracovat, kdyby byl střet příliš zuřivý a tak těsně stlačený, že by [knechti] nemohli dobře užívat dlouhých zbraní.
+- typ: odstavec
+  de: |-
+    Zum zehenden/soll er vnuerzüglich heymliche halten/verschlagen/vnd mit stricken vnd seylern/gleich wie einem wild richten/damit er in erdichter oder in gezwungner flucht/die nacheilende vnbedachte feinde/gleich als in ein Fischreusen/etwann auch mit erdichten mären betriegen mög.
+  cs: |-
+    Za desáté má bez prodlení nachystat skryté zálohy {halten} a ohrady a nastražit je s provazy a lany jako na zvěř, aby při předstíraném nebo vynuceném útěku mohl pronásledující neopatrné nepřátele [vlákat] jako do rybářské vrše, případně je oklamat i smyšlenými zprávami.
+- typ: odstavec
+  de: |-
+    Zum eylfften/soll er etliche in seines feinds sprach/kleydung/monier vnd zeychen/zun feinden verordnen/die an denen orten/da er nicht ist/schreien/jhr Oberster seye sampt etlichen Hauptleuthen erstochen/vnd sie eilends an jhr gewarsame abmane/vnd sag/es mög sunst jhrs beyns nicht daruon kommen/daß solchs auch die seine hören mögen/so soll ers auch bey jhn zuschreien verordnen.
+  cs: |-
+    Za jedenácté má k nepřátelům vyslat několik [mužů], kteří mluví jejich řečí a mají jejich oděv, způsoby a znamení; ti mají na místech, kde on [sám] není, křičet, že jejich nejvyšší [velitel] {Oberster} i s několika hejtmany {Hauptleuthen} byl probodnut, mají je vybízet, aby rychle ustoupili do bezpečí, a říkat, že jinak z nich nevyvázne ani kost. Aby to slyšeli i jeho vlastní lidé, má dát totéž křičet i mezi nimi.
+- typ: odstavec
+  de: |-
+    Zum zwölfften/soll er ein veste nachhůt als ein mawr/auff den vnfall halten/daß sie die flüchtige verfecht/hindersich versamle/erquicke vnd stercke.
+  cs: |-
+    Za dvanácté má pro případ nezdaru držet pevný zadní voj {nachhůt} jako zeď, aby prchající bránil, za sebou je shromáždil, občerstvil a posílil.
+- typ: odstavec
+  de: |-
+    Zum dreytzehenden/soll er nach seinem vermögen etlich Rotten außerlesen/auß welchem seine Befelchßleuth/nach erforderung der notturfft/die geringe vnd wolgeraste für die müden vnnd abgefochtne abwechßlen vnd auffůren/auch die abgeführte vnd außgearbeyte laben/vnd wider stercken mögen.
+  cs: |-
+    Za třinácté má podle svých možností vybrat několik rot {Rotten}, z nichž by jeho velitelé {Befelchßleuth} podle potřeby mohli hbité a dobře odpočaté [muže] střídat a přivádět místo unavených a vyčerpaných bojem a ty odvedené a zmořené občerstvit a znovu posílit.
+- typ: odstavec
+  de: |-
+    Zum viertzehenden/soll er offentlich außrüffen vor dem hauffen vnd gebieten/welcher weichen würd/daß jhn der nächst bey jhm erwürgen soll.
+  cs: |-
+    Za čtrnácté má před houfem veřejně vyhlásit a přikázat, že kdo by ustoupil, toho má nejbližší vedle něho zabít.
+- typ: odstavec
+  de: |-
+    Item daß keyner einichen gefangen nem/noch rantziere/wie mächtig er sey/auch nicht eines hellers werths Kisten fäge/bey verlierung gůts/ehren/leibs vnnd lebens/biß der feind gentzlich geschlagen vnd gesiget seye/vnd daß die nachhůt darauff halten/spähen/vnd alle/so hierüben ergriffen/erstechen soll.
+  cs: |-
+    Dále [má vyhlásit], aby nikdo nebral žádného zajatce ani nevyjednával výkupné, ať je [zajatec] jakkoli mocný, a aby nedrancoval {Kisten fäge} ani za haléř, pod ztrátou majetku, cti, těla i života, dokud nebude nepřítel úplně poražen a vítězství vybojováno; a že na to má zadní voj dohlížet, pozorně hlídat a každého, kdo by byl přistižen při činu, probodnout.
+- typ: odstavec
+  de: |-
+    Zum fünfftzehenden/soll er auch etliche Ritterliche männer bestellen/die mit zwerchspiessen vnter der anlauffenden feind spieß springen/vnd vbersich treiben/damit die vorderste glider/von den ersten stichen gehindert/vnd hingegen die seinen zum stechen befortheylt werden.
+  cs: |-
+    Za patnácté má také určit několik rytířských mužů, kteří by s napříč drženými kopími {zwerchspiessen}[^1] vskočili pod kopí útočících nepřátel a vyrazili je vzhůru, aby přední řady [nepřátel] byly zdrženy od prvních bodnutí a jeho lidé naopak získali při bodání výhodu.
+- typ: odstavec
+  de: |-
+    Entlich soll er allzeit in seinen Räthen vnd gesprächen/sein willen vnnd alle seine anschläg/mit so stiller fürsichtigkeyt handlen/daß nichts anders geoffenbart werd/
+  cs: |-
+    Konečně má ve svých radách a rozhovorech se svou vůlí a se všemi plány vždy zacházet s tak tichou prozíravostí, aby nebylo zjeveno nic jiného
+poznamky:
+- n: 1
+  text: |-
+    zwerchspiess – kopí držené napříč (zwerch = příčně); jím se zvedala nepřátelská kopí vzhůru, aby přední řada mohla proniknout do šiku. Šlo o úkol zvlášť odvážných mužů, obvykle dvojžoldnéřů.

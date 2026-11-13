@@ -1,0 +1,53 @@
+id: 091v
+list: XCI
+strana: verso
+sken: 190
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    er sein Leutenant oder sonst ein namhafftige ehrliche person herumb schicken/zu allen Wehren/das Kriegßuolck lassen trösten vnd ansprechen/auch besehen ob jedermann an dem orth sey/dahin er verordnet ist/vnnd wie man sich an allen orthen halt/oder mag er am platz bey dem Kriegßuolck die sachen mit seinem Leutenant versehen/vnd er selbs zu den Wehren vmbher sehen.
+  cs: |-
+    poslat svého poručíka {Leutenant} nebo jinou význačnou čestnou osobu dokola ke všem hradbám, aby válečný lid {Kriegßuolck} povzbudil a promluvil k němu a také zjistil, zda je každý na místě, kam byl určen, a jak se na všech místech drží. Anebo může věci na prostranství u válečného lidu obstarat skrze svého poručíka a sám obejít hradby.
+- typ: odstavec
+  de: |-
+    Item auff allen Wehren vnd plätzen/soll man gůte gleserne Lucernen haben/darinnen so lärmen wird/man liechter anzündt/vnd jedermann gesehen könne.
+  cs: |-
+    Dále se mají na všech hradbách a prostranstvích mít dobré skleněné lucerny, v nichž se při poplachu zapálí svíce, aby každý viděl.
+- typ: odstavec
+  de: |-
+    Deßgleichen soll man in allen gemachen des Schloß vnnd in der Besatzung Lucernen haben/damit so lärmen wird/daß man gesehe/hin vnnd herwider zůlauffen wo noth ist.
+  cs: |-
+    Stejně tak se mají mít lucerny ve všech místnostech hradu a v posádce {Besatzung}, aby bylo při poplachu vidět běhat sem a tam, kam je třeba.
+- typ: odstavec
+  de: |-
+    Item so soll man etliche Ampeln vnnd Nachtliechter nachts an gelegnen orten brennen/damit so noth geschicht/daß man liecht machen könne.
+  cs: |-
+    Dále se má v noci na vhodných místech nechat hořet několik lamp a nočních světel, aby se dalo v případě nouze rozsvítit.
+- typ: odstavec
+  de: |-
+    Item dem Zeugmeyster oder Zeugwart soll alles so jhme vberantwort vnd befohlen wird/inuentiert werden/Der soll auch alle ding wamit er vmbgeht/ordenlich beschreiben/vnd zu gelegner zeit gůt erbar Rechnung darumb wissen zůgeben.
+  cs: |-
+    Dále všechno, co se zbrojmistrovi {Zeugmeyster} nebo zbrojnímu správci {Zeugwart} odevzdá a svěří, se má zapsat do inventáře. Ten má také všechno, s čím zachází, řádně zapisovat a v příhodnou dobu z toho umět vydat dobrý a poctivý počet.
+- typ: odstavec
+  de: |-
+    Der Zeugwart soll auff alle ding ein fleissigs auffmercken haben/darmit wo er spürte oder erführe daß etwann mangel erscheinen wölt/daß er dasselbig bey zeit anzeyge/damit man alle mängel erstatten möge.
+  cs: |-
+    Zbrojní správce má na všechno bedlivě dohlížet, aby, kdyby zpozoroval nebo zjistil, že se někde začíná projevovat nedostatek, to včas ohlásil a všechny nedostatky se daly nahradit.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Ein feiner anschlag auß einer Besatzung eins Schloß/so es je nicht mehr zůerhalten/von Feinden zůkommen.
+  cs: |-
+    Dobrý úskok, jak se z posádky hradu, který již nelze udržet, dostat pryč od nepřátel
+- typ: odstavec
+  de: |-
+    ITem so man ein Besatzung eines Schloß je länger nicht erhalten/auch zu keyner zimlichen leidlichen richtung kommen mag/So soll man alles was köstlich ist/als gelt/silber/goldt/silbergeschirr/kleynoter/so vil möglich/man treiben vnnd tragen mag/auff die starcken so tragen mögen/laden/doch dermassen/daß es/so sich noth zůtrüge/am wehren vnnd hinkommen nicht nachtheyl bringe/zůuorderst aber/soll was des Herrn ist/vnterstanden werden hinweg zůbringen/das soll dannzumal so es daruon gebracht ist/dem Herren/oder so er nicht vorhanden/seinen Erben getrewlich zůgestellet vnnd vberantwort werden/bey verlierung der ehren.
+  cs: |-
+    Dále, nelze-li již posádku hradu déle udržet a nelze-li dojít ani k nějaké přiměřené a snesitelné dohodě, má se všechno cenné – peníze, stříbro, zlato, stříbrné nádobí, klenoty –, kolik je jen možné odvézt a odnést, naložit na silné muže, kteří to unesou, avšak tak, aby jim to v případě nouze nepřekáželo v boji a v odchodu. Především se však má usilovat o odnesení toho, co patří pánovi; a až se to dostane pryč, má se to pánovi, nebo není-li ho, jeho dědicům věrně doručit a odevzdat, pod ztrátou cti.
+- typ: odstavec
+  de: |-
+    So man dann also abziehen/vnnd die Besatzung verlassen wil/soll man alles Geschütz auff den platz ziehen/mit dem vorderen theyl gegen den Pforten wenden/dermassen laden/daß es so es abgeht/zerspringt/Darnach soll man alles Puluer dahin vnnd in die besten Wehren/so noch vorhanden/setzen/vnnd anlauff machen/dermassen/daß etwann in einer stund/anderhalben oder zweyen/nach dem man auß dem Schloß kommen ist/angehe/dannzumal soll auch das Schloß allenthalben mit Stroh/Holtz/Puluer vnnd anderm zum brennen angespickt sein/So dann die zeit kompt/daß die lunden angehen/so geht alles geschütz ab/zersprengt die büchsen/
+  cs: |-
+    Když se tedy chce odtáhnout a posádku opustit, mají se všechna děla {Geschütz} stáhnout na prostranství, obrátit ústím k branám a nabít tak, aby se při výstřelu roztrhla. Potom se má všechen střelný prach {Puluer} rozmístit tam a do nejlepších obranných staveb, které ještě zbývají, a udělat k němu zápal tak, aby vzplanul asi za hodinu, hodinu a půl nebo dvě poté, co se z hradu vyšlo. Tehdy má být také celý hrad všude napěchován slámou, dřevem, prachem a jinými hořlavinami. Když pak přijde čas, kdy doutnáky {lunden} dohoří, všechna děla vystřelí, roztrhají hlavně,

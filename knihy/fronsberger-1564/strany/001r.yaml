@@ -1,0 +1,26 @@
+id: 001r
+list: I
+strana: recto
+sken: 9
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Was einem Herren so Krieg fürnemen wil/am notturfftigsten zubetrachten vnd zuerwegen gebürt.
+  cs: Co náleží pánovi, který chce začít válku, nejpředněji uvážit a rozvážit
+- typ: odstavec
+  de: |-
+    ZVm aller ersten vnd fürnemlichsten/ist einem Herren so Krieg führen wil/der handel vnnd sach/darumb er den Krieg fürnimpt/zubedencken/ob dasselbig sein vnnd seiner vnderthanen vnuermeidenliche geträngte notturfft/sie bey billichkeyt/frid/recht/haab vnnd gůt zuerhalten/vnnd durch keyn ander mittel/dann durch Krieg vnd Schwerdt/die billigkeyt erhalten vnd außgeführt möge werden. Dann es ist zubedencken was grosser vnrath auß Kriegen entstehe/dann dardurch kommen großmechtige Fürsten/Herren vnnd Potentaten in entpörung vnnd vnrůhe/henckt sich einer an den andern/machen partheien/vnnd entsteht gemeynlich grosser vnrath weit vnd breyt/Es werden vil vnschüldiger Witwen vnd Weysen gemacht/kommen fromme vnschüldige Leuth darbey vmb leib/leben vnnd gůt/man verbrennt vnnd verderbt Landt vnd Leuth/sampt noch andern vil plagen vnd trübseligkeyten/so auß Kriegen entstehn/das dann mehrertheyls vber die Armen vnnd vnschüldigen geht/Darüber der Allmechtig Gott erzürnet/die Kriegßherren sampt den jhenigen so jhnen darzů rathen vnd helffen/souil armer Leuth/Witwen vnd Weysen machen/schwere Rechnung darumb vor dem Richterstůl Gottes geben/vnnd wie zubesorgen/ewige pein vnd straff darumb leiden müssen/darzů ist auch sonderlich einem zubedencken/daß es Christlicher ist/gewalt leiden/dann vnbillich gewalt thůn.
+  cs: |-
+    Ze všeho nejprve a především má pán, který chce vést válku, uvážit celou záležitost a věc, pro kterou válku začíná: zda je to jeho i jeho poddaných nevyhnutelná a naléhavá nutnost, aby je zachoval při spravedlnosti, pokoji, právu, jmění a statku, a zda lze spravedlnost uhájit a prosadit jedině válkou a mečem, a ne žádným jiným prostředkem. Neboť je třeba uvážit, jak velké neštěstí z válek povstává: mocní knížata, páni a vládci se jimi dostávají do vzpoury a nepokoje, jeden se přidává k druhému, tvoří se strany a obvykle z toho vzejde velké neštěstí široko daleko. Mnoho nevinných lidí se stává vdovami a sirotky, zbožní a nevinní lidé přitom přicházejí o tělo, život i statek, vypalují se a hubí země i lidé, spolu s mnoha dalšími pohromami a strastmi, které z válek pocházejí a které většinou dopadají na chudé a nevinné. Tím se rozhněvá Všemohoucí Bůh a váleční páni {Kriegßherren} spolu s těmi, kdo jim k tomu radí a pomáhají a dělají z tolika chudých lidí vdovy a sirotky, z toho budou muset vydat těžký počet před soudnou stolicí Boží a, jak se lze obávat, za to trpět věčná muka a trest. Kromě toho má každý obzvlášť uvážit, že je křesťanštější násilí trpět než nespravedlivě násilí páchat.
+- typ: odstavec
+  de: |-
+    Item er erwäge vnd betracht sein selbs/auch seines gegentheyls stercke/krafft vnnd macht/gleicher gestalt auch sein selbs vnd seines gegentheyls freundschafft/anhang vnd blůtuerwandten/Dann einem fürsichtigen Kriegßfürsten soll seiner Feind macht nicht verborgen sein/dann vorbetrachte zufäll schaden nicht souil/was aber vngewarneter sachen zufellt/darab entsetzt man sich leichtlich/zuuor in Kriegßhändeln/da man nicht zeit vnnd weil hat den gefährligkeyten zubegegnen/dann in allen dingen ist ein ding ehe zubessern dann im Krieg/dann so es den weg ergreifft/volgt gemeynlich die straff.
+  cs: |-
+    Dále má zvážit a posoudit svou vlastní sílu, zdatnost a moc i sílu svého protivníka, a stejně tak své vlastní i protivníkovo příbuzenstvo, stoupence a pokrevní přátele. Neboť prozíravému válečnému knížeti {Kriegßfürsten} nemá zůstat skryta moc jeho nepřátel: nehody předem uvážené tolik neškodí, ale z toho, co přijde nenadále, se člověk snadno zděsí, zvláště ve válečných věcech, kde není čas ani chvíle čelit nebezpečím. Ve všech věcech lze totiž chybu napravit snáze než ve válce; jakmile se tu jednou stane, obvykle za ní následuje trest.
+- typ: odstavec
+  de: |-
+    Item was für böß Stätt vnnd Schlösser er vor jhme hab zubekriegen vnd zu erobern/ob sie auch zugewinnen seien oder nicht/auch mit wie vil vnd wasserley Geschütz/vnd in was zeit/damit er sein Kriegßrüstung darnach könte angeschicken/viel grossen vnkosten zuuerhůten/vnnd so solche Stätt vnnd Schlösser vorhanden/die
+  cs: |-
+    Dále [má uvážit], jak nesnadná města a hrady má před sebou k boji a dobývání, zda je vůbec lze získat, či nikoli, a také s kolika a s jakými děly {Geschütz} a za jak dlouho, aby podle toho mohl zařídit svou válečnou přípravu a vyhnout se mnoha velkým nákladům; a jsou-li tu taková města a hrady, která

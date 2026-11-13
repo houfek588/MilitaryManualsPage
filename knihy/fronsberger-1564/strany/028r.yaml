@@ -1,0 +1,56 @@
+id: 028r
+list: XXVIII
+strana: recto
+sken: 63
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Büchsenmeyster mit allem fleiß beschantzen vnd besorgen/alles nach gelegenheyt der gegenwehr/daselbst soll die Schantz am stercksten vnd besten verwart sein.
+  cs: |-
+    puškaře {Büchsenmeyster} se vší pilností krýt šancemi a zabezpečit, vše podle toho, jaká je obrana nepřítele; právě tam má být šance {Schantz} nejsilnější a nejlépe zajištěná.
+- typ: odstavec
+  de: |-
+    Deßgleichen soll er auch die wacht mit gräben vnnd in ander weg/wie er auffs best mag/verschantzen/damit sie vnd das Geschütz vorm vberfall der Feind verwart vnd versichert mögen sein.
+  cs: |-
+    Stejně tak má i stráž {wacht} příkopy a jinými způsoby, jak nejlépe umí, opevnit šancemi, aby ona i děla {Geschütz} byly chráněny a zabezpečeny před přepadením nepřítele.
+- typ: odstavec
+  de: |-
+    Vnnd ist deß Schantzmeysters besoldung ein Monat souil als ein Fůßknechts Hauptmanns/darzů soll jhm gehalten werden ein jung vnd zwen Trabanten/wil er dann/so mag er eins oder zwey gerüste Pferdt die an der musterung bestehen mögen/auch halten/die sollen jme gemustert vnd gůt gemacht werden/doch sollen sich dieselbigen auch bey der Arckelley wie ander Zeugdiener gebrauchen lassen.
+  cs: |-
+    Šancmistrův {Schantzmeysters} žold {besoldung} je měsíčně tolik jako [žold] hejtmana pěchoty {Fůßknechts Hauptmanns}; k tomu se mu má vydržovat pachole {jung} a dva drabanti {Trabanten}. Chce-li, může držet také jednoho nebo dva zbrojné koně {gerüste Pferdt}, kteří obstojí při přehlídce {musterung}; ty mu mají být při přehlídce uznány a zaplaceny. Ti [jezdci] se však také mají dát u dělostřelectva {Arckelley} použít jako ostatní zbrojní služebníci {Zeugdiener}.
+- typ: nadpis
+  uroven: 2
+  de: Der Schantzbawren sampt jhres Hauptmanns befelch/stath vnd besoldung.
+  cs: Pověření, stav a žold šancířů {Schantzbawren} a jejich hejtmana
+- typ: odstavec
+  de: |-
+    ITem zu der Arckelley sollen weniger nicht dann vierhundert Schantzbawren gehalten vnd besöldt werden/der darff man allezeit/vnd ist ein sehr nütz volck/also daß man jhr keyns wegs gerathen mag/sie werden zu vil notturfftiger arbeyt die dem gantzen Läger zu fürschub vnd gůtem kompt/gebraucht/dann so etwann ein gantz Feldläger brücken/weg vnd steg halben můß still ligen/die durch die Schantzbawren gemacht würden/was gehet dem Kriegßherrn für ein mercklicher kosten darauff/ich geschweig/daß die saumnuß zu mercklichem grossem nachtheyl reycht/So man dann Schantzen soll etwann in einer nacht/das inn der eyl nicht wol geschehen mag/was bringt das etwann den Feinden für ein grossen vorstandt/vnd dem Kriegßherrn nachtheyl/mögen die Feind dieselbig weil bawen/daß man darnach etwann vil tag dester lenger zuschiessen hat/oder villeicht gar nicht mehr gewinnen mag/Darumb soll sich keyn Herr bedawren lassen/was jhme auff die Schantzbawren gehet/ein tag bringt wider was sie ein gantzen Monat kosten.
+  cs: |-
+    Dále: u dělostřelectva se má vydržovat a platit nejméně čtyři sta šancířů. Těch je potřeba neustále a je to velmi užitečný lid, takže se bez nich nijak nelze obejít; používají se k mnoha nutným pracím, které slouží k prospěchu a dobru celého ležení {Läger}. Musí-li totiž někdy celé polní ležení {Feldläger} stát kvůli mostům, cestám a lávkám, které by jinak udělali šancíři, jaký značný náklad z toho válečnému pánu {Kriegßherrn} vzejde – nemluvě o tom, že prodlení vede ke značné a velké škodě. Má-li se pak někdy šancovat za jedinou noc, což ve spěchu dobře nejde, jakou velkou výhodu to někdy přinese nepříteli a škodu válečnému pánu! Nepřítel může mezitím stavět, takže se pak třeba musí střílet o mnoho dní déle, nebo se [místo] možná už vůbec nedá dobýt. Proto žádnému pánu nemá být líto, co ho šancíři stojí: jeden den vrátí, co stojí za celý měsíc.
+- typ: odstavec
+  de: |-
+    Jhr Hauptmann soll halten ein gerüst pferd/vnd damit wie ander Zeugdiener gebraucht werden.
+  cs: |-
+    Jejich hejtman {Hauptmann} má držet zbrojného koně a dát se s ním použít jako ostatní zbrojní služebníci.
+- typ: odstavec
+  de: |-
+    Er soll darob vnd daran sein/darmit die Santzbawren jhr Losament zu nacht bey der Arckelley haben/wann man jr bedarff/daß sie bey der hand seyen.
+  cs: |-
+    Má dbát, aby šancíři měli na noc své ubytování {Losament} u dělostřelectva, aby byli po ruce, když jich je třeba.
+- typ: odstavec
+  de: |-
+    Der Hauptmann soll bey seinem Eyd keym Bawrn erlauben oder auffnemen/ohn deß Zeugmeysters wissen vnd befelch.
+  cs: |-
+    Hejtman nemá pod svou přísahou {Eyd} žádného sedláka propustit ani přijmout bez vědomí a rozkazu zbrojmistra {Zeugmeysters}.
+- typ: odstavec
+  de: |-
+    Wo auch ein Schantzbawr schaden neme/vmbkäme/oder sonst stürb/oder entlieff/das soll der Hauptmann bey seinem Eyd dem Zeugmeyster anzeygen vnd nicht verhalten/darmit er im Register außgethon/vnd andere an sein statt angenommen werden.
+  cs: |-
+    Kdyby také některý šancíř byl zraněn, přišel o život, nebo jinak zemřel či utekl, má to hejtman pod svou přísahou oznámit zbrojmistrovi a nezatajit, aby byl vyškrtnut z rejstříku {Register} a na jeho místo byli přijati jiní.
+- typ: odstavec
+  de: |-
+    Es soll auch der Hauptmann mit sampt dem Zeugschreiber vnnd Leutenant
+  cs: |-
+    Hejtman má také spolu se zbrojním písařem {Zeugschreiber} a poručíkem {Leutenant}

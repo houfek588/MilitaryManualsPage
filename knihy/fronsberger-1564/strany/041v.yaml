@@ -1,0 +1,45 @@
+id: 041v
+list: XLI
+strana: verso
+sken: 90
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    herziehen/alßdann verordnet er etliche seiner Vnterhauptleuth/das geht vmb vnter jhnen/die reytten neben vnd hinder der ordnung her/halten die Knecht zůsammen/damit sie in der Ordnung seyen vnd bleiben.
+  cs: |-
+    jet; potom ustanoví několik svých podhejtmanů {Vnterhauptleuth}, kteří se v tom mezi sebou střídají; ti jedou vedle šiku {ordnung} a za ním a drží knechty {Knecht} pohromadě, aby byli a zůstali v šiku.
+- typ: odstavec
+  de: |-
+    So sich lärmen im Feldt am Zug oder Läger zůtregt/soll er dauornen daran sein/damit die Fůßknecht in jhr Ordnung kommen/recht geordnet werden/mit sampt den Schützen vnd Flügeln/darzů soll er zuuor die erfarnesten/geschicktisten vnd gebrauchtisten vnter den Hauptleuten/Befelchßleuthen vnnd Feldtweybeln/ein notturfftig anzal außerlesen vnd verordnet haben/die zu den Schützen vnd Flügeln/die Hellenparten vnnd kurtzen Wehre zůsammen zuordnen vnnd einzutheylen/allen andern Befelchsleuthen soll befolhen werden/zu anderm Kriegsvolck in die Ordnung zustehn/damit nicht jedermann ordnung machen wölle/vnd was einer mach/der ander wider zerbrech/vnd mehr versaumpt vnd verhindert/dann nutz geschafft vnd gefürdert werde.
+  cs: |-
+    Nastane-li v poli poplach {lärmen} na pochodu {Zug} nebo v ležení {Läger}, má být vepředu při tom, aby se pěší knechti {Fůßknecht} dostali do svého šiku a byli správně seřazeni i se střelci {Schützen} a křídly {Flügeln}. K tomu má mít předem vybraný a ustanovený potřebný počet nejzkušenějších, nejschopnějších a nejosvědčenějších z hejtmanů {Hauptleuten}, velitelů {Befelchßleuthen} a šikovatelů {Feldtweybeln}, kteří mají ke střelcům a křídlům sestavit a rozdělit halapartny {Hellenparten} a krátké zbraně {kurtzen Wehre}. Všem ostatním velitelům se má přikázat, aby se postavili do šiku k ostatnímu válečnému lidu, aby nechtěl šik stavět každý a co jeden udělá, druhý zase nerozbil, a tím se víc nezameškalo a nepokazilo, než prospělo a pomohlo.
+- typ: odstavec
+  de: |-
+    Dann soll der Oberst vmb die Ordnung reytten/besehen/daß alle ding recht vnd nach notturfft werden angeschickt/Er soll auch dem Kriegßvolck dapffer zůsprechen/die kecken/dapffern vnd mannlichen trösten vnnd ermanen/die verzagten vnnd kleynmütigen/wo er deren sicht/schelten vnd straffen/Er soll auch mit andern Obersten vnnd Kriegßräthen berathschlagen/wie man die hauffen in vortheyl führen/wie man sich mit den hauffen theylen/der Feind warten oder angreiffen wölle.
+  cs: |-
+    Potom má plukovník {Oberst} objet šik a dohlédnout, aby bylo všechno správně a podle potřeby připraveno. Má také válečnému lidu statně domlouvat, smělé, udatné a mužné povzbuzovat a napomínat, malomyslné a zbabělé, uvidí-li je, kárat a trestat. Má se také s ostatními plukovníky a válečnými rady {Kriegßräthen} radit, jak houfy {hauffen} vést do výhodného postavení, jak se s houfy rozdělit a zda se má na nepřítele čekat, nebo zaútočit.
+- typ: nadpis
+  uroven: 3
+  de: Der Eydt.
+  cs: Přísaha {Eydt}
+- typ: odstavec
+  de: |-
+    DEs Obersten der Fůßknecht Eydt wirdt gestellt nach des Feldtmarschalcks Eyd/so vil die verwaltung des Kriegßvolcks/den Kriegßrath/des Herrn ehr/nutz vnd wolfart/vnd gemeyne puncten betrifft/was aber seinethalben sondere puncten die notturfft erfordert/die stellt man jhme in sein Eyd/nach erheyschung der notturfft des Kriegßherrn will vnd gůt bedüncken.
+  cs: |-
+    Přísaha plukovníka pěchoty se sestavuje podle přísahy polního maršálka {Feldtmarschalcks}, pokud jde o správu válečného lidu, válečnou radu {Kriegßrath}, čest, prospěch a blaho pána a obecné body; zvláštní body, které jsou u něho zapotřebí, se mu dávají do přísahy podle potřeby, vůle a dobrého uvážení válečného pána {Kriegßherrn}.
+- typ: odstavec
+  de: |-
+    Es werden auch gemeynlich Reuerß zwischen dem Kriegßhern vnd Fůßknecht Obersten gemacht vnd auffgericht/vngefährlich also.
+  cs: |-
+    Mezi válečným pánem a plukovníkem pěchoty se také obvykle sepisují a zřizují reversy {Reuerß}, přibližně takto.
+- typ: nadpis
+  uroven: 3
+  de: Copia eines Obersten Bestallung anderer Form.
+  cs: Opis služebního listu {Bestallung} plukovníka v jiné podobě
+- typ: odstavec
+  de: |-
+    WJr N. von Gottes gnaden Hertzog zu N. etc. Thůn kundt meniglich mit disem Brieff/Demnach wir auß rechtmessigen billichen vrsachen verursacht/zu schutz vnnd schirm vnsers Fürstenthumbs ein anzal Landsknecht anzunemen/vnd neben vnd mit andern in vnsern dienst vermöcht den Edlen N. zu N. etc. Vns mit einer anzal ermelter Landsknecht als ein Oberster vber etliche Fändlin/so lang Gott der Allmechtig jme das vergünnt/vnnd wir sein bedürfftig/als einem vom Adel gebürt trewlich vnnd redlich zudienen/mit den seinen entgegen/vnnd wider aller meniglich vnsere widerwertigen/wer/vnd wie die sein möchten. Vnnd wiewol wir
+  cs: |-
+    My, N., z Boží milosti vévoda v N. atd., oznamujeme tímto listem každému: Protože jsme byli z oprávněných a spravedlivých příčin přinuceni přijmout k ochraně a obraně našeho knížectví určitý počet lancknechtů {Landsknecht} a vedle jiných a spolu s nimi jsme do svých služeb získali urozeného N. z N. atd., aby nám s určitým počtem zmíněných lancknechtů jako plukovník nad několika praporci {Fändlin}, dokud mu to Bůh všemohoucí dopřeje a dokud ho budeme potřebovat, věrně a poctivě sloužil, jak náleží šlechtici, a se svými lidmi stál proti všem našim protivníkům, ať jsou kdokoli a jacíkoli. A ačkoli jsme

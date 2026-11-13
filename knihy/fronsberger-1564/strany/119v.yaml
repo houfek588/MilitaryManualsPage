@@ -1,0 +1,59 @@
+id: 119v
+list: CXIX
+strana: verso
+sken: 246
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    angriffen/etwann also ferr vor der Schlacht ordnung einschliessen/daß die knecht jhr mördlich geschrey nicht zaghafftig mache.
+  cs: |-
+    útocích jej [má] uzavřít v takové vzdálenosti od bitevního šiku {Schlacht ordnung}, aby knechty {knecht} jejich vražedný křik nezastrašil.
+- typ: nadpis
+  uroven: 2
+  de: Befelchßleuth.
+  cs: Velitelé
+- typ: odstavec
+  de: |-
+    DJe sollen sich gegen jhrem trewen Fürsten vnd hauffen zu aller noth wol bereyt/tröstlich/frisch/geschwind/klůg vnnd frölich erzeygen/Die Fendlin/Spieß/Hellenparten/Handtrohr/Schlachtschwerdt/behend mit schimpflichen worten absündern vnd abzelen/damit sie dieselbige nach erforderung der noth/künstlich ein vnd außtheylen/anhencken vnd absetzen können.
+  cs: |-
+    Ti [velitelé {Befelchßleuth}] se mají vůči svému věrnému knížeti a houfu {hauffen} v každé nouzi ukázat dobře připravení, srdnatí, svěží, hbití, chytří a veselí. Praporce {Fendlin}, kopí {Spieß}, halapartny {Hellenparten}, ručnice {Handtrohr} a obouruční meče {Schlachtschwerdt} mají s žertovnými slovy hbitě oddělit a odpočítat, aby je podle potřeby mohli umně rozmisťovat a rozdělovat, připojovat a odvolávat.
+- typ: nadpis
+  uroven: 2
+  de: Ringe Pferd.
+  cs: Lehká jízda
+- typ: odstavec
+  de: |-
+    DJeweil solche vmb jhrer geschwindigkeyt wegen/keyn beharlichen platz haben mögen/sondern allein deß glücks achten/jhre Knecht entschütten/die zertrente feind erlegen/vnd wo jhr hauff am schwechsten ist/gemeyniglich bereyt zurück durchbrechen mögen/Darumb soll ein jeglichs geschwader/die geübste/erfarnste/klůgste/Mannhafftigste vnd geschwindeste Amptleuth vnnd Führer haben/die nach gelegenheyt deß Lands/der zeit vnd falls/die jhren erretten/vnd die feind verletzen können/vnd die flüchtige Knecht wider herfür stechen/den gezwungnen abzug aber/mit außgedentem mantel/so langs möglich ist/biegen/Were jhm deß Feinds Reysiger zeug zu starck/setz er hinder ein jeden Reysigen ein Schützen oder Landtsknecht/vnd stell jhre Troßbuben mit glitzenden helmlinen vnnd Glenen von weitte/daß jhene meynen/sie haben noch ein starcken nachtruck/Reysige Schützen seind in Welschen landen jetzt auch wunder breuchlich/vnd in der menge sehr vortheylig.
+  cs: |-
+    Protože tito [jezdci] pro svou rychlost nemohou mít žádné stálé místo, nýbrž hledí jen na štěstí, mají pomáhat svým knechtům {Knecht}, pobíjet rozptýlené nepřátele a tam, kde je jejich houf nejslabší, být obvykle připraveni prorazit [jím] zezadu. Proto má mít každá švadrona {geschwader} nejvycvičenější, nejzkušenější, nejchytřejší, nejmužnější a nejhbitější velitele {Amptleuth} a vůdce {Führer}, kteří podle povahy krajiny, času a situace dokážou své lidi zachránit a nepřátele poškodit a prchající knechty znovu hnát kupředu, vynucený ústup však co nejdéle krýt a zdržovat rozestřeným „pláštěm“.[^1] Kdyby byla nepřátelská jízda {Reysiger zeug} příliš silná, ať posadí za každého jezdce jednoho střelce nebo lancknechta {Landtsknecht} a ať postaví v dálce jejich chlapce od trénu {Troßbuben} s lesklými přilbicemi a kopími {Glenen}, aby si [nepřátelé] mysleli, že mají za sebou ještě silnou zálohu. Jízdní střelci {Reysige Schützen} jsou teď ve vlašských zemích také velmi obvyklí a ve velkém počtu velmi výhodní.
+- typ: nadpis
+  uroven: 2
+  de: Kürisser.
+  cs: Kyrysníci
+- typ: odstavec
+  de: |-
+    GAntz vnnd halb Kürisser sollen sich auch absündern/daß man sie dest behender nach deß Fürsten geheyß/einführen/vornen stellen mög/oder anhencken/sonderlich an dem orth da die Pferd jhren lauff vnd raum haben mögen.
+  cs: |-
+    Celí a poloviční kyrysníci {Kürisser}[^2] se mají také oddělit, aby je bylo možno tím hbitěji podle rozkazu knížete nasadit, postavit dopředu nebo připojit, zvláště na místě, kde mají koně prostor k rozběhu.
+- typ: nadpis
+  uroven: 2
+  de: Feldgeschütz.
+  cs: Polní dělostřelectvo
+- typ: odstavec
+  de: |-
+    DAs soll mit künen Büchsenmeystern allzeit in bereyter rüstung/sauber gereyniget/gewichtlich gefaßt/vnd allein auß deß Fürsten willen gefürt vnnd von dem Wind gerichtet/daß die Knecht nicht beschediget werden/abgeschossen werden/Hat aber der feind mehr Geschütz/soll er jhn im platzregen vnnd dicken nachtnäbel vberfallen.
+  cs: |-
+    To [polní dělostřelectvo {Feldgeschütz}] má být se smělými puškaři {Büchsenmeystern} vždy v pohotovosti, čistě vyčištěné, nabité správnou vahou [prachu], má se vozit jen podle vůle knížete a střílet po větru, aby [kouř a oheň] nepoškodily knechty. Má-li však nepřítel více děl, má ho přepadnout za lijáku a v husté noční mlze.
+- typ: nadpis
+  uroven: 2
+  de: Schlachtordnung.
+  cs: Bitevní šik
+poznamky:
+- n: 1
+  text: |-
+    „mit außgedentem mantel“ – obraz rozestřeného pláště: lehká jízda se rozvine do široké clony, která kryje ustupující vojsko a zdržuje pronásledovatele.
+- n: 2
+  text: |-
+    Kürisser – těžký jezdec v plné (celé) zbroji; „poloviční kyrysník“ měl lehčí zbroj (bez dolních končetin) a slabšího koně.

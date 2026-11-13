@@ -1,0 +1,57 @@
+id: 091r
+list: XCI
+strana: recto
+sken: 189
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    auffmundern/vnd darob vnnd daran sein/daß die Wacht mit gůtem fleiß versehen/nichts vbersehen vnd versaumpt werde.
+  cs: |-
+    burcovat a dbát a starat se o to, aby se stráž držela s dobrou pílí a nic se nepřehlédlo ani nezanedbalo.
+- typ: odstavec
+  de: |-
+    In Besatzung der Stätt vnnd Schlösser soll die Wacht mit allerley Secten der Völcker/so in der Besatzung seind vermischt/besetzt werden/Also weyß keyner wann die Wacht an jhn kompt/oder wo er wachen soll/damit wirdt alle gefährd der meuterey verhindert.
+  cs: |-
+    V posádkách {Besatzung} měst a hradů se má stráž obsazovat promíchaně ze všech skupin lidu, který v posádce je. Nikdo tak neví, kdy na něho stráž přijde nebo kde bude strážit, a tím se zamezí každému nebezpečí vzpoury {meuterey}.
+- typ: odstavec
+  de: |-
+    Gleicher gestalt soll die Tagwacht vngefährdt besetzt/vnnd allwegen verwechselt werden/Der Hauptmann der wacht soll vnter der eussersten Pforten sein/damit so jemandt etwas anzůbringen hette/daß er den Hauptmann daselbs finde/auch von den jenigen/so auß der Besatzung verschickt werden/oder sonst zůschaffen haben/die zeychen oder Polleten/die er nachts dem Obersten wider geben soll/empfahe.
+  cs: |-
+    Stejně tak se má denní stráž obsazovat podle losu a pokaždé střídat. Hejtman {Hauptmann} stráže má být v nejzazší bráně, aby ho tam našel každý, kdo by měl něco ohlásit, a aby od těch, kdo jsou z posádky vysíláni nebo mají venku jiné záležitosti, přebíral značky nebo propustky {Polleten}, které má v noci vrátit plukovníkovi {Obersten}.
+- typ: odstavec
+  de: |-
+    Es soll die Tagwacht nicht abgehen/es sey dann die Nachtwacht zůgegen vnd besetzt/gleichergestalt soll morgens die Nachtwacht nicht abgehen/es sey dann die Tagwacht besetzt.
+  cs: |-
+    Denní stráž nemá odejít, dokud noční stráž není přítomna a nastoupena; stejně tak ráno nemá odejít noční stráž, dokud není nastoupena denní.
+- typ: odstavec
+  de: |-
+    Man soll auch die Pforten morgens nit öffnen/man soll sich zůuor auff allen Thürnen/Wachten vnnd höhen wol vmbsehen/auch etlich vertrawte hinauß schicken/sich außwendig der Pforten vmbzůsehen/mitlerweil sollen die Pforten zůbehalten/vnd nicht geöffnet werden.
+  cs: |-
+    Ráno se také nemají otvírat brány, dokud se předtím ze všech věží, strážních stanovišť a vyvýšených míst dobře nerozhlédne kolem a dokud se nepošle ven několik důvěryhodných mužů, aby se rozhlédli před branami; mezitím mají brány zůstat zavřené a neotvírat se.
+- typ: odstavec
+  de: |-
+    Es ist auch gůt/daß allwegen bey den eussersten Pforten gůte starcke liechtgattern vnd liecht zeun seien/damit kan man sich wol vmbsehen/ehe man sie öffnet.
+  cs: |-
+    Je také dobré, aby u nejzazších bran byly vždy dobré silné průhledné mříže a laťové ploty; skrze ně se lze dobře rozhlédnout, než se brány otevřou.
+- typ: odstavec
+  de: |-
+    Man soll auch niemandt einlassen ohne anbringen des Obersten/ob gleich der Kriegßherr selbs käme/vnnd so man jemandt einlasset/so er durch die ersten Pforten kompt/soll man die andern nicht öffnen/es sey dann zůuor die erst wider zůgesperret.
+  cs: |-
+    Nikoho se také nemá vpustit bez ohlášení plukovníkovi, i kdyby přišel sám válečný pán {Kriegßherr}. A když se někdo vpouští, nemá se po jeho průchodu první branou otevřít další, dokud se ta první zase nezamkne.
+- typ: odstavec
+  de: |-
+    Bey den Wasserheusern/soll man Schwanen/wilde Andtvögel vnd dergleichen haben/man soll auch die Aglaster/vnnd was dergleichen vögel seind dabey nicht vertreiben/deßgleichen auch bey den Bergheusern/sonderlich Pfawen/es seind sehr gůte Wächter/sie verschweigen nichts/es seind auch die Frösch Sommerszeiten/so sie jhr geschrey haben/gůte Wächter/dann so jemandts herzů auff den Graben schleicht/so schweigen sie still/dabey mögen die Wächter abnemen/daß etwas vorhanden ist/Zů dem/die jenigen Frösch so auff den gestaden ligen/die fallen vnnd pflumpffen mit einem gedöß ins wasser/dabey mögen die Wächter abermals jhre zeychen haben.
+  cs: |-
+    U vodních hradů se mají chovat labutě, divoké kachny a podobně; ani straky a podobné ptáky se odtud nemá vyhánět. Stejně tak u hradů na horách, zvláště pávy: jsou to velmi dobří strážci, nic nezamlčí. V letním čase jsou dobrými strážci také žáby, když kvákají: připlíží-li se někdo k příkopu, utichnou, a z toho mohou strážní poznat, že se něco děje. Navíc žáby, které sedí na březích, skáčou a s hlukem žbluňkají do vody, a i z toho mohou mít strážní znamení.
+- typ: odstavec
+  de: |-
+    Deßgleichen seind die Hund/so man sie tags versperrt helt/vnd nachts lauffen läßt/gůte Wächter.
+  cs: |-
+    Stejně tak jsou dobrými strážci psi, drží-li se přes den zavření a v noci se pouštějí na volno.
+- typ: odstavec
+  de: |-
+    Item so ein lärmen wirdt/soll der Oberst sich allwegen auff dem platz/da der Fänderich/die Spiel/vnnd der meyste hauff bey einander ist/finden lassen/dann soll
+  cs: |-
+    Dále, nastane-li poplach, má se plukovník vždy zdržovat na prostranství, kde je pohromadě praporečník {Fänderich}, hudba {Spiel} a největší houf {hauff}. Potom má

@@ -1,0 +1,49 @@
+id: 058r
+list: LVIII
+strana: recto
+sken: 123
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd vrtheyl sprechen/vnd dieselbig vollenziehen lassen. Man mag diesen Eydt nach notturfft scherpffen vnd setzen/Also schwören auch die Gerichtsleuth dem Obersten jres Regiments.
+  cs: |-
+    a rozsudek vynést a dát jej vykonat. Tuto přísahu {Eydt} lze podle potřeby zostřit a upravit. Stejně tak přísahají i soudní přísedící {Gerichtsleuth} plukovníkovi {Obersten} svého pluku.
+- typ: odstavec
+  de: |-
+    Sein Besoldung wird jhm auß obangezeygten vrsachen stattlich mitgetheylt/zum wenigsten Fänderichs sold/etwann Hauptmanns sold.
+  cs: |-
+    Žold se mu z výše uvedených důvodů vyměřuje štědře: nejméně žold praporečníka {Fänderichs}, někdy i žold hejtmana.
+- typ: odstavec
+  de: |-
+    Vnnd wird jhme behalten ein Trabant vnd ein Jung/der an der Musterung mit seiner Wehr/die er haben/vnd so not/damit in die Ordnung stehen soll/bestehen mag.
+  cs: |-
+    Také se mu vydržuje drabant {Trabant} a pachole {Jung}; [drabant má být takový,] aby obstál při přehlídce {Musterung} se zbraní, kterou má mít a s níž se má v případě potřeby postavit do šiku.
+- typ: nadpis
+  uroven: 2
+  de: Ampt/Befelch vnd Eyd der Gerichtsleuth.
+  cs: Úřad, pověření a přísaha soudních přísedících
+- typ: odstavec
+  de: |-
+    DJe Gerichtsleuth/deren gemeynlich vnd notturfft halben zwölff sollen sein/werden vnter den Fändlin gemustert/vnd gůte ehrliche dapffere/verständige Gesellen/darzů herauß gelesen vnnd erkießt/so der ehren werth seind/denen wird jhr sold vnd gemeyniglich Doppelsold von den vbersölden verordnet/Die sollen allwegen/so jnen der Schultheyß zum Rechten vmbschlahen/oder durch den Gerichtsweybel ansagen lässet/an dem ort/da der platz/vnd die stund vnd zeit/wie jnen verkündt ist/erscheinen/vnnd daselbs das Gericht besitzen helffen/auch Klage/Antwort/der Zeugen sage/vnd was im Rechten die notturfft erfordert/verhören/ordenlich Rechtlichen Proceß halten/vnd nach gestalt vnd gelegenheyt der sachen/vrtheyl sprechen/vnd gegen vnd wider den Artickels Brieff oder ordenlich Recht/one gnugsame vrsachen/ausser wissen/willen vnd zulassen deß Obersten niemands sein vrtheyl miltern vnd gnad beweisen/dann das ihnen keyns wegs/sondern allein dem Kriegßherren/oder in desselben abwesen dem Obersten zuthůn gebürt.
+  cs: |-
+    Soudní přísedící {Gerichtsleuth}, kterých má být obvykle a z nutnosti dvanáct, procházejí přehlídkou u praporců {Fändlin}; vybírají a volí se k tomu dobří, čestní, stateční a rozumní druhové, kteří jsou té cti hodni. Jejich žold, obvykle dvojitý žold {Doppelsold}, se jim vyměřuje z přeplatků {vbersölden}[^1]. Mají se vždy, když jim rychtář {Schultheyß} dá k soudu vybubnovat nebo ohlásit soudním šikovatelem {Gerichtsweybel}, dostavit na místo a v hodinu a čas, jak jim bylo oznámeno, a tam pomáhat zasedat na soudu; mají vyslechnout žalobu, odpověď, výpovědi svědků a vše, co si právo žádá, vést řádné soudní řízení a podle povahy a okolností věci vynést rozsudek. Proti artikulnímu listu {Artickels Brieff} nebo řádnému právu nesmějí bez dostatečných důvodů a bez vědomí, vůle a svolení plukovníka nikomu rozsudek zmírnit ani prokázat milost; to jim totiž nijak nepřísluší, nýbrž náleží to jen válečnému pánovi {Kriegßherren}, nebo v jeho nepřítomnosti plukovníkovi.
+- typ: nadpis
+  uroven: 3
+  de: Ihr Eyd.
+  cs: Jejich přísaha
+- typ: odstavec
+  de: |-
+    DEr Eyd wird gestelt in achtung ihrer Stende vnd Personen/wie hieuor vom Schultheyssen ampt angezeygt ist.
+  cs: |-
+    Přísaha se sestavuje s ohledem na jejich stav a osobu, jak bylo výše uvedeno u úřadu rychtáře.
+- typ: odstavec
+  de: |-
+    Ihr Besoldung ist gemeynlich Monats jedem Doppelsold/die empfacht jeder vnter seinem Fändlin/ist jm von vbersolden gemacht vnd verordnet/Doch hat ein jegklicher ein Monat sold vom Schultheyß von seinem ampt in sonderheyt/auch seind sie schuldig ihr Zug vnd Wacht zuthun/gleich wie ein ander Kriegsmann.
+  cs: |-
+    Jejich žold činí obvykle pro každého měsíčně dvojitý žold; ten přijímá každý u svého praporce a je mu vyměřen a určen z přeplatků. Každý má však ještě zvlášť jeden měsíční žold od rychtáře za svůj úřad. Také jsou povinni konat své pochody a stráže jako každý jiný válečník.
+poznamky:
+- n: 1
+  text: |-
+    Übersold – částka, kterou válečný pán vyplácel hejtmanovi praporce nad prosté žoldy mužstva; z ní se hradily vyšší žoldy (dvojité žoldy) úřadů a zasloužilých knechtů.

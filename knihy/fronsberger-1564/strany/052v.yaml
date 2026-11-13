@@ -1,0 +1,54 @@
+id: 052v
+list: LII
+strana: verso
+sken: 112
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item etwann auff den Scharmützeln/daß man etlichen Rotten vmbschlecht vnd sie lauffen lasset.
+  cs: |-
+    Dále někdy při šarvátkách {Scharmützeln}: aby se některým rotám {Rotten} vybubnovalo a nechaly se vyběhnout [do šarvátky].
+- typ: odstavec
+  de: |-
+    Item so man etwann etwas besichtigen/oder sonst da man eins gantzen Fändlins nit bedarff/handlen vnnd außrichten soll/so schlecht man etlichen Rotten so vil man haben wil vmb/vnd erfordert sie/vnnd sonst vil anderer vrsachen halben ist vonnöten Rottmeyster zumachen vnd haben.
+  cs: |-
+    Dále když se má něco prohlédnout nebo jinak něco vykonat či vyřídit, k čemu není třeba celého praporce {Fändlins}, vybubnuje se tolika rotám, kolik jich je potřeba, a povolají se. Z těchto i z mnoha jiných důvodů je nutné rotmistry {Rottmeyster} ustanovovat a mít.
+- typ: odstavec
+  de: |-
+    Vnd werden allwegen zehen Hackenschützen/vnd einfach Knecht in ein Rott/deßgleichen gemeynlich auch sechs Doppelsöldner in ein Rott gemacht/doch mögen sie sich selbs zusammen schlagen/welche gern bey einander seind/dieselbigen zehen oder sechs/sollen dann ein Rottmeyster vnter jnen erwölen/derselbig erwölt Rottmeyster soll sich von stundan des Hauptmanns Schreiber anzeygen/der schreibt sein namen inn Rottmeyster zedel/darmit so man einer Rott bedarff/welche man dann haben wil/bey dem namen des Rottmeysters gleich zufinden vnd vberkommen wiß.
+  cs: |-
+    Do jedné roty se vždy dává deset střelců s hákovnicemi {Hackenschützen} a prostých knechtů, a obvykle také šest dvojžoldnéřů {Doppelsöldner}. Mohou se však seskupit sami podle toho, kdo chce být s kým. Těchto deset nebo šest si pak má mezi sebou zvolit rotmistra a ten zvolený rotmistr se má neprodleně ohlásit hejtmanovu písaři {Schreiber}, který zapíše jeho jméno do seznamu rotmistrů {Rottmeyster zedel}, aby se, když je potřeba některé roty, dalo podle jména rotmistra hned vědět, kde ji najít a jak ji dostat.
+- typ: odstavec
+  de: |-
+    Sein Ampt vnd Befelch ist/was sein Rott angeht zuuertretten/Handlen vnd außzurichten/so man Losiert/wie bey dem Furier gemelt/so nimpt er die Bolleten/theylt man Profandt vnter die Rotten/Er muß dabey sein/so man seinen namen liest/daß er auff sein Rott profandt empfahe/schlecht man etlichen Rotten vmb/daß er mit seiner Rott an dem orth dahin er bescheyden erscheine/sich anzeyge/soll er mit seiner Rott ein Wacht oder etwas versehen vnd außrichten/daß er sein Rott zusammen samle/vnd bey einander habe/vnd dergleichen vil.
+  cs: |-
+    Jeho úřadem a pověřením je zastupovat, jednat a vyřizovat vše, co se týká jeho roty. Když se ubytovává, jak bylo řečeno u furýra {Furier}, přebírá ubytovací lístky {Bolleten}. Rozděluje-li se mezi roty proviant {Profandt}, musí být u toho, a když se čte jeho jméno, má převzít proviant pro svou rotu. Vybubnuje-li se některým rotám, má se se svou rotou dostavit a ohlásit na místo, kam byl povolán. Má-li se svou rotou obstarat stráž nebo něco jiného vykonat, má svou rotu shromáždit a mít ji pohromadě; a mnoho podobného.
+- typ: odstavec
+  de: |-
+    Auch jeder zeit sein Rott vnnd Rottgesellen auff/vnnd zu gelegner zeit ab der Schiltwacht füre/die losung nemm vnd gebe.
+  cs: |-
+    Také má svou rotu a druhy z roty {Rottgesellen} pokaždé vodit na stálou stráž {Schiltwacht} a v náležitý čas z ní odvádět, přijímat a předávat heslo {losung}.
+- typ: odstavec
+  de: |-
+    Er hat von solchem seinem Ampt keyn Besoldung vom Herrn/sondern wird mit seiner besoldung gehalten wie anderer gemeyner Kriegsmann.
+  cs: |-
+    Za tento svůj úřad nedostává od pána žádný [zvláštní] žold, nýbrž se mu platí jako každému jinému prostému válečníkovi.
+- typ: odstavec
+  de: |-
+    Allein wo er mit seiner Rott in ein Hauß gelosiert würd/vnd ein vberigs Beth vorhanden/hat er macht vor andern seinen Burschgesellen darinnen zuligen vnnd dergleichen.
+  cs: |-
+    Jen když je se svou rotou ubytován v domě a je tam postel navíc, má právo v ní ležet přednostně před ostatními svými druhy {Burschgesellen}, a podobně.
+- typ: nadpis
+  uroven: 2
+  de: Der Ammissaten Befelch vnd Innhalt.
+  cs: Pověření a úkoly ambasátů {Ammissaten}[^1]
+- typ: odstavec
+  de: |-
+    DIse Ammissaten werden genommen vnd erwölt von dem gemeynen Mann/auß der vrsach/wo sich widerwill/vneinigkeyt/zwitracht/zwischen der Herrschafft vnd jhnen zutregt/so pflegen die Knecht etwann Gemeyn zuhalten/beuorab/so etwann mangel ein zeitlang an gelt ist gewesen/Profandt oder anders dergleichen/so erkiesen sie vnter ihnen geschickte vnd erfahrne alte Kriegsleuth/solche mängel/jrrung vnnd span/so zwischen ihnen erwachsen/an ihren Obersten Feldtsherren oder Herrschafft zubringen/oder wo sie etwann inn die weite zu einer
+  cs: |-
+    Tito ambasáti se berou a volí z prostého mužstva {gemeynen Mann}, a to z tohoto důvodu: dojde-li mezi vrchností {Herrschafft} a nimi k nevoli, nesvornosti a rozbrojům, mívají knechti ve zvyku svolat obec {Gemeyn}, zvláště když se po nějakou dobu nedostávalo peněz, proviantu nebo jiných podobných věcí. Tehdy si mezi sebou vyberou schopné a zkušené staré válečníky, aby takové nedostatky, spory a rozepře, které mezi nimi vznikly, přednesli svému nejvyššímu polnímu pánovi {Obersten Feldtsherren} nebo vrchnosti. A jsou-li snad posláni do dálky k nějaké
+poznamky:
+- n: 1
+  text: |-
+    Ammissaten (v seznamu úřadů na l. Xr „Ambesaten“, jinde Ambosaten, z ital. ambasciata, franc. ambassade „poselstvo“) – podle tohoto popisu volení mluvčí a vyslanci obce knechtů, kteří při sporech s vrchností (zvl. o nevyplacený žold) přednášeli stížnosti mužstva a vyjednávali za ně. Nejde o lanspesáty (lancia spezzata), s nimiž se slovo někdy zaměňuje.

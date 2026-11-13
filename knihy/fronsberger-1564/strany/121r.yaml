@@ -1,0 +1,46 @@
+id: 121r
+list: CXXI
+strana: recto
+sken: 249
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dann daß die seinen hertzhafftig/mütsam/kün/frech vnnd standhafft/aber die Feind zaghafft/flüchtig vnd forchtsam machen möcht.
+  cs: |-
+    než to, co by jeho lidi mohlo učinit srdnatými, odhodlanými, smělými, troufalými a stálými, nepřátele však malomyslnými, náchylnými k útěku a bázlivými.
+- typ: nadpis
+  uroven: 2
+  de: Angriff.
+  cs: Útok
+- typ: odstavec
+  de: |-
+    JM angriff soll er auch alle Knecht mannlich trösten/je die redlichste jrer thewren thaten/vnnd seiner trew ermanen/der Feinde zagheyt eröffnen/jhr groß gůt vnd Reichthumb preiß machen/sein leben/lob/ehr/gůt/in jhren schirm ergeben/vnnd ein Eyd schweren/da zusigen oder zusterben/vnnd wo es die noth erforderte mit allen Kürissern zu jhn in die Ordnung abstehn/das Geschütz in gemeyn wider den Feind richten/mit einem Mantel verdecken/mit seinem hauffen still ligen/den Feind anlauffen/müden vnd helligen/vnnd als ein zweck treffen/beyde Feldtgeschütz vnd handbüchsen mit gemeynem geschrey der Reutter/Fůßknecht/Hůren vnd Buben/eins mals ablassen/vnd zum grausamsten eintrucken mit aller rüstung in die abgelauffne/keuchende vnd hartschnaufende Feinde. So nuh jede Schlachtordnung nach Glücks fall/art deß Feindes/platz des Lands/lauff des Himmels/vnd gelegenheyt der zeit zu mehrmalen můß gerichtet werden/kan man sie nicht wol in gewisse Regeln beschliessen/sondern die vnuermeidliche noth zwingt/daß die Amptleuth jres Fürsten/welcher deß sigs vnd deß löblichen preiß der Ritterschafft begert/nicht allein darumb erwöhlt werden/daß sie Edel/reich/berümpt/mächtiger geschlecht/viler freundschafft/vihisch/säuffer/balger/groß/starck/alt Kriegßleuth/in hohen befelchen gebraucht/vnnd von frembden Herren reichlich besold worden seind/sonder (ob sie gleich arm) dennocht fromb/auffrecht/klůg/weiß/vnuerzagt/vnerschrocken/trew/standhafft sein/vnd thewr/geschwind/anschlägig/vortheylig/vnd sigreich gehandelt/jhrem Herrn ehr vnd preiß erstritten/Gottsdienst vnd forcht gehandhabt/Land vnnd Leuth beschirmpt/Gericht vnd Recht freunden vnd feinden gefürdert haben/Solche haben dann die Kugel in der faust/können sie auch allein selbs/vnnd andere auch lehren werffen.
+  cs: |-
+    Při útoku má také všechny knechty {Knecht} mužně povzbudit, ty nejstatečnější připomenout jejich slavné činy a jejich věrnost, odhalit malomyslnost nepřátel, prohlásit jejich velké jmění a bohatství za kořist, svěřit svůj život, slávu, čest i statky do jejich ochrany a přísahat, že tu zvítězí, nebo zemře. Bude-li to nutné, má se všemi kyrysníky {Kürissern} sesednout k nim do šiku {Ordnung}, všechna děla {Geschütz} namířit proti nepříteli a zakrýt je „pláštěm“,[^1] se svým houfem {hauffen} zůstat v klidu, nechat nepřítele naběhnout, unavit se a vyčerpat a zasáhnout jej jako terč: polní děla i ruční pušky naráz vypálit za společného křiku jezdců, pěších knechtů, nevěstek a chlapců a se vší silou co nejprudčeji vrazit do uběhaných, supějících a těžce oddychujících nepřátel. Protože se však každý bitevní šik {Schlachtordnung} musí mnohokrát upravovat podle toho, jak padne štěstí, podle povahy nepřítele, podoby krajiny, běhu nebes a okolností času, nelze jej dobře uzavřít do pevných pravidel. Nevyhnutelná nutnost naopak velí, aby úředníci {Amptleuth} knížete, který touží po vítězství a chvályhodné slávě rytířstva, nebyli vybíráni jen proto, že jsou urození, bohatí, slavní, z mocného rodu, s mnoha příbuznými, [nebo že jsou] suroví, pijáci, rváči, velcí, silní, staří válečníci, užívaní ve vysokých velitelských úřadech a bohatě placení cizími pány, nýbrž proto, že jsou (byť chudí) přesto řádní, upřímní, chytří, moudří, neohrožení, nebojácní, věrní a stálí, že jednali statečně, hbitě, vynalézavě, s rozvahou a vítězně, svému pánu vybojovali čest a slávu, zachovávali službu Boží a bázeň Boží, chránili zemi a lid a napomáhali soudu a právu přátelům i nepřátelům. Takoví pak mají kouli v pěsti: umějí ji házet sami a naučí to i jiné.[^2]
+- typ: nadpis
+  uroven: 2
+  de: Erlegung der Flüchtigen.
+  cs: Pobití prchajících
+- typ: odstavec
+  de: |-
+    HEtt sich der feind nach der flucht wider versamlet vnd vermütet sich zustercken vnnd zuwagen/ehe es geschehe/soll er jhn nachts vmblegern/vnd durch wenige Knecht den schlaff wehren/vnnd morgens den schläfferigen angreiffen/Oder jhrer erstochnen Herren heupter zeygen/ob er sie darmit erweychen möcht/daß sie sich gefangen geben.
+  cs: |-
+    Kdyby se nepřítel po útěku znovu shromáždil a chtěl se posílit a odvážit [boje], má ho dřív, než se to stane, v noci obklíčit, několika málo knechty mu bránit ve spánku a ráno na rozespalé zaútočit; nebo jim má ukázat hlavy jejich pobitých pánů, zda by je tím nezlomil, aby se vzdali do zajetí.
+- typ: nadpis
+  uroven: 2
+  de: Vertüschung deß erlittenen schadens.
+  cs: Zatajení utrpěné škody
+- typ: odstavec
+  de: |-
+    JM mag keyn schaden so kleyn geschehen/darab die seinen nicht erschrecken/vnd der Feind mannhafft werd/darumb soll er denselben mit allem fleiß/worten vnd wercken bergen/die verwundte vnnd gestochne gleich vom Schlachtplatz hin in die Stätt zu gůter pfleg vnd Artzney nachts schicken/die todten heymlich
+  cs: |-
+    Nemůže ho potkat škoda tak malá, aby se nad ní jeho lidé nezalekli a nepřítel nenabyl odvahy; proto ji má se vší pílí slovy i činy skrývat: raněné a probodené má hned z bojiště v noci poslat do měst k dobrému ošetření a léčení, mrtvé potají
+poznamky:
+- n: 1
+  text: |-
+    „mit einem Mantel verdecken“ – děla se zakryjí řadou mužů (jízdy či pěchoty), aby je nepřítel neviděl, dokud se clona v pravou chvíli neotevře k výstřelu; srov. „plášť“ lehké jízdy na l. CXIXv.
+- n: 2
+  text: |-
+    „die Kugel in der faust haben“ – mít věc v rukou, vládnout situací (obraz z kuželek či z míčové hry).

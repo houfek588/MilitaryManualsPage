@@ -1,0 +1,19 @@
+id: 054r
+list: LIIII
+strana: recto
+sken: 115
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Ampt vnd befelch eines jeglichen Kriegßmanns oder Landtsknechts.
+  cs: Úřad a povinnost každého válečníka neboli lancknechta {Landtsknechts}
+- typ: obrazek
+  soubor: obrazek11.png
+  popis: |-
+    Dřevořez v oválném rámu z trofejí a zbraní: dva lancknechti v krajině. Levý v rozparkovaném oděvu a baretu s pery, s krátkým mečem u boku, drží dlouhé kopí; pravý v plátové zbroji a přilbě s chocholem stojí s rukou v bok a s mečem u pasu.
+- typ: odstavec
+  de: |-
+    EInes jeglichen Kriegßmanns oder Landtsknechts befelch vnnd ampt ist/So bald er von einem Herren angenommen wird/vnnd gelt empfahet/So ist er schuldig demselbigen/darumb er angenommen ist/nachzukommen/Dann dieweil er gelt empfangen/hat er sein haut/auch leib vnnd leben verkaufft/dann vmb das gelt muß er dem Herren/der ihn angenommen vnnd bestelt hat/gehorsam vnnd gefellig sein/wo er ihn dann seiner notturfft vnd gelegenheyt nach hin brauchen wil/es sey für die Freunde oder Feind/zu Wasser oder Lande/in Stetten/Besatzungen/Schlössern/Flecken/Marckten/Dörffern/in Heer oder Feldlägern/auff Zügen/Wachten/oder anderem gewarsame vnnd dergleichen/So ist ein jeder Kriegßmann oder Landtsknecht dem Herrn schuldig zuthun/was ihm gefällig/Was sein
+  cs: |-
+    Pověřením a úřadem každého válečníka neboli lancknechta je toto: jakmile ho některý pán přijme a on dostane peníze, je povinen plnit to, k čemu byl přijat. Protože totiž přijal peníze, prodal svou kůži, a s ní tělo i život; za ty peníze musí být pánovi, který ho přijal a najal, poslušen a po vůli, kamkoli ho pán podle své potřeby a příležitosti bude chtít použít – ať pro přátele, či proti nepřátelům, na vodě či na souši, ve městech, posádkách {Besatzungen}, na hradech, v městečkách, trhových místech a vesnicích, ve vojsku či v polních leženích {Feldlägern}, na pochodech, strážích či při jiném střežení a podobně. Každý válečník neboli lancknecht je tedy povinen činit pánovi, co se mu líbí. Co se dále týká jeho

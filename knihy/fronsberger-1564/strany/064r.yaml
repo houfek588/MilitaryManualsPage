@@ -1,0 +1,63 @@
+id: 064r
+list: LXIIII
+strana: recto
+sken: 135
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Wo man Stürmen oder Schlachten erobern thet/wie das were/soll sich niemands fahens/plünderns/oder vmb das gůt annemen/es sey dann die walstatt vnnd platz erobert/sonder in gůter Ordnung bleiben bey leib straff.
+  cs: |-
+    Když se dobývá šturmem nebo v bitvě, ať je to jakkoli, nikdo se nemá zabývat braním zajatců, pleněním ani se starat o kořist, dokud není bojiště a místo dobyto, nýbrž má zůstat v dobrém šiku {Ordnung}, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Es soll auch ewer keyner auß dem Läger auff beuten oder anders wo hin/sonder seins Hauptmanns wissen vnd willen nicht zihen bey leib straff.
+  cs: |-
+    Nikdo z vás také nemá bez vědomí a vůle svého hejtmana {Hauptmanns} odcházet z ležení {Läger} za kořistí nebo kamkoli jinam, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item ob einer oder mehr weren/die in Schlachten/Scharmützeln im Feldt oder sonst flucht machten/so soll der nechst auff jhn schlagen vnd stechen/vnnd ob einer der also ein flucht machen wölt/darüber zu todt geschlagen würd/so soll sich niemands an jhm verwirckt/sonder grossen danck verdienet haben/Wo aber einer entlieff/so soll dann derselb den Hauptleuthen angezeygt/vnnd alßdann an seinem leib gestrafft werden.
+  cs: |-
+    Dále: kdyby jeden nebo více z nich v bitvách, šarvátkách v poli nebo jinde dali se na útěk, má ten nejbližší do něho bít a bodat; a kdyby ten, kdo se tak chtěl dát na útěk, byl přitom ubit, nikdo se tím na něm neprovinil, nýbrž si zasloužil velký dík. Kdyby však někdo utekl, má být oznámen hejtmanům a potom potrestán na těle.
+- typ: odstavec
+  de: |-
+    Es soll euch bey ewerm Eydt keyn gemeyn/sonder mit wissen vnd willen deß Obersten gehalten werden/Wölche aber solches vbertretten/die sollen alle meyneydig gehalten/vnd an leib vnd leben gestrafft werden ohn alle gnad.
+  cs: |-
+    Při vaší přísaze {Eydt} se nemá konat žádné shromáždění obce {gemeyn} jinak než s vědomím a vůlí plukovníka {Obersten}. Kdo by to však přestoupili, mají být všichni pokládáni za křivopřísežníky a potrestáni na těle i na životě bez jakékoli milosti.
+- typ: odstavec
+  de: |-
+    Item es soll auch keyner mit den feinden/es sey im Läger oder im Zug/noch in Besatzungen sprach halten oder bottschafft thůn/auch keynen brieff schicken oder empfahen one befelch vnd erlaubnuß deß Obersten bey leib straff.
+  cs: |-
+    Dále nikdo nemá s nepřítelem, ať v ležení, na tažení či v posádkách {Besatzungen}, rozmlouvat ani si s ním posílat vzkazy, ani mu posílat nebo od něho přijímat jakýkoli list bez rozkazu a svolení plukovníka, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item ob auch einer oder mehr weren/die verrähterey oder andere böse stück triben/der oder dieselben sollen dem Profosen angezeygt werden/vnd der Profoß alßdann mit jhnen handeln nach befelch der Obersten/vnd soll der anzeyger ein Monat Sold oder mehr nach gelegenheyt/vnd darzu grossen danck verdient haben.
+  cs: |-
+    Dále: kdyby jeden nebo více z nich provozovali zradu nebo jiné zlé kusy, mají být oznámeni profousovi {Profosen} a profous s nimi pak má naložit podle rozkazu plukovníků; a oznamovatel si tím zaslouží měsíční žold {Sold} nebo víc, podle okolností, a k tomu velký dík.
+- typ: odstavec
+  de: |-
+    Es soll auch keyner stechen oder mit seiner wehr schiessen bey leib straff/Vnnd ob einer ein alten neid oder haß zů andern hette/so soll er denselbigen diesen löblichen Zug inn allweg meiden/vnd nit rechen/weder mit worten noch wercken/es sey dann mit Recht/Wa aber einer oder mehr das vbertrete vnd nit halten würden/der oder dieselben sollen an leib vnd leben gestrafft werden.
+  cs: |-
+    Nikdo také nemá bodat ani střílet ze své zbraně[^1], pod trestem na těle. A kdyby někdo choval vůči jinému starou závist nebo nenávist, má se jí po celé toto chvalitebné tažení ve všem vystříhat a nemstít se ani slovy, ani skutky, leda soudní cestou {mit Recht}. Kdyby to však jeden nebo více z nich přestoupili a nedodrželi, mají být potrestáni na těle i na životě.
+- typ: odstavec
+  de: |-
+    Item es soll auch sich niemands Rotten/wa aber zwen oder mehr einander schlügen oder zertrügen/so sollen die nechsten darbey trewlich vnd vnparteyisch frid nemen/zum ersten/andern/vnnd zum dritten mal/welcher dann frid geben wölt/vnnd wer jhne alßdann darob zu todt schlecht/der soll jhne damit gebüßt haben/Aber welcher einen vber gelobten frid schlecht/der soll an leib vnnd leben gestrafft werden ohn alle gnad.
+  cs: |-
+    Dále se nikdo nemá srocovat. Kdyby se však dva nebo více spolu bili nebo svářili, mají ti, kdo jsou nejblíže, věrně a nestranně vyžádat mír – poprvé, podruhé a potřetí. Kdo by pak [ne]chtěl mír dát[^2] a někdo by ho za to ubil, ten tím za něho nemá více pykat. Kdo však udeří jiného přes slíbený mír, má být potrestán na těle i na životě bez jakékoli milosti.
+- typ: odstavec
+  de: |-
+    Auch ob einer auff die Wacht bescheyden were/vnnd nit käme/der soll gestrafft werden nach deß Obersten erkanntnuß/vnd ob einer auff der Wacht were/vnd darab gieng/der soll on alle gnad gestrafft werden/Es soll auch keyner an sein statt bestellen/ohn seins Hauptmanns wissen vnd willen.
+  cs: |-
+    Také kdyby byl někdo určen na stráž {Wacht} a nedostavil se, má být potrestán podle uvážení plukovníka; a kdyby někdo byl na stráži a odešel z ní, má být potrestán bez jakékoli milosti. Nikdo také nemá za sebe nikoho ustanovit bez vědomí a vůle svého hejtmana.
+- typ: odstavec
+  de: |-
+    Vnnd dieweil Key. May. andere Nation auch haben/so soll ewer keyner mit dem andern kein auffrůr noch vnwillen anfahen/auch nit mit jnen spilen/damit grosser vnwill verhüt werde/bey leib straff.
+  cs: |-
+    A protože Jeho císařský Majestát má i jiné národy, nemá nikdo z vás s nimi začínat vzpouru ani nevoli, ani s nimi hrát [o peníze], aby se předešlo velké nevraživosti, pod trestem na těle.
+poznamky:
+- n: 1
+  text: |-
+    Zákaz se zřejmě týká svévolného bodání a střelby v ležení (rvačky, souboje, zbytečné vystřelování), nikoli boje s nepřítelem; tisk to blíže neurčuje.
+- n: 2
+  text: |-
+    V tisku „welcher dann frid geben wölt“ chybí zápor; smysl artikulu (srov. obdobné artikulní listy) je, že kdo mír odmítne a je za to ubit, za jeho smrt se neplatí žádné pokání ani výkupné.

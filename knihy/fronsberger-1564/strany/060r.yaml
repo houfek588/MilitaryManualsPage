@@ -1,0 +1,46 @@
+id: 060r
+list: LX
+strana: recto
+sken: 127
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dorthin so vil Rotten/auff die heymliche vnd Schiltwachten/dahin oder dorthin/so oder so starck die Scharwacht/vnd was dann diß orts die notturfft an jedem ort vnd jeder zeit erfordert.
+  cs: |-
+    tam tolik rot {Rotten} na skryté a stálé stráže {Schiltwachten}, sem nebo tam obchůzku {Scharwacht} té či oné síly, a vše, co v tom potřeba na kterém místě a v kterou dobu vyžaduje.
+- typ: odstavec
+  de: |-
+    Vnd wiewol er solche ding nicht allein auß ihme selbs vnnd seinem gut beduncken nach/sonder mit Rath der Obersten vnd Kriegßräth handelt/Jedoch ist vonnöten/daß er zum wenigsten neben andern ein guten rath darzu wiß zugeben/vnnd was deß orts berathschlaget/beschlossen vnnd befolhen wird/er dasselbig zum geschicklichsten vnd ohn mangel außzurichten vnd zuuersehen wiß.
+  cs: |-
+    A ačkoli takové věci nedělá jen sám od sebe a podle svého dobrého uvážení, nýbrž s radou plukovníků {Obersten} a válečných radů {Kriegßräth}, je přece nutné, aby k tomu dokázal aspoň vedle ostatních dát dobrou radu a aby to, co se o tom uradí, usnese a nařídí, uměl co nejobratněji a bez chyby vykonat a obstarat.
+- typ: odstavec
+  de: |-
+    Sein pflicht wird jhm nach erheyschung seins Ampts vnd Befelchs nach notturfft gestellt/vnnd von jhme durch den Obersten/der jhn dann zuuerordnen hat/angenommen.
+  cs: |-
+    Jeho přísaha {pflicht} se mu sestaví podle toho, co jeho úřad a pověření vyžadují, a přijímá ji od něho plukovník, který ho do úřadu ustanovuje.
+- typ: odstavec
+  de: |-
+    Vnd ist sein Besoldung vnnd haltung seiner Trabanten vnd Jungen wie hieuor vom Quartiermeyster vnd Schultheyssen Ampt gehört vnd angezeygt ist.
+  cs: |-
+    Jeho žold a vydržování jeho drabantů {Trabanten} a pacholat je takové, jak bylo výše vyloženo u úřadu kvartýrmistra a rychtáře.
+- typ: nadpis
+  uroven: 2
+  de: Ampt/Befelch vnd Eydt des Profandtmeysters der Landtsknecht.
+  cs: Úřad, pověření a přísaha proviantmistra {Profandtmeysters} lancknechtů
+- typ: odstavec
+  de: |-
+    VNter sein Ampt vnd Regiment gehört alles Fußuolck/so sein Oberster vnter jhm hat/Es ist auch vonnöten/daß er sey ein erfarner vnd verstandner Kriegßmann/der zum theyl schreiben vnd lesen/auch der Rechnung bericht/dann vil an einem Profandtmeyster gelegen ist/fürnemlich/wo fähl oder mangel an Profandt/daß er bescheyd wiß Profandt zu vberkommen vor andern/Wann er weyß wie starck sein Regiment ist/so soll er sein Rechnung machen/wieuil er Wein/Brot/Fleysch/vnd ander Profandt ein tag oder wochen haben muß/derhalben soll er fürbetrachtig sein/mit Profandtiern vnd zuführen.
+  cs: |-
+    Pod jeho úřad a správu {Regiment} patří všechna pěchota {Fußuolck}, kterou má jeho plukovník pod sebou. Je také nutné, aby to byl zkušený a rozumný válečník, který trochu umí psát a číst a vyzná se i v počtech, neboť na proviantmistrovi mnoho záleží – zvláště aby si, když se proviantu {Profandt} nedostává nebo je ho nedostatek, věděl rady, jak proviant sehnat dříve než jiní. Když ví, jak silný je jeho pluk, má si spočítat, kolik vína, chleba, masa a jiného proviantu potřebuje na den nebo na týden; proto má být prozíravý v zásobování a dovozu.
+- typ: odstavec
+  de: |-
+    Wann man zu Feldt ligt/wo mangel an der Profandt wolt sein/soll er hinauß reitten in die nächsten Flecken vnd Dörffer/Profandt bestellen vnd verschaffen/daß sie werd zugeführt vmb ein zimlich gelt/es sey wein/brot/fleysch/oder anders dergleichen/Wo aber solch fähl wer/vnnd man Profandt ein notturfft zuführt/soll er für das Läger reitten/vnd sehen wo die Wägen mit Profandt hergehn/soll er seinem Regiment dieselbige zuschaffen vnnd dahin fahren heyssen/Er soll auch etwann zu weilen der Profandt nach biß ins Läger mit reitten/damit nit was er bestellt/einem andern Regiment zugehe.
+  cs: |-
+    Když se leží v poli a hrozí nedostatek proviantu, má vyjet do nejbližších městeček a vesnic, proviant objednat a zařídit, aby byl za přiměřené peníze přivezen, ať víno, chléb, maso nebo jiné podobné věci. Je-li však takový nedostatek a proviant se přiváží podle potřeby, má vyjet před ležení {Läger}, sledovat, odkud jedou vozy s proviantem, obstarat je pro svůj pluk a poručit jim, aby jely k němu. Někdy má také jet s proviantem až do ležení, aby to, co objednal, nepřipadlo jinému pluku.
+- typ: odstavec
+  de: |-
+    Zu dem soll ein jeglicher Profandtmeyster wissens haben vnnd tragen/wieuil sein Obersten/Hauptleuth/Leutenant/Fänderich/vnd ander Edel vnd vnedel Roß vnd Pferdt haben/die soll er auch/wo fähl oder mangel were/mit habern vnnd futter nach notturfft profandtiern/vnnd zu dem soll er versehen/daß die im zuführen vnterwisen werden/daß sie die Profandt nit anwenden vnnd verkauffen biß sie durch den Profosen geschetzt/keyner zu schaden kom vnnd dester vnwilliger sey/hernach widerumb zuzufahren mit Profandt.
+  cs: |-
+    Kromě toho má každý proviantmistr vědět a mít přehled, kolik jezdeckých i tažných koní {Roß vnd Pferdt} má jeho plukovník, hejtmani {Hauptleuth}, poručík {Leutenant}, praporečníci {Fänderich} a ostatní urození i neurození; ty má také, je-li nouze nebo nedostatek, podle potřeby zásobit ovsem a pící. A dále má dbát, aby ti, kdo proviant přivážejí, byli poučeni, že ho nesmějí odbývat a prodávat, dokud jim jej profous {Profosen} neocení, aby nikdo nepřišel ke škodě a nebyl pak tím neochotnější znovu proviant přivážet.

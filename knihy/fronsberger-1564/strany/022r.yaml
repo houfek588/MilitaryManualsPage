@@ -1,0 +1,69 @@
+id: 022r
+list: XXII
+strana: recto
+sken: 51
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Also auch mit den Fewrbüchßen vnd kleynen Bölern zum fewerwerffen/doch daß dieselbigen mit fewrwerck machen geschickt vnd fertig seien/denen gibt man auch mehr besoldung dann einem schlechten Büchßenmeyster/zu jeder Fewrbüchßen zwen/vnd zu zehen oder zwölff kleynen Bölern sechs Büchßenmeyster.
+  cs: |-
+    Stejně tak i u ohnivých moždířů {Fewrbüchßen} a malých moždířů {Bölern} k vrhání ohně, avšak tak, aby [puškaři u nich] byli zruční a zběhlí ve zhotovování ohňostrojů {fewrwerck}; těm se také dává vyšší žold {besoldung} než prostému puškaři {Büchßenmeyster}: ke každému ohnivému moždíři dva a k deseti nebo dvanácti malým moždířům šest puškařů.
+- typ: odstavec
+  de: |-
+    Zu dem Feldgeschütz was weniger ist dann Notschlangen/ist gnug zu einem stück ein Büchßenmeyster oder Schützen.
+  cs: |-
+    U polních děl {Feldgeschütz} menších než nouzové hadovnice {Notschlangen} stačí k jednomu kusu jeden puškař nebo střelec {Schützen}.
+- typ: odstavec
+  de: |-
+    Die Büchßenmeyster werden besöldt nachdem die Stück zu verwalten haben/je grössere Stück jeder scheusset/je mehr besoldung gegeben werden soll.
+  cs: |-
+    Puškaři se platí podle toho, jaká děla {Stück} mají na starosti: čím větší dělo kdo střílí, tím vyšší žold se mu má dávat.
+- typ: odstavec
+  de: |-
+    Es soll aber ein Zeugmeyster ein fleissigs gůts auffmercken haben/daß er die beste vnd gröste stück den besten vnd berümptesten Büchßenmeystern befelch/dann es ist dem Kriegßherrn hieran nicht ein geringes gelegen.
+  cs: |-
+    Zbrojmistr {Zeugmeyster} však má pilně a dobře dbát, aby nejlepší a největší děla svěřil nejlepším a nejproslulejším puškařům, neboť na tom válečnému pánu {Kriegßherrn} nemálo záleží.
+- typ: odstavec
+  de: |-
+    Wiewol man der Büchßenmeyster besoldung nicht melden kan/dann man bestellt sie auffs nächst man mag/So hab ich doch zu einem vnterricht ein wenig meldung jetzt hernach wöllen thůn.
+  cs: |-
+    Ačkoli žold puškařů nelze uvést, neboť se najímají co nejlaciněji, jak jen to jde, chtěl jsem o něm přece pro poučení níže něco málo uvést.
+- typ: seznam
+  de:
+  - Welcher der grossen stück Mawrbrecherin scheußt/den Monat vier Söld.
+  - |-
+    Welcher geringer stück/vnd doch nach dem grösten scheußt/den Monat drey Söld.
+  - Welcher geringe stück scheußt/den Monat dritthalben Sold.
+  - Welcher Notschlangen vnd Karthonen scheußt/des Monats zwen Söld.
+  - |-
+    Welcher Falckonen/halb Schlangen vnnd Falckonnet scheußt/des Monats anderthalben Sold.
+  cs:
+  - |-
+    Kdo střílí z velkých kusů, bořičů hradeb {Mawrbrecherin}, [dostává] měsíčně čtyři žoldy {Söld}[^1].
+  - |-
+    Kdo střílí z menších kusů, avšak hned po těch největších, měsíčně tři žoldy.
+  - Kdo střílí z malých kusů, měsíčně dva a půl žoldu.
+  - |-
+    Kdo střílí z nouzových hadovnic a kartoun {Karthonen}, měsíčně dva žoldy.
+  - |-
+    Kdo střílí z falkon {Falckonen}, půlhadovnic {halb Schlangen} a falkonetů {Falckonnet}, měsíčně jeden a půl žoldu.
+- typ: odstavec
+  de: |-
+    Welcher bey den Fewrbüchßen vnd Fewrböllern ist/so er geschickt ist mit Fewrwerck machen/werffen vnd schiessen/gibt man deren einem Monats vier Söld/doch müssen sie sich wo es die notturfft erfordert/zu den grossen hauptstücken auch brauchen lassen/nach gůt bedüncken deß Zeugmeysters.
+  cs: |-
+    Kdo je u ohnivých moždířů a moždířů na oheň {Fewrböllern} a je zručný ve zhotovování, vrhání a střílení ohňostrojů, tomu se dávají měsíčně čtyři žoldy; musejí se však, vyžaduje-li to potřeba, dát podle uvážení zbrojmistra použít i u velkých hlavních kusů {hauptstücken}.
+- typ: odstavec
+  de: |-
+    Item welche Büchßenmeyster deß Monats haben drey oder vier Söld/die sollen Klepper halten/damit sie bey der Arckelley im zihen seien/die Arckelley helffen in ordnung halten/dieweil doch dieselbige im zihen mit den zündtrüten nicht warten dörffen/sollen sie bey der Arckelley sein/sehen daß die Arckelley inn ordnung wie sich gebürt bleibe/vnd keyner für den andern ziehe/auch keyn ander wägen sich in die Arckelley mischen.
+  cs: |-
+    Dále puškaři, kteří mají měsíčně tři nebo čtyři žoldy, mají držet koníky {Klepper}, aby byli na pochodu u dělostřelectva {Arckelley} a pomáhali je udržovat v pořádku. Protože totiž na pochodu nemusejí [u děl] čekat se zapalovacími holemi {zündtrüten}, mají být u dělostřelectva a dohlížet, aby dělostřelectvo zůstalo v náležitém pořádku, aby nikdo nepředjížděl druhého a aby se mezi dělostřelectvo nevmísily žádné jiné vozy.
+- typ: odstavec
+  de: |-
+    Dargegen soll man allwegen zweyen einen jungen in der Musterung gůt machen/der jhnen der pferdt wart vnd fütterung hole.
+  cs: |-
+    Za to se má vždy dvěma [z nich] při přehlídce {Musterung} započítat jedno pachole {jungen}, které jim ošetřuje koně a obstarává píci.
+poznamky:
+- n: 1
+  text: |-
+    „Sold“ je zde jednotka – jednoduchý měsíční žold knechta; „vier Söld“ = čtyřnásobek.

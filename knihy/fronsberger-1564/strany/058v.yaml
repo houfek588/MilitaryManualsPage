@@ -1,0 +1,23 @@
+id: 058v
+list: LVIII
+strana: verso
+sken: 124
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Ampt vnd Befelch des Gerichtschreibers.
+  cs: Úřad a pověření soudního písaře {Gerichtschreibers}
+- typ: obrazek
+  soubor: drevorez-124.jpg
+  popis: |-
+    Dřevořez v oválném medailonu se zdobným rámem z válečných trofejí (zbroje, přilby, štíty, bubny, trubky, děla): v otevřeném kuželovitém stanu s odhrnutými plachtami, v němž visí zbroje, sedí u stolu s otevřenou knihou a hromádkou mincí písař v baretu s pery a píše; vlevo sedí na truhle vousatý muž ve vysokém klobouku s mečem, vpravo stojí muž v dlouhém kožešinou lemovaném plášti s mečem u boku.
+- typ: odstavec
+  de: |-
+    WJe man in Stätten vnd andern Gerichts enden pflegt Gerichtschreiber zuhalten/also erfordert die notturfft dem Schultheyssen vnd Gericht einen Gerichtschreiber zuhalten/deß ampt erfordert/daß er an gewöhnlicher vnd Gerichtsstatt bey dem Schultheyssen vnd Richtern sitzen soll/die gefaßten vrtheyl vnnd anders/so not/beschreiben vnd verlesen/auch so man kundtschafft verhören vnnd beschreiben soll/Deßgleichen den partheyen/so not/die vrtheyl schrifftlich aufflegen/so sie die erfordern/Item die Acta/wa not/auch beschreiben/Von dem allem hat er sein gebürliche belohnung von den partheyen. Item gleicher gestalt/soll er wa not in Malefitz oder peinlichen sachen/klag vnd antwort/vnd alles anders/so not/auch so man etwann mit vbelthätern handlet/die vrgichten beschreiben/vnd zu bequemer zeit auß geheyß des Schultheyssen verlesen/Vnd erfordert sein ampt gleicher gestalt wie anderer Gerichtschreiber/da man pflegt ordenlich Gericht zuhalten.
+  cs: |-
+    Jako se ve městech a na jiných soudních místech obvykle drží soudní písaři, tak i potřeba vyžaduje, aby rychtář {Schultheyssen} a soud {Gericht} měli soudního písaře. Jeho úřad vyžaduje, aby seděl na obvyklém soudním místě u rychtáře a přísedících {Richtern}, zapisoval a předčítal vynesené rozsudky a jiné, co je třeba, a [činil tak] i tehdy, když se mají vyslýchat a zapisovat svědectví {kundtschafft}. Stejně tak má stranám {partheyen}, je-li třeba a žádají-li to, vydávat rozsudek písemně a také, je-li třeba, sepisovat akta {Acta}. Za to všechno má od stran náležitou odměnu. Dále má stejným způsobem, je-li třeba, v hrdelních {Malefitz} čili trestních {peinlichen} věcech zapisovat žalobu a odpověď a vše ostatní, co je třeba, a když se jedná se zločinci, zapisovat i jejich výpovědi {vrgichten}[^1] a ve vhodnou dobu je z rozkazu rychtáře předčítat. A jeho úřad vyžaduje totéž co úřad jiných soudních písařů tam, kde se obvykle koná řádný soud.
+poznamky:
+- n: 1
+  text: |-
+    Urgicht – výpověď, doznání obviněného, zejména učiněné při útrpném výslechu; před popravou se doznání veřejně předčítalo.

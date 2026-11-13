@@ -1,0 +1,31 @@
+id: 016r
+list: XVI
+strana: recto
+sken: 39
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Kurtze Rechnung der Kuglen vnd Puluers/zum Geschütz zubrauchen.
+  cs: Krátký výpočet koulí a prachu potřebného pro děla
+- typ: obrazek
+  soubor: obrazek4.png
+  popis: >-
+    Dřevořez ve stejném zdobném rámu jako u začátku oddílu o zbrojnici: velitel dělostřelectva (zbrojmistr) na
+    vzpínajícím se koni s velitelskou holí, vedle něho muž s halapartnou a další muž v plášti; v popředí lehké dělo
+    na kolové lafetě, dělové koule a nádoby, v pozadí vůz, stany ležení a opevněné město.
+- typ: odstavec
+  de: |-
+    SO man mit einer Scharpffmetzen/welche scheusset ein Centner eysen/ein hundert schüß thůt/so erfordern sie zum wenigsten fünfftzig Centner Puluers/Fünff hundert schütz/zwey hundert vnnd fünfftzig Centner Puluers/Tausent schütz fünff hundert Centner Puluers.
+  cs: |-
+    Vystřelí-li se ze šarfmece {Scharpffmetzen}, která střílí jeden cent {Centner} železa, sto ran, je k tomu zapotřebí nejméně padesát centů prachu {Puluers}[^1]; pět set ran dvě stě padesát centů prachu; tisíc ran pět set centů prachu.
+- typ: odstavec
+  de: |-
+    Ein Basilisck oder stück das da scheußt fünff vnd siebentzig pfundt eysen/erfordern hundert schütz viertzig Centner Puluers vngefährlich/Fünffhundert schütz erfordern zwey hundert Centner/Tausent schütz/vierhundert Centner Puluers vngefährlich.
+  cs: |-
+    Bazilišek {Basilisck} čili kus {stück}, který střílí pětasedmdesát liber {pfundt} železa: sto ran vyžaduje asi čtyřicet centů prachu, pět set ran dvě stě centů, tisíc ran asi čtyři sta centů prachu.
+poznamky:
+- n: 1
+  text: >-
+    Výpočty v celé tabulce (016r–016v) vycházejí z dobového pravidla, že nálož prachu u děl činí asi polovinu váhy
+    koule (šarfmece se 100liberní koulí tedy 50 liber prachu na ránu). Foliace tisku má na tomto listu chybně „XVII“.

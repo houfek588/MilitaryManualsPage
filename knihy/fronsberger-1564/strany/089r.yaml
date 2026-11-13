@@ -1,0 +1,79 @@
+id: 089r
+list: LXXXIX
+strana: recto
+sken: 185
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item nach erheyschung der notturfft Becken oder Pfister/die daneben auch das Mülwerck können.
+  cs: |-
+    Dále tolik pekařů, kolik si potřeba žádá, kteří by zároveň rozuměli mlynářskému řemeslu.
+- typ: odstavec
+  de: |-
+    Item wo die Becken das Mülwerck nicht können/so soll man haben nach notturfft ein anzal Müller.
+  cs: |-
+    Dále, nerozumějí-li pekaři mlynářskému řemeslu, má se mít potřebný počet mlynářů.
+- typ: odstavec
+  de: Item Schneider vnd Schůmacher.
+  cs: Dále krejčí a ševci.
+- typ: odstavec
+  de: Item Schmid vnnd Schlösser.
+  cs: Dále kováři a zámečníci.
+- typ: odstavec
+  de: Item Zimmerleuth vnnd Schreiner.
+  cs: Dále tesaři a truhláři.
+- typ: odstavec
+  de: Item Steynmetzen vnnd Mawrer.
+  cs: Dále kameníci a zedníci.
+- typ: odstavec
+  de: |-
+    Item Bergknappen/wo man die gehaben mag/dann sie inn Besatzungen fast dienstlich seind.
+  cs: |-
+    Dále havíři, lze-li je mít, neboť jsou v posádkách {Besatzungen} velmi užiteční.
+- typ: odstavec
+  de: Item Seyler.
+  cs: Dále provazníci.
+- typ: odstavec
+  de: Item Wagner.
+  cs: Dále koláři.
+- typ: odstavec
+  de: Item Salpeter vnnd Puluermacher.
+  cs: Dále ledkaři a prachaři.
+- typ: odstavec
+  de: Item Bierbrewer.
+  cs: Dále sládci.
+- typ: odstavec
+  de: Item ein Doctor der Artzney.
+  cs: Dále doktor lékařství.
+- typ: odstavec
+  de: Item etlich geschickte Schärer vnd Wundärtzet/etc. mit jrer Artzney.
+  cs: Dále několik zručných lazebníků a ranhojičů atd. s jejich léky.
+- typ: odstavec
+  de: Item etlich geschickte gelehrte Priester vnd Predicanten.
+  cs: Dále několik schopných a učených kněží a kazatelů.
+- typ: odstavec
+  de: Item ein Harnisch bietzer oder Flicker.
+  cs: Dále platnéř, který zbroj {Harnisch} spravuje a záplatuje.
+- typ: odstavec
+  de: |-
+    Zu allen angezeygten handtwercks leuhten gehören jhr notturfft Knecht/auch Werckzeug vnd was anders mehr darzu gehört.
+  cs: |-
+    Ke všem uvedeným řemeslníkům patří potřebný počet tovaryšů, také nářadí a cokoli dalšího k tomu náleží.
+- typ: odstavec
+  de: Item man soll auch versehen sein/mit Küchen geschirr nach notturfft.
+  cs: Dále se má mít i potřebné množství kuchyňského nádobí.
+- typ: odstavec
+  de: |-
+    Man soll auch haben etwann viel gůter starcker Leytern/zu aller notturfft zůgebrauchen.
+  cs: |-
+    Má se mít také hodně dobrých silných žebříků, které se dají použít ke všem potřebám.
+- typ: nadpis
+  uroven: 3
+  de: Weibs Personen.
+  cs: Ženské osoby
+- typ: odstavec
+  de: |-
+    ITem ein Näherin mit jhren helfferin/die dem volck Hembder vnnd anders machen können/auch der Bethgewand vnd anderer Leynwat im Schloß/oder der Besatzung pfleg vnnd warte/darzu gehört auch ein vorrath Leynwat/damit man dieselbig dem volck zur notturfft vmbs gelt mittheylen möge.
+  cs: |-
+    Dále švadlena se svými pomocnicemi, které umějí lidu šít košile a jiné věci a také budou pečovat a starat se o ložní prádlo a jiné plátno na hradě či v posádce. K tomu patří i zásoba plátna, aby se z ní dalo lidu podle potřeby prodávat za peníze.

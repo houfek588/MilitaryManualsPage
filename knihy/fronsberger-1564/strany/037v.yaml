@@ -1,0 +1,54 @@
+id: 037v
+list: XXXVII
+strana: verso
+sken: 82
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wie die Profosen der andern Regiment/So hat er auch keyn eygen Gericht/oder daß er jemand für Recht stelte vnd beklagte/sonder ob sich schon begibt/daß einer vnter den Reysigen sich so vbel vnd vnehrlich hielt/daß man zu jhm greiffen müste/So thůt der Feldmarschalck befelch/daß derselbig mißhandler/wo er betretten werden mag/vom Profosen der Landsknecht angenommen/enthalten/vnd seinem verschulden nach gestrafft werde. Vnnd ist das fürnembst geschefft des Profosen der Reysigen/daß er den Reysigen fürsehung thů mit Prouand/also/wann dem Läger Prouand wird zugefürt/daß er alßdann mit den anderen Profosen sich vergleich/vnd für die Reysigen jhr gebürlich anzal wägen mit Prouand anneme/inn der Reysigen Läger füren/vnd daselbs verkauffen lasse.
+  cs: |-
+    jako profousové {Profosen} ostatních pluků {Regiment}. Nemá také vlastní soud {Gericht} a nikoho nepostavuje před soud ani nežaluje. Stane-li se však, že by se někdo z jezdců {Reysigen} choval tak zle a nečestně, že by bylo nutné ho zatknout, vydá polní maršálek {Feldmarschalck} rozkaz, aby toho provinilce, kde ho bude možno přistihnout, zatkl profous lancknechtů {Landsknecht}, držel ho [ve vazbě] a potrestal podle jeho viny. Nejpřednější starostí profouse jízdy je zaopatřovat jízdu proviantem {Prouand}: když se do ležení {Läger} doveze proviant, má se s ostatními profousy dohodnout, převzít pro jízdu jí náležitý počet vozů s proviantem, dovézt je do ležení jízdy a dát [proviant] tam prodávat.
+- typ: odstavec
+  de: |-
+    Er hat sein proueit wie die andern Profosen von der Prouand vnnd anderm/damit er von Ampts wegen zuhandlen hat/Die prouand so in sein Läger gefürt wird/soll er vmb ein zimlich werth schätzen/es wird jm ein zimliche ehrliche gůte besoldung gemacht/vnnd werden jhm vier Pferd gehalten/sonst mit haltung der Reyßwägen wird er auch vor anderen bedacht.
+  cs: |-
+    Jako ostatní profousové má svůj užitek {proueit}[^1] z proviantu a z jiných věcí, s nimiž má z moci úřadu co činit. Proviant, který se do jeho ležení doveze, má ocenit na přiměřenou cenu. Stanoví se mu přiměřený, čestný a dobrý žold {besoldung}, vydržují se mu čtyři koně a také při vydržování cestovních vozů {Reyßwägen} se na něj pamatuje více než na jiné.
+- typ: odstavec
+  de: |-
+    Sein pflicht wird jhm nach wolgefallen deß Kriegßherrn vnd erheyschung der notturfft vnd seins Ampts gestelt.
+  cs: |-
+    Jeho závazek {pflicht} se mu sestavuje podle vůle válečného pána {Kriegßherrn} a podle toho, co vyžaduje potřeba a jeho úřad.
+- typ: odstavec
+  de: |-
+    Es ist jetzt gesagt von allen hohen ämptern so vnter dem Feldtmarschalck als dem Reysigen Regiment seind/was jhr ämpter für Personen vnnd versehung erfordert/vnd wird jetzt hernach gesagt von den andern/als den vntern ämptern der Reysigen/was dieselbigen ämpter für Personen vnd geschäfft erfordern.
+  cs: |-
+    Nyní bylo pověděno o všech vysokých úřadech, které jsou pod polním maršálkem {Feldtmarschalck} jakožto [velitelem] jezdeckého pluku {Reysigen Regiment}, a o tom, jaké osoby a jaké zaopatření jejich úřady vyžadují; a dále bude pověděno o ostatních, totiž o nižších úřadech jízdy, jaké osoby a činnosti tyto úřady vyžadují.
+- typ: nadpis
+  uroven: 2
+  de: Der Reysigen Fänderich Ampt/Befelch vnd Eyd.
+  cs: Úřad, pověření a přísaha praporečníka {Fänderich} jízdy
+- typ: odstavec
+  de: |-
+    DEr Hauptmann oder Rittmeyster gibt gemeynlich seinen Fanen einem vnter sein Reuttern/mit rath vnd zulassen deß Feldmarschalcks/der vor andern von hoher geburt/auch mit anzal der Pferd/vnd in ander weg wol gerüst ist/vnd ist wol angesehen/daß man den Fanen einem kecken/doch nit verwegnen/ehrlichen erfarnen Mann/der ein Kriegßmann ist/gebe/dann es ist vil daran gelegen/daß ein Fänderich wiß/wie er sich bey dem Fanen/gegen vnd von feinden halten soll/es ist nicht damit außgericht/daß er glatt außgestrichen vnd wol gerüst ist/es gehört vil mehr darzu.
+  cs: |-
+    Hejtman neboli rytmistr {Rittmeyster} obvykle svěřuje se svolením a radou polního maršálka svou korouhev {Fanen} některému ze svých jezdců {Reuttern}, který je před ostatními vysokého rodu a také počtem koní i jinak dobře vybaven. A je rozumné, aby se korouhev svěřila smělému, ale ne opovážlivému, čestnému a zkušenému muži, který je válečníkem; neboť velmi záleží na tom, aby praporečník věděl, jak se má u korouhve chovat při útoku na nepřítele i při ústupu od něho. Nestačí, aby byl uhlazeně vystrojen a dobře vyzbrojen; patří k tomu mnohem víc.
+- typ: odstavec
+  de: |-
+    Jm Läger steckt er seinen Fanen bey seiner Zellt auff/vnd lasset jhn fliegen/damit seine Reutter vnd ander das Quartier darbey erkennen vnd finden können.
+  cs: |-
+    V ležení zabodne svou korouhev u svého stanu {Zellt} a nechá ji vlát, aby podle ní jeho jezdci i jiní poznali a našli kvartýr {Quartier}.
+- typ: odstavec
+  de: |-
+    So ein Lärmen ist/soll er sehen/daß er der erst auff dem Pferd sey/den nechsten so er ein zimliche anzal seiner Reutter bey dem Fanen hat/fürs Läger hinauß wischen auff ein platz/den Fanen fliegen lassen/damit die vberigen seine Reutter jhn darbey wissen zufinden vnd sich zusamlen.
+  cs: |-
+    Když je poplach {Lärmen}, má hledět, aby byl první na koni; jakmile má u korouhve slušný počet svých jezdců, má nejkratší cestou vyrazit před ležení na nějaké prostranství a nechat korouhev vlát, aby ho podle ní ostatní jeho jezdci dovedli najít a shromáždit se.
+- typ: odstavec
+  de: |-
+    So man mit den Feinden handelt/vnnd er mit seinem geschwader an den feinden ist/soll er allwegen den Fanen auffgericht in der höhe fliegen lassen/vnd sich dapffer zun feinden halten/mit gewalt auff sie tringen/seine Reutter wo sie sich theylen oder trennen wolten/stäts zusamen halten/dapffer zusprechen vnd ermanen.
+  cs: |-
+    Když se bojuje s nepřítelem a on je se svou švadronou {geschwader} u nepřítele, má vždy nechat korouhev vztyčenou vysoko vlát, statečně se proti nepříteli držet a mocně na něj dorážet; své jezdce, kdyby se chtěli rozdělit nebo rozptýlit, má stále držet pohromadě, statečně je povzbuzovat a napomínat.
+poznamky:
+- n: 1
+  text: proueit – profit, poplatek, který profous vybíral z dováženého a prodávaného proviantu a zboží.

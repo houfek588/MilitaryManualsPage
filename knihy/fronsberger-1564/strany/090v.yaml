@@ -1,0 +1,50 @@
+id: 090v
+list: XC
+strana: verso
+sken: 188
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Scharwacht/vnd an dem ort mit souiel/an jenem mit souiel personen/Rotten oder Fändlein besetzt/vnd verwart werden sollen/alles mit erwegung vnnd meldung gůter redlicher beweglichen vrsachen/nach dem die Besatzung oder das Läger an jedem ort/mit gelegenheyt darzů geschickt ist.
+  cs: |-
+    obchůzka {Scharwacht}, a že se má na tom místě obsadit a ohlídat tolika, na onom zase tolika osobami, rotami {Rotten} nebo praporci {Fändlein} – to vše s uvážením a uvedením dobrých, poctivých a závažných důvodů, podle toho, jak je posádka {Besatzung} nebo ležení {Läger} na každém místě svou polohou k tomu uzpůsobeno.
+- typ: nadpis
+  uroven: 3
+  de: Wie man die Wachten in einer Besatzung eins Schloß besetzen soll.
+  cs: Jak se mají obsazovat stráže v posádce hradu
+- typ: odstavec
+  de: |-
+    DEr Wacht ist niemands weder groß noch kleyn Hans gefreyt oder vberhaben/man mag aber mit Rath/wissen vnd zůlassen deß Obersten/so er Erbar sachen hat/etlichen Personen wächter an jhr statt zůhaben vergünnen vnnd zůlassen/die sie selbs dazů vermögen/vnd darumb jren willen machen sollen.
+  cs: |-
+    Strážní služby není nikdo, ať velký, či malý pán {Hans}[^1], zproštěn ani ušetřen. S radou, vědomím a svolením plukovníka {Obersten} však lze některým osobám, mají-li k tomu počestné důvody, povolit a dovolit, aby za sebe měly strážné, které si k tomu samy získají a kterým za to mají zaplatit, co si řeknou.
+- typ: odstavec
+  de: |-
+    Item die Wacht soll durch den Obersten vnd Kriegßrath verordnet vnnd gemacht werden/auff die gantze summa der Personen/oder Musterzedel/zu acht/siben/sechs/fünff oder vier theylen/alles nach erheyschung der notturfft/etc. doch soll die Wacht besetzt werden auff die halbe nacht/deß mag ein jeglicher zůkommen/es were dann sach daß der feind die belägerten so häfftig nötet vnnd vnrůwig macht/mag man die Wacht in vier theyl darnach außtheylen.
+  cs: |-
+    Dále stráž má nařizovat a sestavovat plukovník a válečná rada {Kriegßrath} z celkového počtu osob čili podle přehlídkového seznamu {Musterzedel}, a to rozdělením na osm, sedm, šest, pět nebo čtyři díly, vše podle toho, co si potřeba žádá atd. Stráž se však má obsazovat na polovinu noci, což každý vydrží; ledaže by nepřítel obležené tak tvrdě tísnil a znepokojoval, pak lze podle toho noční stráž rozdělit na čtyři díly.
+- typ: odstavec
+  de: |-
+    Item die Wachtzedel sollen auß dem Musterzedel genommen werden zu dreyen hauffen/die Edlen vnd Reysigen sollen haben ein vnterschlagne/oder zwifache laden zu jren zedeln der namen/deßgleichen sollen die Landsknecht sampt dem gewönlichen Hoffgesind/zu jren namen vnd zedeln/auch ein eygene zwifache laden haben/Gleicher gestalt sollen haben die Handtwercks vnd Bawrßleut/vnnd welcher Parthey vnter den drey angezeygten am meysten/von denen zedeln soll man nemen vnd den andern zůtheylen/biß es gleich wird/vnd in einer laden souiel zedel seind als der andern.
+  cs: |-
+    Dále strážní lístky se mají z přehlídkového seznamu rozdělit na tři hromádky. Šlechtici a jezdci {Reysigen} mají mít pro své lístky se jmény přepaženou čili dvojitou truhličku; stejně tak lancknechti {Landsknecht} spolu s obvyklou dvorskou čeledí mají mít pro svá jména a lístky vlastní dvojitou truhličku; a stejně tak řemeslníci a sedláci. Které ze tří uvedených skupin je nejvíc, z jejích lístků se má ubrat a přidat ostatním, až se to vyrovná a v jedné truhličce je tolik lístků jako v druhé.
+- typ: odstavec
+  de: |-
+    Item so man das Nachtmal jsset/so kompt der Wachtmeyster mit seinen dreyen laden/vnd lasset auß der Edelleuth laden einen zedel nemen/denselbigen verlesen/vnd verkündt hiemit demselbigen die vorwacht.
+  cs: |-
+    Dále, když se jí večeře, přijde vachmistr {Wachtmeyster} se svými třemi truhličkami, dá z truhličky šlechticů vytáhnout jeden lístek, přečte jej a tím tomu, kdo je na něm, ohlásí první noční stráž {vorwacht}.
+- typ: odstavec
+  de: |-
+    Item darnach läßt er ein vngefärliche Person so nicht lesen kan/auß der Landsknecht laden auch ein zedel nemen/demselbigen verkündt er auch die vorwacht/Gleicher gestalt wird es mit der dritten/der handwercker vnnd bawren laden gehalten/so lang biß die anzal der vorwacht erstattet wird/vnnd wird allwegen der vorgelesen zedel in das ander fach der laden gelegt/biß die erst außgelärt ist/alßdann legt man die zedel wider in das lär fach/also geht die Wacht vnd hůt stäts vmb/vnd wacht keyner mehr oder weniger dann der ander.
+  cs: |-
+    Dále potom dá nějakou nestrannou osobu, která neumí číst, vytáhnout lístek také z truhličky lancknechtů a i tomu ohlásí první noční stráž. Stejně se postupuje se třetí truhličkou, řemeslníků a sedláků, dokud se nenaplní počet pro první noční stráž. Přečtený lístek se vždy vloží do druhé přihrádky truhličky, dokud se první nevyprázdní; potom se lístky vloží zpět do prázdné přihrádky. Tak se stráž a hlídka stále střídá dokola a nikdo nestráží víc ani méně než druhý.
+- typ: odstavec
+  de: |-
+    Also pflegt man auch zůthůn mit der tag hůt/so bald die Wacht besetzt/so nimpt man alßbald die taghůt vnd wacht auch herauß/in massen wie vor/vnd verkündt denselbigen bey den pforten zůsein/vnnd wo not ist/morgens ehe die nachtwacht abgeht/alßdann besetzt der Wachtmeyster die Schildt vnd Scharwacht/gibt den jhenigen/so sich gebürt/die losung/so er vom Obersten empfangen hat/dann soll der Wachtmeyster sampt dem Hauptmann/Fänderich vnd Feldtweybel/oder deren einer oder mehr vnterweilen herein deychen/zu den heymlichen vnnd Schiltwachten sehen/sie
+  cs: |-
+    Stejně se obvykle postupuje i s denní hlídkou: jakmile je [noční] stráž obsazena, vylosuje se hned stejným způsobem jako předtím i denní hlídka a stráž a těm, na které padl los, se ohlásí, aby byli u bran, a je-li třeba, ráno dříve, než noční stráž odejde. Potom vachmistr obsadí stálé stráže a obchůzky {Schildt vnd Scharwacht} a dá těm, jimž náleží, heslo {losung}, které přijal od plukovníka. Potom má vachmistr spolu s hejtmanem {Hauptmann}, praporečníkem {Fänderich} a šikovatelem {Feldtweybel}, nebo jeden či více z nich, občas potichu obcházet, dohlížet na tajné i stálé stráže, je
+poznamky:
+- n: 1
+  text: |-
+    „weder groß noch kleyn Hans“ – rčení: ani velký, ani malý Hans, tj. ani pán, ani prostý člověk.

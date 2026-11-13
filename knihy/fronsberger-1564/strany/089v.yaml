@@ -1,0 +1,75 @@
+id: 089v
+list: LXXXIX
+strana: verso
+sken: 186
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item etliche Weiber zu pfleg vnnd wart der Krancken/die auch in der Küchen helffen Spülen/vnnd bey den Pfistern vnnd Metzgern zůgreiffen/darzů mag man Weiber haben/zů anderer notturfft der Mann auch gebreuchlich/doch soll man allen zanck vnd eyfer der Weiber halben fürkommen vnd nit gestatten.
+  cs: |-
+    Dále několik žen k ošetřování a opatrování nemocných, které by také pomáhaly v kuchyni s mytím nádobí a přiložily ruku k dílu u pekařů a řezníků. Ženy lze mít i k jiným potřebám, k nimž se užívá také mužů[^1]; avšak všem svárům a žárlivosti kvůli ženám se má předcházet a nemají se trpět.
+- typ: odstavec
+  de: |-
+    Keyner Frawen soll man auß dem Schloß oder der Besatzung erlauben/zůuor vnd ehe man allen zůsatz vrlaubt.
+  cs: |-
+    Žádné ženě se nemá dovolit odejít z hradu nebo posádky {Besatzung} dříve, než se propustí všechen přidaný lid {zůsatz}[^2].
+- typ: nadpis
+  uroven: 2
+  de: Wie man den Kriegßrath vnd die ämpter besetzen soll.
+  cs: Jak obsadit válečnou radu {Kriegßrath} a úřady
+- typ: odstavec
+  de: |-
+    ITem der Oberst soll zů jhm erfordern drey Kriegßräth/nemlich einen vom Adel/einen geschickten/ehrlichen/erfarnen mann/den erkießt er zů seinem Leutenant oder verwalter/ist gůt daß derselbig des Kriegßherren Lehenmann oder bewerter getrewer diener sey gewesen.
+  cs: |-
+    Dále plukovník {Oberst} má k sobě povolat tři válečné rady {Kriegßräth}. Předně jednoho ze šlechty, schopného, čestného a zkušeného muže; toho si zvolí za svého poručíka {Leutenant} čili zástupce. Je dobré, aby to byl leník válečného pána {Kriegßherren} nebo jeho osvědčený věrný služebník.
+- typ: odstavec
+  de: |-
+    Darnach den Zeugmeyster oder Zeugwarten/darnach die Hauptleuth vnnd Fänderich/diese drey Secten mag der Oberst für sich selbs zů Kriegßräthen erkiesen vnd erfordern.
+  cs: |-
+    Potom zbrojmistra {Zeugmeyster} nebo zbrojního správce {Zeugwarten}, potom hejtmany {Hauptleuth} a praporečníky {Fänderich}. Tyto tři skupiny si může plukovník sám od sebe zvolit a povolat za válečné rady.
+- typ: odstavec
+  de: |-
+    Darnach soll er dem gemeynen Adel gestatten/einen auß jnen zum Kriegßrath zůerwöhlen.
+  cs: |-
+    Potom má dovolit ostatní šlechtě, aby si ze svého středu zvolila jednoho do válečné rady.
+- typ: odstavec
+  de: |-
+    Es soll auch einer auß den gemeynen Landsknechten/vnd einer auß deß Herrn gewöhnlichem gesind vnd diener erwölt vnd verordnet werden/Wo dann ein anzal Bürger vnnd Handtwercks leuth in der Besatzung/mag man von denselbigen auch etwann ein dapffern/Erbarn Mann in Kriegßrath erwehlen/deßgleichen mag auch beschehen vnter den Bawren/wo es für gůt vnnd not angesehen wird/etc. vnnd sollen alle Kriegßräth bey dem Eydt erfordert/gewehlt werden.
+  cs: |-
+    Také jeden z prostých lancknechtů {Landsknechten} a jeden z pánovy obvyklé čeledi a služebníků má být zvolen a ustanoven. Je-li pak v posádce nějaký počet měšťanů a řemeslníků, lze i z nich zvolit do válečné rady nějakého statečného a počestného muže; totéž se může stát i mezi sedláky, uzná-li se to za dobré a potřebné atd. Všichni váleční radové mají být povoláni a zvoleni pod přísahou {Eydt}.
+- typ: odstavec
+  de: |-
+    Nachmals soll der verordnet vnd erwehlt Kriegßrath dem Kriegßvolck angezeygt/vnd sie zů gehorsame vermant werden.
+  cs: |-
+    Potom se má ustanovená a zvolená válečná rada oznámit válečnému lidu {Kriegßvolck} a ten se má napomenout k poslušnosti.
+- typ: odstavec
+  de: |-
+    Item der Oberst mit seinen Kriegßräthen hat macht/in einer jeglichen sach so sich zutregt vnter dem Kriegßvolck/es treff ehr/leib/leben oder gůt an/zusprechen vnd zu vrtheylen.
+  cs: |-
+    Dále plukovník se svými válečnými radami má moc v každé záležitosti, která se mezi válečným lidem přihodí, ať se týká cti, těla, života nebo statku, rozhodovat a soudit.
+- typ: odstavec
+  de: |-
+    Item der Oberst soll all tag zu gelegner zeyt mit seinen Kriegßräthen zů Rath gehn/von den Kriegßsachen vnd deß hauß notturfft rathschlagen.
+  cs: |-
+    Dále plukovník má každý den v příhodnou dobu zasedat se svými válečnými radami a radit se o válečných věcech a o potřebách domu [hradu].
+- typ: odstavec
+  de: |-
+    Darnach soll der Oberst die ämpter besetzen/als Wachtmeyster/Prouantmeyster/Hauptleuth vber tag vnd nachtwacht/Viertheylmeyster/Rottmeyster/Hauptleuth auff die Letzen vnd in die Wehren verordnen.
+  cs: |-
+    Potom má plukovník obsadit úřady, totiž vachmistra {Wachtmeyster}, proviantmistra {Prouantmeyster}, hejtmany nad denní a noční stráží, čtvrtmistry {Viertheylmeyster}[^3], rotmistry {Rottmeyster}, a ustanovit hejtmany na obranné úseky {Letzen} a na hradby.
+- typ: odstavec
+  de: |-
+    Item der Prouandtmeyster soll alle Prouandt vnter seiner verwaltung haben/dieselbig mit Rath deß Obersten vnd der Kriegßräth außtheylen/in dem er sich in all weg der gleichheyt befleissen soll/dann wo mit außtheylung der Prouandt vngleichheyt gehalten wird/erhebt sich gar liederlich meuterey vnd vnwillen.
+  cs: |-
+    Dále proviantmistr má mít veškerý proviant {Prouandt} ve své správě a rozdělovat jej s radou plukovníka a válečných rad, přičemž se má všemožně snažit o rovnost; kde se totiž při rozdělování proviantu postupuje nerovně, velmi snadno vzniká vzpoura a nevole.
+poznamky:
+- n: 1
+  text: |-
+    Doslova „k jiné potřebě, k níž se užívá i mužů“ – tj. k dalším pracím, které jinak konají muži; smysl není zcela jistý.
+- n: 2
+  text: |-
+    Zusatz – lid přidaný k obraně (posila, pomocný lid). Ženy mají v pevnosti zůstat, dokud v ní obrana trvá.
+- n: 3
+  text: |-
+    Viertheylmeyster – správce jedné čtvrti (městské nebo hradní), který v ní řídí obranu, stráže a hašení.

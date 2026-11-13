@@ -1,0 +1,60 @@
+id: 065r
+list: LXV
+strana: recto
+sken: 137
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Es soll auch jeder die Nachrichter bey Keyserlichen Maiestat freiheyt bleiben lassen/welcher das nicht thet/soll am leib vnd leben gestrafft werden.
+  cs: |-
+    Každý má také ponechat katům {Nachrichter} jejich svobodu, kterou mají od Jeho císařského Majestátu[^1]; kdo by tak neučinil, má být potrestán na těle i na životě.
+- typ: odstavec
+  de: |-
+    Item ob einer oder mehr ohne Paßworten auß dem Feldt zügen/den soll man nemen was sie haben/vnd sollen darzů weiter an leib vnd leben gestrafft werden.
+  cs: |-
+    Dále: kdyby jeden nebo více z nich odešli z pole bez průvodního listu {Paßworten}, má se jim vzít, co mají, a navíc mají být potrestáni na těle i na životě.
+- typ: odstavec
+  de: |-
+    Es soll auch keyn Hauptmann dem anderen seine bestelte Knecht/so von jhren Fändlin stellen/annemen/sondern mit wissen vnd willen deß andern Hauptmanns/Auch keyn Reysiger knecht/der auß vnwillen von seinem Herren käme/von keynem Hauptmann zu Fůß bestelt werden.
+  cs: |-
+    Žádný hejtman {Hauptmann} také nemá přijímat knechty {Knecht} najaté jiným hejtmanem, kteří se od svých praporců {Fändlin} vytratí, leda s vědomím a vůlí onoho hejtmana. A žádný jezdecký čeledín {Reysiger knecht}, který by odešel od svého pána ve zlém, nemá být žádným hejtmanem najat k pěchotě.
+- typ: odstavec
+  de: |-
+    Es soll auch keyner dem andern auff dem Spiel nichts abschlahen/noch weiter dann er bar gelt hat/mit dem andern spilen/Wa aber einer dem andern/wenig oder viel auff die kreiden oder borg abgewünn/sol jm der ander weiter dann sein besoldung reycht/nicht schuldig sein.
+  cs: |-
+    Nikdo také nemá druhému při hře nic upírat[^2] ani s ním hrát o víc, než kolik má hotových peněz. Kdyby však někdo vyhrál na druhém málo či mnoho na křídu nebo na dluh, nebude mu ten druhý povinen víc, než kolik činí jeho žold.
+- typ: odstavec
+  de: |-
+    Es sol sich auch ein jeder des zůtrinckens vnd ander mehr sündlicher laster massen Vnnd wa einer in der vollen weiß von den freunden geschlagen würde/oder einen in der vollen weiß schlůg/oder sonst etwas mißhandlete/der soll eben als wer er nüchtern gewesen/wie ander mißhändler am leib vnd leben gestrafft werden/vnd jhn deßhalben nichts entschuldigen.
+  cs: |-
+    Každý se má také zdržet připíjení {zůtrinckens}[^3] a jiných hříšných neřestí. A kdyby byl někdo v opilosti zbit od přátel, nebo sám v opilosti někoho zbil či se jinak provinil, má být potrestán na těle i na životě jako jiní provinilci, právě jako by byl střízlivý, a opilost ho v ničem neomlouvá.
+- typ: odstavec
+  de: |-
+    Item jr solt der Röm. Key. May. sechs Monat lang schwören/vnnd wann die sechs Monat verschienen/vnnd die Key. May. ewer weiter notturfftig sein würde/so sollen jr gleicher massen wie jetzt zudienen schuldig sein/vnnd wann die Key. May. ewer lenger zudienen vor vnnd nach außgang der sechs Monat nicht bedürffe/vnnd dem hauffen vrlaub würde geben/so soll euch ein halber Monat sold für euweren abzug gereycht werden.
+  cs: |-
+    Dále máte Jeho římskému císařskému Majestátu přísahat na šest měsíců; a až šest měsíců uplyne a Jeho císařský Majestát by vás i nadále potřeboval, jste povinni sloužit stejně jako nyní. A kdyby Jeho císařský Majestát vaší další služby před uplynutím šesti měsíců nebo po něm nepotřeboval a dal houfu {hauffen} propuštění, má se vám na odchod vyplatit půl měsíčního žoldu {sold}.
+- typ: odstavec
+  de: |-
+    Es soll auch keyner an gefährlichen orten sonderlich bey der nacht abschiessen/es sey im Läger/Stetten oder Schlössern/dardurch schaden entstehen möcht bey leib straff/Deßgleichen soll keyner auß dem Läger ohne sein wehr ziehen/welcher darüber begriffen würd/soll auch am leib gestrafft werden.
+  cs: |-
+    Nikdo také nemá na nebezpečných místech, zvláště v noci, vystřelovat, ať v ležení {Läger}, ve městech nebo na zámcích, čímž by mohla vzniknout škoda, pod trestem na těle. Stejně tak nikdo nemá z ležení odcházet bez své zbraně; kdo by byl přesto přistižen, má být rovněž potrestán na těle.
+- typ: odstavec
+  de: |-
+    Vnd was einer in Schlachten/Stürmen/oder sonst den feinden abgewünne/soll einem jeden nach Kriegs Recht vnd Ordnung bleiben/sonder Geschütz/puluer/vnd die Heuser gemeynes nutz/darin der vorrath gemeyner Statt/an Geschütz oder profandt geordnet/vnd profandt heuser seind/vnnd sonst alles anders/was zu der Arckelley/vnnd zu erhaltung desselbigen Fleckens gehöret/damit soll der Oberst Feldthauptmann zuhandlen haben/Aber was ausserhalb dessen/so zu erhaltung gemeyner Statt in vorrath in derselben Profand vnd Zeugheusern in der Bürgers vnd andern heusern oder Höfen gefunden/vnnd den feinden abgewunnen würde/soll einem jeden preiß sein/Doch soll der oder dieselben solliche gewunnene beut/als profandt oder vihe nit auß dem Läger füren/sondern im Läger vmb ein zimlichen pfenning den knechten vnd Kriegßuolck verkauffen.
+  cs: |-
+    A co kdo získá na nepříteli v bitvách, při šturmech nebo jinak, má každému zůstat podle válečného práva a řádu, kromě děl {Geschütz}, prachu {puluer} a obecních domů, v nichž jsou uloženy obecní zásoby města na dělech či proviantu, a kromě proviantních domů a všeho ostatního, co patří k dělostřelectvu {Arckelley} a k udržení toho místa: s tím má nakládat nejvyšší polní hejtman {Oberst Feldthauptmann}. Co se však mimo to, co je v zásobě k udržení obce města v jeho proviantních domech a zbrojnicích {Zeugheusern}, najde v měšťanských a jiných domech či dvorech a dobude se na nepříteli, má být každému volnou kořistí. Ten nebo ti však nemají takovou získanou kořist, jako proviant nebo dobytek, odvážet z ležení, nýbrž ji v ležení prodat knechtům a válečnému lidu za přiměřený peníz.
+- typ: odstavec
+  de: Item es soll ein jeder Hauptmann alle Monat/oder wann er Rotten macht/
+  cs: |-
+    Dále: každý hejtman má každý měsíc nebo kdykoli sestavuje roty {Rotten}
+poznamky:
+- n: 1
+  text: |-
+    Kat (Nachrichter) měl od císaře zaručenou ochranu – nikdo se nesměl mstít za výkon jeho úřadu ani mu v něm bránit.
+- n: 2
+  text: |-
+    „nichts abschlahen“ – patrně nic neupírat, tj. nezapírat ani neodpírat prohranou sázku; možné je i čtení „nic si nesrážet“. Smysl artikulu je zamezit sporům a dluhům ze hry.
+- n: 3
+  text: |-
+    Zutrinken – dobový zvyk připíjet si navzájem „do dna“ a nutit druhého k pití stejné míry; vedl k opilství a rvačkám, a proto byl v artikulních listech i zemských řádech zakazován.

@@ -1,0 +1,34 @@
+id: 113r
+list: CXIII
+strana: recto
+sken: 233
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dann wie freundlich der Feind mit jhnen practicier vnd jhnen vil zusag/so hab er doch auff disen tag ein Eyd geschworen/vnd den feindlichen hauffen darauff trötzlich verhetzt/so bald er hinein kom/wöll er ein Sackmann vnd alles gůt preiß machen/ja das kind in Mutterleib/auch die Statt in boden hinein verderben vnd verhergen/Darnach den Brieff an einen pfeil geknüpfft/nachts auff den platz legen/als sey er hinein geschossen/vnd den Bürgern verlesen/als wer er vngefähr gefunden.
+  cs: |-
+    neboť ať s nimi nepřítel jedná jakkoli přátelsky a mnoho jim slibuje, přece právě dnes přísahal a nepřátelský houf k tomu zpupně poštval, že jakmile vnikne dovnitř, vydá [město] k plenění {Sackmann}[^1] a všechen majetek za kořist, ba zahubí i dítě v mateřském lůně a město zničí a zpustoší až do základů. Potom má ten dopis přivázat k šípu, v noci jej položit na náměstí, jako by byl dovnitř vstřelen, a přečíst jej měšťanům, jako by byl nalezen náhodou.
+- typ: nadpis
+  uroven: 2
+  de: Von Belegerung der Stätt vnd Länder seines Feinds/gemeyne Regeln.
+  cs: O obléhání nepřítelových měst a zemí – obecná pravidla
+- typ: odstavec
+  de: |-
+    ERstlich soll er vnuerdacht vnnd eilend ins Land schleichen/sich stilliglich verschmücken/etliche Kirchen vnd geheuß vor der Statt heimlich anzünden/vnd so die vngewarnete Stettleuth herauß lieffen zulöschen/hinder jhnen in die Statt brächen vnd sie einnemen/Würde er hie zwischen auch außgespäht daß er in gemelter stilligkeyt sich vor keyner Statt verschlagen möcht/dann soll er auch also zweiffelhafftig ins Landt brechen/daß niemandt vermercken mög/was er thůn/wo er auß oder an wöll. Darumb soll er auch so vil jhm werden mögen/alle fahen/damit sie sein ankunfft niemandt vermelden/wie obgedacht/Sie wacker berennen/weißlich besichtigen/vnd biß an die Rinckmawr seuberlich auffraumen/mit Schantzkörben also verstellen/daß sie wie die Monns hörner/vom Läger gegen der Statt gerundiert seien/von der Sonnen/damit Sonn vnd Wind dem Belägerten zuwider seie/Das geschütz nachts mit listen in die schantz führen/Er soll vor etliche knecht lassen liechter in Laternen/etwann ferr von den Büchsen an langen spiessen/als weit sie mögen von jhn strecken/vnd also von weittem schier zu der schantz zünden/darmit sie auß der Statt nicht jhnen/sonder allein der Lucernen zuschnellen/Er soll sie auch also streng vmbschantzen vnd bewachten/daß kaum ein meußlin vnuersehen weder auß noch einkriechen mög. Demnach auch jhre stercke vnnd Besatzung erfragen/wo sie schwach wer/daß er sie tag vnd nacht mit allerley gedreng/zu ergebung engstige oder vberwinde/were sie aber starck/mit gůtigem erbieten oder verheyssung grosser freiheyt erwerbe/oder mit miet vnd gaben/sie gegen einander argwönig vnnd auffrhůrisch mache/zertrenn vnnd gewinne/sonder nach erlangtem Sig/dieweil die forcht jhrer verlornen schlacht noch frisch were/oder tag vnd nacht hinzueylen/vnd mit verordneter rüstung vnuersehenlich berennen/oder nach der gewunnen schlacht/die ringe pferd/alle päß/strassen vnd gesteud heyssen verhalten/vnd des erschlagnen feinds kleyder/wehr/Fänlin/Troß vnnd rüstung nemen/vnnd als werens freund/jhre Stätt ehe vberfallen dann sie die mähr der verlornen schlacht vermercken mögen.
+  cs: |-
+    Předně se má nepozorovaně a rychle vplížit do země, potichu se ukrýt, potají zapálit několik kostelů a stavení před městem, a když nevarovaní měšťané vyběhnou hasit, vtrhnout za nimi do města a zmocnit se ho. Kdyby byl mezitím vyzvěděn, takže by se v uvedené tichosti nemohl u žádného města ukrýt, má do země vpadnout tak nejistě, aby nikdo nemohl postřehnout, co hodlá dělat, odkud a kam míří. Proto má také pochytat všechny, koho jen může, aby nikomu neohlásili jeho příchod, jak bylo řečeno výše. [Města] má rázně oblehnout, moudře prohlédnout a [okolí] až k obvodové hradbě {Rinckmawr} čistě vyklidit; šancovními koši {Schantzkörben} je má obestavět tak, aby byly zaobleny jako rohy měsíce od ležení k městu, a to od slunce, aby slunce i vítr byly obleženým proti. Děla má v noci lstivě přivézt do šance: napřed má nechat několik knechtů nést světla v lucernách na dlouhých kopích, poněkud stranou od děl, jak nejdál je od sebe mohou natáhnout, a tak zdaleka svítit skoro až k šanci, aby z města nestříleli na ně, nýbrž jen na lucerny. Má je také tak přísně obehnat šancemi a stráží, aby ani myška nemohla nepozorovaně vylézt ven ani dovnitř. Potom má vyzvědět jejich sílu a posádku: jsou-li slabí, má je ve dne v noci všelijakým náporem sužovat, aby se vzdali, nebo je přemoci; jsou-li však silní, má je získat vlídnou nabídkou nebo slibem velkých svobod, nebo je úplatky a dary učinit vůči sobě navzájem podezíravými a vzpurnými, rozdělit je a dobýt; zvláště po dosaženém vítězství, dokud je strach z jejich prohrané bitvy ještě čerstvý: tehdy má ve dne v noci spěchat k nim a s připraveným vojskem je nenadále oblehnout; nebo má po vyhrané bitvě rozkázat lehkým koním obsadit všechny průsmyky, cesty a křoviny, vzít padlému nepříteli oděvy, zbraně, praporce {Fänlin}, trén a výzbroj a jako by to byli přátelé, přepadnout jejich města dřív, než se tam dozvědí zprávu o prohrané bitvě.
+- typ: nadpis
+  uroven: 2
+  de: Spänigkeyt der Belägerung.
+  cs: Spory o obléhání
+- typ: odstavec
+  de: |-
+    WVrden aber die Befelchs leuth mit jhm spänig in erkiesung der Belägerten Statt/soll ers das loß richten lassen/aber für jhene Statt nimmer lägern/welcher allzeit/auch wider seinen möglichsten fleiß entschüttung vnd alle
+  cs: |-
+    Kdyby se s ním však velitelé {Befelchs leuth} neshodli ve volbě města, jež se má oblehnout, má to nechat rozhodnout losem; nikdy se však nemá položit před takové město, kterému může být vždy, i navzdory jeho největšímu úsilí, přivedena pomoc a všechny
+poznamky:
+- n: 1
+  text: |-
+    „Sackmann machen“ – vydat město k drancování (z ital. saccomanno, plenění, plenitel).

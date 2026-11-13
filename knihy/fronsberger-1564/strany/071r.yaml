@@ -1,0 +1,47 @@
+id: 071r
+list: LXXI
+strana: recto
+sken: 149
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Zum sechtzehenden/was vnter dem Schultheyssen hinder das Gericht gelegt wird/es sey gelt oder kleynot/das ist der Schultheyß schuldig den Partheyen zuverwaren/Von sollichem gelt oder kleynot/ist man jhm allweg den zehenden pfenning/Wa aber dasselbig gelt oder kleynot durch den Schultheyssen verwarloset vnnd verloren würde/so ist er schuldig derselbigen Parthey/die das gelt oder kleynot eingelegt haben/zubezalen/Ob aber sach were/daß dem Schultheyssen solliches behalten gelt oder kleynot mit sampt seinem habe vnd gůt/durch die feind abgetrungen würd/oder in feinds nöten darumb käm/ist der Schultheyß weder red noch antwort schuldig den Partheyen zugeben oder zubezalen.
+  cs: |-
+    Za šestnácté: co se u rychtáře {Schultheyssen} složí do soudní úschovy, ať peníze, nebo klenoty, to je rychtář povinen stranám opatrovat; z takových peněz či klenotů mu vždy náleží desátý peníz. Kdyby však tyto peníze či klenoty rychtář zanedbal a ztratil, je povinen je oné straně, která je složila, nahradit. Kdyby se však stalo, že by rychtáři takové opatrované peníze nebo klenoty spolu s jeho vlastním jměním a statkem uloupil nepřítel nebo by o ně přišel v nepřátelské tísni, není rychtář stranám povinen ani se zodpovídat, ani nic platit.
+- typ: odstavec
+  de: |-
+    Zum siebentzehenden/welcher von dem Schultheyssen ein gastrecht begern wil/der ist schuldig von einem jeglichen Rechtstage dem Schultheyssen einen Ducaten in gold/vnd dem Gerichtschreiber einen halben Ducaten/vnnd einem jeglichen Gerichtsmann einen dicken pfenning/auch andere tag die zu Keyserlichen Rechten gehören/ist er schuldig doppelt zubezalen.
+  cs: |-
+    Za sedmnácté: kdo chce od rychtáře hostinské právo {gastrecht}[^1], je povinen za každý soudní den dát rychtáři jeden dukát ve zlatě, soudnímu písaři půl dukátu a každému soudnímu přísedícímu {Gerichtsmann} jeden tlustý peníz {dicken pfenning}; také za jiné dny, které náležejí k císařskému soudu {Keyserlichen Rechten}, je povinen platit dvojnásob.
+- typ: odstavec
+  de: |-
+    Zum achtzehenden/ob etwas inn sollichen Gerichtshendeln vergessen würde/vnd nit gemelt wer/das Kriegßleuthen vnd Keyserlichen Rechten dienstlich/das soll dem Obersten vnd dem Schultheyssen vorbehalten sein.
+  cs: |-
+    Za osmnácté: kdyby se v těchto soudních věcech na něco zapomnělo a nebylo uvedeno, co válečníkům a císařskému soudu slouží, má to být vyhrazeno plukovníkovi {Obersten} a rychtáři.
+- typ: nadpis
+  uroven: 3
+  de: Folgen hernach die sieben vmbfrag/die zum Keyserlichen Rechten dienen.
+  cs: Následuje sedm otázek {vmbfrag}, které náležejí k císařskému soudu
+- typ: odstavec
+  de: |-
+    ZVm ersten frag ich dich bey deinem Eyd/den du geschworen hast/vmb ein außweisung/obs nicht zufrů oder spat/oder der tag nicht zuheylig sey/daß ich auff disen heutigen tag mit sampt euch Richtern vnd Rechtsprechern sitzen mag/vnnd alles was für mein stab kompt vnd fürbracht wird/ob ich mit sampt euch vrtheyl sprechen kan/es sey vmb silber/gold/oder ehr/leib vnd gůt.
+  cs: |-
+    Za prvé se tě ptám při tvé přísaze {Eyd}, kterou jsi složil, o nález {außweisung}[^2]: není-li příliš časně nebo pozdě a není-li den příliš svatý, abych dnešního dne mohl zasedat spolu s vámi, přísedícími {Richtern} a nálezci práva {Rechtsprechern}, a zda mohu spolu s vámi vynášet rozsudek o všem, co přijde a bude předneseno před mou hůl {stab}, ať jde o stříbro, zlato, nebo o čest, hrdlo a statek.
+- typ: odstavec
+  de: |-
+    Antwort/Herr Schultheyß jhr habt mich gefragt auff meinen eyd/das ist mein höchstes pfand/das ich Fürsten vnd Herren nachtrag/daß ich euch soll ein außweisung geben/ob es nicht auff heut zufrů oder zuspat sey/oder der tag nicht zuheylig/So sage ich euch auff meinen eyd/daß der tag nicht zufrů noch zuspat sey/auch nicht zuheylig/daß jr wol mit sampt den Richtern sitzen möchten/auff heut diesen tag/auch Recht vnd vrtheyl sprechen/vber alles das für eweren stab bracht vnd anklagt ist worden/es sey vmb silber/gold oder leib/ehr vnd gůt.
+  cs: |-
+    Odpověď: Pane rychtáři, ptali jste se mě při mé přísaze, jež je mým nejvyšším závazkem, který chovám knížatům a pánům, abych vám dal nález, není-li dnes příliš časně nebo pozdě a není-li den příliš svatý. Pravím vám tedy při své přísaze, že den není ani příliš časně, ani pozdě, ani příliš svatý, takže dnešního dne můžete spolu s přísedícími zasedat a nalézat právo a rozsudek o všem, co bylo přineseno a obžalováno před vaši hůl, ať jde o stříbro, zlato, nebo o hrdlo, čest a statek.
+- typ: odstavec
+  de: |-
+    Zum anderen frage ich dich/ob sach were/daß man auff heutigen tag im Läger vmbschlůg/das Euangelion vnnd wort Gottes zupredigen vnnd zu verkündigen/ob ich macht hett mit sampt euch Richtern auffzustehen/solliches zuhören/vnnd wann wir sollichs gehört hetten/vnnd es noch bey gůter bequemer tagzeit were/ob ich macht hett den stab wider zu meinen handen zunemen/vnnd mit sampt euch Richtern sitzen/vnd richten vber alles das so ins Recht fürbracht vnd anklagt worden.
+  cs: |-
+    Za druhé se tě ptám: kdyby se dnes v ležení {Läger} vybubnovalo kázání a zvěstování evangelia a slova Božího, mám-li moc spolu s vámi, přísedícími, vstát a jít je poslechnout; a až bychom je vyslechli a byla by ještě dobrá a vhodná denní doba, mám-li moc vzít hůl opět do svých rukou, zasednout spolu s vámi, přísedícími, a soudit o všem, co bylo předneseno a obžalováno před soudem.
+poznamky:
+- n: 1
+  text: |-
+    Gastrecht (Gastgericht) – mimořádné, urychlené soudní řízení na žádost strany (původně pro cizince a pocestné, kteří nemohli čekat na řádný soudní den); strana ho platila zvlášť.
+- n: 2
+  text: |-
+    Außweisung – nález, tj. výrok přísedícího o tom, co je právem. Těchto „sedm otázek“ je formule slavnostního zahájení (zahájení soudu, „Hegung“): rychtář se ptá přísedících, a ti odpovídají ustálenými slovy.

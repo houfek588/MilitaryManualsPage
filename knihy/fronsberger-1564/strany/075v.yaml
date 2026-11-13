@@ -1,0 +1,63 @@
+id: 075v
+list: LXXV
+strana: verso
+sken: 158
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Zum dritten/so betreugt er den Richter vnd die Vrtheylsprecher/daß ein falsch vrtheyl gesprochen wird/vnd betreugt auch den/wider den er sagt/vmb das sein/vnd gibt es dem es nicht gehört.
+  cs: |-
+    Za třetí: Klame soudce {Richter} i nálezce rozsudku {Vrtheylsprecher}, takže je vynesen falešný rozsudek; a toho, proti komu vypovídá, připravuje o to, co je jeho, a dává to tomu, komu to nepatří.
+- typ: odstavec
+  de: |-
+    Darumb so kan ein meineydiger nimmermehr selig werden/er geb dann dem wider dem er abgesagt hat/mit seinen falschen worten.
+  cs: |-
+    Proto křivopřísežník nemůže nikdy dojít spásy, leda by [to] vrátil tomu, proti komu svými falešnými slovy vypovídal.
+- typ: odstavec
+  de: |-
+    Auch verdampt er sich selbs mit ewiger pein/vnd entzeucht sich selbs aller erbarer gesellschafft/vnd kan dannocht sein falsch sag leichtlich erfunden werden.
+  cs: |-
+    Také sám sebe odsuzuje k věčnému trápení a vylučuje se ze vší počestné společnosti; a jeho falešná výpověď přitom může být snadno odhalena.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Jetzt sollen die Zeugen abtretten/vnd einer nach dem andern gefragt werden.
+  cs: Nyní mají svědci odstoupit a být vyslýcháni jeden po druhém
+- typ: odstavec
+  de: |-
+    ERstlich soll er gefragt werden/waher er sey/oder wie alt/vnd wie reich/was seine hanthierung sey/ob er keyner Parthey verwandt sey mit sipschafft/schwagerschafft/geuätterschafft/bruderschafft/gesellschafft/mit bündnuß oder dienstbarkeyt in keyn weg zůgehör.
+  cs: |-
+    Nejprve má být [každý] tázán, odkud je, kolik je mu let, jak je zámožný a čím se živí; zda není s žádnou ze stran spřízněn pokrevně, švagrovstvím, kmotrovstvím, bratrstvím či tovaryšstvím a zda k ní nijak nenáleží spolkem nebo službou.
+- typ: seznam
+  de:
+  - |-
+    Ob er vom anzieher oder jemand andern gebotten sey/erinnert/gelehrt oder ermant/warumb oder wie er sagen soll.
+  - |-
+    Ob er sich mit andern vnterredt hab/was oder wie er sagen soll oder wöll.
+  - |-
+    Ob er seiner sag oder der sach darumb er sagen soll/wiß oder hoff zu geniessen/oder zuentgelten.
+  - Ob er zur widerparthey keyn vngunst hab.
+  - Ob er jedem theyl seins Rechtens günn.
+  - Ob er in diser sach gerathen oder geholffen hab.
+  - |-
+    Ob er sich selbs zum Zeugen angeben/oder von andern gebetten sey worden.
+  cs:
+  - |-
+    Zda mu ten, kdo ho jako svědka uvedl {anzieher}, nebo někdo jiný přikázal, připomněl, poradil či ho napomenul, co nebo jak má vypovídat.
+  - Zda se s jinými domlouval, co nebo jak má či chce vypovídat.
+  - |-
+    Zda ví nebo doufá, že mu jeho výpověď či věc, o níž má svědčit, prospěje, nebo že na ni doplatí.
+  - Zda nechová k protistraně nepřízeň.
+  - Zda přeje každé straně její právo.
+  - Zda v této věci radil nebo pomáhal.
+  - Zda se za svědka přihlásil sám, nebo ho o to jiní požádali.
+- typ: nadpis
+  uroven: 3
+  de: Forma verhörung der Kundtschafft sag.
+  cs: Formulář výslechu svědecké výpovědi {Kundtschafft sag}
+- typ: odstavec
+  de: |-
+    ZVm ersten hat N. ein Bürger/etc. oder anzeyger der Parthey kundtschafft gesagt/vnd anfangs auff gemeyne fragstück/jm von mir Schultheyssen fürgehalten/Er sey keyner Parthey verwandt/er sey von keyner Parthey gebetten/Dieser Zeug sagt nach erinnerung beschwerds meineyds auff eingelegte Artickel/Nemlich auff den ersten Artickel angefangen/auff den andern Artickel aber geantwort/etc. also fortan.
+  cs: |-
+    Za prvé: N., měšťan atd., čili svědek, jehož strana uvedla {anzeyger der Parthey}, vypověděl, a to nejprve k obecným otázkám, které jsem mu já, rychtář {Schultheyssen}, předložil: že není spřízněn s žádnou stranou a žádná strana ho [o svědectví] nežádala. Tento svědek po připomenutí zapřisáhnutí proti křivé přísaze vypovídá k předloženým artikulím {Artickel}, totiž k prvnímu artikulu začal [takto], k druhému artikulu pak odpověděl [takto] atd., a tak dále.

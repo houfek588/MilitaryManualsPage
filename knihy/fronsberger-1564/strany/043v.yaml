@@ -1,0 +1,46 @@
+id: 043v
+list: XLIII
+strana: verso
+sken: 94
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Herrn hierauß erfolgen mag/von stundan seine Knecht bezalen vnnd zu friden stellen/mit dem gelt oder Knechten keyn betrug oder finantz gebrauchen/dann darauß kompt liederlich vnd offt grosser vnrath vnter einem gantzen hauffen.
+  cs: |-
+    pánovi {Herrn} mohla z toho vzejít – své knechty ihned vyplatit a uspokojit a s penězi ani s knechty se nedopouštět žádného podvodu nebo finty {finantz}; z toho totiž snadno a často vzniká v celém houfu velké zlo.
+- typ: odstavec
+  de: |-
+    Es begibt sich offt daß man etwan einzige Fändlin knecht vom hauffen schickt/etwann in Besatzungen/etwann etwas außzurichten/etwann was zubesichtigen/etwann ein Baß/ein Brücken/ein Weg oder Clausen zubesetzen oder verwarn/etwan auff ein Scharmützel/derhalben hoch von nöhten/daß die Hauptmannschafften nit nach gunst/wie offt geschicht/mit jungen vngeübten leuthen besetzt werden/sonder mit rechtgeschaffnen/erfarnen/geübten leuthen/die einen verstand vnd wissen haben/jeder zeit gegen vnd von feinden jhren vortheyl zuerdencken vnnd gebrauchen/darmit deß Herrn vnd der gůten ehrlichen Kriegßleuth ehr/nutz/wolfart/nit verhindert/auch schand/schaden vnnd nachtheyl an ehr/leib vnnd leben vmb gunst willen in gefahr gestelt werde.
+  cs: |-
+    Často se stává, že se od houfu {hauffen} vysílají jednotlivé praporce knechtů {Fändlin knecht} – někdy do posádek {Besatzungen}, někdy něco vykonat, jindy něco prohlédnout, jindy obsadit nebo střežit průsmyk, most, cestu nebo soutěsku {Clausen}, jindy k šarvátce {Scharmützel}. Proto je velmi potřebné, aby se hejtmanská místa neobsazovala podle přízně, jak se často stává, mladými a nevycvičenými lidmi, nýbrž řádnými, zkušenými a vycvičenými muži, kteří mají rozum a znalosti, aby si vždy dokázali vůči nepříteli i při ústupu od něho vymyslet a využít svou výhodu; aby čest, užitek a blaho pána i dobrých čestných válečníků nebyly zmařeny a aby se kvůli přízni nevydávaly v nebezpečí hanby, škody a újmy na cti, těle a životě.
+- typ: odstavec
+  de: |-
+    Der Hauptmann soll allwegen so man auff die Wacht/oder sunst mit seinem Fändlin zeucht/besonder in der feind Landt selbs persönlich bey seinen Knechten sein/daß die Wacht/so es an jm ist/recht besetzt vnd verordnet werd.
+  cs: |-
+    Hejtman má být vždy, když se se svým praporcem táhne na stráž nebo jinam, zvláště v nepřátelské zemi, sám osobně u svých knechtů, aby stráž, když je řada na něm, byla správně obsazena a rozestavena.
+- typ: nadpis
+  uroven: 3
+  de: Der Eyd.
+  cs: Přísaha {Eyd}
+- typ: odstavec
+  de: |-
+    ER schwört neben den gemeynen puncten vnd Artickeln/daß er bey seinen knechten das best thůn/sich mit denselbigen auff Zůg/Wachten/in Besatzungen/vnnd wo jhn der Kriegßherr oder desselbigen Obersten vnnd Anwäldt hin bescheyden vnnd verordnen werden/brauchen lassen/vnnd das best wie einem ehrlichen Kriegßmann zusteht/thůn wölle/daß er auch in der Musterung oder sonst keyn auffsatz/betrug oder finantz sich gebrauchen/auch andern nit zusehen noch gestatten/sonder seiner bestimpten Besoldung/vnd was jhm daneben der Kriegßherr auß sondern gnaden thůt/benügig vnd zufrieden sein wölle/vnnd in dem vnnd anderem in allweg deß Kriegßherrn nutz bedencken vnd schaffen/schaden vnd nachtheyl wenden/verhůten vnd hindern wölle/So sich begebe/daß er in Räthen gebraucht/seinem höchsten vnnd besten verstand nach dem Kriegßherren zu gůt Rathen/vnnd weß jhm also vertrawt/biß in sein end verschwigen behalten.
+  cs: |-
+    Vedle obecných bodů a článků přísahá, že bude u svých knechtů činit to nejlepší, že se s nimi dá použít na pochodech, strážích, v posádkách i všude, kam ho válečný pán {Kriegßherr} nebo jeho nejvyšší velitelé {Obersten} a zmocněnci povolají a ustanoví, a že bude činit to nejlepší, jak náleží čestnému válečníkovi. Dále že se ani při přehlídce {Musterung}, ani jinak nedopustí žádného úskoku {auffsatz}, podvodu nebo finty a nebude to ani u jiných přehlížet či trpět, nýbrž se spokojí se svým stanoveným žoldem a s tím, co mu k tomu válečný pán ze zvláštní milosti udělí; a že v tom i v jiném bude všemožně pamatovat na užitek válečného pána a pečovat o něj, škodu a újmu odvracet, předcházet jim a bránit. Kdyby se stalo, že by byl přizván k radám, bude válečnému pánovi radit k dobru podle svého nejvyššího a nejlepšího rozumu, a co mu bude takto svěřeno, zachová v tajnosti až do své smrti.
+- typ: nadpis
+  uroven: 2
+  de: Ein betrachtung so den Kriegßherren oder General Obersten belangt.
+  cs: |-
+    Úvaha, která se týká válečného pána nebo nejvyššího polního hejtmana {General Obersten}
+- typ: odstavec
+  de: |-
+    JTem es ist für gůt angesehen/daß ein jeder Vnterhauptmann nicht vber ein Fändlin Knecht füren/vnd daß ein jedes Fändlin nit vber vier hundert knecht habe/Fünff hundert were besser.
+  cs: |-
+    Dále se pokládá za dobré, aby žádný podřízený hejtman {Vnterhauptmann} nevedl víc než jeden praporec knechtů a aby žádný praporec neměl víc než čtyři sta knechtů; pět set by bylo lepší.
+- typ: odstavec
+  de: |-
+    Man pflegt aber auff jedes Fändlin fünff hundert Söld zugeben/darunter vier Hundert Knecht ligen/die vberigen hundert Söld werden vnter die ämpter/Edelleuhte/Toppelsöldner/vnd andere gůte ehrliche gesellen außgetheylt im abzelen.
+  cs: |-
+    Obvykle se však na každý praporec dává pět set žoldů {Söld}, pod nimiž slouží čtyři sta knechtů; zbývajících sto žoldů se při vyúčtování {abzelen} rozdělí mezi úřady, šlechtice {Edelleuhte}, dvojžoldnéře {Toppelsöldner} a jiné dobré čestné druhy.

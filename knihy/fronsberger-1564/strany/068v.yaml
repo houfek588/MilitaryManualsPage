@@ -1,0 +1,56 @@
+id: 068v
+list: LXVIII
+strana: verso
+sken: 144
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    fordert vnd zůtrůg/daß abgang der Schantzbawren were/vnd einer oder mehr darzů erfordert/es wer graben/schantzen/Bollwerck oder Läger zubefestigen/vnnd dergleichen/alßdann soll ein jeglicher so darzů erfordert wird/sich gebrauchen lassen/an die arbeyt ohne widerred gehen/vnnd ohne erlaubnuß nicht daruon gehen/biß er daruon abgewisen vnd gefordert wird/vnd was jhm befohlen/sollichs getrewlich außrichten/Welcher aber vngehorsam erschien/oder sich erzeygt/der soll als ein trewloser gestraffet/doch nach gestalt der sachen/vnnd in sollichem Artickel soll niemand gefreiet sein/weder Edel noch vnedel/groß noch kleyn Hans.
+  cs: |-
+    vyžaduje, přihodilo, že by se nedostávalo šancířů {Schantzbawren} a byl by k tomu povolán jeden nebo více [knechtů], ať ke kopání, k šancování, k opevnění bašty {Bollwerck} nebo ležení {Läger} a podobně, pak se má každý, kdo je k tomu povolán, dát použít, jít bez odmlouvání k práci a bez svolení od ní neodcházet, dokud z ní nebude odvolán a odveden, a co se mu přikáže, věrně vykonat. Kdo by se však ukázal nebo projevil neposlušným, má být potrestán jako věrolomný, ovšem podle povahy věci; a od tohoto artikulu nemá být nikdo vyňat, ani urozený, ani neurozený, ani velký, ani malý pán[^1].
+- typ: odstavec
+  de: |-
+    Der Artickels Brieff soll offentlich im Ring in beysein des Obersten verlesen/durch seinen Schreiber/vnnd darnach der Eyd durch den Schultheyssen gegeben werden.
+  cs: |-
+    Artikulní list {Artickels Brieff} má být veřejně v kruhu {Ring} za přítomnosti plukovníka {Obersten} přečten jeho písařem {Schreiber} a potom má rychtář {Schultheyssen} předříkat přísahu {Eyd}.
+- typ: nadpis
+  uroven: 2
+  de: Copia eines Artickels Brieffs anderer form.
+  cs: Opis artikulního listu v jiné podobě
+- typ: odstavec
+  de: |-
+    ZVm ersten sollen sie der Römischen Keyserlichen Maiestat schwören getrewlich zudienen/jren Hauptleuthen/Fänderichen/Weybeln vnd Rottmeystern/so von hochgenannter Key. May. gesetzt werden gehorsam zusein/vnd was sie mit jnen schaffen vnd bieten/dasselbig ohne widerred zuthůn/vnnd darin keyn minderung zumachen vnd keyn zug abschlahen/wie es die not erfordert/gegen den feinden/oder anderßwa/wie es sich geschicken mag.
+  cs: |-
+    Za prvé: Mají přísahat, že budou věrně sloužit Římskému císařskému Majestátu a že budou poslušni svých hejtmanů {Hauptleuthen}, praporečníků {Fänderichen}, šikovatelů {Weybeln} a rotmistrů {Rottmeystern}, které ustanoví výše jmenovaný císařský Majestát; a co jim přikážou a nařídí, to mají bez odmlouvání vykonat, nic z toho neubírat a neodmítat žádné tažení {zug}, jak to potřeba vyžaduje, ať proti nepříteli, nebo jinam, jak se to přihodí.
+- typ: odstavec
+  de: |-
+    Zum andern/sollen sie Keyserlichen Maiestat nit höher steigen oder heyschen/dann ein Monat vier gülden/ohne die vbersöld/vnd dreißig tag sollen sie für ein Monat rechnen zudienen.
+  cs: |-
+    Za druhé: Nemají své požadavky vůči císařskému Majestátu stupňovat ani žádat víc než čtyři zlaté {gülden} na měsíc, nepočítaje přeplatky {vbersöld}; a mají počítat třicet dní služby za jeden měsíc.
+- typ: odstavec
+  de: |-
+    Zum dritten/ob sich begebe/daß man in einer kleynen zeit durch kriegßnöt oder vnfall schuldig würd/vnd ein Feldzug vorhanden wer/es sey zu den feinden oder von den feinden/wie es die notturfft erheyscht/daß sie sollichs nit abschlahen/sondern thůn als ehrliche kriegßleuth.
+  cs: |-
+    Za třetí: Kdyby se stalo, že by jim [pán] v krátké době z válečné nouze nebo nešťastnou náhodou zůstal [žold] dlužen[^2] a bylo by na spadnutí tažení {Feldzug}, ať proti nepříteli, nebo od nepřítele, jak to potřeba vyžaduje, nemají je odmítat, nýbrž [mají] je vykonat jako čestní váleční muži.
+- typ: odstavec
+  de: |-
+    Zum vierdten/So Schlösser/Stett/oder andere Besatzungen/mit dem sturm gewunnen würden/so soll einem jeden bleiben/was er gewinnt/doch mit züchten/oder was einer mit vnzüchten nemmen wölt/so soll er das er genommen hat/verloren/vnd darzů ein straff nach des Obersten vnd Hauptmanns erkanntnuß verwircket haben/Wa aber Schlösser/Stett/oder andere Besatzungen mit thäding gewunnen/auch streit vnnd Schlachten erobert würden/so soll jhnen Keyserliche Maiestat nicht weiter schuldig sein.
+  cs: |-
+    Za čtvrté: Budou-li zámky, města nebo jiná obsazená místa {Besatzungen} dobyta šturmem {sturm}, má každému zůstat, co získá, ovšem se slušností {züchten}. Kdo by však chtěl něco vzít nepočestně, ten má to, co vzal, ztratit a k tomu propadnout trestu podle uvážení plukovníka a hejtmana. Budou-li však zámky, města nebo jiná obsazená místa získána smlouvou {thäding}, nebo budou-li vybojována střetnutí a bitvy, nemá jim [za to] císařský Majestát být povinen nic dalšího.
+- typ: odstavec
+  de: |-
+    Zum fünfften soll keyner bey Gott schwören/wa einer oder mehr das vbertret/den soll man straffen an leib vnd gůt/vnd ein jeglicher knecht soll jhn bey seinem Eyd/so er gethan hat dem Profosen anzeygen/alßdann soll der Profoß mit jhm handlen/nach laut deß Artickels Brieff.
+  cs: |-
+    Za páté: Nikdo se nemá zaklínat Bohem[^3]. Kdyby to jeden nebo více přestoupili, má být [provinilec] potrestán na těle a na statku; a každý knecht {knecht} ho má při přísaze, kterou složil, oznámit profousovi {Profosen}; profous pak s ním má naložit podle znění artikulního listu.
+poznamky:
+- n: 1
+  text: |-
+    „groß noch kleyn Hans“ – dobové rčení „velký ani malý Hans“, tj. ani vznešený, ani prostý (srov. l. LXIIv, LXVv, XCv).
+- n: 2
+  text: |-
+    „daß man … schuldig würd“ – nejasné; nejspíš „že by [pán] zůstal [žold] dlužen“ (srov. obdobný artikul na l. LXVIIIr: když měsíc uplyne a žold není hned v hotovosti, nemá se odmítat tažení). Méně pravděpodobně „že by [k tomu] byli povinni“.
+- n: 3
+  text: |-
+    „bey Gott schwören“ – lehkomyslné přísahání a klení při Bohu (rouhání), které artikulní listy pravidelně zakazovaly.

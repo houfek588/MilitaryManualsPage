@@ -1,0 +1,47 @@
+id: 043r
+list: XLIII
+strana: recto
+sken: 93
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Knechten bekannt vnd verdient sey/damit er sein anzal knecht/vnnd recht geschaffen leuth zuwegen vnd auffbringen könne.
+  cs: |-
+    knechtů {Knechten} známý a měl u nich zásluhy, aby mohl svůj počet knechtů a řádných lidí sehnat a naverbovat.
+- typ: odstavec
+  de: |-
+    So er auff den Musterplatz kompt/soll er mit seiner anzal knechten verfasset/sampt seinem Schreiber vnnd Registern/darinnen seine knecht verzeychnet erscheinen/dann läßt er ein ring machen/tritt damit hinein/spricht die knecht an/zeygt sich an für jhren Hauptmann/bitt daß sie jhm jeder zeit gefellig vnd gehorsam/als frommen ehrlichen Kriegßleuthen/sampt jhrem Fänderich vnd Feldtweybel/die jhm vnd jhnen der Oberst hab zuuerordnet/die er jhnen hiermit nennen vnnd anzeygen sol/sein wöllen/es sey auff zug/auff wachten/im Feld oder Besatzungen/gegen oder von den feinden/wie daß die gelegenheyt jeder zeit erfordern/vnd mitbringen werde/Dagegen soll er sich erbieten/daß er sich bey jhnen als einem ehrlichen Kriegßman vnd Hauptmann gebürt halten/jnen auch ein gleicher Hauptmann vnd mitbrůder sein/liebs vnd leyds mit jnen gemeyn haben/vnd einem jeglichen in sonderheyt/besonder den jenigen/so sich vor andern ehrlich vnd wol halten werden/was jnen lieb vnd dienst sey/sie fürdern vnnd alles gůts thůn/mit mehrerm anhang/wie dann ein verstandner beredter selbs zuthůn wol weyß.
+  cs: |-
+    Když přijde na přehlídkové místo {Musterplatz}, má se tam dostavit s připraveným počtem knechtů, spolu se svým písařem a rejstříky, v nichž jsou jeho knechti zapsáni. Potom dá udělat kruh {ring}, vstoupí s nimi do něj, promluví ke knechtům, představí se jim jako jejich hejtman a požádá je, aby mu byli vždy po vůli a poslušni, jak se sluší na řádné {frommen} a čestné válečníky, stejně jako svému praporečníkovi {Fänderich} a šikovateli {Feldtweybel}, které jemu i jim ustanovil plukovník {Oberst} a které jim má při té příležitosti jmenovat a ukázat; a to na pochodu i na stráži, v poli i v posádkách, proti nepříteli i při ústupu od něho, jak si to okolnosti kdykoli vyžádají a přinesou. Naproti tomu se má zavázat, že se k nim bude chovat, jak se na čestného válečníka a hejtmana sluší, že jim bude nestranným hejtmanem a spolubratrem, bude s nimi sdílet dobré i zlé a každému zvlášť, zvláště těm, kdo se budou chovat čestněji a lépe než jiní, bude napomáhat ve všem, co je jim milé a k užitku, a prokazovat jim vše dobré; s dalšími slovy, jak to rozumný a výmluvný muž sám dobře umí.
+- typ: odstavec
+  de: |-
+    Dann zeygt er jhnen an jhren Leutenant/Schreiber/Capplon vnd Feldtscherer/die sollen im ring stehn.
+  cs: |-
+    Potom jim představí jejich poručíka {Leutenant}, písaře, kaplana a ranhojiče {Feldtscherer}, kteří mají stát v kruhu.
+- typ: odstavec
+  de: |-
+    Darnach so er also seine Landsknecht freundlich angesprochen/so sagt er: Liebe ehrliche Landsknecht/jr solt jetzt ewere ämpter besetzen/dieweil dann die notturfft des Kriegßherrn/auch des gantzen hellen hauffen/vnnd besonder vnser aller miteinander das auffs höchst erfordert/So ist mein bitt/daß jhr dieselbigen nicht nach gunst/sonder nach ehren vnnd erheyschung der notturfft/mit ehrlichen/frommen/weydlichen vnnd geschickten Kriegs erfarnen knechten/die darzu geschickt vnd gůt seind/die jhr dann wol vnter euch habt/besetzen vnd versehen wölt.
+  cs: |-
+    Když takto ke svým lancknechtům {Landsknecht} vlídně promluvil, řekne: „Milí čestní lancknechti, nyní máte obsadit své úřady. A protože to nanejvýš vyžaduje potřeba válečného pána, celého houfu {hellen hauffen} a zvláště nás všech dohromady, prosím vás, abyste je neobsazovali podle přízně, nýbrž podle cti a podle toho, co si žádá potřeba: čestnými, řádnými, statečnými, schopnými a ve válce zkušenými knechty, kteří se k tomu hodí a jsou k tomu dobří a jakých máte mezi sebou jistě dost.“
+- typ: odstavec
+  de: |-
+    Dann fragt der Feldtweybel vmb einem Weybel vmb/So der gemacht/so fragt derselbig new gemacht Weybel nach einem Weybel zu jhm vmb/So der gemacht/fragt er nach einem Fürer vmb/Wo der gemacht/fragt er nach einem Furier vmb.
+  cs: |-
+    Potom šikovatel dá kolem dokola volit obecního šikovatele {Weybel}. Když je zvolen, dá tento nově zvolený šikovatel volit druhého obecního šikovatele k sobě. Když je i ten zvolen, dá volit vůdce {Fürer}, a když je zvolen ten, dá volit furýra {Furier}.
+- typ: odstavec
+  de: |-
+    So also alle ämpter besetzt/heysset er die knecht sich rotten/vnnd jhre Rottmeyster machen/befilcht auch daß alßbald die gemachte Rottmeyster kommen/sich anzeygen vnd auffschreiben sollen lassen.
+  cs: |-
+    Když jsou takto všechny úřady obsazeny, přikáže [hejtman] knechtům, aby se rozdělili do rot {rotten} a zvolili si své rotmistry {Rottmeyster}. Nařídí také, aby zvolení rotmistři hned přišli, ohlásili se a dali se zapsat.
+- typ: odstavec
+  de: |-
+    So man seine Knecht mustert/so steht oder sitzt er bey dem Musterherren mit sampt seinem Schreiber.
+  cs: |-
+    Když se jeho knechti přehlížejí, stojí nebo sedí [hejtman] se svým písařem u přehlídkového komisaře {Musterherren}.
+- typ: odstavec
+  de: |-
+    Darnach so seine Knecht gemustert/die Register verglichen/mit dem Musterherrn oder Pfenningmeyster abgezelt/vnd die Register wie sich gebürt verbittschiert/vnterschrieben vnd verfertigt seind/so empfächt er sein gelt/dann soll er zuuermeiden klag/auffrůhr vnd rumor/auch vngunst/so nicht allein jm/sonder auch dem Kriegß
+  cs: |-
+    Když jsou pak jeho knechti přehlédnuti, rejstříky porovnány, s přehlídkovým komisařem nebo pokladníkem {Pfenningmeyster} vyúčtováno a rejstříky, jak se sluší, zapečetěny, podepsány a vyhotoveny, přijme své peníze. Potom má – aby předešel stížnostem, vzpouře a výtržnostem i nepřízni, která by nejen jemu, ale i válečnému

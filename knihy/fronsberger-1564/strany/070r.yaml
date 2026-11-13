@@ -1,0 +1,59 @@
+id: 070r
+list: LXX
+strana: recto
+sken: 147
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Die Gerichtsordnung vnter den Landsknechten zufüren vnd zuhalten.
+  cs: |-
+    Soudní řád {Gerichtsordnung}, jak jej mezi lancknechty {Landsknechten} zavádět a zachovávat
+- typ: odstavec
+  de: |-
+    ANfencklich wa ein Herr ein Regiment auffrichten wil/so soll der Oberst Feldhauptmann nach einem verstendigen Kriegßmann trachten/der geschickt vnnd Kriegßrechts erfaren sey/denselbigen mag er zu einem Schultheyssen machen/vnd jhm den stab vberlifern/jn Eydspflicht ermanen/vnd einbinden/daß er denselbigen stab wöll füren/dem armen als dem reichen/niemants zu lieb noch zu leyd/sonder nach dem Göttlichen Rechten ein vrtheyl sprechen.
+  cs: |-
+    Předně: když chce pán zřídit pluk {Regiment}, má se nejvyšší polní hejtman {Oberst Feldhauptmann} poohlédnout po rozumném válečníkovi, který je schopný a zkušený ve válečném právu. Toho může učinit rychtářem {Schultheyssen}, předat mu hůl {stab}[^1], napomenout ho k přísežné povinnosti a zavázat ho, aby tu hůl vedl chudému jako bohatému, nikomu k lásce ani ke škodě, a vynášel rozsudek podle Božího práva.
+- typ: odstavec
+  de: |-
+    Zum andern/soll der Schultheyß vmb zwölff geschickte Männer sehen vnnd trachten/dieselbigen sollen darauff bestelt werden/vnd wachtfrey sein/vnd hat jnen zu gebieten vnd zubefehlen was billich ist.
+  cs: |-
+    Za druhé: rychtář se má poohlédnout po dvanácti schopných mužích a vybrat je; ti mají být k tomu ustanoveni a osvobozeni od stráží, a on jim má přikazovat a nařizovat, co je náležité.
+- typ: odstavec
+  de: |-
+    Zum dritten/soll der Schultheyß sampt den Zwölffern dem Obersten ein Eyd thůn/zu Gott vnd dem heyligen Euangelio/daß sie wöllen vrtheylen vnd Recht sprechen/dem armen als dem reichen/dem reichen als dem armen/hierin nicht gedencken feindschafft/geuätterschafft/weder gunst/gab/neid noch haß/sondern sie sollen sein trewlich vnd vngefährlich in allen sachen/als weit jr verstand reychet vnd außweiset/das sie wölten das Gott der Allmechtig am jüngsten Gericht vber jhr arme seel richten soll/mit seinen heyligen zwölff botten.
+  cs: |-
+    Za třetí: rychtář spolu s dvanácti [přísedícími] {Zwölffern} má přísahat plukovníkovi {Obersten} při Bohu a svatém evangeliu, že chtějí soudit a nalézat právo chudému jako bohatému a bohatému jako chudému, a nehledět přitom na nepřátelství, kmotrovství, přízeň, dary, závist ani nenávist, nýbrž ve všech věcech jednat věrně a bez zlé lsti, kam až jejich rozum sahá a ukazuje, tak jak by chtěli, aby všemohoucí Bůh se svými svatými dvanácti apoštoly soudil jejich ubohou duši na posledním soudu.
+- typ: odstavec
+  de: |-
+    Zum vierdten/ist der Gerichtschreiber schuldig mitzuschwören ein eyd/wie obgemelt/daß er vmb sein gebürlicheyt im Rechten/vnd ausserhalb deß Rechten schreiben wöll/nicht zuuil noch zuwenig/sonder was in Recht sey fürbracht. Es soll auch der Gerichtsweybel mit schwören/daß er vmb sein gebürlicheyt fürbieten/zu rechter zeit vnd weil/trewlich vnd vngefährlich/darmit keyner vor dem Rechten in versaumnuß komme.
+  cs: |-
+    Za čtvrté: soudní písař {Gerichtschreiber} je povinen spolu s nimi přísahat, jak shora řečeno, že bude za svůj náležitý plat {gebürlicheyt}[^2] psát u soudu i mimo soud, ani příliš mnoho, ani příliš málo, nýbrž co bylo před soudem předneseno. Také soudní šikovatel {Gerichtsweybel} má spolu přísahat, že bude za svůj náležitý plat obesílat v pravý čas a hodinu, věrně a bez zlé lsti, aby nikdo před soudem nepřišel ke škodě zmeškáním.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Folgen hernach die Gerichtsleuth/so dem Schultheyssen schuldig seind zuthůn nach billichkeyt/etc.
+  cs: |-
+    Následuje, co jsou soudní přísedící {Gerichtsleuth} povinni rychtáři činit podle náležitosti atd.
+- typ: odstavec
+  de: |-
+    ZVM ersten sollen die Richter/mit sampt dem Schultheyssen ein Eydt thůn zu Gott vnd seinem heyligen Euangelio/alles was sie richten vnd vrtheylen zuverschweigen biß in jr gruben.
+  cs: |-
+    Za prvé: přísedící {Richter} spolu s rychtářem mají přísahat při Bohu a jeho svatém evangeliu, že vše, co soudí a rozsuzují, zamlčí až do hrobu.
+- typ: odstavec
+  de: |-
+    Zum andern/sollen die Richter dem Schultheyssen schwören gehorsam zusein in allen billichen sachen.
+  cs: |-
+    Za druhé: přísedící mají rychtáři přísahat, že mu budou poslušni ve všech náležitých věcech.
+- typ: odstavec
+  de: |-
+    Zum dritten/soll keyn Richter oder Rechtsprecher auß dem Läger gehen in die weittin/er hab dann erlaubnuß vom Schultheyssen/bey straff eines güldins.
+  cs: |-
+    Za třetí: žádný přísedící ani nálezce práva {Rechtsprecher} nemá odcházet z ležení {Läger} do dálky, leda by měl svolení od rychtáře, pod pokutou jednoho zlatého {güldins}.
+poznamky:
+- n: 1
+  text: |-
+    Hůl (Stab) – odznak soudní moci; rychtář ji při soudu drží a hůl se „vede“ či „láme“ (nad odsouzeným). Předáním hole se rychtář uvádí do úřadu.
+- n: 2
+  text: |-
+    „vmb sein gebürlicheyt“ – za svůj náležitý poplatek (Gebühr), tj. písař a soudní šikovatel brali od stran za úkony stanovený plat.

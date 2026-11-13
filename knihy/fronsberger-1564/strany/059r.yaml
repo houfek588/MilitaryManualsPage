@@ -1,0 +1,62 @@
+id: 059r
+list: LIX
+strana: recto
+sken: 125
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Sein Besoldung ist Monats zwen Söld/vnd wird wie hieuor vom Gerichtßweybel angezeygt/vnter eim Hauptmann beschrieben/auff deß Fändlin er auch auff Züg vnd Wachten warten soll.
+  cs: |-
+    Jeho žold {Besoldung} činí měsíčně dva žoldy; a jak bylo výše[^1] uvedeno u soudního šikovatele {Gerichtßweybel}, je zapsán u některého hejtmana {Hauptmann}, u jehož praporce {Fändlin} má také konat pochody {Züg} a stráže {Wachten}.
+- typ: nadpis
+  uroven: 3
+  de: Sein Eydt.
+  cs: Jeho přísaha {Eydt}
+- typ: odstavec
+  de: |-
+    ER schwört daß er wölle in peinlichen oder andern Bürgerlichen sachen fleissig auffmercken haben/Klag vnd Antwort/anzeygung/verdacht oder beweisung/auch vrgichten der gefangnen/vnd was gehandelt wird getrewlich auffschreiben/verwaren/vnd wo noth verlesen/auch darinn keynerley gefärde suchen vnd brauchen/auch alles so er im Rath hört/in geheym vnnd verschwigen die tag seins lebens behalten.
+  cs: |-
+    Přísahá, že bude v trestních {peinlichen} nebo jiných občanských {Bürgerlichen} věcech pilně dávat pozor; že žalobu a odpověď, indicie {anzeygung}, podezření nebo důkazy, také výpovědi {vrgichten} vězňů a vše, co se projednává, věrně zapíše, uschová a v případě potřeby přečte; že v tom nebude hledat ani užívat žádné lsti {gefärde}; a že vše, co uslyší při poradě [soudu], zachová po všechny dny svého života v tajnosti a mlčenlivosti.
+- typ: nadpis
+  uroven: 2
+  de: Ampt vnd Befelch des Gerichtsweybels.
+  cs: Úřad a pověření soudního šikovatele
+- typ: odstavec
+  de: |-
+    VNter jedem Regiment der Landtsknecht wird ein Gerichtsweybel gehalten/der gehört vnter des Schultheyssen Regiment/Vnd deß Befelch vnd Ampt ist/so jemandt den ander für Gericht erfordern wil/der verfüget sich zu dem Schultheyssen/zeygt sein handlung vnd anligen an/vnd begert daß der Schultheyß jhm ein Gerichts tag ernenne/vnnd seinem gegentheyl fürbieten lassen wölle/der befilcht es dann dem Gerichtßweybel/der verfügt sich dann vnter das Fändlin/da der jhenig dem er fürbiet/ligt/verkündt jhm auß befelch deß Schultheyssen/daß er N. seinem gegentheyl auff N. tag/an N. Malstatt/vmb N. vhr erscheinen/vnd eins Rechten soll sein.
+  cs: |-
+    U každého pluku lancknechtů {Landtsknecht} se vydržuje soudní šikovatel, který patří pod správu {Regiment} rychtáře {Schultheyssen}. Jeho povinností a úřadem je toto: chce-li někdo pohnat jiného před soud {Gericht}, odebere se k rychtáři, přednese mu svou při a žádost a žádá, aby mu rychtář určil soudní den a dal jeho protivníka předvolat. Rychtář to pak uloží soudnímu šikovateli; ten se odebere k praporci {Fändlin}, u něhož leží ten, koho předvolává, a z rozkazu rychtáře mu oznámí, že se má N. dne na N. soudním místě {Malstatt}[^2] o N. hodině dostavit k N., svému protivníkovi, a stát mu k právu.
+- typ: odstavec
+  de: |-
+    Kan er jhn dann im Läger nicht außtretten oder finden/so lasset er im Läger einen Trommenschlager offentlich vmbschlagen/vnd den Rechtstag verkünden/vnnd daruon hat der Gerichtßweybel von den Partheyen sein bestimpte belonung.
+  cs: |-
+    Nemůže-li ho pak v ležení {Läger} vypátrat nebo najít, dá v ležení bubeníkovi {Trommenschlager} veřejně vybubnovat a ohlásit soudní stání {Rechtstag}; a za to má soudní šikovatel od stran stanovenou odměnu.
+- typ: odstavec
+  de: |-
+    So man dann Gericht helt/so wartet der Gerichtßweybel allwegen bey dem Schultheyssen/jeder zeit nach notturfft seinem befelch zugehorsamen/die Partheyen zufordern/abzutretten zuheyssen/vnd andern dergleichen geschefft/in gestalt wie man pflegt in Stetten Gericht zuhalten.
+  cs: |-
+    Když se pak koná soud, čeká soudní šikovatel vždy u rychtáře, aby byl kdykoli podle potřeby poslušen jeho rozkazů: předvolávat strany {Partheyen}, vyzývat je, aby odstoupily[^3], a [konat] jiné podobné úkony, tak jak se obvykle soudí ve městech.
+- typ: odstavec
+  de: |-
+    Es wird gemeynlich vnd billich ein ehrlicher Kriegßmann/so sonst seim Stand nach von vbersölden nit vnterhalten werden mag/zu dem Ampt gefordert/dem pflegt man Doppelsold zugeben. Er hat auch von den Gerichtßhandlungen sein zimlich belonung für sein müh vnd arbeyt/So laßt er sich vnter einen Hauptmann einschreiben/auff des Fändlin er in Züg vnnd Wachten warten soll/darunter er auch sein besoldung empfacht.
+  cs: |-
+    K tomuto úřadu se obvykle a právem povolává čestný válečník {Kriegßmann}, kterého by jinak podle jeho postavení nebylo možno vydržovat z přeplatků {vbersölden}[^4]; tomu se obvykle dává dvojitý žold {Doppelsold}. Také má ze soudních jednání přiměřenou odměnu za svou námahu a práci. Dá se zapsat u některého hejtmana, u jehož praporce má konat pochody a stráže a u něhož také přijímá svůj žold.
+- typ: odstavec
+  de: |-
+    Sein Eyd ist sonders nichts/dann so er im Gerichtßrath etwas geheyms hört/dasselbig die tag seines lebens zuuerschweigen.
+  cs: |-
+    Jeho přísaha neobsahuje nic zvláštního, jen že to, co tajného uslyší při soudní poradě {Gerichtßrath}, zamlčí po všechny dny svého života.
+poznamky:
+- n: 1
+  text: |-
+    „wie hieuor vom Gerichtßweybel angezeygt“ – úřad soudního šikovatele je v tisku popsán až níže na této straně (kde se o něm říká totéž: je zapsán u některého hejtmana a koná u jeho praporce pochody a stráže). Odkaz „výše“ je buď přežitek jiného pořadí kapitol, nebo omyl místo soudních přísedících, o nichž se totéž říká výše (l. LVIIIr).
+- n: 2
+  text: |-
+    Malstatt (Mahlstatt) – staré právní označení místa, kde se koná soud (soudní stání pod širým nebem).
+- n: 3
+  text: |-
+    Strany musely při poradě přísedících o rozsudku z kruhu nebo soudního místa odstoupit; soudní šikovatel je k tomu vyzýval a opět předvolával.
+- n: 4
+  text: |-
+    Smysl: úřad dostává zasloužilý knecht, kterému by podle jeho postavení jinak vyšší žold z přeplatků (Übersold) nepříslušel; dvojitý žold mu tak náleží díky úřadu.

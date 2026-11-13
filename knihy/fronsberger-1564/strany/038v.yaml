@@ -1,0 +1,56 @@
+id: 038v
+list: XXXVIII
+strana: verso
+sken: 84
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    ES ist nicht vbel bedacht/daß jeder Hauptmann oder Rittmeyster/auch sein eygen Capplon habe/der ein gelehrter Christlicher mensch sey/der täglich wo es gesein mag/in seins Hauptmanns Quartier seinen Reuttern ein Predig thů/vnd das Wort Gottes verkündige/sie zu Gottes forcht/der gerechtigkeyt vnd frombkeyt weise/jre vntugend vnd laster straff/sie in aller Christlicher zucht bericht vnd erbawe/Dann Christliche zucht/vnd Gottes forcht zierdt ein Kriegßmann eben so wol/als zu vnsern jetzigen zeiten ein Barfüsser Münch/es ist im eben als dem der all stund dem tod die haut nachtregt/So auch jemands geschossen/gestochen/oder sonst wund/oder in Kranckheyt vnd todts nöhten kompt/daß er bey jm sey/jhn tröst vnd zusprech/wie dann die notturfft eins jeden Christlichen vnd sterblichen menschen erfordert.
+  cs: |-
+    Není špatně uváženo, aby každý hejtman {Hauptmann} neboli rytmistr {Rittmeyster} měl také svého vlastního kaplana {Capplon}, který by byl učený křesťanský člověk a který by denně, kde jen to je možné, v kvartýru {Quartier} svého hejtmana kázal jeho jezdcům {Reuttern} a zvěstoval slovo Boží, vedl je k bázni Boží, ke spravedlnosti a zbožnosti, káral jejich nectnosti a neřesti a poučoval a vzdělával je ve veškeré křesťanské kázni. Neboť křesťanská kázeň a bázeň Boží zdobí válečníka {Kriegßmann} stejně dobře jako v našich nynějších časech bosáka {Barfüsser Münch}[^1]; vždyť [válečník] je na tom stejně jako ten, kdo každou hodinu nosí smrti svou kůži[^2]. A když je někdo postřelen, probodnut nebo jinak zraněn, nebo upadne do nemoci a smrtelné nouze, má [kaplan] být u něho, těšit ho a promlouvat k němu, jak to vyžaduje potřeba každého křesťanského a smrtelného člověka.
+- typ: odstavec
+  de: |-
+    Man gibt im Besoldung wie einem andern Reysigen auff ein pferdt/vnd darneben ein zimlichs vortheyl von wegen seiner müh vnnd arbeyt/die Hauptleuth oder Rittmeyster haben sie gewönlich in jhrem Rath/gebrauchen sie für einkäuffer vnnd zu anderer notturfft.
+  cs: |-
+    Dává se mu žold {Besoldung} jako jinému jezdci {Reysigen} na jednoho koně a vedle toho přiměřená výhoda {vortheyl} za jeho námahu a práci. Hejtmani neboli rytmistři je obvykle mají ve své radě a užívají je jako nákupčí {einkäuffer} a k jiným potřebám.
+- typ: nadpis
+  uroven: 2
+  de: Der Reysigen Hauptleuth oder Rittmeyster Schreiber.
+  cs: Písař {Schreiber} hejtmanů neboli rytmistrů jízdy
+- typ: odstavec
+  de: |-
+    JEder Reysiger Hauptmann oder Rittmeyster/hat auch sein eygen Schreiber/der hat die Register seiner Reutter/darauff man mustert vnd bezalt/Der Hauptmann gebraucht jhn auch zu andern seineu geschefften vnnd notturfft/Er thůt dem Feldtmarschalck pflicht an statt deß Kriegßherren/daß er wölle getrewlich vnd vnarglistig schreiben/zu keyner vinantz so vnbillich vnnd wider den Kriegßherren/weder hülff/rath noch that thůn/etc. Vnd sonst in all ander weg wölle handlen/thůn vnd lassen/als/etc.
+  cs: |-
+    Každý jezdecký hejtman neboli rytmistr má také svého vlastního písaře, který vede rejstříky {Register} jeho jezdců, podle nichž se koná přehlídka {mustert} a vyplácí žold. Hejtman ho užívá i k jiným svým záležitostem a potřebám. Písař skládá závazek {pflicht} polnímu maršálkovi {Feldtmarschalck} jako zástupci válečného pána {Kriegßherren}, že bude psát věrně a bez lsti a že k žádné fintě {vinantz}, která by byla nespravedlivá a namířená proti válečnému pánovi, nepřispěje pomocí, radou ani činem atd. A že bude i ve všech jiných ohledech jednat, konat a počínat si, jak [se sluší] atd.
+- typ: odstavec
+  de: |-
+    Er hat keyn ander vortheyl/dann von wegen seiner müh vnd arbeyt hat er doppel sold.
+  cs: |-
+    Jinou výhodu nemá; jen za svou námahu a práci má dvojitý žold {doppel sold}.
+- typ: nadpis
+  uroven: 2
+  de: Feldtrometer vnter ein geschwader Reutter gehörig.
+  cs: Polní trubač {Feldtrometer} u švadrony {geschwader} jezdců
+- typ: odstavec
+  de: |-
+    VNter jedem geschwader Reutter soll zum wenigsten ein Trommeter sein/der wart auff sein Hauptmann/vnd soll sich tag vnd nacht bey seins Hauptmanns Zellt oder Losament finden lassen/damit was sich zutregt/jhn der Hauptman bey der hand habe.
+  cs: |-
+    U každé švadrony jezdců má být nejméně jeden trubač, který je k službám svému hejtmanovi a má být ve dne v noci k nalezení u hejtmanova stanu {Zellt} nebo ubytování {Losament}, aby ho hejtman měl po ruce, ať se přihodí cokoli.
+- typ: odstavec
+  de: |-
+    Am ziehen zeucht er allzeit vor den Reuttern vnd dem Hauptmann her.
+  cs: |-
+    Na pochodu jede vždy před jezdci a před hejtmanem.
+- typ: odstavec
+  de: |-
+    Er soll wissen vnd können sein vnterschidlich blasen/also wann man Sattlen/wann man essen/wann man auffsitzen vnnd anzichen soll/auch so feinde vorhanden/Lärmen/oder so man mit den feinden drauff hawen vnd treffen soll/hat alles sein vnterschid am Trommeten/darnach sich auch die Reutter wissen zurichten.
+  cs: |-
+    Má znát a umět svá rozličná troubení {blasen}: kdy se má sedlat, kdy jíst, kdy nasedat a vyrážet, také [troubit] poplach {Lärmen}, když je nepřítel nablízku, nebo když se má do nepřítele udeřit a střetnout se s ním. To vše má na trubce svůj rozlišný signál, podle něhož se také jezdci umějí řídit.
+poznamky:
+- n: 1
+  text: |-
+    Barfüßer Mönch – bosák, tj. františkán, člen řádu pověstného přísnou kázní a chudobou. Fronsperger tvrdí, že zbožnost sluší vojákovi stejně jako mnichovi; „v našich nynějších časech“ je snad narážka na úpadek klášterů v době reformace.
+- n: 2
+  text: |-
+    „es ist im eben als dem, der all stund dem tod die haut nachtregt“ – doslova „je mu právě jako tomu, kdo každou hodinu nosí smrti kůži za ní“, tj. kdo každou hodinu nasazuje život (srov. „nést kůži na trh“). Smysl: válečník je smrti stále nablízku, a proto potřebuje bázeň Boží o to víc. Vztah zájmena „im“ není zcela jistý.

@@ -1,0 +1,41 @@
+id: 002r
+list: II
+strana: recto
+sken: 11
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Hülff vnd beystandt suchen vnd haben möcht/Er dasselbig mit Practicken/vnd wie er mag/verhindere vnd fürkomme/sich auch bey desselbigen Feinds widerwertigen vmb rath/hülff vnd beystand bewerbe.
+  cs: |-
+    mohl hledat a nalézt pomoc a podporu, má tomu úklady {Practicken}[^1] a jak jen může zabránit a předejít a sám se ucházet o radu, pomoc a podporu u protivníků téhož nepřítele.
+- typ: odstavec
+  de: |-
+    So dann ein Kriegßfürst alle ding nach notturfft erwegen/soll er nicht vnterlassen/sein bedencken vnd rathschlag dahin zustellen/wieuil er Volcks zu Roß vnnd Fůß/wieuil vnnd was für Geschütz vnd Munition/auch Profand (wo es vonnöten were) mit ins Feld führen woll/da můß auch ermessen vnd vberschlagen werden/wie lang man gedenck solchen Feldzug zuführen/damit fleissig gerechnet vnd vberschlagen werde/was kostens das Kriegßuolck die fürgefaßte zeit erfordere/ob er auch demselbigen nach mit Gelt versehen vnd gefaßt sey/ob sich auch begebe/daß er stattlichern widerstand dann er vermeynt/finden würde/vnd derhalben sich die zeit vnd Zug länger dann er verhofft erstrecken/vnd jhm das Gelt außgehn wolt/durch was mittel er solchen mangel erstatten vnnd volführen wolle/dann so das Gelt außgeht/so hat der Krieg auch sein end/vnd ist aller kosten/mühe vnd arbeyt verloren/zu dem das Spiel erstlich angefangen/welches sich mit seinem eygen schaden vnd verderben enden/vnd zuletzt zum spöttlichen vertrag gebracht werden můß.
+  cs: |-
+    Když pak válečný kníže {Kriegßfürst} všechno náležitě uvážil, nemá opomenout zaměřit své úvahy a plány na to, kolik lidu na koních i pěšky, kolik a jakých děl {Geschütz} a munice, a také proviantu (bude-li ho třeba), chce s sebou vést do pole. Přitom je také nutno odhadnout a propočítat, jak dlouho se zamýšlí takové tažení {Feldzug} vést, aby se pečlivě spočítalo a rozvážilo, kolik bude válečný lid za stanovenou dobu stát a zda je podle toho zaopatřen a vybaven penězi; a kdyby se stalo, že by narazil na silnější odpor, než se domníval, a čas i tažení by se proto protáhly déle, než doufal, a peníze by mu docházely, jakými prostředky chce takový nedostatek nahradit a [válku] dovést do konce. Neboť když dojdou peníze, má i válka svůj konec a všechen náklad, námaha i práce jsou ztraceny; a hra, kterou sám začal, nadto skončí jeho vlastní škodou a zkázou a nakonec musí dospět k potupné smlouvě.
+- typ: odstavec
+  de: |-
+    So nun ein Kriegßherr auff ein Feldzug drey hundert mal tausent Gülden zuwenden schätzt/etc. soll er anfangs die hundert tausent gülden rechnen auff den Reysigen zeug/ein hundert tausent auff die Arckelley/vnnd ein hundert tausent Gülden auff die Fůßknecht.
+  cs: |-
+    Počítá-li tedy válečný pán {Kriegßherr} s tím, že na tažení vynaloží tři sta tisíc zlatých {Gülden} atd., má hned zpočátku vyhradit sto tisíc zlatých na jízdu {Reysigen zeug}, sto tisíc na dělostřelectvo {Arckelley} a sto tisíc zlatých na pěchotu {Fůßknecht}.
+- typ: odstavec
+  de: |-
+    Wiewol aber die hauffen an menig der personen nicht gleich/so geht doch auff die Reysigen dester mehr/daß sie sich im kosten mit dem Fůßuolck oder Knechten wol vergleichen.
+  cs: |-
+    Ačkoli tyto houfy nejsou počtem osob stejné, padne přesto na jezdce o to víc, takže se v nákladech s pěším lidem čili knechty dobře vyrovnají.
+- typ: odstavec
+  de: |-
+    Wiewol auch die Arckelley an anzal der personen am geringsten/so gehet doch vil auff Pferdt/Wagen/vnd menig der Toppelsöld vnnd anders/so zu der Arckelley vnd Munition gehört/damit vergleicht sich der Arckelley kosten wol mit den andern zwey Regimenten.
+  cs: |-
+    A ačkoli je dělostřelectvo počtem osob nejmenší, padne přesto mnoho na koně, vozy, na množství dvojitých žoldů {Toppelsöld} a na další věci, které k dělostřelectvu a munici patří; tím se náklady na dělostřelectvo dobře vyrovnají s oběma dalšími pluky {Regimenten}.
+- typ: odstavec
+  de: |-
+    Wann es dann je gekriegt můß sein/gůt redlich vrsachen zum Krieg genůgsam vorhanden/die sache keyn ander mittel dann der Krieg verrichten mag/so soll man die zůforderst mit anrüffung des Allmechtigen ins werck schicken.
+  cs: |-
+    Musí-li se tedy už válčit, jsou-li k válce dostatečné dobré a poctivé důvody a nelze-li věc vyřídit jiným prostředkem než válkou, pak se má k dílu přikročit především se vzýváním Všemohoucího.
+poznamky:
+- n: 1
+  text: |-
+    Practicken (z lat. practica) – tajná jednání, pletichy a diplomatické úklady.

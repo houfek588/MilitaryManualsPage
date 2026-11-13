@@ -1,0 +1,66 @@
+id: 101r
+list: CI
+strana: recto
+sken: 209
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Vegetio conterfeit findet/vnd die alten gebraucht haben/damit mögen sie jhre Ordnung vor den Reysigen befestigen/vnd können nicht dester weniger mit den streitwägen wo not/jhr Ordnung verrucken.
+  cs: |-
+    Vegetiovi[^1] a jak je užívali staří. Tím si mohou svůj šik {Ordnung} před jízdou zabezpečit, a přesto mohou s bojovými vozy v případě potřeby svůj šik přesunout.
+- typ: nadpis
+  uroven: 3
+  de: Nota.
+  cs: Poznámka
+- typ: odstavec
+  de: |-
+    ANno 43. etc. Haben die Türcken Ofen vnnd Bäst inngehabt/vnd ist von dem Römischen Reich Kriegßuolck in Hungern gezogen/vnnd vor Bäst gelegen/haben sich die Türcken deß vortheyls gebraucht/vnd ein Ketten von Ofen biß gehn Bäst vber die Donaw gemacht/zu fürkommen/daß niemandt die Donaw hinab hat mögen kommen/vnd wird gesagt von vielen/daß ein jeder ring oder gleich an derselbigen ketten hab fünff pfund gewegen/vnd seind durch die Ketten grosse Blöck gemacht gewesen/ein jeglich hat sein eygen bloch gehabt/also/daß die gantz Ketten im wasser empor geschwummen/auch auff dem Landt damit vnterstützt gewesen/solche vortheyl werden noch heutigs tags noch vil bey den Türcken gebraucht.
+  cs: |-
+    Léta [15]43[^2] atd. drželi Turci Budín {Ofen} a Pešť {Bäst}; tehdy táhl válečný lid Římské říše do Uher a ležel před Peští. Turci tehdy použili této výhody: natáhli přes Dunaj z Budína až do Pešti řetěz, aby zabránili komukoli plout po Dunaji dolů. A mnozí vypravují, že každý kruh neboli článek toho řetězu vážil pět liber {pfund} a že řetězem byly provlečeny velké klády, každý [článek] měl svou vlastní kládu, takže celý řetěz plaval na vodě a na souši byl také zajištěn. Takové výhody Turci užívají hojně ještě dnes.
+- typ: nadpis
+  uroven: 3
+  de: Wie man sich in Besatzungen vnd Läger vortheyl gebrauchen mag.
+  cs: Jakých výhod lze užít v posádkách a leženích
+- typ: odstavec
+  de: |-
+    JTem wo zwey Heer oder Läger nit weit voneinander an eim fliessenden wasser ligen/so vberkomm das Ober Läger so am wasser ligt/vil Kalck äschen/das schütt man alle tag zwey oder drey mal ins wasser/auch alles das vnflätig das man finden kan/als todte cörper/vnd alle gestorbene vnd erschossene pferdt/was man für wust gehaben vnnd ankommen kan/darmit vergifft man das wasser/daß sein im vntern Läger weder leuth noch pferdt geniessen mögen.
+  cs: |-
+    Dále: Leží-li dvě vojska nebo ležení nedaleko od sebe u tekoucí vody, ať si horní ležení, které leží u vody, opatří mnoho vápenného popela; ten se sype dvakrát nebo třikrát denně do vody, a také všechno nečisté, co lze najít, jako mrtvá těla a všechny uhynulé a zastřelené koně, zkrátka jakoukoli špínu, kterou lze mít a sehnat. Tím se voda otráví, takže ji v dolním ležení nemohou užívat ani lidé, ani koně.
+- typ: nadpis
+  uroven: 2
+  de: Von Kriegßlist.
+  cs: O válečné lsti
+- typ: odstavec
+  de: |-
+    JM Munstero am 106. steht/wie daß die Lamparter haben jhren Weibern das Haar abgeschnitten/vnd vmb das maul vnd khin gebunden/vnd sie zu jhnen in die Ordnung gestellt/damit die anzal dester grösser vnd erschröcklicher anzusehen were.
+  cs: |-
+    U Münstera[^3] na [listu] 106 stojí, jak Langobardi {Lamparter} ostříhali svým ženám vlasy, uvázali jim je kolem úst a brady a postavili je k sobě do šiku, aby jejich počet vypadal větší a hrozivější.
+- typ: nadpis
+  uroven: 3
+  de: List.
+  cs: Lest
+- typ: odstavec
+  de: |-
+    JN der Dännmärcker Chronica im ersten Bůch am neuntzehenden blat/Frato der König ließ in der Belegerung vor Ettola ein rüffende stimm außgehn/er wer todt/dardurch die in der Besatzung fahr vnnd hinlässig/auch liederlich würden/vnd er die Statt dardurch erobert.
+  cs: |-
+    V Dánské kronice[^4], v první knize na devatenáctém listu [stojí]: Král Frato dal při obléhání Ettoly rozhlásit, že je mrtev; tím se obránci v posádce stali nedbalými, liknavými a lehkomyslnými, a on tak město dobyl.
+- typ: odstavec
+  de: |-
+    Deßgleichen Hading der König ließ in der belägerung vor Tuna vil Schwalben fahen/jnen brinnende lunden vnd zundel anbinden/vnd darnach flogen sie wider in jre näster die vnter den thächern waren/zündten also die Statt an/vnnd er erobert sie dardurch.
+  cs: |-
+    Stejně tak král Hading dal při obléhání Tuny nachytat mnoho vlaštovek a přivázat jim hořící knoty a troud; ony pak odletěly zpět do svých hnízd pod střechami, zapálily tak město a on ho tím dobyl.
+poznamky:
+- n: 1
+  text: |-
+    Flavius Vegetius Renatus, pozdně římský autor spisu Epitoma rei militaris; německá vydání 16. století obsahovala dřevořezy válečných strojů a vozů s kosami.
+- n: 2
+  text: |-
+    Tak tisk („Anno 43.“). Neúspěšné obléhání Pešti říšským vojskem pod Jáchymem II. Braniborským proběhlo roku 1542; Budín a Pešť drželi Turci od roku 1541.
+- n: 3
+  text: |-
+    Sebastian Münster (1488–1552), Cosmographia (1544 a další vydání); odkazy na listy podle tehdejšího německého vydání.
+- n: 4
+  text: |-
+    Saxo Grammaticus, Gesta Danorum (Dánské dějiny), podle německého překladu; král Frotho (Frato) a král Hadingus jsou bájní dánští panovníci. Lest s ptáky, kteří zapálí město, vypráví Saxo o Hadingovi při obléhání Duny.

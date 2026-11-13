@@ -1,0 +1,28 @@
+id: 122v
+list: CXXII
+strana: verso
+sken: 252
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ernstlichen fleiß vnnd erlittnen schadens/auff Zügen/Wachten/Scharmützeln/Stürmen/Schlachten/nach wirde begaben/lob vnd danck sagen/vnd sich jhnen gar verheyssen vnd vereygnen/vmb ein jeden insonders zugedencken vnd zuuergelten/soll sich darnach dem hauffen befelhen/Alßdann auch jeglichen nach seinem verdienst/vnd laut deß Bestellbrieffs zum abzug gnedig vnd ehrlich abfertigen/Ernstlich bitten/daß sie an solchem vermögen eines armen Fürsten ein vergnügen haben/güter zuuersicht/wo er oder die seine jhr weiter behüfften/es zubessern/Entlich befelhen dem fried Gottes/das gefellt Gott vnd der Welt.
+  cs: |-
+    vážnou píli a za škody utrpěné na taženích, strážích, v šarvátkách, útocích a bitvách podle zásluhy obdarovat, vzdát mu chválu a díky a zcela se jim zaslíbit a zavázat, že na každého zvlášť bude pamatovat a odplatí mu. Potom se má poručit houfu {hauffen} a každého podle jeho zásluh a podle služebního listu {Bestellbrieffs} milostivě a čestně propustit k odchodu. Má je vážně prosit, aby se spokojili s tím, co chudý kníže zmůže, v dobré naději, že bude-li on nebo jeho lidé jejich [služby] dále potřebovat, polepší jim. Nakonec je má poručit Božímu pokoji; to se líbí Bohu i světu.
+- typ: odstavec
+  de: Ende dises Büchs.
+  cs: Konec této knihy.
+- typ: obrazek
+  soubor: drevorez-252.jpg
+  popis: |-
+    Tiskařská ozdobná viněta – velký proplétaný uzel ze stuh se smyčkami, zakončení textu knihy.
+- typ: odstavec
+  de: |-
+    Getruckt zů Franckfurt am Meyn/bey Johann Lechler/Jn verlegung Sigemundt Feyerabendt/vnd Simon Hüter/Jm Jar nach Christi geburt/Tausent/fünffhundert/sechtzig vier.
+  cs: |-
+    Vytištěno ve Frankfurtu nad Mohanem {Franckfurt am Meyn} u Johanna Lechlera {Johann Lechler}, nákladem Sigmunda Feyerabenda {Sigemundt Feyerabendt} a Simona Hütera {Simon Hüter}, léta po narození Kristově tisícího pětistého šedesátého čtvrtého.[^1]
+poznamky:
+- n: 1
+  text: |-
+    Tiráž stojí na samostatném posledním (nečíslovaném) listu, sken 247; v edici je připojena k poslední straně textu.

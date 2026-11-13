@@ -1,0 +1,60 @@
+id: 095r
+list: XCV
+strana: recto
+sken: 197
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nacht haben 8. scheffel/2. vnd zwey drittheyl eins simern/vnd thůt ein wochen 58. scheffel/2. vnd zwey drittheyl eines simern/vnnd thůt ein Monat 233. scheffel/2. vnnd zwey drittheyl eines simern habern/vnd thůt ein jar 12. Monat für ein Jar gerechnet 2800. scheffel habern.
+  cs: |-
+    noc mít 8 korců {scheffel} a 2 a dvě třetiny mírky {simern}; za týden to činí 58 korců a 2 a dvě třetiny mírky, za měsíc 233 korců a 2 a dvě třetiny mírky ovsa a za rok, počítáno na 12 měsíců, 2800 korců ovsa.
+- typ: odstavec
+  de: |-
+    Also thůt es auff Fünff hundert Pferd ein tag vnd nacht 41. scheffel 5. vnd zwey drittheyl eins simern/ein Monat 1166. scheffel/5. vnd zwey drittheyl eins simern/vnd thůt ein Jar 14000. scheffel habern.
+  cs: |-
+    Na pět set koní to tedy činí za den a noc 41 korců a 5 a dvě třetiny mírky, za měsíc 1166 korců a 5 a dvě třetiny mírky a za rok 14 000 korců ovsa.
+- typ: odstavec
+  de: |-
+    Vnd thůt auff Tausent pferdt ein tag vnnd nacht 83. scheffel 2. vnnd zwey drittheyl eins Simern/Ein wochen 583. scheffel/2. vnnd zwey drittheyl eins simern/Ein Monat 2333. Scheffel/2. vnnd zwey drittheyl eins Simern/vnd thůt ein Jar 28000. scheffel.
+  cs: |-
+    A na tisíc koní to činí za den a noc 83 korců a 2 a dvě třetiny mírky, za týden 583 korců a 2 a dvě třetiny mírky, za měsíc 2333 korců a 2 a dvě třetiny mírky a za rok 28 000 korců.
+- typ: odstavec
+  de: |-
+    Also mag man auch Rechnen/wie lang man auff ein gewisse anzal pferd fütterung haben mag.
+  cs: |-
+    Stejně tak lze spočítat, na jak dlouho vystačí píce pro určitý počet koní.
+- typ: nadpis
+  uroven: 3
+  de: Häw vnd Stroh Rechnung.
+  cs: Výpočet sena a slámy
+- typ: odstavec
+  de: |-
+    GLeicher gestalt soll auch mit Häw vnnd Stro ein vberschlag vnnd Rechnung geschehen/man soll aber solchen vberschlag in grosser geheym halten/vnd bey leib verhůten/daß der gemeyn man nicht wiß noch erfare/wie man mit Prouant gestaffiert sey/besonder so man nicht wol versehen were/Darumb soll man auch von stundan alle Prouant zusammen in etliche Korn Kästen auß allen heusern zusammen führen/wol verspert vnd verwahrt halten/damit niemandt darumb wiß/dann die verordneten vnd verpflichten.
+  cs: |-
+    Stejným způsobem se má udělat odhad a výpočet i u sena a slámy. Takový odhad se však má držet ve velké tajnosti a za nic na světě se nesmí dopustit, aby prostý lid věděl nebo se dozvěděl, jak je [posádka] zásobena proviantem {Prouant}, zvláště kdyby nebyla dobře zaopatřena. Proto se má také hned všechen proviant ze všech domů svézt dohromady do několika sýpek a držet dobře uzamčený a opatrovaný, aby o něm nevěděl nikdo kromě k tomu ustanovených a přísahou zavázaných.
+- typ: odstavec
+  de: |-
+    Was auch von Sprew/Kleyen/so von den früchten gegerbt vnnd gebeutelt werden/vorhanden/soll man alles wol vnnd genaw auffheben/auch Häwblůmen vnnd dergleichen/dann das alles in der vnuermeidlichen not mit den pferden wol zu brauchen ist.
+  cs: |-
+    Také plevy a otruby, které zbývají při loupání a prosévání obilí, se mají všechny dobře a pečlivě uschovat, stejně jako senné odrobky {Häwblůmen}[^1] a podobně, neboť to všechno se dá v nevyhnutelné nouzi dobře zkrmit koním.
+- typ: odstavec
+  de: |-
+    Also mag man auff alle Prouant vnd Munition ein vberschlag machen/damit man wiß/wie lang man zuessen/vnd bey einander zubleiben hat/daß man auch darnach kan sparen/oder dester reichlicher kan zur Kuchen schlagen/dann sonst/wann man in einer Besatzung gleich anhebt/ohne alle fürsorg vnnd vorbetrachtung den Schlämmer zusingen/begibt es sich offt daß ehe man etwann von den Feinden recht genötet wird/daß man schon alle Prouant vorhin verthan/vnnd deren mangels halben die Besatzung auffgeben můß.
+  cs: |-
+    Takto lze udělat odhad u veškerého proviantu a munice {Munition}, aby se vědělo, na jak dlouho je co jíst a jak dlouho lze vydržet pohromadě, a aby se podle toho dalo šetřit, nebo naopak dávat do kuchyně štědřeji. Jinak, když se v posádce {Besatzung} hned zpočátku bez jakékoli péče a rozvahy začne hodovat[^2], stává se často, že ještě dříve, než nepřítel pořádně přitlačí, je všechen proviant promrhán a posádku je pro jeho nedostatek nutno vzdát.
+- typ: odstavec
+  de: |-
+    Was auch sonst für Prouant vorhanden/als Linsen/Hirß/Fisch/Stockfisch/blatteißlin/speck/gedigens fleysch/schweine schuncken/häring/hüner/gänß/änten/geissen/schaf/kelber/obß/eyr/käß/schweine schmaltz/kraut/rüben/zwibel/knobloch/gewürtz/das alles soll ordenlich verwahrt vnnd außgespent werden vnnd allwegen das vnnützlichst/vnnd das am wenigsten zubehalten ist/am ersten außspenden/
+  cs: |-
+    Jakýkoli jiný proviant, který je k dispozici, jako čočka, jáhly, ryby, sušené ryby (štokfiš), platýsi[^3], slanina, uzené maso, vepřové kýty, slanečci, slepice, husy, kachny, kozy, ovce, telata, ovoce, vejce, sýr, vepřové sádlo, zelí, řepa, cibule, česnek a koření, to všechno se má řádně opatrovat a vydávat, a vždy se má jako první vydávat to, co je nejméně užitečné a co se nejhůře uchová,
+poznamky:
+- n: 1
+  text: Heublumen – drobné zbytky sena (semínka, květy, drť) ze seníku.
+- n: 2
+  text: |-
+    Doslova „zpívat hodovníka (Schlemmer)“ – rčení pro bezstarostné hodování a hýření.
+- n: 3
+  text: |-
+    Stockfisch – na tyčích sušená treska; Platteißlin – sušení nebo nasolení platýsi (Plattfisch). Gediegenes Fleisch – uzené (vysušené) maso.

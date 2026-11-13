@@ -1,0 +1,49 @@
+id: 118r
+list: CXVIII
+strana: recto
+sken: 243
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Scharmützeln vnd schlachten/täglich vnd nächtliche kreiden/mit wortzeychen vnnd Libereyen/still vnd fürsichtig/allen Rottmeystern/vnd von denselben in geheym jren Rotten gesetzt werden/auch zu vermeidung der verrähterey offt verwechßlet/darmit der Feind vor eim freund erkennt/vnd seiner zeychen keyn verrähter geacht werd.
+  cs: |-
+    šarvátkách a bitvách stanovit tiše a obezřetně denní i noční polní znamení {kreiden}[^1] s hesly {wortzeychen} a odznaky {Libereyen} všem rotmistrům {Rottmeystern} a ti je mají tajně předat svým rotám {Rotten}; kvůli zabránění zradě se mají také často měnit, aby se nepřítel rozeznal od přítele a žádný zrádce nebyl pokládán za nositele jeho znamení.
+- typ: nadpis
+  uroven: 2
+  de: Bewaffung.
+  cs: Výzbroj
+- typ: odstavec
+  de: |-
+    DArumb soll die gewonheyt vom Fürsten gehalten werden/daß seine Amptleuth die Knecht bey schwärer peen zwingen zu gůten langen Rapieren/ringen starcken wehren/vnd auffs minst/zu gůtem Balgharnisch/die allezeit zu scherpffen/zu seubern/vnd ohn vnterlaß in vnd ausserhalb dem Läger/tag vnd nacht zutragen/damit sie allzeit gerüst seien/sich selbs mit jhrem frommen Fürsten/vor dücken deß falschen vertrags/vnnd vor vnuersehnen zufällen/zuerfechten/wiewol auch jhr glantz den feinden schrecken bringt.
+  cs: |-
+    Proto má kníže zachovávat zvyk, aby jeho úředníci {Amptleuth} pod těžkým trestem nutili knechty {Knecht} mít dobré dlouhé rapíry {Rapieren}, lehké a pevné zbraně a přinejmenším dobrou zbroj na tělo {Balgharnisch},[^2] [zbraně] stále brousit a čistit a bez ustání je nosit v ležení i mimo ně, ve dne i v noci, aby byli vždy připraveni ubránit sebe i svého řádného knížete před úskoky falešné smlouvy i před nenadálými příhodami; ostatně už jejich lesk nahání nepřátelům strach.
+- typ: nadpis
+  uroven: 2
+  de: Vorzug.
+  cs: Náskok
+- typ: odstavec
+  de: |-
+    ER soll allzeit den vorzug haben/vnd sein macht zum stercksten besetzen/darmit er das Land vor jhm auffraum/vnd seines feinds Vich vnd Leuthen mit raub vnd brant erschröcklichen abbruch zufüg/Zög jhm aber der feind vor/vnd verhergt sein eygen Landt/daß er mit seinem nachzug weder tach noch gemach/weder speiß noch tranck find/dann daß er mit sorg der vergifftung niessen můß/Laß er nachts sein Läger mit führen/Trommen/Pfeiffen/Trommeten als auff besetzter hůt sitzen/für sein Troß mit dem schwäresten zeug zu fůß vnnd Roß/durch etliche abweg zum vorzug/vnd wann er morgens frů sein Wacht abzelt/so berichte er seinen ringen zeug/der hinden im Läger gelassen/daß er angehends tag deß Feinds Wacht anfall/fleucht er/so empfacht er jhn/wehrt er sich/so fällt er gäch in jhn/zu beyden theylen sollen sie weder schiessen noch schreihen/biß sie jhren Feind ergreiffen/alßdann trifft jhr Geschütz gewiß/vnd der still angriff/vnd das vrplötzlich geschrey erzagt den feind/vnnd gibt jhm den Sig oder vorzug.
+  cs: |-
+    Má mít vždy náskok {vorzug} a obsadit jej co nejsilněji, aby před sebou vyčistil zemi a loupeží a ohněm způsobil nepříteli na dobytku a lidech strašlivou škodu. Kdyby ho však nepřítel předešel a pustošil jeho vlastní zemi, takže by se svým zadním vojem nenalezl střechu ani přístřeší, jídlo ani pití, leda takové, které musí požívat se strachem z otravy, ať nechá v noci své ležení stát s ohni,[^3] bubny, píšťalami a trubkami, jako by v něm držel obsazenou stráž, a ať vede svůj trén {Troß} s nejtěžším pěším i jízdním lidem {zeug} postranními cestami dopředu; a když ráno za časného jitra odvolá svou stráž, ať přikáže svému lehkému lidu, který nechal vzadu v ležení, aby za svítání napadl nepřátelskou stráž. Uteče-li [nepřítel], [hlavní voj] ho přijme; brání-li se, [lehký lid] na něj prudce udeří. Obě skupiny nemají střílet ani křičet, dokud nepřítele nedostihnou; pak jejich střelba {Geschütz} zasáhne jistě a tichý útok i nenadálý křik nepřítele zastraší a dají mu vítězství nebo náskok.
+- typ: nadpis
+  uroven: 2
+  de: Durchbruch deß Auffsatzes.
+  cs: Jak prorazit zátarasy
+- typ: odstavec
+  de: |-
+    OB jhm aber deß feinds halten/an Wälden/Flutten/Bühlen/Holwegen/Gräben/Mößen/oder bodenlosen leymgruben/den weg verschlügen/brauch er solche finantz/Er erfahr von kundtschafftern/durch was vmbweg er den fürgenommen zug enden mög/trag dann zwischen beyde Läger viel holtz/zünds an/verzuck im rauch/Oder besehe welche zeit vnnd an welchem ort/die feind am hinlässigsten hůten/lauff jhn mit den geschwindesten ab/oder mach mit versteckten hůten gleich ein abzug vnd flucht/oder vberhöch sie mit den geringsten/oder an welcher seitten sie die seinen mit Geschütz verfolgen/an dieselben ordne er seine gefangne/jhre freund/oder ruck für jhre Statt/vnd wend sich gegen jhnen/so jhene abzügen/sie zuentschütten.
+  cs: |-
+    Kdyby mu však nepřátelské zálohy {halten} zatarasily cestu u lesů, řek, kopců, úvozů, příkopů, močálů nebo bezedných hliništ, ať užije takovou fintu {finantz}: ať se od zvědů dozví, jakou oklikou může zamýšlené tažení dokončit, pak ať mezi obě ležení nanosí mnoho dřeva, zapálí je a v kouři se vytratí. Nebo ať zjistí, kdy a na kterém místě drží nepřátelé stráž nejnedbaleji, a s nejrychlejšími [muži] je tam převálcuje; nebo ať se skrytými strážemi předstírá ústup a útěk; nebo ať je s nejlehčími [muži] převýší [na výšinách]; nebo na tu stranu, odkud jeho lidi pronásledují dělostřelbou {Geschütz}, ať postaví své zajatce, jejich přátele; nebo ať táhne před jejich město a obrátí se proti němu, takže ti [na zátarase] odtáhnou, aby je zachránili.
+poznamky:
+- n: 1
+  text: |-
+    Kreide (Kreiden) – válečný pokřik a polní heslo, podle něhož se rozeznávali vlastní lidé; spolu s heslem (wortzeychen) a odznakem či barvou (Liberey) tvořilo rozpoznávací znamení.
+- n: 2
+  text: |-
+    Balgharnisch – zbroj kryjící trup (prsní a zádový plát, kyrys), na rozdíl od plné zbroje.
+- n: 3
+  text: |-
+    Tisk má „mit führen“, patrně tisková chyba za „mit fewren“ (s ohni); překládáno podle smyslu.

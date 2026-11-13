@@ -1,0 +1,62 @@
+id: 026v
+list: XXVI
+strana: verso
+sken: 60
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    ITem so ein Schloß oder Statt beschossen vnnd gewunnen würdet/es werde auffgeben oder mit dem Sturm gewunnen/so ist alle Munition deß Obersten Zeugmeysters/als Büchsen/Puluer/Kuglen/deßgleichen alle wehr/harnisch/spieß/hacken/handtgeschütz/vnd was zu der handwehr gehört.
+  cs: |-
+    Dále: když se ostřeluje a dobude zámek nebo město, ať se vzdá, nebo je dobyto útokem {Sturm}, patří všechna munice {Munition} nejvyššímu zbrojmistrovi {Obersten Zeugmeysters}, totiž děla {Büchsen}, střelný prach {Puluer}, koule {Kuglen}, a také všechny zbraně, zbroje {harnisch}, kopí {spieß}, hákovnice {hacken}, ruční palné zbraně {handtgeschütz} a vše, co patří k ruční výzbroji.
+- typ: odstavec
+  de: |-
+    So aber der Kriegßherr sollichs nottürfftig were/oder zu seinen handen ziehen wölt/so soll der Zeugmeyster jhm sollichs lassen/den drittheyl näher/dann es vngefährlich werth ist.
+  cs: |-
+    Kdyby to však válečný pán {Kriegßherr} potřeboval nebo to chtěl vzít do svých rukou, má mu to zbrojmistr přenechat o třetinu levněji, než je to přibližně hodno.
+- typ: odstavec
+  de: |-
+    Vnnd soll sich der Kriegßherr benügen lassen an den Fiscalischen gütern/dieselbigen gehören dem vberwinder zu/als dem Kriegßherren/das seind Stett/Schlösser/Först/Zöll/Land/Leut/vnd was demselbigen anhanget.
+  cs: |-
+    A válečný pán se má spokojit s fiskálními statky {Fiscalischen gütern}[^1]; ty patří vítězi, tedy válečnému pánu – to jsou města, zámky, lesy, cla, země, lidé a vše, co k tomu náleží.
+- typ: nadpis
+  uroven: 3
+  de: Der Büchsenmeyster freiheyt vnd gerechtigkeyt.
+  cs: Výsady a práva puškařů {Büchsenmeyster}
+- typ: odstavec
+  de: |-
+    SO ein Statt oder Schloß beschossen vnd mit dem Sturm gewunnen/oder sonst auffgeben wird/so seind alle kuglen vnnd puluer/so in den Büchsen bleiben/der Büchsenmeyster/darzu die angebrochne vnd geöffnete puluer fäßlin/die soll der Kriegßherr von jhnen lösen/vngefährlich was es werth ist/darzu gehört jn der eroberten Besatzung gröste sturmglocken/die sollen von den Büchsenmeystern gelößt werden/biß an jhr gůt benügen/darzu soll man jhnen sampt den Amptleuhten der Arckelley ein gůte verehrung thůn/zum wenigsten ein Monat sold/Man hat etwann allen Arckelley personen verehrung gethon/wann man ein Besatzung zum auffgeben mit dem geschütz getrengt hat.
+  cs: |-
+    Když se město nebo zámek ostřeluje a dobude útokem, nebo se jinak vzdá, patří puškařům všechny koule a prach, které zůstanou v dělech, a k tomu načaté a otevřené soudky prachu; ty má válečný pán od nich vykoupit přibližně za to, co jsou hodny. Dále jim v dobytém místě {Besatzung} patří největší zvon na poplach {sturmglocken}[^2]; ten se má od puškařů vykoupit k jejich plné spokojenosti. Kromě toho se jim i úředníkům {Amptleuhten} dělostřelectva {Arckelley} má dát dobrý čestný dar {verehrung}, nejméně jeden měsíční žold {sold}. Někdy se čestný dar dával všem osobám dělostřelectva, když se obléhané místo dělostřelbou {geschütz} donutilo ke vzdání.
+- typ: nadpis
+  uroven: 3
+  de: Deß Schantzmeysters freiheyt vnd gerechtigkeyt.
+  cs: Výsady a práva šancmistra {Schantzmeysters}
+- typ: odstavec
+  de: |-
+    ITem nach eroberung der Besatzung gehört dem Schantzmeyster all Schantzkörb/Gestreb/Ansetz/vnnd alles anders Holtzwerck/daß man nicht mitfürt/das mag er nach seinem nutz verkauffen wem er wil/es seien Hürt oder Brücken/darauff man scheusset ist alles sein.
+  cs: |-
+    Dále: po dobytí obleženého místa patří šancmistrovi všechny šancovní koše {Schantzkörb}, vzpěry {Gestreb}, nástavce {Ansetz}[^3] a všechno ostatní dřevo, které se neveze dál; to může se ziskem prodat, komu chce. Ať jsou to lísy {Hürt}, nebo podlahy {Brücken}, z nichž se střílí, všechno je jeho.
+- typ: nadpis
+  uroven: 3
+  de: Freiheyt vnd gerechtigkeyt der gantzen Arckelley.
+  cs: Výsady a práva celého dělostřelectva
+- typ: odstavec
+  de: |-
+    ITem so einer im Feldtläger einen entleibt/ohn fürsatz/fleucht er zu der Arckelley/begert freiheyt/die soll jhm gegeben vnd gehalten werden/es were dann der beschedigt oder entleibt deß thäters Oberster oder Hauptmann/oder hette ander dergleichen treffenlich beweglich vrsachen/so soll nit freiheyt gegeben werden.
+  cs: |-
+    Dále: zabije-li někdo v polním ležení {Feldtläger} někoho bez úmyslu {ohn fürsatz}, uteče k dělostřelectvu a žádá útočiště {freiheyt}[^4], má mu být poskytnuto a zachováno. Leda by zraněný nebo zabitý byl plukovníkem {Oberster} nebo hejtmanem {Hauptmann} pachatele, nebo by tu byly jiné podobně závažné a pádné důvody; pak se útočiště poskytnout nemá.
+- typ: odstavec
+  de: |-
+    Zu bekrefftigung sollicher freiheyt/were sach daß jemands wider solche der Arckelley freiheyt gewaltig eingriff thete/so seind alle Arckelley Personen von jren pflichten vnnd Eyden ledig/mögen mit ehren/vnnd ohn verletzung jhrer pflicht/auß dem
+  cs: |-
+    K posílení této výsady [platí]: kdyby někdo do takové výsady dělostřelectva násilím zasáhl, jsou všechny osoby dělostřelectva zproštěny svých povinností a přísah {Eyden} a mohou se ctí a bez porušení své povinnosti odtáhnout z
+poznamky:
+- n: 1
+  text: Fiscalische Güter – statky patřící státní pokladně (fisku) poraženého; připadají válečnému pánu, kdežto movitá válečná výzbroj dobytého místa připadá zbrojmistrovi.
+- n: 2
+  text: Sturmglocke – zvon, jímž se ve městě zvonilo na poplach. Podle tzv. zvonového práva připadaly zvony dobytého města dělostřelcům a musely se od nich vykoupit.
+- n: 3
+  text: Ansetz – význam nejistý; snad nástavce či podpěry šancí nebo dřevěné podložky (lože) pod děla v palebném postavení.
+- n: 4
+  text: Freiheit – zde právo útočiště (azylu); kdo zabil bez úmyslu, byl u dělostřelectva chráněn před okamžitou pomstou či zatčením.

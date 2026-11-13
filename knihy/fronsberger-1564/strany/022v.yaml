@@ -1,0 +1,40 @@
+id: 022v
+list: XXII
+strana: verso
+sken: 52
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Dieweil aber selten ein Herr so vil Büchßenmeyster vnterhelt/so pflegt man gemeynlich sich bey andern Herrn vnd Stätten/so der fürgenommen zug nit angeht/vmb Büchßenmeyster zuleihen zubitten.
+  cs: |-
+    Protože však málokterý pán vydržuje tolik puškařů {Büchßenmeyster}, bývá obvyklé žádat jiné pány a města, kterých se zamýšlené tažení {zug} netýká, aby puškaře zapůjčili.
+- typ: odstavec
+  de: |-
+    Den Büchßenmeystern pflegt man jeder zeit ein Eyd zugeben nach gestalt der sachen/derhalben man keyn eygentliche Copie stellen mag/den gibt jhnen der Zeugmeyster oder deß Zeugmeysters Leutenant/in beysein deß Zeugmeysters/etc. Jedoch wil ich vngefährlich ein Eyd der Büchßenmeyster jetzt hernach melden/der ist jeder zeit nach gelegenheyt vnd gestalt der sachen zu mindern vnd zumehren.
+  cs: |-
+    Puškařům se pokaždé dává přísaha {Eyd} podle povahy věci, a proto nelze stanovit žádné pevné znění; předříkává jim ji zbrojmistr {Zeugmeyster} nebo zbrojmistrův poručík {Leutenant} za přítomnosti zbrojmistra atd. Přesto chci níže uvést přibližné znění přísahy puškařů, kterou lze vždy podle okolností a povahy věci krátit i rozšiřovat.
+- typ: odstavec
+  de: |-
+    Ihr werden geloben vnd ein Eydt schweren/N. vnserm gnedigen Herrn/dem Kriegßfürsten getrew/gewer vnd gehorsam zusein/allen zimlichen gebotten gefellig/schaden zuwarnen/frommen vnd nutzen zufürdern/auch alles zuthůn vnnd zulassen/das dem Herrn vnd gantzen Feldläger zu gůt kommen mag/vnd daß jhr alle samenthafftig/vnd ein jeder besonder schiessen/dem Herrn zu gůt vnnd nutz/den Feinden zu wider vnd schaden/nach ewrem höchsten verstandt/vnd besten vermögen getrewlich/vnnd vngefährlich/gleicher gestalt solt du vnnd wölt jhr in krafft diß Eydts wie dem Kriegßherrn N. gegenwertigen ewrem Zeugmeyster/oder in seinem abwesen seinen befelchhabern gefällig vnd gehorsam sein.
+  cs: |-
+    Budete slibovat a přísahat N., našemu milostivému pánu, válečnému knížeti {Kriegßfürsten}, že budete věrní, spolehliví a poslušní, ochotně splníte všechny náležité rozkazy, budete varovat před škodou, napomáhat prospěchu a užitku a činit i nečinit vše, co může přijít k dobru pánovi a celému polnímu ležení {Feldläger}; a že budete všichni společně i každý zvlášť střílet k dobru a užitku pána, nepřátelům na odpor a ke škodě, podle svého nejlepšího rozumu a nejvyšších sil, věrně a bez úskoku. Stejně tak máš a chcete[^1] z moci této přísahy být jako válečnému pánu {Kriegßherrn} N. ochotní a poslušní i zde přítomnému svému zbrojmistrovi, nebo v jeho nepřítomnosti jeho pověřencům {befelchhabern}.
+- typ: odstavec
+  de: |-
+    Es soll ein jeder Zeugmeyster/so er die Büchsen den Büchßenmeystern züstellen vnd befelhen wil/gůt fleissig auffmercken haben/wann jhme frembde vnbekannte gesellen zukämen/so sich für Büchßenmeyster anzeygen vnnd dienst begeren/daß er sie mit fleiß erforsch/vnd frag wa sie vormals vnd bey welchem Büchßenmeyster/oder vnter welchem Zeugmeyster sie geschossen haben/Im Feldt/vor Schlössern/Stätten/oder in Besatzungen/so er das anzeygt/soll der Zeugmeyster nach sein abschiden vnd paßporten fragen/dieselbigen besichtigen/alßdann findt der Zeugmeyster gůten bericht vnd bescheyd/hat dann einer keyn kundschafft oder paßport/so mag jhne der Zeugmeyster paßieren lassen/denn man findt der gesellen vil/die etwann der Büchßenmeyster handreycher seind gewesen/vnd vermeynen/wann sie ein Büchßen laden vnd anzünden können/sie seien schon Büchßenmeyster/so fählt es noch gar weit/Darumb bedarff es hie fleissigs auffsehens/dann es ligt dem Herrn mercklicher grosser nutz oder nachtheyl hieran.
+  cs: |-
+    Každý zbrojmistr, chce-li puškařům přidělit a svěřit děla {Büchsen}, má dobře a pilně dávat pozor, přijdou-li k němu cizí, neznámí tovaryši, kteří se vydávají za puškaře a žádají o službu. Má je pilně vyzpovídat a vyptat se, kde a u kterého puškaře nebo pod kterým zbrojmistrem dříve stříleli – v poli, před zámky a městy, nebo v posádkách {Besatzungen}. Uvede-li to [některý], má se ho zbrojmistr zeptat na jeho propouštěcí listy {abschiden} a pasy {paßporten} a ty si prohlédnout; tak získá dobrou zprávu a jistotu. Nemá-li však někdo žádné vysvědčení {kundschafft} ani pas, může ho zbrojmistr nechat jít. Najde se totiž mnoho tovaryšů, kteří byli kdysi puškařům pomocníky {handreycher} a domnívají se, že když umějí nabít a zapálit dělo, jsou už puškaři; k tomu však mají ještě hodně daleko. Proto je zde třeba pilného dohledu, neboť na tom závisí značný a velký užitek, nebo škoda pána.
+- typ: odstavec
+  de: |-
+    Wölt aber ein Zeugmeyster einen gern behalten/so mag er jhme ein Büchßen hinauß führen/jhne dieselbige lassen laden vnd abschiessen/auch selbs acht haben/wie er mit der sachen vmbgeht/oder etwann ander zu jm verordnen/dann es ist besser daß man etwann vil Puluer verschiesse/dann so man an die Feind kompt vnnd handlen soll/so man dann meynt man sey mit leuthen versehen/so fählt es/Mag jn dann mit frag was einem geschickten Büchßenmeyster zuwissen gebürt/besehen/wird er an seinem Antworten bald mercken mögen was hinder jhme ist.
+  cs: |-
+    Chtěl-li by si však zbrojmistr někoho rád ponechat, může s ním vyvézt dělo ven, nechat ho je nabít a vystřelit a sám dávat pozor, jak si s tou věcí počíná, nebo k tomu určit jiné. Je totiž lepší vystřílet někdy mnoho prachu {Puluer}, než aby se ukázalo, že to selhává, až se dojde k nepříteli a má se jednat a člověk se domnívá, že je lidmi dobře zaopatřen. Může ho pak také vyzkoušet otázkami na to, co má zručný puškař vědět; podle jeho odpovědí brzy pozná, co v něm vězí.
+- typ: odstavec
+  de: |-
+    So dann der Zeugmeyster die Büchßen außgetheylt/je die besten Stück den besten Meystern/sie auch mit handknechten oder handreychern vnd anderer notturfft versehen/dann soll der Zeugmeyster dem Zeugschreiber befelhen/den Reuerß brieff zumachen/vnd alle jhre namen zubeschreiben/wie die Büchßenmeyster bestellt/auch
+  cs: |-
+    Když pak zbrojmistr rozdělí děla – vždy nejlepší kusy {Stück} nejlepším mistrům – a opatří je také pomocníky {handknechten oder handreychern} a jinými potřebami, má nařídit zbrojnímu písaři {Zeugschreiber}, aby vyhotovil reversní list {Reuerß brieff} a zapsal všechna jejich jména, jak byli puškaři najati, a také
+poznamky:
+- n: 1
+  text: |-
+    Přísaha v originále střídá oslovení „ihr“ a „du“ („solt du vnnd wölt jhr“); překlad to zachovává.

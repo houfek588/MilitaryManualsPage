@@ -1,0 +1,60 @@
+id: 083r
+list: LXXXIII
+strana: recto
+sken: 173
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item vil alter Lumpen/auch grob abwerck/alte Seyler/vnd dergleichen můß man zů den Fewerwercken brauchen.
+  cs: |-
+    Dále: Mnoho starých hadrů, také hrubé koudele, starých provazů a podobně je třeba do ohňostrojů {Fewerwercken}.
+- typ: odstavec
+  de: |-
+    Item ettliche hundert Schleg die starck seind/darein man Kugeln laden mag/soll mag haben zu fewrwercken zugebrauchen.
+  cs: |-
+    Dále: Má se mít několik set silných výbušných náloží {Schleg}[^1], do nichž lze nabít koule, k použití do ohňostrojů.
+- typ: odstavec
+  de: |-
+    Im Zeughauß sollen auch sein Harnisch/Beckelhauben/lange Spieß/Hellenbarten/Streit vnnd Mordt ärte/Schröt/Kuglen darüber zugiessen/als zu Falckonen/Schlangen/Falckonet/Scharpffentin vnd Hacken/auch Schwerter vnnd Spießeysen.
+  cs: |-
+    Ve zbrojnici {Zeughauß} má být také zbroj {Harnisch}, lebky {Beckelhauben}[^2], dlouhá kopí {Spieß}, halapartny {Hellenbarten}, bojové a válečné sekery {Streit vnnd Mordt ärte}, železná jádra {Schröt} k odlévání koulí přes ně, totiž pro falkony {Falckonen}, hadovnice {Schlangen}, falkonety, serpentiny {Scharpffentin} a hákovnice {Hacken}, a také meče a hroty kopí.
+- typ: odstavec
+  de: |-
+    Item wo in einer Besatzung geschickte Büchsenmeyster seind/so sich darauff verstehen/die sollen sich in allen Schewren/Ställen/Holtzheusern/vnd dergleichen enden vmbsehen/wo sie Salpetter erden finden/da soll man graben/vnd für vnnd für sich befleissen/den zeug vnd Salpetter zu mehren.
+  cs: |-
+    Dále: Jsou-li v posádce {Besatzung} schopní puškaři {Büchsenmeyster}, kteří se na to vyznají, mají se rozhlédnout ve všech stodolách, chlévech, dřevnících a podobných místech; kde najdou ledkovou zeminu {Salpetter erden}, tam se má kopat a neustále se snažit rozmnožit suroviny a ledek.
+- typ: odstavec
+  de: |-
+    Darzů soll man versehen sein/mit Kesseln/Multen/Zübern/vnd dergleichen rüstung/zum salpetter sieden dienstlich.
+  cs: |-
+    K tomu se má posádka zásobit kotli, necky, škopky a podobným náčiním vhodným k vaření ledku.
+- typ: odstavec
+  de: |-
+    Item etlich hundert erdene gebrennte krůg/so mit schlauffen außwendig gemacht/dardurch zeucht man viel Zündtstrick hin vnd wider mit kurtzen trümmern/Dieselben Krůg füllt man mit Puluer/bind sie wol zu/so man stürmbt/zündt man die Zündtstrick trümmer aussen am Krug alle an/würfft dann die Krůg vnter die feind/so sie zerfallen/fallen die trümmer mit den brinnenden Zündtstricken hinnach in das Puluer/das thůt den stürmenden Feinden grossen schaden/vnnd ist sehr wehrlich.
+  cs: |-
+    Dále: Několik set hliněných pálených džbánů, které mají zvenku očka {schlauffen}; jimi se tam a zpět provlékne mnoho krátkých kusů zápalné šňůry {Zündtstrick}. Tyto džbány se naplní prachem a dobře zaváží. Když [nepřítel] útočí, zapálí se všechny kusy šňůry venku na džbánu a džbány se hodí mezi nepřátele; když se rozbijí, padnou kusy s hořícími šňůrami za nimi do prachu. To způsobí útočícím nepřátelům velkou škodu a je to velmi účinná obrana.
+- typ: odstavec
+  de: |-
+    Auch soll man haben vilerley gůte Fewrwerck/so zuuor darzů gemacht vnnd bereyt seind/als Sturmbrügel mit gůten schlägen/die seind auch fast gůt vnd wehrlich/die haben viel gůter schleg/der jeder wo er angeht/durch einen geharnischten Mann geht/zů dem brinnen sie hefftig vnd vnerlöschlich/also wo man etwann mit reiß vnd holtz wölt gräben füllen/oder ander vortheyl suchen/so zündt man die sturmbrügel an/zů dem mag man jhnen jrer ernstlichen schläg halben/deren vil darein gemacht seind/niemandt nahen.
+  cs: |-
+    Také se má mít mnoho druhů dobrých ohňostrojů, předem k tomu zhotovených a připravených, jako útočné kyje {Sturmbrügel}[^3] s dobrými náložemi; i ty jsou velmi dobré a účinné k obraně. Mají mnoho dobrých náloží, z nichž každá, kde vybuchne, projde i obrněným mužem; kromě toho hoří prudce a neuhasitelně. Když by tedy [nepřítel] chtěl zaplnit příkopy chrastím a dřevem nebo hledat jinou výhodu, zapálí se útočné kyje; a pro jejich prudké výbuchy, kterých je v nich mnoho, se k nim nikdo nemůže přiblížit.
+- typ: odstavec
+  de: |-
+    Darmit man auch mit Fewerwerck machen nicht verhindert werde/soll man auch zur fürsorg darzů dienstliche Kessel vnd Pfannen haben im Zeughauß/darinn mann die fewerwerck zu jeder gattung/rund oder langelt verbichen/täuffen oder schwemmen könn/auch lehrer zu den Bölern vnd Büchsen die Kuglen darzů zumessen vnd die fewerkuglen darnach zumachen.
+  cs: |-
+    Aby se také při výrobě ohňostrojů nic nezdržovalo, mají se pro jistotu mít ve zbrojnici k tomu vhodné kotle a pánve, v nichž lze ohňostroje každého druhu, kulaté či podlouhlé, posmolit, namáčet nebo máchat; také měrky {lehrer} k moždířům {Bölern} a dělům, aby se jimi odměřily koule a podle nich se dělaly ohnivé koule.
+- typ: odstavec
+  de: |-
+    Auch soll mann haben schlahende kuglen/die werden auß glockenspeiß gegossen/vnnd also bereyt/daß mann sie mag ohn gefärlicheyt inn henden anzünden/dann so sie vnter die feind geworffen/zerspringen sie mit grossem ernstlichem
+  cs: |-
+    Také se mají mít výbušné koule {schlahende kuglen}, které se odlévají ze zvonoviny {glockenspeiß} a připravují tak, že je lze bez nebezpečí zapálit v rukou; když se pak hodí mezi nepřátele, roztrhnou se s velikou a prudkou
+poznamky:
+- n: 1
+  text: |-
+    Schlag – výbušná nálož (petarda), která při zážehu „bije“, třeskne; srov. níže „Sturmbrügel mit gůten schlägen“. V tisku „soll mag haben“ – zřejmě tisková chyba za „soll man haben“.
+- n: 2
+  text: Beckelhaube (Beckenhaube) – přilba, dobově česky „lebka“.
+- n: 3
+  text: |-
+    Sturmbrügel (Sturmprügel) – kyj či poleno nabité zápalnou směsí a výbušnými náložemi, házené z hradeb mezi útočníky nebo do příkopu.

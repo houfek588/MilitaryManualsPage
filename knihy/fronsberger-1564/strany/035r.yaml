@@ -1,0 +1,56 @@
+id: 035r
+list: XXXV
+strana: recto
+sken: 77
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    geschickten erfahrnen vnnd geübteu/so er hieuor darzů erkiesset hat/die Ordnung machen/die hauffen mit rath des Obersten vnnd anderer Kriegßräth anschicken vnd ordnen.
+  cs: |-
+    schopnými, zkušenými a zběhlými [muži], které si k tomu předem vybral, sestavit šik {Ordnung} a houfy {hauffen} na radu nejvyššího [polního hejtmana] {Obersten} a ostatních válečných radů {Kriegßräth} rozestavit a seřadit.
+- typ: odstavec
+  de: |-
+    So man auch soll Ordnung zum schlagen machen/sollen der Reysigen Ordnung nit/wie deß Füßzeugs/geführt/sonder vornen her biß etwann manch glid hinein gespitzt/Also im ersten glid neun/im andern eylff/im dritten dreitzehen/im vierdten fünfftzehen/vnnd also fortan biß schier auffs halb theyl/Darnach macht mans gleich durchauß/vnd werden die Fanen so der hauff groß ist/vnd etwann vil geschwader zusammen geordnet werden/zum theyl vornen/etwann im dritten oder vierdten glid/die andern in die mitt besonder/da der Hauptfanen geordnet/etc. Es müssen nicht eben neun im ersten/vnnd eylff im andern glid sein/sonder wenig oder mehr nach anzal deß volcks/etc. vnd gelegenheyt deß platz nach gestalt der sachen.
+  cs: |-
+    Má-li se také sestavit šik k bitvě, nemá se šik jízdy {Reysigen} vést jako šik pěchoty {Füßzeugs}, nýbrž má být vpředu až do několikáté řady {glid} zašpičatělý {gespitzt}[^1]: v první řadě devět, ve druhé jedenáct, ve třetí třináct, ve čtvrté patnáct a tak dále skoro až do poloviny; potom se dělá stejně široký až dozadu. Korouhve {Fanen} se, je-li houf velký a sestavuje-li se dohromady více švadron {geschwader}, staví zčásti vpředu, někdy ve třetí nebo čtvrté řadě, ostatní zvlášť doprostřed, kde je umístěna hlavní korouhev {Hauptfanen} atd. Nemusí jich být právě devět v první a jedenáct ve druhé řadě, nýbrž méně nebo více podle počtu lidu atd. a podle povahy místa a okolností.
+- typ: odstavec
+  de: |-
+    Gleichwol ist jetzt nit mehr der gebrauch/wie bey den alten/daß man die Ordnungen vnter den Reysigen gespitzt mache/es geschehe dann auß besonderer erforderung der notturfft/sonder machen die Reysigen jetziger zeit jhre Ordnungen geuierdt wie des Füßuolcks.
+  cs: |-
+    Dnes už ovšem není zvykem jako u starých, aby se šiky jízdy dělaly zašpičatělé, leda by to vyžadovala zvláštní potřeba; jezdci nynější doby dělají své šiky čtvercové {geuierdt} jako pěchota {Füßuolcks}.
+- typ: nadpis
+  uroven: 3
+  de: Des Feldtmarschalcks Eydt.
+  cs: Přísaha {Eydt} polního maršálka {Feldtmarschalcks}
+- typ: odstavec
+  de: |-
+    SEin Eydt wird mit gemeynen puncten/wie andere hohe ämpter begriffen/vnd wird daran gehenckt daß er in Räthen/vnnd was darinn Rathsweiß vnd in geheym gehandelt/biß in sein ende verschweigen/auch mit allem trewen Rath/vnd was mit der that zuthůn ist/außrichten vnd versehen wölle/vngespart seines leibs vnd lebens/auch gůt erbar auffrecht Regiment vnter den Reysigen zuhalten/bey vnnd in den musterungen/vnd in andere weg fleissig getrewe sorg vnnd auffsehens zuhaben/damit der Kriegßherr mit nichten vbervortheylt vnd betrogen werde/auch sonst alles das thůn vnd lassen/das/etc. Vnd were sach/daß er mit dem Kriegßherren seiner besoldung oder anderer sachen halben/so sich in disem Feldzug zutrůgen/spännig würde/daß er darumb/wo es gütlich nit hingelegt/vnnd vertragen werden möcht/vor den Kriegßräthen/vnd andern Obersten endtlich Rechtspruch annemen/vnd darbey bleiben wölle.
+  cs: |-
+    Jeho přísaha se skládá z obecných bodů jako [přísahy] jiných vysokých úřadů a připojuje se k ní, že bude až do své smrti mlčet o tom, co se v radách jedná a co se v nich projednává jako porada a tajně; také že bude se vší věrnou radou i skutkem vykonávat a obstarávat, co je třeba, nešetře svého těla ani života; také že bude mezi jízdou udržovat dobrý, poctivý a řádný pořádek {Regiment} a při přehlídkách {musterungen} i jinak mít pilnou a věrnou péči a dohled, aby válečný pán {Kriegßherr} nebyl nijak ošizen a podveden; a jinak že bude činit i nečinit vše, co atd. A kdyby se stalo, že by se s válečným pánem kvůli svému žoldu {besoldung} nebo kvůli jiným věcem, které by se v tomto polním tažení {Feldzug} přihodily, dostal do sporu, že pak – nepodaří-li se to po dobrém urovnat a smířit – přijme konečný rozsudek před válečnými rady a jinými nejvyššími [veliteli] a při něm zůstane.
+- typ: odstavec
+  de: |-
+    Sie machen gemeynlich Reuers gegen einander/der Kriegßherr vnnd Feldtmarschalck.
+  cs: |-
+    Válečný pán a polní maršálek si obvykle vzájemně vystavují reversy {Reuers}.
+- typ: odstavec
+  de: Sein besoldung ist Monats auff sein leib vnd Ampt N. Gülden.
+  cs: Jeho žold činí měsíčně na jeho osobu a úřad {auff sein leib vnd Ampt}[^2] N. zlatých {Gülden}.
+- typ: odstavec
+  de: Jhm werden gehalten gerüster pferdt so vil er bringt.
+  cs: Vydržuje se mu tolik zbrojných koní {gerüster pferdt}, kolik jich přivede.
+- typ: seznam
+  de:
+  - 'Ein Doctor der Artzney.'
+  - 'Ein Feldtrommeter.'
+  - 'Auch sechs Trabanten.'
+  cs:
+  - 'Doktor lékařství {Doctor der Artzney}.'
+  - 'Polní trubač {Feldtrommeter}.'
+  - 'Také šest drabantů {Trabanten}.'
+poznamky:
+- n: 1
+  text: gespitzt – šik do klínu (zašpičatělý), jehož řady se směrem dozadu rozšiřují vždy o dva jezdce; podle následujícího odstavce se ve Fronspergerově době už neužíval.
+- n: 2
+  text: auff sein leib vnd Ampt – plat na vlastní osobu a za úřad, odděleně od žoldu na koně a čeleď; částku tisk ponechává otevřenou (N.).

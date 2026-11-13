@@ -1,0 +1,25 @@
+id: 004v
+list: IIII
+strana: verso
+sken: 16
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Der Kriegßräth vnd Musterherren Befelch vnd Ampt.
+  cs: |-
+    Pověření a úřad válečných radů {Kriegßräth} a přehlídkových komisařů {Musterherren}
+- typ: obrazek
+  soubor: drevorez-16.jpg
+  popis: |-
+    Váleční radové a přehlídkoví komisaři: čtyři muži ve zbroji a kabátcích v rozmluvě, u nohou pes; oválný medailon v rámu s trofejemi zbraní.
+- typ: odstavec
+  de: |-
+    ES ist gewönlich in treffenlichen grossen Heerzügen/daß man ausserhalben den ämptern/auch etliche Kriegßräth verordnet/die daneben sonders nichts außzurichten/dann dem Kriegßrath mit trewen vnd fleiß obzuligen/darzů werden sie zu Musterherrn gebraucht/alles Kriegßuolck zu mustern.
+  cs: |-
+    Ve významných velkých válečných taženích {Heerzügen} je obvyklé, že se kromě úřadů ustanovuje také několik válečných radů, kteří kromě toho nemají nic zvláštního na starosti, než se věrně a pilně věnovat válečné radě; k tomu se jich užívá jako přehlídkových komisařů, aby prováděli přehlídku {mustern} veškerého válečného lidu.
+- typ: odstavec
+  de: |-
+    Dieweil dann der Kriegßräth Ampt fürnemlich erfordert/daß sie vertrawte/verschwigene/erbare Kriegs vnd anderer sachen erfahren leuth seyen/so ist noth/daß solliche Leuth darzů genommen vnnd erkiest werden/Zu dem sollen sie in jhren rathschlegen mit sampt dem General Obersten/vnd welche derselbig mehr hierzů
+  cs: |-
+    Protože úřad válečných radů především vyžaduje, aby to byli lidé spolehliví, mlčenliví, čestní a zkušení ve válečných i jiných věcech, je nutné, aby se k tomu brali a volili právě takoví lidé. Kromě toho mají ve svých poradách spolu s nejvyšším polním hejtmanem {General Obersten} a s dalšími, které k tomu on

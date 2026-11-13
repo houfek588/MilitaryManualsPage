@@ -1,0 +1,41 @@
+id: 013v
+list: XIII
+strana: verso
+sken: 34
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    schiessen můß/beschriben/so wil auch zu vnserem fürnemen dienstlich vnd not sein/alles an der kleyn geschütz/so zu einem vorrath in ein Zeughauß vonnöten zumelden/derhalben wöllen wirs auch mit denselbigen bey den grossen anheben/vnd mit den aller kleynesten (souiel das geschütz betrifft) enden vnd beschliessen.
+  cs: |-
+    střílet, popsali, bude pro náš záměr také užitečné a nutné uvést všechna malá děla {kleyn geschütz}, která jsou zapotřebí do zásoby ve zbrojnici {Zeughauß}. Proto i u nich začneme od velkých a skončíme a uzavřeme to těmi nejmenšími (pokud jde o děla).
+- typ: odstavec
+  de: |-
+    Man pflegt gegossene stücklin zumachen/die seind vngefährlich zweyer oder dritthalben schůch lang/die schiessen Kugeln vngefährlich zweyer feust groß oder grösser nach gefallen/dieselbige seind also gemacht/daß man hinden zu jeglicher drey oder zum wenigsten zwo Ladungen oder kammern hab/also daß man allwegen ein kamer mit puluer vnnd kuglen lad/dieweil man die ein abscheußt/darnach thůt man von stund ein andere geladene kammer darhinder/die verspendelt man wie sich gebürt/damit man ohne sorg ist/daß sie nit hindersich außspring/vnd seind die Büchsen sonderlich gůt in den Besatzungen/inn den Streichwehren zubrauchen/dann man kan fürderlich mit schiessen/So ladet man sie auch mit hagel/man můß sie auch auff nidere Reder legen/damit mans hin vnd her bringen/vnd sie auch den lauff haben könd/vnd dise Büchsen heyßt man Kamerbüchsen/vnd werden auch fast auff den Schiffen gebraucht.
+  cs: |-
+    Obvykle se odlévají malé kusy {stücklin} asi dvě až dvě a půl stopy {schůch} dlouhé, které střílejí koule {Kugeln} velké asi jako dvě pěsti nebo podle libosti větší. Jsou udělány tak, že ke každému patří vzadu tři nebo aspoň dvě nálože čili komory {kammern}: vždy se jedna komora nabije prachem {puluer} a koulí, a zatímco se z jedné vystřelí, vloží se za ni hned jiná nabitá komora a náležitě se zaklínuje {verspendelt}, aby nebylo obavy, že vyskočí dozadu. Tato děla {Büchsen} jsou zvláště dobrá k užití v posádkách {Besatzungen} a v bočních obranných stavbách {Streichwehren}, protože se z nich dá rychle střílet; nabíjejí se také drobnou střelou {hagel}. Musejí se také klást na nízká kola {Reder}, aby se dala přesouvat sem a tam a mohla také volně ujíždět [při výstřelu]. Těmto dělům se říká komorová děla {Kamerbüchsen} a hojně se užívají také na lodích.
+- typ: odstavec
+  de: |-
+    Es ist aber auch ein geschütz daß man Scharpffentin nennt/die seind vngefährlich sechs oder siben schůch lang/scheußt bley/ein kugel vngefährlich eins halben pfundes schwer/man legt es auch auff kleyne Reder/darumb daß man es dester füglicher von einem ort zum anderen (wa man sie haben wil) dester baß bringen möge/dann sie seind zimlicher schwere/also daß eins etwann zwen Centner oder mehr wigt/die Büchsen seind gar gebreuchlich in Besatzungen/dann man kan sie in die höhe vnnd wa man sie hin haben wil/bringen/so ist gůt mit in die schantz/vnnd wa man die leuth erreychen mag/zuschiessen/dann es mag eins ins ander fünff oder sechs hundert schrit wol schiessen.
+  cs: |-
+    Je také dělo, kterému se říká serpentina {Scharpffentin}; jsou asi šest nebo sedm stop dlouhé a střílí olovo, kouli o váze asi půl libry {pfundes}. Také se klade na malá kola, aby se dalo tím snáze a lépe přesunout z jednoho místa na druhé (kam je chceme mít), neboť [serpentiny] jsou dost těžké, takže jedna váží asi dva centy {Centner} nebo více. Tato děla jsou velmi užívaná v posádkách, protože se dají vytáhnout do výšky a kamkoli je chceme mít, a dobře se z nich střílí do šance {schantz} a všude, kam lze na lidi dosáhnout; v průměru totiž dobře dostřelí na pět nebo šest set kroků.
+- typ: odstavec
+  de: |-
+    Jetzt folgen die Doppelhacken/das seind Büchsen die schiessen bleyene kuglen/da eine etwann ein vierling bley/das ist acht lot scheußt/hat an der länge vngefehrlich vier schůch/oder ein wenig mehr an der schwere/daß sie ein Mann tragen/vnd von einer wehr zur andern bringen/auch vnter einem schußloch/oder auff einem Bock allein absehen vnd schiessen mag/doch seind sie für das stossen vnd hindersich lauffen mit einem ansatz gemacht/sie werden gebraucht in den Besatzungen auff vnd an den wehren/man braucht sie auch an den Feldtschlachten/da lägert man es vnter die hauffen/vnd scheusset sie auff Böcken ab/auch werden sie in den Wagenburgen vnd befestigten Legern gar nutzlich gebraucht.
+  cs: |-
+    Nyní následují dvojité hákovnice {Doppelhacken}: jsou to zbraně, které střílejí olověné koule, z nichž jedna váží asi čtvrt [libry] olova {vierling bley}, to jest osm lotů {lot}[^1]. Na délku mají asi čtyři stopy nebo o něco víc a váhu takovou, že je jeden muž unese a přenese od jedné obranné stavby k druhé a může z nich sám mířit a střílet ze střílny {schußloch} nebo z kozlíku {Bock}. Proti zpětnému rázu a ujíždění dozadu jsou však opatřeny hákem {ansatz}. Užívají se v posádkách na hradbách a u nich; užívají se také v polních bitvách, kde se rozmisťují mezi houfy {hauffen} a střílí se z nich z kozlíků; také ve vozových hradbách {Wagenburgen} a opevněných leženích {Legern} se užívají velmi užitečně.
+- typ: odstavec
+  de: |-
+    Also hat man auch Hackenbüchsen/die seind etwas kleyner vnd ringer dann die Doppelhacken/daß auch ein eyniger Mann damit vmbgehen vnd sie schiessen mag/die schiessen Kugeln da vngefährlich acht Kugeln ein pfund wegen/werden gebraucht wie die Doppelhacken hieuor gemelt vnd angezeygt ist.
+  cs: |-
+    Stejně tak jsou i hákovnice {Hackenbüchsen}, o něco menší a lehčí než dvojité hákovnice, takže s nimi může zacházet a střílet i jediný muž. Střílejí koule, z nichž asi osm váží jednu libru, a užívají se tak, jak bylo výše uvedeno a ukázáno u dvojitých hákovnic.
+- typ: odstavec
+  de: |-
+    Man hat auch kurtze Büchsen/die vngefärlich anderthalb schůh lang/die sollen gar dick vnd starck/auch fürs stossen mit eim ansatz wie ein hack/vnd hinden mit eim puluer sack gemacht/dieselben haben ein rohr so groß als vngefärlich ein Hennen Ey/Solche büchsen ladet man mit vilen handbüchsen kugeln/etwann 12. oder 15. auff ein mal/vnd
+  cs: |-
+    Jsou také krátká děla {kurtze Büchsen}, asi půldruhé stopy dlouhá, která mají být velmi silnostěnná a pevná, proti zpětnému rázu opatřená hákem jako hákovnice {hack} a vzadu prachovou komorou {puluer sack}. Mají hlaveň velkou asi jako slepičí vejce. Taková děla se nabíjejí mnoha kulkami do ručnic {handbüchsen}, někdy 12 nebo 15 najednou, a
+poznamky:
+- n: 1
+  text: >-
+    Vierling – čtvrtina (libry); lot = 1/32 libry, tedy asi 15 g, čtvrt libry = 8 lotů (asi 120–140 g).

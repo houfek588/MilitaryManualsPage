@@ -1,0 +1,86 @@
+id: 015r
+list: XV
+strana: recto
+sken: 37
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item etlich gemachte Reder vnnd Gefeß/oder Laden zum grossen Geschütz/wann ein Radt oder Laden zerschossen oder zerbrochen/daß man von stundan anders hab/vnd sollicher mangel erstattet werde.
+  cs: |-
+    Dále několik hotových kol {Reder} a lafet {Gefeß} čili loží {Laden} k velkým dělům {Geschütz}, aby se, když se kolo nebo lože rozstřílí nebo rozbije, hned měla jiná a taková ztráta se nahradila.
+- typ: odstavec
+  de: |-
+    Item etliche tausent gůter Bächring/im fall oder noth in den Besatzungen/vnd sonst zu den Bechpfannen so man bawt oder Lärmen würde/dieselbige hab zugebrauchen.
+  cs: |-
+    Dále několik tisíc dobrých smolných věnců {Bächring}[^1], aby se jich v případě nouze mohlo užít v posádkách {Besatzungen} a jinak do smolných pánví {Bechpfannen}, když se staví nebo když nastane poplach.
+- typ: odstavec
+  de: |-
+    Item ein gůte anzal breyter Fewrkuglen auff den Bölern zuwerffen/vnd auß den Fewrbüchsen zuschiessen/dann die menge in der eil nicht zumachen/darumb soll man damit gefaßt vnd versehen sein.
+  cs: |-
+    Dále dobrý počet připravených {breyter} ohnivých koulí {Fewrkuglen} k vrhání z moždířů {Bölern} a ke střelbě z ohňových děl {Fewrbüchsen}, neboť jich nelze ve spěchu nadělat mnoho; proto jimi má být [zbrojnice] zásobena a opatřena.
+- typ: odstavec
+  de: |-
+    Deßgleichen allerhandt Sturmfewrwerck/deren dann gar vielerley gattungen gemacht vnd gebraucht werden.
+  cs: |-
+    Rovněž všelijaké útočné zápalné střely {Sturmfewrwerck}, kterých se dělá a užívá velmi mnoho druhů.
+- typ: odstavec
+  de: |-
+    Item ein gůte anzal eysener vnd gegoßner schlege zu den Fewrwercken/damit dieselbigen/so man jhrer bedarff/bey der handt seien/vnnd die fewrwerck/so man je mangel hette/dester fürderlicher verfertigt vnd gemacht werden mögen/dann man soll keyn Zeughauß gůter Fewrwerck allerhandt gattung zuschiessen/werffen/vnnd sonderlich Sturmfewrwerck manglen lassen.
+  cs: |-
+    Dále dobrý počet železných a litých schránek {schlege}[^2] k zápalným střelám {Fewrwercken}, aby byly po ruce, když jich bude třeba, a aby se zápalné střely, kdyby jich snad bylo málo, mohly tím rychleji zhotovit a udělat; žádné zbrojnici {Zeughauß} se totiž nemá nechat chybět dobrých zápalných střel všeho druhu ke střelbě i k vrhání, a zvláště útočných zápalných střel.
+- typ: odstavec
+  de: |-
+    Darzů gehören auch Kessel/Pfannen vnd Mörsel/damit man die Fewrwerck stossen/vnd in den Kesseln täuffen/oder verbichen könne.
+  cs: |-
+    K tomu patří také kotle, pánve a hmoždíře {Mörsel}, aby se zápalné směsi daly roztloukat a v kotlích máčet nebo smolou potahovat.
+- typ: odstavec
+  de: |-
+    So soll man sich auch befleissen/daß man die alten Seyler nit hinwerff sonder wol auffhebe/viel gůter zündstrick zum vorrath darauß mach/sie auch sonst behalt/zu den Fewrwercken zugebrauchen.
+  cs: |-
+    Také se má dbát, aby se stará lana nevyhazovala, nýbrž dobře uschovávala, aby se z nich do zásoby nadělalo mnoho dobrých doutnáků {zündstrick} a aby se jinak uchovala k užití při zápalných střelách.
+- typ: odstavec
+  de: |-
+    Ein gůte anzal Pappeyriner ladungen im fall der noth zugebrauchen/vnd damit man dester fürderlicher schiessen möge.
+  cs: |-
+    Dobrý počet papírových nábojů {Pappeyriner ladungen}[^3] k užití v případě nouze, aby se dalo tím rychleji střílet.
+- typ: odstavec
+  de: |-
+    In einem Zeughauß soll man wol versehen sein/mit einer gůten anzal Harnisch zu Roß vnd Fůß/auch mit Kürisser/Bantzer vnd Schürtze/Roßstirn/Kniebückel/auch Harnisch zum kempffen vnd stechen/auch darneben viel gůter vnnd bereyter Sättel.
+  cs: |-
+    Ve zbrojnici má být dobrá zásoba zbrojí {Harnisch} pro jízdu i pěchotu, také kyrysů {Kürisser}, pancířů {Bantzer} a [kroužkových] šosů {Schürtze}, koňských čelenek {Roßstirn}, nákolenic {Kniebückel}, též zbrojí k zápasu a klání {zum kempffen vnd stechen} a vedle toho mnoho dobrých a vystrojených sedel.
+- typ: odstavec
+  de: |-
+    Deßgleichen ein gůte notturfft Landsknecht vnd Reyßspieß/auch Spießnagel vnd eysen/Hellenparthen/Barthesanen vnd Schäfflein/Füß vnd Lämeysen/auch Puluerfläschen/häfelin vnnd fäßlin/so zum Sturm gebrauchet vnd außgeworffen werden.
+  cs: |-
+    Rovněž dostatek lancknechtských a jezdeckých kopí {Landsknecht vnd Reyßspieß}, také hřebů a hrotů na kopí {Spießnagel vnd eysen}, halaparten {Hellenparthen}, partyzán {Barthesanen} a oštěpů {Schäfflein}[^4], ježků {Füß vnd Lämeysen}[^5], též prachových lahví, hrnečků a soudků, jichž se užívá a které se házejí při útoku.
+- typ: odstavec
+  de: |-
+    Auch ein gůte fürsehung mit Kummettern/Afftergeschirr zum fürsetzzeug/auch Seyler strick/Sträng/Zilscheytter/Sturm vnd Fewrleytern vnd Hocken/Werffzeug/Feldtbärn/so zun Rossen der Arckelley vnnd Munition vnnd andern Reysigen gehörig/solliche Bärn sollen von leder/zwilch vnd grobem leynwath gemacht sein.
+  cs: |-
+    Také dobrá zásoba chomoutů, zadních postrojů {Afftergeschirr} pro přípřež {fürsetzzeug}, dále provazů, postraňků {Sträng}, vahadel {Zilscheytter}, útočných a požárních žebříků a háků {Hocken}, vrhacího náčiní {Werffzeug} a polních žlabů {Feldtbärn}[^6], které patří ke koním dělostřelectva {Arckelley}, munice a jiné jízdy {Reysigen}; takové žlaby mají být udělány z kůže, cvilinku {zwilch} a hrubého plátna.
+- typ: odstavec
+  de: |-
+    Zu dem wer gůt/daß man bey einem Zeughauß hette vnnd versehen wer/mit
+  cs: |-
+    Kromě toho by bylo dobré, aby se u zbrojnice měly a byly k dispozici
+poznamky:
+- n: 1
+  text: >-
+    Pechring – věnec z koudele nebo slámy napuštěný smolou; zapálený sloužil k osvětlení (ve smolných pánvích) i jako
+    zápalná střela proti útočníkům.
+- n: 2
+  text: >-
+    „schlege“ (Schläge) – patrně železné a lité duté schránky (granáty, „rány“) plněné prachem, které tvořily jádro
+    zápalných a výbušných střel; výklad není jistý.
+- n: 3
+  text: Papírové náboje – odměřená dávka prachu (popř. i s koulí) v papírovém obalu, která urychlovala nabíjení.
+- n: 4
+  text: >-
+    Schäfflein – nejasné; patrně krátké kopí s ratištěm (oštěp, „ratiště“ = Schaft). Výklad nejistý.
+- n: 5
+  text: >-
+    Fuß- und Lämeisen – ježci (železné ostny rozhazované po zemi), které mrzačí („lähmen“) koně a pěší útočníky.
+- n: 6
+  text: >-
+    Bärn – žlaby, jesle (Barn = krmný žlab); polní skládací žlaby z kůže a plátna na krmení koní.

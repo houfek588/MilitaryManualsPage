@@ -1,0 +1,57 @@
+id: 027r
+list: XXVII
+strana: recto
+sken: 61
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Feldt wohin sie gelüst ziehen/es were dann sach daß sollicher verletzer der freiheyt darumb vmb sein haupt gestrafft würde/dann sollen sie an solcher straff ersettigt sein/vnd jhr gethone pflicht halten.
+  cs: |-
+    pole, kam se jim zlíbí, ledaže by takový porušitel výsady {freiheyt} byl za to potrestán na hrdle; pak se mají takovým trestem spokojit a dostát své složené povinnosti.
+- typ: odstavec
+  de: |-
+    So dann einer also bey der Arckelley freiheyt hat/so soll er/so das Läger auffbricht/bey vier vnd zwentzig schrit bey einer Büchsen bleiben/biß in das nechst Läger/so bleibt er wider bey der Arckelley.
+  cs: |-
+    Má-li tedy někdo takto u dělostřelectva {Arckelley} útočiště, má se, když se ležení {Läger} zvedá, držet do čtyřiadvaceti kroků od některého děla {Büchsen} až do příštího ležení; tam zůstane opět u dělostřelectva.
+- typ: odstavec
+  de: |-
+    Deßgleichen ist verbotten/bey verlierung deß Haupts/daß bey der Arckelley vnd in der Schantz niemands vber den andern zucken oder auffruhr machen soll/dann es ist keyn platz der gefährlicher ist/aufflauff vnd rumor zumachen/dann bey der Arckelley vnd in der Schantz/es were dann ein sonder person so ein Ampt bey der Arckelley hette.
+  cs: |-
+    Stejně tak je pod ztrátou hrdla zakázáno, aby u dělostřelectva a v šanci {Schantz} kdokoli tasil na druhého nebo dělal vzpouru; neboť není nebezpečnějšího místa pro srocení a výtržnost než u dělostřelectva a v šanci – ledaže by šlo o zvláštní osobu, která má u dělostřelectva úřad[^1].
+- typ: nadpis
+  uroven: 2
+  de: Pfenningmeysters oder Zalschreibers bey der Arckelley Befelch vnd Ampt.
+  cs: Pověření a úřad pokladníka {Pfenningmeysters} neboli platebníka {Zalschreibers} u dělostřelectva
+- typ: odstavec
+  de: |-
+    SEin befelch vnd Ampt ist/daß er alle Arckelley personen beschreib/vom meysten biß zu dem wenigsten/eim jeden sein Ampt vnnd besoldung wie er bestelt vnnd angenommen worden/laut der Reuers/dieselbigen soll er alle Monat nach beschehener musterung jhrs solds bezalen/vnd keynem weder mehr oder weniger geben dann sich gepürt/auch keyn vinantz oder vnerber practicken brauchen/oder einem andern er sey wer er wölle zugebrauchen zulassen noch gestatten/sonst soll er im zug auff den Zeugmeyster vnd die Arckelley warten.
+  cs: |-
+    Jeho pověřením a úřadem je zapsat všechny osoby dělostřelectva od nejvyššího po nejnižšího, každému jeho úřad a žold {besoldung}, jak byl najat a přijat, podle reversů {Reuers}. Každý měsíc po vykonané přehlídce {musterung} jim má vyplatit jejich žold a nikomu nedávat více ani méně, než náleží; nemá užívat žádné finty {vinantz} ani nečestné úklady {practicken}, ani je dovolovat či trpět komukoli jinému, ať je to kdokoli. Jinak má být na pochodu {zug} k službám zbrojmistrovi {Zeugmeyster} a dělostřelectvu.
+- typ: nadpis
+  uroven: 3
+  de: Volgt jetzt deß Arckelley Pfenningmeysters oder Zalschreibers Eyd/den soll er dem Kriegßherren thůn.
+  cs: Následuje přísaha {Eyd} pokladníka neboli platebníka dělostřelectva, kterou má složit válečnému pánu {Kriegßherren}
+- typ: odstavec
+  de: |-
+    ITem daß er N. seinem gnädigen Fürsten vnd Herren/getrew vnd gewer sein wölle/schaden warnen/ehren vnd frommen fürdern/getrewlich schreiben/mit ernst vnnd fleiß verrechnen/alle Arckelley personen wie die bestelt/als jhm der Zeugmeyster vnterschrieben vnd verrechnet hat/bezalen/wissentlich weder weniger noch mehr zugeben/weder wie eins jeglichen bestellung laut vnd außweiset/auch sonst alles thůn vnnd lassen/daß sein dienst vnd Ampt erfordert/vnnd einem bidermann zu vnd wol ansteht.
+  cs: |-
+    Dále, že bude N., svému milostivému knížeti a pánu, věrný a spolehlivý, bude varovat před škodou, napomáhat jeho cti a prospěchu, věrně zapisovat, s vážností a pilností vyúčtovávat a vyplácet všechny osoby dělostřelectva, jak byly najaty a jak mu je zbrojmistr podepsal a vyúčtoval, a vědomě nedá nikomu méně ani více, než zní a ukazuje služební list {bestellung} každého z nich; a že bude také jinak činit a nečinit vše, co vyžaduje jeho služba a úřad a co poctivému muži {bidermann} přísluší a dobře sluší.
+- typ: odstavec
+  de: |-
+    Hernach folgend all anderer Arckelley ämpter/Befelch/Ampt/Besoldung/vnd letzlich der Eyd.
+  cs: |-
+    Dále následují všechny ostatní úřady dělostřelectva: [jejich] pověření, úřad, žold a nakonec přísaha.
+- typ: nadpis
+  uroven: 2
+  de: Zeugmeysters Leutenants befelch vnd Ampt.
+  cs: Pověření a úřad zbrojmistrova poručíka {Leutenants}
+- typ: odstavec
+  de: |-
+    DEs Zeugmeysters Leutenant hat in abwesen deß Zeugmeysters allen gewalt deß Zeugmeysters/sonst soll er dem Zeugmeyster in allen dingen die jm
+  cs: |-
+    Zbrojmistrův poručík má v nepřítomnosti zbrojmistra veškerou zbrojmistrovu moc; jinak má být zbrojmistrovi poslušen ve všech věcech, které mu
+poznamky:
+- n: 1
+  text: Smysl výjimky je nejasný; patrně se zákaz netýká držitele úřadu u dělostřelectva, který zasahuje z moci úřadu (např. proti výtržníkům).

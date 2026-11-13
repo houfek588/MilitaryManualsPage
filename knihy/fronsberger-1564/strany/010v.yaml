@@ -1,0 +1,46 @@
+id: 010v
+list: X
+strana: verso
+sken: 28
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    So man den Stath vnnd Regiment der Arckelley anregen wil/so můß man das gantz Regiment melden/damit die vnterscheydt aller Regiment verstanden werden/wie eins auß dem andern fleußt/vnnd wie eins dem anderen die handt beut/vnd wie eins ohne das ander sein kan.
+  cs: |-
+    Chce-li se pojednat o postavení a zřízení dělostřelectva {Arckelley}, je třeba popsat celé zřízení {Regiment}, aby se porozumělo rozdílům mezi všemi pluky: jak jeden z druhého vyplývá, jak jeden druhému podává ruku a nakolik může jeden být bez druhého.
+- typ: odstavec
+  de: |-
+    Der Oberst Feldtzeugmeyster hat auch sein eygen Regiment vnd Profosen/hat aber nit wie die andern zwey Regiment/eygen Wacht vnnd Quartiermeyster/dann er bedarffs nit.
+  cs: |-
+    Nejvyšší polní zbrojmistr {Oberst Feldtzeugmeyster} má také svůj vlastní pluk a profouse {Profosen}; nemá však jako ostatní dva pluky vlastního vachmistra a kvartýrmistra {Wacht vnnd Quartiermeyster}, neboť je nepotřebuje.
+- typ: odstavec
+  de: |-
+    Item der Fůßknecht Oberster/hat auch sein eygen Profosen vnd Regiment/was aber der jetzt gemelten Profosen ämpter vnd befelch sey/ist noth daß ein kleyne meldung dauon geschehe.
+  cs: |-
+    Dále plukovník pěchoty {Fůßknecht Oberster} má také vlastního profouse a pluk. Jaké jsou však úřady a pověření právě zmíněných profousů, o tom je nutné krátce pojednat.
+- typ: odstavec
+  de: |-
+    Item der General Oberst Feldthauptmann/hat auch sein eygen Profosen/sampt seinem Nachrichter vnd Steckenknechten/der wird genannt der Oberst Feldtprofoß/das ist souiel als Felduogt/oder Richter/der hat ein zustraffen etwann auß befelch der Obersten Feldthauptleuth/Das ist in offentlichen sachen/als sonderlich so jemands handlet wider offentlich gebott des Obersten/durch den Heroldt oder Trommeter außgerůffen. Auch etwann so man jemand vmb vbelthat vorm gemeynen Mann oder Schuldtheyssen/vnd ordenlichen Gericht beklagt/stehet jhm auch zu rechtfertigen vnd beklagen.
+  cs: |-
+    Dále nejvyšší polní hejtman {General Oberst Feldthauptmann} má také vlastního profouse se svým katem {Nachrichter} a profousovými pacholky {Steckenknechten}; ten se nazývá nejvyšší polní profous {Oberst Feldtprofoß}, což je tolik jako polní fojt {Felduogt} neboli soudce. Jemu přísluší trestat, a to případně z rozkazu nejvyšších polních hejtmanů, totiž ve věcech veřejných, zvláště když někdo jedná proti veřejnému nařízení nejvyššího [hejtmana], vyhlášenému heroldem {Heroldt} nebo trubačem {Trommeter}. Také když je někdo pro zločin obžalován před obcí {gemeynen Mann} nebo před rychtářem {Schuldtheyssen} a řádným soudem, přísluší jemu, aby ho stíhal a žaloval.
+- typ: odstavec
+  de: |-
+    Gleicher gestalt haben die andern Profosen/als der Reysigen/der Arckelley vnd Fůßknecht Profosen jhre befelch/daß ein jeder vber sein Regiment eingriff thůn soll/es were dann/daß sich offentlich vbelthaten zůtrügen/welcher Profoß dann zugegen/vnd den vbelthäter beträtten mag/vnangesehen/vnter welches Regiment er gehörig/der soll zugreiffen/den vbelthäter zu handen bringen/gefäncklich verwarn/biß auff weitern bescheyd der Obersten vnd Kriegßräth.
+  cs: |-
+    Stejně tak mají ostatní profousové, totiž profous jízdy {Reysigen}, dělostřelectva a pěchoty, své pověření, že každý má zakročovat [jen] ve svém pluku; ledaže by došlo k veřejným zločinům: tehdy který profous je při tom a může pachatele přistihnout, ten má bez ohledu na to, ke kterému pluku pachatel patří, zakročit, pachatele zadržet a držet ve vazbě až do dalšího rozhodnutí nejvyšších [velitelů] a válečných radů {Kriegßräth}.
+- typ: odstavec
+  de: |-
+    Auch sollen die Profosen auff die Profandtmeyster acht haben/woher man Profandt bring/es sey Wein/Brot/Fleysch/Käß/Eyer/Schmaltz vnnd anders dergleichen/das alles soll mit Rath vnnd wissen des Obersten Feldtprofosen oder seiner Steckenknecht auff den freien Marckt verfertigt vnd daselbst geschätzt werden.
+  cs: |-
+    Profousové mají také dohlížet na proviantmistry {Profandtmeyster}, odkud se přiváží proviant {Profandt}, ať víno, chléb, maso, sýr, vejce, sádlo či jiné podobné věci; to vše se má s radou a vědomím nejvyššího polního profouse nebo jeho pacholků dopravit na volný trh a tam ocenit.
+- typ: odstavec
+  de: |-
+    Were sach daß etwann mangel an Profandt were/vnnd etliche Wägen mit Profandt kämen/daß nit wol im gantzen Läger reychen möcht/so sollen die Profosen die Wägen nach gelegenheyt vnd grösse der Regiment/vnd vile der Profosen theylen/als das erst theyl/oder Wagen mit Profandt gehört in die Arckelley Regiment/ein theyl in der Reysigen Regiment/vnd zum theyl in der Fůßknecht Regiment.
+  cs: |-
+    Kdyby snad byl nedostatek proviantu a přijelo několik vozů s proviantem, který by nemohl dobře stačit pro celé ležení {Läger}, mají profousové vozy rozdělit podle okolností a velikosti pluků a podle počtu profousů, totiž tak, že první díl neboli vůz s proviantem patří do pluku dělostřelectva, díl do pluku jízdy a díl do pluku pěchoty.
+- typ: odstavec
+  de: |-
+    Also wird vermerckt vnd vnterschiedlich bericht/wie drey Regiment in einem gewaltigen Feldzug müssen sein/vnd keynes ohne das ander wol frucht schaffen mag/aber eins mag dem andern wol handtreychung thůn/vrsach/die Fůßknecht mögen nit Reutter erlauffen/so mögen die Reutter auff hohen Bergen/deßgleichen in moß/engen höltzen/thälern vnnd gräben/dem Fůßuolck auch nit viel abgewinnen/So mag man ohne den standt der Arckelley zu Feldtschlachten nicht sein/das gar nützlich ist. So seind auch die zwen andere Regiment/als Reutter vnd Fůßknecht/hoch
+  cs: |-
+    Tak se poznává a zřetelně vykládá, že ve velkém tažení {Feldzug} musí být tři pluky a že žádný z nich nemůže bez druhého dobře přinést užitek, ale jeden může druhému dobře podat pomocnou ruku. Příčina: pěší knechti nemohou jezdce doběhnout, a jezdci zase na vysokých horách, stejně jako v bažinách, hustých lesích, údolích a příkopech, nemohou ani oni pěšímu lidu mnoho získat. Rovněž se v polních bitvách nelze obejít bez postavení dělostřelectva, které je velmi užitečné. A tak jsou i ony dva další pluky, totiž jezdci a pěší knechti, velmi

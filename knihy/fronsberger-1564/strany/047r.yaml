@@ -1,0 +1,51 @@
+id: 047r
+list: XLVII
+strana: recto
+sken: 101
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    zuermanen/anzuschicken vnnd zu vnterrichten/wie sie vornen/hinden/vnnd zun seitten/die Spieß am angriff vbereinander schwencken/vnnd ein Igel machen/vnd wie sie sich sonst im wenden/im schwencken/im lauffen/vnd sonst halten sollen.
+  cs: |-
+    napomínat, připravovat a poučovat, jak mají vpředu, vzadu i po stranách při útoku zkřížit kopí {Spieß} přes sebe a udělat ježka {Igel}[^1] a jak se mají jinak chovat při obratu, při otáčení šiku, v běhu i jinak.
+- typ: odstavec
+  de: |-
+    Were aber daß sich zutrüge/daß man mit den Feinden etwann an vngelegenem orth/als in Felsen/in Thälern/oder andern dergleichen enden/da man die geuierdt Schlachtordnung nicht machen vnd brauchen könde/oder an einem nach oder abzug/da man mit geuierter Schlachtordnung nicht forth kommen möcht/mit den feinden zuhandlen vberkäme/Alßdann begibt sich/daß man etwann ein schmale lange Ordnung/etwann hinden/etwann vornen gespitzt machen/die kurtze Wehr vnd Schützen anderst/dann inn den geuierten Ordnungen eintheylen vnnd verordnen můß/alles nach gelegenheyt der sachen/Alßdann gebürt sich/daß ein Feldtweybel sich wisse hierinnen zuhalten/vnd nicht was er dannzumal können vnd wissen soll/erst lernen wölle/Darumb ist die übung vnd erfahrenheyt hierinn der best meyster.
+  cs: |-
+    Kdyby se však přihodilo, že by se s nepřítelem střetli na nevhodném místě, například ve skalách, v údolích nebo na jiných podobných místech, kde nelze čtvercový bitevní šik {Schlachtordnung} sestavit a použít, anebo při pronásledování či ústupu, kdy by se se čtvercovým šikem nedalo postupovat, pak se stává, že je nutno sestavit úzký dlouhý šik, někdy vzadu, jindy vpředu zahrocený {gespitzt}, a krátké zbraně a střelce rozdělit a rozmístit jinak než ve čtvercových šicích, vše podle okolností. Tehdy se sluší, aby šikovatel {Feldtweybel} věděl, jak si v tom počínat, a nechtěl se teprve učit tomu, co má v tu chvíli umět a znát. Proto je v tom nejlepším mistrem cvik a zkušenost.
+- typ: odstavec
+  de: |-
+    Sonst im zihen/sollen die Feldtweybel auch die ziehordnungen mit sampt den andern Weybeln vnnd Befelchsleuthen machen/vnnd zusammen helffen halten.
+  cs: |-
+    Jinak na pochodu mají šikovatelé spolu s ostatními šikovateli a veliteli {Befelchsleuthen} sestavovat pochodové šiky {ziehordnungen} a pomáhat je udržovat pohromadě.
+- typ: odstavec
+  de: |-
+    So etwann ein vbelthäter für den gemeynen Mann gestelt/peinlich vom Profosen anklagt würde/So gebürt dem Feldtweybel/daß er/so man jhn erfordert/dem Profosen/oder dem armen beklagten mann das wort thůe.
+  cs: |-
+    Kdyby byl nějaký zločinec postaven před obec {gemeynen Mann} a profousem {Profosen} hrdelně obžalován, náleží šikovateli, aby – je-li o to požádán – vedl řeč za profouse, nebo za ubohého obžalovaného.
+- typ: odstavec
+  de: |-
+    Gleichergestalt/so etwann zwen vor dem gemeynen mann etwann Spän vnnd jrrung miteinander haben/gebürt dem Feldtweybel den Partheyen/auff jhr erforderen vnnd begeren zureden/vnnd das wort zuthůn/Auch begibt sich etwann daß Meutereyen vnnd auff lauff vnter dem Kriegßuolck werden/daß etwann die hohe ämpter sich vor dem Kriegßuolck besorgen müssen/vnnd nicht zů jhnen dörffen/Alßdann sollen die Feldtweybel den Knechten zusprechen/sie von jhrer vnsinnigkeyt abwenden/auff gebürliche weg vnnd mittel zwischen den Knechten/Obersten vnd Hauptleuthen handlen/dann sie haben mehr gunst vnnd volg inn widerspännigen sachen bey dem gemeynen mann/dann andere hohe Befelchßleuth/das macht/daß sie bey dem Kriegßuolck wol bekannt vnnd verdient seind/Doch inn betrachtung/daß sie jhr Ampt vnnd Besoldung nicht vom gemeynen mann/sonder vom Herren haben/sollen sie sich allwegen besonder in billichen dingen auff der Oberkeyt seitten halten.
+  cs: |-
+    Stejně tak, mají-li dva před obcí mezi sebou nějakou při a spor, náleží šikovateli, aby na jejich žádost a přání mluvil za strany a vedl jejich řeč. Stává se také, že mezi válečným lidem vzniknou vzpoury {Meutereyen} a srocení, takže se vysocí úředníci musí válečného lidu obávat a neodváží se k němu. Tehdy mají šikovatelé ke knechtům promluvit, odvrátit je od jejich nerozumu a náležitými cestami a prostředky vyjednávat mezi knechty, plukovníkem {Obersten} a hejtmany; neboť ve sporných věcech mají u obce větší přízeň a posluch než jiní vysocí velitelé, a to proto, že jsou u válečného lidu dobře známí a mají u něho zásluhy. Avšak vzhledem k tomu, že svůj úřad a žold nemají od obce, nýbrž od pána, mají se vždy, zvláště v náležitých věcech, držet na straně vrchnosti {Oberkeyt}.
+- typ: odstavec
+  de: |-
+    Auß jetzt angezeygten vrsachen/erscheint vonnöten sein/daß ein Feldtweybel wol beredt/geschickt/vnd eins gůten verstands sey.
+  cs: |-
+    Z právě uvedených příčin se ukazuje jako potřebné, aby byl šikovatel výmluvný, schopný a dobrého rozumu.
+- typ: odstavec
+  de: |-
+    So der Schultheyß vnd sein geordnet Gericht ein Malefitz sach/so leib/leben oder ehr betrifft/zu rechtfertigen haben/so sollen die Feldtweybel das Gericht besitzen/vnd vrtheyl sprechen helffen/das seind sie zuthůn schuldig.
+  cs: |-
+    Když mají rychtář {Schultheyß} a jeho ustanovený soud soudit hrdelní věc {Malefitz sach}, která se týká těla, života nebo cti, mají šikovatelé zasedat v soudu a pomáhat vynášet rozsudek; to jsou povinni činit.
+- typ: odstavec
+  de: |-
+    So man Gemeyn helt/sollen die Feldtweybel einen jeden/so es die notturfft erfordert/vmbfragen.
+  cs: |-
+    Když se koná obec {Gemeyn}, mají šikovatelé, je-li toho potřeba, obejít každého a otázat se ho [na jeho mínění].
+poznamky:
+- n: 1
+  text: |-
+    Igel – „ježek“, obranná sestava, v níž knechti nastaví zkřížená dlouhá kopí na všechny strany, zejména proti jízdě.

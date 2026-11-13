@@ -1,0 +1,50 @@
+id: 039v
+list: XXXIX
+strana: verso
+sken: 86
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nachfolgends Monatlich bezalt werden. Es sollen auch die Reutter in Teutschen Landen gemustert/vnd auff gelegenem platz wider geurlaubt werden.
+  cs: |-
+    následně vypláceni měsíčně. Jezdci {Reutter} mají být také přehlédnuti {gemustert} v německých zemích a na vhodném místě zase propuštěni.
+- typ: odstavec
+  de: |-
+    Zum achten/sollen sie allweg dreißig tag für ein Monat zudienen schuldig sein/darfür auch jedes mals ein Monat sold soll bezalt werden.
+  cs: |-
+    Za osmé: mají být povinni sloužit vždy třicet dní za jeden měsíc a za to se jim má pokaždé vyplatit měsíční žold {Monat sold}.
+- typ: odstavec
+  de: |-
+    Zum neundten/sollen sie meinem gnedigen Herrn/wider aller menniglich seine feinde vnd beschädiger/auch all derselbigen anhenger vnd helffer zudienen schuldig sein/ausserhalb deß Römischen Reichs.
+  cs: |-
+    Za deváté: mají být povinni sloužit mému milostivému pánu proti všem jeho nepřátelům a škůdcům, ať jsou kdokoli, i proti všem jejich stoupencům a pomocníkům, vyjma Římské říše[^1].
+- typ: odstavec
+  de: |-
+    Zum zehenden/sollen sie jren F. G. drey Monat lang zudienen schwören/doch also wann die drey bestimpte Monat auß seind/vnnd sein F. G. jhrer lenger begeren würde/daß jnen doch zuuor gewißlich zeitlich angezeygt/alßdann sollen sie sich vmb vorige besoldung lenger nach seiner F. G. gefallen/zudienen auch gebrauchen lassen.
+  cs: |-
+    Za desáté: mají přísahat, že budou Jeho knížecí Milosti {F. G.} sloužit tři měsíce; ovšem tak, že když tři stanovené měsíce uplynou a Jeho knížecí Milost by je chtěla mít déle, má se jim to předem jistě a včas oznámit; pak se mají za dosavadní žold {besoldung} dát použít ke službě i déle, podle vůle Jeho knížecí Milosti.
+- typ: odstavec
+  de: |-
+    Zum eylfften/wa die Reutter anritten/vnd innerhalb außgangs der dreyer Monat beurlaubt würden/soll jnen nichts desterweniger die drey Monatliche besoldung außgericht/vergnügt vnd bezalt werden.
+  cs: |-
+    Za jedenácté: kdyby jezdci přijeli a byli propuštěni před uplynutím tří měsíců, má se jim přesto vyplatit, uhradit a zaplatit žold za tři měsíce.
+- typ: odstavec
+  de: |-
+    Zum zwölfften/wann sein F. G. sollicher Reutter nicht mehr dörffen würde/soll jnen ein gantzer Monat sold für den abzug gegeben werden.
+  cs: |-
+    Za dvanácté: kdyby Jeho knížecí Milost takových jezdců už nepotřebovala, má se jim dát celý měsíční žold na odjezd {abzug}.
+- typ: odstavec
+  de: |-
+    Zum dreytzehenden/wa andere Reutter im Feld mit mehrer vnd besserer besoldung vnterhalten würden/sollen solche Reutter gleicher gestalt auch bezalt werden.
+  cs: |-
+    Za třinácté: kdyby byli jiní jezdci v poli vydržováni s vyšším a lepším žoldem, mají být i tito jezdci placeni stejně.
+- typ: obrazek
+  soubor: drevorez-86.jpg
+  popis: |-
+    Ozdobná koncová vinětka na konci Třetí knihy – dřevořez symetrického propleteného uzlu ze stuhových smyček (stejný štoček jako na konci Druhé knihy, 33v).
+poznamky:
+- n: 1
+  text: |-
+    ausserhalb deß Römischen Reichs – nejspíš „s výjimkou [proti] Svaté říši římské“, tj. jezdci nejsou povinni sloužit proti císaři a říši; méně pravděpodobně „[sloužit] mimo území říše“.

@@ -1,0 +1,53 @@
+id: 068r
+list: LXVIII
+strana: recto
+sken: 143
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Wo einer oder mehr one ein Paßport/die allein dem Obersten vnd sonst niemandts zugeben gebürt/auß dem Feldt vnnd vom hauffen zöhe/dem soll genommen werden was er hat/darzu gefencklich angenommen/dem Profosen vberantwort/vnd an ehren/leib vnd leben gestrafft werden/Were aber daß einer daruon käme/der soll angezeygt werden/damit man jm nachschreiben/vnnd zu gebürlicher straff bringen möge.
+  cs: |-
+    Kdyby jeden nebo více odešli z pole a od houfu {hauffen} bez průvodního listu {Paßport}, který přísluší vydávat jedině plukovníkovi {Obersten} a nikomu jinému, má se mu vzít, co má, a navíc má být zatčen, vydán profousovi {Profosen} a potrestán na cti, na těle i na životě. Kdyby však někdo unikl, má být oznámen, aby se za ním dalo psát[^1] a přivést ho k náležitému trestu.
+- typ: odstavec
+  de: |-
+    Item wo ein Fändlin auff die Wacht bescheyden würd/so soll ein jheder vnter dasselbig Fändlin gehörig auff die Wacht ziehen/vnd deß niemandt gefreyt sein/weder Edel noch vnedel/sich auch ein jeder auff die Schiltwacht vnd wohin er erfodert wird/brauchen lassen/Welcher aber nit auff die Wacht ziehen/oder vor dem Fändlein/vnnd ohne erlaubnuß abziehen würde/der soll von seinen Rottgesellen vmb ein dicken pfenning/darzu von dem Profosen angenommen/vnd nach gelegenheyt gestrafft werden/es soll auch keyner keyn andern Wächter an sein statt one wissen vnd erlauben seins Hauptmanns bestellen.
+  cs: |-
+    Dále: když je praporec {Fändlin} určen na stráž {Wacht}, má na stráž nastoupit každý, kdo k tomu praporci patří, a nikdo z toho nemá být vyňat, ani urozený, ani neurozený; a každý se má dát použít na stálou stráž {Schiltwacht} i kamkoli jinam, kam bude povolán. Kdo by však na stráž nenastoupil nebo odešel dříve než praporec a bez svolení, ten má být od svých druhů z roty {Rottgesellen} potrestán tlustým penízem {dicken pfenning}[^2] a k tomu zadržen profousem a podle okolností potrestán. Nikdo také nemá za sebe ustanovit jiného strážného bez vědomí a svolení svého hejtmana {Hauptmanns}.
+- typ: odstavec
+  de: |-
+    Item so jhr erfordert würden ein Zug zuthůn/mit eintzigen Fändlin oder Rotten weiß/wie sich das zutrüge/es were Profand zubeleyten/oder andere sachen außzurichten/das sollen jhr vnd ein jeder so darzu erfordert wird/vngewägert zuthůn schuldig sein.
+  cs: |-
+    Dále: kdybyste byli povoláni k výpravě {Zug}, po jednotlivých praporcích nebo po rotách {Rotten}, jak by se to přihodilo, ať k doprovodu proviantu {Profand}, nebo k vyřízení jiných věcí, jste vy i každý, kdo k tomu bude povolán, povinni to bez zdráhání vykonat.
+- typ: odstavec
+  de: |-
+    Begebe sich/daß auß erheyschung der notturfft/nach gelegenheyt vnd gestalt der sachen vnd zeit/man diesen Artickels brieff mindern oder mehren wölt/was dann auß erheyschung der notturfft/auß befelch N. vnsers gnädigen Herren/oder auß gůter fürbetrachtung vnd Rath deß Obersten vnd der Kriegßräth hinzu gethon würde/das sollen jr schuldig sein anzunemen/zuschwören vnd zuhalten/Doch soll euch nichts das vnbillich/oder den vorgeschrieben Artickeln oder ewer gerechtigkeyt vnd freyheyt zuwider were/zugemütet werden.
+  cs: |-
+    Kdyby se stalo, že by se z nutné potřeby, podle okolností, povahy věci a času, chtěl tento artikulní list {Artickels brieff} zkrátit nebo rozšířit, cokoli by se pak z nutné potřeby, z rozkazu N., našeho milostivého pána, nebo po dobrém uvážení a radě plukovníka a válečných radů {Kriegßräth} přidalo, to jste povinni přijmout, odpřisáhnout a dodržovat. Nemá se však po vás žádat nic, co by bylo nespravedlivé nebo co by odporovalo výše sepsaným artikulím či vašemu právu a svobodě.
+- typ: odstavec
+  de: |-
+    Begebe sich daß der Monat auß/vnd die besoldung nit gleich also bar da were/so sollen jhr nit dester weniger keyn Zug oder Wacht was euch zugemütet wird/nicht abschlagen/sonder der bezalung halben. N. tag gedult haben/keyn rumor oder auffrůr machen/wo auch einer oder mehr deßhalben rumor vnd auffrůr erwecken/machen/oder eynich vrsach darzu geben würde/der soll angezeygt werden/damit sollich meutmacher zuhanden gebracht/gestrafft/vnnd gůt Regiment erhalten werden möge.
+  cs: |-
+    Kdyby se stalo, že měsíc uplyne a žold {besoldung} nebude hned v hotovosti, nemáte přesto odmítat žádné tažení ani stráž, které se vám uloží, nýbrž máte s výplatou N. dní strpení a nemáte dělat žádný hluk ani pozdvižení. A kdyby kvůli tomu jeden nebo více vzbudili či způsobili hluk a pozdvižení nebo k tomu dali jakoukoli příčinu, má být oznámen, aby se takoví buřiči dostali do rukou, byli potrestáni a mohl se zachovat dobrý pořádek {Regiment}.
+- typ: odstavec
+  de: |-
+    Wo einer oder mehr weren/so diese Artickel nicht hielten/mütwilliger gefärlicher weiß darwider handeln würde/der oder dieselbigen sollen als meineydig/nach erkanntnuß deß Obersten/an ehren/leib/leben oder gůt/seinem verwürcken nach/gestrafft werden.
+  cs: |-
+    Kdyby jeden nebo více nedodržovali tyto artikule a svévolně a zlovolně proti nim jednali, má být ten nebo ti potrestáni jako křivopřísežníci podle uvážení plukovníka na cti, na těle, na životě nebo na statku, podle toho, čím se provinili.
+- typ: odstavec
+  de: |-
+    Vnnd ob einer oder mehr etliche Artickel jetzt verlesen nit gehört/oder nit recht verstanden/der findt bericht bey dem Obersten oder dem Schultheyssen.
+  cs: |-
+    A kdyby jeden nebo více některé z právě přečtených artikulí neslyšeli nebo jim dobře neporozuměli, najdou poučení u plukovníka nebo u rychtáře {Schultheyssen}.
+- typ: odstavec
+  de: |-
+    Item were sach/daß sich im feld oder Besatzungen/oder wo es die notturfft
+  cs: |-
+    Dále: kdyby se stalo, že by se v poli nebo v posádkách {Besatzungen} nebo kdekoli, kde to potřeba
+poznamky:
+- n: 1
+  text: |-
+    „nachschreiben“ – rozeslat o uprchlíkovi písemné oznámení (stíhací list) do okolních míst a vojsk.
+- n: 2
+  text: |-
+    Dicker Pfennig (Dicken) – stříbrný „tlustý groš“ v hodnotě asi třetiny zlatého; pokuta se platila rotě, tj. druhům, za něž musel provinilec stráž odbýt.

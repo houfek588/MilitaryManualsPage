@@ -1,0 +1,69 @@
+id: 019r
+list: XIX
+strana: recto
+sken: 45
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nit für schaden steh/Sie sollen auch jhr geschirr selbs erhalten/darauff der Geschirrmeyster gut acht vnd auffsehen haben soll/damit die fürleuth dasselbig bey dem besten haben/vnd auch also behalten/damit man im Zug stäts fürfaren möge/vnnd nit jetzt dem das/einem andern ein anders brech/vnd der gantz zeug vnnd hauff dann still halten vnd warten müß.
+  cs: |-
+    neručilo za škody. Mají si také sami udržovat svůj postroj; na to má dávat dobrý pozor a dohlížet vozmistr {Geschirrmeyster}, aby jej vozkové {fürleuth} měli v co nejlepším stavu a tak jej i udržovali, aby se na tažení {Zug} mohlo stále jet kupředu a aby se nestávalo, že hned jednomu praskne to, druhému zase něco jiného, a celý vozový průvod {zeug} a houf pak musí stát a čekat.
+- typ: odstavec
+  de: |-
+    Gleichwol den Fürleuhten/so die grosse stück führen/dieweil sie darzu nicht gerüst/wird auß dem Zeughauß Stränge/vnd dergleichen was sonst seiner grösse vnd stercke halben nit in gemeynem gebrauchen/gegeben vnd zugestellt.
+  cs: |-
+    Vozkům, kteří vezou velká děla {stück}, se však – protože na to nejsou vybaveni – vydávají a přidělují ze zbrojnice {Zeughauß} postraňky {Stränge}[^1] a podobné věci, které pro svou velikost a pevnost nejsou v běžném užívání.
+- typ: odstavec
+  de: |-
+    Als fürnemlich Streng/deren sollen die hindersten am stercksten/vnd etwann biß zu achtzehen pfunden sein/darnach stäts je baß hinfür vmb zwey pfund ringer/gleicher gestalt sein die wägen.
+  cs: |-
+    Jsou to především postraňky: ty nejzadnější mají být nejsilnější, asi až do osmnácti liber {pfunden}, a dále směrem dopředu vždy o dvě libry lehčí. Stejně je tomu i s vahadly {wägen}[^2].
+- typ: odstavec
+  de: |-
+    Wo man es auch am Land vnd Fürleuhten haben mag/seind die Deychselwägen besser dann die Landtwägen/dann es ziehen zwey Roß baß neben dann voreinander/dergleichen ist auch am hindersich zauffen vnnd halten/zu dem allem gibt es ein kürtzern zug wo fünffe dann da zehen pferd voreinander gehn.
+  cs: |-
+    Kde to v zemi a u vozků lze mít, jsou vozy s ojí {Deychselwägen} lepší než zemské vozy {Landtwägen}[^3], neboť dva koně táhnou lépe vedle sebe než za sebou; totéž platí i při couvání a brzdění. Navíc je spřežení kratší, jde-li za sebou pět [dvojic koní], než když jde za sebou deset koní.
+- typ: odstavec
+  de: |-
+    Es sollen auch nit vermitten noch erspart werden/notturfftige anzal der Personen/zu den Wägen vnnd Pferden/damit alle ding in seiner steiffer Ordnung sey vnd bleiben möge/vnnd sollen zů acht Pferdten weniger nit dann drey Personen/als zwen Fürleuth vnd ein handtknecht/der hilfft auff vnd abladen/auß vnnd einsetzen/auff der fütterung vnd in ander weg gehalten vnd besoldt werden.
+  cs: |-
+    Nemá se také upouštět od potřebného počtu osob k vozům a koním ani se na nich šetřit, aby vše bylo a zůstalo v pevném pořádku. Na osm koní se mají držet a platit nejméně tři osoby, totiž dva vozkové a jeden pomocník {handtknecht}, který pomáhá nakládat a skládat, vysazovat a vsazovat, při krmení i jinak.
+- typ: nadpis
+  uroven: 2
+  de: Den Obersten Feldthauptmann betreffendt/sampt dem Zeugmeyster.
+  cs: |-
+    O nejvyšším polním hejtmanovi {Obersten Feldthauptmann} a o zbrojmistrovi {Zeugmeyster}
+- typ: odstavec
+  de: |-
+    ITem die Obersten sollen allwegen gůt fürbetrachtung haben nach gůten Kundtschafftern/die weg/Steg/Brücken/fürt/vnd alle gelegenheyt wissen/die sollen sie den Schantzmeystern vnnd anderen so im vorzug seind/zugeben/dann wo der vorzug falsch ist/so zeucht der gantze Feldtzug jrr/Darumb ist vil an guten Kundtschafftern gelegen/darzu soll den Kundtschafftern fürgenommene Reyß nit weitter/dann biß inn das nechst Läger geoffenbart werden/die soll er auch inn geheym behalten/vnd niemand offenbaren/biß die jenigen/so er füren soll/bey einander seind.
+  cs: |-
+    Dále: nejvyšší [velitelé] {Obersten}[^4] se mají vždy předem dobře postarat o dobré zvědy {Kundtschafftern}, kteří znají cesty, stezky, mosty, brody a všechny poměry v krajině. Ty mají přidělit šancmistrům {Schantzmeystern} a ostatním, kdo jsou v předvoji {vorzug}; je-li totiž předvoj veden chybně, bloudí celé tažení {Feldtzug}. Proto na dobrých zvědech mnoho záleží. Kromě toho se má zvědovi zamýšlená cesta vyjevit jen do příštího ležení {Läger}; a i tu má držet v tajnosti a nikomu ji nevyjevit, dokud nejsou pohromadě ti, které má vést.
+- typ: odstavec
+  de: |-
+    Das bringt zwo frucht/erstlich/daß die feind nicht wissen/wo sich der zug hinwenden wil/vnd dester weniger gewarnt seind.
+  cs: |-
+    To přináší dvojí užitek: zaprvé nepřítel neví, kam se tažení chce obrátit, a je tím méně varován.
+- typ: odstavec
+  de: |-
+    Zum andern/daß die feindt den zug dester weniger an seinem fürnemen jrren vnd verhindern mögen/baß zu verhüten/brucken abzuwerffen/die geng/ring/vnd abweg zu verschrancken/die wäld vnd höltzer zu verfellen vnnd verhawen/thämb vnnd teych eroffnen/die awen thäler zu erfüllen/dardurch etwann ein Feldtzug verhindert/Büchsen vnd Puluer ertrenckt wird.
+  cs: |-
+    Zadruhé nepřítel tím méně může tažení mást a překážet mu v jeho záměru – lépe se proti němu chránit, strhávat mosty, zatarasit průchody, stezky {ring}[^5] a vedlejší cesty, kácet lesy a háje a dělat v nich záseky, protrhávat hráze a rybníky a zaplavovat luční údolí –, čímž bývá tažení zdrženo a děla {Büchsen} a prach {Puluer} utopeny.
+- typ: odstavec
+  de: Darumb ist gut daß man ein fürgenommen zug in grosser geheym halt.
+  cs: Proto je dobré držet zamýšlené tažení ve velké tajnosti.
+poznamky:
+- n: 1
+  text: Strang – postraněk, provaz či řemen, jímž kůň táhne vůz.
+- n: 2
+  text: |-
+    „wägen“ zde patrně znamená Waage/Wage, tj. vahadlo (příčné dřevo, k němuž se připínají postraňky), nikoli vozy; výklad nejistý.
+- n: 3
+  text: |-
+    Deichselwagen – vůz s ojí, koně zapřažení po dvou vedle sebe; Landwagen – patrně vůz s ojnicemi (svorami), koně zapřažení jeden za druhým.
+- n: 4
+  text: |-
+    Míněni nejvyšší polní hejtman a zbrojmistr, o nichž mluví nadpis.
+- n: 5
+  text: „ring“ – význam nejistý; snad úzké stezky či průsmyky.

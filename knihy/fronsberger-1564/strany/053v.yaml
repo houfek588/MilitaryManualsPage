@@ -1,0 +1,30 @@
+id: 053v
+list: LIII
+strana: verso
+sken: 114
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    ZV disem Ampt wird genommen vnnd gebraucht ein alter vnd erfahrner wolgeübter Kriegßmann/dann jhm wird befolhen vnd vnter sein gewalt gegeben aller Troß/als Hurn vnnd Buben/Im Zug oder ziehen soll er den bey einander halten/vnd in gůter Ordnung führen/damit weder Hurn noch Buben in die Ordnungen oder hauffen lauffen/vnd da verhindernuß geben/dann er wird mit seinem Troß mit einem nachzug versorgt vnd verwart/dann manchem vil daran gelegen ist/Darumb jhm gebürt daß er den Troß bey einander halte vnd habe.
+  cs: |-
+    K tomuto úřadu se bere a užívá starý, zkušený a dobře vycvičený válečník, neboť je mu svěřen a pod jeho moc dán veškerý trén {Troß}, totiž nevěstky a chlapci {Hurn vnnd Buben}. Na pochodu {Zug} jej má držet pohromadě a vést v dobrém pořádku, aby nevěstky ani chlapci nevbíhali do šiků {Ordnungen} či houfů a nepůsobili tam překážky. Jeho trén je totiž opatřen a chráněn zadním vojem {nachzug}, neboť mnohým na tom velmi záleží. Proto mu náleží, aby trén držel a měl pohromadě.
+- typ: odstavec
+  de: |-
+    Solchem gemelten Weybel gebürt/so ein hauffen oder Läger verrucken wil/so darinn wird vmbgeschlagen/daß man wil auff sein/soll er für das Läger hinauß ziehen/den Troß auffhalten/vnnd niemandt lassen vorziehen/biß die hauffen vnnd Ordnungen vorkommen/alßdann zeucht er seinem Troß vor biß zum nächsten Läger/wann das geschlagen vnnd eingenommen/so zeucht er nach dem hauffen vnnd Knechten/auch mit seim Troß in das Läger.
+  cs: |-
+    Tomuto jmenovanému šikovateli {Weybel} náleží, když se houf nebo ležení {Läger} chystá přesunout a vybubnuje se v něm, že se vyráží, vytáhnout před ležení, trén zadržet a nikoho nepustit napřed, dokud houfy a šiky nevyjdou. Potom vede svůj trén až k příštímu ležení, a když je postaveno a obsazeno, vtáhne se svým trénem do ležení za houfem a knechty.
+- typ: odstavec
+  de: |-
+    Solcher Troß wird darumb auffgehalten vnnd hinnach geführt/daß sie nicht vorauß in das Läger lauffen vnd alles auffraumen/wie dann ihr gebrauch ist/wann der hauffe käme/daß keyner nichts finde/es wer Hew/Stro/Holtz oder anders was dann ein Läger erfordert.
+  cs: |-
+    Trén se zadržuje a vede vzadu proto, aby nevběhl do ležení napřed a všechno tam nevybral, jak je jeho zvykem, takže by houf po svém příchodu nic nenašel – ať seno, slámu, dřevo, nebo cokoli jiného, co ležení potřebuje.
+- typ: odstavec
+  de: |-
+    Diß Weybels Besoldung steht zum Obersten/wiewol etwann gebräuchlich gewesen/daß er von einem jeglichen Fändlin ein Besoldung gehabt.
+  cs: |-
+    Žold tohoto šikovatele je na vůli plukovníka {Obersten}, ačkoli dříve bývalo zvykem, že dostával žold od každého praporce {Fändlin}.
+- typ: obrazek
+  soubor: drevorez-114.jpg
+  popis: |-
+    Ozdobná koncová vinětka (proplétaný uzel), jaká v tisku uzavírá kapitoly.

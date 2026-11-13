@@ -1,0 +1,44 @@
+id: 099v
+list: XCIX
+strana: verso
+sken: 206
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    stotzen/damit die Reder gehefft/auch fast jrren vnd verhindern/vnd je mehr der Reder vnd stotzen/je besser es ist/die stotzen sollen beseitz eingeschlagen sein.
+  cs: |-
+    kolíky, jimiž jsou kola připevněna, velmi pletou a překážejí; a čím víc kol a kolíků, tím lépe. Kolíky mají být zatlučeny šikmo.
+- typ: nadpis
+  uroven: 3
+  de: Ein anders.
+  cs: Jiný [způsob]
+- typ: odstavec
+  de: |-
+    MAn mag an der Thalhelde des grabens an beyden seyten deß walls oder grabens/viel Schrancken mit stotzen vnnd langen stangen machen/die man inn der eyl nit mehr dann mit Widen anbinden soll/aber der stotzen sollen viel/vnd die stangen an viel orten angebunden sein/damit sie die feind nit bald hinweg reissen mögen/vnnd sol vmb einander gemacht sein/ein schrancke so hoch biß in die weyche/die ander ein wenig höher dann knies hoch/vnnd eine vmb die ander allwegen drey schůch von der andern sein/es hindert die Feind hefftig am lauffen vnd stürmen/wie wol zugedencken/es mag auch in der eyl zuwegen gebracht vnd gemacht werden.
+  cs: |-
+    Na svahu příkopu, po obou stranách valu nebo příkopu, lze z kolíků a dlouhých tyčí zhotovit mnoho ohrad, které se ve spěchu přivazují jen houžvemi; kolíků však má být mnoho a tyče mají být přivázány na mnoha místech, aby je nepřátelé nemohli rychle strhnout. Mají se dělat střídavě: jedna ohrada vysoká až po slabiny, druhá o něco výš než po kolena, a vždy jedna od druhé na tři stopy {schůch}. To nepřátelům velmi překáží v běhu a útoku, jak si lze snadno představit, a dá se to také pořídit a zhotovit ve spěchu.
+- typ: odstavec
+  de: |-
+    So man Stürmen wil/sol man in der Besatzung verordnen/die sich vnter augen/mann gegen mann/mit werffen/fewrwerck/handgeschütz/Spiessen/Hellenparthen/grossen stücken/vnnd andern wehren. Darneben soll man verordnen auff den hohen wehren/auff den Mawren vnd Streytwehren/daß dieselbigen stäts hinden vnd mitten in hauffen arbeyten vnd schiessen/dann zum offtern mal die vordersten sich gern wendten vnnd die flucht geben/daß sie aber vorm nachtruck der mittelsten vnnd hindersten nicht thůn mögen/also mit gewalt wider jhren willen in nöthen stehn bleiben müssen/So dann die mittelsten vnd hindersten gleicher gestalt wie die vordersten in gefahr vnd nöhten seind/tringen sie dester weniger auff die vordern/vnnd heben gemeynlich die flüchten gern mitten vnd hinden im hauffen an.
+  cs: |-
+    Když chce [nepřítel] útočit, mají se v posádce ustanovit ti, kdo se [mu] postaví tváří v tvář, muž proti muži, s vrhacími předměty, ohňostrojem, ručnicemi, dlouhými kopími {Spiessen}, halapartnami {Hellenparthen}, velkými kusy a jinými zbraněmi. Vedle toho se má nařídit těm na vysokých obranných místech, na hradbách a bojových ochozech, aby stále pálili a pracovali do zadní a střední části [nepřátelského] houfu. Přední by se totiž často rádi obrátili a dali na útěk, ale pro tlak prostředních a zadních to nemohou udělat, a tak musí v nouzi zůstat stát násilím a proti své vůli. Jsou-li však prostřední a zadní ve stejném nebezpečí a tísni jako přední, tlačí na přední o to méně, a útěk obvykle začíná uprostřed a vzadu v houfu.
+- typ: nadpis
+  uroven: 3
+  de: Ein anschlag vor einer Besatzung eins Bergkhauß.
+  cs: Úskok před posádkou hradu na hoře
+- typ: odstavec
+  de: |-
+    JTem so man ein Bergkhauß belägert/das man nicht gewinnen mag/so dann dasselbig ein tieffen Bronnen hette/den man mit einem Rad schöpffen müßt/wie dann die Bergkheuser gemeynlich haben/so man das gewisse kundtschafft haben mag/wo/vnd an welchem end der Bronnen steht/So ist gůt/daß man im Läger vmbschlag nach allen Bergknappen/oder sonst heymlich zusammen bring/dann so man etwas graben wil/ist gůt daß man es in grosser geheym halt/also daß wo müglich/man es auch im Läger nit wissen mög/den zeyg man den anschlag an/zeyge jnen auch die gelegenheyt deß Bronnen/alßdann wissen sie mit hülff eins Compaß/wol auff den Bronnen zugraben/so sie dann kommen biß auff den Bronnen/so mag man Schelmen oder ander vnzibel hinein werffen/jhnen das wasser also verunreynigen/daß sie es nit mehr gebrauchen mögen.
+  cs: |-
+    Dále: Oblehá-li se hrad na hoře, který nelze dobýt, a má-li ten hrad hlubokou studnu, z níž se musí čerpat kolem, jak to hrady na horách obvykle mívají, a lze-li získat spolehlivou zprávu, kde a na kterém místě studna stojí, je dobré dát v ležení provolat [a sehnat] všechny havíře, nebo je jinak tajně shromáždit. Chce-li se totiž něco kopat, je dobré držet to ve velké tajnosti, tak aby se o tom pokud možno nevědělo ani v ležení. Těm ať se úskok sdělí a ukáže se jim i poloha studny; s pomocí kompasu pak dovedou kopat přesně ke studni. Až se prokopou ke studni, lze do ní naházet mršiny nebo jinou havěť a tak jim vodu znečistit, že ji už nebudou moci používat.
+- typ: odstavec
+  de: |-
+    Gleicher gestalt pflegt man auch zugraben/so man vnter ein Bollwerck oder Thurn graben/vnd denselbigen zersprengen wil/braucht man auch den Compaß/es ist gewiß.
+  cs: |-
+    Stejným způsobem se obvykle kope i tehdy, když se chce podkopat bolverk {Bollwerck} nebo věž a vyhodit je do povětří; i tehdy se používá kompas, to je jisté.
+- typ: nadpis
+  uroven: 2
+  de: Von Schlachten.
+  cs: O bitvách

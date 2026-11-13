@@ -1,0 +1,53 @@
+id: 092v
+list: XCII
+strana: verso
+sken: 192
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Darzů alle wehr gehören dem Kriegßherrn vnd dem Zeugmeyster/sonderlich Büchsen/Puluer/Kuglen/gehören dem Zeugmeyster zu/daß soll der Kriegßherr von jhme lösen/vngefährlich was das werth ist/vmb die zwey theyl/so der Zeugmeyster dem Herrn den dritten theyl nachläßt/ist gnug.
+  cs: |-
+    K tomu všechny zbraně patří válečnému pánovi {Kriegßherrn} a zbrojmistrovi {Zeugmeyster}; zvláště děla {Büchsen}, prach a koule patří zbrojmistrovi. To má válečný pán od něho vykoupit, a to přibližně za dvě třetiny toho, co to má cenu; slevu zbrojmistra pánovi o třetinu postačí.
+- typ: odstavec
+  de: |-
+    Item so das Fändlein gewunnen wird/soll der Oberst Hauptmann dasselbig von dem jhenigen so es gewunnen/vmb ein Monat sold/wie er denselbigen zur selben zeit von seinem Hauptmann hat/lösen/vnnd vnuergolten nicht mit gewalt nemen/der Oberst soll auch denselbigen vnnd andere/so sich vor andern weidlich gebraucht/ehrlich vnd wol gehalten/vor andern herfür ziehen/wo sich gelegenheyt zůtregt/mit ehrlichen Befelchen vnnd ämptern versehen/vnangesehen was nidern stands dieselbigen seyen/dann es ist billich/daß die ehrlichen so sich wol halten/desselbigen geniessen/sie werden ein andermal sich noch ehrlicher vnd baß halten/darzů andere ein Exempel darab nemen/so man sicht/daß die jenige so sich ehrlich vnnd wol halten/ohn ansehen der Person/sein geniessen/gibt es allen kecken vnnd redtlichen ein hertz vnnd trost/nach ehr/ruhm vnnd tugenden zůstreben/die es sunst bey dem nächsten bleiben lassen/vnnd jedermann dem andern der ehren vnnd gefährlicheyt günnet.
+  cs: |-
+    Dále, je-li ukořistěn [nepřátelský] praporec {Fändlein}, má jej nejvyšší hejtman {Oberst Hauptmann} od toho, kdo jej ukořistil, vykoupit za jeden měsíční žold, jaký ten v tu dobu dostává od svého hejtmana, a nemá mu jej brát násilím a bez náhrady. Nejvyšší [hejtman] má také toho i jiné, kteří si před ostatními vedli udatně, čestně a dobře, vyzdvihnout před ostatní a při příležitosti je opatřit čestnými velitelskými místy a úřady, bez ohledu na to, jak nízkého stavu jsou. Je totiž spravedlivé, aby čestní, kteří se dobře drží, z toho měli užitek; příště se budou držet ještě čestněji a lépe a jiní si z nich vezmou příklad. Když se totiž vidí, že ti, kdo se drží čestně a dobře, z toho bez ohledu na osobu mají užitek, dodává to všem smělým a poctivým odvahu a chuť usilovat o čest, slávu a ctnost, kteří by se jinak spokojili s nejmenším a každý by čest i nebezpečí přenechával druhému.
+- typ: odstavec
+  de: |-
+    Dergleichen soll es auch gehalten werden in Besatzungen/so darfür gelägert/geschantzt vnd geschossen wird/vnd die feind abziehen vnd nicht gewinnen/so soll auch durch die gantz Besatzung ein Monat sold dem Kriegßuolck mitgetheylt vnnd bezalt werden/darzů soll den Zeug vnd Büchsenmeystern/Wachtmeystern vnd andern/so vor andern befelch haben gehabt/besondere verehrung geschehen/einem jeden nach dem er sich gehalten/seinem Befelch vnd Stand nach.
+  cs: |-
+    Stejně se má postupovat i v posádkách {Besatzungen}: leželo-li se před nimi, stavěly se šance a střílelo se, a nepřátelé odtáhli, aniž je dobyli, má se také celé posádce rozdělit a vyplatit válečnému lidu {Kriegßuolck} jeden měsíční žold. Kromě toho se mají zbrojmistrům, puškařům {Büchsenmeystern}, vachmistrům {Wachtmeystern} a jiným, kteří měli nad ostatními velení, dát zvláštní dary, každému podle toho, jak se držel, a podle jeho úřadu a stavu.
+- typ: odstavec
+  de: |-
+    Wo man vor einer Besatzung ligt/vnd die erobert wird/so ist die gröste stürmglock/darzů das Puluer vnd Kuglen/sampt allen angewendten Puluerfäßlin in der Schantz/der Zeugwarten vnd Büchsenmeyster.
+  cs: |-
+    Leží-li se před posádkou a ta je dobyta, připadne největší poplašný zvon {stürmglock}[^1], k tomu prach a koule spolu se všemi použitými soudky prachu v šanci {Schantz}, zbrojním správcům {Zeugwarten} a puškařům.
+- typ: odstavec
+  de: |-
+    Gleicher gestalt soll dem Obersten der Besatzung/vnnd Hauptleuthen/so die Besatzung vor den feinden errett vnnd behalten wird/verehrung von dem Kriegßherrn geschehen.
+  cs: |-
+    Stejně tak má válečný pán obdarovat plukovníka {Obersten} posádky a hejtmany {Hauptleuthen}, je-li posádka před nepřáteli zachráněna a udržena.
+- typ: odstavec
+  de: |-
+    Also soll auch den Obersten vnd Hauptleuthen/auch andern Befelchsleuthen verehrung von dem Kriegßherrn geschehen/so ein Statt oder Land gewunnen vnnd erobert wird.
+  cs: |-
+    Rovněž tak má válečný pán obdarovat plukovníky, hejtmany i jiné velitele, je-li dobyto a podmaněno město nebo země.
+- typ: odstavec
+  de: |-
+    Item alle geflöhente Haab vnd güter/so in einer Besatzung/sollen die jenigen/deren es ist/vmb den dritten theyl des werths von dem kriegßherrn wider lösen/es were dann einer oder mehr/so jhr leib/haab vnd gůt in der Besatzung hetten/dem soll der Herr sein haab vnd gůt vmb den fünfften theyl deß werths wider zůstellen/auß nachfolgenden vrsachen.
+  cs: |-
+    Dále všechen movitý majetek a statky, které byly do posádky uklizeny do bezpečí[^2], mají jejich vlastníci od válečného pána vykoupit zpět za třetinu ceny; ledaže by někdo měl v posádce sám sebe i svůj majetek a statek – tomu má pán jeho majetek a statek vrátit za pětinu ceny, a to z následujících důvodů.
+- typ: odstavec
+  de: |-
+    Item so die feind wissen/daß groß haab vnnd gůt in die Besatzungen geflöhnet ist/so hencken sie alles jr vermögen daran/daß sie sunst nicht thäten/darauß der Besatzung vnrath vnd gefahr erfolgt.
+  cs: |-
+    Dále, vědí-li nepřátelé, že do posádek byl uklizen velký majetek a statky, vynaloží na to všechny své síly, což by jinak neudělali, a z toho posádce vzejde škoda a nebezpečí.
+poznamky:
+- n: 1
+  text: |-
+    Podle válečného obyčeje připadaly zvony dobytého místa dělostřelcům (jako kov na děla), obvykle však je obyvatelé od nich vykupovali.
+- n: 2
+  text: |-
+    geflöhnet – „uprchnuté“, tj. odvezené před nepřítelem do pevnosti k úschově (zboží okolních obyvatel a měšťanů).

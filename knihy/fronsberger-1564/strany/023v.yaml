@@ -1,0 +1,28 @@
+id: 023v
+list: XXIII
+strana: verso
+sken: 54
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Nuh folgt der Stath/Ordnung vnd Regiment deß Obersten Zeugmeysters/mit sampt den anderen sein zugethonen Arckelley Personen/wie sie gehalten werden sollen/vnd sie sich hinwider halten sollen.
+  cs: |-
+    Nyní následuje stav {Stath}[^1], řád a zřízení {Regiment} nejvyššího zbrojmistra {Obersten Zeugmeysters} spolu s ostatními jemu přidělenými osobami dělostřelectva {Arckelley Personen}: jak se s nimi má zacházet a jak se mají naopak chovat oni
+- typ: obrazek
+  soubor: obrazek6.png
+  popis: Dřevořez v oválném rámu zdobeném válečnými trofejemi (zbroje, přilby, štíty, trubky, bubny, děla). Uprostřed velitel – nejvyšší zbrojmistr – ve vysokém klobouku s péry na koni, velitelskou holí ukazuje do krajiny; vlevo k němu přistupuje muž s mečem, vpravo stojí halapartník. V popředí dělo na kolové lafetě, koule, vědro a koš, v pozadí stany ležení, pevnost, jezero s lodí a kopce.
+- typ: odstavec
+  de: |-
+    EIn jeder Oberster Feldtzeugmeyster ist allwegen der dritt Kriegs Rath/von wegen seines Ampts/nach dem Obersten Feldhaupmann/vnd dem Feldmarschalck/wie angezeygt.
+  cs: |-
+    Každý nejvyšší polní zbrojmistr {Oberster Feldtzeugmeyster} je z moci svého úřadu vždy třetím válečným radou {Kriegs Rath} – po nejvyšším polním hejtmanovi {Obersten Feldhaupmann} a polním maršálkovi {Feldmarschalck}, jak bylo uvedeno.
+- typ: odstavec
+  de: |-
+    Deßglezchen soll deß Zeugmeysters Leutenant offtmals im Kriegßrath/vnnd bey den anschlegen sein/Insonderheyt so von den sachen gehandelt wird/die der Leutenant selbs thůn oder helffen thůn soll/darauff kan er dester baß bedacht sein.
+  cs: |-
+    Stejně tak má být zbrojmistrův poručík {Leutenant} často ve válečné radě {Kriegßrath} a při poradách o válečných plánech {anschlegen}, zvláště jedná-li se o věcech, které má poručík sám vykonat nebo pomáhat vykonat; tak se na ně může tím lépe připravit.
+poznamky:
+- n: 1
+  text: Stath (Staat) – stav, postavení a s ním spojené vydržování (žold, koně, služebnictvo, vozy), viz 26r.

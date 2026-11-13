@@ -1,0 +1,65 @@
+id: 107r
+list: CVII
+strana: recto
+sken: 221
+stav: zkontrolovano
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - Achilles so er gieng in ein Schlacht/
+  - Hett er auffs Himmels lauff gůt acht.
+  - Derhalben er auch sein waffen ziert/
+  - Mit Himmels gstirn die er da führt/
+  - Also lesen wir gleicher maß/
+  - Vonn Julio dem Keyser groß/
+  - Welcher gar fleissig mercket auff
+  - Das gstirn vnd auch deß Himmels lauff/
+  - So er sein Feind bestreitten wolt/
+  - Sein Sieg er durch das Gstirn erholt.
+  - Dann Gott in seinem stillen Rath/
+  - Groß krafft im Gstirn verborgen hat/
+  - Die vns anzeygen Lieb vnd Leyd/
+  - Auch gůts vnd böß ohn vnterscheyd/
+  - Auff daß so es vns glücklich gaht/
+  - Wir Gott dancken vmb sein genad/
+  - Wo aber trübsal vnd jammer groß/
+  - Vns Christen vberfellt ohn alle maß/
+  - Das Gott werd versönet behend/
+  - Durch das Gebett er von vns wend
+  - Alle angst vnd widerwertigkeyt/
+  - Durch trübsal/Krieg vnd hertzleyd/
+  - Durch Christus vnsers Heylands namen/
+  - Wer das begert sprech Amen.
+  cs:
+  - Achilles, když šel do bitvy,
+  - dával dobrý pozor na běh nebes.
+  - Proto si také ozdobil zbraně,
+  - které nosil, nebeskými hvězdami.
+  - Stejně tak čteme
+  - o velikém císaři Juliovi [Caesarovi],
+  - který velmi pilně sledoval
+  - hvězdy i běh nebes;
+  - když chtěl bojovat se svým nepřítelem,
+  - dobýval svých vítězství pomocí hvězd.
+  - Neboť Bůh ve své tiché radě
+  - ukryl do hvězd velikou moc,
+  - jež nám ukazují radost i strast,
+  - dobré i zlé bez rozdílu,
+  - abychom, když se nám daří dobře,
+  - děkovali Bohu za jeho milost;
+  - když však nás křesťany přepadne
+  - velké soužení a bída bez míry,
+  - aby byl Bůh rychle usmířen
+  - a skrze modlitbu od nás odvrátil
+  - všechnu úzkost a protivenství
+  - v soužení, válce a hoři –
+  - pro jméno Krista, našeho Spasitele.
+  - 'Kdo si to přeje, řekni: Amen.'
+- typ: odstavec
+  de: Ende des Fünfften vnd letzten Bůchs.
+  cs: Konec páté a poslední knihy.
+- typ: obrazek
+  soubor: drevorez-221.jpg
+  popis: |-
+    Ozdobná koncová vinětka (proplétaný uzel), jaká v tisku uzavírá kapitoly.

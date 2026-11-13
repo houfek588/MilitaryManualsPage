@@ -1,0 +1,58 @@
+id: 116v
+list: CXVI
+strana: verso
+sken: 240
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    machen mögen/Auch sich befleissen/etliche mär wahr zumachen/damit auch den lügen etwa geglaubt werde.
+  cs: |-
+    Má se také přičinit, aby se některé zprávy ukázaly pravdivými, aby se pak uvěřilo i lžím.
+- typ: nadpis
+  uroven: 2
+  de: Denckzeychen.
+  cs: Pamětní zápisy
+- typ: odstavec
+  de: |-
+    SEitemal aber eins Fürsten gescheffte vnd fürnemen so mancherley seind/daß er jr aller zu rechter stund nit gedencken mag/sol er so offt jm was vortheyligs zufellt/in sein Memorial verzeychnen/wie/wo/wenn/warumb/durch wen es geschehen sol/vnd all tag darüber gehn/daß nichts nützlichs vergessen werde.
+  cs: |-
+    Protože však záležitosti a záměry knížete jsou tak rozmanité, že si na všechny v pravou chvíli nemůže vzpomenout, má si pokaždé, když ho napadne něco prospěšného, zapsat do svého pamětního zápisníku {Memorial}, jak, kde, kdy, proč a kým se to má stát, a každý den ho procházet, aby se nezapomnělo na nic užitečného.
+- typ: nadpis
+  uroven: 2
+  de: Erfarung deß Feinds geheymnuß.
+  cs: Jak vyzvědět nepřítelovo tajemství
+- typ: odstavec
+  de: |-
+    ER dichte ein dapffere Legation/sende mit jhr die erleßneste Befelchsleuth in knechts gestalt/daß sie etwann jhres Herren pferd ledig lassen/als hett es sich abgerissen/vnd dieweil sie jm nachlauffen/also die gestalt deß Lägers besichtigen/vnd wann die Bottschafft heym kehrt/daß sie zum vberfall deß Lägers/deß richtiger kundtschaffter vnd glücklicher fürer sein mögen/Oder schick zum feind ein redlichen Grauen/Edlen oder Ritter/als sey er von jm abtrünnig/daß er mit allem fleiß sein huld erwerb/vnd jhm sein anschleg verkundtschafft/wie Judith vnd Jehu that/Oder mag jm keyn gefangner sunst werden/so schicke er ein Fendlin der geschwindesten balger in deß Feinds wacht/daß sie etlich vnuersehens verzucken/vnd zu jhm/als dem/der nicht weit zu jhrer nothwendigen entschüttung halten soll/bringen/von den erfarung nem/sehe auch zu/wo er vogel schar vnnd geschrey merckt/daß jhm da nicht heymlich nachgestelt werd.
+  cs: |-
+    Ať vymyslí nějaké význačné poselstvo {Legation} a pošle s ním nejvybranější velitele {Befelchsleuth} v podobě čeledínů, aby například pustili koně svého pána, jako by se utrhl, a zatímco za ním poběží, prohlédli si tak uspořádání ležení; až se pak poselstvo vrátí domů, mohou být při přepadu ležení tím spolehlivějšími zvědy a úspěšnými průvodci. Nebo ať pošle k nepříteli poctivého hraběte, šlechtice nebo rytíře, jako by od něho odpadl, aby si všemožně získal jeho přízeň a vyzvěděl mu jeho plány, jako učinili Judit a Jehú.[^1] Nebo nemůže-li jinak získat žádného zajatce, ať pošle praporec {Fendlin} nejhbitějších rváčů k nepřátelské stráži, aby několik [nepřátel] znenadání uchvátili a přivedli k němu – on má stát nedaleko, aby jim v nouzi přispěl na pomoc – a od nich ať se [vše] dozví. Ať také dává pozor, kde zpozoruje hejna ptáků a jejich křik, aby mu tam nebyla potají nastražena léčka.
+- typ: nadpis
+  uroven: 2
+  de: Bottschafft.
+  cs: Poselství
+- typ: odstavec
+  de: |-
+    DArzu wird etwann durch gůte Schwimmer/etwann durch abtrünnige gleißner/durch die feind zun freunden/etwas in ein Thier vernäht/abgefertigt/etwann Brieff an die pfeil geknüpfft auß oder in die Stett geschossen. Die alten haben jhren Knechten die köpff glat geschoren/vnd mit der besten dinten beschrieben/außgesandt/mit dem befelch/wann jhn zuuor das har erst erwachsen/daß sie solten sich heyssen trucken schären/Oder ein newes Täffelin voll geschrieben/vnnd mit newem schwartzen wachs vberzogen/gesandt.
+  cs: |-
+    K tomu se [zprávy] posílají někdy po dobrých plavcích, někdy po předstíraných zbězích, [kteří projdou] přes nepřátele k přátelům, [nebo] zašité do nějakého zvířete; někdy se dopisy přivazují k šípům a střílejí se z měst nebo do nich. Staří vyholili svým sluhům hlavy dohola, popsali je nejlepším inkoustem a vyslali je s rozkazem, aby se [u adresáta] dali oholit nasucho, teprve až jim vlasy dorostou;[^2] nebo poslali novou tabulku, popsanou a zalitou novým černým voskem.
+- typ: nadpis
+  uroven: 2
+  de: Abreytzung der Feinden.
+  cs: Odlákání [lidí] od nepřátel
+- typ: odstavec
+  de: |-
+    KEyn gaben/verheyssungen noch leystung sol jhn dawren/biß er die mächtigste Herren vnd dapfferste männer dem feind entfürt/dann welcher Herr mag rhů oder rast haben/der seine trewste freund scheuhen můß? Darumb was jhr hertz gelüst vnnd verlangt/soll er sie gewären/so bezwingt er den feind als gewiß/als Marius Jugurtham.
+  cs: |-
+    Žádné dary, sliby ani plnění mu nemají být líto, dokud nepříteli neodvede nejmocnější pány a nejstatečnější muže; neboť který pán může mít klid a odpočinek, musí-li se bát svých nejvěrnějších přátel? Proto jim má splnit, po čem jejich srdce baží a touží; tak přemůže nepřítele stejně jistě jako Marius Jugurthu.[^3]
+poznamky:
+- n: 1
+  text: |-
+    Judit předstírala útěk k Holofernovi, aby se k němu dostala (Jdt 10–13); Jehú předstíral oddanost Baalovi, aby shromáždil jeho ctitele a dal je pobít (2 Kr 10,18–27).
+- n: 2
+  text: |-
+    Příběh podle Hérodota (V,35): Histiaios poslal zprávu Aristagorovi vytetovanou na oholené hlavě otroka. Voskovou tabulku se zprávou skrytou pod voskem poslal podle Hérodota (VII,239) Démarátos.
+- n: 3
+  text: |-
+    Marius (resp. jeho kvestor Sulla) přiměl numidského krále Bocchuse, Jugurthova spojence a tchána, aby Jugurthu vydal Římanům (105 př. n. l.).

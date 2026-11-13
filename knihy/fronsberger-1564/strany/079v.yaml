@@ -1,0 +1,63 @@
+id: 079v
+list: LXXIX
+strana: verso
+sken: 166
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    ERstlich daß das Schloß oder die Besatzung ein gůten wehrlichen platz habe/vnd fest sey.
+  cs: |-
+    Za prvé, aby hrad nebo posádka {Besatzung} měla dobré, k obraně vhodné místo a byla pevná.
+- typ: odstavec
+  de: |-
+    Zum andern/daß es mit Geschütz vnnd nottürfftiger Munition wol versehen sey.
+  cs: |-
+    Za druhé, aby byla dobře zásobena děly {Geschütz} a potřebnou municí {Munition}.
+- typ: odstavec
+  de: Zum dritten/daß es nach notturfft mit Prouant versehen sey.
+  cs: Za třetí, aby byla podle potřeby zásobena proviantem {Prouant}.
+- typ: odstavec
+  de: |-
+    Zum vierdten/daß man sich einer gewissen rettung vertrösten vnnd versehen möge.
+  cs: |-
+    Za čtvrté, aby se mohla spolehnout na jistou pomoc zvenčí a očekávat ji.
+- typ: odstavec
+  de: |-
+    Zum fünfften/daß es mit redlichen/notuesten/geübten/erfarnen vnd geschickten leuthen besetzt sey/daran vil vnd das meyst gelegen.
+  cs: |-
+    Za páté, aby byla obsazena poctivými, v nouzi pevnými, cvičenými, zkušenými a schopnými lidmi, na čemž mnoho, ba nejvíce záleží.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Vnderscheyd der Personen/so gemeynlichen in jeder Besatzung oder Schlösser seind.
+  cs: Rozdělení osob, které bývají v každé posádce či na hradech
+- typ: odstavec
+  de: |-
+    ES seind gemeynlich inn allen Besatzungen dreyerley Secten der menschen/vnd haben doch sechs namen/das ist Adel/Reutter vnd Fůßknecht/vnnd das gewönlich haußgesind/handwercks leuth vnd bawren.
+  cs: |-
+    Ve všech posádkách bývá obvykle trojí druh {Secten} lidí, kteří však mají šest jmen: šlechta, jezdci {Reutter} a pěší knechti {Fůßknecht}, dále obvyklá čeleď, řemeslníci a sedláci.
+- typ: nadpis
+  uroven: 3
+  de: Rathschalg zu der Besatzung/vnd was zu bedencken sey.
+  cs: Rada k posádce a co je třeba uvážit
+- typ: odstavec
+  de: |-
+    JTem der Kriegsherr soll auß nachfolgenden vrsachen/selbs eygner person im Schloß oder der Besatzung nicht bleiben.
+  cs: |-
+    Dále: Válečný pán {Kriegsherr} nemá z následujících důvodů sám osobně zůstávat na hradě ani v posádce.
+- typ: odstavec
+  de: |-
+    Nemlich so er selbs in der Besatzung nicht ist/so mag er sich vmb rettung deß Schloß oder der Besatzung/vnnd der ehrlichen Leuth darinnen bewerben/es wird auch dem Schloß oder der Besatzung dester weniger zugesetzt/vnd dester ehe vnnd besser/wo es nicht verbessert werden mag/mittel deß frieden vnnd vertrags erlangt vnd erhalten.
+  cs: |-
+    Totiž když sám v posádce není, může usilovat o vysvobození hradu či posádky a čestných lidí v ní; na hrad či posádku se také tím méně dotírá, a nedá-li se věc zlepšit, lze tím dříve a lépe dosáhnout a udržet mír a smlouvu.
+- typ: odstavec
+  de: |-
+    Aber einem oder mehr deß Kriegsherrn nechsten freunden/soll er das Schloß oder die Besatzung befehlen/als der Vatter dem Sohn/ein Bruder dem andern/oder dergleichen/das gibt den jhenigen so in der Besatzung seind/ein hertz/sie seind auch williger/vnerschrockner vnnd tröstlicher not vnd gefährlicheyt zuleiden dann andere/so der sachen mit gar nichten verwandt/allein vmb sold vnd jhres eygnen nutzes willen dienen.
+  cs: |-
+    Hrad nebo posádku má však svěřit jednomu nebo více svým nejbližším příbuzným {freunden}, jako otec synovi, bratr bratrovi a podobně. To dodává odvahy těm, kdo jsou v posádce; jsou také ochotnější, neohroženější a s větší důvěrou snášejí nouzi a nebezpečí než jiní, kteří s věcí nemají nic společného a slouží jen pro žold {sold} a vlastní prospěch.
+- typ: odstavec
+  de: |-
+    Es ist zuerwegen/ob das Hauß vnd die besatzung mit Prouant nach notturfft versehen sey/die zeit in deren man sich gewisser rettung versicht/zuerwarten/welliches dann/so man inn außtheylung der Prouant Ordnung macht/durch Rechnung wol gesucht vnd gefunden werden mag/wie lang man Prouant haben möge.
+  cs: |-
+    Je třeba uvážit, zda je hrad {Hauß} a posádka dostatečně zásobena proviantem, aby vydržela do doby, kdy lze s jistotou očekávat pomoc. Zavede-li se v rozdělování proviantu pořádek, lze to výpočtem dobře zjistit, totiž na jak dlouho proviant vystačí.

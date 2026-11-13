@@ -1,0 +1,210 @@
+/* Edice vojenských manuálů – společný styl (inspirace: rejstřík Berner Chronik) */
+:root{
+  --bg:#f7f3ea; --panel:#fffdf8; --ink:#2b2418; --muted:#7a6e5a; --line:#e0d6c2; --accent:#8b2a1d; --link:#1f4e79;
+  --de:#6f6553; --mark:#f1e3b8; --hover:rgba(139,42,29,.07);
+  --st-zkontrolovano:#2e7d4f; --st-prelozeno:#6b8f3a; --st-castecne:#c08a1e; --st-chybi_preklad:#b3261e; --st-chybi_original:#8c8577;
+  --serif: Georgia, "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#1b1814; --panel:#24201a; --ink:#ece4d4; --muted:#a89c86; --line:#3a3328; --accent:#e07a5f; --link:#8fb8e0;
+  --de:#b3a78f; --mark:#5a4a1e; --hover:rgba(224,122,95,.1);
+  --st-zkontrolovano:#6cc394; --st-prelozeno:#a7c46a; --st-castecne:#e0b24a; --st-chybi_preklad:#ef6b5f; --st-chybi_original:#8c8577;}}
+:root[data-theme="dark"]{
+  --bg:#1b1814; --panel:#24201a; --ink:#ece4d4; --muted:#a89c86; --line:#3a3328; --accent:#e07a5f; --link:#8fb8e0;
+  --de:#b3a78f; --mark:#5a4a1e; --hover:rgba(224,122,95,.1);
+  --st-zkontrolovano:#6cc394; --st-prelozeno:#a7c46a; --st-castecne:#e0b24a; --st-chybi_preklad:#ef6b5f; --st-chybi_original:#8c8577;}
+
+*{box-sizing:border-box}
+html{scroll-padding-top:70px}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 var(--serif)}
+a{color:var(--link)}
+.wrap{max-width:1180px;margin:0 auto;padding:0 16px}
+main.wrap{padding-bottom:60px;min-height:70vh}
+main:focus{outline:none}
+
+/* hlavička */
+.hlava{position:sticky;top:0;z-index:50;background:var(--panel);border-bottom:1px solid var(--line)}
+.hlava-in{display:flex;gap:12px;align-items:center;flex-wrap:wrap;padding-top:8px;padding-bottom:8px}
+.logo{font-size:19px;font-weight:bold;color:var(--ink);text-decoration:none;line-height:1.2}
+.logo small{display:block;font-weight:normal;font-size:12px;color:var(--muted)}
+.menu{display:flex;gap:4px}
+.menu a{padding:5px 10px;border-radius:6px;color:var(--ink);text-decoration:none;font-size:15px}
+.menu a:hover{background:var(--hover)} .menu a.on{background:var(--accent);color:var(--panel)}
+.hledat{flex:1;min-width:180px}
+.hledat input{width:100%;padding:7px 11px;font:15px var(--serif);border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+.tl{font:14px var(--serif);padding:6px 11px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);cursor:pointer}
+.tl:hover{border-color:var(--accent)} .tl[aria-pressed="true"]{background:var(--accent);color:var(--panel);border-color:var(--accent)}
+.tl.ikona{padding:6px 9px}
+.pata{color:var(--muted);font-size:13px;padding-top:14px;padding-bottom:30px;border-top:1px solid var(--line)}
+.pata a{color:var(--muted)}
+
+/* obecné */
+h1{font-size:30px;line-height:1.25;margin:18px 0 6px}
+h1 .de, .podnadpis{display:block;font-size:16px;font-weight:normal;font-style:italic;color:var(--de);margin-top:4px}
+h2.sekce{font-size:19px;margin:30px 0 8px;color:var(--accent);border-bottom:1px solid var(--line);padding-bottom:4px}
+.uvod{color:var(--muted);max-width:760px}
+.drobky{font-size:13px;color:var(--muted);margin:16px 0 0}
+.drobky a{color:var(--muted)}
+.m,.small{font-size:13px;color:var(--muted)}
+.de{font-style:italic;color:var(--de)}
+.prazdne{color:var(--muted);font-style:italic}
+.chip{display:inline-block;margin:3px 5px 3px 0;padding:2px 10px;border:1px solid var(--line);border-radius:14px;font-size:14px;background:var(--panel);color:var(--ink);text-decoration:none}
+.chip:hover{border-color:var(--accent)}
+.dlazdice{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;margin:20px 0}
+.dl{display:block;padding:16px;border:1px solid var(--line);border-top:5px solid var(--accent);border-radius:8px;background:var(--panel);color:var(--ink);text-decoration:none}
+.dl:hover{box-shadow:0 4px 14px rgba(0,0,0,.1)}
+.dl b{font-size:20px;display:block;line-height:1.25}
+.dl p{font-size:14px;margin:8px 0}
+.dl .rok{float:right;color:var(--accent);font-weight:bold}
+
+/* úvodní strana knihy */
+.titul{display:grid;grid-template-columns:1fr 260px;gap:28px;align-items:start}
+.titul figure{margin:18px 0 0}
+.titul img{width:100%;border:1px solid var(--line);border-radius:4px;background:var(--panel)}
+.titul figcaption{font-size:12px;color:var(--muted)}
+.postup{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--line);margin:10px 0 4px;max-width:520px}
+.postup span{display:block;height:100%}
+.legenda{display:flex;flex-wrap:wrap;gap:12px;font-size:13px;color:var(--muted)}
+.tecka{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;vertical-align:baseline}
+.toc{list-style:none;padding:0;margin:0}
+.toc ul{list-style:none;margin:0;padding:0 0 0 22px;border-left:1px solid var(--line)}
+.toc li{margin:0}
+.toc a.pol{display:block;padding:5px 6px;border-radius:4px;color:var(--ink);text-decoration:none}
+.toc a.pol:hover{background:var(--hover)}
+.toc .u1>a.pol{font-weight:bold;font-size:18px;margin-top:10px}
+.toc .u3>a.pol{font-size:15px}
+.toc .fol{float:right;font-size:12px;color:var(--muted);margin-left:10px}
+.toc details>summary{cursor:pointer;list-style:none}
+.toc details>summary::-webkit-details-marker{display:none}
+.toc details>summary::before{content:"▸";display:inline-block;width:16px;color:var(--muted);transition:transform .15s}
+.toc details[open]>summary::before{transform:rotate(90deg)}
+.toc summary a.pol{display:inline-block}
+
+/* čtení: zrcadlové zobrazení */
+.ctecka{margin-top:8px}
+.nav-ctecka{display:flex;justify-content:space-between;gap:10px;margin:18px 0;font-size:15px}
+.nav-ctecka a{max-width:48%;text-decoration:none;padding:8px 12px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--ink)}
+.nav-ctecka a:hover{border-color:var(--accent)}
+.nav-ctecka .dalsi{margin-left:auto;text-align:right}
+.nav-ctecka small{display:block;color:var(--muted);font-size:12px}
+.zahlavi-sloupcu{display:grid;grid-template-columns:1fr 1fr;gap:34px;font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:4px;margin-top:10px}
+.radek{display:grid;grid-template-columns:1fr 1fr;gap:34px;padding:3px 0}
+.radek>.de{font-size:15.5px;line-height:1.55}
+.radek>div>p{margin:0 0 .6em}
+.radek>div>p:last-child{margin-bottom:0}
+.radek.odstavec,.radek.seznam,.radek.verse,.radek.tabulka{padding:6px 0}
+.radek .cs p, .radek .de p{text-indent:1.4em}
+.radek.c .cs>p:first-child, .radek.c .de>p:first-child{text-indent:0}
+.radek.nadpis{padding:16px 0 4px}
+.radek.nadpis h2,.radek.nadpis h3,.radek.nadpis h4{margin:0;line-height:1.3}
+.radek.nadpis h2{font-size:24px;color:var(--accent)}
+.radek.nadpis h3{font-size:20px}
+.radek.nadpis h4{font-size:17.5px}
+.radek.nadpis .de h2,.radek.nadpis .de h3,.radek.nadpis .de h4{color:var(--de);font-weight:normal}
+.radek ul{margin:0;padding-left:1.3em}
+.radek .verse{margin:0}
+.radek table{border-collapse:collapse;font-size:14.5px;width:100%}
+.radek td,.radek th{border-bottom:1px solid var(--line);padding:3px 6px;vertical-align:top;text-align:left}
+.radek.z{background:repeating-linear-gradient(45deg,transparent,transparent 8px,var(--hover) 8px,var(--hover) 9px)}
+.radek .chybi{color:var(--muted);font-style:italic;font-size:14px}
+.radek.obrazek{grid-template-columns:1fr}
+.radek.obrazek figure{margin:10px auto;text-align:center;max-width:520px}
+.radek.obrazek img{max-width:100%;border:1px solid var(--line);border-radius:4px;background:#fff}
+.radek.obrazek figcaption{font-size:14px;color:var(--muted)}
+.cil{animation:cil 2.4s ease-out}
+@keyframes cil{0%{background:var(--mark)}100%{background:transparent}}
+body.bez-orig .radek,body.bez-orig .zahlavi-sloupcu{grid-template-columns:1fr}
+body.bez-orig .radek>.de,body.bez-orig .zahlavi-sloupcu .de{display:none}
+body.bez-orig .ctecka{max-width:760px;margin-left:auto;margin-right:auto}
+
+/* předěl strany */
+.predel{display:flex;flex-wrap:wrap;align-items:center;gap:4px 10px;margin:14px 0 8px;padding:5px 10px;border-top:1px dashed var(--accent);border-bottom:1px dashed var(--line);font-size:13px;color:var(--muted);background:var(--panel)}
+.predel b{color:var(--ink);font-weight:normal}
+.predel .ik{font-size:15px}
+.predel a{color:var(--link)}
+.predel .stav{margin-left:auto}
+
+/* poznámky */
+sup.fn a{text-decoration:none;font-size:12px;padding:0 2px;color:var(--accent)}
+a.term{color:inherit;text-decoration:none;border-bottom:1px dotted var(--muted);font-style:italic;color:var(--de);font-size:.93em}
+a.term:hover{color:var(--link)}
+.poznamky{margin:8px 0 6px auto;padding:6px 0 4px;border-top:1px solid var(--line);font-size:14px;color:var(--muted);max-width:calc(50% - 17px)}
+body.bez-orig .poznamky{max-width:none}
+.poznamky ol{margin:0;padding-left:1.4em}
+.poznamky li{margin:2px 0}
+.poznamky .nadp{font-size:12px;text-transform:uppercase;letter-spacing:.05em}
+#bublina{position:absolute;z-index:200;max-width:360px;padding:9px 12px;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:6px;box-shadow:0 6px 20px rgba(0,0,0,.18);font-size:14px;line-height:1.45}
+#bublina b{display:block;margin-bottom:2px}
+
+/* strana */
+.strana-layout{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:26px}
+.sken-panel{position:sticky;top:70px;align-self:start}
+.sken-panel img{width:100%;border:1px solid var(--line);border-radius:4px;background:var(--panel);min-height:200px}
+.sken-panel .m a{color:var(--muted)}
+body.bez-sken .strana-layout{grid-template-columns:1fr}
+body.bez-sken .sken-panel{display:none}
+
+/* seznam stran */
+.mrizka{display:grid;grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:6px}
+.mrizka a{display:block;padding:6px 8px;border:1px solid var(--line);border-left:5px solid var(--c);border-radius:5px;background:var(--panel);color:var(--ink);text-decoration:none;font-size:14px}
+.mrizka a:hover{border-color:var(--accent)}
+.mrizka small{display:block;color:var(--muted);font-size:11px}
+
+/* rejstřík */
+.kat{margin-bottom:22px}
+.hesla{columns:3 220px;column-gap:24px}
+.hesla a{display:block;break-inside:avoid;padding:3px 0;color:var(--ink);text-decoration:none}
+.hesla a:hover{color:var(--link)}
+.hesla .n{color:var(--muted);font-size:12px}
+.filtr{width:100%;max-width:420px;padding:8px 10px;font:15px var(--serif);border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--ink);margin:10px 0}
+.vyskyt{padding:8px 4px;border-bottom:1px solid var(--line)}
+.vyskyt .kontext mark,.vysledek mark{background:var(--mark);color:inherit;padding:0 1px}
+.vyskyt .m a{color:var(--muted)}
+.vysledek{display:block;padding:9px 4px;border-bottom:1px solid var(--line);color:var(--ink);text-decoration:none}
+.vysledek:hover{background:var(--hover)}
+
+/* PDF */
+.tisk-volby{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.tisk-volby fieldset{border:1px solid var(--line);border-radius:8px;background:var(--panel);padding:10px 14px}
+.tisk-volby legend{color:var(--accent);padding:0 6px}
+.tisk-strom{max-height:55vh;overflow:auto;font-size:15px}
+.tisk-strom label{display:block;padding:2px 0}
+.tisk-strom .u2{padding-left:20px}.tisk-strom .u3{padding-left:40px;font-size:14px}
+.tl.velke{font-size:16px;padding:9px 18px;margin-top:12px}
+#tisk-vystup{display:none}
+
+@media (max-width:820px){
+  body{font-size:16.5px}
+  .titul{grid-template-columns:1fr}
+  .titul figure{max-width:260px}
+  .radek,.zahlavi-sloupcu{grid-template-columns:1fr;gap:4px}
+  .zahlavi-sloupcu{display:none}
+  .radek>.de{order:2;font-size:14.5px;padding-left:10px;border-left:2px solid var(--line)}
+  .radek>.cs{order:1}
+  .poznamky{max-width:none}
+  .strana-layout{grid-template-columns:1fr}
+  .sken-panel{position:static}
+  .tisk-volby{grid-template-columns:1fr}
+  .menu a{padding:4px 7px}
+  .hlava{position:static}
+  html{scroll-padding-top:10px}
+  .sken-panel{top:auto}
+}
+
+/* tisk do PDF */
+@media print{
+  @page{size:A4;margin:16mm 14mm}
+  body{background:#fff;color:#000;font-size:10.5pt}
+  body.tiskne>*:not(#tisk-vystup){display:none !important}
+  body.tiskne #tisk-vystup{display:block}
+  .hlava,.pata,.nav-ctecka,.predel a,.sken-panel{display:none !important}
+  #tisk-vystup .radek{break-inside:avoid;gap:7mm}
+  #tisk-vystup .radek.nadpis{break-after:avoid}
+  #tisk-vystup .predel{background:none;border-color:#999;color:#444}
+  #tisk-vystup .u1-zacatek{break-before:page}
+  #tisk-vystup .tisk-titul{text-align:center;margin:30mm 0 12mm}
+  #tisk-vystup .tisk-titul h1{font-size:24pt}
+  a{color:#000;text-decoration:none}
+  a.term{border:0}
+  .radek>.de{color:#444}
+}

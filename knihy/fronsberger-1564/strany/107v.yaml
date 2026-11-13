@@ -1,0 +1,23 @@
+id: 107v
+list: CVII
+strana: verso
+sken: 222
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Folgen hernach notwendige Ordnungen vnd Lehr aller Kriegßhändel/ Einem jeglichen Kriegßmann dienstlich vnd vonnöten zuwissen.
+  cs: |-
+    Následují nezbytné řády a poučení o všech válečných věcech, jež je každému válečníkovi užitečné a potřebné znát
+- typ: obrazek
+  soubor: drevorez-222.jpg
+  popis: |-
+    Dřevořez v oválném rámu zdobeném válečnými trofejemi (zbroje, přilby, štíty, bubny, trubky, děla). Uprostřed čtyři muži v bohatém lancknechtském oděvu s péry na kloboucích rozmlouvají; jeden ve zbroji s mečem, druhý drží kopí, vpravo starší vousatý muž ve vysoké čapce a plášti. V popředí leží pes. Patrně týž štoček jako u válečných radů (l. IVv).
+- typ: verse
+  de:
+  - Glibt euch der Teutschen Glück vnd Ehr/
+  - Wägt/wagt/bsteht nichts ohn dise Lehr.
+  cs:
+  - Je-li vám milé štěstí a čest Němců,
+  - važte, odvažte se, nic však nepodnikejte bez tohoto učení.

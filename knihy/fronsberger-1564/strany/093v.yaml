@@ -1,0 +1,85 @@
+id: 093v
+list: XCIII
+strana: verso
+sken: 194
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Bier.
+  cs: Pivo
+- typ: odstavec
+  de: Mit dem Bier hat es auch wie mit dem Wein sein Rechnung.
+  cs: S pivem je to při výpočtu stejné jako s vínem.
+- typ: nadpis
+  uroven: 3
+  de: Brot. Rocken.
+  cs: Chléb – žito
+- typ: odstavec
+  de: |-
+    SO man auß einem Stutgarter Scheffel Rocken becht 100. Brot/das dann wol gesein mag/der jedes Brot sich auch ein eynige person ein tag zimlich wol betragen mag/Thůn 100. personen ein tag ein scheffel Rocken. Fünff hundert Personen 5. Scheffel. Tausent personen 10. scheffel.
+  cs: |-
+    Upeče-li se ze stuttgartského korce {Scheffel}[^1] žita {Rocken} 100 chlebů, což dobře může být, a jedna osoba vystačí s jedním chlebem docela dobře na den, spotřebuje 100 osob za den jeden korec žita, pět set osob 5 korců a tisíc osob 10 korců.
+- typ: odstavec
+  de: |-
+    Ein wochen thůn hundert personen 7. Scheffel/Fünff hundert Personen 35. Scheffel/Tausent personen 70. scheffel Rocken.
+  cs: |-
+    Za týden spotřebuje sto osob 7 korců, pět set osob 35 korců, tisíc osob 70 korců žita.
+- typ: odstavec
+  de: |-
+    Ein Monat hundert personen 28. Scheffel/Fünff hundert personen 140. scheffel/Tausent personen 280. Scheffel.
+  cs: |-
+    Za měsíc sto osob 28 korců, pět set osob 140 korců, tisíc osob 280 korců.
+- typ: odstavec
+  de: |-
+    Ein Jar hundert personen 336. scheffel/Fünff hundert personen 1660. Scheffel brauchen Tausent Mann ein Jar.
+  cs: |-
+    Za rok sto osob 336 korců, pět set osob 1660 korců [potřebuje] tisíc mužů za rok.[^2]
+- typ: nadpis
+  uroven: 3
+  de: Vesen Brot.
+  cs: Chléb ze špaldy {Vesen}
+- typ: odstavec
+  de: |-
+    SO ein Stutgarter Scheffel Vesen gegerbt/thůt 3. ein halb Simern kern/gibt vnd becht man auß denselbigen 3. vnd ein halb simern kern 45. Brot/der jedes einer person ein tag zimlich genugsam ist/so brauchen hundert personen einen tag 2. Scheffel/2. Simern Vesen/Fünff hundert personen 11. Scheffel/2. Simern/Tausent personen 22. Scheffel/4. simern Vesen.
+  cs: |-
+    Dává-li stuttgartský korec oloupané špaldy 3 a půl mírky {Simern} zrna a upeče se z těchto 3 a půl mírky zrna 45 chlebů, z nichž každý jedné osobě na den docela postačí, potřebuje sto osob za den 2 korce a 2 mírky špaldy, pět set osob 11 korců a 2 mírky, tisíc osob 22 korců a 4 mírky špaldy.[^3]
+- typ: odstavec
+  de: |-
+    Ein Wochen thůn hundert Personen 15. scheffel/6. simern/fünff hundert Personen 78. scheffel/6. simern/Tausent personen 158. scheffel/4. simern.
+  cs: |-
+    Za týden spotřebuje sto osob 15 korců a 6 mírek, pět set osob 78 korců a 6 mírek, tisíc osob 158 korců a 4 mírky.
+- typ: odstavec
+  de: |-
+    Ein Monat thůn hundert Personen vngefärlich 63. scheffel/Fünffhundert Personen 315. scheffel/Tausent personen 630. scheffel Vesen.
+  cs: |-
+    Za měsíc spotřebuje sto osob přibližně 63 korců, pět set osob 315 korců, tisíc osob 630 korců špaldy.
+- typ: odstavec
+  de: |-
+    Ein Jar thůn hundert personen 756. scheffel/fünff hundert personen thůt 3780. scheffel/Tausent Personen thůn 7560. scheffel Vesen.
+  cs: |-
+    Za rok spotřebuje sto osob 756 korců, pět set osob 3780 korců, tisíc osob 7560 korců špaldy.
+- typ: nadpis
+  uroven: 3
+  de: Fleysch Rechnung.
+  cs: Výpočet masa
+- typ: odstavec
+  de: |-
+    SO man ein tag auff ein Personen gibt ein pfund Fleysch/thůt es auff hundert personen ein tag ein Centner Fleysch/Ein Wochen 7. Centner/ein Monat thůt es 28. Centner/Ein Jar für 12. Monat gerechnet/thůt es 336. Centner Fleysch.
+  cs: |-
+    Dává-li se osobě denně jedna libra {pfund} masa, činí to na sto osob za den jeden cent {Centner} masa, za týden 7 centů, za měsíc 28 centů a za rok, počítaný po 12 měsících, 336 centů masa.
+- typ: odstavec
+  de: |-
+    Vnnd auff fünff hundert Personen thůt es ein tag 5. Centner/Ein wochen 35. Centner/Ein Monat 140. Centner/Ein Jar für 12. Monat gerechnet/thůt es 1680. Centner Fleysch.
+  cs: |-
+    A na pět set osob to činí za den 5 centů, za týden 35 centů, za měsíc 140 centů a za rok, počítaný po 12 měsících, 1680 centů masa.
+poznamky:
+- n: 1
+  text: |-
+    Württemberské (stuttgartské) míry obilí: 1 korec (Scheffel, asi 177 l) = 8 mírek (Simri, asi 22 l). Měsíc se i zde počítá po 4 týdnech (28 dní).
+- n: 2
+  text: |-
+    Zkomolené místo tisku: správně má být pro 500 osob 1680 korců a pro tisíc mužů 3360 korců za rok; číslo 1660 i nedokončená věta jsou ponechány podle originálu.
+- n: 3
+  text: |-
+    Vesen – špalda v plevách (Dinkel), „gegerbt“ = oloupaná (zbavená pluch). Z korce špaldy je 45 chlebů, takže 100 osob potřebuje denně 100 : 45 ≈ 2,2 korce, zaokrouhleno na 2 korce a 2 mírky; další čísla jsou násobky tohoto zaokrouhlení. U tisíce osob na týden vychází správně 157 korců a 4 mírky (tisk má 158).

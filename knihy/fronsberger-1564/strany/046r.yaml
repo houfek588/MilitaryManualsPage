@@ -1,0 +1,50 @@
+id: 046r
+list: XLVI
+strana: recto
+sken: 99
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    So sich begebe in Besatzungen/soll er sich bey dem Kriegßuolck dapffer vnnd mannlich halten/auch allwegen wo er gegen den Feinden Tagwacht helt/sein Fändlin auffrecht stecken/vnnd gegen der feind Läger oder Schantz fliegen lassen/gleicher gestalt soll er vor Besatzungen/so die Tagwacht in der Schantz an jhm ist/sein Fändlin auff die Schantzkörb oder ander gelegen ort auff stecken vnd fliegen/sich auch allwegen darbey finden lassen.
+  cs: |-
+    Přihodí-li se [služba] v posádkách {Besatzungen}, má si u válečného lidu počínat statečně a mužně, a vždy, když drží denní stráž {Tagwacht} proti nepříteli, má svůj praporec {Fändlin} postavit vzpřímeně a nechat ho vlát směrem k nepřátelskému ležení nebo šanci {Schantz}. Stejně tak má před [obleženými] posádkami, když je na něm denní stráž v šanci, postavit svůj praporec na šancovní koše {Schantzkörb} nebo na jiné vhodné místo a nechat ho vlát a sám se u něho má vždy zdržovat.
+- typ: odstavec
+  de: |-
+    So man mit den feinden handelt/soll er gegen den feinden allwegen dafornen/von feinden allwegen dahinden sein/es sey dann daß er auß sonderm befelch des Obersten vnd Kriegßräth an andere orth bescheyden vnd verordnet werde.
+  cs: |-
+    Když se bojuje s nepřítelem, má být při postupu proti nepříteli vždy vpředu a při ústupu od nepřítele vždy vzadu, ledaže by byl ze zvláštního rozkazu plukovníka {Obersten} a válečných radů {Kriegßräth} povolán a určen na jiné místo.
+- typ: odstavec
+  de: |-
+    So der Schultheyß vnd sein verordnet Gericht ein Malefitz sach zurechtfertigen haben/sollen die Fänderich das Gericht besitzen vnd vrtheyl sprechen helffen.
+  cs: |-
+    Když mají rychtář {Schultheyß} a jeho ustanovený soud {Gericht} soudit hrdelní věc {Malefitz sach}, mají praporečníci zasedat v soudu a pomáhat vynášet rozsudek.
+- typ: nadpis
+  uroven: 3
+  de: Der Eydt.
+  cs: Přísaha {Eydt}
+- typ: odstavec
+  de: |-
+    ER schwört auff gemeyne puncten vnnd Artickeln/wie andere Befelchsleuthe vnd so vil mehr/daß er bey seinem Fändlin bleiben/darbey ehrlich vnd redlich handlen/vnnd so lang er so vil krafft vnd glider hat biß in sein todt vnnd letzten seufftzen/dasselbig beschirmen/verwaren vnd behalten wölle.
+  cs: |-
+    Přísahá na obecné body a články jako ostatní velitelé {Befelchsleuthe}, a navíc ještě, že zůstane u svého praporce, bude si při něm počínat čestně a poctivě, a dokud mu stačí síla a údy, až do smrti a posledního vydechnutí ho bude chránit, opatrovat a udrží ho.
+- typ: odstavec
+  de: |-
+    Sein Besoldung ist gewönlich Monats sechs Söld/thůt vier vnnd zwentzig Gülden/vnd wird jhm ein Jung in der Musterung gůt gemacht.
+  cs: |-
+    Jeho žold činí obvykle šest žoldů {Söld} měsíčně, to je čtyřiadvacet zlatých, a při přehlídce {Musterung} se mu uzná [žold na] jedno pachole {Jung}.
+- typ: nadpis
+  uroven: 2
+  de: Ampt/Befelch vnd Eydt eins Feldtweybels vber ein Fändlin Knecht.
+  cs: |-
+    Úřad, pověření a přísaha šikovatele {Feldtweybels} nad praporcem knechtů
+- typ: odstavec
+  de: |-
+    ES erfordert die notturfft zu einem Feldtweybel einen betagten/weydlichen/ehrlichen/geübten vnd Kriegs erfahrnen Mann/der vormals zum offtermal von andern gemeynen Knechten herfür gezogen/vnnd gebraucht worden sey/vnnd vom gemeynen Mann hohe ämpter getragen/oder auch sonst außrichtig/geschickt vnd beredt sey/vnd ist sein ampt wie jetzt nachfolgt.
+  cs: |-
+    Za šikovatele je zapotřebí letitý, statečný, čestný, vycvičený a ve válce zkušený muž, který byl už dříve častokrát vybrán z řad prostých knechtů a použit, zastával z volby obce {gemeynen Mann} vysoké úřady nebo je jinak obratný, schopný a výmluvný. Jeho úřad je takový, jak nyní následuje.
+- typ: odstavec
+  de: |-
+    Item er ist dem Hauptmann vnnd Fänderich der fürnembst ob allen andern Befelchsleuthen vnter seinem Fändlin Knecht/vnnd hat sein Ampt nicht vom gemeynen Mann/sonder vom Herrn/So man ein Schlachtordnung macht/gebürt vor allen andern Befelchsleuthen den Feldtweybeln/daß sie die Ordnung machen sollen. Deßhalben ist vonnöten/daß sie geschickt/geübt vnnd Kriegs erfahren seyen/darmit sie verstandt vnnd erfarung der sachen haben/jederzeit nach gestalt der sachen/vnnd gelegenheyt des Platz/die Ordnung viereckicht oder länglicht/vornen
+  cs: |-
+    Dále: po hejtmanovi a praporečníkovi je nejpřednější ze všech ostatních velitelů pod svým praporcem knechtů a svůj úřad nemá od obce, nýbrž od pána. Když se staví bitevní šik {Schlachtordnung}, náleží před všemi ostatními veliteli šikovatelům, aby šik sestavili. Proto je potřeba, aby byli schopní, vycvičení a ve válce zkušení, aby měli porozumění a zkušenost v těchto věcech a dokázali vždy podle povahy věci a polohy místa sestavit šik čtvercový nebo podlouhlý, vpředu

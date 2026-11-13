@@ -1,0 +1,86 @@
+id: 020r
+list: XX
+strana: recto
+sken: 47
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item ein Wagen mit hüffeisen/vnd zu dem ein gebreuchliche anzal hüffnägel den Rossen/der Arckelley zu gůt.
+  cs: |-
+    Dále jeden vůz s podkovami a k tomu obvyklý počet podkovářských hřebíků pro koně dělostřelectva {Arckelley}.
+- typ: odstavec
+  de: Item ein Wagen mit Binder/Wagner/Zimmergezeug.
+  cs: Dále jeden vůz s bednářským, kolářským a tesařským nářadím.
+- typ: odstavec
+  de: |-
+    Item ein Wagen mit Lannseyler/Strengen vnnd andern Seylern/so ins Feldt gehören.
+  cs: |-
+    Dále jeden vůz s provazy k ojnicím {Lannseyler}[^1], postraňky {Strengen} a jinými provazy, které patří do pole.
+- typ: odstavec
+  de: Item ein Wagen mit beschlagen Lannstangen vnd Zilscheyter.
+  cs: Dále jeden vůz s okovanými ojnicovými tyčemi {Lannstangen} a vahadly {Zilscheyter}[^2].
+- typ: odstavec
+  de: |-
+    Item ein Wagen mit Stahel vnnd allerley eisen zu allerley notturfft zuuerschmiden.
+  cs: |-
+    Dále jeden vůz s ocelí a všelijakým železem, aby se dalo zkovat ke všem potřebám.
+- typ: odstavec
+  de: |-
+    Item ein Wagen mit allerley Zimmerhöltzern/groß vnnd kleyn zu Setzbäwmen/gestroben/rester vnd anderer notturfft.
+  cs: |-
+    Dále jeden vůz se všelijakým tesařským dřívím, velkým i malým, na podpěrné trámy {Setzbäwmen}, vzpěry {gestroben}, krokve {rester}[^3] a jiné potřeby.
+- typ: odstavec
+  de: |-
+    Item ein Wagen mit runden stangen/zu zeltbäwmen/Leyttern/sprossen/vnd Zellt nägeln.
+  cs: |-
+    Dále jeden vůz s kulatými tyčemi na stanové sloupy, žebříky a příčle a se stanovými kolíky.
+- typ: odstavec
+  de: |-
+    Item zwen Wägen mit Schlegel/Naben vnd Speychen/groß vnd kleyn/die vnaußgemacht seind.
+  cs: |-
+    Dále dva vozy s palicemi, náboji a paprsky kol, velkými i malými, které nejsou dohotoveny.
+- typ: odstavec
+  de: Item ein Wagen mit vnaußgemachten Achssen/zum grossen geschütz.
+  cs: Dále jeden vůz s nedohotovenými osami pro velká děla {geschütz}.
+- typ: odstavec
+  de: |-
+    Item ein Wagen mit vnaußgemachten Lannenbäwmen/Langwinden vnnd Deichsseln/wo man mit Deichssel wägen ferth.
+  cs: |-
+    Dále jeden vůz s nedohotovenými ojnicemi {Lannenbäwmen}, lanšvity {Langwinden}[^4] a ojemi, jezdí-li se s vozy s ojí.
+- typ: odstavec
+  de: |-
+    Item es sollen mitgefürt werden zu jedem geschlecht der Büchsen zwey ledig Reder/deßgleichen etliche Pratzen Reder die vornen vnter den gefessen gehent/damit wo etwann ein Rad brech oder zerschossen würde/oder sonst abgieng/daß man von stundan ein anders habe/darzu ist gůt daß man etliche gemeyne wägen Reder zur fürsorg auch mit füre.
+  cs: |-
+    Dále se má k každému druhu děl {Büchsen} vézt s sebou po dvou volných kolech a rovněž několik kol k předkům {Pratzen Reder}[^5], která jdou vpředu pod lafetami {gefessen}, aby se hned mělo jiné kolo, kdyby se nějaké zlomilo, bylo prostřeleno nebo jinak vyřazeno. K tomu je dobré vézt s sebou pro jistotu také několik obyčejných kol od vozů.
+- typ: odstavec
+  de: |-
+    Item es sollen auch mit gefürt werden etliche halbe gefeß/die man zur notturfft haben vnd brauchen möge.
+  cs: |-
+    Dále se má vézt s sebou také několik polovičních lafet, aby je bylo možno v případě potřeby mít a použít.
+- typ: odstavec
+  de: |-
+    Item der Arckelley Küffer oder Binder/sol auff die ringste wägen laden/etwann manig tauben zu kleynen Puluerfäßlin/der keyns vber ein Centner fasset/damit dieselbigen Wägen auch jren last haben/Dieselbigen kleynen Puluerfäßlin füllet man auß den grossen Puluerfässern/vnd thůts in die schantz/von wegen gefährlichkeyt deß fewrs/dieweil die Arckelley darin die grossen Puluerfässer bleiben/dem Läger neher ist dann die schantz.
+  cs: |-
+    Dále má bednář dělostřelectva naložit na nejlehčí vozy mnoho duh na malé soudky na prach {Puluerfäßlin}, z nichž žádný nepojme víc než jeden cent {Centner}, aby i tyto vozy měly svůj náklad. Tyto malé soudky se plní z velkých sudů s prachem a dávají se do šance {schantz}, a to kvůli nebezpečí ohně, protože stanoviště dělostřelectva, kde zůstávají velké sudy s prachem, je blíže ležení {Läger} než šance.
+- typ: odstavec
+  de: |-
+    Item etlich Wägen mit Landsknecht spiessen/die sollen halb geschifft/vnd halb vngeschifft sein.
+  cs: |-
+    Dále několik vozů s lancknechtskými kopími {Landsknecht spiessen}; ta mají být z poloviny osazena na ratištích a z poloviny bez ratišť.
+- typ: odstavec
+  de: |-
+    Item man soll mitfüren ein anzal Spießeisen vnnd Nägel/damit man sie anschlecht/damit wo etwann ein knecht vmb ein eisen oder stange kompt/daß man jhm wider helffen möge.
+  cs: |-
+    Dále se má vézt s sebou určitý počet hrotů kopí {Spießeisen} a hřebů, jimiž se hroty přibíjejí, aby se – přijde-li některý knecht {knecht} o hrot nebo o ratiště – mohlo mu zase pomoci.
+poznamky:
+- n: 1
+  text: Lanne – ojnice (svory), dvojice tyčí, mezi něž se zapřahá kůň; srov. pozn. na 19v.
+- n: 2
+  text: Zielscheit = Ortscheit (orčík) – vahadlo, k němuž se připínají postraňky.
+- n: 3
+  text: Setzbaum – podpěrný trám; gestroben – patrně vzpěry (Strebe); rester – patrně krokve (Rafen); čtení i výklad nejisté.
+- n: 4
+  text: Langwied – lanšvit, podélné dřevo spojující přední a zadní nápravu vozu.
+- n: 5
+  text: Protzräder – kola předku (dvoukolového podvozku), na nějž se při jízdě zavěšuje zadní konec lafety.

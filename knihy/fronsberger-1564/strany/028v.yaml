@@ -1,0 +1,65 @@
+id: 028v
+list: XXVIII
+strana: verso
+sken: 64
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    bey aller musterung sein/fleissig acht vnnd auffmercken haben/damit keyn betrug gepflegen vnd gebraucht werde/vnd wo es geschefft halben sein mag/soll der Zeugmeyster sampt etlichen zeugdienern selbs auch darbey sein.
+  cs: |-
+    být při každé přehlídce {musterung} a pilně dávat pozor a dohlížet, aby se nepáchal a neužíval žádný podvod; a pokud to jeho zaneprázdnění dovolí, má u toho být i sám zbrojmistr {Zeugmeyster} s několika zbrojními služebníky {zeugdienern}.
+- typ: odstavec
+  de: |-
+    Item es sollen allwegen zwölff bawren ein Rott haben/darzů einen Rottmeyster/denselben sollen sie selbs vnter jnen erwölen/darnach dem Hauptman vnd Zeugschreiber denselbigen anzeygen/damit der Rottmeyster mit seiner Rott werde auffgeschriben/so weyß man ein Rott nach der andern wann es vonnöten ist zufordern/jetzt eine/denn zwo/drey Rott/oder souil vonnöten/jetzt im vorzug/dann im nachzug/jetzt da/dann dort/Also mag es vmbgehn/daß ein Rott souil gebraucht wirdt als die ander/dieweil man sie selten alle zumal braucht.
+  cs: |-
+    Dále: vždy dvanáct sedláků má tvořit jednu rotu {Rott} a mít k tomu rotmistra {Rottmeyster}; toho si mají sami mezi sebou zvolit a pak ho oznámit hejtmanovi a zbrojnímu písaři {Zeugschreiber}, aby byl rotmistr se svou rotou zapsán. Tak se ví, jak povolávat jednu rotu po druhé, když je třeba – hned jednu, pak dvě, tři roty, nebo kolik je třeba, hned do předvoje {vorzug}, pak do zadního voje {nachzug}, hned sem, pak tam. Tak se to může střídat, aby se jedna rota používala stejně jako druhá, protože se zřídka potřebují všechny najednou.
+- typ: odstavec
+  de: |-
+    So man dann die Schantzbawrn mustert/soll ein Rott nach der andern durchzugehen gefordert werden.
+  cs: |-
+    Když se pak šancíři {Schantzbawrn} přehlížejí, mají být vyvolávány roty, aby procházely jedna po druhé.
+- typ: odstavec
+  de: |-
+    Die Schantzbawren sollen ein Fändlin haben/ist ohn noth von Seyden/sonder von Leinwat/darein gemalt Hawen vnd Schauflen/darzů ein Trommenschlager ohn ein Pfeiffer/den gebraucht man allein zum vmbschlagen/so man die Schantzbawren brauchen wil/oder etliche Rotten von jhnen.
+  cs: |-
+    Šancíři mají mít praporec {Fändlin}; ten nemusí být z hedvábí, nýbrž z plátna, a jsou na něm namalovány motyky {Hawen} a lopaty {Schauflen}. K tomu bubeníka {Trommenschlager} bez pištce; toho se užívá jen k vybubnování {vmbschlagen}, když se mají použít šancíři nebo některé jejich roty.
+- typ: odstavec
+  de: |-
+    So man etliche Rotten brauchen wil von den Schantzbawren/das soll der Hauptman befelhen dem Trommenschlager/dieselbigen Rottmeyster jhm verzeychnet geben/vnd jhnen vmbschlagen lassen.
+  cs: |-
+    Chce-li se použít několik rot šancířů, má to hejtman {Hauptman} nařídit bubeníkovi, dát mu ty rotmistry sepsané a nechat jim vybubnovat.
+- typ: odstavec
+  de: |-
+    So man aber die Bawren alle brauchen wil/so soll man jhnen allen vmbschlagen/vnnd der Fänderich mit seinem Fändlin auff den platz da am meysten Bawren seind/ziehen/biß sie sich gesamlen.
+  cs: |-
+    Chce-li se však použít všech sedláků, má se vybubnovat všem a praporečník {Fänderich} má se svým praporcem táhnout na místo, kde je nejvíce sedláků, dokud se neshromáždí.
+- typ: odstavec
+  de: |-
+    Es soll jeder Schantzbawr sein eygen Hawen/Schaufel oder Bickel haben/so er die verleurt oder verbricht/soll jhme der Zeugwart ein ander doch vmbs gelt geben.
+  cs: |-
+    Každý šancíř má mít svou vlastní motyku, lopatu nebo krumpáč {Bickel}; ztratí-li ho nebo zlomí, má mu zbrojní správce {Zeugwart} dát jiný, avšak za peníze.
+- typ: odstavec
+  de: |-
+    So die Schantzbawren jhre Rotten machen/so soll verordnet werden/daß die jenigen so Schauflen der gemeynlich am meysten/vnd die mit den Hawen/der nicht souil dörffen sein/vnd die mit Bickeln vnd Reuthawen/so am wenigsten seind/jegliche gattung der handtwaffen zusammen gerottiert werden/darmit man wiß wieuil Rotten jeder gattung der Werckzeug vorhanden sey/welcher man dann jeder zeit am meysten vonnöten/kan man darnach vnter den Rotten lassen vmbschlagen.
+  cs: |-
+    Když si šancíři utvářejí roty, má se nařídit, aby ti, kdo mají lopaty – kterých bývá obvykle nejvíce –, ti s motykami – kterých nemusí být tolik – a ti s krumpáči a klučovacími motykami {Reuthawen}, kterých je nejméně, byli seřazeni do rot každý druh nářadí {handtwaffen} zvlášť, aby se vědělo, kolik rot s kterým druhem nářadí je k dispozici. Kterého je pak kdy nejvíce třeba, tomu se může mezi rotami vybubnovat.
+- typ: odstavec
+  de: |-
+    Es sollen die Bawren darzů gehalten werden/daß keyner auß dem Läger ziehe ohn erlaubnuß/es sey ferr oder nahe/lang oder kurtz zeit.
+  cs: |-
+    Sedláci mají být drženi k tomu, aby nikdo neodcházel z ležení {Läger} bez dovolení, ať daleko, či blízko, na dlouho, či nakrátko.
+- typ: odstavec
+  de: |-
+    So sie gemustert seind/sollen sie mit bezalung/auch mit vnd außgang deß Monats/wie andere Arckelley Personen gehalten werden.
+  cs: |-
+    Jakmile projdou přehlídkou, má se s nimi co do výplaty i začátku a konce měsíce[^1] zacházet jako s ostatními osobami dělostřelectva {Arckelley Personen}.
+- typ: odstavec
+  de: |-
+    Einem jeden Schantzbawren gebürt Monats vier gülden vnd keynem mehr/
+  cs: |-
+    Každému šancíři náležejí měsíčně čtyři zlaté {gülden} a nikomu více;
+poznamky:
+- n: 1
+  text: „mit vnd außgang deß Monats“ – patrně tisková chyba za „mit eingang vnd außgang“, tj. kdy jim měsíc služby a žoldu začíná a končí.

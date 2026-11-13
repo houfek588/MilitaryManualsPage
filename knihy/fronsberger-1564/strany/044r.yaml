@@ -1,0 +1,63 @@
+id: 044r
+list: XLIIII
+strana: recto
+sken: 95
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    So aber ein Hauptmann fünff hundert knecht vnter seinem Fändlin hette/wer gar gůt/er ersparte allwegen an vier Fändlin ein Hauptmann/alle ämpter vnd vbersöld/zu dem/wo man auff Zůg/Wachten/in Besatzungen Prouandt zubeleyten/oder ander sachen mit einzigen Fändlin ziehen/vnnd etwas außrichten soll/ist es gar gůt vnd tröstlich so man starcke Fändlin hat.
+  cs: |-
+    Kdyby však hejtman měl pod svým praporcem {Fändlin} pět set knechtů, bylo by to velmi dobré: ušetřil by se tak vždy na čtyřech praporcích jeden hejtman se všemi úřady a příplatky k žoldu {vbersöld}[^1]. Kromě toho, když se má s jednotlivými praporci táhnout na pochod, na stráž, do posádek, k doprovodu proviantu {Prouandt} nebo za jinými věcmi a něco vykonat, je velmi dobré a povzbudivé mít silné praporce.
+- typ: nadpis
+  uroven: 3
+  de: Artickel darauff die Vnterhauptleuth bestelt vnd angenommen werden.
+  cs: |-
+    Články, na které se podřízení hejtmani {Vnterhauptleuth} sjednávají a přijímají
+- typ: odstavec
+  de: |-
+    ES ist gůt/daß mit einem jeden Vnterhauptmann ein Schrifftlich bestallung auff nachfolgende puncten vnd Artickel auffgericht vnd gemacht werde.
+  cs: |-
+    Je dobré, aby se s každým podřízeným hejtmanem sepsal a uzavřel písemný služební list {bestallung} na následující body a články.
+- typ: odstavec
+  de: |-
+    Nämlich daß jedem werden angezeygt die Artickel/die die Knecht schwören sollen/auch darbey was ämpter die Herrschafft oder der gemeyn Mann hinzu geben vnd zubestellen haben werde/darbey auch wie viel Monat sie dienst haben/vnnd wieuiel tag sie für ein Monat dienen sollen/wann auch jhr Sold angehn werde/So auch jemandts vor erscheinung der Monat mit wissen vnnd willen deß Obersten abziehen würde/wieuil tag jm für den abzug gerechnet werden sollen/damit die Hauptleuthe in auffbringung der Knecht sich wissen zuhalten/vnnd mit jhnen darnach haben zuhandlen.
+  cs: |-
+    Totiž aby se každému ukázaly články, na které mají knechti přísahat, a k tomu, jaké úřady má vrchnost nebo obec {gemeyn Mann} dosadit a obsadit; dále na kolik měsíců mají službu, kolik dní mají sloužit za jeden měsíc a kdy jim začne běžet žold; a kdyby někdo před uplynutím měsíců odešel s vědomím a vůlí plukovníka {Obersten}, kolik dní se mu má počítat na odchod – aby hejtmani při verbování knechtů věděli, jak si počínat, a mohli s nimi podle toho jednat.
+- typ: odstavec
+  de: |-
+    Item daß er die Monat die er bestelt ist/getrewlich diene/dem Obersten gefellig/vnd jhm gehorsam sey in allen billichen sachen.
+  cs: |-
+    Dále, aby po měsíce, na které je sjednán, věrně sloužil a byl plukovníkovi po vůli a poslušen ve všech náležitých věcech.
+- typ: odstavec
+  de: |-
+    Item ob sie in auffbringung der Knecht etlich gelt fürstrecken vnnd darleihen würden/daß man jm weitter nichts darfür/dann souiel dieselbige verdienen würden/schuldig sein werde.
+  cs: |-
+    Dále, kdyby při verbování knechtů nějaké peníze předem založili a půjčili, že se jim za to nebude dlužno nic víc, než kolik si titíž [knechti] odslouží.
+- typ: odstavec
+  de: |-
+    Item ob sich begebe/daß jhm zwischen der Musterung Knecht abgiengen/vnd er andere annemen wolt/die soll er für den Obersten vnd Musterherrn bringen/vnd ohn derselbigen wissen vnd vergunnen nit einschreiben.
+  cs: |-
+    Dále, kdyby se stalo, že by mu mezi přehlídkami ubyli knechti a chtěl by přijmout jiné, má je přivést před plukovníka a přehlídkového komisaře {Musterherrn} a bez jejich vědomí a svolení je nezapisovat.
+- typ: odstavec
+  de: |-
+    Item daß er keynem Knecht ohn deß Obersten wissen vnd zulassen keyn Pasport geben wölle/dann das allein dem Obersten Hauptmann zuthůn zusteht.
+  cs: |-
+    Dále, že žádnému knechtovi bez plukovníkova vědomí a svolení nedá propustku {Pasport}, neboť to přísluší jedině plukovníkovi {Obersten Hauptmann}[^2].
+- typ: odstavec
+  de: |-
+    Item daß er in der Musterung nit mehr Knecht oder Sold anzeyge/auch nit mehr Bezalung fordern wölle/weder jhm in seiner Bestallung zugelassen vnd gemustert seind/vnnd inn dem oder anderm keynerley vortheyl sůchen/noch den Herren betriegen oder gefärde brauchen wölle/auch zu solchem betrug keynem andern beholffen oder berahten sein.
+  cs: |-
+    Dále, že při přehlídce neudá víc knechtů nebo žoldů a nebude žádat vyšší platbu, než kolik mu bylo ve služebním listu povoleno a při přehlídce uznáno; a že v tom ani v ničem jiném nebude hledat žádný neoprávněný prospěch, pána nepodvede ani proti němu nepoužije lsti a nikomu jinému k takovému podvodu nepomůže ani neporadí.
+- typ: odstavec
+  de: |-
+    Item daß er keynen Schreiber annemen/vnd zu dem einschreiben sein Knecht oder Musterung gebrauchen wölle/er habe dann zuuor dem Obersten Hauptmann
+  cs: |-
+    Dále, že nepřijme žádného písaře a nepoužije ho k zapisování svých knechtů ani při přehlídce, leda by [písař] předtím plukovníkovi
+poznamky:
+- n: 1
+  text: |-
+    vbersöld – příplatky nad základní žold pro úřady, dvojžoldnéře aj. (srov. 043v: z 500 žoldů na praporec připadá 100 na tyto příplatky). Při praporcích o 500 mužích by na 2000 knechtů stačily čtyři praporce místo pěti.
+- n: 2
+  text: |-
+    Oberster Hauptmann – zde a dále v těchto článcích plukovník jakožto nadřízený „podřízených hejtmanů“, nikoli nejvyšší polní hejtman celého vojska.

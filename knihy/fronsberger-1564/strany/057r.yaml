@@ -1,0 +1,44 @@
+id: 057r
+list: LVII
+strana: recto
+sken: 121
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Die Gerichts Ordnung.
+  cs: Soudní řád
+- typ: odstavec
+  de: |-
+    ES seind jetzt erkannt vnnd angezeygt alle ämpter/so vnter dem Obersten der Fußknecht seind/wil jetzt anzeygen die Befelch/ämpter/vnd Eydt der Schultheyssen/Wachtmeyster/Quartiermeyster vnd Profosen/Vnnd wiewol jetzt angezeygte ämpter auch vnter den Obersten der Fußknecht Regiment gehörig/So hab ich doch/dieweil diese Ampts Personen vnter keynem Hauptmann ligen/sondern ein jedes sein eygen stath/Ampt vnd Regiment mit seinen notwendigen darzů verordneten personen hat vnd haben soll/der jedes ampt vnd befelch vmb bessers verstands willen/an seinem sondern ort anzeygen wollen.
+  cs: |-
+    Nyní byly vyloženy a popsány všechny úřady, které jsou pod plukovníkem pěchoty {Obersten der Fußknecht}. Teď chci popsat pověření, úřady a přísahy rychtáře {Schultheyssen}, vachmistra {Wachtmeyster}, kvartýrmistra {Quartiermeyster} a profouse {Profosen}. A ačkoli i tyto nyní uváděné úřady patří k pluku plukovníka pěchoty, chtěl jsem přece úřad a pověření každého z nich pro lepší srozumitelnost popsat na zvláštním místě, protože tyto úřední osoby nejsou pod žádným hejtmanem, nýbrž každá má a má mít své vlastní postavení, úřad a správu {Regiment} s potřebnými osobami, které jsou k tomu ustanoveny.
+- typ: odstavec
+  de: |-
+    Hernach wird angezeygt des Schultheyssen ampt vnd Regiment/vnd darein gehört erstlich der Schultheyß/zwölff Gerichtsleuth/die ligen vnd haben ihr Besoldung hin vnd wider vnter den Hauptleuten vnd Fändlin/vnd zu denen allen ein Gerichtsweybel vnd Gerichtschreiber.
+  cs: |-
+    Dále se popisuje úřad a správa rychtáře. K ní patří předně rychtář, dvanáct soudních přísedících {Gerichtsleuth}, kteří leží a mají svůj žold porůznu u jednotlivých hejtmanů a praporců {Fändlin}, a ke všem jeden soudní šikovatel {Gerichtsweybel} a soudní písař {Gerichtschreiber}.
+- typ: odstavec
+  de: |-
+    Wann man zu Feld/oder in Besatzungen ein Gericht besitzt/so gehört darein Schultheyß/zwölff Richter/mit sampt den andern Personen/so darein geordnet.
+  cs: |-
+    Když se v poli nebo v posádkách {Besatzungen} zasedá k soudu, patří k němu rychtář, dvanáct soudců {Richter} a spolu s nimi ostatní osoby, které jsou k němu ustanoveny.
+- typ: nadpis
+  uroven: 2
+  de: Ampt/Befelch vnd Eyd deß Schultheyssen.
+  cs: Úřad, pověření a přísaha rychtáře
+- typ: odstavec
+  de: |-
+    DEs Schultheyssen befelch vnd ampt ist/daß er mit seinen zugeordneten Gerichtsleuten Gericht besitz in allen sachen/darumb er von den spänigen vnnd klagenden partheyen wirt angerüffen/es sey vmb schulden/vmb schmach/vmb gewalt/vnrecht/Bürgerliche oder peinliche sachen/in allweg wie in andern Ländern vnd Stetten/Gericht vnd Recht gehalten werden soll/Also soll es im Feld vnd vnter den Kriegsleuten auch gehalten werden/damit ein jeder seiner notturfft nach/seinen Richter vnd Recht zusuchen vnd zufinden wisse.
+  cs: |-
+    Pověřením a úřadem rychtáře je, aby se svými přidělenými přísedícími zasedal na soudu ve všech věcech, pro které ho svářící se a žalující strany volají, ať jde o dluhy, o urážku, o násilí, o bezpráví, o věci občanské nebo hrdelní {peinliche}. Jak se soud a právo mají vést v jiných zemích a městech, tak se mají vést i v poli a mezi válečným lidem, aby každý věděl, kde podle své potřeby hledat a najít svého soudce a právo.
+- typ: odstavec
+  de: |-
+    Derhalben ist gut zu einem solchen befelch ein ehrlicher frommer Man der sich auff Bürgerliche gůte erbare Policey/vnd was eim Richter zůsteht/in Bürgerlichen vnd peinlichen sachen verstehe/damit er jeder zeit mit seinen zugeordneten Gerichtsleuten/dem Rechten vnd der billichkeyt gemäß/recht sprechen vnd sich zuhalten wisse.
+  cs: |-
+    Proto je k takovému pověření dobrý čestný a řádný muž, který se vyzná v dobrém a počestném občanském řádu {Policey} a v tom, co náleží soudci ve věcech občanských i hrdelních, aby se svými přidělenými přísedícími dokázal kdykoli soudit podle práva a slušnosti a věděl, jak si počínat.
+- typ: odstavec
+  de: |-
+    So er Gericht halten vnnd besitzen wil/lässet er seinen Gerichtsweybel/der da wissen soll vnter wellichem Fändlin die Gerichtsleuth ligen/wie sie heyssen/den Gerichtstag/vnd wahin sie sich/auch vmb welche zeit sie sich darzu verfügen sollen/ansagen/oder lasset es in beysein des Gerichtsweybels offentlich im Läger vmbschlahen.
+  cs: |-
+    Chce-li držet soud a zasedat k němu, dá svým soudním šikovatelem – ten má vědět, u kterého praporce přísedící leží a jak se jmenují – ohlásit soudní den a kam a v kolik hodin se mají dostavit; nebo to dá za přítomnosti soudního šikovatele veřejně vybubnovat v ležení {Läger}.

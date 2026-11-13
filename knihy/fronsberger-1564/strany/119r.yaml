@@ -1,0 +1,48 @@
+id: 119r
+list: CXIX
+strana: recto
+sken: 245
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    fürsatz/auß worten/wercken/gesicht/weiß vnd geberden wol abgemerckt/den Obersten platz eingenommen/Läger vnd Troß wol bewart/Vihe vnnd Leuth wol gefüttert/deß Feinds heymliche list wol verhůt vnd erkündiget.
+  cs: |-
+    úmysl nepřátel i svých lidí dobře vypozoroval z jejich slov, činů, tváří, způsobů a posunků, obsadil nejvyšší místo, ležení {Läger} a trén {Troß} dobře zajistil, dobytek i lidi dobře nakrmil a skryté lsti nepřítele dobře vyzvěděl a předešel jim.
+- typ: nadpis
+  uroven: 2
+  de: Zeit.
+  cs: Čas
+- typ: odstavec
+  de: |-
+    ALles glück nimpt vnd gibt rechte zeit vnd weil des Summers/Winters/tags/nachts/regens/windts/Darumb soll ers allzeit fügen/daß sie dem Feind widerwertig vnnd seinem gesicht schedlich seien/Wann er jhm vortheylig zu schlagen fürnimpt/soll er die seinen zu vesperzeit alle wol speisen auff zwen tag/vnnd nach dem mal vor der feind Läger die gantze nacht lärmen machen/vnnd die Scharmützer abwechßlen/daß sie vmb schlaffen vnd wachen/zu morgen frů die Knecht wider speisen/jhn auch etlich speiß auff den tag zugeben/vnnd dann die nicht gewacht haben/vornen an die spitz in die Schlachtordnung stellen wider den feind/denselben fünff oder sechs stund nüchtern auffhalten vnd vexieren/biß er vor hunger/durst/hitz vnd onmacht krafftloß wird/Oder leg sein Herr in einem Stättlin vnd der feind zu feld/soll er sie mit der fütterung halten wie obberürt/vnnd mit wenig ringen pferden lärmen vnd vnrhů machen/Alßdann in Regen vnnd Wind zur Feldschlacht reytzen vnter seinem tach/vnd wann der feind ernaßt/erfrewrt vnnd erschwacht/dem Läger wider zurücken/hinder jhm daher drumpffen/Oder etwann die Troßbuben/diener/jungen vnd södler in seinem Läger geharnischt halten/vnnd wann der feind auff die fütterung zeucht/die Kriegßleuth in der Trosser kleydung auch hinauß schicken/jhene zuschlagen/ist sein Feind stercker dann er/greiff fast abends an/obs vbel gieng/daß jn die nacht errette/Oder ehe er sein Schlachtordnung machen mög/oder in einem dicken näbel.
+  cs: |-
+    Všechno štěstí bere i dává správný čas a chvíle léta, zimy, dne, noci, deště a větru. Proto to má vždy zařídit tak, aby [tyto okolnosti] byly nepříteli nepříznivé a škodily jeho zraku. Chystá-li se udeřit [ve chvíli], která je pro něj výhodná, má své lidi navečer všechny dobře nasytit na dva dny a po jídle před ležením nepřátel celou noc dělat poplach a střídat harcovníky {Scharmützer}, aby [nepřátelé] přišli o spánek i [ztratili sílu] bděním; časně ráno má knechty {Knecht} znovu nasytit, dát jim i nějaké jídlo na den a ty, kteří nebděli, postavit do bitevního šiku {Schlachtordnung} vpředu do špice proti nepříteli; toho pak má pět nebo šest hodin zdržovat a trápit nalačno, až hladem, žízní, horkem a slabostí ztratí sílu. Nebo leží-li jeho vojsko v městečku a nepřítel v poli, má své lidi, jak bylo řečeno výše, dobře živit a s několika málo lehkými jezdci {ringen pferden} působit poplach a neklid; pak má [nepřítele] v dešti a větru dráždit k polní bitvě, sám pod svou střechou, a když nepřítel promokne, promrzne a zeslábne a táhne zpět k ležení, má mu vpadnout do zad. Nebo má někdy chlapce od trénu {Troßbuben}, sluhy, mladíky a kuchaře {södler} držet ve svém ležení ve zbroji, a když nepřítel vytáhne pro píci, má vyslat ven i válečníky v oděvu trénu a na ony [nepřátele] udeřit. Je-li jeho nepřítel silnější než on, má zaútočit až pozdě večer, aby ho, kdyby to dopadlo zle, zachránila noc; nebo dřív, než [nepřítel] stačí sestavit svůj bitevní šik, nebo v husté mlze.
+- typ: nadpis
+  uroven: 2
+  de: Platz.
+  cs: Místo
+- typ: odstavec
+  de: |-
+    DEr kleyn hauff soll seinen vortheyl wider den grossen also in der enge suchen oder höhe/da tags die Sonn/nachts der Mon/lufft vnnd staub dem Feind vnter die augen schlage/Da er ein Wasser hab/seine lasse pferd zulaben/zurück/vnd ein Stättlin wie es glücket/daß sich die seinen da samlen vnnd wider stercken mögen/In Summa/da er zum vortheyl auffs minst an der lincken seiten/ein See/Weier/Graben/Moß/Stättlin/Schloß/oder ein Felsen hab/dahin jhener nicht kommen mög/Solche vortheyl dienen offt auch zum stürmen.
+  cs: |-
+    Malý houf {hauff} má hledat svou výhodu proti velkému v úžině nebo na výšině, kde nepříteli bije do očí ve dne slunce, v noci měsíc, vítr a prach; kde má v týlu vodu, aby mohl napojit své znavené koně, a městečko, jak se poštěstí, aby se tam jeho lidé mohli shromáždit a znovu nabrat sílu. Zkrátka [má být] tam, kde má k výhodě přinejmenším po levé straně jezero, rybník, příkop, močál, městečko, hrad nebo skálu, kam se onen nemůže dostat. Takové výhody často slouží i k útoku.
+- typ: nadpis
+  uroven: 2
+  de: Troß.
+  cs: Trén
+- typ: odstavec
+  de: |-
+    DEn soll er entweders vor allem vberfall in sichere hůt gestellt/oder vnter freien Himmel den feinden als Klebrütlin zum vogelfang fürstellen/vnd so die seinen benötiget/jhre hab vom feind entretten/vnnd die Kistenfäger vnter der peut erlegen.
+  cs: |-
+    Ten [trén {Troß}] má buď postavit pod bezpečnou stráž před jakýmkoli přepadem, nebo jej postavit nepřátelům pod širým nebem jako lepový proutek {Klebrütlin} k chytání ptáků; a když budou jeho lidé v tísni, má jejich majetek vyrvat nepříteli a lupiče {Kistenfäger} pobít uprostřed kořisti.
+- typ: nadpis
+  uroven: 2
+  de: Der Hurnweybel.
+  cs: Šikovatel trénu
+- typ: odstavec
+  de: |-
+    SOll den gantzen Troß/auch in gezwungner ordnung mit hůren vnnd buben/bey harter straff leibs vnd lebens allzeit zusammen halten/auch in den
+  cs: |-
+    Má celý trén, i s nevěstkami a chlapci, pod přísným trestem na těle i na životě vždy držet pohromadě v pevném pořádku, a také při

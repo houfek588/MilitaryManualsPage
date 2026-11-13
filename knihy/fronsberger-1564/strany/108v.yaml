@@ -1,0 +1,33 @@
+id: 108v
+list: CVIII
+strana: verso
+sken: 224
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Von fräffner errettung erlangter Oberkeyt vnd Herrschafft.
+  cs: O smělé záchraně nabyté vrchnosti a panství
+- typ: odstavec
+  de: |-
+    SEytmal etlicher Leuth gewalt gemeynlich lauret/wie sie im abgang eines thewren Fürsten/dem jüngst eingesetzten seine federn berupffen mögen/erfordert die vnuermeidlich not eylends im anfang seiner Regierung mit list vnnd verruchter künheyt/dise gantz auffs geschwindest zuentschütten/jhren bund zutrennen/die mächtigsten mit gelt/die andern mit verheyssung vnd mit eingebung etlicher Vogteyen/die er folgender zeit leichtlich wider erobern mag/vnd alßdann nach jhrer trennung mit etlicher beystand/die schwecher vberziehen/vnnd nach entweders alle vnter seinen gewalt oder straff bringen/damit würde den seinen jhr hertz wachsen vnd den feinden schweynnen.
+  cs: |-
+    Poněvadž moc některých lidí obvykle číhá na to, jak by po skonu vzácného knížete oškubala peří tomu, kdo byl nově dosazen, vyžaduje nevyhnutelná nouze, aby [nový vládce] hned na počátku své vlády lstí a bezohlednou smělostí tyto lidi co nejrychleji zcela setřásl a rozbil jejich spolek: ty nejmocnější penězi, ostatní sliby a svěřením některých fojtství, která může později snadno získat zpět. Až se rozdělí, má s pomocí některých z nich přepadnout ty slabší a potom je všechny buď podrobit své moci, nebo potrestat. Tím by jeho lidem vzrostla odvaha a nepřátelům ubylo sil.
+- typ: nadpis
+  uroven: 2
+  de: Erwägung des Kriegs.
+  cs: Uvážení války
+- typ: odstavec
+  de: |-
+    WJe in allen anschlegen/also soll er auch billich in so gefährlichem handel/daß er sich Kriegs vnterwinde/vor allen geschefften steiff sein/vnnd des Feinds gewalt/gůt/Reichthumb/freund vnnd Vnterthanen/nachbawren/weitte/ferne/ähne/höhe/feuchte/dürre/stercke/schweche/trew/glauben/sampt dem auffgehenden kosten vnnd mühe/so beyde vber Land/Stätt/Schlösser/Amptleuth/Knecht/Brücken/Schantzen/geschütz/vnd auff alle andere rüstung vnd notzweng/im anfang/mittel vnd ende/nach dem vnentpärlichen fall des runden glücks lauff/vnd auffs aller fleissigst mutmassen vnd berechnen/damit er nit etwann entweders durch vnuermüglicheyt/oder durch vnuersichtige hinlässigkeyt/wo nicht zu schädlichem verlust seiner ehr/güter vnd landen/doch auffs minst zu spötlichem vertrag getrungen werd/etc.
+  cs: |-
+    Jako při všech záměrech, tak i v tak nebezpečné věci, jako je pustit se do války, má [kníže] právem nade všechny jiné záležitosti stát pevně a co nejpečlivěji odhadnout a propočítat moc nepřítele, jeho statky, bohatství, přátele a poddané, sousedy, šíři [země], vzdálenost, blízkost, výšiny, vlhko, sucho, sílu, slabost, věrnost a spolehlivost, k tomu vznikající náklady a námahu, jež obojí padnou na zemi, města, hrady, úředníky, knechty, mosty, šance, děla {geschütz} a na veškerou jinou výzbroj a nezbytnosti, na počátku, uprostřed i na konci, s ohledem na nevyhnutelný pád v běhu okrouhlého štěstí; aby snad nebyl buď pro nedostatek sil, nebo pro neprozíravou nedbalost dohnán, ne-li ke škodlivé ztrátě své cti, statků a zemí, tedy přinejmenším k potupné smlouvě atd.
+- typ: nadpis
+  uroven: 2
+  de: Vom Heer führen.
+  cs: O vedení vojska
+- typ: odstavec
+  de: |-
+    WJe nun fürsehung dreyer vnterschiedlicher zeiten/anfangs/mittels vnd endes/alhie hoch zuachten/Also wird auch deren keyne ohn schaden vbersehen/Derhalben soll er wissen sich dieser dreyer gegenstück/als durch das gehör/durchs lesen/vnd durch eigens erfahren/füglich zubrauchen/dann warlich dieser zeit fällen/vnd aller Ritterschafft nichts wideriger vnd schedlichers ist/dann ein verruchter/fräffner/vnbesinnter verachter deß feinds/der zeit/vnd berürter dreyer stücke/der mit vihischer grimmigkeyt sich selbs sampt dem gantzen hellen hauffen vnnd Land/offt durch weinseuchte oder vnuerstand/in vnwiderbringlichen schaden stürtzet. Wer glückseliglich Siegen wil/můß nicht allein frech/verwegen vnd vnuerzagt/sonder wolgelehrt/kunstreich/weiß/ja noth halben mit vier Haupttugenden gezieret sein/Nemlich mit wissenhafftiger erfarenheyt der Ritterschafft/mit starcker gesundheyt leibs vnd seiner sinnen/mit hochwirdiger achtbarkeyt/vnd mit natürlicher glückseligkeyt/deren keyne mit jetzleufftigen kriegßsitten/sonder etliche mit emsigen wolbelesenem fleiß/die andern aber allein von Gott/der ein warer Herr aller Heerzügen in heyliger geschrifft genennt wird/on menschlichs vermögen erworben vnd verlihen werden/nach seinem billichen zorn oder gunst/dabey man merck/daß Gottsforcht im Feldt
+  cs: |-
+    Jako je zde třeba vysoko cenit předvídavost pro tři rozdílné časy, počátek, střed a konec, tak se také žádný z nich nedá bez škody přehlédnout. Proto má [vojevůdce] umět vhodně užívat tří odpovídajících prostředků, totiž toho, co slyšel, co přečetl a co sám zakusil. Neboť vpravdě není nic, co by se víc příčilo těmto časům i celému rytířstvu a co by jim víc škodilo, než zpupný, opovážlivý a nerozvážný člověk, který pohrdá nepřítelem, časem i třemi zmíněnými věcmi a který se zvířecí zuřivostí, často z opilství nebo nerozumu, strhne sebe i celý houf {hellen hauffen} a zemi do nenapravitelné škody. Kdo chce šťastně vítězit, musí být nejen smělý, odvážný a neohrožený, nýbrž i dobře poučený, zručný a moudrý, ba nutně ozdoben čtyřmi hlavními ctnostmi: znalou zkušeností ve válečném umění, pevným zdravím těla i smyslů, vznešenou vážností a přirozeným štěstím. Žádnou z nich nelze získat nynějšími válečnými mravy; některé se nabývají pilným a sečtělým úsilím, ostatní však bez lidského přičinění uděluje jedině Bůh, jenž se ve Svatém písmu nazývá pravým Pánem všech zástupů, podle svého spravedlivého hněvu nebo přízně. Přitom je třeba si všimnout, že bázeň Boží v poli

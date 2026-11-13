@@ -1,0 +1,41 @@
+id: 033v
+list: XXXIII
+strana: verso
+sken: 74
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Folgen jetzt hernach die andern Wägen/so nicht zu der Arckelley gehörig.
+  cs: Nyní následují ostatní vozy, které k dělostřelectvu {Arckelley} nepatří
+- typ: seznam
+  de:
+  - 'JTem deß Obersten Feldthauptmanns Wagen.'
+  - 'Darnach deß Feldtmarschalcks wagen.'
+  - 'Darnach deß Obersten aller Füßknecht wagen.'
+  cs:
+  - 'Dále vůz nejvyššího polního hejtmana {Obersten Feldthauptmanns}.'
+  - 'Potom vůz polního maršálka {Feldtmarschalcks}.'
+  - 'Potom vůz plukovníka vší pěchoty {Obersten aller Füßknecht}.'
+- typ: odstavec
+  de: |-
+    Darnach der Grauen/Herren/vnd anderer Hauptleuth vnnd Befelchsleuth Wägen/nach ordnung jhr jedes Standts vnnd wesens/wie dann dieselbigen durch den Wagenmeyster vber die gemeyne Wägen angeschickt vnd verordnet wird/doch die Gezellt vnnd Küchin Wägen soll man zuvorderst auff die Arckelley Wägen gehen lassen.
+  cs: |-
+    Potom vozy hrabat, pánů a ostatních hejtmanů {Hauptleuth} a velitelů {Befelchsleuth} v pořadí podle stavu a postavení každého z nich, jak je rozestaví a určí vozmistr nad obecnými vozy {Wagenmeyster vber die gemeyne Wägen}; vozy se stany a kuchyňské vozy však mají jet hned za vozy dělostřelectva.
+- typ: nadpis
+  uroven: 3
+  de: Ein gemeyner Eyd aller Arckelley personen/so nicht sonder groß befelch haben.
+  cs: Obecná přísaha {Eyd} všech osob dělostřelectva, které nemají zvláštní vyšší pověření {befelch}
+- typ: odstavec
+  de: |-
+    ALle die jhenigen/so der Zeugmeyster vnnd sein Leutenant inn deß Zeugmeysters namen zu diesem gegenwertigen Feldzug hat angenommen vnd bestelt vnserm gnedigen Herren/daß sie dem gemelten N. Herren wölten getrew vnd gewärtig sein/die N. Monat jrer F. G. schaden warnen/ehren vnd frommen fürdern/dem Obersten Feldzeugmeyster vnd seinem Leutenant/oder andern/die sollich befelch haben/in seinem abwesen aller zimlichen gebott gefellig vnd gehorsam sein wöllen/jeglicher darzů er bestelt ist vnd verordnet/getrewlich vnd fleißig außrichten vnd versehen mit seinem höchsten ernst vnd fleiß/vnd sunst alles zuhandlen vnd zulassen/so einer seiner Herrschafft schuldig ist zuthůn/vnnd wa einer oder mehr weren/die sollichs vberfüren vnnd vbertretten/vngefährlicher weiß/die werden jeder zeit darumb angenommen/vnd der gebür nach gestrafft/etc.
+  cs: |-
+    Všichni ti, které zbrojmistr {Zeugmeyster} a jeho poručík {Leutenant} jménem zbrojmistra pro toto nynější polní tažení {Feldzug} přijali a najali pro našeho milostivého pána, [přísahají,] že chtějí být řečenému pánu N. po N. měsíců věrní a poslušní, varovat Jeho knížecí Milost {F. G.} před škodou a napomáhat jí ke cti a prospěchu, nejvyššímu polnímu zbrojmistrovi {Obersten Feldzeugmeyster} a jeho poručíkovi, nebo jiným, kdo mají v jeho nepřítomnosti takové pověření, ve všech náležitých rozkazech vyhovět a být poslušní, a každý to, k čemu je najat a určen, věrně a pilně vykonávat a obstarávat se vší vážností a pílí, a jinak činit i nečinit vše, co je kdo povinen činit své vrchnosti. A kdyby se našel jeden nebo více těch, kdo by to přestoupili a porušili, budou za to – bez úskoku – vždy zatčeni a náležitě potrestáni atd.
+- typ: odstavec
+  de: |-
+    Darnach sollen sie all vnd ein jheder besonder dem Leutenant geloben/darnach dem Zeugmeyster ein Eydt thůn.
+  cs: |-
+    Potom mají všichni i každý zvlášť dát slib poručíkovi a potom složit přísahu zbrojmistrovi.
+- typ: obrazek
+  soubor: drevorez-74.jpg
+  popis: Ozdobná koncová vinětka na konci Druhé knihy – dřevořez symetrického propleteného uzlu ze stuhových smyček.

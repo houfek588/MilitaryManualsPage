@@ -1,0 +1,37 @@
+id: 110v
+list: CX
+strana: verso
+sken: 228
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Gemeyner hauff vnd Musterung.
+  cs: Obecný houf a přehlídka
+- typ: odstavec
+  de: |-
+    DEr gestalt soll auch so viel müglich/von natürlichen Landsgenossen/ein vnzalbarer hauff/rauher vnd hert erzogner arth/berüfft werden/aber fürnemlich ohn gunst oder neid/ohn blinde betrügliche namen/ohn bethädigung der vnwirdigen oder abwesenden personen/vnd ohn dergleichen finantzen/die mehr zu schaden deß Fürsten/zu nachtheyl der gemeynen Knechte/vnd zu reichthumb der Hauptleuth/dann zu ehr vnnd Ritterlichem gewinn dienstlich seind/eingemustert werden/Die jhrem Vatterland von hertzen trew vnd hold/fromb/warhafftig/auffrecht/redlich/sinnreich/geschwind/mannhafftig/leichtsinnig/gerad/ran/beschoren/ohn bart/mit geschmeidiger/ringer vnd langer wehr bewaffet/vnnd also bekleydet seind/daß sie der Feind nicht leichtlich ergreiffen mög/Neben dem sol vnuersehens vnd Rottweiß besichtigt werden/daß sie mit allerley wehr/eisen/puluer vnnd loth/auch mit geübten Weybeln oder Rottmeystern genůgsam versehen seyen/von welchen sie Kriegs vnd der Waffen brauch tag vnd nacht gelehrt werden.
+  cs: |-
+    Stejně tak má být pokud možno z rodilých krajanů povolán nesčetný houf drsné a tvrdě vychované povahy, a to především bez přízně či závisti, bez slepých a podvodných jmen, bez započítávání nehodných či nepřítomných osob a bez podobných fint {finantzen}, které slouží spíš ke škodě knížete, k újmě prostých knechtů a k obohacení hejtmanů než ke cti a rytířskému zisku; [tak mají] být při přehlídce přijati. Mají to být muži, kteří jsou své vlasti ze srdce věrní a oddaní, řádní, pravdomluvní, přímí, poctiví, důvtipní, hbití, mužní, lehké mysli, rovní, štíhlí, oholení, bez vousů, ozbrojení ohebnou, lehkou a dlouhou zbraní a oblečení tak, aby je nepřítel nemohl snadno uchopit. Vedle toho mají být nenadále po rotách {Rottweiß} prohlíženi, zda jsou dostatečně opatřeni všelijakou zbraní, železem, prachem {puluer} a olovem a také zkušenými šikovateli {Weybeln} nebo rotmistry {Rottmeystern}, od nichž se ve dne v noci učí válečnému a zbraňovému umění.
+- typ: nadpis
+  uroven: 2
+  de: Besoldung.
+  cs: Žold
+- typ: odstavec
+  de: |-
+    ALßdann soll nach jedes erkannter redligkeyt/wirde vnd verdienst/zu gepürlicher zeit/der Monat Sold in angesicht deß Fürsten/offentlich vor dem hellen Hauffen bezalt/die dapffere gelobt vnnd begabt/vnnd hiemit die trägen ermant/behertziget/vnd durch Ritterliche thaten vnd geschenck/kün vnd dürstig gemacht/auch den Krancken/gelämpten/verletzten/gefangnen/nicht allein laut jrer bestellung/sonder für vnd für reichlichere Besoldung vnd pfläg geleyst/entlich also/trew mit trew/nicht allein vergolten/sonder auch gehauffet vnd bestättet werden. Damit aber solches deß glimpflicher geschehe/so soll der Fürst deß gantzen hauffens gewisse anzal allzeit von dem Muster vnnd Feldschreiber/in eygnem hauptrodel verfasset erfordern/der Fůßknecht vnd Reysigen Hauptleut alle in geschefft verschicken/vnd in jhrem abwesen/Musterung/auch jeden im zaum/oder nach verwürckung/vom höchsten biß zum nidersten in Fürstlicher huld oder straff halten/Demnach auff erfunden anzal besölden/vnd mit dem Gelt/so jhm vnd seinen Knechten in vil weg sonst möcht abtragen werden/jeden nach verdienst reichlich verehren. Also möcht ein jeder Kriegßmann nach der Antwort Johannis deß Täuffers/sich seines solds ohn meniglichs bedrengung vergnügen lassen.
+  cs: |-
+    Potom má být podle uznané poctivosti, hodnosti a zásluhy každého v náležitý čas před zraky knížete veřejně před celým houfem {hellen Hauffen} vyplacen měsíční žold {Monat Sold}; stateční mají být pochváleni a obdarováni, a tím mají být líní napomenuti a povzbuzeni a rytířskými činy a dary učiněni smělými a odvážnými. Také nemocným, zmrzačeným, raněným a zajatým se má poskytovat nejen [žold] podle jejich služebního listu {bestellung}, nýbrž stále hojnější plat a péče, takže věrnost se věrností nakonec nejen splácí, ale i rozmnožuje a upevňuje. Aby se to však dělo tím slušněji, má si kníže od přehlídkového a polního písaře vždy vyžádat přesný počet celého houfu, sepsaný ve vlastním hlavním rejstříku; hejtmany pěchoty i jízdy má všechny vyslat za úkoly a v jejich nepřítomnosti konat přehlídku {Musterung} a každého od nejvyššího po nejnižšího držet na uzdě, buď v knížecí přízni, nebo podle provinění v trestu. Potom má podle zjištěného počtu vyplácet žold a penězi, které by mu a jeho knechtům jinak mohly být mnoha způsoby odcizeny, každého podle zásluhy štědře odměnit. Tak by se každý válečník podle odpovědi Jana Křtitele[^1] mohl spokojit se svým žoldem, aniž by kohokoli utiskoval.
+- typ: nadpis
+  uroven: 2
+  de: Bestellung vnd Artickel.
+  cs: Služební listy a artikule
+- typ: odstavec
+  de: |-
+    FErrer bezeuget tägliche erfarung/daß einem Fürsten vnd vnterthanen/zu eroberung Sigs/ehren vnnd gůts/nichts fürderlichers dann ein wolgeordnets Regiment/steiffe handhabung der vnuerbrüchlichen gerechtigkeyt vnd erhaltung vnbetrüglicher/einhelliger gehorsamkeyt/alle zeit gewesen sey. Darumb soll ein Fürst vnnd Oberster sein müglichsten fleiß dahin wenden/daß die Bestell/Artickels vnd Regiments brieff vber alle vnnd jede Ampts verwaltung vnnd gemeyn zugleich vnparteyisch/rechtmessig/dem grösten als dem minsten/durch Ersame/alte
+  cs: |-
+    Dále každodenní zkušenost dosvědčuje, že knížeti i poddaným nebylo k dobytí vítězství, cti a statků nikdy nic prospěšnějšího než dobře uspořádaná správa {Regiment}, pevné udržování neporušitelné spravedlnosti a zachování nepodvodné a jednomyslné poslušnosti. Proto má kníže a nejvyšší [velitel] vynaložit všechno možné úsilí, aby služební, artikulní a plukovní listy {Bestell/Artickels vnd Regiments brieff} pro správu všech úřadů i pro obec byly zároveň nestranně a spravedlivě, pro největšího stejně jako pro nejmenšího, počestnými, starými,
+poznamky:
+- n: 1
+  text: |-
+    Lk 3,14: vojákům Jan Křtitel odpověděl, aby nikoho neutiskovali, nikomu nekřivdili a spokojili se se svým žoldem.

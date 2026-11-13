@@ -1,0 +1,65 @@
+id: 042v
+list: XLII
+strana: verso
+sken: 92
+stav: zkontrolovano
+bloky:
+- typ: seznam
+  pokracovani: true
+  de:
+  - Ein Schreiber.
+  - Item ein Spenitor.
+  - Ein Dollmätsch in frembde Land.
+  - Etliche Jungen.
+  - Etliche Reysige knecht.
+  - Item ein eygen Spil.
+  - |-
+    Item ein Küchin vnnd Kamerwagen/seinem Standt nach ein notturfftig anzal.
+  cs:
+  - písař {Schreiber}
+  - dále nákupčí {Spenitor}[^1]
+  - tlumočník {Dollmätsch} do cizích zemí
+  - několik pacholat {Jungen}
+  - několik jízdních pacholků {Reysige knecht}
+  - dále vlastní hudba {Spil}
+  - |-
+    dále kuchyňský a komorní vůz {Kamerwagen}, podle jeho stavu v potřebném počtu
+- typ: nadpis
+  uroven: 2
+  de: Des Obersten der Fußknecht Leutenant Befelch vnd Ampt.
+  cs: |-
+    Pověření a úřad poručíka {Leutenant} plukovníka pěchoty {Obersten der Fußknecht}
+- typ: odstavec
+  de: |-
+    ZV gleicher gestalt wie hieuor vom Leutenant deß Feldmarschalcks geredt vnnd angezeygt ist/also soll auch vom Leutenant des Obersten der Fůßknecht gemerckt vnnd verstanden werden/Dann wie der Leutenant des Feldtmarschalcks seines Obersten statt vnnd platz/also gebürt dem Leutenant des Obersten der kriegßknecht seines Obersten statt/Ampt vnd geschäfft in seinem abwesen zuuerwalten.
+  cs: |-
+    Stejně jako bylo výše řečeno a ukázáno o poručíkovi polního maršálka {Feldmarschalcks}, je třeba rozumět i poručíkovi plukovníka pěchoty. Neboť jako poručík polního maršálka [zastává] místo a postavení svého velitele, tak náleží poručíkovi plukovníka knechtů spravovat v jeho nepřítomnosti plukovníkovo místo, úřad a záležitosti.
+- typ: odstavec
+  de: |-
+    Der Oberst erkieset jm gemeynlichen einen vnter den vnterhauptleuthen/der vor andern dapffer/geschickt/Kriegßerfarn vnd beredt ist/zu einem Leutenant/dem wird sein besoldung gebessert/jm geschicht auch mit haltung der Trabanten/vnnd in ander weg zimlich vortheyl vor andern Hauptleuthen.
+  cs: |-
+    Plukovník si za poručíka obvykle vybírá jednoho z podřízených hejtmanů {vnterhauptleuthen}, který je nad jiné statečný, schopný, ve válce zkušený a výmluvný. Tomu se zvyšuje žold a ve vydržování drabantů {Trabanten} i jinak se mu dostává přiměřené výhody před ostatními hejtmany.
+- typ: odstavec
+  de: |-
+    Mit sonderer pflicht wird er seinem Stand vnd Ampt nach/nach erheyschung der notturfft/nach willen vnd gůt beduncken des Kriegßherrn vnd Kriegßräthen/als nämlich nach dem man jhne auch gedenckt zugebrauchen/beladen.
+  cs: |-
+    Zvláštní přísahou {pflicht} se zavazuje podle svého stavu a úřadu, podle toho, co si žádá potřeba, a podle vůle a dobrého uvážení válečného pána {Kriegßherrn} a válečných radů {Kriegßräthen}, totiž podle toho, k čemu ho hodlají použít.
+- typ: odstavec
+  de: |-
+    Sein Ampt ist/daß er den Obersten vertritt/so der nit beyhändig ist/wie dann die andern Leutenant pflegen zuthůn.
+  cs: |-
+    Jeho úřadem je zastupovat plukovníka, když není přítomen, jak to činívají i ostatní poručíci.
+- typ: nadpis
+  uroven: 2
+  de: Ampt/Befelch vnd Eydt eines Hauptmanns vber ein Fändlin Knecht.
+  cs: |-
+    Úřad, pověření a přísaha hejtmana {Hauptmanns} nad praporcem knechtů {Fändlin Knecht}
+- typ: odstavec
+  de: |-
+    ZV einem Hauptmann vber ein Fändlin Knecht soll verordnet werden/ein ehrlicher gebrauchter/erfahrner/geschickter Mann/der Kriegs erfahren/vnd geübt sey/damit er jeder zeit sich selbs/vnd die seinen zuhalten wiß/vnd gebürt jhme/so jhn ein Herr zu einem Hauptmann vber ein Fändlin knecht verordnet/daß er bey den
+  cs: |-
+    Hejtmanem nad praporcem knechtů má být ustanoven čestný, osvědčený, zkušený a schopný muž, který je ve válce zběhlý a vycvičený, aby vždy věděl, jak si počínat sám i jak vést své lidi. A když ho pán ustanoví hejtmanem nad praporcem knechtů, náleží se, aby byl u
+poznamky:
+- n: 1
+  text: |-
+    Spenitor (Spenditor, z lat. dispensator, ital. spenditore) – hospodář a nákupčí, který obstarával nákupy potravin a vedl výdaje velitelovy domácnosti.

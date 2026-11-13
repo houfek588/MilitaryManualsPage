@@ -1,0 +1,61 @@
+id: 088r
+list: LXXXVIII
+strana: recto
+sken: 183
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Gemeyne Puncten vnd Artickel/so einem Obersten einer Besatzung zůbedencken seind.
+  cs: |-
+    Obecné body a artikule, na které má pamatovat plukovník posádky {Obersten einer Besatzung}
+- typ: odstavec
+  de: |-
+    ITem der Oberst soll alle nacht die Bolleten vom Hauptmann der denselbigen tag vnter den Pforten Wacht gehalten/wider zu seinen handen nemen.
+  cs: |-
+    Dále plukovník má každou noc převzít zpět do svých rukou propustky {Bolleten} od hejtmana {Hauptmann}, který toho dne držel stráž v branách.
+- typ: odstavec
+  de: |-
+    Item man sol keyn frembden weder tag noch nacht ins Schloß oder Besatzung lassen/sonder alle vrsachen ausserthalben abfertigen.
+  cs: |-
+    Dále do hradu nebo posádky se nemá ve dne ani v noci pouštět žádný cizí člověk, nýbrž všechny záležitosti se s ním mají vyřídit venku.
+- typ: odstavec
+  de: |-
+    Begebe es sich aber/daß man jemandts hinein müßt lassen/soll man das pferde von jhm nemen/vnd das einem beuehlen der es versorg/vnnd den gast in ein gemach führen/darinnen er biß er gefertigt/bleibe/damit er das Schloß oder der Besatzung wehren vnnd gebrauch nicht sehen vnnd erkündigen möge/darnach soll man jhn so er gefertigt/den nächsten wider hinauß führen.
+  cs: |-
+    Kdyby se však stalo, že by bylo nutné někoho vpustit dovnitř, má se mu vzít kůň a svěřit někomu, kdo se o něj postará, a host se má odvést do místnosti, kde zůstane, dokud nebude vyřízen, aby neviděl a nevyzvěděl obranu hradu či posádky a její zařízení; a jakmile je vyřízen, má se nejkratší cestou zase vyvést ven.
+- typ: odstavec
+  de: |-
+    Item der Oberst soll sich nit lassen dawren kundtschafft zůlegen/ins Feldt vnd Besatzung/damit er erfare/so sich der feind samlet/vnnd im anziehen ist/wie starck er zu Roß vnd zu Fůß sey/was rüstung er von geschütz bring/vnnd alles anders so von nöhten zůwissen.
+  cs: |-
+    Dále plukovník nemá litovat nákladů na zvědy {kundtschafft} do pole i v posádce, aby se dozvěděl, když se nepřítel shromažďuje a táhne, jak je silný na koni i pěšky, jakou výzbroj děl {geschütz} s sebou veze, a vše ostatní, co je třeba vědět.
+- typ: odstavec
+  de: |-
+    Item so er belägert/oder daruor im anziehen ist/leuth bestellen/denen man ins Feldt vnd Besatzung grosse gaben versprechen thů/ob sie möchten der feind Arckelley vnd Puluer/oder wo die Reuter in Flecken oder heusern gelegt/das Läger anzünden vnd verbrennen.
+  cs: |-
+    Dále, když je obležen nebo když nepřítel teprve táhne k obležení, má najmout lidi, jimž se za [výpravu] do pole slíbí v posádce velké odměny, aby se pokusili zapálit a spálit nepřátelům dělostřelectvo {Arckelley} a střelný prach, nebo ležení {Läger} tam, kde jsou jezdci ubytováni ve vsích či domech.
+- typ: odstavec
+  de: |-
+    Item etliche auff den Scharmützel verordnen/fleiß fürwenden/ob man etlich ins Feld vnnd Besatzung fahen vnd niderwerffen mög/bey denen man sich erfaren/wie es vmb der feind sachen stehe/ob nicht vnwillen vnd meutereyen vnter jnen/Item mangel an Prouant/vnd an bezalung sey/Item was sonst für ein geschrey vnd trost im Läger sey/Item ob das Kriegßvolck ein gůten trost hab die Besatzung zůgewinnen/oder ob sie daran zweyfelhafftig seyen.
+  cs: |-
+    Dále určit některé na šarvátky a vynaložit úsilí, aby se v poli podařilo několik [nepřátel] zajmout, přemoci a přivést do posádky. Od nich se lze dozvědět, jak to s nepřítelem vypadá: zda mezi nimi není nevole a vzpoury; dále zda nemají nedostatek proviantu {Prouant} a placení; dále jaké zvěsti a jaká nálada jinak panují v ležení; dále zda má válečný lid {Kriegßvolck} dobrou naději, že posádku dobude, nebo zda o tom pochybuje.
+- typ: odstavec
+  de: Item mit was rüstung sich die feind zum Stürmen verfassen vnd rüsten.
+  cs: |-
+    Dále [zjistit], jakými prostředky se nepřátelé chystají a vyzbrojují k útoku.
+- typ: odstavec
+  de: |-
+    Item an welchem ort im Läger der Oberst oder Kriegßherr sein Läger vnd Losament habe/vnd alles dergleichen soll man eygentlich erkündigen.
+  cs: |-
+    Dále [zjistit], na kterém místě v ležení má [nepřátelský] plukovník nebo válečný pán {Kriegßherr} své stanoviště a ubytování {Losament}; to vše a podobné věci se má přesně vyzvědět.
+- typ: odstavec
+  de: |-
+    Solche gefangne/so sie sagen das man gern hört/soll man die sachen vnter das Kriegßvolck erschellen vnnd kommen lassen/wo aber das widerspil/soll man den gefangnen verbieten/dauon nicht meldung zůthůn/Man soll auch zu den gefangnen vertrawte personen verordnen vnd sie nit allein lassen.
+  cs: |-
+    Řeknou-li takoví zajatci něco, co se rádo slyší, má se to nechat rozhlásit a dostat mezi válečný lid; je-li tomu naopak, má se zajatcům zakázat, aby o tom mluvili. K zajatcům se mají také přidělit důvěryhodné osoby a nemají se nechávat o samotě.
+- typ: odstavec
+  de: |-
+    So dann die Besatzung wol gefasset vnd behertzt/mag es nit schaden/daß man vor den gefangnen oder sonst gesandten nichts heel halte/sondern sie alle ding besichtigen lasse/darob empfacht der feind/so er erfehrt daß die sachen so wol versehen/vnd das volck der Besatzung so behertzt vnd vnerschrocken/ein entsetzen.
+  cs: |-
+    Je-li pak posádka dobře připravena a odhodlána, nemůže uškodit, když se před zajatci nebo jinými posly nic netají a nechá se jim všechno prohlédnout. Nepřítel se totiž zděsí, když se dozví, že je všechno tak dobře zaopatřeno a lid v posádce tak odvážný a neohrožený.

@@ -1,0 +1,38 @@
+id: 122r
+list: CXXII
+strana: recto
+sken: 251
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Gefangne.
+  cs: Zajatci
+- typ: odstavec
+  de: |-
+    DJe gefangne im Krieg selten tödten/sonder abwechßlen/die von hohen stammen seind vnnd reicher haab/nach gelenheyt der sachen die Knecht Rantzieren lassen/oder selbs von jhn lösen/ehrlich nach jhrer würde halten oder ledig lassen/Die gemeyne vnd arme etwann zu Stätt Bürgern/oder Feldbaw gnedig behalten.
+  cs: |-
+    Zajatce ve válce [má] zřídka zabíjet, nýbrž je vyměňovat; ty, kdo jsou z vysokého rodu a bohatého jmění, má podle okolností nechat knechty {Knecht} vykoupit {Rantzieren}, nebo je od nich sám vykoupit, a se ctí je držet podle jejich hodnosti, nebo je propustit na svobodu; obyčejné a chudé má někdy milostivě ponechat jako měšťany ve městech nebo při obdělávání polí.
+- typ: nadpis
+  uroven: 2
+  de: Endliche Summ deß Sigs.
+  cs: Závěrečné shrnutí o vítězství
+- typ: odstavec
+  de: |-
+    EJn jeden nach seiner würde vnd verdienst/mit Goldt/Harnisch/Schwerdt/pferd/vnd ringen begaben/auch noch mehr hoffnung machen/zun gaben vnnd ergetzung.
+  cs: |-
+    Každého má podle jeho hodnosti a zásluh obdarovat zlatem, zbrojí, mečem, koněm a prsteny a dát mu naději na další dary a odměny.
+- typ: odstavec
+  de: |-
+    Item die vmb gnad bitten/was würde oder Standts sie jmmer sein mögen/vorab so sie jhm nicht sehr haben schaden mögen oder wöllen/soll er mit Fürstlicher miltigkeyt auffnemen vnnd hulden/die Rach ist Gottes/welche er durch seinen vnergründlichen Rathschlag mit seinem werckzeug übt vber wen er wil/sey jm danckbar/damit er den mißbrauchten vnnützen werckzeug/nicht auch etwa in das Fewer seines erschröcklichen/vnentweichlichen zorns vnersehenlich stürtze/verhůte nach gewunner Schlacht/brannt vnd andere wütende verheerung vnd Thierische grimmigkeyt/er soll senfft vnnd barmhertzig sich freunden vnnd feinden beweisen/Alte leuth/Witfrawen/gemählete Jungfrawen/weysen vnnd armen/die gelehrten vorab/Lehrer vnnd Prediger/vor allem leyd bewaren/Alle Bücher vnnd Kirchenzier eins jeden Glaubens in sicherer gewarsamkeyt verhůten/seine sinn/Hertz/Augen/hend vnd füß/vor allerley raub vnnd vnkeuschheyt/reyn vnnd vnbefleckt bewaren/Den armen Fürstlich schencken/sich allein deß Herrlichen lobreichen Sigs ersettigen lassen/vnnd auffs kürtzest mit dem gantzen hellen hauffen/mit allen Landen vnnd Leuthen/dem Allmechtigen Gott/vnserm Himmlischen Herrn vnd Vatter darumb ehr geben/preiß/lob vnd danck sagen/von grund eins andechtigen hertzens/jhn auch auffs fleissigst bitten/durch seine grundlose gnad vnd barmhertzigkeyt/im Namen Jhesu Christi vnsers eynigen Heylandts vnnd mitlers/seines allerliebsten vnnd eingebornen Sohns/daß er ferrer seinen heyligen Bund deß Newen vnnd ewigen Testaments/an jhme vnnd den seinen nicht brechen/sondern an seinen Creaturen leysten/seine Landt vnd Leuth/sampt Geystlicher vnd jrdischer narung in seinem heyligen fried/wort vnnd schirm allzeit erhalten wölle/endlich auch allen geben/die ewige freud vnd säligkeyt.
+  cs: |-
+    Dále ty, kdo prosí o milost, ať jsou jakékoli hodnosti nebo stavu, zvláště nemohli-li nebo nechtěli-li mu příliš škodit, má s knížecí mírností přijmout a omilostnit. Pomsta patří Bohu, který ji svou nevyzpytatelnou radou vykonává skrze svůj nástroj, nad kým chce; [kníže] mu má být vděčný, aby ho jako zneužitý a neužitečný nástroj nenadále nesvrhl také do ohně svého strašlivého a neuniknutelného hněvu. Po vyhrané bitvě se má vyvarovat požárů a jiného zběsilého pustošení i zvířecí krutosti a má se ukázat mírným a milosrdným k přátelům i nepřátelům. Staré lidi, vdovy, zasnoubené panny, sirotky a chudé, a zvláště učence, učitele a kazatele, má chránit před každým utrpením; všechny knihy a kostelní ozdoby každého vyznání má dát bezpečně opatrovat. Své smysly, srdce, oči, ruce i nohy má zachovat čisté a neposkvrněné od jakékoli loupeže a necudnosti. Chudé má knížecky obdarovat, sám se má spokojit jen se slavným a chvályhodným vítězstvím a co nejdříve má s celým houfem {hellen hauffen}, se všemi zeměmi a lidmi, za ně vzdát čest Všemohoucímu Bohu, našemu nebeskému Pánu a Otci, a ze dna zbožného srdce mu vzdávat chválu, slávu a díky. Má ho také co nejpilněji prosit pro jeho bezednou milost a milosrdenství, ve jménu Ježíše Krista, našeho jediného Spasitele a Prostředníka, jeho nejmilejšího a jednorozeného Syna, aby svou svatou smlouvu Nového a věčného zákona na něm a jeho lidech nadále nerušil, nýbrž ji na svých tvorech plnil, jeho zemi a lid i s duchovním a pozemským pokrmem vždy zachovával ve svém svatém pokoji, slovu a ochraně a nakonec všem dal věčnou radost a spásu.
+- typ: nadpis
+  uroven: 2
+  de: Vrlaub.
+  cs: Propuštění [vojska]
+- typ: odstavec
+  de: |-
+    ZVm ende soll sich ein frommer Fürst/vor allem argwon der vndanckbarkeyt eusseren/den gantzen hellen hauffen zusammen berůffen/einem jeden vom höchsten an biß zum gemeynen Mann/seiner trew vnnd Ritterlichen thaten/seines
+  cs: |-
+    Nakonec se má řádný kníže vyvarovat jakéhokoli podezření z nevděčnosti, svolat celý houf {hellen hauffen} a každého, od nejvyššího až po prostého muže, za jeho věrnost a rytířské činy, za jeho

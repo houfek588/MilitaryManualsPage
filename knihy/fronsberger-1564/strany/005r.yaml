@@ -1,0 +1,52 @@
+id: 005r
+list: V
+strana: recto
+sken: 17
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    erfordert vnd braucht/mit fleiß berathschlagen/welcher massen sie jhr fürnemen dem Kriegßherrn zu gůt/vnd dem Feind zu nachtheyl fürzunemen vnnd anzustellen/Dieweil aber dasselbig fürnemlich/auch zu mehrerm theyl die ämpter vnnd Befelch mit jhnen bringen werden/ist solchs jetzt zumelden vnd zuerzelen vnnötig.
+  cs: |-
+    povolá a použije, pilně radit, jak mají své záměry podnikat a zařizovat k dobru válečného pána a ke škodě nepřítele. Protože to však především a z větší části přinesou s sebou jednotlivé úřady a funkce, není třeba to nyní uvádět a vypočítávat.
+- typ: odstavec
+  de: |-
+    Sie sollen aber auch jhren Standt als Musterherrn vertretten/daß man ein Kriegßmann vor einem Bawrenknecht erkennen könne.
+  cs: |-
+    Mají však také jako přehlídkoví komisaři {Musterherrn} zastávat svůj úřad tak, aby se dal rozeznat válečník od selského pacholka.
+- typ: odstavec
+  de: |-
+    Sie sollen das Kriegßuolck mustern/auch nach der Musterung bey dem abzelen sein/mit rath vnd anzeygung der Obersten vnd Hauptleuth/die doppel vnd ober söld/wo sie es für gůt ansicht/verordnen vnd außtheylen.
+  cs: |-
+    Mají provádět přehlídku {mustern} válečného lidu a po přehlídce být také u odpočítávání [žoldu] a s radou a podle udání plukovníků {Obersten} a hejtmanů {Hauptleuth} určovat a rozdělovat dvojité a zvýšené žoldy, kde to uznají za dobré.
+- typ: odstavec
+  de: |-
+    Vonnöten ist daß sie auch trutzig vnd verstendig seyen/den finantzen so man in musterungen pflegt zugebrauchen/wissen mit geschickligkeyt zubegegnen/dann sie müssen offt seltzam schnöde rachtungen von Hauptleuthen/Fänderichen/Toppelsöldnern vnd anderen auffnemen/darzů wo ein Musterherr nit getrew/so wird nicht allein der Herr vmb das Gelt/sonder auch das Kriegßuolck betrogen/dann es begibt sich offt/daß die Hauptleuth vil Namen in Registern/aber wenig Knecht vnter den Fändlin haben/dardurch der Herr nicht allein vmb das Gelt betrogen wird/sonder auch darüber vmb sein land/leuth vnd leben kommen mag.
+  cs: |-
+    Je nutné, aby byli také neohrožení a rozumní a dovedli obratně čelit fintám {finantzen}[^1], jichž se při přehlídkách obvykle užívá; často totiž musejí od hejtmanů, praporečníků {Fänderichen}, dvojžoldnéřů {Toppelsöldnern} a jiných snášet podivné a nestoudné smlouvání[^2]. Navíc, není-li přehlídkový komisař věrný, je ošizen nejen pán o peníze, ale podveden je i válečný lid. Často se totiž stává, že hejtmani mají v rejstřících mnoho jmen, ale pod praporci {Fändlin} málo knechtů, čímž je pán nejen připraven o peníze, ale může přitom přijít i o zemi, lid a život.
+- typ: odstavec
+  de: |-
+    So die Musterherrn ein Fändlin gemustert haben/sollen sie dasselbig alsbald lassen lauter abschreiben/darein keyn Nam dann der gůt gemachten Knecht geschrieben werden soll/desselbigen Registers sollen sie Copie vnd abschrifft behalten/vnd das ander diser abschrifft gleich sollen sie lauter abgeschrieben/mit jhren händen vnderschrieben vnnd bittschieren verfertigt/dem Hauptmann zustellen/der bringt es dann dem Pfennigmeyster/der weyß jhn darauff zubezalen/behelt auch dasselbig Register/Damit er es in seiner rechnung sampt des Hauptmanns quittung könde einlegen/der Hauptmann soll auch desselbigen Registers abschrifft behalten/damit er in nächster Musterung hernach sich desselbigen gebrauchen möge.
+  cs: |-
+    Když přehlídkoví komisaři provedou přehlídku praporce, mají jej ihned nechat načisto opsat [do rejstříku], do něhož se nesmí zapsat žádné jiné jméno než jména knechtů uznaných za způsobilé. Kopii a opis tohoto rejstříku si mají ponechat a druhý, s tímto opisem shodný, nechat načisto opsat, vlastnoručně podepsat, zpečetit a takto vyhotovený odevzdat hejtmanovi. Ten jej pak přinese pokladníkovi {Pfennigmeyster}, který ho podle něho vyplatí a rejstřík si také ponechá, aby jej mohl přiložit ke svému vyúčtování spolu s hejtmanovou kvitancí. Opis téhož rejstříku si má ponechat i hejtman, aby ho mohl použít při příští přehlídce.
+- typ: nadpis
+  uroven: 3
+  de: Der Kriegßräth vnd Musterherren Eydt.
+  cs: Přísaha {Eydt} válečných radů a přehlídkových komisařů
+- typ: odstavec
+  de: |-
+    DAß sie N. Monat so sie von N. zu Kriegßräthen vnnd Musterherren bestellt/getrewlich dienen/schaden warnen/nutz schaffen vnd fördern/dem Obersten in allen zimlichen vnd billichen dingen gefellig vnnd gehorsam sein/in rathen vnd sonst/jhrem höchsten vermögen vnd verstandt nach/deß Kriegßherren nutz vnd wolfart bedencken/das best sie mögen vnd verstehen rathen vnnd vollbringen helffen/auch in Musterungen souil jhnen müglich/damit der Kriegßherr mit vnzimlichen Sölden/andern finantzen vnnd betrügen nicht verfortheylt vnnd betrogen werde/daruor sein wollen/daß sie auch die namen der Knecht/so sie in jeder Musterung haben gůt gemacht/mit jhren Sölden dem Pfennigmeyster vnd seinem Gegenschreiber/
+  cs: |-
+    Že po N. měsíců, na které je N. ustanovil za válečné rady {Kriegßräthen} a přehlídkové komisaře, budou věrně sloužit, před škodou varovat, užitek obstarávat a podporovat, nejvyššímu [hejtmanovi] budou ve všech slušných a náležitých věcech vyhovovat a poslouchat ho, v radě i jinak podle svých největších sil a rozumu budou mít na mysli užitek a blaho válečného pána {Kriegßherren}, budou radit to nejlepší, co mohou a dovedou, a pomáhat to uskutečnit; také že při přehlídkách budou, seč jsou, bránit tomu, aby válečný pán nebyl zkracován a podváděn nenáležitými žoldy, jinými fintami a podvody; a že jména knechtů, které při každé přehlídce uznali za způsobilé, spolu s jejich žoldy pokladníkovi {Pfennigmeyster} a jeho protipísaři {Gegenschreiber}[^3]
+poznamky:
+- n: 1
+  text: >-
+    Finantz – v 16. století „lest, podvodná finta, lichva“. Při přehlídkách šlo hlavně o falešné nebo vypůjčené
+    muže (tzv. „slepé“ knechty) a o zbraně a zbroj půjčované jen na dobu přehlídky.
+- n: 2
+  text: >-
+    Rachtung = narovnání, dohoda; míněno je zřejmě smlouvání a nabídky, jimiž se velitelé snažili přehlídkové
+    komisaře přimět ke shovívavosti.
+- n: 3
+  text: Gegenschreiber – kontrolní písař, který vedl druhý, kontrolní záznam o příjmech a výdajích pokladny.

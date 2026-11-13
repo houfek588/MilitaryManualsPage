@@ -1,0 +1,89 @@
+id: 106v
+list: CVI
+strana: verso
+sken: 220
+stav: zkontrolovano
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - Auff der mawr dein Handhacken geschütz/
+  - Treibs von jhrn stenden bringt dir nutz.
+  - Hab all deins zeugs selber gůt acht/
+  - Das leytern nicht zukurtz gemacht
+  - Werden/damit versaumpt würd vil/
+  - Kost leuth vnd gůt/wers mercken wil.
+  - Gibt dir nun Gott die gnad deß sigs/
+  - Daß du im stürmen obe ligst/
+  - Vnd gwaltig würst Schloß oder Statt/
+  - Wer da nicht weerhafft in der that
+  - Erwürget wird/deß thů verschonen/
+  - Es sey Weib/Kinder/oder Mannen/
+  - Vergeuß nicht vnschuldiges Blůt/
+  - Dann es bringt je gar selten gůt.
+  - Gewinst eim das sein mit gwalt an/
+  - Dem mach ein anders vnderthan/
+  - Dann wo erbarmung scheint bey Gwalt/
+  - Deß lob vnd Ehr wird gwönlich alt.
+  - Jm allen dingen Gott gib die Ehr/
+  - Von dem kompt glück vnd der Sig her.
+  - Jch hett noch vil vom Krieg zuschreiben/
+  - Wil solches dißmal lassen bleiben.
+  cs:
+  - Svými ručními hákovnicemi {Handhacken}
+  - je zažeň z jejich stanovišť na hradbách, to ti prospěje.
+  - Na všechnu svou výzbroj {zeugs} sám dobře dohlédni,
+  - aby žebříky nebyly zhotoveny příliš krátké,
+  - čímž by se mnoho zmeškalo
+  - a stálo by to lidi i statky, kdo to chce uvážit.
+  - Dá-li ti pak Bůh milost vítězství,
+  - že při útoku zvítězíš
+  - a zmocníš se hradu nebo města,
+  - kdo se tam doopravdy nebrání
+  - a měl by být zabit, toho ušetři,
+  - ať je to žena, dítě nebo muž.
+  - Neprolévej nevinnou krev,
+  - neboť to věru jen zřídka přinese dobro.
+  - Získáš-li na někom násilím, co je jeho,
+  - dej mu do moci něco jiného,[^1]
+  - neboť kde se při moci ukáže slitování,
+  - tomu chvála a čest obvykle dlouho vydrží.
+  - Ve všech věcech vzdávej čest Bohu,
+  - od něhož přichází štěstí i vítězství.
+  - Měl bych o válce ještě mnoho psát,
+  - pro tentokrát to však nechám být.
+- typ: nadpis
+  uroven: 3
+  de: Exempel der Alten zu folgen.
+  cs: Příklady starých k následování
+- typ: verse
+  de:
+  - DAnn eins das rath ich dir mit trewen/
+  - Folgst du mir wird dich nit gerewen.
+  - Mit fleiß so liß der Alten that/
+  - Jhr Mannlich handlung/ehr vnd stat/
+  - Damit sie jhn vnd jhrem stammen
+  - Haben gestifft ewigen namen/
+  - Jhr herrlicheyt vnd gschlecht geziert/
+  - Daß jhr nicht mehr vergessen wird.
+  - Den folge nach/das ist mein Lehr/
+  - So wechßt dein lob/glück/sig vnd ehr.
+  - Homerus zeygt vns schrifftlich an
+  - Wie daß der hochberümbt Hauptmann
+  cs:
+  - Ještě jedno ti však věrně radím,
+  - 'a uposlechneš-li mě, nebudeš litovat:'
+  - pilně čti o činech starých,
+  - o jejich mužných skutcích, cti a postavení,
+  - jimiž sobě i svému rodu
+  - založili věčné jméno
+  - a ozdobili svou slávu i pokolení,
+  - takže na ně už nebude zapomenuto.
+  - Je následuj, to je mé poučení,
+  - tak poroste tvá chvála, štěstí, vítězství i čest.
+  - Homér {Homerus} nám v písmu ukazuje,
+  - jak přeslavný hejtman
+poznamky:
+- n: 1
+  text: |-
+    Doslova „tomu učiň poddaným něco jiného“ – tj. odškodni ho jiným statkem (nebo: „učiň ho poddaným jinak“, tj. vlídně). Výklad nejistý; souvisí s následujícím veršem o slitování.

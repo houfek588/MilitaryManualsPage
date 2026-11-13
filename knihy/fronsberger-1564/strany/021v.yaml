@@ -1,0 +1,55 @@
+id: 021v
+list: XXI
+strana: verso
+sken: 50
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wol versorgt vnd verwart/mit sampt jhrer zugehörung/als brücken/thillen/hondten oder binnen/latten/sparren höltzern/auch nägel/seylern vnnd ketten/dann wo man vber wasser zeucht/so můß solche brücken grossen gewalt vnd last tragen vnnd leiden/vom geschütz so darüber geführt wird/dergleichen von dem Reysigen Zeug vnd Fůßvolck/auch anders mehr/so darüber geführt/welches alles ohn noth ist vmb der länge zuerzelen.
+  cs: |-
+    mají být dobře opatřeny a ošetřeny i se svým příslušenstvím, totiž s mostovinou, fošnami {thillen}, podlážkami {hondten oder binnen}[^1], latěmi, krokvovým dřevem, také s hřeby, lany a řetězy. Kde se totiž táhne přes vodu, musí takový most nést a snášet velkou sílu a tíhu – děl {geschütz}, která se přes něj vezou, a stejně tak jízdy {Reysigen Zeug} a pěchoty {Fůßvolck} i mnoha jiných věcí, které se přes něj převážejí; to vše je však zbytečné kvůli délce vypočítávat.
+- typ: odstavec
+  de: |-
+    Dieweil dann souil Schiff vonnöten/so gehört vnd erfordert ein jeglich Schiff/sampt seiner zugehörung ein eygen Wagen/vnd jegklicher Wagen zu dem wenigsten vier pferdt/ein Fůrmann/vnnd allwegen zu zweyen Wägen ein handtknecht ohn die Zimmerleuth/ohn was täglich darauff geht/darauß dann leichtlich ist abzunemen vnd zurechnen/was ein solche Schiff brück ein Monat kostet zuerhalten.
+  cs: |-
+    Protože je tedy třeba tolika lodí, potřebuje každá loď i se svým příslušenstvím vlastní vůz a každý vůz nejméně čtyři koně a jednoho vozku a vždy na dva vozy jednoho pomocníka {handtknecht} – nepočítaje tesaře a to, co se na to denně spotřebuje. Z toho lze snadno odvodit a spočítat, kolik stojí udržování takového lodního mostu {Schiff brück} za měsíc.
+- typ: odstavec
+  de: |-
+    Item dieser obgemelten Schiff eins soll zum wenigsten siben oder acht schůch breyt/sechtzehen oder achtzehen lang sein/vnd ein jegliche binne oder thillen so darauff gehört/soll sein so breyt als das Schiff ist/vnnd an der länge haben zehen oder zwölff schůch/Die Wägen darauff man solliche Brücken fürt/seind gleich wie ander Kantzwägen/dann daß die Kipffblöck hinden vnnd vornen mit gůten starcken Spauchen oder Stützen/doch daß die höher dann die Reder seind/vnd starck Zwerchlatten/darauff die Binne oder Thillen raum gnůg hat zuliegen/darnach das Schiff oben darauff/das soll vmbgestürtzt sein/damit der rägen vnd wasser im ziehen/vnd sonst vberab scheußt.
+  cs: |-
+    Dále má být každá z těchto zmíněných lodí nejméně sedm nebo osm stop {schůch}[^2] široká a šestnáct nebo osmnáct [stop] dlouhá. Každé prkno {binne} či fošna, která k ní patří, má být tak široká, jak široká je loď, a na délku mít deset nebo dvanáct stop. Vozy, na nichž se takové mosty vezou, jsou jako jiné převozní vozy {Kantzwägen}, až na to, že mají vzadu i vpředu na klanicích {Kipffblöck} dobré silné vzpěry {Spauchen} či podpěry, a to vyšší než kola, a silné příčné latě, na nichž mají prkna či fošny dost místa, aby ležely. Na ně se nahoru položí loď, a to dnem vzhůru, aby z ní za jízdy i jindy stékal déšť a voda.
+- typ: odstavec
+  de: |-
+    Es wer auch gůt/daß man in ein Feldtzug mit neme/vnnd fůrte etlich Mülen/als Roß/Windt/zug vnd treyb/oder ander Mülwerck/dann es begibt sich viel vnnd offt/daß etwann mangel an der Prouandt/vnd die Mülen durch die Feind verbrennet/zerrissen vnnd verderbt werden/dermassen/daß man nicht mahlen kan/oder das wasser gefroren/vnd sunst mangel daran ist. Derhalben kommen solliche Mühlen etwann zu gůten statten/dann man kan solche Feldtmühlen auff eim Wagen wohl führen/vnd darneben nichts deßminder mahlen im ziehen/führen oder still ligen/etc.
+  cs: |-
+    Bylo by také dobré vzít a vézt s sebou na tažení {Feldtzug} několik mlýnů, totiž koňských, větrných, tažných a hnaných[^3], nebo jiné mlýnské zařízení. Často se totiž stává, že je nedostatek proviantu {Prouandt} a mlýny jsou nepřítelem spáleny, rozbity a zničeny tak, že se nedá mlít, nebo že voda zamrzne či je jí jinak nedostatek. Proto takové mlýny někdy přijdou vhod, neboť takové polní mlýny lze dobře vézt na voze a přesto mlít na pochodu, za jízdy i v klidu atd.
+- typ: odstavec
+  de: |-
+    Item es wer auch gůt/daß man mitfürte vnd neme etlich Bachöfen/wie dann jetzt gebreuchlich die werden von Kupffer gemacht/deren man dann ein auff eim wagen wol führen kan/vnd im zug oder führen nicht deßtweniger hitzen vnd bachen/derhalben solche Bachöfen einem hauffen zu gůten statten kommen. Solche form oder munier der Bachöfen kommen auß Sachsen her.
+  cs: |-
+    Dále by bylo také dobré vézt a vzít s sebou několik pecí na pečení; ty se nyní, jak je zvykem, dělají z mědi a jednu z nich lze dobře vézt na voze a přesto na pochodu či za jízdy topit a péct. Proto takové pece přijdou houfu velmi vhod. Tento tvar či způsob pecí pochází ze Saska.
+- typ: nadpis
+  uroven: 2
+  de: Welcher massen die Büchsen besetzt werden sollen.
+  cs: Jak se mají děla {Büchsen} obsadit
+- typ: odstavec
+  de: |-
+    ITem es ist von nöhten/daß man zu allen stücken so Mawrbrächern seind/zu jedem zwen Büchsenmeyster habe/damit dieselbigen ein schuß/oder ein tag vmb den andern schiessen/auch ist gůt/ob der ein kranck/geschossen/oder sonst presthafft würde/daß der ander schieß/dann dem Herren steht grosser schaden darauff so das geschütz feiren můß.
+  cs: |-
+    Dále je nutné mít ke všem kusům, které jsou bořiči hradeb {Mawrbrächern}, ke každému dva puškaře {Büchsenmeyster}, aby stříleli střídavě po jedné ráně nebo po jednom dni. Také je dobré, aby – kdyby jeden onemocněl, byl postřelen nebo jinak stižen – střílel ten druhý; pánovi totiž hrozí velká škoda, musí-li dělo zahálet.
+- typ: odstavec
+  de: |-
+    Gleicher gestalt soll es mit den Bölern/ob deren im Feldtzug mit gefürt werden/mit besatzung derselbigen gehalten werden.
+  cs: |-
+    Stejně se má postupovat i při obsazování moždířů {Bölern}, vezou-li se na tažení.
+poznamky:
+- n: 1
+  text: |-
+    „hondten oder binnen“ – podlahová prkna mostovky (Bühne); čtení „hondten“ (ve skenu snad i „bondten“) i význam nejisté.
+- n: 2
+  text: Schuh – stopa, asi 30 cm.
+- n: 3
+  text: |-
+    Mlýny poháněné koňmi, větrem, tahem (patrně šlapáním či rumpálem) a pohonem (snad převodem od kol vozu – srov. mletí „im ziehen“); výklad posledních dvou druhů nejistý.

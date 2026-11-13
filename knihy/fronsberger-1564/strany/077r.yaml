@@ -1,0 +1,74 @@
+id: 077r
+list: LXXVII
+strana: recto
+sken: 161
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Wiewol bey den alten gebreuchlich gewesen/daß sie jhre Schlachtordnungen gespitzt/oder in dreyangel gemacht haben/also daß etwann im ersten glid siben Mann/im anderen acht/im dritten neun/im vierdten zehen/also fort an/biß auff den halben theyl der Ordnung vnnd hauffen/darnach seind sie durchauß geuiert gemacht worden/vnd jre Fanen oder Paner eingefürt/wie gebreuchlich
+  cs: |-
+    Ačkoli bývalo u starých zvykem stavět bitevní šiky {Schlachtordnungen} do špice čili do trojúhelníku, takže v první řadě {glid} bylo třeba sedm mužů, ve druhé osm, ve třetí devět, ve čtvrté deset a tak dále až do poloviny šiku a houfu; odtud byly stavěny zcela čtvercově a byly do nich zařazeny jejich korouhve {Fanen} či prapory {Paner}, jak bylo zvykem.
+- typ: odstavec
+  de: |-
+    Dergleichen seind solche Ordnungen noch auff ein andern weg zumachen/also daß im ersten glid etwann neun Mann/im anderen eilff/im dritten dreitzehen/also fortan biß auff den halben theyl hinein/die Ordnung hernach durchauß geuiert/vnd jhre Fanen vnnd Paner eingefürt vnnd geordnet/wie vorgemelt/wiewol solcher gebrauch nimmer/sondern werden auch fast geuiert wie der Fůßknecht Ordnung gemacht.
+  cs: |-
+    Takové šiky lze stavět ještě jiným způsobem, totiž tak, že v první řadě je třeba devět mužů, ve druhé jedenáct, ve třetí třináct a tak dále až do poloviny; dále je šik zcela čtvercový a korouhve a prapory se do něj zařadí a rozmístí, jak bylo řečeno výše. Tento zvyk se však už neužívá, nýbrž [jízdní šiky] se rovněž stavějí téměř čtvercové jako šik pěších knechtů {Fůßknecht}.
+- typ: seznam
+  de:
+  - |-
+    Item 109. Mann/So man die in ein geuierte Schlachtordnung wil bringen/so kommen 10. Mann in ein glid/gehet gleich auff.
+  - |-
+    Item 150. Mann/so man die in ein geuierte Schlachtordnung bringen wil/So kommen 12. Mann in ein glid/bleiben 6. Mann vber.
+  - |-
+    Item 200. Mann/so man die in ein geuierte Schlachtordnung bringen wil/so kommen 14. Mann in ein glid/bleiben 4. Mann vber.
+  - |-
+    Item 250. Mann/so man die in ein geuierte Schlachtordnung wil bringen/so kommen 15. Mann in ein glid/bleiben 25. Mann vber.
+  - |-
+    Item 300. Mann/so man die in ein geuierte Schlachtordnung wil bringen/so kommen 17. Mann in ein glid/bleiben 11. Mann vber.
+  - |-
+    Item 350. Mann/so man die in ein geuierte Schlachtordnung bringen wil/so kommen 18. Mann in ein glid/bleiben 26. Mann vber.
+  - |-
+    Item 400. Mann/so man die in ein geuierte Schlachtordnung wil bringen/So kommen 19. Mann in ein glid/bleiben 39. Mann vber.
+  - |-
+    Item 450. Mann/so man die in ein geuierte Schlachtordnung wil bringen/So kommen 21. Mann in ein glid/bleiben vber 9. Mann.
+  - |-
+    Item 500. Mann/so man die in ein geuierte Schlachtordnung wil bringen/so kommen 22. Mann in ein glid/bleiben vber 16. Mann.
+  - |-
+    Item 550. Mann/so man die in ein geuierte Schlachtordnung wil bringen/So kommen 23. Mann in ein glid/bleiben vber 21. Mann.
+  - |-
+    Item 600. Mann/so man die in ein geuierte Schlachtordnung wil bringen/so kommen 24. Mann in ein glid/bleiben 24. Mann vber.
+  - |-
+    Item 650. Mann/so man die in ein geuierte Schlachtordnung wil bringen/so kommen 28. Mann in ein glid/bleiben 25. Mann vber.
+  cs:
+  - |-
+    Dále 109 [správně 100] mužů: má-li se z nich postavit čtvercový bitevní šik {geuierte Schlachtordnung}, připadne do jedné řady {glid} 10 mužů a vyjde to přesně.[^1]
+  - |-
+    Dále 150 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 12 mužů a zbude 6 mužů.
+  - |-
+    Dále 200 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 14 mužů a zbudou 4 muži.
+  - |-
+    Dále 250 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 15 mužů a zbude 25 mužů.
+  - |-
+    Dále 300 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 17 mužů a zbude 11 mužů.
+  - |-
+    Dále 350 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 18 mužů a zbude 26 mužů.
+  - |-
+    Dále 400 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 19 mužů a zbude 39 mužů.[^2]
+  - |-
+    Dále 450 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 21 mužů a zbude 9 mužů.
+  - |-
+    Dále 500 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 22 mužů a zbude 16 mužů.
+  - |-
+    Dále 550 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 23 mužů a zbude 21 mužů.
+  - |-
+    Dále 600 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 24 mužů a zbude 24 mužů.
+  - |-
+    Dále 650 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 28 [správně 25] mužů a zbude 25 mužů.
+poznamky:
+- n: 1
+  text: |-
+    Fronsperger hledá největší čtverec, který lze z daného počtu mužů postavit: kolik mužů v řadě, tolik řad; zbylí muži se zařadí jinam. Všechny údaje na této a následujících stranách byly přepočítány (např. 26 × 26 = 676, 700 − 676 = 24). Zde tisk uvádí 109 mužů, ale 10 × 10 = 100 a „vyjde to přesně“ platí jen pro 100; při 109 mužích by zbylo 9.
+- n: 2
+  text: |-
+    Početně správně (19 × 19 = 361, 361 + 39 = 400), ale 400 = 20 × 20, takže šik by vyšel přesně po 20 mužích v řadě. U 650 mužů tisk chybně uvádí 28 v řadě (28 × 28 = 784); správně 25 × 25 = 625, zbývá 25.

@@ -1,0 +1,68 @@
+id: 032r
+list: XXXII
+strana: recto
+sken: 71
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    orten/zubawen/abzubrechen/gestreb/gefäß/brücken/vnnd was man bedarff zumachen/sich auch etwann im ziehen im vorzug brauchen lassen/weg vnnd steg machen/sonst sollen sie auch auff das groß geschütz warten/bedarff man jhr aller best darbey.
+  cs: |-
+    místech stavět a bourat a dělat vzpěry {gestreb}, lafety {gefäß}, mosty a cokoli je třeba. Mají se také někdy na pochodu dát použít v předvoji {vorzug} a upravovat cesty a lávky; jinak mají být v pohotovosti u velkých děl {geschütz} – tam jich je nejvíce zapotřebí.
+- typ: odstavec
+  de: Der jedem gebürt ein Monat sechs gulden zu Sold.
+  cs: Každému z nich náleží měsíčně šest zlatých {gulden} žoldu {Sold}.
+- typ: odstavec
+  de: |-
+    Es soll auch der Zeugmeyster halten drey Schmid bey der Arckelley/die sollen was noth ist bey dem grossen geschütz machen vnnd beschlagen/sie sollen sich auch im ziehen/bey dem grossen geschütz finden lassen/oder bey deß Zeugmeysters Schmid Zeugwagen.
+  cs: |-
+    Zbrojmistr {Zeugmeyster} má také vydržovat u dělostřelectva {Arckelley} tři kováře, kteří mají u velkých děl dělat a kovat, co je třeba. Na pochodu se mají také držet u velkých děl nebo u zbrojmistrova kovářského zbrojního vozu {Schmid Zeugwagen}.
+- typ: odstavec
+  de: Der jedes Besoldung ist deß Monats auch sechs gulden.
+  cs: Žold {Besoldung} každého z nich činí měsíčně rovněž šest zlatých.
+- typ: odstavec
+  de: |-
+    Deßgleichen soll bey der Arckelley auch gehalten/vnd mit sechs gulden versöld werden/ein Küffer oder Binder.
+  cs: |-
+    Stejně tak má být u dělostřelectva vydržován a šesti zlatými placen jeden bednář {Küffer oder Binder}.
+- typ: odstavec
+  de: |-
+    Nota es sollen alle Arckelley personen tag vnd nachtwacht/vnd hůt vberhaben vnd vertragen sein/dann sie haben ohn das mehr vnrhů vnnd gefährligkeyt dann ander Kriegßleuth.
+  cs: |-
+    Poznámka: všechny osoby dělostřelectva mají být osvobozeny a ušetřeny denních i nočních stráží a hlídek {hůt}, neboť mají i tak víc neklidu a nebezpečí než jiní válečníci {Kriegßleuth}.
+- typ: nadpis
+  uroven: 2
+  de: Wie man das geschütz vnd andere Munition in Ordnung führen soll.
+  cs: Jak se mají děla a ostatní munice {Munition} vézt v pořádku
+- typ: seznam
+  de:
+  - 'ERstlich zum Rennfänlin in vorzug ein Wagen mit hawen/äxten vnd Schauflen/weg vnd steg damit zubessern/darzu personen wie noth.'
+  - 'Item darnach den Brücken Wagen.'
+  - 'Item darnach den ein Zeugwagen/der ander gehört zum nachzug.'
+  cs:
+  - 'Předně k předvojové korouhvi {Rennfänlin} v předvoji jeden vůz s motykami, sekerami a lopatami, aby se jimi opravovaly cesty a lávky, a k tomu lidé, kolik je třeba.'
+  - 'Dále potom mostní vůz {Brücken Wagen}.'
+  - 'Dále potom jeden zbrojní vůz {Zeugwagen}; druhý patří k zadnímu voji {nachzug}.'
+- typ: odstavec
+  de: |-
+    So dann der vor vnd nachzug mit jhrem Feldtgeschütz/vnd was darzu gehört versehen/So soll dann bey dem gewaltigen hauffen geführt werden wie nachfolgt.
+  cs: |-
+    Když je pak předvoj i zadní voj zaopatřen svými polními děly {Feldtgeschütz} a tím, co k nim patří, má se u hlavního voje {gewaltigen hauffen} vézt toto:
+- typ: seznam
+  de:
+  - 'Erstlich alle Falckonet.'
+  - 'Darnach alle Falckonen.'
+  - 'Item alle Schlangen.'
+  - 'Darnach alle Nothschlangen.'
+  - 'Item darnach ein Wagenzeug mit allerley Kuglen/Puluer/Raumer/Zündtstrick/Puluersecken/vnd aller anderer notturfft/so in der eyl zum Feldtgeschütz zugebrauchen vonnöhten.'
+  - 'Darnach den kleynen Zeugwagen/der den kleynen Zeug führt.'
+  - 'Darnach den grossen Zeugwagen.'
+  cs:
+  - 'Předně všechny falkonety {Falckonet}.'
+  - 'Potom všechny falkony {Falckonen}.'
+  - 'Dále všechny hadovnice {Schlangen}.'
+  - 'Potom všechny nouzové hadovnice {Nothschlangen}.'
+  - 'Dále potom vůz s potřebami {Wagenzeug} se všelijakými koulemi {Kuglen}, prachem {Puluer}, škrabkami {Raumer}, doutnáky {Zündtstrick}, pytlíky na prach {Puluersecken} a se vším ostatním, čeho je narychlo zapotřebí k polním dělům.'
+  - 'Potom malý zbrojní vůz, který veze drobné nářadí {Zeug}.'
+  - 'Potom velký zbrojní vůz.'

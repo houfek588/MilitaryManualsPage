@@ -1,0 +1,48 @@
+id: 114r
+list: CXIIII
+strana: recto
+sken: 235
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    ZV dem Sturm soll er alle nothwendige rüstung bereyt haben/vnnd allweg zur vberhöhung gerüst/der belägerte Statt/gůt/ehr/preiß geben/den Monat sold/laut deß bestellbrieffs/auß vnnd anlassen gehn vnd leysten. Alßdann nach Ritterlicher ermanung/an viel orten mit grossem geschrey/tags/vnnd sonderlich nachts on vnterlaß Stürmen/damit sich der feind nit erholen mög/allzeit die můden vmb frische abwechßlen. Der Statt gebew vnd Zinnen mit Katzen vnnd aller art Instrumenten vberhöhen/für alle wehre vil eingegrabne handror verstecken/auch flitschpfeyl sampt etlichem fewrgeschoß an manchem ort anstellen/vnd wo die Statt an einem orth vester dann am andern/das schwecher belegern/auch nachts mit plitzen vnd dondern auff das krefftigest anlauffen/so werden die jnnerthalb/alle andere orth/so starck seind/verlassen/vnd das schwach vom Sturm zuentschütten zulauffen/Hiezwischen soll er mit bereyttem Steigzeug/als still jmmer müglich die entploßte vestung ersteigen/den Sturmplatz raumen/porten eröffnen/etwan die gräben durch vnterschlagne schacht ersuchen vnd die Rinckmawr stürtzen.
+  cs: |-
+    K útoku má mít připravenu veškerou nezbytnou výzbroj a být vždy přichystán k převýšení [hradeb]. Má [knechtům] dát v plen majetek, čest a kořist obleženého města a podle služebního listu {bestellbrieffs} nechat měsíční žold {Monat sold} skončit, začít nový a vyplatit jej.[^1] Potom, po rytířském povzbuzení, má na mnoha místech s velkým křikem útočit, ve dne a zvláště v noci bez ustání, aby se nepřítel nemohl vzpamatovat, a unavené má vždy střídat čerstvými. Budovy a cimbuří města má převýšit kočkami {Katzen}[^2] a všemi druhy strojů, před všemi obrannými místy má ukrýt mnoho zakopaných ručnic {handror}, na leckterých místech má nachystat šípy {flitschpfeyl} spolu s nějakými zápalnými střelami. A kde je město na jednom místě pevnější než na jiném, má oblehnout to slabší a v noci na ně s blesky a hřměním [střelby] co nejprudčeji udeřit; tu ti uvnitř opustí všechna ostatní místa, která jsou pevná, a sběhnou se, aby slabé místo zachránili před útokem. Mezitím má s připraveným lezeckým nářadím {Steigzeug} co nejtišeji zlézt obnaženou pevnost, vyčistit místo útoku a otevřít brány; případně má podkopanými štolami proniknout k příkopům a strhnout obvodovou hradbu {Rinckmawr}.
+- typ: nadpis
+  uroven: 2
+  de: Von Sprachhaltung.
+  cs: O rozmluvě [s nepřítelem]
+- typ: odstavec
+  de: |-
+    BEgert der Feind sich mit jhm zubesprechen/soll er die jüngste geradneste/auch die elteste in jrem harnisch vnd kleydung gantz Ritterlich gerüst/zu jm nemen/durch die der feind ein verwunderung/entsetzung vnnd ein muster seines gantzen hauffen abnemen mög.
+  cs: |-
+    Žádá-li nepřítel, aby se s ním mohl sejít k rozmluvě, má k sobě vzít ty nejmladší a nejurostlejší a také ty nejstarší [muže], zcela rytířsky vystrojené ve zbroji {harnisch} a oděvu, aby se nad nimi nepřítel podivil, zděsil se a mohl si podle nich udělat obrázek o celém jeho houfu {hauffen}.
+- typ: nadpis
+  uroven: 2
+  de: Von betrüglichem einnemen.
+  cs: O lstivém dobývání
+- typ: odstavec
+  de: |-
+    ER möcht auch etliche vnachtsame aber doch redliche männer/in Kauffsleuth gestalt verstellt/in die Statt schicken/an etlichen orten anzuzünden/die vnbewachte Porten/dieweil er an dem andern orth stürmpt/vnnd die Stättleuth dem Fewer vnd geschrey zulauffen/auff zuhawen/Etwann so sie auff die fütterung ziehen/dieselben erwürgen/vnnd an allen wegschlegen die kundschafft verhalten/jhre kleyder vnd pferde nemen/zu nachts mit der gewonlichen monier vnnd fütterung als freunde einziehen/die porten einnemen/auch etliche Thürn alßbald besetzen/die jnen fürderlich sein möchten/die feinde von jhren eygnen wehren zutreiben/alßdann die Statt mit notwendiger rüstung vberwaltigen.
+  cs: |-
+    Může také poslat do města několik nenápadných,[^3] ale přesto spolehlivých mužů, převlečených za kupce, aby na několika místech založili oheň a nestřežené brány rozsekali, zatímco on útočí na jiném místě a měšťané se sbíhají k ohni a ke křiku. Někdy, když [měšťané] vyjedou pro píci, má je pobít, na všech rozcestích zadržet zprávy, vzít jim šaty a koně, v noci s obvyklými způsoby a s pící vjet [do města] jako přátelé, zmocnit se bran a ihned obsadit i několik věží, které by jim mohly být k užitku, aby nepřátele zahnali z jejich vlastních hradeb; potom má město s potřebnou výzbrojí přemoci.
+- typ: nadpis
+  uroven: 2
+  de: Von den Spähern/verrähtern vnd Feldflüchtigen.
+  cs: O zvědech, zrádcích a zbězích
+- typ: odstavec
+  de: |-
+    EIn trewen listigen Kriegßmann soll er mit seinem eygnen willen am leib peinlich zeychnen/in die Statt schicken/sein Tyranney/als die er geflohen hab/zuschelten. Vnd dieweil er vmb seine Ritterliche thaten solchen vndanck empfangen/wöll er auch denselben rechen oder sterben/jm befelhen daß er mit den stettleuthen offt herauß fall/seine Knecht/so nach seinem geheyß etliche mal mit fleiß weichen sollen/in
+  cs: |-
+    Věrného a lstivého válečníka má s jeho vlastním souhlasem nechat bolestně poznamenat na těle a poslat do města, aby tam hanil jeho [vojevůdcovu] tyranii, před níž prý uprchl. A protože za své rytířské činy sklidil takový nevděk, chce se za něj pomstít, nebo zemřít. Má mu nařídit, aby s měšťany často vyrážel ven a jeho knechty {Knecht}, kteří mají na jeho pokyn několikrát úmyslně ustoupit, zahnal
+poznamky:
+- n: 1
+  text: |-
+    „den Monat sold … auß vnnd anlassen gehn“ – podle lancknechtského zvyku se po zdařilém útoku (bitvě) běžící měsíc žoldu ukončil a začínal nový, takže knechti dostali plný „útočný měsíc“ (Sturmsold) navíc.
+- n: 2
+  text: |-
+    Katze („kočka“) – obléhací stroj: krytá pojízdná stříška nebo vyvýšené postavení (věž, násep) převyšující hradby, odkud se střílí do města.
+- n: 3
+  text: |-
+    vnachtsam – zde „nepovšimnutelný, nenápadný“ (muži, kterých si nikdo nevšimne), ne „neopatrný“.

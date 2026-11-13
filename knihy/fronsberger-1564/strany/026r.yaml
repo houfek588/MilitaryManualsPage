@@ -1,0 +1,63 @@
+id: 026r
+list: XXVI
+strana: recto
+sken: 59
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    MAn bestelt jhn zugleich wie andere Zeugmeyster/nach gelegenheyt deß Herren/aber was dannoch vngefährlich inn einem treffenlichen zug eins Zeugmeysters stath erfordert/wird jetzt gemelt.
+  cs: |-
+    Najímá se stejně jako jiní zbrojmistři {Zeugmeyster}, podle možností pána; co však přece jen přibližně vyžaduje stav {stath} zbrojmistra na významném tažení {zug}, bude nyní uvedeno.
+- typ: seznam
+  de:
+  - 'Eim Zeugmeyster auff sein leib einen Monat hundert gulden.'
+  - 'Item auff sechs gerüster Pferdt vnterhaltung andern Reysigen gleich auch ein Troßpferdt.'
+  - 'Item wo es die notturfft erfordert in frembden Landen ein Tollmätschen zuhalten.'
+  - 'Item jhm sollen gehalten vnd versöldt werden ein Kammer vnnd ein Küchenwagen/mit acht pferden vnd vier personen.'
+  - 'Item ein Koch.'
+  - 'Item Sechs Trabanten.'
+  - 'Item ein Capplon.'
+  - 'Item ein Jungen zu der Fůßknecht rüstung/vnd anderm seinem gebrauch.'
+  - 'Item sein eygen Spil.'
+  - 'Item ein Zeugschreiber.'
+  - 'Item seinen gegenschreiber.'
+  - 'Item ein Pfenningmeyster oder Zeug Zalschreiber.'
+  cs:
+  - 'Zbrojmistrovi na jeho vlastní osobu měsíčně sto zlatých {gulden}.'
+  - 'Dále vydržování na šest zbrojných koní {gerüster Pferdt}[^1] stejně jako ostatním jezdcům {Reysigen} a také jeden kůň pro trén {Troßpferdt}.'
+  - 'Dále, vyžaduje-li to potřeba v cizích zemích, vydržovat [mu] tlumočníka {Tollmätschen}[^2].'
+  - 'Dále se mu mají vydržovat a platit komorní vůz {Kammer}[^3] a kuchyňský vůz {Küchenwagen} s osmi koňmi a čtyřmi osobami.'
+  - 'Dále kuchař.'
+  - 'Dále šest drabantů {Trabanten}.'
+  - 'Dále kaplan {Capplon}.'
+  - 'Dále pachole {Jungen} na pěší zbroj {Fůßknecht rüstung}[^4] a k jiné jeho potřebě.'
+  - 'Dále vlastní hudba {Spil}.'
+  - 'Dále zbrojní písař {Zeugschreiber}.'
+  - 'Dále jeho protipísař {gegenschreiber}.'
+  - 'Dále pokladník {Pfenningmeyster} neboli zbrojní platebník {Zeug Zalschreiber}.'
+- typ: odstavec
+  de: |-
+    Item einen Wundartzet der Arckelley/dem soll ein wagen gehalten werden/darauff er sein Artzney sampt anderer notturfft füren mag/oder man mag vmb weniger kostens willen/jhme sein Werckzeug vnd notturfft auff ander wägen wo es gesein mag/verordnen vnd verwarn/Der Feldtschärer der Arckelley soll ein Knecht halten/die beyde sollen vom Herren vnterhalten werden/also daß sie alle Arckelley personen die von feinden (sonst nit) beschedigt werden/ohn jhren schaden heylen sollen.
+  cs: |-
+    Dále ranhojiče {Wundartzet} dělostřelectva {Arckelley}; tomu se má vydržovat vůz, na němž může vézt své léky a jiné potřeby. Nebo mu lze, aby to stálo méně, jeho nástroje a potřeby uložit a opatrovat na jiných vozech, kde to jde. Ranhojič {Feldtschärer} dělostřelectva má držet pacholka {Knecht}; oba mají být vydržováni pánem, a to tak, že mají všechny osoby dělostřelectva, které byly zraněny nepřítelem (jinak ne), léčit bez nákladů pro ně.
+- typ: odstavec
+  de: |-
+    Item ob beyde Zeugmeysters Schreiber/der Pfenningmeyster vnd Wundartzet jeder zu jhm wolt halten ein gerüst pferd/die in der musterung bestehen mögen/die sollen gehalten werden/dargegen sollen sie im zug mit sampt andern Zeugdienern bey dem Zeug sein/helffen gůt ordnung halten/vnnd sich zu anderer notturfft deß Zeugs gebrauchen lassen.
+  cs: |-
+    Dále, kdyby oba zbrojmistrovi písaři, pokladník a ranhojič chtěli každý držet zbrojného koně, který by obstál při přehlídce {musterung}, má se jim vydržovat. Za to mají být na pochodu spolu s ostatními zbrojními služebníky {Zeugdienern} u dělostřelectva {Zeug}, pomáhat udržovat dobrý pořádek a dát se použít k jiným potřebám dělostřelectva.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Nuh folgt hernach deß Obersten Zeugmeysters freiheyt vnd gerechtigkeyt/wo jhm die durch sonder fürwort in seiner bestallung nit abgestrickt würdet.
+  cs: |-
+    Nyní následují výsady {freiheyt} a práva {gerechtigkeyt} nejvyššího zbrojmistra, pokud mu nejsou zvláštní výhradou v jeho služebním listu {bestallung} odňaty
+poznamky:
+- n: 1
+  text: Gerüstes Pferd – zbrojný kůň, tj. kůň s ozbrojeným jezdcem, na něhož se platí jako na jezdce; srov. 5v.
+- n: 2
+  text: Tollmätsch (Dolmetsch) – tlumočník; slovo je slovanského původu.
+- n: 3
+  text: Kammerwagen – vůz s osobními věcmi velitele (šatstvo, lůžko, pokladnice, písemnosti).
+- n: 4
+  text: Fůßknecht rüstung – patrně zbroj pěšího, kterou zbrojmistr užíval, když šel do boje pěšky; pachole ji nosí a ošetřuje.

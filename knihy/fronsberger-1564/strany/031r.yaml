@@ -1,0 +1,71 @@
+id: 031r
+list: XXXI
+strana: recto
+sken: 69
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    erlaube/es thůt nöhter die Arckelley mit Prouandt zuuersehen/dann ander Kriegßvolck/vrsach/ander Kriegßvolck mag auff die füterung kommen/so die Arckelley Personen bey der Arckelley bleiben/vnd alle stund warten müssen.
+  cs: |-
+    povolit. Zásobovat dělostřelectvo {Arckelley} proviantem {Prouandt} je totiž nutnější než jiný válečný lid {Kriegßvolck}, a to proto, že jiný válečný lid může chodit za pící {füterung}[^1], kdežto osoby dělostřelectva musejí zůstávat u dělostřelectva a být každou hodinu v pohotovosti.
+- typ: odstavec
+  de: |-
+    Item welcher Prouandt in die Arckelley fürt vnnd verkaufft/ehe sie der Profoß schetzt/dem hat sie der Profoß macht zunemen.
+  cs: |-
+    Dále kdo doveze proviant k dělostřelectvu a prodává ho dříve, než ho profous {Profoß} ocení, tomu ho má profous právo zabavit.
+- typ: odstavec
+  de: |-
+    So auch einer mit der Prouand auffschlüge/vnd gebe sie thewrer dann sie geschätzt were/so hat abermals der Profoß macht die Prouand zunemen.
+  cs: |-
+    Stejně tak, kdyby někdo s proviantem zdražoval a prodával ho dráž, než byl oceněn, má profous opět právo proviant zabavit.
+- typ: odstavec
+  de: |-
+    Der Profoß soll aber die Prouand also schätzen/daß der Verkäuffer ein gůten gewinn habe möge/dann wo das nicht geschehe/so würde man dem Läger nichts zufüren/das were gar ein grosser mercklicher vnd vnleidlicher nachtheyl vnd schad.
+  cs: |-
+    Profous však má proviant oceňovat tak, aby prodávající mohl mít dobrý zisk; kdyby se tak nestalo, nikdo by do ležení {Läger} nic nedovážel, a to by byla velmi veliká, citelná a nesnesitelná nevýhoda a škoda.
+- typ: odstavec
+  de: |-
+    Item so jemand in der Arckelley ein straff verwirckt/es sey malefitz/oder ander sachen/den soll der Profoß mit hülff deß Zeugmeysters Trabanten annemen/den in eisen an einen Wagen geschmid/gefencklich verwaren/biß auff deß Zeugmeysters weitern befelch/deßgleichen was jhm der Zeugmeyster in dergleichen sachen befilcht zuthůn.
+  cs: |-
+    Dále když se někdo v dělostřelectvu dopustí něčeho trestného, ať jde o hrdelní věc {malefitz}, nebo o jiné záležitosti, má ho profous s pomocí zbrojmistrových {Zeugmeysters} drabantů {Trabanten} zatknout a v železech přikovaného k vozu držet ve vazbě až do dalšího rozkazu zbrojmistra; a stejně tak má učinit, co mu zbrojmistr v takových věcech nařídí.
+- typ: odstavec
+  de: |-
+    Item er soll sonst auch warten auff den Zeugmeyster wie ein Trabant/man helt jhm aber keyn steckenknecht wie andern Profosen.
+  cs: |-
+    Dále má být jinak zbrojmistrovi k službám jako drabant; nevydržuje se mu však profousův pacholek {steckenknecht} jako jiným profousům.
+- typ: odstavec
+  de: |-
+    Item ob ein person in der Arckelley stürbe/die keyn Herren oder Besoldung hett/sein Nam auch in den KriegsRegistern nicht gefunden würde/den erbt der Profoß/was bey jhm gefunden wird/es were dann daß sein vatter/mutter/kinder oder brüder vor augen vnd zugegen weren.
+  cs: |-
+    Dále kdyby v dělostřelectvu zemřela osoba, která neměla pána ani žold {Besoldung} a jejíž jméno by se nenašlo ani ve válečných rejstřících, dědí profous, co se u ní najde – ledaže by byli na místě a přítomni její otec, matka, děti nebo bratři.
+- typ: odstavec
+  de: |-
+    Deß Profosen der Arckelley Besoldung ist deß Monats drey Söld/vnd mustert jhm einen Jungen.
+  cs: |-
+    Žold profouse dělostřelectva činí měsíčně tři žoldy {Söld} a při přehlídce se mu zapisuje jedno pachole {Jungen}.
+- typ: nadpis
+  uroven: 2
+  de: Deß Puluerhüters Ampt/Befelch vnnd Besoldung.
+  cs: Úřad, pověření a žold strážce prachu {Puluerhüters}
+- typ: odstavec
+  de: |-
+    JTem man soll zum wenigsten zwen Puluerhüter haben/die tag vnnd nacht dem Puluer nimmer entweichen/sonder darbey hüten vnd wachen/vnnd allwegen zum wenigsten der einer darbey sey/nachts sollen sie jr Losament vnter den Puluerwägen haben/tags sollen sie auch keyn frembden oder vnbekanten zu dem Puluer lassen.
+  cs: |-
+    Dále je třeba mít nejméně dva strážce prachu {Puluerhüter}, kteří se ve dne ani v noci od prachu {Puluer} nevzdálí, nýbrž u něho hlídají a bdí, a vždy má být u něho alespoň jeden z nich. V noci mají mít své ubytování {Losament} pod vozy s prachem; ve dne také nemají k prachu pouštět žádné cizí nebo neznámé lidi.
+- typ: odstavec
+  de: |-
+    Es ist darumb die Arckelley mit den wägen zugleich einer Wagenburg beschlossen/damit niemand zum puluer kommen möge.
+  cs: |-
+    Dělostřelectvo se proto uzavírá vozy jako vozovou hradbou {Wagenburg}, aby se nikdo nemohl dostat k prachu.
+- typ: odstavec
+  de: Der Puluerhüter besoldung ist deß Monats jedem zwen Söld.
+  cs: Žold strážců prachu činí měsíčně každému dva žoldy.
+- typ: nadpis
+  uroven: 2
+  de: Der Zeugdiener Ampt/Befelch vnd Besoldung.
+  cs: Úřad, pověření a žold zbrojních služebníků {Zeugdiener}
+poznamky:
+- n: 1
+  text: füterung – výprava za pící a potravinami do okolí (furážování).

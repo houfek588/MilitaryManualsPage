@@ -1,0 +1,61 @@
+id: 023r
+list: XXIII
+strana: recto
+sken: 53
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wie sie jhr Eydt gethon/was vnd auff wieuil Monat sie zudienen versprochen vnnd geschworen haben/auch was jedem Monats zu besoldung gebürt/vnd was er darauff empfangen/was jme auch für den abzug gegeben werden soll/so man auch vor der benannten zeit vrlaub geben/wie sie gehalten werden sollen.
+  cs: |-
+    jakou přísahu {Eydt} složili, k jaké službě a na kolik měsíců se zavázali a přísahali, také jaký žold {besoldung} komu měsíčně náleží a co na něj už přijal, také co se mu má dát jako odchodné {abzug}[^1] a jak se s nimi má naložit, kdyby byli propuštěni {vrlaub} ještě před stanovenou dobou.
+- typ: odstavec
+  de: |-
+    Es werden aber die Büchßenmeyster gewönlich deß abzugs halben auff den gantzen oder gemeynen Feldtzug bestellt/daß wie man ander zu Roß vnd Fůß helt/sie auch also gehalten werden sollen.
+  cs: |-
+    Co se týče odchodného, najímají se však puškaři {Büchßenmeyster} obvykle na celé neboli obecné tažení {Feldtzug}, takže se s nimi má zacházet stejně jako s ostatními jezdci a pěšími.
+- typ: odstavec
+  de: |-
+    Zů zeiten werden sie mit sonderer Bestallung auffgenommen/vrsach man mag sie nit so wol als ander Kriegßleuth vberkommen vnd zuwegen bringen.
+  cs: |-
+    Někdy se přijímají se zvláštním služebním listem {Bestallung}, protože je nelze tak snadno získat a sehnat jako jiné válečníky {Kriegßleuth}.
+- typ: odstavec
+  de: |-
+    Der Zeugmeyster soll den Büchßenmeystern ernstlich befelch geben/mit fewer vnd jhren Zündstricken in der Feind Landt/oder wo man sich besorgen můß bey jhren Büchßen zu warten/bleiben/vnd sich alle tritt darbey finden lassen.
+  cs: |-
+    Zbrojmistr {Zeugmeyster} má puškařům přísně nařídit, aby v nepřátelské zemi nebo všude, kde je třeba se něčeho obávat, byli s ohněm a se svými doutnáky {Zündstricken}[^2] připraveni u svých děl {Büchßen}, zůstávali u nich a byli tam kdykoli k zastižení.
+- typ: odstavec
+  de: |-
+    Ein jeder Büchßenmeyster oder Schütz soll sein eygen Fewrzeug bey jme/deßgleichen stäts sein zündtrüten bey der hand vnnd Losament haben/vnnd wann er auß ehehafften vrsachen von den Büchßen gehn můß/soll dieselbige zeit sein gesell darbey warten/damit die Büchßen nimmer ledig stehn/in der Feind Land.
+  cs: |-
+    Každý puškař nebo střelec {Schütz} má mít u sebe vlastní křesadlo {Fewrzeug} a stejně tak vždy po ruce a ve svém ubytování {Losament} svou zapalovací hůl {zündtrüten}. Musí-li z vážných důvodů {ehehafften vrsachen} od děl odejít, má u nich po tu dobu čekat jeho druh, aby děla v nepřátelské zemi nikdy nezůstala bez obsluhy.
+- typ: odstavec
+  de: |-
+    Es soll auch ein jeder Büchßenmeyster alle nacht sein Losament bey der Arckelley haben/bey andern Büchßenmeystern/damit er gefunden werden möge durch die zeugdiener/so der Zeugmeyster sein notturfftig were.
+  cs: |-
+    Také má mít každý puškař každou noc ubytování u dělostřelectva {Arckelley}, u ostatních puškařů, aby ho zbrojní služebníci {zeugdiener}[^3] mohli najít, kdyby ho zbrojmistr potřeboval.
+- typ: odstavec
+  de: |-
+    So lerman würd bey tag oder nacht/so soll ein jeder sich bey seiner Büchßen finden lassen/bey seinem Eydt gewertig sein/was mit jhm verschafft wird zuthůn/es sey in der Schantz oder andern orten/Es were dann sach daß sein Büchß dermassen gestalt/daß man sie nicht brauchen köndte/als offt geschicht/so soll er zu andern Büchßenmeystern lauffen/einem andern helffen vnnd zugreiffen/sonst soll sich keyn Büchßenmeyster deß andern Büchßen annemen/ohn befelch wissen vnnd willen deß Zeugmeysters.
+  cs: |-
+    Nastane-li ve dne či v noci poplach {lerman}, má se každý dostavit ke svému dělu a být podle své přísahy připraven vykonat, co mu bude nařízeno, ať v šanci {Schantz}, nebo na jiných místech. Kdyby však jeho dělo bylo v takovém stavu, že by se nedalo použít, jak se často stává, má běžet k jiným puškařům, pomáhat jinému a přiložit ruku k dílu. Jinak se žádný puškař nemá ujímat cizího děla bez rozkazu, vědomí a vůle zbrojmistra.
+- typ: odstavec
+  de: |-
+    So sich zutrüge/daß man durch wasser faren müßt/so tieff seind/so sollen die Büchßenmeyster das geladen Geschütz/bey dem ansatz auff das höchst auffrichten/damit keyn wasser hinhinder zu den Kuglen vnnd Puluer kommen möge/darzů das zündtloch wol vor dem wasser verkleyben/sonst schadet es nichts wie tieff das maul vornen in das wasser hange.
+  cs: |-
+    Kdyby se stalo, že by se muselo jet přes hluboké vody, mají puškaři nabité dělo {Geschütz} na zadním konci {ansatz}[^4] co nejvýš zdvihnout, aby se voda nemohla dostat dozadu ke koulím {Kuglen} a prachu {Puluer}, a k tomu zápalný otvor {zündtloch} dobře zalepit proti vodě; jinak nevadí, jak hluboko visí ústí vpředu ve vodě.
+- typ: odstavec
+  de: |-
+    Nota/Vnnd so man vor einer Besatzung anfacht zuschiessen/so sollen die Büchßenmeyster vnd jhre helffer dem Geschütz nicht mehr entweichen/biß man die Besatzung zum Sturm geschossen hat/darumb sollen die Herrschafft jnen auff jhren kosten/Kuchin vnd Keller verordnen vnnd halten/sie speisen mit jhren helffern/damit fürderlich vnd stäts geschossen werden mög.
+  cs: |-
+    Nota: Když se začne střílet na obléhané místo {Besatzung}, nemají již puškaři a jejich pomocníci od děl odcházet, dokud se místo nerozstřílí natolik, aby se mohlo jít do útoku {Sturm}. Proto jim má vrchnost na své náklady zřídit a vydržovat kuchyni a sklep a stravovat je i s jejich pomocníky, aby se mohlo střílet rychle a bez přestání.
+poznamky:
+- n: 1
+  text: Abzug – odchodné, částka vyplácená při propuštění, zvl. před uplynutím smluvené doby.
+- n: 2
+  text: Zündstrick – doutnák, pomalu doutnající provaz k zapalování děl i ručnic.
+- n: 3
+  text: Zeugdiener – nižší služebníci dělostřelectva pod zbrojmistrem; roznášejí rozkazy a pomáhají udržovat pořádek.
+- n: 4
+  text: Ansatz – patrně zadní konec (záď) hlavně; při zdvižené zádi zůstane v hlavni vzduch a voda nepronikne k náboji. Výklad podle smyslu.

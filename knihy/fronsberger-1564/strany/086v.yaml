@@ -1,0 +1,59 @@
+id: 086v
+list: LXXXVI
+strana: verso
+sken: 180
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    sich vor dem andern schemen/vnnd von schanden wegen/sich dester dapfferer halten vnd wehren.
+  cs: |-
+    před druhým stydět, a aby neutrpěl hanbu, drží se a brání tím statečněji.
+- typ: nadpis
+  uroven: 3
+  de: So man fewrwerck in ein Besatzung wirfft/dasselbig zulöschen.
+  cs: Jak hasit ohňostroje vržené do posádky
+- typ: odstavec
+  de: |-
+    ITem man soll verordnen in jeder Besatzung etlich vil personen/die darzu am tauglichsten seind/denen soll man ein Rottmeyster vnnd Obern zugeben/auff den sie ein auffsehen haben/jm gefällig vnd gehorsam seind/dieselbigen sollen sie auch mit allem dem jhenigen so sie achten zur sach not vnnd dienstlich sein/rüsten vnd gefaßt machen/vnd sonderlich ist gůt/daß sie gerüst seyen mit grossen tartschen/wie sie die alten gehabt haben/vnd noch in etlichen Reichstetten auff den Ratheusern gefunden vnd behalten werden/vnnd wann etwann fewrwerck in ein Besatzung geworffen wird/daß die da löschen wöllen/die tartschen für sich nemen/vnd sich hinder den tartschen hinzu nahen vnd löschen/wieuiel sie können/vnd so dann die fewrwerck mit schlegen gemacht/mögen sie kümmerlich durch die tartschen schlahen/dann sie seind gemeynlich wol geädert.
+  cs: |-
+    Dále se má v každé posádce {Besatzung} určit hodný počet osob, které jsou k tomu nejzpůsobilejší; těm se má dát rotmistr {Rottmeyster} a představený, na něhož mají hledět a jemuž mají být povolní a poslušni. Ti je také mají vybavit a připravit vším, co uznají za potřebné a užitečné. Zvlášť dobré je, aby byli vyzbrojeni velkými pavézami {tartschen}, jaké mívali staří a jaké se v některých říšských městech dosud nacházejí a uchovávají na radnicích. Když je pak do posádky vhozen ohňostroj {fewrwerck}, ti, kdo chtějí hasit, vezmou pavézy před sebe, kryti jimi se přiblíží a hasí, co mohou. A jsou-li ohňostroje udělány s výbušnými náložemi {schlegen}[^1], pavézy stěží prorazí, neboť bývají obvykle dobře potaženy šlachami.
+- typ: odstavec
+  de: |-
+    Es ist auch nit gůt/daß man sich fast bemühe die fewerwerck zulöschen/dann sie lassen sich nit liederlich löschen/vnd ist mühe vnnd arbeyt verloren/aber an den orten da die fewerwerck anzünden/da soll man löschen.
+  cs: |-
+    Není také dobré se příliš namáhat s hašením samotných ohňostrojů, neboť se nedají snadno uhasit a je to ztracená námaha a práce; hasit se má na místech, která ohňostroje zapálí.
+- typ: odstavec
+  de: |-
+    Item inn der Besatzung soll man sich befleissen/daß man viel Zimmerleuth/Steynmetzen vnd Mawrer hab/auch ein gůte anzal Metzger/Becken/Köch vnnd dergleichen.
+  cs: |-
+    Dále je třeba v posádce dbát, aby se mělo mnoho tesařů, kameníků a zedníků, a také dobrý počet řezníků, pekařů, kuchařů a podobně.
+- typ: odstavec
+  de: |-
+    Item viel Schützen ist man nottürfftig in einer Besatzung/dann deren ist man in vnnd auff den wehren am nottürfftigsten/was auch die Schützen in einer Besatzung nicht außrichten/ist nachmals nicht viel hoffnung.
+  cs: |-
+    Dále je v posádce zapotřebí mnoho střelců {Schützen}, neboť těch je nejvíce třeba v hradbách a na nich; a co v posádce nevykonají střelci, na to už potom není mnoho naděje.
+- typ: odstavec
+  de: |-
+    So nuh alle notturfft berathschlagt/bestellt vnd versehen/so soll der Oberst das Kriegßvolck lassen zusammen berüffen auff den platz/vnnd auff nachuolgende meynung mit jnen reden vnd handlen.
+  cs: |-
+    Když je tedy všechno potřebné uváženo, objednáno a zaopatřeno, má plukovník {Oberst} svolat válečný lid {Kriegßvolck} na prostranství a promluvit a jednat s ním v následujícím smyslu.
+- typ: nadpis
+  uroven: 3
+  de: Handlung mit dem Kriegßvolck.
+  cs: Jednání s válečným lidem
+- typ: odstavec
+  de: |-
+    DEr Oberst soll sie freundlich vnd tugentlich ansprechen/sie alle vnnd in sonderheyt die dapffersten vnd ansehenlichsten vnter dem gemeynen Kriegßvolck gütlich fragen/wie jhnen der handel/die sachen/vnd alle anstellung gefall/etc.
+  cs: |-
+    Plukovník je má oslovit přívětivě a zdvořile a všech, zvláště nejstatečnějších a nejváženějších z prostého válečného lidu, se laskavě otázat, jak se jim celá věc, záležitosti a všechna opatření líbí atd.
+- typ: odstavec
+  de: |-
+    Item wie er sollichs nicht allein durch sich selbs/sonder mit gůter vorbetrachtung vnd Rath anderer vnd verständiger hab angestellt/der tröstlichen hoffnung vnd zůuersicht/es werde dem Kriegßherrn/jhm vnnd gemeyner Besatzung zu nutz/ehren vnnd gůtem kommen/Jedoch wo jendert ein gůt ehrlich gesell were/so etwas wißte zubessern/vnnd ein gůten nützlichen Rath zugeben/der soll sollichs anzeygen/dieweil sie statt vnd platz haben/auch keyn person wie gering sie auch were/in dem fall geeussert vnd verschmecht werden.
+  cs: |-
+    Dále [má říci], že to nezařídil sám od sebe, nýbrž po dobrém uvážení a s radou jiných a rozumných lidí, v útěšné naději a důvěře, že to válečnému pánovi {Kriegßherrn}, jemu i celé posádce přijde k užitku, cti a dobru. Kdyby však kdekoli byl nějaký dobrý čestný druh {gesell}, který by věděl, co zlepšit, a mohl dát dobrou a užitečnou radu, ať to oznámí, dokud je k tomu čas a příležitost; a v takovém případě nemá být nikdo, jakkoli nízký, odmítnut a opovržen.
+poznamky:
+- n: 1
+  text: |-
+    Schläge – zde patrně výbušné náplně (petardy, „rány“) v ohňostrojných koulích, které při výbuchu rozmetávají hořící hmotu; geädert = potažený (vyztužený) šlachami.

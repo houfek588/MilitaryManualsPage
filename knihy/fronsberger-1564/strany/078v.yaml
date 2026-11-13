@@ -1,0 +1,77 @@
+id: 078v
+list: LXXVIII
+strana: verso
+sken: 164
+stav: zkontrolovano
+bloky:
+- typ: seznam
+  de:
+  - |-
+    Item so man hat 2800. Mann/vnd die in ein geuierte Schlachtordnung bringen wil/so kommen 52. Mann in ein glid/bleiben vber 96. Mann.
+  - |-
+    Item 2900. Mann/so man die in ein geuierte Schlachtordnung wil bringen/so kommen in ein glied 53. Mann/bleiben vber 91. Mann.
+  - |-
+    Item 3000. Mann/so man die in ein geuierte Schlachtordnung wil bringen/so kommen in ein glid 54. Mann/bleiben vber 84. Mann.
+  - |-
+    Item 3500. Mann/so man die in ein geuierte Schlachtordnung bringen wil/So kommen in ein glid 59. Mann/bleiben vber 19. Mann.
+  - |-
+    Item 4000. Mann/so man die in ein geuierte Schlachtordnung wil bringen/So kommen in ein glid 63. Mann/bleiben 31. Mann vber.
+  - |-
+    Item 5000. Mann/so man die in ein geuierte Schlachtordnung bringen wil/So kommen 70. Mann in ein glid/bleiben vber 100. Mann.
+  - |-
+    Item 6000. Mann/so man die in ein geuierte Schlachtordnung wil bringen/so kommen in ein glid 77. Mann/bleiben 71. Mann vber.
+  - |-
+    Item 6500. Mann/so man die in ein geuierte Schlachtordnung wil bringen/So kommen 80. Mann in ein glid/bleiben vber 100. Mann.
+  - |-
+    Item 7000. Mann/so man die in ein geuierte Schlachtordnung bringen wil/so kommen in ein glid/83. Mann/bleiben 111. Mann vber.
+  - |-
+    Item 7500. Mann/so man die in ein geuierte Schlachtordnung wil bringen/so kommen in ein glid 86. Mann/bleiben vber 104. Mann.
+  - |-
+    Item so man 8000. Mann hat/vnd wil ein geuierte Ordnung darauß machen/kommen in ein glid 87. Mann/bleiben vber 79. Mann.
+  - |-
+    Item so man 8500. Mann hat/vnd wil ein geuierte Ordnung darauß machen/So kommen in ein glid 92. Mann/bleiben 36. Mann vber.
+  - |-
+    Item 9000. Mann/so man die in ein geuierte Ordnung wil bringen/so kommen in ein glid 94. Mann/bleiben vber 164. Mann.
+  - |-
+    Item 9500. Mann/so man die in ein geuierte Ordnung bringen wil/so kommen in ein glid 97. Mann/bleiben 91. Mann vber.
+  - |-
+    Item 10000. Mann/So man die in ein geuierte Ordnung bringen wil/so kommen in ein glied 100. Mann/bleibt nichts vber.
+  - |-
+    Item so man hat 10201. Mann/vnd die in ein geuierte Schlachtordnung bringen wil/so kommen 101. Mann in ein glid/bleibt nichts vber.
+  cs:
+  - |-
+    Dále, má-li se z 2800 mužů udělat čtvercový bitevní šik {geuierte Schlachtordnung}, připadne do jedné řady {glid} 52 mužů a zbude 96 mužů.
+  - |-
+    Dále 2900 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 53 mužů a zbude 91 mužů.
+  - |-
+    Dále 3000 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 54 mužů a zbude 84 mužů.
+  - |-
+    Dále 3500 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 59 mužů a zbude 19 mužů.
+  - |-
+    Dále 4000 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 63 mužů a zbude 31 mužů.
+  - |-
+    Dále 5000 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 70 mužů a zbude 100 mužů.
+  - |-
+    Dále 6000 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 77 mužů a zbude 71 mužů.
+  - |-
+    Dále 6500 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 80 mužů a zbude 100 mužů.
+  - |-
+    Dále 7000 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 83 mužů a zbude 111 mužů.
+  - |-
+    Dále 7500 mužů: má-li se z nich postavit čtvercový bitevní šik, připadne do jedné řady 86 mužů a zbude 104 mužů.
+  - |-
+    Dále, má-li se z 8000 mužů udělat čtvercový šik, připadne do jedné řady 87 [správně 89] mužů a zbude 79 mužů.[^1]
+  - |-
+    Dále, má-li se z 8500 mužů udělat čtvercový šik, připadne do jedné řady 92 mužů a zbude 36 mužů.
+  - |-
+    Dále 9000 mužů: má-li se z nich postavit čtvercový šik, připadne do jedné řady 94 mužů a zbude 164 mužů.
+  - |-
+    Dále 9500 mužů: má-li se z nich postavit čtvercový šik, připadne do jedné řady 97 mužů a zbude 91 mužů.
+  - |-
+    Dále 10000 mužů: má-li se z nich postavit čtvercový šik, připadne do jedné řady 100 mužů a nezbude nic.
+  - |-
+    Dále, má-li se z 10201 mužů udělat čtvercový bitevní šik, připadne do jedné řady 101 mužů a nezbude nic.
+poznamky:
+- n: 1
+  text: |-
+    Tisková chyba: 87 × 87 = 7569; správně 89 × 89 = 7921, a zbytek 79 (8000 − 7921) pak souhlasí.

@@ -1,0 +1,51 @@
+id: 036v
+list: XXXVI
+strana: verso
+sken: 80
+stav: zkontrolovano
+bloky:
+- typ: seznam
+  de:
+  - 'Item auch zwen Trabanten.'
+  - 'Item so offt zehen oder zwölff Pferd/so manchen Wagen.'
+  cs:
+  - 'Dále také dva drabanti {Trabanten}.'
+  - 'Dále na každých deset nebo dvanáct koní jeden vůz.'
+- typ: odstavec
+  de: |-
+    Item ein Troßpferd/kan er sonst zu seiner vnterhaltung/als Köch vnd ander Personen/vnd vortheyl erhalten vnd herauß reissen/läßt man auch geschehen.
+  cs: |-
+    Dále jeden trénní kůň {Troßpferd}; dokáže-li si jinak ke svému vydržování – na kuchaře a jiné osoby – i nějakou výhodu udržet a vymoci, i to se mu trpí.
+- typ: nadpis
+  uroven: 2
+  de: Der Reysigen Hauptleuth oder Rittmeyster Leutenant Ampt vnd Befelch.
+  cs: Úřad a pověření poručíka {Leutenant} jezdeckých hejtmanů neboli rytmistrů
+- typ: odstavec
+  de: |-
+    WJe hieuor von dem Leutenant deß Feldmarschalcks geredt/vnd wie derselbig geschickt/erfahren vnd bericht soll sein in abwesen deß Feldtmarschalcks sein statt vnnd Ampt zuuertretten/also gebürt sich dem Leutenant deß Hauptmanns/daß er in abwesen seines Hauptmans wiß seines Hauptmanns befelch/es trage sich zu was da wölle/zuuertretten/vnnd ohne nachtheyl zuuersehen/Darumb ist noth daß der Hauptmann oder Rittmeyster ein solchen vom Adel zu einem Leutenant/der auch den Reuttern lieb vnd angenem sey/erwöle vnd anneme.
+  cs: |-
+    Jak bylo výše řečeno o poručíkovi polního maršálka {Feldmarschalcks} a o tom, jak má být schopný, zkušený a znalý, aby v nepřítomnosti polního maršálka zastal jeho místo a úřad, tak přísluší i poručíkovi hejtmana {Hauptmanns}, aby v nepřítomnosti svého hejtmana dovedl zastat jeho velení, ať se přihodí cokoli, a bez újmy je obstarat. Proto je nutné, aby si hejtman neboli rytmistr {Rittmeyster} zvolil a přijal za poručíka takového [muže] ze šlechty, který je také jezdcům {Reuttern} milý a příjemný.
+- typ: odstavec
+  de: |-
+    Sein besoldung wird jhme von seins Ampts wegen nach erkanntnuß der Musterherrn vnd Kriegßräth gebessert/vnd Monats N. gülden geben/sunst wird jm keyn sonderer stath/anderst dann wie andern Reysigen gehalten.
+  cs: |-
+    Jeho žold {besoldung} se mu kvůli jeho úřadu zvyšuje podle uznání přehlídkových komisařů {Musterherrn} a válečných radů {Kriegßräth} a dává se mu měsíčně N. zlatých {gülden}; jinak se mu nevydržuje žádný zvláštní stav {stath}, jen jako ostatním jezdcům {Reysigen}.
+- typ: odstavec
+  de: |-
+    Er wird auch bey gemeyner Kriegßpflicht gelassen/vnnd mit sonderer pflicht nicht beladen.
+  cs: |-
+    Ponechává se také při obecném válečném slibu {Kriegßpflicht} a zvláštním závazkem se nezatěžuje.
+- typ: nadpis
+  uroven: 2
+  de: Quartiermeysters der Reysigen/Ampt/Befelch vnd Eydt.
+  cs: Úřad, pověření a přísaha kvartýrmistra {Quartiermeysters} jízdy
+- typ: odstavec
+  de: |-
+    DEr Reysigen Quartiermeyster/soll mit den jhenigen/so im vorzug seind/vorhin zihen/das Läger helffen einnemen/auch helffen berathschlagen/wie man das Läger schlagen/wohin man ein jedes Regiment losieren vnd Lägern soll/alßdann so die Quartier für alle Regiment seind beratschlagt/so soll er sampt den andern Quartiermeystern dem General Obersten sampt den Kriegßräthen helffen gelegene Losament verordnen/darnach so soll er in dem Quartier/so für die Reysigen verordnet/wo es am lüstigsten vnd bequemlichsten ist/dem Feldtmarschalck sein Losament einnemen/verordnen vnnd zeychnen/darnach mag er sich selbs auch versehen/darnach so theylet er das gantz Quartier der Reysigen auß/vnter alle Furier der Reysigen Hauptleuth/die losen dann darumb/vnnd furieren dann wie sich gebürt/vnd hernach an seinem orth klärer vnd eygentlicher daruon meldung beschehen wird.
+  cs: |-
+    Kvartýrmistr jízdy má s těmi, kdo jsou v předvoji {vorzug}, táhnout napřed, pomáhat zabírat ležení {Läger} a také pomáhat radit se, jak ležení rozbít a kam ubytovat a utábořit každý pluk {Regiment}. Když se pak dohodnou kvartýry {Quartier} pro všechny pluky, má spolu s ostatními kvartýrmistry pomáhat nejvyššímu polnímu hejtmanovi {General Obersten} a válečným radům určit vhodná ubytování {Losament}. Potom má v kvartýru určeném pro jízdu, kde je to nejpříjemnější a nejpohodlnější, zabrat, určit a označit ubytování pro polního maršálka {Feldtmarschalck}; potom se smí postarat i o sebe. Potom rozdělí celý kvartýr jízdy mezi všechny furýry {Furier} jezdeckých hejtmanů; ti o něj pak losují a rozdělují ubytování, jak se sluší, o čemž bude později na svém místě řečeno jasněji a podrobněji.
+- typ: odstavec
+  de: |-
+    Man pflegt gewönlich gůte ehrliche leuth/so zu Hauptmannschafften vnd hohen ämptern nit kommen mögen/vnd deren wol werth weren/zu Quartiermeystern zuuerordnen/dann so es die notturfft erfordert/werden sie vor andern herfür gezogen
+  cs: |-
+    Za kvartýrmistry se obvykle ustanovují dobří, čestní lidé, kteří nemohou dosáhnout hejtmanství a vysokých úřadů, ačkoli by jich byli dobře hodni; neboť když to potřeba vyžaduje, bývají přede všemi ostatními povoláváni

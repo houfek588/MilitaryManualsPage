@@ -1,0 +1,55 @@
+id: 117r
+list: CXVII
+strana: recto
+sken: 241
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Daß die besten der verrätherey verargwont werden.
+  cs: Aby ti nejlepší byli podezříváni ze zrady
+- typ: odstavec
+  de: |-
+    WElche dann bestünden/denen soll er jhr eygne güter nicht verletzen/aber die drumb seind alle/Item ein fürnemen Mann offt sichtbarlich zu jn schicken/als werb er vmb verrähterey mit stillem gesprech/Item brieff zu jn schicken/zu ermanen daß sie jr zusagen halten/mit vngleichem Dato verzeychnet/also daß sie dem Herren heymlich werden/Darzu viel brieff ins Läger säen lassen/darinn groß gůt verheyssen/wer diß oder jhenes nach seinem beger vollbring/Das haben die alten gebraucht (wiewol ich sollich vnredliche practicken gar nit preiß/erforderts doch etwann die noth) Item so er ein Statt belägert/oder ein hauffen beschedigt/vnnd verhergt allein der armen hab vnnd gůt/damit sie sich wider die reichen empörten/zertrennt vnd macht die mächtigen fast argwönig.
+  cs: |-
+    Těm [z nepřátel], kteří by [jeho přemlouvání] odolali, nemá poškozovat jejich vlastní statky, ale [statky] všech, kdo jsou kolem nich, ano. Dále k nim má často a viditelně posílat nějakého významného muže, jako by s nimi v tichém rozhovoru vyjednával o zradě. Dále jim má posílat dopisy s rozdílnými daty, v nichž je napomíná, aby dodrželi své sliby, a to tak, aby se o nich potají dozvěděl [jejich] pán. K tomu má nechat do ležení {Läger} rozsévat mnoho dopisů, v nichž slibuje velké jmění tomu, kdo podle jeho přání vykoná to či ono. To užívali staří (ačkoli takové nepoctivé úklady {practicken} vůbec nechválím, někdy to však nouze vyžaduje). Dále, když obléhá město nebo poškozuje nějaký houf {hauffen} a pustoší pouze majetek a statky chudých, aby se vzbouřili proti bohatým, rozdělí [nepřátele] a mocné učiní velmi podezřelými.
+- typ: nadpis
+  uroven: 2
+  de: Von zertrennung der Feinde.
+  cs: O rozdělení nepřátel
+- typ: odstavec
+  de: |-
+    SO sich vil Herren wider jhn zusamen schlügen/so schick er ringe pferd/vnd die noch zu hauß seind/jhre Herrschafften mit brand vnd raub zu verhergen/Er zwingt sie hie zu weychen vnd jr eygenthumb zubeschirmen/dann mag er den zertrennten leichtlich obsigen.
+  cs: |-
+    Kdyby se proti němu spojilo mnoho pánů, ať pošle lehkou jízdu {ringe pferd} a ty, kdo jsou ještě doma, aby jejich panství pustošili ohněm a loupeží. Tím je donutí odtud ustoupit a chránit své vlastnictví, a pak nad rozdělenými snadno zvítězí.
+- typ: nadpis
+  uroven: 2
+  de: Zu widerholen seine Geyßel.
+  cs: Jak získat zpět svá rukojmí
+- typ: odstavec
+  de: |-
+    SChreibt vmb etliche Herren/daß sie ein zwitracht bey jhme helffen entscheyden/behalt darnach die thädings Herren/biß jhm sein pfand wider gelüffert werde.
+  cs: |-
+    Ať si písemně vyžádá několik pánů, aby mu pomohli urovnat nějaký spor, a pak ať si ty vyjednavače {thädings Herren} podrží, dokud mu nebudou vrácena jeho rukojmí {pfand}.
+- typ: nadpis
+  uroven: 2
+  de: Von eygner hut.
+  cs: O vlastní ochraně
+- typ: odstavec
+  de: |-
+    DJe erfarung beweißt/daß gewalt/gunst/gelt/vnnd eygne liebe der verkerten natur/alles menschlich geschlecht also begwaltiget hat/daß die Edel gerechtigkeyt ins elend (wie der Prophet leyder beweynet) gedrungen/bey niemand mehr behauset wird/Darumb soll sich ein frommer Fürst/auch vor seinem eygnem blůt fleissig verwaren/vnd gedencken was Absalon seinem trawten vatter Dauid bewisen hab/mög heut auch geschehen.
+  cs: |-
+    Zkušenost dokazuje, že moc, přízeň, peníze a sebeláska zvrácené povahy natolik ovládly celé lidské pokolení, že ušlechtilá spravedlnost byla zahnána do vyhnanství (jak bohužel oplakává prorok)[^1] a u nikoho už nepřebývá. Proto se má řádný {frommer} kníže pilně chránit i před vlastní krví a pamatovat, že co Absolón prokázal svému drahému otci Davidovi, může se stát i dnes.
+- typ: nadpis
+  uroven: 2
+  de: Beharliche Monier eines Heerzugs.
+  cs: Ustálený způsob válečného tažení
+- typ: odstavec
+  de: |-
+    WJewol etliche Historien außweisen/daß die berümpste Heerfürer von anfang biß zu end/allein ein arth/gestalt vnd brauch jhrer Kriege gefürt haben (als der groß Alexander mit Feldschlachten/Fabius Maximus mit verzug/
+  cs: |-
+    Ačkoli některé dějiny ukazují, že nejslavnější vojevůdci vedli své války od začátku do konce jen jedním způsobem, podobou a zvykem (jako Alexandr Veliký polními bitvami, Fabius Maximus otálením,
+poznamky:
+- n: 1
+  text: |-
+    Patrně narážka na Iz 59,14: „Právo je zatlačeno nazpět a spravedlnost stojí opodál.“

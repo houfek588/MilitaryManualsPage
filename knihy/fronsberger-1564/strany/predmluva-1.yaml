@@ -1,0 +1,29 @@
+id: predmluva-1
+list: předmluva
+strana: recto
+sken: 5
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Vorred an den Läser.
+  cs: Předmluva ke čtenáři
+- typ: odstavec
+  de: |-
+    BJß anher ist nie keiner gewesen oder an tag kommen/der meniglich oder besonder einem jeden seines gefallens in allen sachen hette können vnd mögen recht thun/gleicher gestalt wirt es forthin jedem recht zu thun nimmer mehr müglich zuverbringen sein/etc. Demnach ich aber auß besonderer anmuttung zu den jetztwerenden vorstendigen Kriegssachen/ämpter vnd Befehlen/in vbung dieselbigen grober einfeltiger form/in willen vnd meinung allein für mich zuverzeichnen/an die hand genommen/welcher art/sitten vnd halten sich zum theil bey regierung deß aller Durchleuchtigsten Großmechtigsten Keyser Carols deß fünfften hochlöblicher gedechtnuß verloffen/bey welchem ich mich diß orts auch ein zeitlang neben andern gebrauchen hab lassen/vnd also diß gering Wercklein in die Feder begriffen/es bey mir behalten wöllen/Demnach es aber vil guter Herren vnd freund erkündiget/haben sie mich ermant/es jnen abschrifftlichen mit zu theilen/oder ich wolt es doch in druck verfertigen/ob was höhers daruon vnd auß geschöpfft möcht werden.
+  cs: |-
+    Dosud nebylo a nevystoupil nikdo, kdo by uměl a mohl vyhovět všem vůbec i každému zvlášť ve všech věcech podle jeho libosti; a stejně tak nebude ani napříště nikdy možné vyhovět každému atd. Ze zvláštní náklonnosti k nynějším a nastávajícím válečným věcem, úřadům a pověřením, jak jsou v praxi, jsem se je však podjal sepsat v hrubé a prosté podobě, s úmyslem a v mínění, že to bude jen pro mne – totiž jaký způsob, zvyklosti a řád v nich zčásti panovaly za vlády nejosvícenějšího a nejmocnějšího císaře Karla Pátého slavné paměti, u něhož jsem i já v tomto ohledu nějaký čas spolu s jinými sloužil. Takto jsem toto nepatrné dílko svěřil peru a chtěl si je ponechat pro sebe. Když se o něm však dozvědělo mnoho dobrých pánů a přátel, nabádali mě, abych jim je poskytl v opisu, anebo je dal vytisknout, zda by se z něho nedalo načerpat něco vyššího.
+- typ: odstavec
+  de: |-
+    Wiewol mir solchem begeren bey diser geschwinden welt nach zu setzen/vnd es zu eröffnen/was beschwerlich gewest/so hab ich doch dem vrtheil ermelter Herrn vnd freund/mehr denn meinem gut geduncken vertrauwet/vnd es darauff an tag geben/Darmit aber nicht jemand zu sagen oder gedencken möcht haben/warum ich als ein geringverstendiger mich vnderstünde Bücher zu machen/vnd von solchen hohen handlungen zu schreiben/ob welchen dann die aller fürtrefflichsten ein abscheuwen haben/sich vileicht in dem oder dergleichen zu gering darzu geschetzt/oder ist aber vmb ander vrsachen/welche mir verborgen/vnderlassen worden.
+  cs: |-
+    Ačkoli mi bylo v tomto zlém světě zatěžko takovému přání vyhovět a dílo zveřejnit, přece jsem se více spolehl na úsudek zmíněných pánů a přátel než na své vlastní zdání a podle toho je vydal. Aby však nikdo nemohl říkat nebo si myslet, proč se já, muž nevelkého rozumu, opovažuji psát knihy a pojednávat o tak vysokých věcech, před nimiž mají i ti nejznamenitější ostych – snad se v tom či podobném pokládali za příliš nepatrné, anebo to z jiných, mně skrytých příčin opomenuli.[^1]
+- typ: odstavec
+  de: |-
+    Nach dem nun aber solches Buch/ist es anderst deß namens wert/in viel tausent Exemplar außgebreit/so ist sein
+  cs: |-
+    Když se nyní tato kniha – je-li vůbec toho jména hodna – rozšířila v mnoha tisících výtisků, tak o ní
+poznamky:
+- n: 1
+  text: |-
+    Věta je v originále neukončená (účelová věta „Darmit aber nicht jemand…“ nemá větu hlavní); překlad to zachovává.

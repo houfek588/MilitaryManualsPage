@@ -1,0 +1,24 @@
+id: venovani-2
+list: věnování
+strana: verso
+sken: 4
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    in massen dieselbig jetziger zeit im gebrauch/zubeschreiben/allein der vrsachen wie hieuor gemelt/mir also darmit für den müssiggang etwas übung vnd kurtzweil zumachen.
+  cs: |-
+    tak jak jsou v nynější době v užívání, a to jen z výše uvedených důvodů: abych si tím proti zahálce opatřil nějaké zaměstnání a rozptýlení.
+- typ: odstavec
+  de: |-
+    Damit ich auch darneben (im fall so sich gelegenheit möcht zutragen) solche ding in meinem gemüt dester baß einbilden/vnd alßdann dester geschickter vnd taugenlicher dienen möcht/vnd etwann auch andern hierauß nutz vnd guts erschiessen würd/acht ich das für eins (dieweil alle ding wie gut vnd vnuerbesserlich sie sein möchten) sich mit der zeit ändern/vnd in ander weg vnd gebräuch sich verwandlen/wie dann sonderlich mit der Ritterlichen zucht/vbung/gebrauch/wehr/waaffen vnd rüstung hieuor offt geschehen vnd noch mehr geschehen mag/das dann auch den nachkomen die jetzige zeit/vnd deren gebrauch in waaffen/schrifftlich hindersich verlassen würde/Demnach wil ich mich zu sollichem Memorial oder gedenckzedel nicht allein meiner eygen geschickligkeit vnd erfarung (deren leider gar wenig ist) sonder auch deß hieuor gemelten Vegetij/auch anderer alter/vnd die kurtzlich auch bey vnsern zeitten von disen dingen geschriben/gebrauchen/vnd auß den allen zusamen klauben/was ich gedenck/so zu diser sachen vnd meinem fürnemmen dienstlich vnd nutz sein mag/Vnd damit solche mein verzeichnuß in dest bessere ordnung gefaßt/vnd desselbigen halben dester verständiger sein mög/hab ichs in fünff theil begriffen vnd verfaßt/als nemlich im ersten theil wie hernach volgt.
+  cs: |-
+    Abych si zároveň (naskytne-li se k tomu příležitost) takové věci tím lépe vštípil do mysli a mohl pak tím zručněji a schopněji sloužit a aby z toho snad vzešel užitek a dobro i jiným, pokládám za jednu z [potřebných] věcí – protože se všechny věci, ať jsou sebelepší a sebedokonalejší, časem mění a obracejí v jiné způsoby a zvyklosti, jak se to zvláště s rytířskou kázní, cvičením, zvyklostmi, zbraněmi útočnými i obrannými a výzbrojí často dříve stalo a ještě více stát může –, aby i potomkům zůstala písemně zachována [zpráva o] nynější době a o tom, jak se v ní užívá zbraní. Proto chci k takovému memoriálu čili pamětnímu zápisu použít nejen své vlastní schopnosti a zkušenosti (jichž mám bohužel velmi málo), nýbrž i výše zmíněného Vegetia a jiných starých [autorů] i těch, kdo o těchto věcech psali nedávno, v našich časech, a ze všech vybrat a sesbírat, co podle mého mínění může této věci a mému záměru posloužit a prospět. A aby byl tento můj spis uspořádán v lepším řádu a byl proto tím srozumitelnější, rozdělil a sepsal jsem jej v pěti dílech, totiž v prvním díle, jak dále následuje.[^1]
+- typ: odstavec
+  de: E. F. G. Vntertheniger Leonhart Fronsperger.
+  cs: Vaší knížecí Milosti poddaný Leonhart Fronsperger.
+poznamky:
+- n: 1
+  text: |-
+    Věnování končí nedokončenou větou „als nemlich im ersten theil wie hernach volgt“; v tisku za ní nenásleduje přehled pěti dílů (knih). Závěr byl patrně převzat ze staršího textu bez úpravy.

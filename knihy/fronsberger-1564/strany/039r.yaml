@@ -1,0 +1,84 @@
+id: 039r
+list: XXXIX
+strana: recto
+sken: 85
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Ein Trommeter soll keck vnnd mannlich sein/auch verstanden/geschickt vnnd außrichtig/darumb so man an feinden ist/soll er allzeit sich hinfür zum Fanen halten/geschickt vnnd außrichtig/darumb so man jhn/als offt geschicht/etwann mit feinds brieffen oder gefangnen/oder etwann besatzungen auffzufordern/oder in anderen geschefften vnd bottschafften zun feinden geschickt/er die sachen wiß geschicklich außzurichten/zureden vnd schweigen/was/vnd wann sich zimpt.
+  cs: |-
+    Trubač {Trommeter} má být smělý a mužný, také rozumný, obratný a pohotový; proto když se jde na nepřítele, má se vždy držet vpředu u korouhve {Fanen}. Obratný a pohotový [má být] proto[^1], aby – když je, jak se často stává, posílán k nepříteli s listy nebo se zajatci, nebo aby vyzval posádky {besatzungen} [ke vzdání], nebo v jiných záležitostech a poselstvích – uměl věci obratně vyřídit a věděl, co a kdy se sluší mluvit a co zamlčet.
+- typ: odstavec
+  de: |-
+    Sein Hauptmann nimpt gebürliche pflicht/in deren er jm einbindt/was jhm für gůt vnd not ansicht von jm.
+  cs: |-
+    Jeho hejtman {Hauptmann} od něho přijímá náležitý závazek {pflicht}, v němž ho zaváže k tomu, co se mu zdá dobré a potřebné.
+- typ: odstavec
+  de: |-
+    Es wird jm doppel sold gegeben/vnd sunst mit andern zehen pferden ein Reyßwagen zůgeordnet.
+  cs: |-
+    Dává se mu dvojitý žold {doppel sold} a kromě toho se mu spolu s deseti jinými koňmi přiděluje cestovní vůz {Reyßwagen}[^2].
+- typ: odstavec
+  de: |-
+    Wa etwann Fürsten/Herrn/oder andere Potentaten in eim Feldtzug weren/so pflegt man jhnen etwann ein Heerbaucker zuhalten/deß befelch ist wie des Trommeters/wartet stätigs auff sein öbersten Herren/sein besoldung wird gestellt zum N. Herren.
+  cs: |-
+    Jsou-li v tažení {Feldtzug} knížata, páni nebo jiní mocnáři, bývá zvykem vydržovat jim kotláře {Heerbaucker}[^3]. Jeho povinnost je jako povinnost trubače: stále je k službám svému nejvyššímu pánovi. Jeho žold se ponechává na [uvážení] pána N.
+- typ: nadpis
+  uroven: 2
+  de: Ein bestallung der Reysigen/die mag gemindert oder gemehret werden.
+  cs: Služební list {bestallung} jízdy {Reysigen}, který lze zkrátit nebo rozšířit
+- typ: odstavec
+  de: |-
+    ZVm ersten/wa Grauen vnter der anzal Reuter sein würden/sollen Monatlich auff jren leib fünfftzig gülden gegeben vnd bezalt werden.
+  cs: |-
+    Za prvé: budou-li mezi tímto počtem jezdců {Reuter} hrabata, má se jim měsíčně na jejich osobu dávat a platit padesát zlatých {gülden}.
+- typ: odstavec
+  de: |-
+    Zum anderen/soll ein jhedes in der Musterung gůt gemacht pferd Monatlich mit zwölff gülden/den gülden zu sechtzig kreutzern gerechnet/versoldet werden.
+  cs: |-
+    Za druhé: každý kůň uznaný při přehlídce {Musterung} za dobrý[^4] má být žoldován měsíčně dvanácti zlatými, zlatý počítaje po šedesáti krejcarech {kreutzern}.
+- typ: odstavec
+  de: |-
+    Zum dritten jn auff zwölff gerüste pferd ein Troßpferd gerechnet/vnd demselben Monatlich sechs gülden bezalt werden.
+  cs: |-
+    Za třetí: má se jim[^5] na dvanáct vyzbrojených koní počítat jeden trénní kůň {Troßpferd} a za něj se má měsíčně platit šest zlatých.
+- typ: odstavec
+  de: |-
+    Zum vierdten/soll auff zwölff pferd ein wol gerüster vnnd in der Musterung gůt gemachter Wagen Monatlich mit vier vnd zwentzig gülden erhalten werden.
+  cs: |-
+    Za čtvrté: na dvanáct koní má být vydržován jeden dobře vystrojený a při přehlídce uznaný vůz, a to měsíčně čtyřiadvaceti zlatými.
+- typ: odstavec
+  de: |-
+    Zum fünfften/sollen die reysigen kräncke pferd/so sich der eins oder mehr in der gemusterten anzal zůtrügen/wie die gesunden gůt gemachte pferd monatlich versoldet/dergleichen die gefangne/soferr sie in des Kriegßherrn dienst nidergeworffen/vnterhalten vnd besöldt/auch bezalt werden.
+  cs: |-
+    Za páté: nemocní jezdečtí koně, přihodí-li se jich v přehlédnutém počtu jeden nebo více, mají být žoldováni měsíčně jako zdraví uznaní koně; stejně tak mají být vydržováni, žoldováni a placeni zajatci, pokud byli zajati {nidergeworffen} ve službě válečného pána {Kriegßherrn}.
+- typ: odstavec
+  de: |-
+    Zum sechsten/sollen die Reysigen/von jren häußlichen wonungen auß/biß zur Musterung auff ein jedes gerüst pferd/das in der Musterung zůgelassen wird/tag vnd nacht sechs batzen/dergleichen auff jeden dermassen gerüsten wagen zwölff batzen gegeben werden/damit sie allweg vier tag ziehen/vnd den fünfften still ligen/vnnd keynen tag vber vier meil wegs zureitten schuldig sein sollen.
+  cs: |-
+    Za šesté: jezdcům se má od jejich domovů až k přehlídce dávat na každého vyzbrojeného koně, který je při přehlídce připuštěn, na den a noc šest bacenů {batzen} a stejně tak na každý takto vystrojený vůz dvanáct bacenů; přitom mají vždy čtyři dny jet a pátý den odpočívat a nemají být povinni ujet za den víc než čtyři míle {meil} cesty[^6].
+- typ: odstavec
+  de: |-
+    Zum sibenden/so bald die Reutter auff den Musterplatz ankommen vnd gemustert/soll jnen sampt dem anreyt gelt/ein gantzer Monat sold hinauß gegeben/vnd sie
+  cs: |-
+    Za sedmé: jakmile jezdci přijedou na místo přehlídky {Musterplatz} a jsou přehlédnuti, má se jim spolu s příjezdným {anreyt gelt} vydat celý měsíční žold a mají být
+poznamky:
+- n: 1
+  text: |-
+    V tisku se slova „geschickt vnnd außrichtig/darumb …“ opakují dvakrát. Může jít o omyl sazeče, spíš však o záměrné rozvedení: první „darumb“ zdůvodňuje smělost (místo vpředu u korouhve), druhé obratnost (poselství k nepříteli). DE ponechává text tisku.
+- n: 2
+  text: |-
+    Tj. trubač nemá vlastní vůz, ale sdílí jeden cestovní vůz s dalšími deseti koňmi (jezdci) švadrony; jezdecké vozy se přidělovaly podle počtu koní (srov. níže jeden vůz na dvanáct koní).
+- n: 3
+  text: |-
+    Heerpauker – hráč na kotle (velké jezdecké bubny), dobově „kotlář“; kotle a trubky byly odznakem vysoké šlechty a knížat.
+- n: 4
+  text: |-
+    „gůt gemacht“ – při přehlídce schválený, uznaný za způsobilého (přehlídkový komisař koně i výzbroj prohlédl a „udělal dobrým“); jen takový kůň se počítal do žoldu.
+- n: 5
+  text: |-
+    V tisku „Zum dritten jn auff zwölff …“ – „jn“ = „jnen“ (jim); chybí sloveso („soll … gerechnet werden“), doplněno podle smyslu. Méně pravděpodobně je „jn“ tisková chyba za „ist“.
+- n: 6
+  text: |-
+    Německá míle (Meile) měřila asi 7–7,5 km; denní pochod tedy nejvýše asi 30 km.

@@ -1,0 +1,55 @@
+id: 112r
+list: CXII
+strana: recto
+sken: 231
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    feinds Legation darzů füren/Demnach das sebig nach vnnd nach/auch geschwind in ander Schewren tragen/vnd durch etliche abweg hinnach füren/vnnd also offt beschawen lassen/daß sie vermeynen alle Schewren seyen noch so räthlich gespeißt/vnnd es den feinden erzelen.
+  cs: |-
+    nepřátelské poselstvo. Potom má to obilí postupně, a to rychle, přenášet do jiných stodol, je [zajatce či posly] vodit za ním oklikami a nechat je tak opakovaně prohlížet, aby se domnívali, že všechny stodoly jsou stále stejně hojně zásobeny, a vyprávěli to nepřátelům.
+- typ: nadpis
+  uroven: 2
+  de: Von argwenigen Stetten vnd Besatzungen.
+  cs: O podezřelých městech a posádkách
+- typ: odstavec
+  de: |-
+    WO aber etliche seiner Stett vnd Besatzungen/in solchem seinem vnfall der vntrew verdacht/sol er jnen ein vnträglich schwer gebott/mit senfften worten/als tring jn vnuermeidliche not darzů/aufflegen/oder etwas beschlossen zuschicken mit befelch nicht zueröffnen/biß auff sein geheyß/vnnd bald wider darnach schicken/damit er auß worten/wercken vnd gebärden/jhre trew vnd willen weißlich spüren/vnd gůten Rath finden möge/bey rechter zeit/auch die trewlosen auff ein erdichte peut ins Feinds Heerschafft schicken/nach verschloßnen Stattpforten dem feind still verkundtschafften/vnd dieselbigen also ohn der seinen nachtheyl rechen.
+  cs: |-
+    Jsou-li však některá jeho města a posádky {Besatzungen} v takovém jeho neštěstí podezřelé z nevěry, má jim mírnými slovy uložit nesnesitelně těžký rozkaz, jako by ho k tomu nutila nevyhnutelná nouze; nebo jim má poslat něco zapečetěného s rozkazem neotvírat to až do jeho pokynu, a brzy nato pro to zase poslat, aby ze slov, skutků a chování moudře vypozoroval jejich věrnost a vůli a mohl v pravý čas najít dobrou radu. Nevěrné má také vyslat za smyšlenou kořistí na nepřátelské panství, za nimi zavřít městské brány, potají to dát vědět nepříteli a tak se jim bez škody pro své lidi pomstít.
+- typ: nadpis
+  uroven: 2
+  de: Huldwerbung.
+  cs: Získávání přízně
+- typ: odstavec
+  de: |-
+    DEmnach aber die Kriegßleuth gesinnt/wie sie mögen allein bey dem schmutzigen gewinn beharren/damit er nicht etwann in vnbedachtem vnglück/seiner freien herrlichkeyt/ja seines Lands vnnd volcks/durch abfall seines hauffens/vnnd schanckung seines feinds/wie der König Perses von den Römern/gefangen vnd beraubt werd/soll er keyn miet/gab noch verheyssung gegen den jhenigen sparen/die vmb seinet willen redlich gestritten/Schütz/Wunden/Stich/Beraubung/Gefencknuß/vnnd dergleichen Kriegß gefährligkeyt erlitten hetten/darmit er die trewen dürstiger/die wanckelmütigen standhafftiger/vnnd die fahrlessigen gůtwilliger mache.
+  cs: |-
+    Protože však váleční lidé smýšlejí tak, že vytrvají jen u špinavého zisku, nemá – aby nebyl v nenadálém neštěstí odpadnutím svého houfu a úplatky svého nepřítele zajat a oloupen o svou svobodnou vládu, ba o zemi i lid, jako král Perseus Římany[^1] – šetřit žádnou odměnou, darem ani slibem vůči těm, kdo za něj statečně bojovali a utrpěli střely, rány, bodnutí, oloupení, vězení a podobná válečná nebezpečí; tím učiní věrné smělejšími, vrtkavé stálejšími a nedbalé ochotnějšími.
+- typ: nadpis
+  uroven: 2
+  de: Wassergebräst.
+  cs: Nedostatek vody
+- typ: odstavec
+  de: |-
+    DEn soll er in nöten/durch schlachtung vnd einsaltzung der Thier/vnnd außtreibung deß vnnützen volck wenden.
+  cs: |-
+    Ten má v nouzi odvrátit porážkou a nasolením dobytka a vyhnáním neužitečného lidu.
+- typ: nadpis
+  uroven: 2
+  de: Außfall.
+  cs: Výpad
+- typ: odstavec
+  de: |-
+    WEr die Statt volckreich/vest vnd wolbesetzt/soll er die Mawren vnd Bollwerck mit wenig knechten vnd verkleydten Weibern ringsvmb/nach erforderung der noth bewaren/vil newer Fändlin machen/vnnd auff der Wehr schwingen vnd sehen lassen/als wer ein grössere Besatzung da/vnnd bey den zweyen nechsten Pforten/in gerüster Ordnung halten/wann der Feind den Sturm anlieffe/daß er in jhn zu beyden seitten von stundan außbrech. Er soll auch nach gelegenheyt der zeit/etwann sich stellen/als förchtet er jm/vnd alßdann vnter solchem schein/den feind in hitz oder kelte/durst oder hunger/Regen oder Wind/lang auffzihen/zuletzt jhn helligen/vnnd mit seinem mütigen vnnd gerůhten Knechten grausamiglich außfallen/wie Benjamin/zun zeiten auch vmb ein abzug werben mit gůter vnnd
+  cs: |-
+    Je-li město lidnaté, pevné a dobře obsazené, má hradby a bašty {Bollwerck} dokola podle potřeby střežit jen několika knechty a převlečenými ženami, dát nadělat mnoho nových praporců {Fändlin}, mávat jimi na hradbách a ukazovat je, jako by tam byla větší posádka, a u dvou nejbližších bran držet [lid] připravený v šiku, aby na nepřítele, jakmile by zahájil útok, hned vyrazil z obou stran. Podle okolností se má také někdy tvářit, jako by se nepřítele bál, a pod touto záminkou ho dlouho zdržovat ve vedru či mrazu, v žízni či hladu, v dešti či větru, nakonec ho vyčerpat a se svými smělými a odpočatými knechty na něj prudce vyrazit jako Benjamin;[^2] někdy má také vyjednávat o odchodu, [ale] s dobrou a
+poznamky:
+- n: 1
+  text: |-
+    Perseus, poslední makedonský král, poražený Římany u Pydny 168 př. n. l. a zajatý; jeho pád se přičítal mj. tomu, že ze skrblictví nezaplatil najaté Galy (Bastarny).
+- n: 2
+  text: |-
+    Narážka na boj Benjamínovců u Gibeje (Sd 20), kteří dvakrát vyrazili z města a porazili obléhající Izraelce.

@@ -1,0 +1,63 @@
+id: 030r
+list: XXX
+strana: recto
+sken: 67
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Er soll ein gelt auff die geschossen Kugeln so wider gebracht werden legen/vnd offentlich im Läger verkünden/was man dann also für Kuglen bringet/die soll der Zeugwart annemen/das verordnet gelt geben/das ordentlich beschreiben/die Kuglen durch die lärer treiben/nachmals jede dahin sie gehört/verordnen/das alles soll vmb dester weniger verdachts willen/durch deß Zeugmeysters Leutenant/den Zalschreiber vnd Zeugwarten gehandelt werden.
+  cs: |-
+    Má vypsat odměnu za vystřelené koule {Kugeln}, které se přinesou zpět, a veřejně to v ležení {Läger} vyhlásit. Jaké koule se pak přinesou, ty má zbrojní správce {Zeugwart} převzít, vyplatit stanovené peníze, řádně to zapsat, koule prohnat kalibrovými měrkami {lärer}[^1] a potom každou přidělit tam, kam patří. To všechno se má, aby bylo tím méně podezření, vyřizovat skrze zbrojmistrova {Zeugmeysters} poručíka {Leutenant}, platebníka {Zalschreiber} a zbrojního správce.
+- typ: odstavec
+  de: Deß Zeugwarten Besoldung ist Monats vier Söld vnd einen Jungen.
+  cs: Žold {Besoldung} zbrojního správce činí měsíčně čtyři žoldy {Söld} a jedno pachole {Jungen}.
+- typ: odstavec
+  de: Seinem Schreiber zwen Söld.
+  cs: Jeho písaři {Schreiber} dva žoldy.
+- typ: odstavec
+  de: |-
+    Wil er dann ein gerüst Pferdt halten/das an der Musterung bestehn mag/soll jhm gemustert vnd gůt gemacht werden.
+  cs: |-
+    Chce-li pak vydržovat zbrojného koně {gerüst Pferdt}, který při přehlídce {Musterung} obstojí, má mu být při přehlídce uznán a zaplacen.
+- typ: nadpis
+  uroven: 2
+  de: Von der Geschirrmeyster Befelch/Ampt vnd Besoldung.
+  cs: O pověření, úřadu a žoldu vozmistrů {Geschirrmeyster}
+- typ: odstavec
+  de: |-
+    DJe Geschirrmeyster sollen erwöhlt vnd außgelesen werden/von gůten Fürleuthen/die jhr tag vil gefahrn/die Strassen von einem Landt inn das ander wissen vnd gebraucht haben/auch vnter vilen vnnd besonder Fürleuthen bekannt/die wissen dann in bewerbung vnd auff bringung der Fürleuth welche rechtgeschaffen/auch wol gerüst vnd bemannt seien.
+  cs: |-
+    Vozmistři se mají volit a vybírat z dobrých vozků {Fürleuthen}, kteří za svůj život mnoho najezdili, znají cesty z jedné země do druhé a jezdili po nich a jsou známí mezi mnoha [lidmi], zvláště mezi vozky. Ti pak při najímání a sbírání vozků vědí, kteří jsou řádní a také dobře vybavení a mají dost lidí.
+- typ: odstavec
+  de: |-
+    Die Geschirrmeyster werden gewönlich vom Zeugmeyster außgesandt/die Wägen/Pferdt vnd Fürleuth zubestellen/dann man můß sie mit müh auff bringen/es thůts nicht jedermann gern.
+  cs: |-
+    Vozmistry obvykle vysílá zbrojmistr {Zeugmeyster}, aby objednali vozy, koně a vozky, neboť ty je třeba shánět s námahou – nikdo to nedělá rád.
+- typ: odstavec
+  de: |-
+    Item die Geschirrmeyster sollen im zug alle abendt den Zeugmeyster in seinem losament suchen/nach bescheyd fragen/damit ers den Fürleuthen könd anzeygen/zu welcher zeit sie sollen einspannen/vnnd warten wann man anziehen soll/auch wohin sie die Deichßel wägen sollen führen/Der Zeugmeyster soll jm auch nicht weiter dann biß in das nechst Läger anzeygen/wohin man ziehen wil/das soll der Geschirrmeyster bey seinem Eyd in geheym behalten.
+  cs: |-
+    Dále mají vozmistři na pochodu {zug} každý večer vyhledat zbrojmistra v jeho ubytování {losament} a zeptat se na rozkazy, aby mohli vozkům oznámit, v kolik hodin mají zapřahat a čekat, kdy se vyrazí, a také kam mají vozy s ojí {Deichßel wägen}[^2] vézt. Zbrojmistr mu však nemá oznamovat, kam se táhne, dál než do nejbližšího ležení; a to má vozmistr pod svou přísahou {Eyd} držet v tajnosti.
+- typ: odstavec
+  de: |-
+    Es ist aber noth/daß der Geschirrmeyster deß ein wissen hab/dann er můß mit dem Schantzmeyster helffen im vorreytten/die bereytten vnd besehen/reden vnd rathen/wie die brücken vnd weg zumachen/es ist deßhalben nicht wenig an einem Geschirrmeyster gelegen/dann sie sollen sich darauff verstehn/darzů verstehn sie auch gemeynlich baß dann ander leuth/was die lange züg an den rencken vermögen oder thůn.
+  cs: |-
+    Je však nutné, aby to vozmistr věděl, neboť musí se šancmistrem {Schantzmeyster} pomáhat při jízdě napřed, cesty projíždět a prohlížet, rokovat a radit, jak upravit mosty a cesty. Proto na vozmistrovi nemálo záleží, neboť se v tom mají vyznat; navíc obvykle lépe než jiní lidé rozumějí tomu, co dlouhá spřežení {lange züg} v zatáčkách {rencken}[^3] zmohou nebo dokážou.
+- typ: odstavec
+  de: |-
+    Sie wissen auch baß was die Brücken tragen mögen oder nicht/darzů so sie ein boden sehen/können sie erkennen/ob er das Geschütz vnd andere schwere läst ertragen möge oder nit.
+  cs: |-
+    Také lépe vědí, co mosty unesou a co ne; a když vidí půdu, dokážou poznat, zda unese děla {Geschütz} a jiná těžká břemena, nebo ne.
+- typ: odstavec
+  de: |-
+    So sollen sie auch wissen vnd verstehen/so man an gebirg kompt/ob die hole weg auch weit genůg seind/den Achßen deß grossen geschütz/dieweil sie etwann
+  cs: |-
+    Mají také vědět a rozumět, když se přijde do hor, zda jsou úvozy {hole weg} dost široké pro nápravy {Achßen} velkých děl, protože ty mají někdy
+poznamky:
+- n: 1
+  text: lärer – patrně „Lehre“ (měrka, kalibr), kruh nebo deska s otvorem, kterou se koule prohánějí, aby se roztřídily podle ráže; srov. „leheren“ na 20v.
+- n: 2
+  text: Deichßelwägen – vozy tažené za oj (s párovým zápřahem), srov. 19r.
+- n: 3
+  text: rencken – zatáčky, zákruty cesty (Rank); dlouhá spřežení těžkých děl jimi projíždějí obtížně.

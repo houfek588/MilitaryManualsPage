@@ -1,0 +1,25 @@
+id: 062v
+list: LXII
+strana: verso
+sken: 132
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Verzeychnuß deß Artickels Brieff/darauff Römischer Keyserlicher Maiestat Teutsch Kriegßuolck der Oberländischen Regiment zudienen/vnd den zuhalten/zugeleben vnd nachzukommen schweren sollen/wie hernach folgt.
+  cs: |-
+    Znění artikulního listu {Artickels Brieff}, na který má německý válečný lid hornoněmeckých pluků {Oberländischen Regiment}[^1] Římského císařského Majestátu přísahat, že bude sloužit a že jej bude zachovávat, podle něho žít a jemu se podřizovat, jak dále následuje
+- typ: obrazek
+  soubor: obrazek12.png
+  popis: |-
+    Dřevořez v oválném rámu z trofejí a zbraní: ve velkém kuželovitém stanu s odhrnutými plachtami sedí u stolu pokrytého listinami několik mužů, jeden píše; vpravo stojí muž v dlouhém plášti s mečem u boku.
+- typ: odstavec
+  de: |-
+    ERstlich sollen jhr der Römischen Keyserlichen Maiestat/etc. vnserm allergnedigsten Herren/auch jhrer Maiestat Obersten Feldthauptmann/vnd ewerem verordneten Obersten schweren/trewlich zudienen/jhren schaden zuwenden/vnd frommen zufürdern/dergleichen allen Hauptleuten/Fänderichen/Weybeln vnnd Befelchsleuthen/so von gedachten Obersten gesetzt werden/gehorsam zusein/was sie mit euch schaffen vnnd gebieten/das Kriegßleuthen zůstehet/er sey Edel oder vnedel/kleyn oder groß Hans/dasselb ohne alle widerrede vnnd außzug zuthun/vnnd keyn meuterey zumachen/sondern sich gebrauchen lassen/es sey zu den Feinden oder
+  cs: |-
+    Předně máte přísahat Římskému císařskému Majestátu atd., našemu nejmilostivějšímu pánu, a také nejvyššímu polnímu hejtmanovi {Obersten Feldthauptmann} Jeho Majestátu a svému ustanovenému plukovníkovi {Obersten}, že jim budete věrně sloužit, jejich škodu odvracet a jejich prospěch podporovat; a rovněž že budete poslušni všech hejtmanů {Hauptleuten}, praporečníků {Fänderichen}, šikovatelů {Weybeln} a velitelů {Befelchsleuthen}, které jmenovaný plukovník ustanoví, a cokoli vám přikážou a nařídí, co náleží válečným lidem, ať je [velitel] urozený či neurozený, malý či velký pán, že to vykonáte bez jakéhokoli odmlouvání a vytáček, nebudete strojit žádnou vzpouru, nýbrž se dáte použít, ať k nepřátelům, nebo
+poznamky:
+- n: 1
+  text: |-
+    Oberländische Regiment – pluky lancknechtů z Horních (tj. jižních) Němec, ze Švábska, Bavorska a Tyrol, na rozdíl od „dolnoněmeckých“ (niderländische) pluků.

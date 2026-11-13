@@ -1,0 +1,62 @@
+id: 063r
+list: LXIII
+strana: recto
+sken: 133
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    von den feinden/auff Zügen oder Wachten/auff Wasser oder Land/wie es sich begebe/bey tag oder nacht/nachdem es die notturfft erfordert/vnd jrer Maiestat gelegen/vnd von nöten sein würde.
+  cs: |-
+    od nich, na taženích či na stráži, na vodě či na souši, jak se přihodí, ve dne i v noci, jak bude potřeba vyžadovat a jak to bude Jeho Majestátu vhodné a nutné.
+- typ: odstavec
+  de: |-
+    Wa aber einer oder mehr darinn vngehorsam erschien/der oder dieselben sollen nach erkantnuß deß Obersten gestrafft werden/als inn nachgeschribnen Artickeln klärlich geschriben stehet.
+  cs: |-
+    Kdyby se však jeden nebo více z nich ukázali v tom neposlušnými, má být ten nebo ti potrestáni podle uvážení plukovníka {Obersten}, jak je zřetelně napsáno v následujících artikulích.
+- typ: odstavec
+  de: |-
+    Es soll sich ein jeder massen/Gott vnnd seine Heyligen zulestern/wa aber einer oder mehr Gott vnnd seine Heyligen also fräuenlich lestern würden/die sollen am leib vnd leben gestrafft werden.
+  cs: |-
+    Každý se má zdržet rouhání Bohu a jeho svatým. Kdyby se však jeden nebo více z nich Bohu a jeho svatým takto svévolně rouhali, mají být potrestáni na těle i na životě.
+- typ: odstavec
+  de: |-
+    Es soll sich auch ein jedes Fändlin knecht/samptlich/sonderlich/oder Rotten weiß/wie sich begebe/oder die notturfft erheyscht/gebrauchen oder schicken lassen/es sey auff Zügen/Wachten oder besatzungen nach erkantnuß der Obersten.
+  cs: |-
+    Také knechti {knecht} každého praporce {Fändlin} se mají nechat použít či vyslat – všichni společně, jednotlivě nebo po rotách {Rotten}, jak se přihodí nebo jak si potřeba žádá –, ať na tažení, na stráž nebo do posádek {besatzungen}, podle uvážení plukovníků.
+- typ: odstavec
+  de: |-
+    Vnd ob sich begebe/daß ein Hauptmann mit eins andern Hauptmanns Fänderichen/Weybeln vnnd Knechten zuthun schieff/daß die notturfft erfordert/was Kiregsleuhten zuthun müglich ist/darinn soll jhme gehorsam geschehen/gleich ob sollichs sein Hauptmann selbs schieffe.
+  cs: |-
+    A kdyby se stalo, že by některý hejtman {Hauptmann} přikázal praporečníkům {Fänderichen}, šikovatelům {Weybeln} a knechtům jiného hejtmana něco, co si žádá potřeba a co je ve válečníkových silách, mají ho v tom poslechnout, jako by to přikázal jejich vlastní hejtman.
+- typ: odstavec
+  de: |-
+    Item die Kindbetterin/schwangere frawen/alt leut/Priester vnd andere Geystlich leut/auch ob man mit dem Läger ligen würd/oder ein zug thete/da Kirchen weren/so sollen jhr euch alßdann inn die Kirchen nit lägern noch losieren noch die sonst auffbrechen vnd entehren/sonder sie ehren/beschützen vnnd beschirmen wie es sich gebürt/vnd in keyn weg beleydigen/sonder Christliche Ordnung halten/wie von alter her/bey leib straff.
+  cs: |-
+    Dále co se týče šestinedělek, těhotných žen, starých lidí, kněží a jiných duchovních osob, a také kdyby se stálo ležením {Läger} nebo táhlo tam, kde jsou kostely: v kostelech se pak nemáte ukládat ani ubytovávat, ani je jinak vylamovat a znesvěcovat, nýbrž je ctít, chránit a ochraňovat, jak se sluší, a nijak jim neubližovat, ale zachovávat křesťanský řád jako odedávna, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item jhr sollend dreissig tag für ein Monat zudienen schuldig sein/wie dann der gebrauch ist/vnd soll einem jeden auff jeden Sold deß Monats vier gulden Reinisch in Müntz zu fünffzehen Batzen oder fünff vnd zwentzig Stiber/inn allerley gelt/golt oder müntz/wie sollich gelt an den orten/da die bezalung beschehen/ganghaffte sein würd/gereycht vnd gegeben werden/vnd alle Monat acht tag vor oder nach die bezalung beschehen/Doch so das gelt sich fünff/zehen oder fünffzehen tag verzöge/vnd nit gleich von stundan da were/so solt jhr gedult haben/nicht desto weniger ewer Wacht versehen/vnd keyn zug abschlahen/wie dann kriegs leuthen gebürt.
+  cs: |-
+    Dále jste povinni sloužit třicet dní za jeden měsíc, jak je zvykem. Každému se má na každý měsíční žold {Sold} podat a vyplatit čtyři rýnské zlaté {gulden} v minci po patnácti bacenech {Batzen} nebo pětadvaceti stüverech {Stiber}[^1], v jakýchkoli penězích, zlatě či minci, které budou v místě výplaty v oběhu; a výplata má proběhnout každý měsíc o osm dní dříve nebo později. Kdyby se však peníze o pět, deset nebo patnáct dní opozdily a nebyly hned po ruce, máte mít strpení, přesto konat svou stráž a neodmítat žádné tažení, jak se na válečníky sluší.
+- typ: odstavec
+  de: Vnd geht euch ewer dienst den eylfften tag deß Monats Maij an.
+  cs: A vaše služba začíná jedenáctého dne měsíce května.
+- typ: odstavec
+  de: |-
+    Item ob einer oder mehr gelt empfangen/vnd darumb zudienen noch schuldig weren/vnnd darüber sonder erlaubnuß vnd Paßborten der Obersten hinweg gehn/Wa/oder wann derselben einer oder mehr betretten würde/der soll an leib vnd leben gestrafft werden/vnnd seiner ehren beraubt sein/auch kein freyheyt/sicherheyt noch geleit niendert haben.
+  cs: |-
+    Dále: kdyby jeden nebo více z nich přijali peníze a byli za ně ještě povinni sloužit, a přesto odešli bez svolení a průvodního listu {Paßborten}[^2] plukovníků, pak kdekoli a kdykoli by byl kterýkoli z nich dopaden, má být potrestán na těle i na životě a zbaven své cti a nikde nemá mít žádnou svobodu, bezpečí ani glejt.
+- typ: odstavec
+  de: |-
+    Auch soll kein Knecht inn Zügen auß der Ordnung gehn/one mercklich vrsach/Wa aber einer oder mehr inn sollichem vngehorsam were/sollen die Hauptleuth/
+  cs: |-
+    Také žádný knecht nemá na tažení vystupovat ze šiku {Ordnung} bez závažné příčiny. Kdyby však jeden nebo více z nich byli v tom neposlušní, mají hejtmani,
+poznamky:
+- n: 1
+  text: |-
+    Stüber (Stiber) – drobná stříbrná mince Nizozemí a Dolního Porýní; 25 stüverů se zde klade na roveň 15 bacenům, tj. jednomu rýnskému zlatému.
+- n: 2
+  text: |-
+    Paßborten – pas, propustka (it. passaporto); bez ní knecht nesměl opustit vojsko.

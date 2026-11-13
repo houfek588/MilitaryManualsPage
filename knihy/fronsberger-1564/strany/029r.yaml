@@ -1,0 +1,64 @@
+id: 029r
+list: XXIX
+strana: recto
+sken: 65
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    es werden Fänderich vnd Trommenschlager nichts vor andern gehalten mit der besoldung.
+  cs: |-
+    praporečník {Fänderich} a bubeník {Trommenschlager} nemají v žoldu {besoldung} nic navíc oproti ostatním.
+- typ: odstavec
+  de: |-
+    Die Besoldung deß Hauptmanns der Schantzbawren ist vngefährlich vier Söld.
+  cs: |-
+    Žold hejtmana šancířů {Schantzbawren} činí přibližně čtyři žoldy {Söld}[^1].
+- typ: nadpis
+  uroven: 2
+  de: Zeugwarts befelch/Stath/Ampt vnd Besoldung.
+  cs: Pověření, stav, úřad a žold zbrojního správce {Zeugwarts}
+- typ: odstavec
+  de: |-
+    EIn Zeugwart soll sein ein geschickter verstendiger mensch/der ein bericht vnnd verstand habe aller ding/so zu dem Geschütz/vnd aller Arckelley gehört.
+  cs: |-
+    Zbrojní správce má být schopný a rozumný člověk, který má znalost a porozumění všem věcem, jež patří k dělům {Geschütz} a k celému dělostřelectvu {Arckelley}.
+- typ: odstavec
+  de: |-
+    Er soll allen zeug vnd Munition vnter seinem befelch vnnd gewalt haben/alles das man mit ins Feld führt/soll jhm ordentlich inuentirt vnd vberantwort werden/Damit er jeder zeit wiß Rechnung/red vnd antwort zugeben/dem Zeugmeyster/vnnd nachmals dem Kriegßherren/was noch für vorrath jeder gattung bey der Arckelley vorhanden sey.
+  cs: |-
+    Má mít pod svou správou a mocí veškerou výzbroj {zeug} a munici {Munition}; všechno, co se veze do pole, mu má být řádně sepsáno do inventáře a předáno, aby mohl kdykoli vydat počet, zprávu a odpověď zbrojmistrovi {Zeugmeyster} a potom válečnému pánu {Kriegßherren}, jaká zásoba kterého druhu je ještě u dělostřelectva k dispozici.
+- typ: odstavec
+  de: |-
+    Deßgleichen ob man hett Stätt oder Schlösser beschossen/was für Puluer vnd Kuglen/in wie vil tagen/vnnd wie vil mit denen vnnd jenen stücken auffgangen vnd verschossen worden sey/oder so man geschlagen oder gescharmützlet hett/darmit man sich jeder zeit/nachdem man in der Arckelley verfasset/darnach zuschicken vnnd halten wisse.
+  cs: |-
+    Stejně tak, ostřelovala-li se města či zámky, [má vědět,] kolik prachu {Puluer} a koulí {Kuglen} se spotřebovalo a vystřílelo, za kolik dní a kolik z kterých kusů {stücken}, nebo zda se svedla bitva či šarvátka, aby se vždy vědělo, jak se zařídit a zachovat podle toho, jak je dělostřelectvo zásobeno.
+- typ: odstavec
+  de: |-
+    Er soll alle nacht ordentlich verzeychnen/was denselbigen tag auffgangen/von Puluer/Kuglen vnnd anderm/So jhne dann bedüncken wolt/daß etwas zu mangel gereychen wolt/das soll er in geheym bey zeiten dem Zeugmeyster anzeygen vnd keynes wegs verhalten/sonst soll ers bey seynem Eyd niemand offenbaren/dann kan der Zeugmeyster solches im Kriegßrath fürbringen vnd anzeygen/darnach man sich dann zurüsten wiß.
+  cs: |-
+    Má každou noc řádně zapsat, co se toho dne spotřebovalo z prachu, koulí a jiného. Zdálo-li by se mu, že by něčeho mohlo začít být nedostatek, má to včas tajně oznámit zbrojmistrovi a nijak to nezamlčet; jinak to však pod svou přísahou {Eyd} nesmí nikomu prozradit. Zbrojmistr to pak může přednést a oznámit ve válečné radě {Kriegßrath}, aby se vědělo, jak se podle toho připravit.
+- typ: odstavec
+  de: |-
+    Der Zeugwart soll auch alle nacht befelhen vnd darob sein/daß die Puluerwägen auff jren verordneten platz/wie dann der Zeugmeyster/vnnd Quartiermeyster verordnen/gestellt/vnd zwischen den andern Arckelley wägen/als in einer Wagenburg/damit niemand darzů kommen mög/verhůt/vnd verwart werden.
+  cs: |-
+    Zbrojní správce {Zeugwart} má také každou noc nařídit a dohlédnout, aby se vozy s prachem {Puluerwägen} postavily na své určené místo, jak to nařídí zbrojmistr a kvartýrmistr {Quartiermeyster}, a aby se mezi ostatními vozy dělostřelectva jako ve vozové hradbě {Wagenburg} střežily a opatrovaly, tak aby se k nim nikdo nemohl dostat.
+- typ: odstavec
+  de: |-
+    Darzů sollen andere Zeugdiener helffen/damit niemandt zum Puluer zugang gestattet vnnd zugelassen werde/weder freund noch feind/tag oder nacht/in lermen oder sonst.
+  cs: |-
+    K tomu mají pomáhat ostatní zbrojní služebníci {Zeugdiener}, aby k prachu nebyl nikomu dovolen a povolen přístup – ani příteli, ani nepříteli, ve dne ani v noci, za poplachu {lermen} ani jindy.
+- typ: odstavec
+  de: |-
+    Man soll das Puluer in gůten gehäben vnd wol verspunten fassen führen/damit keyn wasser hinein möge/wo man durch die geschwelten wasser fert.
+  cs: |-
+    Prach se má vézt v dobrých, těsných {gehäben} a dobře zazátkovaných sudech, aby do nich nemohla vniknout voda, když se jede přes rozvodněné vody.
+- typ: odstavec
+  de: |-
+    Er soll auch alle morgen/so man im Läger auffbricht/vnd die Fürleuth angespant haben/einen jeden Fürmann verordnen/wo er fahren soll/damit er die Wägen in ordnung behallt/es wil sein ordnung haben/wie/vnd wo ein jeder wagen fahren soll/damit man könde/so von nöten ist/eim jeden Zeugdiener sagen/da findestu den oder den Wagen/dann es weyß mancher Fürman selbs nit was er fürt/auch der nächst
+  cs: |-
+    Má také každé ráno, když se ležení {Läger} zvedá a vozkové {Fürleuth} zapřáhli, každému vozkovi {Fürmann} určit, kde má jet, aby udržel vozy v pořádku. Musí být pořádek v tom, jak a kde má který vůz jet, aby se dalo, je-li toho třeba, každému zbrojnímu služebníkovi říci: tam najdeš ten či onen vůz. Mnohý vozka totiž sám neví, co veze, a ani ten, kdo jede nejblíže
+poznamky:
+- n: 1
+  text: Sold jako jednotka = jednoduchý měsíční žold (4 zlaté, jako u šancíře); čtyři žoldy tedy činí asi 16 zlatých.

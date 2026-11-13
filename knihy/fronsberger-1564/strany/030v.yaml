@@ -1,0 +1,67 @@
+id: 030v
+list: XXX
+strana: verso
+sken: 68
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    weiter geachßet seind/dann andere wägen/ist in den holwegen Felß vnnd steyn/so můß man die grossen gefeß zerlegen/da gehören die Schneller/Schmid/Zimmerleuth vnd Wagner zu/dieselbige auff die ringste wägen legen/die das geleyß haben/vnd stückßweiß hindurch führen lassen/darnach sollen sie wider abgeladen vnnd zusammen geschlagen werden.
+  cs: |-
+    širší rozchod náprav než jiné vozy. Je-li v úvozech skála a kamení, musí se velké lafety {gefeß} rozebrat; k tomu patří zvedači {Schneller}, kováři, tesaři a koláři. Ti je mají naložit na nejlehčí vozy, které mají [náležitý] rozchod {geleyß}, a nechat je převézt po kusech; potom se mají zase složit a stlouct dohromady.
+- typ: odstavec
+  de: |-
+    Seind aber die hole weg Sand oder Erden/so mag man sie mit den Schantzbawren wol raumen lassen.
+  cs: |-
+    Jsou-li však úvozy písčité nebo hliněné, lze je dát dobře vyklidit šancíři {Schantzbawren}.
+- typ: odstavec
+  de: |-
+    So dann die Weg also biß inn das nechst Läger da man die nacht wil sein/gemacht/so soll der geschirrmeyster wider zu ruck reitten/dem grossen geschütz entgegen/demselbigen vorzureiten/die weg zu weisen/die er vor hat helffen bereyten/darmit sie auff dem rechten gefert bleiben mögen.
+  cs: |-
+    Když jsou pak cesty takto upraveny až do nejbližšího ležení {Läger}, kde se má nocovat, má vozmistr {geschirrmeyster} jet zase zpátky naproti velkým dělům {geschütz}, jet před nimi a ukazovat cesty, které předtím pomáhal upravovat, aby [děla] zůstala na správné cestě.
+- typ: odstavec
+  de: |-
+    So aber der Geschirrmeyster mehr dann einer ist/als gewönlich geschicht/so sollen die andern bey dem grossen Geschütz bleiben/ob ein Büchß versüncke/oder besteckt/oder ein Bühel so hoch/daß man ein Büchß darüber nicht bringen möcht/So soll der Geschirrmeyster von den ledigen Pferden nemen vnd fürsetzen/biß man fort kommen mag.
+  cs: |-
+    Je-li však vozmistrů víc než jeden, jak obvykle bývá, mají ostatní zůstat u velkých děl pro případ, že by se některé dělo {Büchß} propadlo nebo uvízlo, nebo že by byl pahorek tak vysoký, že by se přes něj dělo nedalo dostat. Tu má vozmistr vzít volné koně a předepnout je, dokud se nebude moci jet dál.
+- typ: odstavec
+  de: Nota/man hat gewönlich zu zweyhundert pferden ein Geschirrmeyster.
+  cs: 'Poznámka: obvykle se má na dvě stě koní jeden vozmistr.'
+- typ: odstavec
+  de: |-
+    Item die Geschirrmeyster sollen auch wo es noth thůt/wo man zeucht oder ligt in der Freund Land/den Fürleuthen vmb habern vnd stallung/doch vmb jhr gelt/wo mans haben mag/trachten.
+  cs: |-
+    Dále mají vozmistři, kde je toho třeba – když se táhne nebo leží v přátelské zemi –, shánět pro vozky {Fürleuthen} oves a stáje, ovšem za jejich peníze, kde se to dá sehnat.
+- typ: odstavec
+  de: |-
+    Item so man das Geschütz in die Schantz fürt/So sollen die Geschirrmeyster den Fürleuthen vor reytter oder gehn/wegweisung geben/helffen vnd rathen/daß die Büchßen recht geführt/auffgesetzt vnd gestellt werden.
+  cs: |-
+    Dále když se vezou děla do šance {Schantz}, mají vozmistři jet nebo jít před vozky, ukazovat cestu, pomáhat a radit, aby se děla {Büchßen} správně dovezla, nasadila a postavila.
+- typ: odstavec
+  de: |-
+    Item so man in die Schantz soll führen/Puluer/Kuglen oder gefeß/oder anders zur notturfft/So soll der Geschirrmeyster mit denselbigen/die es thůn sollen/verschaffen/darob vnnd daran sein/daß solches fürderlich geschehe mit laden vnnd führen.
+  cs: |-
+    Dále když se má do šance vézt prach {Puluer}, koule {Kuglen}, lafety nebo něco jiného potřebného, má to vozmistr zařídit s těmi, kdo to mají dělat, dohlížet na to a přičinit se, aby se to rychle naložilo a odvezlo.
+- typ: odstavec
+  de: |-
+    So ledige wagenpferdt werden mit geführt/die gehören auch vnter deß Geschirrmeysters verwaltung.
+  cs: |-
+    Vedou-li se s sebou volní vozní koně, patří také pod správu vozmistra.
+- typ: odstavec
+  de: |-
+    Deß Geschirrmeysters besoldung ist zugleich wie deß Zeugwarten/ohn daß er keynes Schreibers bedarff.
+  cs: |-
+    Žold {besoldung} vozmistra je stejný jako žold zbrojního správce {Zeugwarten}, jen s tím rozdílem, že nepotřebuje písaře.
+- typ: nadpis
+  uroven: 2
+  de: Ampt/Befelch vnd Besoldung deß Profoßen oder Arckelley.
+  cs: Úřad, pověření a žold profouse dělostřelectva {Profoßen oder Arckelley}[^1]
+- typ: odstavec
+  de: |-
+    DEß Profoßen der Arckelley Ampt ist/daß er mit den andern Profoßen/vnnd Profandtmeystern acht habe/daß die Arckelley mit Profand/als fleysch/brot/wein/bier/vnd anderm versehen werde/dasselbig schätz/vnd hinzugeben
+  cs: |-
+    Úřadem profouse {Profoßen} dělostřelectva {Arckelley} je dbát spolu s ostatními profousy a proviantmistry {Profandtmeystern}, aby bylo dělostřelectvo zásobeno proviantem {Profand}, totiž masem, chlebem, vínem, pivem a jiným, ten ocenit a jeho prodej
+poznamky:
+- n: 1
+  text: „oder Arckelley“ – zjevná tisková chyba za „der Arckelley“ (srov. první větu odstavce); v originále ponecháno.

@@ -1,0 +1,60 @@
+id: 012v
+list: XII
+strana: verso
+sken: 32
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Ein Matzicana/die wir Teutschen ein Scharpffmetzen nennen/soll ein eysen Kugel schiessen/die einen Centner/das ist hundert pfundt wigt/das ist vngefährlich das gröste geschlecht der Büchsen/damit man die Mawren fellet.
+  cs: |-
+    Matzicana[^1], kterou my Němci nazýváme šarfmece {Scharpffmetzen}, má střílet železnou kouli {Kugel}, která váží jeden cent {Centner}, to jest sto liber {pfundt}; to je asi největší druh děl {Büchsen}, jimiž se boří hradby.
+- typ: odstavec
+  de: |-
+    Ein Rana die wir Teutschen Basiliscus pflegen zu nennen/die scheußt ein Kugel/die soll wegen fünff vnd siebentzig pfundt.
+  cs: |-
+    Rana, které my Němci obvykle říkáme bazilišek {Basiliscus}, střílí kouli, která má vážit pětasedmdesát liber.
+- typ: odstavec
+  de: |-
+    Ein Dupplicana/die wir inn Teutscher Sprach ein Nachtgall oder Singerin nennen/schiessen ein Kugel/die am gewicht helt funfftzig pfundt/vnd ist zumercken/daß Nachtgall vnnd Singerinn ein geschlecht des Geschütz ist/allein haben sie den vnterscheydt/daß die Nachtgall etwann zweier schůch lenger ist dann die Singerin/schiessen aber beyde ein Kugel.
+  cs: |-
+    Dupplicana, které v německém jazyce říkáme slavík {Nachtgall} nebo zpěvačka {Singerin}, střílí kouli o váze padesáti liber. A je třeba si povšimnout, že slavík a zpěvačka jsou jeden druh děla {Geschütz}; liší se jen tím, že slavík je asi o dvě stopy {schůch} delší než zpěvačka, střílejí však obě stejnou kouli.
+- typ: odstavec
+  de: |-
+    Ein Quartan/so auff Teutsch ein Viertheyl Büchß mag genennt werden/dieweils von der Scharpffmetzen allwegen mit fünff vnd zwentzig pfunden abzeucht/biß auff die Carthonen/dann ein Quartan soll schiessen fünff vnd zwentzig pfunde eysen. So nuh jetzo die vier geschlecht des grossen Geschütz/die man pflegt Mawrbrecherin zu nennen/angezeygt vnnd vermeldt seind/so wöllen wir jetzo von den andern vier geschlechten der Büchsen/so man auch auff der Achß füren vnnd schiessen můß/aber nit Mawrbrecher/sonder Feldgeschütz genannt/vnd darzů gebraucht werden/sagen.
+  cs: |-
+    Quartan, kterou lze německy nazvat čtvrtinové dělo {Viertheyl Büchß}, protože od šarfmece se vždy ubírá po pětadvaceti librách až ke kartounám {Carthonen}[^2]; quartan totiž má střílet pětadvacet liber železa. Když jsme nyní ukázali a popsali čtyři druhy velkých děl, kterým se obvykle říká bořiči hradeb {Mawrbrecherin}, chceme nyní promluvit o dalších čtyřech druzích děl, která se rovněž musejí vozit a střílet na nápravě [tj. na kolové lafetě], ale nenazývají se bořiči hradeb, nýbrž polní děla {Feldgeschütz}, a k tomu se také užívají.
+- typ: odstavec
+  de: |-
+    Vnnd erstlich ist das fürnembst vnd gröst stück/vnter dem Feldtgeschütz ein Tracana/so wir Teutschen ein Nothschlangen heyssen/das seind Büchsen einer gůten lenge mehr dann sonst keyn ander geschlecht der grossen Büchsen/vnd scheußt gemeyniglich ein eysene Kugel/die sechtzehen oder achtzehen pfundt wigt/Vnd dieweil sie so ein schwere Kugel scheusset/so wird sie auch etwann neben anderen Mawrbrechern gebraucht/sonderlichen zu den Brustwehren vnd dünnen Mawren zuschiessen.
+  cs: |-
+    A nejpřednějším a největším kusem {stück} mezi polními děly je Tracana, kterou my Němci nazýváme nouzová hadovnice {Nothschlangen}. Jsou to děla značné délky, delší než kterýkoli jiný druh velkých děl, a střílí obvykle železnou kouli o váze šestnácti nebo osmnácti liber. A protože střílí tak těžkou kouli, užívá se někdy i vedle jiných bořičů hradeb, zvláště ke střelbě na předprsně {Brustwehren} a slabé zdi.
+- typ: odstavec
+  de: |-
+    Ein Schlauckana/so das ander geschlecht des Feldgeschütz/vnd von den Teutschen ein Schlangen genannt wird/die scheusset ein Kugel vngefährlich acht pfunde schwer eysen/vnd wird auch etwann zu den Wehren vnd dünnen Mawren vor den Besatzungen gebraucht.
+  cs: |-
+    Schlauckana, druhý druh polního děla, které Němci říkají hadovnice {Schlangen}, střílí železnou kouli o váze asi osmi liber a užívá se někdy také proti obranným stavbám a slabým zdem při obléhání {vor den Besatzungen}.
+- typ: odstavec
+  de: |-
+    Das dritt geschlecht des Feldgeschütz ist ein Falckana/so man ein halbe Schlangen nennt/vnd scheußt vngefährlich vier oder fünff pfundt eysen.
+  cs: |-
+    Třetím druhem polního děla je falkona {Falckana}, které se říká půlhadovnice {halbe Schlangen}; střílí asi čtyři nebo pět liber železa.
+- typ: odstavec
+  de: |-
+    Das vierdt vnd letzt geschlecht des Feldgeschütz ist ein Falcka/welch auff vnser Sprach Falckanet genennt wird/die scheusset gewönlich zwey pfundt Bley/vnnd ist gar ein gebreuchlich Geschütz im Feld vnd in Besatzungen seiner ringe/vnd deßhalben/daß man bald darmit fort kommen mag.
+  cs: |-
+    Čtvrtým a posledním druhem polního děla je Falcka, které se v naší řeči říká falkonet {Falckanet}. Střílí obvykle dvě libry olova a je to velmi užívané dělo v poli i v posádkách pro svou lehkost a proto, že se s ním dá rychle postupovat.
+- typ: odstavec
+  de: |-
+    Dieweil nuh alle geschlecht des grossen geschütz/als Mawrbrecherin vnd Feldgeschütz angezeygt seind/So wil von nöthen sein/daß auch weiter meldung geschehe/von etlichem anderm Geschütz/so auch auff der Achß gefürt vnnd geschossen wird.
+  cs: |-
+    Když jsme nyní ukázali všechny druhy velkých děl, totiž bořiče hradeb i polní děla, bude zapotřebí zmínit se dále i o některých jiných dělech, která se rovněž vozí a střílejí na nápravě.
+poznamky:
+- n: 1
+  text: >-
+    Italské (zkomolené) názvy děl – Matzicana, Rana, Dupplicana, Quartan, Tracana, Schlauckana, Falckana, Falcka –
+    Fronsperger uvádí podle „Vlachů“ (viz 012r) a k nim německé obecné názvy; v překladu ponechány v podobě tisku.
+- n: 2
+  text: >-
+    Řada bořičů hradeb klesá po 25 librách: šarfmece 100, bazilišek 75, slavík/zpěvačka 50, quartan (čtvrtinové dělo) 25 liber
+    železné koule. „Carthonen“ zde zřejmě znamená obecně kartouny, k nimž quartan jako nejmenší z řady patří.

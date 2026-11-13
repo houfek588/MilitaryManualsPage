@@ -1,0 +1,62 @@
+id: 081v
+list: LXXXI
+strana: verso
+sken: 170
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Dem Zeugmeyster oder Zeugwarten/soll sein Losament aller nächst bey dem Zeughauß eingeben werden/darmit er den Büchsenmeystern/deßgleichen den Hacken vnd Handbüchsen schützen zu jeder notturfft/deß fürderlicher geben vnnd zustellen möge.
+  cs: |-
+    Zbrojmistrovi {Zeugmeyster} nebo zbrojnímu správci {Zeugwarten} se má přidělit ubytování {Losament} co nejblíže u zbrojnice {Zeughauß}, aby mohl puškařům {Büchsenmeystern} i střelcům z hákovnic a ručnic {Hacken vnd Handbüchsen schützen} při každé potřebě tím rychleji vydávat a doručovat.
+- typ: odstavec
+  de: |-
+    Er soll auch auff jede Letze nach gelegenheyt der Büchsen/darauff Puluer/Kugeln/Ladungen/Zündstrick vnd Rüten verordnen/damit alle ding in gůter Ordnung gehn vnd bleiben mögen.
+  cs: |-
+    Má také na každé stanoviště {Letze}[^1] podle druhu děl, která na něm jsou, určit prach, koule, nálože {Ladungen}, zápalné šňůry {Zündstrick} a zapalovací tyče {Rüten}, aby vše šlo a zůstávalo v dobrém pořádku.
+- typ: odstavec
+  de: |-
+    Alle Letzen sollen jhre eygene vnd sondere namen vnnd zeychen haben/dieselbige zeychen sollen auch die Hacken vnd Scharpffentin/auch Bockbüchsen haben/Deßgleichen die Laden/darinn das Puluer/Ladungen/Wischer vnnd Kuglen/damit man allwegen wiß/wahin ein jeder Hack/Scharpffentin/Bockbüchs vnnd Laden gehör.
+  cs: |-
+    Všechna stanoviště mají mít svá vlastní a zvláštní jména a znamení; tatáž znamení mají mít i hákovnice {Hacken}, serpentiny {Scharpffentin} a kozlíkové pušky {Bockbüchsen}[^2], stejně jako truhly {Laden}, v nichž je prach, nálože, vytěráky a koule, aby se vždy vědělo, kam která hákovnice, serpentina, kozlíková puška a truhla patří.
+- typ: odstavec
+  de: |-
+    Item es soll auch jede Letze/jhren Rottmeyster mit seiner Rott/starck oder schwach nach gelegenheyt haben/mit desselbigen Rath vnd heyssen/soll man nit von derselbigen Letz schiessen/damit nicht der Zeug vergebens verschossen werde/der auch auff seiner Letze alle ding was noth ist/wisse zuuerordnen vnd sehen/damit nit ein jeder lauff wohin/vnd thů was er wöll.
+  cs: |-
+    Dále: Každé stanoviště má mít svého rotmistra {Rottmeyster} s jeho rotou {Rott}, silnou nebo slabou podle okolností; bez jeho rady a rozkazu se z toho stanoviště nemá střílet, aby se střelivo {Zeug} nevystřílelo nadarmo. Rotmistr má také umět na svém stanovišti nařídit a dohlédnout vše, čeho je třeba, aby každý neběhal, kam chce, a nedělal, co se mu zlíbí.
+- typ: odstavec
+  de: |-
+    Item so man nach ergangnem lärmen wider abzeucht/sollen alle Büchsen zuuor wider geladen/nach aller notturfft zur wehr wider zugericht vnnd versorget werden.
+  cs: |-
+    Dále: Když se po skončeném poplachu zase odchází, mají být všechna děla nejprve znovu nabita a podle potřeby opět připravena a zajištěna k obraně.
+- typ: odstavec
+  de: |-
+    Darnach vor allen dingen/sollen dem Zeugwarten alle Laden vnnd Puluersäck gebracht vnnd vberantwort werden/weß er dann mangel ahn Kuglen/Puluer/Zündtpuluer/Zündtstricken/vnnd anderm befindt/daß er dasselbig wider erstatt.
+  cs: |-
+    Potom mají být především zbrojnímu správci přineseny a odevzdány všechny truhly a pytle na prach; a čeho zjistí nedostatek – koulí, prachu, zápalného prachu {Zündtpuluer}, zápalných šňůr a jiného –, to má zase doplnit.
+- typ: odstavec
+  de: |-
+    Item die Büchsenmeyster vnnd Hackenschützen/sollen ernstlich darzů gehalten werden/daß sie offt zu jhren Büchsen sehen/darmit alles so darzů gehört/bey einander sey.
+  cs: |-
+    Dále: Puškaři a střelci z hákovnic {Hackenschützen} mají být přísně vedeni k tomu, aby často dohlíželi na svá děla a pušky {Büchsen}, aby vše, co k nim patří, bylo pohromadě.
+- typ: odstavec
+  de: |-
+    Es soll auch bey leibstraff gebotten/vnd ernstlich darob gehalten werden/daß niemandt nichts/so zum Geschütz gehört/daruon trag/oder thů/in keyn weg.
+  cs: |-
+    Také má být pod trestem na těle {leibstraff} přikázáno a přísně dodržováno, aby nikdo nic, co patří k dělům {Geschütz}, nijak neodnášel ani neodkládal jinam.
+- typ: odstavec
+  de: |-
+    Das Puluer soll nicht an einem/sonder an drey oder vier orten behalten vnnd verwaret werden/damit ob vnrath zuschlüg vnd Fewr außkäme/daß es nit an allen orten auffgieng/sonder ob man schon vmb eins oder zwey käme/hette man dannocht noch das vberig.
+  cs: |-
+    Prach se nemá uchovávat a schraňovat na jednom, nýbrž na třech nebo čtyřech místech, aby, kdyby přišla nehoda a vypukl oheň, nevzplál na všech místech; a i kdyby člověk o jedno či dvě přišel, měl by ještě zbytek.
+- typ: odstavec
+  de: |-
+    Damit man auch des Puluers halben dester weniger sorg dörff haben/des Fewers halben/vnd sonderlich als Donner vnnd Blitz/So ist gůt daß etwann viel zeug zum Puluer gestossen vnd zugericht/Als Salpetter/Schwefel/Kolen/etc.
+  cs: |-
+    Aby však bylo třeba mít o prach tím menší starost kvůli ohni, a zvláště kvůli hromu a blesku, je dobré mít roztlučeno a připraveno hodně surovin na prach, jako ledku {Salpetter}, síry, uhlí atd.,
+poznamky:
+- n: 1
+  text: |-
+    Letze – úsek hradby či obranné stanoviště přidělené skupině obránců s jejím rotmistrem a děly.
+- n: 2
+  text: Bockbüchse – těžká puška na podstavci (kozlíku), užívaná na hradbách.

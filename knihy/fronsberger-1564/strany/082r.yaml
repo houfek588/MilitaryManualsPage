@@ -1,0 +1,58 @@
+id: 082r
+list: LXXXII
+strana: recto
+sken: 171
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    jedes in besondern fässern vnd Tonnen hin vnnd wider im Schloß vnnd Besatzungen verwart werde/dann so not geschicht/kan bald Puluer darauß gemacht werden.
+  cs: |-
+    a každou [surovinu] uchovávat zvlášť v sudech a kádích tu a tam na hradě a v posádkách {Besatzungen}; neboť nastane-li nouze, lze z nich rychle udělat prach {Puluer}.
+- typ: odstavec
+  de: |-
+    Dabey ist auch sorg zuhaben/daß niemand mit keynem angezünten zündstrick oder anderm fewr ins Zeughauß gehe/oder andere ort da man vom fewr schaden besorgen mag.
+  cs: |-
+    Přitom je také třeba dbát, aby nikdo nechodil se zapálenou doutnákem {zündstrick} nebo jiným ohněm do zbrojnice {Zeughauß} ani na jiná místa, kde lze od ohně očekávat škodu.
+- typ: odstavec
+  de: |-
+    Ohn deß Obersten vnd der Beuelchsleuth sonder wissen vnnd geheyß/soll keyner keyn Büchs abschiessen/weder kleyn noch groß/weder singen/schreyen/pfeiffen/klopffen noch ichts dergleichen/auch nit leutten/Man sol auch ob ein vhr in der Besatzung were/die schlag vhr auffhalten vnd nit schlahen lassen/die Zeygvhr wo sie die feind nit sehen mögen/mag man gehn lassen/besonder bey nacht/das soll ernstlich bey leibstraff gebotten/vnd darob gehalten werden/dann gefährlichkeyt der verrähtereyen vnd meutereyen darauff steht/etc. auch so schon sonst nichts/so wird doch der Zeug vnnützlich verthan/vnd macht etwann vergebens lärmen.
+  cs: |-
+    Bez zvláštního vědomí a rozkazu nejvyššího [velitele posádky] {Obersten} a velitelů {Beuelchsleuth} nesmí nikdo vystřelit z žádné zbraně {Büchs}, malé ani velké, ani zpívat, křičet, pískat, tlouci ani nic podobného, ani zvonit. Jsou-li v posádce hodiny, mají se bicí hodiny zastavit a nenechat bít; hodiny s ciferníkem {Zeygvhr} lze nechat jít tam, kde je nepřítel nemůže vidět, zvláště v noci. To má být přísně nařízeno pod trestem na těle {leibstraff} a má se na to dbát, neboť z toho hrozí nebezpečí zrady a vzpoury atd.; a i kdyby nic jiného, zbytečně se plýtvá střelivem a někdy se tím vyvolá planý poplach.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Zubedencken auch sonst allerley/so in ein Besatzung vonnöten/vnd erstlich in das Zeughauß.
+  cs: |-
+    Co dalšího je třeba uvážit, čeho je v posádce zapotřebí, a nejprve do zbrojnice
+- typ: odstavec
+  de: |-
+    JTem allerley groß vnnd kleyn geschütz/nach gelegenheyt der Besatzung vnnd wehren/als Quarthonen/Nothschlangen/Schlangen/Falckonen/Falckonet/vnnd besonder ist nützlich in den Besatzungen gůte kurtze weite Büchssen zum Hagelgeschütz/in die streichwehren/Deßgleichen so man zum Sturm geschossen/vnter die zerschossene lücken/da man sich deß sturms versehen můß/zurichten.
+  cs: |-
+    Dále: Všelijaká velká i malá děla {geschütz} podle povahy posádky a hradeb, jako čtvrtkartouny {Quarthonen}, nouzové hadovnice {Nothschlangen}, hadovnice {Schlangen}, falkony {Falckonen} a falkonety {Falckonet}. Zvlášť užitečná jsou v posádkách dobrá krátká děla širokého vývrtu na kartáč {Hagelgeschütz} do bočních obran {streichwehren}[^1]; a stejně tak je, když [nepřítel] k útoku prostřílel hradbu, namířit pod prostřílené průlomy, kde je třeba očekávat útok.
+- typ: odstavec
+  de: |-
+    Grosse stück als scharpffmetzen/Basilisceen/singerin/vnd dergleichen/seind nit in allen Besatzungen zugebrauchen/man hat etwan den platz nit/so erfordern sie zuschiessen grossen kosten/vnd mag beschehen/daß sie von dem grossen krefftigen erdbidemen den Freunden mehr dann den Feinden schaden zůfügen.
+  cs: |-
+    Velká děla jako šarfmece {scharpffmetzen}, baziliškové {Basilisceen}, zpěvačky {singerin}[^2] a podobná nelze použít ve všech posádkách: někdy pro ně není místo, jejich střelba stojí velké náklady a může se stát, že velkým a silným otřesem půdy způsobí víc škody svým než nepřátelům.
+- typ: odstavec
+  de: |-
+    Man mag auch haben Haackenbüchssen/dieweil aber mit denselbigen jhrer schwer halben/auff den engen wehren ein einige Person nit wol etwas damit außrichten kan/so seind sie auch in die zimliche weitte/den zil vnnd andern starcken handrohren nit fürzusetzen/vnnd mag man mit halben Haacken/so es an einem Sturm ist/viel mehr außrichten/da kan man behend laden/schiessen/gewiß abkommen/vnd sich vor der feind gegen handtgeschütz in den Wehren vnd Schießlöchern geschicklicher verwaren vnd hüten.
+  cs: |-
+    Lze mít také hákovnice {Haackenbüchssen}; protože však s nimi pro jejich tíhu jediný člověk na úzkých hradbách mnoho nesvede a na střední vzdálenost nemají přednost před puškami k míření {zil}[^3] a jinými silnými ručnicemi, lze při útoku mnohem víc vykonat s půlhákovnicemi {halben Haacken}: s nimi se dá hbitě nabíjet, střílet, jistě mířit a na hradbách a ve střílnách se obratněji krýt a chránit před nepřátelskými ručnicemi.
+- typ: odstavec
+  de: |-
+    Zu dem grossen geschütz sollen vberige gefeß/deßgleichen Reder zů jedem geschlecht ein zimlich notturfft vorhanden sein/damit ob ettwann gefeß oder Reder
+  cs: |-
+    K velkým dělům má být po ruce dostatek náhradních lafet {gefeß} a také kol {Reder} pro každý druh, aby, kdyby snad lafety nebo kola
+poznamky:
+- n: 1
+  text: |-
+    Streichwehr – postavení (kasemata, bašta), z něhož se střílí podél hradby či příkopu; boční (flankovací) obrana.
+- n: 2
+  text: |-
+    Singerin („zpěvačka“) – těžké obléhací dělo, obdoba slavíka (Nachtigall), viz glosář.
+- n: 3
+  text: |-
+    Zil – patrně „Zielrohr / Zielbüchse“, přesná puška k míření na cíl (terčovnice); čtení nejisté.

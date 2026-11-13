@@ -1,0 +1,58 @@
+id: 031v
+list: XXXI
+strana: verso
+sken: 70
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    DEr Zeugmeyster soll auch haben Zeugdiener zu Pferdt/gůte/redliche/ehrliche/der sachen verstendige gesellen/sie seien Edel oder vnedel/die gebraucht er zu aller notturfft/hin vnnd herwider/ferr vnnd nahe/dort vnnd dahin zu Sollicitiern/auch auff den gantzen Zeug zuwarten/daß er in gůter ordnung geführt werde/keyner für den andern ziehe/auch keyner zu Pferdt/oder andere Wägen zwischen die Arckelley Wägen einziehe.
+  cs: |-
+    Zbrojmistr {Zeugmeyster} má mít také zbrojní služebníky {Zeugdiener} na koni – dobré, poctivé, čestné a znalé muže, ať šlechtice, nebo nešlechtice. Ty používá ke všem potřebám, sem i tam, daleko i blízko, tu i onde k vyřizování záležitostí {Sollicitiern}, a také aby dohlíželi na celý dělostřelecký park {Zeug}[^1], aby se vezl v dobrém pořádku, aby žádný [vůz] nepředjížděl druhý a aby se žádný jezdec ani jiné vozy nevmísily mezi vozy dělostřelectva {Arckelley}.
+- typ: odstavec
+  de: |-
+    Item sie sollen sich zu allen nothwendigen sachen der Arckelley gebrauchen lassen/auch im ziehen wo sich zutregt/den Wägen oder Führleuhten etwas gebricht/sie jnen fürderlich zustatten kommen.
+  cs: |-
+    Dále se mají dát použít ke všem nutným věcem dělostřelectva; a přihodí-li se na pochodu, že vozům nebo vozkům {Führleuhten} něco chybí, mají jim rychle přispět na pomoc.
+- typ: odstavec
+  de: |-
+    Sie sollen keyns wegs gestatten/daß die Knecht wie offt geschicht/mit gewalt wider der Fürleuth willen auff die Wägen ligen wöllen/oder jemands gewalt treiben/So soll ein jeder Zeugdiener daran sein/damit solche vnfläter von der Arckelley Profosen werden angenommen/in die eisen geschlagen/in ein Wagen geschmidt biß ins Läger/der soll dem Profosen vnter deß Regiment er ligt/vberantwort werden.
+  cs: |-
+    Nemají v žádném případě dovolit, aby knechti {Knecht} – jak se často stává – násilím proti vůli vozků lehali na vozy nebo komukoli činili násilí. Každý zbrojní služebník se má přičinit, aby takové hulváty profousové {Profosen} dělostřelectva zatkli, dali do želez a přikovali k vozu až do ležení {Läger}; tam má být [každý z nich] odevzdán profousovi toho pluku {Regiment}, pod nějž patří.
+- typ: odstavec
+  de: |-
+    Were aber daß Krancke/oder so hart verwundte Knecht vorhanden/die nicht gehn vnnd dem hauffen folgen möchten/die mögen auff die ringst geladene Wägen gelegt vnd biß ins Läger gefürt werden.
+  cs: |-
+    Kdyby však byli přítomni nemocní nebo tak těžce zranění knechti, že nemohou jít a stačit vojsku {hauffen}, ty lze položit na nejméně naložené vozy a dovézt do ležení.
+- typ: odstavec
+  de: |-
+    Die Zeugdiener sollen sich/so weit der Arckelley zug sich erstreckt/außtheylen/damit nit zwen/drey bey einander/vnd an anderen orten keyner sey.
+  cs: |-
+    Zbrojní služebníci se mají rozdělit po celé délce, kam až sahá pochod {zug} dělostřelectva, aby nebyli dva či tři pohromadě a na jiných místech žádný.
+- typ: odstavec
+  de: |-
+    Die besoldung der Zeugdiener ist einem jeglichen vom Adel deß Monats vier Söld/vnd ein Jungen/Welcher nit vom Adel/drey Söld vnd zweyen ein Jungen.
+  cs: |-
+    Žold {besoldung} zbrojních služebníků činí každému šlechtici měsíčně čtyři žoldy {Söld} a jedno pachole {Jungen}; kdo není šlechtic, tři žoldy a na dva jedno pachole.
+- typ: nadpis
+  uroven: 2
+  de: Der Schneller Ampt/Befelch/arbeyt vnd Besoldung.
+  cs: Úřad, pověření, práce a žold zvedačů {Schneller}
+- typ: odstavec
+  de: |-
+    JTem die Schneller sollen auch vnter jhnen haben einen Vorgeher/den man der Schneller Zeugmeyster nennt/der hat vnter jhm acht Personen/die werden die Schneller genannt/Deren Ampt vnnd Befelch ist/daß sie die grosse stück Büchsen/von einem Wagen auff den anderen heben/auch die Büchsen so es noth ist helffen schmieren/die Zeug vnd andere Munition helffen auff vnd abladen. Wann man im ziehen ist/sollen sie auff die grosse stück Büchsen warten/wo es noth geschicht/daß sie bey der handt seyen/vnd handt anlegen/damit man bald wider von statt kommen möge/vnnd was jhnen zuuil/daß sie nit erheben noch ertragen mögen/darzu sollen jnen die Schantzbawren behilfflich sein/durch befelch jrs Hauptmanns/oder seines Leutenants/vnd ist gůt zu solchen Schnellern zuerwöhlen Zimmerleuth/Wagenleuth/vnd dergleichen Personen/so sich auff heben/tragen vnd legen verstehn.
+  cs: |-
+    Dále zvedači mají mít nad sebou také předáka {Vorgeher}, jemuž se říká zbrojmistr zvedačů {Schneller Zeugmeyster}; ten má pod sebou osm osob, které se nazývají zvedači. Jejich úřadem a povinností je zvedat velké kusy děl {stück Büchsen} z jednoho vozu na druhý, pomáhat děla, je-li třeba, mazat a pomáhat nakládat a skládat nářadí {Zeug} a jinou munici {Munition}. Když se táhne, mají být v pohotovosti u velkých kusů děl, aby byli po ruce, kdyby bylo třeba, a přiložili ruku k dílu, aby se mohlo brzy zase pohnout z místa. A co by bylo nad jejich síly, takže by to nezvedli ani neunesli, s tím jim mají pomáhat šancíři {Schantzbawren} z rozkazu svého hejtmana {Hauptmanns} nebo jeho poručíka {Leutenants}. Za takové zvedače je dobré vybírat tesaře, vozky {Wagenleuth} a podobné osoby, které se vyznají ve zvedání, nošení a ukládání.
+- typ: odstavec
+  de: |-
+    Der Schneller Besoldung ist deß Monats jhedem sechs gulden/vnnd jhrem vorsteher zwen Söld.
+  cs: |-
+    Žold zvedačů činí měsíčně každému šest zlatých {gulden} a jejich předákovi dva žoldy.
+- typ: odstavec
+  de: |-
+    Item zu einem Feldzug gehören auch zu der Arckelley acht Zimmerleuth/die sich zu aller notturfft bey dem geschütz gebrauchen lassen/in der Schantz vnd andern
+  cs: |-
+    Dále k polnímu tažení {Feldzug} patří k dělostřelectvu také osm tesařů {Zimmerleuth}, kteří se dají použít ke všem potřebám u děl {geschütz}, v šanci {Schantz} a na jiných
+poznamky:
+- n: 1
+  text: Zeug – zde celý dělostřelecký park (děla, vozy a munice).

@@ -1,0 +1,25 @@
+id: 053r
+list: LIII
+strana: recto
+sken: 113
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Herschafft geschickt werden/So sollen sie/was jhnen vom gemeynen Mann befolhen/getrewlich außrichten vnd versehen/vnnd so vil möglich vnd ihr verstand außweißt/solchen widerwillen oder span zufürkommen vnd verhüten/auch sollen sie/so sie also außgeschickt werden/versoldt vnd verzert/vnd jhr Besoldung nichts dester weniger im Register sein fürgang haben.
+  cs: |-
+    vrchnosti, mají věrně vyřídit a obstarat, co jim prosté mužstvo {gemeynen Mann} uložilo, a pokud je to možné a jak jim rozum stačí, takové nevoli či rozepři předejít a zabránit. Jsou-li takto vysláni, mají dostat plat a hrazenou stravu a jejich žold má přesto v rejstříku {Register} běžet dál.
+- typ: odstavec
+  de: |-
+    Ihr Besoldung ist sonders nichts/dann was jhnen im Register auff ihren leib gemacht wird/sie thun solches von wegen des gemeynen Manns/vnnd jhnen selbs auch zu gut/doch dem Herren ohn nachtheylig.
+  cs: |-
+    Zvláštní žold nemají, jen ten, který mají v rejstříku zapsaný na svou osobu. Činí to totiž za prosté mužstvo a také sami sobě k dobru, avšak bez újmy pánovi.
+- typ: nadpis
+  uroven: 2
+  de: Ampt vnd Befelch des Hürnweybels.
+  cs: Úřad a pověření šikovatele trénu {Hürnweybels}
+- typ: obrazek
+  soubor: obrazek10.png
+  popis: |-
+    Dřevořez v oválném rámu z trofejí a zbraní: šikovatel trénu, starší vousatý muž v plášti a klobouku s pery, zdviženou holí řídí hlouček žen trénu nesoucích uzly a nádobí; u jejich nohou běží pes.

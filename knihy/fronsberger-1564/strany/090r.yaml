@@ -1,0 +1,40 @@
+id: 090r
+list: XC
+strana: recto
+sken: 187
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Vnd zů disem befelch gehören geschickte/erfahrne leuth/nicht allein in Kriegßsachen/sondern die geschickt vnd fürsichtig zů der handtierung vnnd haußhaltung seind.
+  cs: |-
+    K tomuto úřadu patří schopní a zkušení lidé, nejen ve válečných věcech, nýbrž takoví, kteří jsou zruční a prozíraví v obchodování a hospodaření.
+- typ: odstavec
+  de: |-
+    Es ist gůt daß man von aller ersten mit anstellung der Prouant/ordnung mache/nemlich ein tag souil brot/souil wein/souil bier auff ein person/Deßgleichen soll man auch mit fleysch/Fisch vnd ander Küchenspeiß ordnung anstellen/was man zu allen zeitten Kochen/vnd wie man für jede anzal der Personen anrichten soll/vnd in dem allen vberfluß vermeyden/damit man dester länger beyeinander bleiben möge/so man auch erst/so das Kriegßuolck ohne das můd/vnwillig vnnd vnlüstig worden ist/wil an Prouant abbrechen vnnd ordnung machen/darab nimpt erst das Volck jhres vnwillens vrsach.
+  cs: |-
+    Je dobré hned od samého počátku zavést v rozdělování proviantu {Prouant} pořádek, totiž kolik chleba, kolik vína a kolik piva připadá na osobu na den. Stejně tak se má zavést pořádek i u masa, ryb a jiných kuchyňských pokrmů: co se má kdy vařit a kolik se má na jaký počet osob připravit; a ve všem se má předcházet nadbytku, aby se dalo tím déle vydržet pohromadě. Kdyby se totiž začalo s proviantem šetřit a zavádět pořádek teprve tehdy, když už je válečný lid {Kriegßuolck} beztak unavený, nespokojený a nevrlý, teprve by z toho lid vzal příčinu ke své nevoli.
+- typ: odstavec
+  de: |-
+    Es wer gůt vnd besonder in Besatzung der Stätt/daß man in annemung vnd bestellung des Kriegßuolcks/fürkäme/daß man zur zeit der Belägerung die Prouant vmb ein zimlichs gelt geben dörfft/so möcht man dannzumal dem Kriegßuolck solchen mangel erstatten/mit erhöhung der besoldung/alßdann so möcht man Ordnung machen/mit außtheylung der Prouant/in jede Rott nach gelegenheyt/vnd alle Prouant in einer zimlichen tax vmb bar gelt außtheylen/in dem des Herrn nutz bedacht vnnd gehandelt werden möcht. Zů dem/vnnd zum aller fürnemlichsten käme dem Kriegßherrn das Gelt wider zu seinen handen/darmit er das Kriegßuolck dester lenger erhalten möcht/welches sunst zum offtermal/so die bezalung außgeht/vnlüstig vnd nicht handfest wird.
+  cs: |-
+    Bylo by dobré, zvláště v posádkách {Besatzung} měst, aby se už při přijímání a najímání válečného lidu předem ujednalo, že se v době obležení smí proviant dávat za přiměřené peníze; válečnému lidu by se pak takový nedostatek dal vynahradit zvýšením žoldu {besoldung}. Potom by se dalo zavést pořádné rozdělování proviantu do každé roty {Rott} podle okolností a veškerý proviant rozdělovat za hotové peníze podle přiměřené taxy, čímž by se myslelo a jednalo v pánův prospěch. Kromě toho, a to nejpředněji, by se válečnému pánovi {Kriegßherrn} vracely peníze zpět do rukou, takže by mohl válečný lid tím déle udržet; ten se jinak často, když dojdou peníze na placení, stává nevrlým a nespolehlivým.
+- typ: odstavec
+  de: |-
+    In Summa/man kan nicht alle ding/so besonder in Kriegßleuffen zůbedencken seind/schreiben vnd in kopff fassen/dann sich in Kriegßleuffen vil vnd gemeynlich sachen zůtragen/daran man nie gedacht/oder sich derselbigen nie versehen hett/Es ist aber gůt/daß zu jedem befelch leuth erkießt vnd verordnet werden/die geschickt vnnd täuglich seind/alles so einem befelch zůsteht zůbedencken/zůuersehen vnnd außzůrichten/vnd nicht die ämpter (als leyder mit grossem nachtheyl/nicht allein dem Kriegßherrn/sonder auch des gemeynen Kriegßuolcks bißher vil geschehen) vngefährd/vnd nach gunst verliehen vnd besetzt werden.
+  cs: |-
+    Zkrátka: nelze sepsat a pojmout do hlavy všechno, na co je třeba zvláště za válečných časů pamatovat, neboť za války se často a obvykle přihodí věci, na které se nikdy nepomyslelo nebo které se nikdy nečekaly. Je však dobré, aby se ke každému úřadu vybrali a ustanovili lidé schopní a způsobilí všechno, co k úřadu náleží, uvážit, zaopatřit a vykonat; a aby se úřady neudělovaly a neobsazovaly nahodile a podle přízně, jak se to bohužel dosud často dělo k velké škodě nejen válečného pána, ale i prostého válečného lidu.
+- typ: nadpis
+  uroven: 2
+  de: Wachtmeyster.
+  cs: Vachmistr {Wachtmeyster}
+- typ: odstavec
+  de: |-
+    EIn geschickter/frommer/ehrlicher/vertrawter vnnd erfahrner Mann soll zu einem Wachtmeyster erwehlt vnd angenommen werden/welcher der Kriegßhändel geschickt/vnd erfahren ist/damit er nit allein geschickt sey/außzůrichten vnd zůuersehen was jhm befolhen wird/sondern auch auß eygner erfarnuß vnd geschickligkeyt/was seinem Ampt vnd Befelch zůsteht/wiß zum besten vnd nützlichsten anzůstellen/auch den Obersten/der villeicht mit vilerley geschäfften beladen/nit alle ding außsinnen kan/weß die notturfft seinem Ampt zůstendig erfordert/wisse zůerinnern vnd gůte Rathschleg zůgeben.
+  cs: |-
+    Za vachmistra se má zvolit a přijmout schopný, řádný, čestný, důvěryhodný a zkušený muž, který je ve válečných věcech zběhlý a zkušený, aby byl nejen schopen vykonat a zaopatřit, co se mu nařídí, ale aby také z vlastní zkušenosti a zručnosti dovedl to, co náleží k jeho úřadu a velení, zařídit co nejlépe a nejužitečněji; a aby dovedl plukovníkovi {Obersten}, který snad je zatížen mnoha záležitostmi a nemůže na všechno pomyslet, připomenout, co si potřeba v jeho úřadu žádá, a dát mu dobré rady.
+- typ: odstavec
+  de: |-
+    Deßgleichen soll er sich befleissen den sachen so sein Ampt betreffen/nachzůgedencken/alle ort vnd end mit fleiß besichtigen/es trag sich in besatzung oder im Feldt zu/damit so man von besatzung der wacht rathschlagt/er gůten Rath vnd vnterricht wiß zůgeben/wie/vnd wo die heymlich verborgen/Item die Schiltwacht/Item die
+  cs: |-
+    Stejně tak se má snažit přemýšlet o věcech, které se týkají jeho úřadu, a pilně si prohlédnout všechna místa a kouty, ať je to v posádce, nebo v poli, aby uměl, až se bude radit o obsazení stráží, dát dobrou radu a poučení, jak a kde [mají být] tajné skryté [stráže], dále stálá stráž {Schiltwacht}, dále

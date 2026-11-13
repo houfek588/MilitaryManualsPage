@@ -1,0 +1,87 @@
+id: 103r
+list: CIII
+strana: recto
+sken: 213
+stav: zkontrolovano
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - Solch krieg seind formmer Fürsten pflicht/
+  - Da niemandts gwalt noch vnrecht geschicht.
+  - Dann Gott im alten Testament
+  - Dem Gedeon gabs Regiment
+  - Vber die Kind von Jsrael/
+  - Zu streitten gab er jhm befehl/
+  - So hat dir Gott befolhen schon
+  - Dein arme leuth vnd vnderthon/
+  - Die solt du alle schützen/schirmen/
+  - Vnd für die kriegen/fechten/stürmen/
+  - Damit sie friedlich mögen leben/
+  - Vnd dir von jhrem Armůt geben.
+  - Dann mit jrem schweiß sie dich ernehren/
+  - Vnd bhalten auch bey stadt vnd ehrn.
+  - All weil du sie heltst wol vnd friedlich
+  - So würdst du sein reich vnd glückselig.
+  cs:
+  - Takové války jsou povinností zbožných knížat,
+  - při nichž se nikomu neděje násilí ani křivda.
+  - Vždyť Bůh ve Starém zákoně
+  - dal Gedeonovi vládu
+  - nad syny Izraele
+  - a přikázal mu bojovat.
+  - Tak i tobě Bůh svěřil
+  - tvůj chudý lid a poddané,
+  - ty máš všechny chránit a hájit,
+  - za ně válčit, bít se a útočit,
+  - aby mohli žít v pokoji
+  - a dávat ti ze své chudoby.
+  - Neboť svým potem tě živí
+  - a udržují tě v tvém stavu a cti.
+  - Dokud je chováš dobře a v míru,
+  - budeš bohatý a šťastný.
+- typ: nadpis
+  uroven: 3
+  de: Von Kriegs Regiment.
+  cs: O řízení války
+- typ: verse
+  de:
+  - WAnn dich je můst in Krieg begeben/
+  - So lug bedenck all ding vor eben/
+  - Was du dartzu als müssest haben/
+  - Damit nit kompst zu spott vnd schaden.
+  - Dann da ist gar ein grosser gebrust/
+  - Der krieg zu schaden vnd verlust.
+  - 'Zuuorab in dem stück denck mein:'
+  - Wer kriegt da můß groß Gelt bey sein/
+  - Můß han vil leuth zu fůß vnd roß/
+  - Deßgleich viel Büchsen/puluer/gschoß/
+  - Mancherley Kugel/Büchsensteyn/
+  - Dartzu Roß/wägen groß vnd kleyn/
+  - Viel hawen/schauflen/ander gschirr/
+  - Wegweyser/daß nit werden jrr.
+  - Vbers gschoß můß sein zuuoran
+  - Ein hertzhaffter geschickt Hauptmann/
+  - Zeugmeyster/Büchsenmeyster/Knecht/
+  - Die tragen/graben krumb vnd schlecht/
+  - Schantzen/körb setzen Tag vnd Nacht
+  cs:
+  - Musíš-li se už do války dát,
+  - napřed všechno dobře uvaž,
+  - co všechno k ní musíš mít,
+  - abys nepřišel k posměchu a škodě.
+  - Neboť tu bývá velký nedostatek,
+  - který válku vede ke škodě a ztrátě.
+  - 'Především na mě v tom pamatuj:'
+  - kdo válčí, musí mít mnoho peněz,
+  - musí mít mnoho lidu pěšího i jízdního,
+  - též mnoho děl {Büchsen}, prachu a střeliva,
+  - všelijaké koule, kamenné koule do děl,
+  - k tomu koně, vozy velké i malé,
+  - mnoho motyk, lopat a jiného nářadí,
+  - průvodce, aby nezabloudili.
+  - Nad dělostřelectvem musí být napřed
+  - statečný a zkušený hejtman {Hauptmann},
+  - zbrojmistři {Zeugmeyster}, puškaři {Büchsenmeyster}, knechti,
+  - kteří nosí a kopou křivě i rovně,
+  - staví šance a koše ve dne v noci

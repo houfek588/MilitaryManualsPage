@@ -1,0 +1,60 @@
+id: 037r
+list: XXXVII
+strana: recto
+sken: 81
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd gebraucht/auch etwann in Kriegßräthen/Darumb ist gůt/nit allein zu versehung jrs Ampts/daß geschickte ehrliche erfarne leuth/zu dem Ampt verordnet werden.
+  cs: |-
+    a užíváni, někdy také ve válečných radách {Kriegßräthen}. Proto je dobré, a to nejen kvůli výkonu jejich úřadu, aby se k tomu úřadu ustanovovali schopní, čestní a zkušení lidé.
+- typ: odstavec
+  de: |-
+    Mit sondern pflichten neben gemeyner Kriegßpflicht wird er nit beladen/es were dann/daß man jhn neben seinem Quartiermeyster Ampt auch wölt ander geschefft anhencken/oder in Räthen brauchen/so wird jhm sein pflicht wie sich gepürt/vnd die notturfft erfordert/darauff gestelt.
+  cs: |-
+    Zvláštními závazky {pflichten} vedle obecného válečného slibu {Kriegßpflicht} se nezatěžuje, ledaže by se mu vedle úřadu kvartýrmistra {Quartiermeyster} chtěly svěřit i jiné záležitosti nebo by se ho mělo užívat v radách; pak se mu jeho závazek sestaví podle toho, jak se sluší a jak to potřeba vyžaduje.
+- typ: odstavec
+  de: |-
+    Sein besoldung ist Monats N. gulden/jhm werden gehalten zwen Trabanten vnd ein eygner Wagen/vnangesehen ob er schon die anzal pferdt/darauff ein wagen verordnet/nit hat.
+  cs: |-
+    Jeho žold {besoldung} činí měsíčně N. zlatých {gulden}; vydržují se mu dva drabanti {Trabanten} a vlastní vůz, bez ohledu na to, zda má počet koní, na který se vůz přiděluje.
+- typ: nadpis
+  uroven: 2
+  de: Wachtmeysters der Reysigen/Ampt/Befelch vnd Eyd.
+  cs: Úřad, pověření a přísaha vachmistra {Wachtmeysters} jízdy
+- typ: odstavec
+  de: |-
+    DEß Wachtmeysters Ampt der Reysigen erfordert einen Kriegßerfarnen/geschickten/ehrlichen gesellen/der ein verstand habe/in Besatzung der Wachten sein vortheyl zuuersehen vnd verstehn/wiewol er die Wacht nicht allein auß seinem kopff/sonder nach berathschlagung vnd befelch deß Obersten vnd Kriegßräth besetzen soll/So wil doch auch die notturfft/sein stand vnd Ampt erfordern/daß er für sich selbs der sach geschickt vnd verstanden sey/damit er vor andern gůte anschleg vnd Rath darzu zugeben wiß/nemlich an dem ort mit so vielen/an jhenem ort mit so vielen pferden/da die Statt/dort die Schiltwacht/Daß er auch wiß sein ordnung in Rotten vnter den Reysigen zuhalten/auch die losung vom Feldtmarschalck zunemen vnd den Reuttern so wachen oder Stard halten sollen/zugeben/jhnen auch bescheyd vnd vnterweisung wiß zugeben/wie sie sich auff der Wacht vnd stard halten sollen.
+  cs: |-
+    Úřad vachmistra jízdy {Reysigen} vyžaduje válečně zkušeného, schopného a čestného muže, který má rozum, aby dovedl při obsazování stráží {Wachten} rozpoznat a využít výhodu. Ačkoli nemá stráže obsazovat jen podle své hlavy, nýbrž podle porady a rozkazu nejvyššího [velitele] {Obersten} a válečných radů {Kriegßräth}, přece to potřeba, jeho stav i úřad vyžadují, aby byl sám v té věci zběhlý a znalý a dovedl dát před ostatními dobré návrhy a radu, totiž: na tomto místě s tolika, na onom místě s tolika koňmi; tu stanoviště {Statt}[^1], tam stálou stráž {Schiltwacht}. Také aby uměl udržovat mezi jezdci pořádek v rotách {Rotten}, přijímat od polního maršálka {Feldtmarschalck} heslo {losung} a předávat ho jezdcům {Reuttern}, kteří mají stát na stráži nebo držet stanoviště {Stard}, a uměl jim dát pokyny a poučení, jak se mají na stráži a na stanovišti chovat.
+- typ: odstavec
+  de: |-
+    Zu dem sich auch offt in nöhten viel begibt/daß die Kriegßräth vnnd Obersten mit anderen geschefften beladen/selbs nit darbey können sein/so soll er dann für sich selbs auß eygner geschickligkeyt vnd erfarung der sachen vnnd seinem Ampt/nach erheyschung der notturfft genůg thůn.
+  cs: |-
+    Kromě toho se v nouzi často stává, že váleční radové a nejvyšší [velitelé] jsou zaměstnáni jinými záležitostmi a sami nemohou být přítomni; pak má on sám ze své vlastní schopnosti a zkušenosti ve věcech i ve svém úřadě učinit zadost tomu, co potřeba vyžaduje.
+- typ: odstavec
+  de: |-
+    Sein pflicht wird jhm nach deß Kriegßherren meynung auff sein Ampt vnnd Befelch gestellt/vnd ob jm etwas weitters zuuersehen/es were in Räthen zubrauchen/oder sonst treffenliche gescheffte außzurichten angehenckt würden/werden dieselbigen auch in der pflicht eingeleibt.
+  cs: |-
+    Jeho závazek {pflicht} se mu sestavuje podle mínění válečného pána {Kriegßherren} na jeho úřad a pověření; a kdyby mu bylo navíc svěřeno ještě něco obstarávat – ať by se ho mělo užívat v radách, nebo by měl vyřizovat jiné důležité záležitosti –, pojmou se i ty do závazku.
+- typ: odstavec
+  de: |-
+    Sein Besoldung ist Monats N. gulden/jm werden gehalten zwen Trabanti/vnd beschicht jhme mit haltung der Reyßwägen der gebür nach vortheyl.
+  cs: |-
+    Jeho žold činí měsíčně N. zlatých; vydržují se mu dva drabanti a při vydržování cestovních vozů {Reyßwägen} se mu poskytuje náležitá výhoda.
+- typ: nadpis
+  uroven: 2
+  de: Deß Profosen der Reutterschafft/Befelch vnd Ampt.
+  cs: Pověření a úřad profouse {Profosen} jízdy
+- typ: odstavec
+  de: |-
+    ES wird zum Profosen der Ritterschafft genommen/etwann ein feiner ehrlicher geschickter Knecht/der getrew ist/dem werden weder Stockmeyster noch Steckenknecht gehalten/dann er nit also gefangene hat/vnnd hernach führt/
+  cs: |-
+    Za profouse jízdy {Ritterschafft}[^2] se bere obvykle nějaký pořádný, čestný a schopný knecht {Knecht}, který je věrný. Nevydržuje se mu žalářník {Stockmeyster} ani profousův pacholek {Steckenknecht}, neboť nemá takto vězně a nevozí je s sebou
+poznamky:
+- n: 1
+  text: Statt, Stard – patrně „Stand“ (Standt), jezdecké stanoviště, polní stráž držená na koni; „Stard“ je nejspíš tisková chyba.
+- n: 2
+  text: V nadpisu stojí „Reutterschafft“ (jízda), v textu „Ritterschafft“ (rytířstvo); jde o tutéž jízdu.

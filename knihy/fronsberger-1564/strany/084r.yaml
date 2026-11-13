@@ -1,0 +1,59 @@
+id: 084r
+list: LXXXIIII
+strana: recto
+sken: 175
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    man das Orgelgeschütz im Blochhauß angehen ließ/das thet ein schutz auff den andern/mit drey/vieren oder mehr Registern obeinander/also/daß keyn schutz dem anderen entweichen möcht/daß also mit zweyhundert Rohren/zwey tausent schütz geschehen mögen/So dann die Feind von dem Sturm nachlassen/mag man das Orgelgeschütz verhinderen/daß nicht mehr Büchsen abgehen/dann man haben wil.
+  cs: |-
+    ve srubu {Blochhauß} odpálilo varhanové dělo {Orgelgeschütz}[^1]; to by vystřelilo ránu za ranou, se třemi, čtyřmi nebo více řadami hlavní nad sebou, a to tak, že by žádná rána nevynechala, takže by ze dvou set hlavní mohly padnout dva tisíce ran. Když pak nepřátelé od útoku upustí, lze varhanové dělo zastavit, aby nevystřelilo víc hlavní, než si člověk přeje.
+- typ: odstavec
+  de: |-
+    Dergleichen mit Orgelgeschütz möcht man höltzin oder gemawrte Wehrn in die gräben richten/welche in alle end vnnd zu allen seiten abgiengen/vnnd die möcht man mit einem lauffenden fewr zu gelegner zeit lassen angehn.
+  cs: |-
+    Podobně by se do příkopů daly postavit dřevěné nebo zděné obranné stavby s varhanovými děly, které by pálily do všech končin a na všechny strany; ty by se daly v příhodnou chvíli odpálit běžícím ohněm [zápalnou stopinou].
+- typ: odstavec
+  de: |-
+    Mag man auch an den orten/da man acht/daß man herein stürmen werde/ausserhalb der mawren vnnd gräben/viel kleyner gräben knies tieff machen/derselbigen vil füreinander/die verhindern am anlauff die leuth/fallen vnd bürtzeln vbereinander/können nicht fortkommen.
+  cs: |-
+    Na místech, kde se očekává, že se tudy bude útočit, lze také vně hradeb a příkopů vykopat mnoho malých příkopů po kolena hlubokých, a to mnoho za sebou. Ty lidem překážejí v náběhu: padají, kotrmelcují jeden přes druhého a nemohou se dostat dál.
+- typ: odstavec
+  de: |-
+    Dergleichen mag man viel spitzig pfäl hin vnd wider einschlagen/verwirren durch einander also/daß sie schier beseitz ligen/knies hoch.
+  cs: |-
+    Stejně tak lze sem a tam zatlouct mnoho zašpičatělých kůlů, křížem krážem jeden přes druhý, aby ležely skoro našikmo, do výše kolen.
+- typ: odstavec
+  de: |-
+    Man mag auch von Seylern Schleyff gemacht legen in die truckene gräben/oder sonst/darein die lauffende tretten vnd behangen.
+  cs: |-
+    Do suchých příkopů nebo i jinam lze také položit smyčky z provazů, do kterých útočníci v běhu šlápnou a uváznou v nich.
+- typ: odstavec
+  de: |-
+    Wo man auch ein mawr zur befestigung bawt/were gůt/daß man dieselbig nie gantz eben auffrecht stellet/sondern ein wenig hinein gegen der Besatzung hangend/Darhinder mit gůten Pfeilern vnd gestreb gemacht/damit so die Mawer geschossen wird/sie hinein in die Besatzung/vnd nicht hinauß gegen den feinden in graben/vnd zů der feind vortheyl fall/etc. es bringt in vil weg grossen nachtheyl vnd schaden/so die mawren hinauß gegen den feinden fallen.
+  cs: |-
+    Kde se staví zeď k opevnění, bylo by dobré ji nikdy nestavět zcela kolmo, nýbrž mírně nakloněnou dovnitř k posádce {Besatzung}[^2] a zezadu ji opatřit dobrými pilíři a vzpěrami, aby se při rozstřílení zřítila dovnitř do posádky, a ne ven k nepřátelům do příkopu a nepřátelům ku prospěchu atd. Když se totiž hradby zřítí ven k nepřátelům, přináší to v mnoha ohledech velkou nevýhodu a škodu.
+- typ: odstavec
+  de: |-
+    Inn Besatzungen soll man auch haben ein zimlich anzal gůter eisener Hacken vnnd gablen/doch nicht zůschwer/also/daß die einer allein begwältigen möge/darmit wo man etwann mit Leytern vnnd Steigzeugen anlauffen vnnd Stürmen würde/daß man mit sollichen gablen vnnd hacken/die Stürmende verhindern/die Leytern vnd steigzeug vmbstossen vnd reissen mög/ist auch fast gůt.
+  cs: |-
+    V posádkách se má mít také slušný počet dobrých železných háků a vidlic, ne však příliš těžkých, aby je zvládl jediný muž; kdyby se pak útočilo se žebříky a lezeckým nářadím, lze takovými vidlicemi a háky útočníkům bránit a žebříky i lezecké nářadí převrhnout a strhnout. I to je velmi dobré.
+- typ: odstavec
+  de: |-
+    Item man soll haben ein zimlich anzal Filtzstiffel vnnd Wächterbeltz/damit die jhenigen/so auff der Schildtwacht seind/so es zů kalter zeit were/bleiben mögen.
+  cs: |-
+    Dále se má mít slušný počet plstěných bot a strážních kožichů, aby ti, kdo stojí na stálé stráži {Schildtwacht}, mohli za chladného počasí vydržet [na svém místě].
+- typ: odstavec
+  de: |-
+    Item so man ein Besatzung belägert hat/soll man an allen orten an ecken vnnd anderen gelegenen orthen Bächpfannen auffrichten/vnnd Leuth darzů verordnen/darmit wo nachts lärmen wirdt/daß man einander sehen vnnd kennen möge.
+  cs: |-
+    Dále, když je posádka obležena, mají se na všech místech, na rozích i jinde, kde je to vhodné, postavit smolné pánve a přidělit k nim lidé, aby se při nočním poplachu bylo možné navzájem vidět a poznat.
+poznamky:
+- n: 1
+  text: |-
+    Orgelgeschütz („varhany“, ribauldequin) – mnohahlavňová zbraň: řady malých hlavní vedle sebe a nad sebou („Register“ jako u varhan), odpalované postupně jednou zápalnou drážkou; Blochhauß – srub z trámů, který se staví za ohroženým úsekem hradby (viz předchozí strana).
+- n: 2
+  text: |-
+    Besatzung znamená u Fronspergera vojsko posádky i obsazené opevněné místo (hrad, město). Překládáno jednotně „posádka“; zde jde o vnitřek pevnosti.

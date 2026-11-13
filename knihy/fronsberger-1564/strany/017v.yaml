@@ -1,0 +1,20 @@
+id: 017v
+list: XVII
+strana: verso
+sken: 42
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das ander Buch/Von bericht vnd anzeygung/was die Arckelley vnd Munition betrifft.
+  cs: |-
+    Druhá kniha – zpráva a poučení o tom, co se týká dělostřelectva {Arckelley} a munice {Munition}
+- typ: obrazek
+  soubor: obrazek5.png
+  popis: Dřevořez v oválném rámu zdobeném válečnými trofejemi (zbroje, přilby, štíty, bubny, děla). Uprostřed dělostřelec v turbanovitém klobouku s dlouhou zapalovací holí (s doutnákem na konci) ukazuje rukou do krajiny; kolem něj několik děl na kolových lafetách, vpravo krátké dělo širokého kalibru a za ním vozka s bičem, v popředí krátká hlaveň moždíře a hromádka koulí.
+- typ: odstavec
+  de: |-
+    WJewol man eygentlich nit beschreiben oder anzeygen kan/wieuiel vnd was man für Geschütz in ein Feldt oder Heerzug führen soll/dann das wird verordnet nach gestalt vnd gelegenheyt des Kriegßherren fürhabens/Rath vnnd gutbedencken desselbigen vnd seiner Kriegßräth/dann hat der Herr willens ein andern Herren in seinem Land zu vberziehen/Schlösser vnd Stätt zubelägern vnnd gewinnen/so wird billich erwegen die menge vnd stercke deß Feinds/auch seiner des Kriegsherrn eygen macht/vnd fürnemlich die Besatzungen darfür man sich lägern wil/dann was man mit Quarthanen/
+  cs: |-
+    Přesně popsat či udat, kolik a jaká děla {Geschütz} se mají vézt do pole či na vojenské tažení {Heerzug}, sice nelze, neboť to se určuje podle povahy a okolností záměru válečného pána {Kriegßherren} a podle rady a dobrého uvážení jeho samého a jeho válečných radů {Kriegßräth}. Má-li totiž pán v úmyslu vpadnout jinému pánu do země a obléhat a dobývat zámky a města, je náležité uvážit počet a sílu nepřítele i vlastní moc válečného pána, a především posádky {Besatzungen}, před nimiž se chce položit ležením. Neboť čeho lze dobýt a co lze vynutit čtvrtkartounami {Quarthanen},

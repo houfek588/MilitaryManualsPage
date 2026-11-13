@@ -1,0 +1,40 @@
+id: 024v
+list: XXIIII
+strana: verso
+sken: 56
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item so werden auch die Wägen täglich geleichtert/dannzumal soll man/welche Wägen jhre gebürliche läst nicht haben/auff die Wägen hin vnnd wider zertheylen/so lang biß sie jhren last haben/die vberigen so nichts zuführen haben/wo man jhr sonst nit bedarff/heym erlauben vnnd passieren lassen/doch hierinn allwegen sich befleisse die beste geschirr zubehalten.
+  cs: |-
+    Dále se také vozy {Wägen} denně odlehčují. Tehdy se má [náklad] rozdělit sem a tam na ty vozy, které nemají svůj náležitý náklad, dokud ho nemají; ostatní vozy, které nemají co vézt, se mají, nejsou-li jinak potřeba, propustit domů a nechat odjet. Přitom se však vždy má dbát, aby se ponechala nejlepší spřežení {geschirr}.
+- typ: odstavec
+  de: |-
+    Zu solcher musterung der Wägen soll der Zeugwart/Musterherr/Zeugmeyster/mit sampt andern verordnet werden/der weyß am besten/was er einem jeden hat auffgeladen/auch was von einem jeden Wagen genommen/vnnd vmb wie viel er geleichtert ist.
+  cs: |-
+    K takové přehlídce {musterung} vozů má být spolu s jinými určen zbrojní správce {Zeugwart}, přehlídkový komisař {Musterherr} [a] zbrojmistr {Zeugmeyster}. [Zbrojní správce] ví nejlépe, co komu naložil, také co se z kterého vozu vzalo a o kolik byl odlehčen.
+- typ: odstavec
+  de: |-
+    Were aber sach/daß einiger Fürmann etwas anders/dann das seinem eygen leib zustünde/auffgeladen hett/das soll der Zeugwart mit den verordneten zu seinen handen nemen/oder sonst ein lermen darüber machen/vnd vnter dem pöbel verbieten lassen/vnd nicht dester weniger soll der Zeugmeyster gegen demselbigen Fürman mit straff fortfahren.
+  cs: |-
+    Kdyby však některý vozka {Fürmann} naložil něco jiného než to, co patří jemu samému, má to zbrojní správce s určenými [muži] vzít do svých rukou, nebo to jinak veřejně rozhlásit a dát to mezi obecným lidem {pöbel} zakázat; a přesto má zbrojmistr proti tomu vozkovi zakročit trestem.
+- typ: odstavec
+  de: |-
+    Doch soll der Zeugmeyster solliches zuuor allen Fürleuthen zur warnung in der gantzen Arckelley vmbschlagen vnnd verbieten lassen/oder in jhrer bestallung verbinden.
+  cs: |-
+    Zbrojmistr však má dát předem všem vozkům {Fürleuthen} pro výstrahu po celém dělostřelectvu {Arckelley} vybubnovat {vmbschlagen} a zakázat, nebo je k tomu zavázat v jejich služebním listu {bestallung}.
+- typ: odstavec
+  de: |-
+    Der Zeugmeyster soll auch fürsehung thůn/damit man ein notturfft anzal lediger Wagenpferd mit habe gehn/mit jhren geschirren/dann es wird gar hefftig schwer ein gantzen zug/wo man an die Berg/oder tieffe Weg kompt/fürzuspannen/darzů so soll vnd darff man keyn Wagen dahinden lassen/So soll vnnd můß man auch im Feldtzug ordnung halten/was hinfür oder an ein ander ort gehört/daß jedes am selbigen ort bleibe/So man dann erst soll auß einem wagen pferde nemen/einem andern fürzuspannen/ist gůt zuerwegen/was das für ein groß verhinderung bringe dem gantzen Heerzeug/Deßgleichen sterben etwann pferde/etwann werden sie hinckend/auch sonst schadhafft/daß man dann andere an die statt haben möge/solche ledige Wagenpferd gehören auch vnter den Geschirrmeyster.
+  cs: |-
+    Zbrojmistr má také učinit opatření, aby se s sebou vedl potřebný počet volných vozních koní {lediger Wagenpferd} s jejich postroji. Je totiž velmi těžké předpřahat celý průvod {zug}, když se přijde k horám nebo na hluboké cesty, a přitom se žádný vůz nemá a nesmí nechat vzadu. Také se na tažení {Feldtzug} musí udržovat pořádek: co patří dopředu nebo na jiné místo, má na tom místě zůstat. Má-li se teprve brát koně z jednoho vozu a předpřahat je jinému, lze snadno uvážit, jakou velkou překážku to přináší celému vojsku {Heerzeug}. Stejně tak koně někdy hynou, někdy začnou kulhat nebo se jinak poraní, a pak je třeba mít na jejich místo jiné. Takoví volní vozní koně podléhají také vozmistrovi {Geschirrmeyster}.
+- typ: nadpis
+  uroven: 2
+  de: Deß Obersten Zeugmeysters Ampt/Befelch vnd Eyd.
+  cs: Úřad, pověření a přísaha nejvyššího zbrojmistra {Obersten Zeugmeysters}
+- typ: odstavec
+  de: |-
+    EIn Oberster Feldtzeugmeyster soll wie hieuor gemelt/ein ehrlich/fromm/geschickte person sein/zum wenigsten vom Adel/der viel gesehen vnnd erfahren habe/vnnd ist sein Ampt/daß er vnter seiner hand gehorsame vnnd gewalt alle andere Arckelley ämpter vnnd personen hab/sie seien was stands oder ämpter sie wöllen/zů dem ist vonnöten/daß er ein verstand vnd wissen hab/was einem jeglichen seiner Vnterämpter zustehe vnd gepüre zu verwalten/damit er ein jeden zu notturfftiger zeit wiß was die notturfft vnnd eins jeden Ampt erfordert anzustellen vnnd zubefelhen/So man auch die Arckelley ämpter befelhen vnnd besetzen/soll er verstehn/mercken vnd wissen/zu was Ampt vnd befelch ein jeder zugebrauchen geschickt vnnd tauglich sey/ein jeden zuuor mit worten anlaß/mit jhme von seinem Ampt/vnd was
+  cs: |-
+    Nejvyšší polní zbrojmistr {Oberster Feldtzeugmeyster} má být, jak bylo řečeno výše, čestná, řádná a schopná osoba, přinejmenším šlechtic, který mnoho viděl a zažil. Jeho úřadem je mít pod svou rukou, poslušností a mocí všechny ostatní úřady a osoby dělostřelectva, ať jsou jakéhokoli stavu či úřadu. K tomu je nutné, aby rozuměl a věděl, co kterému z jeho podřízených úřadů {Vnterämpter} přísluší a náleží spravovat, aby každému v potřebnou chvíli uměl zařídit a nařídit, co vyžaduje potřeba a úřad každého z nich. Když se také úřady dělostřelectva svěřují a obsazují, má rozumět, postřehnout a vědět, k jakému úřadu a pověření je kdo schopný a způsobilý; každého má předem oslovit a promluvit s ním o jeho úřadu a o tom, co

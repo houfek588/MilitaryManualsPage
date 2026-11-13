@@ -1,0 +1,43 @@
+id: 036r
+list: XXXVI
+strana: recto
+sken: 79
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    ZV Reysigen Hauptleuthen werden gemeynlich gůt ehrliche leuth vom Adel/die wol gerüst/auch vntern Reuttern vnd Adel wol bekannt vnnd verdient seind außerkorn/die haben gemeynlich vorhin dienstgelt von den Herren auff etliche Pferdt/die sie also auff vnd in gůtem willen halten. Darumb wo der Kriegßherr jhr notturfft ist/jnen schreibt/vnd sie erfordert/hat der Kriegßherr gemeynlich vorhin den verstand mit jedem wie vil/vnd was er für Pferdt vnd Reutter bringen soll.
+  cs: |-
+    Za jezdecké hejtmany {Reysigen Hauptleuthen} se obvykle vybírají dobří, čestní lidé ze šlechty, kteří jsou dobře vyzbrojeni a také mezi jezdci {Reuttern} a šlechtou dobře známí a zasloužilí. Ti mají obvykle už předem od pánů služné {dienstgelt}[^1] na několik koní, které tak drží v pohotovosti a v dobré vůli. Když je tedy válečný pán {Kriegßherr} potřebuje, napíše jim a povolá je; s každým má válečný pán obvykle předem dohodnuto, kolik a jaké koně a jezdce má přivést.
+- typ: odstavec
+  de: |-
+    Es sey dann daß er seiner geschickligkeyt vnnd achtbarkeyt halben in Räthen oder andern sondern geschäfften gebraucht werde/so gebürt jhme weitter nicht dann sein geschwader Reutter zuregieren/das ist/daß er gůt Ordnung vnd Regiment vnter jhnen/sie auch in gůtem willen behalt/vnd damit ob jhme befolhen würde/mit seinem geschwader Reutter etwann auff den Scharmützel zurücken. Item etwas zubesichtigen. Item etwann so man schlagen/oder etwas gegen den feinden handlen wölt/vnd jhme mit seinem geschwader etwas in sonderheyt zuhandlen vnnd außzurichten befolhen würde/oder daß man jhn etwann in ein Besatzung legt/oder jhme etwann befolhen würde profandt zubeleyten/da sich offt vnzuuersichtlich händel zutragen/etwann standt oder wacht halten/oder was dergleichen ist. Dieweil dann in solchen fällen erfordert/daß der Hauptmann oder Rittmeyster ein kriegßerfahrner/dapfferer/ehrlicher/geschickter/vnd vernünfftiger Mann sey/damit er jeden deß feinds fürnemen vnd list wiß zumercken/demselbigen mit geschickligkeyt vnnd dapfferkeyt wiß zubegegnen/dieweil dann das alles vnd noch mehr deß Reysigen Hauptmanns oder Rittmeysters Stand vnnd Ampt erfordert/so ist hoch vonnöten daß man solliche Leuth darzů erkiese/die also erfahren/dapffer/geschickt/vnnd hierzů nutz vnd dienstlich seien.
+  cs: |-
+    Ledaže by se ho pro jeho schopnost a vážnost užívalo v radách nebo v jiných zvláštních záležitostech, nepřísluší mu nic dalšího než velet své švadroně {geschwader} jezdců, to jest udržovat mezi nimi dobrý pořádek a kázeň {Ordnung vnd Regiment} a zachovat si jejich dobrou vůli; a k tomu, kdyby mu to bylo nařízeno, se svou švadronou jezdců někdy vyrazit k šarvátce {Scharmützel}. Dále něco prohlédnout. Dále když se má svést bitva nebo něco podniknout proti nepříteli a jemu by bylo nařízeno se svou švadronou zvlášť něco provést a vykonat; nebo když se někdy dá do posádky {Besatzung}, nebo když by mu bylo nařízeno doprovázet proviant {profandt}, při čemž se často přiházejí nečekané srážky; někdy držet stanoviště {standt} nebo stráž, nebo co je podobného. Protože se tedy v takových případech vyžaduje, aby hejtman neboli rytmistr {Rittmeyster} byl válečně zkušený, statečný, čestný, schopný a rozumný muž, aby dovedl postřehnout každý záměr a lest nepřítele a dovedl jim schopně a statečně čelit – protože tedy toto vše a ještě více vyžaduje stav a úřad jezdeckého hejtmana neboli rytmistra, je velice nutné, aby se k tomu vybírali lidé takto zkušení, stateční, schopní a k tomu užiteční a způsobilí.
+- typ: nadpis
+  uroven: 3
+  de: Der Reysigen Hauptleuth oder Rittmeyster Eydt.
+  cs: Přísaha {Eydt} jezdeckých hejtmanů neboli rytmistrů
+- typ: odstavec
+  de: |-
+    ES bleiben die Reysigen Hauptleuth oder Rittmeyster bey gemeyner Kriegßpflicht/sonst werden gemeynlich zwischen dem Kriegßherren vnnd Reysigen Hauptleuthen verschreibungen/vnnd dagegen Reuers auffgericht/wie es mit dem dienen der besoldung/dem an vnnd abziehen/den Wagen/Troßpferden/Küriß/plätzen/schaden vnnd anderem gehalten werden soll/das geschicht nach gelegenheyt der Reutter vnnd sachen/das kan man nicht eygentlich Specificiern/dann das alles jeder zeit nach gestalt vnnd gelegenheyt der sachen erwegen vnnd gehandelt wird.
+  cs: |-
+    Jezdečtí hejtmani neboli rytmistři zůstávají při obecném válečném slibu {Kriegßpflicht}; jinak se mezi válečným pánem a jezdeckými hejtmany obvykle sepisují úpisy {verschreibungen} a proti nim reversy {Reuers} o tom, jak se má zacházet se službou, se žoldem {besoldung}, s příjezdem a odjezdem {an vnnd abziehen}, s vozy, trénními koňmi {Troßpferden}, kyrysy {Küriß}, místy {plätzen}[^2], škodami a jiným. To se řídí okolnostmi jezdců a věcí a nelze to přesně specifikovat, neboť se to vše vždy uvažuje a sjednává podle povahy a okolností věci.
+- typ: odstavec
+  de: |-
+    Der Reysigen Hauptleuth oder Rittmeyster besoldung ist auch nicht gleich/dann das alles nach gelegenheyt geordnet wird/darnach sich einer in die sachen schicken kan.
+  cs: |-
+    Ani žold jezdeckých hejtmanů neboli rytmistrů není stejný, neboť se to vše upravuje podle okolností – podle toho, jak si to kdo dokáže vyjednat.
+- typ: odstavec
+  de: |-
+    Doch darnach einer dem Herrn vil pferd bringt/darauff hat er auch vortheyl/nachdem er das mit dem Kriegßherrn vberein kommen ist.
+  cs: |-
+    Avšak podle toho, kolik koní kdo pánovi přivede, má z toho i výhodu, podle toho, jak se o tom s válečným pánem dohodne.
+- typ: odstavec
+  de: Jhm werden gehalten gerüster pferdt so vil er bringt.
+  cs: Vydržuje se mu tolik zbrojných koní {gerüster pferdt}, kolik jich přivede.
+poznamky:
+- n: 1
+  text: dienstgelt (Wartgeld) – čekací peníze, jimiž si páni v době míru předem zajišťovali jezdce a jejich koně pro případ války.
+- n: 2
+  text: Küriß – kyrys, plná jezdecká zbroj, zde snad i kyrysník (plně obrněný jezdec), za nějž se platilo víc; „plätzen“ – význam nejistý; snad placená místa (počty koní, za něž se platí žold), nebo místa v ležení.

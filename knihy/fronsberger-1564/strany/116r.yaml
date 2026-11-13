@@ -1,0 +1,58 @@
+id: 116r
+list: CXVI
+strana: recto
+sken: 239
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Von deß Fürsten Läger
+  cs: O ležení knížete
+- typ: odstavec
+  de: |-
+    DAs soll er allzeit fürsichtiglich bey einem fluß ob deß Feinds Läger schlahen vnnd verrucken/wie Jsrael im namen deß Herren Gottes Zebaot/auff solcher höhe/do er nicht vberhöcht/auff der Feinde Land/da keyn wasser auff jn mög abgelassen werden/da güter frischer lufft vnd schatten/ein vberfluß reynes wassers/feyßter weyd vnd höltzer sey/Er sols auch zu gesetzter zeit seubern/vnd im Mertzen/Aprill vnnd Herbst/zu vermeidung der zufelligen Kranckheyten/offt verrücken lassen.
+  cs: |-
+    To [ležení {Läger}] má vždy prozíravě rozbíjet a přesouvat u řeky nad ležením nepřítele, jako Izrael ve jménu Hospodina, Boha zástupů {Zebaot}, a to na takové výšině, kde ho nikdo nepřevyšuje, na nepřátelském území, kde na něj nelze pustit vodu, kde je dobrý čerstvý vzduch a stín, hojnost čisté vody, tučné pastvy a dřeva. Má je také v určený čas nechat vyčistit a v březnu, dubnu a na podzim je často přesouvat, aby se předešlo nahodilým nemocem.
+- typ: nadpis
+  uroven: 2
+  de: Schantzen.
+  cs: Šance
+- typ: odstavec
+  de: |-
+    SO deß feinds mächtige gegenwertigkeyt das Läger zuvmbschantzen erfordert/sol der meyst vnd streitbarest theyl zu roß vnnd zu fůß/die schantzgräber bewaren/Ob er sie aber vbereilen wölt/mögen sie ein wagenburg von den Heerwägen oder von den Karren/darauff die Schiffbrücken vnnd andere rüstung zu geschwinder passierung gefürt wird/in einer form deß halben Mons/oder einer gestalt der Schantz/zu betrug deß Feinds auß deß Troß pündtel/Schantzkörben/Läglen vnd dergleichen impedimenten schlahen.
+  cs: |-
+    Vyžaduje-li mocná přítomnost nepřítele obehnat ležení šancemi {Schantzen}, má větší a nejbojovnější část jízdy i pěchoty chránit kopáče šancí. Kdyby je však [nepřítel] chtěl zaskočit, mohou z vojenských vozů nebo z kár, na nichž se vezou lodní mosty {Schiffbrücken} a jiná výstroj k rychlému přechodu [řek], postavit vozovou hradbu {wagenburg} ve tvaru půlměsíce, nebo k oklamání nepřítele [něco] v podobě šance z uzlů trénu {Troß}, šancovních košů {Schantzkörben}, soudků a podobných zavazadel.
+- typ: nadpis
+  uroven: 2
+  de: Meutterey.
+  cs: Vzpoura
+- typ: odstavec
+  de: DJe soll er ohn gnad eylends würgen/wie Joab den auffrürischen Seba.
+  cs: Tu má bez milosti a rychle udusit, jako Joáb vzbouřence Šebu.
+- typ: nadpis
+  uroven: 2
+  de: Von hülff.
+  cs: O posilách
+- typ: odstavec
+  de: |-
+    DJe soll er erschlahen ehe sie zum feind kompt/würd jhm argwenige hülff von Bundsverwandten gesandt/soll er eben im Läger vnnd in der Schlachtordnung auffsehen/je zwen oder vier in ein Losament/oder zwischen sie in ein glid einen einmengen/nit mehr weder er bewaltigen möge/auffnemen. Aber vertrawte hülff nem er also still an/in eines jeden Knechts Zeltlin einen/daß es der feind weder an viele der leuhte/noch weitterung deß Lägers/noch am Trommeten spüren mög/noch sich hůten oder bewaren könn.
+  cs: |-
+    Ty [nepřátelské posily] má pobít dřív, než k nepříteli dorazí. Pošlou-li mu spojenci posily, kterým nelze důvěřovat, má na ně v ležení i v bitevním šiku {Schlachtordnung} bedlivě dohlížet, dávat jich po dvou nebo po čtyřech do jednoho ubytování {Losament} nebo mezi ně do řady {glid} vmísit vždy jednoho [svého], a nepřijmout jich víc, než dokáže zvládnout. Důvěryhodné posily však má přijmout tak potichu – do stánku každého knechta {Knechts} jednoho –, aby to nepřítel nepoznal ani podle množství lidí, ani podle rozšíření ležení, ani podle troubení, a nemohl se mít na pozoru a chránit se.
+- typ: nadpis
+  uroven: 2
+  de: Von der Feind Läger.
+  cs: O ležení nepřátel
+- typ: odstavec
+  de: |-
+    DAs soll er mit allen listen allzeit/wie die Stett betriegen/hüngeren/schedigen/speiß vnd tranck/viech vnnd leuth entfüren oder vergifften/im Sturmwind nachts anbrennen oder erschlahen/dieweil sie zweyfeln/ob sie jhr hab vor dem fewer oder sich selbs vor dem feind entschütten sollen.
+  cs: |-
+    To má vždy všemi lstmi, stejně jako města, klamat, vyhladovět a poškozovat, odvádět nebo otravovat jídlo a pití, dobytek a lidi, za vichřice je v noci zapálit nebo [nepřátele] pobít, zatímco váhají, zda mají zachraňovat svůj majetek před ohněm, nebo sebe před nepřítelem.
+- typ: nadpis
+  uroven: 2
+  de: Mär.
+  cs: Zprávy
+- typ: odstavec
+  de: |-
+    ER soll auch viel erdichte/grausame Rede/nach gelegenheyt der sach/statt vnd zeit/durch listige vnnd geübte Kriegßleuth/als durch abtrünnige zum feind kommen lassen/die jhn nach gestalt der sach vnnd thaten/wacker oder hinlässig
+  cs: |-
+    Má také podle povahy věci, místa a času nechat k nepříteli dojít mnoho smyšlených, hrůzných řečí skrze lstivé a zkušené válečníky, jako by to byli zběhové; ty ho pak podle povahy věci a zamýšlených činů mohou učinit bdělým, nebo nedbalým.

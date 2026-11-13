@@ -1,0 +1,54 @@
+id: 080v
+list: LXXX
+strana: verso
+sken: 168
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    werden etliche Kůe vnd Geyssen/wo man es zů den krancken nicht bedarff/schadt es den gesunden auch nichts.
+  cs: |-
+    některé krávy a kozy; nebude-li jich třeba pro nemocné, neuškodí ani zdravým.
+- typ: odstavec
+  de: |-
+    Item drey oder vier gůter Postpferdt die gewärtig seind/so es gesein mag/bottschafft auß vnd ein zuwerben/auch mögen sie zun Müln auch andern Zeugen vnnd notturfften gebraucht werden.
+  cs: |-
+    Dále tři nebo čtyři dobří poštovní koně, kteří jsou pohotově, aby bylo možné, dá-li se to, posílat zprávy ven i dovnitř; mohou se také použít k mlýnům a k jinému náčiní a potřebám.
+- typ: odstavec
+  de: |-
+    Wiewol solche Pferdt wol erspart werden mögen/dann man zu Pferdt selten auß einer sollichen engen Besatzung als ein Schloß ist/vnuermerckt kommen mag/sonder mag vil baß durch geschickte/fürsichtige außgericht vnd versehen werden/So dann die sachen so treffenlich vnd not/mag der gesandt/so er durch die feind kommen vnd durchgeschlüpfft/allwegen die sachen zufürdern vmbs gelt Pferdt bestellen/inn dem man sich auch nichts bedawren lassen soll/dann es wil in solchen fällen nichts erspart sein/So man dann malen/oder geschütz vnd anders ziehen soll/mag man das alles auch durch die leuth/deren ohn das der mehrer theyl müssig/auch zu aller arbeyt geschickt vnd willig sollen sein/außrichten/vnd werden die Pferdt/kosten/müh vnnd arbeyt erspart.
+  cs: |-
+    Takových koní se však lze dobře obejít, neboť na koni se z tak těsné posádky {Besatzung}, jako je hrad, jen zřídka dostane ven nepozorovaně; mnohem lépe to obstarají a zařídí obratní a opatrní [poslové]. Jsou-li pak věci tak důležité a naléhavé, může si posel, jakmile projde a proklouzne nepřítelem, vždy k urychlení věci najmout koně za peníze, a na tom se nemá šetřit, neboť v takových případech nelze nic ušetřit. Má-li se pak mlít nebo tahat děla {geschütz} a jiné věci, lze to vše vykonat také lidmi, z nichž je beztak větší část bez práce a kteří mají být ke vší práci schopní a ochotní; tak se ušetří koně, náklady, námaha i práce.
+- typ: odstavec
+  de: |-
+    Item vor vberlast der Pferd/vnnd alles andern vnnützen Viechs soll man sich in Besatzung hüten/dann dieselbigen zuerhalten/vil kosten/mühe vnnd arbeyt brauchen/Zů dem sie viel vnd gemeynlich die beste plätz einnemmen/so auch als gemeynlich geschicht/der schelm vnnd sterben darunder kompt/ist es den Menschen sehr schädlich.
+  cs: |-
+    Dále se má posádka vystříhat přemíry koní a všeho jiného neužitečného dobytka, neboť jejich vydržování stojí mnoho nákladů, námahy a práce. Kromě toho zabírají mnoho místa, a to obvykle to nejlepší; a když mezi ně, jak se obvykle stává, přijde nákaza {schelm} a úhyn, je to pro lidi velmi škodlivé.
+- typ: odstavec
+  de: |-
+    Zů dem/wo Hew/Stroh/ämbd vnd dergleichen in Besatzungen ist/můß man in vil weg dardurch nachtheyl vnd schadens förchten vnnd gewarten/als von eygner verwarlosung des Fewers/deßgleichen des Wätters/vnnd der feind Fewer schiessen vnd werffen.
+  cs: |-
+    Kromě toho, kde je v posádkách seno, sláma, otava a podobně, je třeba se v mnoha ohledech obávat a očekávat z toho újmu a škodu – z vlastní neopatrnosti s ohněm, stejně tak od nepohody [blesku] a od ohně, který nepřítel vstřeluje a vhazuje.
+- typ: odstavec
+  de: |-
+    Doch mag man dasselbig von den vngelegnen/sörglichen orthen hinweg raumen/vnnd an andere gelegne vnsörgliche orth thůn vnd verwaren/Als nämlich/an orth da man jhme mit fewr nicht zukommen mag/da man auch mit Fewerwerck nit hinschiessen mag/dann man dasselbig zur notturfft in manchen weg gebrauchen mag/Als auß zufüllen vnd dergleichen/vnd sonderlich so man sich eins Sturms versehe/in büschel gebunden/derselbigen vil hinauß gegen den Feinden/vnnd fewrwerck hinnach geworffen/etc.
+  cs: |-
+    Lze to však z nevhodných a nebezpečných míst odklidit a uložit a uschovat na jiných vhodných a bezpečných místech, totiž tam, kam se k tomu nelze dostat s ohněm a kam nelze dostřelit ani ohňostrojem {Fewerwerck}. Neboť se to dá v nouzi použít mnoha způsoby, například k vyplňování a podobně, a zvláště když se očekává útok {Sturms}: svázat to do otepí, mnoho jich vyhodit ven proti nepřátelům a za nimi hodit ohňostroj atd.
+- typ: odstavec
+  de: |-
+    Man soll auch allen mist/erden/steyn/vnnd was zur notturfft vnd wehr gebraucht werden mag/genaw auff vnd zusammen halten/auch an gelegene orth vnnd zur hand tragen vnnd füren/damit man dasselbig in eyl bey der handt zu vertarressen haben vnd gebrauchen möge.
+  cs: |-
+    Také se má všechen hnůj, hlína, kamení a vše, čeho lze použít k potřebě a obraně, pečlivě schraňovat a shromažďovat a také nosit a vozit na vhodná místa a po ruce, aby to bylo v rychlosti po ruce k navršení náspů {vertarressen}[^1] a k použití.
+- typ: odstavec
+  de: |-
+    Wo auch die gelegenheyt der Beuestigung erfordert/daß man Schantzkörb/Katzen vnd dergleichen haben vnnd gebrauchen mag/die sollen zu gůter zeit gemacht vnd herzů gefürdert/auch mit gůter erden/mist vnd anderm darzů dienstlich bey zeit
+  cs: |-
+    Vyžaduje-li to také povaha opevnění, aby se měly a používaly šancovní koše {Schantzkörb}, kočky {Katzen}[^2] a podobně, mají se v dobrý čas zhotovit a dopravit sem a také dobrou zeminou, hnojem a jiným k tomu vhodným [materiálem] včas
+poznamky:
+- n: 1
+  text: |-
+    Vertarressen – navršit zemní násep (tarras, terasa), zvl. za poškozenou hradbou.
+- n: 2
+  text: |-
+    Katze („kočka“) – zde patrně vyvýšené dělostřelecké postavení ze zeminy a dřeva (kavalír) nebo dřevěná schránka plněná zeminou; přesný význam nejistý.

@@ -1,0 +1,45 @@
+id: 050r
+list: L
+strana: recto
+sken: 107
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    sonder in dem vnnd anderm alles das thůn vnd lassen/das ein frommer Kriegßmann vnnd Schreiber seiner Oberkeyt vnnd Herren schuldig ist/ohn alle arge list vnnd gefährde.
+  cs: |-
+    nýbrž v tom i v jiném bude činit a zanechávat vše, co je řádný válečník a písař povinen své vrchnosti {Oberkeyt} a pánovi, bez jakékoli zlé lsti a úskoku.
+- typ: nadpis
+  uroven: 2
+  de: Feldtschärers Ampt vnd Befelch.
+  cs: Úřad a pověření ranhojiče {Feldtschärers}
+- typ: odstavec
+  de: |-
+    DJeweil man vnter einem jeden Fändlin eines Feldscherers vnd Wundartzets notturfftig ist/So soll ein jeder Hauptmann sehen/daß er jhme einen rechtgeschaffnen/künstreichen/erfarnen vnd wolgeübten mann zu einem Feldtschärer erkiese/vnd nit nur schlecht Bartschärer vnd Baderknecht/wie vmb gunsts willen zum offtern mal beschicht/dann warlich ein groß hieran gelegen/dann mancher ehrlicher Gesell etwann sterben oder erlamen můß/hette er ein rechtgeschaffnen/erfahrnen vnd geübten Meyster ob jhm/er bliebe bey leben vnd gerade.
+  cs: |-
+    Protože je u každého praporce {Fändlin} třeba ranhojiče a lékaře ran {Wundartzets}, má každý hejtman hledět, aby si za ranhojiče vybral řádného, umělého, zkušeného a dobře vycvičeného muže, a ne pouhé holiče a lazebnické tovaryše {Bartschärer vnd Baderknecht}, jak se z přízně častokrát stává. Na tom totiž opravdu mnoho záleží, neboť leckterý čestný druh musí zemřít nebo zchromnout, a kdyby měl nad sebou řádného, zkušeného a zběhlého mistra, zůstal by naživu a s celými údy.
+- typ: odstavec
+  de: |-
+    Also soll ein Feldtschärer zur notturfft in einem Feldzug gerüst sein/mit allerley notwendiger Artzney vnnd Instrument/was zu jeder notturfft gehört/das auch der Hauptmann selbs besichtigen soll. Zu dem/soll er auch haben ein geschickten Knecht/der jhm/wo noth/hülff beweisen möge/Sein Ampt vnnd Befelch ist/daß er jedermann/doch zuforderst/vnd vor allen andern den jhenigen so vnter seinem Fändlin ligen/wo noth/rath vnd hülff in allem anligen/seinem Handtwerck zugehörig/erzeygen vnd beweisen soll/vnd in demselbigen niemandts vbernemen/sonder einen jeden bey einem zimlichen vnd billichen bleiben lassen.
+  cs: |-
+    Ranhojič má být tedy na tažení {Feldzug} podle potřeby vybaven všemi nezbytnými léky a nástroji, jak to která potřeba vyžaduje, a to má prohlédnout i sám hejtman. Kromě toho má mít také schopného tovaryše {Knecht}, který by mu v případě potřeby pomáhal. Jeho úřadem a pověřením je, aby každému, avšak především a přede všemi ostatními těm, kdo slouží pod jeho praporcem, v případě potřeby poskytl a prokázal radu a pomoc ve všem, co náleží k jeho řemeslu, a přitom nikoho nepřetahoval, nýbrž od každého žádal jen přiměřenou a spravedlivou odměnu.
+- typ: odstavec
+  de: |-
+    Er soll allwegen sein Losament zu nacht bey dem Fänderich haben/damit man jhn jeder zeit wo noth zufinden wisse/vnnd wo man es gehaben mag/ist gůt daß man jhn allwegen in ein hauß losier/von wegen der wundten vnd krancken.
+  cs: |-
+    Na noc má mít ubytování {Losament} vždy u praporečníka {Fänderich}, aby ho bylo možno v případě potřeby kdykoli najít; a kde to jde, je dobré ubytovat ho vždy v domě, kvůli raněným a nemocným.
+- typ: odstavec
+  de: |-
+    Er hat sonst keyn sondern Befelch/dann daß er dem Fändlin wie andere Kriegßleuth nachzeucht/vnd wird jhm geben doppelsold.
+  cs: |-
+    Jinak nemá žádné zvláštní pověření, než že táhne za praporcem jako ostatní válečníci, a dává se mu dvojitý žold {doppelsold}.
+- typ: nadpis
+  uroven: 2
+  de: Des Capplons Befelch vnd Ampt.
+  cs: Pověření a úřad kaplana {Capplons}
+- typ: odstavec
+  de: |-
+    MAn pflegt auch vnter einem jeden Fändlin Knecht ein Capplon zuhalten/were gůt/daß ein jeder Hauptmann sich beflisse zuhaben einen gelehrten/Christlichen geschickten vnnd erbarn Mann/dieselbige kommen aber selten daher/sonder gemeynlich wie die Pfarkinder/also auch der Pfarherr/vnd ist deß orts
+  cs: |-
+    U každého praporce knechtů se také obvykle drží kaplan. Bylo by dobré, kdyby se každý hejtman snažil mít učeného, křesťanského, schopného a počestného muže; takoví však přicházejí jen zřídka, nýbrž obvykle jací farníci, takový i farář, a platí tu

@@ -1,0 +1,51 @@
+id: 055r
+list: LV
+strana: recto
+sken: 117
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gestolen/die werden selten reich darbey/es gedeyet vnd legt in die lenge nicht zu/vnnd wann ichs sagen solt/so sterben solche keyns rechten todts/sie werden gemeynlich erschossen/erstochen/erschlagen/gehenckt/gekopfft/ertrenckt/dann wie eines arbeyt ist/also wird jm gelont/wiewol ich verhoff/hierin niemands Prophet zusein/Aber es begibt sich in täglicher erfarung/vnd bey kurtzen vnsern zeiten seind etliche/die grosse haab vnd gut durch kriegen vnd rauben beuthen/oder kistenfegen vberkommen/aber so ist es endlich hingangen/wie es her ist gangen/haben auch ihr vil leib vnd leben darüber müssen lassen vnd verlieren.
+  cs: |-
+    nakradeného, ti při tom málokdy zbohatnou; nedaří se jim to a časem jim nic nepřibývá. A mám-li to říci, takoví lidé neumírají řádnou smrtí: bývají obvykle zastřeleni, probodeni, ubiti, oběšeni, sťati nebo utopeni, neboť jaká práce, taková odměna. Ačkoli tím, doufám, nikomu neprorokuji, ukazuje to každodenní zkušenost: i v naší krátké době byli mnozí, kteří válčením, loupením, braním kořisti nebo vybíjením truhel nabyli velkého jmění a statku; nakonec to však odešlo, jak to přišlo, a mnozí z nich za to museli nechat a ztratit i tělo a život.
+- typ: odstavec
+  de: |-
+    Darumb wer gut/daß ein jeder Kriegsmann bedacht vnnd betrachtet/was er gern hett/daß man ihm thun solt/das er auch andern thet/es steht auch weitter keynem zu/sobald der krieg ein ende hab/daß er sich auff die gard oder bettelley begeb/Sonder soll sich mit gewerb/hanthierungen vnd arbeyt neeren wie andere.
+  cs: |-
+    Proto by bylo dobré, aby každý válečník uvážil a rozmyslil, že co by rád, aby mu jiní činili, to má i on činit jiným. Také nikomu nepřísluší, aby se hned, jakmile válka skončí, dal na gartování {gard}[^1] nebo na žebrotu; má se naopak živit živností, řemeslem a prací jako jiní.
+- typ: nadpis
+  uroven: 3
+  de: Nota.
+  cs: Poznámka
+- typ: odstavec
+  de: |-
+    Aurelius der dreissigst Keyser/ob er gleich wol ein verfolger der Christen war/so hat er doch hefftig vber der zucht des Kriegßuolcks gehalten. Es hat ein Krieger oder Landsknecht/wie mans nennen mag/sein wirthin mit gewalt beschlaffen/da solchs der Keyser Aurelius vernam vnd hort/strafft er den Knecht also/er ließ zwen baum biegen vnd zusammen spannen/darnach den knecht darzwischen binden/vnd die baum wider auffgahn vnd vber sich springen/darmit er in zwey stück gerissen wurde.
+  cs: |-
+    Aurelius {Aurelius}[^2], třicátý císař, ačkoli byl pronásledovatelem křesťanů, přísně dbal na kázeň válečného lidu. Jeden voják neboli lancknecht, jak se mu chce říkat, znásilnil svou hostitelku. Když se to císař Aurelius doslechl, potrestal toho knechta takto: dal ohnout dva stromy a svázat je k sobě, potom mezi ně knechta přivázat a stromy zase pustit, aby se vymrštily vzhůru; tak byl roztržen na dva kusy.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Ein Lehr vnd betrachtung einem jeglichen Kriegsmann vonnöten zubedencken/wie hernach folget.
+  cs: |-
+    Naučení a rozjímání, které je každému válečníkovi třeba mít na paměti, jak dále následuje
+- typ: odstavec
+  de: |-
+    DIses soll ein jeglicher ehrlicher vnd Gottsförchtiger Kriegsmann zuhertzen nemen/ehe daß er in Krieg zeucht/ob der fürgenommen Zug oder Krieg nicht wider Gott vnnd sein Göttlichs Wort ist. Nachdem aber auch nach billigkeyt sey fürgenommen/alßdann soll er sein leib vnnd leben nicht sparen/sonder daran wenden/als vns dann der Herr selbs sagt/wer von seinet wegen verlasse Vatter vnd Mutter/Weib vnd Kind/dem soll es hundertfeltig sampt dem ewigen leben erstattet werden/Matth.19.
+  cs: |-
+    Toto si má každý čestný a bohabojný válečník vzít k srdci, dříve než vytáhne do války: zda zamýšlené tažení {Zug} či válka nejsou proti Bohu a jeho božskému slovu. Je-li však podniknuta podle práva a slušnosti, pak nemá šetřit svého těla ani života, nýbrž je má do ní vložit, jak nám praví sám Pán: kdo pro něho opustí otce i matku, ženu i dítě, tomu se to stonásobně odplatí spolu se životem věčným (Mt 19).
+- typ: odstavec
+  de: |-
+    Zum andern/Soll ein rechtgeschaffner Kriegsmann von des wegen daß er ein Kriegsmann ist/sich des Christenthumbs vnnd hoffnung der seligkeyt/nicht begeben noch verwegen/als ob ein Kriegsmann nicht könne oder möcht selig werden/vnnd zu gleich ein Kriegsmann vnd ein Christen mensch sein/dann keyn rechte sach vor Gott vngerecht/wie auch keyn vngerecht für gerecht angesehen wird/Derhalben so kan es nit sein/daß einem Christen nicht gezimme der gerechtigkeyt beystendig zusein/doch so ferr daß nit ein schalcks aug darzu komme/sonder auff die gerechtigkeyt vnd Gottes ehr vnd willen gesehen werde. Es haben im alten Testament grosse Patriarchen/
+  cs: |-
+    Za druhé: řádný válečník se nemá proto, že je válečníkem, vzdávat křesťanství a naděje na spasení ani se jich zříkat, jako by válečník nemohl být spasen a nemohl být zároveň válečníkem i křesťanem. Žádná spravedlivá věc totiž není před Bohem nespravedlivá, stejně jako se žádná nespravedlivá nepokládá za spravedlivou. Proto nemůže být, aby se křesťanu neslušelo stát při spravedlnosti – ovšem jen pokud se k tomu nepřimísí potměšilý úmysl {schalcks aug}[^3] a hledí se na spravedlnost a na Boží čest a vůli. Ve Starém zákoně vedli války velcí patriarchové,
+poznamky:
+- n: 1
+  text: |-
+    „sich auff die gard begeben“ – gartovat, tj. potulovat se po skončení služby po zemi a žebrat nebo vymáhat obživu; „gartující knechti“ byli v 16. století obávanou zemskou pohromou.
+- n: 2
+  text: |-
+    Míněn císař Aurelianus (vládl 270–275). Příběh o vojákovi, který zneuctil manželku svého hostitele a byl roztržen mezi dvěma stromy, vypráví Historia Augusta (Aurelianus 7).
+- n: 3
+  text: Schalcks aug – doslova „šibalské oko“, tj. zlý, zištný úmysl.

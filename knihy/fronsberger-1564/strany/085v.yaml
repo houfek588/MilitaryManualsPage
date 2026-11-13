@@ -1,0 +1,64 @@
+id: 085v
+list: LXXXV
+strana: verso
+sken: 178
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Item es soll auch ein Besatzung versehen sein mit zimlicher notturfft Leinin vnd Wüllin tůch zu hembdern vnd kleydern/auch faden/nadlen/vnd was zu kleyder machen gehört.
+  cs: |-
+    Dále má být posádka {Besatzung} zásobena slušnou zásobou lněného a vlněného sukna na košile a šaty, také nitěmi, jehlami a vším, co patří k šití oděvů.
+- typ: odstavec
+  de: |-
+    Item dergleichen mit Läder/Leysten/vnnd ander dergleichen notturfft zu Schůch machen.
+  cs: Dále podobně kůží, kopyty a jinými podobnými potřebami k šití bot.
+- typ: odstavec
+  de: Item mit zimmer/auch breyt vnd holtz ärten zubawen vnd holtzhawen.
+  cs: |-
+    Dále tesařskými, širokými a dřevařskými sekerami ke stavění a sekání dřeva.
+- typ: odstavec
+  de: |-
+    Deßgleichen viel Hawen/Schauflen/Bichel/Kellen/Mawr vnd Steynmetzen Hämmer/Tragbären/Schubkärchlen/Hebeysen/vnnd was zu Mawrerzeug vnd brächen gehört.
+  cs: |-
+    Stejně tak mnoha motykami, lopatami, krumpáči, zednickými lžícemi, zednickými a kamenickými kladivy, nosítky, trakaři, sochory a vším, co patří k zednickému nářadí a k bourání.
+- typ: odstavec
+  de: Item Reiff/Tauben vnd Binderzeug/Fesser vnd Bütten zubinden.
+  cs: Dále obručemi, dužinami a bednářským nářadím ke stahování sudů a kádí.
+- typ: odstavec
+  de: |-
+    Item ein Schmitten mit jren Blaßbälgen/Amböß/Zangen/Hämmer/vnd was zu einer Schmitten gehört.
+  cs: |-
+    Dále kovárnou s jejími měchy, kovadlinami, kleštěmi, kladivy a vším, co ke kovárně patří.
+- typ: odstavec
+  de: Darzů gehört ein nottürfftig anzal Kolen/Stahel vnd eysen.
+  cs: K tomu patří potřebné množství uhlí, oceli a železa.
+- typ: odstavec
+  de: |-
+    Item ein Metzg oder Schlachthauß/darein gehören jre eygene Kessel/Gelten/Kübel/Fleyschbänck/auch Haw vnd Metzger messer.
+  cs: |-
+    Dále masnými krámy čili jatkami; k nim patří vlastní kotle, vědra, škopky, masné lavice, také sekáče a řeznické nože.
+- typ: odstavec
+  de: |-
+    Item ein Bachhauß oder Pfisterey/darein gehört Multen/Beuttelkästen/Mälkästen/Beutelsib/Einschieß schauflen/auch eygen Kessel/Züber vnnd Gelten/etc. auch Brotkästen das gebacken Brot darinnen zůuerwaren.
+  cs: |-
+    Dále pekárnou; k ní patří díže, moučnice na vysévání, truhly na mouku, síta, sázecí lopaty, také vlastní kotle, škopky a vědra atd., i truhly na chléb, v nichž se upečený chléb uchovává.
+- typ: odstavec
+  de: |-
+    Solche vnnd dergleichen notwendige vnuermeidliche ort/als Küchen/Pfistereyen/Metzgen/Schmitten/Zeughauß/Frucht vnnd Mälkästen/Puluer verwarungen/Speißgaden vnd was dergleichen ist/sollen an ort vnd endt gebawt werden/daß sie mit dem Geschütz nit angefochten vnnd zerstört werden mögen/sollen auch mit gůten blöcken die eingeng verwart werden/damit so etwann Thürn oder Mawren nider geschossen würden vnd fielen/daß sie solchen gemachen mit jhren einfellen nit schaden zufügen mögen/wo sie aber so sicher nit gebawt weren/sollen sie bey gůter zeit mit künsten vnd arbeyt befestiget vnd versichert werden.
+  cs: |-
+    Taková a podobná nezbytná a nepostradatelná místa, jako kuchyně, pekárny, jatky, kovárny, zbrojnice {Zeughauß}, obilné a moučné truhly, prachárny, spižírny a podobně, se mají stavět na takových místech, aby na ně nemohla dosáhnout a zničit je děla {Geschütz}. Také jejich vchody se mají zajistit dobrými kládami, aby jim věže nebo hradby, kdyby byly rozstříleny a zřítily se, nemohly svým pádem uškodit. Nejsou-li však postaveny tak bezpečně, mají se včas důmyslem a prací zpevnit a zabezpečit.
+- typ: odstavec
+  de: |-
+    Dergleichen sollen auch alle weg vnnd geng/so man nit gerathen mag/als zu Küchen/Kehrn/Bronnen/Speißgaden/zun Wehren/vnd ander mehr angezeygte ort/wol mit gůte starcken höltzern für das verfallen/auch für das sprützen der Steyn/der Mawren/von der feind schiessen/wol verzimmert/oder vnter der erden gegraben sein/damit dieselbigen weg nicht verfallen/daß man auch darhinder sicher wandlen möge.
+  cs: |-
+    Stejně tak mají být všechny cesty a chodby, bez nichž se nelze obejít – ke kuchyním, sklepům, studním, spižírnám, k hradbám a k dalším uvedeným místům –, dobře vyztuženy dobrým silným dřevem proti zasypání i proti odletujícímu kamení ze zdí, rozstřelovaných nepřítelem, nebo mají být vykopány pod zemí, aby se tyto cesty nezasypaly a dalo se jimi bezpečně chodit.
+- typ: odstavec
+  de: |-
+    Item man soll alle hohe Thürn vnnd gebew im Schloß abheben/dann damit werden die pletz vnnd geng verfellt/Zu dem/so man darein scheußt/můß man vom sprützen der Steyn/Ziegel vnd Balcken grossen nachtheyl vnd schaden besorgen.
+  cs: |-
+    Dále se mají na hradě snést všechny vysoké věže a budovy, protože [jejich troskami] se zasypou prostranství a chodby; kromě toho, když se do nich střílí, je třeba se obávat velké újmy a škody od odletujícího kamení, cihel a trámů.
+- typ: odstavec
+  de: |-
+    Desselben gleichen soll man die Kemich besonder an den Kochküchen abbrechen/vieler vrsachen halben.
+  cs: Stejně tak se mají z mnoha důvodů zbourat komíny, zvláště u kuchyní.

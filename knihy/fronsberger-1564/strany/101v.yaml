@@ -1,0 +1,79 @@
+id: 101v
+list: CI
+strana: verso
+sken: 210
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Jm Munstero am zweyhundert vnd drey vnd dreissigsten blat steht/daß durch ein falschen Fanen ist viel gepracticiert worden/Am fünffhundert vier vnd sechtzigsten blat/schlecht Antiochus die Gallier/vnnd vberwindt sie mit vnd durch Helffandten/erschreckt sie so vnbillich daß bald getädingt wurde.
+  cs: |-
+    U Münstera na dvoustém třicátém třetím listu stojí, že falešným praporcem {Fanen} bylo dosaženo mnoha úskoků. Na pětistém šedesátém čtvrtém listu Antiochos[^1] poráží Galaty a přemáhá je pomocí slonů; vyděsil je tak nesmírně, že se brzy vyjednávalo.
+- typ: odstavec
+  de: |-
+    Herodes bawt vor Jherusalem Wellschütten/gewaltig Thürn/darauff Josephus im Krieg der Juden mit vnnd durch list viel practiciert/so machten die Feind allwegen ein gegenwehr darwider.
+  cs: |-
+    Herodes stavěl před Jeruzalémem valy a mohutné věže, o čemž [vypráví] Josephus ve Válce židovské[^2], [že se při tom] lstí mnoho podnikalo, a nepřátelé proti tomu vždy stavěli protiobranu.
+- typ: nadpis
+  uroven: 2
+  de: Gemeyne Kriegs Regeln.
+  cs: Obecná válečná pravidla
+- typ: odstavec
+  de: |-
+    KEynerley Räth oder anschleg seind besser/dann die/so dem Feind verborgen seind/ehe dann du sie thůst.
+  cs: |-
+    Žádné rady ani plány nejsou lepší než ty, které zůstanou nepříteli skryty, dokud je neprovedeš.[^3]
+- typ: odstavec
+  de: |-
+    Jn mangel vnnd abgang der speiß/in vberfallen oder erschrecken/ist der Feind allweg besser zu gewinnen als mit dem schwert/dann inn der schlacht hat das glück mehr herrschung als die mannheyt.
+  cs: |-
+    Nedostatkem a úbytkem potravy, přepadem nebo zastrašením se nepřítel vždy přemůže snáze než mečem, neboť v bitvě vládne víc štěstí než udatnost.
+- typ: odstavec
+  de: |-
+    Gůter anschlag/list vnnd klugheyt ist inn streitten allweg besser als die mannheyt.
+  cs: Dobrý plán, lest a chytrost jsou v boji vždy lepší než udatnost.
+- typ: odstavec
+  de: Die mannheyt ist besser als die menig.
+  cs: Udatnost je lepší než množství.
+- typ: odstavec
+  de: |-
+    Die natur gebiert wenig freydige oder behertzte männer/aber durch gůte vnderweisung vnd anfürung macht die geschickligkeyt viel behertzter Mann.
+  cs: |-
+    Příroda rodí jen málo smělých či statečných mužů, ale dobrým poučením a vedením vytvoří výcvik mnoho statečných mužů.
+- typ: odstavec
+  de: Das Kriegßvolck nimpt zu durch arbeyt/aber durch müssigkeyt nimpts ab.
+  cs: Válečný lid prací sílí, ale zahálkou upadá.
+- typ: odstavec
+  de: |-
+    So ein kundtschaffter der Feind im Läger zusein vermeynt wird/so sollen auff ein tag alle vnd jegliche in jhr eygen zelt erfordert werden/so findet man den Kundtschaffter zu stund an.
+  cs: |-
+    Má-li se za to, že je v ležení nepřátelský vyzvědač, mají být jednoho dne všichni do jednoho povoláni do svých stanů; tak se vyzvědač hned najde.
+- typ: odstavec
+  de: |-
+    Würdst du jnnen daß die feind deines anschlags jnnen seind worden/ist not daß du dein fürnemen änderst.
+  cs: |-
+    Zpozoruješ-li, že nepřátelé přišli na tvůj úmysl, je třeba, abys svůj záměr změnil.
+- typ: odstavec
+  de: |-
+    Was man thůn soll/handel mit vilen/was aber du thůn wöllest/das handel mit wenigen/vnd den aller getrewesten/oder aber mit dir selbs.
+  cs: |-
+    O tom, co se má dělat, se raď s mnohými; co však sám udělat chceš, o tom se raď s několika málo, a to s těmi nejvěrnějšími, nebo jen sám se sebou.
+- typ: odstavec
+  de: |-
+    Es ist ein grosse geschickligkeyt den feind mehr mit hunger als mit dem schwerd vberwinden.
+  cs: Je velkým uměním přemoci nepřítele spíše hladem než mečem.
+- typ: odstavec
+  de: |-
+    Jn was weise vnd wehre du streitten wilt/sollen die feind nicht wissen/damit sie nit etwas dargegen erdencken.
+  cs: |-
+    Jakým způsobem a jakými zbraněmi chceš bojovat, nemají nepřátelé vědět, aby proti tomu něco nevymysleli.
+poznamky:
+- n: 1
+  text: |-
+    Antiochos I. Sótér porazil kolem roku 275 př. n. l. v Malé Asii Galaty v tzv. „sloní bitvě“; galští koně se slonů, které neznali, polekali.
+- n: 2
+  text: |-
+    Flavius Iosephus (37 – asi 100 n. l.), Válka židovská (Bellum Iudaicum); popisuje i obléhání Jeruzaléma Herodem roku 37 př. n. l.
+- n: 3
+  text: |-
+    Pravidla jsou převzata z Vegetiových „regulae bellorum generales“ (Epitoma rei militaris III, 26).

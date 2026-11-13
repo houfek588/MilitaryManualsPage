@@ -1,0 +1,37 @@
+id: 006v
+list: VI
+strana: verso
+sken: 20
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Es soll auch ein jeder Profandtmeyster allwegen wissen/wieuil volcks er zu Profandtieren hab/auch wieuil Reysige vnd Wagenpferdt/darauff soll er sein gůte ordenliche Rechnung machen/wieuil er jeder zeit Profandt in das Läger verordnen soll/damit es nicht vberführt/vnnd die Profandt nicht vnnützlich verschwendt werde/auch keyn mangel im Läger erscheinen lassen.
+  cs: |-
+    Každý proviantmistr {Profandtmeyster} má také vždy vědět, kolik lidu má zásobovat proviantem a kolik je jezdeckých a vozových koní; podle toho má udělat dobrý a řádný výpočet, kolik proviantu má kdy do ležení {Läger} poslat, aby se ho nedováželo příliš a proviant se zbytečně nepromrhal, ale aby také v ležení nedošlo k žádnému nedostatku.
+- typ: nadpis
+  uroven: 3
+  de: Des Profandtmeysters Eydt.
+  cs: Přísaha {Eydt} proviantmistra
+- typ: odstavec
+  de: |-
+    SEin Eydt wird auff sein Ampt vnd Befelch gestellt/deß innhalts/das er wölle getrew vnnd hold/schaden warnen/nutz fürdern/etc. auch in versehung deß Kriegßuolcks vnd Feldtzugs/damit dann mangels halben an Profandt nicht nachtheyl zůstehe/getrewen müglichen fleiß mit ernst fürwenden/auch was die notturfft seins Ampts halben erfordert/zubeschreiben vnnd verrechnen wie sich gebürt/erbare Rechnung darumb zůthůn/auch sonst alles/etc.
+  cs: |-
+    Jeho přísaha se skládá na jeho úřad a pověření a zní tak, že chce být věrný a oddaný, před škodou varovat, užitek podporovat atd.; také že při zásobování válečného lidu a tažení vynaloží s vážností věrnou a veškerou možnou pilnost, aby pro nedostatek proviantu nevznikla újma; že bude zapisovat a vyúčtovávat, jak se sluší, co vyžaduje potřeba jeho úřadu, a o tom skládat poctivé účty; a vůbec všechno atd.
+- typ: odstavec
+  de: |-
+    Jhm werden gehalten diener zu seinem Ampt dienstlich/als Schreiber/auch andere so einer da/der ander dort sitzt an den enden/da die Profandt zu wasser oder Land soll geführt werden/die die Profandt stäts fürschaffen.
+  cs: |-
+    Vydržují se mu služebníci potřební pro jeho úřad, jako písaři, a také další, z nichž jeden sedí tu, druhý onde na místech, odkud se má proviant dopravovat po vodě nebo po souši, a ti proviant neustále obstarávají a posílají dál.
+- typ: odstavec
+  de: |-
+    Sonst wird jhm ein ehrlicher Stand gehalten/ist auch vonnöten/daß es ein treffenliche wolgeachte Person sey/dann er můß mit vielen grossen Herren/Stätten vnd Ländern zuschaffen vnd handlen haben/da gehören nit schlecht Leuth oder Kinder zu/wie wol zu gedencken.
+  cs: |-
+    Jinak se mu vydržuje čestný stav, a je také nutné, aby to byla vynikající a vážená osoba, neboť musí jednat a vyjednávat s mnoha velkými pány, městy a zeměmi, k čemuž se, jak si lze snadno domyslet, nehodí prostí lidé ani děti.
+- typ: odstavec
+  de: Sein Besoldung ist Monats N. Gülden.
+  cs: Jeho žold {Besoldung} činí N. zlatých měsíčně.
+- typ: obrazek
+  soubor: drevorez-20.jpg
+  popis: |-
+    Ozdobná koncová vinětka (proplétaný uzel), jaká v tisku uzavírá kapitoly.

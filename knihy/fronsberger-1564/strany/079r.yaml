@@ -1,0 +1,28 @@
+id: 079r
+list: LXXIX
+strana: recto
+sken: 165
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das fünffte Bůch/von Stath/Regiment vnd Ordnung einer Besatzung oder Schlösser.
+  cs: Pátá kniha – o stavu, zřízení {Regiment} a řádu posádky neboli hradů
+- typ: obrazek
+  soubor: drevorez-165.jpg
+  popis: |-
+    Dřevořez v oválném rámu zdobeném válečnými trofejemi (zbroj, štíty, bubny, děla, lví maskarony): obléhání hradu na skalnatém vrchu. V popředí baterie děl za šancovními koši pálí na hrad, vlevo stojí knechti s halapartnami a kopími, uprostřed obrněný velitel s chocholem na vzpínajícím se koni, na zemi leží koule; vpravo v pozadí stany ležení.
+- typ: odstavec
+  de: |-
+    JTem ein jede Besatzung da man sich versicht darfür zulägern/die soll haben fünff wesenlicher stück/vnnd wann es deren eins oder mehr nicht hat/so soll der Herr keyn vertröstung/darzů auch keyn kosten darauff wenden.
+  cs: |-
+    Dále: Každá posádka {Besatzung}[^1], u níž se očekává, že se před ní [nepřítel] položí ležením, má mít pět podstatných věcí; a chybí-li jí jedna nebo více z nich, nemá na ni pán spoléhat ani na ni vynakládat náklady.
+- typ: nadpis
+  uroven: 3
+  de: Folgen die fünff wesenliche Stück.
+  cs: Následuje pět podstatných věcí
+poznamky:
+- n: 1
+  text: |-
+    Besatzung znamená v Páté knize jak posádku, tak samotné obsazené opevněné místo (hrad, město); překládáme jednotně „posádka“.

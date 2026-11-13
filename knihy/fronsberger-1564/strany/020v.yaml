@@ -1,0 +1,74 @@
+id: 020v
+list: XX
+strana: verso
+sken: 48
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: Item ein anzal Hellenparten.
+  cs: Dále určitý počet halaparten {Hellenparten}.
+- typ: odstavec
+  de: |-
+    Item etliche Reyßspieß/den halben theyl geschifft/den andern halben theyl vngeschifft/doch daß Brechscheiben mit gefürt werden/Denn es begibt sich wie oben gemelt/daß etwann einer kompt vmb ein Spieß/vnd behelt das eisen/ein anderer kompt vmb das eisen/behelt den Spieß/den beyden mag in der Arckelley geholffen werden.
+  cs: |-
+    Dále několik jezdeckých kopí {Reyßspieß}[^1], z poloviny na ratištích, z poloviny bez nich, avšak tak, aby se vezly i chrániče rukou {Brechscheiben}. Stává se totiž, jak bylo řečeno výše, že jeden přijde o ratiště {Spieß} a ponechá si hrot, jiný přijde o hrot a ponechá si ratiště; oběma lze v dělostřelectvu {Arckelley} pomoci.
+- typ: odstavec
+  de: |-
+    Item ein Wagen voll vberiger Ladschauflen/Ansetz kolben vnd stangen/groß vnd kleyn/zu allerley Büchsen.
+  cs: |-
+    Dále jeden vůz plný náhradních nabíjecích lžic {Ladschauflen}, pěchovadel {Ansetz kolben} a tyčí, velkých i malých, ke všem druhům děl {Büchsen}.
+- typ: odstavec
+  de: Item etlich hacken Büchsen mit Böcken/Ladstecken vnd puluerstecken.
+  cs: |-
+    Dále několik hákovnic {hacken Büchsen} s kozlíky, nabijáky {Ladstecken} a prachovými tyčkami {puluerstecken}.
+- typ: odstavec
+  de: |-
+    Item etlich hundert handrohr oder halbe hacken/mit aller zugehörung/als puluer vnd zündtfleschen/auch raumer vnd wüscher.
+  cs: |-
+    Dále několik set ručnic {handrohr} neboli půlhákovnic {halbe hacken} se vším příslušenstvím, totiž s prachovnicemi a zápalkovnicemi {zündtfleschen}, také se škrabkami {raumer} a vytěráky {wüscher}.
+- typ: odstavec
+  de: |-
+    Item etlich Centner handtbüchsen puluer/darbey etlich zündtpuluer/ein faß oder zwey mit grossen zündtstricken zu den grossen stücken vnnd geschütz/ein faß mit kleynen zündtstricken zun hacken vnd handgeschütz/darzu ein anzal hacken kuglen.
+  cs: |-
+    Dále několik centů {Centner} prachu do ručnic {handtbüchsen puluer} a k tomu nějaký zápalný prach, jeden nebo dva sudy velkých doutnáků k velkým kusům a dělům {geschütz}, jeden sud malých doutnáků k hákovnicím a ručním zbraním a k tomu určitý počet koulí {kuglen} do hákovnic.
+- typ: odstavec
+  de: |-
+    Item etliche Centner Bley zun Schlangen/Falckonen/Falckaneten vnnd hacken kuglen/ob deren zerrinne vnd mangel würde/auch vnter die knecht zutheylen/so mit handtrohren schiessen.
+  cs: |-
+    Dále několik centů olova na koule do hadovnic {Schlangen}, falkon {Falckonen}, falkonetů {Falckaneten} a hákovnic, kdyby se jich nedostávalo a byl jich nedostatek, a také k rozdělení mezi knechty {knecht}, kteří střílejí z ručnic.
+- typ: odstavec
+  de: |-
+    Item ein Wagen darauff man fürt die Mödel zu den Schlangen/Falckonen/Falckanet/Haacken/auch die leheren zu dem grossen geschütz/dardurch man die kuglen der feind vnd freund geußt/auch kolen vnnd gießlöffel/eisen schröt in fäßlin/darüber man die Kuglen geusset.
+  cs: |-
+    Dále jeden vůz, na němž se vezou formy {Mödel} na koule do hadovnic, falkon, falkonetů a hákovnic, také kalibry {leheren}[^2] k velkým dělům, podle nichž se lijí koule nepřátel i přátel, dále uhlí a licí lžíce a železná jádra {eisen schröt} v soudcích, kolem nichž se koule odlévají.
+- typ: odstavec
+  de: |-
+    Item ein Wagen darauff man fürt Schwebel/Salpeter/Hartz/Bech/vnnd ander matery zum fewrwerck.
+  cs: |-
+    Dále jeden vůz, na němž se veze síra, ledek, pryskyřice, smola a jiný materiál k ohňostrojům {fewrwerck}.
+- typ: odstavec
+  de: |-
+    Item ein Wagen dem Zeugmeyster/darauff man fürt ein faß mit vnschlit/kertzen/etliche grosse vnnd kleyne Laternen/auch Leuchter vnnd Kertzenstöck/so man bey nacht in der Schantz bawen soll/daß man mit verborgnem liecht/kundtschafft/auch zu anderer notturfft in den Hütten vnd Zellten gebrauchen möge/darzu ein anzal Windtliechter/So der Zeugmeyster bey nacht von vnd zu den Kriegßräthen vnd Herren reitten vnd gehn můß/vnnd in sein Losament bey der Arckelley weit von andern Kriegßrähten durch das Läger kommen möge/auch seine Register/Bücher/Papeyr/vnd ein geschraubte Fleschen mit dinten mitfüren möge.
+  cs: |-
+    Dále jeden vůz pro zbrojmistra {Zeugmeyster}, na němž se veze sud s lojem a svíčky, několik velkých i malých luceren, také svícny a svícnové stojany, aby se jich – má-li se v noci stavět v šanci {Schantz} – mohlo užít se skrytým světlem, k vyzvědání i k jiným potřebám v chatrčích a stanech. K tomu určitý počet větrných svítilen {Windtliechter}[^3], aby zbrojmistr, který musí v noci jezdit a chodit k válečným radům {Kriegßräthen} a pánům a od nich, mohl ležením {Läger} dojít do svého ubytování {Losament} u dělostřelectva, daleko od ostatních válečných radů; a aby mohl vézt s sebou také své rejstříky, knihy, papír a šroubovací lahvičku s inkoustem.
+- typ: odstavec
+  de: |-
+    Item ein Wagen darauff man fürt fewrpfannen/die man auffrecht inn das erdtreich steck vor deß Obersten/auch deß Zeugmeysters Zellt bey nacht so lärmen seind/damit die Haupt vnd ander befelchs leuth so bescheyd haben/einander sehen vnd kennen mögen/dabey sollen sein etliche faß mit Bechringen/die im regen vnnd wind brinnen.
+  cs: |-
+    Dále jeden vůz, na němž se vezou ohňové pánve, které se v noci, je-li poplach, zarážejí svisle do země před stanem nejvyššího [polního hejtmana] {Obersten} a také zbrojmistra, aby se hejtmani a jiní velitelé {befelchs leuth}, kteří tam mají co vyřizovat, mohli navzájem vidět a poznat. Při tom mají být také některé sudy se smolnými věnci {Bechringen}, které hoří i v dešti a větru.
+- typ: odstavec
+  de: Item ein Wagen mit höw oder Amendt/zum laden deß grossen geschütz.
+  cs: |-
+    Dále jeden vůz se senem nebo otavou {Amendt}[^4] k nabíjení velkých děl.
+poznamky:
+- n: 1
+  text: |-
+    Reisspieß – kopí jízdy (Reisige), kratší než lancknechtské dlouhé kopí; Brechscheibe – kotoučový chránič ruky na kopí. Výklad obou termínů nejistý.
+- n: 2
+  text: |-
+    Lehre – kalibrová šablona (kroužek, deska s otvorem), podle níž se ověřuje či odlévá koule pro danou ráži; „der feind vnd freund“ snad znamená, že se podle nich lijí koule i pro ukořistěná či cizí děla.
+- n: 3
+  text: Windlicht – svítilna či pochodeň chráněná proti větru.
+- n: 4
+  text: |-
+    Emd (Amendt) – otava, seno z druhé seče; seno sloužilo při nabíjení jako ucpávka mezi prachem a koulí.

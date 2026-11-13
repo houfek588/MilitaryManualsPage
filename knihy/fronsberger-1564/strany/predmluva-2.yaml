@@ -1,0 +1,23 @@
+id: predmluva-2
+list: předmluva
+strana: verso
+sken: 6
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    doch durch die Weltweisen Klügling nit vberal zu dem freundlichsten gedacht/welche denn one das gesinnet alle ding mehr zu tadeln vnd schelten denn zu loben vnd bessern begeren/vnd bißweilen zu sagen pflegen/ob man auß oder mit den Büchern müste kriegen/balgen/fechten/schlahen vnd anders dergleichen mehr lernen/etc. Solchen wil ich vorher gar einfeltig geantwort haben/Nein/solches Buch gar keins wegs nit darumb angefangen zuverzeichnen worden/denn so wenig ein Buch in einer Kirchen oder auff einer Cantzel für sich selbst wirt singen/lesen/oder predigen können/so wenig wirt oder sol auch ein Fechter on ein gewehr vnd gegen Mann/gleicher gestalt ein Kriegsmann zu Roß oder fuß/mit spieß/büchsen/harnisch vnd gewehr versehen/zu dem Feind sich rüsten/vnder augen ziehen vnd nähen/muß auch darneben vbel essen vnd trincken gewonen/auch hart zu ligen/frost/hitz/kelte/zu tag vnd nacht gewarten vnd bestan/die eisen Mücken bißweilen vmb die ohren hören singen/also muß es vnder handen genommen/vnd wie man spricht/einer dem Jarmarckt nach kramen vnd Landtsknecht erkennen lernen/wann nun solches etliche jarlang versucht/so darff demnach einer wol nicht halb soviel als hierinn begriffen/gewar werden.
+  cs: |-
+    přece světáčtí mudrlanti nesmýšleli všude nejpřívětivěji. Ti jsou už beztak naladěni všechno spíše hanět a kárat než chválit a zlepšovat a občas říkávají, zda se snad má z knih nebo s knihami učit válčit, rvát se, šermovat, bít a dalším podobným věcem atd. Těm chci předem zcela prostě odpovědět: Ne, tato kniha nebyla vůbec a nijak započata za tím účelem. Neboť jako kniha v kostele nebo na kazatelně sama od sebe nebude zpívat, číst ani kázat, tak ani šermíř [nebude šermovat] bez zbraně a protivníka. Stejně tak se válečník, na koni či pěšky, opatřený kopím {spieß}, ručnicí, zbrojí {harnisch} a zbraní, musí sám vypravit proti nepříteli, jít mu na oči a přiblížit se k němu; musí si přitom také zvyknout na špatné jídlo a pití, na tvrdé lehání, musí čekat a vydržet mráz, horko a zimu ve dne i v noci a občas slyšet zpívat kolem uší železné komáry[^1]. Tak se to musí vzít do rukou a, jak se říká, táhnout s krámem za jarmarkem a naučit se poznat lancknechta {Landtsknecht}. A když to někdo několik let zkouší, nepozná snad ani polovinu toho, co je zde obsaženo.[^2]
+- typ: odstavec
+  de: |-
+    Was aber hie folget dem Buchstaben nach/oder sonst nicht wol wie es sein solte/mit form vnd zierlichen worten außgefürt oder gesetzet worden/solches mehr meinem wolmeinen denn dem schreiben oder verstand nach/zumessen/habs allein für mich/zu einem Memorial für müssiggang an die hand genommen/wie dann ein jeder andern zu einem Exempel/etwas zu arbeiten schüldig ist/darmit sein zum besten gedacht/vnd nicht sein leben hie mit essen vnd trincken zubring/welcher werck vnd leben mit friden bey dem Grab zugeschart vnd vergessen wirt/etc.
+  cs: |-
+    Pokud však to, co zde následuje, není co do litery nebo jinak provedeno a podáno, jak by mělo, ve [vhodné] formě a ozdobnými slovy, nechť se to posuzuje spíše podle mého dobrého úmyslu než podle psaní či rozumu. Vzal jsem to do rukou jen pro sebe, jako memoriál proti zahálce, jako je ostatně každý povinen jiným pro příklad něco vykonat, aby se na něj vzpomínalo v dobrém a aby zde svůj život nestrávil jen jídlem a pitím – takového člověka dílo i život bývají v pokoji zahrabány v hrobě a zapomenuty atd.
+poznamky:
+- n: 1
+  text: „die eisen Mücken“ – železní komáři, tj. hvízdající kulky.
+- n: 2
+  text: |-
+    „so darff … nicht halb soviel … gewar werden“ lze číst i jako „nepotřebuje poznat ani polovinu toho, co je zde obsaženo“ (dürfen = potřebovat). Smysl pasáže je, že kniha praxi nenahradí.

@@ -1,0 +1,43 @@
+id: 097v
+list: XCVII
+strana: verso
+sken: 202
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ort der mawren mit sollicher materi souil jmmer müglich/verwerffe vnd außfüll/das dann durch groß anzal der personen/so zuuor alle ding zur hand geordnet seind/gar bald vnd ehe die feind recht hinzu kommen/geschehen mag/So man dann also mit solcher materi/auch grossen Blöcken vnd Balcken das geschossen loch verworffen hat/So dann die feind auff dasselbig ort zutringen/vnd es die notturfft erfordert/mag mans anzünden/vnd also die feind hiemit leichtlich abtreiben.
+  cs: |-
+    místo hradby tímto materiálem, nakolik je to jen možné, zaházelo a vyplnilo; to se při velkém počtu lidí, je-li předem všechno připraveno po ruce, dá provést velmi rychle, ještě než nepřátelé pořádně dorazí. Když se pak prostřílený průlom takto zahází tímto materiálem a také velkými kládami a trámy a nepřátelé se na to místo tlačí, lze to v případě potřeby zapálit, a tak nepřátele snadno odrazit.
+- typ: odstavec
+  de: |-
+    Oder man mag nemen gůte geleyterte wägen/etwann manchen/vnd dieselbigen also mit holtz/häw/stro/dürrem reyß/wol außfüllen/vnd darein spicken haacken vnd andere handtrohr/mit hagelgeschütz geladen/vnd so die feind den Sturm antretten/daß man solche wägen eylends inn die lucken schieb/die Büchsen rohr gegen den feinden gewendt/vnnd alßdann auch (so noth geschicht) angezündt/etc. ligt nit daran daß man schon die wägen vmbwirfft in die lücken.
+  cs: |-
+    Nebo lze vzít dobré žebřinové vozy, třeba několik, dobře je naplnit dřívím, senem, slámou a suchým klestím a nastrkat do nich hákovnice {haacken} a jiné ručnice nabité broky; a když nepřátelé vyrazí k útoku, vozy se rychle zasunou do průlomů, hlavněmi pušek proti nepřátelům, a pak se (bude-li třeba) také zapálí atd. Nevadí přitom, když se vozy v průlomech převrhnou.
+- typ: nadpis
+  uroven: 2
+  de: Statt Ordnung vnd Belägerung.
+  cs: Řád města a obležení
+- typ: odstavec
+  de: |-
+    ERstlich so einer Statt abgesagt/vnd man sich besorgt vorn feinden/so soll man wehlen vnd nemen erfarne Kriegßleuth/Zeug vnnd Büchsenmeyster/Werck vnd Bawmeyster/Steynmetzen/Mawrer vnnd Zimmerleuth/die sollen vor der Statt auff ein viertheyl meyl vmbher besichtigen vnd besehen/obs eben oder vneben/grübig/bergig/thälig/wässerig/höltzig/sumpffig oder mösig/ob brücken/weg/steg/bäum/thilen/gemewr/heuser/oder anders dergleichen/abzubrechen/vnd ob man sich nah oder ferr darfür läger/ob wasser zunemen oder abzugraben sey.
+  cs: |-
+    Předně: Když je městu vypovězena válka a obává se nepřátel, mají se vybrat a vzít zkušení válečníci, zbrojmistři {Zeug} a puškaři {Büchsenmeyster}, stavitelé a stavební mistři, kameníci, zedníci a tesaři. Ti mají v okolí města do vzdálenosti čtvrt míle prohlédnout a posoudit, zda je terén rovný nebo nerovný, plný jam, hornatý, údolnatý, vodnatý, lesnatý, bažinatý nebo mokřadní; zda je třeba strhnout mosty, cesty, lávky, stromy, ohrady z prken, zdi, domy nebo jiné podobné věci; zda se [nepřítel] před městem může utábořit blízko nebo daleko; a zda lze vodu odvést nebo odkopat.
+- typ: odstavec
+  de: |-
+    Darnach sol die Stattmawr inwendig besichtigt vnd besetzt werden nach notturfft/alle Basteyen vnd Bollwerck mit geschütz vnd geschoß/auch mit gůten Schützen vnd gůtem Feldtgeschütz ins Feldt zuschiessen/dann grosse stück seind nit teuglich in ein Statt/sonder gehören für ein Statt vnd mawr/so dann der feind kompt vnnd nahet/schantz vnd Läger schlahen wil/soll man jhm mit geschütz vnnd schiessen/vnnd scharmützeln zugegen sein/vnd jhn verhindern an jhrem fürnemen wo man kan/So er aber bey nächtlicher weil der Statt zunehet/vnd begert zuschantzen/soll man fewrballen/fewrkuglen zu jm hinauß werffen vnd schiessen/auff daß man erkündige was sein fürnemen/auch soll man schiessen vnd scharmützeln/durch sonderliche vnd heimliche außgäng der Statt/darmit jhm sein fürnemen gehindert werde.
+  cs: |-
+    Potom se má městská hradba zevnitř prohlédnout a podle potřeby obsadit, všechny bašty a bolverky {Bollwerck} děly a střelivem, také dobrými střelci a dobrými polními děly ke střelbě do pole; velké kusy se totiž do města nehodí, nýbrž patří před město a hradby[^1]. Když pak nepřítel přichází, blíží se a chce stavět šance {schantz} a ležení, má se mu čelit děly, střelbou a šarvátkami a bránit mu v jeho záměru, kde jen lze. Blíží-li se však k městu v noci a chce se zakopat, mají se na něj vrhat a střílet ohnivé koule a zápalné koule, aby se zjistilo, co zamýšlí; také se má střílet a podnikat šarvátky zvláštními a tajnými výpady z města, aby mu byl jeho záměr zmařen.
+- typ: odstavec
+  de: |-
+    So er aber nuh anfächt zum sturm die Statt vnd mawr zubeschiessen/soll an das ort/steyn/holtz/kaat/mist gefügt sein/darmit was er ein vnnd vmb oder nider scheußt/von stundan wider außgefüllt/vnd wider gebawen vnd verbawt werde/auch dabey vnd neben starck hůt vnd wacht gehalten/so er aber ein mawr fellt vnd vmbscheußt/soll inwendig derselbigen mawr ein gruben vnd graben so lang die Mawr gefellt ist/gemacht werden/solcher graben zimlich tieff sein vnnd hert an der mawr/darein soll Puluer vnd stro/füß vnnd lämeysen geworffen/dergleichen ein notturfft der schützen an das ort geordnet werden/So nuh der feind begert ein Sturm anzulauffen bey nacht oder tag/wiewol mans gemeynglich gegen dem tag pflegt zuthůn/soll man sich von den hohen wehren mitt schiessen vnnd streitten nicht saumen/dergleichen
+  cs: |-
+    Začne-li však nyní ostřelovat město a hradbu k útoku, má se na to místo dopravit kamení, dříví, bláto a hnůj, aby se to, co prostřelí, rozbije nebo srazí, ihned zase vyplnilo, znovu postavilo a zatarasilo; také se tam a vedle má držet silná ostraha a stráž. Pokud však hradbu povalí a rozstřílí, má se zevnitř podél té hradby v celé délce, kde je povalena, vykopat jáma a příkop; ten příkop má být dosti hluboký a těsně u hradby. Do něj se má naházet střelný prach {Puluer} a sláma, nášlapná a mrzačicí železa[^2], a stejně tak se na to místo má postavit dostatek střelců. Chce-li pak nepřítel podniknout útok v noci nebo ve dne – ačkoli to obvykle dělá k ránu –, nemá se otálet se střelbou a bojem z vysokých obranných míst; stejně tak,
+poznamky:
+- n: 1
+  text: |-
+    Tj. těžká obléhací děla slouží útočníkovi před hradbami; obránce potřebuje pohyblivá polní děla.
+- n: 2
+  text: |-
+    Fußeisen und Lähmeisen – železné ostny a „ježky“ (o čtyřech hrotech), na které útočník šlápne a zmrzačí si nohy.

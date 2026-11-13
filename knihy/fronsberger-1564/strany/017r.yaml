@@ -1,0 +1,54 @@
+id: 017r
+list: XVII
+strana: recto
+sken: 41
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    DJe stück so Bley schiessen/seind Falckanet/Scharpffentin/Toppel vnd einfache hacken/auch halbe hacken oder handrohr/gleichwol werden etwann zu den Nothschlangen/schlangen/vnnd Falckonen/auch Bleyene kuglen vber eysne schrot gegossen/aber nit/dann wann die eysin kuglen abgehn oder manglen/sonst scheußt man mehr auß den grossen stücken eysin kuglen.
+  cs: |-
+    Kusy {stück}, které střílejí olovo {Bley}, jsou falkonet {Falckanet}, serpentina {Scharpffentin}, dvojité a jednoduché hákovnice {Toppel vnd einfache hacken}, také půlhákovnice nebo ručnice {handrohr}. Někdy se sice i pro nouzové hadovnice {Nothschlangen}, hadovnice a falkony {Falckonen} lijí olověné koule přes železná jádra {vber eysne schrot}[^1], ale jen tehdy, když železné koule docházejí nebo chybějí; jinak se z velkých kusů střílí spíše železnými koulemi.
+- typ: odstavec
+  de: |-
+    Ein Falckanet das zwey pfundt Bley scheusset/gebrauchen hundert schütz/So man die Kuglen vber schrot geusset/zum wenigsten anderthalben Centner Bley/der halb Centner geht für hundert schrot/der jeder ein halb pfundt zum wenigsten schwer geacht/fünffhundert schütz thůt sibenzehenthalben Centner bley/Tausent schütz dreytzehen Centner Bley.
+  cs: |-
+    Falkonet, který střílí dvě libry {pfundt} olova: lijí-li se koule přes jádra, potřebuje sto ran nejméně půldruhého centu {Centner} olova, [zbývající] půl centu připadá na sto jader, každé počítáno nejméně na půl libry; pět set ran činí šestnáct a půl centu olova, tisíc ran třináct centů olova[^2].
+- typ: odstavec
+  de: |-
+    Ein Scharpffentin das da scheusset ein halbs pfund Bley/so man hundert schütz oder Kuglen vber schrot geusset braucht man zum wenigsten viertzig pfundt bley/zehen pfundt auff die schrot geacht vngefährlich/Fünffhundert schütz zwen Centner Bley/Fünfftzig pfund auff die schrot geacht/Tausent schütz vier centner Bley/ein Centner auff die schrot gerechnet.
+  cs: |-
+    Serpentina, která střílí půl libry olova: lije-li se sto ran čili koulí přes jádra, potřebuje se nejméně čtyřicet liber olova a asi deset liber se počítá na jádra; pět set ran dva centy olova a padesát liber na jádra; tisíc ran čtyři centy olova a jeden cent počítaný na jádra.
+- typ: odstavec
+  de: |-
+    Ein Toppelhacken der da scheusset ein halben vierling Bley/můß man zu hundert schützen die kuglen vber schrot gegossen/eylff pfund Bley anderthalb pfund auff die schrot/Fünff hundert schütz oder Kuglen/fünff vnd fünfftzig pfundt Bley/achtenthalb pfund auff die schrot geacht/Tausent Kuglen ein Centner zehen pfund bley/Fünfftzehen pfund auff die schrot alles vngefärlichen gerechnet.
+  cs: |-
+    Dvojitá hákovnice {Toppelhacken}, která střílí půl čtvrti {vierling} [libry] olova: na sto ran s koulemi litými přes jádra je třeba jedenáct liber olova a půldruhé libry na jádra; na pět set ran čili koulí pětapadesát liber olova a sedm a půl libry počítaných na jádra; na tisíc koulí jeden cent a deset liber olova a patnáct liber na jádra, vše počítáno přibližně.
+- typ: odstavec
+  de: |-
+    Hacken dessen Kuglen zwölff auff ein pfund gehen/thůn hundert Kuglen vber schrot gegossen/siben pfund Bley/ein pfund vnd ein vierling auff schrot/fünffhundert Kuglen/fünff vnd dreyssig pfundt bley/sechs pfundt ein vierling auff die schrot/Tausent Kuglen vber schrot gegossen/thůnd siebentzig pfundt Bley/dreytzenthalb pfundt auff die eysin schrot gerechnet/alles vngefärlich vberschlagen.
+  cs: |-
+    Hákovnice {Hacken}, jejíchž koulí jde dvanáct na libru: sto koulí litých přes jádra činí sedm liber olova a jednu a čtvrt libry na jádra; pět set koulí pětatřicet liber olova a šest a čtvrt libry na jádra; tisíc koulí litých přes jádra činí sedmdesát liber olova a dvanáct a půl libry počítaných na železná jádra, vše přibližně odhadnuto.
+- typ: odstavec
+  de: |-
+    Auff hundert halbe hacken oder handtrohr/vnd der jeden hundert schütz oder Kuglen allein mit Bley gossen/da zwentzig Kuglen auff ein pfundt gehn/thůnd hundert schützen/vnd jedem hundert schütz fünff vnd zwentzig Centner Bley/Tausent schützen/vnd jedem hundert schütz oder Kuglen/fünfftzig Centner Bley.
+  cs: |-
+    Na sto půlhákovnic {halbe hacken} nebo ručnic {handtrohr}, kde na každou připadá sto ran čili koulí litých jen z olova a dvacet koulí jde na libru: sto střelců {schützen} po sto ranách činí pětadvacet centů olova[^3], tisíc střelců po sto ranách čili koulích padesát centů olova.
+- typ: odstavec
+  de: |-
+    Also mag durch gewisse rechnung befunden werden/wie man mit Munition/Kuglen vnnd puluer gefaßt vnd versehen můß sein/nach dem man viel oder wenig/groß oder klein geschütz/auch hacken vnnd handtschützen hat/doch soll man allwegen ein vberfluß Bley haben/damit man in der not/so bey den Noschlangen/Schlangen vnnd Falckonen eysin Kuglen abgiengen/das man vber eysin schrot ander Kuglen mit Bley giessen könn/sonst wirt man auch etwann bley zu allerley dingen notturfftig/darumb soll man mit einem gůten vorrath gefaßt vnd versehen sein.
+  cs: |-
+    Tak lze přesným výpočtem zjistit, jak je třeba být zásoben a opatřen municí {Munition}, koulemi a prachem podle toho, kolik má kdo velkých či malých děl, hákovnic a střelců s ručnicemi {handtschützen}. Vždy však má být nadbytek olova, aby se v nouzi, kdyby u nouzových hadovnic, hadovnic a falkon došly železné koule, daly lít jiné koule z olova přes železná jádra; olova je ostatně někdy zapotřebí i ke všelijakým jiným věcem, a proto se ho má mít dobrá zásoba.
+poznamky:
+- n: 1
+  text: >-
+    „vber eysne schrot“ – olověná koule odlitá kolem železného jádra (Schrot = useknutý kus železa, kostka); železo
+    šetřilo drahé olovo a zvyšovalo tvrdost a váhu koule.
+- n: 2
+  text: >-
+    Čísla podle tisku. Podle poměru ve sto ranách (1½ centu olova) by mělo být pro 500 ran 7½ a pro 1000 ran 15 centů;
+    „sibenzehenthalben“ (16½) a „dreytzehen“ (13) jsou patrně tiskové chyby.
+- n: 3
+  text: >-
+    Podle tisku. Sto střelců po sto ranách (10 000 koulí po 1/20 libry) spotřebuje 5 centů olova; 25 centů odpovídá
+    pěti stům střelců – v tisku zřejmě vypadl jeden údaj. Údaj pro tisíc střelců (50 centů) souhlasí.

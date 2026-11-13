@@ -1,0 +1,45 @@
+id: 046v
+list: XLVI
+strana: verso
+sken: 100
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    oder hinden gespitzt zumachen/deßgleichen die Hellenparten vnnd kurtze Wehr einzumischen vnd theylen. Item die Schützen zuuerordnen vnd anzuhencken/in jhren vortheyl zuführen vnnd stellen/alles nach befelch vnnd geheyß deß Obersten vnnd Kriegßräthen. Er soll auch sein gewisse Rechnung wissen zumachen/so er weyß wie vil er Knecht vnter dem hauffen hat/vnd soll ein viereckichte Ordnung machen/daß er sein Rechnung gewiß habe/wieuil er inn ein glid soll stellen/darmit die ordnung eben als lang werd/als breyt sie ist. Er soll sich auch befleissen/in den vordersten vnd hindersten glidern die beste vnd ehrlichste/so auch am besten bewerdt vnnd gerüst seind zuuerordnen/dann ein jede Schlachtordnung soll nicht allein zuforderst/sonder auch zum hindersten mit rechtgeschaffnen leuthen/so wol bewert vnnd gerüst seind/versehen vnd verwart sein/nicht allein wider der feind einfallen/sonder auch daß sie den hauffen zusammen halten/vnnd die trennung vnnd hindersich weichen deß hauffens auff halten vnd verhindern.
+  cs: |-
+    nebo vzadu zahrocený {gespitzt}[^1], a stejně tak do něj vmísit a rozdělit halapartny {Hellenparten} a krátké zbraně. Dále rozmístit střelce {Schützen}, připojit je [k šiku] a zavést a postavit je do výhodného postavení, to vše podle rozkazu a nařízení plukovníka {Obersten} a válečných radů. Šikovatel musí také umět přesně počítat: ví-li, kolik má v houfu {hauffen} knechtů, a má-li sestavit čtvercový šik, aby měl jistý počet, kolik mužů má postavit do jedné řady {glid}, aby byl šik právě tak dlouhý jako široký. Má se také snažit, aby do předních a zadních řad zařadil ty nejlepší a nejčestnější, kteří jsou zároveň nejlépe vyzbrojeni a vystrojeni; neboť každý bitevní šik má být nejen vpředu, ale i vzadu opatřen a zajištěn řádnými lidmi, kteří jsou dobře vyzbrojeni a vystrojeni – nejen proti vpádu nepřítele, ale také proto, aby drželi houf pohromadě a zadrželi a zabránili jeho rozpadu a couvání.
+- typ: odstavec
+  de: |-
+    Gleicher gestalt sollen sie sich befleissen/an den orten die glider mit den besten so sie ausserthalben den vordersten vnd hindersten glidern haben mögen/zubesetzen vnnd zuuerwarten.
+  cs: |-
+    Stejně tak se mají snažit obsadit a zajistit řady na krajích těmi nejlepšími, které mohou mít kromě předních a zadních řad.
+- typ: odstavec
+  de: |-
+    Were auch daß sich etwa einer in ein glid stelt/da ein Feldtweybel vermeynet daß derselbig nicht genugsam hin sey/mag er jhn heyssen hinweg gehn/vnnd ein andern an dieselbige statt der jhme gefellt stellen/es soll sich auch deß keyner widern oder sperren/bey seinem Eydt/dann das auch ein Artickel im Artickels brieff ist vnnd sein soll.
+  cs: |-
+    Kdyby se také někdo postavil do řady, kam podle mínění šikovatele {Feldtweybel} nestačí, může mu šikovatel poručit, aby odešel, a postavit na to místo jiného, který se mu líbí; a nikdo se tomu nemá vzpírat ani bránit, a to pod svou přísahou, neboť i to je a má být článkem artikulního listu {Artickels brieff}.
+- typ: odstavec
+  de: |-
+    Ein geuierte Ordnung soll also gemacht sein/erstlich drey glid mit langen Spiessen/vnnd sollen die glider mit vngerader zal der Personen gemacht sein/als ein vnd zwentzig/drey vnd zwentzig/fünff vnd zwentzig/Darnach ein glid mit kurtzen wehren/als Hellenparten vnd Schlachtschwertern/darnach theylt man drey Fändlin ein/darnach macht man die glid alle mit Spiessen/biß inn die mit deß hauffen/dann fürt man alle glider der Hellenparten vnnd kurtzen Wehrn/die man dann außserthalben der Ordnung machen soll/mitten inn hauffen hinein/vnnd vnter die kurtze wehr theylt man alle Fändlin/außgenommen die drey letzten/Darnach macht man wider alle glider hinhinder mit langen Spiessen/biß ohn allein inn drey die letzten glidern/theylt man wider drey Fändlin ein/vnnd ein glid Hellenparten/darnach die drey letzten glider mit wolbewehrten vnnd gerüsten leuthen mit langen Spiessen.
+  cs: |-
+    Čtvercový šik {geuierte Ordnung} se má sestavit takto: nejprve tři řady s dlouhými kopími {Spiessen}, přičemž řady mají mít lichý počet osob, například jednadvacet, třiadvacet nebo pětadvacet. Potom jedna řada s krátkými zbraněmi, jako jsou halapartny a obouruční meče {Schlachtschwertern}; potom se zařadí tři praporce[^2]; potom se všechny řady tvoří z kopiníků až do středu houfu. Pak se všechny řady halapartníků a krátkých zbraní, které se mají sestavit mimo šik, zavedou doprostřed houfu a mezi krátké zbraně se rozdělí všechny praporce kromě posledních tří. Potom se směrem dozadu opět tvoří všechny řady s dlouhými kopími až na poslední tři řady; [před ně] se opět zařadí tři praporce a jedna řada halapartníků a nakonec tři poslední řady dobře vyzbrojených a vystrojených mužů s dlouhými kopími.
+- typ: odstavec
+  de: |-
+    Die Schützen verordnet man gemeynlich vber fünff mit inn ein glid/die hencket man zu beyden/etwann nur zu einer seiten an/nach gestalt vnnd gelegenheyt der sachen/der Feind/der vortheyl vnnd platz/Was dann vberige Schützen seind/verordnet man auch nach Rath vnnd gůt bedencken/vnnd gibt jhnen leuth vnd fürer zu/man führet auch wol auff das erst vnnd vorderst glid Doppelsöldner/ein glid Schützen ein.
+  cs: |-
+    Střelce obvykle stavějí po více než pěti do řady[^3] a připojují je [k šiku] po obou stranách, někdy jen po jedné, podle povahy a okolností věci, podle nepřítele, výhody a místa. Zbývající střelce rozmístí rovněž podle rady a dobrého uvážení a přidělí jim lidi a vůdce {fürer}. Někdy se také před první a přední řadu dvojžoldnéřů {Doppelsöldner} zařadí jedna řada střelců.
+- typ: odstavec
+  de: Die Feldtweybel sollen auch wissen/die Knecht vnd das Kriegßuolck
+  cs: Šikovatelé mají také umět knechty a válečný lid
+poznamky:
+- n: 1
+  text: |-
+    gespitzt – „zahrocený“, tj. šik se zúženým, klínovitým čelem nebo týlem, užívaný k průniku nebo ke krytí (srov. 047r, úzký dlouhý šik v nevhodném terénu).
+- n: 2
+  text: |-
+    Fändlin zde znamená samotné prapory jednotlivých praporců: ve velkém šiku z několika praporců se rozmísťují ve třech skupinách – tři vpředu, většina uprostřed mezi krátkými zbraněmi a tři vzadu.
+- n: 3
+  text: |-
+    vber fünff mit inn ein glid – doslova „přes pět do řady“; smysl je nejistý (snad „po pěti a více v řadě“).

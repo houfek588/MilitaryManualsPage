@@ -1,0 +1,43 @@
+id: 059v
+list: LIX
+strana: verso
+sken: 126
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Ampt/Befelch vnd Eydt deß Quartiermeysters.
+  cs: Úřad, pověření a přísaha kvartýrmistra {Quartiermeysters}
+- typ: odstavec
+  de: |-
+    VNter jedem Regiment der Füßknecht wird gehalten ein Quartiermeyster/deß thun vnd lassen ist aller ding/wie hieuor vom Quartiermeyster der Reysigen meldung geschehen/also soll er auch mit den vordersten hinziehen/das Läger helffen einnemen/dasselbig berathschlagen helffen/vnd wo jhn dann das loß der Fußknecht Läger/oder sunst die notturfft vnnd geschickligkeyt des platz hintrifft/daselbs losiert er erstlich an das lustigest orth seines Quartiers Obersten/darnach sich selbs/den Schultheyssen/den Profosen/auch soll er ein gelegen platz zum marckt Quartieren/darauff man wein/brot vnd andere notturfft/so man dem Läger zufürt/feyl hat/auch ein gelegen ort zur Metzge/vnnd andern Krämern vnd Kauffleuthen so im Läger feyl haben/Auch einen Spielplatz. Solcher Marcktplatz soll dermassen fürgenommen vnd verordnet werden/also/daß die Reysigen vnnd die bey der Arckelley einen gleichen zugang haben mögen/Es ist aber besser man verordne nach noth Profandt in der Reysigen Läger vnd zu der Arckelley/zuuerhüten viel vnrats/so sich offtmals zwischen den Reuttern vnnd Landsknechten bey dem Profandt kauffen zutregt/vnnd was dergleichen ämpter seind/Darnach theylt er das vberig Quartier/vnnd alle Furier die losen darnach darumb/vnnd furiern dann auch wie sich gebürt/vnd an seinem ort meldung geschehen ist.
+  cs: |-
+    U každého pluku pěchoty {Füßknecht} se vydržuje jeden kvartýrmistr, jehož konání a počínání je ve všem takové, jak bylo výše řečeno o kvartýrmistrovi jízdy {Reysigen}. Má tedy také táhnout s předními napřed, pomáhat zabírat ležení {Läger} a radit se o něm. A kam pak na ležení pěchoty padne los nebo kam ho přivede potřeba a vhodnost místa, tam nejprve ubytuje na nejpříjemnějším místě svého úseku {Quartiers} plukovníka {Obersten}, potom sebe, rychtáře {Schultheyssen} a profouse {Profosen}. Také má na vhodném místě vyměřit trh, kde se prodává víno, chléb a jiné potřeby, které se do ležení přivážejí, dále vhodné místo pro jatka {Metzge} a pro ostatní kramáře a kupce, kteří v ležení prodávají, a také místo pro hru {Spielplatz}. Takové tržiště má být vybráno a určeno tak, aby k němu měla stejný přístup jízda i ti od dělostřelectva {Arckelley}. Je však lepší, aby se podle potřeby zařídil proviant {Profandt} v ležení jízdy a u dělostřelectva zvlášť, aby se předešlo mnoha nepořádkům, k nimž často dochází mezi jezdci a lancknechty při nákupu proviantu, a [podobně] u dalších takových úřadů. Potom rozdělí zbývající úsek ležení a všichni furýři {Furier} o něj losují a pak ubytovávají, jak náleží a jak bylo řečeno na příslušném místě.
+- typ: odstavec
+  de: |-
+    Der General Oberst/desgleichen die andern hohen ämpter/als Musterherren/Kriegßräth/Pfennigmeyster vnd dergleichen Befelchsleuth schickt gemeynlich jeder ein Knecht mit den Quartiermeystern/die nemen mit anzeygung vnnd zulassung aller Quartiermeystern/ehe man die Quartier außtheylt ihren Herren die Losament ein/die verordnen jhnen die Quartiermeyster nach ihrem stath/Sie sollen aber alle in der nähe bey dem General Obersten sein/damit sie/so noth/fürderlich zu jhme kommen mögen. Was er für ein person soll sein/vnd die man pflegt zu solchem befelch zugebrauchen/ist bey dem Quartiermeyster der Reysigen/vnd nechst hieuor bey dem Schultheyssen Ampt genugsam angezeygt.
+  cs: |-
+    Nejvyšší polní hejtman {General Oberst} a stejně tak ostatní vysocí úředníci, jako přehlídkoví komisaři {Musterherren}, váleční radové {Kriegßräth}, pokladník {Pfennigmeyster} a podobní velitelé, posílají obvykle každý jednoho pacholka {Knecht} s kvartýrmistry. Ti pak s vědomím a svolením všech kvartýrmistrů, ještě než se úseky rozdělí, zaberou pro své pány ubytování {Losament}, které jim kvartýrmistři vykážou podle jejich postavení. Všichni však mají být nablízku nejvyššího polního hejtmana, aby se k němu v případě potřeby mohli rychle dostavit. Jaká osoba má kvartýrmistr být a jakou je zvykem k takovému pověření užívat, bylo dostatečně řečeno u kvartýrmistra jízdy a právě předtím u úřadu rychtáře.
+- typ: odstavec
+  de: |-
+    Er wird neben der gemeynen kriegspflicht/man wolt ihn dann auch in andern geschefften gebrauchen/mit sonderer pflicht nit beladen.
+  cs: |-
+    Kromě obecné válečnické přísahy {kriegspflicht} se nezavazuje žádnou zvláštní povinností, ledaže by ho chtěli užít i k jiným věcem.
+- typ: odstavec
+  de: |-
+    Vnnd wird mit seiner Besoldung wie hieuor vom Schultheyssen Ampt gemelt/gehalten.
+  cs: Žold se mu platí tak, jak bylo výše řečeno u úřadu rychtáře.
+- typ: odstavec
+  de: |-
+    Gleichergestalt wie der Schultheyß/wird er auch mit den Trabanten vnnd jungen gehalten.
+  cs: |-
+    Stejně jako rychtáři se i jemu vydržují drabanti {Trabanten} a pacholata.
+- typ: nadpis
+  uroven: 2
+  de: Ampt/Befelch vnd Eydt des Wachtmeysters vnter den Fußknechten.
+  cs: Úřad, pověření a přísaha vachmistra {Wachtmeysters} pěchoty
+- typ: odstavec
+  de: |-
+    VOn diesem Ampt ist hieuor an seinem orth bey dem Wachtmeyster der Reysigen gut vnnd gnug bericht beschehen/dann gleichergestalt wie derselbig sich in besatzung der Statt vnd Wachten mit den Reysigen/Also soll diser mit den Füßknechten sein Ampt zuuersehen/erfahren/geübt vnd geschickt sein. Als dahin souil/
+  cs: |-
+    O tomto úřadu už bylo dobře a dostatečně pojednáno na příslušném místě u vachmistra jízdy. Neboť jako si onen počíná při obsazování míst a stráží s jízdou, tak má i tento být zkušený, vycvičený a schopný vykonávat svůj úřad s pěchotou: totiž [určit] sem tolik,

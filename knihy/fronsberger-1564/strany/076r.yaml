@@ -1,0 +1,36 @@
+id: 076r
+list: LXXVI
+strana: recto
+sken: 159
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Von Schlacht Ordnungen.
+  cs: O bitevních šicích {Schlacht Ordnungen}
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie Schlacht Ordnungen durch die Regel Quadrat zu Roß vnd Fůß gemacht werden sollen.
+  cs: |-
+    Jak se mají stavět bitevní šiky jízdy i pěchoty podle pravidla čtverce {Regel Quadrat}
+- typ: odstavec
+  de: |-
+    ES begibt sich vnnd ist gemeynlich der gebrauch/wa viel Kriegßuolck zu Roß vnd Fůß in einem Heer oder Feldzug vnd Besatzungen bey einander versamlet seind/so dieselbigen durch die Feind/oder jren gegentheyl ersucht vnd angewendt werden/daß sich alle Fändlin/Regiment vnd hauffen zu Roß vnd Fůß zusammen verfügen/etwann auff ein zimlichen bequemen vnd weiten platz/so nahe darbey ligt/vnd auß allem Fůßuolck ein/zwen/oder drey hauffen/vnnd geuierte Schlachtordnungen darauß machen vnd ordnen/Dergleichen thůn auch die Reysigen/vnnd erharren also der Feind im vortheyl/auch wa man begert ein angriff oder Schlacht zuthůn/werden diese Ordnungen gemeynlich dermassen gemacht.
+  cs: |-
+    Stává se a bývá obyčejem, že když je ve vojsku, na tažení {Feldzug} nebo v posádkách {Besatzungen} shromážděno pohromadě mnoho válečného lidu na koni i pěšího a nepřítel či protivník je vyhledá a napadne, shromáždí se všechny praporce {Fändlin}, pluky {Regiment} a houfy {hauffen} jízdy i pěchoty na nějakém dosti pohodlném a prostorném místě nablízku a z veškeré pěchoty {Fůßuolck} utvoří a seřadí jeden, dva nebo tři houfy, čtvercové bitevní šiky {geuierte Schlachtordnungen}. Totéž činí i jízda {Reysigen} a tak očekává nepřítele ve výhodném postavení. Také když se chce zaútočit nebo svést bitvu, stavějí se tyto šiky obvykle tímto způsobem.
+- typ: odstavec
+  de: |-
+    Dieweil aber solche geuierte Schlachtordnungen nicht allen vnd jeden Kriegßleuthen bekannt vnd gemeyn seind zumachen/so ist not ein kleyne meldung daruon zu thůn/welchem solche Schlachtordnungen gebüren vnnd gehören zuordnen vnd zumachen.
+  cs: |-
+    Protože však stavět takové čtvercové bitevní šiky neumí každý válečník a není to obecně známo, je třeba o tom krátce pojednat a [říci], komu přísluší a náleží takové šiky řadit a stavět.
+- typ: odstavec
+  de: |-
+    Durch die Obersten soll zuuor ehe es die not oder weg ergreifft/auß den Registern durch rechnung vberschlagen/wie starck ein jegliches Fändlin/Regiment vnnd hauffen seien/an langen vnnd kurtzen wehren/an Hackenschützen/an personen vnnd wehrhafftigem Kriegßuolck/darauß dann entschlossen kan vnd mag werden/wieuiel man kan Landtsknecht in ein glid ordnen vnd stellen/darmit es ein geuierte Schlachtordnung vnd hauffen gebe vnd werde/Dann wa die grossen Heer oder Feldzüg seind/so stößt man etwann zwey oder drey Regiment vnnd hauffen zusammen/so weyß ein jeglicher Oberster ohne zweiffel auß gemelten Registern selbs wol/wie starck er sey an Schützen/Doppelsöldnern/vnd einfachen Knechten/auch an kurtzen vnnd langen wehren/Derhalben er leichtlich rechnen vnd vberschlahen kan/wieuiel man personen in ein glid ordnen vnd stellen wölle/darmit geschwind vnnd behend zu einer geuierten Schlachtordnungen getrungen/vnnd deß feinds auff alle vier ort in widerstand verharrt mag werden.
+  cs: |-
+    Plukovníci {Obersten} mají předem, dříve než přijde nouze nebo pochod, podle rejstříků {Registern} výpočtem odhadnout, jak silný je každý praporec, pluk a houf v dlouhých a krátkých zbraních {wehren}, ve střelcích z hákovnic {Hackenschützen}, v počtu osob a bojeschopného válečného lidu. Z toho se pak dá určit, kolik lancknechtů {Landtsknecht} se má postavit a seřadit do jedné řady {glid}, aby z toho vznikl čtvercový bitevní šik a houf. Neboť když jsou velká vojska nebo tažení, spojují se někdy dva nebo tři pluky a houfy dohromady; tu každý plukovník ze zmíněných rejstříků nepochybně sám dobře ví, jak je silný ve střelcích {Schützen}, dvojžoldnéřích {Doppelsöldnern} a prostých knechtech {Knechten}, jakož i v krátkých a dlouhých zbraních. Proto může snadno spočítat a odhadnout, kolik osob se má postavit a seřadit do jedné řady, aby se rychle a hbitě dospělo ke čtvercovému bitevnímu šiku a aby bylo možné nepříteli odolávat na všech čtyřech stranách.
+- typ: odstavec
+  de: |-
+    Dergleichen werden auch die Regiment vnd Fändlin zertheylt vnd zertrennt/also/daß etwann die Regiment oder Fändlin werden voneinander vnd vom hauffen geschickt/als in Besatzunge/Profandt oder anders zu beleyten/auch auff sonderliche Wacht vnd gewarsame/wa es dann die notturfft erfordert/Derhalben sollen dieselben Obersten vnd Hauptleuth gleicher gestalt/wie vor gemelt/betrachten/vnd durch rechnung vberschlagen/wieuiel sie wehrhaffter personen haben/an Schützen/Doppelsöldnern vnnd einfachen Knechten/die dem Feind können widerstand thůn/damit sie nit zuuil oder zuwenig in ein glid stellen/vnd behend zu geuierter Ordnung können kommen/dann solche eintzige hauffen oder Fändlin vil ehe durch verräterey vnd
+  cs: |-
+    Stejně tak se pluky a praporce dělí a rozdělují, takže se někdy pluky nebo praporce posílají jeden od druhého a od hlavního houfu, například do posádek, k doprovodu proviantu {Profandt} či něčeho jiného, také na zvláštní stráž a ochranu, když to potřeba vyžaduje. Proto mají tito plukovníci a hejtmani {Hauptleuth} stejně, jak bylo řečeno, uvážit a výpočtem odhadnout, kolik mají bojeschopných osob – střelců, dvojžoldnéřů a prostých knechtů –, které mohou nepříteli klást odpor, aby jich do jedné řady nepostavili příliš mnoho ani příliš málo a mohli hbitě dospět ke čtvercovému šiku. Neboť takové osamocené houfy či praporce bývají mnohem spíše než pravé a silné houfy skrze zradu a

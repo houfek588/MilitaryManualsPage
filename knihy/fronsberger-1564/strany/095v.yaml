@@ -1,0 +1,53 @@
+id: 095v
+list: XCV
+strana: verso
+sken: 198
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd soll nichts veracht werden/wie schlecht es ist/dañ weil man das ein braucht/mag das ander erspart werden/wo auch Stockfisch/Blatteißlein/häring vnd dergleichen vorhanden/daß etwann nicht gůt in die harr zubehalten ist/soll man zum ersten hinweg brauchen/dann so man sollich ding lang ligen vnnd verderben lasset/můß man sorgen daß Kriegßvolck sich kranck daran esse/wie dann liederlich geschehen mag/Es were auch allwegen besser/etwas anders für die Stockfisch vnd Platteißlin in einer Besatzung/dann es kost viel/verdirbt bald/vnnd erscheusset vbel/Zu dem/so man es kocht/můß man ein grossen kosten/vil schmaltz vnnd anders/besonder zu den Stockfischen brauchen/oder es ist ein heyloß essen/vnd kompt niemandt zu lieb oder nutz.
+  cs: |-
+    a ničím se nemá pohrdat, jakkoli je to chatrné, neboť dokud se spotřebovává jedno, může se ušetřit druhé. Kde jsou také sušené ryby, platýsi, slanečci a podobně, co se nedá dobře uchovat na delší dobu, má se to spotřebovat nejdříve; když se totiž takové věci nechají dlouho ležet a kazit, je třeba se obávat, že se jimi válečný lid nají do nemoci, jak se snadno může stát. Také by bylo vždy lepší mít v posádce {Besatzung} místo sušených ryb a platýsů něco jiného, neboť to stojí mnoho, rychle se to kazí a málo to vydá. Navíc když se to vaří, je to velký náklad, potřebuje se mnoho sádla a jiných věcí, zvláště k sušeným rybám, jinak je to mizerné jídlo, které nikomu nechutná ani neprospěje.
+- typ: odstavec
+  de: |-
+    Wo auch vmb ein Besatzung wasser gräben/die man nicht nemen möcht/soll man/wo Weyher vnnd See in der nähe seind/dieselbigen fischen/die Fisch so man facht/in die wasser graben thůn/damit man dieselbigen zur notturfft haben vnnd gebrauchen möge.
+  cs: |-
+    Kde má také posádka kolem sebe vodní příkopy, které [nepřítel] nemůže vzít, má se, jsou-li nablízku rybníky a jezera, vylovit je a chycené ryby vysadit do vodních příkopů, aby je bylo možné mít a použít v nouzi.
+- typ: odstavec
+  de: |-
+    Auch so man der feind vnd der Belegerung gewißlich warten/vnnd gleich an dem ist/soll man alles was in den vmbligenden Flecken ist/nemen/vnnd in die Statt führen/es sey vihe/kelber/geiß/schaf/korn/habern/häw/stro/wein/vnnd alles was man ankommen mag/damit es in der Besatzung zu gůtem komme/vnnd die feind desselbigen gerathen vnd mangeln müssen/Man soll aber/was also den feinden vnd nachbawren genommen wird/alles einem jeden beschreiben/vnnd alßdann so es fried wird/nach billigkeyt zimlich wider bezalen/Es sollen auch die arme leuth keyn verdrieß darob haben/sonder sich leyden vnnd gedulden/dann sie jhres Herren nutz/heyl vnnd wolfart/als fromme vnterthanen vnnd Landtsessen schuldig seind zufürdern/schaden zu warnen/wenden vnnd fürkommen/Zu dem/wo es die freund nicht nemen/würden es jhnen die Feind gewißlich nicht lassen/vnnd jhnen dann gar nichts darfür werden.
+  cs: |-
+    Když se pak s jistotou očekává nepřítel a obležení a je to na spadnutí, má se vzít všechno, co je v okolních městečkách a vsích, a dopravit do města, ať je to dobytek, telata, kozy, ovce, žito, oves, seno, sláma, víno a vůbec všechno, k čemu se lze dostat, aby to přišlo k dobru posádce a nepřátelé se bez toho museli obejít a strádat. Co se takto vezme nepřátelům[^1] a sousedům, má se však každému zapsat a až nastane mír, podle slušnosti přiměřeně zaplatit. Chudí lidé nemají kvůli tomu mít nevoli, nýbrž to mají snášet a strpět, neboť jsou jako řádní poddaní a obyvatelé země {Landtsessen} povinni napomáhat užitku, prospěchu a blahu svého pána, před škodou varovat, odvracet ji a předcházet jí. Kromě toho, kdyby to nevzali přátelé, nepřátelé by jim to jistě nenechali a nedostali by za to vůbec nic.
+- typ: odstavec
+  de: |-
+    Es soll auch in der Besatzung alles auffgehaben/zusamen gesamelt vnnd verwart werden/das man schon sonst nit achtet/als Kleyen/Sprewer/häwblůmen vnd dergleichen/dann in letzter noth wird sollichs auch etwann mit pferden/vihe vnnd leuthen gebraucht.
+  cs: |-
+    V posádce se má také všechno schraňovat, shromažďovat a opatrovat, čeho si jinak nikdo neváží, jako otruby, plevy, senné odrobky a podobně, neboť v krajní nouzi se to někdy spotřebuje pro koně, dobytek i lidi.
+- typ: odstavec
+  de: |-
+    Ohn einen stattlichen vorrath vnschlit soll man sich auch in einer Besatzung nit finden lassen/zu liechtern vnd anderer notturfft zugebrauchen/wie dann noth ist.
+  cs: |-
+    Bez pořádné zásoby loje se posádka také nesmí ocitnout, neboť je ho potřeba na svíčky a k jiným nutným věcem.
+- typ: odstavec
+  de: |-
+    Mann soll auch die Bürger nichts/das der Besatzung zu gůtem kömen mag/hinweg flöhnen lassen/als thůch/leynwat/läder/eysen/stahel/kolen/holtz/vnnd alles das Prouandtiert.
+  cs: |-
+    Měšťanům se také nemá dovolit odvézt do bezpečí[^2] nic, co by mohlo posádce přijít k dobru, jako sukno, plátno, kůži, železo, ocel, uhlí, dřevo a všechno, co slouží k zaopatření.
+- typ: odstavec
+  de: |-
+    Es soll auch alles brenn vnd bawholtz/auch kolen bey der Statt/vnd wo man es erreychen mag/alles in die Statt gefürt werden/damit man es auch zur notturfft zubawen/zubrennen/vnd wartzů man sein notürfftig wird/zubrauchen habe.
+  cs: |-
+    Také všechno palivové a stavební dříví i uhlí u města, a kamkoli lze dosáhnout, se má svézt do města, aby je bylo možné podle potřeby použít ke stavění, k topení a k čemukoli, čeho bude zapotřebí.
+- typ: odstavec
+  de: |-
+    Wo auch/als an etlichen orten pfleglich/die mist vor den Stetten seind/sol man/
+  cs: |-
+    Kde jsou také, jak bývá na některých místech zvykem, před městy hnojiště, nemá se,
+poznamky:
+- n: 1
+  text: |-
+    Tak tisk („den feinden vnd nachbawren“). Podle souvislosti se bere především okolním vlastním poddaným, jimž se má po válce zaplatit; možná jde o chybu za „freunden“, nebo se myslí i statky nepřátel v okolí.
+- n: 2
+  text: flöhnen (flehnen) – uklidit majetek před nebezpečím, odvézt do úkrytu.

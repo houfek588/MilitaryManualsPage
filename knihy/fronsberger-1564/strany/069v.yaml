@@ -1,0 +1,51 @@
+id: 069v
+list: LXIX
+strana: verso
+sken: 146
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gehalten werden/sondern von jedem Fändlin drey ordnen/damit ob jnen einig geleye noch anzubringen wer/so sollen sie jhr not denselben dreyen anzeygen/dieselbigen mögen die sachen weiter anzeygen/wa not ist/Vnnd wa einer oder mehr darwider handelt/die sollen gestrafft werden/nach erkanntnuß des Obersten an jhrem leib vnnd leben.
+  cs: |-
+    konat, nýbrž z každého praporce {Fändlin} mají ustanovit tři [muže], a kdyby [knechti] měli ještě nějakou záležitost k přednesení, mají svou potřebu oznámit těm třem a ti mohou věc, je-li třeba, předložit dál. A kdo by jeden nebo více jednali proti tomu, mají být potrestáni podle uvážení plukovníka {Obersten} na těle i na životě.
+- typ: odstavec
+  de: |-
+    Zum achtzehenden/soll die Keyserliche Maiestat macht haben/die ämpter/als Hauptleuth/Fänderich/Weybel/Trommenschlaher/vnd dergleichen beuelch zusetzen vnd entsetzen.
+  cs: |-
+    Za osmnácté: Jeho císařský Majestát má mít moc úřady, jako jsou hejtmani {Hauptleuth}, praporečníci {Fänderich}, šikovatelé {Weybel}, bubeníci a podobná velitelská místa, obsazovat a jich zbavovat.
+- typ: odstavec
+  de: |-
+    Zum neuntzehenden/soll auch keyn Hauptmann dem andern seine Knecht abstelen/auch das keyn Rottmeyster zuerlauben haben/gleicher weiß keynen annemen/on seines Obersten wissen vnd willen.
+  cs: |-
+    Za devatenácté: Žádný hejtman nemá jinému odlákávat jeho knechty {Knecht} a žádný rotmistr {Rottmeyster} nemá mít moc to dovolit; stejně tak nemá nikoho přijímat bez vědomí a vůle svého plukovníka.
+- typ: odstavec
+  de: |-
+    Zum zwentzigsten/soll keyner keyn Büchsen im Läger abschiessen/darmit nicht vergebener Lärmen werde/one erlaubnuß seines Obersten/vnd sonderlich bey nacht.
+  cs: |-
+    Za dvacáté: Nikdo nemá v ležení {Läger} vystřelovat z ručnice {Büchsen} bez svolení svého plukovníka, a zvláště ne v noci, aby nevznikl zbytečný poplach.
+- typ: odstavec
+  de: |-
+    Zum ein vnnd zwentzigsten/soll keyner keyn mawr beschedigen/noch anders/oder einnemen vnd berüren/bey leibstraff.
+  cs: |-
+    Za jednadvacáté: Nikdo nemá poškozovat žádnou zeď ani nic jiného, ani to zabírat a na to sahat, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Zum zwey vnnd zwentzigsten/ob einer wer/der ein flucht in ein hauffen macht im Feld/soll der nechst so bey jhm stehet oder hinder jhm/ein spieß in jn stossen/oder zu todt schlahen/vnd darmit nichts verfallen haben/Wa er aber jm entlieff/sollen sie es dem Obersten anzeygen/soll er an leib vnd leben gestrafft werden.
+  cs: |-
+    Za dvaadvacáté: Kdyby se někdo v poli dal v houfu {hauffen} na útěk, má mu ten nejbližší, kdo stojí vedle něho nebo za ním, vrazit do těla kopí {spieß} nebo ho ubít, a tím nic nepropadl. Kdyby mu však utekl, mají to oznámit plukovníkovi a [uprchlík] má být potrestán na těle i na životě.
+- typ: odstavec
+  de: |-
+    Zum drey vnd zwentzigsten/daß sie nicht vber die Profand fallen/so in das Läger gefürt wird/noch die angreiffen/ehe sie geschetzt wird/vnnd wa sie ziehen in Keys. Maiestat/oder andern Landen/so friden oder verträg mit jhr Maiestat haben/sollen die Knecht jedermann schon bezalen/vnd nichts mit gewalt nemen/noch jemands beschedigen.
+  cs: |-
+    Za třiadvacáté: Ať se nevrhají na proviant {Profand}, který se přiváží do ležení, ani na něj nesahají, dokud nebude oceněn. A kudy táhnou zeměmi Jeho císařského Majestátu nebo jinými zeměmi, které mají s Jeho Majestátem mír nebo smlouvy, mají knechti každému pěkně platit, nic nebrat násilím a nikomu neškodit.
+- typ: odstavec
+  de: |-
+    Zum vier vnd zwentzigsten/wa einer oder mehr die obgeschribene Artickel nicht hielt/oder etwas darin vergessen würd/deß straff soll dem Obersten heym stehen/vnd soll peinlich beklagt werden.
+  cs: |-
+    Za čtyřiadvacáté: Kdyby jeden nebo více nedodržovali výše sepsané artikule, nebo kdyby v nich bylo něco zapomenuto, má trest za to záviset na plukovníkovi a [provinilec] má být hrdelně {peinlich} obžalován.
+- typ: obrazek
+  soubor: drevorez-146.jpg
+  popis: |-
+    Ozdobná vinětka na konci artikulního listu – symetrický propletený uzel ze stužek se smyčkami.

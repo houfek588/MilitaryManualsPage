@@ -1,0 +1,33 @@
+id: 111r
+list: CXI
+strana: recto
+sken: 229
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Gottsförchtige vnd weise männer/nützlich gesetzt/vnd warhafftig beschrieben/mit Fürstlichem Sigel bekrefftiget/dem Schultheyssen vberlieffert werden/auch alle Monat vermercklich den Regimenten verlesen/vnnd vber hoch vnnd nider Stand trünglich vnnd gewaltig erhalten/ohn alles ansehen der Person/damit zwischen den gemeynen Knechten vnd Beuelchs leuhten/durch eynichen vortheyl/keyn groll noch meuterey/sonder trew vnd freundtschafft samenthafft gepflantzet werd/Dann es wirdt jhe/wie Christus sagt/sonst ein jedes Reich/so in jhm selbs zertrennt ist/verhergt vnd öd werden/wie mächtig es jmmer ist/wie auch die kleyne durch hertzigkeyt Herrlich auffwachsen vnd gewaltiglich reychen vnd Sigen.
+  cs: |-
+    bohabojnými a moudrými muži užitečně stanoveny a pravdivě sepsány, stvrzeny knížecí pečetí a odevzdány rychtáři {Schultheyssen}, také každý měsíc zřetelně předčítány plukům a nad vysokým i nízkým stavem důrazně a mocně udržovány bez jakéhokoli ohledu na osobu, aby mezi prostými knechty a veliteli kvůli nějakému zvýhodnění nevznikala žádná zášť ani vzpoura, nýbrž aby se společně pěstovala věrnost a přátelství. Jinak totiž, jak praví Kristus,[^1] každé království, které je samo v sobě rozdělené, zpustoší a zpustne, ať je jakkoli mocné, kdežto i malá [království] svornou odvahou slavně rostou, mocně se rozpínají a vítězí.
+- typ: nadpis
+  uroven: 2
+  de: Vbung der Ritterschafft.
+  cs: Cvičení rytířstva
+- typ: odstavec
+  de: |-
+    ER soll aber auff dieser zweyer stück eygenschafft sehen/die etwann weder bey noch ohn einander sein mögen/als auff der straff vnnd freundtschafft art/daß ers in rechtem mittel halte/damit sie weder zur verachtung noch neid reychen/So soll er sich auch in straff (doch mit stäter fürderung der gerechtigkeyt) gegen den gemeynen/eines vätterlichen mitleidlichen hertzens/nit allein wider die hohe ämpter/sonder auch wider sein eygne Person/etwa so viel sträfflicher/je schwärer der höhern fahl ist/dann der nidern/auch in freundschafft sampt seinen Befelchßleuhten/durch schimpflichen vnd ernstlichen wandel/nicht zu frembd erzeygen/Auch vber den gemeynen Mann sich nicht zu köstlich vnd zu Weibisch zieren vnnd schmücken/sonder in allen Ritterlichen vbungen/mit etwas fürtreflicher redligkeyt ehrwirdig machen. Vnd dieweil je alle Ritterschafft/wie köstlich sie jmmer pranget/gar nichtig vnd ein lauter Frawen zimmerisch spiegelfechten/on rathliche vnd embsige vbung notturfftiger Schlachtordnung vnd künstlicher Kampffstück/von den waren Rittern geacht wird/soll er sich hiemit freundlich erzeygen/sich offt mit den Kriegsverstendigen zu Roß vnd zu Fůß/nächtlich wie täglich vor jn vben/vnnd also den gemeynen Knecht durch sein vorbild nach vnnd nach Schůlrecht lehren/durch welchs er in notzwang selbs ohn jhrer Weybel anordnung rechte glider halten/gleich schreitten/seins manns vnd stands acht haben/im angriff keyn jrren/vnnd dannocht die seitten wol beschliessen/zum hertzen stechen/gewiß zum Angesicht schlahen/fertig mit lauffen/schreitten/springen/klimmen/schwimmen/werffen/schiessen/würblen/wenden/zucken/spitzen/rundieren/auß denen oder zusamen schmucken/auff Bergen/Bühlen/Klufften/Flätten/Thälen/Ebnen/Wälden/Heyden/Gesteuden/Mösen/Weygern/Gräben vnd Zeunen/vnd in andern dergleichen gelegenheyten/geübt vnnd geschickt sein mög/Welche übung macht vorzeiten auch die Weiber Amazones streitbar/vnnd manche jar vnüberwindlich.
+  cs: |-
+    Má však dbát na povahu dvou věcí, které někdy nemohou být ani spolu, ani jedna bez druhé, totiž na trest a na přívětivost, aby je držel ve správné míře a aby nevedly k pohrdání ani k nenávisti. Při trestání (ovšem se stálým prosazováním spravedlnosti) se má vůči obci projevovat s otcovským a soucitným srdcem, avšak nejen vůči vysokým úřadům, nýbrž i vůči vlastní osobě o to přísněji, oč těžší je pád vyšších než nižších. Také v přátelském styku se svými veliteli se nemá v žertovném ani vážném chování projevovat příliš cize, ani se nad prostého muže nemá příliš nákladně a zženštile zdobit a šperkovat, nýbrž se má ve všech rytířských cvičeních činit úctyhodným nějakou vynikající zdatností. A protože praví rytíři pokládají všechno rytířstvo, jakkoli nádherně se honosí, za zcela marné a za pouhé šermování před zrcadlem v ženské komnatě, chybí-li mu rozvážné a pilné cvičení potřebných šiků {Schlachtordnung} a umných bojových chvatů, má se v tom ukázat vlídný: má se často s válečně zkušenými muži na koni i pěšky v noci i ve dne před nimi cvičit, a tak svým příkladem prostého knechta postupně a jako ve škole učit, aby v nouzi i bez rozkazu svých šikovatelů {Weybel} sám držel správné řady {glider}, šel stejným krokem, dbal na svého druha a své místo, při útoku nechyboval a přitom dobře uzavíral boky, bodal do srdce, jistě sekal do tváře a byl hbitý v běhu, kroku, skoku, šplhu, plavání, házení, střelbě, víření, obratech, trhnutí, nastavování hrotů, uzavírání do kruhu, rozvinování i stahování [šiku], a byl vycvičený a zručný na horách, pahorcích, v roklích, na pláních, v údolích, rovinách, lesích, vřesovištích, křovinách, močálech, rybnících, příkopech a plotech a v jiných podobných místech. Takové cvičení učinilo kdysi bojovnými a po mnoho let nepřemožitelnými i ženy Amazonky.
+- typ: nadpis
+  uroven: 2
+  de: Vnterscheyd deß Heers.
+  cs: Rozdělení vojska
+- typ: odstavec
+  de: |-
+    WAnn er nun seinen hauffen vollkommen geübt vnd besehen hat/warzu/auch zu was rüstung vnnd wehr jeder zum thättigsten ist/soll er die lande seines feinds mit gebürlichem zeug vberfallen/Wann in die gebirg gehört ein sterckerer Fůßzeug/vnd wenig ringer dann schwäre pferdt/aber weite feldt erfordern beyde zum stercksten. Reutter gezimmen eben dem Moß/wie Meuß der fallen. Er soll
+  cs: |-
+    Když pak svůj houf dokonale vycvičil a prohlédl, k čemu a s jakou výzbrojí a zbraní je kdo nejschopnější, má vpadnout do zemí svého nepřítele s náležitým vojskem {zeug}. Do hor totiž patří silnější pěchota {Fůßzeug} a málo koní, spíše lehkých než těžkých, kdežto širá pole vyžadují obojí v největší síle. Jezdci se do bažiny hodí právě tak jako myši do pasti. Má
+poznamky:
+- n: 1
+  text: Mt 12,25; Lk 11,17.

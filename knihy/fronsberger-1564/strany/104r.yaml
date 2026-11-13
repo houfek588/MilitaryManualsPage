@@ -1,0 +1,90 @@
+id: 104r
+list: CIIII
+strana: recto
+sken: 215
+stav: zkontrolovano
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - Bringt im krieg schad/nachtheyl vnd leyd.
+  - Wilt daß dein anschlag wol gerath/
+  - So halt jhn heymlich in deim Rath.
+  - Wer anschläg seim Feind offenbart/
+  - Erreycht selten sein wolfart/
+  - Vorzeiten wars groß lob vnd ehr/
+  - Sein feind lan kommen zu gleicher wehr/
+  - Jhm ward abgsagt bey gůter zeit/
+  - Die hielt man für gůt Ritter leuth.
+  - Jetzunder ist keyn gůt Hauptmann/
+  - Der nit mit vortheyl schlahen kan.
+  - Jetzt wird gelobt vnd grümbt in kriegen
+  - Der Feind kan vnd weyß zubetriegen/
+  - Nit daß ich deß wöll vnterweisen/
+  - Das nicht sey lob/ehr/noch zupreisen.
+  - Aber fürkommen spott vnd schaden/
+  - Wil dich damit gewarnet haben/
+  - Dann besser wird sein vnd zu ehren
+  - Dich deines Feinds mit list zurwehren/
+  - Dann Stett verliern/Schloß/leuth vnd land/
+  - Aller Welt kommen zspott vnd schand.
+  - So du gleich dein ehr thůst bewarn/
+  - Wird dich darumb dein feind nit sparn.
+  - Darumb mit list brich feinds vntrew/
+  - Daß dir dein Boßheyt nicht bring rew.
+  - Dann dein verlust/rew/schad vnd leyd/
+  - Jst deinem Feind ein fröligkeyt.
+  cs:
+  - přináší ve válce škodu, újmu a strast.
+  - Chceš-li, aby se tvůj záměr dobře zdařil,
+  - drž jej v tajnosti ve své radě.
+  - Kdo své záměry nepříteli vyjeví,
+  - ten zřídka dojde zdaru.
+  - Kdysi bývalo velkou chválou a ctí
+  - nechat nepřítele přijít se stejnou zbraní,
+  - válka mu byla ohlášena v dobrém čase
+  - a takové měli za dobré rytířské muže.
+  - Dnes však není dobrým hejtmanem {Hauptmann} ten,
+  - kdo neumí udeřit s výhodou.
+  - Nyní se ve válkách chválí a velebí ten,
+  - kdo nepřítele dovede a umí oklamat.
+  - Ne že bych tě chtěl učit tomu,
+  - co není chvályhodné, čestné ani hodné velebení,
+  - ale abys předešel posměchu a škodě,
+  - chci tě tím varovat.
+  - Neboť bude lepší a čestnější
+  - ubránit se nepříteli lstí
+  - než ztrácet města, hrady, lidi i zemi
+  - a upadnout u celého světa v posměch a hanbu.
+  - I kdybys ty svou čest sebevíc střežil,
+  - nepřítel tě proto šetřit nebude.
+  - Proto lstí zlom nepřítelovu věrolomnost,
+  - aby ti jeho zloba nepřinesla žal.[^1]
+  - Neboť tvá ztráta, žal, škoda a strast
+  - jsou tvému nepříteli radostí.
+- typ: nadpis
+  uroven: 3
+  de: Von gutem Regiment vnterm Kriegßvolck.
+  cs: O dobrém řádu mezi válečným lidem
+- typ: verse
+  de:
+  - WJl obgedacht ding lassen stehn/
+  - Wider vnter dein Kriegßleuth gehn/
+  - Darunter mancher Mutter Kind/
+  - Die nicht eins sinns vnd gmůtes sind/
+  - Die gschickten vnter jn solt erwehln/
+  - Zu Weyblin/Fenderich vnd der geselln.
+  - Halt all in gůter forcht/Ordnung/
+  cs:
+  - Teď nechám výše řečené věci být
+  - a vrátím se zas k tvému válečnému lidu,
+  - mezi nímž je leckterý matčin syn
+  - a ne všichni jsou jedné mysli a jednoho srdce.
+  - Ty nejschopnější z nich máš vybrat
+  - |-
+    za šikovatele {Weyblin}, praporečníky {Fenderich} a [jiné úřady] mezi druhy.
+  - Všechny drž v dobré bázni a řádu,
+poznamky:
+- n: 1
+  text: |-
+    Tisk má „dein Boßheyt“ (tvá zloba); smysl verše spíše vyžaduje zlobu nepřítele, snad tisková chyba za „sein“. Přeloženo podle smyslu.

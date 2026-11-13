@@ -1,0 +1,64 @@
+id: 044v
+list: XLIIII
+strana: verso
+sken: 96
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    pflicht gethon/wie jhm deßhalben ein sonderer Eyd geordnet ist/desselbigen Eyds soll auch einem jeden Hauptmann ein abschrifft geben werden.
+  cs: |-
+    složil přísahu {pflicht}, jak je pro něj k tomu stanovena zvláštní přísaha; opis této přísahy se má dát také každému hejtmanovi.
+- typ: odstavec
+  de: |-
+    Item so sich in zeiten seiner Bestallung/jrrung vnnd spän seiner Bestallung halben/oder sonst mit andern Hauptleuthen zutrüg/die in der güte nicht vertragen werden möchten/daß er deßhalben bey endtlichem entscheyd deß Obersten Hauptmanns vnd der Kriegßräth/so er darzu nemen würde/bleiben wölle.
+  cs: |-
+    Dále, kdyby během jeho služby vznikl spor a rozepře kvůli jeho služebnímu listu {Bestallung} nebo jinak s jinými hejtmany, kterou by nebylo možné urovnat po dobrém, že se podrobí konečnému rozhodnutí plukovníka {Obersten Hauptmanns} a válečných radů {Kriegßräth}, které si k tomu přibere.
+- typ: odstavec
+  de: |-
+    Item daß er bey seinen Knechten souiel jm müglich/mit fleiß darob sein wölle/damit sie nach laut deß Artickels Brieff/darauff sie geschworen/getrewlich dienen/auch dem Obersten Hauptmann gefällig vnd gehorsam seien.
+  cs: |-
+    Dále, že bude u svých knechtů, seč bude moci, pilně dbát, aby podle znění artikulního listu {Artickels Brieff}, na který přísahali, věrně sloužili a byli plukovníkovi po vůli a poslušni.
+- typ: odstavec
+  de: |-
+    Dieweil nuh durch disen Reuerß vnd Artickel vil vortheyls vnnd finantz wird abgestrickt/so sie bißanher nicht mit geringem nachtheyl deß Kriegßherrn zum theyl gepflogen/vnnd aber ein Hauptmann von wegen seins stands ein grossen vnkosten brauchen můß/soll das durch den Kriegßherren bedacht/vnd den Hauptleuthen deßhalben die Besoldung nach notturfft gebessert werden.
+  cs: |-
+    Protože se však tímto reversem {Reuerß} a články odstraní mnoho výhod a fint {finantz}, které [hejtmani] dosud zčásti provozovali k nemalé škodě válečného pána, a hejtman přitom musí kvůli svému stavu vynakládat velké náklady, má to válečný pán uvážit a hejtmanům proto podle potřeby žold zvýšit.
+- typ: odstavec
+  de: |-
+    Es soll einem jeden Hauptmann inn annemung angezeygt werden/auff welchen Musterplatz er seine Knecht bescheyden sol/auff welchen tag man jhn mustern wölle/auch was man seinen Knechten auff die handt geben wölle.
+  cs: |-
+    Každému hejtmanovi se má při přijetí oznámit, na které přehlídkové místo {Musterplatz} má své knechty svolat, kterého dne ho budou přehlížet a také kolik se jeho knechtům dá na ruku [jako závdavek].
+- typ: odstavec
+  de: |-
+    Sein des Hauptmans Besoldung ist gemeynlich Monats zehen Söld/thůt viertzig gülden.
+  cs: |-
+    Žold hejtmana činí obvykle deset žoldů {Söld} měsíčně, to je čtyřicet zlatých.
+- typ: odstavec
+  de: Jm wird gehalten ein Capplon/ein Schreiber vnd zwen Trabanten.
+  cs: Vydržuje se mu kaplan {Capplon}, písař a dva drabanti {Trabanten}.
+- typ: odstavec
+  de: |-
+    Jm wird gehalten ein Jung/vnnd (wie hieuor mehr meldung daruon) einer oder auffs meyst zwen Reysige Knecht/kan er dann ein Koch durchbringen/steht zum Obersten vnd Musterherren.
+  cs: |-
+    Vydržuje se mu pachole {Jung} a (jak už o tom byla výše zmínka) jeden, nanejvýš dva jízdní pacholci {Reysige Knecht}; zda může prosadit [i] kuchaře, záleží na plukovníkovi a přehlídkovém komisaři {Musterherren}.
+- typ: nadpis
+  uroven: 2
+  de: Eins Fußknecht Hauptmann Leutenants Ampt vnd Befelch.
+  cs: Úřad a pověření poručíka {Leutenants} hejtmana pěchoty
+- typ: odstavec
+  de: |-
+    GEmeynlich nimpt ein Hauptmann ausser seinen Toppelsöldnern einen ehrlichen/geschickten gesellen/zu einem Leutenant/des Befelch ist sonders nichts/dann daß er in abwesen des Hauptmanns bey den Knechten ist/jhnen vorsiehet/als wann der Hauptmann selbs da vnd zugegen were.
+  cs: |-
+    Hejtman si obvykle bere za poručíka některého čestného a schopného druha ze svých dvojžoldnéřů {Toppelsöldnern}. Jeho pověření není nic zvláštního, než že je v hejtmanově nepřítomnosti u knechtů a vede je, jako by tu byl hejtman sám přítomen.
+- typ: odstavec
+  de: |-
+    Er thůt keyn sondere pflicht/dann jhn der Oberst nicht/sonder nur sein Hauptmann annimpt.
+  cs: |-
+    Neskládá žádnou zvláštní přísahu, protože ho nepřijímá plukovník {Oberst}, nýbrž jen jeho hejtman.
+- typ: odstavec
+  de: |-
+    Jm wird auch keyn sonderer stath gehalten/sonder wird jhm etwann drey oder auffs höchst vier söld des Monats geben/oder so hoch jhn der Hauptmann bey den gewaltigen fürdern vnd bringen mag.
+  cs: |-
+    Nevydržuje se mu ani žádná zvláštní družina {stath}, nýbrž dostává měsíčně asi tři, nanejvýš čtyři žoldy, nebo tolik, kolik mu hejtman dokáže u mocných vymoci.

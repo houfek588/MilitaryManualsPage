@@ -1,0 +1,85 @@
+id: 070v
+list: LXX
+strana: verso
+sken: 148
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Zum vierdten/ob ein Richter wer/ein Rechtsprecher/oder sonst einer dem zum Rechten fürgebotten worden/nach ordnung des Rechten/vnnd derselbig zulangsam kompt/derselbig ist verfallen dem Schultheyssen ein gülden.
+  cs: |-
+    Za čtvrté: kdyby přísedící {Richter}, nálezce práva {Rechtsprecher} nebo kdokoli jiný, kdo byl podle soudního řádu předvolán k soudu, přišel příliš pozdě, propadá rychtáři {Schultheyssen} jeden zlatý {gülden}.
+- typ: odstavec
+  de: |-
+    Zum fünfften/ob einer oder mehr am Rechten säß/die wissen oder sehen einen sitzen mit jnen/der nicht redlich oder ehrlich wer/vnd dasselbig vber kurtz oder lang an tag käme/dieselbigen sollen als meineydig gescholten werden.
+  cs: |-
+    Za páté: kdyby jeden nebo více zasedali na soudu a věděli nebo viděli, že s nimi zasedá někdo, kdo není poctivý nebo bezúhonný, a to by dříve či později vyšlo najevo, mají být nazýváni křivopřísežníky.
+- typ: odstavec
+  de: |-
+    Zum sechsten/welcher nach der verbannung deß Rechten auffstehet/sonder erlaubnuß deß Schultheyssen/sey verfallen ein gülden.
+  cs: |-
+    Za šesté: kdo po zahájení soudu {verbannung deß Rechten}[^1] vstane bez svolení rychtáře, propadá jeden zlatý.
+- typ: odstavec
+  de: |-
+    Zum sibenden/welcher im Rechten oder ausserhalb deß Rechten dem Schultheyssen einredet/sonder durch seinen erlaubten Fürsprechen/der ist verfallen dem Schultheyssen ein gülden.
+  cs: |-
+    Za sedmé: kdo by rychtáři u soudu nebo mimo soud skákal do řeči jinak než skrze svého povoleného řečníka {Fürsprechen}[^2], propadá rychtáři jeden zlatý.
+- typ: odstavec
+  de: |-
+    Zum achten/welcher den Richter vnbillicher weiß vberstat/oder ein fůß an die Gerichts schrancken bringt/der verfellt dem Schultheyssen ein gülden.
+  cs: |-
+    Za osmé: kdo by přísedícího nenáležitě obtěžoval nebo vstoupil nohou na soudní závoru {Gerichts schrancken}[^3], propadá rychtáři jeden zlatý.
+- typ: odstavec
+  de: |-
+    Zum neundten/welcher Parthey es were/verantworter oder thäter/oder ein kundtschaffter/denen wer vorgebotten worden nach ordnung deß Rechten/vnnd dieselbigen nicht kommen zu rechter weil vnnd zeit/die seind schuldig für das erste fürbott ein gülden/zum anderen fürbott daß sie versaumen widerumb ein gülden/zum dritten fürbott ins Obersten straff.
+  cs: |-
+    Za deváté: kterákoli strana, ať odpovídající {verantworter}, nebo pachatel, nebo svědek {kundtschaffter}, která byla podle soudního řádu předvolána a nedostaví se v pravou chvíli a čas, je povinna za první zmeškané předvolání jeden zlatý, za druhé zmeškané předvolání opět jeden zlatý a při třetím předvolání propadá trestu plukovníka {Obersten}.
+- typ: odstavec
+  de: |-
+    Zum zehenden/von einer jeden kundtschafft fürzubieten/ist man schuldig dem Gerichtsweybel ein Marcell/vnd dem Schultheyssen zuverhören auch ein Marcell/dem Gerichtsschreiber für sein schreiben auch ein Marcell.
+  cs: |-
+    Za desáté: za předvolání každého svědka je třeba dát soudnímu šikovateli {Gerichtsweybel} jeden marcel {Marcell}[^4], rychtáři za výslech také jeden marcel a soudnímu písaři {Gerichtsschreiber} za jeho psaní rovněž jeden marcel.
+- typ: odstavec
+  de: |-
+    Zum eylfften soll keyn Richter oder Rechtsprecher dem andern in sein red fallen weder mit klag noch antwort/Welcher das vbertrett/ist verfallen dem Schultheyssen ein gülden.
+  cs: |-
+    Za jedenácté: žádný přísedící ani nálezce práva nemá druhému skákat do řeči, ať při žalobě, nebo při odpovědi. Kdo to přestoupí, propadá rychtáři jeden zlatý.
+- typ: odstavec
+  de: |-
+    Zum zwölfften/vmb ein jegliche vmbfrag im Rechten die einer begert/ist man dem Schultheyssen ein Marcell.
+  cs: |-
+    Za dvanácté: za každé obeslání přísedících k hlasování {vmbfrag}[^5] u soudu, které si někdo vyžádá, náleží rychtáři jeden marcel.
+- typ: odstavec
+  de: |-
+    Zum dreitzehenden/alßbald das Recht verbannt ist/sollen die zwo widerparthey die vor dem Rechten zuschaffen haben/dem Schultheyssen im fůßstapffen aufflegen ein jeder ein Marcell.
+  cs: |-
+    Za třinácté: jakmile je soud zahájen, mají obě protistrany, které mají u soudu co činit, složit rychtáři hned na místě {im fůßstapffen} každá jeden marcel.
+- typ: odstavec
+  de: |-
+    Zum viertzehenden/von einem jeglichen Malefitz vrtheyl/ist man schuldig dem Schultheyssen ein gülden/vnd dem Gerichtschreiber ein halben gülden/vnnd sonst von einer andern vrtheyl ein ort eines güldins/dem Gerichtschreiber ein halben zugeben.
+  cs: |-
+    Za čtrnácté: z každého rozsudku v hrdelní věci {Malefitz} se platí rychtáři jeden zlatý a soudnímu písaři půl zlatého; jinak z každého jiného rozsudku čtvrtka zlatého {ort eines güldins} a soudnímu písaři polovina[^6].
+- typ: odstavec
+  de: |-
+    Zum fünfftzehenden/welcher Brieff vom Schultheyssen versigelt haben wil/es sey vrtheyl oder kundtschafft brieff/oder vertrags halben/die seind auffzulegen dem Schultheyssen schuldig ein gülden/vnd dem Gerichtschreiber was auff ein bogen papir mag geschriben werden/ein halben gülden.
+  cs: |-
+    Za patnácté: kdo chce mít od rychtáře zpečetěný list, ať rozsudečný, svědecký nebo o smlouvě, je povinen složit rychtáři jeden zlatý a soudnímu písaři za to, co se vejde na jeden arch papíru, půl zlatého.
+poznamky:
+- n: 1
+  text: |-
+    Verbannen (das Recht) – slavnostně zahájit soud „zapovězením“, tj. vyhlásit soudní mír a zákaz rušení; stará čeština „zahájit soud“. Formule zahajování následuje dále.
+- n: 2
+  text: |-
+    Fürsprech – řečník, zástupce strany před soudem, který za ni mluví; strana sama do řízení nemluví.
+- n: 3
+  text: |-
+    Schranken – závora či zábradlí ohrazující soudní kruh; vstoupit do něj bez vyzvání bylo rušením soudu.
+- n: 4
+  text: |-
+    Marcell (marcello) – benátská stříbrná mince, ve vojscích v Itálii běžná; asi desetina až dvanáctina zlatého.
+- n: 5
+  text: |-
+    Umfrage – rychtář se postupně ptá přísedících na jejich nález (hlasování); strana si mohla vyžádat zvláštní obeslání za poplatek.
+- n: 6
+  text: |-
+    Patrně polovina čtvrtky (ortu), tj. osmina zlatého; tisk to neupřesňuje.

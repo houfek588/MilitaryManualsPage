@@ -1,0 +1,50 @@
+id: 081r
+list: LXXXI
+strana: recto
+sken: 169
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    außgefüllt werden/dann die Körb so etwann lang gefüllt/seind viel wehrlicher/dann so sie erst gefüllt weren worden/So man es auch biß zů der Belegerung spart/wirdt in der eyl ein vnmuß/dann sich dannzumal auch allerley vnzůuersichtlicher geschäfft vnnd händel zutragen/daß man zumal nicht alle ding nach notturfft vnnd vortheyl zum besten versehen mag/darzů wird es auch durch der feind schiessen vnd gegenwehr verhindert.
+  cs: |-
+    naplnit; neboť koše, které jsou naplněny už delší dobu, jsou mnohem odolnější, než kdyby byly naplněny teprve nedávno. Odkládá-li se to až do obležení, nastane ve spěchu shon, protože se tehdy přihází také všelijaké nečekané záležitosti a události, takže člověk nemůže najednou všechno náležitě a výhodně co nejlépe zajistit; a navíc v tom brání nepřátelská střelba a odpor.
+- typ: odstavec
+  de: |-
+    Dergleichen sollen auch alle andere Bew vnnd notturfftige sachen bey zeit bedacht/berathschlagt vnd versehen werden/nach gestalt vnnd gelegenheyt des Herrn/der Besatzung/der feind vnd noth/etc. dann vnmöglich alle ding zubeschreiben/vnnd der marckt macht des orts den kauff/wo geschickte/verstendige Obersten/Hauptleuth/vnd Befelchsleuth seind/wissen sie einem jeden des feinds anschlag vnd fürnemen wol zubegegnen.
+  cs: |-
+    Stejně tak se mají včas uvážit, projednat a zajistit všechny ostatní stavby a potřebné věci podle povahy a možností pána, posádky {Besatzung}, nepřítele a nouze atd.; neboť není možné všechno popsat, a jak se říká, trh na místě určuje cenu[^1]. Kde jsou schopní a rozumní plukovníci {Obersten}, hejtmani {Hauptleuth} a velitelé {Befelchsleuth}, dovedou dobře čelit každému nepřátelskému úskoku a záměru.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Folgt weiter ein betrachtung des Geschützs/Puluers/Fewerwercks/vnd anderer Munition in einer Besatzung.
+  cs: |-
+    Dále následuje pojednání o dělech {Geschützs}, prachu {Puluers}, ohňostrojích {Fewerwercks} a jiné munici v posádce
+- typ: odstavec
+  de: |-
+    JTem man soll haben einen Zeugmeyster oder Zeugwartten/der da hat in seinem gewalt alles Geschütz/Zeug vnnd alle Munition/das ist alle zůgehörd des gantzen Geschütz/darmit nicht ein jeder darüber möge lauffen/dann sich vor gefährde/auffsatz vnnd angerichter verrähterey des orts am fürnemlichsten zubesorgen vnnd zufürsehen/ist noth/daß derselbigen Zeugmeyster/ein redlicher/ehrlicher/geschickter Mann sey/der sich auff die Bewe/das Geschütz/Puluer/vnnd ander dergleichen ding seinem Ampt zugehörig verstehe/auch Rathschlegig/verschwigen/dapffer/vnnd der Kriegssachen geübt vnnd erfaren sey.
+  cs: |-
+    Dále: Má se mít zbrojmistr {Zeugmeyster} nebo zbrojní správce {Zeugwartten}, který má ve své moci všechna děla, materiál {Zeug} a veškerou munici, to jest vše, co k celému dělostřelectvu patří, aby k tomu nemohl přistupovat kdekdo. Protože na tom místě je třeba se nejvíce obávat a chránit nebezpečí, úkladů a nastrojené zrady, je nutné, aby takový zbrojmistr byl poctivý, čestný a schopný muž, který rozumí stavbám, dělům, prachu a jiným podobným věcem náležejícím k jeho úřadu, a také aby uměl radit, byl mlčenlivý, statečný a ve válečných věcech cvičený a zkušený.
+- typ: odstavec
+  de: |-
+    Der Zeugmeyster soll zu seiner zeit den Büchsenmeystern/deren man auch ein anzal nach geschickligkeyt der Besatzungen vnnd wehren erhalten soll/herfür geben alle notturfft/Er soll auch solliches wider vonn einem jeden zu seiner zeit wissen zu erfordern/zu viel Puluer soll man keynem herfür geben/man mag aber bey den Stücken so man auff Reder scheußt/wol etwann viel Kugeln ligen lassen.
+  cs: |-
+    Zbrojmistr má v pravý čas vydávat puškařům {Büchsenmeystern}, jichž se má držet určitý počet podle povahy posádky a hradeb, všechno potřebné; a má také umět to od každého v pravý čas zase vyžadovat. Prachu se nikomu nemá vydávat příliš mnoho; u děl {Stücken}, z nichž se střílí na kolech, však lze nechat ležet hodně koulí.
+- typ: odstavec
+  de: |-
+    Item Wischer/Ansetzkolben vnd Ladschauflen sollen allwegen bey den Büchsen sein/Es solle auch derselbigen ein zimlich anzal zu allerley Stücken dienstlich/im Zeughauß zum vorrath behalten werden/darmit so deren eins verloren oder zerbrochen/daß man ein anders gehaben mög.
+  cs: |-
+    Dále: Vytěráky {Wischer}, pěchovadla {Ansetzkolben} a nabíjecí lopatky {Ladschauflen} mají být vždy u děl. Také se jich má značný počet, vhodných pro všelijaká děla, uchovávat do zásoby ve zbrojnici {Zeughauß}, aby když se některé ztratí nebo zlomí, bylo možné mít jiné.
+- typ: odstavec
+  de: |-
+    Es soll auch ein jeder Büchsenmeyster jeder zeit sein zündrůt bey seiner letzen/auch ein Fewerzeug bey jhme haben/darzů sollen jedem Büchsenmeyster handreycher zuuerordnet werden/jedem nachdem er Stück zuschiessen in befelch vnnd vnterhanden hat.
+  cs: |-
+    Také má mít každý puškař vždy u svého stanoviště {letzen}[^2] svou zapalovací tyč {zündrůt} a u sebe křesadlo; k tomu se mají každému puškaři přidělit pomocníci {handreycher}, každému podle toho, kolik děl má na starosti a ke střelbě.
+poznamky:
+- n: 1
+  text: |-
+    Přísloví „der Markt macht den Kauf“ – co je třeba udělat, rozhodnou okolnosti na místě.
+- n: 2
+  text: |-
+    Letze – úsek hradby či obranné stanoviště přidělené skupině obránců s jejím rotmistrem (srov. l. LXXXIv).

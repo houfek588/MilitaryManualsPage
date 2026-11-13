@@ -1,0 +1,49 @@
+id: 054v
+list: LIIII
+strana: verso
+sken: 116
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ampt vnnd pflicht weiter belangt/wird einem jeglichen Kriegsmann gemeyniglich durch ein Artickels brieff gefaßt vnd begriffen.
+  cs: |-
+    úřadu a povinnosti, to bývá každému válečníkovi obvykle sepsáno a vymezeno v artikulním listu {Artickels brieff}.
+- typ: odstavec
+  de: |-
+    So bald nun aber einer von einem Obersten oder Hauptmann/oder durch andere bestelt vnd angenommen/vnd jm der Musterplatz vnd hauffen wird angezeygt/so ist er schuldig auff sollich bestimpt zil vnnd zeit sich dahin zuverfügen/Sobald er nun gemustert/vnd jhm Besoldung gemacht/vnnd der Artickels Brieff ihm verlesen wird/soll er gut auffmercken haben/was darin begriffen vnd verfaßt ist/darauff dann ein jeglicher ein eyd schweren muß/solche Artickel war vnnd stet zuhalten/darwider nicht zuthun/in keyn weiß noch weg/So werden auch diese Artickel scharpff vnnd streng gestelt/Derhalben von nöten/daß sie ein jeder Kriegsmann in gůter betrachtung vnd gedechtnuß hab/dann welcher solliche Artickel bricht/dem werden sie nach der scharpff zugerechnet/vnd auff ein jeden Puncten in sonderheyt gestrafft/So ist ohne das/wie einem jeden bewißt/vmb das Kriegsrecht ein geschwind vnnd strenge Recht vnd Policey/wie dann auch vonnöten/damit auch einer vor dem andern bleiben könn.
+  cs: |-
+    Jakmile je však někdo plukovníkem {Obersten}, hejtmanem nebo skrze jiné najat a přijat a je mu oznámeno místo přehlídky {Musterplatz} a houf, je povinen se tam v určenou lhůtu a čas dostavit. Jakmile pak projde přehlídkou {gemustert}, je mu stanoven žold a je mu přečten artikulní list, má dobře dávat pozor, co je v něm obsaženo a sepsáno; na to totiž musí každý složit přísahu {eyd}, že tyto artikuly bude pravdivě a stále zachovávat a nijak a nikterak proti nim nejednat. Artikuly jsou také sepsány ostře a přísně, a proto je nutné, aby je měl každý válečník dobře na mysli a v paměti; kdo totiž tyto artikuly poruší, tomu se přičtou v celé přísnosti a bude potrestán za každý bod zvlášť. Ostatně, jak každý ví, je vojenské právo {Kriegsrecht} rychlé a přísné právo a řád, jak je ostatně i nutné, aby jeden mohl vedle druhého obstát.
+- typ: odstavec
+  de: |-
+    Weiter gebürt einem jeden Kriegsmann/daß er seine Zug vnnd Ordnungen/auch Wacht vnd gewarsame/wa vnd zu welcher stund er darzu gerüffen vnnd erfordert wird/daß er dieselbigen getrewlich versehe vnnd verwese/Wird einer dann auff Schiltwacht oder ander ort geordnet vnd gestelt/was jm dann durch losungen vnnd geheymnuß befohlen/soll er bey jm behalten/vnnd niemandts eröffnen/es were dann Oberster/Hauptleuthe/oder andere Befelchhaber/die durch solliche losung oder geheym sich jm vor zuerkennen geben.
+  cs: |-
+    Dále náleží každému válečníkovi, aby své pochody a šiky {Ordnungen}, jakož i stráže a střežení, kdekoli a v kteroukoli hodinu je k nim povolán a vyzván, věrně obstarával a vykonával. Je-li pak někdo určen a postaven na stálou stráž {Schiltwacht} nebo na jiné místo, má to, co mu bylo svěřeno heslem {losungen} a tajemstvím, zachovat u sebe a nikomu to neprozradit, leda plukovníkovi, hejtmanům nebo jiným velitelům {Befelchhaber}, kteří se mu tím heslem či tajným znamením předem dají poznat.
+- typ: odstavec
+  de: |-
+    Einem Kriegsmann vnd Landtsknecht gebürt auch ferner vnd weiter/daß er sich dermassen halt/was er gern hab vnd vberhaben were/daß er auch andern dergleichen thu vnd vberhebe/wann er gern das sein hat/soll er auch andern das jhr lassen.
+  cs: |-
+    Válečníkovi a lancknechtovi {Landtsknecht} dále náleží, aby se choval tak, že co by sám rád měl a čeho by rád byl ušetřen, to ať činí i druhým a toho ať ušetří i je; chce-li mít v pokoji, co je jeho, má i druhým nechat, co je jejich.
+- typ: odstavec
+  de: |-
+    Dann es kan sich jeglicher Kriegsmann der sich seiner besoldung benügen läßt (als Johannes vnnd Lucas meldt) eben so wol sich Göttlich neren vnd behelffen/als zu dieser zeit ein Cartheuser Münch/oder sonst durch andere hanthierung/vnnd gewerb/dieweil wir befinden (wie vornen inn diesem Buch gemeldet) daß kriegen von Gott eingesetzt vnd verordent ist/sonderlich so es recht vnd zu keyner Gottslesterung gebraucht wird/wie dann jetzt leyder vnter den gemeynen knechten/auch vnter den Höchsten gemeynlich geschicht/dann es ist fast der Hirt wie das vihe.
+  cs: |-
+    Neboť každý válečník, který se spokojí se svým žoldem (jak praví Jan a Lukáš)[^1], se může živit a obstát stejně bohulibě jako v dnešní době kartuziánský mnich nebo kdokoli jiný jiným řemeslem a živností. Shledáváme totiž (jak bylo řečeno v úvodu této knihy), že válčení je ustanoveno a nařízeno od Boha, zvláště když se vede spravedlivě a ne k rouhání, jak se dnes bohužel běžně děje mezi prostými knechty i mezi těmi nejvyššími; jaký pastýř, takové stádo.
+- typ: odstavec
+  de: |-
+    Einem Kriegsmann gebürt/daß er sich allermeist hüte vor füllerey vnd truncken heyt/darauß dann aller vnrath entspringt/Er soll auch meiden rauben/beutten/kistenfegen/stelen/spilen/liegen/triegen/den leuthen das jhr mit gewalt/oder ohn not nemen/sondern sie sollen gedencken/daß es nicht jhr ist/auch in den zehen gebotten begriffen/daß keyner soll frembdes guts begeren/dann es gedeyet vnnd legt keynem zu. Dann wie ein gut gewunnen wird/also gehet es wider hin/wa einer anderst nicht noch leib vnd leben darbey lassen muß.
+  cs: |-
+    Válečníkovi náleží, aby se ze všeho nejvíc střežil obžerství a opilství, z nichž pramení všechno zlo. Má se také vyhýbat loupení, braní kořisti, vybíjení truhel {kistenfegen}[^2], krádežím, hře, lhaní a podvádění a nemá lidem brát, co je jejich, násilím ani bez nouze; mají totiž pamatovat, že to není jejich a že i v desateru je obsaženo, že nikdo nemá dychtit po cizím statku. Takový statek totiž nikomu neprospívá ani nepřibývá: jak je nabyt, tak zase odejde – pokud při tom člověk nepřijde ještě i o tělo a život.
+- typ: odstavec
+  de: |-
+    Welche aber sollicher sachen pflegen/vnnd gebrauchen sich sollicher erbeuten vnnd vberkommenen güter/es sey durch raub/kriegen/beuten/kistenfegen/oder sonst
+  cs: |-
+    Ti však, kdo takové věci provozují a užívají takto ukořistěného a nabytého statku, ať loupeží, válčením, braním kořisti, vybíjením truhel, nebo jinak
+poznamky:
+- n: 1
+  text: |-
+    Narážka na Lk 3,14: Jan Křtitel odpovídá vojákům „nikomu nečiňte násilí, nikoho nevydírejte a spokojte se se svým žoldem“; slova Jana zapsal evangelista Lukáš.
+- n: 2
+  text: |-
+    Kistenfegen („vymetání truhel“) – dobový výraz pro vykrádání domů a truhel při drancování obsazených měst a vesnic.

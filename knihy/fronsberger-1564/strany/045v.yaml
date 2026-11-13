@@ -1,0 +1,42 @@
+id: 045v
+list: XLV
+strana: verso
+sken: 98
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gefellig vnd gehorsam sein wöllen/auff jhr Fändlin/auff Zůg vnnd Wachten/gegen vnd von feinden/wie es die zeit vnnd gelegenheyt mitbringt/ein fleissig vnd dapffer auffsehen haben.
+  cs: |-
+    byli po vůli a poslušni a aby na svůj praporec {Fändlin} na pochodu i na stráži, proti nepříteli i při ústupu od něho, jak to čas a příležitost přinese, pilně a statečně dávali pozor.
+- typ: odstavec
+  de: |-
+    So man mit seinem Fändlin auff soll sein/es sey auff Zůg oder Wacht/vnd so man zu seinem Fändlin den Knechten hat vmbgeschlagen/so nimpt er sein Fändlin/läßt es fliegen/vnd läßt stäts ein Spil bey jm gehn/damit es die Knecht sehen vnd hören/vnd sich bey jhm versamlen/so sie dann versamlet seind/so machen die Weybel vnd Befelchsleuth jhr Ordnung/vnd ziehen dahin sie verordnet seind.
+  cs: |-
+    Když má [praporečník] se svým praporcem vyrazit, ať na pochod, nebo na stráž, a když se knechtům k jeho praporci zabubnovalo, vezme svůj praporec, nechá ho vlát a nechá u sebe ustavičně hrát hudbu {Spil}, aby to knechti viděli a slyšeli a shromáždili se u něho. Když jsou pak shromážděni, sestaví šikovatelé {Weybel} a velitelé {Befelchsleuth} svůj šik {Ordnung} a táhnou, kam jsou určeni.
+- typ: odstavec
+  de: |-
+    Jm Läger steckt er sein Fändlin bey seiner Zellt oder Losament auff/vnnd läßt es fliegen/darmit seine vnterknecht seines Hauptmanns/vnnd sein Quartier dabey wissen zuerkennen vnd zufinden.
+  cs: |-
+    V ležení {Läger} vztyčí svůj praporec u svého stanu nebo ubytování {Losament} a nechá ho vlát, aby podle něho knechti pod ním dokázali poznat a najít ubytování svého hejtmana i jeho samého.
+- typ: odstavec
+  de: |-
+    So er mit seinem Fändlin an ein Sturm verordnet/so gebürt jhme/daß er sich vor allen anderen herfür vnnd gegen den Feinden thů/darmit die Kriegßleuth verursacht werden/jhrem Fändlin nach/vnd den Feinden zu zutringen. Er soll sich auch befleissen/daß er allwegen mit dem Fändlin zuforderst vnd an den höchsten orten sey/dann wo das nicht geschehe/käme es jhm zu schmach vnnd verweiß seiner ehren/dann er kan sich bey dem Fändlin nit verbergen/er wird weyt darbey erkannt. Er soll auch die Knecht tröstlich ansprechen vnd ermanen/vnnd jhnen mit aller mannlicheyt vnd dapfferkeyt ein gůt Exempel geben vnd vortragen.
+  cs: |-
+    Je-li se svým praporcem určen k útoku {Sturm}, náleží mu, aby se před všemi ostatními vydal vpřed proti nepříteli, aby tím válečníci byli pohnuti jít za svým praporcem a hnát se na nepřítele. Má se také snažit, aby byl s praporcem vždy nejvíc vpředu a na nejvyšších místech; kdyby se tak nestalo, bylo by mu to k potupě a k výtce na cti, neboť u praporce se nemůže skrýt – podle něho je poznán zdaleka. Má také knechtům povzbudivě domlouvat a napomínat je a dávat jim dobrý příklad vší mužnosti a statečnosti.
+- typ: odstavec
+  de: |-
+    So man ein schlacht thůt/soll er an dem ort dahin er verordnet/bleiben/vnnd sich gegen den Feinden dapffer halten/den Knechten zusprechen/were aber daß man geschlagen/der hauffen getrennt vnd in die flucht gebracht würde/soll er wo am meysten Kriegßuolck bey einander ist/sich ob er mag zu jhnen thůn/sie ansprechen/wider zusammen beruffen/so vil müglich vortheyl einnemen/vnd den Feinden widerstand thůn/mag es aber je nicht gesein/vnnd an seinem trewen fleiß nichts gespart ist/auch mehr nutz vnd Rath nicht schaffen mag/so ist jhm nicht verweißlich/daß er lůg wie er das Fändlin vnd sein leib daruon bringe. Er soll auch ehe das Fändlin zustücken zerreissen/ehe ers den Feinden zutheyl laß werden/dann es ist einem Fänderich ein grosse vnd verweißliche schmach vnnd schand/so er ohn redliche vrsach sein Fändlin verleurt/vnd sein leib daruon bringt.
+  cs: |-
+    Když se svádí bitva, má zůstat na místě, kam byl určen, statečně se držet proti nepříteli a povzbuzovat knechty. Kdyby však byli poraženi, houf {hauffen} rozbit a obrácen na útěk, má se, pokud může, připojit tam, kde je pohromadě nejvíc válečného lidu, promluvit k nim, znovu je svolat dohromady, pokud možno zaujmout výhodné postavení a klást nepříteli odpor. Není-li to však vůbec možné, ačkoli na své věrné snaze nic nešetřil, a nemůže-li už zjednat žádný další užitek ani pomoc, nelze mu vyčítat, hledí-li, jak by odnesl praporec i svůj život. Praporec má raději roztrhat na kusy, než by ho nechal padnout nepříteli do rukou; neboť pro praporečníka je velkou a hodnou výčitek potupou a hanbou, ztratí-li bez řádné příčiny svůj praporec a sám vyvázne životem.
+- typ: odstavec
+  de: |-
+    So man ein Schlachtordnung gemacht hat/vnnd mit den Feinden handlen wil/mag der Fänderich sein Fändlin einem Kriegßmann neben jhm geben/deß Hellenparth nimpt er auff die Achsel/zeucht vmb die gantze Ordnung herumb/spricht die Knecht/sonderlich die bekannten an/tröstet vnnd ermannt sie/besicht ob die Ordnung recht gemacht/vnnd sein Fändlin verwart sey/wo er etwas mangel spürt/Das zeyget er an/darmit dasselbig verwendt vnnd gebessert werde/Darumb ist auch noth daß ein Fänderich kriegs erfahren vnnd geschickt/auch der sachen verstendig sey.
+  cs: |-
+    Když je sestaven bitevní šik {Schlachtordnung} a má se bojovat s nepřítelem, může praporečník dát svůj praporec válečníkovi vedle sebe, jehož halapartnu {Hellenparth} si vezme na rameno, a obejít celý šik; promlouvá ke knechtům, zvláště ke známým, povzbuzuje je a napomíná a prohlíží, zda je šik správně sestaven a jeho praporec zajištěn. Zpozoruje-li nějaký nedostatek, oznámí to, aby se to odvrátilo a napravilo. Proto je také třeba, aby byl praporečník ve válce zkušený a schopný a aby se ve věcech vyznal.
+- typ: odstavec
+  de: |-
+    Es ist auch gůt vnnd vonnöten/daß sich ein Fänderich freundtlich/vnnd wol mit seinen Knechten halt/darmit er ein gunst vnd gůten willen bey jhnen habe vnnd behalt.
+  cs: |-
+    Je také dobré a potřebné, aby se praporečník {Fänderich} ke svým knechtům choval vlídně a dobře, aby u nich měl a udržel si přízeň a dobrou vůli.

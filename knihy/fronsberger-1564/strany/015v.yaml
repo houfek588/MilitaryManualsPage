@@ -1,0 +1,72 @@
+id: 015v
+list: XV
+strana: verso
+sken: 38
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gůten vnd gemachten Mülen/als Roß vnd Windmülen/auch Puluer vnnd Feldtmülen/dann es kompt etwann darzů/daß man das Wasser nit gehaben/oder sonst mangel in einem Feld oder Besatzung an Mäl vnd Brot wird/Darumb soll auch ein betrachtung sein der Bachöfen/dann es begibt sich offt/daß die Mülen vnd Bachöfen durch die Feind zerrissen vnd zerbrochen werden/derhalben pflegt man Kupffern Bachöfen zu haben/die kan man brauchen/vnd füren zu Feld vnd wa man wil/man soll auch fürsehen sein mit gůten Mörßeln vnnd Stösseln/daß man stempffen vnd stossen kan/es sey Puluer/Schwebel/Salpeter oder dergleichen.
+  cs: |-
+    dobré a hotové mlýny, jako žentourové a větrné mlýny {Roß vnd Windmülen}, také prachové a polní mlýny, neboť někdy dojde k tomu, že není k dispozici voda nebo že v poli či v posádce {Besatzung} nastane nedostatek mouky a chleba. Proto se má pamatovat i na pekařské pece, neboť se často stává, že nepřítel mlýny a pece rozboří a zničí; proto se obvykle mívají měděné pece {Kupffern Bachöfen}, které lze užívat a vozit do pole a kamkoli je třeba. Má se také pamatovat na dobré hmoždíře a tloučky {Mörßeln vnnd Stösseln}, aby se dalo drtit a tlouci, ať prach, síra, ledek nebo podobné věci.
+- typ: odstavec
+  de: |-
+    Weiter ist noth/daß man hab ein gůten vorrath Schaufflen/Bickel vnd hauwen/Eckbeyhel/Grabscheyter/Spritzen/Leg vnd Hebeysen/auch gůt starck Winden zum Geschütz/Thremel/Züg/die man Krüg nennt/mit viel Scheiben/hebzeug/Böck vnd Geißfüß/Spanner vnnd Schrauffen/Häspel/damit man das Geschütz vnd ander schwere läßt hin vnd wider heben vnd legen könne/von eim Wagen auff den andern/auch Lunten vnd Hanff im vorrath hab.
+  cs: |-
+    Dále je třeba mít dobrou zásobu lopat, krumpáčů a motyk, tesařských seker {Eckbeyhel}, rýčů {Grabscheyter}, stříkaček {Spritzen}, páčidel a sochorů {Leg vnd Hebeysen}, také dobré silné zvedáky {Winden} k dělům {Geschütz}, trámců {Thremel}, kladkostrojů {Züg}, jimž se říká „Krüg“, s mnoha kladkami, zvedacího náčiní, koz {Böck} a rozeklaných pák {Geißfüß}[^1], napínáků {Spanner} a šroubů {Schrauffen}, rumpálů {Häspel}, aby se děla a jiná těžká břemena dala sem a tam zvedat a překládat z jednoho vozu na druhý; a také mít do zásoby doutnáky {Lunten} a konopí.
+- typ: odstavec
+  de: |-
+    Auch ist nützlich vnd gebreuchlich/daß man hab ein Schiffbrücken/mit jhrer zůgehörde Wägen/auch Brückhöltzern/mit sampt Rüstwägen so zur Munition gebraucht werden/als Truchen/Wägen zun Kuglen/welcher dann viel gebraucht werden/auch Schubkärlin/Schleyffen/auch Schlepffkarren vnd Wägen.
+  cs: |-
+    Je také užitečné a obvyklé mít lodní most {Schiffbrücken} s příslušnými vozy a mostními trámy, spolu s vozy {Rüstwägen}, jichž se užívá pro munici, jako jsou truhly a vozy na koule, kterých je zapotřebí mnoho, dále trakaře, smyky {Schleyffen}, vlečné káry a vozy.
+- typ: odstavec
+  de: |-
+    Auch soll man versehen sein/mit einer menge Huffnägel vnd eysen/auch Hämern/Schlägeln/Mawr vnnd Binder gezeug/auch Setzkolben/Ladschaufflen/Wischer/Raumer zu kleynem vnd grossen Geschütz.
+  cs: |-
+    Také se má mít množství podkovářských hřebů a podkov, dále kladiv, palic, zednického a bednářského náčiní, také pěchů {Setzkolben}, nabíjecích lžic {Ladschaufflen}, vytěráků {Wischer} a škrabek {Raumer}[^2] k malým i velkým dělům.
+- typ: odstavec
+  de: |-
+    Item man soll auch haben mancherley Gezelten/mit jhren stricken/nagel vnd stangen/bäwmen/auch Zelten vnnd Roßpfäl/Trag oder mistbären/auch Liderin Eymer die man zu dem wasser tragen braucht/
+  cs: |-
+    Dále se má mít také rozličné stany {Gezelten} s jejich provazy, kolíky, tyčemi a trámky, také stanové a koňské kolíky {Zelten vnnd Roßpfäl}, nosítka na břemena či na hnůj {Trag oder mistbären} a také kožená vědra, jichž se užívá k nošení vody.
+- typ: odstavec
+  de: |-
+    Darbey pflegt man auch zu haben Küchen vnnd Keller geschirr/als Feldtfläschen/kanten/becher/häfen/schüßlen/thäller/saltzfesser/pfannen/rösch vnnd kessel/beyhel/hack vnd schlachtmesser/mit sampt andern notturfftigen dingen/welches one noth hie alles zuerzeln.
+  cs: |-
+    Spolu s tím se obvykle mívá také kuchyňské a sklepní nádobí, jako polní láhve, konve, poháry, hrnce, mísy, talíře, slánky, pánve, rošty a kotle, sekery, sekáče a řeznické nože spolu s jinými potřebnými věcmi, které tu není třeba všechny vyjmenovávat.
+- typ: odstavec
+  de: |-
+    Auch in betrachtung mit Trummeln vnnd Heerbaucken/auch Trommeten/so zu den Reysigen gebraucht/auch etlich bereyt vnnd gemacht Reysig vnnd Landsknecht Fanen.
+  cs: |-
+    Také se má pamatovat na bubny a kotle {Heerbaucken}, také trubky, jichž se užívá u jízdy {Reysigen}, a na několik připravených a hotových korouhví {Fanen} jízdy a lancknechtů {Landsknecht}.
+- typ: odstavec
+  de: |-
+    Auch Brechwinden vnnd Schrauffen/damit man die Schußgetter brechen kan/auch Schlencken vnd Werffzeug.
+  cs: |-
+    Také lamačské zvedáky {Brechwinden} a šrouby, jimiž lze vylomit padací mříže {Schußgetter}, a také praky {Schlencken} a vrhací náčiní {Werffzeug}.
+- typ: odstavec
+  de: |-
+    Auch zum Schmiedwerck ein versehung mit Stahel/Eysen/dergleichen mit allem zimmerholtz/laden/lunden/latten/vnd anders dergleichen/Feldtlattern vnd windlichtern/fewr vnd feldt pfannen/senfften/die man Roßbaren nennt/Multern vnd kleyne Schubkärlin/die man zu Schantzkörben zufüllen gebraucht.
+  cs: |-
+    Také ke kovářské práci zásobu oceli a železa, rovněž všelijakého stavebního dříví, prken {laden}, „lunden“[^3], latí a jiných podobných věcí, polních luceren {Feldtlattern} a větrných svící {windlichtern}, ohňových a polních pánví, nosítek {senfften}, kterým se říká koňská nosítka {Roßbaren}[^4], necek {Multern} a malých trakařů, jichž se užívá k plnění šancovních košů {Schantzkörben}.
+- typ: odstavec
+  de: |-
+    Es were gůt daß man hette alt eysen Ketten/vnd dieselbigen auffhůb/dann sie seind gůt in das Hagelgeschütz zuladen/sie schlahen treffenlich vmb sich/doch můß man sie nur in die nähe schiessen/dann in die weite zuschiessen thůt es nit gůt.
+  cs: |-
+    Bylo by dobré mít staré železné řetězy a uschovávat je, neboť jsou dobré k nabíjení do děl na drobnou střelu {Hagelgeschütz}; náramně kolem sebe rozrážejí, musí se jimi však střílet jen zblízka, neboť na dálku se to nehodí.
+poznamky:
+- n: 1
+  text: >-
+    Geißfuß („kozí noha“) – páka s rozeklaným koncem k nadzvedávání a posouvání těžkých břemen (děl); Bock – kozlík,
+    trojnožka či dřevěná koza jako podpěra při zvedání.
+- n: 2
+  text: >-
+    Setzkolben – pěch (dřevěný píst) k upěchování nálože; Ladschaufel – nabíjecí lžíce k vsypání prachu do hlavně;
+    Wischer – vytěrák (štětka) k vyčištění a uhašení hlavně po výstřelu; Raumer – škrabka k vyškrabání zbytků.
+- n: 3
+  text: >-
+    „lunden“ – nejasné slovo mezi prkny a latěmi, patrně druh řeziva (fošny?) nebo „Lünsen“ (zákolníky); ponecháno bez překladu.
+- n: 4
+  text: >-
+    Roßbahre – nosítka zavěšená mezi dvěma koňmi, k převozu raněných a nemocných.

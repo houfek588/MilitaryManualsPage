@@ -1,0 +1,65 @@
+id: 025r
+list: XXV
+strana: recto
+sken: 57
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dasselbig erfordert red halt/Ist dann der Zeugmeyster geschickt vnnd erfahrn/so wird er an einem jeden wol mercken mögen/warzu er geschickt vnd zugebrauchen ist.
+  cs: |-
+    tento úřad vyžaduje. Je-li pak zbrojmistr {Zeugmeyster} schopný a zkušený, pozná dobře na každém, k čemu je způsobilý a k čemu ho lze použít.
+- typ: odstavec
+  de: |-
+    Ferrer soll er wissen/was zu einer Arckelley in ein Feldt vonnöhten gehörig/damit er alle ding wiß von dem Haußzeugmeyster zuerfaren/was vorhanden oder nicht sey/damit er sich nicht auff ander leuth verlassen/vnnd jhnen in die hend sehen müß.
+  cs: |-
+    Dále má vědět, co je nutné a co patří k dělostřelectvu {Arckelley} do pole, aby uměl od zbrojmistra zbrojnice {Haußzeugmeyster} o všech věcech zjistit, co je k dispozici a co ne, a nemusel se spoléhat na jiné lidi a hledět jim do rukou.
+- typ: odstavec
+  de: |-
+    Nachmals soll er wissen vnd verstehn/alle geschütz vnd Munition in Feldtzug anzurichten/wie jedes in seiner ordnung daher gehn vnnd gefürt werden soll/es sey in der freund oder feind Land/von oder zu den feinden/auff ebnem/oder gebirgigem Land.
+  cs: |-
+    Potom má vědět a rozumět, jak všechna děla {geschütz} a munici {Munition} na tažení {Feldtzug} uspořádat, jak má co ve svém pořadí jít a být vezeno, ať v přátelské, či nepřátelské zemi, směrem od nepřítele, či k němu, v rovině, nebo v horách.
+- typ: odstavec
+  de: |-
+    Er soll auch ein verstandt haben zu wasserbewen/als Schiff brücken vnnd andern notturfftigen sachen/damit man vber die wasser ein zeug bringen möge/vnnd er sich nit an einen jeglichen der sich viel Künst außthůt/verlassen müß/sonder so einer von sollichen dingen sich rümpt/vnd sich darzu gebrauchen lassen wil/Er selbs auch ein verstandt hab vnd mercken möge/was in einem steckt.
+  cs: |-
+    Má také rozumět vodním stavbám, jako jsou lodní mosty {Schiff brücken} a jiné potřebné věci, aby se dalo dopravit vojsko s výzbrojí {zeug} přes vody; a aby se nemusel spoléhat na každého, kdo se vydává za znalce mnoha umění, nýbrž – když se někdo takovými věcmi chlubí a chce se k nim dát použít – aby sám také měl rozum a poznal, co v něm vězí.
+- typ: odstavec
+  de: |-
+    Also were auch gůt/daß er sich souil die hand arbeyt betrifft/auff Bergkwerck bawen verstünde/dann es begibt sich offt/daß man ein Besatzung vntersteht mit gräben zunöhten vnnd erobern/So dem ist es gar gůt/wann ein Zeugmeyster die sachen selbs versteht/so er mit den Bergknappen oder anderen/so graben sollen/daruon rathschlagen mag.
+  cs: |-
+    Rovněž by bylo dobré, aby se – pokud jde o ruční práci – vyznal v důlním stavitelství {Bergkwerck bawen}. Často se totiž stává, že se obléhané místo {Besatzung} pokoušejí přinutit a dobýt kopáním {gräben}[^1]. Proto je velmi dobré, když zbrojmistr těm věcem sám rozumí a může se o nich radit s horníky {Bergknappen} nebo s jinými, kdo mají kopat.
+- typ: odstavec
+  de: |-
+    Vber das soll ein Zeugmeyster wissen vnd verstehn/mit andern Kriegßrähten/wie man sich zur schlacht schicken/vnd den vortheyl verstehn vnd einnemen soll.
+  cs: |-
+    Kromě toho má zbrojmistr spolu s ostatními válečnými rady {Kriegßrähten} vědět a rozumět, jak se připravit k bitvě, rozpoznat výhodné postavení a zaujmout je.
+- typ: odstavec
+  de: |-
+    Item wie man sich lägern soll/die Reysigen/das Fůßvolck/deßgleichen die Arckelley.
+  cs: |-
+    Dále jak se mají utábořit jízda {Reysigen}, pěchota {Fůßvolck} i dělostřelectvo.
+- typ: odstavec
+  de: |-
+    Item wie/an welches ort man ein Besatzung beschantzen/beschiessen/vnnd in ander weg nöten vnd zwingen soll.
+  cs: |-
+    Dále jak a z kterého místa se má obléhané místo obehnat šancemi {beschantzen}, ostřelovat a jinými způsoby tísnit a donutit [ke vzdání].
+- typ: odstavec
+  de: |-
+    Item wie man das geschütz lägern/wie vnnd wohin man schiessen soll/das ist fürnemlich sein ampt.
+  cs: |-
+    Dále jak se mají děla rozestavit a jak a kam se má střílet; to je především jeho úřad.
+- typ: odstavec
+  de: |-
+    Item es ist auch gůt/daß er vor andern geschicklichkeyt vnd verstand habe/gůte Räth vnd anschleg zumachen/so man etwann vber wasser/gräben/möß/berg/oder ander gefährlichkeyten stürmen oder schlagen soll/da thůt geschicklichkeyt/sinnreiche menschen vil/dann man můß an sollichen orten vortheyl vnnd Instrument gebrauchen/wil man frucht vnd nutz schaffen/es läßt sich nicht also hinein pflumpffen/man wöll dann vil redlicher leuth mutwilliglich vnd elendiglich in noth vnnd gefahrlichkeyt füren.
+  cs: |-
+    Dále je také dobré, aby měl víc než jiní obratnosti a rozumu k dobrým radám a plánům {anschleg}, má-li se někdy útočit nebo bojovat přes vodu, příkopy, bažiny, hory nebo jiná nebezpečná místa. Tu zmůže obratnost a vynalézavý člověk mnoho, neboť na takových místech je třeba užít lsti a nástrojů {Instrument}, chce-li se dosáhnout výsledku a užitku. Nedá se do toho jen tak bezhlavě vrhnout, ledaže by se chtělo mnoho statečných lidí svévolně a bídně vést do nouze a nebezpečí.
+- typ: odstavec
+  de: |-
+    Also soll auch ein Zeugmeyster sein Stath vnd Ampt nach notturfft inn Besatzungen wissen zuuertretten/geschickt vnnd anschlegig sein/mit bawen/mit gůten anschlegen/wider stürmen/vnd was dann die noth mitbringt.
+  cs: |-
+    Rovněž má zbrojmistr umět podle potřeby zastávat své postavení {Stath} a úřad v posádkách {Besatzungen} a být obratný a vynalézavý ve stavbách, v dobrých plánech proti útokům a ve všem, co si nouze vyžádá.
+poznamky:
+- n: 1
+  text: Graben – zde podkopávání hradeb (podkopy, miny); proto zbrojmistr potřebuje znalosti z dolování.

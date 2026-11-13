@@ -1,0 +1,25 @@
+id: 045r
+list: XLV
+strana: recto
+sken: 97
+stav: zkontrolovano
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Eines Fänderichs vber ein Fändlin Knecht/Ampt/Befelch vnd Eyd.
+  cs: |-
+    Úřad, pověření a přísaha praporečníka {Fänderichs} nad praporcem knechtů
+- typ: obrazek
+  soubor: drevorez-97.jpg
+  popis: |-
+    Dřevořez v oválném medailonu se zdobným rámem z válečných trofejí (zbroje, přilby, bubny, děla): vousatý praporečník v rozparkovaném oděvu a klobouku s pery drží v pravici meč a přes rameno nese velký praporec s říšskou dvouhlavou orlicí; vedle něho kráčí pachole s dlouhou holí.
+- typ: odstavec
+  de: |-
+    EJn Fenderich vber ein Fändlin Knecht/soll sein ein kecker/mannlicher gesell/der einen verstand habe/Kriegs erfahren vnd geübt sey/dem befilcht der Oberst das Fändlin/vnnd verstrickt jhn darzu mit einem sondern Eyd/wie hernach folgen wirdt.
+  cs: |-
+    Praporečníkem nad praporcem knechtů {Fändlin Knecht} má být smělý a mužný druh, který má rozum a je ve válce zkušený a vycvičený. Tomu plukovník {Oberst} svěřuje praporec a zavazuje ho k tomu zvláštní přísahou, jak bude následovat.
+- typ: odstavec
+  de: |-
+    Man pfleget gemeynlich junge/starcke/vnuerdrossene gerade Personen zu Fänderichen zuuerordnen/vnd so sein Hauptmann das erstmal mit seinen Knechten die ämpter besetzt/so tritt er mit seinem Fändlin mitten in Ring/zeygt sich den Knechten an/erbeut sich bey jhnen wie einem ehrlichen Kriegßmann gebürt vnd sein befelch erfordert/jeder zeit zuhalten/jhnen allen vnd jhr jedem in sonderheyt zuthůn was jhm lieb ist/vnnd bittet daß sie jhm jeder zeit/nach gelegenheyt vnnd gestalt der sachen
+  cs: |-
+    Za praporečníky se obvykle ustanovují mladí, silní, neúnavní a urostlí lidé. Když jeho hejtman poprvé se svými knechty obsazuje úřady, vstoupí [praporečník] se svým praporcem doprostřed kruhu {Ring}, představí se knechtům a zaváže se, že se k nim bude vždy chovat, jak se na čestného válečníka sluší a jak vyžaduje jeho pověření, a že jim všem i každému zvlášť prokáže, co mu bude milé; a prosí je, aby mu vždy, podle příležitosti a povahy věci,

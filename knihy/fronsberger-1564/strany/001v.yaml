@@ -1,0 +1,42 @@
+id: 001v
+list: I
+strana: verso
+sken: 10
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nicht zuerobern weren/daß er dann auch sein anschlag vnd bedencken auff sein fürgenommen Zug haben möge/vnd welcher massen er den handel angreiffen wolle/dieweil hieran nicht ein geringes gelegen/dann soll er sich für Stätt oder Schlösser lägern/vnnd dieselbigen nicht erobern mögen/so ligt er vergebens mit seinem Kriegßuolck da/es wird Puluer/Kuglen vnnd Munition vergebens verschossen vnnd verbraucht/ich geschweig des grossen vberschwencklichen Kriegßkostens/so auff Reutter/Füßuolck vnd Arckelley geht/vnd vergebens auffgewendt wird/vnd ist in Summa aller kosten/mühe vnd arbeyt verlorn/auch viel Profandt vergebens auffgeätzt vnnd verbraucht/Soll man dann ein veste Besatzung vnerobert zurück lassen/ist wol zubedencken was verhinderung in vilerley weg in deß Kriegßfürsten fürhaben/auch dem gantzen Feldzug darauß zustehn vnd erfolgen mag/Zu dem allem reycht es auch dem Kriegßfürsten zu spott/macht jhme vnnd seinem Kriegßuolck keyn můth/vnnd dargegen den Feind behertzigt vnd stoltz.
+  cs: |-
+    by nebylo možné dobýt, aby pak mohl také podle toho uzpůsobit svůj plán a úvahy o zamýšleném tažení {Zug} a [rozvážit], jakým způsobem chce celou věc uchopit, neboť na tom nemálo záleží. Kdyby se totiž položil před města či hrady a nedokázal je dobýt, leží tam se svým válečným lidem nadarmo: střelný prach {Puluer}, koule a munice se nadarmo vystřílí a spotřebují, a to ani nemluvím o ohromných, nadmíru velkých válečných nákladech, které padnou na jízdu, pěchotu a dělostřelectvo {Arckelley} a jsou vynaloženy zbytečně. Zkrátka, veškerý náklad, námaha i práce jsou ztraceny a také mnoho proviantu {Profandt} se nadarmo projí a spotřebuje. Má-li se pak nechat za zády nedobytá pevná posádka {Besatzung}, lze si dobře domyslet, jaké překážky z toho mnoha způsoby mohou vzejít a vyplynout pro záměr válečného knížete i pro celé tažení. Navíc to válečnému knížeti slouží k posměchu, jemu i jeho válečnému lidu to bere odvahu, a naopak nepříteli dodává srdnatosti a pýchy.
+- typ: odstavec
+  de: |-
+    Item der Kriegßherr soll sich gefaßt machen/mit frommen/getrewen/redlichen/auch geschickten/erfarnen vnd geübten leuthen/die er gebrauchen vnd jnen vertrawen möge/zu Obersten/zu Kriegßräthen vnd Befelchsleuthen.
+  cs: |-
+    Dále se má válečný pán {Kriegßherr} zaopatřit řádnými, věrnými, poctivými, a také schopnými, zkušenými a zběhlými lidmi, jichž může užít a jimž může důvěřovat, za plukovníky {Obersten}, válečné rady {Kriegßräthen} a velitele {Befelchsleuthen}.
+- typ: odstavec
+  de: |-
+    Item er betracht daß er mit Geschütz/Arckelley vnnd allerley Munition darzů vonnöten/mit sampt geschickten/geübten Zeugmeystern/Büchsenmeystern/vnnd andern notürfftigen Arckelley personen/auch Wagen/Pferden/vnd was mehr darzů notwendig/gefaßt vnd versehen sey.
+  cs: |-
+    Dále má dbát, aby byl připraven a zaopatřen děly {Geschütz}, dělostřelectvem a veškerou municí, jíž je k tomu zapotřebí, spolu se schopnými a zběhlými zbrojmistry {Zeugmeystern}, puškaři {Büchsenmeystern} a dalšími potřebnými osobami od dělostřelectva, jakož i vozy, koňmi a vším ostatním, co je k tomu nutné.
+- typ: odstavec
+  de: |-
+    Item er betracht vnnd versehe auch gleicher gestalt/wo es vonnöten/die sachen nach aller notturfft mit Profandtmeystern vnnd Profandt/damit wo er bey den Feinden nicht Profandt finden vnd haben möcht/er seine rathschlag darauff machen köndt/woher er sein Kriegßuolck mit Profandt versehen vnnd speisen wolle/wie er auch die Profandt der Feind halben vnuerhindert seinem Kriegßuolck zubringen möge.
+  cs: |-
+    Dále má stejným způsobem uvážit a, bude-li třeba, podle vší potřeby zajistit proviantmistry {Profandtmeystern} a proviant, aby v případě, že by u nepřátel proviant nenašel a nedostal, mohl předem rozvážit, odkud chce svůj válečný lid proviantem zásobit a živit, a také jak může proviant ke svému lidu dopravit, aniž by mu v tom nepřítel zabránil.
+- typ: odstavec
+  de: |-
+    Item were sach/daß man in der Feind Land vber Schiffreiche wasser/vber hohe Gebirg/grosse vnwegsame Wäld vnd wildnussen/oder dergleichen ziehen müßte/daß man mit rüstung darzů dienstlich/als mit Schiffbrucken vnd dergleichen/damit man das Geschütz vnnd das Kriegßuolck zu Roß vnd Fuß fortbringen möge/gerüst vnd fürsehen sey.
+  cs: |-
+    Dále, kdyby se stalo, že by se v nepřátelské zemi muselo táhnout přes splavné řeky, vysoká pohoří, velké neschůdné lesy a divočiny či podobná místa, aby se pamatovalo na potřebnou výstroj a byla připravena, jako lodní mosty {Schiffbrucken} a podobně, aby bylo možné dopravit dál děla i válečný lid na koních i pěšky.
+- typ: odstavec
+  de: |-
+    Item wo der Kriegßherr in sein eygen Landen nach notturfft mit Kriegßuolck nicht gefaßt were/vnnd derhalben sein Kriegßuolck in andern Fürstenthumen/Herrschafften oder Nationen auffbringen vnnd versamlen müßt/wie er dasselbig mit bester gelegenheyt zuwegen/an gelegene malstatt vnd seinen vortheyl bringen möge.
+  cs: |-
+    Dále, kdyby válečný pán ve svých vlastních zemích neměl dost válečného lidu, a musel by proto svůj lid verbovat a shromažďovat v jiných knížectvích, panstvích či národech, [má uvážit], jak by to mohl co nejvhodněji obstarat a dopravit na příhodné shromaždiště a ke svému prospěchu.
+- typ: odstavec
+  de: |-
+    Item es ist auch gůt/so ein Herr ein Krieg führen vnnd fürnemen wil/wo er mit andern Fürsten/Herren vnnd Potentaten in vnwillen stünde/daß er mit denselbigen fried/oder zum wenigsten anstandt mach/auch mit andern vereinigung vnnd bündniß/wo er auch sorgt daß sein gegentheyl mit etlichen Fürsten vnd Herrschafften
+  cs: |-
+    Dále je dobré, chce-li pán vést a začít válku a je-li s jinými knížaty, pány a vládci v nevoli, aby s nimi uzavřel mír, nebo aspoň příměří, a s jinými [uzavřel] jednotu a spolek; a obává-li se, že by jeho protivník u některých knížat a panství

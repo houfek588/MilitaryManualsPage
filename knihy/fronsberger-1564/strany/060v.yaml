@@ -1,0 +1,43 @@
+id: 060v
+list: LX
+strana: verso
+sken: 128
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Sein besoldung ist wie des Quartiermeysters vnnd Wachtmeysters/gleicher gestalt mit Trabanten also vnterhalten.
+  cs: |-
+    Jeho žold je jako u kvartýrmistra {Quartiermeysters} a vachmistra {Wachtmeysters} a stejně se mu vydržují i drabanti {Trabanten}.
+- typ: nadpis
+  uroven: 3
+  de: Der Eydt.
+  cs: Přísaha
+- typ: odstavec
+  de: |-
+    DEr Profandtmeyster wird neben andern hohen ämptern in Eydt vnd pflicht genommen/dann er wird auch etwann in andern geschefften durch den Obersten gebraucht/hin vnnd wider geschickt/wo es die notturfft vnnd gelegenheyt erheyscht vnd erfordert.
+  cs: |-
+    Proviantmistr {Profandtmeyster} se spolu s jinými vysokými úřady bere do přísahy {Eydt} a povinnosti, neboť ho plukovník {Obersten} někdy užívá i k jiným věcem a posílá ho sem i tam, kam to potřeba a okolnosti vyžadují.
+- typ: odstavec
+  de: |-
+    Es soll auch keyn Profandtmeyster finantz oder betrug mit der Profandt treiben/es sey durch Fürkauff/oder mit den/die es zuführen in keyn weiß noch weg/darmit nicht ein thewrung erstehe/damit der gemeyn Mann beschwerdt werde.
+  cs: |-
+    Žádný proviantmistr také nemá s proviantem {Profandt} provádět finty {finantz} ani podvody, ať předkupem {Fürkauff}[^1], nebo spolu s těmi, kdo jej přivážejí, nijak a nikterak, aby nevznikla drahota, kterou by bylo prosté mužstvo {gemeyn Mann} zatíženo.
+- typ: nadpis
+  uroven: 2
+  de: Ampt/Befelch vnd Eydt des Profosen der Landsknecht.
+  cs: Úřad, pověření a přísaha profouse {Profosen} lancknechtů
+- typ: odstavec
+  de: |-
+    DEs Profosen Ampt ist noth daß es besetzt vnnd versehen sey/mit einem ehrlichen/geschickten/verstendigen/vnd daneben dapffern ernstlichen Mann/dann er ist im Feldt zuschetzen zugleich wie in einer Statt oder Ampt/ein Vogt oder Amptmann/Dann nachdem er diejenigen so mißhandlen/oder in ander weg sich vngeschickt vnd strafflich halten/gefänglich annemen lassen vnnd straffen/auch etwann für Recht oder den gemeynen Mann stellen vnd anklagen soll/Wil vonnöten sein/daß ein Profoß ein verstand habe/damit er jederzeit wisse/was er thun oder lassen/vnd wie er sein Ampt versehen soll/darmit er ihm nit zuuil oder zuwenig thu/dann thut er jhm zuwenig/ist liederlich vnd hinlässig/darauß folgt vnter dem Kriegsvolck groß vnordnung/vngehorsame/vnd vil mütwillens/Ist er zu gäch/streng vnd hart/darauß folgt vnter dem Kriegßuolck vnwillen/klag/vnnd etwann vnterweilen aufflauff vnnd meutereyen/So soll er auch in gebürlichen sachen dapffer vnd ernstlich/vnd nit nachlässig sein/darauß folgt ihm ein autoritet/ansehen/forcht vnd entsitzen/das dann gut vnd not ist.
+  cs: |-
+    Úřad profouse je nutné obsadit a opatřit čestným, schopným, rozumným a k tomu statečným a přísným mužem, neboť v poli je třeba ho pokládat za totéž, co je ve městě nebo v panství fojt {Vogt} či úředník {Amptmann}. Protože má ty, kdo se proviní nebo se jinak chovají nepatřičně a trestuhodně, dát zatknout a trestat, a někdy je také postavit před soud nebo před prosté mužstvo a žalovat je, je nutné, aby profous měl rozum a vždy věděl, co má činit a čeho se zdržet a jak má svůj úřad vykonávat, aby nedělal ani příliš mnoho, ani příliš málo. Dělá-li totiž příliš málo, je lehkomyslný a nedbalý, a z toho plyne mezi válečným lidem velký nepořádek, neposlušnost a mnoho svévole. Je-li příliš zbrklý, přísný a tvrdý, plyne z toho mezi válečným lidem nevole, stížnosti a někdy i srocení a vzpoury. Ve věcech, které to vyžadují, má být tedy statečný a přísný, a ne nedbalý; z toho mu vzejde autorita, vážnost, respekt a bázeň, což je dobré a nutné.
+- typ: odstavec
+  de: |-
+    Der Profoß soll in einem jeden Läger/besonder da man sich versicht ein zeitlang mit dem Läger zubleiben/einen platz zum marckt/den der Quartiermeyster darzu Quartiert vnd verordnet hat/verordnen/darauff lasset er einen Galgen auffrichten/vnd alle Profandt so man zu feilem marckt bringt/soll auff denselbigen platz geführt/daselbs vnd sonst an keynem andern ort verkaufft werden/Was man auch also zu marckt bringt/es sey was es wolle/das soll dem Profosen angezeygt werden/das soll er dann schetzen/vnd anzeygen/in was werth mans geben soll/sonst soll nichts verkaufft werden/bey verlierung der haab/es sey wein/brot/fleysch/oder anders dergleichen Profandt/daruon ist allwegen sein prouit etliche maß weins/von einem der wein verkaufft vnd außschencken wil/vnd etwan einen Batzen/zwen/drey/darnach des weins viel ist/Von den jenigen so Brot führen/nimpt er etliche Brot/vnd auch etwann ein halb oder gantzen Batzen/darnach es viel ist/Von Fleysch so geschlagen
+  cs: |-
+    Profous má v každém ležení {Läger}, zvláště tam, kde se počítá, že se v ležení zůstane delší dobu, zřídit tržiště na místě, které k tomu kvartýrmistr vyměřil a určil, a dá na něm postavit šibenici. Všechen proviant, který se přiváží na trh na prodej, se má vozit na toto místo a prodávat jen tam a nikde jinde. Cokoli se takto na trh přiveze, ať je to cokoli, má se ohlásit profousovi; ten to má ocenit a oznámit, za jakou cenu se to má prodávat, jinak se nic prodávat nesmí, pod trestem propadnutí zboží, ať jde o víno, chléb, maso nebo jiný podobný proviant. Z toho mu vždy náleží užitek {prouit}: několik mázů {maß} vína od každého, kdo chce víno prodávat a čepovat, a někdy jeden, dva či tři baceny {Batzen}, podle toho, kolik je vína. Od těch, kdo vozí chléb, bere několik chlebů a někdy také půl nebo celý bacen, podle toho, kolik ho je. Z masa, které se poráží
+poznamky:
+- n: 1
+  text: |-
+    Fürkauf (předkup) – skupování zboží předem, ještě před trhem, aby je pak bylo možné prodat dráž; v říšských i zemských řádech zakázané.

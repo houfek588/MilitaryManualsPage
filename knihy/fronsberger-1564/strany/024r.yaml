@@ -1,0 +1,47 @@
+id: 024r
+list: XXIIII
+strana: recto
+sken: 55
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Der Oberst Feldtzeugmeyster soll nicht ein schlecht mann/sonder eines gůten namens/zum wenigsten einer vom Adel sein.
+  cs: |-
+    Nejvyšší polní zbrojmistr {Oberst Feldtzeugmeyster} nemá být prostý muž, nýbrž muž dobrého jména, přinejmenším šlechtic.
+- typ: odstavec
+  de: |-
+    Der ein gůten verstandt habe/wiß was zu der sachen gehör/auch allen seinen Vnterämptern/deren viel seind/wiß was jedem zu verwalten gebüre/was seinem dienst vnnd Ampt zustehe/wiß jederzeit nach gestalt vnnd gelegenheyt der sachen befelch vnd bescheyd zugeben/auch in allen handlungen/es sey im Feld/in/oder vor besatzungen/gůte anschleg vnd sein vortheyl wiß.
+  cs: |-
+    Má to být muž dobrého rozumu, který ví, co k věci patří, a zná i všechny své podřízené úřady {Vnterämptern}, jichž je mnoho: ví, co komu náleží spravovat a co přísluší k jeho službě a úřadu. Má umět kdykoli podle povahy a okolností věci vydat rozkaz a pokyn a ve všech podnicích – ať v poli, v obleženém místě, nebo před ním {in/oder vor besatzungen} – znát dobré plány a svou výhodu.
+- typ: odstavec
+  de: |-
+    Aber welchem ein Zeughauß befolhen wird/als einem redlichen vnnd zeug verständigen mann/den man pflegt ein Haußzeugmeyster zunennen/der versteht vnnd weyß/was in ein Zeughauß vnd zu der Arckelley gehörig/das alles selbs anzustellen vnnd zu fordern/was zu einem gantzen Zeughauß gehört/Aber ein Feldtzeugmeyster ist vil ein ander ding/derselbig ist Rath vnd Zeugmeyster/Er tregt nicht allein sorg der Arckelley/sonder auch der gantzen Kriegßhandlung mit dem Obersten vnnd andern Kriegßräthen.
+  cs: |-
+    Ten však, komu je svěřena zbrojnice {Zeughauß} jako poctivému muži zběhlému ve zbrojních věcech a jemuž se obvykle říká zbrojmistr zbrojnice {Haußzeugmeyster}[^1], rozumí a ví, co patří do zbrojnice a k dělostřelectvu {Arckelley}, a umí sám obstarat a vyžádat vše, co k celé zbrojnici patří. Polní zbrojmistr {Feldtzeugmeyster} je však věc docela jiná: je radou i zbrojmistrem a nese spolu s nejvyšším [polním hejtmanem] a ostatními válečnými rady {Kriegßräthen} péči nejen o dělostřelectvo, ale o celé válečné podnikání {Kriegßhandlung}.
+- typ: odstavec
+  de: |-
+    Ein Haußzeugmeyster aber ist nicht Rath dann allein so vil den Zeugmeyster betrifft/Er soll aber ein verständiger/vertrawter/redlicher Mann sein/der gibt auch einem Obersten Feldtzeugmeyster aller ding ein Register/darnach sich der Feldtzeugmeyster wisse zurichten vnd halten.
+  cs: |-
+    Zbrojmistr zbrojnice však není radou, leda pokud jde o věci zbrojmistrovské. Má to však být rozumný, důvěryhodný a poctivý muž; ten také dává nejvyššímu polnímu zbrojmistrovi soupis {Register} všech věcí, podle něhož se polní zbrojmistr může řídit.
+- typ: nadpis
+  uroven: 2
+  de: Deß Zeugmeysters Ampt betreffent.
+  cs: O úřadu zbrojmistra {Zeugmeysters}
+- typ: odstavec
+  de: |-
+    EIn Zeugmeyster soll auch verordnen durch seinen Leutenant/wie hernach folgt/Als nemlich Schantzmeyster vnd Geschirrmeyster/auch Zeugschreiber vnnd andere Zeugdiener/oder wo ers an der můß gehaben mag/selb alle Monat/daß alle wagen Pferdt gemustert werden/was kranck/krumb/zu kleyn/oder sonst vnteuglich were/vnnd den Pferden nicht gleichet/wie ein jeder bestestelt worden ist/die soll man außmusteren/vnd keyn geldt darauff geben/biß der Fürmann ein ander teuglich Roß an die Statt hat/dann die Fürleuth treiben offt betrug/kauffen beytroß/schwach vnd kleyn/vmb wenig gelts/damit sie nicht gefertigt seind/darauff steht dem Kriegßherrn vnnd gantzem Feldtläger nachtheyl/so geben sie auch etwann die besten Pferdt an die statt/dardurch sie verhindert werden/jhren gepürlichen last zu führen. Darumb wil vonnöten sein/daß der Zeugmeyster vnterweilen ein blinde musterung thůe/vngewarneter sachen/wann man im ziehen ist/daß er den Zeugschreiber mit dem Musterzedel bey jhme hab/darzů den Geschirrmeyster/so befindt er im einsetzen vnd fahren/welcher sein anzal Pferdt hat oder nicht.
+  cs: |-
+    Zbrojmistr má také zařídit, aby se každý měsíc přehlédli všichni vozní koně, a to prostřednictvím svého poručíka {Leutenant} a dalších, jak bude dále uvedeno – totiž šancmistra {Schantzmeyster} a vozmistra {Geschirrmeyster}, také zbrojního písaře {Zeugschreiber} a jiných zbrojních služebníků {Zeugdiener} –, anebo, má-li na to čas, sám. Co je nemocné, chromé, příliš malé nebo jinak neschopné a neodpovídá koním, k nimž se kdo zavázal, to se má vyřadit a nemají se na to dávat žádné peníze, dokud vozka {Fürmann} nepostaví na jeho místo jiného způsobilého koně. Vozkové {Fürleuth} totiž často podvádějí: kupují za málo peněz podřadné koně {beytroß}[^2], slabé a malé, s nimiž nejsou náležitě vybaveni, a z toho válečnému pánu {Kriegßherrn} i celému polnímu ležení {Feldtläger} vzniká škoda. Někdy také nejlepší koně dávají pryč a nahrazují jinými, takže pak nemohou táhnout svůj náležitý náklad. Proto je nutné, aby zbrojmistr čas od času na pochodu nečekaně, bez ohlášení, uspořádal slepou přehlídku {blinde musterung}[^3] a měl přitom u sebe zbrojního písaře s přehlídkovým seznamem {Musterzedel} a k tomu vozmistra; tak při zapřahání a jízdě zjistí, kdo má svůj počet koní a kdo ne.
+- typ: odstavec
+  de: |-
+    Es wil auch vonnöten sein/daß der Zeugmeyster/mit dem verordneten/vnterweilen die Wägen auch mustere/dann die Fürleuth etwann vmb jhres nutz willen beytgüter annemen zuführen/vnd besonder lohn daruon nemen/das soll keyns wegs gestattet werden/die Arckelley vnd Munition wägen zu beschweren.
+  cs: |-
+    Je také nutné, aby zbrojmistr s určenými [muži] čas od času přehlédl i vozy. Vozkové totiž někdy pro svůj zisk berou k převezení cizí náklad {beytgüter} a berou si za to zvláštní mzdu; to se nijak nemá dovolit, aby se tím nepřetěžovaly dělostřelecké a muniční vozy.
+poznamky:
+- n: 1
+  text: Haußzeugmeister – správce stálé zbrojnice (arzenálu) v zemi, na rozdíl od polního zbrojmistra, který vede dělostřelectvo na tažení.
+- n: 2
+  text: Beytroß (Beiross) – patrně vedlejší, podřadný kůň, podstrčený místo smluveného tažného koně. Výklad nejistý.
+- n: 3
+  text: Blinde Musterung – neohlášená, překvapivá přehlídka, při níž nelze počty koní a mužů předem „dorovnat“.

@@ -1,0 +1,46 @@
+id: 115v
+list: CXV
+strana: verso
+sken: 238
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vergeudeten/jhre Schaffner gemelte frücht heymlich auß den Stetten hinweg verschaffen/oder mit regen erfeulen/aber auff den Summer haben sie dieselbige wider jr hoffnung vberzogen/vnnd durch hungers noth erobert. Item die flüß so durch die Stett rinnen/soll man entweders mit wůlen vnd graben abwenden/vnd durch jhren lauff die Stett heymlich vberschleichen/oder mit vergifftung ohntüglich machen.
+  cs: |-
+    obilí, dali jejich [římští] správci {Schaffner} zmíněnou úrodu potají z měst odvézt nebo ji nechali zahnít deštěm; v létě pak tato města proti jejich očekávání napadli a hladem dobyli. Dále: řeky, které protékají městy, se mají buď hrázemi a příkopy odvrátit, a jejich korytem se pak potají vplížit do města, nebo je otrávit a učinit nepoužitelnými.
+- typ: nadpis
+  uroven: 2
+  de: Auffgebung.
+  cs: Vzdání [města]
+- typ: odstavec
+  de: |-
+    ERgeb sich ein Statt/soll er die vrsächer so langwiriger auffenthaltung nach verwürckung straffen/alle andere Bürger (wie Joab die Abeliter) gnediglich auffnemen/jre alte gebreuch vnd gewonheyten nach gelegenheyt befreien vnd erneweren/vnbilliche beschwerd abthůn/gerechtigkeyt mehren vnd bestäten/alle hohe ämpter mit newen verwesern besetzen/die gefangne ledigen/die verjagten ehrlich heym schicken/den elenden vnd schuldnern helffen/witwen vnd weysen vätterliche trew beweisen/vnd vor allem Gottes ehr vnd Manns zucht erhalten/Vnd dieweil nichts vngewissers/dann der wandelbar vnd zweiffelhafftig Sig/Darumb sol er zu versicherung die achtsameste Bürger zů pfandt behalten. Er soll auch alle verdächtige gwalthaber gnediglich bereden mit jhm zuziehen/ehr vnd gůt zugewinnen/damit sie hinder jhm nichts empören mögen. Item die Statt wol besetzen/würde die Bürgerschafft seiner besatzung gram/argwenig vnd zu starck/so sol er etwas scheinlichs vor der Statt zusehen anrichten/vnd sie hinauß reytzen/die porten also lang vor jn beschliessen/biß sie jm gnugsame Bürgen setzen/wo sie aber wider abtrünnig würd/gar in boden schleyffen.
+  cs: |-
+    Vzdá-li se město, má původce tak dlouhého odporu potrestat podle jejich provinění, všechny ostatní měšťany (jako Joáb obyvatele Ábelu)[^1] milostivě přijmout, jejich staré zvyklosti a obyčeje podle okolností potvrdit a obnovit, nespravedlivá břemena zrušit, spravedlnost rozmnožit a upevnit, všechny vysoké úřady obsadit novými správci, zajatce propustit, vyhnané se ctí poslat domů, ubohým a dlužníkům pomoci, vdovám a sirotkům prokazovat otcovskou věrnost a nade vše zachovávat Boží čest a kázeň mezi muži. A protože nic není nejistější než vrtkavé a pochybné vítězství, má si pro jistotu ponechat nejváženější měšťany jako rukojmí. Také má všechny podezřelé mocné muže vlídně přemluvit, aby táhli s ním a získali čest i statky, aby za jeho zády nemohli nic podnítit. Dále má město dobře obsadit posádkou {besatzung}. Kdyby měšťané jeho posádku nenáviděli, byli nespolehliví a příliš silní, má před městem uspořádat nějakou podívanou, vylákat je ven a brány před nimi držet zavřené tak dlouho, dokud mu nepostaví dostatečné ručitele; kdyby však město znovu odpadlo, má je srovnat se zemí.
+- typ: nadpis
+  uroven: 2
+  de: Vom Eyd.
+  cs: O přísaze
+- typ: odstavec
+  de: |-
+    DJeweil auch Gottes vnnd menschlicher herrligkeyt zierd/Eyds pflichte zu kundtschafft gewönlich erfordert/beyde die falschen zuschrecken/vnd die zweiffelhafftige hertzen zusichern/auch in heyliger schrifft befolhen wird/sol er weder jme noch den andern/biß in tod jmmer verhencken/zusagung vnd versprochne gelübd/trew/ehr vnd eyd zufelschen/sonder an jhm selbs vnnd anderen schwerlich straffen/damit er nicht sampt andern zugleich inn die vnuermeidliche rach Gottes vnnd Weltliche schmach falle.
+  cs: |-
+    Protože okrasa Boží i lidské vznešenosti obvykle vyžaduje k doložení [pravdy] přísežné závazky {Eyds pflichte} – jednak aby zastrašily falešné, jednak aby ujistily pochybující srdce – a protože to přikazuje i Písmo svaté, nemá ani sobě, ani jiným až do smrti nikdy dovolit, aby falšovali přísliby a dané sliby, věrnost, čest a přísahu; naopak to má na sobě i na jiných přísně trestat, aby spolu s ostatními neupadl do nevyhnutelné Boží pomsty a světské hanby.
+- typ: nadpis
+  uroven: 2
+  de: Nachbawrschafft vnd Freundschafft.
+  cs: Sousedství a přátelství
+- typ: odstavec
+  de: |-
+    DJe soll er alle zeit zu hulden behalten/damit er sich gegen jr aller trew in freud vnd leyd versehen mög/würde sie von gemeynen feind vberzogen vnd geschediget/soll er sie mit aller macht entschütten/damit er auff frembden gütern mit seinem genuß/vnnd der freund huld vnnd hülff die widerparth vertilgen/freundliche nachbawrschafft machen/sein wand von dem mörderischen brand erretten/vnnd sein hertz am feind nach lust erfülen mög/Vber welche Stett vnnd Lande er hofft künfftig zuherrschen/die sol er nicht beleydigen/sonder die jhren auß gefencknuß ledigen vnnd herrlich begaben/heymgeleyten/sölchs auch dem hellen hauffen gebieten/damit sie mercken/daß er weder jhr leib/leben noch gůt/sonder jhr ehr vnnd heyl sůch/vnnd ein hertz zu jhm gewinnen.
+  cs: |-
+    Ty [sousedy a přátele] si má vždy udržovat v přízni, aby se mohl spolehnout na věrnost všech v radosti i v žalu. Kdyby je společný nepřítel napadl a poškodil, má jim vší mocí přispět na pomoc, aby na cizí půdě a ke svému prospěchu, s přízní a pomocí přátel, protivníka zničil, získal přátelské sousedství, zachránil svou vlastní zeď před vražedným požárem[^2] a mohl si na nepříteli dle libosti vylít srdce. Města a země, nad nimiž doufá v budoucnu vládnout, nemá poškozovat, nýbrž jejich lidi propouštět ze zajetí, štědře je obdarovat a doprovodit domů, a totéž přikázat i celému houfu {hellen hauffen}, aby poznali, že mu nejde o jejich tělo, život ani statky, nýbrž o jejich čest a blaho, a aby k němu přilnuli srdcem.
+poznamky:
+- n: 1
+  text: |-
+    2 Sam 20,14–22: Joáb obléhal město Ábel-bét-maaka, kam se uchýlil vzbouřenec Šeba; když mu obyvatelé vydali Šebovu hlavu, odtáhl a město ušetřil.
+- n: 2
+  text: |-
+    Narážka na úsloví (Horatius, Epistulae I,18,84): jde o tvou věc, když hoří zeď souseda – kdo sousedovi pomůže uhasit, chrání vlastní dům.

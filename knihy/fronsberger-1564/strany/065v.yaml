@@ -1,0 +1,68 @@
+id: 065v
+list: LXV
+strana: verso
+sken: 138
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    einem jeden Rottmeyster bey seinem Eyd aufflegen vnd einbinden/was für Knecht/oder ander personen zu jnen kommen/die keynen dienst vom Keyser vnter jrem Regiment vnnd Hauptmann hetten/oder an der Musterung nit gůt worden/sie seien wer sie wöllen/alßbald jrem Hauptmann vnd Obersten anzeygen/Vnnd welche sollichs vbertretten/vnd nit hielten/der oder dieselben sollen/es sey einer oder mehr/als meineydig gehalten/vnd on alle gnad an leib vnd leben gestrafft werden.
+  cs: |-
+    uložit a vštípit každému rotmistrovi {Rottmeyster} při jeho přísaze {Eyd}, aby jakékoli knechty nebo jiné osoby, které k nim přijdou a nemají od císaře službu v jejich pluku {Regiment} a u jejich hejtmana, nebo které při přehlídce {Musterung} nebyly uznány za způsobilé, ať jsou kdokoli, ihned oznámili svému hejtmanovi a plukovníkovi. Kdo by to přestoupil a nedodržel, ať jeden nebo více, má být pokládán za křivopřísežníka a bez jakékoli milosti potrestán na těle i na životě.
+- typ: odstavec
+  de: |-
+    Item gleiches falls sollen die Hauptleuth schuldig sein/so bald vnd wann jnen frembde Knecht kommen/jrem Obersten anzuzeygen.
+  cs: |-
+    Dále jsou stejně tak hejtmani {Hauptleuth} povinni, jakmile a kdykoli k nim přijdou cizí knechti, oznámit to svému plukovníkovi {Obersten}.
+- typ: odstavec
+  de: |-
+    Item es soll von niemands/er sey wer der wöll/kleyn oder groß Hans/keyn vbelthäter oder mißhandler fräuenlich/gefährlich oder wissentlich auffgehalten/oder fürgeschoben werden bey leibstraff.
+  cs: |-
+    Dále nikdo, ať je to kdokoli, malý nebo velký pán[^1], nemá svévolně, se zlým úmyslem nebo vědomě ukrývat nebo krýt žádného zločince ani provinilce, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item es soll keyner im Troß zuziehen oder zugehen anmassen oder vndersichen er sey dann mit leibs schwachheyt vnd kranckheyt warhafftiglich beladen.
+  cs: |-
+    Dále se nikdo nemá osmělit ani opovážit táhnout nebo jít s trénem {Troß}, leda by byl skutečně stižen tělesnou slabostí a nemocí.
+- typ: odstavec
+  de: |-
+    Item es sol ein jeder an seiner kleydungen auffgesetzt oder auffgenät rotes creutz vnd darzu vber sein Harnisch ein rote Binden haben/Wa aber einer oder mehr weren die es nit hetten/sollen dieselbe als feinde gehalten werden.
+  cs: |-
+    Dále má mít každý na svém oděvu nasazený nebo našitý červený kříž a k tomu přes zbroj {Harnisch} červenou pásku[^2]. Kdyby však jeden nebo více z nich to neměli, má se s nimi zacházet jako s nepřáteli.
+- typ: odstavec
+  de: |-
+    Item wa einer oder mehr weren/die die vorgeschriebene Artickel nit hielten/so soll der oder dieselben peinlich als eydbrüchig gestrafft werden/nach deß Obersten erkantnuß/Vnd ob etwas in den vorgemelten Artickeln vergessen/vnd nit gemelt were das den Kriegßleuten zustehet zuhalten/soll alle mißhandlung zu dem Obersten stehn vnd gestrafft werden.
+  cs: |-
+    Dále: kdyby jeden nebo více nedodržovali výše sepsané artikule, má být ten nebo ti potrestáni hrdelně {peinlich} jako zrušitelé přísahy, podle uvážení plukovníka. A kdyby bylo ve shora uvedených artikulích něco opomenuto a nevyjmenováno, co válečníkům náleží dodržovat, má každé provinění záviset na plukovníkovi a být [jím] potrestáno.
+- typ: odstavec
+  de: |-
+    Vnnd alle die knecht so inn diesem Heer bey dem hauffen in Key. May. dienst seind/vnd bey dem schwören vor verlesener angezeygter Artickel nit da weren/die sollen solcher eydspflicht/auch gleich so wol verbunden/vnd die zuhalten schuldig sein/als weren sie persönlich bey dem schwören gewesen.
+  cs: |-
+    A všichni knechti, kteří jsou v tomto vojsku při houfu {hauffen} ve službě Jeho císařského Majestátu a nebyli přítomni přísaze po přečtení uvedených artikulí, mají být touto přísežnou povinností vázáni stejně a jsou povinni ji dodržovat, jako by byli při přísaze osobně.
+- typ: odstavec
+  de: |-
+    Vnnd ob einer oder mehr der vorgenannten Artickel verjrrt/vnnd in vergessen kommen were/der oder dieselben mögen sich zu dem Schultheyssen verfügen/sich derselben an jm zu erinnern vnd bericht nemen/Act. den etc.
+  cs: |-
+    A kdyby někdo nebo více z nich v předepsaných artikulích chybovali nebo je zapomněli, mohou se odebrat k rychtáři {Schultheyssen}, aby si je u něho připomněli a dali se poučit. Dáno dne atd.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Copia eines Artickel Brieffs der Fußknecht/darauff sie schwören sollen/den mag man nach gestalt vnd gelegenheyt der sachen mindern oder mehren.
+  cs: |-
+    Opis artikulního listu {Artickel Brieffs} pěších knechtů, na nějž mají přísahat; lze jej podle povahy a okolností věci zkrátit nebo rozšířit
+- typ: odstavec
+  de: |-
+    DAß jr N. vnserem gnädigen Herren N. Monat dienen/schaden warnen/vnd frommen fürdern/vnnd N. ewerem gnädigen Obersten Hauptmann/oder die befelch haben/oder an sein statt verordnet wird/auch den Fänderichen vnd Weybeln/so auch gesetzt werden/in allen zimlichen sachen/geschäfften vnd gebieten/gefällig vnd gehorsam sein wöllend.
+  cs: |-
+    Že budete našemu milostivému pánu N. sloužit N. měsíců, varovat před škodou a podporovat [jeho] prospěch a že budete N., svému milostivému nejvyššímu hejtmanovi {Obersten Hauptmann}[^3], nebo těm, kdo mají velení nebo budou ustanoveni na jeho místo, a také praporečníkům {Fänderichen} a šikovatelům {Weybeln}, kteří budou rovněž ustanoveni, ve všech náležitých věcech, rozkazech a příkazech povolní a poslušní.
+poznamky:
+- n: 1
+  text: |-
+    „kleyn oder groß Hans“ – dobové rčení „malý nebo velký Hans“, tj. prostý člověk i velký pán.
+- n: 2
+  text: |-
+    Červený kříž (zpravidla šikmý ondřejský „burgundský“ kříž) a červená páska či šerpa byly polním znamením císařského vojska; kdo je neměl, mohl být v boji pokládán za nepřítele.
+- n: 3
+  text: |-
+    „Oberster Hauptmann“ – v artikulním listu pěchoty velitel pluku, tj. plukovník, jemuž knechti přísahají.

@@ -1,0 +1,58 @@
+id: 100v
+list: C
+strana: verso
+sken: 208
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mattmachenden Sonnenscheins/auch souil den Wind betrifft/deß staubs vnd sunst mehr vrsachen halben.
+  cs: |-
+    unavujícímu slunečnímu svitu, a pokud jde o vítr, kvůli prachu a z dalších důvodů.
+- typ: nadpis
+  uroven: 3
+  de: Vber wasser zukommen.
+  cs: Jak se dostat přes vodu
+- typ: odstavec
+  de: |-
+    ES ist gůt vnnd vonnöten/so ein Kriegßuolck mit Heers krafft inn ein frembd Landt zeucht/daß man mitführe ein namhaffte anzal ledern Seck in zimlicher gůter grösse/die gar beheb/fleissig vnd wol geneht seien/vnd so man an Schiffreiche wasser kompt/werden dieselbigen auffgeblasen/mit seylern angehefft/hölzer vnd blöck darauff gelegt/zugleich wie andere Schiffbrücken/vnd also mag man ein Volck vber ein wasser bringen/Man möcht auch so man Schiffbrücken mitführt/etwann vil solcher lederene seck mitführen/vnd zwischen die schiff einmischen/erspart vil führ/dann man kan die ledern seck geschmeidig zusamen legen/vnd so man also die seck hat/seind die Schiff auch gůt etwann so not/volck darinn vber zuführen.
+  cs: |-
+    Táhne-li válečný lid s celou vojenskou mocí do cizí země, je dobré a nutné vézt s sebou značný počet kožených vaků dosti velké velikosti, velmi těsných, pečlivě a dobře sešitých. Když se pak přijde k velké, splavné vodě, nafouknou se, připevní se lany, položí se na ně trámy a klády jako na jiných lodních mostech {Schiffbrücken}, a tak lze lid převést přes vodu. Veze-li se s sebou lodní most, bylo by možné vézt také mnoho takových kožených vaků a vkládat je mezi lodi; to ušetří mnoho povozů, protože kožené vaky lze skladně složit. A když se takto mají vaky, mohou se lodi v nouzi použít i k převážení lidu.
+- typ: nadpis
+  uroven: 3
+  de: Von einer Besatzung die Mawren zuschwechen.
+  cs: Jak oslabit hradby posádky
+- typ: odstavec
+  de: |-
+    JTem wo ein Mawer fast fest were/vnnd sich nit gern zerschiessen lassen wölt/wo man dann dartzů kommen möcht ohn schaden/so trag man groß hauffen holtz vnd reiß dartzů/zündt dasselbig an/so schwecht das die mawr gar häfftig/Also ließ Attila zu Aglar ein grossen hauffen Sättel an die mawren tragen vnd anzünden/schwecht also die mawren/vnd erobert die Statt dardurch.
+  cs: |-
+    Dále: Je-li hradba velmi pevná a nedá se dobře rozstřílet, a lze-li se k ní bez škody dostat, ať se k ní nanesou velké hromady dříví a klestí a zapálí se; to hradbu velmi oslabí. Tak dal Attila u Aquileie {Aglar} nanést k hradbám velkou hromadu sedel a zapálit je, tím hradby oslabil a dobyl město.[^1]
+- typ: nadpis
+  uroven: 3
+  de: Ein Land oder Läger zubefestigen.
+  cs: Jak opevnit kraj nebo ležení
+- typ: odstavec
+  de: |-
+    JTem so man etwann wölt ein Landsart/Tahl/Feld oder Läger befestigen/da man sich gedächte ein zeitlang zuenthalten vnd wehren/so nemm man grosse Eychine/Büchine vnd andere höltzer/dann schräncke man ein Hag/etwann zweintzig oder mehr schůch dick/vnd so hoch/dartzwischen mit erden/steynen vnd aller hand materi außgefüllt/so man auch also außfüllet/so grebt man gleich darmit daruor oder darhinder/wo es am besten ist/ein graben der auch zur befestigung nutz vnnd gůt ist/man mag auch Wehr vnnd Bollwerck darein machen/Also haben sich die Vngern vor gar langen zeiten in jhrem Landt verbawen/vnnd dardurch sich jhres feinds erwehrt.
+  cs: |-
+    Dále: Chtěl-li by někdo opevnit kraj, údolí, pole nebo ležení, kde se zamýšlí nějaký čas zdržet a bránit, ať se vezmou velké dubové, bukové a jiné kmeny a z nich se sroubí ohrada[^2] asi dvacet nebo více stop {schůch} silná a stejně vysoká, uvnitř vyplněná hlínou, kamením a všelijakým materiálem. Když se takto vyplňuje, vykope se zároveň před ní nebo za ní, kde je to nejlepší, příkop, který je k opevnění také užitečný a dobrý; lze do ní udělat i obranná místa a bolverky {Bollwerck}. Tak se před velmi dávnými časy zabarikádovali ve své zemi Uhři a ubránili se tím svému nepříteli.[^3]
+- typ: nadpis
+  uroven: 3
+  de: In Schlachten wider ein Reysigen Zeug.
+  cs: V bitvách proti jízdě
+- typ: odstavec
+  de: |-
+    JTem so ein Fůßuolck mangel am Reysigen Zeug hette/vnd die feind jnen mit Reysigen zustarck vnd vberlegen weren/so mag der Fůßzeug gar einen gůten behelff haben wider die Reysigen/also daß sie machen vil gůter streitwägen mit krummen vnd scharpffen Segessen/auch spitzen/vnd in andere weg wie man dann im
+  cs: |-
+    Dále: Má-li pěchota {Fůßuolck} nedostatek jízdy {Reysigen Zeug} a jsou-li jí nepřátelé v jízdě příliš silní a nadřazení, může mít pěší lid velmi dobrou pomoc proti jízdě: ať zhotoví mnoho dobrých bojových vozů s křivými a ostrými kosami a také s hroty a jinak, jak to lze najít vyobrazeno ve
+poznamky:
+- n: 1
+  text: |-
+    Attila dobyl Aquileii roku 452; příběh o hranici ze sedel se váže spíše k jeho táboru po bitvě na Katalaunských polích. Fronsperger ho přebírá z kronikářské tradice.
+- n: 2
+  text: |-
+    Hag – ohrada, hradba z kmenů a proutí (srov. „Gebück“, „Landhag“ – zemské hraniční zátarasy).
+- n: 3
+  text: |-
+    Narážka na tzv. gyepű – pásmo záseků a ohrad na hranicích raně středověkých Uher.

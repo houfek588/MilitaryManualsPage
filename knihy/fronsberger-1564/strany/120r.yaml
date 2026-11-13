@@ -1,0 +1,64 @@
+id: 120r
+list: CXX
+strana: recto
+sken: 247
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ER soll anfangs erforschen/ob der feind mächtiger/besser gelegert/baß gerüster/gewapneter/in gefärligkeyt vnuerzagter/zu roß oder zu fůß stercker oder mannhafftiger/mit leichter oder schwerer rüstung vnnd geschütz fertiger/mit Platz/Sonnen oder Mon/Lufft/Zeit/vnnd allen dergleichen anderen vortheylen/gegenwehren/bereyter/klüger/trützlicher oder zaghafftiger bewart sey/darmit er jedem ein eygnen vortheyl hingegen stellen vnd erkennen mög/wie vnd was zuthůn oder zulassen seye.
+  cs: |-
+    Nejprve má vyzkoumat, zda je nepřítel mocnější, lépe utábořený, lépe vystrojený a vyzbrojený, v nebezpečí neohroženější, zda je silnější nebo mužnější v jízdě či v pěchotě, zda je pohotovější s lehkou nebo těžkou výzbrojí a s děly {geschütz}, zda je lépe chráněn místem, sluncem nebo měsícem, větrem, časem a všemi podobnými výhodami, a zda je v odporu připravenější, chytřejší, vzdornější, nebo bázlivější – aby mohl proti každé [jeho výhodě] postavit vlastní výhodu a poznal, co a jak je třeba učinit nebo nechat být.
+- typ: odstavec
+  de: |-
+    Zum andern soll er streng anhalten/daß er von Reysigen vnnd Füßknechten vor der Schlacht etlich fahe/durch welche er seines feinds anschleg/auch mit peinlicher frag verneme/vnd mit weisem Rath fürkomme oder wende/darob der Feind nicht wenig erschrecken würd.
+  cs: |-
+    Za druhé má usilovně dbát, aby před bitvou zajal několik [nepřátelských] jezdců a pěších knechtů, od nichž by se – i útrpným výslechem {peinlicher frag} – dozvěděl nepřítelovy plány a moudrou radou jim předešel nebo je odvrátil; nad tím by se nepřítel nemálo zalekl.
+- typ: odstavec
+  de: |-
+    Die vnachtbarste/so da weibisch weynten vnd vmb gnaden betten/den Knechten zeygen/wie mit einem nichtigen vnmennischen feind sie schlagen werden/die frächen aber behend erwürgen/es wer dann sach/daß er etliche der seinen mit jhnen lösen künde.
+  cs: |-
+    Ty nejopovrženíhodnější, kteří by zženštile plakali a prosili o milost, má ukázat knechtům {Knechten}, [aby viděli,] s jak ničemným a nemužným nepřítelem budou bojovat; ty troufalé však má rychle zabít, leda by za ně mohl vykoupit některé ze svých.
+- typ: odstavec
+  de: |-
+    Zum dritten/soll er ein mittelmässigen verlornen hauffen von jeden Rotten außlesen/oder die selbs freywillige knecht zum angriff/vnd mit handrohren beseitz also anhencken/daß sie jhren flügel herfür an die spitz schwencken/vnnd im schwencken abschiessen/vnnd an der andern seiten zur ladung hinder den hauffen vortheylig abweichen. Dergleichen mit den ringen Pferden vnnd Reysigen Schützen auch zuthůn ist.
+  cs: |-
+    Za třetí má z každé roty {Rotten} vybrat [muže do] středně velkého ztraceného houfu {verlornen hauffen},[^1] nebo [vzít] knechty, kteří se sami dobrovolně hlásí k útoku, a po straně k nim připojit [střelce] s ručnicemi {handrohren} tak, aby své křídlo stočili dopředu ke špici, při tom stáčení vystřelili a na druhé straně výhodně ustoupili za houf, aby nabili. Totéž se má dělat i s lehkou jízdou a s jízdními střelci.
+- typ: odstavec
+  de: |-
+    Zum vierdten/soll er die andere hauffen also ordnen/daß die ring gewapnete/an die höhe eins Bühels/die schwerern an die ebne gestellt/die schwechste gemeyniglich die lincken seitten seines feinds treffen mögen.
+  cs: |-
+    Za čtvrté má ostatní houfy uspořádat tak, aby lehce ozbrojení stáli na výšině pahorku a těžší na rovině a aby mohli udeřit na nejslabší místo nepřítele, obvykle na jeho levou stranu.
+- typ: odstavec
+  de: |-
+    Zum fünfften/soll er jede Ordnung nicht zu dünn außdehnen/noch zu dick engern vnd zusammen schmücken/damit sie nit leichtlich getrennt noch vmbgeben werd.
+  cs: |-
+    Za páté nemá žádný šik {Ordnung} roztahovat příliš řídce ani jej příliš hustě stahovat a tísnit, aby nemohl být snadno roztržen ani obklíčen.
+- typ: odstavec
+  de: |-
+    Zum sechsten/soll er ein jede Ordnung von dem Wind vnnd von dem Sonnenschein stellen/vnnd sie zum angriff/mit steynen/staub/sand/fürwürffen/mit gefüttertem hagelgeschütz/vnd mit allem das seins feinds gesicht verhindern vnd blenden mag/versehen.
+  cs: |-
+    Za šesté má každý šik postavit zády k větru a ke slunci a k útoku jej opatřit kamením, prachem a pískem k vrhání, nabitými kartáčovými děly {hagelgeschütz}[^2] a vším, co může nepříteli zastřít zrak a oslepit ho.
+- typ: odstavec
+  de: |-
+    Zum sibenden/soll er mit den ringen pferden/alß wölt er jetzt treffen/biß an seines Feinds Ordnung ein dicken grossen staub machen/vnd hiezwischen hinder jhnen ein wolgeordneten hauffen an seines feinds rucken schwencken/alßdann vnuersehens einplatzen.
+  cs: |-
+    Za sedmé má s lehkou jízdou {ringen pferden}, jako by se právě chystal udeřit, zvířit až k nepřátelskému šiku hustý, velký prach a mezitím za ní stočit dobře uspořádaný houf do nepřítelových zad a pak znenadání vpadnout.
+- typ: odstavec
+  de: |-
+    Item etwa mit den andern hauffen/im angriff zuruck weichen/vnnd einen bestellen/der in den getrennten nachtruck einbrech/biß er sich mit den weichenden hauffen ordenlich vnd streng wenden vnd angreiffen mög.
+  cs: |-
+    Dále [může] někdy s ostatními houfy při útoku ustoupit a určit jeden [houf], který by vpadl do roztříštěných pronásledovatelů, dokud se sám s ustupujícími houfy nebude moci spořádaně a pevně obrátit a zaútočit.
+- typ: odstavec
+  de: |-
+    Zum achten/versteck er auff beyden seitten etliche Reysige vnnd Füßknecht
+  cs: |-
+    Za osmé ať na obou stranách ukryje několik jezdců {Reysige} a pěších knechtů {Füßknecht}
+poznamky:
+- n: 1
+  text: |-
+    Verlorner Haufe („ztracený houf“) – oddíl dobrovolníků nebo vybraných knechtů, který šel do útoku před hlavním šikem, aby rozrušil nepřátelské řady; za velké nebezpečí dostávali vyšší žold.
+- n: 2
+  text: |-
+    Hagelgeschütz – dělo nabité „krupobitím“ (Hagel), tj. kamínky, sekaným olovem nebo železem, jako kartáčem.

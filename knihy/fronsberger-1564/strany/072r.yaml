@@ -1,0 +1,55 @@
+id: 072r
+list: LXXII
+strana: recto
+sken: 151
+stav: zkontrolovano
+bloky:
+- typ: odstavec
+  de: |-
+    Zum sechsten frag ich dich/ob auff heutigen tag Gott der Allmechtig mich mit einer kranckheyt angriff/wie dann alle ding in seinen Göttlichen gnaden vnd macht stehen/ob ich den stab macht hett zugeben einem andern/vnd mich vom Rechten lassen heym füren/vnd das Recht nit dester minder ein fürgang haben möchte.
+  cs: |-
+    Za šesté se tě ptám: kdyby mě dnešního dne všemohoucí Bůh stihl nemocí – vždyť všechny věci stojí v jeho božské milosti a moci –, mám-li moc dát hůl {stab} jinému a dát se od soudu {Rechten} odvést domů, a zda by soud přesto mohl pokračovat.
+- typ: odstavec
+  de: |-
+    Antwort: Herr Schultheyß jhr habt mich gefragt auff meinen Eydt/vmb ein außweisung/ob euch der Allmechtig Gott angriff mit einer Kranckheyt (in dem dann jhr vnd wir inn seinen Göttlichen gnaden stehen) zuhanden stieß/Sag ich bey meinem Eyd/daß jr gewalt habt/ewern stab einem andern ehrlichen Mann im Rechten zugeben/vnd euch lassen zu Herberg füren/vnd ewer kranckheyt rath sůchen/vnd soll der/so den stab von euch empfangen hat/macht vnnd gewalt haben zurichten vnd zu vrtheyln/alles was ins Recht einbracht ist worden/es sey vber Silber/Gold oder leib/ehr vnnd gůt.
+  cs: |-
+    Odpověď: Pane rychtáři {Schultheyß}, ptali jste se mě při mé přísaze {Eydt} o nález {außweisung}, kdyby vás všemohoucí Bůh stihl nemocí (neboť vy i my stojíme v jeho božské milosti) a ta by na vás dolehla. Pravím při své přísaze, že máte moc dát svou hůl jinému bezúhonnému muži ze soudu, dát se odvést do svého obydlí {Herberg} a hledat pomoc proti své nemoci; a ten, kdo od vás hůl přijal, má mít moc a právo soudit a rozsuzovat vše, co bylo předneseno před soud, ať jde o stříbro, zlato, nebo o hrdlo, čest a statek.
+- typ: odstavec
+  de: |-
+    Zum sibenden/frag ich dich ob vngewitter oder regen am heutigen tag anfiel/ob ich mit sampt euch möge vnter ein obtach sitzen/damit dem Gerichts bůch keyn schaden geschehe/vnd alle ding darinn zubeschreiben mit Ordnung/die dann zum Rechten dienstlich seind/Jch frag dich auch ob ich macht hab/nach dieser vmbfrag daß recht zuverbannen/wie hoch vnd wie thewr.
+  cs: |-
+    Za sedmé se tě ptám: kdyby dnes přišla nepohoda nebo déšť, mohu-li spolu s vámi zasednout pod střechu, aby soudní kniha {Gerichts bůch} neutrpěla škodu a aby se do ní dalo řádně zapsat vše, co k soudu náleží. Ptám se tě také, mám-li po této otázce {vmbfrag} moc zahájit soud {recht zuverbannen}, a pod jakou pokutou[^1].
+- typ: odstavec
+  de: |-
+    Antwort: Herr Schultheyß jr habt mich gefragt meinen Eyd/daß ich euch sol ein außweisung geben der sachen/So sag ich ob sollich vngewitter anfiele/daß jhr macht habt/wann es noch bey gůter tag zeit ist/mit sampt vns Richtern auffzustehen/vnd vnter ein obtach sitzen/damit das Gerichtsbůch bey seinen wirden bleiben mag/vnnd der Gerichtschreiber sein ding dester füglicher hab zuschreiben/Jr habt auch macht vnnd gewalt das Recht zuverbannen/auff solche vmbfrag bey einem gülden inn gold.
+  cs: |-
+    Odpověď: Pane rychtáři, ptali jste se mě při mé přísaze, abych vám v té věci dal nález. Pravím tedy: kdyby taková nepohoda přišla, máte moc, je-li ještě dobrá denní doba, vstát spolu s námi, přísedícími {Richtern}, a zasednout pod střechu, aby soudní kniha zůstala v náležité vážnosti a soudní písař {Gerichtschreiber} mohl své věci tím pohodlněji zapisovat. Máte také moc a právo po této otázce zahájit soud pod pokutou jednoho zlatého ve zlatě.
+- typ: odstavec
+  de: |-
+    Antwort der Schultheyß/dieweil nun erkennt ist worden durch die Richter alles das inn vnser Keyserlich Recht dienet/So wil ich das Recht verbannen in dem namen Gottes.
+  cs: |-
+    Rychtář odpovídá: Když tedy přísedící nalezli vše, co náleží k našemu císařskému soudu {Keyserlich Recht}, chci soud zahájit ve jménu Božím.
+- typ: nadpis
+  uroven: 3
+  de: Folgen die verbannung deß Rechten.
+  cs: Následuje zahájení soudu {verbannung deß Rechten}
+- typ: odstavec
+  de: |-
+    ANfencklich verbann ich das Recht vonn wegen Gottes Allmechtigen/vonn dem alle ding den rechten vrsprung hat/daß mir niemands wölle einreden/im Rechten noch auß dem Rechten/sonder durch seinen erlaubten Fürsprechen/bey straff eins güldins.
+  cs: |-
+    Předně zahajuji soud jménem všemohoucího Boha, od něhož mají všechny věci svůj pravý původ: ať mi nikdo neskáče do řeči, u soudu ani mimo soud, leda skrze svého povoleného řečníka {Fürsprechen}, pod pokutou jednoho zlatého.
+- typ: odstavec
+  de: |-
+    Zum andern verbann ich das Recht/durch den Durchleuchtigen/großmechtigsten HErrn/HErrn Carolum den fünfften Römischen Keysern vnsern aller gnedigsten HErren.
+  cs: |-
+    Za druhé zahajuji soud jménem nejjasnějšího, nejmocnějšího pána, pana Karla Pátého {Carolum den fünfften}[^2], římského císaře, našeho nejmilostivějšího pána.
+- typ: odstavec
+  de: Zum dritten verbann ich das Recht durch den Durchleuchtigen/
+  cs: Za třetí zahajuji soud jménem jasného,
+poznamky:
+- n: 1
+  text: |-
+    „wie hoch vnd wie thewr“ – doslova „jak vysoko a jak draze“, tj. pod jakou pokutou smí rychtář zakázat rušení soudu. Zahájení (verbannen) znamenalo vyhlásit soudní mír pod pokutou.
+- n: 2
+  text: |-
+    Karel V. (1500–1558), římský císař 1519–1556. Formulář soudního řádu pochází z jeho doby; v roce vydání (1564) vládl již Ferdinand I. (zemř. 1564) a Maxmilián II.
