@@ -58,6 +58,18 @@ Nová kniha: vytvoř `knihy/<id>/` se stejnou strukturou (kniha.yaml, glosar.yam
 - **hledání** v překladu i originálu bez ohledu na diakritiku,
 - **PDF** (`#/tisk`): výběr kapitol nebo rozsahu stran, jen překlad / originál + překlad, tisk přes „Uložit jako PDF“.
 
+## Verzování webu
+Číslo verze je v `projekt.yaml` (pole `verze`) a zobrazuje se v patičce všech stránek. Formát MAJOR.MINOR.PATCH,
+první vydaná verze 1.0.0. Po změně verze spusť `python -I nastroje/build.py`.
+
+| Číslo | Kdy zvýšit | Příklad |
+|---|---|---|
+| třetí (PATCH) | opravy překladu a drobné úpravy | 1.0.0 → 1.0.1 |
+| druhé (MINOR) | nová funkce webu nebo větší část ověřená člověkem | 1.0.1 → 1.1.0 |
+| první (MAJOR) | nová kniha nebo zásadní přestavba | 1.1.0 → 2.0.0 |
+
+Při zvýšení vyššího čísla se nižší nulují (1.2.3 → 1.3.0 → 2.0.0).
+
 ## Zdroje
 - Fronsperger, *Kriegs Ordnung vnd Regiment*, Frankfurt a. M. 1564 (VD16 F 3130). Sken: Bayerische Staatsbibliothek
   München, 2 Polon. 9#Beibd.1, [bsb00045899](https://www.digitale-sammlungen.de/de/view/bsb00045899) (úplný sken; starší digitalizace bsb10150061 a Google Books vynechávají listy XXXVIII v–XXXIX r, LVIII v–LIX r a LXVIII v–LXIX r) – rightsstatements.org NoC-NC 1.0.

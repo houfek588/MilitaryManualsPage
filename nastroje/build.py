@@ -68,7 +68,8 @@ def staticka_stranka(sablona, knihy=None):
             if P.get('repozitar') else '')
     paticka = (f'<a href="index.html">Knihovna</a> · <a href="o-projektu.html">O projektu</a> · '
                f'{esc(P["autor"])}, <a href="mailto:{esc(P["email"])}">{esc(P["email"])}</a> · '
-               f'pro skupinu <a href="{esc(sk.get("url"))}" target="_blank" rel="noopener">{esc(sk.get("nazev"))}</a>')
+               f'pro skupinu <a href="{esc(sk.get("url"))}" target="_blank" rel="noopener">{esc(sk.get("nazev"))}</a> · '
+               f'<span class="verze">verze {esc(P.get("verze"))}</span>')
     t = (WEB / sablona).read_text(encoding='utf-8')
     for k, v in {'{{WEB}}': esc(P['nazev']), '{{PODTITUL}}': esc(P.get('podtitul')), '{{AUTOR}}': esc(P['autor']),
                  '{{EMAIL}}': esc(P['email']), '{{SKUPINA}}': esc(sk.get('nazev')), '{{SKUPINA_URL}}': esc(sk.get('url')),
@@ -217,9 +218,10 @@ def build_kniha(kniha_dir):
     html = html.replace('{{NAZEV}}', meta['nazev']).replace('{{AUTOR}}', meta['autor']).replace('{{ROK}}', str(meta['rok']))
     html = html.replace('{{WEB}}', esc(PROJEKT['nazev'])).replace('{{EMAIL}}', esc(PROJEKT['email']))
     html = html.replace('{{SOCIALNI}}', socialni_html())
+    html = html.replace('{{VERZE_WEBU}}', esc(PROJEKT.get('verze')))
     html = html.replace('{{PREDMET}}', urllib.parse.quote(f"{meta['nazev']} – oprava"))
     (out / 'index.html').write_text(varovani(html, 'nastroje/web/kniha.html (texty knihy v knihy/<kniha>/)'), encoding='utf-8')
-    print(f"{meta['id']}: {len(pages)} stran (ověřeno člověkem {data['overeno']}), {len(blocks)} bloků, {len(sections)} oddílů, {len(hesla)} hesel, data.js {len(js) // 1024} kB, {stats}")
+    print(f"web {PROJEKT.get('verze')} · {meta['id']}: {len(pages)} stran (ověřeno člověkem {data['overeno']}), {len(blocks)} bloků, {len(sections)} oddílů, {len(hesla)} hesel, data.js {len(js) // 1024} kB, {stats}")
     return dict(id=meta['id'], nazev=meta['nazev'], nazev_orig=meta['nazev_orig'], autor=meta['autor'], rok=meta['rok'],
                 popis=meta.get('popis', ''), stav=stats, stran=len(pages), overeno=data['overeno'])
 
