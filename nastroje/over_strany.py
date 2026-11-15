@@ -30,6 +30,7 @@ def main():
     glos = yaml.safe_load((kniha / 'glosar.yaml').read_text(encoding='utf-8'))
     zakaz = [(re.compile(r'\b' + re.escape(x) + r'\b', re.I), h['cs']) for h in glos['hesla'] for x in h.get('nepouzivat', [])]
     files = [kniha / 'strany' / f'{i}.yaml' for i in ids] if ids else sorted((kniha / 'strany').glob('*.yaml'))
+    ocr = not (kniha / 'zdroje' / 'dta').exists()   # u ručního přepisu (DTA) kontrola chyb OCR nedává smysl
     n_err = n_warn = 0
     for f in files:
         errs, warns = [], []
@@ -98,7 +99,7 @@ def main():
                     m = rx.search(ct_bez)
                     if m:
                         warns.append(f'blok {k}: „{m.group(0)}“ → podle glosáře „{spr}“')
-            if re.search(r'\bf(oll|ift|ein)\b', text_of(de)):
+            if ocr and re.search(r'\bf(oll|ift|ein)\b', text_of(de)):
                 warns.append(f'blok {k}: v de možná chyba OCR (foll/ift/fein)')
         notes = {int(n['n']) for n in d.get('poznamky') or []}
         if refs - notes:

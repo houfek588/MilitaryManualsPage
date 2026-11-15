@@ -1,0 +1,67 @@
+id: '013'
+list: '13'
+strana: recto
+sken: 47
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Man machet meistentheils den Wal nach der breite des Grabens/ alß von 24. biß in 28. schuh: die tieffe des Grabens 6. schuh: der Wal 4. schuh hoch: die Brustwehr 15. schuh dick vnd 6. schuh hoch: darvon laßt man einen berm oder fuß von 4. schuh breit: wo es aber noht thete/ machet man vnden gar keinen Wal/ sonder nur ein Brustwehr von 24. schuh/ vnd 6. schuh in die höhe mit einem Banck: Es soll auch besagter Hornwerck seiten oder stirnen/ oder gesichtlinien nicht kürtzer alß 12. ruhten fallen.
+  cs: |-
+    Val {Wal} se většinou dělá podle šířky příkopu, totiž od 24 do 28 stop {schuh}; hloubka příkopu 6 stop; val 4 stopy vysoký; předprseň {Brustwehr} 15 stop silná a 6 stop vysoká; od ní se nechá berma {berm} neboli patka široká 4 stopy. Bylo-li by to však nutné, nedělá se dole vůbec žádný val, nýbrž jen předprseň 24 stop [silná] a 6 stop vysoká se střeleckým stupněm {Banck}. Ani strany čili čela neboli čelní linie {gesichtlinien} uvedeného hornwerku {Hornwerck} nemají vyjít kratší než 12 prutů {ruhten}.
+- typ: nadpis
+  uroven: 2
+  de: Von den halben Mönen.
+  cs: O půlměsících {halben Mönen}
+- typ: nadpis
+  uroven: 3
+  de: Wie ein halber Mon beschaffen seyn solle.
+  cs: Jak má být půlměsíc zřízen
+- typ: odstavec
+  de: |-
+    Dieselbigen seind spitzig zugeführt: man leget sie meistentheils gegen der Porten vber: Jtem/ für gar zu spitzige vnd schwache Pasteyen: Jtem/ für ein Courtine, wo die Pasteyen weit von einanderligen. Die Gesichtlinien aber werden von 20. ruhten gemachet/ wie die Hornwerck.
+  cs: |-
+    Jsou vedeny do špice.[^1] Kladou se většinou naproti branám; dále před příliš špičaté a slabé bašty {Pasteyen}; rovněž před kurtinu {Courtine}, kde bašty leží daleko od sebe. Čela {Gesichtlinien} se však dělají po 20 prutech, stejně jako u hornwerků.
+- typ: nadpis
+  uroven: 3
+  de: Was die Cronwerck seyen.
+  cs: Co jsou korunní díla {Cronwerck}
+- typ: odstavec
+  de: |-
+    Es seind Werck/ so mit langen seiten ins Feld gesetzt werden/ in form eines Hornwercks/ das vornen weit vnd hinden eng ist/ mit einem/ zweyen/ oder mehr Bollwercken in der mitte/ vnd mit zweyen halben an der seiten: werden auff die höhe eines bergs für die Courtine vnd Bollwerck gelegt/ nach dem es die gelegenheit gibt/ etc.
+  cs: |-
+    Jsou to díla, která se dlouhými stranami vysouvají do pole v podobě hornwerku, vpředu široká a vzadu úzká, uprostřed s jednou, dvěma či více baštami {Bollwercken} a po stranách se dvěma polobaštami. Kladou se na návrší před kurtinu a bašty, podle toho, jak to dovoluje poloha atd.
+- typ: odstavec
+  de: |-
+    Vnd so vil seye von einer Vestung vnd derselbigen jnner- vnd ausseren Wercken geredt. Nun folget/ was weiters zur bevestigung einer Statt dienstlich. Namlich:
+  cs: |-
+    Tolik budiž řečeno o pevnosti {Vestung} a jejích vnitřních i vnějších dílech. Nyní následuje, co dále slouží k opevnění města, totiž:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Von Stagketen/ Palissaden/ Sturmhäsplen/ Schantzkörben/ vnd anderen dingen.
+  cs: |-
+    O kůlových plotech {Stagketen}, palisádách {Palissaden}, útočných kozlicích {Sturmhäsplen}, šancovních koších {Schantzkörben} a jiných věcech
+- typ: nadpis
+  uroven: 3
+  de: Was die Stagketen seyen/ vnd wie sie gemacht werden sollen.
+  cs: Co jsou kůlové ploty a jak se mají dělat
+- typ: odstavec
+  de: |-
+    Man bereitet starcke viereckige höltzer oder balcken/ welche vngefahr 5. oder 6. daumen auff einer seiten haben/ 12. oder 14. schuh lang/ die setzet man vngefahr einen halben schuh weit von einander: oben durch seind auch zween balcken/ so die Stagketen zusammen fügen vnd halten: es seind auch noch stärckere balcken/ zum fundament/ daran zween/ zwüschen der lägerbalcken/ vnd den zweyen vnder lägerbalcken angemachet seind: vnd damit die Stagketen weder hinder-noch fürsich sincken oder weichen/ so wird es dahinden mit guten sparren gestützet.
+  cs: |-
+    Připraví se silná čtyřhranná dřeva neboli trámy, asi 5 nebo 6 palců {daumen} na každé straně a 12 nebo 14 stop dlouhé, a ty se stavějí asi půl stopy od sebe. Nahoře jimi procházejí také dva trámy, které kůlový plot spojují a drží pohromadě. Jako základ jsou tu ještě silnější trámy, na nichž jsou připevněny dva [trámy] mezi ležatým trámem {lägerbalcken} a dvěma spodními ležatými trámy. A aby se kůlový plot nenakláněl ani neustupoval dozadu ani dopředu, podepře se zezadu dobrými vzpěrami.
+- typ: nadpis
+  uroven: 3
+  de: Worzu die Stagketen diensilich seyen?
+  cs: K čemu jsou kůlové ploty užitečné?
+- typ: odstavec
+  de: |-
+    Sie seind treffenlich gut für alle Werck/ vnd werden auff den Berm aller Wercken kommlich: jnsonderheit für die aussersten Porten/ für das Wachthauß gesetzet/ fürauß wo ein Vestung am Wasser stehet/ vnd man mit
+  cs: |-
+    Jsou znamenitě dobré pro všechna díla a hodí se na bermu všech děl; zvláště se stavějí před nejzazší brány a před strážnici, především tam, kde pevnost stojí u vody a kde by se dalo
+poznamky:
+- n: 1
+  text: Na s. 12 klade Lavater „Ravelein oder halbe Mönen“ na roveň; zde popisuje půlměsíc zvlášť jako dílo vybíhající do špice před branou, slabou baštou nebo dlouhou kurtinou. Překládáme doslova „půlměsíc“; věcně jde o ravelin (viz glosář).

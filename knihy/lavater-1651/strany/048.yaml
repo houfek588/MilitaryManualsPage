@@ -1,0 +1,32 @@
+id: '048'
+list: '48'
+strana: verso
+sken: 82
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Naeh demselbigen soll jhnen gebotten vnd vorgelesen werden.
+  cs: Nato jim má být přikázáno a předčteno [následující].
+- typ: odstavec
+  de: |-
+    Es soll ein jeder all vnzimliche böse schwür meyden/ vnd niemands mit zutrincken nöhtigen/ noch spilen/ sondern sich in allweg gottsförchtig halten/ der ehrbarkeit vnd bescheidenheit gegen meniglichem befleissen/ aller üppigkeit vnd leichtfertigkeit müssigen/ alles bey gebürender ernstlicher straaff/ damit Gott der Herr desto mehr sägens darzu verleyhe. Es soll sich auch kein Knecht mit seinem Marckitanter/ Arbeiter an der Schantz/ noch anderen/ so auff Bäw vnd Fortificieren bescheiden/ mit keinem gezänck/ balgen/ spilen/ schelten/ noch mit anderem vnlust/ mit worten oder wercken eynlassen/ sondern was einer an den anderen zu sprechen/ soll er vor seiner geordneten Oberkeit außtragen/ bey sonderlicher straaff. Jnsonderheit soll keiner in der Besatzung balgen/ noch einig gewehr zucken/ bey Leibsstraaff. Es soll auch keiner vnd insonders bey besetzter Wacht einig geschrey machen/ noch spil thun oder gehen lassen. Sie sollen auch gut achtung auff fewr vnd liecht geben/ bey hoher straaff. Jtem: Es soll kein Kriegsmann/ so auff einer Wacht/ keinen Marckitänter/ Proviantführer/ Bawren/ Burgersweiber/ junge oder alte Leuth/ so in der Besatzung nicht wohnen/ weder zu Roß noch fuß hineyn in die Vestung vnangezeigt lassen Jtem: Es soll niemands frömbder auff die Wäl zu gehen vergunnet werden/ bey hoher straaff. Es soll auch keiner etwas fürkauffen/ sondern die Proviant auff den Marckt kommen lassen/ vnd keinem Marckitänter oder Eynwohner leid oder vngemach zufügen/ bey hoher straaff: auch die Losamenter sampt den spraach- vnd anderen häuseren rein vnd sauber gebrauchen vnd halten/ damit kein gestanck erfolge/ bey hoher straaff. Vnd da bey nächtlicher weil ein fewr oder dergleichen vnrhn entstünde/ soll ein jeder mit seinem Oberwehr seinem Fahnen zulauffen/ vnd die jenigen/ so auff vnd zu dem fewr bescheiden/ vnverhinderet lassen: die nechsten aber/ so das fewr bey jhren Losamentern betrifft/ mögen löschen helffen/ vnd darbey/ biß es gar gedempt/ verbleiben.
+  cs: |-
+    Každý se má vyvarovat všeho nepatřičného a zlého klení, nikoho nenutit k pití připíjením {zutrincken} ani nehrát [hazardní hry], nýbrž se ve všem chovat bohabojně, ke každému se snažit o počestnost a skromnost a zdržet se veškeré prostopášnosti a lehkomyslnosti, to vše pod náležitým přísným trestem, aby k tomu Pán Bůh tím více požehnal. Žádný knecht {Knecht} se také nesmí se svým markytánem {Marckitanter}, s dělníkem na šanci {Schantz} ani s jinými, kdo jsou určeni ke stavbám a opevňování, pouštět do hádek, rvaček, hry, nadávek ani do jiných nepřístojností, slovy ani skutky; co má kdo proti druhému, to má vyřídit před svou ustanovenou vrchností, pod zvláštním trestem. Zvláště se nikdo v posádce {Besatzung} nesmí rvát ani tasit jakoukoli zbraň, pod tělesným trestem. Nikdo také, a zvláště když je stráž rozestavena, nesmí dělat žádný křik ani hrát nebo hru dovolit. Mají také dávat dobrý pozor na oheň a světlo, pod vysokým trestem. Dále: Žádný válečník, který stojí na stráži, nesmí bez ohlášení vpustit do pevnosti {Vestung} žádného markytána, vozku s proviantem, sedláka, měšťanské ženy ani mladé či staré lidi, kteří v posádce nebydlí, ať jedou na koni, nebo jdou pěšky. Dále: Nikomu cizímu se nesmí dovolit vstupovat na valy {Wäl}, pod vysokým trestem. Nikdo také nesmí nic skupovat předkupem {fürkauffen}, nýbrž má nechat proviant přijít na trh, a nesmí žádnému markytánovi ani obyvateli způsobit křivdu nebo nesnáz, pod vysokým trestem; také mají ubytování {Losamenter} i záchody[^1] a jiné domky užívat a udržovat v čistotě, aby nevznikal zápach, pod vysokým trestem. A kdyby v noci vznikl oheň nebo podobný nepokoj, má každý se svou hlavní zbraní {Oberwehr}[^2] běžet ke své korouhvi {Fahnen} a nepřekážet těm, kdo jsou k ohni určeni; nejbližší však, jichž se oheň u jejich ubytování týká, mohou pomáhat hasit a zůstat u toho, dokud nebude docela uhašen.
+- typ: nadpis
+  uroven: 2
+  de: Ordinantz der Marckitänter vnd Eynwohner.
+  cs: Řád pro markytány a obyvatele.
+- typ: odstavec
+  de: |-
+    Die Marckitänter vnd Eynwohner/ so nicht in sonderlicher pflicht der Soldaten seind/ sollen einen leiblichen Eyd zu Gott dem Herren schweeren/ dem Burgermeister vnd Raht der Statt N. getrew vnd hold zu seyn/ dero schaden zu wahrnen/ nutzen vnd frommen zu fürderen/ vnd thun was frommen Vnderthanen gebürt: was nachtheil aber sie etwan vernemmen/ oder verdächtlicher Personen gewahr wurden/ daß sie solches dem Obersten vnd jhnen selbst zu gutem wöllen kundt thun. Sie sollen auch dem Obersten oder desselbigen Nachgegebnen in allen botten vnd verbotten gehorsam seyn: Vnd so man sie zu der nohtdurfft der Besatzung erforderen möchte/ sich neben anderen getrewlich brauchen lassen. Jtem: Es soll ein jeder sein Gesind/ was/ oder
+  cs: |-
+    Markytáni {Marckitänter} a obyvatelé, kteří nejsou vázáni zvláštní povinností vojáků, mají Pánu Bohu složit tělesnou přísahu {leiblichen Eyd}[^3], že budou purkmistrovi a radě města N. věrni a oddáni, budou je varovat před škodou, hájit jejich užitek a prospěch a činit, co náleží řádným poddaným; a dozvědí-li se o nějaké újmě nebo spatří-li podezřelé osoby, že to oznámí plukovníkovi {Obersten}, i sobě samým k dobru. Mají také plukovníka nebo jeho zástupce poslouchat ve všech příkazech a zákazech, a budou-li povoláni pro potřeby posádky, mají se dát spolu s ostatními věrně použít. Dále: Každý má svou čeleď {Gesind}, co nebo
+poznamky:
+- n: 1
+  text: V originále „spraach-häuser“ – Sprachhaus, doslova „hovorna“, dobový eufemismus pro záchod.
+- n: 2
+  text: Oberwehr – dlouhá zbraň (mušketa, píka), na rozdíl od boční zbraně (kordu); srov. s. 40.
+- n: 3
+  text: Leiblicher Eid – přísaha složená osobně, se zdviženými prsty, na rozdíl od pouhého slibu.

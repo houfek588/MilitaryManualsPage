@@ -1,0 +1,45 @@
+id: '020'
+list: '20'
+strana: verso
+sken: 54
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: 'Ander Theil/ Des Kriegsbüchleins: Von einer Besatzung.'
+  cs: 'Druhý díl Válečné knížky: O posádce {Besatzung}'
+- typ: nadpis
+  uroven: 2
+  de: Was ein Besatzung seye.
+  cs: Co je posádka
+- typ: odstavec
+  de: |-
+    SJe ist ein Ort oder Platz/ so zu seiner erhalt- vnd beschirmung mit Soldaten besetzet/ vnd mit allerley Kriegs-nohtdurfft vnd Proviant versehen wirdt.
+  cs: |-
+    Je to místo čili stanoviště, které je k svému udržení a ochraně obsazeno vojáky a opatřeno všelikými válečnými potřebami a proviantem {Proviant}.
+- typ: nadpis
+  uroven: 2
+  de: Worinn fürnemlich ein Besatzung bestehe.
+  cs: V čem především spočívá posádka
+- typ: odstavec
+  de: |-
+    Sie bestehet fürnemlich in disen fünff stücken: 1. in dem Volck: 2. in einer guten anzahl klein- vnd grossem Geschütz: 3. in der vile der Proviant: 4. in versehung der Munition-Rüst- vnd Zeughäuseren: vnd dann zum 5. in dem Gelt. Diß seind die fünff fürnembsten Hauptstück einer Besatzung/ da dann keins ohne das ander bestehen mag: doch soll alles nach beschaffenheit der Vestung/ vnd nach dem der Feind starck ist/ gerichtet werden.
+  cs: |-
+    Spočívá především v těchto pěti kusech: 1. v lidech {Volck}; 2. v dobrém počtu malých i velkých děl {Geschütz}; 3. v hojnosti proviantu; 4. v zásobení muničních skladů, zbrojních komor a zbrojnic {Munition- Rüst- vnd Zeughäuseren}; a konečně za 5. v penězích. To je pět nejpřednějších hlavních kusů posádky, z nichž žádný nemůže obstát bez ostatních; vše však má být zařízeno podle povahy pevnosti {Vestung} a podle toho, jak silný je nepřítel.
+- typ: nadpis
+  uroven: 2
+  de: Wie vilerley gattung Volcks man in einer Besatzung von nöhten habe.
+  cs: Kolik druhů lidí je v posádce zapotřebí
+- typ: odstavec
+  de: |-
+    Jn einer Besatzung ist das meiste gelegen an Gottsförchtigen/ frommen/ getrewen vnd redlichen Amptleuthen: Alß da seind/ ein Gottsförchtiger/ getrewer/ hochverständiger/ gar nicht geitziger/ sondern in Kriegshändlen wolgeübter Gubernator oder Oberster/ sein Leutenampt/ der Commandant/ der Oberst Wachtmeister oder Sergeant Major/ vnd desselbigen Leutenampt/ der Vnder-Wachtmeister oder Vnder-Major oder Adjutant/ drey gute Jngenieurs/ Proviantmeister oder Commissarij des Viures/ ein Zeugherr/ ein Adjutor/ Schultheiß oder Blutrichter/ ein Oberst Schreiber/ der die Cantzley regiert/ ein Brandmeister/ die Predicanten. Darnach die Hauptleuth zu Pferd oder Rittmeister/ die Hauptleuth zu Fuß/ Leutenampt/ Cornet oder Fendrich zu Pferd/ die Fendrich zu Fuß/ Quartier-Wagen- Wacht- Büchsen- Wal- Minen- Rüst- vnd Rottmeister. Die Gefreyten/ Constabel/ Fewrspeutzer/ Musquetier- oder Schützen/ Spießknecht/ Hellepartier/ Arquibusier- oder Schützenreuter/ Currassier- oder Kürassierreuter/ Profosen/ Marckitänter/ Trabanten/ Fuhrleuth/ Stockmeister/ Steckenknecht/ Scharpffrichter/ etc. Jtem/ für die krancken/ Doctor/ Wundartzet/
+  cs: |-
+    V posádce nejvíce záleží na bohabojných, řádných, věrných a poctivých úřednících {Amptleuthen}. Jsou to: bohabojný, věrný, vysoce rozumný, nijak lakomý, nýbrž ve válečných věcech dobře zběhlý guvernér {Gubernator} neboli plukovník {Oberster}; jeho poručík {Leutenampt}, [totiž] komandant {Commandant}; nejvyšší vachmistr {Oberst Wachtmeister} neboli seržant major {Sergeant Major} a jeho poručík, [totiž] podvachmistr {Vnder-Wachtmeister} neboli podmajor či adjutant {Adjutant}; tři dobří inženýři {Jngenieurs}; proviantmistři {Proviantmeister} neboli komisaři pro potraviny {Commissarij des Viures}; zbrojní pán {Zeugherr}; adjutor {Adjutor};[^1] rychtář {Schultheiß} neboli hrdelní soudce {Blutrichter}; nejvyšší písař, který řídí kancelář; požární mistr {Brandmeister}; kazatelé {Predicanten}. Dále hejtmani jízdy {Hauptleuth zu Pferd} neboli rytmistři {Rittmeister}, hejtmani pěchoty, poručíci, korneti {Cornet} neboli jízdní praporečníci, pěší praporečníci {Fendrich}; kvartýrmistři, vozmistři, vachmistři, puškaři, mistři valu, mistři min, mistři zbrojní komory a rotmistři {Quartier-Wagen- Wacht- Büchsen- Wal- Minen- Rüst- vnd Rottmeister}. Svobodníci {Gefreyten}, konstáblové {Constabel}, ohňostrůjci {Fewrspeutzer},[^2] mušketýři {Musquetier} neboli střelci, pikenýři {Spießknecht}, halapartníci {Hellepartier}, arkebuzíři {Arquibusier} neboli jízdní střelci, kyrysníci {Currassier}, profousové {Profosen}, markytáni {Marckitänter}, drabanti {Trabanten}, vozkové {Fuhrleuth}, žalářníci {Stockmeister}, profousovi pacholci {Steckenknecht}, kati {Scharpffrichter} atd. Dále pro nemocné lékař {Doctor}, ranhojič {Wundartzet},
+poznamky:
+- n: 1
+  text: |-
+    Adjutor – pomocník (snad zbrojního pána nebo guvernéra); přesný význam úřadu z textu nevyplývá.
+- n: 2
+  text: |-
+    Fewrspeutzer („chrliči ohně“) – vojáci obsluhující ohňostroje, granáty a zápalné koule.

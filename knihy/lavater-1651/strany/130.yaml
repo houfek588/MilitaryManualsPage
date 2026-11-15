@@ -1,0 +1,33 @@
+id: '130'
+list: '130'
+strana: verso
+sken: 176
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ten verdeckt haben. Man solle auch dem Feind mit Fewerwerck vnd grossen Granaten tag vnd nacht starck zusetzen/ vnd in seinem näst also warm vnd bang machen/ daß er nicht weißt wo er sich wenden vnd wehren solle.
+  cs: |-
+    mít kryta. Nepříteli se má také dnem i nocí silně dotírat ohňostroji {Fewerwerck} a velkými granáty a v jeho hnízdě mu má být tak horko a úzko, aby nevěděl, kam se obrátit a jak se bránit.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wie man sich nach der Bresche verhalten solle.
+  cs: Jak si počínat, když je proražen průlom.
+- typ: odstavec
+  de: |-
+    Erstlich/ nach dem man alle Regimenter im gantzen Läger auffgemahnet/ vnd in Battaille gestellt/ auch etliche Compagnien zu Ross vnd Fůß zum sturm commandiert hat/ so solle man/ nach dem die Bresche gemachet/ mit Musqueten/ Fewerwerck/ Handgranaten starck von allen orten in die Vestung spielen/ auch auff die Brustwehrinen des Wals mit Stücken vnd Musqueten vnnachläßlich schiessen/ vnd vornen raumen: darauff fallt man an vnderschiedlichen orten an mit einem grausamen geschrey/ vnd da man die Stück von der Vestung Batterey loß brennt/ fallt das Volck auff die Erden/ damit das geschoß vber sie hin gehe: es haben auch alle Musquetierer vnd Pickenierer jhre Sturmhauben auff den köpffen/ auch die vordersten schuh/ so mit eysen bläch beschlagen seind/ an/ so gut für die fůßängel seind: dise müssen dergleichen spitzige sachen auß dem weg raumen: man stellet die Sturmleiteren an/ vnd wirfft allerley Fewrwerck eyn: vnd da der Feind also an allen orten zu wehren/ vnd man jhme einen Stand vnd Wehre eyngenommen/ soll man jhme kein vbrige zeit lassen/ vnd starck an allen orten der Vestung lermen machen vnd stürmen: Es soll auch hinder dem Volck die Reuterey mit blossen Wehren halten/ vnd dasselbig zum stürmen antreiben/ vnd etliche Reuter mit jhren Dägen vnd Pistolen mit anlauffen/ vnd dem stärcksten hauffen zueylen/ auff das Geschütz vnd zu den Porten dringen/ vnd sehen daß man sich derselbigen bemächtigen/ die Porten auffschlagen/ vnd dem meisten Gewaltshauffen einen zugang in die Vestung machen: wo man nun die Statt eroberet/ so soll allem vnstreitbarem Volck verschonet/ vnd die Kirchen bewahret werden/ daß denselben kein vnheyl widerfahre: wann man aber wider verhoffen zu ruck vnd vom Sturm abgeschlagen wurde/ so soll man nicht nachlassen/ vnd widerumb auffs new anfallen vnd angreiffen: käme es aber darzu daß man parlamentierte/ so soll man geysel gegen einander schicken vnd fleissig zusehen/ daß die Vestung nicht vnderhölet/ oder sonsten gefahrliche Sachen gelegt seyen: man solle auch eh der Feind außzeucht/ deß ersten etliche Compagnien hineyn schicken/ die ort ein stund oder etlich zuvor eynnemmen vnd visitieren: im vbrigen aber soll man sich durchauß/ wie du im anderen Theil meines Kriegsbüchleins vast zu end/ gesehen hast/ verhalten.
+  cs: |-
+    Nejprve, když se všechny pluky v celém ležení svolají a postaví do bitevního šiku {Battaille} a několik jízdních a pěších kompanií se určí k útoku {sturm}, má se po proražení průlomu {Bresche} ze všech stran silně pálit do pevnosti z mušket, ohňostroji a ručními granáty, na předprsně {Brustwehrinen} valu bez ustání střílet z děl a mušket a vyčistit je vpředu. Potom se na různých místech udeří s hrozným křikem, a když z baterie pevnosti vypálí děla, padnou lidé na zem, aby střely přeletěly přes ně. Všichni mušketýři i pikenýři mají také na hlavách přilby {Sturmhauben} a ti vpředu mají na nohou boty okované železným plechem, které jsou dobré proti nášlapným ježkům {fůßängel}; ti musejí takové špičaté věci odklízet z cesty. Přistaví se útočné žebříky a dovnitř se hází všelijaký ohňostroj. A když se nepřítel takto musí bránit na všech místech a když se mu dobude některé postavení a obranné dílo, nemá se mu nechat ani chvíle navíc a na všech místech pevnosti se má silně dělat poplach a útočit. Za pěšími má také stát jízda s tasenými zbraněmi a hnát je do útoku; několik jezdců s kordy a pistolemi má s nimi vyrazit, přispěchat k nejsilnějšímu houfu, prodrat se k dělům a k branám, hledět se jich zmocnit, brány vyrazit a otevřít hlavnímu útočnému houfu {Gewaltshauffen} přístup do pevnosti. Když se pak město dobude, má se ušetřit všechen nebojující lid a mají se chránit kostely, aby se jim nestalo nic zlého. Kdyby však byl útok proti očekávání odražen, nemá se polevit, nýbrž znovu udeřit a zaútočit. Kdyby však došlo k vyjednávání {parlamentierte}, mají se vzájemně vyměnit rukojmí a pilně dohlédnout, aby pevnost nebyla podkopána ani v ní nebyly nastraženy jiné nebezpečné věci. Než nepřítel vytáhne, mají se také nejprve poslat dovnitř některé kompanie, aby místa hodinu či několik hodin předem obsadily a prohlédly. Ve všem ostatním se však má postupovat zcela tak, jak jsi viděl téměř na konci Druhého dílu mé Válečné knížky.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wie man widerumb auffbrechen solle.
+  cs: Jak se má opět vytáhnout z ležení.
+- typ: odstavec
+  de: |-
+    So bald man auffzubrechen bedacht ist/ soll man in die eyngenommene Vestungein starcke Besatzung legen/ vnd die ruinierten Ort widerumb reparieren/ mit Proviant/ Geschütz vnd Munition/ sampt allen nohtwendig-
+  cs: |-
+    Jakmile se pomýšlí na vytažení, má se do dobyté pevnosti vložit silná posádka {Besatzung}, pobořená místa se mají opět opravit a [pevnost] se má zásobit proviantem, děly a municí i všemi

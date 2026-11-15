@@ -1,0 +1,145 @@
+id: '083'
+list: '83'
+strana: recto
+sken: 129
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Kurtzer Befelch/ wann die Musquetierer allbereit die handgriff erlehrnet haben.
+  cs: Krátké povely, když se už mušketýři naučili chvaty
+- typ: seznam
+  de:
+  - '1. Machet euch fertig zum schiessen.'
+  - '2. Schlaget an.'
+  - '3. Gebet fewr.'
+  - '4. Auff die seiten rechts/ oder lincks: oder recht vnd lincks auff beyde seiten/ abtretten.'
+  - '5. Den Lunden abgenommen.'
+  - '6. Lüderet auff/ vnd ladet.'
+  - '7. Leget die Musqueten auff die Achßlen/ vnd hencket euch widerumb hinden oder vornen an.'
+  cs:
+  - '1. Připravte se ke střelbě.'
+  - '2. Zaličte.'
+  - '3. Palte.'
+  - '4. Odstoupit stranou vpravo nebo vlevo, anebo vpravo i vlevo na obě strany.'
+  - '5. Doutnák {Lunden} sejmout.'
+  - '6. Otevřete [nálože] {Lüderet auff}[^1] a nabijte.'
+  - '7. Položte mušketu {Musqueten} na rameno a zařaďte se zase vzadu nebo vpředu.'
+- typ: nadpis
+  uroven: 3
+  de: Befelch/ wo man ein Squadron/ fewr geben/ abtretten/ widerumb laden/ vnd sich anhencken laßt.
+  cs: Povely, když se nechává švadrona {Squadron}[^3] pálit, odstoupit, znovu nabít a zařadit se
+- typ: seznam
+  de:
+  - '1. Machet euch fertig zum schiessen.'
+  - '2. Das erste glid herfür trette.'
+  - '3. Blaset den Lunden ab.'
+  - '4. Offnet die Pfannen.'
+  - '5. Gebet fewer.'
+  - '6. Lincks oder rechts: oder lincks vnd rechts/ abgetretten/ den Lunden abgenommen.'
+  - '7. Stellt euch widerumb hinden an.'
+  - '8. Lüderet vnd ladet.'
+  cs:
+  - '1. Připravte se ke střelbě.'
+  - '2. První řada {glid} vpřed.'
+  - '3. Ofoukněte doutnák.'
+  - '4. Otevřete pánvičku.'
+  - '5. Palte.'
+  - '6. Vlevo nebo vpravo, anebo vlevo i vpravo odstoupit, doutnák sejmout.'
+  - '7. Zařaďte se zase vzadu.'
+  - '8. Otevřete [nálože] a nabijte.'
+- typ: nadpis
+  uroven: 3
+  de: Wo man sich salvieren will.
+  cs: Když se [šik] chce dostat do bezpečí
+- typ: seznam
+  de:
+  - '1. Machet euch alle zugleich mit einanderen zum schiessen fertig.'
+  - '2. Rechts oder lincks vmb kehri euch.'
+  - '3. Ziehet vom Feind ab.'
+  - '4. Das hinderst glid rechts oder lincks/ vmbkehrt euch/ vnd leget an.'
+  - '5. Schießt.'
+  - '6. Trettet ab.'
+  - '7. Nemmet den Lunden ab.'
+  - '8. Stellt euch widerumb vornen an/ vnd ladet.'
+  - '9. Haltet ewere Glider vnd Reyen/ vnd die Rohr hoch.'
+  cs:
+  - '1. Připravte se všichni zároveň ke střelbě.'
+  - '2. Vpravo nebo vlevo čelem vzad.'
+  - '3. Odtáhněte od nepřítele.'
+  - '4. Poslední řada vpravo nebo vlevo čelem vzad a zalícit.'
+  - '5. Pal.'
+  - '6. Odstupte.'
+  - '7. Sejměte doutnák.'
+  - '8. Zařaďte se zase vpředu a nabijte.'
+  - '9. Držte své řady a zástupy {Reyen} a hlavně vzhůru.'
+- typ: nadpis
+  uroven: 3
+  de: 'Zu schiessen auff beyd seiten: oder etwan auff der lincken/ oder rechten allein.'
+  cs: Střelba na obě strany, anebo jen na levou či jen na pravou
+- typ: seznam
+  de:
+  - '1. Machet euch alle zugleich mit einanderen zum schiessen fertig.'
+  - '2. Der ausserst Reyen rechts/ oder lincks vmb (oder beyd ausserste Reyen zu beyden seiten) gebt auff die seiten fewer/ schlaget an/ vnd schießt.'
+  - '3. Hinden hinauff widerumb an den Spiessen angehenckt.'
+  - '4. Nemmet den Lunden ab.'
+  - '5. Ladet/ vnd haltet Glider vnd Reyen.'
+  cs:
+  - '1. Připravte se všichni zároveň ke střelbě.'
+  - '2. Krajní zástup vpravo nebo vlevo v bok (anebo oba krajní zástupy na obě strany), palte do strany: zaličte a vystřelte.'
+  - '3. Zezadu nahoru se zase připojit k píkám.'
+  - '4. Sejměte doutnák.'
+  - '5. Nabijte a držte řady a zástupy.'
+- typ: nadpis
+  uroven: 2
+  de: Hie folget das Exercitium der Spießknechten.
+  cs: Zde následuje cvičení pikenýrů
+- typ: seznam
+  de:
+  - '1. Den Spieß neben den rechten fůß niderstellt'
+  - '2. 3. 4. Den Spieß mit dem tritt auffnembt vnd auffwerts traget.'
+  - '5. 6. 7. Niderstellt den Spieß.'
+  - '8. 9. Auff die Achßlen legt den Spieß.'
+  - '10. Flach/ oder eben den Spieß traget.'
+  - '11. Abwerts eweren Spieß traget.'
+  - '12. 13. den Spieß gegen der Porten fellet.'
+  - '14. Gegen dem Feind fellet den Spieß.'
+  - '15. 16. 17. Niderstellt den Spieß.'
+  - '18. Nemmt den Spieß auff.'
+  - '19. Fellet den Spieß.'
+  - '20. Schleifft den Spieß.'
+  - '21. Mit der lincken hand faßt das Eysen des Spiesses/ vnd trettet mit dem rechten fůß hindersich.'
+  - '22. 23. Gegen der Porten den Spieß fellet.'
+  - '24. Gegen dem Feind fellet den Spieß.'
+  - '25. Fellet den Spieß gegen dem rechten fůß wider die Reuterey/ vnd ziehet von Läder.'
+  - '26. Flach traget den Spieß.'
+  - '27. 28. 29. Hindersich fellet den Spieß.'
+  - '30. 31. 32. Auff die Achßlen den Spieß nembt.'
+  cs:
+  - '1. Postavte píku {Spieß} vedle pravé nohy'
+  - '2. 3. 4. S krokem píku zvedněte a neste vzhůru.'
+  - '5. 6. 7. Postavte píku.'
+  - '8. 9. Položte píku na rameno.'
+  - '10. Neste píku naplocho neboli vodorovně.'
+  - '11. Neste píku skloněnou dolů.'
+  - '12. 13. Skloňte píku proti bráně {Porten}[^2].'
+  - '14. Proti nepříteli skloňte píku.'
+  - '15. 16. 17. Postavte píku.'
+  - '18. Zvedněte píku.'
+  - '19. Skloňte píku.'
+  - '20. Vlečte píku.'
+  - '21. Levou rukou uchopte železo píky a pravou nohou ustupte vzad.'
+  - '22. 23. Proti bráně skloňte píku.'
+  - '24. Proti nepříteli skloňte píku.'
+  - '25. Skloňte píku k pravé noze proti jízdě a taste z pochvy.'
+  - '26. Neste píku vodorovně.'
+  - '27. 28. 29. Skloňte píku dozadu.'
+  - '30. 31. 32. Vezměte píku na rameno.'
+poznamky:
+- n: 1
+  text: Význam „lüdern / auflüdern“ je nejistý; patrně jde o otevření (odklopení koženého víčka) nálože na bandalíru před nabíjením.
+- n: 2
+  text: Nejasný povel; snad sklopení píky do polohy užívané při obraně brány či průchodu, případně ohlas franc. „porter la pique“. Opakuje se i dále (str. 84).
+- n: 3
+  text: Squadron – zde pěší taktické těleso (prapor v šiku), nikoli jízdní švadrona.

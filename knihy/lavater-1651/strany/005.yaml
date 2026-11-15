@@ -1,0 +1,70 @@
+id: '005'
+list: '5'
+strana: recto
+sken: 39
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dieweiln allzeit hoch von nöhten/ daß man von den Streychwehren gegen einanderen den eyngang in den Graben mit dem geschoß erwehre/ welches am besten durch die Doppelhaacken vnd Musqueten beschehen mag: vrsach/ die Stuck wegen jhres schweren gewichts langsam fort zu bringen/ wordurch dann manche gute gelegenheit verloren wurde/ darumb dann auch in disem stuck die Musqueten den grossen Stucken vorgezogen werden. Vnd gleich wie man mit einer Musqueten 720. schuh weit zur Scheiben schiesset/ also sollen auch die Bollwerck nicht vil weiter von einanderen stehen/ sonsten wurden die Streychen zu weit/ vnd an dem gantzen Werck ein mangel seyn. Der Winckel der Schulteren soll zum wenigsten 105. grad halten/ dann je grösser derselbig ist/ je besser er gehalten wird/ vnd je weiter die Streychlinien in die Courtine hineyn laufft/ je besser es ein Affterstreych/ oder Secundflanc gibt/ vnd die Stirnen desto besser beschützt werden können: vnd nemmen alle Streychen/ biß an die fünffeckige Vestung ab/ alßdann thun sie widerumb wachsen.
+  cs: |-
+    protože je vždy velice zapotřebí, aby se z flank {Streychwehren} navzájem bránilo střelbou vstupu do příkopu, což se nejlépe děje dvojitými hákovnicemi {Doppelhaacken} a mušketami. Důvod: děla se pro svou velkou váhu přemísťují pomalu, čímž by se ztratila nejedna dobrá příležitost; proto se také v této věci dává mušketám přednost před velkými děly. A jako se z muškety střílí do terče na 720 stop, tak ani bašty {Bollwerck} nemají stát od sebe o mnoho dál, jinak by boční palba {Streychen} sahala příliš daleko a celé dílo by mělo vadu. Úhel ramene {Winckel der Schulteren} má mít nejméně 105 stupňů, neboť čím je větší, tím lépe se dá hájit; a čím dále obranná linie {Streychlinien} zasahuje do kurtiny, tím lepší zadní obrana {Affterstreych} neboli druhá flanka {Secundflanc} z toho vzejde a tím lépe lze chránit čela. A všechny boční obrany se až po pětibokou pevnost zmenšují, potom zase rostou.[^1]
+- typ: nadpis
+  uroven: 2
+  de: Was der klein Streychwinckel seye.
+  cs: Co je malý obranný úhel.
+- typ: odstavec
+  de: |-
+    Er ist der jenig/ welchen die Courtine mit der Streychlinien machen thut.
+  cs: |-
+    Malý obranný úhel {klein Streychwinckel} je ten, který svírá kurtina {Courtine} s obrannou linií.
+- typ: nadpis
+  uroven: 2
+  de: Was die Källinien/ Käl vnd Kälpuncten seyen.
+  cs: Co jsou linie hrdla, hrdlo a bod hrdla.
+- typ: odstavec
+  de: |-
+    Sie seind die Linien/ so durch verlängerung der Courtine, vnd jhrer Zusammenkunfft gemachet werden/ vnd da selbige einanderen durchschneiden/ so heißt derselbig Winckel der Kälpunct: die Käl aber wird von beyden Källinien/ Käl genannt/ heißt auch der schlund des Bollwercks.
+  cs: |-
+    Linie hrdla {Källinien} vznikají prodloužením kurtin a jejich setkáním; kde se navzájem protínají, ten úhel se nazývá bod hrdla {Kälpunct}. Hrdlo {Käl} pak tvoří obě linie hrdla; říká se mu také jícen {schlund} bašty.
+- typ: nadpis
+  uroven: 2
+  de: Was der Punct des Bollwercks seye.
+  cs: Co je bod bašty.
+- typ: odstavec
+  de: |-
+    Er ist der eusserste Punct an dem spitz des Bollwercks/ so beyde Gesichtlinien durch jhren durchschnitt machen.
+  cs: |-
+    Je to krajní bod {Punct} na špici bašty, který vytvářejí obě čela {Gesichtlinien} svým průsečíkem.
+- typ: nadpis
+  uroven: 2
+  de: Was das eck Centri seye.
+  cs: Co je úhel středu.
+- typ: odstavec
+  de: |-
+    Es ist der Winckel/ den die zween halben Diametri durch jhres zusammen lauffen machen thůnd.
+  cs: |-
+    Úhel středu {eck Centri} je úhel, který svírají dva poloměry {halben Diametri} tím, že se [ve středu pevnosti] sbíhají.
+- typ: nadpis
+  uroven: 2
+  de: Von der Berm des Wals/ vnd was er seye.
+  cs: O bermě valu a co to je.
+- typ: odstavec
+  de: |-
+    Die Berm ist ein platz oder weite/ so zwüschen dem Graben vnd Wal vornen gelassen wird/ sonsten der fuß des Wals genannt: sein breite ist vngefahr 4. biß in 8. schuh. Da nun der Feind ein Bresche vor hat/ vnd durch ein Sprenge oder Geschütz ein loch in den Wal machet/ rütschet die Erden nicht in den Graben/ sondern wird darauff auffgehalten/ vnd kan solches loch mit diser abgefallenen Erden desto besser widerumb vermachet werden.
+  cs: |-
+    Berma {Berm} je místo neboli prostor, který se nechává vpředu mezi příkopem a valem; jinak se jí říká pata valu. Je široká asi 4 až 8 stop. Když tedy nepřítel chystá průlom {Bresche} a minou {Sprenge} nebo děly udělá do valu díru, zemina nesjede do příkopu, nýbrž se na bermě zachytí, a tou spadlou zeminou lze díru tím snáze zase zacpat.
+- typ: nadpis
+  uroven: 2
+  de: Von der Faussebrayen.
+  cs: O dolním valu {Faussebrayen}.
+- typ: odstavec
+  de: |-
+    Wann obbemeldter Berm gebreiteret/ vnd vornen auff demselben ein
+  cs: |-
+    Když se zmíněná berma rozšíří a vpředu na ní se
+poznamky:
+- n: 1
+  text: Míněno patrně, že s přibývajícím počtem stran mnohoúhelníku se poměry obranných linií a úhlů mění nejprve jedním a od pětiúhelníku opačným směrem; Lavater výklad dále nerozvádí.

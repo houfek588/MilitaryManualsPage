@@ -1,0 +1,21 @@
+id: predmluva-3
+list: věnování (předmluva)
+strana: verso
+sken: 8
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    eygne: vnderthänig bittend/ sie selbiges mit so gnädigem willen zu empfahen geruhen; alß mit vnderthänigem gemüt solches von mir præsentiert vnd vbersendet wirdt. Der Allerhöchste/ wölle bey disen vnrühigen zeiten alle E. G. Rahtschläg vnd Exccutionen fürbaßhin sägnen vnd leiten/ Jhme zu ehren/ vnd der Kirchen vnd gemeinem Vatterland/ der loblichen Eydgnoschafft/ zum besten! Geben Zürich den 22. Junij/ im Jahr 1644.
+  cs: |-
+    věnuji a poníženě prosím, aby ji ráčily přijmout s tak milostivou vůlí, s jak poddanou myslí jim ji předkládám a posílám. Nejvyšší ať v těchto neklidných časech i nadále žehná všem radám a činům Vašich Milostí a řídí je – k své cti a k dobru církve i společné vlasti, chvalného Spříseženstva! Dáno v Curychu 22. června roku 1644.[^1]
+- typ: odstavec
+  de: |-
+    Eüwer Gnaden Vnderthäniger Hanß Conrad Lavater/ Hauptmann.
+  cs: |-
+    Vašich Milostí poddaný Hans Conrad Lavater, hejtman {Hauptmann}.
+poznamky:
+- n: 1
+  text: 'Datum 22. června 1644 je datum prvního vydání; do vydání 1651 bylo věnování převzato beze změny.'

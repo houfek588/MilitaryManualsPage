@@ -1,0 +1,38 @@
+id: '069'
+list: '69'
+strana: recto
+sken: 103
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    oder vneben/ grůbig/ birgig/ hol/ wässerig/ höltzig/ sümpffig/ oder mässig: ob Brucken/ Weg/ Steg/ Bäum/ Läden/ Gemäwr/ Häuser/ oder anders dergleichen: ob solches nöhtig abzubrechen/ vnd ob man sich weit darvon lägeren/ vnd ob Wasser zu nemmen vnd abzugraben seye.
+  cs: |-
+    nebo nerovná, plná jam, kopcovitá, s prohlubněmi, vodnatá, zalesněná, bažinatá nebo mírná;[^1] zda jsou tam mosty, cesty, lávky, stromy, boudy, zdi, domy a podobně a zda je třeba je strhnout; zda se lze od ní daleko utábořit a zda lze odebrat a odvést vodu.
+- typ: nadpis
+  uroven: 2
+  de: Wie man sich weiters verhalten solle.
+  cs: Jak si počínat dále.
+- typ: odstavec
+  de: |-
+    Man soll etliche Compagnien zu Ross vnd fuß mit Wägen vnd Kärren hinauß auff die Landschafft schicken/ damit sie von der Landschafft/ Korn/ Gersten/ Haber/ Geissen/ Schaaff/ Küh/ Rinder/ Ochsen/ Gänß/ Fleisch/ Erbsen/ Bonen/ Linsen/ Rocken/ vnd ander Essensspeiß. Jtem/ Höw/ Stroh/ Holtz: Jtem/ Mist (rev.) vnd allerley nohtdurfft in die Vestung führen: Man soll auch mit Bännen vnd Körben mist/ erden/ kaht vnd grosse stein in die Statt führen vnd tragen: vil reiß zu den Schantzkörben vnd anderem soll vorhanden seyn. Die Brunnen vnd Wasser ausserthalb sollen vergifftet/ alle hohe Weg vnd Gräben vmb die Vestung rings vmbher biß ein vierten theil wegs außgefüllet/ vnd die Häuser/ Zäun/ Bäum vnd anders/ so der Vestung zuwider/ vnd den Feind bedecken mag/ hingerissen werden. Es sollen auch allerley grausam-brennende fewerwerck in grosser anzahl gemachet vnd auff den Wal vil grosser stein gelegt werden/ vil Lämeysen/ Sturmpfäl/ Palissaden/ Barricaden/ Schantz- vnd Schützenkörblein/ vngelöschter Kalck/ äschen/ Handgranaten/ jrrdine krüglein mit Pulfer: Jtem/ mit Lämeysen vnd Kalck außgefüllt/ zugerüstet werden. Der Wollsäcken/ Morgensternen/ vnd dergleichen dingen soll man auch nicht vergessen.
+  cs: |-
+    Má se vyslat několik jízdních i pěších kompanií {Compagnien} s vozy a kárami na venkov, aby z venkova svezly do pevnosti obilí, ječmen, oves, kozy, ovce, krávy, skot, voly, husy, maso, hrách, boby, čočku, žito a jiné potraviny, dále seno, slámu, dříví, dále hnůj (s odpuštěním)[^2] a všechno potřebné. Také se má v trakařích {Bännen} a koších vozit a nosit do města hnůj, hlína, bláto a velké kameny; má být po ruce i mnoho roští na šancovní koše {Schantzkörben} a na jiné potřeby. Studny a vody venku se mají otrávit, všechny úvozy[^3] a příkopy kolem dokola pevnosti až do čtvrt míle se mají zasypat a domy, ploty, stromy a co jiného pevnosti překáží a mohlo by nepřítele krýt, se má strhnout. Má se také zhotovit velké množství všelijakých strašlivě hořících ohňostrojů {fewerwerck} a na val {Wal} se má navršit mnoho velkých kamenů; má se připravit mnoho nášlapných ježků {Lämeysen}, útočných kůlů {Sturmpfäl}, palisád {Palissaden}, barikád, šancovních a střeleckých košíků, nehašeného vápna, popela, ručních granátů, hliněných džbánků s prachem, dále [džbánků] naplněných nášlapnými ježky a vápnem. Nemá se zapomenout ani na pytle s vlnou {Wollsäcken}, kropáče {Morgensternen} a podobné věci.
+- typ: nadpis
+  uroven: 2
+  de: Wie man weiter fürsehung thun solle.
+  cs: Jaká učinit další opatření.
+- typ: odstavec
+  de: |-
+    Der Gubernator/ Jngenieurs vnd Officierer der Statt/ sollen die Vestung wol bey sich berahtschlagen/ nicht anderst alß wann sie die Vestung selbsten belägeren wolten/ darbey auch erwägen was für vortheil vnd nachtheil sie gehaben möchten/ wo der Feind die Vestung am besten angreiffen könne. Jtem: Wo selbige am schwächsten were/ darauß sie dann am besten sehen werden/ was der Vestung schaden oder manglen/ vnd wo jhro der Feind am besten zukommen/ vnd sie demselben begegnen mögen/ vnd ist scheinbarlich/ daß der die Offensen verstehet/ auch die Defensen angeben kan: Derhalben soll es den Jngenieurn ernstlich befohlen werden/ daß sie das Werck fleissig besehen/ vnd wo mangel/ solches verbesseren vnd verenderen: insonderheit alle Courtine vnd Bollwerck wol erwägind/ welches die fürnembsten vnd principalstück des rechten Hauptbaws seind: ob sie gute defension einanderen geben/ oder ob anderstwoher jhnen die Defension zu schaffen/ ob sie bawfällig/ zu hoch/ zu schmal oder zu nidrig. Deßgleichen ob nicht die Brustwehr zu hoch/ zu dick/ oder zu nidrig/ vorauß auch ob die Bänck/ Faussebrayen/ Corridor vnd Contrascarpen zu verbesseren/ die Chemin de ronde zu schmal/ vnd hiemit zu
+  cs: |-
+    Guvernér {Gubernator}, inženýři a důstojníci města se mají o pevnosti důkladně poradit, a to ne jinak, než kdyby ji sami chtěli obléhat. Přitom mají zvážit, jaké výhody a nevýhody by mohli mít a kde by nepřítel mohl pevnost nejlépe napadnout, dále kde je nejslabší. Z toho nejlépe uvidí, co pevnosti škodí nebo co jí chybí, kudy se k ní nepřítel může nejlépe dostat a jak mu mohou čelit; je totiž zřejmé, že kdo rozumí útoku, dovede navrhnout i obranu. Proto se má inženýrům důrazně nařídit, aby dílo pečlivě prohlédli a co je nedostatečné, opravili a upravili. Zvláště mají dobře uvážit všechny kurtiny {Courtine} a bašty {Bollwerck}, které jsou nejpřednějšími a hlavními částmi vlastního hlavního opevnění: zda si navzájem poskytují dobrou obranu, nebo zda je třeba jim obranu zajistit odjinud, zda jsou sešlé, příliš vysoké, příliš úzké nebo příliš nízké. Stejně tak, zda není předprseň {Brustwehr} příliš vysoká, příliš tlustá nebo příliš nízká, a především zda je třeba opravit střelecké stupně {Bänck}, dolní valy {Faussebrayen}, krytou cestu {Corridor} a kontreskarpy {Contrascarpen}, zda není obchůzková cesta {Chemin de ronde} příliš úzká, a tedy ji
+poznamky:
+- n: 1
+  text: „mässig“ – snad mírně zvlněná; možná však jde o švýcarské „mösig“ (od Moos = mokřad), tj. rašelinná.
+- n: 2
+  text: „(rev.)“ = salva reverentia, zdvořilostní omluva při zmínce o hnoji.
+- n: 3
+  text: V originále „hohe Weg“, zřejmě ve významu „hohle Weg“ (úvozy), které by nepříteli poskytly krytí.

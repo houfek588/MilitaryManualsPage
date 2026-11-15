@@ -1,0 +1,70 @@
+id: vazba
+list: pokyn knihaři
+strana: verso
+sken: 4
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Wie das Kupffer eynzubinden.
+  cs: Jak vevázat mědirytiny
+- typ: seznam
+  de:
+  - 'I. Das 1. Kupfferblat sol vor dem 1. blat/ vnd das klein abgeschnitten blat des thurns hinder das 8. blat/ das ander klein mit den Stacketen/ Schantzkörben/ etc. hinder das 12. bl. gebunden werden.'
+  - 'II. Das Exercitium der Mußqueten vor das 81. bl. das 2. der Spiessen hinder das 82. das dritte mit Schilten hinder das 83. bl. eyngesetzt werden.'
+  - 'III. Das abgeschnittne bl. von Dopplierung für das 91. die übrigen 3. halb bögen der Schlachtordnungen in einanderen nach der zalgebunden werden.'
+  cs:
+  - 'I. První mědirytina {Kupfferblat} se má vevázat před 1. stranu,[^1] malý přistřižený list s věží za 8. stranu a druhý malý list s kůlovými ploty {Stacketen}, šancovními koši {Schantzkörben} atd. za 12. stranu.'
+  - 'II. Cvičení {Exercitium} s mušketou {Mußqueten} se má vsadit před 81. stranu, druhé, s píkami {Spiessen}, za 82. a třetí, se štíty {Schilten}, za 83. stranu.'
+  - 'III. Přistřižený list o zdvojování {Dopplierung} [se má vevázat] před 91. stranu; zbývající 3 půlarchy se šiky {Schlachtordnungen} se mají svázat do sebe podle čísel.'
+- typ: nadpis
+  uroven: 1
+  de: ERRATA.
+  cs: Tiskové chyby
+- typ: seznam
+  de:
+  - 'Linea 13. pag. 3. liß 36. růthen/ für 36. schůh.'
+  - 'Lin. 7. pag. 9. in der mitte des halben Thars.'
+  - 'Lin. 31. pag. 12. dritthalben schritt.'
+  - 'Lin. 1. pag. 19. Jede růthen.'
+  - 'Lin. 22. pag. 21. ist außgelassen: etliche geben einem Mann zum stand vnd distantz einen schritt.'
+  - 'Lin. 11. pag. 88. reyen.'
+  - 'Lin. 25. pag. 99. 3. Corporal.'
+  - 'Lin. 28. pag. 120. ringsweis.'
+  - 'Lin. 8. pag. 121. ander theil.'
+  cs:
+  - 'Řádek 13, strana 3: čti „36 prutů“ {růthen} místo „36 stop“.[^2]'
+  - 'Ř. 7, str. 9: „uprostřed poloviny brány“.[^3]'
+  - 'Ř. 31, str. 12: „dva a půl kroku“.'
+  - 'Ř. 1, str. 19: „každý prut“.'
+  - 'Ř. 22, str. 21 je vynecháno: „někteří dávají jednomu muži na stání a rozestup jeden krok“.'
+  - 'Ř. 11, str. 88: „zástupy“ {reyen}.'
+  - 'Ř. 25, str. 99: „3 desátníci“ {Corporal}.'
+  - 'Ř. 28, str. 120: „v kruhu“.'
+  - 'Ř. 8, str. 121: „druhý díl“.'
+- typ: nadpis
+  uroven: 3
+  de: Vegetius in Prol. lib. 3. de re militari.
+  cs: Vegetius v předmluvě ke 3. knize O vojenství
+- typ: odstavec
+  de: |-
+    Qui desiderat pacem, præparet bellum: qui Victoriam cupit, milites imbuat diligenter: qui secundos optat eventus, dimicet arte, non casu.
+  cs: |-
+    Kdo touží po míru, ať se připravuje na válku; kdo si přeje vítězství, ať pečlivě cvičí vojáky; kdo chce šťastný výsledek, ať bojuje podle umění, ne nahodile.[^4]
+- typ: verse
+  de:
+  - 'Der Lands-verderbend Krieg nichts gutes bringen mag/'
+  - 'Wir wunschen seinen nichts: der nutzlich Frid behag!'
+  cs:
+  - 'Válka, jež zemi hubí, nic dobrého nepřinese –'
+  - 'nic z ní si nepřejeme: kéž se nám líbí prospěšný mír!'
+poznamky:
+- n: 1
+  text: '„Blat“ (doslova list, zkr. „bl.“) zde i v seznamu tiskových chyb znamená stranu tisku: čísla odpovídají stránkování knihy (str. 1, 8, 12, 81–83, 91). Starší pokyn knihaři je na konci slovníčku (strana slovnicek-2). Tento výtisk (HAB) není svázán podle žádného z obou pokynů: tabule I–VI (tab-01 až tab-06) stojí vpředu za předsádkou, před str. 1, a list se zdvojováním i listy se šiky (tab-07 až tab-12) jsou vevázány mezi str. 80 a 81, tj. před Třetí díl.'
+- n: 2
+  text: 'Čísla řádků se počítají bez živého záhlaví a bez nadpisů (ověřeno na str. 3: „36. schuh“ je 13. řádek textu). Některé údaje tohoto seznamu se s textem knihy zcela nekryjí (str. 12, ř. 31 a str. 19, ř. 1 nejsou ve skenu jednoznačně dohledatelné). Část oprav opakuje i druhý, delší seznam tiskových chyb na konci knihy (strana errata).'
+- n: 3
+  text: '„Thars“ je tisková podoba slova „Thors“ (brány). Oprava patří k oddílu o výpadních brankách na str. 9 („Man machet sie in der mitte des Thors oder Porten“), kde má podle opravy stát „uprostřed poloviny brány“ – branka se tedy patrně dělá uprostřed jednoho křídla vrat.'
+- n: 4
+  text: 'Vegetius, Epitoma rei militaris, předmluva ke 3. knize; odtud rčení „Si vis pacem, para bellum“.'

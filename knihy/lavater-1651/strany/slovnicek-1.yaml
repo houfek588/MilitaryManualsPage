@@ -1,0 +1,332 @@
+id: slovnicek-1
+list: slovníček
+strana: recto
+sken: 13
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Verdolmetschung.
+  cs: Tlumočení [slovníček cizích slov].
+- typ: nadpis
+  uroven: 3
+  de: A.
+  cs: A.
+- typ: odstavec
+  de: |-
+    Accord, Fridens-handlung.
+  cs: |-
+    Accord – mírové jednání.
+- typ: odstavec
+  de: |-
+    Al’arme, Jnsgewehr.
+  cs: |-
+    Al’arme – do zbraně!
+- typ: odstavec
+  de: |-
+    Approchieren, Herzu näheren.
+  cs: |-
+    Approchieren – přibližovat se.
+- typ: odstavec
+  de: |-
+    Artillerie, Das groß Geschütz.
+  cs: |-
+    {Artillerie} – velká děla.
+- typ: odstavec
+  de: |-
+    Capitain des armes, Rüst oder Gewehrmeister.
+  cs: |-
+    {Capitain des armes} – správce zbroje neboli zbraní.[^1]
+- typ: odstavec
+  de: |-
+    Attaquieren, Antasten.
+  cs: |-
+    Attaquieren – napadnout.
+- typ: odstavec
+  de: |-
+    Avancieren, Fortrucken.
+  cs: |-
+    Avancieren – postupovat vpřed.
+- typ: odstavec
+  de: |-
+    Auditeur, Der Kriegssachen verhört.
+  cs: |-
+    Auditeur – ten, kdo vyslýchá ve válečných věcech.[^2]
+- typ: nadpis
+  uroven: 3
+  de: B.
+  cs: B.
+- typ: odstavec
+  de: |-
+    Bagage, Was man mit sich nimmt: Plunderwägen.
+  cs: |-
+    Bagage – co se bere s sebou; vozy se zavazadly.
+- typ: odstavec
+  de: |-
+    Blocquieren, Mit schantzwerck versperren.
+  cs: |-
+    Blocquieren – uzavřít šancemi.
+- typ: nadpis
+  uroven: 3
+  de: C.
+  cs: C.
+- typ: odstavec
+  de: |-
+    Canon, Groß Stück.
+  cs: |-
+    Canon – velké dělo.
+- typ: odstavec
+  de: |-
+    Cannonier, Constabel.
+  cs: |-
+    {Cannonier} – konstábl.
+- typ: odstavec
+  de: |-
+    Cartusen, Patronen zun Stücken/ darinn geschröt ist.
+  cs: |-
+    {Cartusen} – náboje k dělům, v nichž jsou broky.[^3]
+- typ: odstavec
+  de: |-
+    Corporal, Rottmeister.
+  cs: |-
+    {Corporal} – rotmistr {Rottmeister}.[^4]
+- typ: odstavec
+  de: |-
+    Commandieren, Befehlen.
+  cs: |-
+    Commandieren – rozkazovat.
+- typ: odstavec
+  de: |-
+    Collonell, Regiments-Oberst.
+  cs: |-
+    {Collonell} – plukovník.
+- typ: odstavec
+  de: |-
+    Compagnie, Ein Fendlein fůßvolck.
+  cs: |-
+    {Compagnie} – praporec pěchoty.
+- typ: odstavec
+  de: |-
+    Cornet, Ein Compagnie Reuter oder desselben Fendrich.
+  cs: |-
+    {Cornet} – kompanie jezdců neboli její praporečník.
+- typ: odstavec
+  de: |-
+    Casquet, Stechbelm.
+  cs: |-
+    Casquet – kolčí přilba.[^5]
+- typ: odstavec
+  de: |-
+    Controlleurs, Gegenschreiber.
+  cs: |-
+    {Controlleurs} – protipísaři.
+- typ: odstavec
+  de: |-
+    Conducteur, Führer eines Wercks.
+  cs: |-
+    Conducteur – vedoucí díla [stavby].
+- typ: odstavec
+  de: |-
+    Convojieren, Begleiten.
+  cs: |-
+    {Convojieren} – doprovázet.
+- typ: odstavec
+  de: |-
+    Commiß, Proviant.
+  cs: |-
+    {Commiß} – proviant.[^6]
+- typ: odstavec
+  de: |-
+    Commissarius, Die allerley zu verrichten haben.
+  cs: |-
+    {Commissarius} – ti, kdo mají vyřizovat všelijaké záležitosti.
+- typ: nadpis
+  uroven: 3
+  de: D.
+  cs: D.
+- typ: odstavec
+  de: |-
+    Defendieren, Verthädigen.
+  cs: |-
+    Defendieren – bránit.
+- typ: odstavec
+  de: |-
+    Defense, Verthädigung oder Vestung.
+  cs: |-
+    Defense – obrana nebo pevnost.
+- typ: nadpis
+  uroven: 3
+  de: E.
+  cs: E.
+- typ: odstavec
+  de: |-
+    Extraordinari, Vngewohnlich.
+  cs: |-
+    Extraordinari – neobvyklý.
+- typ: odstavec
+  de: |-
+    Espion, Außspäher.
+  cs: |-
+    Espion – vyzvědač.
+- typ: nadpis
+  uroven: 3
+  de: F.
+  cs: F.
+- typ: odstavec
+  de: |-
+    Flanckieren, Ein ort mit Geschütz bestreichen.
+  cs: |-
+    Flanckieren – „stírat“ nějaké místo palbou z děl [z boku].
+- typ: odstavec
+  de: |-
+    Fourrage, Füterung.
+  cs: |-
+    {Fourrage} – píce.
+- typ: odstavec
+  de: |-
+    Fortificieren, Bevestnen.
+  cs: |-
+    Fortificieren – opevňovat.
+- typ: nadpis
+  uroven: 3
+  de: G.
+  cs: G.
+- typ: odstavec
+  de: |-
+    Galloppieren, oder Calloppieren, rennen.
+  cs: |-
+    Galloppieren neboli Calloppieren – cválat.
+- typ: odstavec
+  de: |-
+    Guarde, Wacht.
+  cs: |-
+    Guarde – stráž.
+- typ: odstavec
+  de: |-
+    Corps de guarde, Hauptwacht.
+  cs: |-
+    {Corps de guarde} – hlavní stráž.
+- typ: odstavec
+  de: |-
+    General, Feldherr.
+  cs: |-
+    General – vojevůdce.
+- typ: odstavec
+  de: |-
+    Garnison, Besatzung.
+  cs: |-
+    {Garnison} – posádka.
+- typ: odstavec
+  de: |-
+    Gouverneur, Fürgesetzter einer Vestung.
+  cs: |-
+    {Gouverneur} – představený pevnosti.
+- typ: odstavec
+  de: |-
+    Granaden, Sprengkuglen.
+  cs: |-
+    {Granaden} – výbušné koule.
+- typ: nadpis
+  uroven: 3
+  de: H.
+  cs: H.
+- typ: odstavec
+  de: |-
+    Humeur, Natur.
+  cs: |-
+    Humeur – povaha.
+- typ: nadpis
+  uroven: 3
+  de: I.
+  cs: I.
+- typ: odstavec
+  de: |-
+    Ingenieur, Bawmeister.
+  cs: |-
+    {Ingenieur} – stavitel.
+- typ: odstavec
+  de: |-
+    Inventeur, Erfinder eines Wercks.
+  cs: |-
+    Inventeur – vynálezce díla.
+- typ: nadpis
+  uroven: 3
+  de: L.
+  cs: L.
+- typ: odstavec
+  de: |-
+    Lancepasade, Vnder-Rottmeister.
+  cs: |-
+    Lancepasade – podrotmistr.[^7]
+- typ: odstavec
+  de: |-
+    Laffuyten, Stuck-Wägen.
+  cs: |-
+    {Laffuyten} – vozy pro děla [lafety].
+- typ: odstavec
+  de: |-
+    Logieren, Vnderschlauff nemmen.
+  cs: |-
+    Logieren – najít si přístřeší [ubytovat se].
+- typ: nadpis
+  uroven: 3
+  de: M.
+  cs: M.
+- typ: odstavec
+  de: |-
+    Marschieren, Fort ziehen.
+  cs: |-
+    Marschieren – táhnout dál.
+- typ: odstavec
+  de: |-
+    Matrosen, Schiff- oder Bots-gesellen.
+  cs: |-
+    {Matrosen} – lodní neboli člunoví tovaryši.
+- typ: odstavec
+  de: |-
+    Marquitanter, Proviantführer.
+  cs: |-
+    {Marquitanter} – dovozci proviantu [markytáni].
+- typ: odstavec
+  de: |-
+    Mineurs, Meister des vndergrabens.
+  cs: |-
+    {Mineurs} – mistři podkopávání [minéři].
+- typ: odstavec
+  de: |-
+    Major, Obrist-Wachtmeister.
+  cs: |-
+    {Major} – nejvyšší vachmistr.
+- typ: odstavec
+  de: |-
+    Musquet, Lunden Rohr.
+  cs: |-
+    {Musquet} – doutnáková ručnice.
+- typ: odstavec
+  de: |-
+    Munition, Pulfer/ kuglen vnd lunden.
+  cs: |-
+    {Munition} – prach, koule a doutnáky.
+poznamky:
+- n: 1
+  text: |-
+    Rüstmeister i Gewehrmeister označují téhož poddůstojníka kompanie – správce zbraní (viz glosář); nezaměňovat se zbrojmistrem dělostřelectva (Zeugmeister) ani se zbrojním správcem (Zeugwart).
+- n: 2
+  text: |-
+    Auditor – vojenský soudce, právník pluku, který vede vyšetřování a soudní řízení; v lancknechtských plucích 16. století tuto úlohu plnil rychtář (Schultheiß).
+- n: 3
+  text: |-
+    „Geschröt“ = sekané olovo či železo, broky; jde tedy o kartuše s kartáčovou náplní (srov. heslo kartáč).
+- n: 4
+  text: |-
+    Lavater vykládá Corporal starším německým slovem Rottmeister (rotmistr). V překladu knihy se Corporal jednotně překládá jako desátník (viz glosář).
+- n: 5
+  text: |-
+    Přepis DTA má „Stechbelm“; ve skenu jde nejspíš o „Stechhelm“ (kolčí přilba). Casquet byla ve skutečnosti lehká otevřená přilba; Lavaterova glosa je jen přibližná.
+- n: 6
+  text: |-
+    Commiß – vojenské zásoby a dávky, zvl. chléb vydávaný mužstvu (odtud něm. Kommissbrot).
+- n: 7
+  text: |-
+    Lancepasade (franc. anspessade) – zástupce desátníka, nejnižší poddůstojnická funkce.

@@ -1,0 +1,84 @@
+id: 089
+list: '89'
+strana: recto
+sken: 135
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: 'Wann man spricht: mit Reyen rechts vmb kehrt euch.'
+  cs: 'Když se řekne: „Se zástupy vpravo čelem vzad“.'
+- typ: odstavec
+  de: |-
+    Da gehet das vorderste Glid/ vnd also die vbrigen hernach/ ein schritt für die Ordnung/ kehren sich alßdann rechts vmb/ vnd gehen durch die Glider/ also daß das vorderste Glid auff den Platz oder Stell kommet/ wo das hinderste Glid gestanden/ vnd wie es sein angesicht gewendet/ also auff demselben Platz still haltet: vnd soll auch ein jeder seinem vorstehenden Mann fleissig nachfolgen/ vnd nichts desto weniger das Glid steiff halten.
+  cs: |-
+    Tehdy přední řada {Glid}, a po ní i ostatní, vykročí o krok před šik {Ordnung}, obrátí se vpravo čelem vzad a projdou skrze řady, takže přední řada přijde na místo, kde stála zadní řada, a tak, jak má obrácenu tvář, se na tom místě zastaví. Každý má přitom pilně následovat muže před sebou, a přesto držet řadu pevně.
+- typ: nadpis
+  uroven: 3
+  de: Ewere Reyen lincks vmbkehrt/ marschiert.
+  cs: „Zástupy vlevo čelem vzad – pochod!“
+- typ: odstavec
+  de: |-
+    So geschicht dasselbig wie es zuvor mit dem recht vmbkehren beschehen/ allein daß es hier lincks vmb gekehrt wird.
+  cs: |-
+    Děje se totéž jako předtím při obratu vpravo čelem vzad, jen se zde obrací vlevo.
+- typ: nadpis
+  uroven: 3
+  de: Rechts beschliesset ewere Glider.
+  cs: „Vpravo sevřete řady.“
+- typ: odstavec
+  de: |-
+    Das ist darumb angesehen/ damit man auff der lincken seiten etwan geschwind für die Wagen oder Stück/ oder andere ding ein Gassen machen/ vnd sich alßdann widerumb erstellen lassen will. Vnd wird also verrichtet: der erste Reyen auff der rechten seiten soll still stehen: der ander/ dritt/ viert/ etc. vnd also fortan/ sollen sich an einanderen wol anschliessen/ doch so weit daß ein jeder sein Gewehr vnverhinderet führen möge.
+  cs: |-
+    To je zavedeno proto, aby se na levé straně dala rychle udělat ulička pro vozy nebo děla {Stück} či jiné věci a pak se šik mohl opět postavit zpět. Provádí se to takto: první zástup {Reyen} na pravé straně stojí na místě, druhý, třetí, čtvrtý atd. a tak dále se k sobě dobře přimknou, avšak jen tak, aby každý mohl nerušeně vládnout svou zbraní {Gewehr}.
+- typ: nadpis
+  uroven: 3
+  de: Lincks schliesset ewere Reyen.
+  cs: „Vlevo sevřete zástupy.“
+- typ: odstavec
+  de: |-
+    Da stehet der erste Reyen auff der lincken seiten still/ vnd werden die vbrigen Reyen daran geschlossen/ wie obbemeldt.
+  cs: |-
+    Tehdy stojí první zástup na levé straně na místě a ostatní zástupy se k němu přimknou, jak bylo řečeno výše.
+- typ: nadpis
+  uroven: 3
+  de: Vorwert schliesset ewere Glider.
+  cs: „Vpřed sevřete řady.“
+- typ: odstavec
+  de: |-
+    So haltet das erst vnd vorderst Glid/ die vbrigen aber tretten herfür/ vnd beschließt je ein Glid das ander/ biß auff seines vorstehenden Manns Dägen-kloben: namlich/ wie das ander das erste/ also auch das dritte das ander beschliesset/ vnd also fortan.
+  cs: |-
+    Tehdy první, přední řada stojí a ostatní vykročí vpřed a každá řada se přimkne k té před sebou, až ke kordovému knoflíku {Dägen-kloben}[^1] muže před sebou: totiž jako druhá k první, tak i třetí k druhé a tak dále.
+- typ: nadpis
+  uroven: 3
+  de: Rechts öffnet ewere Reyen.
+  cs: „Vpravo rozevřete zástupy.“
+- typ: odstavec
+  de: |-
+    Wann man sich auff dem rechten fůß gegen der lincken hand vmbwendet/ vnd auff sein vorige Stell zur rechten hand gehet/ vnd vorigen Stand nimmt: auff dise form bleiben die Glider beschlossen/ vnd die Reyen geöffnet.
+  cs: |-
+    To je, když se na pravé noze obrátí k levé ruce, jde na své předchozí místo po pravé ruce a zaujme předchozí postavení; tímto způsobem zůstanou řady sevřené a zástupy rozevřené.
+- typ: nadpis
+  uroven: 3
+  de: Lincks öffnet ewere Reyen.
+  cs: „Vlevo rozevřete zástupy.“
+- typ: odstavec
+  de: |-
+    Es ist obige meynung/ allein daß man mit dem lincken fůß vorher trittet/ vnd gegen der lincken hand auff sein alte Stell gehet/ oder vorige Stell widerumb nimmt.
+  cs: |-
+    Platí totéž co výše, jen se napřed vykročí levou nohou a jde se k levé ruce na staré místo, čili se opět zaujme předchozí místo.
+- typ: nadpis
+  uroven: 3
+  de: Offnet die Glider vorwerts.
+  cs: „Rozevřete řady vpřed.“
+- typ: odstavec
+  de: |-
+    So bleibt das letste Glid stehen/ die vbrigen aber alle gehen vorwerts auff jhre vorige Stell/ vnd nemmen jhren vorigen Stand auch vorwerts.
+  cs: |-
+    Tehdy zůstane stát poslední řada, všechny ostatní však jdou vpřed na svá předchozí místa a zaujmou své předchozí postavení, rovněž směrem vpřed.
+poznamky:
+- n: 1
+  text: >-
+    Dägen-kloben – doslova „knoflík kordu“; patrně koncové kování (botka) pochvy, které trčí za mužem dozadu.
+    Řady se tedy přimknou na nejmenší možnou vzdálenost.

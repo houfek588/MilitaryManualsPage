@@ -1,0 +1,39 @@
+id: '114'
+list: '114'
+strana: verso
+sken: 160
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    7. Jtem/ wo er vber birgig/ höltzig/ wässerig/ wild-rauch-morastig/ leimig vnd sümpffig/ vnd vber grosse Wasser marschieren müßte/ wie er sich mit fortbringung des Geschützes/ Bagage/ Schiffen/ Wägen vnd dergleichen dingen verhalten vnd berahtschlagen solle: Vnd da er solches alles genugsam vnd reyfflich betrachtet/ so solle er sich alßdann weiter vmbsehen vmb hochverständige Räht.
+  cs: |-
+    7. Dále: kdyby musel táhnout přes hornatou, lesnatou, vodnatou, divokou, drsnou a bažinatou, jílovitou a močálovitou krajinu a přes velké vody, jak si má počínat a o čem se radit při dopravě děl, bagáže {Bagage}, lodí, vozů a podobných věcí. A když toto vše dostatečně a zrale uváží, má se dále poohlédnout po velmi rozumných radech.
+- typ: nadpis
+  uroven: 2
+  de: Was man in erwehlung der Kriegs-Rähten zu bedencken.
+  cs: Co je třeba uvážit při volbě válečných radů {Kriegs-Rähten}.
+- typ: odstavec
+  de: |-
+    Man soll diß orts niemand anderen zu Raht ziehen/ alß alte Kriegsverständige vnd wolerfahrne Männer/ so bey Schimpff vnd Ernst gewesen/ vnd selbsten mit der Armee ziehen/ auch jhr eygen Haut vnd Beltz/ Leib vnd Leben mit daran wagen/ vnd sich bey solchem Schimpff dörffen sehen vnd finden lassen: dann es giltet dem so darzu rahtet seinen Balg mit. Es soll aber keiner dem anderen in den Rahtschlägen in die wort fallen/ vnd sollen alle Rahtschläg fleissig auffgezeichnet werden: darnach sollen alle hohe vnd nidere Officierer bestellt werden/ wie folget.
+  cs: |-
+    K radě se v tom nemá přibírat nikdo jiný než staří, ve válce zběhlí a dobře zkušení muži, kteří zažili žert i vážnost[^1], sami s armádou táhnou, nasazují přitom vlastní kůži i kožich, tělo i život a nebojí se při takové „hře“ ukázat a být přítomni; neboť kdo k něčemu radí, jde i o jeho kůži. Nikdo však nemá druhému při poradách skákat do řeči a všechny rady se mají pečlivě zapisovat. Potom se mají ustanovit všichni vyšší i nižší důstojníci, jak následuje.
+- typ: nadpis
+  uroven: 2
+  de: Was für hoch- vnd nider Officierer im Feld erforderet werden.
+  cs: Jací vyšší a nižší důstojníci jsou zapotřebí v poli.
+- typ: odstavec
+  de: |-
+    Erstlich der Generalissimus: demnach vnder der Jnfanterey der General/ der General-Leutenammt/ der General Major/ oder Wachtmeister/ sein Leutenammt der General Adjutant/ der General Profoß/ Fiscal/ Pręsident des Kriegs-Rahts/ oder General Regiments-Schultheiß/ General Quartiermeister/ Grefier/ Commissarius vber das Gelt vnd des Viures/ General-Musterherr/ General Wagenmeister vnd sein Leutenammt/ der Medicus des Lägers/ der Wundartzet des Lägers/ Feldprediger: Jtem/ die Obersten: Oberst Leutenammt/ Regiments Major/ Quartier-Proviant- vnd Wagenmeister/ Regiment Schultheiß/ Richter/ Weibel/ Trommelschlager: Jtem/ Capitain Leutenammt/ Fendrich/ Vorfendrich/ etc. vnd vbrige Officier/ so vnder ein Compagnie dienstlich seind/ etc. Deßgleichen Profosen/ Hurenweibel/ Stockmeister/ Steckenknecht/ Hencker. Vnder der Reuterey/ der Feldmarschalck/ General/ sein Leutenammt/ General Major/ General Adjutant/ General Commissarius/ General Quartiermeister/ General Profoß/ sein Leutenammt: Jtem/ die Colonell: Colonell Leutenammt/ Regiments Major/ Quartiermeister/ Rittmeister/ Leutenammt/ Cornet/ Corporal/ etc. Sattler/ Huffschmid/ Profosen/ Marckitänter/ etc. Vnder der Artillerey der General/ sein Leutenammt/ Commissarius vom Geschütz/ Zahlmeister/ Contrerolleur oder Gegenschreiber Conducteur/ Edelleuth von dem Geschütz/ Profos/ sein Leutenammt/ Stockmeister/ Steckenknecht/ Matrosen/ Handlanger/ Bineurs. Jtem/ Commissarius der Munition/ der Schreiber/ Oberster Constabel/ sein Leutenammt/ Canonier/ Oberst vber das Fewrwerck/ Petardier/ Fewrwercker/ Oberst Wa-
+  cs: |-
+    Předně generalissimus; dále u pěchoty generál, generálporučík, generálmajor neboli [generální] vachmistr {Wachtmeister}, jeho poručík {Leutenammt} generální pobočník {General Adjutant}, generální profous {General Profoß}, fiskál[^2], předseda válečné rady neboli generální plukovní rychtář {Regiments-Schultheiß}, generální kvartýrmistr {Quartiermeister}, soudní písař {Grefier}[^3], komisař nad penězi a potravinami {Viures}, generální přehlídkový komisař {General-Musterherr}, generální vozmistr {Wagenmeister} a jeho poručík, lékař ležení, ranhojič ležení {Wundartzet}, polní kazatel. Dále plukovníci {Obersten}: podplukovník, plukovní major, kvartýrmistr, proviantmistr a vozmistr pluku, plukovní rychtář, soudci, šikovatel {Weibel}, bubeník. Dále hejtman {Capitain}, poručík, praporečník {Fendrich}, podpraporečník {Vorfendrich} atd. a ostatní důstojníci, kteří slouží u kompanie {Compagnie}, atd. Rovněž profousové, šikovatel trénu {Hurenweibel}, žalářník {Stockmeister}, profousův pacholek {Steckenknecht}, kat {Hencker}. U jízdy polní maršálek {Feldmarschalck}, generál, jeho poručík, generálmajor, generální pobočník, generální komisař, generální kvartýrmistr, generální profous a jeho poručík. Dále plukovníci {Colonell}: podplukovník, plukovní major, kvartýrmistr, rytmistr {Rittmeister}, poručík, kornet {Cornet}, desátník {Corporal} atd., sedlář, podkovář, profousové, markytáni atd. U dělostřelectva generál, jeho poručík, komisař nad děly, platebník {Zahlmeister}, kontrolor neboli protipísař {Gegenschreiber}, průvodce {Conducteur}, šlechtici u děl {Edelleuth von dem Geschütz}[^4], profous, jeho poručík, žalářník, profousův pacholek, lodníci {Matrosen}, pomocníci {Handlanger}, pionýři {Bineurs}. Dále komisař munice, písař, vrchní konstábl {Constabel}, jeho poručík, kanonýr, vrchní nad ohňostrojem {Fewrwerck}, petardýr, ohňostrůjce, vrchní
+poznamky:
+- n: 1
+  text: '„Bey Schimpff vnd Ernst“ – ustálené spojení: v boji cvičném i opravdovém (Schimpf = žert, hra); dále v textu ironicky „bey solchem Schimpff“ o boji.'
+- n: 2
+  text: Fiskál – vojenský žalobce, který u válečného soudu hájí zájmy válečného pána.
+- n: 3
+  text: Grefier (franc. greffier) – soudní písař, zapisovatel válečného soudu.
+- n: 4
+  text: Edelleuth von dem Geschütz (franc. gentilshommes de l'artillerie) – urození pomocní důstojníci dělostřelectva, kteří dohlížejí na jednotlivá děla a obsluhu.

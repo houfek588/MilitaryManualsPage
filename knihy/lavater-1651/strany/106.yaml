@@ -1,0 +1,47 @@
+id: '106'
+list: '106'
+strana: verso
+sken: 152
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Spießknechtjhre Spieß rings vmbher wie die groß zahl IV. außweiset/ vber einanderen schrencken/ vnd gegen der Reuterey fellen/ doch dergestalten/ daß der spitz just gegen des Pferds brust gelencket werde: vnd da vornen/ oder hinden ein Spießknecht darnider geschossen wurde/ geschwind ein anderer in sein lucken springen/ damit die Reuterey kein gassen habe eynzubrechen: also kanst du dich gegen der Reuterey dapffer wehren/ vnd mit diser ordnung vom Leib abhalten. Wo du dich aber mit deinen Musquetierern zu weit bloß für die Spieß begebest/ vnd es dir zu noht geschehe/ daß du dich nicht salvieren köntest/ wurde dir die Reuterey dieselbigen leichtfertig darnider machen. Du solt auch dein ordnung vor der Reuterey wol beschlossen halten/ doch daß ein jeder vor dem anderen sein Gewehr vnverhinderlich brauchen/ vnd dir die Reuter zwüschen den weiten lucken nicht eynbrechen mögen.
+  cs: |-
+    pikenýři {Spießknecht} své píky dokola překřížit přes sebe, jak ukazuje velké číslo IV, a sklopit je proti jízdě, avšak tak, aby hrot mířil přesně na koňskou hruď; a kdyby byl vpředu nebo vzadu některý pikenýr zastřelen, má do jeho mezery rychle skočit jiný, aby jízda neměla uličku, kudy vniknout. Tak se můžeš proti jízdě statečně bránit a tímto šikem si ji držet od těla. Kdybys však se svými mušketýry {Musquetierern} vyšel příliš daleko nekrytý před píky a dostal se do tísně, takže by ses nemohl zachránit, jízda by ti je snadno pobila. Svůj šik máš také proti jízdě držet dobře semknutý, avšak tak, aby každý mohl své zbraně užít, aniž by mu druhý překážel, a aby jezdci nemohli vniknout širokými mezerami.
+- typ: nadpis
+  uroven: 2
+  de: Die achte Schlachtordnung.
+  cs: Osmý bitevní šik
+- typ: odstavec
+  de: |-
+    Besihe das vierte Kupfferblat mit der grossen zahl VII. bezeichnet. Marschiere mit deinem ersten flügel Musquetierer 1. für die Ordnung hinauß/ vnd rucke mit 2. dem anderen Squadron Musquetierer hinder die Ordnung: also thue auch mit den vbrigen Musquetierern zur lincken seiten 7. vnd 8. so hast du ein Battaille von 4. flüglen oder Squadronen Musquetierer.
+  cs: |-
+    Viz čtvrtou mědirytinu {Kupfferblat}, označenou velkým číslem VII. Vytáhni se svým prvním křídlem mušketýrů, 1, dopředu před šik a s 2, druhou švadronou {Squadron} mušketýrů, postup za šik; totéž učiň i se zbylými mušketýry na levé straně, 7 a 8: tak budeš mít šik {Battaille} ze 4 křídel čili švadron mušketýrů.
+- typ: nadpis
+  uroven: 3
+  de: Worzu man dise Schlachtordnung brauchen solle.
+  cs: K čemu se má tento bitevní šik použít
+- typ: odstavec
+  de: |-
+    Wann du von dem Feind/ es sey gleich mit Fußvolck oder Reuterey angegriffen wirst/ so ist sie in beyd weg zu gebrauchen/ vnd kan deß ersten je ein flügel oder Squadron Musquetierer den anderen mit schiessen defendieren vnd entsetzen: vnd dich aber die Reuterey angriffe/ vnd du dich vnder die Spieß retirieren vnd begeben müßtest/ so lasse die 4. Squadronen Spieß mit 3. 4. 5. 6. bezeichnet/ zu allen 4. seiten/ wie der buchstaben B. außweiset/ hinauß fallen/ vnd sich eng vnd wol zusammen thun/ wie in der vorgehenden Schlachtordnung angezeigt worden/ vnd die Spieß vnd Musquetierer sich auff solche form durchauß verhalten/ so hast du ein gute Ordnung wider die Reuterey: man kan auch die 4. flügel Musquetierer/ wie die groß zahl II. vnd buchstab A. außweiset/ creutzweis anhencken/ vnd zu allen 4. ecken die Spieß außfallen lassen.
+  cs: |-
+    Napadne-li tě nepřítel, ať pěchotou nebo jízdou, lze jej použít v obou případech: nejprve může vždy jedno křídlo čili švadrona mušketýrů střelbou bránit a vystřídat druhé. Kdyby tě však napadla jízda a ty by ses musel stáhnout a uchýlit pod píky, nech 4 švadrony pík, označené 3, 4, 5, 6, vyrazit ven na všechny 4 strany, jak ukazuje písmeno B, a těsně a dobře se semknout, jak bylo ukázáno u předchozího bitevního šiku; a budou-li si píky a mušketýři ve všem počínat tímto způsobem, máš dobrý šik proti jízdě. Lze také čtyři křídla mušketýrů připojit křížem, jak ukazuje velké číslo II a písmeno A, a nechat píky vyrazit do všech 4 rohů.
+- typ: nadpis
+  uroven: 2
+  de: Die achte vnd erste Regiments- Schlacht- Stell- vnd Zugordnung.
+  cs: Osmý[^1] a první plukovní bitevní, postojový a pochodový šik
+- typ: odstavec
+  de: |-
+    Darvon besihe das fünffte Kupfferblat mit der grossen zahl I. bezeichnet. Wann du ein Schlachtordnung von 8. Fahnen machen wilt/ vnd ein Regiment vngefahr von 1600. Mann ist/ vnd darneben etliche Regimentstücklein bey dir hast/ so mach dein Stellordnung deß ersten also: Laß deine Feld- oder Regimentsstücklein für die Ordnung vorher stellen/ oder hinden/ wie es dir geliebt vnd schickt. Darnach lasse von 4. Compagnien die Musquetierer alle
+  cs: |-
+    K tomu viz pátou mědirytinu, označenou velkým číslem I[^2]. Chceš-li utvořit bitevní šik z 8 kompanií {Fahnen}, je-li pluk {Regiment} asi o 1600 mužích a máš-li kromě toho u sebe několik plukovních dělek {Regimentstücklein}[^3], udělej nejprve svůj postojový šik {Stellordnung} takto: Nech svá polní neboli plukovní dělka postavit dopředu před šik, nebo dozadu, jak se ti líbí a hodí. Potom nech všechny mušketýry ze 4 kompanií {Compagnien}
+poznamky:
+- n: 1
+  text: Tak v tisku („Die achte vnd erste …“), ačkoli předchozí šik je už osmý a následující je „neunte“ (devátý). Snad má být „devátý a první plukovní“, tj. první šik celého pluku; v překladu ponecháno podle tisku.
+- n: 2
+  text: Pátá mědirytina („blat V“) – v této edici tabule tab-11.
+- n: 3
+  text: Regimentsstücklein – lehká polní děla přidělená pluku (plukovní dělostřelectvo), tažená koňmi a pohybující se se šikem pěchoty.

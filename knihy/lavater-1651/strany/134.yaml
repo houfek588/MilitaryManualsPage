@@ -1,0 +1,35 @@
+id: '134'
+list: '134'
+strana: verso
+sken: 180
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    warten/ auff Befehl warten/ vnd denselbigen verrichten: die Troßbůben vnd ander vnnütz völcklein sollen ferrn von der Armada geführt/ vnd durch den Hůrenweibel etwan auff einen Berg gestellt werden/ damit der Feind sie von ferrnuß für Soldaten ansehen/ vnd desto eh erklufft werden möge.
+  cs: |-
+    k službám, čekat na rozkazy a vykonávat je. Pacholci z trénu {Troßbůben} a jiný neužitečný lid mají být odvedeni daleko od armády a šikovatel trénu {Hůrenweibel} je má postavit třeba na nějaký kopec, aby je nepřítel zdálky pokládal za vojáky a tím spíše se polekal[^1] {erklufft}.
+- typ: odstavec
+  de: |-
+    Was nun die Ordnungen anlanget/ vnd wie man mit Squadronen/ Trouppen/ Musquetierern/ Spieß- vnd Reutern/ auch Compagnien vnd Regimenter-weis fechten solle/ wirst du im dritten Theil von Schlachtordnungen genugsam gehört haben. Wann du nun deinen Feind mit der hilff Gottes geschlagen hast/ so soll nicht alles Volck dem Feind nachtrucken/ sonder nur etliche Reuter vnd Fůßvolck/ vnd die Ordnung beysammen verbleiben. Ein jedes Regiment soll seinen Beuthmeister haben/ damit das beuthen kein vnordnung mache/ vnd daß man nicht etwan durch einen hinderhalt des Feinds/ vnversehen vberfallen/ vnd in einer vnordnung ob der Beuth geschlagen werde.
+  cs: |-
+    Co se pak týče šiků a toho, jak se má bojovat po švadronách {Squadronen}, oddílech, mušketýrech, pikenýrech a jezdcích, i po kompaniích a plucích, o tom jsi dost slyšel ve Třetím dílu o bitevních šicích. Když jsi pak s Boží pomocí svého nepřítele porazil, nemá se za nepřítelem hnát všechen lid, nýbrž jen několik jezdců a pěších, a šik má zůstat pohromadě. Každý pluk má mít svého správce kořisti {Beuthmeister}, aby kořistění nezpůsobilo nepořádek a aby vojsko nebylo snad z nepřátelské zálohy znenadání přepadeno a v nepořádku nad kořistí poraženo.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wann man widerumb auß dem Feld ziehen solle.
+  cs: Kdy se má opět táhnout z pole.
+- typ: odstavec
+  de: |-
+    Wann nun es zeit/ daß man wegen des vngewitters vnd kälte nicht mehr im Feld bleiben mag/ solle man/ zu vermeydung allerley vngelegenheiten/ auß dem Feld/ vnd widerumb in die Winter-Quartier marschieren/ vnd ein jede Compagnie widerumb in jhre alte Guarnison.
+  cs: |-
+    Když nastane čas, že kvůli nepohodě a zimě už nelze zůstat v poli, má se, aby se předešlo všelijakým nesnázím, táhnout z pole zpět do zimních kvartýrů a každá kompanie zpět do své staré posádky {Guarnison}.
+- typ: odstavec
+  de: |-
+    Ende des letsten Theils dises Kriegsbüchleins/ vom Feldzug vnd Läger.
+  cs: Konec posledního dílu této Válečné knížky, o tažení a ležení.
+poznamky:
+- n: 1
+  text: '„erklufft“ – švýcarsky erchlüpfe, leknout se, polekat se.'

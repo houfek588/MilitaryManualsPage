@@ -1,0 +1,31 @@
+id: '041'
+list: '41'
+strana: recto
+sken: 75
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    machen/ vnd auffs new widerumb den Feind anfallen mögen/ woran mercklich vil gelegen ist. Jm fahl aber es je nicht geseyn mag/ vnd der Fendrich an seinem getrewen fleiß nichts erwinden lassen/ auch mehr nutz vnd raht nicht geschafft werden mag/ so ist jhme vnverweißlich/ daß er sehe/ wie er das Fendlein vnd seinen Leib darvon bringe. Er soll auch eh das Fendlein zu stucken reissen/ eh ers den Feinden zu theil werden laßt: dann es ist einem Fendrich ein grosse vnd verweißliche schmaach vnd schand/ so er ohne redliche vrsachen sein Fendlein verleuhret/ vnd das Leben darvon bringet/ eh soll er sich dareyn wicklen/ vnd jhme das Leben zusampt dem Fahnen nemmen lassen. Es soll auch ein Fendrich/ zu verwahrung des Fendleins/ ein lädernes fůtter haben/ damit er es vber das zusammen gewickelte Fendlein streiffen mag/ dann hierdurch im rägen vnd vngewitter dieselbigen hefftig darmit beschützet werden: vnd ist gut vnd von nöhten/ daß er sich gegen den Soldaten im Commando gelind halte/ jhnen freundlich zuspreche/ vnd so der ein oder der ander etwas straaffwürdiges verwürckt hette/ verthädigen helffe/ vnd den fähler abbitte/ damit er guten gunsten bey den Soldaten erwerbe. Vnd da sich etwan Auffruhr oder Rebellion vnder dem Fendlein erregete/ vnd sich die anderen Officier/ wegen strengen commandierens/ eusseren/ vnd nicht sehen lassen dörfften/ er solches mit guten vnd gelinden worten beylege vnd stille. Wo die Vestung belägert were/ soll er sich dapffer vnd mannlich erzeigen/ vnd allwegen/ da er die Wacht hat/ das Fendlein auff die Schantzkörb stecken/ gegen den Feinden fliegen vnd sich darbey finden lassen. Jm Sturm abtreiben/ soll er der vorderst/ vnd von den Feinden der letste seyn: Vnd da er gestellt wird/ auff der Stell verbleiben. Jn summa/ Er soll sich in allweg/ wie es einem rechtgeschaffenen Cavalier gebürt/ verhalten.
+  cs: |-
+    šik {ordnung} a znovu napadnout nepřítele; na tom velmi mnoho záleží. Pokud by to však nijak nebylo možné, praporečník {Fendrich} ve své věrné píli nic neopomenul a nedalo by se již nic prospět ani poradit, nelze mu vyčítat, hledí-li, jak zachránit praporec {Fendlein} i sebe. Raději má praporec roztrhat na kusy, než by jej nechal připadnout nepříteli; neboť pro praporečníka je velkou a trestuhodnou potupou a hanbou, ztratí-li bez řádné příčiny svůj praporec a vyvázne-li životem: raději se má do něho zavinout a nechat si vzít život spolu s korouhví {Fahnen}. Praporečník má také mít k ochraně praporce kožené pouzdro, aby je mohl přetáhnout přes svinutý praporec; tím jsou totiž praporce v dešti a nečase dobře chráněny. Je také dobré a potřebné, aby si vůči vojákům při velení počínal mírně, mluvil k nim vlídně, a kdyby se ten či onen dopustil něčeho trestuhodného, pomohl ho hájit a za jeho provinění se přimluvil, aby si u vojáků získal dobrou přízeň. A kdyby se snad v praporci zdvihla vzpoura nebo rebelie a ostatní důstojníci by se pro své přísné velení museli stáhnout a neodvážili by se ukázat, má to on dobrými a mírnými slovy urovnat a utišit. Je-li pevnost {Vestung} obléhána, má se projevovat statečně a mužně a pokaždé, když má stráž, má praporec postavit na šancovní koše {Schantzkörb}, nechat jej vlát proti nepříteli a sám u něho být. Při odrážení útoku {Sturm} má být první vpředu a od nepřítele [odcházet] poslední; a kam je postaven, tam má na místě setrvat. Zkrátka se má vždy chovat, jak se na řádného kavalíra sluší.
+- typ: nadpis
+  uroven: 3
+  de: Des Fendrichen Eyd.
+  cs: Přísaha praporečníka.
+- typ: odstavec
+  de: |-
+    Der Fendrich soll schweeren gemeiner Statt vnd Lands/ nutz/ frommen vnd ehre zu fürderen vnd schaden zu wenden: dem Fendlein/ so jhme befohlen ist/ zu warten/ vnd nicht darvon zu kommen: auch das in Streiten/ Stürmen vnd Gefechten offenbar vnd auffrecht zu halten/ vnd sich darvon nicht lassen tringen biß in den tod: auch gemein Ordinantz wahr vnd stät zu halten. Alles getrewlich vnd vngefahrlich.
+  cs: |-
+    Praporečník má přísahat, že bude hájit užitek, prospěch a čest celého města a země a odvracet škodu; že bude opatrovat praporec, který mu je svěřen, a neopustí jej; že jej v bojích, útocích a šarvátkách bude držet viditelně a zpříma a nedá se od něho zahnat až do smrti; a že bude pravdivě a pevně zachovávat obecný řád {Ordinantz}. Vše věrně a bez falše.
+- typ: nadpis
+  uroven: 3
+  de: Ein andere Eyds-Form.
+  cs: Jiná podoba přísahy.
+- typ: odstavec
+  de: |-
+    Ein Fendrich soll schweeren/ sein Leib vnd Leben bey dem Fendlein zu lassen/ also: wann er wird in die hand geschossen/ oder verwundt/ darinn er das Fendlein traget/ daß ers in die ander/ vnd so er an derselbigen auch geschädiget/ dasselbig ins maul nemme. Jn Stürmen/ Scharmützlen vnd Schlachten soll er dasselbig offenbar fliegen lassen. So ferr er aber von den Feinden vberrungen/ vnd dasselbig nimmermehr erhalten kan/ solle er
+  cs: |-
+    Praporečník má přísahat, že u praporce nechá tělo i život, a to tak, že bude-li střelen nebo raněn do ruky, v níž praporec nese, vezme jej do druhé, a bude-li zraněn i na té, vezme jej do úst. Při útocích, šarvátkách a bitvách jej má nechat zjevně vlát. Bude-li však nepřítelem přemožen a nebude-li jej již moci udržet, má se

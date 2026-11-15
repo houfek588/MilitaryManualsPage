@@ -1,0 +1,48 @@
+id: 094
+list: '94'
+strana: verso
+sken: 140
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Herren vnd Oberen von vnderschiedlichen Orten/ ein fleissig Aug auff sich selbst zu haben seind ermahnet/ vnd hierdurch vervrsachet worden/ sich auff allen begebenden nohtfahl/ vnd wider feindliches eynbrechen auch gefaßt zu halten/ haben derowegen/ etc. Vnd versehen sich also vnser gnädig Herren vnd Oberen/ jhr alß getrewe/ gehorsame Vnderthanen/ werden disem jhrem wolmeynlichem Oberkeitlichem ansehen gehorsamlich nachsetzen/ vnd alles das jenige thun/ was zu erhaltung der waaren Religion/ der Freyheit des Vatterlands/ vnd zu schutz vnd schirm vnserer Weib- vnd Kinderen/ ein jeder bidermann zu thun schuldig ist. Der Allmächtig Gott wölle zu disem allem sein heilige Gnad verleyhen/ vnd vns in gutem rhuwesen weiter gnädig erhalten.
+  cs: |-
+    páni a vrchnost, byli z různých míst napomínáni, aby na sebe bedlivě dávali pozor, a tím přiměni, aby se pro každý nastalý případ nouze i proti nepřátelskému vpádu drželi v pohotovosti, proto atd. A tak se naši milostiví páni a vrchnost nadějí, že vy jako věrní a poslušní poddaní tomuto jejich dobře míněnému vrchnostenskému nařízení poslušně vyhovíte a učiníte vše, co je každý řádný muž povinen učinit k zachování pravého náboženství, svobody vlasti a k ochraně a obraně našich žen a dětí. Všemohoucí Bůh nechť k tomu všemu propůjčí svou svatou milost a i nadále nás milostivě zachová v dobrém pokoji.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Ein andere form: Wie man ein Commission bey den Geschwornen ablegen solle.
+  cs: 'Jiný vzor: Jak se má vyřídit pověření {Commission} u přísežných {Geschwornen}.'
+- typ: odstavec
+  de: |-
+    Ehrsame/ etc. Jhr wüssen gemeiniglich in was gefaaren vnser lieb Vatterland/ ein gemeine lobliche Eydgnoschafft/ vorauß aber die vier Evangelische Stätt/ jetzt ein lange zeit gestanden/ da man zwaren verhoffte/ es möchte etwan durch einen gemeinen Friden im Reych/ das Wetter sich zertheilen/ vnd das hin- vnd herschwebende Kriegsvolck abgedancket/ vnd wir also der gefaaren entlediget werden. Dieweil man aber ein vnd alle tag das widerspiel erfahret/ vnd sich ein zimliche anzahl Volcks zu Ross vnd fuß eben nahe an den grentzen der Eydgnoschafft befindt/ seind vnser gnädig Herren vnd Oberen/ alß getrewe Vätter des Vatterlands bewegt worden/ auch das jhrige zu thun/ vnd sich auff den fahl gerüst vnd verfaßt zu halten. Haben derowegen/ etc. Vnd dieweil nun jhr jetz vorhanden seind/ hab ich euch hiemit dise Erkanntnuß vnserer gnädigen Herren wöllen eröffnen vnd will euch zugleich ermahnet haben/ daß jhr bey eweren vertrawten Gmeinden solches außrichtind/ ohne längeren verzug/ auff daß Sie vnser gnädig Herren sich auff den nohtfahl ferrners zu verhalten wüssind. Das werden Sie vnser gnädig Herren in gnädigem vnd günstigem willen von euch annemmen/ vnd werden jhr eben das thun/ was ein jeder ehrlicher bidermann für sein Vatterland zu thun schuldig ist.
+  cs: |-
+    Ctihodní atd. Všichni víte, v jakých nebezpečích už dlouhou dobu stojí naše milá vlast, celé chvályhodné Spříseženstvo, a především čtyři evangelická města.[^1] Doufalo se sice, že se snad obecným mírem v Říši[^2] bouře rozptýlí, sem a tam se potulující válečný lid bude propuštěn a my tak budeme zbaveni nebezpečí. Protože však den co den zakoušíme opak a nemalé množství vojska na koni i pěšky se nachází nedaleko hranic Spříseženstva, byli naši milostiví páni a vrchnost jako věrní otcové vlasti pohnuti, aby i oni učinili, co je na nich, a drželi se pro ten případ vyzbrojeni a připraveni. Proto atd. A protože jste nyní zde, chtěl jsem vám tímto oznámit toto usnesení našich milostivých pánů a zároveň vás napomenout, abyste je bez dalšího odkladu vyřídili v obcích, které jsou vám svěřeny, aby naši milostiví páni věděli, jak se mají pro případ nouze dále zařídit. To od vás naši milostiví páni přijmou s milostivou a laskavou vůlí a vy učiníte právě to, co je každý čestný a řádný muž povinen učinit pro svou vlast.
+- typ: nadpis
+  uroven: 3
+  de: Ein andere form.
+  cs: Jiný vzor.
+- typ: odstavec
+  de: |-
+    Fromme/ etc. Vnsere gnädige Herren vnd Oberen/ Burgermeister vnd Raht der Statt N. haben auß anlaß jetziger läuffen angesehen/ daß allenthalben in jhrer Statt vnd Landschafft/ die Wehr vnd Waaffen besichtiget/ vnd die Rotten der Compagnien vnd Fendlinen allhiesigen Quartiers completiert vnd ergäntzt werden: die vnaußgezogenen aber besonderbar außgezeichnet/ vnd also vnder die Compagnien eynget heilt werden möchten/ damit ein jeder wüsse/ wohin er sich mit seinem Vberwehr/ in Stürm vnd Gläuff/ nicht allein verfügen/ sondern auch seinen Hauptmann erkennen möge. Der vrsachen wegen auch ich/ Jährlichem gebrauch nach/ zu euch auff das
+  cs: |-
+    Řádní atd. Naši milostiví páni a vrchnost, purkmistr a rada města N., nařídili vzhledem k nynějšímu běhu věcí, aby se všude v jejich městě i na venkově prohlédly zbraně a zbroj a aby se doplnily a zkompletovaly roty {Rotten} kompanií {Compagnien} a praporců {Fendlinen} zdejšího obvodu {Quartiers}; ti však, kdo nejsou ve výběru {vnaußgezogenen},[^3] aby byli zvlášť zapsáni a tak rozděleni do kompanií, aby každý věděl, kam se má se svou dlouhou zbraní {Vberwehr} při poplachu a srocení {Stürm vnd Gläuff}[^4] dostavit, a aby také znal svého hejtmana. Z toho důvodu jsem i já podle každoročního zvyku přijel k vám do
+poznamky:
+- n: 1
+  text: >-
+    Čtyři evangelická (reformovaná) města Spříseženstva: Curych, Bern, Basilej a Šafhúzy.
+- n: 2
+  text: >-
+    Narážka na jednání o obecný mír v Říši na konci třicetileté války (mír vestfálský 1648); text řeči pochází
+    zřejmě již z 1. vydání (1644).
+- n: 3
+  text: >-
+    Auszug – „výběr“: první odvod švýcarské domobrany, muži určení k tažení. Unaußgezogene / unaußgesetzte = muži,
+    kteří do výběru zařazeni nejsou (záloha).
+- n: 4
+  text: >-
+    Sturm (zvonění na poplach, „Landsturm“) a Gläuff (sbíhání lidu) – švýcarské výrazy pro poplach a hromadné
+    vyburcování domobrany.

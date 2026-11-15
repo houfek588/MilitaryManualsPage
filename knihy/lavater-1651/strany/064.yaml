@@ -1,0 +1,47 @@
+id: '064'
+list: '64'
+strana: verso
+sken: 98
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Von den Kundtschaffteren vnd Recognoscierenden.
+  cs: O zvědech a průzkumnících.
+- typ: nadpis
+  uroven: 3
+  de: Wie man die Kundtschafft anstellen solle.
+  cs: Jak zařídit zpravodajství.
+- typ: odstavec
+  de: |-
+    Ein jeder Gubernator oder Capitain soll sich dahin bearbeiten/ daß er gute Kundtschaffter von Männeren vnd Weiberen haben möge: ja deren so vil alß er bekommen mag: Es soll auch keiner von dem anderen wüssen/ so wird man der besten vnd heimlichsten bald gewahr: vnd soll insonderheit hierinnen kein Gelt angesehen werden/ dann in einer solchen sach kan man mit einem gulden offt 100000. gulden erhalten: es ist auch der best weg vnd handel dem Feind zu begegnen.
+  cs: |-
+    Každý guvernér {Gubernator} nebo hejtman {Capitain} se má snažit, aby měl dobré zvědy {Kundtschaffter}, muže i ženy, a to tolik, kolik jich jen dokáže získat. Žádný z nich nemá vědět o druhém; tak se brzy pozná, kteří jsou nejlepší a nejmlčenlivější. Zvláště se tu nemá hledět na peníze, neboť v takové věci lze jedním zlatým často zachránit 100 000 zlatých. Je to také nejlepší cesta a způsob, jak nepříteli čelit.
+- typ: nadpis
+  uroven: 3
+  de: Wie man die Kundtschaffter auß der Guarnison lassen solle.
+  cs: Jak pouštět zvědy z posádky.
+- typ: odstavec
+  de: |-
+    Erstlich soll man es durch die Corporalen den Reutern vnd Fußknechten in geheim anzeigen/ vnd wann es zeit/ die Porten beschlossen halten/ vnd an statt der vergaderung zur Wacht blasen vnd schlagen: vnd da man außzeucht/ fleissig achtung geben/ daß niemand/ es seyen gleich Weibs- oder Mannspersonen/ jung oder alt/ mit aussen wütsche/ damit die Recognoscierer oder Beuthgänger nicht verrahten werden: vnd so bald sie zur Porten auß seind/ ohne verzug/ die Porten hinder jhnen beschliessen lassen/ darnach drey/ vier/ oder mehr stund verschlossen halten.
+  cs: |-
+    Nejprve se to má jezdcům a pěším knechtům {Fußknechten} tajně oznámit prostřednictvím desátníků {Corporalen}. Když přijde čas, mají se brány držet zavřené a místo k shromáždění se má troubit a bubnovat jen na stráž. Při výjezdu se má bedlivě dbát, aby s nimi nikdo – ať žena, či muž, mladý, či starý – nevyklouzl ven a průzkumníci {Recognoscierer} nebo kořistníci {Beuthgänger} nebyli prozrazeni. Jakmile vyjdou z brány, má se brána za nimi bez odkladu zavřít a pak držet zavřená tři, čtyři nebo více hodin.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie sich ein Trouppen im Recognoscieren oder auff Partheyen halten solle.
+  cs: Jak si má oddíl počínat při průzkumu nebo na výpravách.
+- typ: odstavec
+  de: |-
+    Erstlich/ solle man offt Trouppen/ je nach dem man sie groß oder klein zu fuß oder zu Pferd/ 9. 11. 13. 19. 31. 51. 69. 101. mehr oder minder/ allzeit vngerad/ nach der Soldaten brauch/ außschicken denen verordnet man einen Gitz oder Führer/ auch mehr/ je nach dem die Trouppen seind: vnd so bald sie in das Feld kommen/ schicken sie einen verlohrnen Trouppen vorher/ der auff die 600. schritt vngefahr vortrabet oder marschiert/ vnd außkundtschaffet/ ob Feind vorhanden. Vnd so der Feind sie angriffe/ der grosse nachfolgende Trouppen sich darnach besser zu verhalten vnd rüsten möge. Alle Häuser vnd Dörffer sollen sie/ so vil möglich/ meyden/ vnd das zu jhnen kommt/ es sey jung oder alt/ bey jhnen behalten/ vnd so sie auffbrächen/ widerumb von jhnen einen anderen weg fort schicken/ damit sie nicht verrahten werden. Die Schiltwachten auff einem weiten Feld sollen sie auff wolgelaubete oder geblätterte bäum steigen lassen/ vnd insonderheit bäum/ so hoch/ vnd zur Schiltwacht daugenlich außsuchen: vnder solchem baum halten zween Reuter/ oder zween zu fuß/ damit der auff dem baum/ so weit vber das Feld sehen kan/ vnd etwas gewahr wird/ es den anderen anzeige/ vnd selbige es dem grossen hauffen oder Parthey anmelden mögen. Jn Dörfferen stellen sie offt auff das Windenhauß vnder das Tach/ da sie Ziegel auffheben/ auch eine oder mehr Schiltwachten/ vnd für das Hauß auch eine oder mehr: dieselben seind
+  cs: |-
+    Nejprve se mají často vysílat oddíly {Trouppen}, podle potřeby velké či malé, pěší nebo jízdní, o 9, 11, 13, 19, 31, 51, 69, 101 mužích, více či méně, podle vojenského zvyku vždy v lichém počtu. Přidělí se jim jeden průvodce {Gitz}[^1] neboli vůdce, případně i více, podle velikosti oddílu. Jakmile vyjdou do pole, vyšlou před sebou ztracený oddíl {verlohrnen Trouppen},[^2] který jede klusem nebo pochoduje asi 600 kroků napřed a zjišťuje, zda nablízku není nepřítel; kdyby je nepřítel napadl, může se velký oddíl, který jde za ním, podle toho lépe zařídit a připravit. Všem domům a vesnicím se mají pokud možno vyhýbat; kdokoli k nim přijde, mladý či starý, toho mají zadržet u sebe, a když vyrážejí dál, poslat ho od sebe jinou cestou, aby nebyli prozrazeni. Na širém poli mají nechat stálé stráže {Schiltwachten} vylézt na hustě olistěné stromy a vyhledávat k tomu zvláště stromy vysoké a pro stráž vhodné. Pod takovým stromem stojí dva jezdci nebo dva pěší, aby jim ten na stromě, který vidí daleko přes pole, oznámil, jakmile něco zpozoruje, a oni to pak mohli hlásit hlavnímu houfu neboli výpravě {Parthey}. Ve vesnicích často postaví jednu nebo více stráží na půdu {Windenhauß}[^3] pod střechu, kde nadzvednou tašky, a před dům rovněž jednu nebo více; ty jsou
+poznamky:
+- n: 1
+  text: Gitz – patrně z fr. guide, místní průvodce znalý cest.
+- n: 2
+  text: |-
+    Ztracený oddíl – malý předsunutý oddíl, který jde napřed a jako první narazí na nepřítele (srov. ztracený houf).
+- n: 3
+  text: Windenhauß – ve švýcarské němčině Winde = půda, podkroví.

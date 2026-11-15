@@ -1,0 +1,34 @@
+id: '030'
+list: '30'
+strana: verso
+sken: 64
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    offt vnversehenlich selbsten des nachts zu thun/ vnd vmb mehrers ansehens willen vnderweilen sich auff der Parade sehen lassen: auch die redlichen vnd verdienten wol belohnen vnd promovieren/ vnd gute Kriegs-Ordnung halten: mit den Neutralisten benachbarten soll er gute freundschafft haben: kein Gelt sich an gute kundtschafft/ miet/ gaaben vnd versprechungen nicht dauren lassen/ die Bawren der Landschafft zu guten freunden halten/ alß durch welche er das meiste erfahren kan: wo auch der Feind vorhanden/ oder im anzug were/ redliche Leuth bestellen/ die des Feinds Artillerey/ Pulfer/ Munition oder Reuter-Läger anzünden vnd verbrennen. Er solle sich auch befleissen/ etliche der Feinden lebendig zu fangen/ damit er des Feinds heimlichkeit von jhnen erfahren möge/ vnd so solche sagen das man gern hört/ soll er selbiges vnder das Volck spargieren/ vnd da das widerspiel/ den gefangenen solches verbieten/ vnd niemand öffnen: die gefangenen solle er nicht allein lassen/ sonder allzeit jhnen etwar zugeben/ sie wol halten/ jhnen gesellschafft le isten/ vnd einige schmaach nicht zustatten lassen: in summa/ es soll ein verständiger Gubernator selbs dahin trachten/ wo mit er dieseinen desendieren/ dem Feind aber abbruch vnd nachtheil zufügen möge. Vnd dann ob einer in der Besatzung/ alß ein Verrähter ertappet wurde/ der soll mit strenger fraag erstlich ersucht/ vnd durch jhne der Feind practicken erdauret werden: nachmals/ so er solches verschuldt/ der Verrähter in vier theil getheilt/ alßdann vber die Mauren außgehenckt/ vnd die verrähterey dem Feind zu erkennen gegeben werden. Es soll auch kein frömbder weder zu tag noch zu nacht in die Vestung vnexaminiert eyn- oder außgelassen/ auch keine Brieff inn- oder aussert die Vestung geschickt werden/ eh vnd zuvor dieselbigen vom Gubernator durchlesen/ vnd mit seinem Sigel verschlossen worden.
+  cs: |-
+    má často a nečekaně konat sám v noci a kvůli větší vážnosti se má občas ukázat na seřadišti {Parade}[^1]. Má také statečné a zasloužilé dobře odměňovat a povyšovat a udržovat dobrý válečný řád. S neutrálními {Neutralisten} sousedy má udržovat dobré přátelství; nemá litovat peněz na dobré zpravodajství, na úplatky, dary a sliby; sedláky z okolního kraje si má držet jako dobré přátele, neboť skrze ně se dozví nejvíc. Je-li nepřítel nablízku nebo se blíží, má najmout spolehlivé lidi, kteří by mu zapálili a spálili dělostřelectvo {Artillerey}, prach, munici nebo jezdecké ležení. Má se také snažit zajmout některé nepřátele živé, aby se od nich dozvěděl nepřítelova tajemství; a povídají-li to, co se rádo slyší, má to rozšířit mezi lid, je-li tomu naopak, má to zajatcům zakázat a nikomu to nevyjevovat. Zajatce nemá nechávat o samotě, nýbrž má k nim vždy někoho přidělit; má s nimi dobře zacházet, poskytovat jim společnost a nedopustit, aby jim byla učiněna nějaká potupa. Zkrátka, rozumný guvernér {Gubernator} má sám usilovat o to, čím by své lidi ubránil a nepříteli způsobil oslabení a škodu. A byl-li by někdo v posádce {Besatzung} přistižen jako zrádce, má být nejprve vyslýchán útrpným právem {strenger fraag} a skrze něho mají být vyzkoumány nepřítelovy úklady {practicken}; potom, provinil-li se tím, má být zrádce rozčtvrcen, [části těla] vyvěšeny přes hradby a zrada tak dána nepříteli na vědomí. Také nemá být žádný cizinec ve dne ani v noci vpuštěn do pevnosti nebo z ní vypuštěn bez výslechu a žádné listy se nemají posílat do pevnosti ani z ní, dokud je guvernér nepřečte a nezapečetí svou pečetí.
+- typ: odstavec
+  de: |-
+    Was aber weiters eines Gubernators Ampt ist/ daß er alle tag sich mit seinen Rähten in Kriegs-Raht verfüge/ vnd was zum heyl der Besatzung dienstlich/ fleissig berahtschlagen helffe. Jm übrigen was jhme weiters zu thun gebürt/ wird der liebe Leser nach vnd nach genugsam berichtet werden.
+  cs: |-
+    K úřadu guvernéra dále patří, aby se každý den se svými rady odebral do válečné rady {Kriegs-Raht} a pomáhal pilně uvažovat o tom, co slouží ke zdaru posádky. Co dalšího mu náleží činit, o tom bude milý čtenář postupně dostatečně poučen.
+- typ: nadpis
+  uroven: 3
+  de: Was des Gubernators Eyd seys.
+  cs: Jaká je guvernérova přísaha.
+- typ: odstavec
+  de: |-
+    Der Gubernator solle die Vestung in gute verwahrung nemmen/ vnd selbige jhme/ alß sein eygen Seel/ Ehr/ Leib vnd Leben befohlen seyn lassen/ sie auch in kein ander Herren händ/ dann vnser gnädig Herren vnd einer loblichen Statt N. weder durch gifft/ forcht/ liebe/ gunst oder haß/ nichts außgenommen/ wie das mag genennt werden/ kommen lassen/ sonder darinnen bleiben/ vnd in seiner verwahrung vnd hůt halten/ alß sein eygen Seel/ Leib/ Ehr/ Gut oder Leben/ vnd darinn biß auff befelch hochgedachter Oberkeit/ verharren/ sich darinn beschiessen vnd bestürmen lassen/ vnd was jhme derhalben von dem Feind zustaht/ alles vnangesehen/ sich biß er mit gewalt mit den
+  cs: |-
+    Guvernér má pevnost vzít do dobré ochrany a mít ji svěřenu jako vlastní duši, čest, tělo a život; nemá dopustit, aby se dostala do rukou jiných pánů než našich milostivých pánů a chvalného města N., ať pro dary[^2], strach, lásku, přízeň či nenávist, nic nevyjímaje, ať se to nazývá jakkoli; nýbrž má v ní zůstat a držet ji ve své ochraně a stráži jako vlastní duši, tělo, čest, statek či život, a setrvat v ní až do rozkazu výše řečené vrchnosti, nechat se v ní ostřelovat a zteči {bestürmen} a nehledě na nic, co ho přitom od nepřítele potká, se má, dokud ho násilím za
+poznamky:
+- n: 1
+  text: |-
+    Parade – nástupiště (seřadiště) posádky, kde se denně shromažďuje stráž před odchodem na stanoviště a vydává se heslo; podrobně o ní Lavater dále na s. 53–55.
+- n: 2
+  text: |-
+    Gifft – zde v dobovém významu „dar, úplatek“ (srov. Mitgift), nikoli jed.

@@ -1,0 +1,34 @@
+id: '108'
+list: '108'
+strana: verso
+sken: 154
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ein solche Schlachtordnung/ wie die groß zahl I. außweiset/ machen wilt/ so marschier mit 1. dem ersten Trouppen zweyer Compagnien vnd seinem Regimentsstücklein hinauß: auff welchen wird auch der ander Squadron oder Trouppen sampt seinem Regimentsstücklein folgen/ wie 2. anzeiget: also kanst du es mit den 2. Squadronen zur lincken seiten auch machen/ wie du dann bey 7. vnd 8. sehen wirst: rucke alßdann mit deinen Fendlinen in die mitte der Spieß vnd mit den 2. Regimentsstücklinen zur seiten hinab hinder die Ordnung/ vnd verbleibe mit den Spiessen in deiner guten ordnung vnd distantz.
+  cs: |-
+    utvořit takový bitevní šik, jak ukazuje velké číslo I, vytáhni ven s 1, prvním houfem {Trouppen} dvou kompanií {Compagnien}, a s jeho plukovním dělkem {Regimentsstücklein}; za ním bude následovat i druhá švadrona {Squadron} čili houf se svým plukovním dělkem, jak ukazuje 2. Stejně to můžeš udělat i se 2 švadronami na levé straně, jak uvidíš u 7 a 8. Potom postup se svými praporci {Fendlinen} doprostřed pík {Spieß} a se 2 plukovními dělky po stranách dolů za šik a s pikami zůstaň ve svém dobrém pořádku a rozestupu {distantz}.
+- typ: nadpis
+  uroven: 3
+  de: Wie man mit diser Schlachtordnung fechten solle.
+  cs: Jak se má s tímto bitevním šikem bojovat
+- typ: odstavec
+  de: |-
+    Wann dich nun dein Feind von vornen angreifft/ so kanst du mit jhme mit 1. vnd 8. scharmützieren/ vnd die Regimentsstücklein zu beyden seiten gegen jhm brauchen/ vnd da du von jhme getriben wirst deine Pferd widerumb für die Regimentsstücklein anspannen/ darvon marschieren/ vnd dich salvieren: die anderen Musquetierer sollen beyneben den Spiessen sich inzwüschen auff die Erden nider lassen/ damit jhnen das geschoß nichts schaden möge/ auch vnderweilen mit jhren Stücklinen spilen/ vnd widerumb laden: wo aber es zeit ist/ die Musquetierer mit einem geschrey auffwütschen/ die ersten 2. Squadronen entsetzen. Wann du nun von dem Feind stärcker mit Volck antastet wirst/ sollen die ersten auch auffwütschen/ vnd jhre erlöser entsetzen: treibt er dich aber zu ruck/ so hast du noch zum hinderhalt deine 2. Regimentsstücklein neben den Spiessen/ welche mit hagel geladen seyn sollen: darauff wütsche auch mit den Spiessen vnd newem geschrey hinauff/ falle den Feind an/ vnd wehre dich auffs best/ alß du kanst. Es soll die Bagagie/ Munition vnd Fůhr/ da du den Feind von vornen zu besorgen hast/ hinder der Battaille oder Zugordnung marschieren: hast du jhn aber auff der seiten/ so magst du dich darmit auff die ander seiten begeben: hast du jhn aber hinden zu besorgen/ so lasse sie vornen: vnd so du jhne in allweg förchtest/ so lasse sie in der mitte der Ordnung/ wol bedecket/ marschieren.
+  cs: |-
+    Napadne-li tě nepřítel zepředu, můžeš s ním svádět šarvátky s 1 a 8 a použít proti němu plukovní dělka na obou stranách; a zatlačí-li tě, zapřáhni opět koně do plukovních dělek, odtáhni a zachraň se. Ostatní mušketýři {Musquetierer} si mají mezitím spolu s pikami lehnout na zem, aby jim střelba nemohla uškodit, a občas také pálit ze svých dělek a znovu nabíjet. Když však nastane čas, mají mušketýři s pokřikem vyskočit a první 2 švadrony vystřídat. Napadne-li tě pak nepřítel větší silou lidu, mají i ti první vyskočit a vystřídat ty, kdo vystřídali je. Zatlačí-li tě však zpět, máš ještě v záloze {hinderhalt} svá 2 plukovní dělka vedle pík, která mají být nabita kartáči {hagel}; nato vyraz i s pikami s novým pokřikem vpřed, udeř na nepřítele a braň se, jak nejlépe umíš. Zavazadla {Bagagie}, munice a povozy {Fůhr} mají pochodovat za bitevním šikem {Battaille} čili pochodovým šikem, musíš-li se obávat nepřítele zepředu; máš-li ho však po boku, můžeš se s nimi přesunout na druhou stranu; obáváš-li se ho zezadu, nech je vpředu; a bojíš-li se ho ze všech stran, nech je pochodovat uprostřed šiku, dobře kryté.
+- typ: nadpis
+  uroven: 2
+  de: Die neunte Battaille oder Schlachtordnung.
+  cs: Devátý šik neboli bitevní sestava
+- typ: odstavec
+  de: |-
+    Besihe das fünffte Kupfferblat mit den grossen zahlen II. IV. V. bezeichnet. Wann du ein Regiment von 8. Compagnien zu fůß/ vnd 12. Compagnien zu Pferd hast/ so solt du dein Zugordnung in form nechst bevorstehender Zugordnung anstellen: doch mustu die helffte der Reuterey vorher/ vnd auff solche etliche Schauffelbawren vnd Wägen mit Bawren Jnstrument/ sampt einem oder zweyen geringen Stucken marschieren lassen: die Ordnung aber zu letst mit Reuteren beschliessen. Hast du aber das Hauptgeschütz bey dir/ so lasse dasselbig hinden auff das Fůßvolck/ oder je nach dem du den Feind besorgest/ vornen/ oder neben marschieren. Die Fundamentsordnung wird der nechstvorgehenden durchauß gleich gemachet/ allein daß zu beyden
+  cs: |-
+    Viz pátou mědirytinu {Kupfferblat}, označenou velkými čísly II, IV, V. Máš-li pluk {Regiment} o 8 kompaniích pěchoty a 12 kompaniích jízdy, máš svůj pochodový šik {Zugordnung} uspořádat po způsobu právě předcházejícího pochodového šiku; musíš však nechat pochodovat napřed polovinu jízdy a za ní několik šancířů {Schauffelbawren} a vozů se selským nářadím spolu s jedním nebo dvěma lehkými děly {Stucken}; šik však nakonec uzavři jezdci. Máš-li však u sebe hlavní dělostřelectvo {Hauptgeschütz}[^1], nech je pochodovat vzadu za pěchotou, anebo podle toho, odkud se obáváš nepřítele, vpředu či po boku. Základní šik {Fundamentsordnung} se dělá zcela stejně jako ten bezprostředně předcházející, jen s tím rozdílem, že na obou
+poznamky:
+- n: 1
+  text: Hauptgeschütz – těžká polní děla vojska (na rozdíl od lehkých plukovních dělek, Regimentsstücklein), která se vezou zvlášť a v bitvě se staví před šik nebo za něj jako záloha.

@@ -16,11 +16,13 @@ import datetime, re, sys, pathlib
 import yaml
 
 
-def poradi(kniha):
-    meta = yaml.safe_load((kniha / 'kniha.yaml').read_text(encoding='utf-8'))
-    front = meta.get('predsadka', [])
-    ids = [f.stem for f in (kniha / 'strany').glob('*.yaml')]
-    return sorted(ids, key=lambda i: (0, front.index(i)) if i in front else (1, int(i[:3]) * 2 + (i[3] == 'v')))
+def poradi(kniha_dir):
+    """Pořadí stran edice = pořadí skenů (pole `sken`); funguje pro foliaci i stránkování."""
+    klice = []
+    for f in (kniha_dir / 'strany').glob('*.yaml'):
+        m = re.search(r'^sken:\s*(\d+)', f.read_text(encoding='utf-8'), flags=re.M)
+        klice.append((int(m.group(1)) if m else 10 ** 6, f.stem))
+    return [i for _, i in sorted(klice)]
 
 
 def rozbal(args, vse):

@@ -1,0 +1,74 @@
+id: 088
+list: '88'
+strana: verso
+sken: 134
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wider den Feind gebrauchen wilt/ vnd werden die Reyen also gedopliert: der erste ausserste Reyen zur rechten seiten bleib stehen: deßgleichen der 3. 5. 7. 9. 11. so gedopplet werden/ vnd also fortan: dargegen gehet der 2. 4. 6. 8. 10. Reyen/ vnd gehet allzeit ein Mann auff die recht hand/ hinder seinen neben jhme/ zur rechten hand in seinem Glid/ stehenden Mann.
+  cs: |-
+    proti nepříteli využít. Zástupy {Reyen} se zdvojují takto: první, krajní zástup na pravé straně zůstane stát, stejně tak 3., 5., 7., 9., 11. [zástup], které se zdvojují, a tak dále; naproti tomu 2., 4., 6., 8., 10. zástup vyjde, a to tak, že každý muž přejde vpravo za muže, který stojí vedle něho po pravé ruce v jeho řadě {Glid}.
+- typ: nadpis
+  uroven: 3
+  de: 'Wann man spricht: Lincks doppliert ewere Reyen.'
+  cs: 'Když se řekne: „Vlevo zdvojte zástupy“.'
+- typ: odstavec
+  de: |-
+    Alßdann bleibt der erste ausserste Reyen zur lincken seiten stehen/ wie auch der 3. 5. 7. 9. 11. vnd fortan/ so gedoppliert werden/ vnd gehet alßdann der 2. 4. 6. 8. 10. Reyen/ etc. vnd je ein Mann seinem nebenstehenden/ hinder den rucken auff die lincke hand.
+  cs: |-
+    Tehdy zůstane stát první, krajní zástup na levé straně, stejně jako 3., 5., 7., 9., 11. a další, které se zdvojují; a vyjde 2., 4., 6., 8., 10. zástup atd., a to vždy jeden muž za záda svého souseda po levé ruce.
+- typ: nadpis
+  uroven: 3
+  de: Erstellt euch.
+  cs: „Zpět na místa.“
+- typ: odstavec
+  de: Jst/ wann man sich widerumb an sein vorige stell stellet.
+  cs: To je, když se každý opět postaví na své předchozí místo.
+- typ: nadpis
+  uroven: 3
+  de: Richtet Reyen vnd Glider.
+  cs: „Vyrovnejte zástupy a řady.“
+- typ: odstavec
+  de: |-
+    Jst/ wann ein Mann von dem anderen im Glid vnd Reyen einen guten schritt nimmt/ vnd eben im Glid vnd Reyen stehet: vnd kan solches im Reyen geschehen/ wann je einer dem anderen vber sein scheitel des Haupts außsihet.
+  cs: |-
+    To je, když si každý muž od druhého v řadě i v zástupu vezme dobrý krok [odstupu] a stojí rovně v řadě i v zástupu. V zástupu se toho dosáhne tak, že každý hledí přes temeno hlavy muže před sebou.
+- typ: nadpis
+  uroven: 3
+  de: Warumb man Glider vnd die Reyen richten vnd ebnen solle.
+  cs: Proč se mají řady a zástupy vyrovnávat a srovnávat.
+- typ: odstavec
+  de: |-
+    Darumb/ weiln es gut für das Geschütz ist: dann wo die Kegel eben vnd weit von einanderen stehen/ so laufft gern die Kugel zwüschen durch/ vnd trifft nicht bald/ so aber einer aussert den Reyen were/ möchte selbiger desto ehender getroffen werden.
+  cs: |-
+    Proto, že je to dobré proti dělům: kde kuželky stojí rovně a daleko od sebe, koule často proletí mezi nimi a tak snadno nezasáhne; kdyby však někdo stál mimo zástup, mohl by být zasažen spíše.
+- typ: nadpis
+  uroven: 3
+  de: Mit halben Reyen rechts dopplieret ewere Glider.
+  cs: „S polovičními zástupy zdvojte řady vpravo.“
+- typ: odstavec
+  de: |-
+    Darumb/ weiln man auß 6. Glideren 3. vnd auß. 20. Reyen 40. Reyen machen kan. Vnd namlich/ es werden die drey hinderen Glider in die drey vordersten auff die rechte hand eyngeführt: dergestalten/ daß das vierte Glid in das vorderste vnd erste/ das fünffte in das ander/ vnd das sechßte in das dritte Glid geführt werden: vnd kan man also ein Schlacht-Ordnung noch ein mal so breit/ vnd vmb das halbe theil kürtzer machen.
+  cs: |-
+    Děje se to proto, že tak lze ze 6 řad udělat 3 a z 20 zástupů 40 zástupů. Totiž tři zadní řady se uvedou do tří předních po pravé ruce, a to tak, že čtvrtá řada se uvede do přední, tedy první, pátá do druhé a šestá do třetí řady. Tak lze bitevní šik {Schlacht-Ordnung} udělat dvakrát tak široký a o polovinu kratší [do hloubky].
+- typ: nadpis
+  uroven: 3
+  de: Mit halben Reyen lincks dopplieret ewere Glider.
+  cs: „S polovičními zástupy zdvojte řady vlevo.“
+- typ: odstavec
+  de: |-
+    Es hat darmit ein gleiche form vnd gattung/ außgenommen/ daß man alßdann die hindersten Glid lincks eynführet.
+  cs: |-
+    Má to stejnou podobu a způsob, jen s tím rozdílem, že se zadní řady uvádějí zleva.
+- typ: nadpis
+  uroven: 3
+  de: Erstellt euch.
+  cs: „Zpět na místa.“
+- typ: odstavec
+  de: |-
+    Es verfügt sich alß dann ein jeder widerumb/ da man Rechts sich erstellen heißt/ rechts: da man sich aber Lincks erstellen heißt/ Lincks auff sein vorige stell.
+  cs: |-
+    Každý se pak opět odebere na své předchozí místo: když se velí „Vpravo zpět na místa“, vpravo, když se však velí „Vlevo zpět na místa“, vlevo.

@@ -1,0 +1,50 @@
+id: '063'
+list: '63'
+strana: recto
+sken: 97
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ein anderer geringer Officier von der Hauptwacht/ welcher alles was in die Besatzung kommt examiniert vnd visitiert.
+  cs: |-
+    jiný nižší důstojník z hlavní stráže, který vyslýchá a prohlíží vše, co do posádky přichází.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie man die frömbd ankommenden Leuth examinieren/ vnd die Schiff/ Wägen oder anders visitieren solle.
+  cs: |-
+    Jak se mají vyslýchat přicházející cizí lidé a prohlížet lodě, vozy a jiné věci.
+- typ: odstavec
+  de: |-
+    Die frömbd ankommenden Personen werden von der Schiltwacht/ so zu ausserst vor der Porten am Schlagbaum stehet/ auffgehalten vnd examiniert/ welche alßdann dem Officier/ so vnder der Porten/ oder daselbsten die Wacht haltet/ zurüffet/ darauff die frömbde Person gleichfals von gedachtem Officier examiniert/ vnd mit einem Soldaten so dem Examen beygewohnt/ nach der Hauptwacht geschickt/ vnd daselbsten abermalen vor dem gemeldten Soldaten examiniert wird/ der dann mit der frömbden Person zu dem Gubernator gehet/ da sie widerumb geexaminiert wird: vnd da sie vnargwöhnisch erfunden/ wird offtgedachter Soldat jhro/ biß sie jhr affaire vnd geschäfft verrichtet/ zugegeben: Nach verrichtung jhrer geschäfft aber widerumb zur Porten außbegleitet: Wo aber die frömbd Person ehehaffter geschäfften halber vber nacht verbleiben wolte/ wird jhro ein Herberig gezeiget/ darinnen sie vber nacht verbleiben muß/ etc. Wann Wägen mit Höw/ Stroh/ Holtz/ Mist/ oder mit beschlossenen Kisten: Jtem Schiff oder andere verdächtige Sachen ankämen/ solle der Officier dieselben vor der Porten mit einer langen von eysen/ vnd vnden scharpff vnd spitzgemachter Stangen durchstossen/ oder sonsten visitieren.
+  cs: |-
+    Přicházející cizí osoby zastaví a vyslechne stálá stráž {Schiltwacht}, která stojí úplně vpředu před branou u závory {Schlagbaum}. Ta pak zavolá důstojníka, který drží stráž v bráně nebo poblíž. Ten cizí osobu rovněž vyslechne a pošle ji s jedním vojákem, který byl výslechu přítomen, na hlavní stráž; tam je za přítomnosti téhož vojáka vyslechnuta znovu. Voják s ní potom jde ke guvernérovi {Gubernator}, kde je vyslechnuta ještě jednou. Neshledá-li se na ní nic podezřelého, je jí onen voják přidělen jako průvodce, dokud nevyřídí své záležitosti a obchody; po jejich vyřízení ji zase vyprovodí ven z brány. Chce-li však cizí osoba zůstat přes noc kvůli naléhavým záležitostem, ukáže se jí hostinec, ve kterém musí přenocovat atd. Přijedou-li vozy se senem, slámou, dřevem, hnojem nebo se zamčenými truhlami, rovněž lodě nebo jiné podezřelé věci, má je důstojník před branou propíchat dlouhou železnou tyčí, dole ostrou a zahrocenou, nebo je jinak prohlédnout.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie sich die Wirth vnd Burger mit den frömbden Personen im beherbergen verhalten sollen.
+  cs: Jak si mají hostinští a měšťané počínat při ubytovávání cizích osob.
+- typ: odstavec
+  de: |-
+    Ein Gastgeb oder Burger solle des frömbden Nammen vnd Wohnung auff zween vnderschiedenliche Zedel auffzeichnen/ vnd des Abends den einen auff die Hauptwacht/ vnd den anderen dem Gubernator schicken: wo er aber solches vbersehe/ wurde er alßdann höchlich gestraafft.
+  cs: |-
+    Hostinský nebo měšťan má zapsat jméno a bydliště cizince na dva samostatné lístky a večer poslat jeden na hlavní stráž a druhý guvernérovi. Kdyby to opomněl, byl by přísně potrestán.
+- typ: nadpis
+  uroven: 2
+  de: Von der Brunst.
+  cs: O požáru.
+- typ: nadpis
+  uroven: 3
+  de: Wie man sich in fewrsnöhten oder brunst verhalten solle.
+  cs: Jak si počínat v ohni a při požáru.
+- typ: odstavec
+  de: |-
+    Es soll ein jeder/ er seye gleich Groß- oder Kleinhanß/ zu seinem Fendlein sich verfügen/ es were dann sach daß das fewr sein eygen Quartier/ oder das nechst daran angegriffen hette: vnd soll ein Brandtmeister mit seiner Rott/ welche darzu geordnet ist/ alßbald dem fewr sampt den Soldatenweiberen/ Jungen/ Trabanten vnd Marckitänteren zulauffen vnd löschen: die Compagnien aber auff jhren verordneten Lermenplätzen in guter ordnung/ zu vermeydung verrähterey/ biß das fewer gedempt ist/ vnd man keinen argwohn/ feinds halber gehaben kan/ verharren.
+  cs: |-
+    Každý, ať velký pán, či malý človíček,[^1] se má odebrat ke svému praporci {Fendlein}, ledaže by oheň zachvátil jeho vlastní kvartýr {Quartier} nebo kvartýr hned vedle. Požární mistr {Brandtmeister} se svou rotou {Rott}, která je k tomu určena, má ihned spolu s vojenskými ženami, pacholaty {Jungen}, drabanty {Trabanten} a markytány běžet k ohni a hasit. Kompanie však mají v dobrém pořádku setrvat na svých určených poplachových místech {Lermenplätzen}, aby se předešlo zradě, dokud není oheň uhašen a dokud nepomine jakékoli podezření ze strany nepřítele.
+poznamky:
+- n: 1
+  text: V originále „Groß- oder Kleinhanß“ – dobové rčení (velký a malý Honza), tj. vysoce i nízko postavený.

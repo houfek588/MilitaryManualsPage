@@ -1,0 +1,90 @@
+id: 087
+list: '87'
+strana: recto
+sken: 133
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    der rechten seiten vmbwendest/ also daß dein angesicht stehet/ wo du zuvor deinen rucken gekehret hast.
+  cs: |-
+    doprava, takže tvá tvář hledí tam, kam jsi předtím měl obrácena záda.
+- typ: nadpis
+  uroven: 3
+  de: Was Lincks vmb kehrt euch seye.
+  cs: Co znamená „Vlevo čelem vzad“.
+- typ: odstavec
+  de: |-
+    Wann du dich auff dem lincken fůß mit der lincken hand gegen der lincken seiten gar vmbschwänckest/ vnd das gesicht kehrest/ wo zuvor dein rucken gewesen ist.
+  cs: |-
+    Když se na levé noze přes levou ruku obrátíš úplně kolem doleva a obrátíš tvář tam, kde předtím byla tvá záda.
+- typ: nadpis
+  uroven: 3
+  de: Rechts erstellt euch.
+  cs: „Vpravo zpět na místa.“
+- typ: odstavec
+  de: |-
+    Da du dich mit der rechten hand auff dem rechten fůß widerumb auff deinen vorigen platz schwingest.
+  cs: |-
+    Když se přes pravou ruku na pravé noze opět otočíš na své předchozí místo.
+- typ: nadpis
+  uroven: 3
+  de: Lincks erstellt euch.
+  cs: „Vlevo zpět na místa.“
+- typ: odstavec
+  de: |-
+    Wann du dich mit der lincken hand auff dem lincken fůß gegen der lincken seiten auff deinen vorigen platz schwingest.
+  cs: |-
+    Když se přes levou ruku na levé noze otočíš doleva na své předchozí místo.
+- typ: nadpis
+  uroven: 3
+  de: Was Rechts dopplieren ewere Glider seye.
+  cs: Co znamená „Vpravo zdvojte řady“.
+- typ: odstavec
+  de: |-
+    Das ist/ wann auß vil Glideren der halbe theil derselben gemachet wird/ also: Jch lasse das erste Glid stehen/ vnd gehet das ander dem vorstehenden ersten Glid: oder je ein Mann seinem vorstehenden Mann an sein rechte seiten: also auch das vierte dem dritten/ vnd das sechßte dem fünfften/ vnd so fortan. Also/ wo du einen Squadron nur halb so hoch/ vnd noch ein mal so breit haben wilt/ kanst du auß 6. Glideren nur 3. Glider/ vnd auß 10. Glider 5. Glider machen/ je nach dem du dich mit dem Feind schlagen wilt/ vnd distantz darzu hast/ etc. Vnd solt du im Rechts dopplieren allzeit deß ersten mit dem rechten fůß vorher tretten.
+  cs: |-
+    To je, když se z mnoha řad {Glider} udělá polovina, a to takto: první řadu nechám stát a druhá řada vstoupí do první řady před sebou, totiž každý muž k muži, který stojí před ním, po jeho pravém boku; stejně tak čtvrtá řada ke třetí, šestá k páté a tak dále. Chceš-li tedy mít oddíl {Squadron}[^1] jen poloviční hloubky a dvakrát tak široký, můžeš ze 6 řad udělat jen 3 a z 10 řad 5, podle toho, jak se chceš s nepřítelem bít a kolik k tomu máš prostoru atd. Při zdvojování vpravo máš vždy nejprve vykročit pravou nohou.
+- typ: nadpis
+  uroven: 3
+  de: 'Wann man spricht: Lincks erstellt euch.'
+  cs: 'Když se řekne: „Vlevo zpět na místa“.'
+- typ: odstavec
+  de: |-
+    Da solt du dich lincks vmbkehren/ mit dem lincken fůß vorher tretten/ dich auff dein vorige stell verfügen/ vnd dich daselbst widerumb mit der lincken hand gegen der lincken seiten gar vmbschwäncken.
+  cs: |-
+    Tehdy se máš obrátit vlevo čelem vzad, vykročit napřed levou nohou, odebrat se na své předchozí místo a tam se opět přes levou ruku obrátit úplně kolem doleva.
+- typ: nadpis
+  uroven: 3
+  de: Wann man Glider lincks doppliert.
+  cs: Když se řady zdvojují vlevo.
+- typ: odstavec
+  de: |-
+    Wann du alßdann mit dem lincken fůß herfür trittest/ vnd mit deinem Glid/ gleich neben deinem vorstehenden Mann auff die lincke seiten in sein Glid eyngehest/ wie du im Rechts dopplieren gelehrt bist/ etc.
+  cs: |-
+    To je, když pak vykročíš levou nohou vpřed a se svou řadou vstoupíš do řady muže, který stojí před tebou, hned vedle něho po jeho levé straně, jak ses naučil při zdvojování vpravo atd.
+- typ: nadpis
+  uroven: 3
+  de: Wann man sich Rechts erstellt.
+  cs: Když se vrací vpravo na místa.
+- typ: odstavec
+  de: |-
+    So solt du dich widerumb rechts vmbkehren/ vnd auff der stell dich gleichfahls rechts vmbschwäncken/ vnd erstellen.
+  cs: |-
+    Tehdy se máš opět obrátit vpravo čelem vzad a na [svém] místě se rovněž obrátit vpravo kolem a postavit se zpět.
+- typ: nadpis
+  uroven: 3
+  de: 'Wann man spricht: Rechts dopplieret ewere Reyen.'
+  cs: 'Když se řekne: „Vpravo zdvojte zástupy“.'
+- typ: odstavec
+  de: |-
+    Jst/ wann du auß zween Reyen einen machest/ da du etwann deine Glider/ wegen des groben Geschützes/ öffnen wilt/ dann je weiter die Kegel stehen/ je weniger es Kegel gibt: oder auch wegen der engen distantz/ dein Schlachtordnung erlängeren/ oder in ander weg dich zu deinem vortheil
+  cs: |-
+    To je, když ze dvou zástupů {Reyen} uděláš jeden, například když chceš kvůli těžkým dělům {grobes Geschütz} rozevřít své řady – neboť čím dál od sebe kuželky stojí, tím méně kuželek padne –, nebo když chceš kvůli těsnému prostoru svůj bitevní šik {Schlachtordnung} prodloužit, či se jinak ke své výhodě
+poznamky:
+- n: 1
+  text: >-
+    Squadron – zde pěší oddíl (šik o několika stech mužích, předchůdce praporu/batalionu), nikoli jezdecká švadrona.
+    Jezdeckou švadronu Lavater nazývá Schwader (str. 98).

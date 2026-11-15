@@ -1,0 +1,54 @@
+id: '103'
+list: '103'
+strana: recto
+sken: 149
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    bezeichnet. Marschiere mit allen deinen Spiessen in guter ordnung für die Musquetierer hinauß/ vnd lasse 1. vnd 2. zur rechten/ 7. vnd 8. zur lincken in jhrer Distantz verbleiben.
+  cs: |-
+    označenou. Vytáhni se všemi svými pikami {Spiessen} v dobrém pořádku dopředu před mušketýry {Musquetierer} a [oddíly] 1 a 2 napravo, 7 a 8 nalevo nech zůstat v jejich rozestupu {Distantz}.
+- typ: nadpis
+  uroven: 2
+  de: Die dritt Battaille oder Schlachtordnung.
+  cs: Třetí šik {Battaille} neboli bitevní sestava
+- typ: odstavec
+  de: |-
+    Darvon besihe das 11. Kupfferblat mit der grossen zahl VII. Lasse beyde flügel oder alle Musquetierer zur rechten vnd lincken seiten für die Ordnung hinauß/ neben den Spiessen hinauff marschieren/ vnd blybe mit dyner Ordnung in guter Distantz halten/ damit wo sich der Feind pręsentieren vnd wenden möchte du dich zu deinem vortheil erzeigen köntest.
+  cs: |-
+    K tomu viz 11. mědirytinu {Kupfferblat}[^1], [část] s velkým číslem VII. Nech obě křídla čili všechny mušketýry na pravé i levé straně vytáhnout dopředu před šik, podél pík, a se svým šikem zůstaň stát v dobrém rozestupu, abys – kdyby se nepřítel kdekoli ukázal a obrátil – mohl vystoupit ve svůj prospěch.
+- typ: nadpis
+  uroven: 3
+  de: Worzu dise Bataille oder Schlachtordnung dienstlich seye.
+  cs: K čemu slouží tento šik neboli bitevní sestava
+- typ: odstavec
+  de: |-
+    Wann dich der Feind mit starcken trouppen Musquetierer angreiffet/ so kanst du dich also mit deinen Musquetierern pręsentieren/ vnd gliderweis/ wie vornen gelehrt bist/ auff jhne fewr geben lassen: vnd da der Feind mit Hagel vnd vilem Geschütz vnder dich spilete/ solt du dein Ordnung öffnen vnd nicht eng zusammen schliessen: dann wo die Kegel eng in einanderen stehen/ da schlaget ein kugel/ so dareyn kommt/ gemeiniglich vil auff ein mal vmb.
+  cs: |-
+    Napadne-li tě nepřítel silnými houfy {trouppen} mušketýrů, můžeš se se svými mušketýry takto postavit a nechat je po řadách, jak jsi byl poučen výše, na něj pálit. A kdyby nepřítel do tebe pálil kartáči {Hagel} a mnoha děly, máš svůj šik otevřít a nesemknout jej těsně: neboť kde kuželky stojí těsně u sebe, tam jedna koule, která mezi ně vletí, obvykle porazí mnoho [z nich] najednou.
+- typ: nadpis
+  uroven: 2
+  de: Die vierte Battaille oder Schlachtordnung.
+  cs: Čtvrtý šik neboli bitevní sestava
+- typ: odstavec
+  de: |-
+    Darvon besihe die grosse zahl I. im dritten Kupfferblat. Theile den ersten aussersten Squadronen zur rechten seiten in zween gleiche theil/ vnd marschiere mit dem ersten theil oder halben Squadron von dreyen Glidern/ so mit 1. bezeichnet/ ein zimliche Distantz für die Ordnung hinauß/ alßdann weiche mit dem anderen theil des zertheilten Squadrons/ hinder die Ordnung/ wie 2. zeiget: also thue auch mit dem aussersten lincken flügel oder Squadron Musquetierer/ vnd distribuiere jhne auch also/ wie du mit dem ersten Squadron 1. vnd 2. gethan/ vnd dich 7. vnd 8. lehret. Darnach nimme den anderen flügel oder Squadron/ vnd zertheile jhn gleichfahls/ führe den halben theil ein wenig für die Spieß hinauß/ den anderen halben theil aber hinder die Spieß/ wie dich 3. vnd 4. zur rechten seiten lehret. Also solt du es auch auff der lincken seiten mit 5. vnd 6. machen: vnd die Spieß sollen in jhrer Distantz verbleiben.
+  cs: |-
+    K tomu viz velké číslo I na třetí mědirytině[^2]. Rozděl první, krajní švadronu {Squadronen} na pravé straně na dvě stejné části a s první částí čili poloviční švadronou o třech řadách {Glidern}, označenou 1, vytáhni v přiměřeném odstupu dopředu před šik; potom s druhou částí rozdělené švadrony ustup za šik, jak ukazuje 2. Totéž učiň s krajním levým křídlem čili švadronou mušketýrů a rozděl ji stejně, jako jsi to učinil s první švadronou 1 a 2 a jak tě učí 7 a 8. Potom vezmi druhé křídlo čili švadronu, rovněž je rozděl, jednu polovinu veď trochu dopředu před píky, druhou polovinu však za píky, jak tě učí 3 a 4 na pravé straně. Stejně to máš udělat i na levé straně s 5 a 6; a píky mají zůstat ve svém rozestupu.
+- typ: nadpis
+  uroven: 3
+  de: Wie man solche Schlachtordnung brauchen solle.
+  cs: Jak se má takový bitevní šik použít
+- typ: odstavec
+  de: |-
+    Wann du nicht wüssen magst ob dich der Feind hinden oder vornen/ oder auff eintwederer seiten/ oder aber rings vmbher angreiffen möchte/ so kanst du dich in solcher Ordnung pręsentieren: Trifft er nur allein von vornen auff dich/ so kan je ein trüpplein das ander gantz vortheilhafftig mit sehiessen auff beyden enden der Ordnung entsetzen/ wie 1. 3. 7. vnd 5. lehret/ vnd da es nöhtig/ von den vbrigen halben Squadronen/ wie 4. 6. 2. vnd 8. außweisen/ widerumb entsetzt werden. Wann du nun hinden vnd vornen zugleich angetastet wurdest/ kanst du dich mit 8. 2. 6. vnd 4. vornen aber mit 1. 3. 7.
+  cs: |-
+    Nevíš-li, zda tě nepřítel napadne zezadu nebo zepředu, z jedné či druhé strany, anebo ze všech stran, můžeš se mu postavit v takovém šiku. Udeří-li na tebe jen zepředu, může na obou koncích šiku vždy jeden houfek {trüpplein} střelbou velmi výhodně vystřídat druhý, jak učí 1, 3, 7 a 5, a v případě potřeby je zase mohou vystřídat zbylé poloviční švadrony, jak ukazují 4, 6, 2 a 8. Kdybys byl napaden zezadu i zepředu zároveň, můžeš se [vzadu] bránit s 8, 2, 6 a 4, vpředu však s 1, 3, 7
+poznamky:
+- n: 1
+  text: Tak v tisku („das 11. Kupfferblat“), zřejmě tisková chyba místo „II.“ – útvar VII je na druhé mědirytině („blat II“, v této edici tab-08).
+- n: 2
+  text: Třetí mědirytina („blat III“) – v této edici tabule tab-09.

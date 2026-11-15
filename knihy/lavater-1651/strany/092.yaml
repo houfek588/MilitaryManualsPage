@@ -1,0 +1,39 @@
+id: 092
+list: '92'
+strana: verso
+sken: 138
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    oder öffnet ewer Ordnung/ das dann ein jeglicher verstehet. Wiewol aber etliche meynen werden (wie ich wol erachten kan) daß dises wider der alten vnd jetziger Soldaten gebrauch/ vnd nicht vil/ oder wol gar nie gebraucht worden seye/ hab ich doch dise meine meynung dahin setzen vnd an tag geben wöllen. Wer nun etwas bessers weißt zu kochen/ der wölle dasselbig auff sein form machen vnd anrichten/ vnd ist dises nicht für Soldaten oder hohe Officier/ so es zehen mal besser/ alß ich/ möglich verstehen/ sonder für gemeine Landleuth angedeutet worden.
+  cs: |-
+    nebo rozevřete šik {Ordnung}“, čemuž každý porozumí. Ačkoli si někteří budou myslet (jak si dobře dovedu představit), že je to proti zvyku starých i nynějších vojáků a že se to užívalo málo nebo vůbec nikdy, přesto jsem toto své mínění chtěl sem napsat a zveřejnit. Kdo umí uvařit něco lepšího, ať si to připraví a naservíruje po svém; toto totiž není určeno vojákům ani vysokým důstojníkům, kteří tomu možná rozumějí desetkrát lépe než já, nýbrž prostým venkovanům.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Hie folgen allerley jetz gebräuchliche Orationen/ so ein Quartier- oder gemeiner Hauptmann/ auff der Landschafft/ nach gehaltenem Exercitio gegen den Landleuthen vnd seinen vndergegebenen brauchen solle.
+  cs: |-
+    Zde následují různé nyní užívané řeči, které má obvodní {Quartier-}[^1] nebo obyčejný hejtman na venkově po vykonaném cvičení pronášet k venkovanům a ke svým podřízeným.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Erste form: Wie man nach gehaltener Musterung dem Volck abdancken solle.
+  cs: 'První vzor: Jak se má po vykonané přehlídce lid s poděkováním propustit.'
+- typ: odstavec
+  de: |-
+    Ehrsame/ liebe vnd gute Freund/ vnd vnserer gnädigen Herren vnd Oberen von N. besondersliebe/ getrewe/ etc.
+  cs: |-
+    Ctihodní, milí a dobří přátelé, a našich milostivých pánů a vrchnosti z N. zvlášť milí a věrní atd.
+- typ: odstavec
+  de: |-
+    Dieweil jhr vnserer gnädigen Herren vnd Oberen von N. befelch vnd willen/ die anführung in Wehr vnd Waaffen betreffende/ gnugsam wüssen: darüber auch jhr euch heutiges tags also gutwillig gebürender maassen allhie eyngestellt haben/ vnd euch die übung/ vortheil vnd handgriff/ best vermögens/ gewisen worden/ darnach sich dann ins künfftig ein jeder richten kan. Alß will ich euch für dißmalen länger nicht behelgen vnd auffhalten/ sondern vmb ein mal freundtlich abgedanckt haben/ vnd zu meiner wider anheimschung/ dise ewere gehorsamlich eynstellung/ gegen hochgedacht vnseren gnädigen Herren vnd Vättern/ mit erstem der sachen gemäß rühmen/ die dann darab ein besonderbar wolgefallen tragen/ auch solches gegen euch in allem guten gebürlich zu gnaden erkennen werden. Darneben so wöllend jhr auch ermahnet seyn/ euch weiters (wie dann solches euch zugetrawt wird) gegen mehr hochvnd wol-ernannten vnseren gnädigen Herren vnd Oberen/ alß getrewe/ gehorsame Vnderthanen eynzustellen/ vnd ins gemein also zu verhalten/ daß bevorderst die ehr Gottes/ vnd dann auch des Vatterlands nutz vnd wolstand/ vnd also ewer jedes eygen heyl möge gehandhabet werden: vnd in keinen zweiffel setzen/ dann das mehrgedacht vnser gnädig Herren vnd Oberen in jhren gnaden euch für befohlen haben werden. Da dann auch ich besonderbar diser gantzen loblichen Herrschafft (oder Graffschafft) jetzt oder ins künfftig wird können angenehme dienst vnd freundschafft erweisen/ will ich mich allzeit willig vnd vnverdrossen hierzu finden lassen/ etc.
+  cs: |-
+    Poněvadž dostatečně znáte rozkaz a vůli našich milostivých pánů a vrchnosti z N. ohledně výcviku ve zbraních a zbroji, a navíc jste se dnešního dne tak ochotně a náležitě zde dostavili a bylo vám podle nejlepší možnosti ukázáno cvičení, jeho výhody a hmaty, podle nichž se pak každý může v budoucnu řídit, nechci vás tentokrát déle obtěžovat a zdržovat, nýbrž se s vámi pro tentokrát přátelsky loučím a děkuji vám. Po svém návratu domů pak tuto vaši poslušnou účast při první příležitosti náležitě pochválím našim vysoce řečeným milostivým pánům a otcům, kteří z toho budou mít zvláštní zalíbení a uznají vám to ve všem dobrém, jak se sluší, svou milostí. Kromě toho buďte také napomenuti, abyste se i nadále (jak se od vás očekává) k našim mnohokrát jmenovaným vysoce váženým milostivým pánům a vrchnosti chovali jako věrní a poslušní poddaní a vůbec si počínali tak, aby byla především zachována čest Boží, potom i užitek a blaho vlasti, a tak i vlastní spása každého z vás; a nepochybujte, že vás naši často řečení milostiví páni a vrchnost budou mít ve své milosti doporučeny. A budu-li já zvlášť moci celému tomuto chvályhodnému panství (nebo hrabství) nyní či v budoucnu prokázat milou službu a přátelství, vždy k tomu budu ochotně a neúnavně připraven atd.
+poznamky:
+- n: 1
+  text: >-
+    Quartierhauptmann – obvodní hejtman: venkov curyšského státu byl pro účely zemské domobrany rozdělen na vojenské
+    obvody (Quartiere), každý pod vlastním hejtmanem. Gemeiner Hauptmann = obyčejný hejtman kompanie.

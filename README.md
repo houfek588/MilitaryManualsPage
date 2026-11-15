@@ -24,6 +24,8 @@ nastroje/
   import_md.py              jednorázový import pracovního překladu z Google Docs (.md)
   migrace_sken_45899.py     jednorázový přechod na úplný sken (doplnění 3 vynechaných dvojstran)
   stahni_ocr_bsb.py         stažení OCR z digitale-sammlungen.de
+  dta_strany.py             rozdělení přepisu Deutsches Textarchiv (TEI) po stranách → zdroje/dta/NNNN.txt
+  import_lavater.py         jednorázový import pracovního překladu Lavatera (.md)
   over_strany.py            kontrola dat (struktura, párování, poznámky, terminologie)
   normalizuj_zkratky.py     sjednocení přepisu zkratek tisku (ꝛc., vñ, …)
   overeno_clovekem.py       označení stran, které ručně ověřil člověk (pole overeno_clovekem)
@@ -49,6 +51,11 @@ Fronsberger/                původní pracovní překlad (export z Google Docs) 
 5. Náhled: otevři `docs/index.html`, nebo `python -m http.server 8766 --directory docs` a http://localhost:8766/
 
 Nová kniha: vytvoř `knihy/<id>/` se stejnou strukturou (kniha.yaml, glosar.yaml, strany/) – build ji přidá do rozcestníku.
+Pořadí stran určuje pole `sken` (číslo snímku). V `kniha.yaml` nastav `strankovani: folio` (fol. XII r) nebo `strany` (str. 12)
+a údaje o skenech (`sken.url_strana`, `sken.url_obrazek` s {sken}/{sken4}/{sken5}/{sirka}, `sken.paticka`).
+
+Knihy: `fronsberger-1564` (Fronsperger, Kriegs Ordnung vnd Regiment, sken BSB) a `lavater-1651`
+(Lavater, Kriegs-Büchlein, Curych 1651; německý text z přepisu Deutsches Textarchiv, CC BY-SA 4.0).
 
 ## Web
 - čtení po **kapitolách** (`#/kap/<id>`) i po **stranách tisku** (`#/strana/018r`), šipky ← → listují,

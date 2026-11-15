@@ -1,0 +1,39 @@
+id: 080
+list: '80'
+strana: verso
+sken: 114
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Generalen erwärtig/ vnd wöllen eh Leib/ Ehr/ Gut/ Blut vnd Leuth darüber auffsetzen.
+  cs: generála a raději za to nasadí život, čest, statek, krev i lidi.
+- typ: odstavec
+  de: |-
+    Wann nun der Feind sich zu accordieren eynlassen will/ so schickt er etliche fürnemme Oberste in die Vestung zu parlamentieren/ mit Jnstruction: vnd hergegen der Gubernator die fürnembsten Capitain zu Geislen in das Läger/ vnd wird interim ein anstand der Wehr vnn Waaffen gemachet. Es geschehen aber die Accord auff vnderschiedliche gattung: vnd erstlich auff Gnad vnd Vngnad/ oder auff Gnad. Wo es auff Gnad vnd Vngnad beschicht/ stehet es dem General frey/ nach willen sich gegen jhnen zu verhalten. Wo es aber auff Gnad beschicht/ beschicht solches mit sonderen Puncten: Etwan werden etliche besonderbare Personen/ Pferd/ Harnast/ Gewehr vorbehalten/ offt Kleider vnd Kleinodien/ etwan die Vberläuffer/ etwan die Gefangenen/ etwan wird jhnen erlaubt mit fliegendem Fahnen/ brennenden Lunden/ Kugeln in dem mund vnd offenem Trommelschlag außzuziehen/ etwan auch werden sie mit Seitenwehr/ oder Haab vnd Gut des Kriegsherren/ vnd mit sicherer Convoy hin gelassen/ etliche vnder die Compagnie gesteckt/ etliche preyß gemacht/ etlich gehenckt/ etwan mit den eynwohneren mit weissen stäblein fort geschickt: vnd seind der gattung Accord so vil/ daß sie zu erzellen vast ein gantz Buch erforderen wurden.
+  cs: |-
+    Chce-li se nepřítel pustit do vyjednávání o kapitulaci {accordieren}, pošle do pevnosti k vyjednávání několik předních plukovníků {Oberste} s instrukcí; naproti tomu guvernér {Gubernator} pošle do ležení {Läger} jako rukojmí nejpřednější hejtmany {Capitain}, a mezitím se uzavře příměří. Kapitulace {Accord} se však uzavírají různým způsobem: předně na milost a nemilost, anebo na milost. Děje-li se to na milost a nemilost, může s nimi generál naložit podle své vůle. Děje-li se to však na milost, děje se to se zvláštními články: někdy se vyhrazují určité osoby, koně, zbroj, zbraně, často šaty a klenoty, někdy přeběhlíci, jindy zajatci[^1]; někdy se jim dovolí vytáhnout s vlajícími korouhvemi {Fahnen}, s hořícími doutnáky, s koulemi v ústech a za víření bubnů; někdy se také propustí s pobočními zbraněmi {Seitenwehr} nebo s majetkem a statkem válečného pána a s bezpečným doprovodem {Convoy}; někteří se zařadí do kompanie [vítěze], jiní se vydají v plen, jiní oběsí, někdy se i s obyvateli pošlou pryč s bílými hůlkami[^2]. A takových druhů kapitulace je tolik, že by jejich vypočítání vyžadovalo bezmála celou knihu.
+- typ: nadpis
+  uroven: 2
+  de: Wann man auß der Guarnison zeucht.
+  cs: Když se odtahuje z posádky
+- typ: odstavec
+  de: |-
+    So bald man abziehen will/ so sollen die Zusätzer angeloben auff halbe/ gantze oder etlich Monat sich nicht wider den General oder sein Armee zu Feld brauchen zu lassen/ vnd darneben in der oder diser Besatzung währender zeit auffhalten/ etc. Hernach so zeucht offt die Bagage meisten theil zu voran: darauff die verwundten: hernach der Gubernator vnd sein Gesind/ sampt etlichen hohen Officier: Auff solchen ein trouppen Reuter: alßdann die Artillerey vnd Munition: darauff ein trouppen Musquetierer: hernach die Capitain: darnach widerumb Musquetterer: alßdann alle die Fendrich: auff dieselben die Picken: alßdann die Leutenammt: darauff die letsten Musquetierer/ vnd zu letst der vbrig trouppen Reuterey. Eh aber die die Zusätzer außziehen/ so solle alle Munition/ Proviant/ vnd Zeughäuser/ sampt der Artillerey besichtiget/ vnd etliche Fahnen Fußvolck dareyn gelegt vnd gelosiert werden: vnd wann nun die Zusätzer im anzug/ so gibt man denselben von Reuter vnd Fußvolck ein sicher Geleit/ oder Convoy/ biß nahe an des Feinds Quartier zu.
+  cs: |-
+    Jakmile se má odtáhnout, mají obránci {Zusätzer} slíbit, že se po půl [roku], celý [rok] nebo několik měsíců nedají v poli použít proti generálovi či jeho armádě a že se po tu dobu budou zdržovat v té či oné posádce atd. Potom táhne obvykle nejprve vpředu většinou zavazadla {Bagage}, za nimi ranění, pak guvernér a jeho čeleď spolu s několika vysokými důstojníky {Officier}; za nimi oddíl {trouppen} jezdců, pak dělostřelectvo {Artillerey} a munice, za nimi oddíl mušketýrů {Musquetierer}, potom hejtmani, pak zase mušketýři, pak všichni praporečníci {Fendrich}, za nimi píky {Picken}, pak poručíci {Leutenammt}, za nimi poslední mušketýři a nakonec zbývající oddíl jízdy. Než však obránci vytáhnou, má se prohlédnout všechna munice, proviant a zbrojnice i s dělostřelectvem a do [pevnosti] se má vložit a ubytovat několik kompanií {Fahnen} pěchoty; a když už jsou obránci na pochodu, dá se jim z jízdy a pěchoty bezpečný průvod neboli doprovod {Convoy} až nedaleko k nepřátelskému kvartýru[^3].
+- typ: odstavec
+  de: Ende des anderen Theils Kriegs-Büchleins/ von einer Besatzung.
+  cs: Konec Druhého dílu Válečné knížky, o posádce.
+poznamky:
+- n: 1
+  text: |-
+    Nejasné, zda si tyto osoby a věci vyhrazuje vítěz (např. vydání přeběhlíků), nebo zda je smějí ponechat a odvést obránci; tisk to nerozlišuje.
+- n: 2
+  text: |-
+    Bílá hůl v ruce byla znamením odzbrojeného, kterému byla dána milost a volný odchod.
+- n: 3
+  text: |-
+    Tj. až k ležení či posádce vlastní strany odcházejících, která je pro doprovod (vojsko vítěze) „nepřítelem“.

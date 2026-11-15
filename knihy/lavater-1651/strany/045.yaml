@@ -1,0 +1,48 @@
+id: '045'
+list: '45'
+strana: recto
+sken: 79
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Von dem Capitain des Armes oder Rüstmeister.
+  cs: O kapitánu zbraní {Capitain des Armes} neboli mistru výzbroje {Rüstmeister}.
+- typ: odstavec
+  de: |-
+    Er soll auff das Gewehr/ Pulfer/ Kuglen vnd Lunden gut achtung haben/ damit nichts darvon veraberwandlet werde/ vnd er es auß dem seinigen bezahlen müsse. Es ist auch hoch von nöhten daß derselbig schreiben vnd lesen könne/ damit er darumb dem Capitain rechnung geben möge. Er soll sich mit der empfangenen Munition also verhalten/ daß jhme allzeit etwas im außgeben vberbleibe/ damit er im nohtfahl die Knecht versehen könne/ so lang biß anders kommt. Jm Commando soll er sein authoritet erhalten/ das Pulfer nicht liederlich verschiessen lassen/ vnd wol auffsehen daß die Soldaten das Gewehr sauber vnd rein halten: die krancken soll er besuchen/ jhnen rahten vnd helffen/ vnd im marchieren denselbigen jhr Gewehr nachführen lassen. Von seinem Ampt wirst du weiters hernach finden.
+  cs: |-
+    Má dávat dobrý pozor na zbraně, prach {Pulfer}, koule a doutnáky {Lunden}, aby z toho nic nepřišlo nazmar; jinak by to musel zaplatit ze svého. Je také velmi zapotřebí, aby uměl psát a číst, aby z toho mohl hejtmanovi {Capitain} skládat účty. S přijatou municí {Munition} má hospodařit tak, aby mu při vydávání vždy něco zbylo a mohl v nouzi zaopatřit knechty {Knecht}, dokud nepřijde další. Při velení si má udržovat svou autoritu, nedovolit, aby se prach zbůhdarma vystřílel, a dobře dohlížet, aby vojáci udržovali zbraně čisté a v pořádku. Nemocné má navštěvovat, radit jim a pomáhat a na pochodu jim dát jejich zbraně vézt za nimi. O jeho úřadu najdeš více níže.
+- typ: nadpis
+  uroven: 2
+  de: Von dem Feldschärer vnd seinem Ampt.
+  cs: O polním ranhojiči {Feldschärer} a jeho úřadu.
+- typ: odstavec
+  de: |-
+    Er soll ein rechtgeschaffner/ kunstreicher/ vnd in der Chirurgia wolerfahrner Meister/ vnd nicht nur ein schlechter Bartbutzer oder Stutzer vnd Baderknecht seyn/ wie vmb gunst willen offt geschicht/ sittemalen ein grosses daran gelegen: dann mancher guter Gesell etwan sterben vnd erlamen muß/ hette er einen rechtschaffenen Meister ob jhme/ er bliebe gerad vnd bey leben. Es soll auch ein Feldschärer mit einer Feldkisten/ allerley Medicamenten sampt anderem nach nohtdurfft gnugsam versehen seyn: Er soll auch einen guten Gesellen bey sich haben/ der jhme helff verbinden/ vnd meniglichem mit artznen/ best vermögens/ vnd sonderlich denen vnder seiner Compagnie zu hilff kommen/ die armen Soldaten nicht vbernemmen/ sondern sich mit einem zimlichen vnd billichen contentieren lassen. Sein Quartier soll allernechst bey dem Fendlein seyn/ damit er desto ehender gefunden werde. Er hat weiter kein befelch dann dem Fendlein nachzufolgen/ vnd sonders wo man scharmützelt beyseits der Compagnie ein Fendlein auffstecken/ vnd auff die blessierten vnd verwundten achtung geben/ sie auß der ordnung ziehen lassen vnd verbinden.
+  cs: |-
+    Má to být řádný, dovedný a v chirurgii dobře zkušený mistr, a ne jen nějaký prostý holič vousů, střihač a lazebnický pacholek, jak se z přízně často stává; neboť na tom mnoho záleží: leckterý dobrý chlapík musí zemřít nebo zůstat chromý, kdežto kdyby měl nad sebou řádného mistra, zůstal by zdravý a naživu. Polní ranhojič má být také podle potřeby dostatečně vybaven polní truhlou {Feldkisten}, všelijakými léky a jiným. Má mít u sebe také dobrého tovaryše, který mu pomáhá obvazovat; a má léčením podle svých nejlepších sil pomáhat každému, zvláště těm ze své kompanie {Compagnie}, chudé vojáky nemá předražovat, nýbrž se spokojit s přiměřenou a spravedlivou odměnou. Jeho kvartýr {Quartier} má být co nejblíže u praporce {Fendlein}, aby byl tím spíše k nalezení. Jiný úkol nemá, než následovat praporec, a zvláště kde se svádí šarvátka, má stranou kompanie vztyčit praporek, dávat pozor na postřelené a raněné, dát je vytáhnout ze šiku {ordnung} a obvázat.
+- typ: nadpis
+  uroven: 2
+  de: Von den Corporalen oder Rottmeistern/ vnd jhrem Ampt.
+  cs: O desátnících {Corporalen} neboli rotmistrech {Rottmeistern} a jejich úřadu.
+- typ: odstavec
+  de: |-
+    Die Corporalen sollen gute redliche vnd wol-versuchte Soldaten seyn/ welche schreiben/ lesen vnd rechnen können. Jn dem commandieren sollen sie gleiche ordnung halten/ die Schiltwachten in guter zeit auffstellen/ vnd jhr ansehen bey den Soldaten erhalten: Sie sollen gantz eysene Ladstecken/ Krätzer vnd Kugelzieher an jhren Musqueten haben/ damit sie den Soldaten zu hilff kommen mögen. Was aber weiter jhr Ampt/ wirst du an seinem gebürenden ort vernemmen.
+  cs: |-
+    Desátníci mají být dobří, poctiví a dobře osvědčení vojáci, kteří umějí psát, číst a počítat. Při velení mají zachovávat rovný pořádek, včas rozestavovat stálé stráže {Schiltwachten} a udržovat si u vojáků vážnost. U svých mušket {Musqueten} mají mít celoželezné nabijáky {Ladstecken}, škrabáky {Krätzer} a vytahováky kulí {Kugelzieher}[^1], aby mohli vojákům pomoci. Co dále náleží k jejich úřadu, se dozvíš na příslušném místě.
+- typ: nadpis
+  uroven: 2
+  de: Von den Gefreyten/ oder Adelsborsten.
+  cs: O svobodnících {Gefreyten} neboli adelsborstech {Adelsborsten}.[^2]
+- typ: odstavec
+  de: |-
+    Die Gefreyten sollen wackere/ hertzhaffte vnd wolversuchte Soldaten
+  cs: |-
+    Svobodníci mají být čilí, srdnatí a dobře osvědčení vojáci,
+poznamky:
+- n: 1
+  text: Příslušenství muškety – nabiják (u prostých vojáků obvykle dřevěný, proto lámavý), škrabák na vyčištění hlavně a vývrtka na vytažení uvízlé koule či náboje.
+- n: 2
+  text: Svobodník (Gefreiter) byl „osvobozen“ od stání na stálé stráži; místo toho konal obchůzky a zastupoval desátníka. Adelsborst (Adelsbursch, „šlechtický pachole“) je dobové synonymum – tuto hodnost často zastávali mladí šlechtici sloužící v řadách.

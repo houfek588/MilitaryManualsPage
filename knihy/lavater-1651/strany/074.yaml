@@ -1,0 +1,59 @@
+id: '074'
+list: '74'
+strana: verso
+sken: 108
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vil Zeit/ Gelt/ Munition vnd Proviant: vnd kan man desto besser des Entsatzes erwarten.
+  cs: |-
+    mnoho času, peněz, munice a proviantu, a tím lépe lze vyčkat vyproštění {Entsatzes}[^1].
+- typ: nadpis
+  uroven: 2
+  de: Wann der Feind allbereit an ein Ausserwerck angesetzt hat.
+  cs: Když už nepřítel zaútočil na některé vnější dílo
+- typ: odstavec
+  de: |-
+    Kommt er so weit/ daß man ein Werck vast für verlohren schätzet/ so soll man dasselbig abschneiden/ vnd durch die mitte desselbigen widerumb ein linien mit einem Bollwercklein oder einer Zangen/ oder sonsten einem Zwerchwal machen: in den verschätzten theil aber sollen Fůßängel/ Brätter mit spitzigen Näglen/ so mit Erden bedeckt werden/ geleget: vnd dann von dem newen Abschnitt oder Affterschantz auff den anfallenden Feind mit Handgranaten/ Bächringen/ hagel starck gespielt vnd geschossen werden. Man kan auch solche verschätzte Werck vnderhölen (vnderminieren) vnd den anfallenden Feind in den lufft durch eine Sprengeschicken.
+  cs: |-
+    Dojde-li tak daleko, že se některé dílo pokládá téměř za ztracené, má se odříznout a jeho středem se má znovu vést linie s malou baštou {Bollwercklein} nebo s kleštěmi {Zangen}, anebo jinak s příčným valem {Zwerchwal}. Do oželené části se však mají položit nášlapní ježci {Fůßängel} a prkna se špičatými hřeby, přikrytá hlínou; a pak se má z nového retranšementu {Abschnitt} neboli zadní šance {Affterschantz} na útočícího nepřítele silně házet a střílet ručními granáty, smolnými věnci {Bächringen} a kartáči {hagel}. Taková oželená díla lze také podkopat (podminovat) a útočícího nepřítele vyhodit minou {Sprenge} do povětří.
+- typ: nadpis
+  uroven: 2
+  de: Wann der Feind die Contrascarp dnrchbrichet.
+  cs: Když nepřítel prolomí kontreskarpu
+- typ: odstavec
+  de: |-
+    Wann man sich in die Contrascarp begibt/ vnd daselbsten mit allerley Fewrwerck/ Geschütz vnd dergleichen gegenwehr der Feind auffgehalten/ vnd aber sich daselbsten weiters zu erhalten nicht mehr möglich/ so begibt man sich in den trockenen Graben vnd verschantzet sich darinn/ damit man dem Feind die Gallerie wehren/ vnd darvon hinderen möge: Es wird auch solche dem Feind von den Flancken gewehret/ vnd sonderlich von den Faussebrayen oder Vnderwälen vnd heimlichen Außgängen.
+  cs: |-
+    Když se [obránci] stáhnou na kontreskarpu {Contrascarp} a zdržují tam nepřítele všelijakými ohňostroji {Fewrwerck}, děly a podobnou obranou, ale dále se tam už udržet nelze, ustoupí se do suchého příkopu a tam se zakope šancemi, aby se nepříteli bránilo ve stavbě galerie {Gallerie} a aby se mu v ní překáželo. Galerii nepříteli brání také flanky {Flancken}, a zvláště dolní valy {Faussebrayen} neboli podvaly {Vnderwälen} a tajné východy.
+- typ: nadpis
+  uroven: 2
+  de: Wie man die Sprengenen oder Minen suche.
+  cs: Jak hledat podkopy neboli miny
+- typ: odstavec
+  de: |-
+    Man stellt eine Trommel vnd Würffel darauff: wo nun der Feind darunder arbeitet/ so verenderen vnd bewegen sich die Würffel. Man hat auch Borer (Nepper) so besonderbar darzu gemachet werden/ mit welchen man die Minen suchet: oder man stellet ein Glaß gantz voll Wasser darauff: wo nun das Wasser vberschwappelt/ so ist es ein gewüß zeichen. Man kan auch Eyer legen vnd einen Pfenning darauff thun: wo nun der Pfenning hinab fallt/ ist es auch ein gewüsse anzeigung/ etc. Die löcher aber so geboret werden/ sollen vngefahr zwo ellen tieff vnd rund seyn.
+  cs: |-
+    Postaví se buben a na něj kostky; pracuje-li pod ním nepřítel, kostky se posouvají a pohybují. Jsou také vrtáky (nebozezy), zvlášť k tomu zhotovené, jimiž se miny {Minen} hledají; anebo se tam postaví sklenice plná vody: jestliže voda přešplíchne, je to jisté znamení. Lze také položit vejce a na ně dát fenik: spadne-li fenik dolů, je to rovněž jistý příznak atd. Otvory, které se vrtají, mají být kulaté a asi dva lokte hluboké.
+- typ: nadpis
+  uroven: 2
+  de: Was des Feinds fürnembster Angriff seye.
+  cs: Co je nejpřednějším útokem nepřítele
+- typ: odstavec
+  de: |-
+    Der fürnembste Angriff so der Feind thut/ ist mit dem Geschütz: ist derwegen nöhtig/ daß der Zusätzer sich mit Geschütz dargegen defendiere/ damit Geschütz wider Geschütz gerichtet werde: welches man dann contrabatterieren heißt: dann wo der Feind noch so weit mit den approchen/ daß man jhne mit den Musqueten nicht erreichen mag/ ist es nohtwendig daß man seine Arbeiter mit dem Geschütz abhalte: dann je länger man den Feind ab- vnd auffhaltet/ je mehr er sich consumiert.
+  cs: |-
+    Nejpřednější útok, který nepřítel vede, je útok děly {Geschütz}. Proto je nutné, aby se obránce {Zusätzer} proti tomu bránil rovněž děly, aby tak bylo dělo namířeno proti dělu; tomu se pak říká kontrabaterování {contrabatterieren}. Je-li totiž nepřítel se svými aprošemi {approchen} ještě tak daleko, že na něj mušketami nelze dostřelit, je nutné odrážet jeho dělníky děly; čím déle se totiž nepřítel odráží a zdržuje, tím více se vyčerpává.
+- typ: nadpis
+  uroven: 2
+  de: Wo das Geschütz hinzustellen seye.
+  cs: Kam se mají postavit děla
+- typ: odstavec
+  de: Weiln man die gelegenheit nicht weißt wo der Feind angreiffen möchte/
+  cs: Protože se neví, na kterém místě by nepřítel mohl zaútočit,
+poznamky:
+- n: 1
+  text: Entsatz – pomoc zvenčí, která přitáhne obleženým na pomoc a obléhání zruší (vyproštění, odsazení pevnosti).

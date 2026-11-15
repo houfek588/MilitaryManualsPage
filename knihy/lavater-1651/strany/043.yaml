@@ -1,0 +1,38 @@
+id: '043'
+list: '43'
+strana: recto
+sken: 77
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Wachtmeister ällzeit derselbigen nohtdurfft bey den Capitainen mit trewen anbringen vnd handlen: were es aber daß die Soldaten vnzimmenden begerens weren/ sollen sie dieselbigen darvon höfflich abweisen/ auch den Knechten in allen ehrbaren vnd billichen dingen vorstehen/ vnd in jhren sachen berahten vnd beholffen seyn. Wo auch die Compagnie oder ein Squadron marchiert/ die Soldaten allzeit beysammen im reyen vnd glideren behalten. Was aber weiters jhres Officium/ wirst du nachgehnds finden.
+  cs: |-
+    pak mají jejich potřeby vždy věrně přednést a projednat u hejtmanů {Capitainen}; kdyby však vojáci žádali něco nepatřičného, mají je zdvořile odmítnout. Také mají knechty {Knechten} ve všech čestných a spravedlivých věcech zastávat a v jejich záležitostech jim radit a pomáhat. Kdykoli kompanie {Compagnie} nebo oddíl {Squadron}[^1] pochoduje, mají vojáky vždy držet pohromadě v zástupech a řadách. Co dále náleží k jejich úřadu, najdeš níže.
+- typ: nadpis
+  uroven: 2
+  de: Von dem Schreiber/ dessen Ampt/ Eyd vnd Ordinantz.
+  cs: O písaři, jeho úřadu, přísaze a řádu.
+- typ: odstavec
+  de: |-
+    Ein Schreiber soll wol schreiben vnd rechnen können: Er soll dem Capitain die Register machen/ die Knecht/ so von jhme angenommen/ dareyn schreiben/ dieselbigen wol verwahren vnd auffbehalten/ damit sie nicht verlohren oder verfälscht werden/ vnd soll der Registern zwey gleichlautend machen/ das eine für den Musterherren/ das ander aber für den Capitain. Er soll auch auff jede seiten des blatts je 10. Soldaten setzen: Jn der Musterung fleissig auffmercken/ welche gut geheissen/ vnd was für Söld gemachet werden/ daß er es auffzeichne: wo aber etwas von jhme vbersehen vnd verabsanmbt wurde/ vnd die Register nicht fleissig abgezellt werden/ muß er es auß dem seinigen restituieren vnd bezahlen. Er soll auch fleissig achtung geben daß keiner mehr Gelt/ oder weniger empfange/ alß jhm aber gehöret. Wo auch der Capitain Commiß/ Gelt oder Kleider außtheilt/ solches in ein besonder Register auffzeichnen/ damit so man abrechnet/ solches dem Soldaten widerumb abgezogen werde: die Rotten soll er auch sleissig verzeichnet haben/ damit er wüsse welche wachen oder nicht wachen sollen. Demnach soll er seinem Capitain fürsehung thun mit schreiben/ lesen/ rechnen/ darneben mit dienstlichen pflichten gefellig seyn. Er ist der Zug vnd Wacht gefreyet/ damit er die Register versorgen könne/ hat sonst mit der Compagnie nichts zu schaffen/ vnd jhme niemand zu commandieren er sey wer er wölle/ alß einig vnd allein der Capitain. Es soll auch ein Schreiber guten bericht haben Missiven vnd Sendbrieff zu stellen/ vnd sich mit behendigkeit/ wort vnd wercken/ schreiben vnd anderem/ so sich begibt/ bescheidenlich vnd gebürlicher weis zu halten wüssen.
+  cs: |-
+    Písař {Schreiber} má umět dobře psát a počítat. Má hejtmanovi vést rejstříky {Register}, zapisovat do nich knechty, které hejtman přijal, a rejstříky dobře opatrovat a uschovávat, aby se neztratily nebo nebyly zfalšovány; a má vyhotovit dva rejstříky stejného znění, jeden pro přehlídkového komisaře {Musterherren} a druhý pro hejtmana. Na každou stranu listu má zapsat vždy po 10 vojácích. Při přehlídce {Musterung} má bedlivě dávat pozor, kdo byl uznán za způsobilého a jaké žoldy {Söld} se stanoví, a zapsat to; kdyby však něco přehlédl a zanedbal a rejstříky nebyly pečlivě sečteny, musí to nahradit a zaplatit ze svého. Má také bedlivě dbát, aby nikdo nedostal víc ani méně peněz, než mu náleží. Když hejtman rozděluje komis {Commiß}[^2], peníze nebo šaty, má to zapsat do zvláštního rejstříku, aby to bylo vojákovi při vyúčtování zase sraženo. Také má mít pilně sepsané roty {Rotten}, aby věděl, které mají stát na stráži a které ne. Dále má svému hejtmanovi obstarávat psaní, čtení a počty a vedle toho mu být po vůli ve služebních povinnostech. Pochodů {Zug} a stráží je osvobozen, aby mohl obstarávat rejstříky; jinak nemá s kompanií nic společného a nikdo, ať je kdo chce, mu nemá co poroučet, jedině hejtman. Písař má také dobře umět sestavovat dopisy a posílané listy a umět si obratně, slovy i skutky, při psaní i v jiném, co se přihodí, počínat rozvážně a náležitě.
+- typ: nadpis
+  uroven: 3
+  de: Form einer Passeporten.
+  cs: Vzor průvodního listu.
+- typ: odstavec
+  de: |-
+    Jch N. N. Hauptmann vber ein Compagnie Eydgnossen zu fuß/ vnder des N. N. loblichem Regiment/ gedachter Nation/ in dienstder Hochgeachten/ Wol-Edlen/ etc. Burgermeister vnd Raht der Statt N. vnd Commando des N. N. etc. General zu Roß vnd Fuß: Bekenne vnd attestiere krafft gegenwirtiger Recognition vnd Passeport/ daß vorweiser diß Nammens N. N. von N. bürtig/ vnder meiner vndergebenen Compagnie/ die zeit von N. Monat für einen N. gedienet/ sich währender zeit/ in Zug vnd Wacht/ vor- vnd zum
+  cs: |-
+    Já N. N., hejtman {Hauptmann} kompanie pěších Švýcarů[^3] v chvalném pluku {Regiment} N. N. téhož národa, ve službách vysoce vážených, urozených atd. pana purkmistra a rady města N. a pod velením N. N. atd., generála jízdy i pěchoty, vyznávám a dosvědčuji mocí tohoto osvědčení {Recognition} a průvodního listu {Passeport}, že doručitel tohoto listu jménem N. N., rodem z N., sloužil v mé podřízené kompanii po dobu N. měsíců jako N. a že se po tu dobu na pochodu i na stráži, před nepřítelem i proti
+poznamky:
+- n: 1
+  text: Squadron – zde pěší oddíl (šik o několika stech mužích), ne jezdecká švadrona.
+- n: 2
+  text: Commiß (komis) – příděl potravin, zvláště chleba, případně výstroje, vydávaný vojákům na účet vrchnosti a srážený jim pak ze žoldu.
+- n: 3
+  text: V originále „Eydgnossen“ – spříseženci, tj. příslušníci Švýcarského spříseženstva. „Gedachter Nation“ = téhož (švýcarského) národa.

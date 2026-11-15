@@ -1,0 +1,85 @@
+id: '017'
+list: '17'
+strana: recto
+sken: 51
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    säck werden offt mit Erden oder reinem sand außgefüllt/ vnd mit Wasser vnd Leim oder Lätt/ so durch einanderen gemischt/ wol bestrichen/ damit man sie vor fewr bewahre.
+  cs: |-
+    pytle se často plní zeminou nebo čistým pískem a dobře se natírají vodou smíchanou s hlínou {Leim} či jílem {Lätt}, aby se ochránily před ohněm.
+- typ: nadpis
+  uroven: 3
+  de: Von der Schützenkörblein zurüstung vnd nutz.
+  cs: O přípravě a užitku střeleckých košíků {Schützenkörblein}
+- typ: odstavec
+  de: |-
+    Man flichtet sie mit dünnen Weydlinen/ vnd seind gemeldte Körblein vngefahr 1. schuh in der dicke/ in der höhe aber 10. zoll/ vnd am boden 8. zoll/ damit sie sich von oben biß vnden je länger je mehr zuspitzen vnd verlieren/ vnd man danahen 2. daumen für die Musquetierer zu einem schießloch gehaben möge. Sie werden dick an einanderen auff die Brustwehr da der Feind ankommt/ gestellt/ zwüschen welchen die Musquetierer bedeckt seyn/ vnd dardurch fewr geben mögen.
+  cs: |-
+    Pletou se z tenkého vrbového proutí a uvedené košíky jsou asi 1 stopu {schuh} silné, nahoře však 10 palců {zoll} a u dna 8 palců, takže se shora dolů čím dál víc zužují a sbíhají a mezi nimi tak zbudou 2 palce {daumen} na střílnu pro mušketýry {Musquetierer}.[^1] Stavějí se hustě vedle sebe na předprseň {Brustwehr} tam, kde nepřítel přichází; mušketýři jsou mezi nimi krytí a mohou skrze ně pálit.
+- typ: nadpis
+  uroven: 3
+  de: Was man an statt der obgedachten Körbleinen brauche.
+  cs: Čeho užít místo výše uvedených košíků
+- typ: odstavec
+  de: |-
+    Jm mangel derselbigen werden säcklein von leinenem thuch mit Sand oder Wollen außgefüllt/ so vngefahr eines schuh dicks/ seind gut einen Musquetenschuß auffzuhalten.
+  cs: |-
+    Nejsou-li, plní se pytlíky z lněného plátna pískem nebo vlnou, asi stopu silné; ty dobře zadrží výstřel z muškety.
+- typ: nadpis
+  uroven: 3
+  de: Von heimlichen außgängen/ vnd wo selbige gemachet werden.
+  cs: O tajných východech a kde se zřizují
+- typ: odstavec
+  de: |-
+    Dieselbigen werden vnder den Streychen aller Bollwercken/ namlich vnder dem Winckel der richte des Halses gemachet in die trockene Gräben/ damit man dem Feind im Graben beykommen/ jhme entgegen gehen vnd gar auß dem Graben vertreiben möge.
+  cs: |-
+    Zřizují se pod flankami {Streychen} všech bašt {Bollwercken}, totiž pod úhlem při hrdle {Winckel der richte des Halses},[^2] a vedou do suchých příkopů, aby se dalo na nepřítele v příkopu dosáhnout, jít mu vstříc a vůbec ho z příkopu vypudit.
+- typ: nadpis
+  uroven: 2
+  de: Erklärung etlicher zur Fortification vnd Geometrey üblicher Wörteren.
+  cs: Výklad některých slov obvyklých ve fortifikaci a geometrii
+- typ: nadpis
+  uroven: 3
+  de: Was ein Approche seye/ vnd deren nammen.
+  cs: Co jsou aproše {Approche} a jejich název
+- typ: odstavec
+  de: |-
+    Es seind Ständ/ oder Gäng/ oder Weg/ so in die Erden eyngegraben/ vnd zu beyden/ oder an einer seiten mit Erden gegen einer Statt auffgeworffen werden/ darinnen man sicher zu einer Vestung nahen/ vnd ohnverletzt approchieren mag.
+  cs: |-
+    Jsou to stanoviště, chodby či cesty zakopané do země a na obou stranách nebo na jedné straně kryté zeminou navršenou směrem k městu; v nich se lze bezpečně přiblížit k pevnosti a bez úhony postupovat {approchieren}.
+- typ: nadpis
+  uroven: 3
+  de: Was die Gegen-Lauffgräben seyen/ vnd deren nammen.
+  cs: Co jsou protiaproše {Gegen-Lauffgräben} a jejich název
+- typ: odstavec
+  de: |-
+    Es seind gleiche Gäng so gegen des Feinds Werck lauffen/ auß welchen man des Feinds zu-schantzen abwehren/ vnd jhn dardurch verhinderen kan.
+  cs: |-
+    Jsou to podobné chodby, které vedou proti nepřítelovým dílům; z nich lze odrážet nepřítele, který se šancemi přibližuje {zu-schantzen}, a tím mu v tom bránit.
+- typ: nadpis
+  uroven: 3
+  de: Was ein Gallerie seye.
+  cs: Co je galerie {Gallerie}
+- typ: odstavec
+  de: |-
+    Es ist ein Gang durch den Graben in die Minen/ welcher oben mit Erden vnd Waasen/ vnd neben mit starcken Bretteren/ Erden vnd Wollsäcken wol verwahrt ist/ vnd wird sonsten Schirmtach genannt/ alß vnder welchem man verdeckt in die Minen gehen kan.
+  cs: |-
+    Je to chodba přes příkop k minám {Minen}, nahoře dobře chráněná zeminou a drny a po stranách silnými prkny, zeminou a pytli s vlnou; jinak se jí říká ochranná střecha {Schirmtach}, neboť pod ní lze krytě chodit k minám.
+- typ: nadpis
+  uroven: 3
+  de: Was ein Bresche seye.
+  cs: Co je průlom {Bresche}
+- typ: odstavec
+  de: |-
+    Sie ist das ort/ welches durch ein Minen oder Geschütz eröffnet/
+  cs: |-
+    Je to místo, které je minou nebo dělostřelbou otevřeno,
+poznamky:
+- n: 1
+  text: „in der höhe … 10. zoll“ chápeme jako průměr nahoře (10 palců) proti průměru u dna (8 palců); jen tak vychází mezera 2 palce mezi sousedními košíky.
+- n: 2
+  text: Patrně úhel, který svírá flanka s kurtinou u hrdla bašty. Tajné východy odpovídají výpadním brankám (poternám).

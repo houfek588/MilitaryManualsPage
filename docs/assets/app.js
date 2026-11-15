@@ -24,10 +24,11 @@ const bezDiakritiky = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/�
 const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 const plain = v => v == null ? '' : Array.isArray(v) ? v.map(plain).join(' ') : String(v).replace(/\[\^\d+\]/g,'').replace(/\{([^}]*)\}\*?/g,'[$1]').replace(/[*_]/g,'');
 const strop = (s, n) => s.length > n ? s.slice(0, n - 1) + '…' : s;
-const folio = p => p.list && /^[IVXLC]+$/.test(p.list) ? `fol. ${p.list} ${p.strana === 'verso' ? 'v' : 'r'}` : (p.list || p.id);
-const folioDlouze = p => p.list && /^[IVXLC]+$/.test(p.list) ? `list ${p.list}, ${p.strana === 'verso' ? 'rub (verso)' : 'líc (recto)'}` : (p.list || p.id);
+// označení strany: foliace (fol. XII r) nebo stránkování (str. 12) podle kniha.yaml → strankovani
+const folio = p => !p.list ? p.id : (/^[IVXLC]+$/.test(p.list) && M.strankovani !== 'strany') ? `fol. ${p.list} ${p.strana === 'verso' ? 'v' : 'r'}` : /^\d+$/.test(p.list) ? `str. ${p.list}` : p.list;
+const folioDlouze = p => !p.list ? p.id : (/^[IVXLC]+$/.test(p.list) && M.strankovani !== 'strany') ? `list ${p.list}, ${p.strana === 'verso' ? 'rub (verso)' : 'líc (recto)'}` : /^\d+$/.test(p.list) ? `strana ${p.list}` : p.list;
 const skenUrl = p => M.sken.url_strana.replace('{sken}', p.sken);
-const skenObr = (p, w) => M.sken.url_obrazek.replace('{sken5}', String(p.sken).padStart(5, '0')).replace('{sirka}', w);
+const skenObr = (p, w) => M.sken.url_obrazek.replace('{sken5}', String(p.sken).padStart(5, '0')).replace('{sken4}', String(p.sken).padStart(4, '0')).replace('{sirka}', w);
 const hlavniOddil = s => { while (s && s.rodic) s = oddil[s.rodic]; return s; };
 const cestaOddilu = s => { const c = []; while (s) { c.unshift(s); s = s.rodic ? oddil[s.rodic] : null; } return c; };
 
@@ -73,7 +74,7 @@ const ovZnacka = p => p.ov
   : ' · <span class="neov" title="Stranu zatím neověřil člověk">neověřeno člověkem</span>';
 function predel(p, prvni) {
   const strn = p.strana === 'verso' ? 'levá strana' : 'pravá strana';
-  return `<div class="predel" id="p-${p.id}"><span class="ik">📄</span><span>${prvni ? 'Strana' : 'Začátek strany'} <b>${folio(p)}</b> (sken č. ${p.sken}, ${strn})</span>
+  return `<div class="predel" id="p-${p.id}"><span class="ik">📄</span><span>${prvni ? 'Strana' : 'Začátek strany'} <b>${M.strankovani === 'strany' && /^\d+$/.test(p.list) ? p.list : folio(p)}</b> (sken č. ${p.sken}, ${strn})</span>
     <a href="#/strana/${p.id}">samostatná strana</a><a href="${skenUrl(p)}" target="_blank" rel="noopener">sken ↗</a><a href="${hlasit(p)}" title="Poslat opravu nebo připomínku k této straně e-mailem">nahlásit chybu</a>
     <span class="stav"><span class="tecka" style="background:var(--st-${p.stav})"></span>${STAVY[p.stav] || p.stav}${ovZnacka(p)}</span></div>`;
 }
@@ -113,7 +114,7 @@ function vykresli(od, doo, moznosti = {}) {
   zavri();
   return h;
 }
-const zahlaviSloupcu = '<div class="zahlavi-sloupcu"><span class="de">Originál (1564)</span><span>Český překlad</span></div>';
+const zahlaviSloupcu = `<div class="zahlavi-sloupcu"><span class="de">Originál (${esc(M.rok)})</span><span>Český překlad</span></div>`;
 
 // ---------- navigace mezi oddíly
 function dalsiOddil(s) {
@@ -144,7 +145,7 @@ V.obsah = () => {
     <h1>${esc(M.nazev)}<span class="de">${esc(M.nazev_orig)} – ${esc(M.podtitul || '')}</span></h1>
     <p class="uvod">${esc(M.autor)} (${esc(M.autor_zivot || '')}). ${esc(M.vydani)}. ${esc(M.rozsah || '')}. ${esc(M.vd16 || '')}.</p>
     <p>${esc(M.popis || '')}</p>
-    <p class="m">Překlad: ${esc(M.prekladatel || '')}. Sken: ${esc(M.sken.instituce)}, ${esc(M.sken.signatura)} (<a href="${M.sken.url_dilo}" target="_blank" rel="noopener">digitale-sammlungen.de ↗</a>).</p>
+    <p class="m">Překlad: ${esc(M.prekladatel || '')}. Sken: ${esc(M.sken.instituce)}, ${esc(M.sken.signatura)} (<a href="${M.sken.url_dilo}" target="_blank" rel="noopener">${esc(M.sken.portal || 'digitalizace')} ↗</a>).</p>
     <div class="postup">${postup}</div><div class="legenda">${leg}</div>
     <p class="m"><span class="ov">✓</span> Ověřeno člověkem: <b>${E.overeno || 0}</b> z ${celk} stran (ostatní prošly jen strojovou kontrolou).</p>
     <p><a class="chip" href="#/kap/${ODD[0].id}">Začít číst</a><a class="chip" href="#/strany">Listovat po stranách</a><a class="chip" href="#/rejstrik">Věcný rejstřík</a><a class="chip" href="#/tisk">Stáhnout PDF</a></p>
@@ -182,15 +183,15 @@ V.strana = id => {
     <h1>${folio(p)}<span class="de">${folioDlouze(p)} · sken č. ${p.sken}</span></h1>${sekce}${nav}
     <div class="strana-layout"><div class="ctecka">${zahlaviSloupcu}${obsah}</div>
     <aside class="sken-panel"><a href="${skenUrl(p)}" target="_blank" rel="noopener"><img src="${skenObr(p, 700)}" alt="Sken ${folio(p)}" loading="lazy" onerror="this.alt='Náhled skenu není dostupný (offline?)'"></a>
-    <p class="m">Náhled skenu (BSB, ${esc(M.sken.id)}, sken ${p.sken}). <a href="${skenUrl(p)}" target="_blank" rel="noopener">Otevřít v prohlížeči MDZ ↗</a></p></aside></div>${nav}`;
+    <p class="m">Náhled skenu (${esc(M.sken.kratce || M.sken.instituce)}, ${esc(M.sken.id)}, sken ${p.sken}). <a href="${skenUrl(p)}" target="_blank" rel="noopener">Otevřít na ${esc(M.sken.portal || 'webu knihovny')} ↗</a></p></aside></div>${nav}`;
 };
 
 V.strany = () => {
   const skup = {};
   STR.forEach(p => { const s = hlavniOddil(ODD.filter(x => x.od <= p.od).pop() || ODD[0]); (skup[s.id] = skup[s.id] || {s, p: []}).p.push(p); });
   const leg = STAV_PORADI.filter(s => E.stav[s]).map(s => `<span><span class="tecka" style="background:var(--st-${s})"></span>${STAVY[s]} ${E.stav[s]}</span>`).join('');
-  return `<h1>Strany tisku<span class="de">Listování podle původní foliace (líc r / rub v)</span></h1>
-    <p class="uvod">Tisk je číslován po listech (foliace): r = líc, v = rub. List XVI má v tisku chybně číslo XVII.</p><div class="legenda">${leg}</div>` +
+  return `<h1>Strany tisku<span class="de">${M.strankovani === 'strany' ? 'Listování podle původního stránkování tisku' : 'Listování podle původní foliace (líc r / rub v)'}</span></h1>
+    <p class="uvod">${esc(M.strany_poznamka || '')}</p><div class="legenda">${leg}</div>` +
     Object.values(skup).map(g => `<h2 class="sekce">${inline(g.s.cs || g.s.de, null)}</h2><div class="mrizka">` +
       g.p.map(p => `<a href="#/strana/${p.id}" style="--c:var(--st-${p.stav})" title="${STAVY[p.stav]}${p.ov ? ' · ověřeno člověkem' : ''}">${folio(p)}${p.ov ? ' <span class="ov">✓</span>' : ''}<small>sken ${p.sken}</small></a>`).join('') + '</div>').join('');
 };
@@ -310,11 +311,11 @@ function tiskni() {
 }
 
 V.oEdici = () => `<h1>O edici</h1>
-  <p>${esc(M.autor)}: <i>${esc(M.nazev_orig)}</i>, ${esc(M.vydani)} (${esc(M.vd16 || '')}).</p>
-  <p>Německý text je přepsán podle digitalizace ${esc(M.sken.instituce)} (${esc(M.sken.signatura)}, ${esc(M.sken.id)}) z OCR s ručně/strojově opravenými chybami; zachovává dobový pravopis včetně lomítek (virgulí).
+  <p>${esc(M.autor)}: <i>${esc(M.nazev_orig)}</i>, ${esc(M.vydani)} (${esc(M.katalog || M.vd16 || '')}).</p>
+  <p>${esc(M.zdroj_textu || '')} Zachovává dobový pravopis včetně lomítek (virgulí).
   Český překlad se drží odstavců tisku, aby bylo možné oba texty číst vedle sebe. Odborné termíny se při prvním výskytu na stránce uvádějí v závorce v podobě z tisku <span class="term">[takto]</span> a vedou do věcného rejstříku;
   doplňky překladatele jsou v [hranatých závorkách].</p>
-  <p>Strany jsou označeny podle foliace tisku: <b>r</b> (recto) = líc listu, pravá strana dvojstrany; <b>v</b> (verso) = rub, levá strana. „Sken č.“ odkazuje na pořadí snímku v digitalizaci BSB.</p>
+  <p>${M.strankovani === 'strany' ? 'Strany jsou označeny podle stránkování tisku (str. 1, 2, …); předsádka a tabule s mědirytinami čísla nemají.' : 'Strany jsou označeny podle foliace tisku: <b>r</b> (recto) = líc listu, pravá strana dvojstrany; <b>v</b> (verso) = rub, levá strana.'} „Sken č.“ odkazuje na pořadí snímku v digitalizaci ${esc(M.sken.kratce || M.sken.instituce)}.</p>
   <p class="m">Licence skenů: ${esc(M.sken.licence || '')}.</p>
   <p>Překlad vznikl převážně s pomocí AI a postupně ho kontroluje člověk – u každé strany je vyznačeno, zda už byla ověřena. Opravy a připomínky posílejte přes odkaz „nahlásit chybu“ u příslušné strany. Více na stránce <a href="../o-projektu.html">O projektu</a>.</p>
   <p class="m">Ovládání: ← → předchozí/další kapitola nebo strana · O skrýt/zobrazit originál · / hledat.</p>`;

@@ -1,0 +1,34 @@
+id: '121'
+list: '121'
+strana: recto
+sken: 167
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    keine Hauptwacht haben/ sollen jhre Quartier selbsten mit Schiltwachten versehen: Namlich eine vor vnd bey dem Fendlein; eine bey dem Capitain: vnd eine bey der Bagage des Capitains: Für des Profosen Losament wird auch ein Schiltwacht gestellt/ wo ferr er gefangene hat. Es bestellen auch die Hauptwachten die Schiltwachten bey des Obersten Profosen Losament/ vnd der Munition/ so zum Regiment dienet: Jtem/ bey des Obersten Wägen/ etc. Wie sich nun ein jeder auff der Schilt- vnd Hauptwacht verhalten solle/ hast du im ersten Theil meines Kriegsbüchleins vernommen. Es ist auch zu wüssen/ daß Lermenplätz vor jedem Regiment seyen/ zu deren Distantz auff die 200. schuh gegeben werden.
+  cs: |-
+    nemají hlavní stráž {Hauptwacht}, mají svůj kvartýr opatřit stálými strážemi {Schiltwachten} samy, totiž jednou před praporcem {Fendlein} a u něho, jednou u hejtmana {Capitain} a jednou u hejtmanovy bagáže. Před ubytováním profouse {Profosen} se rovněž staví stálá stráž, má-li vězně. Hlavní stráže také obsazují stálé stráže u ubytování plukovního profouse {des Obersten Profosen} a u munice, která slouží pluku, rovněž u plukovníkových vozů atd. Jak se má každý chovat na stálé a na hlavní stráži, ses dozvěděl v Prvním dílu mé Válečné knížky.[^1] Je také třeba vědět, že před každým plukem jsou poplachová shromaždiště {Lermenplätz}, pro něž se vyměřuje vzdálenost asi 200 stop {schuh}.
+- typ: nadpis
+  uroven: 2
+  de: Wann man des Morgens widerumb auffbricht.
+  cs: Když se ráno opět vyráží.
+- typ: odstavec
+  de: |-
+    So solle man sich widerumb in weis vnd form wie zuvor/ durchauß verhalten/ aussert vnd allein daß die jenigen/ so die vorhůt gehabt/ nun die nachhůt; vnd die so die nachhůt/ die Battaille; vnd die so die Battaille gehabt haben/ alßdann die vorhůt haben/ damit gezänck vnd vngelegenheit vermitten bleibe: vnd solle also alle tag die kehr vnder jhnen vmbgehen/ damit sich kein theil zu klagen habe: dann die vorhüt offt des Abends vmb 4. oder 5. die nachhůt aber des Nachts vmb 1. vhren in das Quartier kommt/ vnd die hindersten nicht allein starck hinnach marschieren müssen/ sonder auch schlechtere Quartier bekommen/ vnd in allweg vervortheilt werden/ da aber bill ich ist daß man die gleichheit hierinn gebrauche: es gehet aber der Marsch des Morgens so bald der Tag anbricht/ widerumb an.
+  cs: |-
+    Tu se má ve všem postupovat stejným způsobem a podobou jako předtím, jen s tím rozdílem, že ti, kdo měli předvoj {vorhůt}, mají nyní zadní voj {nachhůt}; ti, kdo měli zadní voj, [mají] bataille {Battaille}; a ti, kdo měli bataille, mají potom předvoj – aby se předešlo sváru a nepohodlí. Tak se má mezi nimi každý den střídat pořadí, aby si žádná strana neměla nač stěžovat. Předvoj totiž často přichází do kvartýru večer ve 4 nebo 5, zadní voj však v noci v 1 hodinu, a ti poslední musí nejen usilovně pochodovat vzadu, ale dostávají i horší kvartýry a jsou ve všem znevýhodněni; přitom je však spravedlivé, aby se v tom zachovávala rovnost. Pochod pak ráno opět začíná, jakmile se rozední.
+- typ: nadpis
+  uroven: 2
+  de: Wann man ein Statt belägeren will/ was man in acht nemmen solle.
+  cs: Na co dbát, chce-li se obléhat město.
+- typ: odstavec
+  de: |-
+    Erstlich/ wann die Armee 4. oder 5. meil von der Statt ist/ so belägert wird/ solle der Feldmarschalck sampt dem General-Jngenieur vnd Quartiermeister vor die Vestung mit der gantzen Reuterey geschickt werden/ welche alßdann die Statt plocquieren vnd vmbrennen sollen/ daß weder Hund noch Katz hinauß kommen möge: der Jngenieur soll allen vortheil wol observieren/ vnd die gantze Revier vnd vmbligends Land/ nach vermögen/ mit allen Wasserflüssen/ Wisen/ Heiden/ Bergen/ Morast vnd anderen vmbständen fleissig auffzeichnen/ vnd auff ein Papyr vnd Plan bringen/ darauß dann ein General sich ersehen möge/ wie am füglichsten das Läger vmb die Statt zu schlagen/ vnd wo die Quartier am besten zu ordinieren seyen: jnsonderheit muß man die Vestung selbsten erkundigen/ vnd wie hoch vnd dick die Wäl: wie breit vnd tieff die Gräben; vnd wie vil Bollwerck ein solche Vestung habe; wo sie am schwächsten; ob die Vestung mit Munition/ Proviant/ Volck vnd Geschütz versehen; wie die Soldaten gegen jhrem Herren gesinnet; ob sie auch fleissig vmb jhr besoldung contentiert/ alles auffs fleissigst/ vnd mit allem vortheil verrichten. Man soll auch mit etlichen den Eynwohneren also
+  cs: |-
+    Předně: když je armáda 4 nebo 5 mil {meil} od města, které se má obléhat, má být před pevnost vyslán polní maršálek {Feldmarschalck} s generálním inženýrem a kvartýrmistrem a s celou jízdou; ti mají město zablokovat {plocquieren} a obklíčit, aby z něho nevyšel ani pes, ani kočka. Inženýr má dobře vypozorovat všechny výhody [terénu] a celý okrsek a okolní krajinu podle možností pečlivě zaznamenat se všemi vodními toky, loukami, vřesovišti, horami, močály a jinými okolnostmi a převést to na papír a do plánu, z něhož pak může generál seznat, jak nejvhodněji rozbít ležení {Läger} kolem města a kde nejlépe rozvrhnout kvartýry. Zvláště je nutno vyzvědět, jaká je pevnost sama: jak vysoké a silné jsou valy {Wäl}, jak široké a hluboké příkopy {Gräben} a kolik bašt {Bollwerck} taková pevnost má; kde je nejslabší; zda je pevnost opatřena municí, proviantem, lidmi a děly; jak jsou vojáci nakloněni svému pánovi; zda dostávají také řádně svůj žold – to vše vykonat co nejpečlivěji a se vší výhodou. Také se má s některými obyvateli
+poznamky:
+- n: 1
+  text: Patrně omyl autora – o službě stálých a hlavních stráží pojednává Druhý díl („Von einer Besatzung“), na nějž text odkazuje i na předchozí straně.

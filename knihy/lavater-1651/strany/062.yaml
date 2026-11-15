@@ -1,0 +1,32 @@
+id: '062'
+list: '62'
+strana: verso
+sken: 96
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Wie sich die Hauptwacht im Lermen verhalten solle.
+  cs: Jak si má hlavní stráž počínat při poplachu.
+- typ: odstavec
+  de: |-
+    So bald die Schiltwachten auff dem Wal Lermen gemacht vnd geschossen haben/ soll der Trommelschlager mit der Trommel auff dem Marckt auch Lermen machen/ vnd sich die Compagnie der Hauptwacht auff dem Marckt in ein ordnung stellen/ vnd soll man alßdann von derselbigen hin vnd wider den Soldaten/ welche am meisten noht leiden/ zu hilff kommen.
+  cs: |-
+    Jakmile stálé stráže {Schiltwachten} na valu {Wal} spustí poplach {Lermen} a vystřelí, má i bubeník na náměstí bubnem vyhlásit poplach a kompanie {Compagnie} hlavní stráže {Hauptwacht} se má na náměstí seřadit do šiku. Z ní se pak má sem i tam přispívat na pomoc vojákům, kteří jsou v největší nouzi.
+- typ: nadpis
+  uroven: 2
+  de: Vom Thor oder Porten.
+  cs: O bráně neboli portě.
+- typ: nadpis
+  uroven: 3
+  de: Wann/ vnd wie man selbige eröffnen solle.
+  cs: Kdy a jak se má otevírat.
+- typ: odstavec
+  de: |-
+    Wann es des Sommers vmb 6. oder halber 6. vhren/ auch heiter/ klar vnd nicht nüblecht Wetter ist/ werden die Porten durch den Major des morgens also auffgethan: Erstlich schlagt der Trommelschlager auff der Hauptwacht vor der Haupt-Corps de garde einen sonderlichen Trommelschlag/ darauff alle Gefreyten sampt einem Wachtmeister der Hauptwacht vor der Corps de garde auff dem Marckt in die ordnung stehen. Der Major nimmt zween gemeine Soldaten N. Spießknecht/ gibt jeglichem einen läderen sack/ darinn die Portenschlüssel seind/ (welche allzeit in der Hauptwacht hangen sollen) zu tragen/ die gehen erstlich hinder dem Major/ so nur ein Regiment in händen hat: darnach ein Fendrich mit seinem Spieß/ so den Spieß auffrecht traget: dem folgen die Gefreyten mit jhren Spiessen all auffrecht selbige tragend: auff die Spieß aber folget der Trommelschlager/ ist doch meistentheil hinder den ersten drey glideren der Spiessen: diser schlaget den Portenschlag von der Wacht biß an die Porten/ vnd von derselben zur anderen/ vnd also fortan/ biß man die schlüssel widerumb auff/ oder in die Hauptwacht liferet: auff die Spieß folgen auch Gefreyte mit jhren Musqueten/ vnd zu hinderst gehet der Wachtmeister mit auffrecht-tragender Helleparten allein hinden nach: alßdann thut man ein Porten nach der anderen/ vnd nicht mit einanderen zugleich auff. So bald man nun an die Porten kommt/ stehet die Wacht derselben Corps de garde vnd den Wachten so auß den Bollwercken auch an die Porten gehen müssen/ ins Gewehr: alßdann commandiert der Corporal gestracks zween Spießknecht/ die die Porten eröffnen vnd die Fallbrucken hinab lassen helffen. Die gefreyten Picquenierer marschieren mit gefellten Spiessen dem Major nach/ auff welche die gefreyten Musquetierer mit auffgestraubten brennenden Lunden hernach folgen: Etliche von den Musquetiereren gehen vngefahr einen Bůchsenschuß weit/ ausserthalb zu sehen/ ob etwan sich feind versteckt haben: Es gehen auch etliche auff die Porten vnd den Wal/ zu sehen ob etwas vnklars vorhanden seyn möchte: deßgleichen thut man an allen Porten. Darnach marschiert man mit den schlüßlen widerumb nach der Hauptwacht/ vnd verbleibt daselbst ein Wachtmeister oder
+  cs: |-
+    Je-li v létě kolem 6. nebo půl 6. hodiny a k tomu jasné, čisté a ne mlhavé počasí, otevírá major ráno brány takto: Nejprve bubeník hlavní stráže zabubnuje před hlavní strážnicí {Haupt-Corps de garde} zvláštní signál a na to se všichni svobodníci {Gefreyten} spolu s jedním vachmistrem {Wachtmeister} hlavní stráže seřadí před strážnicí na náměstí. Major vezme dva prosté vojáky, totiž pikenýry {Spießknecht}, a dá každému nést kožený pytel s klíči od bran (které mají vždy viset na hlavní stráži). Ti jdou první hned za majorem, který má v ruce jen velitelskou hůl.[^1] Za nimi jde praporečník {Fendrich} se svou píkou, kterou nese vzpřímeně; za ním následují svobodníci, všichni rovněž se vzpřímeně nesenými píkami. Za píkami jde bubeník, většinou však až za prvními třemi řadami {glideren} pikenýrů; ten bubnuje branský signál {Portenschlag} od stráže až k bráně a od ní k další a tak dále, dokud se klíče zase neodevzdají na hlavní stráž. Za píkami jdou také svobodníci s mušketami a úplně vzadu jde sám vachmistr se vzpřímeně nesenou halapartnou. Brány se přitom otevírají jedna po druhé, ne všechny najednou. Jakmile se přijde k bráně, nastoupí ke zbrani stráž tamější strážnice i stráže, které musejí rovněž přijít z bašt {Bollwercken} k bráně. Desátník {Corporal} pak ihned určí dva pikenýry, aby pomohli otevřít bránu a spustit padací most. Svobodníci pikenýři pochodují se sklopenými píkami za majorem a za nimi jdou svobodníci mušketýři s nasazenými hořícími doutnáky. Někteří mušketýři vyjdou ven asi na dostřel pušky, aby se podívali, zda se tam neskrývají nepřátelé. Někteří také vystoupí na bránu a na val, aby zjistili, zda tam není něco podezřelého. Totéž se děje u všech bran. Potom se s klíči pochoduje zpět k hlavní stráži a [u brány] zůstává vachmistr nebo
+poznamky:
+- n: 1
+  text: V originále „Regiment“ – zde ve významu velitelská hůl (odznak velitelské moci), nikoli pluk.

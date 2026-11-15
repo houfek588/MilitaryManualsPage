@@ -1,0 +1,43 @@
+id: 028
+list: '28'
+strana: verso
+sken: 62
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    bleiben die kolen/ dieselbigen werden hinweg geworffen/ aber das Wasser wird widerumb gesotten/ wie man dem Salpeter thut/ vnd laßt jhne erkalten/ so setzet sich der Salpeter widerumb/ den tröckne an der Sonnen/ so ist das Pulfer recht gescheiden/ das mischet man dann widerumb zusammen/ vnd thut widerumb frisch kolen daran/ vnd præparierts widerumb wie ander Pulfer.
+  cs: |-
+    na něm zůstane uhlí, které se vyhodí; voda se však znovu vaří, jak se to dělá s ledkem {Salpeter}, a nechá se vychladnout. Tak se ledek opět usadí; ten se usuší na slunci. Tím je prach řádně rozložen [na své složky]. Ty se pak znovu smíchají, přidá se k nim čerstvé uhlí a prach se znovu připraví jako každý jiný.
+- typ: odstavec
+  de: |-
+    Wie man das Pulfer/ Schwebel vnd andere Pulfer Fewr- auch andere Werck probiere vnd mache/ wirst du in Herren Furtenbachs vnd anderen darvon vilfaltig vnd weitläuffig beschribenen Bücheren genugsam finden/ dahin dann ich den freundlichen Leser will gewisen haben.
+  cs: |-
+    Jak se zkouší a vyrábí prach, síra a jiné prachové a ohňostrojné výrobky i jiná díla, najdeš dostatečně v knihách pana Furtenbacha[^1] a jiných, kteří o tom rozmanitě a obšírně psali; na ně chci laskavého čtenáře odkázat.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Hie folget was eines jeglichen; er seye gleich hohen/ oder nideren Stands; Ampt/ Eyd/ Ordinantz/ Zug vnd Wacht seye: auch wie er sich vor vnd zum Feind im convojieren/ Beuten vnd Belägerung verhalten solle.
+  cs: |-
+    Zde následuje, jaký je úřad, přísaha, řád, služba a stráž každého, ať je vysokého či nízkého stavu, a také jak se má chovat před nepřítelem a proti němu při doprovodu, kořistění a obléhání.
+- typ: nadpis
+  uroven: 2
+  de: Von einem Gubernator/ was desselbigen Ampt/ Eyd vnd Beruff seye.
+  cs: 'O guvernérovi: jaký je jeho úřad, přísaha a povolání.'
+- typ: odstavec
+  de: |-
+    Ein Gubernator soll Gottsförchtig/ mässig/ nüchter/ leydenlich zur Arbeit/ scharpffer Vernunfft/ nicht geitzig/ weder zu jung noch zu alt/ deßgleichen auch wol beredt vnd Kriegs erfahren seyn. Er soll auch bedächtig vnd nicht zu gäch seyn/ vnn sich wol enthalten vor zorn: dann wo die vnsinnigkeit eines Manns vberhand nimmt/ daß er jhme nichts will wehren lassen/ machet solches jhne verhaßt. Darzu gebürt jhme nüchterkeit/ damit er den wichtigen Sachen obligen möge: dann offt zu nachts in der ruhe mögen die guten Räht vnd Anschläg des Gubernators mit guter betrachtung erwogen/ vnd desto besser bestätiget werden: sonsten die zeit/ so etwan der Gubernator im wollust/ fressen vnd sauffen hingebracht vnd verzehrt/ zu grossem vnwiderbringlichem schaden vnd nachtheil vrsach gegeben hat. So gehört auch gedult der Arbeit zu voran dem Gubernator: dann er soll vnder den Ritterlichen Arbeiten der letste mühd/ vnd einer begriffenlichen vnd scharpffen Vernunfft seyn/ Vogelschnell vnd alle ding durchlauffen/ vnd zufallende ding wol bedencken/ auch sich von allen orten zu besinnen geflissen seyn: dann wo sich ein zufahl schnell begibt/ wird der Gubernator eylends Rahtschlags genöhtiget vnd getrungen: Er soll auch sein Kriegsvolck vnd die summa der Sachen nicht gering achten/ liederlich in die schantz schlagen/ auff gerahtwol dem vngetrewen glück vertrawen oder befehlen. Er soll nicht geitzig seyn/ dann der Geitz vnd Hochmuht ein wurtzel alles bösen/ vnd ist der verrähterey nechstverwandter: welcher aber weder Eigennutz noch Geitz ansihet vnd vorbehalt/ der ist der allergeschickteste vnd qualifieiertiste Person/ grosse treffenliche Sachen zu handlen. Er soll auch weder zu jung noch zu alt seyn: dann der Jung zu vil mißgläubig/ der Alt aber schwach vnd verdrossen. Der Jung ist darumb zu verwerffen/ damit er nicht durch
+  cs: |-
+    Guvernér {Gubernator}[^2] má být bohabojný, střídmý, střízlivý, v práci vytrvalý, bystrého rozumu, nikoli lakomý, ani příliš mladý, ani příliš starý, a také výmluvný a zkušený ve válce. Má být rovněž rozvážný a ne příliš zbrklý a má se dobře varovat hněvu; neboť kde se muže zmocní nerozum, takže si nedá nic rozmluvit, stává se nenáviděným. Dále mu náleží střízlivost, aby se mohl věnovat důležitým věcem; často totiž v noci v klidu mohou být dobré rady a záměry guvernéra s rozvahou zváženy a tím lépe utvrzeny, kdežto čas, který guvernér snad promarnil v rozkoši, obžerství a pitce, už zavinil velikou, nenapravitelnou škodu a újmu. Ke guvernérovi patří především také vytrvalost v práci: má se z rytířských prací unavit poslední, má být chápavého a bystrého rozumu, rychlý jako pták, všechno prohlédnout a dobře uvážit, co se může přihodit, a pilně se rozhlížet na všechny strany; neboť když se něco náhle přihodí, je guvernér nucen a tlačen rychle se rozhodnout. Nemá také podceňovat své vojsko ani podstatu věci, nemá je lehkomyslně vydávat v sázku {in die schantz schlagen}[^3] a nazdařbůh je svěřovat nevěrné štěstěně. Nemá být lakomý, neboť lakota a pýcha jsou kořenem všeho zla a nejbližšími příbuznými zrady; kdo však nehledí na vlastní prospěch ani na zisk a nic si pro sebe nevyhrazuje, ten je nejzpůsobilejší a nejpovolanější osobou k vedení velkých a významných věcí. Nemá být ani příliš mladý, ani příliš starý; mladý je totiž příliš nedůvěřivý, starý zase slabý a mrzutý. Mladého je proto třeba zamítnout, aby ho
+poznamky:
+- n: 1
+  text: |-
+    Joseph Furttenbach (1591–1667), ulmský architekt a stavitel, autor spisů o dělostřelectvu a ohňostrojích (Halinitro-Pyrobolia 1627, Büchsenmeisterey-Schul 1643).
+- n: 2
+  text: |-
+    Gubernator – velitel pevnosti a posádky jmenovaný vrchností (guvernér); v Lavaterově soustavě nejvyšší úřad posádky, nad komandantem.
+- n: 3
+  text: |-
+    In die Schanz schlagen – vsadit, dát v sázku (Schanz = šance, náhoda ve hře), nikoli „vrhat se do šancí“.

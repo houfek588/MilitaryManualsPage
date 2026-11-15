@@ -1,0 +1,45 @@
+id: '115'
+list: '115'
+strana: recto
+sken: 161
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gen- Batterey- vnd Bruckenmeister/ des Wagenmeisters Leutenammt/ Fůhrleuth/ Schneller/ Pulferhüter/ Ertz- oder Bergknappen: deßgleichen der General Jngenieur/ Jngenieur/ Conducteur/ Contrerolleur/ Commissarij vnd Schreiber/ Werckbagi. Jtem/ Oberst Werckmeister/ Zimmerleuth/ Küffer/ Sattler/ Seiler/ Wagner/ Schlosser/ Steinmetzen/ Maurer/ Schmid vnd dergleichen Handwercksleuth. Jtem/ die Capitain vnd Leutenammt von den Bineurs/ etc.
+  cs: |-
+    vozmistr, mistr baterií a mostmistr, poručík vozmistra, vozkové {Fůhrleuth}, zvedači {Schneller}, strážci prachu {Pulferhüter}, havíři neboli horníci {Ertz- oder Bergknappen}; rovněž generální inženýr, inženýr, průvodce {Conducteur}, kontrolor, komisaři a písař, předáci {Werckbagi}[^1]. Dále vrchní stavitel {Werckmeister}, tesaři, bednáři, sedláři, provazníci, koláři, zámečníci, kameníci, zedníci, kováři a podobní řemeslníci. Dále hejtman a poručík pionýrů {Bineurs} atd.
+- typ: nadpis
+  uroven: 2
+  de: Wie ein Armada abgetheilt werde.
+  cs: Jak se armáda {Armada} dělí.
+- typ: odstavec
+  de: |-
+    Sie wird in drey Regiment abgetheilt: 1. Jn die Jnfanterey oder Fußvolck. 2. Jn die Cavalerey oder Reuterey: 3. Jn die Artillerey/ oder in das Geschütz/ Munition vnd Wägen.
+  cs: |-
+    Dělí se do tří složek {Regiment}: 1. na infanterii neboli pěchotu, 2. na kavalerii neboli jízdu, 3. na artilerii neboli děla, munici a vozy.
+- typ: nadpis
+  uroven: 2
+  de: Wie dise drey Regiment widerumb abgetheilt werden.
+  cs: Jak se tyto tři složky dále dělí.
+- typ: odstavec
+  de: |-
+    Sie werden in drey theil. Namlich in die Avantguarde/ Vorzug/ oder Vorhůt: 2. Jn die Battaille/ Corpus/ oder Mittelzug: 3. Jn die Retroguarde/ Deriereguarde/ Nachhůt/ oder Nachzug/ abgetheilt: alß in den Vorzug gehört ein theil Fůßvolck/ ein theil Reuter/ vnd ein theil Artillerey/ Munition vnd Rüstwägen. Jn den Mittelzug gehört ein theil Fůßvolck/ Reuter/ vnd Artillerey/ Munition vnd Wägen. Jn den Nachzug gleichmässig der vbrig theil Jnfanterey/ Cavalerey vnd Artillerey/ etc.
+  cs: |-
+    Dělí se na tři části, totiž 1. na avantgardu {Avantguarde}, předvoj {Vorzug} neboli přední stráž; 2. na bataille {Battaille}, tělo {Corpus} neboli střední voj; 3. na retrogardu {Retroguarde}, ariergardu {Deriereguarde}, zadní stráž neboli zadní voj {Nachzug}. Do předvoje totiž náleží část pěchoty, část jízdy a část dělostřelectva, munice a výzbrojních vozů {Rüstwägen}. Do středního voje náleží část pěchoty, jízdy a dělostřelectva, munice a vozů. Do zadního voje stejně tak zbytek pěchoty, jízdy a dělostřelectva atd.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Was für klein vnd groß Geschütz/ Munition/ Rüst- vnd andere Wägen: Jtem/ wie vil Wagen- vnd Stuckpferd/ Fůhrleuth/ sampt anderen darzu gehörigen Sachen ins Feld erforderet werden/ vnd derselbigen vberschlag.
+  cs: |-
+    Jaká malá a velká děla, munice, výzbrojní a jiné vozy, dále kolik vozových a dělových koní, vozků a dalších k tomu náležejících věcí je třeba do pole, a jejich rozpočet {vberschlag}.
+- typ: odstavec
+  de: |-
+    Es werden meistentheils vier sorten des Geschützes ins Feld erforderet: 1. die 6. pfundt/ 2. die 12. pfundt Eysen/ 3. die 24. pfundt Eysen/ zum 4. die 48. pfundt Eysen schiessend. Die ersten zwo gattungen werden genennt Feldstück: die andere beyde aber gantz vnd halb Carthaunen/ so zu der Bresche gebraucht werden. Jn dem Feldgeschoß gibt man auff 2. pfundt Eysen 1. pfundt Pulfer: wann du nun 200. schüß auff jedes Stück so 6. pfundt Eysen schiesset/ rechnest/ so bringt es an 200. Kuglen 1200. pfundt oder 12. centner an Eysen/ vnd wird einem Ross an einem Stück 3. centner/ an Kuglen vnd Pulfer aber 4 centner zu ziehen aufferlegt/ vnd je zu drey Rossen ein Fůhrmann bestellt vnd besoldet: also hat es ein beschaffenheit mit den vbrigen groß- vnd kleinen Stücken/ welche man nach dero schüß vnd gewicht/ die Kuglen/ Pulfer/ Ross/ Wagen vnd Fůhrleuth außrechnen kan. Was aber die Carthaunen anlanget/ werden dieselben zum brechen auff 3. pfundt Eysen 3. pfundt Pulfer erforderen. Man muß auch mit dem Geschütz etliche klein vnn grosse Mörser/ darauß man das Fewrwerck spielet/ vnd auch vnder die Artillerey gehört: Jtem/ Petarden sampt jhren Schäfften mit führen. Wann du
+  cs: |-
+    Do pole se většinou vyžadují čtyři druhy děl: 1. střílející 6 liber {pfundt}, 2. 12 liber železa, 3. 24 liber železa a 4. 48 liber železa. První dva druhy se nazývají polní děla {Feldstück}, druhé dva pak celé a poloviční kartouny {Carthaunen}, jichž se užívá ke střílení průlomu {Bresche}. Při polní střelbě se dává na 2 libry železa 1 libra prachu. Počítáš-li tedy na každé dělo, které střílí 6 liber železa, 200 ran, činí to při 200 koulích 1200 liber neboli 12 centů {centner} železa; jednomu koni se u děla ukládá táhnout 3 centy, u koulí a prachu však 4 centy, a vždy na tři koně se najímá a platí jeden vozka. Stejně je tomu s ostatními velkými i malými děly, u nichž lze podle počtu ran a váhy vypočítat koule, prach, koně, vozy a vozky. Kartouny však k prorážení [hradeb] vyžadují na 3 libry železa 3 libry prachu. S děly se musí vézt také několik malých i velkých moždířů {Mörser}, z nichž se metá válečný ohňostroj {Fewrwerck} a které rovněž patří k dělostřelectvu; rovněž petardy i s jejich násadami {Schäfften}. Ať už
+poznamky:
+- n: 1
+  text: Werckbagi – výraz nejasný; patrně z niz. werkbaas (mn. č. werkbazen) = předák, mistr nad dělníky. Čtení nejisté.

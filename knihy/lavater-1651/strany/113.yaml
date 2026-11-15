@@ -1,0 +1,55 @@
+id: '113'
+list: '113'
+strana: recto
+sken: 159
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-159.jpg
+  popis: Zdobná typografická lišta (ornamentální záhlaví ze dvou řad stočených úponků) nad nadpisem Čtvrtého dílu.
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Vierter Theil/ Des Kriegsbüchleins: Wie man sich in Feldzügen/ Schlachten/ Convojieren/ Beuthen/ Scharmützieren/ Castrametieren/ Approchieren/ Batterieren/ Minieren/ Stürmen/ etc. vnd anderen dergleichen fürfallenden Sachen verhalten solle.
+  cs: |-
+    Čtvrtý díl Válečné knížky: Jak si počínat na taženích, v bitvách, při doprovázení {Convojieren}, kořistění, šarvátkách, rozvrhování ležení {Castrametieren}, přibližování aprošemi {Approchieren}, ostřelování z baterií {Batterieren}, podkopávání, útocích atd. a v jiných podobných případech.[^1]
+- typ: nadpis
+  uroven: 2
+  de: Was einem Feld-Obersten/ wann er deß ersten zu Feld ziehen will/ zu bedencken seye.
+  cs: Co má uvážit nejvyšší polní hejtman {Feld-Obersten}, když se chystá vytáhnout do pole.
+- typ: odstavec
+  de: |-
+    ERstlich soll er bedencken/ mit was für einem Feind man zu schaffen habe/ was derselbig an Macht/ Gelt/ Geschütz/ Proviant/ Munition/ Stätt/ Vestungen/ Landen vnd Leuthen: Jtem/ an Freundschafft/ Erbvereinigung/ Bundtnuß/ vnd dergleichen vermöge.
+  cs: |-
+    Předně má uvážit, s jakým nepřítelem bude mít co činit a čím ten nepřítel vládne, pokud jde o moc, peníze, děla, proviant, munici, města, pevnosti, země a lid; rovněž pokud jde o přátelství, dědičné spolky {Erbvereinigung}[^2], spojenectví a podobně.
+- typ: odstavec
+  de: |-
+    2. Ob er Vestungen vor jhm habe/ die er belägeren vnd gewünnen könne: wie vil Zeit vnd Geschütz darzu erforderet werde/ damit Kraut vnd Loth nicht vergebens verschossen/ vnd der vberschwänckliche vnkosten/ so vber Reuter/ Fußvolck/ Geschütz/ Fůhrleuth vnd Wägen ergehet/ erspart werden möge.
+  cs: |-
+    2. Zda má před sebou pevnosti, které by mohl oblehnout a dobýt; kolik času a děl je k tomu třeba, aby se prach a olovo {Kraut vnd Loth} nevystřílely nadarmo a aby se ušetřily nesmírné náklady, které jdou na jízdu, pěchotu, děla, vozky a vozy.
+- typ: odstavec
+  de: |-
+    3. Ob er selbsten mit redlichen/ frommen/ erfahrnen alten Obersten/ Haupt- vnd Befelchsleuthen/ Jnfanterey/ Artillerey/ Cavalerey/ Munition/ Zeug- Büchsen- vnd Wagenmeister/ Fewerspeutzern/ Jngenieurn/ Minierern/ vnd dergleichen/ genugsam verfasset seye.
+  cs: |-
+    3. Zda je sám dostatečně opatřen poctivými, řádnými a zkušenými starými plukovníky, hejtmany a důstojníky {Befelchsleuthen}, pěchotou, dělostřelectvem, jízdou, municí, zbrojmistry {Zeugmeister}, puškaři a vozmistry, ohňostrůjci {Fewerspeutzern}, inženýry, minéry a podobně.
+- typ: odstavec
+  de: |-
+    4. Wo er Paß/ Steg/ Weg/ vnd anders zu wegen bringen/ auch in des Feinds Land Proviant vnd Fütter für die Pferd finden möge.
+  cs: |-
+    4. Kde by si mohl zajistit průchody, lávky, cesty a jiné, a kde by mohl v nepřátelské zemi najít proviant a píci pro koně.
+- typ: odstavec
+  de: |-
+    5. Wie er bey menniglichem hilff/ beystand vnd guten raht finden/ vnd da sich der Feind mit eintwederem theil verbinden oder conföderieren/ vnd bey demselben hilff begeren wurde/ demselben mit zeitigem raht vorbiegen möge.
+  cs: |-
+    5. Jak by u kohokoli nalezl pomoc, podporu a dobrou radu; a kdyby se nepřítel s některou ze stran spojil nebo spolčil a žádal u ní pomoc, jak by tomu mohl včasnou radou předejít.
+- typ: odstavec
+  de: |-
+    6. Wie lang er sich im Feld auffzuhalten gedencke: wie vil vnkosten in der zeit auffgehe/ ob er auch genugsam mit Gelt versehen/ vnd da solches wider vermuhten länger währete/ vnd das Gelt auffgienge/ was für andere Mittel vorhanden weren: dann wo Gelt mangelt/ da endet sich das spiel/ vnd wird mancher dardurch zu einem schädlichen vnd gar spöttlichen friden getrungen.
+  cs: |-
+    6. Jak dlouho hodlá v poli setrvat; kolik nákladů za tu dobu padne; zda je také dostatečně opatřen penězi, a kdyby to proti očekávání trvalo déle a peníze došly, jaké jiné prostředky má po ruce. Neboť kde chybějí peníze, tam končí hra, a mnohý je tím donucen ke škodlivému a velmi potupnému míru.
+poznamky:
+- n: 1
+  text: 'Cizí slovesa vykládá Lavater ve „Výkladu cizích slov“: convojieren = doprovázet (begleiten), approchieren = přibližovat se (herzu näheren). Castrametieren (z lat. castrametatio) = vyměřovat a zřizovat polní ležení; batterieren = ostřelovat z baterií.'
+- n: 2
+  text: Erbvereinigung (Erbeinigung) – trvalá, „dědičná“ smlouva o míru a vzájemné pomoci mezi panovnickými rody nebo státy (např. Erbeinigung Habsburků se švýcarskou konfederací).

@@ -1,0 +1,35 @@
+id: '033'
+list: '33'
+strana: recto
+sken: 67
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Eyd.
+  cs: Přísaha.
+- typ: odstavec
+  de: |-
+    Des Commandanten Eyd wird gestellt je nach bewandtnuß der sachen beschaffenheit/ sonsten hat er auch seinen Eyd/ gleich den vbrigen Capitain.
+  cs: |-
+    Přísaha komandanta {Commandant} se stanoví podle povahy a okolností věci; jinak skládá stejnou přísahu jako ostatní hejtmani {Capitain}.
+- typ: nadpis
+  uroven: 2
+  de: Von dem Sergeant-Major/ seinem Ampt/ Eyd vnd Beruff.
+  cs: O seržantmajorovi, jeho úřadu, přísaze a povolání.
+- typ: odstavec
+  de: |-
+    Er ist der Oberste Wachtmeister einer Vestung oder Statt/ sonst meistentheils ein Capitain/ deme sollen alle Sergeanten von allen Compagnien fleissig abwarten. Er soll seyn fromm/ gottsförchtig/ redlich/ vnd im Kriegswesen wol erfahren. Sein Ampt ist abends vnd morgens/ selbst eigner Person/ oder durch seinen Vnder-Majorn/ die thor auff- vnd zuschliessen: die Wachten in der Vestung fleissig/ gleich vnd ordenlich abtheilen. Jtem/ auff den Gubernator oder Commandanten befelch warten: deßgleichen das Wort vnd Ordre (nach dem Nachtessen) von dem Gubernator alle Abends holen/ vnd es den Wachtmeistern/ solches den hohen Officierern zu bringen/ anzeigen: auch die posten der Wachten/ wo/ wann/ vnd wie vil darauff wachen sollen/ auff zedelein außtheilen: vnd alles (betreffend die Wacht) in gute richtigkeit bringen helffen. Des Nachts/ stracks nach besetzter doppelter Schiltwacht/ solle er alle mal des ersten die Ronde vmb die Vestung thun: die Schiltwachten besehen/ ob sie in rechter ordnung stehen/ fleissig vnd wachtbar seyen: ob die Wachthäuser mit genugsamer Wacht/ vnd ein jeglicher mit Kraut/ Loth/ Harnast/ Vber- vnd Seitenwehr verfasset seye. Er solle auch jhme die Corporalen/ so rings vmb den Wal wachen/ das Wort geben lassen/ damit er gespüren möge/ sie solches recht oder vnrecht haben/ vnd da er etwas mangels sehe/ solches zu verbesseren/ oder verschaffen gebesseret zu werden. Die schlüssel der Porten solle er niemand vertrawen/ vnd so die Porten zu- oder auffgeschlossen wird/ allzeit selbsten auffthun/ vnd biß widerumb in die Hauptwacht tragen/ vnd dem Capitain selbiger Wacht selbsten liferen. Was weiters sein Ampt/ wird der gutwillige Leser nachgehends an seinem ort finden.
+  cs: |-
+    Je nejvyšším vachmistrem {Oberste Wachtmeister} pevnosti nebo města, jinak většinou hejtmanem; všichni seržanti {Sergeanten} ze všech kompanií {Compagnien} mu mají být pilně k službám. Má být řádný, bohabojný, poctivý a ve válečnictví dobře zkušený. Jeho úřadem je večer a ráno osobně nebo skrze svého podmajora {Vnder-Majorn} zamykat a odmykat brány a stráže v pevnosti pečlivě, rovnoměrně a řádně rozdělovat. Dále má čekat na rozkazy guvernéra {Gubernator} nebo komandanta; rovněž si má každý večer (po večeři) vyzvednout u guvernéra heslo {Wort} a rozkaz {Ordre} a oznámit je vachmistrům {Wachtmeistern}, aby je donesli vyšším důstojníkům; také má na lístcích rozdělovat stanoviště {posten} stráží – kde, kdy a kolik mužů na nich má stát – a pomáhat uvést vše, co se týká stráže, do dobrého pořádku. V noci, hned jak jsou obsazeny zdvojené stálé stráže {Schiltwacht}, má vždy jako první vykonat obchůzku {Ronde} kolem pevnosti: prohlédnout stálé stráže, zda stojí v náležitém pořádku a jsou pozorné a bdělé, zda jsou strážnice {Wachthäuser} dostatečně obsazeny a zda je každý opatřen prachem {Kraut}, olovem {Loth}, zbrojí {Harnast}, hlavní i postranní zbraní {Vber- vnd Seitenwehr}. Má si také od desátníků {Corporalen}, kteří drží stráž kolem valu, nechat říci heslo, aby poznal, zda je mají správně, či nikoli; a uvidí-li nějaký nedostatek, má jej napravit nebo zařídit jeho nápravu. Klíče od bran nemá nikomu svěřovat; a když se brána zamyká nebo odemyká, má ji vždy sám otevřít, klíče pak sám odnést zpět do hlavní stráže {Hauptwacht} a osobně je odevzdat hejtmanovi této stráže. Co dále patří k jeho úřadu, najde laskavý čtenář později na příslušném místě.
+- typ: nadpis
+  uroven: 2
+  de: Von dem Zeugherren/ seinem Ampt/ Eyd vnd Beruff.
+  cs: O zbrojnímu pánovi, jeho úřadu, přísaze a povolání.
+- typ: odstavec
+  de: |-
+    Er soll seyn ein ehrliche/ fromme vnd geschickte Person/ die da gute wüssenschafft habe aller der jenigen dingen/ so in ein Zeughauß von nöhten/ vnd was darinnen vorhanden seyn solle. Ein Zeugherr muß anschlägig seyn mit bawen/ guten anschlägen wider stürmen/ auch selbsten sich auff die Munition/ Fewrwerck/ Artillerey/ Zimmer-Schlosserwerck verstehen/ vnd das gut vor dem bösen vnderscheiden können: dann jhme wird alles/ was an Munition/ Artillerey/ Fewrwerck vnd anderen mehr ins Zeughauß dienenden Sachen/ im vorraht ist/ in seinen gewalt vnd verwahrung gegeben. Wann nun er etwas mangels an Munition/ Artillerey/ Gewehr/ oder dergleichen funde/ solle er dasselbig dem obersten Gubernator/ oder seinem Leutenampt dem Commandanten/ vnd sonsten niemandem anzuzeigen bey seinem Eyd
+  cs: |-
+    Má to být čestná, řádná a schopná osoba, která se dobře vyzná ve všech věcech, jichž je ve zbrojnici {Zeughauß} zapotřebí a které v ní mají být. Zbrojní pán {Zeugherr} musí být důmyslný ve stavění a v dobrých návrzích proti útokům, sám se musí vyznat v munici, ohňostrojích {Fewrwerck}, dělostřelectvu {Artillerey}, tesařské a zámečnické práci a umět rozeznat dobré od špatného; neboť do jeho moci a opatrování se dává vše, co je v zásobě na munici, dělostřelectvu, ohňostrojích a dalších věcech, jež do zbrojnice patří. Najde-li nějaký nedostatek v munici, dělostřelectvu, zbraních či podobně, má to oznámit nejvyššímu guvernérovi nebo jeho zástupci {Leutenampt}, komandantovi, a nikomu jinému, k čemuž je svou přísahou
+poznamky: []

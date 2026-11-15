@@ -1,0 +1,31 @@
+id: '131'
+list: '131'
+strana: recto
+sken: 177
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    keiten versehen/ vnd darvor vnd eh nicht auffbrechen. Wann dann dises also beschehen/ so solle man die Lauffgräben/ Reducten/ Battereyen vnd Tranchen abbrechen vnd die Gräben zuwerffen lassen/ damit wann der Feind widerumb darfür ziehen wolte/ keinen behelff durch dieselben finden möge/ etc. vnd wird der auffbruch gemachet/ wie du vornen in disem Theil vom Feldzug vnd Läger gehört hast.
+  cs: |-
+    potřebami, a dříve se nemá vytáhnout. Když se to stane, mají se aproše {Lauffgräben}, reduty, baterie a zákopy {Tranchen} pobořit a příkopy nechat zasypat, aby v nich nepřítel nenašel žádnou oporu, kdyby chtěl znovu před [město] přitáhnout atd. A vytáhne se tak, jak jsi slyšel výše v tomto dílu o tažení a ležení.
+- typ: odstavec
+  de: |-
+    Das Geschütz zeucht mit seiner zugehör vornen her/ darbey auch die Schantzengräber jhre Stell haben/ vnd wird nicht zugelassen/ daß sich auch eintziger Wagen/ er seye gleich weß er wölle/ hierunder menge: zeucht aber gemeiniglich in nachfolgender Ordnung. Erstlich führet man ein Wagen mit Schaufflen/ Hauwen vnd anderem grabzeug geladen vornen her: darauff folget ein sonderlich Jnstrument/ damit das gleiß gezeichnet wird auff der straassen die man reysen soll: darnach folgen die kleine vnd leichte Stück auff jhren Lavyten: hernach die grossen Stück/ welche in gefahrszeiten auff blächwägen geführt: wann man sich aber des Feinds anlauff beförchtet/ alßdann muß man sie auff den Lavyten oder Schäfften führen. Nach dem Geschütz folgen die Wägen/ darauff der Zimmerleuth vnd Schmid Werckzeug geladen: darnach die Wägen mit dem Pulfer vnd Bley: nach disen die Lunden: auff welche folgen die so die Picken oder Spieß führen: vnd nach solchen folgen endlich die Wägen darauff die Kuglen geladen: Hierauff folgen des Generals vber die Arkeley eygne Wägen/ vnd die so seinen Officierern zugehörig: vnd nach demselben folgen all andere dem Geschütz zugehörige Munitionwägen: darnach die Proviantwägen vnd das Hospital/ darauff die krancken vnd verwundten nachgeführt werden: auff dise folgen die Wägen/ mit welchen der anfang der Bagage gemachet wird. Wann es aber die nohtdurfft erforderet/ daß man auß forcht eines anfalls etliche Stück ausserthalb diser Ordnung muß vornen an ziehen lassen/ alßdann schickt man auch so vil Wägen mit Pulfer/ Kuglen/ vnd aller anderen nohtwendigen Munition damit/ so vil man darzu bedörffen möchte. Wann das Feld so weit vnd eben/ vnd kein Feind vorhanden ist/ daß man von einem hauffen zum anderen in guter Schlachtordnung ziehen kan/ so zeucht ein jeder hauff mit besserer gelegenheit allein vnd für sich selbsten/ doch also/ daß sie sich leichtlich/ da es die nohtdurfft erforderte/ können zusammen stossen. Das Fůhrwerck soll in 8. oder 10. Glider fahren/ auff daß es näher zusammen gehe/ vnd mit weniger verhinderung fort komme.
+  cs: |-
+    Dělostřelectvo {Geschütz} táhne se svým příslušenstvím vpředu a své místo při něm mají i šancíři {Schantzengräber}; nedovolí se, aby se mezi ně vmísil jediný vůz, ať patří komukoli. Táhne však obvykle v tomto pořadí: Nejprve se vpředu veze vůz naložený lopatami, motykami a jiným kopáčským nářadím. Za ním následuje zvláštní nástroj, jímž se na cestě, po níž se má jet, vyznačuje kolej. Potom následují malá a lehká děla na svých lafetách {Lavyten}, po nich velká děla, která se v dobách nebezpečí[^1] vezou na blokových vozech {blächwägen}; obává-li se však člověk nepřátelského útoku, musí je vézt na lafetách neboli ložích {Schäfften}. Za děly následují vozy, na nichž je naloženo tesařské a kovářské nářadí, potom vozy s prachem a olovem, za nimi doutnáky, po nich [vozy], které vezou píky {Picken oder Spieß}, a za nimi konečně vozy naložené koulemi. Potom následují vlastní vozy generála dělostřelectva {Arkeley} a vozy jeho důstojníků a za nimi všechny ostatní muniční vozy patřící k dělostřelectvu, potom vozy s proviantem a špitál, v němž se vezou nemocní a ranění. Za nimi následují vozy, jimiž začínají zavazadla {Bagage}. Vyžaduje-li však nutnost, aby se z obavy před útokem nechala některá děla mimo toto pořadí jet vpředu, pošle se s nimi také tolik vozů s prachem, koulemi a veškerou jinou potřebnou municí, kolik by k tomu mohlo být třeba. Je-li pole tak široké a rovné a není-li nablízku nepřítel, takže lze táhnout houf vedle houfu v dobrém šiku, táhne každý houf pohodlněji sám o sobě, ovšem tak, aby se v případě potřeby mohly snadno spojit. Povozy {Fůhrwerck} mají jet v 8 nebo 10 řadách {Glider}, aby jely těsněji u sebe a postupovaly s menšími překážkami.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wie man in engem Feld marschieren solle.
+  cs: Jak se má pochodovat v úzkém terénu.
+- typ: odstavec
+  de: |-
+    Wie man also marschieren solle/ wirst du da vornen allbereit bericht empfangen haben: doch so mercke noch allhie/ wann man Creutzweg/ so auß Wälden/ Thälern oder Gründen gehen/ antrifft/ vnd man beförchten muß/
+  cs: |-
+    Jak se má takto pochodovat, o tom jsi už dostal zprávu výše; přesto si zde ještě povšimni: narazí-li se na křižovatky cest, které vycházejí z lesů, údolí nebo roklí, a je-li třeba se obávat,
+poznamky:
+- n: 1
+  text: 'Tisk má „in gefahrszeiten“ (v dobách nebezpečí), což odporuje následující větě; smysl by spíš vyžadoval „v dobách bez nebezpečí“. Blokové vozy (Blockwagen) sloužily k převozu těžkých hlavní sejmutých z lafet.'

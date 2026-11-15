@@ -1,0 +1,68 @@
+id: '001'
+list: '1'
+strana: recto
+sken: 35
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: 'Erster Theil Des Kriegsbüchleins: Von einer Vestung.'
+  cs: 'První díl Válečné knížky: O pevnosti.'
+- typ: nadpis
+  uroven: 2
+  de: Was der namm einer Vestung seye.
+  cs: Odkud má pevnost své jméno.
+- typ: odstavec
+  de: |-
+    EJn Vestung hat den nammen von dem wort Vestnen: dieweiln ein Ort/ durch die vmbwalung/ oder vmbschantzung vest gemachet wirdt.
+  cs: |-
+    Pevnost {Vestung} má jméno od slova „vestnen“ [upevnit], protože se místo obehnáním valem neboli šancemi učiní pevným.[^1]
+- typ: nadpis
+  uroven: 2
+  de: Was ein Vestung seye.
+  cs: Co je pevnost.
+- typ: odstavec
+  de: |-
+    Sie ist ein Platz/ so mit Mauren/ Gräben/ Thürnen/ Wälen/ Bollwercken vnd dergleichen beschlossen wird/ darinn man sich mit wenig Volck gegen vilen beschirmen mag.
+  cs: |-
+    Je to místo uzavřené hradbami, příkopy {Gräben}, věžemi, valy {Wälen}, baštami {Bollwercken} a podobně, v němž se lze s malým počtem lidí ubránit proti mnohým.
+- typ: nadpis
+  uroven: 2
+  de: Wird abgetheilt in Regular vnd Jrregular.
+  cs: Dělí se na pravidelné a nepravidelné.
+- typ: odstavec
+  de: |-
+    Regular/ ist ein figur von gleichen seiten vnd wincklen. Jrregular/ ist ein figur von vngleichen seiten vnd wincklen.
+  cs: |-
+    Pravidelná {Regular} je obrazec o stejných stranách a úhlech. Nepravidelná {Jrregular} je obrazec o nestejných stranách a úhlech.
+- typ: odstavec
+  de: |-
+    Freytag der Jngenieur theilt sie ab in groß/ mittel/ vnd klein Real. Ein groß Real heißt er die/ deren beständige Streychlinien von 60. ruhten (jede zu 12. Rheinländischen schuhen gerechnet) gemachet werden. Ein mittel-Real aber/ da die weite zwüschen zweyen Bollwerckspitzen mehr alß 60 ruhten seind. Ein klein Real/ will er/ daß gedachte weite zwüschen zweyen Bollwerckspitzen beständig 60. ruhten seyen. Die aber darunder/ werden vnder die Feldschantzen gezellt.
+  cs: |-
+    Inženýr Freytag[^2] je dělí na velkou, střední a malou královskou {Real}.[^3] Velkou královskou nazývá tu, jejíž obranné linie {Streychlinien} se stále dělají po 60 prutech {ruhten} (prut počítán po 12 rýnských stopách {schuhen}). Střední královská je ta, kde vzdálenost mezi špicemi dvou bašt činí více než 60 prutů. U malé královské chce, aby zmíněná vzdálenost mezi špicemi dvou bašt činila stále 60 prutů. Menší [pevnosti] se počítají mezi polní šance {Feldschantzen}.
+- typ: nadpis
+  uroven: 2
+  de: Vom Wal/ vnd wie er auffgeführt wirdt.
+  cs: O valu a jak se staví.
+- typ: odstavec
+  de: |-
+    Der Wal ist ein schütte von Erden/ so auß dem Graben genommen/ vnd vmb ein Platz geschüttet wird/ vnd sie sammt seiner Courtine, Flancken oder Streychwehren/ vnd Gesichtlinien eynschliesset.
+  cs: |-
+    Val {Wal} je násyp zeminy vybrané z příkopu a nasypané kolem místa, který je obepíná spolu se svou kurtinou {Courtine}, flankami {Flancken} neboli bočními obranami {Streychwehren} a čely bašt {Gesichtlinien}.
+- typ: odstavec
+  de: |-
+    Man soll die inner- vnd ausser anlegung des Wals zugleich mit einanderen auffführen/ vnd die Erden jhrer natur nach/ vermischt verbleiben lassen. Zum ersten wird die Erden mit kärren durch die Pferd/ vnd darnach/ wann man nicht weiter fort kommen mag/ mit stoßkärrlein hinauß gesührt: vnd da der Wal eines fusses hoch gestigen/ legt man lange dünne Weiden/ Reyß/ weiß Hagendorn/ Erlein-Reck- oder Wachholderstauden/ doch nicht zu nahe an einander/ damit sie sich nicht anstecken/ ohngefahr 6. oder mehr schuh in den Wal hineyn. Man soll den Wal mit schweren bätzen oder stößlen/ wie bey vns die Gassenbsetzer oder Strassenpflasterer brauchen/ steiff vnd vest auff
+  cs: |-
+    Vnitřní i vnější stranu valu je třeba stavět současně a zeminu ponechat promíšenou, jak ji dala příroda. Zprvu se zemina vyváží nahoru na károch tažených koňmi, a když už se s nimi dál nedostane, na trakařích. Jakmile val vyroste o stopu, kladou se do něj asi 6 i více stop hluboko dlouhé tenké vrbové pruty, chrastí, bílý hloh, olšové nebo jalovcové keře,[^4] ne však příliš blízko u sebe, aby se navzájem nenakazily.[^5] Val se má těžkými pěchy nebo dusadly, jaké u nás užívají dlaždiči ulic a silnic, pevně a tuze
+poznamky:
+- n: 1
+  text: Slovní hříčka originálu (Vestung – vest „pevný“ – vestnen „upevnit“) má v češtině obdobu pevnost – pevný.
+- n: 2
+  text: Adam Freitag (1608–1650), autor vlivné příručky nizozemského opevňování Architectura militaris nova et aucta (Leiden 1631, něm. 1635).
+- n: 3
+  text: Real (z franc. royal) – Freitagovo označení velikostních tříd pravidelné pevnosti („velká, střední a malá královská“) podle délky obranné linie, která odpovídá účinnému dostřelu muškety. Lavaterovo vymezení velké a střední třídy je nejasné (sr. zprávu ke kontrole).
+- n: 4
+  text: V originále „Erlein-Reck- oder Wachholderstauden“; Reckholder je švýcarské jméno jalovce, Reck- i Wachholder tedy znamenají totéž (sr. str. 2).
+- n: 5
+  text: „damit sie sich nicht anstecken“ – patrně aby od sebe nechytaly hnilobu; proutí se do valu kladlo živé, aby zakořenilo a zeminu zpevnilo.

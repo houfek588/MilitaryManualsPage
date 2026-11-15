@@ -1,0 +1,75 @@
+id: '081'
+list: '81'
+strana: recto
+sken: 127
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: 'Dritter Theil/ Des Kriegsbüchleins: Von Anleitung vnd übung allerhand Wehr vnd Waaffen/ deßgleichen von etlichen Orationen/ so die Quartier-Hauptleuth/ nach gethaner Musterung auff der Landschafft halten. Jtem/ von Zugvnd Schlacht-Ordnungen zu Ross vnd fuß/ etc.'
+  cs: 'Třetí díl Válečné knížky: O návodu a cvičení se všelijakými zbraněmi, dále o několika řečech, které obvodní hejtmani {Quartier-Hauptleuth}[^1] pronášejí po vykonané přehlídce {Musterung} na venkově. Rovněž o pochodových a bitevních šicích {Schlacht-Ordnungen} jízdy i pěchoty atd.'
+- typ: nadpis
+  uroven: 2
+  de: Vnd erstlichen Das Exercitium mit der Musqueten vnd Gablen zugleich.
+  cs: A nejprve cvičení s mušketou a vidlicí zároveň
+- typ: nadpis
+  uroven: 3
+  de: Wie man die Wörter desselben Befelchs vnd Commandaments gebrauchen solle.
+  cs: Jak se mají užívat slova tohoto rozkazu a velení
+- typ: seznam
+  de:
+  - '1. YEmmet ewer Musqueten auff die Achsel/ die Gablen vnd'
+  - '2. Lunden zusammen in die lincke hand:'
+  - '3. Fasset mit der rechten hand die Musqueten hinder der Zündpfannen.'
+  - '4. Nemmet die Musqueten von der Achsel/ vnd halten sie in die höhe wol vom Leib.'
+  - '5. Faßt mit der lincken hand die Gabel.'
+  - '6. Legt die Musqueten in die lincke hand zwüschen den Daumen vnd Gablen.'
+  - '7. Mit dem Daumen vnd Zeigerfinger nembt den Lunden ab.'
+  - '8. Blaset den Lunden hinder der Pfannen ab.'
+  - '9. Trucket den Lunden in den Hanen/ oder straubt den Lunden auff.'
+  - '10. Probiert/ oder mäßt den Lunden auff die Pfannen.'
+  - '11. Mit zween fingeren deckt die Pfannen/ blaset den Lunden ab/ vnd öffnet mit zween fingeren ewer Pfannen.'
+  - '12. Mit dem lincken füß fürsich trett/ vnd leget die Musqueten in die Gablen.'
+  - '13. Schlaget an/ vnd gebt fewr auff des Manns Gürtel.'
+  - '14. Nemmet die Musqueten vnd Gablen zusammen in die lincke hand/ nemmet den Londen ab/ trettet ab.'
+  - '15. Steckt den Lunden zwüschen beyde kleinsten vnd mittleren finger.'
+  - '16. Thut Pulfer auff die Pfannen.'
+  - '17. Beschliesset die Pfannen.'
+  - '18. Blaset ab.'
+  - '19. Leget die Musqueten auff die Schulteren.'
+  - '20. Fasset mit der rechten hand die Musqueten.'
+  - '21. Nemmet die Musqueten von der Achßlen/ vnd haltet sie in die höhe vom Leib.'
+  - '22. Leget die Musqueten in die Gablen in die lincke hand/ vnd öffnet mit zween fingeren die Pfannen.'
+  - '23. Thut Pulfer in die Pfannen.'
+  - '24. Beschliesset die Pfannen/ blaset vnd schüttet das Pulfer ab.'
+  cs:
+  - '1. Vezměte mušketu {Musqueten} na rameno, vidlici {Gablen} a[^2]'
+  - '2. doutnák {Lunden} spolu do levé ruky.'
+  - '3. Uchopte pravou rukou mušketu za zápalovou pánvičkou {Zündpfannen}.'
+  - '4. Sejměte mušketu z ramene a držte ji vzhůru, dobře od těla.'
+  - '5. Uchopte levou rukou vidlici.'
+  - '6. Vložte mušketu do levé ruky mezi palec a vidlici.'
+  - '7. Palcem a ukazovákem vezměte doutnák.'
+  - '8. Za pánvičkou ofoukněte doutnák.'
+  - '9. Vtiskněte doutnák do kohoutu {Hanen} neboli ho upevněte.'
+  - '10. Vyzkoušejte neboli odměřte doutnák na pánvičku.'
+  - '11. Dvěma prsty zakryjte pánvičku, ofoukněte doutnák a dvěma prsty otevřete pánvičku.'
+  - '12. Levou nohou vykročte vpřed a položte mušketu do vidlice.'
+  - '13. Zaličte a palte na opasek muže.'
+  - '14. Vezměte mušketu a vidlici spolu do levé ruky, sejměte doutnák, odstupte.'
+  - '15. Vsuňte doutnák mezi oba nejmenší a prostřední prst.'
+  - '16. Nasypte prach na pánvičku.'
+  - '17. Zavřete pánvičku.'
+  - '18. Ofoukněte.'
+  - '19. Položte mušketu na rameno.'
+  - '20. Uchopte pravou rukou mušketu.'
+  - '21. Sejměte mušketu z ramene a držte ji vzhůru od těla.'
+  - '22. Vložte mušketu do vidlice v levé ruce a dvěma prsty otevřete pánvičku.'
+  - '23. Nasypte prach na pánvičku.'
+  - '24. Zavřete pánvičku, ofoukněte a setřeste [přebytečný] prach.'
+poznamky:
+- n: 1
+  text: Quartier-Hauptmann – v Curyšsku velitel zemské hotovosti jednoho vojenského okrsku (Quartier), který na venkově pořádal přehlídky mužstva.
+- n: 2
+  text: Čísla 1 a 2 stojí v tisku na okraji prvních dvou řádků vedle zdobné iniciály; obsahově jde patrně o povely „Vezměte mušketu na rameno“ a „Vidlici a doutnák spolu do levé ruky“. Překlad zachovává členění tisku.

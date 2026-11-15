@@ -1,0 +1,37 @@
+id: '076'
+list: '76'
+strana: verso
+sken: 110
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Model legt/ vnd das Bley darüber gießt. Man formiert auch zu den grossen Kuglen Model/ welche man mit Leinöl wol anschmieret/ vnd alßdann wolgebeerten Hafnerleim dareyn schlaget: man nimmt darnach die Kuglen widerumb darauß/ backet sie hart in einem Ziegelofen/ vnd da man sie herauß thut/ ersäufft man sie im Leinöl/ laßt sie kalt werden. Dise Kuglen seind auch in allweg (aussert einer Bresche) gut zu brauchen.
+  cs: |-
+    vloží do formy a zalijí olovem. I pro velké koule se zhotovují formy, které se dobře vymažou lněným olejem, a pak se do nich natluče dobře prohnětená hrnčířská hlína; koule se potom zase vyjmou, vypálí se dotvrda v cihlářské peci, a když se vyndají, ponoří se do lněného oleje a nechají se vychladnout. Tyto koule se dají také dobře použít ke všemu (kromě prostřelování průlomu {Bresche}).
+- typ: nadpis
+  uroven: 2
+  de: Wie man Contra-Battereyen anrichten solle.
+  cs: Jak zřizovat kontrabaterie
+- typ: odstavec
+  de: |-
+    Man soll insonderheit gute achtung geben/ gegen welchem Bollwerck sich der Feind mit approchieren wenden thue/ vnd wo er seine Battereyen auffwerffe/ alßdann dargegen Battereyen anrichten/ vnd des Feinds niderschiessen. Die Battereyen werden gemachet wie du im ersten Theil dises Büchleins gelehret bist: dann wo kein Offension/ da hat man sich nicht zu defendieren. Die Stück sollen aber auffs best bewahret vnd dem Feind aussert dem gesicht verborgen ligen. Die Constabler sollen jhre Handlangers vnd Matrosen bey jhnen tag vnd nacht haben/ die bey den Stucken auff der Batterey gute Schiltwacht halten: Es solle auch/ da man auff des Feinds Batterey das Zündpulfer anstecket/ jederman fallen/ vnd auff den bauch ligen: dann auff dise form/ eh das Pulfer im Rohr angehet/ man dem schuß der Stucken entgehen mag/ vnd beschicht offt vilerley betrugs/ da man nur ein falsch Laufffewr machet/ solches anstecket/ vnd gestracks/ nach dem solches verbronnen/ das Stuck loß brennet/ dardurch man betrogen wird/ darumb solle man fleissig achtung darauff geben. Es sollen auch die Stückmeister jhr Pulfer/ Kuglen/ Lunden/ Wüscher/ Ladschaufflen/ Setzkolben/ Räder zu den Stucken/ Wollsäck/ Schützen- vnd Schantzkörb/ Quadrant/ Circkel/ Hebeysen/ Trämmel/ Schlegel/ Winden/ Böck/ Bleywaagen/ vnd andere nohtwendige sachen vberflüssig bey der hand haben/ damit sie im nohtfahl nicht gehinderet werden: insonderheit allerley gestrew/ hagel/ ketten vnd kleine kiselstein/ vnd sollen die Constabler bey Leibsstraaff die Stück niemand vertrawen/ sonder darbey verbleiben/ vnd das Pulfer wol verwahren/ vnd etliche vilsäcklein mit Carthusch beyhanden haben/ vnd fleissig sehen daß sie die Constabler oder Stuck/ vnd Batterey des Feinds zu grund richten mögen.
+  cs: |-
+    Má se zvláště dobře dávat pozor, ke které baště {Bollwerck} se nepřítel se svými aprošemi {approchieren} obrací a kde staví své baterie {Battereyen}, a pak proti nim zřídit baterie a nepřátelské [baterie] rozstřílet. Baterie se dělají tak, jak ses naučil v prvním díle této knížky; neboť kde není útoku {Offension}, tam se není třeba bránit. Děla {Stück} však mají být co nejlépe chráněna a ukryta nepříteli z dohledu. Konstáblové {Constabler} mají mít své přidavače {Handlangers} a matrosy {Matrosen}[^1] u sebe dnem i nocí, aby u děl na baterii drželi dobrou stálou stráž {Schiltwacht}. Když se na nepřátelské baterii zapálí zápalný prach {Zündpulfer}, má se také každý vrhnout k zemi a lehnout si na břicho; tak lze totiž výstřelu z děl uniknout dřív, než chytne prach v hlavni. Často se však děje všelijaký klam: [nepřítel] udělá jen falešnou zápalnou stopu {Laufffewr}, zapálí ji, a hned jak dohoří, dělo odpálí, čímž je člověk oklamán; proto je třeba na to bedlivě dávat pozor. Dělmistři {Stückmeister} mají mít také svůj prach, koule, doutnáky {Lunden}, vytěráky, nabíjecí lžíce, pěchovadla {Setzkolben}, kola k dělům, pytle s vlnou, střelecké a šancovní koše, kvadrant, kružidlo, sochory, dřevěné páky {Trämmel}, palice, zvedáky {Winden}, kozy {Böck}, olovnice {Bleywaagen} a jiné potřebné věci hojně po ruce, aby jim v nouzi nic nepřekáželo; zvláště všelijakou drobnou střelu {gestrew}, kartáče {hagel}, řetězy a malé křemínky. A konstáblové nemají pod tělesným trestem nikomu svěřovat děla, nýbrž mají u nich zůstat, dobře opatrovat prach, mít po ruce hojně pytlíků s kartušemi {Carthusch}[^2] a pilně hledět, aby zničili nepřátelské konstábly či děla i baterii.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wann der Feind grosse Granaten vnd andere Fewrwerck in die Vestung wirfft/ wie solches zu löschen seye.
+  cs: Když nepřítel vrhá do pevnosti velké granáty a jiné ohňostroje, jak je hasit
+- typ: odstavec
+  de: |-
+    So soll man vor allen dingen mit einem grossen vorraht äschen/ Sand/ Erden/ Mist/ vngegerbten Vieh-häuten/ oder die angefeucht vnd naß seind: Jtem/ mit Gelten/ Küblen/ Eymeren vnd Binenkörben/ so mit Läder vberzogen/ vnd allzeit angefeucht seind/ versehen seyn/ vnd an vnderschiedenliche häuffen auff alle straassen zum vorraht legen: auch besondere Leuth darzu ordnen/ so das Fewrwerck gestracks mit den Vieh-häuten decken/ darauff Erden/ Sand/ Mist vnd nasse äschen werffen/ auch solches erstecken. Man
+  cs: |-
+    Tu se má především opatřit velká zásoba popela, písku, hlíny, hnoje, nevydělaných dobytčích kůží, anebo [kůží] navlhčených a mokrých; dále škopků, kbelíků, věder a včelích košů potažených kůží a stále navlhčovaných; to vše se má rozložit do zásoby na různé hromady po všech ulicích. Mají se k tomu také ustanovit zvláštní lidé, kteří ohňostroj {Fewrwerck} ihned přikryjí dobytčími kůžemi, naházejí na něj hlínu, písek, hnůj a mokrý popel a tak jej udusí. Má se
+poznamky:
+- n: 1
+  text: Matrosen – v 17. století též pomocníci u dělostřelectva (Artillerie-Matrosen), kteří obsluhovali a přemisťovali děla; nejde o námořníky.
+- n: 2
+  text: Carthusch (Kartusche) – sáček s odměřenou náloží prachu, popř. s drobnou střelou (kartáčem), připravený k rychlému nabíjení děla.

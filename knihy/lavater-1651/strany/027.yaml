@@ -1,0 +1,53 @@
+id: '027'
+list: '27'
+strana: recto
+sken: 61
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Schüppen/ Spatten/ Hacken/ Bickel/ Hauwen/ Axen/ Schaufflen. Jtem/ Böck/ Hebeysen/ Geißfüß/ Winden/ Fläschenzüg/ Wasser-wannen/ Wasser-corallen/ Wasser-schaufflen/ Wasser-räder. Jtem/ Hämmer/ Zangen/ Schlegel/ Schröteysen/ Sägen/ Beyel/ Axten/ Reuthauwen/ Sturmpfäl/ Palissaden: auch allerley Bawholtz/ grosse Trämer vnd Balcken/ Brätter/ Latten/ Leiteren/ Sprossen/ Zeltstangen zu den Zeltbäumen: deßgleichen Wägen/ darauff Schiff ligen/ sampt allerley bereitschafft. Jtem/ allerley Zimmerleuthen vnd Steinmetzen Werckzeug. Jtem/ allerley verbichte Fässer/ Schiff mit Růderen vnd Riemen/ Bimbse Brucken/ Sturmbrucken/ klein vnd grosse Schantzkörb/ Schützenkörblein/ Gelten/ Züber/ Kollen/ Armbrust/ Pfeil/ vnd dergleichen nohtwendige Sachen/ so zu erzellen vil zu weitläuffig weren.
+  cs: |-
+    lopaty, rýče, motyky, krumpáče, kopáče, sekery a lopatky. Dále kozy {Böck}, sochory, páky zvané kozí nohy {Geißfüß}, zvedáky, kladkostroje, vodní vany, vodní „korále“ {Wasser-corallen}[^1], vodní lopatky a vodní kola. Dále kladiva, kleště, palice, sekáče, pily, sekyrky, sekery, klučnice, útočné kůly {Sturmpfäl}, palisády {Palissaden}; také všelijaké stavební dříví, velké trámy a břevna, prkna, latě, žebříky, příčle, stanové tyče ke stanovým sloupům; rovněž vozy, na nichž leží lodice, se vším příslušenstvím. Dále všelijaké nářadí tesařů a kameníků. Dále všelijaké smolou vytřené sudy, lodice s kormidly a vesly, „bimbské“ mosty {Bimbse Brucken}[^2], útočné mosty {Sturmbrucken}, malé i velké šancovní koše {Schantzkörb}, střelecké košíky {Schützenkörblein}[^3], džbery, kádě, „koly“ {Kollen}[^4], kuše, šípy a podobné potřebné věci, jejichž vyjmenování by bylo příliš zdlouhavé.
+- typ: nadpis
+  uroven: 2
+  de: Wie man die Munition verwahren solle.
+  cs: Jak se má munice uschovávat.
+- typ: odstavec
+  de: |-
+    Sie solle auff wol verwahrte Thürn/ vnd in besonderbare Häuser/ die zum wenigsten oben ein gut gewölb haben/ verwahret werden: doch sollen die örter nicht feucht oder naß/ sondern trocken seyn/ vnd guten durchlufft haben: auch nicht an einem/ sonder an vnderschiedenliche ort gelegt werden/ damit wo vnglück were/ nicht alles auff ein mal zu grund gehe: auch zu nechst dem Wal/ da man sie im fahl der noht an der hand haben möge.
+  cs: |-
+    Má se uschovávat v dobře zabezpečených věžích a ve zvláštních budovách, které mají alespoň nahoře pevnou klenbu. Tato místa však nemají být vlhká ani mokrá, nýbrž suchá a dobře větraná. Munice se také nemá ukládat na jediném, nýbrž na různých místech, aby se při neštěstí nezničilo všechno najednou; a [má ležet] co nejblíže u valu {Wal}, aby ji bylo možno v případě nouze mít po ruce.
+- typ: nadpis
+  uroven: 2
+  de: Wie man die Munition außtheilen solle.
+  cs: Jak se má munice vydávat.
+- typ: odstavec
+  de: |-
+    Der Zeugherr gibt Monatlich auff einen Soldaten ein pfundt Bley/ vnd ein pfundt Pulfer/ an Kuglen vngefahr 18. das machet auff ein Compagnie von 200. Mann/ zween centner Pulfer vnd zween centner Bley. Wann es nun zeit solche außzutheilen/ wird solches erstlich dem Gubernator angezeigt: Diser gibt alßdann dem Obersten Wachtmeister oder Sergeant Majorn/ bey ertheilung der losung vnd ordre/ befelch/ solches den Capitains anzuzeigen: dieselbigen befehlen es alßdann jhren Capitain des Armes oder Rüstmeisteren/ deren jeder dann mit zween Soldaten für seines Hauptmans Compagnie dieselbig abholet/ vnd solche alßdann ordenlich den Corporalen/ die Corporalen aber jhren Rottgesellen gleich vnd ordenlich außtheilen sollen. Nach empfahung derselbigen geben die Capitain dem Zeugherren Zedel/ daß sie solche empfangen/ damit er sich darnach verrichten vnd ehrbare rechnung halten möge.
+  cs: |-
+    Zbrojní pán {Zeugherr} vydává měsíčně na jednoho vojáka jednu libru {pfundt} olova a jednu libru prachu, což dělá asi 18 kulí; na kompanii {Compagnie} o 200 mužích to činí dva centy {centner} prachu a dva centy olova. Když nastane čas munici vydat, oznámí se to nejprve guvernérovi {Gubernator}. Ten pak při vydávání hesla {losung} a rozkazů {ordre} přikáže nejvyššímu vachmistrovi {Obersten Wachtmeister} neboli seržantmajorovi {Sergeant Majorn}, aby to oznámil hejtmanům {Capitains}. Ti to pak nařídí svým správcům zbraní {Capitain des Armes} neboli zbrojním mistrům {Rüstmeisteren}; každý z nich ji se dvěma vojáky vyzvedne pro kompanii svého hejtmana {Hauptmans} a pak ji řádně rozdělí desátníkům {Corporalen} a desátníci ji mají rovným dílem a řádně rozdělit svým rotním druhům {Rottgesellen}. Po převzetí dávají hejtmani zbrojnímu pánovi lístek {Zedel}, že munici převzali, aby se jím mohl řídit a vést poctivé účty.
+- typ: nadpis
+  uroven: 2
+  de: Wie man dem verdorbenen Pulfer helffen solle.
+  cs: Jak napravit zkažený prach.
+- typ: odstavec
+  de: |-
+    Man thut das Pulfer in einen grossen Kessel/ vnd schüttet frisch vnd sauber Wasser daran/ laßt es wol erwarmen: darnach thut man das Wasser darvon/ vnd wäschet den Schwäbel/ den man darinn zu vnderst am boden findet/ fein sauber: alßdann verlasset man den Schwebel widerumb in einem Hafen zusammen: das erste Wasser sieget man durch ein thuch/ so
+  cs: |-
+    Prach se dá do velkého kotle, naleje se na něj čerstvá čistá voda a nechá se dobře prohřát. Potom se voda slije a síra {Schwäbel}, kterou najdeme vespod na dně, se pěkně načisto vypere; pak se síra v hrnci opět roztaví dohromady. První vodu přecedíme přes plátno; tak
+poznamky:
+- n: 1
+  text: |-
+    Wasser-corallen – nejasný výraz; snad řetězová čerpadla („páternoster“), jejichž kotouče na řetězu připomínají korálky růžence.
+- n: 2
+  text: |-
+    Bimbse Brucken – nejasný výraz; snad lehké mosty z rákosových otepí (Binsen) k přechodu příkopů a bažin.
+- n: 3
+  text: |-
+    Schützenkörblein – malé koše plněné zeminou, kladené na předprseň jako kryt pro střelce.
+- n: 4
+  text: |-
+    Kollen – nejasný výraz; podle sousedních slov (Gelten, Züber) snad nějaký druh nádoby.

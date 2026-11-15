@@ -1,0 +1,58 @@
+id: '009'
+list: '9'
+strana: recto
+sken: 43
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    auff den boden hinab reichet/ so mit einer eysern ketten vest angemachet wird/ damit man auff die Schutzporten steigen könne/ (wie die II. zahl anzeiget.) Es solle auch ein Truchen voller Bächring vnd Handgranaten im vorraht vorhanden seyn/ damit man sich darmit desto besser beschützen vnd den Feind abtreiben möge.
+  cs: |-
+    dolů na zem a je pevně připevněn železným řetězem, aby se dalo vystoupit na ochrannou bránu {Schutzporten} (jak ukazuje číslo II). Také má být v zásobě truhla plná smolných věnců {Bächring}[^1] a ručních granátů {Handgranaten}, aby se jimi bylo možno tím lépe bránit a nepřítele odrazit.
+- typ: nadpis
+  uroven: 2
+  de: Von den kleinen Außlaß- oder Postpörtlein.
+  cs: O malých výpustních neboli výpadních brankách.
+- typ: odstavec
+  de: |-
+    Man machet sie in der mitte des Thors oder Porten/ damit des nachts/ wo Volck auß- oder hineyn wolte/ nicht alles mit einander zumal hinauß gelassen/ vnd die gantze Porten (dardurch etwan vngemach entstehen möchte) eröffnet werden müsse.
+  cs: |-
+    Výpustní {Außlaß-} neboli výpadní branky {Postpörtlein} se dělají uprostřed vrat neboli brány, aby se v noci, když chtějí lidé ven nebo dovnitř, nemuseli vypouštět všichni najednou a nemusela se otvírat celá brána (z čehož by mohla vzejít nějaká škoda).
+- typ: nadpis
+  uroven: 2
+  de: Wie hoch vnd breit die Postpörtlein seyn müssen.
+  cs: Jak vysoké a široké mají být výpadní branky.
+- typ: odstavec
+  de: |-
+    Sie sollen 4. schuh hoch vnd 3. breit seyn: die dicke ist der dicke des grossen Thors gleich: Sie sollen mit starcken eysenen banden/ schlossen vnd riglen wol verwahret seyn: vnder gemeldten Außlaß- oder Postpörtlein wird ein schuh hoch gelassen/ vnd also dieselbigen in dem grossen Thor ein schuh erhaben.
+  cs: |-
+    Mají být 4 stopy vysoké a 3 široké; tloušťkou se rovnají velkým vratům. Mají být dobře zajištěny silnými železnými pásy, zámky a závorami. Pod zmíněnými výpustními neboli výpadními brankami se nechává [práh] stopu vysoký, takže jsou ve velkých vratech o stopu vyvýšeny.
+- typ: nadpis
+  uroven: 2
+  de: Von der Batterie.
+  cs: O baterii.
+- typ: nadpis
+  uroven: 3
+  de: Wie lang vnd breit die Batterie seyn solle.
+  cs: Jak dlouhá a široká má být baterie.
+- typ: odstavec
+  de: |-
+    Ein Stuck ist 15. 16. oder 18. schuh lang/ verstehe mit dem Schafft vnd Rohr/ so muß es hiemit erstlich ein platz haben daß es stehen möge: darnach gibt man jeglichem 12. schuh zu/ damit das Stuck desto besser hindersich lauffen möge. Wann du nun die länge von 18. schuhen/ welche das Stuck zu seinem stand hat/ zu den 12. schuhen des platzes des zu ruck lauffens rechnest/ so hast du die Batterie 30 schuh/ vnd gibt man darzu 5. schuh/ vnd wird die breite 35 der stand aber des bodens hinden 1. schuh höher alß vornen. Darnach weil ein Stuck meistentheils in der axt 7. schuh ist/ vnd man je zwüschen zweyen grossen Stucken einen platz von 5. oder 6. schuhen lasset/ alß werden zu einem Stuck zu der breite der axt 12. schuh gegeben: denen Stucken aber so zu beyden enden oder seiten stehen/ gibt man etwan 4. 5. oder 6. schuh darzu/ damit man platz habe solche füglich zu laden/ vnd an sein ort zu rucken/ etc.
+  cs: |-
+    Dělo {Stuck} je dlouhé 15, 16 nebo 18 stop, rozuměj i s lafetou {Schafft} a hlavní {Rohr}; nejprve tedy musí mít místo, kde by stálo. Potom se každému přidá 12 stop, aby mohlo tím lépe couvat [při zákluzu]. Připočteš-li tedy k 18 stopám délky, které dělo potřebuje ke svému stání, 12 stop místa pro zákluz, máš baterii {Batterie} [hlubokou] 30 stop; přidá se k tomu ještě 5 stop, a tak bude šířka 35 [stop];[^2] podlaha stanoviště má však být vzadu o stopu výš než vpředu. Dále: protože dělo mívá na nápravě {axt} většinou 7 stop a mezi každými dvěma velkými děly se nechává místo 5 nebo 6 stop, počítá se na jedno dělo s nápravou 12 stop šířky. Dělům, která stojí na obou koncích neboli stranách, se přidává ještě asi 4, 5 nebo 6 stop, aby bylo místo je pohodlně nabíjet a posouvat na jejich místo atd.
+- typ: nadpis
+  uroven: 3
+  de: Von der Brustwehr der Batterie/ wie solche solle beschaffen seyn.
+  cs: O předprsni baterie a jaká má být.
+- typ: odstavec
+  de: |-
+    Sie wird meistentheils von Schantzkörben oder Gabbionaten/ die 7. schuh in dem diameter oder dicke/ vnd 10. schuh hoch seind/ gemachet: wann nun deren drey hinder einander gestellt werden/ gibt es ein Brustwehr von 21. schuh/ so zu beschützung des Constablers vnd der Stucken gemachet werden/ etc.
+  cs: |-
+    Předprseň {Brustwehr} se dělá většinou ze šancovních košů {Schantzkörben} neboli gabionů {Gabbionaten}, které mají v průměru neboli tloušťce 7 stop a jsou 10 stop vysoké; postaví-li se tři za sebou, vznikne předprseň [silná] 21 stop. Takové se dělají na ochranu konstáblů {Constablers} a děl atd.
+poznamky:
+- n: 1
+  text: Bächring (Pechring) – věnec z koudele nebo slámy napuštěný smolou a zápalnou směsí, který se zapálený házel na útočníky.
+- n: 2
+  text: Délka (hloubka) stanoviště 30 stop plus 5 stop rezervy dává 35 stop; Lavater tento rozměr nazývá „šířkou“ baterie, šířku na jedno dělo (12 stop) počítá zvlášť.

@@ -1,0 +1,71 @@
+id: '010'
+list: '10'
+strana: verso
+sken: 44
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie die Blendungen der schießlöcheren der Batterie sollen beschaffen seyn.
+  cs: Jaké mají být clony střílen baterie.
+- typ: odstavec
+  de: |-
+    Man vermachet dieselbigen mit reyß von ästen der bäumen/ oder aber thürlein von starcken bretteren für die löcher/ welche/ so man schiessen will/ auffgethan/ vnd so man geschossen hat/ widerumb zugethan werden/ damit die Stuck nicht also bald entdecket/ vnd die Constablers desto sicherer zum laden kommen mögen.
+  cs: |-
+    Clony {Blendungen} se dělají z chrastí, z větví stromů, anebo jako dvířka ze silných prken před otvory; ta se otevřou, když se má střílet, a po výstřelu zase zavřou, aby děla nebyla tak brzy odhalena a konstáblové {Constablers} se mohli tím bezpečněji dostat k nabíjení.
+- typ: nadpis
+  uroven: 3
+  de: Was vber die Banck schiessen seye.
+  cs: Co je střelba přes lavici.
+- typ: odstavec
+  de: |-
+    Wann man den grund biß halb an die Brustwehr erhöcht/ vnd darauff mit läden vnd bretteren ein brüge machet/ worauff die Stuck stehen/ vnd man vber die Brustwehr schiessen mag.
+  cs: |-
+    Střelba přes lavici {vber die Banck schiessen}[^1] je, když se terén zvýší až do poloviny výšky předprsně {Brustwehr} a udělá se na něm z fošen a prken podlaha, na níž stojí děla, takže lze střílet přes předprseň.
+- typ: nadpis
+  uroven: 3
+  de: Ob es besser vber die banck oder durch die scharten zu schiessen seye.
+  cs: Zda je lepší střílet přes lavici, nebo střílnami.
+- typ: odstavec
+  de: |-
+    Vil halten mehr von dem vber die banck schiessen/ in deme man die Batterie verenderen kan/ vnd nicht an die löcher der schießzangen gebunden seyn muß. Es seind aber hiervon vilerley meynungen/ derhalben ich vnnöhtig seyn erachtet/ zu vermeidung weitläuffigkeit/ solche gründ vnd vrsachen allhie an tag zu bringen.
+  cs: |-
+    Mnozí dávají přednost střelbě přes lavici, protože lze měnit postavení baterie {Batterie} a není se třeba vázat na otvory střílen {schießzangen}. O tom je však mnoho různých názorů; proto jsem pokládal za zbytečné uvádět tu tyto důvody a příčiny, abych se vyhnul rozvláčnosti.
+- typ: nadpis
+  uroven: 2
+  de: Von den Cavalieurs.
+  cs: O kavalírech.
+- typ: nadpis
+  uroven: 3
+  de: Was die Cavalieurs seyen/ vnd derselben nammen.
+  cs: Co jsou kavalíry a jak se nazývají.
+- typ: odstavec
+  de: |-
+    Es ist ein besondere höhung/ so man alß ein absönderliche Schantz auff den Wal bawet/ daher sie auch von etlichen Katzen genennt werden: ist gleich einer Batterie/ durch welche man in die weite den Feind mit Geschütz erlangen kan.
+  cs: |-
+    Kavalír {Cavalieur} je zvláštní vyvýšenina, kterou stavějí na valu jako samostatnou šanci; proto se jim u některých říká také kočky {Katzen}. Podobá se baterii, z níž lze nepřítele zasáhnout děly do daleka.
+- typ: nadpis
+  uroven: 3
+  de: Wo vnd wie weit die Brustwehr der Batterie von dem Wal stehen soll.
+  cs: Kde a jak daleko od valu má stát předprseň baterie.
+- typ: odstavec
+  de: |-
+    Sie soll mitten auff der Courtine vnd 30. schuh von der Brustwehr stehen/ damit der Wal nicht beschwert werde/ der last vornen den Wal nicht eyntrucke/ vnd so der Cavalier herunder geschossen/ nicht auff den Walgang falle/ vnd die defensen verhindere: es soll aber der Cavalier weit von der Brustwehr stehen/ damit zwüschen jhme vnd derselben ein breiter weg seye/ vnd man mit etlichen squadronen oder hauffen Musquetierer/ jtem Wägen vnd Stucken hindurch vnverhinderlich marchieren möge: ja auch daß man kleine Feldstücklein/ alß Falcken/ so fünff pfundt eysen treiben/ darzwüschen stellen vnd pflantzen möge.
+  cs: |-
+    Má stát uprostřed kurtiny {Courtine} a 30 stop od předprsně [valu],[^2] aby val nebyl přetížen, aby jej váha vpředu neprotlačila a aby kavalír, kdyby byl sestřelen, nespadl na ochoz valu {Walgang} a nepřekážel obraně {defensen}. Kavalír má totiž stát daleko od předprsně proto, aby mezi ním a jí byla široká cesta, kudy by mohlo nerušeně táhnout několik oddílů {squadronen} neboli houfů mušketýrů, rovněž vozy a děla; ba aby se tam mezi ně daly postavit a zasadit i malá polní děla, jako falkony {Falcken}, které střílejí pětilibrové železné koule.
+- typ: nadpis
+  uroven: 3
+  de: Wie die Cavalieurs beschaffen seyn sollen.
+  cs: Jaké mají být kavalíry.
+- typ: odstavec
+  de: |-
+    Die höhe der Katzen oder Cavalieurs werden vnderschiedenlich
+  cs: |-
+    Výška koček neboli kavalírů se
+poznamky:
+- n: 1
+  text: Střelba přes předprseň z vyvýšené plošiny, bez střílen (franc. tir à barbette); „lavice“ (Banck) je tu dělová plošina, ne střelecký stupeň pěchoty.
+- n: 2
+  text: Nadpis mluví o předprsni baterie, text však zjevně o umístění kavalíru jako celku – 30 stop za předprsní valu.

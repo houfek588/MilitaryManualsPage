@@ -1,0 +1,34 @@
+id: '016'
+list: '16'
+strana: verso
+sken: 50
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    von dem obersten theil der rippen. Es seind derselbigen dreyerley gattung: 1. kleine/ 2. mittelmässige/ 3. doppelte Schantzkörb. Die kleinen seind vngefahr 6. schuh hoch/ vnd in der dicke 3. schuh breit/ deren 5. machen ein Brustwehr von 15. schuh/ wann du sie hinder einander stellest. Die ander gattung/ alß mittelmässig seind 7. schuh in der höhe/ vnd 5. schuh dick/ deren 3. auch ein Brustwehr von 15. schuhen geben. Die doppelten vnd dritte gattung aber/ haben in der dicke 7. schuh/ vnd in der höhe 10. schuh/ deren 3. ein Brustwehr von 21. schuhen dick machen. Dise Schantzkörb werden mit guter Erden außgefüllt/ darinnen keine steinlein/ sonder mit reinem reyß geflochten/ vnd die ripp nicht zu dick seyn sollen. Man soll sie aber vor allen dingen mit leimechtiger Erden/ so mit Wasser angefeucht vnd geknettet/ darunder stroh vnd roßmist gemengt/ jnn- vnd außwendig wol verkleiben/ damit jhnen kein fewr schaden möge. Erstlich seind die Schantzkörb gut ein geruiniertes ort darmit widerumb zu vermachen/ vnd das loch außzufüllen: da es dargegen gefahrlich vnd lange weil erforderen wurde/ solches widerumb auff zu bawen. Zum anderen/ zu den Stucken/ an statt einer Brustwehr: Jtem/ zu den Lauffgräben/ da harter grund vnd nicht wol zu graben ist/ so man einanderen nachstellet/ hinder welchen man/ wie in einem Lauffgraben gehen mag. Jtem/ zu blendungen/ den Feind darmit zu betriegen: dann so man etliche einanderen nachstellet/ so weißt der Feind noch nicht ob sie außgefüllt seyen oder nicht/ vnd da man vil einanderen nachstellet/ jnsonderheit an ein ort da man nicht ist/ so spielet der Feind vmbsonst darauff/ vnd weißt nicht wo es gilt/ da dargegen man an einem anderen ort arbeiten vnd ohne schaden bleiben mag.
+  cs: |-
+    od horního konce žeber. Jsou trojího druhu: 1. malé, 2. střední, 3. dvojité šancovní koše {Schantzkörb}. Malé jsou asi 6 stop {schuh} vysoké a 3 stopy v průměru; pět takových, postavíš-li je za sebou, tvoří předprseň {Brustwehr} silnou 15 stop. Druhý druh, totiž střední, je 7 stop vysoký a 5 stop silný; tři takové dávají rovněž předprseň o 15 stopách. Dvojité čili třetí druh mají v průměru 7 stop a na výšku 10 stop; tři z nich tvoří předprseň silnou 21 stop. Tyto šancovní koše se plní dobrou zeminou, v níž nemají být kamínky; mají se plést čistým proutím a žebra nemají být příliš silná. Především je však třeba je zevnitř i zvenčí dobře omazat jílovitou zeminou, navlhčenou vodou, uhnětenou a promíšenou se slámou a koňským hnojem, aby jim oheň nemohl uškodit. Zaprvé se šancovní koše hodí k tomu, aby se jimi znovu uzavřelo poškozené místo a vyplnil otvor tam, kde by jeho nové vystavění bylo nebezpečné a vyžádalo si mnoho času. Zadruhé k dělům {Stucken} místo předprsně. Dále k aproším {Lauffgräben} tam, kde je tvrdá půda a špatně se kope: postaví se jeden za druhým a za nimi lze chodit jako v aproši. Dále jako clony {blendungen}, jimiž se nepřítel oklame: postaví-li se jich několik za sebou, nepřítel neví, jsou-li naplněné, či ne; a postaví-li se jich za sebou mnoho, zvláště na místě, kde nikdo není, nepřítel na ně střílí nadarmo a neví, kam má mířit, zatímco jinde lze pracovat a zůstat bez úhony.
+- typ: nadpis
+  uroven: 3
+  de: Was man im mangel der Schantzkörben brauchen sölle.
+  cs: Čeho užít, nejsou-li šancovní koše
+- typ: odstavec
+  de: |-
+    Jn mangel derselbigen füllen etliche Fässer mit Erden. Jtem/ leinene säck mit Wollen/ die sie an statt der Schantzkörben brauchen.
+  cs: |-
+    Nemají-li jich, plní někteří zeminou sudy; dále lněné pytle vlnou, a těch pak užívají místo šancovních košů.
+- typ: nadpis
+  uroven: 3
+  de: Von Wollsäcken/ vnd wie sie gemachet vnd dienstlich seyen.
+  cs: O pytlích s vlnou {Wollsäcken}, jak se dělají a k čemu slouží
+- typ: odstavec
+  de: |-
+    Es seind lange/ breite leinene/ vnd doppelt zusammen genäyete säck/ die sollen in der dicke 15. schuh seyn/ damit sie kein schuß durchtringen möge: jhr länge soll vngefahr 14. schuh seyn. Man bindet sie (wann sie hart mit Wollen zugestopfft seind) creutzweiß mit starcken seyleren/ vnd soll man derselbigen ein zimliche anzahl im vorraht haben. So bald man contra batterieren will/ so legt man deren je zween vnd zween neben einanderen/ vnd lasset darzwüschen so vil platz/ daß das mundloch des Stucks bloß dardurch sehen möge: Eh man sie aber legt/ so schlägt man pfäl zum fundament/ damit sie nicht außweichen mögen. Oben auff kommt noch ein andere lege der gattung Wollsäck/ welche wird an die vndersten vest angemachet: man leget sie auch für die Bresche. Jtem/ man henckt sie auch auff die seiten der gallerie: die
+  cs: |-
+    Jsou to dlouhé, široké lněné pytle, sešité ze dvou vrstev; mají být 15 stop silné,[^1] aby jimi neprorazila žádná střela, a asi 14 stop dlouhé. Když jsou natvrdo nacpané vlnou, svážou se křížem silnými provazy; a je třeba mít jich v zásobě slušný počet. Jakmile se má střílet proti nepřátelské baterii {contra batterieren}, kladou se vždy po dvou vedle sebe a mezi nimi se nechá jen tolik místa, aby jím mohlo vyhlížet ústí děla. Než se však položí, zatlučou se kůly jako základ, aby neuhýbaly. Navrch přijde ještě další vrstva pytlů s vlnou, která se pevně připojí ke spodním. Kladou se také před průlom {Bresche}. Dále se věší i na boky galerie {gallerie}; tyto
+poznamky:
+- n: 1
+  text: Tak v tisku („in der dicke 15. schuh“); u pytle je to nepravděpodobné – snad je míněna síla celé hradby z pytlů, nebo jde o tiskovou chybu (1½ stopy?).

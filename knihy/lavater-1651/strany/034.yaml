@@ -1,0 +1,43 @@
+id: '034'
+list: '34'
+strana: verso
+sken: 68
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    pflichtig seyn: alles soll er sauber/ rein/ in guter ordnung vnd fleissig auffbezeichnet haben. Er solle etliche Wägen mit Munition vnd Amanissen: Jtem/ mit Schiffen/ Leiteren vnd anderen dingen allzeit wol beladen im Zeughauß bereitet vnd gerüst halten: wann er Munition den Soldaten Monats/ oder zween Monats vmb außtheilet/ soll ers fleissig auffzeichnen/ vnd des empfangenen vnd außgebenen Pulfers/ Lots vnd Kuglen halber von den Capitains zedel abforderen/ vnd zur zeit der rechnung aufflegen: das Zeughauß solle täglich gespickt/ vnd nicht geminderet werden. Wo ein Statt oder Vestung belägert were/ soll er sparsam vnd doch nach nohtdurfft im außtheilen des Pulfers daher fahren/ vnd niemanden zum Pulfer gehen lassen/ weder freund noch feind/ tags noch nachts/ in lermen oder sonsten. Die Constaffels auff den Battereyen solle er fleissig mit Kraut/ Lunden/ Kuglen/ Wüscher/ Ladschaufflen/ Setzkolben/ Höw vnd anderm/ so jhnen von nöhten/ genugsam versehen: jnsonderheit solle er auff die stärcke der Räderen von Stücken/ von Wägen vnd Kärren sehen/ damit sie es lang außstehen/ vnd nicht den ersten vnd anderen rung zu stucken gehen mögen/ etc. Wie aber ein Zeughauß versehen seyn solle/ auch wie die Munition außgetheilt werde/ hast du vornen genugsam gehört.
+  cs: |-
+    zavázán. Všechno má mít čisté, uklizené, v dobrém pořádku a pečlivě zapsané. Ve zbrojnici {Zeughauß} má mít vždy připraveno a vystrojeno několik vozů dobře naložených municí a potřebami {Amanissen}[^1], dále lodicemi, žebříky a jinými věcmi. Když vydává vojákům munici na měsíc nebo na dva, má to pečlivě zapsat, za přijatý a vydaný prach, olovo a kule žádat od hejtmanů {Capitains} lístky a při vyúčtování je předložit. Zásoby zbrojnice se mají denně doplňovat, a ne ubývat. Je-li město nebo pevnost obléhána, má při vydávání prachu postupovat šetrně, a přece podle potřeby, a nikoho k prachu nepouštět, ani přítele, ani nepřítele, ve dne ani v noci, při poplachu ani jindy. Konstábly {Constaffels} na bateriích {Battereyen} má pilně a dostatečně zásobovat prachem {Kraut}, doutnákem {Lunden}, koulemi, vytěráky {Wüscher}, nabíjecími lopatkami {Ladschaufflen}, pěchovadly {Setzkolben}, senem[^2] a dalším, co potřebují. Zvláště má dbát na pevnost kol u děl, vozů a kár, aby dlouho vydržela a nerozpadla se hned napoprvé či napodruhé {rung} atd. Jak má být zbrojnice zásobena a jak se munice vydává, jsi už dostatečně slyšel výše.
+- typ: nadpis
+  uroven: 3
+  de: Sein Eyd ist.
+  cs: Jeho přísaha zní.
+- typ: odstavec
+  de: |-
+    Daß er seinem Herren getrew vnd gewähr seyn solle/ seinen schaden wenden/ frommen vnd nutzen fürderen vnd schaffen/ das gantze Zeughauß/ vnd alles was darinnen im vorraht getrewlich befohlen zu haben/ nach bestem vermögen demselbigen ob- vnd vorseyn/ vnn alles gebrauchen nach nohtdurfft/ wie es seinem Herren am ehrlichsten vnd nutzlichsten seyn möchte/ alles nach raht vnd gut-achten des Gubernators vnd Kriegs-Rahts/ auch sonsten hierinn alles zu thun vnd zu lassen/ was einem getrewen Zeugherren von Ampts wegen gebürt/ etc. Besihe des Proviantherren Eyd.
+  cs: |-
+    Že bude svému pánu věrný a spolehlivý, bude odvracet jeho škodu, podporovat a zjednávat jeho prospěch a užitek, bude mít celou zbrojnici a vše, co je v ní v zásobě, věrně ve své péči, podle svých nejlepších sil nad ní bdít a spravovat ji a vše užívat podle potřeby tak, jak by to bylo pro jeho pána nejčestnější a nejužitečnější – vše podle rady a dobrého zdání guvernéra {Gubernator} a válečné rady {Kriegs-Raht}; a že i jinak bude v tom činit i nečinit vše, co věrnému zbrojnímu pánovi {Zeugherren} z moci úřadu náleží atd. Viz přísahu proviantmistra.
+- typ: nadpis
+  uroven: 2
+  de: Von dem Proviantherren oder Commissario des Vivres.
+  cs: O proviantmistrovi neboli komisaři potravin.
+- typ: odstavec
+  de: |-
+    Ein Commissarius des Vivres; ein Commissherr/ oder Proviantherr genannt; soll nicht ein schlechter/ sonder vilgeübter Kriegsmann seyn/ der auch fürsichtig zu aller Handthierung vnd Haußhaltung seye.
+  cs: |-
+    Komisař potravin {Commissarius des Vivres}, zvaný také komisní pán {Commissherr} neboli proviantmistr {Proviantherr}, nemá být prostý, nýbrž velmi zkušený voják, který je také prozíravý ve všem obchodování a hospodaření.
+- typ: odstavec
+  de: |-
+    Es hat ein Proviantherr alle Proviant oder Vivres vnder seinem gewalt/ vnd verweset dieselbig mit raht des Gubernators vnd der Kriegs-Rähten/ theilt sie auß/ vnd soll darinn allzeit ein gleichheit gebrauchen: dann wo das gegenspiel/ vnd etwas vbersehen wurde/ so erhebet sich gemeiniglich vnwillen oder meuterey: wo er auch etwas mangels in der Proviant funde/ soll ers dem Gubernator anzuzeigen/ aber sonsten niemand zu öffnen pflichtig seyn: den vorraht der Vivres solle er niemand/ bey seinem Eyd/ auch den mangel derselbigen niemandem aussert dem Kriegs-Raht vnd
+  cs: |-
+    Proviantmistr má všechen proviant neboli potraviny {Vivres} ve své moci, spravuje je s radou guvernéra a válečných radů, vydává je a má přitom vždy zachovávat rovnost; neboť kdyby tomu bylo naopak a v něčem se pochybilo, vzniká obvykle nevole nebo vzpoura. Najde-li v proviantu nějaký nedostatek, je povinen to oznámit guvernérovi, jinak to však nikomu nevyjevovat. Stav zásob potravin nemá pod svou přísahou nikomu a jejich nedostatek nikomu kromě válečné rady a
+poznamky:
+- n: 1
+  text: |-
+    Amanissen – nejasný výraz, snad z ital. ammannire (připravit), tj. válečné potřeby a výstroj vedle munice.
+- n: 2
+  text: |-
+    Seno sloužilo k ucpávání (jako ucpávka mezi prachem a koulí) a k vytírání hlavně.

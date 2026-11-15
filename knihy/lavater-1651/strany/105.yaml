@@ -1,0 +1,34 @@
+id: '105'
+list: '105'
+strana: recto
+sken: 151
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    von einanderen stehen/ vnd die Reuterey durchbrechen möge. Wann aber die Reuter zu nahe kommen/ sollen die Musquetierer sich in den Ygelhineyn begeben: die Spießknecht jhre Spieß gegen den Reuteren fellen/ vnd vber einanderen jhre Spieß schrencken: die Musquetierer aber jhre Musqueten vber die Spießknecht gegen dem Feind ordenlich vnd nicht alle zugleich lösen.
+  cs: |-
+    od sebe a jízda [tak] nemohla prorazit. Přiblíží-li se však jezdci příliš, mají se mušketýři {Musquetierer} uchýlit dovnitř ježka {Ygel}; pikenýři {Spießknecht} mají sklopit píky proti jezdcům a překřížit je přes sebe, mušketýři pak mají vypalovat své muškety {Musqueten} přes pikenýry proti nepříteli spořádaně, a ne všichni najednou.
+- typ: nadpis
+  uroven: 2
+  de: Die sibende Battaille oder Schlachtordnung.
+  cs: Sedmý šik {Battaille} neboli bitevní sestava
+- typ: odstavec
+  de: |-
+    Besihe im vierten Kupfferblat die grosse zahl II. Wann du ein Schlachtordnung ins geviert machen/ vnd die Spieß rings vmbher mit Musquetierern bekleiden wilt/ so must du es also anstellen: Lasse einen jeden Squadron Musquetierer (deren du 4. haben wirst) noch ein malso lang marschieren/ so hast du einen jeden bruch von zweyen Reyen/ vnd jeden Reyen von zwölff Mann hoch vnd lang: die Spieß aber solt du jeden bruch von 8. hoch vnd 3. Reyen marschieren lassen/ vnd sie alßdann zusammen führen/ so wirst du 8. Glid/ oder 8. hoch haben/ vnd in jedem Glid zwölff Mann. Wann du nun die Spieß also in ein gevierte Ordnung gebracht hast/ so solt du mit dem ersten bruch Musquetierer der länge nach für die Spieß ziehen/ vnd das vorderste Glid Spieß nach der länge decken/ wie 1. außweiset: darnach so marschier mit 2. dem anderen bruch Musquetierer neben den Spiessen auff der rechten seiten hinan/ so hast du solche auch gekleidet. Du kleidest also auch mit 8. mit Musquetierern die Spieß am Rucken zu hinderst: vnd dann mit 7. an der lincken seiten. Wo du aber ein/ zween/ oder vier brüch Musquetierer für hettest/ vnd dein Compagnie stärcker alß 200. Mann/ vnd mehr Musquetierer alß Spieß darunder weren/ so kanst du noch vier Trüpplein Musquetierer gleich einem Creutz/ wie der buchstaben A. außweiset/ anhencken.
+  cs: |-
+    Viz na čtvrté mědirytině {Kupfferblat} velké číslo II. Chceš-li utvořit čtvercový bitevní šik {ins geviert} a píky {Spieß} dokola obložit mušketýry, musíš si počínat takto: Nech každou švadronu {Squadron} mušketýrů (budeš jich mít 4) pochodovat ještě jednou tak dlouhou; tak budeš mít každý oddíl {bruch} o dvou zástupech {Reyen} a každý zástup o dvanácti mužích do hloubky a délky. Píky však nech pochodovat po oddílech o 8 [mužích] do hloubky a o 3 zástupech a potom je sveď dohromady: tak budeš mít 8 řad {Glid} čili 8 do hloubky a v každé řadě dvanáct mužů. Když takto přivedeš píky do čtvercového šiku, máš s prvním oddílem mušketýrů táhnout podél před píkami a přední řadu pík krýt po celé délce, jak ukazuje 1; potom vytáhni s 2, druhým oddílem mušketýrů, podél pík po pravé straně, a tak jsi obložil i tu. Stejně tak obložíš píky v týlu, úplně vzadu, mušketýry oddílu 8 a potom na levé straně [mušketýry oddílu] 7. Kdybys však měl ještě jeden, dva nebo čtyři oddíly mušketýrů navíc a tvá kompanie {Compagnie} byla silnější než 200 mužů a bylo v ní víc mušketýrů než pík, můžeš ještě připojit čtyři houfky {Trüpplein} mušketýrů do kříže, jak ukazuje písmeno A.
+- typ: nadpis
+  uroven: 3
+  de: Worzu dise Battaille dienstlich seye/ vnd man sie brauchen solle.
+  cs: K čemu slouží tento šik a jak se má použít
+- typ: odstavec
+  de: |-
+    Wann dich die Reuterey rings vmbher angreiffen/ vnd dir so naht auff den Leib kommen möchte/ so solt du dich alßdann vnder die Spieß salvieren vnd begeben/ vnd kan ein Spieß biß auff vier oder fünff Mann defendieren vnd vberlangen: Es sollen aber die Musquetierer auff den knien ligen/ damit die Spieß vber sie außlangen mögen/ vnd sich bey leib nicht verschiessen: dann wo solches geschehe/ so wurden die Reuter vngehinderet an die Spieß kommen/ vnd deine Spieß mit Pistolen darnider schiessen: darumb dann auch gut ist wo man solche Trüpplein creutzweis daran hencken mag/ welche von einem ort zum anderen mit dem Geschütz streychen vnn die Spieß beschirmen mögen. Es sollen aber die Spießknecht jhre Spieß hart an den fůß oder starck in die Erden setzen: vnd halten ich für gut/ wo die Spieß vnden an statt der zwingen spitzen hetten/ solche desto kommlicher zu stecken: vorauß sollen auch die Spieß gute eysene federen vornen haben/ damit sie nicht leichtlich von der Reuteren Wehr verhawen werden mogen. Es sollen auch die
+  cs: |-
+    Kdyby tě jízda napadla ze všech stran a dostala se ti tak blízko na tělo, máš se zachránit a uchýlit pod píky; jedna píka může ubránit a překrýt až čtyři nebo pět mužů. Mušketýři však mají klečet, aby píky mohly sahat přes ně, a za nic na světě se nesmějí vystřílet: neboť kdyby se to stalo, dostali by se jezdci bez překážky až k pikám a postříleli by ti pikenýry pistolemi. Proto je také dobré, lze-li k [šiku] připojit křížem takové houfky, které mohou střelbou {Geschütz} ostřelovat [prostor] od jednoho místa k druhému a píky chránit. Pikenýři však mají své píky pevně opřít o nohu nebo silně zarazit do země; a za dobré bych pokládal, kdyby píky měly dole místo okutí {zwingen} hroty, aby se daly tím snáze zarážet. Především mají mít píky vpředu dobré železné pásy {federen}[^1], aby je jezdci svými zbraněmi nemohli snadno přeseknout. Také mají
+poznamky:
+- n: 1
+  text: Federn – železné pásy (langety) vybíhající od hrotu po stranách ratiště, které chránily dřevo před přeseknutím; „Zwinge“ je kovové okutí na dolním konci ratiště.

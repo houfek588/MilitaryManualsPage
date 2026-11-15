@@ -1,0 +1,79 @@
+id: '053'
+list: '53'
+strana: recto
+sken: 87
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    befohlen worden: Hierauff gehet ein jeder zu seinen hohen Officiern/ alß Capitain/ Leutenammten/ Fendrichen/ vnd den wachthabenden Corporalen/ zeiget jhnen die Ordre vnd Wort/ auch was jhme befohlen worden/ an.
+  cs: |-
+    jak bylo nařízeno. Potom jde každý [vachmistr] ke svým vyšším důstojníkům, totiž k hejtmanovi {Capitain}, poručíkovi {Leutenammten} a praporečníkovi {Fendrichen}, a k desátníkům {Corporalen}, kteří mají stráž, a oznámí jim rozkaz {Ordre} a heslo {Wort} i to, co mu bylo nařízeno.
+- typ: nadpis
+  uroven: 2
+  de: Von den Saintinell oder Schiltwachthäußlein.
+  cs: O strážních budkách {Saintinell} neboli budkách stálých stráží.
+- typ: odstavec
+  de: |-
+    Wo/ vnd wie man die Saintinell oder Schilterhäußlein setzen vnd bawen solle/ wirst du nachgehnds im Titul von den Schiltwachten finden.
+  cs: |-
+    Kde a jak se mají strážní budky neboli budky stálých stráží {Schilterhäußlein} rozmisťovat a stavět, najdeš dále v oddílu o stálých strážích {Schiltwachten}.
+- typ: nadpis
+  uroven: 2
+  de: Von Zug- vnd Wachten.
+  cs: O pochodu a strážích.
+- typ: odstavec
+  de: |-
+    Die meiste kunst Kriegens bestehet erstlich in dem Zug/ zum anderen in der Wacht.
+  cs: Největší část válečného umění spočívá zaprvé v pochodu {Zug}, zadruhé ve stráži {Wacht}.
+- typ: nadpis
+  uroven: 3
+  de: Wie Zug- vnd Wacht in einer Besatzung außgetheilt werden.
+  cs: Jak se v posádce rozvrhují pochody a stráže.
+- typ: odstavec
+  de: |-
+    Die gantze Besatzung wird in drey theil vnderscheiden vnd abgetheilt/ da dann je ein theil vmb den anderen nach der kehr die dritte nacht: wo man sich aber des Feinds besorget/ oder die Besatzung schwach were/ vber die ander nacht der ein halbe: vnd dargegen der ander halbe theil; wo ferr es gar gefahrlich were/ in bereitschafft auff den bestimpten Lermenplätzen mit Gewehr ligen: diser gehet aber des tags widerumb heim.
+  cs: |-
+    Celá posádka {Besatzung} se rozdělí na tři části a každá část pak po řadě drží stráž každou třetí noc. Obává-li se však posádka nepřítele nebo je-li slabá, drží stráž ob noc jedna polovina; druhá polovina naproti tomu, je-li velmi nebezpečno, leží se zbraní v pohotovosti na určených poplachových shromaždištích {Lermenplätzen}, ve dne však jde zase domů.
+- typ: nadpis
+  uroven: 2
+  de: Von der Parade/ oder zug auff die Wacht.
+  cs: O parádě neboli nástupu na stráž.
+- typ: nadpis
+  uroven: 3
+  de: Was die Parade seye.
+  cs: Co je paráda.
+- typ: odstavec
+  de: |-
+    Die Parade ist der zug auff die Wacht/ da die Soldaten zu Wachtzeit/ ein jeder sich bey seines Fendrichs Losament finden lasset/ vnd man Rottenhalben vnd gantzen Compagnien-weis auff die Wachtposten ziehet.
+  cs: |-
+    Paráda {Parade} je nástup na stráž, kdy se vojáci v čase stráže dostaví každý k ubytování {Losament} svého praporečníka a odtud se táhne na strážní stanoviště {Wachtposten} po rotách {Rottenhalben} a po celých kompaniích {Compagnien}.
+- typ: nadpis
+  uroven: 3
+  de: Wie sich ein Soldat auff der Paraden verhalten solle.
+  cs: Jak se má voják chovat při parádě.
+- typ: odstavec
+  de: |-
+    So bald es Wachtzeit/ soll er sich mit seinem Vbergewehr vor des Fendrichen Losament begeben/ vnd daselbsten erwartend seyn des Trommenschlags: alßdann sich in die ordnung verfügen/ vnd was man jhme weiters zu thun befilcht/ gewahren.
+  cs: |-
+    Jakmile nastane čas stráže, má se se svou hlavní zbraní {Vbergewehr} odebrat před praporečníkovo ubytování a tam vyčkat bubnování; potom se zařadit do šiku {ordnung} a dbát toho, co mu bude dále nařízeno.
+- typ: nadpis
+  uroven: 3
+  de: Wie sich ein Soldat im ab zug verhaltet.
+  cs: Jak se voják chová při odchodu [ze stráže].
+- typ: odstavec
+  de: |-
+    Alßbald die Wacht/ so sie ablöset/ kommt/ soll sich ein jeder mit brennenden Lunden vnd seinem Vbergewehr vor dem Wachthauß ordenlich stellen/ vnd pręsentieren/ vnd darauff sich still in sein Quartier oder Losament verfügen.
+  cs: |-
+    Jakmile přijde stráž, která je střídá, má se každý s hořícím doutnákem {Lunden} a svou hlavní zbraní řádně postavit před strážnici {Wachthauß} a prezentovat [zbraň], potom se tiše odebrat do svého kvartýru {Quartier} neboli ubytování.
+- typ: nadpis
+  uroven: 3
+  de: Wie sich die Trommenschlager auff der Paraden verhalten.
+  cs: Jak si mají při parádě počínat bubeníci.
+- typ: odstavec
+  de: |-
+    Von jetwederer Compagnie soll sich einer alle Abend/ Sommerszeit gegen 5. vnd des Winters gegen 4. vhren/ in guter andacht mit seiner Trommel auff dem Marckt erzeigen/ vnd des Glockenstreichs erwarten: so bald es nun anfangt an der Vhr zu raßlen/ sollen die Trommenschläger auch auff der Trommel herumb růhren: vnd namlich des ersten des Gubernators/ darnach die vbrigen Trommelschläger/ so zwey mal neben einanderen in einem
+  cs: |-
+    Z každé kompanie se má každý večer, v létě kolem 5. a v zimě kolem 4. hodiny, jeden [bubeník] se svým bubnem pozorně dostavit na náměstí a vyčkat odbíjení zvonu. Jakmile začne hodinový stroj chrastit, mají také bubeníci {Trommenschläger} spustit víření na bubny, a sice nejprve guvernérův a po něm ostatní bubeníci, kteří dvakrát vedle sebe v jedné

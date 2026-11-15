@@ -1,0 +1,18 @@
+id: predmluva-2
+list: věnování (předmluva)
+strana: recto
+sken: 7
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    welchem die materi von erforderlicher Kriegs-vorbereitung/ so wol das Fortificieren vnd Vestnen/ alß alle andere Kriegs-Actionen vnd Thätlichkeiten; wie die nammen haben mögen; berührende: zwaren kurtz/ aber grundtlich/ practicè vnd handleitlich tractiert vnd gehandlet; vnd hiemit alles/ was von der Kriegskunst in praxi geredt werden mag/ in verständtliche Præcepta vnd Reglen eyngeschlossen vnd verfasset wurde.
+  cs: |-
+    v níž by látka o potřebné válečné přípravě – týkající se jak opevňování a utvrzování {Fortificieren vnd Vestnen}, tak všech ostatních válečných akcí a činů, ať se nazývají jakkoli – byla pojednána a vyložena sice stručně, ale důkladně, prakticky a názorně; a tím aby vše, co lze o válečném umění říci z praxe, bylo shrnuto a sepsáno do srozumitelných zásad a pravidel.
+- typ: odstavec
+  de: |-
+    Daß aber/ Hochgeachte/ Gnädige Herren/ diß mein Wercklein bey E. G. anlendet vnd schirm sůcht; ist nicht dahin gemeint/ sam ich eben sie die Waaffen lehren/ vnd in Kriegs-sachen vnderrichten wölle; (alß deren hohe erfahrenheit in aller Politischen/ vnd hiemit auch Kriegischen wüssenschafft/ Gott lob/ Landrüchtig/ vnd gnugsam bekannt ist:) sondern hierdurch meine/ gegen E. G. vnd hertzgeliebtem Vatterland/ schuldige pflicht vnd dienst/ nach zwaren geringem vermögen/ jedoch eyferigen vnd hertzlichen begeren/ zu eräugen: vnd also demselbigen/ dise mein/ in vilen Jahren; bey fürtreffenlichen kriegischen Nationen; nebend läsung guter Autoren; geschöpffte wenige Experientz/ ja mich selbsten/ gantz vnd gar auffzuopfferen. Der hoffnung/ sich derselben zum wenigsten die jenigen fruchtbarlich bedienen werden/ welche auff E. G. biderber Landschafft sich kriegischer Officien vnd Ehrenämpteren vnderfangen/ oder auch künfftig sich hierzu brauchen zu lassen lust haben. Jn welchem vertrawen E. G. ich hiemit diß Kriegs-Büchlein dediciere vnd
+  cs: |-
+    Že však, vysoce vážení, milostiví páni, toto mé dílko přistává u Vašich Milostí a hledá u nich ochranu, není míněno tak, jako bych snad chtěl právě Vás učit zacházet se zbraněmi a poučovat Vás ve válečných věcech (neboť Vaše vysoká zkušenost ve veškeré státní, a tedy i válečné vědě je, chvála Bohu, po celé zemi pověstná a dostatečně známá), nýbrž abych tím projevil povinnost a službu, kterou jsem dlužen Vašim Milostem a srdečně milované vlasti – sice podle nepatrných sil, avšak s horlivou a upřímnou touhou –, a abych tak vlasti zcela a cele obětoval tuto svou skrovnou zkušenost, nabytou za mnoho let u znamenitých válečných národů a vedle toho četbou dobrých autorů, ba i sebe samého. V naději, že ji alespoň s užitkem využijí ti, kdo se v bodrém venkovském kraji {Landschafft} Vašich Milostí ujímají válečných úřadů a čestných hodností, nebo kdo by se k tomu chtěli dát použít v budoucnu. V této důvěře tímto Vašim Milostem tuto Válečnou knížku připisuji a

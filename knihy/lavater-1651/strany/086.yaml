@@ -1,0 +1,80 @@
+id: '086'
+list: '86'
+strana: verso
+sken: 132
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dasselbig in das Rohr/ oder geben mit dem Daumenfinger der Ladung einen truck/ schütten das Pulfer ins Rohr/ alßdann stampffen sie zwey mal den kolben der Musqueten auff den boden/ damit sich das Pulfer im Rohr setze/ darauff lassen sie auß dem Mund ein Laufftugel auff das Pulfer ins Rohr lauffen/ da dann durch den fall sich das Pulfer zimlich setzet/ vnd solches so starck vnd weit alß das mit dem Ladstecken gestampffte reichen mag: vnd auff dise form thut derselben einer fünff schüß eh der ander zween oder drey verrichten mag.
+  cs: |-
+    jej do hlavně, anebo palcem stisknou nálož {Ladung}[^1] a nasypou prach do hlavně; potom dvakrát dupnou pažbou mušketě o zem, aby se prach v hlavni usadil, načež nechají z úst vběhnout do hlavně na prach volnou kouli {Laufftugel}, přičemž se pádem [koule] prach dosti usadí, a [rána] dosáhne stejně silně a daleko jako [nálož] upěchovaná nabijákem {Ladstecken}; a tímto způsobem vystřelí takový [voják] pětkrát, než jiný stihne dvě nebo tři rány.
+- typ: odstavec
+  de: |-
+    Jn dem abschiessen legen sie sich auff jhre knie/ vnd schiessen nach des Manns knien/ damit sie nicht zu hoch schiessen: dann an den schüssen vast das meiste gelegen ist/ dieweil so das geschooß zu hoch gehet/ es wenig schadet: dargegen/ wo schon ein Kugel zu kurtz gehet/ würcket sie offt im gellen das meiste.
+  cs: |-
+    Při výstřelu si kleknou na kolena a míří muži na kolena, aby nestříleli příliš vysoko; na střelbě totiž záleží snad nejvíc, neboť jde-li střela příliš vysoko, málo uškodí, kdežto i když koule padne příliš nakrátko, často nejvíc zapůsobí odrazem.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Hie folget die Erklärung/ wie man sich mit einer gantzen Ordnung wenden: Jtem/ Reyen vnd Glider dopplieren/ beschltessen vnd schwäncken solle.
+  cs: Zde následuje výklad, jak se má celý šik obracet, dále jak zdvojovat, uzavírat a otáčet zástupy a řady
+- typ: nadpis
+  uroven: 3
+  de: Erstlich/ was ein Glid seye.
+  cs: Nejprve, co je řada
+- typ: odstavec
+  de: |-
+    Das Glid ist/ die breite genannt/ vnd seind alle die jenigen in einem Glid begriffen/ welche einanderen an der seiten/ oder seiten-werts neben einanderen stehen/ alß da 2. 3. 4. 5. 8. 12. oder mehr neben einanderen (auff der rechten oder lincken seiten) stehen: das heißt dann 2. 3. 4. 5. 8. 12. oder mehr breit.
+  cs: |-
+    Řada {Glid} se nazývá šířka a v jedné řadě jsou zahrnuti všichni, kdo stojí jeden druhému po boku neboli bokem vedle sebe, jako když 2, 3, 4, 5, 8, 12 nebo více [mužů] stojí vedle sebe (po pravé nebo levé straně); to se pak nazývá 2, 3, 4, 5, 8, 12 nebo více do šířky.
+- typ: nadpis
+  uroven: 3
+  de: Was ein Reyen seye.
+  cs: Co je zástup
+- typ: odstavec
+  de: |-
+    Ein Reyen ist die höhe/ vnd alles das jenige/ was vor deinem angesicht/ vnd hinder deinem rucken: oder vor/ vnd hinder dir in gerader linien stehet: alß es stehen 2. 4. 8. 15. 20. hinder einanderen in gerader linien/ so sagt man/ sie stehen 2. 4. 8. 15. 20. im Reyen/ oder so vil hoch.
+  cs: |-
+    Zástup {Reyen} je výška [tj. hloubka šiku] a všechno, co stojí před tvou tváří a za tvými zády, čili před tebou a za tebou v přímé linii: stojí-li 2, 4, 8, 15, 20 [mužů] za sebou v přímé linii, říká se, že jich stojí 2, 4, 8, 15, 20 v zástupu, neboli že jsou tolik do výšky.
+- typ: nadpis
+  uroven: 3
+  de: Was Rechts vmb seye.
+  cs: Co znamená „Vpravo v bok“ {Rechts vmb}
+- typ: odstavec
+  de: |-
+    Wann du dich auff dem rechten fuß/ mit der rechten hand halb vmbhin gegen der rechten seiten schwänck est.
+  cs: |-
+    Když se na pravé noze přes pravou ruku napůl otočíš k pravé straně.
+- typ: nadpis
+  uroven: 3
+  de: Was Erstellt euch seye.
+  cs: Co znamená „Zpět na místa“ {Erstellt euch}
+- typ: odstavec
+  de: |-
+    Wann du dich widerumb den weg alß du dich gewendet hast/ auff dein vorige stell kehrest.
+  cs: |-
+    Když se stejnou cestou, jakou ses obrátil, vrátíš do svého předchozího postavení.
+- typ: nadpis
+  uroven: 3
+  de: Was Lincks vmb seye.
+  cs: Co znamená „Vlevo v bok“
+- typ: odstavec
+  de: |-
+    Wann du dich mit der lincken hand auff dem lincken fůß gegen der lincken seiten halb vmbschwänckest/ oder da du dich auff dem lincken fůß gegen der lincken seiten kehrest.
+  cs: |-
+    Když se přes levou ruku na levé noze napůl otočíš k levé straně, čili když se na levé noze obrátíš k levé straně.
+- typ: nadpis
+  uroven: 3
+  de: Was Rechts vmbkehrt euch/ seye.
+  cs: Co znamená „Vpravo čelem vzad“
+- typ: odstavec
+  de: |-
+    Wann du dich mit der rechten hand gantz auff dem rechten fůß gegen
+  cs: |-
+    Když se přes pravou ruku na pravé noze obrátíš úplně kolem směrem
+poznamky:
+- n: 1
+  text: Tj. palcem odklopí víčko měrky (nálože) na bandalíru a vysypou její obsah do hlavně; doslova „dají náloži palcem štulec“.

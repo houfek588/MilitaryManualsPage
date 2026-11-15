@@ -1,0 +1,43 @@
+id: '132'
+list: '132'
+strana: verso
+sken: 178
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    daß der Feind durch dieselbigen möchte herbey schleichen/ so soll man allda einen hauffen Füßvolck halten lassen/ welcher sie verwahret biß alle Bagage fürüber/ vnd auß der gefahr ist/ vnd solle alßdann derselbig sich zu der Nachhůt in den Zug eynstellen.
+  cs: |-
+    že by se jimi mohl nepřítel připlížit, má se tam nechat stát houf pěchoty, který je bude střežit, dokud všechna zavazadla {Bagage} nepřejdou a nebudou mimo nebezpečí; potom se má [tento houf] zařadit do pochodu k zadnímu voji {Nachhůt}.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wie man durch einen Wald mit der Armada marschieren soll.
+  cs: Jak se má s armádou pochodovat lesem.
+- typ: odstavec
+  de: |-
+    Man soll einen hauffen Reuter verordnen/ so den Wald eynnimmt/ vnd marschiert durch den gantzen Wald neben dem weg oder straassen/ auff welcher die Armee oder Kriegsheer her reyset/ vnd bedeckt es also auff beyden seiten: vnd da man in solchem Wald einen ebenen plan antrifft/ wie es bißweilen geschicht/ alßdann soll die Reuterey still halten/ den weg zu versicheren/ biß das Bagage hindurch ist/ welcher sie alßbald nachfolget/ vnd das fůßvolck hinder jhren/ wie dann dieselbig nohtwendig muß in der Nachhůt bleiben. Wann man auß dem Wald kommt/ da ein flaches vnd offen Feld vorhanden/ so sollen etliche Squadronen Reuter im außgang desselben halten/ biß die gantze Reuterey das Feld vnd Höhenen eyngenommen hat.
+  cs: |-
+    Má se určit houf jezdců, který obsadí les a táhne celým lesem podél cesty nebo silnice, po níž armáda neboli vojsko jede, a tak ji kryje z obou stran. A narazí-li se v takovém lese na rovnou pláň, jak se občas stává, má jízda zastavit a zajistit cestu, dokud neprojdou zavazadla; jízda pak hned následuje za nimi a pěchota za ní, neboť ta musí nutně zůstat v zadním voji. Když se vyjde z lesa a je tam ploché a otevřené pole, má několik švadron {Squadronen} jezdců zůstat stát u východu z lesa, dokud celá jízda neobsadí pole a výšiny.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wann man für des Feinds Vestung nahe vorbey marschiert.
+  cs: Když se pochoduje těsně kolem nepřátelské pevnosti.
+- typ: odstavec
+  de: |-
+    So solle man mit Fůßvolck vnd Reuterey dieselbig vmbgeben/ vnd so lang darvor bleiben biß die Bagage vnd die Armee vorbey gemarschiert ist/ damit die in der Vestung keinen außfall thun/ vnd schaden mögen. Wann man nun also fort marschiert/ vnd das Feld eben vnd breit were/ so soll man in breiter Schlachtordnung ziehen/ vnd der Nachtr ab zimlich hinden nachfolgen: in vnebenen Landen aber soll man die Berg innhalten/ vnd von Berg zu Berg ziehen: vnd da die Feind dem Läger nachzugen/ vnd den Nachtrab vberfallen wolten/ soll man denselben verstärcken. Auff einem engen Paß sollen deß ersten Fůßvolck mit etlichen Regimentsstücklinen vorher marschieren/ doch also/ daß etwas Reuterey darauff folgen/ vnd das Fůßvolck secundiert werden möge.
+  cs: |-
+    Pak se má pevnost obstoupit pěchotou a jízdou a zůstat před ní tak dlouho, dokud kolem ní neprojdou zavazadla a armáda, aby ti v pevnosti nemohli učinit výpad a uškodit. Pochoduje-li se pak dál a je-li pole rovné a široké, má se táhnout v širokém šiku a zadní voj {Nachtrab} má následovat značně vzadu. V nerovné krajině se však mají držet hory a táhnout od hory k hoře. A kdyby nepřátelé táhli za ležením {Läger} a chtěli přepadnout zadní voj, má se tento posílit. V úzkém průsmyku má nejprve jít napřed pěchota s několika plukovními dělíčky {Regimentsstücklinen}, ovšem tak, aby za ní následovalo trochu jízdy a pěchota mohla být podpořena.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wann man mit einer Armada vber Wasser marschiert.
+  cs: Když se s armádou pochoduje přes vodu.
+- typ: odstavec
+  de: |-
+    Wann man zu einem Wasser kommt/ soll man solches wol erwägen vnd berahtschlagen/ was es für einen Furt oder Paß habe/ vnd was für Schiff vnd Brucken darzu erforderet werden: Man brucket auch offt ohne Schiff mit langen Trämmeren oder Höltzeren/ so auch empor schwümmen/ wann mans vast zusammen füget vnd bindet mit Kettenen vnd Seileren: die Schiffbrucken aber seind die allerbesten. Wo man nun die Brucken anfanget/ da solle man etliche Stück oben vnd vnden an das gestaad stellen/ damit man vber das Wasser vnder die Feind reichen/ vnd von der anderen seiten hindersich treiben möge: so bald aber die Brucken fertig/ gestracks darauff mit etlichen Trouppen vnd Squadronen Musquetierer hinüber trucken/ vnd ein Wacht
+  cs: |-
+    Když se přijde k vodě, má se dobře uvážit a poradit, jaký je na ní brod nebo přechod a jaké lodě a mosty jsou k tomu třeba. Často se také staví mosty bez lodí, z dlouhých trámů neboli kmenů, které také plavou na vodě, když se pevně spojí a svážou řetězy a provazy; nejlepší jsou však lodní mosty {Schiffbrucken}. Kde se pak začne stavět most, má se postavit několik děl na břeh nad místem i pod ním, aby se přes vodu dostřelilo mezi nepřátele a zahnalo je z druhé strany zpět. Jakmile je však most hotov, má se po něm hned přejít s několika oddíly {Trouppen} a švadronami mušketýrů a strážní postavení

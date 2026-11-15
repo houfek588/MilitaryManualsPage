@@ -1,0 +1,36 @@
+id: '073'
+list: '73'
+strana: recto
+sken: 107
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    zugerüstet/ allerley Holtz vnd Kolen/ zum schmiden/ kochen/ bachen/ wäschen/ bawen/ etc. Jtem/ klein vnd groß Reyß zusammen geführt: alle stücklein Eysen/ alt Nägel/ halb Kuglen/ runde Gassenstein vnd dergleichen zum hagelgeschütz dienstliche sachen wol auffbehalten: Schmär/ Honig/ Bäch: alte Lumpen/ Seiler/ Abwerck vnd dergleichen zum Fewrwerck dienstliche sachen bewahret: allen Constablern oder Schützenmeistern sollen Handreicher/ Pulfer/ Kuglen/ Essig/ Höw/ Stroh/ Wüscher/ Ansetzkolben/ Ladschaufflen/ Zündruthen/ Lunden/ Brätter/ Hebeysen/ Trämmel/ vnd was sie von nöhten/ auff die Batterey verordnet werden. Einer jeden Batterey solle auch ein Edelmann vom Geschütz/ zugeordnet werden/ ohne welches geheiß die Constabler nicht schiessen dörffen. Man solle auch in allen Gassen Bäch- oder Hartzpfannen haben: jnsonderheit achtung geben/ daß niemand etwas auß der Statt flöchne.
+  cs: |-
+    připravit; [má se opatřit] všelijaké dřevo a uhlí ke kování, vaření, pečení, praní, stavění atd. Dále se má svézt drobné i hrubé chrastí; všechny kousky železa, staré hřebíky, půlky koulí, kulaté dlažební kameny a podobné věci, které se hodí do kartáčů {hagelgeschütz}, se mají dobře uschovat; sádlo, med, smůla, staré hadry, provazy, koudel {Abwerck} a podobné věci, které se hodí k ohňostrojům {Fewrwerck}, se mají opatrovat. Všem konstáblům {Constablern} neboli mistrům střelby {Schützenmeistern} se mají na baterii {Batterey} přidělit pomocníci {Handreicher}, prach, koule, ocet, seno, sláma, vytěráky {Wüscher}, pěchovadla {Ansetzkolben}, nabíjecí lžíce {Ladschaufflen}, zapalovací hole {Zündruthen}, doutnáky, prkna, sochory, dřevěné páky {Trämmel} a co dalšího potřebují. Ke každé baterii má být také přidělen dělostřelecký šlechtic {Edelmann vom Geschütz}[^1], bez jehož rozkazu konstáblové nesmějí střílet. Ve všech ulicích mají být také pánve se smůlou nebo s pryskyřicí; zvláště se má dávat pozor, aby nikdo nic neodnášel z města do bezpečí[^2].
+- typ: nadpis
+  uroven: 2
+  de: Wann der Feind sich anfangt eynzuschantzen/ vnd gegen der Statt Lauffgräben machen.
+  cs: Když se nepřítel začne zakopávat a vést proti městu aproše
+- typ: odstavec
+  de: |-
+    Wann er also seine Lauffgräben anfangt/ so soll man die Arbeiter durch die Falckonetlein vnd Schlangen/ Musqueten vnd Haacken ängstigen vnd abtreiben/ auch etliche starcke außfäll thun/ vnd sie von den Wercken abjagen/ vnd jhre Werck/ wo man zeit hette/ widerumb vmbreissen.
+  cs: |-
+    Když tedy začne se svými aprošemi {Lauffgräben}, mají se jeho dělníci znepokojovat a zahánět malými falkonami {Falckonetlein} a hadovnicemi {Schlangen}, mušketami a hákovnicemi {Haacken}; má se také podniknout několik silných výpadů, vyhnat je od jejich děl a jejich díla, je-li na to čas, zase rozbořit.
+- typ: nadpis
+  uroven: 2
+  de: Wie vnd wann man außfallen solle.
+  cs: Jak a kdy se mají podnikat výpady
+- typ: odstavec
+  de: |-
+    Die in der Vestung sollen nicht leichtlich außfallen/ damit der Feind von den auß jhnen gefangenen Soldaten jhre anschläg vnd heimlichkeiten nicht vernemme/ vnd sie durch jhr stätes außfallen gar geschwächt werden/ sonderlich wo die Besatzung sonsten schwach were. Wo aber der Feind mit seinen Lauffgräben einen anfang machet/ soll man denselben durch die außfäll verhinderen/ alß vil möglich/ doch daß dieselben bald können entsetzet/ vnd von der Statt durch das geschoß beschirmbt werden. Die außfallenden gehen still mit der sach vmb/ vnd sehen wie sie des Feinds Wachten heimlich hindergehen vnd vberfallen mögen: darzu dann die Armbrust vnd Bögen mit den Pfeilen/ darmit des Feinds Schiltwachten heimlich zu erlegen/ gar kommlich seind. Man solle die Soldaten nicht auff den Schlachtbanck liferen/ sonder mit nutzen vnd gutem vortheil anführen/ auff daß hierdurch die Vestung keinen mangel an Volck leide: dann ein Vestung ohne Besatzung/ ist ein Leib ohne Kopff. Die Reuterey thut dem Feind im außfallen den meisten schaden: das Fußvolck aber soll man auff den Sturm sparen: vnd können die Reuter dem Feind in der flucht besser entgehen alß aber die Fußknecht. Es soll auch der Feind durch tägliche außfäll gantz verdrüssig gemachet/ vnd an seinen Wercken verhinderet werden/ welches die Arbeiter vnwillig machet/ daß sie nicht mehr ohne grossen lohn zu arbeiten begeren: in deme verliert der Feind
+  cs: |-
+    Ti, kdo jsou v pevnosti, nemají vypadat lehkomyslně, aby se nepřítel od vojáků, které jim zajme, nedozvěděl o jejich záměrech a tajnostech a aby se ustavičnými výpady příliš neoslabili, zvláště je-li posádka i tak slabá. Když však nepřítel začne se svými aprošemi {Lauffgräben}, má se mu v tom výpady bránit, co nejvíce to jde, avšak tak, aby vypadnuvším bylo možné rychle přispět na pomoc a krýt je z města střelbou. Ti, kdo vypadnou, si mají počínat tiše a hledět, jak by nepřátelské stráže potají obešli a přepadli; k tomu se velmi hodí kuše a luky se šípy, jimiž lze nepřátelské stálé stráže {Schiltwachten} potichu sklátit. Vojáci se nemají vydávat na jatka {Schlachtbanck}, nýbrž je vést s užitkem a s dobrou výhodou, aby tím pevnost netrpěla nedostatkem lidí; neboť pevnost bez posádky je tělo bez hlavy. Při výpadech působí nepříteli největší škodu jízda {Reuterey}; pěchotu je však třeba šetřit na útok {Sturm}, a jezdci také mohou nepříteli při ústupu snáze uniknout než pěšáci. Nepřítel má být také každodenními výpady docela znechucen a zdržován při svých dílech, což jeho dělníky rozmrzí, takže už nechtějí pracovat bez velké mzdy; tím nepřítel ztrácí
+poznamky:
+- n: 1
+  text: Edelmann von der Artillerie – nižší dělostřelecký důstojník (franc. gentilhomme d'artillerie), který řídil palbu jedné baterie a dohlížel na konstábly.
+- n: 2
+  text: Švýc. flöchnen = odnášet majetek do bezpečí (uklízet před nepřítelem); jde o zákaz vynášet věci z obleženého města, ne o útěk lidí.

@@ -1,0 +1,58 @@
+id: '050'
+list: '50'
+strana: verso
+sken: 84
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vmbs Leben gebracht wirdt. Die kleinen riemlein seind am besten von leder/ doch sollen die oberen Ladungen nicht so lang alß die vndersten abhangen: die Ladungen aber sollen alle 8. tag außgeraumbt/ vnd das angebackene Pulfer darauß gethan/ zerriben/ vnd widerumb von newem dareyn gefüllt werden. An dem rucken des Pandeliers soll ein eysener ring seyn/ daran man drey stück Lunden/ jedes stück eines klaffters lang/ hencken möge. Ob gedachtem ring solle ein fläschlein oder krüglein von öl hangen/ den haanen der Musqueten darmit gefix zu machen/ vnd das Rohr vom rost zu bewahren: es soll auch ein starcke Kugel-täschen an dem Pandelier hangen/ in welcher ein halbe kertz/ damit man die zündpfannen der Musqueten rings vmbher verkleiben/ vnd das zündpulfer vor dem rägen bewahren möge: Die kertz ist auch gut den Wolff (rev.) zu vertreiben/ das ort darmit geschmieret. Es sollen auch in gemeldter Kugel-täschen zwölff oder mehr kuglen: jtem/ etliche gevierte stücklein eysen/ so man für hagel schiesset/ ligen: deßgleichen ist von nöhten eines schmutzlumpens/ die Musqueten darmit zu schmieren: man soll auch ein klein scharpff beyel an das Pandelier hencken/ so zum weg/ hütten zu machen/ zäun abzubrechen vnd zu anderen vilen dingen mehrnutz ist. Jtem/ zwo zeiglen oder raumnadlen auffzulüderen.
+  cs: |-
+    připraven o život. Malé řemínky jsou nejlepší z kůže, avšak horní nálože nemají viset tak nízko jako spodní. Nálože se mají každých 8 dní vyprázdnit, připečený prach z nich vysypat, rozetřít a znovu do nich nasypat. Na zadní straně bandalíru {Pandelier} má být železný kroužek, na který lze zavěsit tři kusy doutnáku {Lunden}, každý o délce jednoho sáhu {klaffter}.[^1] Nad tímto kroužkem má viset lahvička nebo baňka s olejem, aby se jím dal kohout {haanen} muškety {Musqueten} udržovat v lehkém chodu a hlaveň {Rohr} chránit před rzí. Na bandalíru má také viset pevná kapsa na koule, v níž má být půl svíčky, aby se jí dala pánvička muškety dokola zalepit a zápalný prach ochránit před deštěm. Svíčka je dobrá také k zahnání „vlka“ (s odpuštěním), namaže-li se jí to místo.[^2] V téže kapse má být dvanáct či více koulí {kuglen} a k tomu několik hranatých kousků železa, které se střílejí jako kartáč {hagel}. Rovněž je zapotřebí hadr s tukem {schmutzlumpens} k mazání muškety. Na bandalír se má zavěsit také malá ostrá sekyrka, která přijde vhod k prosekávání cesty, stavbě chýší, bourání plotů a k mnoha jiným věcem. Dále dvě jehly neboli vyčišťovací jehly {raumnadlen} k pročišťování [zápalu].
+- typ: nadpis
+  uroven: 3
+  de: Vom Kriegssack.
+  cs: O válečném vaku.
+- typ: odstavec
+  de: |-
+    Es kommt gar offt vnd dick/ daß man an ort vnd end zeucht da man nichts zu kauffen findt/ oder der Feind die Proviant abschneidet/ vnd sonsten mangel ist/ vnd sich ein Soldat offt auff acht oder mehr tag mit essen-speiß versehen muß/ alß mit Saltz/ Brot/ Käß/ Ancken oder Butter/ darzu man ein eygen trucken oder büchslein machen laßt: dann Fleisch fůhret vnd währet nicht so lang alß Käß. Jtem/ es soll ein Soldat jnsonderheit mit einem fläschlein voll Brandtenwein versehen seyn/ vnd löschet ein nußschalen voll desselben offt mehr dursts alß ein halb maaß Wasser. Der Kriegssack aber soll von läder seyn/ vnd groß/ damit man vil Proviant/ jtem/ Pulfer/ Lunden vnd Hembder dareyn thun/ vnd vor dem Wasser bewahren möge.
+  cs: |-
+    Velmi často se stává, že se táhne do míst, kde se nedá nic koupit, nebo nepřítel odřízne proviant {Proviant} či je jinak nouze, a voják se pak musí nezřídka na osm i více dní zásobit jídlem, totiž solí, chlebem, sýrem a máslem {Ancken oder Butter}, k čemuž si dává zhotovit zvláštní krabičku či pouzdérko {trucken oder büchslein}; maso se totiž tak dobře nenese a nevydrží tak dlouho jako sýr. Dále má být voják zvláště opatřen lahvičkou plnou pálenky; skořápka ořechu jí často uhasí víc žízně než půl mázu {maaß} vody. Válečný vak {Kriegssack} má být kožený a velký, aby se do něj vešlo hodně proviantu, též prach, doutnáky a košile, a byly v něm chráněny před vodou.
+- typ: nadpis
+  uroven: 3
+  de: Vom Dägen.
+  cs: O kordu.
+- typ: odstavec
+  de: |-
+    Die Musquetierer sollen kurtze vnd breite Plauten haben/ damit sie im geträng desto besser damit vnverhinderlich fechten mögen. Jst auch gut zum holtz/ hütten vnd weg machen.
+  cs: |-
+    Mušketýři {Musquetierer} mají mít krátké a široké tesáky {Plauten},[^3] aby se jimi v tlačenici mohli tím lépe a bez překážek bít. Hodí se také k sekání dřeva, stavění chýší a prosekávání cest.
+- typ: nadpis
+  uroven: 3
+  de: Von der Musqueten.
+  cs: O mušketě.
+- typ: odstavec
+  de: |-
+    Grosse/ schwäre Musqueten seind treffenlich gut hinder den Mawren vnd in den Höltzeren/ im Feld aber die leichten/ so zwey loth führen: dann je weniger der Mann vberwehret ist/ je fertiger vnd geschwinder derselbig ist.
+  cs: |-
+    Velké, těžké muškety se znamenitě hodí za hradbami a v lesích, v poli však lehké, které střílejí dvoulotovou kouli {zwey loth}; neboť čím méně je muž zatížen zbraní, tím je obratnější a rychlejší.
+- typ: nadpis
+  uroven: 3
+  de: Von Kuglen.
+  cs: O koulích.
+- typ: odstavec
+  de: |-
+    Alle Musquetierer einer Armaden sollen einerley loth vnd lauffkuglen
+  cs: |-
+    Všichni mušketýři jedné armády {Armaden} mají střílet koule jednoho kalibru {einerley loth}, a to volně běžící {lauffkuglen},[^4]
+poznamky:
+- n: 1
+  text: Sáh (Klafter) – asi 1,8 m.
+- n: 2
+  text: „Vlk“ (Wolf) – opruzenina, rozedřená kůže v rozkroku či mezi hýžděmi po dlouhém pochodu (srov. něm. „sich einen Wolf laufen“). Lůj ze svíčky slouží jako mast. „(rev.)“ = reverenter, „s odpuštěním“ (viz str. 49).
+- n: 3
+  text: Plaute – švýcarský výraz pro krátký, široký sečný meč (tesák); zde jako výklad k nadpisu „Dägen“ (kord, meč).
+- n: 4
+  text: Lauffkugel – koule o něco užší než vývrt, která do hlavně volně „běží“ a nemusí se zatloukat; proto se může nabíjet rychle.

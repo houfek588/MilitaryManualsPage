@@ -1,0 +1,50 @@
+id: 091
+list: '91'
+strana: recto
+sken: 137
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Glid A. Spießgesellen/ dem anderen Glid B. Rottgesellen/ vnd widerumb dem dritten A. Spießgesellen/ vnd also einem vmb den anderen Spieß- oder Rottgesellen den Nammen geben. Also/ wann du sprichst: Jhr Rottgesellen/ Rechts oder Lincks doppliert ewere Glider/ so gehet das ander Glid B. so Rottgesellen geheissen seind: vnd darnach das viert auch mit B. bezeichnet: vnd dann das sechßte/ so auch mit B. bezeichnet. Dise drey Glid seind Rottgesellen/ vnd die anderen drey Glid seind Spießgesellen/ so mit A. bezeichnet seind/ die sollen stehen bleiben. Also kanst du es mit den Reyen machen/ wann du den aussersten zur rechten seiten C. die Rott/ den anderen D. die gefreyte Rott/ vnd also fortan einen vmb den anderen Rott/ oder gefreyte Rott heissest. Doch hast du zu observieren/ wann du dein Volck mit dem gesicht zur rechten oder lincken hand wendest/ so machest alßdann auß den Glideren Rotten. So mach es also: Sprich/ jhr Spieß- oder jhr Rottgesellen/ rechts oder lincks dopplieret ewere Reyen oder Rotten/ so schickt es sich recht vnd wol. Also auff dise form kanst du 1000. vnd mehr Mann auff ein mal rüffen/ da ein jeder alßdann weißt daß es jhn antrifft/ vnd ohne vnordnung doppliert/ da hingegen das ander grosse verwirrung gebe/ vnd da 100. oder 200. in einem Glied seind/ die Officier hin vnd wider lauffen/ den so gehen oder stehen sollen/ anzeigen müßten/ so grosse vnordnung gebe. Wann du auch ein halbe Compagnie auß einer gantzen in einem augenblick haben wilt/ so sprich: jhr Rotten/ oder gefreyten Rotten marschieren her auß der Ordnung/ so bist schon fertig. Jn summa/ Jch befinde solches in allweg kommlicher alß das alte: doch einem jeden Narren gefallt sein kolben.
+  cs: |-
+    řadě {Glid} A dalo jméno „kopinní druhové“ {Spießgesellen}, druhé řadě B „rotní druhové“ {Rottgesellen}, třetí opět A „kopinní druhové“ a tak střídavě jedné po druhé jméno kopinních nebo rotních druhů.[^1] Když tedy řekneš: „Vy rotní druhové, vpravo (nebo vlevo) zdvojte řady“, vyjde druhá řada B, která se jmenuje rotní druhové, potom čtvrtá, také označená B, a pak šestá, rovněž označená B. Tyto tři řady jsou rotní druhové a ostatní tři řady, označené A, jsou kopinní druhové; ty mají zůstat stát. Stejně to můžeš udělat se zástupy {Reyen}, když krajní zástup na pravé straně C nazveš „rota“ {Rott}, druhý D „svobodná rota“ {gefreyte Rott} a tak dále střídavě jeden „rota“ a druhý „svobodná rota“. Musíš však dbát na to, že když svůj lid obrátíš tváří k pravé nebo levé ruce, uděláš tím z řad roty. Udělej to tedy takto: řekni „Vy kopinní“ nebo „vy rotní druhové, vpravo (vlevo) zdvojte zástupy neboli roty“, a tak se to hodí správně a dobře. Takto můžeš naráz zavolat 1000 i více mužů a každý pak ví, že se ho to týká, a zdvojuje bez zmatku; jinak by naproti tomu nastal velký zmatek, neboť když je v jedné řadě 100 nebo 200 [mužů], museli by důstojníci běhat sem a tam a ukazovat těm, kdo mají jít nebo stát, a to by způsobilo velký nepořádek. Chceš-li také z celé kompanie {Compagnie} v okamžiku mít polovinu, řekni: „Roty (nebo svobodné roty), vystupte ze šiku!“ a máš hotovo. Zkrátka: shledávám to v každém ohledu pohodlnějším než starý způsob; ale každému bláznu se líbí jeho palička.[^2]
+- typ: nadpis
+  uroven: 3
+  de: Von rechts vnd lincks vmb.
+  cs: O povelech „Vpravo v bok“ a „Vlevo v bok“.
+- typ: odstavec
+  de: |-
+    Mich duncket/ zu mehrerm verstand/ vnd daß das Landvolck solches desto ehender ergreiffe: man solle sagen/ gegen der rechten oder lincken hand halb vmb/ weil mancher nicht weißt/ ob es sonst gar vmb/ oder nur halb vmb ist/ das dann vil vnordnung machet.
+  cs: |-
+    Zdá se mi, že pro lepší porozumění, a aby to venkovský lid tím snáze pochopil, by se mělo říkat „přes pravou (levou) ruku napůl kolem“, protože mnohý neví, zda se jinak myslí úplně kolem, nebo jen napůl, a to pak působí mnoho zmatku.
+- typ: nadpis
+  uroven: 3
+  de: Von rechts vmbkehrt oder lincks vmbkehrt.
+  cs: O povelech „Vpravo čelem vzad“ a „Vlevo čelem vzad“.
+- typ: odstavec
+  de: |-
+    So halte ich besser man sage/ kehrt euch gar vmb/ welches ein jeder Grobianus wol verstehet/ vnd ist vnnöhtig viler Ceremonien/ auch mag man keinen grossen vnderscheid zwüschen lincks oder rechts vmbkehrt euch/ haben: derhalben auch vnvonnöhten das gemeine Volck so vil darmit zu plagen: vnd ist einem gemeinen Landvolck (welches mehr auff arbeiten/ alß auff zierlichkeit des Trüllens sihet) gnug/ wann sie die einfalt brauchen/ vnd jhr Gewehr wider den Feind ohne vilfaltige tritt vnd vbrige zierden nutzen/ vnd damit jhr Land defendieren mögen.
+  cs: |-
+    Pokládám za lepší říkat „obraťte se úplně kolem“, čemuž dobře rozumí každý hrubián; není třeba mnoha ceremonií a mezi „vlevo“ a „vpravo čelem vzad“ ani nelze shledat velký rozdíl. Proto je také zbytečné obecný lid tím tolik trápit; obecnému venkovskému lidu (který hledí víc na práci než na úhlednost drilu {Trüllen}) stačí, když se drží prostoty, užívá své zbraně {Gewehr} proti nepříteli bez mnohých kroků a zbytečných ozdob a může tak bránit svou zemi.
+- typ: nadpis
+  uroven: 3
+  de: 'Wann man spricht: Rechts/ lincks/ oder vorwerts beschliesset Reyen oder Glider.'
+  cs: 'Když se říká: „Vpravo, vlevo nebo vpřed sevřete zástupy či řady“.'
+- typ: odstavec
+  de: |-
+    So sprich gegen der rechten oder lincken hand/ oder fürsich/ beschliesset
+  cs: |-
+    Tehdy řekni: „Přes pravou nebo levou ruku, nebo před sebe sevřete
+poznamky:
+- n: 1
+  text: >-
+    Spießgesellen („kopinní druhové“) a Rottgesellen („rotní druhové“) jsou jen střídavá jména lichých (A) a sudých (B)
+    řad, aby se jedním slovem dalo velet polovině šiku; s výzbrojí nesouvisejí. Obdobně Rott a gefreyte Rott pro liché (C)
+    a sudé (D) zástupy; gefreyt = „vyznamenaný, privilegovaný“ (srov. Gefreiter, svobodník). Rott(e) zde znamená zástup
+    mužů stojících za sebou.
+- n: 2
+  text: >-
+    Přísloví „einem jeden Narren gefällt sein Kolben“ – kolben = bláznova palička (žezlo šaška); tj. každý si chválí své.

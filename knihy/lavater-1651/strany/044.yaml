@@ -1,0 +1,31 @@
+id: '044'
+list: '44'
+strana: verso
+sken: 78
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Feind/ inn- vnd ausserthalb der Guarnison/ zu Wasser vnd Land/ im Scharmützieren/ Convojieren/ Belägerungen/ Stürmen vnd Schlachten/ vnd wo es die Kriegs-Occasionen geben/ jederzeit ehrlich/ redlich/ Mannlich vnd dapffer (alß einem rechtgeschaffnen Kriegsmann gebürlichen zustehet) verhalten: Jnmassen/ Jch vnd alle meine nachgesetzten Officier ein sattsam vernügen vnd gefallen darab getragen. Wann es aber für dißmals sein gelegenheit nicht weiters bey besagter meiner Compagnie zu bleiben gewesen/ vnd er sein Avancement anderstwo zu suchen in endtlichen willen kommen/ mich deßwegen seines thuns vnd haltens vmb disen Schein vnd Passeport gebürendes fleisses angelangt vnd ersucht: Alß hab ich jhme solche nicht weigeren wöllen oder können/ sondern jhme gegeben völlige bezahlung vnd Passeport absolut. Gelangt derowegen an alle vnd jede/ weß Stands vnd Wesens die jmmer geseyn mögen/ mein vnderthänigst/ vnderthänig/ vnderdienst/ dienst vnd freundlich gesinnen/ obgemeldten N. N. wegen seines redlichen verhaltens/ durch dero Landen/ Stätt/ Vestungen/ Päß vnd Clausen/ nicht allein frey vnd sonder molest passieren vnd repassieren zu lassen/ sondern jhme auch allen gnädigst- gnädig geneigten vnd günstigen willen vnd fürderliche adresse widerfahren zu lassen. Solches vmb einen jeden respective zu verdienen bin ich so geneigt/ alß gut willens. Vnd dessen zu wahrer vrkundt/ etc.
+  cs: |-
+    němu, uvnitř i vně posádky {Guarnison}, na vodě i na souši, při šarvátkách, doprovodech, obléháních, útocích a bitvách a kdekoli to válečné příležitosti přinesly, vždy choval čestně, poctivě, mužně a statečně (jak se na řádného válečníka náleží), takže jsem já i všichni moji podřízení důstojníci z toho měli plné potěšení a zalíbení. Protože mu však tentokrát nebylo příhodné zůstat déle v mé řečené kompanii {Compagnie} a pevně se rozhodl hledat své povýšení {Avancement} jinde, a proto mne s náležitou pílí požádal o toto osvědčení {Schein} a průvodní list {Passeport} o svém počínání a chování, nechtěl jsem ani nemohl mu je odepřít, nýbrž jsem mu dal úplné vyplacení a bezvýhradný průvodní list. Obracím se proto na všechny a každého, ať jsou jakéhokoli stavu a postavení, s nejponíženější, poníženou, poddanou, služebnou a přátelskou žádostí [každému podle jeho stavu], aby výše jmenovaného N. N. pro jeho poctivé chování nejen volně a bez obtěžování nechali projít a vrátit se svými zeměmi, městy, pevnostmi, průsmyky a soutěskami, nýbrž aby mu také prokázali všechnu nejmilostivější, milostivou, nakloněnou a příznivou vůli a nápomocné doporučení. Abych to každému podle jeho postavení oplatil, jsem stejně tak nakloněn jako ochoten. A na pravé svědectví toho atd.
+- typ: nadpis
+  uroven: 3
+  de: Ein andere form einer Passeporten.
+  cs: Jiný vzor průvodního listu.
+- typ: odstavec
+  de: |-
+    Jch N. N. Hauptmann/ etc. vnder deß N. Regiment/ etc. in dienst der N. etc. vnd Commando deß N. N. etc. Bekenn/ etc. daß der N. N. etc. für einen N. vnder meiner Compagnie gedienet/ vnd sich alß einem Soldaten gebüret/ redlich vnd dapffer verhalten/ etc. Nachdem vnd aber jetzt das Regiment seiner Diensten bevrlaubet/ vnd er N. mich solches seines verhaltens hälber vmb einen ehrlichen abscheid vnderdienstlich ersucht/ so ich mich schuldig gegen jhme erkennt hab/ wie daß er N. mit meinem guten consens von mir vnd der Compagnie seinen abscheid genommen/ auch sich alß einem redlichen Soldaten gebürt/ verhalten. Darumb ich jhme zu ehren vnd befürderung geneigt bin. Gelangt/ etc.
+  cs: |-
+    Já N. N., hejtman atd., v pluku N. atd., ve službách N. atd. a pod velením N. N. atd., vyznávám atd., že N. N. atd. sloužil v mé kompanii jako N. a choval se poctivě a statečně, jak se na vojáka sluší, atd. Poněvadž však nyní byl pluk ze služby propuštěn {bevrlaubet} a řečený N. mne pro takové své chování služebně požádal o čestné propuštění {abscheid}, k čemuž jsem se vůči němu uznal povinen, [osvědčuji,] že řečený N. s mým dobrým svolením ode mne i od kompanie odešel a choval se, jak se na poctivého vojáka sluší. Proto jsem mu nakloněn ke cti a podpoře. Obracím se atd.
+- typ: nadpis
+  uroven: 2
+  de: Von dem Vorfendrich/ dessen Ampt vnd Eyd.
+  cs: O podpraporečníkovi {Vorfendrich}, jeho úřadu a přísaze.
+- typ: odstavec
+  de: |-
+    Sein Ampt ist dem Fendrich das Fendlein im marchieren nach zutragen/ doch nicht für den Feind: Er soll auch die Gefreyten auff Zug vnd Wacht commandieren/ vnd jhnen jhr Kraut/ Loth vnd Commiß außtheilen: die krancken vnd beschädigten vnderbringen vnd versorgen/ doch mit verwilligung des Capitains. Wo auch einer mit tod abgienge/ selbigen zur Erden bestatten lassen: vnd im commandieren soll er sich gegen den Soldaten gleichfals ernsthafft mit der straaff der anderen erzeigen.
+  cs: |-
+    Jeho úřadem je nosit za praporečníka {Fendrich} na pochodu praporec {Fendlein}, ne však před nepřítelem. Má také velet svobodníkům {Gefreyten} na pochodu a na stráži a rozdělovat jim prach {Kraut}, olovo {Loth} a komis {Commiß}; nemocné a raněné má umisťovat a opatrovat, ovšem se svolením hejtmana {Capitains}. Zemře-li někdo, má ho dát pohřbít; a při velení se má vůči vojákům rovněž projevovat přísně a trestat jako ostatní [důstojníci].

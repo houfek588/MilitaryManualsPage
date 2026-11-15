@@ -1,0 +1,83 @@
+id: basne-2
+list: básně
+strana: verso
+sken: 16
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: 'Poetische Trachtungen/ An Den Herren Autorn dises Bůchs: Vber Die Vatterländischen Erfinder/ etlicher vornehmen Martialischen Kunst-stucken.'
+  cs: 'Básnické úvahy pro pana autora této knihy: o vynálezcích z naší vlasti a o několika jejich znamenitých válečných mistrovských dílech'
+- typ: verse
+  de:
+  - 'GAr recht; Herr Lavater; bequemt jhr euch den Zeiten:'
+  - 'Dann da wir rings herumb nichts hören dann von streiten/'
+  - 'Bringt jhr ein Manual; darauß des Marsen Kunst'
+  - 'Vnd Griff zu lehrnen sind. Diß wird euch schaffen gunst/'
+  - 'Bey der Heroën Chor; zů deren Gnad diß Bůche'
+  - 'Jn vnderthänigkeit thůt wander''n/ daß es sůche'
+  - 'Weß ihr wol wirdig seyt. Jch wünsch euch gůten Wind/'
+  - 'Damit der Sägel bald glückhafften Vfer find.'
+  - 'Wann aber ich mein Lieb euch sol/ in Versen/ weisen:'
+  - 'So vnderzeuch ich mich das Vatterland zů preisen/'
+  - 'Die sinn-reich Nation/ die keiner andern weicht:'
+  - 'Die mit Jnvention ein hohes Lob erreicht/'
+  - 'Von Spieß vnd Fäder-kiel. Der Tiguriner Fälde'
+  - 'Fürwar auch flüssig sind; deß gibt vns ein gemählde'
+  - 'Die Alte Zeit/ vnd jhr getrewe Schirmerin'
+  - 'Die schön Historta: doch ziel ich nicht dahin/'
+  - 'Jch bring was heutig ist. Solt nicht dich Zürich schmucken?'
+  - 'Der Alte Eberhard mit seinen Läder-stucken/'
+  - 'Vnd Brändlj sein Gebilff; die nicht auß Schweden her'
+  - 'Zü vns erst kommen sind: von vns hineyn vil mehr.'
+  - 'Wie in Geometrey Ardüser sey erfahren/'
+  - 'Das hat sein nutzlich Bůch bezeugt vor etlich Jahren:'
+  - 'Erfindung mancherley bestatet es bißhar:'
+  - 'Vnd mehrers wird die Zeit noch machen offenbar.'
+  - 'Drauff folget in der Rey der harte Niter speüwer/'
+  - 'Ein Corpus so formiert/ durch Kunst im hellen feüwer/'
+  - 'Von Eysen/ ohne Pferd gar leicht zu bringen fort/'
+  - 'Wo man es haben wil/ auch in die höchsten ort.'
+  cs:
+  - 'Zcela správně, pane Lavatere, řídíte se dobou:'
+  - 'když všude kolem slyšíme jen o bojích,'
+  - 'přinášíte příručku, z níž Martovo umění'
+  - 'a jeho hmaty lze se naučit. To vám zjedná přízeň'
+  - 'u sboru hrdinů,[^1] k jejichž milosti tato kniha'
+  - 'v poddanosti putuje, aby tam hledala,'
+  - 'čeho jste plně hoden. Přeji vám příznivý vítr,'
+  - 'ať plachta brzy šťastný břeh nalezne.'
+  - 'Mám-li vám však ve verších svou lásku projevit,'
+  - 'podjímám se chválit naši vlast,'
+  - 'důmyslný národ, jenž žádnému jinému neustoupí,'
+  - 'jenž vynalézavostí vysoké chvály dosáhl'
+  - 'kopím i brkem. Pole Tigurinů[^2]'
+  - 'jsou věru také plodná;[^3] o tom nám obraz podává'
+  - 'dávný věk a jeho věrná ochránkyně,'
+  - 'krásná Historie: já však nemířím tam,'
+  - 'přináším, co je dnešní. Což by tě, Curychu, nezdobil'
+  - 'starý Eberhard se svými koženými děly'
+  - 'a Brändli, jeho pomocník? Ta děla nepřišla ze Švédska'
+  - 'teprve k nám, nýbrž mnohem spíš od nás tam.[^4]'
+  - 'Jak zkušený je v geometrii Ardüser,'
+  - 'dosvědčila před lety jeho užitečná kniha;[^5]'
+  - 'rozmanité vynálezy to dosud potvrzují'
+  - 'a ještě víc čas teprve vyjeví.'
+  - 'Pak v řadě následuje tvrdý chrlič ledku,[^6]'
+  - 'těleso tak zformované uměním v jasném ohni,'
+  - 'ze železa, bez koně zcela snadno k převezení,'
+  - 'kam si kdo přeje, i na nejvyšší místa.'
+poznamky:
+- n: 1
+  text: 'Heroën Chor – „sbor hrdinů“, tj. curyšští páni (purkmistři, tajní a váleční radové), jimž je knížka věnována.'
+- n: 2
+  text: 'Tigurini – helvétský kmen (pagus Tigurinus) zmiňovaný Caesarem; humanisté jeho jméno přenesli na Curych (lat. Tigurum), „Tiguriner“ = Curyšané.'
+- n: 3
+  text: 'Sporné: „flüssig“ zde patrně ve smyslu „hojné, výnosné, úrodné“ (pole Tigurinů jsou plodná – metafora pro zemi plnou nadaných lidí); doslova „tekoucí, plynoucí“.'
+- n: 4
+  text: 'Kožená děla (lehká děla s tenkostěnnou měděnou hlavní obalenou kůží a provazy) proslavilo švédské vojsko Gustava II. Adolfa kolem 1627–1631. Básník tvrdí, že je dříve vyrobili curyšští mistři Eberhard a Brändli a do Švédska se vynález dostal až od nich. Doslova: „nepřišla k nám teprve ze Švédska, (nýbrž) od nás tam, mnohem spíše“.'
+- n: 5
+  text: 'Johann Ardüser (1585–1665), curyšský matematik a pevnostní inženýr, autor „Geometriae theoricae et practicae XII libri“ (Curych 1627) a „Architectura von Vestungen“ (1651).'
+- n: 6
+  text: '„Niter“ = ledek (sanytr), hlavní složka střelného prachu; „Niter-speüwer“ (chrlič ledku) je básnický opis děla. Následující verše (i na další straně) popisují železné dělo skládané z mnoha šroubovaných článků, snadno přenosné bez koňského potahu – typ dělené (rozkládací) hlavně.'

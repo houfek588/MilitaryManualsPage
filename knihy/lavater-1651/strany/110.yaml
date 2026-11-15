@@ -1,0 +1,42 @@
+id: '110'
+list: '110'
+strana: verso
+sken: 156
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Regimentsstücklein zu ruck gehalten. Kommt es aber daß der Feind dein Fußvolck zu ruck schlaget/ so hast du noch das Hauptgeschütz zu deinem hinderhalt/ vnd haben sich deine Reuter (inzwüschen das Fußvolck gefochten) widerumb versamlet/ vnd in ordnung hinder das Geschütz/ wie V. die groß zahl anzeiget/ gestellet: Du kanst dein Fußvolck mit dem grossen Orgelgeschütz/ so mit hagel geladen/ dermassen entsetzen/ also/ so der Feind vermeint/ daß du allbereit geschlagen seyest/ vnd vngeachtet des Geschützes daher tringet/ er also empfangen wird/ vnd nach abschiessung des grossen Geschützes widerumb auffs new durch die Reuterey angegriffen vnd zu ruck; dein Fußvolck aber widerumb zusammen gebracht/ vnd auff das new der Feind mit einem grausamen geschrey angegriffen vnd in die flucht geschlagen wird. Man soll aber in solchem fechten insonderheit auff den wind sehen: vnd da der Feind den gegenwind hat/ etlich vil/ ja vast vber die 100. säck mit gerädener äschen vnd vngelöschtem reinem Kalck/ die man auff Wägen mit führen soll/ in dem man das Hauptgeschütz abschiesset/ außschütten/ welches einen solchen staub vnd rauch verursachet/ daß der Feind darvor nicht sehen mag/ solches auch jhme in die augen vnd halß stiebet/ vnd dareyn beisset/ also daß er meint zu verschmachten. Jn währendem solchem wesen/ solt du alßdann grausam schreyen vnd schiessen/ jhme in die seiten fallen/ vnd seine Ordnung verwirren/ auch etlichen befehlen/ die da schreyen sollen/ sie weren geschlagen/ damit den vordersten ein forcht eynzujagen. Es sollen auch vil Krüg mit Pulfer gefüllt/ vnd außwendig mit brennenden Lunden behenckt/ sampt vilen fůß- vnd lämeysen geworffen werden/ so grossen schaden thut/ etc. Du solt aber deine Reuter-Trouppen nicht höher alß 5. hoch machen. Vnd ist der heutige Kriegsbrauch/ daß man nicht mehr alß 500. Mann in einen hauffen stellet: doch will ich einem jeglichen Doctor sein Kapp vorbehalten.
+  cs: |-
+    plukovními dělky {Regimentsstücklein}. Stane-li se však, že nepřítel tvou pěchotu zatlačí, máš ještě v záloze {hinderhalt} hlavní dělostřelectvo {Hauptgeschütz} a tví jezdci se (zatímco pěchota bojovala) opět shromáždili a seřadili za děly, jak ukazuje velké číslo V. Svou pěchotu můžeš velkým varhanovým dělem {Orgelgeschütz}, nabitým kartáči {hagel}, vystřídat [a krýt] tak, že když nepřítel míní, že už jsi poražen, a bez ohledu na děla se žene vpřed, bude takto přivítán a po výstřelu z velkých děl znovu napaden jízdou a zatlačen; tvá pěchota se však opět shromáždí a nepřítel bude s hrozným pokřikem znovu napaden a obrácen na útěk. Při takovém boji je však třeba zvláště dbát na vítr: má-li nepřítel vítr proti sobě, má se ve chvíli, kdy se pálí z hlavních děl, vysypat drahně, ba skoro přes 100 pytlů prosetého popela a čistého nehašeného vápna, které se mají vézt s sebou na vozech; to způsobí takový prach a dým, že nepřítel přes ně nevidí, a navíc mu to práší do očí a do hrdla a štípe, až myslí, že zhyne. Během toho máš pak strašlivě křičet a střílet, vpadnout mu do boku a rozvrátit jeho šik, a také některým nařídit, aby křičeli, že [nepřátelé] jsou poraženi, a nahnali tak předním [řadám] strach. Také se má házet mnoho džbánů naplněných prachem a zvenku ověšených hořícími doutnáky {Lunden}[^1], spolu s mnoha nášlapnými a ochromovacími železy {lämeysen}, což působí velkou škodu atd. Své jezdecké houfy {Reuter-Trouppen} však nemáš dělat hlubší než 5 [řad]. A dnešní válečný obyčej je, že se do jednoho houfu nestaví víc než 500 mužů; ponechávám však každému doktorovi jeho čepici[^2].
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Die zehende Battaille oder Schlachtordnung/ etlicher Regimenteren zu fůß.
+  cs: Desátý šik {Battaille} neboli bitevní sestava několika pěších pluků
+- typ: odstavec
+  de: |-
+    Wann du 11. Regimenter zu fůß hast/ vnd dich damit in ein Schlachtordnung begeben müst/ vnd alle Regiment in einer Fundamentsordnung/ jedes absonderlich von dem anderen vnderscheiden/ neben einanderen marschieren/ das vnd Hauptgeschütz in der mitte stehet/ vnd du ein Schlachtordnung darauß machen wilt/ wie die groß zahl I. außweißt/ so marschier deß ersten mit dem grossen Geschütz vorher/ vnd stelle dasselbige für die Ordnung: alßdann marschiere mit den 5. Regimentern/ so mit 2. 4. 6. 8. vnd 10. bezeichnet/ vnd lasse die vbrigen Regimenter in jhrer Ordnung vnd Distantz halten.
+  cs: |-
+    Máš-li 11 pěších pluků {Regimenter} a musíš-li s nimi zaujmout bitevní šik, a pochodují-li všechny pluky vedle sebe v základním šiku {Fundamentsordnung}, každý zvlášť oddělen od druhého, a hlavní dělostřelectvo stojí uprostřed, a chceš-li z toho utvořit bitevní šik, jak ukazuje velké číslo I[^3], vytáhni nejprve s velkými děly napřed a postav je před šik; potom vytáhni s 5 pluky označenými 2, 4, 6, 8 a 10 a ostatní pluky nech stát v jejich šiku a rozestupu {Distantz}.
+- typ: nadpis
+  uroven: 3
+  de: Wie man solche Schlachtordnung im fechten brauchen solle.
+  cs: Jak se má takový bitevní šik použít v boji
+- typ: odstavec
+  de: |-
+    Wann der Feind mit grossen Stücken auff dich kommt/ oder dich damit anzugreiffen begert/ so solt du dich mit deinem Geschütz auch gegen jhme
+  cs: |-
+    Táhne-li na tebe nepřítel s velkými děly {Stücken} nebo tě jimi chce napadnout, máš se se svými děly také proti němu
+poznamky:
+- n: 1
+  text: |-
+    Džbány s prachem a doutnáky jsou improvizované ruční granáty – srov. „Sturmhäfelein vnd Krüg“ v Druhém dílu (s. 70); tamtéž i „Lämeysen“ (ochromovací železa, železní ježci proti koním a pěším).
+- n: 2
+  text: |-
+    Rčení „einem jeden Doctor sein Kapp vorbehalten“ – ponechat každému doktorovi jeho čepici, tj. nechat každému znalci jeho vlastní názor.
+- n: 3
+  text: |-
+    Tisk zde neuvádí číslo mědirytiny; jde o šestou mědirytinu (v této edici tab-12), kde pod číslem I stojí řada děl a před ní pluky 2, 4, 6, 8 a 10.

@@ -1,0 +1,28 @@
+id: '127'
+list: '127'
+strana: recto
+sken: 173
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    stellt/ so mit Erden außgefüllt werden/ vnd stehen die Schantzkörb hart an einanderen/ so lang ein linea seyn solle: also werden auff dise form auch Lauffgräben gemachet/ vnd werden just gegen einer gesichtlinien/ oder puncten eines Bollwercks biß an die Contrascarp gemachet: man soll auch sehen/ daß man die Reducten auff ein erhaben ort lege.
+  cs: |-
+    postaví a vyplní zeminou; šancovní koše {Schantzkörb} stojí těsně vedle sebe po celé délce, jakou má linie mít. Tímto způsobem se dělají i aproše {Lauffgräben}, a to přesně proti čelu {gesichtlinien} nebo hrotu bašty až ke kontreskarpě {Contrascarp}. Má se také dbát, aby se reduty kladly na vyvýšené místo.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Von den Battereyen/ wo/ vnd wie man sie ordnen solle.
+  cs: O bateriích, kde a jak je zřizovat.
+- typ: odstavec
+  de: |-
+    So bald man anfanget zu approchieren/ pfleget man Battereyen auffzuwerffen/ damit man die Arbeiter defendieren/ vnd der belägerten außfäll verhinderen möge. Es werden aber die Battereyen dergestalt erhaben/ daß man darvon mit den Stucken/ die Brustwehrinen auff dem Wal vnd Bollwercken der Vestung beschiessen/ vnd darnach der belägerten Battereyen ruinieren vnd verderben möge: Sie werden auch nach gestalt vnd höhe des Wals der Vestung erhaben: dergestalten/ daß die Stück ein schuh oder zween nidriger treiben weder das oberste theil der Brustwehr ist/ vnd soll das Stück von 13. graden erhaben stehen/ je nach dem die distantz ist/ vnd da man noch weit ist/ darff man die Batterey nicht hoch erheben: wo du aber nah kommest/ so solt du sie erheben nach advenant. Man stellt meistentheil 4. oder 5. halbe Carthaunen auff ein Batterey: wie breit vnd lang man aber dieselbigen sampt deren Brustwehr/ vnd die schießlöcher mache/ hast du allbereit vornen im ersten Büchlein von einer Vestung gehöret. Die seiten der Battereyen solt du auch mit Schantzkörben oder Erden bedecken. Vnder den Battereyen hat man die Kuglen/ Pulfer vnd andere nohtwendigkeit. Ein Constabel misset das Pulfer dar/ vnd liferet die Kuglen zu sampt einem Edelmann vom Geschütz. Man haltet auff der Batterey ein Schiltwacht/ so die Constabels wahrnet/ wann von des Feinds Batterey fewr auffgehet: dann durch das mittel/ eh das Stück loß gehet/ kan man auff das gesicht sich nider lassen/ vnd dem schuß vnd kuglen entgehen: Es soll auch kein Constabel schiessen/ oder etwas für sich selbsten thun/ es werde jhme dann dasselbig vom Edelmann vom Geschütz befohlen: die Amunition soll bedeckt seyn mit Rosshärinen deckenen. Man soll einen Graben vmb die Munition machen/ damit niemand darzu lauffe: der Gang auff die Batterey ist abhanget/ vnd verlieret sich nach vnd nach von der Batterey biß auff den boden hinab/ damit man mit Stücken hinauff fahren möge: man führt auch vmb die Batterey einen tieffen Graben. Die Battereyen werden je eine gegen der anderen gerichtet/ damit man einen Creutzschuß thun möge. Wo man auff den rand des Grabens batteriert/ so pfleget man die Battereyen nicht erheben: man leget die brätter auff der Batterey vberzwerch von eychenem oder von lindenem holtz 12. schuh in die länge/ vnd auch 15. schuh/ vnd darhinder von reyßgeflochtene hurden.
+  cs: |-
+    Jakmile se začne přibližovat {approchieren}, bývá zvykem navršit baterie {Battereyen}, aby jimi bylo lze chránit dělníky a bránit výpadům obléhaných. Baterie se však zvedají tak vysoko, aby se z nich dalo děly ostřelovat předprsně {Brustwehrinen} na valu a baštách pevnosti a potom rozbít a zničit baterie obléhaných. Zvedají se také podle tvaru a výšky valu pevnosti, a to tak, aby děla mířila o stopu či dvě níže, než je nejvyšší část předprsně; a dělo má mít náměr 13 stupňů[^1] podle toho, jaká je vzdálenost. Jsi-li ještě daleko, nemusíš baterii stavět vysoko; když se však přiblížíš, máš ji úměrně zvýšit. Na jednu baterii se staví většinou 4 nebo 5 půlkartoun {halbe Carthaunen}; jak široké a dlouhé se dělají i s předprsní a střílnami, jsi už slyšel výše v první knížce o pevnosti. Boky baterií máš také krýt šancovními koši nebo zeminou. Pod bateriemi se mají koule, prach a jiné potřeby. Konstábl {Constabel} odměřuje prach a spolu se šlechticem od dělostřelectva[^2] {Edelmann vom Geschütz} vydává koule. Na baterii se drží stálá stráž {Schiltwacht}, která konstábly varuje, když na nepřátelské baterii vyšlehne oheň; tak lze, dříve než dělo vystřelí, padnout tváří k zemi a vyhnout se ráně a koulím. Žádný konstábl také nemá střílet ani nic dělat sám od sebe, leda by mu to přikázal šlechtic od dělostřelectva. Munice má být přikryta žíněnými houněmi. Kolem munice se má vykopat příkop, aby k ní nikdo nepřibíhal. Výstup na baterii je svažitý a pozvolna klesá od baterie až k zemi, aby se po něm dalo vyvézt děla; kolem baterie se také vede hluboký příkop. Baterie se vždy namíří jedna proti druhé, aby bylo možné vést křížovou palbu {Creutzschuß}. Kde se baterie zřizuje na okraji příkopu, nebývá zvykem ji zvedat. Na baterii se kladou napříč prkna z dubového nebo lipového dřeva, 12, ale i 15 stop dlouhá, a za ně lísy spletené z proutí {reyßgeflochtene hurden}.
+poznamky:
+- n: 1
+  text: '„von 13. graden erhaben“ – zvednuto (elevováno) o 13 stupňů; míněny patrně stupně dělostřeleckého kvadrantu.'
+- n: 2
+  text: 'Edelmann vom Geschütz (franc. gentilhomme de l’artillerie) – urozený dělostřelecký důstojník, který velí baterii a jejím konstáblům.'

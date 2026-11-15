@@ -1,0 +1,41 @@
+id: '054'
+list: '54'
+strana: verso
+sken: 88
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    glid/ den Marckt auff- vnd ab/ den Wachtschlag schlagen: im dritten mal aber der Compagnie (so die Hauptwacht hat) marsch/ vnd darauff ein jeder seiner eygenen Nation marsch biß er zu seiner Compagnie oder Volck kommt/ vnd also sein Volck auff die Wachtposten geführet hat/ schlagen.
+  cs: |-
+    řadě {glid} projdou náměstím nahoru a dolů a bubnují strážní signál {Wachtschlag}; potřetí však bubnují pochod {marsch} té kompanie {Compagnie}, která má hlavní stráž, a potom každý pochod svého vlastního národa {Nation}, dokud nedojde ke své kompanii či mužstvu a neodvede je tak na strážní stanoviště.
+- typ: nadpis
+  uroven: 3
+  de: Wie sich die Wachtmeister auff der Paraden verhalten sollen.
+  cs: Jak si mají při parádě počínat vachmistři.
+- typ: odstavec
+  de: |-
+    Es gehet von jeder Compagnie/ so vil deren in der Guarnison ligen/ ein Wachtmeister vmb Wachtzeit auff den Marckt. Wann nun die Trommel schlaget/ gehen sie zusammen in einen ring/ vnd der Major in die mitte desselben/ der hat in seinem Hůt die Zedel/ darauff die Wachtposten verzeichnet seind: alßdann greifft je ein Wachtmeister vmb den anderen; gleich alß in einen Glückhafen; in den Hůt/ vnd zeucht einen Zedel herauß: Hierauff gehet ein jeder/ nach außweisung desselben/ zu seinem Volck/ stellet dasselbig in die Ordnung/ vnd gibt dem Corporalen den Zedel/ laßt die Trommel rühren/ vnd stellet sich für die Ordnung/ wendet sich gegen derselben vmb/ zeucht den Hůt ab/ marschiert allgemach vorher/ vnd führet das Volck auff den Marckt/ da dann die Musquetierer auff dem Marckt zu der rechten hand halten/ vnd neben denselben die Spieß auff der lincken seiten eyngehen: wann dann der Gubernator das Volck besichtiget/ so marschiert ein jeder Wachtmeister mit seinem Volck auff seinen Wachtposten/ dahin er bescheiden ist.
+  cs: |-
+    Z každé kompanie, kolik jich v posádce {Guarnison} leží, jde v čase stráže jeden vachmistr {Wachtmeister} na náměstí. Když pak zazní buben, sestoupí se do kruhu a major {Major} se postaví doprostřed; ten má ve svém klobouku lístky {Zedel}, na nichž jsou vypsána strážní stanoviště. Potom sahá jeden vachmistr po druhém do klobouku – jako do osudí {Glückhafen} – a vytáhne lístek. Nato jde každý podle toho, co lístek ukazuje, ke svému mužstvu, postaví je do šiku {Ordnung}, dá lístek desátníkovi {Corporalen}, dá zabubnovat, postaví se před šik, obrátí se k němu, smekne klobouk, vykročí zvolna v čele a vede mužstvo na náměstí. Tam se mušketýři {Musquetierer} drží po pravé ruce a pikenýři {Spieß} nastupují vedle nich na levé straně. Když pak guvernér {Gubernator} mužstvo prohlédne, odpochoduje každý vachmistr se svými lidmi na strážní stanoviště, kam je určen.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie sich ein Schreiber vnd Capitain des Armes auff der Parade verhalten solle.
+  cs: Jak si má při parádě počínat písař a správce zbraní.
+- typ: odstavec
+  de: |-
+    Sie sollen sich alle Wachtszeit auff der Parade finden lassen. Der Schreiber hat ein verzeichnuß aller der jenigen/ so wachen sollen/ dise lißt er ab: vnd da der ein vnd ander abwesend ist/ schreibt er solchen auff/ damit er denselbigen dem Leutenammt anzeigen vnd zur geborsame bringen möge. Wann auch der ein oder ander gestorben/ kranck oder außgerissen were/ so nimmt der Capitain des Armes oder Rüstmeister desselben Gewehr zu seiner hand/ damit er dem Capitain rechenschafft geben möge. Sie gehen auch gliderweis von einem zum anderen/ visitieren jhr Gewehr vnd Rüstung/ Kraut vnd Loth/ vnd da mangel erscheint/ schreibts der Schreiber auff/ damit der mangel ersetzt/ vnd der Soldat durch den Rüstmeister hierzu mit ernst gehalten werden könne.
+  cs: |-
+    Mají se v čase stráže vždy dostavit na parádu {Parade}. Písař {Schreiber} má soupis všech, kdo mají držet stráž, a ten předčítá; chybí-li ten či onen, zapíše si ho, aby ho mohl ohlásit poručíkovi {Leutenammt} a přivést k poslušnosti. Kdyby také ten či onen zemřel, onemocněl nebo zběhl, vezme správce zbraní {Capitain des Armes} neboli mistr výzbroje {Rüstmeister} jeho zbraň k sobě, aby z ní mohl hejtmanovi {Capitain} vydat počet. Procházejí také řadu po řadě od jednoho k druhému a prohlížejí jejich zbraně a zbroj, prach a olovo {Kraut vnd Loth}; a kde se ukáže nedostatek, zapíše to písař, aby byl nedostatek nahrazen a aby správce zbraní mohl vojáka k nápravě přísně přidržet.
+- typ: nadpis
+  uroven: 3
+  de: Wie sich ein Corporal auff der Parade verhaltet.
+  cs: Jak si má při parádě počínat desátník.
+- typ: odstavec
+  de: |-
+    Er soll so bald jhme von dem Wachtmeister der Wachtzedel gebracht wird/ seine Rottgesellen/ so Schiltwacht halten/ oder holtz zum fewr holen sollen/ bey zeiten commandteren/ damit die frömbden Schiltwachten bey guter zeit abgelößt werden. Jm marschieren gehet er zuvorderst auff der rechten hand im ersten glid: die Soldaten fraget er/ ob sie auch genugsam mit Kraut vnd Loth versehen seyen: vnd da mangel/ zeigt er solches dem Capitain des Armes an/ damit er verschaffung thue.
+  cs: |-
+    Jakmile mu vachmistr přinese strážní lístek {Wachtzedel}, má včas určit své druhy z roty {Rottgesellen}, kteří mají držet stálou stráž {Schiltwacht} nebo přinést dřevo na oheň, aby byly stálé stráže jiné kompanie včas vystřídány. Na pochodu jde úplně vpředu po pravé ruce v první řadě. Vojáků se ptá, zda jsou dostatečně opatřeni prachem a olovem, a je-li nedostatek, ohlásí to správci zbraní, aby zjednal nápravu.

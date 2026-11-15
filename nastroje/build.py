@@ -103,15 +103,13 @@ def norm_de(s):
     return re.sub(r'[^a-z]', '', s)
 
 
-def poradi(kniha_dir, meta):
-    front = meta.get('predsadka', [])
-    ids = [f.stem for f in (kniha_dir / 'strany').glob('*.yaml')]
-
-    def key(i):
-        if i in front:
-            return (0, front.index(i))
-        return (1, int(i[:3]) * 2 + (i[3] == 'v'))
-    return sorted(ids, key=key)
+def poradi(kniha_dir, meta=None):
+    """Pořadí stran edice = pořadí skenů (pole `sken`); funguje pro foliaci i stránkování."""
+    klice = []
+    for f in (kniha_dir / 'strany').glob('*.yaml'):
+        m = re.search(r'^sken:\s*(\d+)', f.read_text(encoding='utf-8'), flags=re.M)
+        klice.append((int(m.group(1)) if m else 10 ** 6, f.stem))
+    return [i for _, i in sorted(klice)]
 
 
 def build_kniha(kniha_dir):
@@ -197,6 +195,14 @@ def build_kniha(kniha_dir):
                 vys.append(dict(b=bi, k=('…' if a else '') + cs[a:hit.start()], h=hit.group(0),
                                 z=cs[hit.end():z] + ('…' if z < len(cs) else '')))
         hesla.append(dict(id=h['id'], cs=h['cs'], de=h.get('de', []), kat=h.get('kategorie'), pozn=h.get('pozn', ''), v=vys))
+    # hesla bez výskytu v této knize (sdílený glosář) na web nedávat; odkazy {Termín} na ně by vedly do prázdna
+    pouzite_termy = set()
+    for b in blocks:
+        for m in re.finditer(r'\{([^}]*)\}', json.dumps(b.get('cs'), ensure_ascii=False)):
+            pouzite_termy.add(de_map.get(norm_de(m.group(1).split('/')[0])) or de_map.get(norm_de(m.group(1))))
+    hesla = [h for h in hesla if h['v'] or h['id'] in pouzite_termy]
+    zustava = {h['id'] for h in hesla}
+    de_map = {k: v for k, v in de_map.items() if v in zustava}
 
     # ---- obrázky
     out = DOCS / meta['id']
@@ -219,6 +225,7 @@ def build_kniha(kniha_dir):
     html = html.replace('{{WEB}}', esc(PROJEKT['nazev'])).replace('{{EMAIL}}', esc(PROJEKT['email']))
     html = html.replace('{{SOCIALNI}}', socialni_html())
     html = html.replace('{{VERZE_WEBU}}', esc(PROJEKT.get('verze')))
+    html = html.replace('{{SKEN_ZDROJ}}', esc(meta['sken'].get('paticka') or ('Sken: ' + meta['sken'].get('instituce', ''))))
     html = html.replace('{{PREDMET}}', urllib.parse.quote(f"{meta['nazev']} – oprava"))
     (out / 'index.html').write_text(varovani(html, 'nastroje/web/kniha.html (texty knihy v knihy/<kniha>/)'), encoding='utf-8')
     print(f"web {PROJEKT.get('verze')} · {meta['id']}: {len(pages)} stran (ověřeno člověkem {data['overeno']}), {len(blocks)} bloků, {len(sections)} oddílů, {len(hesla)} hesel, data.js {len(js) // 1024} kB, {stats}")
