@@ -10,173 +10,118 @@ bloky:
   de: N.
   cs: N.
 - typ: odstavec
-  de: |-
-    Neutral, Neutralitet, Vnpartheyisch.
-  cs: |-
-    Neutral, Neutralitet – nestranný.
+  de: Neutral, Neutralitet, Vnpartheyisch.
+  cs: Neutral, Neutralitet – nestranný.
 - typ: nadpis
   uroven: 3
   de: O.
   cs: O.
 - typ: odstavec
-  de: |-
-    Offensivè, Feindlich/ mit gewalt.
-  cs: |-
-    Offensivè – nepřátelsky, násilím.
+  de: Offensivè, Feindlich/ mit gewalt.
+  cs: Offensivè – nepřátelsky, násilím.
 - typ: odstavec
-  de: |-
-    Officier, Befelchshaber.
-  cs: |-
-    Officier – velitel.
+  de: Officier, Befelchshaber.
+  cs: Officier – velitel.
 - typ: nadpis
   uroven: 3
   de: P.
   cs: P.
 - typ: odstavec
-  de: |-
-    Parallel, Gleichlinig.
-  cs: |-
-    Parallel – rovnoběžný.
+  de: Parallel, Gleichlinig.
+  cs: Parallel – rovnoběžný.
 - typ: odstavec
-  de: |-
-    Particular, Gemein.
-  cs: |-
-    Particular – obyčejný.[^1]
+  de: Particular, Gemein.
+  cs: Particular – obyčejný.[^1]
 - typ: odstavec
   de: |-
     Parlamentieren, Mit dem Feind/ wegen vbergebung einer belägerten Statt handlen.
-  cs: |-
-    Parlamentieren – jednat s nepřítelem o vydání obleženého města.
+  cs: Parlamentieren – jednat s nepřítelem o vydání obleženého města.
 - typ: odstavec
-  de: |-
-    Patenten, offene Schreiben.
-  cs: |-
-    Patenten – otevřené listy.
+  de: Patenten, offene Schreiben.
+  cs: Patenten – otevřené listy.
 - typ: odstavec
-  de: |-
-    Perpendicular, Senckel-rechte linien.
-  cs: |-
-    Perpendicular – svislé [kolmé] linie.
+  de: Perpendicular, Senckel-rechte linien.
+  cs: Perpendicular – svislé [kolmé] linie.
 - typ: odstavec
-  de: |-
-    Picques, Lange Spieß.
-  cs: |-
-    {Picques} – dlouhá kopí.
+  de: Picques, Lange Spieß.
+  cs: '{Picques} – dlouhá kopí.'
 - typ: odstavec
-  de: |-
-    Picquenier, Doppelsöldner.
-  cs: |-
-    {Picquenier} – dvojžoldnéř {Doppelsöldner}.
+  de: Picquenier, Doppelsöldner.
+  cs: '{Picquenier} – dvojžoldnéř {Doppelsöldner}.'
 - typ: odstavec
-  de: |-
-    Plantieren, Geschütz stellen.
-  cs: |-
-    Plantieren – stavět děla.
+  de: Plantieren, Geschütz stellen.
+  cs: Plantieren – stavět děla.
 - typ: odstavec
-  de: |-
-    Proviantieren, Mit essen versehen.
-  cs: |-
-    Proviantieren – zásobit jídlem.
+  de: Proviantieren, Mit essen versehen.
+  cs: Proviantieren – zásobit jídlem.
 - typ: nadpis
   uroven: 3
   de: Q.
   cs: Q.
 - typ: odstavec
-  de: |-
-    Quartier, Lägerstatt.
-  cs: |-
-    {Quartier} – místo k ležení.
+  de: Quartier, Lägerstatt.
+  cs: '{Quartier} – místo k ležení.'
 - typ: odstavec
-  de: |-
-    Quartieren, Lägerstatt nemmen.
-  cs: |-
-    Quartieren – zaujmout místo k ležení.
+  de: Quartieren, Lägerstatt nemmen.
+  cs: Quartieren – zaujmout místo k ležení.
 - typ: odstavec
-  de: |-
-    Qualificiert, Tugendlich begabet.
-  cs: |-
-    Qualificiert – obdařený ctnostmi [schopnostmi].
+  de: Qualificiert, Tugendlich begabet.
+  cs: Qualificiert – obdařený ctnostmi [schopnostmi].
 - typ: odstavec
-  de: |-
-    Quartier geben/ Sicher gleit geben.
-  cs: |-
-    Quartier geben – poskytnout bezpečný průvod.[^2]
+  de: Quartier geben/ Sicher gleit geben.
+  cs: Quartier geben – poskytnout bezpečný průvod.[^2]
 - typ: nadpis
   uroven: 3
   de: R.
   cs: R.
 - typ: odstavec
-  de: |-
-    Ranzionieren, Mit Gelt loß machen.
-  cs: |-
-    Ranzionieren – vykoupit penězi.
+  de: Ranzionieren, Mit Gelt loß machen.
+  cs: Ranzionieren – vykoupit penězi.
 - typ: odstavec
-  de: |-
-    Retranchieren, Zu ruck-wärts sich verschantzen.
-  cs: |-
-    Retranchieren – opevnit se dozadu [vnitřní šancí].
+  de: Retranchieren, Zu ruck-wärts sich verschantzen.
+  cs: Retranchieren – opevnit se dozadu [vnitřní šancí].
 - typ: odstavec
-  de: |-
-    Rondache, Ronde schilt.
-  cs: |-
-    {Rondache} – kulatý štít.
+  de: Rondache, Ronde schilt.
+  cs: '{Rondache} – kulatý štít.'
 - typ: odstavec
-  de: |-
-    Ruinieren, Verderben.
-  cs: |-
-    Ruinieren – zničit.
+  de: Ruinieren, Verderben.
+  cs: Ruinieren – zničit.
 - typ: nadpis
   uroven: 3
   de: S.
   cs: S.
 - typ: odstavec
-  de: |-
-    Salvieren, Sich retten.
-  cs: |-
-    Salvieren – zachránit se.
+  de: Salvieren, Sich retten.
+  cs: Salvieren – zachránit se.
 - typ: odstavec
-  de: |-
-    Secondieren, Entsetzen.
-  cs: |-
-    Secondieren – vyprostit [obležené].
+  de: Secondieren, Entsetzen.
+  cs: Secondieren – vyprostit [obležené].
 - typ: odstavec
-  de: |-
-    Secours, Entsatz.
-  cs: |-
-    {Secours} – vyproštění [obležených].
+  de: Secours, Entsatz.
+  cs: '{Secours} – vyproštění [obležených].'
 - typ: odstavec
-  de: |-
-    Sergeant, Wachtmeister.
-  cs: |-
-    {Sergeant} – vachmistr {Wachtmeister}.
+  de: Sergeant, Wachtmeister.
+  cs: '{Sergeant} – vachmistr {Wachtmeister}.'
 - typ: odstavec
-  de: |-
-    Sorties, Soratori, Heimlich außfäll.
-  cs: |-
-    {Sorties}, Soratori – tajné výpady.
+  de: Sorties, Soratori, Heimlich außfäll.
+  cs: '{Sorties}, Soratori – tajné výpady.'
 - typ: nadpis
   uroven: 3
   de: T.
   cs: T.
 - typ: odstavec
-  de: |-
-    Tambourin, Ein Trommelschlager.
-  cs: |-
-    Tambourin – bubeník.
+  de: Tambourin, Ein Trommelschlager.
+  cs: Tambourin – bubeník.
 - typ: nadpis
   uroven: 3
   de: V.
   cs: V.
 - typ: odstavec
-  de: |-
-    Vivres, Lebens-speiß.
-  cs: |-
-    {Vivres} – potraviny.
+  de: Vivres, Lebens-speiß.
+  cs: '{Vivres} – potraviny.'
 - typ: odstavec
-  de: |-
-    Voluntaire, Der auff seinen Seckel dienet.
-  cs: |-
-    {Voluntaire} – ten, kdo slouží na vlastní měšec [dobrovolník].
+  de: Voluntaire, Der auff seinen Seckel dienet.
+  cs: '{Voluntaire} – ten, kdo slouží na vlastní měšec [dobrovolník].'
 - typ: nadpis
   uroven: 2
   de: Nota. Wie die Kupffer sollen eyngebunden werden.
@@ -185,17 +130,16 @@ bloky:
   de: |-
     1. Das erst vnd ander Kupfferblat sollen zu vorderst für das 1. blat des ersten Theils gebunden werden.
   cs: |-
-    1. První a druhá mědirytina se mají vevázat úplně dopředu, před 1. stranu Prvního dílu.
+    1. [[tab-01|První]] a [[tab-02|druhá]] mědirytina se mají vevázat úplně dopředu, před 1. stranu Prvního dílu.
 - typ: odstavec
   de: |-
     2. Die drey Kupffer der Exereitien: Musqueten/ für das 1. blat: Spieß vnd Schilt aber zwüschen das 2. vnd 3. blat des dritten Theils Kriegsbüchleins.
   cs: |-
-    2. Tři mědirytiny cviků {Exereitien}: s mušketami před 1. stranu, s píkou a se štítem pak mezi 2. a 3. stranu Třetího dílu Válečné knížky.
+    2. Tři mědirytiny cviků {Exereitien}: [[tab-04|s mušketami]] před 1. stranu, [[tab-05|s píkou]] a [[tab-06|se štítem]] pak mezi 2. a 3. stranu Třetího dílu Válečné knížky.
 - typ: odstavec
   de: |-
     3. Das sibende Kupffer soll zwüschen das 90. vnd 91. blat gesetzt werden.
-  cs: |-
-    3. Sedmá mědirytina se má vložit mezi strany 90 a 91.
+  cs: 3. [[tab-07|Sedmá mědirytina]] se má vložit mezi strany 90 a 91.
 - typ: odstavec
   de: |-
     4. Die vbrigen aber von Schlacht-Ordnungen nach der Num. der Kupfferblatten zu end des dritten Theils.

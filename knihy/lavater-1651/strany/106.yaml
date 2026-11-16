@@ -19,7 +19,7 @@ bloky:
   de: |-
     Besihe das vierte Kupfferblat mit der grossen zahl VII. bezeichnet. Marschiere mit deinem ersten flügel Musquetierer 1. für die Ordnung hinauß/ vnd rucke mit 2. dem anderen Squadron Musquetierer hinder die Ordnung: also thue auch mit den vbrigen Musquetierern zur lincken seiten 7. vnd 8. so hast du ein Battaille von 4. flüglen oder Squadronen Musquetierer.
   cs: |-
-    Viz čtvrtou mědirytinu {Kupfferblat}, označenou velkým číslem VII. Vytáhni se svým prvním křídlem mušketýrů, 1, dopředu před šik a s 2, druhou švadronou {Squadron} mušketýrů, postup za šik; totéž učiň i se zbylými mušketýry na levé straně, 7 a 8: tak budeš mít šik {Battaille} ze 4 křídel čili švadron mušketýrů.
+    Viz [[tab-10|čtvrtou mědirytinu]] {Kupfferblat}, označenou velkým číslem VII. Vytáhni se svým prvním křídlem mušketýrů, 1, dopředu před šik a s 2, druhou švadronou {Squadron} mušketýrů, postup za šik; totéž učiň i se zbylými mušketýry na levé straně, 7 a 8: tak budeš mít šik {Battaille} ze 4 křídel čili švadron mušketýrů.
 - typ: nadpis
   uroven: 3
   de: Worzu man dise Schlachtordnung brauchen solle.
@@ -37,11 +37,13 @@ bloky:
   de: |-
     Darvon besihe das fünffte Kupfferblat mit der grossen zahl I. bezeichnet. Wann du ein Schlachtordnung von 8. Fahnen machen wilt/ vnd ein Regiment vngefahr von 1600. Mann ist/ vnd darneben etliche Regimentstücklein bey dir hast/ so mach dein Stellordnung deß ersten also: Laß deine Feld- oder Regimentsstücklein für die Ordnung vorher stellen/ oder hinden/ wie es dir geliebt vnd schickt. Darnach lasse von 4. Compagnien die Musquetierer alle
   cs: |-
-    K tomu viz pátou mědirytinu, označenou velkým číslem I[^2]. Chceš-li utvořit bitevní šik z 8 kompanií {Fahnen}, je-li pluk {Regiment} asi o 1600 mužích a máš-li kromě toho u sebe několik plukovních dělek {Regimentstücklein}[^3], udělej nejprve svůj postojový šik {Stellordnung} takto: Nech svá polní neboli plukovní dělka postavit dopředu před šik, nebo dozadu, jak se ti líbí a hodí. Potom nech všechny mušketýry ze 4 kompanií {Compagnien}
+    K tomu viz [[tab-11|pátou mědirytinu]], označenou velkým číslem I[^2]. Chceš-li utvořit bitevní šik z 8 kompanií {Fahnen}, je-li pluk {Regiment} asi o 1600 mužích a máš-li kromě toho u sebe několik plukovních dělek {Regimentstücklein}[^3], udělej nejprve svůj postojový šik {Stellordnung} takto: Nech svá polní neboli plukovní dělka postavit dopředu před šik, nebo dozadu, jak se ti líbí a hodí. Potom nech všechny mušketýry ze 4 kompanií {Compagnien}
 poznamky:
 - n: 1
-  text: Tak v tisku („Die achte vnd erste …“), ačkoli předchozí šik je už osmý a následující je „neunte“ (devátý). Snad má být „devátý a první plukovní“, tj. první šik celého pluku; v překladu ponecháno podle tisku.
+  text: |-
+    Tak v tisku („Die achte vnd erste …“), ačkoli předchozí šik je už osmý a následující je „neunte“ (devátý). Snad má být „devátý a první plukovní“, tj. první šik celého pluku; v překladu ponecháno podle tisku.
 - n: 2
-  text: Pátá mědirytina („blat V“) – v této edici tabule tab-11.
+  text: Pátá mědirytina („blat V“) – v této edici tabule [[tab-11|tab-11]].
 - n: 3
-  text: Regimentsstücklein – lehká polní děla přidělená pluku (plukovní dělostřelectvo), tažená koňmi a pohybující se se šikem pěchoty.
+  text: |-
+    Regimentsstücklein – lehká polní děla přidělená pluku (plukovní dělostřelectvo), tažená koňmi a pohybující se se šikem pěchoty.

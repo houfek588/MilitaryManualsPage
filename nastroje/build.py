@@ -92,9 +92,13 @@ def plain(v):
         return ''
     if isinstance(v, list):
         return ' '.join(plain(x) for x in v)
-    s = re.sub(r'\[\^\d+\]', '', str(v))
+    s = re.sub(r'\[\[[^|\]]+\|([^\]]+)\]\]', r'\1', str(v))   # [[id strany|text]] → text
+    s = re.sub(r'\[\^\d+\]', '', s)
     s = re.sub(r'\{([^}]*)\}\*?', r'[\1]', s)
     return re.sub(r'[*_]', '', s)
+
+
+KONCOVKY = ('n', 'en', 'e', 's', 'es', 'er', 'ern', 'em')   # pádové a množné koncovky němčiny
 
 
 def norm_de(s):
@@ -171,10 +175,19 @@ def build_kniha(kniha_dir):
     for h in glos['hesla']:
         for v in h.get('de', []):
             de_map.setdefault(norm_de(v), h['id'])
+    # německé termíny stojí v textu v různých pádech (Oberst → Obersten, Reutter → Reuttern):
+    # k tvarům z glosáře doplň běžné koncovky; přesný tvar z glosáře má vždy přednost
+    presne = dict(de_map)
+    for k, hid in presne.items():
+        for suf in KONCOVKY:
+            de_map.setdefault(k + suf, hid)
+    # tvary, které se odvodily chybně (Massen = měrky na prach, ne máz) – v glosáři klíč bez_odkazu
+    for v in glos.get('bez_odkazu') or []:
+        de_map.pop(norm_de(v), None)
     hesla = []
     for h in glos['hesla']:
         rx = [re.compile(x, re.I) for x in h.get('hledat', [])]
-        dn = {norm_de(v) for v in h.get('de', [])}
+        dn = {k for k, hid in de_map.items() if hid == h['id']}
         vys = []
         for bi, b in enumerate(blocks):
             cs = plain(b.get('cs'))

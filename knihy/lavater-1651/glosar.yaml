@@ -14,6 +14,10 @@ kategorie:
   osoby: Osoby
   mista: Místa a národy
   miry: Míry, váhy a mince
+# Německé tvary, které se nemají propojovat s heslem, ač se z glosáře odvodí koncovkou
+# (build k tvarům z glosáře doplňuje pádové koncovky; Massen = měrky na prach, ne máz).
+bez_odkazu: [Massen]
+
 hesla:
 - id: valecny-pan
   cs: válečný pán
@@ -1801,6 +1805,7 @@ hesla:
   cs: poplach
   de:
   - Lermen
+  - Lärmen
   kategorie: sluzba
   hledat:
   - \bpoplach(u|em|ů|y|ech)?\b
@@ -2126,6 +2131,8 @@ hesla:
   - Nachhut
   - Retroguarde
   - Deriereguarde
+  - Hinderhut
+  - hinderhůt
   kategorie: sluzba
   hledat:
   - zadní\w* voj
@@ -2274,6 +2281,7 @@ hesla:
   de:
   - Igel
   - Izel
+  - Ygel
   kategorie: jednotky
   hledat:
   - \bjež(ek|ka|kem|ku)\b
@@ -3837,6 +3845,8 @@ hesla:
   - Laufgraben
   - Lauffgraben
   - Approches
+  - approchieren
+  - Approchieren
   kategorie: opevneni
   hledat:
   - \baproš
@@ -4428,3 +4438,83 @@ hesla:
   hledat:
   - komandant
   pozn: Guvernérův náměstek (Statthalter), obvykle podplukovník; v nepřítomnosti guvernéra velí pevnosti.
+
+# ---------------------------------------------------------------- doplněno 2026-11-15 (dosud nepropojené termíny)
+- id: medirytina
+  cs: mědirytina
+  de: ['Kupfferblat', 'Kupfferblatt']
+  kategorie: zbrane
+  hledat: ['\bmědirytin']
+  pozn: "Tabule s mědirytinami připojené ke knize; v edici jsou to strany tab-01 až tab-12 a odkazy na ně v textu jsou proklikem na příslušnou tabuli."
+- id: rozkaz
+  cs: rozkaz
+  de: ['Ordre', 'Ordres']
+  kategorie: sluzba
+  hledat: []
+  pozn: "Ordre (franc.) – rozkaz, pokyn velitele; v 17. stol. běžné slovo vojenské němčiny."
+- id: brana
+  cs: brána
+  de: ['Porte', 'Porten']
+  kategorie: opevneni
+  hledat: []
+  pozn: "Porte (franc.) – brána města nebo pevnosti."
+- id: odstup
+  cs: odstup
+  de: ['Distantz', 'Distanz']
+  kategorie: jednotky
+  hledat: []
+  pozn: "Distanz – vzdálenost mezi řadami a členy šiku při pochodu, cvičení a v boji."
+- id: vyterak
+  cs: vytěrák
+  de: ['Wüscher', 'Wischer']
+  kategorie: delostrelectvo
+  hledat: ['\bvytěrá[kc]']
+  pozn: "Nástroj na dlouhé násadě k vyčištění a uhašení hlavně děla po výstřelu, před dalším nabitím."
+- id: nabijak
+  cs: nabiják
+  de: ['Ladstecken', 'Ladstock']
+  kategorie: zbrane
+  hledat: ['\bnabijá[kc]']
+  pozn: "Tyč k upěchování nálože a koule v hlavni."
+- id: nabijeci-lopatka
+  cs: nabíjecí lopatka
+  de: ['Ladschauffel', 'Ladschaufflen']
+  kategorie: delostrelectvo
+  hledat: ['nabíjecí\w* (lopat|lžíc)']
+  pozn: "Lopatka (lžíce) na dlouhé násadě, kterou se do hlavně děla vpravoval volně sypaný prach."
+- id: stanoviste
+  cs: stanoviště
+  de: ['Posten', 'Post']
+  kategorie: sluzba
+  hledat: []
+  pozn: "Posten (franc. poste) – místo přidělené stráži nebo oddílu k obraně."
+- id: dustojnik
+  cs: důstojník
+  de: ['Officier', 'Officierer', 'Officiers']
+  kategorie: velitele
+  hledat: ['\bdůstojní[kc]']
+  pozn: "Officier (franc.) – nositel velitelské hodnosti; v 17. stol. nové slovo vedle starších Befelchsleute (velitelé)."
+- id: pruzkum
+  cs: průzkum
+  de: ['recognoscieren', 'Recognoscierer']
+  kategorie: sluzba
+  hledat: ['\bprůzkum']
+  pozn: "Recognoscieren (lat. recognoscere) – obhlédnout nepřítele, pevnost nebo terén; Recognoscierer = průzkumník."
+- id: vetrna-svice
+  cs: větrná svíce
+  de: ['Windliecht', 'Windliechter']
+  kategorie: delostrelectvo
+  hledat: ['větrn\w* sv[íi]c']
+  pozn: "Smolná svíce či pochodeň odolná větru k osvětlení při nočních pracích a v boji."
+- id: zavora
+  cs: závora
+  de: ['Schlagbaum', 'Schlagbäum', 'Schlagbäumen']
+  kategorie: opevneni
+  hledat: ['\bzávor']
+  pozn: "Schlagbaum – sklopné břevno uzavírající cestu před branou nebo průchod v opevnění."
+- id: rotni-druh
+  cs: rotní druh
+  de: ['Rottgesell', 'Rottgesellen', 'Gesell', 'Gesellen']
+  kategorie: jednotky
+  hledat: ['\brotní\w* druh']
+  pozn: "Spolubojovník z téže roty (Rotte), skupiny vojáků, kteří spolu táboří a stravují se; „Gesell“ = druh, kamarád – tak se knechti oslovovali navzájem."

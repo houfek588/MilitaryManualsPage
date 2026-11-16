@@ -22,7 +22,7 @@ const bezDiakritiky = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/�
 
 // ---------- pomocné
 const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-const plain = v => v == null ? '' : Array.isArray(v) ? v.map(plain).join(' ') : String(v).replace(/\[\^\d+\]/g,'').replace(/\{([^}]*)\}\*?/g,'[$1]').replace(/[*_]/g,'');
+const plain = v => v == null ? '' : Array.isArray(v) ? v.map(plain).join(' ') : String(v).replace(/\[\[[^|\]]+\|([^\]]+)\]\]/g,'$1').replace(/\[\^\d+\]/g,'').replace(/\{([^}]*)\}\*?/g,'[$1]').replace(/[*_]/g,'');
 const strop = (s, n) => s.length > n ? s.slice(0, n - 1) + '…' : s;
 // označení strany: foliace (fol. XII r) nebo stránkování (str. 12) podle kniha.yaml → strankovani
 const folio = p => !p.list ? p.id : (/^[IVXLC]+$/.test(p.list) && M.strankovani !== 'strany') ? `fol. ${p.list} ${p.strana === 'verso' ? 'v' : 'r'}` : /^\d+$/.test(p.list) ? `str. ${p.list}` : p.list;
@@ -32,9 +32,10 @@ const skenObr = (p, w) => M.sken.url_obrazek.replace('{sken5}', String(p.sken).p
 const hlavniOddil = s => { while (s && s.rodic) s = oddil[s.rodic]; return s; };
 const cestaOddilu = s => { const c = []; while (s) { c.unshift(s); s = s.rodic ? oddil[s.rodic] : null; } return c; };
 
-// inline formátování: **tučně**, *kurzíva*, [^n] poznámka, {Termín} odkaz do glosáře
+// inline formátování: **tučně**, *kurzíva*, [^n] poznámka, {Termín} odkaz do glosáře, [[id strany|text]] odkaz na stranu
 function inline(s, ctx) {
   let h = esc(s);
+  h = h.replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g, (m, id, t) => strana[id] ? `<a class="odkaz-str" href="#/strana/${id}" data-str="${id}">${t}</a>` : t);
   h = h.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g, '$1<i>$2</i>');
   h = h.replace(/\[\^(\d+)\]/g, (m, n) => ctx && ctx.p ? `<sup class="fn"><a href="#" data-fn="${ctx.p.id}:${n}">${n}</a></sup>` : '');
   h = h.replace(/\{([^}]*)\}\*?/g, (m, t) => {
@@ -375,8 +376,14 @@ document.addEventListener('mouseover', e => {
   if (t) { const h = heslo[t.dataset.h]; ukazBublinu(t, `<b>${esc(h.cs)}</b>${esc(h.pozn || h.de.join(', '))}<div class="m">Klikněte pro výskyty v rejstříku</div>`); return; }
   const f = e.target.closest('a[data-fn]');
   if (f) { const [pid, n] = f.dataset.fn.split(':'); ukazBublinu(f, `<b>Poznámka ${n}</b>${inline(strana[pid].pozn[n] || '', null)}`); return; }
+  const o = e.target.closest('a[data-str]');
+  if (o) {  // odkaz na stranu (např. na mědirytinu): náhled obrázku
+    const p = strana[o.dataset.str], img = BL.slice(p.od, p.do).find(b => b.img);
+    const nadpis = BL.slice(p.od, p.do).find(b => b.t === 'nadpis' && b.cs);
+    ukazBublinu(o, `<b>${esc(folioDlouze(p))}${nadpis ? ' · ' + esc(plain(nadpis.cs)) : ''}</b>${img ? `<img class="nahled" src="obrazky/${esc(img.img)}" alt="">` : ''}<div class="m">Klikněte pro přechod na stranu</div>`); return;
+  }
 });
-document.addEventListener('mouseout', e => { if (e.target.closest('a.term, a[data-fn]')) BUB.hidden = true; });
+document.addEventListener('mouseout', e => { if (e.target.closest('a.term, a[data-fn], a[data-str]')) BUB.hidden = true; });
 document.addEventListener('click', e => {
   const f = e.target.closest('a[data-fn]');
   if (f) { e.preventDefault(); const [pid, n] = f.dataset.fn.split(':'); cil(`fn-${pid}-${n}`); }

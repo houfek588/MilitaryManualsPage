@@ -10,7 +10,7 @@ bloky:
   de: |-
     das 1. Kupffer. fig. C. dessen abschnitt vnd retrenche (oder retrenche) mit dem bůchstaben m, bezeichnet.
   cs: |-
-    1. mědirytinu, fig. C; jeho odříznutí {abschnitt} a retranšement {retrenche} (vyslov retrenche) je označeno písmenem m.
+    [[tab-01|1. mědirytinu]], fig. C; jeho odříznutí {abschnitt} a retranšement {retrenche} (vyslov retrenche) je označeno písmenem m.
 - typ: odstavec
   de: |-
     Halber Mon/ demies lunes: luna dimidiata, es seind kleine Bollwerck ausserhalb des Grabens vor die Bollwerck/ zu besserer beschirmung derselbigen geleget: liß das 13. bl.
@@ -22,60 +22,54 @@ bloky:
   cs: |-
     {Cronwerck}, opera Coronata; ouurages (vyslov vfrasches) Couronnes neboli Curonnes – korunní dílo. Čti s. 13.
 - typ: odstavec
-  de: |-
-    Zang/ tenaille (oder tenaillie) forcipula: tenaglia.
-  cs: |-
-    {Zang}, tenaille (vyslov tenaillie), forcipula; tenaglia – kleště.
+  de: 'Zang/ tenaille (oder tenaillie) forcipula: tenaglia.'
+  cs: '{Zang}, tenaille (vyslov tenaillie), forcipula; tenaglia – kleště.'
 - typ: odstavec
   de: |-
     Stagketen/ seind grosse höltzer vnd zäun vmb ein Wal/ liß das 13. bl. das 2. Kupffer. fig. D.
   cs: |-
-    {Stagketen} – kůlový plot: jsou to velké kůly a ploty kolem valu. Čti s. 13; viz 2. mědirytinu, fig. D [na rytině fig. B].[^2]
+    {Stagketen} – kůlový plot: jsou to velké kůly a ploty kolem valu. Čti s. 13; viz [[tab-02|2. mědirytinu]], fig. D [na rytině fig. B].[^2]
 - typ: odstavec
   de: |-
     Palissaden/ Palissades, sudes præpilatæ, ferratæ (oder sudes prepilate/ ferrate.) liß das 14 bl. das 2. Kupffer. fig. B.
   cs: |-
-    {Palissaden}, Palissades, sudes præpilatæ, ferratæ (vyslov sudes prepilate, ferrate) – palisády. Čti s. 14; viz 2. mědirytinu, fig. B [na rytině fig. C].[^2]
+    {Palissaden}, Palissades, sudes præpilatæ, ferratæ (vyslov sudes prepilate, ferrate) – palisády. Čti s. 14; viz [[tab-02|2. mědirytinu]], fig. B [na rytině fig. C].[^2]
 - typ: odstavec
   de: |-
     Sturmhäspel/ Barricades, cavaliers de Frises, Friesische Reuter/ Echini, (oder Echim) liß das 14. vnd 15. bl. das 2. Kupffer. fig. E.
   cs: |-
-    {Sturmhäspel}, Barricades, cavaliers de Frises, Friesische Reuter [fríští jezdci], Echini (vyslov Echim) – útočné kozlice. Čti s. 14 a 15; viz 2. mědirytinu, fig. E [na rytině fig. D].[^2]
+    {Sturmhäspel}, Barricades, cavaliers de Frises, Friesische Reuter [fríští jezdci], Echini (vyslov Echim) – útočné kozlice. Čti s. 14 a 15; viz [[tab-02|2. mědirytinu]], fig. E [na rytině fig. D].[^2]
 - typ: odstavec
-  de: |-
-    Blendungen/ Chandeliers (oder sgandeliers) Velamen.
-  cs: |-
-    {Blendungen}, Chandeliers (vyslov sgandeliers), Velamen – clony.[^3]
+  de: Blendungen/ Chandeliers (oder sgandeliers) Velamen.
+  cs: '{Blendungen}, Chandeliers (vyslov sgandeliers), Velamen – clony.[^3]'
 - typ: odstavec
   de: |-
     Fůßängel/ Minckers/ fůß- oder lämeysen/ fůßängel: Murices, tribuli chausses, trappes: liß das 15. 70 vnd 74. bl. fig F.
   cs: |-
-    {Fůßängel}, Minckers, fůß- neboli lämeysen [nášlapná neboli mrzačicí železa], fůßängel; Murices, tribuli chausses, trappes – nášlapní ježci.[^4] Čti s. 15, 70 a 74; fig. F [na 2. mědirytině fig. L].[^2]
+    {Fůßängel}, Minckers, fůß- neboli lämeysen [nášlapná neboli mrzačicí železa], fůßängel; Murices, tribuli chausses, trappes – nášlapní ježci.[^4] Čti s. 15, 70 a 74; fig. F [na [[tab-02|2. mědirytině]] fig. L].[^2]
 - typ: odstavec
   de: |-
     Schantzkörb/ Carbes loricales: gabions, gabionatten: liß das 15. 16. vnd 70. bl. besihe das 2. Kupffer. fig. H
   cs: |-
-    {Schantzkörb}, Carbes loricales; gabions, gabionatten – šancovní koše. Čti s. 15, 16 a 70 a viz 2. mědirytinu, fig. H [na rytině fig. G, též E a F].[^2]
+    {Schantzkörb}, Carbes loricales; gabions, gabionatten – šancovní koše. Čti s. 15, 16 a 70 a viz [[tab-02|2. mědirytinu]], fig. H [na rytině fig. G, též E a F].[^2]
 - typ: odstavec
   de: |-
     Schützenkörblein/ corbulæ, latibula, jaculatorum. Corbeilles (oder korbeillies/) liß das 17. bl. das 2. Kupffer. fig. I.
   cs: |-
-    {Schützenkörblein}, corbulæ, latibula, jaculatorum; Corbeilles (vyslov korbeillies) – střelecké košíky. Čti s. 17; viz 2. mědirytinu, fig. I [na rytině jen drobně ve fig. E].[^2]
+    {Schützenkörblein}, corbulæ, latibula, jaculatorum; Corbeilles (vyslov korbeillies) – střelecké košíky. Čti s. 17; viz [[tab-02|2. mědirytinu]], fig. I [na rytině jen drobně ve fig. E].[^2]
 - typ: odstavec
   de: |-
     Approches, Lauffgräben/ adductus, accessus: liß das 17. vnd 73. 125. 129. bl. das 2. Kupffer. fig. K. vnd das 3. Kupffer. fig. B. mit 2. vnd 5. bezeichnet.
   cs: |-
-    {Approches}, Lauffgräben, adductus, accessus – aproše. Čti s. 17 a 73, 125, 129; viz 2. mědirytinu, fig. K, a 3. mědirytinu, fig. B, kde jsou označeny 2 a 5.[^5]
+    {Approches}, Lauffgräben, adductus, accessus – aproše. Čti s. 17 a 73, 125, 129; viz [[tab-02|2. mědirytinu]], fig. K, a 3. mědirytinu, fig. B, kde jsou označeny 2 a 5.[^5]
 - typ: odstavec
-  de: |-
-    Gegenlauffgräben/ contre approches: liß das 17. vnd vnd 75. bl.
-  cs: |-
-    {Gegenlauffgräben}, contre approches – protiaproše. Čti s. 17 a 75.
+  de: 'Gegenlauffgräben/ contre approches: liß das 17. vnd vnd 75. bl.'
+  cs: '{Gegenlauffgräben}, contre approches – protiaproše. Čti s. 17 a 75.'
 - typ: odstavec
   de: |-
     Gallerie/ Schirmdach/ via intestina, vinea, liß das 17. vnd 128. bl. das 1. Kupffer. fig. C. mit D, bezeichnet/ vnd fig. D.
   cs: |-
-    {Gallerie}, Schirmdach [ochranná střecha], via intestina, vinea – galerie. Čti s. 17 a 128; na 1. mědirytině, fig. C, je označena D, a viz fig. D.
+    {Gallerie}, Schirmdach [ochranná střecha], via intestina, vinea – galerie. Čti s. 17 a 128; na [[tab-01|1. mědirytině]], fig. C, je označena D, a viz fig. D.
 - typ: odstavec
   de: |-
     Breche (oder Bresche) Ruina valli, bruch des Wals/ ein loch zum Sturm/ liß das 17. 18. vnd 130. bl.
@@ -85,20 +79,17 @@ bloky:
   de: |-
     Retrenchement (oder retranschemant) recessus regressio, innerliche verschantzungen/ liß das 18. jtem das 74. 77. bl. das 1. Kupffer. fig. A. C. vnd D.
   cs: |-
-    {Retrenchement} (vyslov retranschemant), recessus regressio, vnitřní opevnění {verschantzungen} – retranšement. Čti s. 18, dále s. 74 a 77; viz 1. mědirytinu, fig. A, C a D.
+    {Retrenchement} (vyslov retranschemant), recessus regressio, vnitřní opevnění {verschantzungen} – retranšement. Čti s. 18, dále s. 74 a 77; viz [[tab-01|1. mědirytinu]], fig. A, C a D.
 - typ: odstavec
-  de: |-
-    Contremine, vndergrabung der belägerten: cuniculi reciproci.
-  cs: |-
-    {Contremine}, podkop obležených; cuniculi reciproci – protimina.
+  de: 'Contremine, vndergrabung der belägerten: cuniculi reciproci.'
+  cs: '{Contremine}, podkop obležených; cuniculi reciproci – protimina.'
 - typ: odstavec
   de: |-
     Mine, vndergrabung/ cuniculi: liß das 18. 74. 77. vnn 129. bl. das 1. Kupffer/ in der figur C. mit 8. andeutet.
   cs: |-
-    {Mine}, podkop, cuniculi – mina. Čti s. 18, 74, 77 a 129; na 1. mědirytině je na obrazci C označena 8.
+    {Mine}, podkop, cuniculi – mina. Čti s. 18, 74, 77 a 129; na [[tab-01|1. mědirytině]] je na obrazci C označena 8.
 - typ: odstavec
-  de: |-
-    Travers, Zwerchwäl/ Loricæ transversæ: liß das 18. vnd das 6. bl.
+  de: 'Travers, Zwerchwäl/ Loricæ transversæ: liß das 18. vnd das 6. bl.'
   cs: |-
     {Travers}, Zwerchwäl [příčné valy], Loricæ transversæ – traverzy.[^6] Čti s. 18 a s. 6.
 - typ: odstavec
@@ -110,14 +101,14 @@ bloky:
   de: |-
     Reduct, oder Corps degarde, Redoute: receptus: liß das 125. 126. bl. das 1. Kupffer. fig B. vnd fig. E. mit 9. bezeichnet.
   cs: |-
-    {Reduct} neboli {Corps degarde}, Redoute; receptus – reduta. Čti s. 125, 126; viz 1. mědirytinu, fig. B, a fig. E, kde je označena 9.[^7]
+    {Reduct} neboli {Corps degarde}, Redoute; receptus – reduta. Čti s. 125, 126; viz [[tab-01|1. mědirytinu]], fig. B, a fig. E, kde je označena 9.[^7]
 poznamky:
 - n: 1
   text: |-
     Lavater tu „půlměsícem“ míní malé vnější dílo před baštou (za příkopem), na rozdíl od ravelinu (Ravellein), který uvádí zvlášť na předchozí straně a na s. 12.
 - n: 2
   text: |-
-    Písmena, která výklad cituje u 2. mědirytiny (tab-02), neodpovídají rytině v tomto výtisku; shoduje se jen fig. K (aproše). Na rytině je: fig. B kůlový plot, C palisády, D útočná kozlice, E šancovní koše s dělem a (vlevo nahoře) střeleckými košíky, F předprseň baterie z šancovních košů, G jednotlivý šancovní koš, H baterie na násypu, I fronta opevnění, K aproše, L nášlapní ježci. Výklad zřejmě vznikl podle jiné (starší?) podoby desky. Skutečné písmeno uvádí překladatel v hranatých závorkách.
+    Písmena, která výklad cituje u 2. mědirytiny ([[tab-02|tab-02]]), neodpovídají rytině v tomto výtisku; shoduje se jen fig. K (aproše). Na rytině je: fig. B kůlový plot, C palisády, D útočná kozlice, E šancovní koše s dělem a (vlevo nahoře) střeleckými košíky, F předprseň baterie z šancovních košů, G jednotlivý šancovní koš, H baterie na násypu, I fronta opevnění, K aproše, L nášlapní ježci. Výklad zřejmě vznikl podle jiné (starší?) podoby desky. Skutečné písmeno uvádí překladatel v hranatých závorkách.
 - n: 3
   text: |-
     Franc. chandelier, doslova „svícen“ – podle tvaru rámu, který se vyplňoval otýpkami či fašinami.
@@ -126,10 +117,9 @@ poznamky:
     „Lämeysen“ = železo, které mrzačí (ochromí). Výraz Minckers není jasný. „chausses, trappes“ je v tisku rozdělené franc. chausse-trappes.
 - n: 5
   text: |-
-    Žádná ze tří malých mědirytin (tab-03 s věží, ani listy cvičení tab-04 až tab-06) nemá obrazec fig. B a čísla 2 a 5; aproše jsou jen na 1. mědirytině (fig. K, s redutou fig. B) a na 2. mědirytině (fig. K). Snad jde o tiskovou chybu za „1. Kupffer“ (tam fig. B = reduta na konci aproše), nebo o odkaz k jiné podobě mědirytin (1. vydání 1644?).
+    Žádná ze tří malých mědirytin ([[tab-03|tab-03]] s věží, ani listy cvičení [[tab-04|tab-04]] až [[tab-06|tab-06]]) nemá obrazec fig. B a čísla 2 a 5; aproše jsou jen na 1. mědirytině (fig. K, s redutou fig. B) a na 2. mědirytině (fig. K). Snad jde o tiskovou chybu za „1. Kupffer“ (tam fig. B = reduta na konci aproše), nebo o odkaz k jiné podobě mědirytin (1. vydání 1644?).
 - n: 6
-  text: |-
-    Na s. 6 Lavater zmiňuje Maroloisovy příčné valy mezi flankami.
+  text: Na s. 6 Lavater zmiňuje Maroloisovy příčné valy mezi flankami.
 - n: 7
   text: |-
-    Na 1. mědirytině (tab-01) je reduta na konci aproše označena fig. B; obrazec fig. E na rytině není a číslo 9 označuje na fig. A špici bašty – odkaz „fig. E … mit 9“ je patrně chybný nebo se týká jiné podoby desky.
+    Na 1. mědirytině ([[tab-01|tab-01]]) je reduta na konci aproše označena fig. B; obrazec fig. E na rytině není a číslo 9 označuje na fig. A špici bašty – odkaz „fig. E … mit 9“ je patrně chybný nebo se týká jiné podoby desky.

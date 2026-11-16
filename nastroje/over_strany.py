@@ -30,7 +30,20 @@ def main():
     glos = yaml.safe_load((kniha / 'glosar.yaml').read_text(encoding='utf-8'))
     zakaz = [(re.compile(r'\b' + re.escape(x) + r'\b', re.I), h['cs']) for h in glos['hesla'] for x in h.get('nepouzivat', [])]
     files = [kniha / 'strany' / f'{i}.yaml' for i in ids] if ids else sorted((kniha / 'strany').glob('*.yaml'))
-    ocr = not (kniha / 'zdroje' / 'dta').exists()   # u ručního přepisu (DTA) kontrola chyb OCR nedává smysl
+    ocr = not (kniha / 'zdroje' / 'dta').exists()
+    ids_stran = {x.stem for x in (kniha / 'strany').glob('*.yaml')}
+
+    def odkazy(text):  # [[id strany|text]] – cíl musí existovat, text bez dalších značek
+        chyby = []
+        for m in re.finditer(r'\[\[([^|\]]*)\|([^\]]*)\]\]', text):
+            if m.group(1) not in ids_stran:
+                chyby.append(f'odkaz na neexistující stranu [[{m.group(1)}|…]]')
+            if re.search(r'[{}]|\[\^', m.group(2)):
+                chyby.append(f'v textu odkazu [[{m.group(1)}|…]] nesmí být {{Termín}} ani [^n]')
+        if text.count('[[') != len(re.findall(r'\[\[[^|\]]*\|[^\]]*\]\]', text)):
+            chyby.append('neúplná značka odkazu [[id|text]]')
+        return chyby
+   # u ručního přepisu (DTA) kontrola chyb OCR nedává smysl
     n_err = n_warn = 0
     for f in files:
         errs, warns = [], []
@@ -64,6 +77,7 @@ def main():
                         pass  # výřez ze skenu doplní správce projektu
                     else:
                         errs.append(f'blok {k}: obrázek {b.get("soubor")} neexistuje')
+                errs += [f'blok {k}: {x}' for x in odkazy(text_of(b.get('popis')))]
                 if hotovo and not b.get('popis'):
                     warns.append(f'blok {k}: obrázek bez popisu')
                 continue
@@ -82,6 +96,7 @@ def main():
                 elif de and cs and len(de) != len(cs):
                     warns.append(f'blok {k}: {t} má DE {len(de)} a CS {len(cs)} položek')
             ct = text_of(cs)
+            errs += [f'blok {k}: {x}' for x in odkazy(ct)]
             refs |= {int(x) for x in re.findall(r'\[\^(\d+)\]', ct)}
             if re.search(r'\}\*', ct):
                 errs.append(f'blok {k}: nevyřešená značka {{…}}* (poznámka)')
@@ -101,6 +116,8 @@ def main():
                         warns.append(f'blok {k}: „{m.group(0)}“ → podle glosáře „{spr}“')
             if ocr and re.search(r'\bf(oll|ift|ein)\b', text_of(de)):
                 warns.append(f'blok {k}: v de možná chyba OCR (foll/ift/fein)')
+        for n in d.get('poznamky') or []:
+            errs += [f'poznámka {n.get("n")}: {x}' for x in odkazy(str(n.get('text') or ''))]
         notes = {int(n['n']) for n in d.get('poznamky') or []}
         if refs - notes:
             errs.append(f'odkaz na neexistující poznámku {sorted(refs - notes)}')

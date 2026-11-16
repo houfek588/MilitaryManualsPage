@@ -27,6 +27,7 @@ nastroje/
   dta_strany.py             rozdělení přepisu Deutsches Textarchiv (TEI) po stranách → zdroje/dta/NNNN.txt
   import_lavater.py         jednorázový import pracovního překladu Lavatera (.md)
   over_strany.py            kontrola dat (struktura, párování, poznámky, terminologie)
+  odkazy_rytiny.py          Lavater: označení odkazů na mědirytiny v překladu značkou [[tab-NN|text]]
   normalizuj_zkratky.py     sjednocení přepisu zkratek tisku (ꝛc., vñ, …)
   overeno_clovekem.py       označení stran, které ručně ověřil člověk (pole overeno_clovekem)
   vyrez_drevorezy.py        výřez dřevořezů ze skenu přes IIIF (bloky obrazek se souborem drevorez-*.jpg)
@@ -62,6 +63,7 @@ Knihy: `fronsberger-1564` (Fronsperger, Kriegs Ordnung vnd Regiment, sken BSB) a
 - předěl strany uvnitř kapitoly: folio, číslo skenu, levá/pravá strana, odkaz na samostatnou stranu a na sken,
 - přepínač **Originál / Jen překlad** (klávesa O), světlý/tmavý režim,
 - **věcný rejstřík** (`#/rejstrik`) s ukázkami vět, odkazy na kapitolu i stranu; termíny v textu vedou do rejstříku,
+- **odkazy na jiné strany** (značka `[[id strany|text]]`), např. z textu na tabuli s mědirytinou – s náhledem obrázku po najetí myší,
 - **hledání** v překladu i originálu bez ohledu na diakritiku,
 - **PDF** (`#/tisk`): výběr kapitol nebo rozsahu stran, jen překlad / originál + překlad, tisk přes „Uložit jako PDF“.
 
