@@ -11,6 +11,7 @@ Web je čistě statický (HTML + CSS + JS, data vložená jako `<script>`), tak�
 
 ```
 PRAVIDLA_PREKLADU.md        pravidla překladu a popis datového formátu (závazné pro lidi i agenty)
+PRIDANI_KNIHY.md            postup přidání nové knihy (podklady → import → glosář → agenti → build)
 projekt.yaml                nastavení webu: autor, kontakt, skupina, sociální sítě, údaje pro podporu (dar)
 knihy/
   fronsberger-1564/
@@ -53,6 +54,7 @@ Fronsberger/                původní pracovní překlad (export z Google Docs) 
 5. Náhled: otevři `docs/index.html`, nebo `python -m http.server 8766 --directory docs` a http://localhost:8766/
 
 Nová kniha: vytvoř `knihy/<id>/` se stejnou strukturou (kniha.yaml, glosar.yaml, strany/) – build ji přidá do rozcestníku.
+Podrobný postup krok za krokem včetně kontrolního seznamu: [PRIDANI_KNIHY.md](PRIDANI_KNIHY.md).
 Pořadí stran určuje pole `sken` (číslo snímku). V `kniha.yaml` nastav `strankovani: folio` (fol. XII r) nebo `strany` (str. 12)
 a údaje o skenech (`sken.url_strana`, `sken.url_obrazek` s {sken}/{sken4}/{sken5}/{sirka}, `sken.paticka`).
 
