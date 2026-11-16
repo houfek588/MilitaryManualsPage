@@ -1,0 +1,32 @@
+id: 061v
+list: '61'
+strana: verso
+sken: 202
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    So mann auß einem Leger zeucht / vnd schier zu dem andern kompt / soll der Hauptman gestaten / welcher Herr oder Edellman kein trosser hat das er ein knecht auß der ordnung ins leger schicke / sein Losament einzunemen / vmb fůderung vnd Prouiant zubesehen / dise ordnung wirt selten gehalten / dann welcher schon ein trosser hat / schickt gewonlich dannoch ein knecht darzů / darumb ist das best / wann sich zwen / drei oder vier zusamen thůn / vnd mit einandern purschen / mit jren wägen vnd Trossern bei einander stellen / künden als dann dester mehr Reutter in der ordnung behalten.
+  cs: |-
+    Když se táhne z jednoho ležení {Leger} a téměř se dorazí k druhému, má hejtman {Hauptman} dovolit, aby každý pán nebo šlechtic, který nemá žádného sloužícího u trénu {trosser}, poslal ze šiku {ordnung} jednoho čeledína {knecht} do ležení zabrat své ubytování {Losament} a poohlédnout se po píci a proviantu {Prouiant}. Tento pořádek se však zachovává zřídka, neboť i ten, kdo již sloužícího u trénu má, posílá k tomu obyčejně ještě čeledína. Proto je nejlepší, když se dva, tři nebo čtyři spojí dohromady, společně táboří a postaví se se svými vozy a trénními sluhy pohromadě; mohou pak v šiku udržet tím více jezdců {Reutter}.
+- typ: odstavec
+  de: |-
+    Ein jeder Hauptman soll am abzuge seine Herren vnd Edelleut / sampt dem fanen zu hinderst ordnen / wie sie am anzug da fornen sein / wans die notturfft der feinde halb erfordert / das sie die roß nur dörffen vmbwenden / dann wann sie die Ordnung allweg schwencken solten / möcht sie in vnordnung kommen / oder vbereilt werden.
+  cs: |-
+    Každý hejtman má při ústupu své pány a šlechtice spolu s korouhví {fanen} zařadit dozadu tak, jak jsou při postupu vpředu, aby – vyžaduje-li to potřeba kvůli nepřátelům – stačilo jen obrátit koně; neboť kdyby měli šik pokaždé otáčet, mohl by se dostat do nepořádku nebo být zaskočen.
+- typ: odstavec
+  de: |-
+    Der Hauptman oder Leutenant vber den Renfanen / soll die vorhůt vnd fliegel oder beneben warth wol mit gůten wolberitten Leuten versehen / damit jn die Feinde oder andere im züge vngewarnet nicht angrieffen noch bescheidigen můgen / gleicher gestalt soll allweg die nachhůt versehen thůn / wann auch des volcks vil / vnd der zuge lang ist / soll der Feldmarschalck auff beide seiten flügel anhencken / das die Feinde nicht zwischen der vor oder nachhůt in das Volck vbers Geschütz / Wägen oder troß / zubescheidigen fallen / wo mann auch zu den vor vnd nach hůten / deßgleichen beneben flügeln ringe pferde gehaben mag / sollen sie billich gebraucht werden / dann mann kan sie darzů nicht verbessern.
+  cs: |-
+    Hejtman nebo poručík {Leutenant} nad předvojovou korouhví {Renfanen} má předvoj {vorhůt} a křídla či boční hlídky dobře opatřit zdatnými lidmi na dobrých koních, aby jej nepřátelé nebo jiní na tažení {züge} nemohli nepozorovaně napadnout ani mu uškodit; stejným způsobem se má vždy opatřit i zadní voj {nachhůt}. Je-li také lidu mnoho a pochodový proud dlouhý, má polní maršálek {Feldmarschalck} připojit po obou stranách křídla, aby nepřátelé nevpadli mezi předvoj či zadní voj do vojska přes děla {Geschütz}, vozy nebo trén {troß} a nezpůsobili škodu. Kde pak lze k předvojům a zadním vojům i k bočním křídlům mít lehkou jízdu {ringe pferde}, má se jí po právu použít, neboť k tomu nelze nalézt nic lepšího.
+- typ: odstavec
+  de: |-
+    Es ist auch vor wenig jaren der brauch gewesen / daß ein jeder Hauptman am treffen / vor seinem hauffen troffen hat / es ist aber besser er bleibe im vordersten gliede / sonst wirt er zuhauffen gestossen / oder in sein ordnung dieselbig zutrennen getrungen / vnd wirdt seinen eigen Reuttern nachtheilig / Wann aber ein Hauptman sollichen vortheil ersicht daß er möcht beseitz in ein ordnung / es were zu roß oder fůß / treffen / da mag er darein hawen / vnd seine Reutter anschreien / daß sie jm nachuolgen / sonst vnder augen nicht.
+  cs: |-
+    Před nemnoha lety bývalo také zvykem, že každý hejtman při srážce udeřil před svým houfem {hauffen}; lépe však je, zůstane-li v přední řadě {gliede}, jinak bude sražen nebo zatlačen do vlastního šiku tak, že jej rozrazí, a stane se svým vlastním jezdcům ke škodě. Spatří-li však hejtman takovou výhodu, že by mohl udeřit z boku do některého šiku, ať jízdního či pěšího {fůß}, tam může vpadnout a zvolat na své jezdce, aby jej následovali – jinak však čelně nikoli.
+- typ: odstavec
+  de: |-
+    Auch ist etwan der brauch gewesen / daß die Hauptleut jren Reutern am treffen zugesprochen vnd gesagt haben / Lieben Herrn / Junckern vnd Gesellen / hilfft vnns Gott darumb wir sein gnad bitten
+  cs: |-
+    Bývalo také někdy zvykem, že hejtmani svým jezdcům před srážkou promlouvali do duše a říkali: „Milí páni, zemani a druhové {Gesellen}, pomůže-li nám Bůh, o jehož milost prosit

@@ -1,0 +1,29 @@
+id: 037v
+list: '37'
+strana: verso
+sken: 162
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item auff zehen tausent personen / geht ein Wochen sibentzigtausent Brot / wigen hundert vnd viertzig tausent pfundt / macht ein tausent vierhundert Centner / vnnd thůt an Korn sibenhundert siben vnd sibentzig Achtel / vnnd sechs Metzen / Einen Monat geht auff die zehen tausent personen / dreihundert tausent Brot / wigen sechs hundert tausent pfundt / macht sechs tausent Centner / vnd thůt an Korn / dreitausent / dreihundert / drei vnd dreissig Achtel / vnnd zwo metzen.
+  cs: |-
+    Dále: na deset tisíc osob připadá za týden sedmdesát tisíc chlebů, váží sto čtyřicet tisíc liber {pfundt}, což činí jeden tisíc čtyři sta centů {Centner} a v žitě sedm set sedmdesát sedm achtelů {Achtel} a šest měřic {Metzen}. Za jeden měsíc připadá na deset tisíc osob tři sta tisíc chlebů, váží šest set tisíc liber, což činí šest tisíc centů a v žitě tři tisíce tři sta třicet tři achtely a dvě měřice.
+- typ: odstavec
+  de: |-
+    Item / wann ein abgang inn der Frucht were / vnd můß ein summa Volcks ein zeit lang erhalten werden / so mag mann dem vorgenanten Brot abbrechen / vnnd vmb etlich Loth ringern / wie es sich möcht zutragen an dem getreide. Also zuuerstehn / Ich will für mich nemen ein tausent Personen / sollen ein Wochen erhalten werden mit 58. Achteln / Nun ist inn dem vorgesetzten anschlag vnnd Ordnung / auff ein tausent person ein wochen verordnet siben tausent Brot / deren eines zwei pfundt helt / macht viertzehen tausent pfundt / oder hundert vnd viertzig Centner / thůt an dem getreidt siben vnd sibentzig Achtel / vnd drei metzen. Solches zuwissen / so mercket / dieweil tausent personen bedörffen ein wochen siben vnd sibentzig achtel / vnangesehen der vberigen Metzen / von mehr berichts wegen / vnnd wirt das Brot zwei pfundt schwer gebachen / wie schwere soll dann eins gebachen werden / wann mann ein wochen hat nicht mehr dann acht vnd fünfftzig Achtel / Nach dem ein jeglicher sich weiß wol zurichten / der die Regel De Tri versteht / die dann gemeyn ist / also sollen die 2. pfundt mit den 58. Achteln multipliciert werden / kommen 116. die sollen abgetheilt werden durch 77. Achtel / so kompt wie schwer das Brot soll gebachen werden / vnd kompt anderthalb pfundt / auff zwei Brot schwer / vnangesehen das vberblieben in der theilung / vnd mit disem Brot mag erhalten werden / die tausent personen ein wochen lang. Deßgleichen mag auch in tagen vnd Monaten geschehen / oder mit den personen / wie dann vorgesetzt ist / erstlich von 100. darnach 500. vnd weiter hernach stehet in der Ordnung / ist gleichformig wie das vorgesetzt / auff tausent person geschehen.
+  cs: |-
+    Dále: kdyby nastal nedostatek obilí a určité množství lidu by muselo být po nějaký čas vydržováno, lze z výše uvedeného chleba ubrat a zmenšit jej o několik lotů {Loth}, podle toho, jak by to u obilí vycházelo. Rozuměj tomu takto: vezmu si za příklad jeden tisíc osob, které mají být po jeden týden uživeny z 58 achtelů. V předchozím rozpočtu a řádu je na tisíc osob za týden určeno sedm tisíc chlebů, z nichž každý má dvě libry, což činí čtrnáct tisíc liber neboli sto čtyřicet centů a na obilí to dělá sedmdesát sedm achtelů a tři měřice[^1]. Abyste to věděli, mějte na paměti: poněvadž tisíc osob potřebuje za týden sedmdesát sedm achtelů – nehledě na zbývající měřice, pro snadnější výklad – a chléb se peče o váze dvou liber, jak těžký má být tedy jeden chléb, když je na týden k dispozici nejvýše padesát osm achtelů? Podle toho se každý snadno zařídí, kdo rozumí trojčlence (Regula de tri), která je obecně známá: tedy se mají 2 libry vynásobit 58 achtely, vyjde 116; to se má dělit 77 achtely, a vyjde, jak těžký chléb se má péci, totiž půldruhé libry oproti váze dvou [liber] chleba[^2], nehledě na zbytek po dělení; a tímto chlebem lze uživit tisíc osob po celý týden. Totéž se může stát i po dnech a měsících, anebo podle počtu osob, jak bylo stanoveno výše – nejprve od 100, potom 500 a dále, jak stojí v řádu – obdobně, jako se stalo výše pro tisíc osob.
+- typ: odstavec
+  de: |-
+    Weitter mag auch geschehen / das ein benügen an getreydt / vnnd kein mangel vorhanden / vnnd das Brot mit den zwei pfunden auff ein person zu klein / were / so mag dasselbig auch gemehrt werden / daß ein person ein vol benügen haben möcht / vnnd kan gleicher gestalt durch obgemelte Regel de Tri zuwegen gebracht vnd gerechnet werden / wie im abgang mit den 1000. person / also kan sich ein jeder / dem jetztgemelte Regel kündig / wol darnach zurichten haben.
+  cs: |-
+    Dále se může také stát, že je dostatek obilí a není žádný nedostatek a chléb o dvou librách by byl pro jednu osobu příliš malý; pak lze týž chléb i zvětšit, aby osoba měla plný dostatek, a lze to stejným způsobem provést a vypočítat pomocí výše zmíněné trojčlenky jako při nedostatku u 1000 osob. Tak se každý, kdo tuto poučku zná, může podle toho snadno zařídit.
+poznamky:
+- n: 1
+  text: |-
+    Na předchozí straně (fol. 37r) tisk u 1000 osob na týden správně uvádí 77 achtelů a 6 měřic (zde v tisku nedopatřením „tři měřice“).
+- n: 2
+  text: |-
+    Výpočet trojčlenkou: (2 × 58) : 77 = 116 : 77 ≈ 1,506 libry na jeden bochník (tisk píše „auff zwei Brot schwer“ ve smyslu oproti původní váze dvouliberového chleba).

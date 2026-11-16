@@ -1,0 +1,143 @@
+id: 046v
+list: '46'
+strana: verso
+sken: 180
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Die gemelten 50. pfundt des abgangs tregt der teig / so die schwere des wassers daran kompt / herwider damit volnkomlich werden die obgemelten 8. Centner.
+  cs: |-
+    Zmíněných 50 liber {pfundt} úbytku vynahradí těsto, jakmile k němu přistoupí váha vody, čímž se zcela doplní výše uvedených 8 centů {Centner}.
+- typ: odstavec
+  de: |-
+    Auß disen 8. Centner meel mögen gebachen werden 400. Brot / der jedes wigt 2. pfundt.
+  cs: |-
+    Z těchto 8 centů mouky lze upéci 400 chlebů, z nichž každý váží 2 libry.
+- typ: odstavec
+  de: |-
+    So mann nun einer person zurechnet ein Brot / daruon sie dann eins tags redtlich vnd wol außkommen mag / so speißt mann von einem Schaff einen tag 400. Personen.
+  cs: |-
+    Počítá-li se tedy jedné osobě jeden chléb, s nímž pak po celý den řádně a dobře vyžije, nakrmí se z jednoho korce {Schaff} za jeden den 400 osob.
+- typ: odstavec
+  de: |-
+    Item / 400. Personen werden gespeißt von 30. schaff getreidt / ein Monat lang.
+  cs: 'Dále: 400 osob se uživí ze 30 korců obilí po celý jeden měsíc.'
+- typ: odstavec
+  de: |-
+    Item / so mögen von den 840. schaff getreidts einn Monat lang gespeißt werden 11200. Personen.
+  cs: 'Dále: z 840 korců obilí lze tedy po jeden měsíc živit 11 200 osob.'
+- typ: odstavec
+  de: |-
+    Nun mögen aber durch vermelte abwechselung in einem Monat 30. Schiff gefürt werden / deren jedes für 70. schaff getreidts gerechnet / thůt 2100. Schaff getreidts.
+  cs: |-
+    Zmíněným střídáním lze však za jeden měsíc přivést 30 lodí, z nichž každá se počítá na 70 korců obilí, což činí 2100 korců obilí.
+- typ: odstavec
+  de: |-
+    Von disen 2100 Schaff treidts mögen einn Monat allwegen einer Person ein pfundt Brots gerechnet / werden erhalten 28000. Mann.
+  cs: |-
+    Z těchto 2100 korců obilí může být po jeden měsíc – počítáno vždy jedné osobě jedna libra chleba[^1] – živeno 28 000 mužů.
+- typ: odstavec
+  de: |-
+    Darauß ist zumercken / wo mann sich zeitlich zu sollicher Prouiant fürung schicken / das on verfürung der Schiff / mit der zeit ein trefflich groß volck / mit gůter ordnung vnderhalten werden möcht.
+  cs: |-
+    Z toho je patrné, že kdyby se včas přikročilo k takové dopravě proviantu {Prouiant}, dalo by se bez odplutí lodí časem v dobrém pořádku uživit nesmírně velké množství lidu.
+- typ: odstavec
+  de: |-
+    Dabeneben ist aber hoch von nöten / das bei den vorgesetzten Flecken vorhin gůt Můlwerck bestelt / vnd zugericht werde / darmit nicht allein getreidt / sonder auch (im fall der notturfft) meel oder gar gebachen Brot gefürt werden möge.
+  cs: |-
+    Vedle toho je však velice nutné, aby v dříve uvedených městečkách byly předem objednány a zařízeny dobré mlýny, aby se v případě potřeby nemuselo dovážet jen obilí, nýbrž i mouka nebo dokonce upečený chléb.
+- typ: odstavec
+  de: |-
+    Item / ein gemein Schiff das 9. schůh breit ist im boden / vnd 19. Klafftern lang / fürt gemeinlich 60. oder 70. Schaff getreidts / einen tag von Ingolstatt biß gen Regenspurg / von Regenspurg biß gen Deckendorff / von Deckendorff biß gen Passaw / von Passaw biß gen Mechausen / von Mechausen biß gen Lintz / von Lintz gen Stein / von Stein gen Wien.
+  cs: |-
+    Dále: obyčejná loď, která je na dně široká 9 stop {schůh} a dlouhá 19 sáhů {Klafftern}, veze běžně 60 nebo 70 korců obilí za jeden den z Ingolstadtu až do Řezna, z Řezna až do Deggendorfu, z Deggendorfu až do Pasova, z Pasova až do Mechausenu[^2], z Mechausenu až do Lince, z Lince do Steinu a ze Steinu do Vídně.
+- typ: odstavec
+  de: Item / ein viertel Korn wigt 2. Centner / Ingolstätter maß.
+  cs: 'Dále: jedna čtvrť {viertel} žita váží 2 centy ingolstadtské míry.'
+- typ: tabulka
+  de:
+  - - ''
+    - Vlm vnd Neuburg gen Ingolstatt
+    - 6.0
+    - ''
+  - - ''
+    - Ingolstatt gen Regenspurg
+    - 9.0
+    - ''
+  - - ''
+    - Regenspurg gen Passaw
+    - 20.0
+    - ''
+  - - ''
+    - Passaw gen Lintz
+    - 12.0
+    - ''
+  - - Von
+    - Lintz gen Stein oder Krembs
+    - 15.0
+    - Meiln.
+  - - ''
+    - Stein Krembs gen Wien
+    - 10.0
+    - ''
+  - - ''
+    - Wien gen Breßburg
+    - 10.0
+    - ''
+  - - ''
+    - Breßburg gen Gamern oder Gran
+    - 7.0
+    - ''
+  - - ''
+    - Gran Blintenburg vnd Ofen
+    - 15.0
+    - ''
+  cs:
+  - - ''
+    - z Ulmu a Neuburgu do Ingolstadtu
+    - 6
+    - ''
+  - - ''
+    - z Ingolstadtu do Řezna
+    - 9
+    - ''
+  - - ''
+    - z Řezna do Pasova
+    - 20
+    - ''
+  - - ''
+    - z Pasova do Lince
+    - 12
+    - ''
+  - - Vzdálenosti
+    - z Lince do Steinu či Kremže
+    - 15
+    - mil {Meiln}
+  - - ''
+    - ze Steinu a Kremže do Vídně
+    - 10
+    - ''
+  - - ''
+    - z Vídně do Prešpurku[^3]
+    - 10
+    - ''
+  - - ''
+    - z Prešpurku do Komárna či Ostřihomi
+    - 7
+    - ''
+  - - ''
+    - z Ostřihomi, Vyšehradu a do Budína {Ofen}
+    - 15
+    - ''
+poznamky:
+- n: 1
+  text: |-
+    Tisk uvádí „jednu libru chleba“, avšak počet 28 000 mužů odpovídá jednomu dvouliberovému chlebu denně jako v předchozím výpočtu (2100 : 30 × 400 = 28 000).
+- n: 2
+  text: |-
+    Mechausen – pravděpodobně zkomolené dunajské přístavní místo mezi Pasovem a Lincem (snad Neuhaus an der Donau či Aschach, případně Mauthausen pod Lincem).
+- n: 3
+  text: |-
+    Podunajské názvy v předloze: Breßburg (Prešpurk / Bratislava), Gamern (Komárno), Gran (Ostřihom / Esztergom), Blintenburg (Vyšehrad / Visegrád), Ofen (Budín).

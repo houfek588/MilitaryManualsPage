@@ -1,0 +1,42 @@
+id: 006v
+list: '6'
+strana: verso
+sken: 104
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vorkommen/ vnd das den Knechten durch die Obersten vnd Hauptleut jr besoldung nicht also abgeschetzt werde.
+  cs: |-
+    a tomu, aby plukovníci {Obersten} a hejtmani {Hauptleut} takto nekrátili knechtům {Knechten} jejich žold {besoldung}.
+- typ: odstavec
+  de: |-
+    Zu dem dritten/ wie ich doch die Knecht/ vnd das ander Kriegsuolck in gůtem gehorsam vnnd Regiment erhalten möge/ damit sie nicht also on notwendige vrsachen schreien.
+  cs: |-
+    Za třetí, jak bych mohl knechty i ostatní válečný lid {Kriegsuolck} udržet v dobré poslušnosti a kázni {Regiment}, aby takto bez nutné příčiny nekřičeli.
+- typ: odstavec
+  de: |-
+    Zu dem vierdten/ wie wir die Leger inn gůter hůt vnd verwarung halten mögen.
+  cs: Za čtvrté, jak můžeme udržet ležení {Leger} v dobré ochraně a bezpečí.
+- typ: odstavec
+  de: |-
+    Zu dem fünfften/ wie ich doch den grossen Troß vnd wägen geringern möge.
+  cs: Za páté, jak bych mohl zmenšit veliký trén {Troß} a vozy.
+- typ: odstavec
+  de: |-
+    Zu dem sechsten vnd letsten/ wie ich doch die vnchristliche Gottes lesterung wehren vnd abbrengen/ vnd einen gemeinen Gottes dienst anrichten vnd erhalten möge/ damit das volck in Gottes forcht vnd ehr lebe möcht/ vnnd nit also wie das vnuernünfftig viehe/ ein leben vnd wandel fůre.
+  cs: |-
+    Za šesté a naposledy, jak bych mohl bránit nekřesťanskému rouhání Bohu a vymýtit je a zřídit a udržet obecnou bohoslužbu, aby lid mohl žít v bázni Boží a počestně, a nevést život a chování jako nerozumný dobytek.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Rathschlag auff des Kriegsherrn vbergebene Artickel/ an die Kriegs Räth.
+  cs: |-
+    Dobré zdání na články {Artickel} předané válečným pánem {Kriegsherrn} válečným radům {Kriegs Räth}.
+- typ: odstavec
+  de: |-
+    AVff die vbergebene Artickel/ so E. Röm. Key. May. vns zuberathschlagen zugestelt/ so haben wir gehorsamlich die für vns genommen/ vnd vnser gůt beduncken/ wie wir vermeinen die fürzunemen seien/ auff das kurtzest inn Schrifften verfast/ wie Ewer Röm. Keyserliche Maiestat dieselben zubesehen/ vnd doch nach jrem gefallen vnnd gůt beduncken zuthůn haben. Erstlich souil die Prouiant betrifft/ so haben Ewer Röm. Key. Maiestat ein ordenung fürgenomen/ wie die beschriben vnd verordenet ist/ So ist derhalben vnser gůt beduncken/ daß Ewer Röm. Keys. Maiestat darob gestreng gehalten hetten/ vnnd den Prouiant herrn auff solches für sich genommen/ vnd mit allem ernst/ jhm das zu dem hertesten beuolhen/ Dann Ewer Röm. Keys. Maiest. wissen/ wie auch bei meniglichen zugedencken ist/ Das an der Prouiant alle sachen des Kriegs stehn wil/ vnd Ewer Römis. Keys. Maiestat/ inn dem kein finantz/ noch einige hindernuß oder verseumnuß leiden können. Dann so die Prouiant in ein vnordnung oder vngleicheit kommen würde/ so hett alles Kriegsuolck des ein nachtheil vnd vrsach vnwillig zusein/ darauß dann aller vngehorsam vnd schreien dem Prouiantherrn entsteht. Derhalben so wölle E. Röm. Keys. Mat. jme das gesagt haben/ dieweil jr Maiestat also ein hohes vertrawen zu jm habe/ vnd das wichtig ampt vnd versehung jm zustelle vnd beuelhe/
+  cs: |-
+    Předané články, které nám Vaše římská císařská Milost postoupila k uvážení, jsme poslušně vzali před sebe a své dobré zdání o tom, jak je podle našeho mínění třeba postupovat, jsme co nejstručněji sepsali, aby do něj Vaše římská císařská Milost mohla nahlédnout a přesto naložit podle své libosti a úsudku. Předně pokud jde o proviant {Prouiant}, vydala Vaše římská císařská Milost řád, jak je zapsán a nařízen; naším dobrým zdáním tedy jest, aby na něm Vaše římská císařská Milost přísně trvala, předvolala si k tomu proviantního pána {Prouiant herrn} a se vší vážností mu to co nejpřísněji přikázala. Neboť Vaše římská císařská Milost ví – jak je ostatně každému zřejmé –, že na proviantu spočívají všechny věci války a Vaše římská císařská Milost v něm nemůže trpět žádné finty {finantz}, ani jakoukoli překážku či nedbalost. Neboť kdyby se proviant dostal do nepořádku nebo nerovnosti, měl by z toho veškerý válečný lid škodu a příčinu k nevoli, z čehož pak proti proviantnímu pánovi vzniká veškerá neposlušnost a křik. Proto nechť mu Vaše římská císařská Milost ráčí říci, že poněvadž k němu má Vaše Milost tak vysokou důvěru a tento důležitý úřad i správu mu svěřuje a poroučí,

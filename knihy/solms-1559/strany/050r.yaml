@@ -1,0 +1,42 @@
+id: 050r
+list: '50'
+strana: recto
+sken: 185
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Von des Wagenburgmeisters Ampt / was jhm zusteht / vnd zuuersehen gebürt.
+  cs: |-
+    O úřadu mistra vozové hradby {Wagenburgmeisters}, co mu přísluší a co má obstarávat
+- typ: odstavec
+  de: |-
+    DEr wagenburgmeister der hat sein besonder Ampt vnnd beuelch / stehet den Zeugmeistern zů / er hat auch sein eigen Regiment vnd versehung.
+  cs: |-
+    Mistr vozové hradby má svůj zvláštní úřad a pravomoc; podléhá zbrojmistru {Zeugmeistern} a má také svůj vlastní pluk {Regiment} a správu.
+- typ: odstavec
+  de: |-
+    Zum ersten / so soll ein wagenburgmeister alle wagen / so zu der wagenburg gehören / nach der Ordnung beschrieben haben / Also das er vor das erst wisse aller Obersten wagen / vnd der hohen Ampter / wie den nach einander vnd auff einander zufaren gebüret / deßgleichen so soll er haben seinen Leutenant vnd andere mehr personen / die auff jn warten vnd also für ein helffen / auch der wagenmeister der gehört vnder jhn / Vnd so in der Artlerei wagen würden sein / die mit Geschütz weren zugericht / dieselbigen sollen dem wagenburgmeister mit jhrer zůgehörender rüstung vndergeben werden / die soll der wagenburgmeister versorgen vnd bei sich behalten.
+  cs: |-
+    Předně má mít mistr vozové hradby všechny vozy, které patří k vozové hradbě {wagenburg}, řádně zapsány podle pořadí, tak aby především věděl o všech vozech nejvyšších velitelů {Obersten} a vysokých úřadů, jak jim náleží jet po sobě a za sebou. Stejně tak má mít svého poručíka {Leutenant} a další osoby, které mu jsou k ruce a takto společně pomáhají; také vozmistr {wagenmeister} podléhá pod něj. A budou-li u dělostřelectva {Artlerei} vozy upravené s děly {Geschütz}, mají být mistru vozové hradby předány i s příslušnou výzbrojí {rüstung}; ty má mistr vozové hradby opatrovat a mít u sebe.
+- typ: odstavec
+  de: |-
+    Der wagenburgmeister der soll auch die wagen ordenen / beieinander nach den Regimenten / das eines jeden Regiments wagen sich bei einander halten vnnd bleiben / Das solle der wagenmeister inn seiner verzeichnuß haben / vnnd dem wagenburgmeister berichten vnnd anzeigen.
+  cs: |-
+    Mistr vozové hradby má také vozy uspořádat pohromadě podle pluků, aby se vozy každého pluku držely a zůstávaly pohromadě; to má mít vozmistr ve svém soupisu a mistru vozové hradby o tom podávat zprávu a ukazovat mu to.
+- typ: odstavec
+  de: |-
+    Darauff soll der wagenburgmeister / dem wagenmeister sagen vnnd weisen / odder auch helffen ordenen / wie er der Regiment wagen / eines jeden Regiments bei einander halten solle / vnnd die auff einander ordnen.
+  cs: |-
+    Nato má mistr vozové hradby vozmistrovi říci a ukázat – nebo i pomoci uspořádat –, jak má vozy pluků, každého pluku zvlášť, držet pohromadě a řadit je za sebou.
+- typ: odstavec
+  de: |-
+    Also so der wagenmeister mit anderen darzů verordneten / dasselbig also halten / vnnd einem jeden Regiment / wo das leit odder liegen wirdt / seinen wagen lassen zufaren / würde aber die notturfft erfordern / daß mann in der wagenburg ziehen můst / so soll der wagenburgmeister die wagenburg ordenen / nach seinem vnnd der Kriegßstendigen bestem verstandt / vnnd so dann Wagen verordenet werden / mit Geschütz / die solle er darzwischen eintheilen / darnach jhr vil seind / vnnd also darbei mit seinen
+  cs: |-
+    Tak to tedy má vozmistr s ostatními k tomu určenými udržovat a každému pluku, tam kde leží nebo bude ležet, nechat jeho vůz přijet. Vyžadovala-li by však potřeba táhnout ve vozové hradbě, má mistr vozové hradby vozovou hradbu seřadit podle svého nejlepšího rozumu a rozumu válečně zkušených lidí[^1]; a jsou-li pak určeny vozy s děly, má je rozdělit mezi ně podle toho, kolik jich je, a zůstat u toho se svými
+poznamky:
+- n: 1
+  text: |-
+    V tisku „Kriegßstendigen“ – zřejmě tiskařský překlep místo *Kriegßuerstendigen* (válečně znalých, zkušených lidí).

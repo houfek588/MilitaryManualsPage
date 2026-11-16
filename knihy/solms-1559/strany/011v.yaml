@@ -1,0 +1,46 @@
+id: 011v
+list: '11'
+strana: verso
+sken: 114
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Zum vierdten/ so würde durch solche gemeine Rathschläg vil sachen dem Kriegsherrn eröffnet/ vnd an tag gebracht/ die dem Kriegsherrn auch zubedencken von nöten sein/ die etwan villeicht durch zwo oder drei personn nit bedacht werden möchten.
+  cs: |-
+    Za čtvrté by se skrze takové společné porady válečnému pánovi {Kriegsherrn} odhalilo a vyneslo na světlo mnoho věcí, které je třeba, aby válečný pán také uvážil, a které by snad dvě nebo tři osoby samy nepromyslely.
+- typ: odstavec
+  de: |-
+    Zum fünfften vnd letsten/ so möcht durch dise vil personn/ etwan etlich Artickel/ daran dem Herren vnd dem gemeinen hauffen angelegen sein würd/ verhalten werden/ vmb derselbigen geitz/ finantz/ oder gewinß willen. Derhalben so achten wir den gemeinen Rath/ durch obgemelte beuelchs leut/ nicht für vndienstlich.
+  cs: |-
+    Za páté a naposledy by jinak některé články {Artickel}, na nichž by pánovi i obecnému houfu záleželo, mohly být zatajeny pro lakotu, finty {finantz} či ziskuchtivost těchto nemnohých osob. Proto tedy nepokládáme společnou radu z uvedených velitelů {beuelchs leut} za neprospěšnou.
+- typ: odstavec
+  de: |-
+    Den fünfften Artickel den Troß betreffent/ ist nicht gůt ein grossen Troß zu haben/ vnd souil müglich ist/ den Troß zu geringern/ dann der Troß wil gleich so wol essen/ als der recht geschaffen hauff/ das brengt dem Leger ein nachtheil/ für das erst.
+  cs: |-
+    Pokud jde o pátý článek týkající se trénu {Troß}, není dobré mít veliký trén a je třeba jej zmenšit, jak jen to je možné; trén totiž chce jíst stejně dobře jako řádný bojový houf {hauff}, což je pro ležení {Leger} na újmu – to zaprvé.
+- typ: odstavec
+  de: |-
+    Zum andern/ im ziehen so der Troß groß ist/ so helt er den nachzug auff/ daß er weit dahinden bleiben můß/ das helt einen hauffen lang auff/ daß sie nit zusamen mögen/ besonder in der enge.
+  cs: |-
+    Za druhé, při tažení, je-li trén veliký, zdržuje zadní voj {nachzug}, takže ten musí zůstávat daleko vzadu, což houf dlouho zdržuje, takže se nemohou spojit, zvláště v úzkých místech.
+- typ: odstavec
+  de: |-
+    Soll mann dann von den Feinden ziehen/ vnd der Troß hinfür auff den fürzug zeucht/ so helt er den gantzen hauffen auff/ vnnd wann mann eyllens ziehen můßt/ auß not/ möcht das vor dem grossen Troß nit geschehen/ vnd so der Troß dann also groß ist/ dringt er den fürzug vnd den rechten hauffen weit von einander/ vnd so dann etwann würd in den Troß gefallen von den Feinden/ inn der enge durch die lange reyhe/ so kan ein Troß ein flucht gemachen/ vnd die grossen hauffen auch in vnordenung brengen oder flucht/ wiewol zu achten ist. Nun ist es aber nicht fast wol zuuorkommen/ auß vilen vrsachen/ dann die Knecht haben vil Weiber/ eins ist sein eheweib/ der ander wil sunst on sein Hůrn nit ziehen/ vnnd dergleichen hat es also ein jrrung/ so wöllen ein theil buben haben/ vnnd wann mann also beittet/ biß daß mann in der Feind landt ist/ vnd wil dann den Troß mustern/ das ist beschwerlich/ vnd macht grossen vnwillen.
+  cs: |-
+    Má-li se pak ustupovat od nepřátel a trén táhne vpředu u předvoje {fürzug}, zdržuje celý houf; a kdyby se muselo z nouze táhnout ve spěchu, nešlo by to kvůli velikému trénu. A když je trén tak velký, tlačí předvoj a hlavní houf daleko od sebe; a kdyby pak nepřátelé vpadli v úžině do trénu přes jeho dlouhý zástup, může trén vyvolat útěk a uvést v nepořádek či na útěk i velké houfy, jak je snadno pochopitelné. Tomu se však nedá snadno zabránit z mnoha příčin: knechti {Knecht} totiž mají mnoho žen – jedna je jeho manželka, druhý zase nechce táhnout bez své děvky, a tak je v tom zmatek –, někteří chtějí mít pacholata {buben},[^1] a když se čeká, až se vstoupí do nepřátelské země, a teprve pak se chce trén přehlížet {mustern}, je to obtížné a vyvolává velikou nevoli.
+- typ: odstavec
+  de: |-
+    Vns bedunckt aber ob es durch disen weg zuuorkommen wer/ daß mann inn dem ersten vmbschlagen vnd annemen der knecht/ wann mann die annimpt vnd einschreibt/ vorgehalten hett/ daß man jnen solchen troß nicht zulassen wirt/ es weren dann jre Eheweiber/ vnnd welcher also mit Hůren wöl vmbziehen/ denselbigen wolt er nicht annemen/ was von eintzlichen Knechten weren/ dann dasselbig ist doch liederlich volck/ vnd ist kein gluck noch frieden darbei.
+  cs: |-
+    Zdá se nám však, že by se tomu dalo předejít tím způsobem, kdyby se při prvním bubnování a najímání knechtů, když se přijímají a zapisují, předestřelo, že jim takový trén nebude dovolen – ledaže by to byly jejich manželky –, a kdo by chtěl táhnout s děvkami, toho že nepřijme, pokud jde o svobodné knechty; to je totiž stejně prostopášná cháska a není při tom ani štěstí, ani pokoj.
+- typ: odstavec
+  de: |-
+    Were es aber der gesindt hett/ vnd ein Köche haben můßt/ der kan nit wol eines Weibs entberen/ zu kochen/ waschen vnnd warten/ das muß mann zulassen/ wolt aber einer eine mit fůren/ die allein auff sein
+  cs: |-
+    Kdyby však měl někdo čeleď a musel mít kuchyni, ten se bez ženy na vaření, praní a obsluhu neobejde, což je nutno dovolit; kdyby však chtěl někdo s sebou vozit ženu, která má obsluhovat jen jeho
+poznamky:
+- n: 1
+  text: |-
+    Pacholata (něm. *Buben*) a služebné ženy tvořily běžnou součást trénu (*Troß*).

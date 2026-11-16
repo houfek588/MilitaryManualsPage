@@ -1,0 +1,23 @@
+id: 055v
+list: '55'
+strana: verso
+sken: 194
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    holen / wie er den morgen mit den Wagen ziehen soll / neben oder inn der Ordnung / wirt aber der Feldmarschalck kein beuelch von dem Obersten derhalben haben / so soll er den bescheid selbst von dem Obersten holen / damit er wisse die Wagen zufüren / dann so er feld haben mag / So ist der gebrauch / daß mann die Wagen leßt neben der Ordnung gehn / vnd so das also sein wirt / so soll er die Wagen lassen neben einander gehn / souil er kan / damit er die reyhe kürtzen künde / So er aber neben der Ordnung nicht ziehen kan / so gehört er hinder den gewaltigen hauffen / vnd darnach darauff ein zeucht / so soll er doch dann auch die wagen / souil er wegs halben haben mage neben einander in jrer Ordnung gehn lassen / Wirt aber der wagenburgmeister die wagen wöllen haben zu der wagenburg / so soll er die jm lassen ordnen nach seim gefallen / Darzů soll er jm mit seinem Gesinde mit fleiß behilfflich sein. Das ist also des wagenmeisters ampt vnd beuelch / damit hat er gnůg zuthůn / so anders ein Zuge etwas groß ist / Darumb gehöret ein geschickter Man darzů / dann es hat wol nicht ein klein arbeit vnd versehung / vnnd so ein geschickter wagenmeister ist / der kan vil jrrung vnder den wagen verkommen / vnd vil im feld den Zug kürtzen vnd fürdern.
+  cs: |-
+    vyzvednout rozkaz, jak má ráno s vozy táhnout – vedle šiku {Ordnung}, či v šiku. Nebude-li však mít polní maršálek {Feldmarschalck} o tom žádný rozkaz od nejvyššího velitele {Obersten}, má si pokyn vyzvednout sám od nejvyššího velitele, aby věděl, jak vozy vést. Má-li totiž dostatek volného prostoru v poli, bývá zvykem nechat vozy jet vedle šiku; a bude-li tomu tak, má nechat vozy jet vedle sebe v tolika řadách, v kolika jen může, aby mohl zkrátit kolonu. Nemůže-li však táhnout vedle šiku, patří za hlavní houf {gewaltigen hauffen}, a podle toho, jak se táhne za ním, má pak i tak nechat vozy jet vedle sebe v jejich pořádku, nakolik mu to cesta dovolí. Bude-li však mistr vozové hradby {wagenburgmeister} chtít mít vozy do vozové hradby {wagenburg}, má mu je nechat seřadit podle jeho libosti; k tomu mu má se svou čeledí pilně pomáhat. To je tedy úřad a pravomoc vozmistra {wagenmeisters}, a má s tím dost co dělat, je-li tažení {Zuge} jen trochu velké. Proto k tomu patří schopný muž, neboť to vyžaduje nemálo práce a starosti; a je-li vozmistr {wagenmeister} schopný, může předejít mnoha zmatkům mezi vozy a v poli tažení velmi zkrátit a urychlit.
+- typ: odstavec
+  de: |-
+    Würde mann aber mit Welschen ziehen / die vil Esel haben / vnd nicht wagen / so mag mann die Esel auch wol in der Ordnung wie die wägen / behalten / aber doch nicht vnder / sonder neben den wägen / sie sollen auch nicht vnder das Kriegsuolck / sondern allein auff einem hauffen ziehen / vnnd so etwan würden böse weg sein / vnnd die Esel vortringen wolten / vnnd die wägen auff halten / daß soll mann jhn nicht gestatten / sie bleiben dann in der Ordnung / vnder die wägen eingetheilt / oder sollen ein eigen weg fürnemen / oder so mann wirt ein wagenburg ordnen vnnd füren / da gehören die Esel gar nicht hin / Darumb were gůt daß die Esel würden allein geordnet / vnd die wägen nicht bekömmerten / vnd auch jhren eygen Forirer hetten.
+  cs: |-
+    Táhlo-li by se však s Vlachy {Welschen}, kteří mají mnoho oslů a ne vozy, mohou se i osli držet v pořadí stejně jako vozy, nikoli však mezi vozy, nýbrž vedle nich; nemají také táhnout mezi válečným lidem {Kriegsuolck}, nýbrž samotní v jednom houfu. A kdyby snad byly zlé cesty a osli by se chtěli tlačit dopředu a zdržovat vozy, to se jim nemá dovolit – ledaže by zůstali v pořádku rozděleni mezi vozy, anebo ať si zvolí vlastní cestu; anebo když se bude řadit a vést vozová hradba, tam osli vůbec nepatří. Proto by bylo dobré, aby byli osli seřazeni zvlášť, vozům nepřekáželi a měli také svého vlastního furýra {Forirer}.
+- typ: odstavec
+  de: |-
+    Darzů soll jhm von dem Kriegßherrn Knecht vnd Pferde / nach gelegenheit / vnd wie es die notturfft erfordern würde / vnnd ein Leger groß oder klein were / darnach gehalten werden / damit er dasselbig versehen möge.
+  cs: |-
+    K tomu mu má válečný pán {Kriegßherrn} vydržovat čeledíny {Knecht} a koně podle okolností a podle toho, jak by si to vyžadovala potřeba a zda by ležení {Leger} bylo velké či malé, aby svůj úřad mohl zastat.

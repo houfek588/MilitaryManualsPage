@@ -1,0 +1,56 @@
+id: 028v
+list: '28'
+strana: verso
+sken: 148
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Was des kleinen Geschütz ist / als doppel / einfach / halb hacken vnd Handror das wöllen die Zeugmeister es gehör dem Obersten Zeugmeister allein on alle mittel zů / vnnd dasselbig seines gefallens verhandeln.
+  cs: |-
+    Pokud jde o malé palné zbraně {kleinen Geschütz}, jako jsou dvojité {doppel hacken}, jednoduché a poloviční hákovnice a ručnice {Handror}, tvrdí zbrojmistři {Zeugmeister}, že to všechno patří přímo samotnému nejvyššímu zbrojmistrovi a že s tím může nakládat podle své libosti.
+- typ: odstavec
+  de: |-
+    Etlich Zeugmeister wöllen / wenn ein Flecken erobert werde / es sei mit stürmen oder durch vbergeben / so seien alle Glocken des obersten Zeugmeisters / vnd mann sei schuldig sie von jm zulösen.
+  cs: |-
+    Někteří zbrojmistři požadují, aby při dobytí městečka – ať útokem {stürmen}, nebo vzdáním – patřily všechny zvony[^1] nejvyššímu zbrojmistrovi a bylo povinností je od něj vyplatit.
+- typ: odstavec
+  de: |-
+    So wöllen etliche es sei allein die sturm glock oder die damit mann anschlecht des obersten Zeugmeisters.
+  cs: |-
+    Jiní zas tvrdí, že nejvyššímu zbrojmistrovi patří pouze poplachový zvon {sturm glock} neboli ten, kterým se bije na poplach.
+- typ: odstavec
+  de: |-
+    Weil nun dise Disputationen im Krieg vil widerwertigkeit geberen / so were es das best / der Kriegsherr / verglich sich in der Bestallung mit dem Zeugmeister / daß er wuste was sein gerechtigkeit were / vnd ließ jhm dannoch etwas an den gemelten stücken / damit er vrsach hett / desto fleissiger darob vnd daran zusein / daß die Flecken auch in Schlachten desto ernstlicher beschossen / vnd dardurch desto ehe erobert würden.
+  cs: |-
+    Protože však tyto spory plodí ve válce mnoho mrzutostí, bylo by nejlepší, kdyby se válečný pán {Kriegsherr} se zbrojmistrem dohodl už ve služebním listu {Bestallung}, aby věděl, na co má právo, a přece mu něco ze zmíněných položek ponechal, aby měl podnět usilovat s tím větší pílí o to, aby městečka – i v bitvách – byla tím prudčeji ostřelována, a díky tomu tím dříve dobyta.
+- typ: odstavec
+  de: |-
+    Der jetztgemelten vrsachen halben / soll ein jeder Kriegsherr nach eroberung der Schlacht vnd Flecken / den Büchsenmeistern ein verehrung thůn / vnd denen in sonderheit / die für andern in der Handlung wol geschossen haben / also wirt es auch zu ende des Kriegs gebraucht.
+  cs: |-
+    Z právě uvedených příčin má každý válečný pán po vyhrané bitvě a dobytí městečka udělit puškařům {Büchsenmeistern} čestný dar {verehrung}, a zvláště těm, kdo při akci stříleli lépe než ostatní; tak se to činí i na konci války.
+- typ: odstavec
+  de: |-
+    Des obersten Zeugmeisters ist alles zerbrochen Geschütz / was in Schlachten oder Flecken gewunnen wirt.
+  cs: |-
+    Nejvyššímu zbrojmistrovi patří všechna rozbitá děla {Geschütz}, která se ukořistí v bitvách nebo městečkách.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister ist schuldig vmb gůt Büchsenmeister zubesehen / vnd ob dem Kriegsherrn gleichwol ein wenig mehr darauff geht / ist er dannoch wolfeil / angesehen / das gůt Schützen die eroberung der Flecken vnd Schlachten fast fürdern.
+  cs: |-
+    Zbrojmistr je povinen postarat se o dobré puškaře; a třebaže to válečného pána stojí o něco více, vyplatí se to levně vzhledem k tomu, že dobří střelci {Schützen} dobytí městeček i vítězství v bitvách velice napomáhají.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister soll auch sampt seim Leutenant fleissig auffmercken / wann ein Fleck an einem ort durch den obersten Feldhauptman dem Zeugmeister vnd andern Kriegsuerstendigen zubeschiessen / beschlossen wirt / daß solches gantz ordenlich geschehe / vnnd nicht allein die Maurn / Thürn / oder Polwerck / so sie beschiessen sollen / wol treffen / sonder daß sie auch das Geschütz mit dem Puluer nicht zu vil odder wenig / auch recht Kugeln laden / dann laden sie zu wenig so wircket es nichts / laden sie zuuil / oder die Kugeln nit recht seind / so bricht das Geschütz / darauß eruolget dann dem Herren vnwiderbrenglicher schad vnd nachtheil.
+  cs: |-
+    Zbrojmistr má také spolu se svým poručíkem {Leutenant} pilně dohlížet na to, když nejvyšší polní hejtman {obersten Feldhauptman} se zbrojmistrem a jinými znalci vojenství usnese ostřelovat městečko na určitém místě, aby se to dálo zcela řádně a aby nejen dobře zasahovali hradby, věže nebo bolverky {Polwerck}, které mají ostřelovat, nýbrž aby také děla nenabíjeli příliš velkým či příliš malým množstvím střelného prachu {Puluer} a nabíjeli správné koule {Kugeln}: nabíjejí-li totiž málo, nemá to účinek, nabíjejí-li příliš mnoho nebo nejsou-li koule správné ráže, dělo praskne, z čehož pak pánovi vznikne nenahraditelná škoda a újma.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister soll fleissig auffsehen / wann er einen Flecken bescheußt / daß er den in der Besatzung das bawen wehr / solchs kan nit füglicher geschehn / dan daß er sein Geschütz allweg halb laß abgehn /
+  cs: |-
+    Zbrojmistr má pilně dbát na to, když ostřeluje nějaké městečko, aby zabránil těm v posádce {Besatzung} v opravách a stavbě; to nelze učinit vhodněji, než že nechá svá děla vypálit vždy jen po polovině,
+poznamky:
+- n: 1
+  text: |-
+    Podle tzv. zvonového práva (*Glockenrecht*) připadaly zvony dobytého města dělostřelcům a zbrojmistrovi jako kořist, takže si je město nebo vítěz museli vykoupit.

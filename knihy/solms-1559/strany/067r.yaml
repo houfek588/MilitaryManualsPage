@@ -1,0 +1,50 @@
+id: 067r
+list: '67'
+strana: recto
+sken: 211
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Vom Obersten Prouosen ampt
+  cs: O úřadu nejvyššího profouse {Prouosen}
+- typ: odstavec
+  de: |-
+    DEr Prouoß soll/ wann er im Ring durch den Obersten vber die Knecht eröffnet wirdt/ anzeigen/ Dieweil er/ wie sie gehört/ zu einem Prouosen angenommen/ so sie sein begern/ daß sie jhm seinen Leutenant/ Steckenknecht/ vnnd Trabanten/ so sie einen oder mehr gefengklich annemen nit verhindern/ sondern jm vnd die seinen inhalt jres auff den Artickelsbrieff geschwornen eydts darzů fürdern/ auch in zeit der not hanthaben wöllen/ er wöl sie auch in disem vnd allen andern Artickeln/ sie seien im Artickelsbrieff begriffen oder sonst Kriegsbrauch/ daß sie darinn nit verwircken/ treulich gewarnt haben.
+  cs: |-
+    Profous má, jakmile je v kruhu {Ring} představen plukovníkem {Obersten} nad knechty {Knecht}, oznámit: poněvadž byl – jak slyšeli – přijat za profouse, je tedy jeho žádostí[^1], aby jemu, jeho poručíkovi {Leutenant}, profousovým pacholkům {Steckenknecht} i drabantům {Trabanten}, když jednoho či více lidí zajmou, nebránili, nýbrž jemu i jeho lidem podle své přísahy {eydts} složené na artikulní list {Artickelsbrieff} v tom pomáhali a v době nouze je hájili; on je pak chce před tímto i před všemi ostatními články – ať jsou obsaženy v artikulním listu, nebo jsou jinak válečným obyčejem –, aby se proti nim neprovinili, věrně varovat.
+- typ: odstavec
+  de: |-
+    Der Prouoß schätzt in der Knecht Leger die Prouiant/ doch soll er sich mit dem vnder Marschalck deßhalb vergleichen/ wie in des Feldmarschalcks 24. Artickel dauon meldung geschicht.
+  cs: |-
+    Profous oceňuje v ležení {Leger} knechtů proviant {Prouiant}; má se však o tom dohodnout s podmaršálkem {vnder Marschalck}, jak se o tom činí zmínka ve 24. článku polního maršálka {Feldmarschalcks}.
+- typ: odstavec
+  de: |-
+    Der Prouoß entpfecht vom Obersten Feldhauptman das maß zum tranck/ die ellen zum tůch/ das gewicht den metzlern vnd Marcatanten.
+  cs: |-
+    Profous přejímá od nejvyššího polního hejtmana {Obersten Feldhauptman} míru na nápoje, loket na sukno a závaží pro řezníky a markytány.
+- typ: odstavec
+  de: |-
+    Der Prouoß hat vom tranck es sei wein oder bier/ auch von denen die der Knecht Leger zu füren/ deßgleichen von den Marcatanten am einnemen/ wie jm daß der Oberst Feldhauptman taxiert/ vnd wann der Prouoß die Leut darüber weitter beschweret/ so ist er hochstrefflich.
+  cs: |-
+    Profous má příjem z nápojů – ať vína nebo piva –, také od těch, kdo je do ležení knechtů dovážejí, i od markytánů, jak mu jej vyměří nejvyšší polní hejtman; a kdyby profous lidi nad to dále zatěžoval, zasluhuje těžký trest.
+- typ: odstavec
+  de: |-
+    Welcher in der Knecht Leger falsche masse/ ellen oder gewicht braucht/ der ist alle sein gůt so er im leger hat dem Obersten vber die Knecht verfallen/ wiewol solches der Prouoß zu zeiten allein nimpt/ vnder weilen theilen sie es miteinander.
+  cs: |-
+    Kdo v ležení knechtů užívá falešnou míru, loket nebo závaží, tomu všechen jeho majetek, který v ležení má, propadá plukovníkovi nad knechty; ač si jej někdy bere profous sám, jindy se o něj dělí spolu.
+- typ: odstavec
+  de: |-
+    Alle Prouiant die in der Knecht Leger verwirckt wirt/ ist des Prouosen allein/ das viehe außgenomen/ das gehört dem Obersten vber die Knecht/ etwan theilen sie es auch mit einander.
+  cs: |-
+    Veškerý proviant, který v ležení knechtů propadne trestem, náleží samotnému profousovi, kromě dobytka – ten patří plukovníkovi nad knechty; někdy se o něj také dělí spolu.
+- typ: odstavec
+  de: |-
+    Der Prouoß hat von allen Rindern die inn der Knecht Leger gemetzlet werden die zungen.
+  cs: |-
+    Profous dostává jazyky ze všech kusů hovězího dobytka, které jsou v ležení knechtů poraženy.
+poznamky:
+- n: 1
+  text: |-
+    V tisku „so sie sein begern“ (patrně přesmyčka za „so sei sein begern“, tj. „je tedy jeho žádostí“).

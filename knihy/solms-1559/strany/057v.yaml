@@ -1,0 +1,23 @@
+id: 057v
+list: '57'
+strana: verso
+sken: 196
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    stand im Reich haben / deßgleichen im Schwäbischen bundt beschehen / auch in jetzigem Keiserlichem bundt / oder inn künfftigen bünden geschehen möcht.
+  cs: |-
+    postavení v říši, stejně jako se dělo ve Švábském spolku a jak by se mohlo dít i v nynějším císařském spolku nebo v budoucích spolcích.
+- typ: odstavec
+  de: |-
+    Es soll auch der Feldmarschalck achtung auff die Quartirmeister haben / dann sie mögen nicht mit dem Quartiern / sonder auch in andere weg gefehrlicheit finantzen vnd eigennützigkeit gebrauchen / vnd fürnemlich daß sie die Leut schetzen / vnd sagen / wolt jhr euch nicht mit vns vertragen / so wöllen wir das Leger zu euch fůren / oder wann sie schon an einem ort quartiern müssen / wöllen sie auff Korn oder hafer feld / da der schaden am grösten ist / quartiern / oder mussen sich mit jnen vertragen / Deßgleichen ist es mit den Flecken auch / da brengen sie etwan vil gelts herauß / wann mann schon nie daselbst zu ziehen noch zu ligen willens gehabt / diser fäll sein gar vil / dardurch die Quartiermeister gefahr můgen treiben / Wann es aber der Feldmarschalck innen wirt / so soll er sie gantz ernstlich straffen.
+  cs: |-
+    Polní maršálek {Feldmarschalck} má také dávat pozor na kvartýrmistry {Quartirmeister}, neboť mohou nejen při rozdělování kvartýrů {Quartiern}, nýbrž i jinými způsoby provozovat nepravosti, finty {finantzen} a zištnost – a především tak, že vydírají lidi a říkají: „Nechcete-li se s námi vyrovnat, zavedeme ležení {Leger} k vám,“ anebo i když už musejí ubytovat na jednom místě, chtějí ubytovat na poli se žitem nebo ovsem, kde je škoda největší, ledaže se s nimi lidé vyrovnají. Stejně tak je tomu i s městečky, odkud někdy vymámí mnoho peněz, ačkoliv vůbec nikdy nebyl úmysl tudy táhnout nebo tam ležet; takových případů je velmi mnoho, jimiž mohou kvartýrmistři páchat nepravosti. Dozví-li se však o tom polní maršálek, má je zcela přísně potrestat.
+- typ: odstavec
+  de: |-
+    Die Quartiermeister sagen der Reutter Hauptleuten an / auß beuelch des Obersten Feldhauptmans odder Feldmarschalcks / wann die Hauptleut inn fürfallenden geschäfften reiten / oder etwann jhre Reutter schicken sollen / angesehen / sie wissen eines jeden Hauptmans Quartier.
+  cs: |-
+    Kvartýrmistři ohlašují hejtmanům {Hauptleuten} jízdy {Reutter} z rozkazu nejvyššího polního hejtmana {Obersten Feldhauptmans} či polního maršálka, kdy mají hejtmani při nastalých úkolech vyjet nebo kdy mají poslat své jezdce, jelikož znají kvartýr každého hejtmana.

@@ -1,0 +1,32 @@
+id: 050v
+list: '50'
+strana: verso
+sken: 186
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: zugeordneten bleiben / vnnd die in gůter Ordnung behalten.
+  cs: přidělenými lidmi a udržovat je v dobrém pořádku.
+- typ: odstavec
+  de: |-
+    Vnnd so er dann also soll vnnd muß / inn der Ordnung mit der Wagenburg ziehen / so soll er jhm lassen Schützen mit Rorn geben / die neben den Wagen gehn / zwischen dem Kriegßuolck vnd den Wagen / die soll er zu den Wagen eintheilen in ordnung / wann daß die notturfft erfordern wirt / vnd er soll die wagen / so offt mann stilhalten wirt / in einander lassen fůren / gleich als wann die feind darauff rennen vnd fallen wolten / Also so der forderst wagen stilhalten wirt / daß der ander dan fort fahre / so weit daß seine pferde neben den wagen kommen der vor jm helt / also daß dieselbigen pferde neben dem andern wagen stehn / vnd der forderst wagen dieselbige pferde gegen dem fein verdeckt / Also sollen alle wagen mit den pferden hinder oder neben die Wagen rücken / dann werden alle pferde mit dem Wagen verdeckt / vnd verdeckt also ein wagen dem andern seine pferde / sonder der aller forderst Wagen / der můß sein pferde allein bloß stehn lassen.
+  cs: |-
+    A má-li a musí-li tedy takto táhnout v šiku {Ordnung} s vozovou hradbou {Wagenburg}, ať si dá přidělit střelce {Schützen} s ručnicemi {Rorn}, kteří půjdou podél vozů mezi válečným lidem {Kriegßuolck} a vozy; ty má rozdělit k vozům do pořádku, kdykoli to bude potřeba vyžadovat. A pokaždé, když se zastaví, má nechat vozy zajet do sebe, stejně jako by na ně nepřátelé chtěli najet a vpadnout: totiž jakmile přední vůz zastaví, ať další popojede tak daleko, až se jeho koně dostanou vedle vozu, jenž stojí před ním, takže tito koně stojí vedle druhého vozu a přední vůz tyto koně před nepřítelem[^1] kryje. Takto se mají všechny vozy s koňmi zasunout za vozy nebo vedle nich; pak jsou všichni koně vozem kryti a jeden vůz tak kryje koně druhému – kromě docela prvního vozu, který jediný musí nechat své koně stát nekryté.
+- typ: odstavec
+  de: |-
+    Vnnd so mann dann wider soll anziehen / laß mann sie wider auß einander ziehen / wie sie inn vnnd neben einander gezogen sind / also kommen sie in einen gebrauch / Wurde es sich aber zutragen / daß es ernst sein wirdt / daß die Feinde auff die Wagenburg rennen würden / so sollen die Wagen also wider neben einander rücken / daß die pferde neben die Wagen kommen / Vnd so man es an dem Geschütz haben mag / so sollen vber zwentzig wagen ein Büchsen eingetheilet werden / vnnd sollen die Wagen nach dem zwentzigsten wagen / auff die seitten gegen den feinden außrucken / so weit das zwischen jnen ein Büchsen stehn mag in der lucken / da die zwen Wagen neben ein ander im wechsel stehn / vnd die Büchsen sollen also die leng an den zwentzigsten Wagen aussen neben hin streichen / vnd an dem wagen der neben der Büchsen steht / sollen zwentzig Wagen hindersich stehn / die pferde verdeckt wie fornen / vnd zu ende der zwentzig Wagen / soll mann wider einen Wagen außrücken gegen den Feinden / vnd darzwischen ein Büchsen wie vor.
+  cs: |-
+    A když se pak má znovu vyrazit, nechají se vozy zase roztáhnout od sebe tak, jak do sebe a vedle sebe vjely; tím si na to navyknou. Kdyby však došlo k tomu, že půjde do tuhého a nepřátelé by na vozovou hradbu útočili, mají se vozy zase takto srazit vedle sebe, aby se koně dostali vedle vozů. A pokud k tomu budou děla {Geschütz}, má být na každých dvacet vozů přiděleno jedno dělo {Büchsen}, přičemž vozy po dvacátém voze mají vybočit do strany proti nepřátelům tak daleko, aby mezi nimi v mezeře, kde oba vozy stojí vedle sebe v přesazení, mohlo stát dělo; a tato děla mají takto postřelovat zvenčí podél těch dvaceti vozů. U vozu, jenž stojí vedle děla, má stát dalších dvacet vozů za sebou s koňmi krytými jako vpředu, a na konci těch dvaceti vozů se má opět jeden vůz vysunout proti nepřátelům a mezi ně dát dělo jako dříve.
+- typ: odstavec
+  de: |-
+    Also soll es hinden vnnd fornen geordenet werden / so lang die Wagenburg wert / Würde sich es aber begeben / daß der angrieff hindenher / vnnd doch auff die wagenburg keme / so můß das Geschütz hindersich zustreichen geriegen sein / vnd alßdann so můsten die wagen jhre außrückung vnd wechselung gegen den Freünden thůn / es keme anders das Geschütz inwendig der wagenburg gegen den Freünden zustreichen / vnnd so offt ein wechsel sein wirdt /
+  cs: |-
+    Takto to má být uspořádáno vzadu i vpředu po celé délce vozové hradby. Stalo-li by se však, že by útok přišel zezadu, a přece na vozovou hradbu, musí být dělo namířeno k postřelování dozadu, a tehdy by vozy musely provést své vysunutí a přesazení směrem k vlastním oddílům[^2] – ledaže by dělo stálo uvnitř vozové hradby a střílelo směrem k vlastním – a pokaždé, když bude takové přesazení,
+poznamky:
+- n: 1
+  text: V tisku „fein“ (zkrácená či chybná podoba za *Feind* – nepřítel).
+- n: 2
+  text: |-
+    V tisku dvakrát „gegen den Freünden“ (směrem k přátelům, tj. dovnitř k vlastnímu vojsku – oproti vysouvání směrem ven „gegen den Feinden“), případně tiskařská záměna za *Feinden*.

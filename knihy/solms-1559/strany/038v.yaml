@@ -1,0 +1,44 @@
+id: 038v
+list: '38'
+strana: verso
+sken: 164
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    geschicht eim wie dem andern im kauff / vnnd darzů ist gůt rechnung darüber zu machen.
+  cs: |-
+    při koupi se děje jednomu stejně jako druhému, a nadto se na to snadno vede účet.
+- typ: odstavec
+  de: |-
+    Item / so nun dises alles also (wie oben angezeiget) geordenet ist / vnd gehet nun gleich also in seiner ordnung daher / so soll ein freyer platz darzů geordnet sein / darauff sollich Brot hingefürt wirt / vnnd nicht in das Leger / sonder darbei / dann es felhet nicht so es in das Leger gefürt wirdt / es wirt ein getreng vnd vneinigkeit darumb / Das zerbricht vnd zertrennet alle Ordnung / wann aber ein eygen platz geordnet ist / vnd versprochen wirt / daß niemand weder zu roß noch fůß darauff zeucht / dann der darauff geordnet ist / so mag mann ordnung halten.
+  cs: |-
+    Dále: když je tedy toto všechno takto zařízeno, jak bylo výše ukázáno, a běží to řádně ve svém pořádku, má k tomu být vyhrazeno volné prostranství, kam se bude takový chléb dovážet – a nikoli přímo do ležení {Leger}, nýbrž vedle něj; nepochybně se totiž stává, že když se veze do ležení, vzniká kolem toho tlačenice a svár, což boří a rozvrací veškerý řád. Je-li však určeno zvláštní prostranství a zakázáno, aby na ně nikdo pěšky ani na koni nevstupoval kromě toho, kdo je tam určen, lze pořádek udržet.
+- typ: odstavec
+  de: |-
+    Darumb hab ich souil Prouiantmeister gerodnet / daß sie das einem jeden Quartiermeister auff sollichem platz theilen / vnnd daß es nach einander wie sie im Register stehen / getheilt werde / also daß es ordenlich nach einander gehe / damit ein Quartier nicht zweimal / so das ander einmal / kriegt / oder gar nichts bekommen hat / vnnd an welchem es felhen wirt / es were gleich halb oder gantz / daß dann den andern tag / so wider Prouiant kommen würde / an dem / da es am letzten gemangelt / widerumb anfangen.
+  cs: |-
+    Proto jsem ustanovil[^1] tolik proviantmistrů {Prouiantmeister}, aby to na takovém prostranství rozdělovali každému kvartýrmistrovi {Quartiermeister} a aby se rozdělovalo popořadě, jak jsou zapsáni v rejstříku {Register}, tak aby to šlo řádně za sebou – aby jeden kvartýr {Quartier} nedostal dvakrát, zatímco druhý jednou nebo vůbec nic; a u kterého by se nedostalo, ať už z poloviny nebo docela, aby se druhého dne, až zase přijde proviant {Prouiant}, začalo znovu u toho, komu naposledy chybělo.
+- typ: odstavec
+  de: |-
+    Vnd wo nun einem jeden Prouiantmeister sein antheil mit der zal vberliffert / so soll er alßdann dieselbig wägen mit dem Brot / die jm zugeordnet sein / in sein Leger fůren / zu seinen 500. Man / auff ein sondern platz / daselbst vmbschlagen lassen / vnd das bei diejenigen so darzů vnnd inn sein Register gehörig / nemen / vnnd allenthalben nach gebür gleichmessig außtheilen / nach gestalt / wie er das vom Prouiantherrn empfangen hat.
+  cs: |-
+    A jakmile je každému proviantmistrovi předán podle počtu jeho podíl, má pak ty vozy s chlebem, které mu byly přiděleny, odvézt do svého ležení ke svým 500 mužům na zvláštní prostranství, tam nechat bubnem vyhlásit [výdej], přibrat si ty, kteří k tomu patří a jsou v jeho rejstříku, a všude podle náležitosti rovnoměrně rozdělit tak, jak to přijal od proviantního pána {Prouiantherrn}.
+- typ: odstavec
+  de: |-
+    Es ist auch wol abzunemen / daß einer vnder fünffhundert Man / nicht so füglich als vnder eim tausent oder sechs / verschlagen kan / Darzů ists dem obersten Prouiantherrn leichtlicher mit zwei hunderten vmbzugehn / dieweil sie ordenlich stehn / dann solte er mit gantzen hauffen zutheilen vnd zuhandeln haben / bei welchen dann keine ordnung / wie ein jeder verstendiger erachten mag / zuerhalten ist / Vnd haben dann alle hauffen oder viertheil / ein jedes der jhren auch darbei / der versicht ein gantz Quartier das nicht ein jeder selbst lauffen darff / vnd sich bestellen / sonder hat einen der es für jhn außricht / vnd bleibt er in seiner růhe vnd Ordnung.
+  cs: |-
+    Dá se také dobře soudit, že jeden [proviantmistr] mezi pěti sty muži nemůže tak snadno šidit[^2] jako mezi tisícem nebo šesti sty. Navíc je pro nejvyššího proviantního pána snazší jednat se dvěma sty lidmi, protože stojí v řádném pořádku, než kdyby měl dělit a jednat s celými houfy {hauffen}, u nichž – jak každý rozumný člověk může posoudit – nelze udržet žádný pořádek. A všechny houfy čili čtvrti mají přitom každá také svého člověka, který obstará celý kvartýr, takže každý nemusí sám běhat a shánět si zásoby, nýbrž má někoho, kdo to vyřídí za něj, a sám zůstává v klidu a pořádku.
+- typ: odstavec
+  de: |-
+    Vnd so nun diß alles (wie gemelt) in wircklicher ordnung ist / vnd die Prouiant mit dem Brotgang volgt / so soll auch gantz streng darüber gehalten werden / das gůt bezalung / wie die gesetzt von eim jeden Fendlin oder Register ordiniert / getheilt / vnd vnderscheiden seind / beschehe.
+  cs: |-
+    A když už toto všechno, jak bylo řečeno, je v skutečném chodu a proviant následuje v pořadí výdeje chleba, má se také velice přísně dbát na to, aby docházelo k řádnému placení tak, jak je stanoveno, nařízeno, rozděleno a rozlišeno u každého praporce {Fendlin} či rejstříku.
+poznamky:
+- n: 1
+  text: Tisk má opět přesmyčku „gerodnet“ místo „geordnet“.
+- n: 2
+  text: |-
+    „verschlagen“ – zde ve smyslu zatajit, zpronevěřit, ošidit při výdeji (mezi 500 muži se podvod neutají tak snadno jako mezi tisícem).

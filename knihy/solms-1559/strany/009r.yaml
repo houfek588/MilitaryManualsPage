@@ -1,0 +1,32 @@
+id: 009r
+list: '9'
+strana: recto
+sken: 109
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    hauffen bei einander ordenen will/ vnnd die hauffen nach seinem gefallen/ vnd wie sie sollen/ machen/ Also mag ein Herr den Reyssigen auch thůn/ vnd wann dann die hauffen alle also inn der rechten grossen Schlachtordenung stehn vnnd halten/ so sollen dann dieselbigen hauffen/ alle vnd ein jeder besonder/ wider gliedsweiß abgezelt vnnd auffgezeychnet werden wie vor/ So kan mann dann sehen/ wie sichs mit einander zutregt/ vnd zu allerzeit mercken/ wann Ordenung gemacht werden/ was abgehet vnnd weniger wirt.
+  cs: |-
+    houfu {hauffen} pohromadě, a tak utvořit houfy podle své libosti a jak mají být. Totéž může pán učinit i u jízdy {Reyssigen}; a když pak všechny houfy takto stojí a drží místo v řádném velkém bitevním šiku {Schlachtordenung}, mají být všechny ty houfy, každý zvlášť, znovu spočítány po řadách {gliedsweiß} a zapsány jako dříve. Tak bude možno vidět, jak se k sobě hodí, a kdykoli se tvoří šik, stále sledovat, co ubývá a čeho je méně.
+- typ: odstavec
+  de: |-
+    Es solle auch der Oberst die Knecht alle zusamen nemen/ vnd in gemeyn anzeigen/ wie jhr Artickelsbrieff außweyßt/ daß kein Knecht auß dem Feld odder Leger one seines Obersten Paßporten ziehen soll/ vnd würde einer darüber one seines Obersten Paßporten auß dem Feld oder Leger ziehen/ so soll er auffgeschrieben/ vnd fort wie ein dreuloser/ feldflüchtiger gehalten/ vnnd vnder kein auffrichtiges Fendlin nicht mehr genommen werden/ vnnd der ehrlichen mannlichen Knecht so bleiben/ vnd sich jhres eyds halten/ müssig gehen/ vnnd nicht weitter sich mit jn gesellen noch gemeinschafft haben/ in alle weg.
+  cs: |-
+    Plukovník {Oberst} má také svolat všechny knechty {Knecht} dohromady a veřejně jim oznámit, jak praví jejich artikulní list {Artickelsbrieff}, že žádný knecht nesmí odejít z pole ani z ležení {Leger} bez průvodního listu {Paßporten} svého plukovníka; a kdyby přesto někdo bez průvodního listu svého plukovníka z pole nebo z ležení odešel, má být zapsán a nadále pokládán za věrolomného zběha z pole, nesmí být už přijat pod žádný počestný praporec {Fendlin} a má se vyhýbat čestným, statečným knechtům, kteří zůstávají a drží se své přísahy {eyds}, a v žádném případě se s nimi nesmí nadále družit ani stýkat.
+- typ: odstavec
+  de: |-
+    Auch so wölle er jhn nicht bergen/ daß die Römische Keyserliche Maiestat/ oder der Kriegsherr/ bestallung auff allen Passen vnd vmb das Leger gethan habe/ Wo derhalben ein Knecht vor dem Leger/ odder auff den Passen begrieffen wirdt/ derselbig soll preyß sein/ vnnd erstochen werden. Derhalben so wölle er sie alle trewlich gewarnet haben/ daß sie jhr ehr bedencken wöllen/ vnd sich vor sollicher straff vnnd schand verhůten/ wie ehrlichen Kriegsleuten zusteht vnd gebürt.
+  cs: |-
+    Také jim nemá zatajovat, že Jeho římská císařská Milost nebo válečný pán {Kriegsherr} rozestavil hlídky na všech cestách a průchodech kolem ležení; kdokoli z knechtů bude tedy zastižen před ležením nebo na cestách, bude vydán na pospas[^1] a proboden. Proto je chce všechny věrně varovat, aby dbali na svou čest a uvarovali se takového trestu a hanby, jak poctivým válečníkům {Kriegsleuten} přísluší a sluší.
+- typ: odstavec
+  de: |-
+    Damit dann der Oberst des abgangs zu allerzeit wissens haben möge/ soll er mit seinen Hauptleuten dise Ordenung fürnemen vnnd halten/ der gestalt/ das ein jeder Hauptman seine Rotmeister neme/ vnnd lasse jhm seine Rotgesellen auffschreiben mit jhren namen/ vnd woher ein jeder seie/ Vnnd das ein jeder Rotmeister bei seinem eyde vnnd pflichten/ zu allerzeit wann jhm ein Knecht auß seiner Rot abgienge/ er werde erstochen/ odder ob er selbst sterbe/ gefangen/ verloren/ odder wie das zugehen möge/ dem hauptman anzeigen/ vnd so dann der Rotmeister selbst abgehn würde/ so sollen seine gesellen das anzeigen/ oder jrer newer Rotmeister/ den sie an die stat machen werden/ So das dañ also geschicht/ sol der Oberst alle wochen von eim jeden Hauptman dessen gůten bericht
+  cs: |-
+    Aby pak plukovník měl o úbytku mužstva v každou dobu zprávu, má se svými hejtmany {Hauptleuten} zavést a zachovávat takový pořádek, aby si každý hejtman vzal své rotmistry {Rotmeister} a dal si zapsat své rotní druhy {Rotgesellen} i s jejich jmény a odkud každý pochází; a aby každý rotmistr při své přísaze a závazku {pflichten} kdykoli, jakmile mu z jeho roty {Rot} ubyde nějaký knecht – ať by byl proboden, nebo sám zemřel, byl zajat, ztratil se či jakkoli jinak ubyl –, ihned to oznámil hejtmanovi; a kdyby ubyl sám rotmistr, mají to oznámit jeho druhové nebo jejich nový rotmistr, kterého ustanoví na jeho místo. Když se to takto děje, má plukovník každý týden od každého hejtmana o tom dobrou zprávu
+poznamky:
+- n: 1
+  text: |-
+    Dobové *preyß sein* znamená být prohlášen za psance mimo ochranu práva, volně k zabití či oloupení.

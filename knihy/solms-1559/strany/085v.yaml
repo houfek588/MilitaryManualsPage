@@ -1,0 +1,36 @@
+id: 085v
+list: '85'
+strana: verso
+sken: 244
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    oder sechs schrit von der maurn ein graben auffwerffen/ vnd alles Ertrich gegen der Stat hinein schauffeln/ je tieffer sie gemelten graben machen je besser er ist/ auch sollen sie auff beiden seiten streichwehrn/ darzů die vorgemelten bretter mit den negeln in die geschossen lücken legen/ daruff puluer zetteln/ vnd das stro durch den Schwebel gezogen daruff decken/ die grossen Büchsen mit dem hagelgeschütz/ als vil jhr sein/ in die geschoffen lucken richten/ vnd nichts desto weniger für vnd für bawen.
+  cs: |-
+    nebo šest kroků od zdi vykopat příkop a všechnu zeminu vyházet dovnitř směrem do města; čím hlubší zmíněný příkop udělají, tím lépe. Mají také po obou stranách zřídit boční obranné stavby {streichwehrn}, k tomu do rozstřílených průlomů položit dříve zmíněná prkna s hřeby, nasypat na ně střelný prach {puluer} a přikrýt to sířenou slámou; velká děla {Büchsen} s kartáči {hagelgeschütz}, kolik jich jen je, namířit do rozstřílených průlomů a nicméně stále bez ustání opevňovat.
+- typ: odstavec
+  de: |-
+    Als offt der Oberst auch im Flecken vor dem sturm der weil gehaben mag/ soll er sein Kriegsuolck kniend ein Vatter Vnser betten lassen/ vnd Gott vmb gnad vnd sig anrůffen.
+  cs: |-
+    Kdykoli bude mít plukovník {Oberst} v městečku před útokem {sturm} chvíli času, má nechat svůj válečný lid {Kriegsuolck} vkleče pomodlit Otčenáš a vzývat Boha o milost a vítězství.
+- typ: odstavec
+  de: |-
+    Der Hauptman/ der Oberst vber die Knecht vnd der Zeugmeister sollen geschickte vnd erfarne Büchsenmeister vnd Kriegsleut zu dem Hagelgeschütz in die streichwehrn zum standt vnd neben auff die mauren/ auch in die Polwerck so jnen am sturm erschiessen möchten/ ordnen/ damit wann die Feinde stürmen/ daß die Büchsenmeister mit dem hagel vnd anderm Geschütz vernünfftig/ vnd wann es die höchst not nit erfordert/ alle eins mals nit abschiessen/ auch bald wider laden/ deßgleichen die in den streichwehrn/ daß die Feind nit/ wann sie all eins mals abgeschoffen hetten/ ehe sie wider geladen/ mit hauffen in fallen.
+  cs: |-
+    Hejtman {Hauptman}, plukovník nad knechty {Knecht} a zbrojmistr {Zeugmeister} mají postavit schopné a zkušené puškaře {Büchsenmeister} a válečníky {Kriegsleut} ke kartáčovým dělům do bočních obranných staveb k postavení a po stranách na hradby, rovněž na bolverky {Polwerck}, jež by jim při útoku mohly posloužit; aby až nepřátelé zaútočí, puškaři s kartáči i jinými děly {Geschütz} zacházeli rozumně, a nevyžaduje-li to krajní nouze, nevystřelili všichni najednou, a také rychle znovu nabili; stejně tak ti v bočních obranných stavbách, aby nepřátelé – kdyby všichni naráz vystřelili, dříve než by znovu nabili – nevtrhli v houfech {hauffen} dovnitř.
+- typ: odstavec
+  de: |-
+    Auch daß die darzů geordnet sein/ das geschwebelt stro vnd puluer zu rechter zeit anzünden/ die mit den Bechringen/ Puluer hefelin vnd schlahenden feurwercken wol vnder die Feind anlegen/ vnd ein jeder nit anderst dann ritterlich streit als wolt er den Flecken allein erhalten/ dise handlung gehört zu allen stürmen/ wann die feind gleich vil thetten.
+  cs: |-
+    Rovněž aby ti, kteří jsou k tomu určeni, v pravý čas zapálili sířenou slámu a prach, ti se smolnými věnci, prachovými hrnci a třaskavými ohňostroji {feurwercken} dobře zasahovali mezi nepřátele, a každý aby bojoval ne jinak než rytířsky, jako by měl městečko udržet sám; tento postup platí při všech útocích, i kdyby jich nepřátelé podnikli mnoho.
+- typ: odstavec
+  de: |-
+    Wann ein Hauptman in einer Belegerung merckt oder gründtlich erfert/ daß die Feinde zu einer maurn/ Thurn oder Paßteien dieselbigen zusprengen/ graben soll er fürderlich auffs aller eilents für die maurn/ Thürn oder Paßteien hinauß/ ein vberzwerchen graben machen lassen/ vnd also tieff vnder sich faren das sie vnder demselben nit zu der grundt feste/ daß sie sprengen wöllen/ komen mögen/ erfindt er dann ein Rath daß er der feinde in dem graben warten/ oder jnen vnder augen graben soll/ das geschehe/ aber sollichs ist wol zubetrachten welchen weg er den feinden jhr fürnemen wende/ zu dem sie im loch vmbrengen/ es sei mit der handt/ schiessen oder brennen/ damit werden als dann die andern erschreckt/ das sie nit leichtlich anderer enden zugraben vnderfahen.
+  cs: |-
+    Zpozoruje-li hejtman při obležení nebo bezpečně zjistí, že nepřátelé kopou k některé zdi, věži nebo baště {Paßteien}, aby ji vyhodili do povětří, má neprodleně v největším spěchu nechat před onou zdí, věží nebo baštou vyhloubit příčný příkop a jít tak hluboko pod zem, aby se pod ním nepřátelé nemohli dostat k základům, které chtějí odpálit; uzná-li pak v radě za vhodné, že má na nepřátele v tom příkopu vyčkat nebo kopat proti nim, nechť se tak stane; je však třeba dobře zvážit, jakým způsobem zmaří záměr nepřátel a nadto je v díře zahubí – ať ručně, střelbou, nebo ohněm –, čímž budou ostatní zastrašeni, takže se neodváží snadno kopat na jiných místech.
+- typ: odstavec
+  de: Ob aber der Hauptman sampt seinen Kriegsleutten vbersehe das
+  cs: Přehlédl-li by však hejtman spolu se svými válečníky to,

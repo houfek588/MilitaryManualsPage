@@ -1,0 +1,36 @@
+id: 052r
+list: '52'
+strana: recto
+sken: 187
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Da ein Büchen stehen / wo mann dann die Wagen hett mit dem Geschütz / als nemlich drei halb Falckanetlein auff ein wagen / so soll derselbig Wagen einer aussen neben der Büchsen stehen / als der Wagen der am ersten ist außgerückt / derselbige Wagen soll gemacht werden / das die Pferde darinn nicht neben einander gehn / sonder vor einander / vnnd das hinder gestell soll am Wagen gemacht sein / wann mann ein Nagel zeucht / daß das gestell am pferd bleibt / vnd der Wagen ledig ist / also streycht sich die Wagenburg auff alle seiden mit grossem vnnd kleinem Geschütz / Auch so hat mann Wagen mit schirmen / hat einer drei löcher / darinn legt mann doppel hacken / so mann der haben wirt / mag mann die auch in die Wagenburg eintheiln / darnach mann der vil oder wenig hat / vnd die Handtschützen darhinder auch getheilt.
+  cs: |-
+    má tam stát jedno dělo[^1]. Kde by pak byly vozy s děly {Geschütz}, totiž se třemi polovičními falkonety {Falckanetlein} na jednom voze, tam má jeden takový vůz stát zvenčí vedle děla jako vůz, který vybočil jako první. Tento vůz má být sestrojen tak, aby v něm koně nešli vedle sebe, nýbrž za sebou, a zadní podvozek má být na voze udělán tak, aby po vytažení čepu zůstal podvozek u koně a vůz stál samostatně; takto se vozová hradba {Wagenburg} postřeluje na všechny strany velkými i malými děly. Také jsou vozy se štíty, z nichž každý má tři otvory, do nichž se kladou dvojité hákovnice {doppel hacken}; jsou-li k dispozici, mohou se rovněž rozdělit do vozové hradby podle toho, zda jich je mnoho nebo málo, a za ně se rozdělí také ruční střelci {Handtschützen}.
+- typ: odstavec
+  de: |-
+    Vnd so er wirt die Wagenburg vnd das Leger schlagen / so soll er dieselbig außruckung auch machen / das gibt gůte streich / wo er aber nicht also wolt außrücken mit vilen Wagen / so soll er doch mit etlichen Wagen / ein kropffung hinauß vor die andern Wagen machen / vnd das Geschütz darein zustreychen stellen / mit den Wagen da das Geschütz auff ist / vnd die doppel Hacken / vnd wo das Geschütz steht da soll er lassen vergraben / damit daß die Büchsen sicher vnd frei stehen / wie ich nun vermein / daß die außrücken von beiden theiln zu der streich sein soll zu zeuhen vnd zu lägern / deßgleichen die Wagen mit dem Geschütz / will ich hinnach augenscheinlich auffreissen.
+  cs: |-
+    A bude-li rozbíjet vozovou hradbu a ležení {Leger}, má udělat totéž vysunutí, to poskytuje dobrou boční palbu. Kdyby však nechtěl takto vybočovat s mnoha vozy, má přece s několika vozy udělat před ostatními vozy vysunutý zlom {kropffung}[^2] ven a postavit do něj k postřelování děla s vozy, na nichž děla jsou, i dvojité hákovnice; a tam, kde děla stojí, má dát vykopat zákop, aby děla {Büchsen} stála bezpečně a volně. Jak si pak představuji, že má být toto vysunutí z obou stran k boční palbě při tažení i při táboření, jakož i vozy s děly, to dále názorně vyobrazím.
+- typ: odstavec
+  de: |-
+    Vnd so mann also wirt die Wabenburg gebrauchen zufarn vnd zulägern / so soll der Wagenburgmeister mit dem Feldmarschalck vnd dem Zeugmeister vor ziehen / vnd das Leger helffen schlagen / vnd besehen wie er sein Wagenburg steln vnd schlagen wöl / vnnd wie er sicht / daß die Regiment zu roß vnnd fuß gequartiert worden seind / darnach so soll er auch die Wagen ordnen / das vor ein jedes Quartier seiner leut Wagen kommen / darmit ein jeder sein wagen möcht bei jm haben / Es soll der Feldmarschalck das Leger darnach schlagen vnd quartiern / das sich die wagenburg darnach reim.
+  cs: |-
+    A bude-li se tedy vozová hradba[^3] používat k jízdě i k táboření, má mistr vozové hradby {Wagenburgmeister} táhnout napřed s polním maršálkem {Feldmarschalck} a zbrojmistrem {Zeugmeister}, pomáhat rozbít ležení a prohlédnout si, jak chce svou vozovou hradbu postavit a rozložit; a jak vidí, že jsou pluky {Regiment} jízdní i pěší ubytovány, podle toho má také seřadit vozy, aby před každý kvartýr {Quartier} přišly vozy jeho lidí a každý mohl mít svůj vůz u sebe. Polní maršálek pak má ležení rozbít a rozdělit na kvartýry tak, aby se k tomu vozová hradba hodila.
+- typ: odstavec
+  de: |-
+    Vnd das sich dann also wirt zutragen / daß mann můst inn der wagenburg ziehen vnd liegen / so sollen alle wagen dem wagenburgmeister vnderworffen vnd gehorsam sein / vnd alle die besoldung auff jhre wagen haben / die sollen jhre wagen / also inn der Ordnung des wagenburgmeisters bleiben lassen / vnnd keiner keinem darauß nemen / würde aber villeich einer bedurfftig sein seines
+  cs: |-
+    A stane-li se tedy, že bude třeba táhnout a ležet ve vozové hradbě, mají být všechny vozy mistru vozové hradby podřízeny a poslušny; a všichni, kdo dostávají žold {besoldung} na své vozy, mají své vozy nechat takto v řádu {Ordnung} mistra vozové hradby a nikdo z něj nesmí žádný vyjímat. Kdyby však někdo snad potřeboval svůj
+poznamky:
+- n: 1
+  text: V tisku „Büchen“ (tiskařská chyba místo *Büchsen*).
+- n: 2
+  text: |-
+    Kröpfung (kropffung) – předsunutý zlom či výčnělek vytvořený vysunutím několika vozů před hlavní linii vozové hradby, umožňující boční (křížovou) palbu podél ní.
+- n: 3
+  text: V tisku „Wabenburg“ (tiskařská chyba místo *Wagenburg*).

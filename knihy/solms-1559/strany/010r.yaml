@@ -1,0 +1,41 @@
+id: 010r
+list: '10'
+strana: recto
+sken: 111
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    sie müssen sich vor denselbigen Knechten förchten/ vnnd jnen jhren willen lassen.
+  cs: |-
+    se musejí před těmi knechty {Knechten} bát a ponechávat jim jejich vůli.
+- typ: odstavec
+  de: |-
+    Dann sie besorgen/ wann sie jnen hart sein wolten/ sie würden jn wider etwas sagen/ vnd müsten also schweigen/ vnd jnen allen vnlusten vergünnen/ Wann aber die Hauptleut sich des frei wissen/ so können sie den Knechten in vnbillichen sachen wol hart sein/ vnd in gůten sachen sollen sie bei den Knechten hart halten/ vnnd jnen gůtig sein/ Wann das also geschicht/ ist kein zweifel/ die Knecht werden sich recht halten. Vnd so ein Hauptman knecht annimpt/ so soll er den Doppelsoldnern sagen/ Dieweil sie Doppelsoldner sein wölten/ so gebüre jnen bei den Obersten/ Hauptleuten/ Fendrichen vnd dergleichen sich zu halten/ vnd dem leychten gesind nicht solche vnbilliche/ vnkriegerische sachen helffen thůn/ sonder bei die Obersten in dem feld zu tretten die billicheit helffen zu handeln/ vnnd das böß zustraffen. Darumb seind sie Doppelsoldner/ jrer erfarung vnd vnd erbarkeit halben/ auch gůte Regiment vnd Ordnung zuhalten/ wo sie sich aber des nicht halten würden/ sollen sie höher dann andere gestraffet werden/ vnnd jhres Doppelsolds benommen sein/ das solle jnen alles fürgehalten werden/ vnnd sie darauff schweren sollen.
+  cs: |-
+    Obávají se totiž, že kdyby na ně chtěli být přísní, mohli by na ně knechti zase něco vyzradit, a tak musejí mlčet a dovolovat jim každou zpupnost. Vědí-li však hejtmani {Hauptleut}, že jsou v tom čistí, mohou být ke knechtům v nespravedlivých věcech přísní, a v dobrých věcech se mají knechtů pevně držet a být k nim laskaví; děje-li se tak, není pochyby, že se knechti budou chovat řádně. A když hejtman přijímá knechty, má říci dvojžoldnéřům {Doppelsoldnern}, že poněvadž chtějí být dvojžoldnéři, přísluší jim stát při plukovnících {Obersten}, hejtmanech, praporečnících {Fendrichen} a podobných velitelích a nepomáhat lehkomyslné holotě k takovým nespravedlivým, nevojenským věcem, nýbrž postavit se v poli na stranu plukovníků, pomáhat prosazovat spravedlnost a trestat zlo. Proto jsou totiž dvojžoldnéři – pro svou zkušenost a počestnost[^1] a aby udržovali dobrou kázeň {Regiment} a řád; nebudou-li se však toho držet, mají být trestáni přísněji než ostatní a připraveni o svůj dvojitý žold {Doppelsolds}. To vše jim má být předestřeno a na to mají přísahat.
+- typ: odstavec
+  de: |-
+    Der Kriegsherr soll sich aber auch befleissen/ daß er wol bezall/ vnd mit den gesandten der Knecht/ so sie dem Herren jrgent fürgefallener vnd zugestandener beschwerung halben zuschicken würden/ vernunfftig vnd gnediglich handeln/ insonderheit wann die Knecht billich beschwerung haben würden/ wann ein Herr sich also halten würde/ vnd die Obersten vnd Hauptleut/ so würden sie wol gehorsame Knecht ziehen vnd haben/ vnd sie straffen mögen.
+  cs: |-
+    Válečný pán {Kriegsherr} se však má také snažit, aby dobře platil a s vyslanci knechtů, kdyby mu je poslali kvůli nějaké vzniklé a nastalé stížnosti, jednal rozumně a milostivě, zvláště kdyby knechti měli oprávněnou stížnost; bude-li se pán takto chovat, a stejně tak plukovníci a hejtmani, vychovají si a budou mít poslušné knechty a budou je moci i trestat.
+- typ: odstavec
+  de: |-
+    Auff den vierdten Artickel/ das Leger inn hůt vnd verwarung zuhaben/ bedünckt vnns daß dise Ordenung sei fürzunemen/ Vnd für das erst/ so soll ein Herr gůt Wacht halten/ vnnd fleissig vmb die Leger streyffen/ vnd auff das frömbt Volck/ welches nicht gůte anzeygung hat/ inn die Leger zůgen/ wol achtung haben lassen.
+  cs: |-
+    Ke čtvrtému článku {Artickel}, jak mít ležení {Leger} v ochraně a bezpečí, se nám zdá, že je třeba zavést tento řád: předně má pán držet dobrou stráž {Wacht}, pilně obcházet a projíždět kolem ležení a dávat dobrý pozor na cizí lid, který nemá dobrý důvod vstupovat do ležení.
+- typ: odstavec
+  de: |-
+    Würde aber ein Trummeter von den Feinden (es sei tag odder nacht) kommen/ der soll nicht durch die Wacht gelassen odder gefüret/ sondern biß dem Obersten das angesagt wirdt/ behalten werden/ was dann der Oberst darinnen thůt beuelhen/ des sollen sie sich halten.
+  cs: |-
+    Přijde-li však od nepřátel trubač {Trummeter} (ať ve dne či v noci), nemá být vpuštěn ani veden skrz stráž, nýbrž zadržen, dokud se to neoznámí plukovníkovi; a co pak plukovník v té věci přikáže, toho se mají držet.
+- typ: odstavec
+  de: |-
+    Würde aber ein Trummetter oder Trummenschlager im tag kommen/ so gebürt demselbigen/ so er das Leger sehn wirt/ vor der Wacht
+  cs: |-
+    Přijde-li však trubač nebo bubeník {Trummenschlager} za dne, pak mu přísluší, jakmile spatří ležení, před stráží
+poznamky:
+- n: 1
+  text: 'Tisk opakuje na přelomu řádku spojku: *vnd vnd erbarkeit halben*.'

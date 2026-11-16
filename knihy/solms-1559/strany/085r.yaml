@@ -1,0 +1,63 @@
+id: 085r
+list: '85'
+strana: recto
+sken: 243
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    beschwerlich in der besatzung zutragen/ die Reutter mussen abstehn vnd den Knechten den sturm helffen erhalten.
+  cs: |-
+    tíživá, že jezdci {Reutter} musejí sesednout a pomoci knechtům {Knechten} odolat útoku {sturm}.
+- typ: odstavec
+  de: |-
+    Zum nacht vmbreiten soll mann die Reutter theilen nach dem jr vil sein das sie vnd jhre roß die wacht erleiden mügen.
+  cs: |-
+    K nočnímu objíždění se mají jezdci rozdělit podle toho, kolik jich je, aby oni i jejich koně mohli stráž {wacht} vydržet.
+- typ: odstavec
+  de: |-
+    Die Bürger sollen nachts vor jren heussern liechter haben/ daß die Reutter im herumb reitten sehen künden/ doch daß die feinde die liechter nit sehen/ sonst möchten sie darzů schiessen.
+  cs: |-
+    Měšťané mají mít v noci před svými domy světla, aby jezdci při objížďce viděli, avšak tak, aby světla neviděli nepřátelé, jinak by na ně mohli střílet.
+- typ: odstavec
+  de: |-
+    Der Oberst vber das fůßuolck soll alweg etlich Toppelsoldner vor mitnacht vnd etlich darnach die wacht zubesichtigen schicken/ auch etwan selbst darzů sehn/ der Hauptman soll auch selbst offt des nachts herumb schleichen/ alß dann werden die auff der wacht dester sorgfeltiger dan es ist gleich als vil oder mehr an der wacht in einer besatzung als im feld gelegen.
+  cs: |-
+    Plukovník {Oberst} nad pěchotou {fůßuolck} má vždy poslat před půlnocí a několik po ní dvojžoldnéře {Toppelsoldner}, aby prohlíželi stráže, a občas na to dohlédnout i sám; také hejtman {Hauptman} má v noci sám často obcházet; pak budou ti na stráži o to bedlivější, neboť na stráži v posádce {besatzung} záleží zrovna tak mnoho nebo ještě více než v poli.
+- typ: odstavec
+  de: |-
+    Der Oberst Hauptman vber die Stat gibt die losung allein/ vnd soll gleicher gestalt wie im Feld fürsichtig darmit gehandelt werden.
+  cs: |-
+    Nejvyšší hejtman {Oberst Hauptman} nad městem vydává heslo {losung} sám, a má se s ním zacházet stejně obezřetně jako v poli.
+- typ: odstavec
+  de: |-
+    Der Hauptman mit dem Obersten vber die Knecht vnd andere Kriegsuerstendige sollen fleissig acht haben/ auch darumb rathschlahen/ ob sie außfel machen kündten/ dardurch sie auff scharmützel reitten vnd lauffen/ auch ob sie ins Leger vbers Geschütz die feindt zubescheidigen/ das geschütz etlichs mit zuschleiffen oder zuuerschlahen/ hinauß fallen möchte.
+  cs: |-
+    Hejtman s plukovníkem knechtů a dalšími válečnými znalci mají pilně dávat pozor a také se radit, zda by mohli podnikat výpady, jimiž by vyjížděli a vybíhali do šarvátek, a rovněž zda by mohli vyrazit ven do nepřátelského ležení {Leger} na dělostřelectvo {Geschütz}, aby nepřátelům uškodili a některá děla odtáhli nebo zatloukli[^1].
+- typ: odstavec
+  de: |-
+    Es soll kein Kriegsman zu roß oder fůß auß der besatzung hinauß auff scharmützel oder beutten on jrer Hauptleut wissen vnd erlaubnus/ reitten oder lauffen/ welche es aber vbertretten sollen ernstlich gestrafft werden.
+  cs: |-
+    Žádný válečník {Kriegsman} na koni ani pěší nesmí z posádky vyjíždět nebo vybíhat na šarvátky či za kořistí bez vědomí a svolení svých hejtmanů {Hauptleut}; kdo to však přestoupí, mají být přísně potrestáni.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister soll sich vor der belegerung wol gefast machen/ mit vilen brettern darein lang negel geschlahen sein/ auch mit Bechringen/ Puluer/ Hefelin/ mit schlahenden feuren/ mit stro durch schweffel gezogen/ mit hagelgeschütz in grossen vnd kleinen büchsen dann es wirt manche Stat eins tags geschossen vnd gesturmpt/ deßhalb wann sie vorhin nit mit angezeigter notturfft in der belegerung gerüst hetten/ möcht jhnen darnach die zeit zu kurtz werden solliches erst zuzůrichten.
+  cs: |-
+    Zbrojmistr {Zeugmeister} se má před obležením dobře vybavit množstvím prken se zatlučenými dlouhými hřeby, dále smolnými věnci, střelným prachem {Puluer}, prachovými hrnci[^2], třaskavými ohni {schlahenden feuren}, sířenou slámou a kartáči {hagelgeschütz} do velkých i malých děl {büchsen}; neboť nejedno město bývá v jediném dni ostřelováno i bráno útokem, a proto kdyby se pro obležení předem nevybavili uvedenými potřebami, byl by jim pak čas příliš krátký na to, aby takové věci teprve zřizovali.
+- typ: odstavec
+  de: |-
+    Als bald der Hauptman/ der Oberst vber die Knecht/ Zeugmeister vnd die andern Kriegserfarnen sehen/ welchen enden sie jhre feinde beschiessen wöllen/ sollen sie sich zu stundt am selben ort mit bawen vnd ander angeregten sachen zum sturm ordnen vnd rüsten/ es soll auch an dem orth/ da mann sich des sturms gewißlich versich ein platz wie vor daruon geredt zumachen/ niemant verschont werden.
+  cs: |-
+    Jakmile hejtman, plukovník nad knechty, zbrojmistr a další zkušení válečníci uvidí, na kterých místech chtějí nepřátelé [hradby] ostřelovat, mají se v tu chvíli na témže místě opevňovacími pracemi i ostatními zmíněnými věcmi chystat a připravovat k útoku; a na místě, kde se útok s jistotou očekává, nemá být nikdo ušetřen práce při zřizování volného prostranství, jak o tom bylo řečeno dříve.
+- typ: odstavec
+  de: Ehe dann die maur gar nider geschossen ist/ sollen sie jhnen fünff
+  cs: Dříve než je zeď úplně rozstřílena, mají si pět
+poznamky:
+- n: 1
+  text: |-
+    „Zuuerschlahen“ – zatlouct zátravku děla hřebem nebo rozbít lafetu, aby dělo nebylo schopné střelby.
+- n: 2
+  text: |-
+    „Hefelin“ – hliněné hrnce plněné střelným prachem jako ruční zápalné granáty; „schlahende feuer“ jsou zápalné směsi s výbušnými náložemi.

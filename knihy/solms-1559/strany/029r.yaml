@@ -1,0 +1,68 @@
+id: 029r
+list: '29'
+strana: recto
+sken: 149
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    sonst wann ers alles miteinander abscheußt / biß wider geladen wirt zu schiessen / dieweil künden die in der Besatzung bawen / wie kürtzlich in einer trefflichen Besatzung geschehen / deßhalben sol dise Ordnung billich gehalten werden.
+  cs: |-
+    neboť jinak, vypálí-li ze všech najednou, než se znovu nabije ke střelbě, mohou zatím ti v posádce {Besatzung} opravovat hradby, jak se nedávno stalo v jedné významné posádce; proto se má tento řád po právu zachovávat.
+- typ: odstavec
+  de: |-
+    Wann es auch zu der handlung kompt / wie inn des Feldhauptmans 54. Artickel meldung geschicht / soll der Zeugmeister / als vil möglich / in eil schiessen / doch das dardurch das geschütz nit zerspring.
+  cs: |-
+    Dojde-li pak k akci, jak je zmíněno v 54. článku o polním hejtmanovi {Feldhauptmans}, má zbrojmistr {Zeugmeister} střílet tak rychle, jak je jen možné, avšak tak, aby tím děla {geschütz} neroztrhl.
+- typ: odstavec
+  de: |-
+    Im stürmen gebürt dem Zeugmeister grossen fleiß zu brauchen / damit er die Feind von jren wehren / da sie die so stürmen sollen / mög abtreiben / er soll aber darneben auch acht haben / daß die Büchsenmeister die Freunde am sturm nit beschedigen / wie offt geschicht.
+  cs: |-
+    Při útoku {stürmen} náleží zbrojmistrovi vynaložit velkou píli, aby zahnal nepřátele z jejich obranných postavení, odkud by mohli odrážet útočníky; vedle toho však má také dbát na to, aby puškaři {Büchsenmeister} při útoku nezranili vlastní lidi, jak se často stává.
+- typ: odstavec
+  de: |-
+    Die Ordnung soll der Zeugmeister auch an den Schlachten halten / damit die Büchsenmeister die Freund mit jrem schiessen nit treffen.
+  cs: |-
+    Stejný pořádek má zbrojmistr zachovávat i v bitvách, aby puškaři svou střelbou nezasáhli vlastní lidi.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister soll auch gůt acht haben / daß die Kugeln zu jeder Büchsen gerecht nicht zu groß oder klein seien / dann sein sie zu groß so brechen die Büchsen am puluersack / oder zereissen die Stück innror daß sie vneben werden / sollichs gibt ein vngewissen schuß / so müssen die Stück mit der zeit zerspringen / sein aber die Kugeln zu klein / so zerschlahen sie die Stück vmb die meuller / vnd wann ein Zeugmeister nicht hierinn zusicht / so schiessen etlich Büchsenmeister für vnd für / achten nicht ob die Stück brechen oder gantz bleiben.
+  cs: |-
+    Zbrojmistr má také dobře dbát na to, aby koule {Kugeln} ke každému dělu měly správnou míru a nebyly příliš velké ani malé: jsou-li totiž příliš velké, praskají děla v prachové komoře anebo se děla uvnitř v hlavni vydřou tak, že jsou nerovná, což dává nejistý výstřel a děla musejí časem prasknout; jsou-li však koule příliš malé, roztloukají děla kolem ústí. A nedohlíží-li na to zbrojmistr, pálí někteří puškaři pořád dál a nedbají, zda děla prasknou, či zůstanou celá.
+- typ: odstavec
+  de: |-
+    Die geschmitten Kugeln sein die aller besten / glat / vnd haben die butzen vnd ring nicht wie die gegossen.
+  cs: |-
+    Kované koule jsou ze všech nejlepší – hladké, a nemají vtokové nálitky {butzen} ani licí švy {ring}[^1] jako koule lité.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister sol ein oder zwen Geschirrmeister haben / die vber den Wagenleuten sein die das Geschütz vnd Munition füren / denselbigen sein auch die vberigen Schauffeln / Hawen / Bickel vnd Axten beuolhen / so die Quastitor nicht tragen / die ordnen die Wägen / welche das Geschütz vnd Munition füren.
+  cs: |-
+    Zbrojmistr má mít jednoho nebo dva vozmistry {Geschirrmeister}, kteří velí vozkům {Wagenleuten} vezoucím děla a munici {Munition}; těm jsou svěřeny i zbývající lopaty, motyky, krumpáče a sekery, které nenesou šancíři {Quastitor}, a oni také řídí vozy, které vezou děla a munici.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister soll seinem Geschütz gemeß / mit streimaß vnnd Schiffbrücken notturfftiglich verfast sein / dises soll der Oberst Feldhauptman ordnen / der weyß sein fürgenommen Zug / deßhalben kan er als der verstendig erachten / was er zuuersichtiglich bedörffen wirt.
+  cs: |-
+    Zbrojmistr má být přiměřeně ke svým dělům dostatečně vybaven vyměřovacím náčiním {streimaß}[^2] a lodními mosty {Schiffbrücken}; to má nařídit nejvyšší polní hejtman {Oberst Feldhauptman}, který zná své zamýšlené tažení {Zug}, a proto může jako znalec uvážit, čeho bude pravděpodobně zapotřebí.
+- typ: odstavec
+  de: |-
+    Alle schurtzer / langspieß / Hellenbarten vnd handror / so der oberst Feldhauptman (dem Kriegsuolck zu roß vnd fuß gemeß) mit leßt füren / gehn bei der Munition / vnd gehörn zu der Artlerei auch harnisch.
+  cs: |-
+    Všechny zbrojní šorce {schurtzer}[^3], dlouhé píky {langspieß}, halapartny {Hellenbarten} a ručnice {handror}, které nechá nejvyšší polní hejtman vézt s sebou (přiměřeně válečnému lidu {Kriegsuolck} na koni i pěšky), jedou při munici a k dělostřelectvu {Artlerei} náležejí i zbroje {harnisch}.
+- typ: odstavec
+  de: |-
+    Wann der Zeugmeister beuelch hat / was er für Geschütz nemen vnd füren soll / alßdann soll er ein verzeichnuß machen / was er für Leut / Roß / Wägen vnd Munition darzu bedarff / auch alle besoldung Particular anzeigen / damit der Kriegsherr wisse / wieuil gelts er ein Monat dem Zeugmeister vnd Artlerei zu der bezalung verordnen můß.
+  cs: |-
+    Jakmile má zbrojmistr rozkaz, jaká děla má vzít a vézt s sebou, má pořídit seznam, kolik k tomu potřebuje lidí, koní, vozů a munice, a podrobně uvést i veškerý žold {besoldung}, aby válečný pán {Kriegsherr} věděl, kolik peněz musí na jeden měsíc zbrojmistrovi a dělostřelectvu na výplatu vyčlenit.
+poznamky:
+- n: 1
+  text: |-
+    *Butzen* (hrboly, vtokové nálitky) a *Ring* (kruhový licí šev či otřep v dělicí rovině dvoudílné formy) u litých železných koulí zhoršovaly přesnost střelby a poškozovaly vývrt hlavně.
+- n: 2
+  text: |-
+    V tisku *streimaß* – zřejmě nářeční či tiskařská podoba slova *Streichmaß* (rýsovací a vyměřovací měřidlo pro tesařské, mostní a opevňovací práce či kalibrování), případně tiskařská odchylka za jiný ženijní či mostní nástroj.
+- n: 3
+  text: |-
+    V tisku *schurtzer* – patrně zbrojní šorce (*Schurz*, *Schürtzer*), tj. plátové či kroužkové ochranné suknice podbřišku a boků, případně jiná součást záložní výzbroje.

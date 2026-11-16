@@ -1,0 +1,18 @@
+id: erb-solms
+list: erb
+strana: verso
+sken: 90
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: Reinhart der Elter/ Graue zu Solms vnd Herr zu Müntzenburg/ etc.
+  cs: Reinhard starší, hrabě ze Solmsu a pán z Münzenbergu[^1] atd.
+- typ: obrazek
+  soubor: drevorez-090.jpg
+  popis: |-
+    Celostránkový dřevořez s erbem hrabat ze Solmsu a pánů z Münzenbergu zasazeným v koruně mohutného listnatého stromu a lemovaným věncem: čtvrcený štít se solmským lvem (1. a 4. pole) a děleným štítem münzenberským (2. a 3. pole), nad ním dvě turnajské přilby s klenoty a přikryvadly. V pozadí hornatá krajina s hradem na kopci, u kořenů stromu nápisová stuha s nápisem „REINHART. GRAFF. ZV SOLMS VND. HER ZV. MINCZENBORGK“.
+poznamky:
+- n: 1
+  text: |-
+    Reinhard starší, říšský hrabě ze Solmsu a pán z Münzenbergu (1491–1562), císařský válečný rada a polní maršál, autor a vydavatel tohoto díla.

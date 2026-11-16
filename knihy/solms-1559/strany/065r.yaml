@@ -1,0 +1,47 @@
+id: 065r
+list: '65'
+strana: recto
+sken: 207
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Etlich diser Obersten nemen inn jre stat den der Kriegsherr/ oder sein Oberster Feldhauptman jnen macht/ den Prouosen/ Schultheisen/ Wacht vnd Quartiermeister/ Feldweibel/ Stockmeister/ Nachrichter/ sampt andern Doppelsoldnern/ als Grauen/ Herren/ vom Adell/ vnd andere zubezalen an.
+  cs: |-
+    Někteří z těchto plukovníků {Obersten} přijímají do svého stavu {stat}[^1], který jim stanoví válečný pán {Kriegsherr} nebo jeho nejvyšší polní hejtman {Oberster Feldhauptman}, aby je vypláceli – profouse {Prouosen}, rychtáře {Schultheisen}, vachmistra {Wachtmeister} a kvartýrmistra {Quartiermeister}, polního šikovatele {Feldweibel}, žalářníka {Stockmeister}, kata {Nachrichter} spolu s dalšími dvojžoldnéři {Doppelsoldnern}, jako jsou hrabata, páni, šlechtici i jiní.
+- typ: odstavec
+  de: |-
+    So lassen etlich diser Obersten gemelte Ampter vnnd Doppelsoldnern vnder die Fendlin schreiben/ vnd entpfecht der Oberst das gelt jeder zeit von den Hauptleuten/ vnd lest sie alß dann bezalen.
+  cs: |-
+    Jiní z těchto plukovníků však nechávají zmíněné úřady i dvojžoldnéře zapisovat pod praporce {Fendlin}; plukovník pak pokaždé přijímá peníze od hejtmanů {Hauptleuten} a následně je dává vyplácet.
+- typ: odstavec
+  de: |-
+    Auch were fast not vnnd gůt/ wann ein Fürst/ Graue/ Herr/ oder Stätt dem Römischen Keyser/ König/ oder andern Kriegsleuten auff jr eigen Besoldung schickt/ das derselbig dem Herren welchen er darmit dient/ solchen gewalt gebe/ wann sich dieselbigen Kriegsleut zu roß vnd Fuß nit gehorsamlich/ vnd wie jnen gebürt/ hielten/ daß der Kriegsherr oder sein Oberster dieselben gleich seinen eigen Kriegsleutten entsetzen/ vnnd straffen möchte/ wie ein jeder Kriegsuerstendiger leichtlich billich sein/ ermessen kann.
+  cs: |-
+    Také by bylo velmi potřebné a dobré, posílá-li kníže, hrabě, pán nebo města římskému císaři, králi či jiným válečníky {Kriegsleuten} na svůj vlastní žold {Besoldung}, aby dotyčný pánovi, jemuž jimi slouží, dal takovou pravomoc, že kdyby se tito válečníci na koni i pěšky nechovali poslušně a jak se na ně sluší, mohl by je válečný pán nebo jeho plukovník sesadit a potrestat stejně jako své vlastní válečníky – jak každý znalec válečnictví snadno uzná za spravedlivé.
+- typ: odstavec
+  de: |-
+    Der Obest soll alweg am zuge ein oder zwen Hauptmänner nach dem der Knecht vil oder wenig sein/ vorhin/ vnnd auch als vil nach ziehen lassen/ was für Knecht auß der ordnung füran kisten fegen vnd mausen wolten/ auff zuhalten/ die andern welche dahinden vnd nit in der ordnung bleiben fortzubrengen/ etwan lest der Oberst das halbtheil der Hauptleut vor/ vnd das ander halb theil nach ziehen/ wie es jeder zeit der feinde halben die notturfft erfordert.
+  cs: |-
+    Plukovník[^2] má na pochodu {zuge} vždy nechat táhnout jednoho nebo dva hejtmany vpředu – podle toho, zda je knechtů {Knecht} mnoho nebo málo – a stejně tolik vzadu, aby zadržovali ty knechty, kteří by chtěli vybíhat z šiku {ordnung} napřed vymetat truhly {kisten fegen} a krást, a aby ty ostatní, kteří zůstávají pozadu a nedrží se v šiku, poháněli kupředu. Někdy nechává plukovník táhnout polovinu hejtmanů vpředu a druhou polovinu vzadu, jak to pokaždé vzhledem k nepřátelům vyžaduje potřeba.
+- typ: odstavec
+  de: |-
+    Der Oberst soll selbst/ oder durch seine Quartiermeister fleissig versehung thůn/ daß die Knecht/ es sei inner odder ausserhalb der Wagenburg/ mehr wann die Reutter bei dem Geschütz ligen/ doch daß der Lermenplatz bei dem Geschütz geraumbt bleibe/ da Reutter vnd Knecht wol in der Ordnung halten vnd stehen mögen/ wie sich auch jeder zeit der Feldmarschalck mit den andern entschließen vnd vergleichen soll.
+  cs: |-
+    Plukovník má sám nebo skrze své kvartýrmistry pilně dbát na to, aby knechti – ať uvnitř nebo vně vozové hradby {Wagenburg}, a to zvláště když u děl {Geschütz} leží jezdci {Reutter} – nechali poplachové shromaždiště {Lermenplatz} u děl volné, kde by jezdci i knechti mohli řádně stát a držet se v šiku, jak se o tom také pokaždé polní maršálek {Feldmarschalck} s ostatními usnese a dohodne.
+- typ: odstavec
+  de: |-
+    Der Oberst ordnet/ oder andere seine Kriegsuerstendigen/ auß seinem beuelch alle stürme/ wie die im Rath deßhalben beschlossen werden/ wie im 57. Artickel bei dem Obersten Feldhauptman daruon meldung geschicht/ doch allein das fußuolck.
+  cs: |-
+    Plukovník – nebo z jeho rozkazu jiní jeho váleční znalci – uspořádává všechny útoky {stürme}, jak jsou v té věci usneseny v radě, jak se o tom činí zmínka v 57. článku u nejvyššího polního hejtmana, avšak pouze pokud jde o pěchotu {fußuolck}.
+- typ: odstavec
+  de: Der Oberst/ wann mann mit den Feinden schlahen wil/ soll er
+  cs: Chce-li se bít s nepřáteli, má plukovník
+poznamky:
+- n: 1
+  text: |-
+    „In jre stat“ (Staat) – tj. do plukovníkovy štábní soustavy (rozpisu vydržovaných úřadů), jak byla uvedena na předchozím listu.
+- n: 2
+  text: |-
+    V tisku na začátku odstavce tisková chyba „Obest“ místo „Oberst“.

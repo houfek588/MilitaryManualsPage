@@ -1,0 +1,42 @@
+id: 027r
+list: '27'
+strana: recto
+sken: 145
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ein frieden nach Kriegsbrauch / als lang derselbig Krieg wehrt / geloben / er treibt auch auß die andern jre Quartier oder Losamenter eingenommen hetten / er schafft auch im namen des Feldmarschalcks / den jenigen / so etwas von jren beuten oder eygen Rossen / wie offt geschicht / genommen oder auffgefangen wehre / wider / deßgleichen an Prouiant vnd Füterung.
+  cs: |-
+    slíbit mír {frieden} podle válečného obyčeje po celou dobu trvání té války; vyhání také ty, kdo obsadili kvartýry {Quartier} nebo ubytování {Losamenter} jiných; a jménem polního maršálka {Feldmarschalcks} zjednává navrácení těm, jimž bylo něco z jejich kořisti či vlastních koní – jak se často stává – vzato nebo zadrženo, stejně tak i u proviantu {Prouiant} a píce.
+- typ: odstavec
+  de: |-
+    In summa / alles was der Feldmarschalck seinem vnder Marschalck in angeregten oder andern Artickeln beuilcht / zuuerrichten / ist er zu volnziehen schuldig.
+  cs: |-
+    Zkrátka vše, co polní maršálek svému podmaršálkovi {vnder Marschalck} v uvedených či jiných článcích nařídí vykonat, je tento povinen splnit.
+- typ: odstavec
+  de: |-
+    Es ist auch kürtzlich darzů kommen / vnd vorzeiten nicht gewesen / daß mann dem Feldmarschalck ein eigen Prouosen / vnd etlich Stecken Knecht helt / welcher die reuter so es verschulden / gefengklich annimpt vnd verwaret / wann aber kein solcher Prouoß vorhanden ist / alßdann versichts der vnder Marschalck.
+  cs: |-
+    Nedávno se také ujalo – a za starých časů to nebývalo –, že se polnímu maršálkovi vydržuje vlastní profous {Prouosen} a několik profousových pacholků {Stecken Knecht}, který jezdce {reuter}, proviní-li se, bere do vazby a hlídá; není-li však takový profous přítomen, zastává tuto službu podmaršálek.
+- typ: odstavec
+  de: |-
+    Wann auch des Volcks wenig ist / mag mann diser beider ämpter wol mangeln / vnd dem Herrn dise Besoldung ersparn / vnd versicht der Feldmarschalck sein geschefft durch seine besolten Personen / alßdann werden die straffmessigen reutter / von des Obersten Feldhauptmans seines Leutenants / oder Feldmarschalcks Trabanten gefengklich angenommen / vnd durch der Knecht Prouosen in verwarung enthalten.
+  cs: |-
+    Je-li pak lidu málo, lze oba tyto úřady docela postrádat a ušetřit válečnému pánu {Herrn} tento žold {Besoldung}; polní maršálek pak obstarává své záležitosti prostřednictvím svých placených osob a jezdci hodní trestu bývají zatýkáni drabanty {Trabanten} nejvyššího polního hejtmana {Obersten Feldhauptmans}, jeho poručíka {Leutenants} nebo polního maršálka a drženi ve vazbě profousem knechtů {Knecht}.
+- typ: odstavec
+  de: |-
+    Ein jeder Feldmarschalck bedarff guter fürsehung / wanner ein Leger zubesichtigen vnd zuschlahen vorzeucht / daß jm die Trosser buben vnd andere so sich die losamenter einzunemen / an jn hencken / nicht ein flucht machen / wann die Feinde vngefehrlich oder mit fleiß auff jhn stossen / der vrsach soll er keinen Meutzkopff am zug für sich hudeln lassen / sonder dieselbigen / wann wort nicht helffen / hindersich schlahen vnd stechen / daß nit durch ein solliche flucht in ein gantzen Hauffen ein schrecke kommen möcht.
+  cs: |-
+    Každý polní maršálek musí mít dobrou obezřetnost, když táhne napřed prohlédnout a rozbít ležení {Leger}, aby mu čeleď a chlapci z trénu {Trosser buben} i jiní, kteří se k němu připojují, aby si zabrali ubytování, nevyvolali útěk, kdyby na něj náhodou či úmyslně narazili nepřátelé; z toho důvodu nesmí na pochodu nechat před sebou pobíhat žádného svéhlavého pobudu {Meutzkopff}[^1], nýbrž takové má, nepomohou-li slova, bít a bodat nazpátek, aby takovým útěkem nevznikl v celém šiku {Hauffen} zmatek a zděšení.
+- typ: odstavec
+  de: |-
+    Der Feldmarschalck soll auch inn gemelten Zügen nicht zu weit von den Hauffen ziehen damit er nicht selbst mit seinem Gesind flüchtig hindersich weichen müsse / er hett dann gewisse kundtschafft / daß die Feinde nicht vorhanden weren / wiewol ein Kriegsman darauff nicht hoch bawen soll / sonder allweg fürsichtige Ordnung halten / Vnd ist vil besser alle hauffen warten ein weil in der Ordnung / biß er daß leger besehe vnd schlahe / dann daß er muß hindersich weichen / oder schanden empfangen / er soll sich auch / wann es von nöten ist / im vorzug stercken lassen.
+  cs: |-
+    Polní maršálek se také na zmíněných taženích {Zügen} nemá vzdalovat příliš daleko od hlavního šiku, aby sám se svou družinou nemusel na útěku ustupovat zpět, ledaže by měl spolehlivé zprávy {kundtschafft}, že nepřátelé nejsou nablízku – ačkoli na to nemá válečník {Kriegsman} příliš spoléhat, nýbrž má vždy zachovávat obezřetný šik. A je mnohem lepší, aby všechny houfy chvíli počkaly v šiku, dokud si neprohlédne a nerozbije ležení, než aby musel ustupovat nebo utrpět hanbu; má si také, je-li to třeba, nechat předvoj {vorzug} posílit.
+poznamky:
+- n: 1
+  text: |-
+    *Meutzkopff* – v 16. století svéhlavý, neukázněný pobuda či chmaták z trénu (srov. *Meuterei* „vzpoura“ a *mausen* „slídit po kořisti, krást“), který se bez rozkazu tlačí vpřed (*für sich hudeln*) před vojsko za kořistí nebo noclehem.

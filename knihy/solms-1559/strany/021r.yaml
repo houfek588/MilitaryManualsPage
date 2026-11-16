@@ -1,0 +1,37 @@
+id: 021r
+list: '21'
+strana: recto
+sken: 133
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Wann ein Fleck mit dem sturm erobert wirt / als dann wirt es / wie von eroberung der Schlachten daruon geredt ist worden / sei ein gemeine Beut oder nicht / mit vorbehalt der hohen vnd anderer ämpter gerechtigkeit / gehandelt.
+  cs: |-
+    Když je městečko dobyto útokem {sturm}, pak se s tím nakládá tak, jak bylo řečeno o vítězství v bitvách, ať už jde o společnou kořist nebo ne, s výhradou práv vysokých a jiných úřadů.
+- typ: odstavec
+  de: |-
+    Ein jeglich Kriegsuolck so einen Flecken mit stürmen gewint / vnd sich vorhin einer gemeinen Beut verglichen haben / sein denn die Reisigen auch in der Beut / wie billich / weil sie vber dem sturm halten / oder etwan auch etlich mit stürmen / Alßdann von Reisigen vnd Knechten Beutmeister zu roß vnd fuß / welche gewunnen haben / denselben ist jederman bei der pflicht die ein jeder thůt / jr beut zuvberantworden schuldig / als bald dann die Beutmeister das gewunnen gůt zu gelt gemacht / vnd es nach billicheit außgetheilt haben / der gestalt / Hauptleuten / Fendrichen vnd Beutmeistern doppel beut / einem Reutter zwei mal so vil als einem Fußknecht / der hohen ämpter gerechtigkeit wirt mann bei denselben finden.
+  cs: |-
+    Kdykoli nějaký válečný lid {Kriegsuolck} dobude městečko útokem a předem se dohodl na společné kořisti, mají pak na kořisti podíl i jezdci {Reisigen} – jak je spravedlivé, poněvadž při útoku kryjí pole anebo někteří i spolútočí. Tehdy se z jezdců a knechtů {Knechten}, kteří dobývali, ustaví rozdělovači kořisti {Beutmeister} jízdy i pěchoty; těm je každý pod závazkem {pflicht}, jejž skládá, povinen svou kořist odevzdat. Jakmile pak rozdělovači kořisti získaný statek zpeněží a rozdělí podle spravedlnosti tak, že hejtmanům {Hauptleuten}, praporečníkům {Fendrichen} a rozdělovačům kořisti náleží dvojitý díl a jednomu jezdci {Reutter} dvakrát tolik než jednomu pěšímu knechtovi {Fußknecht}, ostatní práva vysokých úřadů se uvedou přímo u nich.
+- typ: odstavec
+  de: |-
+    Vil von Beutmeistern zu reden ist nicht notwendig / angesehen / Beutmeister seind im Krieg nicht bestendig ämpter / dann wo das Kriegsuolck kein Beut gewint / bedarff mann auch keines Beutmeisters / wo mann jr aber bedarff / so bald sie dann die Beut getheilt haben / ist jhr Ampt auß / etc. wie auch die klein verstendigen zum Krieg wissen.
+  cs: |-
+    Mluvit mnoho o rozdělovačích kořisti není zapotřebí, poněvadž rozdělovači kořisti nejsou ve válce stálými úřady; neboť kde válečný lid nezíská žádnou kořist, tam nepotřebuje ani žádného rozdělovače kořisti, a kde ho potřebuje, jakmile kořist rozdělí, jeho úřad končí atd., jak vědí i ti, kdo se ve válce vyznají jen málo.
+- typ: odstavec
+  de: |-
+    Welchs Kriegsuolck einen Flecken mit dem sturm erobert / es sei alßdann ein gemeine Beut oder nicht / sein sie auff begern des Obersten Feldhauptmans den Flecken zu rhaumen / vnnd zimlich Prouiant darinnen / wann jhn der Oberst besetzen wil / zulassen schuldig / doch soll hiemit wedder von dem Obersten noch von dem Kriegsuolck gefahr gebraucht werden / der gestalt / daß der Oberst die Kriegsleut vor nottürfftiger plünderung nicht heraußer fordern / noch das Kriegsuolck lenger / dann billich ist / im Flecken zubleiben nicht begeren soll.
+  cs: |-
+    Kterýkoli válečný lid dobude městečko útokem – ať je pak společná kořist nebo ne –, je povinen na žádost nejvyššího polního hejtmana {Obersten Feldhauptmans} městečko vyklidit, a chce-li je nejvyšší velitel obsadit, zanechat v něm přiměřené množství proviantu {Prouiant}; přitom však nemá být činěna křivda ani ze strany nejvyššího velitele, ani ze strany válečného lidu tak, že nejvyšší velitel nemá válečníky {Kriegsleut} odvolávat ven před řádným vydrancováním, ani válečný lid nemá žádat, aby v městečku zůstal déle, než je slušné.
+- typ: odstavec
+  de: |-
+    Es möchten sich auch der Feind oder anderer vil vrsachen halben / die handlungen also beschwerlich zutragen / Vnd die Kriegsleut den Flecken nicht rhaumen wolten / soll der Oberst nach ansehen der notturfft / den Flecken anzünden vnd außbrennen lassen / wie dann offt geschehen / sonst kan der Oberst in zeit der notturfft vnd eil nicht wehren / darzů eilents ein andern Flecken belegern / noch zů oder von den Feinden ziehen / dardurch dann einem Kriegsherrn etwan grosse sachen verseumbt werden.
+  cs: |-
+    Mohly by se však kvůli nepřátelům nebo z mnoha jiných příčin události vyvinout tak tíživě, že by válečníci nechtěli městečko vyklidit; tehdy má nejvyšší velitel podle potřeby nechat městečko zapálit a vypálit, jak se už často stalo, jinak by se nejvyšší velitel nemohl v čase nouze a spěchu bránit, ani rychle oblehnout jiné městečko, ani táhnout k nepřátelům či od nich, čímž by válečný pán {Kriegsherrn} přišel o veliké příležitosti.
+- typ: odstavec
+  de: |-
+    Wann sich die handlung nach eroberung eins Flecken (wie nechst gemelt) nit begeben / vnd der Oberst den gemeinen Flecken besetzen wil /
+  cs: |-
+    Neudál-li se však po dobytí městečka nic takového (jak právě řečeno) a chce-li nejvyšší velitel řečené městečko obsadit,

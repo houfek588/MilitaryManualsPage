@@ -1,0 +1,28 @@
+id: 062r
+list: '62'
+strana: recto
+sken: 203
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wöllen / daß wir durch vnsere Feinde brechen / so sollen jr euch auff die rechten oder lincken seitten wenden / daselbst wöllen wir vns samlen / vnd wo es die notturfft erfordert / wider daran / Diß möcht noch geschehen / mann hat auch vor jaren spitzige Ordnung vnder den Reuttern gemacht ist aber diser zeit gar daruon kommen.
+  cs: |-
+    chceme, abychom prorazili skrze naše nepřátele, pak se máte obrátit na pravou nebo levou stranu, tam se shromáždíme a – vyžaduje-li to potřeba – opět do nich udeříme.“ To by se mohlo dít i dosud; před lety se také mezi jezdci {Reuttern} stavěl klínovitý šik {Ordnung}, ale v této době se od toho již zcela upustilo.
+- typ: odstavec
+  de: |-
+    Etlich Hauptleut haben auch kurtzlich angefangen / vnnd einen für den fanen geordnet / vnd dem Fendrich auff den fanen zu warten befolhen / das ist nicht recht / auch nimmer mehr gůt / angesehen / wann derselbig flüchtig würde / můst der Fendrich auch fliehen / vnd hett der gestalt / das gantz geschwader zufliehen fug / Zum andern / were der Fendrich mit seinem hauffen auff einen Man bescheiden / der kein zeichen hett / Zum dritten / soll ein Hauptman keinen Fendrich nemen / er wisse dann was einem Fendrich gebürt / vnd sein nit allein die geordneten Reutter / sonder auch der Hauptman selbst dermassen auff jn zu warten schuldig / wann der Hauptman vnd die vordersten nit zu rechter zeit treffen oder hindersich weichen wolten / alßdann soll der Fendrich durch sein eigen Ordnung brechen / vnd gegen Feinden darwider stehen / welcher dem Fendrich da nicht folget / er sei hauptman oder anderer der handelt wider sein ehr / Der jetzt erzelten vrsach / soll allweg ein hauptman dem jenigen der das zeichen fürt / mehr dann einem andern der kein zeichen fürt vertrawen / vnd das zeichen einem verstendigen beuelhen.
+  cs: |-
+    Někteří hejtmani {Hauptleut} také nedávno zavedli novotu, že postavili někoho před korouhev {fanen} a praporečníkovi {Fendrich} přikázali řídit se podle něho; to není správné a nikdy ani dobré, vzhledem k tomu, že kdyby se ten muž dal na útěk, musel by prchat i praporečník a celá švadrona {geschwader} by tak měla záminku utéci. Za druhé by byl praporečník se svým houfem {hauffen} odkázán na muže, který nemá žádné znamení. Za třetí nemá hejtman brát žádného praporečníka, ledaže ví, co se praporečníkovi sluší; a nejen zařazení jezdci, nýbrž i sám hejtman jsou povinni hledět na něho tak, že kdyby hejtman a ti v předních řadách neudeřili v pravý čas nebo chtěli ustoupit nazpět, tehdy má praporečník prorazit vlastním šikem a postavit se proti nepřátelům; kdo pak praporečníka nenásleduje – ať hejtman nebo kdokoli jiný –, ten jedná proti své cti. Z právě uvedených příčin má hejtman vždy důvěřovat tomu, kdo nese prapor, více než jinému, kdo žádný prapor nenese, a svěřovat jej muži rozumnému.
+- typ: odstavec
+  de: |-
+    Die fendrich sollen gůt acht haben auff jhre fanen / vnd im Leger nit weit daruon sein / damit er im lermen der erst auff seie / so künden sich seine Reutter bei jme samlen / vnnd wann er jhr bedorfft ein zimbliche Summa hett / soll er gemach dem Lermen platz zurücken / als dann eilen jm die Reutter desto balder nach / vnd wann der Hauptman noch sein Leuttenant nit vorhanden weren / soll es der Fenderich dannoch also handeln / wann aber der Hauptman inn seinem Losament ist / soll er sein ein weil warten.
+  cs: |-
+    Praporečníci mají dobře střežit své korouhve a v ležení {Leger} se od nich nevzdalovat, aby při poplachu {lermen} byl [praporečník] na nohou jako první; tak se u něho mohou shromáždit jeho jezdci, a jakmile jich bude mít k potřebě slušný počet, má pozvolna postoupit k poplachovému místu, načež za ním jezdci tím rychleji přispěchají. A nebyl-li by přítomen ani hejtman, ani jeho poručík {Leuttenant}, má praporečník {Fenderich} přesto jednat takto; je-li však hejtman ve svém ubytování {Losament}, má na něj chvíli počkat.
+- typ: odstavec
+  de: |-
+    Ein jeder Fendrich soll alle mal wann sich ein leger verendert / wohin er in lermen rücken sol / bei dem Obersten oder Feldmarschalck erkündigen / wiewol der lermen Platz alweg bei dem Geschütz ist / werden doch etliche Reutter vnd Knecht / anderer enden im leger / dann auff dem lermenplatz zuhalten vnnd zustehen / geordnet / ob die Feinde hinden oder auff der seitten in das leger fallen wolten / solliches zuuerhüten.
+  cs: |-
+    Každý praporečník se má pokaždé, když se změní ležení, dotázat u nejvyššího velitele {Obersten} nebo polního maršálka {Feldmarschalck}, kam má při poplachu vyrazit; ačkoliv je totiž poplachové místo vždy u děl {Geschütz}, jsou přece někteří jezdci a pěší knechti {Knecht} určeni stát a držet postavení na jiných místech ležení než na poplachovém místě, aby se zamezilo případnému vpádu nepřátel do ležení zezadu nebo ze strany.

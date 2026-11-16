@@ -1,0 +1,28 @@
+id: 061r
+list: '61'
+strana: recto
+sken: 201
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    sonst ein Oberster nicht wissen / wann er Reutter im Leger hett oder nicht / die Hauptleut sollen auch den Reuttern jre Leutenant anzeigen / damit sie dieselben kennen.
+  cs: |-
+    nejvyšší velitel {Oberster} vědět, kdy má jezdce {Reutter} v ležení {Leger} a kdy ne. Hejtmani {Hauptleut} mají také jezdcům představit své poručíky {Leutenant}, aby je znali.
+- typ: odstavec
+  de: |-
+    Ein jeder Hauptman soll allen morgen vnnd abents / bei dem Obersten vmb bescheidt ansůchen / vnnd nicht in seinem Losament ligen / vnd auff das blasen warten / kan er aber selbst etwan nicht gehen / soll er seinen leutenant / oder auff das wenigst den Trometer oder sein Forierer zu jm schickten / vnd sonderlich wann mann nahe bei den Feinden ligt / es sei im an oder abziehen. Die Hauptleut sollen sampt jren Leutenanten am zug gůt acht haben / daß sich die Reutter nach dem mausen vnd kisten fegen / nit auß der Ordnung heimlich stehlen / dardurch sie etwan niderligen / jren Herrn vnnd Edelleuten die Roß verliern / vnnd wann es not thůt / oder ein lermen wirt / das wenig Reutter bei dem fanen seien / oder doch die Geschwader sehen als hetten die Wolff darauß gefressen.
+  cs: |-
+    Každý hejtman se má každé ráno i večer hlásit u nejvyššího velitele o rozkazy, a neležet ve svém ubytování {Losament} a nečekat na troubení; nemůže-li však někdy jít sám, má k němu poslat svého poručíka nebo alespoň trubače {Trometer} či svého furýra {Forierer}, a zvláště když se leží blízko nepřátel, ať při postupu nebo při ústupu. Hejtmani mají spolu se svými poručíky na tažení {zug} dávat dobrý pozor, aby se jezdci za krádežemi a vymetáním truhel {kisten fegen} tajně nevykrádali ze šiku {Ordnung}, čímž by snad padli do zajetí, připravili své pány a šlechtice o koně, a když by bylo třeba nebo nastal poplach {lermen}, aby u korouhve {fanen} nebylo málo jezdců, anebo aby švadrony {Geschwader} nevypadaly, jako by z nich vlci žrali.
+- typ: odstavec
+  de: |-
+    Die Hauptleut sollen sich gantz freuntlich mit einander vergleichen / vnd keiner seinen Reuttern gestatten / daß sie andern jre Quartier / losament / Fůterung / Beutten / Prouiant / oder anders nemen / wo es aber geschicht / soll derselbigen Hauptman was genommen ist / den bescheidigten wider schaffen oder bezalung daruon thůn / auch die jenigen so andern jhre Quartier oder losament eingenommen hetten / außtreiben / damit solchs nicht für den Obersten oder Feldmarschalck kome / dieselben sein dann schuldig mit ernstlicher straff darinn zůgreiffen / Sonst wann mann es nicht abstellt / würde gar leichtlich grosse auffrůr vnd blůtuergiessen darauß volgen / wie auch offt geschehen / were auch die sach so wichtig / vnnd die partheien jren Hauptleuten nicht volgen wolten / so bleibts bei des Obersten vnd jrer Kriegsräth Spruch / wie in des Feldmarschalcks 21. Artickels vermelt.
+  cs: |-
+    Hejtmani se mají mezi sebou zcela přátelsky dohodnout a žádný nemá svým jezdcům dovolit, aby jiným brali jejich kvartýry {Quartier}, ubytování, píci, kořist, proviant {Prouiant} či cokoli jiného. Stane-li se to však, má příslušný hejtman to, co bylo vzato, poškozenému vrátit nebo za to zaplatit, a rovněž ty, kdo by jiným zabrali jejich kvartýry nebo ubytování, vyhnat, aby se to nedostalo před nejvyššího velitele nebo polního maršálka {Feldmarschalck}, neboť ti jsou pak povinni zakročit přísným trestem. Jinak, nezamezí-li se tomu, vzešla by z toho snadno veliká vzpoura a krveprolití, jak se i často stalo. Byla-li by však věc tak závažná a strany by nechtěly uposlechnout svých hejtmanů, zůstane při výroku nejvyššího velitele a jeho válečných radů {Kriegsräth}, jak je uvedeno v 21. článku {Artickels} polního maršálka.
+- typ: odstavec
+  de: |-
+    Die Hauptleut sollen alles so jnen sampt jren Reuttern beuolhen wirt / vnd sie schuldig sein / willig vnd fleissig versehen / es sei an zügen / wachten / ob den fůtern halten / Prouiant oder anders geleiden / der Feinde flecken oder sonst etwas besichtigen / darmit nichts durch einen Hauptman oder seine Reutter versaumpt werde / sonst ist es jenen Herrn schedtlich / dem Hauptman vnd seinen reutern spötlich / strefflich / auch etwan schendtlich.
+  cs: |-
+    Hejtmani mají vše, co je jim spolu s jejich jezdci přikázáno a čím jsou povinni, ochotně a pilně vykonat – ať jde o tažení, stráže {wachten}, krytí při pícnění, doprovázení proviantu či jiných věcí, ohledání nepřátelských městeček nebo čehokoli jiného –, aby hejtman ani jeho jezdci nic nezanedbali; jinak je to pánům ke škodě a hejtmanovi i jeho jezdcům k posměchu, k trestu a někdy i k hanbě.

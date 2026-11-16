@@ -1,0 +1,50 @@
+id: 065v
+list: '65'
+strana: verso
+sken: 208
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    zu fůß abstehn/ vnd sich in den gewaltigen hauffen in das vorderst gliede stellen/ wie sich gebürt/ den Knechten tröstlich zusprechen.
+  cs: |-
+    sesednout a jít pěšky, postavit se do hlavního šiku {gewaltigen hauffen} do první řady {gliede}, jak se sluší, a knechtům {Knechten} dodat odvahy vlídným slovem.
+- typ: odstavec
+  de: |-
+    Der Oberst/ wann er sich einer Schlacht versicht/ beuilcht er den Feldweibeln/ daß sie sich die Ordnung zumachen vergleichen/ welche die langen oder kurtzen wehr/ auch die Schützen ordnen/ vnnd wann sie sich deßhalben vergliechen/ darzů wieuil sie in ein gliede ordnen wöllen/ sollen sie es dem Obersten anzeigen/ gefelt dann dem Obersten jre meinung nicht/ mag er jhn die Ordnung seines gefallens zumachen befelhen/ demselben sollen die Feldweibel nach kommen.
+  cs: |-
+    Očekává-li plukovník {Oberst} bitvu, přikáže polním šikovatelům {Feldweibeln}, aby se shodli na sestavení šiku {Ordnung}, kdo z nich seřadí dlouhé a kdo krátké zbraně a také střelce {Schützen}; a jakmile se o tom dohodnou – i o tom, kolik mužů chtějí postavit do jedné řady –, mají to oznámit plukovníkovi. Nelíbí-li se pak plukovníkovi jejich návrh, může jim nařídit, aby šik sestavili podle jeho vůle, a tím se polní šikovatelé mají řídit.
+- typ: odstavec
+  de: |-
+    Der Oberst soll auch nicht allein den angehenckten/ sonder auch den lauffenden Schützen geschickt leut/ es seien Hauptleut oder andere/ die sie in der Schlacht füren/ zuuerordnen.
+  cs: |-
+    Plukovník má rovněž nejen k přičleněným, nýbrž i k volně vybíhajícím střelcům[^1] přidělit zkušené velitele – ať už hejtmany {Hauptleut} nebo jiné –, kteří je v bitvě povedou.
+- typ: odstavec
+  de: |-
+    Gleicher gestalt soll diser Oberster den sturm vnder seinem volck ordnen/ oder dasselbig den Feldweibeln seines gefallens/ doch mit Rart zuthůn/ beuelhen/ der Oberst soll auch als offt es die notturfft erfordert/ oder im Rath für notwendig beschlossen wirt/ selbst mit stürmen/ auch die Knecht ehrlich ermanen/ daß sich ein jeder dermassen ritterlich erzeige/ als wolt er es allein außrichten vnd thůn.
+  cs: |-
+    Stejným způsobem má tento plukovník pod svým lidem uspořádat útok {sturm}, nebo to podle své libosti, avšak s rozmyslem[^2], uložit polním šikovatelům. Plukovník má také, kdykoli to potřeba vyžaduje nebo jak je v radě uznáno za nutné, sám jít na zteč a poctivě knechty napomínat, aby si každý počínal tak rytířsky, jako by to měl všechno dokázat a vykonat sám.
+- typ: odstavec
+  de: |-
+    Wann auch der Oberst Feldhauptman ein Flecken zu stürmen willens/ weil dann die Fůßknecht stürmen müssen/ sol diser Oberst sampt seinen Kriegserfarnen den Flecken wol vnd nach aller notturfft besichtigen/ er vnd andere darzu verstendig/ die sach zu gar vnthunlich odder vnmöglich erfünden/ soll er es dem obersten Feldhauptman mit den seinen den mangel anzeigen/ Auch dem Feldhauptman rathen/ wie er weiter schiessen/ gräben außfüllen/ odder sprengen soll lassen/ damit mann nicht vnbillich vmb vil ehrliche Gesellen komme/ vnd dannoch vngeschafft müß abziehen/ dann etlich Obersten lassen stürmen/ es gerat wol oder vbel.
+  cs: |-
+    Má-li také nejvyšší polní hejtman {Oberst Feldhauptman} v úmyslu vzít útokem nějaké městečko, a protože do útoku musí jít pěšáci {Fůßknecht}, má tento plukovník se svými války znalými muži to městečko dobře a podle veškeré potřeby prohlédnout; a kdyby on i jiní k tomu povolaní znalci shledali věc za zcela neproveditelnou nebo nemožnou, má nejvyššímu polnímu hejtmanovi spolu se svými lidmi nedostatky ukázat a polnímu hejtmanovi poradit, jak má dát dále střílet, zasypat příkopy nebo podkopat [hradby], aby se nadarmo nepřišlo o mnoho čestných druhů {Gesellen} a nemuselo se pak přesto odtáhnout s nepořízenou; někteří plukovníci totiž nechávají útočit, ať to dopadne dobře, či zle.
+- typ: odstavec
+  de: |-
+    Es soll auch diser Oberster alle Handlung offt selbst besichtigen/ an schlachten/ wachten/ vor dem Leger/ bei dem Geschütz/ am zug/ an der musterung vnd allenthalben/ darmit er auffrůr vnd Meuterei fürkomme.
+  cs: |-
+    Tento plukovník má také sám často obhlížet veškeré dění – při bitvách, na strážích {wachten}, před ležením {Leger}, u děl {Geschütz}, na pochodu {zug}, při přehlídce {musterung} i všude jinde –, aby předešel pozdvižení a vzpouře {Meuterei}.
+- typ: odstavec
+  de: |-
+    Diser Oberster soll gar fleissig verhüten/ daß keine Knecht sich in der Reutter Quartier legern/ es sei in Häusern oder Feld/ sonst
+  cs: |-
+    Tento plukovník má velmi bedlivě střežit, aby se žádní knechti neubytovávali v kvartýrech {Quartier} jezdců {Reutter}, ať v domech nebo v poli, jinak
+poznamky:
+- n: 1
+  text: |-
+    „Angehenckte Schützen“ byli střelci přičlenění přímo ke křídlům (bokům) hlavního pikenýrského šiku; „lauffende Schützen“ byli volní, rozptýlení střelci vysílaní před šik k šarvátkám.
+- n: 2
+  text: |-
+    V tisku tisková chyba „mit Rart“ místo „mit Rath“ (s radou, s rozmyslem).

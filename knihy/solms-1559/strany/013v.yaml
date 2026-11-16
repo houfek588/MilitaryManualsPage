@@ -1,0 +1,38 @@
+id: 013v
+list: '13'
+strana: verso
+sken: 118
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mann ein Menschen verkürtzt hab / dann das menschlich Blůt ist bei Gott hoch geacht / darumb solt Ewer Römische Keyserliche Maiestat dasselbig auch hoch achten / vnd sich der zeit vnd vnkostens so darauff gehn würd / die offenliche Justitie nicht beschweren lassen / Dann es ist Göttlich / ehrlich / vnd forchtsam bei allem Kriegsuolck / vnnd hat sich keiner der Justitie zubeklagen mit recht.
+  cs: |-
+    by byl člověk zkrácen na právech, neboť lidská krev je u Boha vysoce ceněna. Proto by si jí Vaše římské císařské Veličenstvo mělo také vysoce vážit a nenechat se odradit od veřejné spravedlnosti časem ani výlohami, které na ni připadnou; vždyť je to zbožné, čestné a vzbuzující bázeň u veškerého válečného lidu {Kriegsuolck}, a nikdo nemá právo si na spravedlnost stěžovat.
+- typ: odstavec
+  de: |-
+    Vnd damit Ewer Römische Keyserliche Maiestat / die tugent des Kriegs wider pflantzen möge / vnd das eingebrochen vbel / als geytz / finantz / vnbilliche Musterung / Schatzung / des Herrn vnd gemeynem Kriegsuolck vnd dergleichen / möcht wider abkommen / vnd inn ehrliche / Ritterliche / Kriegsordnung gebracht werden / wie das bei den alten gewesen ist / Wie mann das inn den Historien der Römer vnd anders wo findet / vnd welcher sich also manlich vnd ehrlich gehalten hat / daß solliches von jm gelobt / vnd in beschreibung gebracht worden / vnd er dardurcht herfür gezogen / gelobt / geehrt / vnd geadelt worden ist.
+  cs: |-
+    A aby Vaše římské císařské Veličenstvo mohlo opět vštípit ctnost války a aby vzmáhající se zlo – jako je chamtivost, finty {finantz}, nepoctivé přehlídky {Musterung}, vymáhání dávek na pánovi i prostém válečném lidu a podobně – mohlo opět vymizet a vše bylo uvedeno do čestného, rytířského válečného řádu, jak tomu bývalo u starých národů a jak se to nachází v římských dějinách i jinde, kde byl každý, kdo si počínal tak mužně a čestně, za to chválen a zapsán do kronik, a tím byl vyzdvižen, veleben, poctěn a povýšen do šlechtického stavu.
+- typ: odstavec
+  de: |-
+    Vnd welche sich aber haben vbel gehalten / inn welchem stück das gewesen ist / haben sie gestrafft / vnangesehen / ob er zuuor inn hohen wirden gewesen were.
+  cs: |-
+    A ty, kteří se však zachovali zle, v čemkoli to bylo, potrestali bez ohledu na to, zda předtím zastávali vysoké hodnosti.
+- typ: odstavec
+  de: |-
+    Dann Ewer Römische Keyserliche Maiestat haben den gewalt vnd macht / einen hohen der vbel handelt zustraffen / zuentsetzen / vnd einen geringen der schon nicht von adellicher geburt ist / vnd sich mannlich / ehrlich / adellich / vnd wol helt / zuehren / zu adeln / vnd zuerheben nach seinem wolgefallen.
+  cs: |-
+    Neboť Vaše římské císařské Veličenstvo má moc a právo potrestat a sesadit vysoce postaveného, který jedná zle, a naopak podle své libosti poctít, povýšit do šlechtického stavu a vyzdvihnout prostého člověka, jenž třeba není urozeného původu, ale chová se mužně, čestně, šlechetně a dobře.
+- typ: odstavec
+  de: |-
+    Wo das Ewer Römische Keyserliche Maiestat / zwischen der tugent vnd vntugent / den vnderscheydt zubegnaden vnd zustraffen halten / würde sonder zweifel durch die gnad Gottes / wider gůte ehrliche leut ziehen / vnd den Adell mit leuten mern vnd stercken / Dann der Adell soll tugenthafftig sein / daruon sein vrsprung herkompt / vnnd den ehrlichen hohen Tittel hat / die Gestrengen vnd Ehrnuesten / Wie mann das schon in den alten Beschreibungen vnd Historien findt / daß diejenigen / so wol vnd ehrlich gehandelt haben / zu dem Adell berůffen vnd verehrt sind worden / nicht allein von Kriegen oder Reichtumb / sonder von dem Acker von hertten der schaffe / vnd also von dem nidersten / die sich der tugent gehalten vnd geübt haben / als in Kriegslauffen / weißheit / gůte ordenung oder Policei / vnd was dem gemeinen nutzen hat mögen zu gůtem vnd erhaltung kommen.
+  cs: |-
+    Bude-li Vaše římské císařské Veličenstvo takto rozlišovat mezi ctností a neřestí při udílení milosti i při trestání, vychová si bezpochyby s Boží milostí opět dobré a čestné lidi a rozmnoží i posílí šlechtu schopnými muži. Neboť šlechta má být ctnostná, odtud pochází její původ a proto má ten čestný vysoký titul „přísní a cti pevní“, jak se ostatně již ve starých spisech a dějinách nachází, že ti, kdo jednali dobře a čestně, byli povoláni a poctěni přijetím mezi šlechtu – a to nejen z válek či pro bohatství, nýbrž od pluhu, od pasení ovcí, a tedy z nejnižšího stavu, protože se drželi ctnosti a cvičili se v ní, jako ve válečných věcech, v moudrosti, v dobrém řádu či správě obce a v tom, co mohlo sloužit k prospěchu a zachování obecného blaha.
+- typ: odstavec
+  de: |-
+    Derhalben haben Ewer Römische Keyserliche Maiestat inn vil weg auß gemelten vrsachen zuadeln vnnd zuehren / vnd die ämpter
+  cs: |-
+    Z uvedených důvodů má tedy Vaše římské císařské Veličenstvo mnoho příležitostí udílet šlechtictví a pocty a úřady

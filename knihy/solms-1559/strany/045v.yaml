@@ -1,0 +1,46 @@
+id: 045v
+list: '45'
+strana: verso
+sken: 178
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Wassern / auff Flössen durch die darzů gedingte vnnd bestellte Flößleut / in den Enn oder Thonaw faren.
+  cs: |-
+    vodních tocích převézt na vorech skrze k tomu najaté a ustanovené voraře do Innu či Dunaje {Thonaw}.
+- typ: odstavec
+  de: |-
+    Es soll auch ein jeder Fürst oder Herr in solchem fall / vnd sonderlich / da gemeyner Christlicher nutz vnd wolfart bracht / vnd desselben schaden vnd nachtheil zuuerhüten / gehandelt wirt / nit für beschwerlich achten / seinn eigen getreydtkasten / souil on sonderliche erforderung beschehen mag / anzugreiffen / Deßgleichen auch die von Prelaten vnd der Ritterschafft / auch die vermöglichen Stätt / Pfarhöffe / Hospital / vnd derselben ligenden Treyde vmbs gelt zuuerkauffen / auch nicht vnbillich in disen weg / willig sein sollen / vnd obschon das Getreydt desselben Jars vngültig / möcht mann darnach mit bescheidenheit / vnd gelegenheit seins vorrats deren jeden ein anzal getreidts abzugeben bestimmen vnd aufferlegen.
+  cs: |-
+    Každý kníže či pán také v takovém případě – a zvláště když jde o obecný křesťanský užitek a blaho a o odvrácení jejich škody a újmy – nemá pokládat za obtížné sáhnout na své vlastní obilné sýpky, pokud se tak může stát bez zvláštní újmy; stejně tak i preláti a rytířstvo, jakož i zámožná města, fary a špitály mají být po právu ochotni odprodat své ležící obilí za peníze touto cestou; a i kdyby obilí téhož roku nebylo hojné a levné[^1], mohlo by se pak s rozvahou a podle stavu jejich zásob každému z nich určit a uložit množství obilí, které má odevzdat.
+- typ: odstavec
+  de: |-
+    So ein solche Ordnung in disem oder einem andern nützlichern oder gelegenern weg berathschlagt / fürgenommen / vnd die zeit / so lang es die notturfft erfordert im wesen erhalten / so wirt dann die Prouiant vff dem wasser abwerts zufürn / die schiffung nach gesetzter massen zugebrauchen / meins verstands / nützlich / fürderlich vnd gůt sein.
+  cs: |-
+    Bude-li tedy takový řád tímto nebo jiným užitečnějším či příhodnějším způsobem projednán, přijat a udržován v platnosti tak dlouho, jak to potřeba vyžaduje, pak bude podle mého rozumu užitečné, prospěšné a dobré dopravovat proviant {Prouiant} po vodě dolů a užívat lodní dopravu podle stanovených zásad.
+- typ: odstavec
+  de: |-
+    Erstlich / daß mann bei jeder zeit auß dem verordneten odder bestellten Flecken / dem Wasserstram gelegen / einen erbarn / verstendigen / frommen Prouiantmeister / oder wie mann dem namen geben will / sampt einem jm zůgeordneten geschickten / auch der Rechnung erfarn fertigen Schreiber / fürnemen vnd bestellen / durch welche alßdann alle getreydt von den Kasten ordenlich auff die Schiff abgeben / beschreiben / vnd mit richtlicher / lautterer / gůter Rechnung / so die von jm erfordert / verrechnet werde / zu mehrer sicherheit were auch gůt / das nit allein derselb Prouiantmeister / sonder auch ein Kastenpfleger / oder ander Magistrat / so demselben Flecken fürgesetzt / jm zůgeordnet würden / das allweg auch deren einer oder zwen / gleicher weise wie der Prouiantmeister / einen sondern Schlüssel / deren keiner on den andern auffspert / zu dem Kasten hetten.
+  cs: |-
+    Za prvé: aby se kdykoli z každého určeného či objednaného městečka ležícího při řece vybral a ustanovil počestný, rozumný a řádný proviantmistr {Prouiantmeister} – nebo jak se mu bude chtít říkat – spolu s jemu přiděleným schopným a v počtech zběhlým, hbitým písařem {Schreiber}, kteří by pak všechno obilí ze sýpek řádně vydávali na lodě, zapisovali je a předkládali o tom správné, jasné a řádné vyúčtování, kdykoli by od nich bylo požadováno. Pro větší jistotu by také bylo dobré, aby k němu byl přidělen nejen týž proviantmistr, nýbrž i správce sýpky nebo jiný městský úředník ustanovený nad týmž městečkem, tak aby vždy jeden nebo dva z nich měli stejně jako proviantmistr zvláštní klíč od sýpky, z nichž žádný neotevře bez druhého.
+- typ: odstavec
+  de: |-
+    Zum andern / soll auch bei jeder fürgenommen Wasserstat / ein dapffer / wolerfarner / tröstlicher / gůter Schiffman verdingt vnd bestellt / auch demselben auff erlegt werden / daß er jeder zeit zwei starck Schiff / die wol zugericht seind / der jedes 60. oder 70. Ingolstätter schaff getreydts wol ertragen mag / an der vnd desselben Fleckens / darzů auch souil roß / mit denen er die gemelten Schiff / eins gegen dem wasser auffwerts / doch leer vnd vngeladen zufüren / getrawe / zu dem soll er zwo klein böse Zilen sampt den zweien Schiffen zugericht / vnd mit aller notturfft verfaßt haben.
+  cs: |-
+    Za druhé: také se má v každém vybraném říčním městě najmout a objednat zdatný, velmi zkušený, spolehlivý a dobrý lodník, a má se mu uložit, aby měl kdykoli v přístavišti téhož městečka[^2] dvě silné, dobře vystrojené lodě, z nichž každá dokáže dobře uvézt 60 nebo 70 ingolstadtských korců {schaff}[^3] obilí, a k tomu také tolik koní, s nimiž si troufne táhnout jednu ze zmíněných lodí proti proudu nahoru, avšak prázdnou a nenaloženou; nadto má mít kromě obou lodí připraveny a vším potřebným vybaveny i dva malé prosté čluny[^4].
+poznamky:
+- n: 1
+  text: |-
+    „vngültig“ – zde ve smyslu málo výnosné, drahé či bez obvyklého nadbytku.
+- n: 2
+  text: |-
+    V tisku je zkomolené místo „an der vnd desselben Fleckens“ (pravděpodobně vypadlo slovo „Lände“ či „Statt“, tedy „v přístavišti toho městečka“ nebo „v tom městě a městečku“).
+- n: 3
+  text: |-
+    Ingolstadtský korec (Schaff) byl velká bavorská obilná míra o 4 čtvrtích (Viertel), která podle následujícího listu vážila 8 centů (800 liber).
+- n: 4
+  text: |-
+    „böse Zilen“ – Zille je dunajský plochodenní nákladní či pomocný člun („böse“ ve starší němčině též „prostý, obyčejný“, případně tisková chyba místo „bloße“ = holé, prázdné).

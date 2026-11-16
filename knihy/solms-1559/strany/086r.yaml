@@ -1,0 +1,42 @@
+id: 086r
+list: '86'
+strana: recto
+sken: 245
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    die Feinde also nahe mit jhrem graben zu etwas/ daß sie sprengen wolten/ komen/ vnd er jnen durch dise oder andere vrsachen das sprengen nicht wehren möcht/ soll er fürderlich inwendig an die Maurn/ Thürn oder Paßtheien grosse starcke Bäum leinen/ auch auff das aller hertest daran speideln lassen/ darmit wann sie sprengen/ die Mauren/ Thürn oder was es ist/ nicht hinein sonder herauß fallen/ Gleicher gestalt soll er mit einer jeden Mauren handeln/ so die Feinde von aussen/ wie offt geschehen/ mit Pickeln vmbgraben/ vnd hinein werffen wöllen.
+  cs: |-
+    že se nepřátelé se svým podkopem dostali tak blízko k něčemu, co chtějí vyhodit do povětří, a on by jim v tom výbuchu z této či jiné příčiny nemohl zabránit, má neprodleně zevnitř ke zdi, věži nebo baště {Paßtheien} nechat opřít velké silné klády a co nejpevněji je zaklínovat, aby se při výbuchu zdi, věže nebo cokoli to je nezřítily dovnitř, nýbrž vyvalily ven. Stejným způsobem má naložit s každou zdí, kterou by nepřátelé zvenčí – jak se často děje – chtěli krumpáči podkopat a povalit dovnitř.
+- typ: odstavec
+  de: |-
+    Der Hauptman soll auch allweg hinder der Maurn/ Thurn oder Paßtheien/ die mann in zuuersichtiglich sprengen oder vmbwerffen wirt/ tieff Gräben machen/ darmit er also bald wann die Maurn/ Thürn oder anders hinweg ist oder kompt ein standt/ vnd sich wider zu wehren gerüst gemacht haben/ wie im 41. Artickel diß theils von stürmen gemelt
+  cs: |-
+    Hejtman {Hauptman} má také za zdí, věží nebo baštou, o níž je zřejmé, že ji nepřátelé vyhodí do povětří nebo povalí, vždy vykopat hluboké příkopy, aby – jakmile bude zeď, věž či cokoli jiného pryč nebo spadne – měl ihned připraveno obranné postavení a byl nachystán k dalšímu odporu, jak je uvedeno ve 41. článku tohoto oddílu o útocích {stürmen}[^1].
+- typ: odstavec
+  de: |-
+    Es begibt sich auch daß mit angezeigten Gräben einmal zwei odder drei hinder sich gerückt muß werden/ etwan hat mann souil platz/ daß man zwen oder drei Gräben für einander zum sturm auffwirfft/ Doch soll diß anzeigen ein Hauptman vnd seine Kriegsuerstendigen wol bewegen/ daß sie nit on mercklich vrsachen hindersich rücken/ noch zwen oder drei gräben für einander machen/ sonst werden etwan die Kriegsleut dardurch kleinmüttig.
+  cs: |-
+    Stává se také, že s uvedenými příkopy je třeba jednou, dvakrát či třikrát ustoupit dozadu; někdy bývá tolik místa, že se k odražení útoku {sturm} vykope jeden, dva nebo tři příkopy za sebou. Přesto má toto upozornění hejtmana a jeho válečné znalce vést k bedlivé rozvaze, aby bez závažného důvodu neustupovali dozadu ani nezřizovali dva či tři příkopy za sebou, jinak tím válečníci {Kriegsleut} mohou zmalomyslnět.
+- typ: odstavec
+  de: |-
+    Wie sich weiter die Hauptleut sampt den andern Kriegsuerstendigen in der Besatzung halten/ auch in ansehenlichen gegenwehrn wider seine Feinde richten soll/ damit er den Feinden vil abbrechen/ darzů sein Geschütz wol gebrauchen/ vnd sein volck willig behalten mög/ kan jetzund alles nicht gründtlich geschehen/ sonder wirdt auch/ wie vor/ dem Hauptman vnnd anderen seinen Kriegsuerstendigen beuolhen.
+  cs: |-
+    Jak si dále mají hejtmani {Hauptleut} spolu s ostatními válečnými znalci v posádce {Besatzung} počínat a jak se mají připravovat k důrazné obraně proti nepřátelům, aby jim mohli velmi uškodit, k tomu dobře použít své dělostřelectvo {Geschütz} a udržet svůj lid v ochotě k boji, to vše nelze nyní vypsat do základu, nýbrž se to jako výše svěřuje hejtmanovi a dalším jeho válečným znalcům.
+- typ: odstavec
+  de: |-
+    Aber souil mag wol daruon gerathen werden/ daß der Hauptman sampt dem Obersten vber die Knecht/ auch der Reutter Hauptleut/ vnd der Hauptman vber die Bürger mit den andern Kriegserfarnen/ ein gůte Justitie vnnd ordenliche vergleichung zwischen den 3. theilen den Reissigen/ Landtsknechten oder anderm Kriegsuolck zu fůß vnd den bürgern auffrichten/ vnd welcher dieselbig vbertrit ernstlich straffen/ vnd niemant vbersehn auch mit wachen/ arbeiten/ Prouiant vnd andern hendlen gleich halten.
+  cs: |-
+    Tolik však lze k tomu dobře poradit, aby hejtman spolu s plukovníkem {Obersten} nad knechty {Knecht}, rovněž hejtmani jízdy {Reutter} a hejtman nad měšťany s ostatními zkušenými válečníky zřídili spravedlivé soudnictví a řádný soulad mezi třemi složkami – jezdci {Reissigen}, lancknechty {Landtsknechten} či jiným pěším válečným lidem {Kriegsuolck} a měšťany –, a kdokoli by je porušil, toho přísně trestali a nikomu nepromíjeli, a také aby jim stejně vyměřovali stráže {wachen}, práce, proviant {Prouiant} i ostatní záležitosti.
+- typ: odstavec
+  de: |-
+    Wann auch der Hauptman inn der besatzung mit notturfftigem Kriegsuolck/ Prouiant vnnd geschütz mit seiner zugehörde von seinem Herren wol versehen ist/ kan er sein Kriegsuolck vnnd
+  cs: |-
+    Když je také hejtman v posádce svým pánem dobře zaopatřen potřebným válečným lidem, proviantem i děly s jejich příslušenstvím, dokáže svůj válečný lid a
+poznamky:
+- n: 1
+  text: |-
+    Odkaz míří k předchozím oddílům Druhé knihy o útocích a obraně měst (články v oddílu o nejvyšším polním hejtmanovi nejsou v tomto tisku číslovány).

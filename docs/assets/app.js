@@ -25,8 +25,8 @@ const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').repl
 const plain = v => v == null ? '' : Array.isArray(v) ? v.map(plain).join(' ') : String(v).replace(/\[\[[^|\]]+\|([^\]]+)\]\]/g,'$1').replace(/\[\^\d+\]/g,'').replace(/\{([^}]*)\}\*?/g,'[$1]').replace(/[*_]/g,'');
 const strop = (s, n) => s.length > n ? s.slice(0, n - 1) + '…' : s;
 // označení strany: foliace (fol. XII r) nebo stránkování (str. 12) podle kniha.yaml → strankovani
-const folio = p => !p.list ? p.id : (/^[IVXLC]+$/.test(p.list) && M.strankovani !== 'strany') ? `fol. ${p.list} ${p.strana === 'verso' ? 'v' : 'r'}` : /^\d+$/.test(p.list) ? `str. ${p.list}` : p.list;
-const folioDlouze = p => !p.list ? p.id : (/^[IVXLC]+$/.test(p.list) && M.strankovani !== 'strany') ? `list ${p.list}, ${p.strana === 'verso' ? 'rub (verso)' : 'líc (recto)'}` : /^\d+$/.test(p.list) ? `strana ${p.list}` : p.list;
+const folio = p => !p.list ? p.id : (/^([IVXLC]+|\d+)$/.test(p.list) && M.strankovani !== 'strany') ? `fol. ${p.list} ${p.strana === 'verso' ? 'v' : 'r'}` : /^\d+$/.test(p.list) ? `str. ${p.list}` : p.list;
+const folioDlouze = p => !p.list ? p.id : (/^([IVXLC]+|\d+)$/.test(p.list) && M.strankovani !== 'strany') ? `list ${p.list}, ${p.strana === 'verso' ? 'rub (verso)' : 'líc (recto)'}` : /^\d+$/.test(p.list) ? `strana ${p.list}` : p.list;
 const eraraId = p => (M.sken.zaklad_id || 0) + Number(p.sken);
 const skenUrl = p => M.sken.url_strana.replace('{sken}', p.sken).replace('{erara_id}', eraraId(p));
 const skenObr = (p, w) => M.sken.url_obrazek.replace('{sken5}', String(p.sken).padStart(5, '0')).replace('{sken4}', String(p.sken).padStart(4, '0')).replace('{erara_id}', eraraId(p)).replace('{sirka}', w);

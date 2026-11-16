@@ -1,0 +1,47 @@
+id: 004r
+list: '4'
+strana: recto
+sken: 99
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dann es sein nit gemeine Regiment/ die zeit vnd weil leiden mögen/ sonder tag vnd nacht in sorg vnd gefahr stehn/ vnd kein zeit gewiß ist/ darumb wöllen die ämpter mit verstendigen/ sorgfeltigen vnd erfarnen personen versehen sein vnd werden/ Derhalben so wirt hie folgents ein Kriegsordnung vnd deren regierung/ mit verwaltnug vnd versehung der ämpter vnd regiment beschriben/ was eins jeden verwaltung ampts versehung sein sol/ wiewol nit zuthůn ist/ daß sich einer der geschicklicheit achten/ daß er ein Krieg oder Kriegsorgnung beschreiben wolt/ die also in dem buchstaben regiert vnnd gehandelt werden solt/ vnd nit anders dann das/ kan aber nit geschehen/ dann ein jeder newer Krieg ist ein andere meynung/ vnd tregt sich anders zu dann vor geschehen ist/ darumb ist dise verzeichnuß oder beschreibung nichts anders dann ein Memorial/ sich darinn zubesehen/ was sich mit disem wölle zutragen/ das darnach möcht geordenet werden/ vnnd dise Beschreibung ein erinnert/ weiter nachdencken zuhaben/ vnnd was die ämpter des Kriegs seind vnd wöllen/ mit sampt dem bericht eines jeden verwaltung oder versehung/ wirt hernach ein jedes besonder angezeigt vnd beschrieben werden.
+  cs: |-
+    neboť to nejsou obyčejné správy {Regiment}, které by snesly čas a odklad, nýbrž stojí dnem i nocí v péči a nebezpečí a žádná chvíle není jistá; proto úřady vyžadují, aby byly obsazeny a opatřeny rozumnými, pečlivými a zkušenými osobami. Proto se zde dále popisuje válečný řád a jeho správa se zastáváním a obstaráváním úřadů a správ, totiž co má být správou a povinností každého jednotlivého úřadu[^1] – i když se nikdo nemůže považovat za tak obratného, že by chtěl sepsat válku či válečný řád tak, aby se podle něho vládlo a jednalo doslova do písmene a nijak jinak. To není možné, neboť každá nová válka má jinou povahu a přihází se v ní věci jinak, než se dály dříve; proto je tento zápis či popis jen jakousi pamětní knihou, do níž lze nahlížet, jak by se dalo uspořádat to, co se v ní právě vyskytne, a tento popis připomíná, aby se o věcech dále přemýšlelo. A jaké jsou válečné úřady a co vyžadují, spolu se zprávou o správě a obstarávání každého z nich, bude dále u každého jednotlivě vyloženo a popsáno.
+- typ: odstavec
+  de: |-
+    Erstlich gehören alle Schloß/ Stät/ flecken/ Land vnd Leut/ sie seien des widertheils/ Kriegsherrn oder seiner verwendten/ allein dem Kriegsherrn zů/ sie werden mit stürmen oder sonst erobert.
+  cs: |-
+    Předně náleží všechny hrady, města, městyse, země i lidé – ať patřili protivníkovi, válečnému pánovi {Kriegsherrn} nebo jeho spojencům – jedině válečnému pánovi, ať jsou dobyty útokem {stürmen} či jinak.
+- typ: odstavec
+  de: |-
+    Alle Prandt vnd andere Landschatzung/ wie mann die an eim jeden ort nennet/ gehören niemand dann allein dem Kriegsherrn zů.
+  cs: |-
+    Veškeré výpalné {Prandt} a jiné zemské berně, jakkoli se jim na kterém místě říká, nenáleží nikomu jinému než jedině válečnému pánovi.
+- typ: odstavec
+  de: |-
+    Alles groß Geschütz sampt der Municion darzů gehörig/ es were in schlachten/ Stürmen oder sonst inn eroberten Flecken gewonnen/ gehörn dem Kriegsherrn/ wann das die Zeugmeister etwas forderung darzů haben/ dauon folgents meldung geschehen soll.
+  cs: |-
+    Všechna velká děla {Geschütz} spolu s municí {Municion} k nim náležející, ať byla ukořistěna v bitvách, při útocích či jinde v dobytých městech, náleží válečnému pánovi, ledaže by k nim zbrojmistři {Zeugmeister} měli nějaký nárok, o čemž bude zmínka dále.
+- typ: odstavec
+  de: |-
+    Ein jeder Kriegsherr/ der ein krieg fůren muß oder wil/ gedencke anfangs vmb volck oder gelt/ seins widertheils macht gemeß/ vnnd wann er dasselbig zuwegen bracht hat/ soll er dannoch drei ding ernstlich versehen das darinn (souil jm jmmer möglich) kein mangel erschein/ nemlich an Poruiant/ ein gůt Geschütz mit nottürfftiger Munition/ vnd gůte kundtschafft auch/ wanns geschehen möcht/ auß des gegentheils Rath/ daran soll kein gelt gespart werden.
+  cs: |-
+    Každý válečný pán, který musí nebo chce vést válku, ať se nejprve postará o lid a peníze úměrně k moci svého protivníka; a když to opatří, má přesto pečlivě dbát na tři věci, aby v nich (jak jen mu bude možno) nebyl žádný nedostatek: totiž na proviant {Poruiant},[^2] na dobrá děla s potřebnou municí a na dobré zpravodajství {kundtschafft}, a to – bude-li to možné – i přímo z rady protivníka; na tom se nemá šetřit žádnými penězi.
+- typ: odstavec
+  de: |-
+    Ein jeglicher gegentheil/ Kriegsherr odder oberster Feldhauptman/ so sie gefangen werden/ gehörn dem Kriegsherrn/ doch soll er sich mit denen die sie gefangen hetten zimlich vertragen. Mit allen andern gefangen/ sonderlich was die Reisigen betrifft/ wirt nach inhalt der bestellbrieff gehalten.
+  cs: |-
+    Každý nepřátelský válečný pán nebo nejvyšší polní hejtman {oberster Feldhauptman}, jsou-li zajati, náleží válečnému pánovi, ten se však má s těmi, kdo je zajali, slušně vyrovnat. Se všemi ostatními zajatci, zvláště pokud jde o jízdu {Reisigen}, se nakládá podle znění služebních listů {bestellbrieff}.
+- typ: odstavec
+  de: Wann ein Kriegsherr selbs ins feld zeucht/ er verwalte die oberste
+  cs: Táhne-li válečný pán sám do pole, ať už sám spravuje nejvyšší
+poznamky:
+- n: 1
+  text: |-
+    Tisk má v tomto odstavci drobné sazečské odchylky *verwaltnug* (za *Verwaltung*), *Kriegsorgnung* (za *Kriegsordnung*) a *ein erinnert* (za *erinnert*).
+- n: 2
+  text: Tisková přesmyčka *Poruiant* za *Prouiant*.

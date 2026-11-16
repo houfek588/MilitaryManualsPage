@@ -1,0 +1,53 @@
+id: 082v
+list: '82'
+strana: verso
+sken: 238
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vorwissen machen/ es sei dann auß beuelch des Obersten/ oder die not/ bei leib straff/ vnd ob ein Lermen würde/ sol ein jeder vff den platz dahin er bescheiden ist/ lauffen/ vnd keiner on mercklich leibsnot in dem Losament bleiben/ bei verlierung des leibs.
+  cs: |-
+    předchozího vědomí, ledaže by se tak stalo z rozkazu plukovníka {Obersten} nebo z nouze, pod trestem na těle; a nastane-li poplach {Lermen}, má každý běžet na místo, kam byl vykázán, a nikdo nesmí bez zjevné nouze o život zůstat v ubytování {Losament} – pod ztrátou hrdla.
+- typ: odstavec
+  de: |-
+    Es soll auch keiner/ wer der were/ die Mülen oder Mülwerck bei leibstraff zuuerderben oder zuuerwüsten/ vnderstehn.
+  cs: |-
+    Rovněž se nikdo – ať je to kdokoli – nesmí opovážit ničit nebo pustošit mlýny či mlýnská zařízení pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Was ein jeder gewint soll einem jeden nach Kriegsart vnd Ordnung bleiben/ aber mit dem Geschütz/ Puluer vnd anderm/ so zur Artolerei oder zu vnderhaltung desselben Flecken gehört/ soll der Feldhauptman mit zuhandeln haben/ Vnd wo viehe oder ander Prouiant den Feinden abgewunnen würde/ der oder dieselben sollen das viehe nicht auß dem Leger füren/ sonder im Leger vmb ein billichen pfenning nach erkantnuß des Obersten oder derselben Prouosen/ verkauffen/ den gemeinen Knechten zu nutz.
+  cs: |-
+    Co kdo ukořistí, má každému zůstat podle válečného způsobu a řádu {Ordnung}; avšak s děly {Geschütz}, střelným prachem {Puluer} a dalším, co náleží k dělostřelectvu {Artolerei} nebo k udržení dotyčného městečka, má nakládat polní hejtman {Feldhauptman}; a kde by byl nepřátelům odňat dobytek či jiný proviant {Prouiant}, ten či tito nesmějí dobytek vyvádět z ležení {Leger}, nýbrž jej v ležení prodat za přiměřený peníz podle uvážení plukovníka nebo tamních profousů {Prouosen}, k užitku řadových knechtů {Knechten}.
+- typ: odstavec
+  de: |-
+    So Schlösser/ Stät vnd andere Besatzung vnd Flecken mit dem sturm gewunnen würden/ soll der Obrigkeit Geschütz/ Puluer vnd was darzů gehört/ auch Prouiant zu nottürfftiger besetzung derselben gewunnen Flecken vorbehalten sein/ was aber sonst ein jeder von ander farender hab oder viehe gewinnt/ soll jm nach Kriegsordnung bleiben/ oder an gemeine beut kommen/ Wo einer dem andern solch sein gebeut gůt mit gewalt oder rottenweiß abtrünge vnd neme/ der oder dieselben sollen nach erkantnuß des Obersten gestrafft werden.
+  cs: |-
+    Budou-li zámky, města a jiné posádky {Besatzung} a městečka dobyty útokem {sturm}, má vrchnosti zůstat vyhrazeno dělostřelectvo, střelný prach a co k tomu patří, rovněž proviant k nezbytnému obsazení takto dobytých míst; co však jinak kdokoli získá z jiného movitého majetku nebo dobytka, to mu má zůstat podle válečného řádu nebo připadnout do obecné kořisti. Kdyby jeden druhému takto ukořistěný statek násilím nebo ve srocení {rottenweiß} odňal a vzal, má či mají být potrestáni podle uvážení plukovníka.
+- typ: odstavec
+  de: |-
+    Es soll auch ein jeder die Nachrichter bei Key. Maies. freiheit bleiben lassen/ welcher das nit thůt soll an leib vnd leben gestrafft werden.
+  cs: |-
+    Každý má rovněž ponechat katy {Nachrichter} při svobodách daných císařským Veličenstvem; kdo tak neučiní, má být potrestán na hrdle i na životě.
+- typ: odstavec
+  de: |-
+    Ob einer oder mehr on Paßporten auß dem Feld zügen/ denen soll man nemen was sie haben/ sollen darzů vom Obersten gestrafft werden.
+  cs: |-
+    Vytáhl-li by jeden nebo více lidí z pole bez průvodního listu {Paßporten}, těm má být vzato vše, co mají, a navíc mají být potrestáni plukovníkem.
+- typ: odstavec
+  de: |-
+    Es soll auch kein Hauptman dem andern seine bestelte Knecht/ so von jrem Fendlin stelten/ on des andern wissen vnd willen annemen/ auch ein reissiger knecht der auß vnwillen von seim Herrn kompt/ soll von keim Hauptman zu dienst angenomen noch zu fůß bestelt werden.
+  cs: |-
+    Žádný hejtman {Hauptman} také nesmí bez vědomí a vůle druhého přijmout jeho najaté knechty, kteří by utekli od svého praporce {Fendlin}; rovněž jízdní pacholek {reissiger knecht}, který pro neshody odejde od svého pána, nesmí být žádným hejtmanem přijat do služby ani zapsán k pěchotě.
+- typ: odstavec
+  de: |-
+    Es sol keiner dem andern vff dem spil nichts auffschlahen/ weiter auch mit keim dann er bargelt hat spilen/ Wo aber einer eim wenig oder auff borg angewün/ soll jm der ander nichts zuthůn schuldig sein dann so weit sein besoldung reicht.
+  cs: |-
+    Nikdo nesmí druhému při hře nic připisovat na dluh a dále hrát s nikým, než kolik má hotových peněz; kdyby však někdo nad druhým vyhrál něco málo nebo na dluh, není mu ten druhý povinen platit nic více, než kam až sahá jeho žold {besoldung}.
+- typ: odstavec
+  de: |-
+    Wo einer oder mehr weren/ die die vorgeschribenen Artickel nicht hielten/ soll der oder dieselben peinlich/ als eydt brüchtig an leib vnd nach jrer mißhandlung vnd des Obersten erkantnuß gestrafft werden. Ob etwas in obgemelten Artickeln vergessen vnd nit gemelt wer/ daß den Krigsleuten zusteht zuhalten/ soll zu den Obersten stehen/ vnd gestrafft werden wie ob laut.
+  cs: |-
+    Kde by byl jeden nebo více těch, kteří by výše sepsané články {Artickel} nedodržovali, má či mají být hrdelně {peinlich} jako křivopřísežníci potrestáni na těle podle svého provinění a podle uvážení plukovníka. Bylo-li by ve zmíněných článcích na něco zapomenuto a nebylo uvedeno, co válečníkům {Krigsleuten} přísluší zachovávat, má to náležet k plukovníkům a má to být trestáno tak, jak zní výše.

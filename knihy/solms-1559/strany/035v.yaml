@@ -1,0 +1,39 @@
+id: 035v
+list: '35'
+strana: verso
+sken: 158
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Kregsherr darüber einen streiffenden Hauffen haben / zuuerhüten / daß mann nicht brennet / vnnd die darüber brennten / hart straffen / so wurde auch desto mehr gluck darbei sein.
+  cs: |-
+    válečný pán {Kregsherr}[^1] mít nad tím jízdní hlídkový houf {Hauffen}, aby zabránil vypalování, a ty, kdo by přesto pálili, přísně trestal; tak by při tom bylo i tím více štěstí.
+- typ: odstavec
+  de: |-
+    Es soll auch ein Herr / der ein Kriegsuolck inn ein Landt fordert vnd den gewalt hat / daß er dem Landt starck vnd mechtig gnůg ist / nicht vnderlassen / so dasselbig Landt noch Freund ist / einnemen / vnd mit den Herrn / auch mit den vom Adell handeln / daß sie in allen jren Dörffern vnd Flecken verordnen / was für Prouiant darinn zu bekommen ist es sei an Brot / Fleysch / Futer / vnd gedranck / daß dasselbig der Obrigkeit vberlieffert werde / vnd daß die Obrigkeit auff einen freyen platz breng / vnd vmb ein gebürlich gelt verkauff / so das bei einem jeden Dorff oder Flecken geschicht / alßdann hat mann nicht vrsach jnen zunemen / Vnd ein Herr des Kriegs soll / wann solliche fürsehung geschicht / hart darob halten / vnd so einen Herren bedeucht / es wolt sein Volck darüber weitter fürnemen / so soll ein Herr der das Kriegsuolck inn sollichen Flecken hat / es weren Dörffer / Stätt / sein Landt / darinn jhre / oder hohen Graden Wapen verordnen vnnd anschlahen / auch solliche bemelte Ordnung selbst mit den Hauptleuten des Lands furnemen vnd handthaben / so würde mann wol Kriegsuolck erhalten auff den Freunden / sonder grosse beschwerde.
+  cs: |-
+    Také pán, který povolá válečný lid {Kriegsuolck} do nějaké země a má moc takovou, že je pro tu zemi dost silný a mocný, nemá opomenout – dokud je ta země ještě přátelská – ji převzít pod ochranu a jednat s pány i se šlechtici, aby ve všech svých vesnicích a městečkách nařídili, že vše, co lze v nich sehnat za proviant {Prouiant}, ať je to chléb, maso, píce nebo nápoje, má být odevzdáno vrchnosti a vrchnost to má přivézt na volné prostranství a prodávat za náležité peníze; děje-li se tak u každé vesnice nebo městečka, není důvod jim něco brát násilím. A pán války má, jakmile se učiní takové opatření, přísně na ně dbát; a zdálo-li by se pánovi, že by si jeho lid přesto chtěl dovolovat víc, má pán, který má válečný lid v takových místech – ať by to byly vesnice, města či jeho země –, nařídit vyvěsit tam své erby anebo erby vysokých hodností[^2] a takový zmíněný řád sám spolu s hejtmany {Hauptleuten} země zavést a udržovat; tak by se dalo dobře vyživit válečný lid na přátelském území bez velkého obtěžování.
+- typ: odstavec
+  de: |-
+    Vnd so ein Kriegsuolck von seinem Herren bezallet würde / ist es auch schuldig wider zu bezalen / vnnd Ordnung halten / dann haben sie nicht vrsach zunemen.
+  cs: |-
+    A je-li válečný lid placen svým pánem, je také povinen za vše řádně platit a udržovat pořádek, pak nemají důvod brát násilím.
+- typ: odstavec
+  de: |-
+    Es soll der Prouiantherr mit sampt seinen zugeordneten Personen die Prouiant selbst schetzen / odder durch die seinen den Marcatanten schetzen lassen / darmit die Marcatanten nit ein jeder ein besondere Schatzung mache / vnnd also ein vngleicheit in das Leger komme / was gleich schetzig sein mag / wann es aber vngleich were / so soll ein jedes nach seinem wert geschetzet werden / vnd den Prouosen darauff sehen / daß sie nicht ein besondere Schatzung machen / Dann es wol geschicht / daß die Prouosen von den Marcatanten verehrung nemen / vnd höher schetzen / dann es billich ist / vnd sich gebüren will / die doch wol geringer möcht geschetzt werden / Auch soll mann mit fleiß versehen / daß die Prouiant nicht auff ein fürkauff gekaufft werd / oder auß einer handt inn die ander zuuerkauffen komme.
+  cs: |-
+    Proviantní pán {Prouiantherr} má spolu se svými přidělenými osobami proviant sám oceňovat, anebo jej nechávat markytánům {Marcatanten} oceňovat svými lidmi, aby si markytáni nestanovovali každý svou vlastní cenu a nevznikala tak v ležení {Leger} nerovnost; co lze ocenit stejně, nechť má jednotnou cenu, je-li však zboží nestejné, má být každé oceněno podle své hodnoty. A má se dohlížet na profousy {Prouosen}, aby nečinili svévolné odhady, neboť se často stává, že profousové berou od markytánů dary {verehrung} a oceňují zboží dráže, než je spravedlivé a slušné, ač by mohlo být oceněno mnohem levněji. Také je třeba pilně dbát na to, aby se proviant neskupoval na předkup {fürkauff} ani nepřeprodával z jedné ruky do druhé.
+- typ: odstavec
+  de: |-
+    Es soll auch kein gewaltiger oder beuelchs Man / er sei wer er wöl / eines einigen kauffs oder verkauffs sich gebrauchen noch handeln / Dann die Obersten vnnd Beuelchsleut sollen mit sollichen dingen
+  cs: |-
+    Žádný mocný člověk ani velitel {beuelchs Man}, ať je to kdokoli, se nemá pouštět do žádného nákupu nebo prodeje ani s ničím obchodovat; neboť nejvyšší velitelé {Obersten} a velitelé {Beuelchsleut} mají v takových věcech,
+poznamky:
+- n: 1
+  text: 'Tisková odchylka v předloze: *Kregsherr* místo *Kriegsherr*.'
+- n: 2
+  text: |-
+    Tj. ochranné znaky (*salva guardia*, ochranné erby knížete či vysokých hodnostářů) vyvěšené na domech a branách chráněných vsí a měst na znamení zákazu drancování.

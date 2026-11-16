@@ -1,0 +1,48 @@
+id: 076r
+list: '76'
+strana: recto
+sken: 227
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Von den Hurnweibeln.
+  cs: O šikovatelích trénu {Hurnweibeln}.
+- typ: odstavec
+  de: |-
+    DIe Hurnweibell sollen den Troß/ Hurn vnd Bůben in ordnung behalten/ daß sie nit verlauffen/ sonder bleiben vnd ziehen wie sie jeder zeit geordnet werden.
+  cs: |-
+    Šikovatelé trénu mají udržovat trén {Troß}, ženy i holomky[^1] v pořádku, aby se nerozutíkali, nýbrž zůstávali a táhli tak, jak jim bude pokaždé nařízeno.
+- typ: odstavec
+  de: |-
+    Die Hurnweibel sollen des geschickt sein/ daß sie den Troß in den an vnd abzügen/ auch in den handlungen mit den feinden der massen fürhen/ damit das Kriegsvolck jrentwegen in kein nachtheil oder vnordnung kome.
+  cs: |-
+    Šikovatelé trénu mají být natolik obratní, aby při příchodech i odchodech a také při střetech s nepřáteli vedli trén takovým způsobem, aby válečný lid {Kriegsvolck} jejich vinou neupadl v žádnou újmu či nepořádek.
+- typ: odstavec
+  de: |-
+    Wann die Hurnweibel mit den Hurn vnd Trossern auff beuelch des Prouosen gräben auß zufüllen ziehen/ wie ins Prouosen 16. Artickel endeckt/ sollen sie auch grossen fleiß ankeren.
+  cs: |-
+    Když šikovatelé trénu táhnou na rozkaz profouse {Prouosen} s táborovými ženami a lidmi od trénu {Trossern} zasypávat příkopy, jak je vyloženo v 16. článku o profousovi, mají rovněž vynaložit velikou píli.
+- typ: odstavec
+  de: |-
+    Gleicher gestalt wirt vom Stockmeister ins Prouosen 21. Artickel begriffen.
+  cs: |-
+    Stejně tak je o žalářníkovi {Stockmeister} pojednáno v 21. článku o profousovi.
+- typ: odstavec
+  de: |-
+    Was auch weiter des Stockmeisters vnd Nachrichters ampt im Leger ist/ werden die vngehorsamen vnd mißhendler wol auch billich innen vnd gewar werden.
+  cs: |-
+    Jaký je pak další úřad žalářníka a kata {Nachrichters} v ležení {Leger}, to neposlušní a provinilci sami dobře a po právu zakusí a poznají.
+- typ: odstavec
+  de: |-
+    Von gemeinen Knechten zum beschluß vnd inn summa zu schreiben/ weiß ich nichts bessers/ dann das ein jeder Herr sich vor jn als vil jm jmmer möglich hůt/ wann er aber sie auß vnuermeidlicher notturfft haben můß/ alß dann bezall er sie wol/ gebrauch sie nach der haut/ vnd straff die verbrochen vbell.
+  cs: |-
+    O řadových knechtech {Knechten} na závěr a v souhrnu nevím nic lepšího, co napsat, než aby se jich každý pán vystříhal, jak jen je mu to možné; musí-li je však z nevyhnutelné potřeby mít, pak ať je dobře platí, využívá je až na kůži[^2] a ty, kdo se proviní, přísně trestá.
+poznamky:
+- n: 1
+  text: |-
+    „Hurn vnd Bůben“ – táborové ženy a chlapci (pacholci) v trénu.
+- n: 2
+  text: |-
+    „Gebrauch sie nach der haut“ – dobové rčení: ať je nešetří a využije je do krajnosti.

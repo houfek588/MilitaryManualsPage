@@ -1,0 +1,59 @@
+id: 083v
+list: '83'
+strana: verso
+sken: 240
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Der Hauptman sol sich auch seinem Volck gemeß/ mit roß handt oder andern müllen versehn/ wann er dieselbigen nit vorhin hett/ die mann jm nit nemen kündt/ dann etlich Kriegsleut haben derhalben in wenig jaren grossen mangel gelitten/ ehe sie dieselbigen in eill haben machen mügen.
+  cs: |-
+    Hejtman {Hauptman} se má také přiměřeně ke svému lidu zásobit koňskými, ručními nebo jinými mlýny, pokud by je už předtím neměl, o něž by jej nebylo možno připravit; někteří válečníci {Kriegsleut} totiž z tohoto důvodu utrpěli před nemnoha lety velký nedostatek dříve, než je stačili ve spěchu zhotovit.
+- typ: odstavec
+  de: |-
+    Beneben der Prouiant vnd der leut ordnung soll sich der Hauptman mit nottwendigem geschütz vnd desselben Munition/ woll gefast machen/ damit er zuuersichtlich mit geschütz/ kugeln vnd puluer versehen sei.
+  cs: |-
+    Vedle proviantu {Prouiant} a pořádku mezi lidem se má hejtman dobře vybavit potřebným dělostřelectvem {geschütz} a jeho municí {Munition}, aby byl spolehlivě zásoben děly, koulemi {kugeln} i střelným prachem {puluer}.
+- typ: odstavec
+  de: |-
+    Zu disem soll sich der Hauptman weiter mit Eisen/ Blei/ Negeln/ Schroten/ Schmidten/ Salbeter/ Schwebel/ Koln zum Puluer kochen/ Bech/ Hartz vnd anderm dergleichen versehen/ wann jm Puluer mangeln oder das alt zu ring werden wolt/ daß er new Puluer machen/ oder das alt damit bessern möchte.
+  cs: |-
+    K tomu se má hejtman dále zásobit železem, olovem, hřeby, sekaným olovem[^1], kováři, ledkem {Salbeter}, sírou, uhlím na vaření prachu, smolou, pryskyřicí a jinými podobnými věcmi, aby – kdyby se mu nedostávalo prachu nebo ten starý zeslábl – mohl vyrobit nový prach nebo jím vylepšit starý.
+- typ: odstavec
+  de: |-
+    Zů gemeltem Geschütz vnd Munition/ soll der Hauptman einen Obersten Zeugmeister haben/ der soll das Geschütz nach beuelch des Hauptmans auff die Polwerck/ Schütten/ Maurn/ Thürn/ vnd in die Streichwehrn ordnen/ wie dise beide bei jnen selbst/ auch andern Kriegsuerstendigen im Rath erfunden.
+  cs: |-
+    K uvedeným dělům a munici má mít hejtman nejvyššího zbrojmistra {Obersten Zeugmeister}; ten má děla podle rozkazu hejtmana rozestavit na bolverky {Polwerck}, náspy, hradby, věže a do bočních obranných staveb {Streichwehrn}, jak oba sami i s ostatními válečnými znalci uznají v radě za vhodné.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister soll nicht allein geschickt Büchsenmeister/ sonder auch sonst geschickt Knecht bestellen/ die den Büchsenmeistern das Geschütz helffen rücken/ laden/ richten/ vnd zur notturfft auch schiessen/ zu dem soll der Zeugmeister Schützen bestellen/ die er zun doppeln halben Hacken vnd Handrorn brauche.
+  cs: |-
+    Zbrojmistr {Zeugmeister} má najmout nejen schopné puškaře {Büchsenmeister}, nýbrž i jinak obratné knechty {Knecht}, kteří by puškařům pomáhali děla posouvat, nabíjet, mířit a v případě potřeby z nich i střílet; k tomu má zbrojmistr najmout střelce {Schützen}, kterých použije k dvojitým polovičním hákovnicím {doppeln halben Hacken} a k ručnicím {Handrorn}.
+- typ: odstavec
+  de: |-
+    Der Hauptman soll ernstlich verbieten/ ehe sich die Feinde fürschlahen/ wann sie kommen/ daß die Büchsenmeister/ noch die mit dem geringen Geschütz nit weit in die lufft vnd das Puluer liederlich vmb sonst verschiessen darmit verschwent mann vil puluers vnd ist doch vergebens.
+  cs: |-
+    Hejtman má přísně zakázat, dříve než se nepřátelé utáboří před městem, když přicházejí, aby ani puškaři, ani ti s lehkým dělostřelectvem nestříleli daleko do prázdna a lehkomyslně nadarmo neplýtvali střelným prachem; tím se promrhá mnoho prachu, a je to přece zbytečné.
+- typ: odstavec
+  de: |-
+    Das soll aber der Hauptman beuelhen/ das vor der Belegrung die Büchsenmeister auch die andern Schützen/ auff die strassen wege vnd andere plätze sich beschiessen/ darauff die Feinde zuuersichtiglich stehn oder hin vnd her wandern/ dann dardurch lernen die Schützen jre Büchsen erkennen/ vnd mögen desto baß gegen Feinden bestehen.
+  cs: |-
+    Má však hejtman přikázat, aby se před obležením puškaři i ostatní střelci zastříleli na silnice, cesty a jiná místa, na nichž budou nepřátelé podle všeho stát nebo po nich přecházet sem a tam; tím totiž střelci poznají své pušky a mohou o to lépe obstát proti nepřátelům.
+- typ: odstavec
+  de: |-
+    Der Hauptman soll als vil jm möglich/ einen geschickten vnd erfarnen Bawmeister haben/ dann an einem geschickten Bawmeister vnd Zeugmeister ist in einer Belegrung trefflich hochwichtig gelegen.
+  cs: |-
+    Hejtman má mít, pokud je mu to jen možné, obratného a zkušeného stavitele; neboť na obratném staviteli a zbrojmistrovi při obležení nesmírně mnoho záleží.
+- typ: odstavec
+  de: |-
+    Der Bawmeister soll mit Quastitorn/ Schmiden/ Zimmerleutten vnd Ertzknappen wol verfaßt sein/ wiewol jederman in der not zu
+  cs: |-
+    Stavitel má být dobře zaopatřen zákopníky {Quastitorn}[^2], kováři, tesaři a havíři, ačkoli v nouzi je každý
+poznamky:
+- n: 1
+  text: |-
+    „Schroten“ – sekané olovo či železné úlomky do kartáčových děl, případně kusy kovu k dalšímu zpracování.
+- n: 2
+  text: |-
+    „Quastitorn“ (na 084r „Quastitor“) – dobový výraz patrně z italského „guastatore“ (zákopník, dělník při opevňovacích a demoličních pracích, případně lamač kamene).

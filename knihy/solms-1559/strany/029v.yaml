@@ -1,0 +1,37 @@
+id: 029v
+list: '29'
+strana: verso
+sken: 150
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Wann dann der Zeugmeister die gemelt verzeichnuß / dem Kriegs Herren oder obersten Feldhaupman vbergibt / solle darüber der Herr oder Feldhauptman der Kriegsuerstendigen Rath pflegen / wann die verstendigen dann durch sich selbst oder andere deßhalben verzeichnuß befinden / daß jm der Zeugmeister mit leuten / Rossen / Wagen / Besoldung / oder in andere weg zuuil gethan hett / solle jhm der Herr oder Oberst einreden / die hohe beschwerlich Besoldung / vnd andere vberflüß / abbrechen vnd ringern / doch soll der abbruch der Besoldung halben / mehr dann von wegen der Leut / Roß oder Wägen geschehen / angesehen / das alle tag etwas daran abgeht.
+  cs: |-
+    Když pak zbrojmistr {Zeugmeister} předá zmíněný seznam válečnému pánu {Kriegs Herren} nebo nejvyššímu polnímu hejtmanovi {obersten Feldhaupman}, má se o něm pán nebo polní hejtman poradit se znalci vojenství; zjistí-li pak znalci sami nebo z jiného podobného seznamu, že zbrojmistr nadhodnotil počet lidí, koní, vozů, výši žoldu {Besoldung} či jiné položky, má mu to pán nebo nejvyšší velitel vytknout a vysoký, tíživý žold i jiný nadbytek zkrátit a snížit – krácení se však má dít spíše na žoldu než na lidech, koních či vozech, vzhledem k tomu, že z těch stejně každým dnem něco ubývá.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister soll die Artlerei tag vnnd nacht gar fleissig verwaren vnd verschantzen / auch am zuge das Puluer wol verwaren lassen / damit jm dasselbig nicht angezündet / vnnd die Artlerei dardurch beschediget oder gar zerissen werde.
+  cs: |-
+    Zbrojmistr má dělostřelectvo {Artlerei} dnem i nocí velice pečlivě hlídat a opatřovat šancemi {verschantzen} a na tažení {zuge} nechat dobře opatrovat střelný prach {Puluer}, aby mu nebyl zapálen a dělostřelectvo tím poškozeno nebo úplně rozmetáno.
+- typ: odstavec
+  de: |-
+    Der Oberst Feldhauptman soll dem Zeugmeister alle seiner Artlerei es seien Leut / Roß oder Wägen selbst mustern / oder solches gar einem hierinn verstendig zuthůn beuelhen / vnd wiewol etlich Zeugmeister vermeinen / mann soll jnen die bezalung vngemustert zustellen / vnd soll es doch kein herr mit nichte nachgeben / die grosse gefehrlichkeit zuuerhüten.
+  cs: |-
+    Nejvyšší polní hejtman má zbrojmistrovi všechny lidi, koně i vozy jeho dělostřelectva sám přehlédnout při přehlídce {mustern}, anebo to svěřit k provedení někomu, kdo tomu dobře rozumí; a ačkoli se někteří zbrojmistři domnívají, že se jim má výplata vydávat bez přehlídky {vngemustert}, nemá to žádný pán v žádném případě připustit, aby se předešlo velkému nebezpečí.
+- typ: odstavec
+  de: |-
+    Wann dann der Zeugmeister mit seinem Volck / als nemlich leutenant / Schreiber / Büchsenmeistern / Prouosen / Steckenknecht / Geschirrmeister / Trabanten / Wagen leut / Quasitorn derselben verwalter allen Rossen vnd Wagen gemustert ist / sol jm der Zallmeister / das gelt auff sein verwaltung antworten / der soll dann sein Volck selbst bezalen.
+  cs: |-
+    Když je pak zbrojmistr se svým lidem {Volck} – totiž s poručíkem {leutenant}, písařem {Schreiber}, puškaři {Büchsenmeistern}, profousem {Prouosen}, profousovými pacholky {Steckenknecht}, vozmistry {Geschirrmeister}, drabanty {Trabanten}, vozky {Wagen leut}, šancíři {Quasitorn} a jejich správci, všemi koňmi a vozy – přehlédnut, má mu platebník {Zallmeister} odevzdat peníze k jeho správě a on pak má svůj lid vyplatit sám.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister soll sein eigen Schmidten / Schmidt / Zimmerleut / Wägen / vnd was weitter notwendig ist / haben.
+  cs: |-
+    Zbrojmistr má mít své vlastní kovárny, kováře, tesaře, vozy a vše ostatní, čeho je zapotřebí.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister hat mit allen seinen verwanden gar kein bestimpte besoldung / dann wie mann mit jm vnd allen seinen zugehörenden jeder zeit vberkompt / deßgleichen hat er auch kein anzall Trabanten dann wie mann sich mit jm vergleicht.
+  cs: |-
+    Zbrojmistr ani všichni jeho podřízení nemají žádný pevně stanovený žold, nýbrž takový, na jakém se s ním a se všemi jemu náležejícími pokaždé dohodne; stejně tak nemá ani pevně určený počet drabantů, nýbrž tolik, kolik se s ním ujedná.

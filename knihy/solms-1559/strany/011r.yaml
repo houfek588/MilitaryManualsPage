@@ -1,0 +1,33 @@
+id: 011r
+list: '11'
+strana: recto
+sken: 113
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    tag/ oder zu vilen tagen hett mit den Obersten von den hohen ämptern rath gehalten oder halten lassen/ oder hett zweien Regimenten Teutschen vnd Welschen/ etwas zu berathschlagen fürgehalten vnd vbergeben/ daß ein jede Nation dasselbig für sich selbst mit seinn Befelhabern berathschlagt het/ vnd solchen Rathschlag von beiden theiln dem Kriegsherrn wider vberantworten/ vnd so der Kriegsherr nicht beider Nation sprachen verstünd/ so soll die ein Nation jhren Rathschlag in des Kriegsherrn Sprach transferieren lassen/ darzů soll der Kriegsherr derselbigen Nation ein vertrawte person/ die mit dem transferieren gůt vnd gewiß were/ halten/ Es sollen auch die gemelten personen/ nicht allein berathschlagen was jnen von dem Kriegsherrn fürgeben wirt/ sonder auch was sie selbst bedünckt/ daß dem Leger vnd Krieg von nöten/ nütz vnnd gůt sein möcht/ nichts außgenommen/ sonder ist hoch von nöten/ wol zuberathschlagen vnnd zubedencken/ wie mann inn dem Leger/ mag gůte Policei vnnd Justicien halten.
+  cs: |-
+    den nebo každých několik dní radil či dával radit s plukovníky {Obersten} z vysokých úřadů, anebo kdyby předložil a zadal něco k uvážení dvěma plukům {Regimenten}, německému a vlašskému {Welschen}, aby se každý národ o tom poradil sám se svými veliteli {Befelhabern} a oba své posudky pak opět odevzdali válečnému pánovi {Kriegsherrn}. A kdyby válečný pán nerozuměl jazykům obou národů, má ten národ dát svůj posudek přeložit do jazyka válečného pána; k tomu si má válečný pán držet z onoho národa spolehlivou osobu, která je v překládání zběhlá a spolehlivá. Zmíněné osoby se přitom nemají radit jen o tom, co jim předloží válečný pán, nýbrž i o tom, co samy uznají za potřebné, užitečné a dobré pro ležení {Leger} a válku – nic nevyjímaje; zvláště pak je velmi zapotřebí dobře uvážit a promyslet, jak v ležení udržovat dobrý pořádek a spravedlnost.
+- typ: odstavec
+  de: |-
+    Es mag auch wol gesagt werden/ es sei nicht gůt daß ein Herr mit so vil personen rath halte/ dann der Rath soll eng vnnd geheim sein/ ist zum theil wol geredt/ Es hat aber inn dem ein vnderscheidt/ dann was solche geheyme/ schwere sachen weren/ kan der Kriegsherr bei sich behalten/ vnd darzů erfordern etliche personen/ die jhm geheym vertrawet vnnd gefallen/ Aber in andern sachen die nicht also geheym/ vnd doch notwendig seind/ mag mann in einn gemeinen Rath kommen lassen.
+  cs: |-
+    Dalo by se sice namítnout, že není dobré, aby se pán radil s tolika osobami, neboť rada má být úzká a tajná – což je zčásti pravda. Má to však tento rozdíl: co jsou takové tajné a závažné věci, může si válečný pán ponechat u sebe a povolat k tomu jen několik osob, které jsou mu důvěrně oddané a milé; avšak ostatní záležitosti, které nejsou tak tajné a přitom jsou nutné, lze předložit společné radě.
+- typ: odstavec
+  de: |-
+    Aber der gemein Rath ist dem Kriegsherrn nicht böß/ als für das erst/ so lernt ein Kriegsherr die Beuelhaber eines jeden person durch die Rathschläg erkennen/ vnd darnach er ein person im rathschlagen geschickt befindt/ weyß er die darnach zuhalten/ würte er dann ein oder etlich allzeit vngeschickt befinden/ so weyß er dieselbig auch darnach zuhalten/ Also wirt ein Herr jnnen/ was er für Personen hat/ vnd jnen beuelhen kan.
+  cs: |-
+    Společná rada však není pro válečného pána zlá. Předně tak válečný pán pozná prostřednictvím porad každého velitele osobně, a podle toho, jak obratného ho při radách shledá, ví, jak s ním má nakládat; shledal-li by naopak někoho nebo některé vždy neschopnými, ví, jak s nimi naložit také. Tak pán pozná, jaké má osoby a co jim může svěřit.
+- typ: odstavec
+  de: |-
+    Zum andern/ so kan nicht wol felen/ wann solche personen sehen/ das mann sie allzeit zu rath erfordert/ so můß dannoch ein jeder bei sich sorg tragen vnd darnach halten/ wann mann jn erfordern würd/ daß er nit der vngeschickts im rath erfunden werde/ vnd also durch solche fürsorg/ trincken vnd anderer liederlicher ding sich enthalten/ vnd den sachen nachgedencken/ so der in Rath kom/ daß er auch wiß das sein geschicklich darzů zusagen.
+  cs: |-
+    Za druhé nemůže minout účinku, že když takové osoby vidí, že je vždy zvou do rady, musí si přece každý dát pozor a snažit se, aby při povolání nebyl v radě shledán nejneschopnějším; a z takové obezřetnosti se zdrží pití i jiných lehkomyslností a bude o věcech přemýšlet, aby, přijde-li do rady, dovedl také vhodně říci své mínění.
+- typ: odstavec
+  de: |-
+    Zum dritten so kan nit felen/ wann die personen also fleissig in solchen schweren sachen gebraucht würden/ sie můsten geschickt werden.
+  cs: |-
+    Za třetí nemůže minout účinku, že jsou-li takové osoby pilně zaměstnávány v tak závažných věcech, musejí se nutně stát schopnými.

@@ -1,0 +1,40 @@
+id: 012r
+list: '12'
+strana: recto
+sken: 115
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    leib warten soll / vnd jre eygen Pferdt vnd gesindt haben / die sollen in keinen weg zugelassen werden / Dann je grösser ansehens vnd befelch einer hat / je weniger er das thun soll / dann es steht nicht ehrlichen leuten zu / dann es wider Gott / vnd jhm verächtlich ist / vnd es ist ein leichtfertigkeit / Dann ein Beuelchßman soll sich der tugent halten / vnd je er inn höherm beuelch ist / je mehr er das thun soll / so mag er mit Gott vnd ehrn regiern / dann Gott ist bei der erbarkeit / vnd wo Gott ist / geförcht vnd geehrt wirt / da ist glück vnd sieg. Darumb soll der Herr am ersten annemen hart darob halten / daß man das im anfang nicht laß einbrechen / so kan mann das dann desto baß erhalten / dann wann das im anziehen verhütet / vnd besonder bei den hohen hauptern die regiern sollen.
+  cs: |-
+    osobně sloužila a měla vlastní koně a čeleď, takové nemají být v žádném případě připouštěny. Neboť čím větší vážnost a velení někdo má, tím méně to má činit, neboť to nepřísluší čestným lidem, je to proti Bohu, je mu to k pohrdání a je to lehkovážnost. Neboť velitel {Beuelchßman} se má držet ctnosti, a čím vyšší má velení, tím více to má činit, aby mohl vládnout s Bohem a se ctí – neboť Bůh stojí při počestnosti, a kde je Bůh ctěn a v bázni, tam je štěstí a vítězství. Proto má pán při prvním najímání přísně dbát na to, aby se to hned na počátku neprolomilo; pak se to dá tím lépe udržet, když se tomu zabrání hned při nástupu, a zvláště u vysokých pánů, kteří mají velet.
+- typ: odstavec
+  de: |-
+    Damit aber doch mögen Weiber mitziehen zu der notturfft / so sollen einem jeden Fendlein zugelassen werden sein anzal / was mann bedunckt daß die zu waschen von nöten haben müssen / die sollen doch einem jeden vnder dem Fendlin verpflicht sein zuwäschen / vmb jre zimliche billiche belonung / darob sollen die Hauptleut halten / daß jn jre belonung werd / vnd sie sich des auch halten darumb sie da seind. Auch soll ein jedes Fendlin seine Garkoch haben / die den Knechten jre habende speiß kochen / vnd daruon jhre gesetzte / billiche / belonung nemen.
+  cs: |-
+    Aby však přece jen mohly pro potřebu táhnout s vojskem ženy, má se každému praporci {Fendlein} povolit jejich počet, jaký je podle uvážení nezbytně zapotřebí k praní; ty však mají být povinny prát každému pod tím praporcem za přiměřenou a slušnou odměnu, načež mají hejtmani {Hauptleut} dohlížet, aby svou odměnu dostaly a také se držely toho, pro co tu jsou. Každý praporec má mít také své polní kuchaře, kteří knechtům {Knechten} uvaří jídlo, jež mají, a berou si za to stanovenou slušnou odměnu.
+- typ: odstavec
+  de: |-
+    So soll ein jeder Hauptman dann fleissig darauff achtung haben / daß es also bei der zugelassen maß gehalten werd / mit den nottürfftigen Personen / die also arbeiten vnd des volcks warten / vnd nicht die Junckfrawen die nichts thun / dann daß mann jnen warten muß vnd vnglück anrichten.
+  cs: |-
+    Každý hejtman má tedy pilně dbát na to, aby se to udrželo v povolené míře s těmito potřebnými osobami, které takto pracují a obsluhují lid, a nikoli se slečinkami, jež nedělají nic jiného, než že jim musí sloužit ostatní a ony jen tropí neštěstí.
+- typ: odstavec
+  de: |-
+    Mit den Wagen laß mann es dabei / was mann bestelt / auß notturfft vnd gelegenheit auch zulassen muß / vnd daß die schwere Rüstung mehr wagen erfordert dann die geringe / Dann solten die Knecht stets in der schweren Rüstung reytten / vermöchtens die Knecht vnd auch die pferdt nicht / sonder furten sich ab daß sie alle zu boden giengen / auch vermögen die pferdt nicht die Barschen vnd schweren zeug für vnd für zutragen / derhalben erfordert die schwere Rüstung mehr wagen / dann die geringe / Darumb soll in dem ein vnderscheydt gehalten werden.
+  cs: |-
+    Pokud jde o vozy, ponechme to na tom, co se najme a co je podle potřeby a okolností třeba také povolit, přičemž těžká zbroj {Rüstung} vyžaduje více vozů než lehká. Neboť kdyby měli jezdci stále jezdit v těžké zbroji, nevydrželi by to ani jezdci, ani koně, nýbrž by se uštvali tak, že by všichni padli k zemi; rovněž koně nedokážou ustavičně nosit koňskou zbroj[^1] a těžkou výstroj {zeug}. Proto vyžaduje těžká zbroj více vozů než lehká, a má se v tom tedy činit rozdíl.
+- typ: odstavec
+  de: |-
+    Vnd daß der Adell den titel hat / die Gestrengen vnd Ehrnuesten / des soll der Keyser sie erinnern vnd fürhalten / vnd ob dem tittel halten / das sich der Adell des halten müst / vnd der vnadellichen stück müssiggieng / als wucher / vmbschlag / vnnd dergleichen was dem Adell nicht zusteht / wann der Adell sich wider (wie von alters) der
+  cs: |-
+    A poněvadž má šlechta titul „přísní a cti pevní“,[^2] má jí to císař připomínat, předkládat jí to a dbát na ten titul, aby se jej šlechta musela držet a varovala se nešlechetných skutků, jako je lichva, peněžní spekulace a podobné věci, jež šlechtě nepříslušejí; kdyby se šlechta opět (jako za starých časů) držela
+poznamky:
+- n: 1
+  text: |-
+    V originále „Barschen“ (též Partschen, z franc. barde) – plátová či kroužková ochranná zbroj koně (barda), pokrývající krk, hruď a zadek zvířete.
+- n: 2
+  text: |-
+    V originále „die Gestrengen vnd Ehrnuesten“, ustálené dobové oslovení nižší šlechty a rytířstva (přibližně „stateční a cti pevní“ či „urození a stateční“).

@@ -1,0 +1,195 @@
+id: 040v
+list: '40'
+strana: verso
+sken: 168
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - - 149. Ochsen
+    - ''
+    - 118. Ochsen
+  - - 452. Kůe
+    - ''
+    - 364. Kůe
+  - - 152. Hämel
+    - 'oder mag nemen:'
+    - 600. Kälber
+  - - 745. Kälber
+    - ''
+    - 600. Hämel
+  - - 306. Schaaff.
+    - ''
+    - 20. Schaaff.
+  cs:
+  - - 149 volů
+    - ''
+    - 118 volů
+  - - 452 krav
+    - ''
+    - 364 krav
+  - - 152 skopců
+    - 'nebo lze vzít:'
+    - 600 telat
+  - - 745 telat
+    - ''
+    - 600 skopců
+  - - 306 ovcí
+    - ''
+    - 20 ovcí[^1]
+- typ: odstavec
+  de: |-
+    Item auff zehen tausent personen gehet einen tag an fleysch hundert / vnd ein Woch můß mann haben siben hundert / vnd ein Monat lang drei tausent / Centner / zu vnderhaltung / vnnd thůt an Vieh daß mann haben můß.
+  cs: |-
+    Dále: na deset tisíc osob připadá na jeden den sto centů {Centner} masa, za týden je třeba mít sedm set a za celý měsíc tři tisíce centů na výživu; a to činí na dobytku, který je třeba mít:
+- typ: odstavec
+  de: Einen tag.
+  cs: Jeden den.
+- typ: tabulka
+  de:
+  - - 10. Ochsen
+    - ''
+    - 8. Ochsen
+  - - 30. Kůe
+    - ''
+    - 24. Kůe
+  - - 50. Kälber.
+    - 'oder mag nemen:'
+    - 45. Kälber
+  - - 10. Hämel
+    - ''
+    - 40. Hämel
+  - - 20. Schaaff.
+    - ''
+    - 59. Schaaff.
+  cs:
+  - - 10 volů
+    - ''
+    - 8 volů
+  - - 30 krav
+    - ''
+    - 24 krav
+  - - 50 telat
+    - 'nebo lze vzít:'
+    - 45 telat
+  - - 10 skopců
+    - ''
+    - 40 skopců
+  - - 20 ovcí
+    - ''
+    - 59 ovcí
+- typ: odstavec
+  de: Ein Wochen.
+  cs: Jeden týden.
+- typ: tabulka
+  de:
+  - - 70. Ochsen
+    - ''
+    - 56 Ochsen
+  - - 210 Kůe
+    - ''
+    - 168 Kůe
+  - - 350 Kälber
+    - 'oder mag nemen:'
+    - 315 Kälber
+  - - 70 Hämel
+    - ''
+    - 280 Hämel
+  - - 130 Shaaff.
+    - ''
+    - 413 Schaaff.
+  cs:
+  - - 70 volů
+    - ''
+    - 56 volů
+  - - 210 krav
+    - ''
+    - 168 krav
+  - - 350 telat
+    - 'nebo lze vzít:'
+    - 315 telat
+  - - 70 skopců
+    - ''
+    - 280 skopců
+  - - 130 ovcí[^2]
+    - ''
+    - 413 ovcí
+- typ: odstavec
+  de: Ein Monat lang.
+  cs: Jeden měsíc.
+- typ: tabulka
+  de:
+  - - 300 Ochsen
+    - ''
+    - 240 Ochsen
+  - - 900 Kůe
+    - ''
+    - 720 Kůe
+  - - 1500 Kälber
+    - 'oder mag nemen:'
+    - 1315 Kälber
+  - - 300 Hämel
+    - ''
+    - 280 Hämel
+  - - 600 Schaaff.
+    - ''
+    - 413 Schaaff.
+  cs:
+  - - 300 volů
+    - ''
+    - 240 volů
+  - - 900 krav
+    - ''
+    - 720 krav
+  - - 1500 telat
+    - 'nebo lze vzít:'
+    - 1315 telat[^3]
+  - - 300 skopců
+    - ''
+    - 280 skopců
+  - - 600 ovcí
+    - ''
+    - 413 ovcí
+- typ: odstavec
+  de: |-
+    Wann aber nicht eben also vorhanden / wie hie oben gemelt / sonder an etlichem viehe ein abgang oder mangel were / so mag mann ein auffwechsel machen / mit Ochsen / Kůen / Kälbern / Hämeln / vnd Schaaffen / deßgleichen mit anderm Vieh / Wie der auffwechsel sein soll / volgt:
+  cs: |-
+    Není-li však všechno přesně tak, jak bylo výše uvedeno, nýbrž je-li u některého dobytka úbytek či nedostatek, lze provést záměnu mezi voly, krávami, telaty, skopci a ovcemi, stejně jako jiným dobytkem. Jak se má tato záměna provádět, následuje:
+- typ: odstavec
+  de: Erstlich für einen Ochsen mag genommen werden /
+  cs: 'Nejprve za jednoho vola lze vzít:'
+- typ: seznam
+  de:
+  - Zwo Kůe / oder
+  - Fünff Kälber / oder
+  - Zehen Hämel / oder
+  - Fünff Schaaff / oder
+  - Vier Hämel / neun Schaaff.
+  cs:
+  - dvě krávy, nebo
+  - pět telat, nebo[^4]
+  - deset skopců, nebo
+  - pět ovcí, nebo[^5]
+  - čtyři skopce a devět ovcí.
+- typ: odstavec
+  de: |-
+    Item / mag auch genommen werden / für zwo Kůe ein Ochs / oder fünff Kälber sechs Schaaff.
+  cs: |-
+    Dále: za dvě krávy lze také vzít jednoho vola, anebo pět telat a šest ovcí.
+poznamky:
+- n: 1
+  text: |-
+    Chyba tisku: pro dosažení 1500 centů (150 000 liber) v pravém sloupci chybí 20 000 liber, tedy 1000 ovcí – má být 1020 ovcí (v levém sloupci součet činí přesně 150 000 liber).
+- n: 2
+  text: |-
+    Chyba tisku: pro 700 centů má být vlevo 140 ovcí (tisk má „130 Shaaff.“).
+- n: 3
+  text: |-
+    Chyba tisku v pravém sloupci: sazeč omylem přenesl čísla skopců a ovcí z týdenní tabulky (280 a 413) a u telat vytiskl 1315 místo 1350 (pro 3000 centů by odpovídalo 1350 telat, 1200 skopců a 1770 ovcí).
+- n: 4
+  text: |-
+    Pět telat váží 180 liber (jeden vůl = 300 liber); přepočet v této položce není přesný (odpovídalo by 8⅓ telete, zatímco dole 5 telat + 6 ovcí = 300 liber).
+- n: 5
+  text: |-
+    Tisk má „Fünff Schaaff“ (100 liber) místo „Fünfftzehen Schaaff“ (15 ovcí = 300 liber).

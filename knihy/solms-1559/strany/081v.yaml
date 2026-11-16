@@ -1,0 +1,60 @@
+id: 081v
+list: '81'
+strana: verso
+sken: 236
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    so soll er denselben disen Zug in allweg meiden/ vnnd nicht rechen weder mit worten noch mit wercken/ es sei dann mit recht/ wo aber einer oder mehr das vbertretten/ vnd nicht halten würden/ der oder dieselben sollen an leib vnd leben gestrafft werden.
+  cs: |-
+    má se mu na tomto tažení {Zug} všemožně vyhýbat a nemstít se ani slovy, ani skutky, ledaže by tak činil právní cestou; kdyby to však jeden či více lidí přestoupili a nedodrželi, mají být potrestáni na těle i na životě.
+- typ: odstavec
+  de: |-
+    Item/ ob einer oder mehr sein würde der nach einem schöß odder würff/ es sei vor oder nach dem Friede/ derselb soll gestrafft werden an seinem leib.
+  cs: |-
+    Dále: kdyby někdo po druhém vystřelil nebo hodil, ať před vyhlášením míru {Friede}, nebo po něm, má být potrestán na svém těle.
+- typ: odstavec
+  de: |-
+    Wo auch zwen oder mehr was Nation die seien/ vneinig würden/ vnd sich mit einander schlügen/ soll sich kein theil gegen den andern rotten oder partheien/ sonder scheidens halben sein/ damit grosser vnwill verhüt werde/ welcher sich aber in sollichem vngehorsam hielt/ derselbig soll gestrafft werden nach erkantnuß des Obersten.
+  cs: |-
+    Kdyby se také dva nebo více mužů – ať jsou jakékoli národnosti – nepohodli a začali se bít, nesmí se žádná strana proti druhé srocovat ani stranit, nýbrž se mají snažit je roztrhnout, aby se předešlo větší nevůli; kdo by se však v tom zachoval neposlušně, má být potrestán podle uvážení plukovníka {Obersten}.
+- typ: odstavec
+  de: |-
+    Wo sich dann zwen oder mehr mit einander zörnten oder schlügen/ sollen die nechsten darbei trewlich vnnd vnpartheisch friede nemen/ zum ersten/ andern/ vnd dritten mal/ welcher dann nicht friede geben/ vnd darüber zu todt geschlagen würde/ soll der Thätter den Todten frei gebüßt haben/ vnd der einen vber einn gelobten frieden schlecht/ soll an leib vnd leben bestrafft werden.
+  cs: |-
+    Pohádali-li by se tedy nebo poprali dva či více mužů, mají nejbližší přihlížející věrně a nestranně vyhlásit mír, a to poprvé, podruhé a potřetí; kdo by pak mír nezachoval a byl přitom zabit, pachatel tím bude za mrtvého prost viny[^1]; a kdo druhého udeří přes přislíbený mír, má být potrestán na těle i životě.
+- typ: odstavec
+  de: |-
+    Es soll keiner an gefehrlichen orten/ sonderlich bei der nacht abschiessen/ es sei jm Leger/ Stätten oder Schlössern/ dardurch schaden entstehn möcht/ bei leib straff.
+  cs: |-
+    Nikdo nesmí na nebezpečných místech, zvláště v noci, střílet – ať v ležení {Leger}, ve městech či na zámcích –, z čehož by mohla vzniknout škoda, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Ob auch einer auff die Wacht bescheiden were vnd nicht keme/ der soll gestrafft werden nach des Obersten erkantnuß/ Vnd ob einer auff der Wacht were/ vnd darab gieng/ der soll on gnad gestrafft werden/ Es soll auch keiner einen Wächter an sein stat bestellen/ on seines Hauptmans wissen vnd willen.
+  cs: |-
+    Byl-li by také někdo určen na stráž {Wacht} a nedostavil se, má být potrestán podle uvážení plukovníka; a byl-li by někdo na stráži a odešel z ní, má být potrestán bez milosti. Nikdo také nesmí za sebe postavit náhradního strážce bez vědomí a vůle svého hejtmana {Hauptmans}.
+- typ: odstavec
+  de: |-
+    Dieweil dann Keyserliche Maiestat andere Nation auch halten/ soll keiner mit denselbigen kein auffrůr noch vnwillen anfahen/ auch nicht mit jnen spillen/ darmit grosser vnwillen verhüt werde/ bei leib straff.
+  cs: |-
+    Poněvadž pak císařské Veličenstvo vydržuje i jiné národy, nesmí s nimi nikdo začínat žádné vzpoury {auffrůr} ani sváry a také s nimi hrát[^2], aby se předešlo velké nevůli – pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Es soll auch keiner bei den Freunden/ vnd dieweil jhr inn der Freundt Landt seind/ auff dem Zug oder in den Legern niemandts nichts mit gewalt vnnd vnbezalt nemen/ wer darüber etwas neme/ vnd klag von jm kompt/ der soll gestraffet werden nach erkantnuß des Obersten.
+  cs: |-
+    Nikdo také u přátel – a dokud jste v zemi přátel – nesmí na tažení ani v leženích nikomu nic brát násilím a bez zaplacení; kdo by přes to něco vzal a přišla by na něj žaloba, má být potrestán podle uvážení plukovníka.
+- typ: odstavec
+  de: |-
+    Wann dem Leger Prouiant zůgefürt wirdt/ vnnd inn das Leger kompt/ soll keiner darüber fallen oder greiffen/ es sei dann zuuor geschetzt/ es soll auch keiner für das Leger hinauß lauffen Prouiant für zukauffen/ sondern soll das auff dem freyen Platz inn das Leger füren vnnd brengen lassen/ vnnd warten biß es
+  cs: |-
+    Když se do ležení přiváží proviant {Prouiant} a vjíždí do ležení, nesmí se na něj nikdo vrhnout ani po něm sáhnout, dokud není předem oceněn; nikdo také nesmí vybíhat před ležení proviant předkupovat {für zukauffen}, nýbrž jej má nechat přivézt a dopravit na volné prostranství do ležení a vyčkat, až
+poznamky:
+- n: 1
+  text: |-
+    „Soll der Thätter den Todten frei gebüßt haben“ – právní formule: pachatel se zabitím rušitele míru pokládá za zbaveného viny a trestu.
+- n: 2
+  text: |-
+    Tj. hrát v kostky či karty o peníze, což mezi různými národy vedlo ke sporům a rvačkám.

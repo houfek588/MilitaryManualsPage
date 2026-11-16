@@ -1,0 +1,48 @@
+id: 084r
+list: '84'
+strana: recto
+sken: 241
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    arbeiten schuldig ist/ Quastitor/ Zimmerleut braucht der Bawmeister nit allein/ sondern der Zeugmeister zu seiner notturfft.
+  cs: |-
+    povinen pracovat. Zákopníky {Quastitor} a tesaře nepotřebuje jen stavitel, nýbrž i zbrojmistr {Zeugmeister} pro své potřeby.
+- typ: odstavec
+  de: |-
+    Ein jeder solcher Hauptman soll bei geraumpter zeit sich mit seinen Räthen/ zeug/ Bawmeistern vnd Kriegsuerstendigen berathen vnd entschliessen wann es die notturfft erfordert/ die Vorstet abbrennen/ die Heuser bei der mauern zum stande vmbreissen/ dann wann ein Hauptman biß zu der belegerung verzeucht/ mag vil nachtheils darauß eruolgen.
+  cs: |-
+    Každý takový hejtman {Hauptman} se má v dostatečném předstihu poradit se svými radními, zbrojmistry, staviteli a válečnými znalci a rozhodnout, vyžaduje-li to nutnost, vypálit předměstí a domy u hradeb strhnout pro uvolnění obranného postavení; otálí-li totiž hejtman až do samotného obležení, může z toho vzejít mnoho škody.
+- typ: odstavec
+  de: |-
+    So bald auch ein Schloß/ Stat/ oder Flecken/ belegert vnd beschlossen ist/ soll der Hauptman sampt dem Prouiantmeister vnd andern sich der Prouiant halben auff ein person teglich auß zutheilen entschliessen/ vnd solchs der gestalt ordnen/ das sie ehe ein wenig mangel/ dann vberflüssig essen vnd trincken haben/ alß dann künden sie der rettung oder sonst des abzugs desto lenger auß hüngerung halben erwarten.
+  cs: |-
+    Jakmile je také zámek, město či městečko obleženo a obklíčeno, má se hejtman spolu s proviantmistrem {Prouiantmeister} a dalšími usnést na denním přídělu proviantu {Prouiant} na osobu a uspořádat to tak, aby měli raději mírný nedostatek než nadbytek jídla a pití; pak budou moci vyčkat vyproštění či odchodu nepřátel o to déle, aniž by podlehli vyhladovění.
+- typ: odstavec
+  de: |-
+    Wann auch die besatzung groß vnnd vil volcks darinnen were/ sollen zu außtheillung der Prouiant alle Hauptleut zu roß vnd fůß/ besonder tüglich vnd geschickte leut darzů ordnen/ die Prouiant von jedes Hauptmans wegen zuentpfahen/ vnd dann weitter den jenigen so sie gehörn/ zuantworten.
+  cs: |-
+    Byla-li by také posádka {besatzung} veliká a v ní mnoho lidu, mají k rozdělování proviantu všichni hejtmani {Hauptleut} jízdní i pěší určit obzvláště způsobilé a schopné lidi, aby proviant přijímali za každého hejtmana a poté jej dále odevzdávali těm, jimž náleží.
+- typ: odstavec
+  de: |-
+    Gibt mann die Prouiant/ wie offt geschicht/ dem Kriegsuolck zu roß vnd fůß vmb sonst/ hat es ein richtigen weg/ wo sie aber dieselbige kauffen mussen/ soll der Kriegsherr oder Hauptman an seiner statt die Prouiant dannoch dem Kriegsuolck zuuerkauffen/ vmb einen leidlichen pfening ordenen/ sonst werden die Kriegsleut etwan vnwillig/ vnd die Flecken desto ehe verlorn.
+  cs: |-
+    Dává-li se proviant – jak se často stává – válečnému lidu {Kriegsuolck} na koni i pěšímu zadarmo, má to svůj řádný chod; musejí-li si jej však kupovat, má válečný pán {Kriegsherr} nebo hejtman na jeho místě přesto zařídit, aby se proviant válečnému lidu prodával za přijatelný peníz, jinak začnou být válečníci {Kriegsleut} nevrlí a místa budou o to dříve ztracena.
+- typ: odstavec
+  de: |-
+    Der Prouoß soll fleissig warnemen/ das gar niemant mit der Prouiant betrüglich vmbgehe/ angesehen/ die grosse gefehrlichkeit wie gehört darauß entspringt/ vnd wo jemant vngerecht darinn erfunden/ soll der Hauptman vber die Stat verschaffen daß dieselben/ sie seien Reutter oder Knecht/ ein jeder vnder seinem Regiment vngestrafft nit bleibe.
+  cs: |-
+    Profous {Prouoß} má bedlivě dohlížet na to, aby nikdo s proviantem nepodváděl, vzhledem k tomu, jaké veliké nebezpečí – jak bylo řečeno – z toho vzniká; a kdyby byl někdo v tom shledán nepoctivým, má hejtman nad městem zařídit, aby takoví – ať jsou to jezdci {Reutter} či knechti {Knecht} – nezůstali každý pod svým plukem {Regiment} nepotrestáni.
+- typ: odstavec
+  de: |-
+    Der Hauptman soll bei leib vnd leben verbietten niemant mit den feinden hinauß sprach zu halten/ brieffe anzunemen noch hinauß zuschicken/ ausserhalb wissen vnd willen oder beuelch des Obersten oder Hauptmans/ welche aber sollichs vbertretten soll er ernstlich straffen.
+  cs: |-
+    Hejtman má pod trestem na hrdle a na životě zakázat komukoli venku s nepřáteli rozmlouvat, přijímat od nich dopisy nebo je ven posílat bez vědomí, vůle či rozkazu plukovníka {Obersten} nebo hejtmana; kdo by to však přestoupil, toho má přísně potrestat.
+- typ: odstavec
+  de: |-
+    Der Oberst Hauptman soll auch einem geschickten man die Hauptmanschafft vber die Bürger vnd Einwoner beuelhen/ wann mann die Bürger anderst zur wehr wider die Feind gebrauchen wil.
+  cs: |-
+    Nejvyšší hejtman {Oberst Hauptman} má také svěřit schopnému muži hejtmanství nad měšťany a obyvateli, pokud chce měšťany vůbec použít k obraně proti nepřátelům.

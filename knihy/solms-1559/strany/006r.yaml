@@ -1,0 +1,31 @@
+id: 006r
+list: '6'
+strana: recto
+sken: 103
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Anbringen vnnd begern so ein Kriegsherr an die Kriegsräth/ etliche beschwerte Artickel zu berathschlagen vbergibt.
+  cs: |-
+    Předložení a žádost, již válečný pán {Kriegsherr} předává válečným radům {Kriegsräth} k projednání některých obtížných článků {Artickel}.
+- typ: odstavec
+  de: |-
+    IR meine Kriegsräth/ jr wissend daß ich euch habe für meine Kriegsräth erwelet/ euch vertrawe vnd gebrauche neben mir den Krieg zu regiern/ alle notwendige sachen helffen zubedencken/ vnnd was vnordenlichs vnd vntüglichs darinnen würde einfallen/ dasselbig mir zum besten helffen zuuorkommen/ vnd in gůte ehrliche vnd verwarte/ Kriegsordenung zubringen/ wie mein vertrawen derhalben zu euch steht/ jr werdet euch neben mir selbst befleissen/ bemühen/ darnach forschen/ vnnd darauff sehen/ was derhalben also vnordenlichs vnd vntüglichs einfallen wolte/ in der zeit helffen nach wegen zu gedencken vnd für zunemen/ damit solchs nit einbreche/ vnd seinen fürgang haben möchte/ das ist nun zu euch mein gnediges vertrawen.
+  cs: |-
+    Vy, moji váleční radové, víte, že jsem vás vyvolil za své válečné rady, že vám důvěřuji a používám vás vedle sebe k řízení války, abyste pomáhali promýšlet všechny potřebné věci a v čem by se do nich vkradlo něco neřádného a nezpůsobilého, abyste mi tomu pomáhali co nejlépe předcházet a uvádět vše v dobrý, počestný a zajištěný válečný řád. Jakž k vám v tomto směru chovám důvěru, budete se vedle mne sami snažit, usilovat, zkoumat a dohlížet na to, co by se takto neřádného a nezpůsobilého chtělo vloudit, a včas pomáhat hledat cesty a činit opatření, aby se to neuchytilo a nezískalo průchod – taková je nyní k vám má milostivá důvěra.
+- typ: odstavec
+  de: |-
+    Nun habe ich etliche beschwerliche Artickel/ die sich also mit gewalt je lenger je mehr einreissen/ vnd wo sollichen nit weg gefunden werden/ so ist nit möglich einichem Herrn in die lenge Krieg zu erhalten/ vnd würd also in ein gebrauch kommen/ das wir gegen vnserm Feind/ kein Krieg in die leng erhalten können/ derhalben begern ich gnediglichen an euch/ jr wöllet dise sechs Artickel für euch nemen/ die mit ernst vnd mit fleiß bewegen vnd bedencken/ wie die für zunemen seien/ daß wir dieselbigen wider in ein gůten ordenlichen vnd billichen gebrauch brengen mögen/ Damit die erbarkeit vnd manheit wider in ein richtig wesen/ in gůte handlung vnd ordenung gebracht vnnd gepflantzt werd/ dardurch die vnehrlich meuterei/ finantz vnd bedrug vorkommen/ vnd wir den Krieg weitter erhalten mögen. So ist derhalben noch wie vor/ an euch mein gnedigs begern vnd bit/ wöllet die sachen also bewegen vnd helffen dahin richten/ daß die tugent vnd manheit/ wie von alters herkommen ist/ bedacht vnd erhalten werd/ Das wil ich euch als meinen vertrawten Kriegsräthen vertrawen vnd beuolhen haben.
+  cs: |-
+    Mám nyní několik obtížných článků o neřádech, které se násilím vzmáhají čím dál tím více; a nenajde-li se proti nim cesta, nebude žádnému pánovi možné vést dlouhou válku a stalo by se zvykem, že proti svému nepříteli žádnou dlouhodobou válku neudržíme. Proto od vás milostivě žádám, abyste si vzali těchto šest článků před sebe, s vážností a pílí je uvážili a promysleli, jak proti nim zakročit, abychom je opět uvedli do dobrého, řádného a spravedlivého zvyku – aby se počestnost a statečnost opět navrátily do správného stavu, dobrého jednání a řádu a v nich se zakotvily, aby se předešlo nečestné vzpouře {meuterei}, fintám {finantz} a podvodům a abychom mohli válku dále udržet. Proto je k vám nyní jako dříve má milostivá žádost a prosba, abyste tyto věci takto uvážili a pomáhali je vést k tomu, aby se ctnost a statečnost, jak se dochovaly odedávna, uctívaly a zachovávaly. To chci vám jako svým důvěrným válečným radům svěřit a poručit.
+- typ: odstavec
+  de: |-
+    Item/ der erst Artickel ist zu bedencken/ wie der Prouiant vnd fůtterung halben/ die ordenung/ so derhalben auffgericht ist/ erhalten werde/ damit kein schatzung noch finantz einfallen möge.
+  cs: |-
+    Dále, první článek jest uvážit, jak udržet řád, jenž byl vydán ohledně proviantu {Prouiant} a píce, aby se tam nevloudilo žádné vydírání ani finta.
+- typ: odstavec
+  de: Zu dem andern/ wie ich doch möchte die vntrew in der musterung
+  cs: Za druhé, jak bych mohl předejít nevěře při přehlídce {musterung}

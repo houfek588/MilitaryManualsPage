@@ -1,0 +1,27 @@
+id: 048v
+list: '48'
+strana: verso
+sken: 182
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Es soll auch derselbig Reuter Oberster gůte fleissige achtung haben auff alle Hauptleut / ob sie auch alle jhr Reutter haben / deßgleichen jre Beuelchsleut laut jhrer bestallung / das kan er wol sehen / dieweil er teglich bei vnnd vnder jhn ist / deßgleichen so soll er im feld vnd im zuge fleissig acht auff die hauffen / ein jeden besonder / haben / die glider abzellen vnd besehen was für hauptleut vnder einem jeden Geschwader sind / so soll derselbig Oberster alle muster Register haben / darmit er wiß was ein jeder Hauptman / für ein anzal der Reutter hat / dann so kan er die glider abzellen eines jeden geschwaders / vnd was für Hauptleut vnder den Geschwadern sind / so kan er dann rechnen ob der hauffe souil Reutter hat / als ein jeder Hauptman der darunder ist haben solle / befindet er dann das im Hauffen / die zal sich nit erfinden will / so soll er die Hauptleut oder Ritmeister herauß nemen vnd jnen sagen / ewer Hauptleut ist in disem hauffen oder geschwader souil / du solt souil / zum andern du solt souil / zum dritten du solt souil reuter haben / vnd einer von einem zu dem andern der seind souil / nun sicht es will die summa sich da im Hauffen bei so weit nit finden / wo seind die vberigen / vnd an welchem fehlet es dann / bei meiner pflicht vnd ampt kan ich das nit gedulden noch zulassen / Vnd soll dann dem nachfragen / an welchen es fehlet / wollen sie aber sich inn dem wehren / vnnd nicht sagen an wem es fehlet / so laß er einen jeden Hauptman mit seinen reuttern außrucken / vnd allein halten inn einer ordnung / vnd zel dann einem jeden sein reutter oder glider / also wirt er wol finden an welchem es fehlet oder mangeln wirt.
+  cs: |-
+    Týž nejvyšší velitel jízdy {Reuter} má také dávat dobrý a bedlivý pozor na všechny hejtmany {Hauptleut}, zda skutečně mají všechny své jezdce i své velitele {Beuelchsleut} podle svého služebního listu {bestallung}; to může snadno vidět, protože je denně při nich a mezi nimi. Stejně tak má v poli i na tažení {zuge} pilně dohlížet na houfy {hauffen}, na každý zvlášť, odpočítávat řady {glider} a prohlížet, jací hejtmani jsou pod každou švadronou {Geschwader}. Tento nejvyšší velitel má mít všechny přehlídkové rejstříky {muster Register}, aby věděl, jaký počet jezdců má každý hejtman. Pak může spočítat řady každé švadrony a zkontrolovat, kteří hejtmani pod švadronami jsou, a tak spočítat, zda má houf tolik jezdců, kolik má mít každý hejtman, jenž pod něj spadá. Shledá-li pak, že počet v houfu nesouhlasí, má si vzít hejtmany či rytmistry {Ritmeister} stranou a říci jim: „Vás hejtmanů je v tomto houfu či švadroně tolik; ty máš mít tolik, druhý máš mít tolik, třetí máš mít tolik jezdců – jeden od druhého je vás dohromady tolik; nyní je však vidět, že se ta suma v houfu zdaleka nenachází. Kde jsou ostatní a na kom to vázne? Při svém závazku {pflicht} a úřadu to nemohu trpět ani připustit.“ A má pak vyšetřit, na kom to vázne. Chtějí-li se však v tom vzpírat a neříci, na kom je chyba, ať dá každému hejtmanovi s jeho jezdci vyjet stranou a stát samotnému v jednom šiku {ordnung}, a pak ať každému spočítá jeho jezdce či řady; tak jistě zjistí, na kom je chyba nebo kde lidé chybějí.
+- typ: odstavec
+  de: |-
+    Darumb so soll gemelter Oberster bei der Musterung sein / vnd von einem jeden register auß ziehen / wieuil reutter ein jeder Hauptman hat / die geordent werden sollen / die soll er also alle jhm in ein Bůch oder Register nach einander beschreiben / vnnd das stets bei sich haben / daß er sie das zu weisen hab / werden sie dann sagen / die seind da fornen / so kan er wissen / ob sie hinfür geordnet seind oder gehören / sagen sie dann / sie seien kranck / oder die pferde seien schadhafftig / so soll er demselbigen nach forschen / vnnd nach befindung sich halten.
+  cs: |-
+    Proto má zmíněný nejvyšší velitel {Oberster} být při přehlídce {Musterung} a z každého rejstříku {register} si vypsat, kolik jezdců má každý hejtman, kteří mají být zařazeni; ty všechny si má takto zapsat po sobě do knihy či rejstříku a nosit jej stále u sebe, aby jim to mohl ukázat. Řeknou-li pak, že ti lidé jsou vpředu, bude vědět, zda jsou tam vpřed určeni či zda tam patří; řeknou-li pak, že jsou nemocní nebo že koně mají nějakou vadu, má to vyšetřit a podle zjištění se zachovat.
+- typ: odstavec
+  de: |-
+    Darumb soll er wissen alle Ordnung der Reuter / was forn in vorzug zu dem Feldmarschalck zugeordnet ist zu quartiern / vnd anders was das sein mag / damit er wissens haben mög / sich darnach zuhalten.
+  cs: |-
+    Proto má znát celý řád jízdy, co je vpředu v předvoji {vorzug} přiděleno k polnímu maršálkovi {Feldmarschalck} pro vyměřování kvartýrů {quartiern} i vše ostatní, co by to mohlo být, aby o tom měl povědomí a mohl se podle toho zařídit.
+- typ: odstavec
+  de: |-
+    Darumb soll der Kriegßherr dem Reutter Obersten das in sein Bestallung stellen / vnd mit ernst beuelhen / vnd sein pflicht darauff
+  cs: |-
+    Proto má válečný pán {Kriegßherr} nejvyššímu veliteli jízdy toto uvést do jeho služebního listu, přísně mu to přikázat a jeho závazek na to

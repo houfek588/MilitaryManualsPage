@@ -1,0 +1,185 @@
+id: 039v
+list: '39'
+strana: verso
+sken: 166
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    das ist geradt ein Centner / thůt ein Woch auff hundert Personen / siben Centner / thůt an viehe.
+  cs: |-
+    což je právě jeden cent {Centner}; to činí za jeden týden na sto osob sedm centů, a to dělá na dobytku:
+- typ: seznam
+  de:
+  - Ein Ochsen
+  - Ein Kůe
+  - Fünff Kälber
+  - Ein Hamel
+  - Zwei Schaaff.
+  cs:
+  - jednoho vola,
+  - jednu krávu,
+  - pět telat,
+  - jednoho skopce,
+  - dvě ovce.
+- typ: odstavec
+  de: |-
+    So vil viehe můß mann halten ein woch auff hundert personen / damit mann nicht zuuil oder wenig abthů vnd schlage.
+  cs: |-
+    Tolik dobytka je třeba držet na jeden týden pro sto osob, aby se neporazilo a nezkazilo příliš mnoho ani málo.
+- typ: odstavec
+  de: |-
+    Item hundert personen einen Monat lang zuerhalten nach diser ordnung / macht 30. Centner / vnd můß souil viehs haben.
+  cs: |-
+    Dále: uživit sto osob po celý jeden měsíc podle tohoto řádu činí 30 centů a je k tomu třeba mít tolik dobytka:
+- typ: tabulka
+  de:
+  - - Vier Ochsen
+    - ''
+    - Drei Ochsen
+  - - Vier Kůe
+    - ''
+    - Sechs Kůe
+  - - Zwentzig Kälber
+    - 'oder mag nemen:'
+    - Zehen Kälber
+  - - Zehen Hämel
+    - ''
+    - Vier vnd zwentzig Schaaff
+  - - Neun Schaaff.
+    - ''
+    - Zwölff Hamel.
+  cs:
+  - - čtyři voly
+    - ''
+    - tři voly
+  - - čtyři krávy
+    - ''
+    - šest krav
+  - - dvacet telat
+    - 'nebo lze vzít:'
+    - deset telat
+  - - deset skopců
+    - ''
+    - dvacet čtyři ovcí
+  - - devět ovcí[^1]
+    - ''
+    - dvanáct skopců
+- typ: odstavec
+  de: |-
+    Item auff fünffhundert personen / můß mann haben einen tag fünff Centner / vnd ein Woch 35. vnd ein Monat 150. Centner / thůt an vieh.
+  cs: |-
+    Dále: na pět set osob je třeba mít za jeden den pět centů, za týden 35 a za měsíc 150 centů; to činí na dobytku:
+- typ: odstavec
+  de: 'Einen tag:'
+  cs: 'Na jeden den:'
+- typ: tabulka
+  de:
+  - - Ein Ochsen
+    - ''
+    - Ein Ochsen
+  - - Ein Kůe
+    - 'oder mag auch nemen:'
+    - Vier Hämel
+  - - Ein Hamel
+    - ''
+    - Vier Schaaff.
+  - - Ein Schaaff.
+    - ''
+    - ''
+  cs:
+  - - jednoho vola
+    - ''
+    - jednoho vola
+  - - jednu krávu
+    - 'nebo lze také vzít:'
+    - čtyři skopce
+  - - jednoho skopce
+    - ''
+    - čtyři ovce
+  - - jednu ovci
+    - ''
+    - ''
+- typ: odstavec
+  de: Ein Woch.
+  cs: 'Na jeden týden:'
+- typ: tabulka
+  de:
+  - - Fünff Ochsen
+    - ''
+    - Drei Ochsen
+  - - Fünff Kůe
+    - ''
+    - Neun Kůe
+  - - Fünff vnd zwentzig Kälber
+    - oder mag auch nemen
+    - Fünfftzehen Kälber
+  - - Fünff Hämel
+    - ''
+    - Siben Hämel
+  - - Zehen Schaaff.
+    - ''
+    - Fünff vnd zwentzig Schaaff.
+  cs:
+  - - pět volů
+    - ''
+    - tři voly
+  - - pět krav
+    - ''
+    - devět krav
+  - - dvacet pět telat
+    - 'nebo lze také vzít:'
+    - patnáct telat
+  - - pět skopců
+    - ''
+    - sedm skopců
+  - - deset ovcí
+    - ''
+    - dvacet pět ovcí
+- typ: odstavec
+  de: Ein Monat.
+  cs: 'Na jeden měsíc:'
+- typ: tabulka
+  de:
+  - - Zwentzig Ochsen
+    - ''
+    - Fünfftzehen Ochsen
+  - - Zwentzig Kůe
+    - ''
+    - Dreissig Kůe
+  - - Hundert Kälber
+    - oder mag auch nemen
+    - Fünfftzig Kälber
+  - - Fünfftzig Hamel
+    - ''
+    - Sechtzig Hämel
+  - - Fünff vnd viertzig Schaaff.
+    - ''
+    - Hundert vnd zwentzig Schaaff.
+  cs:
+  - - dvacet volů
+    - ''
+    - patnáct volů
+  - - dvacet krav
+    - ''
+    - třicet krav
+  - - sto telat
+    - 'nebo lze také vzít:'
+    - padesát telat
+  - - padesát skopců
+    - ''
+    - šedesát skopců
+  - - čtyřicet pět ovcí
+    - ''
+    - sto dvacet ovcí
+- typ: odstavec
+  de: |-
+    Item / auff tausent Personen můß mann haben zehen Centner fleysch auff ein tag / vnd ein Woch sibentzig Centner / ein Monat
+  cs: |-
+    Dále: na tisíc osob je třeba mít deset centů masa na jeden den, za týden sedmdesát centů a za měsíc
+poznamky:
+- n: 1
+  text: |-
+    Řádek „Neun Schaaff.“ byl v BSB OCR zcela vynechán a doplněn podle skenu tisku (součet v obou sloupcích činí přesně 3000 liber = 30 centů).

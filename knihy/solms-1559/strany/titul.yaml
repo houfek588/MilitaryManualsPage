@@ -1,0 +1,26 @@
+id: titul
+list: titulní list
+strana: recto
+sken: 91
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das ander Buch.
+    Beschreibung der viervndzwentzigsten Kriegßämpter/ Darinn angezeigt wirdt/ wie sich ein jeglicher inn seinem Ampt halten soll/ damit ein grosser oder rechter Krieg mög nach altem Teutschem hergebrachtem gebrauch/ regiert werden/ Bei Keyser Maximiliano (hochlöblicher vnd seliger gedechtnuß) zeiten/ Durch Herr Jörgen von Fronspurg/ Herr Merck Sittig von Ems/ Herr Castel Alter/ Herr Conrad von Beimwelburg/ Herr Dieterich Spetten/ vnd andere Kriegsuerstendigen/ geordnet vnd gestellt/ Den newen anfahenden Beuelchßleuten/ welche der Kriegsämpter noch nicht wol bericht/ sehr fürderlich.
+  cs: |-
+    Druhá kniha.
+    Popis dvaceti čtyř[^1] válečných úřadů, v němž se ukazuje, jak se má každý ve svém úřadu chovat, aby bylo možno velkou či řádnou válku vést podle starého německého osvědčeného zvyku z dob císaře Maxmiliána (velevážené a blažené paměti), uspořádaný a sepsaný panem Jörgem z Frundsbergu, panem Marxem Sittichem z Emsu, panem Castelem Altem, panem Konrádem z Bemelbergu, panem Dietrichem Späthem[^2] a jinými válečnými znalci – velmi užitečný pro nové začínající velitele {Beuelchßleuten}, kteří ještě nejsou ve válečných úřadech dostatečně zběhlí.
+- typ: obrazek
+  soubor: drevorez-091.jpg
+  popis: |-
+    Dřevořez císařského znaku Karla V. z téhož štočku jako na hlavním titulním listu svazku: korunovaný štít s dvouhlavým orlem a habsbursko-španělským srdečním štítkem v řetězu řádu Zlatého rouna, po stranách Herkulovy sloupy s putti a nápisovou stuhou „PLVS. VLTRE“.
+poznamky:
+- n: 1
+  text: |-
+    Originál užívá v názvu tvar řadové číslovky *viervndzwentzigsten* („čtyřiadvacátých“) ve smyslu základního počtu dvaceti čtyř válečných úřadů.
+- n: 2
+  text: |-
+    Slavní císařští vojevůdci doby Maxmiliána I. a Karla V. (v tisku psáni *Jörg von Fronspurg*, *Merck Sittig von Ems*, *Castel Alter*, *Conrad von Beimwelburg*, *Dieterich Spetten*): Georg von Frundsberg (1473–1528), Marx Sittich von Ems (1466–1533), Francesco di Castellalto († 1554), Konrad von Boyneburg/Bemelberg (1494–1567) a Dietrich Späth (kolem 1465–1536).

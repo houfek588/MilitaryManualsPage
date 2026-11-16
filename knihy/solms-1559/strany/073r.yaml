@@ -1,0 +1,51 @@
+id: 073r
+list: '73'
+strana: recto
+sken: 221
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Von der Knecht Wachtmeister.
+  cs: O vachmistrovi {Wachtmeister} knechtů {Knecht}.
+- typ: odstavec
+  de: |-
+    WAchtmeister sagt auß beuelch des Obersten züge vnd wacht an/ auch wann die Hauptleut nit mit jren gantzen Fendlin ziehen/ sondern auch wann sie etwann jre Knecht zum theil odder Rotten schicken sollen/ wie vil mals geschicht.
+  cs: |-
+    Vachmistr vyhlašuje z rozkazu plukovníka {Obersten} pochody {züge} a stráže {wacht}, a to i tehdy, když hejtmani {Hauptleut} netáhnou s celými svými praporci {Fendlin}, nýbrž když mají vyslat své knechty jen po částech nebo po rotách {Rotten}, jak se mnohokrát stává.
+- typ: odstavec
+  de: |-
+    Der Wachtmeister soll sich allweg mit den Wachtmeistern zu roß/ wie sie die wacht besetzen sollen/ vergleichen/ wie bei dem Wachtmeister zu roß im dritten Artickel angezeigt ist/ er soll auch die Wachtmeister zu roß sůchen/ wann es die notturfft erfordert.
+  cs: |-
+    Vachmistr se má vždy dohodnout s vachmistry jízdy o tom, jak mají obsadit stráž, jak je uvedeno u vachmistra jízdy ve třetím článku; má také vachmistry jízdy vyhledat, vyžaduje-li to potřeba.
+- typ: odstavec
+  de: |-
+    Wann der Wachtmeister bei jhm selbst/ wie er die Wacht besetzen will/ entschlossen hat/ soll ers dannocht dem Obersten anzeigen/ oder der Oberst besicht es etwan selbst/ vnderweilen beuilcht ers dem Leuttenant oder einem Hauptman.
+  cs: |-
+    Když se vachmistr sám u sebe rozhodne, jak chce stráž obsadit, má to přesto oznámit plukovníkovi; pak to plukovník obhlédne někdy sám, jindy tím pověří poručíka {Leuttenant} nebo některého hejtmana.
+- typ: odstavec
+  de: |-
+    Der oder die Wachtmeister wann das Leger nahent bei den Feinden ligt/ es sei im feld oder vor einer besatzung/ sollen sie gar kein fleiß/ mühe noch arbeit sparen/ sonder die Wacht offt nachts beschleichen/ vnd welchen sie mangelhafftig finden/ dem Obersten anzeigen.
+  cs: |-
+    Leží-li ležení {Leger} blízko u nepřátel – ať v poli nebo před obléhanou posádkou {besatzung} –, nemají vachmistr nebo vachmistři šetřit žádnou pílí, námahou ani prací, nýbrž mají v noci stráže často obcházet a tiše kontrolovat, a koho shledají v nedbalosti, oznámit plukovníkovi.
+- typ: odstavec
+  de: |-
+    Der Oberst soll auch selbst bei den Feinden acht darauff haben/ etwan sein Leutenant/ auch ander ehrlich gesellen oder topelsoldner bei nacht/ vnd sonderlich die schildwachten lassen besichtigen/ vnd wann der Oberst odder andere von seinet wegen die Wachtmeister odder wächter/ schlaffend oder straffpar erfarend oder finden/ soll der Oberst mit straff niemant verschonen/ wie ins Feldhauptmans 23. Artickel lauter begriffen.
+  cs: |-
+    Plukovník má také v blízkosti nepřátel sám dávat pozor a občas nechat svého poručíka i jiné čestné druhy {gesellen} nebo dvojžoldnéře {topelsoldner} v noci prohlížet [stráže], a zvláště pak stálé stráže {schildwachten}; a přistihnou-li nebo shledají-li plukovník či jiní z jeho pověření vachmistry nebo strážné spící či hodné trestu, nemá plukovník nikoho ušetřit trestu, jak je jasně obsaženo ve 23. článku polního hejtmana {Feldhauptmans}.
+- typ: odstavec
+  de: |-
+    Die Wachtmeister sollen die Losung nit anderst geben/ dann wie jnen jr Oberster auß beuelch des Feldhauptmans beuilcht/ vnd wirt mit der losung auß vil vrsachen auff gehalten/ wie in des Obersten Feldhauptmans 23. Artickel bestimpt.
+  cs: |-
+    Vachmistři nemají vydávat heslo {Losung} jinak, než jak jim nařídí jejich plukovník z rozkazu polního hejtmana; a s vydáním hesla se z mnoha důvodů vyčkává, jak je stanoveno ve 23. článku nejvyššího polního hejtmana.
+- typ: odstavec
+  de: |-
+    Der Oberst sol gar fleissig acht haben/ daß er kein vnuerstendigen wachtmeister neme/ dann daran ligt der mehrer teil des gantzen legers/ deßhalb will es sich mit disem ampt gar nit schertzen lassen/ daß mann einen zu dem ampt der es nicht verstehet/ von lieb oder freundschafft wegen fordern wolte.
+  cs: |-
+    Plukovník má velmi bedlivě dbát na to, aby nepřijímal nezkušeného vachmistra, neboť na něm závisí větší část celého ležení; proto v tomto úřadu nelze nijak žertovat a chtít k němu z náklonnosti či přátelství doporučovat někoho, kdo mu nerozumí.
+- typ: odstavec
+  de: |-
+    Wann auch der Knecht 10. 12. oder mehr tausent sein/ muß mann zwen Wachtmeister haben/ dann es kans einer allein nit versehen/ wann aber der Knecht 5. oder 6. tausent sein odder weren/ bedarff mann nit vber eins.
+  cs: |-
+    Je-li také knechtů 10, 12 nebo více tisíc, je třeba mít dva vachmistry, neboť jeden sám to nemůže zastat; je-li však knechtů 5 nebo 6 tisíc, není třeba více než jednoho.

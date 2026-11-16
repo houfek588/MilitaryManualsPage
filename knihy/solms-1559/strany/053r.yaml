@@ -1,0 +1,52 @@
+id: 053r
+list: '53'
+strana: recto
+sken: 189
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Der Reuter Wachtmeister.
+  cs: Vachmistr {Wachtmeister} jízdy {Reuter}
+- typ: odstavec
+  de: |-
+    DIe wachtmeister sollen sollicher form zur wacht an sagen / welche am morgen vnd nach mittag wachen sollen / denselben sol am abent angesagt / vnd welche die nach wachen sollen / soll an morgen angesagt werden.
+  cs: |-
+    Vachmistři mají ohlašovat k stráži {wacht} tímto způsobem: těm, kteří mají držet stráž ráno a odpoledne, se to má ohlásit večer, a těm, kteří mají držet stráž v noci[^1], se to má ohlásit ráno.
+- typ: odstavec
+  de: |-
+    Die Wachtmeister sollen sich auff den empfangen zetel von dem feldmarschalck daruon in des Marschalcks 22. Artickels geredt wirt / bei jhm vnd dem Leutenant erkündigen / welches geschwader Reutter ausserhalb des Renfanen am ersten den vorzug soll haben / an denselben sollen sie die wacht anfahen / so bleibt es für vnd für in gůter Ordnung / vnd kommen allweg die so in künfftiger nacht wachen sollen am ersten ins leger / vnd můgen essen / auch sie vnd jre roß růhen.
+  cs: |-
+    Vachmistři se mají na základě lístku obdrženého od polního maršálka {feldmarschalck}, o němž se hovoří ve 22. článku maršálka {Marschalcks}, dotázat u něho a u poručíka {Leutenant}, která švadrona {geschwader} jezdců mimo předvojovou korouhev {Renfanen} má mít jako první předvoj {vorzug}; u té mají stráž začít. Tak to zůstane natrvalo v dobrém pořádku a ti, kdo mají v nadcházející noci držet stráž, dorazí vždy do ležení {leger} jako první a mohou se najíst a oni i jejich koně si odpočinout.
+- typ: odstavec
+  de: |-
+    So bald der Feldmarschalck / Zeugmeister vnd andere sich des Legers vnd des platzes zum Geschütz vnd des Lermenplatzes verglichen haben / sollen sich die Wachtmeister zu roß vnd fuß der Wacht halben mit einander berathen vnd entschliessen / vnd die wacht besetzen / das allweg die Reutter vil weiter vom Leger halten / dann die wächter zu fuß stehen / vnd sollen die wachtmeister im abwechseln gůt acht haben / daß die darinnen nicht vnder jhnen selbst lermen machen.
+  cs: |-
+    Jakmile se polní maršálek, zbrojmistr {Zeugmeister} a ostatní shodnou na ležení, místě pro děla {Geschütz} a poplachovém místě {Lermenplatzes}, mají se vachmistři jízdy i pěchoty spolu poradit a rozhodnout ohledně stráže a stráž obsadit tak, aby jezdci stáli vždy mnohem dále od ležení, než kde stojí pěší strážní {wächter}. A vachmistři mají při střídání dávat dobrý pozor, aby ti uvnitř nevyvolali mezi sebou samými poplach {lermen}.
+- typ: odstavec
+  de: |-
+    Wann auch die Wachtmeister zu roß vnd fuß am zug / oder sonst von einander kommen / so ist der wachtmeister zu fuß vnd roß schuldig zusůchen.
+  cs: |-
+    Když se také vachmistři jízdy a pěchoty na tažení {zug} nebo jindy od sebe vzdálí, jsou vachmistr pěchoty i jízdy povinni jeden druhého vyhledat.
+- typ: odstavec
+  de: |-
+    Weil inn des Obersten 25. Artickels von der Losung disputiert wirdt / sollens die wachtmeister darmit nach beuelch des Obersten halten.
+  cs: |-
+    Jelikož se v 25. článku {Artickels} nejvyššího velitele {Obersten} pojednává o heslu {Losung}, mají se tím vachmistři řídit podle rozkazu nejvyššího velitele.
+- typ: odstavec
+  de: |-
+    Wellicher Wachtmeister oder Wächter sich der wacht halben straff messig helt / dargegen wirdt billich nach inhalt des Obersten 23. Artickels mit straffe verfaren.
+  cs: |-
+    Kterýkoli vachmistr nebo strážný se při stráži zachová trestuhodně, proti tomu se po právu zakročí trestem podle obsahu 23. článku nejvyššího velitele.
+- typ: odstavec
+  de: |-
+    Im Somer sollen die wachtmeister tag vnd nacht also zuwachen außtheilen / am abent vmb acht vren sollen die nachtwächter halten biß morgens vmb vier vren / von vieren biß vmb zwölff / darnach von zwölffen biß vff acht / diser theilung kan sich im Somer niemant beschweren / so sollen die Wachtmeister doch mit gemelter abwechselung nicht lenger verziehen / vnwillen zuuerhüten.
+  cs: |-
+    V létě mají vachmistři rozdělit stráž ve dne i v noci takto: večer v osm hodin mají noční strážní nastoupit a stát do čtyř hodin do rána, [pak další] od čtyř do dvanácti, potom od dvanácti do osmi. Na takové rozdělení si v létě nikdo nemůže stěžovat; přesto však vachmistři nemají zmíněné střídání zdržovat déle, aby předešli nevoli.
+- typ: odstavec
+  de: Aber wann ein Leger im Mertzen / Aprilen / September /
+  cs: Leží-li však ležení v březnu, dubnu, září nebo
+poznamky:
+- n: 1
+  text: V tisku „die nach“ (chybějící písmeno za *die nacht* – v noci).

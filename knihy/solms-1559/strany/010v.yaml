@@ -1,0 +1,32 @@
+id: 010v
+list: '10'
+strana: verso
+sken: 112
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    zu blasen oder schlagen/ vnd halten bleiben/ vnnd so die Wacht das sehen oder hören würd/ soll einer oder zwen von der Wacht eillents zu jm reitten oder gehn/ jne also still halten lassen/ vnd bei jm bleiben vnd verhůten/ daß niemands/ er sei wer er wöl/ zu jm kome/ vnd mit jm rede/ vnd es soll das einer von der Wacht eillents dem Obersten anzeigen.
+  cs: |-
+    zatroubit nebo zabubnovat a zůstat stát; a jakmile to stráž {Wacht} spatří nebo uslyší, má k němu jeden nebo dva ze stráže rychle dojet či dojít, nechat ho takto stát v klidu, zůstat u něho a zabránit tomu, aby k němu kdokoli – ať je to kdokoli – přistoupil a mluvil s ním, a jeden ze stráže to má ihned oznámit plukovníkovi {Obersten}.
+- typ: odstavec
+  de: |-
+    Alßdann soll der Oberst denselben durch seine Leut/ mit verbundenen augen in das Leger zu jm fürn/ aber doch nit in sein Losament/ sonder inn ein anders etwas daruon/ damit er des Obersten Losament nicht wissens habe/ vnnd anzeygen mög wo das sei/ so soll der Oberst denselbigen also an einem ort daß er nicht weitter komme/ verwaren/ auch niemands dann wer dazů verordenet ist/ zu jm/ noch mit jm reden lassen/ vnnd so der Oberst jn dann abgefertigt hett/ darumb er da gewesen ist/ so soll er denselbigen Trummeter oder Trummenschlager durch sein leut/ widerumb verwart wie vor/ durchs Leger hinauß fůren lassen.
+  cs: |-
+    Nato ho má plukovník dát svými lidmi přivést se zavázanýma očima do ležení {Leger} k sobě – avšak ne do svého vlastního ubytování {Losament}, nýbrž do jiného opodál, aby nevěděl o plukovníkově ubytování a nemohl prozradit, kde je. Tak ho má plukovník držet na jednom místě, aby se nedostal dále, a nikoho jiného než ty, kdo jsou k tomu určeni, k němu nepouštět ani s ním nenechat mluvit; a když ho plukovník vyřídí v tom, kvůli čemu přišel, má dát téhož trubače {Trummeter} nebo bubeníka {Trummenschlager} svými lidmi opět stejně bezpečně jako dříve vyvést z ležení ven.
+- typ: odstavec
+  de: |-
+    Es soll der Oberst hoch oder hart verbieten/ daß niemands/ er sei Teutsch oder Welschs/ ein Losament oder leger in eim Dorff/ Hoffe/ oder Kirche vor dem leger ausserhalb der wacht/ haben oder liegen soll/ sonder alle nacht jm leger bleiben/ Dann solt mann gestatten/ oder zulassen/ daß das Kriegsuolck vor dem leger vnd vor der wacht/ jre Losamenter haben solten/ ist wol zu erachten/ was für Rotterei vnd nachtheil im Leger zu zurichten vnd zuentstehn weren/ darumb soll mann solchs auff das höchst vnd fleissigst verhůten.
+  cs: |-
+    Plukovník má také přísně a ostře zakázat, aby nikdo – ať Němec nebo Vlach {Welschs} – neměl své ubytování či tábor ani ne nocoval ve vsi, na statku nebo v kostele před ležením mimo stráž, nýbrž aby každý zůstal na noc v ležení. Kdyby se totiž dovolilo či trpělo, aby válečný lid {Kriegsuolck} měl svá ubytování před ležením a před stráží, lze si snadno domyslet, jaké spiklenectví a škoda by se mohly v ležení zosnovat a vzniknout; proto je třeba tomu co nejpřísněji a nejpečlivěji bránit.
+- typ: odstavec
+  de: |-
+    Mann soll auch so bald die Wacht auffgezogen ist/ keinen Schuß mit keiner Büchsen im leger mehr thůn/ es sei im leger oder auff dem lermen platz ausserhalb beuelch der obersten/ Aber in schantzen/ da hat es sein weg. Vns bedünckt auch das gůt sein solt/ das ein verstendiger vom Adell/ daß derselbig alles was zum feldgeschütz gehört/ mit sampt den Büchsenmeistern/ vnd wagen/ Rossen/ vnder seinem gewalt haben solt/ Doch nicht desto weniger/ so solt er bei der Artholerei bei dem Zeugmeister sein wonung haben. Dann es tregt sich offt vnd vil zů daß ein lermen wirt/ daß mann etwan mit Kriegsuolck hinweg zeucht/ daß niemand weyß wo Roß oder anders ist/ aber solliche Person/ so er die verwaltung also hett/ kündte er (wie eillents es sich zutrüge) seine Leut vnnd Pferdt finden/ Es würde auch jm feld richtig sein/ daß er das Geschütz vnder die hauffen der Knecht/ oder wo mann sie bedürffen würde/ zuordenen wüste.
+  cs: |-
+    Jakmile nastoupí stráž, nemá se v ležení už vůbec střílet z žádné pušky {Büchsen}, ať už v ležení nebo na poplachovém prostranství {lermen platz}, leda na rozkaz velitelů; v šancích {schantzen} ovšem platí jiné pravidlo. Zdá se nám také dobré, aby jeden rozumný muž ze šlechty měl pod svou pravomocí vše, co náleží k polnímu dělostřelectvu {feldgeschütz}, spolu s puškaři {Büchsenmeistern}, vozy a koňmi; nicméně má mít své obydlí u dělostřelectva {Artholerei} při zbrojmistrovi {Zeugmeister}. Často a nezřídka se totiž stává, že vznikne poplach a vytáhne se s válečným lidem tak, že nikdo neví, kde jsou koně nebo jiné věci; kdyby však tato osoba měla správu v rukou, dokázala by (jakkoli narychlo by k tomu došlo) své lidi i koně najít. Bylo by to i v poli správné, protože by věděla, jak děla {Geschütz} zařadit mezi houfy knechtů {Knecht} nebo tam, kde by jich bylo třeba.
+- typ: odstavec
+  de: Wir sehen auch inn vil weg für gůt an/ daß der Kriegsherr allen
+  cs: |-
+    V mnoha ohledech pokládáme také za dobré, aby se válečný pán {Kriegsherr} každý

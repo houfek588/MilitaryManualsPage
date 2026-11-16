@@ -1,0 +1,54 @@
+id: 081r
+list: '81'
+strana: recto
+sken: 235
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Vnd wo sach wer das jr durch Keyserlich Maiestat oder derselben Obersten beuelch/ samptlich oder rotten weiß in ein besatzung geschickt wurdet/ es were inn Stätten/ Schlossen/ Märckten oder Flecken/ wie es sich zutrüge/ vnd jhr in sollicher besatzung durch die feinde ersůcht würden/ es were durch einen oder mehr stürm/ so soll mann euch darumb weiter nichts dann ewer besoldung reicht/ schuldig sein.
+  cs: |-
+    A kdyby se stalo, že byste byli z rozkazu císařského Veličenstva nebo jeho plukovníků {Obersten} posláni pospolitě nebo po rotách {rotten weiß} do posádky {besatzung} – ať už do měst, zámků, městeček či trhových vsí, jakkoli by se to přihodilo –, a byli byste v takové posádce napadeni nepřáteli, ať jedním či více útoky {stürm}, nemá se vám za to dlužit nic víc, než kolik činí váš žold {besoldung}.
+- typ: odstavec
+  de: |-
+    Vnd ob Schloß/ Stät vnnd andere Besatzung/ mit teidung auffgenommen würden/ so soll ewer keiner darinn fallen oder plündern/ darein nicht gehen oder stehen/ auch die gesicherten vnd gehulden/ bei der sicherung vnnd huldung bleiben lassen/ vnnd nichts weiters dargegen thůn noch handeln on wissen vnnd erlaubnuß des Obersten/ oder were es von seinet wegen beuelch hat/ alles bei leib straff.
+  cs: |-
+    A kdyby zámek, město či jiná posádka byly přijaty dohodou o vzdání[^1], nikdo z vás tam nesmí vtrhnout ani plenit, ani tam vcházet či postávat; rovněž máte ty, jimž byla zaručena bezpečnost a kteří složili poddanství, ponechat při této ochraně a poddanství a nic dalšího proti tomu nepodnikat ani nejednat bez vědomí a dovolení plukovníka nebo toho, kdo má z jeho pověření rozkaz – vše pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item/ wo mann Schlachten odder Stürme erobern thet/ wie das were/ so soll niemants anfahen zů plündern/ odder sich vmb das gůt annemen/ es sei dann die walstat vnnd platz erobert/ sonder inn gůter Ordnung bleiben/ bei vermeidung der leib straff.
+  cs: |-
+    Dále: kde by se vyhrála bitva nebo dobyl útok {Stürme}, jakkoli by to bylo, nikdo nesmí začít plenit ani si přisvojovat majetek, dokud není bojiště a místo dobyto, nýbrž má zůstat v dobrém šiku {Ordnung} – pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Es soll auch ewer keiner auß dem Leger auff die beutten oder sonst anderst wohin ziehen/ on wissen vnd willen seines Hauptmans bei leib straff.
+  cs: |-
+    Rovněž nikdo z vás nesmí vytáhnout z ležení {Leger} za kořistí ani kamkoli jinam bez vědomí a vůle svého hejtmana {Hauptmans} – pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item/ ob einer oder mehr weren die flucht mechten im feld oder sonst/ so soll der nechst in jn stechen vnd schlahen/ vnnd ob einer der also ein flucht macht/ darüber würde zu todt geschlahen/ soll sich niemants an jm verwirckt/ sonder grossen danck verdienet haben/ Wo aber einer entlieff so soll derselbig den Hauptleuten angezeigt/ vnnd alßdan an seinem leib vnd leben gestrafft werden.
+  cs: |-
+    Dále: dal-li by se někdo v poli nebo jinde na útěk, má jej nejbližší probodnout a bít; a byl-li by ten, kdo se takto dává na útěk, přitom zabit, nikdo se tím na něm neprovinil, nýbrž si vysloužil velký dík. Kdyby však někdo uprchl, má být udán hejtmanům {Hauptleuten} a poté potrestán na svém těle i životě.
+- typ: odstavec
+  de: |-
+    Es soll auch bei ewerem eydt kein gemein on wissen vnnd willen des Obersten gehalten werden/ welche aber solliches vbertretten würden/ die sollen meineydig gehalten/ vnnd an leib vnd leben gestraffet werden on alle gnad.
+  cs: |-
+    Rovněž pod vaší přísahou {eydt} se nesmí konat žádná obec {gemein} bez vědomí a vůle plukovníka; kdo by však toto přestoupil, má být pokládán za křivopřísežníka a bez jakékoli milosti potrestán na těle i životě.
+- typ: odstavec
+  de: |-
+    Item es soll auch keiner mit den Feinden/ es sei inn Legern/ am Zug/ oder inn Besatzungen sprach halten/ auch keine Brieff inn der Feind Leger schreiben oder Botschafft thůn/ auch von den Feinden kein empfahen/ on beuelch vnd erlaubtnuß des Obersten/ bei leib straff.
+  cs: |-
+    Dále: nikdo také nesmí s nepřáteli – ať už v leženích, na tažení {Zug} či v posádkách – rozmlouvat, ani psát dopisy do nepřátelského ležení, posílat vzkazy nebo je od nepřátel přijímat bez rozkazu a dovolení plukovníka – pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item/ ob auch einer odder mehr weren die verretterei oder andere böse stück trieben/ der odder dieselbigen sollen dem Prouosen angezeigt werden/ vnd der Prouoß alßdan mit jn handeln nach beuelch des Obersten.
+  cs: |-
+    Dále: dopouštěl-li by se někdo zrady nebo jiných zlých kousků, má být oznámen profousovi {Prouosen}, a profous s ním má pak naložit podle rozkazu plukovníka.
+- typ: odstavec
+  de: Item/ ob einer einen alten neyt oder haß zu dem andern hett/
+  cs: 'Dále: choval-li by někdo k druhému starou zášť nebo nenávist,'
+poznamky:
+- n: 1
+  text: |-
+    „Mit teidung auffgenommen“ (z „Teidung / Täding / Tädigung“) – přijato na základě vyjednané dohody o vzdání (kapitulace posádky).

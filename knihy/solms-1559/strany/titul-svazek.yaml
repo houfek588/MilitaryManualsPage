@@ -1,0 +1,31 @@
+id: titul-svazek
+list: titulní list svazku
+strana: recto
+sken: 9
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das erst Buch.
+    Dises Buch vnd Kriegs beschreibung ist vermelten vnd berichten einer guten ordentlichen Kriegsregierung/ nach alter Teutschen ordnung/ gebrauch vnd herkomen/ mit andern noch Büchern von aller Kriegsregierung vnd Rüstung so zu dem Krieg gehört.
+  cs: |-
+    První kniha.[^1]
+    Tato kniha a válečný popis oznamuje a podává zprávu o dobré a řádné válečné správě podle starého německého řádu, zvyku a podání, spolu s dalšími knihami o veškeré válečné správě a výzbroji {Rüstung}, jež k válce náleží.
+- typ: odstavec
+  de: |-
+    Auch mit jhren augenscheinlichen Figuren zu besserem verstandt/ neben den Beschreibungen souil möglich/ angezeiget.
+  cs: |-
+    Též pro lepší porozumění podle možností vyloženo vedle popisů názornými vyobrazeními.
+- typ: obrazek
+  soubor: drevorez-1.jpg
+  popis: |-
+    Dřevořez císařského znaku Karla V.: uprostřed korunovaný štít s dvouhlavým říšským orlem a habsbursko-španělským srdečním štítkem, obklopený řetězem řádu Zlatého rouna. Po stranách dva okřídlení putti přidržují Herkulovy sloupy ovinuté nápisovou stuhou s císařským heslem „PLVS. VLTRE“.
+- typ: odstavec
+  de: Anno Domini/ M. D. Lix.
+  cs: Léta Páně 1559.
+poznamky:
+- n: 1
+  text: |-
+    Titulní list celého souborného svazku hraběte Reinharda ze Solmsu, tištěného roku 1559 v jeho vlastní tiskárně v Lichi; tato edice přináší následující Druhou knihu.

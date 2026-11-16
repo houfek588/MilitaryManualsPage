@@ -1,0 +1,43 @@
+id: 042r
+list: '42'
+strana: recto
+sken: 171
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    metzen / thůt an gewicht acht tausent vierhundert Centner / vnd fünff tausent / achthundert / drei vnd dreissig Schäffel / vier metzen / Einen Monat lang / dreihundert tausent Metzen / thůt an gewicht sechs vnd dreissig tausent Centner / vnd fünff vnd zwentzig tausent Schäffel Hafern. Wo nun ferner Bestellung vnnd fůterung zu pferden von nöten / wirt sich obbeschriebener rechnung nach ein jeder wissen zurichten. Also mag mann mit dem wein aucht thůn / vnd mit allem das jnen zukompt / daß mann das gleich vndertheile.
+  cs: |-
+    měřic {metzen}, což činí na váhu osm tisíc čtyři sta centů {Centner} a pět tisíc osm set třicet tři korce {Schäffel} a čtyři měřice; za jeden měsíc tři sta tisíc měřic, což činí na váhu třicet šest tisíc centů a dvacet pět tisíc korců ovsa. Kde bude dále třeba opatření a píce pro koně, tam se každý bude umět zařídit podle výše popsaného výpočtu. Stejně tak lze postupovat i s vínem a se vším, co jim náleží, aby se to rozdělilo spravedlivě.
+- typ: odstavec
+  de: |-
+    Item / ob einem Prouiantmeister also sein summa oder zale gelieffert würde / soll er so bald bezalen / oder den zufriden stellen / souil er schuldig / vnd wo ers nicht bezalen wolte / auch den jenigen so es zusteht / mit glauben nicht zufriden stellet / vnd sich darauff behelffen / mann solt in der Ordnung bleiben / vnd einem nach dem andern zu lieffern schuldig sein / sol jm nicht nachgelassen / sonder einem andern zugetheilt werden / der es bezalet vnd jm in dem Register nachgeht / vnd der ander soll auch gleich eingeschriben werden / als were er der Ordnung nach verzicht / vnd seine verseumnuß in die statt seiner gebürende liefferung geschriben.
+  cs: |-
+    Dále: kdyby bylo některému proviantmistrovi {Prouiantmeister} takto dodáno jeho množství či počet, má ihned zaplatit nebo uspokojit věřitele tolik, kolik je dlužen; a nechtěl-li by zaplatit ani by ty, jimž to náleží, neuspokojil na dluh[^1] a vymlouval by se na to, že se má zůstat v pořadí a že se mu má dodávat postupně za sebou, nemá mu to být prominuto, nýbrž má to být přiděleno jinému, který zaplatí a následuje po něm v rejstříku {Register}; a ten první má být hned zapsán, jako by se pořadí zřekl, a na místo jeho náležité dodávky se zapíše jeho zmeškání.
+- typ: odstavec
+  de: |-
+    Item / genß / hůner vnd solch gering viehe / mag ein jeder wohin er wil vff ein freyen marckt tragen / wo es jm gelegen vnd gefllig ist.
+  cs: |-
+    Dále: husy, slepice a takovou drobnou drůbež může každý nosit, kam chce, na svobodný trh, kde mu to vyhovuje a je vhod.
+- typ: odstavec
+  de: |-
+    Item / auff einem freyen marckt / nicht mehr dann gestrenge Ordnung gehalten / das kein můtwilliger gewalt / sonder gůt bezallung da geschehe / so wirt mann gnůg zufüren vnd tragen.
+  cs: |-
+    Dále: na svobodném trhu se nemá držet nic jiného než přísný pořádek, aby se tam nedělo žádné svévole a násilí, nýbrž řádné placení; pak se bude dovážet a nosit hojnost všeho.
+- typ: odstavec
+  de: |-
+    So etlich viehe durch ein grosse nam wirt zuwegen bracht / vnnd nit so bald in gemelt Ordnung getheilt würde / so were gůt / das von den Obersten ein solliche verfassung vnnd vorrat von Saltz bei der handt were / daß solch fleysch oder viehe / so es in der Weyd nit zuerhalten sein möcht / geschlacht vnd in ein faß ins Saltz eingelegt / gespart vnd nit gefürt biß zu der not / das an der Prouiant felhen würde / alßdann hat mann von disem fürzustrecken / Vnd were nit zubesorgen / daß die rotrůr von solchem fleysch / so es wider sauber gewäschen / kommen möchte / Wo mann aber mit zůfürn sich beschweren würde / vermeint es werde vil fůhr daruff gehn / so kan man solch faß mit dem eingemachten fleysch inn die Artlerei wägen eintheilen / die doch so mann schiessen würde mit Kugeln vnd Puluer / also erleichtert werden. Vnd so dem allem felhen würd / so hat der Wagenburgmeister vnd Wagenmeister daruff ein auffsehens zuhaben / wo etlich Wägen nit lastig geladen weren / auff dieselben zuladen / mit denselben sich darumb zuuergleichen oder dieselbige last inn die Quartier zuuerordnen mit zufüren / vnd so die not sich derhalben wurde
+  cs: |-
+    Kdyby bylo velkým nájezdem[^2] získáno nějaké množství dobytka a nebylo hned rozděleno do zmíněného řádu, bylo by dobré, aby nejvyšší velitelé {Obersten} měli po ruce takové zásobení a zásobu soli, aby se takový dobytek či maso – nedal-li by se dobytek uživit na pastvě – porazil, naložil do sudu do soli a ušetřil a nevezl se, leč až v nouzi, kdy by chyběl proviant {Prouiant}; tehdy by bylo z čeho rozdávat. A nebylo by třeba se obávat, že by z takového masa, když se zase čistě vypere, mohla vzniknout úplavice[^3]. Kdyby se však někdo zdráhal je vézt v domnění, že na to padne mnoho povozů, lze takové sudy s naloženým masem rozdělit na vozy dělostřelectva {Artlerei}, kterým se přece, jakmile se bude střílet koulemi {Kugeln} a prachem {Puluer}, ulehčí. A kdyby ani toto všechno nestačilo, má na to dohlížet mistr vozové hradby {Wagenburgmeister} a vozmistr {Wagenmeister}, kde by některé vozy nebyly plně naloženy, aby se naložilo na ně, aby se s nimi o tom dohodli nebo ten náklad přidělili do kvartýrů {Quartier} k spolupřepravě; a kdyby se z toho důvodu měla
+poznamky:
+- n: 1
+  text: |-
+    „mit glauben“ – na úvěr, na slovo (dát záruku či zástavu důvěryhodného ručitele).
+- n: 2
+  text: |-
+    „durch ein grosse nam“ – velkým lupem, ukořistěním na nepříteli (zast. „Name“ = kořist).
+- n: 3
+  text: |-
+    „rotrůr“ (Rote Ruhr) – krvavá úplavice, častá nemoc ve vojenských leženích.

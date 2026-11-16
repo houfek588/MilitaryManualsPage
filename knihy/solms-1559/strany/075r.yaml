@@ -1,0 +1,35 @@
+id: 075r
+list: '75'
+strana: recto
+sken: 225
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Von den Fürern.
+  cs: O vůdcích {Fürern}.
+- typ: odstavec
+  de: |-
+    DIe Fürer bleiben gewönlich alweg bei den Knechten/ vnd fürhen sie auff den weg biß in das Leger in jr Quarttier oder biß der Forirer kompt.
+  cs: |-
+    Vůdcové zůstávají obvykle vždy u knechtů {Knechten} a vedou je cestou až do ležení {Leger} do jejich kvartýru {Quarttier}, nebo dokud nepřijde furýr {Forirer}.
+- typ: odstavec
+  de: |-
+    Die Fürer werden gleich den erst gemelten Weibeln vom gemeinen man monatlich entsetzt/ gehörn auch mit jrer bezalung vnder die Hauptleut.
+  cs: |-
+    Vůdcové jsou stejně jako prve zmínění šikovatelé {Weibeln} každý měsíc sesazováni prostým lidem {gemeinen man} a se svým žoldem rovněž náležejí pod hejtmany {Hauptleut}.
+- typ: nadpis
+  uroven: 3
+  de: Von den Forierern.
+  cs: O furýrech.
+- typ: odstavec
+  de: |-
+    DIe Forirer wann sie jr Quarttier von dem Quartiermeister empfangen haben/ warten sie biß jre Fendlein kommen/ alß dann fürt er erstlich den Hauptman darnach den Fendrich in jr Losament/ volgents die Rotten nach einander.
+  cs: |-
+    Jakmile furýři převezmou svůj kvartýr od kvartýrmistra {Quartiermeister}, čekají, až dorazí jejich praporce {Fendlein}; potom uvede nejprve hejtmana, poté praporečníka {Fendrich} do jejich ubytování {Losament} a následně roty {Rotten} jednu po druhé.
+- typ: odstavec
+  de: |-
+    Die Forierer warten sonst auch auff jre Hauptleut/ wann sie jr bedörffen im Leger oder im zug/ die Forierer werden auch vom gemeinen mann gesetzt vnd entsetzt/ vnd von jren Hauptleutten bezalt.
+  cs: |-
+    Furýři jsou jinak také k ruce svým hejtmanům, když jich potřebují v ležení nebo na pochodu {zug}; furýři jsou rovněž ustavováni i sesazováni prostým lidem a vypláceni svými hejtmany.

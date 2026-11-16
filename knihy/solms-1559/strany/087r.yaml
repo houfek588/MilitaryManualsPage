@@ -1,0 +1,76 @@
+id: 087r
+list: '87'
+strana: recto
+sken: 247
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Gerichtsordnung der Lantsknecht
+  cs: Soudní řád {Gerichtsordnung} lancknechtů {Lantsknecht}
+- typ: nadpis
+  uroven: 3
+  de: Hauptleut.
+  cs: Hejtmani {Hauptleut}.[^1]
+- typ: odstavec
+  de: |-
+    ES sollen die Gerichtsleut ein eyd schweren zu Gott vnd dem heyligen Euangelio/ zu richten nach Keyserlichen Rechten/ nach laut des Artickels brieff/ dem Armen als dem Reichen/ dem Reichen als dem Armen/ treulich vnd vngefehrlich als weit jhr verstandt außweißt/ wie sie wolten das Gott am jungsten tag vber jhr arme seel richten soll/ sollen auch dem Schultheisen/ Gericht vnnd Rechten gegenwertig gehorsam sein/ auch keiner on erlaubnuß des Schultheisen auß dem Leger ziehen/ vnd on der Oberhandt beuelch.
+  cs: |-
+    Soudní přísedící {Gerichtsleut}[^2] mají složit přísahu {eyd} k Bohu a svatému evangeliu, že budou soudit podle císařského práva {Keyserlichen Rechten} a podle znění artikulního listu {Artickels brieff}, chudému jako bohatému a bohatému jako chudému, věrně a bez lsti, jak dalece jejich rozum sahá, tak jak by si přáli, aby Bůh v soudný den soudil jejich ubohou duši; mají být rovněž přítomní a poslušní rychtáři {Schultheisen}, soudu {Gericht} i právům, a nikdo nesmí bez dovolení rychtáře a bez rozkazu vrchnosti vytáhnout z ležení {Leger}.
+- typ: odstavec
+  de: |-
+    Welcher vnnd welche Gerichtsleut vngehorsam erfunden/ dem Schultheisen ein gulden verfallen so offt es geschicht/ vnd soll nach altem gebrauch gehalten werden.
+  cs: |-
+    Kteří soudní přísedící budou shledáni neposlušnými, propadají rychtáři pokutou jednoho zlatého {gulden} pokaždé, když se tak stane, a má se v tom postupovat podle starého obyčeje.
+- typ: odstavec
+  de: |-
+    Dem Schultheisen von den Partheien so sich vor versprechen/ ein Marzel/ dem Gerichtsweibel von jeder person fürzubieten ein marzel.
+  cs: |-
+    Rychtáři od stran, které před ním přednesou svou věc[^3], jeden marcel {Marzel}; soudnímu šikovateli {Gerichtsweibel} za předvolání každé osoby jeden marcel.
+- typ: odstavec
+  de: |-
+    Von jeder kundtschafft zuuerhören dem Schultheisen/ Gerichtsschreiber/ Gerichtsweibel jedem ein Marzel.
+  cs: |-
+    Za vyslechnutí každého svědectví {kundtschafft} rychtáři, soudnímu písaři {Gerichtsschreiber} a soudnímu šikovateli, každému jeden marcel.
+- typ: odstavec
+  de: |-
+    Von einem malefitz vrtheil/ von beiden jedem ein gulden/ vnnd anderer hendel wegen ein ort eins gulden.
+  cs: |-
+    Za rozsudek v hrdelní věci {malefitz} od obou stran každému jeden zlatý, a u jiných sporů čtvrtinu zlatého[^4].
+- typ: odstavec
+  de: |-
+    Wo gastrechter auß notturfft gehalten werden soll mann doppel bezallen.
+  cs: |-
+    Kde se z nutnosti konají soudy podle hostinského práva {gastrechter}, má se platit dvojnásob.
+- typ: odstavec
+  de: |-
+    Item waß brieff vnder das Insigel begert werden zu schreiben/ dem Schultheisen sigel gelt von jedem Insigel ein gulden/ dem Gerichtsschreiber was auff ein pogen bappiers mag geschriben werden/ ein halben gulden.
+  cs: |-
+    Dále: jaké listiny si kdo vyžádá sepsat pod pečetí – rychtáři pečetné za každou pečeť jeden zlatý; soudnímu písaři za to, co lze napsat na jeden arch papíru, půl zlatého.
+- typ: odstavec
+  de: Was aber weitter auff Pergament/ ein gulden zuschreiben.
+  cs: Co je však dále psáno na pergamen, za to se platí jeden zlatý.
+- typ: odstavec
+  de: |-
+    Welcher parthei durch den Gerichtsweibel vmb kundtschafft für gebotten wirt/ vnd vor dem Schultheisen nicht erscheint/ dieselbig parthei ist verfallen dem Schultheisen ein gulden.
+  cs: |-
+    Kterékoli straně je soudním šikovatelem přikázáno dostavit se ke svědectví a nedostaví se před rychtáře, tatáž strana propadá rychtáři pokutou jednoho zlatého.
+- typ: odstavec
+  de: |-
+    Item was hinder den Schultheisen gelegt wirdt zubehalten/ daß er dann schuldig ist/ den partheien zuuerwarn/ soll jm von solcher behaltung wegen/ für sein gerechtigkeit zustehn vnd erlegt werden der zehent pfenning/ vnd wo das der Schultheis würde verwarlosen ist er denselbigen partheien schuldig dasselbig erlegt gelt oder gůt zubezalen/ wo aber sach were/ daß dem schultheisen solch erlegt vnd bezalt gelt oder gůt/ durch oder von den feinden abgetrungen würde/ das soll der schultheis den partheien zubezalen nit schuldig sein.
+  cs: |-
+    Dále: co se složí u rychtáře do úschovy, což je pak povinen stranám opatrovat, z takové úschovy mu má jako jeho právo náležet a být odveden desátý peníz; a pokud by to rychtář zanedbal a ztratil, je povinen dotyčným stranám takto složené peníze nebo majetek nahradit. Nastalo-li by však, že by rychtáři takto složené a odevzdané peníze nebo majetek byly odňaty či vyrvány nepřáteli, není rychtář povinen to stranám nahrazovat.
+poznamky:
+- n: 1
+  text: |-
+    Osamocené záhlaví „Hauptleut.“ pod nadpisem v tisku (patrně zbytek či tiskový omyl předlohy před přísahou přísedících).
+- n: 2
+  text: |-
+    V tisku je před písmeny „S sollen“ omylem vsazena dřevořezová iniciála „W“ místo „E“ (zamýšleno „ES sollen“).
+- n: 3
+  text: |-
+    „So sich vor versprechen“ – zde patrně místo „verfürsprechen“, tj. které před soudem přednesou svou při či si ustanoví řečníka.
+- n: 4
+  text: |-
+    „Ein ort eins gulden“ – jeden ort = čtvrtina mince (čtvrt zlatého).

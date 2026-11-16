@@ -1,0 +1,52 @@
+id: 026r
+list: '26'
+strana: recto
+sken: 143
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Alle Prouiant so vor dem Leger oder in dem Reutter Leger verwirckt wirt / gehört dem Feldmarschalck allein zů.
+  cs: |-
+    Veškerý proviant {Prouiant}, který propadne před ležením {Leger} nebo v ležení jízdy {Reutter}, připadá samotnému polnímu maršálkovi {Feldmarschalck}.
+- typ: odstavec
+  de: |-
+    Der Marschalck gibt allen die Prouiant auff freyen Marck brengen vnd fürn / auch allen Marcatanten Compaßbriff in der Reuter leger. Welcher Marcatant mit falscher Eln / Gewicht / Maß / oder meß / im Reutter leger straff verwirckt / der gehört dem Feldmarschalckt zů straffen.
+  cs: |-
+    Maršálek vydává všem, kdo přinášejí a dovážejí proviant na svobodný trh, i všem markytánům {Marcatanten} ochranné glejty {Compaßbriff}[^1] do ležení jízdy. Kterýkoli markytán si v ležení jízdy vyslouží trest falešným loktem, závažím, dutou mírou nebo měřicí, toho přísluší potrestat polnímu maršálkovi.
+- typ: odstavec
+  de: |-
+    Der Feldmarschalck nimpt alle Stät / Schloß vnnd Flecken ein / ergeben sich welcherlei gestalt sie wöllen / er leßt jm auch an stat des Kriegsherren die Einwoner schweren / die sich in gefengknuß ergeben / nimpt er in gelübt / daruon im 67. Artickel des Obersten angezeigt wirt / wann auch ein Kriegsuolck jre Roß in einem Flecken lassen mussen / von denselben nimpt der Feldmarschalck eines welches jm gefelt / die andern sein des Obersten / wie in des Obersten 66. Artickel gehört.
+  cs: |-
+    Polní maršálek přebírá všechna města, hrady a městečka, ať se vzdají jakýmkoli způsobem; nechá také obyvatele namísto válečného pána {Kriegsherren} složit přísahu {schweren}, a ty, kdo se vzdají do zajetí, bere do slibu věrnosti, o čemž je pojednáno v 67. článku o nejvyšším veliteli. Musí-li také některý válečný lid {Kriegsuolck} zanechat v nějakém městečku své koně, vezme si z nich polní maršálek jednoho, který se mu zlíbí, a ostatní připadají nejvyššímu polnímu hejtmanovi {Obersten}, jak bylo řečeno v 66. článku o nejvyšším veliteli.
+- typ: odstavec
+  de: |-
+    Ein jeder Feldmarschalck gibt allen so Beutten im Reutter leger kauffen / als Roß / schaaff / oder rinderhafftig viehe / Paßporten daruon / deß ist mann jm den zehenden pfenning schuldig / doch ist es nit in einem ganghafftigen gebrauch / sonder mann soll sich zimlicher massen mit jm vertragen / furnemlich wann einer das viehe im Leger metzeln wolte.
+  cs: |-
+    Každý polní maršálek vydává všem, kdo v ležení jízdy kupují kořist – jako koně, ovce nebo hovězí dobytek –, průvodní listy {Paßporten}; z toho se mu dává desátý peníz, avšak není to v obecně zavedeném zvyku, nýbrž má se s ním kupec přiměřeně vyrovnat, zvláště chtěl-li by někdo ten dobytek v ležení porážet.
+- typ: odstavec
+  de: |-
+    Wann die Reutter jrrig oder streittig werden / es sei vmb Wacht / vor oder nachziehen / Beuten / Quartiern / Losament / Futerung / Prouiant oder anders / soll sie der Feldmarschalck vnderstehen zuuertragen / wann aber die Partheien jhm nicht folgen wolten / weist er sie fur den Obersten Feldhauptman vnd seine Kriegsräth / bei derselbigen Spruch den sie nach Kriegsbrauch thůn / sein sie schuldig zů bleiben.
+  cs: |-
+    Dostanou-li se jezdci do sporu nebo rozepře, ať už o stráž {Wacht}, táhnutí vpředu nebo vzadu, kořist, kvartýry {Quartiern}, ubytování {Losament}, píci, proviant či cokoli jiného, má se je polní maršálek pokusit smířit; nechtějí-li ho však strany poslechnout, odkáže je před nejvyššího polního hejtmana {Obersten Feldhauptman} a jeho válečné rady {Kriegsräth} a jejich výroku, jejž vynesou podle válečného obyčeje, jsou povinny se podřídit.
+- typ: odstavec
+  de: |-
+    Der Feldmarschalck soll von allen Reuttern Hauptleuten Zetel nemen / wieuil Reutter ein jeder vnder jm habe / vnd sie den Quartier vnd Wachtmeister vberantworten / wann sich dann der Marschalck beduncken leßt / ein Hauptman wolt im anzeigen vortheil suchen / soll er sich bei der Reutter Mustermeister erkundigen / damit jederman wache / wer derselben nicht frei ist / sonst gebiert es vnwillen / er soll ernstlich darob halten / daß die Wahtmeister die Wacht gleich lassen vmbgehn / nicht einem zweimal ehe etwan einem andern einmal ansagen / vnd wann der Marschalck solchs oder andere gefahr / bei den Wachtmeistern erfert / soll er sie gantz ernstlich straffen.
+  cs: |-
+    Polní maršálek si má ode všech hejtmanů {Hauptleuten} jízdy vzít lístky, kolik jezdců každý pod sebou má, a předat je kvartýrmistrovi a vachmistrovi {Wachtmeister}; pojme-li pak maršálek podezření, že se některý hejtman snaží při hlášení získat neoprávněnou výhodu, má se vyptat u přehlídkového komisaře {Mustermeister}[^2] jízdy, aby hlídal každý, kdo od toho není osvobozen, jinak to vyvolává nevoli. Má přísně dbát na to, aby vachmistři[^3] nechali stráž obcházet rovnoměrně a nenařizovali ji jednomu dvakrát dříve než jinému jednou; a zjistí-li maršálek u vachmistrů takovou či jinou nekalost, má je velmi přísně potrestat.
+- typ: odstavec
+  de: |-
+    Dieweil dann alhie in diser Feldmarschalcks ampts verwaltung vermelt wirt / das Francken / Schwaben / deß gleichen die Steuerer
+  cs: |-
+    Protože se zde v popisu úřadu polního maršálka uvádí, že Frankové, Švábové a stejně tak Štýřané
+poznamky:
+- n: 1
+  text: |-
+    *Compaßbriff* (glejt, průvodní a obchodní povolení) – ochranný průvodní list opravňující obchodníky a markytány k dovozu a prodeji zboží v jezdeckém ležení (srov. níže *Paßporten*).
+- n: 2
+  text: |-
+    V originále *Mustermeister* – úředník pověřený přehlídkami (mustrunkem) u jízdy, obdoba přehlídkového komisaře (*Musterherr*).
+- n: 3
+  text: |-
+    V tisku s drobnou tiskařskou chybou *Wahtmeister* (místo *Wachtmeister*).

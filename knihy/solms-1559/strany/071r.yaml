@@ -1,0 +1,50 @@
+id: 071r
+list: '71'
+strana: recto
+sken: 217
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Von den gemeinen Fendrichen.
+  cs: O řadových praporečnících {Fendrichen}.
+- typ: odstavec
+  de: |-
+    DIe Fendrich sollen bei jren fendlin bleiben/ sonderlich wann mann bei den Feinden ligt.
+  cs: |-
+    Praporečníci mají zůstávat u svých praporců {fendlin}, zvláště když se leží v blízkosti nepřátel.
+- typ: odstavec
+  de: |-
+    Ein jeder Fendrich soll sein Fendlin keinen andern tragen lassen/ er hab dann desselben gnůgsam vrsachen.
+  cs: |-
+    Žádný praporečník nemá dávat svůj praporec nést nikomu jinému, ledaže by k tomu měl dostatečné důvody.
+- typ: odstavec
+  de: |-
+    Die Fendrich sollen alßbald sie den Lermen platz erfaren denselbigen besichtigen/ damit sie bei der nacht denselben zur notturfft zufinden wissen.
+  cs: |-
+    Jakmile se praporečníci dozvědí o poplachovém shromaždišti {Lermen platz}, mají si je prohlédnout, aby je v případě potřeby dokázali najít i v noci.
+- typ: odstavec
+  de: |-
+    Die Fendrich wöllen auch Leutenant haben/ dieselbigen soll jn der Kriegherr gar nicht halten dann es ist einem herren trefflich nachteilig.
+  cs: |-
+    Praporečníci chtějí mít také poručíky {Leutenant}; ty jim však válečný pán {Kriegherr} nemá vůbec vydržovat, neboť to je pro pána značně škodlivé.
+- typ: odstavec
+  de: |-
+    Wann ein Kriegsuolck an ein paß oder wasser kompt/ daß sie daran riet haben sollen die Fendrich durch hin fallen so müssen die knecht spots halben hinnach/ gleicher gestalt sollen sie auch an stürmen vnd schlachten thůn wann das Kriegsuolck stutzt.
+  cs: |-
+    Přijde-li válečný lid {Kriegsuolck} k nějakému průsmyku nebo vodě a váhá před nimi[^1], mají praporečníci vyrazit skrz ně vpřed, takže knechti {knecht} musí pro hanbu za nimi. Stejným způsobem si mají počínat i při útocích {stürmen} a bitvách, když válečný lid zaváhá.
+- typ: odstavec
+  de: |-
+    Wann ein gantz Fendlin Knecht ein beut gewinnt hat der Fendrich toppel beut/ deßgleichen wann Rotten vnder seinem Fendlin beuten gewinnen/ wann aber eintzig Knecht beutten gewinen daruon hat er den dritten pfenning/ das geschicht der vrsach daß der Fendrich im leger bei dem Fendlin muß bleiben/ vnd auff kein Beut darff lauffen.
+  cs: |-
+    Získá-li kořist celý praporec knechtů, má praporečník dvojitou kořist; stejně tak když kořist získají roty {Rotten} pod jeho praporcem. Získají-li však kořist jednotliví knechti, z té mu náleží třetí peníz; to proto, že praporečník musí zůstávat v ležení {leger} u praporce a nesmí vybíhat za kořistí.
+- typ: odstavec
+  de: |-
+    Wann Feldweibel vnd andere die Schlachtordnung gemacht haben/ sollen die Fendrich die Ordnung besichtigen/ vnd welchem sein Fendlin nicht nach notturfft besetzt vnnd bedeckt ist/ der soll es dem Obersten oder seinem Hauptman anzeigen/ die sollen es/ wann sie den mangel finden/ zuwenden beuelhen/ Weil dann trefflich vil an einem Fendrich gelegen ist/ so sol billich der Oberst keinem ein Fendlin geben/ er sei dann des Kriegs erfarn vnd verstendig/ gleicher gestalt ist es mit allen andern Amptern im Krieg/ die soll kein Herr odder Oberster auß gunst oder freundschafft/ sonder allein nach dem verstandt vnd erfarung geben vnd beuelhen.
+  cs: |-
+    Když polní šikovatelé {Feldweibel} a jiní sestaví bitevní šik {Schlachtordnung}, mají praporečníci šik prohlédnout; a komu není jeho praporec dostatečně obsazen a kryt, má to oznámit plukovníkovi {Obersten} nebo svému hejtmanovi {Hauptman}, kteří mají – shledají-li ten nedostatek – nařídit jeho nápravu. Poněvadž pak na praporečníkovi nesmírně mnoho záleží, nemá plukovník po právu nikomu svěřovat praporec, není-li ve válce zkušený a rozumný. Stejně tak je tomu se všemi ostatními úřady ve válce: žádný pán ani plukovník je nemá udělovat a svěřovat z přízně nebo přátelství, nýbrž jedině podle rozumu a zkušenosti.
+poznamky:
+- n: 1
+  text: |-
+    V předloze „daran riet haben“ (patrně ve smyslu rozpaků či zábrany před přechodem přes překážku).

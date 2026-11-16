@@ -1,0 +1,74 @@
+id: 064v
+list: '64'
+strana: verso
+sken: 206
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd wirt billich der vrsachen halben widerrathen/ dann wann ein Hauptman wachen zuthůn/ odder sonst etwas mit seinen Knechten versehen soll/ schickt er gewonlich sein Leutenant/ dardurch wirt leichtlich etwas verwarloßt/ daß dem gantzen Leger zu nachtheil reicht.
+  cs: |-
+    a z dobrých důvodů se od toho odrazuje; neboť má-li hejtman {Hauptman} držet stráž {wachen} nebo se svými knechty {Knechten} obstarat něco jiného, posílá obvykle svého poručíka {Leutenant}, čímž se snadno něco zanedbá k újmě celého ležení {Leger}.
+- typ: odstavec
+  de: |-
+    Nachuolgend ordinarie Ampter die der gemein Man setzt/ vnd allen Monat zuentsetzen hat/ nemlich vnder jeglichem Fendlin.
+  cs: |-
+    Následují řádné úřady, které ustavuje prostý lid {gemein Man} a má právo je každý měsíc sesazovat, totiž pod každým praporcem {Fendlin}:
+- typ: seznam
+  de:
+  - Ein Fürer/
+  - zwen Weibel/
+  - ein Forierer.
+  cs:
+  - jeden vůdce {Fürer},
+  - dva šikovatelé {Weibel},
+  - jeden furýr {Forierer}.
+- typ: odstavec
+  de: |-
+    Der Oberst vber die Knecht/ hat den zehenden pfenning/ von allen beuten so die Knecht gewinnen.
+  cs: |-
+    Plukovník {Oberst} nad knechty má desátý peníz ze veškeré kořisti, kterou knechti získají.
+- typ: odstavec
+  de: |-
+    Welcher Knecht von schendlicher thatten wegen sein Eher/ leib/ vnd leben verwirckt/ das gůt was er im Leger hat/ ist dem Obersten verfallen.
+  cs: |-
+    Kterýkoli knecht pro hanebné činy propadne ctí, hrdlem i životem, majetek, který má v ležení, propadá plukovníkovi.
+- typ: odstavec
+  de: |-
+    Diser Oberst gibt den Metzlern die sein volck mit fleisch versehen/ auch den marcatanten/ welche in seim Leger vil haben potenten oder Compaßbrieffe/ daruon hat er etwas/ aber nit vil/ er soll auch gůt Ordnung in disem Artickel lassen halten/ damit als vil möglich/ das sterben verhüt werde.
+  cs: |-
+    Tento plukovník vydává řezníkům, kteří zásobují jeho lid masem, i markytánům, jichž v jeho ležení bývá mnoho, povolovací neboli průvodní listy[^1]; z toho má nějaký užitek, ne však veliký. Má také v tomto bodě dávat zachovávat dobrý řád, aby se pokud možno předešlo morové nákaze[^2].
+- typ: odstavec
+  de: |-
+    Der Oberst gibt allen Kriegsleuten/ die vnder seiner verwaltung ligen/ Pasporten/ vnd sonst one sein bewilligung niemant/ welchers darüber thůt/ der handelt vnreht vnd strefflich/ darzu wist der Oberst Veldhauptman nit wen er leut im Leger hett oder nit.
+  cs: |-
+    Plukovník vydává všem válečníkům {Kriegsleuten}, kteří jsou pod jeho správou, průvodní listy {Pasporten}, a nikdo jiný [to] bez jeho svolení [dělat nesmí]; kdo tak přesto učiní, jedná neprávem a trestuhodně, neboť jinak by nejvyšší polní hejtman {Oberst Veldhauptman} nevěděl, kdy v ležení má lidi a kdy ne.
+- typ: odstavec
+  de: |-
+    Der Oberst/ wann er die hohen vnd nidern Ampter besetzt hat/ zeigt er einem jeden im ringe an/ darmit ein jeglicher wisse/ von welchen die ämpter versehen werden sollen.
+  cs: |-
+    Jakmile plukovník obsadí vyšší i nižší úřady, oznámí to každému v kruhu {ringe}, aby každý věděl, kým mají být úřady spravovány.
+- typ: odstavec
+  de: |-
+    Der Oberst verordnet seine hauffen im zuge/ wann die Feinde nit vorhanden sein/ dergestalt/ seind der hauffen zwen/ zeuch einer einn tag vmb den andern vor/ seind aber der hauffen drei oder mehr so geht es doch mit den zügen gleich vmb/ wie sich gebürt.
+  cs: |-
+    Plukovník rozvrhuje své šiky {hauffen} na pochodu {zuge}, nejsou-li nablízku nepřátelé, takto: jsou-li šiky dva, táhne jeden před druhým střídavě obden; jsou-li však šiky tři nebo více, střídají se na pochodu stejně po řadě, jak se sluší.
+- typ: odstavec
+  de: |-
+    So aber die Feinde vorhanden sein/ macht der Oberst ein Hauffen/ der allweg zu den Feinden den vorzug/ vnnd von Feinden den nachzug hat/ darzu nimpt er nach gelegenheit der Knecht/ auß einer Rot ein/ zwen/ drei/ oder wie es jhn mit seinen Kriegsuerstendigen für notwendig ansicht/ disen heissen die Landsknecht/ den verlorn vnd etwan den lauffenden Hauffen/ die Schweitzer nennen jn die Harst.
+  cs: |-
+    Jsou-li však nepřátelé nablízku, zřídí plukovník šik, který má vždy při postupu k nepřátelům předvoj {vorzug} a při ústupu od nepřátel zadní voj {nachzug}. K tomu vybere podle počtu knechtů z každé roty {Rot} jednoho, dva, tři, nebo kolik se mu s jeho válečnými znalci zdá potřebné. Tomu říkají lancknechti {Landsknecht} ztracený houf {verlorn Hauffen} a někdy též běžící houf; Švýcaři jej nazývají harst {Harst}.
+- typ: odstavec
+  de: |-
+    Der jetzund gemelt Hauff greifft vnder den Knechten allweg die Feinde am ersten an/ gleich wie der Renfanen bei den Reuttern.
+  cs: |-
+    Právě zmíněný houf napadá u pěchoty vždy nepřítele jako první, stejně jako předvojová korouhev {Renfanen} u jezdců {Reuttern}.
+poznamky:
+- n: 1
+  text: |-
+    „Potenten oder Compaßbrieffe“ – patenty či průvodní (povolovací) listy opravňující k prodeji v táboře; v tisku též níže nedopatřením „vnreht“ místo „vnrecht“.
+- n: 2
+  text: |-
+    „Das sterben“ – hromadné umírání, mor či nakažlivá nemoc v táboře, které měl plukovník předcházet dohledem nad čistotou a kvalitou potravin.

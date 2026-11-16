@@ -1,0 +1,81 @@
+id: solms-1559
+nazev: Válečný popis a řád válečné správy
+nazev_orig: Dises Buch vnd Kriegsbeschreibung ist vermelten vnd berichten einer guten ordentlichen Kriegsregierung
+podtitul: 'nach alter Teutschen ordnung gebrauch vnd herkomen mit andern noch Büchern von aller Kriegsregierung vnd Rüstung so zu dem Krieg gehört (Das ander Buch: Beschreibung der viervndzwentzigsten Kriegßämpter)'
+autor: Reinhard hrabě ze Solmsu
+autor_zivot: 1491–1562
+vydani: Lich, vlastní tiskárna hraběte Reinharda ze Solmsu, 1559
+rok: 1559
+vd16: VD16 R 938
+katalog: VD16 R 938
+rozsah: '[1], 87 listů (Druhá kniha v rámci souborného tisku), 2°'
+jazyk_orig: raná nová horní němčina
+popis: >-
+  Druhá kniha monumentálního válečného díla říšského hraběte Reinharda ze Solmsu popisuje
+  dvacet čtyři vojenských úřadů starého německého vojenství z dob císaře Maxmiliána I.
+  (válečný pán, nejvyšší polní hejtman, polní maršálek, nejvyšší zbrojmistr, proviantní pán,
+  plukovník pěchoty, profous, soud, posádka aj.), včetně žoldů, služebních listů a artikulního listu.
+prekladatel: Pracovní překlad části knihy z Google Docs revidovaný a doplněný s pomocí LLM, 2026.
+strankovani: folio
+strany_poznamka: >-
+  Edice obsahuje hlavní titulní list svazku (sken 9) a úplnou Druhou knihu (skeny 90–248),
+  číslovanou arabskou foliací po listech (1–87): r = líc, v = rub. V řadě listů edice jsou
+  vynechána čísla 5 (rozkládací tabule na skenu 102; sken 101 je její prázdný líc), 30 (list 031r
+  na skenu 151 má v tisku číslo 30 a následující list 032r číslo 32, takže v tisku je přeskočeno
+  číslo 31), 33, 47, 51, 56, 58, 63, 68, 70 (sken 215 je prázdný líc, sken 216 celostránkový
+  dřevořez rubu 070v) a 77; listy 29, 31, 41 a 81 mají v tisku čísla 27, 30, 42 a 82, text
+  a kustody však plynule navazují.
+zdroj_textu: >-
+  Německý text je přepsán podle digitalizace Bayerische Staatsbibliothek München
+  (Rar. 986, bsb00085168) z OCR s opravami chyb podle skenů;
+
+sken:
+  instituce: Bayerische Staatsbibliothek München
+  kratce: BSB
+  portal: digitale-sammlungen.de
+  paticka: 'Sken: Bayerische Staatsbibliothek München (Public Domain Mark 1.0)'
+  signatura: Rar. 986
+  id: bsb00085168
+  urn: urn:nbn:de:bvb:12-bsb00085168-8
+  url_dilo: https://www.digitale-sammlungen.de/de/view/bsb00085168
+  url_strana: https://www.digitale-sammlungen.de/de/view/bsb00085168?page={sken}
+  url_obrazek: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00085168_{sken5}/full/{sirka},/0/default.jpg
+  licence: 'Public Domain Mark 1.0 (CC0 / volné dílo); digitalizace: Bayerische Staatsbibliothek München'
+  poznamka: >-
+    Zařazena je úvodní titulní strana svazku (sken 9) a kompletní Druhá kniha (skeny 90–248).
+    Skeny 101 a 215 jsou nepotištěné lícové strany před tabulí (sken 102) a dřevořezem praporečníka
+    (sken 216), proto se v edici vynechávají.
+
+predsadka:
+- titul-svazek
+- erb-solms
+- titul
+- titul-v
+
+poznamky_k_prekladu: |
+  ZDROJ ORIGINÁLU: německý text vychází z OCR digitalizace BSB München (`zdroje/ocr_bsb/NNNN.txt`,
+  bsb00085168), které je nutné opravovat podle stažených náhledů skenů (`sNNN.jpg`) při zachování
+  dobového pravopisu tisku (`vnd`, `auff`, `Lantsknecht`, `Prouoß`, `Reutter`). Rozdělená slova přes
+  přelom stran přesuň celá na stranu, kde končí; záhlaví (*Das ander Buch.*, *Von beschreibung der
+  24. Kriegsämpter.*), signatury archů a kustody vynech.
+
+  STRUKTURA NADPISŮ:
+  - uroven: 1 = hlavní titulní listy (`titul-svazek`, `titul`).
+  - uroven: 2 = hlavní kapitoly válečných úřadů a řádů (např. *Oberster Kriegsherr*, *Oberster
+    Feldhauptman*, *Von des Feldmarschalcks ampt*, *Von dem obersten Zeugmeister Ampt*, *Oberst
+    Prouiantherr*, *Oberster vber alle Reutter*, *Von des Oberster ampt vber das Fußuolck*,
+    *Artickelsbriff der Lantsknecht*, *Ordnung einer Besatzung*, *Gerichtsordnung der Lantsknecht*).
+  - uroven: 3 = podkapitoly a dílčí oddíly (*Vom Obersten Prouofen ampt*, *Von der Lantskneckt
+    Hauptleut*, *Commis Ordnung* atd.).
+
+  TERMINOLOGIE (sjednocena s `fronsberger-1564/glosar.yaml`):
+  - *Spieß* → `píka`; *Schlange / Notschlange / halbe Schlange* → `kulverina` / `těžká kulverina` /
+    `poloviční kulverina`; *Polwerck / Bollwerck* → `bolverk`; *Feldmarschalck* → `polní maršálek`;
+    *Prouoß / Profoß* → `profous`; *Wachtmeister* → `vachmistr`; *Quartiermeister* → `kvartýrmistr`;
+    *Forierer / Fourier* → `furýr`; *Fürer* → `vůdce`; *Hurnweibel* → `šikovatel trénu`; *Trabant* →
+    `drabant`; *Steckenknecht* → `profousův pacholek`; *Stockmeister* → `žalářník`;
+    *Nachrichter / Scharpffrichter* → `kat`; *Feldscherer* → `ranhojič`; *Prouiantmeister* →
+    `proviantmistr`; *Lantsknecht* → `lancknecht`; *Doppelsöldner / Toppelfoldner* → `dvojžoldnéř`;
+    *Renfanen / Rennfahne* → `předvojová korouhev`; *Bestallung / Bestelbrieff* → `služební list`;
+    *Prouiantherr* → `proviantní pán`; *Wagenburgmeister* → `mistr vozové hradby`; *Commis* → `komis`;
+    *Harst* → `harst`; *Marzel* → `marcel`.

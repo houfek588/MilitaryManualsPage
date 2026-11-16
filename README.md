@@ -28,6 +28,7 @@ nastroje/
   dta_strany.py             rozdělení přepisu Deutsches Textarchiv (TEI) po stranách → zdroje/dta/NNNN.txt
   import_lavater.py         jednorázový import pracovního překladu Lavatera (.md)
   import_bern.py            jednorázový import pracovního překladu Bernské příručky (.md)
+  import_solms.py           jednorázový import a příprava stran Solmse (.md + hOCR BSB)
   over_strany.py            kontrola dat (struktura, párování, poznámky, terminologie)
   odkazy_rytiny.py          Lavater: označení odkazů na mědirytiny v překladu značkou [[tab-NN|text]]
   odkazy_strany.py          označení odkazů na čísla stran („Čti s. 5“) značkou [[id|text]] (knihy se stránkováním)
@@ -60,8 +61,9 @@ Pořadí stran určuje pole `sken` (číslo snímku). V `kniha.yaml` nastav `str
 a údaje o skenech (`sken.url_strana`, `sken.url_obrazek` s {sken}/{sken4}/{sken5}/{sirka}, `sken.paticka`).
 
 Knihy: `fronsberger-1564` (Fronsperger, Kriegs Ordnung vnd Regiment, sken BSB), `lavater-1651`
-(Lavater, Kriegs-Büchlein, Curych 1651; německý text z přepisu Deutsches Textarchiv, CC BY-SA 4.0) a `bern-1615`
-(Město Bern, Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung, Bern 1615; sken UB Bern / e-rara).
+(Lavater, Kriegs-Büchlein, Curych 1651; německý text z přepisu Deutsches Textarchiv, CC BY-SA 4.0), `bern-1615`
+(Město Bern, Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung, Bern 1615; sken UB Bern / e-rara)
+a `solms-1559` (Reinhard hrabě ze Solmsu, Kriegsbeschreibung – Das ander Buch, Simmern 1559; sken BSB).
 
 ## Web
 - čtení po **kapitolách** (`#/kap/<id>`) i po **stranách tisku** (`#/strana/018r`), šipky ← → listují,
@@ -89,3 +91,4 @@ Při zvýšení vyššího čísla se nižší nulují (1.2.3 → 1.3.0 → 2.0.
   München, 2 Polon. 9#Beibd.1, [bsb00045899](https://www.digitale-sammlungen.de/de/view/bsb00045899) (úplný sken; starší digitalizace bsb10150061 a Google Books vynechávají listy XXXVIII v–XXXIX r, LVIII v–LIX r a LXVIII v–LXIX r) – rightsstatements.org NoC-NC 1.0.
   Tentýž exemplář je v [Google Books](https://books.google.cz/books?id=7aBMAAAAcAAJ).
 - Město Bern (připisováno Valentinu Friderichovi), *Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung*, Bern (Abraham Weerli) 1615. Sken: Universitätsbibliothek Bern, `MUE Rar alt 559`, [e-rara 2050509](https://www.e-rara.ch/bes_1/content/titleinfo/2050509) / [DOI 10.3931/e-rara-7750](https://doi.org/10.3931/e-rara-7750) – Public Domain Mark.
+- Reinhard Graf zu Solms, *Dises Buch vnd Kriegsbeschreibung ... Das ander Buch* (Beschreibung der viervndzwentzigsten Kriegßämpter), Simmern 1559 (VD16 R 938). Sken: Bayerische Staatsbibliothek München, Rar. 986, [bsb00085168](https://www.digitale-sammlungen.de/de/view/bsb00085168) – rightsstatements.org NoC-NC 1.0.

@@ -1,0 +1,37 @@
+id: 017v
+list: '17'
+strana: verso
+sken: 126
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Kein Oberster soll sich on gehabten Rath mit den Feinden schlagen / er werd dann (wie gehört) darzů getrungen / oder gleich / wie am anfang gemelt / volmechtigen gewalt het / angesehen / daß ein verstendiger Oberster / auß erfarner Kriegsleut rath / vil finden mag / daß jm zur schlacht dienstlich were.
+  cs: |-
+    Žádný nejvyšší velitel {Oberster} se nemá bít s nepřáteli bez předchozí porady, ledaže by k tomu byl (jak řečeno) přinucen, i kdyby měl, jak na počátku zmíněno, plnou moc; neboť rozumný nejvyšší velitel může z rady zkušených válečníků {Kriegsleut} najít mnoho toho, co by mu bylo pro bitvu prospěšné.
+- typ: odstavec
+  de: |-
+    Wann dann der Oberster (wie gehört) schlagen wil oder muß / sol er selbst sampt allen hohen ämptern / haupt vnd beuelchsleuten / tröstlich dem Kriegsuolck mit etlichen ermanungen zusprechen / sich alle sampt mannlich zuhalten vnnd zu erzeigen / dardurch sonder zweifel ein jeglich gemein Kriegsuolck ein vnerschrocken hertz empfecht.
+  cs: |-
+    Když pak nejvyšší velitel (jak řečeno) chce nebo musí bojovat, má sám spolu se všemi vysokými úředníky, hejtmany a veliteli {beuelchsleuten} povzbudivě promluvit k válečnému lidu {Kriegsuolck} a několika napomenutími jej vyzvat, aby si všichni společně počínali a ukázali se mužně, čímž bezpochyby každý prostý válečný lid nabude neohroženého srdce.
+- typ: odstavec
+  de: |-
+    Sobald aber der Oberst alle hauffen zum treffen verordenet hat / soll er mit allem Kriegsuolck (wie vnsere alte Christliche Kriegsleut auch gepflegt den Allmechtigen Gott / durch den süssen namen Jesu / vmb gnad / sieg vnd vberwindung anrůffen / ein Vatter vnser vnnd Aue Maria sprechen oder betten / damit der gnaden vnnd hilff / so er den jenigen / die jn in der not darumb anrůffen / zubeweisen versprochen / nit vergessen werd / vnd sol dabei das plündern biß zu ende der Schlacht / bei dem leben verbieten.
+  cs: |-
+    Jakmile však nejvyšší velitel seřadil všechny houfy {hauffen} k boji, má s veškerým válečným lidem (jak to činívali i naši staří křesťanští válečníci) vzývat všemohoucího Boha pro sladké jméno Ježíšovo o milost, vítězství a přemožení nepřítele a odříkat či pomodlit se Otčenáš a Zdrávas Maria, aby se nezapomnělo na milost a pomoc, kterou Bůh slíbil prokázat těm, kdo jej o ni v tísni vzývají; a zároveň má pod trestem smrti zakázat plenění až do konce bitvy.
+- typ: odstavec
+  de: |-
+    Der Oberst soll allweg vor der Schlacht zwen oder drei tag / dem Kriegsuolck anzeygen / wann er in der Handlung gefangen / erschossen oder erschlagen würde / die nach jm die Obrigkeit zuuerwalten hetten / dieselben mit namen nennen / der soll der erst / diser der ander / jener der dritt sein / damit das Kriegsuolck zuuersichtiglich inn der Schlacht nit on ein haupt sei / angesehen / das auß mangel eins haupts gar leichtlich die schlacht verlorn wirt / deren vnd vil anderer trefflichen vrsachen halben ist ein jeder Oberster bei verlierung seiner ehren lebendig oder todt / biß zu ende der Schlacht auff der Waldstatt zu bleiben schuldig.
+  cs: |-
+    Nejvyšší velitel má vždy dva nebo tři dny před bitvou oznámit válečnému lidu, kdo by měl po něm spravovat nejvyšší velení, kdyby byl v boji zajat, zastřelen nebo zabit, a jmenovat je jménem – tento má být první, onen druhý a tamten třetí –, aby válečný lid v bitvě nezůstal bez hlavy a neztratil důvěru, neboť z nedostatku vůdce se bitva velmi snadno prohraje. Z těchto a mnoha dalších závažných příčin je každý nejvyšší velitel pod ztrátou své cti povinen zůstat živý či mrtvý na bojišti až do konce bitvy.
+- typ: odstavec
+  de: |-
+    Der Oberst sampt den andern Haupt vnd Beuelchsleuten / so die geordneten hauffen zu roß vnd füß füren / sollen mit grossem fleiß acht haben / welcher Hauff im treffen not leit / daß mann demselben / ehe er getrent / hindersich getrungen / oder gar in die flucht geschlagen werd / zu hilff kom / dann wann ein solliches vbersehen wirdt / erfolgt etwan ein flucht des gantzen hauffen darauff.
+  cs: |-
+    Nejvyšší velitel spolu s ostatními hejtmany a veliteli, kteří vedou seřazené houfy jízdy i pěchoty, mají s velikou pilností dávat pozor, který houf trpí v boji nouzi, aby se mu přispělo na pomoc dříve, než bude rozražen, zatlačen zpět anebo docela obrácen na útěk; neboť když se něco takového přehlédne, následuje po tom nezřídka útěk celého houfu.
+- typ: odstavec
+  de: |-
+    So aber Gott den sieg einem Obersten verleihet / daß seine Feinde vor jm fliehen / Alßdann soll er den Renfanen den lauffenden hauffen zu roß vnd füß / wie jn für notwendig ansicht / den Feinden nach eilen lassen / vnd er mit den vberigen ordenungen zu roß vnnd füß / doch fürderlichst als mit ordnung geschehen kan / sampt seinem Feld Geschütz vnd Volck den Feinden nachziehen / ob sich die Feind in der
+  cs: |-
+    Udělí-li však Bůh nejvyššímu veliteli vítězství, takže jeho nepřátelé před ním prchají, tehdy má nechat předvojovou korouhev {Renfanen} a útočné pohyblivé houfy jízdy i pěchoty, jak uzná za nutné, za nepřáteli spěchat, a sám má s ostatními šiky {ordenungen} jízdy i pěchoty, co nejrychleji to v řádu lze, spolu se svými polními děly {Feld Geschütz} a lidem táhnout za nepřáteli, kdyby se nepřátelé na

@@ -1,0 +1,31 @@
+id: 032v
+list: '32'
+strana: verso
+sken: 154
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Zum achten / soll er alle vnordnung / so er sehen wirt / verkommen / vnd denen so dasselbig zu regiern gebürt / anzeigen.
+  cs: |-
+    Za osmé má předcházet každému nepořádku, jejž spatří, a oznamovat jej těm, jimž přísluší jej napravovat.
+- typ: odstavec
+  de: |-
+    Zum neunden / soll er allen abent zů dem Obersten kommen / jn befragen ob er seiner bedürfftig sei etwas zuuersehen / vnnd hett er für sich etwan mangel / der dem Obersten not anzuzeigen were / soll er es auch thůn.
+  cs: |-
+    Za deváté má každý večer přijít k nejvyššímu veliteli {Obersten} a zeptat se jej, zda ho nepotřebuje k obstarání něčeho; a měl-li by sám nějaký nedostatek, který by bylo třeba nejvyššímu veliteli oznámit, má tak rovněž učinit.
+- typ: odstavec
+  de: |-
+    Zum zehenden / so ein Leger auffbrechen vnd fortziehen wil / soll er wol zuuor auff sein / vorziehen vnd auff halten daß niemand fürziehe / sonder die Forierer vnd andere verordnete / vnd was ausserhalb der verordneten kompt / soll er wider zu rück treiben / Darzů soll jm von allen Nationen odder Sprachen zugeordnet werden / die jhm dazů helffen / da soll er so lang halten bleiben / biß der für zug wol für kompt / Alßdann soll er sich mit seinen zugeordneten Personen theilen auff beide seiten / vnnd versehen daß niemand neben den Ordnungen sich eintringe / vnd die verhinder / es seien von reittenden / gehenden / farenden / auch Wagen / Karn oder Esel / sonder dieselbigen treiben an die ende vnd ort / da sie hin gehörn oder verordnet seind. Er soll auch versehen / daß die Munition vnnd auch die anderen Wagen für sich gehn / ein jedes an seinem ort bleib vnd fare da es hin verordnet ist / damit keines für das ander fare oder einbreche / anderst dann jhm gebürt / Also soll er das feld oder den zug vornemen / neben vnd hinden mit zuuersehen.
+  cs: |-
+    Za desáté, když se chce ležení {Leger} zvednout a táhnout dál, má být dlouho předem vzhůru, vytáhnout napřed a zadržet každého, aby nikdo netáhl před vojsko kromě furýrů {Forierer} a jiných pověřených osob; a každého, kdo přijde mimo pověřené osoby, má zahnat zpět. K tomu mu mají být přiděleni lidé ze všech národů či jazyků, kteří mu při tom pomohou; tam má zůstat stát tak dlouho, dokud předvoj {für zug} řádně neprojde. Potom se má se svými přidělenými lidmi rozdělit na obě strany a dohlédnout, aby se nikdo netlačil vedle šiků {Ordnungen} a nepřekážel jim – ať už jde o jezdce, pěší, povozy, vozy, káry či osly –, nýbrž aby je zaháněli na místa, kam náležejí nebo kam jsou určeni. Má také dohlédnout na to, aby munice {Munition} i ostatní vozy jely vpřed, každý zůstal na svém místě a jel tam, kam je určen, aby žádný vůz nepředjížděl druhý ani se nevlamoval jinak, než jak mu přísluší; takto má zabezpečovat pole či pochod vpředu, po stranách i vzadu.
+- typ: odstavec
+  de: |-
+    Zum letsten soll mann jhm zu allem dem / das er zuuersehn hat / ein jedes nach seinem werdt / Leut oder Personen gehalten werden.
+  cs: |-
+    Konečně se mu má ke všemu tomu, co má obstarávat, vydržovat podle významu každé věci potřebný počet lidí či osob.
+- typ: nadpis
+  uroven: 2
+  de: Nun volget der oberst Prouiantherr.
+  cs: Nyní následuje nejvyšší proviantní pán {oberst Prouiantherr}.

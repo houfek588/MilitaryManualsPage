@@ -1,0 +1,54 @@
+id: 036v
+list: '36'
+strana: verso
+sken: 160
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    kommen / die dardurch also ein vngeschicklicheit vnd beschwerung machen / das zu vnzeiten kompt vnd gebraucht wirt / also das einmal zuuil kompt / daß die nicht mag bezalet vnd verbraucht werden / vnd also verdirbt des vberfluß halben.
+  cs: |-
+    kteří tím způsobují takový nepořádek a obtíže, že proviant přichází a spotřebovává se v nepravou dobu – takže ho jednou přijde příliš mnoho, až jej nelze zaplatit ani spotřebovat, a tak se pro nadbytek zkazí.
+- typ: odstavec
+  de: |-
+    Vnd für das erst / so wil ich theilen vnnd ordnen / die maß vnnd schwere des brots / was einem Menschen zu seiner leibs notturff einn tag soll zugeordnet werden / vnd dasselbig in ein gewicht / zale / vnnd maß / der schwere des brots / vnd zů rück das Korn darzů / auff solche summa des brots gerechnet / vnd alßdann das Fleysch vnd Füterung der Roß.
+  cs: |-
+    A za prvé chci rozdělit a stanovit míru a váhu chleba, co se má jednomu člověku k jeho tělesné potřebě přidělit na jeden den, a převést to na váhu, počet i míru podle tíže chleba, a zpětně na to napočítat potřebné obilí k takovému množství chleba, a poté maso a píci pro koně.
+- typ: odstavec
+  de: |-
+    Item zugedencken / daß ein Herr der Kriegsuolck schickt / die hauffen theile / vnd laß das nach einander ziehen / vnd einem jeden hauffen einen zugebe / der die Prouiant gelieffert neme / oder bei der Prouiant stehe mit seines Herrn gewanden / an einem auffgesteckten Fendlin mit seinem prouosen.
+  cs: |-
+    Dále je třeba pamatovat na to, aby pán, který posílá válečný lid {Kriegsuolck}, rozdělil houfy {hauffen} a nechal je táhnout za sebou, a každému houfu přidal někoho, kdo bude přebírat dodávaný proviant {Prouiant}, anebo bude u proviantu stát s pověřenci svého pána[^1] pod vztyčeným praporcem {Fendlin} spolu se svým profousem {prouosen}.
+- typ: odstavec
+  de: |-
+    Welcher gestalt ein grosse anzal Kriegsuolck mit Prouiant / nach notturfft versehen vnd erhalten soll werden / volgt hernach.
+  cs: |-
+    Jakým způsobem má být velké množství válečného lidu podle potřeby zaopatřováno a vydržováno proviantem, následuje níže.
+- typ: odstavec
+  de: |-
+    Zum ersten / soll einer von der Herrschafft / der ein ehrlich / auffrichtig / glaubhafftig man sei / zu einem obersten Prouiantherrn geordnet sein / vnnd auff denselbigen alle Prouiantmeister beschieden werden / auch on des rath / wissen vnd willen nichts handeln / noch endern sollen / sonder grosse / eillende / zufallende not / daß der prouiantherr nicht zu erlangen sein möcht.
+  cs: |-
+    Předně má být od vrchnosti ustanoven jeden muž, jenž je čestný, poctivý a věrohodný, za nejvyššího proviantního pána {Prouiantherrn}, a na něj mají být odkázáni všichni proviantmistři {Prouiantmeister}, kteří také bez jeho rady, vědomí a vůle nemají nic činit ani měnit, leda ve velké, naléhavé a nahodilé nouzi, kdy by proviantní pán nebyl k zastižení.
+- typ: odstavec
+  de: |-
+    Item / ich will erstlich theilen die prouiantmeister / auff die hundert tausent man / wieuil der sein sollen.
+  cs: |-
+    Dále chci nejprve rozdělit proviantmistry na sto tisíc mužů, kolik jich má být.
+- typ: odstavec
+  de: |-
+    So will ich allwegen auff 500. man / einn geordneten prouiantmeister von demselbigen Hauffen / einen achten / das ist einem jeden Fendlin einer der soll darauß genommen werden / es sei gleich zu roß oder zu fůß / der weren auff hundert tausent man 200. die můsten nun nach einander ordenlich geschrieben werden / wie sich das eigent / vnd daß dergleichen würde durch die / denen das zuordnen zustehet / wie sie dann nach einander geordnet werden / also soll die prouiant auch mit dem außgeben nach gehn / inn der Ordnung wie das hernach kommen wirt.
+  cs: |-
+    Budu tedy vždy počítat na 500 mužů jednoho ustanoveného proviantmistra z téhož houfu – to jest z každého praporce má být vzat jeden, ať už u jízdy nebo u pěchoty; těch by bylo na sto tisíc mužů 200. Ti by pak museli být po sobě řádně zapsáni, jak se sluší, a totéž nechť vykonají ti, kterým přísluší je ustanovovat; a v jakém pořadí budou zapsáni za sebou, v takovém má pak jít i výdej proviantu, v tom řádu, jak bude uveden níže.
+- typ: odstavec
+  de: |-
+    Daß ich 200. prouiantmeister gerodnet hab / mocht wol gesagt werden / der seien zuuil / ist wol war / jhrer seind zuuil / ich thů es aber vmb gůter Ordnung vnd eintrechtigkeit willen / damit es ordenlich vnnd gleich zugehe / daß einem geschehe als dem andern / damit keiner sich zubeklagen / es gehe vngleich zů / vnd dardurch Meuterei vnd auffrůr gemacht werde / wie offt geschicht / das groß Lermen vber die prouiant
+  cs: |-
+    Že jsem nařídil[^2] 200 proviantmistrů, mohlo by se snadno namítnout, že je jich příliš mnoho – je to věru pravda, je jich mnoho; činím to však pro dobrý řád a svornost, aby to šlo řádně a stejně, aby se jednomu dělo stejně jako druhému, aby si nikdo nemohl stěžovat, že se to děje nespravedlivě, a aby kvůli tomu nevznikala vzpoura {Meuterei} a pozdvižení, jak se často stává, že kvůli proviantu veliké poplachy {Lermen}
+poznamky:
+- n: 1
+  text: |-
+    „mit seines Herrn gewanden“ – pravděpodobně ve smyslu „Zugewandte / Gewandte“ (pánovi pověřenci, lidé k němu náležející), případně „v pánových barvách/oděvu“.
+- n: 2
+  text: Tisk má přesmyčku „gerodnet“ místo „geordnet“.

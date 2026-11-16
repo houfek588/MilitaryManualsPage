@@ -1,0 +1,58 @@
+id: 078v
+list: '78'
+strana: verso
+sken: 230
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Einem jeden Hauptman wirt auff fünfftig pferdt ein Rotmeister zugelassen/ derselbig Rotmeister soll ein kürisser sein/ vnd darumb ein Kürisser als obsteht doppel sold haben/ vnd darzů von des Rotmeisters ambs wegen den Monat 24. gulden/ vnd sollen bezalt werden je 60. kreutzer oder 15. batzen vnd dergleichen werung für ein gulden.
+  cs: |-
+    Každému hejtmanovi {Hauptman} se na padesát koní povoluje jeden rotmistr {Rotmeister}. Týž rotmistr má být kyrysníkem {kürisser}, a proto má mít jako kyrysník dvojitý žold {doppel sold}, jak stojí výše, a k tomu z titulu úřadu rotmistra[^1] 24 zlatých {gulden} měsíčně; a za jeden zlatý se má platit po 60 krejcarech nebo 15 bacenech {batzen} či v obdobné měně.
+- typ: odstavec
+  de: |-
+    Item sie sollen gemustert werden/ daselbst soll jnen jr besoldung von stund nach der Musterung an gehn/ vnd ein Monat sold also bar auff die handt gegeben/ vnd also von Monat zu Monat gemustert vnd bezalt werden/ auch solliche Bezallung widerumb weren biß auff dieselb Malstat.
+  cs: |-
+    Dále: mají být přehlédnuti {gemustert}; tamtéž jim má jejich žold {besoldung} začít běžet ihned po přehlídce {Musterung} a jeden měsíční žold jim má být vyplacen v hotovosti na ruku; a tak mají být měsíc co měsíc přehlíženi a vypláceni, a toto vyplácení má opět trvat až po totéž shromaždiště[^2].
+- typ: odstavec
+  de: |-
+    Es sollen auch für den anzug der Reutter auff dem Musterplatz jedem des tags zwentzig kreutzer oder ein dicken pfenning oder 5. batzen auff ein pferdt das jhn gemustert wirdt/ gegeben werden/ vnnd so die Reuter nach der Musterung anziehen/ sollen sie alle tag 4. meil wegs reitten/ vnd den fünfften tag stilligen.
+  cs: |-
+    Rovněž se má na cestu jezdců {Reutter} na přehlídkové místo {Musterplatz} dávat každému dvacet krejcarů, nebo jeden tlustý peníz {dicken pfenning}, anebo 5 bacenů denně na každého koně, který je jim při přehlídce přijat; a když jezdci po přehlídce vytáhnou, mají každý den ujet 4 míle {meil} cesty a pátý den odpočívat.
+- typ: odstavec
+  de: |-
+    Item Trometer/ Forirer/ Schreiber/ Schimdt vnd Tholmetsch soll jr jedem toppel sold gegeben werden.
+  cs: |-
+    Dále: trubač {Trometer}, furýr {Forirer}, písař {Schreiber}, kovář[^3] a tlumočník {Tholmetsch} mají každý dostávat dvojitý žold.
+- typ: odstavec
+  de: |-
+    Item was von Stäten/ Märcken/ Fecken/ Schlossen vnd Dörffern gewunnen oder sonst begnadet werden/ die sollen Keyserlicher Maiestat zustehen/ vnd sich die Reutter deren nicht wider annemen oder vnderziehen.
+  cs: |-
+    Dále: cokoli bude dobyto nebo jinak na milost přijato z měst, trhových míst, městeček[^4], zámků a vesnic, to má připadnout císařskému Veličenstvu a jezdci si to nesmějí opět přivlastňovat ani pod sebe zabírat.
+- typ: odstavec
+  de: |-
+    So auch einige Herren/ Hauptleut/ oder Beuelchaber nider legen/ sollen sie zu Keyserlicher Maiestat henden gestelt/ doch zu quittung vnd ledigung jres gleichen Hauptleut vnd Beuelchaber/ so von derselben seiten nider gelegt würden/ vnd so auß dem hauffen deren so dieselben Hauptleut nider geworffen gleichmessig gefangen weren/ sollen die erstlich vnd vor andern mit denselben geledigt werden/ doch mit vorbehalt dem jenigen der solchen gegrieffen hett/ wie gewonlich Pferdt vnd Harnisch was er bei jm hat/ sein ist/ sampt einer zimlichen verehrung von Keyserlicher Maiestat/ was aber sonst Rittermessig oder Reissig gefangen werden/ die sollen der Reutter Hauptleut so sie nider geworffen zu handen gestelt werden/ andere gefangen von den jren damit zuledigen/ was aber Bürger/ Kauffleut Baurn oder dergleichen personen Gefangen/ die mag ein jeder nach seinem nutz schetzen/ damit thůn vnd handlen nach seinem gefallen/ doch so der von jemants ledig gelassen/ soll er das zuuor seinem Obersten anzeigen.
+  cs: |-
+    Byli-li by také zajati nějací páni, hejtmani či velitelé {Beuelchaber}, mají být vydáni do rukou císařského Veličenstva, avšak k vykoupení a propuštění jim rovných hejtmanů a velitelů, kteří by byli zajati z naší strany; a byl-li by někdo zajat ze šiku {hauffen} těch, kteří tyto hejtmany přemohli, má být s nimi vykoupen nejprve a přede všemi ostatními – s výhradou, že tomu, kdo takového zajal, patří podle obyčeje kůň a zbroj {Harnisch}, které má zajatec u sebe, spolu se slušnou odměnou od císařského Veličenstva. Budou-li však jinak zajati muži rytířského stavu či zbrojní jezdci {Reissig}, mají být odevzdáni do rukou hejtmanů těch jezdců, kteří je přemohli, aby jimi vykoupili jiné zajaté ze svých řad. Budou-li však zajati měšťané, kupci, sedláci či podobné osoby, může si je každý ocenit ke svému užitku a naložit s nimi a jednat podle své libosti; propustí-li však někoho z nich na svobodu, má to předem oznámit svému plukovníkovi {Obersten}.
+- typ: odstavec
+  de: |-
+    Der gespalten rindt füß/ souil die Reutter des gewinnen soll jnen zu stehn vnd bleiben/ doch dem Obersten sein gerechtigkeit daran vorbehalten.
+  cs: |-
+    Hovězí a spárkatý dobytek[^5], kolik jej jezdci získají, má jim náležet a zůstat, avšak právo plukovníka na podíl zůstává vyhrazeno.
+poznamky:
+- n: 1
+  text: |-
+    V tisku „ambs“ místo „ampts“ (vypuštěné t).
+- n: 2
+  text: |-
+    „Malstat“ – zde přehlídkové shromaždiště, na něž jezdci nastoupili a na kterém mají být po tažení zase vyplaceni a propuštěni.
+- n: 3
+  text: |-
+    V tisku přesmyčka „Schimdt“ za „Schmidt“.
+- n: 4
+  text: |-
+    V tisku tisková chyba „Fecken“ místo „Flecken“ (městečka, trhové vsi).
+- n: 5
+  text: |-
+    Doslova „rozpolcená hovězí noha“ („Der gespalten rindt füß“), tedy sudokopytný dobytek (skot, ovce, kozy).

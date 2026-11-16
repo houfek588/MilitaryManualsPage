@@ -1,0 +1,28 @@
+id: 014r
+list: '14'
+strana: recto
+sken: 119
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    des Kriegs zuuersehen vnnd zubesetzen / nach dem verstandt vnnd tugent.
+  cs: válečné zastávat a obsazovat podle rozumu a ctnosti.
+- typ: odstavec
+  de: |-
+    Welche sich aber inn jhren Kriegsämptern vbel halten / vnnd eygen nützig sein / vnd nicht inn dem jr ehr / jhres Herren vnnd den gemeynen nutzen / für den geitz setzen vnd bedencken / So soll ein Herr dieselbigen offenbarlich vorstellen / vnd nach jhrem verdienst straffen lassen.
+  cs: |-
+    Kteří si však ve svých válečných úřadech počínají zle a jsou zištní a v tom všem nekladou svou čest, prospěch svého pána a obecné blaho před chamtivost a nemyslí na ně, ty má pán veřejně postavit před soud a dát potrestat podle jejich zásluh.
+- typ: odstavec
+  de: |-
+    Wo also Ewer Römische Keiserliche Maiestat / würde vnderscheid halten / vnd einen jeglichen nach seiner gebüre vnnd wolhaltung begnaden / vnd die sich nicht wol halten / nach jhrer gebür straffen / wie die Römer vnnd andere alte Kriegsleut gethan haben / so würde Ewer Römische Keyserliche Maiestat auch wider gůte ehrliche leut ziehen / vnd der mißhandlung abkommmen etc.
+  cs: |-
+    Bude-li tedy Vaše římské císařské Veličenstvo takto rozlišovat a každého podle jeho zásluh a řádného chování obdařovat milostí, a ty, kdo se nechovají dobře, podle zásluh trestat, jak to činili Římané a jiní staří válečníci {Kriegsleut}, pak si Vaše římské císařské Veličenstvo opět vychová dobré, čestné lidi a zbaví se nepravostí atd.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Volgt von dem obersten Feldhauptman / was demselbigen zugehört / seine gerechtigkeit / auch was er inn jeder Kriegsübung zuhandeln schuldig ist.
+  cs: |-
+    Následuje o nejvyšším polním hejtmanovi {obersten Feldhauptman}, co mu náleží, jaká jsou jeho práva a také co je povinen konat při každém válečném podniku

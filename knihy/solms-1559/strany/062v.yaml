@@ -1,0 +1,33 @@
+id: 062v
+list: '62'
+strana: verso
+sken: 204
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Ein jeder Fendrich soll allweg seinen Fanen an Feinden fliegen lassen / vnd jn selbst fůren / es hab dann treffliche / vnwidersprechliche vrsachen / der doch wenig sein.
+  cs: |-
+    Každý praporečník {Fendrich} má vždy nechat svou korouhev {Fanen} proti nepřátelům vlát a vést ji sám, ledaže by měl závažné a nezvratné důvody, jakých však bývá málo.
+- typ: odstavec
+  de: |-
+    Wann mann mit den Feinden schlecht / weil die handlung wert / soll kein Fendrich seinen fanen sencken / sonder auffrichtig / so lang er kan oder mag / fůrn / Vnd sprechen die alten verstendigen Kriegsleut / wann ein Fendrich 100. Feinde eins stichs erstechen möchte / soll er dannoch den fanen auffrichtig behalten / angesehen / wann das zeichen fellt / weiß niemant auff wen er soll warten / Wann ein Fendrich durch das geschütz oder sonst zu grund geht / soll der nechst bei jm den fanen ergreiffen / vnd jn auffrichtig in aller höhe fůren.
+  cs: |-
+    Když se bojuje s nepřáteli, dokud střet trvá, žádný praporečník nemá svou korouhev sklánět, nýbrž ji má nést vztyčenou, jak jen dlouho může a dokáže. A staří zkušení válečníci {Kriegsleut} říkají, že i kdyby praporečník mohl jedním bodnutím probodnout sto nepřátel, má přesto udržet korouhev vztyčenou, vzhledem k tomu, že padne-li znamení, nikdo neví, na koho má hledět. Padne-li praporečník střelou z děla {geschütz} nebo jinak, má se korouhve chopit ten, kdo je nejblíže u něj, a nést ji vztyčenou co nejvýše.
+- typ: nadpis
+  uroven: 3
+  de: Von der Reuter Hauptleut Leutenant.
+  cs: O poručíkovi {Leutenant} hejtmanů {Hauptleut} jízdy {Reuter}
+- typ: odstavec
+  de: |-
+    WAs eins Reutter Hauptmans Leutenant schuldig ist / wirdt durch des Obersten Leutenants Ampt wol angezeigt. Was auch den andern Beuelchleuten / Toppelsoldnern vnd den Hauptleuten zugehört / als Caplan / Schreiber / Trometer / Forierer / Feld arzt / ist so offenbar / das es derhalben gar kans anzeigens bedarff. Noch ist ein Ampt zu roß im Krieg / heißt der Rhumormeister / es wirdt aber doch wenig oder selten gebraucht / vnd hat die gestalt / wann ein Kriegsuolck zu roß also vngezogen vnd vngehorsam wirt / daß nicht in der Ordnung bleiben / sonder für / neben / nach sudeln mausen vnnd kisten fegen / so macht der Feldmarschalck / doch auß beuelch des Obersten / ein Hauptman / dem gibt er von allen hauffen Reutter zů / die streiffen vornen / neben / hinden / vnd wo sie die Meußköpff finden oder ersehen / jagen sie dieselben in die ordnung / stechen sie herab / vnd soll derselbig / Hauptman allweg die Reutter an die heben / die vnder einem Hauptman ligen / so dürffen sie mit denselben nit zörnen / dann jr Hauptman hat sie deßhalben dahinn geordnet / doch soll ein jeder Hauptman seine Reutter trewlich neben seinem Gebott darfür warnen.
+  cs: |-
+    Čím je povinen poručík hejtmana jízdy, to je zřetelně ukázáno na úřadu nejvyššího poručíka {Obersten Leutenants}. Co také náleží ostatním velitelům {Beuelchleuten}, dvojžoldnéřům {Toppelsoldnern} a těm, kdo patří k hejtmanům – totiž kaplan {Caplan}, písař {Schreiber}, trubač {Trometer}, furýr {Forierer}, polní lékař {Feld arzt} –, je tak zjevné, že to vůbec nepotřebuje žádného výkladu. Ještě je však u jízdy ve válce jeden úřad, který se nazývá rumormistr {Rhumormeister}[^1], užívá se však málo či zřídka; a má takovouto povahu: když válečný lid {Kriegsuolck} na koni natolik zpustne a stane se neposlušným, že nezůstává v šiku {Ordnung}, nýbrž vpředu, po stranách i vzadu se toulá, krade a vymetá truhly {kisten fegen}, tehdy ustanoví polní maršálek {Feldmarschalck} – avšak z rozkazu nejvyššího velitele {Obersten} – jednoho hejtmana, přidělí mu jezdce ze všech houfů {hauffen}, ti pak objíždějí vpředu, po stranách i vzadu, a kde najdou nebo spatří záškodníky a zlodějíčky[^2], ženou je zpět do šiku a srážejí je z koní. A tentýž hejtman má proti nim vždy nasadit jezdce, kteří leží pod některým [z jejich] hejtmanů, aby se na ně nemohli zlobit, neboť je tam za tím účelem poslal jejich vlastní hejtman; přesto však má každý hejtman vedle svého rozkazu své jezdce před tím věrně varovat.
+poznamky:
+- n: 1
+  text: |-
+    *Rhumormeister* (rumormistr) – důstojník polní policie pro udržování kázně mimo ležení a při pochodu, který vrací záškodníky a drancovníky zpět do šiku.
+- n: 2
+  text: |-
+    V tisku „Meußköpff“ (doslova „myší hlavy“ – od slovesa *mausen*, myškovat, tajně krást a drancovat).

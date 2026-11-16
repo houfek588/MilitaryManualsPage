@@ -1,0 +1,60 @@
+id: 087v
+list: '87'
+strana: verso
+sken: 248
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Wo auch einer oder mehr weren/ so die verschribenen Artickel nit hielten/ soll der odder dieselben als eydtbrüchtig nach erkantnuß des Obersten gestrafft werden/ ob etwas inn den vorgemelten Artickeln vergessen vnd nit gemelt were/ daß den Kriegsleuten zustehet zuhalten/ sol alle mißhandlung zu eim Obersten stehn/ vnd gestrafft werden.
+  cs: |-
+    Kde by byl také jeden nebo více těch, kteří by sepsané články {Artickel} nedodržovali, má či mají být jako křivopřísežníci potrestáni podle uvážení plukovníka {Obersten}; bylo-li by ve zmíněných článcích na něco zapomenuto a nebylo uvedeno, co válečníkům {Kriegsleuten} přísluší zachovávat, má každé provinění spočívat na plukovníkovi a být potrestáno.
+- typ: odstavec
+  de: |-
+    Der Schultheiß gibt dem Fůßuolck/ wann jnen der Artickelßbrieff verlesen ist/ den eydt/ wann aber noch kein Schultheiß gesetzt ist/ beuilch der Oberst einem andern/ etwan thůt ers selbst.
+  cs: |-
+    Rychtář {Schultheiß} dává pěchotě {Fůßuolck} přísahu {eydt}, jakmile je jí přečten artikulní list {Artickelßbrieff}; není-li však ještě žádný rychtář dosazen, přikáže to plukovník někomu jinému, případně to vykoná sám.
+- typ: odstavec
+  de: |-
+    Wann die Knecht geschworn haben/ als dann machen die Rotten auch Rotmeister.
+  cs: |-
+    Když knechti {Knecht} složí přísahu, tehdy si také roty {Rotten} zvolí rotmistry {Rotmeister}.
+- typ: odstavec
+  de: |-
+    Welcher vor dem Gericht redt/ vnd den Schultheisen nicht vmb erlaubtnuß bit/ ist jm zur straff ein gulden verfallen.
+  cs: |-
+    Kdo mluví před soudem {Gericht} a nepožádá rychtáře o dovolení, propadá mu pokutou jednoho zlatého {gulden}.
+- typ: odstavec
+  de: |-
+    Welcher Gerichtsman on erlaubnuß des Schultheisen vom Gericht auffsteht/ ist dem Schultheisen ein gulden verfallen/ doch wann einer den Schultheisen bit/ soll er jm der nottufft nach erlauben.
+  cs: |-
+    Kterýkoli soudní přísedící {Gerichtsman} vstane od soudu bez dovolení rychtáře, propadá rychtáři pokutou jednoho zlatého; požádá-li však někdo rychtáře, má mu to podle potřeby dovolit.
+- typ: odstavec
+  de: |-
+    Weil auch etwan vil vngeschickter Gerichtsleut diser zeit erfunden werden/ so erfordert die hohe notturfft/ daß der Oberst die straffen so leib/ leben/ ehr vnd gefahr betreffen/ zu den Artikeln im Artickelsbrieff klerlich vnd teutschlich verzeichnen lasse/ damit die Richter in jeder sachen zu vrtheilen wissen/ daß die vbelthaten nicht vngestrafft bleiben.
+  cs: |-
+    Poněvadž se také v této době vyskytuje nemálo nezpůsobilých soudních přísedících {Gerichtsleut}, vyžaduje svrchovaná nutnost, aby plukovník nechal tresty týkající se těla, života, cti a hrdelního nebezpečí ke článkům v artikulním listu jasně a srozumitelně[^1] zapsat, aby přísedící {Richter} věděli, jak v každé věci soudit, a zlé skutky nezůstaly nepotrestány.
+- typ: odstavec
+  de: |-
+    Etwan in notturfftigen sachen erfordert der Oberst drei Hauptmänner/ drei Fendrich vnd drei Weibel/ die sein an dem Gericht zu sitzen schuldig diß geht vmb/ doch mag der Oberst nach ansehen/ vnderweilen jhr mehr erfordern/ aber nicht vmb schulden/ sonder was Malefitz vnd das Regiment antriefft.
+  cs: |-
+    Někdy v naléhavých případech povolá plukovník tři hejtmany {Hauptmänner}, tři praporečníky {Fendrich} a tři šikovatele {Weibel}, kteří jsou povinni zasednout u soudu; to jde dokola[^2], avšak plukovník jich může podle okolností někdy povolat více; nikoli však kvůli dluhům, nýbrž v tom, co se týká hrdelních věcí {Malefitz} a pluku {Regiment}.
+- typ: odstavec
+  de: |-
+    Die Fürer sitzen auch von des gemeinen Mans wegen am Gerich/ das gehet auch vmb.
+  cs: |-
+    Vůdcové {Fürer} zasedají u soudu[^3] rovněž za prostý lid {gemeinen Mans}; i to jde pořadím dokola.
+- typ: odstavec
+  de: Ende des andern Bůchs.
+  cs: Konec druhé knihy.
+poznamky:
+- n: 1
+  text: |-
+    „Klerlich vnd teutschlich“ – jasně a německy, tj. zřetelně a v mateřském, srozumitelném jazyce.
+- n: 2
+  text: |-
+    „Diß geht vmb“ – účast jde pořadím dokola (střídá se mezi jednotlivými praporci).
+- n: 3
+  text: |-
+    V tisku „am Gerich“ bez koncového t za „Gericht“.

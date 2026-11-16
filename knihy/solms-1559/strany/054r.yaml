@@ -1,0 +1,39 @@
+id: 054r
+list: '54'
+strana: recto
+sken: 191
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Feldhauptman antworten / da wöllen wir dir sagen wie du gehandelt hast / Dise meinung mögen die Wachtmeister / nit allein den Hauptleuten / sonder einem jeden der nit wachen wolte / vnd an jhm wehre / anzeigen / dann einer sollichen rechtfertigung wartet keiner gern / angesehen / das einer dardurch vmb sein ehre keme / die wachtmeister sollen auch allweg den Reuttern den platz da sie jrer zu jeder zeit warten sollen / sagen.
+  cs: |-
+    polním hejtmanem {Feldhauptman} zodpovídat, tam ti povíme, jak jsi jednal.“ Toto varování mohou vachmistři {Wachtmeister} oznámit nejen hejtmanům {Hauptleuten}, nýbrž každému, kdo by nechtěl držet stráž, ač by byla řada na něm; neboť takového pohnání k odpovědnosti nikdo nevyčkává rád, vzhledem k tomu, že by tím přišel o svou čest. Vachmistři mají také jezdcům {Reuttern} vždy určit místo, kde na ně mají v každém čase čekat.
+- typ: odstavec
+  de: |-
+    Wann mann nit mit den fanen wacht / mag ein jeder vom Adel seinen Bůben mit einem hengst im leger lassen / aber kein knecht er sei dann kranck oder das Roß / sonst soll sich der wachtmeister an kein entschuldigung keren / sie sollen auch den Wächtern zu Roß / kein feur zumachen gestatten.
+  cs: |-
+    Když se nedrží stráž s korouhvemi {fanen}, smí každý šlechtic zanechat v ležení {leger} svého pacholka {Bůben} s jedním hřebcem, nikoli však čeledína {knecht}, ledaže by byl nemocný on nebo kůň; jinak nemá vachmistr dbát na žádnou výmluvu. Také jízdním strážným nemají dovolit rozdělávat oheň.
+- typ: odstavec
+  de: |-
+    Wann vil Kriegsuolck in einem Leger ist / hat mann etwan zu roß vier Wachmeister / ists wenig zwen / wann aber die Christenheit ein zug widern Türcken wolt thůn / da bedarff mann von wegen vilerlei Sprachen / die daselbst zusamen komen wurden / vil Wachtmeister / es versehen auch vnderweilen zwo oder vier personen beide Wachtmeister vnd Quartiermeister ampter.
+  cs: |-
+    Je-li v jednom ležení mnoho válečného lidu {Kriegsuolck}, mívají se pro jízdu někdy čtyři vachmistři, je-li ho málo, pak dva. Kdyby však křesťanstvo chtělo podniknout tažení {zug} proti Turkům {Türcken}, je tam zapotřebí kvůli mnoha rozličným jazykům, které by se tam sešly, mnoho vachmistrů; někdy také dvě nebo čtyři osoby zastávají oba úřady – vachmistrovský i kvartýrmistrovský {Quartiermeister}.
+- typ: odstavec
+  de: |-
+    Wann ein Kriegsuolck in der Wagenburg ligt / so hat es aber ein besondere meinung / mit der Wacht / wann die feinde Christen sind / als Teutsche / Spanier / Frantzosen / Italianer / Engellender / Dennmarcker / Schotten / Schweden vnd Norweden / die dann schwer Rüstung vnd vil fuß volck haben / als dann sollen die Wachtmeister die Wacht zimlich weit von der Wagenburg lassen halten / in ansehung / daß die wächter der schwere Rüstung vnnd fuß Volck wol entrinnen mögen / sonst were es sorglich / wann ein schwere Rüstung mit einem starcken Kriegsuolck zu fuß vngewarnet nahe zu der Wagenburg köme / dann das fuß volck wurff die Wägen vmb / vnd fiellen in das Leger / vnd möchten als dann jren willen schaffen.
+  cs: |-
+    Leží-li pak válečný lid ve vozové hradbě {Wagenburg}, má to se stráží {Wacht} opět zvláštní pořádek. Jsou-li nepřáteli křesťané, jako Němci, Španělé {Spanier}, Francouzi, Italové, Angličané, Dánové, Skotové, Švédové a Norové {Norweden}[^1], kteří mají těžkou zbroj {Rüstung} a mnoho pěchoty {fuß Volck}, tehdy mají vachmistři nechat stráž stát poměrně daleko od vozové hradby, s ohledem na to, aby strážní mohli před těžkou jízdou a pěchotou snadno ujet; jinak by to bylo nebezpečné, kdyby se těžká jízda se silným pěším vojskem nepozorovaně přiblížila k vozové hradbě, neboť pěchota by vozy převrhla, vpadla do ležení a mohla by si pak dělat, co by chtěla.
+- typ: odstavec
+  de: |-
+    Sein aber die feinde wider die Wagenburg / Türcken / Tatern / Reuschen / Muscabiter / Poln / Retzen / Stradioten / Hungerischen / Wendische / Crabatischen / vnd Hussern / so sollen die Wachtmeister die wächter nit weit von der wagenburg halten lassen / sie mögen sonst nit entreiten / dann die obbestimpten Völcker haben eitel ring Roß vnd wenig fuß volck / vnd wann mann die wagenburg wider dise Völcker inwendig allenthalben mit wächtern zu fuß besetzt / die mögen allweg auffhalten / biß das Kriegsuolck zusamen kompt / dann sie verlassen jre pferde nit gern / daß sie von jnen fiellen / vnd die wagen vmbwurffen / oder auß dem weg schleifften.
+  cs: |-
+    Jsou-li však nepřáteli proti vozové hradbě Turci, Tataři, Rusové, Moskvané, Poláci, Rácové, stradioti, Uhři {Hungerischen}, Vendové, Chorvati a husaři[^2], mají vachmistři nechat strážné stát nedaleko od vozové hradby, jinak by nemohli ujet; uvedené národy totiž mají samé lehké koně {ring Roß} a málo pěchoty. A když se vozová hradba proti těmto národům obsadí zevnitř všude pěšími strážnými, ti mohou vždy útočníky zdržet, dokud se válečný lid neshromáždí; oni totiž neradi opouštějí své koně, aby sesedli a převrhovali vozy nebo je odtahovali z cesty.
+poznamky:
+- n: 1
+  text: V tisku „Norweden“ (Norové).
+- n: 2
+  text: |-
+    Výčet východních a jihovýchodních národů a lehkých jezdců: *Reuschen* = Rusové (Rusíni), *Muscabiter* = Moskvané, *Retzen* = Rácové (Srbové), *Stradioten* = stradioti (lehcí balkanští či benátští jezdci), *Wendische* = Vendové (Slované z alpských či lužických krajů), *Crabatischen* = Chorvati, *Hussern* = husaři.

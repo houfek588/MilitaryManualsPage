@@ -1,0 +1,47 @@
+id: 041v
+list: '41'
+strana: verso
+sken: 170
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    ES ist zu mercken / wie vorgemelt / mit dem maß das im brot bachen / an allen orten vngleich ist / hab ich ein maß für mich genommen / ein Schäffel das vorgenent ist worden / ein Achtel / vnnd das Schäffel ist abgeeicht an dem gewicht / ist schwer hundert vier vnd viertzig pfundt / vnnd das Schäffel helt zwölff klein Metzen / der Metzen eine ist schwer zwölff pfundt / deren ein Pferdt einen tag zimlich gnůg hat / darauff die nachuolgent Rechnung gestellet.
+  cs: |-
+    Je třeba poznamenat, jak již bylo řečeno, že míra je při pečení chleba na všech místech nestejná; vzal jsem si tedy za základ jednu míru, totiž korec {Schäffel}[^1], jenž byl dříve jmenován jako achtel {Achtel}, a tento korec je cejchován podle váhy, váží sto čtyřicet čtyři liber {pfundt} a obsahuje dvanáct malých měřic {Metzen}, z nichž jedna váží dvanáct liber, čehož má kůň na jeden den přiměřeně dost; na tom je postaven následující výpočet.
+- typ: odstavec
+  de: |-
+    Erstlich auff hundert Pferde / gehet einn tag hundert Metzen / thůt zwölff hundert pfundt / macht acht schäffel / vier Metzen / Ein wochen lang sibenhundert Metzen / thůt an gewicht vier vnd achtzig Centner / vnd acht vnnd fünfftzig schäffel / vier Metzen / Einen Monat lang / drei tausent metzen / thůt an gewicht dreihundert / vnd sechßig Centner / vnd zweihundert fünfftzig schäffel.
+  cs: |-
+    Předně na sto koní připadá za jeden den sto měřic, což činí dvanáct set liber a dělá osm korců a čtyři měřice; za jeden týden sedm set měřic, což činí na váhu osmdesát čtyři centů {Centner} a padesát osm korců a čtyři měřice; za jeden měsíc tři tisíce měřic, což činí na váhu tři sta šedesát centů a dvě stě padesát korců.
+- typ: odstavec
+  de: |-
+    Item / auff fünffhundert pferde / geht einen tag fünffhundert Metzen / thůt an gewicht sechzig Centner / ein vnd viertzig schäffel / vnnd acht metzen / Ein Wochen lang / fünff vnnd dreissig hundert Metzen / thůt an gewicht vierhundert zwentzig Centner / zweihundert ein vnd neuntzig schäffel / vnd acht metzen / Vnd einen Monat lang / fünfftzehen tausent metzen / thůt an gewicht achtzehenhundert Centner / vnd zwölff hundert fünfftzig Achtel.
+  cs: |-
+    Dále: na pět set koní připadá za jeden den pět set měřic, na váhu šedesát centů, což je čtyřicet jeden korec a osm měřic; za jeden týden tři tisíce pět set měřic, na váhu čtyři sta dvacet centů, dvě stě devadesát jeden korec a osm měřic; a za jeden měsíc patnáct tisíc měřic, na váhu osmnáct set centů a dvanáct set padesát achtelů.
+- typ: odstavec
+  de: |-
+    Item / auff tausent pferdt einn tag tausent metzen / thůt an gewicht hundert zwentzig Centner / drei vnd dreissig schäffel hafern / vnd vier metzen / Ein Wochen lang / sibentausent metzen / thůt an gewicht acht hundert viertzig Centner / fünffhundert vnd drei vnd achtzig schäffel / vnd vier metzen hafern / Einen Monat lang / dreissig tausent metzen / thůt an gewicht sechs vnd dreissig hundert Centner / fünff vnd zwentzig hundert schäffel hafern.
+  cs: |-
+    Dále: na tisíc koní za jeden den tisíc měřic, na váhu sto dvacet centů, což je třicet tři korců[^2] a čtyři měřice ovsa; za jeden týden sedm tisíc měřic, na váhu osm set čtyřicet centů, pět set osmdesát tři korců a čtyři měřice ovsa; za jeden měsíc třicet tisíc měřic, na váhu tři tisíce šest set centů a dva tisíce pět set korců ovsa.
+- typ: odstavec
+  de: |-
+    Item / auff fünff tausent pferde / einn tag fünfftausent metzen / thůt am gewicht sechshundert Centner / vnd vierhundert sechtzehen schäffel / vnd acht metzen hafern / Ein Wochen lang / fünff vnd dreissig tausent metzen / thůt an gewicht zwei vnd viertzig hundert Centner / zwei tausent / neunhundert / sechtzehen schäffel / vnd acht metzen hafern / Einn Monat lang / fünfftzehen hundert tausent metzen / thůt am gewicht 18000. Centner / 12500. schäffel hafern.
+  cs: |-
+    Dále: na pět tisíc koní za jeden den pět tisíc měřic, na váhu šest set centů, což je čtyři sta šestnáct korců a osm měřic ovsa; za jeden týden třicet pět tisíc měřic, na váhu čtyři tisíce dvě stě centů, dva tisíce devět set šestnáct korců a osm měřic ovsa; za jeden měsíc patnáct set tisíc měřic[^3], což činí na váhu 18 000 centů a 12 500 korců ovsa.
+- typ: odstavec
+  de: |-
+    Item / auff zehentausent Pferde / einen tag zehentausent metzen / thůt an gewicht zwölff hundert Centner / achthundert drei vnd dreissig schäffel / vier metzen hafern / Ein wochen lang sibentzig tausent
+  cs: |-
+    Dále: na deset tisíc koní za jeden den deset tisíc měřic, na váhu dvanáct set centů, což je osm set třicet tři korců a čtyři měřice ovsa; za jeden týden sedmdesát tisíc
+poznamky:
+- n: 1
+  text: |-
+    Zde jde o dutou míru (Schäffel, ztotožněný s achtelem) o váze 144 liber ovsa, dělenou na 12 měřic (Metzen) po 12 librách.
+- n: 2
+  text: |-
+    Chyba tisku: pro 1000 měřic vychází 83 korců a 4 měřice (tisk má „třicet tři“ místo „osmdesát tři“).
+- n: 3
+  text: |-
+    Chyba tisku: pro 5000 koní na 30 dní je to 150 000 měřic (nikoli „patnáct set tisíc“ = 1 500 000); následné údaje 18 000 centů a 12 500 korců odpovídají správné hodnotě 150 000 měřic.

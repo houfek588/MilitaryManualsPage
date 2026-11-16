@@ -1,0 +1,31 @@
+id: 048r
+list: '48'
+strana: recto
+sken: 181
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Oberster vber alle Reutter.
+  cs: Nejvyšší velitel {Oberster} nade vší jízdou {Reutter}
+- typ: odstavec
+  de: |-
+    SO ein Herr einen grossen reissigen zeug hat / darunder müssen vil Ritmeister odder Hauptleut sein / solt dann ein Herr mit den Reuttern / vnd mit einem jeden Ritmeister oder Hauptman besondern handeln / nimpt lange zeit vnd ist einem Herrn verdrießlich / deßgleichen wann das ein Herr etwan zwen oder drei Ritmeister mit einander schikt etwas zuhandeln / so will keiner vnder dem andern gern sein / müssen sie es dann thůn / so thůn sie es doch nit gern noch willig / da gehet es selten recht zů.
+  cs: |-
+    Má-li pán velkou zbrojnou jízdu {reissigen zeug}, musí pod ní být mnoho rytmistrů {Ritmeister} či hejtmanů {Hauptleut}. Kdyby pak měl pán jednat s jezdci a s každým rytmistrem nebo hejtmanem zvlášť, zabralo by to mnoho času a bylo by to pánovi obtížné. Stejně tak, pošle-li pán třeba dva nebo tři rytmistry společně, aby něco vyřídili, nechce být žádný z nich rád podřízen druhému; a musejí-li to pak učinit, nečiní to ani rádi, ani ochotně, a tehdy to zřídkakdy dopadne dobře.
+- typ: odstavec
+  de: |-
+    Derhalber ist gůt / das ein Herr vber alle Reutter wie die seind / so der anderst vil ist einn Obersten hab / auff den alle Ritmeister oder Hauptleut jren beuelch haben / vnd des bescheidts sich halten vnnd warten mussen / derselbige kan im leger sie versehen vnd ordnen / deßgleichen im feld / im ziehen vnd was zuthůn ist / vnd sein Herr jm beuilch der Reutter halben / Also hat dann der Kriegßherr mit einer person zuhandeln vnd dem beuelch geben / so kan dann derselbig Oberster fort mit den Reuttern dasselbig aufrichten / vnd darbei zu sein vnd besehen / daß demselbigen volg vnd gelebt werde / dann es tragen sich vil sachen also vnder jn zu / das nicht der mühe wert ist / einen Kriegßherrn darumb anzusůchen vnd bemühen / wirt etwas bedacht oder berathschlagt / daß mann mit etlichen Reuttern auff sein muß / so kan derselbig Oberster souil Hauptleut oder Ritmeister mit jhren Reuttern zusich nemen / als jhm vonnöten / eillents vnd stil hinziehen vnd sein beuelch verrichten / Also müssen sie dem gehorchen vnd auff jn warten / das vnder jn keiner dem andern / so der Oberst nicht da were / gern thůn würde.
+  cs: |-
+    Proto je dobré, aby pán nade vší jízdou, jaká jen je – je-li jí totiž mnoho –, měl nejvyššího velitele, od něhož by všichni rytmistři či hejtmani přijímali rozkazy a jehož pokynů by se museli držet a na ně čekat. Ten je dokáže zaopatřit a uspořádat v ležení {leger}, stejně tak v poli, na pochodu i při všem, co je třeba činit a co mu jeho pán ohledně jízdy přikáže. Pak má válečný pán {Kriegßherr} co jednat jen s jednou osobou, které dá rozkaz, a tento nejvyšší velitel to pak s jezdci vykoná a dohlédne a postará se, aby bylo uposlechnuto a podle toho jednáno. Neboť mezi nimi se zběhne mnoho věcí, kvůli nimž nestojí za to vyhledávat a obtěžovat válečného pána. Uváží-li se nebo uradí-li se něco, k čemu je třeba vyrazit s několika jezdci, může si tento nejvyšší velitel vzít s sebou tolik hejtmanů nebo rytmistrů s jejich jezdci, kolik bude potřebovat, rychle a tiše odtáhnout a vykonat svůj rozkaz. Tak jej musejí poslouchat a čekat na jeho pokyn, což by mezi nimi žádný druhému, kdyby tam nejvyšší velitel nebyl, rád neudělal.
+- typ: odstavec
+  de: |-
+    Es kan auch der Reuter Oberster den Reuttern jre Prouiant bestellen vnd ordnen souil möglich sein kan / vil baß dann wann alle Hauptleut vber dem Prouiantherrn liegen / vnd jn bemühen / einer wil es so der ander also haben / vnd ist vnder den vilen mancherlei sinn / das macht dann die Prouiantherrn auch jrr vnd vnwillig / wann aber also ein Person als jhr Oberster das versicht / der kan sich baß mit dem Prouiantherrn vereinigen vnd bestellen.
+  cs: |-
+    Nejvyšší velitel jízdy může jezdcům také objednat a zařídit proviant {Prouiant}, nakolik to jen bude možné, mnohem lépe, než když všichni hejtmani doléhají na proviantního pána {Prouiantherrn} a obtěžují ho – jeden to chce tak, druhý onak, a mezi mnoha lidmi je rozličné mínění, což pak proviantní pány mate a činí nevrlými. Když to však obstará jedna osoba, totiž jejich nejvyšší velitel, dokáže se s proviantním pánem dohodnout a zásoby objednat lépe.
+- typ: odstavec
+  de: |-
+    Der Reutter Oberster soll auch die felder zu der fůterung besehen vnd mit dem Feldmarschalck das zuuerstreiffen vnd zuuerhalten verordnen.
+  cs: |-
+    Nejvyšší velitel jízdy má také prohlédnout pole pro píci a spolu s polním maršálkem {Feldmarschalck} zařídit, aby byla kryta hlídkami a zálohami.

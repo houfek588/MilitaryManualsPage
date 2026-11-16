@@ -1,0 +1,47 @@
+id: 022v
+list: '22'
+strana: verso
+sken: 136
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Der Oberst soll alle abent / auch etwann morgens frü / wann er an Feinden zeucht / oder für einer Besatzung leit / rath halten / vnnd nach gelegenheit jeder sach seiner Kriegsuerstendigen gůt bedüncken vornemen / er můß auch vnderweilen zu roß im feld rath halten oder pflegen / es sollen auch alle Räth / sonderlich wann er von Feinden im feld oder vor einem Flecken abziehen wil / in grosser stil vnd geheimnuß gehalten werden / sonst mag leichtlich grosser vnrath darauß entspringen. Der Oberst gibt allen hohen ämptern / Reutern vnnd Hauptleuten Paßporten.
+  cs: |-
+    Nejvyšší velitel {Oberst} má každý večer, a někdy i časně zrána, když táhne proti nepřátelům nebo leží před nějakou posádkou {Besatzung}, konat poradu a podle povahy každé věci vyslechnout mínění svých války znalých mužů; někdy musí konat poradu či se radit i v poli na koni. Všechny rady {Räth}, zvláště když chce odtáhnout od nepřátel v poli nebo od nějakého městečka, se mají konat ve velikém tichu a tajnosti, jinak z toho může snadno vzejít veliká pohroma. Nejvyšší velitel vydává průvodní listy {Paßporten} všem vysokým úředníkům, jezdcům {Reutern} a hejtmanům {Hauptleuten}.
+- typ: odstavec
+  de: |-
+    Dem Obersten sollen etliche Trommeter / ein Heerpaucker / vnnd wo möglich / ein Herolt gehalten werden.
+  cs: |-
+    Nejvyššímu veliteli mají být vydržováni někteří trubači {Trommeter}, jeden kotlář {Heerpaucker}, a pokud možno, jeden herold {Herolt}.
+- typ: odstavec
+  de: |-
+    Ein jeder Oberster soll (als vil jhm jmmehr möglich) sein vndergeben Kriegsuolck / in willigen gehorsam brengen / vnd nit on trefflich vrsachen mit jnen Tyrannisiern / Dann mit eim willigen Volck wirt vil außgericht / doch sol man selten im krieg billiche straff vbersehen.
+  cs: |-
+    Každý nejvyšší velitel má (jak jen je mu to možné) přivádět sobě podřízený válečný lid {Kriegsuolck} k ochotné poslušnosti a bez závažných příčin nad ním netyranizovat; neboť s ochotným lidem se pořídí mnoho, přesto se však ve válce jen zřídka má promíjet spravedlivý trest.
+- typ: odstavec
+  de: |-
+    Der Oberst soll einen Brantmeister haben / die Brantschatzung ein zubrengen vnd zuuerechnen.
+  cs: |-
+    Nejvyšší velitel má mít výběrčího výpalného {Brantmeister}, který vybírá a vyúčtovává výpalné {Brantschatzung}.
+- typ: odstavec
+  de: |-
+    Der Oberst soll einen Brenfanen / vnd darüber einen Hauptman / auffrichten / der hat macht zu brennen wann es jhm der Oberst befilcht / vnnd soll sonst niemand bei leibstraff brennen / doch wann der Oberst Brantmeister ein Flecken gebrantschatzt hat / bedarff sich der Hauptman nicht mehr beladen.
+  cs: |-
+    Nejvyšší velitel má zřídit žhářskou korouhev {Brenfanen} a nad ní ustanovit hejtmana {Hauptman}; ten má moc pálit, kdykoli mu to nejvyšší velitel rozkáže, a nikdo jiný nesmí pod tělesným trestem pálit; avšak jakmile vrchní výběrčí výpalného z městečka výpalné vybere, nemá se tím hejtman již více zatěžovat.
+- typ: odstavec
+  de: |-
+    Vnder dem Brenfanen sein gewonlich nichts dann Schützen / vnd wo nit ringe pferd sein / besehen sie die feind / deßhalb wöllen sie an etlichem vieh auch vortheil haben / ist aber in keinem brauch.
+  cs: |-
+    Pod žhářskou korouhví nejsou obvykle nikdo jiní než střelci {Schützen}, a kde není lehká jízda {ringe pferd}, obhlížejí nepřátele; proto chtějí mít také podíl na zabraném dobytku, to však není zvykem.
+- typ: odstavec
+  de: |-
+    Ein jeder oberster Feldhauptman soll gar ernstlich darob sein / daß jm sein trew vnd glaub / den er freunden vnd feinden zusagt vnd verspricht / volkomlich gehalten werd / welcher jm denselben bricht vnd darwider handelt / soll er an leib / leben / ehr vnd gůt / nach ansehung der verhandlung / straffen / vnd darinn niemands verschonen / dann durch haltung trew vnd glauben / werden etwan vil Flecken / ja Land vnd leut gewunnen vnd behalten / die sonst nimmer mehr erobert würden.
+  cs: |-
+    Každý nejvyšší polní hejtman {oberster Feldhauptman} má nanejvýš přísně dbát na to, aby věrnost a slovo, které přátelům i nepřátelům přislíbí a zaručí, byly úplně dodržovány; kdo mu je zlomí a jedná proti nim, toho má potrestat na hrdle, na životě, na cti a na statku podle závažnosti provinění a nikoho v tom nešetřit; neboť dodržováním věrnosti a daného slova se nezřídka získá a udrží mnoho městeček, ba i zemí a lidí, jež by jinak nebyly nikdy dobyty.
+- typ: odstavec
+  de: |-
+    Der Oberst soll mit nicht gestatten / daß ein hoch oder nider ampt dem andern in sein ampt greiffe / vnd jn daran verhindere / sonder jeden seinen beuelch lassen verrichten / welcher sein beuelch nit recht versicht / mag jn der Oberst darumb anreden / oder nach gelegenheit straffen / sonst hat er nimmer fried im leger. Der Oberst soll allen Kriegsleuten auffs ernstlichst im feld vnd vor den Besatzungen sprach zu halten verbieten / vnd welcher vbertrit / streng straffen / dann die Landsknecht müssen solches zu halten in jrem Artickels Brieff schweren.
+  cs: |-
+    Nejvyšší velitel nemá v žádném případě trpět, aby jeden vysoký či nižší úřad zasahoval druhému do jeho úřadu a bránil mu v něm, nýbrž má každého nechat vykonávat jeho velení; kdo své velení nezastává správně, toho může nejvyšší velitel pokárat nebo podle okolností potrestat, jinak nikdy nebude mít v ležení {leger} klid. Nejvyšší velitel má také všem válečníkům {Kriegsleuten} v poli i před posádkami co nejpřísněji zakázat rozmlouvat s nepřítelem, a kdo to přestoupí, přísně jej potrestat; neboť lancknechti {Landsknecht} musejí ve svém artikulním listu {Artickels Brieff} přísahat, že to budou zachovávat.

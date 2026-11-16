@@ -1,0 +1,32 @@
+id: 036r
+list: '36'
+strana: recto
+sken: 159
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    darob sie Justitie halten sollen / selbst rein vnnd vnbefleckt sein / dann was sie selbst solten straffen / soll bei jnen nicht gefunden werden / vnd so solches auch bei jnen gefunden wirt / vnd sie ein andern derhalben straffen / würde bei dem so sie straffen wolten / nicht annemlich sein / Derhalben so kündt kein gůt ordnung noch Justitien gehalten werden.
+  cs: |-
+    nad nimiž mají držet spravedlnost, být sami čistí a neposkvrnění; neboť to, co sami mají trestat, nemá být nalezeno u nich. A najde-li se to i u nich a oni pak z toho důvodu potrestají druhého, nebude to u toho, koho chtějí trestat, přijímáno s úctou; proto by se nemohl udržet ani dobrý řád, ani spravedlnost.
+- typ: odstavec
+  de: |-
+    Würde auch Prouiant an Wein / Futer vnd dergleichen / ins Leger auff einmal so vil kommen / daß es nicht in der eil also bald möcht vertrieben oder verkaufft werden / vnd das Leger ein zeitlang stilliegen / vnnd die Marcatanten nicht gern also lang stilhalten würden / sonder gern bald wider hindersich vmb mehr zuholen weren / so mag der Oberst wol zulassen / daß etliche solchen vorat oder Prouiant den Marcatanten auff einmal abnemen / doch mit der maß / daß jn dasselbig nach der billicheit / wie sie das widerumb geben sollen / geschetzet werde / wann aber ein Leger nicht stilliegen würd / sollen die Marcatanten nicht abladen / sonder mit faren.
+  cs: |-
+    Kdyby také do ležení {Leger} přišlo najednou tolik proviantu {Prouiant} na víně, píci a podobně, že by se nemohl hned v spěchu rozprodat či udat, a ležení by mělo nějaký čas stát na místě, přičemž markytáni {Marcatanten} by nechtěli tak dlouho čekat, nýbrž by raději jeli hned zpátky pro další zásoby, může nejvyšší velitel {Oberst} dovolit, aby někteří takovou zásobu nebo proviant od markytánů odebrali najednou – avšak s tím omezením, aby jim bylo podle slušnosti stanoveno, za jakou cenu jej mají prodávat dále; nebude-li však ležení stát na místě, nemají markytáni skládat náklad, nýbrž mají táhnout s vojskem.
+- typ: odstavec
+  de: |-
+    Die Commis sol durch den Kriegsherrn oder Feldmarschalck vnd Kriegsräth gemacht vnd gestelt / darnach dem Prouiantherrn zu verwalten / zuregiern / befolhen vnnd vbergeben werden / Vnd ist dise volgente Prouiant ordnung auff einn Türckenzug / vnd auff die Donaw von Vlm biß gen Wien geordnet vnd gemacht worden.
+  cs: |-
+    Komis {Commis} má vypracovat a stanovit válečný pán {Kriegsherrn} nebo polní maršálek {Feldmarschalck} a váleční radové {Kriegsräth}, a poté jej svěřit a předat proviantnímu pánovi {Prouiantherrn} ke správě a řízení. A tento následující proviantní řád byl uspořádán a zřízen pro tažení proti Turkům {Türckenzug} a pro Dunaj {Donaw} od Ulmu až do Vídně.
+- typ: nadpis
+  uroven: 3
+  de: Commis Ordnung.
+  cs: Řád komisu
+- typ: odstavec
+  de: |-
+    DIeweil die Prouiant das recht groß Principal stuck im Krieg ist / vnd on die Prouiant alles Kriegsuolck / gelt / rüstung / Geschütz vnd alle geschicklicheit nichts nütz ist / so es an der Prouiant die leng felen würd / dann das leben / krafft vnd sterck muß dardurch erhalten werden / vnd wann das leben nicht mehr ist / so ist alle rüstung vnd Munition vergeblich / vnd steht / kan jm nicht selber helffen / noch etwas aufrichten. Dieweil dann die Prouiant also das hauptstück ist / vnd dardurch so vil not geschicht / vnd geschehen ist / vnd dieselbig in der zeit zuuor so gering bedacht vnd geordnet ward / vnd letzlich also in der Wůcherer hand
+  cs: |-
+    Poněvadž proviant je pravým hlavním článkem ve válce a bez proviantu není veškerý válečný lid {Kriegsuolck}, peníze, výzbroj {rüstung}, děla {Geschütz} ani všechna obratnost k ničemu, kdyby se proviantu na delší čas nedostávalo – neboť život, síla i statečnost se musejí udržovat jím, a není-li již života, je všechna výzbroj i munice {Munition} marná, zůstává stát a nemůže si sama pomoci ani nic zmoci. Protože tedy proviant je tou hlavní věcí a skrze něj dochází a docházelo k takové nouzi, a protože se na něj dříve myslelo a zařizoval se tak nedbale, až se nakonec dostal do rukou lichvářů,

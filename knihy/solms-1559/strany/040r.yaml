@@ -1,0 +1,214 @@
+id: 040r
+list: '40'
+strana: recto
+sken: 167
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dreihundert Centner macht an viehe / so mann zu vnderhaltung schlachten můß / Erstlich
+  cs: |-
+    tři sta centů {Centner}; to činí na dobytku, který se musí k výživě porazit, nejprve:
+- typ: odstavec
+  de: Einen tag.
+  cs: Na jeden den.
+- typ: tabulka
+  de:
+  - - 1. Ochsen
+    - ''
+    - 1. Ochsen
+  - - 3. Kůe
+    - ''
+    - 2. Kůe
+  - - 5. Kälber
+    - 'oder mag nemen:'
+    - 5. Kälber
+  - - 1. Hamel
+    - ''
+    - 4. Hämel
+  - - 2. Schaaff.
+    - ''
+    - 5. Schaaff.
+  cs:
+  - - 1 vola
+    - ''
+    - 1 vola
+  - - 3 krávy
+    - ''
+    - 2 krávy
+  - - 5 telat
+    - 'nebo lze vzít:'
+    - 5 telat
+  - - 1 skopce
+    - ''
+    - 4 skopce
+  - - 2 ovce
+    - ''
+    - 5 ovcí
+- typ: odstavec
+  de: Ein Wochen.
+  cs: Na jeden týden.
+- typ: tabulka
+  de:
+  - - 7. Ochsen
+    - ''
+    - 7. Ochsen
+  - - 21. Kůe
+    - ''
+    - 14. Kůe
+  - - 35. Kälber.
+    - 'oder mag nemen:'
+    - 35. Kälber
+  - - 7. Hämel
+    - ''
+    - 28. Hämel
+  - - 40. Schaaff.
+    - ''
+    - 35. Schaaff.
+  cs:
+  - - 7 volů
+    - ''
+    - 7 volů
+  - - 21 krav
+    - ''
+    - 14 krav
+  - - 35 telat
+    - 'nebo lze vzít:'
+    - 35 telat
+  - - 7 skopců
+    - ''
+    - 28 skopců
+  - - 40 ovcí[^1]
+    - ''
+    - 35 ovcí
+- typ: odstavec
+  de: Ein Monat lang.
+  cs: Na jeden měsíc.
+- typ: tabulka
+  de:
+  - - 30. Ochsen
+    - ''
+    - 28 Ochsen
+  - - 90 Kůe
+    - ''
+    - 64 Kůe
+  - - 150 Kälber
+    - 'oder mag nemen:'
+    - 150 Kälber
+  - - 30 Hämel
+    - ''
+    - 120 Hämel
+  - - 60 Shaaff.
+    - ''
+    - 150 Schaaff.
+  cs:
+  - - 30 volů
+    - ''
+    - 28 volů
+  - - 90 krav
+    - ''
+    - 64 krav
+  - - 150 telat
+    - 'nebo lze vzít:'
+    - 150 telat
+  - - 30 skopců
+    - ''
+    - 120 skopců
+  - - 60 ovcí
+    - ''
+    - 150 ovcí
+- typ: odstavec
+  de: |-
+    Item auff fünff tausent personen můß mann haben einen tag an fleysch fünfftzig Centner / vnd ein woche dreihundert sibentzig Centner / vnnd ein Monat lang fünfftzehen hundert Centner / macht an viehe / wie hernach volget.
+  cs: |-
+    Dále: na pět tisíc osob je třeba mít za jeden den padesát centů masa, za týden tři sta sedmdesát centů[^2] a za celý měsíc patnáct set centů; to činí na dobytku, jak následuje níže:
+- typ: odstavec
+  de: Ein tag.
+  cs: Jeden den.
+- typ: tabulka
+  de:
+  - - 5 Ochsen
+    - ''
+    - 4 Ochsen
+  - - 15 Kůe
+    - ''
+    - 12 Kůe
+  - - 25 Kälber
+    - 'oder mag nemen:'
+    - 20 Kälber
+  - - 5 Hämel
+    - ''
+    - 20 Hämel
+  - - 10 Schaaff.
+    - ''
+    - 34 Schaaff.
+  cs:
+  - - 5 volů
+    - ''
+    - 4 voly
+  - - 15 krav
+    - ''
+    - 12 krav
+  - - 25 telat
+    - 'nebo lze vzít:'
+    - 20 telat
+  - - 5 skopců
+    - ''
+    - 20 skopců
+  - - 10 ovcí
+    - ''
+    - 34 ovcí
+- typ: odstavec
+  de: Ein Wochen.
+  cs: Jeden týden.
+- typ: tabulka
+  de:
+  - - 35 Ochsen
+    - ''
+    - 28 Ochsen
+  - - 105 Kůe
+    - ''
+    - 84 Kůe
+  - - 175 Kälber
+    - 'oder mag nemen:'
+    - 140 Kälber
+  - - 130 Hämel
+    - ''
+    - 140 Hämel
+  - - 70 Schaaff.
+    - ''
+    - 238 Schaaff.
+  cs:
+  - - 35 volů[^3]
+    - ''
+    - 28 volů
+  - - 105 krav
+    - ''
+    - 84 krav
+  - - 175 telat
+    - 'nebo lze vzít:'
+    - 140 telat
+  - - 130 skopců[^4]
+    - ''
+    - 140 skopců
+  - - 70 ovcí
+    - ''
+    - 238 ovcí
+- typ: odstavec
+  de: Einen Monat lang.
+  cs: Jeden měsíc.
+poznamky:
+- n: 1
+  text: |-
+    Chyba tisku: pro 70 centů (7000 liber) vychází jako sedminásobek denní dávky 14 ovcí (nikoli 40). Ponecháno podle originálu.
+- n: 2
+  text: |-
+    Chyba tisku: pro 5000 osob na týden je správně 350 centů (7 × 50), nikoli 370.
+- n: 3
+  text: |-
+    Položka „35 Ochsen“ v BSB OCR vypadla a byla doplněna podle skenu tisku.
+- n: 4
+  text: |-
+    Chyba tisku: sedminásobek denní dávky (5 skopců) je 35 skopců, nikoli 130; vpravo součet přesně odpovídá 350 centům (35 000 liber).

@@ -1,0 +1,37 @@
+id: 080v
+list: '80'
+strana: verso
+sken: 234
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Vnd wann es sich begebe das ein Hauptman mit des andern Hauptmans Fendrichen vnd weibeln/ auch Knechten zuthůn schüff das die notturfft erfordert/ was Kriegsleutten zuthůn müglich ist/ darinn sol jm gehorsam beschehen/ gleich als ob solchs der recht Hauptman selbs geschaffen hett/ bei straff vnd erkantnus des Obersten.
+  cs: |-
+    A přihodí-li se, že by jeden hejtman {Hauptman} uložil praporečníkům {Fendrichen}, šikovatelům {weibeln} nebo knechtům {Knechten} jiného hejtmana vykonat něco, co vyžaduje nutnost a co je válečníkům {Kriegsleutten} možné vykonat, má mu být prokázána poslušnost stejně, jako by to nařídil jejich vlastní hejtman, pod trestem a podle uvážení plukovníka {Obersten}.
+- typ: odstavec
+  de: |-
+    Item die Kindtbetterin/ Schwangerfrawen/ Jungkfrawen/ alt leut/ Priester vnd andere Geistlichleut/ auch die Kirchen bei den Legern oder bei den zügen/ die soll mann wie sich gebürt beschützen/ beschirmen/ ehren/ vnnd bei leib straff inn keinen weg beleidigen/ vnd sich in die Kirchen nicht Legern/ losiern/ auffbrechen/ oder sonst entehren.
+  cs: |-
+    Dále: šestinedělky, těhotné ženy, panny, staré lidi, kněze a jiné duchovní osoby, jakož i kostely při leženích {Legern} nebo na taženích {zügen}, ty má každý, jak se sluší, chránit, hájit, ctít a pod trestem na těle jim žádným způsobem neubližovat; a v kostelech se neubytovávat {losiern}, nevylamovat je ani je jinak nezneuctívat.
+- typ: odstavec
+  de: |-
+    Ihr solt dreissig tag für einen Monat zu dienen schuldig sein/ wie dann der brauch ist/ vnnd soll einem jeden auff jeden sold des Monats vier gulden Reynischer Müntz/ 60. kreutzer oder 15. batzen für das stück gerechenet/ gemeiner landts werung gegeben vnd alle Monat bezalt werden/ doch so sich das gelt verzüge/ vnd nit gleich da wer/ solt jr vier oder fünff tag vngeuerlich gedult tragen/ vnd nicht desto weniger ewer wacht versehen/ vnd keinen zug abschlagen/ wie dann Kriegsleutten gebürt.
+  cs: |-
+    Jste povinni sloužit třicet dní za jeden měsíc, jak je zvykem; a každému se má na každý žold {sold} dávat měsíčně čtyři rýnské zlaté {gulden} v minci – počítáno 60 krejcarů nebo 15 bacenů {batzen} za kus – v obecné zemské měně a každý měsíc vyplácet. Kdyby se však peníze opozdily a nebyly hned na místě, máte mít přibližně čtyři nebo pět dní strpení a nicméně konat svou stráž {wacht} a neodmítat žádné tažení, jak se na válečníky sluší.
+- typ: odstavec
+  de: |-
+    Wo einer oder mehr gelt entpfangen/ vnd darumb noch schuldig zu dienen wern/ vnd darüber on erlaubnuß vnd paßporten der Obersten hinweg zügen/ wo oder wenn derselben einer oder mehr betretten würden/ die sollen an gůt/ leib vnd leben gestrafft werden.
+  cs: |-
+    Přijal-li by někdo peníze a byl proto ještě povinen sloužit, a přesto by odešel bez dovolení a průvodního listu {paßporten} plukovníků, kdekoli nebo kdykoli by byl takový člověk či více z nich dopadeni, mají být potrestáni na majetku, na těle i na životě.
+- typ: odstavec
+  de: |-
+    Auch soll kein Knecht anzügen auß der ordnung gehen on mercklich vrsachen/ wo aber einer oder mehr in solchem vngehorsam wern/ sollen die Hauptleut/ Feldweibel vnd gemeine Knecht den oder die selben/ wer die sein/ so nit in der ordnung bleiben wölten/ mit gewalt in die ordnung treiben.
+  cs: |-
+    Rovněž žádný knecht nesmí na pochodech vystupovat ze šiku {ordnung} bez závažného důvodu; kdyby však byl někdo v tom neposlušný, mají hejtmani, šikovatelé {Feldweibel} a řadoví knechti takového – ať je to kdokoli –, kdo by nechtěl zůstat v šiku, zahnat do šiku násilím.
+- typ: odstavec
+  de: |-
+    Item ob sich begeb das durch den Obersten Keyserlicher Maiestat ein verordente Feldschlacht oder sturm an gemaurten oder geschloßsen Schlössern/ Stäten oder Flecken beschehe/ vnd mit Gottes hilff gewaltiglich erobert würde/ soll dann ewer jedem wie jm der Monat seins dienst begreifft/ sein Monat auß vnd angehen/ vnd mann soll auch weitters nicht schuldig sein/ vnd ob sichs begeb/ das auff solchs das gelt nit gleich von stundan bei der handt were/ vnd den Feinden abbruch geschehen möcht/ so sollen jr euch nach der that nach zurücken/ wie ewer Obersten gebietten zuziehen das müglich ist/ nit wehrn/ zuuorab keinen zug den feinden zu abbruch/ abschlagen.
+  cs: |-
+    Dále: přihodí-li se, že by z nařízení plukovníka císařského Veličenstva došlo k řádné polní bitvě či útoku {sturm} na zděné či opevněné zámky, města nebo městyse a ty by byly s Boží pomocí mocí dobyty, má pak každému z vás – tak jak je to zahrnuto v měsíci jeho služby – jeho měsíc skončit a začít nový, a nic dalšího se nemá dlužit. A stalo-li by se, že by potom peníze nebyly ihned po ruce a nepřátelům by mohla být způsobena újma, nemáte se po vykonaném činu zpěčovat postoupit kupředu a táhnout tak, jak vaši plukovníci přikáží a jak bude možné, a především neodmítat žádné tažení ke škodě nepřátel.

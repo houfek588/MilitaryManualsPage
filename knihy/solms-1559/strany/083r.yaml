@@ -1,0 +1,45 @@
+id: 083r
+list: '83'
+strana: recto
+sken: 239
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Ordnung einer Besatzung.
+  cs: Řád posádky {Besatzung}.
+- typ: odstavec
+  de: |-
+    WEil zimlich notturfftiglich von Zügen/ Legern/ Schlachten vnd andern Kriegsübungen auch stürmen geschriben worden/ wirdt billich/ wie sich ein Kriegsuolck in einer besatzung ordenlich schicken soll/ auch auffs kürtzest gehandelt.
+  cs: |-
+    Jelikož bylo dosti podrobně pojednáno o taženích {Zügen}, leženích {Legern}, bitvách i jiných válečných cvičeních a také o útocích {stürmen}, bude po právu v co největší stručnosti vyloženo také to, jak se má válečný lid {Kriegsuolck} v posádce {besatzung} řádně zachovat.
+- typ: odstavec
+  de: |-
+    Wann sich ein Hauptman in einer besatzung einer belegerung versicht/ soll er sich fürderlich mit einem Prouiantmeister vnd mit besonderer Prouiant versehen/ also daß er jedes/ als brot/ wein/ fleysch/ meel/ korn/ hafern/ keß/ eyer/ saltz/ schmaltz/ bier/ auch ein eigen Prouianthauß hab/ darzů geschickte leut darinn ordnen/ so die Prouiant mit rath vnd beuelch des Hauptmans jeder zeit außtheilen.
+  cs: |-
+    Očekává-li hejtman {Hauptman} v posádce obležení, má se neprodleně opatřit proviantmistrem {Prouiantmeister} a zvláštními zásobami proviantu {Prouiant}, a to tak, aby měl od všeho – totiž chléb, víno, maso, mouku, žito, oves, sýr, vejce, sůl, sádlo, pivo –, a také aby měl vlastní proviantní dům a ustanovil do něj schopné lidi, kteří by proviant pokaždé rozdělovali podle rady a rozkazu hejtmana.
+- typ: odstavec
+  de: |-
+    Der Oberst oder Hauptman sol auch grundlich erkundigen lassen/ wieuil er im Flecken allerlei Prouiant bei allen Inwonern zur notturfft finde/ vnd welcher Bürger solches zubesichtigen nit willig in seiner behaußung gestatten wolt/ den oder dieselben soll der Oberst mit gewalt darzů halten.
+  cs: |-
+    Plukovník {Oberst} nebo hejtman má také nechat důkladně vyšetřit, kolik rozmanitého proviantu v městečku pro potřebu nalezne u všech obyvatel; a který měšťan by nechtěl ochotně dovolit prohlídku ve svém domě, toho či takové má plukovník k tomu přinutit mocí.
+- typ: odstavec
+  de: |-
+    Darnach soll der Hauptman/ durch die Mustermeister vnd jre Muster Register/ erfarung thůn/ wieuil er in der besatzung hab/ deßgleichen soll er wider ein theil Hauptleut im Flecken vber das statt volck setzen/ vnd volgents an denselbigen wieuil wehrhaffter man er an Statuolck hab/ eigentlich erkündigen.
+  cs: |-
+    Poté má hejtman prostřednictvím přehlídkových mistrů {Mustermeister} a jejich přehlídkových rejstříků {Muster Register} zjistit, kolik lidí má v posádce; stejně tak má v městečku dosadit část hejtmanů {Hauptleut} nad městským lidem a od nich pak přesně zjistit, kolik bojechopných mužů z řad obyvatel města má k dispozici.
+- typ: odstavec
+  de: |-
+    Wann dann angeregte erfarung mit der Prouiant vnd wehrhafften personen beschehen/ soll der Hauptman sampt den Kriegs auch andern verstendigen vberschlahen/ was er eins tags auff ein person haben müsse/ auch wie lang er sich darmit vnder halten möge.
+  cs: |-
+    Když je pak provedeno uvedené zjištění ohledně proviantu i bojechopných osob, má hejtman spolu s válečnými i jinými znalci propočítat, co musí mít na osobu na jeden den a jak dlouho se s tím může udržet.
+- typ: odstavec
+  de: |-
+    Wie ferer dann befindt/ daß er die zeit darinnen er sich rettung vertröst oder abzugs von Feinden versicht/ one seiner habenden Prouiant nit notturfftig erhalten möcht/ soll er vom Kriegsuolck/ Trossern/ hurn vnd buben/ auch weib/ kindt vnd ander vnwehrhafft volck von der Stat außstossen/ vnd an ort vnd ende da sie sicher sein/ schicken/ doch sol er etlich geschickt frawen vom Stat vnd Kriegsuolck/ welche der beschedigten vnd Krancken knecht/ mit kochen/ wäschen vnd anderer nottufft warden/ bei jm behalten.
+  cs: |-
+    Shledá-li dále, že by po dobu, po kterou doufá ve vyproštění či v odchod nepřátel, nemohl [lidi] se svým proviantem dostatečně vyživit, má od válečného lidu vyhnat z města trén {Trossern}, nevěstky a chlapce {hurn vnd buben}, rovněž ženy, děti a jiný nebojechopný lid a poslat je na místa a do končin, kde budou v bezpečí; má si však u sebe ponechat několik schopných žen z města i od válečného lidu, které by se o raněné a nemocné knechty {knecht} staraly vařením, praním a jinými potřebami[^1].
+poznamky:
+- n: 1
+  text: |-
+    V tisku „nottufft warden“ místo „notturfft warten“.

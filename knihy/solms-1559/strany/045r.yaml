@@ -1,0 +1,35 @@
+id: 045r
+list: '45'
+strana: recto
+sken: 177
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mann größlich darinn versaumpt / dem nach mann gůt achtung / das zu der Prouiant allein die Flöß gar hinab / vnd aber die Schiff nachuolgender massen gebraucht vnd gefürt werden.
+  cs: |-
+    člověk v tom velice zmeškal; proto nechť se má dobrý pozor, aby se pro proviant {Prouiant} pouštěly až dolů toliko vory, kdežto lodě aby se užívaly a vedly následujícím způsobem.
+- typ: odstavec
+  de: |-
+    Dann ich wil sprechen / wie mann auch sagt / war sein / das von Vlm biß gen Ofen auff dem Wasser vngefehrlich vff 100. meilen gerechnet werden / da müssen nun die Stät vnnd Flecken / als Laubingen / Schwäbischen Werth / Ingolstat / Regenspurg / Straubingen Filshoffen / Assach / Ips / Stein oder Krembs / Wien / vnd die Stät welches alles ich in erfarung hab / am wasser stram gelegen / vnd alweg ein Schiffman zu rechter wasser größ / jedes tags von deren Flecken einn zu dem andern wol erreichen vnd erfarn mag / oder aber andere nach gelegner Stätt / wie mann zu rath wirt / fürgenommen / vnd zeitlich zuuor mit einem trefflichen vorrat an schwerem getreyde gespeist vnd versehen werde / Welches dann ein jeder Fürst oder Herr / dem dieselben Flecken zůgehörig / leichtlich verordnen vnd bestellen möchte / nemlich so er inn seinem Fürstenthumb vnnd Landt / offne General Mandat außgehn liesse / auch pflegern vnnd andern Amptleuten die jm gehörig / mit fleiß darob zuhalten / ernstlich verschaffen / damit ein zeitlang / wie dann die notturfft erfordern thet / kein getreyde auß demselben seinem Fürstenthumb verfürt odder verkaufft / sonder alles zu den gewonlichen / offnen marckten gebracht / Vnd was daselbst vber die Inwoner gebürliche selbst notturfft nit verkaufft / durch die Fürstlich Obrigkeit vnd beuelchsleut vmb zimlich gelt / doch on beschwerung der armen / vnd nach gelegenheit der Jar angenommen / am gelegensten auffgeschüt werden.
+  cs: |-
+    Neboť chci říci – jak se také říká a je pravdou –, že z Ulmu až do Budína {Ofen} se po vodě počítá přibližně na 100 mil {meilen}; tam tedy musejí být vybrána města a městečka, jako Lauingen, Donauwörth, Ingolstadt, Řezno, Straubing, Vilshofen, Aschach, Ybbs, Stein či Kremže, Vídeň[^1] a ta města – což všechno znám z vlastní zkušenosti –, jež leží na řece, a vždycky lodník za příhodného stavu vody může každého dne doplout a dorazit od jednoho takového místa k druhému, anebo jiná poblíž ležící města, jak se usnese, a včas předem musejí být zásobena a opatřena vydatnou zásobou těžkého obilí. Což by pak každý kníže nebo pán, jemuž tato místa náležejí, mohl snadno nařídit a zařídit – totiž kdyby ve svém knížectví a zemi dal vyhlásit veřejné obecné mandáty a správcům i jiným úředníkům {Amptleuten}, kteří mu podléhají, přísně uložil, aby na to s pílí dohlíželi, aby se po nějaký čas, jak by potřeba vyžadovala, nevyváželo ani neprodávalo žádné obilí z téhož jeho knížectví ven, nýbrž všechno se dováželo na obvyklé veřejné trhy; a co se tam neprodá nad náležitou vlastní potřebu obyvatel, to aby knížecí vrchnost a velitelé {beuelchsleut} přijali za slušné peníze – avšak bez obtěžování chudých a podle úrody let – a uložili na nejvhodnějším místě.
+- typ: odstavec
+  de: |-
+    Von welchen verordneten vnd fürgenommenen Kasten / sollen alßdann die gerichts Leut / so denselben am nechsten gesessen / mit der scharberck oder vmb zimlich gelt / darmit sie sich billicher weise nicht zubeklagen hetten / abgewechselt / Also das ein Baur vber zimlich zwo oder drei meil wegs des tags nicht faren dürff / zu den vorberürten oder fürgenommenen Stätten bei dem Wasser / mit dem getreyde / vnnd daselbst widerumb auff einen darzů verordneten vnd bestelleten Kasten / so anderst der Fürst vorhin keinen da hett / außgeschüt werden.
+  cs: |-
+    Z těchto nařízených a určených sýpek pak mají poddaní soudního okrsku, kteří sídlí nejblíže k nim, robotou[^2] nebo za slušnou mzdu – aby si po právu neměli nač stěžovat – střídavě vozit tak, aby sedlák nemusel jet za den více než slušné dvě nebo tři míle cesty, s tím obilím k výše zmíněným či vybraným městům při řece, a tam se má zase vysypat na k tomu určenou a zřízenou sýpku, pokud by tam kníže již dříve žádnou neměl.
+- typ: odstavec
+  de: |-
+    Wo aber die Flecken / dahin mann erstlich den erkaufften getreyde außgeschüt hat / die aber nicht Schiffreich sein / als im lande zu Beyern der Lech / die Iser / gelegner vnnd mehr dann die Thonaw / doch von denselbigen Wassern inn den Enn oder Thonaw mit Flössen gefahren werden möchte / so soll mann zu verschonung der armen leut / sollichen getreyde auff denselbigen kleinen
+  cs: |-
+    Kde však jsou městečka, do nichž se zprvu zakoupené obilí nasypalo, jež neleží na splavných řekách – jako v Bavorsku Lech či Isar, které jsou blíže a příhodnější než Dunaj {Thonaw} –, avšak z těchto řek by se dalo plout na vorech do Innu či Dunaje, má se takové obilí k ušetření chudých lidí po těch malých
+poznamky:
+- n: 1
+  text: |-
+    Podunajská města v pravopisu předlohy: Laubingen (Lauingen), Schwäbischen Werth (Donauwörth), Ingolstat (Ingolstadt), Regenspurg (Řezno), Straubingen (Straubing), Filshoffen (Vilshofen), Assach (Aschach an der Donau), Ips (Ybbs), Stein oder Krembs (Stein / Krems), Wien (Vídeň).
+- n: 2
+  text: |-
+    „mit der scharberck“ (Scharwerk) – nucená robotní služba či přípřež poddaných („gerichts Leut“ = poddaní příslušného soudního okrsku).

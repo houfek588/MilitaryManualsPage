@@ -1,0 +1,48 @@
+id: 022r
+list: '22'
+strana: recto
+sken: 135
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nemen / vnderweilen leßt mann die ansehenlichen personen / nur auff kleinen Klepperlin daruon reiten / vnd wirt sonst aber in andern fällen / wie erst gemelt / gehandelt.
+  cs: |-
+    vzít; někdy se urozeným osobám dovolí odjet jen na malých jezdeckých konících, a jinak se v ostatních případech postupuje tak, jak bylo právě řečeno.
+- typ: odstavec
+  de: |-
+    Zum vierdten / wirt ein Fleck vbergeben / daß die Kriegsleut mit Roß / Harnisch / Wehr / sampt aller jrer Hab vnd gůt abziehen / alßdann helt mann es aber wie erst angezeigt.
+  cs: |-
+    Za čtvrté bývá městečko vydáno tak, že válečníci {Kriegsleut} odtáhnou s koňmi, zbrojí {Harnisch}, zbraněmi i veškerým svým jměním a statkem; tehdy se to však dodržuje tak, jak bylo právě uvedeno.
+- typ: odstavec
+  de: |-
+    Zum fünfften / geschicht ein vbergab daß die Kriegsleut vnd etlich einwoner im Flecken / nicht allein mit jrer Hab abziehen / sonder auch etwas jhrem Herrn / oder andern zugehörig / mit tragen oder füren / Wiewol nun der auff vnd vbergaben mehr sein / wirt doch solches zu jeder zeit auch abgeschafft / oder wie man die eroberten Flecken speisen / besetzen / oder schleiffen soll / dem Obersten vnd Kriegsuerstendigen / so den Krieg fürn / heimgestelt.
+  cs: |-
+    Za páté dochází k vydání tak, že válečníci a někteří obyvatelé v městečku odtáhnou nejen se svým jměním, nýbrž odnesou či odvezou s sebou i něco, co náleží jejich pánovi nebo jiným. Ačkoli pak je způsobů vzdání a vydání ještě více, bývá takové jednání vždycky zarazeno, anebo se ponechává na nejvyšším veliteli a války znalých mužích, kteří válku vedou, jak mají dobytá městečka zásobit, obsadit či srovnat se zemí.
+- typ: odstavec
+  de: |-
+    Der Oberst hat die gerechtigkeit / welcher vnder den hohen ämptern oder Reutern durch morden / verrathen / feldflucht / fried / sicherheit / geleit brechen / meuterei machen / notzwang / Prouiant in oder vor dem Leger mit gewalt nemen / Mercatanten oder andere berauben / dardurch einer sein ehr / leib vn̄ leben verwircket / desselben Hab rüstung sampt alles so er jm leger hat / ist dem Obersten Feldhauptman heimgefallen.
+  cs: |-
+    Nejvyšší velitel má právo, že kdo z vysokých úředníků nebo jezdců {Reutern} spáchá vraždu, zradu, útěk z pole, porušení míru, bezpečnosti či glejtu, vyvolá vzpouru {meuterei}, dopustí se násilí [znásilnění], násilně zabere proviant {Prouiant} v ležení {Leger} či před ním nebo okrade markytány {Mercatanten} či jiné – čímž člověk propadne ctí, hrdlem i životem –, toho jmění a zbroj spolu se vším, co má v ležení, připadne nejvyššímu polnímu hejtmanovi {Obersten Feldhauptman}.
+- typ: odstavec
+  de: |-
+    Etliche Obersten wöllen / wann ein Reutter einn vngefehrlichen Todtschlag thů / der hab alle seine güter im feld gegen jnen verwirckt / solches ist aber wider gemeine Kriegsbreuch.
+  cs: |-
+    Někteří nejvyšší velitelé tvrdí, že dopustí-li se jezdec nezaviněného [náhodného] zabití, propadá vůči nim vším svým statkem v poli; to však je proti obecným válečným zvyklostem.
+- typ: odstavec
+  de: |-
+    Es soll kein Kriegsuolck / so einen Flecken auffgibt / vnnd herauß zeucht / es sei dann mit sondern außgetrucken worten bethediget / jre fanen zu Roß / oder fendlin zu fůß lassen fliegen / wann es aber geschicht / hat jnen der Oberst heraussen zunemen recht fug vnd macht / Gleichergestalt sollen die Trommeter zu růß / vnd die spil zu fuß im abzug schweigen.
+  cs: |-
+    Žádný válečný lid {Kriegsuolck}, který vydá městečko a táhne z něj ven – ledaže by to bylo výslovnými slovy vyjednáno –, nesmí nechat vlát své jízdní korouhve {fanen} ani pěší praporce {fendlin}; stane-li se tak přece, má nejvyšší velitel právo a moc jim je venku odebrat. Stejně tak mají při odchodu mlčet jízdní trubači {Trommeter} a pěší hudba {spil}.
+- typ: odstavec
+  de: |-
+    Ein jeder Kriegsherr sol / wann das kriegsuolck etwan nit gar richtig bezalt wirt / mit dem Feldhauptman vmb ein zimliche grosse summa die er in Rechnung einlegt / der vrsach nit disputiern / daß ein Oberster in mangel oder bezalung dem Kriegsuolck zu roß vnd fuß / offt nicht allein vbersehen vnnd nachlassen / sonder auch vil mal etwas schencken / oder solliches zuthůn verheissen můß.
+  cs: |-
+    Každý válečný pán {Kriegsherr} nemá, není-li válečný lid vždy zcela řádně vyplácen, s polním hejtmanem přít se o dosti velikou sumu, kterou předloží k vyúčtování, poněvadž nejvyšší velitel musí při nedostatku či zpoždění platu válečnému lidu na koni i pěšky často nejen leccos prominout a slevit, nýbrž i mnohokrát něco darovat nebo tak učinit slíbit.
+- typ: odstavec
+  de: |-
+    Die obersten feldhauptleut wöllen den 10. pfening von allen beuten / so die reuter gewunnen haben / wiewol solchs recht vnd billich / ists doch nit in eim ganghafftigen brauch / wie bei der landsknecht obersten / darumb sollen sich die reissigen dannoch mit dem Obersten das er zufriden ist vertragen mit den gefangen wirts wie angezeigt inhalt der bestellbrieff gehalten.
+  cs: |-
+    Nejvyšší polní hejtmani požadují desátý peníz ze všech kořistí, které jezdci získali; ačkoli je to po právu a spravedlivé, není to tak běžným obyčejem jako u plukovníka {obersten} lancknechtů {landsknecht}, proto se mají jezdci přesto s nejvyšším velitelem dohodnout tak, aby byl spokojen. Se zajatci se pak nakládá, jak uvedeno, podle znění služebních listů {bestellbrieff}.

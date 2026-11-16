@@ -1,0 +1,30 @@
+id: 072r
+list: '72'
+strana: recto
+sken: 219
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Von der Knecht quartiermeister.
+  cs: O kvartýrmistrovi {quartiermeister} knechtů {Knecht}.
+- typ: odstavec
+  de: |-
+    DEr Quartiermeister ist schuldig wann jr Oberster die Hauptleut vnd Fendrich gar oder zum theil haben wil/ daß er jnen dasselbig ansage.
+  cs: |-
+    Kvartýrmistr je povinen, chce-li jejich plukovník {Oberster} shromáždit hejtmany {Hauptleut} a praporečníky {Fendrich} všechny nebo zčásti, jim to oznámit.
+- typ: odstavec
+  de: |-
+    Wann der Quartiermeister der Reutter vnd Knecht Leger mit dem Feldmarschalck getheilt hat/ gibt er erstlich dem Obersten sein quartier/ darnach seinem Leuttenant/ darnach den Herren vnd vom Adel/ die im stant sein/ volgents dem Prouosen mit seim gesinde/ Schultheisen sampt seinen verwanten/ sich selbst/ Wachtmeister/ Prouiantmeister/ Feldweibel/ Hurnweibel/ Stockmeister vnd Nachrichter.
+  cs: |-
+    Když kvartýrmistr rozdělí s polním maršálkem {Feldmarschalck} ležení {Leger} jezdců {Reutter} a knechtů, přidělí nejprve kvartýr {quartier} plukovníkovi, poté jeho poručíkovi {Leuttenant}, potom pánům a šlechticům, kteří jsou ve stavu {stant}, následně profousovi {Prouosen} s jeho čeledí, rychtáři {Schultheisen} s jeho lidmi, sobě samému, vachmistrovi {Wachtmeister}, proviantmistrovi {Prouiantmeister}, polnímu šikovateli {Feldweibel}, šikovateli trénu {Hurnweibel}, žalářníkovi {Stockmeister} a katovi {Nachrichter}.
+- typ: odstavec
+  de: |-
+    Darnach gibt der Quartiermeister den Hauptleutten auch auff jhre Fendrich vnd Kencht Quartier/ dieselben werden alßdann verzeichnet.
+  cs: |-
+    Poté přidělí kvartýrmistr kvartýry také hejtmanům pro jejich praporečníky a knechty[^1]; ty se pak zapíší.
+poznamky:
+- n: 1
+  text: |-
+    V tisku přesmyčka „Kencht“ místo „Knecht“.

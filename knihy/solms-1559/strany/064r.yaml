@@ -1,0 +1,204 @@
+id: 064r
+list: '64'
+strana: recto
+sken: 205
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Von des Oberster ampt vber das Fußuolck.
+  cs: O úřadu plukovníka {Oberster} nad pěchotou {Fußuolck}.
+- typ: odstavec
+  de: |-
+    WJewol der Oberst vber das Fußuolck vnder dem Obersten Feldhauptman ist/ hat er doch sein eigen Regiment/ wie nachuolgt/ vnnd wirt des Obersten/ sampt anderer hohen vnd nidern Amptern gewonliche Besoldung verzeichnet.
+  cs: |-
+    Ačkoli je plukovník nad pěchotou podřízen nejvyššímu polnímu hejtmanovi {Obersten Feldhauptman}, má přesto svůj vlastní pluk {Regiment}, jak následuje, a je zde vypsán obvyklý žold {Besoldung} plukovníka spolu s dalšími vyššími i nižšími úřady.
+- typ: tabulka
+  de:
+  - - ''
+    - Sold.
+  - - Oberster auff sein person
+    - '100'
+  - - Auff sein Leutenant
+    - '25'
+  - - Caplan
+    - '2'
+  - - Schreiber
+    - '5'
+  - - Souil Trabanten er hat/ jedem
+    - '1'
+  - - Pfeiffer vnd Tromenschläger je.
+    - '2'
+  - - Tholmetsch.
+    - '1'
+  - - Hauptman.
+    - ''
+  - - Auff sein person
+    - '10'
+  - - Auff sein Leutenant
+    - '5'
+  - - Fendrich
+    - '5'
+  - - Caplan
+    - '2'
+  - - Zwen Trabanten jedem
+    - '1'
+  - - Zwen Weibel jedem
+    - '2'
+  - - Forierer
+    - '1'
+  - - Fürer
+    - '1'
+  - - Pfeiffer
+    - '1'
+  - - Tromenschlager
+    - '1'
+  - - Tholmetsch
+    - '1'
+  - - Hauptmans jung
+    - '1'
+  - - Hauptmans reissigen knecht
+    - '1'
+  - - Fendrichs jung
+    - '1'
+  - - Hauptmans Koch.
+    - '1'
+  - - Prouoß.
+    - ''
+  - - Auff sein Person
+    - '10'
+  - - Caplan
+    - '2'
+  - - Sechs Trabanden jedem
+    - '1'
+  - - Sechs Steckenknecht jedem
+    - '1'
+  - - Stockmeister
+    - '4'
+  - - Nachrichter.
+    - '4'
+  - - Schultheis.
+    - ''
+  - - Auff sein person
+    - '10'
+  - - Gerichtschreiber
+    - '1'
+  - - Gerichtsweibel
+    - '1'
+  - - Zwölff Gerichtsleut jedem
+    - '1'
+  - - Einem Trabanden
+    - '1'
+  - - Feldscherer
+    - '10'
+  - - Leibartzt
+    - '10'
+  - - Quartiermeister
+    - '10'
+  - - Zwen Trabanden jedem
+    - '1'
+  - - Prouiantmeister
+    - '10'
+  - - Zehen Feldwebeln jedem
+    - '3'
+  - - Zwen Hůrnweibeln jedem
+    - '1'
+  cs:
+  - - ''
+    - Žold {Sold}
+  - - Plukovník na svou osobu
+    - '100'
+  - - Na svého poručíka {Leutenant}
+    - '25'
+  - - Kaplan {Caplan}
+    - '2'
+  - - Písař {Schreiber}
+    - '5'
+  - - Tolika drabantům {Trabanten}, kolik jich má, každému
+    - '1'
+  - - Pištci {Pfeiffer} a bubeníkovi {Tromenschläger}, každému
+    - '2'
+  - - Tlumočník {Tholmetsch}.
+    - '1'
+  - - Hejtman {Hauptman}.
+    - ''
+  - - Na svou osobu
+    - '10'
+  - - Na svého poručíka
+    - '5'
+  - - Praporečník {Fendrich}
+    - '5'
+  - - Kaplan
+    - '2'
+  - - Dvěma drabantům, každému
+    - '1'
+  - - Dvěma šikovatelům {Weibel}, každému
+    - '2'
+  - - Furýr {Forierer}
+    - '1'
+  - - Vůdce {Fürer}
+    - '1'
+  - - Pištec
+    - '1'
+  - - Bubeník
+    - '1'
+  - - Tlumočník
+    - '1'
+  - - Hejtmanovo pachole {jung}
+    - '1'
+  - - Hejtmanův jízdní pacholek {reissigen knecht}
+    - '1'
+  - - Praporečníkovo pachole
+    - '1'
+  - - Hejtmanův kuchař.
+    - '1'
+  - - Profous {Prouoß}.
+    - ''
+  - - Na svou osobu
+    - '10'
+  - - Kaplan
+    - '2'
+  - - Šesti drabantům, každému
+    - '1'
+  - - Šesti profousovým pacholkům {Steckenknecht}, každému
+    - '1'
+  - - Žalářník {Stockmeister}
+    - '4'
+  - - Kat {Nachrichter}.
+    - '4'
+  - - Rychtář {Schultheis}.
+    - ''
+  - - Na svou osobu
+    - '10'
+  - - Soudní písař {Gerichtschreiber}
+    - '1'
+  - - Soudní šikovatel {Gerichtsweibel}
+    - '1'
+  - - Dvanácti soudním přísedícím {Gerichtsleut}, každému
+    - '1'
+  - - Jednomu drabantovi
+    - '1'
+  - - Ranhojič {Feldscherer}
+    - '10'
+  - - Osobní lékař {Leibartzt}
+    - '10'
+  - - Kvartýrmistr {Quartiermeister}
+    - '10'
+  - - Dvěma drabantům, každému
+    - '1'
+  - - Proviantmistr {Prouiantmeister}
+    - '10'
+  - - Deseti polním šikovatelům {Feldwebeln}, každému
+    - '3'
+  - - Dvěma šikovatelům trénu {Hůrnweibeln}, každému
+    - '1'
+- typ: odstavec
+  de: |-
+    Dise ämpter all hat der Oberst vber die Knecht zusetzen vnd zuentsen/ doch mag sie der Kriegsherr oder der Oberst Feldhaupman ane des herrn stat/ nach dem der hauff groß oder klein ist/ toppel oder einfach besetzen/ auch möcht der Herr oder sein Oberster Feldhauptman etwan der hohen besoldung vmb ringerung gedencken/ wiewol die zeit jetzt nit ist/ angesehen/ daß die kriegsleut zu roß vnd fuß also tewr vnd hohem wert sein/ will auch der Kriegsherr den Hauptleuten jedem ein Leutenant halten/ mag ers thůn/ er ists aber nicht schuldig/
+  cs: |-
+    Všechny tyto úřady má plukovník u knechtů {Knecht} právo obsazovat i sesazovat[^1], avšak může je válečný pán {Kriegsherr} nebo nejvyšší polní hejtman namísto pána obsadit dvojitě či jednoduše podle toho, jak velký nebo malý je houf {hauff}; pán nebo jeho nejvyšší polní hejtman by také mohli případně pomýšlet na snížení vysokých žoldů, třebaže k tomu nyní není vhodná doba vzhledem k tomu, že válečníci {kriegsleut} na koni i pěšky jsou tak drazí a ve vysoké ceně; chce-li také válečný pán držet každému z hejtmanů jednoho poručíka, může tak učinit, není tím však povinen
+poznamky:
+- n: 1
+  text: |-
+    V tisku zkráceně „zuentsen“ místo „zuentsetzen“ (sesazovat) a níže „Feldhaupman“ místo „Feldhauptman“. Dvousloupcový rozpis žoldů z tisku je převeden po sloupcích za sebou (praporečníkovo pachole a hejtmanův kuchař patří k hejtmanově družině).

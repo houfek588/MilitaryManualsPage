@@ -1,0 +1,61 @@
+id: 084v
+list: '84'
+strana: verso
+sken: 242
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Der Hauptman vber die Stat sampt dem Obersten der Knecht/ vnd andere Kriegsuerstendigen sollen sich der Quartier/ wie sie die nach anzall jres Volcks zu ringsumb besetzen wöllen/ vergleichen/ oder die Fendrich darumb lossen oder spilen lassen/ welchs Quartier dann einem gefellt/ soll er biß zu der entsetzung oder abzug tag vnd nacht verwachen vnd verwarn.
+  cs: |-
+    Hejtman {Hauptman} nad městem spolu s plukovníkem {Obersten} knechtů {Knecht} a dalšími válečnými znalci se mají dohodnout na kvartýrech {Quartier}, jak je podle počtu svého lidu kolem dokola obsadí, anebo o ně nechat praporečníky {Fendrich} losovat či hrát v kostky; který kvartýr pak komu připadne, ten má dnem i nocí střežit a hlídat až do vyproštění či odchodu nepřátel.
+- typ: odstavec
+  de: |-
+    Von heimlichen Schiltwachten bei nacht für die Flecken hinauß zuhalten/ wie wann dieselbigen besetzen soll daruon statlich zuschreiben kan hie nit geschehen/ sonder wirt den belegerten Kriegsuerstendigen beuolhen.
+  cs: |-
+    O stavění skrytých stálých stráží {Schiltwachten} v noci ven před městečka, jak a kdy se mají obsazovat, o tom zde nelze sepsat pevné pravidlo, nýbrž se to ponechává obleženým válečným znalcům.
+- typ: odstavec
+  de: |-
+    Der Hauptman vber die Stat sampt der Knecht Oberster vnnd andern Kriegßerfarnen sollen gantz vernünfftiglich betrachten/ daß sie allen Quartiern an der Maurn gůt plätz zum standt machen/ damit sie des sturms in der Ordnung warten mögen/ zu sollichem sollen sie Heusser oder andere gebew vmbreissen vnd abbrechen.
+  cs: |-
+    Hejtman nad městem spolu s plukovníkem knechtů a dalšími zkušenými válečníky mají velmi rozvážně dbát na to, aby ve všech kvartýrech u hradeb zřídili dobrá místa k postavení, aby mohli na útok {sturm} vyčkávat v šiku {Ordnung}; za tím účelem mají zbořit a strhnout domy i jiné stavby.
+- typ: odstavec
+  de: |-
+    Wann auch etwan Kriegsuolck vber die besatzung der Thürn/ Paßtheien vnd Quartier vbrig wer/ soll an ein platz da der Fleck beschlossen wirt/ geordnet werden/ damit sie demselbigen Quartier odder andern in zeit der not zu hilff kommen.
+  cs: |-
+    Zůstane-li také nějaký válečný lid {Kriegsuolck} navíc po obsazení věží, bašt {Paßtheien} a kvartýrů, má být postaven na místo, kde je městečko uzavřeno, aby mohl témuž kvartýru či jiným v době nouze přispěchat na pomoc.
+- typ: odstavec
+  de: |-
+    Etlich Kriegsuerstendigen meinen es sei besser in einer Besatzung daß man alles wehrhafft volck an die Maurn/ Thürn vnd Polwerck lege/ vnd nit vff dem platz oder andern orten stehn lasse/ wann ein quartier von Feinden not leit/ daß die andern den belestigen hilff schicken.
+  cs: |-
+    Někteří váleční znalci soudí, že v posádce {Besatzung} je lépe rozestavit všechen bojechopný lid na hradby, věže a bolverky {Polwerck}, a nenechávat jej stát na náměstí nebo na jiných místech; trpí-li pak některý kvartýr tísní od nepřátel, aby mu ostatní poslali pomoc.
+- typ: odstavec
+  de: |-
+    So auch das Statuolck wehrhafft/ vnd jm zuuertrawen ist/ sollen sie der Hauptman vnd andern Kriegsuerstendigen/ zu der wehr da sie am bestem vnd nützsten bedünckt brauchen.
+  cs: |-
+    Je-li také městský lid bojechopný a lze-li mu důvěřovat, mají jej hejtman a ostatní váleční znalci použít k obraně tam, kde se jim to bude zdát nejlepší a nejužitečnější.
+- typ: odstavec
+  de: |-
+    In etlichen besatzungen dörffen die Bürger im lermen/ auch sonst bei nacht auß jren Heussern auff die gassen nit/ bei leib straff.
+  cs: |-
+    V některých posádkách nesmějí měšťané při poplachu {lermen} ani jindy v noci vycházet ze svých domů na ulice – pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Weil dann an dem nechsten 4. Artickel vor disem/ gelegen ist/ vnd niemant gründtlch daruon Ordnung setzen kan/ můß man es auch wie zu jeder/ damit halten/ doch soll es einem Hauptman sampt andern Kriegserfarnen beuolhen sein.
+  cs: |-
+    Poněvadž pak na nejbližším čtvrtém článku před tímto[^1] tolik záleží a nikdo o tom nemůže stanovit přesný řád, musí se v tom postupovat podle okolností každého případu; přesto to má být svěřeno hejtmanovi spolu s ostatními zkušenými válečníky.
+- typ: odstavec
+  de: |-
+    Wann aber Reissigen in der besatzung ligen/ die solten im stürmen wann lermen ist/ gerüst in der ordnung rücken/ haben sie kein platz/ dahin man sie ordnen kan/ soll sie der Hauptman in die gassen ordnen/ wie er vermeint am besten zusein/ oder in rath erfindt.
+  cs: |-
+    Leží-li však v posádce jezdci {Reissigen}, mají při útoku {stürmen}, když je poplach, vyrazit ve zbroji v šiku; nemají-li prostranství, kam by se mohli seřadit, má je hejtman rozestavit do ulic, jak uzná za nejlepší nebo jak se usnese v radě.
+- typ: odstavec
+  de: |-
+    Die Reissigen sollen allweg nachts gerüst vff der gassen reiten/ die auffrůr von den Bürgern zuuerhüten/ auch allenthalben die wachten besichtigen/ damit die auff der Wacht nit schlaffen oder meuterei stifften. Die not mag sich auch dermassen an einem sturm oder sonst
+  cs: |-
+    Jezdci mají v noci stále jezdit po ulicích ve zbroji, aby zamezili vzpouře {auffrůr} ze strany měšťanů, a také všude kontrolovat stráže {wachten}, aby ti na stráži {Wacht} nespali nebo nezakládali vzpouru {meuterei}. Nouze může být při útoku nebo jindy také natolik
+poznamky:
+- n: 1
+  text: |-
+    Tj. na 4. odstavci před tímto (o záloze na náměstí a rozestavení mužstva na hradbách). V tisku je „gründtlch“ bez i za „gründtlich“.

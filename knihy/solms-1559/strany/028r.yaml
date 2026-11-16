@@ -1,0 +1,77 @@
+id: 028r
+list: '28'
+strana: recto
+sken: 147
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Von dem obersten Zeugmeister Ampt.
+  cs: O úřadu nejvyššího zbrojmistra {Zeugmeister}.
+- typ: odstavec
+  de: |-
+    DEr oberst Zeugmeister / soll ein Vnderzeugmeister oder Leutenant haben / wan mann das Geschütz theillen muß / als auß notturfft offt am zug in Schlachten / oder vor den belegerten Flecken / geschicht / daß bei jedem theil einer sei der die sachen regiere / sonst geht es etwan langsam von stat.
+  cs: |-
+    Nejvyšší zbrojmistr má mít podzbrojmistra {Vnderzeugmeister} nebo poručíka {Leutenant}, aby – kdykoli je třeba rozdělit děla {Geschütz}, jak se z nutnosti často stává na tažení {zug}, v bitvách nebo před obleženými městečky – byl u každého dílu někdo, kdo záležitosti řídí, jinak to jde někdy zdlouhavě.
+- typ: odstavec
+  de: |-
+    Der oberst Zeugmeister / soll einn geschickten Zeugschreiber haben / dann es vil daran gelegen ist / hat er aber vil Geschütz / bedarff er mehr dann eins Schreibers.
+  cs: |-
+    Nejvyšší zbrojmistr má mít schopného zbrojního písaře {Zeugschreiber}, neboť na tom mnoho záleží; má-li však mnoho děl, potřebuje více než jednoho písaře {Schreibers}.
+- typ: odstavec
+  de: |-
+    Der oberst Zeugmeister / soll einn geschickten Schantzmeister haben / wie vnd wo er jm zu schantzen beuilcht / daß er solchs mit ringster bescheidigung seiner Quastitor zuuerrichten wisse.
+  cs: |-
+    Nejvyšší zbrojmistr má mít schopného šancmistra {Schantzmeister}, aby jakkoli a kdekoli mu přikáže budovat šance, uměl to vykonat s co nejmenšími ztrátami svých šancířů {Quastitor}[^1].
+- typ: odstavec
+  de: |-
+    Der Schantzmeister soll / wann er auß beuelch des Schantzmeisters schantzet / die Körb mit Rath der Büchsenmeister setzen / damit ein jeder sein Stück desto gefüglicher schiessen mög.
+  cs: |-
+    Šancmistr má, když na rozkaz šancmistra {Schantzmeisters}[^2] staví šance, osazovat šancovní koše {Körb} po poradě s puškaři {Büchsenmeister}, aby každý mohl ze svého děla střílet tím pohodlněji.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister / soll allweg seinem Geschütz gemeß Quastitor haben / dabei sollen auch zwen Regierer sein / wann mann die Quastitor theilet / das jeder theil einn bei jm hab / der ob jnen sei / damit sie die Prücken / Weg / vnd Schantzen raumen / alle notturfft / wie es sein sol fürderlich machen.
+  cs: |-
+    Zbrojmistr má mít vždy podle počtu svých děl přiměřeně šancířů; u nich mají být také dva dozorci {Regierer}, aby když se šancíři rozdělí, měl každý oddíl u sebe jednoho, který by jim stál v čele, aby rychle vyklízeli mosty a cesty, hloubili šance {Schantzen} a konali všechny potřebné práce, jak se sluší.
+- typ: odstavec
+  de: |-
+    Der Feldmarschalck braucht die Quastitor auch / wann er (wie seinem ampt gebürt) vor reit die weg zu raumen / vnd greben einziehen.
+  cs: |-
+    Šancířů používá také polní maršálek {Feldmarschalck}, když (jak přísluší jeho úřadu) jede napřed uvolňovat cesty a zasypávat příkopy.
+- typ: odstavec
+  de: |-
+    Der oberst Zeugmeister hat seinn eigen Prouosen / vnd darff jm sonst niemand die / so zu seiner Artlerei gehörn / gefengklich annemen.
+  cs: |-
+    Nejvyšší zbrojmistr má svého vlastního profouse {Prouosen} a nikdo jiný mu nesmí zatýkat ty, kdo náležejí k jeho dělostřelectvu {Artlerei}.
+- typ: odstavec
+  de: |-
+    Der Zeugmeister hat in seiner Artlerei freiheit / also / Wann einer im Leger etwas verwirckt / oder daß er preiß gemacht wirt / vnd derselbig darein enttrint / ist er sicher / es were dann vmb hochwichtig sachen / dann ist er schuldig den herauß zugeben.
+  cs: |-
+    Zbrojmistr má u svého dělostřelectva výsadu {freiheit}[^3] takovou, že když se někdo v ležení {Leger} něčím proviní nebo je vydán napospas a uprchne k dělům, je tam v bezpečí, ledaže by šlo o zvlášť závažné zločiny – tehdy je povinen jej vydat.
+- typ: odstavec
+  de: |-
+    Die Zeugmeister wöllen / wellichen Flecken sie beschiessen / vnnd mit dem sturm erobert werd / soll der Herr des Kriegs alles Geschütz so auff redern steht / von jnen lassen / dann das ander ist in disem fall / wer es gewindt.
+  cs: |-
+    Zbrojmistři požadují, že každé městečko, které ostřelují a které je dobyto útokem {sturm}, má válečný pán všechno dělo stojící na kolech od nich vykoupit[^4], neboť ostatní kořist v takovém případě patří tomu, kdo ji dobude.
+- typ: odstavec
+  de: |-
+    Deßgleichen wöllen sie auch gerechtigkeit an dem Geschütz haben das in den Schlachten gewunnen wirt.
+  cs: Stejně tak si činí nárok i na děla, která se ukořistí v bitvách.
+- typ: odstavec
+  de: |-
+    Wann der Zeugmeister einn Flecken bescheußt daß er sich auffgibt / wöllen sie auch der Kriegsherr soll das Geschütz / so darinn gefunden wirt / von dem obersten Zeugmeister lösen.
+  cs: |-
+    Když zbrojmistr ostřeluje městečko tak, že se vzdá, požadují rovněž, aby válečný pán {Kriegsherr} děla, která se v něm najdou, od nejvyššího zbrojmistra vyplatil.
+poznamky:
+- n: 1
+  text: |-
+    *Quastitor* (z it. *guastatori*) – sbor najatých či odvedených dělníků a kopáčů (šancířů) pro zemní, ženijní a cestářské práce u dělostřelectva.
+- n: 2
+  text: |-
+    Zjevná tiskařská chyba předlohy: *des Schantzmeisters* místo správného *des Zeugmeisters* (tj. na rozkaz zbrojmistra).
+- n: 3
+  text: Právo útočiště (azylu) u dělostřelectva, viz heslo *výsada* v glosáři.
+- n: 4
+  text: |-
+    V tisku stojí *von jnen lassen* (dosl. „od nich nechat“), zřejmě tiskařská záměna či kontaminace za *von jnen lösen* („od nich vykoupit“, srov. poslední odstavec této strany a l. 28v) nebo za *jnen lassen* („jim ponechat“).

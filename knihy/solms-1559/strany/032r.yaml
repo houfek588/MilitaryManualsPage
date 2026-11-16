@@ -1,0 +1,42 @@
+id: 032r
+list: '32'
+strana: recto
+sken: 153
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    FUr das erst / soll er fleissig die leger vmbreiten / oder die sein vmbreiten lassen / vnd gůt acht haben / daß niemands Prouiant vnd dergleichen für dem Leger auffkauff / sonder so dieselbigen komen würden / die vor den Legern hetten auffkaufft oder genommen / soll in sein straff verfallen sein.
+  cs: |-
+    Předně má pilně objíždět ležení {leger} nebo je nechávat objíždět svými lidmi a dobře dbát na to, aby nikdo před ležením neskupoval proviant {Prouiant} a podobné zboží; a kdyby se objevili takoví, kteří před leženími skupovali nebo brali [zásoby], nechť propadnou jeho trestu.
+- typ: odstavec
+  de: |-
+    Zum andern / so soll er alle Prouiant vor dem Leger annemen / vnd denen zuordnen / die beuelch haben vber die Prouiant außzutheiln / würde aber jm solcher beuelch auffgelegt / daß er die Prouiant außtheilen solt / so soll er dieselbig mit gůter Ordnung / wie die Obersten jm daß beuelhen werden / außtheilen.
+  cs: |-
+    Za druhé má přijímat veškerý proviant před ležením a přidělovat jej těm, kteří mají rozkaz proviant rozdělovat; kdyby však takový rozkaz byl uložen jemu, aby proviant rozděloval, má jej rozdělovat v dobrém pořádku, jak mu to nejvyšší velitelé {Obersten} přikážou.
+- typ: odstavec
+  de: |-
+    Zum dritten / so soll er grossen fleiß haben zuerfarn vnd zubesehen / was straffbar im Leger sein wirt / daß er dasselbig einem jeden Regiment darunder dieselbigen gehörn / anzeige / vnd nach jhrer gebür zustraffen beuelhen.
+  cs: |-
+    Za třetí má vynaložit velkou píli, aby zjišťoval a sledoval, co trestuhodného se v ležení děje, a oznamoval to každému pluku {Regiment}, pod nějž provinilci náležejí, a přikázal je podle náležitosti potrestat.
+- typ: odstavec
+  de: |-
+    Zum vierdten / soll er allen Prouosen fleissig darauff sehen / daß sie die Marcatanten nicht höher oder weitter schetzen noch beschweren / dann geordnet ist / solcher Schatzung soll von der Obrigkeit jhr maß gegeben werden / darob soll er hart halten / damit dasselbig nicht vberschritten werde.
+  cs: |-
+    Za čtvrté má pilně dohlížet na všechny profousy {Prouosen}, aby markytány {Marcatanten} neoceňovali výše ani více nezatěžovali, než je stanoveno; takovému oceňování má dát míru vrchnost a on má na to přísně dbát, aby nebylo překračováno.
+- typ: odstavec
+  de: |-
+    Zum fünfften / soll er auch mit allem ernst darob halten / ob ein Stat Fleck oder Dorff würde eingenommen / vnd begnadet / daß dieselbigen weitter nicht beschwerdt werden / dann jn darinn zugegeben wirt.
+  cs: |-
+    Za páté má také s veškerou vážností dbát na to, kdyby bylo obsazeno město, městečko nebo ves a vzato na milost, aby nebyly dále obtěžovány nad to, co jim v tom bylo zaručeno.
+- typ: odstavec
+  de: |-
+    Zum sechsten / soll er versehen vnnd verschaffen / daß die Leger mit dem verstorbenen viehe rein / darzů auch den Henckern besonder Leut / gehalten werden / die sollichen verstorbenen vnlust auß dem Leger füren vnd vergraben / damit die Leger durch solchen bösen geruch / nicht vergifft werden / besonder so ein Leger etwan lang an einem ort liegen můß.
+  cs: |-
+    Za šesté má zaopatřit a zařídit, aby ležení byla udržována v čistotě od zdechlého dobytka a aby katům {Henckern} byli k tomu vydržováni zvláštní lidé, kteří takovou uhynulou nečistotu vyvezou z ležení a zakopou, aby ležení nebyla takovým zlým zápachem zamořena, zvláště musí-li ležení ležet delší čas na jednom místě.
+- typ: odstavec
+  de: |-
+    Zum siebenden / soll er die Metzler dahin halten / daß besonder plätz neben das Leger / darauff sie metzeln / vnd nicht in das leger verordnet werden / damit solcher vnlust vnd vbeller geruch auch auß dem leger komme.
+  cs: |-
+    Za sedmé má přidržet řezníky {Metzler} k tomu, aby jim byla určena zvláštní místa vedle ležení, kde budou porážet dobytek, a nikoli uvnitř ležení, aby i tato nečistota a zlý zápach vyšly z ležení ven.

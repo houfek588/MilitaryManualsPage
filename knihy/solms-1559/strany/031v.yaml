@@ -1,0 +1,43 @@
+id: 031v
+list: '31'
+strana: verso
+sken: 152
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd den Fendrich an sein statt rücken lassen / wanns dann zur schlacht kompt / soll der Herr dem Fendrich auff der rechten seiten halten.
+  cs: |-
+    vystoupit a nechat praporečníka {Fendrich} postoupit na své místo; když pak dojde k bitvě, má pán stát po pravém boku praporečníka.
+- typ: odstavec
+  de: |-
+    In summa / der Leutenant ist dem Obersten in allen fellen vnd beuelhen gehorsam zu leisten schuldig / auch alle sachen / deren sich teglich im Leger vil zutragen / vnd andern hohen ämptern / die in jre verwaltung nicht gehören / soll der leutenant im namen vnnd an statt des Obersten verrichten / es were dann ein sach also hochwichtig / so soll ers dem Obersten anzeigen / vnd desselbigen bescheids erwarten.
+  cs: |-
+    Zkrátka poručík {leutenant} je povinen prokazovat nejvyššímu polnímu hejtmanovi {Obersten} poslušnost ve všech případech a rozkazech, a také všechny záležitosti, kterých se v ležení {Leger} denně mnoho zběhne a které nenáležejí do správy jiných vysokých úřadů, má poručík vyřizovat jménem a namísto nejvyššího velitele – ledaže by šlo o věc tak vysoce závažnou, tehdy ji má oznámit nejvyššímu veliteli a vyčkat jeho rozhodnutí.
+- typ: odstavec
+  de: |-
+    Es möcht auch ein Oberster souil Kriegsuolck / sonderlich Reisigen / im feld haben / er bedürfft zů dem leutenant vnd Feldmarschalck noch einn Hauptman / der dem leutenant die Reuter allweg im ziehen inn der Ordnung hilff behalten / vnnd sonst auch in fürfallenden Geschefften zugebrauchen were.
+  cs: |-
+    Mohl by také mít nejvyšší velitel v poli tolik válečného lidu {Kriegsuolck}, zvláště jízdy {Reisigen}, že by kromě poručíka a polního maršálka {Feldmarschalck} potřeboval ještě jednoho hejtmana {Hauptman}, který by poručíkovi pomáhal na pochodu vždy udržovat jezdce v šiku {Ordnung} a dal se použít i v jiných vyskytnuvších se záležitostech.
+- typ: odstavec
+  de: |-
+    Wann aber des Kriegsuolcks wenig ist / mag mann nicht allein jetztgemelten Hauptman / sonder auch den obersten leutenant odder Feldmarschalck ersparn / dann hat der Oberst zu einem wenigen Kriegsuolck einn leutenant / bedarff er keines Feldmarschalcks / herwiderumb hat er einen Feldmarschalck / ist jhm der leutenant nicht von nöten.
+  cs: |-
+    Když je však válečného lidu málo, lze ušetřit nejen právě zmíněného hejtmana, nýbrž i nejvyššího poručíka nebo polního maršálka; má-li totiž nejvyšší velitel k nepočetnému válečnému lidu poručíka, nepotřebuje polního maršálka, a naopak má-li polního maršálka, není mu zapotřebí poručíka.
+- typ: odstavec
+  de: |-
+    Deßhalben sei ein jeder Kriegsherr gewarnet / daß er sich zů einem geringen Kriegsuolck / mit souil hohen vnnotwendigen ämptern / von der grossen besoldung wegen / nicht lasse vberladen / in ansehung / daß mit disen vnnd andern Artickeln / darauff ein Kriegsherr fleissig acht geben / soll auch im Krieg leichtlich etwas trefflichs ersparen.
+  cs: |-
+    Proto ať je každý válečný pán {Kriegsherr} varován, aby se při nepočetném válečném lidu nenechal kvůli vysokému žoldu {besoldung} zatížit tolika vysokými nepotřebnými úřady, vzhledem k tomu, že těmito i jinými články, na něž má válečný pán pilně dbát, může ve válce snadno ušetřit něco značného.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Volget der Oberst vber alle Prouosen / auch die Pollicei / vnd Justitien des legers zuuersehen.
+  cs: |-
+    Následuje nejvyšší nad všemi profousy {Prouosen}, jenž má také pečovat o veřejný řád {Pollicei}[^1] a spravedlnost {Justitien} v ležení.
+poznamky:
+- n: 1
+  text: |-
+    *Pollicei* (dobře uspořádaná správa, veřejný pořádek) znamená v 16. století dohled nad zásobováním, trhem, cenami, hygienou, táborovým klidem a kázní v ležení, nikoli dnešní policii.

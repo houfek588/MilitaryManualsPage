@@ -1,0 +1,32 @@
+id: 044v
+list: '44'
+strana: verso
+sken: 176
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd daß er von Landen / Stätten / Dörffern vnnd Flecken erobert / das Prouiant hett oder geben künde / verschonen das es nicht verbrennt oder verwüst werde / sonder brandtschatzen vmb Prouiant / wo es sein mag / vnd was sich gibt vnd zůfüren wil / soll mann alles / so sie gůt vnd willig sein / vnnd das Leger helffen erhalten / verschonen / Dann es wirdt manch mal vil gůter Füterung verbrennt / dauon mann sich wol lang speisen künde / Des soll der Kriegsherr darüber ein strauffenden Hauffen haben zuuerhüten / daß mann nit brenne / vnd die darüber brennen hart straffen / so wirdt auch desto mehr glück darbei sein.
+  cs: |-
+    a dobude-li země, města, vsi či městečka, jež by měla nebo mohla dávat proviant {Prouiant}, má je šetřit, aby nebyla vypálena ani zpustošena, nýbrž má na nich vybírat výpalné {brandtschatzen} v proviantu, kde to jen lze; a vše, co se poddá a chce dovážet [zásoby], pokud jsou dobří a ochotní a pomáhají živit ležení {Leger}, se má ušetřit. Neboť leckdy se spálí mnoho dobré píce, z níž by se dalo ještě dlouho živit. Proto nad tím má mít válečný pán {Kriegsherr} hlídkový houf {Hauffen}, který by bránil pálení, a ty, kdo přes zákaz pálí, má přísně trestat; pak při tom bude také tím více štěstí.
+- typ: odstavec
+  de: |-
+    Es soll auch ein Herr / der inn die Lande Kriegsuolck fürt / vnnd den gewalt hat daß er dem Landt starck vnd mechtig gnůg ist / nicht vnderlassen / so dasselbig Landt noch freund ist / einnemen / mit den Herren vnnd mit denen von dem Adell handeln / daß sie inn allen jhren Dörffern vnd Flecken verordnung thůn / was für Prouiant darinnen zubekommen ist / es sei an Brot / fleysch / fůter vnnd getranck daß dasselbig werd der Obrigkeit vberlieffert / vnd daß die Obrigkeit dasselbig auff einen freyen platz brenge / vnd vmb ein gebürlich gelt verkauffe / so das bei einem jeden Dorff oder Flecken geschicht / so hat mann nicht vrsach zunemen.
+  cs: |-
+    Pán také, který vede do zemí válečný lid {Kriegsuolck} a má moc, že je pro tu zemi dost silný a mocný, nemá opomenout – pokud je táž země ještě spřátelená – obsadit ji a vyjednat s pány i se šlechtici, aby ve všech svých vsích a městečkách nařídili, aby vše, co je tam z proviantu k sehnání, ať na chlebu, mase, píci či nápojích, bylo odevzdáno vrchnosti a aby to vrchnost přivezla na volné prostranství a prodávala za slušné peníze; děje-li se tak v každé vsi či městečku, není důvodu k drancování.
+- typ: odstavec
+  de: |-
+    Vnd ein Herr des Kriegs soll alßdann / so solliche versehung geschicht / hart darob halten / vnd so einen Herren bedeucht / Es wolt sein Volck weitter darüber vornemen / so soll ein HErr der das Kriegsuolck füret / inn sollichen Flecken / es weren Dörffer oder Stätt / seine Leut darinn verordnen / jre wapen oder Saluaguarden auffschlagen / vnd solche obgemelte Ordnung selbst mit den Leuten / des Landts fürnemen vnnd handthaben / so möcht mann wol ein Kriegsuolck auff den freunden on grosse beschwerung erhalten / vnd wann ein Kriegsuolck von seinem Herren bezalet wirt / so ists auch schuldig widerzubezalen / vnd ordnung zuhalten / vnnd sie haben dann nit vrsach zunemen.
+  cs: |-
+    A pán války pak, když se stane takové opatření, má na to přísně dohlížet; a kdyby se pánovi zdálo, že by jeho lid chtěl přesto podnikat něco dalšího, má pán, který válečný lid vede, do takových míst – ať by to byly vsi nebo města – dosadit své lidi, vyvěsit jejich erby či ochranné listy (salvagvardie)[^1] a sám spolu se zemskými obyvateli uvedený řád prosazovat a udržovat. Tak by bylo možno válečný lid na území přátel uživit bez velkého obtěžování; a když je válečný lid od svého pána placen, je také povinen platit za sebe a držet pořádek, a pak nemají důvod brát násilím.
+- typ: odstavec
+  de: |-
+    Wiewol auff dem Wasserstram der Thonaw / so mann nicht allein Flöß / sonder auch Schiff braucht / ein trefflicher vorrath an prouiand vff einmal in Vngern gefürt werden möcht / so wil mich doch auß nachuolgenden vrsachen den hauffen vnnd vberfluß der Schiffung / dermassen zuuerfüren / nicht gůt beduncken. Erstlich so mann die Schiff also vnder am stram gar hinab vnd auß dem Lande verfürt / sein sie mühsam vnd mit verlierung viler zeit widerumb heruff zubrengen / also wo darzwischen ein not zustünde / das mann volcks oder anderer kriegsrüstung nottürfftig in der eil bedürffte / dann were
+  cs: |-
+    Ačkoli by se po vodním toku Dunaje {Thonaw}, použijí-li se nejen vory, nýbrž i lodě, mohla do Uher {Vngern} dopravit najednou znamenitá zásoba proviantu, nezdá se mi přesto z následujících důvodů dobré odvážet takovým způsobem takové množství a nadbytek lodí. Za prvé: odvezou-li se lodě po proudu tak daleko dolů a ze země ven, je svízelné a se ztrátou mnoha času je zase dopravovat zpět nahoru; takže kdyby mezitím nastala nouze a bylo by ve spěchu zapotřebí lidu nebo jiné válečné výzbroje {kriegsrüstung}, pak by se
+poznamky:
+- n: 1
+  text: |-
+    Saluaguarden (z ital. salvaguardia) – ochranné glejty nebo vyvěšené znaky a erby vrchnosti, popřípadě strážní oddíl chránící místo před drancováním.

@@ -1,0 +1,37 @@
+id: 004v
+list: '4'
+strana: verso
+sken: 100
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Feldhauptmanschafft oder nicht/ soll er mit gůten leuten/ für sein person/ ein Ordnung im Leger anschlagen/ stürmen tag vnd nacht/ wol verwart/ besetzen/ versehe vnd verwacht werden.
+  cs: |-
+    polní hejtmanství {Feldhauptmanschafft} či nikoli, má pro svou osobu zřídit s dobrými lidmi pořádek v ležení {Leger}, aby bylo dnem i nocí i při ztečích dobře střeženo, obsazeno, opatřeno a hlídáno.
+- typ: odstavec
+  de: |-
+    Wann ein Stat/ Schloß oder befestigung auffgegeben wirt/ es geschehe daß die Kriegsleut/ so in der Besatzung legen/ mit jrer hab abziehen/ oder sich in ritterlich gefengnuß in gnad vnd vngnad ergeben/ so ist Prouiant/ vnd alle farene Habe/ die der Feinde gewesen/ sampt allen Gefangnen so sich/ wie gemelt/ in Gefengnuß ergeben hetten/ des Kriegsherrn/ allein außgenommen etliche Gerechtigkeiten/ so dem obersten Feldhauptman/ Feldmargschalck/ vnd anderen hohen ämptern zugehört/ daruon hernach anzeigung soll geschehen.
+  cs: |-
+    Když se vzdá město, hrad nebo opevnění – ať už tak, že válečníci {Kriegsleut}, kteří leželi v posádce {Besatzung}, odtáhnou se svým majetkem, nebo že se vydají do rytířského zajetí na milost a nemilost –, připadá proviant {Prouiant} a veškerý movitý majetek, který patřil nepřátelům, spolu se všemi zajatci, kteří se takto vydali do zajetí, válečnému pánovi {Kriegsherrn}, vyjma pouze některých práv, jež náležejí nejvyššímu polnímu hejtmanovi {obersten Feldhauptman}, polnímu maršálkovi {Feldmargschalck} a dalším vysokým úřadům, o čemž bude zpráva dále.
+- typ: odstavec
+  de: |-
+    So aber ein Kriegsherr/ die oberst Feldhauptmanschafft selbst verwaltet/ dann hat er ein obersten Leutenant/ derselb soll billicher zum Krieg geschickter sein/ dann eines andern obersten Feldhauptmans Leutenant/ ob gleich der Fürst des Kriegs auch erfarn/ geschickt vnd geübt ist/ angesehen daß mann eines Fürsten person/ sonderlich des Kriegsherrn hochrichten/ vnd mit nicht leidlich mit besichtigung der Feind vnnd Flecken die belegert werden sollen/ mit besehung der Schantzen/ vnd in alle andere weg/ on bewegliche vrsach inn gefehrlicheit setzen noch stellen soll/ dann wan ein Kriegsherr oder oberster Feldhauptman im feld nider ligt/ oder am leib schaden empfecht/ ist es beschwerlich/ vnd allem Kriegsuolck erschrecklich/ als die Kriegs erfarnen wol wissen/ auch andere leichtlich ermessen mögen.
+  cs: |-
+    Spravuje-li však válečný pán nejvyšší polní hejtmanství sám, má pak nejvyššího poručíka {obersten Leutenant}, jenž má být právem ve válce ještě zběhlejší než poručík jiného nejvyššího polního hejtmana – byť by i sám kníže byl ve válce zkušený, obratný a vycvičený –, vzhledem k tomu, že je třeba si osoby knížete a zvláště válečného pána vysoce vážit a nikterak lehce[^1] ho bez závažného důvodu neuvádět ani nevystavovat nebezpečí při obhlížení nepřátel a měst, jež se mají obléhat, při prohlídce šancí {Schantzen} ani v žádné jiné věci. Neboť padne-li v poli válečný pán nebo nejvyšší polní hejtman nebo utrpí-li zranění na těle, je to těžká rána a pro veškerý válečný lid {Kriegsuolck} věc děsivá, jak dobře vědí ti, kdo mají válečné zkušenosti, a i jiní si to mohou snadno domyslet.
+- typ: odstavec
+  de: |-
+    Ein jeder Fürst sei gewarnet/ der einem anderen mit macht inn sein Land ziehen wil/ daß er sich mit demselben nit schlag/ ob er schon wol mit Kriegsuolck zu roß vnd fuß gefast ist/ er soll sich dem Feind für in einen vortheil legen/ es sei im feld oder bei einem Flecken/ daß er dem gegentheil den gewaltigen auch die strauffzüge in seinem lande weren möge/ auch wo er die Prouiant vnd fütterung/ dem Feind nit entfüren oder flöhen mag/ soll ers verderben oder verbrennen/ angesehen daß es vil besser ist verderbt/ dann daß sich die Feind darmit speisen/ fůtern vnd vnderhalten/ vnd welcher seinen Feinden/ wie gehört/ den eingang in sein land verhielt/ der zwingt sie zum abzug/ oder daß sie jhn in seinem vortheil angreiffen/ vnd darinnen stürmen vnd schlagen müssen/ sonst wann ein Herr leichtlich schlüge/ vnd die schlacht verlüre/ so were das Land auch verloren/ etc.
+  cs: |-
+    Každý kníže, do jehož země chce jiný vtrhnout s mocí, nechť je varován, aby se s ním nepouštěl do bitvy, i kdyby byl dobře připraven s válečným lidem na koni i pěšky; má se před nepřítelem uložit na výhodném místě, ať už v poli nebo u nějakého města, aby mohl protivníkovi bránit v hlavním tažení i v nájezdech ve své zemi. A kde by nepříteli nemohl odvézt či zachránit proviant a píci, má je zničit nebo spálit, neboť je mnohem lépe je zničit, než aby se jimi nepřátelé živili, krmili koně a udržovali. A kdo takto, jak řečeno, zadrží svým nepřátelům vstup do své země, donutí je buď k ústupu, nebo k tomu, aby na něho zaútočili v jeho výhodném postavení a tam na něj museli dorážet a bít se; jinak kdyby se pán lehkomyslně pustil do bitvy a prohrál ji, byla by ztracena i země atd.
+- typ: odstavec
+  de: |-
+    Es möchte sich aber ein Kriegsuolck/ so ins land ziehen wolt/ eim zug oder in jrem Leger also vnordenlich vnd verächtlich halten/ ein Herr versüchte billich etwas/ doch soll der Herr die sach mit seinen Kriegs verstendigen wol vnd nottürfftig erwegen.
+  cs: |-
+    Mohlo by se ovšem stát, že by se válečný lid, který by chtěl vtrhnout do země, choval při tažení nebo ve svém ležení tak nepořádně a opovrženíhodně, že by pán právem něco podnikl; přesto má pán věc dobře a důkladně uvážit se svými válečnými znalci.
+poznamky:
+- n: 1
+  text: |-
+    Tisk má spojení *mit nicht leidlich* (případně ve smyslu *nicht leichtlich*, „nikterak lehkomyslně / neúměrně“).

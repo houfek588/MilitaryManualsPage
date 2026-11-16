@@ -1,0 +1,36 @@
+id: 080r
+list: '80'
+strana: recto
+sken: 233
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Artickelsbriff der Lantsknecht.
+  cs: Artikulní list {Artickelsbriff} lancknechtů {Lantsknecht}.
+- typ: odstavec
+  de: |-
+    ANfenglich solt jhr Römischer Keyserlicher Maiestat/ vnd derselben obersten Feldhauptman schweren trewlich zu dienen/ jren schaden zuwenden vnd fromen zu fürdern/ Deßgleichen allen ewren verordneten Obersten/ auch vnder Hauptleuten/ Fendrichen vnnd Weibeln/ so von dem gedachten Obersten gesetzt werden/ gehorsam zusein/ was sie mit euch schaffen vnd gebietten das Kriegsleuten zusteht/ er sei Edel oder vnedel/ klein oder großhanß/ dasselbig on alle widerredt vnd auß züg zuthůn/ vnd kein meutterei zumachen/ sonder euch brauchen lassen/ es sei gegen den feinden oder von den feinden/ auff zügen oder wachten wie es sich begebe/ bei tag vnnd nacht/ nach dem es die notturfft erfordert.
+  cs: |-
+    Nejprve máte přísahat Římskému císařskému Veličenstvu a jeho nejvyššímu polnímu hejtmanovi {obersten Feldhauptman}, že budete věrně sloužit, odvracet jejich škodu a napomáhat jejich prospěchu; stejně tak být poslušni všem svým ustanoveným plukovníkům {Obersten}, rovněž podřízeným hejtmanům {vnder Hauptleuten}, praporečníkům {Fendrichen} a šikovatelům {Weibeln}, kteří jsou zmíněným plukovníkem dosazeni, a vše, co vám uloží a přikáží, co přísluší válečníkům {Kriegsleuten} – ať je kdo urozený či neurozený, malý či velký pán –, bez jakýchkoli odmluv a průtahů vykonat a nedělat žádnou vzpouru {meutterei}, nýbrž se nechat upotřebit, ať už proti nepřátelům, či od nepřátel, na taženích {zügen} nebo na strážích {wachten}, jak se přihodí, dnem i nocí, jak to bude nutnost vyžadovat.
+- typ: odstavec
+  de: |-
+    Zu dem andern vnd höchsten soll Gottes Lesterung mit schweren vnd fluchen bei höchster straff verbotten sein/ vnd die Obersten sollen hart darob halten/ selbst nit thůn/ so können sie die andern desto baß straffen/ Dann es wil wol von leichten hauffen gesagt werden: Ich bin ein Kriegsman vnd kein Closter fraw/ das ist vbel geredt/ dann ein Kriegsman der ist alle stundt inn sorgen vnnd gefahre des todts/ mehr dann ein anderer/ darumb er Gottes gnade allen augen blick bedörfftig vnd von nöten ist/ auch Gottes huld vnd gnad in seinen nöten vnd gefar höchlich bedarff/ So wissen wir das Got hefftig durch dz Gottslestern erzörnet wirdt/ vnd sein vngnade dardurch erlangen/ wann wir dann also in Gottes zorne vnd vngnade seind/ vnd von jm hilff haben wolten/ ist wol zugedencken/ wie Gott vns hilff vnd beistandt thůn wirt/ Darumb soll von den Obersten hart darüber gehalten werden/ so gibt Gott gnad darzů.
+  cs: |-
+    Za druhé a především má být pod nejpřísnějším trestem zakázáno rouhání se Bohu přísaháním a klením, a plukovníci na to mají přísně dbát a sami tak nečinit, aby mohli ostatní o to lépe trestat. Neboť lehkovážný houf {hauffen} rád říká: „Jsem voják {Kriegsman} a ne klášterní jeptiška.“ To je zle řečeno, neboť voják je každou hodinu ve starostech a v nebezpečí smrti více než kdokoli jiný, pročež Boží milost potřebuje a vyžaduje každým okamžikem a Boží přízně a milosti ve svých tísních a nebezpečích svrchovaně potřebuje. Vždyť víme, že Bůh se rouháním prudce rozhněvá a lidé si tím přivodí jeho nemilost; když jsme tedy takto v Božím hněvu a nemilosti a chtěli bychom od Něho pomoc, lze si snadno domyslet, jak nám Bůh pomůže a přispěje. Proto na to mají plukovníci přísně dbát, a pak k tomu dá Bůh svou milost.
+- typ: odstavec
+  de: |-
+    Wo aber einer oder mehr vngehorsam darinn erschine/ der oder dieselben sollen nach erkantnuß des Obersten gestrafft werden/ als in nach geschribnen Artickeln klerlich begriffen wirdt.
+  cs: |-
+    Ukázal-li by se však v tom jeden či více lidí neposlušnými, má či mají být potrestáni podle uvážení plukovníka, jak je jasně vyloženo v níže sepsaných článcích.
+- typ: odstavec
+  de: |-
+    Es sol sich ein jeder massen Got zu lestern/ wo aber einer oder mehr Got also freuentlich lestern würden/ die sollen am leib gestrafft werden.
+  cs: |-
+    Každý se má varovat rouhání Bohu; pokud by se však jeden či více lidí Bohu takto opovážlivě rouhali, mají být potrestáni na těle.
+- typ: odstavec
+  de: |-
+    Es soll sich auch ein jedes Fendlin Knecht samentlich/ sonderlich rotten weise/ oder wie es sich begebe oder die notturfft erheischt/ gebrauchen vnd schicken lassen/ es sei auff zug/ wacht oder besetzung/ nach erkantnuß des Obersten.
+  cs: |-
+    Rovněž se má každý praporec {Fendlin} knechtů {Knecht} pospolitě, zvlášť či po rotách {rotten weise}, nebo jak se přihodí či jak nutnost vyžaduje, nechat upotřebit a vyslat, ať už na tažení, stráž či do posádky {besetzung}, podle uvážení plukovníka.
