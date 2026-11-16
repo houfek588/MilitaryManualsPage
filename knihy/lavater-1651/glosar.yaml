@@ -898,7 +898,7 @@ hesla:
   hledat:
   - dvojžold
   - dvojit\w* žold
-  pozn: Doppelsöldner – zkušený nebo lépe vyzbrojený knecht (plná zbroj, dlouhé kopí, obouruční meč, hákovnice), který bral dvojnásobný žold a stál v prvních řadách.
+  pozn: Doppelsöldner – zkušený nebo lépe vyzbrojený knecht (plná zbroj, dlouhá píka, obouruční meč, hákovnice), který bral dvojnásobný žold a stál v prvních řadách.
 - id: obec
   cs: obec
   de:
@@ -921,7 +921,7 @@ hesla:
   kategorie: pravo
   hledat:
   - \bkruh
-  pozn: Ring – shromáždění mužstva v kruhu, kde se čtou artikule, skládá přísaha, oznamují rozkazy a koná soud (zvl. právo dlouhých kopí); obec v něm hlasuje zvednutím rukou.
+  pozn: Ring – shromáždění mužstva v kruhu, kde se čtou artikule, skládá přísaha, oznamují rozkazy a koná soud (zvl. právo dlouhých pík); obec v něm hlasuje zvednutím rukou.
 - id: sik
   cs: šik
   de:
@@ -1130,7 +1130,7 @@ hesla:
   - čtvrtinov\w* děl
   pozn: Kartouna – těžké krátké obléhací dělo; čtvrtkartouna (Quartan, Viertelbüchse) střílí čtvrtinovou kouli (asi 25 liber). Dobově též „kvartán“; v textu ponecháno i „quartan“.
 - id: hadovnice
-  cs: hadovnice
+  cs: kulverina
   de:
   - Schlange
   - Schlangen
@@ -1138,16 +1138,15 @@ hesla:
   - Nothschlange
   - Feldschlange
   - halbe Schlange
+  - halb Schlangen
   - Nothschlangen
   - Tracana
   - Schlauckana
   - Feldschlangen
   kategorie: delostrelectvo
   hledat:
-  - hadovni[cč]
-  - kolubrín
-  - zmij
-  pozn: Schlange (kolubrina) – dlouhé dělo na velký dostřel; „nouzová hadovnice“ (Notschlange) je těžká, polní a půl-hadovnice lehčí.
+  - kulverin
+  pozn: Schlange (kulverina, kolubrina) – dlouhé dělo na velký dostřel; „těžká kulverina“ (Notschlange) je těžší, „poloviční kulverina“ (halbe Schlange) lehčí.
 - id: plukovni-delko
   cs: plukovní dělko
   de:
@@ -1298,17 +1297,6 @@ hesla:
   kategorie: delostrelectvo
   hledat:
   - munic
-- id: dlouhe-kopi
-  cs: dlouhé kopí
-  de:
-  - Spies
-  - langer Spieß
-  - Langspieß
-  kategorie: zbrane
-  hledat:
-  - \bkopí
-  - \bpík
-  pozn: Langspieß – asi 5 m dlouhé kopí (píka), hlavní zbraň lancknechtského šiku.
 - id: hlavni-zbran
   cs: hlavní zbraň
   de:
@@ -1573,7 +1561,7 @@ hesla:
   - \bsoud
   pozn: Vojenský soud pluku pod rychtářem (Schultheiß); „hrdelní soud“ (peinliches Gericht) soudil zločiny trestané na hrdle.
 - id: pravo-dlouhych-kopi
-  cs: právo dlouhých kopí
+  cs: právo dlouhých pík
   de:
   - Recht der langen Spieße
   - durch die Spieß jagen
@@ -1581,9 +1569,9 @@ hesla:
   - gassen
   kategorie: pravo
   hledat:
-  - dlouh\w* kopí
+  - dlouh\w* pík
   - uličk
-  pozn: Lancknechtský „obecný“ soud, kdy obec v kruhu po trojí poradě a většinovém hlasování sama odsoudila provinilce k proběhnutí uličkou (gassen) z kopí.
+  pozn: Lancknechtský „obecný“ soud, kdy obec v kruhu po trojí poradě a většinovém hlasování sama odsoudila provinilce k proběhnutí uličkou (gassen) z pík.
 - id: prisaha
   cs: přísaha
   de:
@@ -2285,7 +2273,7 @@ hesla:
   kategorie: jednotky
   hledat:
   - \bjež(ek|ka|kem|ku)\b
-  pozn: Igel – obranná sestava šiku, v níž knechti nastaví zkřížená kopí na všechny strany, zvl. proti jízdě.
+  pozn: Igel – obranná sestava šiku, v níž knechti nastaví zkřížené píky na všechny strany, zvl. proti jízdě.
 - id: kyrysnik
   cs: kyrysník
   de:
@@ -2577,7 +2565,7 @@ hesla:
   hledat:
   - stanovišt
   - obrann\w* úsek
-  pozn: Letze – úsek hradby či obranné postavení, přidělené skupině obránců s velitelem a děly; v textu též „obranný úsek“.
+  pozn: Letze – úsek hradby či obranné postavení, přidělené skupině obránců s velitelem a děly; v textu též „obranný úsek“. V alpské a švýcarské tradici též „zátaras“ či polní hrazení.
 - id: srub
   cs: srub
   de:
@@ -4109,13 +4097,18 @@ hesla:
   - Pique
   - Spiess
   - Spieß
+  - Spies
+  - langer Spieß
+  - langen Spiessen
+  - Langspieß
   - Picken
   - Picques
+  - Picken oder Spieß
   - Spiessen
   kategorie: zbrane
   hledat:
   - \bpík(a|y|u|ou|ami|ách)?\b
-  pozn: Pike/Spieß – dlouhé kopí pěšího šiku (asi 5 m).
+  pozn: Pike/Spieß – dlouhá píka pěšího šiku (asi 5 m).
 - id: korporal
   cs: desátník
   de:

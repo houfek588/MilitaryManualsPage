@@ -311,7 +311,7 @@ hesla:
   de: [Doppelsöldner, Doppelföldner, Toppelföldner, Toppelsöldner, Toppelsöldnern, Doppelsöldnern]
   kategorie: jednotky
   hledat: ['dvojžold', 'dvojit\w* žold']
-  pozn: Doppelsöldner – zkušený nebo lépe vyzbrojený knecht (plná zbroj, dlouhé kopí, obouruční meč, hákovnice), který bral dvojnásobný žold a stál v prvních řadách.
+  pozn: Doppelsöldner – zkušený nebo lépe vyzbrojený knecht (plná zbroj, dlouhá píka, obouruční meč, hákovnice), který bral dvojnásobný žold a stál v prvních řadách.
 - id: obec
   cs: obec
   de: [Gemein, Gemeyn, gemeyne Knecht, gemeyner Mann, gemeynen Mann, gemeyn Mann]
@@ -323,7 +323,7 @@ hesla:
   de: [Ring]
   kategorie: pravo
   hledat: ['\bkruh']
-  pozn: Ring – shromáždění mužstva v kruhu, kde se čtou artikule, skládá přísaha, oznamují rozkazy a koná soud (zvl. právo dlouhých kopí); obec v něm hlasuje zvednutím rukou.
+  pozn: Ring – shromáždění mužstva v kruhu, kde se čtou artikule, skládá přísaha, oznamují rozkazy a koná soud (zvl. právo dlouhých pík); obec v něm hlasuje zvednutím rukou.
 - id: sik
   cs: šik
   de: [Ordnung, Schlachtordnung, Hauffen, Hauf, geuierte Ordnung, ziehordnung, ziehordnungen, geuierte Schlachtordnung, geuierte Schlachtordnungen, Schlachtordnungen, Ordnungen]
@@ -393,11 +393,11 @@ hesla:
   hledat: ['kartoun', '\bquartan', 'čtvrtinov\w* děl']
   pozn: Kartouna – těžké krátké obléhací dělo; čtvrtkartouna (Quartan, Viertelbüchse) střílí čtvrtinovou kouli (asi 25 liber). Dobově též „kvartán“; v textu ponecháno i „quartan“.
 - id: hadovnice
-  cs: hadovnice
-  de: [Schlange, Schlangen, Notschlange, Nothschlange, Feldschlange, halbe Schlange, Nothschlangen, Tracana, Schlauckana]
+  cs: kulverina
+  de: [Schlange, Schlangen, Notschlange, Nothschlange, Feldschlange, halbe Schlange, halb Schlangen, Nothschlangen, Notschlang, Schlang, Tracana, Schlauckana]
   kategorie: delostrelectvo
-  hledat: ['hadovni[cč]', 'kolubrín', 'zmij']
-  pozn: Schlange (kolubrina) – dlouhé dělo na velký dostřel; „nouzová hadovnice“ (Notschlange) je těžká, polní a půl-hadovnice lehčí.
+  hledat: ['kulverin']
+  pozn: Schlange (kulverina, kolubrina) – dlouhé dělo na velký dostřel; „těžká kulverina“ (Notschlange) je těžší, „poloviční kulverina“ (halbe Schlange) lehčí.
 - id: falkona
   cs: falkona
   de: [Falckana, Falkone, Falckaun, Falckanet, Falkonet, Falckona, Falckonen, Falckonet, Falckonnet, Falckanetlin, Falcka]
@@ -446,11 +446,11 @@ hesla:
 
 # ---------------------------------------------------------------- zbraně a výstroj
 - id: dlouhe-kopi
-  cs: dlouhé kopí
-  de: [Spieß, Spies, langer Spieß, Langspieß, Spiessen]
+  cs: píka
+  de: [Spieß, Spies, Spiess, langer Spieß, langen Spiessen, Langspieß, Spiessen]
   kategorie: zbrane
-  hledat: ['\bkopí', '\bpík']
-  pozn: Langspieß – asi 5 m dlouhé kopí (píka), hlavní zbraň lancknechtského šiku.
+  hledat: ['\bpík']
+  pozn: Spieß (Langspieß) – asi 5 m dlouhá píka (dlouhé kopí), hlavní zbraň lancknechtského šiku.
 - id: halapartna
   cs: halapartna
   de: [Hellebarde, Hellenparten, Helleparten, Hellenbarten]
@@ -528,11 +528,11 @@ hesla:
   hledat: ['\bsoud']
   pozn: Vojenský soud pluku pod rychtářem (Schultheiß); „hrdelní soud“ (peinliches Gericht) soudil zločiny trestané na hrdle.
 - id: pravo-dlouhych-kopi
-  cs: právo dlouhých kopí
+  cs: právo dlouhých pík
   de: [Recht der langen Spieße, durch die Spieß jagen, Spießrecht, gassen]
   kategorie: pravo
-  hledat: ['dlouh\w* kopí', 'uličk']
-  pozn: Lancknechtský „obecný“ soud, kdy obec v kruhu po trojí poradě a většinovém hlasování sama odsoudila provinilce k proběhnutí uličkou (gassen) z kopí.
+  hledat: ['dlouh\w* pík', 'uličk']
+  pozn: Lancknechtský „obecný“ soud, kdy obec v kruhu po trojí poradě a většinovém hlasování sama odsoudila provinilce k proběhnutí uličkou (gassen) z pík.
 - id: prisaha
   cs: přísaha
   de: [Eyd, Eydt, Eid, Endt]
@@ -884,7 +884,7 @@ hesla:
   de: [Igel, Izel, Ygel]
   kategorie: jednotky
   hledat: ['\bjež(ek|ka|kem|ku)\b']
-  pozn: Igel – obranná sestava šiku, v níž knechti nastaví zkřížená kopí na všechny strany, zvl. proti jízdě.
+  pozn: Igel – obranná sestava šiku, v níž knechti nastaví zkřížené píky na všechny strany, zvl. proti jízdě.
 - id: kyrysnik
   cs: kyrysník
   de: [Kürisser, Kürissern]
@@ -1043,11 +1043,11 @@ hesla:
 
 # ležení, opevnění
 - id: basta
-  cs: bašta
+  cs: bolverk
   de: [Bollwerck, Bollwercken]
   kategorie: opevneni
-  hledat: ['\bbašt', 'bolverk']
-  pozn: Bollwerk – předsunutá dělostřelecká obranná stavba (bašta, bastion); v textu někdy „bolverk“.
+  hledat: ['bolverk']
+  pozn: Bollwerk – předsunutá dělostřelecká obranná stavba ze dřeva a zeminy (předsunutá bašta); odlišit od zděné bašty (Bastey).
 - id: bocni-obrana
   cs: boční obranná stavba
   de: [Streichwehr, Streichwehren, Streychwehren]
@@ -1059,7 +1059,7 @@ hesla:
   de: [Letze, Letzen, Letz]
   kategorie: opevneni
   hledat: ['stanovišt', 'obrann\w* úsek']
-  pozn: Letze – úsek hradby či obranné postavení, přidělené skupině obránců s velitelem a děly; v textu též „obranný úsek“.
+  pozn: Letze – úsek hradby či obranné postavení, přidělené skupině obránců s velitelem a děly; v textu též „obranný úsek“. V alpské a švýcarské tradici též „zátaras“ či polní hrazení.
 - id: srub
   cs: srub
   de: [Blochhauß, Blochhaus, Blochheuser, Blockheuser]
