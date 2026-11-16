@@ -1,4 +1,4 @@
-id: '048'
+id: 048
 list: '48'
 strana: verso
 sken: 82
@@ -25,8 +25,11 @@ bloky:
     Markytáni {Marckitänter} a obyvatelé, kteří nejsou vázáni zvláštní povinností vojáků, mají Pánu Bohu složit tělesnou přísahu {leiblichen Eyd}[^3], že budou purkmistrovi a radě města N. věrni a oddáni, budou je varovat před škodou, hájit jejich užitek a prospěch a činit, co náleží řádným poddaným; a dozvědí-li se o nějaké újmě nebo spatří-li podezřelé osoby, že to oznámí plukovníkovi {Obersten}, i sobě samým k dobru. Mají také plukovníka nebo jeho zástupce poslouchat ve všech příkazech a zákazech, a budou-li povoláni pro potřeby posádky, mají se dát spolu s ostatními věrně použít. Dále: Každý má svou čeleď {Gesind}, co nebo
 poznamky:
 - n: 1
-  text: V originále „spraach-häuser“ – Sprachhaus, doslova „hovorna“, dobový eufemismus pro záchod.
+  text: |-
+    V originále „spraach-häuser“ – Sprachhaus, doslova „hovorna“, dobový eufemismus pro záchod.
 - n: 2
-  text: Oberwehr – dlouhá zbraň (mušketa, píka), na rozdíl od boční zbraně (kordu); srov. s. 40.
+  text: |-
+    Oberwehr – dlouhá zbraň (mušketa, píka), na rozdíl od boční zbraně (kordu); srov. s. [[040|40]].
 - n: 3
-  text: Leiblicher Eid – přísaha složená osobně, se zdviženými prsty, na rozdíl od pouhého slibu.
+  text: |-
+    Leiblicher Eid – přísaha složená osobně, se zdviženými prsty, na rozdíl od pouhého slibu.

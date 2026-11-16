@@ -105,7 +105,7 @@ def main():
             if re.search(r'[*\\]', text_of(de)):
                 warns.append(f'blok {k}: v de zůstalo * nebo \\')
             if de and cs and t == 'odstavec':
-                r = len(ct) / max(1, len(text_of(de)))
+                r = len(re.sub(r'\[\[[^|\]]*\|([^\]]*)\]\]', r'\1', ct)) / max(1, len(text_of(de)))
                 if r < 0.55 or r > 1.9:
                     warns.append(f'blok {k}: nepoměr délek CS/DE {r:.2f} – chybí nebo přebývá text?')
             if hotovo and (prisne or d['stav'] == 'zkontrolovano'):

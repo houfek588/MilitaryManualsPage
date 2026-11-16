@@ -28,6 +28,7 @@ nastroje/
   import_lavater.py         jednorázový import pracovního překladu Lavatera (.md)
   over_strany.py            kontrola dat (struktura, párování, poznámky, terminologie)
   odkazy_rytiny.py          Lavater: označení odkazů na mědirytiny v překladu značkou [[tab-NN|text]]
+  odkazy_strany.py          označení odkazů na čísla stran („Čti s. 5“) značkou [[id|text]] (knihy se stránkováním)
   normalizuj_zkratky.py     sjednocení přepisu zkratek tisku (ꝛc., vñ, …)
   overeno_clovekem.py       označení stran, které ručně ověřil člověk (pole overeno_clovekem)
   vyrez_drevorezy.py        výřez dřevořezů ze skenu přes IIIF (bloky obrazek se souborem drevorez-*.jpg)

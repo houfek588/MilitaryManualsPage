@@ -13,8 +13,7 @@ bloky:
     vytyčit, rozdělí jej generální kvartýrmistr {General-Quartiermeister} plukovním kvartýrmistrům a dává na dva vojáky pro jednu chýši 8 stop na šířku a 8 stop na délku; délka kvartýru se pak určí úměrně {nach advenant} a podle povahy místa. Neboť čím je kvartýr před městem širší a čím menší má hloubku[^1], tím lepší jej pokládám. Kompanii {Compagnie} o 200 mužích se také často přidělují 4 řady chýší, někdy více, jindy méně, podle toho, jak to dovoluje místo. Chýše se stavějí souběžně a žádný voják nesmí postavit svou ani o šířku dlaně {zwerchhand} před druhého, nýbrž v rovině, jinak musí svou chýši zase zbořit. Mezi dvěma řadami chýší je ulička 8 stop široká. Za vojáky jsou ubytováni hejtmani {Capitain}, jimž se dává 40 stop na délku a 40 stop na šířku. Odstup a ulička mezi vojáky a hejtmany činí 20 stop. Za nimi jsou ubytováni markytáni, jejichž chýše mají 20 stop a jejich ulička je rovněž 20 stop široká. Poplašné shromaždiště {Lermenplatz} má být vpředu mezi vojáky a zákopem {Tranche} a mít 200 nebo 250 stop. Pluky mají být od sebe odděleny 40, 50 nebo 100 stop. Ubytování {Losamenter} plukovníků {Collonels} má 68 nebo také 80 [stop na šířku] a 40 stop na délku. Generál má pro svůj kvartýr 600 až 700 stop; délka se řídí délkou kvartýrů a řad vojáků. Generálovi dělostřelectva {General von der Artillerey} se dává místo podle toho, kolik má u sebe čeledi, děl, munice a vozů. Pro proviant náleží zvláštní místo. Po pravé ruce jsou ubytováni vysocí důstojníci neboli generální osoby jeden vedle druhého a mezi chýšemi se má nechat odstup 50 nebo 60 stop, aby se dalo bez překážek procházet z jednoho místa na druhé, zvláště k munici. Jezdci mají být odděleni od pěších vojáků, aby se předešlo všelijakým nesnázím. Ubytují se 50 nebo 60 stop za markytány; každému se dává na chýši 10 stop, na koně 14 a na uličku 20. Ulička mezi chýšemi a hlavami koní má 6 stop. Chýše jezdců a jejich průčelí[^2] {gesichter} mají hledět k jejich poplašnému shromaždišti. Ubytování rytmistrů má 40 stop. Kramářům {Krämeren}, kteří táhnou za ležením, se dávají všem dohromady dvě řady nebo více, podle toho, kolik jich je. Prostor uličky je 200 stop. Trh tam nemá být daleko od generálova kvartýru, [totiž] 300 stop.
 - typ: nadpis
   uroven: 2
-  de: |-
-    Wann das Quartier abgestochen ist/ wie man sich alßdann verhaltet.
+  de: Wann das Quartier abgestochen ist/ wie man sich alßdann verhaltet.
   cs: Jak si počínat, když je kvartýr vytyčen.
 - typ: odstavec
   de: |-
@@ -23,6 +22,8 @@ bloky:
     Tehdy se z každé kompanie vyšle 6 nebo více mušketýrů se seržanty {Sergeanten} daleko před šikem; ti běží napřed s plukovním kvartýrmistrem a zaberou své kvartýry. Jakmile se pak jeden pluk po druhém
 poznamky:
 - n: 1
-  text: 'V originále „weniger hoch“ (méně vysoký) – míněn rozměr kvartýru kolmo k frontě, tj. jeho hloubka směrem od města, jak se kreslí na plánu.'
+  text: |-
+    V originále „weniger hoch“ (méně vysoký) – míněn rozměr kvartýru kolmo k frontě, tj. jeho hloubka směrem od města, jak se kreslí na plánu.
 - n: 2
-  text: '„Gesichter“ – zde patrně průčelí s okénky (srov. s. 124 „kleine gesichter“ = malá okénka); méně pravděpodobně tváře jezdců.'
+  text: |-
+    „Gesichter“ – zde patrně průčelí s okénky (srov. s. [[124|124]] „kleine gesichter“ = malá okénka); méně pravděpodobně tváře jezdců.

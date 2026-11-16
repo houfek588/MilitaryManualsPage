@@ -1,4 +1,4 @@
-id: '038'
+id: 038
 list: '38'
 strana: verso
 sken: 72
@@ -31,8 +31,11 @@ bloky:
     Hejtmani mají přísahat, že na tomto tažení {zug}, vedeném na pomoc a k zachování zemí a lidí našich milých spojenců N. N., učiní ve svých hejtmanstvích to nejlepší a nejvhodnější, že ve všem, s čím se setkají, budou jednat a uvažovat tak, aby to bylo městu N. ke slávě, užitku a cti, a že knechty, kteří jsou jim svěřeni, budou mít pod svým velením
 poznamky:
 - n: 1
-  text: Sergeant – v Lavaterově kompanii totéž co vachmistr (Wachtmeister); kompanie měla dva, viz kapitolu o vachmistrech na s. 42.
+  text: |-
+    Sergeant – v Lavaterově kompanii totéž co vachmistr (Wachtmeister); kompanie měla dva, viz kapitolu o vachmistrech na s. [[042|42]].
 - n: 2
-  text: Balbier (barbír) – lazebník, tj. ranhojič kompanie; jeho povinnosti popisuje kapitola o polním ranhojiči (Feldschärer) na s. 45.
+  text: |-
+    Balbier (barbír) – lazebník, tj. ranhojič kompanie; jeho povinnosti popisuje kapitola o polním ranhojiči (Feldschärer) na s. [[045|45]].
 - n: 3
-  text: Zahlherr – „platící pán“, tj. vrchnost, která vojsko najímá a platí (ve formulářích přísah purkmistr a rada „města N.“); prakticky totéž co válečný pán (Kriegsherr), viz s. 39.
+  text: |-
+    Zahlherr – „platící pán“, tj. vrchnost, která vojsko najímá a platí (ve formulářích přísah purkmistr a rada „města N.“); prakticky totéž co válečný pán (Kriegsherr), viz s. [[039|39]].

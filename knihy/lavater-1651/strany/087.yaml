@@ -9,8 +9,7 @@ bloky:
   pokracovani: true
   de: |-
     der rechten seiten vmbwendest/ also daß dein angesicht stehet/ wo du zuvor deinen rucken gekehret hast.
-  cs: |-
-    doprava, takže tvá tvář hledí tam, kam jsi předtím měl obrácena záda.
+  cs: doprava, takže tvá tvář hledí tam, kam jsi předtím měl obrácena záda.
 - typ: nadpis
   uroven: 3
   de: Was Lincks vmb kehrt euch seye.
@@ -85,6 +84,5 @@ bloky:
     To je, když ze dvou zástupů {Reyen} uděláš jeden, například když chceš kvůli těžkým dělům {grobes Geschütz} rozevřít své řady – neboť čím dál od sebe kuželky stojí, tím méně kuželek padne –, nebo když chceš kvůli těsnému prostoru svůj bitevní šik {Schlachtordnung} prodloužit, či se jinak ke své výhodě
 poznamky:
 - n: 1
-  text: >-
-    Squadron – zde pěší oddíl (šik o několika stech mužích, předchůdce praporu/batalionu), nikoli jezdecká švadrona.
-    Jezdeckou švadronu Lavater nazývá Schwader (str. 98).
+  text: |-
+    Squadron – zde pěší oddíl (šik o několika stech mužích, předchůdce praporu/batalionu), nikoli jezdecká švadrona. Jezdeckou švadronu Lavater nazývá Schwader (str. [[098|98]]).

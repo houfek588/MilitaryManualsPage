@@ -13,8 +13,7 @@ bloky:
     V zákopech {Tranchen} se také nechávají otvory k vycházení a vcházení, široké podle potřeby 7 nebo 8 stop, které se při nebezpečí od nepřítele zahrazují palisádami {Palissaden}. A když se vojsko takto zašancuje neboli zakope, má se začít přibližovat {approchieren} k městu aprošemi {Lauffgräben}, jak následuje.
 - typ: nadpis
   uroven: 2
-  de: |-
-    Wie man die Lauffgräben zu machen anfange.
+  de: Wie man die Lauffgräben zu machen anfange.
   cs: Jak se začínají kopat aproše.
 - typ: odstavec
   de: |-
@@ -23,4 +22,5 @@ bloky:
     Dříve než se začne, má se především prozkoumat terén; křoví, živé ploty, cesty, prohlubně, stromy, pahorky, hory a údolí jsou k tomu také dobrou pomocí. Začínat se má na 1000 stop; podle mínění některých na dostřel dvojité hákovnice {Doppelhaacken}. Čím blíže u kvartýru se totiž začne, tím lépe lze aproše z kvartýru bránit. Má se také hledět, kde se lze k pevnosti nejlépe přiblížit; nejslabší jsou čela {face}, hroty a rohy bašt {Bollwerck}. Když se pak má začít, vyšle se z každé kompanie {Compagnie} 10 nebo více či méně vojáků se selským nářadím, jako jsou krumpáče, motyky, lopaty atd. Ty inženýr v noci, když je tma, zavede do přímé linie a na každý prut se postaví 3 nebo 4 muži, ovšem pokud možno tak, aby lidé byli mimo nebezpečí. Zřídí se při tom také strážnice {Corps de garde} neboli reduta {Reduct} a stráž z jezdců a pěchoty a kolem dokola stálé stráže {Schiltwachten}, které dělníky varují před nepřátelským přepadem. Objeví-li se nepřítel, postaví se stráž na odpor a dělníci se mezitím uklidí stranou. Nepřítel se pak zažene zpět do pevnosti; kdyby však byl příliš silný, uchýlí se stráž do reduty neboli strážnice. Potom dělníci opět začnou pracovat, a jakmile vykopou jámu 3 stopy hlubokou a 3 stopy širokou, jsou mimo nebezpečí; proto každý pracuje se vší vážností a ze všech sil, aby se sám zajistil. A protože každý vykope takovou jámu, vznikne příkop, jak bylo řečeno, 3 stopy široký a hluboký. Zemina, kterou vyhazují, se hází směrem k městu na okraj příkopu. Vede-li se však linie přímo proti městu, nahazuje se zemina na obě strany a příkop se dělá 6 stop široký a 6 hluboký. Linie se také vedou nepravidelně, takže vždy jedna linie běží k druhé šikmo, nebo i přímo. Kde je příkop 6 stop hluboký, udělá se pro mušketýry střelecký stupeň {Bancket}. Čím širší jsou příkopy, tím výše se mají zvedat předprsně {Brustwehrinen}, aby byl člověk v příkopu krytý. Protože však v noci za tmy nelze všechno udělat tak správně, opraví chyby přes den několik úkolníků[^1] {Verdinger}. Na nejzazším konci linií se obvykle dělá čtvercová šančička {schäntzlein} neboli reduta, čtverec či strážnice; od jedné k druhé je 40 nebo 50 prutů a v nich se
 poznamky:
 - n: 1
-  text: 'Verdinger – dělníci najatí smluvně „od díla“ (verdingen = zadat práci za smluvenou cenu), placení od prutu hotového příkopu; viz s. 126.'
+  text: |-
+    Verdinger – dělníci najatí smluvně „od díla“ (verdingen = zadat práci za smluvenou cenu), placení od prutu hotového příkopu; viz s. [[126|126]].

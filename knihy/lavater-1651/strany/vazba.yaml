@@ -19,11 +19,11 @@ bloky:
     III. Das abgeschnittne bl. von Dopplierung für das 91. die übrigen 3. halb bögen der Schlachtordnungen in einanderen nach der zalgebunden werden.
   cs:
   - |-
-    I. [[tab-01|První mědirytina]] {Kupfferblat} se má vevázat před 1. stranu,[^1] [[tab-03|malý přistřižený list s věží]] za 8. stranu a [[tab-02|druhý malý list]] s kůlovými ploty {Stacketen}, šancovními koši {Schantzkörben} atd. za 12. stranu.
+    I. [[tab-01|První mědirytina]] {Kupfferblat} se má vevázat před [[001|1. stranu]],[^1] [[tab-03|malý přistřižený list s věží]] za [[008|8. stranu]] a [[tab-02|druhý malý list]] s kůlovými ploty {Stacketen}, šancovními koši {Schantzkörben} atd. za [[012|12. stranu]].
   - |-
-    II. [[tab-04|Cvičení]] {Exercitium} s mušketou {Mußqueten} se má vsadit před 81. stranu, [[tab-05|druhé]], s píkami {Spiessen}, za 82. a [[tab-06|třetí]], se štíty {Schilten}, za 83. stranu.
+    II. [[tab-04|Cvičení]] {Exercitium} s mušketou {Mußqueten} se má vsadit před [[081|81. stranu]], [[tab-05|druhé]], s píkami {Spiessen}, za [[082|82.]] a [[tab-06|třetí]], se štíty {Schilten}, za [[083|83. stranu]].
   - |-
-    III. [[tab-07|Přistřižený list o zdvojování]] {Dopplierung} [se má vevázat] před 91. stranu; zbývající 3 půlarchy se šiky {Schlachtordnungen} se mají svázat do sebe podle čísel.
+    III. [[tab-07|Přistřižený list o zdvojování]] {Dopplierung} [se má vevázat] před [[091|91. stranu]]; zbývající 3 půlarchy se šiky {Schlachtordnungen} se mají svázat do sebe podle čísel.
 - typ: nadpis
   uroven: 1
   de: ERRATA.
@@ -41,16 +41,17 @@ bloky:
   - Lin. 28. pag. 120. ringsweis.
   - Lin. 8. pag. 121. ander theil.
   cs:
-  - 'Řádek 13, strana 3: čti „36 prutů“ {růthen} místo „36 stop“.[^2]'
-  - 'Ř. 7, str. 9: „uprostřed poloviny brány“.[^3]'
-  - 'Ř. 31, str. 12: „dva a půl kroku“.'
-  - 'Ř. 1, str. 19: „každý prut“.'
   - |-
-    Ř. 22, str. 21 je vynecháno: „někteří dávají jednomu muži na stání a rozestup jeden krok“.
-  - 'Ř. 11, str. 88: „zástupy“ {reyen}.'
-  - 'Ř. 25, str. 99: „3 desátníci“ {Corporal}.'
-  - 'Ř. 28, str. 120: „v kruhu“.'
-  - 'Ř. 8, str. 121: „druhý díl“.'
+    Řádek 13, strana [[003|3]]: čti „36 prutů“ {růthen} místo „36 stop“.[^2]
+  - 'Ř. 7, str. [[009|9]]: „uprostřed poloviny brány“.[^3]'
+  - 'Ř. 31, str. [[012|12]]: „dva a půl kroku“.'
+  - 'Ř. 1, str. [[019|19]]: „každý prut“.'
+  - |-
+    Ř. 22, str. [[021|21]] je vynecháno: „někteří dávají jednomu muži na stání a rozestup jeden krok“.
+  - 'Ř. 11, str. [[088|88]]: „zástupy“ {reyen}.'
+  - 'Ř. 25, str. [[099|99]]: „3 desátníci“ {Corporal}.'
+  - 'Ř. 28, str. [[120|120]]: „v kruhu“.'
+  - 'Ř. 8, str. [[121|121]]: „druhý díl“.'
 - typ: nadpis
   uroven: 3
   de: Vegetius in Prol. lib. 3. de re militari.
@@ -70,13 +71,13 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    „Blat“ (doslova list, zkr. „bl.“) zde i v seznamu tiskových chyb znamená stranu tisku: čísla odpovídají stránkování knihy (str. 1, 8, 12, 81–83, 91). Starší pokyn knihaři je na konci slovníčku (strana slovnicek-2). Tento výtisk (HAB) není svázán podle žádného z obou pokynů: tabule I–VI ([[tab-01|tab-01]] až [[tab-06|tab-06]]) stojí vpředu za předsádkou, před str. 1, a list se zdvojováním i listy se šiky ([[tab-07|tab-07]] až [[tab-12|tab-12]]) jsou vevázány mezi str. 80 a 81, tj. před Třetí díl.
+    „Blat“ (doslova list, zkr. „bl.“) zde i v seznamu tiskových chyb znamená stranu tisku: čísla odpovídají stránkování knihy (str. [[001|1]], [[008|8]], [[012|12]], [[081|81]]–[[083|83]], [[091|91]]). Starší pokyn knihaři je na konci slovníčku (strana slovnicek-2). Tento výtisk (HAB) není svázán podle žádného z obou pokynů: tabule I–VI ([[tab-01|tab-01]] až [[tab-06|tab-06]]) stojí vpředu za předsádkou, před str. [[001|1]], a list se zdvojováním i listy se šiky ([[tab-07|tab-07]] až [[tab-12|tab-12]]) jsou vevázány mezi str. [[080|80]] a [[081|81]], tj. před Třetí díl.
 - n: 2
   text: |-
-    Čísla řádků se počítají bez živého záhlaví a bez nadpisů (ověřeno na str. 3: „36. schuh“ je 13. řádek textu). Některé údaje tohoto seznamu se s textem knihy zcela nekryjí (str. 12, ř. 31 a str. 19, ř. 1 nejsou ve skenu jednoznačně dohledatelné). Část oprav opakuje i druhý, delší seznam tiskových chyb na konci knihy (strana errata).
+    Čísla řádků se počítají bez živého záhlaví a bez nadpisů (ověřeno na str. [[003|3]]: „36. schuh“ je 13. řádek textu). Některé údaje tohoto seznamu se s textem knihy zcela nekryjí (str. [[012|12]], ř. 31 a str. [[019|19]], ř. 1 nejsou ve skenu jednoznačně dohledatelné). Část oprav opakuje i druhý, delší seznam tiskových chyb na konci knihy (strana errata).
 - n: 3
   text: |-
-    „Thars“ je tisková podoba slova „Thors“ (brány). Oprava patří k oddílu o výpadních brankách na str. 9 („Man machet sie in der mitte des Thors oder Porten“), kde má podle opravy stát „uprostřed poloviny brány“ – branka se tedy patrně dělá uprostřed jednoho křídla vrat.
+    „Thars“ je tisková podoba slova „Thors“ (brány). Oprava patří k oddílu o výpadních brankách na str. [[009|9]] („Man machet sie in der mitte des Thors oder Porten“), kde má podle opravy stát „uprostřed poloviny brány“ – branka se tedy patrně dělá uprostřed jednoho křídla vrat.
 - n: 4
   text: |-
     Vegetius, Epitoma rei militaris, předmluva ke 3. knize; odtud rčení „Si vis pacem, para bellum“.

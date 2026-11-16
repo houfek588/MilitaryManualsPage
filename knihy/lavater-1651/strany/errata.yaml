@@ -29,26 +29,29 @@ bloky:
   - in der 8. lin. des 121. bl. liß im anderen Theil/ für ersten Theil.
   cs:
   - |-
-    Na 13. řádku 3. strany čti „36 prutů“ {rüthen} místo „36 stop“ {schuh};[^1]
+    Na 13. řádku [[003|3. strany]] čti „36 prutů“ {rüthen} místo „36 stop“ {schuh};[^1]
   - |-
-    na 7. řádku 12. strany čti „wird“ místo „werden“ [jednotné číslo místo množného];[^2]
-  - na 2. řádku 18. strany [čti] „v 10 nebo 12 stop“ místo „12 stop“;[^3]
+    na 7. řádku [[012|12. strany]] čti „wird“ místo „werden“ [jednotné číslo místo množného];[^2]
   - |-
-    na 22. řádku 21. strany je vynecháno: „Někteří také dávají na každého muže 2 stopy rozestupu.“[^4]
+    na 2. řádku [[018|18. strany]] [čti] „v 10 nebo 12 stop“ místo „12 stop“;[^3]
   - |-
-    na 12. řádku 84. strany je vynecháno: „17. Prostrčte ruku řemenem rondelu {Rondellen}.“
+    na 22. řádku [[021|21. strany]] je vynecháno: „Někteří také dávají na každého muže 2 stopy rozestupu.“[^4]
   - |-
-    tamtéž na 25. řádku: „3. Prostrčte ruku řemeny štítu {Targe} a připravte se.“ [str. 84, ř. 25][^5]
-  - na 20. řádku 52. strany čti „Sentinellen“ místo „Saintinellen“;
-  - na 3. řádku 53. strany „Sentinell“;
-  - na 4. řádku tamtéž „Sentinell“; [str. 53, ř. 4][^6]
+    na 12. řádku [[084|84. strany]] je vynecháno: „17. Prostrčte ruku řemenem rondelu {Rondellen}.“
   - |-
-    na 16. řádku 116. strany čti „podpěrné trámy {Vndersätzbäum}“ místo „a Ersätzbäum“;[^7]
-  - na 23. řádku 120. strany čti „odkašlat si“ místo „zavolat“;[^8]
+    tamtéž na 25. řádku: „3. Prostrčte ruku řemeny štítu {Targe} a připravte se.“ [str. [[084|84]], ř. 25][^5]
   - |-
-    na 28. řádku téže strany čti „v kruhu“ {Ringsweis} místo „v zástupech“ {Reyenweis}; [str. 120, ř. 28]
+    na 20. řádku [[052|52. strany]] čti „Sentinellen“ místo „Saintinellen“;
+  - na 3. řádku [[053|53. strany]] „Sentinell“;
+  - na 4. řádku tamtéž „Sentinell“; [str. [[053|53]], ř. 4][^6]
   - |-
-    na 8. řádku 121. strany čti „ve druhém díle“ místo „v prvním díle“.[^9]
+    na 16. řádku [[116|116. strany]] čti „podpěrné trámy {Vndersätzbäum}“ místo „a Ersätzbäum“;[^7]
+  - |-
+    na 23. řádku [[120|120. strany]] čti „odkašlat si“ místo „zavolat“;[^8]
+  - |-
+    na 28. řádku téže strany čti „v kruhu“ {Ringsweis} místo „v zástupech“ {Reyenweis}; [str. [[120|120]], ř. 28]
+  - |-
+    na 8. řádku [[121|121. strany]] čti „ve druhém díle“ místo „v prvním díle“.[^9]
 - typ: nadpis
   uroven: 3
   de: NB.
@@ -59,29 +62,29 @@ bloky:
     Jn der 4. lin. im 84. blat ist das Exercitium der Spieß auch in Kupffer gebracht/ vnd sollen hiemit die fünffte vnd sechßte linien durch seyn.
   cs:
   - |-
-    Na 4. řádku 84. strany: cvičení {Exercitium} s píkou je také vyobrazeno [[tab-05|na mědirytině]], a proto mají být pátý a šestý řádek škrtnuty.[^5]
+    Na 4. řádku [[084|84. strany]]: cvičení {Exercitium} s píkou je také vyobrazeno [[tab-05|na mědirytině]], a proto mají být pátý a šestý řádek škrtnuty.[^5]
 poznamky:
 - n: 1
   text: |-
-    „Blat“ (doslova list) znamená stranu tisku; čísla řádků se počítají bez živého záhlaví a bez nadpisů (ověřeno ve skenu str. 3: „36. schuh“ je 13. řádek textu). Odkazy v hranatých závorkách u položek „tamtéž“ doplnil překladatel. Tutéž opravu má i kratší seznam tiskových chyb na předsádce (strana vazba).
+    „Blat“ (doslova list) znamená stranu tisku; čísla řádků se počítají bez živého záhlaví a bez nadpisů (ověřeno ve skenu str. [[003|3]]: „36. schuh“ je 13. řádek textu). Odkazy v hranatých závorkách u položek „tamtéž“ doplnil překladatel. Tutéž opravu má i kratší seznam tiskových chyb na předsádce (strana vazba).
 - n: 2
   text: |-
-    Ve skenu str. 12 není „werden“ na 7. řádku textu; nejblíže je „vnd werden gesetzt auff den aussersten rand des Grabens“ na 6. řádku (o ravelinu) – odkaz je tedy nejistý.
+    Ve skenu str. [[012|12]] není „werden“ na 7. řádku textu; nejblíže je „vnd werden gesetzt auff den aussersten rand des Grabens“ na 6. řádku (o ravelinu) – odkaz je tedy nejistý.
 - n: 3
   text: |-
-    Na 2. řádku str. 18 se údaj nenachází; „12. schuh“ stojí na 28. řádku textu („Ein ruhten/ bey etlichen 10. bey den Holänderen 12. schuh“ – míra prutu). Číslo řádku je zřejmě chybné (snad 28.); srov. i opravu „Lin. 1. pag. 19. Jede růthen“ v seznamu na straně vazba.
+    Na 2. řádku str. [[018|18]] se údaj nenachází; „12. schuh“ stojí na 28. řádku textu („Ein ruhten/ bey etlichen 10. bey den Holänderen 12. schuh“ – míra prutu). Číslo řádku je zřejmě chybné (snad 28.); srov. i opravu „Lin. 1. pag. 19. Jede růthen“ v seznamu na straně vazba.
 - n: 4
   text: |-
-    Doplněk patří k výpočtu obvodu pevnosti a síly posádky na str. 21 (obvod 3750 stop, posádka 1875 mužů, tj. právě 2 stopy na muže). Kratší seznam chyb na předsádce uvádí na témže místě znění „někteří dávají jednomu muži na stání a rozestup jeden krok“ (krok = 2 stopy, srov. str. 18).
+    Doplněk patří k výpočtu obvodu pevnosti a síly posádky na str. [[021|21]] (obvod 3750 stop, posádka 1875 mužů, tj. právě 2 stopy na muže). Kratší seznam chyb na předsádce uvádí na témže místě znění „někteří dávají jednomu muži na stání a rozestup jeden krok“ (krok = 2 stopy, srov. str. [[018|18]]).
 - n: 5
   text: |-
-    V tomto výtisku (HAB) str. 84 již obsahuje opravené znění: bod 17 „Durch die Riemen der Rondellen steckt den Arm“ i celé cvičení se štítem (Targe); řádky o „cvičení s píkou“ zde nejsou. Opravy k str. 84 se tedy týkají staršího stavu sazby (patrně prvního vydání 1644) a tento seznam byl do knihy převzat beze změny.
+    V tomto výtisku (HAB) str. [[084|84]] již obsahuje opravené znění: bod 17 „Durch die Riemen der Rondellen steckt den Arm“ i celé cvičení se štítem (Targe); řádky o „cvičení s píkou“ zde nejsou. Opravy k str. [[084|84]] se tedy týkají staršího stavu sazby (patrně prvního vydání 1644) a tento seznam byl do knihy převzat beze změny.
 - n: 6
   text: |-
-    Sentinelle (fr./it.) – stráž, hlídka; v tisku str. 52–53 skutečně stojí chybné „Saintinellen“, „Saintinell“.
+    Sentinelle (fr./it.) – stráž, hlídka; v tisku str. [[052|52]]–[[053|53]] skutečně stojí chybné „Saintinellen“, „Saintinell“.
 - n: 7
   text: |-
-    Na str. 116 ve výčtu dřeva pro zbrojnici stojí „Eselböcken/ vnd Ersätzbäumen“; správně „Vndersätzbäum“ – podkládací, podpěrné trámy.
+    Na str. [[116|116]] ve výčtu dřeva pro zbrojnici stojí „Eselböcken/ vnd Ersätzbäumen“; správně „Vndersätzbäum“ – podkládací, podpěrné trámy.
 - n: 8
   text: |-
     Str. 120 o rozestavení stálých stráží: mají stát tak daleko od sebe, aby jeden druhého v noci viděl nebo slyšel – podle opravy „odkašlat si“ (reusperen = räuspern), ne „zavolat“ (stráže se mají patrně dorozumívat co nejtišeji).
