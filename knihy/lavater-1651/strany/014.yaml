@@ -1,0 +1,43 @@
+id: '014'
+list: '14'
+strana: verso
+sken: 48
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Schiffen anlenden/ oder durch das dünne Wasser der Feind an den Wal watten möchte.
+  cs: |-
+    přistát s loďmi nebo kde by nepřítel mohl mělkou vodou přebrodit až k valu {Wal}.
+- typ: nadpis
+  uroven: 3
+  de: Wie die Palissaden gemachet werden.
+  cs: Jak se dělají palisády
+- typ: odstavec
+  de: |-
+    Man machet von starckem holtz pfäl/ die in der dicke oder diameter dritthalben/ auch vier daumen halten/ seind in vngleicher länge/ dann sie müssen an vnderschiedliche örter gesetzet werden: Etliche seind 5. etliche 6. oder 8. schuh in der länge. Oben seind sie breit/ vnd vnden gebrennt/ vnd zugespitzt: gebrennt/ damit sie desto länger in der Erden halten mögen. Man boret löcher dareyn/ vnd schlaget zween spitzig nägel/ die gleich den hörneren sehen/ dareyn/ doch sollen die nägel mehr obsich alß gerad seyn/ vnd seind solche eyserne nägel 9. oder 10. zoll lang/ an einem ort spitzig/ am anderen aber stumpff/ etwan ein halben zoll dick/ damit man sie nicht leichtlich krümmen oder außziehen möge. Das außwendige an den näglen soll scharpff vnd spitzig seyn: die pfäl selbsten werden nahe zusammen vngefahr einen halben/ vnd zween schuh tieff in die Erden geschlagen/ vnd drey reyen hinder einanderen/ daß sie dem Mann an den Gürtel gehen: den ersten reyen nimmt man von den 5. schühigen/ den anderen reyen nimmt man von 6. vnd den hindersten von 8. schühigen Palissaden/ vnd stellt man je einen reyen einen halben schuh höher alß den anderen: will man aber einen reyen mehr haben/ kan es nach eines jeglichen gefallen gemachet werden.
+  cs: |-
+    Ze silného dřeva se dělají kůly, které mají v tloušťce čili průměru dva a půl až čtyři palce {daumen} a jsou nestejně dlouhé, protože se musejí stavět na různá místa: některé jsou 5, jiné 6 nebo 8 stop {schuh} dlouhé. Nahoře jsou široké, dole opálené a zašpičatělé – opálené proto, aby v zemi déle vydržely. Navrtají se do nich otvory a vrazí se do nich dva špičaté hřeby, které vypadají jako rohy; hřeby však mají mířit spíše vzhůru než rovně. Tyto železné hřeby jsou 9 nebo 10 palců {zoll} dlouhé, na jednom konci špičaté, na druhém tupé, asi půl palce silné, aby se nedaly snadno ohnout ani vytáhnout. Vyčnívající konce hřebů mají být ostré a špičaté. Samotné kůly se zatloukají těsně vedle sebe asi dvě a půl stopy hluboko do země,[^1] a to ve třech řadách za sebou, aby muži sahaly po pás. První řada se bere z pětistopých, druhá ze šestistopých a zadní z osmistopých palisád {Palissaden}, a každá řada se staví o půl stopy výš než předchozí. Chce-li však kdo mít o řadu víc, může to udělat podle své libosti.
+- typ: nadpis
+  uroven: 3
+  de: Worzu die Palissaden dienstlich seyen?
+  cs: K čemu jsou palisády užitečné?
+- typ: odstavec
+  de: |-
+    Sie seind gut in den verschantzungen eines Lägers/ da man von 5. 6. 7. oder 8. schuhen offnungen zum auß- vnd eyngang lasset/ vnd da weder Graben noch Wäl darvor seind/ vnd man feinds zu besorgen hat/ dise löcher darmit zu verschlagen: bißweilen muß man sich rings vmbher mit solchen vmbpfälen/ da der Feind zu nahe auff der hauben/ vnd man nicht zeit hat sich zu verschantzen. Sie seind auch sehr gut wo der Feind ein Bresche geschossen vnd man nicht zeit hat/ solche widerumb auffzubawen. Sie seind auch nutzlich für alle Werck auff die Berm für die Stagketen zu setzen: jnsonderheit wo kein Wasser ist/ vnd man sich vnversehenen vberfals zu befaaren hat.
+  cs: |-
+    Hodí se v opevnění ležení {Lägers}, kde se nechávají otvory po 5, 6, 7 nebo 8 stopách k východu a vchodu a kde před nimi není příkop ani val: když je třeba obávat se nepřítele, zatarasí se jimi tyto otvory. Někdy se jimi člověk musí obehnat i dokola, když je mu nepřítel příliš blízko na krku {auff der hauben} a není čas se zakopat. Jsou také velmi dobré tam, kde nepřítel prostřelil průlom {Bresche} a není čas jej znovu vystavět. Jsou užitečné i pro všechna díla, kde se stavějí na bermu {Berm} před kůlový plot {Stagketen} – zvláště tam, kde není voda a kde je třeba obávat se nenadálého přepadu.
+- typ: nadpis
+  uroven: 3
+  de: Von Sturmhäspeln/ was sie seyen vnd wie sie gemachet werden.
+  cs: 'O útočných kozlicích {Sturmhäspeln}: co jsou a jak se dělají'
+- typ: odstavec
+  de: |-
+    Die werden in Holand Frisische Reuter vnd Sturmhäspel genannt/ vnd werden also gemachet: Nimm einen baum von starckem holtz/ der sich nicht leichtlich spaltet oder äst hat/ der 5. oder 6. zoll dick seye: etliche machen denselbigen auch sechseckig/ wir aber wöllen jhn allhie rund haben: disen durchboret man an vilen orten/ doch daß die löcher nicht in einander gehen/ sonder ein oder zween daumen vber einander kommen/ in form eines sechseckigen Sternens/ also daß der vmbkreiß in drey gleiche theil getheilet werde: durch dise löcher stoßt man halbe Spieß 6. schuh lang/ an beyden orten mit scharpffen
+  cs: |-
+    V Holandsku se jim říká fríští jezdci {Frisische Reuter} a útočné kozlice a dělají se takto: Vezmi kmen ze silného dřeva, které se snadno neštípe a nemá suky, 5 nebo 6 palců silný; někteří ho dělají také šestihranný, my ho však zde chceme mít kulatý. Ten se provrtá na mnoha místech, avšak tak, aby se otvory navzájem neprotínaly, nýbrž ležely o jeden nebo dva palce nad sebou, v podobě šesticípé hvězdy, takže se obvod rozdělí na tři stejné díly. Těmito otvory se prostrčí poloviční píky {halbe Spieß} 6 stop dlouhé, na obou koncích okované ostrými
+poznamky:
+- n: 1
+  text: 'Tisk: „vngefahr einen halben/ vnd zween schuh tieff“ – nejspíš 2½ stopy; možné je i čtení „půl až dvě stopy“.'

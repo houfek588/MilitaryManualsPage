@@ -1,0 +1,47 @@
+id: '002'
+list: '2'
+strana: verso
+sken: 36
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    einanderen stampffen: denselben auch/ wo man zeits genug hat/ nicht zu vil auff ein mal mit einanderen auffbawen/ vnd sich ein wenig setzen lassen. Der anschlag wird von Schlehen/ Reck- oder Wachholderbeer/ etc. außwendig biß an die Brustwehr besäyet: im auffwachsen werden die bollen abgestrupfft/ die wachsen alßdann sehr dick in einander/ vnd behalten die Erden beysammen. Oben macht man den Gang des Wals hinden ein schuh nidriger alß vornen/ damit sich das schnee- vnd rägenwasser darauff nicht setzen/ löcher vnd spält eynfressen/ sondern widerumb hinden ablauffen könne. Es soll auch der Wal nicht zu hoch seyn/ damit wann der Feind in seinen Lauffgräben wäre/ nahe zu dem Wal vnd dem Graben käme/ da man sich am meisten zu wehren von nöhten hette/ er darvon entdecket vnd gesehen werden möge: Er soll auch nicht zu nidrig seyn/ daß man von dem Feind nicht vberhöhet werde: auch nicht zu schmahl/ damit der Feind denselben nicht leichtlich vndergraben vnd sprengen/ vnd man darauff desto mehr Geschütz vnd Volck stellen möge: vnd dann auch nicht zu breit/ damit man nicht hinder der Brustwehr entdeckt/ auch vil gelts vnd zeits ersparet werde. Oben auff dem Wal ist der Gang meistentheils 20. in 30. schuh (jeder schuh zu 12. daumen/ vntzen oder zöll gerechnet:) die Brustwehr ist 12. biß in 24. schuh.
+  cs: |-
+    udusat vrstvu na vrstvu; a je-li dost času, nemá se stavět příliš mnoho najednou, nýbrž je třeba nechat ho trochu sednout. Líc valu {anschlag}[^1] se zvenčí až po předprseň {Brustwehr} oseje trnkami, jalovcovými bobulemi a podobně; když vzcházejí, otrhávají se jim pupeny {bollen}, takže pak rostou velmi hustě do sebe a drží zeminu pohromadě. Ochoz valu {Gang} se nahoře dělá vzadu o stopu nižší než vpředu, aby se na něm sněhová a dešťová voda nedržela a nevymílala díry a trhliny, nýbrž mohla zase vzadu odtéci. Val také nemá být příliš vysoký, aby nepřítel, až bude ve svých aproších {Lauffgräben} a přiblíží se k valu a příkopu, kde je nejvíce třeba se bránit, mohl být z valu odhalen a spatřen. Nemá být ani příliš nízký, aby nás nepřítel nepřevyšoval; ani příliš úzký, aby ho nepřítel nemohl snadno podkopat a vyhodit do povětří a aby se na něj dalo postavit tím více děl a lidu; a konečně ani příliš široký, aby obránci za předprsní nebyli odhaleni a aby se ušetřilo mnoho peněz a času. Ochoz nahoře na valu mívá většinou 20 až 30 stop (stopa počítána po 12 palcích, uncích neboli coulech), předprseň [je silná] 12 až 24 stop.
+- typ: nadpis
+  uroven: 2
+  de: Von des Wals Superficie.
+  cs: O plochách valu.
+- typ: odstavec
+  de: |-
+    Superficies ist ein jede ebne oder fläche/ deren der Wal 4. hat: alß die Abdachung der Brustwehr: der Walgang: die jnner- vnd ausser schräge/ böschung oder beschühung. 1. Die Abdachung ist eigentlich die oberfläche der Brustwehr/ so sich gegen dem Feld abdachet/ oder gäch ablaufft. 2. Der Walgang ist oben auff dem Wal der platz hinder der Brustwehr/ zum stand für die Soldaten vnd Stuck. 3. Die jnner Schräge ist die streb/ ablauff/ oder fuß des Wals/ so die Erden selbst gibt. 4. Die ausser aber wird auffgebawen/ wie oben gemeldt/ vil oder wenig/ je nach dem die Erden gut oder sandig. Jn der bösen Erden gibt man schuh auff schuh in der mittelmässigen auff vier schuh drey: in der gar guten auff drey schuh zween.
+  cs: |-
+    Plochou {Superficies} se rozumí každá rovina neboli plocha; val jich má čtyři: horní sklon předprsně {Abdachung}, ochoz valu {Walgang} a vnitřní a vnější šikminu {schräge} čili svah {böschung} neboli „obutí“ {beschühung}.[^2] 1. Horní sklon je vlastně horní plocha předprsně, která se k poli svažuje neboli příkře spadá. 2. Ochoz valu je prostor nahoře na valu za předprsní, kde stojí vojáci a děla {Stuck}. 3. Vnitřní šikmina je opěra, spád neboli pata valu, jakou dá zemina sama. 4. Vnější se naproti tomu, jak výše řečeno, staví s větším nebo menším sklonem podle toho, zda je zemina dobrá, nebo písčitá. Ve špatné zemině se dává stopa na stopu, ve středně dobré na čtyři stopy tři, ve velmi dobré na tři stopy dvě.[^3]
+- typ: nadpis
+  uroven: 2
+  de: Von dem Banck.
+  cs: O střeleckém stupni.
+- typ: odstavec
+  de: |-
+    Er ist ein Tritt hinder der Brustwehr/ vngefahr anderthalben schuh hoch/ auff dem Wal erhaben/ vnd drey schuh breit an dem puncten/ vnd oben nicht mehr alß zween schuh. Auff disem Banck stehen die Musquetierer/ vnd geben vber die Brustwehr fewr/ können auch desto besser inn vnd vber den Graben sehen.
+  cs: |-
+    Je to stupeň za předprsní, vyvýšený na valu asi o půldruhé stopy, dole tři stopy široký a nahoře nejvýše dvě stopy. Na tomto střeleckém stupni {Banck} stojí mušketýři a pálí přes předprseň; také odtud lépe vidí do příkopu a přes něj.
+- typ: nadpis
+  uroven: 2
+  de: Was die Brustwehr seye.
+  cs: Co je předprseň.
+- typ: odstavec
+  de: |-
+    Sie ist die auff dem Wal auffgesetzte vnd erhöchte Erden/ vnd wird Brustwehr genannt/ darumb daß sie den Soldaten/ so auff dem Wal stehen/ die Brust decket/ vnd sie darhinder wegen des Feinds Geschütz sicher stehen
+  cs: |-
+    Je to zemina navršená a zvýšená na valu; nazývá se „Brustwehr“ [prsní obrana] proto, že vojákům stojícím na valu kryje prsa a že za ní mohou stát v bezpečí před nepřátelskými děly.
+poznamky:
+- n: 1
+  text: Anschlag – zde vnější líc (svah) valu nad příkopem, který se osévá trnitými keři.
+- n: 2
+  text: Beschühung – doslova „obutí“; patrně obložení či zpevnění paty vnějšího svahu, význam nejistý.
+- n: 3
+  text: 'Poměr výšky svahu k jeho vodorovnému rozpětí – ve špatné zemině 1 : 1, ve střední 4 : 3, v dobré 3 : 2; čím lepší zemina, tím strmější svah.'

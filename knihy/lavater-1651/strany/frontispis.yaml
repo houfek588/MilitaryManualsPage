@@ -1,0 +1,15 @@
+id: frontispis
+list: frontispis
+strana: recto
+sken: 1
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Kriegs Büchlein
+  cs: Válečná knížka
+- typ: obrazek
+  soubor: frontispis.jpg
+  popis: |-
+    Rytý frontispis (titulní mědirytina) před tištěným titulním listem. Uprostřed bohatě zdobená boltcová kartuše s ozdobně rytým nápisem *Kriegs Büchlein* („Válečná knížka“); nahoře ji korunuje přilba s chocholy, dolní menší pole kartuše zůstalo prázdné. Po stranách stojí na podstavcích zdobených závěsy a girlandami dva pěšáci v oděvu 40. let 17. století. Vlevo mušketýr {Musquetierer} v širokém klobouku s pérem a s dlouhými vlasy: v pravé ruce drží mušketovou vidlici {Gabel}, přes rameno má bandalír s prachovnicí, na boku kord, svinutý doutnák a kapsu na koule. Vpravo pikenýr v přilbě (morionu) s chocholem: pravou rukou drží vztyčenou píku, levou ruku má v bok a na závěsu přes rameno nese kord. Za oběma postavami se zvedá hradba pevnosti s předprsní, nad ní je trofej zbraní: dělové hlavně a moždíře, dělové koule, halapartna, kropáč, píky, partyzány, korouhve a přilba. Rytina není číslovaná ani signovaná a text knihy se na ni neodvolává. Celou knihu uvádí obrazem: hradba a děla odpovídají Prvnímu dílu (O pevnosti), mušketýr a pikenýr výcviku zbraní ve Třetím dílu.

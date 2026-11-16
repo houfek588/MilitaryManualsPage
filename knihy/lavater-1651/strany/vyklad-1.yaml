@@ -1,0 +1,82 @@
+id: vyklad-1
+list: výklad cizích slov
+strana: recto
+sken: 9
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Erklärung der frömbden Nammen vnd Wörteren/ wie solche in der Schrifft vnd Riß gelesen/ gefunden vnd verdolmetschet werden.
+  cs: |-
+    Výklad cizích jmen a slov, jak se v textu a na nákresech čtou, nacházejí a tlumočí.
+- typ: odstavec
+  de: |-
+    Vestung/ heißt auch Munimentum, munitio, fortalitium: fort, forteresse; fortezza, fortificatione (wird außgesprochen/ munimentum/ munitzio/ fortalizium/ fort/ fortezza/ fortifikatione) liß das 1. blat/ vnd besihe die Figur A. des 1. Kupfferblats.
+  cs: |-
+    {Vestung}, nazývá se též Munimentum, munitio, fortalitium; fort, forteresse; fortezza, fortificatione (vyslovuje se munimentum, munitzio, fortalizium, fort, fortezza, fortifikatione) – pevnost. Čti s. [[001|1]][^1] a prohlédni si obrazec A na [[tab-01|1. mědirytině]].
+- typ: odstavec
+  de: Regular vnd Irregular, heißt richtig vnd vnrichtig liß das 1. bl.
+  cs: |-
+    Regular a Irregular znamená pravidelný a nepravidelný; čti s. [[001|1]].
+- typ: odstavec
+  de: 'Real oder Royal, heißt ein Hauptschantz/ Hauptwerck: liß das 1. bl.'
+  cs: |-
+    {Real} neboli Royal znamená hlavní šanci, hlavní dílo – královská pevnost.[^2] Čti s. [[001|1]].
+- typ: odstavec
+  de: |-
+    Polygonal-linien/ ist die distantz/ oder weite zwischen 2. Bollwercksspitzen oder Puncten/ vnd heißt die eussere vill-egk oder polygone, polygone exterieur, (oder exteriür) Latus polygoni exterioris, liß das 1. bl. vnd sihe das 1. Kupfferbl. fig. A. mit 9. vnd a. bezeichnet. Interieur polygone ist die inner Polygonal-linien/ so von einem Kälpuncten zum anderen laufft/ wie das 1. Kupfferbl. fig. A. mit o, vnd v, außweißt.
+  cs: |-
+    {Polygonal-linien} – polygonová linie je vzdálenost čili šíře mezi špicemi neboli body dvou bašt a nazývá se vnější mnohoúhelník {vill-egk} neboli polygone, polygone exterieur (vyslov exteriür), Latus polygoni exterioris[^3]. Čti s. [[001|1]] a viz [[tab-01|1. mědirytinu]], fig. A, kde je označena 9 a „a“. Interieur polygone [vnitřní mnohoúhelník] je vnitřní polygonová linie, která vede od jednoho bodu hrdla {Kälpuncten} k druhému, jak ukazuje [[tab-01|1. mědirytina]], fig. A, písmeny „o“ a „v“.
+- typ: odstavec
+  de: |-
+    Bollwerckspunet/ wird auch genent angle flanquè (oder flanckè) Angulus propugnaculi (oder propugnakuli) angulus à latere propugnatus: liß das 1. vnd 5. bl. besihe 9. vnd 8. fig. A. das 1. Kupfferbl.
+  cs: |-
+    {Bollwerckspunet}[^4], nazývá se též angle flanquè (vyslov flanckè), Angulus propugnaculi (vyslov propugnakuli), angulus à latere propugnatus – špice bašty. Čti s. [[001|1]] a [[005|5]]; viz 9 a 8 na [[tab-01|1. mědirytině]], fig. A.
+- typ: odstavec
+  de: |-
+    Feldschantz/ Munitio Campestris, Castellum Campestre (oder Munizio Kampestris/ Kastellum Kampestre) forteresse, fort, fortino, retranchement
+  cs: |-
+    {Feldschantz}, Munitio Campestris, Castellum Campestre (vyslov Munizio Kampestris, Kastellum Kampestre), forteresse, fort, fortino, retranchement – polní šance.
+- typ: odstavec
+  de: |-
+    Wal/ vallum: riparo, terra plena: terraces, terre plein, contregarde, (oder terrasses/ tärreplen/ contregarde) liß das 1. bl. besihe das 1. Kupfferbl. fig. C. mit a, b, c, d, e, bezeichnet.
+  cs: |-
+    {Wal}, vallum; riparo, terra plena; terraces, terre plein, contregarde (vyslov terrasses, tärreplen, contregarde) – val. Čti s. [[001|1]] a viz [[tab-01|1. mědirytinu]], fig. C, kde je označen a, b, c, d, e.
+- typ: odstavec
+  de: |-
+    Höhe des Wals/ altitudo valli: Hauteur du rampart: besihe das 1. Kupffer/ fig. C. mit b, c, e, bezeichnet.
+  cs: |-
+    Höhe des Wals, altitudo valli; Hauteur du rampart – výška valu. Viz [[tab-01|1. mědirytinu]], fig. C, kde je označena b, c, e.
+- typ: odstavec
+  de: |-
+    Superficies, ist ein jede fläche eines dings: des Wals Superficies (oder Superfizies) ist die abdachung/ heißt auch sträb/ schräge/ böschung/ beschühung/ gäche/ ablauff/ abhang/ docierung/ bossierung/ talud: acclivitas, (oder acklifitas) dise ist innerlich vnd ausserlich/ Interieur, Interior, (oder exterieur, exterior: besihe das 1. Kupfferbl. fig. C. mit f, d, vnd e, g, k, bezeichnet/ liß das 2. bl.
+  cs: |-
+    Superficies je každá plocha nějaké věci. Superficies valu (vyslov Superfizies) je jeho svah {abdachung}, nazývaný též sträb, schräge, böschung, beschühung, gäche, ablauff, abhang, docierung, bossierung, talud; acclivitas (vyslov acklifitas)[^5]. Ten je vnitřní a vnější: Interieur, Interior (nebo exterieur, exterior); viz [[tab-01|1. mědirytinu]], fig. C, kde je označen f, d a e, g, k; čti s. [[002|2]].
+- typ: odstavec
+  de: |-
+    Walgang/ vallum ambulacri: terreplein: liß das 2. bl. besihe fig. C. das 1. Kupffer/ mit h, andeutet.
+  cs: |-
+    {Walgang}, vallum ambulacri; terreplein – ochoz valu. Čti s. [[002|2]] a viz [[tab-01|1. mědirytinu]], fig. C, kde je označen h.
+- typ: odstavec
+  de: |-
+    Die abdachung der Brustwehr/ liß ibidem, wie o, c, i, außweißt/ in der fig. C. dem 1. Kupfferbl.
+  cs: |-
+    Svah předprsně {Brustwehr} – čti tamtéž; ukazují ho písmena o, c, i na [[tab-01|1. mědirytině]], fig. C.
+poznamky:
+- n: 1
+  text: |-
+    „Blat“ (zkr. „bl.“) zde znamená stranu tisku, nikoli list: odkazy výkladu vedou na číslované strany 1–134 (např. o pevnosti a jejím dělení pojednává s. [[001|1]] Prvního dílu). „Kupfferblat“, „Kupffer“ = jedna z tabulí s mědirytinami, „fig.“ = obrazec na ní (tabule viz strany [[tab-01|tab-01]] … [[tab-12|tab-12]]).
+- n: 2
+  text: |-
+    Franc. royal = „královský“; německé ekvivalenty Hauptschantz, Hauptwerck („hlavní šance, hlavní dílo“). Lavater (s. [[001|1]]) podle Freytaga rozlišuje velký, střední a malý Real podle délky obranné linie a vzdálenosti špic bašt.
+- n: 3
+  text: |-
+    Strana vnějšího mnohoúhelníku spojuje špice dvou sousedních bašt, strana vnitřního mnohoúhelníku body hrdla, tj. průsečíky prodloužených kurtin (s. [[005|5]]); z nich se vychází při vyměřování pevnosti. „Vill-egk“ = mnohoúhelník (doslova „mnohoroh“).
+- n: 4
+  text: |-
+    Tak tisk – zřejmě tisková chyba za „Bollwercks-punct“ (bod bašty). Podle s. [[005|5]] je to „nejzazší bod na špici bašty, který vytvářejí obě čela svým průsečíkem“; franc. angle flanqué = úhel krytý boční palbou z flank.
+- n: 5
+  text: |-
+    Řada německých a cizích synonym pro svah (sklon, násyp) valu: Strebe, Schräge, Böschung, Beschühung, Gähe („strmost“), Ablauf, Abhang; docierung a bossierung jsou poněmčené cizí stavitelské výrazy, talud = franc. talus. Vnitřní svah se obrací do pevnosti, vnější k příkopu.

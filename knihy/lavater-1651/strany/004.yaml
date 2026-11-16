@@ -1,0 +1,43 @@
+id: '004'
+list: '4'
+strana: verso
+sken: 38
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mitte der Courtine schneiden/ da gibt es den grossen Streychwinckel/ dann von den Gesichtlinien der zunahende Feind am ersten gesehen wird/ welchem sie auch gleich erstlich sich entgegen setzen/ vnd jhme die Stirnen bieten: dann darauß wird das vmbligende Feld entdecket vnd beschirmet. Jhr länge ist von 20. biß in 24. ruhten: man soll sie nicht zu lang machen/ damit sie gnugsam mit Musqueten möge bestrichen werden.
+  cs: |-
+    středu kurtiny protínají, tam vzniká velký obranný úhel {grossen Streychwinckel}. Z čel bašt {Gesichtlinien} se totiž blížící nepřítel spatří nejdříve; ona se mu také hned zprvu stavějí na odpor a nastavují mu čelo, neboť z nich se okolní pole prohlíží a chrání. Jsou dlouhá 20 až 24 prutů {ruhten}; nemají se dělat příliš dlouhá, aby se podél nich dalo dostatečně střílet z mušket.
+- typ: nadpis
+  uroven: 2
+  de: Von den Bollwercken vnd Hauptlinien.
+  cs: O baštách a hlavních liniích.
+- typ: odstavec
+  de: |-
+    Ein Bollwerck/ so man Pastey nennt/ ist das jenig Corpus, so von zwo Källinien/ zwo Streychwehren/ vnd zwo Gesichtlinien eyngeschlossen wird: ist gleichsam das Haupt der gantzen Vestung/ dann von jhren Gesichtlinien wird das Feld bestrichen/ vnd beschirmetje eins das ander von den Streychwehren oder Flancken/ wie auch die Courtine den Graben vnd des Grabenslauff/ vnd seind gleichsam die Arm/ damit ein Vestung beschirmet wird: vnd weil sie den Kuglen oder Bollen müssen widerstehen/ vermeynen ich/ das wort Bollwerck seye daher entsprunge: sie werden auch entzwey getheilt. So man von jhren kälwincklen zu den bestrichnen wincklen der Bollwercken ein linien zeucht/ wird sie alßdann die Hauptlinien genannt/ vnd je höher die Bollwerck seind/ je schwerer darhinder newe abschnitt zu machen seind: Sie sollen auch vil Geschütz vnd Soldaten fassen mögen/ vnd muß man sie von gleicher stärcke auffbawen/ dann wo das eine schwach/ vnd erobert wird/ das ander auch schwach vnd gar nichts nutz/ vnd ist der vnkosten vmbsonst angewendet. Die starcken Bollwerck haben auch disen nutz/ daß der Feind keinen vortheil hat/ solches bequem vnd zu seinem vortheil anzugreiffen/ weil dieselbige vberal gleich starck seind/ vnd gleiche verhinderungen/ vnd keine schwachheiten solche zu verderben gefunden/ vnd desto besser beschützet werden. Die Streychen sollen also beschaffen seyn/ damit die kuglen der Stucken vnd Musqueten nicht weiter alß drey finger an den Gesichtlinien/ parallel/ biß an den aussersten Bollwercksspitz oder puncten streychen mögen. Wann nun die Bollwerck einanderen im gesicht ligen/ so kan man den Feind in der Bresche zimlich entdecken. Es sollen auch die eusserste Bollwercksspitz nicht weiter alß 80. vnd nicht näher alß 60. ruhten von einanderen kommen.
+  cs: |-
+    Bašta {Bollwerck}, jíž se také říká {Pastey}, je těleso {Corpus} uzavřené dvěma liniemi hrdla {Källinien}, dvěma flankami {Streychwehren} a dvěma čely. Je takřka hlavou celé pevnosti, neboť z jejích čel se ostřeluje pole a z flank chrání jedna bašta druhou, stejně jako kurtinu {Courtine}, příkop a průběh příkopu; bašty jsou jakoby paže, jimiž se pevnost brání. A protože musejí odolávat koulím neboli „bollen“, soudím, že odtud pochází slovo Bollwerck. Také se dělí na dvě [poloviny]: vede-li se od úhlu hrdla {kälwincklen} k ostřelovanému úhlu bašty přímka, nazývá se hlavní linie {Hauptlinien}.[^1] Čím vyšší jsou bašty, tím obtížněji se za nimi dělají nové retranšementy {abschnitt}. Mají také pojmout mnoho děl a vojáků a musí se stavět stejně silné, neboť je-li jedna slabá a bude dobyta, je i ta druhá slabá a k ničemu a náklad byl vynaložen nadarmo. Silné bašty mají i ten užitek, že nepřítel nemá výhodu, aby je mohl pohodlně a ke svému prospěchu napadnout, protože jsou všude stejně silné a mají stejné překážky a nenajde se na nich slabé místo, kde by je mohl zničit; tím lépe se dají hájit. Boční palba {Streychen} má být uspořádána tak, aby koule z děl a mušket letěly rovnoběžně s čely bašt nejvýše na tři prsty od nich až ke krajní špici neboli bodu {puncten} bašty. Leží-li pak bašty navzájem na dohled, lze nepřítele v průlomu {Bresche} dosti dobře spatřit. Krajní špice bašt také nemají být od sebe dál než 80 a blíž než 60 prutů.
+- typ: nadpis
+  uroven: 3
+  de: Ob hole oder außgefüllte Bollwerck dienstlicher seyen?
+  cs: Zda jsou užitečnější duté, nebo vyplněné bašty?
+- typ: odstavec
+  de: |-
+    Man haltet die holen Bollwerck/ welche nicht einen dickeren Wal alß die Courtine haben/ für dienstlicher alß die außgefüllten/ weil es vil Gelts vnd Zeits erspart/ vnd dann weilen man dardurch vil besser Contraminen machen/ vnd die Sprengenen suchen vnd verderben/ auch besser wo der Feind ein Bresche oder ein Sprenge fürnimmt/ darhinder newe Werck auffwerffen kan.
+  cs: |-
+    Duté bašty, které nemají silnější val než kurtina, se pokládají za užitečnější než vyplněné, protože se tím ušetří mnoho peněz a času, a také proto, že se v nich dají mnohem lépe dělat protiminy {Contraminen} a hledat a ničit [nepřátelské] miny {Sprengenen}; a když nepřítel chystá průlom nebo minu, lze za nimi lépe navršit nová díla.
+- typ: nadpis
+  uroven: 2
+  de: Von den Streychlinien.
+  cs: O obranných liniích.
+- typ: odstavec
+  de: |-
+    Die Streychlinien sollen nicht vber 720. schuh oder 60. ruhten halten/
+  cs: |-
+    Obranné linie {Streychlinien} nemají měřit přes 720 stop neboli 60 prutů,
+poznamky:
+- n: 1
+  text: Hlavní linie (capitála) – osa bašty od úhlu hrdla ke špici; dělí baštu na dvě souměrné poloviny.

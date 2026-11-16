@@ -24,7 +24,11 @@ nastroje/
   import_md.py              jednorázový import pracovního překladu z Google Docs (.md)
   migrace_sken_45899.py     jednorázový přechod na úplný sken (doplnění 3 vynechaných dvojstran)
   stahni_ocr_bsb.py         stažení OCR z digitale-sammlungen.de
+  dta_strany.py             rozdělení přepisu Deutsches Textarchiv (TEI) po stranách → zdroje/dta/NNNN.txt
+  import_lavater.py         jednorázový import pracovního překladu Lavatera (.md)
   over_strany.py            kontrola dat (struktura, párování, poznámky, terminologie)
+  odkazy_rytiny.py          Lavater: označení odkazů na mědirytiny v překladu značkou [[tab-NN|text]]
+  odkazy_strany.py          označení odkazů na čísla stran („Čti s. 5“) značkou [[id|text]] (knihy se stránkováním)
   normalizuj_zkratky.py     sjednocení přepisu zkratek tisku (ꝛc., vñ, …)
   overeno_clovekem.py       označení stran, které ručně ověřil člověk (pole overeno_clovekem)
   vyrez_drevorezy.py        výřez dřevořezů ze skenu přes IIIF (bloky obrazek se souborem drevorez-*.jpg)
@@ -49,14 +53,32 @@ Fronsberger/                původní pracovní překlad (export z Google Docs) 
 5. Náhled: otevři `docs/index.html`, nebo `python -m http.server 8766 --directory docs` a http://localhost:8766/
 
 Nová kniha: vytvoř `knihy/<id>/` se stejnou strukturou (kniha.yaml, glosar.yaml, strany/) – build ji přidá do rozcestníku.
+Pořadí stran určuje pole `sken` (číslo snímku). V `kniha.yaml` nastav `strankovani: folio` (fol. XII r) nebo `strany` (str. 12)
+a údaje o skenech (`sken.url_strana`, `sken.url_obrazek` s {sken}/{sken4}/{sken5}/{sirka}, `sken.paticka`).
+
+Knihy: `fronsberger-1564` (Fronsperger, Kriegs Ordnung vnd Regiment, sken BSB) a `lavater-1651`
+(Lavater, Kriegs-Büchlein, Curych 1651; německý text z přepisu Deutsches Textarchiv, CC BY-SA 4.0).
 
 ## Web
 - čtení po **kapitolách** (`#/kap/<id>`) i po **stranách tisku** (`#/strana/018r`), šipky ← → listují,
 - předěl strany uvnitř kapitoly: folio, číslo skenu, levá/pravá strana, odkaz na samostatnou stranu a na sken,
 - přepínač **Originál / Jen překlad** (klávesa O), světlý/tmavý režim,
 - **věcný rejstřík** (`#/rejstrik`) s ukázkami vět, odkazy na kapitolu i stranu; termíny v textu vedou do rejstříku,
+- **odkazy na jiné strany** (značka `[[id strany|text]]`), např. z textu na tabuli s mědirytinou – s náhledem obrázku po najetí myší,
 - **hledání** v překladu i originálu bez ohledu na diakritiku,
 - **PDF** (`#/tisk`): výběr kapitol nebo rozsahu stran, jen překlad / originál + překlad, tisk přes „Uložit jako PDF“.
+
+## Verzování webu
+Číslo verze je v `projekt.yaml` (pole `verze`) a zobrazuje se v patičce všech stránek. Formát MAJOR.MINOR.PATCH,
+první vydaná verze 1.0.0. Po změně verze spusť `python -I nastroje/build.py`.
+
+| Číslo | Kdy zvýšit | Příklad |
+|---|---|---|
+| třetí (PATCH) | opravy překladu a drobné úpravy | 1.0.0 → 1.0.1 |
+| druhé (MINOR) | nová funkce webu nebo větší část ověřená člověkem | 1.0.1 → 1.1.0 |
+| první (MAJOR) | nová kniha nebo zásadní přestavba | 1.1.0 → 2.0.0 |
+
+Při zvýšení vyššího čísla se nižší nulují (1.2.3 → 1.3.0 → 2.0.0).
 
 ## Zdroje
 - Fronsperger, *Kriegs Ordnung vnd Regiment*, Frankfurt a. M. 1564 (VD16 F 3130). Sken: Bayerische Staatsbibliothek

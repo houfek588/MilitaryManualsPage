@@ -1,0 +1,41 @@
+id: 038
+list: '38'
+strana: verso
+sken: 72
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    einem guten Leutenampt/ zweyen Sergeanten/ einem Balbier vnd dreyen Corporalen ansehen: sittenmalen der Compagnien meistes daran gelegen ist/ damit des Zahlherren vnd der Compagnie bestes allzeit gefürderet werde. Seine Officier soll er vor den Soldaten/ nach vermögen/ ehren/ damit dieselbigen auch von den Soldaten geehret vnd geliebet werden: vnd so man seine Knecht musteret/ so stehet oder sitzet er bey dem Musterherren sampt seinem Schreiber/ vnd nach dem seine Knecht gemusteret/ mit dem Commissario oder Musterherren abgezellt/ vnd die Register/ wie es sich gebürt/ verpitschiert/ vnderschrieben vnd verfertiget seind/ so empfanget er sein Gelt/ das soll er zu vermeydung klag oder rumor/ alßbald seinen Soldaten außtheilen/ sie befriedigen/ vnd hierinnen kein finantz/ beschiß oder betrug führen/ dann darauß grosse vngelegenheit erfolget. Jn erwehlung eines Capitains solle man nicht auff reichthumb/ sondern auff frombkeit vnd gute kriegserfahrenheit sehen: Namlich/ auff erfahrene/ wolgeübte Leuth/ die ein verstand vnd wüssenschafft haben/ jederzeit gegen vnd zu den Feinden jhren vortheil zu erdencken vnd zu gebrauchen/ damit des Zahlherren vnd der biderben Leuthen ehr/ nutz vnd wolfahrt nicht gehinderet/ auch schmaach/ schaden vnd nachtheil an Ehr/ Leib vnd Leben vmb gunst willen nicht in groß gefahr gesetzt werde. Auff der Wacht soll allzeit der Hauptmann/ vnd jnsonderheit in Lermens vnd Feindsgefahrlichen zeiten mit vnd bey seinem Fendlein selbst eygener Person seyn. Es soll auch ein jeder Hauptmann seinem Obersten gefellig vnd gehorsam seyn in allen billichen Sachen. Wann sich auch zur zeit seiner bestallung etwas jrrungs oder gespaans/ oder sonst etwas mit seinen Mithauptleuthen zutrüge/ die nicht in der güte bethädiget werden möchten/ daß er deßhalber bey endlichem entscheid des Colonells vnd Kriegs-Rahts bleiben wölle.
+  cs: |-
+    dobrého poručíka {Leutenampt}, dva seržanty {Sergeanten}[^1], lazebníka {Balbier}[^2] a tři desátníky {Corporalen}, neboť na nich kompanii {Compagnie} nejvíce záleží, aby byl vždy hájen prospěch plátce žoldu {Zahlherr}[^3] i kompanie. Své důstojníky má před vojáky podle možností ctít, aby je i vojáci ctili a milovali. Když se jeho knechti {Knecht} přehlížejí, stojí nebo sedí se svým písařem {Schreiber} u přehlídkového komisaře {Musterherren}; a když jsou jeho knechti přehlédnuti, s komisařem {Commissario} čili přehlídkovým komisařem sečteni a rejstříky {Register} náležitě zapečetěny, podepsány a vyhotoveny, obdrží své peníze. Ty má, aby předešel stížnostem a nepokojům, ihned rozdělit svým vojákům a uspokojit je, a nedopouštět se přitom žádných fint {finantz}, šizení ani podvodu, neboť z toho vzchází velká nepříjemnost. Při volbě hejtmana {Capitain} se nemá hledět na bohatství, nýbrž na bezúhonnost a dobrou válečnou zkušenost, totiž na zkušené a dobře vycvičené muže, kteří mají rozum a znalost, jak vždy vymyslet a využít výhodu proti nepříteli; aby čest, užitek a blaho plátce žoldu i poctivých lidí nebyly mařeny a aby z pouhé přízně nebyly čest, tělo a život vydány velkému nebezpečí potupy, škody a újmy. Na stráži má být hejtman {Hauptmann} vždy, a zvláště v dobách poplachů a nepřátelského nebezpečí, osobně se svým praporcem {Fendlein} a u něho. Každý hejtman má být též ve všech náležitých věcech po vůli a poslušen svému plukovníkovi {Obersten}. A kdyby se za jeho služby {bestallung} přihodila s ostatními hejtmany nějaká neshoda, spor nebo něco jiného, co by se nedalo urovnat po dobrém, má se v tom podrobit konečnému rozhodnutí plukovníka {Colonells} a válečné rady {Kriegs-Rahts}.
+- typ: nadpis
+  uroven: 3
+  de: Des Hauptmanns Eyd.
+  cs: Přísaha hejtmana.
+- typ: odstavec
+  de: |-
+    Der Hauptmann soll schweeren der Statt N. nutz vnd ehr zu fürderen/ vnd schaden zu wenden/ das Volck so jhme befohlen ist/ zu verhüten/ auch die Ordinantz vnd gemeinen Eyd den Knechten geben/ wahr vnd stät zu halten/ vnd ob jemand darwider thete/ denselbigen zu straffen/ oder schaffen gestrafft zu werden nach seinem verdienen/ vnd hierinn gar niemands zu verschonen/ vnd sich nicht weiterslassen bewegen/ weder mit miet/ gaaben/ gunst/ freund- noch feindschafft/ alles getrewlich vnd vngefahrlich.
+  cs: |-
+    Hejtman má přísahat, že bude hájit užitek a čest města N. a odvracet od něho škodu, opatrovat lid, který mu je svěřen, a pravdivě a pevně zachovávat řád {Ordinantz} a obecnou přísahu, jež jsou dány knechtům; a kdyby se někdo proti nim provinil, potrestá ho nebo dá potrestat podle jeho zásluhy, nikoho přitom nebude šetřit a nedá se jinak pohnout úplatkem, dary, přízní, přátelstvím ani nepřátelstvím; vše věrně a bez falše.
+- typ: nadpis
+  uroven: 3
+  de: Ein andere Eyds-Form.
+  cs: Jiná podoba přísahy.
+- typ: odstavec
+  de: |-
+    Die Hauptleuth sollen schweeren in disem zug zu hilff vnd erhaltung vnserer lieben Bundtsgenossen N. N. Land vnd Leuthen/ vnd in disen jhren Hauptmannschafften das best vnd wegests zu thun/ vnd darinn alles das jenig/ so jhnen begegnet/ zu handlen vnd zu betrachten/ so der Statt N. lob/ nutz vnd ehr mag seyn/ vnd die Knecht so jhnen befohlen seind/ in befelch zu
+  cs: |-
+    Hejtmani mají přísahat, že na tomto tažení {zug}, vedeném na pomoc a k zachování zemí a lidí našich milých spojenců N. N., učiní ve svých hejtmanstvích to nejlepší a nejvhodnější, že ve všem, s čím se setkají, budou jednat a uvažovat tak, aby to bylo městu N. ke slávě, užitku a cti, a že knechty, kteří jsou jim svěřeni, budou mít pod svým velením
+poznamky:
+- n: 1
+  text: |-
+    Sergeant – v Lavaterově kompanii totéž co vachmistr (Wachtmeister); kompanie měla dva, viz kapitolu o vachmistrech na s. [[042|42]].
+- n: 2
+  text: |-
+    Balbier (barbír) – lazebník, tj. ranhojič kompanie; jeho povinnosti popisuje kapitola o polním ranhojiči (Feldschärer) na s. [[045|45]].
+- n: 3
+  text: |-
+    Zahlherr – „platící pán“, tj. vrchnost, která vojsko najímá a platí (ve formulářích přísah purkmistr a rada „města N.“); prakticky totéž co válečný pán (Kriegsherr), viz s. [[039|39]].

@@ -1,0 +1,63 @@
+id: 090
+list: '90'
+strana: verso
+sken: 136
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Wann man die Glider hinderwerts öffnet.
+  cs: Když se řady rozevírají dozadu.
+- typ: odstavec
+  de: |-
+    So kehret sich aussert dem vordersten Glid die gantze Ordnung rechts vmb/ vnd nemmen jhre vorige Stell vnd Distantz/ wie vorgemeldt worden.
+  cs: |-
+    Tehdy se celý šik {Ordnung} kromě přední řady {Glid} obrátí vpravo čelem vzad a [řady] zaujmou své předchozí místo a odstup {Distantz}, jak bylo řečeno výše.
+- typ: nadpis
+  uroven: 3
+  de: 'Wann man sagt: Rechts schwänckt euch.'
+  cs: 'Když se řekne: „Vpravo zatočte“.'
+- typ: odstavec
+  de: |-
+    Wann die gantze Ordnung geschlossen ist/ (so meistentheils wegen der Reuterey eynbruch beschihet) vnd rechts geschwänckt wird/ so schwänckt man sich mit gantz beschlossenem Hauffen mit der lincken seiten gegen der rechten hand/ eintweders halb oder gar/ da dann die aussersten Reyen zur rechten seiten still stehen bleiben.
+  cs: |-
+    Je-li celý šik sevřený (což se většinou děje kvůli vpádu jízdy) a má se zatočit vpravo, zatáčí se celým sevřeným šikem {Hauffen} levou stranou k pravé ruce, buď napůl, nebo úplně; přitom krajní zástupy {Reyen} na pravé straně zůstávají stát na místě.
+- typ: nadpis
+  uroven: 3
+  de: Lincks schwänckt euch.
+  cs: „Vlevo zatočte.“
+- typ: odstavec
+  de: |-
+    Jst eben der obige verstand/ da man sich mit der rechten seiten gegen der lincken hand gar oder halb schwäncket/ vnd die aussersten Reyen zur lincken seiten halten.
+  cs: |-
+    Má to tentýž smysl jako výše: zatáčí se pravou stranou k levé ruce, úplně nebo napůl, a krajní zástupy na levé straně stojí na místě.
+- typ: nadpis
+  uroven: 3
+  de: Von Glider vnd Reyen beschliessen.
+  cs: O svírání řad a zástupů.
+- typ: odstavec
+  de: |-
+    Es möchte mancher gedencken warumb ich heisse die Glider beschliessen/ so man doch vnder den heutigen Kriegern die Reyen beschliessen heisset: vnd dargegen die Reyen beschliessen heisse/ da sonst in Exercitijs der Soldaten das widerspiel gebräuchig seye. So ist wol wahr/ daß solches auch mich auff die alte form besser beduncket/ weiln aber solches die gemeine Landschafft schon lang im brauch gehabt/ alß habe ich zu vermeydung vnordnung/ vnd weiln solches schlechte Differentz mit bringt/ auch also mit brauchen/ doch jedem Doctor sein kapp vorbehalten wöllen.
+  cs: |-
+    Leckdo by si mohl pomyslet, proč říkám „sevřít řady“, když dnešní válečníci tomu říkají „sevřít zástupy“, a naopak říkám „sevřít zástupy“ tam, kde se jinak při vojenských cvičeních užívá opak. Je sice pravda, že i mně se starý způsob zdá lepší; protože to však obecný venkov {Landschafft}[^1] takto užívá už dlouho, chtěl jsem to – abych předešel zmatku, a protože na tom příliš nezáleží – užívat také tak, ponechávám však každému doktorovi jeho čapku.[^2]
+- typ: nadpis
+  uroven: 2
+  de: Bedencken von den Wendungen.
+  cs: Úvaha o obratech.
+- typ: nadpis
+  uroven: 3
+  de: Von Glidern vnd Reyen.
+  cs: O řadách a zástupech.
+- typ: odstavec
+  de: |-
+    Jch halte für das allerbeste/ daß man einem jeden Glid/ vnd auch jedem Reyen seinen nammen gebe/ damit wie man dopplieren will/ man mit einem oder zweyen worten allen den jenigen/ welche dopplieren sollen/ rüffen möge: vnd da man zuvor die Reyen vnd Glider abzellen/ vnd hin vnd wider lauffen/ still stehen/ oder gehen heissen müssen/ die Officier dessen vberhebt/ vnd mit minderer vnordnung die Glider oder Reyen zu dopplieren/ auch ein jeglicher sein Reyen vnd Glid/ auch neben vor- vnd hinder welchem er stehe vnd gehe/ wüssen/ vnd die Compagnie desto ehender in ein ordnung gebracht werden möge/ dardurch dann den Officierern vil müh abgenommen/ vnd desto füglicher vnd ehender auß der fundamentals Ordnung die Schlachtordnungen gemachet/ die flügel hinden/ vornen/ neben anhencken: vnd in summa dem Feind mit besserem vortheil auff das geschwindest begegnet werde. So ist mein meynung/ man solle ein Compagnie/ bruch/ flügel nicht höher alß 6. hoch/ (oder 6. in einem Reyen/ oder 6. Glider hoch) machen/ vnd dem ersten
+  cs: |-
+    Za vůbec nejlepší pokládám, aby se každé řadě i každému zástupu dalo jméno, aby se – když se má zdvojovat – dalo jedním nebo dvěma slovy zavolat na všechny, kdo mají zdvojovat. Kde se dříve musely zástupy a řady odpočítávat a [lidem] velet, aby běhali sem a tam, stáli nebo šli, budou toho důstojníci ušetřeni; řady či zástupy se zdvojí s menším zmatkem, každý bude znát svůj zástup i řadu, i to, vedle koho, před kým a za kým stojí a jde, a kompanie {Compagnie} se dá tím rychleji uvést do pořádku. Tím se důstojníkům ušetří mnoho námahy, ze základního šiku {fundamentals Ordnung} se snáze a rychleji udělají bitevní šiky, křídla se připojí vzadu, vpředu i po boku, a zkrátka se nepříteli čelí s větší výhodou a co nejrychleji. Jsem tedy toho mínění, že by kompanie, její díl {bruch} či křídlo neměly být hlubší než 6 [mužů] (čili 6 v jednom zástupu, neboli 6 řad do hloubky) a že by se první
+poznamky:
+- n: 1
+  text: >-
+    Landschafft – venkovské území podřízené městu (zde Curychu) a jeho zemská domobrana, pro niž je knížka psána.
+- n: 2
+  text: >-
+    Přísloví: ať si každý učenec ponechá své mínění (doktorská čapka jako odznak učence).

@@ -1,0 +1,51 @@
+id: lavater-1651
+nazev: Válečná knížka
+nazev_orig: Kriegs-Büchlein
+podtitul: Das ist/ Grundtliche Anleitung Zum Kriegswesen …
+autor: Hans Conrad Lavater
+autor_zivot: 1609–1665
+vydani: Curych, Johann Jacob Bodmer nákladem autora, 1651 (2. rozšířené vydání; 1. vyd. 1644)
+rok: 1651
+katalog: VD17 (Deutsches Textarchiv lavater_kriegsbuechlein_1659)
+rozsah: '[8] listů, 134 stran, [2] listy, 11 mědirytin'
+jazyk_orig: raná nová horní němčina (švýcarská)
+popis: >-
+  Příručka curyšského hejtmana pro důstojníky zemské milice: stavba pevnosti a jejích děl, služba posádky,
+  úřady a přísahy velitelů, cvičení s mušketou a píkou, šiky pěchoty a jízdy, tažení, ležení a obléhání.
+  Doplněna výkladem cizích (francouzských a italských) vojenských výrazů.
+prekladatel: Pracovní překlad revidovaný a doplněný s pomocí LLM, 2026.
+strankovani: strany
+strany_poznamka: 'Tisk je stránkován (str. 1–134). Předsádka, tabule s mědirytinami a seznam tiskových chyb čísla stran nemají.'
+zdroj_textu: 'Německý text vychází z přepisu Deutsches Textarchiv (DTA, CC BY-SA 4.0) s převedenými typografickými znaky (ſ → s, uͤ → ü, ꝛ → r);'
+
+sken:
+  instituce: Herzog August Bibliothek Wolfenbüttel
+  kratce: DTA
+  portal: deutschestextarchiv.de
+  signatura: 'A: 83.1 Quod. (3)'
+  id: lavater_kriegsbuechlein_1659
+  url_dilo: https://www.deutschestextarchiv.de/book/show/lavater_kriegsbuechlein_1659
+  url_strana: https://www.deutschestextarchiv.de/book/view/lavater_kriegsbuechlein_1659?p={sken}
+  url_obrazek: https://www.deutschestextarchiv.de/media/images/lavater_kriegsbuechlein_1659/lavater_kriegsbuechlein_1659_{sken4}_800px.jpg
+  licence: 'Přepis a snímky: Deutsches Textarchiv / HAB Wolfenbüttel, CC BY-SA 4.0'
+  paticka: 'Přepis a sken: Deutsches Textarchiv, HAB Wolfenbüttel (CC BY-SA 4.0)'
+  hab: http://diglib.hab.de/drucke/83-1-quod-3s/start.htm
+
+# Strany se řadí podle čísla snímku (pole `sken`).
+
+poznamky_k_prekladu: |
+  ZDROJ ORIGINÁLU: německý text (pole de) musí odpovídat přepisu DTA – zdroje/dta/NNNN.txt (NNNN = sken).
+  Je to pečlivý ruční přepis, ne OCR: nic v něm „neopravuj“, jen ho rozděl na bloky podle tisku.
+  Typografické znaky jsou už převedené (ſ→s, uͤ→ü, ꝛ→r, m̃→mm); tiskové zkratky „rc.“ přepiš na „etc.“.
+  Marginálie z DTA („[Marg.: …]“) připoj na konec odstavce, k němuž patří.
+
+  Struktura nadpisů: uroven 1 = díl (Erster/Ander/Dritter/Vierter Theil) a samostatné části předsádky
+  (věnování, předmluva, výklad cizích slov, slovníček, básně); uroven 2 = kapitola (tučný nadpis na středu);
+  uroven 3 = drobné podnadpisy uvnitř kapitoly (např. otázky, jednotlivé pokyny).
+  Název knihy česky: „Válečná knížka“ (Kriegs-Büchlein); díly: „První díl Válečné knížky: O pevnosti“ atd.
+
+  Mědirytiny (tabule) jsou samostatné strany tab-01 … tab-12 a frontispis: blok obrazek se souborem
+  tab-NN.jpg (u frontispisu frontispis.jpg) a podrobným popisem (co zobrazuje, popisky a písmena v obraze,
+  ke kterým stranám textu patří). Text odkazuje na „Kupffer“ (mědirytinu) a „fig.“ – zachovej to.
+
+  Číslované povely a cviky (Exercitium) a výpočty šiků převeď na seznam/tabulku 1:1 s originálem.

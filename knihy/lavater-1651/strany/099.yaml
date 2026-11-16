@@ -1,0 +1,32 @@
+id: 099
+list: '99'
+strana: recto
+sken: 145
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Pferd fellen will/ schiessen. Wann er nun sein Pandalierrohr abgebrennt/ gestracks die Pistolen auß- vnd auffziehen/ vnd nicht/ er sehe dann seinem Feind das weiß in den augen/ auff jhne loß brennen: darauff den Dägen/ denselben darmit zu schädigen/ in die rechte hand fassen. Da nun der Feind in dein Trouppen/ allweiln du still haltest/ auff die eintwedere seiten starck carriert vnd anhawet/ solt du dich alßdann lincks oder rechts darmit auff ein seiten von deiner Stell verfügen/ vnd schwäncken/ so wirst du jhme in seine seiten/ mit dem Haupt oder Fronte starck eynfallen/ vnd jhne in ein vnordnung bringen mögen. Du solt aber jnsonderheit sehen/ daß dir der Feind nicht auff den rucken hawe/ sondern du jhme das gegenspiel erweisen könnest/ vnd dein Compagnte in zween theil: namlich deine Glider halbierest/ vnd mit dem einen theil lincks/ mit dem anderen dich rechts schwänckest/ vnd den Feind vmbgeben mögest. Du solt auch allzeit gut Glider vnd Reyen halten/ vnd die Pferd jhre köpff gleich halten lassen. Wann du nun schwänckest/ so söll solches/ erstlich reitend/ darnach trabend/ bald caloppierend/ vnd darauff im vollen carrier beschehen/ damit des Feinds ordnung durch das starck anhawen vertrennen mögest. Wann man aber mit etlichen Compagnien fechten will/ so soll man die freye Reuter/ so die best abgerichtesten Pferd vnd Männer seind/ vorher auß allen Compagnien commandieren/ vnd deß ersten angreiffen lassen/ auch die abgerichtesten Pferd auff beyd seiten/ vnd vornen vnd hinden stellen.
+  cs: |-
+    koně srazit, [má] střílet. Jakmile pak vypálí ze své karabiny {Pandalierrohr}[^1], má hned vytáhnout a natáhnout pistole a nepálit na nepřítele dřív, než mu uvidí bělmo v očích; potom má vzít do pravé ruky kord, aby ho jím zranil. Kdyby nepřítel na tvůj houf {Trouppen}, zatímco stojíš na místě, prudce najel a udeřil z jedné či druhé strany, máš se s ním přesunout ze svého místa vlevo nebo vpravo stranou a zatočit; tak mu čelem {Fronte} prudce vpadneš do boku a budeš ho moci uvést ve zmatek. Zvláště však hleď, aby ti nepřítel nevpadl do zad, nýbrž abys mu mohl oplatit stejnou mincí: rozděl svou kompanii {Compagnie} na dvě části, totiž rozpul své řady {Glider}, s jednou částí zatoč vlevo, s druhou vpravo, a tak nepřítele obklíčíš. Vždy také udržuj dobré řady a zástupy {Reyen} a dbej, aby koně drželi hlavy v jedné rovině. Když pak zatáčíš, má se to dít nejprve krokem, potom klusem, brzy cvalem a nakonec v plném trysku {carrier}, abys silným náporem rozbil nepřátelský šik. Chce-li se však bojovat s několika kompaniemi, mají se nejprve ze všech kompanií vyčlenit svobodní jezdci {freye Reuter}[^2], totiž nejlépe vycvičení koně a muži, a nechat je zaútočit jako první; nejlépe vycvičené koně je také třeba postavit na obě strany, dopředu i dozadu.
+- typ: nadpis
+  uroven: 2
+  de: Von den ämpteren.
+  cs: O úřadech
+- typ: odstavec
+  de: |-
+    Vnder einer Compagnie zu Pferd hat es/ erstlich ein Rittmeister/ darnach ein Leutenammt/ Cornet/ Quartiermeister/ oder Furier/ Fahnen-Juncker zween Corporal/ ein Schreiber/ Feldschärer/ Marckitänter/ etliche freye Reuter/ ein Huffschmid/ ein Sattler/ zween Trompeter. Eines jeglichen Ampt Zug vnd Wacht aber weiset auß was die ämpter/ Zug vnd Wachten zu fuß außweisen. Vnd weiln ich nun nichts von dem Furier zu fuß geschriben/ da doch ein Quartiermeister gleiches Ampt vnder seinen Reuteren verrichtet: So mercke allhie/ daß er mit dem General-Quartiermeister vorauß ziehe/ vnd da jhme das Quartier seiner Compagnie zeiget ist/ verordnet er das best vnd gelegnest Ort für seinen Rittmeister/ nachmals für den Leutenammt Cornet/ für sich vnd andere Officierer/ jedem nach seinem Stand vnd Ansehen. Er macht auch sein zeichen an die Losament: ist es aber im Feld/ so theilt er die Losament nach gelegenheit auß. Des Trompeters Ampt ist/ auff den Rittmeister zu warten/ der Compagnien vorziehen. Er soll auch wüssen vnd können sein vnderschiedenlich blaasen: alß wann man essen/ sattlen/ auffsitzen vnd marschieren solle: Jtem/ so Feind vorhanden/ zum Lermen vnd zum Treffen blaasen/ diß hat alles sein vnderschidenlich trompeten. Er soll keck vnd mannlich seyn/ deßgleichen verständig/ geschickt vnd außrichtig/ vnd da man vor dem
+  cs: |-
+    V kompanii jízdy je nejprve rytmistr {Rittmeister}, potom poručík {Leutenammt}, kornet {Cornet}, kvartýrmistr {Quartiermeister} neboli furýr {Furier}, korouhevní junkr {Fahnen-Juncker}[^3], dva desátníci {Corporal}, písař {Schreiber}, ranhojič {Feldschärer}, markytán {Marckitänter}, několik svobodných jezdců, podkovář, sedlář a dva trubači {Trompeter}. Co se týče úřadu, pochodu a stráže každého z nich, platí totéž, co stanoví úřady, pochod a stráže u pěchoty. A protože jsem nic nenapsal o furýrovi u pěchoty, ačkoli kvartýrmistr koná u svých jezdců týž úřad, poznamenej si zde, že jede napřed s generálním kvartýrmistrem; a když je mu ukázán kvartýr {Quartier} jeho kompanie, určí nejlepší a nejvhodnější místo pro svého rytmistra, potom pro poručíka a korneta, pro sebe a ostatní důstojníky {Officierer}, každému podle jeho stavu a vážnosti. Na ubytování {Losament} také dělá svá znamení; je-li však v poli, rozdělí ubytování podle příležitosti. Úřadem trubače je posluhovat rytmistrovi a jet před kompanií. Má také znát a umět svá rozličná troubení: kdy se má jíst, sedlat, nasedat a pochodovat; rovněž, je-li nepřítel nablízku, troubit k poplachu a k boji – to vše má svá zvláštní troubení. Má být smělý a mužný, rovněž rozvážný, obratný a schopný, a když se před
+poznamky:
+- n: 1
+  text: |-
+    Pandalierrohr – jezdecká karabina zavěšená na bandalíru (širokém závěsném řemeni přes rameno), z něhož se při střelbě nesnímala („mit dem Riemen anschlagen“, s. [[098|98]]).
+- n: 2
+  text: |-
+    Freye Reuter – vybraní zkušení jezdci bez hodnosti v kompanii, kteří se vysílali k prvnímu nárazu, na průzkum a k šarvátkám.
+- n: 3
+  text: |-
+    Fahnen-Juncker – mladý šlechtic či čekatel důstojnické hodnosti, který v kompanii jízdy pomáhal kornetovi s korouhví.

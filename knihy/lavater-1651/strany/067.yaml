@@ -1,0 +1,50 @@
+id: '067'
+list: '67'
+strana: recto
+sken: 101
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    aber das widerspiel/ zur Beuth/ sampt dem Messer/ Dägen/ Rohr/ Kraut vnd Loth/ vnd alles was zur gegenwehr dienet/ genommen werden.
+  cs: |-
+    však naopak, má se to vzít jako kořist, spolu s nožem, kordem, puškou, prachem {Kraut} a olovem {Loth} a se vším, co slouží k obraně.
+- typ: nadpis
+  uroven: 3
+  de: Ein form Paßzedels/ auff Beuth zu gahn.
+  cs: Vzor propustky, s níž se jde na kořist.
+- typ: odstavec
+  de: |-
+    Lasset passieren vnd repassieren zeigere dise N. N vnder meiner vnderhabenden Compagnie dienende Soldaten/ welchen ich die zeit von N. auff Hassard zu gehen/ vnd den Feind/ best vermögens/ zu beschädigen vnd abbruch zu thun/ consens vnd vrlaub geben. Den 1. Junij 1644. N. N. etc.
+  cs: |-
+    Nechte projít tam i zpět předkladatele tohoto [listu], N. N., vojáky sloužící v kompanii {Compagnie}, která mi je svěřena, jimž jsem na dobu od N. dal souhlas a dovolení vydat se na hazard {auff Hassard}[^1] a podle svých nejlepších sil nepříteli škodit a působit mu újmu. Dne 1. června 1644. N. N. atd.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie man einen anschlag/ da man ein Vestung heimlich eynnemmen will/ zu werck setzen muß.
+  cs: Jak se má provést přepad, chce-li se tajně zmocnit pevnosti.
+- typ: odstavec
+  de: |-
+    Wann man ein Ort oder Vestung heimlich eynnemmen will/ so ist von nöhten/ daß alle gelegenheit des Orts/ die weite vnd tieffe der Gräben/ auch die höhe des Wals geometrisch außgerechnet vnd abgemessen werde: vnd so bald des Abends die Porten beschlossen seind/ soll man das Volck in drey Rotten außtheilen/ vnd jeglicher Rott oder Trouppen einen Führer zugeben/ damit sie wüssen/ wie sie in der ordnung fort ziehen müssen: Sie sollen auch angeloben der Beuth vnd Raub nicht nachzuhengen biß der Feind gedempt ist/ vnd sie erlaubnuß empfangen ein solches zu thun: vnn da dises beschehen/ sollen etliche Vortraber zu fuß vnd Pferd voran geschickt werden: Demnach die Wägen/ Brucken/ Schiff/ vnd was man bedürfftig/ darauff nachzuführen: vnd da man nahe darzu kommt/ soll man gantz still darmit vmbgehen/ daß man sie nicht hören möge. Die erste Rott soll die Brucken vnd Schiff/ so man tragen mag abladen: vnd die ander Rott die Brucken versamlen/ vnd ins Wasser stossen. Darnach solle ein hertzhaffter Officierer auff den Wal steigen/ zu sehen ob es auch sicher seye: vnd inzwüschen die dritte Rott vber die Schiff vnd Brucken gehen/ vnd die ander Leiter tragen/ dieselbig an die Mauren oder Walrichten: die vierte Rott soll auch hinnach folgen/ vnd die erste hinauff steigen/ die vbrigen hernach: da es aber ein trockener Graben ist/ vnd man der Schiffen vnd Brucken nicht manglet/ so soll die erste Rott die Leiteren tragen/ die andere hinauff steigen/ vnd wann sie auff dem Wal seind/ vnd starck genug sich in der Vestung befinden/ sollen sie dem Castell/ dem Geschütz/ Lermenplätzen/ Marckt/ vnd den Porten mit Bräch- Hebeysen vnd Hämmeren/ Zangen/ Sparren vnd dergleichen sachen zu eylen/ die Porten eröffnen/ vnd den draussenhaltenden Reuteren vnd gantzem Gewaltshauffen den zugang öffnen/ das Geschütz gegen den zusätzeren richten/ vnd jhnen in allen dingen vorkommen.
+  cs: |-
+    Chce-li se někdo tajně zmocnit nějakého místa nebo pevnosti {Vestung}, je nutné, aby byla celá poloha místa, šířka a hloubka příkopů {Gräben} i výška valu {Wals} geometricky vypočtena a změřena. Jakmile se večer zavřou brány, má se lid rozdělit do tří rot {Rotten} a každé rotě neboli oddílu {Trouppen} se má přidělit vůdce, aby věděli, jak mají v pořádku postupovat. Mají také slíbit, že se nebudou honit za kořistí a lupem, dokud nebude nepřítel přemožen a dokud k tomu nedostanou svolení. Když se tak stane, má se napřed vyslat několik předních jezdců a pěších {Vortraber}, za nimi pak mají jet vozy s mosty, loďmi a vším, čeho je třeba. Když se přiblíží, má se s tím vším zacházet zcela potichu, aby je nebylo slyšet. První rota má složit mosty a lodě, které lze unést, a druhá rota má mosty sestavit a spustit na vodu. Potom má nějaký odvážný důstojník vylézt na val a podívat se, zda je tam bezpečno. Mezitím má třetí rota přejít po lodích a mostech, nést další žebříky[^2] a opřít je o hradbu nebo val. Čtvrtá rota[^3] má jít za ní; první má vystoupit nahoru a ostatní za ní. Je-li však příkop suchý a lodí ani mostů není třeba, má první rota nést žebříky a druhá vystoupit nahoru. Když jsou na valu a cítí se v pevnosti dost silní, mají s páčidly, sochory, kladivy, kleštěmi, trámy a podobnými věcmi spěchat ke kastelu {Castell}, k dělům, k poplachovým místům {Lermenplätzen}, na náměstí a k branám, otevřít brány a zpřístupnit cestu jezdcům, kteří čekají venku, i celému hlavnímu houfu {Gewaltshauffen}, namířit děla proti obráncům {zusätzeren} a ve všem je předejít.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie man sich mit dem so den anschlag auff solche Vestung machet/ vnd man jhme nicht wol trawen darff/ verhalten solle.
+  cs: |-
+    Jak si počínat s tím, kdo přepad na takovou pevnost navrhuje, nelze-li mu dobře důvěřovat.
+- typ: odstavec
+  de: |-
+    Dieweil die verrähterey so groß ist/ kan man sich nicht genugsam vorsehen: darumb solt du den Gesellen vorher führen lassen/ daß er nicht
+  cs: |-
+    Protože zrady je tolik, nelze být nikdy dost opatrný. Dej proto toho chlapíka vést vpředu, aby
+poznamky:
+- n: 1
+  text: Auff Hassard gehen (z fr. hasard) – vydat se na vlastní nebezpečí na loupežnou výpravu proti nepříteli.
+- n: 2
+  text: V originále „die ander Leiter tragen“ – nejasné, zda jde o „další žebříky“, nebo o chybějící podmět („druhá [rota] má nést žebříky“).
+- n: 3
+  text: Výše se mluví jen o třech rotách; čtvrtá rota je v originále bez vysvětlení.

@@ -1,0 +1,28 @@
+id: '032'
+list: '32'
+strana: verso
+sken: 66
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    den heiligen Geist/ daß seine grundlose barmhertzigkeit/ vnd vnsers Herren vnd Heylands Jesu Christi vnschuldigkeit/ sein harter tod/ sein heiliges schwäres leyden/ sein bitter angst vnd noht/ vnd seine vnschuldige marter/ an mir armen Sünder gantz entzogen vnd verlohren werde/ etc.
+  cs: |-
+    Ducha svatého, aby jeho bezedné milosrdenství i nevinnost našeho Pána a Spasitele Ježíše Krista, jeho krutá smrt, jeho svaté těžké utrpení, jeho hořká úzkost a nouze i jeho nevinné umučení byly mně, ubohému hříšníku, zcela odňaty a ztraceny atd.“
+- typ: odstavec
+  de: |-
+    Derowegen bedenck/ o Mensch/ wie ein grausam vrtheil du vber dich selber sprichst/ vnd bedencke dich ja wol. Darbey mag ein frommes Christenliches Hertz wol mercken vnd bedencken/ was der falsche Eyd seyn mag/ etc. wo der Mensch Gott den Allmächtigen durch den falschen Eyd verläugnet/ darvor sich ein jeder Christenmensch billich hůten soll bey seiner Seelen heyl vnd seligkeit.
+  cs: |-
+    Proto uvaž, člověče, jak hrozný rozsudek nad sebou sám vynášíš, a dobře se rozmysli. Z toho může zbožné křesťanské srdce dobře poznat a uvážit, čím je křivá přísaha atd., když jí člověk všemohoucího Boha zapírá; před tím se má každý křesťan právem střežit, nechce-li přijít o spásu a blaženost své duše.
+- typ: nadpis
+  uroven: 2
+  de: Von dem Commandanten/ seinem Eyd/ Ampt vnd Beruff.
+  cs: O komandantovi, jeho přísaze, úřadu a povolání.
+- typ: odstavec
+  de: |-
+    Der Commandant ist des Gubernators Statthalter/ oder Vice-Gubernator/ welcher im abwesen des Gubernators/ die Statt/ Stell/ Platz/ oder das Gubernament führet vnd versihet: darumb jhme billich in abwesen des Gubernators/ alle gebürende ehr/ gehorsame vnd respect bewisen werden solle. Dann er hat vollkommnen gewalt alles befelchs des Gubernators in seiner abwesenheit/ so jhme vertrawet vnd anbefohlen wirdt. Es soll aber erstlich ein Commandant wüssen/ was einem Gubernator in einer Besatzung/ Vestung/ oder Guarnison zu thun/ was sein Stand außweise/ vnd was demselben gemäß/ ruhmlich vnd ersprießlich. Darnach soll er wüssen wie weit sein eygen Commandament sich in gegenwart seines Gubernators/ erstrecke/ was jhme zu thun oblige/ vnd von jhme erforderet werde: vnd dann/ was jhme in abwesen seines Gubernators zu thun gebüre/ wie er die Vestung zur genugthüung regiere/ anderst nicht/ alß wann der Gubernator selbst persönlich darbey were/ darinnen dann er beyde ämpter wol betrachten vnd zu werck setzensolle: Daß auch kein mangel in allweg möge gespüret werden. Der Commandant ist meistentheil ein Oberst Leutenampt/ oder zum wenigsten ein Capitain von einem anderen Regiment: (dann es werden die Regimenter in den Guarnisonen vermischet/ deßgleichen die Nationen/ zu vermeydung Meuterey oder anderen Conjurationen.) Des Winters regiert der Gubernator/ so lang er in der Guarnison oder Besatzung ist: Jm Sommer aber muß er mit seinem Regiment/ welches auch hin vnd wider in vnderschiedenliche Guarnisonen zertheilt ist/ in das Feld: Alßdann so führet der Commandant vber etliche Compagnien/ so die Vestung verwachen müssen/ das vollkommne Gubernament: Seine Qualiteten sollen des Gubernators gleich seyn. Wie er sich aber weiter verhalten solle/ wird der gutwillige Leser folgends nach vnd nach finden. Vnd ist sein Ampt anderst nicht alß wie des Gubernators/ vnd in desselben anwesen/ wie sonsten eines Capitains befelch/ aussert daß er den anderen Capitainen vorgezogen wirdt.
+  cs: |-
+    Komandant {Commandant} je náměstkem {Statthalter} guvernéra {Gubernator} neboli viceguvernérem, který v guvernérově nepřítomnosti vede a spravuje město, místo, pevnost {Platz} či správu {Gubernament}; proto se mu v nepřítomnosti guvernéra právem má prokazovat veškerá náležitá čest, poslušnost a úcta. Neboť v jeho nepřítomnosti má plnou moc ve všem, co guvernérovi přísluší nařizovat, pokud je mu to svěřeno a uloženo. Komandant má však především vědět, co má guvernér v posádce, pevnosti či garnizóně {Guarnison} konat, co vyžaduje jeho postavení a co je mu přiměřené, chvályhodné a prospěšné. Dále má vědět, kam až sahá jeho vlastní velitelská moc {Commandament} za přítomnosti guvernéra, co je jeho povinností a co se od něho požaduje; a potom, co mu náleží činit v nepřítomnosti guvernéra a jak má pevnost spravovat ke všeobecné spokojenosti, ne jinak, než kdyby byl guvernér osobně přítomen. V tom má oba úřady dobře uvážit a uvést ve skutek, aby nebylo v ničem znát žádný nedostatek. Komandantem bývá většinou podplukovník {Oberst Leutenampt}, nebo přinejmenším hejtman {Capitain} z jiného pluku (v garnizónách se totiž mísí pluky i národnosti, aby se předešlo vzpourám nebo jiným spiknutím {Conjurationen}). V zimě vládne guvernér, dokud je v garnizóně čili posádce; v létě však musí se svým plukem {Regiment}, který je také rozdělen sem a tam do různých garnizón, vytáhnout do pole. Tehdy vykonává komandant plnou správu nad několika kompaniemi {Compagnien}, které musí pevnost střežit. Jeho vlastnosti mají být stejné jako guvernérovy. Jak se má dále chovat, najde laskavý čtenář postupně v dalším textu. Jeho úřad je stejný jako úřad guvernéra; v guvernérově přítomnosti však velí jako kterýkoli jiný hejtman, jen s tím rozdílem, že má přednost před ostatními hejtmany.
+poznamky: []

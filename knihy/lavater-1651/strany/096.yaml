@@ -1,0 +1,40 @@
+id: 096
+list: '96'
+strana: verso
+sken: 142
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Herren vnd den seinigen/ wird etwas angenehms beweisen können/ soll es allzeit mit gar gutem willen beschehen.
+  cs: |-
+    budu moci pánovi a jeho lidem prokázat něco milého, stane se to vždy velmi ochotně.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Ein andere form: Wann man die Rotten der Compagnien ergäntzen/ vnd sich verfaßt halten soll.
+  cs: |-
+    Jiný vzor: Když se mají doplnit roty {Rotten} kompanií a [lid] se má držet v pohotovosti.
+- typ: odstavec
+  de: |-
+    Ehrsame/ etc. Demnach vnseren gnädigen Herren glaubwürdig fürkommen/ was massen die gefaaren/ darinn vnser geliebt Vatterland ein lange zeit gestanden/ nicht abnemmen/ sondern je länger je mehr wachsen/ wie dann allernechst bey jhren grentzen vmb N. N. vnd selbst herumb/ ein grosse frömbde Kriegsmacht sich versamlet/ vnd zusammen thut/ welche allerley muhtwillens mit biderben Leuthen treiben/ vnd niemand wüssen mag/ worauff es gespielt vnd angesehen seye. Seind Sie alß ein Christenliche Oberkeit vervrsachet worden/ bey zeiten zu der Sach zu thun/ vnd von newem zu sehen/ wie die jhrigen zu Statt vnd Land mit Wehr vnd Waaffen/ Munition vnd allerhand nohtwendigkeit versehen seyen. Haben derowegen mir in befehl aufferlegt/ daß ich so wol allhie in disem Quartier vnd bey den vbrigen Wachten/ alß auch anderstwo in jhrer Landschafft die fürgesetzten der Gmeinden/ Vndervögt/ Geschworne/ Rottmeister/ vnd dergleichen zusammen berüffen lasse/ vnd fleissig nachforsche/ wie ein vnd der ander im fahl der noht versehen/ vnd ob die Rotten alle ergäntzt/ damit wo etwas mangels/ derselbig bey zeiten könne ersetzt werden: darneben so versehen sie sich zu euch/ wie auch den vbrigen jhren Vnderthanen gemein- vnd sonderlich aller trew/ gehorsame vnd dapfferkeit/ vnd verhoffen/ jhr werden euch im fahl der noht redlich vnd dapffer eynstellen vnd erzeigen/ wie es rechten liebhaberen des Vatterlands wol anstehet: vnd das vmb desto ehender/ weiln es antrifft vnser eines jeden eygen Hauß vnd Heimath/ Weib vnd Kind/ die Freyheit waarer Religion vnd gantzen Vatterlands/ zu dessen erhaltung billich ein jeder redlicher Mann/ sich nicht scheuhen soll Leib vnd Leben auffzusetzen vnd zu wagen: das werden auch Sie vnser gnädig Herren (ohne das ein jeder vnder euch schuldig ist) in gnaden vnd allem gutem erkennen. Das nun hab ich euch/ von jhrentwegen wöllen eröffnen/ vnd könte hierauff ein anfang gemachet werden. Derhalben jhr Vndervogt/ oder Rottmeister bringet her den Rodel/ so wol der außgesetzten alß der vnaußgesetzten/ vnd jhr gebet hie bericht vnd kundtschafft/ wie man versehen seye/ vnd verhaltet nichts.
+  cs: |-
+    Ctihodní atd. Poněvadž se našim milostivým pánům věrohodně doneslo, že nebezpečí, v nichž naše milovaná vlast již dlouho stojí, neubývají, nýbrž čím dál víc rostou – jak se ostatně v nejbližším sousedství jejich hranic, u N. N. i všude kolem, shromažďuje a spojuje velká cizí válečná moc, která si s řádnými lidmi všelijak svévolně počíná, a nikdo nemůže vědět, oč se hraje a kam to míří –, byli jako křesťanská vrchnost přinuceni včas se věci ujmout a znovu zjistit, jak jsou jejich lidé ve městě i na venkově zaopatřeni zbraněmi a zbrojí, municí a všemi potřebami. Proto mi rozkazem uložili, abych jak zde v tomto obvodu {Quartier} a v ostatních okrscích {Wachten},[^1] tak i jinde v jejich venkovském území nechal svolat představené obcí, podfojty {Vndervögt}, přísežné {Geschworne}, rotmistry {Rottmeister} a podobné a pilně vyšetřil, jak je kdo pro případ nouze zaopatřen a zda jsou všechny roty doplněny, aby se případný nedostatek dal včas nahradit. Kromě toho se od vás i od svých ostatních poddaných, ode všech společně i od každého zvlášť, nadějí veškeré věrnosti, poslušnosti a statečnosti a doufají, že se v případě nouze poctivě a statečně dostavíte a osvědčíte, jak se na pravé milovníky vlasti sluší; a to tím spíše, že se to týká vlastního domu a domova každého z nás, ženy a dětí, svobody pravého náboženství i celé vlasti, k jejímuž zachování se každý poctivý muž právem nemá zdráhat nasadit a vydat v sázku tělo i život. To také naši milostiví páni (ačkoli je to beztak povinností každého z vás) uznají milostivě a vším dobrým. To jsem vám tedy chtěl jejich jménem oznámit a hned se s tím může začít. Proto vy, podfojte nebo rotmistře, přineste sem seznam {Rodel} vybraných i nevybraných,[^2] a vy zde podejte zprávu a svědectví, jak jste zaopatřeni, a nic nezamlčujte.
+- typ: nadpis
+  uroven: 3
+  de: Ein andere form einer Abdanckung.
+  cs: Jiný vzor propouštěcí řeči {Abdanckung}.
+- typ: odstavec
+  de: |-
+    Ehrsame/ etc. Demnach vns der gütig gnädig vnd liebe Gott/ abermalen auß sonderen gnaden vnd vätterlicher barmhertzigkeit/ die fröliche Sommers- oder Frühlingszeiten in gutem rhuwesen/ vor allen anderen Völckern auß/ in vnserem geliebten Vatterland/ mit den vnseren (darumb jhme dann groß lob vnd danck gesagt sey) erleben lassen/ haben vnser gnädig Herren vnd
+  cs: |-
+    Ctihodní atd. Poněvadž nám dobrotivý, milostivý a milý Bůh opět ze zvláštní milosti a otcovského milosrdenství dopřál prožít radostný letní (nebo jarní) čas v dobrém pokoji, na rozdíl od všech ostatních národů, v naší milované vlasti s našimi blízkými (za což mu budiž vzdána veliká chvála a dík), uložili naši milostiví páni a
+poznamky:
+- n: 1
+  text: |-
+    Wacht – ve švýcarském úzu menší správní okrsek (část obce či farnosti), z něhož se odváděla domobrana.
+- n: 2
+  text: |-
+    Rodel – soupis mužstva; außgesetzte = muži zařazení do výběru (Auszug), vnaußgesetzte = nezařazení (srov. str. [[094|94]]).

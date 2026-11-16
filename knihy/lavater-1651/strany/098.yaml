@@ -1,0 +1,47 @@
+id: 098
+list: '98'
+strana: verso
+sken: 144
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    halten soll ers lincks vnd rechts/ vnd gar vmb rechts oder lincks vmbkehren. Er soll auch dasselbig in einem kleinen: bald in einem noch kleineren: bald aber in gar kleinem Ring: dann gegen diser: dann gegen jener seiten vmb: jetzt gehend: dann trabend/ oder caloppierend an einem langen Seil (welches er nachlassen vnd an sich ziehen kan/ je nach dem das Pferd in einem Ring lauffen soll) mit einer geislen oder spißgerten herumb treiben: alß dann auffsitzen/ dasselbig widerumb in dem Ring/ jetztgehörter massen/ herumb reiten vnd sprengen: Jtem/ für die Trommel führen/ vnd dieselbig rühren: vor- nebenvnd an seinem Haupt die Pistolen loß brennen/ vnd so offt vnd dick abrichten/ biß er genugsam damit versehen ist.
+  cs: |-
+    stání ho má obracet vlevo i vpravo a také úplně kolem vpravo či vlevo. Má ho také honit bičem nebo prutem dokola v malém, brzy v ještě menším, brzy ve zcela malém kruhu, hned na tu, hned na onu stranu, nyní krokem, pak klusem nebo cvalem, na dlouhém laně (které může povolovat a přitahovat podle toho, v jakém kruhu má kůň běhat); potom nasednout a v kruhu na něm opět výše řečeným způsobem jezdit a cválat. Dále ho vodit před buben a na ten bubnovat, před ním, vedle něho i u jeho hlavy pálit z pistolí a cvičit ho tak často a hojně, až si na to dostatečně zvykne.
+- typ: nadpis
+  uroven: 3
+  de: Von dem Exercitio der Reuteren.
+  cs: O cvičení jezdců.
+- typ: odstavec
+  de: |-
+    Ein jeder soll sich gewennen den Zaum in der lincken hand zwüschen beyden mittleren fingeren zu halten/ vnd sich vom boden/ die Pistolen in der rechten hand führende/ auff- vnd von seinem Pferd zu schwingen: deßgleichen sein Pandalierrohr vnd Pistolen lehrnen vortheilhafftig laden vnd spannen: Jm reiten/ traben/ caloppieren vnd in vollem carrieren oder springen das Pandalier anschlagen/ ein Pistolen vmb die ander: dann lincks: dann rechts: jetzt hindersich: dann fürsich/ auff Mann oder Ross loß brennen: vonvnd zum Feind/ bald trabend: bald caloppierend: dann springend reiten. Die Distantzen vnd Stellungen der Ordnungen seind viererley:
+  cs: |-
+    Každý si má zvyknout držet uzdu v levé ruce mezi oběma prostředními prsty a s pistolí v pravé ruce se vyšvihnout ze země na koně i seskočit z něho; rovněž se má naučit výhodně nabíjet a natahovat svou karabinu {Pandalierrohr} a pistole; v kroku, klusu, cvalu i v plném trysku neboli skoku přikládat karabinu, pálit z jedné pistole po druhé, hned vlevo, hned vpravo, nyní vzad, pak vpřed, na muže či na koně; jezdit k nepříteli i od něho, brzy klusem, brzy cvalem, pak tryskem. Odstupy a postavení šiků {Ordnungen} jsou čtverého druhu:
+- typ: seznam
+  de:
+  - '1. Die gewohnlich Distantz: alß da die Pferd vier schritt zur rechten vnd zur lincken seiten/ hindersich vnd fürsich von einanderen stehen:'
+  - '2. Die doppelte Distantz: da die Pferd acht schritt von einanderen stehen:'
+  - '3. Die dreyfache Distantz: da ein Reuter zwölff schritt von dem anderen haltet:'
+  - '4. Die vierfache Distantz: da einer sechszehen schritt von dem anderen haltet.'
+  cs:
+  - '1. Obvyklý odstup {Distantz}: když koně stojí od sebe čtyři kroky vpravo i vlevo, vzad i vpřed;'
+  - '2. Dvojitý odstup: když koně stojí od sebe osm kroků;'
+  - '3. Trojitý odstup: když jeden jezdec stojí od druhého dvanáct kroků;'
+  - '4. Čtyřnásobný odstup: když jeden stojí od druhého šestnáct kroků.'
+- typ: odstavec
+  de: |-
+    Man wendet/ doppliert/ schließt/ schwenckt/ etc. gleich wie vnder dem Fußvolck/ dann rechts: dann lincks: je nach dem man vorhabens ist. Man gibt Glider vnd Reyenweis/ erstlich reitend: dann trabend: dann caloppierend: dann im vollen carrieren oder springen fewr/ vnd hencket sich widerumb hinden/ vornen/ oder neben hinzu an: doch wo ein Glid fewr gegeben/ soll sich dasselbig in einen Reyen verfügen/ vnd je ein Reuter dem anderen nachhawen: vnd soll ein Schwader nicht höher alß 5. hoch/ vnd an Reutern 40. oder zum höchsten 60. starck seyn.
+  cs: |-
+    Obrací se, zdvojuje, svírá, zatáčí atd. stejně jako u pěchoty {Fußvolck}, hned vpravo, hned vlevo, podle toho, co se zamýšlí. Palba se dává po řadách {Glider} i po zástupech {Reyen}, nejprve krokem, pak klusem, pak cvalem a pak v plném trysku neboli skoku, a [řada] se pak opět připojí vzadu, vpředu nebo po boku; kde však řada vypálila, má se seřadit do zástupu a jeden jezdec má hnát za druhým. Švadrona {Schwader} nemá být hlubší než 5 [řad] a má mít 40, nanejvýš 60 jezdců.
+- typ: nadpis
+  uroven: 3
+  de: Was im scharmützieren zu bedencken seye.
+  cs: Na co je třeba pamatovat v šarvátce.
+- typ: odstavec
+  de: |-
+    Es soll ein jeder seinen Dägen am Arm außgezogen an ein band hencken/ das Pandalierrohr vnd Pistolen bereit geladen vnd gespannen haben/ doch das Pandalierrohr im anlegen nicht auß dem Haacken vnd Riemen thun/ sondern mit dem Riemen anschlagen: nach demselben in vollem carrieren auff den Feind/ nach desselbigen kopff oder lincke brust: also auch/ da er sein
+  cs: |-
+    Každý má mít svůj kord {Dägen} tasený a zavěšený na řemínku na paži, karabinu a pistole připravené, nabité a natažené; karabinu však při přikládání nemá vyvěšovat z háku a řemene, nýbrž přikládat ji i s řemenem; potom [má pálit] v plném trysku na nepřítele, na jeho hlavu nebo levou stranu prsou, a stejně tak, chce-li mu

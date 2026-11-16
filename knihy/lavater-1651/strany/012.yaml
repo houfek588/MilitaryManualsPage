@@ -1,0 +1,44 @@
+id: '012'
+list: '12'
+strana: verso
+sken: 46
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Vestung abzuhalten gebawen werden/ alß da seind die Horn/ Cronwerck/ Halbmön/ etc. werden sonsten genannt Butenwerck.
+  cs: |-
+    od pevnosti odrážela; takové jsou hornwerky {Horn}, korunní díla {Cronwerck}, půlměsíce {Halbmön} atd. Jinak se jim říká také „butenwerky“ {Butenwerck}.[^1]
+- typ: nadpis
+  uroven: 3
+  de: Was ein Ravelein seye/ auch wie solches beschaffen seyn solle.
+  cs: Co je ravelin a jaký má být.
+- typ: odstavec
+  de: |-
+    Das Ravelein hat ein gestalt eines vollkommnen Wercks/ nur daß es an der Courtine nicht anligt/ vnd macht man je zwüschen zweyen Bollwercken Ravelein oder halbe Mönen/ welches viereckige Werck seind/ daran ein jegliche seiten 12. 15. oder 20. ruhten hat/ vnd werden gesetzt auff den aussersten rand des Grabens/ also daß sein innwendig eck oder schießzang richtig gegen dem port vnd eck des Grabens seye. Die vrsach warumb die seiten oder wänd derselbigen nicht grösser oder weiter von einander seind vnd gemachet werden/ ist/ daß sie desto ringer zu beschirmen seind/ sonsten wurden sie anderst nicht dann von einer seiten des Bollwercks beschützt werden mögen/ das aber nicht genug were/ dem gewalt der stürmenden zu widerstehen: Es wird auch vber den ebenen boden erhaben/ damit man desto weiter ins Feld vmb sich sehen möge/ vnd so der Feind sturm anlaufft/ vnd die Belägerten auff jhn fewr geben wolten/ das Ravelein aber nicht erhaben were/ man die/ so im bedeckten weg seind/ beschädigen möchte. Das Ravelein ist erhaben 4. schuh hoch: die Brustwehr 6. schuh hoch vnd 20. dick: des Grabens breite ist 50. oder 60. schuh weit/ vnd tieff nach beschaffenheit/ doch je tieffer je besser: vmb disen Graben gehet ein bedeckter weg/ dessen Brustwehr 6. schuh hoch/ vnd 50. schuh sich ins Feld verlieret.
+  cs: |-
+    Ravelin {Ravelein} má podobu úplného díla, jenže nepřiléhá ke kurtině {Courtine}. Mezi každé dvě bašty {Bollwercken} se dělají raveliny neboli půlměsíce; jsou to čtyřhranná díla, jejichž každá strana má 12, 15 nebo 20 prutů {ruhten}, a kladou se na vnější okraj příkopu tak, aby jejich vnitřní roh neboli kleště {schießzang} směřovaly přímo proti okraji {port} a rohu příkopu.[^2] Strany neboli stěny ravelinu se nedělají větší ani od sebe vzdálenější proto, aby se tím snáze hájily; jinak by je bylo možno krýt jen z jedné strany bašty, a to by nestačilo k odražení náporu útočníků. Ravelin se také zvyšuje nad rovný terén, aby bylo vidět tím dál do pole kolem; kdyby totiž nepřítel útočil a obležení na něj chtěli pálit a ravelin by nebyl zvýšen, mohli by zasáhnout ty, kdo jsou na kryté cestě. Ravelin je zvýšen o 4 stopy, jeho předprseň {Brustwehr} je 6 stop vysoká a 20 silná; příkop je široký 50 nebo 60 stop a hluboký podle okolností, čím hlubší, tím lepší. Kolem tohoto příkopu vede krytá cesta {bedeckter weg}, jejíž předprseň je 6 stop vysoká a na 50 stopách se ztrácí do pole.
+- typ: nadpis
+  uroven: 2
+  de: Vom Hornwerck.
+  cs: O hornwerku.
+- typ: nadpis
+  uroven: 3
+  de: Von der Hornwercken nammen vnd beschaffenheit.
+  cs: O názvu a podobě hornwerků.
+- typ: odstavec
+  de: |-
+    Die Hornwerck seind Werck/ so mit zwo langen seiten mit zweyen halben Bollwercken vor der Courtine vber/ oder an die schwächsten ort der Vestung angelegt werden/ des Feinds Lauffgräben zu verhinderen. Sie sollen mit der Faussebraye so an der Streych des Bollwercks ist/ vberein stimmen/ dergestalten daß die breite vngefahr 32. ruhten mache/ von welcher weite sie auch zwey halbe Bollwerck machen. Die Streychen werden sich finden wann man von dem eck der schulteren zwo perpendicular zeucht auff die Courtine so deren grad entgegen gesetzt ist. Die aussersten eck besagter Hornwercken sollen nicht weiter von der Courtine abgesönderet seyn alß ein Musquetenschuß/ welcher auff 60. ruhten vngefahr gerechnet wird. Dise Werck lauffen parallel, vnd kan man sie wol auch non-parallel machen: allein wöllen wir sie allhie parallel haben: man schneidet auch dise Hornwerck ab. Des Grabens breite macht man nach dem Wal/ etliche aber machen jhne von 24 25. vnd biß in 35. schuh. Die Gesichtlinien/ Courtine, Flanck haben kein gewüsse maaß/ doch werden die Gesichtlinien vnd Courtine meistentheils in gleicher länge gemachet.
+  cs: |-
+    Hornwerky {Hornwerck} jsou díla o dvou dlouhých stranách a dvou polobaštách {halben Bollwercken}, která se zakládají naproti kurtině nebo u nejslabších míst pevnosti, aby překážela nepřátelským aprochům {Lauffgräben}. Mají odpovídat dolnímu valu {Faussebraye} u flanky bašty, a to tak, aby šířka činila asi 32 prutů; z této šíře se pak dělají i dvě polobašty. Flanky {Streychen} se najdou, když se z úhlů ramene spustí dvě kolmice na kurtinu, která leží přímo proti nim. Krajní rohy zmíněných hornwerků nemají být od kurtiny vzdáleny víc než na výstřel z muškety, který se počítá asi na 60 prutů. Tato díla vedou rovnoběžně {parallel}, lze je však udělat i nerovnoběžná; zde je však chceme mít rovnoběžná. Hornwerky se také odřezávají [vnitřním retranšementem].[^3] Šířka příkopu se řídí valem; někteří jej však dělají 24, 25 až 35 stop [široký]. Čela {Gesichtlinien}, kurtina a flanka {Flanck} nemají určitou míru; čela a kurtina se však většinou dělají stejně dlouhé.
+poznamky:
+- n: 1
+  text: Butenwerk (z dolnoněm. buten „venku“) – starší označení vnějšího díla.
+- n: 2
+  text: |-
+    „gegen dem port vnd eck des Grabens“ – port lze číst jako okraj (Bord) příkopu; méně pravděpodobně jako bránu (Porte), proti níž se raveliny kladou podle str. [[013|13]]. Schießzang – zde patrně vnitřní (vstupní) úhel ravelinu; význam nejistý.
+- n: 3
+  text: |-
+    „man schneidet auch dise Hornwerck ab“ – hornwerk se od pevnosti či uvnitř odděluje příčným valem (Abschnitt), aby po jeho ztrátě nepřítel nezískal přímý přístup ke kurtině.

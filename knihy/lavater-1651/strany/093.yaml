@@ -1,0 +1,38 @@
+id: 093
+list: '93'
+strana: recto
+sken: 139
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Ein andere form: Wann ein Regiments-Person/ oder Quartierhauptmann/ auff alle Quartier zu musteren reitet/ vnd das Volck sich gefaßt zu halten vermahnet.
+  cs: |-
+    Jiný vzor: Když člen vlády {Regiments-Person}[^1] nebo obvodní hejtman {Quartierhauptmann} objíždí všechny obvody {Quartier} k přehlídce a napomíná lid, aby se držel v pohotovosti.
+- typ: odstavec
+  de: |-
+    Ehrsame/ etc. Alßdann vnser gnädig Herren vnd Oberen/ Burgermeister vnd Raht loblicher Statt N. auß allerley ehehafften/ vnd treffenlich vil daran gelegenen Motiven vnd Vrsachen für rahtsam vnd hoch-nohtwendig zu seyn erachtet/ vnd befunden/ daß jhre vnderhabende Landschafft/ vnd hiemit auch jhr in eweren Vberwehren vnd Waaffen angeführt vnd exerciert werden/ haben sie mir/ laut allhie eines beyhanden Schreibens/ ernstlich in befelch auffgetragen/ hin vnd wider zu reiten (oder zu reisen) vnd nach anmeldung jhres gnädigen Grüsses/ vnd gegen jhren Vnderthanen tragenden günstigen vnd geneigten Willens/ disen jhren Willen vnd Befehl ins werck zu richten: auff welchen empfangenen Befehl/ ich nicht ermanglen wöllen oder sollen/ mich also bald auffzumachen/ vnd erstlich allhero in dise Graffschafft (oder Herrschafft) zu verfügen vnd euch zusammen zu berüffen. Vnd dieweil jhr nun beysammen seind/ will ich euch hiemit mehr-gemeldten vnserer gnädigen Herren vnd Oberen günstigen vnd geneigten Willen angezeigt haben: darneben euch jhres Befehls erjnneren/ welcher ist/ daß ein jeder der vber seine 20. Jahr alt ist/ sich mit seinem Vbergewehr gefaßt halte/ dasselbig recht lehrne führen vnd brauchen/ vnd sich von den angestellten übungen/ bey vermeydung jhrer schwären straaff vnd vngnad/ nicht absöndere vnd enteussere/ in ansehung jetziger gefahrlichen läuffen/ da vnser Widerpart allerhand Practicken wider vns machet/ insonderheit von nöhten ist/ daß man sich in bereitschafft halte/ damit man im fahl der noht/ für des Vatterlands wolhergebrachte lobliche Freyheiten Leibs vnd der Seelen/ für Weib vnd Kind/ Haab vnd Gůt/ mit desto mehrerm vortheil streiten/ vnd dem Feind einen fruchtbarlichen abbruch thun möge. Werden euch derhalben/ alß vnserer gnädigen Herren vnd Oberen besonders getrewe liebe Vnderthanen der gebühr nach eynzustellen wol wüssen/ etc.
+  cs: |-
+    Ctihodní atd. Jelikož naši milostiví páni a vrchnost, purkmistr a rada chvályhodného města N., z rozličných pádných a nadmíru závažných pohnutek a příčin uznali a shledali za radné a nanejvýš nutné, aby jejich poddaný venkov, a tím i vy, byl veden a cvičen ve svých dlouhých zbraních {Vberwehren}[^2] a zbroji, uložili mi přísným rozkazem (podle listu, který tu mám při sobě), abych objížděl (nebo procestoval) kraj, vyřídil jejich milostivý pozdrav a příznivou a laskavou vůli, kterou chovají ke svým poddaným, a tuto jejich vůli a rozkaz uvedl ve skutek. Po přijetí tohoto rozkazu jsem nechtěl ani nesměl otálet a hned jsem se vydal na cestu, abych se nejprve odebral sem do tohoto hrabství (nebo panství) a svolal vás dohromady. A protože jste nyní pohromadě, chci vám tímto oznámit příznivou a laskavou vůli našich již vícekrát zmíněných milostivých pánů a vrchnosti a zároveň vám připomenout jejich rozkaz, totiž aby se každý, kdo je starší dvaceti let, držel pohotově se svou dlouhou zbraní, učil se s ní řádně zacházet a užívat jí a nevzdaloval se ani nestranil nařízených cvičení, chce-li se vyhnout jejich těžkému trestu a nemilosti. Vzhledem k nynějším nebezpečným časům, kdy náš protivník proti nám strojí všelijaké úklady {Practicken}, je zvláště nutné držet se v pohotovosti, abychom v případě nouze mohli s tím větší výhodou bojovat za odedávna zděděné chvályhodné svobody vlasti, tělesné i duševní, za ženu a dítě, za majetek a statek, a nepříteli citelně uškodit. Proto se jistě jako zvlášť věrní a milí poddaní našich milostivých pánů a vrchnosti dovedete náležitě dostavit atd.
+- typ: nadpis
+  uroven: 3
+  de: Wann man extraordinari mustert/ vnd darneben sondere Commission hat.
+  cs: Když se koná mimořádná přehlídka a [hejtman] má přitom zvláštní pověření {Commission}.
+- typ: odstavec
+  de: |-
+    Fromme/ etc. Die Hochgeachten/ etc. Herren Burgermeister vnd ein gantzer Ehrsamer/ Hoch-wolweyser Raht loblicher Statt N. vnser gnädig lieb Herren vnd Oberen/ haben mich abgeordnet/ euch alß jhren getrewen lieben Vnderthanen/ jhren gnädigen vnd günstigen Willen/ freundlichen Gruß/ sampt allem guten anzuzeigen. Vnd dieweil dann jetz ein zimlich lange zeit ein gantze lobliche Eydgnoschafft vnsers geliebten Vatterlands/ vorauß aber ein Statt N. sampt derselbigen zugehörigen Landschafft in nicht geringe gefahr/ wegen des hin- vnn herzuruckenden frömbden vmbschweiffenden Kriegsvolcks gestanden vnd gesetzt ist/ inmaassen sie Hochgedacht vnser gnädig
+  cs: |-
+    Řádní atd. Vysoce vážení atd. páni purkmistr a celá ctihodná, vysoce moudrá rada chvályhodného města N., naši milostiví a milí páni a vrchnost, mě vyslali, abych vám, jejich věrným a milým poddaným, vyřídil jejich milostivou a příznivou vůli, přátelský pozdrav a vše dobré. A poněvadž již po dosti dlouhou dobu celé chvályhodné Spříseženstvo[^3] naší milované vlasti, a především město N. s příslušným venkovem, stojí a ocitá se v nemalém nebezpečí kvůli cizímu toulavému válečnému lidu, který se pohybuje sem a tam, takže i oni, naši výše řečení milostiví
+poznamky:
+- n: 1
+  text: >-
+    Regiments-Person – ve švýcarském úzu patrně člen městské vlády (rady, „Regiment“); může však jít i o vyššího
+    důstojníka pluku.
+- n: 2
+  text: >-
+    Vberwehr / Vbergewehr – dlouhá zbraň nošená přes rameno (mušketa, píka), na rozdíl od zbraně po boku (kordu).
+- n: 3
+  text: >-
+    Eydgnoschafft – Švýcarské spříseženstvo (konfederace kantonů).

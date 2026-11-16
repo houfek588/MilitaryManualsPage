@@ -1,0 +1,59 @@
+id: '100'
+list: '100'
+strana: verso
+sken: 146
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Feind ist/ soll er sich allzeit zum Fahnen halten: verständig vnd geschickt/ darumb/ so man jhne/ alß offt geschicht/ etwan mit Feinds brieffen oder gefangenen/ oder etwan Besatzung auffzuforderen/ oder in anderen geschäfften vnd bottschafften zum Feind schicket/ er die Sach wüsse weyßlich außzurichten/ zu reden vnd zu schweigen/ was vnd wann es sich zimbt. Der Rittmeister nimmt auch gebührliche Pflicht von jhme/ in dem er jhm eynbindet/ was jhne für gut vnd noht ansihet von jhme. Mit einem Cornet ist auch ein beschaffenheit/ alß wie mit den Fendrichen zu fuß: Er soll das Cornet allzeit im fechten hochvnd die Reuter wol beysammen halten/ sie ermahnen vnd trostlich zusprechen: Er soll auch ein mannlicher vnd wol erfahrner Mann seyn/ dann an jhme vil gelegen/ vnd ist nicht darmit außgericht/ daß er glatt außgestrichen/ wol gerüst vnd auffgemutzt seye: dann es gehört mehr alß ein rot par schuh zu disem Dantz. Wie nun die Schlachtordnungen gemacht werden/ vnd man zu Pferd weiters fechten solle: wird solches der liebe Läser nachgehends bey den Schlachtordnungen finden.
+  cs: |-
+    nepřítelem, má se vždy držet u korouhve. Rozvážný a obratný [má být] proto, aby – když ho, jak se často stává, posílají k nepříteli s listy nebo se zajatci, k vyzvání posádky [ke vzdání] nebo v jiných záležitostech a poselstvích – dokázal věc moudře vyřídit a věděl, co a kdy se sluší říci a o čem mlčet. Rytmistr {Rittmeister} od něho také přijímá náležitou přísahu, v níž mu ukládá, co od něho považuje za dobré a potřebné. S kornetem {Cornet}[^1] je to stejné jako s praporečníky {Fendrichen} u pěchoty: v boji má korouhev vždy držet vysoko a jezdce dobře pohromadě, napomínat je a dodávat jim odvahy. Má to být také mužný a velmi zkušený muž, neboť na něm mnoho záleží; a nestačí, aby byl hladce učesaný, dobře vyzbrojený a vyparáděný: k tomuto tanci je totiž potřeba víc než pár červených střevíců. Jak se pak tvoří bitevní šiky {Schlachtordnungen} a jak se má dále bojovat na koni, to milý čtenář najde dále u bitevních šiků.
+- typ: odstavec
+  de: Ende des Exercitij zu Ross vnd Fůß.
+  cs: Konec cvičení {Exercitij} jízdy a pěchoty.
+- typ: nadpis
+  uroven: 2
+  de: Hie folget/ wie man allerhand gattung Zug- vnd Schlachtordnungen zu Ross vnd Fůß machen/ vnd darmit fechten solle.
+  cs: Zde následuje, jak se mají tvořit rozličné druhy pochodových a bitevních šiků jízdy i pěchoty a jak se s nimi má bojovat
+- typ: nadpis
+  uroven: 3
+  de: Was ein Ordnung seye.
+  cs: Co je šik
+- typ: odstavec
+  de: |-
+    Es ist ein hauffen Kriegsvolck/ so Reyen- Glider- Squadronen/ halbvnd gantzen Compagnien vnd Regimenter-weis/ auff allerley form vnd manier/ nach beschaffenheit des orts vnd feinds gestellt vnd abgetheilt wird/ darmit man durch Berg vnd Thal/ Päß vnd Clausen/ von- zu- vnd gegen dem Feind zeucht/ vnd sich darmit vor des Feinds vberfahl beschirmet.
+  cs: |-
+    Je to houf válečného lidu, který se po zástupech {Reyen}, řadách {Glider}, švadronách {Squadronen}, polovičních i celých kompaniích {Compagnien} a plucích {Regimenter} staví a rozděluje v rozličné formě a způsobu podle povahy místa a nepřítele, aby se s ním táhlo horami i údolími, průsmyky a soutěskami, od nepřítele, k němu i proti němu, a aby se jím [vojsko] chránilo před nepřátelským přepadem.
+- typ: nadpis
+  uroven: 3
+  de: Wie vilerley gattung derselben seyen.
+  cs: Kolik je jejich druhů
+- typ: odstavec
+  de: |-
+    Es seind derselben viererley gattungen: Namlich/ die Stell- Zug- Fundament- vnd Schlachtordnungen.
+  cs: |-
+    Jsou čtyři jejich druhy, totiž šiky postojové {Stellordnung}, pochodové {Zugordnung}, základní {Fundamentordnung} a bitevní.
+- typ: nadpis
+  uroven: 3
+  de: Was die Stellordnung seye.
+  cs: Co je postojový šik
+- typ: odstavec
+  de: |-
+    Sie ist die erste Ordnung/ so gerichtet vnd gestellet wird/ darauß man die Zugordnung formieret.
+  cs: |-
+    Je to první šik, který se vyrovná a postaví a z něhož se formuje šik pochodový.
+- typ: nadpis
+  uroven: 3
+  de: Was die Zugordnung seye.
+  cs: Co je pochodový šik
+- typ: odstavec
+  de: |-
+    Es ist ein verlängte/ vnd weit in die länge/ vnd zum marschieren außgedännete dienstliche Ordnung: da sich ein halb- gantz- oder mehr Compagnien in 2. 3. 4. 5. 6. oder mehr Reyen (je nach dem der Paß/ oder Weg/ darüber man marschieren muß/ eng/ schmal/ oder breit ist) nach der länge erstrecket.
+  cs: |-
+    Je to prodloužený šik, daleko do délky roztažený a k pochodu upravený a příhodný: v něm se polovina kompanie, celá kompanie nebo více kompanií protáhne do délky ve 2, 3, 4, 5, 6 nebo více zástupech (podle toho, je-li průsmyk nebo cesta, po níž se musí pochodovat, těsná, úzká, nebo široká).
+poznamky:
+- n: 1
+  text: Cornet – u jízdy jak korouhev (standarta) kompanie, tak důstojník, který ji nese (obdoba praporečníka u pěchoty); text užívá slovo v obou významech.

@@ -1,0 +1,54 @@
+id: '071'
+list: '71'
+strana: recto
+sken: 105
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    verordnen/ welche zum stein- holtz vnd anders vnderweilen zu tragen/ vnd auch zum fewr löschen nutz vnd taugenlich seind.
+  cs: |-
+    umístit; ti se však občas hodí k nošení kamení, dříví a jiných věcí a také k hašení ohně.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wie man sich wegen des Viehs/ weiln wenig fůtter vorhanden ist/ verhaltet.
+  cs: Jak naložit s dobytkem, je-li málo píce.
+- typ: odstavec
+  de: |-
+    Das Vieh soll man bey zeiten (außgenommen etliche Küh für die jungen Kinder oder krancke) metzgen vnd eynsaltzen/ damit den Reuter- vnd Fůhrpferden am fůtter nichts abgehe/ vnd sie desto länger erhalten werden.
+  cs: |-
+    Dobytek se má včas porazit a nasolit (kromě několika krav pro malé děti a nemocné), aby jezdeckým a tažným koním neubývalo píce a mohli se tím déle udržet.
+- typ: nadpis
+  uroven: 2
+  de: Worzu die Blockhäuser noch heutigs tags dienstlich seyen.
+  cs: K čemu se sruby hodí ještě dnes.
+- typ: odstavec
+  de: |-
+    Sie seind gut in einer Belägerung: dann man solche legen/ heben/ tragen vnd führen mag/ wohin man sie haben vnd brauchen will. Sie können vnder die Porten: jtem/ hinder die Breschen gestellt/ theils außgefüllt/ darauff Stück gesetzt: theils aber vnaußgefüllt/ darinnen Musquetierer stehen/ sich mit Musqueten vnd Doppelhaacken wehren vnd den Feind abtreiben mögen. Dise Blockhäuser werden auch auff die Katzen oder Cavalieurs geführt/ außgefüllt/ vnd darauff Stück geplantiert.
+  cs: |-
+    Sruby {Blockhäuser} se hodí při obléhání, neboť je lze skládat, zvedat, nést a vézt, kamkoli je kdo chce mít a potřebuje. Mohou se postavit do bran a také za průlomy {Breschen}: jedny naplněné [hlínou], aby se na ně postavila děla, jiné nenaplněné, aby v nich stáli mušketýři, bránili se mušketami a hákovnicemi {Doppelhaacken} a odráželi nepřítele. Tyto sruby se také vyvážejí na „kočky“ {Katzen} neboli kavalíry {Cavalieurs}, naplní se a postaví se na ně děla.
+- typ: nadpis
+  uroven: 2
+  de: Wo etliche in der Nacht außrissen.
+  cs: Kdyby někteří v noci zběhli.
+- typ: odstavec
+  de: |-
+    So solle man die Wachten/ Lermenplätz vnd das Wort verenderen/ vnd die Beywacht/ des Nachts vber/ anstellen.
+  cs: |-
+    Pak se mají změnit stráže, poplachová místa {Lermenplätz} i heslo {Wort} a přes noc se má nařídit zvláštní noční stráž {Beywacht}.[^1]
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wann der Feind ein Statt oder Vestung auffforderen laßt/ wie man sich verhalten solle.
+  cs: Jak si počínat, vyzve-li nepřítel město nebo pevnost ke vzdání.
+- typ: odstavec
+  de: |-
+    So bald ein Trompeter ein Statt oder Vestung in Nammen des Generalissimi auffforderen thete/ so laßt man den Trompeter aussert der Statt/ oder auff form/ wie du vornen gelehrt bist/ hereyn kommen. Darnach wird sein begeren mundtlich angehört/ vnd das Schreiben des Generals abgelesen: alßdann so wird Kriegs-Raht gehalten/ Er interim in das Würtshauß geführt/ jhme gesellschafft geleistet/ vnd die besten vnd verständigsten Officierer zugeben/ die jhme mit zutrincken starck zusprechen/ ob sie etwas von jhme hinder dem Trunck vernemmen mögen. Darnach wird jhme die endtliche resolution verschlossen an seinen General gegeben: welches Schreibens eyngang vngefahrlich also seyn kan. Hoch- vnd Wolgeborner/ etc. Nach dem Ewer Gnaden vns durch einen Trompeter/ oder dergleichen mit ernstlicher wahrnung zur vbergebung vermögen wöllen/ daß wir vns in angesicht diß Brieffs Ewer Gnaden ergeben solten: sonsten wöllen Ewer Gnaden alß gegen seinen Feinden mit der thaat handlen lassen/ laut des Schreibens außweisung/ etc. So haben wir vns darauff berahtschlaget/ vnd gäntzlich resolviert/ dise Vestung/ alß redlichen/ biderben vnd/ etc. Soldaten/ alldteweil Gott mit vns/ vnd wir Kraut/ Loth/ Munition/ Proviant/ ein spitz am Dägen/ gut Hertz/ vnd Nerfen/ Adern vnd Blutstropffen in vnserem Leib haben/ vns best vermögens/ zu defendieren/ vnd den Eyd vnd Pflicht/ so wir vnserem General
+  cs: |-
+    Jakmile trubač jménem generalissima vyzve město nebo pevnost ke vzdání, nechá se trubač [stát] před městem, nebo se vpustí dovnitř způsobem, jak jsi byl poučen výše. Potom se ústně vyslechne jeho žádost a přečte se generálův list. Pak se koná válečná rada {Kriegs-Raht}; posla mezitím odvedou do hostince, dělají mu společnost a přidělí se mu nejlepší a nejchytřejší důstojníci, kteří mu horlivě připíjejí, zda by od něho při pití něco nevyzvěděli. Potom se mu dá konečná odpověď, zapečetěná, pro jeho generála. Začátek takového listu může znít přibližně takto: „Vysoce urozený a blahorodý [pane] atd. Ježto nás Vaše Milost skrze trubače či jinak s vážnou výstrahou vyzývá ke vzdání, abychom se Vaší Milosti vzdali, jakmile tento list uvidíme, jinak že Vaše Milost dá proti nám jako proti svým nepřátelům jednat činy, jak praví znění listu atd., poradili jsme se o tom a pevně se rozhodli, že tuto pevnost jakožto poctiví, bodří a [atd.] vojáci budeme podle svých nejlepších sil hájit, dokud je Bůh s námi a dokud máme prach {Kraut}, olovo, munici, proviant, hrot na kordu, statečné srdce a nervy, žíly a kapky krve v těle, a že přísahu a povinnost, kterou jsme svému generálovi
+poznamky:
+- n: 1
+  text: Beywacht (Beiwacht) – zesílená noční stráž, při níž vojsko bdí ve zbrani; odtud fr. bivouac.

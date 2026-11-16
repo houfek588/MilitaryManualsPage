@@ -62,13 +62,14 @@ def staticka_stranka(sablona, knihy=None):
     if not casti:
         casti.append(f'<p>Chcete-li projekt podpořit, napište mi prosím na <a href="mailto:{esc(P["email"])}?subject=Podpora%20projektu">{esc(P["email"])}</a> – rád pošlu podrobnosti.</p>')
     dar_html = ('<div class="dar"><p>Překlady vznikají ve volném čase a jejich zpracování (výpočetní kapacita pro AI, '
-                'čas na ruční kontrolu, případně tisk) něco stojí. Pokud vám edice pomáhá – při reenactmentu, '
-                'studiu nebo vedení skupiny – budu vděčný za jakýkoli příspěvek. Děkuji!</p>' + ''.join(casti) + '</div>')
+                'čas na ruční kontrolu, případně tisk) něco stojí. Pokud vám edice pomáhá, ať při reenactmentu, '
+                'studiu, výzkumu nebo vedení skupiny, budu vděčný za jakýkoli příspěvek. Děkuji!</p>' + ''.join(casti) + '</div>')
     repo = (f' Případně založte issue na <a href="{esc(P["repozitar"])}/issues" target="_blank" rel="noopener">GitHubu</a>.'
             if P.get('repozitar') else '')
     paticka = (f'<a href="index.html">Knihovna</a> · <a href="o-projektu.html">O projektu</a> · '
                f'{esc(P["autor"])}, <a href="mailto:{esc(P["email"])}">{esc(P["email"])}</a> · '
-               f'pro skupinu <a href="{esc(sk.get("url"))}" target="_blank" rel="noopener">{esc(sk.get("nazev"))}</a>')
+               f'pro skupinu <a href="{esc(sk.get("url"))}" target="_blank" rel="noopener">{esc(sk.get("nazev"))}</a> · '
+               f'<span class="verze">verze {esc(P.get("verze"))}</span>')
     t = (WEB / sablona).read_text(encoding='utf-8')
     for k, v in {'{{WEB}}': esc(P['nazev']), '{{PODTITUL}}': esc(P.get('podtitul')), '{{AUTOR}}': esc(P['autor']),
                  '{{EMAIL}}': esc(P['email']), '{{SKUPINA}}': esc(sk.get('nazev')), '{{SKUPINA_URL}}': esc(sk.get('url')),
@@ -91,9 +92,13 @@ def plain(v):
         return ''
     if isinstance(v, list):
         return ' '.join(plain(x) for x in v)
-    s = re.sub(r'\[\^\d+\]', '', str(v))
+    s = re.sub(r'\[\[[^|\]]+\|([^\]]+)\]\]', r'\1', str(v))   # [[id strany|text]] → text
+    s = re.sub(r'\[\^\d+\]', '', s)
     s = re.sub(r'\{([^}]*)\}\*?', r'[\1]', s)
     return re.sub(r'[*_]', '', s)
+
+
+KONCOVKY = ('n', 'en', 'e', 's', 'es', 'er', 'ern', 'em')   # pádové a množné koncovky němčiny
 
 
 def norm_de(s):
@@ -102,15 +107,13 @@ def norm_de(s):
     return re.sub(r'[^a-z]', '', s)
 
 
-def poradi(kniha_dir, meta):
-    front = meta.get('predsadka', [])
-    ids = [f.stem for f in (kniha_dir / 'strany').glob('*.yaml')]
-
-    def key(i):
-        if i in front:
-            return (0, front.index(i))
-        return (1, int(i[:3]) * 2 + (i[3] == 'v'))
-    return sorted(ids, key=key)
+def poradi(kniha_dir, meta=None):
+    """Pořadí stran edice = pořadí skenů (pole `sken`); funguje pro foliaci i stránkování."""
+    klice = []
+    for f in (kniha_dir / 'strany').glob('*.yaml'):
+        m = re.search(r'^sken:\s*(\d+)', f.read_text(encoding='utf-8'), flags=re.M)
+        klice.append((int(m.group(1)) if m else 10 ** 6, f.stem))
+    return [i for _, i in sorted(klice)]
 
 
 def build_kniha(kniha_dir):
@@ -172,10 +175,19 @@ def build_kniha(kniha_dir):
     for h in glos['hesla']:
         for v in h.get('de', []):
             de_map.setdefault(norm_de(v), h['id'])
+    # německé termíny stojí v textu v různých pádech (Oberst → Obersten, Reutter → Reuttern):
+    # k tvarům z glosáře doplň běžné koncovky; přesný tvar z glosáře má vždy přednost
+    presne = dict(de_map)
+    for k, hid in presne.items():
+        for suf in KONCOVKY:
+            de_map.setdefault(k + suf, hid)
+    # tvary, které se odvodily chybně (Massen = měrky na prach, ne máz) – v glosáři klíč bez_odkazu
+    for v in glos.get('bez_odkazu') or []:
+        de_map.pop(norm_de(v), None)
     hesla = []
     for h in glos['hesla']:
         rx = [re.compile(x, re.I) for x in h.get('hledat', [])]
-        dn = {norm_de(v) for v in h.get('de', [])}
+        dn = {k for k, hid in de_map.items() if hid == h['id']}
         vys = []
         for bi, b in enumerate(blocks):
             cs = plain(b.get('cs'))
@@ -196,6 +208,14 @@ def build_kniha(kniha_dir):
                 vys.append(dict(b=bi, k=('…' if a else '') + cs[a:hit.start()], h=hit.group(0),
                                 z=cs[hit.end():z] + ('…' if z < len(cs) else '')))
         hesla.append(dict(id=h['id'], cs=h['cs'], de=h.get('de', []), kat=h.get('kategorie'), pozn=h.get('pozn', ''), v=vys))
+    # hesla bez výskytu v této knize (sdílený glosář) na web nedávat; odkazy {Termín} na ně by vedly do prázdna
+    pouzite_termy = set()
+    for b in blocks:
+        for m in re.finditer(r'\{([^}]*)\}', json.dumps(b.get('cs'), ensure_ascii=False)):
+            pouzite_termy.add(de_map.get(norm_de(m.group(1).split('/')[0])) or de_map.get(norm_de(m.group(1))))
+    hesla = [h for h in hesla if h['v'] or h['id'] in pouzite_termy]
+    zustava = {h['id'] for h in hesla}
+    de_map = {k: v for k, v in de_map.items() if v in zustava}
 
     # ---- obrázky
     out = DOCS / meta['id']
@@ -217,9 +237,11 @@ def build_kniha(kniha_dir):
     html = html.replace('{{NAZEV}}', meta['nazev']).replace('{{AUTOR}}', meta['autor']).replace('{{ROK}}', str(meta['rok']))
     html = html.replace('{{WEB}}', esc(PROJEKT['nazev'])).replace('{{EMAIL}}', esc(PROJEKT['email']))
     html = html.replace('{{SOCIALNI}}', socialni_html())
+    html = html.replace('{{VERZE_WEBU}}', esc(PROJEKT.get('verze')))
+    html = html.replace('{{SKEN_ZDROJ}}', esc(meta['sken'].get('paticka') or ('Sken: ' + meta['sken'].get('instituce', ''))))
     html = html.replace('{{PREDMET}}', urllib.parse.quote(f"{meta['nazev']} – oprava"))
     (out / 'index.html').write_text(varovani(html, 'nastroje/web/kniha.html (texty knihy v knihy/<kniha>/)'), encoding='utf-8')
-    print(f"{meta['id']}: {len(pages)} stran (ověřeno člověkem {data['overeno']}), {len(blocks)} bloků, {len(sections)} oddílů, {len(hesla)} hesel, data.js {len(js) // 1024} kB, {stats}")
+    print(f"web {PROJEKT.get('verze')} · {meta['id']}: {len(pages)} stran (ověřeno člověkem {data['overeno']}), {len(blocks)} bloků, {len(sections)} oddílů, {len(hesla)} hesel, data.js {len(js) // 1024} kB, {stats}")
     return dict(id=meta['id'], nazev=meta['nazev'], nazev_orig=meta['nazev_orig'], autor=meta['autor'], rok=meta['rok'],
                 popis=meta.get('popis', ''), stav=stats, stran=len(pages), overeno=data['overeno'])
 

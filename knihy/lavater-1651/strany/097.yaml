@@ -1,0 +1,45 @@
+id: 097
+list: '97'
+strana: recto
+sken: 143
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Oberen vns die Hauptleuth abermalen auff dise zum trüllen vnd übung der Wehr vnd Waaffen bequeme zeiten/ gewohnlicher abtheilung nach/ gnädig befelcht/ ein allgemeine Musterung vnd übung Wehr vnd Waaffen mit euch (so anjetzo beschehen) fürzunemmen/ zu was end aber vnd warumb das allwegen auff dise zeit des Jahrs angesehen/ ist meniglich bewußt/ derhalben vnnöhtig solches zu erzellen. Daß jhr aber euch auff den Trommenschlag also gehorsamlich vnd willig eyngestellt/ vnd darneben auch das ewerig gethan/ hat mich solches nicht wenig erfrewt/ vnd thu euch hiemit freundlichen abdancken/ vrbietig/ solche gutwillig vnd gehorsame eynstellung beyneben anderem/ der sachen gebür nach/ hochgedacht vnseren gnädigen Herren/ erster begebenheit anzurühmen/ die solches zu gnädigem gefallen/ vnd allen gnaden gegen euch zu erkennen wüssen werden. Verhoffentlich jhr werden euch ins künfftig weiters alß gehorsame/ finden lassen/ vnd darneben die 6. angesetzten Schießtag erfüllen/ auch das/ so euch jetzt gezeigt/ in fürtere obachtung nemmen/ vnd euch zu fahls zeiten (da vns doch Gott weiters gnädig erhalten wölle) verfaßt vnd bereit erfinden lassen: welches/ so es geschicht/ zu ewer eigenen wolfahrt/ vnd dann zu vnserer gnädigen Herren wolgefallen gereichen wird.
+  cs: |-
+    vrchnost nám hejtmanům opět milostivě, podle obvyklého rozdělení, abychom v tuto dobu, příhodnou k drilu {trüllen} a cvičení se zbraněmi a zbrojí, s vámi uspořádali všeobecnou přehlídku {Musterung} a cvičení se zbraněmi a zbrojí (což se nyní stalo); k jakému účelu a proč se to vždy koná v tuto roční dobu, je každému známo, a proto netřeba to vykládat. Že jste se však na úder bubnu tak poslušně a ochotně dostavili a přitom také učinili, co vám náleželo, mě nemálo potěšilo; tímto se s vámi přátelsky loučím a děkuji vám a jsem ochoten tuto vaši ochotnou a poslušnou účast vedle jiného, jak se sluší, při první příležitosti pochválit našim vysoce řečeným milostivým pánům, kteří ji jistě přijmou s milostivým zalíbením a ve vší milosti vám ji uznají. Doufám, že se i v budoucnu prokážete jako poslušní, že kromě toho splníte 6 stanovených střeleckých dnů, budete dále dbát toho, co vám bylo nyní ukázáno, a v čas nouze (od níž nás Bůh i nadále milostivě chraň) se ukážete vybaveni a připraveni; to, stane-li se tak, bude k vašemu vlastnímu blahu i k zalíbení našich milostivých pánů.
+- typ: nadpis
+  uroven: 2
+  de: Von der Reuterey.
+  cs: O jízdě.
+- typ: nadpis
+  uroven: 3
+  de: Von derselben muntierung.
+  cs: O její výstroji.
+- typ: odstavec
+  de: |-
+    Ein Reuter soll sich des ersten versehen mit einem guten starcken/ beringen/ wendigen/ nicht fewrscheuchen Pferd/ das vber die Gräben zu springen/ durch Wasser zu schwümmen/ Berg auff- vnd abzulauffen/ abgericht seye/ etc. Darnach mit einem guten Sattel/ mit starcken Brust- Bauch- Büchel- vnd anderen Riemen/ Rincken/ Büchlen/ Zaum vnd Halffteren/ guten Stifflen vnd Sporen/ Pandalierrohr/ Pistolen/ Spanner/ Fewrsteinen/ Zünd- vnd anderem Pulfer/ ölfläschlein/ Zünd- vnd Pulferhörnlein/ Kuglen/ Patronvnd Satteltäschen/ Patronen: Jtem/ mit einem Jungen oder Knecht/ einem schneidenden breiten Dägen/ Hůt/ Goller/ Mantel oder Rock/ etc. Deßgleichen allzeit zum vorraht haben etliche Huffeysen/ Huff- vnd ander Nägel/ einen Schmidshammer/ Zangen/ Sichlen/ Sägesen/ Schůhmacher-Ahlen/ Drät vnd Nadlen/ wie auch breit/ schmal vnd lang Riemen/ Rincken/ etc. Jtem/ Artzneyen für das Pferd/ etc.
+  cs: |-
+    Jezdec {Reuter} se má především opatřit dobrým, silným, lehkým {beringen}[^1] a obratným koněm, který se neplaší před ohněm a je vycvičen skákat přes příkopy, plavat vodou a běhat do kopce i z kopce atd. Dále dobrým sedlem se silnými řemeny poprsními, podbřišními, třmenovými {Büchel-} a jinými, s přezkami {Rincken}, třmeny {Büchlen}, uzdou a ohlávkou, dobrými holínkami a ostruhami, karabinou {Pandalierrohr},[^2] pistolemi, klíčem k zámku {Spanner}, křesacími kameny {Fewrsteinen}, zápalným a jiným prachem, lahvičkou oleje, růžkem na zápalný prach a prachovnicí, kulemi, brašnou na patrony a sedlovými brašnami, patronami. Dále pacholetem {Jungen} nebo knechtem {Knecht}, sečným širokým kordem {Dägen}, kloboukem, kabátcem {Goller},[^3] pláštěm nebo kabátem atd. Rovněž má mít vždy v zásobě několik podkov, podkovářské a jiné hřebíky, kovářské kladivo, kleště, srpy, kosy, ševcovská šídla, dratev a jehly, jakož i široké, úzké a dlouhé řemeny, přezky atd. Dále léky pro koně atd.
+- typ: nadpis
+  uroven: 3
+  de: Von abrichtung der Pferden.
+  cs: O výcviku koní.
+- typ: odstavec
+  de: |-
+    Ein Reuter hat mehrer abrichtung weder ein Soldat zu fuß von nöhten: dann er muß neben übung seiner Waaffen sein Pferd/ jetzt rechts/ jetzt lincks: dann fürsich/ dann hindersich zu weichen vnd zu wenden: dann zum reiten: dann zum traben: dann zum caloppieren: dann zum vollen carrieren oder springen: lincks vnd rechts/ vnd in allweg abrichten. Jm still
+  cs: |-
+    Jezdec potřebuje víc výcviku než pěší voják: vedle cvičení se zbraní totiž musí svého koně vycvičit, aby uhýbal a obracel se hned vpravo, hned vlevo, pak vpřed, pak vzad; dále v kroku, v klusu, ve cvalu {caloppieren} i v plném trysku {carrieren} neboli skoku, vlevo i vpravo a ve všech ohledech. Při
+poznamky:
+- n: 1
+  text: |-
+    beringen – švýc. bering, ring „lehký, hbitý“ (srov. ringe Pferd = lehká jízda). Büchel- a Büchlen jsou švýcarské podoby slova Bügel „třmen“: třmenové řemeny a třmeny.
+- n: 2
+  text: |-
+    Pandalierrohr – jezdecká karabina zavěšená hákem na šikmém řemeni (bandalíru) přes rameno (srov. str. [[098|98]] „Haacken vnd Riemen“). Spanner – klíč k natahování kolečkového zámku; Fewrsteine – kyzy (pyrit) do kolečkového zámku.
+- n: 3
+  text: |-
+    Goller (Koller) – kožený, obvykle losí kabátec jezdce, často bez rukávů, nošený místo zbroje nebo pod ní.

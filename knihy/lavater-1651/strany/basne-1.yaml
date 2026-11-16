@@ -1,0 +1,48 @@
+id: basne-1
+list: básně
+strana: recto
+sken: 15
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: 'New-gewundener Lorbeer-Krantz/ Dem Author des Kriegs-Büchleins/ Auff den 22. Tag Brachmonats des M DC XL IV. Jahrs vbersendet.'
+  cs: 'Nově uvitý vavřínový věnec, zaslaný autorovi Válečné knížky 22. dne měsíce června[^1] léta M DC XL IV [1644]'
+- typ: verse
+  de:
+  - 'NVn müssen wir nicht mehr in frömbde Länder reisen/'
+  - 'Daß wir in Krieges-kunst vns lassen vnderweisen:'
+  - 'Wir lehrnen es allhier in disem Büchlein klar/'
+  - 'Von einem der dem Mars gedienet etlich Jahr.'
+  - 'Dann: Was ein Vestung sey/ mit allen jhren Wercken:'
+  - 'Was ein Besatzung sey/ die Vestung zů verstärcken:'
+  - 'Was der gebrauch der Wehr: vnd/ Wie ein Krieges-Held'
+  - 'Sich zů verhalten hab’ im Läger oder Feld:'
+  - 'Der Author vns erzellt/ vnd so für Augen stellet/'
+  - 'Alß hetten Wort vnd Werck zůsammen sich gesellet:'
+  - 'Darumb gebüret jhm/ zů seinem sondern Preiß/'
+  - 'Ein new-gewundner Krantz/ auff alte Römer-weiß.'
+  cs:
+  - 'Už nemusíme víc do cizích zemí jezdit,'
+  - 'abychom válečnému umění se učili:'
+  - 'zde v této knížce jasně se mu učíme'
+  - 'od muže, jenž Martovi sloužil řadu let.'
+  - 'Neboť co je pevnost {Vestung} se všemi svými díly,'
+  - 'co je posádka {Besatzung}, jež pevnost má posílit,'
+  - 'jak se zbraní zachází a jak válečný hrdina'
+  - 'si počínat má v ležení {Läger} i v poli –'
+  - 'to autor vypráví nám a před oči staví tak,'
+  - 'jako by se slovo s činem spolu sešlo.'
+  - 'Proto mu náleží ke zvláštní jeho chvále'
+  - 'nově uvitý věnec po starém římském způsobu.'
+- typ: odstavec
+  de: |-
+    J. W. S.
+  cs: |-
+    J. W. S.[^2]
+poznamky:
+- n: 1
+  text: 'Brachmonat – starý německý název června (měsíc úhoru, kdy se oralo ladem ležící pole). Datum se shoduje s datem věnování prvního vydání (22. června 1644).'
+- n: 2
+  text: 'Iniciály autora básně; osobu se nepodařilo určit (patrně curyšský současník autora).'

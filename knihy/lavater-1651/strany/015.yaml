@@ -1,0 +1,52 @@
+id: '015'
+list: '15'
+strana: recto
+sken: 49
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    eysenen spitzen beschlagen/ einen oder anderthalben daumen oder zoll dick: an beyden enden des baums werden eysene zwingen/ vnd in der mitte vnd zu end desselbigen eysene ring geschlagen: vnd werden dise Sturmhäspel also an eysene kettenen an einanderen geschmidet.
+  cs: |-
+    železnými hroty, jeden až půldruhého palce {daumen oder zoll} silné. Na oba konce kmene se nasadí železné objímky a uprostřed i na koncích se na něj narazí železné kruhy; a tyto útočné kozlice {Sturmhäspel} se pak takto skovou železnými řetězy jedna k druhé.
+- typ: nadpis
+  uroven: 3
+  de: Worzu die Sturmhäspel dienstlich seyen?
+  cs: K čemu jsou útočné kozlice užitečné?
+- typ: odstavec
+  de: |-
+    Sie seind sehr gut vmb den gantzen Wal: Jtem/ für die Porten: Jtem/ für die löcher eines geruinierten orts/ vnd in die gassen einer Vestung zu setzen: jnsonderheit seind sie sehr gut/ die eyngäng vnd päß eines Feldlägers zu beschliessen/ dann man sonsten kein müh hat/ dann daß mans in die lucken setzet. Man setzt sie auch etwan auff kleine leichte räder/ desto füglicher von einem ort zu dem anderen zu bringen: auch henckt man dise Ygel oder Sturmhäspel an den axen mit eysenen näglen an einanderen/ daß man damit ein gantz Kriegsheer in eyl vmbgeben/ vnd dardurch den Feind auffhalten möge.
+  cs: |-
+    Jsou velmi dobré kolem celého valu {Wal}; dále před brány; dále k postavení do mezer poškozeného místa a do ulic pevnosti. Zvláště dobře se jimi uzavírají vchody a průchody polního ležení {Feldlägers}, protože s nimi není jiné práce, než je postavit do mezer. Někdy se také posazují na malá lehká kola, aby se daly snáze převážet z místa na místo. Tito ježci {Ygel} neboli útočné kozlice se též zavěšují za osy železnými hřeby jeden k druhému, takže jimi lze ve spěchu obehnat celé vojsko a tím nepřítele zadržet.
+- typ: nadpis
+  uroven: 3
+  de: Von den Fußänglen.
+  cs: O nášlapných železech {Fußänglen}
+- typ: odstavec
+  de: |-
+    Man machet sie mit vier spitzen/ drey ligen auff dem boden/ vnd stehet allzeit einer in die höhe/ geb wie man sie wirfft. Wo man sie in den trocknen Gräben braucht/ macht man sie etwan 3. daumen lang: Etliche aber so in den Graben geworffen werden/ seind 4. 5. oder 6. zoll lang/ sonst Lämeysen genannt. Die Fußängel oder Lämeysen seind dienstlich in die Werck/ welche allbereit verloren geschätzt/ zu werffen/ vnd werden mit Erden ein wenig zugedeckt/ damit sie der Feind nicht sehe/ vnd dareyn trette. Man wirfft sie auch in die Bresche vnd Gräben. So werden sie auch in jrrdine Krüg/ so darüber gebachen vnd mit reinem kalck außgefüllt seind/ gethan/ vnd wirfft man selbige vnder die Feind/ welchen nicht allein die Fußängel an den füssen/ sonder auch das kalck im gesicht grossen schaden zufügen.
+  cs: |-
+    Dělají se se čtyřmi hroty: tři leží na zemi a jeden vždy trčí vzhůru, ať je hodíš jakkoli. Kde se jich užívá v suchých příkopech, dělají se asi 3 palce dlouhé; některé, které se házejí do příkopu, jsou však 4, 5 nebo 6 palců dlouhé a jinak se jim říká chromící železa {Lämeysen}. Nášlapná neboli chromící železa se hodí k rozházení v dílech, která už jsou pokládána za ztracená, a trochu se přikryjí zemí, aby je nepřítel neviděl a šlápl na ně. Házejí se také do průlomu {Bresche} a do příkopů. Dávají se i do hliněných džbánů, které se nahoře zapečou a naplní čistým vápnem, a ty se házejí mezi nepřátele: nášlapná železa jim velmi poraní nohy a vápno navíc obličej.
+- typ: nadpis
+  uroven: 3
+  de: Von Sturmpfälen/ deren zurüstung vnd nutz.
+  cs: O útočných kůlech {Sturmpfälen}, jejich přípravě a užitku
+- typ: odstavec
+  de: |-
+    Sie seind 3. oder 4. zoll dick: jhr länge ist 6. oder 7. schuh: sie werden halb in die Brustwehr eines halben schuhs weit von einanderen/ rings vmbher gestecket/ die ander helfft aber/ so scharpff zugespitzet ist/ gehet herauß. Etliche aber wöllen daß man auff 10. schuh 15. nach einanderen in einen reyen stecke/ zu dem end/ damit der Feind/ wann er stürmet/ nicht so leichtlich auff die Werck steigen möge: man stecket sie auch nicht allein in die Brustwehr des Wals/ sonder in aller Wercken Brustwehrinen.
+  cs: |-
+    Jsou 3 nebo 4 palce silné a 6 nebo 7 stop {schuh} dlouhé. Zarážejí se dokola do předprsně {Brustwehr} do poloviny své délky, vždy půl stopy od sebe; druhá polovina, ostře zašpičatělá, trčí ven.[^1] Někteří však chtějí, aby se jich na 10 stop zarazilo 15 za sebou v jedné řadě, a to proto, aby nepřítel při útoku nemohl tak snadno vystoupit na díla. Nezarážejí se jen do předprsně valu, ale do předprsní všech děl.
+- typ: nadpis
+  uroven: 3
+  de: Von Schantzkörben/ deren vnd erscheid/ zurüstung vnd nutz.
+  cs: O šancovních koších {Schantzkörben}, jejich rozdílech, přípravě a užitku
+- typ: odstavec
+  de: |-
+    Nimm dicke runde stecken/ vngefahr 12. schuh lang/ vnd 3. daumen dick/ spitze sie vnden/ vnd stecke sie alßdann in den boden circkelweis/ je ein ripp oder stecken einen schuh von dem anderen: alßdann flichte dieselbigen mit langem dünnem reyß oder ästen von bäumen/ biß vngefahr einen schuh
+  cs: |-
+    Vezmi silné kulaté kůly asi 12 stop dlouhé a 3 palce silné, dole je zašpičati a pak je zaraž do kruhu do země, vždy jedno žebro čili kůl stopu od druhého. Potom je vyplétej dlouhým tenkým proutím nebo větvemi stromů až asi stopu
+poznamky:
+- n: 1
+  text: Útočné kůly zaražené šikmo či vodorovně do předprsně odpovídají pozdějším „fraises“ (palisádovému věnci) opevnění 17. století.

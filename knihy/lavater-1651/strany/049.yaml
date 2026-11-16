@@ -1,0 +1,42 @@
+id: 049
+list: '49'
+strana: recto
+sken: 83
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wie vil er bey sich hat/ dem Gubernator schrifftlich zustellen/ vnd niemands frömbder vnangezeigt beherbergen/ sondern solches durch die Wachtzedel der Hauptwacht vnd Gubernatorn anbringen lassen: keiner soll ohne erlaubnuß auß der Besatzung sich begeben/ sondern jederzeit darvor dem Gubernator seines thuns vnd lassens guten bericht geben: auch sich mit Soldaten nicht rauffen/ sondern da er etwas hette/ das Kriegs-Recht darumb anrüffen/ bey hoher straaff. Bey besetzter Wacht soll keiner vmbschweiffen/ sondern in seinem Losament verbleiben/ vnd sich still/ wie die Soldaten halten: deßgleichen selbiger zeit weder Wein noch Bier schencken: Ein jeder soll auch gut achtung auff fewr vnd liecht haben: Wo aber ein verwahrlosung des fewrs halber erscheinte/ soll er oder dieselben an Leib vnd Leben gestrafft werden. Jtem: Es soll sich keiner an verdächtigen orten/ weder aussert- noch jnnert der Guarnison finden lassen noch dahin begeben/ bey hoher straaff. Es soll auch kein Marckitänter/ Gastgeb/ etc. keinen fürkauff/ so wol alß die Soldaten/ gebrauchen/ sondern solches auff freyen platz kommen lassen/ bey hoher straaff. Keiner soll auch etwas vngeschätzt vnd vngetaxiert feyl haben/ bey verlierung seiner Wahr/ vnd soll ein jeder in seinem Losament zu Lermens-zeit bey Leibsstraaff verbleiben. Es soll auch ein jeder sein spraach- vnd andere häuser rein behalten. Jn fewrsnoht sollen die Marckitänter sampt jhrem Gesind helffen löschen vnd Wasser hinzu tragen: wo aber einer im Losament ergriffen wird/ soll gestrafft werden.
+  cs: |-
+    kolik jí při sobě má, písemně ohlásit guvernérovi {Gubernator} a nikoho cizího nesmí neohlášeně ubytovat, nýbrž to má prostřednictvím strážních lístků {Wachtzedel} ohlásit hlavní stráži {Hauptwacht} a guvernérovi. Nikdo se nesmí bez povolení vzdálit z posádky {Besatzung}, nýbrž má guvernérovi vždy předem podat řádnou zprávu o svém počínání. Také se nesmí prát s vojáky; má-li s někým při, má se obrátit na válečný soud {Kriegs-Recht}, a to pod vysokým trestem. Když je stráž rozestavena, nesmí se nikdo potulovat, nýbrž má zůstat ve svém ubytování {Losament} a chovat se tiše jako vojáci; v tu dobu se také nesmí nalévat víno ani pivo. Každý má rovněž dávat dobrý pozor na oheň a světlo; ukáže-li se však, že někdo oheň zanedbal, má být on nebo ti, kdo to zavinili, potrestán na těle i na životě. Dále: Nikdo se pod vysokým trestem nesmí zdržovat na podezřelých místech, ať vně, či uvnitř posádky {Guarnison}, ani tam chodit. Také žádný markytán, hostinský atd. nesmí provozovat předkup {fürkauff}, stejně jako vojáci, nýbrž má nechat zboží dojít na volné tržiště, pod vysokým trestem. Nikdo také nesmí prodávat nic, co nebylo odhadnuto a oceněno, pod ztrátou svého zboží; a v čase poplachu {Lermens-zeit} má každý pod tělesným trestem zůstat ve svém ubytování. Každý má také udržovat v čistotě své záchody a jiné domy. Při požáru mají markytáni se svou čeledí pomáhat hasit a nosit vodu; koho by však přistihli v ubytování, má být potrestán.
+- typ: nadpis
+  uroven: 2
+  de: Von montierung gemeiner Soldaten.
+  cs: O výstroji prostých vojáků.
+- typ: nadpis
+  uroven: 3
+  de: Von der Kleidung.
+  cs: O oděvu.
+- typ: odstavec
+  de: |-
+    Ein jeder Soldat soll sich des ersten mit guten starcken Schuhen vnd Strümpffen (rev.) sonderlich des Winters/ versehen/ damit er vor feuchte/ nässe vnd kälte bewahrt/ vnd vnden auff wol warm seye: Seine Kleider sollen wenig fällt vnd näht haben/ darinn sich das vnzifer nicht setzen: Fürauß soll er zwey gute starcke Hembder haben/ damit er eins vmb das ander wäschen: deßgleichen einen guten Hůt/ so den rägen auffhalten möge: Vnd wo einer ein gantz läderne Kleidung vermöcht/ solches nicht vnderwegen lassen/ dann kein währhafftiger ding für einen Soldaten seyn mag: Wie wol aber einem ein Mantel bekomme/ weißt der am besten/ so solchen im Kriegswesen entbären müssen.
+  cs: |-
+    Každý voják si má především opatřit dobré, pevné boty a punčochy (s odpuštěním),[^1] zvláště na zimu, aby byl chráněn před vlhkem, mokrem a zimou a aby měl od nohou nahoru dobře teplo. Jeho šaty mají mít málo záhybů a švů, aby se v nich neusazovala havěť. Zvláště má mít dvě dobré, pevné košile, aby je mohl střídavě prát; rovněž dobrý klobouk, který udrží déšť. A může-li si kdo dovolit oděv celý z kůže, ať to nezanedbá, neboť pro vojáka nemůže být nic trvanlivějšího. Jak dobře však člověku přijde plášť, ví nejlépe ten, kdo se bez něj na vojně musel obejít.
+- typ: nadpis
+  uroven: 3
+  de: Vom Pandelier.
+  cs: O bandalíru.
+- typ: odstavec
+  de: |-
+    Der Riemen eines Pandeliers soll drey finger breit seyn/ daran sollen hangen 11. Pulfer-ladungen sampt einem zündhörnlein oder Corporal. Die Ladungen seind die allerbesten von holtz mit läder vberzogen/ solche raßlen bey der nacht nicht so sehr alß andere/ dardurch mancher Soldat verrahten/ vnd
+  cs: |-
+    Řemen bandalíru {Pandelier} má být tři prsty široký a mají na něm viset 11 prachových náloží {Pulfer-ladungen} spolu s růžkem na zápalný prach neboli „korporálem“.[^2] Nejlepší jsou nálože ze dřeva potaženého kůží; ty v noci nechrastí tolik jako jiné, čímž už byl nejeden voják prozrazen a
+poznamky:
+- n: 1
+  text: |-
+    V tisku „(rev.)“ – lat. reverenter (salva venia), „s odpuštěním“; dobová zdvořilostní omluva při zmínce o obuvi, oděvu nebo tělesných neduzích (srov. str. [[050|50]]).
+- n: 2
+  text: |-
+    V originále „zündhörnlein oder Corporal“ – zřejmě vojácký název malé prachovnice (růžku) na jemný zápalný prach; s hodností desátníka (Corporal) zde nesouvisí. Význam není jinde doložen.

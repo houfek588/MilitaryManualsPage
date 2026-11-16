@@ -1,0 +1,48 @@
+id: '024'
+list: '24'
+strana: verso
+sken: 58
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    bezahlen mag/ vnd die zeiten besser stehen/ sich nicht beschwären: dann der Feind jhnen dasselbig ohne das nemmen/ vnd für sein eigen Volck vnd desselbigen besserer auffenthaltung brauchen möchte. Der Commissari des Proviants/ vnd Commissari vber das Gelt/ sollen alle Monat jhre Schatzungen fleissig auff der Landschafft/ durch die außgeschickten häuffen zu Roß vnd Fuß/ eynforderen vnd eynbringen: damit die Provianthäuser versehen/ vnd vmb das Gelt allerley Speiß/ Thuch vnd Kleider eyngekaufft/ vnd hierdurch die Soldaten vnklagbar gestellt/ vnd zur meutination oder auffruhr nicht vervrsachet werden.
+  cs: |-
+    možné zaplatit a časy se zlepší; nepřítel by jim to totiž beztak vzal a užil pro vlastní vojsko a jeho lepší zaopatření. Komisař pro proviant {Commissari des Proviants} a komisař pro peníze mají každý měsíc pilně vybírat a svážet z venkova své dávky {Schatzungen} pomocí vyslaných oddílů jízdních a pěších, aby byly proviantní sklady zásobeny a za ty peníze se nakupovaly všeliké potraviny, sukno a šaty, a vojáci tak neměli příčinu ke stížnostem a nebyli puzeni ke vzpouře {meutination} či k povstání.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Was für essens Speiß meisten theils in einer Vestung auffbehalten/ vnd in die Provianthäuser theils gethan/ theils aber sonst auffgeschriben werden sollen.
+  cs: |-
+    Jaké potraviny se mají v pevnosti většinou uchovávat a zčásti ukládat do proviantních skladů, zčásti jen sepsat
+- typ: odstavec
+  de: |-
+    Man solle im vorraht haben/ Korn/ Gersten/ Rocken/ Habern/ Bonen/ Linsen/ Hirß/ Erbsen/ Mäl/ Habermäl/ Brot/ Zweybach/ Wein/ Bier/ Brantenwein/ Hanffsaamen/ Vieh/ Wicke/ Vogelhöw/ dürr Obbs/ Sprewer/ Krüsch oder Kleyen/ Eychlen/ dürr Fisch vnd Fleisch/ Schmaltz/ Saltz/ Butter/ Käß/ Oel/ Schmär. Jtem: Nuß- Baum- Lein- Reb- vnd Lohröl/ Vnschlit/ Hartz/ Kolen/ Schwebel/ Bäch/ Glorien/ Terpentin/ allerley Gewürtz vnd Artzneyen. Jtem: Ochsen/ Kälber/ Kühe/ Schaaff/ Geissen/ Säuw/ Hüner/ Endten/ Tauben/ vnd dergleichen Gevögel. Jtem: Höw/ Embd/ oder Jmmat/ Stroh/ etc. Vnd solle man das Stroh vnd Höw an sicheren orten/ wegen fewrs/ wolverwahren.
+  cs: |-
+    V zásobě se má mít: obilí, ječmen, žito, oves, boby, čočka, proso, hrách, mouka, ovesná mouka, chléb, suchary, víno, pivo, pálenka, konopné semeno, dobytek, vikev, ptačí seno {Vogelhöw},[^1] sušené ovoce, plevy, otruby {Krüsch oder Kleyen}, žaludy, sušené ryby a maso, přepuštěné máslo, sůl, máslo, sýr, olej, sádlo. Dále: ořechový, olivový {Baumöl}, lněný, révový a bobkový {Lohröl} olej, lůj, pryskyřice, uhlí, síra, smola, „glorie“ {Glorien},[^2] terpentýn, všeliké koření a léky. Dále: voli, telata, krávy, ovce, kozy, svině, slepice, kachny, holubi a podobná drůbež. Dále: seno, otava {Embd oder Jmmat}, sláma atd. A slámu a seno je třeba kvůli ohni dobře uložit na bezpečných místech.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wie man sich mit der Proviant/ damit sie nicht verdärbe/ verhalten solle.
+  cs: Jak se má zacházet s proviantem, aby se nezkazil
+- typ: odstavec
+  de: |-
+    Man solle alle halb Jahr die Proviant durchgehen/ vnd erstlich von dem Proviantherren die rechnung nemmen/ alßdann dieselbig Proviant besichtigen/ vnd das jenig/ so man meynte/ sich länger nicht halten möge/ vnder die Soldaten/ vmb einen leidenlichen preiß (doch daß man sich dessen nicht zu schaden komme) verkäufflich hingeben/ vnd an statt derselbigen andere frische Proviant kauffen/ vnd jmmer auff den nohtfahl versehen seyn.
+  cs: |-
+    Každého půl roku se má proviant {Proviant} projít: nejprve si vzít od proviantního pána {Proviantherren} vyúčtování, potom ten proviant prohlédnout a to, o čem se soudí, že se už déle neudrží, prodat vojákům za snesitelnou cenu (ovšem tak, aby z toho nevzešla škoda), místo toho nakoupit jiný, čerstvý proviant a být stále zásoben pro případ nouze.
+- typ: nadpis
+  uroven: 2
+  de: Wie man den vberschlag/ wegen der Proviant/ machen solle.
+  cs: Jak se má dělat rozpočet proviantu
+- typ: odstavec
+  de: |-
+    Den vberschlag soll man machen: Namlich/ wie vil pfundt Brots/ wie vil pfundt Fleisch/ Käß/ Butter/ etc. Jtem/ wie vil Erbsen/ vnd dergleichen Gemüß. Jtem/ wie vil Maaß/ Köpff/ oder Eimer trinckens für Menschen vnd Vieh/ alß Wein/ Bier/ Wasser/ etc. Jtem/ wie vil Haberen/ Embd/ Korn/ Mäl/ Sprewer/ Stroh/ Höw/ vnd ander dergleichen Sachen/ so zur Speiß dienstlich seind/ auff die Besatzung/ Tags/ Wochen/ Monats/ gantzen vnd balben Jahrs darauff gange. Dann wo solches nicht beschehe/ vnd man die Proviant vergeudete/ vnd nicht sparsam daher führe/ hette man im fahl der noht
+  cs: |-
+    Rozpočet {vberschlag} se má udělat takto: totiž kolik liber {pfundt} chleba, kolik liber masa, sýra, másla atd.; dále kolik hrachu a podobných luštěnin {Gemüß}; dále kolik mázů {Maaß}, džbánů {Köpff} či věder {Eimer} pití pro lidi i dobytek, jako vína, piva, vody atd.; dále kolik ovsa, otavy, obilí, mouky, plev, slámy, sena a jiných podobných věcí, které slouží k obživě, padne na posádku {Besatzung} za den, týden, měsíc, celý rok a půl roku. Kdyby se to totiž nestalo a proviant se mrhal a nezacházelo se s ním úsporně, neměl by člověk v případě nouze
+poznamky:
+- n: 1
+  text: Vogelhöw („ptačí seno“) – význam nejistý; snad píce nebo semena pro drůbež.
+- n: 2
+  text: Glorien – význam nejistý (snad druh pryskyřice či kalafuny); ponecháno v původní podobě.

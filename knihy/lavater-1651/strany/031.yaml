@@ -1,0 +1,47 @@
+id: '031'
+list: '31'
+strana: recto
+sken: 65
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    haaren herauß gezogen/ vnd jhme sein Leben genommen wird/ wie es einem ehrlichen Kriegsmann gebürt/ wehren vnd ritterlich halten/ darnach jederzeit hochgedachten vnseren gnädigen Herren vnd loblicher Statt N. gewähr vnd alle gebürende gehorsame zu leisten/ deren schaden zu wahrnen/ derselben frommen vnd nutzen zu für deren/ vnd dero zimlich gebotten vnd verbotten nachzukommen/ vnd darauff sein Hand-trew geben/ sein Seel darfür versetzen/ vnd einen thewren/ schwären vnd leiblichen hohen Eyd/ zu dem allerhöchsten Gott/ alß dem allein Hertzergründiger schweeren/ getrewlich vnd sonder gefehrde/ steiff vnd stät zu halten.
+  cs: |-
+    vlasy nevyvlečou ven a nevezmou mu život, bránit a rytířsky si počínat, jak se na čestného vojáka sluší. Dále má výše řečeným našim milostivým pánům a chvalnému městu N. vždy zachovávat věrnost a prokazovat veškerou náležitou poslušnost, varovat je před škodou, podporovat jejich prospěch a užitek a řídit se jejich náležitými příkazy a zákazy. Na to má dát slib podáním ruky {Hand-trew}, zastavit za to svou duši a odpřisáhnout drahou, těžkou, tělesnou[^1] a vysokou přísahu {Eyd} k nejvyššímu Bohu jakožto jedinému zpytateli srdcí, že to vše bude věrně a bez úskoku pevně a stále zachovávat.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Die erklärung des Eyds/ vnd was grosser straaff dem Meineydigen darauff stande/ auß heiligem göttlichem Wort/ vnd den alten Kirchenlehrern zusammen gezogen.
+  cs: |-
+    Výklad přísahy a jaký veliký trest za ni čeká křivopřísežníka, sestavený ze svatého slova Božího a ze starých církevních učitelů.
+- typ: odstavec
+  de: |-
+    Die straaff eines falschen vngerechten Eyds (nach außweisung der heiligen Lehr) darvor sich ein jeder Christenmensch bewahren vnd hüten soll/ ist der verlurst Leibs vnd der Seelen heyl vnd seligkeit.
+  cs: |-
+    Trestem falešné a nespravedlivé přísahy, před níž se má každý křesťan chránit a střežit, je (podle svědectví svatého učení) ztráta těla i spásy a blaženosti duše.
+- typ: odstavec
+  de: |-
+    Dann erstlich. Ein jeder Christenmensch/ der einen Eyd schweeren muß/ der soll neben seinem Ohr auffheben drey Finger. Bey dem ersten/ das ist der Daum/ ist zu verstehen/ Gott der Vatter: bey dem anderen/ Gott der Sohn: vnd bey dem dritten/ Gott der heilige Geist. Die zween Finger/ so in der rechten hand seind/ neiget er vndersich: der eine bedeutet die köstliche Seel/ alß die verborgen ist vnder der menschheit: der ander/ alß der fünffte kleine Finger/ bedeutet den Leib/ alß wie der Leib klein ist zu schätzen gegen der Seelen vnd gantzer Hand/ so bedeutet es/ daß ein einiger waarer Gott vnd Schöpffer Himmels vnd Erden/ der Menschen vnd aller lebendigen Creaturen seye.
+  cs: |-
+    Předně: každý křesťan, který musí přísahat, má vedle ucha zdvihnout tři prsty. Prvním, totiž palcem, se rozumí Bůh Otec, druhým Bůh Syn a třetím Bůh Duch svatý. Další dva prsty pravé ruky sklání dolů: jeden znamená drahou duši, jež je skryta v lidském těle, druhý, totiž pátý, malíček, znamená tělo, neboť tělo je třeba pokládat za malé ve srovnání s duší a celou rukou; [a to vše] znamená, že je jediný pravý Bůh, Stvořitel nebe i země, lidí a všech živých tvorů.
+- typ: odstavec
+  de: |-
+    Demnach/ der also schweeret/ der redet/ alß ob er spräche: Alß ich heut falsch schweere/ also soll mein Seel/ die da bedeutet wird bey dem vierten Finger/ vnd mein Leib/ der da bedeutet den fünfften Finger/ mit einanderen verdampt werden am Jüngsten Gericht/ so ich Meineydiger Mensch stehen werde vor dem Richterstul des höchsten Richters Jesu Christi alles fleisches/ vnd also abgetheilt vnd abgescheiden werde von der Gemeinschafft der Heiligen/ vnd soll auch beraubt werden der Heiligen anschawung des Angesichts vnsers lieben Herren vnd Heylands Jesu Christi/ jmmer vnd ewiglich.
+  cs: |-
+    Kdo tedy takto přísahá, mluví, jako by říkal: „Jestliže dnes křivě přísahám, nechť je má duše, kterou značí čtvrtý prst, i mé tělo, které značí pátý prst, spolu zatracena v den Posledního soudu, až budu já, křivopřísežník, stát před soudnou stolicí nejvyššího soudce všeho těla, Ježíše Krista, a budu tak oddělen a odloučen od společenství svatých a budu na věky věků zbaven patření na tvář našeho milého Pána a Spasitele Ježíše Krista, jehož se dostává svatým.“
+- typ: odstavec
+  de: |-
+    Welcher Mensch/ so růchloß ist/ vnd jhme selbsten so feind/ daß er einen falschen Eyd schweeret/ der schweeret zu solcher weis: Alß ich heut falsch schweere/ also bitt ich Gott den Vatter/ Gott den Sohn/ vnd Gott den heiligen Geist/ vnd gantze heilige Dreyfaltigkeit/ daß sie mir nimmer zu hülff vnd trost kommen/ vnd sonderlich die zeit/ wann sich Leib vnd Seel bey mir von einanderen scheiden sollen.
+  cs: |-
+    Člověk, který je tak bezbožný a sám sobě takovým nepřítelem, že přísahá křivě, přísahá tímto způsobem: „Jestliže dnes křivě přísahám, prosím Boha Otce, Boha Syna a Boha Ducha svatého i celou svatou Trojici, aby mi nikdy nepřišli na pomoc a útěchu, a zvláště v čas, kdy se ve mně tělo a duše od sebe budou oddělovat.“
+- typ: odstavec
+  de: |-
+    Vnd dann/ der also schweeret/ der redet/ alß wann er spräche: Alß ich heut falsch schweere/ also bitte ich Gott den Vatter/ Gott den Sohn/ vnd Gott
+  cs: |-
+    A dále: kdo takto přísahá, mluví, jako by říkal: „Jestliže dnes křivě přísahám, prosím Boha Otce, Boha Syna a Boha
+poznamky:
+- n: 1
+  text: Leiblicher Eid – přísaha složená osobně, se zdviženými prsty (viz výklad níže), na rozdíl od pouhého slibu.

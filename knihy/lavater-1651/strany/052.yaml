@@ -1,0 +1,57 @@
+id: '052'
+list: '52'
+strana: verso
+sken: 86
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vil Volck darauff zu stellen/ vnd were derselbig am besten in der mitte einer Vestung: die anderen Lermenplätz aber auff den Pasteyen vnd Porten. Da nun einem Gubernator ein Vestung eyngegeben wird/ solle er jeder Compagnie jhren Lermenplatz zeigen/ doch alle Abend widerumb verenderen/ vnd durch den Major neben der Ordre lassen außtheilen/ damit die verrähterey nichts schaden möge.
+  cs: |-
+    mnoho mužstva {Volck}; nejlépe by bylo, kdyby leželo uprostřed pevnosti {Vestung}. Ostatní poplachová shromaždiště {Lermenplätz} však mají být na baštách {Pasteyen} a u bran {Porten}. Když je guvernérovi {Gubernator} svěřena pevnost, má každé kompanii {Compagnie} ukázat její poplachové shromaždiště, avšak každý večer je znovu měnit a dávat je oznamovat skrze majora {Major} spolu s rozkazem {Ordre}, aby zrada nemohla nic uškodit.
+- typ: nadpis
+  uroven: 2
+  de: Von den Corps de garde.
+  cs: O strážnicích {Corps de garde}.
+- typ: nadpis
+  uroven: 3
+  de: Was ein Corps de garde seye.
+  cs: Co je strážnice.
+- typ: odstavec
+  de: |-
+    Ein Corps de garde wird auch genennt ein Wachthauß/ darinnen die Officier vnd gemeine Soldaten versamlet/ wachen/ vnd darauß von jhnen die Ronde vnd Schiltwachten bestellen.
+  cs: |-
+    Strážnice se také nazývá strážní dům {Wachthauß}; shromažďují se v ní důstojníci {Officier} a prostí vojáci, drží v ní stráž a odtud vysílají obchůzky {Ronde} a stálé stráže {Schiltwachten}.
+- typ: nadpis
+  uroven: 3
+  de: Wo die Corps de garde der Hauptwacht gesetzt werde.
+  cs: Kde se zřizuje strážnice hlavní stráže.
+- typ: odstavec
+  de: |-
+    Die Corps de garde oder das Wachthauß der Hauptwacht/ wird meistentheils auff dem Marckt oder in die mitte vnd weitesten platz der Vestung gesetzt vnd gebawen.
+  cs: |-
+    Strážnice neboli strážní dům hlavní stráže {Hauptwacht} se většinou zřizuje a staví na náměstí {Marckt} nebo uprostřed pevnosti na nejprostornějším místě.
+- typ: nadpis
+  uroven: 3
+  de: Wo man die vbrigen Corps de garde oder Wachthäuser bawen solle.
+  cs: Kde se mají stavět ostatní strážnice neboli strážní domy.
+- typ: odstavec
+  de: |-
+    Man setzt auch ein Corps de garde für des Gubernators/ vnd eine für das Rahthauß (wo ferr gemelte beyde Häuser nicht auff dem Marckt stehen/) vnd von der Hauptwacht mit Saintinellen oder Schiltwachten nicht könten versehen werden. Jtem/ Man setzt auch an ein jegliche Porten jnnen für eine: deßgleichen für jegliche Porten aussert der Brucken eine/ vnd dise seind mit Stagketen versehen: widerumb auff ein jegliches Bollwercks-Käl oder Gorge eine.
+  cs: |-
+    Jedna strážnice se zřizuje také před guvernérovým domem a jedna před radnicí (pokud oba zmíněné domy nestojí na náměstí) a pokud by je hlavní stráž nemohla obsadit hlídkami {Saintinellen} neboli stálými strážemi. Dále se zřizuje jedna uvnitř u každé brány; rovněž jedna před každou branou vně za mostem, a ty jsou obehnány kůlovým plotem {Stagketen}; a opět jedna v hrdle {Käl} neboli gorži {Gorge} každé bašty {Bollwercks}.
+- typ: nadpis
+  uroven: 2
+  de: Von der Losung oder Ordre.
+  cs: O hesle {Losung} neboli rozkazu.
+- typ: nadpis
+  uroven: 3
+  de: Wie man das Wort/ Losung vnd Ordre außtheile.
+  cs: Jak se rozdává slovo, heslo a rozkaz.
+- typ: odstavec
+  de: |-
+    Deß ersten empfahet der Major von dem Gubernator oder Commandanten das Wort vnd Ordre/ darauff gehet er im Sommer zu Abends vmb 7. vnd im Winter vmb 6. vhren auff den Marckt/ allwo sich ein Wachtmeister von jeder Compagnie finden lasset. Alßdann trittet der Major in die mitte auff den Marckt/ vnd machen die Wachtmeister einen Zirckel/ der erst alß des Gubernators/ stehet dem Major auff der rechten/ vnd der letste/ alß des minsten Hauptmanns Wachtmeister zur lincken seiten/ vnd stehen alle in der ründe: alßdann gibt der Major dem ersten zu seiner rechten das Wort heimlich flismend in das ohr/ vnd je einer dem anderen/ biß es widerumb an den Majoren kommt/ so jhme der letste/ so an seiner lincken seiten stehet/ widerumb gibet. Also kan der Major mercken/ ob sie alle das Wort recht verstanden vnd gefaßt haben. Darnach zeigt er jhnen an was weiters zu thun
+  cs: |-
+    Nejprve přijme major od guvernéra nebo komandanta {Commandanten} heslo {Wort} a rozkaz; potom jde v létě večer v 7 a v zimě v 6 hodin na náměstí, kde se dostaví po jednom vachmistrovi {Wachtmeister} z každé kompanie. Major se pak postaví doprostřed náměstí a vachmistři utvoří kruh: první, totiž guvernérův, stojí majorovi po pravici a poslední, totiž vachmistr nejmladšího hejtmana {Hauptmanns}, po levici, a všichni stojí dokola. Potom major pošeptá heslo prvnímu po své pravici tajně do ucha a tak vždy jeden druhému, až se vrátí zpět k majorovi, jemuž je předá ten poslední, který stojí po jeho levici. Tak může major poznat, zda všichni heslo správně pochopili a zapamatovali si je. Nato jim oznámí, co dalšího mají vykonat,

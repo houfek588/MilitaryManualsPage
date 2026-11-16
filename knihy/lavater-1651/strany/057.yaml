@@ -1,0 +1,70 @@
+id: '057'
+list: '57'
+strana: recto
+sken: 91
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    auff dem Marckt: die dritt bey des Gubernators Hauß. Jtem/ eine bey der Cantzley/ zu dem Proviant-Zeug-Munition- vnd Rahthauß. Wann es nun wol tag vnd kein dicker nebel ist/ so schlaget der Trommelschlager des ersten die Reveille oder Trauaille/ da dann die doppelten Schiltwachten abgehen: so bald nun derselbig anfanget zu schlagen/ so schlagen auch die vberigen Trommelschläger/ so die Wachten auff dem Wal haben. Jn summa/ es wird auß diser Hauptwacht alles bestellt/ so in Lermen oder sonsten von nöhten.
+  cs: |-
+    na náměstí; třetí u guvernérova domu. Dále jedna u kanceláře {Cantzley}, u proviantního domu, zbrojnice, skladu munice a u radnice. Když je pak už plný den a není hustá mlha, zabubnuje nejprve bubeník [hlavní stráže] budíček {Reveille} neboli „travaille“ {Trauaille},[^1] načež dvojité stálé stráže {Schiltwachten} odcházejí; jakmile on začne bubnovat, bubnují také ostatní bubeníci, kteří mají stráže na valu {Wal}. Zkrátka, z této hlavní stráže {Hauptwacht} se obstarává vše, čeho je třeba při poplachu {Lermen} i jindy.
+- typ: nadpis
+  uroven: 3
+  de: Was die jnneren Wachten seyen.
+  cs: Co jsou vnitřní stráže.
+- typ: odstavec
+  de: |-
+    Es seind alle die Wachten/ so jnnert der Besatzung gehalten werden/ alß da ist die Hauptwacht vnd die Particulierwachten/ so die Hauptwacht besetzet/ wie oben gehört.
+  cs: |-
+    Jsou to všechny stráže, které se drží uvnitř posádky {Besatzung}, totiž hlavní stráž a jednotlivé stráže {Particulierwachten}, které hlavní stráž obsazuje, jak bylo řečeno výše.
+- typ: nadpis
+  uroven: 3
+  de: Was die ausseren Wachten seyen.
+  cs: Co jsou vnější stráže.
+- typ: odstavec
+  de: |-
+    Es seind die jenigen/ so aussert der Besatzung in den ausseren Wercken vnd aussert den Porten/ in den Reducten vnd Corps de garde gehalten werden/ damit der Feind des nachts dieselbigen nicht verderbe oder verbrenne: auch da sie Feind vernehmen/ draussen Lermen machen können: dieselben werden von der Hauptwacht besetzt.
+  cs: |-
+    Jsou to ty, které se drží vně posádky ve vnějších dílech {ausseren Wercken} a za branami {Porten}, v redutách {Reducten} a strážnicích {Corps de garde}, aby je nepřítel v noci nezničil nebo nespálil, a také aby mohly venku vyvolat poplach, zpozorují-li nepřítele. Obsazuje je hlavní stráž.
+- typ: nadpis
+  uroven: 3
+  de: Was die Patrollie seye.
+  cs: Co je patrola.
+- typ: odstavec
+  de: |-
+    Es ist die Rondewacht/ da alle stund in einer Besatzung/ etliche Trouppen zu fuß vnd zu Pferd alle straassen durchgehen/ fleissig auff brand/ lang sitzen vnd sauffen/ jnsonderheit auff der Burgeren zusammen rottierung; da man jhnen nicht wol trawet/ vnd nächtlicher weyl/ vil vnraht darauß erwachsen möchte. achtung gibet vnd verstöret.
+  cs: |-
+    Patrola {Patrollie} je obchůzková stráž {Rondewacht}, při níž v posádce každou hodinu procházejí všemi ulicemi některé oddíly {Trouppen} pěších i jízdních, bedlivě dávají pozor na oheň, na dlouhé vysedávání a pitky, zvláště na srocování měšťanů (neboť se jim příliš nedůvěřuje a v noci by z toho mohlo vzejít mnoho zlého), a takové věci rozhánějí.
+- typ: nadpis
+  uroven: 3
+  de: Was die Tagwachten seyen.
+  cs: Co jsou denní stráže.
+- typ: odstavec
+  de: |-
+    Es seind die jenigen/ so des Nachts gehalten/ vnd auch des Tags verbleiben sollen: Jtem/ die des Nachts nicht gehalten/ vnd aber des Tags angestellt werden.
+  cs: |-
+    Jsou to ty, které se drží v noci a mají zůstat i ve dne; dále ty, které se v noci nedrží, ale ve dne se stavějí.
+- typ: nadpis
+  uroven: 3
+  de: Was die Extraordinariwachten seyen.
+  cs: Co jsou mimořádné stráže.
+- typ: odstavec
+  de: |-
+    Es seind die Beywachten/ so neben den Wachten gehalten werden: Namlich/ wo alles Volck (da Feind vermercket wird) die gantze Nacht mit dem Gewehr auff den Wal liget/ vnd des Feinds erwartet: wann es aber wol tag ist/ gehet solches widerumb heim/ vnd verbleibt allein die Wacht.
+  cs: |-
+    Jsou to přídatné stráže {Beywachten}, které se drží vedle [řádných] stráží: totiž když celé mužstvo (je-li zpozorován nepřítel) leží celou noc se zbraní na valu a očekává nepřítele; když je však plný den, jde zase domů a zůstává jen [řádná] stráž.
+- typ: nadpis
+  uroven: 3
+  de: Was die Nachtwachten seyen.
+  cs: Co jsou noční stráže.
+- typ: odstavec
+  de: |-
+    Es seind die Wachten/ so des Nachts bey den Tagwachten gehalten werden: alß da seind die doppelten Schiltwachten. Dise vorerzellte Wachten (außgenommen die Beywacht) werden alle zugleich genennt/ Ordinari- Wachten.
+  cs: |-
+    Jsou to stráže, které se v noci drží navíc k denním strážím, jako jsou dvojité stálé stráže. Všechny tyto vyjmenované stráže (kromě přídatné stráže) se souhrnně nazývají řádné stráže {Ordinari- Wachten}.
+poznamky:
+- n: 1
+  text: Reveille (fr. „budíček“) a Trauaille (patrně fr. travail, „práce“) – ranní bubnový signál, kterým končí noční stráž a začíná denní služba; Lavater oba výrazy klade jako synonyma.

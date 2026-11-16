@@ -1,0 +1,44 @@
+id: '035'
+list: '35'
+strana: recto
+sken: 69
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Gubernator offenbaren. Was weiters sein Ampt vnd Beruff außweiset/ wird der liebe Leser vornen allbereit vernommen/ vnd nachgehends an seinem behörlichen ort weiters vernemmen.
+  cs: |-
+    guvernéra {Gubernator} vyjevovat. Co dalšího obnáší jeho úřad a povolání, o tom už milý čtenář slyšel výše a dále se o tom dozví na příslušném místě.
+- typ: nadpis
+  uroven: 2
+  de: Von des Proviantherren/ Zeugherren vnd Räthen Eyd vnd Ordinantz.
+  cs: O přísaze a řádu proviantmistra, zbrojního pána a radů.
+- typ: odstavec
+  de: |-
+    Jhr Eyd ist/ daß sie dem Herren getrewlich dienen/ seinen schaden wahrnen/ nutzen schaffen vnd fürderen/ dem obersten Gubernator in allen billichen dingen gefällig vnd gehorsam seyn/ so sie im rahten/ vnd sonsten jhrem höchsten vermögen vnd verstand nach des Herren nutz vnd wolfahrt bedencken/ das best sie mögen vnd verstehen/ rahten vnd vollnbringen helffen wöllen/ getrewlich vnd vngefahrlich. Weiters wird zu des Proviantherren Eyd zugethan/ daß er die Proviant/ so er wegen der Vestung bey handen habe/ mit allen trewen verwahren/ den vorraht desselbigen/ oder mangel niemand alß dem Obersten vnd Kriegs-Raht eröffnen/ vnd alles nach des Kriegsherren ehren/ nutz vnd wolfahrt/ innhalt seiner bestallung/ gebrauchen/ auch seiner handlung/ eynnemmens vnd außgebens/ auff des Herren begeren vnd gefallen/ gute/ ehrbare/ ordenliche vnd vnderschiedenliche rechnung geben vnd thun wölle/ wie sich gebürt.
+  cs: |-
+    Jejich přísaha zní, že budou pánu věrně sloužit, varovat ho před škodou, zjednávat a podporovat jeho užitek, budou nejvyššímu guvernérovi ve všech náležitých věcech po vůli a poslušni a že při radě i jinak budou podle svých nejlepších sil a rozumu pamatovat na pánův užitek a blaho a radit a pomáhat vykonat to nejlepší, co dokážou a čemu rozumějí – věrně a bez úskoku. K přísaze proviantmistra {Proviantherren} se dále přidává, že proviant, který má kvůli pevnosti v rukou, bude se vší věrností opatrovat, jeho zásobu či nedostatek nevyjeví nikomu kromě plukovníka {Obersten} [tj. guvernéra] a válečné rady {Kriegs-Raht}, vše bude užívat ke cti, užitku a blahu válečného pána {Kriegsherren} podle obsahu svého služebního listu {bestallung} a že ze svého hospodaření, příjmů i výdajů bude na pánovo přání a vůli skládat dobré, poctivé, řádné a podrobné účty, jak se sluší.
+- typ: nadpis
+  uroven: 2
+  de: Vom Blut- oder Oberstenrichter/ seinem Ampt/ Eyd vnd Beruff.
+  cs: O hrdelním neboli nejvyšším soudci, jeho úřadu, přísaze a povolání.
+- typ: odstavec
+  de: |-
+    Ein Blutrichter wird sonst auch genannt der Schultheiß: sein Ampt ist/ daß er mit zu Gericht sitze/ in allen Sachen/ darumber von den spännigen vnd klagenden Personen oder Partheyen angeruffen wird/ es sey vmb schulden/ schmaach/ vnrecht/ gewalt/ burgerliche oder peinliche Sachen/ in allweg gut Gericht vnd Recht halten/ damit ein jeder seiner nohtdurfft nach/ sein Gericht vnd Recht zu suchen vnd zu finden wüsse. Er solle ein ehrlicher/ frommer Mann seyn/ der sich auff burgerliche vnd ehrbare Policey verstehe/ damit er jederzeit dem Rechten vnd der Billichkeit gemäß/ gut Recht sprechen/ vnd sich in allweg zu verhalten wüsse.
+  cs: |-
+    Hrdelní soudce {Blutrichter} se jinak nazývá také rychtář {Schultheiß}. Jeho úřadem je zasedat u soudu {Gericht} ve všech věcech, v nichž se k němu obracejí znesvářené a žalující osoby či strany, ať jde o dluhy, urážky, bezpráví, násilí, občanské či hrdelní {peinliche} věci, a ve všem držet dobrý soud a právo, aby každý věděl, kde podle své potřeby hledat a nalézt soud a právo. Má to být čestný a řádný muž, který se vyzná v občanském a počestném řádu {Policey}, aby vždy uměl vynést dobrý rozsudek podle práva a spravedlnosti a ve všem se náležitě chovat.
+- typ: nadpis
+  uroven: 3
+  de: Von seinem Eyd.
+  cs: O jeho přísaze.
+- typ: odstavec
+  de: |-
+    Es soll ein Schultheiß schweeren/ dem Herren trew vnd bold zu seyn/ vnd darneben das Gericht getrewlich/ ohne argwohn vnd der Partheyen vnbilliche gefehrde besitzen/ Recht halten vnd Vrtheil sprechen lassen/ solle kein Parthey vor der anderen/ oder der anderen zu nachtheil fürderen oder hinderen: sondern ein vnpartheyischer Schultheiß seyn/ kein ansehen der Person haben/ dem freyen starcken Rechten nach/ einem jeden ders begert/ vnverzogenlich/ niemand zu lieb noch zu leid/ alle gefahrlichkeit hindan setzen/ Recht ergehen vnd Vrtheil geben vnd sprechen/ vnd dieselbe vollnziehen lassen/ getrewlich/ ohne arge list vnd gefehrd.
+  cs: |-
+    Rychtář má přísahat, že bude pánu věrný a oddaný a že bude soudu věrně předsedat bez podezíravosti a bez nespravedlivých úskoků vůči stranám, držet právo a dávat vynášet rozsudky[^1]; nemá žádnou stranu upřednostňovat před druhou ani jí ke škodě druhé překážet, nýbrž má být nestranným rychtářem, nemá hledět na osobu a podle svobodného a pevného práva má každému, kdo o to žádá, bez průtahů, nikomu k lásce ani k žalu a odloživ všechnu zaujatost, dát průchod právu, vydat a vyhlásit rozsudek a dát jej vykonat – věrně, bez zlé lsti a úskoku.
+poznamky:
+- n: 1
+  text: |-
+    Rychtář soudu předsedá a řídí jej, rozsudek však podle starého německého a švýcarského řádu nalézají přísedící (srov. heslo přísedící v glosáři); proto „dávat vynášet rozsudky“.

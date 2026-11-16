@@ -1,0 +1,70 @@
+id: '018'
+list: '18'
+strana: verso
+sken: 52
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    erlöcheret vnd versprengt wird/ vnd wird ein solches in den Wal oder Bollwerck gemachet/ durch welches man in ein Vestung kommen/ anlauffen vnd stürmen mag. Heißt auff Teutsch: Durchbruch des Wals.
+  cs: |-
+    proděravěno a rozmetáno; takový [průlom] se dělá do valu {Wal} nebo bašty {Bollwerck} a jím lze do pevnosti vniknout, hnát se na ni a ztéci ji. Německy se mu říká „Durchbruch des Wals“, tj. průlom valu.
+- typ: nadpis
+  uroven: 3
+  de: Was die Retrenchement seye.
+  cs: Co je retranšement {Retrenchement}
+- typ: odstavec
+  de: |-
+    Es seind Abschnitt/ Affterschantzen/ oder newe Brustwehr/ welche man/ so der Feind einen Wal schier innhat/ jnnerlichen dargegen auffwirfft/ den Feind weiters abzuhalten.
+  cs: |-
+    Jsou to vnitřní přepážky {Abschnitt}, zadní šance {Affterschantzen} nebo nové předprsně {Brustwehr}, které se navrší uvnitř proti nepříteli, když už má val skoro v moci, aby se dále zadržel.
+- typ: nadpis
+  uroven: 3
+  de: Was ein Contramine seye.
+  cs: Co je kontramina {Contramine}
+- typ: odstavec
+  de: |-
+    Es seind durchgehölete vnd vndergebawene Weg/ durch welche man des Feinds Minen suchet/ vnd jhme das Pulfer auß der Mine nimmt/ vnd die Minen widerumb verderbet.
+  cs: |-
+    Jsou to vyhloubené a vyztužené podzemní chodby, jimiž se vyhledávají nepřítelovy miny, bere se mu z miny prach {Pulfer} a miny se tak zase zničí.
+- typ: nadpis
+  uroven: 3
+  de: Was ein Mine seye.
+  cs: Co je mina {Mine}
+- typ: odstavec
+  de: |-
+    Es seind heimliche außgehölte Gäng/ vnd viereckige Cammeren/ mit holtzwerck wol vnderbawen/ dareyn man Thonnen mit Pulfer setzet/ des Feinds Werck darmit zu sprengen/ vnd werden solche vnder die Wäl vnd Face der Bollwercken gemachet.
+  cs: |-
+    Jsou to tajně vyhloubené chodby a čtyřhranné komory, dobře vyztužené dřevem, do nichž se kladou sudy s prachem, aby se jimi vyhodila do vzduchu nepřítelova díla; dělají se pod valy a čela {Face} bašt.
+- typ: nadpis
+  uroven: 3
+  de: Was die Travers seyen.
+  cs: Co jsou traverzy {Travers}
+- typ: odstavec
+  de: |-
+    Es seind Brustwehrenen einer geraden linien/ vnd hin vnd her zur bedeckung auffgeworffen: sonst Zwerchwäl genannt.
+  cs: |-
+    Jsou to předprsně v přímé linii, navršené sem a tam ke krytí; jinak se jim říká příčné valy {Zwerchwäl}.
+- typ: nadpis
+  uroven: 3
+  de: Was die Blinden seyen.
+  cs: Co jsou clony {Blinden}
+- typ: odstavec
+  de: |-
+    Es seind von holtz vnd reyßwerck gemachte Wehrenen/ wordurch man bedeckt/ vnd dem Feind das gesicht genommen wird/ vnd werden solche an vnderschiedlichen orten/ wo man deren nohtdürfftig/ gemachet.
+  cs: |-
+    Jsou to zábrany zhotovené ze dřeva a chrastí, za nimiž je člověk krytý a které berou nepříteli výhled; dělají se na různých místech, kde je jich třeba.
+- typ: nadpis
+  uroven: 3
+  de: Von mancherley maaß/ vnd selbiger vergleichung.
+  cs: O rozličných mírách a jejich porovnání
+- typ: odstavec
+  de: |-
+    Ein finger ist das kleineste vnd geringste maaß/ haltet 4. gerstenkörner/ so die nach der breite an einanderen gesetzt werden/ der zwölffte theil eines jeden dings/ alß auß dem gemeinen werckschuh/ der dritthalben zoll ist. Ein handbreit begreifft 4. finger oder 3. vntz oder zoll/ ist ein vierter theil eines werckschuhs. Drey zwerchhand/ oder Spithma/ oder Dodrans ist ein spang/ mag ein schuh breit halten. Ein werckschuh haltet 12. vntzen/ oder daumen/ oder 16. finger. Ein gemeiner schritt eines Fußgängers haltet 2. schuh. Ein dumellen haltet anderthalben werckschuh/ ist die länge eines Arms/ vom Ellenbogen biß zum vorderen glid des mittelfingers: 12. gran ist ein zoll: 12. zoll ein schuh. Ein ruhten/ bey etlichen 10. bey den Holänderen 12. schuh. Mit der ruhten in der länge misset man alle longitudines vnd distantias: mit der gevierten die Superficies, vnd alles was eben ist/ alß da seind Acker vnd Wisen: mit der Cubic-ruhten/ alles was ein länge/ breite vnd tieffe hat/ alß da seind alle Corpora, Wäl vnd Gräben. Die ruhten in der länge werden getheilt
+  cs: |-
+    Prst {finger} je nejmenší a nejnepatrnější míra; má 4 ječná zrna položená vedle sebe na šířku a je dvanáctým dílem každé věci, jako z obecné stavební stopy {werckschuh}, jež je dva a půl palce.[^1] Dlaň {handbreit} zahrnuje 4 prsty neboli 3 unce {vntz} čili palce {zoll} a je čtvrtinou stavební stopy. Tři příčné dlaně {zwerchhand}, neboli spithama či dodrans, činí píď {spang}; ta může mít na šířku [asi] stopu. Stavební stopa má 12 uncí neboli palců {daumen}, nebo 16 prstů. Obyčejný krok pěšího chodce má 2 stopy. Loket {dumellen} má půldruhé stavební stopy; je to délka paže od lokte po přední článek prostředníčku. 12 zrn {gran} je palec, 12 palců stopa {schuh}. Prut {ruhten} má u některých 10, u Holanďanů 12 stop. Délkovým prutem se měří všechny délky {longitudines} a vzdálenosti {distantias}, čtverečním plochy {Superficies} a všechno, co je rovné, jako jsou pole a louky, a krychlovým prutem {Cubic-ruhten} všechno, co má délku, šířku a hloubku, jako jsou všechna tělesa {Corpora}, valy a příkopy. Délkové pruty se dělí
+poznamky:
+- n: 1
+  text: Místo je v tisku nejasné. Podle dalšího textu má stopa 16 prstů a 12 palců, prst je tedy ¾ palce; údaj „dvanáctý díl“ i „dva a půl palce“ s tím nesouhlasí.

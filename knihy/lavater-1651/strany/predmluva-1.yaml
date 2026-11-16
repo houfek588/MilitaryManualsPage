@@ -1,0 +1,21 @@
+id: predmluva-1
+list: věnování (předmluva)
+strana: verso
+sken: 6
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    waare Christenliche Religion verthädiget/ vnd das Vatterland sampt desselbigen Freyheiten; Weib/ Kinderen/ Ehr/ Leben vnd Güteren beschützet vnd erhalten werden. Vnd eben daher lehren ermeldte Politischen ferrners gar weyßlich vnd wesenlich: Dem Friden seye nimmermehr so wol zu vertrawen/ daß man sich bey dessen Währung vnd Niessung/ nicht auch zum Krieg gefaßt halten solle. Angeschen/ da ein Potentat oder freyer Stand/ sich auch bey der Fridens-blůst mit aller zum Krieg nohtwendigen Bereitschafft/ vnd sonderlich mit Kriegs-erfahrnen Leuthen/ staffiert finden laßt; selbiger so leichtlich nicht angetastet werden möge/ alß aber da solche Nohtwendigkeiten vnd Erforderungen verabsaumbt/ vnd auß der Achte gelassen werden.
+  cs: |-
+    pravé křesťanské náboženství hájeno a vlast se svými svobodami, ženami a dětmi, ctí, životy i statky chráněna a zachována. A právě proto zmínění znalci státních věcí dále velmi moudře a podstatně učí, že míru nelze nikdy důvěřovat natolik, aby se člověk po dobu jeho trvání a užívání neměl zároveň držet připraven k válce. Neboť když se mocnář {Potentat} nebo svobodný stav {Stand} i v plném rozkvětu míru dá shledat vybaven veškerou pohotovostí potřebnou k válce, a zvláště lidmi ve válce zkušenými, nemůže být napaden tak snadno, jako tam, kde se takové nezbytnosti a potřeby zanedbávají a pouštějí ze zřetele.
+- typ: odstavec
+  de: |-
+    Wann nun meiner Wenigkeit gar wol bewußt ist/ daß E. G. vmb eben gedachter vrsachen willen; nach vnserer loblichen Nation zu den Waaffen vnd Kriegsthaaten erblicher neigung; der Kriegs-kunst nicht vngeneigt: sondern derselbigen Erfahrne (in deren zahl auch Jch für den geringsten gezellt zu werden begere) jederzeit von E. G. in großgönstiger vnd gnädiger obachtung vnd gewogenheit gehalten worden/ vnd noch werden: Alß hab ich mir/ bey anlaß/ des von E. G. hochruhmlich fürgenommnen/ vnd bereits zu werck gesetzten Fortification- vnd Defensiv-wesens/ vorgesetzet/ ein Compendium bellicum oder Kriegsbüchlein zustellen/ vnd auff das Papyr zu werffen; in
+  cs: |-
+    Protože pak mé nepatrnosti je velmi dobře známo, že Vaše Milosti právě z uvedených příčin – podle dědičného sklonu našeho chvalného národa ke zbraním a válečným činům – nejsou válečnému umění nepříznivě nakloněny, nýbrž že ty, kdo jsou v něm zkušení (mezi něž si i já přeji být počítán jako ten nejmenší), Vaše Milosti vždy chovaly a dosud chovají ve vysoce laskavé a milostivé pozornosti a přízni, předsevzal jsem si u příležitosti opevňovacího a obranného díla {Fortification- vnd Defensiv-wesens},[^1] které Vaše Milosti velmi chvályhodně zahájily a již uvedly ve skutek, sestavit a vrhnout na papír válečné kompendium {Compendium bellicum} neboli Válečnou knížku,
+poznamky:
+- n: 1
+  text: 'Narážka na stavbu nového bastionového opevnění Curychu, zahájenou roku 1642 (podle plánů inženýra Hanse Georga Werdmüllera); dedikace je datována 1644, tedy z doby stavby.'

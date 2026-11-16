@@ -100,6 +100,12 @@ poznamky:              # poznámky překladatele k této straně
   Navrhni raději doplnění glosáře (viz zpráva agenta).
 - Značka `{Termín}*` z pracovního překladu = „sem patří poznámka“: vyřeš ji (poznámka nebo heslo glosáře)
   a hvězdičku odstraň.
+- Odkaz na jinou stranu edice (hlavně na tabuli s mědirytinou): `[[id strany|text odkazu]]`, např.
+  „K tomu viz `[[tab-08|druhou mědirytinu]]` {Kupfferblat}“. Funguje v `cs`, `popis` i v poznámkách; web
+  z něj udělá proklik s náhledem obrázku. Do textu odkazu nepatří `{Termín}` ani `[^n]` (dej je za `]]`).
+  U Lavatera se odkazy na mědirytiny označují skriptem `nastroje/odkazy_rytiny.py` (číslování tabulí viz jeho
+  záhlaví), odkazy na čísla stran („Čti s. 5“, „str. 58–59“) skriptem `nastroje/odkazy_strany.py`;
+  `over_strany.py` hlásí odkaz na neexistující stranu.
 - Nákresy, tabulky a vyobrazení převeď do srozumitelné textové podoby: u `obrazek` napiš `popis`, tabulky
   jako `tabulka`, výpočty šiků jako seznam nebo tabulku.
 

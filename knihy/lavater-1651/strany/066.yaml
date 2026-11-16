@@ -1,0 +1,44 @@
+id: '066'
+list: '66'
+strana: verso
+sken: 100
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Wie lauter Musquetierer zu fuß gegen Reuterey sich defendieren sollen.
+  cs: Jak se mají samotní pěší mušketýři bránit jízdě.
+- typ: odstavec
+  de: |-
+    Wo du ein Retirade/ alß hügel/ hole weg/ zäun/ gräben/ bäum/ wasser vnd morast an der hand hettest/ solt du dich dahin salvieren: wo aber nichts dergleichen vorhanden were/ vnd sie dich in dem weiten Feld erwütschten/ kanst du wider sie ein Creutz- oder runde Ordnung oder Ygel machen: wo du aber zu wenig Volck hast/ kanst du die Musquetierer je einer dem anderen ruck an ruck setzen lassen/ doch daß sich je vier mit einander vnderreden/ welcher geladen/ oder welcher schiessen solle: so du dich aber verschussest/ werest du des tods eygen. Vnd mit diser ordnung vnd auff dise manterkanst du dich der Reuter erwehren.
+  cs: |-
+    Máš-li po ruce nějaké útočiště {Retirade}, jako kopec, úvoz, ploty, příkopy, stromy, vodu či močál, máš se tam uchýlit. Není-li však nic takového nablízku a dostihnou-li tě [jezdci] na širém poli, můžeš proti nim utvořit křížový nebo kruhový šik {Ordnung} anebo ježka {Ygel}. Máš-li však příliš málo lidí, můžeš mušketýry postavit vždy zády k sobě, ale tak, aby se vždy čtyři mezi sebou domlouvali, kdo má nabito a kdo má střílet. Kdyby ses totiž vystřílel, propadl bys smrti. S tímto šikem a tímto způsobem se jezdcům ubráníš.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wann ein Convoy Wägen bey sich hette/ wie sie sich alßdann gegen der Reuterey wehren sollen.
+  cs: Jak se má doprovod, který s sebou veze vozy, bránit jízdě.
+- typ: odstavec
+  de: |-
+    Du solt die Wägen rings vmb dein Volck führen/ vnd dich alßdann/ best vermögens/ mit schiessen defendieren.
+  cs: |-
+    Rozestav vozy do kruhu kolem svých lidí a pak se podle svých nejlepších sil braň střelbou.
+- typ: nadpis
+  uroven: 3
+  de: Wann dich der Feind in einem Dorff vberfiele.
+  cs: Kdyby tě nepřítel přepadl ve vsi.
+- typ: odstavec
+  de: |-
+    Retirier dich auff den Kirchhoff vnd desselben Mauren vnd Thurn: oder hinder die Zäun oder Gräben/ das dann ein guter vortheil ist.
+  cs: |-
+    Ustup na hřbitov, za jeho zdi a do věže, nebo za ploty či příkopy; to je pak dobrá výhoda.
+- typ: nadpis
+  uroven: 3
+  de: Wie du dich in Beuthen verhalten sollest.
+  cs: Jak si máš počínat při kořistění.
+- typ: odstavec
+  de: |-
+    So bald man Beuthen bekommen hat/ so soll man sich nicht saumen/ sonder der Guarnison zu eylen/ damit jhnen der Paß nicht abgeschnitten werde. Es solle auch darzu ein Beuthmeister gemachet werden/ der die anzahl der gefangenen/ Ross/ Vieh/ Kärren/ Wägen vnd anders/ so sie bekommen/ fleissig vnd ordenlich außtheile/ vnd jedem seinem stand gemäß seinen antheil zuordne. Diser soll auch dem Gubernator/ dem Major vnd Capitain rechenschafft geben/ vnd jedem auch seinen theil zustellen. Vnd wann die Beuthgänger gefangene bekommen/ eh sie solche in die Guarnison ziehen/ lassen sie die fürnembsten vnd ansehenlichsten für die Rantzion der anderen/ die sie loß vnd lediglassen/ gut sprechen/ damit sie mit den vbrigen gefangenen desto sicherer fort passieren mögen. Es gibt auch der Führer der Parthey (sonst Gitz genannt) den ledig gelassenen einen Paßzedel/ damit sie von vbrigen Partheyen angetroffen/ nicht auff das newe widerumb gefangen vnd rantzioniert werden. Sie sollen auch die gefangenen/ so bald sie Quartier von jhnen erlanget haben/ nicht weiters berauben noch beleidigen/ vnd ob schon ein gefangener 100. oder mehr gulden bey sich hette/ solche jhme biß an sein Rantzion/ welches ein Monatsold ist/ verbleiben. Wo er aber einen Rock/ Mantel/ oder Cassacken angethan/ vnd mit einem Nestel/ oder nur mit einem eintzigen Knopff vornen beschlossen hette/ so soll solches dem gefangenen bleiben. Wo
+  cs: |-
+    Jakmile se získá kořist, nemá se otálet, ale spěchat do posádky {Guarnison}, aby nebyla odříznuta cesta {Paß}. K tomu se má také ustanovit správce kořisti {Beuthmeister}, který všechny zajatce, koně, dobytek, káry, vozy a co jiného získali, pečlivě a řádně rozdělí a každému přidělí podíl podle jeho postavení. Ten má také skládat účty guvernérovi {Gubernator}, majorovi a hejtmanovi a každému odevzdat jeho díl. Zajmou-li kořistníci {Beuthgänger} nepřátele, nechají ještě předtím, než je odvedou do posádky, ty nejpřednější a nejváženější zaručit se za výkupné {Rantzion} ostatních, které propouštějí na svobodu, aby mohli se zbylými zajatci tím bezpečněji projít dál. Vůdce výpravy {Parthey} (jinak zvaný Gitz) dá propuštěným propustku {Paßzedel}, aby je jiné výpravy, které by je potkaly, znovu nezajaly a nežádaly od nich výkupné. Jakmile zajatcům udělí pardon {Quartier}, nemají je už dále obírat ani jim ubližovat; a i kdyby měl zajatec u sebe 100 nebo více zlatých, mají mu zůstat, až na výkupné, které činí měsíční žold. Má-li na sobě kabátec, plášť nebo kazajku {Cassacken} a má-li ji vpředu zapnutou na tkanici nebo jen na jediný knoflík, má mu to zůstat. Je-li tomu

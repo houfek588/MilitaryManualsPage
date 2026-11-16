@@ -1,0 +1,54 @@
+id: '046'
+list: '46'
+strana: verso
+sken: 80
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    seyn/ welche sich auff Kriegswesen wol verstehen. Jhr Ampt ist/ in der Guarnison die Ronde zu thun/ vnd des tags an den Porten die frömbden Leuth examinieren/ Kärren vnd Wägen zu visitieren. Wo auch etwan ein Corporal kranck/ oder sonst abwesend/ desselben Stell zu vertretten: im Feld aber vor dem Feind die verlohrnen Schiltwacht oder Santinell-perdu/ oder aussersten Schiltwachten zu versehen. Was aber weiter jhr Ampt/ vnd wie sie die Ronde vnd Santinell-perdu versehen sollen/ wirst du nachgehnds gnugsam vernemmen.
+  cs: |-
+    kteří se dobře vyznají ve válečnictví. Jejich úřadem je konat v posádce {Guarnison} obchůzky {Ronde}, ve dne u bran vyslýchat cizí lidi a prohlížet káry a vozy; je-li snad desátník {Corporal} nemocen nebo jinak nepřítomen, zastupovat ho; v poli před nepřítelem pak obsazovat ztracené stráže neboli sentinely perdu {Santinell-perdu}, tj. nejzazší stálé stráže {Schiltwachten}. Co dále náleží k jejich úřadu a jak mají konat obchůzky a ztracené stráže, se dozvíš dostatečně níže.
+- typ: nadpis
+  uroven: 2
+  de: Von den Trommenschlageren.
+  cs: O bubenících.
+- typ: odstavec
+  de: |-
+    Sie sollen sich auff allerley schläg/ alß Lermen/ Marsch/ Versamlung/ Trouppen/ Wacht/ Rebell oder Travaille verstehen/ vnd allerley marsch vnd frömbder Völckeren schlag schlagen können. Sie sollen nicht Narren vnd Possenreisser/ sonder verständige Leuth seyn/ welche/ so man zu dem Feind/ gefangene zu lösen: Jtem/ Befelch vnd Bottschafft beym Feind zu verrichten: Brieff zu vberliferen schicket/ jhren befelch verständig verrichten/ auff alles was sie gefragt werden vernünfftig antworten/ vnd das so den Obersten oder Hauptleuthen/ auch der gantzen Guarnison zu schaden dienen möchte/ verhälen/ vnd die heimlichkeit bey jhren Eyden niemands offenbaren/ sich nüchter halten/ vnd da der Feind sie füllen/ vnd jhnen mit starcken trüncken zusetzen wolte/ verweigern vnd abschlagen: auch so sie von jhme wegen des einen oder anderen halben gefragt wurden/ so zu vnheyl dienen möchte/ sich excusieren/ daß sie der dingen kein wüssen oder kein befelch haben. Was aber weiter jhr Ampt/ wirst du hernach gantz weitläuffig vernemmen.
+  cs: |-
+    Bubeníci {Trommenschlageren} se mají vyznat ve všelijakých vířeních {schläg}, jako jsou poplach {Lermen}, pochod, shromáždění, trupy {Trouppen}, stráž, rebel {Rebell} nebo travaille {Travaille}[^1], a umět bít všelijaké pochody i víření cizích národů. Nemají to být blázni a šprýmaři, nýbrž rozumní lidé, kteří, když jsou posláni k nepříteli vykoupit zajatce, vyřídit u nepřítele vzkaz a poselství nebo doručit dopisy, svůj úkol rozumně vyřídí, na vše, nač se jich ptají, uvážlivě odpovědí a zamlčí, co by mohlo plukovníkovi {Obersten}, hejtmanům nebo celé posádce uškodit, a tajemství pod svou přísahou nikomu nevyzradí. Mají zůstat střízliví, a kdyby je nepřítel chtěl opít a dotírat na ně silnými nápoji, mají to odmítnout; a kdyby se jich vyptával na to či ono, co by mohlo být ke zlému, mají se vymluvit, že o těch věcech nic nevědí nebo k nim nemají rozkaz. Co dále náleží k jejich úřadu, se dozvíš níže zcela obšírně.
+- typ: nadpis
+  uroven: 2
+  de: Vom Pfeiffer.
+  cs: O pištci.
+- typ: odstavec
+  de: |-
+    Des Pfeiffers Ampt ist/ die Wachten neben dem Trommenschlager auff- vnd abzuführen/ sonsten hat er weiters nichts zu thun/ dann allein auff die Compagnie/ wann sie marchieren will/ zu warten/ vnd auffzupfeiffen.
+  cs: |-
+    Úřadem pištce {Pfeiffer} je spolu s bubeníkem vyvádět stráže a odvádět je; jinak nemá nic jiného na práci, než být kompanii {Compagnie} k službám, když se chystá k pochodu, a hrát jí.
+- typ: nadpis
+  uroven: 2
+  de: Von dem gemeinen Soldaten vnd desselben Nammen/ Ampt/ Eyd/ Ordinantz vnd Beruff.
+  cs: O prostém vojákovi, jeho jménu, úřadu, přísaze, řádu a povolání.
+- typ: odstavec
+  de: |-
+    Er hat seinen Nammen empfangen vom Sold/ vnd ist so vil zu sagen/ alß Soldhat/ der des Herren Sold nimmt/ vnd allbereit empfangen hat: dann so bald einer angenommen wird/ ist er dem Herren vnd dessen Commando vmb den Sold/ darumb er bestellt/ vnderworffen: vnd weiln er Sold empfangen hat/ ist er verobligiert/ vnd hat den balg verkaufft: dann vmb das Gelt oder Sold so er hat/ muß er in allen erforderlichen Occasionen (so ferr es nicht wider Gott/ sein gewüssen vnd ehr ist) gehorsam seyn. Was aber sein Eyd vnd Ordinantz sey/ folget hernach.
+  cs: |-
+    Své jméno dostal od žoldu {Sold} a znamená tolik jako „Soldhat“ („má žold“)[^2], tedy ten, kdo bere pánův žold a již jej přijal. Jakmile je totiž někdo přijat, je za žold, na který byl najat, podřízen pánovi a jeho velení; a protože žold přijal, je zavázán a „prodal svou kůži“: za peníze či žold, který má, musí být poslušen při všech příležitostech, které to vyžadují (pokud to není proti Bohu, jeho svědomí a cti). Jaká je jeho přísaha a řád {Ordinantz}, následuje dále.
+- typ: nadpis
+  uroven: 3
+  de: Die Eyds-Articul gemeiner Soldaten.
+  cs: Články přísahy prostých vojáků.
+- typ: odstavec
+  de: |-
+    Sie sollen zu dem allerhöchsten vnd allwüssenden Gott einen hohen
+  cs: |-
+    Mají při nejvyšším a vševědoucím Bohu složit vysokou
+poznamky:
+- n: 1
+  text: Názvy bubenických signálů – Trouppen (fr. troupe) patrně signál k nástupu oddílů, Rebell patrně fr. rappel (svolávání do zbraně), Travaille (fr. travail) snad signál k práci na opevnění.
+- n: 2
+  text: Lidová etymologie – Soldat (voják) z Sold (žold) + hat (má). Česky by tomu odpovídalo „žoldnéř“, ten, kdo bere žold.

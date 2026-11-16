@@ -1,0 +1,34 @@
+id: '019'
+list: '19'
+strana: recto
+sken: 53
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    in 10. oder 12. theil: jeder theil/ wie oben gemeldt/ in 12. schuh/ machet ein ruhten. Die gevierten Ruhten aber werden getheilt in 10. Rienfuß. Ein Rienfuß in 10. gevierte schuh. Ein gevierter schuh in 10. Riendum. Ein Riendum in 10. gevierte zoll. Ein gevierte Ruthen hat 10. Rienfuß/ 100. gevierte schuh. Ein Cubisch ruhten haltet 1000. Cubisch schuh. Zehen Schacht 100. Rienfuß. Ein Rienfuß 10. Cubisch schuh. Ein Cubisch schuh 10. Schiffdaumen. Ein Schiffdaumen ein Riendum 10. Cubischdaumen: also kan mans/ wen es gelustet/ solches weiter in kleinere theil abtheilen.
+  cs: |-
+    na 10 nebo 12 dílů; každý díl [je stopa], a jak výše řečeno, 12 stop {schuh} činí jeden prut {ruhten}. Čtvereční pruty se však dělí na 10 pásových stop {Rienfuß}.[^1] Pásová stopa na 10 čtverečních stop. Čtvereční stopa na 10 pásových palců {Riendum}. Pásový palec na 10 čtverečních palců. Čtvereční prut má 10 pásových stop, 100 čtverečních stop. Krychlový prut má 1000 krychlových stop. Deset šacht {Schacht}: 100 pásových stop. Pásová stopa: 10 krychlových stop. Krychlová stopa: 10 deskových palců {Schiffdaumen}. Deskový palec, pásový palec: 10 krychlových palců.[^2] Tak to lze, je-li libo, dělit dále na menší díly.
+- typ: nadpis
+  uroven: 3
+  de: Von Schritten vnd Meylen.
+  cs: O krocích a mílích
+- typ: odstavec
+  de: |-
+    Ein Stadium haltet 125. doppelter schritt/ thund 525. werckschuh oder dreyhundert/ zwölff vnd ein halber gemeiner schritt/ das ist ein roßlauff. Ein Weltsche meyl haltet 8. stadia oder 2500. gemeiner schritt/ oder 5000. werckschuh. Ein grosse Weltsche meyl/ Leuca genannt/ haltet anderthalb kleine Weltsche meylen 12. stadia/ oder 3750. gemeiner schritt. Ein Teutsche meyl haltet 4. kleiner Weltscher meylen/ 32. stadia: die Spanischen meylen seind den Teutschen gleich. Ein Frantzösische meyl haltet ein halbe Teutsche meyl oder 5000. schritt. Die Vngarischen meylen halten 28. stadia/ 15000. gemeiner schritt.
+  cs: |-
+    Stadium má 125 dvojitých kroků, což činí 525 stavebních stop {werckschuh},[^3] neboli tři sta dvanáct a půl obyčejného kroku; to je koňský běh {roßlauff}. Vlašská míle {Weltsche meyl} má 8 stadií neboli 2500 obyčejných kroků, či 5000 stavebních stop. Velká vlašská míle, zvaná leuca, má půldruhé malé vlašské míle, 12 stadií, neboli 3750 obyčejných kroků. Německá míle {Teutsche meyl} má 4 malé vlašské míle, 32 stadií; španělské míle se rovnají německým. Francouzská míle má půl německé míle neboli 5000 kroků. Uherské míle mají 28 stadií, 15 000 obyčejných kroků.[^4]
+- typ: odstavec
+  de: Ende des ersten Theils Kriegsbüchleins/ von einer Vestung.
+  cs: Konec prvního dílu Válečné knížky, o pevnosti.
+poznamky:
+- n: 1
+  text: 'Lavater zde počítá v desítkové soustavě (prut = 10 stop). „Rienfuß“ (Riemenfuß, „řemen“) je plošný pás 1 prut × 1 stopa = 10 čtverečních stop, „Riendum“ pás 1 stopa × 1 palec = 10 čtverečních palců; u objemů obdobně „Schacht“ (Schachtrute, 1 prut × 1 prut × 1 stopa = 100 krychlových stop). Názvy „pásová stopa“, „pásový palec“ a „deskový palec“ jsou opisné překlady.'
+- n: 2
+  text: Věta je v tisku zkrácená; podle soustavy má deskový palec (1 stopa × 1 stopa × 1 palec) 100 krychlových palců, tj. 10 pásových palců po 10 krychlových palcích.
+- n: 3
+  text: Podle ostatních údajů (312½ obyčejného kroku po 2 stopách; 8 stadií = 5000 stop) má stadium 625 stop; „525“ je patrně tisková chyba.
+- n: 4
+  text: 28 stadií by podle údajů výše činilo 8750 obyčejných kroků; číslo 15 000 s tím nesouhlasí.

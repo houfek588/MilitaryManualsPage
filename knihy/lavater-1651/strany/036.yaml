@@ -1,0 +1,41 @@
+id: '036'
+list: '36'
+strana: verso
+sken: 70
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Von dem obersten Schreibern/ desselben Ampt/ Eyd vnd Beruff.
+  cs: O nejvyšším písaři, jeho úřadu, přísaze a povolání.
+- typ: odstavec
+  de: |-
+    Er soll nicht allein wol mit schreiben vnd lesen gestaffiert/ sondern auch ein treffenlicher Arithmeticus seyn/ sonderlich im concipieren vnd Brieff oder Missiven stellen: deßgleichen wo er hin geschickt oder gesandt wird etwas zu verrichten/ oder mundtlichen etwar vmb zu werben/ auffs füglichst vnd best alß jmmer seyn mag/ wüssen darzuthun vnd zu verrichten: auch alles was im Kriegs-Raht vnd sonsten gehandlet/ bey seinem Eyd verschwigen halten/ vnd sonsten was jhme vertrawet/ vnd zu verwahrung wird eyngehändiget/ dasselbig getrewlich versehen (vermög seiner pflicht:) Er wird auch etwan zu zeiten für ein Raht gebraucht. Er soll einen sonderlichen bericht haben/ einem jeglichen Herren oder Potentaten/ nach gebür eines jeglichen/ titul zu stellen vnd zu schreiben: deßgleichen die Außschreibungen/ alß etwan an mancherley Ständ/ auff- oder abforderung/ allerley verträg/ verricht- vnd vereinigung/ auch in spraachhaltungen oder Tagleistungen/ sich mit behendigkeit/ worten/ wercken/ schreiben vnd anders/ so sich an solchen orten begibt/ bescheidenlich vnd gebürlicher weis zu halten. Jhm gebürt auch weiters was durch den Gubernator/ Kriegs-Raht oder seine Hauptleuth in geheim gehandlet vnd berahtschlaget wird/ daß er dasselbig fleissig verzeichne vnd beschreibe/ es treffe an freund oder feind/ solches soll er auch fleissig bey jhme behalten vnd bewahren. Er soll auch aller Sachen/ alß Außschreiben/ Missiven oder Brieff/ Copeyen behalten/ Protocoll vnd Manual registriert haben/ auch wasserley Brieff dem Gubernator vnd Kriegs-Raht zugesandt werden/ soll er dermassen auch fleissig auff heben: dann im fal/ so es zu verträgen vnd vereinigung kommt: so begeben sich auch vil gespän/ jrrungen vnd zwytracht/ derhalben kan vnd mag das etwan leichtlich durch die auffgehabenen Brieff vnd schrifftlich-bekandtnussen entscheiden werden.
+  cs: |-
+    Nemá být jen dobře vybaven psaním a čtením, nýbrž má být i znamenitým počtářem {Arithmeticus}, zvláště zběhlým v koncipování a sestavování listů čili missiv {Missiven}. Rovněž, kamkoli je poslán či vyslán něco vyřídit nebo o něco ústně jednat, má umět věc přednést a vyřídit co nejvhodněji a nejlépe. Také má pod svou přísahou zachovávat mlčení o všem, co se projednává ve válečné radě {Kriegs-Raht} i jinde, a o to, co je mu svěřeno a dáno do úschovy, se má věrně starat (podle své povinnosti). Občas bývá také užíván jako rada. Má být zvlášť dobře zpraven o tom, jak každému pánu či vladaři {Potentaten} sestavit a napsat titul podle toho, co mu náleží. Rovněž [má umět sestavit] vyhlášky {Außschreibungen}, například k různým stavům, povolávací či odvolávací listy, všelijaké smlouvy, narovnání a úmluvy, a při rozmluvách či sjezdech {Tagleistungen}[^1] se má obratně – slovy, skutky, písemně i jinak, jak se na takových místech naskytne – chovat rozvážně a náležitě. Dále mu náleží, aby vše, co guvernér {Gubernator}, válečná rada nebo jeho hejtmani {Hauptleuth} tajně projednávají a o čem se radí, pečlivě zaznamenal a sepsal, ať se to týká přítele, nebo nepřítele; a to má také pečlivě u sebe uchovávat a střežit. Má si také ponechávat opisy všech písemností, jako jsou vyhlášky, missivy či listy, a mít je zapsané v protokolu {Protocoll} a manuálu {Manual}[^2]; rovněž všelijaké listy, které jsou zaslány guvernérovi a válečné radě, má stejně pečlivě uschovávat. Neboť dojde-li ke smlouvám a úmluvám, vzniká také mnoho sporů, nedorozumění a nesvárů, a ty pak lze snadno rozhodnout podle uschovaných listů a písemných stvrzení.
+- typ: nadpis
+  uroven: 2
+  de: Von den Constablern/ jhrem Ampt/ Eyd vnd Beruff.
+  cs: O konstáblech, jejich úřadu, přísaze a povolání.
+- typ: odstavec
+  de: |-
+    Mancher meynt er sey ein Büchsenmeister oder Constabel/ wann er ein Canon laden vnn abschiessen möge/ so fählt es dannoch weit/ es gehört mehr darzu/ vnd ligt dem Kriegsherren mercklicher kosten daran: Man soll den zeug nicht vmbsonst verschiessen: Ein Büchsenmeister soll haben sein Passeport: Er soll Thor/ Thürn/ Gemäwr/ Wäl/ Pasteyen vnd Schütten mit rechter maaß erkennen vnd zu fellen wüssen. Jtem/ mit bagel/ schröt/ schläg/ gestrew/ vnd dergleichen wüssen vmbzugehen: deßgleichen die Stuck laden vnd entladen/ vnd das Pulfer widerumb zu nutz bringen. Er soll auch mit heb- vnd brechzeug/ böck/ geißfüssen/ schnellwaagen vnd dergleichen vmbgehen können. Jtem/ wüssen das Geschütz vnd Architectur auffzurichten vnd widerumb abzubrechen. Er soll auch wüssen das Geschütz ins Feld oder für ein Besatzung
+  cs: |-
+    Leckdo se domnívá, že je puškařem {Büchsenmeister} či konstáblem {Constabel}[^3], když umí nabít a vypálit kanon {Canon}; ale k tomu má ještě daleko, patří k tomu víc a válečný pán {Kriegsherren} na to vynakládá značné náklady: střelivo se nemá vystřílet nadarmo. Puškař má mít svůj průkaz {Passeport}[^4]. Má umět správnou měrou odhadnout brány, věže, zdivo, valy {Wäl}, bašty {Pasteyen} a násypy {Schütten} a umět je zbořit. Dále má umět zacházet s kartáčem {bagel}[^5], sekancem {schröt}, náložemi {schläg}, rozptylnou střelou {gestrew} a podobně; rovněž děla {Stuck} nabíjet a vybíjet a prach znovu zužitkovat. Má také umět zacházet se zvedacím a páčicím nářadím, kozami, kozími nohami, mincíři {schnellwaagen} a podobně. Dále má umět děla a [potřebné] stavby postavit a zase rozebrat. Má také umět děla do pole nebo pro posádku
+poznamky:
+- n: 1
+  text: |-
+    Tagleistung – švýcarský výraz pro sjezd, jednání vyslanců (srov. Tagsatzung, sněm spříseženců).
+- n: 2
+  text: |-
+    Manual – úřední kniha průběžných zápisů (v Curychu tak nazývány zápisy z jednání rady), vedle protokolu.
+- n: 3
+  text: |-
+    Constabel / Constabler – dělmistr, obsluhovatel děla; v Lavaterově textu se střídá s Büchsenmeister (puškař).
+- n: 4
+  text: |-
+    Passeport – zde osvědčení (výuční list) o složení puškařské zkoušky, které puškař předkládá při přijetí do služby.
+- n: 5
+  text: |-
+    Bagel – v tisku patrně tisková chyba za „Hagel“ (kartáč, drobná střela do děla).

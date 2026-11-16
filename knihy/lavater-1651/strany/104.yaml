@@ -1,0 +1,43 @@
+id: '104'
+list: '104'
+strana: verso
+sken: 150
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd 5. wehren. Were es aber an dem/ daß du dich auff allen enden pręsentieren müßtest/ so kanst du dich vornen mit 1. vnd 7. hinden mit 2. vnd 8. vnd zur rechten seiten mit 3. vnd 4. zur lincken aber mit 5. vnd 6. defendieren vnd wehren/ vnd können alle deine Musquetierer sich treffenlich mit jhrem Gewehr erzeigen. Wo du dich aber verschossen hettest/ vnd dir die Reuter zu sehr auff den Leib tringen wurden/ so solt du mit dem einen aussersten Squadronspieß/ so mit 9. bezeichnet/ zwüschen 3. vnd 4. hinauß fallen/ also auch mit den Spiessen/ 12. zwüschen 5. vnd 6. mit 10. aber zwüschen 1. vnd 7. vnd 11. zwüschen 2. vnd 8. vnd dise Squadronen fein hart an einanderen schliessen/ vnd also ein Creutz/ wie die groß zahl III. andeutet/ machen. Da nun die Reuter vnd Fußvolck ansetzen wurden/ so sollen alßdann die Spieß vber die Musquetierer langen. Es sollen aber die Musquetierer auff den knien ligen/ vnd nicht alle zugleich/ damit sie sich nicht verschiessind/ fewr geben: vnd ist diß ein treffenliche gute ordnung/ damit man sich treffenlich beschützen mag.
+  cs: |-
+    a 5. Kdyby však došlo k tomu, že by ses musel postavit na všech stranách, můžeš se vpředu bránit a hájit s 1 a 7, vzadu s 2 a 8, na pravé straně s 3 a 4, na levé pak s 5 a 6, a všichni tvoji mušketýři {Musquetierer} se mohou svými zbraněmi znamenitě uplatnit. Kdybys však vystřílel [všechen prach a olovo] a jezdci by ti příliš dotírali na tělo, máš s jednou krajní švadronou pík {Squadronspieß}, označenou 9, vyrazit ven mezi 3 a 4, stejně tak s pikami 12 mezi 5 a 6, s 10 pak mezi 1 a 7 a s 11 mezi 2 a 8, tyto švadrony pěkně těsně k sobě semknout a utvořit tak kříž, jak naznačuje velké číslo III. Když pak jezdci a pěchota zaútočí, mají píky sahat přes mušketýry. Mušketýři však mají klečet a nepálit všichni najednou, aby se nevystříleli; a to je znamenitě dobrý šik, jímž se lze výborně ochránit.
+- typ: nadpis
+  uroven: 2
+  de: Die fünffte Schlachtordnung.
+  cs: Pátý bitevní šik
+- typ: odstavec
+  de: |-
+    Besihe das dritte Kupfferblat mit der grossen zahl II. Wann du einen Squadron Musquetierer hast/ so 8. Glider oder 8. hoch ist/ vnd in jedem Glid 4. Mann/ so zertheil sie also: Lasse den gantzen Squadron still halten/ alßdann marschier mit dem dritten vnd vierten Glid auff die recht seiten hinauß/ vnd lasse zwüschen den zweyen vordersten vnd vier hindersten Glideren ein weite/ darnach marschiere mit den zwey allerhindersten neben den zweyen Glideren/ mit 3. bezeichnet/ auff lincker seiten hinauff/ vnd stelle sie/ wie 4. außweiset/ so hast du ein Creutzordnung von Musquetierern.
+  cs: |-
+    Viz [[tab-09|třetí mědirytinu]] {Kupfferblat}, [část] s velkým číslem II. Máš-li švadronu mušketýrů o 8 řadách {Glider} čili 8 [mužích] do hloubky a v každé řadě 4 muže, rozděl je takto: Nech celou švadronu stát, potom vytáhni se třetí a čtvrtou řadou ven na pravou stranu a mezi dvěma předními a čtyřmi zadními řadami nech mezeru; potom vytáhni se dvěma úplně posledními řadami podél oněch dvou řad označených 3 po levé straně dopředu a postav je, jak ukazuje 4. Tak budeš mít křížový šik {Creutzordnung} z mušketýrů.
+- typ: nadpis
+  uroven: 3
+  de: Worzu du dich diser Ordnung zu gebrauchen habist.
+  cs: K čemu máš tento šik použít
+- typ: odstavec
+  de: |-
+    Dise Ordnung ist gut wann du die Reuterey/ so hin vnd her vmb dich schweiffet/ zu besorgen hast: Du kanst dich alßdann hinden/ vornen/ vnd auff all beyd seiten wehren. Man kan ein solche Ordnung vnd auch besser von mehr Musquetierern anrichten/ doch sollen sich bey leib die Musquetierer nicht verschiessen.
+  cs: |-
+    Tento šik je dobrý, musíš-li se obávat jízdy, která kolem tebe sem a tam krouží: můžeš se pak bránit vzadu, vpředu i na obou stranách. Takový šik lze zřídit, a to ještě lépe, i z většího počtu mušketýrů; mušketýři se však nesmějí za nic na světě vystřílet.
+- typ: nadpis
+  uroven: 2
+  de: Die sechßte Bataille oder Schlachtordnung.
+  cs: Šestý šik {Bataille} neboli bitevní sestava
+- typ: odstavec
+  de: |-
+    Besihe das vierte Kupfferblat mit der grossen zahl I. bezeichnet. Wann du einen runden Ygel machen wilt/ so mache deß ersten ein Creutz mit etlichen Hellenparten abgemessen/ vnd zeichne dises Creutz/ alß weit vnd groß du die weite innwendig haben wilt: darnach so marschiere mit deiner Compagnie in der Zugordnung/ lasse die Reyen dopplieren/ vnd ziehe also rings vmbher vmb dises Creutz/ in der ründe Reyenweis/ doch also/ daß allzeit ein Musquetierer gegen zween Spiessen komme/ vnd die Musquetierer/ so bald sie loß geschossen/ sich widerumb durch die Spieß auff jhre vorige Stell begeben/ vnd andere Musquetierer sie ablösen mögind: also daß die Spieß auch nicht zu weit
+  cs: |-
+    Viz [[tab-10|čtvrtou mědirytinu]], označenou velkým číslem I[^1]. Chceš-li utvořit kruhového ježka {Ygel}, vyměř nejprve několika halapartnami {Hellenparten} kříž a vyznač jej tak široký a velký, jak velký chceš mít vnitřní prostor. Potom vytáhni se svou kompanií {Compagnie} v pochodovém šiku {Zugordnung}, nech zdvojit zástupy {Reyen} a táhni tak po zástupech dokola kolem tohoto kříže, avšak tak, aby vždy na jednoho mušketýra připadly dvě píky a aby se mušketýři, jakmile vystřelí, mohli zase skrze píky vrátit na své dřívější místo a jiní mušketýři je vystřídat; a [to] tak, aby ani píky nestály příliš daleko
+poznamky:
+- n: 1
+  text: Čtvrtá mědirytina („blat IV“) – v této edici tabule [[tab-10|tab-10]].

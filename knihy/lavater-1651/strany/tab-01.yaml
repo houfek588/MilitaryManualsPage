@@ -1,0 +1,20 @@
+id: tab-01
+list: tabule 1
+strana: recto
+sken: 20
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: I. kup. blat
+  cs: I. list mědirytin
+- typ: obrazek
+  soubor: tab-01.jpg
+  popis: |-
+    Skládaná dvoustránková mědirytina k Prvnímu dílu (O pevnosti), vpravo dole od středu označená *I. kup. blat* („I. list mědirytin“, v textu „das 1. Kupfferblat“). Obsahuje několik nákresů označených *fig.* (figura) a písmeny.
+    *Fig. A* (vpravo nahoře): půdorys pravidelné pětiboké pevnosti s pěti baštami {Bollwerck}, příkopem, krytou cestou {bedeckter Weg} s tečkovaným svahem do pole a s raveliny v trojúhelníkovém tvaru před kurtinami; uvnitř pravidelná síť ulic se středem *m*. Pod ní měřítko 0–1000 stop (*fus*). Čísla a písmena v nákresu vysvětluje Výklad cizích slov v předsádce: 2 (rytá v dobovém tvaru podobném písmenu *z*) = bašta, 3 = příkop, i = ravelin, p = kurtina, m = střed pevnosti; 6–13, a, o, r značí body a čáry konstrukce – vnější a vnitřní mnohoúhelník, špici bašty, čela, flanky a zadní obranu, malou a velkou obrannou linii, hrdlo, malý a velký poloměr.
+    *Fig. C* (vpravo dole): perspektivní řez (profil) opevněním s měřítkem 0–100 stop, zleva od pole: svah do pole *z*, krytá cesta s předprsní a stupněm (*vv*, *x*), kontreskarpa *v*, příkop, vnitřní svah příkopu *7*, dolní val {Faussebraye} (*l, m, n, p*), berma *r* a hlavní val s vnitřním a vnějším svahem (*a–g, k*), ochozem *h*, střeleckým stupněm *o* a předprsní {Brustwehr} *i*.
+    *Fig. A* (uprostřed nahoře): táž pevnost v ptačí perspektivě, bašty značené *z* (= 2). *Fig. D* (uprostřed dole): galerie {Gallerie} („Schirmdach“) – krytá chodba z trámů a prken v perspektivě, na čele otevřená v průřezu.
+    Levá polovina: velký perspektivní pohled na baštu s kurtinou, příkopem a krytou cestou. V baště je vnitřní retranšement {Retrenchement} (*m*, *C*), přes příkop vede ke stěně bašty galerie (*fig. D*), vlevo dole (*fig. A*, *C*) je pod valem chodba miny (*8*) a v příkopu malé dílo se schodištěm. Nahoře se k pevnosti klikatí aproš (*fig. K*) zakončený čtvercovou redutou (*fig. B*).
+    Na tento list odkazuje Výklad cizích slov (strany vyklad-1 až vyklad-4: „besihe das 1. Kupffer fig. A / fig. C“ u hesel Vestung, Polygon, Wal, Brustwehr, Banck, Courtine, Bollwerck, Streychwehr, Berm, Faussebraye, Graben, Contrescarpe, Bedeckter weg, Ravellein, Gallerie, Retrenchement, Mine, Reduct; obrazec „fig. E“, který výklad uvádí u reduty, na rytině není). Věcně patří ke stranám [[001|1]]–[[007|7]] a [[012|12]] (stavba pevnosti, val, předprseň, příkop, krytá cesta, ravelin) a 17–18 (galerie, retranšement, miny). Podle pokynu knihaři se má vevázat před stranu [[001|1]]; v tomto výtisku stojí s tabulemi 2–6 vpředu za předsádkou.

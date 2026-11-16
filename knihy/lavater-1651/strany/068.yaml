@@ -1,0 +1,46 @@
+id: '068'
+list: '68'
+strana: verso
+sken: 102
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    entweiche. Vnd wann grosse/ schwäre/ lange/ spitzige eysen in der Erden stecken/ vnd in den Gassen eyngeschlagen weren/ da sie passieren müssen/ daß er es vorher angreiff/ vnd auß dem weg raume: auch erforsche ob nicht außgegrabene Weg/ hole Gäng/ Minen/ verdeckte Minckers/ oder Lämeysen/ oder andere schädliche list gelegt seyen. Es ist alles wol zu bedencken.
+  cs: |-
+    neutekl. A kdyby v zemi trčela a v uličkách, kudy musejí projít, byla zatlučena velká, těžká, dlouhá a špičatá železa, ať je on první uchopí a odklidí z cesty. Ať také vyzkoumá, zda tam nejsou podkopané cesty, duté chodby, miny {Minen}, zakryté jámy {Minckers}[^1] nebo nášlapní ježci {Lämeysen} či jiné zákeřné lsti. To vše je třeba dobře uvážit.
+- typ: nadpis
+  uroven: 3
+  de: Wann sich der Feind mit dem Officier der Statt bespraachen will.
+  cs: Chce-li nepřítel jednat s důstojníkem města.
+- typ: odstavec
+  de: |-
+    Wann der Feind einen Trommelschlager oder Trompeter in ein Vestung schicket/ so solle er auff 600. oder mehr schritt vor der Vestung halten/ Trommelschlagen oder blasen/ vnd da es ein Trommelschlager/ ein facenetlein in die hand nemmen vnd vber den kopff schwingen/ vnd das facenetlein vmb den Hůt machen. Deßgleichen ein Trompeter auch zu vnderschiedenlichen malen blasen/ vnd dann die Trompeten sampt dem Fahnen daran vber den kopff offtermals schwingen/ hernach widerumb blasen/ damit sie nicht erschossen werden/ vnd alßdann auff der stell warten biß sie von der Besatzung eyngeholt werden: welchen etliche gecommandierte Soldaten abholen/ vnd jhne auff der stell mit einem Thuch bländen/ vnd also verbländt an den händen biß in des Gubernators Losament führen: alßdann jhme das Thuch widerumb abnemmen. Die jhne aber abholen/ sollen die jüngsten geradesten/ vnd auch die ältisten in jhrer Rüstung vnd Kleidung gantz ritterlich gerüstet seyn/ durch die der Feind etwas verwunderung/ entsetzung vnd ein muster der gantzen Guarnison abnemmen möge. Wann er nun in des Gubernators Hauß gebracht wird/ soll jhme das Thuch von dem Gesicht hinweg gethan/ vnd nach verrichtung seines befelchs in das Wirtshauß begleitet/ mit einem starcken willkomm/ vnd hefftigem zutrincken jhme zugesetzt vnd gesellschafft geleistet werden/ ob man etwan hinder dem Trunck etwas heimlichkeiten des Feinds vernemmen möchte. Wann er nun sein antwort empfangen/ vnd seine sachen verrichtet/ solle man jhne widerumb verbländet durch die Statt/ vnd biß auff sein vorige stell führen vnd beleiten.
+  cs: |-
+    Vyšle-li nepřítel do pevnosti bubeníka nebo trubače, má se ten zastavit 600 nebo více kroků před pevností a bubnovat nebo troubit. Je-li to bubeník, má vzít do ruky šátek {facenetlein}, mávat jím nad hlavou a pak si ho uvázat kolem klobouku. Trubač má rovněž několikrát zatroubit, potom opakovaně mávat nad hlavou trubkou i s praporkem, který na ní visí, a pak znovu zatroubit, aby je nezastřelili; a pak mají čekat na místě, dokud si pro ně nepřijdou z posádky. Pro takového posla dojde několik určených vojáků, na místě mu zaváží oči šátkem a se zavázanýma očima ho vedou za ruce až do ubytování {Losament} guvernéra {Gubernator}; tam mu šátek zase sejmou. Ti, kdo pro něj jdou, mají být nejmladší a nejrostlejší a také nejstarší muži, ve zbroji a oděvu vystrojení zcela rytířsky, aby nad nimi nepřítel žasl, zalekl se a usuzoval z nich na celou posádku {Guarnison}. Když ho přivedou do guvernérova domu, sejme se mu šátek z obličeje; po vyřízení jeho poselství se má doprovodit do hostince, tam ho mají vydatně uvítat, horlivě mu připíjet a dělat mu společnost, zda by se snad při pití nedalo vyzvědět nějaké nepřítelovo tajemství. Když pak dostane odpověď a vyřídí své záležitosti, má se zase se zavázanýma očima vést městem a doprovodit až na místo, odkud přišel.
+- typ: odstavec
+  de: |-
+    Vnd so vil seye von bewachung vnd beschaffenheit einer Vestung/ auch wie man sich im Beuthen/ Anschlägen/ Scharmützieren vnd Recognoscieren verhalten solle/ genugsam.
+  cs: |-
+    A tolik budiž dosti řečeno o střežení a stavu pevnosti a o tom, jak si počínat při kořistění, přepadech, šarvátkách a průzkumu.
+- typ: odstavec
+  de: |-
+    Nun folget wie man sich in einer währenden Belägerung verhalten solle.
+  cs: |-
+    Nyní následuje, jak si počínat za obléhání.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Wann man sich Feinds besorget/ wie man vor einer Statt raumen vnd sich rüsten solle.
+  cs: |-
+    Jak vyklidit předpolí města a připravit se, obává-li se nepřítele.
+- typ: odstavec
+  de: |-
+    So bald man sich einer Belägerung besorget/ soll man erwehlen gute vnd erfahrne Krieger/ auch Zeug- vnd Büchsenmeister vnd Bawleuth: insonderheit gute Jngenieur/ Steinmetzen/ Maurer vnd Zimmerleuth: die sollen auff ein viertheil meil wegs vmbher die gegne besichtigen/ ob solche eben
+  cs: |-
+    Jakmile se obává obléhání, má vybrat dobré a zkušené válečníky, také zbrojmistry {Zeugmeister}, puškaře {Büchsenmeister} a stavitele, zvláště dobré inženýry, kameníky, zedníky a tesaře. Ti mají do vzdálenosti čtvrt míle cesty v okolí prohlédnout krajinu, zda je rovná,
+poznamky:
+- n: 1
+  text: Význam slova „Minckers“ není jistý; z kontextu jde o zakryté nástrahy či vlčí jámy.

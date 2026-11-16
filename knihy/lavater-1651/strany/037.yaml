@@ -1,0 +1,34 @@
+id: '037'
+list: '37'
+strana: recto
+sken: 71
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nach nohtdurfft anzuschicken/ damit man versehen seye/ kein mangel daran erscheine: vnd zu tag vnd nacht durch den Compaß zu richten vnd zu schiessen: weiters des Canons schwäre an Metall/ gefäß/ loth vnd tribs/ schwäche vnd stärcke/ weite vnd ferre/ sampt der fůhr vnd last erkennen/ oder wüssen zu vberschlagen was ein Monat mit allem vnkosten darauff vnd darüber gehen möchte: vnd dann schädliche fewrwerck/ alß springend oder schlagend kuglen/ auß Büchsen/ Bölern/ Schlingken/ oder von der hand zu schiessen vnd werffen/ wider die Feind neben anderen wüssen zu machen vnd zu gebrauchen. Es sollen auch alle stund die Constablers bey jhren Stücken wachen/ denen man bey den Battereyen häußlein auff bawet. Sie sollen sich auch in Lermen/ so sich begebe bey tag oder nacht/ zu jhren Büchsen verfügen/ bey dem Eyd darbey gewärtig seyn/ was mit jhnen da verschaffet wirdt.
+  cs: |-
+    vypravit podle potřeby, aby bylo vše zajištěno a nic nechybělo; a ve dne i v noci je umět podle kompasu {Compaß} zamířit a střílet. Dále má znát váhu kanónu co do kovu, lafety {gefäß}, koule a nálože {loth vnd tribs}[^1], jeho slabost i sílu, jak daleko nese, jakož i jeho převoz a zátěž; a umět odhadnout, kolik na něj i nad to padne za měsíc se všemi náklady. A konečně má mimo jiné umět vyrábět a používat ničivé ohňostroje {fewrwerck}, jako jsou trhavé či úderné koule, které se proti nepříteli střílejí nebo vrhají z děl, moždířů {Bölern}, praků {Schlingken} nebo rukou. Konstáblové {Constablers} mají také v každou hodinu bdít u svých děl; u baterií {Battereyen} se jim k tomu stavějí boudy. Nastane-li poplach {Lermen}, ve dne či v noci, mají se odebrat ke svým dělům a být tam pod přísahou připraveni na to, co jim bude nařízeno.
+- typ: nadpis
+  uroven: 3
+  de: Eyd der Constablern.
+  cs: Přísaha konstáblů.
+- typ: odstavec
+  de: |-
+    Jhr sollen schweeren vnseren gnädigen Herren/ etc. getrew vnd gehorsam zu seyn/ alle zimliche gebott/ befehlung/ ehren vnd frommen fürderen/ auch alles anders zu thun vnd lassen/ das den Herren vnd der gantzen Besatzung zu gutem reichen mag/ alß dann biderben Leuthen gebüret: vnd das jhr samptlich vnd sonderlich schiessen wöllen/ so es vnseren gnädigen Herren zu nutz vnd gutem dienet/ vnd dem Feind zuwider vnd schaden/ nach ewerem besten vermögen vnd höchstem verstand: alles getrewlich vnd ohngefahrlich. Deßgleichen sollen vnd wollen jhr alle/ inmassen vnd krafft des Eyds/ ewerem obersten Zeugherren/ oder seinem nachgesetzten Statthalter/ in abwesen des Zeugherren/ gefellig vnd gehorsam seyn.
+  cs: |-
+    Budete přísahat našim milostivým pánům atd., že jim budete věrní a poslušní, že budete plnit všechny náležité příkazy a rozkazy, hájit jejich čest a prospěch a konat i nechávat vše ostatní, co může být pánům a celé posádce {Besatzung} k dobrému, jak se na poctivé lidi sluší; a že budete společně i každý zvlášť střílet tak, aby to našim milostivým pánům sloužilo k užitku a dobru a nepříteli k odporu a škodě, podle svých nejlepších sil a nejvyššího rozumu; vše věrně a bez falše. Rovněž máte a chcete být všichni, jak vás tato přísaha zavazuje, po vůli a poslušni svému nejvyššímu správci zbrojnice {Zeugherren}, a v jeho nepřítomnosti jeho ustanovenému zástupci {Statthalter}.
+- typ: nadpis
+  uroven: 2
+  de: Von dem Hauptmann/ desselben Nammen/ Qualitet/ Ampt/ Eyd vnd Beruff.
+  cs: O hejtmanovi, jeho jménu, vlastnostech, úřadu, přísaze a povolání.
+- typ: odstavec
+  de: |-
+    Ein jede Compagnie hat einen Hauptmann oder Capitain/ vom Haupt oder Capite also genannt: dann gleich wie das Haupt das fürnembste theil ist an dem menschlichen Leib/ vnd alle glider geschicklich vnd wol guberniert vnd regiert/ also nach dem befelch des Hauptmanns müssen sich alle nachgesetzten Officier vnd Soldaten schicken vnd richten. Er soll ein gottsförchtiger/ redlicher/ dapfferer vnd kriegsversuchter Mann seyn. Sein Ampt ist/ gute fürsorg zu tragen/ wie seine Soldaten im Feld vnd in der Besatzung/ mit guten Losamenten/ mit gutem Gwehr/ Gelt/ Proviant/ vnder vnd vber/ vnklagbar versehen vnd accommodiert seyen: vnd in summa/ alß ein Vatter für seine kind sorgen/ also auch jhme seine Soldaten befohlen vnd in guter ordnung vnd forcht zu haben: die rechtgeschaffnen soll er promovieren/ vnd zwischen denselben vnd den heillosen einen vnderscheid halten: den Fuchsschwäntzeren soll er kein gehör geben/ sondern die frommen belohnen/ die straaffwürdigen aber zu ernsthaffter straaff ziehen. Kein gelt/ müh vnd arbeit soll er an
+  cs: |-
+    Každá kompanie {Compagnie} má hejtmana {Hauptmann} neboli kapitána {Capitain}, nazvaného tak podle hlavy, německy Haupt, latinsky caput: neboť jako je hlava nejpřednější částí lidského těla a všechny údy obratně a dobře spravuje a řídí, tak se musí všichni podřízení důstojníci a vojáci spravovat a řídit podle rozkazu hejtmana. Má to být muž bohabojný, poctivý, statečný a ve válce zkušený. Jeho úřadem je dobře pečovat o to, aby jeho vojáci v poli i v posádce byli dobrým ubytováním {Losamenten}, dobrou zbraní, penězi a proviantem po všech stránkách zaopatřeni a opatřeni tak, aby si neměli nač stěžovat; zkrátka jako otec pečuje o své děti, tak mají být i jemu svěřeni jeho vojáci a má je držet v dobrém pořádku a bázni. Řádné vojáky má povyšovat a dělat rozdíl mezi nimi a ničemy; pochlebníkům nemá popřávat sluchu, nýbrž má řádné odměňovat a ty, kdo zaslouží trest, přísně trestat. Nemá hledět na peníze, námahu ani práci, jde-li o
+poznamky:
+- n: 1
+  text: Loth – váha dělové koule (děla se třídila podle váhy koule v librách); Trieb – prachová nálož, která kouli „žene“.

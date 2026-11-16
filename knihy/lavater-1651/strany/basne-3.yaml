@@ -1,0 +1,102 @@
+id: basne-3
+list: básně
+strana: recto
+sken: 17
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - Besteht von Glidern vil; mit straubwerck eyngeschnitten
+  - Kommt auß des Meyers Eß/ vnd meisterlicher Schmitten.
+  - Dahin auch Werder gehört/ mit seinen Pistol-Rohr’n/
+  - Von Möß/ im Fewr verguldt; dergleichen nicht zůvor’n
+  - 'Die Welt gesehen hat: dahar man sie verwendet'
+  - Jn Fürstliche Pręsent/ vnd Königen zůsendet.
+  - Derley Erfindung ist Holtzhalben neüwe Bruck;
+  - Der’n zwar ein schwärer last/ stäts liget auff dem Ruck/
+  - Ein doppel Ziegel-tach ob jhren außgedehnet/
+  - 'Hat nichts dann beyde port/ auff welche sie sich lehnet:'
+  - Jhr länge sibentzig vnd Elen fünff anlangt/
+  - 'Gleichwol ohn Joch vnd Blech/ in freyem Luffte hangt:'
+  - Nur schad/ daß dort herumb nicht ist ein Landes-Passe/
+  - An dem die Wunder-Bruck/ mit pracht sich sehen lasse.
+  - Was hat Herr Körner doch Zunfftmeister hie gepflantzt
+  - Für eine Wasser-kunst? zum Werck da man vmbschantzt/
+  - 'Des Vatterlandes Hertz; ein sonder-kommlich Stucke:'
+  - Vnd dahin angesehn/ daß es die Feücht’ weg schlucke
+  - Von der Arbeiter’n hand. Was Zierden auch vorab
+  - Des Herr’n Werdmüllers Sinn vom hohen Himmel hab/
+  - Das gibt der Augenschein. Jch mach nicht vil der worten/
+  - Jch gib den Ohren nichts/ mit schmeichlen da vnd dorten;
+  - 'Die Sachen reden selbs: Jhr aller Namm verbleibt/'
+  - Jm Bůch der Ewigkeit/ weil Kunst von Kunste schreibt.
+  - Wol dir/ O theüwres Volck! so du beschauwst beym tage/
+  - Was dein Land/ in dir selbs/ für edle Geister trage;
+  - 'Vnd dich derselben frewst: da du versichert bist'
+  - Der Alten Redlichkeit/ die in den schollen ist
+  - Deins frommen Erdtereichs. Die Zeit wird d’rüber richten/
+  - Daß deiner Kinder’n Witz nicht seye zů vernichten.
+  - Vnd jhr/ Herr Lavater/ thůt auch ein nutzlich Werck/
+  - Wann jhr den Männer’n zeigt/ wie sie jhr Mannlich sterck
+  - 'Jn rechter Waaffens-kunft/ mit form zů brauchen haben:'
+  - Diß ist ein gůtes Bůch; ein Bůch für vnser Knaben/
+  - Die zwaren bey dem Schimpff nicht all gewesen seind/
+  - Vnd haben doch den můht zü trätten für den Feind/
+  cs:
+  - skládá se z mnoha článků, se závity vyřezanými,
+  - a pochází z Meyerovy výhně a mistrovské kovárny.[^1]
+  - Sem patří i Werder se svými pistolovými hlavněmi
+  - z mosazi, v ohni zlacenými; jaké dříve
+  - svět nikdy neviděl, a proto se jich užívá
+  - na knížecí dary a posílají se králům.[^2]
+  - 'Takovým vynálezem je i Holzhalbův nový most:'
+  - na jeho hřbetě sice stále leží těžké břemeno,
+  - dvojitá krytina z tašek nad ním rozložená,
+  - a nemá nic než oba břehy, o něž se opírá;
+  - jeho délka dosahuje sedmdesáti pěti loket,
+  - a přesto bez jařma a pilířů visí ve volném vzduchu.[^3]
+  - Jen škoda, že tam kolem nevede žádná zemská cesta,
+  - kde by se ten zázračný most ukázal v plné nádheře.
+  - Jaký to vodní stroj zde zřídil pan Körner,
+  - cechmistr? Pro dílo, jímž se opevňuje
+  - srdce vlasti, kus obzvlášť užitečný,
+  - a k tomu určený, aby vodu odčerpával
+  - místo rukou dělníků.[^4] Jaké dary zvláště
+  - duch pana Werdmüllera od vysokého nebe má,[^5]
+  - to ukazuje pohled sám. Nedělám mnoho slov,
+  - nehovím uším lichotkami sem a tam;
+  - 'věci mluví samy za sebe: jméno všech z nich zůstane'
+  - v knize věčnosti, neboť umění o umění píše.
+  - Blaze tobě, drahý lide, když za dne spatříš,
+  - jaké ušlechtilé duchy tvá země v tobě samém nosí,
+  - 'a z nich se raduješ: tím máš jistotu'
+  - staré poctivosti, jež vězí v hroudách
+  - tvé zbožné země. Čas o tom rozsoudí,
+  - že důvtip tvých dětí nelze zmařit.
+  - A vy, pane Lavatere, také konáte užitečné dílo,
+  - když mužům ukazujete, jak svou mužnou sílu
+  - 'v pravém umění zbraní mají s řádem užívat:'
+  - to je dobrá kniha, kniha pro naše hochy,
+  - kteří sice ne všichni už zakusili boj,[^6]
+  - a přece mají odvahu postavit se nepříteli,
+poznamky:
+- n: 1
+  text: |-
+    Pokračování popisu železného děla z předchozí strany: hlaveň složená z mnoha článků spojovaných šroubovými závity („straubwerck“ = Schraubwerk), dílo kováře Meyera. Osobu se nepodařilo blíže určit.
+- n: 2
+  text: |-
+    Felix Werder (1591–1673), curyšský puškař a mechanik, proslul pistolemi s mosaznými hlavněmi zlacenými v ohni, které sloužily jako diplomatické dary knížatům a panovníkům (podle básně; identifikace překladatele). „Möß“ = mosaz.
+- n: 3
+  text: |-
+    Most curyšského tesaře/stavitele Holzhalba (osoba blíže neurčena): krytý dřevěný most s dvojitou taškovou střechou, dlouhý 75 loket, nesený jen opěrami na obou březích, bez mostních jařem (pilířů). „Blech“ je sporné – snad ve smyslu kovového kování či výztuhy, nebo tisková chyba; překládáno volně „pilíře“ spolu s „Joch“.
+- n: 4
+  text: |-
+    Vodní stroj (čerpadlo) cechmistra Körnera, užívaný při stavbě nového curyšského opevnění („dílo, jímž se obšancovává srdce vlasti“) k odčerpávání vody ze stavebních jam, aby to nemuseli dělat dělníci ručně. Doslova: „aby vlhkost polykal z rukou dělníků“.
+- n: 5
+  text: |-
+    Patrně Hans Georg Werdmüller (1616–1678), inženýr nového curyšského opevnění, nebo jiný člen rodu Werdmüllerů. Doslova „jaké ozdoby (Zierden) má jeho duch z vysokého nebe“ – nejspíš nebem dané nadání; méně pravděpodobně narážka na astronomické či mechanické přístroje.
+- n: 6
+  text: |-
+    „Schimpff“ – doslova hra, žert, též šermířský či rytířský zápas; zde ironicky o skutečném boji (srov. „bey Schimpff vnd Ernst“ na str. [[114|114]]).

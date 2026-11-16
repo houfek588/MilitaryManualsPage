@@ -1,0 +1,49 @@
+id: '065'
+list: '65'
+strana: recto
+sken: 99
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    eintweders in Weibs oder Bawrenkleidern angethan/ welche etwan dergleichen thun/ alß wann sie spinnen/ holtz machen/ vnd dergleichen: Sie lassen auch deren etlich in solcher kleidung inn vnd vmb das Dorff die Ronde thun/ damit sie versicheret/ vnd nicht verrahten werden: vnd da sie Feind schlagen/ sollen sie fleissig achtung geben/ daß sie etlich gefangen nemmen/ vnd in die Guarnison mit bringen/ damit man sie examinieren vnd den Feind verkundtschafften möge.
+  cs: |-
+    převlečeny buď do ženských, nebo do selských šatů a dělají, jako by předly, sekaly dříví a podobně. Několik takto převlečených také nechávají obcházet {die Ronde thun} vesnici i její okolí, aby byli v bezpečí a nebyli prozrazeni. Porazí-li nepřítele, mají bedlivě dbát, aby několik nepřátel zajali a přivedli do posádky {Guarnison}, aby je tam mohli vyslechnout a vyzvědět, co chystá nepřítel.
+- typ: nadpis
+  uroven: 3
+  de: Wie man sich weiter verhalten solle.
+  cs: Jak si dále počínat.
+- typ: odstavec
+  de: |-
+    Wann du gefangene bekommen/ so schneide jhnen jhre Hafften vom Kleid/ nimm jhnen jhre Nestel darauß/ damit sie die Hosen in den händen tragen müssen: dann da einer die flügel oder arm nicht frey hat/ mag er nicht halb so starck alß zuvorlauffen: alßdann gehört einem jeden/ dem gefangenen die Messer/ Dägen/ Rohr/ vnd was dem Leib zu schaden gereichen möchte/ zu nemmen. Wann du Quartier versprochen/ solt du es halten/ vnd weiters dem gefangenen Feind nichts alß die Rantzion/ gewehr/ vnd alles das so er an seinem Leib von Kleideren vnbeschlossen traget/ nemmen: eines jeden Rantzion ist ein Monatsold. Du solt dich gegen den gefangenen halten/ wie du begerst auch von jhnen gehalten zu werden.
+  cs: |-
+    Když zajmeš nepřátele, odřízni jim z oděvu háčky {Hafften} a vytáhni z něj tkanice {Nestel}, takže si budou muset držet kalhoty v rukou; kdo totiž nemá volná křídla neboli paže, nemůže běžet ani z poloviny tak rychle jako předtím. Potom je povinností každého vzít zajatci nože, kordy, pušky a vše, čím by mohl ublížit na těle. Slíbil-li jsi pardon {Quartier},[^1] máš ho dodržet a nebrat dál zajatému nepříteli nic než výkupné {Rantzion}, zbraň a to, co z oděvu nosí na těle volně a nezapnuté.[^2] Výkupné za každého činí jeden měsíční žold. Chovej se k zajatcům tak, jak si přeješ, aby se oni chovali k tobě.
+- typ: nadpis
+  uroven: 3
+  de: Wie man sich weiter mit Quartier geben verhalten solle.
+  cs: Jak si dále počínat při udílení pardonu.
+- typ: odstavec
+  de: |-
+    Wann aber ein Soldat ein eysen/ zinne/ in speck gegossen/ gekäuwete/ gehauwene oder gevierte Kugel schiesset/ so solt du jhme kein Quartier halten. Alle die gezogene Rohr vnd Frantzösische Füse führen/ haben das Quartier verwürckt. Jtem/ alle die jenigen/ die von eysen geschrote/ viereckige/ vnd andere geschröt/ vnd Stahel schiessen/ oder geflammete Dägen haben/ solt du todt schlagen: auch alle die jenigen/ so du in einem Land das preiß gegeben wird/ von dem Feind antriffst/ solt du hencken lassen: auch alle Spionen haben kein Quartier/ sondern sollen ohn alle gnad gehenckt werden. Alle Nachtigalsvögel/ so die Strassen vnsicher machen vnd berauben/ vnd darneben keinen Herren haben/ solt du hencken lassen. Jtem/ alle die jenigen/ so ohne Paßporten zum Feind vberlauffen/ vnd du sie erwütschest/ solt du todt schlage.
+  cs: |-
+    Střílí-li však voják železnou, cínovou, ve špeku odlitou, rozkousanou, nasekanou nebo čtyřhrannou koulí, nemáš mu dávat pardon. Všichni, kdo nosí drážkované pušky {gezogene Rohr} a francouzské flinty {Frantzösische Füse},[^3] pozbyli práva na pardon. Dále všechny, kdo střílejí sekané železo, čtyřhranné a jiné broky a ocel nebo mají plamenné kordy {geflammete Dägen}, máš ubít. Také všechny nepřátele, které zastihneš v zemi vydané všanc máš dát oběsit. Ani žádní vyzvědači nemají pardon, ale mají být bez milosti oběšeni. Všechny „slavíky“ {Nachtigalsvögel},[^4] kteří činí cesty nebezpečnými a loupí a přitom nemají žádného pána, máš dát oběsit. Dále všechny, kdo bez průvodního listu {Paßporten} přebíhají k nepříteli, máš ubít, jestliže je dopadneš.
+- typ: nadpis
+  uroven: 3
+  de: Wie man sich im scharmutzieren vor dem Feind verhalten solle.
+  cs: Jak si počínat při šarvátce s nepřítelem.
+- typ: odstavec
+  de: |-
+    Es were nicht böß/ wann du vnder deinen Trouppen/ je nach dem du starck/ zween/ drey/ vier/ mehr oder minder Trommelschlager hettest/ selbige an vnderschiedenliche ort/ mit etlichen Musquetierern zu verstecken/ damit wann du im fechten mit dem Feind werest/ sie auff jhren posten Lermen schlagen: vnd da du etliche Reuter gehaben köndtest/ die gleichfals verstecket/ mit einem geschrey herfür fielen/ vnd sich sehen liessen/ also daß der Feind/ alß wann noch ein grössere hinderhůt vorhanden were/ argwohnen vnd also erschreckeu/ vnd sich in die flucht begeben müßte.
+  cs: |-
+    Nebylo by od věci, kdybys měl ve svých oddílech {Trouppen} podle své síly dva, tři, čtyři, více či méně bubeníků a ukryl je s několika mušketýry na různých místech, aby, až budeš s nepřítelem v boji, bubnovali na svých stanovištích poplach. A kdybys mohl mít několik jezdců, kteří by byli rovněž ukryti a s křikem vyrazili a ukázali se, nepřítel by se domníval, že je tu ještě větší záloha {hinderhůt}, zalekl by se a musel by se dát na útěk.
+poznamky:
+- n: 1
+  text: Quartier zde znamená pardon, tj. ušetření života vzdávajícího se nepřítele (fr. faire quartier).
+- n: 2
+  text: Smysl „vnbeschlossen“ není zcela jistý – patrně oděv a věci, které má zajatec na sobě volně (nezapnuté, nezamčené), na rozdíl od toho, co má pod oděvem.
+- n: 3
+  text: Füse – fr. fusil, puška s křesadlovým zámkem. Drážkované pušky (gezogene Rohr) mají vývrt s drážkami a střílejí přesněji.
+- n: 4
+  text: Nachtigalsvögel („slavíci“) – patrně posměšné označení lapků, kteří přepadají pocestné (zvláště v noci); přesný význam nejistý.

@@ -1,0 +1,21 @@
+id: venovani
+list: věnování
+strana: recto
+sken: 5
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: 'Den Hochgeachten/ Wol-Edlen/ Gestrengen/ Frommen/ Ehren- vnd Nohtvesten/ Fürsichtigen/ Fürnemmen vnd Weysen Herren/ Herren Burgermeistern/ Geheimen vnd Kriegs-Rähten/ Sampt Den Herren Quartierhauptleuhten/ Loblicher Statt vnd Landschafft Zürich: Meinen insonders hochgeehrten/ gnädigen Herren.'
+  cs: 'Vysoce váženým, urozeným, statečným, zbožným, ctihodným a pevným, prozíravým, vznešeným a moudrým pánům,[^1] pánům purkmistrům, tajným a válečným radům {Kriegs-Rähten}, spolu s pány obvodními hejtmany {Quartierhauptleuhten}[^2] chvalného města a venkova curyšského: mým obzvláště vysoce ctěným, milostivým pánům.'
+- typ: odstavec
+  de: |-
+    GNädige Herren: Wie erforderlich bey einer wolbestellten Republic/ die Kriegsdisciplin vnd wüssenschafft der Waaffen seye/ ist so wol auß berühmbten Seribenten/ alß der Erfahrung selbs/ außfündig vnd offenbar. Jnmassen von deßwegen vil fürnemme Politici dise beständige vnd gewüsse Regul gegeben; Daß alle die/ so sich in fridlichem ruhwesen befinden/ vnd jhr Leben hierinnen hinzubringen begeren/ in den Waaffen vnderrichtet seyn müssen; Alß durch deren mittel; nechst Göttlichem hilffs-schutz; die
+  cs: |-
+    Milostiví páni! Jak nezbytná je v dobře spořádané obci {Republic} válečná kázeň a znalost zbraní, je zřejmé a zjevné jak ze slavných spisovatelů, tak ze samotné zkušenosti. Proto také mnozí přední znalci státních věcí {Politici} stanovili toto stálé a jisté pravidlo: že všichni, kdo žijí v pokojném klidu a přejí si v něm svůj život strávit, musejí být ve zbraních vycvičeni; neboť jejich prostřednictvím – hned po Boží pomoci a ochraně – bývá
+poznamky:
+- n: 1
+  text: 'Dobová titulatura městské vrchnosti; jednotlivé přívlastky (gestreng, ehren- und nohtvest, fürsichtig, weise) jsou ustálené formule bez přesného významového rozlišení.'
+- n: 2
+  text: 'Geheime Räte – tajná rada, užší výbor curyšské vlády pro důvěrné a vojenské záležitosti. Obvodní hejtmani (Quartierhauptleute) veleli milici jednotlivých vojenských obvodů curyšského venkova (viz glosář).'

@@ -1,0 +1,34 @@
+id: '040'
+list: '40'
+strana: verso
+sken: 74
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    auff dem halß: dann wo er die Compagnien nicht versehen könnte/ bedörffte man keines Leutenammts. Er soll sich also verhalten daß kein einiger fähler an jhme gespürt werde: Sein Oberwehr ist ein Partisan/ welche er tragen soll/ vnd sich darmit beschirmen/ sonsten thut er keine Wacht/ anderst die Hauptwacht/ da die Compagnie wachet. Er solle auch die Corporalschafften gleich an Mannschafften außtheilen/ vnd keiner mehr versuchte alß den anderen geben/ da dann der ein die besten/ der ander aber die schlimbsten Soldaten habe/ woran in einer Occasion vil gelegen ist: Er soll den straaffwürdigen gestreng/ den gehorsamen aber gutthätig seyn: Er soll auch aller Soldaten Humores erkennen/ vnd er hinwiderumb von jhnen erkennt werden. Jnsonderheit soll er auch wüssen was in abwesen des Capitains jhme zu thun/ wie er die Compagnie alß Leutenammt regieren/ mit sattsamer genugthüung/ alß wann der Capitain selbst zugegen were/ darinnen beyde ämpter wol erwägen/ vnd alles dahin dirigieren/ anordnen/ gubernieren/ vnd ins werck zu setzen wüssen/ darinnen einiger mangel nicht gespürt werden möge.
+  cs: |-
+    na krku: kdyby totiž nedokázal kompanii {Compagnien} obstarat, nebylo by poručíka třeba. Má se chovat tak, aby na něm nebylo znát jedinou chybu. Jeho hlavní zbraní {Oberwehr}[^1] je partyzána {Partisan}, kterou má nosit a jí se bránit; jinak nekoná žádnou stráž kromě hlavní stráže {Hauptwacht}, když na ní stojí kompanie. Má také rozdělit desátky {Corporalschafften} rovnoměrně co do mužstva a žádné nedávat víc zkušených vojáků než jiné, aby jedna neměla ty nejlepší a druhá ty nejhorší vojáky; na tom totiž v boji {Occasion} mnoho záleží. K těm, kdo zaslouží trest, má být přísný, k poslušným však laskavý. Má také znát povahy {Humores} všech vojáků a oni mají zase znát jeho. Zvláště má vědět, co mu je činit v nepřítomnosti hejtmana {Capitain} a jak má jako poručík spravovat kompanii k plné spokojenosti, jako by byl hejtman sám přítomen; má přitom dobře zvážit oba úřady a umět vše řídit, uspořádat, spravovat a uvést do díla tak, aby v tom nebylo znát žádný nedostatek.
+- typ: nadpis
+  uroven: 3
+  de: Eyd.
+  cs: Přísaha.
+- typ: odstavec
+  de: |-
+    Des Leutenammts Eyd ist in der gemeinen Soldaten Ordinantz vnd Eyd begriffen: vnd hat derselbige keinen besonderbaren Eyd.
+  cs: |-
+    Přísaha poručíka je obsažena v řádu {Ordinantz} a přísaze prostých vojáků; zvláštní přísahu nemá.
+- typ: nadpis
+  uroven: 2
+  de: Von dem Fendrichen vnd desselbigen Qualitet/ Eyd/ Ampt vnd Beruff.
+  cs: O praporečníkovi, jeho vlastnostech, přísaze, úřadu a povolání.
+- typ: odstavec
+  de: |-
+    Der Fendrich soll ein prafer/ junger/ gerader/ starcker vnd vnverdrossener Cavalier seyn. Es werden auff Zug vnd Wacht die Soldaten vnd in Lermens zeit bey seinem Fahnen versamlet. Sein Ampt ist/ dem Capitain vnd Leutenammt im commandieren die hilffs-hand zu bieten/ vnd in derselbigen abwesen sie zu vertretten. Er soll auch sein Fendlein fleissig vnd wol verwahren/ damit solches nicht etwan geschändet/ oder sonsten bald verrissen werde: Es wird auch ein Fendrich auff Convojieren/ Anschläg/ Päß vnd Clausen zu verhawen/ zu verwahren vnd zu bewachen/ oder sonsten alß ein Führer mit einer Trouppen commandiert: da ist dann hoch von nöhten/ daß ein Fendrich Kriegs erfahren seye. Jm Feld oder in anderen Occasionen vor dem Feind/ soll er sein Fendlein nicht auß der hand lassen/ sondern selbst führen vnd tragen: Er soll auch in währendem scharmützieren vnd offentlicher Feldschlacht den Fahnen hoch halten vnd fliegen lassen/ dannt es seine Soldaten sehen: vnd da sie etwan gejrret/ sich widerumb darbey erkennen mögen. Deßgleichen soll er auch auff dem Randevous/ Quartieren/ im Feld/ vnd da es nohtdürfftig/ den Fahnen fliegen/ auffstrecken/ oder auffrecht halten. Jm stürmen soll er der erst vor seinem Volck her tretten/ den Sturm anfangen/ vnd den Soldaten ein gut Exempel vorführen/ wo auch der Hauffen vertrennt wurde/ soll er seinen Fahnen in die höhe halten vnd fliegenlassen/ damit sich die vertrennten widerumb erkennen vnd samlen/ ein ordnung
+  cs: |-
+    Praporečník {Fendrich} má být chrabrý, mladý, rovně rostlý, silný a neúnavný kavalír. Na pochodu, na stráži i v čase poplachu se vojáci shromažďují u jeho korouhve {Fahnen}. Jeho úřadem je pomáhat hejtmanovi a poručíkovi při velení a v jejich nepřítomnosti je zastupovat. Svůj praporec {Fendlein} má také pilně a dobře opatrovat, aby nebyl nějak zneuctěn nebo brzy roztrhán. Praporečník bývá také s oddílem {Trouppen} komandován na doprovody {Convojieren}, přepady {Anschläg}, k zasekání, uzavření a střežení průsmyků a soutěsek nebo jinam jako jeho vůdce; tu je pak velmi zapotřebí, aby byl praporečník ve válce zkušený. V poli a při jiných střetnutích s nepřítelem nemá praporec pustit z ruky, nýbrž ho sám vést a nést. Za šarvátek i v otevřené polní bitvě má korouhev držet vysoko a nechat ji vlát, aby ji jeho vojáci viděli, a kdyby se snad rozptýlili, aby se u ní mohli znovu najít. Rovněž na shromaždišti {Randevous}, v kvartýrech, v poli a všude, kde je toho třeba, má korouhev nechat vlát, vztyčit ji nebo držet zpříma. Při útoku {stürmen} má jako první vykročit před svým lidem, útok zahájit a dát vojákům dobrý příklad; a kdyby byl houf {Hauffen} rozražen, má držet svou korouhev vysoko a nechat ji vlát, aby se rozražení mohli znovu najít, shromáždit a utvořit
+poznamky:
+- n: 1
+  text: Oberwehr (Obergewehr) – „horní“ čili dlouhá zbraň (píka, mušketa, u důstojníků partyzána), na rozdíl od boční zbraně (kord, Untergewehr).

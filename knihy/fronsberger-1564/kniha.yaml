@@ -7,6 +7,10 @@ autor_zivot: asi 1520–1575
 vydani: Frankfurt nad Mohanem, Johann Lechler nákladem Sigmunda Feyerabenda a Simona Hütera, 1564
 rok: 1564
 vd16: VD16 F 3130
+katalog: VD16 F 3130
+strankovani: folio
+strany_poznamka: 'Tisk je číslován po listech (foliace): r = líc, v = rub. List XVI má v tisku chybně číslo XVII.'
+zdroj_textu: 'Německý text je přepsán podle digitalizace Bayerische Staatsbibliothek München (2 Polon. 9#Beibd.1, bsb00045899) z OCR s opravenými chybami;'
 rozsah: '[3], CXXII, [1] listů, folio'
 jazyk_orig: raná nová horní němčina
 popis: >-
@@ -17,6 +21,9 @@ prekladatel: Pracovní překlad (Google Docs) revidovaný a doplněný s pomocí
 
 sken:
   instituce: Bayerische Staatsbibliothek München
+  kratce: BSB
+  portal: digitale-sammlungen.de
+  paticka: 'Sken: Bayerische Staatsbibliothek München (rightsstatements.org NoC-NC)'
   signatura: 2 Polon. 9#Beibd.1
   id: bsb00045899
   urn: urn:nbn:de:bvb:12-bsb00045899-6

@@ -1,0 +1,22 @@
+id: tab-08
+list: tabule 8
+strana: recto
+sken: 118
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: blat II
+  cs: list II
+- typ: obrazek
+  soubor: tab-08.jpg
+  popis: |-
+    Mědirytina k šikům jedné kompanie, vlevo dole označená *blat II* („list II“; v textu „das ander Kupfferblat so zu end des dritten theils gebunden ist“). Šiky jsou označené velkými římskými čísly, oddíly (švadrony, Squadron) malými arabskými: mušketýři jsou kresleni jako postavičky s mušketou, pikenýři jako obdélník se svislými píkami; u šiku stojí důstojníci s partyzánou a praporečník s korouhví. Čte se zdola nahoru.
+    *I* (dole): postojový šik {Stellordnung} – mušketýři rozdělení do čtyř švadron, každá 6 mužů hluboká a 4 široká, a vedle nich pikenýři ve čtyřech stejných švadronách (str. [[101|101]]).
+    *II* a *IV*: pochodový šik {Zugordnung} jednoduchý a dvojitý. U *IV* pochodují švadrony mušketýrů a pikenýrů po dvou vedle sebe, vpředu velitel na koni (str. [[101|101]]).
+    *III*: základní šik {Fundamentsordnung} – švadrony postavené v jedné frontě vedle sebe, mušketýři na obou křídlech, pikenýři s korouhví uprostřed (str. [[101|101]]–[[102|102]]).
+    *V*: první bitevní šik – krajní švadrony mušketýrů postoupí šikmo před frontu, ostatní zůstanou při pikách (str. [[102|102]]).
+    *VI*: druhý bitevní šik – všechny píky vytáhnou před mušketýry, mušketýři zůstanou po obou stranách vzadu (str. [[102|102]]–[[103|103]]).
+    *VII* (nahoře): třetí bitevní šik – mušketýři z obou křídel postoupí vpřed vedle pik (str. [[103|103]]; text tu omylem uvádí „das 11. Kupfferblat“).
+    Číslování švadron na rytině (mušketýři 1–4, píky 5–8) se místy liší od textu, který v bitevních šicích nazývá krajní švadrony mušketýrů 1 a 8, vnitřní 2 a 7 a píky 3–6.

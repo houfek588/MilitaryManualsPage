@@ -1,0 +1,40 @@
+id: '056'
+list: '56'
+strana: verso
+sken: 90
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Glockenstreich finden lassen/ vnd den Wachtmeistern oder Sergeanten/ die Wachtzedel/ wo vnd wie starck sie die Schiltwachten besetzen sollen/ außtheilen/ vnd was jhme weiters befohlen/ anzeigen: das Volck in den Wachthäuseren vnd auff- vnd abzügen besichtigen/ vnd da er etwas mangels findet/ selbigen verbesseren helffen.
+  cs: |-
+    odbíjením zvonu a rozdat vachmistrům {Wachtmeistern} neboli seržantům {Sergeanten} strážní lístky {Wachtzedel} [s určením], kde a jak silně mají obsadit stálé stráže {Schiltwachten}, a oznámit, co mu bylo dále nařízeno; má prohlížet mužstvo ve strážnicích i při nástupu a odchodu, a najde-li nějaký nedostatek, pomoci jej napravit.
+- typ: nadpis
+  uroven: 2
+  de: Von den Wachten ins gemein.
+  cs: O strážích obecně.
+- typ: nadpis
+  uroven: 3
+  de: Wie vil deren ins gemein seyen.
+  cs: Kolik je jich celkem.
+- typ: odstavec
+  de: |-
+    Die Haupt- Schar- Jnner- vnd Ausserwacht: Jtem/ die Ronde-Tag- Nacht-Ordinari-Extraordinari-Seiten-Schilt-Doppeltschilt- vnd Rondeschiltwacht.
+  cs: |-
+    Stráž hlavní, pochůzková, vnitřní a vnější; dále stráž obchůzková {Ronde}, denní, noční, řádná, mimořádná, boční, stálá, dvojitá stálá a obchůzková stálá.[^1]
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Was die Wacht der Haupt-Corps de garde seye/ vnd wie man sich darinnen verhalten solle.
+  cs: Co je stráž hlavní strážnice a jak si v ní počínat.
+- typ: odstavec
+  de: |-
+    Die Wacht der Haupt-Corps de garde wird sonsten genannt das Wachthauß der Hauptwacht/ vnd ist ein hinderhůt aller vberiger Wachten/ darvon die anderen Wachten in dem nohtfahl jhren entsatz haben/ weßwegen auch ein gantze Compagnie darzu geordnet wird/ damit von derselbigen die meist-nohtleidenden Wachtposten entsetzet/ vnd die Porten vnd andere Wachten damit versehen werden können. Jn diser Corps de garde sollen drey Gemach seyn: Jn dem ersten Gemach besagter Corps de garde ist der Fahnen sampt den hoch- vnd nideren Officierern der Hauptwachthabenden Compagnie/ allda die frömbden Leuth examiniert vnd von dannen dem Gubernator zu geschickt/ die Ronden darauß gecommandiert/ vnd dareyn die Nachtzedel gebracht werden: von disem Gemach werden auch die Wachtmeister vnd Gefreyten an die Porten/ Schiff/ Wägen vnd anders zu besichtigen: Jtem/ die frömbden Leuth zu examinieren: vnd die Gefreyten ein theil auff die Schutzporten geordnet: welcher Ampt ist/ im nohtfahl die Schutzporten hinab zu fellen: Es werden auch darauß die Hauptrond vnd Patrollien des nachts verrichtet: vnd ist der Hauptrond Ampt/ daß sie den Corporalen rings vmbher das Wort abnemmen/ vnd da sie solches nicht recht/ geben: auch allen mangel so sie sinden/ erbesseren. Jn dem anderen Gemach aber seind die Gefreyten aller Compagnien/ so in der Besatzung ligen/ die werden alle stund des nachts/ vnd da es gefahrlich/ alle halb stund/ je zween vnn zween/ doch von vnderschiedlichen Compagnien gegen einanderen auff die Ronde commandiert. Vnd so bald die einen widerumb in das Gemach kommen/ gestracks andere vier gecommandiert/ damit der Wal nie lähr seye. Jn dem dritten Gemach wachen die gemeinen Soldaten sampt ihren Corporalen: darauß werden die Schiltwachten bestellt: vnd erstlich eine vor der Officierer Gemach bey dem Gewehr vnd Fendlem: die ander bey den Stücken
+  cs: |-
+    Stráž hlavní strážnice {Haupt-Corps de garde} se jinak nazývá strážní dům hlavní stráže {Hauptwacht} a je zálohou {hinderhůt} všech ostatních stráží, od níž ostatní stráže v nouzi dostávají posilu; proto se k ní také určuje celá kompanie {Compagnie}, aby z ní bylo možno posílit nejohroženější strážní stanoviště a obsadit brány a jiné stráže. V této strážnici mají být tři místnosti {Gemach}. V první místnosti je praporec spolu s vyššími i nižšími důstojníky kompanie, která drží hlavní stráž; tam se vyslýchají cizí příchozí a odtud se posílají ke guvernérovi {Gubernator}, odtud se vysílají obchůzky {Ronden} a sem se přinášejí noční lístky {Nachtzedel}. Z této místnosti se také vysílají vachmistři a svobodníci {Gefreyten} k branám, aby prohlíželi lodě, vozy a jiné věci, dále aby vyslýchali cizí lidi; a část svobodníků se určuje k ochranným branám {Schutzporten}, jejichž úkolem je v nouzi mříže spustit. Odtud se v noci konají také hlavní obchůzky {Hauptrond} a patroly {Patrollien}; úkolem hlavní obchůzky je přebírat dokola od desátníků {Corporalen} heslo {Wort}, a nemají-li je správně, dát jim je [správné], a také napravit každý nedostatek, který najdou. Ve druhé místnosti jsou svobodníci všech kompanií, které leží v posádce {Besatzung}; ti se v noci každou hodinu, a je-li nebezpečí, každou půlhodinu vysílají po dvou na obchůzku, a to dvojice z různých kompanií proti sobě. A jakmile se jedni vrátí do místnosti, vysílají se hned další čtyři, aby val {Wal} nikdy nezůstal prázdný. Ve třetí místnosti drží stráž prostí vojáci se svými desátníky; odtud se rozestavují stálé stráže, a to nejprve jedna před místností důstojníků u zbraní a praporce {Fendlem}, druhá u děl {Stücken}
+poznamky:
+- n: 1
+  text: |-
+    Scharwacht (pochůzková stráž) a Ronde (obchůzka) jsou blízké pojmy; Lavater je uvádí zvlášť. Rondeschiltwacht je patrně stálá stráž, která zastavuje obchůzku a přebírá od ní heslo (srov. str. [[058|58]]–[[059|59]]); význam není v textu vyložen.

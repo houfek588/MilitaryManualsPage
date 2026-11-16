@@ -1,0 +1,32 @@
+id: '021'
+list: '21'
+strana: recto
+sken: 55
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Apotecker/ Balbierer: vnd dann allerley Handwercksleuth. Alß da seind/ Schuhmacher/ Schneider/ Schlosser/ Sattler/ Schmid/ Büchsenmacher/ Büchsenschäffter/ Glocken- oder Stückgiesser/ Schwerdtfeger/ Harnaster/ Zimmerleuth/ Maurer/ Steinmetzen/ Tischmacher/ Küffer/ Wagenmeister/ Seyler/ Walschlager/ Brucken- vnd Brunnenmeister/ Salpetersieder/ Pulfermacher/ Müller/ Pfister/ Sägenschmid vnd Oelmacher. Wann nun ein Vestung mit solchen Leuthen versehen ist/ so solle man hernachfolgender gestalten sich berahtschlagen.
+  cs: |-
+    lékárník {Apotecker}, lazebník {Balbierer}; a pak všelijací řemeslníci, jako jsou: ševci, krejčí, zámečníci, sedláři, kováři, puškaři {Büchsenmacher}, pažbaři {Büchsenschäffter}, zvonaři neboli slévači děl {Stückgiesser}, mečíři {Schwerdtfeger}, platnéři {Harnaster}, tesaři, zedníci, kameníci, truhláři, bednáři, vozmistři {Wagenmeister}, provazníci, pěchovači valů {Walschlager},[^1] mostaři a studnaři {Brucken- vnd Brunnenmeister}, ledkaři {Salpetersieder}, prachaři {Pulfermacher}, mlynáři, pekaři {Pfister}, kováři pil {Sägenschmid} a olejníci. Když je tedy pevnost takovými lidmi opatřena, má se dále radit takto.
+- typ: nadpis
+  uroven: 2
+  de: Wie vil Volcks man ein Vestung zu besetzen/ von nöhten habe.
+  cs: Kolik lidí je třeba k obsazení pevnosti
+- typ: odstavec
+  de: |-
+    Die Besatzung vom Volck ist vnderschiedenlich/ derwegen muß/ nach gelegenheit derselbigen/ einem jeglichen ding sein mäß gegeben werden/ wie das eines jeglichen gelegenheit gibt/ vnd die nohtdurfft erforderet. Vnd erstlichen soll ein Gubernator mit seinen Amptleuthen oder Officiern vmb die Vestung rings vmbher reiten/ dieselbig besehen vnd abmessen/ vnd ein Bollwerck nach dem anderen fürnemmen vnd vberschlagen/ wie vil Volck darauff soll gestellt werden/ damit er sich im fal der noht beschirmen möge: vnd da er 1000. Mann darauff stellen mag/ noch 1000. Mann darzu thun/ vnd das Ort also doppelt besetzen/ damit je einer dem anderen durch Entsatz beyspringen möge. Wiewol etliche meynen/ es gehören auff ein Bollwerck/ so Real ist/ 1000. oder zum wenigsten 800. Mann. Etliche aber geben auff ein jedes Bollwerck 4. oder 500. Mann/ ohne die Burgerschafft/ welche auch darzu gehören. Da man nun ein Vestung hat so fünffeckig ist/ in deren ein Gesichtlinien von 18. ein Flanc von 6. vnd ein Courtine von 27. ruhten ist/ so were der gantze Circumferentz oder Bezirck der Vestung 3750. schuh oder füß: derowegen wird ein gantze Besatzung von Soldaten erforderet 1875. Mann: doch/ wie oben gemeldt/ kan man hier keine gewisse Reglen setzen/ weiln die Vestungen vnderschiedenlich seind: derohalben man hernachfolgende stück wol zu gewahren hat. Erstlich/ wo vil Ausserwerck: Jtem/ wo ein Vestung an vilen orten kan belägeret werden/ da müssen die Ständ desto sicherer seyn/ vnd die Besatzung gedopliert werden/ damit ein theil den anderen ablösen vnd entsetzen könne. Darnach wo einer Vestung nicht an allen orten mag beykommen/ oder selbige eyngeschlossen werden/ da ist vnnohtwendig starcker Besatzung: doch sollen daselbsten die Wachten fleissig vnd wol versehen werden/ daß darauff der Feind keinen anschlag machen könne: dann ein fleissige Wacht verhütet vil anschläg. Zum dritten/ wo ein Vestung klein ist/ vnd liget im morast oder gemöß/ oder auff felsen/ also/ daß man nichts daran haben kan/ das hat ein besonder bestellens: solche Vestungen seind anders nichts/ alß Päß vnd Clausen zu verwahren/ dann man auch weiters nichts darauff thun kan/ vnd bedörffen allein fleissiger hůt für verrähterey. Zum
+  cs: |-
+    Obsazení lidmi bývá rozdílné, a proto se musí každé věci dát její míra podle toho, jakou má která [pevnost] polohu a co žádá potřeba. A předně má guvernér {Gubernator} se svými úředníky čili důstojníky {Officiern} objet pevnost dokola, prohlédnout ji a proměřit a jednu baštu {Bollwerck} po druhé posoudit a odhadnout, kolik lidí na ni má být postaveno, aby se v případě nouze mohl ubránit. A může-li na ni postavit 1000 mužů, má k nim přidat ještě dalších 1000 a místo tak obsadit dvojnásobně, aby jeden druhému mohl přispět na pomoc vystřídáním {Entsatz}. Někteří sice míní, že na baštu, která je řádná {Real},[^2] patří 1000 nebo alespoň 800 mužů; jiní však dávají na každou baštu 400 nebo 500 mužů, nepočítaje měšťanstvo, které k tomu rovněž patří. Máme-li tedy pětibokou pevnost, v níž má čelo bašty {Gesichtlinien} 18, flanka {Flanc} 6 a kurtina {Courtine} 27 prutů {ruhten}, činil by celý obvod pevnosti {Circumferentz oder Bezirck} 3750 stop; proto je k celé posádce zapotřebí 1875 vojáků.[^3] Jak však bylo řečeno výše, nelze tu stanovit žádná pevná pravidla, protože pevnosti jsou rozdílné; proto je třeba dobře dbát následujících věcí. Zaprvé: kde je mnoho vnějších děl {Ausserwerck}, a dále kde lze pevnost obléhat z mnoha stran, tam musí být stanoviště tím bezpečnější a posádka zdvojená, aby jedna část mohla druhou střídat a posilovat. Zadruhé: kde se k pevnosti nelze dostat ze všech stran nebo ji nelze sevřít, tam není silná posádka zapotřebí; stráže tam však mají být bedlivě a dobře obstarány, aby nepřítel nemohl podniknout žádný úklad {anschlag}, neboť bedlivá stráž zabrání mnoha úkladům. Zatřetí: kde je pevnost malá a leží v bažině či močálu nebo na skále, takže se jí nic nedá udělat, s tou je to zvláštní: takové pevnosti neslouží k ničemu jinému než k ochraně průsmyků a soutěsek {Päß vnd Clausen}, protože se z nich ani nic dalšího dělat nedá, a potřebují jen bedlivou ostrahu proti zradě. Za
+poznamky:
+- n: 1
+  text: |-
+    Walschlager – patrně dělníci, kteří pěchují zeminu valů (Wal = val); méně pravděpodobně „Wollschlager“ (čechrač vlny).
+- n: 2
+  text: |-
+    Real – „královská“, tj. bašta plné velikosti stálé pevnosti, na rozdíl od menších polních opevnění.
+- n: 3
+  text: |-
+    Jedna strana pětiboku = 2 čela (2 × 18) + 2 flanky (2 × 6) + kurtina (27) = 75 prutů; obvod 5 × 75 = 375 prutů = 3750 stop (prut = 10 stop). Na každé 2 stopy obvodu tedy připadá jeden voják.

@@ -1,0 +1,31 @@
+id: '022'
+list: '22'
+strana: verso
+sken: 56
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vierten/ wo ein Vestung einen grossen vmbkreiß hat/ vnd doch keinen vortheil/ sondern allein zu Wehrinen gemachet/ vnd auff die vile des Volcks gerichtet ist/ nicht aber dahin beschaffen oder proportioniert Volck zu ersparen: Solches ist ein besorgliche Besatzung/ vnd gehet groß Gelt/ Volck/ Proviant/ Geschütz/ Munition vnd anders darauff/ solche Zusätz zu erhalten: doch/ wo solche ding/ alß Gelt/ Proviant/ Volck/ Geschütz/ Munition/ Holtz/ Saltz/ Kolen/ Eysen/ Bley/ Ertz/ Wassermülen/ Balbierer/ etc. vorhanden/ so ist es gut wo dieselbig Besatzung starck/ weiln ein solche Vestung böß zu belägeren. Vnd ob schon ein Bresche zum Sturm geschossen/ so ist doch ein grosse menge schwärlich zu stůrmen: dann wo vil Volck ist/ da wird vil Arbeit verrichtet/ starcke Werck gemachet/ eyngegraben/ grosse außfäl gethan. Jn summa man kan sich in einen vortheil legen/ vnd ist ein Mann hinder seinem vortheil so gut alß 10 draussen. Dann im außfallen geschicht dem Feind grosser schaden an der Proviant/ welche jhme zugeführt: aber dardurch etwan abgenommen wirdt. Es seye aber ein Besatzung groß oder klein/ so wird erforderet grosse sorg/ kosten/ ordinantz vnd regierung.
+  cs: |-
+    čtvrté: kde má pevnost velký obvod, a přece žádnou výhodu, nýbrž je postavena jen k obraně a počítá s množstvím lidí, a není tak uspořádána ani úměrná, aby se lidmi šetřilo: taková posádka {Besatzung} je starostná a padne na ni mnoho peněz, lidí, proviantu, děl, munice a jiných věcí, aby se takové posádky {Zusätz} udržely. Kde však takové věci jsou po ruce – jako peníze, proviant, lidé, děla, munice, dříví, sůl, uhlí, železo, olovo, ruda, vodní mlýny, lazebníci atd. –, tam je dobře, když je taková posádka silná, protože takovou pevnost je těžké obléhat. A i kdyby byl k útoku prostřelen průlom {Bresche}, velké množství [obránců] lze přece jen těžko ztéci; neboť kde je mnoho lidí, tam se vykoná mnoho práce, staví se silná díla, zakopává se a podnikají se velké výpady. Zkrátka, člověk se může usadit ve výhodném postavení, a jeden muž za svou výhodou {vortheil} je tak dobrý jako deset venku. Při výpadech se totiž nepříteli způsobí velká škoda na proviantu, který se mu přiváží a který se mu jimi občas odejme. Ať je však posádka velká, nebo malá, vyžaduje velkou péči, náklady, pořádek {ordinantz} a vedení.
+- typ: nadpis
+  uroven: 2
+  de: Ob Reuterey in einer Vestung zu verwerffen seye.
+  cs: Zda je jízda v pevnosti k zavržení
+- typ: odstavec
+  de: |-
+    Dieselbig ist in einer Vestung nicht zu verwerffen/ wie aber etliche vermeynen wöllen: dann solche/ wo ein Vestung nicht belägeret ist/ nicht allein das vmbligende Land zur schatzung vnd gehorsame bringt: sonder durch jhres recognoscieren vnd gute kundtschafften/ des Feinds anschläg entdecket/ die streiffenden Feinds partheyen auß dem Land haltet/ die Convoyen versihet/ vnd die Vestung mit Proviant vnd anderem/ etc. versehen thut. Jnsonderheit ob es käme daß der Feind mit einem anschlag in die Vestung ohnversehens kommen thete/ solche die gassen vnd strassen dermassen durchhawen/ vnd des Feinds sußvolck von den gassen abhalten/ zu ruck treiben/ vnd jhr Volck dargegen beschirmen kan. Wiewoln auch in einer langweiligen Belägerung vil Reuterey nicht von nöhten/ weiln das fůter für die Pferd nicht zu bekommen ist/ so können doch durch sie starcke außfäl beschehen/ vnd des Feinds zuhin-arbeitende Schantzer auß jhren Wercken vnd Lauffgräben getriben werden.
+  cs: |-
+    Jízda {Reuterey} není v pevnosti k zavržení, jak se někteří domnívají. Neboť když pevnost není obléhána, nejenže přivádí okolní kraj k placení dávek {schatzung} a k poslušnosti, ale svým průzkumem {recognoscieren} a dobrými zprávami odhaluje nepřítelovy úklady {anschläg}, drží toulavé nepřátelské oddíly {partheyen} mimo kraj, obstarává doprovody {Convoyen} a zásobuje pevnost proviantem {Proviant} a jinými věcmi atd. Zvláště kdyby se stalo, že by se nepřítel úkladem nenadále dostal do pevnosti, může se jízda ulicemi a silnicemi tak prosekat, že nepřátelskou pěchotu z ulic vytlačí a zažene zpět a vlastní lid naproti tomu ochrání. A ačkoli při dlouhém obléhání není mnoho jízdy zapotřebí, protože se pro koně nedá sehnat píce, přece jen s ní lze podnikat silné výpady a vyhánět nepřátelské šancíře {Schantzer}, kteří se prokopávají blíž, z jejich děl a aproší {Lauffgräben}.
+- typ: nadpis
+  uroven: 2
+  de: Wie vil grosses Geschütz in ein Vestung gehöre.
+  cs: Kolik velkých děl patří do pevnosti
+- typ: odstavec
+  de: |-
+    Gleich wie in einer Besatzung die summa des Volcks nicht eigentlich kan beschriben werden: also hat es auch ein gelegenheit mit dem grossen Geschütz: je mehr aber Volck vnd Geschütz ein wolverwahrte Vestung hat/ je stärcker ist sie dem Feind zu begegnen. Vnder dessen müssen in einer Vestung auff das wenigst auff jedes Bollwerck von vnderschiedenlicher gattung sünff stuck gestellt werden. Namlich: zwey Stuck in ein jedere Flancken: in den aussersten puncten oder spitz jedes Bollwercks aber ein Feldschlangen/ die in das
+  cs: |-
+    Tak jako nelze přesně určit počet lidí v posádce, tak je tomu i s velkými děly {grosse Geschütz}; čím víc však lidí a děl má dobře opatřená pevnost, tím je silnější, aby se postavila nepříteli. Mezitím musí být v pevnosti postaveno na každé baště {Bollwerck} alespoň pět kusů rozličného druhu, totiž: dvě děla {Stuck} do každé flanky {Flancken}, do krajního bodu čili špice každé bašty však jedna hadovnice {Feldschlangen}, jež má

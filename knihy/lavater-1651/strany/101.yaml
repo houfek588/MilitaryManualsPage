@@ -1,0 +1,59 @@
+id: '101'
+list: '101'
+strana: recto
+sken: 147
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Was ein Fundamentordnung seye.
+  cs: Co je základní šik
+- typ: odstavec
+  de: |-
+    Sie ist das fundament/ darauß man alle vbrigen Schlachtordnungen anschicken vnd formieren kan.
+  cs: |-
+    Je to základ {fundament}, z něhož lze připravit a zformovat všechny ostatní bitevní šiky.
+- typ: nadpis
+  uroven: 3
+  de: Was ein Schlachtordnung oder Bataille seye.
+  cs: Co je bitevní šik neboli bataille {Bataille}
+- typ: odstavec
+  de: |-
+    Sie ist ein Ordnung/ so zu der zeit des Feinds/ in deme man sich mit jhme zu schlagen willens ist/ je nach gelegenheit des orts vnd seinem angriff/ auff vnderschidenliche gattungen vnd manier gemachet/ gestellt/ vnd daher von dem wörtlein schlagen/ Schlachtordnung genennt wird.
+  cs: |-
+    Je to šik, který se tvoří a staví v rozličných druzích a způsobech, když je nepřítel nablízku a hodláme se s ním bít, podle povahy místa a podle jeho útoku; a proto se podle slovíčka „schlagen“ (bít se) nazývá „Schlachtordnung“ (bitevní šik).
+- typ: nadpis
+  uroven: 3
+  de: Wie man die Stellordnung mache.
+  cs: Jak se tvoří postojový šik
+- typ: odstavec
+  de: |-
+    Darvon besihe das ander Kupfferblat so zu end des dritten theils gebunden ist/ mit der grossen zahl I. bezeichnet: dieselbe wird also gemachet. Man stellt deß ersten alle Musquetierer zusammen an einen hauffen in 6. glider/ oder 6. hoch: darnach distribuiert oder zertheilt man dise jetztgenannten Musquetierer in 4. gleiche theil/ deren ein jeder theil ein Squadron/ Schwader/ Flügel/ oder Bruch heisset/ vnd seind hiemit derselben vier Squadronen Musquetierer/ so wirst du jeden 6. hoch/ oder von 6. glidern/ vnd in jedem 4. Mann/ oder 4. breit haben/ wie dich die kleiner zahl 1. 2. 3. 4. lehret: deßgleichen solt du dich mit den Spiessen auch verhalten/ vnd sie in 4. gleiche theil distribuieren vnd theilen/ so hast du gleich vil Squadronen oder Brüch/ in gleicher höhe vnd breite/ wie 5. 6. 7. vnd 8. außweisen.
+  cs: |-
+    K tomu viz [[tab-08|druhou mědirytinu]] {Kupfferblat}[^1], která je vevázána na konci třetího dílu, [v části] označené velkým číslem I. Ten [šik] se tvoří takto: Nejprve se všichni mušketýři {Musquetierer} postaví spolu do jednoho houfu v 6 řadách {glider}, čili 6 [mužů] do hloubky; potom se tito právě jmenovaní mušketýři rozdělí na 4 stejné části, z nichž každá se nazývá squadrona {Squadron}, švadrona {Schwader}, křídlo {Flügel} nebo oddíl {Bruch}. Budeš tak mít čtyři švadrony mušketýrů, každou 6 [mužů] do hloubky čili o 6 řadách a v každé řadě 4 muže, čili 4 do šířky, jak tě učí menší čísla 1, 2, 3, 4. Stejně si máš počínat i s pikami {Spiessen} a rozdělit je na 4 stejné části: tak budeš mít stejně mnoho švadron neboli oddílů o stejné hloubce i šířce, jak ukazují [čísla] 5, 6, 7 a 8.
+- typ: nadpis
+  uroven: 3
+  de: Wie man ein Zugordnung einfach/ oder zweyfach machen solle.
+  cs: Jak se má tvořit jednoduchý nebo dvojitý pochodový šik
+- typ: odstavec
+  de: |-
+    Darvon besihe das ander Kupfferblat mit der grösseren zahl II. vnd IV. bezeichnet. Deß ersten in einer einfachen Zugordnung marschiert der Capitain mit dem ersten bruch Musquetierer der geringeren zahl 1. darauff 2. der ander bruch oder Squadron: alßdann haltet der Leutenammt mit den vbrigen Musquetierern/ vnd marschiert der erst bruch Spieß mit 3. bezeichnet widerumb/ der ander bruch Spieß mit 4. Auff dise der Fendrich mit dem dritten bruch Spieß mit 5. Vnd zu letst der vierte bruch Spieß mit 4. bezeichnet. Dise Spieß beschliesset alßdann der Leutenammt mit den vbrigen Musquetierern also: Er zeucht deß ersten mit dem 7. dem dritten bruch Musquetierer/ vnd zu letst 8. der vierte bruch letster Musquetierern. Wann man aber ein gedoppelte Zugordnung machen will/ so marschieren alßdann zween brüch neben einanderen/ wie du in dem obbemeldten Kupfferblat mit der grossen zahl IV. vnd II. angedeutet finden wirst.
+  cs: |-
+    K tomu viz [[tab-08|druhou mědirytinu]], [části] označené většími čísly II a IV. V jednoduchém pochodovém šiku {Zugordnung} pochoduje nejprve hejtman {Capitain} s prvním oddílem mušketýrů, [označeným] menším číslem 1, za ním 2, druhý oddíl čili švadrona; potom se poručík {Leutenammt} se zbylými mušketýry zastaví a dále pochoduje první oddíl pík, označený 3, [za ním] druhý oddíl pík s 4; za nimi praporečník {Fendrich} se třetím oddílem pík s 5 a nakonec čtvrtý oddíl pík, označený 4[^2]. Tyto píky pak uzavírá poručík se zbylými mušketýry takto: táhne nejprve se 7, třetím oddílem mušketýrů, a nakonec [jde] 8, čtvrtý oddíl, poslední mušketýři. Chce-li se však utvořit dvojitý pochodový šik, pochodují dva oddíly vedle sebe, jak to najdeš naznačeno na [[tab-08|výše zmíněné mědirytině]] u velkých čísel IV a II.
+- typ: nadpis
+  uroven: 3
+  de: Wie man ein Fundamentsordnung machen solle.
+  cs: Jak se má tvořit základní šik
+- typ: odstavec
+  de: |-
+    Darvon besihe obbemeldte zwey Kupfferblat mit der grossen zahl III. angedeutet. Wann du nun mit einer einfachen Zugordnung/ wie du oben gelehrt bist/ anziehest/ so halte still mit 1. dem ersten bruch/ neben diser zur lincken
+  cs: |-
+    K tomu viz výše zmíněné dvě mědirytiny, [části] naznačené velkým číslem III. Když tedy přitáhneš v jednoduchém pochodovém šiku, jak jsi byl výše poučen, zastav se s 1, prvním oddílem; vedle něho po levé
+poznamky:
+- n: 1
+  text: |-
+    Mědirytina se signaturou „blat II“ – v této edici tabule [[tab-08|tab-08]] (s velkými čísly I–VII). Třetí mědirytina („blat III“) je [[tab-09|tab-09]], čtvrtá [[tab-10|tab-10]], pátá („blat V“) [[tab-11|tab-11]].
+- n: 2
+  text: |-
+    Tak v tisku („mit 4. bezeichnet“); podle pořadí a mědirytiny má jít o oddíl 6 – zřejmě tisková chyba.

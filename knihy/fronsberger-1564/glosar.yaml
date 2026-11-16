@@ -301,7 +301,7 @@ hesla:
   hledat: ['pěchot', 'pěší']
 - id: jizda
   cs: jízda
-  de: [Reisige, Reysigen, Reysige, reisiger Zeug, Reysigen Zeug, Keysigen, gereysige]
+  de: [Reisige, Reysigen, Reysige, reisiger Zeug, Reysigen Zeug, Keysigen, gereysige, Reutter, Reuter, Reuterey]
   nepouzivat: ['jezdecká hotovost']
   kategorie: jednotky
   hledat: ['\bjízd', '\bjezd']
@@ -881,7 +881,7 @@ hesla:
   pozn: Glied – řada mužů vedle sebe v šiku; čtvercový šik má tolik řad, kolik mužů stojí v jedné řadě.
 - id: jezek
   cs: ježek
-  de: [Igel, Izel]
+  de: [Igel, Izel, Ygel]
   kategorie: jednotky
   hledat: ['\bjež(ek|ka|kem|ku)\b']
   pozn: Igel – obranná sestava šiku, v níž knechti nastaví zkřížená kopí na všechny strany, zvl. proti jízdě.
@@ -1931,3 +1931,101 @@ hesla:
   kategorie: mista
   hledat: ['byzant']
   pozn: Řecké město na Bosporu, pozdější Konstantinopol.
+
+# ---------------------------------------------------------------- doplněno 2026-11-15 (dosud nepropojené termíny)
+- id: valecny-lid
+  cs: válečný lid
+  de: ['Kriegßvolck', 'Kriegßvolcks', 'Kriegßuolck', 'Kriegßuolcks', 'Kriegsvolk', 'Kriegsvolck', 'Kriegßleuth', 'Kriegßleuthen', 'Kriegsleute']
+  kategorie: jednotky
+  hledat: ['válečn\w* lid', '\bválečník']
+  pozn: "Souhrnné označení najatého vojska (pěchoty i jízdy) bez ohledu na hodnost; Kriegsleute = válečníci, vojáci."
+- id: velitele
+  cs: velitelé
+  de: ['Befelchsleuth', 'Befelchsleuthe', 'Befelchs leuth', 'Befelchßleuth', 'Befelchsleute', 'Befelchhaber']
+  kategorie: velitele
+  hledat: []
+  pozn: "Doslova „lidé rozkazu“ – souhrnně všichni, kdo ve vojsku velí, od plukovníka po rotmistra."
+- id: uradnici
+  cs: úředníci
+  de: ['Amptleuth', 'Amptleute']
+  kategorie: velitele
+  hledat: []
+  pozn: "Amptleute – nositelé úřadů ve vojsku (Ampt = úřad), tj. velitelé i správní funkcionáři; podobně souhrnné jako „velitelé“ (Befelchsleuth)."
+- id: strelec
+  cs: střelec
+  de: ['Schütz', 'Schütze', 'Schützen']
+  kategorie: jednotky
+  hledat: []
+  pozn: "Pěší voják s palnou zbraní (ručnicí, hákovnicí); v praporci tvořili střelci vedle pikenýrů a dvojžoldnéřů samostatnou složku."
+- id: zavazek
+  cs: závazek
+  de: ['Pflicht', 'Pflichten']
+  kategorie: pravo
+  hledat: []
+  pozn: "Pflicht – povinnost stvrzená přísahou či slibem, jíž je voják vázán k válečnému pánovi a artikulům; srov. válečný slib (Kriegßpflicht)."
+- id: rejstrik
+  cs: rejstřík
+  de: ['Register']
+  kategorie: zold
+  hledat: ['\brejstří[kc]']
+  pozn: "Soupis mužstva pořízený při přehlídce; podle něj se vyplácí žold a kontroluje početní stav."
+- id: straz
+  cs: stráž
+  de: ['Wacht', 'Wachten']
+  kategorie: sluzba
+  hledat: []
+  pozn: "Wacht – strážní služba i stráž jako oddíl; srov. stálá stráž (Schildwacht) a obchůzka (Scharwacht)."
+- id: kvartyr
+  cs: kvartýr
+  de: ['Quartier']
+  kategorie: opevneni
+  hledat: ['\bkvartýr(?!mist|n)']
+  pozn: "Úsek ležení nebo ubytování přidělený pluku či praporci; rozděluje ho kvartýrmistr."
+- id: poplach
+  cs: poplach
+  de: ['Lermen', 'Lärmen']
+  kategorie: sluzba
+  hledat: ['\bpoplach(u|em|ů|y|ech)?\b']
+  pozn: "Lermen (z ital. all’arme, „do zbraně“) – vyhlášení pohotovosti při ohrožení; troubí se nebo bubnuje."
+- id: vzpoura
+  cs: vzpoura
+  de: ['Meuterey', 'Meutereyen']
+  kategorie: pravo
+  hledat: ['\bvzpour']
+  pozn: "Hromadné vzepření vojáků proti velitelům, zpravidla kvůli žoldu; artikule ji trestají jako jeden z nejtěžších zločinů."
+- id: hrdelni
+  cs: hrdelní (útrpný)
+  de: ['peinlich', 'peinliche', 'peinlichen']
+  kategorie: pravo
+  hledat: []
+  pozn: "Peinlich (od Pein, trýzeň) – týkající se trestů na hrdle a na těle a útrpného výslechu; peinliches Gericht = hrdelní soud."
+- id: lici-forma
+  cs: licí forma
+  de: ['Mödel', 'Model']
+  kategorie: delostrelectvo
+  hledat: ['\blicí\w* form']
+  pozn: "Forma (kadlub) k odlévání koulí do pušek a děl."
+- id: rotni-druh
+  cs: rotní druh
+  de: ['Rottgesell', 'Rottgesellen', 'Gesell', 'Gesellen']
+  kategorie: jednotky
+  hledat: ['\brotní\w* druh']
+  pozn: "Spolubojovník z téže roty (Rotte), skupiny vojáků, kteří spolu táboří a stravují se; „Gesell“ = druh, kamarád – tak se knechti oslovovali navzájem."
+- id: zeug
+  cs: výzbroj a dělostřelectvo (Zeug)
+  de: ['Zeug', 'Zeugs']
+  kategorie: delostrelectvo
+  hledat: []
+  pozn: "Zeug – široký pojem: výzbroj a materiál, dělostřelecký park (děla s nářadím a municí), povozy, ale i vojsko vůbec (reisiger Zeug = jízda, Fußzeug = pěchota). Překládá se podle kontextu."
+- id: vyterak
+  cs: vytěrák
+  de: ['Wüscher', 'Wischer']
+  kategorie: delostrelectvo
+  hledat: ['\bvytěrá[kc]']
+  pozn: "Nástroj na dlouhé násadě k vyčištění a uhašení hlavně děla po výstřelu, před dalším nabitím."
+- id: nabijeci-lopatka
+  cs: nabíjecí lopatka
+  de: ['Ladschauffel', 'Ladschaufflen', 'Ladschauflen']
+  kategorie: delostrelectvo
+  hledat: ['nabíjecí\w* (lopat|lžíc)']
+  pozn: "Lopatka (lžíce) na dlouhé násadě, kterou se do hlavně děla vpravoval volně sypaný prach."

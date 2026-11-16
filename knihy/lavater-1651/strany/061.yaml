@@ -1,0 +1,35 @@
+id: '061'
+list: '61'
+strana: recto
+sken: 95
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    klaffter seyn solle angesteckt vnd brennend in dem Wachthaußhangen: vnd da er die Ronde ablöset/ vier Musquetierer mit disen brennenden Lunden vnd jhren Rohren jhme folgen: darnach gehet er der Ronde zu/ zeucht von läder/ vnd haltet das bloß Wehr der Ronde an das Hertz/ darauff jhme die Ronde das Wort geben muß. So es aber die Hauptronde ist/ vnd es vor mittnacht were/ ist er schuldig derselben das Wort zu geben: nach mittnacht aber ist er keinem solches zu geben schuldig. Wann auch ein Ronde das Wort vnrecht/ oder gar nicht hette/ soll er sie nicht passieren lassen/ sondern widerumb zu ruck schicken. Er soll auch kein Schiltwacht auff ein mal vber zwo stund nicht stehen lassen/ sondern ablösen/ vnd da man kein vhren hören könte/ bey dem Lunden (deren neun daumen zwo stund lang brennen) ablösen lassen. Er solle auch sein gantze Rott fleissig auffgezeichnet haben/ die krancken vnd außgerissenen den Sergeanten oder Wachtmeistern anzeigen: vnd da er auff Wacht/ Convoy oder Füterung etliche Soldaten commandiert/ gleiche vnd gute ordnung ohne klag halten. Er soll auch die doppelten Schiltwachten des nachts Sommers vmb 9. vnd des Winters vmb 7. vhren hinauß stellen. Er soll auch an seinem Ladstecken ein Krätzer/ jtem/ Kugelzieher haben/ damit er seinen Soldaten zu hilff kommen möge: auch soll er mit kertzen gnugsam versehen seyn.
+  cs: |-
+    sáhy dlouhý, zapáleny a hořící zavěšeny ve strážnici. Když přijímá obchůzku {Ronde}, mají ho následovat čtyři mušketýři s těmito hořícími doutnáky a se svými mušketami. Pak jde obchůzce vstříc, tasí zbraň a přiloží obchůzce holou čepel k srdci, načež mu obchůzka musí dát heslo. Je-li to však hlavní obchůzka a je-li před půlnocí, je naopak on povinen dát heslo jí; po půlnoci však není povinen dávat je nikomu. Má-li některá obchůzka heslo nesprávné nebo vůbec žádné, nesmí ji nechat projít, nýbrž ji má poslat zpět. Také nemá nechat žádnou stálou stráž {Schiltwacht} stát najednou déle než dvě hodiny, ale má ji vystřídat; a kde není slyšet bití hodin, má dát střídat podle doutnáku (devět palců doutnáku hoří dvě hodiny). Má mít také celou svou rotu {Rott} pečlivě zapsanou a nemocné a zběhy hlásit seržantům neboli vachmistrům {Wachtmeistern}. Když určuje vojáky na stráž, k doprovodu {Convoy} nebo pro píci {Füterung}, má zachovávat spravedlivé a dobré pořadí, aby si nikdo nemohl stěžovat. Dvojité stráže má v noci vysílat ven v létě v 9 a v zimě v 7 hodin. Na nabijáku má mít vytěrák {Krätzer} a také vytahovač koulí {Kugelzieher}, aby mohl svým vojákům pomoci; a má být také dostatečně zásoben svíčkami.
+- typ: nadpis
+  uroven: 3
+  de: Wie sich ein Corporal im Lermen verhalten solle.
+  cs: Jak si má desátník počínat při poplachu.
+- typ: odstavec
+  de: |-
+    Er solle in eyl seine Soldaten zur Wehr vermahnen/ vnd die Musquetierer in die Streychwehrinen der Bollwercken/ auch in die Affter-streych/ die Spieß aber ein theil in die Stirnen/ ein theil aber in die Courtine stellen: auch allwegen die Hartzpfannen vnd facklen anstecken/ sich mit steinen vnd anderem/ biß Entsatz kommt/ wehren: jnsonderheit auch gut achtung mit seinem Volck auff die Stück geben/ vnd den Constabel zum schiessen/ vnd das Geschütz auff die Feind zu richten/ antreiben: in summa den Soldaten ein gut Exempel vorführen/ vnd sie zur dapfferkeit vermahnen. Vnd nach dem er einen grossen oder kleinen Posten zu verwahren hat/ soll er einen Soldaten von dem anderen etwan 1. 2. 4. 6. schritt von einanderen in jhre distantz stellen/ vnd soll keiner bey Leibsstraaff von seinem Posten weichen/ er werde dann etwan von einem hohen Officier auff ein ander ort commandiert.
+  cs: |-
+    Má rychle vyzvat své vojáky ke zbrani a postavit mušketýry do flank {Streychwehrinen} bašt a také do druhých flank {Affter-streych},[^1] pikenýry {Spieß} pak zčásti na čela {Stirnen} [bašt] a zčásti na kurtinu {Courtine}. Také má všude zapálit smolné pánve {Hartzpfannen} a pochodně a bránit se kameny a čímkoli jiným, dokud nepřijde posila. Zvláště má se svými lidmi dávat dobrý pozor na děla a pobízet konstábla {Constabel}, aby střílel a mířil děly na nepřítele. Zkrátka má jít vojákům dobrým příkladem a povzbuzovat je k udatnosti. A podle toho, zda má hájit velké nebo malé stanoviště {Posten}, má rozestavit vojáky v rozestupech asi 1, 2, 4 či 6 kroků jednoho od druhého; a nikdo nesmí pod tělesným trestem opustit své stanoviště, ledaže by ho vyšší důstojník odvelel na jiné místo.
+- typ: nadpis
+  uroven: 3
+  de: Wie sich die Gefreyten im Lermen verhalten sollen.
+  cs: Jak si mají svobodníci počínat při poplachu.
+- typ: odstavec
+  de: |-
+    So bald sie Lermen vernemmen/ sollen sie sich auß der Corps de garde in die ordnung auff den Marckt stellen/ vnd da das ort am meisten noht leidet zucommandiert/ vnd die nohtleidenden von jhnen secundiert werden: Man soll auch jhnen die Handgranaten geben/ vnd sie selbige anstecken lassen/ vnd sollen in summa sie alles das jenig thun/ wordurch sie vermeynen jhren Eyd vnd Pflichten eingnügen beschehen zu seyn.
+  cs: |-
+    Jakmile uslyší poplach, mají vyjít ze strážnice {Corps de garde} a seřadit se na náměstí; odtud mají být posláni tam, kde je místo v největší nouzi, a mají ohroženým přispět na pomoc. Mají se jim také dát ruční granáty a nechat je, aby je zapalovali. Zkrátka mají svobodníci {Gefreyten} činit vše, čím podle svého mínění učiní zadost své přísaze a povinnostem.
+poznamky:
+- n: 1
+  text: |-
+    Druhá flanka (Affterstreych, fr. second flanc, lat. ala secundaria) je podle Lavaterova výkladu cizích slov ta část kurtiny mezi flankou a místem, kde ji protíná obranná linie; i z ní lze ostřelovat čelo protější bašty.

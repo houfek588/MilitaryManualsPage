@@ -1,0 +1,54 @@
+id: '070'
+list: '70'
+strana: verso
+sken: 104
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    erweiteren/ auch die Contrascarpa mit Sturmpfälen wol zu bewahren: die Thor/ Battereyen/ Brittschen/ Schlagbäum/ Ygel oder Barricaden/ Palissaden/ Stagketen zu reparieren seyen. Vnd da noch zeit vnd weyl genug vorhanden were/ so ist nohtwendig/ daß man allerley Ausserwerck für die Vestung lege/ weil der Feind dardurch von der Hauptvestung lang abgehalten wird/ vnder welchen die meisten die Hornwerck (so man abschneiden mag) Ravelin vnd halbe Mönd gefunden werden. Man solle auch die schießlöcher also anrichten/ damit die Stück nicht creutzweiß wider einanderen lauffen. Jtem: alle hohe Thürn vnd Gebäw/ vnd sonderlich die Camin abheben: dann durch das stäte schiessen die Wäg vnd Plätz/ daran offt vil gelegen/ verfellet werden/ also daß darvor nirgends hinzu kommen: man muß sich auch von dem sprützen vnd fallen der steinen vnd grossen trämeren oder balcken alles schadens besorgen/ vnd da man sie bey zeiten abhebt/ seind die stein/ gemäwr vnd balcken zu anderem gebrauch dienstlich/ so man auff einem besonderen ort bewahren soll.
+  cs: |-
+    rozšířit, a zda je třeba dobře zajistit kontreskarpu {Contrascarpa} útočnými kůly {Sturmpfälen} a opravit brány, baterie {Battereyen}, dělové podlahy {Brittschen},[^1] závory, ježky {Ygel} neboli barikády, palisády {Palissaden} a kůlové ploty {Stagketen}. Je-li ještě dost času a chvíle, je nutné předsunout před pevnost všelijaká vnější díla {Ausserwerck}, protože jimi se nepřítel na dlouho zdrží od hlavní pevnosti; nejčastěji se mezi nimi vyskytují hornwerky {Hornwerck} (které lze odříznout), raveliny {Ravelin} a půlměsíce {halbe Mönd}.[^2] Střílny se mají také zřídit tak, aby děla nestřílela křížem proti sobě. Dále se mají snést všechny vysoké věže a budovy a zvláště komíny, neboť neustálou střelbou se cesty a prostranství, na nichž často mnoho záleží, zavalí sutí, takže se k nim pak nikudy nelze dostat. Je třeba se také obávat všelijaké škody od odletujících a padajících kamenů a velkých trámů či břeven; snesou-li se však včas, poslouží kameny, zdivo a trámy k jiné potřebě, a proto se mají uložit na zvláštním místě.
+- typ: nadpis
+  uroven: 2
+  de: Von Schantzkörben.
+  cs: O šancovních koších.
+- typ: odstavec
+  de: |-
+    Man soll dieselben/ eh der Feind vorhanden/ stellen/ vnd mit reiner Erden oder Mist/ fein dick vnd hart auff einander gestossen/ außfüllen.
+  cs: |-
+    Šancovní koše {Schantzkörben} se mají postavit dřív, než se objeví nepřítel, a naplnit čistou hlínou nebo hnojem, pěkně hustě a natvrdo udusaným.
+- typ: nadpis
+  uroven: 2
+  de: Wie man Sturmhäfelein vnd Krüg mache/ vnd worzu sie dienstlich seyen.
+  cs: Jak se dělají útočné hrnce a džbány a k čemu slouží.
+- typ: odstavec
+  de: |-
+    Solche Häfelein werden von den Hafneren gebacken/ vnd haben einen grossen bauch in der mitte/ vnden einen breiten runden boden/ oben ein enges hälßlein mit einem röhrlein. Dise jrrdine Häfelein werden mit starckem Pulfer gefüllt/ vnd oben hineyn ein stück Lunden eines fingers lang auff das Pulfer gethan/ vnd an dem ausseren ort angesteckt. Wann der Feind stürmet/ so wirfft man sie in den Graben hinab/ worvon sie zerfallen/ vnd durch den Lunden angesteckt werden/ vnd also durch jhre scherben grossen schaden bringen/ auch alles so sie ergreiffen/ verbrennen.
+  cs: |-
+    Takové hrnce {Häfelein} vypalují hrnčíři; mají uprostřed velké břicho, dole široké kulaté dno a nahoře úzké hrdélko s trubičkou. Tyto hliněné hrnce se naplní silným prachem, nahoře se do nich na prach vloží kus doutnáku dlouhý jako prst a na vnějším konci se zapálí. Když nepřítel útočí, hází se dolů do příkopu; tam se roztříští, doutnák je zapálí, a tak svými střepy způsobí velkou škodu a také spálí vše, co zachvátí.
+- typ: nadpis
+  uroven: 2
+  de: Wie die Häfelein mit den Lämeysen gemachet werden.
+  cs: Jak se dělají hrnce s nášlapnými ježky.
+- typ: odstavec
+  de: |-
+    Sie werden flach/ breit vnd rund/ aber nicht hoch gemachet: in der mitte hol/ auch eines grossen Tellers breit: oben haben sie einen riß gleich den Triangeln/ die füllt man mit gerädenem/ reinem/ wolgedörretem vngelöschtem Kalck/ vnd stecket ein Lämeysen darzwischen. Sie seind in dem Sturm gut zu brauchen: dann da sie vnder die Feind geworffen werden/ zerfallen sie/ vnd stäubt alßdann das Kalck dem Feind in das gesicht: vnd ist solcher staub dem gesicht/ vnd die Lämeysen den füssen schädlich vnd verhinderlich.
+  cs: |-
+    Dělají se ploché, široké a kulaté, ale ne vysoké, uprostřed duté a široké jako velký talíř; nahoře mají výřez v podobě trojúhelníku. Plní se prosetým, čistým, dobře vysušeným nehašeným vápnem a dovnitř se zastrčí nášlapný ježek {Lämeysen}. Při útoku se dobře hodí: když se hodí mezi nepřátele, roztříští se a vápno pak nepříteli vlétne do očí. Takový prach škodí zraku a ježci nohám a obojí nepříteli překáží.
+- typ: nadpis
+  uroven: 2
+  de: Wie man sich wegen des vnnützen Gesinds verhalten solle.
+  cs: Jak naložit s neužitečnou chasou.
+- typ: odstavec
+  de: |-
+    So bald man eine Belägerung besorget/ solle man alte betage Leuth/ Kinder/ vnd alles vnstreitbare Volck vnder die Gewölb vnd Keller
+  cs: |-
+    Jakmile se obává obléhání, má se staré a letité lidi, děti a všechen lid neschopný boje pod klenby a do sklepů
+poznamky:
+- n: 1
+  text: Brittschen (Pritsche) – dřevěné podlahy, na nichž stojí děla na valu nebo v baterii.
+- n: 2
+  text: Lavater zde jmenuje ravelin a půlměsíc vedle sebe; v glosáři se oba výrazy vedou pod heslem ravelin.

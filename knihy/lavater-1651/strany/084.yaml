@@ -1,0 +1,163 @@
+id: 084
+list: '84'
+strana: verso
+sken: 130
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Das Exercitium mit der Rondellen vnd Spieß/ wie auch mit der Rondellen vnd Dägen.
+  cs: Cvičení s rondelem a píkou, jakož i s rondelem a kordem {Dägen}
+- typ: nadpis
+  uroven: 3
+  de: Wie man solche Wort im Commando fůhren solle.
+  cs: Jak se mají tyto povely užívat při velení
+- typ: seznam
+  de:
+  - 1. Eweren Spieß niderftellt.
+  - 2. 3. 4. Nembt eweren Spieß auff die Achßlen.
+  - 5. Deckt ewere lincke seiten mit der Rondellen.
+  - 6. Die Brust deckt.
+  - 7. 8. Den Spieß gegen der Porten fellet.
+  - 9. Gegen dem Feind fellet den Spieß.
+  - 10. 11. 12. Den Spieß widerumb niderstellt.
+  - 13. Schleifft den Spieß.
+  - 14. Den spitz des Spiesses deckt mit der Rondellen.
+  - 15. 16. Niderlegt den Spieß.
+  - 17. Durch die Riemen der Rondellen steckt den Arm.
+  - 18. Zuckt die Wehr.
+  - 19. Neben dem Ohr halten das Wehr.
+  - 20. Zwüschen der Rondellen vnd lincken Achßlen halten ewere Wehr.
+  - 21. Vorwerts pręsentiert die Wehr.
+  - 22. Rechts pręsentiert die Wehr.
+  - 23. Erstellt euch.
+  - 24. Steckt die Wehr eyn.
+  - 25. Ziehet den Arm auß den Riemen der Rondellen.
+  - 26. 27. Auff den Rucken werfft die Rondellen.
+  - 28. Den Spieß auffnembt.
+  - 29. 30. Den Spieß niderstellt.
+  cs:
+  - 1. Postavte svou píku {Spieß}.
+  - 2. 3. 4. Vezměte svou píku na rameno.
+  - 5. Kryjte svůj levý bok rondelem {Rondellen}[^1].
+  - 6. Prsa krýt.
+  - 7. 8. Skloňte píku proti bráně.
+  - 9. Proti nepříteli skloňte píku.
+  - 10. 11. 12. Postavte zase píku.
+  - 13. Vlečte píku.
+  - 14. Hrot píky kryjte rondelem.
+  - 15. 16. Položte píku.
+  - 17. Prostrčte paži řemeny rondelu.
+  - 18. Taste zbraň {Wehr}.
+  - 19. Držte zbraň vedle ucha.
+  - 20. Držte svou zbraň mezi rondelem a levým ramenem.
+  - 21. Vpřed namiřte zbraň.
+  - 22. Vpravo namiřte zbraň.
+  - 23. Zpět na místa {Erstellt euch}[^2].
+  - 24. Zastrčte zbraň.
+  - 25. Vytáhněte paži z řemenů rondelu.
+  - 26. 27. Hoďte rondel na záda.
+  - 28. Zvedněte píku.
+  - 29. 30. Postavte píku.
+- typ: nadpis
+  uroven: 2
+  de: Das Exercitium mit dem Schilt oder Targe vnd Dägen.
+  cs: Cvičení se štítem neboli terčem {Targe} a kordem
+- typ: nadpis
+  uroven: 3
+  de: Wie solche Wort gebraucht werden.
+  cs: Jak se tyto povely užívají
+- typ: seznam
+  de:
+  - 1. Erstellt euch.
+  - 2. Mit dem Schilt die linck seiten deckt.
+  - 3. Durch des Schilts Riemen den Arm stoßt.
+  - 4. Zuckt die Wehr/ vnd deckt die Brust.
+  - 5. Neben dem Kopff die Wehr auffhalt.
+  - 6. Deckt die Wehr.
+  - 7. Jn die höhe vber den Kopff halten die Wehr.
+  - 8. Vorwerts pręsentiert vnd deckt euch.
+  - 9. Rechts deckt euch.
+  - 10. Erstellt euch.
+  - 11. Steckt die Wehr eyn.
+  - 12. Auß des Schilts Riemen die Arm ziehet.
+  - 13. Deckt den Rucken mit dem Schilt.
+  cs:
+  - 1. Zpět na místa.
+  - 2. Štítem {Schilt} kryjte levý bok.
+  - 3. Prostrčte paži řemeny štítu.
+  - 4. Taste zbraň a kryjte prsa.
+  - 5. Zbraň držte vzhůru vedle hlavy.
+  - 6. Kryjte zbraň.
+  - 7. Držte zbraň vysoko nad hlavou.
+  - 8. Vpřed namiřte a kryjte se.
+  - 9. Vpravo se kryjte.
+  - 10. Zpět na místa.
+  - 11. Zastrčte zbraň.
+  - 12. Vytáhněte paži z řemenů štítu.
+  - 13. Kryjte záda štítem.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Befelch vnd Wörter fur die gantze Ordnung/ so im wenden vnd dopplieren gebraucht werden.
+  cs: Povely a slova pro celý šik, jichž se užívá při obratech a zdvojování
+- typ: seznam
+  de:
+  - 1. Richtet ewere Glider.
+  - 2. Richtet ewere Reyen.
+  - 3. Rechts vmb.
+  - 4. Erstellt euch.
+  - 5. Lincks vmb.
+  - 6. Erstellt euch.
+  - 7. Rechts vmb kehrt euch.
+  - 8. Lincks erstellt euch.
+  - 9. Lincks vmb kehrt euch.
+  - 10. Rechts erstellt euch.
+  - 11. Rechts dopplieret ewere Glider.
+  - 12. Lincks erstellt euch.
+  - 13. Lincks dopplieret ewere Glider.
+  - 14. Rechts erstellt euch.
+  - 15. Rechts dopplieret ewere Reyen.
+  - 16. Erstellt euch.
+  - 17. Lincks dopplieret ewere Reyen.
+  - 18. Rechts erstellt euch.
+  - 19. Mit halben Reyen rechts dopplieret ewere Glider.
+  - 20. Lincks erstellt euch.
+  - |-
+    21. Mit halben Reyen lincks dopplieret ewere Glider/ rechts erstellt euch.
+  - 22. Mit Reyen
+  cs:
+  - 1. Srovnejte své řady {Glider}.
+  - 2. Srovnejte své zástupy {Reyen}[^3].
+  - 3. Vpravo v bok.
+  - 4. Zpět na místa.
+  - 5. Vlevo v bok.
+  - 6. Zpět na místa.
+  - 7. Vpravo čelem vzad.
+  - 8. Vlevo zpět na místa.
+  - 9. Vlevo čelem vzad.
+  - 10. Vpravo zpět na místa.
+  - 11. Vpravo zdvojte své řady.
+  - 12. Vlevo zpět na místa.
+  - 13. Vlevo zdvojte své řady.
+  - 14. Vpravo zpět na místa.
+  - 15. Vpravo zdvojte své zástupy.
+  - 16. Zpět na místa.
+  - 17. Vlevo zdvojte své zástupy.
+  - 18. Vpravo zpět na místa.
+  - 19. Polovinami zástupů vpravo zdvojte své řady.
+  - 20. Vlevo zpět na místa.
+  - 21. Polovinami zástupů vlevo zdvojte své řady, vpravo zpět na místa.
+  - 22. Po zástupech
+poznamky:
+- n: 1
+  text: |-
+    Rondel (Rondelle, franc. rondache) – kulatý pěší štít, nošený rondelíry spolu s píkou nebo kordem.
+- n: 2
+  text: |-
+    Erstellt euch – povel k návratu do předchozího postavení či směru po obratu (viz výklad na str. [[086|86]]); ekvivalent pozdějšího „Front!“.
+- n: 3
+  text: |-
+    Řada (Glid) = muži stojící vedle sebe (šířka šiku), zástup (Reyen) = muži stojící za sebou (hloubka šiku); viz výklad na str. [[086|86]].
