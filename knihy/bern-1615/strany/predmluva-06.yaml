@@ -1,0 +1,18 @@
+id: predmluva-06
+list: předmluva
+strana: verso
+sken: 10
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mehrerm Nutz/ fürsehen könten/ die zierliche Kriegsvbung/ vnd fertigen gebrauch desselben/ gleich wie andere Nationen/ einzuführen.
+  cs: |-
+    s větším užitkem pečovat mohli – zavést ušlechtilé válečné cvičení a jeho pohotové užívání, tak jako jiné národy.
+- typ: odstavec
+  de: |-
+    Wann wir dann auch den Nutz vnd Frommen/ so auß deß Kriegsdisciplin herrührt/ gar wol erkennet/ vnnd erwogen/ als haben wir dise Kriegsvbung gantz notwendig zu sein erachtet/ vnd deßwegen auch nit allein in vnser Haubtstatt/ sondern zu Statt vnd Land einzuführen entschlossen. Vnd das auch vmb diese motiven/ dieweil wir augenscheinlich gesehen vnd gespürt/ daß vnsere Vnderthanen Neigung zu derselben getragen. Ja daß sie auch mehstetheils gleichsam geschickt/ gutwillig vnd geneigt/ so wol zu schutz/ vnd erhaltung jhres Vatterlands/ vnd jhrer eignen Freyheiten/ als das sie
+  cs: |-
+    Když jsme tedy velmi dobře poznali a uvážili užitek a prospěch, který z válečné disciplíny pramení, uznali jsme toto válečné cvičení za zcela nezbytné, a proto jsme se rozhodli zavést je nejen v našem hlavním městě, nýbrž ve městě i na venkově. A to také z těch pohnutek, že jsme zjevně viděli a pozorovali, že naši poddaní k němu chovají náklonnost; ba že jsou většinou také takříkajíc schopní, ochotní a naklonění jak k ochraně a zachování své vlasti i svých vlastních svobod, tak k tomu, aby

@@ -1,0 +1,35 @@
+id: '040'
+list: '40'
+strana: verso
+sken: 58
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    lincken/ vnnd die lincke an statt der rechten notwendiglich kommen muß/ dardurch er dann sein Postur bekompt.
+  cs: |-
+    levé [ruky] a levá na místo pravé, čímž pak získá svou pozici.
+- typ: nadpis
+  uroven: 3
+  de: Ein anders/ den Spieß hinderwerts zu fellen.
+  cs: Jiný způsob, jak sklopit píku {Spieß} dozadu.
+- typ: odstavec
+  de: |-
+    Man steht in seiner Postur/ vnd tragt den spieß/ flach/ oder abwerts/ laßt denselben so weit gegen dem endt/ oder orht herfür/ als müglich/ durch die rechte Hand schlipffen/ demnach schwingt man den Spieß vber den Kopff/ vnnd kehrt sich rechts vmb/ beides in einer zeit/ vnnd verfaßt volgendts den Spieß mit der lincken hand/ denselben hinderwelts zufellen. Von dem herstellen ist hievor gnugsam gesagt.
+  cs: |-
+    [Voják] stojí ve své pozici a nese píku naplocho nebo skloněnou dolů, nechá ji pravou rukou proklouznout co možná nejdále dopředu ke konci neboli patce, načež švihne píku přes hlavu a zároveň se v jedné době otočí vpravo, a vzápětí uchopí píku levou rukou, aby ji sklopil dozadu[^1]. O návratu do původního postoje bylo již dříve řečeno dost.
+- typ: nadpis
+  uroven: 3
+  de: Herstelt euch.
+  cs: Zaujměte původní postoj.
+- typ: odstavec
+  de: |-
+    Zum 19. sich widerumb herzustellen/ soll er sich mit gantzem Leib auff dem Lincken Fuß rechts vmb schwingen/ den Spieß in allem
+  cs: |-
+    Za 19., chce-li se [voják] opět vrátit do původního postoje, má se celým tělem švihem otočit na levé noze vpravo a píku při celém
+poznamky:
+- n: 1
+  text: >-
+    V tisku „hinderwelts“, zjevná tisková chyba místo „hinderwerts“ (dozadu).

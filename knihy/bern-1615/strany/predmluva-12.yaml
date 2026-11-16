@@ -1,0 +1,25 @@
+id: predmluva-12
+list: předmluva
+strana: verso
+sken: 16
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    schleidern/ vnd im wurff ein Har treffen können. Der König Vsia. 2. Paralip. am 26. cap. hat 307500. Mann gehabt/ welche alle zum Streiten geschickt/ abgericht/ vnd geübt gewesen. Von dem Königlichen Propheten David/ liset man/ wie seine streitbare Helden/ in jhren gewehren zu allen zeiten so hurtig gewesen: deß Königs Zedekia Feldhaubtman Sopher/ hat die Kinder Israel in fridens zeiten lehren Kriegen/ 4. Reg. 25. cap.
+  cs: |-
+    házeli prakem a při vrhu dokázali trefit i vlas. Král Uziáš měl ve 2. knize Paralipomenon ve 26. kapitole 307 500 mužů, kteří všichni byli k boji zdatní, vycvičení a zběhlí. O královském proroku Davidovi se čte, jak hbití byli v každé době jeho udatní hrdinové se svými zbraněmi; polní hejtman {Feldhaubtman} krále Sedechiáše Sofér[^1] učil syny Izraele v dobách míru válčit (4. kniha Královská, 25. kapitola).
+- typ: odstavec
+  de: |-
+    Wann wir auch besehen/ der Römern Policey/ so befinden wir daß sie auch in fridens zeiten der Kriegsdisciplin obgelegen. Vigetius lib. 1. cap. 7. schreibet also: Wir haben erfahren vnd befunden/ das mancher Zug vnd Heer durch vngeschickligkeit deß Krigsvolcks/ die in zeit des Fridens vngeübt gewesen/ vnd durch kunst/ vnd Fürbit/ zum Kriegswesen kommen/ die Feldschlachten verloren/ vnd mercklichen nachtheil empfangen haben.
+  cs: |-
+    Pohledíme-li také na správu věcí veřejných u Římanů, shledáme, že i oni se v dobách míru věnovali válečné disciplíně. Vegetius v 1. knize, 7. kapitole píše takto: „Zkusili jsme a shledali, že mnohé tažení {Zug} a vojsko pro nezpůsobilost válečného lidu, který byl v době míru necvičený a k válečnictví se dostal jen skrze přízeň[^2] a přímluvu, prohrálo polní bitvy a utrpělo citelnou újmu.“
+poznamky:
+- n: 1
+  text: |-
+    V počítání Vulgáty odpovídá 4. kniha Královská dnešní 2. knize Královské (25,19); „Sofér“ (hebr. sófer, písař) byl úředník pověřený odvody lidu.
+- n: 2
+  text: |-
+    Tisková chyba v německé předloze: „kunst“ místo „gunst“ (přízeň, podle lat. originálu Vegetia „per gratiam et suffragia“).

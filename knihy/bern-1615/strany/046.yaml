@@ -1,0 +1,36 @@
+id: '046'
+list: '46'
+strana: verso
+sken: 64
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: Ellebogen frey habe/ sein Gewehr vnverhindert zu führen.
+  cs: lokty volné a mohl nerušeně vládnout svou zbraní {Gewehr}.
+- typ: nadpis
+  uroven: 3
+  de: 13. Lincks schliesset euwre Reyen.
+  cs: 13. Vlevo sevřete své zástupy {Reyen}.
+- typ: odstavec
+  de: |-
+    Da steht die erste Reye auff der lincken seiten still/ vnnd werden die vbrigen daran geschlossen/ wie obgemelt.
+  cs: |-
+    Zde stojí první zástup na levé straně klidně a ostatní se k němu přimknou, jak bylo uvedeno výše.
+- typ: nadpis
+  uroven: 3
+  de: 14. Schliesset euwre Glider.
+  cs: 14. Sevřete své řady {Glider}.
+- typ: odstavec
+  de: |-
+    Da steht das vorderst Glid still/ vnd tretten die andern hinder dasselbig/ Rappiers lenge/ eins nach dem anderen/ als zum Exempel/ wie das ander hinder das erste/ also das dritte hinder das ander/ das vierte hinder das dritte Glid/ vnnd also fortan.
+  cs: |-
+    Zde stojí nejpřednější řada klidně a ostatní přistoupí za ni na délku kordu {Rappiers}, jedna za druhou, jako například druhá za první, stejně tak třetí za druhou, čtvrtá za třetí řadu a tak dále.
+- typ: nadpis
+  uroven: 3
+  de: 15. Rechts offnet euwre Reyen.
+  cs: 15. Vpravo otevřete své zástupy.
+- typ: odstavec
+  de: Das ist/ sie wenden sich auff dem rechten Fuß der rechten Hand nach/
+  cs: To znamená, že se otočí na pravé noze směrem k pravé ruce,

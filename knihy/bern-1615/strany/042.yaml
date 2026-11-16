@@ -1,0 +1,61 @@
+id: '042'
+list: '42'
+strana: verso
+sken: 60
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  de:
+  - 10. Rechts herstelt euch.
+  - 11. Lincks herstelt euch.
+  - 12. Rechts schliesset euwre Reyen.
+  - 13. Lincks schliesset euwre Reyen.
+  - 14. Schliesset euwre Glider.
+  - 15. Rechts offnet euwre Reyen.
+  - 16. Lincks offnet euwre Reyen.
+  - 17. Vorwerts offnet euwre Glider.
+  - 18. Hinderwerts offnet euwre Glider.
+  - 19. Rechts schwingt/ oder schwenckt euch.
+  - 20. Lincks schwenckt euch.
+  - 21. Euwer Reyen rechts vmb kehrt.
+  - 22. Euwer Reyen lincks vmb kehrt.
+  - 23. Euwer Glider rechtes vmb kehrt.
+  - 24. Euwer Glider lincks vmb kehrt.
+  - 25. Rechts doppliert euwre Reyen.
+  - 26. Lincks doppliert euwre Reyen.
+  - 27. Herstelt euch.
+  - 28. Rechts doppliert euwre Glider.
+  - 29. Lincks doppliert euwre Glider.
+  - 30. Herstelt euch.
+  - 31. Rechts doppliert euwre Glider von halben Reyen.
+  cs:
+  - 10. Vpravo zaujměte původní postoj.
+  - 11. Vlevo zaujměte původní postoj.
+  - 12. Vpravo sevřete své zástupy {Reyen}.
+  - 13. Vlevo sevřete své zástupy.
+  - 14. Sevřete své řady {Glider}.
+  - 15. Vpravo otevřete své zástupy.
+  - 16. Vlevo otevřete své zástupy.
+  - 17. Vpřed otevřete své řady.
+  - 18. Vzad otevřete své řady.
+  - 19. Vpravo zakružte, nebo zatočte.[^1]
+  - 20. Vlevo zatočte.
+  - 21. Své zástupy vpravo vbok obraťte.[^2]
+  - 22. Své zástupy vlevo vbok obraťte.
+  - 23. Své řady vpravo vbok obraťte.
+  - 24. Své řady vlevo vbok obraťte.
+  - 25. Vpravo zdvojte své zástupy.
+  - 26. Vlevo zdvojte své zástupy.
+  - 27. Zaujměte původní postoj.
+  - 28. Vpravo zdvojte své řady.
+  - 29. Vlevo zdvojte své řady.
+  - 30. Zaujměte původní postoj.
+  - 31. Vpravo zdvojte své řady z poloviny zástupů.
+poznamky:
+- n: 1
+  text: >-
+    Schwingt / schwenckt euch – zatočení (zakroužení) celého sevřeného šiku kolem krajního zástupu o čtvrt nebo půl kruhu (viz výklad na [[048|str. 48]]).
+- n: 2
+  text: >-
+    U povelů 21–24 znamená „rechts/lincks vmb kehrt“ obrat o 180° (čelem vzad) spojený s protipochodem (kontramaršem) po zástupech či řadách (viz výklad na [[048|str. 48]]–[[049|49]]).

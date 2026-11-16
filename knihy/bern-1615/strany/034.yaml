@@ -1,0 +1,22 @@
+id: '034'
+list: '34'
+strana: verso
+sken: 52
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    lincke Knie seye gebogen/ vnd die beide Füß rechter distantz von einander/ dann fahls sie anderst gesetzt/ wurde er in seinem stoß zu schwach sein.
+  cs: |-
+    koleno ať je pokrčené a obě nohy v patřičném odstupu {distantz} od sebe, neboť kdyby stály jinak, byl by jeho bod příliš slabý.
+- typ: nadpis
+  uroven: 3
+  de: Den Spieß bey der Spitzen/ oder Eysen faßt.
+  cs: Uchopte píku {Spieß} za špičku nebo za železný hrot.
+- typ: odstavec
+  de: |-
+    Zum 10. wie er den Spieß zierlich bey der Spitzen/ oder eysen fassen sol/ geschicht dasselbe mit vbergreiffen/ in dryen griffen oder zeiten/ daß er die Hand recht vber der Hufft mit der Spitzen halte/ steiff wider den Leib ansetze/ oder/ daß er die Spitzen/ oder Eysen mit der rechten Hand fasse/ dieselbe etwas herfür gehn lasse/ den Daumen lengs auff das Eysen lege/ vnnd mit dem rechten Fuß vor stehe.
+  cs: |-
+    Za 10., jak má píku úhledně uchopit za špičku nebo za železný hrot: děje se to přehmatáváním na tři hmaty nebo doby tak, že drží ruku se špičkou přímo nad bokem a pevně ji přitiskne k tělu, anebo uchopí špičku čili železný hrot pravou rukou, nechá ji kousek vyčnívat vpřed, palec položí podélně na železo a stojí s pravou nohou vpředu.

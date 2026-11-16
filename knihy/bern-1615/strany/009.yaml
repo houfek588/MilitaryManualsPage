@@ -1,0 +1,34 @@
+id: 009
+list: '9'
+strana: recto
+sken: 27
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    anderen Fingeren nemmen/ vnnd jederzeit die Musquet in bequemer höche empor halten sol.
+  cs: ostatními prsty a přitom má mušketu {Musquet} stále držet vzhůru v pohodlné výši.
+  pokracovani: true
+- typ: nadpis
+  uroven: 3
+  de: Die Lont abblaßt vnd wol haltet.
+  cs: Ofoukněte doutnák {Lont} a dobře jej držte.
+- typ: odstavec
+  de: |-
+    Zum 7. wie er die Lont mit dem Daum/ vnd den anderen Fingern gefaßt/ biß zum Mund bringen/ vnd abblasen/ vnd sich darnach nicht sehr bücken sol.
+  cs: |-
+    Za sedmé, jak má doutnák uchopený palcem a ostatními prsty přiblížit k ústům a ofouknout jej, a přitom se příliš neshýbat.
+- typ: nadpis
+  uroven: 3
+  de: Die Lont vfftruckt.
+  cs: Přitlačte doutnák.
+- typ: odstavec
+  de: |-
+    Zum 8. wie er die Lont mit dem Daumen/ vnd mit den andern Fingeren wol aufftrucken/ vnd nit auffschrauben soll/ zu welchem ende er die weite des Hanens/ vnd nach der dicke der Lonten richtig halten sol.
+  cs: |-
+    Za osmé, jak má doutnák palcem a ostatními prsty dobře přitlačit a nezašroubovávat jej; za tím účelem má udržovat rozevření kohoutu {Hanens} správně podle tloušťky doutnáku.
+- typ: nadpis
+  uroven: 3
+  de: Die Lonten auffmeßt.
+  cs: Vyměřte doutnák.

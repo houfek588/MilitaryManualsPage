@@ -1,0 +1,34 @@
+id: 019
+list: '19'
+strana: recto
+sken: 37
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Den Ladstecken kurtz faßt.
+  cs: Uchopte nabiják {Ladstecken} nakrátko.
+- typ: odstavec
+  de: |-
+    Zum 29. wie er den Ladstecken desto kürtzer zufassen/ denselben abermal/ wie vorgemelt/ wider den Leib anstossen soll.
+  cs: |-
+    Za devětadvacáté, jak má nabiják znovu opřít o tělo, jak bylo uvedeno výše, aby jej uchopil o to kratčeji.
+- typ: nadpis
+  uroven: 3
+  de: Den Ladstecken wider einsteckt.
+  cs: Zasuňte nabiják zpět.
+- typ: odstavec
+  de: |-
+    Zum 30. wie/ wann er den Ladstecken gantz zu vnderst am ende gefaßt/ denselben mit einem gewissen griff hurtig widerumb in die Laden oder Schafft hinein stossen sol.
+  cs: |-
+    Za třicáté, jak má nabiják, když jej uchopí zcela na spodním konci, jistým hmatem hbitě zasunout zpět do pažby {Laden} neboli {Schafft}.
+- typ: nadpis
+  uroven: 3
+  de: Die Musquet mit lincker Hand herfür bringt.
+  cs: Předneste mušketu {Musquet} levou rukou.
+- typ: odstavec
+  de: |-
+    Zum 31. wie/ wann er die Musquet widerumb in die Hand fassen wil/ dieselb erst mit der Lincken Hand vor sich bringen sol.
+  cs: |-
+    Za jednatřicáté, jak má mušketu, když ji chce opět uchopit do ruky, nejprve levou rukou přednést před sebe.

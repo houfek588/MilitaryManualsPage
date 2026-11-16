@@ -1,0 +1,25 @@
+id: predmluva-14
+list: předmluva
+strana: verso
+sken: 18
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    de excidio Iudaico meldet von den Römern/ daß sie jre gewaltige Monarchien nit durch glück/ sondern durch jre herliche Kriegs disciplin/ vnd Zugenden zu wegen gebracht haben. Vnd es werden auch alle Policey (nechst Gott) durch disen stand geschützt/ vnd verthediget.
+  cs: |-
+    O zkáze židovské[^1] uvádí o Římanech, že své mocné monarchie nedosáhli náhodou, nýbrž skrze svou skvělou válečnou disciplínu a ctnosti.[^2] A také veškerá obecní zřízení jsou (hned po Bohu) tímto stavem chráněna a bráněna.
+- typ: odstavec
+  de: |-
+    Wann dann disem also: Liebe Getrewe/ daß die Kriegsdisciplin vnd Kunst zu allen zeiten so vil Nutz in weltlichen Stande gehabt/ vnd mit sich gebracht: Als machen wir vns kein zweiffel/ jr/ vnsern befelch/ will/ vnd begeren/ nit allein auffnemen: sondern auch alles das jenig/ so wir weiters befehlen/ vnd zu erhaltung vnsern Standes/ gut befinden werden: jhr dasselbig willig/ vnd bereit/ verrichten/ fürnemen/ vnd effectuieren werdet. Datum Bern den 12. Augstmonats. 1615.
+  cs: |-
+    Když tomu tedy tak jest, milí věrní, že válečná disciplína a umění měly ve všech dobách takový užitek pro světský stav a přinášely jej s sebou, nepochybujeme nikterak, že náš rozkaz, vůli a přání nejen přijmete, nýbrž že vše to, co dále přikážeme a k zachování našeho státu uznáme za dobré, ochotně a připraveně vykonáte, uskutečníte a uvedete ve skutek. Dáno v Bernu dne 12. srpna roku 1615.
+poznamky:
+- n: 1
+  text: |-
+    Flavius Josephus, Válka židovská (De bello Judaico, v renesančních překladech a výtazích často zvaná De excidio Judaico), III, 6.
+- n: 2
+  text: |-
+    Tisková chyba v německé předloze: „Zugenden“ místo „Tugenden“ (ctnosti).

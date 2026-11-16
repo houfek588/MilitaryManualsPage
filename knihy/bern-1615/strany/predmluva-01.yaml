@@ -1,0 +1,26 @@
+id: predmluva-01
+list: předmluva
+strana: recto
+sken: 5
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Vorred.
+  cs: Předmluva
+- typ: odstavec
+  de: |-
+    Wir der Schuldtheiß/ der Klein/ vnd Groß Raht/ genant die Zweyhundert der Statt Bern/ Entbieten allen vnnd jeden Weltlichen/ als vnsern Schuldtheissen/ Landtvögten/ Gubernatorn/ Tschachtlanen/ Vögten/ Statthalteren/ Vndervögten/ Freyweiblen/ Ammanen/ Weiblen/ vnd allen vnsern lieben/ getrewen Vassallen/ Lehnherren/ vnd Vnderthanen in vnseren Stetten/ Landen/ vnd Gebieten/ Inwohneren/ Hindersessen/ vnd vnserer Regiments verwaltung/ vnderthenig angehörigen/ vnseren gnedigen vnd günstigen gruß: Liebe Getrewe: Demnach vns nicht vnbewußt/ das die Kriegskunst/ oder Disciplin vnder den dryen
+  cs: |-
+    My, rychtář {Schuldtheiß},[^1] Malá i Velká rada, zvaná Dvě stě města Bernu,[^2] vzkazujeme všem a každému světskému [úředníku], totiž našim rychtářům, zemským fojtům {Landtvögten}, guvernérům {Gubernatorn}, kastelánům {Tschachtlanen}, fojtům {Vögten}, místodržícím {Statthalteren}, podfojtům {Vndervögten}, svobodným šikovatelům {Freyweiblen}, ammanům {Ammanen}, šikovatelům {Weiblen}[^3] i všem našim milým, věrným vazalům, lenním pánům a poddaným v našich městech, zemích a územích, obyvatelům, podsedkům i těm, kdo podléhají správě naší vlády, náš milostivý a příznivý pozdrav: Milí věrní! Jelikož nám není neznámo, že válečné umění neboli disciplína patří mezi tři
+poznamky:
+- n: 1
+  text: |-
+    Schultheiß (česky též šultys či starosta) byl nejvyšším voleným představitelem městské a zemské republiky Bern a předsedou Malé i Velké rady.
+- n: 2
+  text: |-
+    Velká rada (Großer Rat), tradičně zvaná „Dvě stě“ (Die Zweyhundert), byla nejvyšším zákonodárným orgánem Bernu; Malá rada (Kleiner Rat) tvořila užší výkonnou vládu.
+- n: 3
+  text: |-
+    Výčet zachycuje rozvětvenou správu bernských území: v poddanských městech působili rychtáři (Schultheiß), v německých okrscích zemští fojti (Landvogt), ve frankofonním Vaudu guvernéři (Gubernator), v alpských údolích (Simmental, Saanen, Frutigen) kasteláni (Tschachtlan), dále místní fojti, místodržící (Statthalter), podfojti, ammani a soudní i obecní zřízenci (Freyweibel, Weibel).

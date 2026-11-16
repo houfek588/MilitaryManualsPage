@@ -1,0 +1,19 @@
+id: titul
+list: titulní list
+strana: recto
+sken: 3
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung/
+  cs: Stručný přehled a průvodce vojenským výcvikem a manévry
+- typ: odstavec
+  de: |-
+    Also kurtzlich zum Nutz vnd Gebrauch der Löblichen Republic zu Bern/ vnd derselben Stetten/ vnd Landschafft zu samen getragen. Vnd Deß Durchleuchtigen/ Hochgebornen Fürsten vnd Herren/ Herrn MAVRITII, Fürsten zu Oranien/ vnnd Graffen zu Nassaw/ etc. gleichförmig gemacht/ vnd angeordnet.
+  cs: |-
+    takto krátce sestavený k užitku a potřebě chvályhodné Republiky Bern i jejích měst a venkova a přizpůsobený i uspořádaný podle [řádu] osvíceného, vysokorozeného knížete a pána, pana Mořice, knížete oranžského a hraběte nasavského atd.
+- typ: odstavec
+  de: Gedruckt zu Bern/ Im Jar. 1615.
+  cs: Vytištěno v Bernu roku 1615.

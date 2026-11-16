@@ -1,0 +1,16 @@
+id: '027'
+list: '27'
+strana: recto
+sken: 45
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Den Spieß auffhebt/ vnnd auffwerts tragt.
+  cs: Zvedněte píku {Spieß} a neste ji vzhůru.
+- typ: odstavec
+  de: |-
+    IM Anfang wirt gewisen/ wie ein Soldat in auffnemmung deß Spiesses in drey Zeitten oder griffen mit der rechten Hand einwenig ohngeferlich bey zwey oder drey Finger auffs mehest hoch von der Erden auffheben/ das man es schwerlich spüren mag/ demnach ein zierlich schüpffen gegen der Lincken geben sol/ damit er den Spieß mit beyden Händen ohne zwang vnd vertrehen seines Leibs ergreiffe. Darnach fasset er den Spieß ohngefehr in der mitte zwischen der rechten Hand/ vnd dem ende desselben/ als dann erhebt er in mit der Lincken/ vnnd ergreifft den Spieß ringfertig
+  cs: |-
+    Na začátku se ukazuje, jak má voják při zvedání píky na tři doby nebo hmaty pravou rukou zvednout píku od země jen o málo, přibližně nejvýše na dva nebo tři prsty, takže je to sotva patrné, a poté jí má dát úhledné popostrčení směrem k levé [ruce], aby píku uchopil oběma rukama bez nuceného úsilí a kroucení těla. Poté uchopí píku přibližně uprostřed mezi pravou rukou a jejím koncem, načež ji levou [rukou] pozvedne a píku hbitě uchopí

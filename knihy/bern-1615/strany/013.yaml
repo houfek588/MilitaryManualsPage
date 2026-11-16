@@ -1,0 +1,34 @@
+id: '013'
+list: '13'
+strana: recto
+sken: 31
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Die Lont abnembt.
+  cs: Sejměte doutnák {Lont}.
+- typ: odstavec
+  de: |-
+    Zum 14. wie er die Lont wol halten/ vnd damit er sie selbs nit außlösche/ mit den Fingern/ mit denen er sie auffgelegt/ widerumb von dannen nemmen/ vnd nit hinweg rucken muß.
+  cs: |-
+    Za čtrnácté, jak má doutnák dobře držet a těmi prsty, jimiž jej nasadil, jej opět odtamtud sejmout a nikoli jím trhnout, aby jej sám neuhasil.
+- typ: nadpis
+  uroven: 3
+  de: Die Lont wider zwischen die Finger fügt.
+  cs: Vložte doutnák opět mezi prsty.
+- typ: odstavec
+  de: |-
+    Zum 15. wie er die Lont widerumb zwischen den Fingern/ da er sie zuvorhin weg genommen/ fügen sol/ vnd jmmerdar die Musquet in bequemer höche/ empor halte.
+  cs: |-
+    Za patnácté, jak má doutnák opět vložit mezi prsty, odkud jej předtím vzal, a mušketu {Musquet} neustále držet vzhůru v pohodlné výšce.
+- typ: nadpis
+  uroven: 3
+  de: Die Pfann abblaßt.
+  cs: Ofoukněte pánvičku {Pfann}.
+- typ: odstavec
+  de: |-
+    Zum 16. wie er die Funcken/ wo vngeferr etwas auff der Pfannen ligen verbliben/ abblasen sol/ damit das Lad: oder Zündtfleschlin sich nit
+  cs: |-
+    Za šestnácté, jak má odfouknout jiskry, pokud by jich snad trochu zůstalo ležet na pánvičce, aby se prachovnička {Zündtfleschlin}

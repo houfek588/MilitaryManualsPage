@@ -1,0 +1,27 @@
+id: '020'
+list: '20'
+strana: verso
+sken: 38
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Die Musquet mit rechter Hand in die höche/ oder empor/ halt/ vnnd die Gabel erfaßt.
+  cs: |-
+    Držte mušketu {Musquet} pravou rukou do výše nebo vzhůru a uchopte vidlici {Gabel}.
+- typ: odstavec
+  de: |-
+    Zum 32. wie er die Musquet mit rechter Hand bey der grossen schrauben (oder Schwanschrauben) widerumb fassen/ vnd empor halten/ vnnd die Gabel/ so noch hernach schleifft/ an einem Band hanget/ vornen herfür bringen sol/ damit er mit vortheil dieselbe biß in die lincke Hand kommen lassen möge.
+  cs: |-
+    Za dvaatřicáté, jak má mušketu pravou rukou opět uchopit u velkého šroubu (neboli dnového šroubu {Schwanschrauben}) a držet ji vzhůru, a vidlici, která ještě vzadu visí na řemínku a vleče se za ním, přivést dopředu, aby ji mohl obratně nechat přejít až do levé ruky.
+- typ: nadpis
+  uroven: 3
+  de: Auff die Schultern die Musqueten legt.
+  cs: Položte mušketu na rameno.
+- typ: odstavec
+  de: |-
+    Zum 33. wie er die Musquet wol/ leichtlich/ vnd mit einer Hand auff die Schultern legen/ vnd zwischen die Gabel halten sol.
+  cs: |-
+    Za třiatřicáté, jak má mušketu dobře, lehce a jednou rukou položit na rameno a držet ji vedle vidlice.

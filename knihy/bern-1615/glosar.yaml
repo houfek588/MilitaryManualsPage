@@ -1,0 +1,4782 @@
+# Glosář a věcný rejstřík – Bernská výcviková příručka (1615)
+# Formát a pravidla podle PRAVIDLA_PREKLADU.md; základ převzat z knihy lavater-1651.
+
+kategorie:
+  velitele: Velitelé a úřady
+  jednotky: Vojsko, jednotky a šiky
+  delostrelectvo: Dělostřelectvo a munice
+  zbrane: Zbraně a výstroj
+  opevneni: Ležení, opevnění a obléhání
+  pravo: Vojenské právo a soudnictví
+  zold: Žold, peníze a zásobování
+  sluzba: Služba, stráže a pochod
+  osoby: Osoby
+  mista: Místa a národy
+  miry: Míry, váhy a mince
+bez_odkazu:
+- Massen
+hesla:
+- id: valecny-pan
+  cs: válečný pán
+  de:
+  - Kriegsherr
+  - Kriegßherr
+  - Kriegsherz
+  - Kriegßherz
+  - Kriegßherrn
+  - Kriegßherren
+  - Kriegsherren
+  kategorie: velitele
+  hledat:
+  - válečn\w* pán
+  - válečn\w* pan
+  pozn: Panovník nebo vrchnost, která válku vede a platí; zaměstnavatel celého vojska.
+- id: valecny-knize
+  cs: válečný kníže
+  de:
+  - Kriegsfürst
+  - Kriegßfürst
+  - Kriegßfürsten
+  kategorie: velitele
+  hledat:
+  - válečn\w* kníž
+- id: nejvyssi-polni-hejtman
+  cs: nejvyšší polní hejtman
+  de:
+  - General Oberst
+  - General Obersten
+  - Oberster Feldhauptmann
+  - Oberster Feldthauptmann
+  - Oberst Hauptmann
+  - General Oberst Hauptmann
+  - Oberster General Hauptmann
+  - General Oberster
+  - Obersten Feldthauptmann
+  - General Obersten Feldthauptmann
+  - Obersten Feldthauptmanns
+  - Oberst Feldthauptmann
+  nepouzivat:
+  - generální polní kapitán
+  - generální polní hejtman
+  - generální velitel
+  - vrchní velitel
+  kategorie: velitele
+  hledat:
+  - nejvyšší\w* poln\w* hejtman
+  - generál\w* poln\w* (kapitán|hejtman)
+  - generáln\w* velitel
+  - nejvyšš\w* hejtman
+  pozn: Vrchní velitel celého vojska (General Oberst), kterého jmenuje válečný pán, nevede-li vojsko sám. Podléhají mu všechny tři „pluky“ – jízda, pěchota i dělostřelectvo.
+- id: plukovnik
+  cs: plukovník
+  de:
+  - Oberst
+  - Obrist
+  - Oberster
+  - Collonell
+  - Collonel
+  - Collonels
+  - Colonell
+  - Colonells
+  - Obersten
+  - Regiments-Oberst
+  kategorie: velitele
+  hledat:
+  - plukovní[kc]
+  pozn: Velitel pluku (Regiment) – v dobové češtině též „obrist“. U pěchoty „plukovník pěchoty“ (Oberster der Fußknecht), u jízdy je nejvyšším polní maršálek. POZOR – „der Oberst“ bez přívlastku označuje v 1. knize často nejvyššího polního hejtmana a „die Obersten“ nejvyšší velitele obecně; překládej podle kontextu.
+- id: podplukovnik
+  cs: podplukovník
+  de:
+  - Oberst Leutenampt
+  kategorie: velitele
+  hledat:
+  - podplukovní[kc]
+  pozn: Zástupce plukovníka; v pevnosti obvykle zastává úřad komandanta.
+- id: polni-marsalek
+  cs: polní maršálek
+  de:
+  - Feldmarschalck
+  - Feldtmarschalck
+  - Feldtmarschalk
+  - Feldmarschalk
+  - Feldtmarschalcks
+  - Feldmarschalcks
+  nepouzivat:
+  - polní maršál
+  kategorie: velitele
+  hledat:
+  - maršál
+  pozn: Nejvyšší velitel jízdy (reisiger Zeug) a zároveň odpovědný za pořádek v ležení a na pochodu.
+- id: porucik
+  cs: poručík
+  de:
+  - Leutenant
+  - Leutenandt
+  - Leutinant
+  - Locotenent
+  - Leutenants
+  - Leutenammt
+  - Leutenampt
+  - Leutenammten
+  - Lieutenant
+  nepouzivat:
+  - lajtnant
+  kategorie: velitele
+  hledat:
+  - poručí[kc]
+  pozn: Zástupce (místodržící) velitele, z franc. lieutenant; v dobové češtině „lajtnant“. Ne hodnost v dnešním smyslu.
+- id: hejtman
+  cs: hejtman
+  de:
+  - Hauptmann
+  - Hauptman
+  - Hauptleuth
+  - Hauptleute
+  - Hauptleuthen
+  - Hauptmanns
+  - Capitain
+  - Capitains
+  - Capitainen
+  - Hauptmans
+  - Haubtleut
+  kategorie: velitele
+  hledat:
+  - hejtm[aá]n
+  pozn: Velitel praporce (Fähnlein) pěchoty, u jízdy rytmistr; obecně kterýkoli velitel oddílu. Lavater užívá souběžně franc. Capitain (velitel kompanie) – překládá se rovněž „hejtman“.
+  nepouzivat:
+  - kapitán
+- id: rytmistr
+  cs: rytmistr
+  de:
+  - Rittmeister
+  - Rittmeyster
+  kategorie: velitele
+  hledat:
+  - rytmist
+  pozn: Velitel jízdního oddílu (korouhve) – jezdecký hejtman.
+- id: prapornik
+  cs: praporečník
+  de:
+  - Fähnrich
+  - Fänderich
+  - Fendrich
+  - Fänrich
+  - Fänderichen
+  - Fänderichs
+  - Fendrichen
+  kategorie: velitele
+  hledat:
+  - prapore[čc]ní
+  pozn: Nositel praporce (dobově „fendrych“); ručil za korouhev životem a byl třetím mužem praporce po hejtmanovi a poručíkovi.
+- id: podprapornik
+  cs: podpraporečník
+  de:
+  - Vorfendrich
+  kategorie: velitele
+  hledat:
+  - podpraporečník
+  pozn: Nosí praporec na pochodu místo praporečníka, velí svobodníkům a rozděluje prach, olovo a komis.
+- id: kornet
+  cs: kornet
+  de:
+  - Cornet
+  kategorie: velitele
+  hledat:
+  - \bkornet
+  pozn: 'Praporečník jízdní kompanie a zároveň označení jízdní kompanie samé (Lavater: „ein Compagnie Reuter oder desselben Fendrich“).'
+- id: korouhevni-junkr
+  cs: korouhevní junkr
+  de:
+  - Fahnen-Juncker
+  kategorie: velitele
+  hledat:
+  - korouhevn\w* junk
+  pozn: Čekatel důstojnické hodnosti u korouhve jízdy.
+- id: sikovatel
+  cs: šikovatel
+  de:
+  - Feldweibel
+  - Feldtweybel
+  - Feldweybel
+  - Weibel
+  - Weybel
+  - Weybeln
+  - Weiblen
+  kategorie: velitele
+  hledat:
+  - šikovatel
+  pozn: Feldwebel – poddůstojník, který „šikuje“, tj. staví mužstvo do řad a šiků a předává rozkazy.
+- id: obecni-sikovatel
+  cs: obecní šikovatel
+  de:
+  - Gemeinweibel
+  - Gemeynweybel
+  - gemeyn weybel
+  - gemeyn Weybel
+  - gemeynen Weybel
+  kategorie: velitele
+  hledat:
+  - obecn\w* šikovatel
+  pozn: Volený zástupce obce (mužstva) praporce, který přednáší jejich stížnosti a požadavky hejtmanovi.
+- id: hurenweibel
+  cs: šikovatel trénu
+  de:
+  - Hurnweybel
+  - Hürnweybel
+  - Hurenweibel
+  - Hürnweybels
+  kategorie: velitele
+  hledat:
+  - šikovatel\w* trénu
+  - hurenv
+  pozn: Hurenweibel – dozorce nad trénem (Tross), tj. nad ženami, chlapci, sluhy, markytány a vozy; udržoval v něm pořádek na pochodu i v ležení.
+- id: rotmistr
+  cs: rotmistr
+  de:
+  - Rottmeister
+  - Rottmeyster
+  - Rottmeystern
+  nepouzivat:
+  - rotný
+  kategorie: velitele
+  hledat:
+  - rotmist
+  - rotn[ýé]
+  pozn: Vedoucí roty (Rotte), nejmenšího útvaru o 6–10 mužích, kteří spolu táboří a jedí.
+- id: profous
+  cs: profous
+  de:
+  - Profos
+  - Profoß
+  - Profoss
+  - Profof
+  - Profosen
+  - Profofen
+  - Feldprofos
+  - Feldtprofos
+  - Oberster Feldtprofoß
+  - Feldt Profosen
+  - General Profoß
+  - General-Profosen
+  nepouzivat:
+  - profos
+  kategorie: pravo
+  hledat:
+  - profous
+  - profos
+  pozn: Vojenský policejní úředník a žalobce – zatýká, střeží vězně, dohlíží na trh v ležení a určuje ceny; nejvyšší polní profous (Oberster Feldprofos) působí u celého vojska.
+- id: rychtar
+  cs: rychtář
+  de:
+  - Schultheiß
+  - Schultheyß
+  - Schultheys
+  - Schultheyssen
+  - Schulteissen
+  - Regiments-Schultheiß
+  - Regiment Schultheiß
+  - Blutrichter
+  - Oberstenrichter
+  - Schuldtheiß
+  - Schuldtheissen
+  nepouzivat:
+  - sudí
+  kategorie: pravo
+  hledat:
+  - rychtář
+  pozn: Schultheiß – v říšských plucích předseda plukovního soudu; ve švýcarských městských republikách (např. v Bernu) nejvyšší volený představitel města a republiky (šultys).
+- id: kvartyrmistr
+  cs: kvartýrmistr
+  de:
+  - Quartiermeister
+  - Quartiermeyster
+  - Quartiermeysters
+  - Quartiermeystern
+  - General-Quartiermeister
+  - Special-Quartiermeisteren
+  nepouzivat:
+  - ubytovatel
+  kategorie: sluzba
+  hledat:
+  - kvartýrmist
+  - kvartírmist
+  pozn: Ubytovatel – jede s předvojem napřed, vyměřuje ležení a rozděluje ubytování (losamenty) jednotlivým praporcům.
+- id: obvodni-hejtman
+  cs: obvodní hejtman
+  de:
+  - Quartierhauptmann
+  - Quartier-Hauptleuth
+  - Quartierhauptleuhten
+  kategorie: velitele
+  hledat:
+  - obvodn\w* hejtman
+  - kvartýrn\w* hejtman
+  - čtvrťov\w* hejtman
+  pozn: Velitel domobrany jednoho vojenského obvodu (Quartier) curyšského venkova.
+- id: furyr
+  cs: furýr
+  de:
+  - Furier
+  - Furierer
+  - Fourier
+  nepouzivat:
+  - furiér
+  - furiant
+  kategorie: sluzba
+  hledat:
+  - fur[ýi]r
+  - furián
+  pozn: Pomocník kvartýrmistra u praporce, který přebírá a rozděluje ubytování a píce.
+- id: vachmistr
+  cs: vachmistr
+  de:
+  - Wachtmeister
+  - Wachtmeyster
+  - Wachtmeysters
+  - Wachtmeystern
+  nepouzivat:
+  - vachtmistr
+  - strážmistr
+  kategorie: sluzba
+  hledat:
+  - vachmist
+  - vachtmist
+  - strážmist
+  pozn: Velitel stráží – rozvrhuje hlídky, obchůzky a heslo pro noc. U Lavatera poddůstojník kompanie (dva v kompanii), podle jeho slovníčku totéž co seržant (Sergeant); Oberster Wachtmeister viz nejvyšší vachmistr.
+- id: serzant
+  cs: seržant
+  de:
+  - Sergeant
+  - Sergeanten
+  kategorie: velitele
+  hledat:
+  - \bseržant(?!\s?-?major)
+  pozn: Poddůstojník kompanie; podle Lavaterova slovníčku synonymum vachmistra kompanie. Text užívá oba výrazy, často ve dvojici „seržant neboli vachmistr“.
+- id: nejvyssi-vachmistr
+  cs: nejvyšší vachmistr
+  de:
+  - Oberste Wachtmeister
+  - Obersten Wachtmeister
+  - Oberst Wachtmeister
+  - Obrist-Wachtmeister
+  - Sergeant Major
+  - Sergeant Majorn
+  - Major
+  - Majorn
+  - Majoren
+  kategorie: velitele
+  hledat:
+  - nejvyšš\w* vachmist
+  - seržant\s?-?major
+  - \bmajor
+  pozn: 'Major pevnosti či pluku: rozděluje stráže, vydává večer heslo a rozkaz, zamyká a odmyká brány a drží klíče. V textu většinou „major“, místy „seržant major“.'
+  nepouzivat:
+  - vyšší strážmistr
+- id: podmajor
+  cs: podmajor
+  de:
+  - Vnder-Major
+  - Vnder-Majorn
+  - Vnder-Wachtmeister
+  kategorie: velitele
+  hledat:
+  - podmajor
+  - podvachmist
+  pozn: Zástupce nejvyššího vachmistra (majora), za něhož zamyká a odmyká brány.
+- id: generalmajor
+  cs: generálmajor
+  de:
+  - General Major
+  kategorie: velitele
+  hledat:
+  - generálmajor
+  pozn: Generální vachmistr armády; každý večer přebírá od generála rozkaz a heslo a rozvádí je plukům.
+- id: pobocnik
+  cs: pobočník
+  de:
+  - General Adjutant
+  - Adjutant
+  - Adjutor
+  kategorie: velitele
+  hledat:
+  - pobočník
+  - \badjutant
+  pozn: Adjutant – pomocník majora či generálmajora, roznáší rozkazy; generální pobočník rozvádí rozkazy polovině pluků.
+- id: proviantmistr
+  cs: proviantmistr
+  de:
+  - Profandtmeister
+  - Profandtmeyster
+  - Proviantmeister
+  - Profandmeyster
+  - Prouantmeyster
+  - Prouandmeyster
+  - Profandtmeystern
+  - Profandtmeysters
+  - Proviantmeistern
+  - Vnder-Proviantmeistern
+  kategorie: zold
+  hledat:
+  - proviantmist
+  pozn: Úředník odpovědný za zásobování vojska potravinami a za jejich rozdělování a ceny.
+- id: proviantni-pan
+  cs: proviantní pán
+  de:
+  - Proviantherr
+  - Proviant-Herr
+  - Proviantherren
+  - Commissherr
+  - Commissari des Vivres
+  - Commissarius des Vivres
+  - Commissarij des Viures
+  - Commissari des Proviants
+  kategorie: zold
+  hledat:
+  - proviantní\w* pán
+  - komisař\w* potravin
+  - komisní\w* pán
+  pozn: Úředník vrchnosti nadřízený proviantmistrům, odpovídá za zásoby pevnosti (franc. commissaire des vivres).
+- id: pokladnik
+  cs: pokladník
+  de:
+  - Pfennigmeister
+  - Pfennigmeyster
+  - Pfenningmeyster
+  - Pfenningmeister
+  - Pfennigmeysters
+  nepouzivat:
+  - finanční správce
+  - mincmistr
+  kategorie: zold
+  hledat:
+  - pokladní[kc]
+  - finanční\w* správ
+  pozn: Pfennigmeister – válečný pokladník, který přijímá peníze od válečného pána a vyplácí žold podle přehlídkových rejstříků.
+- id: prehlidkovy-komisar
+  cs: přehlídkový komisař
+  de:
+  - Musterherr
+  - Musterherren
+  - Musterherrn
+  - Musterherm
+  - General-Musterherr
+  nepouzivat:
+  - mustermajstr
+  - mustrmajstr
+  kategorie: zold
+  hledat:
+  - přehlídkov\w* komisař
+  - mustermajst
+  - mustrher
+  pozn: Komisař válečného pána, který při přehlídce (mustrunku) kontroluje počet a výzbroj mužů, aby se platil jen skutečně přítomný a způsobilý lid.
+- id: valecny-rada
+  cs: válečný rada
+  de:
+  - Kriegsrath
+  - Kriegßrath
+  - Kriegsräth
+  - Kriegszäth
+  - Kriegßräthen
+  - Kriegs-Raht
+  - Kriegs-Rähten
+  - Kriegs-Rahts
+  kategorie: velitele
+  hledat:
+  - válečn\w* rad
+  pozn: Člen válečné rady – sboru zkušených mužů, s nimiž se nejvyšší polní hejtman radí o tažení.
+- id: komisar
+  cs: komisař
+  de:
+  - Commissari
+  - Commissarien
+  - Commissarius
+  kategorie: velitele
+  hledat:
+  - komisař
+- id: herold
+  cs: herold
+  de:
+  - Herold
+  - Heroldt
+  kategorie: velitele
+  hledat:
+  - \bherold
+  pozn: Posel a vyjednavač, jehož osoba je nedotknutelná; ohlašuje válku, vyzývá k vzdání a sčítá padlé.
+- id: pisar
+  cs: písař
+  de:
+  - Schreiber
+  - Musterschreiber
+  kategorie: velitele
+  hledat:
+  - písař
+- id: zbrojmistr
+  cs: zbrojmistr
+  de:
+  - Zeugmeister
+  - Zeugmeyster
+  - Feldzeugmeister
+  - Feldtzeugmeyster
+  - Oberster Zeugmeyster
+  - Zeugmeysters
+  - Zeugmeystern
+  - Obersten Zeugmeysters
+  - Oberst Feldtzeugmeyster
+  nepouzivat:
+  - zbrojní mistr
+  kategorie: delostrelectvo
+  hledat:
+  - zbrojmist
+  - zbrojní\w* mist
+  pozn: Velitel dělostřelectva a zbrojnice (Zeugmeister); nejvyšší (polní) zbrojmistr velí celému dělostřeleckému „pluku“.
+- id: zbrojni-pan
+  cs: zbrojní pán
+  de:
+  - Zeugherr
+  - Zeugherren
+  kategorie: delostrelectvo
+  hledat:
+  - zbrojní\w* pán
+  - správc\w* zbrojnic
+  pozn: Zeugherr – člen městské vrchnosti, který spravuje zbrojnici a dělostřelectvo pevnosti; nadřízený konstáblů. Odlišit od zbrojmistra (Zeugmeister).
+- id: spravce-zbroje
+  cs: zbrojní správce
+  de:
+  - Zeugwart
+  - Zeugtvart
+  - Zeugwarten
+  - Zeugwartten
+  nepouzivat:
+  - zbrojíř
+  kategorie: delostrelectvo
+  hledat:
+  - zbrojní\w* správ
+  - zbrojíř
+  pozn: Zeugwart – skladník dělostřelectva, který vede inventář děl, prachu, koulí a nářadí a denně zapisuje spotřebu.
+- id: spravce-zbrani
+  cs: správce zbraní
+  de:
+  - Capitain des armes
+  - Rüstmeister
+  - Rüstmeisteren
+  - Gewehrmeister
+  kategorie: velitele
+  hledat:
+  - správc\w* zbraní
+  - kapitán\w* zbraní
+  - mistr\w* výzbroje
+  pozn: Capitain des armes – poddůstojník kompanie, který spravuje zbraně a zbroj, vyzvedává prach, olovo a doutnáky a přebírá zbraně zemřelých a zběhů.
+  nepouzivat:
+  - kapitán zbraní
+- id: puskar
+  cs: puškař
+  de:
+  - Büchsenmeister
+  - Büchsenmeyster
+  - Buchsenmeyster
+  - Büchssenmeyster
+  - Büchßenmeyster
+  - Büchsenmeystern
+  kategorie: delostrelectvo
+  hledat:
+  - puškař
+  pozn: Dělostřelec, mistr obsluhy děla (Büchsenmeister); „puška“ znamenala ve staré češtině i dělo.
+- id: konstabl
+  cs: konstábl
+  de:
+  - Constabel
+  - Constabels
+  - Constabler
+  - Constablers
+  - Constablern
+  - Constaffel
+  - Constaffels
+  - Cannonier
+  - Canonier
+  - Canoniers
+  kategorie: delostrelectvo
+  hledat:
+  - konstábl
+  - kanonýr
+  pozn: 'Dělostřelec 17. století, který nabíjí a míří dělo; odpovídá puškaři (Büchsenmeister). Lavaterův slovníček: Cannonier = Constabel.'
+- id: slechtic-od-del
+  cs: dělostřelecký šlechtic
+  de:
+  - Edelmann vom Geschütz
+  - Edelleuth von dem Geschütz
+  kategorie: delostrelectvo
+  hledat:
+  - dělostřeleck\w* šlecht
+  pozn: Franc. gentilhomme de l’artillerie – urozený nižší důstojník dělostřelectva, velí baterii.
+- id: petardyr
+  cs: petardýr
+  de:
+  - Petardier
+  kategorie: delostrelectvo
+  hledat:
+  - petardýr
+  pozn: Voják, který zakládá petardy k vyražení bran.
+- id: ohnostrujce
+  cs: ohňostrůjce
+  de:
+  - Fewrspeutzer
+  - Fewerspeutzern
+  - Fewrwercker
+  kategorie: delostrelectvo
+  hledat:
+  - ohňostrůjc
+  pozn: Zhotovuje a obsluhuje válečný ohňostroj (zápalné a výbušné prostředky).
+- id: pionyr
+  cs: pionýr
+  de:
+  - Bineurs
+  - Bioneurs
+  kategorie: delostrelectvo
+  hledat:
+  - pionýr
+  pozn: Pracovník (lopatář) při dělostřelectvu pro úpravu cest, mostů a zákopů; odlišit od šancíře.
+- id: matros
+  cs: matros
+  de:
+  - Matrosen
+  kategorie: delostrelectvo
+  hledat:
+  - matros
+  pozn: Lodník při dělostřelectvu („Schiff- oder Botsgesellen“), obsluhuje lodní most.
+- id: sancmistr
+  cs: šancmistr
+  de:
+  - Schanzmeister
+  - Schantzmeyster
+  - Schankmeysters
+  - Schantzmeysters
+  kategorie: opevneni
+  hledat:
+  - šancmist
+  pozn: Vedoucí opevňovacích prací – vyměřuje a staví šance, příkopy a postavení pro děla.
+- id: inzenyr
+  cs: inženýr
+  de:
+  - Ingenieur
+  - Jngenieur
+  - Jngenieurs
+  kategorie: opevneni
+  hledat:
+  - inženýr
+  pozn: Stavitel pevností a obléhacích prací (Freytag „der Jngenieur“, s. 1).
+- id: miner
+  cs: minér
+  de:
+  - Mineurs
+  kategorie: opevneni
+  hledat:
+  - \bminér
+  pozn: Mistr podkopávání, který zakládá miny.
+- id: sancir
+  cs: šancíř
+  de:
+  - Schanzbauer
+  - Schantzbawr
+  - Schantzbawren
+  - Schankbawren
+  - Schantzbawrn
+  - Santzbawren
+  - Schauffelbawren
+  - Schantzengräber
+  - Schantzer
+  nepouzivat:
+  - zákopník
+  kategorie: opevneni
+  hledat:
+  - šancíř
+  - zákopník
+  pozn: Najatý nebo povinně odvedený sedlák, který kope šance a příkopy a upravuje cesty pro dělostřelectvo; měl vlastní praporec a hejtmana.
+- id: vozmistr
+  cs: vozmistr
+  de:
+  - Geschirrmeister
+  - Geschirrmeyster
+  - Wagenmeister
+  - Wagenmeyster
+  - Geschirrmeysters
+  - General-Wagenmeister
+  kategorie: delostrelectvo
+  hledat:
+  - vozmist
+  pozn: Úředník nad vozy, koňmi a postroji (Geschirr) dělostřelectva či trénu.
+- id: drabant
+  cs: drabant
+  de:
+  - Trabant
+  - Trabanten
+  - Trabanti
+  nepouzivat:
+  - trabant
+  kategorie: velitele
+  hledat:
+  - drabant
+  - trabant
+  pozn: Osobní strážce velitele, obvykle s halapartnou; doprovod i pořádková služba.
+- id: profousuv-pacholek
+  cs: profousův pacholek
+  de:
+  - Steckenknecht
+  - Steckenknechte
+  - Steckenknechten
+  kategorie: pravo
+  hledat:
+  - profous\w* pachol
+  - drábové
+  - dráb
+  pozn: Steckenknecht – pomocník profouse s holí (Stecken), který zatýká a vykonává tresty.
+- id: zalarnik
+  cs: žalářník
+  de:
+  - Stockmeister
+  - Stockmeyster
+  kategorie: pravo
+  hledat:
+  - žalářní
+- id: pozarni-mistr
+  cs: požární mistr
+  de:
+  - Brandtmeister
+  - Brandmeister
+  kategorie: sluzba
+  hledat:
+  - požární\w* mist
+  pozn: Řídí hašení požárů v pevnosti a ležení.
+- id: kat
+  cs: kat
+  de:
+  - Nachrichter
+  - Freymann
+  - freyen Mann
+  - Hencker
+  - Scharpffrichter
+  kategorie: pravo
+  hledat:
+  - \bkat\b
+  - \bkata\b
+  - \bkatovi\b
+  - popravčí
+- id: ranhojic
+  cs: ranhojič
+  de:
+  - Feldscherer
+  - Feldtscherer
+  - Feldschärer
+  - Feldtschärer
+  - Wundartzt
+  - Wundartzet
+  - Wundartzets
+  kategorie: velitele
+  hledat:
+  - ranhojič
+  pozn: Polní chirurg a lazebník (Feldscher), ošetřoval rány a zlomeniny.
+- id: kaplan
+  cs: kaplan
+  de:
+  - Caplan
+  - Capplon
+  kategorie: velitele
+  hledat:
+  - kaplan
+- id: pluk
+  cs: pluk
+  de:
+  - Regiment
+  - Regimenten
+  - Regiments
+  kategorie: jednotky
+  hledat:
+  - \bpluk
+  pozn: Regiment – jednak útvar o více praporcích pod plukovníkem, jednak „vláda, správa, zřízení“ (tak v titulu knihy); Fronsperger dělí vojsko na tři „regimenty“ – jízdu, pěchotu a dělostřelectvo.
+- id: praporec
+  cs: praporec
+  de:
+  - Fähnlein
+  - Fändlin
+  - Fåndlin
+  - Fendlin
+  - Fähnlin
+  - Fändlins
+  - Fändlein
+  - Fendlein
+  - Fendlinen
+  - Fendlem
+  kategorie: jednotky
+  hledat:
+  - praporc
+  - praporec
+  - praporc
+  pozn: Fähnlein – základní útvar pěchoty (asi 300–500 mužů) pod hejtmanem, pojmenovaný podle své korouhve; slovo označuje útvar i samotný prapor.
+- id: korouhev
+  cs: korouhev
+  de:
+  - Fahne
+  - Standarte
+  - Fanen
+  - Hauptfanen
+  - Fahnen
+  kategorie: jednotky
+  hledat:
+  - korouh
+  pozn: Prapor jízdy nebo vyšší korouhev; u pěchoty se pro prapor i útvar užívá „praporec“.
+- id: rota
+  cs: rota
+  de:
+  - Rotte
+  - Rott
+  - Rotten
+  kategorie: jednotky
+  hledat:
+  - \brot[aěuyo]\b
+  - \brotám
+  - \brotách
+  pozn: Rotte – nejmenší útvar pěchoty o 6–10 mužích pod rotmistrem (ne dnešní rota = setnina).
+- id: lancknecht
+  cs: lancknecht
+  de:
+  - Landsknecht
+  - Landsknechte
+  - Landtsknecht
+  - Landsknechten
+  nepouzivat:
+  - landsknecht
+  kategorie: jednotky
+  hledat:
+  - lan[cd]s?knecht
+  pozn: Německý pěší žoldnéř 16. století, organizovaný v praporcích a plucích.
+- id: pechota
+  cs: pěchota
+  de:
+  - Fußvolk
+  - Fußuolck
+  - Fußknecht
+  - Fußknechte
+  - Füßuolck
+  - Fůßvolck
+  - Fůßknechten
+  - Füßuolcks
+  - Fůßzeug
+  kategorie: jednotky
+  hledat:
+  - pěchot
+  - pěší
+- id: jizda
+  cs: jízda
+  de:
+  - Reisige
+  - Reysigen
+  - Reysige
+  - reisiger Zeug
+  - Reysigen Zeug
+  - Keysigen
+  - gereysige
+  - Reuterey
+  - Reuter
+  - Reuteren
+  nepouzivat:
+  - jezdecká hotovost
+  kategorie: jednotky
+  hledat:
+  - \bjízd
+  - \bjezd
+  pozn: Reisige / reisiger Zeug – zbrojná jízda, ozbrojení jezdci na koni (šlechtici i nájemní jezdci); „Zeug“ zde znamená vojenskou hotovost.
+- id: dvojzoldner
+  cs: dvojžoldnéř
+  de:
+  - Doppelsöldner
+  - Doppelföldner
+  - Toppelföldner
+  - Toppelsöldner
+  - Toppelsöldnern
+  - Doppelsöldnern
+  kategorie: jednotky
+  hledat:
+  - dvojžold
+  - dvojit\w* žold
+  pozn: Doppelsöldner – zkušený nebo lépe vyzbrojený knecht (plná zbroj, dlouhá píka, obouruční meč, hákovnice), který bral dvojnásobný žold a stál v prvních řadách.
+- id: obec
+  cs: obec
+  de:
+  - Gemein
+  - Gemeyn
+  - gemeyne Knecht
+  - gemeyner Mann
+  - gemeynen Mann
+  - gemeyn Mann
+  kategorie: jednotky
+  hledat:
+  - \bobec\b
+  - \bobce\b
+  - obecn\w* shromáž
+  pozn: Gemeine – celé mužstvo praporce či pluku jako samosprávné společenství, které se schází v kruhu.
+- id: kruh
+  cs: kruh
+  de:
+  - Ring
+  kategorie: pravo
+  hledat:
+  - \bkruh
+  pozn: Ring – shromáždění mužstva v kruhu, kde se čtou artikule, skládá přísaha, oznamují rozkazy a koná soud (zvl. právo dlouhých pík); obec v něm hlasuje zvednutím rukou.
+- id: sik
+  cs: šik
+  de:
+  - Ordnung
+  - Schlachtordnung
+  - Hauffen
+  - Hauf
+  - geuierte Ordnung
+  - ziehordnung
+  - ziehordnungen
+  - geuierte Schlachtordnung
+  - geuierte Schlachtordnungen
+  - Schlachtordnungen
+  - Ordnungen
+  - Battaille
+  - Bataille
+  - Haupt-Battaille
+  kategorie: jednotky
+  hledat:
+  - \bšik(u|y|ů|em|ách|ovat)?\b
+  - bitevn\w* šik
+  - \bhouf(?!nic)
+  pozn: Schlachtordnung – bitevní sestava; Fronsperger počítá čtvercové šiky („geviert“) z počtu mužů v řadě (viz řada). Hauffen = houf, velký šik; „ziehordnung“ = pochodový šik, „gespitzt“ = zašpičatělý (klínovitý) šik.
+- id: zakladni-sik
+  cs: základní šik
+  de:
+  - Fundamentordnung
+  - Fundamentsordnung
+  - fundamentals Ordnung
+  kategorie: jednotky
+  hledat:
+  - základn\w* šik
+  pozn: Švadrony postavené v jedné frontě, z níž se tvoří bitevní šiky (s. 101–102).
+- id: postojovy-sik
+  cs: postojový šik
+  de:
+  - Stellordnung
+  kategorie: jednotky
+  hledat:
+  - postojov\w* šik
+  - šik\w* postojov
+  pozn: První seřazení kompanie či pluku rozdělené na švadrony, z něhož se tvoří pochodový šik.
+- id: pochodovy-sik
+  cs: pochodový šik
+  de:
+  - Zugordnung
+  kategorie: jednotky
+  hledat:
+  - pochodov\w* šik
+  - šik\w* pochodov
+  pozn: Šik roztažený do délky k pochodu, jednoduchý nebo dvojitý.
+- id: oddil
+  cs: oddíl
+  de:
+  - Trouppen
+  - Trouppe
+  - Trüpplein
+  - Truppen
+  kategorie: jednotky
+  hledat:
+  - \boddíl
+  pozn: Trouppe – oddíl vojska libovolné velikosti; Trüpplein = menší houfek.
+- id: kridlo
+  cs: křídlo
+  de:
+  - Flügel
+  - flüglen
+  kategorie: jednotky
+  hledat:
+  - \bkřídl
+  pozn: Oddíl mušketýrů po boku pík, též křídlo jízdy či celého šiku.
+- id: trén
+  cs: trén
+  de:
+  - Troß
+  - Tross
+  - Trosser
+  - Tro
+  nepouzivat:
+  - týlový doprovod
+  kategorie: sluzba
+  hledat:
+  - trén
+  - týlov\w* doprovod
+  pozn: Tross – vozy, koně, ženy, děti, chlapci a sluhy, kteří táhli s vojskem („Huren und Buben“).
+- id: pacholek
+  cs: pachole
+  de:
+  - Jung
+  - Junge
+  - Jungen
+  kategorie: jednotky
+  hledat:
+  - pachol
+  pozn: Chlapec (Junge) ve službě vojáka nebo důstojníka; pro něj se počítal zvláštní žold nebo podíl.
+- id: delostrelectvo
+  cs: dělostřelectvo
+  de:
+  - Arckelley
+  - Arckeley
+  - Artollerey
+  - Arckellen
+  - Arcelleyen
+  - Arctelley
+  - Artillerey
+  - Artillerie
+  - Arkeley
+  kategorie: delostrelectvo
+  hledat:
+  - dělostřel
+  - artiler
+  pozn: Arckeley (z ital. artiglieria) – dělostřelectvo včetně vozů, munice a personálu; tvořilo samostatný „pluk“. Obdobně „Zeug“ = dělostřelectvo i jeho výzbroj (dělostřelecký park, materiál), u jízdy (reisiger Zeug) však vojenská hotovost.
+- id: dela
+  cs: děla
+  de:
+  - Geschütz
+  - Geschüß
+  - Geschuß
+  - Geschuk
+  - Büchse
+  - Büchsen
+  - Stück
+  - Stücken
+  - Büchs
+  - Büchßen
+  - Feldgeschütz
+  - Feldtgeschütz
+  - Canon
+  - Feldstück
+  kategorie: delostrelectvo
+  hledat:
+  - \bděl(o|a|u|em|y|ům|ech|ami)?\b
+  pozn: Geschütz / Büchse / Stück – obecně palné zbraně, zvl. děla; „kus“ (Stück) je jednotlivé dělo. POZOR – u pěchoty a jednotlivých vojáků je „Büchse“ (Handbüchse) ruční palná zbraň – puška, ručnice.
+- id: zbrojnice
+  cs: zbrojnice
+  de:
+  - Zeughaus
+  - Zeughauß
+  - Zeughäuser
+  kategorie: delostrelectvo
+  hledat:
+  - zbrojnic
+- id: borice-hradeb
+  cs: bořič hradeb
+  de:
+  - Mauerbrecher
+  - Mawrbrecherin
+  - Mawerbrecher
+  kategorie: delostrelectvo
+  hledat:
+  - bořič
+  pozn: Mauerbrecher – těžké obléhací dělo k prolamování hradeb.
+- id: sarfmece
+  cs: šarfmece
+  de:
+  - Scharpffmetze
+  - Scharpffmeken
+  - Scharfmetze
+  - Scharpffmetzen
+  - Matzicana
+  kategorie: delostrelectvo
+  hledat:
+  - šarfmec
+  - ostr\w* mek
+  pozn: Scharfmetze – největší obléhací dělo své doby, střílelo kouli kolem jednoho centu (cca 50 kg) železa.
+- id: bazilisek
+  cs: bazilišek
+  de:
+  - Basilisk
+  - Basilisck
+  - Basiliscus
+  - Rana
+  - Basilisceen
+  kategorie: delostrelectvo
+  hledat:
+  - bazilišk
+  pozn: Velmi dlouhé těžké dělo (asi 75 liber železa), pojmenované po bájném plazu.
+- id: slavik
+  cs: slavík
+  de:
+  - Nachtigall
+  - Nachtgall
+  kategorie: delostrelectvo
+  hledat:
+  - slav[íi]k
+  pozn: Nachtigall – těžké obléhací dělo (asi 50 liber), pojmenované podle zvuku výstřelu; obdobou je zpěvačka (Singerin).
+- id: kartouna
+  cs: kartouna
+  de:
+  - Kartaune
+  - Carthaun
+  - Quartan
+  - Viertheyl Büchs
+  - Viertel Büchs
+  - Quarthanen
+  - Quarthonen
+  - Viertheyl Büchß
+  - Carthonen
+  - Carthaunen
+  - halbe Carthaunen
+  kategorie: delostrelectvo
+  hledat:
+  - kartoun
+  - \bquartan
+  - čtvrtinov\w* děl
+  pozn: Kartouna – těžké krátké obléhací dělo; čtvrtkartouna (Quartan, Viertelbüchse) střílí čtvrtinovou kouli (asi 25 liber). Dobově též „kvartán“; v textu ponecháno i „quartan“.
+- id: hadovnice
+  cs: kulverina
+  de:
+  - Schlange
+  - Schlangen
+  - Notschlange
+  - Nothschlange
+  - Feldschlange
+  - halbe Schlange
+  - halb Schlangen
+  - Nothschlangen
+  - Tracana
+  - Schlauckana
+  - Feldschlangen
+  kategorie: delostrelectvo
+  hledat:
+  - kulverin
+  pozn: Schlange (kulverina, kolubrina) – dlouhé dělo na velký dostřel; „těžká kulverina“ (Notschlange) je těžší, „poloviční kulverina“ (halbe Schlange) lehčí.
+- id: plukovni-delko
+  cs: plukovní dělko
+  de:
+  - Regimentsstücklein
+  - Regimentstücklein
+  - Regimentsstücklinen
+  kategorie: delostrelectvo
+  hledat:
+  - plukovn\w* děl
+  pozn: Lehké polní dělo přidělené pluku a tažené koňmi (s. 106–111).
+- id: hlavni-delostrelectvo
+  cs: hlavní dělostřelectvo
+  de:
+  - Hauptgeschütz
+  kategorie: delostrelectvo
+  hledat:
+  - hlavní\w* dělostřel
+  pozn: Těžká polní děla vojska na rozdíl od plukovních dělek.
+- id: falkona
+  cs: falkona
+  de:
+  - Falckana
+  - Falkone
+  - Falckaun
+  - Falckanet
+  - Falkonet
+  - Falckona
+  - Falckonen
+  - Falckonet
+  - Falckonnet
+  - Falckanetlin
+  - Falcka
+  kategorie: delostrelectvo
+  hledat:
+  - falkon
+  - sokol
+  pozn: Falkona (4–5 liber) a falkonet (asi 2 libry) – lehká polní děla, pojmenovaná po sokolovi.
+- id: serpentina
+  cs: serpentina
+  de:
+  - Scharpffentin
+  - Serpentin
+  - Serpentina
+  - Scharpffentinlin
+  pozn: Lehké dělo nebo těžká hákovnice; srov. kozlíková puška.
+  kategorie: delostrelectvo
+  hledat:
+  - serpent
+  - šerpent
+- id: mozdir
+  cs: moždíř
+  de:
+  - Mörser
+  - Morser
+  - Böller
+  - Merthier
+  - Böler
+  - Bölern
+  kategorie: delostrelectvo
+  hledat:
+  - (?<!h)moždíř
+  pozn: Krátké dělo s velkou ráží pro střelbu vrchem (kameny, ohnivé koule) přes hradby. Mörschel (hmoždíř) je naproti tomu nádoba na drcení.
+- id: houfnice
+  cs: houfnice
+  de:
+  - Haufnitz
+  - Hauffnitz
+  kategorie: delostrelectvo
+  hledat:
+  - houfnic
+  pozn: Krátké dělo střílející kamenné koule nebo kartáče do houfů nepřítele; slovo je husitského původu (houfnice → Haufnitz).
+- id: hakovnice
+  cs: hákovnice
+  de:
+  - Hakenbüchse
+  - Hackenbuchsen
+  - Hacken
+  - Doppelhacken
+  - halben Hacken
+  - Toppelhacken
+  - Doppelhack
+  - Hack
+  - halber Hacken
+  - halbe Hacken
+  - Haacken
+  - halben Haacken
+  - Hackenschützen
+  - Doppelhaacken
+  kategorie: zbrane
+  hledat:
+  - hákovnic
+  pozn: Těžká ruční palná zbraň s hákem na zachycení zpětného rázu o hradbu či stojan; dvojitá hákovnice (Doppelhaken) je ještě těžší.
+- id: prach
+  cs: střelný prach
+  de:
+  - Pulver
+  - Puluer
+  - Zündpulver
+  - Zündtpuluer
+  - Schlangen Puluer
+  - Werckpuluer
+  - Hacken Puluer
+  - Handtrohr Puluer
+  - Puluers
+  - Pulfer
+  - Kraut
+  - Zündpulfer
+  - Kraut vnd Loth
+  - Zündtpulver
+  - Ladpuluer
+  - Ladpulver
+  kategorie: delostrelectvo
+  hledat:
+  - \bprach
+- id: koule
+  cs: koule
+  de:
+  - Kugel
+  - Kuglen
+  - Kugeln
+  - schlahende kuglen
+  kategorie: delostrelectvo
+  hledat:
+  - \bkoul
+- id: kartuse
+  cs: kartuše
+  de:
+  - Carthusch
+  - Carthausch
+  - Cartusen
+  - Patronen
+  kategorie: delostrelectvo
+  hledat:
+  - kartuš
+  pozn: Náboj v papírovém či plátěném obalu s odměřenou náloží, u Lavatera i s broky.
+- id: granat
+  cs: granát
+  de:
+  - Granaten
+  - Granaden
+  - Handgranaten
+  - Sprengkuglen
+  kategorie: delostrelectvo
+  hledat:
+  - granát
+  pozn: Výbušná koule; ruční granát se hází z valu na útočníky.
+- id: munice
+  cs: munice
+  de:
+  - Munition
+  kategorie: delostrelectvo
+  hledat:
+  - munic
+- id: hlavni-zbran
+  cs: hlavní zbraň
+  de:
+  - Oberwehr
+  - Obergewehr
+  - Vbergewehr
+  - Vberwehr
+  - Vberwehren
+  kategorie: zbrane
+  hledat:
+  - hlavní\w* zbra
+  - dlouh\w* zbra
+  pozn: Dlouhá zbraň (mušketa, píka, partyzána) na rozdíl od postranní zbraně.
+- id: postranni-zbran
+  cs: postranní zbraň
+  de:
+  - Seitenwehr
+  - Vnderwehren
+  kategorie: zbrane
+  hledat:
+  - postranní\w* zbra
+  - poboční\w* zbra
+  pozn: Zbraň nošená po boku (kord, tesák).
+- id: kord
+  cs: kord
+  de:
+  - Dägen
+  - Rappier
+  - Rappiers
+  kategorie: zbrane
+  hledat:
+  - \bkord(?!on)
+  pozn: Pěší postranní zbraň (Dägen, Rappier); v bernské příručce (str. 46) slouží délka rapíru jako míra odstupu řad při sevření šiku. Švýc. „Plauten“ = krátký široký tesák.
+- id: halapartna
+  cs: halapartna
+  de:
+  - Hellebarde
+  - Hellenparten
+  - Helleparten
+  - Hellenbarten
+  kategorie: zbrane
+  hledat:
+  - halapart
+- id: kropac
+  cs: kropáč
+  de:
+  - Morgenstern
+  - Morgensternen
+  kategorie: zbrane
+  hledat:
+  - kropáč
+  pozn: Morgenstern – dřevcová palice s ostny, zbraň obránců valu.
+  nepouzivat:
+  - řemdih
+  - řemdihy
+- id: partyzana
+  cs: partyzána
+  de:
+  - Partisan
+  - Partisanen
+  kategorie: zbrane
+  hledat:
+  - partyzán
+  pozn: Dřevcová zbraň s širokým hrotem, odznak poručíka.
+- id: ohrloffel
+  cs: ušaté kopí
+  de:
+  - Böhmischen Ohrlöfflen
+  kategorie: zbrane
+  hledat:
+  - ušat\w* kop
+  pozn: Böhmischer Ohrlöffel – krátké kopí s postranními křidélky („české ušaté kopí“).
+- id: obourucni-mec
+  cs: obouruční meč
+  de:
+  - Schlachtschwert
+  - Schlachtschwerter
+  - Bidenhänder
+  - Zweihänder
+  kategorie: zbrane
+  hledat:
+  - obouruční\w* meč
+- id: zbroj
+  cs: zbroj
+  de:
+  - Harnisch
+  - Harnasch
+  - Rüstung
+  - Rüstung
+  - Balgharnisch
+  - Harnast
+  kategorie: zbrane
+  hledat:
+  - zbroj\b
+  - zbroje
+  - zbrojí
+  - brněn
+  pozn: Harnisch – brnění, zbroj. „Kriegsrüstung“ ve smyslu válečných příprav a výzbroje (např. „Von allerhand Kriegßrüstung“) překládej „výzbroj“.
+- id: utocna-prilba
+  cs: útočná přilba
+  de:
+  - Sturmhut
+  - Sturmhauben
+  kategorie: zbrane
+  hledat:
+  - útočn\w* přilb
+  pozn: Přilba pěšáka (šturmhaube).
+- id: nakrcnik
+  cs: nákrčník
+  de:
+  - Ringkragen
+  kategorie: zbrane
+  hledat:
+  - nákrčník
+  pozn: Ringkragen – kovový límec, odznak důstojníka.
+- id: lezeni
+  cs: ležení
+  de:
+  - Läger
+  - Lager
+  - Låger
+  - Feldläger
+  - Feldtläger
+  - Feldleger
+  kategorie: opevneni
+  hledat:
+  - ležen
+  pozn: Polní tábor vojska; vyměřoval ho kvartýrmistr podle pokynů polního maršálka.
+- id: kvartyr
+  cs: kvartýr
+  de:
+  - Quartier
+  kategorie: opevneni
+  hledat:
+  - \bkvartýr(?!mist|n)
+  pozn: Úsek ležení nebo ubytování přidělený pluku či kompanii. Quartier znamená u Lavatera i vojenský obvod venkova a „Quartier geben“ = dát pardon.
+- id: vozova-hradba
+  cs: vozová hradba
+  de:
+  - Wagenburg
+  kategorie: opevneni
+  hledat:
+  - vozov\w* hradb
+  pozn: Kruh nebo čtverec vozů spojených řetězy jako opevnění ležení nebo dělostřelectva.
+- id: sance
+  cs: šance
+  de:
+  - Schanze
+  - Schantz
+  - Schanzen
+  - Schantzen
+  kategorie: opevneni
+  hledat:
+  - šanc
+  pozn: Polní opevnění z hlíny a proutí – val s příkopem, chránící děla a obléhatele.
+- id: sancovni-kos
+  cs: šancovní koš
+  de:
+  - Schanzkorb
+  - Schantzkorb
+  - Schantzkörben
+  - Gabbionaten
+  - gabions
+  - gabionatten
+  kategorie: opevneni
+  hledat:
+  - šancovn\w* koš
+  - \bkoš(e|ů|i|ích|emi)?\b
+  pozn: Proutěný koš plněný zeminou (košatina, později „gabion“), krytí pro děla.
+- id: strelecky-kosik
+  cs: střelecký košík
+  de:
+  - Schützenkörblein
+  - Schützenkörbleinen
+  - Corbeilles
+  - corbulæ
+  kategorie: opevneni
+  hledat:
+  - střeleck\w* koší
+  pozn: Malý proutěný koš se zeminou na předprsni; mezerami mezi košíky střílejí mušketýři.
+- id: fasina
+  cs: fašina
+  de:
+  - fantaseyen
+  - Saussysen
+  kategorie: opevneni
+  hledat:
+  - fašin
+  - saucisson
+  pozn: Svazek proutí k zasypání příkopu nebo zpevnění náspu; saucisson = dlouhá silná fašina.
+- id: lisa
+  cs: lísa
+  de:
+  - hurden
+  - reyßgeflochtene hurden
+  kategorie: opevneni
+  hledat:
+  - \blís(a|y|ou|ami|ách|e)\b
+  pozn: Pletená proutěná deska ke zpevnění bažinaté půdy nebo baterie.
+- id: losament
+  cs: ubytování
+  de:
+  - Losament
+  - Losement
+  - Losamenter
+  - Losamenten
+  kategorie: opevneni
+  hledat:
+  - ubytován
+  - losament
+  pozn: Losament – přidělené místo k ubytování (stan, chalupa) v ležení nebo městě.
+- id: pontonovy-most
+  cs: lodní most
+  de:
+  - Schiffbrücke
+  - Schiff brucken
+  - Schiffbrucken
+  nepouzivat:
+  - pontonový most
+  kategorie: opevneni
+  hledat:
+  - lodní\w* most
+  - pontonov\w* most
+  pozn: Most položený na lodích nebo člunech, vezený s dělostřelectvem.
+- id: posadka
+  cs: posádka
+  de:
+  - Besatzung
+  - Besakung
+  - Besatzungen
+  - Zusatz
+  - Garnison
+  - Guarnison
+  kategorie: opevneni
+  hledat:
+  - posádk
+  pozn: Besatzung – vojsko obsazující pevnost, hrad nebo město; pátá kniha je o řádu posádky. V Druhé knize často i obléhané opevněné místo (město, hrad) s posádkou.
+- id: artikulni-list
+  cs: artikulní list
+  de:
+  - Artikelbrief
+  - Artickels brieff
+  - Artickelsbrieff
+  - Artickelbrieff
+  - Artickel
+  nepouzivat:
+  - list vojenských článků
+  - artikulový list
+  kategorie: pravo
+  hledat:
+  - artikul
+  - článk
+  pozn: Artikelbrief – vojenský řád (články), na který žoldnéři přísahali při naverbování; stanovil povinnosti, zákazy a tresty.
+- id: soud
+  cs: soud
+  de:
+  - Gericht
+  - Gerichtsordnung
+  - peinlich Gericht
+  - ordenlich Gericht
+  - Keyserlich Recht
+  - Rechten
+  kategorie: pravo
+  hledat:
+  - \bsoud
+  pozn: Vojenský soud pluku pod rychtářem (Schultheiß); „hrdelní soud“ (peinliches Gericht) soudil zločiny trestané na hrdle.
+- id: pravo-dlouhych-kopi
+  cs: právo dlouhých pík
+  de:
+  - Recht der langen Spieße
+  - durch die Spieß jagen
+  - Spießrecht
+  - gassen
+  kategorie: pravo
+  hledat:
+  - dlouh\w* pík
+  - uličk
+  pozn: Lancknechtský „obecný“ soud, kdy obec v kruhu po trojí poradě a většinovém hlasování sama odsoudila provinilce k proběhnutí uličkou (gassen) z pík.
+- id: prisaha
+  cs: přísaha
+  de:
+  - Eyd
+  - Eydt
+  - Eid
+  - Endt
+  kategorie: pravo
+  hledat:
+  - \bpřísah
+- id: hrdelni-vec
+  cs: hrdelní věc
+  de:
+  - Malefiz
+  - Malefis
+  - Malefis sach
+  - Malefitz
+  - Malefitz sach
+  - Malefitz sachen
+  kategorie: pravo
+  hledat:
+  - hrdeln
+  pozn: Malefiz – zločin trestaný na hrdle nebo na těle.
+- id: zold
+  cs: žold
+  de:
+  - Sold
+  - Föld
+  - Besoldung
+  - Monatssold
+  - Monatsold
+  kategorie: zold
+  hledat:
+  - žold
+  pozn: Sold – měsíční plat žoldnéře; měsíc se počítal na 30 dní. Jednoduchý žold pěšáka činil 4 zlaté.
+- id: markytan
+  cs: markytán
+  de:
+  - Marckitänter
+  - Marquitanter
+  kategorie: zold
+  hledat:
+  - markytán
+  pozn: Obchodník provázející vojsko, prodává potraviny a nápoje.
+- id: dvojity-zold
+  cs: dvojitý žold
+  de:
+  - Doppelsold
+  - Doppelföld
+  - Toppelföld
+  - Doppelfold
+  - Toppelsöld
+  - doppel sold
+  kategorie: zold
+  hledat:
+  - dvojit\w* žold
+  - dvojžold
+  pozn: Doppelsold – dvojnásobný měsíční žold pro dvojžoldnéře a některé úřady.
+- id: prehlidka
+  cs: přehlídka
+  de:
+  - Musterung
+  - Muster
+  - Musterplatz
+  - Musterplaz
+  - Musterzedel
+  - mustern
+  - gemustert
+  - eingemustert
+  kategorie: zold
+  hledat:
+  - přehlíd
+  - mustr
+  pozn: Musterung – soupis a prohlídka naverbovaných mužů a jejich zbraní; teprve po ní začínal běžet žold.
+- id: sluzebni-list
+  cs: služební list
+  de:
+  - Bestallung
+  - Bestallbrief
+  - beftallung
+  - Bestellbrief
+  - Bestellung
+  - bestellbrieffs
+  nepouzivat:
+  - jmenovací listina
+  kategorie: zold
+  hledat:
+  - služební\w* list
+  - jmenovací\w* list
+  pozn: Bestallung – smlouva válečného pána s plukovníkem nebo rytmistrem o počtu lidu, žoldu a podmínkách služby.
+- id: proviant
+  cs: proviant
+  de:
+  - Profandt
+  - Profand
+  - Prouandt
+  - Proviant
+  - Prouand
+  - Commiß
+  - Vivres
+  - Viures
+  kategorie: zold
+  hledat:
+  - provian
+- id: pice
+  cs: píce
+  de:
+  - Fourrage
+  - Füterung
+  kategorie: zold
+  hledat:
+  - \bpíc(e|i|í)\b
+  pozn: Krmivo pro koně.
+- id: zlaty
+  cs: zlatý
+  de:
+  - Gulden
+  - Gülden
+  - fl.
+  kategorie: miry
+  hledat:
+  - \bzlat(ý|ých|ým|ými|é|ou)\b
+  pozn: Rýnský zlatý (Gulden) – účetní mince; 1 zlatý = 15 bacenů = 60 krejcarů.
+- id: bacen
+  cs: bacen
+  de:
+  - Batzen
+  - Baken
+  kategorie: miry
+  hledat:
+  - bacen
+  - krejcar
+  pozn: Batzen – stříbrná mince v hodnotě 4 krejcarů; 15 bacenů = 1 zlatý.
+- id: cent
+  cs: cent
+  de:
+  - Centner
+  - Zentner
+  kategorie: miry
+  hledat:
+  - \bcent
+  pozn: Centner – 100 liber, tj. přibližně 50 kg.
+- id: libra
+  cs: libra
+  de:
+  - Pfund
+  - Pfundt
+  kategorie: miry
+  hledat:
+  - \blib(ra|er|ry|ru|rách)\b
+  pozn: Pfund – asi 0,5 kg (místně 0,47–0,56 kg).
+- id: hlidka
+  cs: stálá stráž
+  de:
+  - Schildwacht
+  - Schiltwacht
+  - Schiltwachten
+  - Saintinell
+  - Saintinellen
+  - Sentinell
+  kategorie: sluzba
+  hledat:
+  - \bstráž
+  - \bhlídk
+  pozn: Schildwacht – stálá hlídka na pevném stanovišti.
+- id: ztracena-straz
+  cs: ztracená stráž
+  de:
+  - Santinell-perdu
+  - Sentinell-perdu
+  - Sentinells perdu
+  - verlohrne Schiltwacht
+  kategorie: sluzba
+  hledat:
+  - ztracen\w* stráž
+  - sentinel\w* perdu
+  pozn: Nejzazší stálá stráž před pevností či ležením; střídá se každou hodinu.
+- id: obchuzka
+  cs: obchůzka
+  de:
+  - Scharwachten
+  kategorie: sluzba
+  hledat:
+  - obchůzk
+  - obchůzkov
+  pozn: Scharwacht – pochůzková hlídka, která kontroluje stálé stráže a ležení.
+- id: heslo
+  cs: heslo
+  de:
+  - Losung
+  - Wort
+  - Wachtzeychen
+  - wortzeychen
+  kategorie: sluzba
+  hledat:
+  - heslo
+  - hesla
+- id: strazni-listek
+  cs: strážní lístek
+  de:
+  - Wachtzedel
+  - Nachtzedel
+  kategorie: sluzba
+  hledat:
+  - strážní\w* lístk
+  - noční\w* lístk
+  pozn: Lístek s určením strážního stanoviště, losovaný vachmistry.
+- id: parade
+  cs: paráda
+  de:
+  - Parade
+  - Paraden
+  kategorie: sluzba
+  hledat:
+  - \bparád(a|y|ě|u|ou)\b
+  - seřadišt
+  pozn: Večerní nástup posádky na seřadišti, kde se rozděluje stráž a vydává heslo a rozkaz.
+- id: poplach
+  cs: poplach
+  de:
+  - Lermen
+  - Lärmen
+  kategorie: sluzba
+  hledat:
+  - \bpoplach(u|em|ů|y|ech)?\b
+  pozn: Poplach v pevnosti nebo ležení.
+- id: poplachove-shromazdiste
+  cs: poplachové shromaždiště
+  de:
+  - Lermenplatz
+  - Lermenplätzen
+  kategorie: sluzba
+  hledat:
+  - poplach\w* shromaždišt
+  pozn: Určené místo, kde se mužstvo shromáždí při poplachu; v pevnosti se mění každý večer s heslem.
+- id: budicek
+  cs: budíček
+  de:
+  - Reveille
+  - Trauaille
+  - Travaille
+  kategorie: sluzba
+  hledat:
+  - budíč
+  pozn: Ranní bubnový signál, po němž se stahují noční stráže.
+- id: tazeni
+  cs: tažení
+  de:
+  - Zug
+  - Feldzug
+  - Heerzug
+  - Feldtzug
+  kategorie: sluzba
+  hledat:
+  - \btažen
+- id: vyprava
+  cs: výprava
+  de:
+  - Parthey
+  - Partheyen
+  kategorie: sluzba
+  hledat:
+  - \bvýprav
+  pozn: Malý oddíl vyslaný na průzkum nebo kořist.
+- id: koristnik
+  cs: kořistník
+  de:
+  - Beuthgänger
+  kategorie: sluzba
+  hledat:
+  - kořistní[kc]
+  pozn: Voják, který jde na kořistnou výpravu.
+- id: spravce-koristi
+  cs: správce kořisti
+  de:
+  - Beuthmeister
+  kategorie: sluzba
+  hledat:
+  - správc\w* kořist
+  pozn: Spravuje a rozděluje ukořistěné věci.
+- id: vypad
+  cs: výpad
+  de:
+  - Sorties
+  - außfäll
+  - außfallen
+  kategorie: sluzba
+  hledat:
+  - \bvýpad(?!n)
+  pozn: Útok obležených z pevnosti na obléhatele.
+- id: vyprosteni
+  cs: vyproštění
+  de:
+  - Entsatz
+  - Entsatzes
+  - Succurs
+  - Secours
+  kategorie: sluzba
+  hledat:
+  - vyproštěn
+  pozn: Pomoc zvenčí, která zruší obležení pevnosti.
+- id: knecht
+  cs: knecht
+  de:
+  - Knecht
+  - Knechte
+  - Kriegsknecht
+  - Kriegßknecht
+  - Knechten
+  kategorie: jednotky
+  hledat:
+  - \bknecht
+  pozn: Knecht – žoldnéř, zejm. pěší (Fußknecht); u jízdy „reisiger Knecht“ = jezdecký čeledín (jízdní pacholek). Nezaměňovat s „pachole“ (Jung).
+- id: vudce
+  cs: vůdce
+  de:
+  - Fürer
+  - Furer
+  - Führer
+  - Fürers
+  kategorie: velitele
+  hledat:
+  - \bvůdc
+  - \bvůdce
+  pozn: Poddůstojník praporce volený z obce; jde před šikem a vede knechty na pochodu, jinak pomáhá šikovatelům. U jízdy jezdec, který s kvartýrmistrem rozděluje ubytování. Bral dvojitý žold.
+- id: zvedac
+  cs: zvedač
+  de:
+  - Schneller
+  - Die Schneller
+  kategorie: delostrelectvo
+  hledat:
+  - zvedač
+  pozn: Pomocník u dělostřelectva – překládá těžká děla z vozu na vůz, maže je, nakládá a skládá munici; osm zvedačů vede jejich vlastní mistr (Schneller Zeugmeyster, Vorgeher).
+- id: protipisar
+  cs: protipísař
+  de:
+  - Gegenschreiber
+  - Controlleurs
+  kategorie: zold
+  hledat:
+  - protipísař
+  pozn: Kontrolní písař pokladníka, vede druhý záznam příjmů a výdajů.
+- id: revers
+  cs: revers
+  de:
+  - Reuers
+  - Reuerß
+  - Revers
+  kategorie: pravo
+  hledat:
+  - \brevers
+  pozn: Písemný závazek, jímž přijímaný úředník nebo velitel stvrzuje podmínky služebního listu.
+- id: trubac
+  cs: trubač
+  de:
+  - Trommeter
+  - Trometer
+  - Trompeter
+  - Trompeteren
+  kategorie: velitele
+  hledat:
+  - trubač
+  pozn: Polní trubač; doprovází herolda, troubí signály a k utišení.
+- id: hudba
+  cs: hudba
+  de:
+  - Spiel
+  - Pfeiffer vnd Trommenschlager
+  - Spil
+  - Trommenschlager
+  - Pfeiffer vnd Trommenschlagers
+  - Trommenschlageren
+  - Trommelschlager
+  kategorie: velitele
+  hledat:
+  - \bhudb
+  - pišt[ec]
+  - bubení
+  pozn: „Spiel“ – pištec a bubeník (Trommenschlager) praporce či velitele, kteří dávají signály a udávají krok; jedno „Spiel“ (dvojice) dostávalo čtyři žoldy.
+- id: uklady
+  cs: úklady
+  de:
+  - Practicken
+  - practicken
+  - Practick
+  kategorie: velitele
+  hledat:
+  - úklad
+  pozn: Tajná jednání, pletichy; u pokladníka též finanční machinace (practicken auff gelt vnd wechsel).
+- id: finta
+  cs: finta
+  de:
+  - Finantz
+  - finantzen
+  - finanz
+  - finansen
+  kategorie: zold
+  hledat:
+  - \bfint
+  pozn: Finanz – lest, podvod, lichva, zvláště podvody při přehlídce (nahrazování mužů, falešná jména).
+- id: cely-houf
+  cs: celý houf
+  de:
+  - heller Hauff
+  - hellen hauffen
+  kategorie: jednotky
+  hledat:
+  - cel\w* houf
+  pozn: Veškeré shromážděné mužstvo, hlavní voj.
+- id: zalmistr
+  cs: platebník
+  de:
+  - Zalmeyster
+  - Zalmeister
+  - Zalschreiber
+  - Zalschreibers
+  - Zeug Zalschreiber
+  - Zahlmeister
+  kategorie: zold
+  hledat:
+  - platební
+  pozn: Úředník (nebo písař), který vyplácí žold podle rejstříků; pomocník pokladníka.
+- id: platce-zoldu
+  cs: plátce žoldu
+  de:
+  - Zahlherr
+  - Zahlherren
+  kategorie: zold
+  hledat:
+  - plátc\w* žold
+  pozn: Vrchnost, která vojsko najímá a platí; prakticky válečný pán.
+- id: lafeta
+  cs: lafeta
+  de:
+  - Gefäß
+  - Gefeß
+  - gefeß
+  - gefessen
+  - Lavyten
+  - Laffuyten
+  - Stuck-Wägen
+  kategorie: delostrelectvo
+  hledat:
+  - \blafet
+  pozn: Dřevěné lože děla s koly, v němž dělo při střelbě leží; těžká děla se vezla bez lafety, hlaveň (Rohr) zvlášť na voze.
+- id: hlaven
+  cs: hlaveň
+  de:
+  - Rohr
+  - Rhor
+  - Lauff
+  kategorie: delostrelectvo
+  hledat:
+  - \bhlav[eň]ň?\w*\b
+- id: ohnivy-mozdir
+  cs: ohnivý moždíř
+  de:
+  - Feuerbüchse
+  - Fewrbüchse
+  - Fewrbüchsen
+  - Fewrbüchßen
+  - Fewrmörsel
+  kategorie: delostrelectvo
+  hledat:
+  - ohniv\w* moždíř
+  - ohňov\w* děl
+  pozn: Feuerbüchse – krátké dělo velké ráže k vrhání ohnivých koulí a zápalných prostředků; v textu odlišeno od moždíře (Böller), na 013r nazváno „ohňové dělo“.
+- id: ohnostroj
+  cs: ohňostroj
+  de:
+  - Fewrwerck
+  - fewrwerck
+  - Feuerwerk
+  - Fewerwerck
+  - Fewrwercken
+  - Sturmfewrwerck
+  kategorie: delostrelectvo
+  hledat:
+  - ohňostroj
+  pozn: Zápalné a výbušné prostředky pro válku (ohnivé koule, zápalné věnce, granáty), jejich výroba a vrhání – nikoli zábavní ohňostroj.
+- id: ohniva-koule
+  cs: ohnivá koule
+  de:
+  - Fewrkugel
+  - fewrkuglen
+  - Feuerkugel
+  kategorie: delostrelectvo
+  hledat:
+  - ohniv\w* koul
+- id: smolny-venec
+  cs: smolný věnec
+  de:
+  - Bächring
+  - Bächringen
+  kategorie: delostrelectvo
+  hledat:
+  - smoln\w* věn
+  pozn: Zápalný věnec ze smoly a koudele, hází se na útočníky nebo slouží k osvětlení.
+- id: smolna-panev
+  cs: smolná pánev
+  de:
+  - Hartzpfannen
+  kategorie: sluzba
+  hledat:
+  - smoln\w* pánv
+  pozn: Pánev s hořící smolou k osvětlení valů, ulic a předpolí v noci.
+- id: utocny-hrnec
+  cs: útočný hrnec
+  de:
+  - Sturmhäfelein
+  - Häfelein
+  kategorie: delostrelectvo
+  hledat:
+  - útočn\w* hrn
+  pozn: Hliněný hrnec s prachem, vápnem nebo ježky, házený na útočníky.
+- id: zved
+  cs: zvěd
+  de:
+  - Kundtschaffter
+  - Kundschaffter
+  - Kundschafter
+  - Kundtschafftern
+  kategorie: sluzba
+  hledat:
+  - \bzvěd
+  pozn: Průvodce a vyzvědač, který zná cesty, brody a mosty; vede předvoj a přináší zprávy o nepříteli.
+- id: predvoj
+  cs: předvoj
+  de:
+  - Vorzug
+  - Vortrab
+  - Vorhut
+  - Avantguarde
+  kategorie: sluzba
+  hledat:
+  - předvoj
+- id: zadni-voj
+  cs: zadní voj
+  de:
+  - Nachzug
+  - Nachtrab
+  - Nachhut
+  - Retroguarde
+  - Deriereguarde
+  - Hinderhut
+  - hinderhůt
+  kategorie: sluzba
+  hledat:
+  - zadní\w* voj
+- id: ztraceny-houf
+  cs: ztracený houf
+  de:
+  - verlorner Hauffen
+  - verlornen hauffen
+  - verlorner Hauf
+  - verlorner Hauffe
+  - verlohrnen Trouppen
+  kategorie: jednotky
+  hledat:
+  - ztracen\w* houf
+  pozn: Útočný předvoj pěchoty z dobrovolníků nebo vylosovaných, který jde do boje první (franc. enfants perdus).
+- id: vozka
+  cs: vozka
+  de:
+  - Fürmann
+  - Fürleuth
+  - Fuhrleuth
+  - Wagenleuth
+  - Fuhrmann
+  - Führleuhten
+  - Fürleuthen
+  kategorie: delostrelectvo
+  hledat:
+  - \bvozk
+  - \bvozataj
+- id: zbrojni-vuz
+  cs: zbrojní vůz
+  de:
+  - Zeugwagen
+  - Zeugwägen
+  kategorie: delostrelectvo
+  hledat:
+  - zbrojní\w* v[ůo]z
+- id: vyzbrojni-vuz
+  cs: výzbrojní vůz
+  de:
+  - Rüstwagen
+  kategorie: sluzba
+  hledat:
+  - výzbrojn\w* v[ůo]z
+  pozn: Vůz s nářadím, materiálem a výzbrojí při dělostřelectvu; srov. zbrojní vůz.
+- id: podhejtman
+  cs: podřízený hejtman
+  de:
+  - Vnterhauptmann
+  - Vnterhauptleuth
+  - Vnterhauptleuten
+  - Vnterhauptleuthen
+  kategorie: velitele
+  hledat:
+  - podhejtman
+  - podřízen\w* hejtman
+  pozn: Hejtman praporce podřízený plukovníkovi, na rozdíl od nejvyšších velitelů.
+- id: stolnik
+  cs: stolník
+  de:
+  - Trückfäß
+  - Oberster Trückfäß
+  kategorie: velitele
+  hledat:
+  - stolník
+  pozn: Truchsess – dvorský úředník nad kuchyní a tabulí knížete; v poli nejvyšší stolník řídil stravování velitelova dvora.
+- id: tlumocnik
+  cs: tlumočník
+  de:
+  - Tollmätsch
+  - Tollmätschen
+  kategorie: velitele
+  hledat:
+  - tlumočník
+  pozn: Tlumočník velitele, táhne-li vojsko v cizí zemi.
+- id: ctvrtmistr
+  cs: čtvrtmistr
+  de:
+  - Viertheylmeyster
+  kategorie: sluzba
+  hledat:
+  - čtvrtmist
+  pozn: Správce jedné čtvrti pevnosti či města, odpovědný za stráže, obranu a hašení.
+- id: ambasat
+  cs: ambasát
+  de:
+  - Ambesaten
+  - Ammissaten
+  - Ambosaten
+  - Ambasaten
+  kategorie: jednotky
+  hledat:
+  - ambas
+  pozn: Z ital. ambasciata „poselstvo“ – vyslanec volený obcí knechtů, který při sporech s velením (zvl. o nevyplacený žold) přednáší stížnosti mužstva a jedná za ně; vlastní žold neměl, při vyslání dostával útratu.
+- id: svadrona
+  cs: švadrona
+  de:
+  - Geschwader
+  - Squadron
+  - Squadronen
+  - Squadronenweis
+  - Schwader
+  nepouzivat:
+  - eskadra
+  kategorie: jednotky
+  hledat:
+  - švadron
+  - škadron
+  pozn: Geschwader / Squadron – u Fronspergera jízdní oddíl pod rytmistrem; u Lavatera také oddíl pěchoty (díl kompanie mušketýrů nebo pikenýrů), a to jak u pěchoty, tak u jízdy (max. 5 řad, 40–60 jezdců).
+- id: predvojova-korouhev
+  cs: předvojová korouhev
+  de:
+  - Rennfanen
+  - Rennfänlin
+  - Rennfändlin
+  - Rennfahne
+  kategorie: jednotky
+  hledat:
+  - předvojov\w* korouh
+  pozn: Korouhev lehké jízdy, která jede v čele vojska jako předvoj a průzkum; s ní táhne napřed i šancmistr se zvědy.
+- id: rada
+  cs: řada
+  de:
+  - Glied
+  - glid
+  - glider
+  - glidern
+  - Glideren
+  - Glid
+  - Glider
+  kategorie: jednotky
+  hledat:
+  - \břad(a|y|ě|u|ou|ách|ám|ami)?\b
+  pozn: Glied – řada mužů vedle sebe v šiku (protějšek zástupu); čtvercový šik má tolik řad, kolik mužů stojí v jedné řadě. Lavater (s. 90) upozorňuje, že u něj Glider a Reyen proti obecnému úzu zaměňují.
+- id: zastup
+  cs: zástup
+  de:
+  - Reyen
+  - Reye
+  - Reyenweis
+  kategorie: jednotky
+  hledat:
+  - \bzástup(y|u|ů|ech|em|ům)?\b
+  pozn: Reyen – muži stojící v šiku za sebou (do hloubky), protějšek řady (Glied).
+- id: jezek
+  cs: ježek
+  de:
+  - Igel
+  - Izel
+  - Ygel
+  kategorie: jednotky
+  hledat:
+  - \bjež(ek|ka|kem|ku)\b
+  pozn: Igel – obranná sestava šiku, v níž knechti nastaví zkřížené píky na všechny strany, zvl. proti jízdě.
+- id: kyrysnik
+  cs: kyrysník
+  de:
+  - Kürisser
+  - Kürissern
+  - Currassier
+  kategorie: jednotky
+  hledat:
+  - kyrysník
+  pozn: Těžký jezdec v plné zbroji (kyrysu); „poloviční“ kyrysník nosil lehčí zbroj.
+- id: lehka-jizda
+  cs: lehká jízda
+  de:
+  - ringe Pferd
+  - ringe Pferdt
+  - ringen pferden
+  - ringen zeug
+  kategorie: jednotky
+  hledat:
+  - lehk\w* (jízd|jezd|kon|koň)
+  pozn: Ringe Pferde – lehce ozbrojení jezdci k průzkumu, přepadům, plenění a pronásledování.
+- id: jizdni-strelec
+  cs: jízdní střelec
+  de:
+  - Reysige Schützen
+  kategorie: jednotky
+  hledat:
+  - jízdn\w* střel
+  pozn: Jezdec s palnou zbraní (arkebuzír).
+- id: dobrovolnik
+  cs: dobrovolník
+  de:
+  - Voluntaire
+  kategorie: jednotky
+  hledat:
+  - dobrovoln[ií]k
+  pozn: Voják sloužící bez žoldu na vlastní náklad.
+- id: harcovnik
+  cs: harcovník
+  de:
+  - Scharmützer
+  kategorie: jednotky
+  hledat:
+  - harcovník
+  pozn: Jezdec vysílaný k šarvátkám (Scharmützel) a drobným potyčkám s nepřítelem.
+- id: zbrojny-kun
+  cs: zbrojný kůň
+  de:
+  - gerüst Pferd
+  - gerüst Pferdt
+  - gerüste Pferdt
+  - gerüster Pferdt
+  - gerüsten Pferden
+  kategorie: zold
+  hledat:
+  - \bzbrojn\w* (kon|koň|kůň)
+  pozn: Kůň s plně vyzbrojeným jezdcem, za kterého se při přehlídce platí žold; podle počtu zbrojných koní se vyměřovalo i vydržování velitelů.
+- id: trenni-kun
+  cs: trénní kůň
+  de:
+  - Troßpferd
+  - Troßpferdt
+  - Troßpferden
+  kategorie: sluzba
+  hledat:
+  - trénn\w* (kon|koň|kůň)
+  - (kůň|koňmi) pro trén
+  pozn: Kůň pro trén a zavazadla; nepočítá se mezi zbrojné koně, u jízdy připadal jeden na 12 zbrojných koní.
+- id: cestovni-vuz
+  cs: cestovní vůz
+  de:
+  - Reyßwagen
+  - Reyßwägen
+  kategorie: sluzba
+  hledat:
+  - cestovn\w* v[ůo]z
+  pozn: Vůz s výbavou velitele či jezdce; jejich počet se řídil hodností a počtem koní.
+- id: varhanove-delo
+  cs: varhanové dělo
+  de:
+  - Orgel Geschütz
+  - Orgelgeschütz
+  - geschrey Geschütz
+  kategorie: delostrelectvo
+  hledat:
+  - varhanov\w* děl
+  pozn: Mnohahlavňové dělo – řada malých hlavní na společném loži, odpalovaných postupně nebo najednou; staví se před šik nebo do průlomu.
+- id: komorove-delo
+  cs: komorové dělo
+  de:
+  - Kamerbüchse
+  - Kamerbüchsen
+  kategorie: delostrelectvo
+  hledat:
+  - komorov\w* děl
+  pozn: Malé dělo nabíjené zezadu vyměnitelnými, předem nabitými komorami; užívalo se v posádkách, bočních obranách a na lodích.
+- id: zpevacka
+  cs: zpěvačka
+  de:
+  - Singerin
+  - Singerinn
+  kategorie: delostrelectvo
+  hledat:
+  - zpěvač
+  pozn: Singerin – těžké obléhací dělo podobné slavíku (Nachtigall), o něco kratší než on.
+- id: kartac
+  cs: kartáč
+  de:
+  - Hagel
+  - Hagelgeschütz
+  - Hagel Geschütz
+  - bagel
+  - Hagelgestrew
+  - Gestrew
+  kategorie: delostrelectvo
+  hledat:
+  - kartáč
+  - drobn\w* střel
+  - \bbrok(y|ů|em|ami)\b
+  - krupobit
+  pozn: Hagel („krupobití“) – náboj z kamínků, sekaného železa či olova nebo broků proti blízkému nepříteli; Hagelgeschütz jsou krátká děla širokého vývrtu pro takovou střelbu. V textu též „drobná střela“ či „broky“.
+- id: ledek
+  cs: ledek
+  de:
+  - Salpeter
+  - Salpeter sieder
+  kategorie: delostrelectvo
+  hledat:
+  - \bled(ek|ku|kem)\b
+  - ledkař
+  pozn: Salpeter – hlavní složka střelného prachu vedle síry a uhlí; ledkaři (Salpetersieder) ho vyvařovali z ledkové hlíny.
+- id: zapalovaci-hul
+  cs: zapalovací hůl
+  de:
+  - Zündrute
+  - zündtrüten
+  - Zündrůt
+  kategorie: delostrelectvo
+  hledat:
+  - zapalovac
+  pozn: Hůl (tyč) s upevněným doutnákem, jíž puškař zapaluje nálož děla.
+- id: utocny-kyj
+  cs: útočný kyj
+  de:
+  - Sturmbrügel
+  kategorie: delostrelectvo
+  hledat:
+  - útočn\w* kyj
+  pozn: Kyj naplněný zápalnou směsí a výbušnými náložemi, který se zapálený vrhá mezi útočníky.
+- id: utocna-palice
+  cs: útočná palice
+  de:
+  - Sturmkolben
+  - Sturmschlägel
+  kategorie: zbrane
+  hledat:
+  - útočn\w* palic
+  pozn: Palice s hořlavou či výbušnou hlavicí k obraně průlomu; srov. útočný kyj.
+- id: vybusna-naloz
+  cs: výbušná nálož
+  de:
+  - Schleg
+  - schlegen
+  - Schläg
+  kategorie: delostrelectvo
+  hledat:
+  - výbušn\w* nálož
+  pozn: Třaskavá nálož (petarda) v ohňostrojích a útočných kyjích.
+- id: zbrojni-sluzebnik
+  cs: zbrojní služebník
+  de:
+  - Zeugdiener
+  - Zeug Diener
+  - Zeugdienern
+  kategorie: delostrelectvo
+  hledat:
+  - zbrojní\w* služebník
+  pozn: Jízdní pomocník zbrojmistra (šlechtic i nešlechtic), který vyřizuje jeho rozkazy a dohlíží na pořádek vozů dělostřelectva na pochodu.
+- id: zbrojni-pisar
+  cs: zbrojní písař
+  de:
+  - Zeugschreiber
+  kategorie: delostrelectvo
+  hledat:
+  - zbrojní\w* písař
+  pozn: Písař dělostřelectva, který vede soupisy děl, munice a osob a zapisuje jejich výdej.
+- id: zbrojmistr-zbrojnice
+  cs: zbrojmistr zbrojnice
+  de:
+  - Haußzeugmeyster
+  - Hauszeugmeister
+  kategorie: delostrelectvo
+  hledat:
+  - zbrojmist\w* zbrojnic
+  pozn: Správce stálé zemské zbrojnice; na rozdíl od polního zbrojmistra není válečným radou.
+- id: strazce-prachu
+  cs: strážce prachu
+  de:
+  - Puluerhüter
+  - Puluer Hüter
+  - Puluerhüters
+  kategorie: delostrelectvo
+  hledat:
+  - strážc\w* prach
+  pozn: Hlídá vozy s prachem ve dne i v noci a nocuje pod nimi.
+- id: vahadlo
+  cs: vahadlo
+  de:
+  - Zilscheytter
+  - Zilscheyter
+  - zilscheyttern
+  - Ortscheit
+  - Zielscheit
+  kategorie: delostrelectvo
+  hledat:
+  - vahad
+  pozn: Orčík – příčné dřevo, k němuž se připínají postraňky tažného koně; patří k zásobě postrojů dělostřelectva.
+- id: blida
+  cs: blida
+  de:
+  - Bliden
+  - pleiden
+  kategorie: delostrelectvo
+  hledat:
+  - \bblid
+  pozn: Protizávažový vrhací stroj (trebuchet), v 16. století už zastaralý.
+- id: rucnice
+  cs: ručnice
+  de:
+  - Handrohr
+  - Handtrohr
+  - handror
+  - Handroren
+  - handrohren
+  - Handbüchse
+  - handbüchsen
+  - Handbüchßen
+  kategorie: zbrane
+  hledat:
+  - ručnic
+  pozn: Ruční palná zbraň pěšáka (Handrohr, Handbüchse), lehčí než hákovnice.
+- id: kozlikova-puska
+  cs: kozlíková puška
+  de:
+  - Bockbüchse
+  - Bockbüchsen
+  - Bockbüchßlin
+  kategorie: zbrane
+  hledat:
+  - kozlíkov\w* pušk
+  pozn: Těžká puška (malé dělo) střílející z podstavce – kozlíku; užívala se k obraně hradeb.
+- id: paveza
+  cs: pavéza
+  de:
+  - Tartsche
+  - Tartschen
+  kategorie: zbrane
+  hledat:
+  - pavéz
+  pozn: Velký štít; v 16. století už zastaralý, v posádce sloužil ke krytí při hašení.
+- id: rondel
+  cs: rondel
+  de:
+  - Rondelle
+  - Rondellen
+  - Rondache
+  kategorie: zbrane
+  hledat:
+  - \brondel
+  pozn: Kulatý pěší štít (rondache); cvičí se s ním s píkou i s kordem (s. 84).
+- id: stit
+  cs: štít
+  de:
+  - Schilt
+  - Schilten
+  - Targe
+  kategorie: zbrane
+  hledat:
+  - \bštít(y|em|u|ů|ech)?\b
+  pozn: Velký štít (Targe) pro boj s kordem; odlišit od pavézy (Tartsche).
+- id: letze
+  cs: stanoviště
+  de:
+  - Letze
+  - Letzen
+  - Letz
+  kategorie: opevneni
+  hledat:
+  - stanovišt
+  - obrann\w* úsek
+  pozn: Letze – úsek hradby či obranné postavení, přidělené skupině obránců s velitelem a děly; v textu též „obranný úsek“. V alpské a švýcarské tradici též „zátaras“ či polní hrazení.
+- id: srub
+  cs: srub
+  de:
+  - Blochhauß
+  - Blochhaus
+  - Blochheuser
+  - Blockheuser
+  - Blockhäuser
+  kategorie: opevneni
+  hledat:
+  - \bsrub
+  pozn: Blockhaus – rozebíratelná srubová stavba z trámů, stavěná za ohroženým úsekem hradby nebo v šanci.
+- id: traverza
+  cs: traverza
+  de:
+  - Travers
+  - Trauers
+  - Zwerchwal
+  - Loricæ transversæ
+  kategorie: opevneni
+  hledat:
+  - traverz
+  - příčn\w* val
+  pozn: Příčný val proti boční palbě.
+- id: ochranna-brana
+  cs: ochranná brána
+  de:
+  - Schutzporte
+  - Schutzporten
+  kategorie: opevneni
+  hledat:
+  - ochrann\w* brán
+  pozn: Předsunutá opevněná brána na vnějším okraji příkopu (s. 8–9).
+- id: delova-podlaha
+  cs: dělová podlaha
+  de:
+  - Brittschen
+  - Brüttschen
+  - Britschen
+  - Brüginen
+  - Stuckbrüginen
+  kategorie: opevneni
+  hledat:
+  - dělov\w* (podlah|plošin)
+  pozn: Dřevěná nebo kamenná plošina pod dělem na valu či v baterii.
+- id: clona
+  cs: clona
+  de:
+  - Blendung
+  - Blendungen
+  - Blinden
+  - Chandeliers
+  - Velamen
+  kategorie: opevneni
+  hledat:
+  - \bclon
+  pozn: Zástěna z rámu a chrastí či fašin, kryje obléhatele nebo střílnu a bere nepříteli výhled.
+- id: utocny-kul
+  cs: útočný kůl
+  de:
+  - Sturmpfäl
+  - Sturmpfälen
+  kategorie: opevneni
+  hledat:
+  - útočn\w* kůl
+  pozn: Šikmo zaražené zahrocené kůly na valu a kontreskarpě.
+- id: naslapny-jezek
+  cs: nášlapný ježek
+  de:
+  - Fußangel
+  - Fußänglen
+  - Fußeisen
+  - Lämeysen
+  - Murices
+  - tribuli
+  kategorie: opevneni
+  hledat:
+  - nášlapn\w* (jež|želez)
+  - chromící\w* želez
+  - ochromovac\w* želez
+  pozn: Čtyřhrotá železná překážka (jeden hrot vždy trčí vzhůru), hází se do příkopu a průlomu proti pěším i koním. Odlišit od šiku „ježek“ (Igel).
+- id: pytel-s-vlnou
+  cs: pytel s vlnou
+  de:
+  - Wollsack
+  - Wollsäcken
+  kategorie: opevneni
+  hledat:
+  - pyt\w* s vlnou
+  pozn: Pytel nacpaný vlnou jako kryt pro děla a galerie.
+- id: kocka
+  cs: kočka
+  de:
+  - Katzen
+  kategorie: opevneni
+  hledat:
+  - \bkočk
+  - \bkoček
+  pozn: Katze – vyvýšené dělové postavení (val nebo srub vyplněný zeminou), z něhož lze střílet přes hradby.
+- id: padaci-mriz
+  cs: padací mříž
+  de:
+  - Schutzgatter
+  - Schußgetter
+  kategorie: opevneni
+  hledat:
+  - padac\w* mříž
+- id: obvodova-hradba
+  cs: obvodová hradba
+  de:
+  - Rinckmawr
+  - Ringmauer
+  kategorie: opevneni
+  hledat:
+  - obvodov\w* hradb
+  pozn: Hlavní hradební okruh města.
+- id: zimni-lezeni
+  cs: zimní ležení
+  de:
+  - Wintterleger
+  kategorie: opevneni
+  hledat:
+  - zimní\w* ležen
+- id: prisedici
+  cs: přísedící
+  de:
+  - Gerichtsleuth
+  - Gerichtßleuth
+  - Gerichtsleuthen
+  - Gerichts verwandten
+  - Gerichtsmann
+  - Richter
+  - Richtern
+  - Zwölffer
+  kategorie: pravo
+  hledat:
+  - přísedíc
+  pozn: Dvanáct soudních přísedících z praporců, které vybírá rychtář; s ním nalézají právo a vynášejí rozsudek. Brali dvojitý žold.
+- id: soudni-sikovatel
+  cs: soudní šikovatel
+  de:
+  - Gerichtsweybel
+  - Gerichts Weybel
+  - Gerichtßweybel
+  kategorie: pravo
+  hledat:
+  - soudn\w* šikovatel
+  pozn: Soudní sluha rychtáře – předvolává strany, svědky a přísedící, ohlašuje soudní dny a při soudu vyzývá strany k odstoupení; bral dvojitý žold.
+- id: nalezce-prava
+  cs: nálezce práva
+  de:
+  - Rechtsprecher
+  - Rechtsprechern
+  kategorie: pravo
+  hledat:
+  - nálezc\w* práv
+  pozn: Rechtsprecher – přísedící, který „nalézá“ (vyslovuje) právo, tj. navrhuje rozsudek.
+- id: recnik
+  cs: řečník
+  de:
+  - Fürsprech
+  - Fürsprecher
+  - Fürsprechen
+  kategorie: pravo
+  hledat:
+  - řečník
+  - mluvčí
+  pozn: Fürsprech – zástupce strany (žalujícího profouse i obviněného) před soudem či obcí, který za ni mluví; obvykle jím byl šikovatel. V textu též „mluvčí“.
+- id: zahajeni-soudu
+  cs: zahájení soudu
+  de:
+  - verbannung deß Rechten
+  - recht zuverbannen
+  - verbannen
+  kategorie: pravo
+  hledat:
+  - zah[aá]j\w* soud
+  pozn: Verbannung des Rechten – slavnostní otevření soudu, jímž se pod pokutou zakazuje soud rušit.
+- id: soudni-hul
+  cs: soudní hůl
+  de:
+  - Stab
+  - Stabs
+  - Gerichtsstab
+  kategorie: pravo
+  hledat:
+  - soudn\w* hůl
+  - (?<!zapalovací )\bhůl\b
+  - mocí a holí
+  pozn: Stab – odznak rychtářovy soudní moci; předává se mu při ustanovení a při rozsudku smrti se láme.
+- id: hlasovani
+  cs: hlasování
+  de:
+  - mär
+  - freye mär
+  - Mehr
+  - vmbfrag
+  kategorie: pravo
+  hledat:
+  - hlasován
+  pozn: Mehr („mär“) – hlasování obce zvednutím rukou, které vyhlašuje šikovatel; u soudu Umfrage – dotazování přísedících jednoho po druhém.
+- id: svedectvi
+  cs: svědectví
+  de:
+  - Kundtschafft
+  - Kundtschafft sag
+  kategorie: pravo
+  hledat:
+  - svědectv
+  - svědeck\w* výpověd
+  pozn: Kundschaft – svědecká výpověď; v jiném kontextu též výzvědy a zvědové (viz zvěd).
+- id: hradni-mir
+  cs: hradní mír
+  de:
+  - Burckfrieden
+  - Burgfrieden
+  kategorie: pravo
+  hledat:
+  - hradní\w* mír
+  pozn: Zvláštní mír vyhlášený v hradě či pevnosti a jejich obvodu; rvačka nebo tasení zbraně se v něm trestaly přísněji.
+- id: vysada
+  cs: výsada
+  de:
+  - freiheyt
+  - Freiheit
+  kategorie: pravo
+  hledat:
+  - výsad
+  - útočišt
+  pozn: Freiheit – výsada dělostřelectva, zvl. právo útočiště pro toho, kdo zabil bez úmyslu a utekl k dělům.
+- id: valecny-slib
+  cs: obecný válečný slib
+  de:
+  - Kriegßpflicht
+  - gemeyne Kriegßpflicht
+  kategorie: pravo
+  hledat:
+  - válečn\w* slib
+  pozn: Obecný závazek všeho válečného lidu; vyšší úředníci skládali navíc zvláštní přísahu na úřad (Eydtspflicht).
+- id: pripijeni
+  cs: připíjení
+  de:
+  - zůtrincken
+  - zůtrinckens
+  - Zutrinken
+  kategorie: pravo
+  hledat:
+  - připíj
+  pozn: Zakázaný zvyk nutit druhého, aby vypil stejnou míru jako ten, kdo mu připíjí.
+- id: vymetani-truhel
+  cs: vymetání truhel
+  de:
+  - Kistenfeger
+  - Kistenfäger
+  - Kistenfegen
+  - Kistenfegens
+  kategorie: pravo
+  hledat:
+  - (vybíjen|vymetán)\w* truhel
+  pozn: Kistenfegen – posměšně o drancování zanechaného trénu a zavazadel, kvůli němuž se zanedbává boj.
+- id: sackman
+  cs: plenění
+  de:
+  - Sackmann
+  kategorie: pravo
+  hledat:
+  - \bplenění
+  pozn: Sackmann (z ital. saccomanno) – vydání dobytého města vojsku k drancování.
+- id: soudni-pisar
+  cs: soudní písař
+  de:
+  - Gerichtschreiber
+  - Gerichtsschreiber
+  - Gerichtschreibers
+  kategorie: pravo
+  hledat:
+  - soudn\w* písař
+  pozn: Zapisuje a předčítá žaloby, svědectví, výpovědi a rozsudky; přísahá mlčenlivost.
+- id: fiskal
+  cs: fiskál
+  de:
+  - Fiscal
+  kategorie: pravo
+  hledat:
+  - fiskál
+  pozn: Vojenský žalobce u plukovního soudu.
+- id: vypoved
+  cs: výpověď
+  de:
+  - vrgicht
+  - vrgichten
+  - Urgicht
+  kategorie: pravo
+  hledat:
+  - výpověd
+  pozn: Urgicht – doznání obviněného, zvl. z útrpného výslechu; před popravou se veřejně předčítalo.
+- id: indicie
+  cs: indicie
+  de:
+  - Anzeygung
+  - anzeygung
+  kategorie: pravo
+  hledat:
+  - indici
+  pozn: Anzeigung – nepřímé důkazy proti obviněnému (pojem hrdelního řádu Karla V.).
+- id: soudni-misto
+  cs: soudní místo
+  de:
+  - Malstatt
+  kategorie: pravo
+  hledat:
+  - soudn\w* míst
+  pozn: Malstatt – místo, kde se koná soud.
+- id: mir
+  cs: mír
+  de:
+  - Frid
+  - Friden
+  - frid nemen
+  - frid gebieten
+  kategorie: pravo
+  hledat:
+  - \bmír\b
+  - \bmírem\b
+  - \bk míru\b
+  pozn: Mezi svářícími se knechty vyhlášený mír; kdo ho po trojí výzvě nepřijal nebo porušil, byl přísně trestán.
+- id: kapitulace
+  cs: kapitulace
+  de:
+  - Accord
+  - accordieren
+  kategorie: pravo
+  hledat:
+  - kapitulac
+  pozn: Accord – smlouva o vzdání pevnosti a podmínkách odchodu posádky.
+- id: telesny-trest
+  cs: tělesný trest
+  de:
+  - Leibsstraaff
+  kategorie: pravo
+  hledat:
+  - tělesn\w* trest
+  - trest\w* na těle
+  pozn: „Bey Leibsstraaff“ – pod trestem na těle (bitím, mrzačením, popř. smrtí), na rozdíl od peněžité pokuty.
+- id: kotlar
+  cs: kotlář
+  de:
+  - Heerbaucker
+  - Heerpaucker
+  kategorie: velitele
+  hledat:
+  - kotlář
+  pozn: Hráč na válečné kotle (Heerpauke) při knížatech a vysokých pánech v poli; povinnosti měl jako trubač.
+- id: prijezdne
+  cs: příjezdné
+  de:
+  - anreyt gelt
+  - Anrittgeld
+  kategorie: zold
+  hledat:
+  - příjezdn
+  pozn: Peníze na cestu jezdců z domova k přehlídce.
+- id: mile
+  cs: míle
+  de:
+  - Meil
+  - Weltsche meyl
+  - Teutsche meyl
+  kategorie: miry
+  hledat:
+  - \bmíl(e|í|ích|i)\b
+  pozn: Německá míle, asi 7–7,5 km.
+- id: vbersold
+  cs: přeplatek
+  de:
+  - vbersöld
+  - vber Söld
+  - vbersölden
+  - Übersold
+  kategorie: zold
+  hledat:
+  - přeplat
+  - příplat
+  pozn: Übersold – částka nad prosté žoldy mužstva, kterou dostával hejtman praporce a z níž se platily vyšší žoldy úřadů, dvojžoldnéřů a šlechticů; v textu též „příplatek k žoldu“.
+- id: utocny-zold
+  cs: útočný žold
+  de:
+  - Sturmsold
+  - Sturmsöld
+  kategorie: zold
+  hledat:
+  - útočn\w* žold
+  pozn: Mimořádný žold za útok na opevněné místo; císařský artikulní list ho ruší.
+- id: vypalne
+  cs: výpalné
+  de:
+  - brandtschatzen
+  - brandschatzen
+  - Brandschatzung
+  kategorie: zold
+  hledat:
+  - výpaln
+  pozn: Výkupné, které obec platila, aby nebyla vypálena; vymáhat je bez rozkazu bylo zakázáno.
+- id: vykupne
+  cs: výkupné
+  de:
+  - Rantzion
+  kategorie: zold
+  hledat:
+  - výkupn
+  pozn: Výkupné za zajatce; podle Lavatera měsíční žold za osobu.
+- id: odchodne
+  cs: odchodné
+  de:
+  - abzug
+  kategorie: zold
+  hledat:
+  - odchodn
+  pozn: Částka vyplácená při propuštění ze služby, zvl. před uplynutím smluvené doby.
+- id: stav
+  cs: stav
+  de:
+  - Stath
+  - Staat
+  kategorie: zold
+  hledat:
+  - (zvláštní|čestn)\w* stav\b
+  - následuje stav
+  - vyžaduje stav
+  pozn: Stath – vydržování (čeleď, drabanti, koně, vozy), které náleží veliteli podle hodnosti na účet válečného pána.
+- id: nakupci
+  cs: nákupčí
+  de:
+  - Spenitor
+  - Spenditor
+  kategorie: zold
+  hledat:
+  - nákupčí
+  pozn: Spenditor – hospodář a nákupčí ve velitelově domácnosti (z lat. dispensator).
+- id: predkup
+  cs: předkup
+  de:
+  - Fürkauff
+  kategorie: zold
+  hledat:
+  - předkup
+  pozn: Skupování zboží (zvl. proviantu) před trhem k dražšímu prodeji; v ležení zakázáno.
+- id: bolleta
+  cs: propustka
+  de:
+  - Bolleten
+  - Polleten
+  - Bollet
+  - Poleten
+  - Paßzedel
+  kategorie: sluzba
+  hledat:
+  - propustk
+  - ubytovac\w* lístk
+  pozn: Bolletta (ital.) – písemná poukázka; při ubytování ubytovací lístek se jménem hospodáře, který furýr dává rotmistrovi, v pevnosti propustka k odchodu, kterou kontroluje stráž u brány.
+- id: pruvodni-list
+  cs: průvodní list
+  de:
+  - Paßport
+  - Paßporten
+  - Paßborten
+  - Paßworten
+  - Pasport
+  - Passeport
+  kategorie: sluzba
+  hledat:
+  - průvodní\w* list
+  - \bpas(y|em)?\b
+  pozn: Pas – průvodní list od plukovníka nebo nejvyššího velitele; bez něho nesměl knecht opustit vojsko.
+- id: utok
+  cs: útok
+  de:
+  - Sturm
+  - Sturms
+  kategorie: sluzba
+  nepouzivat:
+  - šturm
+  hledat:
+  - \bútok
+  pozn: Sturm – útok (zteč) na opevněné místo nebo průlom.
+- id: polni-znameni
+  cs: polní znamení
+  de:
+  - Kreide
+  - Kreiden
+  - Kreyde
+  kategorie: sluzba
+  hledat:
+  - poln\w* znamen
+  - pokřik
+  pozn: Kreide – válečný pokřik, podle něhož se v boji a v noci rozeznávají vlastní lidé; vydává se spolu s heslem (Losung, Wortzeichen).
+- id: zaloha
+  cs: záloha
+  de:
+  - halt
+  - halten
+  - heymliche halten
+  - versteckte halten
+  kategorie: sluzba
+  hledat:
+  - zálo[hz]
+  pozn: Halt – ukrytý oddíl, který udeří nepříteli z boku nebo do zad.
+- id: gartovani
+  cs: gartování
+  de:
+  - gard
+  - garten
+  - Gartknecht
+  kategorie: sluzba
+  hledat:
+  - \bgartov
+  pozn: Potulování propuštěných knechtů po zemi, při němž žebrali nebo vymáhali obživu; „gartující knechti“ byli obávanou zemskou pohromou.
+- id: lot
+  cs: lot
+  de:
+  - Lot
+  kategorie: miry
+  hledat:
+  - \blot(ů|y|u|em)\b
+  pozn: 1/32 libry, asi 15 g; čtvrt libry (Vierling) = 8 lotů.
+- id: maz
+  cs: máz
+  de:
+  - Maß
+  kategorie: miry
+  hledat:
+  - \bmáz
+  pozn: Maß – míra na víno; podle výpočtu v textu 10 mázů = 1 imi.
+- id: imi
+  cs: imi
+  de:
+  - Jme
+  - Imi
+  kategorie: miry
+  hledat:
+  - \bimi\b
+  pozn: Imi – esslinská míra na víno (10 mázů).
+- id: vedro
+  cs: vědro
+  de:
+  - Eymer
+  - Eimer
+  kategorie: miry
+  hledat:
+  - \d věd(ra|er|ro)\b
+  pozn: Eimer – větší míra na víno o několika imi.
+- id: fudr
+  cs: fudr
+  de:
+  - Fuder
+  kategorie: miry
+  hledat:
+  - \bfudr
+  pozn: Fuder – největší míra na víno (sud, náklad jednoho vozu).
+- id: korec
+  cs: korec
+  de:
+  - Scheffel
+  kategorie: miry
+  hledat:
+  - \bkor(ec|ce|ci|cem|ců|cích)\b
+  pozn: Scheffel – dutá míra na obilí; stuttgartský korec měl asi 177 l a dělil se na 8 mírek.
+- id: mirka
+  cs: mírka
+  de:
+  - Simri
+  - Simern
+  kategorie: miry
+  hledat:
+  - \bmír(ka|ky|ce|ek|kou|ku|kách|kám)\b
+  pozn: Simri – osmina korce (asi 22 l); dělí se na 4 čtvrtky.
+- id: ctvrtka
+  cs: čtvrtka
+  de:
+  - Vierling
+  kategorie: miry
+  hledat:
+  - \bčtvrtk(a|y|u|ou)\b(?! zlat)
+  pozn: Vierling – čtvrtina; jako dutá míra čtvrt mírky, u váhy čtvrt libry (8 lotů).
+- id: homole-soli
+  cs: homole soli
+  de:
+  - Scheyben Saltz
+  - Saltzscheiben
+  kategorie: miry
+  hledat:
+  - homol
+  pozn: Lisovaný bochník (homole) soli, užívaný jako jednotka při výpočtu zásob.
+- id: marcel
+  cs: marcel
+  de:
+  - Marcell
+  kategorie: miry
+  hledat:
+  - marcel
+  pozn: Benátská stříbrná mince (marcello), ražená od 70. let 15. století.
+- id: stuver
+  cs: stüver
+  de:
+  - Stiber
+  kategorie: miry
+  hledat:
+  - stüver
+  pozn: Nizozemská drobná stříbrná mince; podle textu 25 stüverů = 15 bacenů = 1 zlatý.
+- id: dukat
+  cs: dukát
+  de:
+  - Ducaten
+  kategorie: miry
+  hledat:
+  - dukát
+  pozn: Zlatá mince (původně benátská), cennější než rýnský zlatý.
+- id: tlusty-penize
+  cs: tlustý peníz
+  de:
+  - dicker pfenning
+  - dicken pfenning
+  - Dicken
+  kategorie: miry
+  hledat:
+  - tlust\w* peníz
+  pozn: Dicken (Dickpfennig) – těžká stříbrná mince, asi třetina zlatého.
+- id: pevnost
+  cs: pevnost
+  de:
+  - Vestung
+  - Festung
+  - Veste
+  - Munimentum
+  - munitio
+  - fortalitium
+  - fort
+  - forteresse
+  - fortezza
+  - fortificatione
+  kategorie: opevneni
+  hledat:
+  - \bpevnost
+  pozn: Vestung – opevněné místo obehnané valy, příkopy a baštami; Lavater rozlišuje pravidelné (stejné strany a úhly) a nepravidelné.
+- id: kralovska-pevnost
+  cs: královská pevnost
+  de:
+  - Real
+  - Realvestung
+  - Royal
+  - Hauptschantz
+  - Hauptwerck
+  kategorie: opevneni
+  hledat:
+  - královsk
+  pozn: Real – plné opevnění s baštami; Lavater podle Freytaga dělí na velký, střední a malý Real podle délky obranné linie (s. 1).
+- id: polni-sance
+  cs: polní šance
+  de:
+  - Feldschantz
+  - Feldschantzen
+  - Munitio Campestris
+  - Castellum Campestre
+  - fortino
+  kategorie: opevneni
+  hledat:
+  - poln\w* šanc
+  pozn: Menší opevnění pod „malým Realem“ (s. 1).
+- id: kastel
+  cs: kastel
+  de:
+  - Castell
+  kategorie: opevneni
+  hledat:
+  - kastel
+  pozn: Citadela pevnosti.
+- id: vnejsi-polygon
+  cs: vnější mnohoúhelník
+  de:
+  - Polygonal-linien
+  - vill-egk
+  - polygone exterieur
+  - Latus polygoni exterioris
+  kategorie: opevneni
+  hledat:
+  - mnohoúhelník
+  pozn: Strana mnohoúhelníku spojující špice dvou sousedních bašt.
+- id: val
+  cs: val
+  de:
+  - Wal
+  - Wall
+  - Wälen
+  - Wäl
+  - vallum
+  - riparo
+  - terra plena
+  - terraces
+  - Wals
+  kategorie: opevneni
+  hledat:
+  - \bval(u|em|y|ů|ech)?\b
+  pozn: Wal – hlavní zemní násyp pevnosti z hlíny vykopané z příkopu; nese předprseň a děla. Lavater řadí mezi synonyma valu i „contregarde“ (u pozdějších autorů samostatné vnější dílo).
+- id: ochoz-valu
+  cs: ochoz valu
+  de:
+  - Walgang
+  - vallum ambulacri
+  - terreplein
+  kategorie: opevneni
+  hledat:
+  - ochoz
+  pozn: Horní plocha valu za předprsní (terreplein), kde stojí vojáci a děla; 20–30 stop.
+- id: svah
+  cs: svah
+  de:
+  - abdachung
+  - schräge
+  - böschung
+  - sträb
+  - gäche
+  - ablauff
+  - abhang
+  - docierung
+  - bossierung
+  - talud
+  - acclivitas
+  kategorie: opevneni
+  hledat:
+  - \bsvah
+  pozn: Sklon valu, předprsně či příkopu, vnitřní i vnější.
+- id: predprsen
+  cs: předprseň
+  de:
+  - Brustwehr
+  - Brustwehren
+  - Parapet
+  - Parapetta
+  - parapeta
+  - Brustwehrinen
+  - Brustwehre
+  - thorax
+  - lorica
+  kategorie: opevneni
+  nepouzivat:
+  - hrudí
+  hledat:
+  - předprs
+  pozn: Brustwehr (parapet) – zemní nebo zděný násep na vnější hraně valu, za nímž stojí obránci a děla krytí do prsou.
+- id: banket
+  cs: střelecký stupeň
+  de:
+  - Banck
+  - Banquet
+  - Bancket
+  - statio
+  - scamnum
+  - scabellum
+  - gradus ad loricam
+  kategorie: opevneni
+  hledat:
+  - střeleck\w* stup
+  - \bbanket
+  pozn: Banck/Banquet – stupeň za předprsní, na který obránce vystoupí, aby mohl střílet přes předprseň.
+- id: kurtina
+  cs: kurtina
+  de:
+  - Courtine
+  - Cortine
+  - Curtine
+  - Cortin
+  - Cortina
+  - Chorda
+  kategorie: opevneni
+  hledat:
+  - \bkurtin
+  pozn: Courtine – úsek valu mezi dvěma baštami.
+- id: flanka
+  cs: flanka
+  de:
+  - Flancke
+  - Flanck
+  - Flancken
+  - Streychwehr
+  - Streychwehren
+  - Streychen
+  - Streychwehrinen
+  - Flanc
+  - espaule
+  - Espaulen
+  - humerus propugnaculi
+  kategorie: opevneni
+  hledat:
+  - \bflank
+  - boční\w* obran
+  pozn: Flancke / Streychwehr – boční strana bašty, z níž se střílí podél kurtiny a čela sousední bašty; v textu též „boční obrana“. Lavater ve výkladu slučuje flanku s plecí (espaule) a orillonem (oreilon).
+- id: zadni-obrana
+  cs: zadní obrana
+  de:
+  - Affterstreych
+  - Hinderstreych
+  - secund-flanck
+  - Secundflanc
+  - second flanc
+  - ala secundaria
+  - Streychplatz
+  kategorie: opevneni
+  hledat:
+  - zadní\w* obran
+  - druh\w* flank
+  pozn: Úsek kurtiny od flanky k bodu, odkud lze ostřelovat čelo protější bašty; též druhá flanka (fr. second flanc).
+- id: basta
+  cs: bašta
+  de:
+  - Bollwerck
+  - Bollwerk
+  - Bollwercken
+  - Bastion
+  - Pastey
+  - Pasteyen
+  - Boulevart
+  - propugnaculum
+  - Sporen
+  - Bollwercks
+  - Bollwercklein
+  kategorie: opevneni
+  hledat:
+  - \bbašt
+  - \bbastion
+  pozn: Bollwerck (bastion) – pětiboké dílo vystupující z valu, tvořené dvěma čely a dvěma flankami; umožňuje boční palbu.
+- id: spice-basty
+  cs: špice bašty
+  de:
+  - Punct des Bollwercks
+  - Bollwerckspitz
+  - Bollwerckspunet
+  - angle flanqué
+  - Angulus propugnaculi
+  kategorie: opevneni
+  hledat:
+  - \bšpic
+  pozn: Vrchol bašty, průsečík obou čel (ostřelovaný úhel).
+- id: polobasta
+  cs: polobašta
+  de:
+  - halbe Bollwerck
+  - halben Bollwercken
+  kategorie: opevneni
+  hledat:
+  - polobašt
+  pozn: Poloviční bašta na křídle hornwerku nebo korunního díla.
+- id: plocha-basta
+  cs: plochá bašta
+  de:
+  - Blatte Bollwerck
+  - plat Boulevart
+  kategorie: opevneni
+  hledat:
+  - ploch\w* bašt
+  pozn: Bašta na přímé linii, uprostřed dlouhé kurtiny.
+- id: uhel-ramene
+  cs: úhel ramene
+  de:
+  - Winckel der Schulteren
+  kategorie: opevneni
+  hledat:
+  - úhl?\w* ramen
+  pozn: Úhel mezi čelem a flankou bašty; podle Lavatera nejméně 105°.
+- id: celo-basty
+  cs: čelo bašty
+  de:
+  - Gesichtlinie
+  - Gesichtlinien
+  - Face
+  - Facen
+  - Stirn
+  - Stirnen
+  - Gesichter
+  - facies
+  - frons
+  - il fronte
+  kategorie: opevneni
+  hledat:
+  - \bčel(o|a|u|em)\b
+  pozn: Gesichtlinie (face) – jedna ze dvou vnějších stran bašty, které se sbíhají ve špici.
+- id: hrdlo-basty
+  cs: hrdlo bašty
+  de:
+  - Käl
+  - Kehle
+  - Gorge
+  - schlund
+  kategorie: opevneni
+  hledat:
+  - \bhrdl
+  pozn: Käl / gorge – vstupní (zadní) otevřená strana bašty směrem do pevnosti.
+- id: linie-hrdla
+  cs: linie hrdla
+  de:
+  - Källinie
+  - Källinien
+  - linea faucium
+  kategorie: opevneni
+  hledat:
+  - lini\w* hrdla
+  pozn: Prodloužení kurtiny od flanky k bodu hrdla (pozdější „poloviční hrdlo“).
+- id: bod-hrdla
+  cs: bod hrdla
+  de:
+  - Kälpunct
+  - Kälpuncten
+  - angle polygone
+  - angulus polygoni
+  kategorie: opevneni
+  hledat:
+  - bod\w* hrdla
+  pozn: Průsečík prodloužených kurtin (linií hrdla), vrchol vnitřního mnohoúhelníku.
+- id: obranna-linie
+  cs: obranná linie
+  de:
+  - Streychlinie
+  - Streychlinien
+  - Defensionslinie
+  - beständige Streychlinien
+  - beständige defenslinien
+  - angeheffte Streychlinien
+  - Groß Streychlinien
+  - klein Streychlinien
+  - linea defensionis affixa
+  - la ligne de defense fischante
+  - la ligne de deffense flanquante
+  kategorie: opevneni
+  hledat:
+  - obrann\w* lini
+  - střeleck\w* lini
+  pozn: Streychlinie – linie palby z flanky podél čela sousední bašty. Lavater rozlišuje velkou (stálou) linii od styku kurtiny a flanky ke špici protější bašty, nejvýš 60 prutů = dostřel muškety, a malou linii jako prodloužení čela k zadní obraně.
+- id: obranny-uhel
+  cs: obranný úhel
+  de:
+  - Streychwinckel
+  - Streychwinckeln
+  - grossen Streychwinckel
+  - Groß Streychwinckel
+  - klein Streychwinckel
+  - angle flanquant exterieur
+  - angle de tenaille
+  - Angulus defensionis major
+  kategorie: opevneni
+  hledat:
+  - obrann\w* úh
+  pozn: Velký obranný úhel svírají prodloužená čela dvou bašt proti středu kurtiny; malý obranný úhel svírá kurtina s obrannou linií.
+- id: hlavni-linie
+  cs: hlavní linie
+  de:
+  - Hauptlinie
+  - Hauptlinien
+  - ligne capitale
+  - linea principalis
+  kategorie: opevneni
+  hledat:
+  - hlavní\w* lini
+  pozn: Osa (kapitála) bašty od bodu hrdla ke špici.
+- id: uhel-stredu
+  cs: úhel středu
+  de:
+  - eck Centri
+  - Angulus ad Centrum
+  - anglc, ou Centre
+  kategorie: opevneni
+  hledat:
+  - úhel středu
+  - středov\w* úh
+  pozn: Úhel dvou poloměrů ve středu pevnosti.
+- id: berma
+  cs: berma
+  de:
+  - Berm
+  - Berme
+  - lisiere
+  - margovalli
+  - zehen
+  - füß am Wal
+  kategorie: opevneni
+  hledat:
+  - \bberm
+  pozn: Berm – úzká vodorovná plošina mezi patou valu a hranou příkopu; zachycuje sesouvající se zeminu. Lavater ji nazývá i „pata valu“ (füß am Wal), šíře 4–8 stop.
+- id: faussebraie
+  cs: dolní val
+  de:
+  - Faussebraye
+  - Faussebrayen
+  - Faussebraie
+  - Fausse braye
+  - fossebraye
+  - Succinctus
+  - vnderwal
+  - Vnderwälen
+  - vnderstand
+  - vnderlauff
+  kategorie: opevneni
+  hledat:
+  - dolní\w* val
+  - faussebra
+  pozn: Faussebraye – nižší val s předprsní před hlavním valem, na okraji příkopu; obránci z něj střílejí do příkopu.
+- id: prikop
+  cs: příkop
+  de:
+  - Graben
+  - Gräben
+  - Wassergraben
+  - Fossé
+  - fosse
+  - fossa
+  kategorie: opevneni
+  hledat:
+  - \bpříkop
+  pozn: Graben – suchý nebo vodní příkop před valem.
+- id: eskarpa
+  cs: eskarpa
+  de:
+  - scarpa
+  kategorie: opevneni
+  hledat:
+  - eskarp
+  pozn: Vnitřní svah příkopu na straně valu.
+- id: kyneta
+  cs: vodní příkopek
+  de:
+  - Wassergräblin
+  kategorie: opevneni
+  hledat:
+  - vodní\w* příkop(ek|k)
+  pozn: Úzký kanál ve dně suchého příkopu (kyneta).
+- id: kontreskarpa
+  cs: kontreskarpa
+  de:
+  - Contrescarpe
+  - Contrescarpen
+  - Contrascarpa
+  - contrescarpa
+  - acclivitas exterior
+  - gegenschräg
+  - gegenböschung
+  - Contrascarp
+  - Contrascarpe
+  - Contrascarpen
+  - Contrascarps
+  kategorie: opevneni
+  hledat:
+  - kontreskarp
+  - kontraskarp
+  pozn: Contrescarpe – vnější svah (stěna) příkopu na straně nepřítele; často i krytá cesta za ní. Užití „contrescarpe“ pro krytou cestu označuje Lavater za nesprávné (abusivè).
+- id: kryta-cesta
+  cs: krytá cesta
+  de:
+  - bedeckter Weg
+  - bedeckte Weg
+  - Corridor
+  - chemin couvert
+  - bedeckten weg
+  - via cooperta
+  - strada coperta
+  - vallado
+  kategorie: opevneni
+  hledat:
+  - kryt\w* cest
+  pozn: Bedeckter Weg – cesta po vnějším okraji příkopu, krytá vlastní nízkou předprsní a sklonem glacis.
+- id: obchuzkova-cesta
+  cs: obchůzková cesta
+  de:
+  - Ronde-weg
+  - Chemin de Ronde
+  - chemin des rondes
+  - runde weg
+  kategorie: opevneni
+  hledat:
+  - obchůzkov\w* cest
+  - obchozí\w* cest
+  pozn: Cesta na rozšířené bermě za zdí na vnější hraně; se zemní předprsní tvoří dolní val.
+- id: glacis
+  cs: glacis
+  de:
+  - Glacis
+  - Esplanade
+  kategorie: opevneni
+  hledat:
+  - \bglacis
+  pozn: Glacis – mírně se svažující násep před krytou cestou, otevřené pole palby.
+- id: ravelin
+  cs: ravelin
+  de:
+  - Ravelin
+  - Ravelein
+  - Ravellein
+  - Castellum defixum
+  - moles
+  kategorie: opevneni
+  hledat:
+  - \bravelin
+  pozn: Ravelein – samostatné dílo za příkopem před kurtinou nebo branou. Lavater je místy klade naroveň půlměsíci (s. 12), jinde je rozlišuje (s. 13, 75) – viz půlměsíc.
+- id: pulmesic
+  cs: půlměsíc
+  de:
+  - halber Mond
+  - halben Mönen
+  - Halbmön
+  - halbe Mön
+  - halbe Mönd
+  - Halber Mon
+  - demies lunes
+  - luna dimidiata
+  kategorie: opevneni
+  hledat:
+  - půlměsíc
+  pozn: Halber Mond – dílo vybíhající do špice vně příkopu před branou nebo slabou baštou. Lavater ho místy ztotožňuje s ravelinem (s. 12), jinde odlišuje (s. 13, 75).
+- id: kleste
+  cs: kleště
+  de:
+  - Zang
+  - Zangen
+  - tenaille
+  - forcipula
+  - tenaglia
+  kategorie: opevneni
+  hledat:
+  - \bklešt
+  pozn: Dílo s dovnitř zalomenou frontou (tenaille).
+- id: reduta
+  cs: reduta
+  de:
+  - Reduct
+  - Reducten
+  - Redoute
+  - halbe Reducten
+  - receptus
+  kategorie: opevneni
+  hledat:
+  - redut
+  pozn: Malá uzavřená čtvercová šance bez bašt, např. na konci aproše; Lavater ji ve výkladu ztotožňuje se strážnicí (Corps de garde).
+- id: hornwerk
+  cs: hornwerk
+  de:
+  - Hornwerck
+  - Hornwerk
+  - Hornwercken
+  - Horn
+  - opera Cornuta
+  - ouurages â Corne
+  kategorie: opevneni
+  hledat:
+  - \bhornwer
+  - rohov\w* díl
+  - korunov\w* díl
+  pozn: Hornwerck – vnější dílo ze dvou polobašt spojených kurtinou, vybíhající do pole („rohy“).
+- id: korunni-dilo
+  cs: korunní dílo
+  de:
+  - Kronwerck
+  - Kronwerk
+  - Cronwerck
+  - opera Coronata
+  - Couronnes
+  kategorie: opevneni
+  hledat:
+  - korunní\w* díl
+  pozn: Kronwerck – vnější dílo s jednou celou a dvěma polobaštami („koruna“).
+- id: vnejsi-dilo
+  cs: vnější dílo
+  de:
+  - Aussenwerck
+  - Ausserwerck
+  - Außenwerck
+  - Butenwerck
+  - ausseren Werck
+  - aussere Werck
+  - ausseren Wercken
+  - Ausserwercken
+  kategorie: opevneni
+  hledat:
+  - vnější\w* díl
+- id: palisada
+  cs: palisáda
+  de:
+  - Palisade
+  - Palissade
+  - Palissaden
+  - Pallisaden
+  - Palissades
+  - sudes præpilatæ
+  kategorie: opevneni
+  hledat:
+  - \bpalisád
+  pozn: Palisade – řada zahrocených kůlů zaražených do země jako překážka.
+- id: staketa
+  cs: kůlový plot
+  de:
+  - Stagket
+  - Stagketen
+  - Stacket
+  - Staketen
+  - Stacketen
+  kategorie: opevneni
+  hledat:
+  - kůlov\w* plot
+  - štaket
+  pozn: 'Stagketen – plot z kůlů a latí kolem valu; Lavater: „grosse höltzer vnd zäun vmb ein Wal“.'
+- id: sturmhaspel
+  cs: útočná kozlice
+  de:
+  - Sturmhäspel
+  - Sturmhaspel
+  - Sturmhäspeln
+  - Sturmhäsplen
+  - Frisische Reuter
+  - Friesische Reuter
+  - Barricades
+  - cavaliers de Frises
+  - Echini
+  kategorie: opevneni
+  hledat:
+  - kozlic
+  - sturmhasp
+  pozn: Sturmhaspel – otočný trám osazený hroty (podobný „španělskému jezdci“), zatarasí průlom nebo bránu proti útoku.
+- id: batterie
+  cs: baterie
+  de:
+  - Batterie
+  - Batterey
+  - Battereyen
+  - Batteries
+  - agger tormentarius
+  - Batterieren
+  kategorie: delostrelectvo
+  hledat:
+  - \bbateri
+  pozn: Batterie – postavení pro děla s předprsní a střílnami.
+- id: kontrabaterie
+  cs: kontrabaterie
+  de:
+  - Contrabattereyen
+  - Contrabatterey
+  - contrabatterieren
+  kategorie: delostrelectvo
+  hledat:
+  - kontrabater
+  pozn: Baterie stavěná proti nepřátelské baterii; kontrabaterování = palba proti ní.
+- id: poterna
+  cs: výpadní branka
+  de:
+  - Postpörtlein
+  - Außlaßpörtlein
+  - Poterne
+  - Ausfall-pforten
+  kategorie: opevneni
+  hledat:
+  - výpad\w* brank
+  - potern
+  pozn: Postpörtlein / Außlaßpörtlein – malá skrytá branka ve valu pro výpady a spojení s příkopem.
+- id: aprose
+  cs: aproše
+  de:
+  - Approche
+  - Approchen
+  - Laufgraben
+  - Lauffgraben
+  - Approches
+  - approchieren
+  - Approchieren
+  kategorie: opevneni
+  hledat:
+  - \baproš
+  - běžn\w* zákop
+  pozn: Approche – klikatý přibližovací zákop obléhatelů k pevnosti.
+- id: protiaprose
+  cs: protiaproše
+  de:
+  - Gegenlauffgräben
+  - Gegenapprochen
+  - contre approches
+  kategorie: opevneni
+  hledat:
+  - protiaproš
+  pozn: Zákop vedený obleženými proti nepřátelským aproším.
+- id: zakop
+  cs: zákop
+  de:
+  - Tranche
+  - Tranchee
+  - Tranchen
+  - Trenche
+  - Tränschey
+  - eynschantzungen
+  kategorie: opevneni
+  hledat:
+  - \bzákop
+  pozn: Tranchée – zákop; u Lavatera (výklad, s. 124–125) i souvislé opevnění kolem celého ležení (obkličovací linie).
+- id: ukolnik
+  cs: úkolník
+  de:
+  - Verdinger
+  - Verdingeren
+  kategorie: zold
+  hledat:
+  - úkolník
+  pozn: Dělník placený smluvně od díla (např. od prutu příkopu).
+- id: mina
+  cs: mina
+  de:
+  - Mine
+  - Minen
+  - Mina
+  - Sprenge
+  - Sprengenen
+  - cuniculi
+  - vndergrabung
+  kategorie: opevneni
+  hledat:
+  - \bmin(a|y|u|ou|ami|ách)\b
+  pozn: Mine – podzemní chodba pod hradbu naplněná prachem k jejímu vyhození do vzduchu.
+- id: protimina
+  cs: protimina
+  de:
+  - Contramine
+  - Contraminen
+  - Contremine
+  - cuniculi reciproci
+  kategorie: opevneni
+  hledat:
+  - protimin
+  - kontramin
+  pozn: Protipodkop obležených proti nepřátelské mině.
+- id: prulom
+  cs: průlom
+  de:
+  - Bresche
+  - Breschen
+  - Breche
+  - Ruina valli
+  - bruch des Wals
+  kategorie: opevneni
+  hledat:
+  - průlom
+  pozn: Breš – otvor ve valu proražený dělostřelbou nebo minou.
+- id: galerie
+  cs: galerie
+  de:
+  - Gallerey
+  - Gallerie
+  - Galerie
+  - Schirmdach
+  - Schirmtach
+  - vinea
+  kategorie: opevneni
+  hledat:
+  - \bgaleri
+  pozn: Gallerey – krytý průchod obléhatelů přes příkop (střecha z prken a hlíny).
+- id: kavalir
+  cs: kavalír
+  de:
+  - Cavallier
+  - Cavalier
+  - Katz
+  - Katze
+  - Cavalieurs
+  - Cavalieur
+  kategorie: opevneni
+  hledat:
+  - \bkaval[íi]r
+  - \bkočk
+  pozn: Cavallier / Katze – vyvýšené dělostřelecké postavení na valu nebo baště, z něhož se střílí přes vlastní předprseň. Lavater ve výkladu klade Cavalieurs = Katzen (viz též kočka).
+- id: retransement
+  cs: retranšement
+  de:
+  - Retrenchement
+  - Retrenche
+  - Abschnitt
+  - Retranchieren
+  - verschantzungen
+  kategorie: opevneni
+  hledat:
+  - retranš
+  - \bodsek
+  - vnitřní\w* šanc
+  pozn: Retrenchement / Abschnitt – vnitřní opevnění za průlomem, druhá obranná linie.
+- id: zadni-sance
+  cs: zadní šance
+  de:
+  - Affterschantz
+  - Affterschantzen
+  kategorie: opevneni
+  hledat:
+  - zadní\w* šanc
+  pozn: Vnitřní náhradní opevnění za ohroženým dílem; srov. retranšement.
+- id: prut
+  cs: prut
+  de:
+  - Ruthe
+  - Ruhte
+  - Ruhten
+  - Ruthen
+  kategorie: miry
+  hledat:
+  - \bprut
+  pozn: Ruthe – délková míra, zde 12 rýnských stop (asi 3,77 m).
+- id: stopa
+  cs: stopa
+  de:
+  - Schuh
+  - Schuhe
+  - Schuch
+  - Fuß
+  - werckschuh
+  - schuhen
+  kategorie: miry
+  hledat:
+  - \bstop(a|y|u|ou|ách|ám)\b
+  pozn: Schuh – stopa, asi 30 cm (rýnská stopa 31,4 cm).
+- id: palec
+  cs: palec
+  de:
+  - Daumen
+  - zoll
+  kategorie: miry
+  hledat:
+  - \bpal(ec|ce|ců|cích|cem|ci)\b
+  pozn: 1/12 stopy, asi 2,5 cm.
+- id: sah
+  cs: sáh
+  de:
+  - Klaffter
+  kategorie: miry
+  hledat:
+  - \bsáh
+  pozn: Délková míra, asi 1,8 m.
+- id: pid
+  cs: píď
+  de:
+  - Spanne
+  - spannen
+  - spang
+  kategorie: miry
+  hledat:
+  - \bpí(ď|dě|dí|dích)\b
+  pozn: Rozpětí ruky, asi 20–23 cm.
+- id: musketa
+  cs: mušketa
+  de:
+  - Musquete
+  - Musqueten
+  - Muskete
+  - Musquet
+  - Mußqueten
+  - Lunden Rohr
+  - Musquetten
+  kategorie: zbrane
+  hledat:
+  - \bmušket(a|y|u|ou|ami|ách)?\b
+  pozn: Musquete – těžká doutnáková puška 17. století, při střelbě opřená o vidlici (Gabel).
+- id: bandalir
+  cs: bandalír
+  de:
+  - Pandelier
+  - Pandeliers
+  kategorie: zbrane
+  hledat:
+  - bandalír
+  pozn: Ramenní řemen mušketýra s náložemi prachu v dřevěných pouzdérkách, prachovnicí, kapsou na koule a doutnákem.
+- id: karabina
+  cs: karabina
+  de:
+  - Pandalierrohr
+  kategorie: zbrane
+  hledat:
+  - karabin
+  pozn: Jezdecká karabina zavěšená hákem na bandalíru.
+- id: musketyr
+  cs: mušketýr
+  de:
+  - Musquetierer
+  - Musquetier
+  - Musquetirer
+  - Musquetierern
+  kategorie: jednotky
+  hledat:
+  - mušketýr
+- id: vidlice
+  cs: vidlice
+  de:
+  - Gabel
+  - Gablen
+  - Gabeln
+  kategorie: zbrane
+  hledat:
+  - \bvidlic
+  pozn: Gabel – opěrná vidlice pod hlaveň těžké muškety.
+- id: doutnak
+  cs: doutnák
+  de:
+  - Lunden
+  - Lunte
+  - Lunten
+  - Zündstrick
+  - Londen
+  - Lont
+  - Lonten
+  - Lond
+  - Lonte
+  kategorie: zbrane
+  hledat:
+  - \bdoutn
+  pozn: Lunte – pomalu doutnající provazec k zapálení prachu na pánvičce muškety či děla.
+- id: pikenyr
+  cs: pikenýr
+  de:
+  - Pickenierer
+  - Pickenirer
+  - Pikenier
+  - Spiesser
+  - Spießknecht
+  - Spießknechten
+  - Picquenier
+  - Pickquenierer
+  - Picquenierer
+  kategorie: jednotky
+  hledat:
+  - pikenýr
+  pozn: Lavater pikenýra ztotožňuje s dvojžoldnéřem.
+- id: pika
+  cs: píka
+  de:
+  - Picke
+  - Piquen
+  - Pique
+  - Spiess
+  - Spieß
+  - Spies
+  - langer Spieß
+  - langen Spiessen
+  - Langspieß
+  - Picken
+  - Picques
+  - Picken oder Spieß
+  - Spiessen
+  - Spiesses
+  - Spieses
+  kategorie: zbrane
+  hledat:
+  - \bpík(a|y|u|ou|ami|ách)?\b
+  pozn: Pike/Spieß – dlouhá píka pěšího šiku (asi 5 m).
+- id: korporal
+  cs: desátník
+  de:
+  - Corporal
+  - Corporale
+  - Corporalen
+  - Corporaln
+  kategorie: velitele
+  hledat:
+  - \bdesátní
+  - \bkaprál
+  pozn: Corporal – nejnižší poddůstojník, velí desátce (Corporalschaft) a vede ji na stráž. Lavaterův slovníček vykládá Corporal jako „Rottmeister“.
+- id: desatka
+  cs: desátka
+  de:
+  - Corporalschafft
+  - Corporalschafften
+  kategorie: jednotky
+  hledat:
+  - \bdesát(ka|ky|ce|ku|kou|kách|kám)\b
+  pozn: Oddíl kompanie pod desátníkem (Corporal).
+- id: svobodnik
+  cs: svobodník
+  de:
+  - Gefreyte
+  - Gefreyten
+  - Gefreyter
+  - Adelsborst
+  - Adelsborsten
+  kategorie: velitele
+  hledat:
+  - svobodník
+  pozn: Zkušený voják osvobozený od stání na stálé stráži; koná obchůzky, drží ztracené stráže a zastupuje desátníka. Dobové synonymum Adelsborst.
+- id: kompanie
+  cs: kompanie
+  de:
+  - Compagnie
+  - Compagnien
+  - Companie
+  kategorie: jednotky
+  hledat:
+  - \bkompani
+  - \bsetnin
+  pozn: Compagnie – základní útvar pěchoty pod hejtmanem (v 16. století „praporec“).
+- id: hlavni-straz
+  cs: hlavní stráž
+  de:
+  - Hauptwacht
+  - Hauptwachten
+  kategorie: sluzba
+  hledat:
+  - hlavní\w* stráž(?!nic)
+  pozn: Hauptwacht – hlavní stráž posádky, odkud se rozvádějí hlídky, kde se drží heslo a ukládají klíče od bran; budova stráže viz strážnice.
+- id: straznice
+  cs: strážnice
+  de:
+  - Corps de garde
+  - Corps de guarde
+  - Haupt-Corps de garde
+  - Wachthauß
+  - Wachthäuser
+  kategorie: sluzba
+  hledat:
+  - strážnic
+  pozn: Corps de garde – budova či stanoviště stráže; Haupt-Corps de garde = hlavní strážnice. Lavater ve výkladu klade Corps de garde i jako synonymum reduty.
+- id: rond
+  cs: obchůzka
+  de:
+  - Rond
+  - Ronde
+  - Runde
+  - Scharwacht
+  - Ronden
+  - Rondewacht
+  kategorie: sluzba
+  hledat:
+  - \bobchůz
+  pozn: Ronde – kontrolní obchůzka důstojníka po hradbách a strážích v noci.
+- id: hlavni-obchuzka
+  cs: hlavní obchůzka
+  de:
+  - Hauptronde
+  - Hauptrond
+  kategorie: sluzba
+  hledat:
+  - hlavní\w* obchůz
+  pozn: Kontrolní obchůzka důstojníka před půlnocí.
+- id: patrola
+  cs: patrola
+  de:
+  - Patrollie
+  - Patrollien
+  kategorie: sluzba
+  hledat:
+  - patrol
+  pozn: Obchůzka pěších i jízdních oddílů ulicemi města.
+- id: konvoj
+  cs: doprovod
+  de:
+  - Convoy
+  - Convoi
+  - convojieren
+  - Convoyen
+  - Convojen
+  kategorie: sluzba
+  hledat:
+  - \bdoprovod
+  - \bkonvoj
+  pozn: Convoy – ozbrojený doprovod vozů se zásobami nebo penězi.
+- id: bagaz
+  cs: zavazadla
+  de:
+  - Bagage
+  - Bagagie
+  kategorie: sluzba
+  hledat:
+  - zavazadl
+  - bagáž
+  pozn: Bagage – vozy s výstrojí a majetkem vojska; srov. trén.
+- id: lavater
+  cs: Hans Conrad Lavater
+  de:
+  - Lavater
+  - Lavatern
+  - Hans Conrad Lavater
+  kategorie: osoby
+  hledat:
+  - lavater
+  pozn: Curyšský hejtman a pevnostní stavitel (1609–1665), autor knihy.
+- id: freytag
+  cs: Adam Freytag
+  de:
+  - Freytag
+  - Freytag der Jngenieur
+  kategorie: osoby
+  hledat:
+  - freytag
+  pozn: Adam Freitag (Freytag, 1608–1650), autor vlivné příručky opevňování Architectura militaris nova et aucta (1631); Lavater (s. 1) přebírá jeho dělení pevností.
+- id: marolois
+  cs: Samuel Marolois
+  de:
+  - Maralois
+  kategorie: osoby
+  hledat:
+  - marolois
+  pozn: Nizozemský matematik (asi 1572 – před 1627), autor příručky Fortification ou architecture militaire (1615); Lavater (s. 6) cituje jeho hvězdicové šance.
+- id: furttenbach
+  cs: Joseph Furttenbach
+  de:
+  - Furtenbachs
+  kategorie: osoby
+  hledat:
+  - furt+enbach
+  pozn: Ulmský architekt (1591–1667), autor spisů o dělostřelectvu a ohňostrojích (s. 28).
+- id: oranzsky
+  cs: princ Oranžský
+  de:
+  - Printzen
+  kategorie: osoby
+  hledat:
+  - \bknížete\b
+  pozn: Narážka „Arbeit für den Printzen“ (s. 124) na nizozemské obléhací umění oranžských princů (Mořic, Frederik Jindřich).
+- id: vegetius
+  cs: Vegetius
+  de:
+  - Vegetius
+  kategorie: osoby
+  hledat:
+  - vegeti
+  pozn: Pozdně římský autor spisu Epitoma rei militaris, citovaný v předsádce.
+- id: bodmer
+  cs: Johann Jacob Bodmer
+  de:
+  - Bodmern
+  kategorie: osoby
+  hledat:
+  - bodmer
+  pozn: Curyšský tiskař knihy (1651).
+- id: arduser
+  cs: Johann Ardüser
+  de:
+  - Ardüser
+  kategorie: osoby
+  hledat:
+  - ardüser
+  pozn: Curyšský matematik a pevnostní inženýr (1585–1665), autor jedné z oslavných básní.
+- id: werdmuller
+  cs: Werdmüller
+  de:
+  - Werdmüller
+  - Werdmüllers
+  kategorie: osoby
+  hledat:
+  - werdmüller
+  pozn: Patrně Hans Georg Werdmüller (1616–1678), curyšský inženýr opevnění (básně v předsádce).
+- id: eberhard
+  cs: mistr Eberhard
+  de:
+  - Eberhard
+  kategorie: osoby
+  hledat:
+  - eberhard
+  pozn: Curyšský výrobce kožených děl (básně v předsádce).
+- id: brandli
+  cs: Brändli
+  de:
+  - Brändlj
+  kategorie: osoby
+  hledat:
+  - brändli
+  pozn: Pomocník mistra Eberharda při výrobě kožených děl.
+- id: meyer
+  cs: Meyer
+  de:
+  - Meyers
+  kategorie: osoby
+  hledat:
+  - \bmeyer
+  pozn: Curyšský kovář, zhotovitel šroubovaného železného děla; blíže neurčen.
+- id: werder
+  cs: Felix Werder
+  de:
+  - Werder
+  kategorie: osoby
+  hledat:
+  - \bwerder\b
+  pozn: Curyšský puškař (1591–1673), autor zlacených pistolí; identifikace překladatele.
+- id: holzhalb
+  cs: Holzhalb
+  de:
+  - Holtzhalben
+  kategorie: osoby
+  hledat:
+  - holzhalb
+  pozn: Curyšský stavitel mostu (básně v předsádce).
+- id: korner
+  cs: cechmistr Körner
+  de:
+  - Körner
+  kategorie: osoby
+  hledat:
+  - körner
+  pozn: Curyšský cechmistr, tvůrce vodního stroje (básně v předsádce).
+- id: zurich
+  cs: Curych
+  de:
+  - Zürich
+  kategorie: mista
+  hledat:
+  - \bcurych
+- id: sprisezenstvi
+  cs: Spříseženstvo
+  de:
+  - Eydgnoschafft
+  - Eydgnossen
+  kategorie: mista
+  hledat:
+  - spříseženstv
+  pozn: Švýcarské spříseženstvo (konfederace kantonů).
+- id: limmat
+  cs: Limmat
+  de:
+  - Limmat
+  - Limmat-Fluß
+  kategorie: mista
+  hledat:
+  - limmat
+  pozn: Řeka protékající Curychem.
+- id: ryn
+  cs: Rýn
+  de:
+  - Rhein
+  kategorie: mista
+  hledat:
+  - \brýn(u|em|a)?\b
+  pozn: Řeka na severní hranici curyšského území.
+- id: svedsko
+  cs: Švédsko
+  de:
+  - Schweden
+  kategorie: mista
+  hledat:
+  - švédsk
+  pozn: Zmíněno v básních předsádky.
+- id: holandsko
+  cs: Holandsko
+  de:
+  - Holand
+  kategorie: mista
+  hledat:
+  - holand
+  pozn: Nizozemí; Lavater uvádí holandský prut o 12 stopách (s. 14).
+- id: rise
+  cs: Říše
+  de:
+  - Reych
+  kategorie: mista
+  hledat:
+  - \bříš(e|i|í)\b
+  pozn: Svatá říše římská.
+- id: guverner
+  cs: guvernér
+  de:
+  - Gubernator
+  - Gubernatorn
+  - Gouverneur
+  - Gubernators
+  kategorie: velitele
+  nepouzivat:
+  - gubernátor
+  hledat:
+  - guvern
+  pozn: Gubernator – velitel pevnosti a její posádky, jmenovaný vrchností; odpovídá za obranu, stráže a zásoby.
+- id: komandant
+  cs: komandant
+  de:
+  - Commandant
+  - Commandanten
+  kategorie: velitele
+  hledat:
+  - komandant
+  pozn: Guvernérův náměstek (Statthalter), obvykle podplukovník; v nepřítomnosti guvernéra velí pevnosti.
+- id: medirytina
+  cs: mědirytina
+  de:
+  - Kupfferblat
+  - Kupfferblatt
+  kategorie: zbrane
+  hledat:
+  - \bmědirytin
+  pozn: Tabule s mědirytinami připojené ke knize; v edici jsou to strany tab-01 až tab-12 a odkazy na ně v textu jsou proklikem na příslušnou tabuli.
+- id: rozkaz
+  cs: rozkaz
+  de:
+  - Ordre
+  - Ordres
+  kategorie: sluzba
+  hledat: []
+  pozn: Ordre (franc.) – rozkaz, pokyn velitele; v 17. stol. běžné slovo vojenské němčiny.
+- id: brana
+  cs: brána
+  de:
+  - Porte
+  - Porten
+  kategorie: opevneni
+  hledat: []
+  pozn: Porte (franc.) – brána města nebo pevnosti.
+- id: odstup
+  cs: odstup
+  de:
+  - Distantz
+  - Distanz
+  kategorie: jednotky
+  hledat: []
+  pozn: Distanz – vzdálenost mezi řadami a členy šiku při pochodu, cvičení a v boji.
+- id: vyterak
+  cs: vytěrák
+  de:
+  - Wüscher
+  - Wischer
+  kategorie: delostrelectvo
+  hledat:
+  - \bvytěrá[kc]
+  pozn: Nástroj na dlouhé násadě k vyčištění a uhašení hlavně děla po výstřelu, před dalším nabitím.
+- id: nabijak
+  cs: nabiják
+  de:
+  - Ladstecken
+  - Ladstock
+  kategorie: zbrane
+  hledat:
+  - \bnabijá[kc]
+  pozn: Tyč k upěchování nálože a koule v hlavni.
+- id: nabijeci-lopatka
+  cs: nabíjecí lopatka
+  de:
+  - Ladschauffel
+  - Ladschaufflen
+  kategorie: delostrelectvo
+  hledat:
+  - nabíjecí\w* (lopat|lžíc)
+  pozn: Lopatka (lžíce) na dlouhé násadě, kterou se do hlavně děla vpravoval volně sypaný prach.
+- id: stanoviste
+  cs: stanoviště
+  de:
+  - Posten
+  - Post
+  kategorie: sluzba
+  hledat: []
+  pozn: Posten (franc. poste) – místo přidělené stráži nebo oddílu k obraně.
+- id: dustojnik
+  cs: důstojník
+  de:
+  - Officier
+  - Officierer
+  - Officiers
+  kategorie: velitele
+  hledat:
+  - \bdůstojní[kc]
+  pozn: Officier (franc.) – nositel velitelské hodnosti; v 17. stol. nové slovo vedle starších Befelchsleute (velitelé).
+- id: pruzkum
+  cs: průzkum
+  de:
+  - recognoscieren
+  - Recognoscierer
+  kategorie: sluzba
+  hledat:
+  - \bprůzkum
+  pozn: Recognoscieren (lat. recognoscere) – obhlédnout nepřítele, pevnost nebo terén; Recognoscierer = průzkumník.
+- id: vetrna-svice
+  cs: větrná svíce
+  de:
+  - Windliecht
+  - Windliechter
+  kategorie: delostrelectvo
+  hledat:
+  - větrn\w* sv[íi]c
+  pozn: Smolná svíce či pochodeň odolná větru k osvětlení při nočních pracích a v boji.
+- id: zavora
+  cs: závora
+  de:
+  - Schlagbaum
+  - Schlagbäum
+  - Schlagbäumen
+  kategorie: opevneni
+  hledat:
+  - \bzávor
+  pozn: Schlagbaum – sklopné břevno uzavírající cestu před branou nebo průchod v opevnění.
+- id: rotni-druh
+  cs: rotní druh
+  de:
+  - Rottgesell
+  - Rottgesellen
+  - Gesell
+  - Gesellen
+  kategorie: jednotky
+  hledat:
+  - \brotní\w* druh
+  pozn: Spolubojovník z téže roty (Rotte), skupiny vojáků, kteří spolu táboří a stravují se; „Gesell“ = druh, kamarád – tak se knechti oslovovali navzájem.
+- id: furketa
+  cs: furketa
+  de:
+  - Fourcket
+  - Fourquet
+  - Furket
+  - Fourquette
+  - Forcket
+  kategorie: zbrane
+  hledat:
+  - furket
+  pozn: Fourquet (franc.) – opěrná vidlice pod hlaveň těžké muškety (něm. Gabel).
+- id: odmerka-naloze
+  cs: odměrka nálože
+  de:
+  - Ladmaß
+  - Ladung
+  - Ladungs masse
+  - Ladungen
+  kategorie: zbrane
+  hledat:
+  - odměrk\w* nálož
+  pozn: Dřevěná či plechová odměrka s jednou dávkou střelného prachu zavěšená na bandalíru mušketýra (lidově zvaná „apoštol“).
+- id: dnovy-sroub
+  cs: dnový šroub
+  de:
+  - Schwanschrauben
+  - Schwantzschrauben
+  - grossen schrauben
+  kategorie: zbrane
+  hledat:
+  - dnov\w* šroub
+  pozn: Šroub uzavírající zadní konec hlavně muškety.
+- id: spoust
+  cs: spoušť
+  de:
+  - Trucker
+  kategorie: zbrane
+  hledat:
+  - \bspouš[ťt]
+  pozn: Páka či spoušť doutnákového zámku muškety.
+- id: pazba
+  cs: pažba
+  de:
+  - Laden
+  - Schafft
+  - Schaffts
+  - Anschlag
+  kategorie: zbrane
+  hledat:
+  - \bpažb
+  - podpažb
+  pozn: Dřevěná pažba muškety, v níž je uložena hlaveň a zámek; „Anschlag“ = konec (opěrka) pažby přikládaný k rameni či boku.
+- id: panvicka
+  cs: pánvička
+  de:
+  - Pfanne
+  - Pfann
+  - Pfan
+  - Pfannen
+  kategorie: zbrane
+  hledat:
+  - pánvič
+  pozn: Pfanne – miska u zámku muškety, na niž se sype zápalný prach (Zündpulver) a chrání se otočnou krytkou.
+- id: kohout
+  cs: kohout
+  de:
+  - Han
+  - Hanen
+  - Hahnen
+  - Hahn
+  kategorie: zbrane
+  hledat:
+  - \bkohout
+  pozn: Hahn – pohyblivé rameno doutnákového zámku se svěracími čelistmi, do nichž se upevňuje hořící doutnák.
+- id: prachovnicka
+  cs: prachovnička
+  de:
+  - Zündfläschlein
+  - Zündtfläschlein
+  - Zündtfleschlin
+  - Ladfleschlein
+  - Ladfleschlin
+  kategorie: zbrane
+  hledat:
+  - prachovnič
+  pozn: Malá prachovnice zavěšená na bandalíru – na jemný zápalný prach (Zündfläschlein) k podsypání pánvičky nebo na prach pro hlavní nálož (Ladfleschlein).
+- id: kastelan
+  cs: kastelán
+  de:
+  - Tschachtlan
+  - Tschachtlanen
+  kategorie: velitele
+  hledat:
+  - kastelán
+  pozn: Tschachtlan (z franc. châtelain) – bernský správce hradu a přilehlého soudního okrsku v alpských údolích, obdoba zemského fojta.
+- id: fojt
+  cs: fojt
+  de:
+  - Landvogt
+  - Landvögten
+  - Vogt
+  - Vögte
+  - Undervogt
+  - Undervögten
+  - Landtvögten
+  - Vögten
+  - Vndervögten
+  kategorie: velitele
+  hledat:
+  - \bfojt
+  - podfojt
+  pozn: Landvogt (zemský fojt) – správce bernského venkovského okrsku (panství) jmenovaný z Velké rady; Undervogt (podfojt) – jeho místní zástupce.
+- id: amman
+  cs: amman
+  de:
+  - Ammann
+  - Ammannen
+  - Ammanen
+  kategorie: velitele
+  hledat:
+  - \bamman
+  pozn: Ammann – představený venkovské obce či soudu v bernských zemích.
+- id: svobodny-sikovatel
+  cs: svobodný šikovatel
+  de:
+  - Freyweibel
+  - Freyweiblen
+  kategorie: velitele
+  hledat:
+  - svobodn\w* šikovatel
+  pozn: Freyweibel – v bernském zřízení vyšší obecní či zemský úředník a soudní zřízenec pod zemským fojtem.
+- id: mistodrzici
+  cs: místodržící
+  de:
+  - Statthalter
+  - Statthalteren
+  kategorie: velitele
+  hledat:
+  - místodržíc
+  pozn: Statthalter – v bernské správě zástupce městského či zemského úřadu (zemského fojta či šultyse).
+- id: polni-hejtman
+  cs: polní hejtman
+  de:
+  - Feldhaubtman
+  - Feldhauptmann
+  kategorie: velitele
+  hledat:
+  - poln\w* hejtman
+  pozn: Feldhauptmann – označení vrchního polního velitele vojska (v biblickém a historickém kontextu).
+- id: povel
+  cs: povel
+  de:
+  - Commandement
+  - Befelch
+  - Befehls wörter
+  - Befelchs wörter
+  kategorie: sluzba
+  hledat:
+  - \bpovel
+  pozn: Commandement / Befehlswort – ustálený hlasový rozkaz velitele pro nácvik se zbraní a obraty šiku.
+- id: postoj
+  cs: postoj
+  de:
+  - Postur
+  - Stand
+  - Standt
+  kategorie: sluzba
+  hledat:
+  - \bpostoj
+  - \bpozic
+  pozn: Postur / Stand – základní bojové postavení vojáka se zbraní a v šiku; „Herstellt euch!“ = návrat do původního postoje.
+- id: zbran
+  cs: zbraň
+  de:
+  - Gewehr
+  - gewehr
+  - Wehr
+  kategorie: zbrane
+  hledat: []
+  pozn: Gewehr / Wehr – souhrnný název zbraně (zejména hlavní pěší zbraně – muškety či píky, případně poboční zbraně).
+- id: zdvojovani
+  cs: zdvojování
+  de:
+  - dopplieren
+  - doppliert
+  - gedopplet
+  - gedoppliert
+  - Dopplierung
+  kategorie: jednotky
+  hledat:
+  - zdvoj
+  pozn: 'Manévr oranžské taktiky: vsunutí sudých řad nebo zástupů do lichých za účelem zhuštění či rozšíření šiku.'
+- id: zatoceni
+  cs: zatočení
+  de:
+  - schwencken
+  - schwenckt
+  - schwingen
+  - schwingt
+  - schwäncken
+  kategorie: jednotky
+  hledat:
+  - zatoč
+  - zakruž
+  pozn: Schwenken / Schwingen – otočení (kolo) celého sevřeného šiku o 90° či 180° kolem křídelního zástupu.
+- id: cviceni
+  cs: válečné cvičení
+  de:
+  - Exercitium
+  - Exercitij
+  - Kriegsvbung
+  - Kriegs Exercitij
+  kategorie: sluzba
+  hledat: []
+  pozn: Exercitium / Kriegsübung – systematický výcvik jednotlivce se zbraní a jednotky v pořadových obratech.
+- id: venkov
+  cs: venkov
+  de:
+  - Landschafft
+  - Landschafften
+  kategorie: mista
+  hledat: []
+  pozn: Landschaft – ve švýcarských městských republikách poddanské venkovské území spravované z města, z něhož se stavěla zemská milice.

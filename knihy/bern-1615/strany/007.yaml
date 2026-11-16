@@ -1,0 +1,23 @@
+id: '007'
+list: '7'
+strana: recto
+sken: 25
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    darumb das die Musquet alda gewichts halb am lichtesten/ vnd in gegengewicht ist/ vnd sol dieselbige wenig in der lincken Hand sincken lassen/ ohne den Lyb zekrümmen oder zu biegen.
+  cs: |-
+    protože je tam mušketa {Musquet} z hlediska váhy nejlehčí a v rovnováze; a má ji nechat v levé ruce trochu sklesnout, aniž by tělo křivil nebo ohýbal.
+  pokracovani: true
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Mit rechter Hand die Musquet empor halt/ vnd in die lincke sincken laßt.
+  cs: Pravou rukou držte mušketu vzhůru a nechte ji klesnout do levé.
+- typ: odstavec
+  de: |-
+    Zum Vierten/ wie er die Musquet nur mit der Rechten Hand allein empor halten sol/ dieselbige neben der Gabel in der lincken Hand zugreiffen/ Nemlich sol er die Musquet in der anderen Hand nicht fallen lassen/ sonder sol mit der lincken Hand der Musqueten zu steur kommen/ vnd dieselbige zwüschen die Gabel vnd den Daumen bequemlich einfügen.
+  cs: |-
+    Za čtvrté, jak má mušketu držet vzhůru pouze samotnou pravou rukou, aby ji v levé ruce uchopil vedle vidlice {Gabel}: totiž nemá nechat mušketu spadnout do druhé ruky, nýbrž má levou rukou mušketě pomoci a pohodlně ji vložit mezi vidlici a palec.

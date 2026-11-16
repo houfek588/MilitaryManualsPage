@@ -1,0 +1,20 @@
+id: '037'
+list: '37'
+strana: recto
+sken: 55
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: lincken zu ruck/ vnd mit dem rechten Fuß vor.
+  cs: levou [nohou] zpět a pravou nohou vpřed.
+- typ: nadpis
+  uroven: 3
+  de: Gegen die Reuterey den Spieß felt/ vnd ziehet von Leder.
+  cs: Skloňte píku {Spieß} proti jízdě {Reuterey} a taste zbraň z pochvy.
+- typ: odstavec
+  de: |-
+    Zum 15. den Spieß gegen die Reuterey zufellen/ stelt er denselben in die mitte der höle des rechten Fusses/ trittet mit dem lincken Fuß voran/ vnd erfaßt (sein lincken Fuß vor also buckende) den Spieß in einer zeit in die lincke/ steurt den Ellebogen auff das Knie/ den Spieß desto steiffer zu halten/ welcher nicht höher vom Boden/ als eins Pferds Brust höhe sein soll/ halt die rechte Hand frey/ mit welchern er darnach zugleich sein Seitenwehr ausserhalb dem lincken Arm von Leder ziecht.
+  cs: |-
+    Za 15., chce-li [voják] sklopit píku proti jízdě, postaví ji doprostřed klenby pravé nohy, vykročí levou nohou vpřed a (krče takto vpředu levou nohu) uchopí píku v jedné době do levé [ruky], opře loket o koleno, aby píku držel o to pevněji, přičemž ta nemá být nad zemí výše než do výšky koňské hrudi; pravou ruku nechá volnou a vzápětí jí současně tasí svou postranní zbraň {Seitenwehr} z pochvy vně levé paže.

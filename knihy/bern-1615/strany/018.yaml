@@ -1,0 +1,31 @@
+id: 018
+list: '18'
+strana: verso
+sken: 36
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    darinn er den Ladstecken also kurtz gefaßt/ auß dem Mundt/ oder da er sonst die Kugel intregt/ geschwind herauß nemmen/ vnd in die Musquet hinein rollen lassen sol.
+  cs: |-
+    v níž takto nakrátko drží nabiják {Ladstecken}, rychle vyjmout z úst nebo odkudkoli jinak, kde kouli {Kugel} nosí, a nechat ji vkoulet do muškety {Musquet}.
+  pokracovani: true
+- typ: nadpis
+  uroven: 3
+  de: Das Puluer niderstampfft.
+  cs: Upěchujte prach {Puluer}.
+- typ: odstavec
+  de: |-
+    Zum 27. wie er mit dem Ladstecken das Puluer/ vnd die Kugel zusamen in die Musquet stampffen/ vnd die Gabel noch immer schleiffen lassen sol/ die Musquet aber nicht/ wo er derselben mechtig sein mag.
+  cs: |-
+    Za sedmadvacáté, jak má nabijákem upěchovat v mušketě prach i kouli dohromady a vidlici {Gabel} nechat stále ještě vléci za sebou, mušketu však nikoli, pokud jí vládne.
+- typ: nadpis
+  uroven: 3
+  de: Den Ladstecken außziecht.
+  cs: Vytáhněte nabiják.
+- typ: odstavec
+  de: |-
+    Zum 28. wie er widerumb den Ladstecken mit einer vmbgedreheten oder verkehrten Hand auß der Musquet ziehen/ die Forcket schleiffen/ vnd die Musquet (wo er derselben mechtig) von der Erden halten soll.
+  cs: |-
+    Za osmadvacáté, jak má opět nabiják otočenou nebo obrácenou rukou vytáhnout z muškety, furketu {Forcket} vléci za sebou a mušketu držet nad zemí, pokud jí vládne.

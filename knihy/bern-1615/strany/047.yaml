@@ -1,0 +1,44 @@
+id: '047'
+list: '47'
+strana: recto
+sken: 65
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nemmen ein weitere distantz/ vnnd werden doch die Glider geschlossen bleiben.
+  cs: |-
+    zaujmou širší odstup {distantz}, a přece zůstanou řady {Glider} sevřené.
+- typ: nadpis
+  uroven: 3
+  de: 16. Lincks offnet euwre Reyen.
+  cs: 16. Vlevo otevřete své zástupy {Reyen}.
+- typ: odstavec
+  de: |-
+    Hat einen ebenmessigen Verstand allhie die Reyen zu offnen/ wie hievor steht/ außgenommen/ daß man sich auff dem lincken Fuß gegen der lincken Hand vmbdrehet.
+  cs: |-
+    Má to zde zcela stejný význam pro otevření zástupů, jak je uvedeno výše, s tou výjimkou, že se člověk otočí na levé noze směrem k levé ruce.
+- typ: nadpis
+  uroven: 3
+  de: 17. Vorwerts offnet euwre Glider.
+  cs: 17. Vpřed otevřete své řady.
+- typ: odstavec
+  de: |-
+    Da gehn die Glider von einander/ vorwerts/ nemmen eine weitere/ oder die vorige distantien/ vnnd bleibt das letste Glid still stehn.
+  cs: |-
+    Zde se řady od sebe vzdalují směrem vpřed, zaujímají širší nebo původní odstupy a poslední řada zůstává stát klidně.
+- typ: nadpis
+  uroven: 3
+  de: 18. Hinderwerts offnet euwre Glider.
+  cs: 18. Vzad otevřete své řady.
+- typ: odstavec
+  de: |-
+    So kehrt sich der hauffen rechts vmb/ mit offnung vnnd wider herstellung der Glideren/ wie obstaht.
+  cs: |-
+    Při tom se šik {hauffen} obrátí vpravo čelem vzad, s otevřením a opětovným návratem řad do původního postoje, jak je uvedeno výše.
+- typ: nadpis
+  uroven: 3
+  de: 19. Rechts schwingt (oder schwenckt) euch.
+  cs: 19. Vpravo zakružte (nebo zatočte).

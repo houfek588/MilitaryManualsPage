@@ -1,0 +1,25 @@
+id: '017'
+list: '17'
+strana: recto
+sken: 35
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Den Ladstecken außziecht.
+  cs: Vytáhněte nabiják {Ladstecken}.
+- typ: odstavec
+  de: |-
+    Zum 25. Wie er den Ladstecken mit einer verkehrten/ oder vertreheten Hand auß der Laden ziehen vnd die Gabel noch immer schleiffen lassen/ die Musquet aber empor halten sol.
+  cs: |-
+    Za pětadvacáté, jak má nabiják obrácenou neboli přetočenou rukou vytáhnout z pažby {Laden}, vidlici {Gabel} nechat stále ještě vléci za sebou, mušketu {Musquet} však držet vzhůru.
+- typ: nadpis
+  uroven: 3
+  de: Den Ladstecken kurtz fasset.
+  cs: Uchopte nabiják nakrátko.
+- typ: odstavec
+  de: |-
+    Zum 26. Wie er den Ladstecken mit verkehrter Hand ergreiffen/ soll er den ersten zug/ so hoch er kommen mag/ thun/ damit er denselben in dem anderen zug gar herauß habe/ Darnach den Ladstecken auff der Brust oder Seiten verkürtzen/ dardurch er in alweg desto leichter/ vnd fertiger wirt laden können. Wo fehr er nur scharpff schiessen wolte/ sol er die Kugel mit derselben Hand/
+  cs: |-
+    Za šestadvacáté, jak má nabiják uchopit obrácenou rukou: první tah má provést tak vysoko, jak jen dosáhne, aby jej na druhý tah vytáhl již zcela ven; poté má nabiják zkrátit [úchopem] o hruď nebo o bok, čímž bude moci v každém případě o to snadněji a rychleji nabíjet. Kdyby pak chtěl střílet ostrou ranou, má kouli {Kugel} toutéž rukou,

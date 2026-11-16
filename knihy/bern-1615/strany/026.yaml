@@ -1,0 +1,36 @@
+id: '026'
+list: '26'
+strana: verso
+sken: 44
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  pokracovani: true
+  de:
+  - 15. Gegen dem rechten Fuß ewere Spieß fellet/ vnd die wehr von Läder ziecht.
+  - 16. Herstelt euch.
+  - 17. Auff die Schulteren den Spieß legt.
+  - 18. Hinderwerts eweren Spieß fellet.
+  - 19. Herstellet euch.
+  cs:
+  - 15. Skloňte svou píku {Spieß} k pravé noze a taste zbraň z pochvy.
+  - 16. Zaujměte původní postoj.
+  - 17. Položte píku na rameno.
+  - 18. Skloňte svou píku dozadu.
+  - 19. Zaujměte původní postoj.
+- typ: odstavec
+  de: |-
+    In disem Exercitio deß Spieses sind kurtzlich zumercken/ viererley Manieren/ wie man den selben tragen/ oder regieren sol. Nemlich flach/ vberwerts/ auffwerts/ vnd schleiffend: Was aber ferners damit gehandlet/ wirt hernach folgende Explication gnugsam zuverstehn geben. Vnd ist hiebey wahrzunemmen (alle Confusion zemeiden) das ein jede Manier/ wie man den Spieß tragen/ oder fellen soll/ sonderlich verrichtet/ vnnd keine andere angefangen werde/ es seye dann die erste handlung vollendet/ vnnd der Spieß widerumb nidergestellt/ zu welchem end man diß General Gebott gebrauchen soll:
+    Eweren Spieß herstelt,
+    oder
+    Herstellt euch.
+  cs: |-
+    V tomto cvičení s píkou je třeba stručně poznamenat čtvero způsobů, jak ji nosit nebo ovládat: totiž naplocho, šikmo[^1], vzhůru a vlečením. Co se s ní však dělá dále, to dostatečně objasní následující výklad. A přitom je třeba dbát (aby se předešlo veškerému zmatku), aby se každý způsob, jak se má píka nosit nebo sklápět, prováděl zvlášť a nezačínal se žádný jiný, dokud není dokončen předchozí úkon a píka opět postavena na zem; k tomu se má používat tento obecný rozkaz:
+    Vraťte svou píku do původního postoje,
+    nebo
+    Zaujměte původní postoj.
+poznamky:
+- n: 1
+  text: >-
+    V originále zde stojí „vberwerts“ (šikmo přes rameno), což v přehledu čtvera nesení píky odpovídá způsobu popsanému v 5. bodě jako „abwerts“ (skloněně dolů).

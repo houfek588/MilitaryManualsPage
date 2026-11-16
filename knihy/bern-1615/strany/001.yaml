@@ -1,0 +1,32 @@
+id: '001'
+list: '1'
+strana: recto
+sken: 19
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Das Exercitium mit der Musqueten.
+  cs: Cvičení s mušketou {Musqueten}
+- typ: nadpis
+  uroven: 2
+  de: 'Die Wörter deß Befelchs/ vnd Commandement vber die Musqueten:'
+  cs: Povelová slova a rozkazy pro muškety
+- typ: seznam
+  de:
+  - 1. Marschiert (oder ziehet) mit der Fourcket/ oder Gabel in der Hand.
+  - 2. Marschiert vnd tregt die Gabel neben der Musqueten.
+  - 3. Ewer Musquet sincken laßt/ vnd von der Schulteren nembt.
+  - |-
+    4. Mit rechter Hand ewer Musquet empor/ (oder in die höche) haltet/ vnd in die lincke sincken laßt.
+  - 5. In die lincke Hand ewere Musquet nembt/ vnd die Gabel darneben.
+  - 6. Ewer Lond in die rechte Hand nembt.
+  cs:
+  - 1. Pochodujte (nebo jděte) s furketou {Fourcket} nebo vidlicí {Gabel} v ruce.
+  - 2. Pochodujte a noste vidlici vedle muškety.
+  - 3. Skloňte svou mušketu a sejměte ji z ramene.
+  - |-
+    4. Pravou rukou držte svou mušketu vzhůru (nebo do výše) a nechte ji klesnout do levé.
+  - 5. Vezměte svou mušketu do levé ruky a vidlici vedle ní.
+  - 6. Vezměte svůj doutnák {Lond} do pravé ruky.

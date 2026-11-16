@@ -1,0 +1,28 @@
+id: '010'
+list: '10'
+strana: verso
+sken: 28
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Zum 9. wie er die Lont mit vortheil versuchen/ vnd mit den anderen Fingern regieren sol/ damit er dieselbe also bald lenger/ kürtzer/ wie dann auch nidriger vnd höcher machen könne.
+  cs: |-
+    Za deváté, jak má doutnák {Lont} obratně vyzkoušet a ostatními prsty jej usměrňovat, aby jej vzápětí mohl prodloužit či zkrátit, jakož i snížit či zvýšit.
+- typ: nadpis
+  uroven: 3
+  de: Die Pfann deckt/ die Lont abblaßt/ vnd die Pfann auffthut.
+  cs: Zakryjte pánvičku {Pfann}, ofoukněte doutnák a otevřete pánvičku.
+- typ: odstavec
+  de: |-
+    Zum 10. wie er die Lont abblasen/ vnd zugleich auch mit den zwen vordersten Fingern den Pfann deckel (damit keine Funcken von dem Lont darauff fallen) decken/ vnd dieselb bequemlich öffnen sol.
+  cs: |-
+    Za desáté, jak má doutnák ofouknout, zároveň dvěma předními prsty zakrýt víčko pánvičky (aby na ni nepadly žádné jiskry z doutnáku) a pohodlně ji otevřít.
+- typ: nadpis
+  uroven: 3
+  de: Die Musquet empor/ oder höch halt.
+  cs: Držte mušketu {Musquet} vzhůru nebo do výše.
+- typ: odstavec
+  de: Zum 11. wie er die Musquet in die Gabel legen/ vnd dieselben
+  cs: Za jedenácté, jak má mušketu vložit do vidlice {Gabel} a

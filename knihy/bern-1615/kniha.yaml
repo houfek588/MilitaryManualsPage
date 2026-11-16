@@ -1,0 +1,75 @@
+id: bern-1615
+nazev: Stručný přehled a průvodce vojenským výcvikem a manévry
+nazev_orig: Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung
+podtitul: Also kurtzlich zum Nutz vnd Gebrauch der Löblichen Republic zu Bern/ vnd derselben Stetten/ vnd Landschafft zu samen getragen. Vnd Des Durchleuchtigen/ Hochgebornen Fürsten vnd Herren/ Herrn Mauritii, Fürsten zu Oranien/ vndt Graffen zu Nassaw/ &c. gleichförmig gemachet vnd angeordnet.
+autor: Město Bern (připisováno Valentinu Friderichovi)
+autor_zivot: činný v Bernu 1609–1632
+vydani: Bern, Abraham Weerli, 1615
+rok: 1615
+katalog: VD17 / e-rara DOI 10.3931/e-rara-7750
+rozsah: '[16], 52 stran, 8°'
+jazyk_orig: raná nová horní němčina (bernská), latina (citáty na s. [4])
+popis: >-
+  Výcviková příručka městské a zemské milice republiky Bern sestavená podle oranžských (nizozemských)
+  vojenských reforem Mořice Nasavského: úvodní nařízení rady města Bernu, 40 povelů a postupů pro cvičení
+  s mušketou, 19 pro cvičení s píkou a 33 povelů s výkladem pro obraty a zdvojování bitevního šiku.
+prekladatel: Pracovní překlad revidovaný a doplněný s pomocí LLM, 2026.
+strankovani: strany
+strany_poznamka: 'Tisk je stránkován (str. 1–52). Titulní list, citáty a předmluva rady města Bernu (str. [3]–[18]) čísla stran nemají.'
+zdroj_textu: 'Německý text pochází z OCR digitalizace Universitätsbibliothek Bern (e-rara.ch) s opravenými chybami podle skenu;'
+
+sken:
+  instituce: Universitätsbibliothek Bern
+  kratce: UB Bern / e-rara
+  portal: e-rara.ch
+  signatura: MUE Rar alt 559
+  id: '2050509'
+  zaklad_id: 2050511
+  doi: https://doi.org/10.3931/e-rara-7750
+  url_dilo: https://www.e-rara.ch/bes_1/content/titleinfo/2050509
+  url_strana: https://www.e-rara.ch/bes_1/content/zoom/{erara_id}
+  url_obrazek: https://www.e-rara.ch/i3f/v20/{erara_id}/full/{sirka},/0/default.jpg
+  licence: 'Volné dílo (Public Domain Mark); digitalizace: Universitätsbibliothek Bern / e-rara.ch'
+  paticka: 'Sken: Universitätsbibliothek Bern / e-rara.ch (Public Domain)'
+  poznamka: >-
+    Skeny 1–2 a 71–78 jsou vazba a prázdné předsádky; tištěný text tvoří skeny 3–18 (předsádka, str. [3]–[18])
+    a skeny 19–70 (str. 1–52). ID snímku na e-rara = 2050511 + sken.
+
+predsadka:
+- titul
+- citaty
+- predmluva-01
+- predmluva-02
+- predmluva-03
+- predmluva-04
+- predmluva-05
+- predmluva-06
+- predmluva-07
+- predmluva-08
+- predmluva-09
+- predmluva-10
+- predmluva-11
+- predmluva-12
+- predmluva-13
+- predmluva-14
+
+poznamky_k_prekladu: |
+  ZDROJ ORIGINÁLU: německý text vychází z OCR digitalizace Universitätsbibliothek Bern (e-rara, ID 2050509).
+  Je nutné opravovat chyby OCR podle skenu (dlouhé ſ čtené jako f, zkomolená slova, chybné rozdělení slov)
+  při zachování dobového pravopisu tisku (vnd, auff, seyn, Musqueten, Spieß).
+
+  STRUKTURA NADPISŮ:
+  - uroven: 1 = hlavní části knihy: Titulní list (`titul`), Citáty (`citaty`), Výnos a předmluva rady města Bernu
+    (`predmluva-01`), Cvičení s mušketou (`001`), Cvičení s píkou (`025`), Obraty bitevního šiku (`041`).
+  - uroven: 2 = pododdíly („Povelová slova a rozkazy…“, „Následuje stráž“, „Výklad těchto vojenských termínů“).
+  - uroven: 3 = nadpisy jednotlivých povelů před výkladovými odstavci (u muškety 1–40, u píky 1–19, u obratů 1–33).
+
+  POVELY A SPECIFICKÁ TERMINOLOGIE:
+  - Všechny povely (u muškety, píky i obratů) sjednotit na 2. osobu množného čísla rozkazovacího způsobu
+    („Skloňte mušketu a sejměte ji z ramene“, „Zvedněte píku…“).
+  - *Ladmaß (oder Ladung)* překládat věrně jako „odměrka nálože (nebo nálož)“ (výklad „apoštol“ do poznámky/glosáře).
+  - *Fourcket* / *Gabel* důsledně rozlišovat jako „furketa“ / „vidlice“ podle originálu; vždy „mušketa“ (ne „musketa“).
+  - *Spieß* důsledně jako „píka“.
+  - Bernské úřady v předmluvě sladit s glosáři Lavatera a Fronspergera: rychtář {Schuldtheiß} (s pozn. o bernském šultysovi),
+    zemský fojt {Landvogt}, guvernér {Gubernator}, kastelán {Tschachtlan}, fojt {Vogt}, místodržící {Statthalter},
+    podfojt {Undervogt}, svobodný šikovatel {Freyweibel}, amman {Ammann}, šikovatel {Weibel}.

@@ -1,0 +1,37 @@
+id: '015'
+list: '15'
+strana: recto
+sken: 33
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Zum 19. wie er das Ladpuluer von dem Pfanndeckel abschütten sol/ damit die Musquet/ wann er die Lundten versuchen wil/ nicht vnversehens loß gehe.
+  cs: |-
+    Za devatenácté, jak má sesypat [přebytečný] prach {Ladpuluer} z víčka pánvičky, aby mušketa {Musquet}, až bude chtít vyzkoušet doutnák {Lundten}, nečekaně nevystřelila.
+- typ: nadpis
+  uroven: 3
+  de: Die Pfann abblaßt.
+  cs: Ofoukněte pánvičku {Pfann}.
+- typ: odstavec
+  de: |-
+    Zum 20. wie er zum vberfluß das Ladpuluer von dem Pfanndeckel (so etwas darauff were ligen bliben) zu mehrer sicherheit abblasen sol.
+  cs: |-
+    Za dvacáté, jak má navíc pro větší bezpečnost odfouknout prach z víčka pánvičky (pokud by na něm nějaký zůstal ležet).
+- typ: nadpis
+  uroven: 3
+  de: Die Musquet vmbdrehet.
+  cs: Obraťte mušketu.
+- typ: odstavec
+  de: |-
+    Zum 21. wie er die Musquet widrumb zuladen/ mit der Gabel vmbwenden sol/ vnd dieselbe mit der rechter Hand/ von vnden/ nach der lincken seiten zusteuren.
+  cs: |-
+    Za jednadvacáté, jak má mušketu spolu s vidlicí {Gabel} otočit zpět k nabíjení a pravou rukou ji zespodu nasměrovat k levé straně.
+- typ: nadpis
+  uroven: 3
+  de: Die Gabel schleifft.
+  cs: Vlečte vidlici za sebou.
+- typ: odstavec
+  de: Zum 22. wann er die Musquet
+  cs: Za dvaadvacáté, až mušketu

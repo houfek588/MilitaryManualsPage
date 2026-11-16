@@ -1,0 +1,22 @@
+id: '030'
+list: '30'
+strana: verso
+sken: 48
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Hand/ welche (rechte Hand) er alsbald hindersich schleiffen laßt (so sehr als er damit gelangen mag) die mitte deß Spiesses zubekommen/ vnnd in gleicher zeit mit dem rechten Fuß hindersich tretten. Demnach thut er in sölchen schlipffen der Hand einem Blick hindersich/ damit er seinen hinder jhm stehenden Mitsoldaten nit verletze/ vnd den Spieß in rechter Gewicht auff die Schulteren bekomme.
+  cs: |-
+    ruku, a tuto (pravou ruku) vzápětí nechá sklouznout dozadu (tak daleko, kam až s ní dosáhne), aby zachytil střed píky {Spiesses}, a ve stejný čas vykročí pravou nohou vzad. Poté při tomto sklouznutí ruky vrhne pohled za sebe, aby nezranil svého spolubojovníka stojícího za ním a dostal píku na rameno ve správné rovnováze.
+- typ: nadpis
+  uroven: 3
+  de: Flach oder eben den Spieß tragt.
+  cs: Neste píku naplocho nebo vodorovně.
+- typ: odstavec
+  de: |-
+    Zum 4. wie er den Spieß/ flach/ oder eben muß tragen: Nemlich sol der selbig in rechter gegen gwicht grad/ hinden vornen gleicher höche/ auff der Schultern ligen.
+  cs: |-
+    Za 4., jak má píku nosit naplocho nebo vodorovně: má totiž ležet na rameni ve správné protiváze, rovně, vpředu i vzadu ve stejné výšce.

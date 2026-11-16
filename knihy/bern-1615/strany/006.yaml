@@ -1,0 +1,21 @@
+id: '006'
+list: '6'
+strana: verso
+sken: 24
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Demnach/ wie er auff ein andre Manier sein Gabel tragen sol/ wann er sich zum schiessen fertig machen wil. Nemblich er sol die Gabel neben der Musqueten in der lincken Hand tragen/ vnnd dieselbe/ so lang das Ysen ist/ vber die Hand kommen lassen.
+  cs: |-
+    Za druhé [se ukáže], jak má nosit svou vidlici {Gabel} jiným způsobem, když se chce připravit ke střelbě: má totiž vidlici nosit v levé ruce vedle muškety {Musqueten} a nechat ji přesahovat přes ruku tak daleko, jak dlouhé je její železo.
+- typ: nadpis
+  uroven: 3
+  de: Die Musquet sincken laßt/ vnd von der Schultern nembt.
+  cs: Skloňte mušketu a sejměte ji z ramene.
+- typ: odstavec
+  de: |-
+    Zum Dritten/ wie er die Fourcket oder Gabel/ wann er die Musquet vom Hals nemmen wil/ durch die lincke Hand/ ohne der rechten hilff/ ein wenig sol sincken lassen/ vnd zu gleich auch die Musquet leichtlich von der Schulteren/ nur mit rechter Hand allein nemmen/ vnnd hinder der grossen Schrauben angreiffen/
+  cs: |-
+    Za třetí, jak má nechat furketu {Fourcket} neboli vidlici trochu sklesnout levou rukou bez pomoci pravé, když chce mušketu sejmout od krku [z ramene], a zároveň má mušketu lehce sejmout z ramene pouze samotnou pravou rukou a uchopit ji za velkým [dnovým] šroubem {grossen Schrauben},

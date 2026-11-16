@@ -1,0 +1,18 @@
+id: predmluva-08
+list: předmluva
+strana: verso
+sken: 12
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    andere notwendige sachen/ so da mit wolstand die Waffen zu führen lehren/ desto volkomner haben/ vnd behalten möchten: Wollen demnach/ daß sich vnsere Vnderthanen zu Statt vnnd Land das Büchlin/ so wol in seiner Theorey/ als Praxi bekant machen: damit das wann es die noht erforderen wirt/ als getrewe/ vnd gehorsame Vnderthanen gebürt/ bereit gefunden werden/ die jenigen/ so in dem einen/ oder anderen vns feindlich anzufallen fürnemmen dörfften/ vnerschrocken zu verstossen/ vnd zu dempffen/ helffen.
+  cs: |-
+    další nezbytné věci, jež učí vést zbraně řádně a se ctí, o to dokonaleji ovládali a v paměti si uchovali. Chceme tudíž, aby se naši poddaní ve městě i na venkově s touto knížkou obeznámili jak v její teorii, tak v praxi, aby tak – až to nouze bude vyžadovat, jak se na věrné a poslušné poddané sluší – byli shledáni připravenými neohroženě zapudit a pomoci potlačit ty, kteří by se opovážili nás v tom či onom nepřátelsky napadnout.
+- typ: odstavec
+  de: |-
+    Vnd dieweil etliche sich villeicht möchten finden lassen/ als welchen man niemals nichts zu gefallen thun kan/ welche obijcieren vnd fürwerffen möchten: das die erfahrung vnd experientz einig vnd allein ein guten
+  cs: |-
+    A jelikož by se snad mohli najít někteří, jimž se člověk nikdy ničím nezavděčí a kteří by mohli namítat a předhazovat, že pouze a jedině zkušenost a praxe činí dobrého

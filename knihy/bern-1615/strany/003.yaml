@@ -1,0 +1,47 @@
+id: '003'
+list: '3'
+strana: recto
+sken: 21
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  de:
+  - 27. Das Pulver niderstampfft.
+  - 28. Den Ladstecken außziecht.
+  - 29. Den Ladstecken kurtz faßt.
+  - 30. Den Ladstecken wider einsteckt.
+  - 31. Ewer Musquet mit der lincken Hand herfür bringet.
+  - |-
+    32. Die Musquet mit rechter Hand in die höch/ oder empor halt/ vnd die Gabel erfaßt.
+  - 33. Auff die Schulteren die Musqueten legt.
+  - 34. Marschiert vnnd tregt die Gabel neben der Musqueten.
+  cs:
+  - 27. Upěchujte prach {Pulver}.
+  - 28. Vytáhněte nabiják {Ladstecken}.
+  - 29. Uchopte nabiják nakrátko.
+  - 30. Zasuňte nabiják zpět.
+  - 31. Předneste svou mušketu {Musquet} levou rukou.
+  - |-
+    32. Držte mušketu pravou rukou do výše nebo vzhůru a uchopte vidlici {Gabel}.
+  - 33. Položte mušketu na rameno.
+  - 34. Pochodujte a noste vidlici vedle muškety.
+- typ: nadpis
+  uroven: 2
+  de: Volget die Schiltwacht.
+  cs: Následuje stráž {Schiltwacht}
+- typ: seznam
+  de:
+  - 35. Ewer Musqueten von der Schulteren nembt.
+  - 36. Die Musquet in die Fourcket oder Gabel legt.
+  - 37. Ewer Musquet auff der Fourcket halt.
+  - |-
+    38. Ewer Musquete in der Fourcket mit der lincken Hand allein im gwicht halt.
+  - |-
+    39. In die rechte Hand ewer Lonten faßt/ Ewer Lonten abblaßt/ Ewer Lont
+  cs:
+  - 35. Sejměte svou mušketu z ramene.
+  - 36. Položte mušketu do furkety {Fourcket} neboli vidlice.
+  - 37. Držte svou mušketu na furketě.
+  - 38. Držte svou mušketu ve furketě pouze levou rukou v rovnováze.
+  - 39. Uchopte do pravé ruky svůj doutnák {Lonten}, ofoukněte doutnák, svůj doutnák

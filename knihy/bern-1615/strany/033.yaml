@@ -1,0 +1,20 @@
+id: '033'
+list: '33'
+strana: recto
+sken: 51
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: auffwerts tragen soll/ wie zuvor im ersten Puncten angezeigt.
+  cs: nést ji vzhůru, jak bylo ukázáno dříve v prvním bodě.
+- typ: nadpis
+  uroven: 3
+  de: Den Spieß fellt.
+  cs: Skloňte píku {Spieß}.
+- typ: odstavec
+  de: |-
+    Zum 9. wie er den Spieß in einem Termin/ oder zeit (weiln derselb empor oder auffwerts steht) fellen/ Nemlich soll er denselben/ wie obstaht/ mit der lincken Handt höher angreiffen/ darnach den rechten Arm also gestracks führen/ daß der Ellenbogen vber sich komme/ vnd der Spieß auff der lincken flachen Hand/ vnd nit allein zwischen dem Daumen vnd Zeiger lige. Der lincke Arm seye nicht schweiffendt: sonders rühre vngezwungner massen den Leib in Gürtelhöhe an/ den Spieß desto besser zu halten/ vnnd ein steifferen stoß zu thun. Das
+  cs: |-
+    Za 9., jak má píku sklopit v jednom kroku nebo v jedné době (poněvadž stojí vzpřímeně čili vzhůru): má ji totiž, jak je uvedeno výše, uchopit levou rukou výše, poté vést pravou paži tak nataženou, aby loket směřoval vzhůru a píka ležela na ploché levé dlani, a nikoli pouze mezi palcem a ukazováčkem. Levá paže ať neodstává stranou, nýbrž ať se nenuceně dotýká těla ve výši pasu, aby se píka o to lépe držela a dal se zasadit pevnější bod. Levé

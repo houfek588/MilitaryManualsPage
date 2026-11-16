@@ -27,6 +27,7 @@ nastroje/
   stahni_ocr_bsb.py         stažení OCR z digitale-sammlungen.de
   dta_strany.py             rozdělení přepisu Deutsches Textarchiv (TEI) po stranách → zdroje/dta/NNNN.txt
   import_lavater.py         jednorázový import pracovního překladu Lavatera (.md)
+  import_bern.py            jednorázový import pracovního překladu Bernské příručky (.md)
   over_strany.py            kontrola dat (struktura, párování, poznámky, terminologie)
   odkazy_rytiny.py          Lavater: označení odkazů na mědirytiny v překladu značkou [[tab-NN|text]]
   odkazy_strany.py          označení odkazů na čísla stran („Čti s. 5“) značkou [[id|text]] (knihy se stránkováním)
@@ -58,8 +59,9 @@ Podrobný postup krok za krokem včetně kontrolního seznamu: [PRIDANI_KNIHY.md
 Pořadí stran určuje pole `sken` (číslo snímku). V `kniha.yaml` nastav `strankovani: folio` (fol. XII r) nebo `strany` (str. 12)
 a údaje o skenech (`sken.url_strana`, `sken.url_obrazek` s {sken}/{sken4}/{sken5}/{sirka}, `sken.paticka`).
 
-Knihy: `fronsberger-1564` (Fronsperger, Kriegs Ordnung vnd Regiment, sken BSB) a `lavater-1651`
-(Lavater, Kriegs-Büchlein, Curych 1651; německý text z přepisu Deutsches Textarchiv, CC BY-SA 4.0).
+Knihy: `fronsberger-1564` (Fronsperger, Kriegs Ordnung vnd Regiment, sken BSB), `lavater-1651`
+(Lavater, Kriegs-Büchlein, Curych 1651; německý text z přepisu Deutsches Textarchiv, CC BY-SA 4.0) a `bern-1615`
+(Město Bern, Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung, Bern 1615; sken UB Bern / e-rara).
 
 ## Web
 - čtení po **kapitolách** (`#/kap/<id>`) i po **stranách tisku** (`#/strana/018r`), šipky ← → listují,
@@ -86,3 +88,4 @@ Při zvýšení vyššího čísla se nižší nulují (1.2.3 → 1.3.0 → 2.0.
 - Fronsperger, *Kriegs Ordnung vnd Regiment*, Frankfurt a. M. 1564 (VD16 F 3130). Sken: Bayerische Staatsbibliothek
   München, 2 Polon. 9#Beibd.1, [bsb00045899](https://www.digitale-sammlungen.de/de/view/bsb00045899) (úplný sken; starší digitalizace bsb10150061 a Google Books vynechávají listy XXXVIII v–XXXIX r, LVIII v–LIX r a LXVIII v–LXIX r) – rightsstatements.org NoC-NC 1.0.
   Tentýž exemplář je v [Google Books](https://books.google.cz/books?id=7aBMAAAAcAAJ).
+- Město Bern (připisováno Valentinu Friderichovi), *Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung*, Bern (Abraham Weerli) 1615. Sken: Universitätsbibliothek Bern, `MUE Rar alt 559`, [e-rara 2050509](https://www.e-rara.ch/bes_1/content/titleinfo/2050509) / [DOI 10.3931/e-rara-7750](https://doi.org/10.3931/e-rara-7750) – Public Domain Mark.

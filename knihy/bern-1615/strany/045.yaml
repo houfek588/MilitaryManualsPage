@@ -1,0 +1,40 @@
+id: '045'
+list: '45'
+strana: recto
+sken: 63
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gemeint/ daß man sich stelle/ kehre/ oder wende/ wie man anfangs gestanden ist.
+  cs: |-
+    myslí, aby se člověk postavil, obrátil nebo otočil tak, jak stál na samém začátku.
+- typ: nadpis
+  uroven: 3
+  de: 10. Rechs herstelt euch.
+  cs: 10. Vpravo zaujměte původní postoj.
+- typ: odstavec
+  de: |-
+    Bedeut/ sich auff dem rechten Fuß/ der rechten Hand nach schwingen/ oder schwencken/ vnnd sich widerumb an sein vorige stell begeben.
+  cs: |-
+    Znamená zakroužit nebo zatočit na pravé noze směrem k pravé ruce a navrátit se opět na své předchozí místo.
+- typ: nadpis
+  uroven: 3
+  de: 11. Lincks herstelt euch.
+  cs: 11. Vlevo zaujměte původní postoj.
+- typ: odstavec
+  de: |-
+    Damit wirt gemeint/ das man sich auff dem lincken Fuß gegen der lincken Hand/ schwencken vnnd widerumb auff seinen vorigen Platz kommen soll.
+  cs: |-
+    Tím se myslí, že se člověk má na levé noze zatočit směrem k levé ruce a navrátit se opět na své předchozí místo.
+- typ: nadpis
+  uroven: 3
+  de: 12. Rechts schliesset euwre Reyen.
+  cs: 12. Vpravo sevřete své zástupy {Reyen}.
+- typ: odstavec
+  de: |-
+    Die erste Reye auff der rechten seiten soll stillstehn/ die 2. 3. 4. 5. etc. sollen sich an derselben anschliessen/ sölcher massen/ das ein jeder seine
+  cs: |-
+    První zástup na pravé straně má stát klidně; 2., 3., 4., 5. atd. se k němu mají přimknout takovým způsobem, aby měl každý své

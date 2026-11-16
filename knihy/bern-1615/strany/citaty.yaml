@@ -1,0 +1,39 @@
+id: citaty
+list: citáty
+strana: verso
+sken: 4
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Polyb. 6.
+    Duo sunt, quibus omnis Respub. servatur: In hostes fortitudo, & domi concordia:
+    (bellica tamen anteponenda.)
+  cs: |-
+    Polybios, 6. kniha[^1]
+    Dvě jsou věci, jimiž se zachovává každá obec: statečnost proti nepřátelům a svornost doma (válečné [statečnosti] však náleží přednost).
+- typ: odstavec
+  de: |-
+    Cic. pro Mur.
+    Virtus militaris, praestat caeteris omnibus, Patria enim, Libertas, cives, atque adeò ipsi Reges latent in tutela, ac praesidio bellicae virtutis.
+  cs: |-
+    Cicero, Řeč na obranu Mureny[^2]
+    Vojenská statečnost převyšuje všechny ostatní [ctnosti]; vlast, svoboda, občané, ba i sami králové jsou totiž ukryti pod ochranou a záštitou válečné zdatnosti.
+- typ: odstavec
+  de: |-
+    Attamen (Cic. 1. de Offi.)
+    Temerè in acie versari, & manum cum hoste confligere, immane quiddam, & belluarum simile est.
+  cs: |-
+    Avšak (Cicero, 1. kniha O povinnostech)[^3]
+    Nerozvážně si počínat v bitevním šiku a pouštět se s nepřítelem do boje zblízka je cosi divokého a podobného šelmám.
+poznamky:
+- n: 1
+  text: |-
+    Polybios z Megalopole (asi 200–118 př. Kr.), řecký dějepisec; v 6. knize Dějin rozebírá římské státní zřízení a vojenství (zde v renesančním latinském výtahu, pravděpodobně podle Justa Lipsia).
+- n: 2
+  text: |-
+    Marcus Tullius Cicero (106–43 př. Kr.), řeč Na obranu Lucia Mureny (Pro L. Murena, IX, 22) z roku 63 př. Kr., v níž hájí význam vojenských ctností pro zachování státu.
+- n: 3
+  text: |-
+    Marcus Tullius Cicero, spis O povinnostech (De officiis, I, 23, 81) z roku 44 př. Kr., varující před bezhlavým bojem bez řádu a rozvahy.

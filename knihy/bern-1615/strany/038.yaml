@@ -1,0 +1,25 @@
+id: '038'
+list: '38'
+strana: verso
+sken: 56
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Herstelt euch.
+  cs: Zaujměte původní postoj.
+- typ: odstavec
+  de: |-
+    Zum 16. den Spieß widerumb herzustellen/ trittet man mit dem lincken Fuß zu ruck/ vnd faßt den Spieß in die rechte Hand/ also/ daß derselbig vor jme auffwerts nebem rechten Fuß steht.
+  cs: |-
+    Za 16., chce-li [voják] píku {Spieß} opět vrátit do původního postoje, ustoupí levou nohou zpět a uchopí píku do pravé ruky tak, aby stála před ním vzpřímeně vedle pravé nohy.
+- typ: nadpis
+  uroven: 3
+  de: Auff die Schultern den Spieß legt.
+  cs: Položte píku na rameno.
+- typ: odstavec
+  de: |-
+    Zum 17. wie er den Spieß wider auff die Schultern legen soll. Nemlich/ nimbt er jhn mit der rechten Hand auff/ ergreifft denselben im zuruck schreiten mit dem rechten Fuß/ mit der rechten Hand in der mitten/ vnd legt jhn mit angesetztem Daumen/ vnnd hindersich sehen auff die Schultern in voriger Postur/ als das er mit dem rechten Fuß wider herfür kompt.
+  cs: |-
+    Za 17., jak má píku opět položit na rameno: totiž zvedne ji pravou rukou, při ústupu pravou nohou vzad ji uchopí pravou rukou uprostřed, s přiloženým palcem a pohledem za sebe ji položí na rameno v předchozí pozici, načež pravou nohou opět vykročí vpřed.

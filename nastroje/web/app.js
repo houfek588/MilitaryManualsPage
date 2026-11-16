@@ -27,8 +27,9 @@ const strop = (s, n) => s.length > n ? s.slice(0, n - 1) + '…' : s;
 // označení strany: foliace (fol. XII r) nebo stránkování (str. 12) podle kniha.yaml → strankovani
 const folio = p => !p.list ? p.id : (/^[IVXLC]+$/.test(p.list) && M.strankovani !== 'strany') ? `fol. ${p.list} ${p.strana === 'verso' ? 'v' : 'r'}` : /^\d+$/.test(p.list) ? `str. ${p.list}` : p.list;
 const folioDlouze = p => !p.list ? p.id : (/^[IVXLC]+$/.test(p.list) && M.strankovani !== 'strany') ? `list ${p.list}, ${p.strana === 'verso' ? 'rub (verso)' : 'líc (recto)'}` : /^\d+$/.test(p.list) ? `strana ${p.list}` : p.list;
-const skenUrl = p => M.sken.url_strana.replace('{sken}', p.sken);
-const skenObr = (p, w) => M.sken.url_obrazek.replace('{sken5}', String(p.sken).padStart(5, '0')).replace('{sken4}', String(p.sken).padStart(4, '0')).replace('{sirka}', w);
+const eraraId = p => (M.sken.zaklad_id || 0) + Number(p.sken);
+const skenUrl = p => M.sken.url_strana.replace('{sken}', p.sken).replace('{erara_id}', eraraId(p));
+const skenObr = (p, w) => M.sken.url_obrazek.replace('{sken5}', String(p.sken).padStart(5, '0')).replace('{sken4}', String(p.sken).padStart(4, '0')).replace('{erara_id}', eraraId(p)).replace('{sirka}', w);
 const hlavniOddil = s => { while (s && s.rodic) s = oddil[s.rodic]; return s; };
 const cestaOddilu = s => { const c = []; while (s) { c.unshift(s); s = s.rodic ? oddil[s.rodic] : null; } return c; };
 
@@ -150,7 +151,7 @@ V.obsah = () => {
     <div class="postup">${postup}</div><div class="legenda">${leg}</div>
     <p class="m"><span class="ov">✓</span> Ověřeno člověkem: <b>${E.overeno || 0}</b> z ${celk} stran (ostatní prošly jen strojovou kontrolou).</p>
     <p><a class="chip" href="#/kap/${ODD[0].id}">Začít číst</a><a class="chip" href="#/strany">Listovat po stranách</a><a class="chip" href="#/rejstrik">Věcný rejstřík</a><a class="chip" href="#/tisk">Stáhnout PDF</a></p>
-  </div><figure><a href="${skenUrl(tit)}" target="_blank" rel="noopener"><img src="${skenObr(tit, 520)}" alt="Titulní list tisku z roku ${M.rok}" loading="lazy" onerror="if(!this.dataset.z){this.dataset.z=1;this.src='obrazky/drevorez-1.jpg'}else{this.closest('figure').hidden=true}"></a><figcaption>Titulní list (BSB München; offline titulní dřevořez)</figcaption></figure></div>
+  </div><figure><a href="${skenUrl(tit)}" target="_blank" rel="noopener"><img src="${skenObr(tit, 520)}" alt="Titulní list tisku z roku ${M.rok}" loading="lazy" onerror="if(!this.dataset.z){this.dataset.z=1;this.src='obrazky/drevorez-1.jpg'}else{this.closest('figure').hidden=true}"></a><figcaption>Titulní list (${esc(M.sken.kratce || M.sken.instituce)})</figcaption></figure></div>
   <h2 class="sekce">Obsah</h2>
   <ul class="toc">${ODD.filter(s => !s.rodic).map(strom).join('')}</ul>`;
 };

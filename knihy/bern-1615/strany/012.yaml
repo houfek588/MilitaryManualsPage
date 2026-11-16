@@ -1,0 +1,22 @@
+id: '012'
+list: '12'
+strana: verso
+sken: 30
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    nicht wider die Schultern/ sonder auff die Brust/ sein Backen auch nit an die Laden/ oder Schafft lege/ er habe dann zuvor die Musquet wider die Brust angesetzt/ sonsten wirt es keine art haben/ vil weniger könte man gewiß schiessen/ sonder mehrtheils sich vbereilen.
+  cs: |-
+    nikoli k rameni, nýbrž na hruď, a také aby tvář nepřikládal k pažbě {Laden} neboli {Schafft} dříve, než mušketu {Musquet} opře o hruď; jinak to nebude mít žádný řád, tím méně by se dalo střílet jistě, nýbrž by se člověk většinou unáhlil.
+  pokracovani: true
+- typ: nadpis
+  uroven: 3
+  de: Die Musquet abnembt/ vnd neben an die Gabel faßt.
+  cs: Sejměte mušketu a uchopte ji vedle vidlice {Gabel}.
+- typ: odstavec
+  de: |-
+    Zum 13. wann er loß gebrennt haben wirt/ sol man ein wenig die Musquet für sich stossen/ die Gabel wider auffnemmen/ vnd dieselb in der Hand vast/ neben der Musquet/ halten/ vnd nit schleiffen/ es were dann sach/ daß man sich zu schwach befunde: jedoch sol man jmmerdar die Musquet empor halten/ damit niemand/ wann die Musquet versagt hette/ verletzt werde.
+  cs: |-
+    Za třinácté, jakmile vystřelí, má se mušketa trochu postrčit před sebe, vidlice se má opět zvednout a držet pevně v ruce vedle muškety, a nikoli vléci po zemi, ledaže by se člověk cítil příliš sláb; nicméně je třeba neustále držet mušketu vzhůru, aby nebyl nikdo zraněn, kdyby mušketa selhala.

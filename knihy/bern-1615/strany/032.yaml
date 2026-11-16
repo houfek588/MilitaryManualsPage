@@ -1,0 +1,31 @@
+id: '032'
+list: '32'
+strana: verso
+sken: 50
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    auffwerts tragt/ so wirt der nur in einem Termin nider gefellt/ wie auch in einer zeit auffgehebt.
+  cs: |-
+    nese vzhůru, sklopí se dolů pouze v jednom kroku, stejně jako se zvedá v jedné době.
+- typ: nadpis
+  uroven: 3
+  de: Den Spieß niderstelt.
+  cs: Postavte píku {Spieß} na zem.
+- typ: odstavec
+  de: |-
+    Zum 7. wie man den Spieß widerumb in dryen griffen/ oder zeiten/ gleich wie im auffnemmen/ auff die Erden/ neben den rechten Fuß niderstellen/ vnd gegen dem Daumen regieren/ auch denselben Augenhöche/ halten soll.
+  cs: |-
+    Za 7., jak se má píka opět na tři hmaty nebo doby, stejně jako při zvedání, postavit na zem vedle pravé nohy, ovládat ji proti palci a držet ji ve výši očí.
+- typ: nadpis
+  uroven: 3
+  de: Auffwerts den Spieß tragt.
+  cs: Neste píku vzhůru.
+- typ: odstavec
+  de: |-
+    Zum 8. wie er den nidergestelten Spieß von der Erden/ wie vor gemelt/ in dryen griffen empor heben/ vnnd wann er denselben vnden am ende gefaßt/ in der rechten Hand gegen demselben Arm ziehen vnd
+  cs: |-
+    Za 8., jak má píku postavenou na zemi zvednout vzhůru na tři hmaty, jak bylo řečeno výše, a když ji uchopí dole na jejím konci, přitáhnout ji v pravé ruce k téže paži a

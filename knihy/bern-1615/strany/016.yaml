@@ -1,0 +1,31 @@
+id: '016'
+list: '16'
+strana: verso
+sken: 34
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    vmbgewendt haben wirt/ soll dieselbe auff der lincken seiten sincken lassen/ vnd die Fourcket schleiffen/ vnd damit er sölches bequemlich thun könne/ so muß die rechte Hand der lincken von stund an zu hilff kommen.
+  cs: |-
+    obrátí, má ji nechat klesnout na levé straně a furketu {Fourcket} vléci za sebou; a aby to mohl pohodlně provést, musí pravá ruka levé ihned přijít na pomoc.
+  pokracovani: true
+- typ: nadpis
+  uroven: 3
+  de: Die Ladmaß (oder Ladung) auffthut.
+  cs: Otevřete odměrku nálože {Ladmaß} (nebo nálož {Ladung}).
+- typ: odstavec
+  de: |-
+    Zum 23. wie er die Ladmaß mit dem Daummen außsperren/ die Gabel schleiffen lassen/ die Musquet aber (wo ferrn er derselben mechtig ist) empor halten soll.
+  cs: |-
+    Za třiadvacáté, jak má odměrku nálože palcem otevřít, vidlici {Gabel} nechat vléci za sebou, avšak mušketu {Musquet} držet vzhůru, pokud jí vládne.
+- typ: nadpis
+  uroven: 3
+  de: Die Musqueten ladt.
+  cs: Nabijte mušketu.
+- typ: odstavec
+  de: |-
+    Zum 24. wie er auß den Ladmassen die Musquet laden/ vnd die Fourcket naher schleiffen lassen soll/ die Musquet aber nicht biß zur Erden schleiffen/ er were dann zu schwach solches zuthun.
+  cs: |-
+    Za čtyřiadvacáté, jak má z odměrek nálože nabít mušketu a furketu nechat vléci za sebou, mušketu však nevléci až po zemi, ledaže by byl příliš sláb na to, aby to dokázal.

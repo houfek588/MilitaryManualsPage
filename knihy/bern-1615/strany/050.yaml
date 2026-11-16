@@ -1,0 +1,37 @@
+id: '050'
+list: '50'
+strana: verso
+sken: 68
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: 26. Lincks doppliert euwre Reyen.
+  cs: 26. Vlevo zdvojte své zástupy {Reyen}.
+- typ: odstavec
+  de: Ein ebenmessige meinung hat auch dises dopplieren.
+  cs: Zcela stejný význam má i toto zdvojování.
+- typ: nadpis
+  uroven: 3
+  de: 27. Herstelt euch.
+  cs: 27. Zaujměte původní postoj.
+- typ: odstavec
+  de: Da stelt man sich widerumb in die vorige stell.
+  cs: Zde se člověk opět postaví do předchozího postoje.
+- typ: nadpis
+  uroven: 3
+  de: 28. Rechts doppliert euwre Glider.
+  cs: 28. Vpravo zdvojte své řady {Glider}.
+- typ: odstavec
+  de: |-
+    Da soll auß zweyen Glideren eins gemacht werden/ vnnd stehet das erste Glid still/ welches durch das ander auff rechter seiten/ oder Hand/ gedoppliert wirdt/ das dritte durch das vierte: vnd also fortan/ biß alle Glider gedopplet/ vnd also an statt zechen Glidern/ nur fünffe seyen.
+  cs: |-
+    Zde se má ze dvou řad vytvořit jedna; první řada stojí klidně a je zdvojena druhou po pravé straně neboli ruce, třetí čtvrtou, a tak dále, dokud nejsou všechny řady zdvojeny, takže namísto deseti řad je jich pouze pět.
+- typ: nadpis
+  uroven: 3
+  de: 29. Lincks doppliert euwere Glider.
+  cs: 29. Vlevo zdvojte své řady.
+- typ: odstavec
+  de: Hierinnen wirdt gemeint/ daß
+  cs: Zde se tím myslí, že
