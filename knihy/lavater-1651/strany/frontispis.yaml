@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 2
+  uroven: 1
   de: Kriegs Büchlein
   cs: Válečná knížka
 - typ: obrazek

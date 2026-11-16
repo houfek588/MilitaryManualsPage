@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 1
+  uroven: 2
   de: Verdolmetschung.
   cs: Tlumočení [slovníček cizích slov].
 - typ: nadpis

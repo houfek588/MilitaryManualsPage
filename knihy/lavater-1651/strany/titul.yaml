@@ -6,19 +6,14 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 1
-  de: 'Kriegs-Büchlein:'
-  cs: 'Válečná knížka,'
-- typ: odstavec
-  de: |-
-    Das ist/ Grundtliche Anleitung Zum Kriegswesen:
-  cs: |-
-    to jest důkladný návod k válečnictví,
+  uroven: 2
+  de: 'Kriegs-Büchlein: Das ist/ Grundtliche Anleitung Zum Kriegswesen:'
+  cs: 'Válečná knížka: to jest důkladný návod k válečnictví:'
 - typ: odstavec
   de: |-
     Namlich Wie ein Vestung mit Jhren Jnner- vnd Ausserwercken angerichtet: mit aller erforderlichen Zugehörd versehen/ vnd verwahret werden solle: Deßgleichen Wie ein jeder hoher vnd niderer Kriegs- Beampteter in Zug vnd Wachten/ übung der Waaffen/ formierung der Schlachtordnungen zu Roß vnd Fuß/ mit Scharmützen/ Stürmen/ Fechten/ Schlagen; vnd allen anderen Kriegshändlen vnd Thätlichkeiten/ nach Stands vnd Eydsgebür/ sich zuverhalten habe: Mit beygefügter Dolmetschung vnd Erklärung der frömbden Kriegischen/ diser zeit üblichen Namen vnd Wörteren/ vnd wie selbige beydes in Riß vnd Schrifft zuverstehen: Widerumb auffs new auffgelegt/ verbessert vnd denen so sich zum Nohtschirm des lieben Vatterlands/ bey dessen biderber Landschafft/ kriegischen Befelchs vnderziehen/ zu getrewer nachrichtung gestellt/ vnd mit dienstlichen newen Kupffer-rissen verständtlich gemachet/
   cs: |-
-    totiž: jak má být pevnost {Vestung} se svými vnitřními i vnějšími díly {Ausserwercken} zřízena, opatřena veškerým potřebným příslušenstvím a zajištěna; dále jak se má každý vyšší i nižší válečný úředník chovat na tažení {Zug} a na strážích, při cvičení se zbraní, při sestavování šiků {Schlachtordnungen} jízdy i pěchoty, v šarvátkách, útocích, potyčkách a bitvách i ve všech ostatních válečných věcech a činech, jak to žádá jeho stav a přísaha; s připojeným tlumočením a výkladem cizích válečných jmen a slov, nyní obvyklých, a jak jim rozumět na nákresech i v písmu. Znovu vydáno, opraveno a těm, kdo se k ochraně milé vlasti v nouzi ujímají válečného velení v jejím bodrém venkovském kraji {Landschafft},[^1] k věrnému poučení předloženo a novými užitečnými mědirytinami {Kupffer-rissen} srozumitelně objasněno
+    Totiž, jak má být pevnost {Vestung} se svými vnitřními i vnějšími díly {Ausserwercken} zřízena, opatřena veškerým potřebným příslušenstvím a zajištěna; dále jak se má každý vyšší i nižší válečný úředník chovat na tažení {Zug} a na strážích, při cvičení se zbraní, při sestavování šiků {Schlachtordnungen} jízdy i pěchoty, v šarvátkách, útocích, potyčkách a bitvách i ve všech ostatních válečných věcech a činech, jak to žádá jeho stav a přísaha; s připojeným tlumočením a výkladem cizích válečných jmen a slov, nyní obvyklých, a jak jim rozumět na nákresech i v písmu. Znovu vydáno, opraveno a těm, kdo se k ochraně milé vlasti v nouzi ujímají válečného velení v jejím bodrém venkovském kraji {Landschafft},[^1] k věrnému poučení předloženo a novými užitečnými mědirytinami {Kupffer-rissen} srozumitelně objasněno
 - typ: odstavec
   de: |-
     Durch Hauptmann Hans Conrad Lavatern Burgern der Statt Zürich.

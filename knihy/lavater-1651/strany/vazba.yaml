@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 1
+  uroven: 2
   de: Wie das Kupffer eynzubinden.
   cs: Jak vevázat mědirytiny
 - typ: seznam
@@ -25,7 +25,7 @@ bloky:
   - |-
     III. [[tab-07|Přistřižený list o zdvojování]] {Dopplierung} [se má vevázat] před [[091|91. stranu]]; zbývající 3 půlarchy se šiky {Schlachtordnungen} se mají svázat do sebe podle čísel.
 - typ: nadpis
-  uroven: 1
+  uroven: 2
   de: ERRATA.
   cs: Tiskové chyby
 - typ: seznam

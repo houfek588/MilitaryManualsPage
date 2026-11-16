@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 1
+  uroven: 2
   de: 'New-gewundener Lorbeer-Krantz/ Dem Author des Kriegs-Büchleins/ Auff den 22. Tag Brachmonats des M DC XL IV. Jahrs vbersendet.'
   cs: 'Nově uvitý vavřínový věnec, zaslaný autorovi Válečné knížky 22. dne měsíce června[^1] léta M DC XL IV [1644]'
 - typ: verse
