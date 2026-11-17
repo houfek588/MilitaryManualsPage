@@ -1,0 +1,85 @@
+id: 3-004v
+list: '4'
+strana: verso
+sken: 260
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dann die trunckenheit brengt nichts gůts ist wider Gott/ vnd ist eim truncken menschen nichts zu befelhen noch zuuertrawen/ darumb wann ein Zeugmeister sich also helt so geht sein sachen auch glücklich naher vnd müssen sein Büchsenmeister sich auch desto baß halten.
+  cs: |-
+    neboť opilství nepřináší nic dobrého, jest proti Bohu, a opilému člověku nelze nic přikázat ani svěřit; proto když se zbrojmistr {Zeugmeister} chová takto, daří se i jeho věcem šťastně a jeho puškaři {Büchsenmeister} se také musejí držet o to lépe.
+- typ: odstavec
+  de: |-
+    Zum ersten so soll er sein Gots förchtig vnd eins gůten ehrlichen wandels.
+  cs: |-
+    Za prvé má být bohabojný a dobrých, počestných mravů.
+- typ: odstavec
+  de: |-
+    Zum andern soll er glaubhafftig/ vnd nit ein trunckner Man sein.
+  cs: |-
+    Za druhé má být věrohodný a nesmí být opilec.
+- typ: odstavec
+  de: |-
+    Zum dritten soll er glaubhafftig sein.[^1]
+  cs: |-
+    Za třetí má být věrohodný.[^1]
+- typ: odstavec
+  de: |-
+    Zum vierdten soll er gůtig vnd lieblich mit sein personen handeln/ es wölle dann die notturfft erfordern/ soll er ernsthafftig sein/ damit er ein forcht bei den seinn haben mög/ da halt er sie hin das sie jn förchten vnd lieben/ vnd lerne sie fleissig da er sicht das angelegt vnnd behalten ist.
+  cs: |-
+    Za čtvrté má se svými lidmi jednat laskavě a přívětivě, leč by nutnost vyžadovala, aby byl přísný, aby si u svých zjednal bázeň; nechť je vede k tomu, aby se ho báli i milovali jej, a pilně je učí tam, kde vidí, že je to dobře uloženo a uchováno.
+- typ: odstavec
+  de: |-
+    Item zum fünfften/ soll er sich auch des Kriegs gebrauch halten/ vnd den verstehn.
+  cs: |-
+    Dále za páté má se držet válečného zvyku a rozumět mu.
+- typ: odstavec
+  de: |-
+    Zum sechsten soll er sich des geschütz verstehn/ alles nach seinem thůn vnd vermögen zu giessen lassen/ schiessens/ fassens vnd aller zurüstung wisse anzugeben.
+  cs: |-
+    Za šesté má rozumět dělům {geschütz}, umět podle jejich povahy a účinku dávat je odlévat a udávat pokyny ke střelbě, k lafetování i k veškeré výzbroji {zurüstung}.
+- typ: odstavec
+  de: |-
+    Zum sibenten soll er sich verstehen das Feurwerck zuschiessen/ zu werffen auß groß vnd kleinen Stücken.
+  cs: |-
+    Za sedmé má se vyznat ve střelbě a vrhání ohňostrojů {Feurwerck} z velkých i malých děl.
+- typ: odstavec
+  de: |-
+    Zum achten soll er sich Stormzeug das reissen verstehn zu machen vnd zu zůrichten.
+  cs: |-
+    Za osmé má se vyznat v rýsování, zhotovování a připravování útočného nářadí {Stormzeug}.
+- typ: odstavec
+  de: |-
+    Zum neunden soll er sich des Feurwerck verstehn/ damit er wisse sein geschütz mit dem vorzug zu ordnen/ was darzů im feld gehört vnd daß er das wisse im feld zu gebrauchen/ vnd seinem geschütz auß dem feld zu helffen.
+  cs: |-
+    Za deváté má rozumět ohňostroji[^2], aby dovedl zařadit svá děla do předvoje {vorzug}, věděl, co k tomu v poli náleží, uměl je v poli používat a dokázal svým dělům z pole pomoci.
+- typ: odstavec
+  de: |-
+    Zum zehenden so soll er sich Puluers machen verstehen.
+  cs: |-
+    Za desáté má rozumět výrobě střelného prachu {Puluers}.
+- typ: odstavec
+  de: |-
+    Zum eilfften soll er sich schantzens verstehn.
+  cs: |-
+    Za jedenácté má rozumět kopání šancí {schantzens}.
+- typ: odstavec
+  de: |-
+    Zum zwölfften sol er wissen sich zuuerstehn ein gereumbten platz einzuziechen mit dem geschütz dar vor das er demselbigen platz sein recht weite gebe/ darnach mann vil Kriegsuolck hat/ das darauff gehört das er nicht zu klein genomen werd/ damit daß das Kriegsuolck sein stand geraum daruff zur wehr haben mag/ auch nit vil grösser dann mann bedarff/ damit er auch nit zu schwer zuuerwachen sei/ vnd mit dem geschütz zu beziehen oder zustellen.
+  cs: |-
+    Za dvanácté má umět vytyčit prostranné místo s děly v čele tak, aby tomu místu dal správnou šířku podle toho, kolik je válečného lidu {Kriegsuolck}, který na něj patří – aby nebylo vzato příliš malé, takže by na něm válečný lid měl dost místa postavit se k obraně, a ani o mnoho větší, než je třeba, aby nebylo příliš obtížné je střežit a obsadit či obestavět děly.
+- typ: odstavec
+  de: |-
+    Zum dreizehenden/ soll er wissen so ein Leger geschlahen ist/ ob er geschütz vberig hat mehr dañ der Lermenplatz wol bedarff das er daßselbige wisse an die Leger zustellen/ vor ein fallen der Leger da mann sie verwachen muß/ doch daß die nit in der Wacht oder auff dem lermenplatz inn das leger sehen/ dann es begibt sich offt das die leger nit
+  cs: |-
+    Za třinácté má vědět, když už je rozbito ležení {Leger} a zbývají mu děla navíc nad to, co si žádá poplachové místo {Lermenplatz}, jak je rozestavit kolem ležení na obranu před vniknutím do ležení tam, kde je třeba je střežit – avšak tak, aby nemířila do stráže {Wacht} ani přes poplachové místo do ležení; neboť se často stává, že ležení nejsou
+poznamky:
+- n: 1
+  text: |-
+    Tisk opakuje dvakrát téměř doslovně *soll er glaubhafftig sein* v bodě 2 a 3 (zřejmě sazečská chyba či vynechání původně zamýšlené třetí vlastnosti). Značka v `de` je ponechána u druhého výskytu (poznámková značka v českém textu odkazuje tamtéž).
+- n: 2
+  text: |-
+    Tisk má v devátém bodě *des Feurwerck* (opakovaně po sedmém bodě) patrně omylem za *Fuhrwerck* („vozba, doprava děl“) či *Feldwerck*, jak dosvědčuje pokračování věty o řazení děl do předvoje a jejich vyprošťování z pole.

@@ -1,0 +1,24 @@
+id: 3-titul
+list: titulní list 3. knihy
+strana: recto
+sken: 251
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das dritte Bůch.
+    Beschreibung/ welcher massen eins Vortrefflichen/ Stathafftigen Fürsten oder grossen Herren Zeughauß/ mit grossem vnd kleinem Geschütz/ derselbigen Zugehörungen/ auch allerlei andern Wehren/ Kriegßrüstungen vnd Vorrat/ versehen vnd geordnet sein soll/ Darzu in was Summa gelts beileufftig vnd vngefehrlich vberschlagen/ wie sich solliches alles verlauffen möchte/ deren jedes vnderschiedtlich/ wie hernach volgt/ angezeigt/ Auch wie sich ein Zeugmeister halten/ was er wissen/ vnd wie er ein Zeughauß regiern soll.
+  cs: |-
+    Třetí kniha.
+    Popis, jakým způsobem má být zbrojnice {Zeughauß} znamenitého, zámožného knížete nebo velikého pána opatřena a uspořádána velkými i malými děly {Geschütz}, jejich příslušenstvím, jakož i všelikými jinými zbraněmi, válečnou výstrojí {Kriegßrüstungen} a zásobami; k tomu rozpočet, na jakou peněžní sumu by to vše zhruba a přibližně mohlo přijít – z čehož každé jednotlivě, jak níže následuje, jest vyloženo; a také jak se má zbrojmistr {Zeugmeister} chovat, co má znát a jak má zbrojnici spravovat.
+- typ: odstavec
+  de: |-
+    Deßgleichen wie mann Puluer machen soll/ auff vilerlei Manier vnd Meisterstück/ Auch wie mann Salpeter ziehen/ leuttern/ machen vnnd kauffen sol/ daß keiner betrogen werde/ Weiter wie mann Schwefel bereiten soll/ daß er zum Büchsen Puluer vnd allen Feurwercken nützlich/ krefftig vnd hitzig wirt.
+  cs: |-
+    Rovněž jak se má vyrábět střelný prach {Puluer} rozmanitým způsobem a mistrovskými postupy; také jak se má ledek {Salpeter} získávat, čistit, vyrábět a kupovat, aby nikdo nebyl ošizen; a dále jak se má upravovat síra, aby byla ke střelnému prachu pro děla i ručnice a ke všem ohňostrojům {Feurwercken} užitečná, mocná a prudce hořlavá.
+- typ: obrazek
+  soubor: drevorez-251.jpg
+  popis: |-
+    Dřevořez císařského znaku Karla V. (z téhož štočku jako na titulních listech První a Druhé knihy): uprostřed korunovaný štít s dvouhlavým říšským orlem a habsbursko-španělským srdečním štítkem, obklopený řetězem řádu Zlatého rouna se zavěšeným rounem. Po stranách stojí dva korunované Herkulovy sloupy přidržované dvěma okřídlenými putti a ovinuté vlající nápisovou stuhou s císařským heslem „PLVS. – VLTRE“.

@@ -1,0 +1,46 @@
+id: 5-013v
+list: 13 (5. kniha)
+strana: verso
+sken: 462
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Auff solche hauffen alle soll der gewaltig hauff zu roß vnd fuß/ ziehen/ nemlich 3000. Teutscher Pferdt Spiesser/ vnd neben jnen auff der rechten seiten 500. Teutsche Schützen zu roß/ die sollen vor dem gewaltigen hauffen auff der rechten seiten vorziehen.
+  cs: |-
+    Za všemi těmito houfy má táhnout hlavní houf {Gewaltig hauff} jízdních i pěších, totiž 3 000 německých jízdních kopiníků {Spiesser} a vedle nich po pravé straně 500 německých jízdních střelců, kteří mají táhnout vpředu na pravém křídle před hlavním houfem.
+- typ: odstavec
+  de: |-
+    Vnd neben den 3000. Teutschen Pferden inn dem gewaltigen Hauffen sollen vff der rechten seiten 500. Teutscher Schützẽ/ vñ 5000. Pferdt Musca spiesser ziehen/ vnd auff der lincken handt neben die 3000. Pferdt 3. Regiment Teutscher Knecht/ vnnd bei dieselbigen 3. Regiment Büchssen/ vñ auff derselbigen seiten neben den Büchsen ein Geschwader Pferdt Musca/ das ist 1000. pferdt/ auff solche 3000. Teutsche pferdt soll wider 3. Regiment Knecht als 30. Fendlein ziehen vnd Büchsen bei jnen haben.
+  cs: |-
+    A vedle oněch 3 000 německých jezdců v hlavním houfu má po pravé straně táhnout 500 německých střelců a 5 000 moskevských jízdních kopiníků, po levé ruce pak vedle 3 000 koní 3 pluky {Regiment} německých landsknechtů a při těchto 3 plucích děla, a na téže straně vedle děl jedno švadro moskevských koní, to jest 1 000 koní; za těmi 3 000 německými koňmi mají opět táhnout 3 pluky pěších, totiž 30 korouhví, a mít s sebou děla.
+- typ: odstavec
+  de: |-
+    Vnd auff den gewaltigen hauffen soll der nachzug ziehen/ vñ bei sich 2000. pferdt spiesser vnd Schützen haben/ Vnd neben auff der lincken handt 3. Regiment/ nemlich 30. Fendlein/ vnnd bei dieselbigen Knecht Büchsen.
+  cs: |-
+    A za hlavním houfem má táhnout zadní voj {nachzug} a mít s sebou 2 000 koní kopiníků a střelců, a po levé ruce vedle sebe 3 pluky, totiž 30 korouhví, a při té pěchotě děla.
+- typ: odstavec
+  de: |-
+    Vnd zwischen dem gewaltigen hauffen vñ nachzug/ sol der Troß ziehen/ vnd auff der lincken seiten des Troß/ sollen die Artolorei vnd Monition wagen bei einander/ mit so kurtzen reihen als sie künden vnd veld haben/ gehn vnd auff dieselbigen alle andere Heerwagen/ auch souil möglich velds halber mit kurtzen reihen zum nechsten bei einander gehen/ neben solchen auff der lincken Handt sollen zwei Geschwader Reutter der Musca als 2000. pferdt ziehen.
+  cs: |-
+    A mezi hlavním houfem a zadním vojem má táhnout trén {Troß}, po levé straně trénu pak mají jet pospolu vozy artilerie {Artolorei} a munice {Monition} v tak krátkých řadách, jak jen mohou a jak jim pole dovolí, a za nimi mají co nejblíže u sebe, pokud pole stačí, jet v krátkých řadách všechny ostatní válečné vozy {Heerwagen}; vedle nich po levé ruce mají táhnout dvě švadra moskevských jezdců, tedy 2 000 koní.
+- typ: odstavec
+  de: |-
+    Mann sagt der Muscabiter vermög ein groß Kriegßuolck in das Veldt auß seinem Landt/ vnd andern anstossenden Landten/ die vnder jnen gehören/ vnd doch andere namen haben. Erstlich das Hertzogthumb Moscau soll 300000. Man Edler vnd 60000 Bauren vermögen/ Darnach das Hertzogthumb Cweiscau soll 40000. streitbarer man vom Adell/ Vnd das Hertzogthumb Chelsce auch in das veld 7000. Man/ Vnd das Fürstenthumb Rzysen 15000. man Edler in das veld vermögen zuschicken.
+  cs: |-
+    Říká se, že Moskvan {Muscabiter} může postavit do pole veliké vojsko ze své země i z jiných přilehlých zemí, které pod něj náležejí, avšak mají jiná jména. Předně Moskevské knížectví má stavět 300 000 urozených mužů a 60 000 sedláků; dále knížectví Cweiscau (Tverské) 40 000 bojeschopných šlechticů; a knížectví Chelsce rovněž do pole 7 000 mužů; a knížectví Rzysen (Rjazaňské) 15 000 urozených mužů, jež dokáže vyslat do pole.[^1]
+- typ: odstavec
+  de: |-
+    Vnd es ist ein Landt die Tartern Kozausca genant/ vñ dem Muscabiter vnderworffen/ das zeugt 30000. starck in das veld.
+  cs: |-
+    A jest ještě jedna země zvaná Tataři kazaňští {Kozausca}, podrobená Moskvanovi; ta táhne do pole v síle 30 000 mužů.
+- typ: odstavec
+  de: |-
+    Vnd in summa dises Kriegßuolck alles/ welchs der Mosca vermag ist zusamen 452000. Vnd wann er solches Kriegßuolck mit gůter ordenlicher rüstung inn ordnung/ mit sampt eim gůten geschütz hett/ so were es ein trefflichs volck/ aber es ist zu achten daß solches Volck nicht aller mage auß dem Landt gefüret/ der vrsachen halben/ daß sie mit der Prouiant nit mögen erhalten werden/ deßgleichen die Pferdt mit der Fütterung/ Dann es ist zugedencken/ das
+  cs: |-
+    Úhrnem tedy činí všechno toto vojsko, které Moskva dokáže postavit, dohromady 452 000 mužů. A kdyby měl tento válečný lid v dobrém řádném zbroji a pořádku spolu s dobrým dělostřelectvem {Geschütz}, byl by to znamenitý lid; avšak nutno soudit, že takové vojsko nelze všechno vyvést ze země, z té příčiny, že by se nedalo uživit proviantem {Prouiant} a koně pící {Fütterung}. Neboť nutno mít na paměti, že
+poznamky:
+- n: 1
+  text: |-
+    Součet uvedených oddílů (300 000 + 60 000 + 40 000 + 7 000 + 15 000 + 30 000) přesně dává níže uvedených 452 000 mužů. Zeměpisná jména z dobových zpráv (pravděpodobně podle Herbersteina či Münstera) jsou v německé fraktuře zkomolena: *Cweiscau* = Tverské knížectví, *Rzysen* = Rjazaňské knížectví, *Kozausca* = Kazaňští Tataři.

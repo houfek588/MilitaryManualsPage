@@ -1,0 +1,134 @@
+id: 3-052r
+list: '52'
+strana: recto
+sken: 355
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Wie mann zu nacht scheust / etc.
+  cs: Jak se střílí v noci atd.[^1]
+- typ: verse
+  de:
+  - WIltu lern ein hübschen sin /
+  - Wo du zu nacht scheussest hin /
+  - Nim des steins eben acht /
+  - Du sichest jn wol baß zu nacht /
+  - Dann ob es were heller tag /
+  - Den stein mann sonst baß sehen mag /
+  - Vnd wo der steine nider schlecht /
+  - Ein grosse helle von jm geht /
+  - So soltu nemen einen stein /
+  - Der in die Büchsen sei zu klein /
+  - Solt den mit leder bwinden wol /
+  - In disem mann jhn schwemen soll /
+  - Zerlaß wachs vnnd schwem jn darinn /
+  - Darnach in Puluer ist mein sinn /
+  - Schlag ein leder drumb mit faden /
+  - In hartz vnnd jnßlet solt jhn baden /
+  - Vnnd mit leder wol gbunden /
+  - In Schwefel geschwemet darmit er wunden /
+  - Solt sie stopffen vnd nit verbissen /
+  - Oder schütz wirdt dir zuuor wissen.
+  cs:
+  - Chceš-li se pěknému umu naučit,
+  - kamkoli v noci budeš mířit,
+  - na kámen {steins} dobrý pozor dej,
+  - v noci jej spatříš lépe zajisté,
+  - než kdyby byl i bílý den,
+  - kdy kámen jinak lépe zříš jen;
+  - a tam, kde kámen udeří,
+  - veliká záře z něj vytryskne.
+  - Vezmi si tedy takový kámen,
+  - jenž by byl do děla {Büchsen} trochu malý;
+  - kůží jej pevně oviň kolem,
+  - v téže se má pak koupat dále.
+  - Rozpusť si vosk a koupej jej v něm,
+  - potom jej v prachu {Puluer} obal jen;
+  - přišij kůži kolem nití,
+  - v pryskyřici s lojem jej okoupej,
+  - a pevně kůží zavaž jej;
+  - v síře {Schwefel} jej smoč, jak ovázán jest,
+  - dobře ji utěsni a neopomeň,[^2]
+  - aneb to střelec předem zvědět má hned.[^3]
+- typ: nadpis
+  uroven: 3
+  de: wiltu einen streiffenden schus thun zu einem fuß volck / etc.
+  cs: Chceš-li vypálit kosou ránu proti pěchotě {fuß volck} atd.
+- typ: odstavec
+  de: |-
+    SO lade die Büchs / treib den klotzen das er vmb einen grossen rocken halmen vor dem Ror bleib / vnd setz den stein mitten eben daran / vnd vmbfaß jn mit einem nassen leder / darauff so scheib ein schindeln / so scheussestu wol vnd eben.
+  cs: |-
+    Nabij tedy dělo, zaraž zátku {klotzen} tak, aby zůstala před hlavní {Ror} na délku silného žitného stébla,[^4] nasaď na ni rovně doprostřed kámen, obal jej mokrou kůží a na to vlož šindel – tak vystřelíš dobře a rovně.
+- typ: odstavec
+  de: |-
+    Wiltu vertemmen das so zu dir geschossen wirt / so nim Milch oder Essig / zeuch ein tuch dardurch / vnnd schlags auff das feur.
+  cs: |-
+    Chceš-li udusit to, co se na tebe střílí, vezmi mléko nebo ocet, protáhni jím sukno a hoď je na oheň.
+- typ: nadpis
+  uroven: 3
+  de: Büchs sich selbs anzündet.
+  cs: Dělo se samo zapaluje
+- typ: verse
+  de:
+  - EIn newe kunst sich hie erfindt /
+  - Das ein Büchs sich selb anzündt /
+  - Mit wasser vnd kein feur dabei /
+  - Vnd sie auch niemants zünden sei /
+  - Du solt nemen ein kalckstein /
+  - Vnd den zu kalch brennen gar rein /
+  - Vnd auß filtz machen ein binden /
+  - Den solt halb dareinn verwinden /
+  - Den filtz hinden inn die Büchs thů /
+  - Lad Puluer / Klotz vnnd stein darzů /
+  - Wein zu dem weiloch ein laß /
+  - Das der filtz werde feucht vnd naß /
+  - Er nasset hinter sich zu stundt /
+  - Die feuchtigkeit an Kalckstein kompt /
+  - Der kalck wirt heiß vnd gehet an /
+  - Diß kunst ich wol versuchet han.
+  cs:
+  - Nové se umění zde nalézá,
+  - jak dělo samo se zapaluje
+  - vodou a beze všeho ohně přitom,
+  - 'aniž je kdokoliv zapaloval:'
+  - Vezmi si vápenný kámen (*kalckstein*),
+  - v čisté vápno jej vypal cele
+  - a z plsti zhotov si obinadlo,
+  - v něž napůl jej máš zavinout.
+  - Tu plsť pak vlož dozadu do děla,
+  - nabij k tomu prach, zátku i kámen,
+  - nalej pak víno do otvoru,[^5]
+  - aby se plsť provlhčila a zmokla;
+  - hned vzadu promočí se celá,
+  - vlhkost se k vápenci dostane,
+  - vápno se rozžhaví a vzplane –
+  - to umění jsem dobře vyzkoušel.
+- typ: nadpis
+  uroven: 3
+  de: wiltu ein Büchsen gern zuschiessen.
+  cs: Chceš-li dělo úmyslně roztrhnout výstřelem
+- typ: odstavec
+  de: |-
+    SO thů lebendig Quecksilber darein / vnd auch Burras ein wenig os bricht sie wie gůt sie ist.
+  cs: |-
+    Dej tedy dovnitř živé stříbro a také trochu boraxu (*Burras*), a[^6] dělo praskne, ať je jakkoli dobré.
+poznamky:
+- n: 1
+  text: |-
+    V záhlaví tisku je na tomto listu chybně vytištěno číslo listu *72* namísto správného *52* (v BSB OCR navíc přečteno jako *92*).
+- n: 2
+  text: |-
+    Nejasné rýmové sloveso *verbissen* – snad ve smyslu *verkeilen* („příliš zaklínit“) či písařská obměna za *vermissen* („opomenout, vynechat“).
+- n: 3
+  text: |-
+    Význam rýmového závěru (*Oder schütz wirdt dir zuuor wissen*) je poněkud ztemnělý: snad „či střelec to předem bude vědět“ (resp. sazečská úprava z „a pak střelec hned pozná, kam střílí“).
+- n: 4
+  text: |-
+    Přesmyčka nebo neobvyklý výraz *vor dem Ror* (před ústím hlavně, či zkomoleně *im Ror*) – takto krátce vyčnívající ucpávka s kamenem a šindelem na povrchu slouží k nízké „kosé“ palbě s odrazem (rikochetem) proti pěchotě.
+- n: 5
+  text: |-
+    V tisku stojí *weiloch* – zřejmě zkomolený výraz pro zátravku (*Zündloch*) či nalévací otvor (*Weinloch*). Nehašené vápno mělo při styku s tekutinou vyvinout žár a zažehnout nálož.
+- n: 6
+  text: V tisku je sazečská přesmyčka *os* místo *so* („a tak praskne“).

@@ -1,0 +1,62 @@
+id: 3-039v
+list: '39'
+strana: verso
+sken: 330
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Ein ander geschlecht des Feurs wider die Feinde.
+  cs: Jiný druh ohně proti nepřátelům.
+- typ: odstavec
+  de: |-
+    NIm 1. pfundt Glockenspeiß/ 1. Plei/ 1. Limatura matris singularis/ welches mann alles zusamen zerlassen soll/ vnd darnach wie ein Astrolalinum in rotunden orten/ welche bestrichen sein sollen/ formiert vnd gemacht werden/ welches mit solcher artznei durch 12. tag bestrichen wirt/ auch gleichermaß so offt wider getrucknet/ vnd wann es einmal angezindt/ brennt lange zeit vnerleschen/ vnd je offter sie besprengt mit obbeschribner Materi/ auch so sie offter abgetrucknet wirt/ so sie je lenger vnd besser brennen.
+  cs: |-
+    Vezmi 1 libru {pfundt} zvonoviny, 1 olova, 1 železných pilin (*Limatura matris singularis*),[^1] což se má všechno spolu roztavit a potom vytvarovat a zhotovit jako astroláb (*Astrolalinum*)[^2] v okrouhlých kotoučích, jež se mají natírat. Tento předmět se takovou směsí natírá po 12 dní a stejně tak často se opět suší; a když se jednou zapálí, hoří po dlouhou dobu neuhasitelně, a čím častěji se potře výše popsanou hmotou a čím častěji se vysuší, tím déle a lépe hoří.
+- typ: nadpis
+  uroven: 3
+  de: Ein ander Feurwerck.
+  cs: Jiný ohňostroj {Feurwerck}.
+- typ: odstavec
+  de: |-
+    NIm Bonani oder Petroly 1. pfundt/ 3. pfundt Medule canne ferule/ 1. Schwefel/ Pinguedinis anatis liquentis 1. pfundt/ diß alles gleich zusamen corporiert vnnd gethan/ solt als dann ein Büchs oder ander holl Ror darzů tüglich vol brennets feurs darin gethan/ magst als dann wann du wilt das Feur in die höhe oder auff ebene werffen/ was es dann von holtzwerck treffen oder brennen wirt/ vom schlag des Feurs verzert werden/ auch mehrt sich das Feur vnd wirt grösser/ wann es in wasser geworffen oder dasselbig darauff gegossen wirt.
+  cs: |-
+    Vezmi 1 libru skalního oleje či nafty (*Bonani oder Petroly*),[^3] 3 libry dřeně rákosu fenyklu obrovského (*Medule canne ferule*),[^4] 1 [libru] síry, 1 libru rozpuštěného kachního sádla (*Pinguedinis anatis liquentis*). To všechno se stejnoměrně spojí a smísí dohromady; pak se vezme pouzdro či jiná k tomu vhodná dutá trubice naplněná tímto hořícím ohněm, a kdykoli chceš, můžeš oheň vrhat do výšky nebo po rovině. Vše dřevěné, co zasáhne nebo zapálí, bude plamenem ohně stráveno; a oheň se ještě zmnoží a zvětší, když se hodí do vody nebo se na něj voda nalije.
+- typ: nadpis
+  uroven: 3
+  de: Ein ander Feur.
+  cs: Jiný oheň.
+- typ: odstavec
+  de: |-
+    NIm Balsam Olei. Entropie Alechimitram/ Olei. Sulfur/ das alles soll in eim glesern geschirr inn Schaaffmist viertzig tag gesetzt vnd behalten werden/ wann nun solliche verhaltene Species widerumb herauß genomen sollen sie bestrichen werden etc. welche dem nach mögen zu den Zelten oder in ein Leger verfügt werden/ wann dann die Sonn auffgeht/ heben die Species an zerfliessen/ vnd zinden sich alßdan selbst an.
+  cs: |-
+    Vezmi balzámový olej (*Balsam Olei*), cihlový olej a dehet (*Entropie Alechimitram*), sirný olej (*Olei. Sulfur*);[^5] to vše se má vložit do skleněné nádoby a uložit a chovat čtyřicet dní v ovčím hnoji. Když se pak takto uložené přísady opět vyjmou, mají se natřít atd., načež se mohou položit ke stanům nebo do ležení {Leger}; když pak vyjde slunce, začnou se přísady rozpouštět a samy se vznítí.
+- typ: nadpis
+  uroven: 3
+  de: Form eines andern Feurs.
+  cs: Předpis jiného ohně.
+- typ: odstavec
+  de: |-
+    NIm Architram Colofonie/ gelben Schwefel/ öle von Eiren/ lebendigen Schwefel darauß mann puluer mache/ vnd öle hierauff schüte Lanigin. Castor. jeglichs zu gleichem gewicht/ diß alles zusamen gemacht vnd mit öle bestrichen/ etc. wie oben angezeigt.
+  cs: |-
+    Vezmi dehet (*Architram*) a kalafunu {Colofonie}, žlutou síru, vaječný olej, živou síru, z níž se udělá prášek, a na to nalij olej a bobří tuk (*Lanigin. Castor.*),[^6] všeho stejnou vahou; to všechno smíchej dohromady a potři olejem atd., jak bylo uvedeno výše.
+poznamky:
+- n: 1
+  text: |-
+    *Limatura matris singularis* – zkomolenina z latinského textu Marka Řeka *limaturae martis singulorum* („železných pilin, od každého [po jedné libře]“).
+- n: 2
+  text: |-
+    *Astrolalinum* – zkomolený tvar lat. *astrolabium* (okrouhlý kotouč podobný astrolábu).
+- n: 3
+  text: |-
+    *Bonani oder Petroly* – v latinské předloze *bitumen* či skalní olej (petrolej).
+- n: 4
+  text: |-
+    *Medule canne ferule* – lat. *medulla cannae ferulae*, dřeň stvolů ločidla (*Ferula communis*).
+- n: 5
+  text: |-
+    Zkomolená řada přísad podle Marka Řeka (*oleum balsami*, *oleum laterinum/benedictum*, *alchitran*, *oleum sulphuris*).'
+- n: 6
+  text: |-
+    *Lanigin. Castor.* – zkomolený záznam lat. *axungia castoris* či *castoreum* („bobří tuk / bobrovina“).

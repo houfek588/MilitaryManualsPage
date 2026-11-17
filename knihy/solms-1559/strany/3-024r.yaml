@@ -1,0 +1,143 @@
+id: 3-024r
+list: '24'
+strana: recto
+sken: 299
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Vnd für die all einzusetzen oder zu spannen Zugpferdt 276.
+  cs: |-
+    A k zapřažení do nich všech 276 tažných koní {Zugpferdt}.
+- typ: odstavec
+  de: |-
+    So mussen der zugehörigen Züg auff dise 4. stuck allenthalben sein Züg 3. Ladschauffel 4. Plechenbüchsen 12.
+  cs: |-
+    Příslušných kladkostrojů ke všem těmto 4 kusům musí být celkem: kladkostrojů 3, nabíjecích lopatek {Ladschauffel} 4, plechových nádob {Plechenbüchsen} 12.
+- typ: odstavec
+  de: |-
+    DEren Notschlangen jede soll an jr selbst wigen 66. Centner / vnnd jrer gebürender kugeln 42. lengen haben.
+  cs: |-
+    Každá z těchto těžkých kulverin {Notschlangen}[^1] má sama o sobě vážit 66 centů {Centner} a mít délku 42 svých příslušných koulí {kugeln}.
+- typ: odstavec
+  de: |-
+    Der stuck eins soll schiessen ein eysene kugel / die da helt oder wigt 16. Pfundt.
+  cs: |-
+    Každý z těchto kusů má střílet železnou kouli, která váží 16 liber {Pfundt}.
+- typ: odstavec
+  de: |-
+    So man nun die 4. Notschlangen jede mit 100. jrer kugeln schwer Puluers sampt anderer notturfft im feld brauchen will / bedörffen sie auch wie hernachuolgt.
+  cs: |-
+    Má-li se tedy použít v poli 4 těžkých kulverin, každá se 100 svých koulí a stejně těžkým množstvím střelného prachu {Puluers} spolu s ostatními potřebami, potřebují toto, jak následuje níže:
+- typ: odstavec
+  de: |-
+    Item für sich selbst / Wagen 4.
+  cs: |-
+    Dále pro ně samé 4 vozy.
+- typ: odstavec
+  de: |-
+    Vnd abermals einem pferdt 2. Centner zuziehen beuolhen / thůt zu einem stuck oder für einen Wagen 33. Roß / thůt für die vier Büchsen Zugpferdt 93.
+  cs: |-
+    A počítá-li se opět jednomu koni k tažení 2 centy, vychází to k jednomu kusu čili před jeden vůz 33 koní, což za ty čtyři děla {Büchsen} činí 93 tažných koní.[^2]
+- typ: odstavec
+  de: |-
+    Deren stuck jedes sein eigen gefäß oder lade / vnd allweg für eines 4. Roß / thůt Zugpferdt 16.
+  cs: |-
+    Každý z těchto kusů [má] svou vlastní lafetu {gefäß} nebo lože {lade}, a vždy před jednu 4 koně, což činí 16 tažných koní.
+- typ: odstavec
+  de: |-
+    So wigen die 400. kugeln an eysen 64. Centner / darzů gehörn vngefehrlich Wagen 3.
+  cs: |-
+    400 koulí tedy váží na železe 64 centů, k čemuž náleží přibližně 3 vozy.
+- typ: odstavec
+  de: |-
+    Gebüren also den 2. wagen jedem 133. vnd dem dritten 134. Kugeln auffzuladen.
+  cs: |-
+    Přísluší tedy naložit na 2 vozy po 133 koulích a na třetí 134 koulí.
+- typ: odstavec
+  de: |-
+    Vnd für jeden wagen 4. pferdt / thůt Zugpferdt 12.
+  cs: |-
+    A před každý vůz 4 koně, což činí 12 tažných koní.
+- typ: odstavec
+  de: |-
+    Zu disen 4. Notschlangen gehören auch mit aller zugehörung vnd kloben / wie volgt. Züg 3.
+  cs: |-
+    K těmto 4 těžkým kulverinám náleží rovněž se vším příslušenstvím a kladnicemi {kloben}, jak následuje: 3 kladkostroje.[^3]
+- typ: odstavec
+  de: |-
+    Zu jedem Zug einen wagen / thůt Wagen 3.
+  cs: |-
+    Ke každému kladkostroji jeden vůz, což činí 3 vozy.
+- typ: odstavec
+  de: |-
+    In der jeden 4. Roß / thůt Zugpferdt 12.
+  cs: |-
+    Do každého z nich 4 koně, což činí 12 tažných koní.
+- typ: odstavec
+  de: |-
+    Zu der stuck jedem sein eigene Ladschauffel vnd plechner vil gemelter grosser Büchsen drei.
+  cs: |-
+    Ke každému z kusů jeho vlastní nabíjecí lopatka a tři z vícekrát zmíněných velkých plechových nádob.
+- typ: odstavec
+  de: |-
+    Bedörffen also dise 4. Notschlangen für sich selbst an gezeug 264. Centner.
+  cs: |-
+    Tyto 4 těžké kulveriny tedy potřebují samy pro sebe na kovu 264 centů.
+- typ: odstavec
+  de: |-
+    Einer jeden 100. Schoß oder Ladung / thůt 400. Kugeln / die halten an eysen 64. Centner.
+  cs: |-
+    Po 100 výstřelech či náložích na každou činí 400 koulí, jež váží na železe 64 centů.
+- typ: odstavec
+  de: |-
+    Souil Puluers / thůt auch 64. Centner.
+  cs: |-
+    Tolikéž prachu činí rovněž 64 centů.
+- typ: odstavec
+  de: |-
+    Für sich selbst zu jren gefässen / vnnd aller anderer vermelter zugehörung / Wagen 13. Gefäß 4.
+  cs: |-
+    Pro ně samé, pro jejich lafety a všechno ostatní uvedené příslušenství 13 vozů, 4 lafety.
+- typ: odstavec
+  de: |-
+    Vnd für die alle einzusetzen Zugpferdt 145.
+  cs: |-
+    A k zapřažení do nich všech 145 tažných koní.
+- typ: tabulka
+  de:
+  - - Züg
+    - '3.'
+    - Ladschauffel
+    - '4.'
+    - Blechenbüchen
+    - '12.'
+  cs:
+  - - kladkostrojů
+    - '3'
+    - nabíjecích lopatek
+    - '4'
+    - plechových nádob {Blechenbüchen}[^4]
+    - '12'
+- typ: odstavec
+  de: |-
+    DEren Cartaunen jede soll an gewicht halten 50. Centner / vnd jre zugehörenden Kugeln 18. leng.
+  cs: |-
+    Každá z těchto kartoun {Cartaunen}[^5] má na váze držet 50 centů a mít délku 18 svých příslušných koulí.
+poznamky:
+- n: 1
+  text: |-
+    Na pravém okraji tisku stojí rubrika *Notschlangen 4.* (4 těžké kulveriny).
+- n: 2
+  text: |-
+    Chyba předlohy: 4 × 33 = 132 koní, tisk však uvádí jen *93*.
+- n: 3
+  text: |-
+    V rozepsaném výčtu tisku vypadly 3 vozy a 12 tažných koní na 64 centů prachu (ačkoli v souhrnu níže jsou již započteny: 4 + 3 + 3 + 3 = 13 vozů a 93 + 16 + 12 + 12 + 12 = 145 koní; při správných 132 koních na hlavně by součet činil 184 koní).
+- n: 4
+  text: |-
+    V tisku s vynechaným *-s-* (*Blechenbüchen*).
+- n: 5
+  text: |-
+    Na pravém okraji tisku stojí rubrika *Cartaunen 8.* (8 kartoun).

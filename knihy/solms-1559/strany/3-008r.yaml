@@ -1,0 +1,44 @@
+id: 3-008r
+list: '8'
+strana: recto
+sken: 267
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Er soll auch bei allen Büchsenmeistern sein/ vnd sie anhalten das sich ein jeder halt/ wie jm das von seinem Zeugmeister befolhen ist.
+  cs: |-
+    Má také docházet ke všem puškařům {Büchsenmeistern} a vést je k tomu, aby se každý choval tak, jak mu bylo přikázáno od jeho zbrojmistra {Zeugmeister}.
+- typ: nadpis
+  uroven: 3
+  de: Der Edelleut beuelch vnd außrichtung.
+  cs: Velení a úkoly šlechticů.
+- typ: odstavec
+  de: |-
+    DIe Edelleut so zu disem Zeughauß verordnet seind/ sollen vnder dem Zeugmeister sein/ sich seines beuelchs vnd gehorsams halten/ deßgleichen dem Leutenant/ dise Edelleut wieuil oder wenig der seind/ nach der gelegenheit sollen sich befleissen das sie sich vben mit der Arcolorei/ wie vor dauon gemelt ist im Zeughauß vnd im landt/ mann mag jn auch im landt die Ämpter befelhen zuuersehen mit dem geschütz vnnd vorrat/ einem jeden ein theil/ vnd warzu sie der halben zugebrauchen sind.
+  cs: |-
+    Šlechtici, kteří jsou určeni k této zbrojnici {Zeughauß}, mají být podřízeni zbrojmistrovi, dbát jeho rozkazů a poslušnosti, a stejně tak poručíkovi {Leutenant}. Tito šlechtici, ať je jich mnoho nebo málo, se mají podle příležitosti snažit cvičit se v dělostřelectvu {Arcolorei}, jak bylo výše řečeno, ve zbrojnici i v zemi; možno jim také v zemi svěřit správu úřadů s děly {geschütz} a zásobami, každému jeden díl a k čemu je třeba jich k tomu užívat.
+- typ: odstavec
+  de: |-
+    Vnnd so etwan ansehlich züg sein werden soll der Herr die dahin schicken/ bei die Zeugmeister vnd Obersten verschreiben/ damit sie bei die Arcolorei komen vnd gebraucht werden/ des soll ein Herr oder ein Landtschafft sie verlegen mit jrer gebürende maß/ vnd jnen geben ein Instruction wie sie sich halten vnd waruff sie achtung haben sollen/ wie das die Instruction auß weist/ wirt hernach in eim ander Capitel was mann jm zu seinem außzug zur vnderhaltung geben soll angezeigt/ auch mag mann auß der Arcolorei vorrat gelt nemen.
+  cs: |-
+    A budou-li kdy nějaká znamenitá tažení {züg}, má je pán poslat tam, povolat je ke zbrojmistrům a plukovníkům {Obersten}, aby přišli k dělostřelectvu a byli zaměstnáni. Přitom je má pán nebo zemské stavy zaopatřit v náležité míře a dát jim poučení, jak se mají chovat a nač dávat pozor, jak to udává ono poučení; v jiné kapitole níže bude ukázáno, co se má takovému šlechtici při jeho vytažení dávat na vydržování, a peníze lze vzít i ze zásobní pokladny dělostřelectva.
+- typ: nadpis
+  uroven: 3
+  de: Der Zeugschreiber.
+  cs: Zbrojní písař {Zeugschreiber}.
+- typ: odstavec
+  de: |-
+    DEr Zeugschreiber soll auff den Zeugmeister vnd sein Leuttenant warten/ jnen gehorsam sein vnd seins Ampts laut seiner pflicht treulich warten/ alle ding in gůte Rechnung vnd ordnung beschreiben/ er soll auch fleissig alle tag die arbeiter im Zeughauß beschreiben/ was sie alle tag vnd wochen arbeiten/ was auff sie alle vnd jeden besonder von zeug zu eines jeden arbeit auff geht/ also soll er mit allem thůn was im Zeughauß zu thůn ist/ zu dem aller fleissigsten beschreiben vnd verrechnen.
+  cs: |-
+    Zbrojní písař má být k ruce zbrojmistrovi a jeho poručíkovi, být jim poslušen a podle své povinnosti {pflicht} věrně konat svůj úřad a vše zapisovat do dobrého vyúčtování a pořádku; má také pilně každého dne zapisovat dělníky ve zbrojnici, co každý den a týden pracují a kolik materiálu se na ně na všechny i na každého zvlášť pro jeho práci spotřebuje – a tak má co nejpilněji zapisovat a vyúčtovávat vše, co se ve zbrojnici koná.
+- typ: nadpis
+  uroven: 3
+  de: Der Büchsenmeister beuelch.
+  cs: Velení puškařů.
+- typ: odstavec
+  de: |-
+    ITem die Büchsenmeister sollen mit allem fleiß jren Zeugmeister/ Leutenandt vnd wer vber sie befelch haben wirt/ gehorsam vnd vnderthan sein/ sie sollen sich im Zeughauß fleissig brauchen was eim jeden befolhen wirt/ vnd ob sie schon im Zeughauß nit zu schaffen haben würden/ sollen sie sich doch daheim mit Kriegsrüstung/ geschütz/ ordnung vben/ brauchen/ mit festungen zu reissen/ zu schneiden vnd
+  cs: |-
+    Dále puškaři mají být se vší pílí poslušni a poddáni svému zbrojmistrovi, poručíkovi a tomu, kdo nad nimi bude mít velení; mají se pilně zaměstnávat ve zbrojnici tím, co bude každému přikázáno, a i kdyby ve zbrojnici neměli co na práci, mají se přece doma cvičit a zabývat válečnou výstrojí {Kriegsrüstung}, děly, řádem, rýsováním pevností, vyřezáváním a

@@ -1,0 +1,28 @@
+id: 1-037r
+list: '37'
+strana: recto
+sken: 83
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Son.
+  cs: Syn.
+- typ: odstavec
+  de: |-
+    Lieber alter Vatter auff ewren getrewen rath vnd bedencken / bin ich wider zu meinem Herren gezogen / vnd einer gelegner stund erwartet / so hat es sich zu getragen / daß mein Herr vnder essens vber der Tafeln ist von solcher sachen zu reden worden / von etlichen Personen die in kurtzer zeit sich wol in die sachen vnd handel geschickt / daß sie hoch herfür komen / vnd in kleiner zeit schlecht gesellen waren / vnd nun mehr in Kriegßsachen vil geschickt vnd gebraucht werden / Da hab ich auff gemerckt / vnd bei mir bedacht / das wirt sich zu meiner handlung wol schicken / vnd hab mich auff ewren getrewen rath zu einer gelegene stundt / da ich bei meinem Herren zeit vnd platz hatt / einer solchen rede / so er vber der Tafeln gethan / erinnert / vnd gebetten / daß er mich auch bedencken wölle / vnnd mir verhelffen daß ich auch an sollichen orten mit zůkom / vnd bei einem ehrlichen Herren platz erlang / damit ich Ewer Gnaden hinfürter nützlicher vnd statlicher dienen möcht / mit andern weitter bitten vnd erbieten / wie jhr mich das vnderricht vnd gelernet habt / Darauff Jr Gnad mir gnediglich geantwort / Er sehe vnd sei war / daß er mich biß noch der zeit erzogen hab / vnd mir mit Jren Gnaden geneigt sei / wo er mir weitter rathen / fürdern vnd helffen künde / das wöl er gern thůn / ich soll bedencken an was Herren standts odder Ampts Person ich begeren vnnd gefürdert gern sein wöl / so wöl er mich gegen derselbigen dergestalt verschreiben / daß ich befinden solt / daß er es getrewlich mit mir gemeint / vnd wöl mich auch mit helffen anrüsten / daß ich vor mein standt bestehn mag wo ich hin komme / Das hab ich gegen jren Gnaden mich zum höchsten bedanckt mit erbietens / daß ich das meines vermögens wider gedenck zuuerdienen / daß ich (Gott hab lob) ein gůt zeit vnd stundt droffen hab / bedancke mich ewers gůten getrewen raths / dann es ist mir zu einem anfang (Gott hab lob) wol gerathen.
+  cs: |-
+    Milý starý otče, na vaši věrnou radu a uvážení jsem se vrátil ke svému pánovi a vyčkal příhodné chvíle. Přihodilo se tedy, že můj pán začal při jídle u tabule mluvit o takových věcech – o některých osobách, které se v krátkém čase dobře zapracovaly do věcí a jednání, takže se vysoko vyšvihly, ačkoli ještě před nedávnem byly obyčejnými chlapíky, a nyní se jich ve válečných záležitostech hojně posílá a užívá. Na to jsem dal dobrý pozor a pomyslel si, že se to k mému záměru bude dobře hodit; a na vaši věrnou radu jsem se ve vhodnou hodinu, kdy jsem měl u svého pána čas a příležitost, odvolal na takovou řeč, kterou vedl u tabule, a poprosil jsem jej, aby na mne také pamatoval a dopomohl mi, abych se rovněž dostal na taková místa a získal místo u nějakého čestného pána, abych tak napříště mohl Vaší Milosti užitečněji a skvěleji sloužit – i s dalšími prosbami a nabídkami, jak jste mne tomu poučil a naučil. Na to mi Jeho Milost milostivě odpověděla, že vidí a je pravda, že mne až dosud vychoval a je mi svou milostí nakloněn; kde by mi mohl dále poradit, podpořit mne a pomoci mi, to že rád učiní, jen ať si rozmyslím, ke které osobě panského stavu či ke kterému úředníkovi si přeji a chci být doporučen, a on mne k ní doporučí takovým listem, abych poznal, že to se mnou myslel věrně, a také mi pomůže se vystrojit, abych mohl podle svého stavu obstát, kamkoli přijdu. Za to jsem Jeho Milosti co nejuctivěji poděkoval s nabídkou, že se jí za to podle svých možností vynasnažím odvděčit. Tak jsem (Bůh buď pochválen) trefil na dobrý čas a hodinu a děkuji vám za vaši dobrou věrnou radu, neboť pro začátek se mi to (Bůh buď pochválen) dobře zdařilo.
+- typ: odstavec
+  de: |-
+    Dieweil dann die sachen dahin gerathen seind / vnnd nun mehr an mir steht / als nemlich meinem gnedigen Herren anzuzeigen an wen ich die fürderung haben wöl / So ist nun mehr weitter an euch mein trewliches vnnd fleissiges bitten / jhr wöllet nun mir weitter gerathen sein / an was Herren oder Ampts personen ich das begeren soll / dann jhr verstehet alle Ampter vnnd Regirungen / vnnd ich des kein wissens noch verstandt habe / dieweil ich zuuor nicht mehr darbei gewesen sein / vnnd auch deren thůn noch Regirungen keine weiß.
+  cs: |-
+    Poněvadž se tedy věci takto vyvinuly a nyní už záleží na mně, abych totiž svému milostivému pánovi oznámil, ke komu bych si přál doporučení, obracím se nyní dále k vám s věrnou a snažnou prosbou, abyste mi ráčil dále poradit, o kterého pána či úředníka mám požádat; neboť vy rozumíte všem úřadům a správám, kdežto já o tom nemám žádnou vědomost ani ponětí, poněvadž jsem při tom dosud nikdy nebyl[^1] a neznám ani jejich počínání, ani správy.
+- typ: nadpis
+  uroven: 3
+  de: Alter Vatter.
+  cs: Starý otec.
+poznamky:
+- n: 1
+  text: V tisku tvar *sein* za *bin* („jsem“).

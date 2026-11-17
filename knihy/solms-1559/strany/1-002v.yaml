@@ -1,0 +1,31 @@
+id: 1-002v
+list: '2'
+strana: verso
+sken: 14
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Hauptman Lucio Lucullo/ von welchem Cicero schreibt/ als er von wegen seines hohen verstands vnd fürtrefflichen redlicheit/ zu einem Obersten gegen dem großmechtigsten König Mitthridate (welchem zweivndzwentzig Königreich vnd Fürstenthumb vnderthänig warn) vom Senat zu Rom erwelet war worden/ wiewol er der zeit der Krigshändel nit sonders geübt/ vnd bei nahe gar vnerfarn gewesen/ daß er doch die zeit vber/ als er inn Asiam gegen den Feinden schiffet/ mit dem daß er die alten erfarnen Kriegsleut vnd Hauptleut/ so er stettigs bei sich gehabt/ vnd mit seinem befragen außgelernet/ vnd dann mit fleissiger lesung der Historien von den Kriegen/ vnd geschichten der Alten/ von Römern vnd andern Königen vnd Völckern/ ein solliche hohe geschicklicheit in geringer zeit bekommen vnd erlangt hab/ daß er sich in allerlei Kriegssachen/ darin es jm gar glücklich ergangen/ mit wunderwarlichen geschicklicheiten erzeigt hab/ dermassen/ daß auch sein feind/ obgenanter König Mitthridates selber (welcher doch der Kriegs händel auß stettiger vbung/ wie er dann viertzig Jar lang mit den Römern/ ehe er von jnen vberwunden worden/ gar ritterlich vnd löblich gestritten/ für andern ein sondern verstandt gehabt) jme Lucullo die ehr zugelegt vnnd gegeben/ das jhm kein geschickter noch trefflicher Hauptman noch Oberster je fürkommen/ auch jme keinen auß denen so jemals vnder allen Völckern gewesen/ wuste fürzusetzen. Dem nach Allergnedigster König thů E. König. May. ich dises mein gering werck (darauff mir gleich wol nicht wenig mühe vnd arbeit gangen) vnderthenig offeriern/ vnd daneben bitten/ E. Kön. Maiest. wöl dasselbig mehr in ansehung meines getrewen/ wolmeinenden hertzens/ so ich zu allem Osterreichischem geblüt hab/ dann des jenigen so ich hierein mag bewisen haben/ allergenedigst von mir als derselben vnderthenigsten vnd willigsten Diener/ auff vnd annemen mir ein gnediger König vnd Herr sein vnd bleiben/ vnd mich hinfür wie biß her in genedigstem beuelch haben. Das wil vmb dieselbig E. Kön. Maiest. ich hinfüran die tag meines lebens/ vnd biß in mein ende mit verleihung Götlicher gnaden) sampt meinn Sönen/ geflissen sein vnderthenigst zuuerdienen. Datum Lich/ etc. Anno/ 1559.
+  cs: |-
+    hejtmanovi {Hauptman} Luciu Lucullovi, o němž píše Cicero[^1], že když byl pro svůj vysoký rozum a znamenitou počestnost vyvolen římským senátem za nejvyššího velitele {Obersten} proti nejmocnějšímu králi Mithridatovi (jemuž bylo poddáno dvaadvacet království a knížectví), ačkoli tehdy nebyl ve válečných věcech zvláště zběhlý a byl téměř nezkušený, přece za dobu plavby do Asie proti nepřátelům získal a dosáhl v krátkém čase tak vysoké obratnosti – tím, že se vyptáváním vyučil u starých zkušených válečníků {Kriegsleut} a hejtmanů, jež měl stále při sobě, a dále pilným čtením dějin o válkách a skutcích starých, o Římanech a jiných králích i národech –, že se osvědčil s obdivuhodnou obratností ve všelikých válečných záležitostech, v nichž se mu vedlo zcela šťastně. A to takovou měrou, že i jeho nepřítel, výše zmíněný král Mithridatés sám (který přece měl ze stálého cviku ve válečných věcech – neboť po čtyřicet let velmi rytířsky a chvályhodně válčil s Římany, než byl jimi přemožen – zvláštní porozumění nad jiné), vzdal a přiznal Lucullovi tu čest, že se mu nikdy nevyskytl obratnější ani znamenitější hejtman či nejvyšší velitel a že by před něj nedovedl postavit nikoho z těch, kdo kdy byli mezi všemi národy. Proto tedy, nejmilostivější králi, Vašemu královskému Veličenstvu pokorně předkládám toto své skromné dílo (jež mě přece stálo nemalou námahu a práci) a zároveň prosím, aby je Vaše královské Veličenstvo nejmilostivěji přijalo ode mne jakožto svého nejpokornějšího a nejochotnějšího služebníka více s ohledem na mé věrné a dobře míněné srdce, jež chovám k veškeré rakouské krvi, než pro to, co jsem v něm dokázal předvést, a aby mi zůstalo milostivým králem a pánem a nadále jako dosud mě chovalo ve své nejmilostivější přízni. Za to se budu Vašemu královskému Veličenstvu nadále po všechny dny svého života a až do svého konce (s udělením Boží milosti[^2]) spolu se svými syny snažit co nejpokorněji odsloužit. Dáno v Lichi atd. léta 1559.
+- typ: odstavec
+  de: |-
+    E. Kön. Maies.
+    Vnderthänigster/ Gehorsamer.
+    Reinhart der älter
+    Graue zu Solms/ vnd Herr zu Müntzenberg.
+  cs: |-
+    Vašeho královského Veličenstva
+    nejpokornější a poslušný
+    Reinhard starší,
+    hrabě ze Solmsu a pán z Münzenbergu.
+poznamky:
+- n: 1
+  text: |-
+    Marcus Tullius Cicero (106–43 př. n. l.) vypráví ve spise *Lucullus* (*Academica priora*, II, 1–2), jak se Lucius Licinius Lucullus (118–56 př. n. l.) během plavby do Malé Asie roku 74 př. n. l. soustavným dotazováním zkušených vojáků a studiem dějin připravil na vrchní velení v třetí válce proti pontskému králi Mithridatovi VI. Eupatorovi (135–63 př. n. l., v tisku *Mitthridates*).
+- n: 2
+  text: |-
+    V originále stojí osamocená pravá závorka za *gnaden)* bez levé závorky před *mit*; ponechány jsou rovněž dobové tiskové tvary *wunderwarlichen* (za *wunderbarlichen*) a *meinn Sönen* (*meinen Söhnen*).

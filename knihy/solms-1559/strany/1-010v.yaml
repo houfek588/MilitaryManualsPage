@@ -1,0 +1,82 @@
+id: 1-010v
+list: '10'
+strana: verso
+sken: 30
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Bestallungs Artickel.
+  cs: Články služebního listu {Bestallungs Artickel}.
+- typ: odstavec
+  de: |-
+    VOr das erst so soll die bestallung klar sein / mit sich bringen was die Rüstung sein soll / als Spiesser / wie die mit den verdeckten hengsten vnd Kürisser sein sollen / mit jren benanten Besoldungen darauff.
+  cs: |-
+    Předně má být služební list {bestallung} jasný a uvádět, jaká má být zbroj {Rüstung} – například kopiníci {Spiesser},[^1] jak mají být vystrojeni s krytými hřebci i kyrysníci {Kürisser}, s jejich stanoveným žoldem {Besoldungen} za to.
+- typ: odstavec
+  de: |-
+    Zum andern die Rüstung der knecht / on Küriß vnd verdeckten pferden / vnd derselbigen besoldung.
+  cs: |-
+    Za druhé zbroj knechtů {knecht}[^2] bez kyrysu a krytých koní a jejich žold.
+- typ: odstavec
+  de: |-
+    Zum dritten so mann Schützen bestellet / daß denen mit außtürcklicher maß erklert werde / wie die mit Harnisch vnd pferden gerüst sein sollen / vnd daß dieselbigen schützen an den orten geworben werden / da die schützen an dem meisten seind / vnd das in alweg bei den schützen die langen Reihen anzunemen / verhüt werden.
+  cs: |-
+    Za třetí, najímají-li se střelci {Schützen}, aby jim bylo výslovnou[^3] měrou vyloženo, jak mají být vystrojeni zbrojí {Harnisch} a koňmi, a aby tito střelci byli verbováni v těch krajích, kde je střelců nejvíce, a aby se u střelců v každém případě zabránilo přijímání v dlouhých řadách.[^4]
+- typ: odstavec
+  de: |-
+    Zum vierdten das in den Bestallungen die Ämpter vermelt werden / mit den vbersolden / souil mann der vnder einem Fendlein / oder Hundert pferden haben wolte / vnd von nöten mann vermeint zusein.
+  cs: |-
+    Za čtvrté, aby ve služebních listech byly uvedeny úřady s přeplatky {vbersolden}, kolik jich bude chtít mít pán pod jedním praporcem {Fendlein} nebo pod stem koní a kolik jich uzná za nutné.
+- typ: odstavec
+  de: |-
+    Zum fünfften so einer Grauen vnd Herrn werben würde / was derselbigen leibs besoldung sein wirt / dann was man gibt den darmit sie bei die hauffen kemen / das ist behalten / dann sie haben gůt pferdt vnd Knecht bei sich / vnd bringen auch mit jnen ander gůt vom Adel auff die sonst on sie wol nit reitten würden.
+  cs: |-
+    Za páté, bude-li někdo najímat hrabata a pány, jaký bude jejich osobní žold; neboť co se dá těmto, aby přišli k houfům {hauffen}, to nepřijde nazmar, poněvadž mívají u sebe dobré koně a čeleď {Knecht} a přivádějí s sebou také jiné dobré šlechtice, kteří by bez nich jinak vůbec nejeli.
+- typ: odstavec
+  de: |-
+    Zum sechsten so will darinn verfast sein / daß sie so lang zu dienen schuldig sein sollen / so lang der Herr jrer bedarff in einer vnd gleicher Besoldung / vnd gegen allen des Herrn Feinden / in welches Landt das von nöten sein will zu volgen vnd zu dienen schuldig sein / on einige außrede / wegerung vnd abzug.
+  cs: |-
+    Za šesté má v něm být obsaženo, že budou povinni sloužit tak dlouho, dokud jich bude pán potřebovat, za jeden a týž žold, a že budou povinni táhnout a sloužit proti všem pánovým nepřátelům, do kterékoli země bude třeba, bez jakékoli výmluvy, zpěčování a odtahu.
+- typ: odstavec
+  de: |-
+    Zum siebenden daß der anrit klar gesetzt / vnnd sein maß gegeben werde / daß mann die zu jren zeiten nit disputiern darff.
+  cs: |-
+    Za sedmé, aby bylo jasně stanoveno příjezdné {anrit} a dána mu přesná míra, aby se o něm v příslušný čas nemuselo přít.
+- typ: odstavec
+  de: |-
+    Zum achten / den Ritmeistern einzubinden / daß sie der Einspenigen wöllen müssig gehen / es were dann sach / daß es bekante Knecht weren / doch soll denselbigen nit vber zwei oder auff das höchst drei pferde zugelassen werden.
+  cs: |-
+    Za osmé uložit rytmistrům {Ritmeistern}, aby se vyhýbali jednokoním jezdcům {Einspenigen},[^5] ledaže by to byli známí a osvědčení služebníci, a přesto jim nemá být povoleno více než dva nebo nanejvýš tři koně.
+- typ: odstavec
+  de: |-
+    Zum neunden in den Bestallungen zu bedencken / wie die so Küriß füren / vnd nit verdeckte pferde haben / gehalten sollen werden.
+  cs: |-
+    Za deváté pamatovat ve služebních listech na to, jak má být nakládáno s těmi, kdo nosí kyrys a nemají kryté koně.
+- typ: odstavec
+  de: |-
+    Zum zehenden die Wagen zumessigen vnd zu ordnen / auff die gemeinen ordinarien Pferde / vnd auff den standt eines jeden besonder.
+  cs: |-
+    Za desáté vyměřit a nařídit vozy podle obyčejných řadových koní i podle stavu {standt} každého jednotlivce zvlášť.
+- typ: odstavec
+  de: |-
+    Zum eilfften das versehung geschehe / das die Wagen so ein Herr besolden můß wol gespant / vnd wie sich gebürt gerüst sein.
+  cs: |-
+    Za jedenácté učinit opatření, aby vozy, jež musí pán platit, byly dobře zapřaženy a náležitě vystrojeny.
+poznamky:
+- n: 1
+  text: |-
+    *Spiesser* jsou zde jízdní kopiníci těžké jízdy s dřevci a koňmi chráněnými zbrojí (*verdeckte Hengste* – koně s kropířem a koňskou zbrojí).
+- n: 2
+  text: |-
+    Rozuměj lehčí jezdce a jezdeckou čeleď bez úplného kyrysu a koňské zbroje.
+- n: 3
+  text: |-
+    Tisk má přesmyčku *außtürcklicher* místo *außtrücklicher* („výslovnou“).
+- n: 4
+  text: |-
+    Těmto jízdním střelcům nemělo být dovoleno najímat celé dlouhé řady či zástupy neprověřených jezdců a sluhů pod jednoho muže bez řádného výběru.
+- n: 5
+  text: |-
+    *Einspännige* – jednotlivě najímaní jezdci sloužící „na jednoho koně“ či s malou družinou (2–3 koně) mimo velké šlechtické roty.

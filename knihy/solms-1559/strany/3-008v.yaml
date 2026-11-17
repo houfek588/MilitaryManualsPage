@@ -1,0 +1,43 @@
+id: 3-008v
+list: '8'
+strana: verso
+sken: 268
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    was einem Büchsenmeister vnnd Kriegsman zustehet/ vnnd ob sie schon nit in allen sachen geschickt oder bewust sind/ soll einer von dem andern oder seim Zeugmeister lernen/ was jn der für gibt vnd vnderricht/ darin sollen sie sich vben/ weitter nachsuchen vnd Kriegshistorien lesen/ jhren vortheiln die sie darin gebraucht haben nachdencken/ die abreissen/ in ordnung stellen/ der gleichen sich vben dann wellicher sich also in vbung begibt der findet alles mehr zu dem bericht den er auch höret.
+  cs: |-
+    tím, co přísluší puškaři {Büchsenmeister} a válečníkovi {Kriegsman}; a třebaže nejsou ve všech věcech obratní ani zběhlí, má se jeden učit od druhého nebo od svého zbrojmistra {Zeugmeister}, co jim on předloží a v čem je poučí. V tom se mají cvičit, dále pátrat a číst válečné dějiny, přemýšlet o výhodách, jichž se v nich užilo, překreslovat je, sestavovat do řádů a podobně se cvičit – neboť kdo se takto dá do cvičení, nalezne vždy ještě více nad to poučení, které slýchá.
+- typ: nadpis
+  uroven: 3
+  de: Versehung der Werckleut.
+  cs: Povinnosti řemeslníků.
+- typ: odstavec
+  de: |-
+    DIe werckleut welche auff das Zeughauß warten vnnd darinn arbeiten/ sollen jhrer Oberkeit vnderthan vnd gehorsam sein/ jhrer arbeit fleissig warten/ vnd alle zeit gůt versehung haben/ daß jr zeug den ein jeder braucht/ woll vnd ratsam verarbeit werde/ was darzů für vorrat sein wil das sie dem Zeugmeister oder Leutenant in der zeit ansagen/ das zu rechter zeit eines jeden dings oder gatung ein gůter vorrat bestelt werd/ wie das eins jeden gelegenheit erfordert.
+  cs: |-
+    Řemeslníci, kteří slouží zbrojnici {Zeughauß} a v ní pracují, mají být své vrchnosti poddáni a poslušni, pilně hledět své práce a vždy dobře dbát, aby materiál, jejž každý užívá, byl zpracován dobře a hospodárně; jaké zásoby jsou k tomu zapotřebí, mají včas hlásit zbrojmistrovi nebo poručíkovi {Leutenant}, aby byla v pravý čas objednána dobrá zásoba od každé věci či druhu, jak vyžaduje potřeba každého.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Volgt aus was vrsach das Zeughauß vnd die gantze Arcolorei mit vilen personen soll versehen sein.
+  cs: |-
+    Následuje, z jaké příčiny mají být zbrojnice a celé dělostřelectvo {Arcolorei} opatřeny mnoha osobami.
+- typ: odstavec
+  de: |-
+    IN diser obbeschreibung ist gnůgsam gehört die Befelchsleut die ein Zeughauß eines gewaltigen geschütz erfordert/ zum theil angezeigt vnd vermelt/ was jhr befelch vnd außrichtung sein soll/ zum ersten die person des Zeugmeisters vnd etliche vom Adel oder sonst gůte ehrliche gesellen/ die darzů lust haben vnd geschickt sind/ sich darzů wöllen gebrauchen lassen/ im feld/ im zug jnen vndergeben/ vnd einem jeden ein stück groß oder klein/ vil oder wenig beuelhen/ darnach die personen geschickt seind/ vnd ein stück groß oder kein[^1] ist/ alles nach gelegenheit der stück/ vnd ein jeder weiß außzurichten.
+  cs: |-
+    V tomto výše uvedeném popisu se dostatečně vyslechli velitelé {Befelchsleut}, jichž vyžaduje zbrojnice mohutného dělostřelectva {geschütz}, a zčásti se ukázalo i vyložilo, jaké má být jejich velení a povinnost: předně osoba zbrojmistra a několik ze šlechty či jinak dobrých čestných tovaryšů, kteří k tomu mají chuť a jsou obratní a chtějí se k tomu dát zaměstnat v poli a na tažení {zug}, aby se jim svěřilo a každému přikázal jeden kus velký či malý – mnoho nebo málo podle toho, jak jsou osoby obratné a jak je kus veliký či malý[^1], vše podle povahy kusů a co každý dokáže vykonat.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wieuil mann Personen/ als Verwalter vnd Verseher des Geschütz/ die vnder den Zeugmeister gehören/ bedörffe.
+  cs: |-
+    Kolik je třeba osob jakožto správců a opatrovníků děl, kteří podléhají zbrojmistrovi.
+poznamky:
+- n: 1
+  text: |-
+    Tisk má v tomto místě omylem *kein* (vypadlé *-l-* za *klein*).

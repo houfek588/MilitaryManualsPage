@@ -1,0 +1,60 @@
+id: 3-046r
+list: '46'
+strana: recto
+sken: 343
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    das lauter new vnd rein sei / gůten Essig darinn gethan / vnnd wol durch einander gemengt / daß es alles feucht werde / doch nit zu naß / vnd die secklin lang gefült / vnd thů wie obgemelt mit solchem feuchtem puluer / vnd stoß es mit einem holtz gar hart auff einander / darnach stoß das Feureysen vorn hinein / vnd stoß oder zu male das puluer im secklin / daß es gleich vmb das Pfeileysen ligt / vnd daß das eysen mitten in dem Puluer stehe / vnd bindt das secklein wol zů laß es darnach trücken / schwemb er den pfeil in einem zerlaßnen Schwefel.
+  cs: |-
+    která je docela nová a čistá, nalij do ní dobrého octa a dobře vše promíchej, aby to všechno zvlhlo, avšak ne příliš mokře; naplň dlouze pytlíčky, nalož s tímto vlhkým prachem {puluer}, jak řečeno výše, a dřívkem jej v nich velmi pevně napěchuj. Potom zastrč zepředu ohnivé železo a upěchuj či umačkej[^1] prach v pytlíčku tak, aby ležel rovnoměrně kolem železa šípu a železo stálo uprostřed prachu; pytlíček pevně zavaž, nech jej poté uschnout a smoč[^2] šíp v rozpuštěné síře.
+- typ: nadpis
+  uroven: 3
+  de: Gut Feurpfeil / die erst nach dem schiessen anfahen brennen / zumachen.
+  cs: Jak zhotovit dobré ohnivé šípy {Feurpfeil}, které začnou hořet teprve po vystřelení
+- typ: odstavec
+  de: |-
+    NEme gůten Zunder / schneidt jn so breit wie zwen rücken halmen / vnd bore ein loch vornen in das Säcklein / stoß dann zunder hinein / dann zindt jn an vnd schieß / so brennt er hindersich biß an den zug / dann brent der Pfeil.
+  cs: |-
+    Vezmi dobrý troud, nařež jej tak široký jako dvě stébla na šířku[^3] a vpředu do pytlíčku vyvrtej otvor; pak tam vsuň troud, zapal jej a vystřel – prohořívá nazpět až k náloži,[^4] a tehdy šíp vzplane.
+- typ: nadpis
+  uroven: 3
+  de: Feurpfeil gut vnd gerecht zumachen.
+  cs: Jak udělat ohnivé šípy dobré a spolehlivé
+- typ: odstavec
+  de: |-
+    NEme 1. pfundt Salpeter / 1. pfundt Schwefel / vnd 1. halbs Koln / stoß das durch einander in einem Mörser mit einem hölzen klöpfel thů oleum benedictum vnd gebranten wein darunder / also daß ein deig darauß werde / vnd stoß oder knet des deigs souil vber die Pfeil als dir gefelt / darnach laß jhn bei einem Ofen ligen / das kein Feur berür / vnd auff den andern tag ists trucken / darnach beschneidt jn mit einem Messer wie er sein soll / vnd vberziehe jn mit einem Leynen tůch oder Barchent / bewints dann mit fädem oder Eysenträden / darnach in Schwefel vnd hartz geschwembt.
+  cs: |-
+    Vezmi 1 libru {pfundt} ledku {Salpeter}, 1 libru síry {Schwefel} a půl [libry] dřevěného uhlí {Koln}, utluč to společně v hmoždíři dřevěnou paličkou a přidej k tomu *Oleum benedictum*[^5] a pálené víno, aby z toho vzniklo těsto; napěchuj nebo uhněť toho těsta na šípy, kolik se ti líbí. Potom je nech ležet u kamen, aby se jich nedotkl oheň, a druhý den to bude suché; poté je ořež nožem do náležitého tvaru, potáhni je lněným plátnem nebo barchetem, oviň je pak nitěmi nebo železnými drátky a nakonec je namoč v síře a pryskyřici.
+- typ: nadpis
+  uroven: 3
+  de: Gar gut Feurpfeil zu machen.
+  cs: Jak udělat velmi dobré ohnivé šípy
+- typ: odstavec
+  de: |-
+    NEme 3. pfundt Salpeter / 1. pfundt Schwefel / vnd 1. Koln / stoß das zu Puluer / knets zu einem deig mit gebrantem wein / mach ein kleines secklein auß Barchent wie der pfeil ist / vnnd thů deig darein / stoß den pfeil dardurch / vnd verbindt jn hinden vnd vorn mit einem fadem / ziehe jn darnach in Schwefel vnd hartz / damit hat mann gůt Feurpfeil.
+  cs: |-
+    Vezmi 3 libry ledku, 1 libru síry a 1 [libru] uhlí, utluč to na prach a uhněť s páleným vínem v těsto. Ušij z barchetu malý pytlíček podle velikosti šípu, vlož do něj těsto, prostrč jím šíp, zavaž jej vzadu i vpředu nití a pak jej protáhni sírou a pryskyřicí; tím budeš mít dobré ohnivé šípy.
+- typ: nadpis
+  uroven: 3
+  de: Feurpfeil die sich anzinden / erst wann sie ein geschossen seind.
+  cs: Ohnivé šípy, které se vznítí teprve tehdy, když jsou už vystřeleny do cíle
+poznamky:
+- n: 1
+  text: |-
+    Něm. *zu male* – pravděpodobně stažený či nářeční tvar za *zermahle* / *zermalme* („rozmělni, rozmačkej“) nebo *zumal* („zarovnej“).
+- n: 2
+  text: |-
+    Tisk má v 3. osobě *schwemb er* („ať namočí“) místo obvyklého rozkazovacího způsobu *schwemb*.
+- n: 3
+  text: |-
+    V tisku stojí *zwen rücken halmen* – zřejmě záměna za *zwen zwerch hälmer* (jako na l. 45r: „široký jako dvě stébla napříč“).
+- n: 4
+  text: |-
+    *an den zug* – zřejmá obměna pro *an den zeug* („až k hořlavé směsi/náloži“).
+- n: 5
+  text: |-
+    *Oleum benedictum* – „požehnaný olej“ (cihlový či terpentýnový destilovaný olej užívaný v dobové pyrotechnice).

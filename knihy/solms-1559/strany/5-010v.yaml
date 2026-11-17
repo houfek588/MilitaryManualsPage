@@ -1,0 +1,237 @@
+id: 5-010v
+list: 10 (5. kniha)
+strana: verso
+sken: 456
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - - Bernhart Gendsch
+    - schichten 3
+  - - Reinbrecht Sturmb
+    - schichten 2
+  - - Wolff Prieller
+    - schichten 2
+  - - Raup Baldauff
+    - schichten 5
+  - - Steffan Erderer
+    - schichten 2
+  - - Gilg Stumbeck
+    - schichten 2
+  - - Hanß Thenig
+    - schichten 3
+  - - Oßwalt Probst
+    - schichten 2
+  - - Christen thů kein gůt
+    - schichten 2
+  - - Michel Ampodinger
+    - schichten 2
+  - - Martin Köler
+    - schichten 2
+  - - Matheis Gubitsch
+    - schichten 2
+  - - Matheis Kelbin
+    - schichten 2
+  - - Caspar Letrer
+    - schichten. 3
+  cs:
+  - - Bernhart Gendsch
+    - 3 směny
+  - - Reinbrecht Sturmb
+    - 2 směny
+  - - Wolff Prieller
+    - 2 směny
+  - - Raup Baldauff
+    - 5 směn
+  - - Steffan Erderer
+    - 2 směny
+  - - Gilg Stumbeck
+    - 2 směny
+  - - Hanß Thenig
+    - 3 směny
+  - - Oßwalt Probst
+    - 2 směny
+  - - Christen thů kein gůt
+    - 2 směny
+  - - Michel Ampodinger
+    - 2 směny
+  - - Martin Köler
+    - 2 směny
+  - - Matheis Gubitsch
+    - 2 směny
+  - - Matheis Kelbin
+    - 2 směny
+  - - Caspar Letrer
+    - 3 směny
+- typ: odstavec
+  de: |-
+    Summa 51. schichten zu 5. batz. Summa gelt 13. flo. 10 batz.
+  cs: |-
+    Součet 51 směn po 5 batzech, součet peněz 13 zlatých 10 batzů.[^1]
+- typ: tabulka
+  de:
+  - - Blesi Erhart
+    - schichten 2
+  - - Caspar Salzburger
+    - schichten 3
+  - - Hanß Vogelsperger
+    - schicht. 2
+  cs:
+  - - Blesi Erhart
+    - 2 směny
+  - - Caspar Salzburger
+    - 3 směny
+  - - Hanß Vogelsperger
+    - 2 směny
+- typ: odstavec
+  de: |-
+    Summa 31 schichten zu 5 batz. Summa gelt 10. flo. 5 batz.
+  cs: |-
+    Součet 31 směn po 5 batzech, součet peněz 10 zlatých 5 batzů.
+- typ: tabulka
+  de:
+  - - Veit Weiner
+    - schichten 5
+  - - Marthin Hinderman
+    - schichten 2
+  - - Martin Betler
+    - schichten 2
+  - - Wolff Putz
+    - schichten 3
+  - - Jörg Messel
+    - schichten 2
+  - - Lenhart Klein
+    - schichten 2
+  - - Paul Kürschner
+    - schichten 2
+  - - Matheis Hinderburger
+    - schicht. 2
+  - - Hanß Veit
+    - schichten 2
+  - - Valtin Hilibrant
+    - schichten 3
+  - - Paul Fermer
+    - schichten 2
+  cs:
+  - - Veit Weiner
+    - 5 směn
+  - - Marthin Hinderman
+    - 2 směny
+  - - Martin Betler
+    - 2 směny
+  - - Wolff Putz
+    - 3 směny
+  - - Jörg Messel
+    - 2 směny
+  - - Lenhart Klein
+    - 2 směny
+  - - Paul Kürschner
+    - 2 směny
+  - - Matheis Hinderburger
+    - 2 směny
+  - - Hanß Veit
+    - 2 směny
+  - - Valtin Hilibrant
+    - 3 směny
+  - - Paul Fermer
+    - 2 směny
+- typ: odstavec
+  de: |-
+    Mehr die Hewer am 28 tag Julij.
+  cs: |-
+    Dále rubači {Hawer} dne 28. července:
+- typ: tabulka
+  de:
+  - - Gerst von Manßfelt
+    - schichten 2
+  - - Cristoff Müller
+    - schichten 2
+  - - Paul Froner
+    - schichten 2
+  - - Blesi Erhart
+    - schichten 2
+  - - Bernhart Neuheusser
+    - schichten 2
+  - - Jörg Aschauer
+    - schichten 2
+  - - Veit Schwartzenpar
+    - schicht. 2
+  - - Jörg Messel
+    - schichten 2
+  - - Donat Rodt
+    - schichten 2
+  - - Vester Stambeck
+    - schichten 2
+  - - Gregori von Freiburg
+    - schicht. 2
+  - - Hanß von Schlessing
+    - schicht. 2
+  - - Jacob Fur
+    - schichten 2
+  - - Heinrich Keßler
+    - schichten 2
+  - - Erhart Zerer
+    - schichten 2
+  - - Cristen Knap
+    - schichten 2
+  - - Hanß Meter
+    - schichten 2
+  cs:
+  - - Gerst von Manßfelt
+    - 2 směny
+  - - Cristoff Müller
+    - 2 směny
+  - - Paul Froner
+    - 2 směny
+  - - Blesi Erhart
+    - 2 směny
+  - - Bernhart Neuheusser
+    - 2 směny
+  - - Jörg Aschauer
+    - 2 směny
+  - - Veit Schwartzenpar
+    - 2 směny
+  - - Jörg Messel
+    - 2 směny
+  - - Donat Rodt
+    - 2 směny
+  - - Vester Stambeck
+    - 2 směny
+  - - Gregori von Freiburg
+    - 2 směny
+  - - Hanß von Schlessing
+    - 2 směny
+  - - Jacob Fur
+    - 2 směny
+  - - Heinrich Keßler
+    - 2 směny
+  - - Erhart Zerer
+    - 2 směny
+  - - Cristen Knap
+    - 2 směny
+  - - Hanß Meter
+    - 2 směny
+- typ: odstavec
+  de: |-
+    summa 34. schichten zu 6. batz. summa gelt 13. flo. 9 batz.
+  cs: |-
+    Součet 34 směn po 6 batzech, součet peněz 13 zlatých 9 batzů.
+- typ: odstavec
+  de: |-
+    Item hat mein gnediger Herr Graue Reinhart zů Solms/ etc. jnen wider verdingt am 29. tag Julij vmb mittag/ 40. werckschůhe fur ein lehen oder 7. Klafftern vnd gibt jnen von einem lehen des erstenmals 14. flo.
+    Item für das ander lehen gibt jnen sein Gnad 15 flo.
+    Item den Knechten von einem lehen zu seubern 8 flo. thůt zwei lehen 16 flo.
+    Thůt in summa auff beide Gruben vnd von 4 lehen den Knechten zu seubern 90 flo.
+  cs: |-
+    Dále s nimi můj milostivý pán hrabě Reinhard ze Solmsu atd. znovu sjednal úkolovou mzdu {Geding} dne 29. července v poledne, 40 dílenských střevíců {werckschůhe} za jedno léno {Lehen} čili 7 sáhů {Klafftern}, a dává jim za první léno napoprvé 14 zlatých.
+    Dále za druhé léno jim Jeho Milost dává 15 zlatých.
+    Dále čeledínům za vyčištění jednoho léna 8 zlatých, to činí za dvě léna 16 zlatých.
+    To činí úhrnem na obě jámy a za vyčištění 4 lén čeledínům 90 zlatých.[^2]
+poznamky:
+- n: 1
+  text: |-
+    Drobné početní nesrovnalosti sazby: peněžní součet `13 fl. 10 batzů` (= 205 batzů) odpovídá **41** směnám po 5 batzech (nikoli tištěnému počtu 51 směn = 17 fl.), zatímco sečtením 14 jmen vlevo (34 směn) a 3 jmen nahoře vpravo (7 směn) vychází právě 41 směn, a předchozí položky dole na `5-010r` dávají dalších 20 směn. Tisk u jména *Veit Weiner* vynechává součet řady jedenácti jmen (27 směn); pod jménem *Hanß Meter* vychází součet 17 × 2 = 34 směn přesně (u posledního čísla je rozmazaná číslice 2).
+- n: 2
+  text: |-
+    Součet souhlasí přesně na obě šachty: za dvě štoly celkem 2 × (14 + 15) = 58 fl. rubačům a za 4 léna čištění 4 × 8 = 32 fl. čeledínům, tj. 58 + 32 = 90 zlatých.

@@ -1,0 +1,26 @@
+id: 4-008v
+list: 8 (4. kniha)
+strana: verso
+sken: 404
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-404.jpg
+  popis: |-
+    Zarámovaný dřevořez podél levého okraje strany (otočený o 90° vlevo) ukazující tři hlavně v podélném řezu pro názorné vysvětlení síly stěn: nahoře široký moždíř s rytým nápisem „B · MORSER · IM · GRVNT“, monogramem a letopočtem „1556“, dole dvě úzká dlouhá děla na železné a kamenné koule – jedno opatřené na zdi nápisem „A STEIN BVXEN GRVNT.“.
+- typ: odstavec
+  de: |-
+    ZVm zwei vnd zwentzigsten/ diser offene Mortier ist mit einem stul offen gerissen/ daß daran zu sehen/ wie mann ein Büchs oder Mortier außtheilen/ vnnd wie der mit Fewerwerck geladen sein sol mit sampt einem auffstehenden stul vnd seiner beschlagener anzeigung.
+  cs: |-
+    Za dvaadvacáté: tento otevřený moždíř {Mortier} jest narýsován v průřezu spolu se stolicí {stul}, aby na něm bylo vidět, jak se dělo či moždíř rozvrhuje a jak má být nabit ohňostrojem {Fewerwerck}, i se stojící stolicí a znázorněním jejího kování.
+- typ: odstavec
+  de: |-
+    Deßgleichen zwei steinbüchßlein die auch offen gerissen sein/ damit mann die dicke so sie hinden vnd vorn haben/ auch dz maß so zwischen zweien Büchssen ist/ sehen kan/ wañ eine eisen vnnd die ander stein scheust/ was eine für sterck vnd dickung haben muß/ vnd solche Büchsen die offen seind/ heist inn grundt vnd maß gelegt.
+  cs: |-
+    Podobně jsou v průřezu otevřena dvě kamenná dělka {steinbüchßlein}, aby bylo vidět sílu stěny, již mají vzadu i vpředu, i rozdíl míry mezi dvěma děly – když jedno střílí železem a druhé kamenem, jakou pevnost a tloušťku kovu každé z nich potřebuje; a takovýmto dělům kresleným v řezu se říká položená do základu a míry.
+- typ: odstavec
+  de: |-
+    Aber ein büchs die mañ in die rönde vnd außwendig in das gesicht reißt/ ist auch wol inn jhrer rechten theilung vñ maß gerissen/ aber da sicht mann nit wie sie inwendig vnd dicke am zeug an allen orten ist/ aber es soll einer allzeit der ein Büchse reisset/ die zwo kern lenge darein reissen/ vnnd mag sie doch wol vber solliche zwo kern lengen rondiern mit jren abzögen odder absetzen/ wie mañ das nennen will/ so behalten sie doch jre rönde vnd art/ mit sampt jren massen in dem augeschein wie vorn/ vñ ist auff beiden seiten zu sehen vnd zuuerstehen.
+  cs: |-
+    Naproti tomu dělo, které se kreslí v oblém celku a v pohledu zvenčí, jest sice také narýsováno ve svém správném rozvrhu a míře, ale není na něm vidět, jaké jest uvnitř a jak silné jest na kovu ve všech místech. Každý, kdo rýsuje dělo, má však vždy dovnitř vkreslit dvě délky jádra {kern}; nad těmito dvěma délkami jádra pak může hlaveň zaoblit s jejími odskoky či stupňováním, jakkoli se to nazývá, čímž si dělo v pohledu zachová jak svůj oblý tvar a ráz, tak i přesné míry jako výše, takže jest vše dobře vidět a pochopit z obou stran.

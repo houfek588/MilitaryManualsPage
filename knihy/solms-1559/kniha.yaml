@@ -1,30 +1,51 @@
 id: solms-1559
 nazev: Válečný popis a řád válečné správy
 nazev_orig: Dises Buch vnd Kriegsbeschreibung ist vermelten vnd berichten einer guten ordentlichen Kriegsregierung
-podtitul: 'nach alter Teutschen ordnung gebrauch vnd herkomen mit andern noch Büchern von aller Kriegsregierung vnd Rüstung so zu dem Krieg gehört (Das ander Buch: Beschreibung der viervndzwentzigsten Kriegßämpter)'
+podtitul: 'nach alter Teutschen ordnung gebrauch vnd herkomen mit andern noch Büchern von aller Kriegsregierung vnd Rüstung so zu dem Krieg gehört (Das erst bis fünfft Buch)'
 autor: Reinhard hrabě ze Solmsu
 autor_zivot: 1491–1562
 vydani: Lich, vlastní tiskárna hraběte Reinharda ze Solmsu, 1559
 rok: 1559
 vd16: VD16 R 938
 katalog: VD16 R 938
-rozsah: '[1], 87 listů (Druhá kniha v rámci souborného tisku), 2°'
+rozsah: '[1], 39, [1], [1], 87, [1], [1], 67, [22], [1], 26, [1] listů + rozkládací tabule (První až Pátá kniha souborného tisku), 2°'
 jazyk_orig: raná nová horní němčina
 popis: >-
-  Druhá kniha monumentálního válečného díla říšského hraběte Reinharda ze Solmsu popisuje
-  dvacet čtyři vojenských úřadů starého německého vojenství z dob císaře Maxmiliána I.
-  (válečný pán, nejvyšší polní hejtman, polní maršálek, nejvyšší zbrojmistr, proviantní pán,
-  plukovník pěchoty, profous, soud, posádka aj.), včetně žoldů, služebních listů a artikulního listu.
-prekladatel: Pracovní překlad části knihy z Google Docs revidovaný a doplněný s pomocí LLM, 2026.
+  První až Pátá kniha monumentálního válečného díla říšského hraběte Reinharda ze Solmsu:
+  První kniha přináší věnování králi Filipu II., úvod o válečné správě podle římského vzoru,
+  články služebních listů, řád ležení a vozové hradby i poučení mladého válečníka (rozmluva
+  Starého otce a Syna); Druhá kniha popisuje dvacet čtyři vojenských úřadů starého německého
+  vojenství z dob císaře Maxmiliána I. včetně žoldů, komisu a artikulního listu; Třetí kniha
+  pojednává o dělostřelectvu (Arcolorei), povinnostech zbrojmistra, zkoušení puškařů, výzbroji
+  zbrojnice vč. Löfflerovy zakázky, moždířích, ohňostrojích a výrobě střelného prachu, ledku,
+  síry i dřevěného uhlí; Čtvrtá kniha ukazuje druhy děl a lafet, vrhací stroj (trebuchet),
+  bořiče hradeb, zaměřování hlavní, konstrukci dělostřeleckých kol, kotoučů a kladkostrojů
+  i útočné a obranné ohňostrojné prostředky; Pátá kniha vykládá podkopávání a odstřelování
+  hradeb vč. odvodňovacích vodních měchů a větrání štol, dokládá hornický rejstřík z obléhání
+  Saint-Dizier (1544), rozpočítává tažný i zásobovací řád pro protitureckou a moskevskou výpravu
+  a předkládá devět typů opevněných polních srubů.
+prekladatel: Pracovní překlad části 2. knihy z Google Docs revidovaný a doplněný o 1., zbytek 2., 3., 4. a 5. knihu s pomocí LLM, 2026.
 strankovani: folio
 strany_poznamka: >-
-  Edice obsahuje hlavní titulní list svazku (sken 9) a úplnou Druhou knihu (skeny 90–248),
-  číslovanou arabskou foliací po listech (1–87): r = líc, v = rub. V řadě listů edice jsou
-  vynechána čísla 5 (rozkládací tabule na skenu 102; sken 101 je její prázdný líc), 30 (list 031r
-  na skenu 151 má v tisku číslo 30 a následující list 032r číslo 32, takže v tisku je přeskočeno
-  číslo 31), 33, 47, 51, 56, 58, 63, 68, 70 (sken 215 je prázdný líc, sken 216 celostránkový
-  dřevořez rubu 070v) a 77; listy 29, 31, 41 a 81 mají v tisku čísla 27, 30, 42 a 82, text
-  a kustody však plynule navazují.
+  Edice obsahuje soubornou První až Pátou knihu (468 stran v edici): hlavní titulní list svazku
+  (sken 9) a úplnou První knihu (skeny 10–88, 80 stran, ID s prefixem 1-: nečíslovaný vložený
+  dvoulist 1-erb-cisare / 1-jezdec mezi 1-001v a 1-002r a listy 2–39; sken 89 před 2. knihou je
+  prázdný), úplnou Druhou knihu (skeny 90–248, 157 stran: frontispis erb-solms na skenu 90 a listy
+  1–87; sken 249 je prázdný), úplnou Třetí knihu (skeny 250–385, 136 stran, ID s prefixem 3-:
+  frontispis 3-erb-solms na skenu 250, 3-titul / 3-titul-v s dřevořezem jezdce 1545 HD na
+  skenech 251–252 a souvislá foliace listů 1–67 bez mezer), dochovanou Čtvrtou knihu (skeny
+  386–434, 41 stran, ID s prefixem 4-: frontispis 4-erb-solms na rubu listu 67 / sken 386,
+  titulní list 4-titul na skenu 387 a nečíslované listy 4-001r až 4-023v složek C–F bez
+  chybějících úvodních složek A–B v exempláři Rar. 986, vč. rozkládacích tabulí 4-007v a
+  4-011v; na spodní polovině skenu 434 již začíná erbovní frontispis Páté knihy) a úplnou
+  Pátou knihu (skeny 435–490, 54 stran, ID s prefixem 5-: titulní list 5-titul na skenu 435,
+  listy 5-001r až 5-025v složek A–E s foliací tištěnou až od listu 7 vč. rozkládací tabule
+  5-024r/5-024v, vložený list [25a]–[25b] na skenech 487–488 a závěrečný list 5-026r až 5-026v,
+  na jehož spodní polovině začíná erbovní frontispis Šesté knihy). Ve 2. knize tisk přeskakuje
+  čísla listů 5 (tab-01), 30 (tisk 031r má číslo 30 a 032r má číslo 32), 33, 47, 51, 56, 58, 63,
+  68, 70r a 77 a chybně tiskne čísla 29 (27), 31 (30), 41 (42) a 81 (82); ve 3. knize tisk chybně
+  čísluje listy 22 (2), 31 (32), 50 (70), 51 (71), 52 (72), 54 (74) a na listu 62 je číslo sotva
+  znatelné, text a kustody však všude plynule navazují.
 zdroj_textu: >-
   Německý text je přepsán podle digitalizace Bayerische Staatsbibliothek München
   (Rar. 986, bsb00085168) z OCR s opravami chyb podle skenů;
@@ -42,15 +63,29 @@ sken:
   url_obrazek: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00085168_{sken5}/full/{sirka},/0/default.jpg
   licence: 'Public Domain Mark 1.0 (CC0 / volné dílo); digitalizace: Bayerische Staatsbibliothek München'
   poznamka: >-
-    Zařazena je úvodní titulní strana svazku (sken 9) a kompletní Druhá kniha (skeny 90–248).
-    Skeny 101 a 215 jsou nepotištěné lícové strany před tabulí (sken 102) a dřevořezem praporečníka
-    (sken 216), proto se v edici vynechávají.
+    Zařazena je kompletní První kniha včetně hlavního titulního listu svazku (skeny 9–88),
+    kompletní Druhá kniha (skeny 90–248), kompletní Třetí kniha (skeny 250–385), dochovaná Čtvrtá
+    kniha (skeny 386–434) a kompletní Pátá kniha (skeny 435–490). Skeny 89 (prázdný líc před erbem
+    2. knihy), 101 (prázdný líc před tabulí na skenu 102), 215 (prázdný líc před dřevořezem
+    praporečníka na skenu 216), 249 (prázdný líc před erbem 3. knihy), nepotištěné prázdné strany
+    4. knihy (skeny 388, 396, 397, 400, 405, 409, 412 a 417) a prázdné strany 5. knihy (sken 436
+    na rubu titulního listu a sken 439 před tabulí 440) nesou jen slabé prosvítání protější sazby,
+    proto se v edici vynechávají.
 
 predsadka:
 - titul-svazek
+- 1-001v
+- 1-erb-cisare
+- 1-jezdec
 - erb-solms
 - titul
 - titul-v
+- 3-erb-solms
+- 3-titul
+- 3-titul-v
+- 4-erb-solms
+- 4-titul
+- 5-titul
 
 poznamky_k_prekladu: |
   ZDROJ ORIGINÁLU: německý text vychází z OCR digitalizace BSB München (`zdroje/ocr_bsb/NNNN.txt`,

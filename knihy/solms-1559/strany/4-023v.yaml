@@ -1,0 +1,31 @@
+id: 4-023v
+list: 23 (4. kniha)
+strana: verso
+sken: 434
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    einer elen lang ist/ an dem ende ein kneblin haben daß mann also mit der von sich vnder das Volck im stürmen werffen kan/ wann dann das Fewer in das rösch Puluer kompt/ dann springt die Kugel vnnd schlegt hart vmbsich.
+  cs: |-
+    jeden loket, na jejímž konci má být dřívko k uchopení, aby se jí dalo koulí mrštit od sebe mezi nepřátelský lid při útoku; jakmile pak oheň dospěje k prudkému prachu {Puluer}, koule se roztrhne a prudce udeří kolem sebe.
+- typ: odstavec
+  de: |-
+    Dise stück hab ich auch in diß Arkolorei bůch gemacht/ dieweil einem Artoloreimeister zu machen/ vnd in einem Zeughauß zu haben gebürt/ auch einem Artoloreimeister zu wissen zusteht/ damit er seine Büchsemeister das vnd anders zu machen vnd zu weisen lerne vnnd zu arbeiten anstellen künde/ will ich noch inn einem andern Bůch (wils Gott) von Fewerwerck den grundt vñ bericht gewiß machen/ das alle proben gericht vnd gůt befunden sollen werden/ etc.
+  cs: |-
+    Tyto kusy jsem rovněž pojal do této knihy o artilerii {Arkolorei}, poněvadž přísluší mistru artilerie {Artoloreimeister} zhotovovat je a mít je ve zbrojnici {Zeughauß}, a také mu náleží je znát, aby své puškaře {Büchsemeister} naučil toto i jiné věci vyrábět, předvádět a zadávat jim práci. V další knize o ohňostrojích {Fewerwerck} pak (dá-li Bůh) vyložím jejich pevný základ a spolehlivý návod tak, aby všechny zkoušky obstály a byly shledány dobrými atd.[^1]
+- typ: odstavec
+  de: |-
+    Reinhart der elter Graue zu Solms/ vnd Herr zu Mintzenburg/ etc.
+  cs: |-
+    Reinhard starší, hrabě ze Solmsu a pán z Münzenbergu atd.
+- typ: obrazek
+  soubor: drevorez-434.jpg
+  popis: |-
+    Dřevořez s erbem hrabat ze Solmsu a pánů z Münzenbergu (z téhož štočku jako na předsádkách předchozích knih, zasazený do spodní poloviny téže strany za závěr Čtvrté knihy): čtvrcený štít se solmským lvem (1. a 4. pole) a děleným štítem münzenberským (2. a 3. pole) s dvěma turnajskými přilbami a klenoty v koruně listnatého stromu lemovaného věncem, s nápisovou stuhou u kořenů stromu („REINHA[RT] VND. HER[R] / RT. GRAEF. ZV ZV MINCZE[N] / SOLMS BORGK“).
+poznamky:
+- n: 1
+  text: |-
+    Tímto odstavcem v horní polovině rubové strany listu 23 (`4-023v`, sken `434`) končí Čtvrtá kniha; dolní polovina téže strany již nese titul (*Reinhart der elter Graue zu Solms/ vnd Herr zu Mintzenburg/ etc.*) a solmský dřevořezový erb uvozující následující Pátou knihu o podkopávání a odstřelování hradeb (*Das fünfft Bůch vom Vndergraben*, sken `435`).

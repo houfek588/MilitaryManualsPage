@@ -1,0 +1,31 @@
+id: 1-029v
+list: '29'
+strana: verso
+sken: 68
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Kriegsräthen so er im Feld bei jm hat / vnnd ampts personen Rath halten / dann wirt ein Herr von seinem Kriegßuolck geliebt / vnnd sitzen mit allem gůten hertzen zu jm.
+  cs: |-
+    válečnými rady {Kriegsräthen}, které má s sebou v poli, a s osobami úřadů konat poradu – tehdy bude pán svým válečným lidem {Kriegßuolck} milován a všichni při něm budou stát z celého dobrého srdce.
+- typ: odstavec
+  de: |-
+    Weitter soll ein Herr auch sehen / daß er gůt personen hab / die die Leger mit gůter Justitien vnd Pollicei regiern / als mit gůter Ordenung der notturfft das Leger mit Prouiant vnd ander dergleichen sachen / daruon das Leger erhalten werden můß / daß auch dieselbtgen nicht geitzig noch eigennützig seien / sonder des gemeinen Legers nutz vnd vnderhaltung suchen / vnd das also nicht darmit ein Kauffhandel angericht vnnd gebraucht werde / wie zu besorgen das vil geschicht / vnd hart in gebrauch komen / das ist nit der geringste ampts uersehung eine / vnnd not ist das der Kriegßherr sich selber darumb fleissig wisse anzunemen vnd recht zusehe / so behelt er gůte ordnung / vnd das Kriegßuolck wirt willig vnd gehorsam dardurch / derhalben gebürt einem Herren selber zu seinen amptern vnd regierungen zusehen vnd daruon wissens zuhaben / vnd nit alles an die Commissarien zulassen.
+  cs: |-
+    Dále má pán také hledět na to, aby měl dobré osoby, které budou spravovat ležení {Leger} s dobrou spravedlností a veřejným řádem {Pollicei}, totiž s řádným opatřením potřeb ležení proviantem {Prouiant} a jinými podobnými věcmi, z nichž musí být ležení vydržováno; aby titíž nebyli lakotní ani ziskuchtiví, nýbrž usilovali o obecný prospěch a obživu ležení, a aby se s tím tedy nezavádělo a neprovozovalo kramářství, jak se je třeba obávat, že se hojně děje a silně se to vzmáhá. To není jedna z nejmenších správních povinností a je nutné, aby se o to válečný pán {Kriegßherr} sám dovedl pilně starat a řádně na to dohlížel – tak udrží dobrý pořádek a válečný lid se tím stane ochotným a poslušným. Proto pánovi přísluší, aby na své úřady a správy dohlížel sám, měl o nich povědomost a nenechával vše na komisařích {Commissarien}.
+- typ: odstavec
+  de: |-
+    Die Kriegßampter haben vor alters vil gerechtigkeit gehabt / vnd solche ampts gerechtigkeit die seind darumb also geordnet / daß die ampspersonen jnen solche ehr wolgefallen lassen / vnd desto grössern fleiß vnd sorg zu den Amptern haben / die stattlich vnd wol versehen / vnd desto mehr gůt leut darnach trachten solche ehr zuerlangen / vnd solches dem Herren doch ein kleiner abgang / vnnd dem nicht zuuergleichen / was versaumnuß darauß entstehn mag / wann die ampter nit mit tüglichen personen wol besetzt werden / dann wann ein Herr seine Ampter wolbesetzt vnd versicht / vnd ein solchs kleines nit ansicht / die Ampts personen ehrt vnnd wol helt / dann mussen sie auch desto baß regiren vnd hat ein Herr jhnen darnach desto baß einzureden / mussen auch desto gehorsamer sein / vnnd gůt Regiment halten / Dann wann die Regiment wol versehen vnd regiert werden / vnnd die Ampter in gůter Regierung vnd gebrauch stehn / dann ist zu dencken / daß der Krieg auch wol geht / vnd gehorsam ist / vnd wo gehorsam mit gůtem Regiment vnnd Rath ist / da hat der Oberst gerůglich vnd on grosse sorg zuhandeln / vnd den gantzen Krieg leichtlich vnnd lustig zufüren.
+  cs: |-
+    Válečné úřady mívaly odedávna mnoho oprávněných důchodů a práv, a tato úřední práva byla zřízena proto, aby úřední osoby[^1] měly v takové cti zalíbení a věnovaly úřadům tím větší píli a péči, náležitě a dobře je zastávaly a aby tím více dobrých lidí usilovalo o dosažení takové cti; pro pána je to přece jen malý výdaj, který se vůbec nedá srovnat se ztrátou, jež může vzejít ze zanedbání, nejsou-li úřady dobře obsazeny způsobilými osobami. Když totiž pán své úřady dobře obsadí a opatří, na takovou drobnost nehledí, úřední osoby ctí a dobře s nimi nakládá, pak také musejí řídit tím lépe a pán jim pak může tím důrazněji domlouvat, musejí být také tím poslušnější a udržovat dobrý pořádek. Neboť když jsou pluky {Regiment} dobře opatřeny a řízeny a úřady stojí v dobré správě a chodu, lze soudit, že se i válka daří dobře a vládne poslušnost; a kde je poslušnost s dobrým řádem a radou, tam může nejvyšší velitel {Oberst} jednat klidně a bez velikých starostí a vést celou válku lehce a s chutí.
+- typ: odstavec
+  de: |-
+    Darumb soll ein Herr seine Ampter vnd Rath wol besetzen / vnd selbst die inn gůter acht haben / recht furtgehn / vnd wissens haben / wie die allezeit gehandelt vnd im werck stehn / vnd nit durch die Commissarien / sonder durch den Herrn oder Feldobersten geregirt werden / vnd daß die ampts personen zu dem Herren einen freien zugang
+  cs: |-
+    Proto má pán své úřady a radu dobře obsadit, sám na ně bedlivě dohlížet, zda správně postupují, a mít povědomost o tom, jak se vždy spravují a v jakém jsou stavu; nemají být řízeny skrze komisaře, nýbrž skrze pána nebo nejvyššího polního hejtmana {Feldobersten}, a aby úřední osoby k pánovi volný přístup
+poznamky:
+- n: 1
+  text: V tisku zkráceně *ampspersonen* (bez *t*).

@@ -1,0 +1,255 @@
+id: 5-009v
+list: 9 (5. kniha)
+strana: verso
+sken: 454
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Deßgleichen sol er allen tag ein maß nemen/ wie die 24. stundt gefarn oder arbeit worden sei.
+  cs: |-
+    Stejně tak má každý den vzít míru, jak se za těch 24 hodin razilo a pracovalo.
+- typ: odstavec
+  de: |-
+    Ein Schicht ist 4. stundt lang/ vnd so 4. stundt jr ende haben/ dann gehn andere arbeiter an/ die arbeiten auch ein Schicht/ das sind auch 4. stundt/ also geht es für vnd für biß 24. für komen/ das sind in den 24. stunden 6. Schichten/ die Schicht 6. stundt lang.
+  cs: |-
+    Jedna směna {Schicht} je 4 hodiny dlouhá, a když 4 hodiny uplynou, nastupují jiní dělníci a ti rovněž pracují jednu směnu, což jsou také 4 hodiny; tak to jde stále dokola, až se naplní 24 hodin, to jest za 24 hodin 6 směn, každá směna 6 hodin dlouhá.[^1]
+- typ: odstavec
+  de: |-
+    Knecht angefangen am 21. tag Julij.
+  cs: |-
+    Čeledíni {Knecht} započatí 21. dne měsíce července:
+- typ: tabulka
+  de:
+  - - Steffen Vnderdürner
+    - schichten 5
+  - - Linhart Vnderfünffer
+    - schichten 5
+  - - Hanß Purschawer
+    - schichten 6
+  - - Martin Gretz
+    - schichten 7
+  - - Rub Baldauff
+    - schichten 5
+  - - Michel Ampotinger
+    - schichten 4
+  - - Wolff Prieller
+    - schichten 5
+  - - Remper Sturmbs
+    - schichten 6
+  - - Heinrich von Alber
+    - schichten 6
+  - - Thom lentz
+    - schichten 5
+  - - Thom Hanß
+    - schichten 3
+  - - Andre Eder
+    - schichten 6
+  - - Bernhart Sends
+    - schichten 7
+  - - Caspar ab dem Melden
+    - schichten 7
+  - - Gilg Stumbeck
+    - schichten 5
+  - - Ostwald Probst
+    - schichten 6
+  - - Christan thů kein gůt
+    - schichten 6
+  - - Caspar Saltzbürger
+    - schichten 6.
+  cs:
+  - - Steffen Vnderdürner
+    - 5 směn
+  - - Linhart Vnderfünffer
+    - 5 směn
+  - - Hanß Purschawer
+    - 6 směn
+  - - Martin Gretz
+    - 7 směn
+  - - Rub Baldauff
+    - 5 směn
+  - - Michel Ampotinger
+    - 4 směny
+  - - Wolff Prieller
+    - 5 směn
+  - - Remper Sturmbs
+    - 6 směn
+  - - Heinrich von Alber
+    - 6 směn
+  - - Thom Lentz
+    - 5 směn
+  - - Thom Hanß
+    - 3 směny
+  - - Andre Eder
+    - 6 směn
+  - - Bernhart Sends
+    - 7 směn
+  - - Caspar ab dem Melden
+    - 7 směn
+  - - Gilg Stumbeck
+    - 5 směn
+  - - Ostwald Probst
+    - 6 směn
+  - - Christan „Nezdárný“ (thů kein gůt)
+    - 6 směn
+  - - Caspar Saltzbürger
+    - 6 směn
+- typ: odstavec
+  de: |-
+    Summa 100 schichten zu 5 batz. Summa gelt 33. flo. 5. batzen.
+  cs: |-
+    Součet 100 směn po 5 batzech {batzen}, součet peněz 33 zlatých {fl.} 5 batzů.[^2]
+- typ: tabulka
+  de:
+  - - Veit Wenier
+    - schichten 5
+  - - Jörg Handle
+    - schichten 3
+  - - Paul Kürschner
+    - schichten 3
+  - - Blesi Erhart
+    - schichten 5
+  - - Martin Betler
+    - schichten 5
+  - - Mattheis Kelben
+    - schichten 5
+  - - Paul Ferner
+    - schichten 5
+  - - Gerst von Manßfeld
+    - schichten 5
+  - - Christoff Mülner
+    - schichten 5
+  - - Mattheis Gabrisch
+    - schichten 4
+  - - Martin Koller
+    - schichten 3
+  - - lenhart Klein
+    - schichten 5
+  - - Mattheis Hinderberger
+    - schich. 5
+  - - Donat rodt
+    - schichten 4
+  - - lenhart Morer
+    - schichten 4
+  cs:
+  - - Veit Wenier
+    - 5 směn
+  - - Jörg Handle
+    - 3 směny
+  - - Paul Kürschner
+    - 3 směny
+  - - Blesi Erhart
+    - 5 směn
+  - - Martin Betler
+    - 5 směn
+  - - Mattheis Kelben
+    - 5 směn
+  - - Paul Ferner
+    - 5 směn
+  - - Gerst von Manßfeld
+    - 5 směn
+  - - Christoff Mülner
+    - 5 směn
+  - - Mattheis Gabrisch
+    - 4 směny
+  - - Martin Koller
+    - 3 směny
+  - - Lenhart Klein
+    - 5 směn
+  - - Mattheis Hinderberger
+    - 5 směn
+  - - Donat Rodt
+    - 4 směny
+  - - Lenhart Morer
+    - 4 směny
+- typ: odstavec
+  de: |-
+    Summa 101. schichten zu 6 batz. Summa gelt 40 fl. 6 batz.
+  cs: |-
+    Součet 101 směn po 6 batzech, součet peněz 40 zlatých 6 batzů.[^3]
+- typ: odstavec
+  de: |-
+    Am 21. tag Julij Hawer.
+  cs: |-
+    Dne 21. července rubači {Hawer}:
+- typ: tabulka
+  de:
+  - - Wolff Butz
+    - schichten 5
+  - - Caspar lederer
+    - schichten 5
+  - - Jörg Messel
+    - schichten 5
+  - - Veit schwartzpar
+    - schichten 5
+  - - Bernhart Newheuser
+    - schichten 5
+  - - Martin Hinderman
+    - schichten 5
+  - - Jörg Aschawer
+    - schichten 5
+  cs:
+  - - Wolff Butz
+    - 5 směn
+  - - Caspar Lederer
+    - 5 směn
+  - - Jörg Messel
+    - 5 směn
+  - - Veit Schwartzpar
+    - 5 směn
+  - - Bernhart Newheuser
+    - 5 směn
+  - - Martin Hinderman
+    - 5 směn
+  - - Jörg Aschawer
+    - 5 směn
+- typ: tabulka
+  de:
+  - - Vesper schambeck
+    - schichten 3
+  - - Jacob Fuchs
+    - schichten 7
+  - - Erhart Herer
+    - schichten 7
+  - - Heinrich Keßler
+    - schichten 6
+  - - Hanß Meyer
+    - schichten 3
+  - - Christen Knap
+    - schichten 6
+  - - Gregor von Freiburg
+    - schicht. 6
+  - - Hanß Falckomer
+    - schichten 6
+  - - Hanß Veit von der Newburg
+    - schichten 6.
+  cs:
+  - - Vesper Schambeck
+    - 3 směny
+  - - Jacob Fuchs
+    - 7 směn
+  - - Erhart Herer
+    - 7 směn
+  - - Heinrich Keßler
+    - 6 směn
+  - - Hanß Meyer
+    - 3 směny
+  - - Christen Knap
+    - 6 směn
+  - - Gregor von Freiburg
+    - 6 směn
+  - - Hanß Falckomer
+    - 6 směn
+  - - Hanß Veit von der Newburg
+    - 6 směn
+poznamky:
+- n: 1
+  text: |-
+    Zřejmý tiskový omyl na konci věty: „die Schicht 6. stundt lang“ místo správného *4. stundt lang* (6 × 4 = 24 hodin, jak sám Solms v téže větě uvádí).
+- n: 2
+  text: |-
+    Zde i dále se počítá 1 zlatý (`fl.` / `flo.`) = 15 batzů: 100 × 5 = 500 batzů = 33 fl. 5 batzů. V seznamu figuruje horník s přezdívkou *Christan thů kein gůt* („Kristián Nezdárný“ / „Nic dobrého nedělá“).
+- n: 3
+  text: |-
+    Součet 101 × 6 = 606 batzů = 40 fl. 6 batzů je početně přesný; vytištěná čísla u patnácti mužů pravého sloupce však dávají jen 66 směn (u posledních dvou jmen jsou vedle číslice 4 slabě otisknuté sazečské značky). Navazující seznam rubačů dole pokračuje vlevo sedmi muži po 5 směnách a vpravo devíti muži (u prvního jména *Vesper schambeck* poškozená číslice 3), k nimž na rubu (`5-010r`) přistupuje *Hanß Vogelszberger* (6) – pravý sloupec rubačů tak dává přesně 56 směn.

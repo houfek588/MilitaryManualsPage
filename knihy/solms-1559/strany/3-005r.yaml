@@ -1,0 +1,52 @@
+id: 3-005r
+list: '5'
+strana: recto
+sken: 261
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    allwegen bei einander auff eim platz ligen sonder gehteilt/ daruff muß er gůt acht haben so ein Lermen wirt/ vnd die Leger nit bei einander ligen vnd zu samen wölten daß das geschütz also in demselbigen lauff nicht schaden thet.
+  cs: |-
+    vždy pohromadě na jednom místě, nýbrž rozdělena; na to musí dávat dobrý pozor, aby – nastane-li poplach {Lermen} a ležení {Leger} neleží pohromadě a chtěla by se spojit – děla {geschütz} v tom běhu nenadělala škodu.
+- typ: odstavec
+  de: |-
+    Zum vierzehenden soll ein Zeugmeister mit dem Feldmarschalck vorziehen die weg vnd bröcken zu besehen/ die machen lassen/ damit wann das geschütz nach kompt daß dasselbige durch vnd vber mag.
+  cs: |-
+    Za čtrnácté má zbrojmistr {Zeugmeister} táhnout napřed s polním maršálkem {Feldmarschalck}, prohlédnout cesty a mosty a dát je opravit, aby – až přijedou děla – mohla projet i přejet.
+- typ: odstavec
+  de: |-
+    Zum fünffzehenden sol er gůt acht haben daß der Marschalck vnd andere das Leger schlagen/ daß er darauff sehe sein lermen platz mit dem geschütz geschickt zuuerstellen/ deßgleichen wo mann vermeint daß es not sei/ vnd so das geschütz kompt daß er ein jedes wisse bald zu weisen wo es stehn soll/ damit sie nit lang halten dörffen.
+  cs: |-
+    Za patnácté má dávat dobrý pozor, když maršálek a ostatní rozbíjejí ležení, aby dohlédl na obratné obestavění svého poplachového místa děly a rovněž tam, kde se soudí, že je to nutné; a jakmile děla dorazí, aby každému uměl rychle ukázat, kde má stát, aby nemusela dlouho čekat.
+- typ: odstavec
+  de: |-
+    Zum sehszehenden soll er besehen dieweil er da forn ist/ wo er sein Arcolorei roß hin losiern wöl/ diß Quartier soll er auch einnemen.
+  cs: |-
+    Za šestnácté má obhlédnout, když už je tam vepředu, kam chce ubytovat {losiern} koně svého dělostřelectva {Arcolorei}, a tento kvartýr {Quartier} má také zabrat.
+- typ: odstavec
+  de: |-
+    Zum sibenzehenden soll er von eim jeden Edelman oder die das geschütz verwalten ein wagen Knecht mit eim pferd hinweg nemen/ der also zu seinen pferden vnd seiner gesellen ein nimpt/ wer die selbig Edelleut seind/ vnd jhr befelch wirt fort in der ordnung der selbigen wol mit gůtem bericht angezeigt werden.
+  cs: |-
+    Za sedmnácté má od každého šlechtice nebo od těch, kdo spravují děla, vzít jednoho vozkovského pacholka s jedním koněm, jenž se takto přibírá ke svým koním a [ke koním] svých druhů[^1]. Kdo ti šlechtici jsou a jaké je jejich velení, bude dále v jejich řádu s dobrým poučením vyloženo.
+- typ: odstavec
+  de: |-
+    Zum achzehenden soll er so bald auch besehen/ wo daß er sein Arcolorei vnd Monition hin stellen wöl das soll er so bald einnemen vnd vergraben lassen.
+  cs: |-
+    Za osmnácté má rovněž hned obhlédnout, kam chce postavit své dělostřelectvo a munici {Monition}, a toto místo má ihned zabrat a dát okopat příkopem.
+- typ: odstavec
+  de: |-
+    Zum neundzehenden soll er nit in sein Losament er hab dann zuuor sein geschütz alles gestalt wie es stehn soll/ vnd so die wacht darnach auff den lermen platz oder zu dem Geschütz auff zeucht/ soll er so bald von derselben jm lassen geben etlich Rotten/ die soll er zuuor zu der Arcolorei oder Monition/ daß sie stets darumb stellen/ souil der von nöten sein/ vnd verwachen lassen.
+  cs: |-
+    Za devatenácté nemá jít do svého ubytování, dokud dříve nerozestaví všechna svá děla tak, jak mají stát; a jakmile pak vytáhne stráž {wacht} na poplachové místo nebo k dělům, má si od ní hned nechat přidělit několik rot {Rotten} a postavit je napřed k dělostřelectvu neboli munici, aby je stále obklopovaly v potřebném počtu a střežily je.
+- typ: odstavec
+  de: |-
+    Zum zwentzigsten/ soll ehe dann er schlaffen geht seine Schantzen besehen/ vnd bestellen was jn von nöten ist/ mit seinen Edelleutten oder zugeordneten personen allen abents sich berathschlagen vnd besprechen/ was ein jeder die nacht oder den morgen versehen vnd außrichten soll/ darob sein daß dasselbig fleissig außgericht werde/ wann er schon weiß das außgericht ist/ soll er doch/ so er je anderer sachen halben der zeit haben kan/ selbst besehn ob es recht sei/ oder stehe wie er das beuolhen hat/ Damit zeucht er gůt sorgfeltig Leut/ die der sachen acht nemen vnd sorg tragen/ vnd ist dem Zeugmeister auch ein groß růhe inn seinem gemüt/ wann er selbst sicht daß die sachen so jhm befolhen seind recht stehen/ Vnnd ist jhm auch bei seinem Obersten vnd dem gantzen Kriegsuolck rhümlich vnd tröstlich/ dann es stehet
+  cs: |-
+    Za dvacáté má dříve, než půjde spát, prohlédnout své šance {Schantzen} a zařídit, čeho je zapotřebí; se svými šlechtici či přidělenými osobami se má každého večera poradit a domluvit, co má každý v noci nebo ráno obstarat a vykonat, a dohlížet na to, aby se to pilně vykonalo. I když už ví, že se tak stalo, má se přece – má-li jen pro jiné záležitosti trochu času – sám podívat, zda je to v pořádku a stojí-li to tak, jak přikázal. Tím si vychová dobré, pečlivé lidi, kteří na věci dávají pozor a starají se o ně; a zbrojmistru je to i velikým uklidněním v mysli, když sám vidí, že věci, jež mu byly svěřeny, jsou v pořádku. A je mu to i u jeho plukovníka {Obersten} a všeho válečného lidu {Kriegsuolck} ke cti a povzbuzení, neboť leží
+poznamky:
+- n: 1
+  text: |-
+    Závěr věty *der also zu seinen pferden vnd seiner gesellen ein nimpt* je stručný: myšleno zřejmě, že vozka s koněm pečuje společně o zbrojmistovy koně i o koně jeho družiny, příp. je zapřahán do společné služby.

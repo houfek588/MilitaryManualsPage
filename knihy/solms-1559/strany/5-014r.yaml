@@ -1,0 +1,57 @@
+id: 5-014r
+list: 14 (5. kniha)
+strana: recto
+sken: 463
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    jre pferd das sie also nicht weiter ziehen dann in jrem Landt bleiben/ bei jrer Fütterung aber zu den weitsten auff jren nachbaurn da sie jre Prouiant vnd Füterung erlangen mögen/ vnd auß dem Landt nach bringen künden.
+  cs: |-
+    se svými koňmi netáhnou dále než ve své zemi u vlastní píce, nanejvýš ke svým nejbližším sousedům, kde si mohou opatřit proviant a píci a dovážet si je ze své země.
+- typ: odstavec
+  de: |-
+    Weiter so ist zu glauben/ das sie solliches Kriegßuolck nit alles mit nemen auff andere Landt zuziehen/ sonder wann das ein Zug in jre landt gehen/ oder auß dem Landt inn einander Landt ziehen würde/ das mag nit sein dann kein Landt kündt sie erleiden noch ertragen/ an der Prouiant/ Füterung vnd der weid.
+  cs: |-
+    Dále jest třeba věřit, že takovéto vojsko neberou všechno s sebou k tažení na cizí země; kdyby totiž mělo být vypraveno tažení do jejich země nebo z jedné země do druhé, není to možné, neboť žádná země by je nemohla snést ani uživit na proviantu, píci a pastvě.
+- typ: odstavec
+  de: |-
+    Dann solte solliche 452000. menschen mit Brot allein erhalten werden einen tag/ so wölt auff solliche 452000. Person ein tag gehn an Zall der Brott so es nit mehr schwer sein solte/ dann ein pfundt würde es tragen an Zal der Brott 452000 stcük/ das will ich in ein Rechnung stellen/ damit zusehen sein solte/ was es an Zal/ gewicht vñ maß tragen solt/ vnd wurde doch ein mensch mit eim pfundt nit zuerhalten sein.
+  cs: |-
+    Neboť kdyby se jen samým chlebem mělo po jeden den uživit takových 452 000 lidí, pak by na těch 452 000 osob připadlo za jeden den – kdyby nebyl těžší než jednu libru {Pfundt} – na počet bochníků 452 000 kusů. To uvedu v počet, aby bylo zřejmé, co by to dalo co do počtu, váhy i míry; a přitom by se člověk z jedné libry ani neuživil.
+- typ: odstavec
+  de: |-
+    Item 180. Brot werden gebachen auß einem achtel Korn/ welches vngefehrlich 163. pfundt wigt/ vnd ist ein Brot eins pfundts schwere.
+  cs: |-
+    Dále: 180 chlebů se upeče z jednoho achtelu {Achtel} žita, který váží přibližně 163 liber, a jeden chléb váží jednu libru.
+- typ: odstavec
+  de: |-
+    Item so dann die 452000. Brot solten alle gebachen werden/ eins von einem pfundt/ so würden solche 452000 Brot schwer an gewicht sein 4520. Centner.
+  cs: |-
+    Dále: mělo-li by se tedy upéci všech 452 000 chlebů, každý po jedné libře, vážilo by takových 452 000 chlebů na váhu 4 520 centů {Centner}.
+- typ: odstavec
+  de: |-
+    Item zu disem obgemeltem Brot/ als 452000. stück gehörn 1461. Achtel Korns.
+    Item die Summa der Achtel Korns wigen 415260. pfundt.
+    Item an Centnern wigt das Korn 4152. Centner.
+    Item dises Brot in das leger zufüren/ muß mann haben 226. wagen/ den wagen 20. Centner schwere geladen.
+    Item in einen Wagen 4. pferdt gespandt/ macht in summa 904.
+    Item solt dann ein Person mit 2. pfundt Brots eiñ tag gespeist werden/ das wirt mit Brot/ Korn vnd gewicht zweimal doppel souil tragen.
+  cs: |-
+    Dále: k tomuto výše zmíněnému chlebu, totiž 452 000 kusům, náleží 1 461 achtelů žita.[^1]
+    Dále: úhrn těch achtelů žita váží 415 260 liber.
+    Dále: v centech váží to žito 4 152 centů.
+    Dále: k dovozu tohoto chleba do ležení {Leger} musí být 226 vozů, přičemž vůz se naloží 20 centy tíhy.
+    Dále: zapřáhnou-li se do jednoho vozu 4 koně, činí to úhrnem 904 koní.
+    Dále: měla-li by pak jedna osoba dostat k jídlu 2 libry chleba na den, vyneslo by to na chlebu, žitu i váze dvojnásobek.
+- typ: odstavec
+  de: |-
+    Item bei disem ist zudencken/ was auff ein Kriegßuolck geht/ allein an Korn vnd Brot/ vnd das sein wil vnd muß/ Darumb will zuuor wol bedacht sein/ wann ein Herr ein Heer oder veldzug thůn will/ daß zum ersten die Prouiant geordnet werde/ wo mann sie finden oder bekommen mög/ vnd in die leger gebracht würde/ durch die zufür zu wasser vnd landt/ besonder wañ ein Herr in ein frembd landt ziehen will/ vnd ein zeit darinn zu bleiben vermeint/ daß er der Prouiant gewiß sei/ vnd jhm dieselbige nicht abgestreckt werden/ dann
+  cs: |-
+    Dále při tom jest uvážit, co padne na vojsko jen za samé žito a chléb, a to být chce a musí. Proto jest třeba předem dobře rozvážit, když chce pán podniknout vojenské tažení, aby se předně opatřil proviant {Prouiant}, kde by se dal najít či sehnat, a aby se dovážel do ležení vodní i pozemní cestou; zvláště chce-li pán táhnout do cizí země a hodlá v ní nějaký čas zůstat, aby měl proviant zajištěn a nebyl mu odříznut, neboť
+poznamky:
+- n: 1
+  text: |-
+    Sken `463` nese správně tištěné číslo listu `14` (OCR jej četlo jako `34`) a signaturu `C iij`. V přepočtu `452 000 ÷ 180 ≈ 2 511` achtelů tisk uvádí zkomoleně `1461. Achtel`; naproti tomu u vozů je počet přesný (`4 520 ÷ 20 = 226` vozů, `226 × 4 = 904` koní). V tisku u „452000 stcük“ přesmyčka místo *stück*.

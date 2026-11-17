@@ -1,0 +1,109 @@
+id: 3-021v
+list: '21'
+strana: verso
+sken: 294
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Beschreibung / wie eines Stathafftigen Fürsten oder Herrn Zeughauß / mit grossem vnd kleinem Geschütz / Auch allerlei andern Gewehrn / Kriegßrüstungen vnd vorat / Darzů in was summa gelts vngefehrlich sich solliches alles verlauffen möcht / deren jedes vnderschiedtlich / wie hernach volgt / angezeigt wirt / Vnd in zehen Capitel getheilt.
+  cs: |-
+    Popis, jak má být zařízena zbrojnice {Zeughauß} zámožného knížete nebo pána velkými i malými děly {Geschütz}, jakož i všelikými jinými zbraněmi, válečnou výzbrojí {Kriegßrüstungen} a zásobami, a dále na jakou peněžní sumu by to vše přibližně mohlo přijít – z čehož každé jednotlivě, jak níže následuje, bude vyloženo; rozděleno do deseti kapitol.
+- typ: odstavec
+  de: |-
+    ANfangs werden diser Ordnung nach fürgenomen vnd gesetzt neunerlei Sort / Maurbrecher / Feldgeschütz vnd ein Brechgeschütz / ausserhalb der Mörser vier vnd in dem Feldgeschütz fünff gattung / doch allweg einer Sort ( wie es dann der notturfft nach bedacht worden ) mehr dann der andern benantlichen / wie hernach volgt.
+  cs: |-
+    Zpočátku se podle tohoto řádu bere a stanovuje devatero druhů – bořiče hradeb {Maurbrecher} a polní děla {Feldgeschütz} –, a to u průlomových děl {Brechgeschütz},[^1] mimo moždíře {Mörser}, čtyři druhy a u polních děl pět druhů, přičemž od jednoho druhu vždy více kusů než od druhého (jak to bylo podle potřeby uváženo), jmenovitě jak níže následuje:
+- typ: tabulka
+  de:
+  - - Prechgeschütz.
+    - ''
+    - Feldgeschütz.
+    - ''
+  - - Scharpffermetzen
+    - stück 2.
+    - Schlangen
+    - stück 6.
+  - - Nachtigaln
+    - stück 4.
+    - Halb Cartaun
+    - stück 8.
+  - - Notschlangen
+    - stück 4.
+    - Halb Schlangen
+    - stück 10.
+  - - Cartaun
+    - stück 8.
+    - Viertel Schlangen
+    - stück 10.
+  - - ''
+    - ''
+    - Falconetlin
+    - stück 20.
+  - - Summa Perchgeschütz
+    - vier Sort vnnd stück 18.
+    - Summa Feldgeschütz
+    - fünfferlei Sort vnd stück 54.
+  cs:
+  - - Průlomová děla {Prechgeschütz}
+    - ''
+    - Polní děla
+    - ''
+  - - šarfmece {Scharpffermetzen}
+    - 2 kusy {stück}
+    - kulveriny {Schlangen}
+    - 6 kusů
+  - - slavíci {Nachtigaln}
+    - 4 kusy
+    - poloviční kartouny {Halb Cartaun}
+    - 8 kusů
+  - - těžké kulveriny {Notschlangen}
+    - 4 kusy
+    - poloviční kulveriny {Halb Schlangen}
+    - 10 kusů
+  - - kartouny {Cartaun}
+    - 8 kusů
+    - čtvrteční kulveriny {Viertel Schlangen}
+    - 10 kusů
+  - - ''
+    - ''
+    - falkonety {Falconetlin}
+    - 20 kusů
+  - - Součet průlomových děl[^2]
+    - čtyři druhy a 18 kusů
+    - Součet polních děl
+    - pět druhů a 54 kusů
+- typ: odstavec
+  de: |-
+    Summasummarum / Prech vnnd Feldgeschütz thůt neunerlei Sort vnd stück 72.
+  cs: |-
+    Celkový součet: průlomových a polních děl to činí devatero druhů a 72 kusů.
+- typ: odstavec
+  de: |-
+    Im ersten Capitel wirt deren sort vnd gattung jede Büchsen insonderheit / wie schwer vnd lang sie sein / wieuil sie eisens schiessen / vnnd was jeder sort anheims zuerhalten / oder im fall der notturfft mit 100. kugeln vnd so schwer puluers in ein Feld zufürn / allenthalben sonder zugehörung sei angezeigt vnd beschriben.
+  cs: |-
+    V první kapitole bude o každém děle {Büchsen} z těchto druhů a tříd jednotlivě vyloženo a popsáno, jak je těžké a dlouhé, jak těžkou železnou kouli střílí a co je ke každému druhu třeba k udržování doma nebo v případě potřeby k vypravení do pole se 100 koulemi {kugeln} a stejně těžkým množstvím střelného prachu {puluers} spolu se vším příslušenstvím.
+- typ: odstavec
+  de: |-
+    Im andern geschicht vermeldung / was disem Prech vnd Feldgeschütz in gemein allenthalben zugehörig.
+  cs: |-
+    Ve druhé kapitole se podává zpráva o tom, co náleží těmto průlomovým a polním dělům společně a vesměs.
+- typ: odstavec
+  de: |-
+    Im dritten / wirt beschriben ein trefflich Handtgeschütz / vnd auff was form vnd maß dasselbig mit aller seiner zugehörung / gerüst vnd staffiert sein soll / nemlich Handtror 2000.
+  cs: |-
+    Ve třetí se popisují znamenité ruční palné zbraně {Handtgeschütz} a v jaké podobě a míře mají být opatřeny a vystrojeny se vším svým příslušenstvím, totiž 2000 ručnic {Handtror}.
+- typ: odstavec
+  de: |-
+    Im vierdten von einem ansehlichen vorrat der allweg auff das geschütz vorhanden / vnd wie derselb so nicht bleiblich widerumb mit der zeit verendert / abgewechselt vnd erstat werden soll.
+  cs: |-
+    Ve čtvrté o značné zásobě, která je vždy k dispozici pro děla, a jak se má ta část zásob, jež není trvanlivá, časem opět obměňovat, vyměňovat a doplňovat.
+poznamky:
+- n: 1
+  text: |-
+    V originále stojí *vnd ein Brechgeschütz* (patrně tiskařská chyba místo *im Brechgeschütz*, tj. „u průlomových děl“).
+- n: 2
+  text: |-
+    V originále sazečská přesmyčka *Perchgeschütz* místo *Prechgeschütz*.

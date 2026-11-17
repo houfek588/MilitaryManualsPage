@@ -1,0 +1,47 @@
+id: 3-029r
+list: '29'
+strana: recto
+sken: 309
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    genommen werden / vnd solche Hacken sollen auch von der vorbeschribenen anzal herkommen / thůt auff die 25. Wagen 100. Toppelhacken.
+  cs: |-
+    sejmout; a tyto hákovnice {Hacken} mají rovněž pocházet z výše uvedeného počtu, což na těch 25 vozů činí 100 dvojitých hákovnic {Toppelhacken}.
+- typ: odstavec
+  de: |-
+    Wie nun dergleichen wagen gemacht vnd formiert / das wirt hernach an seinem ordenlichen ort auch klärlicher beschriben.
+  cs: |-
+    Jak se pak takové vozy zhotovují a utvářejí, to bude dále na svém náležitém místě také jasněji popsáno.
+- typ: odstavec
+  de: |-
+    Item der gemelten wagen einen in den andern angeschlagen vor sich / thůn die 100. wagen in summa / etc.
+  cs: |-
+    Dále: ocení-li se každý ze zmíněných vozů jeden jako druhý sám o sobě, činí těch 100 vozů v souhrnu […] atd.
+- typ: odstavec
+  de: |-
+    Wiewol dise jetzt beschriben stürm oder schirm wagen / für ein gemeine zugehörung allem Geschütz billich gerechnet / vnd deßhalben hernach in seinem ordenlichen Capitel daruon tractiert soll worden sein / ist es doch darumb / dieweil sie dem kleinn Geschütz anhengig / hieher zusetzen / für gůt angesehen.
+  cs: |-
+    Ačkoli se tyto právě popsané útočné {stürm} čili štítové vozy {schirm wagen} právem počítají ke společnému příslušenství veškerého dělostřelectva {Geschütz} a mělo se o nich proto pojednat až níže v jejich vlastní kapitole, bylo přece uznáno za dobré zařadit je sem, poněvadž náležejí k lehkým palným zbraním.
+- typ: odstavec
+  de: |-
+    Der anschlag Eysens vnd Puluers / wirt hernach inn einem sondern Capitel / darinn von allem vorrat meldung geschicht / angeregt / vnd eingeschlossen werden.
+  cs: |-
+    Rozpočet železa a střelného prachu {Puluers} bude zmíněn a zahrnut níže ve zvláštní kapitole, v níž se pojednává o všech zásobách.
+- typ: odstavec
+  de: |-
+    Summa summarum alles vnkostens / so vber das hieuor nachleng beschriben Geschütz / vmb giesserlohn / sein selbs zeug / vnd alles anders / nichts außgenomen / vorgemeltem anschlag nachlauffent / thůt an gelt / etc.
+  cs: |-
+    Celkový součet veškerého nákladu na výše obšírně popsaná děla – za slévárenskou mzdu, vlastní kov i všechno ostatní, nic nevyjímaje – podle výše uvedeného rozpočtu činí na penězích […] atd.
+- typ: odstavec
+  de: |-
+    DIeweil inn aller welt das geschütz erkennt wirt / was sein vermögen ist / vnnd dasselbig nun mehr am höchsten steht / vnd nit wol mag höher noch stercker gefunden vnd gemacht werden / Vnd jhm nachgerechnet wirt / was mit einem jeden stück / es sei groß oder klein / einn tag / die wochen / vnd den Monat mag geschossen vnd außgericht werden / vnnd was für kosten darauff mit aller zugehörung geht / so wirt vnnd ist demselbigen nachgedacht wie man dem mit bawen begegnen kan / damit die Bäw dermassen gemacht / daß solchs geschütz nichts daran schaffen mag / auch die Herrn es die leng zu schiessen nit vermögen / wirt demselbigen als weiter nachdacht / vnd mit vortheil gefunden / vor solchem geschütz zuhalten / vnd vngefehrlich bäw daruor zumachen / Hab ich bedacht / daß dem zubegegnen sei mit einem geringen kosten / mit dem grossen Geschütz in kurtzer zeit / vnd ist das mein bedencken / wie volgt.
+  cs: |-
+    Poněvadž se po celém světě již ví, čeho je dělostřelectvo schopno, a ono nyní stojí na nejvyšší dokonalosti a stěží může být vynalezeno a zhotoveno ještě mocnější a silnější, a poněvadž se vypočítává, co lze každým kusem {stück} – ať velkým nebo malým – za jeden den, za týden a za měsíc vystřelit a pořídit a jaké náklady na to s veškerým příslušenstvím jdou, přemýšlí se stále o tom, jak tomu čelit stavbou opevnění, aby stavby byly zřízeny tak, že jim taková děla nebudou moci nic učinit a páni ani nebudou s to proti nim dlouho střílet; přemýšlí se o tom stále dále a s důvtipem se nalézají způsoby, jak proti takovým dělům obstát a vystavět proti nim bezpečné stavby. Proto jsem uvážil, jak by se tomu dalo čelit s malými náklady a přitom s účinkem velkých děl[^1] v krátkém čase; a toto je má úvaha, jak následuje:
+poznamky:
+- n: 1
+  text: |-
+    V originále stojí *mit einem geringen kosten / mit dem grossen Geschütz in kurtzer zeit* („s malými náklady, s velkým dělostřelectvem v krátkém čase“ – míněno buď dosažení účinku velkých děl v krátkém čase pomocí níže navržených moždířů, nebo elipticky *proti* velkým dělům či *namísto* velkých děl; v BSB OCR na ř. 31 bylo *Herꝛn* chybně přečteno jako *Hermes*).

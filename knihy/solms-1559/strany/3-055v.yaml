@@ -1,0 +1,50 @@
+id: 3-055v
+list: '55'
+strana: verso
+sken: 362
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Wiltu spring Puluer machen das gůt vnd scheinig ist.
+  cs: Chceš-li dělat trhací prach {spring Puluer}, jenž je dobrý a zářivý
+- typ: odstavec
+  de: |-
+    NIm gůt Büchsen Puluer von rechtem gutem gemeinem zusatz / vnd das doch der Salpeter vnd Schwefel wol geleuttert sei / Ich nim aber Zündtpuluer / vnnd netz das mit gůtem gebrantem Wein / mach dann darauß Kugeln so groß wie Hüner eyer / auch als halb Eyer / vnd wie ein Welschnuß / laß wol trucken / vnnd leg sie nicht an die Sonnen.
+  cs: |-
+    Vezmi dobrý puškový prach {Büchsen Puluer} ze správného dobrého obecného složení, přičemž však ledek {Salpeter} a síra {Schwefel} mají být dobře přečištěné; já však beru zápalný prach {Zündtpuluer}, navlhčím jej dobrým páleným vínem, vytvaruji z něj koule velké jako slepičí vejce, také jako půl vejce a jako vlašský ořech, nechám je dobře vyschnout a nekladu je na slunce.
+- typ: nadpis
+  uroven: 3
+  de: Wilt du es noch stercker machen.
+  cs: Chceš-li jej učinit ještě silnějším
+- typ: odstavec
+  de: |-
+    SO leg darein vnder die grossen Kugel Auripigmentum / so groß wie vier oder sechs Erbes / das merck eben es frombt dir / netz das mit gebrantem wein / thů denn darzů als zwo oder drei Erbes / vnd vnder die dritten als ein oder anderthalb Erbes dick / wenn du denn solt auß grossen Hauptbüchsen / als das mann dich versucht / schiessen / vnnd daß du nicht deines Puluers hetst / so thů zum ersten Puluer darinn daß es für das Zündtloch vmb einen halben zwerchen finger gehe / so leg dann das Küglin hinein das so groß ist als ein Welschnuß / vnd lad dann die Büchs wie sie sein soll / so scheußt sie starck.
+  cs: |-
+    Vlož tedy dovnitř do velké koule auripigment (*Auripigmentum*) veliký jako čtyři nebo šest hrachů – dobře si to pamatuj, prospěje ti to –, navlhči to páleným vínem; do střední pak dej asi jako dva nebo tři hrachy a do třetí asi o tloušťce jednoho nebo půldruhého hrachu. Když pak máš střílet z velikých hlavních děl {Hauptbüchsen},[^1] například když tě zkoušejí, a nemáš vlastního prachu, nasyp nejprve dovnitř tolik prachu, aby přesahoval zátravku {Zündtloch} asi o půl šířky prstu, potom vlož dovnitř kuličku velkou jako vlašský ořech, a pak dělo {Büchs} nabij, jak má být – tak vystřelí prudce.
+- typ: nadpis
+  uroven: 3
+  de: Das Zündtpuluer mach also.
+  cs: Zápalný prach dělej takto
+- typ: odstavec
+  de: |-
+    NIm 6. lot Salpeter / 2. lot schwefel / 1. lot Koln / vnd mach darauß ein Puluer / das heist gůt Zündtpuluer.
+  cs: |-
+    Vezmi 6 lotů {lot} ledku, 2 loty síry a 1 lot dřevěného uhlí {Koln} a zhotov z toho prach – ten se nazývá dobrý zápalný prach.
+- typ: nadpis
+  uroven: 3
+  de: Ein meisterlich Puluer / das mann vor Regen wol bewaren soll.
+  cs: Mistrovský prach, který se má dobře chránit před deštěm
+- typ: odstavec
+  de: |-
+    WIltu dasselbig Puluer machen / so nim salpeter vnd schwefel eins souil als das ander ein lot / Koln ein lot / vnd puluer das vnder einander / nim weissen Kisselstein / Brenn den zu einem Kalch / vnd stoß den vngeleschten Kalch wol / thů 1. vntz Kalchs darzů / vnd 3. Pfenning schwer Kampfer / temperier das wol vnder einander / denn laß wol trucken werden.
+  cs: |-
+    Chceš-li zhotovit tentýž prach, vezmi ledku a síry stejný díl, po jednom lotu, a jeden lot uhlí a rozetři je dohromady na prach; vezmi bílý křemen, vypal jej na vápno a nehašené vápno dobře utluč, přidej k tomu 1 unci {vntz}[^2] vápna a kafru na váhu 3 feniků, dobře vše smíchej dohromady a pak nech dobře vyschnout.
+poznamky:
+- n: 1
+  text: |-
+    *Hauptbüchse* – hlavní či nejtěžší dělo bateriové či obléhací třídy; zmínka *als das mann dich versucht* odkazuje na praktickou zkoušku (atestaci) puškaře před zbrojmistrem či válečným pánem.
+- n: 2
+  text: |-
+    *Untz* (unce) – lékárnická a váhová jednotka rovná 2 lotům (asi 30 g). *Pfenning schwer* („tíha feniku“) – drobná lékárnická váha (asi 1/4 kvintlíku, tj. cca 1 g).

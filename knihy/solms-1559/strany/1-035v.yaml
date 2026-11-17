@@ -1,0 +1,36 @@
+id: 1-035v
+list: '35'
+strana: verso
+sken: 80
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd Rath bei gefunden hab / derhalben so kom ich wider zu euch / vnd will euch nichts bergen / wie die sachen stehn mit einem jungen Gesellen / besonder mit einem vom Adell der nichts gesehen hat / dann allein an einem ort / da er da heim oder erzogen ist worden als ich / jr wisset daß ich nirgent weitter gewesen bin / dann allein an meines Herren Hoff / da ich dann noch sein / so sehe vnd höre ich / wo frembde Gesellen her komen / die sagen von Kriegßhändeln vnd ehrlichen sachen da sie bei gewesen seind / so sehe ich auch daß mann dieselbigen herfür zeucht / helt sie vor augen / vnd thůt jn vor andern ehr an / dann sitze ich vnd meines gleichen da vnd hören zů / vnd ist vns ein frembder handel / Darauff bin ich bedacht / mich auch herauß zuthůn etwas zu sehen vnd zu lernen / darinn will ich ewren Rath bitten / dieweil ich weiß daß jr solcher sachen versucht / erfarn vnd gebraucht seind.
+  cs: |-
+    a radu. Proto k vám opět přicházím a nechci vám nic skrývat, jak se věci mají s mladíkem, zvláště se šlechticem, který neviděl nic než jediné místo, kde byl doma či kde byl vychován, tak jako já. Víte, že jsem nikde dále nebyl než toliko na dvoře svého pána, kde jsem dosud;[^1] i vídám a slýchám, když přicházejí cizí tovaryši, kteří vyprávějí o válečných činech a čestných věcech, při nichž byli, a vidím také, že se takovým lidem dává přednost, váží si jich a prokazuje se jim čest před ostatními – a tu já i mně podobní sedíme a nasloucháme a je nám to cizí věcí. Proto jsem se rozhodl, že se také vydám do světa, abych něco viděl a naučil se, a prosím vás v tom o radu, neboť vím, že jste v takových věcech zkoušený, zkušený a zběhlý.
+- typ: nadpis
+  uroven: 3
+  de: Alter Vatter.
+  cs: Starý otec.
+- typ: odstavec
+  de: |-
+    Lieber Son / dieweil du dann also ein vertrawen zu mir hast / vnd dein trost auff mich setzest / so solt du dich des zu mir versehen / was ich dir in dem rathen vnnd helffen kan / wil ich gern thůn / besonder dieweil ich von dir verstehe vnd auch gehört hab / daß dein gemüt dahin gericht ist zu ehrlichen Ritterlichen sachen / vnd du selber verstehest / hörest vnd sichst / daß die so etwas gesehen / vnnd sich ehrlich gehalten haben / daß dieselbigen ehrlich gehalten vnd herfür gezogen werden / So hast du bei mir gůt rath zu nemen / dieweil du selber solches gesehen vnd gehört hast / vnd du bei dir bedacht / dergleichen auch zuthůn / versuchen / zusehen vnd zu lernen / dein gemüt dahin steht / so rath ich dir auch darzů / dann dein vornemen vnd gedencken ist gůt / vnd weiß dirs keins wegs zu widerrathen / vnd wann du dann solliches thůn wilt / so will ich dich bitten vnd warnen / daß du keinem Herrn dienst noch zu ziehest der ein Tyran ist / noch mit keiner liederlicher gesellschafft / da es deiner ehrn nachteil odder nachrede bringen möge / sonder wann du ziehen wilt / so zeug mit ehrlichen gůten leuten / da fert mann wol mit / dann ich hab es wol mehr gesehen / daß gůt gesellen lissen sich auffbringen vnd vbereden liederlich leut / daß sies darnach sehr gereuhet / vnd furen auch nit gar wol damit / vnd kamen in groß nachtheil dardurch.
+  cs: |-
+    Milý synu, poněvadž ke mně tedy máš takovou důvěru a skládáš na mne svou naději, můžeš se na mne spolehnout, že co ti v tom budu moci poradit a pomoci, to rád učiním – zvláště když od tebe chápu a také jsem slyšel, že tvá mysl směřuje k čestným rytířským věcem a sám chápeš, slyšíš a vidíš, že ti, kteří něco viděli a chovali se čestně, jsou ctěni a vyzdvihováni. Můžeš si tedy u mne vzít dobrou radu: když jsi to sám viděl a slyšel a umínil sis činit totéž – zkoušet, dívat se a učit se – a tvá mysl k tomu směřuje, pak ti k tomu také radím, neboť tvé předsevzetí a úmysl jsou dobré a nemohu ti je nijak rozmlouvat. A chceš-li to tedy učinit, chci tě poprosit a varovat, abys nesloužil žádnému pánovi ani k němu netáhl, je-li tyranem, ani s žádnou lehkovážnou společností, z níž by tvé cti mohla vzejít újma či pomluva; nýbrž chceš-li táhnout, táhni s čestnými dobrými lidmi – s těmi se dobře pochodí. Vždyť jsem již víckrát viděl, jak se dobří jinoši nechali zlákat a přemluvit lehkomyslnými lidmi, takže toho potom trpce litovali, ani s tím nedopadli dobře a upadli tím do veliké škody.
+- typ: nadpis
+  uroven: 3
+  de: Son.
+  cs: Syn.
+- typ: odstavec
+  de: |-
+    Lieber alter Vatter ich bedanck mich ewers freundlichen getrewen vnderrichs vnd raths / vnd ich will dem (wills Gott) nachkommen vnd zu hertzen nemen / vnd verhoff zu Gott wann ich darzů keme / ich wöl mich halten / daß jr befinden solt / daß ich an ewern Rath vnd lere gedacht hab / vnd mich mit Gotts hilff halten daß ich etwas lern will.
+  cs: |-
+    Milý starý otče, děkuji vám za vaše přátelské, věrné poučení[^2] a radu; chci se jimi (dá-li Bůh) řídit a vzít si je k srdci, a doufám v Boha, že až k tomu dojde, budu se chovat tak, abyste poznal, že jsem na vaši radu a nauku pamatoval, a s Boží pomocí se budu držet tak, abych se něčemu naučil.
+poznamky:
+- n: 1
+  text: V tisku *sein* (tiskařská či nářeční odchylka za *bin*, „jsem“).
+- n: 2
+  text: V tisku *vnderrichs* bez koncového *t* (*vnderrichts*).

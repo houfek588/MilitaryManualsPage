@@ -1,0 +1,40 @@
+id: 5-025b-r
+list: '[25b] (5. kniha)'
+strana: recto
+sken: 488
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Das neundte Blochausz.
+  cs: |-
+    Devátý srub.
+- typ: odstavec
+  de: |-
+    DIß Blochauß ist also zuuerstehen/ als wann es an einer Stat vder Befestung lege/ vnd die Höhe innhett/ vnd daß mañ mit eynem kleinem Legerlein darfür ligen wolt/ wie ein Blochauß/ vñ daß die weite haben müst/ vnd nicht die zeit hett/ oder haben möcht/ daß mann ein recht Blochauß daruor machen kündt/ vnnd der platz zu weit were/ das nit ein Blochauß anzufangen sein möcht/ vnnd daß doch das volck für schiessen sicher darinn liegen kündte/ so wil dasselbig mit schantzen auffgeworffen vnd verdeckt sein.
+  cs: |-
+    Tomuto srubu jest rozumět tak, jako by ležel před městem nebo {Befestung} mající vyvýšenou polohu a chtělo se před ní ležet s menším ležením {Leger} na způsob srubu {Blochhaus}, jenž by muselo mít značnou šířku, ale nebyl by čas ani možnost postavit tam řádný srub a místo by bylo příliš rozlehlé, než aby se tam dal začít srub, a přesto by v něm lid měl ležet bezpečně před střelbou – tu jest třeba navršit jej a zakrýt zákopy {Schantz}.[^1]
+- typ: odstavec
+  de: |-
+    Dieweil dann ein Schantz nit wol so hoch gemacht mag werden/ daß sie weit hinder sich deckt/ so muß mann darauff achtung haben/ wo sie nit mehr decken wil/ daß mann an demselbigen ort da sie nit deckt/ widerumb so bald eine anfahe/ wie die erst ist/ vñ so hoch mach wie mann kan/ vnd darnach besehe wo dieselbig auch nit decken wil/ dergleichen widerumb eine anfahe wie die ander/ vñ so lang fürt fare biß jhn bedünckt daß das Leger so groß sei als ers haben will/ oder zu decken von nöten ist/ dañ so weitter er hindersich kompt/ so die Schantzen weitter decken/ vnd von einander komen mögen/ daß zeigen dise zwo Figurn an/ nemlich die 9. vnd 10.
+  cs: |-
+    Poněvadž pak jeden val či zákop {Schantz} nelze snadno udělat tak vysoký, aby kryl daleko za sebou, musí se dávat pozor na to, kde již přestává krýt, a právě v tom místě, kde již nekryje, hned znovu začít další takový, jako byl první, a udělat jej tak vysoký, jak jen možno; poté se podívat, kde ani ten již nekryje, a stejně tak začít další jako druhý a tak postupovat dále tak dlouho, až se zdá, že tábor je tak veliký, jak je třeba či jak jest nutno jej krýt – neboť čím dále se ustupuje dozadu, tím šířeji zákopy kryjí a mohou být dále od sebe. To ukazují tato dvě vyobrazení, totiž 9. a 10.[^2]
+- typ: odstavec
+  de: |-
+    Das zuuerstehen/ so ist auff der Pastei der befestung ein Büchs gestalt/ von derselbigen an soll mann einen Fadem ziehen/ vnd darüber legen/ das daruor mit schantzen vergraben vnd verdeckt ist/ so wirdt der Fadem weisen wie die Schantzen decken/ vnd das Volck darzwischen sicher ligen mög/ Aber damit daßselbig wol zuuerstehen sei/ habe ich die Schantzen vff der eine seiten/ die lengst durch das leger oben geht/ die ander zwerg Schantz durch dieselbig lang Schantzen gehn lassen/ damit mann witter die Gytter der zwerg sehe/ vnd mit dem Fadem von der Statwehr auff derselbigen zwerg Schantzen oben vber gehn mag/ so weit der Fadem so vber die zwerg Schantz geht anzeigt/ bei der andern nachkommenden Schantzen/ wie mann mag sicher stehen/ vnd die erst Schantz deckt/ so mag er hinder vnnd hinder thůn so ferr es von nöten ist/ Also lernen dise zwo Figurn/ wie man hinfürter so mann mit Schantzen ein leger decken wil/ thůn soll.
+  cs: |-
+    Aby se tomu rozumělo: na baště {Pastei} opevnění je postaveno dělo; od něj se má natáhnout provázek a položit jej přes prostor před ní, jenž jest prokopán a zakryt zákopy, a provázek ukáže, jak zákopy kryjí a kde lid mezi nimi může bezpečně ležet. Aby však tomu bylo dobře rozumět, vedl jsem zákop na jedné straně, který prochází podélně horní částí tábora, a druhý příčný zákop {zwerg Schantz} jsem vedl skrze ten podélný, aby bylo dále vidět průsečíky příčného náspu a aby se provázkem z městské hradby dalo přejít přes vrch toho příčného náspu až tam, kam provázek přes příčný násep vede k dalšímu za ním ležícímu zákopu a ukazuje, jak lze stát bezpečně, kde první zákop kryje – a tak lze jít stále dále dozadu, jak daleko je jen třeba. Takto učí tato dvě vyobrazení, jak se má napříště postupovat, chce-li člověk zákopy krýt ležení.
+- typ: odstavec
+  de: |-
+    Weitter võ den Blochäusern zu reden/ so mag wol gesagt werden/ soll mann souil Blochäuser haben/ vnd so erfordert die notturfft/ daß dieselbigen ein grosse vnd weite haben mussen/ würde es vil Volcks erfordern/ Deßgleichen auff so vil volcks ein groß vnderhaltung/ solt dann dasselbig für vnd für der gestalt gelegt vnd versehen werden/ so
+  cs: |-
+    Mluvíme-li dále o srubech {Blochhaus}, mohlo by se namítnout: má-li být tolik srubů a vyžaduje-li potřeba, aby měly značnou velikost a šířku, vyžadovalo by to mnoho lidu a na tolik lidu i veliké vydržování, kdyby se tam musel takto trvale pokládat a zásobovat – tu
+poznamky:
+- n: 1
+  text: |-
+    Nečíslovaný líc vložený mezi listy 25 a 26 (v BSB rub tohoto listu prázdný a v digitalizaci vynechaný; záhlaví nese rubové označení *Das fünfft Bůch.* bez čísla listu). V prvním odstavci tištěno nářečně „vder“ (za *oder*).
+- n: 2
+  text: |-
+    Text zmiňuje obě figury „9. vnd 10.“ souhrnně pro sousedící dvojitou opevněnou soustavu příčných zákopů na předcházejícím protějším dřevořezu (`5-025a-v`, sken `487`, se značkami `1`, `2`, `3`).

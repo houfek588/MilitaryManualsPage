@@ -1,0 +1,48 @@
+id: 3-037v
+list: '37'
+strana: verso
+sken: 326
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Zum andern so mag mann auch solche bäumb auffrichtig stellen vnd alles nach gelegenheit wo mann vermeint/ das sie schaden oder etwas aufrichten mögen/ sölliche plöcher mag man klein oder groß/ wie es die notturfft erfordert/ machen vnd zurichten/ wie die gemacht sein sollen/ daß wirt alles Figursweiß zu einem bessern bericht in augenschein gerissen werden.
+  cs: |-
+    Za druhé je možné takové klády postavit i nastojato a vše uspořádat podle příležitosti tam, kde se soudí, že mohou způsobit škodu nebo něco dokázat; takové klády lze udělat a upravit malé či velké, jak to potřeba vyžaduje, a jak mají být zhotoveny, to vše bude pro lepší poučení názorně vykresleno v nákresech.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Ein dampff feur.
+  cs: |-
+    Dýmavý oheň.
+- typ: odstavec
+  de: |-
+    ITem zu einem Dampff feur soll mann nemen ein Tonnen/ vnd mit einem reinen/ dörren/ kleinen/ gestoßnen Kalch gefült/ vnd mitten in solcher tonnen soll ein kleines fäßlein in dem kalch stehn/ dasselbig soll mit einem Puluer außgefült werden/ vnd von solchem feßlein sol ein Ror durch den kalch zu der tonen hinauß gehn/ damit mann dasselbig anzinden mög/ so dasselbig angezindet wirt/ so zerschlecht es die tonnen mit sampt dem kalch/ vnd macht also ein staub vnd dampff/ zusampt dem springen vnd schlagen.
+  cs: |-
+    Dále: k dýmavému ohni se má vzít sud a naplnit se čistým, suchým, najemno utlučeným vápnem; a uprostřed takového sudu má v tom vápně stát malý soudek, jenž má být naplněn střelným prachem {Puluer}, a od toho soudku má skrz vápno vést ven ze sudu trubička, aby se to dalo zapálit. Když se to zapálí, roztrhá to sud spolu s vápnem a nadělá to takový prach a dým spolu s rozletem a třeskem.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Ein anders.
+  cs: |-
+    Jiné.
+- typ: odstavec
+  de: |-
+    ITem laß dir machen häfen einn Hafner/ also groß daß ein mann einen in einer handt erhöben/ vnd hinauß werffen mög/ in solchen hafen gehört auch ein leiner sack der langen zotten hat/ vnnd solcher sack soll mit Puluer außgefült sein/ aber die zotten sollen mit einem faulen Puluer/ oder gestossen feur zeug auff das Puluer/ auß gefült vnd gestossen sein/ vnd solcher Sack soll auch in den hafen in die mit gehangen werden/ vnd in den sack vnden eben mit eim kalch wie oben gemelt außgefült/ das also das Puluer inn der mit auff alle ort im Kalch sei/ gemelter Hafen soll geformiert sein wie ein faß/ vnnd ein deckel haben mit einem loch/ das die zotten von dem sack oben dardurch gehn/ vnd soll der deckel vnd hafen als dann mit einem schnürgebendt vberbunden werden/ vnd in einem pech gedäfft oder geschwembt sein/ wie des auch ein Figur wie das gemacht sein soll/ gerissen wirdt.
+  cs: |-
+    Dále: nech si od hrnčíře udělat hrnce tak velké, aby je člověk mohl jednou rukou zdvihnout a vyhodit ven; do takového hrnce patří také plátěný pytlík s dlouhými třásněmi a ten pytlík má být naplněn střelným prachem, ale třásně mají být naplněny a nacpány pomalým prachem nebo utlučenou zápalnou hmotou až na ten prach; a takový pytlík se má rovněž zavěsit doprostřed do hrnce a dole v hrnci kolem pytlíku[^1] se má stejně tak nasypat vápno, jak výše zmíněno, aby prach uprostřed byl ze všech stran ve vápně. Zmíněný hrnec má mít tvar soudku a víko s otvorem, jímž vrchem procházejí třásně pytlíku; a víko s hrncem se pak mají ovázat provazovým ovázáním {schnürgebendt} a namočit do smůly {gedäfft} nebo v ní vykoupat, jak k tomu bude také nakreslen obrázek, jak to má být uděláno.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Noch ein anders.
+  cs: |-
+    Ještě jiné.
+- typ: odstavec
+  de: |-
+    ITem laß dir einen Hafner von gůter Erden ein Kugel so groß wie ein Kintskopff machen/ vnnd an Zeug die Erden so dick als vngefehrlich zwen zwerch finger sein mögen/ das darinn zwei pfundt Puluers gehn/ solche Kugel soll oben herauß einer halben span lang
+  cs: |-
+    Dále: nech si od hrnčíře z dobré hlíny udělat kouli {Kugel} velkou asi jako dětská hlava, jejíž hliněná stěna je tlustá přibližně na dva prsty napříč, tak aby se do ní vešly dvě libry {pfundt} střelného prachu; taková koule má nahoře ven vyčnívat v délce půl pídi a
+poznamky:
+- n: 1
+  text: V tisku stojí *vnd in den sack vnden*, patrně zkráceně či chybně za *vnd vmb den sack vnden* („a dole kolem pytlíku“).

@@ -1,0 +1,48 @@
+id: 3-052v
+list: '52'
+strana: verso
+sken: 356
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Wie mann ein besser Puluer machen soll / einem Biderman auff sein eigen Schloß / Stat oder Hauß.
+  cs: Jak se má dělat lepší střelný prach {Puluer} poctivému muži na jeho vlastní hrad, město či dům
+- typ: odstavec
+  de: |-
+    SO du wilt ein bessers oder sterckers Puluer dann das vorig machen / Nim 2. pfundt Salpeters / 2. Schwefel / 1. pfundt Koln / vnd mischs wol / so hastu Puluer.
+  cs: |-
+    Chceš-li tedy vyrobit lepší nebo silnější prach než předešlý, vezmi 2 libry {pfundt} ledku {Salpeters}, 2 [libry] síry {Schwefel} a 1 libru dřevěného uhlí {Koln} a dobře je smíchej – tak máš prach.
+- typ: nadpis
+  uroven: 3
+  de: So mann noch ein besser Puluer machen will.
+  cs: Chce-li se vyrobit ještě lepší prach
+- typ: odstavec
+  de: |-
+    WIltu noch ein besser Puluer damit mann weitter vnd stercker schiessen kan / machen / denn mit dem vorigen / So nim 6. pfundt Salpeter / 2. pfundt Schwefel vnd ein pfundt Kolen / das wirt ein gůt Puluer.
+  cs: |-
+    Chceš-li vyrobit ještě lepší prach, jímž lze střílet dále a prudčeji než předešlým, vezmi 6 liber ledku, 2 libry síry a jednu libru uhlí – z toho bude dobrý prach.
+- typ: nadpis
+  uroven: 3
+  de: So mann ein Büchsenpuluer herten / vnd es zu rössen knölligem Puluer machen will / etc.
+  cs: Chce-li se puškový prach {Büchsenpuluer} ztužit a proměnit v prudce hořící[^1] hrudkovitý prach atd.
+- typ: odstavec
+  de: |-
+    SO du wilt ein Püchsenpuluer härten wenn dus schon vnd recht mischest durch einander von welches zusatz du gern hast / so thů ein wenig inn einen Mörser oder stumpff / als vil du darinn gehaben magst / vnd begeuß das mit einem gůten starcken Essig / stoß wol durch einander mit einem höltzlein / vnd mach es feucht mit dem Essig / daß sich leßt zusamen trucken / vnd trucke es zu hauff wie gorß du die Ballen haben wilt / darnach nim ein jrnischen verglasten tieffen Tigel oder ein nepfflein oder ein Kupfferein schal / vnd truck es also naß / darinn recht / als dann ein käß in den napff daucht / vnd stürtzes vmb auff ein bret so geht es gern auß / der Puluer Knollen magstu machen als vil du puluers hast / vnd ist es inn dem Sommer / so magstu die Knollen wol dörren an der Sonnen / wer das nit / so můß mann die dörren in einer stuben / mit feindtlichem warm sein / das thů auff 10. tag / Darnach soll mann die knollen nemen / sie legen in ein dörres Faß oder Lagel / setz es an ein trucken Stat / daß nit feucht werd / das puluer nimpt nit ab / vnd ist gůt wie lang es wert / vnd vor allen dingen wann das puluer getrucknet inn der Stuben oder sonst / soll mann es vor feur vnd liecht behüten / dann es könts niemand erretten / vnd geschech grosser schaden.
+  cs: |-
+    Chceš-li tedy ztužit puškový prach, když už jsi jej dobře a správně promíchal v takovém složení, jaké si přeješ, dej jej trochu do hmoždíře nebo stoupy, kolik se ti tam vejde, polej jej dobrým silným octem, dobře vše promíchej dřívkem a navlhči jej octem tak, aby se dal stlačit k sobě; stlač jej do hromady tak velké, jak velké chceš mít koule.[^2] Potom vezmi hliněný glazovaný hluboký kelímek nebo mističku či měděnou misku a vtlač jej takto vlhký pevně dovnitř, právě tak jako se tvaroh vmačkává do tvořítka na sýr, a vyklop jej na prkno – tak půjde snadno ven. Takových prachových bochánků můžeš nadělat tolik, kolik máš prachu. Je-li léto, můžeš bochánky dobře sušit na slunci; není-li léto, musí se sušit ve světnici mírně teplé,[^3] a to po 10 dní. Poté se mají bochánky vzít, uložit do suchého sudu či soudku a postavit na suché místo, aby nezvlhly; takový prach nepozbývá síly a zůstává dobrý, jakkoli dlouho leží. Ze všeho nejvíce však, když se prach suší ve světnici nebo jinde, má se chránit před ohněm a světlem, neboť by to nikdo nedokázal zachránit a stala by se veliká škoda.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann gar gut Büchsen puluer machen soll / vnd auch zu Feurpfeiln.
+  cs: Jak se má dělat velmi dobrý puškový prach, a také k ohnivým šípům {Feurpfeiln}
+poznamky:
+- n: 1
+  text: |-
+    *röß* – v dobové němčině u prachu označuje prach sypký, prudce a čistě hořící (*resch* / *röß*).
+- n: 2
+  text: |-
+    Tisk má sazečskou přesmyčku *gorß* místo *groß* („velké“).
+- n: 3
+  text: |-
+    V tisku stojí nejasné *mit feindtlichem warm sein* – pravděpodobně písařská či tiskařská obměna za *mit lindtlichem* / *senfftlichem* („s mírným teplem“) či *zimlichem* („přiměřeně teplým“), neboť prudký žár by prach při sušení ohrozil.

@@ -1,0 +1,47 @@
+id: 3-059v
+list: '59'
+strana: verso
+sken: 370
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Wie mann Newen Salpeter leutern soll der erst abgenomen wirt.
+  cs: Jak se má čistit nový ledek {Salpeter}, jenž byl teprve sebrán
+- typ: odstavec
+  de: |-
+    WIltu newen Salpeter leutern / der erst von der Mauern wirt genomen / nim des selben Salpeters als vil du gehaben magst / leg jn in ein siedend wasser / aber wein ist vil besser denn das wasser / oder inn starcken Weinessig / ist besser dann der wein / vnnd rüre es vntereinander mit einem stecken / vnd laß es dann kalt werden / darnach geuß das wasser durch ein tůch das es lauter werd / vnd thů denn das wasser aber vber ein feur / laß es sieden in der maß als mann Fisch seud / seigs darnach durch ein dickes tůch / vnd wann du es also gesigen hast so laß es kalt werden / so gesteht der Salpeter zusamen / seige denn den wein oder Essig aber das wasser herab / vnnd laß den Salpeter vast wol trucken / so wirt er fein vnd gůt / oder fertig.
+  cs: |-
+    Chceš-li čistit nový ledek, který byl právě sebrán ze zdí, vezmi téhož ledku, kolik můžeš mít, a vlož jej do vroucí vody – avšak víno jest mnohem lepší než voda, anebo silný vinný ocet jest ještě lepší než víno –, promíchej to klackem a nech pak vychladnout. Poté vodu přelij přes plátno, aby se vyčistila, a dej tu vodu opět na oheň; nech ji vřít takovou měrou, jak se vaří ryby, a sceď ji pak přes husté plátno.[^1] A když jsi ji takto scedil, nech ji vychladnout, a ledek se srazí dohromady; pak z něj slij víno či ocet neb[^2] vodu a nech ledek velmi dobře uschnout – tak bude jemný a dobrý čili hotový.
+- typ: nadpis
+  uroven: 3
+  de: Ob der Salpeter von dem sieden nicht gesteht / zu wissen wo von er gestehet.
+  cs: Jestliže ledek po vaření nekrystalizuje, jak poznat, čím se sráží
+- typ: odstavec
+  de: |-
+    ES geschicht vil das der Salpeter nach dem sieden nicht gestehen wil das geschicht wann mann zu vil wassers oder weins darein thůt wiltu den machen das er gestehet / so nim eines mans Harm der da wein getruncken hat / vnd je elter je besser er ist / vnd leg saltz darein / vnd seudt den Salpeter als vor / so gestehet er wol / vnd wirdt lauter vnd schön.
+  cs: |-
+    Často se stává, že ledek po vaření nechce zkrystalizovat (*gestehen*); to se děje tehdy, přidá-li se do něj příliš mnoho vody nebo vína. Chceš-li jej tedy přimět, aby se srazil, vezmi moč muže, jenž pil víno – a čím starší jest, tím lepší –, přidej do ní sůl a vař ledek jako předtím: tak se dobře srazí a bude čirý a pěkný.
+- typ: nadpis
+  uroven: 3
+  de: wie mann soll den wilden Salpeter der hart zepffig ist / reinigen vnd leutern das er gůt werd.
+  cs: Jak se má čistit a přečišťovat surový[^3] ledek, který má tvrdé krystaly, aby byl dobrý
+- typ: odstavec
+  de: |-
+    WIltu Salpeter der wild auß den Bergen / vnd groß hartzepffig ist leutern vnd gůt machen / als ob er nicht hartzepffig were / nime so vil als du gehaben magst / gib jn zu malen in ein müllen / vnd wenn er klein gemalen ist so thů jn in einen kessel / geuß darein als dich das Bůch hie leret / vnd rüre es vmb / vnd laß darnach drei tag stehen / nach dreien tagen so thů jn vber ein feur / seud die zwei theil ein / geuß das vbrig durch ein tůch / vnd was in dem tůch bleibt / das seud dann in starckem Essig / wann dasselbig theil eingeseudt / geuß dann wider ab / laß es gestehen / das es kalt werdt / vnd geuß dann das wasser ab / so hastu schönen salpeter / die zepffe laß dann wol trucken / je truckner je besser es wirt.
+  cs: |-
+    Chceš-li čistit a napravit surový ledek z hor, který tvoří velké tvrdé krystaly (*hartzepffig*),[^4] jako by takový nebyl, vezmi jej, kolik můžeš mít, dej jej umlít do mlýna, a až bude jemně umletý, nasyp jej do kotle, nalij do něj, jak tě učí tato kniha, zamíchej a nech pak tři dny stát. Po třech dnech jej dej nad oheň, odvař dva díly a zbytek přelij přes plátno; co v plátně zůstane, to pak vař v silném octě. Až se tato část povaří, opět ji slij, nech ji zkrystalizovat, aby vychladla, a pak slij vodu – tak budeš mít pěkný ledek. Jeho krystaly (*zepffe*) pak nech dobře uschnout; čím budou sušší, tím lepší bude.
+poznamky:
+- n: 1
+  text: |-
+    V BSB OCR bylo *dickes* chybně přečteno jako *dines*; v dalším receptu pak *ES* jako *FS*, *gestehen* jako *gefichen* a v posledním receptu *zwei theil ein* jako *zwet thelein*.
+- n: 2
+  text: |-
+    Tisk má *aber das wasser* – zřejmě dobová záměna či sazečská chyba za *oder das wasser* („anebo vodu“), případně ve smyslu „opět“.
+- n: 3
+  text: |-
+    *wilder Salpeter* („divoký ledek“) – surový, přírodně nalezený a nepřečištěný ledek (např. ze skal a jeskyní).
+- n: 4
+  text: |-
+    *hartzepffig* (*hartzäpficht*) – tvořený tvrdými krápníkovitými či rampouchovitými krystaly (*Zapfen* / *zepffe*).

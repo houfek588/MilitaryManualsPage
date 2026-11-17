@@ -1,0 +1,97 @@
+id: 3-051r
+list: '51'
+strana: recto
+sken: 353
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    NIm ein Bleyen Büchsen / vnnd heiß dir machen ein eisern Kugel die gerecht darinn sei / leg ein nassen hadern darauff / das ist auff die Kugel / laß die Kugel verglühen / vnd leg sie in die Büchsen auff einen hader / daß thůst du wol on alle schande vnd schaden / zint zu handt an / warinn dann die Kugel geschossen wirt / wann es anders holtz ist / das verbrennt alles / vnd niemand weiß wo her das feur komen ist.
+  cs: |-
+    Vezmi olověné dělo {Bleyen Büchsen}[^1] a nech si zhotovit železnou kouli {Kugel}, která do něj přesně padne; polož na ni mokrý hadr – totiž na místo pro kouli[^2] – nech kouli rozžhavit a vlož ji do děla na ten hadr. To můžeš učinit beze vší ostudy i škody; ihned zapal, a kamkoli koule dopadne, jen je-li to dřevo, všechno shoří a nikdo neví, odkud oheň přišel.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann ein Büchs außlasen soll / die lang geladen ist vnd nicht lassen wil / etc.
+  cs: Jak se má vystřelit dělo {Büchs}, jež je dlouho nabito a nechce spustit atd.
+- typ: odstavec
+  de: |-
+    NIm ein Ladeysen / treib die Kugel oder den klotzen henein baß / vmb ein zwerchen halmen oder mehr / raumb das zindtloch mit einem griffel / vnd sähe ein gůt puluer darinn / zindtes an / so lest die Büchs / Kugel vnd Klotz gern / vnd fert daruon.
+  cs: |-
+    Vezmi nabíjecí železo, zaraž kouli nebo zátku {klotzen} hlouběji dovnitř na šířku jednoho stébla či více, vyčisti zátravku {zindtloch} rydlem, nasyp do ní dobrý střelný prach {puluer} a zapal jej; tak dělo snadno spustí i s koulí a zátkou a vyletí to ven.
+- typ: nadpis
+  uroven: 3
+  de: Von Büchsen schiessen.
+  cs: O střelbě z děl
+- typ: verse
+  de:
+  - Zweier handt du Puluer nimm /
+  - Das ist der rechten Meister sinn.
+  cs:
+  - Dvojí střelný prach si vem,
+  - toť pravých mistrů um jest v něm.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann ein Büchs mit wasser ledt.
+  cs: Jak se dělo nabíjí vodou
+- typ: verse
+  de:
+  - EIn höfflich kunst sich hie entschleust /
+  - Vnd lert wie mann mit wasser scheust /
+  - Vnd mann lade die Büchs darmit /
+  - Das ist auch wol ein newer sit /
+  - Nim Salpeter so gůt er mag gsein /
+  - Vnnd schüt darzů gebranten wein /
+  - Ein Alembic darzů leudern /
+  - Vnnd wasser daruon distilliern /
+  - Nim Schwefel vnd öle zugleich /
+  - Brenne das gar höffentlich /
+  - Vnd mach das Fewer nicht zu nach /
+  - Laß dir auch nit zuuil sein gach /
+  - Brenn das von morgen biß zu nacht /
+  - Irdengeschirr ist sein recht vacht /
+  - Die form soll sein gerecht also /
+  - Wiltu des ölens werden fro.
+  cs:
+  - Zde vzácné umění se otevírá
+  - a učí, jak se vodou střílí
+  - a jak se jí dělo nabíjí,
+  - 'toť vskutku nový obyčej:'
+  - Vezmi ledek {Salpeter}, jak nejlepší může být,
+  - a přilij k němu páleného vína;
+  - připrav si k tomu alembik,[^3]
+  - a z toho vodu destiluj;
+  - pak vezmi síru {Schwefel} a olej zároveň,
+  - předestiluj to velmi opatrně
+  - a nedělej oheň příliš blízko,
+  - ani nespěchej příliš zbrkle.
+  - Pal to od rána až do noci,
+  - hliněná nádoba je k tomu pravá schránka;
+  - tvar přístroje má být právě takový,
+  - chceš-li se z toho oleje radovat.
+- typ: nadpis
+  uroven: 3
+  de: Von schiessen auff dem Felde.
+  cs: O střelbě v poli
+- typ: odstavec
+  de: |-
+    SO mann vor einer Stat oder Schloß ligt / vnd wil schiessen / so hab acht so auß der geschossen wirdt / so mach mann zuuor an ein rauch mit Puluer / ehe er scheusset / vnd so auff jn geschoffen ist / so schieß mann darnach auch auff jn.
+  cs: |-
+    Leží-li vojsko před městem nebo hradem a chce střílet, dávej pozor, kdy se z něho střílí; nejprve se tam totiž před výstřelem udělá prachem kouř – a jakmile se z něho vystřelí, pak střílej také na něj.[^4]
+- typ: nadpis
+  uroven: 3
+  de: Ein fast starcken Schoß zuthun.
+  cs: Jak vypálit velmi prudkou ránu
+poznamky:
+- n: 1
+  text: |-
+    V záhlaví tisku je na tomto listu chybně vytištěno číslo listu *71* namísto správného *51*.
+- n: 2
+  text: |-
+    Nejasná formulace tisku (*das ist auff die Kugel*) znamená, že mokrý hadr se položí na dno/prachovou nálož pod kouli, jak hned upřesňuje následující věta (*auff einen hader*).
+- n: 3
+  text: |-
+    *Alembic* – destilační baňka s přilbou (křivule).
+- n: 4
+  text: |-
+    Taktika protibaterijní palby: střelec má sledovat ústí nepřátelského děla (záblesk či kouř ze zátravky před samotným výstřelem), zaměřit podle něj místo nepřátelské baterie a opětovat palbu.

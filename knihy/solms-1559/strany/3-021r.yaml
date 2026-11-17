@@ -1,0 +1,30 @@
+id: 3-021r
+list: '21'
+strana: recto
+sken: 293
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ein meelsack / dann gehn sie zu stücken / Darumb welcher ein Büchsenmeister wil sein / der lern sein Handtwerck das er bestehn kan.
+  cs: |-
+    pytel na mouku – pak se roztrhnou na kusy. Proto kdo chce být puškařem {Büchsenmeister}, nechť se naučí svému řemeslu tak, aby obstál.
+- typ: odstavec
+  de: |-
+    Noch eins brauchen die alten Gesellen / wann sie die Büchsen laden / stossen sie das puluer so hart mit dem ansetz kolben auffeinander als sie erstossen mögen / dann die kugel auch daruff / wanns dann des alten bösen puluers ist / stößt sichs offeinander wie man die Feurwerck macht / so man dann das anzünt ist es so hart gestossen / das kein lufft haben mag / so kan das feur nit hindurch / ligt hinden in der Büchsen zu sotern kan nit angehn / wanns aber gůt gekernt puluer ist / so bald es hinden angeht / wüsch das fewer durchauß biß an die kugel / das geht von stat / Darumb sol mann kein puluer so hart auff einander inladen / wann aber souil hinein kompt wie sich gebürt / soll mann häw oder graß nemen / daruff einschieben / das mag mann wol zusamen trucken / aber nit hart auff einander stossen / dann die kugel hernach biß sie am Puluer ansteht / dann schiessen die Büchsen von stat. Auch haben die Büchsenmeister einn gebrauch / wann die Büchs geladen ist / schieben sie auff die kugel einn grossen nassen wüsch häw oder graß / darüber wirt manche Büchs zersprengt / das der wüsch zu groß ist / vnd muß die Kugel mit gewalt darüber. Diß ist nun der bericht des gůtem vnd bösen Puluers / des geschickten vnd vngeschickten ladens / vnd verstandt der Büchsenmeister dardurch die Büchsen zersprengt werden / auch vbel schiessen / vnd kein Puluer vor dem andern erkennen / sonder allezeit nach zal der Ladschauffeln laden / wie kan mann dann wol schiessen bei den vngefehrlichen vnd vngleichen ladungen / Es gehören plechen Büchsen von kopffer gemacht darzů / deren eine ein / zwei oder vier pfundt puluers helt / damit mann das in die schauffel thůt als vil darin gehört / so wirt dann das puluer nit verschüt als wanns mann mit den händen in die Ladschauffel thůt / wie ich das hernach mit einem klerlichen bericht beschreiben wil.
+  cs: |-
+    Ještě jeden zvyk mívají staří tovaryši: když nabíjejí děla {Büchsen}, utloukají střelný prach {puluer} nabijákem {ansetz kolben}[^1] na sebe tak pevně, jak jen dokážou, a pak na něj nasadí i kouli {kugel}. Je-li to ovšem ten starý špatný prach, stlačí se k sobě tak, jako když se dělají ohňostroje {Feurwerck}; a když se potom zapálí, je tak tvrdě udusaný, že nemůže mít žádný vzduch, oheň jím nemůže projít, prach leží vzadu v děle, jen doutná[^2] a nemůže chytit. Je-li to však dobrý zrněný prach, jakmile vzadu chytne, prošlehne oheň naráz skrz až ke kouli a výstřel jde hbitě z místa. Proto se žádný prach nemá nabíjet tak pevně na sebe, nýbrž když se ho nasype dovnitř, kolik se sluší, má se vzít seno nebo tráva, zasunout na něj a trochu stlačit k sobě – nikoli však tvrdě ubíjet –, a pak teprve dát kouli, až doléhá na prach; potom děla střílejí pohotově. Také mají puškaři zvyk, že když je dělo nabité, strčí na kouli velký mokrý chuchvalec sena nebo trávy; kvůli tomu se nejedno dělo roztrhne, protože chuchvalec je příliš velký a koule přes něj musí prorazit násilím. To je tedy výklad o dobrém a špatném prachu, o obratném i neobratném nabíjení a o schopnosti puškařů, jejíž vinou se děla trhají i špatně střílejí, když nerozeznávají jeden prach od druhého a nabíjejí vždy jen podle počtu nabíjecích lopatek {Ladschauffeln} – jak pak lze dobře střílet při takových nahodilých a nerovných dávkách? K tomu náležejí plechové nádoby {plechen Büchsen} z mědi, z nichž každá pojme jednu, dvě nebo čtyři libry {pfundt} prachu, aby se jimi dalo na lopatku právě tolik, kolik do ní patří; tak se pak prach nerozsype, jako když se na nabíjecí lopatku sype rukama, jak to níže jasným výkladem popíšu.
+- typ: odstavec
+  de: |-
+    Diß sind die 24. Artickel / darauff ein Büchsenmeister zu fragen ist / vnd alles stück die zum Geschütz vnd Krieg gehörn / wo ein Büchsenmeister der mehr kan so er höher zuhalten ist / aber dise vermelte stuck soll ein Fürst alle haben / damit er sein Zeugmeister vnd Büchsenmeister wisse zu examiniern vnd an zurichten / auch was er an einem jeden hab / waruff er sich zuuerlassen wisse / der Herr soll sich fleissen daß er solches dings vnd berichts krig vnd bekome / vnd was er des bekompt / soll er / was gůt ist / hoch vnd gůt halten wie einn schatz dann alle tag sůcht vnnd findt mann weiter / Darumb soll ein Herr seine leut auch also brauchen vnnd vben so werden sie damit gůt vnd geschickt.
+  cs: |-
+    Toto jsou těch dvacet čtyři článků, na něž se má puškař vyptávat, a všechno jsou to věci náležející k dělům {Geschütz} a válce; umí-li jich puškař ještě více, tím výše si ho třeba vážit. Všechny tyto uvedené poznatky však má mít kníže k dispozici, aby věděl, jak svého zbrojmistra {Zeugmeister} a puškaře zkoušet a vést, a také co v každém z nich má a na co se může spolehnout. Pán se má snažit, aby takové věci a výklady získal a opatřil si je, a cokoli z toho získá, co je dobré, má si toho vysoko a dobře vážit jako pokladu, neboť každý den se hledá a nachází stále dále; proto má pán své lidi také takto zaměstnávat a cvičit, a tak se tím stanou dobrými a obratnými.
+poznamky:
+- n: 1
+  text: |-
+    *Ansetzkolben* – dřevěný nabiják (tyč s hlavicí) k zasouvání a utlačování prachu i koule v hlavni děla.
+- n: 2
+  text: |-
+    V originále *zu sotern* (*sottern* = doutnat, syčet, prskat) a dále *gůtem* místo *gůten* a *alles stück* místo *alle stück*. V BSB OCR bylo číslo listu *21* v záhlaví chybně přečteno jako *28*.

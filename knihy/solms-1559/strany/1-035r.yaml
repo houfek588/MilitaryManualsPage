@@ -1,0 +1,58 @@
+id: 1-035r
+list: '35'
+strana: recto
+sken: 79
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Son.
+  cs: Syn.
+- typ: odstavec
+  de: |-
+    LIeber alter Vatter vnd freund / jr habt euch allwegen gegen mir freundtlich erzeiget / dieweil ich am Hoff gewesen bin / mich allezeit gestrafft / gůtlich vnderwisen vnnd vndersagt / wann ich mich nicht recht gehalten hab / vnd euch also gegen mir erzeigt / daß ichs nicht anders hab verstehn künden / dann daß jr es gegen mir freundtlich vnd trewlich gemeint habt / vnnd kan ich dasselbig wider vmb euch verdienen / so will ich das mit gantzem willen vnd gůtem hertzen thůn.
+  cs: |-
+    Milý starý otče a příteli, po celý čas, co jsem byl u dvora, prokazoval jste se ke mně přívětivě, vždy jste mne napomínal, dobrotivě poučoval a domlouval mi, když jsem se nechoval správně, a tak jste se ke mně choval, že jsem to nemohl chápat jinak, než že jste to se mnou myslel přátelsky a věrně; a mohu-li si to u vás opět zasloužit, chci tak učinit celou svou vůlí a z dobrého srdce.
+- typ: nadpis
+  uroven: 3
+  de: Alter Vatter.
+  cs: Starý otec.
+- typ: odstavec
+  de: |-
+    Lieber Son es ist war wie du sagt / daß ich dich allezeit / wann ich etwas gesehen hab / das dir nicht wol angestanden hat / vnnd dir zu nachteil hett künden reichen / vndersagt / vnd dich anders geweist vnd vnderricht / das hab ich warlich auß gůtem hertzen gethan / dann ich hab allwegen ein gůt gemüt zu dir gehabt vnnd noch / so seind deine Freund mir also bekant / daß ich mich allezeit vnd noch gůts zu jnen versehe / derhalben ich das gern gethan hab / in ansehen / daß du von ehrlicher gůter freundtschafft bist / so hab ich jetzund fast gern gehört / daß du solches erkennest / daß ich solliches gegen dir trewlich vnd gůt gemeint hab / vnd du dasselbig gegen mir danckbar bist.
+  cs: |-
+    Milý synu, je pravda, jak říkáš,[^1] že jsem ti vždy, kdykoli jsem viděl něco, co se k tobě dobře nehodilo a mohlo ti být ke škodě, domlouval a jinak tě vedl a poučoval – to jsem vpravdě činil z dobrého srdce, neboť jsem k tobě vždy choval dobrou náklonnost a chovám ji dosud; také tví příbuzní jsou mi tak dobře známi, že se od nich vždy a dosud naději jen dobrého, a proto jsem to rád činil s ohledem na to, že pocházíš ze ctihodného a dobrého rodu.[^2] Velmi rád jsem proto nyní slyšel, že poznáváš, že jsem to s tebou myslel věrně a dobře a že jsi mi za to vděčný.
+- typ: nadpis
+  uroven: 3
+  de: Son.
+  cs: Syn.
+- typ: odstavec
+  de: |-
+    Ja lieber alter Vatter ich bedanck michs billich / dann ich hab sitter der zeit wol daran gedacht / vnd verstanden daß jres trewlich mit mir gemeint habt / es ist mir leit daß ich es zu der zeit nicht verstanden hab / vnd euch mehr gefolgt hett.
+  cs: |-
+    Ano, milý starý otče, právem vám za to děkuji, neboť jsem na to od té doby často myslel a pochopil jsem, že jste to se mnou myslel věrně; je mi líto, že jsem tomu v té době nerozuměl a více vás neposlouchal.
+- typ: nadpis
+  uroven: 3
+  de: Alter Vatter.
+  cs: Starý otec.
+- typ: odstavec
+  de: |-
+    Ja lieber Son es ist noch nichts verseumpt / vnnd ist wol daß ein junger gesell volgt / dann die jugent versteht es nit / sonder leßt jnen die freiheit gefallen / vnd fert etwan nicht wol darmit daruon / dann muß mann denselbigen wehrn vnd einreden.
+  cs: |-
+    Však, milý synu, není ještě nic zameškáno a je dobře, když mladík poslechne; neboť mládí tomu nerozumí, nýbrž líbí se mu volnost, a občas s ní nedopadne dobře – tehdy je třeba takovým lidem bránit a domlouvat.
+- typ: nadpis
+  uroven: 3
+  de: Son.
+  cs: Syn.
+- typ: odstavec
+  de: |-
+    Ja lieber alter Vatter es ist die jugent dessen nit verstendig gnůg / darumb muß dieselbig vnderricht werden / vnd leiden daß mann sie vnderweißt / Vnd dieweil ich dann in meiner jugent befunden / daß jr solches darinn bewisen vnd anmuttung gethan habt / so werd ich verursacht euch weitter mein vorhaben anzuzeigen / vnnd ewren Rath darinn bitten / als zu dem da ich zu forderen vnnd gůt vnderweisung
+  cs: |-
+    Ano, milý starý otče, mládí k tomu nemá dosti rozumu, proto musí být poučováno a snášet, že je druzí učí. A poněvadž jsem ve svém mládí poznal, že jste mi to prokazoval a měl o mne péči, jsem tím pohnut, abych vám dále vyložil svůj záměr a poprosil vás v něm o radu – jakožto toho, od něhož jsem především hledal a nacházel dobré poučení
+poznamky:
+- n: 1
+  text: Tisková či jazyková odchylka předlohy *sagt* místo *sagst*.
+- n: 2
+  text: |-
+    Dobový výraz *Freund* / *Freundschaft* zde označuje příbuzné a pokrevní rod.

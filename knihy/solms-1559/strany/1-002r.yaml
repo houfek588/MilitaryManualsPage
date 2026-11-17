@@ -1,0 +1,24 @@
+id: 1-002r
+list: '2'
+strana: recto
+sken: 13
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Dem Durchleuchtigsten/ Großmechtigsten Fürsten vnnd Herren/ Herren Philipsen König zu Engellandt/ Franckreich/ Neapolis/ Hierusalem etc. Printzen in Hispanien/ Ertzhertzog zu Ostereich/ Hertzogen zu Meilandt/ zu Burgundi/ zu Lützenburg vnd Geldern/ etc. Grauen zu Flandern/ etc. Pfaltzgrauen zu Hennigaw/ zu Holandt/ zu Seelandt/ etc. Herr zu Frießlandt vnd zu Mechel etc.
+    Meinem gnedigsten Herren.
+  cs: |-
+    Nejjasnějšímu, nejmocnějšímu knížeti a pánu, panu Filipovi, králi Anglie, Francie, Neapole, Jeruzaléma atd., princi španělskému, arcivévodovi rakouskému, vévodovi milánskému, burgundskému, lucemburskému a gelderskému atd., hraběti flanderskému atd., falckraběti henegavskému, holandskému, zélandskému atd., pánu frískému a mechelenskému atd.,[^1]
+    mému nejmilostivějšímu pánu.
+- typ: odstavec
+  de: |-
+    DVrchleuchtigster Großmechtigster König/ E. Kön. Maies. seind mein vnderthenigst/ schuldig vnd geflissen dienst allezeit zuuor/ Allergnedigster Herr/ Nach dem E. Kön. Maiest. als ein hoher vnd fürnembster Potentat der Christenheit/ von Gott dem Allmechtigen mit sehr vilen Königreichen/ Fürstenthumben/ Landt vnd Leuten/ für andern miltiglich begabet/ derwegen auch der vilen anstossenden Herrschafften/ Völcker vnnd Nachbarn halben/ sonder Krieg schwerlich (auch wider jren willen) sein können/ wie sich dann diser zeit solches albereit in Ew. König. Maiestat jugent/ vnd angehender Regierung im werck vilfeltig/ vnd zum hefftigsten vnnd höchsten erzeiget/ wie meniglich offenbar vnnd wissend ist/ so hab ich nicht vnderlassen sollen noch können/ auß schuldiger pflicht vnd trew Ewer König. Maiestat/ auch allen Osterreichischen (meinen gnedigsten) Herrn/ gegenwertige meine Bücher von beschreibung der Kriegshändel/ vnd was darzu gehörig/ zu dedicieren vnd zu zuschreiben/ sonderlich auch darumb/ dieweil ich den mehrertheil aller meiner (wie gering gleich die ist) erfarung/ dem Osterreichischen Stam/ Blůt vnd namen/ von welchem ich meine tag vil/ vnd in ansehenlichen beuelchen/ gebraucht worden/ vnderthenigst zu zuschreiben vnd zu dancken hab. Vnd wiewol Ewer König. Maiestat für sich selbst mit gar hohem Königlichem verstandt/ von Gott reichlichen begabet vnd gezieret/ auch daneben mit fürtrefflichen hocherfarnen Kriegsräthen für vnd für zum besten versehen seind/ So verhoff ich doch gentzlich/ es werden Ewer König. Maiest. dise meine Bücher nit vnnütz sein/ dieweil on zweiffel ist/ daß der verstandt der kriegßhändel/ neben der erfarung/ sonderlich auch auß den Büchern mag geschepfft werden. Wie wir dann dessen ein gar mercklich vnnd scheinbarlich Exempel haben an dem Römischen
+  cs: |-
+    Nejjasnější, nejmocnější králi, Vašemu královskému Veličenstvu vzkazuji vždy nejprve svou nejpokornější, povinnou a horlivou službu. Nejmilostivější pane, jelikož je Vaše královské Veličenstvo jakožto vysoký a nejpřednější mocnář křesťanstva od všemohoucího Boha štědřeji než jiní obdařeno přečetnými královstvími, knížectvími, zeměmi a lidmi, a pro mnohá sousedící panství, národy a sousedy může být jen stěží bez války (třeba i proti své vůli) – jak se to ostatně již nyní v mládí Vašeho královského Veličenstva a na počátku jeho vlády skutkem mnohonásobně a nanejvýš prudce projevuje, jak je každému zjevno a známo –, nemohl a neměl jsem opomenout z povinného závazku a věrnosti věnovat a připsat Vašemu královskému Veličenstvu, jakož i všem rakouským pánům (mým nejmilostivějším), tyto své knihy o popisu válečných věcí a toho, co k nim náleží. A to zvláště proto, že největší díl veškeré své zkušenosti (jakkoli je nepatrná) mám nejpokorněji připsat a děkovat za ni rakouskému rodu, krvi a jménu, jimiž jsem byl po své dny hojně a ve vážených velitelských pověřeních užíván. A třebaže je Vaše královské Veličenstvo samo od Boha bohatě obdařeno a ozdobeno velice vysokým královským rozumem a vedle toho je stále co nejlépe opatřeno znamenitými, vysoce zkušenými válečnými rady {Kriegsräthen}, přece pevně doufám, že Vašemu královskému Veličenstvu nebudou tyto mé knihy neužitečné, neboť není pochyb, že porozumění válečným věcem lze vedle zkušenosti čerpat zvláště také z knih. Jakž toho máme velmi pozoruhodný a zřejmý příklad na římském
+poznamky:
+- n: 1
+  text: |-
+    Filip II. Španělský (1527–1598), syn císaře Karla V. Zde uvedená titulatura („král Anglie, Francie, Neapole, Jeruzaléma… princ španělský“) odráží období jeho sňatku s anglickou královnou Marií I. Tudorovnou (1554–1558), kdy užíval titul anglického krále (a s ním tradiční nárok na Francii); další země představují dědičné habsbursko-burgundské a nizozemské državy (Milánsko, Burgundsko, Lucembursko, Geldern, Flandry, Henegavsko, Holandsko, Zéland, Frísko a Mechelen).

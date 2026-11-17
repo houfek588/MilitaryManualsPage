@@ -1,0 +1,52 @@
+id: 3-048v
+list: '48'
+strana: verso
+sken: 348
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    demselben Lolen ligen als löchlein / das sie desto minder jrren / vnd wenn man scheust so strecken sich die pörsten / vnd gibt dem pfeil gefiders also gnug / du solt die pörsten auch mit leim vnd zweck vermachen / das ist not.
+  cs: |-
+    těchže žlábcích[^1] jako v jamkách, aby tím méně překážely; a když se vystřelí, štětiny se narovnají a dají šípu dostatečné opeření. Štětiny máš také upevnit klihem a kolíčky, to je nutné.
+- typ: nadpis
+  uroven: 3
+  de: Wiltu vil haußpfeil aus einer Büchsen schiessen.
+  cs: Chceš-li vystřelit mnoho šípů {haußpfeil}[^2] z jednoho děla {Büchsen}
+- typ: odstavec
+  de: |-
+    SO lad die Büchs mit Puluer / als sonst mit jrem Klotz / vnd thů keinen stein fur das klotz / sonder laß drehen ein höltzene Kugel / die wol gedrehet vnd gerecht sei / derselben Büchsen Formen förmlich / vnd klieb die Kugel mitten von einander / so hastu jr zu zweien schössen gnůg / nim denn der scherben ein / das ist die halb Kugel / vnd laß machen ein starck gůt Eyseren Creutz / beschlag die scheiben darmit / vnd senck es mit dem brandt hinein / das vmb vnd baß anligt vor der Büchsen maß / vnd setz das die haußpfeil gar wol anstehen zwischen dem stein vnd der Büchsen nach geraum die pfeil sollen nicht lenger sein denn die eiseren Form / nun schieß.
+  cs: |-
+    Nabij tedy dělo prachem {Puluer}, jako jindy i se zátkou {Klotz}, a nedávej před zátku žádný kámen {stein}, nýbrž nech vysoustružit dřevěnou kouli {Kugel}, která je dobře vysoustružená a přesná podle ráže a formy téhož děla, a rozštípni kouli uprostřed napůl – tak ji máš na dvě rány. Vezmi pak jeden z těch dílů, tedy půlkouli, nech vykovat dobrý pevný železný kříž, pobij jím tu desku a zasuň ji okrajem[^3] dovnitř, aby kolem dokola pevně přiléhala podle míry děla; šípy pak usaď tak, aby dobře stály mezi kamenem a stěnou děla podle prostoru, přičemž šípy nemají být delší než železná forma[^4] – a nyní vystřel.
+- typ: nadpis
+  uroven: 3
+  de: Wiltu aus einer büchsen schiessen schifferling die mann abschneidt von einem vierecketen stabeisen das groß ist als ein daum / vnd vierecket als ein würffel.
+  cs: Chceš-li střílet z děla sekané železo, které se odsekává ze čtyřhranného tyčového železa silného jako palec a čtyřhranného jako kostka
+- typ: odstavec
+  de: |-
+    SO lad die Büchs vnnd thů aber ein scheiben für das klotz mit einem Eiseren Creutz / als vor gelert ist / vnd merck das die scheiben an dem klotz wol anlige / wer aber die scheib verdrehet / das sie ein wenig zu klein wer / vnd wenig anlege / so verstopff sie mit hadern / leg die schirfferling zeillig hinein / wol in einander / also das sie wol zueinander ligen / vnd so mann die Büchs anzünden wil / das nun gleich vnd zeillig ligt als ob die Eiseren stebe noch gantz wern / mach ein höltzene scheiben vorn an die Büchs für die schirfferling / das sie nit zu ruck oder von einander fallen würden / die scheib soll zweier finger dick sein / Hie merck recht / ist die Büchs starck so lad sie mit den schifferling vberhalb / ist sie nit starck so lad sie nur halb / vnd also wisse dich zu regiren.
+  cs: |-
+    Nabij tedy dělo a dej před zátku opět desku se železným křížem, jak bylo vyloženo výše, a dbej na to, aby deska k zátce dobře přiléhala; kdyby však deska byla příliš osoustružena, takže by byla poněkud malá a málo přiléhala, utěsni ji hadry. Naskládej sekané železo po řadách dovnitř, těsně do sebe, aby leželo pěkně pohromadě a – až se bude dělo zapalovat – leželo stejně a v řadách, jako by ty železné pruty byly ještě vcelku. Zhotov dřevěnou desku dopředu na dělo před sekané železo, aby se nesesypalo zpět ani nerozutíkalo od sebe; ta deska má být silná na dva prsty. Zde dobře dbej: je-li dělo silné, nabij je sekaným železem přes polovinu; není-li silné, nabij je jen do poloviny, a tak se uměj řídit.
+- typ: odstavec
+  de: |-
+    LAd die Büchs als sie sein soll / mach ein gescherpffte scheiben / das ist ein halb Kugel mit einem starcken eiseren Creutz vorn für den
+  cs: |-
+    Nabij dělo, jak má být, a udělej okovanou[^5] desku – to jest půlkouli se silným železným křížem – dopředu před
+poznamky:
+- n: 1
+  text: |-
+    V tisku stojí zkomolené *Lolen* místo *holen* („dutinách, žlábcích“).
+- n: 2
+  text: |-
+    *Haußpfeil* – těžké střely či šipky vystřelované hromadně z děl na střechy a stavení (obdoba kartáčové střelby šipkami).
+- n: 3
+  text: |-
+    Tisk uvádí *mit dem brandt hinein* – zřejmě záměna za *mit dem randt* („okrajem“ či oblou stranou napřed).
+- n: 4
+  text: |-
+    Výraz *die eiseren Form* je nejasný – snad označuje délku kovového hrotu, případně chybný přepis za *die eiseren Ror* („hlaveň děla“, aby šípy z hlavně nevyčnívaly, jak se uvádí i na l. 49r).
+- n: 5
+  text: |-
+    *gescherpffte scheiben* – zřejmě obměna či tiskový omyl za *geschürffte* / *gestärckte* („vyhloubenou“ nebo „zesílenou/okovanou“ desku), jak potvrzuje vysvětlivka *das ist ein halb Kugel mit einem starcken eiseren Creutz*.

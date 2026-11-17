@@ -1,0 +1,64 @@
+id: 3-042v
+list: '42'
+strana: verso
+sken: 336
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - darin zu maß/
+  - mit faden soll es vor vmbgeben sein/
+  - daß die Bal werd hert/ vnd eben fein/
+  - thů öl vnd Oppriment darein/
+  - so mag niemants dabei gesein.
+  cs:
+  - v tom podle míry;
+  - nití má být předem ovinut,
+  - aby koule ztvrdla a byla pěkně hladká;
+  - dej do ní olej a operment (*Oppriment*),[^1]
+  - pak tam nikdo nemůže obstát.
+- typ: nadpis
+  uroven: 3
+  de: Also mach ein verborgen feur.
+  cs: Takto udělej skrytý oheň.
+- typ: odstavec
+  de: |-
+    NIm wasser vnd lebenden Kalch/ vnnd Weinstein/ öl von Steinsaltz vnd thů das in gůt Puluer/ vnd lad ein Büchsen damit/ wann es trucknet so brent es.
+  cs: |-
+    Vezmi vodu a živé vápno a vinný kámen, olej z kamenné soli, vlož to do dobrého střelného prachu {Puluer} a nabij tím dělo {Büchsen} – jakmile to vyschne, hoří to.
+- typ: nadpis
+  uroven: 3
+  de: Feur zulegen das von wasser angeht vnd brennet.
+  cs: Jak položit oheň, který se vznítí od vody a hoří.
+- typ: odstavec
+  de: |-
+    ITem mann neme frischen vngeleschten Kalchstein/ vnd das best Puluer das mann gehaben mag/ mit gebrantem Wein inn einem Mörserstein gestossen/ vnd nicht zu naß/ darnach leg außwendig zweier finger breit pleiß/ vnnd das ander mit Pappir vmbschlagen/ dann ein Schwefel vbers alle gezogen/ Vnd man werff die Kugel wo er hin will/ wann dann diser Kalch ein netze begreifft/ so wirt er heiß/ vnd entpfecht das Puluer die hitz/ vnd wirt ernstlich brennen/ vnd on feuchtigkeit mag es nit geschehen.
+  cs: |-
+    Dále: vezmi čerstvý nehašený vápenec a nejlepší střelný prach, jaký se dá sehnat, utluč to s pálenkou v kamenném hmoždíři, ne však příliš do mokra; potom zvenčí oblož vrstvou olova širokou na dva prsty a zbytek obal papírem, načež přes to všechno natáhni síru. A koule {Kugel} ať se vrhne, kamkoli kdo chce: jakmile tento vápenec přijme vlhkost, rozpálí se, prach od něj chytne žár a prudce vzplane, a bez vlhkosti se to stát nemůže.
+- typ: nadpis
+  uroven: 3
+  de: Feur zu legen das vber etlich tag brennt/ wann mann will.
+  cs: Jak položit oheň, který hoří za několik dní, kdykoli chceš.
+- typ: odstavec
+  de: |-
+    ITem mann neme 2. teil Ircomedis/ 1. theil hartz/ 1. Wachs/ vnd 1. vierling weyß dennen Bech/ zerlaß das durch einander/ barchen kuglein/ genehtes dacht dardurch gezogen/ angezindt/ wider außgeleschen/ also das es allein ghet vnd schmeltz/ vnnd hab mann achtung wieuil daß diß ein stundt gliet/ darnach zeichen mann dieselbig leng/ nach solchem zeichen kan mann sich richten/ wieuil stundt einer wil daß das Feur verharen soll anzugehn/ so leg mann ein Schwefel kertzen zu letst an denselbigen kuchen der letsten stundt/ mann soll den dacht vmb ein dicken stecken bewinden/ daß er an der seiten nicht anrür/ vnd sich nach einander abschmeltz/ Mann such am andern end hierinn beschriben/ wie mann jm den Rauch benemen mög/ damit es die Leut nit bald innen werden.
+  cs: |-
+    Dále: vezmi 2 díly směsi (*Ircomedis*),[^2] 1 díl pryskyřice, 1 [díl] vosku a 1 čtvrtku {vierling} bílé jedlové smůly, rozpusť to dohromady, připrav barchetové kuličky a protáhni jimi sešitý knot; zapal jej a zase uhas, tak aby jen doutnal a tavil se, a dej pozor, jak velký kus za jednu hodinu odhoří, a podle toho tu délku označ. Podle takové značky se dá řídit, kolik hodin chce kdo čekat, než se oheň vznítí; na konec k téže hmotě poslední hodiny přilož sirnou svíčku. Knot se má ovinout kolem silné tyčky, aby se ze strany nedotýkal a postupně odtával. Na jiném místě zde v knize si vyhledej, jak mu odejmout kouř, aby si toho lidé brzy nevšimli.
+- typ: nadpis
+  uroven: 3
+  de: Feur einn tag zutragen on grosse arbeit.
+  cs: Jak nosit oheň celý den bez velké námahy.
+- typ: odstavec
+  de: |-
+    ITem mann neme der grossen Pumbsen/ wie sie in den grossen Weiern stehn/ vnd seude sie in gůtem starckem Wein/ wie ein
+  cs: |-
+    Dále: vezmi velkou sítinu, jaká roste ve velkých rybnících, a povař ji v dobrém silném víně, jako se
+poznamky:
+- n: 1
+  text: |-
+    *Oppriment* – dobový název pro operment či auripigment (*auripigmentum*, žlutý sirník arsenitý).
+- n: 2
+  text: |-
+    *Ircomedis* – zkomolený název přísady ze staršího ohňostrojného receptáře (patrně z *terebinthina*, *auripigmentum* či *gummi*).

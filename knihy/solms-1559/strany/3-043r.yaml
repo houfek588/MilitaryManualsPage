@@ -1,0 +1,63 @@
+id: 3-043r
+list: '43'
+strana: recto
+sken: 337
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Salpeter gesoden/ darnach nem er sie herausser/ vnd trücken sie wol an der Sonnen oder bei dem Ofen/ vnd zeug darnach jre haudt oder rinden subtil ab vnd halt den pimbsenkern an einen glüenden koln/ daß er feur entpfahe/ so tregt mann jn einer span lang schier ein gantzen tag auch feur/ so er dann ein liecht haben wil/ so helt er ein schwefelkertzen daran so brennt sie.
+  cs: |-
+    vaří ledek {Salpeter}; potom ji vyjmi, dobře ji usuš na slunci nebo u pece, pak jemně sloupni její slupku či kůru a přilož dřeň sítiny ke žhavému uhlíku, aby chytla oheň. Takto nese člověk v délce jedné pídi oheň téměř po celý den; a když chce mít světlo, přiloží k ní sirnou svíčku a ta hoří.
+- typ: nadpis
+  uroven: 3
+  de: Ein feur zumachen das mann on schaden bei jm tregt.
+  cs: Jak udělat oheň, jejž člověk nosí při sobě bez újmy.
+- typ: odstavec
+  de: |-
+    ITem mann neme Gaffer vnd lebendigen Schwefel gleiche vil/ leg in gebranten wein vnd laß darein ligen biß der wein darinn gehet/ vnd zindtes als dann an vnd thůs in einen badschwamb/ darinn tregt mann es on schaden.
+  cs: |-
+    Dále: vezmi stejné množství kafru (*Gaffer*) a živé síry, vlož do pálenky a nech v ní ležet, až se víno vsákne; potom to zapal a vlož do mycí houby – v ní to lze nosit bez újmy.
+- typ: nadpis
+  uroven: 3
+  de: Ein verborgen feur zumachen das sich von regen anzindt.
+  cs: Jak udělat skrytý oheň, který se vznítí od deště.
+- typ: odstavec
+  de: |-
+    ITem mann neme Balsam 1. pfundt/ Gloriet 1. pfundt 10. pfundt lebendigen Kalch/ vnd 5. pfundt eier vnd reibe den Kalch/ das ein Conuortet darauß werde/ vnd bestreich dann damit was er wil/ die Materien entzindt sich von dem Regen oder netz so es darauff kompt.
+  cs: |-
+    Dále: vezmi 1 libru {pfundt} balzámu, 1 libru benátského terpentýnu {Gloriet}, 10 liber živého vápna a 5 liber vajec a rozetři vápno tak, aby z toho vznikla směs (*Conuortet*);[^1] pak tím potři, co chceš – tato hmota se vznítí od deště či vlhkosti, jakmile na ni přijde.
+- typ: nadpis
+  uroven: 3
+  de: Ein anders.
+  cs: Jiné.
+- typ: odstavec
+  de: |-
+    ITem mann neme lebendigen vnd geleschsten kalch/ ein wenig gummen Arabicum/ schwefel vnd Leinölen/ das alles in einander zu einer Materien/ vnd bestreich damit oder mach darauß was du wilt/ vnd spreng wasser darauff entzindt sich.
+  cs: |-
+    Dále: vezmi živé a hašené vápno,[^2] trochu arabské klovatiny (*gummen Arabicum*), síry a lněného oleje, zpracuj to všechno dohromady v jednu hmotu, potři tím nebo z toho udělej, co chceš, a postříkej to vodou – vznítí se to.
+- typ: nadpis
+  uroven: 3
+  de: Ein freude feur zumachen.
+  cs: Jak udělat kratochvilný oheň.[^3]
+- typ: odstavec
+  de: |-
+    ITem mann neme ein teil Colofonie oder Kirschen hartz/ vnnd zwei teil lebendigen Schwefel/ vnd ein teil Salpeter/ daß reib vor alles klein/ vnnd werff jn in Leinöle/ das es gar in geht/ vnd alles ein Confurt/ vnd thů das in ein eisseren Rör/ die da lang sei vnd zindt es an/ vnd bloß inn das Ror/ so fert es an ein eisern drat/ oder sonst wo mann es hinplest vnd scheust.
+  cs: |-
+    Dále: vezmi jeden díl kalafuny {Colofonie} neboli třešňové pryskyřice, dva díly živé síry a jeden díl ledku; to vše nejprve najemno rozetři, vlož do lněného oleje, aby se to do něj úplně vsáklo a celé bylo jako pasta (*Confurt*). Dej to do železné trubice, která má být dlouhá, zapal to a foukni do trubice – vyletí to po železném drátu nebo jinam, kamkoli se to foukne a vystřelí.
+- typ: nadpis
+  uroven: 3
+  de: Stanckfeur zumachen/ auch zu obgemeltem künstlich.
+  cs: Jak udělat smrdutý oheň, vhodný důmyslně i k výše uvedenému.
+poznamky:
+- n: 1
+  text: |-
+    *Conuortet* (níže *Confurt*, *Confortet*, *Conforstetet*) – zkomolený přepis výrazu *Confect* či *confortatum* („uhnětená pasta, směs“).
+- n: 2
+  text: |-
+    V tisku stojí *lebendigen vnd geleschsten kalch* („živé [nehašené] a hašené vápno“).
+- n: 3
+  text: |-
+    *Freudefeuer* (doslova „radostný oheň“) označuje kratochvilný či slavnostní ohňostroj, zde běhoun po drátě.

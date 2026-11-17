@@ -1,0 +1,51 @@
+id: 1-005v
+list: '5'
+strana: verso
+sken: 20
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gůt bei einer Nation als bei den Teutschen/ als schützen die mann von alters gar gůt gehabt hat mit den Armbrosten oder Bogen zu Pferdt/ vnd die nun mehr seind in Rüstung der Büchsen/ das für war ernstlich ist/ komen/ welches mann noch zur zeit nit wirt bei einer andern Nation finden/ so schwer vnd gewaltig Rüstung als bei den Teutschen Landen.
+  cs: |-
+    dobrá u žádného jiného národa jako u Němců – například o střelcích {schützen}, které měli odedávna velice dobré s kušemi či luky na koni a kteří nyní přešli k výzbroji z pušek {Büchsen}, jež je vskutku pádná; jakoužto tak těžkou a mocnou výzbroj {Rüstung} nikdo u jiného národa zatím nenajde než v německých zemích.
+- typ: odstavec
+  de: |-
+    Deßgleichen die geringe Rüstung der schützen wirt mann auch nit bald finden/ bei einer Nation souil gewaltigs vnnd ernstlichs/ als bei den Teutschen/ das ist souil als die Teutsche Rüstung/ des Reisigen zeugs belangt.
+  cs: |-
+    Stejně tak lehkou výzbroj střelců nikde jinde u žádného národa nenajdeš v tak mocné a pádné míře jako u Němců – tolik tedy, pokud jde o německou výzbroj jízdy {Reisigen zeugs}.
+- typ: nadpis
+  uroven: 3
+  de: Souil das fuß volck betrifft.
+  cs: Pokud jde o pěchotu {fuß volck}.
+- typ: odstavec
+  de: |-
+    SO befinde ich noch nit das einige Nation sei/ die mehr gebraucht Kriegsuolck zu fuß mag auffbringen mit gůter Rüstung/ vnd one gezwungen vnnd getrungen einiges auffbietens/ denn das Teutsch Landt vermag/ dann zu sehn ists/ wie ander Landt dz Teutsch Kriegsuolck auffnemen/ vnd auß dem Teutschlandt in ander Landt zu kriegen füren/ vnd ist doch Teutschlandt noch allezeit nichts entblöst von Kriegßuolck vnd rüstung.
+  cs: |-
+    Zato však neshledávám, že by byl některý národ, jenž by dokázal postavit více zkušeného válečného lidu {Kriegsuolck} pěšky s dobrou výzbrojí, a to bez nuceného a vymáhaného svolávání, než kolik zmůže Německo; je přece vidět, jak jiné země najímají německý válečný lid a odvádějí jej z Německa do cizích zemí k válčení, a přesto není Německo nikdy vyčerpáno o válečný lid a výzbroj.
+- typ: odstavec
+  de: |-
+    So fürt mann alle Kriegßrüstung auß dem Teutschlandt in andere Landt/ Daß also das Kriegßuolck mit sampt der Kriegßrüstung/ in Teutschlandt am meisten vnd besten ist.
+  cs: |-
+    Také se veškerá válečná výzbroj vyváží z Německa do jiných zemí, takže válečný lid spolu s válečnou výzbrojí je v Německu nejhojnější a nejlepší.
+- typ: odstavec
+  de: |-
+    DIe Kriegßleut oder Volck zu fuß/ haben vnder jnen auch die beste Justitien vnd Kriegßordnung als kein Nation/ dann sie haben ein stettige/ ordenliche Justitien/ Kriegßordnung vnd Artickels brieffe/ darbei sie/ was sie von alters von den Keisern biß zu diser zeit/ gebraucht vnd gehalten haben/ welche Justitien jnen von den Keisern/ nach laut der alten Römischen ordnung/ geben vnd Confirmiret worden/ Ist zu fragen/ welche ander Nation solche Justitien haben noch regiment halten? Das haben wir ein lange zeit gnůgsam gesehen/ wann wir von allen Nationen Kriegßuolck im Feld haben gehabt/ ist on not weitter daruon zu melden/ dann es ist am tag/ vnd gůtem wissen der erfarung.
+  cs: |-
+    Válečníci {Kriegßleut} čili pěší lid mají mezi sebou také nejlepší spravedlnost {Justitien} a válečný řád ze všech národů, neboť mají stálou, řádnou spravedlnost, válečný řád a artikulní listy {Artickels brieffe}, jichž se přidržují podle toho, co odedávna od císařů až do této doby užívali a zachovávali – tato práva jim byla od císařů dána a potvrzena podle znění starého římského řádu. Lze se ptát, který jiný národ má takovou spravedlnost či zachovává takovou kázeň {regiment}? To jsme dostatečně vídali po dlouhou dobu, když jsme měli v poli válečný lid ze všech národů; netřeba o tom více mluvit, neboť je to zjevné a ze zkušenosti dobře známé.
+- typ: odstavec
+  de: |-
+    Das ich wider kom auff des Teutschlandts gůte rüstung vnnd kriegßuolck/ So halt ich das auß dem Teutschlandt solten zufüren sein 20000. Pferde gerüst/ mit leichter vnd schwerer rüstung gůt.
+  cs: |-
+    Abych se vrátil k dobré německé výzbroji a válečnému lidu: soudím, že z Německa by se mělo dát vyvést 20 000 koní[^1] dobře vyzbrojených lehkou i těžkou výzbrojí.
+- typ: odstavec
+  de: |-
+    Item 100000. mann zu fuß/ alles gůt vnd wolgerüst/ vnd souil Geschütz/ mehr dann mann zwei oder drei mal darzů bedürfftig sein wirt/ vnd das Reich vnd Teutschlandt/ solt dannoch mit kriegsuolck vnd
+  cs: |-
+    Dále 100 000 pěších mužů, vše dobrých a dobře vyzbrojených, a tolik děl {Geschütz}, více než kolik jich bude třeba dvakrát nebo třikrát; a Říše a Německo by přesto nebyly vyčerpány o válečný lid a
+poznamky:
+- n: 1
+  text: |-
+    Počet jezdců se v dobových vojenských výčtech vyjadřoval počtem „koní“ (*Pferde*), tj. jezdců s koňmi.

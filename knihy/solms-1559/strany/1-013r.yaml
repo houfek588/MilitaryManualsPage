@@ -1,0 +1,52 @@
+id: 1-013r
+list: '13'
+strana: recto
+sken: 35
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Rittermessigen Leuten beuelhen / die Regirung vnnd Justitien vertrauen / vnd auff gelegt haben.
+  cs: |-
+    dát do opatrování a uložit jim jako lidem války znalým a rytířským správu i justici {Justitien}.
+- typ: odstavec
+  de: |-
+    Als dann so soll der Kriegßherr / vor solcher versamlung vnd jhrem bei sein alle Ämpter außgeben / denen so tüglich darzů geacht werden / vnd ob schon solche Beuelch vnd Ämpter zuuor außgeben vnd darmit begnadigt worden / so sol doch ein Herr denselben Personen vor solcher samlung / was eins jeglichen verwaltung sein wirt beuelhen / bei der pflicht aufflegen / so solchs also statlich vnd mit ernst geschehen / so wirt ein jeder bedencken / was jm zuuerwalten vnd zuuersehen gebüren wil / vnnd baß bedencken / Dieweil es jm also vor einer statlichen versamlungen geschicht / mit vnderschidlichem bericht / als wenn jm schlecht mit dem Namen solches Ampt gegeben wirt.
+  cs: |-
+    Poté má válečný pán {Kriegßherr} před takovým shromážděním a v jejich přítomnosti rozdat všechny úřady těm, kdo jsou k tomu uznáni za způsobilé; a i kdyby taková velení a úřady byly rozdány a uděleny již dříve, přesto má pán před tímto shromážděním oněm osobám přikázat a pod závazkem {pflicht} uložit, co bude správou každého z nich. Když se to stane takto slavnostně a s vážností, každý si rozváží, co mu přísluší spravovat a obstarávat, a vezme si to více k srdci, protože se mu to děje před tak vznešeným shromážděním s podrobným poučením, než kdyby mu byl úřad udělen jen pouhým jménem.
+- typ: odstavec
+  de: |-
+    Würde nun einer dem sein Ampt also statlich / vnnd mit ernst erklert vnd beuolen wirt / vnd solches zuuersehen nit weiß / sich desselben nit vndernemen wöllen / so mag der Herr solches Ampt / einem andern der es zuuerwalten weiß geben / vnd wie vor zu dem ernstlichsten beuelhen / dann es einer mehr bedenckt vnd beuolhen lest sein / dieweil ein solche statliche versamlung seinen Beuelch weiß / vnd wie hoch er jm beuolhen vnd auffgelegt ist.
+  cs: |-
+    Kdyby se pak někdo, komu byl úřad takto slavnostně a s vážností vyložen a svěřen, v něm nevyznal a nechtěl se jej ujmout, může pán takový úřad dát jinému, kdo jej umí spravovat, a přikázat mu jej s touž nejvyšší vážností; neboť každý o něm více přemýšlí a klade si jej na srdce, když tak vznešené shromáždění zná jeho velení a ví, jak přísně mu bylo svěřeno a uloženo.
+- typ: odstavec
+  de: |-
+    Vnd dieweil dann von allen Nationen / zu Roß vnd fůß / so Regiment haben vnd darbei genomen / mit jrer allen rath vnd gůtbedencken dise Krigßregirnng vnd Ordnung beschlossen / vnd also ein gleiche eintrechtige Regirung gemacht / so mag kein Meuterei noch vnwillen vnder den Nationen entstehen / als wann solches ein Nation allein geordnet vnd gemacht hette.
+  cs: |-
+    A poněvadž tedy tato válečná správa[^1] a řád byla usnesena ze všech národů na koni i pěšky, které mají své pluky {Regiment} a byly k tomu přibrány, s radou a dobrým uvážením všech, a byla tak zřízena rovná a svorná vláda, nemůže mezi národy vzniknout žádná vzpoura {Meuterei} ani nevole, jako kdyby to nařídil a zavedl jen jeden národ sám.
+- typ: odstavec
+  de: |-
+    Darmit aber weiter einigkeit gehalten / vnd die Regirung ein gentzliche vnd starck würckung bekomen mag / so soll ein jede Nation / vnder jnen eigene Gerichtspersonen vnd Reth ordnen / was jnen also zu rathschlagen vnnd zu rechtfertigen fürfallen würde / das die sich nach der Kriegßordnung zuhalten künden vnd wüsten.
+  cs: |-
+    Aby však byla dále udržována svornost a správa nabyla plného a silného účinku, má každý národ ustanovit ze svého středu vlastní soudní osoby a rady, aby ti v tom, co jim připadne k projednání a k souzení, dovedli a věděli, jak se řídit podle válečného řádu.
+- typ: odstavec
+  de: |-
+    Vnnd darmit solche Ordnung nit wider in abgang kome / sonder bleiben / vnd kein Practic darinn verstanden noch vorgewent werden möge / so ist dise volgende Ordnung darinen fürzunemen.
+  cs: |-
+    A aby takový řád opět neupadl v zapomnění, nýbrž přetrval a nemohly se v něm uchytit ani uplatnit žádné úklady {Practic}, má se v tom zavést následující postup.
+- typ: odstavec
+  de: |-
+    Die Partheien so gegen einander zuthůn haben vnd von zweien Nationen sein werden / vnd wirt ein Teutscher ein Welschen anzuklagen haben / so soll der kleger den beklagten vor seiner ordentlichen Oberkeit vornemen / denselben alda beklagen.
+  cs: |-
+    Strany, které mají spor proti sobě a pocházejí ze dvou různých národů – například má-li Němec žalovat Vlacha {Welschen} –, má žalobce pohnat žalovaného před jeho řádnou vrchnost a tam jej zažalovat.
+- typ: odstavec
+  de: |-
+    So soll dieselbige gesagte Oberkeit / die Partheien zu einer benanten stund oder tag vor sich bescheiden / die sachen anhören / ist kundt oder anders von nöten / darüber zuhören / so soll solches nach
+  cs: |-
+    Zmíněná vrchnost tedy obešle strany před sebe na stanovenou hodinu nebo den a záležitost vyslechne; je-li třeba vyslechnout svědectví {kundt} nebo něco jiného, má se to dít
+poznamky:
+- n: 1
+  text: |-
+    Tisk má u písmene *u* převrácenou literu (*Krigßregirnng* místo *Krigßregirung*).

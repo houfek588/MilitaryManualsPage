@@ -1,0 +1,43 @@
+id: 3-062r
+list: '62'
+strana: recto
+sken: 375
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    WIltu Salpeter sieden vnd leutern / der vor auch geleutert ist / so nim souil du gehaben magst / thů jn in ein gůten Kessel vnd leg jn eben / nim ein Höltzlein / meß den Salpeter wieuils sei / vnd alß ferr er geht stopff ein Löchlein an das höltzlein / mehr das zeichen dreier finger groß vber sich auff / vnd stopff aber ein Löchlein / nim gůten Essig / thů jn darein / das der Essig vber gehe / thů den Kessel vber ein gefüg feur vnnd wann es anhebt zu scheumen / so werff den schaum oben gar wol ab / wann er walen will / so nim Galitzenstein leg ein stück darinn laß denn wol erwalen / vnd rür es von anfang seuberlich / wann der Salpeter vber all zergangen ist / so nim jn herab von dem Feur inn einen Kessel / setz es an ein heimlich Stat da es kalt ist / vnd niemant zu gehet das dir nichts darein kom / denn das obgeschriben steht / vnd so er ein wenig vber stehet / dann geuß ab in ein sauber geschir / vnd laß kalt werden / wann der Essig allerding erkalt / vnnd der Salpeter darinn gestanden ist / dann nim den Essig vnd geuß jhn schön oben ab von dem Salpeter / so hastu ein gůten gescheidnen / geleuterten Salpeter in dem Kessel / darnach thů jn zu einem warmen Ofen / vnd ker jn vmb das er wol erseig vnd ertrucken / nim denn den trucken Salpeter / leg jn zu einem ofen / vnd laß jn wol dörren / je dörrer je besser er wirt.
+  cs: |-
+    Chceš-li vařit a čistit ledek {Salpeter}, jenž již byl dříve čištěn, vezmi jej, kolik můžeš mít, dej jej do dobrého kotle a urovnaj jej do roviny; pak vezmi dřívko, změř, kolik ledku jest, a až kam sahá, vyryj na dřívko značku, posuň znamení o tři prsty výše a vyryj další značku.[^1] Vezmi dobrý ocet a vlij jej dovnitř, aby přesahoval nad ledek; postav kotel nad mírný oheň, a až začne pěnit, pečlivě shora seber pěnu. Když chce vzkypět, vezmi skalici (*Galitzenstein*), vlož do něj kousek, nech pak dobře povařit a od počátku to zlehka míchej. Jakmile se ledek všude rozpustí, sejmi jej z ohně v kotli, postav na skryté místo, kde je chladno a nikdo tam nechodí, aby se ti do něj nedostalo nic než to, co jest psáno výše; a až trochu ustane, slij jej do čisté nádoby a nech vychladnout. Když ocet docela vystydne a ledek v něm zkrystalizuje, vezmi ocet a čistě jej shora slij z ledku – tak budeš mít v kotli dobrý oddělený a přečištěný ledek. Poté jej dej k teplé peci a obrať jej dnem vzhůru, aby dobře okapal a vyschl; pak vezmi suchý ledek, polož jej k peci a nech jej dobře vysušit – čím sušší, tím lepší bude.
+- typ: nadpis
+  uroven: 3
+  de: Ein bewerung des Salpeters wenn er gnug geleutert sei.
+  cs: Zkouška ledku, kdy jest dostatečně přečištěn
+- typ: odstavec
+  de: |-
+    SO nim den Rürstab vnd den zugangen Salpeter auß dem Kessel spreng es auff ein glüenden Kolen / gibt es gůt schwartz / vnd in etlicher maß plawes Feur / so ist der salpeter rein vnd gůt / aber den abgegossen geleuterten schönen Essig soltu thůn in ein saubern Kessel / vber ein gefüg Feur / vnnd thů dem gleich als vor mit dem Alaun so gestehet er / dann magstu den wolgeleuterten Essig abgiessen / vnd jn behalten oder auß schüten.
+  cs: |-
+    Vezmi tedy míchadlo (*Rürstab*)[^2] a rozpuštěný ledek z kotle a postříkej jím žhavý uhel; vydává-li sytě černý[^3] a poněkud modrý oheň, pak jest ledek čistý a dobrý. Avšak ten slitý, přečištěný pěkný ocet máš dát v čistém kotli nad mírný oheň a naložit s ním stejně jako dříve s kamencem (*Alaun*), a tak se srazí; potom můžeš ten dobře přečištěný ocet slít a buď si jej ponechat, nebo vylít.
+- typ: nadpis
+  uroven: 3
+  de: wie mann salpeter der vor auch geleutert ist / inn dem andern sieden leutern soll / das er sich schön reinigt vnd scheid / von allem dem das nicht zu jm gehört / vnd nit felhen kan / wen es rechter salpeter ist / wo du jn nützen wöllest.
+  cs: Jak se má čistit při druhém vaření ledek, který již dříve byl čištěn, aby se pěkně očistil a oddělil ode všeho, co k němu nepatří, a nemůže selhat, je-li to pravý ledek, k čemukoli jej chceš použít
+- typ: odstavec
+  de: |-
+    NIm Camil / Alumen / Isponicum / Vitriolum Romanum vnd sal commune / leg es inn den anderen salpeter / das ist das fast nutzt vnd aller best scheiden des salpeters dz mann gehaben mag / das bewer ich also / Sal Commune das zeucht zu jm / vnd thelt sich gleich
+  cs: |-
+    Vezmi heřmánek (*Camil*),[^4] kamenec (*Alumen*), měděnku (*Isponicum*), římskou skalici (*Vitriolum Romanum*) a kuchyňskou sůl (*sal commune*) a vlož je do druhého ledku – toť velice prospěšné a nejlepší oddělování ledku, jaké lze mít. To dosvědčuji takto: kuchyňská sůl (*Sal Commune*) k sobě přitahuje a dělí se stejně
+poznamky:
+- n: 1
+  text: |-
+    V tisku *stopff ein Löchlein* – tj. *stupf ein Löchlein* („udělej / vypíchni značku či důlek“); na této straně je v záhlaví tisku rovněž rozmazané číslo listu `62`.
+- n: 2
+  text: |-
+    BSB OCR zde chybně četlo *Xirstab* místo *Rürstab* („míchadlo“), v předchozím odstavci *fer ? in vmb* místo *ker jn vmb* a v posledním řádku *nust* místo *nutzt*.
+- n: 3
+  text: |-
+    V tisku stojí *gůt schwartz* („dobře černý / temný“ – snad sazečská záměna za *gůt schnell* nebo *gůt starck* „prudký, silný“).
+- n: 4
+  text: |-
+    *Camil* – pravděpodobně alchymicky zkomolený název přísady (snad *Camomilla* „heřmánek“, popř. zkomolenina za *Salarmoniac* či *Calx*); *Alumen* = kamenec; *Isponicum* = španělská zeleň / měděnka; *Vitriolum Romanum* = římská skalice (zelená skalice); *Sal commune* = běžná (kuchyňská) sůl.

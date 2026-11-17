@@ -1,0 +1,31 @@
+id: 1-032r
+list: '32'
+strana: recto
+sken: 73
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    kriegen wie Kriegs gebrauch ist / vnd vor jnen gewesen / darmit dem Kriegßherrn trewlich gedienet / vnd das Kriegßuolck mag erhalten werden inn gůter Pollicei / vnnd ein Herr die Krieg erhalten möge / Deßgleichen das wider ein gůt Justitien erhalten / vnd das Kriegsuolck in ein gůt Kriegßordnung vnnd gehorsam gebracht werden / dann muß die Kriegßhandlung widerumb durch ehrliche verstendige Kriegßleut vor die handt genommen werden / vnnd wider wie von alters gewesen / anstellen / ordnen vnd sein maß geben vnd halten / vnd der Commissarien Ampts versehung mit maß geben / was einer jeden Commiß verwaltung sein soll / vnd nicht ein jeder Commissarius solliches nach seinem sinn vnd zu seinem nutzen ordnet / sonder zu des Herren vnd gantzen Legers auch gemeines Kriegsuolcks besten / dann wann mann ein vnordnung leßt einbrechen / so volgen alßdan noch mehr hernach / vnd vbersicht als einer dem andern / dardurch geht die gůt Regirung zu bodem / dann wo kein gůte Regirung ist / da ist auch kein gůt Justitien / wo dann kein gůt Justitien ist / da ist auch kein gehorsan / wie ist zu gedencken wer darbei wol regiren kan.
+  cs: |-
+    válčit tak, jak je válečným zvykem a jak bylo před nimi, aby se válečnému pánovi {Kriegßherrn} věrně sloužilo, aby válečný lid {Kriegßuolck} mohl být udržován v dobrém veřejném řádu {Pollicei} a pán mohl obstát ve válkách; stejně tak aby byla opět udržována dobrá spravedlnost {Justitien} a válečný lid byl uveden do dobrého válečného řádu a poslušnosti. Tehdy se musí válečného jednání opět chopit čestní a rozumní vojáci {Kriegßleut}, znovu je zavést, uspořádat, stanovit mu míru a dodržovat je tak, jak bývalo odedávna, a správě úřadu komisařů {Commissarien} dát míru, co má být správou každého komisu {Commiß}, aby si to každý komisař nezařizoval podle své vůle a k vlastnímu prospěchu, nýbrž k nejlepšímu prospěchu pána, celého ležení {Legers} i obecného válečného lidu. Neboť jakmile se nechá vniknout jeden nepořádek, následuje jich pak ještě více a jeden druhému promíjí, čímž dobrá správa klesá ke dnu; neboť kde není dobrá správa, tam není ani dobrá spravedlnost, a kde není dobrá spravedlnost, tam není ani poslušnost[^1] – jak si pak lze myslet, že by při tom někdo dokázal dobře vládnout?
+- typ: odstavec
+  de: |-
+    Darumb soll mann sehen nach gůten Kriegßordnungen / vnd die Ampter besetzen mit ehrlichen verstendigen Personen / die werden wol regiren / wann mann dann wol regiert / da kan mann auch gůt Justitien halten / wo dann gůt Justitien ist / da ist gehorsam / wo dañ gehorsam ist vnder dem Kriegßuolck / da ist gůt vnnd getröstlich mit zu handeln / vnd etwas ehrlichs damit außzurichten.
+  cs: |-
+    Proto se má dbát o dobré válečné řády a úřady obsazovat čestnými a rozumnými osobami – ty budou dobře vládnout; když se pak dobře vládne, lze také udržovat dobrou spravedlnost; kde je dobrá spravedlnost, tam je poslušnost; a kde je mezi válečným lidem poslušnost, tam se s ním dá dobře a směle jednat a vykonat s ním něco čestného.
+- typ: odstavec
+  de: |-
+    Das ich in diser Kriegs beschreibung hab vermelt vnd vor gůt angesehen / daß in die Bestallung solt gesetzt oder mit einuerleibt werden / daß mann des Kriegßherrn Justitien vnnd derselbigen verwalter soll gehorsam sein vnd beistehn / das sehe ich noch vor gůt vnnd billich an / es gebürt sich auch darinn gehorsam zu sein / vnnd stehet ein grosses dem krieg darauff / Dieweil dann ein grosses dem krieg darauff steht / vnd der krieg dardurch will gefürt werden / so soll der Kriegßherr besehen / daß er gůt Kriegßregirung anstelle / mit gůtem Rath der Kriegßuerstendigen vnd gůten Leuten die Ampter versehe vnd bestelle / so hat mann wol zu regiren / vnnd ist das Kriegßuolck durch sich selber damit gefangen.
+  cs: |-
+    To, co jsem v tomto válečném popisu uvedl a uznal za dobré – totiž aby do služebního listu {Bestallung} bylo vloženo či začleněno, že se má spravedlnosti válečného pána a jejím správcům prokazovat poslušnost a stát při nich –, to dosud považuji za dobré a spravedlivé, neboť se i sluší být v tom poslušný a na tom ve válce mnoho záleží. Poněvadž na tom tedy ve válce tolik záleží a válka se tím má vést, má válečný pán hledět, aby zřídil dobrou válečnou správu a s dobrou radou znalců války obsadil a zjednal úřady dobrými lidmi; tehdy se dá dobře vládnout a válečný lid se tím sám zaváže ke kázni.
+- typ: odstavec
+  de: |-
+    Solt es aber nicht ein einsehens bekommen / vnd inn bessere weg / dann ein zeitlang geschehen / geordnet werden / so hett ich sorg es würde je lenger je böser werden / vnd das Kriegßuolck je lenger je
+  cs: |-
+    Nedojde-li však k nápravě a neuvede-li se to na lepší cesty, než jak se po nějaký čas dělo, obávám se, že by bylo stále hůře a válečný lid by byl stále
+poznamky:
+- n: 1
+  text: V originále zde drobná tiskařská odchylka *gehorsan* místo *gehorsam*.

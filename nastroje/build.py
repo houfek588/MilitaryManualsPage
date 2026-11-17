@@ -123,7 +123,10 @@ def build_kniha(kniha_dir):
     stack = []  # otevřené oddíly (indexy do sections)
     used_slugs = set()
 
+    pending_frontispis = None
+
     def new_section(uroven, cs, de, pidx, bidx):
+        nonlocal pending_frontispis
         base = slug(cs or de)
         s, k = base, 2
         while s in used_slugs:
@@ -131,7 +134,14 @@ def build_kniha(kniha_dir):
         used_slugs.add(s)
         while stack and sections[stack[-1]]['u'] >= uroven:
             sections[stack.pop()]['do'] = bidx
-        sec = dict(id=s, u=uroven, cs=cs or '', de=de or '', od=bidx, do=None, p=pidx,
+        sec_p, sec_od = pidx, bidx
+        if pending_frontispis and uroven == 1:
+            sec_p = pending_frontispis['p']
+            sec_od = pending_frontispis['od']
+            for bi in pending_frontispis['blocks']:
+                blocks[bi]['s'] = s
+            pending_frontispis = None
+        sec = dict(id=s, u=uroven, cs=cs or '', de=de or '', od=sec_od, do=None, p=sec_p,
                    rodic=sections[stack[-1]]['id'] if stack else None)
         sections.append(sec)
         stack.append(len(sections) - 1)
@@ -144,6 +154,10 @@ def build_kniha(kniha_dir):
             print(f'  ! {pid}: chyba YAML, strana vynechána ({str(e).splitlines()[0]})')
             d = dict(id=pid, stav='chybi_original', bloky=[])
         od = len(blocks)
+        if d.get('frontispis') and stack:
+            while stack:
+                sections[stack.pop()]['do'] = od
+            pending_frontispis = dict(p=pidx, od=od, blocks=[])
         prvni = (d.get('bloky') or [{}])[0]
         if pid == meta.get('predsadka', ['titul'])[0] and not sections and prvni.get('typ') != 'nadpis':
             new_section(1, 'Titulní list', 'Titelblatt', pidx, od)
@@ -153,7 +167,10 @@ def build_kniha(kniha_dir):
                 new_section(int(b.get('uroven') or 2), plain(b.get('cs')), plain(b.get('de')), pidx, len(blocks))
             if not sections:
                 new_section(1, 'Úvod', '', pidx, len(blocks))
-            rec = dict(t=t, p=pidx, s=sections[stack[-1]]['id'])
+            sid = sections[stack[-1]]['id'] if stack else None
+            rec = dict(t=t, p=pidx, s=sid)
+            if sid is None and pending_frontispis is not None:
+                pending_frontispis['blocks'].append(len(blocks))
             for k_src, k_dst in (('de', 'de'), ('cs', 'cs'), ('uroven', 'u'), ('soubor', 'img'), ('popis', 'popis')):
                 if b.get(k_src) is not None:
                     rec[k_dst] = b[k_src]

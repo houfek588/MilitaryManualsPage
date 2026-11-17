@@ -1,0 +1,58 @@
+id: 3-066v
+list: '66'
+strana: verso
+sken: 384
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Nun volgt hernach wie mann Koln machen vnd brennen soll zu allem Puluer.
+  cs: |-
+    Nyní následuje, jak se má dělat a pálit dřevěné uhlí {Koln} do veškerého střelného prachu {Puluer}
+- typ: nadpis
+  uroven: 3
+  de: Nun merck wie mann die aller besten Koln machen soll.
+  cs: Nyní pozoruj, jak se má dělat vůbec nejlepší dřevěné uhlí
+- typ: odstavec
+  de: |-
+    WIlt du die aller besten Kolen machen die jemandt gehaben mag / So nime weiß Dennen / Albran / odder Linden Holtz / das frisch sei / mach Scheider darauß / vnd dör sie inn einem Bachofen / brenne sie darnach zu eytel Koln / besehe daß die Scheider kein Este haben / nime denn die Koln also frisch / thů sie in ein Becken / vnd lesch ab mit gebrantem Wein / wenn du die Koln ableschen wilt / so stürtz allweg ein Becken vber das ander / daß dich der flam nicht brenne.
+  cs: |-
+    Chceš-li udělat to nejlepší dřevěné uhlí, jaké jen kdo může mít, vezmi bílé jedlové, střemchové (*Albran*)[^1] nebo lipové dřevo, které jest čerstvé, nadělej z něj polínka, vysuš je v chlebové peci a pak je spal na čisté uhlí. Dbej, aby polínka neměla žádné suky; vezmi pak uhlí ještě čerstvé [žhavé], dej je do mísy a uhas je páleným vínem. Když chceš uhlí hasit, přiklop vždy jednu mísu druhou, aby tě plamen nepopálil.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie vnd wo mit mann die Kolen krefftigen soll / daß sie in dem Puluer im alter nit verderben.
+  cs: |-
+    Jak a čím se má dřevěné uhlí posilovat, aby se ve střelném prachu stářím nezkazilo
+- typ: odstavec
+  de: |-
+    DV solt wissen daß Atrimentum die Koln sterckt / daß sie nit erger werden / denn das geschicht offt vnd dick / daß die Koln in einem Büchsenpuluer verderben / so das Puluer verdorben / vnd darbei nit Atriment ist / hett mann Atriment darzů gethan / dañ wer es nicht verdorben / darumb sterck die Koln mit dem Atriment / das ist gůt.
+  cs: |-
+    Věz, že atrament (*Atrimentum*)[^2] posiluje dřevěné uhlí, takže se nekazí; neboť se stává velmi často, že se v puškovém prachu zkazí uhlí, když se prach zkazil a není v něm atrament. Kdyby se k němu byl přidal atrament, nebyl by se zkazil; proto posiluj uhlí atramentem – to jest dobré.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann zu Zündtpuluer die aller besten Kolen machen soll.
+  cs: Jak se má dělat vůbec nejlepší uhlí do zápalného prachu {Zündtpuluer}
+- typ: odstavec
+  de: |-
+    SO nim ein verschliffen Tischlach / das gar wol vnd schön gewaschen sei / on alles stercken / vnnd sauber getrücknet / brenne das zu Puluer in einem erden Hafen / vnd setz den in einen heissen Ofen odder Feur / daß das Tischlach darinn verbrennen mög / verdeck auch den Hafen wol / daß der dunst dauon nicht gehe / die Kolen seind vber alle Kolen.
+  cs: |-
+    Vezmi obnošený lněný ubrus (*Tischlach*), který jest velmi dobře a čistě vypraný bez veškerého škrobení a čistě usušený, spal jej na prach v hliněném hrnci a postav jej do horké pece nebo do ohně, aby v něm ubrus mohl zuhelnatět; hrnec také dobře přikryj, aby z něj neunikal výpar – toto uhlí předčí každé jiné uhlí.
+- typ: nadpis
+  uroven: 3
+  de: Von Koln machen zum schiessen.
+  cs: O přípravě dřevěného uhlí ke střelbě
+- typ: odstavec
+  de: |-
+    NIme Dennen / linden oder Espen / daran kein Ast / Rinden oder Margk / das ist / dörren Rinden sei / spalt sie Daumen breit / vnd so lang wie ein schwanfeder / dörs wol in eim Bachofen / darnach thů
+  cs: |-
+    Vezmi jedlové, lipové nebo osikové dřevo, na němž není žádný suk, kůra ani dřeň – totiž suchá kůra –, rozštípej je na šířku palce a na délku labutího brku, dobře je vysuš v chlebové peci a pak je dej
+poznamky:
+- n: 1
+  text: |-
+    *Albran* (*Alberbaum*, *Faulbaum*) – krušina olšová či střemcha, případně topol bílý (linda), dřevo tradičně ceněné pro výrobu nejjemnějšího prachového uhlí.
+- n: 2
+  text: |-
+    *Atrimentum* / *Atrament* – vitriol (zelená či modrá skalice, síran železnatý/měďnatý) užívaný též k výrobě inkoustu a jako konzervační přísada do prachového uhlí.

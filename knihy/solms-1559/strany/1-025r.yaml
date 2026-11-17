@@ -1,0 +1,77 @@
+id: 1-025r
+list: '25'
+strana: recto
+sken: 59
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Zum zwölfften so ein Leger an einem ort etwan sorglich oder vnuerwarlich lege / so soll mann das souil möglich vergraben / vnd mit der Wagenburg verziehen vnd verwaren.
+  cs: |-
+    Za dvanácté: leželo-li by ležení {Leger} na nějakém místě povážlivě či nechráněně, má se podle možnosti obkopat příkopem a obehnat a zajistit vozovou hradbou {Wagenburg}.
+- typ: odstavec
+  de: |-
+    Dieweil ich dann hieuor vermeltet / vnd für notwendig vnd gůt ansehe / so ein Kriegßherr gen Feld kommen wirt / das derselbige sein Kriegßuerstendigen nider setzen soll / vnd jnen von allen beschwerden so in einem Krieg vnd der Regirung fürfallen möchte / zubedencken vnd zuberathschlagen / wie die vorkomen / vnd in rechte weg gestelt werden mögen / vnd einem jeden sein maß geben möchten / So wil die notturfft erfordern / das solche gebrechen bedacht vnd verzeichnet werden / darmit dieselbigen Kriegßuerstendigen sich daruff zubedencken vnnd zurathschlagen künden / vnnd denselbigen Artickeln jhre billiche maß geben möchten.
+  cs: |-
+    Poněvadž jsem tedy výše zmínil a pokládám za potřebné i dobré, aby válečný pán {Kriegßherr}, vytáhne-li do pole, posadil k poradě své válečných věcí znalé muže a dal jim uvážit a projednat všechny obtíže, jež by se ve válce a jejím řízení mohly vyskytnout, jak jim předejít a uvést je na správnou cestu a každé věci dát její řádnou míru, vyžaduje potřeba, aby takové nedostatky byly promyšleny a sepsány, aby se tito znalci mohli nad nimi zamyslet a poradit a dát těmto článkům jejich spravedlivou míru.
+- typ: odstavec
+  de: |-
+    So wil ich alhie etliche souil ich bedencken kan / vnd einen eingang vnd bericht / wie die beschrieben werden sollen / doch nit anderst dann wie gemelt zu einem vnderricht vnd Form beschreiben.
+  cs: |-
+    Chci jich tedy zde několik, nakolik si je dokáži vybavit, jako úvod a zprávu o tom, jak mají být sepsány – avšak ne jinak než, jak řečeno, jen jako poučení a vzor –, vylíčit:
+- typ: odstavec
+  de: |-
+    Zum ersten so soll nach einer gůten Justitien gedacht vnd geordnet werden.
+  cs: 'Za prvé: má se pamatovat na dobrou spravedlnost a zřídit ji.'
+- typ: odstavec
+  de: Zum andern die Prouiant in das Leger zubringen.
+  cs: 'Za druhé: dopravovat do ležení proviant {Prouiant}.'
+- typ: odstavec
+  de: |-
+    Zum dritten die Fütterung zuuersehen / das die mit gůter versehung der Personen geordnet werden.
+  cs: |-
+    Za třetí: obstarávat píci {Fütterung}, aby byla zařízena s dobrým zajištěním osob.
+- typ: odstavec
+  de: Zum vierdten ein gůt ordentliche Commiß anzustellen.
+  cs: 'Za čtvrté: zavést dobrý, řádný komis {Commiß}.'
+- typ: odstavec
+  de: |-
+    Zum fünfften gůte Ordnung mit Brodt / Wein / Fleisch vnd dergleichen Essenspeiß / die keuff zumachen vnd zusetzen.
+  cs: |-
+    Za páté: stanovit dobrý řád pro chléb, víno, maso a podobné potraviny a určovat a vyměřovat jejich ceny.
+- typ: odstavec
+  de: |-
+    Zum sechsten die Müntz zu ordnen / das ein einige gleiche bezalung vnd wechsel geschehen möge.
+  cs: |-
+    Za šesté: uspořádat minci, aby mohlo docházet k jednotné a rovné výplatě a směně.
+- typ: odstavec
+  de: |-
+    Zum siebenden den Prouosen Ordnung vnd maß zugeben / gleich gewicht vnd maß zuhalten.
+  cs: |-
+    Za sedmé: dát profousům {Prouosen} řád a míru, aby udržovali spravedlivou váhu a míru.
+- typ: odstavec
+  de: |-
+    Zum achten das gůte verhütung verordnet werde / daß die so prouiant vnd anders in das Leger bringen / nit beschedigt sonder wol beleit werden.
+  cs: |-
+    Za osmé: aby bylo nařízeno dobré zajištění, aby ti, kdo přivážejí proviant a jiné zboží do ležení, neutrpěli škodu, nýbrž byli dobře doprovázeni.
+- typ: odstavec
+  de: |-
+    Zum neunden das gůte Ordnung vnd sicherung / auff den Prouiantpletzen gehalten werde.
+  cs: |-
+    Za deváté: aby se na proviantních tržištích {Prouiantpletzen} udržoval dobrý řád a bezpečnost.
+- typ: odstavec
+  de: |-
+    Zum zehenden das Ordnung gemacht werde / das die Wein vnd Bierzapffer / nach besetzter Wacht sich zuhalten wissen / vnd darüber von niemants gewaltigt.
+  cs: |-
+    Za desáté: aby byl vydán řád, jak se mají šenkýři vína a piva chovat po postavení stráží {Wacht}, a aby jim přitom nikdo nečinil násilí.
+- typ: odstavec
+  de: |-
+    Zum eilfften ein Ordnung vnd stillung zůmachen / wie es nach besetzter Wacht gehalten werden soll.
+  cs: |-
+    Za jedenácté: zavést řád a klid, jak se má po postavení stráží postupovat.
+- typ: odstavec
+  de: |-
+    Zum zwölfften das ein Ordnung vnd maß geben werde / wie es mit allen beuten gehalten werden soll.
+  cs: |-
+    Za dvanácté: aby byl dán řád a míra, jak se má nakládat se vší kořistí.

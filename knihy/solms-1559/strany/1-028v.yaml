@@ -1,0 +1,37 @@
+id: 1-028v
+list: '28'
+strana: verso
+sken: 66
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    würde aber ein Ampts person odder verwalter ein ander meinung vorhaben die er vermeint besser zusein / soll er dieselbig dem Commissarien anzeigen / dem Obersten zusagen odder selber zu dem Obersten komen mit jm daruon reden / vnd was sie sich dann vergleichen / nachkommen / vnd zum fleissigsten außrichten / vnnd wann es gleich kein Commissarius were / vnd der oberst Feldherr schickt einn geringern / dann soll die Ampts person handeln wie vermelt / gehorsam vnnd willig sein.
+  cs: |-
+    měla-li by však úřední osoba či správce jiné mínění, o němž se domnívá, že je lepší, má je oznámit komisaři {Commissarien}, aby to řekl nejvyššímu veliteli {Obersten}, anebo přijít k nejvyššímu veliteli sám a pohovořit si s ním o tom, a na čem se pak shodnou, podle toho postupovat a co nejpilněji to vykonat. A i kdyby to nebyl žádný komisař a nejvyšší polní pán {oberst Feldherr} poslal někoho nižšího postavení, má úřední osoba jednat, jak bylo řečeno, a být poslušná a ochotná.
+- typ: odstavec
+  de: |-
+    Darumb will ich nit / daß es dahin soll verstanden werden / als daß man mit keinem Commissarien handeln soll / sonder allein wirt vermelt von den Commissarien die alle Regirung vermeinen zuwissen vnd maß geben wöllen / mit sollichem erbieten / als wann sie der Feldoberst selbst weren / wie wol gesehen ist worden / Das soll nicht sein / besonder mit den hohen Amptern / dann mit denselbigen sollen die Commissarien mit vernunfft handeln vnnd faren / so bleiben sie desto vertrewlicher bei einander / vnnd künden einander mit rath vnd hilff beistehen / des Herren vnnd Legers oder gantzen Kriegs besten nutzen suchen vnd handeln / das wert vnd bestehet bei einander / vnd wirt wol vnd eintrechtig dardurch regirt.
+  cs: |-
+    Proto nechci, aby se tomu rozumělo tak, že by se nemělo jednat s žádným komisařem, nýbrž mluví se tu pouze o těch komisařích, kteří se domnívají, že rozumějí veškerému řízení, a chtějí udílet předpisy s takovým vystupováním, jako by sami byli nejvyšším polním hejtmanem {Feldoberst}, jak se již nejednou vídalo. To se dít nemá, zvláště ne s vysokými úřady: s těmi mají komisaři jednat a zacházet s rozvahou; tak zůstanou spolu v tím větší důvěře, mohou si navzájem pomáhat radou i pomocí a hledat a prosazovat nejlepší prospěch pána, ležení {Legers} i celé války – to pak vytrvá a obstojí pospolu a vládne se tím dobře a svorně.
+- typ: odstavec
+  de: |-
+    Derwegen soll ein Feldoberster sich befleissen / daß er mit seinen Ampts personen odder verwaltern selber handel / das macht sie forchtsam / dann wann ein Herr befindt / daß ein Ampt nicht wol geregirt wirt oder geht / soll der Herr sie selber erfordern / vnd sagen : Ich werde bericht / daß in deiner verwaltung die mengel seien / was die vrsachen seind / kan er bestendigen bericht darauff geben / ist gůt / so soll ein Herr sich mit denen die darzů dienlich berathen / wie das zuwenden sein mag / vnd auff bessere wege richten / alßdan die Ampts person wider beuelch darin gebe vnd behilfflich sei.
+  cs: |-
+    Proto se má nejvyšší polní hejtman snažit, aby se svými úředními osobami nebo správci jednal sám – to v nich budí bázeň. Když totiž pán shledá, že některý úřad není dobře řízen nebo nefunguje, má si je pán sám povolat a říci: „Dostávám zprávu, že ve tvé správě jsou tyto nedostatky; jaké jsou toho příčiny?“ Dovede-li na to podat spolehlivou zprávu, dobře; pak se má pán poradit s těmi, kdo jsou k tomu vhodní, jak to lze napravit a uvést na lepší cestu, aby pak úřední osoba v té věci opět dávala rozkazy[^1] a byla nápomocna.
+- typ: odstavec
+  de: |-
+    Wann ein Herr das fleissig thůt wirt er gehorsam Ampts personen ziehen / vnd erfehrt auch die gelegenheit wie es zugeht / daruon zubesorgen ist / es gehe vnderweilen seltzam zů / daß mann nicht wolt daß der Herr alle gelegenheit wiste.
+  cs: |-
+    Činí-li to pán pilně, vychová si poslušné úřední osoby a pozná i okolnosti, jak to chodí; neboť je třeba se obávat, že se občas dějí podivné věci, u nichž by lidé nechtěli, aby pán znal všechny souvislosti.
+- typ: odstavec
+  de: |-
+    Darumb ist einem Herren zu rathen daß er vil mit seinn Kriegs Ampts personen selber handel / vnd hör wie es mit den Regirungen gehet / weiß dann der Herr oder sein Commissarius etwas / das nit recht geht / dann seind sie das zusagen schuldig / so hat ein Herr sich dann mit jnen zu vnderreden / vnd mit rath jn selber auff bessere weg vnd ordnung richten / so möchts wol komen daß die Ampts person auch etwas wissen würden / vnd sagen das ander Leut auch betreffen möcht / so kompt der Feldherr hinder alle sachen / dann es seind seltzam
+  cs: |-
+    Proto je třeba pánovi radit, aby se svými osobami válečných úřadů hodně jednal sám a poslouchal, jak se daří správě; ví-li pak pán nebo jeho komisař o něčem, co nejde správně – vždyť jsou povinni to oznámit –, pak si s nimi pán může promluvit a s radou to sám uvést na lepší cestu a řád; snadno se také může stát, že i úřední osoby budou něco vědět a povědí to, co by se mohlo týkat jiných lidí – a tak se polní pán {Feldherr} dostane na kloub všem věcem; neboť se vyskytují podivné
+poznamky:
+- n: 1
+  text: |-
+    V tisku slovesný tvar *gebe* (patrně konjunktiv či sazečská odchylka místo *geben* v závislosti na *soll*, případně změna podmětu na úřední osobu).

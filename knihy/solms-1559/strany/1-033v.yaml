@@ -1,0 +1,31 @@
+id: 1-033v
+list: '33'
+strana: verso
+sken: 76
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Das ich aber dises also anzeig vnd thů / das geschicht auß beweglichen vrsachen / dem Kriegßherrn zu gůtem / vnd wie ich es verstehe vnd solches nicht geendert / daß nichts gůts darauß entstehen wirt / dann grosser vnwill vnder dem Kriegßuolck / meutterei vnd nachteil des Herren / welches gnůgsam vrsachen darzů sein mögen / wie hieuor in diser Beschreibung auch vil vnd wol daruon außgefürt vnd vermelt wirt.
+  cs: |-
+    Že to však takto ukazuji a činím, děje se z naléhavých příčin k dobru válečného pána {Kriegßherrn}; a jak tomu rozumím, nezmění-li se to, nevzejde z toho nic dobrého, nýbrž jen veliká nevole mezi válečným lidem {Kriegßuolck}, vzpoura {meutterei} a škoda pána, k čemuž by tím bylo dostatek příčin, jak se již dříve v tomto popisu rovněž hojně a důkladně vykládá a uvádí.
+- typ: odstavec
+  de: |-
+    Aber disen dingen vnd wegen ist wol zu begegnen / mit gůtem billichem fug vnnd glimpff / daß das Kriegßuolck zufrieden sein wirdt vnd můß / wann sie anders wie Kriegßleut billich handeln wöllen / wie sie dann gern thůn werden / wann mann gütlich vnnd recht mit jnen handelt vnd begegnet.
+  cs: |-
+    Těmto věcem a postupům lze však dobře čelit dobrou spravedlivou mírou a rozvahou, takže válečný lid bude a musí být spokojen, chtějí-li jinak jednat slušně jako vojáci {Kriegßleut} – jak také rádi učiní, bude-li se s nimi jednat a vycházet jim vstříc přívětivě a po právu.
+- typ: nadpis
+  uroven: 2
+  de: Antwort auff der Kriegsleut begern.
+  cs: Odpověď na žádost vojáků.
+- typ: odstavec
+  de: |-
+    ITem wann die Kriegßleut solliche rede auff die Bestallung auff der Musterung thůn würden / Dann sollen die Commissarien jnen mit diser antwort begegnen / vnnd sagen / Lieben Herrn / Junckern vnd Kriegßleut / wir haben ewren vorbehalt angehört / daß jr euch zu willigen inn die Kriegßordnung vnnd Justitien vnsers Kriegßherrn / sonder der zuuor wissens zu haben beschwert / Nun solt jhr inn dem kein gefahr noch einiger vnbillichkeit besorgen / dann vnser Herr wirdt die sachen mit seinen Kriegßleuten / Obersten vnd verstendigen / der gestalt (wann jr alle zusamen kompt) fürnemen / berathschlagen vnd ordnen / daß jr daran kein mißfallens haben werdet / sonder selber der gebür nach nicht verbessern noch zu endern begeren / Dann es wirt in gemeinem kriegsrath bedacht vnnd geordnet werden nach altem Kriegs gebrauch / vnd notturfft alles Kriegßuolcks.
+  cs: |-
+    Dále, kdyby vojáci při přehlídce {Musterung} pronesli takovou řeč ohledně služebního listu {Bestallung}, tehdy jim mají komisaři {Commissarien} vyjít vstříc touto odpovědí a říci: „Milí páni, zemani a vojáci, vyslechli jsme vaši výhradu, že se zdráháte svolit k válečnému řádu a spravedlnosti {Justitien} našeho válečného pána, aniž byste o nich měli předem vědomost. Nyní se v tom nemusíte obávat žádného nebezpečí ani jakékoli křivdy, neboť náš pán věc se svými vojáky, nejvyššími veliteli {Obersten} a znalými lidmi (až se všichni sejdete) vezme na přetřes, poradí se a uspořádá tak, že s tím nebudete mít žádné nelibosti, nýbrž sami podle náležitosti nebudete žádat nic zlepšovat ani měnit; vždyť to bude uváženo a uspořádáno ve společné válečné radě podle starého válečného zvyku a potřeby všeho válečného lidu.“
+- typ: odstavec
+  de: |-
+    Vnd wan dann die Commissarien das Krigßuolck in das Leger bringen / dann soll der Oberster wann er alles Kriegßuolck bei einander / vnnd zusamen bracht hat / die Obersten von allen Regimenten zu roß vnd fuß nemen / vnd bei sich nider setzen / sich der Regirung vnd Justitien vergleichen / alßdann hat der Herr sie gefaßt / wie hieuor gnůg daruon angezeigt vnd außgefürt ist.
+  cs: |-
+    A když pak komisaři přivedou válečný lid do ležení {Leger}, tehdy má nejvyšší velitel, jakmile bude mít všechen válečný lid pohromadě a shromážděný, vzít plukovníky všech pluků {Regimenten} jízdy i pěchoty, posadit si je k sobě a dohodnout se na správě a spravedlnosti – tehdy si je pán zavázal, jak bylo již dříve dostatečně vyloženo a podáno.

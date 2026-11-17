@@ -1,0 +1,41 @@
+id: 3-029v
+list: '29'
+strana: verso
+sken: 310
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Damit ich nun wider kom auff mein gemelte rede / daß es mit geringem kosten vnd kurtzer zeit mög zugehn / Wil ich erstlich für mich nemen zuberichten / wie man den kosten der Artolorei erleichtern mög / vnd die zeit zu handeln erkürtzen / damit man nit an lange Leger erhalten bedarff. Vnd ist erstlich diß mein anschlag / daß ich Scharpffmetzen vnd dergleichen wil nicht gebrauchen / sonder dißmal in meinem vorhaben müssig gehn / vnd für ein Scharpffemetz oder dergleichen gattung nemen souil Mörser / die die schwere der Scharpffemetzen haben / vngefehrlichen ein von 10. Centner / vnd ein Scharpffmetz 100. so nem ich für ein Scharpffemetz 10. Mörser / wern der Scharpffmetzen nun vier / so hett ich 40 Mörser für das gewicht in der Scharpffenmetzen stat / Nun ist zu bedencken wie schwerlich ein Scharpffenmetz vberlandt / der schwere vnd weg halben / vnnd wie leichtlich ein Mörser von zehen Centner / dargegen zurechnen / zufürn ist / so leichtlich einer ist / seind die andern all / zufürn / dieweil das gewicht nit auff einem hauffen wie an einer Scharpffenmetzen / sonder in zehen theil getheilt.
+  cs: |-
+    Abych se tedy vrátil ke své zmíněné řeči, jak by to mohlo jít s malými náklady a v krátkém čase, chci si nejprve vzít za úkol vyložit, jak lze ulehčit náklady na dělostřelectvo {Artolorei} a zkrátit dobu obléhání, aby nebylo třeba udržovat dlouhá ležení {Leger}.[^1] A nejprve je toto můj návrh: že nechci použít šarfmece {Scharpffmetzen} a jim podobná děla, nýbrž tentokrát od nich ve svém záměru upustit a místo jedné šarfmece nebo podobného druhu vzít tolik moždířů {Mörser}, kolik činí váha šarfmece – totiž přibližně jeden o váze 10 centů {Centner}, a jelikož šarfmece má 100 centů, vezmu za jednu šarfmece 10 moždířů; kdyby pak byly šarfmece čtyři, měl bych místo váhy šarfmec 40 moždířů. Nyní je třeba uvážit, jak obtížně se po zemi veze jedna šarfmece pro svou tíhu a stav cest, a jak snadno se naproti tomu veze moždíř o deseti centech; a jak snadno se veze jeden, tak snadno se vezou i všechny ostatní, protože váha není na jedné hromadě jako u šarfmece, nýbrž je rozdělena na deset dílů.
+- typ: odstavec
+  de: |-
+    Weitter ist zurechnen wie schwere der Scharpffenmetzen Kugeln wigen / so mann der souil solt mit füren / als mann zu nötigen eins Flecken bedarff / deßgleichen das Puluer darzů. So mann nun die scharpffemetzen für einen Flecken brengt / da mann schiessen wil / was wöllen die für ein schantz haben sie zu legen vnd zuuerdecken / oder Leut sie zuhandeln vnd schiessen / wie ein jeder weiß der sichs versteht was darzugehört / etc.
+  cs: |-
+    Dále je třeba spočítat, kolik váží koule {Kugeln} do šarfmec, má-li se jich vézt s sebou tolik, kolik je zapotřebí k dobytí městečka, a rovněž střelný prach {Puluer} k nim. Když se pak šarfmece přivezou před městečko, kde se má střílet, jakou šanci {schantz} vyžadují, aby se uložily a zakryly, a kolik lidí k jejich obsluze a střelbě, jak ví každý, kdo rozumí tomu, co k tomu náleží atd.
+- typ: odstavec
+  de: |-
+    Wann nun ein Festung dermassen gemacht / daß mann ein Monat daruber schiessen můß / was gehört einn Monat auff ein solches schwer stück / vnd ein gantz Leger die zeit. Solches alles zu leichtern vnd zukürtzen / hab ich für mich genommen die viertzig Mörser / vngefehrlich zu einem anschlag gemacht / da hab ich erstlich / wie gemelt / die geringerung der Fuer vnd schantzen zu machen / dann es ist gůt zu dencken daß ein Morser gůt zu legen ist / dann dem mag leichtlich ein gruben gemacht werden / das er sicher zum werffen ligt.
+  cs: |-
+    Když je pak pevnost vybudována tak, že se na ni musí střílet celý měsíc, co jen za měsíc stojí takový těžký kus {stück} a celé ležení po tu dobu! Abych to všechno ulehčil a zkrátil, vzal jsem si k přibližnému rozpočtu těch čtyřicet moždířů; tu mám nejprve, jak bylo zmíněno, ulehčení dopravy a kopání šancí, neboť lze snadno usoudit, že moždíř se dobře osazuje, jelikož se mu dá snadno vykopat jáma, aby ležel bezpečně ke vrhání.
+- typ: odstavec
+  de: |-
+    Das ander / wann ich mit einem Mörser geschickt bin / wie ich vermein / wil ich werffen tag vnd nacht / vnd was ich damit thůn will / můß geschehen in tag vnd nacht / soll es anders zu glück schlagen oder gerathen / dann was in solcher zeit nicht geret ist darnach vmbsonst / Wie das zugericht sein soll / will ich weitter anzeigen.
+  cs: |-
+    Za druhé, jsem-li s moždířem připraven tak, jak zamýšlím, chci jím vrhat dnem i nocí; a co jím chci pořídit, musí se stát během dne a noci, má-li to jinak vyjít k zdaru a zdařit se, neboť co se v takovém čase nepovede, to je potom marné. Jak to má být zařízeno, vyložím dále.
+- typ: odstavec
+  de: |-
+    Ich will nun achten / ich hab viertzig Mörser sind gelegt / vnd zu einem jeden fünfftzig kugeln das weren 2000 Kugeln.
+  cs: |-
+    Budu tedy předpokládat, že mám čtyřicet moždířů rozestavených na stanovištích a ke každému padesát koulí, což by bylo 2000 koulí.
+- typ: odstavec
+  de: |-
+    Es kompt offt das ein statt dermassen vermacht / daß jr mit
+  cs: |-
+    Často se stává, že je město tak opevněno, že mu nelze
+poznamky:
+- n: 1
+  text: |-
+    V originále *nit an lange Leger* – patrně tiskařská či nářeční podoba místo *ein lange Leger* („dlouhé ležení“).

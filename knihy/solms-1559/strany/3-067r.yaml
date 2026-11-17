@@ -1,0 +1,50 @@
+id: 3-067r
+list: '67'
+strana: recto
+sken: 385
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mann es in ein Hafen / zindt es an / vnd wann es an einem ort gebrant ist / das mañ Kolen sicht so nem er geredten Schwefel / werff es in den Kolen vnd das so lang biß dasselbig Holtz alles zu Koln werd im Hafen / darnach wañ mañ kein ander feur Flamen sicht dañ Schwefel flamen / strumpff den Hafen zů das die Koln erleschen.
+  cs: |-
+    do hrnce a zapal je; a když je na jednom místě propálené tak, že je vidět uhlí {Kolen}, vezmi prosetou síru {Schwefel} a syp ji do uhlí tak dlouho, dokud se všechno to dřevo v hrnci nepromění v uhlí. Potom, když už není vidět žádný jiný ohnivý plamen než plamen síry, hrnec zadus, aby uhlí uhaslo.
+- typ: nadpis
+  uroven: 3
+  de: Ein ander meinung.
+  cs: Jiný způsob
+- typ: odstavec
+  de: |-
+    ITem mann neme Scherwoln / Pferdts mist / Eier Doterlin / Leimen / vnd mach ein deig darauß so wol durcheinander gekneten / schmir außwendig damit ein Hafen / der gleichen mach mann ein Eissern deckel der oben den Hafen zuschließ / das kein dampff darauß mag / den schmirt mann auch mit gmelten Leimē / vnd laß mitten ein Löchlein darinn groß als ein Erbes / lege in gemelten Hafen die gespalten Höltzlein / deck vñ vermach jn wol zu / vmb leg jn mit breñenden Kolen so hoch er ist / etc. luto sapiencie ist auch gůt zuuerkleiben / so sicht mann die Flamen zum löchlein oben außfliegen mit hauffen welcher Flam zu lest so er anfacht liecht zu werden / so thů man Essig durch gemelten löchlin oben hinein / kleibs dañ zu / ist es rechtschaffen.
+  cs: |-
+    Dále: vezmi postřihovačskou vlnu (*Scherwoln*), koňský trus, vaječné žloutky a hlínu, udělej z toho důkladně prohnětené těsto a potři jím zvenčí hrnec; podobně udělej železnou poklici, která hrnec nahoře uzavře, aby z něj nemohla unikat žádná pára, tu rovněž potři zmíněnou hlínou a uprostřed v ní ponech otvor velký jako hrách. Do zmíněného hrnce vlož naštípaná dřívka, dobře jej přiklop a utěsni a oblož jej hořícím uhlím až do jeho výše atd. – *lutum sapientiae* jest k zalepení rovněž dobré. Pak je vidět, jak otvorem nahoře mohutně vyšlehují plameny; a když tento plamen posléze[^1] začne světlat, nalij zmíněným otvorem nahoře dovnitř ocet a zalep jej – tak jest uhlí řádně hotové.
+- typ: nadpis
+  uroven: 3
+  de: Ein kolen zubereiten zu molen vnd zu weissen.
+  cs: Jak připravit uhlí ke kreslení a k bělení
+- typ: odstavec
+  de: |-
+    ITem mañ lege sandt zwischen obgemelten höltzlin in Hafen / oder lege dör höltzlin in ein grob Tůch das naß sei / vnd leg das Tůch mit dem höltzlin in die Eschen / die mit Koln gemischt / so lang biß daß das Tůch verbreñt sei / als dañ sind die Kolen gebrant.
+  cs: |-
+    Dále: nasyp mezi výše zmíněná dřívka v hrnci písek, anebo zabal suchá dřívka do hrubého plátna, které jest mokré, a vlož plátno s dřívky do popela smíšeného s řeřavým uhlím tak dlouho, dokud plátno neshoří – tehdy jest uhlí vypáleno.
+- typ: nadpis
+  uroven: 3
+  de: Ein grossen Koln hauffen zubrenneu der zu Puluer dient / etc.
+  cs: |-
+    Jak vypálit veliký milíř uhlí, které slouží do střelného prachu {Puluer} atd.[^2]
+- typ: odstavec
+  de: |-
+    ITem mañ spalt obgemelt holtz zu scheidern / eins hoch kürtzer oder lenger / darnach mach ein kreiß eins schůhß tieff in die Erden / darnach der hauffen sein soll / darnach schlag mañ ein pfeil mitten in kreiß setz die höltzlein herumb in die erden / zwen schrit weit von einander / vnd die sollen all zu dem mittelsten gebeigt sein / darnach setz dz ander holtz rings herumb auff ein ander / vnderspick es mit dennen holtz / vñ bei einem Pfeil soll mañ ein zündtloch haben / biß auff den mittelsten pfeil / darnach bedeck mann den holtz hauffen wol mit erden / das kein Flam daruff komen mag / mañ soll oben lufftlöcher haben / vñ zündt jn darnach an / wann mann sicht das die Flamen an andern orten herauß schlagen / so werff oben zu den lufftlöchern erden daruff / vñ laß breñen lesch nit mit wasser / die Koln lenger zubehalten / das sie nit in dem Puluer verderben / so thů mañ ein wenig Atrament zun Koln / etc.
+  cs: |-
+    Dále: rozštípej výše uvedené dřevo na polena, jedno kratší či delší, potom udělej v zemi kruh hluboký jednu stopu {schůhß} podle toho, jak velký má milíř být. Pak zatluč doprostřed kruhu kůl a kolem dokola zapusť do země dřívka, dva kroky {schrit} od sebe, a ta mají být všechna nachýlena ke střednímu kůlu; potom naskládej ostatní dřevo kolem dokola na sebe, prolož je jedlovým dřívím a u jednoho kůlu ponech zapalovací kanálek {zündtloch} až ke střednímu kůlu. Poté hranici dřeva dobře přikryj hlínou, aby z ní nemohl vyšlehnout žádný plamen, nahoře však ponech průduchy, a pak ji zapal. Když je vidět, že plameny vyrážejí na jiných místech, naházej nahoře na průduchy hlínu a nech pálit; nehas vodou. Aby uhlí déle vydrželo a ve střelném prachu se nezkazilo, přidá se k uhlí trochu atramentu atd.[^3]
+poznamky:
+- n: 1
+  text: |-
+    V tisku *zu lest* (nářeční/sazečský tvar za *zu letzt*, „nakonec, posléze“).
+- n: 2
+  text: V tisku *zubrenneu* s převráceným koncovým *n* (*u*) za *zubrennen*.
+- n: 3
+  text: |-
+    Tímto odstavcem na líci listu 67 (`3-067r`, sken `385`) končí Třetí kniha (bez závěrečného kolofonu); na rubu téhož listu (sken `386`) je již vytištěn erbovní frontispis Čtvrté knihy.

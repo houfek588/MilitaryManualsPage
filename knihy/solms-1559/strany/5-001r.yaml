@@ -1,0 +1,37 @@
+id: 5-001r
+list: 1 (5. kniha)
+strana: recto
+sken: 437
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Das fünfft Bůch vom vndergraben vnd sprengen/ ein kurtzer bericht.
+  cs: |-
+    Pátá kniha o podkopávání a odstřelování: krátká zpráva.
+- typ: odstavec
+  de: |-
+    DIeweil ich dañ von der Artolorei ein beschreibung vnd vnderricht gebe/ vnd inn Figurn bringe/ so ist noch eines daß demselbigen anhenckt vnd fast behülfflich ist/ vnd gehören zusamen in ein versehung vnnd verwaltung/ nemlich vnder den Artholorei oder Zeugmeister/ vnnd ist das vndergraben der befestung vnnd derselbigen zersprengung/ nemlich maurwerck vnd erdene wel vnd zu anderem mehr vnd weitterm werck zu gebrauchen/ welches ich so vil mir möglich zu einem bessern verstant in Beschreibung vñ Figurn stelle/ wie mann darmit handeln sol/ vnder vnd vber Erden mit sampt der Rüstung zu arbetten/ wie vnd was maß vnd Form die sein sollen/ wie ich die vnder handen gehabt vnd gebraucht hab/ auß welchem sich ein jeglicher wol richten kan/ der etwas darumb weiß/ oder das für Augen nemen/ nachdencken vnd befleissen wil/ ein guten bericht geben sol.
+  cs: |-
+    Poněvadž tedy podávám popis a poučení o artilerii {Artolorei} a uvádím je v obrazech, jest tu ještě jedna věc, která k ní přináleží a je jí velmi nápomocna, takže obě náležejí společně do jedné péče a správy, totiž pod mistra artilerie {Artholorei} neboli zbrojmistra {Zeugmeister}. A tou jest podkopávání {vndergraben} opevnění {Befestung} a jeho rozmetání {sprengen}, totiž zdiva i hliněných valů {Wall} a užití k dalším a obšírnějším pracím. Což zde, pokud mi možno jest, kladu pro lepší srozumitelnost do popisu a vyobrazení, jak se má při tom postupovat pod zemí i nad zemí spolu s nářadím {Rüstung} k práci, jakou a jakou míru a podobu mají mít, jak jsem je měl sám v rukou a používal – podle čehož se může každý dobře řídit, kdo o tom něco ví, nebo kdo si to vezme před oči, rozmyslí a přičiní se, tak aby to poskytlo dobrou zprávu.
+- typ: odstavec
+  de: |-
+    Wann dann ein grosser Herr oder Potentat der Krieg füren muß vnd nit wol absein kan/ auch mit Geschütz vnd dergleichen gefast sein muß/ vnd alle weg gesucht werden wöllen/ damit man die Befestung die zugewinnen vnderstanden werden/ nötigen vñ in kurtzer zeit mit wenigem vnkosten erobern künde/ ist bei mir zu erachten das solches vndergraben vnd Sprengen auch ein stück darzu sein werde/ so wil ich dasselbig bei die Artolorei verordnen/ das es durch den Artolorei Meister auch versehen vnd angestalt soll werden/ vnd alle Rüstung was darzu gehört zugericht vnd im vorrath sei in dem Zeughauß gleich anderm geschütz/ Rüstung vnd vorrath.
+  cs: |-
+    Musí-li tedy veliký pán či mocnář vést válku a nemůže se jí dobře vyhnout, musí být vybaven i děly {Geschütz} a podobnými věcmi a musí hledat všechny cesty, jak by {Befestung}, jež se snaží získat, mohl přinutit ke kapitulaci a v krátkém čase s malým nákladem dobýt. Dle mého soudu je k tomu jedním z prostředků právě i takovéto podkopávání a odstřelování; chci je tedy přiřadit k artilerii {Artolorei}, aby o ně pečoval a zařizoval je mistr artilerie {Artolorei Meister}, a aby veškerá výbava {Rüstung}, jež k tomu náleží, byla připravena a držena v zásobě ve zbrojnici {Zeughauß} stejně jako ostatní děla, výzbroj a zásoby.
+- typ: odstavec
+  de: |-
+    Deßgleichen sol ein sollicher grosser Herr vnd Potentat der ein solches groß geschütz hat/ Kreig füren vud brauchen muß auch etlich Bergknappen haben/ die sich deß grabens wol verstehen vnnd gebraucht haben/ dieselbigen sollen bei dem Geschütz vnd Zeughauß sein/ vnd vnder dem General Artolorei oder Zeugmeister/ wie andere Büchsenmeister vnnd Artolorei oder Zeugdiener vnd wartter gebürt.
+  cs: |-
+    Rovněž takový veliký pán a mocnář, jenž má taková velká děla, musí vést válku a potřebovat je, má mít i několik horníků {Bergknappen}, kteří se dobře vyznají v kopání a mají v tom zkušenost; ti mají být při dělech a ve zbrojnici {Zeughauß} a pod generálem artilerie {General Artolorei} či zbrojmistrem {Zeugmeister}, jak přísluší ostatním puškařům {Büchsenmeister} a služebníkům či dozorcům zbrojnice {Zeugdiener}.[^1]
+- typ: odstavec
+  de: |-
+    Ja es wollen etlich sagen solcher vnkusten der auff die Person geht sei wol vnnot dann mann braucht die langsam/ vnnd wann mann solche Arbeit für nemen wöl/ fünde mann allezeit vnder den
+  cs: |-
+    Nuže, někteří namítají, že takový náklad na ty osoby je prý zbytečný, neboť se jich užívá zřídka, a kdyby člověk takovou práci chtěl podniknout, našel by vždy mezi
+poznamky:
+- n: 1
+  text: |-
+    Složený list 1 nese v originále pouze signaturu `A ij` bez tištěného čísla listu (foliace v 5. knize je tištěna až od listu 7 na skenu 449). V tisku je slovo „Kreig“ (místo *Krieg*) a „vud“ (*vnd*) zřejmou sazečskou přesmyčkou.

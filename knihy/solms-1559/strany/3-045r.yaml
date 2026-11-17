@@ -1,0 +1,57 @@
+id: 3-045r
+list: '45'
+strana: recto
+sken: 341
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    THů dem also / picke die Eysen so rosten sie nicht / thů Atrament darzů / so faullen die kolen nit / den Salpeter vnd Schwefel als ob geschriben steht / darnach richt dich.
+  cs: |-
+    Postupuj takto: natři železa smůlou,[^1] aby nezrezavěla, přidej skalici (*Atrament*),[^2] aby se nekazilo dřevěné uhlí {kolen}, a ledek {Salpeter} se sírou {Schwefel} použij tak, jak je psáno výše; tím se řiď.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann Feurpfeil machen soll die sich selber anzinden wohin sie geschossen werden / also das die Feindt darauff nit mercken es sei dann das gar grosser windt were.
+  cs: Jak se mají dělat ohnivé šípy {Feurpfeil}, které se samy vznítí tam, kam jsou vystřeleny, takže si jich nepřátelé nevšimnou, ledaže by vál velmi silný vítr
+- typ: odstavec
+  de: |-
+    NIm zunter vnd schneid den so breit als zwen zwerch hälmer sind / das ist eins kleinen halben zwerch fingers breit vnd zweier zwercher finger lang / vnd scheub den zunter vor in das secklein / gegen dem schafft an / daß er das secklin mög angerüren vnd erlangen / wenn du denn schiessen wilt / so zindt den zunter an / vnnd scheuß / so brennt er hindersich auff das Puluer / vnd wenn der pfeil geschossen wirt / da er hin gehört / darnach du jm zunter geben hast / darnach geht er auff.
+  cs: |-
+    Vezmi troud a nařež jej tak široký jako dvě stébla na šířku, totiž na šířku necelého půl prstu a na délku dvou prstů, a vsuň ten troud předem do pytlíčku u dříku, aby se pytlíčku mohl dotýkat a dosáhnout na něj. Když pak chceš střílet, zapal troud a vystřel; on doutná nazpátek k prachu {Puluer}, a když šíp doletí tam, kam patří, vzplane podle toho, kolik troudu jsi mu dal.
+- typ: nadpis
+  uroven: 3
+  de: Wiltu gar gut schlagend Feurpfeil machen / oder andere / etc.
+  cs: Chceš-li zhotovit velmi dobré třaskavé ohnivé šípy nebo jiné atd.
+- typ: odstavec
+  de: |-
+    SO mach ein träg Puluer / wie hernach geschriben steht / nim darnach ein leinen tuch einem langen strich / in der maß / als du jnne haben wilt / vnd nim gůt reisten werch / leg das auff das tuch / nach der leng / vnd bestreu dises mit dem tregen Puluer / vnd wind dasselb garhübschlich vmb den pfeil / bewindt jn dann mit gůtem fadem / der starck ist / vnd thů den pfeil in zergangen schwefel / der mit ein wenig Salpeter gemischt sei / oder mit Gummi Armeniacum / oder thů den pfeil in gesoten hartz / vnd ein wenig Fürnuß darunter / laß das rundt vmb den pfeil hefften vnd gehn / aber das vorgenant treg Puluer soltu also machen / nim drei driteil kolen / ein dritteil schwefels / vnd ein alt weiß leinen tuch / bren das zu Puluer auff einer ziegel / vnd leg das Puluer auff ein ander weiß tuch / putz das sauber zusamen / vnd stoß das vornen in den zuerlassen schwefel / das er darnach behaffte / bind es hinden auff des pfeils boltz.
+  cs: |-
+    Připrav tedy pomalý prach, jak je psáno dále; potom vezmi lněné plátno v dlouhém pruhu takové míry, jakou chceš mít, vezmi dobrou vyčesanou lněnou koudel,[^3] polož ji po délce na plátno, posyp ji tím pomalým prachem a docela úhledně ji oviň kolem šípu. Pak jej oviň dobrou pevnou nití a vlož šíp do rozpuštěné síry smíchané s trochou ledku nebo s arménskou klovatinou (*Gummi Armeniacum*),[^4] anebo jej ponoř do vařené pryskyřice s trochou fermeže a nech to kolem dokola šípu přilnout a ztuhnout. Zmíněný pomalý prach pak máš udělat takto: vezmi tři třetiny uhlí,[^5] jednu třetinu síry a staré bílé lněné plátno, spal je na cihle na prach, nasyp ten prach na jiné bílé plátno, shrň jej čistě dohromady, namoč jej vpředu do rozpuštěné síry, aby potom držel, a přivaž to vzadu na šípový svorník.
+- typ: odstavec
+  de: |-
+    Item der schlachende pfeil soll holtz sein / vnd hinden mit einem stefft als du wol weist / vnd ein kleines löchlein in den pfeil gehn / darin soltu gůt Büchsen Puluer thun / damit das der pfeil vol werdt / vnd thů dann ein Sulfur Trat / mit eim schwemblein in das löchlein / das gibt dem Puluer die anzindung / das er zerspringt / du solt aber die pfeil außwendig vmb fassen / zu gleicherweiß als du den vorgenanten feur pfeil gefast hast.
+  cs: |-
+    Dále má být třaskavý šíp dřevěný [správně: dutý][^6] a vzadu s čepem, jak dobře víš, a do šípu má vést malá dírka, do níž máš nasypat dobrý puškový prach {Büchsen Puluer}, aby se šíp naplnil; pak vlož do té dírky sírový drát s kouskem troudové houby,[^7] což prach zapálí, takže se šíp roztrhne. Šíp však máš zvenčí obalit stejným způsobem, jakým jsi obalil výše uvedený ohnivý šíp.
+poznamky:
+- n: 1
+  text: |-
+    Něm. *picken* (*pichen*) – natřít či napustit smůlou (*Pech*), aby železné hroty nerezavěly.
+- n: 2
+  text: |-
+    *Atrament* (lat. *atramentum*) – zelená či modrá skalice (vitriol).
+- n: 3
+  text: |-
+    *Reisten werch* – dlouhá vyčesaná lněná koudel (*Reiste* = přástka lnu).
+- n: 4
+  text: |-
+    V tisku stojí *Gummi Armeniacum* – zřejmě záměna za *Gummi ammoniacum* (čpavek / amoniaková pryskyřice) nebo *Gummi arabicum* (arabská guma).
+- n: 5
+  text: |-
+    Tisk doslova uvádí *drei driteil kolen / ein dritteil schwefels* („tři třetiny uhlí, jednu třetinu síry“) – jde patrně o písařský omyl místo „tři díly“ (či „tři čtvrtiny“) uhlí a jeden díl síry.
+- n: 6
+  text: |-
+    Tisk má zjevně zkomolené *holtz* („dřevo“) místo *hol* („dutý“), protože vzápětí popisuje plnění dutiny prachem, aby se šíp výbuchem roztrhl.
+- n: 7
+  text: |-
+    *Sulfur Trat* (sírou napuštěný drátek či nit) s kouskem zápalné houby (*schwemblein*, tj. *Zündschwamm*) jako zpožďovací roznětka.

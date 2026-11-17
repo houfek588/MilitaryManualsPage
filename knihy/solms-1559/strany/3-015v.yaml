@@ -1,0 +1,36 @@
+id: 3-015v
+list: '15'
+strana: verso
+sken: 282
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    worden sei / vnd in was Kriegs vnd zeit / so bekompt ein Herr mit der zeit solche erfarung / vnd kunst mit sampt den geschickten personen darzů / vnd vnderhelt darmit seine arme leut / Adel vnnd Landtsessen / bekompt des ein gůt gunst vnd willen von jhnen / weists dahin das sie lust gewinnen außzuziehen vnd zu lernen / damit erhelt ein Herr sein Landt / vnd hat selbst Leut.
+  cs: |-
+    a v jaké válce a době. Tak získá pán časem takovou zkušenost a umění spolu se schopnými lidmi k tomu, zachová si tím svůj chudý lid, šlechtu i zemské usedlíky {Landtsessen}, získá si tím jejich dobrou přízeň a vůli a přivede je k tomu, že dostanou chuť táhnout do pole a učit se; tím pán udrží svou zemi a má vlastní lidi.
+- typ: nadpis
+  uroven: 2
+  de: Fragstück eines Büchsenmeisters.
+  cs: Zkušební otázky pro puškaře {Büchsenmeisters}.
+- typ: odstavec
+  de: |-
+    SO ein Zeugmeister ein Büchsenmeister an nemen will / soll er jnen zuuor wol befragen vnd examiniern / damit er wissens haben mag / was er an jhm hab / seine kunst sehe / daß er seinen Herren vnd Zeugmeister der damit vmbgehn muß / zuuersorgen wisse.
+  cs: |-
+    Chce-li zbrojmistr {Zeugmeister} přijmout puškaře, má jej nejprve důkladně vyptat a přezkoušet, aby věděl, co v něm má, poznal jeho umění a věděl, jak zaopatřit svého pána i sebe jako zbrojmistra, jenž s ním musí zacházet.
+- typ: odstavec
+  de: |-
+    Er soll jn auch fragen / ob er ein Paßpfort hab / wirt ers jm sagen / vnd sein Paßpfort zeigen / soll er sagen / Mein gesell du bist on zweifel des verstands / daß du wol weist was einem Herrn auff eim Büchsenmeister steht / besonder da er sein vertrawen auffstellen muß. Derhalben wirst du dich nicht beschweren / daß ich dich nach deiner kunst befrag / höre vnd erfare was du kanst / was dein thůn sein will / damit ich dich nach deiner kunst halten kön / vnd zu beuelhen wisse / dann wie ich einen befindt / darnach halt ich jn mit besoldung vnd beuelch / Dann es ist ein vnderscheidt zwischen einem Büchsenmeister vnnd Büchsenschützen / einer ist vor dem andern zuhalten / darumb muß ich das wissen / Derhalben wöllest dich meines fragens nit beschweren vnnd mir sagen / ob du dich vor ein Büchsenmeister oder schlechten Büchsenschützen außgebst / Spricht er dann / geb sich vor einen Büchsenmeister auß / wöl auch ein vertretten / vnnd mög wol leiden daß er jn derhalben fragt / es soll jhm nicht entgegen sein / dann ist er sonder zweifel recht. Spricht er aber / Ja ich bin Büchsenmeister / weiß mein stat wol zuuertretten wan es darzů kompt / will derhalben mein kunst niemants sagen noch offenbaren / Das pflegen die zuthůn welche nicht vil wissen vnd auch Schnarger seind. So jm dann also einer begegnet / mag er jhm wol sagen / Dieweil du dann deines gemüts byst / vnd mir deine kunst nicht anzeigen wilt / so kan ich mit dir nichts weiters handeln / dann ich weiß dir nicht zuuertrawen noch etwas zubeuelhen / darumb zeuch du wider heim.
+  cs: |-
+    Má se ho také zeptat, zda má průvodní list {Paßpfort}; poví-li mu to a svůj průvodní list ukáže, má mu říci: „Můj druhu, jsi bezpochyby tak rozumný, že dobře víš, co všechno pánovi závisí na puškaři, zvláště když v něj musí klást svou důvěru. Proto se nebudeš zdráhat, že se tě vyptávám na tvé umění, abych slyšel a zvěděl, co umíš a co hodláš činit, abych tě mohl odměňovat podle tvého umění a věděl, co ti poroučet; neboť jak koho shledám, tak jej držím co do žoldu {besoldung} i pravomoci. Je totiž rozdíl mezi puškařem a puškovým střelcem {Büchsenschützen} – jednoho je třeba cenit před druhým –, proto to musím vědět. Neobtěžuj se tedy mým vyptáváním a řekni mi, zda se vydáváš za puškaře, či za prostého puškového střelce.“ Řekne-li pak, že se vydává za puškaře, chce také takové místo zastávat a snese dobře, že se ho na to ptá, a nebude mu to proti mysli, pak je bezpochyby pravý. Řekne-li však: „Ano, jsem puškař, umím dobře zastat své místo, až na to přijde, ale své umění nechci nikomu říkat ani zjevovat,“ to mívají ve zvyku dělat ti, kteří mnoho nevědí a jsou také chvastouni.[^1] Setká-li se tedy s takovým, může mu směle říci: „Poněvadž jsi tedy takové mysli a nechceš mi své umění ukázat, nemohu s tebou dále nic jednat, neboť ti nevím, v čem důvěřovat ani co ti svěřit; proto táhni zase domů.“
+- typ: odstavec
+  de: |-
+    Wirt er aber sagen / Ich geb mich für kein Büchsenmeister grosser kunst oder wissenschafft auß / kan aber damit schiessen / vnd hab das gethan / ist wol geantwort / mit dem mag gehandelt werden / wie ein
+  cs: |-
+    Řekne-li však: „Nevydávám se za puškaře velkého umění či učenosti, ale střílet z toho umím a dělal jsem to,“ je to dobrá odpověď; s takovým lze jednat tak, jak
+poznamky:
+- n: 1
+  text: |-
+    Něm. *Schnarger* – chlubílkové, chvastouni (od *schnargen / schnarchen* – silácky mluvit, naparovat se).

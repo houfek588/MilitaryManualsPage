@@ -1,0 +1,74 @@
+id: 3-048r
+list: '48'
+strana: recto
+sken: 347
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: wilt du gar starck schiessen aus welcherlei Büchsen du meinst / es seien Steinbüchsen / Handtbüchsen / oder Tarras Büchsen.
+  cs: Chceš-li velmi prudce střílet z kteréhokoli děla {Büchsen}, jaké máš na mysli, ať jsou to kamenometná děla {Steinbüchsen}, ručnice {Handtbüchsen} nebo tarasnice {Tarras Büchsen}
+- typ: odstavec
+  de: |-
+    NIm zu jeder Büchsen des herten Puluers / nach dem darzů gehört vnd Büchsen starck vnd groß ist.
+  cs: |-
+    Vezmi ke každému dělu tvrdého[^1] střelného prachu {Puluers}, podle toho, kolik k němu náleží a jak je dělo silné a veliké.
+- typ: nadpis
+  uroven: 3
+  de: Auß einer Tarras Büchsen zuschiessen.
+  cs: Jak střílet z tarasnice
+- typ: odstavec
+  de: |-
+    SO fül sie mit Salpeter biß eines zwerchen fingers für das zündloch / vnd leg des herten Puluers hinein als ein vierteil eines Eiß / so lad sie denn als sie sein soll / etc. vnd scheuß es wirt erschrecklich.
+  cs: |-
+    Naplň ji tedy ledem {Salpeter}[^2] až na šířku jednoho prstu před zátravku {zündloch}, vlož dovnitř tvrdého prachu asi na čtvrtinu vejce, pak ji nabij tak, jak má být, atd. a vystřel – bude to hrozné.
+- typ: nadpis
+  uroven: 3
+  de: Hie merck wenn du auß handt Büchsen oder Tarras Büchsen schiessen solt / vnd kanst jhr nit laden / also lere ich dich wie du sie laden solt das merck / etc.
+  cs: Zde si všimni, máš-li střílet z ručnic nebo tarasnic a neumíš je nabít – takto tě naučím, jak je máš nabíjet, to si pamatuj atd.
+- typ: odstavec
+  de: |-
+    ISt das die Büchsen ein absatz hat so fül sie mit dem Puluer so ferr als der absatz ist / ist aber das sie kein absatz hat / so fül sie biß auff das vierdt oder fünfft teil / wenn du sie gar hart laden wilt / so schlach denn die Kugel hinein / biß auff das Puluer / vnd zündt an / vnd scheuß.
+  cs: |-
+    Má-li dělo komoru s osazením,[^3] naplň je prachem potud, pokud sahá osazení; nemá-li však žádné osazení, naplň je až do čtvrtiny nebo pětiny. Chceš-li je nabít velmi silně, zaraz pak dovnitř kouli {Kugel} až na prach, zapal a vystřel.
+- typ: nadpis
+  uroven: 3
+  de: wiltu schiessen mit Eisern Kugeln so vmb geuß die Form mit als groß sie sein soll.
+  cs: Chceš-li střílet železnými koulemi, oblej formu tak velikou, jaká má být[^4]
+- typ: odstavec
+  de: |-
+    NVn merck ob du gůt blei Kugel machen wilt / so mach sie nicht lenger / denn sie dick sein / nim gůt gemacht Büchsen puluer / vnd zureib es wol in einem Mörser / vnd mach es feucht mit gebrantem wein / vnd thů zu einem pfundt ein lot Quecksilber / vnd laß es trucken vnd nicht an der sonnen / so wirt es hert als kreiden.
+  cs: |-
+    Nyní dbej: chceš-li udělat dobré olověné koule[^5] {blei Kugel}, nedělej je delší, než jsou tlusté; vezmi dobře vyrobený puškový prach {Büchsen puluer}, dobře jej rozetři v hmoždíři, navlhči páleným vínem, přidej k jedné libře {pfundt} jeden lot {lot} rtuti a nech to uschnout, nikoli však na slunci – tak to ztvrdne jako křída.
+- typ: nadpis
+  uroven: 3
+  de: wiltu ein pfeil aus einer Tarras oder handt Büchsen schiessen.
+  cs: Chceš-li vystřelit šíp z tarasnice nebo ručnice
+- typ: odstavec
+  de: |-
+    SO mach den schafft des er in der Büchsen vber all geradt anlig vnd merck das der schafft vnter dem gefider gleich Kugelet sei / vnd nicht verschniten / als er in die nuß muß verschniten werden / vnd hol den schafft zu beiden seiten auß / vnd fider jn mit schweinen pörsten / vnd merck wenn du jn in die Büchsen stost / das er wol an der Kugel anlige / denn je paß er anligt / je nimder sich der schafft zu schlecht / auch merck als du den schafft außgenomen hast / das dieselben pörsten in
+  cs: |-
+    Zhotov tedy dřík tak, aby v děle všude rovně přiléhal, a dbej na to, aby byl dřík pod opeřením stejnoměrně kulatý a nikoli vyříznutý tak, jak musí být vyříznut pro ořech [kuše];[^6] vydlabej dřík z obou stran a opěř jej vepřovými štětinami. A dbej na to, abys jej, když jej zasouváš do děla, dobře přitiskl ke kouli, neboť čím lépe přiléhá, tím méně se dřík roztříští.[^7] Také dbej na to, jakmile jsi dřík vydlabal, aby tytéž štětiny ležely v
+poznamky:
+- n: 1
+  text: |-
+    „Tvrdým prachem“ (*hartes Pulver*) či později ztuženou prachovou hmotou se rozuměl lisovaný či těstovitý a vysušený prach (příp. prach silný/zrněný).
+- n: 2
+  text: |-
+    V předpise je zřejmě míněno naplnění ledku (*Salpeter*) k zesílení či oddálení zápachu/tlaku, případně jde o záměnu prachu za ledek v rukopisné předloze.
+- n: 3
+  text: |-
+    *Absatz* – stupňovité zúžení (osazení) prachové komory uvnitř hlavně.
+- n: 4
+  text: |-
+    V tisku stojí *mit* (snad elipsa pro *mit [Blei]*, „oblej formu olovem“, nebo překlep za *nit* „ne příliš velkou“); hned následující recept popisuje tvrdé směsné koule.
+- n: 5
+  text: |-
+    Přestože nadpis zmiňuje „olověné koule“ (*blei Kugel*), předpis popisuje zhotovení tvrdých prachových koulí ze rtuti a prachu (snad jako jádro či zápalná koule tvarovaná ve formě na olověné koule).
+- n: 6
+  text: |-
+    Na rozdíl od šipek do samostřílu (kuše), jejichž dřík musel mít zploštění či zářez do ořechu (*Nuß*) spouštěcího mechanismu.
+- n: 7
+  text: |-
+    Tisk má nářeční/překlepový tvar *je nimder sich der schafft zu schlecht* místo *je minder sich der schafft zerschlecht* („tím méně se dřík rozbije/roztříští“).

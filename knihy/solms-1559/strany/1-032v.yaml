@@ -1,0 +1,32 @@
+id: 1-032v
+list: '32'
+strana: verso
+sken: 74
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vngehorsamer vnnd leichfertiger / das kompt daß die Regirung kein geordnet Regiment hat / so weiß keiner war vor er sich hüten sol / drumb kan auch keiner wol mit fugen straffen / derwegen seind geordnete Regiment vnd straffen gůt / dem Herren vnd Regiment on verdechtig / dann on Ordnung geschwindt straffen das thůt die leng kein gůt / darumb ligt vil an einem gůten Regenten.
+  cs: |-
+    neposlušnější a rozpustilejší;[^1] to pochází z toho, že vláda nemá řádně zřízený řád {Regiment}, takže nikdo neví, čeho se má vystříhat, a proto také nikdo nemůže právem trestat. Z toho důvodu jsou řádně stanovené zřízení a tresty dobré a vůči pánovi i vládě nepodezřelé, neboť trestat zbrkle bez řádu nedělá natrvalo dobrotu; proto mnoho záleží na dobrém vladaři.
+- typ: odstavec
+  de: |-
+    Ein gůter Regent soll seine Regirung dahin richten / das mann jn förcht vnd lieb / so regirt er wol / gewint ein gehorsam Volck / aber die Regirung so ein zeitlang gewesen ist / die ist fast vngleich vnd partheisch gewesen / was die auch gůt einigkeit gebracht hat ist gesehen worden / darumb so ist ein gleicheit gůt / Gott gebe was Nation es seien / so soll mann gleiche Regirung vnd Justitien durch auß haben / so wirt gehorsam durch auß gleich / darumb so kan ein Oberster nit baß / dann daß er seine Beuelchsleut der Ampter zu gleicher regirung vnd Justitien anhalt / vnd wol daruff sehe / dann warlich das Kriegsuolck ist gar vnwillig worden vber die vngleiche regirung / Darumb ist sich wol zuuermuten / wann mann wider Teutsch Kriegßleut haben wirt besonder von Reuttern / sie werden nicht so frei wie die bestallung mit sich bringt / in die Justitien / sonder derselbigen zuuor bewust / einlassen vnnd bewilligen / dann es hat wol vrsach / Darumb so hab ich solliches jrer derhalben wegerung / der mann sich versehen můß / in einen Artickel mit seiner antwort die jnen wider darauff zugeben sein wirt oder möcht / gesetzt / auff daß sie damit möchten gestilt / biß sie zum hauffen gebracht / werden / Wie dann darnach mit jhnen weitter zu handeln sein möcht / darmit sie billich zu frieden sein můsten vnd auch thůn werden / ist hieuorn in diser Kriegs beschreibung gnůg daruon angezeiget / vnd bericht gegeben worden.
+  cs: |-
+    Dobrý vladař má svou správu vést tak, aby se ho báli a milovali ho; tehdy vládne dobře a získá poslušný lid. Avšak správa, jaká tu nějaký čas byla, byla velmi nestejná a stranická, a jakou dobrou svornost přinesla, to bylo vidět. Proto je dobrá stejnost: dej Bůh, ať jsou z jakéhokoli národa, má se všude zachovávat stejná správa a spravedlnost {Justitien}, pak bude i poslušnost všude stejná. Proto nemůže nejvyšší velitel {Oberster} učinit lépe, než že bude své velitele {Beuelchsleut} v úřadech přidržovat ke stejné správě a spravedlnosti a dobře na to dohlížet; neboť vpravdě je válečný lid {Kriegsuolck} nad nestejnou správou velice roztrpčen. Proto se lze plně nadát, že až se budou opět najímat němečtí vojáci {Kriegßleut}, zvláště z jezdců {Reuttern}, nepoddají se spravedlnosti tak volně, jak stanoví služební list {bestallung}, aniž by ji předem znali, a nevpustí se do ní ani k ní nesvolí – a má to jistě svůj důvod. Proto jsem takové jejich zdráhání, s nímž je třeba počítat, vložil do článku i s odpovědí, která se jim na to má nebo může dát, aby tím byli uklidněni, dokud nebudou přivedeni k houfu {hauffen}; jak s nimi pak jednat dále, aby s tím po právu museli být spokojeni a také tak činili, o tom bylo již dříve v tomto válečném popisu dostatečně vyloženo a podána zpráva.
+- typ: odstavec
+  de: |-
+    Vnd so wolt oder würde die Bestallung also gestalt vnd mit eingeleibt werden / daß die Reutter solten des Kriegßherrn Ordnung wann er die machen wirdt / gehorsam sein / geleben vnnd nach kommen / deßgleichen derselbigen gesetzten Obrigkeit vnnd Verwaltern der Justitien.
+  cs: |-
+    A tak by byl nebo měl být služební list sestaven a do něj vloženo, že jezdci mají být poslušni řádu válečného pána {Kriegßherrn}, až jej vydá, řídit se jím a plnit jej, stejně jako jeho ustanovené vrchnosti a správcům spravedlnosti.
+- typ: odstavec
+  de: |-
+    Darauff mögen die Kriegßleut wol sagen vnnd antworten / Daß sie anders nicht gesinnet seien / dann zuthůn was ehrlichen Kriegsleuten zustehe / vnd jhre Vorfaren gethan haben / dann es sei war daß die Teutschen seit der Römer zeit her / jhre Krieg allezeit nach der Römer gebrauch vnd Ordnung gefürt vnd gehalten / jre Kriegsampter besetzt vnd geregiert nach aller gůter Pollicei / mit gůten
+  cs: |-
+    Na to mohou vojáci oprávněně říci a odpovědět, že nemají jiného úmyslu než činit to, co přísluší čestným vojákům a co činili jejich předkové; neboť je pravda, že Němci od dob Římanů vždy vedli a řídili své války podle římského zvyku a řádu, své válečné úřady obsazovali a spravovali podle všeho dobrého veřejného řádu {Pollicei}, s dobrými a
+poznamky:
+- n: 1
+  text: |-
+    V tisku zkráceně *leichfertiger* (bez *t* za *h*) za *leichtfertiger*; v českém překladu odstraněno rozdělení slova *vngehorsamer* přes přelom stran z konce `1-032r`.

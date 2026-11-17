@@ -1,0 +1,54 @@
+id: 3-064v
+list: '64'
+strana: verso
+sken: 380
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Salpeter ist von natürlicher art kalt vñ trucken im vierden grad / er wechst in drei weg / erstlich an den Bergen / zum andern im Felde an harten steinen / wie Alandt so hart vnd weyß / vnd schadt jhm kein Regen der drit wechst an den Maurn / vnd in den feuchten Kellern / derselbig ist der best / Auch soltu wissen das Salpeter ein Saltz ist / vnd ist röß / vnd beisset fast / vnd heisset nach Latein steinsaltz / vnd wenn er geleuttert wirt / dann heist er nit mehr Salpeter / sonder Saluiter / dañ er wirt also kalt vnd trucken vom sieden / wo jn ein hitz begreifft / mag er nit bleiben von grosser kelten wegen / die er hat.
+  cs: |-
+    Ledek {Salpeter} jest svou přirozenou povahou studený a suchý ve čtvrtém stupni.[^1] Roste trojím způsobem: zaprvé na horách; zadruhé v poli na tvrdém kamení, tvrdý a bílý jako kamenec (*Alandt*),[^2] a neškodí mu žádný déšť; třetí roste na zdech a ve vlhkých sklepích, a ten jest nejlepší. Také máš vědět, že ledek jest sůl, jest prudký (*röß*), silně štípe a latinsky se nazývá kamenná sůl (*sal petrae*); a když jest vyčištěn, pak se již nejmenuje *Salpeter*, nýbrž *Saluiter* (sanýtr), neboť vařením se stane tak studeným a suchým, že jakmile jej zachvátí žár, nemůže obstát pro veliký chlad, který v sobě má.[^3]
+- typ: nadpis
+  uroven: 3
+  de: Wie mann Salpeter leuttern soll / der harthebig ist.
+  cs: Jak se má čistit ledek, který jest nepoddajný
+- typ: odstavec
+  de: |-
+    LAß jn malen daß er klein werde / darnach thů jn in einen Kessel / gieß laugen von dem Kalch gemacht darüber / vnd rür jn durch einander / laß dann drei tag stehn / darnach seud jn wider vber einem Feur / also das zwei theil einsiede / das vbrig seig durch ein Tůch / vnd was in dem Tůch bleibt / das siede inn einem starcken Essig auch das halb theil ein / darnach thů es wider ab vnd laß stehen biß er kalt wirt / vnd gieß daß wasser wider ab / so hat mann gůten Salpeter. Nota in drei theil Wasser ein wenig Essig.
+  cs: |-
+    Nech jej semlít nadrobno, pak jej dej do kotle, nalij na něj louh připravený z vápna, promíchej jej a nech tři dny stát. Potom jej znovu vař nad ohněm tak, aby se dvě třetiny vyvařily, zbytek přeceď přes plátno, a co v plátně zůstane, to vyvař v silném octě rovněž na polovinu; pak to opět odstav, nech stát, dokud to nevychladne, a vodu znovu slij – tak získáš dobrý ledek. Poznámka: na tři díly vody trochu octa.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann Salpeter helffen soll der nicht gnůg geleuttert ist.
+  cs: Jak pomoci ledku, který není dostatečně vyčištěn
+- typ: odstavec
+  de: |-
+    NEm lautter Brůnwasser in ein schönen Kessel / wärm es biß schier sieden will / schüt dann Salpeter darein laß jn sitlich sieden / daß er nit vbergeht / vnd wañ er zwen oder drei waln thůt / so nim ein sauber höltzlin vnd stoß darein / tröffs auff ein glüenden Koln / brennen dann die tropffen / so hat er gnůg / auch mag mann die tropffen auff ein wüllen Tůch treiffen / werden sie wie gefrorn Eyß / dann hat ers gnug / laß mann es kalt werden / vnnd seig das Wasser ab durch ein dick Tůch in ein Becken / vnd leg dann vier oder fünff höltzlin darein laß zwen tag vnd nacht stehn / dañ sicht mañ wol ob sichs anhenckt / dann seig es in ein sauber geschirr / vnd trücknen den salpeter.
+  cs: |-
+    Vezmi čistou studniční vodu do čistého kotle, zahřej ji, až se téměř chystá vařit, pak do ní nasyp ledek a nech jej mírně vřít, aby nepřetekl. A když dvakrát nebo třikrát přejde varem, vezmi čisté dřívko, ponoř je dovnitř a kápni na řeřavý uhel {Koln}: hoří-li kapky, má dost; anebo lze kapky nakapat na vlněné sukno – ztuhnou-li jako zmrzlý led, má dost. Pak to nech vychladnout, přeceď vodu přes husté plátno do mísy, vlož do ní čtyři nebo pět dřívek a nech dva dny a dvě noci stát; pak je dobře vidět, zda se na ně [ledek] chytá. Poté to slij do čisté nádoby a ledek usuš.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    wie mann den vorgenanten Salpeter leuttern soll / daß er sich reinigt von allem das nit zu jhm gehört.
+  cs: |-
+    Jak se má výše uvedený ledek čistit, aby se zbavil všeho, co k němu nepatří
+- typ: odstavec
+  de: |-
+    NEm Alaun oder Kupfer wasser vnd gemein saltz / laß alles mit einander sieden.
+  cs: |-
+    Vezmi kamenec nebo skalici (*Kupfer wasser*)[^4] a obyčejnou sůl a nech vše společně vařit.
+poznamky:
+- n: 1
+  text: |-
+    Podle dobové galénsko-scholastické nauky o živlech a kvalitách má každá látka jeden ze čtyř stupňů horkosti/chladu a vlhkosti/suchosti.
+- n: 2
+  text: |-
+    *Alandt* – zde nářeční tvar za *Alaun* („kamenec“); BSB OCR chybně četlo *landt*.
+- n: 3
+  text: |-
+    Dobový výklad výbuchu střelného prachu pomocí střetu protikladných živlových kvalit (extrémního chladu ledku a ohnivé horkosti síry).
+- n: 4
+  text: |-
+    *Kupferwasser* („měděná voda“) – dobový název pro zelenou či modrou skalici (vitriol).

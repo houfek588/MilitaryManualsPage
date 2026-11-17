@@ -1,0 +1,67 @@
+id: 3-051v
+list: '51'
+strana: verso
+sken: 354
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    ITem mann neme starck grob Pappir auff einander so groß wie der klotz sein soll / vnd schlag den klotz nit gantz auff das Puluer / beleg den stein mit einem harten tůch / das getrungen neben die Kugeln mit zwicken / darnach die Büchs in gleich gewicht gerecht / angezünt / so thůt der stein 10. oder 20. sprüng / vnd die klotz Büchsen sollen vorn dick sein daß sie nicht zerspringen.
+  cs: |-
+    Dále vezmi silný hrubý papír na sobě slepený tak velký, jak velká má být zátka {klotz}, a nezarážej zátku docela až na střelný prach {Puluer}; kámen {stein} oblož pevným plátnem a vtlač jej těsně vedle koulí {Kugeln} s klínky. Potom vyrovnej dělo {Büchs} do rovnováhy a zapal je – tak kámen udělá 10 nebo 20 odskoků; a taková zátková děla mají být vpředu silná, aby se neroztrhla.
+- typ: nadpis
+  uroven: 3
+  de: Zůschiessen daß es niemand höret.
+  cs: Jak střílet tak, aby to nikdo neslyšel
+- typ: odstavec
+  de: |-
+    ITem mann lege ein wenig Burias in das Puluer / so Kugelt der Salpeter / vnd Schwefel / vnd schlecht hinweck.
+  cs: |-
+    Dále dej do prachu trochu boraxu (*Burias*),[^1] a tak se ledek {Salpeter} a síra {Schwefel} sbalí a vyrazí ven [tiše].
+- typ: nadpis
+  uroven: 3
+  de: Ein harten schos zuthun.
+  cs: Jak vypálit tvrdou ránu
+- typ: odstavec
+  de: |-
+    ITem mann thů spitzig glaß / vnd tödt Quecksilber in das Puluer / vnder ein pfundt Puluers / den Quecksilber tödt mann in einem heissen Schwefel.
+  cs: |-
+    Dále dej do jedné libry {pfundt} prachu rozetřené[^2] sklo a usmrcenou rtuť;[^3] rtuť se usmrcuje v horké síře.
+- typ: nadpis
+  uroven: 3
+  de: Ein hagel schos zuschiessen.
+  cs: Jak vystřelit kartáčovou ránu {hagel schos}
+- typ: odstavec
+  de: |-
+    NIm kißling / vnd stoß die in die Büchs also vil du darein bringen magst / vnnd heiß dir machen ein halbe Kugel / von holtz die gar eben die Büchsen fülle / vnd fül das ronde Puluers / vnnd treib den klotzen für jn / vnd nim die halb Kugel vnd ker das sinbel in den klotzen vnd kere das flach herauß vnd leg des kißling auff das flach neben einander / das einer den andern nit anrür / vnd scheub lindt erdt oder leim darzwischen / das einer den andern nit rür / vnd leg ein geleg auff die andern alweg mit der maß / das je einer zwen vorgreiffet / dann scheustu ein hagel gar meisterlich.
+  cs: |-
+    Vezmi oblázky a natlač jich do děla tolik, kolik jich tam dostaneš; nech si ze dřeva zhotovit půlkouli, která dělo docela přesně vyplní, naplň vývrt[^4] prachem a zaraž před něj zátku. Pak vezmi půlkouli, obrať její zaoblenou stranu[^5] k zátce a plochou stranu ven, na tu plochou stranu naskládej oblázky vedle sebe tak, aby se jeden druhého nedotýkal, a vlož mezi ně jemnou hlínu nebo jíl, aby se vzájemně nedotýkaly; tak kladej jednu vrstvu na druhou vždy tím způsobem, aby jeden kámen překrýval mezeru mezi dvěma spodními – tak vystřelíš kartáč docela mistrně.
+- typ: nadpis
+  uroven: 3
+  de: Heimlich schos.
+  cs: Tichá rána
+- typ: odstavec
+  de: |-
+    WIltu thun ein heimlich schoß die vnter weillen sind gar nutz / die mann nit ferr höret klopffen / so nim leimen vnd wein hefen / vnd knet jn dick als er sein soll / vnd schlag jn für das Puluer wol / vnnd damit wol bewarnet biß mit vier Büchsen / vnd verstopfft ist der Büchsen stein / so werdt der klopff klein.
+  cs: |-
+    Chceš-li vypálit tichou ránu – které bývají občas velmi užitečné –, již není zdaleka slyšet třesknout, vezmi hlínu a vinné kvasnice, uhněť je hustě, jak má být, a dobře je zatluč před prach; tím buď dobře opatřena až čtyřnásobně[^6] a dělový kámen {Büchsen stein} dobře utěsněn, a pak bude třesk malý.
+poznamky:
+- n: 1
+  text: |-
+    *Burias* (*Buras*, borax) – v renesanční ohněstrůjné literatuře se tradovala pověra, že příměs boraxu do prachu umožní bezhlučný výstřel (*schießen, daß es niemand höret*).
+- n: 2
+  text: |-
+    *spitzig glaß* – ostře nadrcené (rozemleté) sklo.
+- n: 3
+  text: |-
+    V alchymické mluvě „usmrtit rtuť“ (*Quecksilber töten*) znamená zbavit ji tekutosti smíšením a zahřátím se sírou (vznikne sulfid rtuťnatý).
+- n: 4
+  text: |-
+    V tisku stojí nejasné *das ronde Puluers* – zřejmě záměna za *das Ror des Puluers* („hlaveň prachem“) nebo ve smyslu okrouhlého prostoru hlavně pro prach.
+- n: 5
+  text: |-
+    *das sinbel* (*sinwel*) – oblá, polokulovitá strana dřevěné půlkoule.
+- n: 6
+  text: |-
+    Tisk uvádí nejasné *damit wol bewarnet biß mit vier Büchsen* – zřejmě zkomolenina či vypadlé slovo (např. *bewart biß mit vier finger* / *mit vier tůchen*, tj. opatřeno na čtyři prsty či vrstvy plátna, dokud není dělový kámen utěsněn).

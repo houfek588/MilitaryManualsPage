@@ -1,0 +1,39 @@
+id: 3-037r
+list: '37'
+strana: recto
+sken: 325
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    bindt den fein dün vmb das stecklin herumb mit eim starcken zwirnsfadem/ vnd däff das mit einem Schwefel der gemengt sei mit einem Hirten teil eines weisen hartzs/ darnach nach einer jeden art oder gattung der Eysen/ des pfeils/ warzů mann einen jeden gebrauchen wil/ mag mannes machen/ wie die Figurn hernach anzeigen werden.
+  cs: |-
+    a oviň jej pěkně ztenka kolem váčku silnou nití, a potáhni jej zápalnou směsí {däff} ze síry smíchané s třetím či čtvrtým dílem[^1] bílé pryskyřice; potom podle povahy a druhu železného hrotu šípu, k čemu chce kdo který použít, může se to zhotovit tak, jak níže ukážou nákresy.
+- typ: odstavec
+  de: |-
+    Wann du ein Feurpfeil anzinden wilt/ so mach hinden am schafft in das secklin ein loch das in den zeug geht/ vnd ein schwamen zinter oder wieg darinn. Zum andern/ mag mann dem Feurpfeil oder secklin daran vorn bei dem eysen ein loch machen/ anzinden vnd verbrennen lassen/ vnd alßdan schiessen/ dasselbig ist gůt wann mann es nit heimlich thůt/ aber wann es heimlich vnd still geschehen soll/ sein die zochen oder wiegen am besten/ doch soll einer allweg zuuor alle sachen probiern vnd versuchen mit anzinden/ damit er der sach gewiß sei.
+  cs: |-
+    Chceš-li zápalný šíp zapálit, udělej vzadu u dříku do váčku otvor, jenž sahá až do zápalné hmoty, a vlož do něj hubkový troud nebo knot. Za druhé je možné zápalnému šípu či váčku na něm udělat otvor vpředu u železa, zapálit jej, nechat rozhořet a pak vystřelit; to je dobré, když se tak nečiní tajně, má-li se však střílet potají a tiše, jsou nejlepší chomáče či knoty – každý však má vždy předem všechno vyzkoušet a otestovat se zapalováním, aby si byl věcí jist.
+- typ: odstavec
+  de: |-
+    Diß ist nun der beschluß von Feurkugeln auß den Büchsen/ vnd Feurpfeiln von den Bogen zuschiessen.
+  cs: |-
+    Tím končí výklad o střílení ohnivých koulí {Feurkugeln} z děl {Büchsen} a zápalných šípů z luků.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Volgt ein ander Rüstung von Feurwerck/ zu einem Surm gehörig.
+  cs: |-
+    Následuje jiná výzbroj {Rüstung} ohňostroje {Feurwerck} patřící k útoku {Surm}.[^2]
+- typ: odstavec
+  de: |-
+    FVr das erst/ so solt du machen von holtz/ es sei was für holtz es wöl/ ein ploch von zehen oder zwölff Schůhen/ vnd mit einer Segen inn der mit von einander spalten/ vnd dann die beiden theil inwendig beim kern außhawen wie einn Drog/ vnnd die außhawung soll so groß für genommen werden/ daß souil Puluers darinn gehe/ daß mann vermeint es sei gnůg daß solliches ploch mit gewalt möge von einander zu einem gewaltigen schlagen treiben/ dann solchs ploch wirt widerumb mit außwendigen zwingen oder durchgehenden beschloßnen scheiben auff das starcks vnd höhschst zusamen getrieben/ daß dann/ wann es angezindt wirt/ das puluer mit gewalt wie eine Büchs zerspringen muß vnd schlagen/ Darumb soll nach eines jeglichen holtz größ puluer gnüg gegeben werden/ damit es im sprengen mit gewalt schlagen muß/ solche plöcher oder höltzer gehörn inn die gräben oder geschoßnen lücken/ da mann sich stürmens hinein versicht/ solche plöcher soll mann inn die gräben legen auff ein gerüst/ daß sie nit im wasser oder kat ligen/ vnd oben widerumb zugedeckt.
+  cs: |-
+    Předně si máš zhotovit ze dřeva – nechť je to jakékoli dřevo – kládu dlouhou deset nebo dvanáct stop {Schůhen}, pilou ji uprostřed podélně rozříznout na dva díly a pak obě poloviny uvnitř při jádru vydlabat jako koryto; a vydlabání má být tak veliké, aby se do něj vešlo tolik střelného prachu {Puluers}, kolik se uzná za dostatečné, aby taková kláda mohla být mocně roztržena mocným výbuchem. Taková kláda se totiž zase zvenčí stáhne svorkami nebo průchozími okovanými obručemi co nejpevněji a nejvýše k sobě, takže když se potom zapálí, musí ji prach mocně jako dělo roztrhnout a vybuchnout. Proto se má podle velikosti každého dřeva dát dostatek prachu, aby při roztržení mocně uhodilo; takové klády či dřeva náležejí do příkopů nebo do vystřílených průlomů, kudy se očekává útok. Tyto klády se mají v příkopech položit na lešení, aby neležely ve vodě nebo blátě, a shora se mají opět přikrýt.
+poznamky:
+- n: 1
+  text: V tisku stojí chybně *Hirten teil* (sazečský překlep místo *virten teil* = „čtvrtý díl“, případně *dritten teil* = „třetí díl“).
+- n: 2
+  text: V tisku je sazečská chyba *Surm* (vypadlé *-t-*) místo *Sturm* („útok, zteč“).

@@ -1,0 +1,58 @@
+id: 1-019v
+list: '19'
+strana: verso
+sken: 48
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Zum fünfften welcher sich legen wirt gegen den Prouosen / oder seine Diener / so er auß beuelch seiner Oberkeit vnnd von Ampts wegen einen angreiffen würde / derselbig soll gefenglich eingezogen / vnd in des verwirckten stat gestelt werden.
+  cs: |-
+    Za páté, kdo se vzepře profousovi {Prouosen} nebo jeho služebníkům, když z rozkazu své vrchnosti a z moci úřadu někoho zatýká, ten má být uvězněn a postaven na místo provinilce.[^1]
+- typ: odstavec
+  de: |-
+    Zum sechsten so einer die Prouiant vorm Leger oder andern ortten so ins Leger gehörig / etwas nemen würde oder vergewaltigen / der soll vor Recht gestelt / vnd nach erkentnuß gestrafft werden.
+  cs: |-
+    Za šesté, kdyby někdo před ležením {Leger} nebo na jiných místech náležejících k ležení bral něco z proviantu {Prouiant} nebo na něm páchal násilí, má být postaven před soud {Recht} a potrestán podle soudního nálezu.
+- typ: odstavec
+  de: |-
+    Zum siebenden / wo einer on erlaubnuß auß dem Leger für die Wacht reitten würde / derselbig soll für den Feldmarschalck / zuerkennen zustraffen fürgestelt werden.
+  cs: |-
+    Za sedmé, vyjel-li by někdo bez dovolení z ležení před stráž {Wacht}, má být předveden před polního maršálka {Feldmarschalck} k rozhodnutí o potrestání.
+- typ: odstavec
+  de: |-
+    Zum achten so einer sich auff die fůterung thůn würd / vnnd vber nacht daussen blieb / sonder wissen vnd willen seiner Oberkeit / denselbigen soll der Feldmarschalck / für die Ritmeister so vnter jm / fürstellen / vnd jm seine gebürliche straff / wie erkennt / gehen lassen / dann es ist hoch darauff zu sehen / vnd vil daran gelegen / auch allerlei zuuermutten so einer vber nacht auß dem Leger / on vorwissen oder erhebliche vrsachen aussen bliebe.
+  cs: |-
+    Za osmé, vydal-li by se někdo na píci {fůterung} a zůstal přes noc venku bez vědomí a vůle své vrchnosti, toho má polní maršálek postavit před rytmistry {Ritmeister}, kteří jsou pod ním, a dát nad ním vykonat náležitý trest, jak bude uznáno; neboť na to je třeba přísně dohlížet a velmi na tom záleží, a je také nutno leccos podezřívat, zůstane-li někdo přes noc mimo ležení bez vědomí velitelů či závažných důvodů.
+- typ: odstavec
+  de: |-
+    Zum neunden so mann wirt in der freundt Landt sein / vnd hinaußreiten die armen vnderthanen so freundt sein / plündern vnd etwas nemen / so sollen die Ritmeister solches den armen Leuten an gelt widerumb erstatten / vnnd den jenigen so solches gethan an jhrer Monatlichen Besoldung abziehen / weitter dann das rauhe futer / vnd was zugelassen ist / derselbig soll für Recht gestelt / vnnd wie ein Rauber gestrafft werden / dann mann soll die vnderthanen vmb jhr gelt vnd Schatzung schützen / schirmen / handthaben / vnd nicht wie Feindt halten.
+  cs: |-
+    Za deváté, bude-li se vojsko nacházet v zemi přátel a někdo vyjede ven drancovat ubohé poddané, kteří jsou přátelé, a něco jim brát – nad rámec hrubé píce a toho, co je dovoleno –, mají to rytmistři chudým lidem nahradit v penězích a srazit těm, kdo to učinili, z jejich měsíčního žoldu {Besoldung}; a provinilec má být postaven před soud a potrestán jako lupič, neboť poddané je třeba za jejich peníze a berně chránit, hájit a zastávat se jich, a ne s nimi jednat jako s nepřáteli.
+- typ: odstavec
+  de: |-
+    Zum zehenden wo einer ein Marcatanten beleidigt in oder vorm Leger / ist derselbig dem Feldmarschalck verfallen.
+  cs: |-
+    Za desáté, ublíží-li někdo markytánovi {Marcatanten} v ležení nebo před ležením, propadá takový člověk trestu polního maršálka.
+- typ: odstavec
+  de: |-
+    Zum eilfften wann einer nach besetzter Wacht ein Lermen oder balgen wirt machen / derselbig soll gefenglich eingezogen / vnd für Recht gestelt werden / vnd was jm erkennt wider faren lassen.
+  cs: |-
+    Za jedenácté, způsobí-li někdo po rozestavení stráže poplach {Lermen} nebo rvačku, ten má být uvězněn, postaven před soud a má se mu dostat toho, co mu bude přiřčeno.
+- typ: odstavec
+  de: |-
+    Zum zwölfften wann einer nach besetzter Wacht / ein Büchsen abscheust / derselbig soll gefenglich eingezogen / vnd für Recht gestelt werden / dann mann acht ein solchen schuß / nach besetzter Wacht für ein zeichen odder Kreidenschuß / darumb soll auff solches wol acht gehabt werden.
+  cs: |-
+    Za dvanácté, vystřelí-li někdo po rozestavení stráže z pušky {Büchsen}, ten má být uvězněn a postaven před soud; neboť takový výstřel po rozestavení stráže se pokládá za znamení neboli výstřel polního znamení {Kreidenschuß},[^2] proto se má na něco takového dobře dávat pozor.
+- typ: odstavec
+  de: |-
+    Zum dreizehenden so einer würd auff die Wacht geschaffen / vnd die nit thůn wolt / vnd also durch jnen vnderbliebe / so sol demselbigen sein Monatliche Besoldung auff alle seine Pferde inbehalten / vnd als ein vngehorsamer auß dem Leger on Paßbort verschafft werden.
+  cs: |-
+    Za třinácté, byl-li by někdo určen na stráž, nechtěl ji konat a stráž by tak jeho vinou zůstala neobsazena, má mu být zadržen jeho měsíční žold na všechny jeho koně a jako neposlušný má být vyobcován z ležení bez průvodního listu {Paßbort}.
+poznamky:
+- n: 1
+  text: Tj. má nést trest, jenž měl postihnout toho, komu bránil v zatčení.
+- n: 2
+  text: |-
+    *Kreidenschuß* – smluvený poplašný či signální výstřel (*Kreide* = polní znamení / pokřik).

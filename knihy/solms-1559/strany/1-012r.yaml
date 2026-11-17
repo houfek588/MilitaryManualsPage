@@ -1,0 +1,41 @@
+id: 1-012r
+list: '12'
+strana: recto
+sken: 33
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Vnd nach solchem so soll der Musterherr einen nach dem andern zu jm reiten lassen / vnnd die handt von jhnen nemen / wie gehört / vnd soll sie nit schweren lassen / dann er nimpt die handt in eidtsstat von jnen / aber von keinem Knecht soll er die pflicht nemen / er habe dann sein eigen Pferdt / wie Einspenigen vnd dergleichen / dann die Knecht seind jhren Junckern vorhin zudienen vnd bei jnen zu bleiben verpflicht / vnd seind nit ledige Knecht wie die Landtsknecht / dann ein jeder Landtsknecht ist vor sich selber da.
+  cs: |-
+    A nato má přehlídkový komisař {Musterherr} nechat jednoho po druhém přijet k sobě a přijímat od nich podání ruky, jak bylo řečeno; nemá je však nechávat přísahat {schweren}, neboť podání ruky od nich přijímá místo přísahy. Od žádného jezdeckého čeledína {Knecht} však nemá závazek {pflicht} brát, ledaže by měl vlastního koně, jako jednokoní jezdci {Einspenigen}[^1] a podobně – neboť čeledíni jsou už předem zavázáni sloužit svým junkrům a zůstávat u nich a nejsou to svobodní žoldnéři jako lancknechti {Landtsknecht}, poněvadž každý lancknecht je tu sám za sebe.
+- typ: odstavec
+  de: |-
+    Anfenglich sollen vnnd werdet jhr schweren / der Römischen Keiserlichen Maiestat vnserm Allergnedigsten Herrn / wider alle jhrer Römische Keiserliche Maiestat vnd des Heiligen Römischen Reichs feindt / niemants außgenomen / getrewlich zu dienen / jhrer Römische Keiserliche Maiestat schaden zuwenden / fromen zu werben.
+  cs: |-
+    „Předně budete přísahat, že Římskému císařskému Veličenstvu, našemu nejmilostivějšímu pánu, budete věrně sloužit proti všem nepřátelům Jeho Římského císařského Veličenstva a Svaté říše římské {Heiligen Römischen Reichs}, nikoho nevyjímaje, škodu Jeho Římskému císařskému Veličenstvu odvracet a prospěch mu zjednávat.
+- typ: odstavec
+  de: |-
+    Deßgleichen der Römische Keiserliche Maiestat vnd derselben Obersten Feldhauptman / als in Stat jhrer Römische Keiserliche Maiestat / vnnd wer auch sonst von derselben verordnet wirt / auch allen andern Kriegßordnungen / so jhre Römische Keiserliche Maiestat in disem zug nach der notturfft ordnen vnd vernemen wirt / in allem was Kriegßleuten zuthůn gebürt vnd müglich gehorsam leisten vnd euch gebrauchen lassen / es sei in Zügen / Wachten / Schlachten / Scharmützeln / Stürmen / auch keinen zug zu den Feinden / vnd von den Feinden in keinerlei gestalt nit abschlagen / nach der Römische Keiserliche Maiestat gelegenheit / vnd wo dasselbig von nöten sein wirt / vnd alles anders was in ewern entpfangnen bestallungen / vnd dargegen gebürenden Reuers begriffen vnd sonst ehrlichen Kriegßleuten vnd Reisigen zustehet / getreulich / stet / vest / vnuerbrüchlichen zuhalten / vnd in allem geleben vnnd nach komen on alle geuerde vnd Argelist / so war vns Gott helffe / vnnd sein heiliges Wort.
+  cs: |-
+    Rovněž tak Římskému císařskému Veličenstvu a jeho nejvyššímu polnímu hejtmanovi {Obersten Feldhauptman}, jakožto na místě Jeho Římského císařského Veličenstva, i tomu, kdo by jinak byl od něho ustanoven, a také všem ostatním válečným řádům, jaké Jeho Římské císařské Veličenstvo v tomto tažení {zug} podle potřeby nařídí a stanoví, ve všem, co válečníkům {Kriegßleuten} činit přísluší a je možné, poslušnost prokazovat a nechat se k tomu použít – ať při taženích {Zügen}, strážích {Wachten}, bitvách, šarvátkách či útocích {Stürmen} –, ani žádné tažení proti nepřátelům či od nepřátel nijakým způsobem neodmítat podle potřeb Jeho Římského císařského Veličenstva a kdekoli toho bude zapotřebí; a všechno ostatní, co je obsaženo ve vámi přijatých služebních listech {bestallungen} a v náležitých reverzech {Reuers} na oplátku vydaných a co jinak přísluší čestným válečníkům a jízdným {Reisigen}, věrně, stále, pevně a neporušitelně zachovávat a ve všem podle toho žít a plnit to bez jakékoli lsti a úskoku – k tomu nám dopomáhej Bůh a jeho svaté Slovo.“
+- typ: odstavec
+  de: |-
+    Vnd so dann die Reuter also gemustert vnd in dem anzug seind / so sollen die Commissarien jnen alle zeit vorlosieren lassen / vnnd wo die Leger sein werden / die Prouiant zu dem nechsten vnd besten bestellen / vnd was dann zugefürt wirt / soll auff einen freien Platz geliffert / vnd volgents freier marck gehalten werden.
+  cs: |-
+    A jakmile jsou takto jezdci {Reuter} přehlédnuti {gemustert} a na pochodu, mají jim komisaři {Commissarien} vždy předem zajišťovat ubytování {vorlosieren}, a kde budou ležení {Leger}, co nejblíže a nejlépe opatřit proviant {Prouiant}; co pak bude dovezeno, má být dodáno na volné prostranství a následně se tam má konat svobodný trh.
+- typ: odstavec
+  de: |-
+    Dieweil dann auff Tausent Pferdt ein Prouiantmeister gehalten wirt / so soll derselbig die Prouiant auff dem platz annemen / vnd nach der schatzung vnder seine Reutter außtheilen / vnd jm bezallen lassen als dann soll er denen / so die Prouiant zugehörig gewesen / entrichten vnd zufriden stellen lassen.
+  cs: |-
+    Poněvadž se pak na tisíc koní drží jeden proviantmistr {Prouiantmeister}, má ten proviant na tržišti přebírat, podle úřední taxy jej rozdělovat mezi své jezdce a nechat si jej platit; potom má těm, komu proviant patřil, zaplatit a vyrovnat se s nimi.
+- typ: odstavec
+  de: |-
+    Deßgleichen so sollen die Ritmeister versehung thun / das jedermann nach der billichkeit bezalt werde / vnnd niemants in Stäten
+  cs: |-
+    Stejně tak mají rytmistři {Ritmeister} učinit opatření, aby bylo každému zaplaceno podle slušnosti a aby nikomu ve městech
+poznamky:
+- n: 1
+  text: |-
+    Samostatní jezdci sloužící s jedním až třemi koňmi na vlastní pěst (srov. list `1-010v`). V tisku stojí na začátku této věty *keinem Knecht* („od žádného čeledína“ – na rozdíl od BSB OCR, jež chybně četlo *feinem*).

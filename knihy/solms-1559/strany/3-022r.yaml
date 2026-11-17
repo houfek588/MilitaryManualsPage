@@ -1,0 +1,60 @@
+id: 3-022r
+list: '22'
+strana: recto
+sken: 295
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    In dem fünfften / wie ein Fürstlich Zeughauß sonst allenthalben mit Harnisch / allerlei gewehr vnd Kriegßrüstungen versehen / vnnd in gůter Ordnung gehalten werden.
+  cs: |-
+    V páté [kapitole], jak má být knížecí zbrojnice {Zeughauß} jinak ze všech stran opatřena zbrojí {Harnisch}, všelijakými zbraněmi a válečnou výzbrojí {Kriegßrüstungen} a udržována v dobrém pořádku.
+- typ: odstavec
+  de: |-
+    Im sechsten / werden alle Kriegsampter vnd beuelch von dem höchsten biß auff den nidrigsten ordentlich nach einander beschrieben / vnd was also einem jeden in seinem Ampt vnd beuelch / souil die Artolorei belangt / zuuerrichten zustehe vnd beuolhen sei.
+  cs: |-
+    V šesté budou řádně po sobě popsány všechny válečné úřady {Kriegsampter} a hodnosti od nejvyššího až po nejnižšího a co každému v jeho úřadě a pověření, pokud jde o dělostřelectvo {Artolorei}, náleží vykonat a jest svěřeno.
+- typ: odstavec
+  de: |-
+    Im sibenden / so wirt obgemeltes Prech / Feld vnd Handtgeschütz sampt 5000. schwern vnd ringen Pferden / vnd 20000. Fůßknechten / in einen ordenlichen Feldzug gebracht / vnd allermassen wie mann sich des im fall der notturfft gegen dem Feind / es sei in Schlachten / Belegerungen oder Stürmen gebrauchen soll / beschriben.
+  cs: |-
+    V sedmé budou výše uvedená průlomová děla {Prech}, polní děla a ruční palné zbraně {Handtgeschütz} spolu s 5000 těžkými a lehkými koňmi a 20 000 pěšáky {Fůßknechten} uvedeny do řádného polního tažení {Feldzug} a bude popsán způsob, jak se jich má v případě potřeby užít proti nepříteli, ať v bitvách, při obléhání nebo při útocích {Stürmen}.
+- typ: odstavec
+  de: |-
+    Im achten / geschicht ein beileufftiger / vngefehrlicher vberschlag / was einem Herrn erstlich mit zurichtung eins Zeughauß / auch nachuolgend vber jetzt beschrieben Feldzug ein Monat aufflauffen / vnd beschlißlich ein Rathschlag / wie sich derselb Herr mit seiner Landtschafft darin schicken solt / damit er solchs zum geringsten anschicken vnd zubrengen mög / on derselben sondere beschwerung.
+  cs: |-
+    V osmé se podává přibližný, odhadový rozpočet, kolik pánovi nejprve vyjde zřízení zbrojnice a posléze jeden měsíc výše popsaného polního tažení; a na závěr pak rada, jak se má tento pán se svými zemskými stavy v této věci zařídit, aby to mohl vypravit a uskutečnit s co nejmenšími náklady a bez jejich zvláštního obtížení.
+- typ: odstavec
+  de: |-
+    Im letsten Capitel werden alle hieuor gesetzte Büchsen / Kugeln / Wagen / Gefäß / Züg / Gezelt / vnnd alle andere Kriegßrüstung den mehrern theil augenscheinlich mit einer lautern vnderschiedtlichen Nebenschrifft auffgerissen vnd verzeichnet.
+  cs: |-
+    V poslední kapitole budou všechna dříve uvedená děla {Büchsen}, koule {Kugeln}, vozy, lafety {Gefäß}, kladkostroje, stany a všechna ostatní výzbroj {Kriegßrüstung} většinou názorně narýsovány a zakresleny s jasným a rozlišeným popisem po straně.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Volgts erst Capitel / anzeigent wie schwer vnd lang der vorgenanten Sort vnd Büchsen jede sein / wieuil sie eisens schiessen / vnnd was derselben jede anheims zuerhalten / oder im fall der notturfft mit 100. kugeln vnd so schwer Puluers / auch anderer seiner zugehörung in ein Feld zufürn / bedörfftig sei / vnd erstlich das Prechgeschütz.
+  cs: |-
+    Následuje první kapitola, ukazující, jak těžký a dlouhý je každý z dříve jmenovaných druhů a kusů děl, jak těžkou železnou kouli střílí a co každý z nich potřebuje k udržování doma nebo v případě potřeby k vypravení do pole se 100 koulemi a stejně těžkým množstvím střelného prachu {Puluers} i s dalším svým příslušenstvím; a nejprve průlomová děla {Prechgeschütz}.
+- typ: odstavec
+  de: |-
+    ITem gůter gewaltiger Scharpffermetzen 2. deren jede 115. Centner Augpurgischs gewichts an jr selbs helt / vnd volgender jrer zugeeigenter kugeln 15. leng hab.
+  cs: |-
+    Dále: dvě dobré, mohutné šarfmece {Scharpffermetzen},[^1][^2] z nichž každá sama o sobě váží 115 centů {Centner} augšpurské váhy a má délku 15 svých příslušných koulí.
+- typ: odstavec
+  de: |-
+    Der Stuck eins soll schiessen ein eysene Kugel / die an obgemeltem gewicht helt 85. Pfundt.
+  cs: |-
+    Každý z těchto kusů má střílet železnou kouli, která podle výše uvedené váhy váží 85 liber {Pfundt}.
+- typ: odstavec
+  de: |-
+    So gehöret nun zu einem jeden stuck ein besonderer starcker wol zugerichter Wagen / dann solche Büchsen ein vberschwenglich schwere auff sich tregt / mercklich in das Ertrich versinckt / Darumb muß der last zweien Achsen / damit derselb hinden vnd forn eingetheilt / vnd so
+  cs: |-
+    Ke každému kusu tedy náleží jeden zvláštní, silný a dobře vystrojený vůz, neboť takové dělo má nesmírnou tíhu a znatelně se boří do země; proto se náklad musí naložit a svěřit dvěma nápravám, aby byl rozdělen vpředu i vzadu a tím
+poznamky:
+- n: 1
+  text: |-
+    Na pravém okraji tisku stojí rubrika *Scharfermetzen 2.* V záhlaví tisku je chybně vytištěno číslo listu *2* místo *22* (a z BSB OCR bylo odstraněno knihovní razítko `00085168`).
+- n: 2
+  text: |-
+    Augšpurský cent (*Augpurgischs gewichts*, v tisku bez *-s-* v *Augspurg*) měl 100 liber po cca 472 g, tedy kolem 47,2 kg.

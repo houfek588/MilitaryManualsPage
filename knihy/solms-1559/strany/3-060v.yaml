@@ -1,0 +1,41 @@
+id: 3-060v
+list: '60'
+strana: verso
+sken: 372
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    WIltu Salpeter leutern der noch rohe vnd vngeleuttert ist / so nim ein scharpff laug / oder thů Kalch inn ein schafft / geuß Wasser daran rürs vmb mit einem stecken / wie einn Kalcus / laß vbernacht stehen / so wirts desto leutterer / thů das darnach in einn schönen Kessel vber ein Feur / wenn es warm wirt so schüt den salpeter darinn / laß jn wolsieden / greiff mit einem löffel an den bodem / was dann stein darin ist / das samlet sich an den bodem / die thů herauß vnd schaw jn wol lug das er nit vbergehe / vnd kein schmaltz darzů kom / wenn du jn versuchen wilt / ob er gnůg hab / so stoß ein sauber höltzlin darin / trauffe es dann vff einen brennenden Kollen / brents dann so hats gnůg / oder versůch jn mit einem Tůch / werden dan die tropffen heiß / so hat ers gnůg / dann thů es vom Feur laß erkalten / vnnd geuß durch ein leinen Tůch / Filtz oder Hut / in ein sauper Becken / were es aber zuuil so seig jn in ein schön Schafft / laß stehn ein tag vnd nacht / wann es also gestanden ist so lug darzů obs sich gesamlet hab / laß dennoch einn tag vnd nacht stehn / seig dann das wasser herab inn ein sauper geschirr / vnd trücken den Salpeter in einem Becken / oder auff einem Leilach / nim das Wasser daß du abgesiegen hast / seud es anders / vnd laß lenger sieden denn vor / thů wie du vor gethan hast / was dann darinn ist / das samlet sich daß du es auch alles findest.
+  cs: |-
+    Chceš-li čistit ledek {Salpeter}, jenž jest ještě surový a nepřečištěný, vezmi ostrý louh nebo nasyp vápno do škopku, nalij na ně vodu a zamíchej klackem jako vápenné mléko (*Kalcus*);[^1] nech přes noc stát, tak bude čistší. Poté to dej v čistém kotli nad oheň; až se zahřeje, nasyp do něj ledek, nech jej dobře vařit a sáhni lžící na dno – co je v něm kamene, to se shromáždí na dně; to vyjmi a dobře na něj dohlížej, dávej pozor, aby nepřekypěl a nedostala se do něj žádná mastnota. Chceš-li jej vyzkoušet, zda už má dost, ponoř do něj čisté dřívko a ukápni na hořící uhel; hoří-li pak, má již dost. Anebo jej vyzkoušej plátnem: budou-li pak kapky horké,[^2] má již dost. Pak jej sejmi z ohně, nech vystydnout a přelij přes lněné plátno, plsť nebo plstěný klobouk (*Filtz oder Hut*)[^3] do čisté mísy; bylo-li by ho však příliš mnoho, sceď jej do čistého škopku a nech stát jeden den a noc. Když takto stál, podívej se, zda se shromáždil, přesto jej nech ještě jeden den a noc stát; pak slij vodu do čisté nádoby a usuš ledek v míse nebo na prostěradle. Vezmi vodu, kterou jsi slil, vař ji podruhé a nech vřít déle než předtím a učiň, jak jsi činil dříve – co v ní jest, to se srazí tak, že to také všechno najdeš.
+- typ: nadpis
+  uroven: 3
+  de: Hernach steht geschriben was Natur der Salpeter hat / vnd welcher der best ist.
+  cs: Níže jest psáno, jakou povahu má ledek a který jest nejlepší
+- typ: odstavec
+  de: |-
+    SAlpeter ist von natur kalt vnd trucken in quarto grado / ist in viererlei weiß genant / Salpeter wechst vff dreierlei weiß / der erst im Feld an harten stein / so hart vnd weiß wie Alaum / vnd schadt jm kein Regen / der ander wechst in holen steinn / der ist gůt / der drit wechst an den Maurn vnd feuchten Kellern / der ist der best / Du solt wissen daß Salpeter Saltz ist vnd wechst fast / heist nach Latein Steinsaltz / wenn er geleutert ist / so heist er nicht mehr salpeter / er heist darumb saluiter dann er kalt vnd trucken wirt vom sieden / wo jn hitz begreifft daß er nicht bleiben mag von der grossen kelt wegen die er an jhm hat / Der Schwefel ist von Natur heiß vnd trucken / vnnd fächt gern das Feur so mag dann der Salpeter bei der hitz nicht bleiben / Also ist es auch mit dem Quecksilber vnd etlicher stück mehr / die kein Feur leiden mögen / sonder du solt dich allwegen hüten vor weissem Salpeter.
+  cs: |-
+    Ledek jest od přírody studený a suchý ve čtvrtém stupni (*in quarto grado*) a bývá jmenován čtverým způsobem. Ledek roste trojím způsobem: první v poli na tvrdém kameni, tvrdý a bílý jako kamenec (*Alaum*), a neškodí mu žádný déšť; druhý roste v dutých kamenech a ten jest dobrý; třetí roste na zdech a ve vlhkých sklepích, a ten jest nejlepší. Věz, že ledek jest sůl a velmi bují; latinsky[^4] se nazývá kamenná sůl (*Steinsaltz*). Když jest přečištěn, nenazývá se již *salpeter*, nýbrž *saluiter*,[^5] poněvadž vařením chladne a vysychá, a kde jej zachvátí žár, tam nemůže obstát pro veliký chlad, který v sobě má. Síra {Schwefel} jest od přírody horká a suchá a ochotně chytá oheň, takže ledek pak u toho žáru nemůže zůstat. Stejně tak jest tomu se rtutí a s několika dalšími látkami, které nesnášejí oheň; avšak ty se máš vždy vystříhat bílého ledku.
+- typ: nadpis
+  uroven: 3
+  de: Aber ein gut Lere wie mann das Saltz von dem Salpeter scheiden / vnd jn recht leutern soll / daß er röß starck vnd gůt werde.
+  cs: Jiné dobré poučení, jak se má oddělit sůl od ledku a jak jej správně čistit, aby byl ostrý, silný a dobrý
+poznamky:
+- n: 1
+  text: |-
+    *Kalcus* – zkomolenina z *Kalchguß* („vápenné mléko / vápenná břečka“). BSB OCR na této straně rovněž vynechalo iniciály *W* (*WIltu*) a *S* (*SAlpeter*) a četlo *vbergebe* místo *vbergehe*.
+- n: 2
+  text: |-
+    Tisk má *heiß* („horké“); v obdobném předpisu na l. 60r stojí *hart* („tvrdé“ – kapky na suknu ztuhnou).
+- n: 3
+  text: |-
+    *Filtz oder Hut* – plstěný filtr či plstěný klobouk užívaný při cezení.
+- n: 4
+  text: |-
+    Tisková formulace *heist nach Latein Steinsaltz* („latinsky se nazývá kamenná sůl“ – autor zaměňuje lat. *sal petrae* „skalní sůl“ s *Steinsalz* „kamenná sůl“).
+- n: 5
+  text: |-
+    *saluiter* – dobová lidová obměna výrazu *sal nitri* / *salniter* (sanýtr).

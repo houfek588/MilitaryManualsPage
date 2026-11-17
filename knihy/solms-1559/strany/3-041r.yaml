@@ -1,0 +1,66 @@
+id: 3-041r
+list: '41'
+strana: recto
+sken: 333
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    NIm groß moß Pimbsen die in den weiern stehn/ zeuch jn die grün eusserst haut ab/ vnd seude den kern in wein darinn Salpeter gesotten ist/ laß wol sieden/ darnach trücken sie an der Sonnen/ vnd halt sie an ein brennenden koln/ daß sie das feur entpfahen/ einer span lang Pintzen gibt feur biß du ein meil wegs gehst/ vnnd wenn du wilt ein feur machen/ so halt ein Schwefelkertzlin daran/ etc.
+  cs: |-
+    Vezmi velkou bahenní sítinu, jaká roste v rybnících, sloupni z ní zevní zelenou slupku a její dřeň vař ve víně, v němž byl rozvařen ledek {Salpeter}; nech ji dobře povařit, potom ji usuš na slunci a přilož k hořícímu uhlíku, aby chytla oheň. Píď dlouhá sítina vydrží hořet, dokud neujdeš míli {meil} cesty; a když chceš rozdělat oheň, přilož k ní sirnou svíčku atd.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann macht/ daß sich wasser anzindt.
+  cs: Jak docílit toho, aby se zapálila voda.
+- typ: odstavec
+  de: |-
+    NIm vngeleschten Kalch/ Schwefel Ana. an der wage vnd auß der Materien mach ein Tůch/ vnd spreng ein wasser darauff so zündt es sich/ geust du öle darauff so lescht es sich wider.
+  cs: |-
+    Vezmi nehašené vápno a síru stejným dílem (*Ana.*)[^1] na váze, z této hmoty zhotov sukno a postříkej je vodou – tak se vznítí; naliješ-li na ně olej, opět zhasne.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie mann ein Feur machen soll/ darmit Alexander das Landt Agananorum vorn vnd gentzlich verbrent.
+  cs: |-
+    Jak udělat oheň, jímž Alexandr zcela a úplně spálil zemi Agananorum.[^2]
+- typ: odstavec
+  de: |-
+    NIm Balsam 2. Gloriat ein halbs/ öle vnd Eyer 15. Calcis viue ij. pfundt/ reib den Kalch mit dem öle daß ein Confect darauß werd/ bestreich dann damit was du wilt/ es entzindt sich von der materien vnd ersten Regen der darauff kompt/ vnd verwüst alles das drumb ist.
+  cs: |-
+    Vezmi 2 [díly] balzámu, půl [dílu] benátského terpentýnu {Gloriat}, olej a 15 vajec, 2 libry {pfundt} nehašeného vápna (*Calcis viue*);[^3] rozetři vápno s olejem, aby z toho vznikla pasta, a potři tím, co chceš – vznítí se to samou směsí a při prvním dešti, který na to spadne, a zničí vše, co je okolo.
+- typ: nadpis
+  uroven: 3
+  de: Item wie mann ein Feur machen soll das sich von Wasser anzindt.
+  cs: 'Dále: jak udělat oheň, který se vznítí od vody.'
+- typ: odstavec
+  de: |-
+    WIlt du machen ein Feur wann ein Regen daruff kompt das sich anzindt vnd flamet/ so nim lebendigen Kalch/ ein wenig Gummi Arabicum/ Schwefel vnd Leynöl/ das mach alles mit einander das ein Materi darauß werd/ dann mach darauß was du wilt/ vnnd spreng wasser darauff so brennt es/ Vnd mit derselbigen Materi magstu wol ein jeglich Hauß abbrennen wann der Regen darauff kompt.
+  cs: |-
+    Chceš-li udělat oheň, který když na něj přijde déšť, vznítí se a vzplane, vezmi živé vápno, trochu arabské klovatiny (*Gummi Arabicum*), síru a lněný olej; to vše zpracuj dohromady, aby z toho vznikla hmota, pak z ní utvoř, co chceš, a pokrop to vodou – hned to hoří. A toutéž hmotou můžeš snadno spálit jakýkoli dům, jakmile na něj zaprší.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Item wie einer ein fliegents Feur zurichten soll in die höhe/ daß alles verbrent was begreifft.
+  cs: |-
+    Dále: jak má někdo připravit létající oheň do výšky, který spálí vše, co zasáhne.
+- typ: odstavec
+  de: |-
+    NIm ein wenig Colifamia/ das ist Griechischer Hartz/ anderthalb teil lebendigen Schwefel vnnd ij. Salpeter/ das reib alles gar klein/ darnach reibs ein wenig mit Leyn oder Loröl daß darinn zugehe/ vnd werd als ein Confect/ thů das in ein lang eichen Rör/ zints an vnd bloß in die Rör so fert es wohin du die rör wendst/ verbernt vnd verwüst alles was begreifft.
+  cs: |-
+    Vezmi trochu kalafuny {Colifamia}, to jest řecké pryskyřice, půldruhého dílu živé síry a 2 [díly] ledku,[^4] to vše utři velice najemno, potom to trochu rozetři se lněným nebo vavřínovým olejem, aby se to v něm rozpustilo a vznikla z toho pasta; vlož to do dlouhé dubové trubice, zapal ji a foukni do trubice – vyletí tam, kam trubici obrátíš, a spálí[^5] i zničí vše, co zachvátí.
+poznamky:
+- n: 1
+  text: |-
+    Lékárnická zkratka *ana* (v tisku *Añ.*) znamená „stejným dílem od každého“.
+- n: 2
+  text: |-
+    *Agananorum* (srov. *Agamitorum* na f. 40r) – zkomolené místní jméno z receptářové tradice; slovo *vorn* v tisku (*vorn vnd gentzlich*) je zřejmě překlepem za *gar* či *rein* („zcela a úplně“).
+- n: 3
+  text: |-
+    V tisku je zřetelná římská číslovka *ij.* (2 libry nehašeného vápna, lat. *calx viva*), nikoli arabské 11.
+- n: 4
+  text: V tisku stojí římská číslovka *ij.* (2 díly ledku).
+- n: 5
+  text: V tisku přesmyčka *verbernt* místo *verbrennt* („spálí“).

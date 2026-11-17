@@ -1,0 +1,33 @@
+id: 3-031v
+list: '31'
+strana: verso
+sken: 314
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie aber ich vermein / das die mörser sol gebraucht werden zu dem Feurwerffen / ist also zu ordnen.
+  cs: |-
+    Jak se však podle mého mínění mají moždíře {mörser} užívat k vrhání ohně, to se má zařídit takto:
+- typ: odstavec
+  de: |-
+    ZVmersten soll mann haben steine Kugeln / zum andern Feurkugeln / die gemacht seind das sie geschwindt vnnd lang brennen / Zum dritten Kugeln mit schössen oder schlegen / damit niemants darbei gehe / aber mit den Kugeln schlagen oder schössen / hat mann einn weg erdacht / vnd ist der / mann nimpt Ochsen / Küe oder Roß heut / was mann haben mag / halten die weich im wasser / vnd wann mann derselbigen heut eine vber die Kugel wirfft / so ist sie schon mit jren schössen vnd schlegen verdempfft / deßgleichen die andern Feurkugeln sind mit wasser oder Erden darauff zuschütten verdempfft / damit sie nit grossen schaden thůn kündten. Aber dem allem so ist ein ander kugel zumachen erdacht / daran die Heut / Wasser vnnd Erden alles nichts helffen.
+  cs: |-
+    Předně se mají mít kamenné koule {Kugeln}, za druhé ohnivé koule {Feurkugeln}, které jsou zhotoveny tak, aby hořely prudce a dlouho, a za třetí koule s výstřely či výbušnými náložemi {schlegen},[^1] aby k nim nikdo nepřistupoval; avšak proti těmto koulím s ranami a výbuchy byl vymyšlen jeden způsob, a to tento: vezmou se volské, kravské nebo koňské kůže, jaké se jen dají sehnat, namočí se ve vodě, aby změkly, a když se jedna z takových kůží přes kouli přehodí, je už i se svými ranami a výbuchy udušena; stejně tak se ostatní ohnivé koule dusí tím, že se na ně lije voda nebo sype hlína, takže nemohou napáchat velikou škodu. Proti tomu všemu je však vymyšlena výroba jiné koule, proti níž kůže, voda ani hlína vůbec nic nepomohou.
+- typ: odstavec
+  de: |-
+    Vnd sind diß die welche inwendig hol sein / sie seien gegossen oder von Feurzeug gemacht / wie das beide zuthůn ist / vnd also ferr hol / daß ein vierteil / ein halber oder gantzer Centner darin gůts Puluers gehn mag / vnd dieselbigen kugeln sollen der gestalt gemacht werden / daß sie im schiessen in der lufft nit angehen biß so lang daß sie fallen vnd ligen / wann sie dann angehn / ist gůt zu achten was ein solliche macht Puluers außrichten kan / vnd was daran Heut / Wasser vnnd Erden helffen mag / wann das Volck wie sie an den andern Kugeln gewont sind / mit den Heuten vnd anderm zudempffen vnd zu leschen / Vnd zu solchen Kugeln inn gleichem fall auch lauffen würden / vermeinten dieselbigen zu leschen oder zu dempffen / vnnd die Kugel inn dem angieng / wie sie das würde abweisen vnd zurichten / deßgleichen das Hauß darinn sie felt / wann dann der Kugeln etlich geworffen werden / vnd das Volck / wie gemelt / daruon schaden nemen / würden sie dann erschrecken vnd verzagen / vnd keiner mehr zulauffen. Also solten alle Kugeln zugericht sein wie die wern / vnnd platz hetten daß sie vnuerhindert jr werck außrichten möchten / Vnnd were mein anschlag / daß mann solt der Mörser ein gůte menge haben / daß mann kündt ein nacht drei oder vierhundert Kugeln in der eil hinein werffen oder gattung durch einander / dann solche Mörser sind gůt zuuerschantzen / Warumb ? Mann mag jhm leicht vnden ein loch graben darinn er steht / vnd die erden darauß genommen / vor jm auff die gruben gelegt / so deckt dieselbig erdt die ander helfft / nemlich das halb
+  cs: |-
+    A jsou to ty koule, které jsou uvnitř duté – ať jsou lité, nebo vyrobené ze zápalné hmoty, jak lze učinit obojí –, a tak dalece duté, že se do nich vejde čtvrt, půl nebo celý cent {Centner} dobrého střelného prachu {Puluers}; a tyto koule mají být zhotoveny tak, aby při výstřelu nechytly ve vzduchu,[^2] nýbrž teprve tehdy, až dopadnou a leží na místě. Když pak vybuchnou, lze si snadno představit, co taková síla prachu dokáže způsobit a co proti tomu zmohou kůže, voda a hlína: až lidé, jak jsou zvyklí u ostatních koulí dusit a hasit kůžemi a jiným způsobem, přiběhnou stejným způsobem i k těmto koulím v domnění, že je uhasí nebo udusí, a koule v tu chvíli vybuchne, jak je to odmrští a zřídí, a stejně tak dům, do něhož spadne! Když se pak takových koulí vrhne několik a lid z nich, jak řečeno, utrpí újmu, vyděsí se a zmalomyslní a nikdo už k nim nepřiběhne. Tak by měly být připraveny všechny koule, ať jsou jakékoli, a měly by mít prostor, aby mohly nerušeně vykonat své dílo. A mým záměrem by bylo mít moždířů dobré množství, aby se za jednu noc dalo spěšně vhodit tři nebo čtyři sta koulí všech druhů smíšených dohromady, neboť takové moždíře se dají snadno zakopat do šancí. Proč? Dá se pro něj snadno vykopat dole jáma, v níž stojí, a zemina z ní vybraná se navrší před něj na okraj jámy, takže táž hlína zakryje druhou polovinu, totiž poloviční[^3]
+poznamky:
+- n: 1
+  text: |-
+    Koule osazené nabitými železnými hlavněmi (*Schüsse*) a třaskavými náložemi (*Schläge*), které měly v rozmezí několika okamžiků střílet a vybuchovat do všech stran, aby odháněly hasiče.
+- n: 2
+  text: |-
+    BSB OCR zde četlo *mit angehen* (čímž by se smysl obrátil) místo *nit angehen* („nevybuchly ve vzduchu“) a dále *in der til* místo *in der eil* („spěšně“).
+- n: 3
+  text: |-
+    Následující l. 32r navazuje v téže větě slovy *teil in das Erdrich gesenckt…* („dílu zapuštěného do země…“); slova *das halb | teil* nejsou spojena rozdělovníkem (tisk je píše odděleně).

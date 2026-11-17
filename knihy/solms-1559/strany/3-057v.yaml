@@ -1,0 +1,76 @@
+id: 3-057v
+list: '57'
+strana: verso
+sken: 366
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    NIm 7. pfundt Salpeter / 2. pfundt schwefel / 1. pfundt Kolen / von weissen Weiden / Linden / Tennen oder Heßlin / vnnd fül die auff das drittheil / das ist das schlechtest vnd best Puluer.
+  cs: |-
+    Vezmi 7 liber {pfundt} ledku {Salpeter}, 2 libry síry {schwefel} a 1 libru dřevěného uhlí {Kolen} z bílé vrby, lípy, jedle nebo lísky a naplň je do jedné třetiny; to jest nejprostší a nejlepší střelný prach {Puluer}.
+- typ: nadpis
+  uroven: 3
+  de: Item ein Puluer zu dem stein.
+  cs: Dále střelný prach ke kamenné kouli[^1]
+- typ: odstavec
+  de: |-
+    ZVm ersten soltu 1. pfundt machen / nim 1. pfundt Salpeter den vierdten teil des wilden schwefels / 2. lot Koln / 1. lot Campfer / 1. lot Quecksilber / 1. lot Opriment / vnd wer das Puluer in seiner Krafft halten wil / der soll zum dritten jar ein halb pfundt salpeter darunter mischen.
+  cs: |-
+    Předně máš udělat 1 libru: vezmi 1 libru ledku, čtvrtinu [téže váhy] surové síry (*wilden schwefels*),[^2] 2 loty {lot} uhlí, 1 lot kafru, 1 lot rtuti a 1 lot auripigmentu (*Opriment*);[^3] a kdo chce tento prach udržet v jeho síle, má do něj každého třetího roku přimíchat půl libry ledku.
+- typ: nadpis
+  uroven: 3
+  de: Puluer zustercken.
+  cs: Jak posílit střelný prach[^4]
+- typ: odstavec
+  de: |-
+    ITem man laß regen wasser lauffen durch ein sack / darjnn vngestossen Kalch ist / darnach brenn ein weissen newen Barchen zu zunder / reib den ab mit jetzt geschriben Kalch wasser / geuß ein alt verlegt Puluer in einen Mörser / vnd stoß von newem mit einem Klöpffel / darnach trucken es an der sonnen oder in einer stuben / mann mag es keren mit einem Börstlin / das fast hart ist / durch ein starck hären sib / vnd nit durch ein Kupfferin seihen.
+  cs: |-
+    Dále nech dešťovou vodu protéci pytlem, v němž je netlučené vápno; potom spal nový bílý barchet na troud a utři jej právě popsanou vápennou vodou. Starý uleželý prach vsyp do hmoždíře a znovu jej utluč paličkou; potom jej usuš na slunci nebo ve světnici. Lze jej také pročesávat velmi tuhým kartáčkem přes silné žíněné síto, nikoli však prosévat přes měděné.
+- typ: nadpis
+  uroven: 3
+  de: Langligent Puluer Krefftig zubehalten.
+  cs: Jak udržet dlouho ležící střelný prach v síle
+- typ: odstavec
+  de: |-
+    ITem mann thů es in ein grossen Mörser oder Puluer stampff / gieß darüber gůten starcken weinessig / stoß wol durcheinander mit einem höltzern klöpffel / sonst von Eisen mag es feur empfahen / mach Kugelin darauß in einem verglasten kükellig Diglin oder Neplin wie die Napkeßlin / stürtz sie auff ein bret / so geht der Essig daruon / dör sie oben vnd vnden in der Sonnen / oder fast heissen stuben auf 10. tag lang / darnach leg die Kuglin in ein dör Faß oder Legeln / vnd setz sie an ein trucken Stat die nit feucht werd / vnd bewar es vor feur / dann niemandt kans erredten.
+  cs: |-
+    Dále dej jej do velkého hmoždíře nebo stoupy na prach, nalij na něj dobrý silný vinný ocet a dobře jej promíchej dřevěnou paličkou – jinak od železa může chytit oheň. Udělej z něj kuličky v glazovaném okrouhlém kelímku nebo misce na způsob sýrových formiček (*Napkeßlin*),[^5] vyklop je na prkno, až z nich ocet steče, a suš je shora i zdola na slunci nebo ve velmi horké světnici po celých 10 dní. Poté vlož kuličky do suchého sudu či soudku, postav je na suché místo, jež nezvlhne, a chraň před ohněm, neboť pak to nikdo nedokáže zachránit.
+- typ: nadpis
+  uroven: 3
+  de: Gemein Büchsen Puluer zumachen ob einer verkauffen wolt.
+  cs: Jak dělat obecný střelný prach {Büchsen Puluer}, kdyby jej někdo chtěl prodávat
+- typ: odstavec
+  de: |-
+    ITem man neme 4. pfundt gewigten Salpeter / 2. pfundt Schwefel 1. pfundt linden Kolen / misch es wol durcheinander / wie hernach weiters geschriben ist.
+  cs: |-
+    Dále vezmi 4 libry odváženého[^6] ledku, 2 libry síry a 1 libru lipového uhlí a dobře je promíchej, jak jest níže dále psáno.
+- typ: nadpis
+  uroven: 3
+  de: Ein besser Puluer zumachen.
+  cs: Jak dělat lepší střelný prach
+- typ: odstavec
+  de: |-
+    ITem man nem 5. pfundt Salpeters / 2. pfundt graben Schwefel / 1. pfundt Kolen / vnd vntereinander gemischt.
+  cs: |-
+    Dále vezmi 5 liber ledku, 2 libry surové síry a 1 libru uhlí a smíchej je dohromady.
+poznamky:
+- n: 1
+  text: |-
+    *zu dem stein* – prach určený pro kamenná děla (bombardy, vrhače kamenných koulí).
+- n: 2
+  text: |-
+    *wilder Schwefel* („divoká síra“) – přírodní, nepřečištěná síra.
+- n: 3
+  text: |-
+    *Opriment* – zkrácený dobový tvar pro *Auripigmentum* (auripigment, žlutý sulfid arsenitý).
+- n: 4
+  text: |-
+    BSB OCR zde nadpis zkomolilo na *been putuer zustercken* a v úvodu předchozího receptu vynechalo iniciálu *Z* (*ZVm*).
+- n: 5
+  text: |-
+    *kükellig Diglin oder Neplin wie die Napkeßlin* – zaoblený glazovaný kelímek nebo mistička na způsob drobných formiček na tvaroh či sýr (*Napfkäslin*).
+- n: 6
+  text: |-
+    *gewigten Salpeter* – v raně novohorní němčině zřejmě *gewegten* / *gewogenen* („odváženého“).

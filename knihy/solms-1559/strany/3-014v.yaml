@@ -1,0 +1,80 @@
+id: 3-014v
+list: '14'
+strana: verso
+sken: 280
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wenigen Rossen oder pferden wie es sich begeben wirt.
+  cs: |-
+    málo koňmi či oři, jak se právě přihodí.
+- typ: odstavec
+  de: |-
+    Zum 5. soll er der Kogeln schwer / ein jede besonder / wieuil der auff ein Zentner gehn / wie vil man der auff ein wagen ledt / vnd wieuil pferdt dafür gespandt werden / beschreiben.
+  cs: |-
+    Za 5. má popsat váhu koulí {Kogeln}, každou zvlášť, kolik jich jde na jeden cent {Zentner}, kolik se jich nakládá na jeden vůz a kolik koní se před něj zapřahá.
+- typ: odstavec
+  de: |-
+    Zum 6. soll er besehen welliche stück man auff den wagen fürt auß den gefässen / wieuil pferdt man vor den wagen derselbige gefäß eins spandt / waß für stück mann in den gefässen füret.
+  cs: |-
+    Za 6. má prohlédnout, které kusy {stück} se vezou na vozech sňaté z lafet {gefässen}, kolik koní se zapřahá před vůz jedné takové lafety a které kusy se vezou přímo v lafetách.
+- typ: odstavec
+  de: |-
+    Zum 7. soll er besehen / wie mann das Puluer vnd kogeln auff die wagen ledt / wie die wagen darzů gericht sind / wie schwer ein jeder geladen wirt / vnd wieuil pferdt vor ein gespandt werden.
+  cs: |-
+    Za 7. má prohlédnout, jak se na vozy nakládá střelný prach {Puluer} a koule, jak jsou k tomu vozy upraveny, jak těžce se každý naloží a kolik koní se před jeden zapřahá.
+- typ: odstavec
+  de: |-
+    Zum 8. soll er mit fleiß besehen vnd acht haben waß mann vor züg / Winden vnd hebzeug hat / wie sie gemacht sind mit böcken vnd scheiben / daruon soll er alle maß eigentlich nemen.
+  cs: |-
+    Za 8. má s pílí prohlédnout a dávat pozor, jaké jsou k dispozici kladkostroje {züg}, navijáky a zdvihadla,[^1] jak jsou zhotoveny s kozami a kladkami, a z toho všeho má přesně sejmout všechny míry.
+- typ: odstavec
+  de: |-
+    Zum 9. soll er mit fleiß besehen / wie die wagen darauff mann die grossen stück fürt / vnd die gefäß gemacht seind.
+  cs: |-
+    Za 9. má s pílí prohlédnout, jak jsou zhotoveny vozy, na nichž se vezou velké kusy, i samotné lafety.
+- typ: odstavec
+  de: |-
+    Zum 10. soll er besehen was mann von aller rüstung darzů gebraucht / vnd mit fürt.
+  cs: |-
+    Za 10. má prohlédnout, co se k tomu potřebuje a veze s sebou ze veškeré výzbroje {rüstung}.
+- typ: odstavec
+  de: |-
+    Zum 11. soll er besehen vnd groß achtung daruff haben / wie mann das geschütz im feld fürt / vnd theilt in den vorzug / gewaltigen hauffen / vnd nachzug / die geschwader zu roß vnd fůß zu schlagen / zu schiessen vnnd stürmen / wie sich das zutragen wirdt / eigentlich mercken vnd beschreiben.
+  cs: |-
+    Za 11. má prohlédnout a dávat velký pozor na to, jak se děla {geschütz} vedou v poli a dělí do předvoje {vorzug}, hlavního houfu {gewaltigen hauffen} a zadního voje {nachzug}, mezi švadrony {geschwader} jízdní i pěší k bitvě, střelbě i útoku {stürmen}, jak se přihodí – to vše má přesně zaznamenat a popsat.
+- typ: odstavec
+  de: |-
+    Zum 12. soll er besehen wieuil der Quastores seind / wie sie eingetheilt / verordnet / was jhr thůn vnnd lassen zu aller zeit sein wirt / im feld / in schantzen / vergrebnuß der leger vnd Wagenburg.
+  cs: |-
+    Za 12. má prohlédnout, kolik je šancířů {Quastores}, jak jsou rozděleni a ustanoveni, co je vždy jejich prací a povinností v poli, v šancích {schantzen} i při zakopávání ležení {leger} a vozové hradby {Wagenburg}.
+- typ: odstavec
+  de: |-
+    Zum 13. soll er gůt achtung haben / wie mann die Weg / Brücken vnd dergleichen macht / damit man mit dem Hauffen vnd Geschütz kan vber komen.
+  cs: |-
+    Za 13. má dávat dobrý pozor, jak se upravují cesty, mosty a podobné věci, aby se po nich mohlo přejít s houfem a děly.
+- typ: odstavec
+  de: |-
+    Zum 14. soll er auch achtung haben wie mann schantzt / wie die gemacht werden / wie mann die pflöck mit vortheil anfaht / wie sie wechseln / vnd wie mann die in dem wechsel zusamen brengt / damit mann auß einer in die ander verwart gehn kan / vnd wie die zu dem Geschütz schantzen.
+  cs: |-
+    Za 14. má také dávat pozor, jak se kopou šance, jak se zhotovují, jak se s výhodou zakládají vytyčovací kolíky,[^2] jak se [šance] lomí a jak se v lomech spojují dohromady, aby se dalo přecházet krytě z jedné do druhé, a jak se kopou šance pro děla.
+- typ: odstavec
+  de: |-
+    Item zum 15. soll er fleissig achtung haben / wie mann die Stück in vnd auß den Schantzen brengt vnd fürt / wie mann damit vmbgeht vnd handelt im schiessen / wieuil Schoß mann einen tag auß einem Stück thůt.
+  cs: |-
+    Dále za 15. má pilně dávat pozor, jak se kusy dopravují a vyvážejí do šancí a ze šancí, jak se s nimi zachází a pracuje při střelbě a kolik výstřelů se za den z jednoho kusu vypálí.
+- typ: odstavec
+  de: |-
+    Item zum 16. soll er auch gůt achtung haben wie mann die Arcolorei beschleust / vnd die Munition vergrebt / tag vnd nacht mit der wacht besetzt vnd verhüt.
+  cs: |-
+    Dále za 16. má také dávat dobrý pozor, jak se dělostřelectvo {Arcolorei} uzavírá a munice {Munition} zakopává, a jak se dnem i nocí obsazuje a střeží stráží {wacht}.
+poznamky:
+- n: 1
+  text: |-
+    Něm. *züg / Winden vnd hebzeug* – různé druhy zdvihacích zařízení pro manipulaci s těžkými hlavněmi (kladkostroje, hřebenové a šroubové hevery a trojnožky).
+- n: 2
+  text: |-
+    Něm. *wie mann die pflöck mit vortheil anfaht* – vytyčování linií zákopů pomocí kolíků (případně zarážení kůlů pro upevnění náspů a košů).

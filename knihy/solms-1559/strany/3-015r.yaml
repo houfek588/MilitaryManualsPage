@@ -1,0 +1,57 @@
+id: 3-015r
+list: '15'
+strana: recto
+sken: 281
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Zum 17. wie mann mit der Wagenburg vmbgeht zu fůren vnnd vmb das Leger zu schlagen / deßgleichen mit dem geschütz zu fürn vnd zu legern zu ordnen vnd zuuergraben mit grossem vnd kleinem geschütz.
+  cs: |-
+    Za 17., jak se zachází s vozovou hradbou {Wagenburg}, když se vede a rozbíjí kolem ležení {Leger}, rovněž jak se vedou a rozestavují v ležení velká i malá děla {geschütz} a jak se zakopávají.
+- typ: odstavec
+  de: |-
+    Zum 18. wann mann ein Schlachtordnung macht / wie mann daß geschütz in die geschwader vor vnd neben den hauffen teilen vnd ordnen wirt.
+  cs: |-
+    Za 18., když se staví bitevní šik {Schlachtordnung}, jak se děla rozdělují a řadí do švader {geschwader} před houfy {hauffen} a vedle nich.
+- typ: odstavec
+  de: |-
+    Zum 19. so mann schlagen wirdt / wie mann dann das geschütz nach vortheil wendt sonder berg vnd thal ziehen / vnd das also durch ein solchen vortheil etwas außgericht wirdt / alles zu mercken vnd zuschreiben.
+  cs: |-
+    Za 19., když dojde k bitvě, jak se pak děla natáčejí podle výhody terénu, zvláště když se táhne horami a doly, a co se takovou výhodou pořídí – vše zaznamenat a zapsat.
+- typ: odstavec
+  de: |-
+    Zum 20. so es zu einem sturm kompt / wie mann dann mit dem geschütz vmbgehn / vnd in einer befestung am meisten herauß thůn wirt.
+  cs: |-
+    Za 20., dojde-li k útoku {sturm}, jak se pak zachází s děly a jak se v opevnění nejlépe uplatní.
+- typ: odstavec
+  de: |-
+    Zum 21. soll er / so mann mit den Mörsern handelt darauff acht haben / wie mann mit einem jeden vmbgehet / als mit dem Feurwerck vnd stein / was mann damit außricht zu schwerffen vnd zu schiessen.
+  cs: |-
+    Za 21., když se pracuje s moždíři {Mörsern}, má dávat pozor, jak se zachází s každým z nich, totiž s ohňostroji {Feurwerck} i kamenem, a co se jimi pořídí při vrhání[^1] a střílení.
+- typ: odstavec
+  de: Zum 22. soll er acht haben wie mann mit den Schiffbürcken vmbgeht.
+  cs: |-
+    Za 22. má dávat pozor, jak se zachází s lodními mosty {Schiffbürcken}.[^2]
+- typ: odstavec
+  de: |-
+    Zum 23. soll er gůt achtung haben / wie alle ampter der Arcolorei mit denen personen versehen vnd geordnet seind.
+  cs: |-
+    Za 23. má dávat dobrý pozor, jak jsou všechny úřady dělostřelectva {Arcolorei} obsazeny a uspořádány patřičnými osobami.
+- typ: odstavec
+  de: |-
+    Zum 24. vnd letsten / soll er auff alles das zu der Arcolorei gehört zu regiern vnd zu gebrauchen / mit aller zugehör der notturfft fleissig auffmercken / vnd alle tag was mann mit dem Geschütz / mann ziehe oder lig stil handelt / beschreiben / damit wann er zu seinem Herren wider kompt / er jm das gantz ordenlich vnd verstendig oder berichtlich mit sampt seiner Paßporten von seim Zeugmeister / mög vbergeben / Darnach seine verzeichnuß lassen rein / schön / lauter vnd ordenlich Capitels weiß mit seinen Artickeln außschreiben / vnd seinem Herrn vberantworten. Er soll dasselbig auch selbst behalten vnd in ein Bůch machen / alle züg so er thůt oder gethan hat / beschreiben / wann er dann seine züg also ordenlich beschriben hat / vnd seinem Herrn mit sampt seiner Paßporten vberantwort Wie mags einem Herren oder der Landtschafft vbel gefallen / vnd jn nit darnach halten.
+  cs: |-
+    Za 24. a naposledy má pilně sledovat všechno, co patří k řízení a užívání dělostřelectva se vším potřebným příslušenstvím, a každý den zapisovat, co se s děly podniká, ať se táhne, či stojí na místě; aby pak, až se vrátí ke svému pánovi, mohl mu to předat zcela řádně, srozumitelně a zevrubně spolu se svým průvodním listem {Paßporten} od svého zbrojmistra {Zeugmeister}. Potom má dát svůj zápis vypsat načisto, pěkně, jasně a řádně po kapitolách s jeho články a odevzdat svému pánovi. Má si jej také sám ponechat a svázat v knihu a popisovat všechna tažení {züg}, která koná či vykonal. Když pak takto řádně popíše svá tažení a odevzdá je svému pánovi spolu se svým průvodním listem, jak by se to mohlo pánovi či zemské obci nelíbit a proč by si ho podle toho nevážili?
+- typ: odstavec
+  de: |-
+    Wann dann ein sollicher geschickter sich also halten / vnnd seinen bericht ordenlich brengen wirdt / warumb wolt ein Herr sollichen nicht verehren vnd wol halten / sich des frewen / daß er einen Vnderthanen hat / der sich also wol schickt / vnnd einen trost derhalben an jhm haben. Darumb soll ein Herr solliche Leut wolhalten / dann was er an ein solchen wendet / das ist wol angelegt / Soll auch sein beschreibung zu der Arcolorei bei anderen beschribenen Ordnungen lassen einschreiben / durch wen das gemacht vnnd geschehen
+  cs: |-
+    Když se tedy takový schopný muž bude takto chovat a podá svou zprávu řádně, proč by ho pán neměl uctít, dobře chovat, radovat se z toho, že má poddaného, jenž se tak dobře osvědčuje, a mít z něho útěchu? Proto má pán takové lidi dobře chovat, neboť cokoli na takového vynaloží, je dobře uloženo; má také dát jeho spis zapsat k dělostřelectvu mezi ostatní psané řády i se jménem toho, kým to bylo sepsáno a učiněno
+poznamky:
+- n: 1
+  text: |-
+    V tisku „schwerffen“ – zkomolenina či tiskařský omyl místo *werffen* (vrhat, patrně kontaminací se slovem *schiessen* / *schweren*).
+- n: 2
+  text: V tisku tiskařská přesmyčka „Schiffbürcken“ místo *Schiffbrücken*.

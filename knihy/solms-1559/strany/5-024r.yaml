@@ -1,0 +1,22 @@
+id: 5-024r
+list: 24 (5. kniha)
+strana: recto
+sken: 483
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Das sibend Blochausz.
+  cs: |-
+    Sedmý srub.
+- typ: odstavec
+  de: |-
+    DIses Blochausz ist gleicher gestalt/ wie dise hieoben vierung/ ein Auszführung an einer Schantzen/ so auch von einem Blochausz zum anderen gehet.
+  cs: |-
+    Tento srub jest téže podoby jako tento čtverhran nahoře, totiž výspěk na zákopu, který rovněž běží od jednoho srubu ke druhému.[^1]
+poznamky:
+- n: 1
+  text: |-
+    Rozkládací dvojlistový arch se signaturou `E` a foliací `24`: text sedmého srubu je vytištěn na levé polovině širokého rozkládacího listu (pravá polovina zůstává prázdná) a na rubu (`5-024v`, sken `484`) následuje celostránkový rozkládací dřevořez. Obsahově je text sedmého a osmého srubu prohozen: popis „výspku na spojovacím zákopu“ se pojí spíše ke šesté tabuli (`482`), kdežto rozkládací tabule na rubu (`484`) znázorňuje hlavní čtverhrannou pevnost napůl ve vodě a napůl na suchu popsanou až u osmého srubu (`5-025r`).

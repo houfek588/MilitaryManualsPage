@@ -1,0 +1,33 @@
+id: 4-013r
+list: 13 (4. kniha)
+strana: recto
+sken: 413
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Volgt von Redern/ Scheiben/ Zögen vnd Hebzeugen.
+  cs: |-
+    Následuje o kolech, kotoučích {Scheiben}, kladkostrojích {Zögen} a zvedácích {Hebzeugen}.
+- typ: odstavec
+  de: |-
+    DIeweil dañ an der Artolorei/ Geschütz vnd rüstung eins grossen Hern Zeughauß so vil vñ hoch gelegen vnd darzů so vil Rüstung vnd zurichtung gehört vnd sein wil/ so ist hoch von nöten das ein Zeugmeister oder Artoloreimeister wol verstehe vnd wisse/ auch (wie hieuorn vermelt) leut habe die solches künden vñ verstehn/ vnd noch solchem drachte vnd zu wegen bring/ vnd selber die vnderricht/ lehrn vnd anweiß/ wie in der rechten Beschreibung desselbigen Ampts Bůch zu finden vñ klar angezeigt ist/ on not solchs widerumb zu erholen/ Dieweil aber doch (wie gemelt) in ein Zeughauß von Geschütz souil gehört/ hab ich nit vnderlassen wöllen solche stück ein jedes besonder inn den augenschein zubringen/ vñ darbei ein kurtzen bericht wie das verstanden soll werden/ dann der augenschein gibt der beschreibung vil bericht vnd verstandt/ daß mann durch dieselbigen Patron desto baß verstehn mag/ vnd ist auch dem Zeugmeister ein grosser behelff sein Werckleut damit anzuweisen/ wann sie den augenschein also mit seinen massen vnd gerechter kreiden vor jnhaben/ Also zeugt vñ macht ein Zeugmeister gůt Werckleut/ dann künden sie sich desto weniger entschůldigen/ wann sie gerechte Patron vor sich haben.
+  cs: |-
+    Poněvadž na artilerii {Artolorei}, dělech {Geschütz} a výstroji {rüstung} zbrojnice {Zeughauß} velikého pána tolik a tak vysoce záleží a náleží k ní tolik výzbroje a úprav, jest nanejvýš nutné, aby tomu zbrojmistr {Zeugmeister} neboli mistr artilerie {Artoloreimeister} dobře rozuměl a znal to, a aby měl (jak již výše zmíněno) lidi, kteří to umějí a chápou, podle toho usiloval a vše opatřoval a sám je učil, školil a vedl, jak jest to vyloženo a zřetelně ukázáno v pravé knize popisující tentýž úřad, takže není třeba to znovu opakovat. Jelikož však (jak řečeno) do zbrojnice k dělostřelectvu patří tak mnoho věcí, nechtěl jsem opomenout předvést takové kusy každý zvlášť na očích spolu s krátkým výkladem, jak tomu má být rozuměno; neboť názorný pohled dodává popisu mnoho objasnění a porozumění, takže podle takovýchto vzorů lze vše tím lépe pochopit. Zbrojmistrovi jest to pak velikou pomůckou při navádění jeho řemeslníků, mají-li před sebou takovýto názorný obraz s jeho rozměry a přesnými mírami (*kreiden*);[^1] takto si zbrojmistr vychová a vycvičí dobré řemeslníky, neb se pak mohou tím méně vymlouvat, mají-li před sebou správné vzory.
+- typ: odstavec
+  de: |-
+    Deßgleichen werden alle zeugdiener wann sie solche Patronn für sich haben auch desto geschickter/ vnd wissen den Arbeitern desto baß darauff zu sehen vnd einreden/ in der zeit alle sachen den Werckleuten in formen bestellen.
+  cs: |-
+    Stejně tak i všichni zbrojní služebníci {zeugdiener}, mají-li takovéto vzory před sebou, stanou se tím obratnějšími a dokážou na dělníky tím lépe dohlížet a mluvit jim do díla a včas všechnu práci řemeslníkům podle forem objednávat.
+- typ: odstavec
+  de: |-
+    Darumb hab ich solche Figurn allein mit jren beschreibnngen vñ bericht gestalt/ wiewol inn dem rechten Bůch auch vil meldung daruon geschicht/ So will ich doch ein Figur nach der anderen beschreiben vnd jren bericht geben.
+  cs: |-
+    Proto jsem zde sestavil takováto vyobrazení zvlášť s jejich popisy[^2] a výkladem; ačkoliv jest o tom mnoho zmínek i v hlavní knize, chci zde přesto popsat jednu figuru po druhé a podat o nich zprávu.
+poznamky:
+- n: 1
+  text: |-
+    Slovo *Kreiden* zde pravděpodobně stojí za *Grad / Graden* či ryskou křídou (*Kreide*), případně přeneseně ve významu přesných značek a rozměrových údajů.
+- n: 2
+  text: V tisku *beschreibnngen* s obráceným *u* (*n*) místo *beschreibungen*.

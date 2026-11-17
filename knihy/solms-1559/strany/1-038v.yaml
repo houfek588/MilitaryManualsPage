@@ -1,0 +1,45 @@
+id: 1-038v
+list: '38'
+strana: verso
+sken: 86
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    so hab ich auff ewren bericht des Obersten versehung vnnd Regirung verstanden / vnd bedenck bei mir daß es also ist / das es noch nicht vor mich sein will / vnd nicht sehen kan was ich bei den andern zweien Amptern sehen mag / vnd hab wol lust zu den andern zweien Amptern eins / dieweil jr mir so einen getrewlichen rath vnnd bericht gethan habt / so will ich euch freundtlich bitten / wölt mir nun das best rathen welches vnder den zweien ich nemen soll / dann sie gefallen mir beide wol.
+  cs: |-
+    pochopil jsem podle vaší zprávy pověření a správu nejvyššího polního hejtmana {Obersten} a myslím si sám u sebe, že tomu tak je, že to ještě není pro mne a že bych tam nemohl vidět to, co mohu vidět u druhých dvou úřadů; a mám vskutku chuť k jednomu z těch druhých dvou úřadů. Poněvadž jste mi dal tak věrnou radu a zprávu, chci vás přátelsky poprosit, abyste mi nyní poradil to nejlepší, který z těch dvou si mám vzít, neboť se mi oba velmi zamlouvají.
+- typ: nadpis
+  uroven: 3
+  de: Alter Vatter.
+  cs: Starý otec.
+- typ: odstavec
+  de: |-
+    Nun wolan mein Son / dieweil du dann weitter rath an mich begerest vnd ich dir so weit gerathen hab / so will ich dir mein rath nit versagen sonder weitter mittheiln / vnd sag in der kürtz / daß das Artolorei ampt schwere / sörgliche versehung vnd werck hat / dann es noch gar vil anheng hat die darzů gehören vnnd nicht gering seind / Darumb will ich dir rathen / dieweil diß dein erster Zug ist / daß du es dißmal mit der Artolorei laßt bleiben / biß daß du erst sehest was es ist.
+  cs: |-
+    Nuže dobrá, můj synu, poněvadž ode mne žádáš další radu a já jsem ti již potud radil, nechci ti svou radu odepřít, nýbrž ti ji dále sdělím a v krátkosti ti povím, že úřad dělostřelectva {Artolorei} má těžkou, nebezpečnou správu a dílo, neboť má ještě velmi mnoho příslušenství, jež k němu patří a není nepatrné. Proto ti radím, poněvadž toto je tvé první tažení {Zug}, abys to tentokrát s dělostřelectvem nechal být, dokud nejprve neuvidíš, co to je.
+- typ: odstavec
+  de: |-
+    Nun will ich dir zum ersten rathen zu dem Feldmarschalck / daß du auff den warten mögest / dann der Zeugmeister vnnd Feldmarschalck haben vil in dem Feld miteinander zuthůn / daß sie bei einander sein vnnd handeln müssen / so sichst du bei dem Feldmarschalck solches auch / vnd wann mann etwas inn den Schantzen mit dem Geschütz handeln wirt / dann kanst du allezeit souil der weil haben / daß du darzů kömpts vnd besichst was mann damit handelt / Aber der Feldmarschalck hat für vnd für auß vilen vrsachen im Feld vnd im Leger zuthůn vnd zu handeln / da vnder weilen die Artolorei still steht vnd nicht zuhandeln hat / Darumb rath ich dir zum ersten zu dem Feldmarschalck / da mancherlei zuthůn vnd nimmehr růhe ist / dann magst du wol etwas sehen.
+  cs: |-
+    Nyní ti tedy nejprve radím k polnímu maršálkovi {Feldmarschalck}, abys sloužil u něj; neboť zbrojmistr {Zeugmeister} a polní maršálek mají v poli mnoho společného na starosti, takže musejí být pohromadě a společně jednat – tak to uvidíš i u polního maršálka, a když se bude něco konat v šancích {Schantzen} s děly {Geschütz}, budeš mít vždy tolik času, že tam zajdeš[^1] a prohlédneš si, co se s nimi dělá. Avšak polní maršálek má z mnoha příčin ustavičně co na práci a co vyřizovat v poli i v ležení {Leger}, zatímco dělostřelectvo občas stojí na místě a nemá co činit; proto ti nejprve radím k polnímu maršálkovi, kde je rozmanitá práce a nikdy není klidu – tam můžeš leccos vidět.
+- typ: nadpis
+  uroven: 3
+  de: Son.
+  cs: Syn.
+- typ: odstavec
+  de: |-
+    Nun wolan so will ich euch volgen lieber alter Vatter / vnnd meinen Herren bitten daß er mir dahin zum Feldmarschalck helffen wöl / Lieber alter Vatter ich begern den gůten getrewen rath bei euch / vnd wann mich not angehen wirdt / dann komme ich wider zu euch vnd hab rath / dann ich den getrewlich bei euch befinde.
+  cs: |-
+    Nuže dobrá, tedy vás poslechnu, milý starý otče, a poprosím svého pána, aby mi pomohl tam k polnímu maršálkovi. Milý starý otče, prosím u vás o dobrou věrnou radu, a kdykoli na mne dolehne nouze, přijdu opět za vámi pro radu, neboť ji u vás věrně nacházím.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Instruction vnd vnderricht eines jungen Gesellen / der Krieg suchen vnd gebrauchen will.
+  cs: |-
+    Instrukce a poučení pro mladíka, který chce vyhledávat a konat vojenskou službu.
+poznamky:
+- n: 1
+  text: V tisku přesmyčka *kömpts* za *kömpst*.

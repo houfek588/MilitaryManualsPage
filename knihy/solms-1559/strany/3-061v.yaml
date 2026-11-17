@@ -1,0 +1,48 @@
+id: 3-061v
+list: '61'
+strana: verso
+sken: 374
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Wie mann rohen Salpeter leuttern soll.
+  cs: Jak se má čistit surový ledek {Salpeter}
+- typ: odstavec
+  de: |-
+    WIltu Salpeter sieden vnd recht leutern / so nim lebendigen Kalch thů jn in regen oder schön wasser / vnnd laß stehn drei tag oder nacht / so wirt ein Laug dauon / die nim schön ab / vnd thů den rechten Salpeter darein / der vor nicht gesotten noch geleutert ist / seud jn daß das vierdttheil ein seudt / spreng denn desselben wassers darein ein wenig auff ein glüenden Kolen / geht denn plaws Feur dauon so hat es gnůg / dann geuß das wasser ab in ein sauber geschir / laß kalt werden / so findstu gůten gemachten Salpeter an dem boden.
+  cs: |-
+    Chceš-li vařit a řádně čistit ledek, vezmi nehašené vápno (*lebendigen Kalch*), dej je do dešťové nebo čisté vody a nech stát tři dny nebo noci; vznikne z toho louh, jejž čistě seber, a vlož do něj ten surový[^1] ledek, který předtím nebyl vařen ani čištěn. Vař jej, dokud se nevyvaří čtvrtina; pak postříkej trochou téže vody žhavý uhel – vyšlehne-li z toho modrý oheň, má již dost. Poté vodu slij do čisté nádoby a nech vychladnout; tak najdeš na dně dobrý připravený ledek.
+- typ: nadpis
+  uroven: 3
+  de: Aber ein Lere wie mann recht salpeter leutern soll.
+  cs: Jiné poučení, jak se má ledek řádně čistit
+- typ: odstavec
+  de: |-
+    WIltu Salpeter leutern gůt vnd gerecht machen / so nim der vorgeschriben starcken Laug / thů den Salpeter darein / laß jn also lang sieden / alß mann Fisch seudt / geuß jn denn ab in ein schöns Becken laß jn kalt werden / vnd schüt denn die Laug auch ab / thů den Salpeter in den Kessel / laß dz sieden / daß das vierdttheil oder halb ein seud / thů das aber von dem Feur / vnd laß kalt werden / schüts denn wider ab vnd nim den Salpeter herauß / vnd dörre jn fast wol / also soltu den gůten Salpeter leutern / der vor auch geleutert ist.
+  cs: |-
+    Chceš-li čistit ledek a učinit jej dobrým a pravým, vezmi výše předepsaný silný louh, vlož do něj ledek a nech jej vřít tak dlouho, jak se vaří ryby; pak jej slij do čisté mísy, nech vychladnout a slij i ten louh. Dej ledek do kotle, nech jej vařit, až se vyvaří čtvrtina nebo polovina, opět jej sejmi z ohně a nech vychladnout; potom jej znovu slij, ledek vyjmi a velmi dobře jej usuš – takto máš čistit dobrý ledek, který již dříve byl čištěn.
+- typ: nadpis
+  uroven: 3
+  de: Aber ein Lere wie mann etwas von Salpeter leutern soll.
+  cs: Jiné poučení, jak se má čistit větší množství[^2] ledku
+- typ: odstavec
+  de: |-
+    WIltu Salpeter leutern / etli Centner / weniger oder mehr / so nim lauter wasser oder Wein / thů den Salpeter darein / daß das wasser bloß vber den salpeter auffgehe / thů jn vber ein Feur / vnd so er anhebt zu sieden / so thu zu einer zeit salarmoniac / vnd 6. pfundt Grünspan / oder vil guten Galitzenstein darinn / seud jn in der Laug als dich das Bůch dauorn gelert hat / vnd geuß das wasser ab / laß den salpeter gestehn / thu darnach das wasser wider vber ein Feur / vnd seud das aber als wie vor / vnd thu aber 1. pfundt salarmoniac darein / wanns gesoden hat so geuß es ab / vnd laß gestehn / nim darnach den salpeter herauß / vnnd laß jn wol getrucken / so hastu guten wolgeleuterten salpeter.
+  cs: |-
+    Chceš-li čistit ledek, několik[^3] centů {Centner}, méně či více, vezmi čirou vodu nebo víno a vlož do něj ledek tak, aby voda vystoupila jen těsně nad ledek; dej jej nad oheň, a jakmile začne vřít, přidej najednou salmiak (*salarmoniac*) a 6 liber {pfundt} měděnky (*Grünspan*), anebo mnoho dobré skalice (*Galitzenstein*), vař jej v louhu, jak tě tato kniha naučila výše, a vodu slij, aby ledek zkrystalizoval. Potom dej vodu opět nad oheň, vař ji znovu jako dříve a přidej opět 1 libru salmiaku; až se povaří, slij ji a nech zkrystalizovat. Poté ledek vyjmi a nech jej dobře uschnout – tak budeš mít dobrý, dobře přečištěný ledek.
+- typ: nadpis
+  uroven: 3
+  de: Ein salpeter zu leutern der vor auch geleutert ist / vnd doch nit gnug.
+  cs: Jak čistit ledek, jenž již byl dříve čištěn, a přece ne dostatečně
+poznamky:
+- n: 1
+  text: |-
+    Tisk má *rechten Salpeter* („pravý / vlastní ledek“ – zřejmě obměna či tisková záměna za *rohen Salpeter* podle nadpisu).
+- n: 2
+  text: |-
+    V nadpisu stojí *etwas von Salpeter*, čímž se podle počátečních slov odstavce míní větší dávka (*etli[ch] Centner*).
+- n: 3
+  text: |-
+    Tisk má zkrácený tvar *etli* místo *etlich* („několik“; BSB OCR četlo *etft*).

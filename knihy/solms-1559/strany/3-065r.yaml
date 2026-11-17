@@ -1,0 +1,63 @@
+id: 3-065r
+list: '65'
+strana: recto
+sken: 381
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Wie mann Salpeter mit einander sieden oder leuttern soll.
+  cs: Jak se má ledek {Salpeter} vcelku vařit čili čistit
+- typ: odstavec
+  de: |-
+    THů den Salpeter in ein lautter Wasser oder Wein ist besser / also das dise feuchte ein zwerchfinger vber den Salpeter gehe / vnnd wañ das auff dem Feur anhebt zu sieden / so nem zu einem Zentner Salpeters / 1. pfundt Salarmoniac / vnd 6. lot Spangrün / oder also vil Glaritzenstein / vnd laß es mit einander sieden / gieß dann die Laugen ab / laß den Salpeter stehn / darnach seude dieselbige Laug wider wie vor / vnd thů aber ein pfundt Salarmoniac darein / wañ es wol eingesotten ist / gieß es ab vnd laß stehn / darnach nem mann den salpeter herauß / vnd trücknen jn wol an der Sonnen.
+  cs: |-
+    Dej ledek do čisté vody – anebo víno jest ještě lepší – tak, aby tato tekutina sahala na šířku prstu nad ledek; a když se to na ohni začne vařit, vezmi na jeden centnýř {Zentner} ledku 1 libru {pfundt} salmiaku (*Salarmoniac*) a 6 lotů {lot} měděnky (*Spangrün*) nebo stejně tolik bílé skalice (*Glaritzenstein*)[^1] a nech to vařit spolu. Pak louh slij a ledek nech stát; potom týž louh znovu vař jako předtím a přidej do něj opět jednu libru salmiaku. Když se dobře svaří, slij jej a nech stát; potom ledek vyber a dobře jej usuš na slunci.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Den Salpeter zuerkennen ob er gnug geleutert oder aber nach mit saltz gemischt sei.
+  cs: |-
+    Jak poznat ledek, zda jest dostatečně vyčištěn, anebo je-li dosud smíšen se solí
+- typ: odstavec
+  de: |-
+    ITem so leg mañ ein wenig auff ein glüenden Kolen breñt er dañ on springen / so ist er gůt / wo er aber sich spritzt so ist er nit gůt / dañ er hat vil saltz darbei.
+  cs: |-
+    Dále: polož trochu [ledku] na řeřavý uhel {Kolen}; hoří-li bez praskání, jest dobrý, kdežto prská-li, není dobrý, neboť má v sobě mnoho soli.
+- typ: nadpis
+  uroven: 3
+  de: Ein anders.
+  cs: Jiný způsob
+- typ: odstavec
+  de: |-
+    NEme salpeter so groß als ein nůß lege jn in ein sauber Keßlin mit kaltem wasser / laß jn ein weil dariñ ligen / thů dann das wasser herab / vnd versůch es darnach ist es Gesaltzen / hat er salpeter fast abgenomen in dem wasser / so ist noch saltz darbei.
+  cs: |-
+    Vezmi kus ledku velký jako ořech, vlož jej do čistého kotlíku se studenou vodou a nech jej v ní chvíli ležet; pak vodu slij a ochutnej ji: je-li slaná a ledek ve vodě značně ubyl,[^2] jest v něm dosud sůl.
+- typ: nadpis
+  uroven: 3
+  de: Saltz von salpeter zusieden ob er des zuuil het.
+  cs: Jak vyvařit sůl z ledku, má-li jí příliš mnoho
+- typ: odstavec
+  de: |-
+    NEm salpeter souil du wilt vñ thů jn in ein sauber Keßlin thů souil Essig oder wein darzů das er bloß vber den salpeter gehe / vnd rür jn wol vndereinander / meß mit eim Rütelin wie vil Essig oder Wein in dem Kessel sei / vnd zeichen daselbst ein maß / laß es sieden biß so lang das es auff die helfft eingesotten ist / als mañ mit dem Rütlein wol gesehen kan / so geuß den Essig oder Wein herab / als dann findestu das saltz an dem bodem / vnd den salpeter gescheit in dem wasser / den trücken mann wol / so ist der salpeter gerecht.
+  cs: |-
+    Vezmi ledku, kolik chceš, dej jej do čistého kotlíku a přilej k němu tolik octa nebo vína, aby ledek sotva zakrýval, a dobře to promíchej. Změř hůlkou, kolik je v kotli octa nebo vína, a vyznač tam míru; nech to vařit tak dlouho, dokud se to nevyvaří na polovinu, jak lze pomocí hůlky dobře vidět. Pak ocet nebo víno slij: tehdy najdeš sůl na dně a ledek oddělený v tekutině; ten dobře usuš, a ledek jest správný.
+- typ: nadpis
+  uroven: 3
+  de: Salpeter von saltz vnd Alaun zuscheiden.
+  cs: Jak oddělit ledek od soli a kamence
+- typ: odstavec
+  de: |-
+    NIm 2. lb. vngeleschten Klach / 1. lb. spangrün / 2. lb. saltz / vnd mach auß allen stücken ein Laugen / es sei wein oder Essig / so die 4. tag gestanden ist schöpffs lauter oben ab / dz ist laug / thů dē salpeter in einn
+  cs: |-
+    Vezmi 2 libry nehašeného vápna,[^3] 1 libru měděnky a 2 libry soli a udělej ze všech těch přísad louh, ať už s vínem nebo s octem; když 4 dny postál, seber svrchu čistou tekutinu – toť louh. Dej ledek do
+poznamky:
+- n: 1
+  text: |-
+    V tisku *Glaritzenstein* (sazečská obměna za *Galitzenstein*, bílou skalici čili síran zinečnatý). V nadpisu druhého oddílu stojí *nach* za *noch* („dosud“).
+- n: 2
+  text: V tisku *hat er salpeter fast abgenomen* (*er* místo členu *der*).
+- n: 3
+  text: |-
+    V tisku *Klach* – tiskařská přesmyčka za *Kalch* („vápno“); zkratka *lb.* označuje libru (*Pfund*).

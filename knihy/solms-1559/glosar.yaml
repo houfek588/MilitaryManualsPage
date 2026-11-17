@@ -34,6 +34,12 @@ hesla:
   - Kriegs Herrn
   - Herrn
   - Oberster Kriegsherr
+  - Kriegs Herr
+  - Kriegßhern
+  - Krigßherr
+  - Feldherr
+  - oberst Feldherr
+  - obersten Feldherrn
   kategorie: velitele
   hledat:
   - válečn\w* pán
@@ -78,6 +84,13 @@ hesla:
   - obersten Feldhauptleut
   - Obersten Feldhauptmans
   - oberster Feldhauptman
+  - Feldoberster
+  - Feldobersten
+  - Feldoberst
+  - Feldöbersten
+  - Veldoberster
+  - Obersten Veldhauptman
+  - Kriegs Oberster
   nepouzivat:
   - generální polní kapitán
   - generální polní hejtman
@@ -98,6 +111,7 @@ hesla:
   - Oberster
   - Obersten
   - Oberster der Knecht
+  - Regiments Obersten
   kategorie: velitele
   hledat:
   - plukovní[kc]
@@ -114,6 +128,7 @@ hesla:
   - Feldsmarschalcks
   - Feldmargschalck
   - Marschalcks
+  - Veldmarschalck
   nepouzivat:
   - polní maršál
   kategorie: velitele
@@ -161,6 +176,7 @@ hesla:
   - Rittmeister
   - Rittmeyster
   - Ritmeister
+  - Ritmeistern
   kategorie: velitele
   hledat:
   - rytmist
@@ -319,6 +335,7 @@ hesla:
   - Forierer
   - Forierern
   - Forier
+  - forieren
   nepouzivat:
   - furiér
   - furiant
@@ -410,6 +427,9 @@ hesla:
   - Kriegsräthen
   - Kriegßräth
   - Räth
+  - Kriegßreth
+  - Kriegßrethen
+  - Rath
   kategorie: velitele
   hledat:
   - válečn\w* rad
@@ -458,6 +478,9 @@ hesla:
   - Obersten Zeugmeister
   - oberst Zeugmeister
   - Artlereimeister
+  - Artoloreimeister
+  - General Artolorei
+  - General Zeugmeister
   nepouzivat:
   - zbrojní mistr
   kategorie: delostrelectvo
@@ -491,6 +514,7 @@ hesla:
   - Buchsenmeister
   - Buchsenmeistern
   - Büchsenmeistern
+  - Büchsemeister
   kategorie: delostrelectvo
   hledat:
   - puškař
@@ -520,6 +544,9 @@ hesla:
   - Quastitor
   - Quastitorn
   - Quasitorn
+  - Schantzer
+  - Schantzern
+  - Quastores
   nepouzivat:
   - zákopník
   kategorie: opevneni
@@ -605,6 +632,7 @@ hesla:
   - Wundartzt
   - Wundartzet
   - Wundartzets
+  - wundt artzten
   kategorie: velitele
   hledat:
   - ranhojič
@@ -688,6 +716,8 @@ hesla:
   - Lankknecht
   - Landtsknechten
   - Lantzknecht
+  - Lantzknechten
+  - Landtknechten
   nepouzivat:
   - landsknecht
   kategorie: jednotky
@@ -740,6 +770,11 @@ hesla:
   - reissige
   - Reutern
   - Reyssigen
+  - Reisigen zeuge
+  - Reisigen zeugs
+  - Reissigen zeuge
+  - Reisigenzeug
+  - reisig Zeug
   nepouzivat:
   - jezdecká hotovost
   kategorie: jednotky
@@ -796,6 +831,7 @@ hesla:
   de:
   - Ring
   - ringe
+  - Rinck
   kategorie: pravo
   hledat:
   - \bkruh
@@ -822,6 +858,7 @@ hesla:
   - hauff
   - ordenung
   - ordenungen
+  - gewaltig hauff
   kategorie: jednotky
   hledat:
   - \bšik(u|y|ů|em|ách|ovat)?\b
@@ -871,6 +908,10 @@ hesla:
   - Artolerei
   - Artlerei
   - Artholerei
+  - Artolorei
+  - Arcolorei
+  - Artlorei
+  - Arkolorei
   kategorie: delostrelectvo
   hledat:
   - dělostřel
@@ -893,6 +934,12 @@ hesla:
   - Feldtgeschütz
   - Feld Geschütz
   - kleinen Geschütz
+  - Büchen
+  - stück Büchsen
+  - Wagenbürg geschütz
+  - Handtgeschütz
+  - Veldgeschütz
+  - vier Büchsen
   kategorie: delostrelectvo
   hledat:
   - \bděl(o|a|u|em|y|ům|ech|ami)?\b
@@ -911,6 +958,8 @@ hesla:
   - Mauerbrecher
   - Mawrbrecherin
   - Mawerbrecher
+  - Maurbrecher
+  - Mawerbrecherin
   kategorie: delostrelectvo
   hledat:
   - bořič
@@ -923,6 +972,10 @@ hesla:
   - Scharfmetze
   - Scharpffmetzen
   - Matzicana
+  - Scharpffermetzen
+  - Scharpffemetzen
+  - Scharpffenmetzen
+  - Scharpffmetz
   kategorie: delostrelectvo
   hledat:
   - šarfmec
@@ -945,6 +998,7 @@ hesla:
   de:
   - Nachtigall
   - Nachtgall
+  - Nachtigaln
   kategorie: delostrelectvo
   hledat:
   - slav[íi]k
@@ -961,6 +1015,8 @@ hesla:
   - Quarthonen
   - Viertheyl Büchß
   - Carthonen
+  - Cartaunen
+  - doppel Cartaun
   kategorie: delostrelectvo
   hledat:
   - kartoun
@@ -972,16 +1028,11 @@ hesla:
   de:
   - Schlange
   - Schlangen
-  - Notschlange
-  - Nothschlange
   - Feldschlange
-  - halbe Schlange
-  - halb Schlangen
-  - Nothschlangen
-  - Notschlang
   - Schlang
   - Tracana
   - Schlauckana
+  - Feltschlenglein
   kategorie: delostrelectvo
   hledat:
   - kulverin
@@ -992,15 +1043,10 @@ hesla:
   - Falckana
   - Falkone
   - Falckaun
-  - Falckanet
-  - Falkonet
   - Falckona
   - Falckonen
-  - Falckonet
-  - Falckonnet
-  - Falckanetlin
   - Falcka
-  - Falckanetlein
+  - Falkon
   kategorie: delostrelectvo
   hledat:
   - falkon
@@ -1028,6 +1074,12 @@ hesla:
   - Böler
   - Bölern
   - Mörsser
+  - Mörsers
+  - Möser
+  - halb Mörser
+  - Mortier
+  - Mortiers
+  - Mortiern
   kategorie: delostrelectvo
   hledat:
   - (?<!h)moždíř
@@ -1060,6 +1112,7 @@ hesla:
   - doppelten halben Hacken
   - doppel hacken
   - doppeln halben Hacken
+  - dopel hacken
   kategorie: zbrane
   hledat:
   - hákovnic
@@ -1069,13 +1122,14 @@ hesla:
   de:
   - Pulver
   - Puluer
-  - Zündpulver
-  - Zündtpuluer
   - Schlangen Puluer
   - Werckpuluer
   - Hacken Puluer
   - Handtrohr Puluer
   - Puluers
+  - Büchsenpuluer
+  - Büchenpuluer
+  - schießpuluer
   kategorie: delostrelectvo
   hledat:
   - \bprach
@@ -1086,6 +1140,11 @@ hesla:
   - Kuglen
   - Kugeln
   - schlahende kuglen
+  - Kogel
+  - Kogeln
+  - schlagende Kugeln
+  - schlagenden Kugeln
+  - blei Kugel
   kategorie: delostrelectvo
   hledat:
   - \bkoul
@@ -1094,6 +1153,7 @@ hesla:
   de:
   - Munition
   - Municion
+  - Monition
   kategorie: delostrelectvo
   hledat:
   - munic
@@ -1140,6 +1200,9 @@ hesla:
   - Rüstung
   - Balgharnisch
   - Kriegsrüstung
+  - Kriegßrüstung
+  - Kriegßrüstungen
+  - zurüstung
   kategorie: zbrane
   hledat:
   - zbroj\b
@@ -1158,6 +1221,8 @@ hesla:
   - Leger
   - Feldleger
   - Legern
+  - legers
+  - Hauptleger
   kategorie: opevneni
   hledat:
   - ležen
@@ -1166,6 +1231,7 @@ hesla:
   cs: vozová hradba
   de:
   - Wagenburg
+  - Wagenburgk
   kategorie: opevneni
   hledat:
   - vozov\w* hradb
@@ -1179,6 +1245,8 @@ hesla:
   - Schantzen
   - Schansen
   - verschantzen
+  - beschantzen
+  - zwerg Schantz
   kategorie: opevneni
   hledat:
   - šanc
@@ -1206,6 +1274,7 @@ hesla:
   - losiern
   - losiert
   - lastierung
+  - vorlosieren
   kategorie: opevneni
   hledat:
   - ubytován
@@ -1218,6 +1287,8 @@ hesla:
   - Schiff brucken
   - Schiffbrucken
   - Schiffbrücken
+  - Schiffbürcken
+  - Schiffbrück
   nepouzivat:
   - pontonový most
   kategorie: opevneni
@@ -1271,6 +1342,13 @@ hesla:
   - Recht
   - Keyserlichen Rechten
   - Justitien
+  - Justicien
+  - Justitia
+  - Justitica
+  - Jstitien
+  - Kriegßrecht
+  - Regiments Gericht
+  - Reutter Recht
   kategorie: pravo
   hledat:
   - \bsoud
@@ -1310,6 +1388,7 @@ hesla:
   - Malefitz sach
   - Malefitz sachen
   - Malefik
+  - peinliche sach
   kategorie: pravo
   hledat:
   - hrdeln
@@ -1325,6 +1404,7 @@ hesla:
   - Söld
   - solde
   - solden
+  - Solt
   kategorie: zold
   hledat:
   - žold
@@ -1382,6 +1462,8 @@ hesla:
   - Bestelbrieff
   - bestallung
   - bestellbrieff
+  - Bestallungs Artickel
+  - bestallunge
   nepouzivat:
   - kapitulace
   - jmenovací listina
@@ -1437,6 +1519,7 @@ hesla:
   - Centner
   - Zentner
   - Cent
+  - Cen.
   kategorie: miry
   hledat:
   - \bcent
@@ -1499,6 +1582,7 @@ hesla:
   - züg
   - Züge
   - Türckenzug
+  - Kriegßzug
   kategorie: sluzba
   hledat:
   - \btažen
@@ -1530,6 +1614,7 @@ hesla:
   - Kriegßknecht
   - Knechten
   - Kriegsknechten
+  - Kencht
   kategorie: jednotky
   hledat:
   - \bknecht
@@ -1614,6 +1699,7 @@ hesla:
   - practicken
   - Practick
   - Practica
+  - Practic
   kategorie: velitele
   hledat:
   - úklad
@@ -1706,6 +1792,8 @@ hesla:
   - gefeß
   - gefessen
   - Laden
+  - Lade
+  - fessen
   kategorie: delostrelectvo
   hledat:
   - \blafet
@@ -1716,6 +1804,8 @@ hesla:
   - Rohr
   - Rhor
   - Rorn
+  - Rors
+  - Ror
   kategorie: delostrelectvo
   hledat:
   - \bhlav[eň]ň?\w*\b
@@ -1742,6 +1832,10 @@ hesla:
   - Sturmfewrwerck
   - Feuerwerck
   - feurwercken
+  - Feurwerck
+  - Feurwerffen
+  - Fewer
+  - Feurzeugs
   kategorie: delostrelectvo
   hledat:
   - ohňostroj
@@ -1752,6 +1846,8 @@ hesla:
   - Fewrkugel
   - fewrkuglen
   - Feuerkugel
+  - Feur Kugel
+  - Feurkugeln
   kategorie: delostrelectvo
   hledat:
   - ohniv\w* koul
@@ -1800,6 +1896,7 @@ hesla:
   - verlorner Hauffe
   - verloren Hauffen
   - verlorn Hauffen
+  - Verlorn hauff
   kategorie: jednotky
   hledat:
   - ztracen\w* houf
@@ -2094,6 +2191,7 @@ hesla:
   - Hagel Geschütz
   - Hagelgeschuß
   - hagelgeschuk
+  - hagel schos
   kategorie: delostrelectvo
   hledat:
   - kartáč
@@ -2107,6 +2205,10 @@ hesla:
   - Salpeter
   - Salpeter sieder
   - Salbeter
+  - Salpetter
+  - Salpeters
+  - Saluter
+  - Salutter
   kategorie: delostrelectvo
   hledat:
   - \bled(ek|ku|kem)\b
@@ -2226,6 +2328,8 @@ hesla:
   - Handbüchßen
   - Handror
   - Handrorn
+  - Handtror
+  - Handtbüchsen
   kategorie: zbrane
   hledat:
   - ručnic
@@ -2268,6 +2372,8 @@ hesla:
   - Streichwehren
   - Streychwehren
   - Streichwehrn
+  - streichwern
+  - streichen
   kategorie: opevneni
   hledat:
   - boční\w* obran
@@ -2342,6 +2448,7 @@ hesla:
   - Gerichtsleut
   - Gerichtsleuten
   - Gerichtsman
+  - Schepffen
   kategorie: pravo
   hledat:
   - přísedíc
@@ -2417,6 +2524,7 @@ hesla:
   - Kundtschafft
   - Kundtschafft sag
   - Kundtschafften
+  - kundt
   kategorie: pravo
   hledat:
   - svědectv
@@ -2548,6 +2656,9 @@ hesla:
   - anreyt gelt
   - Anrittgeld
   - reitgelt
+  - anrit
+  - anrit geld
+  - anrit gelts
   kategorie: zold
   hledat:
   - příjezdn
@@ -2593,6 +2704,7 @@ hesla:
   - Brantschatzen
   - Brantschatzung
   - Prandt
+  - gebrantschatzt
   kategorie: zold
   hledat:
   - výpaln
@@ -2658,6 +2770,7 @@ hesla:
   - Paßworten
   - Pasport
   - Pasporten
+  - Paßpfort
   kategorie: sluzba
   hledat:
   - průvodní\w* list
@@ -2671,6 +2784,8 @@ hesla:
   - stürm
   - stürme
   - stürmen
+  - Surm
+  - storm
   kategorie: sluzba
   nepouzivat:
   - šturm
@@ -2683,6 +2798,8 @@ hesla:
   - Kreide
   - Kreiden
   - Kreyde
+  - Kreidenschuß
+  - Kreidenschoß
   kategorie: sluzba
   hledat:
   - poln\w* znamen
@@ -2725,6 +2842,8 @@ hesla:
   - Schuh
   - schůch
   - schůh
+  - Schůhen
+  - schůhß
   kategorie: miry
   hledat:
   - \bstop(a|y|u|ou|ách)?\b
@@ -2787,6 +2906,7 @@ hesla:
   cs: čtvrtka
   de:
   - Vierling
+  - Quertlin
   kategorie: miry
   hledat:
   - \bčtvrtk(a|y|u|ou)\b(?! zlat)
@@ -3371,6 +3491,8 @@ hesla:
   de:
   - Römischen Reich
   - Römischen Reichs
+  - Heiligen Römischen Reichs
+  - Römisch Reich
   kategorie: mista
   hledat:
   - římsk\w* říš
@@ -3594,6 +3716,10 @@ hesla:
   - Krigsleuten
   - Krigsuolck
   - Volck
+  - Kriegs Leut
+  - Kriegßleut
+  - Kriegßleuten
+  - Kriegßman
   kategorie: jednotky
   hledat:
   - válečn\w* lid
@@ -3619,6 +3745,7 @@ hesla:
   - beuelchsleuten
   - Beuelchßleuten
   - Beuelchßman
+  - Beuelchßleut
   kategorie: velitele
   hledat: []
   pozn: Doslova „lidé rozkazu“ – souhrnně všichni, kdo ve vojsku velí, od plukovníka po rotmistra.
@@ -3674,6 +3801,8 @@ hesla:
   - Quartiern
   - quartiren
   - Quarttier
+  - Quartir
+  - Quartirs
   kategorie: opevneni
   hledat:
   - \bkvartýr(?!mist|n)
@@ -3700,6 +3829,7 @@ hesla:
   - meutereien
   - auffrür
   - auffrůr
+  - auffruhr
   kategorie: pravo
   hledat:
   - \bvzpour
@@ -3747,6 +3877,7 @@ hesla:
   de:
   - Wüscher
   - Wischer
+  - wüsch
   kategorie: delostrelectvo
   hledat:
   - \bvytěrá[kc]
@@ -3780,6 +3911,7 @@ hesla:
   - Wagenburgmeister
   - Wagenburgmeisters
   - Wagenburg meister
+  - Wagenburgkmeister
   kategorie: opevneni
   hledat:
   - mistr\w* vozov\w* hradb
@@ -3822,6 +3954,7 @@ hesla:
   - Pasitheien
   - Pasteien
   - Paßtheien
+  - Pastei
   kategorie: opevneni
   hledat:
   - \bbašt
@@ -3895,6 +4028,7 @@ hesla:
   - Vntermarschalck
   - Untermarschalk
   - vnder Marschalck
+  - vnder Veldmarschalck
   kategorie: velitele
   hledat: []
   pozn: Zástupce a pobočník polního maršálka (Untermarschalk).
@@ -4088,6 +4222,7 @@ hesla:
   cs: píce
   de:
   - Füterung
+  - Fütterung
   kategorie: zold
   hledat: []
   pozn: Krmivo (seno, oves, tráva) pro jezdecké i tažné koně vojska.
@@ -4161,3 +4296,1090 @@ hesla:
   kategorie: mista
   hledat: []
   pozn: Severské vojsko z Norska (v Solmsově výčtu národů pod těžkou jízdou či pěchotou).
+- id: kopinik
+  cs: kopiník
+  de:
+  - Spiesser
+  kategorie: jednotky
+  hledat: []
+  pozn: Těžce ozbrojený jízdní bojovník s dřevcem (kopím) na koni krytém zbrojí (verdeckter Hengst), řazený vedle kyrysníků.
+- id: jednokony-jezdec
+  cs: jednokoní jezdec
+  de:
+  - Einspenigen
+  kategorie: jednotky
+  hledat: []
+  pozn: Einspännige – jednotlivě najímaní jezdci sloužící mimo velké šlechtické roty s jedním až třemi koňmi.
+- id: polni-kuchar
+  cs: polní kuchař
+  de:
+  - Sudler
+  - Garkoch
+  kategorie: zold
+  hledat: []
+  pozn: Táborový kuchař a vařič teplých jídel v ležení pod dohledem pluku či profouse.
+- id: auditor
+  cs: auditor
+  de:
+  - Auditores
+  - Auditorn
+  kategorie: pravo
+  hledat: []
+  pozn: Právnicky vzdělaný soudní rada či odvolací soudce (doktor práv); Solms v První knize odmítá jejich nadřazování tradičním plukovním a jezdeckým soudům.
+- id: komisni-pan
+  cs: komisní pán
+  de:
+  - Commißherrn
+  kategorie: zold
+  hledat: []
+  pozn: Úředník pověřený dohledem nad komisem a zásobováním vojska vedle proviantního pána.
+- id: vrubovka
+  cs: vrubovka
+  de:
+  - Holtzkerben
+  kategorie: zold
+  hledat: []
+  pozn: Dřevěná vrubová hůlka (Holzkerbe) sloužící k záznamu dluhů vojáků za potraviny odebrané na úvěr od markytánů do vyplacení žoldu.
+- id: proviantni-trziste
+  cs: proviantní tržiště
+  de:
+  - Prouiantplatz
+  - Prouiantpletzen
+  kategorie: zold
+  hledat: []
+  pozn: Vyhrazené a zvláštní ochranou nadané místo vně ležení nebo v plukovním kvartýru, kam se sváží proviant k prodeji a oceňování.
+- id: strelec-z-rucnice
+  cs: střelec z ručnice
+  de:
+  - Rorschützen
+  kategorie: jednotky
+  hledat: []
+  pozn: Pěší střelec vyzbrojený ručnicí (Handrohr), nasazovaný mj. k obraně vozové hradby.
+- id: stitovy-vuz
+  cs: štítový vůz
+  de:
+  - Schirmwagen
+  - wagen mit schirmen
+  kategorie: opevneni
+  hledat: []
+  pozn: Speciální tříspřežní vůz vozové hradby s podélnou dřevěnou zástěnou a bočními stupátky pro rychlou přepravu a palebné krytí střelců.
+- id: sarvatka
+  cs: šarvátka
+  de:
+  - Scharmützel
+  kategorie: sluzba
+  hledat: []
+  pozn: Drobnější průzkumné či harcovnické střetnutí před hlavním šikem nebo na křídlech.
+- id: valecny-rad
+  cs: válečný řád
+  de:
+  - Kriegsordnung
+  - Kriegßordnung
+  - Kriegs ordnung
+  - Kriegs Regiment
+  kategorie: pravo
+  hledat: []
+  pozn: Souhrn předpisů pro kázeň, správu, úřady a právo ve vojsku (vedle artikulního listu).
+- id: valecne-urady
+  cs: válečné úřady
+  de:
+  - Kriegßampter
+  - Kriegsampter
+  kategorie: velitele
+  hledat: []
+  pozn: Souhrnné označení pro čtyřiadvacet vojenských úřadů správy, soudnictví, zásobování a velení v poli.
+- id: tezka-kulverina
+  cs: těžká kulverina
+  de:
+  - Notschlange
+  - Nothschlange
+  - Notschlang
+  - Notschlangen
+  - Nothschlangen
+  kategorie: delostrelectvo
+  hledat:
+  - těžk\w* kulverin
+  pozn: Těžké dlouhé dělo s velkým dostřelem (u Solmse váhy 66 centů, ráže 16 liber železa).
+- id: polovicni-kulverina
+  cs: poloviční kulverina
+  de:
+  - halbe Schlange
+  - halb Schlangen
+  - Halbschlangen
+  - Halbschlang
+  kategorie: delostrelectvo
+  hledat:
+  - polovičn\w* kulverin
+  pozn: Střední dlouhé polní dělo (u Solmse váhy 24 centů, ráže 7 liber železa).
+- id: ctvrtecni-kulverina
+  cs: čtvrteční kulverina
+  de:
+  - Quartierschlange
+  - Viertel Schlangen
+  - viertheil Schlangen
+  - viertel Schlangen
+  - vierteil Schlangen
+  kategorie: delostrelectvo
+  hledat:
+  - čtvrteční\w* kulverin
+  pozn: Lehké dlouhé polní dělo (u Solmse váhy 12 centů, ráže 2 libry železa).
+- id: falkonet
+  cs: falkonet
+  de:
+  - Falckanet
+  - Falkonet
+  - Falckonet
+  - Falckonnet
+  - Falckanetlin
+  - Falckanetlein
+  - halb Falckonetlein
+  - Falconet
+  - Falconetlin
+  - halb Falconetlin
+  - halbe Falconetlein
+  - halb Falconetlein
+  - Falconetlein
+  kategorie: delostrelectvo
+  hledat:
+  - \bfalkonet
+  - polovičn\w* falkonet
+  pozn: Lehké polní dělo menší než falkona (střílelo kouli kolem 1–2 liber; poloviční falkonet i jako ruční či vozová zadovka).
+- id: polovicni-kartouna
+  cs: poloviční kartouna
+  de:
+  - Halb Cartaun
+  - halb Cartaun
+  - Halb Cartaunen
+  - Halbe Cartaunen
+  kategorie: delostrelectvo
+  hledat:
+  - polovičn\w* kartoun
+  pozn: Střední obléhací a polní dělo o poloviční hmotnosti koule oproti plné kartouně (u Solmse 25 liber železa při váze hlavně 36 centů).
+- id: prulomova-dela
+  cs: průlomová děla
+  de:
+  - Prechgeschütz
+  - Brechgeschütz
+  - Prech
+  kategorie: delostrelectvo
+  hledat:
+  - průlomov\w* děl
+  pozn: Těžká obléhací děla (šarfmece, slavíci, těžké kulveriny a kartouny) určená k boření hradeb.
+- id: mistr-lodniho-mostu
+  cs: mistr lodního mostu
+  de:
+  - Schiffbrückenmeister
+  kategorie: velitele
+  hledat:
+  - mistr\w* lodního mostu
+  pozn: Důstojník podřízený zbrojmistrovi, který spravuje vozy s lodními čluny a stavbu pontonových mostů přes vodní toky.
+- id: zemsky-usedlik
+  cs: zemský usedlík
+  de:
+  - Landtsesse
+  - Landtsessen
+  kategorie: osoby
+  hledat:
+  - zemsk\w* usedl[íi]k
+  pozn: Usedlý poddaný či nižší šlechtic vázaný k zemské obraně.
+- id: puskovy-strelec
+  cs: puškový střelec
+  de:
+  - Büchsenschütz
+  - Büchsenschützen
+  kategorie: jednotky
+  hledat:
+  - puškov\w* střelc
+  pozn: Střelec z ruční palné zbraně (oproti vycvičenému dělovému puškaři – Büchsenmeister).
+- id: utocne-naradi
+  cs: útočné nářadí
+  de:
+  - Stormzeug
+  - Sturmzeug
+  kategorie: opevneni
+  hledat:
+  - útočn\w* nářadí
+  pozn: Obléhací a ztečové pomůcky (žebříky, berany, fošny, háky) spravované zbrojmistrem.
+- id: plechova-nadoba
+  cs: plechová nádoba na prach
+  de:
+  - Plechenbüchsen
+  - Plechbüchsen
+  - Plechebüchsen
+  - Plechnebüchsen
+  - Plechnerbüchsen
+  - Blechen Büchsen
+  - Blechenbüchen
+  - Blechbüchen
+  kategorie: delostrelectvo
+  hledat:
+  - plechov\w* nádob
+  pozn: Měděná odměrná nádoba na střelný prach (po 1–10 librách) k přesnému plnění nabíjecí lopatky bez rozsypání.
+- id: nabijak
+  cs: nabiják
+  de:
+  - Ansetzkolben
+  - ansetz kolben
+  kategorie: delostrelectvo
+  hledat:
+  - \bnabijá[kc]
+  pozn: Dřevěná tyč s hlavicí k zasouvání a utlačování prachu a ucpávky v hlavni děla.
+- id: utocny-vuz
+  cs: útočný vůz
+  de:
+  - Sturmwagen
+  kategorie: opevneni
+  hledat:
+  - útočn\w* v[ůo]z
+  pozn: Zvláštní vůz vozové hradby s přední a zadní zásobní truhlou, osazený třemi polovičními falkonety či čtyřmi dvojitými hákovnicemi.
+- id: tazny-kun
+  cs: tažný kůň
+  de:
+  - Zugpferdt
+  - Zupferdt
+  - Ziehroß
+  - Ziehpferden
+  kategorie: delostrelectvo
+  hledat:
+  - tažn\w* (kon|koň|kůň)
+  pozn: Kůň zapřahaný do dělostřeleckých vozů a lafet (zatížení 2–4 centy podle druhu kusu a terénu).
+- id: litec-del
+  cs: litec děl
+  de:
+  - Büchsengiesser
+  kategorie: delostrelectvo
+  hledat:
+  - lit(ec|ci|ců)\w* děl
+  pozn: 'Kovolitec specializovaný na odlévání bronzových (zvonovinových) děl ze slitiny mědi a cínu (u Solmse poměr 9 : 1).'
+- id: stolice
+  cs: stolice
+  de:
+  - stůl
+  - stůllen
+  kategorie: delostrelectvo
+  hledat:
+  - stolic(e|i|í|ích)
+  pozn: Těžké dřevěné lože bez kol (Stuhl), v němž byly uloženy velké moždíře.
+- id: kamenne-delo
+  cs: kamenné dělo
+  de:
+  - Steinbüchsen
+  - steinen Büchsen
+  - stein Büchsen
+  - steinbüchßlein
+  kategorie: delostrelectvo
+  hledat:
+  - kamenn\w* děl
+  - kamenometn\w* děl
+  pozn: Krátké dělo široké ráže s prachovou komorou (kamennice), určené ke střelbě velkých tesaných kamenných či zápalných koulí.
+- id: kamenna-koule
+  cs: dělový kámen
+  de:
+  - Büchsenstein
+  - Büchsen stein
+  - stein
+  - steins
+  kategorie: delostrelectvo
+  hledat:
+  - dělov\w* kámen
+  - kamenn\w* koul
+  pozn: Koule vytesaná z kamene pro kamenometná děla a moždíře.
+- id: hlavni-delo
+  cs: hlavní dělo
+  de:
+  - Hauptbüchse
+  - Hauptbüchsen
+  kategorie: delostrelectvo
+  hledat:
+  - hlavní\w* děl
+  pozn: Velké těžké obléhací dělo či hlavní kus baterie.
+- id: tarasnice
+  cs: tarasnice
+  de:
+  - Tarrasbüchse
+  - Tarras Büchsen
+  kategorie: delostrelectvo
+  hledat:
+  - tarasnic
+  pozn: Dlouhé lehčí či střední polní a hradební dělo na nízké lafetě, užívané zpoza tarasů a hradeb.
+- id: olovene-delo
+  cs: olověné dělo
+  de:
+  - Bleyen Büchsen
+  kategorie: delostrelectvo
+  hledat:
+  - olověn\w* děl
+  pozn: Speciální či pokusná hlaveň z olova zmiňovaná v pyrotechnických receptech.
+- id: zatravka
+  cs: zátravka
+  de:
+  - Zündtloch
+  - Zintloch
+  - zündloch
+  - zindtloch
+  kategorie: delostrelectvo
+  hledat:
+  - zátravk
+  pozn: Tenký kanálek v zadní části hlavně nad prachovou komorou, kterým se zapaluje výmetná nálož.
+- id: zatka
+  cs: zátka
+  de:
+  - Klotz
+  - Klötz
+  - klotzen
+  - Büchsen klötz
+  - vorschlag
+  - spunt
+  kategorie: delostrelectvo
+  hledat:
+  - \bzátk
+  pozn: Dřevěný (obvykle lipový či topolový) válec či špunt zarážený před prachovou nálož před založením kamenné koule.
+- id: sira
+  cs: síra
+  de:
+  - Schwefel
+  - Schwefels
+  kategorie: delostrelectvo
+  hledat:
+  - \bsír(a|y|u|ou)\b
+  pozn: Jedna ze tří základních složek střelného prachu a zápalných směsí vedle ledku a dřevěného uhlí.
+- id: drevene-uhli
+  cs: dřevěné uhlí
+  de:
+  - Kolen
+  - Koln
+  - Kole
+  - Kols
+  - Linden Kolen
+  kategorie: delostrelectvo
+  hledat:
+  - dřevěn\w* uhl
+  pozn: Jemně utlučené dřevěné uhlí (z lipového, jedlového, topolového či osikového dřeva nebo z plátna), třetí hlavní složka střelného prachu.
+- id: zapalny-prach
+  cs: zápalný prach
+  de:
+  - Zündpulver
+  - Zündtpuluer
+  - zindt Puluer
+  - anzindt Puluer
+  kategorie: delostrelectvo
+  hledat:
+  - zápaln\w* prach
+  pozn: Jemně mletý, rychle zážehový prach s vysokým podílem ledku k plnění zátravky a pánvičky.
+- id: trhaci-prach
+  cs: trhací prach
+  de:
+  - spring Puluer
+  kategorie: delostrelectvo
+  hledat:
+  - trhací\w* prach
+  pozn: Silný prach posílený kafrem, čpavkem či sublimátem pro výbušné nálože a koule.
+- id: stopina
+  cs: stopina
+  de:
+  - wag Puluer
+  kategorie: delostrelectvo
+  hledat:
+  - \bstopin
+  pozn: Zrychlená zápalná dráha prachu na hlavni vedoucí k zátravce pro bezpečný odpal.
+- id: zvedaci-koza
+  cs: zvedací koza
+  de:
+  - Bock
+  - pock
+  kategorie: delostrelectvo
+  hledat:
+  - zvedací\w* koz
+  pozn: Trojnohý dřevěný zvedák s kladnicemi ke zvedání těžkých hlavní děl z vozů na lafety.
+- id: kladnice
+  cs: kladnice
+  de:
+  - kloben
+  kategorie: delostrelectvo
+  hledat:
+  - kladnic
+  pozn: Kovové či dřevěné pouzdro s kladkami v kladkostroji zvedací kozy.
+- id: kladkostroj
+  cs: kladkostroj
+  de:
+  - hohen zügen
+  - Hebzeug
+  - Hebezeug
+  - Hepzeug
+  kategorie: delostrelectvo
+  hledat:
+  - kladkostroj
+  pozn: Zvedací zařízení s kladnicemi a lany pro manipulaci s těžkými děly.
+- id: otocny-kotouc
+  cs: otočný kotouč
+  de:
+  - zwerch wendtscheiblin
+  - zwerch wentscheiblin
+  - schweiben
+  - wendscheiblein
+  - wendscheib
+  kategorie: delostrelectvo
+  hledat:
+  - otočn\w* kotouč
+  pozn: Dřevěný či okovaný otočný prvek v zápřeži vozů a lafet umožňující snadné zatáčení.
+- id: jadro
+  cs: jádrová dráha
+  de:
+  - Kern
+  kategorie: delostrelectvo
+  hledat:
+  - jádrov\w* dráh
+  pozn: Přímá dráha střely navazující na osu hlavně (Kernschuss), než střela začne klesat v oblouku.
+- id: prachova-patrona
+  cs: prachová patrona
+  de:
+  - Kardetsche
+  - Kardetschen
+  kategorie: delostrelectvo
+  hledat:
+  - prachov\w* patron
+  pozn: Plátěný váček (kartuš) s předem odměřenou výmetnou dávkou střelného prachu pro rychlé nabíjení moždíře.
+- id: zapalny-sip
+  cs: zápalný šíp
+  de:
+  - Feurpfeil
+  - Feur pfeil
+  - Feurpfeiln
+  - haußpfeil
+  - fewer pfeil
+  - Feuerpfeil
+  kategorie: delostrelectvo
+  hledat:
+  - (zápaln|ohniv)\w* šíp
+  pozn: Šíp či střela s váčkem ze zápalné směsi vystřelovaný z luku, kuše či děla k zapálení střech a opevnění.
+- id: divoky-ohen
+  cs: divoký oheň
+  de:
+  - wildes Feur
+  - wildes feur
+  - wilds Feur
+  kategorie: delostrelectvo
+  hledat:
+  - divok\w* oh
+  pozn: Tradiční označení neuhasitelné zápalné směsi (obdoba řeckého ohně), jež hoří i na vodě.
+- id: ohniva-kocka
+  cs: ohnivá kočka
+  de:
+  - feur Katzen
+  - Feurkatzen
+  kategorie: delostrelectvo
+  hledat:
+  - ohniv\w* kočk
+  pozn: Létající zápalná raketa či běhoun klouzající po napnutém drátu nebo vrhaný ručně na cíl.
+- id: smoleni
+  cs: zápalná lázeň
+  de:
+  - däff
+  - däffe
+  - gedäfft
+  kategorie: delostrelectvo
+  hledat:
+  - zápaln\w* lázn
+  pozn: Máčení ovázané ohnivé koule v roztavené směsi síry, smůly a pryskyřice (*däffen*).
+- id: provazove-ovazani
+  cs: provazové ovázání
+  de:
+  - schnürgebendt
+  - schnürgebent
+  kategorie: delostrelectvo
+  hledat:
+  - provazov\w* ovázán
+  pozn: Síťovité ovinutí ohnivé koule pevnými provazy, aby se náplň při výstřelu nerozpadla.
+- id: gloriat
+  cs: benátský terpentýn
+  de:
+  - Gloriet
+  - Gloriat
+  - gloriat
+  - Glaret
+  kategorie: delostrelectvo
+  hledat:
+  - benátsk\w* terpentýn
+  pozn: Čištěná modřínová pryskyřice (Gloriet), užívaná jako hořlavé pojivo do zápalných směsí.
+- id: kalafuna
+  cs: kalafuna
+  de:
+  - Colofonia
+  - Colofamia
+  - Colofonie
+  - Collofetam
+  - Colifamia
+  - Calofonie
+  - Ollam Collofemiam
+  kategorie: delostrelectvo
+  hledat:
+  - kalafun
+  pozn: Řecká smůla (Colophonia), tvrdá pryskyřice do ohnivých koulí a prachových tmelů.
+- id: pevnost
+  cs: pevnost
+  de:
+  - Festung
+  - Befestung
+  - Befestigung
+  kategorie: opevneni
+  hledat:
+  - \bpevnost
+  pozn: Opevněné město, hrad či citadela.
+- id: fenik
+  cs: fenik
+  de:
+  - pfenning
+  - pfening
+  kategorie: miry
+  hledat:
+  - \bfenik
+  pozn: Drobná mince; v bavorsko-augšpurské oblasti platilo 210 feniků za 1 zlatý (7 šilinků po 30 fenicích).
+- id: kvintlik
+  cs: kvintlík
+  de:
+  - Quintat
+  - quintlin
+  - Quentlein
+  kategorie: miry
+  hledat:
+  - \bkvintl[íi]k
+  pozn: Stará lékárnická a obchodní váhová jednotka rovná čtvrtině lotu (cca 3,7–4,4 g).
+- id: unce
+  cs: unce
+  de:
+  - vntz
+  - Vntz
+  kategorie: miry
+  hledat:
+  - \bunc(e|i|í)\b
+  pozn: Stará lékárnická váhová jednotka rovná 2 lotům (cca 30 g).
+- id: krok
+  cs: krok
+  de:
+  - schrit
+  - Schritt
+  kategorie: miry
+  hledat:
+  - \bkrok(y|ů|em|u)?\b
+  pozn: Délková a rozměřovací jednotka (zpravidla kolem 0,7–0,75 m).
+- id: vrhaci-stroj
+  cs: vrhací stroj
+  de:
+  - Werffzeug
+  kategorie: delostrelectvo
+  hledat:
+  - vrhac\w* stroj
+  pozn: Váhový vrhací stroj s protizávažím (trebuchet) k metání těžkých břemen, kamenů či mršin do obleženého města.
+- id: prak
+  cs: prak
+  de:
+  - Schlencker
+  kategorie: delostrelectvo
+  hledat:
+  - \bprak(em|u|ů)?\b
+  pozn: Vrhací smyčka na konci ráhna vrhacího stroje či samostatný vrhací mechanismus (Schlencker).
+- id: kladovy-vuz
+  cs: kládový vůz
+  de:
+  - Plochwagen
+  - Blochwagen
+  kategorie: delostrelectvo
+  hledat:
+  - kládov\w* v[ůo]z
+  pozn: Těžký podvalníkový vůz určený k přepravě samotných hlavní nejtěžších obléhacích děl mimo jejich lafetu.
+- id: kotouc
+  cs: kotouč (nízké kolo)
+  de:
+  - Scheibe
+  - Scheiben
+  - scheib
+  kategorie: delostrelectvo
+  hledat:
+  - \bkotouč
+  pozn: Plné či krátkopaprskové nízké kolo ze spojených dřevěných výsečí okovaných železem, užívané v šancích pod těžké obléhací kusy.
+- id: delovy-kladkostroj
+  cs: dělostřelecký kladkostroj
+  de:
+  - Büchsenzog
+  - doppelzog
+  - zog
+  - Zög
+  kategorie: delostrelectvo
+  hledat:
+  - dělostřeleck\w* kladkostroj
+  - dělov\w* kladkostroj
+  - dvojit\w* kladkostroj
+  pozn: Přenosný trojnohý či dvojitý kladkostrojový jeřáb s navijákem ke zvedání a usazování těžkých hlavní na lafetu nebo vůz.
+- id: hridel
+  cs: hřídel
+  de:
+  - Welbaum
+  - Welbawmen
+  - Zogbaum
+  - wel
+  kategorie: delostrelectvo
+  hledat:
+  - \bhřídel
+  pozn: Navíjecí válec či hřídel kladkostroje nebo moždířové stolice poháněný pákami či klikou.
+- id: navijak
+  cs: naviják a klika
+  de:
+  - Haspel
+  - Hespel
+  - creutz Hespel
+  kategorie: delostrelectvo
+  hledat:
+  - \bnaviják
+  - křížov\w* klik
+  pozn: Navíjecí buben nebo křížová ruční klika na hřídeli zvedacího stroje (Solms místo krátkých klik doporučuje dlouhé sochory).
+- id: rovnaci-pravitko
+  cs: rovnací pravítko
+  de:
+  - Richtscheidt
+  - Richtscheid
+  kategorie: delostrelectvo
+  hledat:
+  - rovnac\w* pravítk
+  pozn: Měřické dřevěné či kované pravítko vkládané do vývrtu hlavně k ověření souososti jádra a ústí.
+- id: kompas
+  cs: kompas
+  de:
+  - Combaß
+  - Compaß
+  kategorie: delostrelectvo
+  hledat:
+  - \bkompas
+  pozn: Magnetický měřický nástroj připevněný na rovnací pravítko ke stanovení boční odchylky vývrtu hlavně.
+- id: kruzidlo
+  cs: kružidlo
+  de:
+  - Zirckel
+  kategorie: delostrelectvo
+  hledat:
+  - \bkružidl
+  pozn: Dělostřelecké odpichovadlo či měřické kružidlo k vyměřování ráže a síly stěn hlavně.
+- id: kvadrant
+  cs: kvadrant
+  de:
+  - Quadrant
+  kategorie: delostrelectvo
+  hledat:
+  - \bkvadrant
+  pozn: Úhloměrná čtvrtkruhová destička s olovnicí zasouvaná do ústí hlavně či moždíře k nastavení náměru.
+- id: jaderny-vystrel
+  cs: jaderný výstřel
+  de:
+  - kernschoß
+  kategorie: delostrelectvo
+  hledat:
+  - jadern\w* výstřel
+  pozn: Přímý výstřel podle osy vývrtu hlavně (jádra) předtím, než střela poklesne či vybočí do oblouku.
+- id: obloukovy-vystrel
+  cs: obloukový výstřel
+  de:
+  - bogenschoß
+  - Bogen schůß
+  kategorie: delostrelectvo
+  hledat:
+  - obloukov\w* výstřel
+  pozn: Střelba pod zvýšeným náměrem na větší vzdálenost po balistickém oblouku.
+- id: utocny-spalek
+  cs: útočný trhací špalek (petarda)
+  de:
+  - Stormbloch
+  - schlagen bloch
+  - spring blöcher
+  kategorie: delostrelectvo
+  hledat:
+  - útočn\w* (trhac\w* )?špalek
+  - trhac\w* špalk
+  - výbušn\w* špalek
+  pozn: Dlabaný dřevěný špalek naplněný střelným prachem a pevně stažený klíny, odpalovaný proti zteči nebo bráně.
+- id: matrace
+  cs: tlumicí matrace
+  de:
+  - Materitz
+  - maderitz
+  kategorie: delostrelectvo
+  hledat:
+  - tlumic\w* matrac
+  pozn: Silná provazem prošívaná podložka kladená pod těžký moždíř na kamenitém podkladu k zachycení zpětného rázu.
+- id: smolny-venec
+  cs: smolný věnec
+  de:
+  - Bechring
+  kategorie: delostrelectvo
+  hledat:
+  - smoln\w* věn
+  pozn: Propletený kruh ze sáčků se zápalnou směsí máčený v pryskyřičné lázni a shazovaný na útočníky při zteči.
+- id: raketa
+  cs: raketa
+  de:
+  - Racket
+  kategorie: delostrelectvo
+  hledat:
+  - \braket
+  pozn: Papírová nebo dřevěná trubice pevně nadusaná zápalnou směsí, zde jako srovnání pro pěchování zpožďovacího hrdla granátu.
+- id: podkopavani
+  cs: podkopávání
+  de:
+  - vndergraben
+  - Vndergraben
+  kategorie: opevneni
+  hledat:
+  - \bpodkopáv[aá]\w*
+  - \bpodkop\w*
+  pozn: Ražení podzemních štol pod hradby či bašty nepřítele za účelem jejich zřícení či odpálení střelným prachem.
+- id: odstrelovani
+  cs: odstřelování (vyhození do povětří)
+  de:
+  - sprengen
+  - Sprengen
+  kategorie: opevneni
+  hledat:
+  - \bodstřel\w*
+  pozn: Rozmetání podkopaného zdiva či valů pomocí soudků a pytlů se střelným prachem utěsněných dřevěnými klíny.
+- id: hornik
+  cs: horník (kopáč)
+  de:
+  - Bergknappen
+  - Knappen
+  kategorie: jednotky
+  hledat:
+  - \bhorn[ií]k\w*
+  pozn: Odborně vyučený důlní pracovník přidělený k artilerii pro ražení štol, odvodňování a pokládání trhacích náloží.
+- id: rubac
+  cs: rubač
+  de:
+  - Hawer
+  kategorie: jednotky
+  hledat:
+  - \brubač\w*
+  pozn: Horník razící čelbu podkopové štoly (na rozdíl od pomocných nádeníků a kolečkářů vyvážejících rubaninu).
+- id: koleckar
+  cs: kolečkář (trakařník)
+  de:
+  - Truchenlauffer
+  kategorie: jednotky
+  hledat:
+  - \bkolečkář\w*
+  pozn: Dělník dopravující vykopanou zeminu z podkopové štoly na trakaři nebo čtyřkolovém důlním vozíku.
+- id: dulni-dozorce
+  cs: důlní dozorce (Hutmann)
+  de:
+  - Hutleut
+  - Hůtleut
+  kategorie: velitele
+  hledat:
+  - důln\w* dozorc\w*
+  pozn: Předák dohlížející ve směnách na řádné ražení štoly, bezpečnost výdřevy a postup práce horníků.
+- id: hornicky-rejstrik
+  cs: hornický rejstřík
+  de:
+  - Knappen Register
+  kategorie: zold
+  hledat:
+  - hornick\w* rejstřík
+  pozn: Denní účetní výkaz směn, úkolových mezd, nákupu svící a nářadí při obléhacích podkopových pracích.
+- id: smena
+  cs: směna
+  de:
+  - Schicht
+  - schichten
+  - schiechten
+  kategorie: zold
+  hledat:
+  - \bsměn\w*
+  pozn: Časový úsek práce horníků v podzemí; podle Solmse trvá jedna směna 4 hodiny (šest směn za 24 hodin).
+- id: ukolove-dilo
+  cs: úkolové dílo (Geding)
+  de:
+  - Geding
+  - geding
+  kategorie: zold
+  hledat:
+  - úkolov\w* díl\w*
+  pozn: Smluvně zadaný úsek ražby za předem dohodnutou úhrnnou odměnu podle délky proražené štoly.
+- id: leno-dulni
+  cs: horní léno (Lehen)
+  de:
+  - Lehen
+  - lehen
+  kategorie: miry
+  hledat:
+  - \blén[aou]?\b
+  pozn: 'Důlní délková míra pro úkolové zadávání ražby štol: před Saint-Dizier odpovídalo 1 léno 40 dílenským střevícům (7 sáhů).'
+- id: prut
+  cs: prut
+  de:
+  - Růden
+  - růdt
+  kategorie: miry
+  hledat:
+  - \bprut\w*
+  pozn: Zeměměřická a důlní délková míra; v Solmsově výkazu ze Saint-Dizier má 1 prut délku 5 dílenských střevíců.
+- id: werkstrevice
+  cs: dílenský střevíc
+  de:
+  - werckschůhe
+  kategorie: miry
+  hledat:
+  - dílensk\w* střevíc\w*
+  pozn: Řemeslná a stavební délková stopa (Werkschuh) užívaná při vyměřování hloubky podkopových štol.
+- id: loket
+  cs: loket
+  de:
+  - Elen
+  - elen
+  kategorie: miry
+  hledat:
+  - \blokt\w*
+  pozn: Historická délková míra rovná zhruba dvěma střevícům.
+- id: slunecni-koruna
+  cs: sluneční koruna
+  de:
+  - Sonnenkronen
+  kategorie: miry
+  hledat:
+  - slunečn\w* korun\w*
+  pozn: Francouzská zlatá mince (écu d’or au soleil); z účtu ze Saint-Dizier vychází její kurz na 23 batzů (1 zlatý a 8 batzů).
+- id: stola
+  cs: štola
+  de:
+  - Stol
+  - Stollen
+  - stollen
+  kategorie: opevneni
+  hledat:
+  - \bštol\w*
+  pozn: Podzemní vodorovná či mírně ukloněná podkopová chodba ražená k patě obléhané hradby.
+- id: podkopova-chodba
+  cs: podkopová chodba (Grafft)
+  de:
+  - Grafft
+  kategorie: opevneni
+  hledat:
+  - podkopov\w* chodb\w*
+  pozn: Ražená štola nebo zakrytý zákopový průchod vedoucí pod zemí k místu uložení trhací nálože.
+- id: prikop
+  cs: příkop
+  de:
+  - Graben
+  kategorie: opevneni
+  hledat:
+  - \bpříkop\w*
+  pozn: Hluboký suchý nebo vodní obranný příkop obklopující pevnostní hradbu či val.
+- id: vodni-prikop
+  cs: vodní příkop
+  de:
+  - Wassergraben
+  kategorie: opevneni
+  hledat:
+  - vodn\w* příkop\w*
+  pozn: Zaplavený pevnostní příkop chránící patu hradeb před přímým podkopem i ztečí.
+- id: val
+  cs: val
+  de:
+  - Wall
+  - Wäll
+  kategorie: opevneni
+  hledat:
+  - \bval[ůuy]?\b
+  pozn: Mohutný sypaný zemní násep chránící město nebo srub před dělostřelbou.
+- id: rondel
+  cs: rondel
+  de:
+  - Ründel
+  - Ründtel
+  kategorie: opevneni
+  hledat:
+  - \brondel\w*
+  pozn: Okrouhlá předsunutá bašta ze zdiva či hlíny umožňující boční palbu podél hradeb a příkopu.
+- id: stocket
+  cs: palisádové koše (Stocket)
+  de:
+  - Stocket
+  kategorie: opevneni
+  hledat:
+  - \bStocket\b
+  pozn: Pevná ochranná řada kůlů a hlínou plněných proutěných košů lemující předprseň polní pevnůstky či rondelu.
+- id: vodni-mech
+  cs: vodní měch
+  de:
+  - Wasserplaßbalch
+  kategorie: delostrelectvo
+  hledat:
+  - vodn\w* měch\w*
+  pozn: Sací měchové čerpadlo se zpětnými záklopkami k tichému odčerpávání spodní vody z hlubokých štol.
+- id: kozena-trubice
+  cs: kožená trubice
+  de:
+  - ledern Rörn
+  kategorie: delostrelectvo
+  hledat:
+  - kožen\w* trubic\w*
+  pozn: Vzájemně do sebe zasunuté a smůlou zatěsněné kožené hadice pro suchý zápalný prachovod nebo přívod vzduchu.
+- id: vetrny-mech
+  cs: větrný měch
+  de:
+  - Blaßbalg
+  - windfecht
+  - Focher
+  kategorie: delostrelectvo
+  hledat:
+  - větrn\w* měch\w*
+  - \bvětrník\w*
+  pozn: Dvojitý měch či větrací zařízení vhánějící čerstvý vzduch trubicemi do vzdálených podkopových štol.
+- id: smula
+  cs: smůla
+  de:
+  - Bech
+  kategorie: delostrelectvo
+  hledat:
+  - \bsmůl\w*
+  pozn: Rozehřátá borová smůla sloužící k zalévání a utěsnění prachových soudků i kožených zápalných trubic proti vlhkosti.
+- id: dulni-vozik
+  cs: důlní vozík (kestlein)
+  de:
+  - Brettern kestlein
+  kategorie: delostrelectvo
+  hledat:
+  - důln\w* vozík\w*
+  - prkenn\w* vozík\w*
+  pozn: Čtyřkolová dřevěná bedýnka s tažným provazem k vyvážení rubaniny z nízké podzemní chodby.
+- id: dul
+  cs: důl / hornictví
+  de:
+  - Bergwerck
+  kategorie: opevneni
+  hledat:
+  - \bdo[lů][ech]?\b
+  pozn: Kovkopné či solné doly, jejichž větrací, tesařské a čerpací postupy se přejímaly do vojenského podkopnictví.
+- id: urad-vojensky
+  cs: úřad (služební)
+  de:
+  - Ampt
+  kategorie: pravo
+  hledat:
+  - \búřad[uy]?\b
+  pozn: Svěřená vojenská či řemeslná hodnost a působnost v táboře, do níž nemá jiný úřad zasahovat.
+- id: znalec-valecnictvi
+  cs: znalec válečnictví
+  de:
+  - Kriegßuerstendige
+  kategorie: velitele
+  hledat:
+  - znalc\w* válečnictv
+  pozn: Zkušený bojový velitel či důstojník přidělovaný k posádkám zemské hotovosti v ohrožených pohraničních srubech.
+- id: zpravodajska-vystraha
+  cs: varování (zvěst)
+  de:
+  - warung
+  kategorie: sluzba
+  hledat:
+  - \bvarován[íi]\b
+  pozn: Včasná výstraha před nepřátelským tažením na základě zpráv zvědů umožňující obsadit připravené sruby.
+- id: most
+  cs: most / dělová podlaha
+  de:
+  - Brücken
+  kategorie: opevneni
+  hledat:
+  - \bmost[ůuy]?\b
+  pozn: Dřevěný most přes pevnostní příkop nebo rozebíratelná dřevěná ložná podlaha pod děla v baště a srubu.
+- id: kun
+  cs: kůň
+  de:
+  - Pferdt
+  - Pferd
+  - Pferden
+  kategorie: sluzba
+  hledat:
+  - \bkon[íěiů]?\b
+  - \bkůň\b
+  pozn: Jezdecký nebo soumařský a spřežní kůň; u Solmse běžná souhrnná jednotka počtu jízdních bojovníků i tažných potahů.
+- id: valecny-vuz
+  cs: válečný vůz (Heerwagen)
+  de:
+  - Heerwagen
+  kategorie: sluzba
+  hledat:
+  - válečn\w* v[ůo]z\w*
+  pozn: Nákladní a zásobovací vůz proviantní a jezdecké kolony v tážním řádu vojska.
+- id: prusmyk
+  cs: průsmyk / zemský průchod
+  de:
+  - Paß
+  - peß
+  - Pessen
+  kategorie: mista
+  hledat:
+  - \bprůsmyk\w*
+  pozn: Úzký strategický průchod mezi močály, lesy či horami, jehož uzavření sruby a záseky brání vpádu nepřítele.
+- id: summa-summarum
+  cs: celkový součet (Summa summarum)
+  de:
+  - Summa summarum
+  kategorie: zold
+  hledat:
+  - celkov\w* součet
+  pozn: Účetní termín označující konečný úhrn veškerých příjmů nebo vydání v táborovém rejstříku.
+- id: saint-dizier
+  cs: Saint-Dizier (Sanctesier)
+  de:
+  - Sanctesier
+  kategorie: mista
+  hledat:
+  - Saint-Dizier
+  pozn: Město v Champagni na řece Marně, obležené a dobyté císařem Karlem V. v červenci–srpnu 1544 za účasti Reinharda ze Solmsu.
+- id: peronne
+  cs: Péronne (Perona)
+  de:
+  - Perona
+  kategorie: mista
+  hledat:
+  - Péronne
+  pozn: Pevnostní město v Pikardii neúspěšně obléhané císařským vojskem roku 1536, kde Solms řídil podkopávání zdi a věže.
+- id: mety
+  cs: Méty (Metz)
+  de:
+  - Metz
+  kategorie: mista
+  hledat:
+  - \bM[eé]t[yách]?\b
+  pozn: Lotrinská pevnost obléhaná Karlem V. v letech 1552–1553, kde Solms opět uplatnil svá důlní a podkopová pravidla.
+- id: moskvane
+  cs: Moskevsko / Moskvané (Musca)
+  de:
+  - Musca
+  - Muscabiter
+  - Muscam
+  - Mosca
+  kategorie: mista
+  hledat:
+  - \bMoskv\w*
+  pozn: Moskevské velkoknížectví (carství Ivana IV.), s nímž Solms uvažuje jako s potenciálním spojencem křesťanstva proti Osmanské říši.
+- id: livonsko
+  cs: Livonsko (Ifflandt)
+  de:
+  - Ifflandt
+  kategorie: mista
+  hledat:
+  - \bLivonsk\w*
+  pozn: Pobaltské panství Řádu německých rytířů (Livonského řádu), uváděné vedle Polska a Pruska v projektu protitureckého svazu.
+- id: braniborska-marka
+  cs: Braniborská marka (Marck)
+  de:
+  - Marck
+  kategorie: mista
+  hledat:
+  - \bBraniborsk\w*
+  pozn: Braniborsko na severovýchodě Svaté říše, ohrožené podle Solmsových úvah případným osmanským průnikem přes Polsko.
+- id: kazansti-tatari
+  cs: Kazaňští Tataři (Kozausca)
+  de:
+  - Kozausca
+  kategorie: mista
+  hledat:
+  - Kazaň\w* Tata[rř]\w*
+  pozn: Kazaňský chanát podmaněný Moskevským státem roku 1552, započtený v Solmsově přehledu s 30 000 jezdci.

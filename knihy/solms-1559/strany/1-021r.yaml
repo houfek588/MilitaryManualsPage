@@ -1,0 +1,35 @@
+id: 1-021r
+list: '21'
+strana: recto
+sken: 51
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Darmit aber zusehen sein mag / das die Teutschen / mit ernst mit der Justitien furth gefaren seind / vnnd in das werck gebracht / soll solche handelung mit jhren geschehenden straffen / besonder in ein Bůch geschrieben werden / das ich dises mit demselbigen nit zu lang mache / dann es ist vil vnnd gebüret sich auch solches in ein eigen Bůch zuschreiben / dann als offt vnd dick / so ein Feldzug oder Leger sein wirt / soll dises Bůch bei handen sein / vnd allemal ein neues gemacht werden / vnnd wider allemal zu ende des zugs auffgehaben vnnd behalten werden als ein Gerichßbůch / so hat mann sich alwegen in zügen darnach zůrichten.
+  cs: |-
+    Aby však bylo patrné, že Němci postupovali ve spravedlnosti důsledně a uváděli ji ve skutek, má být toto jednání spolu s udílenými tresty zapsáno do zvláštní knihy, abych tím tento spis nečinil příliš dlouhým – je toho totiž mnoho a sluší se také zapsat to do vlastní knihy. Neboť kdykoli a jak často bude nějaké polní tažení {Feldzug} či ležení {Leger}, má být taková kniha po ruce, pokaždé se má založit nová a na konci tažení {zugs} se má opět uložit a uschovat jako soudní kniha[^1]; tak se lidé při taženích {zügen} mohou vždy podle ní řídit.
+- typ: odstavec
+  de: |-
+    Vnd so dann die Justitien also den Nationen zu Regiren in die Handt gegeben / beuolhen vnnd zuuerwalten auffgelegt wirt / so ist die ehr jhrer selber / vnnd haben fleiß die zuhalten vnnd zuhandthaben / vnnd wirt gůte Regirung geschehen / vnnd willige Leut machen.
+  cs: |-
+    A když se takto národům vloží do rukou, svěří a uloží, aby si spravedlnost řídily a spravovaly samy, je to jejich vlastní čest, vynakládají píli na to, aby ji zachovávaly a uplatňovaly, zavládne dobrá správa a získají se ochotní lidé.
+- typ: odstavec
+  de: |-
+    Solten aber die Nationen besonder die Teutschen / die die Justitien her gebracht haben / sich vnder ein ander Justitien begeben / vnnd vnderwürffig machen / vnd die ehr so sie in dem haben / vbergeben müssen / da wirt nichts gůts auß werden / vnnd wirt schwerlichen geschehen / vnnd so sie sich schon also wolten vntergeben / so wirt zwischen den Nationen kein einigkeit noch gehorsam / kein Nation wirdt der anderen wöllen gehorsamen sein / dardurch jmmer mehr Lermen vnd auffruhr vnder jnen entstehn würde / darumb mag es nicht friedlicher angestellet werden / dann mann laß einer jeden Nation eigene Rechtuertigung / doch von einem gleichen beuelch der Ordnung.
+  cs: |-
+    Kdyby se však národy – zvláště pak Němci, kteří svou spravedlnost zdědili po předcích – měly poddat a podřídit cizí spravedlnosti a vzdát se cti, již v ní mají, nic dobrého z toho nevzejde a stane se to jen ztěží; a i kdyby se už takto poddat chtěly, nebude mezi národy ani svornost, ani poslušnost – žádný národ nebude chtít poslouchat jiný, čímž by mezi nimi ustavičně vznikaly další poplachy {Lermen} a nepokoje {auffruhr}. Proto nelze věc zařídit pokojněji, než ponechat každému národu vlastní soudnictví, avšak pod jedním stejným řádem a velením.
+- typ: odstavec
+  de: |-
+    Vnd das ich also hart wider dises / wie gehört / strebe / ist die vrsach das mich bedünckt die notturfft zusein / dieweil ich gesehen habe / das vil beschwerlichs darauß entstanden ist / vnnd dem Herren in vil wege / darmit nit wol gedienet wirt / aber durch ein gleiche ordentliche Justitien vnnd einigkeit / wirt dem Herrn baß gedient werden sampt anderer gůten Ordnung der Pollicei vnnd vnderhaltung des Legers vnd Kriegßuolck / wie das nun fürter derhalben eins nach dem andern / besonder beschrieben vnnd angezeigt werden wirt.
+  cs: |-
+    A že tak důrazně proti tomu, jak řečeno, vystupuji, má tu příčinu, že to pokládám za nezbytné; viděl jsem totiž, že z toho vzešlo mnoho obtíží a pánovi se tím v mnoha směrech dobře neslouží. Naproti tomu stejnou řádnou spravedlností a svorností se bude pánovi sloužit lépe, spolu s dalším dobrým veřejným řádem {Pollicei} a opatřováním ležení i válečného lidu {Kriegßuolck}, jak to bude nyní dále jedno po druhém zvlášť popsáno a vyloženo.
+- typ: odstavec
+  de: |-
+    Aber das ist recht vnnd billich / wann zwo Nationen sich mit einander jrren mit den hauffen / vnd nit Personen allein / so sollen derselbigen Obersten oder Hauptleut zu dem Feldobersten gehen / demselbigen die sachen anzeigen vnd mit seinem Rath vnd willen furter handeln.
+  cs: |-
+    Je však spravedlivé a slušné, dostanou-li se do rozepře dva národy celými svými houfy {hauffen}, a nikoli jen jednotlivé osoby, aby jejich plukovníci {Obersten} nebo hejtmani {Hauptleut} šli k nejvyššímu polnímu hejtmanovi {Feldobersten}, předložili mu věc a jednali dále s jeho radou a podle jeho vůle.
+poznamky:
+- n: 1
+  text: V tisku *Gerichßbůch* místo *Gerichtßbůch*.

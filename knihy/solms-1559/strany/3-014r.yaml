@@ -1,0 +1,44 @@
+id: 3-014r
+list: '14'
+strana: recto
+sken: 279
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    kan aber das geschütz neben auß kommen / im feld den raum vnd platz hat / das neben der ordnung her gehn mag / so ist es gůt vnd steht wol so sol man es neben die ordnung ordnen vnd ziehen lassen / doch nit auff der seiten da die andern wagen gehn / dann man soll die Arcolorei Wagen nit vnder die andern mengen / doch so wider wirt ein enge zufallen soll der gewaltig hauff stil halten / das geschütz vorlassen vnd dann darauff ziehen / das also das geschütz auff den vorzug zeucht vnd der gewaltig hauff darnach / deßgleichen sollen auch die wagen thůn / die nit neben den hauffen oder ordnung kommen / sollen sie auff den gewaltigen hauffen am nechsten ziehen / darnach vff sie der Troß / Dises ist geordnet wann man zu den feinden zeucht / wirt mann aber von jnen so sollen die wagen vnd Troß vor dem gewaltigen hauffen ziehen / das werden die Obersten wol wissen zu ordnen.
+  cs: |-
+    může-li však dělo {geschütz} jet stranou a má-li v poli prostor a místo, že může jet vedle šiku {ordnung}, je to dobré a správné: tehdy se má seřadit vedle šiku a nechat jet tam, nikoli však na té straně, kde jedou ostatní vozy, neboť vozy dělostřelectva {Arcolorei} se nemají mísit mezi ostatní. Kdyby však opět nastala úžina, má hlavní houf {gewaltig hauff} zastavit, pustit děla před sebe a potom táhnout za nimi, takže děla táhnou za předvojem {vorzug} a hlavní houf po nich. Totéž mají činit i vozy: nedostanou-li se vedle houfu či šiku, mají táhnout hned za hlavním houfem a po nich trén {Troß}. Toto je ustanoveno, táhne-li se k nepřátelům; táhne-li se však od nich, mají vozy a trén táhnout před hlavním houfem – to budou nejvyšší velitelé {Obersten} dobře vědět, jak uspořádat.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Instruction / die geschicht denen so bei die Arcolorei verordnet sind zu lernen.
+  cs: |-
+    Instrukce dávaná těm, kdo jsou přiděleni k dělostřelectvu, aby se učili.
+- typ: odstavec
+  de: |-
+    SO ein Fürst wirt sein Zeughauß versehen wöllen mit personen / wie hieuorn dauon gemelt ist / vnd verordnet etliche die er in ein zug auß schicken / vnd bei die Arcolorei zunemen / verschreiben wolt / soll er jn ein Instruction geben wie er sich halten / warauff er achtung vnd sein auffsehung haben soll.
+  cs: |-
+    Bude-li chtít kníže opatřit svou zbrojnici {Zeughauß} vhodnými osobami, jak o tom byla zmínka výše, a určí několik lidí, které by chtěl vyslat na tažení {zug} a písemně je povolat k dělostřelectvu, má jim dát instrukci, jak se mají chovat a na co mají dávat pozor a dohlížet.
+- typ: odstavec
+  de: |-
+    Zum ersten soll er auff sein Zeugmeister vnnd Leutenant darbei er sein wirt / fleissig warten / jn gehorsam vnd dienstlich sein.
+  cs: |-
+    Za prvé má pilně sloužit svému zbrojmistrovi {Zeugmeister} a poručíkovi {Leutenant}, u nichž bude přidělen, a být jim poslušný a úslužný.
+- typ: odstavec
+  de: |-
+    Zum andern soll er sich hüten daß er nicht zutrinck oder ein trunckner Man sei / dann es will sich zu seinem Ampt vnd befelch gar nicht schicken.
+  cs: |-
+    Za druhé se má varovat toho, aby nepřipíjel a nebyl opilcem, neboť k jeho úřadu a pravomoci se to vůbec nehodí.
+- typ: odstavec
+  de: |-
+    Zum dritten wann er zeitlich zu dem Zeugmeister vnd Arcolorei kompt / soll er im Zeughauß besehen wie es darinn steht / mit aller rüstung / so er anders darzů kommen mag / soll sich befleissen das er darzwischen alle ding beschreibe.
+  cs: |-
+    Za třetí, jakmile včas přijde ke zbrojmistrovi a k dělostřelectvu, má si ve zbrojnici prohlédnout, jak to v ní vypadá se vší výzbrojí {rüstung}, pokud se k tomu jen dostane, a má se přičinit, aby mezitím všechny věci sepsal.
+- typ: odstavec
+  de: |-
+    Zum vierdten soll er fleissig befragen wie schwer ein jedes stück ist oder wigt / das soll er gewiß auffschreiben / vnd besehen wieuil roß mann vor ein jedes spandt / wann mann sie außfürt / wie schwere die kogeln eines jeden stücks sind / vnd ob sie mit den Rossen auff einmal gespandt werden / das sie für vnd für gespandt bleiben in gůten vnd bösen wegen jn muß mehr pferdt zů spannen / wie er das befindt / so sol er das eigentlich beschreiben vnd dann das gewicht der büchsen auff die pferdt rechnen vnd eintheiln auff beide theil der vilen vnd
+  cs: |-
+    Za čtvrté se má pilně vyptat, jak těžký je či kolik váží každý kus {stück}, to má přesně zapsat a podívat se, kolik koní se před každý zapřahá, když se vyvážejí, jak těžké jsou koule {kogeln} každého kusu a zda jsou zapřaženi koňmi najednou tak, aby zůstali zapřaženi stále na dobrých i zlých cestách, [anebo zda] se k nim musí zapřáhnout více koní; jak to shledá, tak to má zevrubně popsat a pak váhu děl {büchsen} rozpočítat a rozdělit na koně pro oba případy – s mnoha i

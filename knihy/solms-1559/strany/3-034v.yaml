@@ -1,0 +1,42 @@
+id: 3-034v
+list: '34'
+strana: verso
+sken: 320
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    darunder/ vnd rör es vber dem feur gar wol vndereinander/ biß daß es starck vnd trucken wirt/ das ist auch ein fülle.
+  cs: |-
+    nasyp a nad ohněm to velmi dobře promíchej, dokud to nezhoustne a nevyschne; i to je náplň.
+- typ: odstavec
+  de: |-
+    Zum ersten mach dir einn leynen Sack also/ leg zwei Tücher auff einander fornen auff die Büchs oder loch des Mörsers/ da du die kugel oder Feurwerck ein machen wilt/ vnnd zeichen an wie weit die Büchs oder loch an der Büchsen ist/ vnd wie sich der Circkel zutregt/ also auff das doppel Tůch zeichen/ nehe rundt rumb einn rinck durch die beide Tücher/ vnd laß jhm an einem ort ein loch mit einem teil/ wie die Figur mit dem A. anzeigt/ das ist ein hälßlin hat da manns hinein füllet/ vnd wann es so voll ist daß mann nichts mehr hinein brengen kan/ so bindt es oben zu an dem hälßlin/ vnnd schlag mit einem breitem holtz den sack fein rundt/ vnnd wann er wirt rundt/ so bindt jhn einmal mit schnürgebendt wie sich das gebüret/ vnnd im binden schlag jhn mit rundt wo er bigen vnd ecken kriegt/ vnd wann er einmal rundt gebunden wirdt/ so däffe die Kugel/ dann bleibt er rundt/ vnd geb jm dann sein gebendt fürthinauß/ wie sich das nach eines jeden art vnnd notturfft erfordert/ Wie das die Figurn alles vnd jedes nach seiner art vnnd notturfft anzeigen werden.
+  cs: |-
+    Nejprve si zhotov plátěný pytel takto: polož na sebe dvě plátna dopředu na ústí děla {Büchs} čili otvor moždíře {Mörsers}, do něhož chceš kouli {kugel} či ohňostroj {Feurwerck} zhotovit, a označ si, jak široké je dělo čili jeho vývrt, a jak se kružnice vykreslí, tak ji obkresli na dvojité plátno; sešij obě plátna dokola do kruhu a na jednom místě ponech otvor s hrdélkem, jak ukazuje obrázek pod písmenem A., tedy aby mělo krček, kterým se to plní. A když je pytel tak plný, že se do něj už nic víc nevejde, zavaž jej nahoře na krčku a širokým dřevem pytel pěkně dokulata sklepej; a když je kulatý, oviň jej jednou provazovým ovázáním {schnürgebendt}, jak se sluší, a při ovazování jej dokulata sklepávej tam, kde dostává záhyby a hrany. A jakmile je jednou dokulata ovázán, namoč kouli v zápalné lázni {däffe},[^1] pak už zůstane kulatá; a potom jí dávej další ovázání, jak to povaha a potřeba každé koule vyžaduje, jak to všechno jednotlivě ukážou nákresy podle svého druhu a potřeby.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Aber ein gebendt zumachen/ das sich auß Cartaunen schiessen leßt.
+  cs: |-
+    Jak však udělat ovázání, s nímž se dá střílet z kartoun {Cartaunen}.
+- typ: odstavec
+  de: |-
+    DAs Gebendt soll gar starck gebunden sein/ vnnd soll jede Kugel dreimal gebunden werden/ vnd alle mal auff ein gebendt gedäfft vnd auff die däff wider gebunden/ vnd machs also das es drei gebent vnd drei däff hat.
+  cs: |-
+    Ovázání má být uvázáno velmi pevně; každá koule se má ovázat třikrát a pokaždé po ovázání namočit do zápalné lázně a na ten potah zase ovázat, a udělej to tak, aby měla trojí ovázání a trojí zápalný potah.
+- typ: odstavec
+  de: |-
+    Aber die däff geschwindt brennen zumachen dem solt du also thůn/ Nim ein leynen Tůch/ mach darauß leinen Säcklin wie ein wurst/ vnd so weit wie ein finger/ dieselbig soll mann mit einem trucken puluer oder rössen zeug außfüllen/ Vnnd so die kugel einmal ist mit den stricken oder schnürn einn weg/ vnd doch nicht die zwerch vberstrickt oder vberzogen/ so nim dieselbigen Würstlin vnnd schneidt sie eines halben fingers lang/ leg sie zwischen die strick ein/ vnnd strick es dann vberzwerch/ wie die Figur mit dem B. anzeigt/ vnd däff es oben zů/ schlag dann ein Hanff oder Flachs vmb die Kugel/ vnnd vberzich es wider einfach mit den schnürn einmal/ vnd leg dann wider Secklin darzwischen vnd vberstricks/ ist dann aber wider darüber/ so däff es zů/ vnd thu das so lang biß die Kugel jre größ hat.
+  cs: |-
+    Aby však ten potah rychle hořel, máš postupovat takto: vezmi lněné plátno, nadělej z něj plátěné váčky jako jitrničky a silné jako prst; ty se mají naplnit suchým střelným prachem {puluer} nebo prudkou zápalnou hmotou. A jakmile je koule jednou jedním směrem ovinuta provazy či šňůrami, ale ještě ne křížem opletena či potažena, vezmi tyto jitrničky, nakrájej je na délku půl prstu, vlož je mezi provazy, potom to opleť křížem, jak ukazuje obrázek pod písmenem B., a svrchu to zalij zápalným potahem; pak kolem koule oviň konopí nebo len, znovu ji jednou jednoduše oviň šňůrami, opět mezi ně vlož váčky a opleť křížem; a je-li přes to zase další vrstva, zalij ji zápalným potahem a dělej to tak dlouho, až má koule svou velikost.
+- typ: odstavec
+  de: |-
+    Ein halb Kugel zu machen thu jm also/ fül ein sack wie vor
+  cs: |-
+    Chceš-li udělat dutou kouli, postupuj takto: naplň pytel, jak výše
+poznamky:
+- n: 1
+  text: Horno-německý výraz *däffen* (*täufen*, *taufen*) a podstatné jméno *däff* označuje v pyrotechnice 16. století ponoření či zalití ovázané ohnivé koule do rozehřáté směsi smůly a síry (*smolení, zápalný potah*).

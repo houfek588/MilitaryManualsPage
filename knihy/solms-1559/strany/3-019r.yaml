@@ -1,0 +1,26 @@
+id: 3-019r
+list: '19'
+strana: recto
+sken: 289
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    sonst / machen sich vnderthenig vnd gehorsam / geben gůte wort vnnd lieben jn / so hat ein Meister mit jn zu schaffen vnd zu heissen / vnd sind jm gehorsam / dann sie bedörffen seiner vnd er jre nit der kunst halber / ist aber ein Meister der nit vil kan noch weiß / vnd muß gesind oder knecht haben / vnd sein werckstat halten / wil er dann gůt Arbeit machen / vnd er kan es selbst nicht / so muß er eim knecht der das kan / gůte wort geben / bitten vnd wol bezallen / arbeit doch wann er wil / weiß das sein Meister jn haben můß / acht jn nicht hoch / der meister muß jn achten / daß ist eim Meister verächtlich vnd ein verkleinerung / also ist es mit eim Zeugmeister auch. Darumb sage ich noch wie zuuor daruon gemelt ist / das ein Herr zu sehe wie er sein Zeughauß versehe / vnd ein Zeugmeister oder wer es annimpt was er thů / bedenck / warumb er da sein wirt / vnd ob er das wisse zuuersehen oder zuuertretten / damit er sein Herrn vnd jn nit in schaden / spott vnd nachtheil fůre / dann es ist ein schwer Ampt vnd versehung. Nach ist ein stück zufragen zwischen gůtem vnd bösem Puluer / welches ein Herr zu machen vnd zugebrauchen an dem nützsten sein wirt / ist wol ein frages / hat vil vnderscheidt vnd vrsachen warumb eins nützer ist dann das ander / vnd was der vnderscheidt vortheil vnd nachtheil zwischen jn beiden ist / wirt berichtlich mit gůtem grundt / wie folgt / angezeigt / dann der alten ordnung vnd Manier oder jre bedencken vnd vor haben hat gar kein grundt in dem als sie es geacht haben.
+  cs: |-
+    zadarmo, jsou poddajní a poslušní, dávají mu vlídná slova a mají ho rádi; tak má mistr s nimi co poroučet a nařizovat a jsou mu poslušní, neboť oni potřebují jeho, a ne on je pro jejich umění. Je-li však mistr, který toho mnoho neumí ani nezná, a musí mít čeleď či dělníky a držet dílnu, chce-li dělat dobrou práci a sám to neumí, musí dělníkovi, jenž to dovede, dávat dobrá slova, prosit ho a dobře mu platit, a ten si stejně pracuje, kdy chce, ví, že jej jeho mistr musí mít, neváží si ho příliš a mistr se musí kořit jemu; to je pro mistra potupné a ponižující – a stejně tak je to i se zbrojmistrem {Zeugmeister}. Proto říkám znovu, jak už o tom bylo řečeno dříve, aby pán hleděl, jak obsazuje svou zbrojnici {Zeughauß}, a aby zbrojmistr či kdokoli jiný, kdo úřad přijímá, uvážil, co činí, proč tam bude a zda to umí obstarat a zastat, aby svého pána i sebe neuvedl do škody, posměchu a újmy, neboť je to těžký úřad a služba. Dále je tu jedna otázka mezi dobrým a špatným střelným prachem {Puluer}, který bude pro pána nejužitečnější vyrábět a používat; je to vskutku věc k tázání, má mnoho rozdílů a příčin, proč je jeden užitečnější než druhý, a jaký je rozdíl, výhoda i nevýhoda mezi nimi oběma, bude zevrubně s dobrým základem vyloženo, jak následuje; neboť starý řád a způsob či jejich úvahy a záměry nemají vůbec žádný základ v tom, jak se domnívali.
+- typ: nadpis
+  uroven: 2
+  de: Was der vnderscheit zwischen gutem vnd bösem Puluer ist.
+  cs: Jaký je rozdíl mezi dobrým a špatným střelným prachem.
+- typ: odstavec
+  de: |-
+    ZVm ersten hat ein gůt puluer dise tugent / so es wirt gemacht von gůtem geleutertem Zeug / vnd sein rechten satz hat / wol gearbeit vnd grob gekörnt / das werd lang / verdirbt oder wechst nit zusamen / starck vnd gewiß / beschleimpt die Büchsen nit / erhitzt sie nit wie das böß puluer / dann warumb / es raumbt bald auß den büchsen / das macht das es röß ist vnd gekernt / daß das fewer bald hindurch wüscht vnd an allen orten zu gleich an geht. Zum andern so bedarff mann des selbigen gůten nicht souil ein laden / wie des bösen Puluers / dieweil dann desselbigen gůten Puluers mann nit souil bedarff als des bösen / so ist gůt zubedencken das es in der büchsen nit souil fürnimpt als daß böß / derhalben die Kugeln an dem gůten Puluer weiter dahinden leidt / denn wen sie mit bösem puluer geladen wer / das ist der vorteil das die kugel weit dahinden leit / das sie desto weiter zu lauffen hat / wie mann sagt das ein lange büchsen einer kurtzen vor scheußt das ist ein vrsach. Zum dritten so geht das röß puluer auff einmal
+  cs: |-
+    Za prvé má dobrý prach tuto vlastnost: je-li vyroben z dobré čištěné hmoty, má své správné složení, je dobře zpracován a nahrubo zrněn, vydrží dlouho, nekazí se ani nesléhá v hrudky, je silný a spolehlivý, nezanáší děla {Büchsen} a nerozpaluje je tak jako špatný prach. Proč? Protože rychle vyklidí hlaveň děla, což působí to, že je sypký a zrněný,[^1] takže jím oheň rychle prošlehne a vznítí se všude najednou. Za druhé není třeba tohoto dobrého prachu nabíjet tolik jako špatného prachu; a poněvadž tohoto dobrého prachu není třeba tolik jako špatného, lze si snadno domyslet, že v děle nezabere tolik místa jako špatný, a proto koule {Kugeln} při dobrém prachu leží hlouběji vzadu, než kdyby bylo nabito špatným prachem. Výhodou toho, že koule leží hluboko vzadu, je, že má delší dráhu rozběhu – jak se říká, že dlouhé dělo dostřelí před krátkým, to je jedna z příčin. Za třetí se prudce hořící prach najednou
+poznamky:
+- n: 1
+  text: |-
+    Něm. *röß* (*rösch*) – křehký, sypký, rychle hořící, neztuhnutý v prachový koláč.

@@ -1,0 +1,247 @@
+id: 5-010r
+list: 10 (5. kniha)
+strana: recto
+sken: 455
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - - Hanß Vogelszberger
+    - schichten 6
+  cs:
+  - - Hanß Vogelszberger
+    - 6 směn
+- typ: odstavec
+  de: |-
+    Summa 56. schichten zu 6. batz. Summa gelt 22. fl. 6. batzen.
+  cs: |-
+    Součet 56 směn po 6 batzech, součet peněz 22 zlatých 6 batzů.
+- typ: odstavec
+  de: |-
+    Zuffer leut.
+  cs: |-
+    Přidavači:
+- typ: tabulka
+  de:
+  - - Donat Rodt
+    - schichten 3
+  - - Vicentz Wemach
+    - schichten 3
+  - - Velten Hilenbrant
+    - schichten 3
+  - - Fritz Han
+    - schichten. 3
+  cs:
+  - - Donat Rodt
+    - 3 směny
+  - - Vicentz Wemach
+    - 3 směny
+  - - Velten Hilenbrant
+    - 3 směny
+  - - Fritz Han
+    - 3 směny
+- typ: odstavec
+  de: |-
+    Summa 12. schichten zu 5. batz. Summa gelt 4. fl. Summarum 26. fl. 6. batzen.
+  cs: |-
+    Součet 12 směn po 5 batzech, součet peněz 4 zlaté; úhrnem 26 zlatých 6 batzů.
+- typ: odstavec
+  de: |-
+    Mehr die so bei dem wasser sein.
+  cs: |-
+    Dále ti, kdo jsou u vody:
+- typ: tabulka
+  de:
+  - - Paul Kürschner
+    - schichten 1
+  - - Jörg Hendle
+    - schichten 1
+  - - Mattheis Hinderberger
+    - schich. 1
+  - - Lenhart Klein
+    - schichten 1
+  - - Lenhart Morer
+    - schichten 1
+  - - Gerst von Manßfeld
+    - schichten 1
+  - - Christoff Müler
+    - schichten 1
+  - - Hanß Vogelszberger
+    - schichten 1
+  - - Hanß von Fleissing
+    - schichten 1
+  - - Hanß Veit
+    - schichten 1
+  - - Gregor Bürgermeister
+    - schich. 1
+  - - Wolff Butz
+    - schichten 1
+  - - Caspar Lederer
+    - schichten. 1
+  cs:
+  - - Paul Kürschner
+    - 1 směna
+  - - Jörg Hendle
+    - 1 směna
+  - - Mattheis Hinderberger
+    - 1 směna
+  - - Lenhart Klein
+    - 1 směna
+  - - Lenhart Morer
+    - 1 směna
+  - - Gerst von Manßfeld
+    - 1 směna
+  - - Christoff Müler
+    - 1 směna
+  - - Hanß Vogelszberger
+    - 1 směna
+  - - Hanß von Fleissing
+    - 1 směna
+  - - Hanß Veit
+    - 1 směna
+  - - Gregor Bürgermeister
+    - 1 směna
+  - - Wolff Butz
+    - 1 směna
+  - - Caspar Lederer
+    - 1 směna
+- typ: odstavec
+  de: |-
+    Summa 13. schichten zu 6. batzen/ auff dem stoln bei dem wasser. Summa gelt 5. flo. 3. batzen.
+  cs: |-
+    Součet 13 směn po 6 batzech na štole u vody; součet peněz 5 zlatých 3 batzy.
+- typ: odstavec
+  de: |-
+    Hut leut.
+  cs: |-
+    Dozorci:
+- typ: tabulka
+  de:
+  - - Valten Weingarten
+    - 4 fl.
+  - - Augustin Neuhofer
+    - 4 fl.
+  - - Clauß Dopffer võ Eissenach
+    - 4 fl.
+  - - Contz Weiß
+    - 4 fl.
+  - - Im andern stoln.
+    - ''
+  - - Anthon Planck
+    - 4 fl.
+  - - Jörg Platner
+    - 4 fl.
+  - - Hanß Weger
+    - 4 fl.
+  - - Christan Haß.
+    - 4 fl.
+  cs:
+  - - Valten Weingarten
+    - 4 zlaté
+  - - Augustin Neuhofer
+    - 4 zlaté
+  - - Clauß Dopffer z Eisenachu
+    - 4 zlaté
+  - - Contz Weiß
+    - 4 zlaté
+  - - 'Ve druhé štole:'
+    - ''
+  - - Anthon Planck
+    - 4 zlaté
+  - - Jörg Platner
+    - 4 zlaté
+  - - Hanß Weger
+    - 4 zlaté
+  - - Christan Haß
+    - 4 zlaté
+- typ: odstavec
+  de: |-
+    Was ich außgeben hab für Kertzen vnd anders mehr.
+  cs: |-
+    Co jsem vydal za svíce a jiné věci:
+- typ: tabulka
+  de:
+  - - Item am 22 tag Julij für Kertzen geben
+    - 3 fl. 9 batzen
+  - - Item am 24 Julij vmb Kertzen geben
+    - 2 flo. 7 batzen
+  - - Item 26 tag Julij vmb Kertzen geben
+    - 2 flo. 11 batzen
+  - - Item am 28 tag Julij vmb Kertzen geben
+    - 1½ flo.
+  - - Item am 29 tag Julij vmb Kertzen geben
+    - 2 flo. 8½ batzen
+  - - Item vmb Papir geben
+    - 2 batzen
+  - - Item vmb ein Ziegel wasser zu heben geben
+    - 2 batzen.
+  cs:
+  - - Dne 22. července vydáno za svíce
+    - 3 zlaté 9 batzů
+  - - Dne 24. července za svíce vydáno
+    - 2 zlaté 7 batzů
+  - - Dne 26. července za svíce vydáno
+    - 2 zlaté 11 batzů
+  - - Dne 28. července za svíce vydáno
+    - 1½ zlatého
+  - - Dne 29. července za svíce vydáno
+    - 2 zlaté 8½ batzu
+  - - Za papír vydáno
+    - 2 batzy
+  - - Za okov k nabírání vody vydáno
+    - 2 batzy
+- typ: odstavec
+  de: |-
+    Summa 45 flo. 5 batzen.
+  cs: |-
+    Součet 45 zlatých 5 batzů.[^1]
+- typ: odstavec
+  de: |-
+    Das erst geding thůt summa an gelt 150 fl. 10 batzen.
+  cs: |-
+    První dílo {Geding} činí úhrnem na penězích 150 zlatých 10 batzů.
+- typ: odstavec
+  de: |-
+    Widerumb angefangen auff ein newes am 27. Julij.
+  cs: |-
+    Znovu započato od začátku dne 27. července:
+- typ: tabulka
+  de:
+  - - Martin Gretz
+    - schichten 3
+  - - Thomas Lentz
+    - schiechten 2
+  - - Hanß Pannach
+    - schiechten 2
+  - - Hanß Puschaner
+    - schichten 3
+  - - Henrich am Alber
+    - schiechten 2
+  - - Andre Eder
+    - schichten 3
+  - - Lienhart Finsser
+    - schiechten 2
+  - - Caspar ab dem Melten
+    - schiechten 3
+  cs:
+  - - Martin Gretz
+    - 3 směny
+  - - Thomas Lentz
+    - 2 směny
+  - - Hanß Pannach
+    - 2 směny
+  - - Hanß Puschaner
+    - 3 směny
+  - - Henrich am Alber
+    - 2 směny
+  - - Andre Eder
+    - 3 směny
+  - - Lienhart Finsser
+    - 2 směny
+  - - Caspar ab dem Melten
+    - 3 směny
+poznamky:
+- n: 1
+  text: |-
+    Osm dozorců (*Hutleut*) po 4 zlatých dává 32 zlatých a vypsané výdaje za svíce, papír a okov (1 zlatý = 15 batzů) dávají 13 fl. 2 batzy, tedy dohromady 45 fl. 2 batzy (proti tištěným 45 fl. 5 batzů); při přičtení předchozích položek (33 fl. 5 b. + 40 fl. 6 b. + 26 fl. 6 b. + 5 fl. 3 b. + 45 fl. 5 b.) však výsledné *erst geding* přesně souhlasí na `150 fl. 10 batzen`.

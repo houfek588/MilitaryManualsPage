@@ -1,0 +1,55 @@
+id: 3-054v
+list: '54'
+strana: verso
+sken: 360
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    WAnn du ein Puluer scheidest vnd es wider vntereinander Temperiern wilt / so nim 2. pfundt desselben Salpeters / 1. pfundt Schwefels als er dir in dem sack ist bliben / vnd des kolns nach seinem gewicht / das jm recht ist / thů darzů nichts / sonst wenn du daß abstöst cum Aceto Distillato / vnd laß denn darnach das Puluer wolgetrucken an der Sonn / vnnd thů Confortat. darzů / als dich diß Bůch auch hernach lern wirt / so hastu auß bösem Puluer gůts gemacht.
+  cs: |-
+    Když takto střelný prach {Puluer} rozdělíš a chceš jej opět smísit dohromady, vezmi 2 libry {pfundt} téhož ledku {Salpeters}, 1 libru síry {Schwefels}, která ti zůstala v pytli, a dřevěného uhlí {kolns} podle váhy, jež mu náleží; nepřidávej k tomu nic jiného, než když to utlučeš s destilovaným octem (*cum Aceto Distillato*), potom nech prach dobře uschnout na slunci a přidej k němu posilující přísadu (*Confortat.*),[^1] jak tě tato kniha také dále naučí – tak uděláš ze špatného prachu dobrý.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann gar ein weit schiessend Puluer machen soll / etc.
+  cs: Jak se má dělat velmi daleko nesoucí prach atd.
+- typ: odstavec
+  de: |-
+    WIltu ein gůt weit schiessend Puluer machen / so nime 3. pfundt gar böß salpeter / 1. pfundt garbs schwefel / 1. vierling Koln / ein halbs stettit Arsenicum album / vnd stoß dasselb klein zusamen / nim ein Quart / das ist ein virteil einer gůten maß gebranten weins / vnd ein stettit Camforis / laß es vnter einander sieden / vnd wenn es kalt wirt / so schüt es vnter das Puluer / stoß das aber / vnd laß das wol trucken / so hastu ein gůt weit schiessends Puluer.
+  cs: |-
+    Chceš-li udělat dobrý daleko nesoucí prach, vezmi 3 libry velmi ostrého[^2] ledku, 1 libru čisté[^3] síry, 1 čtvrtlibří {vierling} uhlí a půl malého dílku[^4] bílého arzeniku (*Arsenicum album*) a utluč to na jemno dohromady. Pak vezmi kvartu, to jest čtvrtinu dobrého mázu {maß} páleného vína, a jeden dílek kafru (*Camforis*), nech to spolu vařit, a až to vychladne, vlij to do prachu; znovu jej utluč a nech dobře vyschnout – tak máš dobrý daleko nesoucí prach.
+- typ: nadpis
+  uroven: 3
+  de: Da steht aber wie mann ein starck Puluer macht etc.
+  cs: Zde pak stojí, jak se dělá silný prach atd.
+- typ: odstavec
+  de: |-
+    WIltu ein gůt starck Puluer machen / so nime 3. pfundt Salpeters / 1. pfundt schwefels / der da grob sei / 2. vierling Koln als vor / vnnd mische das vnder einander / thů das in ein glaß / vnd laß es dann stehn / nim Salarmoniac album vnd Puluer das vntereinander / thů das in ein gleßlein vber ein gefüg feur / rür es vntereinander ein halbe stund vnd nim starcken gebranten wein / schüt des ein Eierschal vol vnter das Puluer in das glaß / rür es vnter einander / laß das Puluer wider trucken werden / darnach stoß das wol / vnnd lad den driten theil der Büchsen damit.
+  cs: |-
+    Chceš-li udělat dobrý silný prach, vezmi 3 libry ledku, 1 libru síry, jež nechť je hrubá, a 2 čtvrtlibří uhlí jako výše, smíchej to dohromady, dej do skleněné nádoby a nech stát. Pak vezmi bílý salmiak (*Salarmoniac album*), rozetři jej na prach, dej jej do skleničky nad mírný oheň, míchej to spolu půl hodiny, vezmi silné pálené víno, vlij ho plnou vaječnou skořápku do prachu ve skleněné nádobě, zamíchej a nech prach opět uschnout; potom jej dobře utluč a nabij jím třetinu děla {Büchsen}.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann gar ein gut vnd meisterlich Puluer machen soll.
+  cs: Jak se má dělat velmi dobrý a mistrný prach
+- typ: odstavec
+  de: |-
+    SO du wilt gůt Büchsen Puluer machen / das nutz / gůt vnd starck wirt / so nim darzů 1. pfundt gůts Schwefels / ein vierling gůts lauters Kolns / das on Esche ist gewesen / vnnd wiltu des Puluers mehr machen / so wige dise vorgenante Species darzu an gewicht / vnd jrre nicht darinn / oder du thůst ein werck das nicht vorfert / vnd merck wol eben / ein halb Centner salpeter bricht 30. pfundt schwefels /
+  cs: |-
+    Chceš-li tedy dělat dobrý puškový prach {Büchsen Puluer}, jenž bude užitečný, dobrý a silný, vezmi k tomu 1 libru dobré síry, jedno čtvrtlibří dobrého čistého uhlí, které bylo bez popela; a chceš-li prachu vyrobit více, odvaž k němu předešlé přísady podle váhy a nemyl se v tom, jinak vykonáš dílo, které se nezdaří. A pamatuj si dobře: půl centu {Centner} ledku pojme[^5] 30 liber síry,
+poznamky:
+- n: 1
+  text: |-
+    *Confortat.* (*Confortativum*) – posilující přísada (tmel či koření pro zvýšení síly prachu).
+- n: 2
+  text: |-
+    Tisk uvádí nejasné *gar böß salpeter* („velmi špatný ledek“), což je nejspíše písařský omyl místo *gar röß* („velmi ostrý/prudký“) nebo *gar best* („nejlepší“).
+- n: 3
+  text: |-
+    V tisku stojí *garbs schwefel* – pravděpodobně zkomoleně za *gelbs* („žlutá“) či *gantz* („celá/čistá“) síra.
+- n: 4
+  text: |-
+    *stettit* – neznámá či zkomolená drobná váhová jednotka (snad písařský přepis z *quintit* / *quintlein* – „kvintlík“, srov. l. 44r *Quintat*).
+- n: 5
+  text: |-
+    *bricht* zde patrně místo *braucht* („spotřebuje, vyžaduje“) či v hutnicko-chemickém smyslu „převezme, pojme“; recept navíc na začátku neuvádí přesnou váhu ledku k 1 libře síry, jak plyne z následného poměru 50 liber ledku ku 30 librám síry a 12½ librám uhlí.

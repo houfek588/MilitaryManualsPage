@@ -1,0 +1,50 @@
+id: 3-062v
+list: '62'
+strana: verso
+sken: 376
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    als Sal siluestrum / salunien zeucht zu jm vnd theilt sich gleich als salumen den mann in den Salpeter legt / so mann jn meret / Isponicum Vitriolum Romanum / auffhauffent ein jegliche Species vnd Materie / vnd vor den vorgenanten Specien mussen sein würckung / maß vnd theilung haben / vnnd wisset in rechter warheit das diß nicht fehlt / ein Lere soltu wissen je dicker vnd mehr du den Salpeter leuterst / vnd scheidest je weniger des wirt / denn jm geht vil ab / oder der jm also thůt / so ist er der aller best / vnd wirt gůt Salpeter den jemant gewisen oder gehaben mag / vnd wirckt wol.
+  cs: |-
+    jako skalní sůl (*Sal siluestrum*); kamenec (*salunien*)[^1] k sobě přitahuje a dělí se stejně jako kamenec (*salumen*), jenž se klade do ledku {Salpeter}, když se rozmnožuje; měděnka (*Isponicum*) a římská skalice (*Vitriolum Romanum*) shlukují každou přísadu a látku – a každá z uvedených přísad musí mít své působení, míru a rozdělení. A vězte v pravé jistotě, že toto neklame. Jedno poučení měj na paměti: čím častěji a více ledek čistíš a odděluješ, tím méně ho bývá, neboť mu mnoho ubude; avšak kdo s ním takto naloží, bude mít ledek ze všech nejlepší – dobrý ledek, jaký jen kdo může ukázat nebo mít, a ten dobře působí.
+- typ: nadpis
+  uroven: 3
+  de: Nun soll mann erkennen welch Salpeter gnug geleutert ist.
+  cs: Nyní se má poznat, který ledek jest dostatečně přečištěn
+- typ: odstavec
+  de: |-
+    WEnn du versuchen wöllest / ob Salpeter gnug geleutert sei oder nit / so nim ein wenig / vnd legs denn auff ein glüenden Kolen / brennt es dann schön auff / vnd vbersich nicht prelt / so ist er gůt / vnd gerecht / prelt er aber vber sich / so ist er aber nicht gnug geleutert.
+  cs: |-
+    Chceš-li vyzkoušet, zda jest ledek dostatečně přečištěn či nikoli, vezmi jej trochu a polož na žhavý uhel; vzplane-li pěkně a neprská vzhůru, pak jest dobrý a pravý; prská-li však vzhůru, není ještě dostatečně přečištěn.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann salpeter versuchen soll / ob er mit saltz gefelscht sei oder nicht.
+  cs: Jak se má zkoušet ledek, zda není falšován solí či nikoli
+- typ: odstavec
+  de: |-
+    SO nim vil als ein welsche nuß / vnd leg es auff ein glüenden Koln oder auff ein brant / der wol glüend sei / brennt es schön auff dem Kolen oder auff dem brandt als ob er vnter sich falle / so ist on saltz / gůt / vnd gerecht / protzelt er aber vbersich als ein saltz / wenn man es in das Feur wirfft / das ist ein Zeichen das er nit wol geleutert / vnd das mehr saltzs dabei ist.
+  cs: |-
+    Vezmi tedy tolik, co vlašský ořech, a polož to na žhavý uhel nebo na poleno, jež jest dobře rozžhavené; hoří-li pěkně na uhlu nebo na polenu, jako by zapadal dolů, pak jest bez soli, dobrý a pravý; praská-li[^2] však vzhůru jako sůl, když se hodí do ohně, to jest znamení, že není dobře přečištěn a že je při něm ještě mnoho soli.
+- typ: odstavec
+  de: |-
+    Item nim sein souil als ein Welsche nuß / thů das in ein sauber schessel die nicht schmaltzíg sei / vnd laß den salpeter darinn ligen / geuß ein wenig wassers daran / vnd wenn der salpeter ein wenig im wasser gelegen ist so seig denn das wasser ab / vnd versuch es mit dem mundt ist denn das wasser fast gesaltzen / vnd hat der salpeter abgenomen / also das vil weniger ist dann vor / das geht von mehr saltz zu / ist es aber nicht minder worden / vnd das wasser nicht gesaltzen / er treugt.
+  cs: |-
+    Dále vezmi jej tolik, co vlašský ořech, dej to do čisté misky, jež není mastná, a nech ledek v ní ležet; přilej k němu trochu vody, a když ledek chvíli ve vodě ležel, pak vodu slij a ochutnej ji ústy. Jest-li pak voda velmi slaná a ubylo-li ledku tak, že ho je mnohem méně než dříve, to pochází od většího množství soli; neubylo-li ho však a není-li voda slaná, pak jest způsobilý.[^3]
+- typ: nadpis
+  uroven: 3
+  de: Hernach steht geschriben ein gut Lere auff salpeter zukauffen der erst von Venedig komen ist / das mann nicht betrogen werde.
+  cs: Níže jest psáno dobré poučení ke koupi ledku, jenž právě přišel z Benátek, aby člověk nebyl oklamán
+poznamky:
+- n: 1
+  text: |-
+    *salunien* i následující *salumen* jsou zkomolené tvary pro *sal alumen* („kamenec“); *Sal siluestrum* („lesní / surová sůl“) označuje přírodní sůl či kamennou sůl.
+- n: 2
+  text: |-
+    BSB OCR zde četlo *proßelt* místo *protzelt* („praská, prská“), *willest* místo *wöllest* a v úvodu předchozího odstavce vynechalo iniciály *SO*.
+- n: 3
+  text: |-
+    V tisku stojí *er treugt* – zřejmě tisková chyba za *er taugt* („jest dobrý, způsobilý“), popř. vypadlé *nit* u *er treugt [nit]* („neklame“) či nářeční význam *treugen* („je suchý / vyschne“).

@@ -1,0 +1,65 @@
+id: 3-045v
+list: '45'
+strana: verso
+sken: 342
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Wilt du ein Feurpfeil machen der in wasser brennt.
+  cs: Chceš-li zhotovit ohnivý šíp {Feurpfeil}, jenž hoří ve vodě
+- typ: odstavec
+  de: |-
+    So thů Ganffer in das Puluer.
+  cs: |-
+    Pak přidej do prachu {Puluer} kafr (*Ganffer*).
+- typ: nadpis
+  uroven: 3
+  de: Feurpfeil zu machen.
+  cs: Jak udělat ohnivý šíp
+- typ: odstavec
+  de: |-
+    SO nim 3. pfundt Salpeter / 1. pfundt Schwefel / vnd ein halbs Kolen / stoß wol zu puluer / vnd knet das Puluer mit gebrantem Wein zu einem deyg / vnnd mach dann kleine secklin auß Schurlatz tůch / so lang wie der Pfeil ist / thů den deyg in ein secklin / vnd verbints mit fädem hinden vnd vorn / schwembs dann in Schwefel oder hartz / vnd laß es trucken werden / so hast du gůt Feurpfeil.
+  cs: |-
+    Vezmi tedy 3 libry {pfundt} ledku {Salpeter}, 1 libru síry {Schwefel} a půl [libry] dřevěného uhlí {Kolen}, dobře je utluč na prach a uhněť prach s páleným vínem v těsto. Pak ušij ze šurlacového plátna[^1] malé pytlíčky tak dlouhé, jaký je šíp, dej těsto do pytlíčku, svaž jej nitěmi vzadu i vpředu, namoč v síře nebo pryskyřici a nech uschnout; tak budeš mít dobré ohnivé šípy.
+- typ: nadpis
+  uroven: 3
+  de: Die aller besten Feurpfeil zu machen.
+  cs: Jak udělat ze všech nejlepší ohnivé šípy
+- typ: odstavec
+  de: |-
+    SO nim 5. pfundt Salpeter / 1. pfundt Schwefel / vnnd ein halbs Kolen / stoß das in einem Mörser wol vnder einander / mit dem öl genant Oleum benedictum / von dem hieuor geschrieben ist / vnnd thů dann gebranten wein darunder / souil daß es gnůg sei / vnd mach ein deyg darauß / vnd knet dann den deyg an den Pfeil / wie du sie haben wilt / vnd dann stecke jn in einen Ofen der warm ist / daß er wol ertrucken vnd dörre / nimbs dann herauß / schab vnnd formir jhn wol mit einem Messer / wie er sein soll / vnd vberzeug jn mit saubern ledern vnd bewindt jn mit fädem gar wol / vnd schwemb jn in Schwefel odder hartz / so ist er bereit.
+  cs: |-
+    Vezmi tedy 5 liber ledku, 1 libru síry a půl [libry] dřevěného uhlí, utluč to dobře v hmoždíři dohromady s olejem zvaným *Oleum benedictum*, o němž bylo psáno výše, a přidej tolik páleného vína, kolik bude stačit. Udělej z toho těsto a uhněť je na šíp tak, jak je chceš mít; pak jej vlož do teplé pece, aby dobře vyschl a ztvrdl. Poté jej vyjmi, dobře jej oškrábej a vytvaruj nožem, jak má vypadat, potáhni jej čistou kůží, velmi dobře jej oviň nitěmi a namoč jej v síře nebo pryskyřici – tak je připraven.
+- typ: nadpis
+  uroven: 3
+  de: Gut Feurpfeil in wasser vnd Eysen.
+  cs: Dobré ohnivé šípy do vody a s železem
+- typ: odstavec
+  de: |-
+    ITem mann nem 8. theil Salpeter / 3. theil Schwefel / vnd 1. theil kolen / darnach Barchent / vnd mach secklin darauß so groß wie daumen / vnd einer fordern spannen lang / das Puluer hart in das secklin gestossen mit einem spitzigen holtz vber einander / vnd nim ein Eysen einer spannen lang / das so dick sei wie ein schreibfeder / vnd vorn spitzig / ein hecklein / vnd hinden ein Kolben hab / stoß durch das secklein / vnd gleichwol zu dem Eysen gebunden / mann laß den pfeil sich hefften wie ein ander pfeil / vnd laß es vorn bei dem spitzen darnach den schwefel zulassen in eim digel / dunck den pfeil darin / so ists bereit.
+  cs: |-
+    Dále vezmi 8 dílů ledku, 3 díly síry a 1 díl uhlí, potom barchet a ušij z něj pytlíčky silné jako palec a dlouhé na přední píď; prach pěchuj špičatým dřívkem pevně do pytlíčku. Pak vezmi železo dlouhé jednu píď a silné jako psací brk, které má vpředu špici s háčkem a vzadu násadku;[^2] prostrč je skrz pytlíček a přivaž pevně k železu. Šíp se má nechat nasadit na dřík jako každý jiný šíp a potom se nechá rozpustit síra v kelímku, ponoří se do ní šíp u hrotu[^3] a tak je připraven.
+- typ: nadpis
+  uroven: 3
+  de: Gut Feurpfeil zumachen.
+  cs: Jak dělat dobré ohnivé šípy
+- typ: odstavec
+  de: |-
+    ITem mann nem 1. pfundt wolgestossen Koln / 2. wolgestossen schwefel / vnd 4. pfundt wolgeleuterten Saluter / thůs alles in ein geschir
+  cs: |-
+    Dále vezmi 1 libru dobře utlučeného uhlí, 2 [libry] dobře utlučené síry a 4 libry dobře přečištěného ledku {Saluter},[^4] dej vše do nádoby,
+poznamky:
+- n: 1
+  text: |-
+    *Schurlatz tůch* (*Schürlitz* / *Schurlitz*) – hrubší barchetová či pololněná tkanina (fustián).
+- n: 2
+  text: |-
+    *Kolben* (hlavice / patka) zde znamená zesílenou zadní část či tulejku hrotu.
+- n: 3
+  text: |-
+    Satzově nejasný předěl v tisku (*vnd laß es vorn bei dem spitzen darnach den schwefel zulassen in eim digel*) – zřejmě vypadlo slovo nebo byl přemístěn slovosled („a nech to vpředu u špičky [volné], načež rozpusť síru v kelímku“).
+- n: 4
+  text: |-
+    Tisková chyba předlohy: *Saluter* místo *Salpeter*.

@@ -1,0 +1,72 @@
+id: 3-025r
+list: '25'
+strana: recto
+sken: 301
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - - Zugpferdt
+    - '915.'
+    - Züg
+    - '11.'
+    - Ladschauffeln
+    - '18.'
+    - Blechbüchen
+    - '54.'
+  cs:
+  - - tažných koní {Zugpferdt}
+    - '915[^1]'
+    - kladkostrojů
+    - '11'
+    - nabíjecích lopatek {Ladschauffeln}
+    - '18'
+    - plechových nádob na prach {Blechbüchen}
+    - '54'
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Hernach volgt das Feldgeschütz.
+  cs: |-
+    Nyní následují polní děla {Feldgeschütz}.
+- typ: odstavec
+  de: |-
+    VNd ist erstlich zuwissen / daß solches hernach beschriben gerings Geschütz nicht auff wagen / sonder jedes auff seinem eigen gefäß oder Lade gefürt wirt / vrsach daß der last an jnen selbst nit so schwer / darzů auch nit souil / als das groß Geschütz sich einlegen oder versencken thůt.
+  cs: |-
+    A nejprve jest vědět, že tato níže popsaná lehčí děla {Geschütz} se nevozí na vozech, nýbrž každé na své vlastní lafetě {gefäß} čili loži {Lade}, z toho důvodu, že jejich tíha není sama o sobě tak velká a ani se tak hluboko jako velká děla nezatlačují a neboří do země.
+- typ: odstavec
+  de: |-
+    Item deren stück jedes soll an jm selbs 40. Centner halten / vnd seiner zugehörigen Kugeln 34. leng haben / vnd also gemelter kugeln eine an eysen wigen 12. pfundt.
+  cs: |-
+    Dále: každý z těchto kusů[^2] má sám o sobě vážit 40 centů {Centner}, mít délku 34 svých příslušných koulí {Kugeln} a každá z těchto koulí má vážit na železe 12 liber {pfundt}.
+- typ: odstavec
+  de: |-
+    Zu denen 6. Schlangen gehören gleicherzal oder souil gefäß / vnd für der jedes so die Büchs darauff ligt / alweg einem Roß 3. Centner zuziehen auffladen einzuspannen 13. Roß / thůt für die 6. gefäß Zugpferdt 78.
+  cs: |-
+    K těmto 6 kulverinám {Schlangen} patří stejný počet lafet, a před každou z nich, když na ní dělo {Büchs} leží – nakládá-li se jednomu koni k tažení vždy 3 centy –, zapřáhnout 13 koní, což za 6 lafet činí 78 tažných koní.
+- typ: odstavec
+  de: |-
+    Möcht aber einer fragen warumb einem Roß / dieweil die Büchs an jr selbs nur 40. Centner schwer / nit mehr dann 3. Centner zuziehen auffgeladen were. Darzů soll mann antworten / Nach dem der last dises stucks / so er allein auff der lade oder gefäß gefürt / bei einander auff einer achs ligt / das gibt vrsach darmit die ersparten Wagen / durch die anzal der Zugpferdt gemehrt / widerumb erstatt müssen werden / dann ein jeder leichtlich zugedencken hat / wo die schwere odder last / vnd sonderlich eines gantzen stücks / gleich eingetheilt / vnd zweien achsen als auff einem wagen beschehen mag / beuolhen wirt / daß der Zug souil senffter geschehen / vnd den geiln allenthalben ringer vnnd leichter zuerheben ist. So gehörn nun mehrgemeltem anschlag nach / auff dise 6. stuck auch 600. Kugeln mit zufürn / die halten an eisen 72. Centner / darzů bedarff mann allweg einem wagen 24. Centner oder 200. kugeln zutragen gerechnet Wagen 3. Zugpferdt 12.
+  cs: |-
+    Mohl by se někdo zeptat, proč se jednomu koni, ač dělo samo o sobě váží jen 40 centů, nenaložilo k tažení více než 3 centy. Na to jest odpovědět: protože tíha tohoto kusu, když se veze jen na loži nebo lafetě, leží pohromadě na jedné nápravě, je z toho důvodu nutné ušetřené vozy nahradit zvýšeným počtem tažných koní; každý totiž snadno nahlédne, že tam, kde se tíha či břemeno – a zvláště celého kusu – rozdělí rovnoměrně a svěří dvěma nápravám,[^3] jak se děje na voze, jede se tím šetrněji a koňům se dá všude snáze a lehčeji utáhnout. Podle výše uvedeného rozpočtu tedy k těmto 6 kusům náleží vézt s sebou také 600 koulí, jež váží na železe 72 centů; počítá-li se vždy na jeden vůz 24 centů čili 200 koulí nákladu, je k tomu třeba 3 vozů a 12 tažných koní.
+- typ: odstavec
+  de: |-
+    Vnder denen dreien wagen sol auch einer obangezeigter vrsachen / mit einem verschlossen kasten zu den kugeln zugericht vnd versehn sein / Souil puluer brengt 72. Cent. darzů gehörn wagen 3. Zugpferdt 12.
+  cs: |-
+    Z těch tří vozů má být rovněž jeden z výše uvedených příčin upraven a opatřen zavřenou bednou na koule. Tolikéž střelného prachu {puluer} činí 72 centů {Cent.}, k čemuž náleží 3 vozy a 12 tažných koní.
+- typ: odstavec
+  de: |-
+    Wiewol dise 6. Feldschlangen wo sie bei einander bleiben / vnd im Feld / wie gewönlich geschicht / nit auff drei teil zertrent vnd zerspalt würden / hetten sie an einem jnen zugehörigen zug notturfftige versehung gnůg / aber vermelter vrsachen / damit kein saumbseyl im feld erschein / soll jnen auch 3. Züg / doch nur von 8. Scheiben vnd einem wendtscheiblin aber doppel eingezogen sampt jren Seylen vnd zugehörungen nachgefürt werden / darzů gehörn wagen 3. Zugpferdt 12.
+  cs: |-
+    Ačkoli by těmto 6 kulverinám {Feldschlangen}, kdyby zůstávaly pohromadě a v poli se – jak obvykle bývá – nerozdělovaly a neštěpily na tři díly, postačovalo patřičné opatření jediným kladkostrojem k nim náležejícím, z uvedených příčin však, aby v poli nevzniklo žádné zdržení, mají se za nimi vézt rovněž 3 kladkostroje, avšak jen s kladnicemi o 8 kotoučích a s jedním otočným kotoučkem, ale dvojitě navlečené, spolu s jejich provazy a příslušenstvím; k tomu náleží 3 vozy a 12 tažných koní.
+poznamky:
+- n: 1
+  text: |-
+    Součet dílčích sum tažných koní u bořičů hradeb (190 + 276 + 145 + 268) činí 879, tisk však uvádí *915* (rozdíl +36 koní je vyrovnán opačnou odchylkou −36 koní u polního dělostřelectva na fol. 27r, takže celkový součet 1394 tam souhlasí).
+- n: 2
+  text: |-
+    Na pravém okraji tisku stojí rubrika *Feldtschlangen 6.* (6 kulverin).
+- n: 3
+  text: |-
+    V tisku stojí *vnd zweien achsen*, zřejmě tiskařská záměna místo *vff zweien achsen* („na dvě nápravy“). Na dolním okraji skenu je pod sazbou chybně vytištěný kustod *gen 6.* (patřící k marginální rubrice *Feldtschlangen 6.*), ač rub l. 25v začíná slovem *Doch*.

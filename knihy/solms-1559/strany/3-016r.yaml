@@ -1,0 +1,127 @@
+id: 3-016r
+list: '16'
+strana: recto
+sken: 283
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    bericht volgen wirt / oder auff den ersten der sich vor ein Büchsenmeister außgibt vnd fragens leiden mag / mit dem soll gehandelt werden auff die fragstück wie folgt.
+  cs: |-
+    bude následovat zpráva; anebo s tím prvním, jenž se vydává za puškaře {Büchsenmeister} a snese vyptávání, se má jednat podle zkušebních otázek, jak následuje.
+- typ: odstavec
+  de: |-
+    Zum ersten soll er jn fragen bei was Herrn er vor gedient hab / vnd in was Zügen er gewesen sei / was er für einn beuelch vnd versehung / darzů was für stück er vnderhanden zuschiessen gehabt hab.
+  cs: |-
+    Za prvé se ho má zeptat, u jakých pánů dříve sloužil a na jakých taženích {Zügen} byl, jakou měl pravomoc a správu a jaké kusy {stück} měl pod rukama ke střelbě.
+- typ: odstavec
+  de: |-
+    Zum andern soll er jn fragen / ob er schreiben / lesen vnd rechnen kön.
+  cs: |-
+    Za druhé se ho má zeptat, zda umí psát, číst a počítat.
+- typ: odstavec
+  de: |-
+    Zum dritten ob er ein ander Handtwerck / vnd was für eins / kön.
+  cs: |-
+    Za třetí, zda umí nějaké jiné řemeslo a jaké.
+- typ: odstavec
+  de: |-
+    Zum vierdten ob er sich auch wolt bei seim herrn zu bleiben verpflichten / so man mit allen sachen vnd besoldung zu friden wirt.
+  cs: |-
+    Za čtvrté, zda by se také chtěl zavázat zůstat u svého pána, dojde-li ke shodě ve všech věcech a o žoldu {besoldung}.
+- typ: odstavec
+  de: |-
+    Zum fünfften ob er wiß ein Scharpffmetz / Cartaun / halb Cartaun Notschlang / halb Mörser zu reissen / in jr recht teilung / weite vnd maß.
+  cs: |-
+    Za páté, zda umí narýsovat šarfmerci {Scharpffmetz}, kartounu {Cartaun}, poloviční kartounu, těžkou kulverinu {Notschlang} a poloviční moždíř {halb Mörser} v jejich správném rozdělení, šířce i míře.
+- typ: odstavec
+  de: |-
+    Zum sechsten ob er wiß wann ein Büchs gossen ist / sie sei groß oder klein zu fassen oder fassen lassen.
+  cs: |-
+    Za šesté, zda umí, když je dělo {Büchs} odlito, ať velké či malé, vsadit je do lafety nebo do ní nechat vsadit.
+- typ: odstavec
+  de: |-
+    Zum sibenden wann ein stück gefast wer / ob er das wiß in das feld zurichten / schiessen / vnd fürn mit sein pferden wie das jm zuhört.
+  cs: |-
+    Za sedmé, když by byl kus usazen v lafetě, zda jej umí vypravit do pole, střílet z něj a vézt jej se svými koňmi, jak mu přísluší.
+- typ: odstavec
+  de: |-
+    Zum achten / wann ein stück vngleich inwendig am kern vnd Ror were / doch gerade / ob er das zu finden wiß / durch gesicht vnd zeichen zu machen / das darauß geradt zu schiessen sei.
+  cs: |-
+    Za osmé, kdyby byl kus uvnitř v duši a hlavni {Ror} nerovnoměrný, a přece rovný, zda to umí najít a upravit mířidly a značkami tak, aby se z něj dalo střílet rovně.[^1]
+- typ: odstavec
+  de: |-
+    Zum neunden / ob er auch wiß ein Wagner zu vnderrichten / daß er zu den grossen / schweren stücken / gůt versorgte Räder machen kündt.
+  cs: |-
+    Za deváté, zda umí poučit koláře, aby k velkým, těžkým kusům dokázal vyrobit dobrá, pevná kola.
+- typ: odstavec
+  de: |-
+    Zum zehenden / ob er auch wiß die grossen gantzen scheiben zumachen darauff mann die grossen stück scheust vnd fürt.
+  cs: |-
+    Za desáté, zda umí zhotovit velká plná kotoučová kola,[^2] na nichž se velké kusy vozí a z nichž se střílí.
+- typ: odstavec
+  de: |-
+    Zum eilfften / ob er kündt die plechwagen machen lassen / darauff mann die grossen stück fürt auß den gefessen.
+  cs: |-
+    Za jedenácté, zda by dovedl nechat zhotovit okované plošinové vozy,[^3] na nichž se velké kusy vezou sňaté z lafet {gefessen}.
+- typ: odstavec
+  de: |-
+    Zum zwölfften / ob er auch wiß die zigböck mit andern wenden vnd hohen zügen zu zurichten lassen / zu den grossen vnd kleinen stücken.
+  cs: |-
+    Za dvanácté, zda umí nechat zhotovit zvedací kozy s navijáky a vysokými kladkostroji {hohen zügen}[^4] k velkým i malým kusům.
+- typ: odstavec
+  de: |-
+    Zum dreitzehenden / ob er auch wiß zu schantzen graben sprengen vor den Flecken / Schlössern vnd Stäten.
+  cs: |-
+    Za třinácté, zda umí před městečky, zámky a městy kopat šance {schantzen}, podkopávat a vyhazovat do povětří.
+- typ: odstavec
+  de: |-
+    Zum vierdtzehen / ob er sich auch verstehe mit den Mörsern vmb zu gehn / zu schiessen vnd werffen mit feurwerck vnd stein.
+  cs: |-
+    Za čtrnácté, zda se také vyzná v zacházení s moždíři {Mörsern}, ve střelbě a vrhání ohňostrojů {feurwerck} a kamene.
+- typ: odstavec
+  de: |-
+    Zum fünfftzehenden / ob er auch wiß Feurwerck zumachen vnnd zu schiessen auß Cartaun vnd Schlangen.
+  cs: |-
+    Za patnácté, zda umí vyrábět ohňostroje a střílet jimi z kartoun a kulverin {Schlangen}.
+- typ: odstavec
+  de: |-
+    Zum sechszehenden ob er wiß sturmzüg zu machen vnd zu dagreiffen in eim Schloß oder Stat.
+  cs: |-
+    Za šestnácté, zda umí zhotovovat útočné stroje a vést útok[^5] na nějaký zámek nebo město.
+- typ: odstavec
+  de: |-
+    Item zum 17. ob er auch wiß ein gůt puluer zumachen zu grossem vnd kleinem geschütz. 18. Ob er verstehe Salpeter zu siden vnd leutern.
+  cs: |-
+    Dále za 17., zda umí vyrobit dobrý střelný prach {puluer} pro velká i malá děla {geschütz}. 18. Zda rozumí vaření a čištění ledku {Salpeter}.
+- typ: odstavec
+  de: |-
+    19. Ob er auch verstehe wann der Salpeter gůt vnd rein sei / wann er noch saltz / schalck / allaun / laugen oder vbrige feistung bei sich hab.
+  cs: |-
+    19. Zda také pozná, kdy je ledek dobrý a čistý a kdy v sobě ještě má sůl, zemitou nečistotu,[^6] kamenec, louh nebo přebytečnou mastnotu.
+- typ: odstavec
+  de: |-
+    20. Ob er wiß / wann er ein stück im feld den feinden lassen muß / es wer groß oder klein / in eil zusprengen.
+  cs: |-
+    20. Zda umí, musí-li v poli ponechat nějaký kus nepřátelům – ať velký či malý –, jej ve spěchu roztrhnout.
+poznamky:
+- n: 1
+  text: |-
+    Tj. je-li jádro vývrtu (*kern*) uvnitř hlavně excentrické či nestejně silné ve stěnách, jak vadu odměřit a vyrovnat mířidly, aby dělo střílelo rovně.
+- n: 2
+  text: |-
+    Něm. *die grossen gantzen scheiben* – masivní plná dřevěná kotoučová kola bez loukotí (disková kola), užívaná pro nejtěžší obléhací děla.
+- n: 3
+  text: |-
+    Něm. *plechwagen* (*Blockwagen / Blechwagen*) – těžké železem pobité plošinové vozy k přepravě hlavní těžkých děl mimo lafety.
+- n: 4
+  text: |-
+    Něm. *zigböck mit andern wenden vnd hohen zügen* – zvedací kozy (trojnožky) se vrátky/navijáky (*winden/wenden*) a vysokými kladkostroji ke zvedání hlavní.
+- n: 5
+  text: |-
+    Něm. *sturmzüg* (útočné/ztečné stroje či výstroj) a *zu dagreiffen* (patrně z *darangreiffen / angreiffen* – zaútočit).
+- n: 6
+  text: |-
+    Něm. *schalck* (vedle soli, kamence, louhu a mastnoty *feistung*) – zde zemitá či hořká minerální nečistota zbývající při vaření ledku.

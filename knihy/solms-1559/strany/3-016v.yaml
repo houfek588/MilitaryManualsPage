@@ -1,0 +1,48 @@
+id: 3-016v
+list: '16'
+strana: verso
+sken: 284
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Ob er auch wiß mit einer Schiffbrücken vmb zugehn oder machen lassen. Ob er auch wisse groß oder klein stück zuordnen mit seinen pferden vor sie zu ziehen / das nach rechter zal / maß vnd gewicht einem jeden pferdt nach der größ des stücks / wirt sein gewicht zu ziehen auffgeladen. Ob er auch wisse ein zug zu zürichten / daß er ein stück groß oder klein / in ein Schantz zu fürn / wann er das mit den pferden platz halben nit thůn kan. Ob er sich auch auff Schloß vnd Stät die zu befestigen wisse vnd verstehe.
+  cs: |-
+    Zda také umí zacházet s lodním mostem {Schiffbrücken} nebo jej dát zhotovit. Zda umí uspořádat velký či malý kus {stück} s koňmi zapřaženými před něj, tak aby podle správného počtu, míry i váhy dostal každý kůň podle velikosti kusu naloženo k tažení svou přiměřenou váhu. Zda také umí zřídit kladkostroj {zug}, aby dopravil velký či malý kus do šance {Schantz}, nemůže-li to učinit s koňmi kvůli nedostatku místa. Zda se také vyzná v opevňování zámků a měst a rozumí tomu.[^1]
+- typ: nadpis
+  uroven: 2
+  de: Antwort vnd vnderricht vff die artickel.
+  cs: Odpovědi a poučení k těmto článkům.
+- typ: odstavec
+  de: |-
+    VOr erst / sol er sein bericht nemen was Herren er gedienet hab / vnd jm das alles wie die frag außweist den bericht auffschreiben.
+  cs: |-
+    Předně si má vzít jeho zprávu, jakým pánům sloužil, a celou tuto zprávu mu zapsat tak, jak ukazuje otázka.
+- typ: odstavec
+  de: |-
+    Der 2. Artickel / wann er schreiben kan so laß man jn alle seine sachen selbst schreiben / was er auff die artickel antwort / kan er rechnen sol er auch selbs die Rechnung machen / was in disen Fragartickeln zu machen ist.
+  cs: |-
+    2. článek: umí-li psát, nechť si všechny své věci, jež na články odpoví, napíše sám; umí-li počítat, nechť sám vypracuje i výpočet, co je třeba v těchto zkušebních článcích spočítat.
+- typ: odstavec
+  de: |-
+    Der 3. Artickel ob er ein Handtwerck kön / sagt er ja / Ich bin ein Schmidt / Schlosser / Wagner / Schreiner / Zimmerman / oder Giesser / welcher Handtwercker er eins vnder disen kan / weren alle gůt zu einem Büchsenmeister in ein Zeughauß.
+  cs: |-
+    3. článek, zda umí nějaké řemeslo: řekne-li ano, „jsem kovář, zámečník, kolář, truhlář, tesař nebo kovolijec,“ jakékoli z těchto řemesel umí, všechna by byla dobrá pro puškaře {Büchsenmeister} do zbrojnice {Zeughauß}.
+- typ: odstavec
+  de: |-
+    Der 4. ob er bleiben wolt / sprich er ja / ich will mich bestellen lassen zu bleiben / wann er dann etwas kan / vnd an der person recht ist / sol mann mit jm daruff handeln / spricht er nein / ich will mich nit zu bleiben bestellen lassen / so ist auch nit mit jm zu handeln in ein Zeughauß / dann darinn gehörn leut die darbei bleiben / vnd nit daruon wöllen wann sie eins Herrn schatz vnd gelegenheit erlernen / vnd alle sachen wissen.
+  cs: |-
+    4., zda by chtěl zůstat: řekne-li ano, „chci se nechat najmout, abych zůstal,“ pak umí-li něco a je-li po osobní stránce řádný, má se s ním o tom jednat. Řekne-li ne, „nechci se nechat najmout natrvalo,“ pak s ním není radno jednat ani do zbrojnice, neboť tam patří lidé, kteří při ní zůstanou a nechtějí odejít, jakmile poznají pánův poklad a poměry a všechno se dovědí.[^2]
+- typ: odstavec
+  de: |-
+    Der 5. ob er reissen kön / spricht er nein / es steht eim Giesser zu / der wirt sie reissen wan ers giessen will / Daruff soll ein Zeugmeister antworten / wann dein herr oder ich zu dir sprech / Ich wil ein Scharpffmetz giessen lassen / es wont ein Giesser in der Stat / ist vorteilhafftig / geust nit allzeit gůten zeug / kennstu den zeug ob er gůt oder böß ist / sagt er ich ken jn nit wol / er muß sie doch beschiessen vnd wehrn / sol mann antworten / ja ist war / geust er die so dick vber die recht theilung / daß sie halten muß / dann die vbrige schwere ist mit jm / es geht in eim schmeltzen / kosten vnd mühe zů / Ist aber für mein Herrn nicht / dann den vbrigen zeug muß er vergebens bezallen / ist darnach desto vngeschickter vnd stercker zu fassen / auch mit schwerer mühe vnnd vnkosten zufüren / hett aber die Büchs jre rechte theillung vnd maß / so were mein Herr
+  cs: |-
+    5., zda umí rýsovat: řekne-li ne, „to náleží kovolijci, ten je narýsuje, až je bude odlévat,“ nato má zbrojmistr {Zeugmeister} odpovědět: „Kdyby ti tvůj pán nebo já řekl: ‚Chci nechat odlít šarfmerci {Scharpffmetz}, ve městě bydlí kovolijec, jenž je ziskuchtivý a neodlévá vždy dobrou kovinu – poznáš kovinu, zda je dobrá či špatná?‘“ Řekne-li: „Neznám ji dobře, vždyť za ni musí ručit a vyzkoušet ji střelbou,“ má se mu odpovědět: „Ano, je to pravda; odlije-li ji však nad správné rozměry tak silnou, že musí vydržet – neboť přebytečná tíha mu jde k dobru, jde to při jednom tavení, nákladech i práci –, není to však dobré pro mého pána, protože tu přebytečnou kovinu musí zbytečně zaplatit, a potom je o to neohrabanější a těžší na vsazení do lafety i s větší námahou a náklady k vození; kdežto kdyby mělo dělo {Büchs} své správné rozdělení a míru, pak by byl můj pán
+poznamky:
+- n: 1
+  text: |-
+    Tyto čtyři nečíslované otázky odpovídají 21.–24. článku v oddílu odpovědí níže.
+- n: 2
+  text: |-
+    V tisku „sprich er ja“ (vypadlé koncové *-t* za *spricht*).

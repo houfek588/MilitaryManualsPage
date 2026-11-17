@@ -1,0 +1,37 @@
+id: 1-024r
+list: '24'
+strana: recto
+sken: 57
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Nemlich durch ein Person die darzů geordnet ist / die es allein thůt vnd ist doch ein werck / das die obgemelte vier alle mit zuthůn haben / als der Feldmarschalck für eins besehen soll / das die Quartir wie sich gebürt nach gelegenheit getheilt werden / vnd die wachten darnach zuordnen vnd zubestellen.
+  cs: |-
+    Totiž skrze jedinou osobu k tomu určenou, která to koná sama, ačkoliv je to dílo, na němž se mají podílet všichni čtyři výše jmenovaní: tak polní maršálek {Feldmarschalck} má nejprve dohlédnout na to, aby byly kvartýry {Quartir} podle povahy místa náležitě rozděleny, a podle toho rozvrhnout a postavit stráže {wachten}.
+- typ: odstavec
+  de: |-
+    Der Artoloreimeister hat zuuersehen / wo er sein Geschütz stellen soll / als den Lermenplatz darmit zubesetzen / es sei ein Lermenplatz oder mehr / oder das sich etwan ein Leger darnach schicken wirt / das mann geschütz auff ein Berg oder ort stellen můst / ein Paß oder strassen zuuerweren / wie das wol komen kan / das sich solches zutragen / vnd der gelegenheit nach schicket / deßgleichen ob mann solt ein Leger beschantzen oder ein flecken es wer ein Schloß oder Stat / deßgleichen sein Platz zu seiner Munition zustellen / vnd seine Artolorei Roß daran auch vil gelegen ist / auß disen vrsachen gehört der Artoloreimeister oder sein Leutenant darbei.
+  cs: |-
+    Zbrojmistr {Artoloreimeister} má určit, kam postavit svá děla {Geschütz}, aby jimi obsadil poplachové místo {Lermenplatz}, ať už je poplachové místo jedno nebo jich je více, anebo kdyby se ležení {Leger} mělo uspořádat tak, že by bylo nutné postavit děla na nějaký vrch či jiné místo k zahrazení průsmyku nebo cesty – jak se snadno může stát, že k tomu dojde a povaha terénu to vyžaduje; stejně tak, má-li se opevnit šancemi {beschantzen} ležení nebo nějaké místo, ať hrad či město, a rovněž určit místo pro postavení munice {Munition} i pro své dělostřelecké koně, na nichž také velmi záleží. Z těchto příčin u toho má být zbrojmistr nebo jeho poručík {Leutenant}.
+- typ: odstavec
+  de: |-
+    Zum dritten so soll der Wagenburgmeister auch darbei sein / ob mann würd ein Wagenburg schlagen oder stellen / das er sehen künd wo die sein solte / damit er sein Wagen souil er bedürffen würd / ehe dan die in das leger komen würden außnemen nach seiner Ordnung vnd rollen / das sollen der Feldmarschalck vnd der Wagenburgmeister sich mit einander vergleichen / des daß die so die wagen geben / zu nacht darbei gequartirt würden / darmit sie bei jhren Wagen sein möchten oder die wagen bei jhnen / so hat der Wagenburgmeister auch zusehen vnd wer an solches ort zu ligen quartirt wirt / auß demselben hat er die Wagenburg zunemen / vnd sein leutenant lassen zu rück reitten / das der dem Wagenmeister sage / das er jm souil wagen als er bedarff / auß dem hauffen das dar quartirt wirt / gebe / dieselbige hat er dann zu forieren / vnd dieselbige soll er bald außfüren / vnd bei solchen platz darmit sie jhre zelten abladen möchten / vnd auff die fütterung faren.
+  cs: |-
+    Za třetí u toho má být také mistr vozové hradby {Wagenburgmeister}, kdyby se měla rozbíjet či stavět vozová hradba {Wagenburg}, aby viděl, kde má stát, a mohl podle svého řádu a seznamu vybrat tolik vozů, kolik bude potřebovat, ještě dříve, než vozy dorazí do ležení. Polní maršálek a mistr vozové hradby se mají spolu dohodnout na tom[^1], aby ti, kdo dávají vozy, byli na noc ubytováni poblíž, aby mohli být u svých vozů nebo vozy u nich; mistr vozové hradby má také dohlédnout, kdo je na takovém místě ubytován, a odtamtud má vozovou hradbu vybrat a poslat zpět svého poručíka, aby řekl vozmistrovi {Wagenmeister}, ať mu z houfu {hauffen}, který tam táboří, vydá tolik vozů, kolik potřebuje; ty pak má uvést na místo {forieren}, ihned je vyvést a postavit poblíž onoho prostranství, aby mohli složit své stany a vyjet na pícování {fütterung}.
+- typ: odstavec
+  de: |-
+    Dieweil dann ein leger zuschlagen also durch die vermelt vier Personen geschehen soll / so ist solches den vier Personen einem in seins Ampts beuelch nit allein zuschreiben / wie fornen vermelt / das die Kriegßampter ein jedes besonder beschrieben werden soll / So wil ich das leger wie das geschlagen werden soll / souil die gelegenheit das geben vnnd leiden wil / in dises Bůch vnd verzeichnuß des Kriegs anfangs Ordnung nit beschreiben / dann es ist das erst stuck / wann das Kriegßuolck bei einander kömpt das mann gen Feld zeugt das leger schlegt / derhalben so wil ich etlich Artickel nemlich fünfftzehen anzeigen / darauß ein leger zu schlagen vorzunemen sein soll / vngefehrlich die Haupt puncten wie volgt.
+  cs: |-
+    Poněvadž se tedy rozbíjení ležení má dít prostřednictvím zmíněných čtyř osob, nelze to připsat do působnosti úřadu jen jedné z těchto čtyř osob, jak bylo vpředu řečeno, že válečné úřady {Kriegßampter} mají být popsány každý zvlášť. Nechci tedy způsob rozbíjení ležení, nakolik to okolnosti dovolí a snesou, v této knize a zápisu o počátečním řádu války neopisovat zevrubně[^2], neboť to jest první věc, když se válečný lid {Kriegßuolck} shromáždí a vytáhne do pole, že se rozbije ležení; proto chci uvést několik článků, totiž patnáct[^3], podle nichž se má při rozbíjení ležení postupovat – zhruba hlavní body, jak následují:
+poznamky:
+- n: 1
+  text: V tisku zkráceně *des dʒ* místo *des daß* („na tom, aby…“).
+- n: 2
+  text: |-
+    V tisku stojí *nit beschreiben* („nepopsat“); vzhledem k úvodní doložce *souil die gelegenheit das geben vnnd leiden wil* i následující větě *dann es ist das erst stuck…* jde buď o elipsu („nebudu zde popisovat zeširoka, nýbrž uvedu jen hlavní body“), anebo o sazečskou záměnu za *mit beschreiben* („popsat zároveň s tím“).
+- n: 3
+  text: |-
+    Ačkoliv autor zde oznamuje patnáct (*fünfftzehen*) článků, nadpis na následující straně i samotný výčet uvádějí jen dvanáct (*zwelff*) bodů.

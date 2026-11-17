@@ -1,0 +1,47 @@
+id: 1-029r
+list: '29'
+strana: recto
+sken: 67
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Practicken vnd Finantzen im Krieg vnder den Regierungen / vnnd es ist zubesorgen daß wol etliche sein mögen / die jre sachen zusamen schlagen / einander helffen / vnnd jhren handel mit einander treiben / dann die Kriegßregirung will je lenger je mehr in einen Kauffhandel geraten / dann mann sicht daß etliche Commissarien gar vil gůts auß den Zügen bringen / Wie zuuermutten das es zugehe / wirt hernach im andern Bůch von den Amptern meltung geschehen.
+  cs: |-
+    úklady {Practicken} a finty {Finantzen} ve válce mezi úřady a je třeba se obávat, že se najdou i někteří takoví, kteří spojí své zájmy, pomáhají si navzájem a provozují spolu své kupčení; válečná správa se totiž čím dál více mění v pouhý kramářský obchod, vždyť je vidět, že někteří komisaři {Commissarien} si z tažení {Zügen} přinášejí velmi mnoho jmění. Jak se lze domýšlet, že se to děje, o tom bude učiněna zmínka níže v Druhé knize o úřadech.
+- typ: odstavec
+  de: |-
+    Darumb wirdt von nöten sein fürter ein einsehens zuhaben / darmit mann wider gemeine Kriegs nötliche Pollicei erhebe vnnd halten kündt / darmit ein Herr das gemein Kriegßuolck desto statlicher erhalten möge.
+  cs: |-
+    Proto bude do budoucna zapotřebí na to dohlédnout, aby bylo možno opět pozvednout a udržovat potřebný obecný válečný veřejný řád {Pollicei}, aby pán mohl tím řádněji vydržovat prostý válečný lid {Kriegßuolck}.
+- typ: odstavec
+  de: |-
+    Ja mann will wol sagen / soll ein Herr mit sollichen sachen selber vmbgehen / hören vnd bemühet sein / er hat souil Räth vnd Commissarien darüber / es ist dem Herren ein verhinderung ? Nein es ist verdechtig geredt / vnd zuuermuten daß dieselbigen mit inn der Practicken ligen / vnd jnen leidt wer daß er etwas darumb wissen solt / dann wann der Herr das wissen würde / so möcht er jnen das nit gestatten.
+  cs: |-
+    Ovšem říká se: „Má se snad pán s takovými věcmi sám zabývat, vyslýchat je a namáhat se? Vždyť na to má tolik radů {Räth} a komisařů – pána to jen zdržuje!“ Nikoli, to je řeč podezřelá a dá se tušit, že titíž lidé jsou sami zapleteni do oněch pletich a bylo by jim líto, kdyby o tom pán něco věděl; neboť kdyby se to pán dozvěděl, nemohl by jim to trpět.
+- typ: odstavec
+  de: |-
+    Das ist aber recht / das mann es einen Herren bericht vnnd helff beratschlagen / daß es in ein recht werck gebracht werde / Da sollen dann die Commissarien die arbeit thůn vnnd fleissig darauff sehen / daß es geschehe / vnd in rechtem gang bleibe.
+  cs: |-
+    Správné je však toto: podat o tom pánovi zprávu a pomoci poradit, aby to bylo uvedeno ve správný skutek; tu pak mají komisaři vykonat tu práci a pilně dohlížet na to, aby se tak stalo a zůstalo to ve správném chodu.
+- typ: odstavec
+  de: |-
+    Besonder sol mann einen solchen getrewen fleiß bei einem jungen Kriegßherrn oder Obersten haben / der des Kriegs nit vil geübet ist.
+  cs: |-
+    Zvláště je třeba vynaložit takovou věrnou píli u mladého válečného pána {Kriegßherrn} či nejvyššího velitele {Obersten}, který ještě nemá ve válčení mnoho zkušeností.
+- typ: odstavec
+  de: |-
+    Wann ein Herr dann mit allen räthlich vnd behilfflich handeln wirt / das ist jm ein trost / vnd auch mit solchem Rath vnd beistandt ehr vnd lob erhalten / vnd nit allein dem Kriegßuolck / sonder auch dem Krigßherrn damit gedient wirt / vnd allen Kriegs vornemen mit sampt solchen darzů Raths personen vnd Ampts verwaltern / darumb soll ein Herr sich mit gůten geschickten Personen die Ampter zuuerwalten oder zu regiren wol versehen / dann alle sachen die stehen einem Kriegßherrn auff gůtem Rath / Regirung vnd versehung der Ampter / Dann wann die Ampter wol regiret vnnd versehen werden / durch Personen die solliches im feld zu handeln verstehen / besonder wann es an die not gehet / vnnd der Feinde mit ernst zu entgegen ist / vnnd der Rath mit der handt angegrieffen vnd beweret sein will.
+  cs: |-
+    Bude-li tedy pán se všemi jednat poradně a nápomocně, je mu to posilou a takovou radou i oporou získá čest a chválu; a neposlouží se tím jen válečnému lidu, nýbrž i samotnému válečnému pánovi a všem válečným podnikům spolu s takovými k tomu určenými osobami rady a správci úřadů. Proto se má pán dobře opatřit schopnými osobami ke správě a řízení úřadů, neboť veškeré záležitosti válečného pána spočívají na dobré radě, správě a obstarávání úřadů; když jsou totiž úřady dobře řízeny a zastávány osobami, které dovedou takové věci vykonávat v poli, zvláště když jde do tuhého, nepřítel stojí vážně v cestě a rada se má uchopit do rukou a osvědčit skutkem.
+- typ: odstavec
+  de: |-
+    Darumb soll ein Herr / wie offt gemelt / sein hohe Ampter wol besetzen / vnd versehen mit den verstendigen Personen / die rath vnd that im Feld mit einander thůn / vnd nicht mit stuben Räthen bestellen / die dem Krieg maß geben wöllen / sonder zeitlich mit seinen
+  cs: |-
+    Proto má pán, jak již bylo často řečeno, dobře obsadit své vysoké úřady a opatřit je rozumnými osobami, které v poli spojují radu i čin, a neobsazovat je pokojovými rady[^1], kteří chtějí válce poroučet z tepla světnice, nýbrž včas se svými
+poznamky:
+- n: 1
+  text: |-
+    Něm. *stuben Räthen* – dosl. „radové ze světnic“, tj. úředníci a rádcové z kanceláří bez polní zkušenosti.

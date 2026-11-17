@@ -1,0 +1,53 @@
+id: 3-017v
+list: '17'
+strana: verso
+sken: 286
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    doch souil Scheiben vnd Seiler als zum grossen / wer nit recht / trifft er aber den vnderscheidt vnd theilung / so ists recht vnd ein gůt stück.
+  cs: |-
+    přece se stejným počtem kladek a lan jako k velkému – to by nebylo správné; trefí-li však rozdíl a rozvržení, je to správné a dobrý kus.
+- typ: odstavec
+  de: |-
+    Der 13. Artickel versteht er den / so mag mann des ein Schrifftlichen bericht von jm nemen / will er dann darzů auch reissen / ist souil desto besser vnd verstendiger / dann es ist nit einem jeden wol zu reissen / so ers aber thůt / ist sein kunst vnd verstandt souil desto besser.
+  cs: |-
+    13. článek: rozumí-li mu, lze si od něj vzít písemný výklad; chce-li k tomu i rýsovat, je to o to lepší a srozumitelnější, neboť ne každý dobře umí rýsovat – činí-li to však, je jeho umění a rozum o to lepší.
+- typ: odstavec
+  de: |-
+    Der 14. Artickel / spricht er / er verstehe disen Artickel / so ist es wol etwas / dann es ist ein recht Meisterstück / so soll man jn fragen / was er auß einem Mörser für Fewer werffen wöl / die soll er beschreiben was gattung / vnd von waserlei Manier mit fewer vnd stein / was er sich dann berümpt / soll er auffzeichen / so soll der Zeugmeister jn die machen / probiern / vnd werffen lassen / macht er sie gůt wirfft gewiß vnd wol / so besteht er mit einem gůten meisterstück.
+  cs: |-
+    14. článek: řekne-li, že tomuto článku rozumí, je to věru něco, neboť jde o pravý mistrovský kus; tu se ho mají zeptat, jaké ohňostroje {Fewer} chce vrhat z moždíře {Mörser}, má je popsat – jakého druhu a jakého způsobu s ohněm i kamenem –, a čím se chlubí, to má zapsat; potom jej má zbrojmistr {Zeugmeister} nechat je vyrobit, vyzkoušet a vrhat. Udělá-li je dobře a vrhá přesně a dobře, obstojí s dobrým mistrovským kusem.
+- typ: odstavec
+  de: |-
+    Der 15. Artickel spricht er / er wiß jm auch zuthůn / so soll mann jn auch also die fewer in grossen vnd kleinen stücken machen vnd probieren lassen / macht er die gůt daß sie nit im schiessen zerspringen / sonder gantz bleiben biß sie komen da sie hin gehörn / vnd brennen dann recht / so ist es ein gůt meisterstück / doch soll mann darauff sehen / wann er sie ehe dann die Büchsen anzünt / so ist es nit recht / soll nichts / hat des vil vrsachen / zünt sich aber das fewer mit der Büchsen an / es sei im Mörser oder Cartaunen was das were / so ist es gerecht / vnd ein recht Meisterstück / dann es können nicht vil Meister dise kogeln machen / daß sie sich selbs anzünden in der büchsen wan man die anzünt.
+  cs: |-
+    15. článek: řekne-li, že si s tím také ví rady, má se tedy rovněž nechat vyrobit a vyzkoušet ohňostroje pro velké i malé kusy {stücken}. Udělá-li je dobře, takže se při výstřelu neroztrhnou, nýbrž zůstanou vcelku, dokud nedoletí, kam patří, a teprve pak řádně hoří, je to dobrý mistrovský kus. Přitom se však má hledět na to: zapaluje-li je dříve než samotné dělo {Büchsen}, není to správné a nestojí to za nic – je k tomu mnoho příčin; vznítí-li se však ohňostroj spolu s výstřelem děla, ať v moždíři či v kartouně {Cartaunen}, cokoli by to bylo, je to správné a pravý mistrovský kus, neboť nemnoho mistrů dovede vyrobit takové koule {kogeln}, aby se v děle samy zapálily, když se dělo odpaluje.
+- typ: odstavec
+  de: |-
+    Der 16. Artickel bedarff vil bericht / gerissenen Figurn vnd proben / so mann die machen soll / wann er sich dann das rümpt / mag mann des wol ein Schrifftlichen bericht von jhm nemen / will er die reissen wie sich gebürt / vnd rechte proben machen / ist gůt / thůt ers dann vnd macht sie gerecht / ist er desto höher vnnd mehr zuhalten / dann es ist nicht ein kleine Kunst.
+  cs: |-
+    16. článek vyžaduje mnoho výkladů, narýsovaných kreseb a zkoušek, má-li se to provést; chlubí-li se tím tedy, lze si od něj vzít písemný výklad, a chce-li je narýsovat, jak se sluší, a udělat řádné zkoušky, je to dobré; vykoná-li to a udělá-li je správně, je třeba si ho tím výše a více vážit, neboť to není malé umění.
+- typ: odstavec
+  de: |-
+    Der 17. Artickel spricht er / er wiß sein Puluer gůt zumachen / wie er sich des berümpt / mag mann jn mit der zeit Proben machen lassen / man kan aber doch ein bericht von jm nemen on proben / zů ersten.
+  cs: |-
+    17. článek: řekne-li, že umí dělat dobrý střelný prach {Puluer}, jak se tím chlubí, může se ho časem nechat udělat zkoušky; přece však si od něj nejprve lze vzít zprávu i bez zkoušek.
+- typ: odstavec
+  de: |-
+    Der 18. vnd 19. Artickel den Salpeter betreffend / wann er die sach versteht / mag mann des von allem ein prob von jm nemen.
+  cs: |-
+    18. a 19. článek týkající se ledku {Salpeter}: rozumí-li věci, lze si od něj z toho všeho vzít zkoušku.
+- typ: odstavec
+  de: |-
+    Der 20. Artickel / so er das weiß kan ers bald anzeigen / bedarff nit besonders reissens noch weitlaufftigen bericht / es ist aber auch ein kunst vnd ein gůt stück.
+  cs: |-
+    20. článek: umí-li to, může to brzy ukázat; nevyžaduje to zvláštního rýsování ani obšírného výkladu, ale je to také umění a dobrý kus.
+- typ: odstavec
+  de: |-
+    Der 21. Artickel spricht er / er verstehe vnd wisse damit vmbzugehn / das wer auch ein gůt stück / gehört in ein Zeughauß / so er die machen kan oder damit weiß vmbzugehn / des soll man bericht von jm nemen.
+  cs: |-
+    21. článek: řekne-li, že tomu rozumí a umí s tím zacházet, i to by byl dobrý kus a patří do zbrojnice {Zeughauß}; umí-li je dělat či s nimi zacházet, má se od něj vzít zpráva.

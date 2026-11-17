@@ -1,0 +1,37 @@
+id: 1-031v
+list: '31'
+strana: verso
+sken: 72
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd einen reisigen Zeug das ist gůt / dieselbigen soll er gebrauchen / vnd bei anderm seinem Kriegßuolck haben / vnd wann der Herr vnder sollichen seinen Landtsassen vom Adell gůt leut hette / die die Ampter versehen künden / so soll er die darzů ordnen vnd nemen / die seind nicht darinn vermeint / daß ein Herr sein Landtuolck nicht gebrauchen soll / sonder das gemein Kriegßuolck ist darmit vermeint daß mann außzuziehen schafft / vnnd nicht gern thut / was aber geschickt Volck vnd Kriegßleut seind / deßgleichen Büchsenmeister vnd andere Handwerck vnd kunstreich leut / die seind alle gůt / vnd ist einem Herren nutz das er solche leut in seiner Landtschafft selber hat / darumb soll ein Herr sich allezeit befleissen / daß er zu aller Regierung gůt verstendigt Leut hab / vnd zu einem jeden werck oder versehung personen die daruon verstandt haben vnnd gebraucht seind / vnnd nicht denen beuelhen die gern den namen / ehr vnd nutz daruon nemen / vnd die versehung nicht zu regiren wissen vnd gern thůn.
+  cs: |-
+    a jízdu {reisigen Zeug}, to je dobré – těch má použít a mít je u svého ostatního válečného lidu {Kriegßuolck}. A měl-li by pán mezi takovými svými usedlými šlechtici schopné lidi, kteří dokážou zastávat úřady, má je k tomu určit a vzít; ti nejsou míněni v tom, že by pán neměl používat svůj zemský lid, nýbrž míní se tím obecný válečný lid, kterému se přikáže vytáhnout a nekoná to rád. Co jsou však obratní lidé a vojáci {Kriegßleut}, stejně tak puškaři {Büchsenmeister} a jiní řemeslníci a zruční lidé, ti všichni jsou dobří a pánovi je k užitku, že má takové lidi ve své zemi sám. Proto se má pán vždy snažit, aby měl ke vší správě dobré a rozumné lidi a ke každému dílu či opatření osoby, které tomu rozumějí a jsou v tom zběhlé, a nikoli je svěřovat těm, kdo si z toho rádi berou jméno, čest a zisk, ale správu zastávat neumějí, a přece se k ní rádi mají.[^1]
+- typ: odstavec
+  de: |-
+    Deßgleichen soll ein Herr solche hohe Ampter einem nit zwei oder drei anhencken oder beuelhen / sonder einem jeden Ampt seine eigene Person / dann bekompt ein Herr vil gůter Leut / vnd wann einer nicht mehr dann ein Ampt zuuersehen hat / so kan er das auch desto baß verwalten / vnd seinen beuelch außrichten / als dann wirt wol regirt / dem Herrn vnd gantzen gemeinen Krieg wol gedient.
+  cs: |-
+    Stejně tak nemá pán jednomu člověku věšet na krk nebo svěřovat dva či tři takové vysoké úřady, nýbrž každému úřadu vlastní osobu; pak pán získá mnoho schopných lidí, a nemá-li kdo na starosti více než jeden úřad, může jej také tím lépe spravovat a plnit své pověření – tehdy se vládne dobře a pánovi i celé společné válce je dobře slouženo.
+- typ: odstavec
+  de: |-
+    Dises Bůch oder beschreibung ist nicht mehr dann ein erinnerung einer gemeiner Kriegßregirung / mit weittern anzeigungen der mißbreuch die also ein zeitlang in die Kriegßregierungen eingebrochen / Hiemit wil ich diß Bůch vnd beschreibung beschliessen vnd darbei bleiben lassen / vnd nicht mehr dann vor ein erinnerung vnnd bericht beschrieben haben.
+  cs: |-
+    Tato kniha neboli popis není nic jiného než připomenutí obecné válečné správy s dalším poukázáním na zlořády, které se již nějaký čas do válečných správ vloudily. Tím chci tuto knihu a popis uzavřít a při tom zůstat, a nechci ji mít sepsánu za nic více než za připomenutí a zprávu.
+- typ: odstavec
+  de: |-
+    Aber die rechten Ampter mit jhren verwaltungen vnd zugehörenden Artickeln / die will ich ein jedes besonder beschreiben / vnnd eines jeden Ampts versehung mit fleiß vnd vnderschiedlich anzeigen vnd berichten / Vnd dises Bůch nich anderst dann ein Eingang vnd anzeigung der Regierung eingefallenden mißbreuchen beschriben vnd angezeigt / gleich wie ein Register gemacht haben / damit die Kriegsregierung wider in ein rechte gemeine nutzung vnd Pollicei gebracht vnd kommen möcht.
+  cs: |-
+    Avšak vlastní úřady s jejich správou a příslušnými články, ty chci popsat každý zvlášť a opatření každého úřadu pilně a rozdílně vyložit a oznámit; a tuto knihu jsem nesepsal a nepodal jinak než jako úvod a poukázání na zlořády vniklé do správy, sestavené na způsob rejstříku, aby válečná správa mohla být opět uvedena a navrácena k pravému obecnému užitku a veřejnému řádu {Pollicei}.
+- typ: odstavec
+  de: |-
+    Dieweil dann von der Kriegßordnung inn diser derhalben beschreibung der Regierung / ein gantz Regierung geordnet vnd angezeigt ist auß vrsachen der mißbreuch vnd eigen nützige handlung so ein zeitlang in Kriegen gangen vnnd gebraucht seind / daß derhalben ein einsehen hoch von nöten sein muß / will mann anders wider
+  cs: |-
+    Poněvadž tedy o válečném řádu je v tomto popisu správy zřízena a vyložena celá správa z příčiny zlořádů a zištného jednání, jež se již nějaký čas ve válkách dějí a užívají, musí zde být nejvýš zapotřebí nápravy, chceme-li jinak zase
+poznamky:
+- n: 1
+  text: |-
+    V tisku *die versehung nicht zu regiren wissen vnd gern thůn* – zápor se týká neznalosti správy, zatímco druhá část věty vyjadřuje, že se přesto k takovému úřadu rádi mají (či v elipse záporu, že neradi skutečně pracují). Na konci odstavce 4 též tisková odchylka *nich* za *nicht*.

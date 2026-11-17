@@ -1,0 +1,36 @@
+id: 1-021v
+list: '21'
+strana: verso
+sken: 52
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    SO dann ein Reutter Recht sitzen / vnnd ein sach were die wichtig sein würde / als etwann zwischen hohen vnnd adellichen Personen / ehr vnd glimpff antreffent / oder was das sein wirdt / das dem Veldmarschalck zu schwer oder verdechtig sein wolt / so soll der Feldoberster selber sitzen / odder einen statlichen Herren vnder der Nation vnd Zungen in sein statt ordnen / der das Gericht sampt dem Feldmarschalck / vnd allen erforderten Ritmeistern / Leuttenant / Fendrichen / auch andern mehr ehrlichen vom Adel so vnder dem Regiment seind / damit desto stattlicher vnd ansehenlicher zu gehe / helffen besitzen.
+  cs: |-
+    Když tedy zasedá jezdecký soud {Reutter Recht} a šlo by o věc závažnou – jako například mezi urozenými a šlechtickými osobami, týkající se cti a dobré pověsti, nebo o cokoli jiného, co by bylo pro polního maršálka {Veldmarschalck} příliš obtížné či choulostivé –, má nejvyšší polní hejtman {Feldoberster} zasednout sám nebo na své místo ustanovit některého váženého pána z onoho národa a jazyka, který spolu s polním maršálkem a všemi povolanými rytmistry {Ritmeistern}, poručíky {Leuttenant}, praporečníky {Fendrichen} i dalšími čestnými šlechtici, kteří jsou pod tím plukem {Regiment}, pomůže soud {Gericht} obsadit, aby probíhal tím důstojněji a váženěji.
+- typ: odstavec
+  de: |-
+    Vnd so dann also ein sach vnder des Feldmarschalcks Regiment fürfallen / daß er derhalben ein gerichs Rath nider setzen můst / soll er / wie im nechsten Artickel auch gemelt / alle seine Hauptleut oder Ritmeister / Leutenant / Fendrich / vnd was er für gůt leut darzů gebraucht vnd dienlich weiß / bei einander fordern / vnnd wann sie bei einander / vnd nach der Ordnung wie sich das gehört / gesessen seind / dann soll der Feldmarschalck sagen : Daß er das Gericht nider setze inn dem namen Gottes / inn statt vnd von wegen des Kriegsherren / wer der dann ist soll mit seinem namen vnnd Titel genant werden / hege / span oder ban / wie mann das nach gebrauch vnd Keiserlichem gesetz / auch des Kriegs gebrauch / nennen mag / als ein Kriegs / Reutter vnd ritterlich Recht / zuerhaltung der Teutschen alten ehrlichen / gebrauch / gerechtigkeit vnd Justitien / zustraffen die vntugent / vnd wöl darmit allen gesetzten Kriegsräthen inn stat des Kriegßherrn / beuelhen vnnd aufflegen / das sie nach der pflicht / mit welcher sie dem Kriegßherrn verwant in diser handelung / nach erfindung der verwirckung jrem besten verstandt vnd gewissen nach / vnd gar nit ansehen / Personen / verwanten / auch neidt vnd haß / vnd was daß gesein mag / sonder wie ehrlichen rittermessigen vnd Kriegßleuten wol ansteht vnd gebürt / on einige gefar vnd Argelist darinnen richten vnd sprechen.
+  cs: |-
+    A naskytne-li se tedy pod velením polního maršálka nějaká věc, pro niž musí ustavit soudní radu[^1], má – jak bylo zmíněno i v předchozím článku – svolat dohromady všechny své hejtmany {Hauptleut} či rytmistry, poručíky, praporečníky a takové dobré lidi, o nichž ví, že jsou v tom zběhlí a užiteční. A když jsou pohromadě a usazeni podle náležitého pořádku, má polní maršálek prohlásit: že zřizuje soud ve jménu Božím, na místě a z pověření válečného pána {Kriegsherren} – kdokoli jím je, má být jmenován svým jménem a titulem –, že jej zahajuje, vyhlašuje a zapovídá[^2], jak se tomu říká podle obyčeje, císařského zákona i válečného zvyku, jakožto soud válečný, jezdecký a rytířský k zachování starých čestných německých obyčejů, práva a spravedlnosti i k trestání nepravostí. A tím ať všem ustanoveným válečným radům {Kriegsräthen} na místě válečného pána uloží a přikáže, aby podle závazku {pflicht}, jímž jsou vázáni válečnému pánovi, v tomto řízení soudili a vynášeli rozsudek podle zjištění provinění, podle svého nejlepšího rozumu a svědomí, bez ohledu na osoby, příbuzné, závist a nenávist či cokoli jiného, nýbrž tak, jak čestným rytířským mužům a válečníkům {Kriegßleuten} přísluší a náleží, bez jakékoli lsti a zlého úmyslu.
+- typ: odstavec
+  de: |-
+    Nach solchem allen / so soll der Feldmarschalck die sach dem gesessenen rath fürbringen vnd anzeigen / darauff ein Parthei nach der andern vor sie komen lassen / jhre sachen anhören / vnd darauff nach erforderung der notturfft handeln.
+  cs: |-
+    Po tom všem má polní maršálek věc zasedající radě přednést a vyložit, nato nechat před ni předstupovat jednu stranu za druhou, vyslechnout jejich záležitosti a jednat podle toho, jak vyžaduje potřeba.
+- typ: odstavec
+  de: |-
+    Was aber ein Person allein antrifft das für zutragen sein würd / den soll der Feldmarschalck in seinem beiwesen beklagen / vnd darüber von dem rath vnd spruch begeren.
+  cs: |-
+    Týká-li se však věc k přednesení pouze jediné osoby, má ji polní maršálek obžalovat v její přítomnosti a vyžádat si k tomu od rady výrok a rozsudek.
+- typ: odstavec
+  de: Vnd was als dann von dem Gericht bedacht / vnnd für ein
+  cs: A co pak soud uváží a jaký vynese
+poznamky:
+- n: 1
+  text: V tisku zkráceně *gerichs Rath* místo *gerichts Rath*.
+- n: 2
+  text: |-
+    Něm. *hege / span oder ban* – tradiční staroněmecká právní formule slavnostního zahájení a ohraničení soudu (*Gericht hegen, spannen oder bannen*), jíž se pod pokutou zakazuje soudní jednání rušit (srov. *verbannen*).

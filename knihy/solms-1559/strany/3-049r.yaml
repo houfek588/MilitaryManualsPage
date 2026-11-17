@@ -1,0 +1,48 @@
+id: 3-049r
+list: '49'
+strana: recto
+sken: 349
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    spunt / das sie wol anligendt vnd gleich gefügt sei / setz die schifferling an das Creutz / als ich vor hab gelert / vnd setz die gleich das ein theil schifferling nit für das ander gehe / vnd denn ein scheiben die zweier finger dick / vnd eben gefügt sei / für die schifferling / setz denn die haußpfeil oben an die scheiben / das die eiseren Form für die Büchsen nit gehe / als ich dich vor auch gelert hab.
+  cs: |-
+    zátku {spunt}, aby dobře přiléhala a byla rovně usazena. Naskládej sekané železo na kříž, jak jsem tě již naučil, a srovnej je tak, aby jedna část sekaného železa nevyčnívala před druhou; pak dej před sekané železo desku silnou dva prsty a přesně zapasovanou, a nakonec postav šípy {haußpfeil} dopředu k té desce tak, aby železná forma nevyčnívala ven z děla {Büchsen}, jak jsem tě již dříve poučil.
+- typ: nadpis
+  uroven: 3
+  de: So du wilt schifferling mit einem stein zu eim mal schiessen.
+  cs: Chceš-li střílet sekané železo s kamennou koulí {stein} najednou
+- typ: odstavec
+  de: |-
+    LAd die Büchs mit dem stein wie sie sein soll / mach ein Creutz von einem festen Seil / oder von gůten wieden gedrehet / das thů zwischen den stein vnd die Büchsen / daß mit dem stein vergleicht werde / verstopffs gar wol mit hadern / vnd einem verschopff eisen / wenn es schlecht ist / so setz in ein scheiben / etc. setz denn die schifferling wol auff die scheiben / thů vorn für die schifferling auch ein scheiben / Also magstu Pfeil / Schifferling / vnd Stein miteinander schiessen / ist nur die Büchs starck / Auch solt du mercken vor allen dingen / daß du einem pfundt Puluers nit mehr denn 10. oder 11. pfundt schwer fürlegen solt / es sei stein / schifferling oder haußpfeil / die lere merck / da ligt vil an.
+  cs: |-
+    Nabij dělo kamenem, jak má být, udělej kříž z pevného provazu nebo z dobrých zkroucených houžví, vlož jej mezi kámen a stěnu děla, aby byl s kamenem vyrovnán, a velmi dobře jej utěsni hadry a pěchovacím železem. Když je to rovné, vlož dovnitř desku atd., na desku pak pevně naskládej sekané železo a dopředu před sekané železo dej rovněž desku. Takto můžeš střílet šípy, sekané železo i kámen dohromady, je-li jen dělo silné. Ze všeho nejvíce si však máš pamatovat, že na jednu libru {pfundt} střelného prachu {Puluers} nemáš předkládat těžší nálož než 10 nebo 11 liber, ať už je to kámen, sekané železo nebo šípy; toto poučení si zapamatuj, neboť na tom mnoho záleží.
+- typ: nadpis
+  uroven: 3
+  de: So du auß einer krumen Büchsen die ein falsch zilmaß hat / gerichts vnd gewiß schiessen wilt.
+  cs: Chceš-li z křivého děla, které má vadnou mušku, střílet rovně a přesně
+- typ: odstavec
+  de: |-
+    LAß dir ein behenden Tischer ein holtz machen / das inn der Büchsen puluersack gerad anlig / vnd mach dein Linial oder Richtscheidt gleich / stoß in den Puluersack / daß hinden anstehe / vnd vorn gleich sei / nim ein Zirckel / setz den gleich auff daß holtz / daß du die Büchs da vorn gleich abzirckels / so scheust du strack.
+  cs: |-
+    Nech si zručným truhlářem zhotovit dřevo, které přesně rovně přiléhá v prachové komoře děla, a vyrovnej si pravítko nebo měřidlo; zasuň jej do prachové komory tak, aby vzadu doléhalo a vpředu bylo rovné, vezmi kružidlo, nasaď je přesně na to dřevo, abys ústí děla vpředu rovnoměrně odměřil – tak budeš střílet rovně.
+- typ: nadpis
+  uroven: 3
+  de: Ein glůende Kugel auß einer Büchsen zuschiessen von holtzwerck / das anzindt vnd verbrent was trifft.
+  cs: Jak vystřelit z děla žhavou kouli {Kugel} proti dřevěným stavbám, která zapálí a spálí vše, co zasáhne
+- typ: odstavec
+  de: |-
+    NIm ein gůt Büchs / das ist ein Tarras Büchsen / die ein Kugel scheußt / je grösser je besser / vnnd laß dir machen ein Eisern Kugel / die vorn gar gerecht in die Büchs sei / vnd laß sie wol außglüen / daß sie weiß werd / vnd thů vor einen feuchten hadern hinein / denn die Kugel mit einer zangen oder Klopfften inn die Büchsen / vnd zindt bald an / war ein solche Kugel geschossen wirdt / das anders holtz ist / verbrent alles / vnd weiß niemand wo von es kompt oder ist.
+  cs: |-
+    Vezmi dobré dělo, totiž tarasnici {Tarras Büchsen}, která střílí kouli – čím větší, tím lepší –, a nech si zhotovit železnou kouli, která vpředu přesně padne do děla. Nech ji dobře rozžhavit až doběla, vsuň napřed do děla vlhký hadr, potom vlož kouli kleštěmi či úchopnými vidlemi[^1] do děla a rychle zapal; kamkoli taková koule dopadne, jen když je tam dřevo, všechno shoří a nikdo neví, odkud se oheň vzal nebo jak vznikl.
+- typ: nadpis
+  uroven: 3
+  de: Gewisse vnd stet schöß zuthun.
+  cs: Jak dávat jisté a přesné rány
+poznamky:
+- n: 1
+  text: |-
+    *Klopfften* (též *Kluppe* / *Kloben*) – kovářské kleště k uchopení rozžhavené železné koule.

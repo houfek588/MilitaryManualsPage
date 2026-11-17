@@ -1,0 +1,22 @@
+id: 5-021r
+list: 21 (5. kniha)
+strana: recto
+sken: 477
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Das vierdt Blochaus.
+  cs: |-
+    Čtvrtý srub.
+- typ: odstavec
+  de: |-
+    Das vierdt Blochaus stehet in seiner virung vnd hat auff dreien seiten in der mit ront außgeuerdte Streichen/ vnd auff der vierdten seiten einen verdeckten auß vñ eingang.
+  cs: |-
+    Čtvrtý srub stojí ve svém čtverhranu a má na třech stranách uprostřed půlkruhové vysunuté boční obrany {Streichwehr} a na čtvrté straně krytý východ a vchod.[^1]
+poznamky:
+- n: 1
+  text: |-
+    Folio `21` nese drobnou rozmazanou číslici vpravo nahoře; v tisku poslední řádek „außgeuerdte“ (bez *i*). Text zde i u předchozího třetího srubu jsou s dřevořezy zřejmě mírně prohozeny: třetí tabule (`476`) nese oblé bašty, kdežto čtvrtá tabule (`478`) má hranaté čtvercové bašty na kruhovém půdorysu.

@@ -1,0 +1,52 @@
+id: 3-049v
+list: '49'
+strana: verso
+sken: 350
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    SO merck vnd lug daß dir zum ersten kundt vnd wissen / wie starck ein Puluer sei / wie fer es gehe vnd tragen mög / merck wie vil des Puluers / wie schwer dein stein vnd Klötz sein / mach die Klötz auch in einer schwere oder gewigt / auß einerlei holtz / dein stein sollen gehawen sein auß Leystein / vnnd ob ein stein schwerer dann der ander were / so gib jm sein theil Puluers / auch das die Büchs nach jedem schoß gleich vmb den stein verschopffet sei / vnd die Büchs gleich steh vnd lig.
+  cs: |-
+    Dbej tedy a hleď předně znát a vědět, jak silný je střelný prach {Puluer}, jak daleko nese a dostřelí; všimni si množství prachu a jak těžké jsou tvé kameny {stein} a zátky {Klötz}. Zátky dělej také o stejné váze a z jednoho druhu dřeva; kameny mají být tesané z břidlicového kamene,[^1] a kdyby byl jeden kámen těžší než druhý, dej mu jeho náležitý díl prachu. Dbej také, aby bylo dělo {Büchs} po každé ráně kolem kamene stejně utěsněno a aby dělo stálo a leželo stejně.
+- typ: nadpis
+  uroven: 3
+  de: Ein frag wie die Büchs am besten ligt.
+  cs: Otázka, jak dělo leží nejlépe
+- typ: odstavec
+  de: |-
+    OB die Büchs besser hart oder lindt lig / sprich ich / wenn die büchs hart ligt / so spricht hart wider hart / vnd mag nicht bestehn / darumb soll mann die Büchs in lindes holtz legen / hinden an Bley giessen zweier finger dick / vnd daß sie ein linden anstoß habe / mann soll sie nicht tieffer legen denn eines halmen breit vber die mit / oder das halbtheil / so ligt sie wol.
+  cs: |-
+    Zda dělo lépe leží v tvrdém nebo měkkém lůžku: pravím, že leží-li dělo tvrdě, naráží tvrdé na tvrdé a nemůže obstát; proto se má dělo položit do měkkého dřeva, vzadu přilít olovo na tloušťku dvou prstů, aby mělo měkký doraz, a nemá se zapouštět hlouběji než na šířku stébla přes střed či polovinu – tak leží dobře.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann stangen vnd Feurpfeil auß Büchsen schiessen soll.
+  cs: Jak se mají z děl střílet tyče a ohnivé šípy {Feurpfeil}
+- typ: odstavec
+  de: |-
+    LAd den Puluersack der Büchsen die drei theil mit Puluer / vnnd mach einen linden klotz auß Leimen / wie der klotz zu der Büchsen / spitz die stangen wie sie für den klotz / gehört / treib die stang wol hinein auff den Leimenklotz daß sie wol anlig / vnnd genaw außfülle / vnd mach ein stil in das Ror / schlag oben an ein höltzen zweck zwischen die Büchsen vnnd die stangen / mach ein stůl / der sich hoch oder nider laß treiben / vnd leg die stang darauff das sie der Büchsen gleich zů stehn so mag die stang von der Büchsen gehn / vnd wenn du sie also geladen hast / so zündt sie an / vnd laß sie lauffen.
+  cs: |-
+    Nabij prachovou komoru děla ze tří dílů prachem, zhotov měkkou zátku z hlíny podle velikosti zátky pro to dělo, zašpičať tyč tak, jak před zátku náleží, a zaraž tyč pevně dovnitř na hliněnou zátku, aby dobře doléhala a přesně vyplňovala ústí. Do hlavně udělej podpěrný kolík,[^2] nahoře mezi dělo a tyč zatluč dřevěný klínek, zhotov kozu, kterou lze zvedat a spouštět, a polož na ni tyč tak, aby stála v rovině s dělem – tak bude moci tyč z děla vyletět; a když jsi je takto nabil, zapal je a nech ji letět.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann ein Hagel schiessen soll.
+  cs: Jak se má střílet kartáč {Hagel}
+- typ: odstavec
+  de: |-
+    NIm vnd mach ein hertes Klotz / das vmb das halbteil kürtzer dann breit ist / lade den gleich an die Büchs / vnnd Eyerstein an den Klotz / daß sie das klotz nit anrürn / vnnd schlag wol geberten leymen darzů / der mit seiel vnnd Pupillen fasst wol gebert sei / stoß denn vil stein / die so groß sein wie die Eier in dem leimen / vnnd vermach es
+  cs: |-
+    Vezmi a zhotov tvrdou zátku, jež je o polovinu kratší než širší, nabij ji rovně do děla a přidej k zátce vejcovité kameny,[^3] aniž by se zátky přímo dotýkaly, a přibij k tomu dobře prohnětenou hlínu, která je důkladně zpracovaná s vlákny a příměsmi;[^4] pak do hlíny zatlač mnoho kamenů velkých jako vejce a utěsni to
+poznamky:
+- n: 1
+  text: |-
+    *Leystein* (*Layenstein* / *Leystein*) – vrstevnatý břidlicový či lomový kámen (*Ley* = skála, břidlice), z něhož se tesaly dělové koule.
+- n: 2
+  text: |-
+    Něm. *stil* (*Stiel*) s dřevěným klínkem (*zweck*) zde označuje rozpěrku či podpěru vyčnívajícího ratiště v ústí hlavně, zatímco konec dlouhé tyče spočíval před dělem na výškově stavitelné stolici (*stůl*).
+- n: 3
+  text: |-
+    *Eyerstein* – oblázky či opracované kameny velikosti slepičích vajec, jak výslovně potvrzuje i další řádek (*wie die Eier*, v BSB OCR zkomoleně *wie die Bier*).
+- n: 4
+  text: |-
+    Tisk uvádí nejasné *mit seiel vnnd Pupillen* – pravděpodobně zkomolenina názvů vláknitých či pojivých příměsí do hlíny (snad nasekaných provazů *Seil* a chmýří či rostlinných částí *Pappeln* apod.).

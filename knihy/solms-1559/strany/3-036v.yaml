@@ -1,0 +1,57 @@
+id: 3-036v
+list: '36'
+strana: verso
+sken: 324
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    laden will/ auffgeschniten werden/ damit sie sich im schiessen vom Puluer anzinden mög/ aber doch wöllen sie hinden starck vnd wol gebunden sein damit sie das puluer nit von einander stoß. Deßgleichen mag man thůn mit einer steinen/ auch in den Schlangen mit pleien Kugeln/ mag das Feurwerck nach der Kugeln größ hinden auß mit der stangen lang machen/ darnach die Kugel groß oder klein ist/ aber meins bedunckens/ wann das Feurwerck hinden auß an einer Eysen oder pleien Kugeln 3. lang sei/ on die recht Kugel/ dann die recht wil jr gewigt behalten/ Warumb? Die schwer geht an allem geschoß vor/ solt dann die schwer des Feurwercks schwerer sein dann die recht Kugel so wolt dasselbig vorgehn/ wer falsch vnnd betrüglich. Aber ein stein Kugel soll vber zweier Kugeln lang nit Feurwerck an jr haben/ damit sie nit vberladen werde/ dann der stein ist an jhm selber leichter dann Plei vnd Eysen/ darumb kan er die maß des Pleiß vnd Eysens nicht ertragen/ derhalben soll einem jeden nach seinem gewicht sein maß nach der schwere die prob gemacht werden/ Wie das die Figuren hernach/ wie sie sollen gemacht sein/ anzeigen werden.
+  cs: |-
+    nabíjet, rozříznout, aby se při výstřelu mohly od střelného prachu {Puluer} vznítit, ale přesto musí být vzadu pevně a dobře přivázány, aby je prach nerozmetal od sebe. Totéž lze učinit s kamennou koulí {Kugeln}, a také v kulverinách {Schlangen} s olověnými koulemi lze ohňostroj {Feurwerck} podle velikosti koule na tyči směrem dozadu prodloužit podle toho, zda je koule velká nebo malá; avšak podle mého soudu má být ohňostroj vzadu na železné nebo olověné kouli dlouhý na tři délky koule,[^1] nepočítaje samotnou kouli, neboť pravá koule si chce podržet svou váhu. Proč? Těžší část jde u každé střely napřed – kdyby tedy tíha ohňostroje byla větší než vlastní koule, šel by napřed on, což by bylo chybné a klamné. Kamenná koule však nemá mít na sobě ohňostroj delší než na dvě koule, aby nebyla přetížena, neboť kámen je sám o sobě lehčí než olovo a železo, a proto míru olova a železa nesnese; pročež se každému druhu podle jeho hmotnosti má udělat zkouška poměru podle tíhy, jak to níže ukážou nákresy, jak mají být zhotoveny.
+- typ: odstavec
+  de: |-
+    Von Feurpfeiln ist nit besonders vil zuschreiben/ wie die gemacht sein sollen/ von der form werden die gerissen figurn auch anzeigen/ aber den zeug darzů zumachen/ das seind dise hernach geschriben stück.
+  cs: |-
+    O zápalných šípech není třeba zvlášť mnoho psát, jak mají být zhotoveny – jejich tvar ukážou rovněž vyobrazené nákresy; avšak jak připravit k tomu zápalnou hmotu, to jsou níže popsané předpisy.
+- typ: odstavec
+  de: |-
+    Erstlich nim ein gemein gůt Schießpuluer vnnd ein Leinöl/ knet das wol starck vnder einander wie ein deyg/ mach darauß ballen oder fülle einn Sack damit/ vnd laß es trucken werden.
+  cs: |-
+    Nejprve vezmi obyčejný dobrý střelný prach a lněný olej, silně to spolu uhněť jako těsto, nadělej z toho koule nebo tím naplň pytel a nech to vyschnout.
+- typ: odstavec
+  de: |-
+    Zum andern/ nim gůt Schießpuluer vnnd Terpentin/ mach darauß auch ein deyg/ vnd thů damit wie oben gemelt.
+  cs: |-
+    Za druhé: vezmi dobrý střelný prach a terpentýn, udělej z toho rovněž těsto a nalož s tím, jak bylo řečeno výše.
+- typ: odstavec
+  de: |-
+    Zum dritten/ ein puluer angekneten mit einem Leymwasser der starck sei/ mach darauß Ballen.
+  cs: |-
+    Za třetí: střelný prach uhnětený silnou klihovou vodou; nadělej z toho koule.
+- typ: odstavec
+  de: Zum vierdten/ ein puluer angekneten mit einem Gloriet.
+  cs: 'Za čtvrté: střelný prach uhnětený benátským terpentýnem {Gloriet}.'
+- typ: odstavec
+  de: |-
+    Zum fünfften/ ein puluer angekneten mit einem gebranten Wein darinn Kampffer ist/ vnd ein geschlagen Eyer klar mit einem Gummi Tragentum darunder gemengt.
+  cs: |-
+    Za páté: střelný prach uhnětený pálenkou, v níž je kafr (*Kampffer*), s přimíchaným rozšlehaným vaječným bílkem a tragantovou klovatinou (*Gummi Tragentum*).
+- typ: odstavec
+  de: |-
+    Zum sechsten/ nim gůt schießpuluer/ vnd darunder das drit theil Colofamia/ das ist Griechisch Bech.
+  cs: |-
+    Za šesté: vezmi dobrý střelný prach a do něho třetí díl kalafuny {Colofamia},[^2] to jest řecké smůly.
+- typ: odstavec
+  de: |-
+    Dise stück sollen alle klein vnd wol durcheinander gestossen werden/ mit einem gebranten wein darinn Kampffer ist zerlassen/ angekneten/ oder ein gebranten wein da Salpeter in zerlassen/ ist in gleichem fal gůt/ vnd wann du ein Feurpfeil zurichten wilt/ so mach Barchen secklin nach form des Feurpfeils/ fül dieselbigen mit disem gekneten Feurzeug wol auß/ steck dann den Feurpfeil mit dem Eysen oder schafft wie er ist/ hindurch/ bindt jn hart drumb/ nim dann ein wenig flachs
+  cs: |-
+    Všechny tyto přísady se mají nadrobno a dobře spolu roztlouci a uhníst s pálenkou, v níž je rozpuštěn kafr, anebo je stejně dobrá i pálenka, v níž je rozpuštěn ledek {Salpeter}. A chceš-li připravit zápalný šíp, zhotov barchetový váček podle tvaru zápalného šípu, naplň jej dobře touto uhnětenou zápalnou hmotou, pak skrz něj prostrč šíp s železným hrotem či dříkem, jak jest, pevně jej kolem něj přivaž, potom vezmi trochu lnu
+poznamky:
+- n: 1
+  text: |-
+    V tisku stojí zkrácené *3. lang*, tj. délka tří průměrů koule (*drei Kugeln lang*).
+- n: 2
+  text: V tisku *Colofamia* místo *Colophonia* (kalafuna, řecká pryskyřice).

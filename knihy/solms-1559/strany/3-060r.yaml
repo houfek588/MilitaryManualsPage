@@ -1,0 +1,45 @@
+id: 3-060r
+list: '60'
+strana: recto
+sken: 371
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Aber Salpeter zuleutern auff ein ander Form.
+  cs: Jinak jak čistit ledek {Salpeter} jiným způsobem
+- typ: odstavec
+  de: |-
+    WIltu Salpeter leutern / so schlag jn durch ein Reiter / vnd was in der Reitern bleibt / das seud in Mans harm / der von Wein kommen sei / seude jn so lang / als mann Fisch seudet / geuß jn denn ab laß stehen / das er kalt werdt / zu dem andern mal seude jn in Wein / zum dritenmal in Aceto distillato / zum vierdten mal seud jn in Vino Distillato als vor / Also hastu Salpeter preparatum in quarto gradu / doch schüt nach jeglichem sieden / das Salpeter wasser gar ab.
+  cs: |-
+    Chceš-li čistit ledek, prosej jej přes síto (*Reiter*), a co v sítu zůstane, to vař v moči muže, jenž pochází od vína;[^1] vař jej tak dlouho, jak se vaří ryby, pak jej slij a nech stát, aby vychladl. Podruhé jej vař ve víně, potřetí v destilovaném octě (*Aceto distillato*), počtvrté jej vař v destilovaném víně (*Vino Distillato*)[^2] jako dříve. Tak budeš mít ledek připravený ve čtvrtém stupni (*Salpeter preparatum in quarto gradu*); avšak po každém vaření ledkovou vodu úplně slij.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann Salpeter leutern soll / der vor auch geleutert ist / vnnd doch auff sein recht Stat nicht gnug geleutert.
+  cs: Jak se má čistit ledek, jenž již byl dříve čištěn, a přece nebyl vyčištěn dostatečně na náležitý stav
+- typ: odstavec
+  de: |-
+    WIltu Salpeter leutern der dich nit gnůg dünckt / vnd doch vor auch geleutert ist / so nim ein Kessel vnd mach den gar schön das kein schmaltz noch feistes darinn sei / vnd thů darinn lauter Brünnwasser laß es warm werden wann dich dünckt es wöl schir anheben zusieden das nicht vberlauffe / hat es schawm den werff reiniglich herab mit einem Löffel / wenn es zwen wal oder drei thůt / so nim ein sauber höltzlein stoß darein / tropff die tropffen die von dem Holtz fallen auff ein gluenden Kolen / oder auff ein Brennenden brandt / so hat es sein gnůg / Auch magstu es sonst wol versuchen / wen du nimbst ein Helmlein vier oder fünff / stöst die in den Kessel / vnd lest die tröpfflein auff ein heissen Hafen fallen oder auff ein Wüllentůch / werden denn die tropffen hart / so hett es sein gnug / darnach so laß den Kessel vberschlahen / das er kül werdt / vnd seige dann das wasser durch ein zwifach tůch / oder durch eins das dick sei / vnd seig es in ein dick Becken / wer sein aber souil / so seig jn in ein schafft / oder in ein weite poting / vnd laß es stehn zwen tag oder zwo nacht / so sichstu denn wol ob es sich hab angehengt vnd gesamlet / so seig denn das wasser ab / in ein sauber geschier / nim denn Salpeter / trucken jn in einem Becken / oder wer sein also vil / auff einem Leilach in einer warmen stuben / oder an einer heissen Sonnen / so wirt er gůt vnd gerecht / Hüte dich alle zeit vor schmaltz / dazů nim das ander wasser / das du abgesigen hast seud es an der weidt in einem Kessel / thů jm gleich als vorn hergeschriben steht / was dann darinn bleibt das alles samlet sich das du es findest.
+  cs: |-
+    Chceš-li čistit ledek, který se ti nezdá dostatečný, ačkoli již předtím byl čištěn, vezmi kotel a velmi pečlivě jej očisti, aby v něm nebylo žádné sádlo ani mastnota, a vlij do něj čirou pramenitou vodu (*Brünnwasser*).[^3] Nech ji ohřát; když se ti bude zdát, že již brzy začne vřít, dej pozor, aby nepřekypěla; má-li pěnu, seber ji čistě lžící. Až dvakrát nebo třikrát vzkypí, vezmi čisté dřívko, ponoř je dovnitř a ukápni kapky, které z dřívka padají, na žhavý uhel nebo na hořící poleno – [hoří-li dobře], pak již má dost. Můžeš jej také vyzkoušet jinak: vezmeš čtyři nebo pět stébel slámy (*Helmlein*), ponoříš je do kotle a necháš kapičky spadnout na horký hrnec nebo na vlněné sukno; ztvrdnou-li kapky, pak již má dost. Poté nech kotel vychladnout, aby vystydl, a sceď vodu přes dvojité plátno nebo přes jedno husté plátno do silné[^4] mísy; bylo-li by jí však příliš mnoho, sceď ji do škopku nebo do široké putny (*poting*) a nech stát dva dny nebo dvě noci – pak dobře uvidíš, zda se [ledek] usadil a shromáždil. Pak vodu slij do čisté nádoby, vezmi ledek a usuš jej v míse, anebo je-li jej mnoho, na prostěradle v teplé světnici nebo na horkém slunci; tak bude dobrý a pravý. Vždy se chraň mastnoty; k tomu vezmi druhou vodu, kterou jsi slil, vař ji podruhé[^5] v kotli a nalož s ní stejně, jak jest psáno výše – vše, co v ní zůstane, se srazí tak, že to tam najdeš.
+- typ: nadpis
+  uroven: 3
+  de: Nun steht hernach geschriben wie mann rohen vngeleuterten Salpeter leutern soll.
+  cs: Nyní jest níže psáno, jak se má čistit surový nepřečištěný ledek
+poznamky:
+- n: 1
+  text: |-
+    Tj. v moči muže pijícího víno (srov. l. 59r a 59v). BSB OCR zde četlo *Ketter* místo *Reiter* („síto“), *grufijn* místo *geuß jn* a ve zkráceném latinském *preparatū* vypustilo nosovku (*preparatum*).
+- n: 2
+  text: |-
+    *Aceto distillato* = destilovaný ocet; *Vino Distillato* = destilované (pálené) víno, tj. vinný líh.
+- n: 3
+  text: |-
+    BSB OCR zde chybně četlo *Grünwasser* („zelená voda“) místo *Brünnwasser* („studniční, pramenitá voda“) a *dick set* místo *dick sei*.
+- n: 4
+  text: |-
+    *ein dick Becken* – silná (hluboká) mísa, snad i sazečská obměna za *tieff Becken* („hluboká mísa“).
+- n: 5
+  text: |-
+    *an der weidt* – zřejmě chybně rozdělené *anderweit* („podruhé, opětovně“).

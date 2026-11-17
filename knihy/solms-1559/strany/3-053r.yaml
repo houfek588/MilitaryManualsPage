@@ -1,0 +1,47 @@
+id: 3-053r
+list: '53'
+strana: recto
+sken: 357
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    WIltu gůt Puluer machen zu Büchsen vnd Feurpfeiln / so stoß den Salpeter besonder / vnnd mach jn klein daß er sich reittern leßt / durch ein enges Sieb / oder rücken Beuttel / oder reitter vnd beuttels in ein saubers Schaff / was in dem Sieb oder Beuttel bleibt / das stoß zum andern mal / daß du das auch mögst hindurch brengen / thů den gebeuttelten Salpeter / vnd das ander jeglichs besonder / vnd misch es nach dem gewicht / Wie du hernach in disem Bůch mit gůtem vnderscheidt gelert wirst.
+  cs: |-
+    Chceš-li udělat dobrý střelný prach {Puluer} do děl {Büchsen} a k ohnivým šípům {Feurpfeiln}, utluč ledek {Salpeter} zvlášť a rozmělni jej na jemno, aby se dal prosít hustým sítem nebo pytlem na žitnou mouku; prosij a vyklepej jej do čistého škopku, a co zůstane v sítě nebo v pytli, to utluč podruhé, abys i to dokázal prosít. Prosátý ledek i ostatní přísady dej každou zvlášť a smíchej je podle váhy, jak budeš dále v této knize zřetelně poučen.
+- typ: nadpis
+  uroven: 3
+  de: So man Knöllig Puluer vnd gut schwefel Kertzen machen will.
+  cs: Chce-li se dělat hrudkovitý prach a dobré sirné svíčky
+- typ: odstavec
+  de: |-
+    NEme 2. pfundt Salpeters / 1. pfundt Schwefels / vnnd 1. vierling Koln / zerlaß den Schwefel inn einem Digel / schüt den Salpeter vnd die Koln wolgestossen darein / vnd zeug ein grosse Veder dardurch / das werden die aller besten Schwefel kertzen die jemand gehaben mag / auch laß es kalt werden in dem Digel / so hast du das beste Knöllig Puluer.
+  cs: |-
+    Vezmi 2 libry {pfundt} ledku, 1 libru síry {Schwefels} a 1 čtvrtlibří {vierling}[^1] uhlí {Koln}, rozpusť síru v kelímku, vsyp do ní dobře utlučený ledek a uhlí a protáhni tím veliké brko – to budou nejlepší sirné svíčky, jaké kdo může mít; také to nech v kelímku vychladnout, a tak budeš mít nejlepší hrudkovitý prach.
+- typ: nadpis
+  uroven: 3
+  de: So du wilt das beste Büchsen Puluer machen.
+  cs: Chceš-li udělat nejlepší puškový prach {Büchsen Puluer}
+- typ: odstavec
+  de: |-
+    NIm drithalben Centner Salpeter / vnd ein Centner schwefel / stoß das vnder einander / vnd wigs auß mit einer wagen nim alweg den achten teil Koln / vnd den dreissigsten teil Salarmoniac / vnd den halben teil Salarmoniac Litargis / stoß vnnd miß das vnder einander / vnd nim je zu 25. pfunden Zeugs 3. lot de Mercurio Sublimato / 1. lot Camforis / 10. lot Arsenicum / vnd thů ein wenig salpeter wasser darzů / auch nit zuuil / stoß das damit gereit der stück eines vnd dörr das Puluer gar wol / ist dann der salpeter wol geleuttert / vnnd auch die andern stück gůt sein / so verdirbt das Puluer desto minder / Wie sich der zeug schickt von dem stossen das merck / wenn du den Zeug stössest / so wirt er vnder einander verwandelt / vnnd ein wenig verfeuchtlich / das soltu nit achten / wenn es gnůg gestossen sei / so nim es auß vnd dörrs wol so werden knollen darauß / dann hebt sich der Zeug an zustossen / die knollen laß bleiben / denn der Zeug verdirbt vil weniger an den knollen / dann wann das puluer gereittert were.
+  cs: |-
+    Vezmi dva a půl centu {Centner} ledku a jeden cent síry, utluč to dohromady a odvaž na váze; vezmi vždy osmý díl uhlí, třicátý díl salmiaku (*Salarmoniac*) a poloviční díl olovnatého glejtu (*Salarmoniac Litargis*),[^2] utluč a smíchej to dohromady. Na každých 25 liber hmoty pak vezmi 3 loty {lot} sublimované rtuti (*de Mercurio Sublimato*), 1 lot kafru (*Camforis*) a 10 lotů arzeniku (*Arsenicum*) a přidej k tomu trochu ledkové vody, avšak ne příliš. Utluč to, čímž se každá přísada připraví,[^3] a prach velmi dobře vysuš; je-li pak ledek dobře přečištěný a jsou-li i ostatní přísady dobré, kazí se prach tím méně. Jak se hmota chová při tlučení, toho si všimni: když hmotu tlučeš, promění se v sobě a poněkud zvlhne – toho si nevšímej; až bude dostatečně utlučena, vyjmi ji a dobře ji usuš, tak z ní vzniknou hrudky; potom se hmota začne drolit[^4] – ty hrudky nech být, neboť se hmota v hrudkách kazí mnohem méně, než kdyby byl prach prosát přes síto.
+- typ: nadpis
+  uroven: 3
+  de: So ein Puluer vor alter verdorben / vnnd dennoch der salpeter gůt ist / wie mann denselben daruon scheiden soll
+  cs: Když se prach stářím zkazil a ledek je v něm přesto dobrý, jak jej z něho oddělit
+poznamky:
+- n: 1
+  text: |-
+    *Vierling* – čtvrtina libry (8 lotů, cca 120–140 g).
+- n: 2
+  text: |-
+    *Salarmoniac Litargis* – složenina či chyba písaře, nejspíše pro *Litargirium* (glejt, oxid olovnatý), případně poloviční díl olovnatého glejtu vedle salmiaku.
+- n: 3
+  text: |-
+    *damit gereit der stück eines* – pravděpodobně ve smyslu *zereib der stück jedes* („aby se rozetřela každá přísada“) nebo „připrav po částech“.
+- n: 4
+  text: |-
+    *dann hebt sich der Zeug an zustossen* – patrně *zerstossen* (rozpadat či drtit), v kontextu varování před přílišným drcením na jemný prach: hrudky se mají ponechat, protože se méně kazí než prosátý prach.

@@ -1,0 +1,80 @@
+id: 3-066r
+list: '66'
+strana: recto
+sken: 383
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    tröpffeln / so mach dañ ein grösser Feur darzů / daß du keiñ dunst mehr sehest dauon gehn / dasselbig öle ist auch gut zu der Artznei / es lobens auch manch Meister.
+  cs: |-
+    odkapávat; pak pod tím rozdělej větší oheň, dokud neuvidíš, že z toho již neodchází žádný výpar. Tento olej jest dobrý také v lékařství a chválí jej mnozí mistři.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie mann gut Schwefelöl machen soll / das zu starckem Feurwerck gar nütz vnd gůt ist.
+  cs: |-
+    Jak se má dělat dobrý sirný olej, jenž jest velmi užitečný a dobrý k silnému ohňostroji {Feurwerck}
+- typ: odstavec
+  de: |-
+    NIm Eierdottern die hart gesotten sein / stoß die Materien in einem Mörser wol / daß sie werden wie ein Schmaltz / nim dann lebendigen Schwefel wol gestossen / vnd durch ein Tůch wol gebeuttelt / misch das vnder einander daß ein Materien darauß werde / thů es dann in ein Glaß / vnnd distillier die Materien durch ein Alentbick / daß wirt gůt Schweffelöl.
+  cs: |-
+    Vezmi natvrdo uvařené vaječné žloutky, dobře tu hmotu utluč v hmoždíři {Mörser},[^1] aby byla jako sádlo, pak vezmi živou síru {Schwefel}, dobře utlučenou a dobře prosetou skrze plátno, smíchej to dohromady, aby se z toho stala jedna hmota, dej to pak do skleněné baňky a předestiluj tu hmotu skrze alembik (*Alentbick*) – z toho bude dobrý sirný olej.
+- typ: nadpis
+  uroven: 3
+  de: Von Schwefelkertzen.
+  cs: O sirných svících
+- typ: verse
+  de:
+  - Wiltu Schwefelkertzen han /
+  - Ein pfundt schwefels můstu zerlan /
+  - Vnd zwei pfundt Puluers thů darein /
+  - Ein Fadn soll dadurch gezogen sein.
+  cs:
+  - Chceš-li sirné svíce mít,
+  - libru {pfundt} síry musíš rozpustit,
+  - dvě libry prachu {Puluers} přidej v ni,
+  - knot protáhni tou směsí v ní.
+- typ: nadpis
+  uroven: 3
+  de: So du wilt guten schwefel machen.
+  cs: Chceš-li udělat dobrou síru
+- typ: odstavec
+  de: |-
+    NIm weissen schwefel auß dem Kram / zerlaß jhn in ein erden geschirr / daß er wol zergehe / nim zu einem pfundt schwefels ein lot Quecksilber / daß mit schwefel getödt sei / rürs vnder einander / darnach geuß in einn gůten gebranten Wein / so wirt er desto trückner vñ hitziger / der lebendig schwefel ist der best / dann er ist starck / vnnd gibt schnel Feur / brauchs nit zuuil vnders Puluer als andern schwefels.
+  cs: |-
+    Vezmi bílou síru z krámu, rozpusť ji v hliněné nádobě, aby se dobře roztavila, vezmi na jednu libru síry jeden lot {lot} rtuti, jež byla umořena sírou, zamíchej to do sebe a pak to vlij do dobrého páleného vína – tak bude tím sušší a prudší. Živá síra jest nejlepší, neboť jest silná a rychle dává oheň; nedávej jí však do střelného prachu tolik jako jiné síry.
+- typ: nadpis
+  uroven: 3
+  de: Schwefels Natur.
+  cs: Přirozenost síry
+- typ: odstavec
+  de: Schwefel ist von Natur heiß vñ trucken / entpfecht gern das Feur.
+  cs: Síra jest od přirozenosti horká a suchá a ochotně chytá oheň.
+- typ: nadpis
+  uroven: 3
+  de: Den aller besten schwefel zumachen.
+  cs: Jak udělat vůbec nejlepší síru
+- typ: odstavec
+  de: |-
+    NIm 2. lot Glaß / 1. lot Quecksilber stoß vnder einander / nim dañ 12. lot schwefels / zerlaß jn / vnd mach dann das Glaß naß / doch nit zu naß / rürs darinn gar wol vnder einander / vnnd geuß jn wo hin du wilt.
+  cs: |-
+    Vezmi 2 loty skla a 1 lot rtuti a utluč je dohromady; pak vezmi 12 lotů síry, rozpusť ji, navlhči skleněnou nádobu – avšak ne příliš mokře –, velmi dobře to v ní promíchej a vylij ji, kam chceš.
+- typ: nadpis
+  uroven: 3
+  de: Ein schwefel zum Puluer zubereitten.
+  cs: Jak upravit síru do střelného prachu
+- typ: odstavec
+  de: |-
+    ZErlaß weissen schwefel in einem Erden geschirr / also daß er wol zů gehe / nim zu einem pfundt schwefels ein lot sublimat / vnd rür es vnder einander / darnach geuß den schwefel in guten gebranten Wein so wirt er stercker vnd truckner.
+  cs: |-
+    Rozpusť bílou síru v hliněné nádobě tak, aby se dobře roztavila, vezmi na jednu libru síry jeden lot sublimátu (*sublimat*),[^2] zamíchej to do sebe a pak síru vlij do dobrého páleného vína – tak bude silnější a sušší.
+poznamky:
+- n: 1
+  text: |-
+    *Mörser* zde označuje kuchyňský či lékárnický hmoždíř k roztloukání přísad.
+- n: 2
+  text: |-
+    *Sublimat* – chlorid rtuťnatý (sublimovaná rtuť, *Mercurius sublimatus*).

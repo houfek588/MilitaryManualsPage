@@ -1,0 +1,47 @@
+id: 1-023r
+list: '23'
+strana: recto
+sken: 55
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    geordnet / sampt seinen Patronen vnd visierungen / darbei laß ich es allhei berühen.
+  cs: |-
+    sestavil spolu s jejími vzory a nárysy[^1], při čemž to zde nechávám spočinout.[^2]
+- typ: odstavec
+  de: |-
+    Dieweil nun auch im 1552. vnd 53. Jar / mit der Müntz der bezallung ein grosse vnordnung gewesen / so hat mich nicht von vnnöten gedeucht / allhie dieselbig mit disem kurtzen bericht anzuregen.
+  cs: |-
+    Poněvadž pak také v letech 1552 a 1553 panoval velký nepořádek v minci při vyplácení žoldu, nezdálo se mi zbytečné dotknout se jí zde touto krátkou zprávou.
+- typ: odstavec
+  de: |-
+    Vnd souil dann die Müntz der bezallung belangt / so můß der Kriegßherr auff sein gelt / mit welchem er bezallen will odder wirdt / seine satzung was es gelten soll / machen vnd ordnen / vnnd durch das gantz Leger Marcatanten vnd allen anderen publicieren vnnd verkünden lassen / daß es in einem sollichen wert / wie gesetzt / genommen werden soll / vnnd niemants gestatten / es sei von der regirung oder sonst / als Commißherrn / Prouiantherrn vnnd dergleichen / so mit sollichen sachen handeln vnnd inn das Leger verkauffen / vmbgehen / nicht anders dann wie geordnet / geben vnnd nemen sollen / bei verordneter straff / vnd soll darüber gehalten werden / dann sonst wirt das Kriegßuolck hart darüber geschetzt vnnd vnwillig gemacht / vnd ist zu besorgen es kome dem Kriegßherrn nicht / sonder ander leuten zu gůtem.
+  cs: |-
+    Co se tedy týče mince při vyplácení, musí válečný pán {Kriegßherr} pro své peníze, jimiž chce nebo bude platit, stanovit a nařídit jejich kurz, jakou mají mít hodnotu, a po celém ležení {Leger}, markytánům {Marcatanten} i všem ostatním to dát vyhlásit a oznámit, aby byly přijímány v takové hodnotě, jak bylo stanoveno; a nikomu – ať ze správy nebo jinak, jako jsou komisní páni {Commißherrn}, proviantní páni {Prouiantherrn} a podobní, kdo s takovými věcmi nakládají a v ležení prodávají a obchodují – nesmí dovolit pod stanoveným trestem dávat nebo přijímat peníze jinak, než jak bylo nařízeno, a na to má být přísně dohlíženo. Jinak je totiž válečný lid {Kriegßuolck} tímto tvrdě odírán a roztrpčován, a je třeba se obávat, že to nepřinese prospěch válečnému pánovi, nýbrž jiným lidem.
+- typ: odstavec
+  de: |-
+    Dieweil dann alles gesucht vnnd fürgenommen werden will / daß ein Kriegßherr sein Kriegßuolck in Regiment halten kan / vnnd alles abschneiden / das sie zu vngehorsam bewegen mage / so ist noch ein Artickel der vil vnwillen vnnd vngehorsam machet odder bringt.
+  cs: |-
+    Poněvadž pak je třeba hledat a podnikat vše, aby válečný pán dokázal udržet svůj válečný lid v kázni {Regiment}, a odříznout vše, co by je mohlo pohnout k neposlušnosti, jest ještě jeden článek, který plodí a přináší mnoho nevole a neposlušnosti.
+- typ: odstavec
+  de: |-
+    Vnd ist nemlich / wie dann vil kompt / daß ein Herr dem Kriegßuolck nicht zu rechter zeit gelt geben kan / so dann also vber die zeit / das Kriegßuolck mit der Bezallung auffgehalten / so wirdt es vngeduldig / vnnd will keinen gehorsam leisten / so soll als dann der Herr mit der Commis gefast sein / das Kriegßuolck mit der Prouiant erhalten vnd liefferung geben.
+  cs: |-
+    A je to totiž to, jak se často stává, že pán nemůže válečnému lidu vyplatit peníze v pravý čas; když je tedy válečný lid zdržován s výplatou přes lhůtu, stává se netrpělivým a nechce zachovávat poslušnost. Tehdy má být pán připraven s komisem {Commis}, aby válečný lid živil proviantem {Prouiant} a vydával mu dodávky.
+- typ: odstavec
+  de: |-
+    Desselben gleichen so ein noth für fallen würde / soll mit den Marcatanten gehandelt werden / daß sie dem Kriegßuolck borgen / vnd für strecken der notturfft nach / biß zu der bezallung / als dann sollen die Marcatanten zuuor bezalt werden / laut derselbigen Rechnung oder Holtzkerben / vnd was jeder darüber haben wirdt / doch so soll die maß vnd Ordenung darmit gehalten werden / daß durch die Obrigkeit als Obersten vnnd Ritmeister würde ein Ordnung fürgenommen vnd gehalten / daß das Kriegßuolck nicht mehr auffneme dann sein notturfft vnd so weit die bezallung reichen möchte / das können die Ritmeister wol thůn / daß sie der Register mit jhren
+  cs: |-
+    Rovněž kdyby nastala nouze, má být vyjednáno s markytány, aby válečnému lidu půjčovali na úvěr a zálohovali je podle potřeby až do výplaty; pak mají být markytáni vyplaceni jako první podle těchže účtů nebo vrubovek {Holtzkerben}[^3] a podle toho, co nad ně každý bude mít zapsáno. Přitom se však má zachovat míra a řád, aby vrchnost – tedy plukovníci {Obersten} a rytmistři {Ritmeister} – zavedla a udržovala pořádek, aby si válečný lid nebral více, než vyžaduje jeho potřeba a kam až může stačit jeho výplata; to mohou rytmistři snadno zařídit tak, že zřídí rejstříky {Register} u svých
+poznamky:
+- n: 1
+  text: |-
+    Něm. *Patronen vnd visierungen* – výkresy, šablony a nárysy obléhacích prací, podkopů a min.
+- n: 2
+  text: V tisku drobná sazečská přesmyčka *allhei* místo *allhie*.
+- n: 3
+  text: |-
+    Něm. *Holtzkerben* – dřevěné vrubovky sloužící k záznamu dluhů za odebrané potraviny.

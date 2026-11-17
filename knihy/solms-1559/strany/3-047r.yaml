@@ -1,0 +1,41 @@
+id: 3-047r
+list: '47'
+strana: recto
+sken: 345
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    SO nim ein pfrimen stoß jn durch das Zintloch ein / vnden auff den boden durch das Puluer / vnnd halt das Puluer bei dir / das man spricht / Pulueres Curasine / vnd scheub es dem pfrimen nach vnd fül das zintloch damit / denn die laß Puluer sein gar heiß vnd scharpff / entzindt das ander Puluer gar behendt in der Büchsen / es wer denn verdorben / dennoch hilfft jm das zindt Puluer / das es lassen můß / du solt aber treuges Puluer auff die Büchsen vnd auffs zindtloch legen / vnd wardt das du dauon kommen mögst / du solt dich auch hüten / das jmmer dasselb gůt Puluer vff dem anzintloch entzindest an / das wag Puluer das soltu allweg entzinden / so magstu on schaden wol von der Büchsen komen.
+  cs: |-
+    Vezmi tedy šídlo, prostrč je zátravkou {Zintloch} dolů až na dno skrz střelný prach {Puluer}, měj při sobě prach, kterému se říká *Pulueres Curasine*,[^1] nasyp jej za šídlem a naplň jím zátravku; neboť tyto zápalné prachy jsou velmi prudké a ostré a zapálí ostatní prach v děle {Büchsen} velmi rychle – i kdyby byl zkažený, přesto mu zápalný prach {zindt Puluer} pomůže, že musí vystřelit. Na dělo a na zátravku však máš nasypat suchý prach a hledět, abys stačil odstoupit; také se máš chránit, abys nikdy nezapaloval přímo ten dobrý prach na zátravce, nýbrž vždy zapaluj stopinu {wag Puluer},[^2] a tak se od děla vzdálíš bezpečně bez úhony.
+- typ: nadpis
+  uroven: 3
+  de: Wie du dich vor der Büchsen hüten solt / ob du besorgst das sie breche.
+  cs: Jak se máš před dělem chránit, obáváš-li se, že by se mohlo roztrhnout
+- typ: odstavec
+  de: |-
+    WIltu auß einer Büchsen schiessen gewiß schoß / vnd daß du nicht zuhoch scheust / oder du magst kaum hinkomen / auch wisse das gewicht des steins / klotzen vnd des Puluers / vnd sein Krafft / was es getragen mag / alß du wol vernomen hast in disem Bůch / wilt du sicher vor der Büchsen sein / das sie dir kein schaden breng noch thů / so stehe zwischen dem boden / vnd der seiten der Büchsen zehen schrit weiter.
+  cs: |-
+    Chceš-li z děla střílet přesné rány, abys nestřílel příliš vysoko nebo jen stěží dostřelil, pak také znej váhu kamene {steins}, zátky {klotzen} a prachu i jeho sílu, co unese, jak jsi již dobře vyrozuměl v této knize. Chceš-li být před dělem v bezpečí, aby ti nezpůsobilo ani nepřineslo žádnou škodu, postav se deset kroků stranou mezi dnem a bokem děla.
+- typ: nadpis
+  uroven: 3
+  de: Wie du einen Thurn niderschiessen solt.
+  cs: Jak máš odstřelit věž
+- typ: odstavec
+  de: |-
+    Wiltu einen Thurn niderschiessen / so lug daß du habst einen gůten Quadraten auff ein rechte mensur / vnd ein gůte Büchsen / vnd daß du sie ladest mit gůten Büchsen klötzen / den Büchsenstein soltu binden mit gůten eiseren reiffen / sie Creutzweiß vbereinander gehn / lug daß du ein rechte mensur habst zweier mann hoch an Thurn / von dem Erdtrich / vnd alle schoß die du thůst / die thue neben einander / vnnd scheuß nicht höcher noch niderer / so erschelt sich der Thurn / vnd fellet behend nider / denn ob mann sonst fast schöß / vnd vil daran / vnd das ist gewiß.
+  cs: |-
+    Chceš-li rozstřílet věž, hleď mít dobrý kvadrant se správnou stupnicí a dobré dělo a nabij je dobrými dělovými zátkami; dělový kámen {Büchsenstein} máš stáhnout dobrými železnými obručemi, které jdou křížem přes sebe. Hleď mít správný náměr na výšku dvou mužů od země na věži a všechny rány, které vypálíš, sázej vedle sebe a nestřílej ani výše, ani níže; tak se věž otřese a rychle se zřítí spíše, než kdyby se jinak prudce a hojně střílelo různě po ní – a to je jisté.
+- typ: nadpis
+  uroven: 3
+  de: Feur Kugel auß der Büchsen schiessen / wiltu können / so merck dise lere eben.
+  cs: Chceš-li umět střílet z děla ohnivé koule {Feur Kugel}, dobře si zapamatuj toto poučení
+poznamky:
+- n: 1
+  text: |-
+    Zkomolenina snad z lat. či románského výrazu pro jemný zápalný prach do zátravky (*Pulveres Curasine* / níže *laß Puluer*, tj. sypký či odpalovací prach *Lasspulver* / *Lospulver*).
+- n: 2
+  text: |-
+    *wag Puluer* – zřejmě pro *Wegpulver* (odváděcí prachová stezka / stopina vedoucí stranou od zátravky, aby měl puškař čas ustoupit před výstřelem).

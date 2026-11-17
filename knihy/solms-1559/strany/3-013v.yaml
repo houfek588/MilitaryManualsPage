@@ -1,0 +1,59 @@
+id: 3-013v
+list: '13'
+strana: verso
+sken: 278
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wagen lest neben der ordnung her gehn / so das sein wirt / soll er die wagen lassen neben einander gehn souil er kan / damit die reihe kurtzer wirt / oder so er neben der ordnung nit ziehen kan / gehört er hinder den gewaltigen hauffen / vnd der nach zug auff jn / sol er doch die wagen souil ers wegs halber gehaben mag neben einander gehn lassen in jrer ordnung / wirt aber der Wagenburgkmeister die wöllen haben zu der Wagenburgk / soll er jm die lassen ordnen nach seim gefallen / darzů soll er jm mit seim gesind mit fleiß behülfflich sein / Das ist des Wagenmeisters Ampt vnd befelch / damit hat er gnůg zuthůn / so anders ein zug etwas groß ist / darumb gehört ein geschickter man darzů dan er hat nit ein klein arbeit vnd versehung / so ein geschickter Wagenmeister ist der kan vil jrthumb vnder den wagen fürkomen / vnd im feld den zug kürtzen vnd fürdern.
+  cs: |-
+    vozy jet vedle šiku {ordnung}; bude-li tomu tak, má nechat vozy jet vedle sebe v tolika řadách, v kolika jen může, aby se zkrátila kolona. Nemůže-li však táhnout vedle šiku, patří za hlavní houf {gewaltigen hauffen} a za něj zadní voj {nach zug}; přesto má nechat vozy, nakolik mu to cesta dovolí, jet vedle sebe v jejich pořádku. Bude-li je však mistr vozové hradby {Wagenburgkmeister} chtít mít k vozové hradbě {Wagenburgk}, má mu je nechat seřadit podle jeho libosti a k tomu mu má se svou čeledí pilně pomáhat. To je úřad a pravomoc vozmistra {Wagenmeisters}, a má s tím dost co dělat, je-li tažení {zug} jen trochu velké. Proto k tomu patří schopný muž, neboť nemá malou práci a starost; a je-li vozmistr schopný, může předejít mnoha zmatkům mezi vozy a v poli tažení zkrátit i urychlit.
+- typ: odstavec
+  de: |-
+    Wirt mann aber mit Welschen ziehen die vil Esel vnd nit wagen haben / mag mann die Esel wol in ordnung halten wie die wagen sollen nit vnder den wagen noch Kriegsuolck sonder allein neben den Wagen vnd auff eim hauffen zihen / so etwan würden böß weg sein / das die Esel wolten für dringen vnd die wagen auffhalten / soll man jn nit gestatten sie bleiben dann in der ordnung vnder den wagen ein getheilt / oder sollen jn ein eigen weg fürnemen / wo mann ein Wagenburg ordnen vnd fürn wirt da gehörn die Esel gar nit hin / darumb wer gůt daß sie allein geordnet würden / vnd jren eigen fürer hetten.
+  cs: |-
+    Táhlo-li by se však s Vlachy {Welschen}, kteří mají mnoho oslů a ne vozy, mohou se i osli držet v pořádku stejně jako vozy; nemají táhnout mezi vozy ani mezi válečným lidem {Kriegsuolck}, nýbrž jen vedle vozů a v jednom houfu. Kdyby snad byly zlé cesty a osli by se chtěli tlačit dopředu a zdržovat vozy, nemá se jim to dovolit – ledaže by zůstali v pořádku rozděleni mezi vozy, anebo ať si zvolí vlastní cestu; kde se bude řadit a vést vozová hradba, tam osli vůbec nepatří. Proto by bylo dobré, aby byli seřazeni zvlášť a měli svého vlastního vůdce {fürer}.
+- typ: nadpis
+  uroven: 2
+  de: Die Arcolorei mit jhren Büchsen vnd wagen.
+  cs: Dělostřelectvo {Arcolorei} se svými děly {Büchsen} a vozy.
+- typ: odstavec
+  de: |-
+    DAs geschütz wirt getheilt gemeinlich in drei theil zum ersten inn vorzug vnd darzů etlich züg / Puluer / Kogeln / vnd wagen souil als mann der im feld zum schlagen notturfftig ist vnd nit mehr.
+  cs: |-
+    Děla {geschütz} se obyčejně dělí na tři části: předně do předvoje {vorzug}, a k tomu několik potahů,[^1] střelného prachu {Puluer}, koulí {Kogeln} a vozů tolik, kolik jich je v poli k bitvě zapotřebí, a ne více.
+- typ: odstavec
+  de: |-
+    Zum andern das gewaltig geschütz geht bei dem gewaltigen hauffen mit aller Munition wagen.
+  cs: |-
+    Zadruhé, těžká děla táhnou u hlavního houfu se všemi vozy s municí {Munition}.
+- typ: odstavec
+  de: |-
+    Zum dritten mit oder zu dem nachzug dasselbig bedarff nit vil Wagen / dann etliche züg / Puluer / Kogeln vnd wagen wie im vorzug.
+  cs: |-
+    Zatřetí, se zadním vojem či k němu: ten nepotřebuje mnoho vozů, jen několik potahů, prachu, koulí a vozů jako v předvoji.
+- typ: odstavec
+  de: |-
+    Also bleiben die zwei geschütz im vor vnd nachzug in jrer ordnung.
+  cs: |-
+    Takto zůstávají oba oddíly děl v předvoji i zadním voji ve svém pořádku.
+- typ: odstavec
+  de: |-
+    Die Schiffbürcken vnd Quastores wagen gehörn auch in vorzug.
+  cs: |-
+    Vozy s lodními mosty {Schiffbürcken}[^2] a vozy šancířů {Quastores} patří rovněž do předvoje.
+- typ: odstavec
+  de: |-
+    Das gewaltig geschütz gehört zum gewaltigen hauffen mit allen seinen wagen / dasselbig soll gehn in seiner ordnung auff den vorzug vor dem gewaltigen hauffen eingetheilt / mit jren zügen / puluer / kogeln vnd wagen / auch nit mehr dann ein zimliche notturfft / Darzwischen die Quastores mit jren Rotten oder hauffen / darnach jhr vil oder wenig sind / deßgleichen jre wagen darauff sie den zeug haben /
+  cs: |-
+    Těžká děla náležejí k hlavnímu houfu se všemi svými vozy; mají jet ve svém pořadí za předvojem, rozdělena před hlavním houfem se svými potahy, prachem, koulemi a vozy, rovněž ne více než v přiměřené potřebě; mezi nimi jdou šancíři se svými rotami {Rotten} či houfy podle toho, zda jich je mnoho nebo málo, stejně jako jejich vozy, na nichž vezou nářadí,
+poznamky:
+- n: 1
+  text: |-
+    Něm. *züg* (*Züge*) zde označuje potahy či spřežení (případně kladkostroje a zdvihací nářadí pro manipulaci s děly).
+- n: 2
+  text: |-
+    V tisku tiskařská přesmyčka „Schiffbürcken“ místo *Schiffbrücken*.

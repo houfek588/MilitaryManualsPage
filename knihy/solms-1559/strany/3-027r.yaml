@@ -1,0 +1,123 @@
+id: 3-027r
+list: '27'
+strana: recto
+sken: 305
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    schweiben gebraucht werden / so ist man doch derselben zu disem Feldgeschütz nit bedörfftig / dan solchs an jm selbst nit so schwer / darzů wirts nit in den schantzen / gegen den Mauern oder beuestigungen / sonder allein in freiem Feld / gegen dem Kriegßuolck gebraucht vnd abgeschossen.
+  cs: |-
+    užívá dřevěných kotoučů {schweiben},[^1] není jich přesto k těmto polním dělům {Feldgeschütz} zapotřebí, neboť tato děla nejsou sama o sobě tak těžká, a navíc se jich neužívá ani z nich nestřílí v šancích {schantzen} proti hradbám či opevněním, nýbrž pouze v širém poli proti válečnému lidu {Kriegßuolck}.
+- typ: odstavec
+  de: |-
+    Summa alles Gezeugs so auff die fünfferlei Sort oder gattung / die da thůn 54. Stück Feldgeschütz gehörig / thůt an jm selbst 1800. Centner.
+  cs: |-
+    Součet veškerého kovu náležejícího k pěti druhům čili třídám, jež činí 54 kusů {Stück} polních děl, dělá sám o sobě 1800 centů {Centner}.[^2]
+- typ: odstavec
+  de: |-
+    So halten jre zugehörige Kugeln an eysen 382. Centner.
+  cs: |-
+    K nim náležející koule {Kugeln} váží na železe 382 centů.
+- typ: odstavec
+  de: |-
+    Souil puluers / thůt auch 382 centner.
+  cs: |-
+    Tolikéž střelného prachu {puluers} činí rovněž 382 centů.
+- typ: tabulka
+  de:
+  - - Wagen
+    - '47'
+    - Gefäß
+    - '54'
+    - Zugpferdt
+    - '479'
+  - - Züg
+    - '15'
+    - Ladschauffeln
+    - '54'
+    - Plechebüchsen
+    - '40.'
+  cs:
+  - - vozů
+    - '47'
+    - lafet {Gefäß}
+    - '54'
+    - tažných koní {Zugpferdt}
+    - '479[^3]'
+  - - kladkostrojů
+    - '15'
+    - nabíjecích lopatek {Ladschauffeln}
+    - '54'
+    - plechových nádob {Plechebüchsen}
+    - '40[^4]'
+- typ: odstavec
+  de: |-
+    Summa summarum alles des so dem hieuor beschriben Prech vnd Feldgeschütz / welchs in neunerlei Sort oder gattung / vnd in 72 klein vnd groß stück außgetheilt worden / zugehörig / thůt erstlich an seim selbst gezeug Augspurgischs gewichs 2222 cent.
+  cs: |-
+    Celkový součet všeho, co náleží k výše popsaným průlomovým {Prech} a polním dělům, jež byla rozdělena do devíti druhů čili tříd a do 72 malých i velkých kusů, činí nejprve na samotném kovu augšpurské váhy[^5] 2222 centů {cent.}.
+- typ: odstavec
+  de: |-
+    So wigen dieselben kugeln an eysen 1256 centner.
+  cs: |-
+    Tyto koule pak váží na železe 1256 centů.
+- typ: odstavec
+  de: |-
+    Darzů so schwer puluers / thůt auch 1256 centner.
+  cs: |-
+    K tomu stejně těžké množství prachu činí rovněž 1256 centů.
+- typ: tabulka
+  de:
+  - - Wagen
+    - '151'
+    - Gefäß
+    - '72'
+    - Zugpferdt
+    - '1394'
+  - - Züg
+    - '26'
+    - Ladschauffeln
+    - '72'
+    - Plechenbüchsen
+    - '130.'
+  cs:
+  - - vozů
+    - '151'
+    - lafet
+    - '72'
+    - tažných koní
+    - '1394[^3]'
+  - - kladkostrojů
+    - '26'
+    - nabíjecích lopatek
+    - '72'
+    - plechových nádob
+    - '130[^4]'
+- typ: odstavec
+  de: |-
+    Ferner ist zuwissen das alweg die Büchsen oder stuck / so einer sort oder gattung sein / das ist einen Namen / schwere / größ / Form / vnd lenge haben / in ein pret / model vnd maß geformirt / vnd also der gattung jede auff ein gleiche Kugel größ / wie hernach auffgerissen wirdt gemacht solten sein. Vnnd sonderlich ist wol zumercken das einer jeden gattung oder sort / deßgleichen alle derselben zugehörung / fleissig auff einander mit gůten / grossen / sichtigen vnnd sondern gemercken verzeichnet werden. Es soll auch alles daß so einem stuck zugeordenet / vnd vermeint als vor wagen / reder / achs / Scheiben / Kugel / model derselben vnd alles anders / dem andern stuck seins gleichen auch tuglich vnd gerecht sein / dann solchs in vil weg sonderlich nutz / fürtraglich / fürderlich vnd gůt ist. Mit disem offtermeltem prech vnd Feldgeschütz Neunerlei gattung begreiffent / Acht ich warlich eines ja auch grossen Fürsten oder Herren Zeughauß / der notturfft nach zu einem Feldzug gnůgsam versehen / vnd was darüber oder die stück schwerer / zuuil auch einen vergeblichen vnkosten sein.
+  cs: |-
+    Dále je třeba vědět, že všechna děla {Büchsen} či kusy, která jsou jednoho druhu čili třídy – to jest mají jedno jméno, váhu, velikost, tvar a délku –, mají být vytvarována podle jedné šablony, formy a míry a každý druh tak má být zhotoven na stejnou velikost koule, jak bude dále narýsováno. A zvláště je třeba mít na paměti, aby každý druh či třída, jakož i všechno k němu patřící příslušenství bylo na sobě pečlivě označeno dobrými, velkými, zřetelnými a odlišnými značkami. Rovněž všechno, co je jednomu kusu přiděleno a určeno – jako například vozy, kola, nápravy, kotouče, koule, licí formy {model} k nim a všechno ostatní –, má být vhodné a přiměřené i pro druhý kus téhož druhu, neboť je to v mnohém ohledu velmi užitečné, prospěšné, nápomocné a dobré. Těmito vícekrát zmíněnými průlomovými a polními děly zahrnujícími devět druhů pokládám vskutku zbrojnici {Zeughauß} i velikého knížete nebo pána za dostatečně vybavenou podle potřeby k polnímu tažení {Feldzug}, a cokoli by bylo nad to či kusy ještě těžší, za zbytečné a marné vydání.
+- typ: odstavec
+  de: |-
+    Dann so mann noch schwerer vnd grösser stuck brauchen wil / ist nit allein / wie gemelt / der vberschwengklich groß vnkusten / sondern auch daneben / daß dieselben in bösen / tieffen wettern / weg / berg vnd tall / mühsam hinzubrengen / zubedencken / damit wirt die zeit verlorn / ist auch in den Schantzen besorglich / vnd langsam damit vmbzugehn /
+  cs: |-
+    Neboť chce-li někdo užívat ještě těžších a větších kusů, je třeba uvážit nejen – jak již řečeno – nesmírně veliké náklady, ale vedle toho i to, že se za zlého a blátivého počasí po cestách, horách a údolích jen s námahou dopravují na místo; tím se ztrácí čas, v šancích je to nebezpečné a zachází se s nimi zdlouhavě,
+poznamky:
+- n: 1
+  text: |-
+    *Hölzen schweiben* – pravděpodobně nářeční či tiskařská podoba slova *Scheiben* (dřevěné kotouče či podložní desky), případně překlep za *Schwellen* (těžké dřevěné prahy či podklady pod obléhací děla v šancích).
+- n: 2
+  text: |-
+    Tisková chyba předlohy: součet váhy pěti druhů polních děl (240 + 288 + 240 + 120 + 120) činí 1008 centů (nikoli *1800*), což dokládá i celkový součet o řádek níže (1214 + 1008 = 2222 centů).
+- n: 3
+  text: |-
+    Součet položek polních děl (114 + 172 + 93 + 58 + 78) činí 515 koní, tisk však uvádí *479* (o 36 méně, čímž se vyrovnává přebytek +36 koní u bořičů hradeb na fol. 25r a celkový součet *1394* se tak rovná jak 915 + 479, tak 879 + 515).
+- n: 4
+  text: |-
+    Součet plechových nádob u polních děl (18 + 24 + 10 + 10 + 20) činí 82 (nikoli *40*, což je jen součet posledních tří položek), a celkový součet s bořiči hradeb pak 54 + 82 = 136 (nikoli *130*).
+- n: 5
+  text: |-
+    V originále *Augspurgischs gewichs* (bez koncového *-t-*).

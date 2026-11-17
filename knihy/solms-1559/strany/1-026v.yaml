@@ -1,0 +1,41 @@
+id: 1-026v
+list: '26'
+strana: verso
+sken: 62
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Zum sechsten so kan mann ein zimliche Wagenburg allezeit ordnen so mann etwan auff ein Fütterung ziehen / das mann fort oder wasser brauchen můst Brücken zuschlagen vnd dergleichen / so kan mann darbei ein Wagenburg schlagen groß oder klein / wie die notturfft vnd gelegenheit das erfordern wirt.
+  cs: |-
+    Za šesté lze vždy uspořádat přiměřenou vozovou hradbu {Wagenburg}, když se někdy táhne na pícování {Fütterung}, kdyby bylo nutno použít brod nebo vodní tok, stavět mosty a podobně: tu lze při tom rozbít vozovou hradbu velikou či malou, jak si to potřeba a okolnosti vyžádají.
+- typ: odstavec
+  de: |-
+    Zum sibenden so kan mann auch ein nacht Wacht / mit einer Wagenburg versichern / so mann sich besorgen würde / das mann möcht in die wacht fallen / vnd also kan mann allezeit ein frembde Wacht / ein nacht geordnen / der mann sich nit versicht / darmit mann also ein zug verwachen vnd verhüten kan vnd dem gegentheil etwas darmit brechen vnd wehren.
+  cs: |-
+    Za sedmé lze také vozovou hradbou zajistit noční stráž {Wacht}, kdyby panovala obava, že by nepřítel mohl do stráže vpadnout; a tak lze vždy na jednu noc zřídit zvláštní nečekanou stráž, jíž se nepřítel nenaděje, čímž je možno ohlídat a ochránit tažení {zug} a protivníkovi tak zmařit záměr a zabránit mu v útoku.
+- typ: odstavec
+  de: |-
+    Zum achten wann mann ziehen wirt / vnd in der Feind Landt ist / vnd inn grossen Dörffern lege / dann soll mann die Wagen hieauß vor den Dörffern lassen / vnd ein Wagenburg schliessen / vnd die darfür mit den wachten besetzen / dann mann kan wol Meutterei zurichten / wann mann inn den Dörffern ligt / daß die heimlich können angestecket werden / Wann aber dann die Dörffer mit den wagen verspert seind / so kan mann nicht außkomen / vnd kan grosser vnrat darauß entstehen / daß mann nit vor den wagen außmag / Darumb sollen die wagen hauß bleiben / geschlossen vnnd verwart werden / wie sich das einer Wagenburg gebürt.
+  cs: |-
+    Za osmé: když se táhne a vojsko je v nepřátelské zemi a leželo by ve velkých vesnicích, tehdy se mají vozy nechat venku před vesnicemi, uzavřít z nich vozovou hradbu a obsadit ji vpředu strážemi; neboť když se leží ve vesnicích, lze snadno zosnovat vzpouru či záškodnou zradu {Meutterei}[^1], takže vesnice mohou být tajně zapáleny. Jsou-li pak vesnice zataraseny vozy, nelze se dostat ven a může z toho vzejít veliká pohroma, když člověk nemůže přes vozy vyjet ven. Proto mají vozy zůstat venku, uzavřeny a střeženy, jak se na vozovou hradbu sluší.
+- typ: odstavec
+  de: |-
+    Zum neunden wann mann also in grossen Dörffern ligen würd / so sollen die strassen rein / ledig vnd vnuerspert gehalten werden / wann ein Dorff so groß were daß vil Volcks darinn ligen kündt / besonder Reutter / so sol mann an etlichen orten die Gärten vnd Zeun auffbrechen / vnd außwendig darfür mit wagen wider zuschliessen / vnd wachten darinn legen / damit mann in Fewers nöten mit Pferden vnnd Leuten herauß kommen möchte.
+  cs: |-
+    Za deváté: leží-li se tedy takto ve velkých vesnicích, mají se ulice udržovat čisté, volné a nezatarasené; byla-li by vesnice tak veliká, že by v ní mohlo ležet mnoho lidu {Volcks}, zvláště jezdců {Reutter}, mají se na několika místech prolomit zahrady a ploty, vně před nimi se opět uzavřít vozy a položit tam stráže, aby bylo možno v případě ohně s koňmi i lidmi vyjet ven.
+- typ: odstavec
+  de: |-
+    Zum zehenden so kan sichs wol zutragen / daß mann etwas eilend vnd gefehrlich abziehen můß / dann kan mann sich allwegen inn ein Wagenburg in einen vortheil legen / daß mann sich nicht also alle nacht verschantzen kan im ziehen / als wann mann still lege.
+  cs: |-
+    Za desáté: může se také přihodit, že je nutno poněkud kvapně a nebezpečně ustupovat; pak se lze vždy uložit do vozové hradby na výhodném místě, poněvadž za pochodu není možno každou noc se zakopávat v šancích {verschantzen} tak, jako když se leží na místě.
+- typ: odstavec
+  de: |-
+    Zum eilfften kan sichs wol zutragen / wann mann etwan schlagen odder einen harten Scharmützel thůn / vnnd ordnen daß mann das Geschütz von etlichen stucken auff ein seiten stellen würde / die also ein seiten einnemen künden / vnd neben den hauffen vor dem angrieff erreitten / Dieselbigen stuck kündt mann auch wol mit einer kleinen summa wagen verziehen vnd bedecken / daß sie nicht etwan durch ein Geschwader vberrent möchten werden / sonder frei stehen vnnd schiessen künden / vnnd solche wagenburg soll auch mit Rorschützen
+  cs: |-
+    Za jedenácté: může se snadno přihodit, když se má svést bitva nebo prudká šarvátka {Scharmützel} a nařídí se, že se děla {Geschütz} o několika kusech {stucken} postaví na jedno křídlo, aby tak mohla zaujmout bok a vyjet při houfech {hauffen} před útokem – takové kusy by bylo možno rovněž obehnat a krýt menším počtem vozů, aby nemohly být najety nějakou švadronou {Geschwader}, nýbrž aby stály volně a mohly střílet; a taková vozová hradba má být také střelci z ručnic {Rorschützen}
+poznamky:
+- n: 1
+  text: |-
+    Výraz *Meutterei* zde vedle vzpoury označuje i tajné spiknutí a záškodné žhářství (*daß die heimlich können angestecket werden*).

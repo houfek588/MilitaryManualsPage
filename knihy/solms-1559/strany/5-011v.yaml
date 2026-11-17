@@ -1,0 +1,26 @@
+id: 5-011v
+list: 11 (5. kniha)
+strana: verso
+sken: 458
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Die Keiserliche Maiestat soll allen vnkosten halten von lichten vñ Zeug vnd von holtz geben was die notturfft erfurdert.
+  cs: |-
+    Císařské Veličenstvo má hradit veškeré výdaje na světla a nářadí {Zeug} a vydávat dříví, co jen potřeba vyžaduje.
+- typ: odstavec
+  de: |-
+    Zwen Hutleut sol mann haben die zu aller Zeit bei der arbeit seien/ vnd zu sehen daß recht gefarn vnd die arbeit gefürdert werde.
+  cs: |-
+    Dva dozorce {Hutleut} má člověk mít, kteří jsou po všechen čas při práci a dohlížejí, aby se správně razilo a práce postupovala kupředu.
+- typ: odstavec
+  de: |-
+    Item/ es soll auch kein Ampt dem andern inn sein arbeit fallen oder verhindern/ sonder eiñ jeglichen seinen beuelch lassen verrachten/ vñ welcher sein dienst nicht recht außricht soll der Oberst jn darumb anreden/ vnd nach gelegenheit straffen sonst hat er keinen frieden im leger.
+  cs: |-
+    Dále nemá žádný úřad {Ampt} druhému zasahovat do jeho práce ani mu překážet, nýbrž má každého nechat vykonávat jeho rozkaz; a kdo svou službu nevykonává správně, má jej proto nejvyšší velitel {Oberst} napomenout a podle okolností potrestat, jinak nemá v ležení {Leger} pokoje.[^1]
+poznamky:
+- n: 1
+  text: |-
+    V posledním řádku na konci rejstříku tištěno nářečně či sazečským přehmatem „verrachten“ (za *verrichten*, „vykonávat“); pod textem následuje tiskařská ozdoba lístku.

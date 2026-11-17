@@ -1,0 +1,32 @@
+id: 1-013v
+list: '13'
+strana: verso
+sken: 36
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gebürlicher vnd gůter Ordnung beschehen / vnd nach solchem allen / so sollen sie die handlung zwischen den Partheien weiter fürnemen / so es die gelegenheit gibt / sie genediglich entscheiden vnd vertragen.
+  cs: |-
+    náležitým a dobrým řádem, a po tom všem mají jednání mezi stranami vést dále, a pokud to okolnosti dovolí, milostivě je rozsoudit a smířit.
+- typ: odstavec
+  de: |-
+    So das dann bei den Partheien nit statt haben wölte / vnd die sachen dergestalt geschaffen das solches durch ein Recht spruch oder sonst rechtlich erkent vnd geschehen můst / so soll man in dem thůn / wie die notturfft das erfordern vnd sein wil / also mag man die sachen fürnemen / was Nation solches bedürffen wirt. Damit aber aller fehl verdacht vnd Parth mag in dem auch vorkomen werden / vnd die geordnete Justitien statlich in gůtem wesen bleibe / so mag man wol ordnen so zwo Nation / ein die ander zubeklagen vnd rechtlich vorzůnemen haben / vnd die sachen etwas wichtig oder schwer fallen wurden / so sollen die beide Nation jhre gerichts rethe vnd Personen / von beiden theiln zusamen nemen / vnd mit einander nider sitzen / die sachen zu gleich vornemen / handeln gütlich rechtlich / vnd wie die notturfft das erfordern wirt. Auch zu weitterer einigkeit das die Justitia gehalten wirt so mag man dise Ordnung vornemen / so sich also zutragen wirt das beide Nation sitzen vnd handeln musten / vnd sich nit zu jrren hetten das der ein Nation zu der andern gehen můß / vnd ein jeder die er haben wolt so mag man machen / daß das ein theil des klegers / da der beklagt sein wirt hin verfolgen můß / so hette kein theil sich zubeklagen vnd můß gůte Regirung vnd Justitien gehalten werden. Würde aber ander Volck sein / das vnter kein Regiment gehört / oder were / vnd also ledig Volck wie im Leger ist / soll dem Capitan der Justitien zu rechtuertigen beuolhen sein. Wer es aber solches Volck als Marcatanten vnd Sudler / so vnder den Regimenten jren standt vnd handlung hetten / die gehören den Regimenten / vnter denen sie sind / in jre Justitien zustraffen / wie das sein alte eigene Ordnung hat / vnd die maß zustraffen nach einer jeden verbrechung wie die durch den Krigßherrn vnd sein Kriegßreth auch Kriegßuerstendigen geordnet vnd gesetzt worden / also sol man einem jeden Regiment seine regirung vnd Justitien lassen / vnd darauff sehen / das nach gesatzter Ordnung darmit vmbgangen werde. Nun wil wol daruon geredt vnd vorgenommen werden / als solt die notturfft erfordern vnd billich sein / das man ein General Justitien ordne die vber alle andere Justitien sein sol / vnd was an andern Jstitien nach Kriegßgebrauch wie recht geurtheilt wirt / vor die general Justitien sich zuberuffen haben / dise soll des Feldobersten Justitien genant werden / welche mit einem par Doctorn besatzt / vnd Auditores genant sein sollen / die sollen weiser vnd redlicher geachtet werden / dann Grauen / Herrn / von Adel / vnd andere alte
+  cs: |-
+    Nepřipouštělo-li by to však u stran smír a věc by měla takovou povahu, že by musela být rozhodnuta a vyřízena soudním výrokem nebo jinak po právu, pak se má v tom postupovat tak, jak vyžaduje nutnost a okolnosti, a tak se má věc projednat u kteréhokoli národa, jenž toho bude potřebovat. Aby se však v tom dalo předejít všelikému podezření z pochybení a ze stranickosti[^1] a aby ustanovená justice {Justitien} zůstávala důstojně v dobrém stavu, lze dobře nařídit, aby v případě, kdy dva národy mají žalovat a hnát před soud jeden druhý a záležitosti by byly poněkud závažné či těžké, oba národy spojily své soudní rady a soudní osoby z obou stran, společně zasedly a vzaly věc dohromady a jednaly po dobrém či po právu a tak, jak to nutnost bude vyžadovat. K další svornosti a zachování justice lze také zavést toto pravidlo: kdyby měly oba národy zasedat a jednat, a aby neměly pochybnosti, že jeden národ musí jít k druhému, a každý chtěl mít tu svou [stranu], lze ustanovit, že strana žalobcova musí následovat žalovaného tam, kde žalovaný je;[^2] tak by si žádná strana nemohla stěžovat a musela by se udržovat dobrá správa a justice. Byl-li by tam však jiný lid, který nepatří pod žádný pluk {Regiment}, tedy volný lid, jaký bývá v ležení {Leger}, má být jeho souzení svěřeno kapitánovi justice {Capitan der Justitien}. Jednalo-li by se však o takové lidi, jako jsou markytáni {Marcatanten} a polní kuchaři {Sudler},[^3] kteří mají své místo a živnost při plucích {Regimenten}, ti spadají k potrestání pod justici těch pluků, pod nimiž jsou, jak to má svůj starý vlastní řád, a míra trestu podle každého provinění je taková, jakou nařídil a stanovil válečný pán {Kriegßherrn}, jeho váleční radové {Kriegßreth} i znalci války; takto se má každému pluku ponechat jeho správa a justice a dbát na to, aby se s nimi nakládalo podle ustanoveného řádu. Nyní se ovšem mluví o tom a zamýšlí se, jako by prý nutnost vyžadovala a bylo spravedlivé zřídit jakousi generální justici, která by byla nad všemi ostatními justicemi, a kdokoli byl u jiných soudů {Jstitien}[^4] podle válečného obyčeje po právu odsouzen, aby se mohl odvolat k této generální justici; ta se má nazývat justicí nejvyššího polního hejtmana {Feldobersten}, má být obsazena párem doktorů práv a mají se nazývat auditoři {Auditores}[^5] – ti mají být pokládáni za moudřejší a poctivější než hrabata, páni, šlechtici a jiní staří
+poznamky:
+- n: 1
+  text: |-
+    V tisku *Parth* (= *Parteilichkeit*, stranickost, nadržování jedné straně).
+- n: 2
+  text: |-
+    Tradiční římskoprávní zásada příslušnosti soudu (*actor sequitur forum rei* – žalobce se obrací na soud žalovaného).
+- n: 3
+  text: V originále *Sudler* – polní kuchaři a vařiči teplých jídel v táboře.
+- n: 4
+  text: Tisk má na tomto místě zkomoleninu *Jstitien* místo *Justitien*.
+- n: 5
+  text: |-
+    *Auditores* – právnicky vzdělaní soudní radové (doktoři práv), proti jejichž nadřazování nad tradiční stavovské válečné soudy hrabě ze Solmsu ostře vystupuje na následujících listech.

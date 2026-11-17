@@ -1,0 +1,64 @@
+id: 3-058v
+list: '58'
+strana: verso
+sken: 368
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    ITem mann neme 1. lot Kolen 3. lot Schwefel 8. lot Salpeter / vnd machs wie oben steht / allein wo mann soll wasser nemen / dauor nem mann gebranten wein / dann das Zündtpuluer muß besser vnd behender sein dann das ander.
+  cs: |-
+    Dále vezmi 1 lot {lot} dřevěného uhlí {Kolen}, 3 loty síry {Schwefel} a 8 lotů ledku {Salpeter} a připrav jej, jak stojí výše, jenom kde se má brát voda, vezmi místo ní pálené víno, neboť zápalný prach {Zündtpuluer} musí být lepší a prudší než jiný [střelný prach].
+- typ: nadpis
+  uroven: 3
+  de: Ein alt Puluer zustercken.
+  cs: Jak posílit starý střelný prach {Puluer}
+- typ: odstavec
+  de: |-
+    EIn alt vergangen Puluer dabei die Kolen sind feucht worden / oder der Salpeter nit wol geleutert gewesen ist wider gůt zumachen / Item man neme gůten gebranten wein / sied salpentica vnd salpeter gleich gewegen darinn / so der seudet / beschüt das Puluer also heiß damit / darnach stoß wol mit höltzern klöpffeln / rür es in erden weite häfen / die verkleib oben wol / setz sie in einen Bachofen / der nicht zu heiß / sonder noch ein wenig warm sei / laß es also wenig trucken werden / neme darnach das Puluer herauß / vnnd stoß es ein wenig / so kömpt es wider zu seinen Krefften.
+  cs: |-
+    Aby se starý zkažený prach, u něhož uhlí zvlhlo nebo ledek nebyl dobře přečištěný, zase napravil: dále vezmi dobré pálené víno, povař v něm stejně odvážené množství taveného ledku (*salpentica*)[^1] a ledku; jakmile vře, polij jím prach takto za horka, poté jej dobře utluč dřevěnými paličkami, vtlač jej do širokých hliněných hrnců, ty nahoře dobře utěsni, vlož je do pekařské pece, která není příliš horká, nýbrž jen trochu teplá, nech jej takto zvolna vyschnout, poté prach vyjmi a trochu jej utluč – tak zase nabude své síly.
+- typ: nadpis
+  uroven: 3
+  de: Gemein Puluer zumachen.
+  cs: Jak dělat obecný střelný prach
+- typ: odstavec
+  de: |-
+    ITem mann neme ein gewisse Wagen / vnd lege auff etliche theil gůten geleuterten salpeter gleich schwere / vnd neme dann ein theil heraber / vnd das bleiben theil spaldt aber in 2. theil / darnach lege ein theil salpeters herab / vnd gegen dem vberbliebende theil lege als vil schwefels / darnach thů den salpeter herab / vnd gegen den schwefel lege also vil Koln / wirdt dann der zeug wol gestossen / vnnd ist der salpeter gůt / so hat mann guten Puluer.
+  cs: |-
+    Dále vezmi spolehlivé váhy, polož na obě misky[^2] stejně těžce dobrého přečištěného ledku, potom jednu část sejmi a zbývající část rozděl opět na 2 díly; nato sejmi jeden díl ledku a proti zbylému dílu polož stejně tolik síry; poté sejmi ledek a proti síře polož stejně tolik uhlí. Bude-li pak ta látka dobře utlučena a jest-li ledek dobrý, budeš mít dobrý prach.
+- typ: nadpis
+  uroven: 3
+  de: Ein fast gut Puluer zumachen.
+  cs: Jak dělat velmi dobrý střelný prach
+- typ: odstavec
+  de: |-
+    ITem drit halben Centner salpeters / 1. Centner schwefels das stoß vnter einander / vnnd wige es recht / nim alweg den achten theil salarmoniac vnnd silberschaum / stoß das wol vntereinander / vnnd nim je 30. züge 3. lot sublimat / 1. lot Camporia / 5. lot Arsenico / thu ein wenig salpeter wasser darzů / doch nit zuuil / vnd stoß das damit / aber mann soll der stück keins reten.
+  cs: |-
+    Dále půl třetího centu {Centner} ledku a 1 cent síry utluč dohromady a správně je odvaž; vezmi vždy osmý díl salmiaku (*salarmoniac*) a stříbrného klejtu (*silberschaum*),[^3] dobře to spolu utluč a vezmi vždy na 30 dávek[^4] 3 loty sublimátu (*sublimat*), 1 lot kafru (*Camporia*) a 5 lotů arzeniku (*Arsenico*); přidej k tomu trochu ledkové vody, avšak ne příliš, a utluč to s ní, žádnou z přísad však nemáš prosívat.
+- typ: nadpis
+  uroven: 3
+  de: Das aller best Puluer.
+  cs: Ze všech nejlepší střelný prach
+- typ: odstavec
+  de: |-
+    ITem mann neme weissen gebranten Camper / ein theil salarmoniac / der vngebrandt ist / vnd lüchtet als die braunstein die die Schwertfeger haben / thu ein wenig sublimat darunter / darnach thu man das alles in einen Mörser / vnd fast wol gestossen / daß aller zu Puluer werde / vnd zu 1. pfundt der Materien soll man je acht theil eins lots von schwefel vnd Kolen darunter thun.
+  cs: |-
+    Dále vezmi bílý pálený kafr (*Camper*), jeden díl nepáleného salmiaku, jenž se leskne jako burel (*braunstein*),[^5] který mívají mečíři, přimíchej k tomu trochu sublimátu; potom dej to vše do hmoždíře a velmi dobře utluč, aby se vše proměnilo v prach; a k 1 libře {pfundt} této látky přimíchej vždy osmý díl jednoho lotu ze síry a uhlí.
+poznamky:
+- n: 1
+  text: |-
+    *salpentica* – tisková zkomolenina za *Salpratica* (tavený ledek, srov. l. 57r).
+- n: 2
+  text: |-
+    Tisk má doslova *auff etliche theil* („na některé/obě části“), čímž se míní rozdělení odváženého ledku na misky vah, z něhož postupným dělením na poloviny vzniká bez závaží poměr 4 : 1 : 1 (příp. 2 : 1 : 1).
+- n: 3
+  text: |-
+    *silberschaum* („stříbrná pěna“) – klejt olovnatý (*lithargyrum argenti*, oxid olovnatý vznikající při čištění stříbra).
+- n: 4
+  text: |-
+    *je 30. züge* – zřejmě porušené znění podle *je zu 30. pfundt zeugs* („vždy na 30 liber látky“), jak stojí v paralelním receptu na l. 56v.
+- n: 5
+  text: |-
+    *braunstein* – burel (oxid manganičitý), užívaný mečíři při úpravě a leštění čepelí.

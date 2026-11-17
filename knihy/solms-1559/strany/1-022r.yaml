@@ -1,0 +1,47 @@
+id: 1-022r
+list: '22'
+strana: recto
+sken: 53
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Sententz gefallen / den soll der Veldmarschalck den Personen oder Partheien sagen vnd verkünden.
+  cs: |-
+    rozsudek, ten má polní maršálek {Veldmarschalck} osobám či stranám oznámit a vyhlásit.
+- typ: odstavec
+  de: |-
+    Würde es aber ein peinliche sach sein / die mit leib straff durch den Scharpffrichter volnzogen soll werden / so soll solliches Vrtheil oder Sententz durch den Prouosen vor dem Gericht vnnd gantzen hauffen den Verurtheilten verkündet werden / dasselbig also offentlich vorlesen / vnd wann er selber nicht lesen künde / durch seinen Schreiber / doch in seinem beisein / dem Scharpffrichter die straff zuthůn beuelhen.
+  cs: |-
+    Byla-li by to však hrdelní věc {peinliche sach}, která má být vykonána tělesným trestem skrze kata {Scharpffrichter}, má být takový ortel či rozsudek odsouzeným vyhlášen profousem {Prouosen} před soudem {Gericht} a celým houfem {hauffen}, má jej veřejně přečíst – a kdyby sám číst neuměl, skrze svého písaře {Schreiber}, avšak v jeho přítomnosti – a katovi přikázat trest vykonat.
+- typ: odstavec
+  de: |-
+    Weitter zu dem Artickel / darinn vermelt / wann der Veldoberster selbst setzen / odder an stat seiner einen ordenen / dann hat der Veldmarschalck macht wo sich ein geschwinder / schwerer fall zutrüge / bei allen Regimenten Personen als Kriegßuerstendigen zufordern / dieselben zu Rath nider setzen / die sachen zu ende helffen handeln vnd richten / darbei soll der Oberst sie handhaben / vnnd Recht ergehen lassen.
+  cs: |-
+    Dále k článku, v němž se praví, kdy má nejvyšší polní hejtman {Veldoberster} zasednout sám nebo místo sebe někoho ustanovit: pak má polní maršálek moc, přihodí-li se nějaký ožehavý, těžký případ, povolat ode všech pluků {Regimenten} muže znalé válečnictví, posadit je k radě, aby pomohli věc projednat do konce a rozsoudit; při tom je má nejvyšší velitel {Oberst} chránit a nechat průchod právu.
+- typ: odstavec
+  de: |-
+    Es hat der Veldmarschalck auch wol macht / wann er ein sach also gerechtfertigt vnd zu straffen geweist hat / vnnd doch der gestalt geschaffen daß sie milterung leiden möchte / dann mag er sie dem Obersten Veldhauptman zu weisen / der gestalt / ob er bei demselbigen gnad erlangen künde als bei dem Haupt daß er mit sampt den andern des wol zufrieden sei / also ist gnad bei Recht / vnd bleibt das Recht in seiner Ordnung dann der Oberst vil gewalt vnnd genaden hat / doch sol der Oberst dem Feldmarschalck vnd dem Gericht / nit mit gewalt eingreiffen / wann sie billich handeln / sonder sie sollen obeinander halten.
+  cs: |-
+    Polní maršálek má také plné právo, když takovou věc soudně projednal a určil k potrestání, ale její povaha by snesla zmírnění, postoupit ji nejvyššímu polnímu hejtmanovi {Obersten Veldhauptman}, aby u něho jako u nejvyšší hlavy mohl dosáhnout milosti, jsou-li s tím on i ostatní plně srozuměni; tak stojí milost vedle práva a právo zůstává ve svém řádu, neboť nejvyšší velitel má velkou moc a právo udělovat milost. Přesto nemá nejvyšší velitel polnímu maršálkovi ani soudu násilně zasahovat do pravomoci, když jednají spravedlivě, nýbrž mají držet při sobě.
+- typ: odstavec
+  de: |-
+    Was sonst das Feldmarschalcks Ampt vnd beuelch weiter ist / das wirt im Bůch der Ampter beschrieben werden.
+  cs: |-
+    Co se jinak týče dalších povinností a pravomocí úřadu polního maršálka, to bude popsáno v Knize úřadů.[^1]
+- typ: odstavec
+  de: |-
+    Dieweil nun so bald mann mit den hauffen in das Feld zusamen kompt / die Prouiant das hauptstück ist so volgt derselben Ordnung vnnd versehung auff die Justitien / dieweil aber gemelte Ordnung / nach lengst im Bůch der Empter erzelt wirt / so wil ich alhie mit kurtzen worten daruon schreiben / souil dienlich sein wil.
+  cs: |-
+    Poněvadž jakmile se s houfy vytáhne společně do pole, je hlavní věcí proviant {Prouiant}, následuje po spravedlnosti řád a opatření pro něj. Protože je však řečený řád zevrubně vyložen v Knize úřadů, napíši o něm zde jen krátce, nakolik to bude užitečné.
+- typ: odstavec
+  de: |-
+    Der Prouiantherr nach dem er in der zeit sein Prouiant bestellet / das jhm dieselbig gleichs nachkommen möge / so soll er wo ein leger liegen wirdt / einen Prouiantplatz ausserhalb dem leger haben / darauff er alle bestelte Prouiant füren soll lassen / bei demselbigen sein losament sampt den seinen haben / dieselbig inn gůter verwarung vnnd schutz halten / darmit niemants deren so zufüren gewaltig werde / weder mit nemen noch arestiern / derwegen
+  cs: |-
+    Když si proviantní pán {Prouiantherr} včas objedná svůj proviant, aby mu mohl hned docházet, má tam, kde bude rozloženo ležení {leger}, zřídit vně ležení proviantní tržiště {Prouiantplatz}, kam nechá dovážet veškerý objednaný proviant; u něho má mít své ubytování {losament} spolu se svými lidmi a držet je v dobré ostraze a ochraně, aby se nikdo nemohl dopouštět násilí na těch, kdo zásoby přivážejí, ani braním, ani zabavováním; proto
+poznamky:
+- n: 1
+  text: |-
+    Odkaz na Druhou knihu tohoto svazku (*Von beschreibung der 24. Kriegßämpter*); o úřadu polního maršálka pojednávají listy [[025r|25r]]–[[029r|29r]] (srov. též o proviantním pánovi od listu [[032v|32v]]).

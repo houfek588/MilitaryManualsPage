@@ -1,0 +1,27 @@
+id: 5-012r
+list: 12 (5. kniha)
+strana: recto
+sken: 459
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Ein Zug von dem grossen Fürsten Musca genant.
+  cs: |-
+    Tažení velikého knížete zvaného Moskvan {Musca}.
+- typ: odstavec
+  de: |-
+    MAnn sagt vñ helt daruor/ daß der Fürst Musca ein mechtiger Herr sei/ vnd ein grossen reisigen Zeug in das Veld vermög/ als 200000. pferde/ doch nicht anders dann geringe pferdt/ gleich dem Türcken/ Vnd dieweil sie dann gleich dem Türcken gerüst sind/ ist zu achten/ daß sie gleich Kriegßgebrauch vñ handlung im veldt gegen einander gebrauchen vnnd füren/ vnd also ein werck/ ordnung vnd handel seie. Vnd wannes dann durch Gottes gnaden dahin gehandelt vnd geraten möcht/ daß genanter Musca mit der heiligen Christlichen Kirchen/ mit dem Königreich Poln/ deßgleichen mit dem Meister in Ifflandt vnd Preussen/ in ein Christliche vereinigung vñ friedlichen bestendigen verstandt komen/ were bei mir zurathen/ daß er darzu angenommen/ befördert vñ geholffen würde/ vnd wann er dañ mit gemelten Stenden durch Gottes gnaden vnd mittel verstendigklich vereinigt/ vnd sich gleich mit jnen als ein Christlicher Fürst vnd Hilt gegen dem Türcken erkleren/ vnd zu den obengemelten Stenden gegen dem Türcken setzen/ vnd bei jnen halten wolt/ daß mann dann jm allen beistandt mit zuschickung aller Röstung thet vnd befordert/ dañ mich bedünckt/ so gemelter groß Fürst dahin bracht vnd gefast würde/ es sol der Christenheit/ vnd dem Heiligen Reich ein grosser tröstlicher zusatz/ vnnd dem Türcken ein grosser nachtheil vnd abfal sein/ dann wie ich bericht/ sol durch Muscam ein gůter Paß auß Türckei in Poln/ die Marck/ vnd fört in daß Reich sein/ daß als dann von gemelten Fürstenthumen vnd in das Reich der paß versichert/ vnd von disen vnd gemelten Landen durch Muscam gegen dem Türcken zu handeln frei were/ auß solchen vrsachen soll mann solchen grossen Fürsten zu vnns ziegen bewegen/ vnd alle hilff thůn.
+  cs: |-
+    Říká se a má se za to, že kníže moskevský {Musca} jest mocný pán a dokáže do pole postavit velikou jízdu {reisig Zeug}, až 200 000 koní {Pferdt}, avšak nikoli jiné než lehké koně po způsobu Turků; a poněvadž jsou ozbrojeni stejně jako Turci, lze soudit, že proti sobě v poli užívají a vedou stejný válečný způsob i jednání a že to jest jedno a totéž dílo, řád a postup. A kdyby se pak z Boží milosti dalo vyjednat a dospět k tomu, že by řečený Moskvan s svatou křesťanskou církví, s Královstvím polským a rovněž s mistrem v Livonsku {Ifflandt} a v Prusích vstoupil v křesťanskou jednotu a mírumilovnou stálou shodu, radil bych, aby k tomu byl přijat, podpořen a aby se mu pomohlo. A jakmile by se s dotčenými stavy z Boží milosti a prostřednictvím rozumně spojil a spolu s nimi se jako křesťanský kníže a hrdina prohlásil proti Turkovi, připojil se k výše jmenovaným stavům proti Turkům a držel při nich, pak by se mu mělo poskytnout veškeré přispění a pomoc zasláním vší výzbroje {Rüstung}. Neboť se mi zdá, že kdyby byl tento veliký kníže k tomu přiveden a získán, bylo by to křesťanstvu i Svaté říši velikou potěšitelnou posilou a Turkům velikou újmou a úbytkem. Jak jsem totiž zpraven, vede prý přes Moskevsko {Muscam} dobrý průsmyk {Paß} z Turecka do Polska, do Marky a dále do Říše; tím by byl průchod z dotčených knížectví do Říše zajištěn a z těchto i z oněch zemí by bylo možno přes Moskevsko volně postupovat proti Turkovi. Z takových příčin se má tak veliký kníže získat, pohnout k nám a prokázat mu veškerá pomoc.[^1]
+- typ: odstavec
+  de: |-
+    Vnd wann Gott die gnad beiden theiln verleihen/ daß sie also in eine gleiche vereinigung kommen würden/ als ich bei mir acht vnd bedencke also geschehen/ wil ich darauff/ auff den bericht so mir geschehen seines Kriegßuolcks vermögens/ noch einen geringen anschlag meines verstands ordnen vnd beschreiben/ mit einem zusatz anderem mehr frömbdem Kriegßuolck/ als Teutschen/ Spaniern/ Italianern vnd alles Christliches Kriegßuolck das in einem
+  cs: |-
+    A udělí-li Bůh oběma stranám milost, že takto dospějí k téže jednotě – jak u sebe soudím a myslím, že se tak stane –, chci pak na základě zprávy, jež se mi dostala o síle jeho válečného lidu {Kriegßuolck}, podle svého rozumu uspořádat a popsat skromný nástin, spolu s posilou dalšího cizího válečného lidu, jako Němců, Španělů, Italů a všeho křesťanského válečného lidu, který by byl v
+poznamky:
+- n: 1
+  text: |-
+    Složka `C`, list 12: Solms zde načrtává projekt protiturecké koalice Moskevského velkoknížectví (*Musca*), Polska, Řádu německých rytířů v Livonsku (*Ifflandt*) a Prusku a Svaté říše. V předposledním slově prvního odstavce tiskařský přepis „ziegen“ (místo *ziehen*), níže nářeční „Hilt“ (*Held* = hrdina).

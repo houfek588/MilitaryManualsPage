@@ -1,0 +1,33 @@
+id: 5-titul
+list: titulní list (5. kniha)
+strana: recto
+sken: 435
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das fünfft Bůch vom Vndergraben.
+    Wie mann ein Festung vndergraben vnd sprengen soll/ mit seinen augenscheinlichen Figuren/ zu besserm vnd nůtzlichem verstandt alles angezeigt.
+  cs: |-
+    Pátá kniha o podkopávání.
+    Jak se má {Festung} podkopávat {vndergraben} a vyhazovat do povětří {sprengen}, s názornými vyobrazeními pro lepší a užitečnější porozumění všemu vyloženo.
+- typ: odstavec
+  de: |-
+    Sampt eim Knappen Register/ da mann vor Sanctesier die Stat sprengen vnd graben wolt/ Anno 1544. Vnd ist Ostwald Nideroff Schreiber darüber gewesen/ etc.
+  cs: |-
+    Spolu s hornickým rejstříkem {Knappen Register}, když se před městem Saint-Dizier {Sanctesier} mělo kopat a vyhazovat do povětří léta 1544; písařem {Schreiber} nad tím byl Ostwald Nideroff atd.
+- typ: obrazek
+  soubor: drevorez-435.jpg
+  popis: |-
+    Dřevořez císařského znaku Karla V. (z téhož štočku jako na titulních listech předchozích knih): uprostřed korunovaný štít s dvouhlavým říšským orlem a habsbursko-španělským srdečním štítkem, obklopený řetězem řádu Zlatého rouna. Po stranách stojí dva korunované Herkulovy sloupy přidržované dvěma okřídlenými putti a ovinuté nápisovou stuhou s císařským heslem „PLVS. – VLTRE“.
+- typ: odstavec
+  de: |-
+    Gedruckt im Jar M. D. Lix.
+  cs: |-
+    Tištěno léta 1559.[^1]
+poznamky:
+- n: 1
+  text: |-
+    Hlavní titulní list Páté knihy z vlastní tiskárny hraběte Reinharda ze Solmsu v Lichi (1559); rubová strana listu (sken 436) je nepotištěná, s pouhým prosvítáním tisku, a proto se v edici vynechává. Erbovní frontispis uvozující Pátou knihu je výjimečně otištěn již na spodní polovině předchozí strany ([[4-023v|sken 434]]).

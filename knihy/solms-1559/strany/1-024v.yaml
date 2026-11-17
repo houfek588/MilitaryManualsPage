@@ -1,0 +1,74 @@
+id: 1-024v
+list: '24'
+strana: verso
+sken: 58
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Zwelff puncten darauß ein Leger geschlagen sein wil.
+  cs: Dvanáct bodů, podle nichž má být rozbito ležení {Leger}.
+- typ: odstavec
+  de: |-
+    Zum ersten wil ein Leger nach fortheil geschlagen sein / das es starck lige / darmit der Feind dasselbig nit wol angreiffen oder vberfallen möge.
+  cs: |-
+    Za prvé: ležení má být rozbito s výhodou tak, aby leželo na pevném místě, aby na ně nepřítel nemohl snadno zaútočit nebo je přepadnout.
+- typ: odstavec
+  de: |-
+    Zum andern das es geschlagen werde nach gelegenheit der Reutter vnd Knecht / ein jedes besonder / nit durch einander souil müglich.
+  cs: |-
+    Za druhé: aby bylo rozbito podle potřeb jízdy {Reutter} a knechtů {Knecht}, každé zvlášť a pokud možno nikoli pomíchaně dohromady.
+- typ: odstavec
+  de: |-
+    Zum dritten das es geschlagen werde / so ein Lermen würd das ein jeder sein Lermenplatz / vnd standt erreichen vnd haben möge.
+  cs: |-
+    Za třetí: aby bylo rozbito tak, aby každý, nastane-li poplach {Lermen}, mohl dosáhnout a zaujmout své poplachové místo {Lermenplatz} a stanoviště.
+- typ: odstavec
+  de: |-
+    Zum vierdten soll ein Leger geschlagen werden geraumb gnůg / das mann die Lermenpletz vnd stend frei haben möge / vnd doch nit weiter dann die notturfft erfordert / damit mann sie verwaren kan.
+  cs: |-
+    Za čtvrté: ležení má být rozbito dostatečně prostorně, aby bylo možno mít poplachová místa a stanoviště volná, a přece ne rozlehleji, než vyžaduje potřeba, aby je bylo možno uhlídat.
+- typ: odstavec
+  de: |-
+    Zum fünfften das darüber die Lermenpletz würden fürgenomen / das mann sie mit dem Geschütz / bestellen vnd verziehen kündt.
+  cs: |-
+    Za páté: aby k tomu byla poplachová místa volena tak, aby je bylo možno osadit a zahradit děly {Geschütz}.
+- typ: odstavec
+  de: |-
+    Zum sechsten ob es sich zutragen würd / durch gelegenheit der Land vnd art / das es Bergig vnd mit gründen geschaffen were / vnd wasserstreme hette / das also das Leger dardurch můst in die vil getheilt vnd geschlagen / so soll die versehung geschehen / das die geschlagen werden / das die Feind nit darzwischen einfallen / vnd ein leger dem andern zu hilff komen möchten.
+  cs: |-
+    Za šesté: stalo-li by se povahou krajiny a půdy, že by byla hornatá, členěná úžlabinami a měla vodní toky, takže by se ležení muselo rozdělit a rozbít na více částí, má být učiněno takové opatření, aby byla rozbita tak, aby mezi ně nepřátelé nemohli vpadnout a jedno ležení mohlo přispět druhému na pomoc.
+- typ: odstavec
+  de: |-
+    Zum sibenden sollen die leger geschlagen werden / das die Reuter in die gründe vnd bei die wasser komen / vnd die Knecht in die höhe an die berg / nechst bei das geschütz / darmit sie das verwachen mögen.
+  cs: |-
+    Za sedmé: ležení mají být rozbita tak, aby jezdci přišli do údolí a k vodám, a knechti na výšiny k horám, hned vedle děl, aby je mohli střežit.
+- typ: odstavec
+  de: |-
+    Zum achten ob sich zutragen würd das die leger also durch die gelegenheit als durch Berg / Thal vnd wasser getheilt stückweiß geschlagen werden musten / soll doch gesechehen das die so es sein kan / mit vorteil bei einander geschlagen werden / das mann die Wacht wol versehen kan / vnnd das die auff einander warten / vnnd mann die mit schantzen vnd vergraben / auch gemachen vnd vergraben / oder verwaren möchte / darmit die Wacht desto baß versehen kündt werden.
+  cs: |-
+    Za osmé: přihodilo-li by se, že by ležení musela být takto podle terénu – horami, údolími a vodami – rozbita rozděleně po částech, má se přece stát[^1], nakolik to bude možné, že budou rozbita s výhodou pohromadě, aby se dala dobře obstarat stráž {Wacht}, aby na sebe vzájemně navazovala a aby je bylo možno šancemi {schantzen} a příkopy také upravit, obkopat či zajistit[^2], aby tak stráž mohla být tím lépe zastávána.
+- typ: odstavec
+  de: |-
+    Zum neunden so die leger also getheilt sein musten / vnd die lermenpletz dergleichen / das als dann das Geschütz würd darauff gestelt vnd gezogen / daß es keinem andern lermenplatz noch standt schaden künd.
+  cs: |-
+    Za deváté: musela-li by být ležení takto rozdělena, a poplachová místa rovněž, pak mají být děla na ně postavena a natažena tak, aby nemohla škodit žádnému jinému poplachovému místu ani stanovišti.
+- typ: odstavec
+  de: |-
+    Zum zehenden das die leger geschlagen würden / das geraume gassen dardurch gehen möchten / wann lermen würd / das mann bald zusamen vnd auß den legern komen möcht / deßgleichen ist es auch gůt / so ein leger brennen würd.
+  cs: |-
+    Za desáté: aby ležení byla rozbita tak, aby jimi procházely prostorné uličky, aby se při poplachu dalo rychle shromáždit a vyrazit z ležení; stejně tak je to dobré i tehdy, kdyby v ležení vypukl požár.
+- typ: odstavec
+  de: |-
+    Zum eilfften das die vberig Artolorei oder Büchsen / so nicht in den Schantzen auff den lermenpletzen stehen würden / bei dem leger jhren eigen freinen standt / mit sampt zugehöriger Munition vnd alle Rüstung darzu haben möchten / vnd die sollen vergraben vnd verwacht werden.
+  cs: |-
+    Za jedenácté: aby zbývající dělostřelectvo {Artolorei} či děla {Büchsen}, která nebudou stát v šancích na poplachových místech, měla u ležení své vlastní volné[^3] stanoviště spolu s příslušnou municí {Munition} a veškerou výzbrojí {Rüstung} k tomu; a ta mají být obkopána příkopem a střežena.
+poznamky:
+- n: 1
+  text: V tisku odchylný pravopis *gesechehen* místo *geschehen*.
+- n: 2
+  text: |-
+    Něm. *auch gemachen vnd vergraben* – zřejmě „zřídit a obkopat“ (*gemachen* = *machen*), případně tiskařská záměna za *vermachen* („zahradit, ohradit“).
+- n: 3
+  text: V tisku *freinen standt* místo *freien standt*.

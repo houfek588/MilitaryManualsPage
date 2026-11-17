@@ -1,0 +1,124 @@
+id: 3-042r
+list: '42'
+strana: recto
+sken: 335
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd bindts hinden auff des pfeils plotz/ zints an/ scheuß dann in deiner Feinde häusser/ vnd wo der pfeil an holtz geschossen wirt/ das brennt alles fast vnd gewaltiglich.
+  cs: |-
+    a přivaž je zezadu na šípový dřík,[^1] zapal to, pak střel do domů svých nepřátel – a kdekoli se šíp zabodne do dřeva, vše to hoří silně a mocně.
+- typ: nadpis
+  uroven: 3
+  de: Wilt du machen das Feur von feuchtigkeit vnd Regen sich anzindt.
+  cs: Chceš-li udělat, aby se oheň vznítil od vlhkosti a deště.
+- typ: odstavec
+  de: |-
+    SO nim lebendigen Kalch/ Gummi Arabicum/ albe aloe/ vnd lebendigen Schwefel jedes gleich vil/ reib die zu einem Puluer vnder einander/ bints dann in ein leynen Tůch vnnd werff es auff deiner Feinde dach/ so zindt es sich von Regen an vnd brennt sehr/ vnd erlescht nit von wasser/ wilt du aber daß es zu handt anzinde/ so thů den halben theil am gewicht des Kalchs zu dem obgenanten Puluer.
+  cs: |-
+    Vezmi tedy živé vápno, arabskou klovatinu (*Gummi Arabicum*), bílou aloi (*albe aloe*) a živou síru, všeho stejně mnoho; utři je v prášek dohromady, pak je zavaž do lněného plátna a hoď na střechu svých nepřátel – vznítí se od deště, prudce hoří a vodou nezhasne. Chceš-li však, aby se vznítil ihned, přidej k výše uvedenému prášku polovinu váhy vápna.
+- typ: nadpis
+  uroven: 3
+  de: Wiltu Feur machen vber acht tag/ Das best so mann gehaben mag.
+  cs: Chceš-li udělat oheň na osmý den, nejlepší, jaký se jen dá získat.
+- typ: verse
+  de:
+  - NIm haselwurtz/ Mirren/ hensch/ Tann koln/
+  - Das stoß vnder einander wol/
+  - Im digel solt wachs zerlassen/
+  - Diß puluer drein schüt zu massen/
+  - Ein Fadem soltu darduch winden/
+  - Vnd an einen stecken binden/
+  - Wart was die glock geschlagen hab/
+  - Zints an vnd blaß es wider ab/
+  - Lug wies ein stundt geschmoltzen sei/
+  - Das maß nim vnd meß darbei/
+  - Vnd zeichen das von stundt zu stundt/
+  - Daß dir das maß gar wol sie kundt/
+  - Wann du dann gern Feur wilt haben/
+  - Soltu Schwefel darauff schaben/
+  - So brennt es wider klar vnnd hell/
+  - Also hastu ein Feur gar schnell/
+  - Bintzen mit Salpeter sieden sol/
+  - Das wirt dörr vnd gůt brennt auch wol/
+  - Die gůten Lieder macht mann drauß/
+  - Damit verbrennt mann manches Hauß.
+  cs:
+  - Vezmi kopytník, myrhu, henš (*hensch*)[^2] i jedlové uhlí,
+  - to vše tluč spolu, až se dobře smísí,
+  - v kelímku máš rozpustit vosk,
+  - ten prášek do něj přisypej s mírou,
+  - nit máš tím protáhnout[^3]
+  - a přivázat ji na hůlku.
+  - Vyčkej, co udeřila hodina,
+  - zapal ji a zase sfoukni,
+  - podívej se, jak za hodinu odtála,
+  - vezmi tu míru a podle ní měř,
+  - a vyznač to od hodiny k hodině,
+  - ať je ti ta míra dobře známa.[^4]
+  - Když pak budeš chtít mít oheň,
+  - máš na ni naškrábat síru,
+  - tak hoří zase jasně a světle,
+  - a tím máš oheň velmi rychle.
+  - Sítinu vařit v ledku {Salpeter} máš,
+  - ta dobře vyschne a hoří též dobře;
+  - dobré svíce se z toho dělají,[^5]
+  - jimiž se spálí nejeden dům.
+- typ: nadpis
+  uroven: 3
+  de: Der sinn in disem blat ist gůt/ So mann feur in Stat werffen thůt.
+  cs: Návod na tomto listu je dobrý, když se oheň do města vrhá.
+- typ: verse
+  de:
+  - HIerinn solle gehören wol/
+  - Ein dicke stang dardurch thůn soll/
+  - Zeug sie nider in den nagel/
+  - Lad sie wie mann thůt dem Hagel/
+  - Dann zeug den nagel wider auß/
+  - Vnd laß sie werffen in das Hauß/
+  - Das schlingen seil soll sein so lang/
+  - Das die schling vnden ans garn gang/
+  - Netze die schling wol vnd eben/
+  - Daß der ball nit muß dran kleben/
+  - Dann fert sie an Maur oder wandt/
+  - Da klebs brent grimiglich zuhandt/
+  - Mach ein secklin einer faust groß/
+  - Büchsenpuluer darinne stoß/
+  - Drei pfundt wachs eins bulhartz zerlaß/
+  - Das secklin schwem
+  cs:
+  - Zde k tomu náležet má,
+  - silná tyč se tím prostrčit dá,
+  - zatáhni ji dolů až k hřebu,
+  - nabij ji, jak se dělá kartáči {Hagel};
+  - pak vytáhni hřeb zase ven
+  - a nech ji vrhnout na ten dům.
+  - Prakové lano má být tak dlouhé,
+  - aby smyčka dole až na síťku sahala;
+  - namoč tu smyčku dobře a zrovna,
+  - aby na ní koule nemusela ulpět,
+  - pak letí na zeď nebo stěnu,
+  - tam ulpí a hoří vztekle hned.
+  - Udělej váček velký jako pěst,
+  - dělového střelného prachu {Büchsenpuluer} do něj napěchuj,
+  - |-
+    tři libry {pfundt} vosku a jednu borové pryskyřice (*bulhartz*) rozpusť,
+  - váček vykoupej
+poznamky:
+- n: 1
+  text: |-
+    V tisku *plotz* – zřejmě nářeční obměna nebo překlep za *Boltz / Klotz* (silný dřík či špalek šípu).
+- n: 2
+  text: |-
+    *Hensch* – nejasná dobová rostlina v receptáři (snad konopí, *Hanf*, nebo blín, *Bilsenkraut*).
+- n: 3
+  text: |-
+    V tisku vypadlé *-r-* ve slově *darduch* místo *dardurch* („tím / skrz to“).
+- n: 4
+  text: V tisku přesmyčka *sie* místo *sei* („budiž / ať je“).
+- n: 5
+  text: |-
+    V tisku stojí *Lieder* („písně“), zjevná sazečská záměna za *Liechter* („svíce, pochodně“).

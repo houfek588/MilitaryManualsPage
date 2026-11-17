@@ -1,0 +1,55 @@
+id: 3-017r
+list: '17'
+strana: recto
+sken: 285
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    des vbrigen kostens vnnd mühe aller enthaben / kennest du aber den zeug / weist jm seine rechte theilung zugeben / so were mein Herr des aller ab / liß machen daß sie ein recht form / maß vnd gestalt hett / wüst also vil mehr kunst bei dir / hett dir das zuuertrawen vnd zubeuelhen / wie du hörst auß obgemelten vrsachen. Spricht er : Ja ich verstehe mich des zeugs ob er gůt oder böß ist / so kan ich auch ein stück reissen / vnd jm sein theilung geben / so laß jn ein Scharpffmetz / Cartaun / Notschlang vnd Mörser reissen / einer jeden gattung eine daran wirt mann sehen was er kan / Deßgleichen soll mann auch den bericht des vnderscheids des gůten vnd bösen zeugs von jm nemen / kan er dise stück / so ist er ein meister in den stücken / dann es ist ein meister stück / vnd nit das geringst auff der Büchsenmeisterei.
+  cs: |-
+    všech těch nadbytečných nákladů a námahy zproštěn; znáš-li však kovinu a umíš jí dát její správné rozdělení, byl by toho můj pán všeho ušetřen, nechal by ji udělat tak, aby měla správný tvar, míru i podobu, věděl by u tebe o mnohem větším umění a mohl by ti to svěřit a poručit, jak slyšíš z uvedených příčin.“ Řekne-li: „Ano, vyznám se v kovině, zda je dobrá nebo špatná, a umím také narýsovat kus {stück} a dát mu jeho rozdělení,“ tedy jej nech narýsovat šarfmerci {Scharpffmetz}, kartounu {Cartaun}, těžkou kulverinu {Notschlang} a moždíř {Mörser}, z každého druhu po jednom – na tom se ukáže, co umí. Stejně tak si od něj vyžádej zprávu o rozdílu mezi dobrou a špatnou kovinou; umí-li tyto věci, je v nich mistrem, neboť to je mistrovský kus a není to to nejmenší v puškařském umění.
+- typ: odstavec
+  de: |-
+    Der 6. spricht er / Er kündt büchsen fassen mit seiner eigen handt / sei ein Zimmerman oder Schreiner / so ists gůt. Spricht er : Ich bin ein Schmidt oder Schlosser / kan sie beschlagen wan das holtzwerck gemacht ist / wer auch gůt. Spricht er : Ich bin ein Wagner / kan die Räder machen ist gůt / spricht er aber : Ich kan der Handtwercker keins / ich weiß aber die zureissen vnd anzugeben / So laß jn eins reissen mit seinen rechten massen / kan er dann das ist auch gůt / Welchs er vnder disen stücken kan ist ein meisterstück / gehört in ein Zeughauß.
+  cs: |-
+    6., řekne-li: „Umím děla {büchsen} vlastní rukou vsazovat do lafet, jsem tesař nebo truhlář,“ je to dobré. Řekne-li: „Jsem kovář nebo zámečník, umím je okovat, když je udělané dřevo,“ bylo by to také dobré. Řekne-li: „Jsem kolář, umím dělat kola,“ je to dobré. Řekne-li však: „Neumím žádné z těchto řemesel, ale umím je narýsovat a zadat,“ tedy ho nech jedno narýsovat s jeho správnými mírami; umí-li to, je to také dobré. Kterékoli z těchto umění ovládá, je mistrovský kus a patří do zbrojnice {Zeughauß}.
+- typ: odstavec
+  de: |-
+    Der 7. Artickel spricht er / er wiß das zu ordnen / so laß jhn ein stück anzeigen oder sehn / sag jm die schwere der büchsen vnd kogeln / laß jn theiln vnd ordnen / triffters so ists warlich ein gůt stück / dienen eim Herrn zu seinem Zeughauß sehr wol.
+  cs: |-
+    7. článek: řekne-li, že to umí uspořádat, nechť tedy ukáže či předvede nějaký kus, pověz mu váhu děla a koulí {kogeln} a nech jej to rozpočítat a uspořádat; trefí-li to, je to vskutku dobrý kousek a pánovi do jeho zbrojnice velmi dobře poslouží.
+- typ: odstavec
+  de: |-
+    Der 8. Artickel spricht er / er wiß die vngerade wol zufinden / sol ers durch ein gerissen figur anzeigen oder mit eim schrifftlichen bericht.
+  cs: |-
+    8. článek: řekne-li, že umí dobře nalézt nerovnost [vývrtu], má to ukázat na narýsovaném obrázku nebo písemným výkladem.
+- typ: odstavec
+  de: |-
+    Der 9. Artickel versteht er den / so ler ein Rad in seine theilung vff alle ort reissen / daß mann das rad / die speichen / vnd naben sehn kan / wie innen vnd aussen die gesteck stecken vnd gestempt sind / kan er das so ists auch ein meisterstück.
+  cs: |-
+    9. článek: rozumí-li mu, nechť tedy narýsuje[^1] kolo v jeho rozdělení ze všech stran, aby bylo vidět kolo, loukotě a náboj i jak jsou uvnitř i vně zapuštěny a zadlabány čepy;[^2] umí-li to, je to také mistrovský kus.
+- typ: odstavec
+  de: |-
+    Der 10. Artickel spricht er / er wisse sie zu machen / soll er eine oder zwo reissen dan jr mehr als einerlei ist / reist er die so ists ein werckstück.
+  cs: |-
+    10. článek: řekne-li, že je umí dělat, má narýsovat jedno nebo dvě [kotoučová kola], neboť je jich více druhů; narýsuje-li je, je to mistrovské dílo.
+- typ: odstavec
+  de: |-
+    Der 11. artickel spricht er daß er jn verstehe / soll er eine reissen vnd in grundt legen in sein rechte weite / leng vnd höhe / darnach auch die Räder so zu einem solchen wagen gehörn / dan sie haben ein besonder maß trifft er das / so besteht er auch mit eim Werckstück.
+  cs: |-
+    11. článek: řekne-li, že mu rozumí, má jeden [plošinový vůz] narýsovat a položit do půdorysu v jeho správné šířce, délce a výšce a podle toho i kola, jež k takovému vozu náležejí, neboť mají zvláštní míru; trefí-li to, obstojí rovněž s mistrovským dílem.
+- typ: odstavec
+  de: |-
+    Der 12. Artickel versteht er mit den hohen zügen / ist wol etwas / mann soll jhn die reissen lassen / besehn vnd warten wie er die theilt zu grossen vnd klein stücken / wann er wolt zum kleinen stück die halben züg machen wie zum grossen / wer nichts / ob er schon kleiner macht / vnd
+  cs: |-
+    12. článek: rozumí-li vysokým kladkostrojům {hohen zügen}, je to zajisté něco; má se nechat, aby je narýsoval, a má se prohlédnout a sledovat, jak je rozvrhuje pro velké a malé kusy. Kdyby chtěl k malému kusu dělat poloviční kladkostroje stejně jako k velkému, nestálo by to za nic, i kdyby je dělal menší a
+poznamky:
+- n: 1
+  text: |-
+    V tisku „so ler“ – patrně tiskařská chyba místo *so sol er*.
+- n: 2
+  text: |-
+    Něm. *die gesteck* – čepy a zářezy loukotí a paprsků (*Speichen*) v náboji a věnci kola (*gestempt* – zadlabány/zaklínovány).

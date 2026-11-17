@@ -1,0 +1,70 @@
+id: 3-056v
+list: '56'
+strana: verso
+sken: 364
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    zusamen / so istes wol bereit / vnd wiltu es gar starck machen / so thů Arsenicum / Mercurium vnd Kampffer jeglichs 1. lot darzů.
+  cs: |-
+    dohromady, a tak jest dobře připraven; a chceš-li jej učinit velmi silným, přidej po 1 lotu {lot} arzeniku (*Arsenicum*), rtuti (*Mercurium*) a kafru.
+- typ: nadpis
+  uroven: 3
+  de: Wie man das Büchsen Puluer versuchen soll.
+  cs: Jak se má zkoušet střelný prach {Büchsen Puluer}
+- typ: odstavec
+  de: |-
+    WO der zeug nit recht gewegen / vnd des Kols / Schwefels oder Salpeters zuuil were / wenn mann das versuchen wil / so brenn das Puluer auff einem stein / bleibt etwas da das ist nit rein / wann rot oder weiß kernlin da sind / so ist des Salpeters zuuil da bei / ist aber zuuil Schwefels alda / so brentes langsam darnach / es sei denn ein gepreste schwer / das der schwefel nit wol gestossen wer / vnd wo zuuil ist des kols / so ligt es alweg ruß vol.
+  cs: |-
+    Nebyla-li látka správně odvážena a bylo-li příliš mnoho dřevěného uhlí {Kols}, síry {Schwefels} nebo ledku {Salpeters}, tehdy chceš-li střelný prach {Puluer} vyzkoušet, zapal jej na kameni:[^1] zůstane-li tam něco, není čistý; jsou-li tam červená nebo bílá zrníčka, je v něm příliš mnoho ledku; je-li tam však příliš mnoho síry, hoří poté pomalu, ledaže by byla chyba v tom,[^2] že síra nebyla dobře utlučena; a kde je příliš mnoho uhlí, tam leží vždy plno sazí.
+- typ: nadpis
+  uroven: 3
+  de: wiltu gůt Puluer machen.
+  cs: Chceš-li dělat dobrý střelný prach
+- typ: odstavec
+  de: |-
+    So hůt dich vor dem Kolen / der mit wasser geleschet ist.
+  cs: |-
+    Chraň se tedy uhlí, které bylo uhašeno vodou.
+- typ: nadpis
+  uroven: 3
+  de: Ein Puluer zumachen on Salpeter vnnd Schwefel.
+  cs: Jak dělat střelný prach bez ledku a síry
+- typ: odstavec
+  de: |-
+    SO nim Quecksilber Bilsensamen vnd Koln / das stoß alles vntereinander wol / vnd thů es in ein Büchsen / so schlechts hart / vnd scheust doch nit als ferr: wie ander Puluer.
+  cs: |-
+    Vezmi tedy rtuť, semeno blínu (*Bilsensamen*)[^3] a uhlí, vše to spolu dobře utluč a dej do děla {Büchsen}; tak udeří prudce, nestřílí však tak daleko jako jiný prach.
+- typ: nadpis
+  uroven: 3
+  de: Das aller best Puluer zumachen / das jemants gemachen mag.
+  cs: Jak dělat ten nejlepší střelný prach, jaký jen kdo dokáže vyrobit
+- typ: odstavec
+  de: |-
+    NIm drithalb Centner Salpeter / 1. Centner schwefels / vnd stoß das vntereinander / wige es dann auß mit einer wag / vnd nim alwegen den achten theil Alberkolen / den dreissigsten theil Salis Armoniac vnd stoß dise vntereinander / nim je zu 30. pfundt zeugs als vor 3. lot De Mercurio Sublimato / ein lot Kampfer / vnd Arsenicum 5. lot / thů das alles vntereinander / wige es dann auß mit der Wag in ein Mörser / vnnd thů Salpeter wasser darzů ein wenig / stoß es damit ab / du solt der stück keins redten / sonder das Puluer in Kolen lassen / vnnd solt es gar wol dörren / vnnd wann du den Salpeter. wol leuterst / vnd die stück gůt sind / so verdirbet das Puluer nimmer mehr.
+  cs: |-
+    Vezmi půl třetího centu {Centner} ledku a 1 cent síry, utluč to dohromady a odvaž pak na váze; k tomu vezmi vždy osmý díl topolového uhlí (*Alberkolen*)[^4] a třicátý díl salmiaku (*Salis Armoniac*) a utluč je dohromady. Vezmi vždy na 30 liber {pfundt} látky tak jako výše 3 loty sublimované rtuti (*De Mercurio Sublimato*), jeden lot kafru a 5 lotů arzeniku; dej to vše dohromady, odvaž na váze do hmoždíře a přidej k tomu trochu ledkové vody, aby se to dobře utlouklo. Žádnou z těch přísad nemáš prosívat,[^5] nýbrž máš prach ponechat s uhlím a velmi dobře jej usušit; a přečistíš-li dobře ledek a jsou-li přísady dobré, pak se ten prach nikdy nezkazí.
+- typ: odstavec
+  de: |-
+    Item es geschicht zum dicker mal daß das Puluer von alter böß /
+  cs: |-
+    Dále se mnohdy stává, že se střelný prach stářím zkazí
+poznamky:
+- n: 1
+  text: |-
+    BSB OCR zde chybně četlo *brest* místo *breñ* (*brenn*) a v dalším odstavci *fer ?* místo *ferr:* (dvojtečka za starším *rꝛ*), jakož i *FIndrithalb* místo ozdobné iniciály *NIm drithalb* a *after bdf* místo *alter böß*.
+- n: 2
+  text: |-
+    Tisk má tvar *ein gepreste schwer* místo *ein gebresten wer* („nebyla-li by závada / vada v tom“).
+- n: 3
+  text: |-
+    *Bilsensamen* – semena blínu černého (*Hyoscyamus niger*).
+- n: 4
+  text: |-
+    *Alberkolen* – dřevěné uhlí z topolu (*Alberbaum*).
+- n: 5
+  text: |-
+    Sloveso *redten* (*räden* / *reden*) znamená v raně novohorní němčině prosívat přes síto; *in Kolen lassen* pak ponechat směs celistvou i s uhlím bez prosívání jednotlivých složek.

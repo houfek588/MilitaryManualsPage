@@ -1,0 +1,36 @@
+id: 1-012v
+list: '12'
+strana: verso
+sken: 34
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    oder Dörffern / wo sie ligen werden / einiger gewalt noch vberlast widerfare.
+  cs: ani ve vsích, kde budou ležet, nebylo činěno žádné násilí ani útisk.
+- typ: odstavec
+  de: |-
+    Also sollen die Reuter im Regiment ziehen / dieweil sie bezalt vnd in der Hauptbesoldung seind / biß in das Leger / da sollen sie dann dem Feldobersten vberlieffert vnd zugestelt werden.
+  cs: |-
+    Takto mají jezdci {Reuter} táhnout v kázni {Regiment}, poněvadž jsou placeni a v hlavním žoldu, až do ležení {Leger}, kde mají být předáni a odevzdáni nejvyššímu polnímu hejtmanovi {Feldobersten}.
+- typ: odstavec
+  de: |-
+    Vnd so dann alle hauffen zu Roß vnd fůß in das Feldleger zusamen komen / so soll der Kriegßherr / oder in seinem abwesen sein Feldoberster / alle Obersten vnnd Ritmeister / von allen Nationen bei einander fordern / die zu rath nidersetzen / vnd anzeigen sie sehen das jhr Herr ein schweren Krieg vorhabe vnd füren můß / vnd von allen Nationen volck habe der Krieg sich auch in die harr oder lenge ziehen möchte / derhalben so wölle ein Ordnung fürgenomen / darmit solches Kriegßuolck in friden vnnd einigkeit / durch ein gleiche Justitien / gůte Pollicei vnd Kriegßordnung möge erhalten werden / Darumb sei sein begeren / sie wöllen in dem thůn wie die Kriegßuerstendigen / vnd auff der vertrawen / so er zu jn habe / nach gůtem Regiment in allem jhre gůte bedencken vnd rath mittheilen / solche regirung in ein ordentlich beschreibung stellen / darmit sie dem Herrn in dem / vnd für dem Kriegßuolck / desto bessere regirung helffen halten mögen / darmit alle sachen desto gehorsamer vnd statlicher möchten vorgenomen vnnd gehandelt werden / vnd zu gůtem glücklichen sig vnd ehrn geraten / Darauff so soll der Kriegßherr Artickel gestelt haben / was er gern beratschlagt vnd geordnet hette / dieselbige jnen vbergeben / vnd an sie begeren / die zu vbersehen / nach aller notturfft erwegen / was sie dann darinen fehl oder mangel haben werden / oder zuuerbessern wissen / das sie dasselbig thůn wöllen / jme dem Kriegßherrn als dann wider zustellen / so wölle er dasselbig besichtigen / vnd sich dessen weiter mit jnen vergleichen vnnd beschliessen / auch als dann mit jhnen solchs fürt regiren.
+  cs: |-
+    A jakmile se pak všechny houfy {hauffen} na koni i pěšky shromáždí v polním ležení {Feldleger}, má válečný pán {Kriegßherr}, nebo v jeho nepřítomnosti jeho nejvyšší polní hejtman, svolat dohromady všechny plukovníky {Obersten} a rytmistry {Ritmeister} ze všech národů, posadit je k radě a oznámit jim, že vidí, jak těžkou válku má jejich pán před sebou a musí ji vést, a že má lid ze všech národů, a válka by se také mohla protáhnout na dlouhý čas. Proto je třeba přijmout řád, aby takový válečný lid {Kriegßuolck} mohl být udržen v míru a svornosti skrze rovnou spravedlnost {Justitien}, dobrý veřejný řád {Pollicei} a válečný řád; žádá je tedy, aby v tom jednali jako znalci války a na základě důvěry,[^1] kterou k nim chová, aby v duchu dobrého řádu sdělili ve všem své dobré mínění a radu a takovou správu sepsali do řádného ustanovení, aby tak pánovi v této věci i před válečným lidem pomohli udržovat tím lepší vládu, aby všechny záležitosti mohly být podnikány a vyřizovány tím poslušněji a důstojněji a vedly k dobrému šťastnému vítězství a cti. Nato má mít válečný pán sepsané články o tom, co by rád dal projednat a nařídit, má jim je odevzdat a požádat je, aby je přehlédli a podle veškeré potřeby zvážili; a jakou chybu či nedostatek v nich shledají nebo co by dokázali vylepšit, aby tak učinili a potom je jemu, válečnému pánovi, opět vrátili, že si je prohlédne, dále se s nimi na tom shodne a usnese a pak podle toho s nimi bude dále vládnout.
+- typ: odstavec
+  de: |-
+    So ein Herr solches thůn wirt vnd also mit jnen schliessen / so müssen sie es dann helffen halten vnnd handthaben / als jren eigen rath / vnnd gůt bedencken / Also hat ein Herr sie gefast / darumb so soll er vil gůter Adellicher vnd andere ehrliche Leut darbei nemen / vnd sie also fahen / an solchem thůt ein Herr jnen wol / vnd zeugt ein Herr gůte Leut darmit / vnd macht ein zucht vnd gehorsam.
+  cs: |-
+    Učiní-li to pán takto a tak se s nimi usnese, pak to budou muset pomáhat zachovávat a prosazovat jako svou vlastní radu a své vlastní dobré uvážení. Tím si je pán zaváže; proto má k tomu přibrat mnoho dobrých šlechtických i jiných čestných lidí a takto si je připoutat – tím jim pán prokáže dobro, vychová si tím dobré lidi a zjedná kázeň a poslušnost.
+- typ: odstavec
+  de: |-
+    Vnd so dann der Kriegßherr sich also mit jnen / der Kriegßregirung vnd Ordnung beschlossen / so soll er sie wider nider setzen / vnd jnen solche regirung zuuerwalten mit beisetzung jhres Raths vnd hilff des Feldmarschalcks / so offt er sie zu jm erfordern werde zugehorsamen vnd bei zustehen / das wölle er jnen wie den Kriegs vnd
+  cs: |-
+    A když se pak válečný pán takto s nimi usnese na válečné správě a řádu, má je opět posadit a uložit jim, aby tuto správu vykonávali s přispěním své rady a s pomocí polního maršálka {Feldmarschalcks}, aby jej poslouchali a stáli při něm, kdykoli je k sobě povolá; toto vše že chce svěřit,
+poznamky:
+- n: 1
+  text: |-
+    V tisku stojí *auff der vertrawen* (rodová odchylka za *auff das vertrawen*).

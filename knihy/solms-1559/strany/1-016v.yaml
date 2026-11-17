@@ -1,0 +1,32 @@
+id: 1-016v
+list: '16'
+strana: verso
+sken: 42
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mittel / vnd were das mein bedencken eines mittels / Daß der Feldoberst mit andern seinen Beuelchßleuten / was stants die weren / hetten vnder jnen ein Ordnung vnd maß gesetzt / welcher bei Gottes lesterung schwere / daß derselbig solt ein anzal gelts geben / vnd setzen des die summa / darnach die schwör vnd flůch groß oder klein weren / vnd verpflichten sich bei handtrew / welcher darinn brüchtig würde / solch summ wie die gesetzt vnd geordnet wirt / gůtwillig on wegerung geben vnd solchs verwirckt oder gefallen gelt / inn einen gemeinen Spittal den krancken / armen Knechten oder Kriegßuolck zuerhalten geben würde / So künden die Hauptleut solchs vnder den Knechten es were zu roß oder fůß / auch auffrichten vnd halten / so würde es mit der zeit in ein gewonheit vnd gebrauch komen / dann es wills zum ersten mit der geschwindigkeit nicht thůn / aber einer der sich des trützlich fleissen wirt / stelle man vor Recht / vnd laß jm gedeien was das Recht darüber geben wirt.
+  cs: |-
+    prostředek, a moje úvaha o takovém prostředku by byla tato: Aby nejvyšší polní hejtman {Feldoberst} s ostatními svými veliteli {Beuelchßleuten}, jakéhokoli jsou stavu, ustanovil mezi sebou řád a pravidlo, že kdo by přísahal s rouháním Bohu, musí zaplatit určitou částku peněz, přičemž výši sumy by stanovili podle toho, zda by kletby a přísahy byly veliké nebo malé; a zavázali by se podáním ruky, že kdo se v tom proviní, dá ochotně a bez zpěčování takovou sumu, jak je ustanovena a nařízena, a takto propadlé či uložené peníze se odevzdají do obecného špitálu na vydržování nemocných a chudých knechtů {Knechten} či válečného lidu {Kriegßuolck}. Totéž by pak mohli hejtmani {Hauptleut} zavést a udržovat i mezi knechty na koni či pěšky, takže by to časem přešlo ve zvyk a obyčej – neboť zpočátku to nepůjde násilným spěchem; kdo by se toho však dopouštěl vzdorně a zpupně, toho nechť postaví před soud {Recht} a dají mu zakusit to, co mu soud za to vyměří.
+- typ: odstavec
+  de: |-
+    Dann fürwar solches will von den Hauptern angefangen werden / so werden sie des bei dem gemeinen hauffen volg haben / vnd künden straffen / vnnd Gott seine gnad geben / daß sollicher böser gebrauch der Gottes lesterung abgehn würde / dann were zuuerhoffen Gott solt mehr glück vnd sieg geben / So haben wir Christen ein waren ewigen gewissen Gott / der vns mit seinem bitter leiden vnd blůt vergiessung schwerlich vnd schmerzlich erlöst hat / demselbigen thůn wir nit allein kein ehr an / noch bitten jn in vnsern Kriegßhandlungen / sonder wir schwechen / lestern vnd verschwern jn mit auffhebung vnd vbel gedencken seiner Göttlichen gnaden vnd leidens / welchs die Heiden nie gethan / sonder jre Teufflische Abgötter so hoch geehret vnd darüber gehalten.
+  cs: |-
+    Neboť vskutku s tím musí začít velitelé; pak je v tom bude následovat i prostý houf {hauffen}, budou moci trestat a Bůh dá svou milost, aby takový zlý zvyk rouhání Bohu vymizel – a pak by bylo lze doufat, že Bůh udělí více štěstí a vítězství. Vždyť my křesťané máme pravého, věčného a jistého Boha, který nás svým hořkým utrpením a prolitím krve těžce a bolestně vykoupil; a my mu nejenže neprokazujeme žádnou čest ani jej ve svých válečných podnicích nevzýváme, nýbrž jej tupíme, rouháme se mu a zlehčujeme jej tím, že si zlomyslně a neuctivě bereme do úst jeho božskou milost a utrpení – což pohané nikdy nečinili, nýbrž své ďábelské modly tak vysoce ctili a drželi nad nimi ochrannou ruku.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Hie volgen Zeugnus der heiligen Schrifft des alten vnd newen Testaments.
+  cs: Zde následují svědectví Písma svatého Starého i Nového zákona.
+- typ: odstavec
+  de: |-
+    WIewol wir Teutschen vnns des Euangelij vnd der heiligen Schrifft erfarung sonderlich rhůmen / vnnd alle mißbreuch durch vnsere Predicanten straffen vnnd abstellen / will doch keiner dahin gerathen / der das ander Gebot der ersten Tafeln beschirmen oder vertheidigen will / damit das grawsam laster als flůchen vnnd
+  cs: |-
+    Ačkoli se my Němci obzvláště chlubíme evangeliem a znalostí Písma svatého a všechny nešvary skrze své kazatele káráme a odstraňujeme, přece se nikdo nechce odhodlat k tomu, aby hájil a bránil druhé přikázání první desky,[^1] aby tak byla odstraněna a potlačena ta ukrutná neřest, totiž klení a
+poznamky:
+- n: 1
+  text: |-
+    V tradičním členění Desatera (které Solms zde i v citátech na listu `1-018v` sleduje) tvoří první desku přikázání o povinnostech k Bohu, přičemž druhé přikázání zní: „Nevezmeš jména Hospodina, Boha svého, nadarmo“ (Ex 20,7).

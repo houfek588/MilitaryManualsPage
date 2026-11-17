@@ -1,0 +1,150 @@
+id: 3-024v
+list: '24'
+strana: verso
+sken: 300
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Soll auch schiessen ein eysene kugel / die schwer sei 45. pfundt.
+  cs: |-
+    Má také střílet železnou kouli {kugel} o váze 45 liber {pfundt}.
+- typ: odstavec
+  de: |-
+    Wann dann die 8. Cartaunen mit 100. jrer kugeln vnd so schwer puluers / sampt anderer zugehörung ins feld gefürt / bedarff mann wie nachuolgt.
+  cs: |-
+    Když se tedy těchto 8 kartoun {Cartaunen} vypraví do pole se 100 jejich koulí a stejně těžkým množstvím střelného prachu {puluers} spolu s dalším příslušenstvím, je zapotřebí to, co následuje:
+- typ: odstavec
+  de: |-
+    Die 8. Büchsen bedörffen für jr selbs schwere wagen 8.
+  cs: |-
+    Těchto 8 děl {Büchsen} potřebuje pro svou vlastní tíhu 8 vozů.
+- typ: odstavec
+  de: |-
+    Vnd für jeden wagen eim Roß drithalben Centner zuziehen aufferlegt fürzuspannen 20. pferdt / thůt für die 8. wagen / Zugpferdt 160.
+  cs: |-
+    A naloží-li se před každý vůz jednomu koni k tažení půltřetího centu {Centner}, vychází zapřáhnout 20 koní, což za těch 8 vozů činí 160 tažných koní {Zugpferdt}.
+- typ: odstavec
+  de: |-
+    Darzů jedem stück sein besonder war / gefäß vnd fuer / deren ein 4. Roß / thůt Zugpferdt 32.
+  cs: |-
+    K tomu ke každému kusu jeho zvláštní výstroj[?],[^1] lafeta {gefäß} a potah, před každou z nich 4 koně, což činí 32 tažných koní.
+- typ: odstavec
+  de: |-
+    So wigen die 800. Kugeln an eysen 360. Centner / darzů gehörn Wagen 12.
+  cs: |-
+    800 koulí tedy váží na železe 360 centů, k čemuž náleží 12 vozů.
+- typ: odstavec
+  de: |-
+    Gebürn also den 8. wagen 67. vnd den viern 66. kugeln vffzuladen.
+  cs: |-
+    Přísluší tedy naložit na 8 vozů po 67 koulích a na čtyři po 66 koulích.
+- typ: odstavec
+  de: |-
+    Vnd für der wagen einn auch 4. starck pferdt / thůt auff die acht wagen Pferdt 32.
+  cs: |-
+    A před každý z těchto vozů rovněž 4 silné koně, což na „těch osm vozů“ činí 32 koní.[^2]
+- typ: odstavec
+  de: |-
+    So nun gemelter 800. kugeln gleich schwer puluers auch mit gefürt wirt / das thůt 360. Centner / darzů gehören abermals wagen 12.
+  cs: |-
+    Veze-li se tedy s sebou také stejně těžké množství prachu jako zmíněných 800 koulí, činí to 360 centů, k čemuž opět náleží 12 vozů.
+- typ: odstavec
+  de: |-
+    Vnd für der jeden 4. Roß / thůt auch Zugpferdt 32.
+  cs: |-
+    A před každý z nich 4 koně, což opět činí 32 tažných koní.[^2]
+- typ: odstavec
+  de: |-
+    Es gehören auch zu den 8. stücken 3. Züg / doch nur von 8. scheyben vnd einem wendtscheyblin doppel eingezogen.
+  cs: |-
+    K těmto 8 kusům rovněž náležejí 3 kladkostroje, avšak jen s kladnicemi o 8 kotoučích a s jedním otočným kotoučkem, dvojitě navlečené.
+- typ: odstavec
+  de: |-
+    Zu disen 3. Zügen sampt jhren zugehörungen / bedarff mann auch wagen 3.
+  cs: |-
+    K těmto 3 kladkostrojům spolu s jejich příslušenstvím je třeba rovněž 3 vozů.
+- typ: odstavec
+  de: |-
+    Vnd daruor zusetzen alweg eim wagen 4. Pferdt / thůt Zugpferdt 12.
+  cs: |-
+    A před každý vůz zapřáhnout vždy 4 koně, což činí 12 tažných koní.
+- typ: odstavec
+  de: |-
+    Deßgleichen jedes stück soll haben sein eigene Ladschauffel / vnd 3. plechen büchsen. Also werden in disen 8. Cartaunen für sich selbst an gezeug genommen 400. Centner.
+  cs: |-
+    Stejně tak každý kus má mít svou vlastní nabíjecí lopatku {Ladschauffel} a 3 plechové nádoby {plechen büchsen}. U těchto 8 kartoun je tedy na samotný kov vzato 400 centů.
+- typ: odstavec
+  de: |-
+    So wigen die 800. kugeln an eysen 360. Centner.
+  cs: |-
+    800 koulí pak váží na železe 360 centů.
+- typ: odstavec
+  de: |-
+    Souil Puluers / thůt auch 360. Centner.
+  cs: |-
+    Tolikéž prachu činí rovněž 360 centů.
+- typ: odstavec
+  de: |-
+    Vnd für sich selbst zu jren gefässen / auch aller anderer zugehörung wagen 25. Gefäß 8.
+  cs: |-
+    A pro ně samé, pro jejich lafety i všechno ostatní příslušenství 25 vozů,[^3] 8 lafet.
+- typ: odstavec
+  de: |-
+    Vnd für die alle einzusetzen oder spannen Zugpferdt 268.
+  cs: |-
+    A k zapřažení do nich všech 268 tažných koní.
+- typ: tabulka
+  de:
+  - - Züg
+    - '3.'
+    - Ladschauffeln
+    - '8.'
+    - Plechenbüchen
+    - '24.'
+  cs:
+  - - kladkostrojů
+    - '3'
+    - nabíjecích lopatek
+    - '8'
+    - plechových nádob
+    - '24'
+- typ: odstavec
+  de: |-
+    Summa summarum / so die vierlei Sorten vnnd achtzehen stück Maurbrecher an jnen selbst wigen / thůt nach vorgesetztem Augspurgischem gewicht zurechnen 1214. Centner.
+  cs: |-
+    Celkový součet toho, co tyto čtyři druhy a osmnáct kusů bořičů hradeb {Maurbrecher} samy o sobě váží, činí podle výše stanovené augšpurské váhy 1214 centů.
+- typ: odstavec
+  de: |-
+    So halten die vorgemelten Kugeln an eysen 874. centner.
+  cs: |-
+    Výše uvedené koule pak drží na železe 874 centů.
+- typ: odstavec
+  de: |-
+    Souil puluers / thůt auch 874. centner.
+  cs: |-
+    Tolikéž prachu činí rovněž 874 centů.
+- typ: odstavec
+  de: |-
+    Wagen 104.
+  cs: |-
+    Vozů 104.[^4]
+- typ: odstavec
+  de: |-
+    Gefäß 18.
+  cs: |-
+    Lafet 18.
+poznamky:
+- n: 1
+  text: |-
+    V originále stojí nejasné *sein besonder war / gefäß vnd fuer*; patrně tiskařská záměna za *lär gefäß* („prázdná lafeta“), *wagen* či *par* („výbava“).
+- n: 2
+  text: |-
+    Početní chyba předlohy: vozů na koule i na prach je po 12 (8 × 67 + 4 × 66 = 800 koulí), text však omylem počítá jen *8 vozů* (8 × 4 = 32 koní namísto 12 × 4 = 48). Souhrn 268 koní níže (160 + 32 + 32 + 32 + 12) přebírá obě chybná čísla 32 (správně by bylo 300 koní).
+- n: 3
+  text: |-
+    Rozepsané položky dávají 8 + 12 + 12 + 3 = 35 vozů, tisk však uvádí *25*.
+- n: 4
+  text: |-
+    Součet uvedených dílčích sum vozů u bořičů hradeb (18 + 29 + 13 + 25) činí 85 (při opravě kartoun na 35 pak 95); tisk uvádí *104*.

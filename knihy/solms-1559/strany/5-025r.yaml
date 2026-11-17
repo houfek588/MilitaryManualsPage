@@ -1,0 +1,22 @@
+id: 5-025r
+list: 25 (5. kniha)
+strana: recto
+sken: 485
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Das acht Blochauß.
+  cs: |-
+    Osmý srub.
+- typ: odstavec
+  de: |-
+    DIß ist ein Haupt gross geuierdtes Blochhauß mit vier außgefürten Pasteien vñ Stendten zum Geschütz/ solche Stendte bringen jhre Streichen vor dem Hauptblochauss auff alle vier orten mit sich/ vñ ist der auß vnd eingang/ derselbig ist ein durchbroch/ vnd auff zwen weg/ solches gross Blochauss verzeichnet die ein seite als wann sie im Wasser/ vnd die ander halb seit auff truckem Landt lege/ daß mann also zu beiden theiln brauchen mag.
+  cs: |-
+    Toto jest hlavní veliký čtverhranný srub {Blochhaus} se čtyřmi vysunutými baštami {Pasteien} a stanovišti pro děla {Geschütz}; tato stanoviště mají s sebou své boční obrany {Streichwehr} před hlavním srubem na všech čtyřech stranách, a východ i vchod tvoří průchod vedoucí dvěma směry. Tento veliký srub jest vyznačen jednou stranou tak, jako by ležel ve vodě, a druhou polovicí na suché zemi, takže jej lze užívat k oběma způsobům.[^1]
+poznamky:
+- n: 1
+  text: |-
+    Na skenu `485` je vpravo nahoře zřetelně vytištěno číslo listu `25` (BSB OCR jej mylně četlo jako `39`). Popis velikého čtverhranného srubu napůl ve vodě a napůl na souši přesně odpovídá předchozímu rozkládacímu dřevořezu (`5-024v`, sken `484`), zatímco na rubu tohoto listu (`5-025v`, sken `486`) je otištěna půlkruhová vodní bašta.

@@ -1,0 +1,33 @@
+id: 1-036v
+list: '36'
+strana: verso
+sken: 82
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    deinem Herren nicht gefallen / vnd ein vngnad dir geberen / das wirt dir nicht fürderlich noch gůt sein / das bedünckt mich aber solt sich schicken / wann du etwan mit deinem Herren zu reden kämest von solchen sachen / daß du hettest gesagt / Gnediger Herr / Ewer Gnaden haben mich erzogen biß hieher / so bin ich ein junger gesell / vnd weiß nichts weitters dann was am Hoff gebreuchlich ist / vnd sein Ewer gnaden nichts weitters nutz / nun hett ich wol ein willen vnd lust etwas weitters zusehen vnd zu lernen / dieweil ich doch jetzund ein ledige zeit hab / vnd wie ein junger noch nichts außrichten / vnd Ewer Gnaden auch nichts stattlichs noch nützlichs dienen kan / vnnd die zeit meiner jugent vergeblich herbringe / so werde ich bedacht Ewer Gnaden vndertheniglich zu bitten / dieweil dieselbig mich so weit erzogen haben / so wöl sie mir die gnaden erzeigen / wann ein ehrlicher Zug würde / mir gnediglich erleuben / befürdern vnd verhelffen mit Vorschriefften an einen Obersten / da ich bei kommen möcht / etwas sehen vnnd lernen künde / dann were ich on zweifel es würde Ewer Gnaden nichts abgeschlagen / vnd mir zu gůtem vnnd fürderung kommen / wolt dann Gott daß ich etwas lernen möcht / so kündt ich dann Ewer Gnaden desto stattlicher dienen vnd nutz werden / dann ich gesinnet bin Ewer gnaden für andern zu dienen. Vnd mit solchem ehrlichen bitten vnnd erbieten solt du zu deinem Herren kommen / wann dann dein Herr dein ehrliches begeren vnnd vorhaben vernemen / wirt er auch on zweifel desto geneigter vnd bewegter werden dir zu erlauben vnd zu helffen / Wann du dann also ein gnedige abfertigung wirts bekommen / war du dann mit solchen verschreibungen kömpts / das ist ehrlich vnd tüglich / vnd kömpts etwan bei ein ansehenlichen Man oder Herren da du wol bist / da du sonst noch lang zeit ein gemeiner sein müssest / vnd lang dienen wie ein gemeiner / biß du bekant vnd bei einen solchen ansehenlichen Herren kommen mögst / Das ist mein bedencken vnd rath den ich dir dißmal geben kan.
+  cs: |-
+    tvému pánovi nebylo vhod a zrodilo by ti to nemilost, což by ti nebylo ku prospěchu ani k dobru. Zdá se mi však, že by se slušelo, kdybys jednou přišel se svým pánem k řeči o takových věcech a řekl: „Milostivý pane, Vaše Milost mne vychovala až dosud, jsem však mladík a neznám nic více než to, co je obvyklé u dvora, a nejsem Vaší Milosti ničím dalším k užitku; nyní bych však měl vůli a chuť vidět a naučit se něco více, poněvadž mám nyní volný čas a jako mladý ještě nic nezmohu a Vaší Milosti také nemohu nijak skvěle ani užitečně sloužit a čas svého mládí trávím nadarmo. Proto jsem se odhodlal poníženě poprosit Vaši Milost, aby mi – když mne až takto vychovala – prokázala tu milost a kdyby nastalo nějaké čestné tažení {Zug}, milostivě mi dovolila, podpořila mne a dopomohla mi doporučujícími listy k některému nejvyššímu veliteli {Obersten}, kam bych se mohl dostat, něco vidět a naučit se; pak bych nepochyboval, že by Vaší Milosti nic nebylo odepřeno a mně by to přišlo k dobru a k povznesení. A kdyby pak Bůh dal, že bych se něčemu naučil, mohl bych Vaší Milosti tím skvěleji sloužit a být užitečný, neboť jsem odhodlán sloužit Vaší Milosti před jinými.“ S takovou čestnou prosbou a nabídkou máš předstoupit před svého pána; jakmile pak tvůj pán uslyší tvou čestnou žádost a úmysl, bude bezpochyby tím nakloněnější a pohnutější ti to dovolit a pomoci. Dostaneš-li takto milostivé vypravení, kamkoli s takovými doporučujícími listy přijdeš,[^1] je to čestné a způsobilé a dostaneš se třeba k významnému muži nebo pánovi, kde se budeš mít dobře – kdežto jinak bys ještě dlouhý čas musel být pouhým řadovým a dlouho sloužit jako obyčejný člověk, než bys vešel ve známost a mohl se dostat k takovému váženému pánovi. To je mé uvážení a rada, kterou ti tentokrát mohu dát.
+- typ: nadpis
+  uroven: 3
+  de: Son.
+  cs: Syn.
+- typ: odstavec
+  de: |-
+    Lieber alter Vatter es ist ein gůter rath / vnd ich wil euch volgen / zu gelegener zeit wann sich es zutragen würde mit meinem Herren auff ewer bedencken reden vnnd handeln / was mir begegnet wider anzeigen / Bitt ihr wöllet mitler zeit meiner Instruction vnnd beredung ingedenck sein.
+  cs: |-
+    Milý starý otče, je to dobrá rada a já vás poslechnu; ve vhodnou chvíli, až se naskytne příležitost, promluvím a budu jednat se svým pánem podle vaší úvahy a co se mi přihodí, opět vám oznámím. Prosím, abyste mezitím pamatoval na mou instrukci a naši rozmluvu.
+- typ: nadpis
+  uroven: 3
+  de: Alter Vatter.
+  cs: Starý otec.
+- typ: odstavec
+  de: |-
+    Lieber Son ich will es nicht vergessen / sonder dir mit fleiß machen vnd beschreiben.
+  cs: Milý synu, nezapomenu na to, nýbrž ti ji pilně sestavím a sepíši.
+poznamky:
+- n: 1
+  text: V tisku přesmyčky koncovky *wirts* za *wirst* a *kömpts* za *kömpst*.

@@ -1,0 +1,51 @@
+id: 3-040r
+list: '40'
+strana: recto
+sken: 331
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Ein ander art vnd form eins Feurs/ König Alexandri.
+  cs: Jiný způsob a podoba ohně krále Alexandra.
+- typ: odstavec
+  de: |-
+    NIm 1. pfundt Balsam/ 2. Architram/ des gemeinen öls vnd vngeleschten Kalchs alles 4. pfundt/ zertreib vnd mach den Kalch an mit dem öle/ daß ein deyg darauß wirt/ darnach die stein/ kreuter vnd anders des Erdtrichs wachsende Creaturn an der Grentz derselbigen gegent/ soll du es vergraben/ Nim es auch vnd thůs in ein wasser am Herbst gerechnet/ das Erdtrich wirt von dem Regenfall angezindt/ vnd verbrent alles was des orts ist. Also hat Alexander die Stat Agamitorum verbrennt/ diß Feur nach meinung Alexandri wert 20. Jar.
+  cs: |-
+    Vezmi 1 libru {pfundt} balzámu, 2 [libry] dehtu (*Architram*), obyčejného oleje a nehašeného vápna všeho 4 libry; rozetři a rozdělej vápno s olejem, až z toho vznikne těsto, a potom to zakopej na hranici té krajiny mezi kameny, byliny a jiné zemské plodiny.[^1] Vezmi to také a vlož do vody za podzimního času: země se od deště vznítí a spálí vše, co je na tom místě. Tak prý Alexandr spálil město Agamitorum;[^2] tento oheň podle mínění Alexandrových spisů trvá 20 let.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Ein ander Feur/ welchs Vergilius wider die Feinde gemacht vnd gebraucht hat.
+  cs: Jiný oheň, jejž Vergilius vyrobil a užíval proti nepřátelům.[^3]
+- typ: odstavec
+  de: |-
+    NIm lebendigen Schwefel/ Collofetam/ Aspaltum/ Grassura tartarum/ Picem Naualem/ Schaaff vnnd Dauben mist/ darauß mach ein klein Puluer/ thů es in ein wol vermacht glaß/ vnd vergrab es drei tag lang vnder den Mist/ wann du es wider herauß nimpts/ solls durch ein Distulier glaß in einem Kirbiß bei kolen oder kleinem Feur distuliern/ Dann ob heissen Eschen mag mann gar hitzige vnd subtile Materien distuliern/ dann ein wol dünckt/ angezindt/ wann es mit einem Bogen oder geschütz auff der Feind befestigung geworffen wirt/ verbrent es alles was bekompt/ wann mann solch Feur leschen will/ so mag mann nemen einn Filtz in altem wein oder gůtem herben Essig gestossen/ damit mann alles Feur zerstöcken vnd erlöschen mag.
+  cs: |-
+    Vezmi živou síru, kalafunu {Collofetam}, asfalt (*Aspaltum*), vinný kámen (*Grassura tartarum*),[^4] lodní smůlu (*Picem Naualem*), ovčí a holubí trus; z toho udělej jemný prášek, dej jej do dobře uzavřené sklenice a zakopej na tři dny do hnoje. Až jej zase vyjmeš,[^5] má se destilovat přes destilační nádobu v křivuli nad uhlím nebo mírným ohněm; neboť nad horkým popelem lze vydestilovat velmi palčivé a jemné látky. Pak se do toho namočí chomáč vlny,[^6] zapálí se, a když se lukem nebo dělem {geschütz} vrhne na nepřátelské opevnění, spálí vše, na co narazí. Chce-li se takový oheň uhasit, může se vzít plsť namočená do starého vína nebo dobrého trpkého octa, čímž se dá každý oheň udusit a uhasit.
+- typ: nadpis
+  uroven: 3
+  de: Wie mann ein Feur auff einander weiß machen soll.
+  cs: Jak udělat oheň jiným způsobem.
+- typ: odstavec
+  de: |-
+    NIm Colofemie ein theil/ drei theil Schwefel/ Salx Petrosi sechs teil/ mehr ein theil glaß/ Petrolij olei Lauri drei oder vier theil/ letztbenente Species sollen im beschribnen ölen distuliert/ darnach ein Rör oder gehölter stab mit diser Materien vol außgefült vnd angezindt werden/ wann das Feur in die lufft fleucht/ verbrent es alles was betrifft/ es mag auch einer Baumwol an ein pfeil in solche Materien duncken/ damit bestreichen/ anzinden/ vnd mit einem Bogen wohin er will/ schiessen.
+  cs: |-
+    Vezmi jeden díl kalafuny, tři díly síry, šest dílů ledku (*Salx Petrosi*), dále jeden díl skla, tři nebo čtyři díly skalního a vavřínového oleje (*Petrolij olei Lauri*); posledně jmenované přísady se mají v popsaných olejích vydestilovat, načež se touto směsí doplna naplní trubice nebo vydlabaná hůl a zapálí se. Když oheň vyletí do vzduchu, spálí vše, čeho se dotkne; může si také někdo namočit do takové směsi bavlnu na šípu, potřít jej jí, zapálit a vystřelit z luku, kamkoli chce.
+poznamky:
+- n: 1
+  text: V tisku stojí *soll du es* místo *solt du es* („máš to zakopat“).
+- n: 2
+  text: |-
+    *Agamitorum* (níže na f. 41r též *Agananorum*) – zkomolené místní jméno převzaté ze středověkého latinského receptáře (*Agamatorum*).
+- n: 3
+  text: |-
+    Středověká tradice přisuzovala římskému básníkovi Vergiliovi zhotovení magických zbraní a zápalných prostředků.
+- n: 4
+  text: |-
+    *Collofetam* = kalafuna (*colophonia*); *Grassura tartarum* = hrubý vinný kámen (*tartarum*); *Picem Naualem* = lodní smůla (*pix navalis*).
+- n: 5
+  text: V tisku přesmyčka *nimpts* místo *nimpst* („vyjmeš“).
+- n: 6
+  text: V tisku *dann ein wol dünckt* = *ein Woll tunkt* („namočí se vlna“).

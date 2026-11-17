@@ -1,0 +1,34 @@
+id: 1-033r
+list: '33'
+strana: recto
+sken: 75
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    verstendigen Leuten / die solches haben im feld vnd im Leger / mit aller versehung des Kriegs vnd gůter Justitien verwalt vnnd erhalten biß noch / Derhalben seien sie noch des gemůts vnd meinung / vnnd darumb außgeritten sich wie jhre Voraltern ehrlich / manlich vnnd alles rechten gebürlichen Kriegs grauch zuhalten / vnd in dem mit Gottes gnaden vnd hilff / thůn vnd gefunden werden / wie die ehrlichen / rittermessigen vnnd Kriegßleut mit darstreckung leibs vnd blůts / doch das solliche Kriegßordnung vnd Justitien mit den Obersten des Kriegs vnd Kriegßuerstenden gleich allen Nationen geordnet / auffgericht vnd gehalten werde / vnd daß sie wie allwegen / jhre Ampter selber haben vnd behalten mögen mit jrer Justitien / wie herkommen ist / so wöllen wir vns (wills Gott) dergestalt halten vnnd regiren / das zusehen sein soll / daß wir wie ehrliche Kriegßleut / der billichkeit vnd altem Kriegs gebrauch nach halten vnd geleben wöllen / vnserer Obrigkeit allen gehorsam leisten.
+  cs: |-
+    rozumnými lidmi, kteří to v poli i v ležení {Leger} se vším válečným opatřením a dobrou spravedlností {Justitien} spravovali a zachovávali až dosud. Proto jsou i nadále té mysli a úmyslu a vyjeli proto do pole, aby se chovali jako jejich předkové čestně, mužně a podle všeho pravého náležitého válečného zvyku,[^1] a aby v tom s Boží milostí a pomocí jednali a byli shledáni jako čestní, rytířští vojáci {Kriegßleut} s nasazením těla i krve – avšak s tím, aby takový válečný řád a spravedlnost byly s nejvyššími veliteli {Obersten} války a znalci války[^2] zřízeny, ustaveny a zachovávány stejně jako u všech národů, a aby si oni jako vždy mohli sami podržet a zachovat své úřady s jejich spravedlností, jak je odedávna zvykem; pak se my (dá-li Bůh) budeme takto chovat a řídit, že bude patrné, že chceme jako čestní vojáci jednat a žít podle spravedlnosti a starého válečného zvyku a prokazovat své vrchnosti veškerou poslušnost.
+- typ: odstavec
+  de: |-
+    Daß sie aber noch nicht wissen was die Ordnung sein soll / deßgleichen die Justitien wie oder durch wen die geregirt soll werden / so sei jhnen beschwerlich solliches also frei on vorwissen einzugehen vnd bewilligen.
+  cs: |-
+    Poněvadž však dosud nevědí, jaký má být ten řád, stejně tak spravedlnost – jak nebo kým má být spravována –, je pro ně obtížné do toho takto volně bez předchozí vědomosti vstupovat a k tomu svolovat.
+- typ: odstavec
+  de: |-
+    Das seind wir aber willig vnnd erbittig / daß durch alle Obersten vnnd deren verstendigen verordneten verglichen werde / wie vor vermelt / auch zu geleben vnnd mit zu halten / wie Kriegßleut die der ehren nach ziehen / suchen vnd volgen wöllen / Doch so wöllen sie wann sie in das Leger bei die andern Kriegßleut kommen mit anhören / aller gebür vnd billicheit halten / vnnd alles das mit helffen suchen / fürnemen vnnd fürdern / das vnserem Kriegßherren vnnd allem Kriegßuolck zu gůten ehren gedeien vnnd aller wolfart kommen mag.
+  cs: |-
+    K tomu jsme však svolni a ochotni, aby to bylo dohodnuto skrze všechny nejvyšší velitele a jejich rozumné pověřence, jak výše uvedeno, a podle toho také jednat a spolu držet, jak chtějí vojáci, kteří táhnou za ctí, ji hledají a následují; přece však chtějí, až přijdou do ležení k ostatním vojákům, vše vyslechnout, zachovávat veškerou slušnost a spravedlnost a pomáhat společně hledat, podnikat a podporovat všechno, co může našemu válečnému pánovi {Kriegßherren} a všemu válečnému lidu {Kriegßuolck} prospět k dobré cti a veškerému zdaru.
+- typ: odstavec
+  de: |-
+    Vnd wann den Commissarien solliches von den Kriegßleuten auff dem Musterplatz begegnen wirt / dann ist jhnen von nöten / daß sie darzů geschicklich antworten / dann das Kriegßuolck hat des billich vrsachen / wie gesehen worden / wie ein zeitlang die Justitien mit aller Kriegßordnung regieret vnd gangen ist / vnd Personen sich dessen zu regieren vndernommen vnd vnderstanden haben / solliches hat dem Kriegßuolck den weg gewisen / daß sie der sachen gůt acht nemen / vnnd sich nicht lassen vnder den Finantz vnd Schreibfeder dringen / wie vnderstanden worden.
+  cs: |-
+    A když se komisaři {Commissarien} s takovou věcí ze strany vojáků setkají na přehlídkovém místě {Musterplatz}, tehdy je jim zapotřebí, aby na to obratně odpověděli; neboť válečný lid k tomu má oprávněné příčiny, když bylo vidět, jak byla po nějaký čas spravedlnost se vším válečným řádem spravována a vedena a jaké osoby se ujímaly a pokoušely se jí vládnout. To ukázalo válečnému lidu cestu, aby si na tu věc dával dobrý pozor a nedal se zatlačit pod finty {Finantz} a písařské brky, jak se o to pokoušeli.
+poznamky:
+- n: 1
+  text: Tisková chyba v předloze *grauch* za *gebrauch*.
+- n: 2
+  text: |-
+    Tisková odchylka *Kriegßuerstenden* za *Kriegßuerstendigen* (znalců války).

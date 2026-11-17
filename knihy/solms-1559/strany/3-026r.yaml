@@ -1,0 +1,124 @@
+id: 3-026r
+list: '26'
+strana: recto
+sken: 303
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    DEren Halbschlangen soll 24. Centner haben an der schwere / vnd jr Kugel 34. lang sein / auch derselben Kugeln jede am gewicht halten 7. pfundt.
+  cs: |-
+    Každá z těchto polovičních kulverin {Halbschlangen}[^1] má mít na váze 24 centů {Centner}, být dlouhá 34 svých koulí {Kugeln} a každá z těchto koulí má na váze držet 7 liber {pfundt}.
+- typ: odstavec
+  de: |-
+    Item zu disen 10. Büchsen gehörn auch souil gefäß / vnd für der jedes alweg einem Roß 4. Centner gerechnet / einzusetzen 6. Roß / thůt Zugpferdt 60.
+  cs: |-
+    Dále k těmto 10 dělům {Büchsen} náleží rovněž tolikéž lafet {gefäß}, a před každou z nich – počítá-li se vždy na jednoho koně 4 centy – zapřáhnout 6 koní, což činí 60 tažných koní {Zugpferdt}.
+- typ: odstavec
+  de: |-
+    So halten die 1000. Kugeln / auff dise 10. Halbschlangen gehörig / an eysen 70. Centner / darzů bedarff mann allweg einem wagen vngefehrlich 24. Centner / oder 133. kugeln zu laden gerechnet / Wagen 3. Zugpferdt 12.
+  cs: |-
+    Těch 1000 koulí náležejících k těmto 10 polovičním kulverinám váží na železe 70 centů; počítá-li se vždy na jeden vůz naložit přibližně 24 centů čili 133 koulí,[^2] je k tomu třeba 3 vozů a 12 tažných koní.
+- typ: odstavec
+  de: |-
+    Souil puluers / darzů bedarff man auch wagen 3. Zugpferdt 12.
+  cs: |-
+    Tolikéž střelného prachu {puluers} – k tomu je rovněž třeba 3 vozů a 12 tažných koní.
+- typ: odstavec
+  de: |-
+    Gleicherweiß solten zu disen 10. büchsen 3. Züg sein / doch allein von 4. scheiben / auch nit doppel eingezogen / darzů ein einig wendscheiben mit gefürt werden / darzů gehören auch Wagen 3. Zugpferd 9.
+  cs: |-
+    Stejně tak mají k těmto 10 dělům být 3 kladkostroje, avšak jen o 4 kotoučích a nedvojitě navlečené, a k tomu se má vézt s sebou po jediném otočném kotouči; k tomu náležejí rovněž 3 vozy a 9 tažných koní.
+- typ: odstavec
+  de: |-
+    Es sol auch jedes stück / wie die obbeschribnen / sein eigen Ladschauffel / vnd nur ein 7. pfundt fassende Plechnebüchsen haben.
+  cs: |-
+    Každý kus má rovněž tak jako výše popsané kusy mít svou vlastní nabíjecí lopatku {Ladschauffel} a jen jednu plechovou nádobu {Plechnebüchsen} pojímající 7 liber prachu.
+- typ: odstavec
+  de: |-
+    Halten also die gedachten 10. Halbschlangen an jhrem selbst Zeug 240. Centner.
+  cs: |-
+    Zmíněných 10 polovičních kulverin tedy drží na svém vlastním kovu 240 centů.
+- typ: odstavec
+  de: |-
+    Deßgleichen jre 1000. kugeln an eysen 70. Centner.
+  cs: |-
+    Rovněž tak jejich 1000 koulí na železe 70 centů.
+- typ: odstavec
+  de: |-
+    Vnd so schwer Puluers das brengt auch 70. Centner.
+  cs: |-
+    A stejně těžké množství prachu činí rovněž 70 centů.
+- typ: odstavec
+  de: |-
+    Ferner zu den Büchsen selbs sampt derselben rüstung vnd zugehör /
+  cs: |-
+    Dále k samým dělům spolu s jejich výstrojí a příslušenstvím:
+- typ: tabulka
+  de:
+  - - Wagen
+    - '9.'
+    - Gefäß
+    - '10.'
+  - - Zugpferdt
+    - '93.'
+    - Züg
+    - '3'
+  - - Ladschauffeln
+    - '10.'
+    - Plechenbüchsen
+    - '10.'
+  cs:
+  - - vozů
+    - '9'
+    - lafet
+    - '10'
+  - - tažných koní
+    - '93'
+    - kladkostrojů
+    - '3'
+  - - nabíjecích lopatek
+    - '10'
+    - plechových nádob
+    - '10'
+- typ: odstavec
+  de: |-
+    SO soll nun der stücklein eines 12. Centner schwer / vnd seiner zugehörigen Kugeln 40. lang sein / welcher eine an eysen helt 2. pfundt.
+  cs: |-
+    Jeden z těchto menších kusů[^3] má nyní vážit 12 centů a mít délku 40 svých příslušných koulí, z nichž každá drží na železe 2 libry.
+- typ: odstavec
+  de: |-
+    Dise 10. stücklein bedörffen auch souil Gefäß / vnnd alweg einem Roß außuolgenden vrsachen 3. Centner / vnd nicht mehr zuziehen auffgelegt für jedes einzuspannen 4. Roß / thůt Zugpferdt 40.
+  cs: |-
+    Těchto 10 menších kusů potřebuje rovněž tolikéž lafet, a klade-li se z níže uvedených příčin vždy jednomu koni k tažení 3 centy a ne více, zapřáhnout před každý 4 koně, což činí 40 tažných koní.
+- typ: odstavec
+  de: |-
+    Item jre 1000. zugehörigen Kugeln / welche an eysen 20. Centner halten / bedörffen wagen 1. Zugpferdt 3.
+  cs: |-
+    Dále jejich 1000 příslušných koulí, které váží na železe 20 centů, potřebují 1 vůz a 3 tažné koně.
+- typ: odstavec
+  de: |-
+    Souil Puluers / brengt auch wagen 1. Zugpferdt 3.
+  cs: |-
+    Tolikéž prachu činí rovněž 1 vůz a 3 tažné koně.
+- typ: odstavec
+  de: |-
+    Dise 10. viertheil Schlangen sollen auch drei Züg / aber allein von vier Scheiben / ausserhalb einiger Wendtscheiben / darzů einfach eingezogen / haben.
+  cs: |-
+    Těchto 10 čtvrtečních kulverin {viertheil Schlangen} má mít rovněž tři kladkostroje, avšak jen o čtyřech kotoučích bez jakéhokoli otočného kotouče a k tomu navlečené jednoduše.
+- typ: odstavec
+  de: |-
+    Zu der jeden bedarff man gleichwol / nit von wegen seiner schwer / sonder in bedenckung / wie vor gemelt / daß gewönlich das Geschütz im Feld zertheilt wirt / einen sondern wagen / darzů mag mann
+  cs: |-
+    Ke každému z nich je nicméně třeba – nikoli pro jeho tíhu, nýbrž s ohledem na to, jak bylo řečeno výše, že se děla v poli obvykle rozdělují – zvláštního vozu, na nějž lze ještě přiložit
+poznamky:
+- n: 1
+  text: |-
+    Na pravém okraji tisku stojí rubrika *Halbschlangen 10* (10 polovičních kulverin). V BSB OCR bylo číslo listu *26* v záhlaví chybně přečteno jako *86*.
+- n: 2
+  text: |-
+    Tisková chyba předlohy: *133. kugeln* místo správných *333* koulí na vůz (1000 koulí : 3 vozy = 333⅓ koulí, tj. cca 23,3 centu po 7 librách).
+- n: 3
+  text: |-
+    Na pravém okraji tisku stojí rubrika *Viertheil schlangen 10* (10 čtvrtečních kulverin).

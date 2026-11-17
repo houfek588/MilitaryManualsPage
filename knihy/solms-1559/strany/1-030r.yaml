@@ -1,0 +1,32 @@
+id: 1-030r
+list: '30'
+strana: recto
+sken: 69
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    haben mögen / vnd nicht durch die anderen Personen als die Commissarien gehn muß / sonder mann soll auff das Haupt ein auffsehens haben / vnd nit auff die andern vnd also das kleinst vor das gröst setzen / dann ein wunderbarlich werck vnd bedencken ists darumb zuhaben / wie ein Kriegs Commissarius zu solchem verstandt vnnd erfarung kompt / daß er aller Ampter Regirung wissen vnd verstehn wil vnd sol. Vnd noch mehr ist zubedencken / das sie alle Ampter zu regiren vndernemen dörffen / vnd sich so weiß vnd geschickt selbst achten / mehr als die solche Ampter lange jar vor jnen versehen vnd gebraucht haben / dann warlich es hett jrer einer mit der Ampter einem zuuersehen gnůg zuthůn / ich geschweig daß einer solche Ampter alle zu regiren versehen wil.
+  cs: |-
+    mohly mít a nemuselo to jít skrze jiné osoby, jako jsou komisaři {Commissarien}; nýbrž je třeba hledět na hlavu a nikoli na ty druhé, a nestavět tak nejmenší před největší. Neboť je podivuhodné a povážlivé, jak válečný komisař přijde k takovému rozumu a zkušenosti, že chce a má znát a chápat správu všech úřadů. A ještě více je třeba uvážit, že se opovažují ujímat řízení všech úřadů a sami sebe pokládají za tak moudré a schopné – více než ty, kteří takové úřady dlouhá léta před nimi zastávali a vykonávali; vždyť vpravdě by měl každý z nich dost práce zastat jediný z těch úřadů, natož aby se někdo chtěl ujímat řízení všech takových úřadů.
+- typ: odstavec
+  de: |-
+    Noch vil mehr ist sich zuuerwundern / daß ein Kriegsherr oder Oberster solliche ehr vnd hohe versehung auß jhren händen geben / vnd andern vor jhnen vertrawen vnd die ehr lassen / dann es ist des Kriegßherrn oberst Ampt solliches zuuersehen vnnd wissens zu haben / dann sein Regierung kompt durch die Ampter / darumb soll er die allezeit wissen vnd in verstandt haben / vnd zeitlich mit jnen rath halten / so kriegen die Kriegs personen ein lieb vnd sorg zu jren Obersten / Dann mann findt in den alten Römischen vnnd Griechischen Historien / daß sie jre Kriegßampter gar statlich wolbesetzt vnd regirt haben / deßgleichen haben die hoch Teutschen solch Ampter sitter der Römer zeitten hernach allezeit gehabt / besatzt / gebraucht vnd die krieg damit regirt / auch solchs nötig vnd gůt gefunden.
+  cs: |-
+    Ještě mnohem více se lze podivovat, že válečný pán {Kriegsherr} či nejvyšší velitel {Oberster} takovou čest a vysoké pověření vydávají z rukou a svěřují je jiným před sebou, jimž tu čest ponechávají. Vždyť je to nejvyšší úřad válečného pána, aby o to pečoval a měl o tom vědomost, neboť jeho vláda jde skrze úřady; proto je má vždy znát, rozumět jim a včas se s nimi radit, tak si vojenské osoby získají lásku a oddanost ke svým nejvyšším velitelům. Neboť ve starých římských a řeckých dějinách se nachází, že své válečné úřady velmi skvěle obsazovali a spravovali; rovněž horní Němci měli takové úřady od dob Římanů vždy potom, obsazovali je, užívali jich a války jimi spravovali, a uznali to za potřebné a dobré.
+- typ: odstavec
+  de: |-
+    Aber ich sehe das etliche Kriegßherrn dahin beredt werden / es sei nit von nöten solche ampter alle zu haben / mann künde solches kostens vil sparn / vnd wirt dahin gericht / daß mann etlichen personen zwei / drei oder vier Ampter zusamen gibt / vnd der namen auch außthůt vnd zusamen Commissarien nennt / so das also soll vorgehn vnnd bleiben / dann werden die Ampter alle abgehn vnnd Commissarien werden / vnnd auff das letst dann werden die Commissarien also erfarn vnd geschickt / das eitel Obersten darauß wern werden.
+  cs: |-
+    Vidím však, že někteří váleční páni se dají přesvědčit, že prý není zapotřebí mít všechny takové úřady, že by se tak ušetřilo mnoho nákladů; a směřuje to k tomu, že se několika osobám dávají dohromady dva, tři nebo čtyři úřady, jejich jména se ruší a souhrnně se nazývají komisaři. Má-li to takto pokračovat a zůstat, pak všechny úřady zaniknou a stanou se z nich komisaři, a nakonec ti komisaři tak zezkušenějí a budou tak obratní, že z nich vzejdou samí nejvyšší velitelé.
+- typ: odstavec
+  de: |-
+    Ich sehe es aber nicht für gůt an / daß mann solliche hohe vnnd namhafftige Ampter laß abgehn / dann ein Krieg vnd Kriegs Regierung on die Ampter ist gar nackent vnd bloß / vnnd hat der Krieg sein ehr verlorn vnd wirt ein Schreiber werck vnd Kauffhandel darauß werden / wie mann sicht was für Kriegßleut die Commissarien seind / vnd wer die Commissen regiert vnd die vnder sich bringt / Darbei souil die Commissen belangt / will ich es bleiben lassen / vnnd den Kriegßherrn die es angehet zu bedencken geben vnd beuelhen.
+  cs: |-
+    Já to však nepovažuji za dobré, aby se takové vysoké a proslulé úřady nechaly zaniknout, neboť válka a válečná správa bez úřadů je docela nahá a holá, válka tím ztrácí svou čest a stává se z ní písařské dílo a kšeft, jak je vidět, co jsou ti komisaři za vojáky {Kriegßleut} a kdo řídí komisy {Commissen}[^1] a strhává je pod sebe. Tím chci to, co se týká komisů, ukončit a přenechat to válečným pánům, jichž se to dotýká, k uvážení a na starost.
+poznamky:
+- n: 1
+  text: |-
+    Solms zde používá výraz *Commissen* nejen pro samotné zásobovací a výdajové komisy, ale v širším ironickém smyslu i pro komisařské úřady a zakázky, které komisaři soustřeďují ve svých rukou.

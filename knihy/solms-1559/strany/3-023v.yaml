@@ -1,0 +1,96 @@
+id: 3-023v
+list: '23'
+strana: verso
+sken: 298
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Darauff volgt / so mann dise 4. Büchsen jede mit 100. kugeln / vnd so schwere als dieselben wigen / puluers / vnd andere jrer zugehörung zu feld brauchen wolt / was das alles bedörfft.
+  cs: |-
+    Dále následuje, co všechno je třeba, chce-li člověk tato 4 děla {Büchsen} vypravit do pole, každé se 100 koulemi {kugeln}, stejně těžkým množstvím střelného prachu {puluers} a dalším jejich příslušenstvím.
+- typ: odstavec
+  de: |-
+    Erstlich so bedörffen deren 4. stück jedes seine besondere / vnd allermassen wie der Scharpffenmetzen zugerichten Wagen auß oberzelten vrsachen / brengt also denen vier Nachtigaln Wagen 4.
+  cs: |-
+    Předně každý z těchto 4 kusů potřebuje ze svrchu uvedených příčin svůj vlastní vůz, vystrojený zcela stejně jako u šarfmec {Scharpffenmetzen}; to tedy pro čtyři slavíky {Nachtigaln} činí 4 vozy.
+- typ: odstavec
+  de: |-
+    Für der Büchsen jede einem pferdt auch nit mehr dann 2. Centner zuziehen auff laden / gehören für zuspannen 40. Ziehroß / thůt Zugpferdt 160.
+  cs: |-
+    Poněvadž se ani u jednoho z těchto děl nemá jednomu koni nakládat k tažení více než 2 centy {Centner}, přísluší zapřáhnout 40 tažných koňů {Ziehroß}, což činí 160 tažných koní {Zugpferdt}.
+- typ: odstavec
+  de: |-
+    Zu deren stück jede gehört auch sein eigne zugeordnete lade odder gefäß / vnd für der eins zusetzen 4. Roß / thůt auff die 4. Zugpferdt 16.
+  cs: |-
+    Ke každému z těchto kusů patří také jeho vlastní přidělené lože {lade} neboli lafeta {gefäß}, a před každou z nich zapřáhnout 4 koně, což na ty 4 činí 16 tažných koní.
+- typ: odstavec
+  de: |-
+    So gehören nun vermeltem anschlag nach / auff die vier Büchsen 400. kugeln / die wigen allenthalben 280. Centner / darzů bedarff mann alweg zu einem wagen 24. Centner gerechnet / Wägen 11.
+  cs: |-
+    Podle uvedeného rozpočtu tedy k těmto čtyřem dělům patří 400 koulí, které váží celkem 280 centů; počítá-li se vždy na jeden vůz 24 centů, je k tomu třeba 11 vozů.[^1]
+- typ: odstavec
+  de: |-
+    Das brengt auff die 7. wagen allweg einem 36. vnd den viern jedem 37. Kugeln gerechnet auffzuladen.
+  cs: |-
+    To vychází naložit na 7 vozů vždy po 36 koulích a na zbylé čtyři po 37 koulích.
+- typ: odstavec
+  de: |-
+    Vnd für deren wagen einen auch 4. starcke Ziehroß / thůt auff sie alle in summa Zugpferdt 44.
+  cs: |-
+    A před každý z těchto vozů rovněž 4 silné tažné koně, což na ně všechny v souhrnu činí 44 tažných koní.
+- typ: odstavec
+  de: |-
+    Es sollen auch gleicherweiß vnder denen 11. wägen die zwen mit beschloßnen kasten / als oben bei den Scharpffenmetzen angezeigter vrsachen versehen sein.
+  cs: |-
+    Rovněž tak mají být mezi těmi 11 vozy dva opatřeny zavřenou bednou z příčin uvedených výše u šarfmec.
+- typ: odstavec
+  de: |-
+    So nun gedachter 400. Kugeln gleich schwere Puluers mit genomen wirt / das brengt auch 280. Centner / darzů gehören abermals gehörtem anschlag nach / nemlich auff einen wagen vngefehrlich 24. Centner zu laden Wagen 11.
+  cs: |-
+    Bere-li se tedy s sebou stejná váha prachu jako zmíněných 400 koulí, činí to rovněž 280 centů, k čemuž podle uvedeného rozpočtu opět náleží – totiž naložit na jeden vůz přibližně 24 centů – 11 vozů.
+- typ: odstavec
+  de: |-
+    Vnd für derselben einen zusetzen 4. Roß / thůt Zugpferdt 44.
+  cs: |-
+    A před každý z nich zapřáhnout 4 koně, což činí 44 tažných koní.
+- typ: odstavec
+  de: |-
+    Mehrgemelte Büchsen sollen auch auß oben angeregten vrsachen mit dreien gleichen Zügen / vnd derselben zugehörung staffiert / vnd die kloben auch von 12. scheiben / vnd einem kleinen zwerch wentscheiblin doppel eingezogen sein / zu der Züg jedem sampt seiner notturfft bedarff mann einen Monat / etc. thůt Wagen 3.
+  cs: |-
+    Vícekrát zmíněná děla mají být také ze svrchu uvedených příčin opatřena třemi stejnými kladkostroji a jejich příslušenstvím, přičemž kladnice {kloben} mají být rovněž o 12 kotoučích a s jedním malým příčným otočným kotoučkem {zwerch wentscheiblin} dvojitě navlečeny; ke každému kladkostroji s jeho potřebami je třeba na jeden měsíc atd. 3 vozy.
+- typ: odstavec
+  de: |-
+    Für derselben jeden zu spannen gůter Roß vier / thůt Zugpferdt 12.
+  cs: |-
+    Před každý z nich zapřáhnout po čtyřech dobrých koních, což činí 12 tažných koní.
+- typ: odstavec
+  de: |-
+    Es soll auch der stuck jedes sein eigene Ladschauffel / darzů drei plechen Büchsen / dermassen wie vor beschriben / zugericht vnd gemacht haben.
+  cs: |-
+    Každý z těchto kusů má mít rovněž svou vlastní nabíjecí lopatku {Ladschauffel} a k tomu tři plechové nádoby {plechen Büchsen}, zhotovené a upravené tak, jak bylo popsáno výše.
+- typ: odstavec
+  de: |-
+    Also bedörffen dise 4. Nachtigaln für sich selbs an gezeug 320. Cent.
+  cs: |-
+    Tito 4 slavíci tedy potřebují sami pro sebe na kovu 320 centů {Cent.}.
+- typ: odstavec
+  de: |-
+    Einer jeden 100. Kugeln gerechnet / thůt auff die 4. stück 400. Kugeln / die halten an eisen 280. Centner.
+  cs: |-
+    Počítáno pro každého po 100 koulích činí to na 4 kusy 400 koulí, jež váží na železe 280 centů.
+- typ: odstavec
+  de: |-
+    Souil Puluers / thůt auch 280. Centner.
+  cs: |-
+    Tolikéž prachu činí rovněž 280 centů.
+- typ: odstavec
+  de: |-
+    Für sich selbst zu jren gefässen vnd aller anderer zugehörung / Wägen 29. Gefäß 4.
+  cs: |-
+    Pro ně samé, pro jejich lafety a všechno ostatní příslušenství 29 vozů, 4 lafety.
+poznamky:
+- n: 1
+  text: |-
+    V BSB OCR chyběly číslice *11.* na obou místech u vozů na koule a prach (*Wägen 11.* / *Wagen 11.*), doplněny podle skenu i součtů (7 + 4 = 11 vozů; 4 + 11 + 11 + 3 = 29 vozů). 7 × 36 + 4 × 37 = 400 koulí (náklad 25,2–25,9 centu na vůz).
