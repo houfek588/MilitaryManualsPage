@@ -273,6 +273,8 @@ def main():
     if (PROJEKT.get('dar') or {}).get('qr'):
         shutil.copy2(WEB / PROJEKT['dar']['qr'], DOCS / 'assets' / PROJEKT['dar']['qr'])
     knihy = [build_kniha(d) for d in sorted((KOREN / 'knihy').iterdir()) if (d / 'kniha.yaml').exists()]
+    # rozcestník: knihy chronologicky podle roku vydání (rok z kniha.yaml; bez roku na konec)
+    knihy.sort(key=lambda k: (int(m.group()) if (m := re.search(r'\d{3,4}', str(k.get('rok') or ''))) else 9999, k['id']))
     (DOCS / 'index.html').write_text(varovani(staticka_stranka('index.html', knihy), 'nastroje/web/index.html'), encoding='utf-8')
     (DOCS / 'o-projektu.html').write_text(varovani(staticka_stranka('o-projektu.html'), 'nastroje/web/o-projektu.html'), encoding='utf-8')
     (DOCS / '.nojekyll').write_text('', encoding='utf-8')
