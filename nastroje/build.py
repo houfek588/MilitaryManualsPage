@@ -38,6 +38,19 @@ def socialni_html():
     return ''.join(out)
 
 
+def autor_socialni_html():
+    """Odkazy na osobní sítě autora (projekt.yaml → autor_socialni) pro podpis na stránce O projektu."""
+    out = []
+    for klic, url in (PROJEKT.get('autor_socialni') or {}).items():
+        if not url or klic not in IKONY:
+            continue
+        nazev, d = IKONY[klic]
+        ucet = url.rstrip('/').rsplit('/', 1)[-1]
+        out.append(f'<br><a href="{esc(url)}" target="_blank" rel="noopener" title="{nazev} – {esc(PROJEKT["autor"])}">'
+                   f'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="{d}"/></svg>{nazev} @{esc(ucet)}</a>')
+    return ''.join(out)
+
+
 def varovani(html, zdroj):
     """Vloží do vygenerovaného HTML upozornění, že se needituje (přepíše ho další build)."""
     pozn = (f'<!-- VYGENEROVÁNO nástrojem nastroje/build.py – NEEDITUJ, změny se při dalším sestavení přepíšou.\n'
@@ -73,7 +86,8 @@ def staticka_stranka(sablona, knihy=None):
     t = (WEB / sablona).read_text(encoding='utf-8')
     for k, v in {'{{WEB}}': esc(P['nazev']), '{{PODTITUL}}': esc(P.get('podtitul')), '{{AUTOR}}': esc(P['autor']),
                  '{{EMAIL}}': esc(P['email']), '{{SKUPINA}}': esc(sk.get('nazev')), '{{SKUPINA_URL}}': esc(sk.get('url')),
-                 '{{DAR}}': dar_html, '{{REPO}}': repo, '{{PATICKA}}': paticka, '{{SOCIALNI}}': socialni_html()}.items():
+                 '{{DAR}}': dar_html, '{{REPO}}': repo, '{{PATICKA}}': paticka, '{{SOCIALNI}}': socialni_html(),
+                 '{{AUTOR_SOCIALNI}}': autor_socialni_html()}.items():
         t = t.replace(k, v)
     if knihy is not None:
         t = t.replace('/*KNIHY*/[]', json.dumps(knihy, ensure_ascii=False))

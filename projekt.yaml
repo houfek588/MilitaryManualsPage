@@ -8,6 +8,9 @@ podtitul: české překlady raně novověkých vojenských příruček
 
 autor: Pavel Houfek
 email: houfek.pavel@gmail.com
+# Osobní sociální sítě autora – zobrazí se na stránce O projektu v části Autor (klíče jako u `socialni`)
+autor_socialni:
+  instagram: https://www.instagram.com/pavelthereenactor/
 
 skupina:
   nazev: Fähnlein Rattenschwanz
@@ -19,7 +22,7 @@ socialni:
   instagram: https://www.instagram.com/rattenschwanz_fahnlein/
 
 # Repozitář projektu (až bude založený) – na stránce O projektu se objeví odkaz pro hlášení chyb přes GitHub.
-repozitar: ''
+repozitar: 'https://github.com/houfek588/MilitaryManualsPage'
 
 # Podpora projektu. Vyplň, co chceš zveřejnit; prázdné položky se nezobrazí.
 # Když nevyplníš nic, stránka vyzve k podpoře e-mailem.
