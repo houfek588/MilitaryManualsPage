@@ -9,7 +9,7 @@ bloky:
   de: |-
     Da muß sich der gantze von Reyen vnnd Glideren geschloßne hauffen auff die rechte Hand/ seye halb oder gar/ schwingen/ oder schwencken.
   cs: |-
-    Zde se musí celý šik {hauffen}, sevřený v zástupech {Reyen} i řadách {Glider}, zakroužit nebo zatočit k pravé ruce, ať už napůl, nebo zcela.
+    Zde musí celý šik {hauffen}, semknutý v zástupech {Reyen} i řadách {Glideren}, zakroužit neboli zatočit k pravé ruce, ať napůl, nebo úplně.
 - typ: nadpis
   uroven: 3
   de: 20. Lincks schwenckt euch.
@@ -17,17 +17,19 @@ bloky:
 - typ: odstavec
   de: |-
     Da wirdt ein gleiches auff die lincke Seiten/ wie hieob auff der rechten/ verrichtet.
-  cs: Zde se provádí totéž na levou stranu, jako výše na pravou.
+  cs: Zde se provádí totéž na levou stranu jako výše na pravou.
 - typ: nadpis
   uroven: 3
   de: 21. Euwere Reyen rechtsumb kehrt.
-  cs: 21. Své zástupy vpravo vbok obraťte.
+  cs: 21. Zástupy vpravo čelem vzad.
 - typ: odstavec
   de: |-
     Da soll man sich rechts vmb kehren/ vnd also durchgehn/ daß das vorderste Glid auff des hindersten statt/ komme/ vnnd wie es sein Angsicht bringet/ stehn bleibe/ auff dem Platz/ wo das hinderste gestanden. Hierin werde fleissig in acht genommen/ das ein jeder seinem vor jhm stehenden Gesellen nachfolge/ deßgleichen/ daß er sein Glid im
   cs: |-
-    Zde se má člověk obrátit vpravo čelem vzad[^1] a takto projít skrz, aby se nejpřednější řada dostala na místo té nejzadnější, a tak, jak má obrácenu tvář, zůstala stát na místě, kde stála ta nejzadnější. Zde budiž pilně dbáno na to, aby každý následoval svého druha {Gesellen} stojícího před ním, a rovněž aby svou řadu při
+    Zde se mají muži obrátit vpravo čelem vzad a projít [šikem] tak, aby přední řada přišla na místo nejzadnější a zůstala stát tak, jak je obrácena tváří, na místě, kde stála nejzadnější.[^1] Přitom se musí pečlivě dbát, aby každý šel za rotním druhem {Gesellen}, který stojí před ním, a také aby svou řadu při
 poznamky:
 - n: 1
   text: >-
-    Tj. protipochod (kontramarš) po zástupech: povel „rechts vmb kehrt“ zde znamená obrat o 180° (čelem vzad) a projití mezerami mezi zástupy tak, aby první řada zaujala místo poslední a celý šik hleděl na opačnou stranu (srov. poznámku na [[042|str. 42]]).
+    Jde o protipochod (kontramarš) po zástupech: muži přední řady se obrátí a projdou šikem dozadu, ostatní muži
+    každého zástupu jdou jeden za druhým za nimi; šik pak stojí obrácen opačným směrem a jeho přední řada tam, kde předtím stála
+    zadní. Srov. poznámku na [[042|str. 42]].

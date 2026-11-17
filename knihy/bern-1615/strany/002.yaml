@@ -28,23 +28,33 @@ bloky:
   - 25. Den Ladstecken außziecht.
   - 26. Den Ladstecken kurtz fasset.
   cs:
-  - 7. Ofoukněte svůj doutnák {Lont} a dobře jej držte.
-  - 8. Přitlačte svůj doutnák [do kohoutu].
-  - 9. Vyzkoušejte nebo vyměřte svůj doutnák.
+  - 7. Ofoukněte doutnák {Lont} a dobře jej držte.
+  - 8. Nasaďte doutnák.[^1]
+  - 9. Vyzkoušejte neboli odměřte doutnák.[^2]
   - 10. Zakryjte pánvičku {Pfann}, ofoukněte doutnák a otevřete pánvičku.
-  - 11. Držte svou mušketu {Musqueten} vzhůru nebo do výše.
+  - 11. Držte mušketu {Musqueten} vzhůru neboli do výšky.
   - 12. Přiložte mušketu a vystřelte.
   - 13. Sejměte mušketu a uchopte ji vedle vidlice {Gabel}.
   - 14. Sejměte doutnák.
-  - 15. Vložte doutnák opět mezi prsty.
+  - 15. Vložte doutnák zpět mezi prsty.
   - 16. Ofoukněte pánvičku.
-  - 17. Nasypte na pánvičku prach {Pulver}.
+  - 17. Nasypte prach {Pulver} na pánvičku.
   - 18. Zavřete pánvičku.
-  - 19. Oklepejte pánvičku.
+  - 19. Oklepejte pánvičku.[^3]
   - 20. Ofoukněte pánvičku.
-  - 21. Obraťte svou mušketu.
+  - 21. Obraťte mušketu.
   - 22. Vlečte vidlici za sebou.
-  - 23. Otevřete svou odměrku nálože {Ladmaß} (nebo nálož {Ladung}).
-  - 24. Nabijte svou mušketu.
+  - 23. Otevřete odměrku nálože {Ladmaß} (nebo nálož {Ladung}).
+  - 24. Nabijte mušketu.
   - 25. Vytáhněte nabiják {Ladstecken}.
   - 26. Uchopte nabiják nakrátko.
+poznamky:
+- n: 1
+  text: |-
+    „aufftrucken“ – doslova „natlačit“: hořící doutnák se palcem a prsty vtiskne do čelistí kohoutu, nikoli se do nich zašroubuje; rozevření čelistí má být proto předem seřízeno podle tloušťky doutnáku (viz výklad na str. [[009|9]]).
+- n: 2
+  text: |-
+    „Versucht/ oder meßt auff“ – voják kohoutem zkusmo spustí doutnák k pánvičce a prsty upraví, o kolik doutnák z kohoutu vyčnívá (prodlouží, zkrátí, sníží či zvýší), aby dopadal přesně do pánvičky (viz výklad na str. [[010|10]]). Proto se předtím z víčka pánvičky oklepe a odfoukne prach (body 19–20).
+- n: 3
+  text: |-
+    „abschütten“ – setřást, oklepat přebytečný prach z víčka zavřené pánvičky, aby mušketa při zkoušení doutnáku nečekaně nevystřelila (viz výklad na str. [[015|15]]).

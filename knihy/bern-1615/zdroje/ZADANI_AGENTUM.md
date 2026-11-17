@@ -21,7 +21,7 @@ Kniha: `knihy/bern-1615`. Přečti: `PRAVIDLA_PREKLADU.md`, `knihy/bern-1615/kni
   - Vždy piš **mušketa** (oprav všechny tvary *musketa*, *muskety*).
   - Vždy **píka** pro *Spieß* (už většinou je, zkontroluj shodu).
   - *Ladstecken* = **nabiják**; *Laden / Schafft* = **pažba**; *Pfanne* = **pánvička**; *Hahn / Hanen* = **kohout**; *Trucker* = **spoušť**; *Schwanschrauben* = **dnový šroub**; *Zündfläschlein* = **prachovnička**.
-  - Bernské úřady na `predmluva-01` (sken 5): `rychtář {Schuldtheiß}` (s poznámkou, že v čele republiky Bern stál *Schultheiß*, česky též šultys či starosta), `zemským fojtům {Landtvögten}`, `guvernérům {Gubernatorn}`, `kastelánům {Tschachtlanen}`, `fojtům {Vögten}`, `místodržícím {Statthalteren}`, `podfojtům {Vndervögten}`, `svobodným šikovatelům {Freyweiblen}`, `ammanům {Ammanen}`, `šikovatelům {Weiblen}` (+ vysvětlující poznámka k bernské zemské správě).
+  - Bernské úřady na `predmluva-01` (sken 5): `rychtář {Schuldtheiß}` (s poznámkou, že v čele republiky Bern stál *Schultheiß*, česky též šultys či starosta), `zemským fojtům {Landtvögten}`, `guvernérům {Gubernatorn}`, `kastelánům {Tschachtlanen}`, `fojtům {Vögten}`, `místodržícím {Statthalteren}`, `podfojtům {Vndervögten}`, `zemským biřicům {Freyweiblen}`, `ammanům {Ammanen}`, `biřicům {Weiblen}` (civilní zřízenci, ne vojenské hodnosti) (+ vysvětlující poznámka k bernské zemské správě).
   - Doplň `{Termín}` v podobě z tisku při **prvním výskytu na každé stránce** (`PRAVIDLA_PREKLADU.md` § 3).
 - **Zvláštní strany**:
   - `citaty` (sken 4): oprav latinský text podle skenu (`c4.jpg`) a doplň přesný český překlad všech tří citátů (Polybios 6, Cicero *Pro Murena*, Cicero *De officiis* 1) + stručnou poznámku o autorech.

@@ -10,8 +10,8 @@ bloky:
   - 32. Lincks doppliert euwre Glider von halben Reyen.
   - 33. Herstelt euch.
   cs:
-  - 32. Vlevo zdvojte své řady {Glider} z poloviny zástupů {Reyen}.
-  - 33. Zaujměte původní postoj.
+  - 32. Vlevo zdvojte řady {Glider} polovinami zástupů {Reyen}.
+  - 33. Do původního postavení.
 - typ: nadpis
   uroven: 2
   de: Außlegung dieses Kriegs Terminen.
@@ -24,7 +24,7 @@ bloky:
   de: |-
     Ein Reye ist alles das jenige/ was für deinem Angesicht/ vnd an deinem Rucken/ oder vor vnd hinder dir/ in grader Lini stehet.
   cs: |-
-    Zástup je všechno to, co stojí v přímé linii před tvou tváří a za tvými zády, neboli před tebou a za tebou.
+    Zástup je všechno, co stojí v přímé linii před tvou tváří a za tvými zády, tedy před tebou a za tebou.
 - typ: nadpis
   uroven: 3
   de: 2. Glid.
@@ -33,18 +33,18 @@ bloky:
   de: |-
     Alle die jenigen/ so neben deiner rechten vnnd lincken Seiten seitenwerts stehen/ das heißt Glider.
   cs: |-
-    Všichni ti, kteří stojí po tvém pravém a levém boku směrem do stran, se nazývají řady.
+    Všichni, kdo stojí vedle tebe po pravém i levém boku, tvoří řadu.
 - typ: nadpis
   uroven: 3
   de: 3. Rechtsumb.
   cs: 3. Vpravo vbok.
 - typ: odstavec
   de: Das ist/ sich auff dem rechten Fuß gegen der rechten Hand wenden.
-  cs: Znamená to obrátit se na pravé noze směrem k pravé ruce.
+  cs: To znamená obrátit se na pravé noze k pravé ruce.
 - typ: nadpis
   uroven: 3
   de: 4. Lincksumb.
   cs: 4. Vlevo vbok.
 - typ: odstavec
   de: Das ist/ sich auff den lincken Fuß
-  cs: To znamená obrátit se na levé noze
+  cs: To znamená na levé noze

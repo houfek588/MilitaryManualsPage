@@ -9,24 +9,24 @@ bloky:
   de: |-
     anzünde/ wann er das Puluer darauff schütten wil/ dardurch er sich selbs verletzen möchte/ vnd in mittels das Ladfleschlein (damit er zeit gewinnen möge) in der rechten Hand gefaßt/ fertig halte.
   cs: |-
-    nevznítila, až na ni bude chtít sypat prach {Puluer}, čímž by se mohl sám zranit; a mezitím má v pravé ruce držet uchopenou a připravenou prachovničku {Ladfleschlein}[^1], aby tak získal čas.
+    nevznítila, až z ní bude chtít sypat prach {Puluer} na pánvičku, čímž by se mohl sám zranit. Mezitím má mít prachovničku {Ladfleschlein}[^1] uchopenou v pravé ruce a připravenou, aby získal čas.
   pokracovani: true
 - typ: nadpis
   uroven: 3
   de: Auff die Pfan Puluer thut.
-  cs: Nasypte na pánvičku {Pfan} prach.
+  cs: Nasypte prach na pánvičku {Pfan}.
 - typ: odstavec
   de: |-
     Zum 17. wie er das Puluer auß dem Ladfleschlin/ vnd nicht auß der Musqueten Ladungen/ auff die Pfann thun sol/ dann dieweil dieselbe wegen der Ladung verruckt wurde/ so hinderte sölches sehr im fertig laden.
   cs: |-
-    Za sedmnácté, jak má prach na pánvičku sypat z prachovničky, a nikoli z náloží {Ladungen} muškety {Musqueten}, neboť kdyby se [mušketa] kvůli náloži pohnula ze směru, velmi by to zdržovalo při rychlém nabíjení.
+    Za sedmnácté, jak má sypat prach na pánvičku z prachovničky, a nikoli z náloží {Ladungen} muškety {Musqueten}; kdyby se totiž mušketa kvůli náloži vychýlila z polohy, velmi by to zdržovalo rychlé nabíjení.[^2]
 - typ: nadpis
   uroven: 3
   de: Die Pfann zuthut.
   cs: Zavřete pánvičku.
 - typ: odstavec
   de: Zum 18. wie er die Pfann mit den vordersten Fingern zusperren sol.
-  cs: Za osmnácté, jak má pánvičku předními prsty zavřít.
+  cs: Za osmnácté, jak má pánvičku zavřít předními prsty.
 - typ: nadpis
   uroven: 3
   de: Die Pfann abschüttet.
@@ -34,4 +34,7 @@ bloky:
 poznamky:
 - n: 1
   text: >-
-    Ladfleschlein (též Zündtfleschlin na str. [[013|13]]) zde označuje malou prachovničku na jemný zápalný prach (srov. Zündtfläschlein na str. [[005|5]]), nikoli odměrky hlavní prachové nálože (Ladungen) na bandalíru.
+    Ladfleschlein (na str. [[013|13]] „Lad: oder Zündtfleschlin“, tj. nabíjecí neboli zápalná prachovnička) zde označuje malou prachovničku na jemný zápalný prach (srov. Zündtfläschlein na str. [[005|5]]), nikoli odměrky s hlavní prachovou náloží (Ladungen) na bandalíru.
+- n: 2
+  text: >-
+    Věta „dieweil dieselbe wegen der Ladung verruckt wurde“ je nejasná. Překlad vztahuje „dieselbe“ k mušketě: kdyby voják sypal zápalný prach z odměrky na bandalíru, musel by mušketu odklonit z polohy. Možný je i výklad, že by se tím porušila (zmenšila) odměřená nálož.

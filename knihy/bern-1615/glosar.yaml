@@ -198,10 +198,6 @@ hesla:
   - Feldweibel
   - Feldtweybel
   - Feldweybel
-  - Weibel
-  - Weybel
-  - Weybeln
-  - Weiblen
   kategorie: velitele
   hledat:
   - šikovatel
@@ -4630,7 +4626,7 @@ hesla:
   kategorie: zbrane
   hledat:
   - \bkohout
-  pozn: Hahn – pohyblivé rameno doutnákového zámku se svěracími čelistmi, do nichž se upevňuje hořící doutnák.
+  pozn: Hahn – pohyblivé rameno doutnákového zámku se svěracími čelistmi, do nichž se hořící doutnák vtiskne (nasadí, aufftrucken) – nešroubuje se.
 - id: prachovnicka
   cs: prachovnička
   de:
@@ -4679,15 +4675,24 @@ hesla:
   hledat:
   - \bamman
   pozn: Ammann – představený venkovské obce či soudu v bernských zemích.
-- id: svobodny-sikovatel
-  cs: svobodný šikovatel
+- id: zemsky-biric
+  cs: zemský biřic
   de:
   - Freyweibel
   - Freyweiblen
   kategorie: velitele
   hledat:
-  - svobodn\w* šikovatel
-  pozn: Freyweibel – v bernském zřízení vyšší obecní či zemský úředník a soudní zřízenec pod zemským fojtem.
+  - zemsk\w* biřic
+  pozn: Freyweibel („svobodný biřic“) – v bernské správě civilní úředník, který řídil soudní jednání v zemských soudech (Landgerichte) v okolí Bernu; nejde o vojenskou hodnost.
+- id: biric
+  cs: biřic
+  de:
+  - Weibel
+  - Weiblen
+  - Weybel
+  kategorie: velitele
+  hledat: []
+  pozn: Weibel – v civilní správě švýcarských měst a obcí soudní a obecní zřízenec (posel rady a soudu, doručoval obsílky, vymáhal pokuty, zatýkal). Vojenský Feldweibel = šikovatel.
 - id: mistodrzici
   cs: místodržící
   de:
@@ -4727,7 +4732,7 @@ hesla:
   hledat:
   - \bpostoj
   - \bpozic
-  pozn: Postur / Stand – základní bojové postavení vojáka se zbraní a v šiku; „Herstellt euch!“ = návrat do původního postoje.
+  pozn: Postur / Stand – základní bojové postavení vojáka se zbraní a v šiku; „Herstelt euch“ = u jednotlivce s píkou návrat do původního postoje, u obratů šiku „Do původního postavení“ (návrat na předchozí místo).
 - id: zbran
   cs: zbraň
   de:
@@ -4748,7 +4753,7 @@ hesla:
   kategorie: jednotky
   hledat:
   - zdvoj
-  pozn: 'Manévr oranžské taktiky: vsunutí sudých řad nebo zástupů do lichých za účelem zhuštění či rozšíření šiku.'
+  pozn: 'Manévr oranžské taktiky: vsunutí sudých řad nebo zástupů do lichých za účelem zhuštění či rozšíření šiku. „Von halben Reyen“ = polovinami zástupů: zadní polovina řad vstoupí do přední.'
 - id: zatoceni
   cs: zatočení
   de:
@@ -4761,7 +4766,7 @@ hesla:
   hledat:
   - zatoč
   - zakruž
-  pozn: Schwenken / Schwingen – otočení (kolo) celého sevřeného šiku o 90° či 180° kolem křídelního zástupu.
+  pozn: Schwenken / Schwingen – otočení (kolo) celého semknutého šiku kolem krajního zástupu, „napůl nebo zcela“ (tisk úhel neuvádí; pravděpodobně o čtvrt nebo půl kruhu).
 - id: cviceni
   cs: válečné cvičení
   de:
@@ -4777,6 +4782,25 @@ hesla:
   de:
   - Landschafft
   - Landschafften
+  - Landtschafft
   kategorie: mista
   hledat: []
   pozn: Landschaft – ve švýcarských městských republikách poddanské venkovské území spravované z města, z něhož se stavěla zemská milice.
+- id: vicko-panvicky
+  cs: víčko pánvičky
+  de: ['Pfanndeckel', 'Pfann deckel']
+  kategorie: zbrane
+  hledat: ['víčk\w* pánvič']
+  pozn: "Otočná krytka pánvičky doutnákového zámku. Po nasypání zápalného prachu se zavře a přebytečný prach se z ní oklepe a odfoukne, aby mušketa nevystřelila předčasně."
+- id: zelezo-piky
+  cs: železo (píky)
+  de: ['Eysen', 'Eisen']
+  kategorie: zbrane
+  hledat: []
+  pozn: "Eysen – železná hlavice píky s hrotem; „u hrotu nebo u železa“ = přehmat až k hlavici."
+- id: tempo
+  cs: tempo
+  de: ['Termin']
+  kategorie: sluzba
+  hledat: ['\btemp(o|u|em|a)\b']
+  pozn: "Termin / zeit – jeden takt pohybu při cvičení se zbraní (tempo, doba); jednotlivé hmaty (griff) se provádějí po tempech."

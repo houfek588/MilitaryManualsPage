@@ -8,12 +8,12 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Marschiert vnd tragt die Gabel neben der Musqueten.
-  cs: Pochodujte a noste vidlici {Gabel} vedle muškety {Musqueten}.
+  cs: Pochodujte a neste vidlici {Gabel} vedle muškety {Musqueten}.
 - typ: odstavec
   de: |-
     Zum 34. wie/ wann er die Musquet auff die Schulteren gelegt/ widerumb wie zuvorhin dieselb halten/ vnd tragen sol.
   cs: |-
-    Za čtyřiatřicáté, jak má mušketu poté, co ji položil na rameno, opět držet a nosit jako předtím.
+    Za čtyřiatřicáté, jak má mušketu, když ji položil na rameno, opět držet a nést jako předtím.
 - typ: nadpis
   uroven: 3
   de: Die Musquet von der Schultern nembt.
@@ -22,7 +22,7 @@ bloky:
   de: |-
     Zum 35. wie er/ wann er auff der Schiltwacht steht/ sich fertig machen/ vnd seine Musquet/ wie vorgemelt/ mit der einen Hand von der Schultern herab nemmen sol.
   cs: |-
-    Za pětatřicáté, jak se má připravit, když stojí na stráži {Schiltwacht}, a svou mušketu, jak bylo uvedeno výše, jednou rukou sejmout z ramene.
+    Za pětatřicáté, jak se má připravit, když stojí na stráži {Schiltwacht}, a mušketu, jak bylo řečeno výše, jednou rukou sejmout z ramene.
 - typ: nadpis
   uroven: 3
   de: Die Musquet in die Fourcket/ oder Gabel legt.
@@ -31,4 +31,4 @@ bloky:
   de: |-
     Zum 36. wann er sich auff die Schiltwacht gestelt/ wie er die Musquet in die Fourcket legen sol.
   cs: |-
-    Za šestatřicáté, když se postavil na stráž, jak má mušketu položit do furkety.
+    Za šestatřicáté, jak má mušketu položit do furkety, když nastoupil na stráž.

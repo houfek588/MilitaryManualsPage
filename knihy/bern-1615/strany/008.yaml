@@ -1,4 +1,4 @@
-id: 008
+id: '008'
 list: '8'
 strana: verso
 sken: 26
@@ -7,13 +7,13 @@ overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 3
-  de: In die lincke hand euwer Musquet nembt/ vnd die Gabel darneben.
-  cs: Vezměte svou mušketu {Musquet} do levé ruky a vidlici {Gabel} vedle ní.
+  de: In die lincke Hand euwer Musquet nembt/ vnd die Gabel darneben.
+  cs: Vezměte mušketu {Musquet} do levé ruky a vidlici {Gabel} vedle ní.
 - typ: odstavec
   de: |-
     Zum Fünfften/ wie er die Musquet neben der Gabel in der lincken Hand allein/ das die Musquet weder zu hoch/ noch zu nider/ im gewicht sey/ vnd die rechte Hand frey behalten/ vnd den Ellenbogen von mehrer vestigkeit wegen/ wider die Hüffte setzen/ die Fourcket aber nicht schleiffen soll/ es were dann sach/ daß der Soldat zu müed/ oder zu schwach wurde.
   cs: |-
-    Za páté, jak má mušketu vedle vidlice udržovat v rovnováze v samotné levé ruce tak, aby nebyla ani příliš vysoko, ani příliš nízko, pravou ruku si ponechat volnou a loket kvůli větší pevnosti opřít o bok; furketu {Fourcket} však nemá táhnout po zemi, ledaže by byl voják příliš unavený nebo příliš zesláblý.
+    Za páté, jak má mušketu vedle vidlice držet jen samotnou levou rukou v rovnováze, tak aby nebyla ani příliš vysoko, ani příliš nízko, pravou ruku si ponechat volnou a loket pro větší pevnost opřít o bok. Furketu {Fourcket} však nemá vléci po zemi, leda by byl voják příliš unavený nebo zesláblý.
 - typ: nadpis
   uroven: 3
   de: Die Lont in die rechte Hand nembt.

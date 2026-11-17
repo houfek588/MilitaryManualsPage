@@ -8,11 +8,11 @@ bloky:
 - typ: odstavec
   pokracovani: true
   de: gegen der lincken Hand wenden.
-  cs: směrem k levé ruce.
+  cs: obrátit se k levé ruce.
 - typ: nadpis
   uroven: 3
   de: 5. Richtet euwre Reyen.
-  cs: 5. Vyrovnejte své zástupy {Reyen}.
+  cs: 5. Vyrovnejte zástupy {Reyen}.
 - typ: odstavec
   de: |-
     Damit wirdt gemeint/ das einer hinder dem anderen in grader Lini/ wie obangedeutet/ stehe.
@@ -21,34 +21,34 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: 6. Richtet euwre Glider.
-  cs: 6. Vyrovnejte své řady {Glider}.
+  cs: 6. Vyrovnejte řady {Glider}.
 - typ: odstavec
   de: |-
     Nemlich/ das ein jeder in seinem Glid in grader Lini/ vnd keiner vor dem andern stehe.
   cs: |-
-    Jmenovitě, aby každý stál ve své řadě v přímé linii a nikdo nestál před druhým.
+    Totiž aby každý stál ve své řadě v přímé linii a nikdo nestál před druhým.
 - typ: nadpis
   uroven: 3
   de: 7. Rechtsumb kehrt euch.
-  cs: 7. Čelem vzad vpravo.
+  cs: 7. Vpravo čelem vzad.
 - typ: odstavec
   de: |-
-    Das ist/ auff dem rechten Fuß nach der rechten Hand die Stirn wenden/ wo der Rucken war.
+    Das ist/ auff dem rechten Fuß nach der rechten Hand die Stirn wenden/ wa der Rucken war.
   cs: |-
-    To znamená obrátit na pravé noze čelo směrem k pravé ruce tam, kde byla záda.
+    To znamená na pravé noze obrátit čelo přes pravou ruku tam, kde byla záda.
 - typ: nadpis
   uroven: 3
   de: 8. Lincksumb kehrt euch.
-  cs: 8. Čelem vzad vlevo.
+  cs: 8. Vlevo čelem vzad.
 - typ: odstavec
   de: |-
     Das ist/ auff dem lincken Fuß nach der lincken Hand das Angesicht wenden/ wo der Rucken war.
   cs: |-
-    To znamená obrátit na levé noze tvář směrem k levé ruce tam, kde byla záda.
+    To znamená na levé noze obrátit tvář přes levou ruku tam, kde byla záda.
 - typ: nadpis
   uroven: 3
   de: 9. Herstelt euch.
-  cs: 9. Zaujměte původní postoj.
+  cs: 9. Do původního postavení.
 - typ: odstavec
   de: Durch diß wörtlin wirdt alzeit
-  cs: Tímto slovíčkem se pokaždé
+  cs: Tímto slovem se vždy

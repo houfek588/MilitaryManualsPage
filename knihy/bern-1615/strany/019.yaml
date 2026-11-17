@@ -1,4 +1,4 @@
-id: 019
+id: '019'
 list: '19'
 strana: recto
 sken: 37
@@ -13,7 +13,7 @@ bloky:
   de: |-
     Zum 29. wie er den Ladstecken desto kürtzer zufassen/ denselben abermal/ wie vorgemelt/ wider den Leib anstossen soll.
   cs: |-
-    Za devětadvacáté, jak má nabiják znovu opřít o tělo, jak bylo uvedeno výše, aby jej uchopil o to kratčeji.
+    Za devětadvacáté, jak má nabiják, aby jej uchopil o to kratčeji, opět opřít o tělo, jak bylo řečeno výše.
 - typ: nadpis
   uroven: 3
   de: Den Ladstecken wider einsteckt.
@@ -22,13 +22,13 @@ bloky:
   de: |-
     Zum 30. wie/ wann er den Ladstecken gantz zu vnderst am ende gefaßt/ denselben mit einem gewissen griff hurtig widerumb in die Laden oder Schafft hinein stossen sol.
   cs: |-
-    Za třicáté, jak má nabiják, když jej uchopí zcela na spodním konci, jistým hmatem hbitě zasunout zpět do pažby {Laden} neboli {Schafft}.
+    Za třicáté, jak má nabiják, když jej uchopí úplně na spodním konci, jistým hmatem hbitě zasunout zpět do pažby {Laden} neboli {Schafft}.
 - typ: nadpis
   uroven: 3
   de: Die Musquet mit lincker Hand herfür bringt.
-  cs: Předneste mušketu {Musquet} levou rukou.
+  cs: Přeneste mušketu {Musquet} levou rukou před sebe.
 - typ: odstavec
   de: |-
     Zum 31. wie/ wann er die Musquet widerumb in die Hand fassen wil/ dieselb erst mit der Lincken Hand vor sich bringen sol.
   cs: |-
-    Za jednatřicáté, jak má mušketu, když ji chce opět uchopit do ruky, nejprve levou rukou přednést před sebe.
+    Za jednatřicáté, jak má mušketu, když ji chce opět vzít do ruky, nejprve levou rukou přenést před sebe.

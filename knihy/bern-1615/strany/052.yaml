@@ -8,22 +8,23 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: 32. Lincks doppliert euwer Glider/ von halben Reyen.
-  cs: 32. Vlevo zdvojte své řady {Glider} z poloviny zástupů {Reyen}.
+  cs: 32. Vlevo zdvojte řady {Glider} polovinami zástupů {Reyen}.
 - typ: odstavec
   de: |-
     Hat ein gleiche meinung vorbehalten/ das alhie lincks gedoppliert wirdt.
-  cs: Má to stejný význam, s tou výhradou, že se zde zdvojuje vlevo.
+  cs: Má to stejný smysl, jen s tím rozdílem, že se zde zdvojuje vlevo.
 - typ: nadpis
   uroven: 3
   de: 33. Herstelt euch.
-  cs: 33. Zaujměte původní postoj.
+  cs: 33. Do původního postavení.
 - typ: odstavec
   de: Da soll sich ein jeder widerumb an sein vorige stell begeben.
-  cs: Zde se má každý opět navrátit na své předchozí místo.
+  cs: Zde se má každý vrátit na své předchozí místo.
 - typ: odstavec
   de: ENDE.
   cs: KONEC.
 - typ: obrazek
   soubor: erb-bern.png
   popis: >-
-    Dřevořez znaku města a republiky Bern pod závěrečným nápisem ENDE: v ozdobné kartuši na šikmém pruhu kráčející medvěd s vyplazeným jazykem a zdviženou prackou.
+    Dřevořez znaku města a republiky Bern pod závěrečným nápisem ENDE: v ozdobné kartuši s volutami šikmý pruh,
+    po němž vzhůru kráčí medvěd s vyplazeným jazykem a zdviženou přední tlapou.

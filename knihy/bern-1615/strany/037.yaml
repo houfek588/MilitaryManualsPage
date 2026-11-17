@@ -12,9 +12,15 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Gegen die Reuterey den Spieß felt/ vnd ziehet von Leder.
-  cs: Skloňte píku {Spieß} proti jízdě {Reuterey} a taste zbraň z pochvy.
+  cs: Sklopte píku {Spieß} proti jízdě {Reuterey} a taste zbraň[^1].
 - typ: odstavec
   de: |-
     Zum 15. den Spieß gegen die Reuterey zufellen/ stelt er denselben in die mitte der höle des rechten Fusses/ trittet mit dem lincken Fuß voran/ vnd erfaßt (sein lincken Fuß vor also buckende) den Spieß in einer zeit in die lincke/ steurt den Ellebogen auff das Knie/ den Spieß desto steiffer zu halten/ welcher nicht höher vom Boden/ als eins Pferds Brust höhe sein soll/ halt die rechte Hand frey/ mit welchern er darnach zugleich sein Seitenwehr ausserhalb dem lincken Arm von Leder ziecht.
   cs: |-
-    Za 15., chce-li [voják] sklopit píku proti jízdě, postaví ji doprostřed klenby pravé nohy, vykročí levou nohou vpřed a (krče takto vpředu levou nohu) uchopí píku v jedné době do levé [ruky], opře loket o koleno, aby píku držel o to pevněji, přičemž ta nemá být nad zemí výše než do výšky koňské hrudi; pravou ruku nechá volnou a vzápětí jí současně tasí svou postranní zbraň {Seitenwehr} z pochvy vně levé paže.
+    Za 15.: chce-li [voják] sklopit píku proti jízdě, postaví ji [patkou] doprostřed klenby pravé nohy, vykročí levou nohou vpřed a (pokrčiv takto vpředu levou nohu) uchopí píku v jedné době do levé [ruky] a opře loket o koleno, aby píku držel pevněji; ta nemá být nad zemí výše, než sahá koni hruď. Pravou ruku nechá volnou a vzápětí jí zároveň tasí postranní zbraň {Seitenwehr}, a to vně levé paže.
+poznamky:
+- n: 1
+  text: >-
+    „Von Leder ziehen“ – tasit zbraň (doslova „vytáhnout z kůže“, tj. z pochvy). V seznamu povelů (15. bod, str. 26)
+    zní tento povel: „Gegen dem rechten Fuß ewere Spieß fellet/ vnd die wehr von Läder ziecht“ – Sklopte píku opřenou
+    o pravou nohu a taste zbraň.

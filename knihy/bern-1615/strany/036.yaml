@@ -8,16 +8,16 @@ bloky:
 - typ: odstavec
   pokracovani: true
   de: rechter Hand schleiffen/ wurd man eine zeit verlieren.
-  cs: ji pravou rukou, ztratil by jednu dobu.
+  cs: pravou rukou, ztratil by jednu dobu.
 - typ: nadpis
   uroven: 3
   de: Herstelt euch/ oder fehlt den Spieß.
-  cs: Zaujměte původní postoj nebo sklopte[^1] píku {Spieß}.
+  cs: Zaujměte původní postoj, nebo sklopte[^1] píku {Spieß}.
 - typ: odstavec
   de: |-
     Zum 13. wie er sich widerumb herstellen/ oder den geschleifften Spieß gegen dem Feind fellen/ so soll er dasselb mit lincksumb wenden in einem griff/ oder zeit verrichten/ vnd den lincken Fuß auff seiner stell stehn lassen.
   cs: |-
-    Za 13., jak se má opět vrátit do původního postoje nebo sklopit vlečenou píku proti nepříteli: má to provést obratem vlevo v jednom hmatu neboli v jedné době a levou nohu nechat stát na místě.
+    Za 13., jak se má opět vrátit do původního postoje neboli sklopit vlečenou píku proti nepříteli: má to provést obratem vlevo v jednom hmatu neboli době a levou nohu nechat stát na místě.
 - typ: nadpis
   uroven: 3
   de: Den Spieß niderstelt.
@@ -26,8 +26,9 @@ bloky:
   de: |-
     Zum 14. den Spieß niderzustellen/ wann er jhn eben gefelt/ laßt er die lincke an jhrer stell bleiben/ fasset denselben mit der rechten Hand/ auch eben hoch/ wie zuvor gelehrt/ stelt jhn nider/ vnd trittet mit dem
   cs: |-
-    Za 14., chce-li [voják] postavit píku na zem, když ji právě sklopil, nechá levou [ruku] na jejím místě, uchopí píku pravou rukou stejně vysoko, jak bylo učeno dříve, postaví ji na zem a kročí
+    Za 14.: chce-li [voják] postavit píku na zem, když ji má právě sklopenou, ponechá levou [ruku] na jejím místě, uchopí píku pravou rukou ve stejné výšce, jak bylo vyučeno dříve, postaví ji na zem a kročí
 poznamky:
 - n: 1
   text: >-
-    V tisku „fehlt“, dobová pravopisná varianta či tisková chyba místo „fellt“ (sklopte).
+    V tisku „fehlt“ (ověřeno ve skenu), tisková chyba nebo pravopisná varianta za „fellt“ (sklopte); v seznamu
+    povelů (13. bod) stojí „fellt“ a povel má obrácené pořadí: Sklopte píku, nebo zaujměte původní postoj.

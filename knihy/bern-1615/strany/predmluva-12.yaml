@@ -8,18 +8,21 @@ bloky:
 - typ: odstavec
   pokracovani: true
   de: |-
-    schleidern/ vnd im wurff ein Har treffen können. Der König Vsia. 2. Paralip. am 26. cap. hat 307500. Mann gehabt/ welche alle zum Streiten geschickt/ abgericht/ vnd geübt gewesen. Von dem Königlichen Propheten David/ liset man/ wie seine streitbare Helden/ in jhren gewehren zu allen zeiten so hurtig gewesen: deß Königs Zedekia Feldhaubtman Sopher/ hat die Kinder Israel in fridens zeiten lehren Kriegen/ 4. Reg. 25. cap.
+    schleidern/ vnd im wurff ein Har treffen können. Der König Vsia. 2. Paralip. am 26 cap. hat 307500. Mann gehabt/ welche alle zum Streiten geschickt/ abgericht/ vnd geübt gewesen. Von dem Königlichen Propheten David/ liset man/ wie seine streitbare Helden/ in jhren gewehren zu allen zeiten so hurtig gewesen: deß Königs Zedekia Feldhaubtman Sopher/ hat die Kinder Israel in fridens zeiten lehren Kriegen/ 4. Reg. 25. cap.
   cs: |-
-    házeli prakem a při vrhu dokázali trefit i vlas. Král Uziáš měl ve 2. knize Paralipomenon ve 26. kapitole 307 500 mužů, kteří všichni byli k boji zdatní, vycvičení a zběhlí. O královském proroku Davidovi se čte, jak hbití byli v každé době jeho udatní hrdinové se svými zbraněmi; polní hejtman {Feldhaubtman} krále Sedechiáše Sofér[^1] učil syny Izraele v dobách míru válčit (4. kniha Královská, 25. kapitola).
+    házeli prakem a při vrhu dokázali trefit i vlas. Král Uziáš (2. kniha Paralipomenon, 26. kapitola) měl 307 500 mužů, kteří všichni byli k boji zdatní, vycvičení a zběhlí. O královském proroku Davidovi se čte, jak byli jeho udatní hrdinové se svými zbraněmi vždy hbití. Polní hejtman {Feldhaubtman} krále Sedechiáše Sofér[^1] učil syny Izraele v dobách míru válčit (4. kniha Královská, 25. kapitola).
 - typ: odstavec
   de: |-
-    Wann wir auch besehen/ der Römern Policey/ so befinden wir daß sie auch in fridens zeiten der Kriegsdisciplin obgelegen. Vigetius lib. 1. cap. 7. schreibet also: Wir haben erfahren vnd befunden/ das mancher Zug vnd Heer durch vngeschickligkeit deß Krigsvolcks/ die in zeit des Fridens vngeübt gewesen/ vnd durch kunst/ vnd Fürbit/ zum Kriegswesen kommen/ die Feldschlachten verloren/ vnd mercklichen nachtheil empfangen haben.
+    Wann wir auch besechen/ der Römern Policey/ so befinden wir daß sie auch in fridens zeiten der Kriegsdisciplin obgelegen. Vigetius lib. 1. cap. 7. schreibet also: Wir haben erfahren vnd befunden/ das mancher Zug vnd Heer durch vngeschickligkeit deß Krigsvolcks/ die in zeit des Fridens vngeübt gewesen/ vnd durch kunst/ vnd Fürbit/ zum Kriegswesen kommen/ die Feldschlachten verloren/ vnd mercklichen nachtheil empfangen haben.
   cs: |-
-    Pohledíme-li také na správu věcí veřejných u Římanů, shledáme, že i oni se v dobách míru věnovali válečné disciplíně. Vegetius v 1. knize, 7. kapitole píše takto: „Zkusili jsme a shledali, že mnohé tažení {Zug} a vojsko pro nezpůsobilost válečného lidu, který byl v době míru necvičený a k válečnictví se dostal jen skrze přízeň[^2] a přímluvu, prohrálo polní bitvy a utrpělo citelnou újmu.“
+    Pohlédneme-li také na římské státní zřízení, shledáme, že i Římané se v dobách míru věnovali válečné disciplíně. Vegetius[^2] v 1. knize, 7. kapitole píše takto: „Zakusili jsme a shledali, že mnohé tažení {Zug} a vojsko prohrálo polní bitvy a utrpělo citelnou škodu pro nezpůsobilost válečného lidu, který byl v době míru necvičený a k válečnictví se dostal jen skrze přízeň[^3] a přímluvu.“
 poznamky:
 - n: 1
   text: |-
-    V počítání Vulgáty odpovídá 4. kniha Královská dnešní 2. knize Královské (25,19); „Sofér“ (hebr. sófer, písař) byl úředník pověřený odvody lidu.
+    4. kniha Královská podle počítání Vulgáty = dnešní 2. kniha Královská (25,19). Vulgáta čte „Sopher principem exercitus, qui probabat tirones de populo terrae“ (Sofér, velitel vojska, který zkoušel nováčky z lidu země) a bere hebr. sófer („písař“) jako vlastní jméno; odtud „polní hejtman Sofér“.
 - n: 2
   text: |-
-    Tisková chyba v německé předloze: „kunst“ místo „gunst“ (přízeň, podle lat. originálu Vegetia „per gratiam et suffragia“).
+    Publius Flavius Vegetius Renatus, Epitoma rei militaris (konec 4. stol.); tisk má zkomoleně „Vigetius“.
+- n: 3
+  text: |-
+    Tisková chyba v německé předloze: „kunst“ místo „gunst“ (přízeň); Vegetius na tomto místě kárá nováčky přijímané z přízně (per gratiam). Smysl dvojice „Gunst vnd Fürbit“ je „protekce a přímluva“.

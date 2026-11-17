@@ -8,7 +8,7 @@ bloky:
 - typ: odstavec
   de: |-
     vortheil versuchen/ vnd/ wie obstaht/ die Musquet im gewicht halten soll.
-  cs: obratností jej zkoušet a, jak stojí výše, držet mušketu {Musquet} v rovnováze.
+  cs: obratností jej vyzkoušet a mušketu {Musquet}, jak bylo řečeno výše, držet v rovnováze.
   pokracovani: true
 - typ: nadpis
   uroven: 3
@@ -18,14 +18,14 @@ bloky:
   de: |-
     Zum 40. wie er auff der Schiltwacht stehen/ in zeit der noht fertig sein/ mit auffgesetzter Lont seinen Standt halten/ vnd die Pfann für den Funcken mit den zweyen vordersten Fingern bedecken sol.
   cs: |-
-    Za čtyřicáté, jak má stát na stráži {Schiltwacht}, být v případě nouze připraven, držet své stanoviště s nasazeným doutnákem {Lont} a dvěma předními prsty chránit pánvičku před jiskrami.
+    Za čtyřicáté, jak má stát na stráži {Schiltwacht}: v čas nouze být připraven, s nasazeným doutnákem {Lont} držet své stanoviště a dvěma předními prsty zakrývat pánvičku před jiskrami.
 - typ: odstavec
   de: |-
     NOTA.
     Daß in dem 39. Puncten vier gebiet eingeschlossen/ ist darumb geschehen/ dieweil solche hievor außtrucklich gnug angedeutet/ derwegen dieselben alhie in einen einzigen Puncten verfaßt worden.
   cs: |-
     POZNÁMKA.
-    To, že jsou v 39. bodě zahrnuty čtyři povely, se stalo proto, že již byly dříve dostatečně výslovně vyloženy, a proto byly zde shrnuty do jediného bodu.
+    Že jsou v 39. bodě zahrnuty čtyři povely, se stalo proto, že již byly dříve dostatečně výslovně vyloženy; proto jsou zde shrnuty do jediného bodu.
 - typ: odstavec
   de: Folget das Exercitium des Spiesses.
   cs: Následuje cvičení s píkou {Spiesses}.
