@@ -7,13 +7,13 @@ overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 3
-  de: Zwelff puncten darauß ein Leger geschlagen sein wil.
+  de: Zwelff puncken darauß ein Leger geschlagen sein wil.
   cs: Dvanáct bodů, podle nichž má být rozbito ležení {Leger}.
 - typ: odstavec
   de: |-
     Zum ersten wil ein Leger nach fortheil geschlagen sein / das es starck lige / darmit der Feind dasselbig nit wol angreiffen oder vberfallen möge.
   cs: |-
-    Za prvé: ležení má být rozbito s výhodou tak, aby leželo na pevném místě, aby na ně nepřítel nemohl snadno zaútočit nebo je přepadnout.
+    Za prvé: ležení se má rozbít s výhodou terénu, aby bylo pevné a nepřítel na ně nemohl snadno zaútočit ani je přepadnout.
 - typ: odstavec
   de: |-
     Zum andern das es geschlagen werde nach gelegenheit der Reutter vnd Knecht / ein jedes besonder / nit durch einander souil müglich.
@@ -33,27 +33,27 @@ bloky:
   de: |-
     Zum fünfften das darüber die Lermenpletz würden fürgenomen / das mann sie mit dem Geschütz / bestellen vnd verziehen kündt.
   cs: |-
-    Za páté: aby k tomu byla poplachová místa volena tak, aby je bylo možno osadit a zahradit děly {Geschütz}.
+    Za páté: aby se poplachová místa vybírala tak, aby je bylo možno obsadit děly {Geschütz} a zahradit.
 - typ: odstavec
   de: |-
     Zum sechsten ob es sich zutragen würd / durch gelegenheit der Land vnd art / das es Bergig vnd mit gründen geschaffen were / vnd wasserstreme hette / das also das Leger dardurch můst in die vil getheilt vnd geschlagen / so soll die versehung geschehen / das die geschlagen werden / das die Feind nit darzwischen einfallen / vnd ein leger dem andern zu hilff komen möchten.
   cs: |-
-    Za šesté: stalo-li by se povahou krajiny a půdy, že by byla hornatá, členěná úžlabinami a měla vodní toky, takže by se ležení muselo rozdělit a rozbít na více částí, má být učiněno takové opatření, aby byla rozbita tak, aby mezi ně nepřátelé nemohli vpadnout a jedno ležení mohlo přispět druhému na pomoc.
+    Za šesté: stalo-li by se povahou krajiny a půdy, že by byla hornatá, členěná úžlabinami a měla vodní toky, takže by se ležení muselo rozdělit a rozbít na více částí, je třeba zařídit, aby jednotlivé části byly rozbity tak, aby mezi ně nepřítel nemohl vpadnout a jedno ležení mohlo přispět druhému na pomoc.
 - typ: odstavec
   de: |-
     Zum sibenden sollen die leger geschlagen werden / das die Reuter in die gründe vnd bei die wasser komen / vnd die Knecht in die höhe an die berg / nechst bei das geschütz / darmit sie das verwachen mögen.
   cs: |-
-    Za sedmé: ležení mají být rozbita tak, aby jezdci přišli do údolí a k vodám, a knechti na výšiny k horám, hned vedle děl, aby je mohli střežit.
+    Za sedmé: ležení mají být rozbita tak, aby jezdci přišli do údolí a k vodám a knechti na výšiny k horám, hned k dělům, aby je mohli střežit.
 - typ: odstavec
   de: |-
     Zum achten ob sich zutragen würd das die leger also durch die gelegenheit als durch Berg / Thal vnd wasser getheilt stückweiß geschlagen werden musten / soll doch gesechehen das die so es sein kan / mit vorteil bei einander geschlagen werden / das mann die Wacht wol versehen kan / vnnd das die auff einander warten / vnnd mann die mit schantzen vnd vergraben / auch gemachen vnd vergraben / oder verwaren möchte / darmit die Wacht desto baß versehen kündt werden.
   cs: |-
-    Za osmé: přihodilo-li by se, že by ležení musela být takto podle terénu – horami, údolími a vodami – rozbita rozděleně po částech, má se přece stát[^1], nakolik to bude možné, že budou rozbita s výhodou pohromadě, aby se dala dobře obstarat stráž {Wacht}, aby na sebe vzájemně navazovala a aby je bylo možno šancemi {schantzen} a příkopy také upravit, obkopat či zajistit[^2], aby tak stráž mohla být tím lépe zastávána.
+    Za osmé: přihodilo-li by se, že by ležení musela být takto podle terénu – horami, údolími a vodami – rozbita rozděleně po částech, má se přesto, pokud to jde, zařídit[^1], aby byly jednotlivé části rozbity s výhodou blízko sebe, aby se dala dobře obstarat stráž {Wacht}, aby jedna část dávala pozor na druhou a aby je bylo možno šancemi {schantzen} a příkopy opevnit, obkopat či jinak zajistit[^2]; tak bude možno tím lépe obstarávat stráž.
 - typ: odstavec
   de: |-
     Zum neunden so die leger also getheilt sein musten / vnd die lermenpletz dergleichen / das als dann das Geschütz würd darauff gestelt vnd gezogen / daß es keinem andern lermenplatz noch standt schaden künd.
   cs: |-
-    Za deváté: musela-li by být ležení takto rozdělena, a poplachová místa rovněž, pak mají být děla na ně postavena a natažena tak, aby nemohla škodit žádnému jinému poplachovému místu ani stanovišti.
+    Za deváté: musela-li by být ležení takto rozdělena, a poplachová místa rovněž, pak mají být děla na ně postavena a dopravena tak, aby nemohla škodit žádnému jinému poplachovému místu ani stanovišti.
 - typ: odstavec
   de: |-
     Zum zehenden das die leger geschlagen würden / das geraume gassen dardurch gehen möchten / wann lermen würd / das mann bald zusamen vnd auß den legern komen möcht / deßgleichen ist es auch gůt / so ein leger brennen würd.

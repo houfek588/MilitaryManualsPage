@@ -7,8 +7,8 @@ overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 2
-  de: Gerichtsordnung der Lantsknecht
-  cs: Soudní řád {Gerichtsordnung} lancknechtů {Lantsknecht}
+  de: Gerichtsordnung der Lantskneckt
+  cs: Soudní řád {Gerichtsordnung} lancknechtů {Lantskneckt}
 - typ: nadpis
   uroven: 3
   de: Hauptleut.
@@ -27,7 +27,7 @@ bloky:
   de: |-
     Dem Schultheisen von den Partheien so sich vor versprechen/ ein Marzel/ dem Gerichtsweibel von jeder person fürzubieten ein marzel.
   cs: |-
-    Rychtáři od stran, které před ním přednesou svou věc[^3], jeden marcel {Marzel}; soudnímu šikovateli {Gerichtsweibel} za předvolání každé osoby jeden marcel.
+    Rychtáři od stran, které si ustanoví řečníka[^3], jeden marcel {Marzel}; soudnímu šikovateli {Gerichtsweibel} za předvolání každé osoby jeden marcel.
 - typ: odstavec
   de: |-
     Von jeder kundtschafft zuuerhören dem Schultheisen/ Gerichtsschreiber/ Gerichtsweibel jedem ein Marzel.
@@ -55,22 +55,22 @@ bloky:
   de: |-
     Welcher parthei durch den Gerichtsweibel vmb kundtschafft für gebotten wirt/ vnd vor dem Schultheisen nicht erscheint/ dieselbig parthei ist verfallen dem Schultheisen ein gulden.
   cs: |-
-    Kterékoli straně je soudním šikovatelem přikázáno dostavit se ke svědectví a nedostaví se před rychtáře, tatáž strana propadá rychtáři pokutou jednoho zlatého.
+    Která strana je soudním šikovatelem předvolána ke svědectví a nedostaví se před rychtáře, propadá rychtáři pokutou jednoho zlatého.
 - typ: odstavec
   de: |-
     Item was hinder den Schultheisen gelegt wirdt zubehalten/ daß er dann schuldig ist/ den partheien zuuerwarn/ soll jm von solcher behaltung wegen/ für sein gerechtigkeit zustehn vnd erlegt werden der zehent pfenning/ vnd wo das der Schultheis würde verwarlosen ist er denselbigen partheien schuldig dasselbig erlegt gelt oder gůt zubezalen/ wo aber sach were/ daß dem schultheisen solch erlegt vnd bezalt gelt oder gůt/ durch oder von den feinden abgetrungen würde/ das soll der schultheis den partheien zubezalen nit schuldig sein.
   cs: |-
-    Dále: co se složí u rychtáře do úschovy, což je pak povinen stranám opatrovat, z takové úschovy mu má jako jeho právo náležet a být odveden desátý peníz; a pokud by to rychtář zanedbal a ztratil, je povinen dotyčným stranám takto složené peníze nebo majetek nahradit. Nastalo-li by však, že by rychtáři takto složené a odevzdané peníze nebo majetek byly odňaty či vyrvány nepřáteli, není rychtář povinen to stranám nahrazovat.
+    Dále: co se u rychtáře složí do úschovy, kterou je povinen stranám opatrovat, z toho mu má za úschovu jako jeho právo náležet a být odveden desátý peníz; a pokud by to rychtář zanedbal a ztratil, je povinen dotyčným stranám takto složené peníze nebo majetek nahradit. Nastalo-li by však, že by rychtáři takto složené a odevzdané peníze nebo majetek byly odňaty či vyrvány nepřáteli, není rychtář povinen to stranám nahrazovat.
 poznamky:
 - n: 1
   text: |-
-    Osamocené záhlaví „Hauptleut.“ pod nadpisem v tisku (patrně zbytek či tiskový omyl předlohy před přísahou přísedících).
+    Na skenu je „Hauptleut.“ druhým, menším řádkem pod nadpisem: buď pokračuje titul („Soudní řád lancknechtských hejtmanů“), nebo jde o osamocené záhlaví či omyl sazeče; ponecháno jako samostatný nadpis. V nadpisu tisk píše „Lantskneckt“ (jako na 079r).
 - n: 2
   text: |-
     V tisku je před písmeny „S sollen“ omylem vsazena dřevořezová iniciála „W“ místo „E“ (zamýšleno „ES sollen“).
 - n: 3
   text: |-
-    „So sich vor versprechen“ – zde patrně místo „verfürsprechen“, tj. které před soudem přednesou svou při či si ustanoví řečníka.
+    „So sich vor versprechen“ – patrně za „verfürsprechen“, tj. vzít si před soudem řečníka (Fürsprech), který za stranu mluví; stejné ustanovení má soudní řád u Fronsbergera.
 - n: 4
   text: |-
     „Ein ort eins gulden“ – jeden ort = čtvrtina mince (čtvrt zlatého).

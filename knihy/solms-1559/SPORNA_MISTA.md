@@ -96,3 +96,49 @@ Německý text `de` ponechává dobové chyby tisku věrně podle skenů BSB a u
   - **Vazba, nečíslované listy a prohozené tabule srubů**: Foliace je tištěna až od listu 7 (`5-007r`), v OCR chybně čtena na listech `13`, `14` a `25` (opraveno podle skenů). List `24` (`5-024r`–`5-024v`, skeny `483`–`484`) je široký rozkládací dvojlist; mezi listem 25 a 26 je vložena dvojice nečíslovaných listů `[25a]`–`[25b]` (`5-025a-v`–`5-025b-r`, skeny `487`–`488`, protější prázdné strany BSB nedigitalizovala). Text 3. a 4. srubu má mírně prohozený poměr oblých a hranatých bašt vůči tabulím `476` a `478`, a popis hlavního čtvercového srubu napůl ve vodě a napůl na souši (`5-025r`, osmý srub) odpovídá rozkládací tabuli `484` pod sedmým srubem (`5-024r`–`5-024v`).
   - **Tiskařské podoby a přesmyčky**: Zachovány v `de` s výkladem v poznámkách: *Ostwald Nideroff* (`5-titul`) vs. *Ostwald Niderofft* (`5-009r`), `Kreig` / `vud` (`5-001r`), `mit den kurtzen vier Büchsen` za *Feuerbüchsen* (`5-003v`), `bescheibung` (`5-006r`), `Orduung` (`5-009r`), `verrachten` za *verrichten* (`5-011v`), `ziegen` / `Hilt` (`5-012r`), `452000 stcük` (`5-014r`), `stacker Streichen` (`5-020r`), `außgeuerdte` (`5-021r`), `vder` za *oder* (`5-025b-r`). Zkomolená ruská jména knížectví (*Cweiscau*, *Chelsce*, *Rzysen*, *Kozausca*) ponechána v `de` s výkladem v poznámce (`5-013v`).
   - **Hornický rejstřík ze Saint-Dizier (`5-009v`–`5-011r`) a zásobovací počty (`5-014r`, `5-015r`)**: Na `5-009v` tištěno v záhlaví směn omylem „die Schicht 6. stundt lang“ místo 4 hodiny; v pravém sloupci nádeníků dávají vypsaná čísla 66 směn proti tištěným 101 směnám (`40 fl. 6 batzů`); na `5-010r` součet výdajů a dozorců dává `45 fl. 2 b.` proti tištěným `45 fl. 5 b.` (ale součet `150 fl. 10 b.` přesně souhlasí při započtení `45 fl. 5 b.`); na `5-010v` součet `13 fl. 10 b.` odpovídá **41** směnám po 5 batzech (nikoli tištěným 51 směnám) a v druhém oddíle je rozmazaná číslice `2` u *Hanß Meter* (součet 34 přesně souhlasí). Celkový součet `299 fl. 10 b.` = *300 zlatých méně 5 batzů* i závěrečný účet `165 fl.` (`5-011r`) souhlasí při 15 batzech za zlatý a kurzu 23 batzů za sluneční korunu na jediný batz. Na `5-014r` tištěno `1461. Achtel` (proti `2 511`); na `5-015r` tabulka od `10 000` osob omylem dál půlí předchozí dávku. Jediné varování `over_strany.py --prisne` v 5. knize (`5-026r`: *fein ordenlich*) je autentické příslovce *fein*.
+
+## 2. revize – První kniha (2026-11-17)
+
+Zadání `zdroje/ZADANI_REVIZE2.md` (plynulost „středně“, postup po knihách), zprávy `zdroje/kontrola/revize2-kniha1-A…D.md`.
+
+**Sjednoceno po revizi:** *Kriegßleut* = „válečníci“ v celé 1. knize (dávka D měla „vojáci“); *Justitien* = „justice“ /
+„spravedlnost“ – nové heslo `justice` (dříve pod `soud`); nová hesla `valecna-sprava` (*Kriegßregirung*), `zemsky-lid`
+(*Landtuolck*), `junkr` (*Junckern*); `{Regiment}` a `{hauffen}` odstraněny tam, kde znamenají kázeň/správu, resp. dav
+(poznámky hesel `pluk` a `sik` to vysvětlují); `1-029r` – odstavce *Das ist aber recht…* a *Wann ein Herr dann…* sloučeny
+s předchozími (v tisku bez odsazení); `1-024r` – zrušeno `pokracovani` (v tisku nový odstavec).
+
+**Rozhodnutí autora (2026-11-17):** *Oberst / Oberster / Obersten* samostatně = vždy „plukovník“ v celé edici Solmse
+(218 míst sjednoceno skriptem `nastroje/solms_plukovnik.py`, dříve „nejvyšší velitel“ apod.); *Fendlin* u jízdy = „korouhev“
+(`1-010r`, `1-010v`, `1-020r`, smíšené místo `036v` „korouhve či praporce“).
+
+**Otevřená místa k rozhodnutí:**
+- `1-003v` *zwei mal thůn kan*; `1-008r` *mit gůt thun werden*; `1-010v` *die langen Reihen anzunemen*.
+- `1-014r` *für ein Regiment zu nemen* (vláda × pluk); `1-016r` *erschweren* (erschwören × erwerben);
+  `1-016v` *auffhebung*; `1-018v` doplněk „kdykoli [je zaslechl]“; `1-019v` čl. 6 vztah vztažné věty.
+- `1-021r` *gestehenden*; `1-024r` *nit/mit beschreiben*; `1-031r` chybějící zápor *zurathen*; `1-035r` *zu forderen*;
+  `1-037v` *das wart bei disem*; `1-038r` *Fundierungen* a „první ven, poslední v ležení“.
+- `1-002v` *Müntzenberg* (v tisku spíš *Min-tzenberg*); `1-006v` *Hern* × *Herꝛn* (ověřit ve skenu).
+
+## 2. revize – Druhá až Pátá kniha (2026-11-18)
+
+Zprávy `zdroje/kontrola/revize2-kniha2-A…F.md`, `revize2-kniha3-A…E.md`, `revize2-kniha4.md`, `revize2-kniha5-A…B.md`
+(v každé je oddíl „Sporná místa k rozhodnutí“ s citací DE + CS a návrhy do glosáře).
+
+**Sjednoceno napříč knihami:** *Oberst* = plukovník (i heslo `nejvyssi-velitel-jizdy` → „plukovník jízdy“); *Kriegßleut* =
+válečníci; *Feurpfeil / haußpfeil* = zápalný šíp; *Büchsenpulver* = střelný prach; *Maiestat* = Veličenstvo (oslovení
+pána v rozmluvě 1. knihy zůstává „Milost“); *Justitie(n)* = justice/spravedlnost; tiskové zkratky v `de` rozepsány
+(vñ → vnd, mañ → mann, haltẽ → halten…, 86 bloků); u kladkostrojů (*züg*, 3-014v, 3-016v, 3-018r) odstraněny odkazy,
+které vedly na „tažení“; glosář doplněn o tvary a nová hesla (běžící houf, mistrovský a řemeslný kus, soudek, poměr,
+klepr, ochranný list, trojčlenka, sekané železo, správce sýpky, zemské stavy).
+
+**Hlavní otevřená místa:**
+- Kniha 2: *brennen* = „přiražení“ (019v); *der Oberst Brantmeister*; *Brenfanen* korouhev × praporec; *oder/ob er gleich*
+  (017v, opraveno podle skenu); *nicht gerechnet* (043r, překládáno podle smyslu „mit“); *verricht* (042r, opraveno);
+  *Schmidten* (083v); čtení *Obersten Hauptmans vnd Beuelchabers* (079r); *zu fůß gemustert* (059r).
+- Kniha 3: 72 × 26 kladkostrojů (3-028r, tisk má 72); *in 5. theil* (3-005r); *bedarff man einn Monat* (3-023r/v);
+  *Mercurio sublimato*, *Salpartica*, *Camil* (3-055r–3-063r, ponecháno bez překladu); výklad kouřové lsti (3-051r);
+  pětidílné dělení vývrtu (3-046v).
+- Kniha 4: *bedencken* × *bedecken* a *Legern* (4-017r); *in die ander Ordnung* (4-001r); *verzichten* (4-012r).
+- Kniha 5: význam *Ziegel*, *Focher*, *Gytter*; jméno *Asthauer* (tisková chyba za Aschawer?); úroveň nadpisů srubů;
+  nově oddělený odstavec „Mit den Wagen…“ (5-015v, lze vrátit); chyba tisku 1461 Achtel (správně asi 2 511).
+- Celá kniha: v `de` se střídá zápis lomítka „slovo / slovo“ a „slovo/ slovo“ (podle předlohy přepisu) – nesjednoceno.

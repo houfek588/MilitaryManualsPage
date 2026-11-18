@@ -9,17 +9,17 @@ bloky:
   de: |-
     Deßgleichen sol er allen tag ein maß nemen/ wie die 24. stundt gefarn oder arbeit worden sei.
   cs: |-
-    Stejně tak má každý den vzít míru, jak se za těch 24 hodin razilo a pracovalo.
+    Rovněž má každý den změřit, kolik se za těch 24 hodin vyrazilo a vypracovalo.
 - typ: odstavec
   de: |-
     Ein Schicht ist 4. stundt lang/ vnd so 4. stundt jr ende haben/ dann gehn andere arbeiter an/ die arbeiten auch ein Schicht/ das sind auch 4. stundt/ also geht es für vnd für biß 24. für komen/ das sind in den 24. stunden 6. Schichten/ die Schicht 6. stundt lang.
   cs: |-
-    Jedna směna {Schicht} je 4 hodiny dlouhá, a když 4 hodiny uplynou, nastupují jiní dělníci a ti rovněž pracují jednu směnu, což jsou také 4 hodiny; tak to jde stále dokola, až se naplní 24 hodin, to jest za 24 hodin 6 směn, každá směna 6 hodin dlouhá.[^1]
+    Jedna směna {Schicht} trvá 4 hodiny; když 4 hodiny uplynou, nastupují jiní dělníci a i ti pracují jednu směnu, tedy rovněž 4 hodiny. Tak to jde dál a dál, až uplyne 24 hodin; to je za 24 hodin 6 směn, směna po 6 hodinách.[^1]
 - typ: odstavec
   de: |-
     Knecht angefangen am 21. tag Julij.
   cs: |-
-    Čeledíni {Knecht} započatí 21. dne měsíce července:
+    Čeledíni {Knecht}, kteří začali 21. července:
 - typ: tabulka
   de:
   - - Steffen Vnderdürner
@@ -91,7 +91,7 @@ bloky:
     - 5 směn
   - - Ostwald Probst
     - 6 směn
-  - - Christan „Nezdárný“ (thů kein gůt)
+  - - Christan thů kein gůt
     - 6 směn
   - - Caspar Saltzbürger
     - 6 směn
@@ -99,7 +99,7 @@ bloky:
   de: |-
     Summa 100 schichten zu 5 batz. Summa gelt 33. flo. 5. batzen.
   cs: |-
-    Součet 100 směn po 5 batzech {batzen}, součet peněz 33 zlatých {fl.} 5 batzů.[^2]
+    Součet 100 směn po 5 bacenech {batz}, součet peněz 33 zlatých {flo.} 5 bacenů.[^2]
 - typ: tabulka
   de:
   - - Veit Wenier
@@ -167,7 +167,7 @@ bloky:
   de: |-
     Summa 101. schichten zu 6 batz. Summa gelt 40 fl. 6 batz.
   cs: |-
-    Součet 101 směn po 6 batzech, součet peněz 40 zlatých 6 batzů.[^3]
+    Součet 101 směn po 6 bacenech, součet peněz 40 zlatých 6 bacenů.[^3]
 - typ: odstavec
   de: |-
     Am 21. tag Julij Hawer.
@@ -246,10 +246,10 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Zřejmý tiskový omyl na konci věty: „die Schicht 6. stundt lang“ místo správného *4. stundt lang* (6 × 4 = 24 hodin, jak sám Solms v téže větě uvádí).
+    Zřejmý tiskový omyl na konci věty: „die Schicht 6. stundt lang“ místo *4. stundt lang* (6 × 4 = 24 hodin, jak Solms v téže větě sám uvádí).
 - n: 2
   text: |-
-    Zde i dále se počítá 1 zlatý (`fl.` / `flo.`) = 15 batzů: 100 × 5 = 500 batzů = 33 fl. 5 batzů. V seznamu figuruje horník s přezdívkou *Christan thů kein gůt* („Kristián Nezdárný“ / „Nic dobrého nedělá“).
+    Zde i dále se počítá 1 zlatý (`fl.` / `flo.`) = 15 bacenů: 100 × 5 = 500 bacenů = 33 fl. 5 b. Součet 18 jmen levého sloupce dává přesně 100 směn. Horník *Christan thů kein gůt* nese přezdívku „Nedělá nic dobrého“.
 - n: 3
   text: |-
-    Součet 101 × 6 = 606 batzů = 40 fl. 6 batzů je početně přesný; vytištěná čísla u patnácti mužů pravého sloupce však dávají jen 66 směn (u posledních dvou jmen jsou vedle číslice 4 slabě otisknuté sazečské značky). Navazující seznam rubačů dole pokračuje vlevo sedmi muži po 5 směnách a vpravo devíti muži (u prvního jména *Vesper schambeck* poškozená číslice 3), k nimž na rubu (`5-010r`) přistupuje *Hanß Vogelszberger* (6) – pravý sloupec rubačů tak dává přesně 56 směn.
+    Patnáct jmen pravého sloupce nahoře dává jen 66 směn; s nimi se však zřejmě sčítá i sedm rubačů z levého sloupce dole (*Wolff Butz* až *Jörg Aschawer*, 7 × 5 = 35 směn), takže 66 + 35 = 101 směn a 101 × 6 = 606 bacenů = 40 fl. 6 b. přesně. Devět rubačů pravého sloupce dole (50 směn) s *Hanß Vogelßberger* na `5-010r` (6 směn) pak dává tamní součet 56 směn. Sazba sloupců tedy neodpovídá pořadí součtů (ověřeno ve skenu 454).

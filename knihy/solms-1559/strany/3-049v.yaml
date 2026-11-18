@@ -13,7 +13,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Ein frag wie die Büchs am besten ligt.
-  cs: Otázka, jak dělo leží nejlépe
+  cs: Otázka, jak dělo leží nejlépe.
 - typ: odstavec
   de: |-
     OB die Büchs besser hart oder lindt lig / sprich ich / wenn die büchs hart ligt / so spricht hart wider hart / vnd mag nicht bestehn / darumb soll mann die Büchs in lindes holtz legen / hinden an Bley giessen zweier finger dick / vnd daß sie ein linden anstoß habe / mann soll sie nicht tieffer legen denn eines halmen breit vber die mit / oder das halbtheil / so ligt sie wol.
@@ -22,21 +22,21 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Wie mann stangen vnd Feurpfeil auß Büchsen schiessen soll.
-  cs: Jak se mají z děl střílet tyče a ohnivé šípy {Feurpfeil}
+  cs: Jak se mají z děl střílet tyče a zápalné šípy {Feurpfeil}.
 - typ: odstavec
   de: |-
     LAd den Puluersack der Büchsen die drei theil mit Puluer / vnnd mach einen linden klotz auß Leimen / wie der klotz zu der Büchsen / spitz die stangen wie sie für den klotz / gehört / treib die stang wol hinein auff den Leimenklotz daß sie wol anlig / vnnd genaw außfülle / vnd mach ein stil in das Ror / schlag oben an ein höltzen zweck zwischen die Büchsen vnnd die stangen / mach ein stůl / der sich hoch oder nider laß treiben / vnd leg die stang darauff das sie der Büchsen gleich zů stehn so mag die stang von der Büchsen gehn / vnd wenn du sie also geladen hast / so zündt sie an / vnd laß sie lauffen.
   cs: |-
-    Nabij prachovou komoru děla ze tří dílů prachem, zhotov měkkou zátku z hlíny podle velikosti zátky pro to dělo, zašpičať tyč tak, jak před zátku náleží, a zaraž tyč pevně dovnitř na hliněnou zátku, aby dobře doléhala a přesně vyplňovala ústí. Do hlavně udělej podpěrný kolík,[^2] nahoře mezi dělo a tyč zatluč dřevěný klínek, zhotov kozu, kterou lze zvedat a spouštět, a polož na ni tyč tak, aby stála v rovině s dělem – tak bude moci tyč z děla vyletět; a když jsi je takto nabil, zapal je a nech ji letět.
+    Naplň prachovou komoru děla prachem do tří dílů, zhotov měkkou zátku z hlíny podle velikosti zátky pro to dělo, zašpičať tyč tak, jak před zátku náleží, a zaraž tyč pevně dovnitř na hliněnou zátku, aby dobře doléhala a přesně vyplňovala ústí. Do hlavně udělej podpěrný kolík,[^2] nahoře mezi dělo a tyč zatluč dřevěný klínek, zhotov kozu, kterou lze zvedat a spouštět, a polož na ni tyč tak, aby stála v rovině s dělem – tak bude moci tyč z děla vyletět; a když jsi dělo takto nabil, zapal je a nech tyč letět.
 - typ: nadpis
   uroven: 3
   de: Wie mann ein Hagel schiessen soll.
-  cs: Jak se má střílet kartáč {Hagel}
+  cs: Jak se má střílet kartáč {Hagel}.
 - typ: odstavec
   de: |-
     NIm vnd mach ein hertes Klotz / das vmb das halbteil kürtzer dann breit ist / lade den gleich an die Büchs / vnnd Eyerstein an den Klotz / daß sie das klotz nit anrürn / vnnd schlag wol geberten leymen darzů / der mit seiel vnnd Pupillen fasst wol gebert sei / stoß denn vil stein / die so groß sein wie die Eier in dem leimen / vnnd vermach es
   cs: |-
-    Vezmi a zhotov tvrdou zátku, jež je o polovinu kratší než širší, nabij ji rovně do děla a přidej k zátce vejcovité kameny,[^3] aniž by se zátky přímo dotýkaly, a přibij k tomu dobře prohnětenou hlínu, která je důkladně zpracovaná s vlákny a příměsmi;[^4] pak do hlíny zatlač mnoho kamenů velkých jako vejce a utěsni to
+    Vezmi a zhotov tvrdou zátku, jež je o polovinu kratší, než je široká, nabij ji rovně do děla a přidej k zátce vejcovité kameny,[^3] aniž by se zátky přímo dotýkaly, a natluč k tomu dobře prohnětenou hlínu, která je důkladně zpracovaná s vlákny a příměsmi;[^4] pak do hlíny zatlač mnoho kamenů velkých jako vejce a utěsni to
 poznamky:
 - n: 1
   text: |-

@@ -9,7 +9,7 @@ bloky:
   de: |-
     Item / der Prouiantherr soll auch von einem Prouiantmeister / so er jn lieffert / oder gelieffert hat / sein Handschrifft geben lassen / damit der Prouiantherr sein Rechnung allen tag ordenlich schliessen mög / darzů ein gantze Wochen seine Rechnung enden mag / seinem Herren solliches zuüberantworten haben / Vnnd so das der gestalt geschicht / so mag allwegen ein Hauptman sich desto baß mit aller Bestallung darnach richten / so er weitter ziehen / oder lenger bleiben wolt / Dann solt er sich in einen weittern zug begeben / vnd wüste / daß der solliche Prouiant nicht nach schaffen möcht / were besser vnderlassen. Deßgleichen ob er schon ligen bleibt / so mag er denen zu rück allen tag vnnd allezeit schreiben / die auff solliche Prouiant nach zuschaffen verordnet feind / was jhm noch daran mangel / vnd wieuil er jhm darnach schaffen soll / Also hat mann sich biß auff das ende darnach zurichten / vnd alle ding seind mit rath vnd Ordnung darnach zubestellen.
   cs: |-
-    Dále: proviantní pán {Prouiantherr} si má od každého proviantmistra {Prouiantmeister}, když mu dodává nebo dodal [zásoby], nechat dát vlastní rukou psané potvrzení, aby proviantní pán mohl každý den řádně uzavřít svůj účet a navíc za celý týden své vyúčtování ukončit a odevzdat je svému pánovi. A děje-li se takto, může se podle toho každý hejtman {Hauptman} tím lépe zařídit se vším zaopatřením, chce-li táhnout dále nebo zůstat déle; neboť kdyby se vydal na další tažení {zug} a věděl by, že takový proviant {Prouiant} nedokáže přísunem zajistit, bylo by lépe od toho upustit. Stejně tak i když zůstane ležet na místě, může každý den a v každém čase psát těm v týlu, kteří jsou určeni k dopraveni takového proviantu, co mu ještě schází a kolik mu jej mají podle toho opatřit. Tak se lze podle toho řídit až do konce a všechny věci je možno podle toho s rozvahou a v pořádku zařídit.
+    Dále: proviantní pán {Prouiantherr} si má od každého proviantmistra {Prouiantmeister}, když mu [zásoby] dodává nebo dodal, nechat dát vlastnoruční potvrzení, aby mohl každý den řádně uzavřít svůj účet, za celý týden pak vyúčtování dokončit a předložit je svému pánovi. Děje-li se to takto, může se každý hejtman {Hauptman} se vším zaopatřením tím lépe zařídit, chce-li táhnout dále nebo zůstat déle. Kdyby se totiž vydal na další tažení {zug} a věděl, že takový proviant {Prouiant} nelze za ním dopravit, bylo by lépe od toho upustit. Stejně tak, i když zůstane ležet na místě, může každý den a kdykoli psát těm v týlu, kdo jsou určeni k dodávání proviantu, co mu ještě schází a kolik mu ho mají podle toho opatřit. Tak se lze podle toho řídit až do konce a všechno s rozvahou a v pořádku zařídit.
 - typ: odstavec
   de: |-
     Item / dem Prouiantherrn sollen Diener gehalten werden / die auff jn warten / vnd das Brot von denen die es brengen / mit der zal gelieffert nemen / vnd denen / den es gebürt wider mit der zal lieffern / die sollen jhre Besoldung daruon haben / wieuil der sein sollen / wirt sich nach dem zuschaffen selbst weisen.
@@ -24,7 +24,7 @@ bloky:
   de: |-
     Item / wann einem Menschen wirt ein tag verordnet ein pfundt fleysch / wo mann das anders bekommen mag / vnd nicht mangel an vieh / vnd zimlicher notturfft vorhanden ist / das ein zal Volcks mag erhalten werden / wirt hie vngefehrlich das vieh angeschlagen / es halt an dem gewicht minder oder mehr / wie hernach steht.
   cs: |-
-    Dále: určí-li se jednomu člověku na jeden den jedna libra {pfundt} masa – pokud je je vůbec možno dostat a není nouze o dobytek, nýbrž je přiměřená zásoba, aby se určité množství lidu mohlo uživit –, odhaduje se zde přibližně dobytek, ať má na váhu o něco méně či více, tak jak stojí níže:
+    Dále: určí-li se jednomu člověku na den jedna libra {pfundt} masa – pokud je vůbec k dostání, není nouze o dobytek a je ho přiměřená zásoba, aby se určitý počet lidu mohl uživit –, odhaduje se zde dobytek přibližně takto, ať má na váhu o něco méně či více:
 - typ: tabulka
   de:
   - - Ein Ochs
@@ -62,7 +62,7 @@ bloky:
   de: |-
     Nach sollichem gewicht hat mann sich nach anzal des Viehs / nach notturfft vngefehrlich zurichten / wie von dem Brot auch gemelt ist / ordenlich zutheiln / also daß ein theil nit allein kauffe / wo es gleich zugeht / da ist eintrechtigkeit vnd gehorsam / dann durch ein gleich ordenlich Regiment / mag mann gehorsam erhalten / vnd mit einem gehorsamen Hauffen / ist auch etwas für einem vngehorsamen außzurichten.
   cs: |-
-    Podle takové váhy se lze přibližně řídit podle počtu dobytka a podle potřeby, jak bylo řečeno i o chlebu, a řádně jej rozdělovat, tak aby jedna část nenakupovala sama pro sebe; kde se jedná spravedlivě, tam je svornost a poslušnost, neboť stejným a řádným řízením {Regiment} lze udržet poslušnost, a s poslušným houfem {Hauffen} se dá také mnohem více pořídit než s neposlušným.
+    Podle této váhy se lze přibližně řídit počtem dobytka a potřebou a – jak bylo řečeno i o chlebu – řádně jej rozdělovat, aby jedna strana nenakupovala sama. Kde se jedná rovným dílem, tam je svornost a poslušnost; stejným a řádným řízením lze totiž udržet poslušnost a s poslušným houfem {Hauffen} se dá také více pořídit než s neposlušným.
 - typ: odstavec
   de: Item / auff hundert Personen geht einen tag hundert Pfundt /
   cs: 'Dále: na sto osob připadá za jeden den sto liber,'

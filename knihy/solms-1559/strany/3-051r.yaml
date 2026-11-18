@@ -22,7 +22,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Von Büchsen schiessen.
-  cs: O střelbě z děl
+  cs: O střelbě z děl.
 - typ: verse
   de:
   - Zweier handt du Puluer nimm /
@@ -33,7 +33,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Wie mann ein Büchs mit wasser ledt.
-  cs: Jak se dělo nabíjí vodou
+  cs: Jak se dělo nabíjí vodou.
 - typ: verse
   de:
   - EIn höfflich kunst sich hie entschleust /
@@ -72,16 +72,16 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Von schiessen auff dem Felde.
-  cs: O střelbě v poli
+  cs: O střelbě v poli.
 - typ: odstavec
   de: |-
-    SO mann vor einer Stat oder Schloß ligt / vnd wil schiessen / so hab acht so auß der geschossen wirdt / so mach mann zuuor an ein rauch mit Puluer / ehe er scheusset / vnd so auff jn geschoffen ist / so schieß mann darnach auch auff jn.
+    SO mann vor einer Stat oder Schloß ligt / vnd wil schiessen / so hab acht so auß der geschossen wirdt / so mach mann zuuor an ein rauch mit Puluer / ehe er scheusset / vnd so auff jn geschossen ist / so schieß mann darnach auch auff jn.
   cs: |-
-    Leží-li vojsko před městem nebo hradem a chce střílet, dávej pozor, kdy se z něho střílí; nejprve se tam totiž před výstřelem udělá prachem kouř – a jakmile se z něho vystřelí, pak střílej také na něj.[^4]
+    Leží-li [vojsko] před městem nebo hradem a chce střílet, dávej pozor, odkud se z něho střílí. Než [nepřítel] vystřelí, udělej nejprve prachem kouř, a jakmile se na něj vystřelí, střílej potom také ty na nepřítele.[^4]
 - typ: nadpis
   uroven: 3
   de: Ein fast starcken Schoß zuthun.
-  cs: Jak vypálit velmi prudkou ránu
+  cs: Jak vypálit velmi prudkou ránu.
 poznamky:
 - n: 1
   text: |-
@@ -94,4 +94,4 @@ poznamky:
     *Alembic* – destilační baňka s přilbou (křivule).
 - n: 4
   text: |-
-    Taktika protibaterijní palby: střelec má sledovat ústí nepřátelského děla (záblesk či kouř ze zátravky před samotným výstřelem), zaměřit podle něj místo nepřátelské baterie a opětovat palbu.
+    Patrně lest: kouřem z hrsti prachu se předstírá výstřel, nepřítel na něj odpoví palbou, prozradí tak postavení svého děla a na to se pak míří. Tisk je stručný a podměty nejsou jednoznačné (*auff jn* může znamenat kouř i nepřítele).

@@ -10,22 +10,22 @@ bloky:
   de: |-
     Nun volgen hernach etliche vermischung wie mann den Zeug setzen soll/ der zu dem füllen vnnd ersten ein geschmelztem Zeug gehört.
   cs: |-
-    Nyní následují některé směsi, jak se má sestavit hmota patřící k plnění a nejprve k tavené hmotě.
+    Nyní následuje několik směsí, jak sestavit hmotu k plnění, a nejprve tavenou hmotu.
 - typ: odstavec
   de: |-
     ITem nim Schwefel vnd zerlaß den in einem Digel/ vnd nim Büchsen Puluer rür das darunder/ biß so lang daß hart wirdt vber dem Feur/ daß sichs nimmehr will rürn lassen/ darnach thů es herauß laß erkalten/ stoß das zu kleinen stücklin wie Erbeisen/ vnd nim darzů einen gestossen Zeug der nicht röß sei/ derselbig sol von disem satz oder die leng sein/ als drei pfundt Salpeters/ zwei pfundt Schwefels/ anderthalb pfundt Kolen/ das stoß durch einander/ vnd nim ein pfundt desselbigen vnd eins des vorigen geschmelzten Zeugs/ misch das wol vnd gleich vnder einander/ vnd thů das in einn sack.
   cs: |-
-    Dále: vezmi síru a rozpusť ji v kelímku, vezmi dělový střelný prach {Büchsen Puluer} a vmíchávej jej do ní tak dlouho, až nad ohněm ztvrdne, takže se to již nebude dát míchat; potom to vyjmi, nech vychladnout, roztluč na malé kousky jako hrách a vezmi k tomu utlučenou hmotu, jež není příliš prudká – ta má mít toto složení čili poměr: tři libry {pfundt} ledku {Salpeters}, dvě libry síry, půldruhé libry uhlí; to všechno utluč dohromady a vezmi jednu libru téže směsi a jednu libru předešlé tavené hmoty, dobře a stejnoměrně to promíchej a vlož do pytle.
+    Dále: vezmi síru {Schwefel} a rozpusť ji v kelímku, vezmi střelný prach {Büchsen Puluer} a vmíchávej jej do ní nad ohněm tak dlouho, až ztvrdne a už se nedá míchat. Potom to vyndej, nech vychladnout a roztluč na malé kousky jako hrách. K tomu vezmi utlučenou hmotu, která není prudká; ta má mít toto složení čili poměr: tři libry {pfundt} ledku {Salpeters}, dvě libry síry, půldruhé libry uhlí {Kolen}. To spolu utluč, vezmi jednu libru této směsi a jednu libru předešlé tavené hmoty, dobře a stejnoměrně to promíchej a dej do pytle.
 - typ: odstavec
   de: |-
     Item ein ander vermischung eins Feurzeugs/ Nim zwei pfundt Salpeter/ ein pfundt Schwefel/ anderthalb pfundt Kolen/ stoß die stück wol vnder einander wie ein Puluer/ das ist auch ein füll.
   cs: |-
-    Dále jiná směs zápalné hmoty {Feurzeugs}: vezmi dvě libry ledku, jednu libru síry, půldruhé libry uhlí, dobře ty složky roztluč dohromady jako střelný prach, to je rovněž dobrá náplň.
+    Dále jiná směs zápalné hmoty {Feurzeugs}: vezmi dvě libry ledku, jednu libru síry a půldruhé libry uhlí a dobře ty složky spolu utluč jako střelný prach; i to je náplň.
 - typ: odstavec
   de: |-
     Item aber einander vermischung/ nim drei pfundt Salpeters/ zwei pfundt Schwefel/ ein pfundt Kolen vnnd ein halbs Saltz/ das stoß wol zusamen/ ist auch ein fülle.
   cs: |-
-    Dále ještě jiná směs: vezmi tři libry ledku, dvě libry síry, jednu libru uhlí a půl libry soli, dobře to utluč dohromady, i to je náplň.
+    Dále ještě jiná směs: vezmi tři libry ledku, dvě libry síry, jednu libru uhlí a půl [libry] soli, dobře to spolu utluč; i to je náplň.
 - typ: odstavec
   de: |-
     Item wider einander vermischung/ nim ein gůt gemein schieß Puluer vnd Speck/ den zerhack klein vnder das Puluer/ vnd füll ein Sack darmit/ ist auch ein gůt fülle.
@@ -35,7 +35,7 @@ bloky:
   de: |-
     Item nim ein gemein gůt schieß puluer/ vnnd darunder ein Leynöl knedt das vnder einander wie einn Deyg wol starck/ mach darauß Ballen/ oder fülle ein Sack darmit/ vnd laß es also trucken werden.
   cs: |-
-    Dále: vezmi obyčejný dobrý střelný prach a do něho lněný olej, silně to spolu uhněť jako těsto, nadělej z toho koule nebo tím naplň pytel a nech to tak vyschnout.
+    Dále: vezmi obyčejný dobrý střelný prach, přidej k němu lněný olej a uhněť to spolu jako pořádně tuhé těsto; nadělej z toho koule nebo tím naplň pytel a nech to vyschnout.
 - typ: odstavec
   de: |-
     Item nim ein gůt schieß Puluer vnnd Terpentin/ mach darauß auch einen Deyg/ wie oben daruon gemelt ist/ vnnd thů mit dem wie vor.
@@ -48,24 +48,21 @@ bloky:
     Dále střelný prach uhnětený silnou klihovou vodou; nadělej z toho koule.
 - typ: odstavec
   de: Item ein Puluer angekneten mit einem Gloriet.
-  cs: Dále střelný prach uhnětený benátským terpentýnem {Gloriet}.[^1]
+  cs: Dále střelný prach uhnětený benátským terpentýnem {Gloriet}.
 - typ: odstavec
   de: |-
     Item ein Puluer angekneten mit einem gebrenten Wein darinn Kampffer ist vnd ein geschlagen Eyer klar mit einem Gummi Tragentum darunder gemengt.
   cs: |-
-    Dále střelný prach uhnětený pálenkou, v níž je rozpuštěn kafr (*Kampffer*), s přimíchaným rozšlehaným vaječným bílkem a tragantovou klovatinou (*Gummi Tragentum*).[^2]
+    Dále střelný prach uhnětený pálenkou, v níž je rozpuštěn kafr (*Kampffer*), s přimíchaným rozšlehaným vaječným bílkem a tragantovou klovatinou (*Gummi Tragentum*).[^1]
 - typ: odstavec
   de: |-
     Item nim 3. pfundt Salpeter/ ein pfundt Schwefel/ Koln vnnd Hartz/ dise stück stoß wol durch einander wie ein Puluer das ist ein fül.
   cs: |-
-    Dále: vezmi 3 libry ledku, jednu libru síry, uhlí a pryskyřice; tyto složky dobře roztluč dohromady jako prach, to je rovněž náplň.
+    Dále: vezmi 3 libry ledku, jednu libru síry, uhlí a pryskyřice; tyto složky dobře spolu utluč jako prach; to je náplň.
 - typ: odstavec
   de: Item nim Puluer vnd mach ein Inschlet warm/ schüt das puluer
   cs: 'Dále: vezmi střelný prach, rozehřej lůj (*Inschlet*) a prach do něho'
 poznamky:
 - n: 1
-  text: |-
-    *Gloriet* (*gloriat*, *glaret*) je dobové označení modřínové pryskyřice či čistého benátského terpentýnu.
-- n: 2
   text: |-
     *Gummi Tragentum* (*Gummi tragacanthum*) – tragantová klovatina (přírodní pryskyřice z kozince užívaná jako pojivo).

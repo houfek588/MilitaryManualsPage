@@ -45,7 +45,7 @@ bloky:
     Dále: na deset tisíc osob připadá na jeden den sto centů {Centner} masa, za týden je třeba mít sedm set a za celý měsíc tři tisíce centů na výživu; a to činí na dobytku, který je třeba mít:
 - typ: odstavec
   de: Einen tag.
-  cs: Jeden den.
+  cs: Na jeden den.
 - typ: tabulka
   de:
   - - 10. Ochsen
@@ -81,7 +81,7 @@ bloky:
     - 59 ovcí
 - typ: odstavec
   de: Ein Wochen.
-  cs: Jeden týden.
+  cs: Na jeden týden.
 - typ: tabulka
   de:
   - - 70. Ochsen
@@ -117,7 +117,7 @@ bloky:
     - 413 ovcí
 - typ: odstavec
   de: Ein Monat lang.
-  cs: Jeden měsíc.
+  cs: Na jeden měsíc.
 - typ: tabulka
   de:
   - - 300 Ochsen
@@ -176,7 +176,7 @@ bloky:
   de: |-
     Item / mag auch genommen werden / für zwo Kůe ein Ochs / oder fünff Kälber sechs Schaaff.
   cs: |-
-    Dále: za dvě krávy lze také vzít jednoho vola, anebo pět telat a šest ovcí.
+    Dále: za dvě krávy lze také vzít jednoho vola, nebo pět telat a šest ovcí.
 poznamky:
 - n: 1
   text: |-

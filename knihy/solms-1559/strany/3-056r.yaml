@@ -13,7 +13,7 @@ bloky:
   de: |-
     NIm 1. pfundt Salpeter 1. pfundt Schwefel / 1. vntz weiß / Albram holtz / vnd dörre das wol in einem ofen / stoß alles wol zu Puluer / wiltu denn das es fast starck vnnd weiß werdt / so thů Salarmoniac / vnd Kampffer nach dem gewicht darunter / als vorgeschrieben steht stoß das wol so wirt es gůt.
   cs: |-
-    Vezmi 1 libru {pfundt} ledku {Salpeter}, 1 libru síry {Schwefel} a 1 unci {vntz} bílého topolového dřeva (*weiß Albram holtz*)[^1] a vysuš je dobře v peci; vše dobře utluč na prach. Chceš-li pak, aby byl velmi silný a bílý, přidej k němu salmiak (*Salarmoniac*)[^2] a kafr (*Kampffer*) podle váhy, jak jest předepsáno výše; dobře to utluč, a bude dobrý.
+    Vezmi 1 libru {pfundt} ledku {Salpeter}, 1 libru síry {Schwefel} a 1 unci {vntz} bílého topolového dřeva (*weiß Albram holtz*)[^1] a dobře je vysuš v peci; vše dobře utluč na prach. Chceš-li, aby byl velmi silný a bílý, přidej k němu salmiak (*Salarmoniac*)[^2] a kafr (*Kampffer*) podle váhy, jak je předepsáno výše; dobře to utluč a bude dobrý.
 - typ: nadpis
   uroven: 3
   de: Wiltu rot Puluer machen / thu also.
@@ -22,7 +22,7 @@ bloky:
   de: |-
     DArzů nim Zendel der rot sei / vnd thů jm gleich als vorgeschriben steht / etc.
   cs: |-
-    Vezmi k tomu cendál (*Zendel*),[^3] který jest červený, a nalož s ním stejně, jak jest předepsáno výše atd.
+    Vezmi k tomu červený cendál (*Zendel*)[^3] a nalož s ním stejně, jak je předepsáno výše atd.
 - typ: nadpis
   uroven: 3
   de: Wiltu ein blaw puluer machen.
@@ -40,7 +40,7 @@ bloky:
   de: |-
     NIm ein halb gewicht Spiciam Nardi / doch soltu auch wissen / das dise vier Puluer von jn selb nicht also starck vnd behendt sind / als die siede Puluer / doch magstu jn wol helffen mit dem zusatz.
   cs: |-
-    Vezmi poloviční váhu indického nardu (*Spiciam Nardi*);[^4] avšak věz též, že tyto čtyři prachy samy o sobě nejsou tak silné a prudké jako vařené prachy (*siede Puluer*),[^5] můžeš jim však dobře pomoci přísadou.
+    Vezmi poloviční váhu indického nardu (*Spiciam Nardi*).[^4] Věz však, že tyto čtyři [barevné] prachy samy o sobě nejsou tak silné a prudké jako vařené prachy (*siede Puluer*);[^5] přísadou jim však můžeš dobře pomoci.
 - typ: nadpis
   uroven: 3
   de: wiltu gůt Büchsen Puluer machen.
@@ -49,16 +49,16 @@ bloky:
   de: |-
     SO nim vier theil Salpeter / zwei theil Schwefels / vnd ein theil Linden Kolen thů die wol gestossen zusamen / vnd scheuß damit auß der Büchsen / das ist das gemein Büchsen Puluer.
   cs: |-
-    Vezmi tedy čtyři díly ledku, dva díly síry a jeden díl lipového dřevěného uhlí {Linden Kolen}, dej je dobře utlučené dohromady a střílej tím z děla {Büchsen}; to jest obecný střelný prach.
+    Vezmi tedy čtyři díly ledku, dva díly síry a jeden díl lipového dřevěného uhlí {Linden Kolen}, dobře utlučené je smíchej a střílej tím z děla {Büchsen}; to je obecný střelný prach.
 - typ: nadpis
   uroven: 3
   de: wiltu aber starck Büchsen puluer machen das bast treibet.
-  cs: Chceš-li však dělat silný střelný prach, jenž mocně[^6] žene
+  cs: Chceš-li však dělat silný střelný prach, který lépe[^6] žene
 - typ: odstavec
   de: |-
     SO nim Widertat / Celendon / Capillum verium / jeglichs halben theil / vnd thů das auch darunter / so es dör wirdt / vnd wol gepuluert / so ist es dann wol bereit / treibt hert vnd weit.
   cs: |-
-    Vezmi tedy netík (*Widertat*), vlaštovičník (*Celendon*) a netík Venušin vlas (*Capillum verium*),[^7] od každého půl dílu, a přidej to také do prachu, jakmile to uschne a bude dobře utlučeno na prach; pak jest dobře připraven a žene prudce a daleko.
+    Vezmi tedy ploník (*Widertat*), vlaštovičník (*Celendon*) a netík Venušin vlas (*Capillum verium*),[^7] od každého půl dílu, a přidej to také do prachu, až to uschne a bude dobře rozetřeno na prach; pak je prach dobře připraven a žene prudce a daleko.
 - typ: nadpis
   uroven: 3
   de: wiltu ein gůt puluer haben.
@@ -67,7 +67,7 @@ bloky:
   de: |-
     SO nim 1. lot Linden / Heßlin oder Espen Kolen / 2. lot Schwefels / 4. oder 5. salis petre / vnd stoß das alles zu Puluer / vnd mischs
   cs: |-
-    Vezmi tedy 1 lot {lot} lipového, lískového nebo osikového uhlí, 2 loty síry a 4 nebo 5 [lotů] ledku (*salis petre*), vše to utluč na prach a smíchej
+    Vezmi tedy 1 lot {lot} lipového, lískového nebo osikového uhlí, 2 loty síry a 4 nebo 5 [lotů] ledku (*salis petre*), vše utluč na prach a smíchej
 poznamky:
 - n: 1
   text: |-

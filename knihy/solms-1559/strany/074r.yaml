@@ -13,22 +13,22 @@ bloky:
   de: |-
     DIe Feldweibel machen die Schlachtordenung nach dem sie beuelch von jhrem Obersten entpfahen/ vnd gibt jnen der Oberst etwan Hauptleut/ oder andere verstendigen des kriegs zů/ mit denselben sein sie es nach jetzt gemeltem beuelch zu ordnen schuldig.
   cs: |-
-    Polní šikovatelé sestavují bitevní šik {Schlachtordenung} podle rozkazu, který obdrží od svého plukovníka {Obersten}; plukovník jim k tomu občas přidělí hejtmany {Hauptleut} nebo jiné války znalé muže, s nimiž jsou povinni jej podle právě zmíněného rozkazu seřadit.
+    Polní šikovatelé sestavují bitevní šik {Schlachtordenung} podle rozkazu, který obdrží od svého plukovníka {Obersten}; plukovník jim k tomu občas přidělí hejtmany {Hauptleut} nebo jiné znalce války a s nimi jsou povinni šik podle zmíněného rozkazu seřadit.
 - typ: odstavec
   de: |-
     Die Feldweibel vergleichen sich der langen vnd kurtzen Wehren/ auch der angehengkten vnd lauffenden Schützen/ wie in jres Obersten 19. Artickel angezeigt
   cs: |-
-    Polní šikovatelé se dohodnou o dlouhých a krátkých zbraních i o přičleněných a volně vybíhajících střelcích {Schützen}, jak je uvedeno v 19. článku jejich plukovníka.
+    Polní šikovatelé se mezi sebou dohodnou o rozestavení dlouhých a krátkých zbraní i přičleněných a volně vybíhajících střelců {Schützen}, jak je uvedeno v 19. článku jejich plukovníka.
 - typ: odstavec
   de: |-
     Die Feldweibel helffen den Hauptleutten am zuge die Knecht auff halten vnd nach treiben/ vnd braucht jr Oberster sie etwan auch in andern sachen/ darzů sie im Krieg tüglich sein.
   cs: |-
-    Polní šikovatelé pomáhají hejtmanům na pochodu {zuge} knechty zadržovat a pohánět kupředu, a jejich plukovník je případně používá i k jiným věcem, k nimž jsou ve válce způsobilí.
+    Polní šikovatelé pomáhají hejtmanům na pochodu {zuge} knechty zadržovat i popohánět. Plukovník je případně používá i k jiným věcem, k nimž jsou ve válce způsobilí.
 - typ: odstavec
   de: |-
     Der Kriegsherr oder sein Feldhauptman soll kein hauffen mit zuuil weibeln vberladen/ wie in der Lantzknecht Hauptleut 11. Artickel auß getruckt/ dann sie machen etwan wann jr zuuil sein/ selbst einander jrrig.
   cs: |-
-    Válečný pán {Kriegsherr} nebo jeho polní hejtman {Feldhauptman} nemá žádný houf {hauffen} přetěžovat příliš mnoha šikovateli {weibeln}, jak je řečeno v 11. článku o hejtmanech lancknechtů {Lantzknecht}, neboť když je jich příliš mnoho, občas se sami navzájem pletou.
+    Válečný pán {Kriegsherr} nebo jeho polní hejtman {Feldhauptman} nemá žádný houf {hauffen} přetěžovat příliš mnoha šikovateli {weibeln}, jak je řečeno v 11. článku o hejtmanech lancknechtů {Lantzknecht}, neboť je-li jich příliš mnoho, sami se navzájem pletou.
 - typ: nadpis
   uroven: 3
   de: Von Weibels Weibeln.
@@ -37,7 +37,7 @@ bloky:
   de: |-
     DIe andern weibel so vnder jedem Fendlin zwen sein/ die der gemein Man alle Monat zu setzen vnd entsetzen hat/ dise weibel machen gemeinlich zug ordnungen.
   cs: |-
-    Ostatní šikovatelé[^1], z nichž jsou pod každým praporcem {Fendlin} dva a které má prostý lid {gemein Man} právo každý měsíc ustavovat i sesazovat, sestavují obvykle pochodové šiky {zug ordnungen}.
+    Ostatní šikovatelé – pod každým praporcem {Fendlin} jsou dva a obec {gemein Man} je smí každý měsíc dosazovat i sesazovat – sestavují obvykle pochodové šiky {zug ordnungen}.
 - typ: odstavec
   de: |-
     Dise Weibel helffen den Hauptleuten warinnen sie jrer bedörffen/ vnd jnen beuelhen/ es sei in zügen/ wachten oder im Leger.
@@ -48,7 +48,3 @@ bloky:
     Dise Weibel gehörn nit in des Obersten stadt/ sonder vnder die Fendlin/ vnd werden von jhren Hauptleutten bezalt.
   cs: |-
     Tito šikovatelé nepatří do stavu {stadt} plukovníka, nýbrž pod praporce a jsou vypláceni svými hejtmany.
-poznamky:
-- n: 1
-  text: |-
-    „Weibels Weibel“ – doslova „šikovatelé šikovatelů“: nižší šikovatelé pod praporci (po dvou v každém praporci, volení obcí mužstva), podřízení deseti plukovním polním šikovatelům.

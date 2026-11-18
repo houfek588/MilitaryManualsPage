@@ -19,7 +19,7 @@ bloky:
   de: |-
     Für der Büchsen jede einem pferdt auch nit mehr dann 2. Centner zuziehen auff laden / gehören für zuspannen 40. Ziehroß / thůt Zugpferdt 160.
   cs: |-
-    Poněvadž se ani u jednoho z těchto děl nemá jednomu koni nakládat k tažení více než 2 centy {Centner}, přísluší zapřáhnout 40 tažných koňů {Ziehroß}, což činí 160 tažných koní {Zugpferdt}.
+    Poněvadž se ani u jednoho z těchto děl nemá jednomu koni nakládat k tažení více než 2 centy {Centner}, přísluší zapřáhnout 40 tažných koní {Ziehroß}, což činí 160 tažných koní {Zugpferdt}.
 - typ: odstavec
   de: |-
     Zu deren stück jede gehört auch sein eigne zugeordnete lade odder gefäß / vnd für der eins zusetzen 4. Roß / thůt auff die 4. Zugpferdt 16.
@@ -49,7 +49,7 @@ bloky:
   de: |-
     So nun gedachter 400. Kugeln gleich schwere Puluers mit genomen wirt / das brengt auch 280. Centner / darzů gehören abermals gehörtem anschlag nach / nemlich auff einen wagen vngefehrlich 24. Centner zu laden Wagen 11.
   cs: |-
-    Bere-li se tedy s sebou stejná váha prachu jako zmíněných 400 koulí, činí to rovněž 280 centů, k čemuž podle uvedeného rozpočtu opět náleží – totiž naložit na jeden vůz přibližně 24 centů – 11 vozů.
+    Bere-li se tedy s sebou prach o stejné váze jako zmíněných 400 koulí, činí to rovněž 280 centů; počítá-li se podle uvedeného rozpočtu opět na jeden vůz přibližně 24 centů, náleží k tomu 11 vozů.
 - typ: odstavec
   de: |-
     Vnd für derselben einen zusetzen 4. Roß / thůt Zugpferdt 44.
@@ -59,7 +59,7 @@ bloky:
   de: |-
     Mehrgemelte Büchsen sollen auch auß oben angeregten vrsachen mit dreien gleichen Zügen / vnd derselben zugehörung staffiert / vnd die kloben auch von 12. scheiben / vnd einem kleinen zwerch wentscheiblin doppel eingezogen sein / zu der Züg jedem sampt seiner notturfft bedarff mann einen Monat / etc. thůt Wagen 3.
   cs: |-
-    Vícekrát zmíněná děla mají být také ze svrchu uvedených příčin opatřena třemi stejnými kladkostroji a jejich příslušenstvím, přičemž kladnice {kloben} mají být rovněž o 12 kotoučích a s jedním malým příčným otočným kotoučkem {zwerch wentscheiblin} dvojitě navlečeny; ke každému kladkostroji s jeho potřebami je třeba na jeden měsíc atd. 3 vozy.
+    Vícekrát zmíněná děla mají být také ze svrchu uvedených příčin opatřena třemi stejnými kladkostroji a jejich příslušenstvím, přičemž kladnice {kloben} mají být rovněž o 12 kotoučích a s jedním malým příčným otočným kotoučkem {zwerch wentscheiblin} dvojitě navlečeny; ke každému kladkostroji s jeho potřebami je třeba na jeden měsíc atd. – činí to 3 vozy.
 - typ: odstavec
   de: |-
     Für derselben jeden zu spannen gůter Roß vier / thůt Zugpferdt 12.
@@ -93,4 +93,4 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    V BSB OCR chyběly číslice *11.* na obou místech u vozů na koule a prach (*Wägen 11.* / *Wagen 11.*), doplněny podle skenu i součtů (7 + 4 = 11 vozů; 4 + 11 + 11 + 3 = 29 vozů). 7 × 36 + 4 × 37 = 400 koulí (náklad 25,2–25,9 centu na vůz).
+    Kontrola: 7 × 36 + 4 × 37 = 400 koulí, tj. 25,2–25,9 centu na vůz (o něco víc než počítaných 24 centů); vozy celkem 4 + 11 + 11 + 3 = 29.

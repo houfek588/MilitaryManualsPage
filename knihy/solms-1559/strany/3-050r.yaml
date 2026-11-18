@@ -28,11 +28,11 @@ bloky:
   de: |-
     NIm Salpeter vnd distillier den zu wasser / vnnd den Schwefel zu öle / Salarmoniac auch zu wasser / nim oleum Benedictum auch darzů / als du wirst hören / vnd wenn du dise wasser alle gehaben magst so nim 6. theil Salpeter wasser / 2. theil Schwefel öl / 2. theil Salarmoniac wasser / 2. theil de Oleo Benedicto / vnd lad die Büchsen fast wol / mit klötzen stein oder mit wem du schiessen wilt / vnd menge die wasser gar vnter einander / geuß das in die Büchsen / ein zehentheil / röres hinder den klotz / vnd zündt sie an mit zunter / das du dauon kommen magst / lug das die Büchs sehr starck sei / vnd mit disem wasser scheustu ein gemein schoß mehr dann drei tausent schrit weit.
   cs: |-
-    Vezmi ledek {Salpeter} a předestiluj jej na vodu, síru {Schwefel} na olej a salmiak rovněž na vodu; přidej k tomu také *Oleum benedictum*, jak uslyšíš. A když budeš mít všechny tyto vody pohromadě, vezmi 6 dílů ledkové vody, 2 díly sírového oleje, 2 díly salmiakové vody a 2 díly oleje *Oleum benedictum*. Nabij dělo velmi pevně zátkami, kamenem {stein} nebo čím chceš střílet, smíchej ty vody důkladně dohromady, nalij je do děla za zátku na jednu desetinu délky hlavně,[^4] a zapal je troudem, abys mohl odstoupit; hleď však, aby dělo bylo velmi silné – s touto vodou vystřelíš obyčejnou ránu dále než tři tisíce kroků.
+    Vezmi ledek {Salpeter} a předestiluj jej na vodu, síru {Schwefel} na olej a salmiak rovněž na vodu; přidej k tomu také *Oleum benedictum*, jak uslyšíš. A když budeš mít všechny tyto vody pohromadě, vezmi 6 dílů ledkové vody, 2 díly sírového oleje, 2 díly salmiakové vody a 2 díly oleje *Oleum benedictum*. Nabij dělo velmi pevně zátkami, kamenem {stein} nebo čím chceš střílet, smíchej ty vody důkladně dohromady, nalij je do děla za zátku na jednu desetinu délky hlavně,[^4] a zapal je troudem, abys mohl odstoupit; hleď však, aby dělo bylo velmi silné – s touto vodou vystřelíš obyčejnou ránu dále než tři tisíce kroků {schrit}.
 - typ: nadpis
   uroven: 3
   de: Wie weit mann mit einem gemeinen Puluer ein gemeinen schoß schiessen mag.
-  cs: Jak daleko lze obyčejným prachem vystřelit obyčejnou ránu
+  cs: Jak daleko lze obyčejným prachem vystřelit obyčejnou ránu.
 - typ: odstavec
   de: |-
     EIn gemein schoß von Büchsen vnd Puluer / ist fünfftzehen hundert schrit lang / oder weit in derselben maß / oder von gestercktem Puluer scheust man wol zwei Tausent schrit weit oder in derselben maß.
@@ -41,7 +41,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Keiner Büchsen ist zuuertrawen sie sei groß oder klein.
-  cs: Žádnému dělu není radno důvěřovat, ať je veliké či malé
+  cs: Žádnému dělu není radno důvěřovat, ať je veliké či malé.
 poznamky:
 - n: 1
   text: |-

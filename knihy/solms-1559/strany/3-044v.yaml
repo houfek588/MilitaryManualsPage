@@ -8,7 +8,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Ein ander Lere auff Feurpfeil zumachen / vnd ist auch ein wildes Feur.
-  cs: Jiný návod na zhotovení ohnivých šípů {Feurpfeil}, a jest to rovněž divoký oheň {wildes Feur}
+  cs: Jiný návod na zhotovení zápalných šípů {Feurpfeil}, a je to rovněž divoký oheň {wildes Feur}.
 - typ: odstavec
   de: |-
     NIm 1. lot Arsenicum rubeum / 1. lot Realgar / 1. lot Rebarbaram / 1. lot Auripigmentum / 1. lot Alsponicum / 1. lot Minimum / 1. lot Mercurij Crudi / vnd thů jm recht / etc.
@@ -17,25 +17,25 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Also macht mann gut Feurpfeil.
-  cs: Takto se dělají dobré ohnivé šípy
+  cs: Takto se dělají dobré zápalné šípy.
 - typ: odstavec
   de: |-
     NIm 1. lot Arsenicum rubeum / 1. lot Reguligar / 1. lot Rebarbara / 1. lot Auripigmentum / 1. lot Aspalcum / 1. lot Minimum / 1. lot Mercurij sublimati / vnd puluer jeglichs sonderlich wol / temperir sie alle miteinander vnd mach darauß die gůten Feurpfeil / damit scheuß.
   cs: |-
-    Vezmi 1 lot červeného arzeniku (*Arsenicum rubeum*), 1 lot realgaru (*Reguligar*), 1 lot rebarbory (*Rebarbara*), 1 lot auripigmentu (*Auripigmentum*), 1 lot asfaltu (*Aspalcum*), 1 lot suříku (*Minimum*) a 1 lot sublimované rtuti (*Mercurij sublimati*),[^5] každou přísadu zvlášť dobře utluč na prach, smíchej je všechny dohromady a zhotov z toho dobré ohnivé šípy, jimiž střílej.
+    Vezmi 1 lot červeného arzeniku (*Arsenicum rubeum*), 1 lot realgaru (*Reguligar*), 1 lot rebarbory (*Rebarbara*), 1 lot auripigmentu (*Auripigmentum*), 1 lot asfaltu (*Aspalcum*), 1 lot suříku (*Minimum*) a 1 lot sublimované rtuti (*Mercurij sublimati*),[^5] každou přísadu zvlášť dobře utluč na prach, smíchej je všechny dohromady a zhotov z toho dobré zápalné šípy, jimiž střílej.
 - typ: nadpis
   uroven: 3
   de: Wilt du ein guten gerechen Feurpfeil machen.
-  cs: Chceš-li zhotovit dobrý spolehlivý ohnivý šíp[^6]
+  cs: Chceš-li zhotovit dobrý spolehlivý zápalný šíp.[^6]
 - typ: odstavec
   de: |-
     SO nim 5. pfundt Salpeter / ein halb pfundt Koln / zwei pfundt Schwefel / vnd stoß das in einem Mörser gar wol vnder einander / thů Oleum benedictum vnd gebranten wein darunder / also vil das gnůg ist / mach ein deyg darauß / vnd thů des darnach souil an die Pfeil wie du wilt / steck sie dann mit einem stecken in ein warmen stuben Ofen / daß sie wol ertrucken vnnd dörren / darnach nim den stecken mit den Feurpfeiln herauß / schab vnd formir sie wie du wilt / darnach vermach sie in Barchen / verbint sie hinden vnd vorn gar mit gůtem hanff / vnd schwemb sie in Schwefel mit gůtem hartz / so hast du herzlich gůt Feurpfeil.
   cs: |-
-    Vezmi tedy 5 liber {pfundt} ledku {Salpeter}, půl libry dřevěného uhlí {Koln} a dvě libry síry {Schwefel}, utluč to velmi dobře v hmoždíři dohromady a přidej k tomu požehnaný olej (*Oleum benedictum*)[^7] a pálené víno, kolik bude stačit. Udělej z toho těsto a nanes jej na šípy, kolik chceš; potom je na tyčce strč do teplých světnicových kamen, aby dobře vyschly a uschly. Poté vyjmi tyčku s ohnivými šípy, oškrábej je a vytvaruj, jak chceš; následně je zašij do barchetu, pevně je vzadu i vpředu obvaž dobrým konopím a namoč je v síře s dobrou pryskyřicí – tak budeš mít znamenitě dobré ohnivé šípy.
+    Vezmi tedy 5 liber {pfundt} ledku {Salpeter}, půl libry dřevěného uhlí {Koln} a dvě libry síry {Schwefel}, utluč to velmi dobře v hmoždíři dohromady a přidej k tomu požehnaný olej (*Oleum benedictum*)[^7] a pálené víno, kolik bude stačit. Udělej z toho těsto a nanes jej na šípy, kolik chceš; potom je na tyčce strč do teplých světnicových kamen, aby dobře vyschly a uschly. Poté vyjmi tyčku s zápalnými šípy, oškrábej je a vytvaruj, jak chceš; následně je zašij do barchetu, pevně je vzadu i vpředu obvaž dobrým konopím a namoč je v síře s dobrou pryskyřicí – tak budeš mít znamenitě dobré zápalné šípy.
 - typ: nadpis
   uroven: 3
   de: Ander gut Feurpfeil zumachen.
-  cs: Jak udělat jiné dobré ohnivé šípy
+  cs: Jak udělat jiné dobré zápalné šípy.
 - typ: odstavec
   de: |-
     NIm secklin auß Barchen gemacht / vnd gemacht Puluer / thů es in die secklin / fülle sie wol vnd stoß aber den Pfeil dardurch / der darzů gehört / bindt es vnden vnd oben mit einem zwifachen fadem / vnd merck daß das Puluer mit gebrantem wein vnd öle zusamen gekneten sei / wie vor geschriben steht.
@@ -44,11 +44,11 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Ein guten Feurpfeil der nicht verdirbt / wie langer ligt / vnd auch nicht rostig wirt / zu machen.
-  cs: Jak zhotovit dobrý ohnivý šíp, který se nezkazí, ať leží jakkoli dlouho, a ani nezrezaví
+  cs: Jak zhotovit dobrý zápalný šíp, který se nezkazí, ať leží jakkoli dlouho, a ani nezrezaví.
 poznamky:
 - n: 1
   text: |-
-    Červený sulfid arsenitý (realgar) a žlutý sulfid arsenitý (*Auripigmentum*) se užívaly v dobových ohněstrůjných recepturách k zesílení žáru a jedovatosti dýmu; recept duplicitně uvádí *Arsenicum rubeum* i *Realgar* (v dalším odstavci zkomoleně *Reguligar*).
+    Červený sulfid arsenitý (realgar) a žlutý sulfid arsenitý (*Auripigmentum*) se užívaly v dobových ohňostrojných recepturách k zesílení žáru a jedovatosti dýmu; recept duplicitně uvádí *Arsenicum rubeum* i *Realgar* (v dalším odstavci zkomoleně *Reguligar*).
 - n: 2
   text: |-
     V tisku zkomoleně *Rebarbaram* / *Rebarbara* (snad kořen reveně či zkomolený alchymický název).

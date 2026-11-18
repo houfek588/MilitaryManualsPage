@@ -126,7 +126,7 @@ bloky:
     Dále: na pět tisíc osob je třeba mít za jeden den padesát centů masa, za týden tři sta sedmdesát centů[^2] a za celý měsíc patnáct set centů; to činí na dobytku, jak následuje níže:
 - typ: odstavec
   de: Ein tag.
-  cs: Jeden den.
+  cs: Na jeden den.
 - typ: tabulka
   de:
   - - 5 Ochsen
@@ -162,7 +162,7 @@ bloky:
     - 34 ovcí
 - typ: odstavec
   de: Ein Wochen.
-  cs: Jeden týden.
+  cs: Na jeden týden.
 - typ: tabulka
   de:
   - - 35 Ochsen
@@ -198,7 +198,7 @@ bloky:
     - 238 ovcí
 - typ: odstavec
   de: Einen Monat lang.
-  cs: Jeden měsíc.
+  cs: Na jeden měsíc.
 poznamky:
 - n: 1
   text: |-

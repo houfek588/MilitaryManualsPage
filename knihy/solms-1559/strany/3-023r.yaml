@@ -8,9 +8,9 @@ bloky:
 - typ: odstavec
   pokracovani: true
   de: |-
-    welcher zug dann nach gelegenheit des stucks schwere vnnd größ gemacht solt sein / nemlich einn guten starcken Bock / welchs kloben von 12. scheiben / vnd einem kleinen zwerch wendtscheiblin doppel eingezogen sei / vnd zu der jeden sampt seinen Seylen vnd anderer zugehörung / bedarff man einn Monat / etc. thůt Wagen 2.
+    welcher zug dann nach gelegenheit des stucks schwere vnnd größ gemacht solt sein / nemlich einn guten starcken Bock / welchs kloben von 12. scheiben / vnd einem kleinen zwerch wendtscheiblin doppel eingezogen sei / vnd zu der jeden sampt seinen Seylen vnd anderer zugehörung / bedarff man einn Monat / etc. thůt Wägen 2.
   cs: |-
-    kterýžto kladkostroj má pak být zhotoven podle tíhy a velikosti kusu, totiž dobrá pevná zvedací koza {Bock}, jejíž kladnice {kloben} o 12 kotoučích a s jedním malým příčným otočným kotoučkem {zwerch wendtscheiblin} je dvojitě navlečena; a ke každému z nich s jeho provazy a dalším příslušenstvím je třeba na jeden měsíc atd.[^1] 2 vozy.
+    Tento kladkostroj má být zhotoven podle tíhy a velikosti kusu: totiž dobrá, pevná zvedací koza {Bock}, jejíž kladnice {kloben} o 12 kotoučích a s jedním malým příčným otočným kotoučkem {zwerch wendtscheiblin} je dvojitě navlečena. Ke každému z nich i s provazy a dalším příslušenstvím je třeba na jeden měsíc atd.[^1] – činí to 2 vozy.
 - typ: odstavec
   de: |-
     Vnd jeden 4. Zugpferdt / thůt Ziehpferdt 8.
@@ -20,7 +20,7 @@ bloky:
   de: |-
     Es ist auch zu wissen so mann zeucht das zu jedem Sort oder gattung / welcher vber zwei stuck vorhanden drei gleich züg sein sollen / vrsach daß gewönlich das Geschütz inn drei theil getheilt wirdt / sonst wer an eim Zug gnůg. Auff vorgemelte stuck jedes gehört sein eigene Ladschauffel / die sollen nit auß eisen / sonder von kopffer / vnd ein jede nach gelegenheit gemacht werden. Damit auch einmal wie das ander geladen / vnd die schwere des puluers vnderschiedlich vermerckt werde / das auch solchs on verschüttung desselbigen souil fůgsamer / schleiniger vnd gewisser dann allein mit der Schauffeln das puluer zufassen zügen mög / solt jedes stück drei plechne Büchsen haben / die eine 1. die ander 5. die drit 10. pfundt Puluers fassen kan / vnd auch von kopffer gemacht sind / mit denselben mag mann alßdann die Ladschauffel nach gewisser außtheilung vnd anzall Puluers jedes mal füllen.
   cs: |-
-    Je také třeba vědět, že když se táhne, mají být ke každému druhu či třídě, od níž je více než dva kusy, tři stejné kladkostroje z toho důvodu, že se děla {Geschütz} obvykle rozdělují na tři díly; jinak by stačil jediný kladkostroj. Ke každému ze zmíněných kusů náleží jeho vlastní nabíjecí lopatka {Ladschauffel}; ty nemají být ze železa, nýbrž z mědi a každá má být zhotovena podle ráže. Aby se také nabíjelo pokaždé stejně a rozlišila se váha střelného prachu {puluers}, a aby se prach dal bez rozsypání tím pohodlněji, rychleji a jistěji nabírat než pouhou lopatkou, má mít každý kus tři plechové nádoby {plechne Büchsen}, z nichž jedna pojme 1, druhá 5 a třetí 10 liber {pfundt} prachu a jsou rovněž zhotoveny z mědi; těmi se pak může nabíjecí lopatka pokaždé naplnit podle přesného rozvržení a množství prachu.
+    Je také třeba vědět, že když se táhne, mají být ke každému druhu či třídě, od níž je více než dva kusy, tři stejné kladkostroje z toho důvodu, že se děla {Geschütz} obvykle rozdělují na tři díly; jinak by stačil jediný kladkostroj. Ke každému ze zmíněných kusů náleží jeho vlastní nabíjecí lopatka {Ladschauffel}; ty nemají být ze železa, nýbrž z mědi a každá má být zhotovena podle potřeby [svého kusu]. Aby se také nabíjelo pokaždé stejně, aby se rozlišovala váha střelného prachu {puluers} a aby se prach dal bez rozsypání tím pohodlněji, rychleji a jistěji nabírat než pouhou lopatkou, má mít každý kus tři plechové nádoby {plechne Büchsen}, z nichž jedna pojme 1, druhá 5 a třetí 10 liber {pfundt} prachu a jsou rovněž zhotoveny z mědi; těmi se pak může nabíjecí lopatka pokaždé naplnit podle přesného rozvržení a množství prachu.
 - typ: odstavec
   de: |-
     So bedörffen nun dise zwo Scharpffemetzen für sich selbst an gezeug 230. Centner Augspurgisch gewicht.
@@ -63,9 +63,9 @@ bloky:
     Plechových nádob na prach {Blechen Büchsen} 6.
 - typ: odstavec
   de: |-
-    VIer Nachtigaln oder doppel Cartaun 4. deren jede 80. Centner mehr gemelts gewichts an jr selbst halt / vnd nachuolgender jrer zugehörigen Kugel 17. leng hab.
+    GVter Nachtigaln oder doppel Cartaun 4. deren jede 80. Centner mehr gemelts gewichts an jr selbst halt / vnd nachuolgender jrer zugehörigen Kugel 17. leng hab.
   cs: |-
-    Čtyři slavíci {Nachtigaln} neboli dvojité kartouny {doppel Cartaun},[^3] z nichž každý sám o sobě váží 80 centů vícekrát zmíněné váhy a má délku 17 svých příslušných níže uvedených koulí.
+    Dobří slavíci {Nachtigaln} neboli dvojité kartouny {doppel Cartaun}, 4 kusy,[^3] z nichž každý sám o sobě váží 80 centů vícekrát zmíněné váhy a má délku 17 svých příslušných níže uvedených koulí.
 - typ: odstavec
   de: |-
     Der stuck eins soll auch schiessen ein eisene Kugel / die da helt oder wigt 70. pfundt.
@@ -74,10 +74,10 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Tisk uvádí nejasné spojení *bedarff man einn Monat / etc.* (totéž na l. 23v); pravděpodobně pozůstatek tabulkového rozpočtu na jedno měsíční tažení nebo písařské záměny za *Monition* (*Munition* – „výbavy/munice“).
+    Tisk (ověřeno ve skenu) skutečně uvádí *bedarff man einn Monat / etc.* (totéž na l. 23v); smysl nejasný – snad zbytek rozpočtu na jeden měsíc tažení (srov. 8. kapitolu), snad záměna za *Monition* (munice, výbava).
 - n: 2
   text: |-
     Součet výše rozepsaných položek dává 114 + 28 + 28 + 8 = 178 tažných koní; uvedených 190 koní zahrnuje zřejmě ještě 12 koní (po 6 koních) na 2 prázdné lafety šarfmec, jejichž zápřah text výše opomněl uvést. Sloveso *sprengen* je zde v dobovém významu „připřáhnout, zapřáhnout“.
 - n: 3
   text: |-
-    Na pravém okraji tisku stojí rubrika *Nachtigal 4.* (4 slavíci).
+    Na pravém okraji tisku stojí rubrika *Nachtigal 4.* (4 slavíci). Odstavec začíná zdobnou iniciálou *G* (*GVter*, „dobrých“), obdobně jako *ITem gůter … Scharpffermetzen* na l. 22r.

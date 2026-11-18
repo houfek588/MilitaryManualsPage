@@ -8,12 +8,12 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Puluer / Kolen / Schwefel vnnd salpeter zuscheiden.
-  cs: Jak oddělit střelný prach {Puluer}, dřevěné uhlí {Kolen}, síru {Schwefel} a ledek {salpeter}[^1]
+  cs: Jak oddělit střelný prach {Puluer}, dřevěné uhlí {Kolen}, síru {Schwefel} a ledek {salpeter}
 - typ: odstavec
   de: |-
     THů essig in ein geschirr / lege Büchsen Puluer darein / rür es wol durcheinander / laß ein gut weil stehn / so geht der Kolen allein vber sich / den heb mann sauber herab / darnach laß manns zum andermal ein wal thun zusieden / so ist der Salpeter zugangen / dann thu ein sack vnder ein sauber geschirr / vnd gieß das ander in den sack / so bleibt der Schwefel in dem sack / vnd Salpeter dardurch / besonder wil mann ein gut Puluer darauß machen / so nim jeglichs als vil nach teillung vnd massung als von einem andern Büchsen Puluer geschriben steht.
   cs: |-
-    Nalij ocet do nádoby, vlož do něj střelný prach {Büchsen Puluer}, dobře to promíchej a nech dobrou chvíli stát; tak vystoupí samotné uhlí nahoru a to se čistě sebere. Poté se to nechá podruhé varem vzkypět, čímž se ledek rozpustí; potom podlož pytel pod čistou nádobu[^2] a vlij zbytek do pytle – tak zůstane síra v pytli a ledek projde skrz něj. Chce-li se z toho pak udělat dobrý prach, vezmi od každého tolik podle rozdělení a míry, jak jest psáno o jiném střelném prachu.
+    Nalij ocet do nádoby, vlož do něj střelný prach {Büchsen Puluer}, dobře to promíchej a nech dobrou chvíli stát; samotné uhlí vystoupí nahoru a to se čistě sebere. Potom se to nechá podruhé přejít varem, tím se ledek rozpustí. Pak dej pytel nad čistou nádobu[^1] a vlij zbytek do pytle – síra zůstane v pytli a ledek projde skrz. Chce-li se z toho opět udělat dobrý prach, vezmi od každé složky tolik podle dílů a míry, jak je psáno o jiném střelném prachu.
 - typ: nadpis
   uroven: 2
   de: Nun volget hernach wie mann salpeter ziehen / machen / leutern / erkennen vnd kauffen soll.
@@ -26,20 +26,17 @@ bloky:
   de: |-
     OB du guten Salpeter ziehen wilt an den Mauern / so schüt salpeter wasser / da er in gesoten sei / an ein feuchte Maurn in einen Keller da salpeter gern wechst / die Mauer gewint salpter gnug / vnd darnach so du jn abnimbst / so spreng allweg salpeter wasser in die Maur / mit eim wedel / daß die Maur wässerig werd / daselbs wechst er gar gern.
   cs: |-
-    Chceš-li dobývat dobrý ledek na zdech, polij vlhkou zeď ve sklepě, kde ledek rád vyrůstá, ledkovou vodou, v níž byl vařen; zeď získá ledku dostatek, a potom, když jej sebereš, vždy postříkej zeď kropáčem ledkovou vodou, aby zeď byla mokrá – tam pak vyrůstá velmi ochotně.
+    Chceš-li dobývat dobrý ledek na zdech, polij vlhkou zeď ve sklepě, kde ledek rád roste, ledkovou vodou, v níž se [ledek] vařil; zeď ho získá dost. Když jej pak sebereš, postříkej zeď pokaždé kropáčem ledkovou vodou, aby byla mokrá – tam pak roste velmi ochotně.
 - typ: nadpis
   uroven: 3
   de: Aber wie mann Salpeter ziehen sol.
-  cs: Jinak jak se má ledek dobývat
+  cs: Jak se má ledek dobývat jinak
 - typ: odstavec
   de: |-
     SO du wilt das der salpeter besser wechs dann an den Maurn / so heiß dir machen ein Rören als groß du wilt / die vol kleiner löcher sei / nim 1. pfundt weinsteins / vnd ein pfundt saltzs / oder gleich als vil saltzs / so vil weinsteins vnd kalch / ein mans harm der wein trinckt / vnd mach auß der Materi ein dick muß / streich das inwendig an die Rören / vnd laß es drei tag an der Sonnen stehn / geuß die Materi an dem vierdten tag wider darauß / vnd henck die rören wider in ein Keller / so wechst guter salpeter wider darauß.
   cs: |-
-    Chceš-li, aby ledek rostl lépe než na zdech, dej si zhotovit rouru tak velkou, jak chceš, která bude plná malých dírek; vezmi 1 libru {pfundt} vinného kamene a jednu libru soli – anebo stejně tolik soli, kolik vinného kamene a vápna – a moč muže, jenž pije víno, a udělej z této směsi hustou kaši. Potři tím rouru zevnitř a nech ji tři dny stát na slunci; čtvrtého dne směs zase vylij a rouru opět pověs do sklepa – tak z ní opět vyroste dobrý ledek.
+    Chceš-li, aby ledek rostl lépe než na zdech, dej si zhotovit rouru tak velkou, jak chceš, která bude plná malých dírek; vezmi 1 libru {pfundt} vinného kamene a jednu libru soli – anebo soli stejně jako vinného kamene a vápna – a moč muže, který pije víno, a udělej z toho hustou kaši. Potři tím rouru zevnitř a nech ji tři dny stát na slunci; čtvrtého dne směs zase vylij a rouru opět pověs do sklepa – tak z ní opět vyroste dobrý ledek.
 poznamky:
 - n: 1
-  text: |-
-    BSB OCR zde v nadpisu přidalo neexistující *ufscheiden.*, v následujícím odstavci vynechalo velkou ozdobnou iniciálu *O* (*OB du*) a v posledním receptu četlo *Kören* místo *Rören* („roura“).
-- n: 2
   text: |-
     Smyslem postupu je zavěsit plátěný pytel nad čistou nádobu (v němčině doslova *thu ein sack vnder ein sauber geschirr* – snad ve smyslu „vylož pytlem“ či „připrav pod čistou nádobou / nad čistou nádobou“).

@@ -8,9 +8,9 @@ bloky:
 - typ: odstavec
   pokracovani: true
   de: |-
-    reinen Kessel als vil du wilt / geuß gůt Laug darüber / daß sie jhn bloß bedeckt / rür das durch einander / darnach geuß halb ab / so findt mann das Saltz vñ Alaun an dem boden / das Salpeter wasser das vor allein gewesen ist kalt worden / so steht der Salpeter als weñ er gefron sei / wann er dann gestanden ist / so schüt die laugen herab / vnd trücken den Salpeter wol / 1. lb. thůt mehr dañ sonst 3. oder 4. vnd ist 1. lb. eins gulden werdt.
+    reinen Kessel als vil du wilt / geuß gůt Laug darüber / daß sie jhn bloß bedeckt / rür das durch einander / darnach geuß halb ab / so findt mann das Saltz vnd Alaun an dem boden / das Salpeter wasser das vor allein gewesen ist kalt worden / so steht der Salpeter als wenn er gefron sei / wann er dann gestanden ist / so schüt die laugen herab / vnd trücken den Salpeter wol / 1. lb. thůt mehr dann sonst 3. oder 4. vnd ist 1. lb. eins gulden werdt.
   cs: |-
-    čistého kotle, kolik chceš, nalij na něj dobrý louh, aby jej sotva zakrýval, promíchej to a pak polovinu slij: tehdy najdeš sůl a kamenec na dně. A když solanková voda s ledkem {Salpeter}, jež byla předtím oddělena, vychladne, stojí ledek, jako by byl zmrzlý; když pak ztuhne, slij louh a ledek dobře usuš – 1 libra vykoná více než jinak 3 nebo 4 a 1 libra má cenu jednoho zlatého {gulden}.
+    čistého kotle, kolik chceš, nalij na něj dobrý louh, aby jej sotva zakrýval, promíchej to a pak polovinu slij: na dně najdeš sůl a kamenec. Když ledková voda {Salpeter}, předtím slitá zvlášť, vychladne, stojí v ní ledek, jako by zmrzl; když pak ztuhne, slij louh a ledek dobře usuš. 1 libra vykoná víc než jinak 3 nebo 4 a má cenu jednoho zlatého {gulden}.
 - typ: nadpis
   uroven: 2
   de: Volgt wie mann Schwefel zum Puluer zurichten vnd machen soll.
@@ -20,29 +20,29 @@ bloky:
   uroven: 3
   de: |-
     Welcher Schwefel der best ist / vnnd wie mann jn darnach stercker machen soll.
-  cs: Která síra jest nejlepší a jak se má potom učinit silnější
+  cs: Která síra je nejlepší a jak se má potom učinit silnější
 - typ: odstavec
   de: |-
-    LEbendiger schwefel ist der aller best / dann er ist starck vnd gůt / ist auch schnel zu Feur / vnd mañ bedarff nit souil zum Puluer als des anderen / wie hernach volgt.
+    LEbendiger schwefel ist der aller best / dann er ist starck vnd gůt / ist auch schnel zu Feur / vnd mann bedarff nit souil zum Puluer als des anderen / wie hernach volgt.
   cs: |-
-    Živá [samorodá] síra[^1] jest ze všech nejlepší, neboť jest silná a dobrá, také rychle chytá oheň a není jí do střelného prachu zapotřebí tolik jako té druhé, jak následuje dále.
+    Živá [samorodá] síra[^1] je ze všech nejlepší, neboť je silná a dobrá, také rychle chytá oheň a není jí do střelného prachu zapotřebí tolik jako té druhé, jak následuje dále.
 - typ: nadpis
   uroven: 3
   de: |-
     Wie mann Schwefel bereiten soll / daß er zum Büchsenpuluer vnd allen Feurwercken nützlich / krefftig vnd hitzig wirt.
   cs: |-
-    Jak se má upravovat síra, aby byla užitečná, silná a prudká do puškového prachu a všech ohňostrojů {Feurwercken}
+    Jak se má upravovat síra, aby byla užitečná, silná a prudká do střelného prachu a všech ohňostrojů {Feurwercken}
 - typ: odstavec
   de: |-
     NIm weissen schwefel auß einem Kram / vnd zulaß den inn einem Erden geschirr / daß er wol zugehe / Nime zu einem pfundt schwefel ein lot Quecksilber / der mit schwefel getödt sei / vnnd rür das vnder einander / darnach geuß den schwefel inn gůten gebranten Wein / so wirt er desto trückner vnd besser.
   cs: |-
-    Vezmi bílou síru z krámu a rozpusť ji v hliněné nádobě, aby se dobře roztavila; na jednu libru {pfundt} síry vezmi jeden lot {lot} rtuti, jež byla umořena sírou,[^2] zamíchej to do sebe a pak síru vlij do dobrého páleného vína – tak bude tím sušší a lepší.
+    Vezmi bílou síru z krámu a rozpusť ji v hliněné nádobě, aby se dobře roztavila. Na jednu libru {pfundt} síry vezmi jeden lot {lot} rtuti umořené sírou,[^2] zamíchej to a pak síru vlij do dobrého páleného vína – bude tím sušší a lepší.
 - typ: nadpis
   uroven: 3
   de: |-
-    Wie mañ ein gut Schwefelöl machen soll das nütz vnd gůt ist vnder alles Feurwerck / vnd das alle Puluer hitzigt / sterckt vnd behelt / das sie nicht verderben noch hinkomen.
+    Wie mann ein gut Schwefelöl machen soll das nütz vnd gůt ist vnder alles Feurwerck / vnd das alle Puluer hitzigt / sterckt vnd behelt / das sie nicht verderben noch hinkomen.
   cs: |-
-    Jak se má dělat dobrý sirný olej, jenž jest užitečný a dobrý do každého ohňostroje a jenž veškerý střelný prach rozpaluje, posiluje a uchovává, aby se nezkazil ani nezvětral
+    Jak se má dělat dobrý sirný olej, jenž je užitečný a dobrý do každého ohňostroje a jenž veškerý střelný prach rozpaluje, posiluje a uchovává, aby se nezkazil ani nezvětral
 - typ: odstavec
   de: |-
     NIm schwefel wieuil du wilt / stoß jhn gar wol / thů darzů salpeter / stoß vnd mischs wol vndereinder vnnd geuß darzů Acetum bene distillatum / laß es wol sieden in einem verdeckten Hafen / wann es trucken wirt / so thů es inn ein Glaß Distillaticum / vnnd mach ein Alembicum darauff / leutter das gar wol / vnnd setz es auff die Eschen / mach ein gefüges Fewer darunder / biß daß es anhebt zu

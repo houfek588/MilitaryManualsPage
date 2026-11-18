@@ -7,16 +7,14 @@ overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 2
-  de: |-
-    Das vierdt Blochaus.
-  cs: |-
-    Čtvrtý srub.
+  de: Das vierdt Blochaus.
+  cs: Čtvrtý srub.
 - typ: odstavec
   de: |-
-    Das vierdt Blochaus stehet in seiner virung vnd hat auff dreien seiten in der mit ront außgeuerdte Streichen/ vnd auff der vierdten seiten einen verdeckten auß vñ eingang.
+    Das vierdt Blochaus stehet in seiner virung vnd hat auff dreien seiten in der mit ront außgeuerdte Streichen/ vnd auff der vierdten seiten einen verdeckten auß vnd eingang.
   cs: |-
-    Čtvrtý srub stojí ve svém čtverhranu a má na třech stranách uprostřed půlkruhové vysunuté boční obrany {Streichwehr} a na čtvrté straně krytý východ a vchod.[^1]
+    Čtvrtý srub {Blochaus} stojí ve svém čtverci a má na třech stranách uprostřed okrouhlé vysunuté boční obrany {Streichen} a na čtvrté straně krytý východ a vchod.[^1]
 poznamky:
 - n: 1
   text: |-
-    Folio `21` nese drobnou rozmazanou číslici vpravo nahoře; v tisku poslední řádek „außgeuerdte“ (bez *i*). Text zde i u předchozího třetího srubu jsou s dřevořezy zřejmě mírně prohozeny: třetí tabule (`476`) nese oblé bašty, kdežto čtvrtá tabule (`478`) má hranaté čtvercové bašty na kruhovém půdorysu.
+    V tisku „außgeuerdte“ (bez *i*, jinde *außgeuierdt*); spojení *in der mit ront* = „uprostřed okrouhlé“. Vyobrazení na protější straně [[5-020v|5-020v]] tomu odpovídá (půlkruhové boční obrany uprostřed tří stran).

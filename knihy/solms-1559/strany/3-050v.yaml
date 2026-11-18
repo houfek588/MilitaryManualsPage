@@ -9,11 +9,11 @@ bloky:
   de: |-
     DAs ist ein nottürfftige gůt lere / dem der auß Büchsen schiessen wil / du solt wissen das keiner Büchsen nit zugetrawen ist / sie sei groß oder klein / beschossen oder nicht / vbel oder wolgeladen / wie die Büchsen ist / so hüt dich nichts desto weniger vor jr / vnd merck auch wenn du sie ladst das du kein eisen darzů nembst / weder Büchsen noch stein mit eisen anrürest / daß das Puluer dauon nit enzündt werdt.
   cs: |-
-    To je potřebné a dobré poučení pro toho, kdo chce střílet z děl {Büchsen}: věz, že žádnému dělu nelze důvěřovat, ať je veliké nebo malé, zastřílené nebo ne, špatně nebo dobře nabité – ať je dělo jakékoli, přesto se před ním měj na pozoru. Pamatuj také, když je nabíjíš, abys k tomu nebral žádné železo a nedotýkal se železem ani děla, ani kamene {stein}, aby se od toho nevznítil střelný prach {Puluer}.
+    To je potřebné a dobré poučení pro toho, kdo chce střílet z děl {Büchsen}: věz, že žádnému dělu nelze důvěřovat, ať je veliké nebo malé, vyzkoušené střelbou, nebo ne, špatně nebo dobře nabité – ať je dělo jakékoli, přesto se před ním měj na pozoru. Pamatuj také, když je nabíjíš, abys k tomu nebral žádné železo a nedotýkal se železem ani děla, ani kamene {stein}, aby se od toho nevznítil střelný prach {Puluer}.
 - typ: nadpis
   uroven: 3
   de: Wie mann auß einer Büchsen vil klötz mit einander in einem anzünden schiessen sol / das ein jeder klotz sein besondern klaff oder schmatzen hab / vnd mann zünts doch nit mehr dann einmal an.
-  cs: Jak se má z jednoho děla na jediné zapálení vystřelit mnoho zátek {klötz} najednou, aby každá zátka měla svůj zvláštní třesk a ránu, a přitom se zapálí jen jednou
+  cs: Jak se má z jednoho děla na jediné zapálení vystřelit mnoho zátek {klötz} najednou, aby každá zátka měla svůj zvláštní třesk a ránu, a přitom se zapálí jen jednou.
 - typ: odstavec
   de: |-
     NIm ein Tarras Büchsen oder ein handt Büchsen / vnd thů Puluer darein souil du bedarffest / vnnd lad sie als sie sein soll / vnnd schlag die Kugel auff das Puluer / nim aber souil Puluers / vnd ein Kugel darauff / also lad die Büchsen mit Puluer vnnd mit Kugel / das sie vol wirt / auch merck das ein jelgiche Kugel ein löchlein soll haben / daß das feur von einem zu dem andern kommen mag / die löchlein sollen in der maß sein als ein spindel spitz / laß Puluer durch die löchlein / vnd stoß ein Schwefel kertzlein darein / merck mich wol / vnd zündt sie an / die aller erst Kugel / so enzündt sich je eine von der andern / vnd thůn manchen klopff vnd platz.
@@ -22,16 +22,16 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Wie mann Feurpfeil auß einer Pleiden / Büchsen oder Werck / in ein Vesten oder Stat werffen vnd schiessen soll.
-  cs: Jak se mají házet a střílet ohnivé šípy {Feurpfeil}[^3] z blidy {Pleiden}, děla nebo vrhacího stroje do pevnosti či města
+  cs: Jak se mají házet a střílet zápalné šípy {Feurpfeil}[^3] z blidy {Pleiden}, děla nebo vrhacího stroje do pevnosti či města.
 - typ: odstavec
   de: |-
     NIm die stein leichter oder geringer denn sie das werck gewerffen mag / schweme sie in Schwefel vnnd hartz / werff jn bald in ein Büchsen Puluer / ehe das der Schwefel vnd das hartz daran erkalden / daß es das Puluer an sich ziehe / vnd neme darnach vberzeuch den stein mit geschwefeltem zwillich tůch / vnd schweme jn aber in Schwefel vnd hartz / werff jn aber bald in ein Büchsen Puluer / darnach nim das barchent thůch / schweme es auch in Schwefel vnd hartz / vberzeuch den stein aber damit dieweil der stein naß ist / so sähe aber Büchsen Puluer darauff / vnd das thů als offt biß das der stein dem werck gleich gnůg werd / wenn du den stein auß dem werck werffen wilt / so leg des aller besten anzindt Puluer darzů / ehe du denn das werck lest lauffen / so zindts an / dann brents vnd thůt grossen schaden.
   cs: |-
-    Vezmi kameny lehčí či menší, než jaké dokáže vrhací stroj vrhnout, namoč je v síře {Schwefel} a pryskyřici a rychle je vhoď do puškového prachu {Büchsen Puluer}, dříve než síra a pryskyřice na nich vychladnou, aby na sebe prach natáhly a přijaly. Potom potáhni kámen sírou napuštěným cvilichovým plátnem, opět jej namoč v síře a pryskyřici a rychle jej znovu vhoď do puškového prachu. Poté vezmi barchetové plátno, namoč je rovněž v síře a pryskyřici, znovu jím kámen potáhni, a dokud je kámen vlhký, posyp jej opět puškovým prachem; to opakuj tak často, až bude mít kámen pro vrhací stroj právě dostatečnou váhu. Když pak chceš kámen ze stroje vrhnout, přilož k němu nejlepší zápalný prach {anzindt Puluer}, a než necháš stroj spustit, zapal jej – tehdy hoří a působí velikou škodu.
+    Vezmi kameny lehčí či menší, než jaké dokáže vrhací stroj vrhnout, namoč je v síře {Schwefel} a pryskyřici a rychle je vhoď do střelného prachu {Büchsen Puluer}, dříve než síra a pryskyřice na nich vychladnou, aby na sebe prach natáhly a přijaly. Potom potáhni kámen sírou napuštěným cvilinkovým plátnem, opět jej namoč v síře a pryskyřici a rychle jej znovu vhoď do střelného prachu. Poté vezmi barchetové plátno, namoč je rovněž v síře a pryskyřici, znovu jím kámen potáhni, a dokud je kámen vlhký, posyp jej opět střelným prachem; to opakuj tak často, až bude mít kámen pro vrhací stroj právě dostatečnou váhu. Když pak chceš kámen ze stroje vrhnout, přilož k němu nejlepší zápalný prach {anzindt Puluer}, a než necháš stroj spustit, zapal jej – tehdy hoří a působí velikou škodu.
 - typ: nadpis
   uroven: 3
   de: So mann ein glühende Kugel schiessen wil in holtzwerck.
-  cs: Chce-li se střílet žhavá koule do dřevěných staveb
+  cs: Chce-li se střílet žhavá koule do dřevěných staveb.
 poznamky:
 - n: 1
   text: |-
@@ -41,4 +41,4 @@ poznamky:
     Tj. přední kouli u ústí hlavně, od níž postupně prohořívá řetězový zápal k zadním náložím (princip tzv. římské svíce / řadové střelby).
 - n: 3
   text: |-
-    Nadpis sice zmiňuje „ohnivé šípy“ (*Feurpfeil*), vlastní návod však popisuje přípravu zápalných koulí (*stein*) vrhaných obléhacími stroji (*Pleiden*, *Werck*).
+    Nadpis sice zmiňuje „zápalné šípy“ (*Feurpfeil*), vlastní návod však popisuje přípravu zápalných koulí (*stein*) vrhaných obléhacími stroji (*Pleiden*, *Werck*).

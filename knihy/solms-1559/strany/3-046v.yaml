@@ -13,20 +13,20 @@ bloky:
 - typ: nadpis
   uroven: 2
   de: Von Büchsen / Feurpfeiln vnd sonst mancherlei schiessen.
-  cs: O dělech {Büchsen}, ohnivých šípech {Feurpfeiln} a rozličné jiné střelbě
+  cs: O dělech {Büchsen}, zápalných šípech {Feurpfeiln} a rozličné jiné střelbě.
 - typ: nadpis
   uroven: 3
   de: Wie du gůt Büchsen klötz machen solt.
-  cs: Jak máš zhotovovat dobré dělové zátky {Büchsen klötz}
+  cs: Jak máš zhotovovat dobré dělové zátky {Büchsen klötz}.
 - typ: odstavec
   de: |-
     WIlt du gůt Büchsen klötz machen / so nim gůt Albram holtz / mach sie darauß / vnd mach sie vorn kleiner dann hinden / darumb daß sich ein klotz inn ein Büchs wol lest schlagen / so es enger vnd getranger hinein geht / je besser es ist / vnd schlag dann den klotz mitten von einander / vnd laß nichts außwendigs des Rors / so legt sich der stein recht in die Büchsen für den klotz.
   cs: |-
-    Chceš-li zhotovit dobré dělové zátky, vezmi dobré topolové dřevo[^1] a vyrob je z něj; udělej je vpředu užší než vzadu, aby se zátka dala do děla dobře zarazit – čím těsněji a pevněji jde dovnitř, tím lépe. Pak zátku uprostřed rozštípni na dvě půlky a nic nenechávej vyčnívat ven z hlavně {Rors}, takže si kámen {stein} v děle správně sedne před zátku.
+    Chceš-li zhotovit dobré dělové zátky, vezmi dobré topolové dřevo[^1] a vyrob je z něj; udělej je vpředu užší než vzadu, aby se zátka dala do děla dobře zarazit – čím těsněji a pevněji jde dovnitř, tím lépe. Pak zátku uprostřed rozštípni na dvě půlky a nic nenechávej vyčnívat ven z hlavně {Rors}, takže si dělový kámen {stein} v děle správně sedne před zátku.
 - typ: nadpis
   uroven: 3
   de: Wie mann den Büchsenstein soll hawen.
-  cs: Jak se má tesat dělový kámen {Büchsenstein}
+  cs: Jak se má tesat dělový kámen {Büchsenstein}.
 - typ: odstavec
   de: |-
     SOll mann allweg die weiten der Büchsen inwendig bei dem klotz loch / vnd denn die form des steins darnach / messen / vnd abzeichen mit einem Zirckel / wann mann den stein hawet / soll mann jn hawen daß er ringsweiß an der form anstehe / so wirt der schoß desto besser.
@@ -35,7 +35,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Wie mann ein jegliche Büchsen sol laden.
-  cs: Jak se má nabíjet každé dělo
+  cs: Jak se má nabíjet každé dělo.
 - typ: odstavec
   de: |-
     NAch diser lere solt du ein jegliche Büchsen laden / sie sei groß oder klein / du solt das Ror der Büchsen messen / wie lang es inwendig sei vnden an dem boden / theil dann dasselbig maß in 5. theil / ein theil soll der Klotz sein / als er in die Büchsen wirt geschlagen / den andern theil soll mann lassen stehn / vnd thů die drei theil hindersich hinein in die füllen mit gůtem puluer / vnnd dise lere treibt gůt gewissen schoß von der Büchsen.
@@ -44,7 +44,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: So die Büchs geladen ist / vnd sie schiessen wilt.
-  cs: Když je dělo nabito a chceš z něj vystřelit
+  cs: Když je dělo nabito a chceš z něj vystřelit.
 poznamky:
 - n: 1
   text: |-

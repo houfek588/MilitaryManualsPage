@@ -10,11 +10,11 @@ bloky:
   de: |-
     das lauter new vnd rein sei / gůten Essig darinn gethan / vnnd wol durch einander gemengt / daß es alles feucht werde / doch nit zu naß / vnd die secklin lang gefült / vnd thů wie obgemelt mit solchem feuchtem puluer / vnd stoß es mit einem holtz gar hart auff einander / darnach stoß das Feureysen vorn hinein / vnd stoß oder zu male das puluer im secklin / daß es gleich vmb das Pfeileysen ligt / vnd daß das eysen mitten in dem Puluer stehe / vnd bindt das secklein wol zů laß es darnach trücken / schwemb er den pfeil in einem zerlaßnen Schwefel.
   cs: |-
-    která je docela nová a čistá, nalij do ní dobrého octa a dobře vše promíchej, aby to všechno zvlhlo, avšak ne příliš mokře; naplň dlouze pytlíčky, nalož s tímto vlhkým prachem {puluer}, jak řečeno výše, a dřívkem jej v nich velmi pevně napěchuj. Potom zastrč zepředu ohnivé železo a upěchuj či umačkej[^1] prach v pytlíčku tak, aby ležel rovnoměrně kolem železa šípu a železo stálo uprostřed prachu; pytlíček pevně zavaž, nech jej poté uschnout a smoč[^2] šíp v rozpuštěné síře.
+    která je docela nová a čistá, nalij do ní dobrého octa a dobře vše promíchej, aby to všechno zvlhlo, avšak ne příliš mokře; dlouhé pytlíčky naplň tímto vlhkým prachem {puluer}, jak bylo řečeno výše, a dřívkem jej v nich velmi pevně napěchuj. Potom zastrč zepředu ohnivé železo a upěchuj či umačkej[^1] prach v pytlíčku tak, aby ležel rovnoměrně kolem železa šípu a železo stálo uprostřed prachu; pytlíček pevně zavaž, nech jej poté uschnout a smoč[^2] šíp v rozpuštěné síře.
 - typ: nadpis
   uroven: 3
   de: Gut Feurpfeil / die erst nach dem schiessen anfahen brennen / zumachen.
-  cs: Jak zhotovit dobré ohnivé šípy {Feurpfeil}, které začnou hořet teprve po vystřelení
+  cs: Jak zhotovit dobré zápalné šípy {Feurpfeil}, které začnou hořet teprve po vystřelení.
 - typ: odstavec
   de: |-
     NEme gůten Zunder / schneidt jn so breit wie zwen rücken halmen / vnd bore ein loch vornen in das Säcklein / stoß dann zunder hinein / dann zindt jn an vnd schieß / so brennt er hindersich biß an den zug / dann brent der Pfeil.
@@ -23,7 +23,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Feurpfeil gut vnd gerecht zumachen.
-  cs: Jak udělat ohnivé šípy dobré a spolehlivé
+  cs: Jak udělat zápalné šípy dobré a spolehlivé.
 - typ: odstavec
   de: |-
     NEme 1. pfundt Salpeter / 1. pfundt Schwefel / vnd 1. halbs Koln / stoß das durch einander in einem Mörser mit einem hölzen klöpfel thů oleum benedictum vnd gebranten wein darunder / also daß ein deig darauß werde / vnd stoß oder knet des deigs souil vber die Pfeil als dir gefelt / darnach laß jhn bei einem Ofen ligen / das kein Feur berür / vnd auff den andern tag ists trucken / darnach beschneidt jn mit einem Messer wie er sein soll / vnd vberziehe jn mit einem Leynen tůch oder Barchent / bewints dann mit fädem oder Eysenträden / darnach in Schwefel vnd hartz geschwembt.
@@ -32,16 +32,16 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Gar gut Feurpfeil zu machen.
-  cs: Jak udělat velmi dobré ohnivé šípy
+  cs: Jak udělat velmi dobré zápalné šípy.
 - typ: odstavec
   de: |-
     NEme 3. pfundt Salpeter / 1. pfundt Schwefel / vnd 1. Koln / stoß das zu Puluer / knets zu einem deig mit gebrantem wein / mach ein kleines secklein auß Barchent wie der pfeil ist / vnnd thů deig darein / stoß den pfeil dardurch / vnd verbindt jn hinden vnd vorn mit einem fadem / ziehe jn darnach in Schwefel vnd hartz / damit hat mann gůt Feurpfeil.
   cs: |-
-    Vezmi 3 libry ledku, 1 libru síry a 1 [libru] uhlí, utluč to na prach a uhněť s páleným vínem v těsto. Ušij z barchetu malý pytlíček podle velikosti šípu, vlož do něj těsto, prostrč jím šíp, zavaž jej vzadu i vpředu nití a pak jej protáhni sírou a pryskyřicí; tím budeš mít dobré ohnivé šípy.
+    Vezmi 3 libry ledku, 1 libru síry a 1 [libru] uhlí, utluč to na prach a uhněť s páleným vínem v těsto. Ušij z barchetu malý pytlíček podle velikosti šípu, vlož do něj těsto, prostrč jím šíp, zavaž jej vzadu i vpředu nití a pak jej protáhni sírou a pryskyřicí; tím budeš mít dobré zápalné šípy.
 - typ: nadpis
   uroven: 3
   de: Feurpfeil die sich anzinden / erst wann sie ein geschossen seind.
-  cs: Ohnivé šípy, které se vznítí teprve tehdy, když jsou už vystřeleny do cíle
+  cs: Zápalné šípy, které se vznítí teprve tehdy, když jsou už vystřeleny do cíle.
 poznamky:
 - n: 1
   text: |-

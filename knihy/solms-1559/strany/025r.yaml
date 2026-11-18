@@ -13,12 +13,12 @@ bloky:
   de: |-
     DEr Feldmarschalck ist Oberster vber den Renfanen / aber weil er anderer seiner Geschäfft halben / biß zum schlahen gar nicht / oder doch wenig darbei sein kan / nimpt er einen oder zwen geschickte Kriegsmanner / die den Fanen biß zur Schlacht füren oder verwalten / der oder dieselben werden billich Hauptleut / vnd des Feldmarschalcks Leutenant vber den Renfanen.
   cs: |-
-    Polní maršálek je nejvyšším velitelem nad předvojovou korouhví {Renfanen}; protože však pro své jiné povinnosti nemůže být až do samotného střetu vůbec – nebo jen málo – při ní přítomen, vezme si jednoho nebo dva schopné válečníky {Kriegsmanner}, kteří korouhev {Fanen} až do bitvy vedou nebo spravují; ten či tito se po právu stávají hejtmany {Hauptleut} a poručíky {Leutenant} polního maršálka nad předvojovou korouhví.
+    Polní maršálek je plukovníkem {Oberster} nad předvojovou korouhví {Renfanen}. Protože však pro své jiné povinnosti nemůže být až do střetnutí u ní vůbec, nebo jen málo, vezme si jednoho nebo dva schopné válečníky {Kriegsmanner}, kteří korouhev {Fanen} až do bitvy vedou nebo spravují. Ten nebo ti se po právu stávají hejtmany {Hauptleut} a poručíky {Leutenant} polního maršálka nad předvojovou korouhví.
 - typ: odstavec
   de: |-
     Wann der Feldmarschalck den Renfanen besetzen will / soll er doch mit Rath des obersten Feldhauptmans / von allen gerüsten Hauptleuten / Reutern / von einem jeden nach seiner anzall / nemen / vnd daß auß volgenden vrsachen.
   cs: |-
-    Když chce polní maršálek předvojovou korouhev obsadit lidem, má jej po poradě s nejvyšším polním hejtmanem {obersten Feldhauptmans} vybrat ode všech vystrojených hejtmanů a jezdců {Reutern}, od každého podle jeho počtu, a to z následujících příčin:
+    Když chce polní maršálek předvojovou korouhev obsadit, má po poradě s nejvyšším polním hejtmanem {obersten Feldhauptmans} brát lidi ode všech vyzbrojených hejtmanů a jezdců {Reutern}, od každého podle počtu jeho mužů, a to z těchto důvodů:
 - typ: odstavec
   de: |-
     Erstlich / der Feldmarschalck hat allweg an der Schlacht das vortreffen mit dem Renfanen.
@@ -28,7 +28,7 @@ bloky:
   de: |-
     Zum andern / zeucht der Renfan allweg gegen Feinden vor / vnnd von Feinden nach // damit nun niemand vnder den Hauptleuten verdacht werde / als ob er nicht Leut vnder jm habe / die gegen feinden zugebrauchen seien / so wirt dise Ordnung billich also gehalten.
   cs: |-
-    Za druhé: předvojová korouhev táhne vždy napřed proti nepřátelům a při ústupu od nepřátel vzadu; aby tedy žádný z hejtmanů nebyl podezříván, že pod sebou nemá lidi způsobilé k boji proti nepřátelům, zachovává se tento řád zcela po právu.
+    Za druhé: předvojová korouhev táhne proti nepříteli vždy v čele a při odtahu od nepřítele na konci. Aby tedy žádný z hejtmanů nebyl podezírán, že nemá pod sebou lidi použitelné proti nepříteli, zachovává se tento řád po právu.
 - typ: odstavec
   de: Zum dritten / sein alle Reuter vnder dem Renfan wacht frei.
   cs: |-
@@ -37,19 +37,19 @@ bloky:
   de: |-
     Die vnder dem Renfanen sein schuldig / als offt das Leger verrucken will / das sie frü / wan die Wacht abzeucht / auff seien / vnd ob dem Leger / biß es anzeucht / auch biß daß ander Leger geschlahen / darzů die Wacht wider besetzt wirt / halten bleiben / damit das Leger im auffbrechen oder legern nicht vberfallen werd.
   cs: |-
-    Ti, kdo náležejí pod předvojovou korouhev, jsou povinni pokaždé, když se ležení {Leger} chystá k přesunu, být časně ráno na koních, jakmile odtáhne stráž; a mají zůstat stát na výšině nad ležením, dokud vojsko nevyrazí a dokud není postaveno další ležení a stráže znovu obsazeny, aby ležení nebylo při odchodu nebo táboření přepadeno.
+    Ti, kdo patří pod předvojovou korouhev, jsou povinni pokaždé, když se ležení {Leger} chystá k přesunu, být časně ráno, jakmile odtáhne stráž, v sedle. Mají pak stát nad ležením, dokud se vojsko nedá na pochod, a také dokud není rozbito další ležení a znovu obsazena stráž, aby ležení nebylo přepadeno při odchodu ani při táboření.
 - typ: odstavec
   de: |-
     Schwaben vnd Francken haben die Freiheit / wann ein Römis. Keyser des Reichs Fanen im feld fliegen leßt / vnd S. Jörgen Fane auffgericht ist / daß dieselben sanct Jörgen / als Renfanen / mit jnen vnnd sonst mit keiner Nation besetzen / auch mit Hauptleuten vnnd Fendrichen verwalten / es sein auch beide genante Landt / des Hauptmans vnd Fendrichs der gestalt vor vil jarn verglichen / daß sie einn tag vmb den andern mit dem Hauptman vnd Fendrich abwechseln.
   cs: |-
-    Švábové a Frankové mají výsadu {Freiheit}, že když římský císař nechá v poli vlát říšskou korouhev a je vztyčena korouhev svatého Jiří, smějí tuto korouhev svatého Jiří jakožto předvojovou korouhev obsadit sami a žádný jiný národ s nimi; rovněž ji spravují svými hejtmany a praporečníky {Fendrichen}. Obě jmenované země se také ohledně hejtmana a praporečníka již před mnoha lety dohodly tak, že se obden v osobě hejtmana a praporečníka střídají.
+    Švábové a Frankové mají výsadu {Freiheit}: když římský císař nechá v poli vlát říšskou korouhev a je vztyčena korouhev svatého Jiří, obsazují tuto korouhev svatého Jiří jakožto předvojovou korouhev oni sami a žádný jiný národ a spravují ji také svými hejtmany a praporečníky {Fendrichen}. Obě jmenované země se už před mnoha lety dohodly, že se v hejtmanovi a praporečníkovi střídají obden.
 - typ: odstavec
   de: |-
     Herwider sein die Steuerer gefreit / wann ein Zug wider die Türcken geschicht / vnd sie im feld sein / daß sie S. Jörgen fanen vnder jn besetzen / verwalten vnd füren.
   cs: |-
-    Naproti tomu Štýřané mají výsadu, že když se koná tažení {Zug} proti Turkům a oni jsou v poli, obsazují, spravují a vedou korouhev svatého Jiří mezi sebou.
+    Naproti tomu Štýřané mají výsadu, že když se koná tažení {Zug} proti Turkům a oni jsou v poli, obsazují, spravují a nesou korouhev svatého Jiří ze svých řad.
 - typ: odstavec
   de: |-
     Wann nun diser Renfann einer im feld vffgericht ist / bedarff man keines andern / vnd mag alßdann der Feldhauptman den Feldmarschalck in der zeit der Schlacht an andern orten / da er jn tüglich sein bedunckt / brauchen.
   cs: |-
-    Když je tedy jedna takováto předvojová korouhev v poli vztyčena, není zapotřebí žádné další; a polní hejtman {Feldhauptman} pak může v době bitvy polního maršálka upotřebit na jiných místech, kde to uzná za vhodné.
+    Je-li v poli vztyčena jedna z těchto předvojových korouhví, žádné jiné není třeba; polní hejtman {Feldhauptman} pak může polního maršálka v době bitvy použít jinde, kde to uzná za vhodné.

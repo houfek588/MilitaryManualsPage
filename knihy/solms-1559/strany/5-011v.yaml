@@ -7,19 +7,19 @@ overeno_clovekem: false
 bloky:
 - typ: odstavec
   de: |-
-    Die Keiserliche Maiestat soll allen vnkosten halten von lichten vñ Zeug vnd von holtz geben was die notturfft erfurdert.
+    Die Keiserliche Maiestat soll allen vnkosten halten von lichten vnd Zeug vnd von holtz geben was die notturfft erfurdert.
   cs: |-
-    Císařské Veličenstvo má hradit veškeré výdaje na světla a nářadí {Zeug} a vydávat dříví, co jen potřeba vyžaduje.
+    Jeho Císařské Veličenstvo má nést veškeré náklady na světla a nářadí {Zeug} a dodávat dříví, kolik potřeba vyžaduje.
 - typ: odstavec
   de: |-
     Zwen Hutleut sol mann haben die zu aller Zeit bei der arbeit seien/ vnd zu sehen daß recht gefarn vnd die arbeit gefürdert werde.
   cs: |-
-    Dva dozorce {Hutleut} má člověk mít, kteří jsou po všechen čas při práci a dohlížejí, aby se správně razilo a práce postupovala kupředu.
+    Je třeba mít dva důlní dozorce {Hutleut}, kteří budou po celý čas při práci a budou dohlížet, aby se správně razilo a práce postupovala.
 - typ: odstavec
   de: |-
-    Item/ es soll auch kein Ampt dem andern inn sein arbeit fallen oder verhindern/ sonder eiñ jeglichen seinen beuelch lassen verrachten/ vñ welcher sein dienst nicht recht außricht soll der Oberst jn darumb anreden/ vnd nach gelegenheit straffen sonst hat er keinen frieden im leger.
+    Item/ es soll auch kein Ampt dem andern inn sein arbeit fallen oder verhindern/ sonder ein jeglichen seinen beuelch lassen verrachten/ vnd welcher sein dienst nicht recht außricht soll der Oberst jn darumb anreden/ vnd nach gelegenheit straffen sonst hat er keinen frieden im leger.
   cs: |-
-    Dále nemá žádný úřad {Ampt} druhému zasahovat do jeho práce ani mu překážet, nýbrž má každého nechat vykonávat jeho rozkaz; a kdo svou službu nevykonává správně, má jej proto nejvyšší velitel {Oberst} napomenout a podle okolností potrestat, jinak nemá v ležení {Leger} pokoje.[^1]
+    Dále nemá žádný úřad {Ampt} druhému zasahovat do jeho práce ani mu v ní bránit, nýbrž má každého nechat vykonávat jeho povinnost {beuelch}. Kdo svou službu nekoná správně, toho má plukovník {Oberst} napomenout a podle okolností potrestat; jinak nebude mít v ležení {leger} pokoj.[^1]
 poznamky:
 - n: 1
   text: |-

@@ -7,16 +7,16 @@ overeno_clovekem: false
 bloky:
 - typ: tabulka
   de:
-  - - Hanß Vogelszberger
+  - - Hanß Vogelßberger
     - schichten 6
   cs:
-  - - Hanß Vogelszberger
+  - - Hanß Vogelßberger
     - 6 směn
 - typ: odstavec
   de: |-
     Summa 56. schichten zu 6. batz. Summa gelt 22. fl. 6. batzen.
   cs: |-
-    Součet 56 směn po 6 batzech, součet peněz 22 zlatých 6 batzů.
+    Součet 56 směn po 6 bacenech, součet peněz 22 zlatých 6 bacenů.
 - typ: odstavec
   de: |-
     Zuffer leut.
@@ -45,7 +45,7 @@ bloky:
   de: |-
     Summa 12. schichten zu 5. batz. Summa gelt 4. fl. Summarum 26. fl. 6. batzen.
   cs: |-
-    Součet 12 směn po 5 batzech, součet peněz 4 zlaté; úhrnem 26 zlatých 6 batzů.
+    Součet 12 směn po 5 bacenech, součet peněz 4 zlaté; úhrnem 26 zlatých 6 bacenů.
 - typ: odstavec
   de: |-
     Mehr die so bei dem wasser sein.
@@ -67,7 +67,7 @@ bloky:
     - schichten 1
   - - Christoff Müler
     - schichten 1
-  - - Hanß Vogelszberger
+  - - Hanß Vogelßberger
     - schichten 1
   - - Hanß von Fleissing
     - schichten 1
@@ -94,7 +94,7 @@ bloky:
     - 1 směna
   - - Christoff Müler
     - 1 směna
-  - - Hanß Vogelszberger
+  - - Hanß Vogelßberger
     - 1 směna
   - - Hanß von Fleissing
     - 1 směna
@@ -110,19 +110,19 @@ bloky:
   de: |-
     Summa 13. schichten zu 6. batzen/ auff dem stoln bei dem wasser. Summa gelt 5. flo. 3. batzen.
   cs: |-
-    Součet 13 směn po 6 batzech na štole u vody; součet peněz 5 zlatých 3 batzy.
+    Součet 13 směn po 6 bacenech na štole u vody; součet peněz 5 zlatých 3 baceny.
 - typ: odstavec
   de: |-
     Hut leut.
   cs: |-
-    Dozorci:
+    Důlní dozorci:
 - typ: tabulka
   de:
   - - Valten Weingarten
     - 4 fl.
   - - Augustin Neuhofer
     - 4 fl.
-  - - Clauß Dopffer võ Eissenach
+  - - Clauß Dopffer von Eissenach
     - 4 fl.
   - - Contz Weiß
     - 4 fl.
@@ -159,7 +159,7 @@ bloky:
   de: |-
     Was ich außgeben hab für Kertzen vnd anders mehr.
   cs: |-
-    Co jsem vydal za svíce a jiné věci:
+    Co jsem vydal za svíčky {Kertzen} a jiné věci:
 - typ: tabulka
   de:
   - - Item am 22 tag Julij für Kertzen geben
@@ -177,35 +177,35 @@ bloky:
   - - Item vmb ein Ziegel wasser zu heben geben
     - 2 batzen.
   cs:
-  - - Dne 22. července vydáno za svíce
-    - 3 zlaté 9 batzů
-  - - Dne 24. července za svíce vydáno
-    - 2 zlaté 7 batzů
-  - - Dne 26. července za svíce vydáno
-    - 2 zlaté 11 batzů
-  - - Dne 28. července za svíce vydáno
+  - - Dále dne 22. července vydáno za svíčky
+    - 3 zlaté 9 bacenů
+  - - Dále dne 24. července vydáno za svíčky
+    - 2 zlaté 7 bacenů
+  - - Dále dne 26. července vydáno za svíčky
+    - 2 zlaté 11 bacenů
+  - - Dále dne 28. července vydáno za svíčky
     - 1½ zlatého
-  - - Dne 29. července za svíce vydáno
-    - 2 zlaté 8½ batzu
-  - - Za papír vydáno
-    - 2 batzy
-  - - Za okov k nabírání vody vydáno
-    - 2 batzy
+  - - Dále dne 29. července vydáno za svíčky
+    - 2 zlaté 8½ bacenu
+  - - Dále vydáno za papír
+    - 2 baceny
+  - - Dále vydáno za okov k vytahování vody
+    - 2 baceny
 - typ: odstavec
   de: |-
     Summa 45 flo. 5 batzen.
   cs: |-
-    Součet 45 zlatých 5 batzů.[^1]
+    Součet 45 zlatých 5 bacenů.[^1]
 - typ: odstavec
   de: |-
     Das erst geding thůt summa an gelt 150 fl. 10 batzen.
   cs: |-
-    První dílo {Geding} činí úhrnem na penězích 150 zlatých 10 batzů.
+    První úkolové dílo {geding} činí úhrnem na penězích 150 zlatých 10 bacenů.
 - typ: odstavec
   de: |-
     Widerumb angefangen auff ein newes am 27. Julij.
   cs: |-
-    Znovu započato od začátku dne 27. července:
+    Znovu započato nanovo 27. července:
 - typ: tabulka
   de:
   - - Martin Gretz
@@ -244,4 +244,4 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Osm dozorců (*Hutleut*) po 4 zlatých dává 32 zlatých a vypsané výdaje za svíce, papír a okov (1 zlatý = 15 batzů) dávají 13 fl. 2 batzy, tedy dohromady 45 fl. 2 batzy (proti tištěným 45 fl. 5 batzů); při přičtení předchozích položek (33 fl. 5 b. + 40 fl. 6 b. + 26 fl. 6 b. + 5 fl. 3 b. + 45 fl. 5 b.) však výsledné *erst geding* přesně souhlasí na `150 fl. 10 batzen`.
+    Osm dozorců (*Hutleut*) po 4 zlatých dává 32 zlatých a vypsané výdaje za svíce, papír a okov (1 zlatý = 15 bacenů) dávají 13 fl. 2 baceny, tedy dohromady 45 fl. 2 baceny (proti tištěným 45 fl. 5 bacenů); při přičtení předchozích položek (33 fl. 5 b. + 40 fl. 6 b. + 26 fl. 6 b. + 5 fl. 3 b. + 45 fl. 5 b.) však výsledné *erst geding* přesně souhlasí na `150 fl. 10 batzen`.

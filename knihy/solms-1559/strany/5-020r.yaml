@@ -7,16 +7,14 @@ overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 2
-  de: |-
-    Das drit Blochaus.
-  cs: |-
-    Třetí srub.
+  de: Das drit Blochaus.
+  cs: Třetí srub.
 - typ: odstavec
   de: |-
-    DIe drit Figur ist der gestalt an ein ort zulegen/ da mann auch einen Paß möcht haben/ vnd dieselbigen strassen etwan mit Gewalt müsten verlegt werden/ vnnd darin gut Geschütz sein müst/ wie die Figur dasselbig außweist oder anzeigt/ dasselbig drit Blochaus mag mañ also groß oder klein machen nach gelegenheit es die noturfft erfordert/ vil oder wenig leut darin zuhaben/ darnach mag mann es groß oder klein machen/ vñ solches drit Blochhaus hat auff den dreien seiten drei außgeuierdte starcke Streichen/ vnd auff der vierdten seiten einen verdeckten auß vñ eingang.
+    Die drit Figur ist der gestalt an ein ort zulegen/ da mann auch einen Paß möcht haben/ vnd dieselbigen strassen etwan mit Gewalt müsten verlegt werden/ vnnd darinn gut Geschütz sein müst/ wie die Figur dasselbig außweist oder anzeigt/ dasselbig drit Blochaus mag mann also groß oder klein machen nach gelegenheit es die noturfft erfordert/ vil oder wenig leut darin zuhaben/ darnach mag mann es groß oder klein machen/ vnd solches drit Blochhaus hat auff den dreien seiten drei außgeuierdte stacker Streichen/ vnd auff der vierdten seiten einen verdeckten auß vnd eingang.
   cs: |-
-    Toto třetí vyobrazení jest takového způsobu, aby se položilo na místo, kde může být průsmyk {Paß} a kde by ty silnice snad musely být mocí zahrazeny a uvnitř muselo být dobré dělo, jak vyobrazení samo ukazuje. Tento třetí srub lze udělat tak veliký či malý, jak vyžaduje potřeba a příležitost, zda v něm má být mnoho či málo lidu; a tento třetí srub má na třech stranách tři vysunuté silné boční obrany {Streichwehr} a na čtvrté straně krytý východ a vchod.[^1]
+    Třetí vyobrazení je takové, aby se položilo na místo, kde je také průsmyk {Paß} a kde by se snad silnice musely zahradit mocí, a proto v něm musí být dobrá děla {Geschütz}, jak vyobrazení ukazuje. Tento třetí srub {Blochaus} lze udělat velký či malý podle příležitosti, jak to potřeba vyžaduje, podle toho, zda v něm má být mnoho či málo lidu; podle toho jej lze udělat velký nebo malý. Tento třetí srub má na třech stranách tři vysunuté hranaté silné boční obrany {Streichen} a na čtvrté straně krytý východ a vchod.[^1]
 poznamky:
 - n: 1
   text: |-
-    Signatura `D iij`, foliace `20`. V tisku předposledního řádku „auszgeuierdte stacker Streichen“ (za *starcke*).
+    V tisku „stacker“ (přesmyčka za *starcke*). *Außgeuierdt* = vysunutý do čtverce, hranatý.

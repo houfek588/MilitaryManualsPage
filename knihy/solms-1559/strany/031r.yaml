@@ -9,38 +9,41 @@ bloky:
   uroven: 2
   de: Von des obersten Leutenants oder Feldhauptmans ampt.
   cs: |-
-    O úřadu nejvyššího poručíka {Leutenants} neboli polního hejtmana {Feldhauptmans}.
+    O úřadu nejvyššího poručíka {obersten Leutenants} neboli polního hejtmana {Feldhauptmans}.
 - typ: odstavec
   de: |-
     DEr oberst Leutenant representiert / wo er im feld ist / den obersten Feldhauptman / vnnd alles so er beuilcht / handlet vnd ordnet / ist souil als ob es der Oberst selbst befolhen hett / doch soll der oberst Leutenant der Ordnung vnd beuelch des obersten Feldhauptmans nichts zugegen beuelhen noch orden.
   cs: |-
-    Nejvyšší poručík zastupuje, kdekoli je v poli, nejvyššího polního hejtmana {obersten Feldhauptman}, a vše, co nařídí, vyřídí a ustanoví, má stejnou platnost, jako by to přikázal nejvyšší velitel {Oberst} sám; avšak nejvyšší poručík nemá nařizovat ani ustanovovat nic proti řádu a rozkazu nejvyššího polního hejtmana.
+    Nejvyšší poručík zastupuje v poli nejvyššího polního hejtmana {obersten Feldhauptman}. Vše, co nařídí, vyřídí a ustanoví, platí stejně, jako by to přikázal sám plukovník {Oberst}; nejvyšší poručík však nemá nic nařizovat ani ustanovovat proti řádu a rozkazu nejvyššího polního hejtmana.
 - typ: odstavec
   de: |-
     Es wer dann in abwesen des Obersten / daß sich beschwerlich handlungen zutrügen / das vnder dem Kriegsuolck / wie offt / auffrür würden / die Feinde bei tag oder nacht ins Leger fallen wolten / die Prouiant vnd futerung niderwerffen / oder in andere dergleichen notwendigen sachen / da ist jhm ein jeder im Leger gehorsam zu leisten schuldig / als ob der oberst Feldhauptman selbst darbei were.
   cs: |-
-    Ledaže by se v nepřítomnosti nejvyššího velitele zběhly závažné události, že by mezi válečným lidem {Kriegsuolck} – jak se často stává – vypukla vzpoura {auffrür}, nepřátelé chtěli ve dne či v noci vpadnout do ležení {Leger}, pobít doprovod proviantu {Prouiant} a píce, anebo v jiných podobných naléhavých případech; tehdy je mu každý v ležení povinen poslušností, jako by byl přítomen sám nejvyšší polní hejtman.
+    Výjimkou je, kdyby se v nepřítomnosti plukovníka udály vážné věci: kdyby mezi válečným lidem {Kriegsuolck} vypukla vzpoura {auffrür}, jak se často stává, kdyby nepřátelé chtěli ve dne či v noci vpadnout do ležení {Leger} nebo přepadnout dopravu proviantu {Prouiant} a píce, anebo v jiných podobných naléhavých případech. Tehdy je mu každý v ležení povinen poslušností, jako by byl přítomen sám nejvyšší polní hejtman.
 - typ: odstavec
   de: |-
     Wann das Leger etwan / das doch one merckliche vrsachen nicht geschehen soll / getheilt wirdt / so hat der oberst Leutenant dasselbig in seiner verwaltung / er hett dann zugeordnete Räth / oder einen gemeßnen beuelch von dem Obersten empfangen.
   cs: |-
-    Rozdělí-li se někdy ležení – což se však nemá dít bez závažných příčin –, má je ve své správě nejvyšší poručík, ledaže by měl přidělené válečné rady {Räth} nebo obdržel od nejvyššího velitele přesný rozkaz.
+    Rozdělí-li se někdy ležení, což se nemá dít bez závažných důvodů, spravuje je nejvyšší poručík, ledaže by měl přidělené válečné rady {Räth} nebo dostal od plukovníka přesný rozkaz.
 - typ: odstavec
   de: |-
     Der Leutenant soll die Reisigen auff dem Zug / auß einem Leger in das ander in der Ordnung / wie ein Hauff auff den anderen ziehen soll / behalten / damit kein Geschwader für das ander rücke / sonst brengt es / wanns geschicht / grossen vnwillen / wiewol der Feldmarschalck vil mit den Reisigen zu handeln hat / kan er doch solches von verzuckts wegen / nicht versehen / wie hernach gehört.
   cs: |-
-    Poručík má udržovat jízdu {Reisigen} na tažení {Zug} z jednoho ležení do druhého v šiku {Ordnung}, jak má táhnout jeden houf za druhým, aby žádná švadrona {Geschwader} nepředjížděla druhou, jinak to, když se to stane, vyvolává velkou nevoli; neboť ačkoli má polní maršálek {Feldmarschalck} s jízdou mnoho co činit, nemůže toto kvůli svému odjezdu napřed[^1] obstarat, jak bude dále řečeno.
+    Poručík má na pochodu {Zug} z jednoho ležení do druhého udržovat jízdu {Reisigen} v pořadí {Ordnung}, v jakém má táhnout houf za houfem, aby žádná švadrona {Geschwader} nepředjížděla jinou; stane-li se to, plodí to velkou nevoli. Polní maršálek {Feldmarschalck} sice má s jízdou mnoho co dělat, ale protože jede napřed[^1], nemůže to obstarat, jak bude řečeno dále.
 - typ: odstavec
   de: |-
     Ein jeder oberster Leutenant soll / als vil jm möglich / dem obersten Feldhauptman biß zů den Finden / alle seine Geschefft außrichten / damit der Oberst bei rühe bleib / den sachen notturfftig nach zugedencken / vnd an den Feinden die arbeit desto baß ertragen kündt.
   cs: |-
-    Každý nejvyšší poručík má nejvyššímu polnímu hejtmanovi, nakolik jen může, až k samým nepřátelům obstarávat všechny jeho záležitosti, aby nejvyšší velitel zůstal v klidu, mohl o věcech náležitě přemýšlet a tváří v tvář nepřátelům tím lépe snášel námahu.
+    Každý nejvyšší poručík má nejvyššímu polnímu hejtmanovi, nakolik jen může, obstarávat všechny jeho záležitosti, dokud nedojdou k nepřátelům[^2], aby plukovník zůstal v klidu, mohl o věcech náležitě přemýšlet a tváří v tvář nepříteli tím lépe snesl námahu.
 - typ: odstavec
   de: |-
     Der Leutenant oder Hauptman vber den gewaltigen hauffen / sollen den Kriegsherrn / wann er im feld ist / in gemelten hauffen ordnen / vnd jn mit gůten wolgerüsten leuten / fornen / hinden vnd neben wol verwaren / soll den Fendrich ausserhalb der Ordnung / biß sie beschlossen wirt / halten / alßdann soll der Kriegsherr auß der Ordnung /
   cs: |-
-    Poručík nebo hejtman {Hauptman} nad hlavním šikem {gewaltigen hauffen} mají válečného pána {Kriegsherrn}, je-li v poli, zařadit do zmíněného šiku a dobře jej ze všech stran – vpředu, vzadu i po bocích – zajistit dobrými, dobře vyzbrojenými lidmi; praporečníka {Fendrich} má držet vně šiku, dokud se šik neuzavře, a potom má válečný pán ze šiku
+    Poručík nebo hejtman {Hauptman} nad hlavním šikem {gewaltigen hauffen} mají válečného pána {Kriegsherrn}, je-li v poli, zařadit do tohoto šiku a dobře jej vpředu, vzadu i po stranách chránit dobrými, dobře vyzbrojenými muži. Praporečníka {Fendrich} má poručík držet mimo šik, dokud se šik neuzavře; potom má válečný pán ze šiku
 poznamky:
 - n: 1
   text: |-
-    V originále *von verzuckts wegen* (od *verziehen* / *verrücken* – pro odjetí napřed či prodlení), protože polní maršálek jede napřed vyhledat a vyměřit nové ležení, a není tedy při samotném pochodu šiků.
+    V tisku *von verzuckts wegen* (od *verrücken*, odjet) – polní maršálek jede napřed vyhledat a vyměřit nové ležení, a není tedy při pochodu šiků.
+- n: 2
+  text: |-
+    V tisku (ověřeno ve skenu) chybně *biß zů den Finden* místo *Feinden*.

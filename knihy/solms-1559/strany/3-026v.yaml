@@ -10,27 +10,27 @@ bloky:
   de: |-
     andere notturfft / damit die wagen schwer erstat auffladen / thůt also den drei zügen. Wagen 3. Zugpferdt 12.
   cs: |-
-    další potřeby, aby se doplnila nákladní váha vozů; k těm třem kladkostrojům to tedy činí 3 vozy a 12 tažných koní {Zugpferdt}.
+    další potřeby, aby vozy měly plný náklad; na tři kladkostroje tedy připadají 3 vozy a 12 tažných koní {Zugpferdt}.
 - typ: odstavec
   de: |-
     Dise Büchsen sollen auch wie die andern / mit Ladschauffeln vnd Plechbüchsen / nemlich jedes stuck mit einer 2. pfundigen Büchsen / also das sie souil Puluers faß / versehen sein. Demnach so wegen die bestimbten zehen viertel Schlangen / an jn selbst. 120. Centner.
   cs: |-
-    Tato děla {Büchsen} mají být rovněž jako ostatní opatřena nabíjecími lopatkami {Ladschauffeln} a plechovými nádobami {Plechbüchsen}, totiž každý kus jednou dvouliberní nádobou, aby pojala právě tolik střelného prachu {Puluers}. Podle toho tedy stanovených deset čtvrtečních kulverin {viertel Schlangen} váží samy o sobě 120 centů {Centner}.
+    Tato děla {Büchsen} mají být stejně jako ostatní opatřena nabíjecími lopatkami {Ladschauffeln} a plechovými nádobami {Plechbüchsen}, totiž každý kus jednou nádobou, do níž se vejdou dvě libry střelného prachu {Puluers}. Uvedených deset čtvrtečních kulverin {viertel Schlangen} tedy váží samy o sobě 120 centů {Centner}.
 - typ: odstavec
   de: |-
     So halten die 1000. Kugel an Eysen 20. Centner.
   cs: |-
-    Těch 1000 koulí {Kugel} drží na železe 20 centů.
+    Těch 1000 koulí {Kugel} váží 20 centů železa.
 - typ: odstavec
   de: |-
     So schwer Puluers / thůt auch 20. Centner.
   cs: |-
-    Stejně těžké množství prachu činí rovněž 20 centů.
+    Stejně těžké množství prachu váží také 20 centů.
 - typ: odstavec
   de: |-
     Item die benanten stücklein sollen zu jhrer selbst schwer / vnd aller anderer jetzt gemelter jhrer notturfft haben /
   cs: |-
-    Dále zmíněné menší kusy mají ke své vlastní váze a ke všem ostatním právě uvedeným potřebám mít:
+    Dále potřebují zmíněné menší kusy pro sebe samé i pro všechny ostatní právě uvedené potřeby:
 - typ: tabulka
   de:
   - - Wagen
@@ -62,42 +62,42 @@ bloky:
   de: |-
     DEr stück jedes soll an jm selbst 6. Centner schwere / seiner zugeordneten kugeln 44 lang sein / derselben 1. an gewicht halten 1. pfundt.
   cs: |-
-    Každý z těchto kusů[^1] má sám o sobě vážit 6 centů, mít délku 44 svých příslušných koulí a 1 z nich má vážit 1 libru {pfundt}.
+    Každý z těchto kusů[^1] má sám vážit 6 centů a být dlouhý 44 svých koulí; jedna koule má vážit 1 libru {pfundt}.
 - typ: odstavec
   de: |-
     Zu denen 20. Falconetlin gehörn souil gefäß / vnd für der jedes alweg eim Roß 2. cent. gerechnet einzuspannen 3. Roß / thůt zugpferdt 60.
   cs: |-
-    K těmto 20 falkonetům {Falconetlin} náleží tolikéž lafet, a před každou z nich – počítá-li se vždy na jednoho koně 2 centy {cent.} – zapřáhnout 3 koně, což činí 60 tažných koní.
+    K těmto 20 falkonetům {Falconetlin} náleží stejný počet lafet; před každou se zapřáhnou 3 koně (počítají se vždy 2 centy {cent.} na koně), což činí 60 tažných koní.
 - typ: odstavec
   de: |-
     Wiewol nun in nechst gesetzten beiden gattungen / nemlich vierteil Schlangen vnd Falconetlin jedem gaul ein ringer last zuziehen auffgelegt / so ist es doch derhalben für gůt vnd rathsam angesehen / dieweil sichs offtermals zutregt / daß mit disem ringem geschütz / den Feinden abzubrechen / nit allein eilents gefahrn / sonder auch vnderweilen gerent muß werden / derhalben solchs den Rossen souil erschwenglicher / wirt jedem desto weniger zuziehen beuolhen. Zu den 2000. kugeln die allenthalben 20. centner wigen / gehört dermassen wie oben angezeigt / beschloßner vnd woluerwarter wagen 1. Zugpferdt 3.
   cs: |-
-    Třebaže se tedy u obou posledně uvedených druhů, totiž u čtvrtečních kulverin {vierteil Schlangen} a falkonetů, nakládá každému koni k tažení menší tíha, bylo to přece uznáno za dobré a rozumné z toho důvodu, že se často stává, že s těmito lehkými děly {geschütz}, má-li se uškodit nepřátelům, je nutné nejen spěšně jet, nýbrž občas i uhánět cvalem; proto aby to koně tím snáze zvládli, ukládá se každému táhnout tím méně. K těm 2000 koulím, jež váží celkem 20 centů, náleží výše uvedeným způsobem zavřený a dobře opatřený 1 vůz a 3 tažní koně.[^2]
+    Třebaže se tedy u obou posledně uvedených druhů, totiž u čtvrtečních kulverin {vierteil Schlangen} a falkonetů, nakládá každému koni k tažení menší tíha, bylo to přesto uznáno za dobré a rozumné. Často se totiž stává, že se s těmito lehkými děly {geschütz} musí, má-li se nepříteli uškodit, nejen rychle jet, ale občas i hnát cvalem; a protože je to pro koně o to namáhavější, ukládá se každému táhnout méně. Na 2000 koulí, které váží celkem 20 centů, připadá, jak bylo uvedeno výše, 1 zavřený a dobře zajištěný vůz a 3 tažní koně.[^2]
 - typ: odstavec
   de: |-
     Souil puluers / darzů wagen 1. Zugpferdt 3.
   cs: |-
-    Tolikéž prachu, k tomu 1 vůz a 3 tažní koně.
+    Na stejné množství prachu 1 vůz a 3 tažní koně.
 - typ: odstavec
   de: |-
     Auß obgemelten vrsachen wöllen auch zu disen 20. Falconetlin 3. Züg / doch allein mit 4. scheiben / ausserhalb einer wendscheiben / darzů einfach eingezogen / von nöten sein / man mag auch zu diser Züg eim andere notturfft / damit es ein wagenleist erreicht / aufflegen / bedörffen also wagen 3. Zugpferdt 12.
   cs: |-
-    Z výše zmíněných příčin budou i k těmto 20 falkonetům zapotřebí 3 kladkostroje, avšak jen se 4 kotouči, bez otočného kotouče a k tomu navlečené jednoduše; na tyto vozy od kladkostrojů se může naložit i jiné příslušenství, aby to dalo plný náklad vozu; potřebují tedy 3 vozy a 12 tažných koní.
+    Z výše uvedených důvodů budou i k těmto 20 falkonetům zapotřebí 3 kladkostroje, avšak jen se 4 kotouči, bez otočného kotouče a navlečené jednoduše. Ke kladkostrojům lze naložit i jiné potřeby, aby to dalo plný náklad vozu; potřebují tedy 3 vozy a 12 tažných koní.
 - typ: odstavec
   de: |-
     Allermassen wie gehört / sollen sie auch mit Ladschauffeln / Plechenbüchsen ein pfundt fassent / versehen sein. Demnach bedörffen jetztbeschriben 20. Falconetlin an jren selbst zeug 120. centner.
   cs: |-
-    Stejně tak, jak bylo řečeno, mají být opatřeny nabíjecími lopatkami a plechovými nádobami pojímajícími jednu libru prachu. Podle toho nyní popsaných 20 falkonetů potřebuje na svém vlastním kovu 120 centů.
+    Jak už bylo řečeno, mají být rovněž opatřeny nabíjecími lopatkami a plechovými nádobami na jednu libru prachu. Na právě popsaných 20 falkonetů je tedy zapotřebí 120 centů samotného kovu.
 - typ: odstavec
   de: |-
     Item zu den 2000. kugeln an eysen 20. centner.
   cs: |-
-    Dále k 2000 koulím na železe 20 centů.
+    Dále na 2000 koulí 20 centů železa.
 - typ: odstavec
   de: |-
     So schwer puluers / thůt auch 20 Centner.
   cs: |-
-    Stejně těžké množství prachu činí rovněž 20 centů.
+    Stejně těžké množství prachu váží také 20 centů.
 - typ: odstavec
   de: |-
     Gehören auff die Büchsen vnd derselben vermelte alle notturfft.

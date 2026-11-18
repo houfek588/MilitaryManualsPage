@@ -55,7 +55,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: wiltu einen streiffenden schus thun zu einem fuß volck / etc.
-  cs: Chceš-li vypálit kosou ránu proti pěchotě {fuß volck} atd.
+  cs: Chceš-li vypálit plochou ránu po zemi proti pěchotě {fuß volck} atd.
 - typ: odstavec
   de: |-
     SO lade die Büchs / treib den klotzen das er vmb einen grossen rocken halmen vor dem Ror bleib / vnd setz den stein mitten eben daran / vnd vmbfaß jn mit einem nassen leder / darauff so scheib ein schindeln / so scheussestu wol vnd eben.
@@ -69,7 +69,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Büchs sich selbs anzündet.
-  cs: Dělo se samo zapaluje
+  cs: Dělo se samo zapaluje.
 - typ: verse
   de:
   - EIn newe kunst sich hie erfindt /
@@ -108,7 +108,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: wiltu ein Büchsen gern zuschiessen.
-  cs: Chceš-li dělo úmyslně roztrhnout výstřelem
+  cs: Chceš-li dělo snadno roztrhnout výstřelem.
 - typ: odstavec
   de: |-
     SO thů lebendig Quecksilber darein / vnd auch Burras ein wenig os bricht sie wie gůt sie ist.

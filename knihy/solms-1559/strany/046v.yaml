@@ -60,76 +60,76 @@ bloky:
   de:
   - - ''
     - Vlm vnd Neuburg gen Ingolstatt
-    - 6.0
+    - '6.'
     - ''
   - - ''
     - Ingolstatt gen Regenspurg
-    - 9.0
+    - '9.'
     - ''
   - - ''
     - Regenspurg gen Passaw
-    - 20.0
+    - '20.'
     - ''
   - - ''
     - Passaw gen Lintz
-    - 12.0
+    - '12.'
     - ''
   - - Von
     - Lintz gen Stein oder Krembs
-    - 15.0
+    - '15.'
     - Meiln.
   - - ''
     - Stein Krembs gen Wien
-    - 10.0
+    - '10.'
     - ''
   - - ''
     - Wien gen Breßburg
-    - 10.0
+    - '10.'
     - ''
   - - ''
     - Breßburg gen Gamern oder Gran
-    - 7.0
+    - '7.'
     - ''
   - - ''
     - Gran Blintenburg vnd Ofen
-    - 15.0
+    - '15.'
     - ''
   cs:
   - - ''
-    - z Ulmu a Neuburgu do Ingolstadtu
-    - 6
+    - Ulmu a Neuburgu do Ingolstadtu
+    - '6'
     - ''
   - - ''
-    - z Ingolstadtu do Řezna
-    - 9
+    - Ingolstadtu do Řezna
+    - '9'
     - ''
   - - ''
-    - z Řezna do Pasova
-    - 20
+    - Řezna do Pasova
+    - '20'
     - ''
   - - ''
-    - z Pasova do Lince
-    - 12
+    - Pasova do Lince
+    - '12'
     - ''
-  - - Vzdálenosti
-    - z Lince do Steinu či Kremže
-    - 15
+  - - z
+    - Lince do Steinu či Kremže
+    - '15'
     - mil {Meiln}
   - - ''
-    - ze Steinu a Kremže do Vídně
-    - 10
+    - Steinu a Kremže do Vídně
+    - '10'
     - ''
   - - ''
-    - z Vídně do Prešpurku[^3]
-    - 10
+    - Vídně do Prešpurku[^3]
+    - '10'
     - ''
   - - ''
-    - z Prešpurku do Komárna či Ostřihomi
-    - 7
+    - Prešpurku do Komárna či Ostřihomi
+    - '7'
     - ''
   - - ''
-    - z Ostřihomi, Vyšehradu a do Budína {Ofen}
-    - 15
+    - Ostřihomi přes Vyšehrad do Budína {Ofen}
+    - '15'
     - ''
 poznamky:
 - n: 1
@@ -137,7 +137,7 @@ poznamky:
     Tisk uvádí „jednu libru chleba“, avšak počet 28 000 mužů odpovídá jednomu dvouliberovému chlebu denně jako v předchozím výpočtu (2100 : 30 × 400 = 28 000).
 - n: 2
   text: |-
-    Mechausen – pravděpodobně zkomolené dunajské přístavní místo mezi Pasovem a Lincem (snad Neuhaus an der Donau či Aschach, případně Mauthausen pod Lincem).
+    Mechausen – pravděpodobně zkomolené dunajské přístavní místo mezi Pasovem a Lincem (snad Neuhaus an der Donau, Aschach nebo Ottensheim; Mauthausen nepřichází v úvahu, leží až pod Lincem).
 - n: 3
   text: |-
     Podunajské názvy v předloze: Breßburg (Prešpurk / Bratislava), Gamern (Komárno), Gran (Ostřihom / Esztergom), Blintenburg (Vyšehrad / Visegrád), Ofen (Budín).

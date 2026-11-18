@@ -14,7 +14,7 @@ bloky:
   de: |-
     Ein jeder Prouoß hat gewönlich von allen denen die er auß beuelch des Obersten Feldhauptmans/ seins Obersten oder mit recht lest richten/ sein sondere Prouit/ nach dem jm sein Oberster gündt oder gibt in einer jeden handlung.
   cs: |-
-    Každý profous má obvykle od všech těch, které dá popravit z rozkazu nejvyššího polního hejtmana {Obersten Feldhauptmans}, svého plukovníka nebo po právu {recht}, svůj zvláštní příjem[^1], jak mu jeho plukovník v každém jednotlivém případě dopřeje nebo udělí.
+    Každý profous má obvykle ze všech, které dá popravit z rozkazu nejvyššího polního hejtmana {Obersten Feldhauptmans}, svého plukovníka nebo na základě rozsudku {recht}, svůj zvláštní příjem[^1], podle toho, co mu jeho plukovník v každém jednotlivém případě dopřeje nebo udělí.
 - typ: odstavec
   de: |-
     Welcher nit vnder dem Regiment ligt/ vnd einen in die eisen zu schlahen begert/ gibt dem Prouosen zwen gulden/ welcher aber vnder seinem Regiment ligt/ vnd einen in die eisen lest schlahen/ der gibt nur ein gulden.
@@ -24,7 +24,7 @@ bloky:
   de: |-
     Welcher sich vnder disem Regiment wider den Artickelsbrieff/ oder sonst gegen der Obergkeit an sein ehrn/ leib vnd leben verwirckt/ den oder dieselbigen ist der Prouoß auff beuelch seins Obersten vor gericht durch sich selbs/ sei Leutenant oder Gerichtsman anzuklagen schuldig.
   cs: |-
-    Kdokoli se pod tímto plukem proviní proti artikulnímu listu {Artickelsbrieff} nebo jinak proti vrchnosti na své cti, hrdle a životě, toho nebo ty je profous povinen na rozkaz svého plukovníka před soudem {gericht} obžalovat sám, nebo skrze svého poručíka {Leutenant} či soudního muže[^2].
+    Kdo se v tomto pluku proviní proti artikulnímu listu {Artickelsbrieff} nebo jinak proti vrchnosti tak, že propadne čest, hrdlo i život, toho či ty je profous povinen na rozkaz svého plukovníka obžalovat před soudem {gericht}, a to sám, nebo skrze svého poručíka {Leutenant} či přísedícího {Gerichtsman}[^2].
 - typ: odstavec
   de: |-
     Der Prouoß soll gantz fleissig zusehen/ daß inn der Knecht Leger kein falsche maß/ meß/ ellen/ oder gewicht gebraucht werden/ gleich wie der vnder Marschalck in der Reutter Leger auch schuldig ist.
@@ -39,19 +39,17 @@ bloky:
   de: |-
     Was sich aber wichtiger sachen zwischen dem Kriegsuolck zutragen/ die soll der Prouoß dem Obersten nicht verschweigen/ vnd auff sein anzeigen/ des Obersten beuelch gewarten/ auch denselben vnpartheisch verrichten.
   cs: |-
-    Přihodí-li se však mezi válečným lidem {Kriegsuolck} závažnější věci, ty nemá profous plukovníkovi zamlčet; po svém oznámení má vyčkat plukovníkova rozkazu a týž nestranně vykonat.
+    Přihodí-li se však mezi válečným lidem {Kriegsuolck} závažnější věci, nemá je profous plukovníkovi zamlčet; po svém oznámení má vyčkat plukovníkova rozkazu a ten pak nestranně vykonat.
 - typ: odstavec
   de: |-
     Welcher oder welche dem Leger auff dem Rucken oder kopff zutragen/ die sein weder dem Prouosen noch sonst jemants nichts daruon schuldig/ doch dieselben sollen auch kein geuerde der gestalt darinn treiben/ Wann einer etwas im Leger verkauffen wolt/ vnd dasselbig in die nehe zum Leger/ auff Wagen/ Karren/ Rossen oder Eseln fürn lassen/
   cs: |-
-    Kdo do ležení přinášejí zásoby na zádech nebo na hlavě, nejsou z toho povinni profousovi ani nikomu jinému nic odvádět; přesto však v tom nemají provádět žádnou lest tím způsobem, že by někdo chtěl v ležení něco prodávat a nechal to do blízkosti ležení dovézt na vozech, kárách, koních nebo oslech,[^3]
+    Kdo do ležení přináší zboží na zádech nebo na hlavě, není z toho povinen profousovi ani nikomu jinému nic odvádět. Nesmí v tom však provádět žádnou lest, totiž že by někdo chtěl v ležení něco prodávat a nechal by to do blízkosti ležení dovézt na vozech, kárách, koních nebo oslech,[^3]
 poznamky:
 - n: 1
-  text: |-
-    „Prouit“ – zisk, poplatek či úřední obrok z poprav.
+  text: „Prouit“ – zisk, poplatek či úřední obrok z poprav.
 - n: 2
-  text: |-
-    „Gerichtsman“ – soudní přísedící; v tisku též zkrácený tvar „sei“ místo „sein“ („svého“).
+  text: V tisku „sei Leutenant“ místo „sein Leutenant“ (svého poručíka).
 - n: 3
   text: |-
     V tisku následuje přeskočené číslo listu 68 a věta na konci rubu 67v zde bez dokončení přechází k nové kapitole na listu 69r.

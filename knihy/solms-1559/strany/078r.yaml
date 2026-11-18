@@ -13,7 +13,7 @@ bloky:
   de: |-
     DEr Scharpffrichrer soll auff den Prouosen warten/ vnd ob er jm etwas beuilcht/ soll er es nach seins ampts gebrauch treulich außrichten vnd versehen.
   cs: |-
-    Kat {Scharpffrichrer}[^1] má být k ruce profousovi {Prouosen}, a poručí-li mu ten cokoli, má to podle zvyklostí svého úřadu věrně vykonat a obstarat.
+    Kat {Scharpffrichrer}[^1] má být k ruce profousovi {Prouosen}; poručí-li mu profous cokoli, má to podle zvyklostí svého úřadu věrně vykonat a obstarat.
 - typ: odstavec
   de: |-
     Was Schultheiß vnnd Gericht verurtheilt zur straff/ sol er wie jm das verkündt also nachkommen.
@@ -23,12 +23,12 @@ bloky:
   de: |-
     Auch soll er in dem Leger alles verstorben viehe/ von Roß/ Küen vnd allem dem hinweg füren/ ausserhalb dem Leger dasselbig vergraben ins Ertrich/ vnd nit in die wasserstram.
   cs: |-
-    Rovněž má v ležení {Leger} odklízet všechen uhynulý dobytek – koně, krávy i vše ostatní –, odvážet jej a mimo ležení zakopávat do země, a nikoli [házet] do vodních toků.
+    Rovněž má z ležení {Leger} odvážet všechen uhynulý dobytek – koně, krávy i cokoli jiného – a zakopávat jej mimo ležení do země, a nikoli [házet] do vodních toků.
 - typ: odstavec
   de: |-
     Vnd wo aber etwan ein Ochs in dem Leger lege/ daß er jn nit wol von dannen füren möcht/ solt er dasselbig wo er leg dieff gnůg in das Ertrich vergraben/ des soll er vnd seine Knecht zeitlich inn dem Leger vmb gehen vnd durchsehn/ wo er etwan durch das Kriegsuolck derhalben besůcht würde/ das etwas gestorben were/ vnd begerten hinweg zufüren/ soll er dasselbig vngeweigert/ fürderlich thůn.
   cs: |-
-    A ležel-li by snad v ležení nějaký vůl, kterého by odtamtud nemohl snadno odvézt, má jej dostatečně hluboko zakopat do země tam, kde leží. K tomu má on i jeho pacholci včas obcházet a prohlížet ležení; a kdyby se na něj válečný lid {Kriegsuolck} v té věci obrátil, že něco pošlo, a žádal o odklizení, má to bez zdráhání neprodleně učinit.
+    A ležel-li by snad v ležení nějaký vůl, kterého by odtamtud nemohl snadno odvézt, má jej dostatečně hluboko zakopat do země tam, kde leží. Proto má on i jeho pacholci včas obcházet a prohlížet ležení. Obrátí-li se na něj válečný lid {Kriegsuolck}, že něco pošlo, a požádá o odvoz, má to bez zdráhání a neprodleně učinit.
 - typ: nadpis
   uroven: 3
   de: Der Reutter Bestallung vnd besoldung.
@@ -37,12 +37,12 @@ bloky:
   de: |-
     ITem der dienst soll jn geweren vnd sie angenommen werden auff vier Monat lang/ wo Key. Maies. jr weiter notturfftig/ sollen sie derselben ein Monat 2. oder 3. nach jrer Key. Mai. gefallen vnd gelegenheit vmb die besoldung inn diser bestallung begriffen/ on ferer ersteigerung auch dienen.
   cs: |-
-    Dále: služba jim má trvat a mají být přijati na dobu čtyř měsíců; bude-li jich císařské Veličenstvo dále potřebovat, mají mu sloužit ještě jeden, dva nebo tři měsíce podle libosti a potřeby Jeho císařského Veličenstva za žold stanovený v tomto služebním listu, bez dalšího zvyšování.
+    Dále: služba jim má trvat a mají být přijati na dobu čtyř měsíců. Bude-li jich císařské Veličenstvo potřebovat i potom, mají mu sloužit ještě jeden, dva nebo tři měsíce podle libosti a potřeby Jeho císařského Veličenstva, a to za žold stanovený v tomto služebním listu bez dalšího zvyšování.
 - typ: odstavec
   de: |-
     Ein jeglichen Monat für dreissig tag gerechnet/ des Monats auff ein gerüst pferdt zwölff gulden/ vnd ob sich begebe das einer kranck oder gefangen würde/ soll jm sein besoldung die oben stimpte zeit nit desto weinger fürgehn/ deßgleichen ob einem ein pferde an den Feinden schadhafftig wurde/ soll man jm zuuerehrung vnd ergetzlicheit dafür 12. gulden geben/ damit er sich fürderlich vnd auff lengst in monats frist widerumb beritten machen mag.
   cs: |-
-    Každý měsíc se počítá po třiceti dnech a na měsíc se dává za zbrojného koně {gerüst pferdt} dvanáct zlatých {gulden}. Přihodí-li se, že by někdo onemocněl nebo byl zajat, má mu žold po výše stanovenou dobu přesto běžet dál. Stejně tak, utrpěl-li by někdo škodu na koni od nepřátel, má se mu za něj na náhradu a odškodnění dát 12 zlatých, aby se mohl neprodleně a nejpozději ve lhůtě jednoho měsíce znovu opatřit koněm.
+    Každý měsíc se počítá po třiceti dnech a na měsíc se dává za zbrojného koně {gerüst pferdt} dvanáct zlatých {gulden}. Kdyby někdo onemocněl nebo byl zajat, má mu žold po výše stanovenou dobu přesto běžet dál. Utrpí-li někomu kůň u nepřátel škodu, má za něj dostat 12 zlatých jako dar a odškodnění, aby se mohl neprodleně, nejpozději do měsíce, znovu opatřit koněm.
 - typ: odstavec
   de: |-
     Es soll allweg auff 12. gerüste Pferde ein Wagen gehalten/ auff denselben des Monats 24. gulden gegeben werden/ welche aber nit wägen hetten/ denselben vff 10. Pferde ein Trosser vnd daruff 12. gulden.
@@ -56,7 +56,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Tisková chyba v předloze: „Scharpffrichrer“ místo „Scharpffrichter“. V předloze je rovněž na konci 2. odstavce v „weinger“ vypuštěno písmeno za „weniger“ (ponecháno podle tisku).
+    Tisková chyba v předloze: „Scharpffrichrer“ místo „Scharpffrichter“. V odstavci „Ein jeglichen Monat…“ je rovněž přesmyčka „weinger“ za „weniger“ (ponecháno podle tisku).
 - n: 2
   text: |-
     „Trosser“ – zde nákladní (trénní) kůň se zátěží (soumar), případně s pacholkem, jako menší náhrada za zavazadlový vůz.

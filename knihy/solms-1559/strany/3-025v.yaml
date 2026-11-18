@@ -7,29 +7,29 @@ overeno_clovekem: false
 bloky:
 - typ: odstavec
   de: |-
-    Doch ist hiebei zumercken / daß diser vnd hernachuolgender Büchsen pock oder Züg / nit so plöckigt / gewaltig oder starck / als zum schweren Geschütz / sonder ein jedes zugeordneten stucks grösse / schwere vnd last / zuheben gemeß gemacht vnd zugericht sollen sein.
+    Doch ist hiebei zumercken / daß diser vnd hernachuolgender Büchsen pöck oder Züg / nit so plöckigt / gewaltig oder starck / als zum schweren Geschütz / sonder ein jedes zugeordneten stücks grösse / schwere vnd last / zuheben gemeß gemacht vnd zugericht sollen sein.
   cs: |-
-    Přitom je však třeba pamatovat na to, že kozy {pock} čili kladkostroje těchto i níže uvedených děl {Büchsen} nemají být tak hrubé, mohutné a těžké jako k těžkému dělostřelectvu {Geschütz}, nýbrž každý má být zhotoven a upraven přiměřeně k velikosti, váze a břemenu přiděleného kusu, jenž se jím má zvedat.
+    Přitom je však třeba pamatovat, že zvedací kozy {pöck} čili kladkostroje těchto i dále uvedených děl {Büchsen} nemají být tak masivní, mohutné a silné jako u těžkého dělostřelectva {Geschütz}. Každé zařízení má být zhotoveno a upraveno tak, aby odpovídalo velikosti, váze a tíze kusu, který jím má být zvedán.
 - typ: odstavec
   de: |-
-    Der stuck jedes soll auch sein eigene Ladschauffel / darzů von kopffer gemachter Plechnerbüchsen drei / haben.
+    Der stück jedes soll auch sein eigene Ladschauffel / darzů von kopffer gemachter Plechnerbüchsen drei / haben.
   cs: |-
-    Každý z kusů má rovněž mít svou vlastní nabíjecí lopatku {Ladschauffel} a k tomu tři plechové nádoby {Plechnerbüchsen} z mědi.
+    Každý kus má mít také vlastní nabíjecí lopatku {Ladschauffel} a k tomu tři plechové nádoby na prach {Plechnerbüchsen} zhotovené z mědi.
 - typ: odstavec
   de: |-
     Also wigen jetztgemelte sechs Feldschlangen an jrem selbst Zeug 240. Centner.
   cs: |-
-    Tak tedy nyní zmíněných šest kulverin {Feldschlangen} váží na svém vlastním kovu 240 centů {Centner}.
+    Těchto šest kulverin {Feldschlangen} tedy váží samy o sobě 240 centů {Centner}.
 - typ: odstavec
   de: |-
     So halten die 600. Kugeln an eysen 72. Centner.
   cs: |-
-    Těch 600 koulí {Kugeln} váží na železe 72 centů.
+    Těch 600 koulí {Kugeln} váží 72 centů železa.
 - typ: odstavec
   de: |-
     Souil Puluers / thůt auch 72. Centner.
   cs: |-
-    Tolikéž střelného prachu {Puluers} činí rovněž 72 centů.
+    Stejně tolik střelného prachu {Puluers} váží také 72 centů.
 - typ: odstavec
   de: |-
     Zu den Büchsen selbst vnd jren kugeln / puluer / zügen vnd anderer obgemelter notturfft bedörffen sie:
@@ -64,39 +64,39 @@ bloky:
     - '18'
 - typ: odstavec
   de: |-
-    DEr Büchsen eine soll an jr selbst 36. Centner schwer sein / vnd jhrer zugeeigenter Kugeln 20. leng haben / auch der kugeln eine am gewicht halten 25. pfundt.
+    DEr Büchsen eine soll an jr selbst 36. Centner schwer sein / vnd jhrer zugeeigenter Kugeln 20. leng haben / auch der kugeln eine an gewicht halten 25. pfundt.
   cs: |-
-    Jedno z těchto děl[^1] má samo o sobě vážit 36 centů, mít délku 20 svých příslušných koulí a každá z těch koulí má na váze držet 25 liber {pfundt}.
+    Každé z těchto děl[^1] má samo vážit 36 centů a mít na délku 20 svých koulí; každá z těchto koulí má vážit 25 liber {pfundt}.
 - typ: odstavec
   de: |-
     Die 8. stück bedörffen 8. Laden oder gefäß / vnd derselben jeden für zuspannen / alweg einem Roß auch 4. Centner zuziehen gerechnet 12. Roß / thůt Zugpferdt 96.
   cs: |-
-    Těchto 8 kusů potřebuje 8 loží {Laden} neboli lafet, a před každou z nich – počítá-li se vždy jednomu koni k tažení také 4 centy – zapřáhnout 12 koní,[^2] což činí 96 tažných koní.
+    Těchto 8 kusů potřebuje 8 loží {Laden} čili lafet. Před každou je třeba zapřáhnout 12 koní (počítá se, že jeden kůň utáhne rovněž 4 centy),[^2] což činí 96 tažných koní.
 - typ: odstavec
   de: |-
     So nun den acht Büchsen auch 800. Kugeln nach gefürt werden / die halten 20. Centner an eysen / darzů bedarff mann alweg einem wagen 25. Centner / oder 100. Kugeln auffzuladen gerechnet / darunder auch einer wie oben gemelt mit beschloßner truhen sein solt / Wägen 8. Zugpferdt 32.
   cs: |-
-    Veze-li se tedy za těmi osmi děly také 800 koulí, jež váží 20 centů na železe,[^3] počítá se vždy na jeden vůz naložit 25 centů čili 100 koulí – mezi nimiž má být rovněž jeden, jak řečeno výše, se zavřenou truhlou –, což je 8 vozů a 32 tažných koní.
+    Veze-li se za osmi děly také 800 koulí, jež váží 20 centů železa,[^3] a počítá-li se na každý vůz náklad 25 centů čili 100 koulí, je třeba 8 vozů a 32 tažných koní. Jeden z těchto vozů má být, jak bylo řečeno výše, opatřen zavřenou truhlou.
 - typ: odstavec
   de: |-
     Souil Puluers / darzů gehören auch Wagen 8. Zugpferdt 32.
   cs: |-
-    Tolikéž prachu, k čemuž náleží rovněž 8 vozů a 32 tažných koní.
+    Na stejné množství prachu je rovněž třeba 8 vozů a 32 tažných koní.
 - typ: odstavec
   de: |-
     Vnd zu jren drei Zügen / so von acht Scheiben einem wendtscheiblin / vnnd doppel eingezogen sein solten / gehören auch Wagen 3. Zugpferdt 12.
   cs: |-
-    A k jejich třem kladkostrojům, které mají být o osmi kotoučích, s jedním otočným kotoučkem a dvojitě navlečené, náležejí rovněž 3 vozy a 12 tažných koní.
+    A na jejich tři kladkostroje, které mají mít osm kotoučů a jeden otočný kotouček a být dvojitě navlečeny, připadají rovněž 3 vozy a 12 tažných koní.
 - typ: odstavec
   de: |-
     Deßgleichen soll auch deren stuck jedes sein eigene Ladschauffel darzů mehrgemelter Plechenbüchsen drei haben.
   cs: |-
-    Stejně tak má každý z těchto kusů mít svou vlastní nabíjecí lopatku a k tomu tři vícekrát zmíněné plechové nádoby {Plechenbüchsen}.
+    Stejně tak má mít každý z těchto kusů vlastní nabíjecí lopatku a k tomu tři již několikrát zmíněné plechové nádoby {Plechenbüchsen}.
 - typ: odstavec
   de: |-
     Also halten die 8 halb Cartaun an jr selbst Zeug 288 Centner.
   cs: |-
-    Tak tedy těchto 8 polovičních kartoun {halb Cartaun} drží na svém vlastním kovu 288 centů.
+    Těchto 8 polovičních kartoun {halb Cartaun} tedy váží samy o sobě 288 centů.
 - typ: odstavec
   de: |-
     So wigen die 800. Kugeln 200 Centner.
@@ -106,12 +106,12 @@ bloky:
   de: |-
     So schwer Puluers zu denselben / thůt auch 200 centner.
   cs: |-
-    Stejně těžké množství prachu k nim činí rovněž 200 centů.
+    Prach k nim váží stejně, totiž rovněž 200 centů.
 - typ: odstavec
   de: |-
     Item zu jnen selbst auch aller anderer vorgemelter jhrer rüstung.
   cs: |-
-    Dále k nim samým i k veškeré ostatní jejich výše uvedené výzbroji:
+    Dále pro děla samotná i pro veškeré jejich ostatní výše uvedené vybavení:
 - typ: tabulka
   de:
   - - Wagen

@@ -13,16 +13,16 @@ bloky:
   de: |-
     Nun lieber Son / dieweil ich dein gemüt vnd vornemen also gůt vnnd ehrlich befinde / so will ich mich noch ein wenig etwas bedencken / vnd dir ein Instruction machen / daß du dich darinn zuersehen habes / war auff du achtung haben solt / wann du dich darnach halten würdest / es sol dir nutz sein vnd gůts bringen.
   cs: |-
-    Nuže, milý synu, poněvadž shledávám tvou mysl a úmysl tak dobrými a čestnými, rozmyslím se ještě trochu a sepíši ti instrukci, abys v ní měl návod, na co máš dávat pozor; budeš-li se podle ní řídit, bude ti to k užitku a přinese ti to dobré.
+    Nuže, milý synu, když shledávám tvou mysl a úmysl tak dobrými a čestnými, ještě si to trochu rozmyslím a sepíši ti instrukci, abys v ní měl návod, na co si máš dávat pozor. Budeš-li se jí řídit, bude ti k užitku a přinese ti dobro.
 - typ: nadpis
   uroven: 3
   de: Son.
   cs: Syn.
 - typ: odstavec
   de: |-
-    Lieber alter Vatter wann jr so wol an mir thůn wolt / das můste ich für ein grosse freundtschafft verstehen vnd höchlich dancksagen / vnd euch vor meinen Vatter halten / dann ich weiß daß jrs versteht vnd wißt / wann ich das haben möchte / würd es mir ein grosse hilff zum anfang sein / vnd will es in grossen ehrn vnd verwartung halten.
+    Lieber alter Vatter wann jr so wol an mir thůn wolt / das můste ich für ein grosse freundtschafft verstehen vnd höchlich dancksagen / vnd euch vor meinen Vatter halten / dann ich weiß daß jrs verstehe vnd wißt / wann ich das haben möchte / würd es mir ein grosse hilff zum anfang sein / vnd will es in grossen ehrn vnd verwartung halten.
   cs: |-
-    Milý starý otče, chcete-li mi učinit takové dobrodiní, musel bych to pokládat za veliké přátelství, převelice vám děkovat a mít vás za svého otce; neboť vím, že tomu rozumíte a vyznáte se v tom. Kdybych to mohl mít, bylo by mi to pro začátek velikou pomocí a budu si toho nesmírně vážit a pečlivě to opatrovat.
+    Milý starý otče, chcete-li mi prokázat takové dobrodiní, musel bych to pokládat za veliké přátelství, převelice vám děkovat a mít vás za svého otce; vím totiž, že tomu rozumíte[^1] a vyznáte se v tom. Kdybych tu instrukci mohl mít, byla by mi pro začátek velikou pomocí; budu si jí velice vážit a pečlivě ji opatrovat.
 - typ: nadpis
   uroven: 3
   de: Alter Vatter.
@@ -40,7 +40,7 @@ bloky:
   de: |-
     Nein / er weiß noch nichts / auch habe ich mit jhm nicht daruon / noch sonst mit jemands geredt / dann allein euch hab ichs zum ersten wöllen anzeigen / vnd ewren rath darinn pflegen / dann solt ich zuuor vil rede daruon machen / vnd mir darnach zu rück ging / dann wers mir ein spott / Darumb hab ich es vnderlassen / vnd zuuor gůts raths darinn pflegen ehe dann ich michs vernemen laß.
   cs: |-
-    Ne, neví ještě nic, ani jsem o tom s ním ani s nikým jiným nemluvil; jenom vám samému jsem to chtěl oznámit nejprve a poradit se s vámi, neboť kdybych o tom předem nadělal mnoho řečí a pak by z toho sešlo, byl bych jen pro posměch. Proto jsem toho zanechal a nejprve se poradil o dobré radě, než o sobě dám vědět.
+    Ne, ještě nic neví; nemluvil jsem o tom s ním ani s nikým jiným. Chtěl jsem to nejprve oznámit jen vám a poradit se s vámi. Kdybych totiž předem nadělal mnoho řečí a pak z toho sešlo, byl bych jen pro posměch. Proto jsem to nechal být a chtěl se nejprve dobře poradit, než s tím vyjdu najevo.
 - typ: nadpis
   uroven: 3
   de: Alter Vatter.
@@ -49,7 +49,7 @@ bloky:
   de: |-
     Du hast recht daran gethan / daß du zuuor die sachen wol bedenckst vnd rath pflegest / so wolt ich auch warten biß ein rechter auffrichtiger Zug wirt / vnd andere ehrliche Leut zögen / vnnd nicht auff einen man odder schlechts zusamen lauffens / die ein vngefehrlich vberziehen / wie der brauch jetzund ist / solliche Krieg seind nicht ehrlich einem vom Adell oder ritterlichem Man / dann sie gehn nicht auffrichtig zů / sonder vngewarnter sachen vnnd vngefehrlich / darumb thů wie ein ritterlicher Man / handel frei vnd auffrichtig.
   cs: |-
-    Dobře jsi učinil, že si věc předem dobře rozmýšlíš a radíš se; také bych vyčkal, až nastane řádné, čestné tažení {Zug} a potáhnou i jiní čestní lidé, a nešel bych na pouhou soukromou výpravu či prostou sběř, která někoho znenadání přepadne, jak je teď zvykem. Takové války nejsou čestné pro šlechtice ani rytířského muže, neboť neprobíhají poctivě, nýbrž bez vyhlášení a zákeřně; proto jednej jako rytířský muž, jednej svobodně a poctivě.
+    Dobře jsi udělal, že si věc předem dobře rozmýšlíš a radíš se. Také já bych vyčkal, až nastane řádné a poctivé tažení {Zug}, na které potáhnou i jiní čestní lidé, a nešel bych na výpravu jednoho muže ani do nahodilého srocení, které někoho znenadání přepadne, jak je dnes zvykem. Takové války nejsou čestné pro šlechtice ani rytířského muže, neboť se v nich nejedná poctivě, nýbrž bez ohlášení a záludně. Proto jednej jako rytířský muž – otevřeně a poctivě.
 - typ: nadpis
   uroven: 3
   de: Son.
@@ -58,7 +58,7 @@ bloky:
   de: |-
     Auch hab ich das im sinn vnd gedenck nicht zu ziehen es geschehe dann auffrichtig / vnd daß ein freier Zug sei / dieweil dann jetzund noch nichts redtlichs noch auffrichtigst ist / so weiß ich noch nichts daruon mit meinem Herren zureden.
   cs: |-
-    Také to mám na mysli a nemíním táhnout, ledaže by se tak dělo poctivě a bylo to veřejné řádné tažení; poněvadž však nyní ještě není nic poctivého a řádného na obzoru, nevím dosud, co bych o tom se svým pánem mluvil.
+    Tak to také mám na mysli a nemíním táhnout, leda by se to dělo poctivě a šlo o otevřené, řádné tažení. A protože teď ještě není na obzoru nic poctivého ani řádného, nevím zatím, o čem bych s pánem mluvil.
 - typ: nadpis
   uroven: 3
   de: Alter Vatter.
@@ -67,4 +67,7 @@ bloky:
   de: |-
     Ja das ist wol recht / aber eines hast du zubedencken / Solt es sich zutragen das sich eine handlung des Kriegs erheben würde / vnnd du wöllest dann so kurtz von deinem Herren auffbrechen / das würde
   cs: |-
-    Ano, to je docela správné, avšak jedno musíš uvážit: kdyby se stalo, že by se strhla válečná akce, a ty bys tehdy chtěl od svého pána tak náhle odejít, to by
+    Ano, to je docela správné, ale jedno musíš uvážit: kdyby se stalo, že by se strhla nějaká válka, a ty bys pak chtěl od svého pána tak narychlo odejít, to by
+poznamky:
+- n: 1
+  text: V tisku *verstehe* za *versteht*.

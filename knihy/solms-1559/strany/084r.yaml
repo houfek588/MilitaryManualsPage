@@ -15,7 +15,7 @@ bloky:
   de: |-
     Ein jeder solcher Hauptman soll bei geraumpter zeit sich mit seinen Räthen/ zeug/ Bawmeistern vnd Kriegsuerstendigen berathen vnd entschliessen wann es die notturfft erfordert/ die Vorstet abbrennen/ die Heuser bei der mauern zum stande vmbreissen/ dann wann ein Hauptman biß zu der belegerung verzeucht/ mag vil nachtheils darauß eruolgen.
   cs: |-
-    Každý takový hejtman {Hauptman} se má v dostatečném předstihu poradit se svými radními, zbrojmistry, staviteli a válečnými znalci a rozhodnout, vyžaduje-li to nutnost, vypálit předměstí a domy u hradeb strhnout pro uvolnění obranného postavení; otálí-li totiž hejtman až do samotného obležení, může z toho vzejít mnoho škody.
+    Každý takový hejtman {Hauptman} se má v dostatečném předstihu poradit se svými radními, zbrojmistry, staviteli a znalci válečnictví {Kriegsuerstendigen} a rozhodnout se, vyžaduje-li to nutnost, vypálit předměstí a strhnout domy u hradeb, aby bylo místo k postavení obránců. Otálí-li totiž hejtman až do samotného obležení, může z toho vzejít mnoho škody.
 - typ: odstavec
   de: |-
     So bald auch ein Schloß/ Stat/ oder Flecken/ belegert vnd beschlossen ist/ soll der Hauptman sampt dem Prouiantmeister vnd andern sich der Prouiant halben auff ein person teglich auß zutheilen entschliessen/ vnd solchs der gestalt ordnen/ das sie ehe ein wenig mangel/ dann vberflüssig essen vnd trincken haben/ alß dann künden sie der rettung oder sonst des abzugs desto lenger auß hüngerung halben erwarten.
@@ -35,12 +35,12 @@ bloky:
   de: |-
     Der Prouoß soll fleissig warnemen/ das gar niemant mit der Prouiant betrüglich vmbgehe/ angesehen/ die grosse gefehrlichkeit wie gehört darauß entspringt/ vnd wo jemant vngerecht darinn erfunden/ soll der Hauptman vber die Stat verschaffen daß dieselben/ sie seien Reutter oder Knecht/ ein jeder vnder seinem Regiment vngestrafft nit bleibe.
   cs: |-
-    Profous {Prouoß} má bedlivě dohlížet na to, aby nikdo s proviantem nepodváděl, vzhledem k tomu, jaké veliké nebezpečí – jak bylo řečeno – z toho vzniká; a kdyby byl někdo v tom shledán nepoctivým, má hejtman nad městem zařídit, aby takoví – ať jsou to jezdci {Reutter} či knechti {Knecht} – nezůstali každý pod svým plukem {Regiment} nepotrestáni.
+    Profous {Prouoß} má bedlivě dohlížet na to, aby nikdo s proviantem nepodváděl, vzhledem k tomu, jaké veliké nebezpečí – jak bylo řečeno – z toho vzniká; a kdyby byl někdo v tom shledán nepoctivým, má hejtman nad městem zařídit, aby takoví – ať jezdci {Reutter}, či knechti {Knecht} – nezůstali nepotrestáni, každý v rámci svého pluku {Regiment}.
 - typ: odstavec
   de: |-
     Der Hauptman soll bei leib vnd leben verbietten niemant mit den feinden hinauß sprach zu halten/ brieffe anzunemen noch hinauß zuschicken/ ausserhalb wissen vnd willen oder beuelch des Obersten oder Hauptmans/ welche aber sollichs vbertretten soll er ernstlich straffen.
   cs: |-
-    Hejtman má pod trestem na hrdle a na životě zakázat komukoli venku s nepřáteli rozmlouvat, přijímat od nich dopisy nebo je ven posílat bez vědomí, vůle či rozkazu plukovníka {Obersten} nebo hejtmana; kdo by to však přestoupil, toho má přísně potrestat.
+    Hejtman má pod trestem na těle a na životě zakázat komukoli venku s nepřáteli rozmlouvat, přijímat od nich dopisy nebo je ven posílat bez vědomí, vůle či rozkazu plukovníka {Obersten} nebo hejtmana; kdo by to však přestoupil, toho má přísně potrestat.
 - typ: odstavec
   de: |-
     Der Oberst Hauptman soll auch einem geschickten man die Hauptmanschafft vber die Bürger vnd Einwoner beuelhen/ wann mann die Bürger anderst zur wehr wider die Feind gebrauchen wil.

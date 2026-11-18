@@ -19,7 +19,7 @@ bloky:
   de: |-
     WIlt du die aller besten Kolen machen die jemandt gehaben mag / So nime weiß Dennen / Albran / odder Linden Holtz / das frisch sei / mach Scheider darauß / vnd dör sie inn einem Bachofen / brenne sie darnach zu eytel Koln / besehe daß die Scheider kein Este haben / nime denn die Koln also frisch / thů sie in ein Becken / vnd lesch ab mit gebrantem Wein / wenn du die Koln ableschen wilt / so stürtz allweg ein Becken vber das ander / daß dich der flam nicht brenne.
   cs: |-
-    Chceš-li udělat to nejlepší dřevěné uhlí, jaké jen kdo může mít, vezmi bílé jedlové, střemchové (*Albran*)[^1] nebo lipové dřevo, které jest čerstvé, nadělej z něj polínka, vysuš je v chlebové peci a pak je spal na čisté uhlí. Dbej, aby polínka neměla žádné suky; vezmi pak uhlí ještě čerstvé [žhavé], dej je do mísy a uhas je páleným vínem. Když chceš uhlí hasit, přiklop vždy jednu mísu druhou, aby tě plamen nepopálil.
+    Chceš-li udělat to nejlepší dřevěné uhlí, jaké jen kdo může mít, vezmi čerstvé dřevo z bílé jedle, z topolu (*Albran*)[^1] nebo z lípy, nadělej z něj polínka, vysuš je v chlebové peci a pak je spal na čisté uhlí. Dbej, aby polínka neměla suky; uhlí pak vezmi ještě čerstvé [žhavé], dej je do mísy a uhas páleným vínem. Když chceš uhlí hasit, přiklop vždy jednu mísu druhou, aby tě plamen nepopálil.
 - typ: nadpis
   uroven: 3
   de: |-
@@ -28,9 +28,9 @@ bloky:
     Jak a čím se má dřevěné uhlí posilovat, aby se ve střelném prachu stářím nezkazilo
 - typ: odstavec
   de: |-
-    DV solt wissen daß Atrimentum die Koln sterckt / daß sie nit erger werden / denn das geschicht offt vnd dick / daß die Koln in einem Büchsenpuluer verderben / so das Puluer verdorben / vnd darbei nit Atriment ist / hett mann Atriment darzů gethan / dañ wer es nicht verdorben / darumb sterck die Koln mit dem Atriment / das ist gůt.
+    DV solt wissen daß Atrimentum die Koln sterckt / daß sie nit erger werden / denn das geschicht offt vnd dick / daß die Koln in einem Büchsenpuluer verderben / so das Puluer verdorben / vnd darbei nit Atriment ist / hett mann Atriment darzů gethan / dann wer es nicht verdorben / darumb sterck die Koln mit dem Atriment / das ist gůt.
   cs: |-
-    Věz, že atrament (*Atrimentum*)[^2] posiluje dřevěné uhlí, takže se nekazí; neboť se stává velmi často, že se v puškovém prachu zkazí uhlí, když se prach zkazil a není v něm atrament. Kdyby se k němu byl přidal atrament, nebyl by se zkazil; proto posiluj uhlí atramentem – to jest dobré.
+    Věz, že atrament (*Atrimentum*)[^2] posiluje dřevěné uhlí, takže se nekazí. Velmi často se totiž stává, že se ve střelném prachu zkazí uhlí, a tím i prach, protože v něm není atrament; kdyby se k němu byl přidal, nebyl by se zkazil. Proto posiluj uhlí atramentem, to je dobré.
 - typ: nadpis
   uroven: 3
   de: Wie mann zu Zündtpuluer die aller besten Kolen machen soll.
@@ -39,7 +39,7 @@ bloky:
   de: |-
     SO nim ein verschliffen Tischlach / das gar wol vnd schön gewaschen sei / on alles stercken / vnnd sauber getrücknet / brenne das zu Puluer in einem erden Hafen / vnd setz den in einen heissen Ofen odder Feur / daß das Tischlach darinn verbrennen mög / verdeck auch den Hafen wol / daß der dunst dauon nicht gehe / die Kolen seind vber alle Kolen.
   cs: |-
-    Vezmi obnošený lněný ubrus (*Tischlach*), který jest velmi dobře a čistě vypraný bez veškerého škrobení a čistě usušený, spal jej na prach v hliněném hrnci a postav jej do horké pece nebo do ohně, aby v něm ubrus mohl zuhelnatět; hrnec také dobře přikryj, aby z něj neunikal výpar – toto uhlí předčí každé jiné uhlí.
+    Vezmi obnošený ubrus (*Tischlach*), velmi dobře a čistě vypraný, bez jakéhokoli škrobu a čistě usušený, a spal jej na prach v hliněném hrnci: hrnec postav do horké pece nebo do ohně, aby v něm ubrus mohl zuhelnatět; hrnec také dobře přikryj, aby z něj neunikal výpar – toto uhlí předčí každé jiné uhlí.
 - typ: nadpis
   uroven: 3
   de: Von Koln machen zum schiessen.
@@ -52,7 +52,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    *Albran* (*Alberbaum*, *Faulbaum*) – krušina olšová či střemcha, případně topol bílý (linda), dřevo tradičně ceněné pro výrobu nejjemnějšího prachového uhlí.
+    *Albran* – obměna slova *Alber* („topol“), srov. *Albram holtz* na l. 56r a *Alberholtz*, *Alberkolen* na l. 56v a 58r; měkké topolové dřevo dávalo jemné prachové uhlí.
 - n: 2
   text: |-
     *Atrimentum* / *Atrament* – vitriol (zelená či modrá skalice, síran železnatý/měďnatý) užívaný též k výrobě inkoustu a jako konzervační přísada do prachového uhlí.

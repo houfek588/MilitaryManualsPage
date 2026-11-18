@@ -7,10 +7,8 @@ overeno_clovekem: false
 bloky:
 - typ: odstavec
   pokracovani: true
-  de: |-
-    wenigen Rossen oder pferden wie es sich begeben wirt.
-  cs: |-
-    málo koňmi či oři, jak se právě přihodí.
+  de: wenigen Rossen oder pferden wie es sich begeben wirt.
+  cs: méně koní {Rossen} či ořů {pferden}, jak se právě přihodí.
 - typ: odstavec
   de: |-
     Zum 5. soll er der Kogeln schwer / ein jede besonder / wieuil der auff ein Zentner gehn / wie vil man der auff ein wagen ledt / vnd wieuil pferdt dafür gespandt werden / beschreiben.
@@ -30,7 +28,7 @@ bloky:
   de: |-
     Zum 8. soll er mit fleiß besehen vnd acht haben waß mann vor züg / Winden vnd hebzeug hat / wie sie gemacht sind mit böcken vnd scheiben / daruon soll er alle maß eigentlich nemen.
   cs: |-
-    Za 8. má s pílí prohlédnout a dávat pozor, jaké jsou k dispozici kladkostroje {züg}, navijáky a zdvihadla,[^1] jak jsou zhotoveny s kozami a kladkami, a z toho všeho má přesně sejmout všechny míry.
+    Za 8. má s pílí prohlédnout a dávat pozor, jaké jsou k dispozici kladkostroje, navijáky a zdvihadla,[^1] jak jsou zhotoveny s kozami a kladkami, a z toho všeho má přesně sejmout všechny míry.
 - typ: odstavec
   de: |-
     Zum 9. soll er mit fleiß besehen / wie die wagen darauff mann die grossen stück fürt / vnd die gefäß gemacht seind.
@@ -40,12 +38,12 @@ bloky:
   de: |-
     Zum 10. soll er besehen was mann von aller rüstung darzů gebraucht / vnd mit fürt.
   cs: |-
-    Za 10. má prohlédnout, co se k tomu potřebuje a veze s sebou ze veškeré výzbroje {rüstung}.
+    Za 10. má prohlédnout, co ze vší výzbroje {rüstung} se k tomu potřebuje a veze s sebou.
 - typ: odstavec
   de: |-
     Zum 11. soll er besehen vnd groß achtung daruff haben / wie mann das geschütz im feld fürt / vnd theilt in den vorzug / gewaltigen hauffen / vnd nachzug / die geschwader zu roß vnd fůß zu schlagen / zu schiessen vnnd stürmen / wie sich das zutragen wirdt / eigentlich mercken vnd beschreiben.
   cs: |-
-    Za 11. má prohlédnout a dávat velký pozor na to, jak se děla {geschütz} vedou v poli a dělí do předvoje {vorzug}, hlavního houfu {gewaltigen hauffen} a zadního voje {nachzug}, mezi švadrony {geschwader} jízdní i pěší k bitvě, střelbě i útoku {stürmen}, jak se přihodí – to vše má přesně zaznamenat a popsat.
+    Za 11. má prohlédnout a dávat velký pozor na to, jak se děla {geschütz} vedou v poli a dělí do předvoje {vorzug}, hlavního houfu {gewaltigen hauffen} a zadního voje {nachzug}, aby se jimi bilo do jízdních i pěších švadron {geschwader}, střílelo a útočilo {stürmen}, jak se to právě naskytne; to vše má přesně zaznamenat a popsat.
 - typ: odstavec
   de: |-
     Zum 12. soll er besehen wieuil der Quastores seind / wie sie eingetheilt / verordnet / was jhr thůn vnnd lassen zu aller zeit sein wirt / im feld / in schantzen / vergrebnuß der leger vnd Wagenburg.
@@ -74,7 +72,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Něm. *züg / Winden vnd hebzeug* – různé druhy zdvihacích zařízení pro manipulaci s těžkými hlavněmi (kladkostroje, hřebenové a šroubové hevery a trojnožky).
+    Něm. *züg / Winden vnd hebzeug* – zdvihací zařízení k manipulaci s těžkými hlavněmi: kladkostroje, vrátky (navijáky) a zdvihadla; *böck* jsou zvedací kozy, *scheiben* kladky.
 - n: 2
   text: |-
     Něm. *wie mann die pflöck mit vortheil anfaht* – vytyčování linií zákopů pomocí kolíků (případně zarážení kůlů pro upevnění náspů a košů).

@@ -68,19 +68,19 @@ bloky:
   de: |-
     Summa 51. schichten zu 5. batz. Summa gelt 13. flo. 10 batz.
   cs: |-
-    Součet 51 směn po 5 batzech, součet peněz 13 zlatých 10 batzů.[^1]
+    Součet 51 směn po 5 bacenech, součet peněz 13 zlatých 10 bacenů.[^1]
 - typ: tabulka
   de:
   - - Blesi Erhart
     - schichten 2
-  - - Caspar Salzburger
+  - - Caspar Saltzburger
     - schichten 3
   - - Hanß Vogelsperger
     - schicht. 2
   cs:
   - - Blesi Erhart
     - 2 směny
-  - - Caspar Salzburger
+  - - Caspar Saltzburger
     - 3 směny
   - - Hanß Vogelsperger
     - 2 směny
@@ -88,7 +88,7 @@ bloky:
   de: |-
     Summa 31 schichten zu 5 batz. Summa gelt 10. flo. 5 batz.
   cs: |-
-    Součet 31 směn po 5 batzech, součet peněz 10 zlatých 5 batzů.
+    Součet 31 směn po 5 bacenech, součet peněz 10 zlatých 5 bacenů.
 - typ: tabulka
   de:
   - - Veit Weiner
@@ -140,7 +140,7 @@ bloky:
   de: |-
     Mehr die Hewer am 28 tag Julij.
   cs: |-
-    Dále rubači {Hawer} dne 28. července:
+    Dále rubači {Hewer} dne 28. července:
 - typ: tabulka
   de:
   - - Gerst von Manßfelt
@@ -153,7 +153,7 @@ bloky:
     - schichten 2
   - - Bernhart Neuheusser
     - schichten 2
-  - - Jörg Aschauer
+  - - Jörg Asthauer
     - schichten 2
   - - Veit Schwartzenpar
     - schicht. 2
@@ -167,7 +167,7 @@ bloky:
     - schicht. 2
   - - Hanß von Schlessing
     - schicht. 2
-  - - Jacob Fur
+  - - Jacob Fux
     - schichten 2
   - - Heinrich Keßler
     - schichten 2
@@ -175,7 +175,7 @@ bloky:
     - schichten 2
   - - Cristen Knap
     - schichten 2
-  - - Hanß Meter
+  - - Hanß Meier
     - schichten 2
   cs:
   - - Gerst von Manßfelt
@@ -188,7 +188,7 @@ bloky:
     - 2 směny
   - - Bernhart Neuheusser
     - 2 směny
-  - - Jörg Aschauer
+  - - Jörg Asthauer
     - 2 směny
   - - Veit Schwartzenpar
     - 2 směny
@@ -202,7 +202,7 @@ bloky:
     - 2 směny
   - - Hanß von Schlessing
     - 2 směny
-  - - Jacob Fur
+  - - Jacob Fux
     - 2 směny
   - - Heinrich Keßler
     - 2 směny
@@ -210,28 +210,28 @@ bloky:
     - 2 směny
   - - Cristen Knap
     - 2 směny
-  - - Hanß Meter
+  - - Hanß Meier
     - 2 směny
 - typ: odstavec
   de: |-
     summa 34. schichten zu 6. batz. summa gelt 13. flo. 9 batz.
   cs: |-
-    Součet 34 směn po 6 batzech, součet peněz 13 zlatých 9 batzů.
+    Součet 34 směn po 6 bacenech, součet peněz 13 zlatých 9 bacenů.
 - typ: odstavec
   de: |-
-    Item hat mein gnediger Herr Graue Reinhart zů Solms/ etc. jnen wider verdingt am 29. tag Julij vmb mittag/ 40. werckschůhe fur ein lehen oder 7. Klafftern vnd gibt jnen von einem lehen des erstenmals 14. flo.
+    Item hat mein gnediger Herr Graue Reinhart zů Solms/ etc. jnen wider verdingt am 29. tag Julij vmb mittag/ 40. werckschůhe für ein lehen oder 7. Klafftern vnd gibt jnen von einem lehen des erstenmals 14. flo.
     Item für das ander lehen gibt jnen sein Gnad 15 flo.
     Item den Knechten von einem lehen zu seubern 8 flo. thůt zwei lehen 16 flo.
     Thůt in summa auff beide Gruben vnd von 4 lehen den Knechten zu seubern 90 flo.
   cs: |-
-    Dále s nimi můj milostivý pán hrabě Reinhard ze Solmsu atd. znovu sjednal úkolovou mzdu {Geding} dne 29. července v poledne, 40 dílenských střevíců {werckschůhe} za jedno léno {Lehen} čili 7 sáhů {Klafftern}, a dává jim za první léno napoprvé 14 zlatých.
+    Dále s nimi můj milostivý pán hrabě Reinhard ze Solmsu atd. 29. července v poledne znovu uzavřel úkolové dílo {verdingt}: 40 dílenských střevíců {werckschůhe} za jedno léno {lehen} čili 7 sáhů {Klafftern}; za první léno jim dává napoprvé 14 zlatých.
     Dále za druhé léno jim Jeho Milost dává 15 zlatých.
-    Dále čeledínům za vyčištění jednoho léna 8 zlatých, to činí za dvě léna 16 zlatých.
-    To činí úhrnem na obě jámy a za vyčištění 4 lén čeledínům 90 zlatých.[^2]
+    Dále čeledínům {Knechten} za vyčištění jednoho léna 8 zlatých, to činí za dvě léna 16 zlatých.
+    Činí to úhrnem na obě jámy, včetně vyčištění 4 lén čeledíny, 90 zlatých.[^2]
 poznamky:
 - n: 1
   text: |-
-    Drobné početní nesrovnalosti sazby: peněžní součet `13 fl. 10 batzů` (= 205 batzů) odpovídá **41** směnám po 5 batzech (nikoli tištěnému počtu 51 směn = 17 fl.), zatímco sečtením 14 jmen vlevo (34 směn) a 3 jmen nahoře vpravo (7 směn) vychází právě 41 směn, a předchozí položky dole na `5-010r` dávají dalších 20 směn. Tisk u jména *Veit Weiner* vynechává součet řady jedenácti jmen (27 směn); pod jménem *Hanß Meter* vychází součet 17 × 2 = 34 směn přesně (u posledního čísla je rozmazaná číslice 2).
+    Tištěné součty směn se se jmény úplně nekryjí (ověřeno ve skenu 456, tisk má zřetelně „Summa 51.“): osm jmen dole na `5-010r` dává 20 směn, čtrnáct jmen levého sloupce zde 34 směn (dohromady 54); peněžní částka 13 fl. 10 b. (= 205 bacenů) přitom odpovídá 41 směnám po 5 bacenech, tj. právě 34 směnám levého sloupce a 7 směnám tří jmen vpravo nahoře. Následující „Summa 31“ (= 10 fl. 5 b.) je početně správně, jedenáct jmen pod ní (*Veit Weiner* až *Paul Fermer*) však dává 27 směn a vlastní součet nemají. Rubači z 28. července (17 × 2 = 34 směn po 6 bacenech = 13 fl. 9 b.) souhlasí přesně. Proti dřívějšímu čtení opraveno podle skenu: *Jörg Asthauer* (tisková chyba za *Aschawer*, srv. `5-009v`), *Jacob Fux* (= *Fuchs*), *Hanß Meier*, *Caspar Saltzburger*.
 - n: 2
   text: |-
-    Součet souhlasí přesně na obě šachty: za dvě štoly celkem 2 × (14 + 15) = 58 fl. rubačům a za 4 léna čištění 4 × 8 = 32 fl. čeledínům, tj. 58 + 32 = 90 zlatých.
+    Součet souhlasí: za dvě jámy 2 × (14 + 15) = 58 fl. rubačům a za čištění 4 lén 4 × 8 = 32 fl. čeledínům, tj. 58 + 32 = 90 zlatých.

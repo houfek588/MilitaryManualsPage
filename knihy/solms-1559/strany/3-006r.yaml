@@ -9,7 +9,7 @@ bloky:
   de: |-
     Zum dreivndzwentzigsten/ sol ein Zeugmeister die Büchsenmeister so er die annimpt/ wol befragen/ examiniern/ vnnd hören was ein jeder kan/ warzu er geschickt vnnd zugebrauchen sei/ darnach er dann vil weiß vnd kan ist er zubesolden vnd jm zu befelhen/ dann so ein Zeugmeister gůt Büchsenmeister hat/ auch mit werckleut sindt/ darnach kan er jnen im Zeughauß befelhen zuuersehen vnd arbeit geben/ dann mann soll sie nit müssig gehn lassen/ sonder stets jhn etwas zurichten vnd zu arbeitten geben/ so bleiben sie in der vbung/ lernet vnd sicht ein Zeugmeister eines jeden thůn vnnd fleiß/ so kan er bei sich einen jeden wie er den in seim thůn findt/ orden/ war zu er vermeint das er auß richten kan/ vnd zu gebrauchen sei.
   cs: |-
-    Za třiadvacáté má zbrojmistr {Zeugmeister} puškaře {Büchsenmeister}, když je přijímá, dobře vyptat, přezkoušet a vyslechnout, co každý umí a k čemu je obratný a způsobilý; podle toho, jak mnoho zná a umí, má být placen a má se mu svěřit velení. Má-li totiž zbrojmistr dobré puškaře, kteří jsou zároveň řemeslníky[^1], může jim podle toho přikázat, co mají obstarávat ve zbrojnici {Zeughauß}, a dávat jim práci; neboť se nemají nechávat zahálet, nýbrž se jim má vždy dávat něco k přípravě a k práci – tak zůstanou ve cviku a zbrojmistr pozná a vidí jednání a píli každého z nich, takže si může každého podle toho, jak ho v jeho práci shledá, zařadit tam, kde soudí, že něco dokáže a bude k užitku.
+    Za třiadvacáté má zbrojmistr {Zeugmeister} puškaře {Büchsenmeister}, když je přijímá, dobře vyptat, přezkoušet a vyslechnout, co každý umí a k čemu je obratný a způsobilý; podle toho, kolik zná a umí, má být placen a mají se mu svěřovat úkoly. Má-li totiž zbrojmistr dobré puškaře, kteří jsou zároveň řemeslníky[^1], může jim podle toho přikázat, co mají obstarávat ve zbrojnici {Zeughauß}, a dávat jim práci; neboť se nemají nechávat zahálet, nýbrž se jim má vždy dávat něco k přípravě a k práci – tak zůstanou ve cviku a zbrojmistr pozná a vidí jednání a píli každého z nich, takže si může každého podle toho, jak ho v jeho práci shledá, zařadit tam, kde soudí, že něco dokáže a bude k užitku.
 - typ: odstavec
   de: |-
     Zum viervndzwentzigsten/ soll ein Zeugmeister wissen so es die not erfordern wirt/ daß er das Geschütz nicht möcht hin weck brengen sonder den feinden lassen muß/ wie er das in der eil zersprengen möcht damit es jhnen auch nit zu nutz komme.
@@ -27,9 +27,9 @@ bloky:
     Za šestadvacáté má své šancíře {schantzer} udržovat v dobré kázni a pořádku a vždy na 500 osob [ustanovit] jednoho hejtmana {Hauptman}; a těch 500 osob má rozdělit na 5 dílů, což činí 20 osob na jednoho rotmistra {Rotmeister}[^2]. Těchto rotmistrů jména mají být zapsána do rejstříku i všech 20 osob každého rotmistra jménem; kolik pak má kvastitorů {quastitores} nad šancíři[^3], tolik ať zřídí hejtmanů a kvartýrů {quartier} podle tohoto řádu a k tomu šancmistra {Schantzmeister}, jenž mu má pilně hlásit, kolik jich bude každého dne postřeleno a ubude, nebo kdo je od nepřátel raněn a není mrtev – těm má zbrojmistr zařídit, aby byli opatřeni ranhojiči {wundt artzten} a vším, čeho mají zapotřebí.
 - typ: odstavec
   de: |-
-    Zum sibenvndzwentzigsten sol ein Zeugmeister sehn das alles sein volck auch mit zimlicher Prouiant erhalten werden/ damit sie bleiben mögen/ dann sie müssen die böste vnd sorgfeltigste arbeit thůn/ vnnd dem gantzen Kriegsuolck vor arbeiten/ wie daß vor augen ist.
+    Zum sibenvndzwentzigsten sol ein Zeugmeisten[^4] sehn das alles sein volck auch mit zimlicher Prouiant erhalten werden/ damit sie bleiben mögen/ dann sie müssen die böste vnd sorgfeltigste arbeit thůn/ vnnd dem gantzen Kriegsuolck vor arbeiten/ wie daß vor augen ist.
   cs: |-
-    Za sedmadvacáté má zbrojmistr dohlédnout, aby všechen jeho lid byl také zaopatřen slušným proviantem {Prouiant}, aby mohl vydržet; neboť musejí konat nejhorší a nejnebezpečnější práci a pracovat před celým válečným lidem {Kriegsuolck}, jak je zjevné před očima.
+    Za sedmadvacáté má zbrojmistr[^4] dohlédnout, aby všechen jeho lid byl také zaopatřen slušným proviantem {Prouiant}, aby mohl vydržet; neboť musejí konat nejhorší a nejnebezpečnější práci a pracovat před celým válečným lidem {Kriegsuolck}, jak je zjevné před očima.
 - typ: odstavec
   de: |-
     Diß sind nun etwan etliche stück/ die ein Zeugmeister können/ wissen vnd verstehn sol/ der noch vil mehr die nit also zu beschreiben sind/ der halben so sol ein Herr zum ersten bedencken was jm an dem geschütz vnd seiner Arcolorei gelegen ist/ wann es die notturfft erfordert er nach einem Zeugmeister dracht/ damit seine sachen/ ehr/ landt vnnd leut versehen seien in den Schlössern/ Stätten vnd im Feld/ darumb soll
@@ -41,7 +41,10 @@ poznamky:
     V tisku *auch mit werckleut sindt* („kteří jsou zároveň řemeslníky“; příp. sazečský překlep za *nit* ve významu „i kdyby nebyli řemeslníky“).
 - n: 2
   text: |-
-    Tisk uvádí *in 5. theil* (pravděpodobně vypadlá číslice za *25. theil*, neboť 500 osob po 20 na rotmistra dává 25 dílů).
+    Tisk (ověřeno ve skenu) má *in 5. theil … das wern 20. person einen Rotmeister*; 500 osob po 20 na rotmistra dává 25 dílů. Buď vypadla číslice (*25. theil*), nebo jde o 5 oddílů po 100 mužích dále dělených po 20; totéž znění opakuje `3-011r`.
 - n: 3
   text: |-
     *Quastitores* (z it. *guastatori*) označuje u Solmse obvykle samotné šancíře (srov. `3-010v`, `3-011r`); zde ve spojení *quastitores vber schantzer* jde zřejmě buď o oddíly šancířů, nebo o jejich dozorce.
+- n: 4
+  text: |-
+    Tisk má tvar *Zeugmeisten* (tisková chyba za *Zeugmeister*).

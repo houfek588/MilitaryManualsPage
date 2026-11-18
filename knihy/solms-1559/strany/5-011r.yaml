@@ -14,32 +14,32 @@ bloky:
   - - Item auff den 6. Augusti Kertzen kaufft in die Gruben für
     - 3. sonnen kronen.
   cs:
-  - - Dále nejvyššímu nad horníky
+  - - Dále plukovníkovi {Obersten} nad horníky {Knappen}
     - 12 zlatých
-  - - Dále jsem vyplatil 12 směn, jež se začaly na štole nejzazšího místa v zákopu, po 6 batzech za směnu, což činí za 12 směn
-    - 4 zlaté 12 batzů
-  - - Dále dne 6. srpna koupeny do jam svíce za
-    - '3 sluneční koruny {Sonnenkronen}'
+  - - Dále jsem vyplatil 12 směn, které se začaly na štole úplně vzadu v šanci {schantz}, po 6 bacenech {batz} za směnu; činí za 12 směn
+    - 4 zlaté 12 bacenů
+  - - Dále 6. srpna koupeny svíčky {Kertzen} do jam {Gruben} za
+    - 3 sluneční koruny {sonnen kronen}
 - typ: odstavec
   de: |-
     Summa 111. flo. 6 batz.
   cs: |-
-    Součet 111 zlatých 6 batzů.[^1]
+    Součet 111 zlatých 6 bacenů.[^1]
 - typ: odstavec
   de: |-
     Das ander Geding thůt an gelt/ Summa 149. flo.
   cs: |-
-    Druhé dílo {Geding} činí na penězích úhrnem 149 zlatých.
+    Druhé úkolové dílo {Geding} činí na penězích úhrnem 149 zlatých.
 - typ: odstavec
   de: |-
     Summa summarum 300. flo. weniger 5. batzen sein von Francisco Diguardi empfangen laut seines Registers/ von Keiserlicher Maiestat selbst.
   cs: |-
-    Celkový součet {Summa summarum} 300 zlatých méně 5 batzů jest přijat od Francisca Diguardiho podle jeho rejstříku od samého Císařského Veličenstva.[^2]
+    Celkový úhrn 300 zlatých bez 5 bacenů byl přijat od Francisca Diguardiho podle jeho rejstříku {Registers}, a to od samého Jeho Císařského Veličenstva.[^2]
 - typ: odstavec
   de: |-
     Außgab der gantzen vnnd volen Bezalung da mann auff gehört hat zugraben/ hab ich sie bezalt wie hernach steht/ hat mein Gnediger Herr Graue Reinhart von Solms/ etc. das gelt dar geliehen.
   cs: |-
-    Vydání celé a plné výplaty, když se přestalo kopat; vyplatil jsem je, jak níže stojí, a peníze na to půjčil můj milostivý pán hrabě Reinhard ze Solmsu atd.:
+    Vydání na celou a plnou výplatu, když se přestalo kopat. Vyplatil jsem je, jak níže stojí; peníze na to zapůjčil můj milostivý pán hrabě Reinhard ze Solmsu atd.:
 - typ: tabulka
   de:
   - - Item hab ich den acht Hůtleuten gegeben jedem ein Monat Solt thůt an gelt
@@ -61,23 +61,23 @@ bloky:
   - - Item 5. Zimermeister die den Kendel zum anzünden gemacht
     - 2. flo.
   cs:
-  - - 'Dále jsem osmi dozorcům vyplatil po jednom měsíčním žoldu {Solt}, činí na penězích'
+  - - Dále jsem dal osmi důlním dozorcům {Hůtleuten} každému po měsíčním žoldu {Solt}; činí na penězích
     - 32 zlatých
-  - - Dále tesařům zaplaceny dvě směny, činí
-    - 12 batzů
-  - - Dále třetí a čtvrté dílo – jedna jáma dvě léna a jeden sáh, druhá jáma půldruhého léna – činí rubačům na penězích
+  - - Dále tesařům {Zimerleuten} zaplaceny dvě směny, činí
+    - 12 bacenů
+  - - Dále třetí a čtvrté úkolové dílo – v jedné jámě dvě léna {lehen} a jeden sáh {Klafftern}, ve druhé jámě půldruhého léna – činí rubačům {hawern} na penězích
     - 52½ zlatého
-  - - Dále čeledínům, kteří čistili u obou jam
+  - - Dále čeledínům {Knechten}, kteří u obou jam čistili
     - 38½ zlatého
-  - - 'Dále jsem měl čtyři měchaře {Focher}, kteří konali dnem i nocí 13 směn po 6 batzech za směnu, činí 13 směn'
-    - 5 zlatých 3 batzy
-  - - Dále kováři dáno za okování jednoho měchu
-    - 6 batzů
-  - - Dále osmi dozorcům dáno na úplnou výplatu jejich tříměsíčního žoldu, který jim byl slíben
+  - - Dále jsem měl čtyři [muže u] větrných měchů {Focher}, kteří ve dne i v noci odpracovali 13 směn, po 6 bacenech za směnu; činí 13 směn
+    - 5 zlatých 3 baceny
+  - - Dále dáno kováři {Schmit} za okování jednoho měchu
+    - 6 bacenů
+  - - Dále dáno osmi důlním dozorcům na úplnou výplatu jejich tříměsíčního žoldu, jak byl každému slíben
     - 32 zlatých
-  - - Dále za 12 plechových svícnů dáno
-    - 1 zlatý 9 batzů
-  - - Dále 5 tesařským mistrům, kteří udělali žlab k zapalování
+  - - Dále dáno za 12 plechových svícnů
+    - 1 zlatý 9 bacenů
+  - - Dále 5 tesařským mistrům {Zimermeister}, kteří udělali žlab {Kendel} k zapalování
     - 2 zlaté
 - typ: odstavec
   de: |-
@@ -89,12 +89,12 @@ bloky:
     Item den Hawern ist verdingt ein Lehen außzuhawen 14. flo. ist ein lehen lang 40 schůhe.
     Item den Hawern ist verdingt das Erdtrich von solchem Lehen auß der Gruben zufürn das die hawer nicht geseumpt werden vor 7. flo.
   cs: |-
-    Dále rubačům {Hawer} jest zadáno vylámat jedno léno {Lehen} za 14 zlatých; jedno léno je dlouhé 40 střevíců {schůhe}.
-    Dále rubačům jest zadáno vyvážet zeminu z takového léna ven z jámy, aby se rubači nezdržovali, za 7 zlatých.
+    Dále je rubačům zadáno úkolem vylámat jedno léno za 14 zlatých; jedno léno je dlouhé 40 stop {schůhe}.
+    Dále je rubačům zadáno úkolem vyvážet zeminu z takového léna ven z jámy, aby se rubači nezdržovali, za 7 zlatých.
 poznamky:
 - n: 1
   text: |-
-    Součet `90 fl.` (z předchozí strany) + `12 fl.` + `4 fl. 12 b.` + 3 sluneční koruny (`= 4 fl. 9 b.` při kurzu 1 sluneční koruna = 23 batzů) činí přesně `111 fl. 6 batzů`.
+    Součet `90 fl.` (z předchozí strany) + `12 fl.` + `4 fl. 12 b.` + 3 sluneční koruny dává tištěných `111 fl. 6 b.`, jestliže 3 koruny = `4 fl. 9 b.`, tj. 1 sluneční koruna = 23 bacenů (kurz Solms neuvádí, vyplývá jen ze součtu).
 - n: 2
   text: |-
-    První dílo (`150 fl. 10 b.`) + druhé dílo (`13 fl. 10 b. + 10 fl. 5 b. + 13 fl. 9 b. + 111 fl. 6 b. = 149 fl.`) činí přesně `299 fl. 10 batzů`, tedy skutečně do posledního batzu *300 zlatých méně 5 batzů*. Rovněž konečné vyúčtování níže (`32 fl. + 12 b. + 52½ fl. + 38½ fl. + 5 fl. 3 b. + 6 b. + 32 fl. + 1 fl. 9 b. + 2 fl.`) vychází při 15 batzech za zlatý na přesných `165 zlatých`.
+    První dílo (`150 fl. 10 b.`) + druhé dílo (`13 fl. 10 b. + 10 fl. 5 b. + 13 fl. 9 b. + 111 fl. 6 b. = 149 fl.`) činí přesně `299 fl. 10 bacenů`, tedy skutečně do posledního bacenu *300 zlatých méně 5 bacenů*. Rovněž konečné vyúčtování níže (`32 fl. + 12 b. + 52½ fl. + 38½ fl. + 5 fl. 3 b. + 6 b. + 32 fl. + 1 fl. 9 b. + 2 fl.`) vychází při 15 bacenech za zlatý na přesných `165 zlatých`.

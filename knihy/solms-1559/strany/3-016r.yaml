@@ -35,7 +35,7 @@ bloky:
   de: |-
     Zum fünfften ob er wiß ein Scharpffmetz / Cartaun / halb Cartaun Notschlang / halb Mörser zu reissen / in jr recht teilung / weite vnd maß.
   cs: |-
-    Za páté, zda umí narýsovat šarfmerci {Scharpffmetz}, kartounu {Cartaun}, poloviční kartounu, těžkou kulverinu {Notschlang} a poloviční moždíř {halb Mörser} v jejich správném rozdělení, šířce i míře.
+    Za páté, zda umí narýsovat šarfmeci {Scharpffmetz}, kartounu {Cartaun}, poloviční kartounu {halb Cartaun}, těžkou kulverinu {Notschlang} a poloviční moždíř {halb Mörser} v jejich správných poměrech {teilung}, světlosti a mírách.
 - typ: odstavec
   de: |-
     Zum sechsten ob er wiß wann ein Büchs gossen ist / sie sei groß oder klein zu fassen oder fassen lassen.
@@ -65,7 +65,7 @@ bloky:
   de: |-
     Zum eilfften / ob er kündt die plechwagen machen lassen / darauff mann die grossen stück fürt auß den gefessen.
   cs: |-
-    Za jedenácté, zda by dovedl nechat zhotovit okované plošinové vozy,[^3] na nichž se velké kusy vezou sňaté z lafet {gefessen}.
+    Za jedenácté, zda by dovedl nechat zhotovit kládové vozy {plechwagen},[^3] na nichž se velké kusy vezou sňaté z lafet {gefessen}.
 - typ: odstavec
   de: |-
     Zum zwölfften / ob er auch wiß die zigböck mit andern wenden vnd hohen zügen zu zurichten lassen / zu den grossen vnd kleinen stücken.
@@ -105,7 +105,7 @@ bloky:
   de: |-
     20. Ob er wiß / wann er ein stück im feld den feinden lassen muß / es wer groß oder klein / in eil zusprengen.
   cs: |-
-    20. Zda umí, musí-li v poli ponechat nějaký kus nepřátelům – ať velký či malý –, jej ve spěchu roztrhnout.
+    20. Zda umí kus, ať velký či malý, který musí v poli zanechat nepřátelům, ve spěchu roztrhnout [prachem].
 poznamky:
 - n: 1
   text: |-
@@ -115,7 +115,7 @@ poznamky:
     Něm. *die grossen gantzen scheiben* – masivní plná dřevěná kotoučová kola bez loukotí (disková kola), užívaná pro nejtěžší obléhací děla.
 - n: 3
   text: |-
-    Něm. *plechwagen* (*Blockwagen / Blechwagen*) – těžké železem pobité plošinové vozy k přepravě hlavní těžkých děl mimo lafety.
+    Tisková podoba *plechwagen* = *Blochwagen*, kládový vůz: těžký nízký vůz k přepravě hlavní těžkých děl sňatých z lafet.
 - n: 4
   text: |-
     Něm. *zigböck mit andern wenden vnd hohen zügen* – zvedací kozy (trojnožky) se vrátky/navijáky (*winden/wenden*) a vysokými kladkostroji ke zvedání hlavní.

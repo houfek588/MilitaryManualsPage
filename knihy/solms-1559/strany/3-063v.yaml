@@ -8,12 +8,12 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Ein vnterweissung welcher Salpeter ambesten oder krefftigsten ist.
-  cs: Poučení, který ledek {Salpeter} jest nejlepší či nejsilnější
+  cs: Poučení, který ledek {Salpeter} je nejlepší či nejsilnější
 - typ: odstavec
   de: |-
     DV solt wissen daß der Salpeter nicht so groß Krafft hat / als der wechst an Heussern / Mauern / Kellern oder inn feuchtigkeit / denn sie vnderweilen trucken / vnnd wider naß werden / vnnd wo du heimschen Salpeter wol vnd recht leuterst / so muß er alweg naß werden / vnd thůt ein pfundt so vil mit seiner Krafft als des Salpeters 3. pfundt gethůn möchten.
   cs: |-
-    Věz, že [jiný] ledek nemá tak velikou sílu jako ten, jenž roste na domech, zdech, ve sklepích nebo ve vlhkosti, neboť ty občas vysychají a zase vlhnou; a když domácí ledek dobře a řádně vyčistíš, tak vždy přitahuje vlhkost,[^1] a přece jedna libra {pfundt} vykoná svou silou tolik, co by jinak dokázaly 3 libry ledku.
+    Věz, že [jiný] ledek nemá takovou sílu jako ten, který roste na domech, zdech, ve sklepích nebo ve vlhku, neboť ta místa občas vyschnou a zase zvlhnou. Když domácí ledek dobře a řádně vyčistíš, musí sice vždy navlhnout,[^1] ale jedna libra {pfundt} vykoná svou silou tolik, co by jinak dokázaly 3 libry ledku.
 - typ: nadpis
   uroven: 3
   de: Wiemann einn guten Salpeter machen soll.
@@ -22,7 +22,7 @@ bloky:
   de: |-
     SO nim Salpeter vnd leuter jn das Saluiter darauß werde / vnd wenn du den Salpeter drei stundt geleuter hast / so thů jn in ein Kessel / vnd schüt gebranten Wein darzů / also daß der Wein dreier finger hoch vber den salpeter auffgehe / vnd thů zu eim pfundt Salpeter / drei pfundt Salarmoniac / zwei lot Campfer / vnd seud das / wenn das den vierdtentheil ein geseudt / so thu es ein klein weil harab von dem Feur / schüt denn den Wein ab in einen newen erden Hafen so ist ein Salpeter worden / henck denn denselben Salpeter an ein seil in einen kalten Keller / vnd laß jn drei wochen darin hangen / so wirt er graw vnd lang knutzig / wechst das beste da durch / vnd wenn du jn darein henckst / so gehe an dem neunden tag darzů / wesch den Hafen sen mit eim hassenfuß in ein schön Becken / vnd behalt das wol / dann das ist das beste vnd das sterckst stuck das jemant gehaben mag / vnd thůt man sein 1. lot vnter 30. pfundt zeugs / so ist sein gar gnug / doch je mehr man darein thůt je besser es wirt / vnd ist so gůt das mann ein pfundt gibt vmb 30. Gulden.
   cs: |-
-    Vezmi tedy ledek a vyčisti jej, aby se z něj stal čistý sanýtr (*Saluiter*); a když jsi ledek třikrát[^2] vyčistil, dej jej do kotle a přilej k němu pálené víno tak, aby víno sahalo na tři prsty vysoko nad ledek, a k jedné libře ledku přidej tři libry salmiaku (*Salarmoniac*) a dva loty {lot} kafru a vař to. Až se vyvaří čtvrtina, sejmi to na malou chvíli z ohně a slij víno do nového hliněného hrnce – tak se utvořil [čistý] ledek. Pak ten ledek zavěs na provaze[^3] do studeného sklepa a nech jej tam tři týdny viset; tak zešediví a vytvoří dlouhé uzlovité krystaly (*lang knutzig*),[^4] čímž z něj vyroste to nejlepší. A když jej tam zavěsíš, jdi k němu devátého dne, ometej[^5] hrnec zaječí packou (*hassenfuß*) do čisté mísy a dobře to uschovej, neboť to jest nejlepší a nejsilnější přísada, jakou jen kdo může mít; a přidá-li se jí 1 lot do 30 liber látky, bohatě to stačí, avšak čím více se jí přidá, tím bude lepší, a jest tak dobrá, že se jedna libra prodává za 30 zlatých {Gulden}.
+    Vezmi tedy ledek a vyčisti jej, aby se z něj stal sanýtr (*Saluiter*). Když jsi ledek třikrát[^2] vyčistil, dej jej do kotle a přilej pálené víno tak, aby sahalo tři prsty nad ledek; na jednu libru ledku přidej tři libry salmiaku (*Salarmoniac*) a dva loty {lot} kafru a vař to. Až se vyvaří čtvrtina, sejmi to na chvilku z ohně a víno slij do nového hliněného hrnce – tak z toho vznikl ledek. Ten pak zavěs na provaze do studeného sklepa a nech jej tam tři týdny viset; zešediví a vytvoří dlouhé uzlovité krystaly (*lang knutzig*),[^3] tím z něj proroste to nejlepší. Když jej tam pověsíš, jdi k němu devátého dne, smeť zaječí packou (*hassenfuß*) [výkvět z] hrnce [zvenčí][^4] do čisté mísy a dobře to uschovej, neboť to je nejlepší a nejsilnější přísada, jakou kdo může mít. Přidá-li se jí 1 lot do 30 liber hmoty, bohatě to stačí, ale čím víc se jí přidá, tím lépe; a je tak dobrá, že se libra prodává za 30 zlatých {Gulden}.
 - typ: nadpis
   uroven: 3
   de: Wie mann salpeter hert machen soll.
@@ -31,7 +31,7 @@ bloky:
   de: |-
     NIm Salpeter seudt den in eins Goltschmidts Digel oder newen Hafen der in dem Feur besteht / als lang du empfindest das er von jhm selber gestehen wöl / so werff als groß wie ein hanffkorn schwefels darein / so laufft es vmb vnd bleibt es darin ligen / so hat es gnug zu 4. loten zusetz / Merck es eben / wenn er also bereit vnnd gemacht ist so lest er sich giessen wie mann wil / vnd ist den gepurgiert / heist in Alchimei Salutter preparatum / vnd thůt 1. pfundt mehr / warzu mann jn nützet / dann sonst wolgeleuterts 2. pfundt.
   cs: |-
-    Vezmi ledek a vař jej ve zlatnickém kelímku nebo v novém hrnci, který v ohni obstojí, tak dlouho, až pocítíš, že chce sám od sebe ztuhnout; pak do něj vhoď kousek síry {schwefels} velký jako konopné semínko – tak se rozlije a zůstane tam ležet, což stačí jako přísada ke 4 lotům. Dobře si to pamatuj: když jest takto připraven a hotov, dá se odlévat,[^6] jak člověk chce, a jest tedy očištěn; v alchymii se nazývá připravený ledek (*Salutter preparatum*), a 1 libra vykoná více, k čemukoli se užije, než jinak 2 libry dobře přečištěného.
+    Vezmi ledek a vař jej ve zlatnickém kelímku nebo v novém hrnci, který v ohni obstojí, tak dlouho, až pocítíš, že chce sám od sebe ztuhnout; pak do něj vhoď kousek síry {schwefels} velký jako konopné semínko. Rozběhne-li se a zůstane tam ležet, stačí to jako přísada ke 4 lotům. Dobře si to pamatuj: když je ledek takto připraven a hotov, dá se odlévat, jak kdo chce, a je tedy očištěn; v alchymii se nazývá připravený ledek (*Salutter preparatum*)[^5] a 1 libra vykoná, k čemukoli se užije, víc než jinak 2 libry dobře přečištěného.
 - typ: nadpis
   uroven: 3
   de: Wiltu salpeter ziehen.
@@ -45,13 +45,10 @@ poznamky:
     *drei stundt* – zde ve smyslu „třikrát“ (dobové *drei stund* = *dreimal*, nikoli „tři hodiny“).
 - n: 3
   text: |-
-    BSB OCR zde chybně četlo *seid* místo *seil* („provaz“), dále *knugig* místo *knutzig* a *that most* místo *thůt man*.
+    *lang knutzig* – s dlouhými sukovitými (uzlovitými) krystaly či výkvětem.
 - n: 4
   text: |-
-    *lang knutzig* – s dlouhými sukovitými (uzlovitými) krystaly či výkvětem.
+    V tisku *wesch den Hafen sen mit eim hassenfuß* (*Hafen* na konci řádku, *sen* na začátku dalšího) – *sen* je patrně zbytek slova *aussen* („zvenčí“), srov. obdobný recept na l. 64r: *wesch den Hafen außwendig mit eim hasen fuß*. Zaječí packa sloužila jako jemný smetáček ke stírání výkvětu.
 - n: 5
   text: |-
-    V tisku stojí *wesch den Hafen sen mit eim hassenfuß* – zřejmě sazečské zdvojení koncovky slova *Ha-fen* (*Hafen sen* místo prostého *Hafen*, nebo zkomolenina za *fein* „jemně“); zaječí packa (*Hasenfuß*) sloužila jako jemný smetáček ke stírání vykrystalovaného výkvětu.
-- n: 6
-  text: |-
-    BSB OCR zde četlo *greffen* místo *giessen* („odlévat“); *Salutter preparatum* = tavený (přečištěný) ledek (*sal prunellae*).
+    *Salutter preparatum* – „připravený“, tj. přetavený a přečištěný ledek.

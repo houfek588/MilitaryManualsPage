@@ -8,25 +8,25 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Wilt du ein Feurpfeil machen der in wasser brennt.
-  cs: Chceš-li zhotovit ohnivý šíp {Feurpfeil}, jenž hoří ve vodě
+  cs: Chceš-li zhotovit zápalný šíp {Feurpfeil}, jenž hoří ve vodě.
 - typ: odstavec
   de: |-
     So thů Ganffer in das Puluer.
   cs: |-
-    Pak přidej do prachu {Puluer} kafr (*Ganffer*).
+    Přidej tedy do prachu {Puluer} kafr (*Ganffer*).
 - typ: nadpis
   uroven: 3
   de: Feurpfeil zu machen.
-  cs: Jak udělat ohnivý šíp
+  cs: Jak udělat zápalný šíp.
 - typ: odstavec
   de: |-
     SO nim 3. pfundt Salpeter / 1. pfundt Schwefel / vnd ein halbs Kolen / stoß wol zu puluer / vnd knet das Puluer mit gebrantem Wein zu einem deyg / vnnd mach dann kleine secklin auß Schurlatz tůch / so lang wie der Pfeil ist / thů den deyg in ein secklin / vnd verbints mit fädem hinden vnd vorn / schwembs dann in Schwefel oder hartz / vnd laß es trucken werden / so hast du gůt Feurpfeil.
   cs: |-
-    Vezmi tedy 3 libry {pfundt} ledku {Salpeter}, 1 libru síry {Schwefel} a půl [libry] dřevěného uhlí {Kolen}, dobře je utluč na prach a uhněť prach s páleným vínem v těsto. Pak ušij ze šurlacového plátna[^1] malé pytlíčky tak dlouhé, jaký je šíp, dej těsto do pytlíčku, svaž jej nitěmi vzadu i vpředu, namoč v síře nebo pryskyřici a nech uschnout; tak budeš mít dobré ohnivé šípy.
+    Vezmi tedy 3 libry {pfundt} ledku {Salpeter}, 1 libru síry {Schwefel} a půl [libry] dřevěného uhlí {Kolen}, dobře je utluč na prach a uhněť prach s páleným vínem v těsto. Pak ušij ze šurlacového plátna[^1] malé pytlíčky tak dlouhé, jaký je šíp, dej těsto do pytlíčku, svaž jej nitěmi vzadu i vpředu, namoč v síře nebo pryskyřici a nech uschnout; tak budeš mít dobré zápalné šípy.
 - typ: nadpis
   uroven: 3
   de: Die aller besten Feurpfeil zu machen.
-  cs: Jak udělat ze všech nejlepší ohnivé šípy
+  cs: Jak udělat ze všech nejlepší zápalné šípy.
 - typ: odstavec
   de: |-
     SO nim 5. pfundt Salpeter / 1. pfundt Schwefel / vnnd ein halbs Kolen / stoß das in einem Mörser wol vnder einander / mit dem öl genant Oleum benedictum / von dem hieuor geschrieben ist / vnnd thů dann gebranten wein darunder / souil daß es gnůg sei / vnd mach ein deyg darauß / vnd knet dann den deyg an den Pfeil / wie du sie haben wilt / vnd dann stecke jn in einen Ofen der warm ist / daß er wol ertrucken vnd dörre / nimbs dann herauß / schab vnnd formir jhn wol mit einem Messer / wie er sein soll / vnd vberzeug jn mit saubern ledern vnd bewindt jn mit fädem gar wol / vnd schwemb jn in Schwefel odder hartz / so ist er bereit.
@@ -35,7 +35,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Gut Feurpfeil in wasser vnd Eysen.
-  cs: Dobré ohnivé šípy do vody a s železem
+  cs: Dobré zápalné šípy do vody a s železem.
 - typ: odstavec
   de: |-
     ITem mann nem 8. theil Salpeter / 3. theil Schwefel / vnd 1. theil kolen / darnach Barchent / vnd mach secklin darauß so groß wie daumen / vnd einer fordern spannen lang / das Puluer hart in das secklin gestossen mit einem spitzigen holtz vber einander / vnd nim ein Eysen einer spannen lang / das so dick sei wie ein schreibfeder / vnd vorn spitzig / ein hecklein / vnd hinden ein Kolben hab / stoß durch das secklein / vnd gleichwol zu dem Eysen gebunden / mann laß den pfeil sich hefften wie ein ander pfeil / vnd laß es vorn bei dem spitzen darnach den schwefel zulassen in eim digel / dunck den pfeil darin / so ists bereit.
@@ -44,7 +44,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Gut Feurpfeil zumachen.
-  cs: Jak dělat dobré ohnivé šípy
+  cs: Jak dělat dobré zápalné šípy.
 - typ: odstavec
   de: |-
     ITem mann nem 1. pfundt wolgestossen Koln / 2. wolgestossen schwefel / vnd 4. pfundt wolgeleuterten Saluter / thůs alles in ein geschir

@@ -29,7 +29,7 @@ bloky:
   de: |-
     So man nun die 4. Notschlangen jede mit 100. jrer kugeln schwer Puluers sampt anderer notturfft im feld brauchen will / bedörffen sie auch wie hernachuolgt.
   cs: |-
-    Má-li se tedy použít v poli 4 těžkých kulverin, každá se 100 svých koulí a stejně těžkým množstvím střelného prachu {Puluers} spolu s ostatními potřebami, potřebují toto, jak následuje níže:
+    Mají-li se tedy 4 těžké kulveriny použít v poli, každá se 100 svými koulemi, stejně těžkým množstvím střelného prachu {Puluers} a ostatními potřebami, potřebují to, co následuje:
 - typ: odstavec
   de: |-
     Item für sich selbst / Wagen 4.
@@ -62,7 +62,7 @@ bloky:
     A před každý vůz 4 koně, což činí 12 tažných koní.
 - typ: odstavec
   de: |-
-    Zu disen 4. Notschlangen gehören auch mit aller zugehörung vnd kloben / wie volgt. Züg 3.
+    Zu disen 4. Notschlagen gehören auch mit aller zugehörung vnd kloben / wie volgt. Züg 3.
   cs: |-
     K těmto 4 těžkým kulverinám náleží rovněž se vším příslušenstvím a kladnicemi {kloben}, jak následuje: 3 kladkostroje.[^3]
 - typ: odstavec
@@ -128,7 +128,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Na pravém okraji tisku stojí rubrika *Notschlangen 4.* (4 těžké kulveriny).
+    Na pravém okraji tisku stojí rubrika *Notschlangen 4.* (4 těžké kulveriny). Níže v textu tisková chyba *Notschlagen* (*Zu disen 4. Notschlagen*).
 - n: 2
   text: |-
     Chyba předlohy: 4 × 33 = 132 koní, tisk však uvádí jen *93*.

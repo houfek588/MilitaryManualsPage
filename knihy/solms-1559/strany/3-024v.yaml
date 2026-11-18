@@ -27,7 +27,7 @@ bloky:
     A naloží-li se před každý vůz jednomu koni k tažení půltřetího centu {Centner}, vychází zapřáhnout 20 koní, což za těch 8 vozů činí 160 tažných koní {Zugpferdt}.
 - typ: odstavec
   de: |-
-    Darzů jedem stück sein besonder war / gefäß vnd fuer / deren ein 4. Roß / thůt Zugpferdt 32.
+    Darzů jedem stück sein besonder war / gefäß vnd füer / deren ein 4. Roß / thůt Zugpferdt 32.
   cs: |-
     K tomu ke každému kusu jeho zvláštní výstroj[?],[^1] lafeta {gefäß} a potah, před každou z nich 4 koně, což činí 32 tažných koní.
 - typ: odstavec
@@ -44,7 +44,7 @@ bloky:
   de: |-
     Vnd für der wagen einn auch 4. starck pferdt / thůt auff die acht wagen Pferdt 32.
   cs: |-
-    A před každý z těchto vozů rovněž 4 silné koně, což na „těch osm vozů“ činí 32 koní.[^2]
+    A před každý z těchto vozů rovněž 4 silné koně, což na těch osm vozů činí 32 koní.[^2]
 - typ: odstavec
   de: |-
     So nun gemelter 800. kugeln gleich schwer puluers auch mit gefürt wirt / das thůt 360. Centner / darzů gehören abermals wagen 12.
@@ -119,7 +119,7 @@ bloky:
   de: |-
     So halten die vorgemelten Kugeln an eysen 874. centner.
   cs: |-
-    Výše uvedené koule pak drží na železe 874 centů.
+    Výše uvedené koule pak váží na železe 874 centů.
 - typ: odstavec
   de: |-
     Souil puluers / thůt auch 874. centner.
@@ -138,7 +138,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    V originále stojí nejasné *sein besonder war / gefäß vnd fuer*; patrně tiskařská záměna za *lär gefäß* („prázdná lafeta“), *wagen* či *par* („výbava“).
+    V tisku (ověřeno ve skenu) nejasné *sein besonder war / gefäß vnd füer*; *war* snad *Wahr* (zboží, výstroj), případně tisková chyba (*lär* „prázdná“?); *füer* = *Fuhr*, potah.
 - n: 2
   text: |-
     Početní chyba předlohy: vozů na koule i na prach je po 12 (8 × 67 + 4 × 66 = 800 koulí), text však omylem počítá jen *8 vozů* (8 × 4 = 32 koní namísto 12 × 4 = 48). Souhrn 268 koní níže (160 + 32 + 32 + 32 + 12) přebírá obě chybná čísla 32 (správně by bylo 300 koní).

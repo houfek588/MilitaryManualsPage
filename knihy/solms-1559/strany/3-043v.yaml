@@ -9,16 +9,16 @@ bloky:
   de: |-
     ITem mann neme Gloriet oder Glaret/ schwefel vnd eierdotern/ auß gebrantem wein wie oben steht/ al mit gleichem teil/ vnd laß sie gemachsam vber glüende kolen in einer pfande/ also das ein Confortet darauß werde/ vnd misch darunder 1. Centener zulöschen wachs/ vnd thů es alles zusamen in ein ochsen blasen/ die vor wol mit öle bestrichen sei/ vnd mit einem wachs/ vnd wann mann es netzen wil so lege er die Materien an ein stat/ da sie lüfftig ligt/ vnd wann der windt darauff geht/ so wirt es brennen/ vnd verwüst alles was da ist/ vnd so mann darauff geußt/ so gewindt es tödtlich flamen/ vnd so mann etwas damit bestreicht/ daß entzindt sich auch an vor grosser hitz der Sonnen vnd brent.
   cs: |-
-    Dále: vezmi benátský terpentýn {Gloriet} či pryskyřici {Glaret}, síru a vaječné žloutky z pálenky, jak stojí výše, všeho stejným dílem, a nech je zvolna nad žhavým uhlím na pánvi, až z toho vznikne pasta (*Confortet*). Přimíchej do toho 1 cent rozpuštěného vosku[^1] a vlož to všechno dohromady do volského měchýře předem dobře vymazaného olejem a voskem. A když se to chce navlhčit, polož tu hmotu na místo, kde je průvan; když na ni zavane vítr, bude hořet a zničí vše, co tam je. A když se na ni nalije voda, nabude smrtících plamenů; a když se tím něco natře, vznítí se to také od velikého slunečního žáru a hoří.
+    Dále: vezmi benátský terpentýn {Gloriet} neboli *Glaret*, síru a vaječné žloutky z pálenky, jak stojí výše, všeho stejným dílem, a nech je zvolna [rozpustit] na pánvi nad žhavým uhlím, až z toho vznikne pasta (*Confortet*). Přimíchej do toho 1 cent rozpuštěného vosku[^1] a vlož to všechno dohromady do volského měchýře předem dobře vymazaného olejem a voskem. A když ji chceš použít,[^2] polož tu hmotu na místo, kde je průvan; když na ni zavane vítr, bude hořet a zničí vše, co tam je. A když se na ni nalije [voda], nabude smrtících plamenů; a když se tím něco natře, vznítí se to také od velikého slunečního žáru a hoří.
 - typ: nadpis
   uroven: 3
   de: Fligende feur zumachen/ vnd katzen.
-  cs: Jak udělat létající ohně a ohnivé kočky.[^2]
+  cs: Jak udělat létající ohně a ohnivé kočky.[^3]
 - typ: odstavec
   de: |-
     ITem mann neme ein teil Calofonie/ oder Kirschen hartz 2. teil Salpeter/ die reib gar klein mit ein wenig roröl oder laurölen/ daß es darin zugehe/ vnd als ein Confect werde/ vnd thů es als dann in ein Eissern Rör/ das es eng sei/ vnd eins eissern trat lang das von einem hauß zu dem andern geht in der höhe/ darnach zindt ers an vnd bloß in das Ror/ so leufft es an dem trat hienauß als langt er ist brenenden/ oder mann bloß es on den trat sonst inn die höhe oder weitte/ ist lüstlich zusehen.
   cs: |-
-    Dále: vezmi jeden díl kalafuny {Calofonie} či třešňové pryskyřice a 2 díly ledku {Salpeter}, rozetři je velice najemno s trochou třtinového nebo vavřínového oleje,[^3] aby se to v něm rozpustilo a vznikla pasta. Pak to vlož do železné trubice, která má být úzká, a na dlouhý železný drát, který vede ve výši od jednoho domu ke druhému; potom ji zapal a foukni do trubice – poběží to hoříc podél drátu, jak je dlouhý, anebo se to bez drátu foukne jen tak do výšky či do dálky; je to zábavné na pohled.
+    Dále: vezmi jeden díl kalafuny {Calofonie} či třešňové pryskyřice a 2 díly ledku {Salpeter}, rozetři je velice najemno s trochou třtinového nebo vavřínového oleje,[^4] aby se to v něm rozpustilo a vznikla pasta. Pak to vlož do železné trubice, která má být úzká, a na dlouhý železný drát, který vede ve výši od jednoho domu ke druhému; potom ji zapal a foukni do trubice – poběží to hoříc podél drátu, jak je dlouhý, anebo se to bez drátu foukne jen tak do výšky či do dálky; je to zábavné na pohled.
 - typ: nadpis
   uroven: 3
   de: Ein feur Katzen die alles anzindt.
@@ -27,7 +27,7 @@ bloky:
   de: |-
     ITem nim ein ölein Calonefemia 2. teil lebendigen schwefel vnnd 3. teil Salpeter/ das reib alles gar klein mit einem Camillen ölen oder loröl/ also das ein Confect werdt oder Conforstetet/ das in einem langen eichen feur von eichen Holtz gemacht/ so fert es wo du daß Ror hinkerst.
   cs: |-
-    Dále: vezmi jeden díl kalafuny,[^4] 2 díly živé síry a 3 díly ledku, to vše rozetři velice najemno s heřmánkovým nebo vavřínovým olejem, aby z toho byla pasta; to [vlož] do dlouhé dubové trubice[^5] vyrobené z dubového dřeva – a vyletí to tam, kam trubici obrátíš.
+    Dále: vezmi jeden díl kalafuny,[^5] 2 díly živé síry a 3 díly ledku, to vše rozetři velice najemno s heřmánkovým nebo vavřínovým olejem, aby z toho byla pasta; to [vlož] do dlouhé dubové trubice[^6] vyrobené z dubového dřeva – a vyletí to tam, kam trubici obrátíš.
 - typ: nadpis
   uroven: 3
   de: Ein Liecht zumachen das nit außgeht.
@@ -42,14 +42,16 @@ poznamky:
   text: |-
     V tisku stojí *1. Centener zulöschen wachs* (snad zkomolený údaj o množství – srov. obdobný recept na f. 41v s *ein vierteil wachs*, tedy čtvrt dílu rozpuštěného vosku).
 - n: 2
-  text: |-
-    *Katze* (*Feuerkatze*) – dobový název pro kratochvilný či zápalný létající oheň (raketu či šňůrový běhoun po drátě).
+  text: V tisku *netzen* („navlhčit“, ověřeno ve skenu) – patrně za *nützen* („použít“); smysl dává obdobný recept na l. 41v (*wan du es anzinden wilt*).
 - n: 3
   text: |-
-    *Roröl* – patrně olej ze sítiny či zkomolenina za *loröl* (vavřínový olej) nebo *rosöl* (růžový olej).
+    *Katze* (*Feuerkatze*) – dobový název pro kratochvilný či zápalný létající oheň (raketu či šňůrový běhoun po drátě).
 - n: 4
   text: |-
-    V tisku stojí *ein ölein Calonefemia* – zřejmá tiskařská zkomolenina za *ein teil Colofonia* („jeden díl kalafuny“).
+    *Roröl* – patrně olej ze sítiny či zkomolenina za *loröl* (vavřínový olej) nebo *rosöl* (růžový olej).
 - n: 5
+  text: |-
+    V tisku stojí *ein ölein Calonefemia* – zřejmá tiskařská zkomolenina za *ein teil Colofonia* („jeden díl kalafuny“).
+- n: 6
   text: |-
     V tisku stojí omylem *in einem langen eichen feur* místo *in einem langen eichen ror* („v dlouhé dubové trubici“), jak potvrzuje závěr věty (*wo du daß Ror hinkerst*).

@@ -13,7 +13,7 @@ bloky:
   de: |-
     NIme 3. pfundt Salpeters / 1. pfundt graben Schwefels / ein halb pfundt Koln / vnd ein halb stettit weissen Arsenicum / stoß das klein durch einander / vnd ein Quertlin eines vierdten theils von einer maß gebranten Wein / vnd ein quintlin Kampfer / laß vnder einander sieden / vnd wann es kalt wirt / so schütz vnder das Puluer / stoß dann abermals wol / darnach laß wol trucken an der Sonnen / so ist es gůt.
   cs: |-
-    Vezmi 3 libry {pfundt} ledku {Salpeters}, 1 libru surové síry (*graben Schwefels*) {Schwefels}, půl libry dřevěného uhlí {Koln} a půl štetitu (*stettit*) bílého arzeniku (*weissen Arsenicum*), utluč to najemno dohromady, [vezmi] čtvrť mázu (*Quertlin*) neboli čtvrtinu jednoho mázu {maß} páleného vína a jeden kvintlík {quintlin} kafru, nech je spolu povařit, a když to vychladne, vlij to do prachu, potom znovu dobře utluč a následně nech dobře uschnout na slunci – tak jest dobrý.
+    Vezmi 3 libry {pfundt} ledku {Salpeters}, 1 libru surové síry {Schwefels}, půl libry dřevěného uhlí {Koln} a půl štetitu (*stettit*) bílého arzeniku (*weissen Arsenicum*) a utluč to dohromady najemno. [Vezmi] čtvrtku {Quertlin}, totiž čtvrtinu mázu {maß}, páleného vína a jeden kvintlík {quintlin} kafru a nech to spolu povařit; až to vychladne, vlij to do prachu, znovu dobře utluč a potom nech dobře uschnout na slunci – tak je dobrý.
 - typ: nadpis
   uroven: 3
   de: Nota.
@@ -22,7 +22,7 @@ bloky:
   de: |-
     Stettit ist ein vierdttheil von einem lot / das ist ein Quintlin.
   cs: |-
-    Štetit (*Stettit*)[^1] jest čtvrtina jednoho lotu {lot}, to jest jeden kvintlík.
+    Štetit (*Stettit*)[^1] je čtvrtina lotu {lot}, to jest kvintlík.
 - typ: nadpis
   uroven: 3
   de: Puluer on Salpeter vnd Schwefel zumachen / etc.
@@ -31,11 +31,11 @@ bloky:
   de: |-
     ITem mann neme eisern sindern Kolen vnd Quecksiber / zerstoß vntereinander / thůs in ein Büchsen / vnd ladt die hart / scheußt aber nit so weit als ander Puluer / weit zu schiessen ist das best stück Salpeter.
   cs: |-
-    Dále vezmi železné okuje (*eisern sindern*),[^2] uhlí a rtuť (*Quecksiber*),[^3] rozdrť to dohromady, dej do děla {Büchsen} a pevně je nabij; nestřílí to však tak daleko jako jiný prach, neboť pro dalekou střelbu jest nejlepší složkou ledek.
+    Dále vezmi železné okuje (*eisern sindern*),[^2] uhlí a rtuť (*Quecksiber*),[^3] rozdrť to spolu, dej do děla {Büchsen} a pevně je nabij. Nestřílí to však tak daleko jako jiný prach; pro dalekou střelbu je nejlepší složkou ledek.
 - typ: nadpis
   uroven: 3
   de: Puluer das sich selber von wasser anzünd.
-  cs: Střelný prach, jenž se sám od vody vznítí
+  cs: Střelný prach, který se sám vznítí od vody
 - typ: odstavec
   de: |-
     ITem man neme salpeter 5. theil / Schwefel 9. theil / Koln 3. theil / die auß Alberholtz gebrant seind / stoß das vndereinander zu einem Puluer / vnd nim geleschten Kalch / der auß einem weissen kißstein gebrennt / vnd wol gestossen sei / 3. theil darunter / vnd ein theil Campfer temperier das alles wol durcheinander / vnd laß es wol trucken werden.
@@ -44,7 +44,7 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Puluer zu stein Büchsen zuschiessen.
-  cs: Střelný prach pro střelbu z kamenných děl {stein Büchsen}[^5]
+  cs: Střelný prach pro střelbu z kamenných děl {stein Büchsen}
 - typ: odstavec
   de: |-
     ITem man neme 2. lot Schwefel / 3. lot Salpeter / 1. lot Kolen / stoß es wol / vnd mischs vndereinander / machs ein wenig naß mit einem wasser / vnd thů es in ein sib oder Durchsack rürs mit eim Löffel durch das sib / vnd wann es durch das sib ist gefaln / so setz es an die Sonnen / vnd laß es gar woldör werden.
@@ -58,7 +58,7 @@ bloky:
   de: |-
     ITem mann neme 1. lot Kolen / 3. lot schwefel / 6. lot Salpeter / vnnd mach es wie obgeschriben.
   cs: |-
-    Dále vezmi 1 lot uhlí, 3 loty síry a 6 lotů ledku a připrav jej tak, jak jest psáno výše.
+    Dále vezmi 1 lot uhlí, 3 loty síry a 6 lotů ledku a připrav jej, jak je psáno výše.
 - typ: nadpis
   uroven: 3
   de: Zündtpuluer zumachen.
@@ -76,6 +76,3 @@ poznamky:
 - n: 4
   text: |-
     V tisku stojí doslova *geleschten Kalch* („hašeného vápna“), ač podle smyslu i obdobného receptu na l. 57r by mělo jít o vápno nehašené (*ungeleschten*).
-- n: 5
-  text: |-
-    BSB OCR zde zkomolilo nadpis na *Putuer zu frein Buchsen zuschiessen* a v dalším receptu přeházelo řádky (*Imach es wie obgeschriben. / Tem mann neme...*).
