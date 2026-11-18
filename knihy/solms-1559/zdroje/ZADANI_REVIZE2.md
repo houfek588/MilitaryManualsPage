@@ -20,6 +20,11 @@ Revize probíhá **postupně po knihách** (nejdřív První kniha).
   Feldhauptman* = nejvyšší polní hejtman, *Oberster Zeugmeister* = nejvyšší zbrojmistr…) podle glosáře.
 - **Fendlin / Fendlein u jízdy = „korouhev“**, u pěchoty „praporec“; u smíšených míst („zu roß oder zu fůß“) obojí.
 - *Kriegßleut* = „válečníci“; *Justitien* = „justice / spravedlnost“ (heslo `justice`, ne `soud`).
+- Knihy 6–9: *Fendrich / Fenderich* u jízdy = „korouhevník“; *Durchleuchtig* (knížata) = „osvícený“;
+  *Drosser / Droß* = „trénní kůň“; *Summa lat.* = „součet strany“; *Veldoberster* = „polní plukovník“;
+  *Gerüster pferd* = „zbrojný kůň“; *Feurpfeil* = „zápalný šíp“; *Büchsenpulver* = „střelný prach“.
+- **Revize knih 6–9** (strany ve stavu `prelozeno`, přeložené od nuly z OCR): ověř přepis `de` proti skenu u všech
+  nejistých míst a tabulek (čísla, jména, součty), věrnost a plynulost překladu; po kontrole nastav `stav: zkontrolovano`.
 
 ## Na co se zaměřit
 - **Věrnost**: porovnej každý blok `cs` s `de`. Hledej vynechaný či přidaný text, posunutý význam, chybně pochopené zápory

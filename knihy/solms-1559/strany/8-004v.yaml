@@ -1,0 +1,47 @@
+id: 8-004v
+list: 4 (8. kniha)
+strana: verso
+sken: 596
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['', '', 'Centner/', 'vnd thůt an Korn dreitausent/ dreihundert vnd dreivnddreissig achtel vnd zwo metzen.']
+  cs:
+  - ['', '', 'centů {Centner}', 'a činí na žitě {Korn} tři tisíce tři sta třicet tři achtelů {achtel} a dvě měřice {metzen}.']
+- typ: odstavec
+  de: |-
+    Item wann ein abgang an der Frucht were/ vnnd müst ein summen Volcks ein zeitlang erhalten werden/ so mag mann dem vorgenanten Brot abbrechen/ vnd vmb etlich lot ringern/ wie es sich mag zutragen an dem getreide.
+  cs: |-
+    Dále: kdyby byl nedostatek obilí a musel se nějaký počet lidu po nějakou dobu vydržovat, lze výše uvedený chléb zkrátit a o několik lotů {lot} zmenšit, podle toho, jak to s obilím dopadne.
+- typ: odstavec
+  de: |-
+    Das also zuuerstehen/ so wil ich ein tausent personen für mich nemen die ein Woche mit 58. achteln sollen erhalten werden/ Nun ist in dem vorgesetzten Anschlag vnd Ordnung auff ein tausent personen ein wochen verordnet siben tausent Brot deren eines zwei pfundt helt/ macht vierdtzehen tausent pfundt/ oder hundert vnd vierdtzig Centner/ thůt an getreidt siben vnd sibentzig achtel vnd drei metzen.
+  cs: |-
+    Rozumí se tomu takto: vezmu si tisíc osob, které se mají za týden vydržovat s 58 achtely. V předchozím rozpočtu a řádu je na tisíc osob na týden stanoveno sedm tisíc chlebů, z nichž každý váží dvě libry {pfundt}. To dělá čtrnáct tisíc liber neboli sto čtyřicet centů a činí na obilí sedmdesát sedm achtelů a tři měřice.[^1]
+- typ: odstavec
+  de: |-
+    Solches zu wissen so merckt/ dieweil tausent Personen ein woche sibenvndsibentzig achtel vnangesehen der vbrigen Metzen bedörffen/ so wirt ein Brot zwei pfundt schwere gebachen/ wie schwere soll dann eins gebachen werden/ wann mann ein woche nit mehr dann acht vnd fünfftzig achtel hat/ Nach dem weiß ein jeder der Regulam De Tri versteht/ die dann gemein ist/ sich wol zu richten/ nemlich also/ 2. pfundt sollen mit 58. achteln multipliciert werden/ das macht 116. die soll mann dann inn 77. theilen/ so kompt wie schwere das Brot sol gebachen werden/ vnangesehn das vberbleibend in der theilung/ nemlich anderthalb pfundt schwere/ vnd mit disem Brot künden tausent personen ein woche lang erhalten werden.
+  cs: |-
+    Abyste to věděli, pozorujte: když tisíc osob potřebuje za týden sedmdesát sedm achtelů (bez ohledu na zbylé měřice) a peče se chléb o váze dvou liber, jak těžký se má péci, když je na týden k dispozici jen padesát osm achtelů? Podle toho se dobře zařídí každý, kdo rozumí trojčlence {Regulam De Tri}, která je obecně známá, a to takto: 2 libry se mají vynásobit 58 achtely, to dělá 116; to se pak má vydělit 77, a vyjde, jak těžký se má chléb péci (bez ohledu na zbytek při dělení), totiž půl druhé libry. S tímto chlebem lze tisíc osob vydržovat po celý týden.
+- typ: odstavec
+  de: |-
+    Deßgleichen mag auch inn Tagen vnd Monaten geschehen/ oder mit den Personen wie vorgesetzt ist/ erstlich von 100. darnach 500. vnd weiter hernach stehet in der Ordnung/ ist gleichförmig wie das vorgesetzt/ auff tausent Personen geschehen.
+  cs: |-
+    Stejně se to dá provést i pro dny a měsíce nebo pro počty osob, jak jsou uvedeny výše – nejprve pro 100, potom pro 500 a pro další, jak stojí v řádu; postupuje se stejně jako v předchozím příkladu pro tisíc osob.
+- typ: odstavec
+  de: |-
+    Weitter kan auch geschehen daß ein gnůgen an Getreydt vnd kein mangel vorhanden/ vnd das Brot mit den zweien pfunden auff ein person zu klein were/ so mag dasselbig wol gemehret werden/ daß ein Person ein vol gnůgen haben möcht/ vnd kan gleicher gestalt durch obgemelte Regel De Tri zuwegen gebracht vnd gerechnet werden/ wie im abgang mit den 1000. also kan ein jeder/ dem jetztgemelte Regel kündig/ sich wol darnach richten.
+  cs: |-
+    Dále se také může stát, že obilí je dost a není ho nedostatek, a chléb o dvou librách by byl na osobu příliš malý. Pak ho lze dobře zvětšit, aby se každý plně nasytil. To se dá stejným způsobem zařídit a spočítat výše uvedenou trojčlenkou {Regel De Tri} jako v případě nedostatku u oněch 1000 [osob]; podle toho se může dobře zařídit každý, kdo tu trojčlenku zná.
+- typ: odstavec
+  de: |-
+    Weitter ist zumercken daß das maß mit dem Treyde an allen orten vngleich ist/ an einem ort groß vnd an einem andern klein/ vnnd auch mit dem namen verwandelt/ daran nichts gelegen ist/ dann mann soll nichts desto weniger vnderschiedtlich sich diser Ordnung nach brauchen/ dann es mag inn allen Landten oder Stätten
+  cs: |-
+    Dále je třeba si povšimnout, že míra na obilí je všude nestejná – na jednom místě velká, na jiném malá – a mění se i její název. Na tom však nezáleží, protože se přesto lze podle tohoto řádu řídit s rozlišením. V každé zemi či městě se totiž může
+poznamky:
+- n: 1
+  text: |-
+    V tabulce na předchozí straně je pro 1000 osob a týden uvedeno 77 achtelů a 6 měřic (7000 : 90 = 77,78 achtelu, tj. 77 achtelů a 6 měřic); „drei metzen“ je zde tedy patrně tisková chyba.

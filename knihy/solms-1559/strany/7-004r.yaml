@@ -1,0 +1,50 @@
+id: 7-004r
+list: 4 (7. kniha)
+strana: recto
+sken: 555
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-555.jpg
+  popis: |-
+    Osm obrazových karet strany Hannibalovy (černý tisk), ve dvou sloupcích po čtyřech, vždy s nápisem úřadu v rámečku (pořadí po řádcích zleva doprava): 1. polní plukovník – jezdec v čele jízdního průvodu s korouhvičkou na žerdi, za ním obrnění jezdci a pěší sluhové; 2. šlechtic dělostřelectva – jezdec s vysokým chocholem uprostřed pěších dělostřelců, kteří nesou na ramenou holi s rozeklanými konci (patrně zapalovací hole); 3. polní maršálek – jízdní houf se dvěma žerděmi, v čele jezdec v čapce; 4. mistr vozové hradby – osamělý jezdec vpředu a skupina jezdců s chocholy za ním; 5. kapitán dělostřelectva – jezdec v plášti před skupinou jezdců; 6. vozmistr (nápis zdobným kaligrafickým písmem) – jezdec před skupinou jezdců; 7. kapitán justice – jezdci s žerdí, pěší s halapartnami a muž s obnaženým dlouhým mečem (snad kat); 8. bez nápisu – pět jezdců, z toho čtyři trubači s troubami.
+- typ: tabulka
+  de:
+  - - '1'
+    - VELTOBERSTER
+  - - '2'
+    - EIN EDEL MAN DER ARTOLOREI
+  - - '3'
+    - VELTMARSCHALCK
+  - - '4'
+    - WAGENBVRG MEISTER
+  - - '5'
+    - CAPITAN DER ARTOLOREY
+  - - '6'
+    - Wagen Mäyster
+  - - '7'
+    - CAPITAN DER IVSTITIEN
+  - - '8'
+    - '–'
+  cs:
+  - - '1'
+    - polní plukovník {Veltoberster}
+  - - '2'
+    - šlechtic dělostřelectva {Edel man der Artolorei}
+  - - '3'
+    - polní maršálek {Veltmarschalck}
+  - - '4'
+    - mistr vozové hradby {Wagenburg meister}
+  - - '5'
+    - kapitán dělostřelectva {Capitan der Artolorey}
+  - - '6'
+    - vozmistr {Wagen Mäyster}
+  - - '7'
+    - kapitán justice {Capitan der Justitien}
+  - - '8'
+    - (bez nápisu – trubači)[^1]
+poznamky:
+- n: 1
+  text: |-
+    Obrazové karty jsou v exempláři BSB zřejmě tištěny na samostatných proužcích papíru a do knihy vlepeny (patrné okraje lístků). Karty strany Hannibalovy jsou tištěny černě, karty Římanů červeně (od [[7-007v|listu 7v]]). Jména osob, které těmto úřadům odpovídají, uvádějí textové karty na [[7-006r|listu 6]].

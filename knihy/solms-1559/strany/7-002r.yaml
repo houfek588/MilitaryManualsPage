@@ -1,0 +1,56 @@
+id: 7-002r
+list: 2 (7. kniha)
+strana: recto
+sken: 551
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item dise 2000. Knecht nennt mann die außgeschossen Knecht oder den verloren hauffen.
+  cs: |-
+    Dále: těchto 2000 knechtů {Knecht} se nazývá vybraní knechti {außgeschossen Knecht} neboli ztracený houf {verloren hauffen}.
+- typ: odstavec
+  de: |-
+    Die andern 8000. Knecht sollen in zwen hauffen getheilt werden. Vnnd soll ein Hauffe vorn neben dem Renfan/ als der recht gewaltig vorzug auff der lincken seiten ziehen/ vnnd bei jm 4. Veldschlangen/ zwen wagen mit Puluer vnd Kugeln/ auch anderm was darzů gehört vnd einen tag von nöten ist/ haben.
+  cs: |-
+    Ostatních 8000 knechtů se má rozdělit do dvou houfů {hauffen}. Jeden houf má táhnout vpředu vedle předvojové korouhve {Renfan} po levé straně jako vlastní silný předvoj {gewaltig vorzug} a mít u sebe 4 kulveriny {Veldschlangen}, dva vozy s prachem {Puluer} a koulemi {Kugeln} a se vším ostatním, co k tomu patří a co je na jeden den zapotřebí.
+- typ: odstavec
+  de: |-
+    Die andern 4000. Knecht sollen bei dem gewaltigen hauffen oder mittelzug ziehen/ der hat 1500 pferde/ vnd auff der lincken seiten bei jm 8. stück Büchsen vnd Cartaun/ auch 4. wagen mit Puluer/ Kugeln vnd aller zůgehört vnd rüstung/ haben.
+  cs: |-
+    Ostatních 4000 knechtů má táhnout u hlavního houfu {gewaltigen hauffen} neboli středního voje {mittelzug}, který má 1500 koní, a mít u sebe po levé straně 8 kusů děl {Büchsen} a kartoun {Cartaun}, také 4 vozy s prachem, koulemi a se vším příslušenstvím a výzbrojí {rüstung}.
+- typ: odstavec
+  de: |-
+    Die andern 4000. Knecht sollen bei dem gewaltigen hauffen oder mittelzug ziehen/ der auch 1500. pferde auff der lincken seiten/ vnd 8. stück Büchsen Schlangen vnd halb Cartaun/ auch 4. Wagen mit Puluer/ Kugeln vnd aller zu gehörte gehn haben.
+  cs: |-
+    Ostatních 4000 knechtů má táhnout u hlavního houfu neboli středního voje, který [má] rovněž 1500 koní, po levé straně a mít 8 kusů děl – kulverin {Büchsen Schlangen} a polovičních kartoun {halb Cartaun} – a také 4 vozy s prachem, koulemi a se vším příslušenstvím.[^1]
+- typ: odstavec
+  de: |-
+    Darnach auff dise 4000. knecht oder mittelzug soll das ander geschütz mit aller seiner zugehörigen Rüstung vnd Wagen/ ziehen.
+  cs: |-
+    Potom má za těmito 4000 knechty neboli středním vojem táhnout ostatní dělostřelectvo {geschütz} se vší příslušnou výzbrojí a vozy.
+- typ: odstavec
+  de: |-
+    Bedarff mann einer Wagenburg/ soll mann der souil auß der Rüstwagen nemen/ als der von nöten/ vnd neben den Knechten her das sie auff der eussersten seiten damit bedeckt seien/ vnd also zwischen dem reisigen Zeug vnd der Wagenburg verdeckt hinziehen.
+  cs: |-
+    Je-li zapotřebí vozové hradby {Wagenburg}, má se z vozů s výzbrojí {Rüstwagen} vzít tolik, kolik je třeba, a [ty mají jet] vedle knechtů, aby jimi byli na vnější straně kryti a táhli tak chráněni mezi jízdou {reisigen Zeug} a vozovou hradbou.
+- typ: odstavec
+  de: |-
+    Dise kurtze Zugordnung hab ich nicht mehr dann zum eingang des Kartenspiels gestalt/ damit mann das verstehn vnd zu brauchen wisse/ vnd von den verstendigen des Kriegs weitter bericht vnd gelernt werde.
+  cs: |-
+    Tento krátký pochodový řád {Zugordnung} jsem sestavil jen jako úvod ke karetní hře {Kartenspiels}, aby se jí rozumělo a vědělo se, jak ji užívat, a aby se [hráč] od znalců války {verstendigen des Kriegs} dále poučil a naučil.
+- typ: odstavec
+  de: |-
+    Weitter mag einer auch fragen/ Wie kan ich also ein ordnung gebrauchen mit wenig Karten/ dann ich jegliche wol zehen/ zwölff oder mehr mal bedarff/ ist recht daruon geredt/ das zuuerstehen/ so sollen der Figurn eins blats die menge sein/ dann ein jede Kart auff eines Fendlins summ zu roß oder füß geordnet ist/ so kan mann ein Fendlin als starck vnd souil/ auch ein hauffen so groß als mann wil/ stellen.
+  cs: |-
+    Dále se může někdo zeptat: Jak mohu takový šik {ordnung} sestavit s několika málo kartami, když každou potřebuji snad desetkrát, dvanáctkrát nebo vícekrát? To je správně řečeno. Je třeba tomu rozumět tak, že figury na jednom listu znamenají celé množství, neboť každá karta odpovídá počtu jednoho praporce či korouhve {Fendlins}, pěšího nebo jízdního. Tak lze postavit praporec či korouhev tak silnou a početnou a také houf tak velký, jak kdo chce.
+- typ: odstavec
+  de: |-
+    Zum andern mag einer auch fragen/ Wo findt ich solcher Karten die menge/ das ist auch ein billich frag/ Vnd daß dise Karten also augenscheinlich inn ein Bůch gemacht sind/ ist darumb geschehen/ daß mann die Rüstung vnd Gattung aller art des Kriegßuolcks vnderschidtlich sehen mög/ Zum andern hat es noch ein weiter erklerung/ nemlich daß mann es nit dahin verstehn soll/ als müste mann gemalte Karten haben/ vnd anders nit zu wegen bringen kündt/ Neyn/ dem ist also zu thůn/ neme gemeine Kartenbletter/ vnd auff der reinen seiten schreibe die Ampter darauff/ wie die Figurn anzeigen/ erstlich die
+  cs: |-
+    Za druhé se může někdo také zeptat: Kde najdu takové množství karet? I to je oprávněná otázka. Že jsou tyto karty takto názorně vyobrazeny v knize, stalo se proto, aby bylo možné rozeznat výzbroj a druhy všeho válečného lidu {Kriegßuolcks}. Za druhé to má ještě další vysvětlení: nemá se to chápat tak, že by člověk musel mít malované karty a jinak by to nesvedl. Nikoli, je třeba to udělat takto: vezmi obyčejné karetní listy {Kartenbletter} a na čistou stranu na ně napiš úřady {Ampter}, jak ukazují vyobrazení, nejprve
+poznamky:
+- n: 1
+  text: |-
+    Tento odstavec v tisku téměř doslova opakuje předchozí (tytéž 4000 knechtů u hlavního houfu, rovněž „po levé straně“); v exempláři BSB je orámován červenou tužkou. Patrně má jít o druhou polovinu 8000 knechtů, nejspíš po pravé straně – součet 2000 + 4000 + 4000 knechtů i 1500 koní se s celkovými počty z [[7-001v|předchozí strany]] nekryje (hlavní houf tam má 1500 koní celkem). Nejasné *aller zu gehörte gehn* je patrně tisková chyba (snad *zugehörde*).

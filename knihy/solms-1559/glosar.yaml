@@ -132,6 +132,8 @@ hesla:
   - Marschalcks
   - Veldmarschalck
   - Feldmarschelck
+  - 'Marschalck'
+  - 'Marschalk'
   nepouzivat:
   - polní maršál
   kategorie: velitele
@@ -285,6 +287,7 @@ hesla:
   - Prouoßfoll
   - Prouofen
   - Prouosen
+  - 'Prouos'
   nepouzivat:
   - profos
   - probošt
@@ -339,6 +342,7 @@ hesla:
   - Forierern
   - Forier
   - forieren
+  - 'Furirer'
   nepouzivat:
   - furiér
   - furiant
@@ -578,6 +582,8 @@ hesla:
   - Trabanti
   - Traband
   - Trabanden
+  - 'Drabanten'
+  - 'Drabant'
   nepouzivat:
   - trabant
   kategorie: velitele
@@ -1037,6 +1043,8 @@ hesla:
   - Tracana
   - Schlauckana
   - Feltschlenglein
+  - 'Veldschlangen'
+  - 'Veldschlange'
   kategorie: delostrelectvo
   hledat:
   - kulverin
@@ -1228,6 +1236,7 @@ hesla:
   - Legern
   - legers
   - Hauptleger
+  - 'Veldleger'
   kategorie: opevneni
   hledat:
   - ležen
@@ -1446,6 +1455,8 @@ hesla:
   - mosterung
   - musterplätzen
   - vngemustert
+  - 'Musterzettel'
+  - 'Muster Zettel'
   kategorie: zold
   hledat:
   - přehlíd
@@ -1500,6 +1511,7 @@ hesla:
   - Gülden
   - fl.
   - gulden
+  - 'flo.'
   kategorie: miry
   hledat:
   - \bzlat(ý|ých|ým|ými|é|ou)\b
@@ -1586,6 +1598,8 @@ hesla:
   - Züge
   - Türckenzug
   - Kriegßzug
+  - 'Veldzug'
+  - 'Veldzugs'
   kategorie: sluzba
   hledat:
   - \btažen
@@ -1673,6 +1687,8 @@ hesla:
   - Trummetter
   - Trometter
   - Trummeter
+  - 'Drometer'
+  - 'drometer'
   kategorie: velitele
   hledat:
   - trubač
@@ -2134,6 +2150,10 @@ hesla:
   - gerüster Pferdt
   - gerüsten Pferden
   - gerüste Pferde
+  - 'Gerüster pferde'
+  - 'Gerüster pferd'
+  - 'gerüster pferde'
+  - 'gerüster pferd'
   kategorie: zold
   hledat:
   - \bzbrojn\w* (kon|koň|kůň)
@@ -2144,6 +2164,9 @@ hesla:
   - Troßpferd
   - Troßpferdt
   - Troßpferden
+  - 'Drosser'
+  - 'Droß'
+  - 'droß'
   kategorie: sluzba
   hledat:
   - trénn\w* (kon|koň|kůň)
@@ -2667,6 +2690,10 @@ hesla:
   - anrit
   - anrit geld
   - anrit gelts
+  - 'anrit gelt'
+  - 'Anritgelt'
+  - 'Anrit gelt'
+  - 'anritgelt'
   kategorie: zold
   hledat:
   - příjezdn
@@ -3728,6 +3755,8 @@ hesla:
   - Kriegßleut
   - Kriegßleuten
   - Kriegßman
+  - 'Krigßuolck'
+  - 'Krigßuolcks'
   kategorie: jednotky
   hledat:
   - válečn\w* lid
@@ -4121,6 +4150,7 @@ hesla:
   - Schnepfen
   - Schnepffen
   - kropffung
+  - 'außkröpffung'
   kategorie: opevneni
   hledat: []
   pozn: Výstupek či zalomení vozové hradby vysunuté před řadu vozů (Schnepfen, Kröpfung), odkud střelci bočně postřelují útočníky.
@@ -4317,6 +4347,10 @@ hesla:
   cs: jednokoní jezdec
   de:
   - Einspenigen
+  - 'Einspennigen'
+  - 'Einspennige'
+  - 'Einspennig'
+  - 'Einrosser'
   kategorie: jednotky
   hledat: []
   pozn: Einspännige – jednotlivě najímaní jezdci sloužící mimo velké šlechtické roty s jedním až třemi koňmi.
@@ -4450,6 +4484,8 @@ hesla:
   - halbe Falconetlein
   - halb Falconetlein
   - Falconetlein
+  - 'Falckenetlein'
+  - 'Falckenetlin'
   kategorie: delostrelectvo
   hledat:
   - \bfalkonet
@@ -4939,7 +4975,6 @@ hesla:
   de:
   - Haspel
   - Hespel
-  - creutz Hespel
   kategorie: delostrelectvo
   hledat:
   - \bnaviják
@@ -5497,3 +5532,63 @@ hesla:
   kategorie: osoby
   hledat: ['zemsk\w* stav']
   pozn: "Landschaft – stavy země (šlechta, duchovenstvo, města), které pán svolává k poradě o válce a o penězích na ni."
+- id: soucet-strany
+  cs: součet strany
+  de: ['Summa lat.', 'Summa lat']
+  kategorie: zold
+  hledat: ['součet strany']
+  pozn: "Summa lateris – mezisoučet na konci strany přehlídkového rejstříku či účtu."
+- id: podkovar
+  cs: podkovář
+  de: ['Huffschmidt', 'Huffschmit', 'Hufschmidt']
+  kategorie: osoby
+  hledat: ['podkovář']
+  pozn: "Hufschmied – kovář, který kove koně; u jezdeckých oddílů se vydržoval na určitý počet koní."
+- id: polni-plukovnik
+  cs: polní plukovník
+  de: ['Veltoberster', 'Veldt Oberster', 'Veldoberster', 'Veldtoberster']
+  kategorie: velitele
+  hledat: ['poln\w* plukovní']
+  pozn: "Feldoberster – vrchní velitel vojska v poli (u Solmse na kartách karetní hry: Hannibal, Scipio); podle rozhodnutí edice „plukovník“."
+- id: hartsir
+  cs: hartšíř
+  de: ['Hetschier', 'Hetschiere', 'Hartschier']
+  kategorie: velitele
+  hledat: ['hartšíř']
+  pozn: "Hartschier (z ital. arciere, lučištník) – příslušník tělesné jízdní stráže panovníka."
+- id: admiral
+  cs: admirál
+  de: ['Admiral', 'Admirall']
+  kategorie: velitele
+  hledat: ['admirál']
+  pozn: "Velitel loďstva."
+- id: galera
+  cs: galéra
+  de: ['Galleen', 'Galee', 'Galeen']
+  kategorie: jednotky
+  hledat: ['galér']
+  pozn: "Galeere – válečná veslová loď Středomoří."
+- id: karetni-hra
+  cs: karetní hra
+  de: ['Kartenspiel', 'Kartenspiels']
+  kategorie: osoby
+  hledat: ['karetn\w* hr']
+  pozn: "Kartenspiel – Solmsova „válečná karetní hra“ (Sedmá kniha): karty představují úřady, oddíly, děla a vozy dvou vojsk (Hannibal proti Scipionovi) a slouží k nácviku sestavování šiku a ležení."
+- id: bojovy-vuz
+  cs: bojový vůz
+  de: ['Streitwagen', 'streitwagen']
+  kategorie: opevneni
+  hledat: ['bojov\w* v[oů]z']
+  pozn: "Streitwagen – opevněný vůz se střílnami pro vozovou hradbu a obranu ležení."
+- id: krizovy-jezek
+  cs: křížový ježek
+  de: ['creutz Hespel', 'Creutzhespel']
+  kategorie: opevneni
+  hledat: ['křížov\w* ježk']
+  pozn: "Kreuzhaspel – překážka z křížem prostrčených hrotitých kůlů (španělský jezdec) proti průlomu či útoku jízdy."
+- id: slechtic-od-del
+  cs: šlechtic dělostřelectva
+  de: ['Edel man der Artolorei', 'Edelman der Artolorei', 'Edelmann vom Geschütz']
+  kategorie: delostrelectvo
+  hledat: ['šlechtic\w* (při )?dělostřelect']
+  pozn: "Edelmann der Artillerie – šlechtic přidělený k dělostřelectvu jako jeho velitel či dohlížitel (na kartách Sedmé knihy samostatná karta)."

@@ -1,0 +1,45 @@
+id: 9-023v
+list: 23 (9. kniha)
+strana: verso
+sken: 666
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd alle nacht wann mann die wachten wil besetzen/ solt jr oder ewer Leutenant mit dem Musterschreiber die wacht besichtigen/ darmit wann jr etlich so nicht tüglich darzů/ zu alt oder jung weren/ kündt wider hinweg schicken/ vnd ander an jr stat stellen/ derselbigen namen auch auffschreiben lassen/ auch soll keiner wissen wo er wachen soll/ sonder der Musterschreiber Brieflin machen/ wie ein jegliche pforde thorn oder Polwerck heist/ vnd sie der gestalt das loß ziehen lassen.
+  cs: |-
+    a každou noc, když se mají rozestavovat stráže, máte vy nebo váš poručík {Leutenant} spolu s přehlídkovým písařem {Musterschreiber} stráž prohlédnout, abyste mohli poslat pryč ty, kdo k tomu nejsou způsobilí, kdo jsou příliš staří nebo mladí, postavit na jejich místo jiné a dát zapsat i jejich jména. Nikdo také nemá vědět, kde bude stát na stráži; přehlídkový písař má udělat lístky s názvem každé brány, věže nebo bolverku {Polwerck} a dát je takto losovat.
+- typ: odstavec
+  de: |-
+    Jch befinde das gůt sein für alle verräterei/ dann keiner seinen Feinden platz geben kan wo er hin kommen soll/ dann sie das ort nit wissen da sie hin kommen werden/ es soll auch der wachtmeister wissen an welchem ort ein jeglicher wach/ damit wann er befindt das sie nicht an jrem ort bleiben/ straffen lassen/ vnnd ist das ein ding darauff jr grosse achtung haben solt.
+  cs: |-
+    Shledávám, že je to dobrá ochrana proti jakékoli zradě, neboť nikdo nemůže svým nepřátelům určit místo, kam přijde, když [strážní] sami nevědí, kam se dostanou. Vachmistr {wachtmeister} má také vědět, na kterém místě kdo drží stráž, aby je mohl dát potrestat, zjistí-li, že na svém místě nezůstávají. To je věc, na kterou máte velmi dbát.
+- typ: odstavec
+  de: |-
+    Deßgleichen auch die wacht so zu tags zeiten besetzt bei den pforden wolt ich beschicken auch in des Wachtmeisters Hauß/ vnd gleicher gestalt briflin ziehen lassen/ wo ein jegliche Parthei wachen soll/ wie die nachtwacht.
+  cs: |-
+    Stejně tak bych i denní stráž u bran svolával do vachmistrova domu a dal jí stejným způsobem losovat lístky, kde má která skupina {Parthei} stát na stráži, jako u noční stráže.
+- typ: odstavec
+  de: |-
+    Dieweil es ewerm standt nit zu gehörig ist/ euch in ein besatzung zubegeben hab ich euch die Ordnung/ so die jenigen die jhr in einer Stat oder Besatzung leget/ halten sollen/ nachuolgents wil ich euch anzeigen wie sie sich gegen jren Feinden wehrn sollen.
+  cs: |-
+    Protože vašemu stavu nepřísluší uzavírat se do posádky, [popsal] jsem vám řád, který mají zachovávat ti, jež dáte do města nebo do posádky {Besatzung}; dále vám chci ukázat, jak se mají bránit proti svým nepřátelům.
+- typ: odstavec
+  de: |-
+    Erstlich wann sie ewer stat wol versehen vnd zugerüst haben/ wie oben gemelt/ vnd als ein gůt Ordnung gebraucht/ wann sie euch trewlich dienen wöllen müssen sie nit in der Stat bleiben sonder vff dem Landt kriegen wie ewer Feind/ auch tag vnd nacht gedencken mit welcher gestalt vnnd manier sie ewern feinden schaden zufügen künden/ vnd sollen allwegen gůt kundtschaffter haben/ es sei frawen oder man/ Aussetzige oder sonst leut/ vnd nichts on grosse oder gůte kundtschafft handeln/ dann sie in kurtz erkennen künden welche kundtschaffter am gerechtigsten seind/ vnd in dem fall kein gelt sparen/ dann ein Kron jn tausent wider bringen möcht.
+  cs: |-
+    Za prvé: když vaše město dobře zásobili a vyzbrojili, jak bylo výše řečeno, a zavedli všechen dobrý řád, nesmějí – chtějí-li vám věrně sloužit – zůstávat ve městě, nýbrž mají válčit v kraji stejně jako váš nepřítel a dnem i nocí přemýšlet, jakým způsobem by mohli vašim nepřátelům uškodit. Mají mít vždy dobré zvědy {kundtschaffter}, ať ženy, nebo muže, malomocné[^1] či jiné lidi, a nic nepodnikat bez obsáhlých nebo dobrých zpráv; brzy totiž poznají, kteří zvědové jsou nejspolehlivější. Na tom nemají šetřit penězi, neboť jedna koruna[^2] může vynést tisíc.
+- typ: odstavec
+  de: |-
+    Sie sollen auch fleiß ankeren daß sie gůt Fußknecht haben/ die sie täglich hinauß schicken/ etwan vil vnnd zun zeiten wenig/ solches geschicht vmb vilerlei vrsachen willen/ Erstlich mögen sie etwan einen fahen dardurch jr die heimlicheit ewer Feind baß dann sonst niemand erfaren kündt/ deßgleichen auch verderben sie das Landt/ daß die Feind kein Prouiant noch nichts finden künden/ ferrner lernt ewer Volck den weg tag vnd nacht/ das dann inn dem Veld gantz nützlich ist/ werden auch die Feind dardurch offt in die nechste herumb ligende Statt getrieben/ ehe das der gewaltige hauff kompt.
+  cs: |-
+    Mají také dbát, aby měli dobré pěšáky {Fußknecht}, které budou denně vysílat ven, někdy mnoho, jindy málo. Děje se to z mnoha důvodů. Za prvé mohou někdy zajmout někoho, od něhož se o tajných záměrech vašeho nepřítele dozvíte lépe než od kohokoli jiného. Také pustoší kraj, takže nepřítel nenajde proviant {Prouiant} ani nic jiného. Dále se váš lid naučí znát cesty ve dne i v noci, což je v poli velmi užitečné. Tím bývá také nepřítel často zahnán do nejbližších okolních měst dřív, než přitáhne jeho hlavní šik {gewaltige hauff}.
+poznamky:
+- n: 1
+  text: |-
+    *Aussetzige* – malomocní; směli se jako vyděděnci pohybovat mezi oběma stranami a nebyli podezřelí, proto se hodili za zvědy.
+- n: 2
+  text: |-
+    *Kron* – koruna (franc. *écu à la couronne*), zlatá mince obíhající ve Francii a v Nizozemí; řád zde vychází z francouzské předlohy Filipa Klévského.

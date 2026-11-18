@@ -1,0 +1,104 @@
+id: 8-007v
+list: 7 (8. kniha)
+strana: verso
+sken: 602
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item auff 10000 personen muß mann einn Monat 3000 Centner fleysch haben / vnd machen an viehe.
+  cs: 'Dále: na 10 000 osob je třeba mít na měsíc 3000 centů {Centner} masa, což činí na dobytku:'
+- typ: tabulka
+  de:
+  - - 300 Ochsen
+    - ''
+    - 240 Ochsen
+  - - 900 Kůe
+    - ''
+    - 720 Kůe
+  - - 1500 Kälber
+    - Oder mag nemen.
+    - 1315 Kälber
+  - - 300 Hämel
+    - ''
+    - 280 Hämel
+  - - 600 Schaaff.
+    - ''
+    - 413 Schaaff.
+  cs:
+  - - 300 volů
+    - ''
+    - 240 volů
+  - - 900 krav
+    - ''
+    - 720 krav
+  - - 1500 telat
+    - 'Nebo lze vzít:'
+    - 1315 telat[^1]
+  - - 300 skopců
+    - ''
+    - 280 skopců
+  - - 600 ovcí
+    - ''
+    - 413 ovcí
+- typ: odstavec
+  de: |-
+    Wann aber nicht eben also vorhanden / wie hie oben gemelt / sonder an etlichem Viehe ein abgang oder mangel were / so mag mann ein auffwechsel mit Ochsen / Kůen / Hämeln / Schaaffen vnd mit anderm viehe machen / wie der auffwechsel sein soll / volgt.
+  cs: |-
+    Není-li však všechno přesně tak, jak bylo výše uvedeno, a je-li u některého dobytka úbytek či nedostatek, lze provést záměnu mezi voly, krávami, skopci, ovcemi i jiným dobytkem. Jak se má tato záměna provádět, následuje.
+- typ: odstavec
+  de: |-
+    Erstlich für einen Ochsen mögen zwo Kůe genomen werden.
+  cs: |-
+    Předně za jednoho vola lze vzít dvě krávy.
+- typ: odstavec
+  de: |-
+    Item für zwo Kůe mag mann 5 Kälber oder 6 schaaff nemen.
+  cs: |-
+    Dále za dvě krávy lze vzít 5 telat nebo 6 ovcí.[^2]
+- typ: odstavec
+  de: |-
+    Item für ein Kůe mag einer 5 Hämel / oder 3 Hämel 5 schaaff / odder ein hamel 6 schaaff nemen.
+  cs: |-
+    Dále za jednu krávu lze vzít 5 skopců, nebo 3 skopce a 5 ovcí[^3], anebo jednoho skopce a 6 ovcí.
+- typ: odstavec
+  de: |-
+    Item für zwen hämel mag mann 3 schaaff / vnnd für 4 hämel 6 schaaff nemen / Darnach kan ein jeglicher wann ein abgang an etlichem viehe were sich richten.
+  cs: |-
+    Dále za dva skopce lze vzít 3 ovce a za 4 skopce 6 ovcí. Podle toho se může každý zařídit, kdyby nastal úbytek u některého dobytka.
+- typ: odstavec
+  de: |-
+    Wann sichs nun zůtrug daß mangel an fleysch oder Viehe were / vnd der anschlag einn tag einer person ein pfundt fleysch nit ertragen wolt / sonder geringert vnd zwo personen einn tag ein pfundt fleysch geordnet wurde / so mag mann sich auch nach jetzt beschribener Ordnung halten / einn tag 2 Personen ein pfundt fleisch / das inn vorgesetzter Ordnung oder halb theil einen tag oder die wochen / vnd auch des Monats / darnach sich ein jeder verstendiger wol wirt wissen zurichten / Deßgleichen auch wann drei personen verordnet würden / einn tag ein pfundt fleysch / so ist das drittheil zunemen in bemelter Ordnung / wie dann ein anschlag mag beschehen.
+  cs: |-
+    Kdyby se pak stalo, že by byl nedostatek masa či dobytka a rozpočet by neunesl jednu libru {pfundt} masa na osobu a den, takže by se dávka snížila a jedna libra masa na den by se určila pro dvě osoby, lze se i tak držet právě popsaného řádu. Jedna libra masa na dvě osoby a den je totiž polovina předchozího řádu – na den, na týden i na měsíc – a podle toho se každý rozumný člověk bude umět zařídit. Stejně tak, kdyby byla určena jedna libra masa na den pro tři osoby, vezme se z uvedeného řádu třetina, podle toho, jak bude rozpočet stanoven.
+- typ: odstavec
+  de: |-
+    Wo nun weitter Bestellung nötig / hat sich ein jeder verstendiger angefangner rechnung nach / zum besten vnd nach notturfft zurichten.
+  cs: |-
+    Kde bude třeba dalšího zaopatření, nechť se každý rozumný člověk zařídí podle započatého výpočtu co nejlépe a podle potřeby.
+- typ: odstavec
+  de: |-
+    Es sehe mich auch für gůt an / wo mann des viehs ein grosse anzal hett / daß alßdann dasselbig nicht vber einen hauffen geschlacht / sonder wo weyde vorhanden / darinn geschlagen / vnd nach notturfft geschlacht würde.
+  cs: |-
+    Také by se mi zdálo dobré, má-li se velké množství dobytka, aby se neporážel všechen najednou, nýbrž aby se tam, kde je pastva, vyhnal na ni a porážel se podle potřeby.
+- typ: odstavec
+  de: |-
+    Vnd was von viehe auff den feinden erobert / soll mann dem Prouiantmeister / so mann das zuuerkauffen gemeint / zuuor anzeigen / damit solches von jm / was billich vnd wert ist / geschetzt werde.
+  cs: |-
+    A dobytek ukořistěný na nepříteli se má, hodlá-li jej kdo prodat, nejprve ohlásit proviantmistrovi {Prouiantmeister}, aby jej spravedlivě a podle skutečné hodnoty ocenil.
+- typ: odstavec
+  de: |-
+    Wo auch einer für sich selbst / ein stück 10 oder 12 erobert hett / vnd wolt solches für sich selbst oder seinen Herren behalten / wer nit hoch an zu fechten / dieweil es nit tapffer hauffen weren.
+  cs: |-
+    Kdyby také někdo sám ukořistil nějakých 10 nebo 12 kusů a chtěl si je ponechat pro sebe nebo pro svého pána, nemělo by se mu to příliš upírat, protože by nešlo o velká stáda.
+poznamky:
+- n: 1
+  text: |-
+    Chyba tisku shodná s Druhou knihou ([[040v|list 40v]]): v pravém sloupci sazeč přenesl čísla skopců a ovcí z týdenní tabulky (280 a 413) a u telat má 1315 místo 1350; pro 3000 centů by odpovídalo 240 volů, 720 krav, 1350 telat, 1200 skopců a 1770 ovcí. Levý sloupec dává přesně 3000 centů.
+- n: 2
+  text: |-
+    Dvě krávy váží 300 liber; váhově jim odpovídá teprve 5 telat (180 liber) a k tomu 6 ovcí (120 liber). Druhá kniha ([[040v|list 40v]]) zde také čte spojení „a“ místo „nebo“.
+- n: 3
+  text: |-
+    Tisk má „3 Hämel 5 schaaff“ (90 + 100 = 190 liber); Druhá kniha ([[041r|list 41]]) má „drei Hämel vnd drei Schaaff“ (150 liber), což váze krávy odpovídá.

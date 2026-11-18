@@ -1,0 +1,31 @@
+id: 9-007v
+list: 7 (9. kniha)
+strana: verso
+sken: 634
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Nach dem Geschütz soll der Prouos vnd die Prouiant/ auch die wagen mit einer gůten Ordnung ziehen/ vnnd nach der Prouiant der Troß/ vnd wann solche Ordnung gemacht/ soll der Prouos des Marschalcks der erst sein vnd auffblasen lassen/ damit sich ein jeglicher rüste.
+  cs: |-
+    Za děly {Geschütz} má v dobrém pořádku táhnout profous {Prouos} s proviantem {Prouiant} a vozy a za proviantem trén {Troß}. Když je tento pořádek sestaven, má maršálkův profous jako první dát troubit, aby se každý připravil.
+- typ: odstavec
+  de: |-
+    Wann mann zum dritten mal auffbleßt/ soll ein jeglicher vnder sein Fendlin/ vnnd in das Veld ziehen/ alda ein Schlachtordnung im vor vnd nachzug machen/ vnnd wann der Oberst oder der Marschalck nicht vorhanden/ soll gedachter Prouos das haupt vnder jnen sein/ Wann nun die Ordnung gemacht/ soll der Marschalck der erst im vorzug sein/ jhr solt jhm auch nach dem es gefehrlich ist leut zugeben/ auch wolt ich dem Marschalck sein hauffen täglich abwechseln/ der gestalt welche Rot heut mit jhm gezogen/ wolt ich jhm morgens ein ander zugeben/ damit die Hauptleut kein klag künden haben/ die andern seien stets im vorzug/ so mussen sie dahinden bleiben/ Deßhalben ich die jenigen so heut im vorzug gewesen/ morgen im nachzug vnd nachuolgends in die Schlachtordmung verordnen wolt/ da jr vnd ewer hauff jeder zeit vnder ewerm Fendlin sein solt/ doch wann jr einen solchen mechtigen hauffen zu roß vnnd fuß hett/ daß in ewerm vorzug Schlachtordnung vnd nachzug alle drei starck machen künden/ möcht jr wol nicht abwechseln/ sonder einen jeglichen vnder seinem hauffen bleiben lassen/ Wann jr nun der gestalt Leut zugeben/ wo es von nöten sein wirdt er sich zu dem Quartirmeister vnd hauffen schlagen/ wie obsteht.
+  cs: |-
+    Když se troubí potřetí, má každý táhnout pod svou korouhev či praporec {Fendlin} a do pole a tam sestavit šik {Schlachtordnung} v předvoji i v zadním voji. Není-li přítomen plukovník {Oberst} ani polní maršálek {Marschalck}, má být řečený profous jejich hlavou. Když je šik sestaven, má být maršálek první v předvoji {vorzug}; podle toho, jak je to nebezpečné, mu máte také přidat lidi. Já bych maršálkovi jeho houf {hauffen} také denně střídal, a to tak, že rotu {Rot}, která s ním táhla dnes, bych mu zítra nahradil jinou, aby si hejtmani nemohli stěžovat, že jiní jsou stále v předvoji, a oni musejí zůstávat vzadu. Proto bych ty, kdo dnes byli v předvoji, zítra ustanovil do zadního voje {nachzug} a potom do hlavního šiku, kde máte být vy a váš houf vždy pod vaší korouhví. Měl-li byste však tak mocný houf jízdy i pěchoty, že by se daly učinit silnými všechny tři – předvoj, hlavní šik i zadní voj –, nemusíte střídat, nýbrž můžete každého nechat u jeho houfu. Když [maršálkovi] takto přidáte lidi, má se tam, kde bude třeba, připojit ke kvartýrmistrovi {Quartirmeister} a k houfu, jak stojí výše.
+- typ: odstavec
+  de: |-
+    Damit jr ewer Ordnung stets halten kündet/ solt jr die Ordnung in ein zug ordnung theilen/ Ich hab vil Manirn der zug ordnung gesehen/ etwan daß mann sich zum meisten daruor besorgt hat/ etwan zum letsten/ vnd in dem fall soll einer die Ordnung wissen zu enden/ nach dem das Landt weit oder eng ist/ Aber meinem gůt düncken nach/ solt jhr in einem engen Landt ewerm Marschalck nicht vil zu roß zugeben/ sonder allein etlich zu fuß/ vil oder wenig nach dem jhr euch besorget/ vnd vor jnen allein auch vor euch vnd den wagen vier oder sechs Falckenetlin.
+  cs: |-
+    Abyste mohl svůj pořádek {Ordnung} stále udržet, máte šik rozdělit do pochodového pořádku {zug ordnung}. Viděl jsem mnoho způsobů pochodového pořádku: někdy se člověk nejvíce obával [nebezpečí] vpředu, jindy vzadu, a podle toho má umět pořádek změnit,[^1] podle toho, je-li země otevřená, či úzká. Podle mého dobrého zdání byste však maršálkovi v úzké zemi neměl přidávat mnoho jízdy, nýbrž jen několik pěších, víc či méně podle toho, čeho se obáváte; a před nimi, jakož i před vámi a vozy, [mají jet] čtyři nebo šest falkonetů {Falckenetlin}.
+- typ: odstavec
+  de: |-
+    Vnb wann euch bedünckt ewer Wagen nemen zuuil weitten ein/ daß jr denen im vorzug nicht wol helffen kündt/ wolt ich wann die Wagen mit dem Geschütz für weren/ noch einen grossen hauffen knecht dem Geschütz nach heissen ziehen/ nachuolgends die andern Wagen mit der Prouiant vnd Troß fürziehen lassen/ vnd wann sie alle für weren/ wolt ich den gantzen Reisigen zeug inn einer Ordnung halten lassen/ nach dem dann der weg vnd die weitte erleiden möcht/ vnd
+  cs: |-
+    A zdá-li se vám, že vaše vozy zabírají příliš mnoho místa, takže byste nemohl dobře pomoci těm v předvoji, dal bych, až by vozy s děly přejely, za děly táhnout ještě velký houf knechtů {knecht} a potom nechal přejet ostatní vozy s proviantem a trénem. A až by všechny přejely, nechal bych celou jízdu {Reisigen zeug} stát v šiku, jak by to cesta a prostor snesly, a
+poznamky:
+- n: 1
+  text: |-
+    *zum meisten … zum letsten* – patrně „nejvíce vpředu … naposled (vzadu)“, tj. podle toho, odkud hrozí nebezpečí; *enden* zde ve smyslu *ändern* (změnit). Tisk na této straně má také tiskové chyby *Schlachtordmung* a *Vnb* (místo *Vnd*).

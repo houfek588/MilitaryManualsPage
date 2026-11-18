@@ -1,0 +1,38 @@
+id: 9-016r
+list: 16 (9. kniha)
+strana: recto
+sken: 651
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    darumb es nicht gůt ist on mercklich vrsachen / solliches anzufahen vnd vnderstehn.
+  cs: |-
+    a proto není dobré se do toho bez závažných důvodů pouštět a podnikat to.
+- typ: odstavec
+  de: |-
+    Es ist auch ein ander Manier ein Statt zu graben / wann jr zu der Statt geschantzt habt / solt jr leut haben die darinn graben / vnnd allweg das loch mit holtzwerck verbawen / wann jhr nun so weit kommen sind daß jr vermeint die Maur sei schier vnder graben / solt jr stro vnnd reiser hinein schieben vnnd Puluer darunder legen / nachuolgends ewer Volck inn ein Ordnung stellen als ob jhr die Statt stürmen wolt / wann jr also zum anlauff gerüst / solt jr das Puluer anzünden lassen / vnd in dem die Maur vmbfelt anlauffen / vnd nit heissen anzünden biß jr gerecht seind / damit werd jr jnen einen grossen schaden zu fügen vnd die Statt erobern.
+  cs: |-
+    Je také jiný způsob, jak město podkopat. Když jste se k městu přiblížili šancemi {geschantzt}, máte mít lidi, kteří v nich kopou a otvor vždy vyztuží dřevěnou výdřevou. Když už jste se dostali tak daleko, že se domníváte, že hradba je skoro podkopána, máte tam nastrkat slámu a roští a pod to položit prach {Puluer}. Potom postavte svůj lid do šiku {Ordnung}, jako byste chtěli na město útočit {stürmen}. Když jste takto připraveni k útoku, dejte prach zapálit, a jakmile se hradba zřítí, vyrazte do útoku. Zapálit však nedávejte, dokud nejste připraveni. Tak jim způsobíte velkou škodu a město dobudete.
+- typ: odstavec
+  de: |-
+    Auch ist noch ein andere Manier Stätt zugewinnen / daruon ich hab hörn reden / vnd ist erdacht worden da Hertzog Carlen vor Neuß ist gelegen / doch ist sie nicht volnbracht worden / das ist ein Blochauß das auff Rädern steht / welches mann weit von der Statt anfahen soll / vnd vil Fußknecht haben vngefehrlich fünff oder sechs tausent / wann mann es angefangen hat / soll mann weder tag noch nacht feiren biß manns volbringt / derhalben mann die Fußknecht inn ein Ordnung stellen muß / damit die růhen wann die andern arbeiten / vnd das Erdrich von ersten eins manns hoch erhöcht / vnd inn der breit da mann es dann machen will / mussen etlich Knecht da oben sein die das Erdrich empfahen welches die hieunden hinauff werffen / vnd also fürtfarn biß daß sie einen Berg bei dem graben gemacht haben / vnd wann dann der Berg gemacht ist müst jr Pasteien darauff machen / damit sie nit herauß vnder euch fallen / nachuolgends sollen die Fußknecht stetigs den Berg in Graben werffen / wann nun der Grab biß an die Maur erfült ist kündt jr mit gůten růhen hinein kommen.
+  cs: |-
+    Je ještě jiný způsob dobývání měst, o kterém jsem slyšel vyprávět. Byl vymyšlen, když vévoda Karel ležel před Neussem,[^1] ale nebyl dokončen. Je to srub {Blochauß}, který stojí na kolech; má se začít stavět daleko od města a je k tomu třeba mnoho pěších knechtů {Fußknecht}, asi pět nebo šest tisíc. Když se s ním začne, nemá se odpočívat ve dne ani v noci, dokud není hotov. Proto je třeba pěší knechty rozdělit do pořadí {Ordnung}, aby jedni odpočívali, zatímco druzí pracují. Zemina se nejprve navrší do výše jednoho muže a do takové šíře, jakou chcete stavbu mít. Nahoře musí být několik knechtů, kteří přijímají zeminu, jež ti dole házejí nahoru, a tak se pokračuje, dokud u příkopu {graben} nenavrší kopec. Když je kopec hotov, musíte na něm postavit bašty {Pasteien}, aby [obránci] nemohli vyrazit mezi vás. Potom mají pěší knechti kopec ustavičně házet do příkopu. Když je příkop až k hradbě zasypán, můžete se v klidu dostat dovnitř.
+- typ: odstavec
+  de: |-
+    Jch habs nie gesehen auch nichts gündtlichs daruon gehört / dann allein von hör ich sagen / dünckt mich ein sach sein damit mann lang vmbgehn muß / doch mag es wol geschehen / hab aber euch vil erdacht damit es gůt zu fürkommen were / aber wie dem allem / ist wol zuuermůten das nit souil leut in der statt seien / die das Erdrich herauß werffen / als der hie auß so es hinein werffen / aber dieweil ich es nie gesehen will ichs euch weder rathen noch mißrathen.
+  cs: |-
+    Nikdy jsem to neviděl a nic podrobného jsem o tom neslyšel, jen z doslechu. Zdá se mi, že je to věc, s níž se člověk musí dlouho zabývat, ale může se to jistě podařit. Vymyslel jsem však také mnohé, čím by se tomu dalo dobře předejít.[^2] Ať je tomu jakkoli, lze předpokládat, že ve městě nebude tolik lidí, kteří by zeminu vyhazovali ven, jako je venku těch, kdo ji házejí dovnitř. Protože jsem to však nikdy neviděl, nechci vám to ani radit, ani rozmlouvat.
+- typ: odstavec
+  de: |-
+    Auch ist ein ander Manier schlösser zu gewinnen auff einem Velsen / daß das schloß vndergraben ist worden / wo mann anderst vor Wasser darzů kommen kan / aber ein Hauß odder schloß so auff einem Velsen ligt / habe ich vor etlichen Jaren einen Velsen gegraben weitter
+  cs: |-
+    Je také jiný způsob, jak dobývat hrady na skále: hrad se podkope, pokud se k němu ovšem dá kvůli vodě dostat. U domu nebo hradu, který leží na skále, jsem však před několika lety viděl skálu prokopanou dál,
+poznamky:
+- n: 1
+  text: Karel Smělý, vévoda burgundský, obléhal Neuss na Rýně marně od července 1474 do června 1475.
+- n: 2
+  text: Tisk má „hab aber euch vil erdacht“ – „euch“ zde patrně stojí za „auch“.

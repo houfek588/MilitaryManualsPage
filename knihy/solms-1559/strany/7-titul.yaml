@@ -1,0 +1,37 @@
+id: 7-titul
+list: titulní list (7. kniha)
+strana: recto
+sken: 547
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das sibend Bůch ist Ein Kartenspiel genant/ mit allen Obersten Kriegßleuten vnd Kriegßuolck zu Roß vnd Fuß/ Auch mit allerlei Rüstung/ als Heerwagen/ Artoloreiwagen/ Sturmwagen/ Marcatantenwagen/ vnd Schiffbrücken/ alles mit Figurn vnd Schrifften angezeigt.
+  cs: |-
+    Sedmá kniha se nazývá Karetní hra {Kartenspiel} – se všemi nejvyššími válečníky {Obersten Kriegßleuten} a válečným lidem {Kriegßuolck} na koni i pěšky, také se vší výzbrojí {Rüstung}, jako jsou válečné vozy {Heerwagen}, dělostřelecké vozy {Artoloreiwagen}, útočné vozy {Sturmwagen}, markytánské vozy {Marcatantenwagen} a lodní mosty {Schiffbrücken}; vše ukázáno vyobrazeními a popisy.
+- typ: odstavec
+  de: |-
+    Vnd ist Hannibal von Cartago der widder die Römer ein Veldoberster/ Vnd Publius Carnelius Scipio der Römer Veldoberster/ gewesen/ gegen einander in diß Buch geordnet.
+  cs: |-
+    A Hannibal z Kartága, který byl polním plukovníkem {Veldoberster} proti Římanům, a Publius Cornelius[^1] Scipio, polní plukovník Římanů, jsou v této knize postaveni proti sobě.[^2]
+- typ: obrazek
+  soubor: drevorez-547.jpg
+  popis: |-
+    Dřevořez císařského znaku Karla V. (z téhož štočku jako na titulních listech předchozích knih): uprostřed korunovaný štít s dvouhlavým říšským orlem a habsbursko-španělským srdečním štítkem, obklopený řetězem řádu Zlatého rouna. Po stranách stojí dva korunované Herkulovy sloupy přidržované dvěma okřídlenými putti a ovinuté nápisovou stuhou s císařským heslem „PLVS. – VLTRE“.
+- typ: odstavec
+  de: |-
+    Getruckt im M. D. Lix. Jar.
+  cs: |-
+    Tištěno léta 1559.[^3]
+poznamky:
+- n: 1
+  text: |-
+    Tisk má chybně *Carnelius*; jde o Publia Cornelia Scipiona Africana staršího (236–183 př. Kr.), vítěze nad Hannibalem u Zamy (202 př. Kr.).
+- n: 2
+  text: |-
+    Titul je tištěn střídavě červeně a černě. Hannibal a Scipio slouží v knize jen jako vzorová jména pro karty vojenských úřadů obou stran (viz [[7-002v|výklad na listu 2]] a [[7-005v|list 5]]).
+- n: 3
+  text: |-
+    Rub titulního listu (sken 548) je nepotištěný, s pouhým prosvítáním tisku, a proto se v edici vynechává.

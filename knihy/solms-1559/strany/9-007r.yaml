@@ -1,0 +1,30 @@
+id: 9-007r
+list: 7 (9. kniha)
+strana: recto
+sken: 633
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    die zal der Knecht so sie vnder jnen haben/ begriffen/ vnnd dasselbig Register soll er stets bei jm haben/ daß er einen jeglichen was er thůn soll/ heisse/ vnd keiner mehr dann der ander beschwert werde/ vnd eines namen mit einer glufen oder sonst zeichen/ damit er abwechseln künde/ auch allweg die nacht daruor anzeigen wer den vorzug auff morgens haben soll/ mit wieuil personen zu roß oder fuß/ auch wie gefehrlich es sei der Feind halben/ Vnd soll der Quartirmeister sein wacht auch den jenigen so auff jn bescheiden in gůter gewarsam haben/ biß jr in ewer Leger kompt/ Wann aber der weg gefehrlich were/ soll jm der Marschalck desto mehr leut zu geben/ vnnd mit jnen einen auß eim jeglichen Quartir/ damit sie die hütten vnnd anders helffen machen/ Deßgleichen auch sollen die Furirer der Fürsten vnd Herren mit gedachtem Quartirmeister vorhin ziehen/ er soll auch verhůten daß keiner in ein Dorff oder sonst falle vnd dasselbig blindere/ vnd stehle was er findet/ dann groß vnwillen darauß entspringen/ vrsach halben wann einem erlaubt würde/ so wöllen die andern alle hernach lauffen/ vnd wirt ewer Ordnung nicht gehalten/ kündt sie auch nicht zusamen bringen wann jr etwas handeln wolt/ vnd auch durch jhr vnordnung möchten etliche gefangen werden/ von welchen die Feinde erfarn würden ewer vnordenlich wesen/ das nicht gůt sein würde/ auch ists schand wann mann leut also liederlich verleurt/ vnd ein ehr wann mann sich wol helt.
+  cs: |-
+    počet knechtů {Knecht}, které mají pod sebou. Tento rejstřík má mít stále u sebe, aby každému přikázal, co má činit, a aby nikdo nebyl zatížen víc než druhý. Jméno [toho, kdo je na řadě,] si má označit špendlíkem nebo jinou značkou, aby mohl [službu] střídat. Také má vždy večer předem oznámit, kdo má mít ráno předvoj {vorzug}, s kolika osobami na koni či pěšky a jak je to kvůli nepříteli nebezpečné. Kvartýrmistr {Quartirmeister} má svou stráž i ty, kdo jsou mu přiděleni, mít v dobrém opatrování, dokud nepřijdete do svého ležení. Byla-li by však cesta nebezpečná, má mu polní maršálek {Marschalck} přidat tím více lidí a s nimi po jednom z každého kvartýru {Quartir}, aby pomohli stavět chýše a jiné věci. Stejně tak mají s řečeným kvartýrmistrem táhnout napřed furýři {Furirer} knížat a pánů. Kvartýrmistr má také zabránit, aby se nikdo nevrhl do vesnice či jinam, nevyplenil ji a nekradl, co najde, neboť z toho vzniká velká nevole. Kdyby se to totiž jednomu dovolilo, chtěli by se za ním hnát všichni ostatní; váš pořádek {Ordnung} by se nedodržel a nemohl byste lid shromáždit, kdybyste chtěl něco podniknout. Pro jejich nepořádek by také mohli být někteří zajati a od nich by se nepřátelé dozvěděli o vašem nepořádném počínání, což by nebylo dobré. Je také hanba, když se lidé takto lehkomyslně ztrácejí, a čest, když se člověk drží dobře.
+- typ: odstavec
+  de: |-
+    Item der Quartirmeister soll das Veldleger acht oder zehen Armbrost schůß lang machen/ daß die Wagen inn einer Ordnung gestelt werden mögen/ vnd alda nicht verrücken/ biß daß der Marschalck zu jm kompt/ vnd dieweil einen geschickten weisen man verordnen der mit sechßzehen oder zwentzig Reuttern/ ein wenig voran ziehe/ welche so das leger bei nacht geschlagen wirt/ dienstlich sein werden zu losen/ vnd hören auff dieselbigen seiten/ wann es aber bei tag ist für einfallen/ sie sollen sich nicht zu ferr hinauß geben/ biß daß der Marschalck mit dem hauffen in die Ordnung hernach zeucht/ alßdan sollen sie fürtfarn jrem beuelch nach.
+  cs: |-
+    Dále má kvartýrmistr udělat polní ležení {Veldleger} osm nebo deset dostřelů z kuše dlouhé, aby se vozy mohly postavit v řadě, a nemá se odtamtud hnout, dokud k němu nepřijde maršálek. Mezitím má ustanovit zkušeného a moudrého muže, který s šestnácti nebo dvaceti jezdci {Reuttern} pojede kousek napřed. Rozbíjí-li se ležení v noci, poslouží k tomu, aby na té straně naslouchali a hlídkovali; je-li však den, aby chránili před přepadem.[^1] Nemají se však vydávat příliš daleko, dokud za nimi maršálek s houfem {hauffen} nepřitáhne v šiku; potom mají pokračovat podle svého rozkazu.
+- typ: odstavec
+  de: |-
+    Wann nur die beschribene Pferd der gestalt auff die beut geschickt/ soll der Büchsenmeister vnd des Marschalcks Prouos die wagen ordnen/ vnd bei jnen haben den Hauptman der Fußknecht/ vnd ein gůt theil seiner Knecht die jnen helffen die Wagenburg zu machen/ vor jnen gehn vier Falckenetlin/ vnd nach jhnen die grossen stück mit sampt dem Puluer vnd Kugeln/ vnnd soll der Büchsenmeister mit sampt dem Prouosen acht haben/ das kein wagen odder Karren zwischen das Geschütz kommen.
+  cs: |-
+    Když jsou popsaní koně {Pferd} takto vysláni napřed za kořistí {beut},[^2] mají puškař {Büchsenmeister} a maršálkův profous {Prouos} seřadit vozy a mít u sebe hejtmana pěších knechtů {Fußknecht} a dobrou část jeho knechtů, kteří jim pomohou udělat vozovou hradbu {Wagenburg}. Před nimi jdou čtyři falkonety {Falckenetlin}, za nimi velké kusy spolu s prachem a koulemi. Puškař má spolu s profousem dbát, aby se mezi děla {Geschütz} nedostal žádný vůz ani kára.
+poznamky:
+- n: 1
+  text: |-
+    *wann es aber bei tag ist für einfallen* – *für* ve smyslu „proti, před“ (*vor*); jezdci mají za dne chránit ležení před přepadem nepřítele.
+- n: 2
+  text: |-
+    *auff die beut* – doslova „na kořist“; míněno patrně vyslání jízdního předvoje (výše popsaných 16–20 jezdců) na výzvědy a k případnému výpadu.

@@ -1,0 +1,36 @@
+id: 9-028v
+list: 28 (9. kniha)
+strana: verso
+sken: 676
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Aber wann jr sehet daß jr weder mit leuten noch grossen schiffen ewern feinden gleich seind/ wolt ich warlich nicht der massen handeln/ sonder alßlang ich künde vmb sie herumb faren/ vnd mein geschütz vnder sie gehn lassen/ dann ich wol gesehen das ein groß Armada dardurch geschlagen worden ist.
+  cs: |-
+    Vidíte-li však, že se svému nepříteli nevyrovnáte ani v lidech, ani ve velkých lodích, věru bych tak nejednal, nýbrž bych kolem něho kroužil, jak dlouho bych mohl, a pálil do něho ze svých děl {geschütz}; viděl jsem totiž, že tak bylo poraženo i velké loďstvo {Armada}.
+- typ: odstavec
+  de: |-
+    Es ist sonst ein ander manier sich auff wasser zuschlagen/ wann jr in einem port vberfallen werdet/ vnnd ewer feind stercker kommen dann jhr/ in dem fal hat es vil Maniern sich zuwehrn/ nach dem der port ist in der feind oder freund landt/ wann er in der freund landt ist/ were mein rath/ daß jr die schiff hinden als nahe jr kündet zum landt stellet/ vnd als eng in einander als es geschehen oder die zeit erleiden mag/ dann wann yr das thut dörffen der feinde schiff nit so nahe her zu rücken/ darmit sie nit an das landt anfaren/ dann wann die schiff in lauff kommen/ würden sie die nicht künden halten/ vnnd wolt ein groß stück auff das landt legen lassen/ dann mann vil gewisser auff dem landt/ dann auff dem wasser scheust/ darmit der feinde schiff zu grund schiessen.
+  cs: |-
+    Jiný způsob boje na vodě nastává, když jste přepadeni v přístavu a nepřítel přijde silnější než vy. V takovém případě je mnoho způsobů, jak se bránit, podle toho, leží-li přístav v nepřátelské, nebo v přátelské zemi. Leží-li v přátelské zemi, radil bych vám postavit lodě zádí co nejblíže ke břehu a co nejtěsněji vedle sebe, jak to jen jde nebo jak to čas dovolí. Uděláte-li to, nepřátelské lodě se neodváží přiblížit tak blízko, aby nenajely na břeh; když se totiž lodě rozjedou, nemohli by je zastavit. Také bych dal na břeh postavit velké dělo {stück}, neboť ze země se střílí mnohem jistěji než z vody, a jím nepřátelské lodě potopit.
+- typ: odstavec
+  de: |-
+    Wann es aber stil in dem port were/ wie es dann offt ist/ wolt ich die schiff so nahe in einander stellen/ daß mann von einem inn das ander lauffen künde/ vnnd sage euch zu/ wann sich der fall zu trüge daß nicht böß ist/ vnnd dünckt mich das durch solliche mittel wann schon die feind noch so vil schiff hetten als jr/ euch keinen schaden thun künden.
+  cs: |-
+    Je-li však v přístavu bezvětří, jak tomu často bývá, postavil bych lodě tak blízko k sobě, aby se dalo přebíhat z jedné na druhou. A ujišťuji vás, že kdyby k tomu došlo, není to špatné; zdá se mi, že takovými prostředky by vám nepřítel nemohl uškodit, i kdyby měl ještě jednou tolik lodí jako vy.
+- typ: odstavec
+  de: |-
+    Wann jr aber an einem ort seind da mann Galleen brauchte/ vnd jr also groß Nachen hett/ vnd die sach zuschlagen in dem freien weitten Meer keme/ solt jr ewer geschütz auff sie abgehn lassen/ ehe jhr mit jhnen treffen/ Dann ich euch für war zusag daß die Galleen/ wann es still auff dem Meer vnd nichts sonder windig ist/ vil schaden thun/ aber wann ein grosser windt geht/ so stosset jhr mit ewern grossen schiffen die Galleen das sie zu grundt gehn/ so es aber stil ist schiessen sie ewer schiff hart/ dann sie nider seind/ vnd vil gewisser dann jr in den hohen schiffen schiessen/ vnd ist ein gůts ding mit den Galleen auff den wasser wann jr sie habt/ damit wann jr Galleen wider Galleen habt/ werden der feinde Galleen ewern grossen schiffen desto weniger schaden zufügen künden/ vnd ewer Galleen als starck wie die andern schlagen sie sich weit vor euch/ wann sie aber schwecher seind so schlagen sie sich nahe bei euch.
+  cs: |-
+    Jste-li však na místě, kde se užívá galér {Galleen}, a máte jen velké lodě {Nachen}[^1], a došlo by k bitvě na volném širém moři, máte na ně vypálit ze svých děl dřív, než se s nimi střetnete. Ujišťuji vás totiž, že galéry nadělají mnoho škody, je-li na moři klid a nijak zvlášť nefouká. Když však vane silný vítr, srazíte svými velkými loďmi galéry ke dnu. Je-li ale klid, ostřelují vaše lodě tvrdě, protože jsou nízké a střílejí mnohem jistěji než vy z vysokých lodí. Proto je dobrá věc mít na vodě galéry, máte-li je: máte-li galéry proti galérám, mohou nepřátelské galéry vašim velkým lodím méně uškodit. Jsou-li vaše galéry stejně silné jako ty druhé, bijí se daleko před vámi; jsou-li však slabší, bijí se blízko u vás.
+- typ: odstavec
+  de: |-
+    Auß der vrsach wolt ich euch rathen/ das jr Galleen bei ewern grossen Nachen hett/ dieweil jr mit den grossen schiffen alwegen im tieffen Meer faren müsset/ vnd das Landt nicht inhalten künden/
+  cs: |-
+    Z toho důvodu bych vám radil mít u svých velkých lodí galéry. Protože s velkými loďmi musíte vždy plout po hlubokém moři a nemůžete se držet u břehu,
+poznamky:
+- n: 1
+  text: |-
+    *groß Nachen* – velké plachetní lodě (franc. *nefs*, karaky) na rozdíl od nízkých veslových galér; *Nachen* zde neznamená člun.

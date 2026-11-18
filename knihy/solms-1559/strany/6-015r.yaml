@@ -1,0 +1,78 @@
+id: 6-015r
+list: 15 (6. kniha)
+strana: recto
+sken: 521
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['', 'Summa', '33 gulden 9 batzen.']
+  - ['Summa lat.', 'Gelts', '124 flo. 12 batz.']
+  - ['', 'Pferd', '35']
+  - ['', 'Wagen.', '3']
+  - ['', 'Rub von Leierbach.', '']
+  - ['16', 'Item hat vff den musterplatz 10 meiln/ vnd ist 6 tag mit 7 pferden gereiset vnd stilgelegen/ macht zu 6 batzen gerechnet', '16 flo. 12 batzen.']
+  - ['', 'Ein Wagen', '4 flo. 12 batz.']
+  - ['', 'Summa', '21 gulden 9 batzen.']
+  - ['', 'Velten Mörlen.', '']
+  - ['17', 'Item hat auff den musterplatz 8 meiln vnd ist 7 tag gereiset vnd stilgelegen/ thůt jedes Roß jeden tag 6 batzen zusamen', '16 gulden.']
+  - ['', 'Christoffel Linsing.', '']
+  - ['18', 'Item hat auff den musterplatz 12 meiln ist 6 tag mit 6 pferden gereist vnd stilgelegen/ jeden tag jedes pferd 6 batzen/ thůt', '14 flo. 6 batz.']
+  - ['', 'Ein Wagen', '2 gulden 6 batzen.']
+  - ['', 'Summa', '16 gulden 12 batzen.']
+  - ['', 'Peter Paul Meissenburg.', '']
+  - ['19', 'Item hat auff den musterplatz 4 meiln/ thun 2 Roß 1 tag jedes zu 6 batzen', '12 batzen']
+  - ['', 'Summa per se', '']
+  - ['Summa lat.', 'Gelts', '55 flo. 3 batz.']
+  - ['', 'Pferd', '23']
+  - ['', 'Wagen', '1½']
+  - ['', 'Fritz Waltschmit.', '']
+  - ['20', 'Item hat auff den musterplatz 12 meiln/ vnnd ist 8 tag mit 7 Rossen gereiset vnd stilgelegen/ machen 7 pferd', '22 flo. 6 batzen']
+  - ['', 'Ein Wagen', '6 flo. 6 batz.']
+  - ['', 'Summa', '28 gudlen 12 batzen.']
+  - ['', 'Daniel Newrad.', '']
+  - ['21', 'Item hat auff den musterplatz 1 tagreiß/ vnd ist 4 tag stilgelegen seind 5 tag jeden tag jedes Roß 6 batz. thun 6 Roß 5 tag', '12 flo.']
+  - ['', 'Jorg Premer.', '']
+  - ['22', 'Item hat auff den musterplatz reitens vnd stilligens 5 tag thut auff 5 Roß 5 tag', '10 gulden.']
+  - ['', '1 Wagen', '2 flo. 6 batzen.']
+  - ['', 'Summa', '12 gulden 6 batzen.']
+  - ['', 'Christoffel vnd Philips Schütz.', '']
+  - ['23', 'Item haben vff den Musterplatz reitens vnd stilligens jeden tag vffs Roß 6 batzen/ thůn 4 Roß 6 tag', '9 gulten 9 batzen.']
+  cs:
+  - ['', 'suma', '33 zlatých {gulden} 9 bacenů {batzen}']
+  - ['součet strany {Summa lat.}', 'peněz', '124 zl. {flo.} 12 bac.[^1]']
+  - ['', 'koní {Pferd}', '35']
+  - ['', 'vozů {Wagen}', '3']
+  - ['', 'Rub von Leierbach.', '']
+  - ['16', 'Dále: měl na přehlídkové místo {musterplatz} 10 mil {meiln} a 6 dní byl se 7 koňmi na cestě a ve stání {gereiset vnd stilgelegen}; počítáno po 6 bacenech, činí', '16 zl. 12 bac.']
+  - ['', 'jeden vůz', '4 zl. 12 bac.']
+  - ['', 'suma', '21 zlatých 9 bacenů']
+  - ['', 'Velten Mörlen.', '']
+  - ['17', 'Dále: měl na přehlídkové místo 8 mil a 7 dní byl na cestě a ve stání; na každého koně {Roß} každý den 6 bacenů, dohromady', '16 zlatých']
+  - ['', 'Christoffel Linsing.', '']
+  - ['18', 'Dále: měl na přehlídkové místo 12 mil a 6 dní byl se 6 koňmi na cestě a ve stání; každý den na každého koně 6 bacenů, činí', '14 zl. 6 bac.']
+  - ['', 'jeden vůz', '2 zlaté 6 bacenů']
+  - ['', 'suma', '16 zlatých 12 bacenů']
+  - ['', 'Peter Paul Meissenburg.', '']
+  - ['19', 'Dále: měl na přehlídkové místo 4 míle; činí 2 koně za 1 den, každý po 6 bacenech', '12 bacenů']
+  - ['', 'suma sama o sobě {per se}', '']
+  - ['součet strany', 'peněz', '55 zl. 3 bac.']
+  - ['', 'koní', '23']
+  - ['', 'vozů', '1½']
+  - ['', 'Fritz Waltschmit.', '']
+  - ['20', 'Dále: měl na přehlídkové místo 12 mil a 8 dní byl se 7 koňmi na cestě a ve stání; činí 7 koní', '22 zl. 6 bac.']
+  - ['', 'jeden vůz', '6 zl. 6 bac.']
+  - ['', 'suma', '28 zlatých 12 bacenů']
+  - ['', 'Daniel Newrad.', '']
+  - ['21', 'Dále: měl na přehlídkové místo 1 den cesty a 4 dny stál, to je 5 dní; každý den na každého koně 6 bacenů, činí 6 koní za 5 dní', '12 zl.']
+  - ['', 'Jorg Premer.', '']
+  - ['22', 'Dále: měl na přehlídkové místo 5 dní jízdy a stání {reitens vnd stilligens}; činí na 5 koní za 5 dní', '10 zlatých']
+  - ['', '1 vůz', '2 zl. 6 bacenů']
+  - ['', 'suma', '12 zlatých 6 bacenů']
+  - ['', 'Christoffel a Philips Schütz.', '']
+  - ['23', 'Dále: měli na přehlídkové místo jízdy a stání, každý den na koně 6 bacenů; činí 4 koně za 6 dní', '9 zlatých 9 bacenů']
+poznamky:
+- n: 1
+  text: Součet strany za položky 12–15 (Löwenstein, Mörlen, Volckerßhausen, Hunt); s tištěnými sumami (18 zl. 3 bac. + 18 zl. + 48 zl. + 33 zl. 9 bac. = 117 zl. 12 bac.) přesně nesouhlasí, srov. tiskové chyby u položek 12 a 13 na předchozí straně.

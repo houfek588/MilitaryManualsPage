@@ -1,0 +1,40 @@
+id: 9-006r
+list: 6 (9. kniha)
+strana: recto
+sken: 631
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item/ der Prouos soll auch achtung auff die Kauffleut geben/ vnd die Prouiant zu füren/ darmit sie nit beraubt werden/ vnd auch wissen was für prouiant im Leger sei/ vnnd wo her mann die kündt bringen/ vnnd alles dem Marschalck anzeigen/ darmit er verschaff das Prouiant zu gefürt werde/ vnd im gleidt auch leut zu geben die sie sicher in das Leger füren.
+  cs: |-
+    Dále má profous {Prouos} dávat pozor na kupce a na dovoz proviantu {Prouiant}, aby nebyli oloupeni. Má také vědět, jaký proviant je v ležení {Leger} a odkud by se dal přivézt, a vše oznamovat polnímu maršálkovi {Marschalck}, aby zařídil, že bude proviant přivezen, a dal [kupcům] do průvodu také lidi, kteří je bezpečně dovedou do ležení.
+- typ: odstavec
+  de: |-
+    Der Prouos hat macht zunemen von jeglichem haupt viehe/ so mann metzlet die Zungen/ von einem faß mit Wein ein maß/ die in dem Leger breuchlich vnnd lefftig ist/ welche maß vom Marschalck auffgericht soll werden/ vnd auch den Wein seinem wert nach schencken/ daß der Kauffman einen zimlichen gewinn daran er sich benügen laß/ hab/ wann er aber nit benügig sein würde/ vnd der Prouos vermeint er hab jn geschetzt in einem rechten gelt/ soll er es dem Marschalck anzeigen/ damit er der billicheit nach darinn rede.
+  cs: |-
+    Profous má právo vzít z každého kusu dobytka, který se poráží, jazyk a z každého sudu vína jeden máz {maß}, jaký je v ležení obvyklý a běžný; tento máz má stanovit maršálek. Má také dbát, aby se víno šenkovalo podle své hodnoty tak, aby kupec měl slušný zisk, s nímž se spokojí. Nebyl-li by však spokojen, a profous by měl za to, že víno ocenil na správnou cenu, má to oznámit maršálkovi, aby v tom rozhodl podle slušnosti.
+- typ: odstavec
+  de: |-
+    Bemelter Prouos hat auch gewalt vber Wein/ Bier/ Brot vnnd alle Victualia zu schetzen/ da er dann nit zu hefftig sein soll/ so ferr er aber zu ruch were/ soll der Marschalck ein einsehen darinn haben.
+  cs: |-
+    Řečený profous má také moc oceňovat víno, pivo, chléb a všechny potraviny {Victualia}; přitom nemá být příliš přísný. Byl-li by však příliš tvrdý, má do toho maršálek zasáhnout.
+- typ: odstavec
+  de: |-
+    Der Prouos soll keinen richten lassen/ wie obgemelt/ er sei dann vom Marschalck oder durch die von jm verordnet/ verurtheilt worden/ es sei dann sach daß der Fürst selbst oder der Leutenant solches in abwesen des Marschalcks verordnet haben/ mag er wol fürtfarn.
+  cs: |-
+    Profous nesmí, jak bylo řečeno výše, nikoho dát popravit, leda by ho odsoudil maršálek nebo ti, které k tomu ustanovil. Nařídil-li by to však v maršálkově nepřítomnosti sám kníže nebo poručík {Leutenant}, smí jistě pokračovat.
+- typ: nadpis
+  uroven: 3
+  de: Alhie facht sich an ein Historie/ da ein Stat vnd auff der andern seiten ein beschlossens Landt wie es sein soll/ vnd der Fürst in seinem Zelte.
+  cs: Zde začíná výjev {Historie}, na němž je město a na druhé straně ohrazená země, jak má být, a kníže ve svém stanu[^1]
+- typ: odstavec
+  de: |-
+    HErr wann jr versehen seit mit den Emptern wie ich gesagt hab/ vnd daß zeit ist das ewer gantz Heer zu fuß vnd zu roß/ auch das Geschütz vnnd alles so zu dem Krieg dienstlich/ bei euch nicht weit von der lesten statt ewers Lands sei/ so in der gegen ligt/ da jhr den zug fürnemen müssen/ solt jr ein verschlossen vnd fest Leger schlagen nicht weniger als ob jhr in der Feind landt weren/ vnd alda ewer erst leger schlagen/ vnnd nit verrücken biß daß jr alles so jr zu demselbigen Krieg brauchen wolt/ bei euch haben/ vnnd eben als ein gůt Ordnung im leger halten/ als wann jr schon nicht im Krieg weren.
+  cs: |-
+    Pane, když jste opatřen úřady {Emptern}, jak jsem řekl, a nastane čas, aby celé vaše vojsko pěší i jízdní, také děla {Geschütz} a vše, co slouží k válce, bylo u vás nedaleko posledního města vaší země, které leží v končině, kam musíte podniknout tažení {zug}, máte rozbít uzavřené a pevné ležení, nejinak než kdybyste byl v nepřátelské zemi. Tam rozbijte své první ležení a nehýbejte se z místa, dokud nebudete mít u sebe všechno, čeho chcete v této válce užít; a udržujte v ležení stejně dobrý pořádek, i když ještě nejste ve válce.
+poznamky:
+- n: 1
+  text: |-
+    Popisek k miniatuře rukopisné předlohy (srov. [[9-002v|list 2v]]). *beschlossens Landt* snad místo *beschlossens Leger* – ohrazené ležení, o němž hovoří následující text.

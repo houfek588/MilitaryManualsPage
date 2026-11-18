@@ -1,0 +1,40 @@
+id: 8-001v
+list: 1 (8. kniha)
+strana: verso
+sken: 590
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gemacht were/ vnd mann sie mit Kriegßuolck besetzen wolt/ so soll mann durch Kriegßuerstendige solche Befestung mit allen wehrn wol besehen/ vnd erstlich ein wehr nach der andern zum besten ordnen vnd beschreiben/ was vnd wieuil Personen im fal der not zu der wehr darinn sein sollen vnd müssen. Deßgleichen was ein solche wehr vor ein Geschütz groß vnd klein erfordert/ daß mann darauff vnd darinn brauchen kan.
+  cs: |-
+    uzpůsobená k obraně a má se obsadit válečným lidem {Kriegßuolck}, mají ji znalci válečnictví {Kriegßuerstendige} dobře prohlédnout se všemi obrannými místy {wehrn}. Nejprve mají jedno obranné místo po druhém co nejlépe uspořádat a zapsat, jací a kolik lidí v něm v případě nouze má a musí být k obraně. Rovněž [mají zapsat], jaká děla {Geschütz}, velká i malá, takové obranné místo vyžaduje, aby se na něm a v něm dala použít.
+- typ: odstavec
+  de: |-
+    Also sol mann zum ersten ein wehr nach der andern vornemen/ vnd mit aller zůgehörender Rüstung wie gehört ordnen/ vnd wann dann also nach einander alle notturfft geordnet vnd vberschlagen ist/ so soll mann mit fleiß besehen was vor plätz in der Befestung seien/ darauff mann das Kriegßuolck in der not stellen kündte/ ausserhalb dem Kriegßuolck das zuuor in die wehrn geordnet ist/ wann das alles geschehen vnd geordnet/ vnd alle summen zusamen gerechnet trügen 1000. man/ so soll mann dasselbig dupliern auff 2000. oder noch mehr oder auff 100. gerechnet.
+  cs: |-
+    Nejprve se tedy má vzít jedno obranné místo po druhém a uspořádat se vší příslušnou výzbrojí {Rüstung}, jak bylo řečeno. Když je takto postupně všechno potřebné uspořádáno a rozpočítáno, má se pilně prohlédnout, jaká prostranství v pevnosti {Befestung} jsou, na která by se v nouzi dal postavit válečný lid – mimo ten válečný lid, který je už předtím rozdělen na obranná místa. Když se to vše vykoná a uspořádá a všechny počty sečtené dávají dohromady 1000 mužů, má se ten počet zdvojnásobit na 2000 nebo ještě víc, anebo počítat [dalších] 100 na [každou] stovku.[^1]
+- typ: odstavec
+  de: |-
+    Vnd wann ein Befestung lege daß sie an vilen orten zu belegern/ zubeschantzen vnnd zu beschiessen were/ so mussen die Ständt darinn desto stercker besatzt vnd dupliert werden/ das sie harren vnd einander ablösen könden/ darauff wil der anschlag geordnet vnd nach gelegenheit vorgenomen sein.
+  cs: |-
+    A leží-li pevnost tak, že by ji bylo možno na mnoha místech obléhat, obkopávat šancemi {beschantzen} a ostřelovat, musejí být postavení {Ständt} v ní tím silněji obsazena a zdvojena, aby [muži] mohli vytrvat a navzájem se střídat. Podle toho se má rozvrh uspořádat a provést podle okolností.
+- typ: odstavec
+  de: |-
+    Ist es aber ein gelegenheit daß die Befestung dergestalt ligen/ daß mann sie nit an allen orten belegern/ beschiessen vnd beschantzen kan/ so ist es auch nit not daß mann alle plätz/ stende oder wehrn so starck besetzt/ dann allein die Wachten sollen alle zeit zu tag vnd nacht fleissig vnd nach notturfft wol besatzt vnd versehen sein/ mann soll keiner Wacht vbersehen oder hůt vertrawen/ dann auff denselbigen vnsörglichen wachten macht mann die meisten anschleg vnd Practicen/ es geschicht offt daß durch solche nichtige wachten vil vnrat vnd verseumnuß geschehen/ darumb soll mann nit vngewacht vnnd vnuerhůt lassen/ es kan doch ein jedes nach seiner notturfft vnd gelegenheit geschehen/ vnd ob es schon zu nichts gůt were/ so ists doch ein gůt Kriegßordnung/ steht vorsichtig vnd wol/ dann gůte fleissige wacht verhůt vil vnrats vnd anschleg.
+  cs: |-
+    Leží-li však pevnost tak, že ji nelze obléhat, ostřelovat a obkopávat šancemi ze všech stran, není ani třeba obsazovat tak silně všechna prostranství, postavení či obranná místa. Jen stráže {Wachten} mají být ve dne v noci vždy pilně a podle potřeby dobře obsazeny a opatřeny. Žádnou stráž nemá nikdo přehlížet ani spoléhat na [cizí] ostrahu, neboť právě na takových nedbalých strážích se podnikají nejčastější přepady {anschleg} a úklady {Practicen}. Často se stává, že takovými ničemnými strážemi vznikne mnoho škody a zanedbání. Proto se nic nemá nechávat bez stráže a ostrahy; vždyť se to může dít u každého místa podle jeho potřeby a polohy. A i kdyby to k ničemu nebylo, je to přece dobrý válečný řád {Kriegßordnung}, svědčí o opatrnosti a dobře se vyjímá; dobrá a pilná stráž totiž odvrátí mnoho škody a přepadů.
+- typ: odstavec
+  de: |-
+    Weitter so kompts wol das ein Befestung klein ist/ daß mann nit vil volcks darinn legen kan/ oder ligt in gemöß oder gebirge daß mann nichts daran haben mag/ das hat ein ander bestellens/ solche befestung sind anders nichts dann Klausen oder Peß zuuerwaren daß mann auch nichts weiters darauff thůn kan/ solliche Befestung bedörffen nit grosse bestallung dann gůt hůt vor verraten.
+  cs: |-
+    Dále se také stává, že pevnost je malá, takže se do ní nedá položit mnoho lidu, nebo leží v bažinách {gemöß} či v horách, takže se jí nelze zmocnit. To se zařizuje jinak: takové pevnosti nejsou ničím jiným než zátarasy {Klausen} nebo průsmyky {Peß}, které je třeba střežit, a nic dalšího se na nich podniknout nedá. Takové pevnosti nepotřebují velkou posádku, jen dobrou ostrahu před zradou.[^2]
+poznamky:
+- n: 1
+  text: |-
+    Smysl dovětku „oder auff 100. gerechnet“ není zcela jasný. Nejspíš znamená totéž co zdvojnásobení, vyjádřené po stovkách: ke každé stovce mužů rozepsaných na obranná místa a prostranství se připočte další stovka do zálohy.
+- n: 2
+  text: |-
+    *Klause* (z lat. *clusa*) je zátaras či malá pevnůstka uzavírající úzké horské údolí nebo silnici, typická pro alpské země; *Paß* (zde pl. *Peß*) je průsmyk či zemský průchod. *Gemöß* = mokřad, bažina (srov. *Moos*). Slovem *bestallung* zde Solms míní obsazení, tj. velikost posádky, nikoli služební list.

@@ -1,0 +1,56 @@
+id: 6-005v
+list: 5 (6. kniha)
+strana: verso
+sken: 502
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Je vff 50 gemusterde reissige vnd pferde ein Rotmeister gehalten werden / vnd demselben monatlich zu seiner in der musterung gůt gemachter besoldung des Rotmeister amps halben 25 flo. bezalt werden.
+  cs: |-
+    Vždy na 50 přehlédnutých jezdců a koní má být držen jeden rotmistr {Rotmeister} a tomu se má měsíčně k jeho služnému uznanému při přehlídce {musterung} platit za rotmistrovský úřad 25 zl. {flo.}
+- typ: odstavec
+  de: |-
+    Item auff jedes hundert in der Musterung gůt gemachter gereisigen ein Huffschmit gehalten / dem monatlich zu seiner in der Musterung gůt gemachter Besoldung bezalt werden sollen zwölff gulden.
+  cs: |-
+    Dále má být na každých sto jezdců {gereisigen} uznaných při přehlídce držen podkovář {Huffschmit}, jemuž se má měsíčně k jeho služnému uznanému při přehlídce platit dvanáct zlatých {gulden}.
+- typ: odstavec
+  de: |-
+    Auff jeden Kürisser der wie vorstehet gerüst in der musterung gůt gemacht ist / sollen monatlich 24. gulden vergnügt werden.
+  cs: |-
+    Na každého kyrysníka {Kürisser}, který je vyzbrojen, jak výše stojí, a při přehlídce byl uznán, se má měsíčně platit 24 zlatých.
+- typ: odstavec
+  de: |-
+    Item auff jedes gerüst pferde vnd Reisigen so in der Musterung passiert vnd gůt worden / er sei ein Spiesser oder Schütz / sollen monatlich bezalt werden zwölff gulden.
+  cs: |-
+    Dále se má na každého zbrojného koně {gerüst pferde} a jezdce, který při přehlídce prošel a byl uznán, ať je to kopiník {Spiesser}, nebo střelec {Schütz}, platit měsíčně dvanáct zlatých.
+- typ: odstavec
+  de: |-
+    Allwegen vff 12. gemustert Pferd wie vorsteht / ein droß oder botten pferdt Monatlich vnderhalten vnd zu 6. gulden bezalt werden.
+  cs: |-
+    Vždy na 12 přehlédnutých koní, jak výše stojí, má být měsíčně vydržován jeden trénní {droß} nebo poselský kůň {botten pferdt} a placen 6 zlatými.
+- typ: odstavec
+  de: |-
+    Auff 12. in er Musterung gůt gemachte reissige pferd 1. Wagen der mit 4. wagen Pferden vnd aller seiner zugehörde / gůt / wol gerüst / bestelt / versehn / also in der musterung befunden vnd daruff gůt gemacht vnd passiert ist / sollen 24. flo. monatlich bezalt werden / vnd ob sichs begeb das eim oder mehr auß den 4. wagenpferden / eins oder mehr erlege der oder die sollen zum fürderlichsten nach andern pferden trachten / vnd hierinn kein geuerde gebraucht oder gesucht / vnd sollen monatlich gemustert vnd derselben musterung befunden gemeß bezalt werden.
+  cs: |-
+    Na 12 jízdních koní uznaných při přehlídce[^1] se má za 1 vůz, který byl se 4 vozními koňmi a vším příslušenstvím shledán při přehlídce dobrým, dobře vystrojeným, obstaraným a zaopatřeným, a proto byl uznán a prošel, platit měsíčně 24 zl. A kdyby se stalo, že by někomu padl jeden nebo více ze 4 vozních koní, má se ten nebo ti co nejrychleji postarat o jiné koně a nemá se při tom užívat ani hledat žádná lest {geuerde}. [Vozy] mají být každý měsíc přehlíženy a placeny podle toho, jak budou při přehlídce shledány.
+- typ: odstavec
+  de: |-
+    Item es soll kein Reisigs oder Droßpferde so durch die musterung geritten mit nichten in die Wagen gespant werden / wo aber solches vberfarn / vnd ein oder mehr pferde hierüber in wagen betreten / soll derselbig dem solch pferde zustendig / sein gantze besoldung dardurch verwirckt haben / vnd jnen die in der bezalung abgezogen werden.
+  cs: |-
+    Dále nesmí být žádný jízdní ani trénní kůň {Droßpferde}, který prošel přehlídkou, v žádném případě zapřažen do vozu. Bude-li to však přestoupeno a jeden nebo více koní bude přesto přistiženo ve voze, propadá ten, komu takový kůň patří, celé své služné a má mu být při výplatě strženo.
+- typ: odstavec
+  de: |-
+    Item ob einer mehr dann 5. reisige vnd gerüste pferde hette / dem sollen darauff vnnd darunder nit mehr als ein bube gemustert gůt gemacht / vnd bezalt werden.
+  cs: |-
+    Dále: má-li někdo více než 5 jízdních a zbrojných koní, nemá se mu na ně a mezi nimi přehlédnout, uznat a zaplatit více než jedno pachole {bube}.
+- typ: odstavec
+  de: |-
+    Item ob vnder solchem Gereisigen einer oder mehr kranck würden / die Gerüst vnd jne zuuor gemustert / Rüstung vnnd gůte pferdt wie in der nechst vorgehenden musterung noch haben / die sollen monatlich wie die gesunden so in der musterung passiert / dergleichen die gefangen / so ferr sie nach Kriegs gebrauch in vnserm dinst nidergeworffen vnderhalten / besold vnd bezalt werden / doch sollen der krancken vberentzig harnisch vnd pferd durch die musterung gefürt / vnd kein geuerd gebraucht werden. Es solln auch solch reisigen gemustert werden vō jrn heußlichen wonungen auß biß zur musterung / vff 1. jedes gerüst reisigs in der musterung zugelassens pferd / tag vnd nacht 24. creutzer / deßgleichen vff jeden gerüsten wagen der gůt gemacht wirt 48.
+  cs: |-
+    Dále: kdyby z těchto jezdců jeden nebo více onemocněli, a přitom ještě mají výstroj, zbroj a dobré koně, s nimiž byli předtím přehlédnuti, jako při nejbližší předchozí přehlídce, mají být měsíčně vydržováni, placeni a vypláceni jako zdraví, kteří přehlídkou prošli; stejně tak zajatí, pokud byli podle válečného obyčeje přemoženi a zajati v naší službě. Zbylá zbroj {harnisch} a koně nemocných však mají být provedeni přehlídkou a nemá se při tom užívat žádná lest. Také se mají tito jezdci od svých domovů až k přehlídce započítat tak, že se za každého zbrojného jízdního koně připuštěného při přehlídce zaplatí za den a noc 24 krejcarů {creutzer} a rovněž za každý vystrojený vůz, který bude uznán, 48
+poznamky:
+- n: 1
+  text: |-
+    „In er Musterung“ je tisková chyba za „in der Musterung“. Příjezdné činilo 24 krejcarů denně na koně a 48 krejcarů na vůz (vůz počítán za dva koně); při 60 krejcarech na zlatý to odpovídá 0,4 zlatého na koně a den.

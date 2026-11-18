@@ -1,0 +1,94 @@
+id: 6-011r
+list: 11 (6. kniha)
+strana: recto
+sken: 513
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['', 'Summa', '84 flo.']
+  - ['Summa lat.', 'Gelts', '371 flo. 12 batzen.']
+  - ['', 'Pferde', '52']
+  - ['', 'Drosser', '4']
+  - ['', 'Wagen.', '4']
+  - ['', 'Sigmund Pflůg.', '']
+  - ['5', 'Item hat 18 tag reisens vnnd stilligens mit 13. pferden/ thůt einn tag einem pferde zů 6 batzen', '36 flo. 9 batzen.']
+  - ['', 'Drosser', '3 flo. 9 batz.']
+  - ['', 'Wagen', '14 gulden 6 batzen.']
+  - ['', 'Summa', '111 gulden 9 batzen.']
+  - ['', 'Michael von Schleinitz.', '']
+  - ['6', 'Item hat 18 tag reisens vnd stilligens mit 14 pferden/ thůt jedem pferde einn tag zu 6 batzen gerechnet', '43 flo. 3 batzen.']
+  - ['', 'Halben Drosser', '1 flo. 10 batz.']
+  - ['', 'Wagen', '7 flo. 3 batzen.']
+  - ['', 'Summa', '52 flo. 3 batzen.']
+  - ['', 'Christoffel von Ragewitz.', '']
+  - ['7', 'Item hat 18 tag reisens vnnd stilligens mit 7 pferden/ thůt das Pferde ein tag zu 6 batzen gerechnet', '50 flo. 6 batzen.']
+  - ['', 'Droß', '3 flo. 9 batzen.']
+  - ['', 'Halben Wagen', '7 flo. 3 batzen.']
+  - ['', 'Summa', '61 flo. 3 batzen.']
+  - ['', 'Anthonius von Ebeleuben.', '']
+  - ['8', 'Item hat 18 tag reisens vnd stilligen mit 7 pferden/ thůt das pferd jeden tag zu 6 batzen', '50 flo. 6 batzen.']
+  - ['', 'Halben Wagen.', '7 flo. 3 batzen.']
+  - ['', 'Summa', '75. gulden 9 batzen.']
+  - ['Summa lat.', 'Gelts', '282 flo. 9 batz.']
+  - ['', 'Pferde', '33']
+  - ['', 'Droß', '2½']
+  - ['', 'Wagen', '2½']
+  - ['', 'Germar Vitzthom.', '']
+  - ['9', 'Item hat 18 tag reisens vnd stilligens mit 8 Pferden/ jeden tag das Roß zu 6 batzen/ thůt', '57 flo. 9 batzen.']
+  - ['', 'Drosser', '3 flo. 9 batzen.']
+  - ['', 'Halben wagen', '7 flo. 3 batzen.']
+  - ['', 'Summa', '68 flo. 6 batzen.']
+  - ['', 'Otto Ebeleuben.', '']
+  - ['10', 'Item hat 18 tag reitens vnd stilligens mit 7 pferden/ thůt einn tag eim Roß zu 6 batzen', '50 flo. 6 batzen.']
+  - ['', 'Halben Wagen.', '7 flo. 3 batzen.']
+  - ['', 'Summa', '57 flo. 9 batzen.']
+  - ['', 'Heinrich Reitesel.', '']
+  cs:
+  - ['', 'suma', '84 zl. {flo.}']
+  - ['součet strany {Summa lat.}', 'peněz', '371 zl. 12 bac. {batzen}']
+  - ['', 'koní {Pferde}', '52']
+  - ['', 'trénních koní {Drosser}', '4']
+  - ['', 'vozů {Wagen}', '4']
+  - ['', 'Sigmund Pflůg.', '']
+  - ['5', 'Dále: měl 18 dní cesty a stání {reisens vnnd stilligens} se 13 koňmi; na jednoho koně za den 6 bacenů', '36 zl. 9 bac.[^1]']
+  - ['', 'trénní kůň', '3 zl. 9 bac.']
+  - ['', 'vůz', '14 zlatých {gulden} 6 bacenů']
+  - ['', 'suma', '111 zlatých 9 bacenů']
+  - ['', 'Michael von Schleinitz.', '']
+  - ['6', 'Dále: měl 18 dní cesty a stání se 14 koňmi; na každého koně za den počítáno 6 bacenů', '43 zl. 3 bac.[^2]']
+  - ['', 'půl trénního koně', '1 zl. 10 bac.']
+  - ['', 'vůz', '7 zl. 3 bac.']
+  - ['', 'suma', '52 zl. 3 bac.']
+  - ['', 'Christoffel von Ragewitz.', '']
+  - ['7', 'Dále: měl 18 dní cesty a stání se 7 koňmi; na koně za den počítáno 6 bacenů', '50 zl. 6 bac.']
+  - ['', 'trénní kůň', '3 zl. 9 bac.']
+  - ['', 'půl vozu', '7 zl. 3 bac.']
+  - ['', 'suma', '61 zl. 3 bac.']
+  - ['', 'Anthonius von Ebeleuben.', '']
+  - ['8', 'Dále: měl 18 dní cesty a stání se 7 koňmi; na koně každý den 6 bacenů', '50 zl. 6 bac.']
+  - ['', 'půl vozu', '7 zl. 3 bac.']
+  - ['', 'suma', '75 zlatých 9 bacenů[^3]']
+  - ['součet strany', 'peněz', '282 zl. 9 bac.']
+  - ['', 'koní', '33']
+  - ['', 'trénních koní', '2½']
+  - ['', 'vozů', '2½']
+  - ['', 'Germar Vitzthom.', '']
+  - ['9', 'Dále: měl 18 dní cesty a stání s 8 koňmi; každý den na koně {Roß} 6 bacenů, činí', '57 zl. 9 bac.']
+  - ['', 'trénní kůň', '3 zl. 9 bac.']
+  - ['', 'půl vozu', '7 zl. 3 bac.']
+  - ['', 'suma', '68 zl. 6 bac.']
+  - ['', 'Otto Ebeleuben.', '']
+  - ['10', 'Dále: měl 18 dní jízdy a stání se 7 koňmi; na koně za den 6 bacenů', '50 zl. 6 bac.']
+  - ['', 'půl vozu', '7 zl. 3 bac.']
+  - ['', 'suma', '57 zl. 9 bac.']
+  - ['', 'Heinrich Reitesel.', '']
+poznamky:
+- n: 1
+  text: Tisková chyba – 18 dní × 13 koní × 6 bacenů dává 93 zl. 9 bac.; s touto částkou souhlasí suma 111 zl. 9 bac. i součet strany 282 zl. 9 bac.
+- n: 2
+  text: Tisk uvádí 14 koní, ale částka 43 zl. 3 bac. odpovídá 6 koním (18 × 6 × 6 bacenů), stejně jako součet strany 33 koní. Půl trénního koně má činit 1 zl. 12 bac. (polovina z 3 zl. 9 bac.); s touto hodnotou vychází i suma 52 zl. 3 bac. Jmenovaní jezdci (Pflug, Schleinitz, Ebeleben, Vitzthum) patří k míšeňské a durynské šlechtě ze dvora vévody Mořice.
+- n: 3
+  text: Tisková chyba – správně 57 zl. 9 bac. (50 zl. 6 bac. + 7 zl. 3 bac.); s touto hodnotou souhlasí součet strany 282 zl. 9 bac.

@@ -1,0 +1,128 @@
+id: 6-009r
+list: 9 (6. kniha)
+strana: recto
+sken: 509
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - ['', 'Velrich von Kitlitz.', '']
+  - ['30', 'Gerüster pferde', '4']
+  - ['', 'Wagen.', '½']
+  - ['', 'Lorentz Wundartz.', '']
+  - ['31', 'Gerüster pferde', '1']
+  - ['', 'Summa lat. – Gerüster pfer.', '5']
+  - ['', 'Summa lat. – Kürisser', '0']
+  - ['', 'Summa lat. – Drosser', '0']
+  - ['', 'Summa lat. – Wagen.', '½']
+  cs:
+  - ['', 'Velrich von Kitlitz[^1]', '']
+  - ['30', 'zbrojní koně {Gerüster pferde}', '4']
+  - ['', 'vozy {Wagen}', '½']
+  - ['', 'Lorentz Wundartz', '']
+  - ['31', 'zbrojní koně', '1']
+  - ['', 'Součet strany {Summa lat.} – zbrojní koně', '5']
+  - ['', 'Součet strany – kyrysníci {Kürisser}', '0']
+  - ['', 'Součet strany – trénní koně {Drosser}', '0']
+  - ['', 'Součet strany – vozy', '½']
+- typ: tabulka
+  de:
+  - ['Summarum derer pferd sind 293 / gehört auff eins 12 flo. thůt alles zusamen', '3516, o.']
+  - ['Summarum der Kürisser sind 22 gehört vff jeden 12 flo. vbersold / thůt zusamen', '264 flo.']
+  - ['Summarum der Drosser sind 21 / gehört auff jeden 6 flo. thůt alles zusamen', '126 flo.']
+  - ['Summarum aller Wagen sind 22½. thůt auff ein 24 fl. machen an gelt zusamen', '540 flo.']
+  - ['Nota die vberlengde Pferde thůn', '14 flo.']
+  - ['Summarum alles Gelts der gerüsten Pferde / Kürisser / Drosser vnd Wagen sind zusamen', '4460 flo.']
+  cs:
+  - ['Součet koní je 293; na každého připadá 12 zl., což činí dohromady', '3516 zl.[^2]']
+  - ['Součet kyrysníků je 22; na každého připadá 12 zl. přeplatku {vbersold}, což činí dohromady', '264 zl.']
+  - ['Součet trénních koní je 21; na každého připadá 6 zl., což činí dohromady', '126 zl.']
+  - ['Součet všech vozů je 22½; po 24 zl. na vůz to činí v penězích dohromady', '540 zl.']
+  - ['Pozn.: příplatky {vberlengde} na koně činí', '14 zl.']
+  - ['Úhrnem všechny peníze za zbrojné koně, kyrysníky, trénní koně a vozy činí dohromady', '4460 zl.']
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Musterzettel Henickens von Bortzfelts Reutter / so er Hertzog Moritzen zů Sachssen / etc. zugefürt hat / vnd gemustert worden am Mitwochen den 28. tag Mai / Anno Domini / 1544.
+  cs: |-
+    Přehlídková cedule {Musterzettel} jezdců {Reutter} Henickena von Bortzfelt, které přivedl vévodovi Mořicovi Saskému atd. a kteří byli přehlédnuti ve středu 28. května léta Páně 1544.
+- typ: tabulka
+  de:
+  - ['', 'Heinrich von Bortzfelde.', '']
+  - ['1', 'Gerüster pferde', '14']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['', 'Christoffel von Hauß.', '']
+  - ['2', 'Gerüster pferde', '12']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['', 'Christoffel von Bortzfelt.', '']
+  - ['3', 'Gerüster pferd', '14']
+  - ['', 'Wagen', '1']
+  - ['', 'Moritz Frieß.', '']
+  - ['4', 'Gerüster pferde', '11']
+  - ['', 'Wagen', '1']
+  - ['', 'Summa lat. – gerüster pferd', '51']
+  - ['', 'Summa lat. – Drosser', '2']
+  - ['', 'Summa lat. – wagen.', '4']
+  - ['', 'Jost von Alten.', '']
+  - ['5', 'Gerüster pferd', '6']
+  - ['', 'Wagen.', '1']
+  - ['', 'Johan von Ratzenberg.', '']
+  - ['6', 'Gerüster pferde', '7']
+  - ['', 'Wagen.', '1']
+  - ['', 'Laudolff von Bortzfelt.', '']
+  - ['7', 'Gerüster pferde', '7']
+  - ['', 'Wagen', '1']
+  - ['', 'Vick von Velten.', '']
+  - ['8', 'Gerüster pferde', '6']
+  - ['', 'Wagen', '1']
+  - ['', 'Gieß von Mandelsen.', '']
+  - ['9', 'Gerüster pferde', '8']
+  - ['', 'Drosser', '1']
+  - ['', 'Jost von Velten.', '']
+  cs:
+  - ['', 'Heinrich von Bortzfelde', '']
+  - ['1', 'zbrojní koně', '14']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Christoffel von Hauß', '']
+  - ['2', 'zbrojní koně', '12']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Christoffel von Bortzfelt', '']
+  - ['3', 'zbrojní koně', '14']
+  - ['', 'vozy', '1']
+  - ['', 'Moritz Frieß', '']
+  - ['4', 'zbrojní koně', '11']
+  - ['', 'vozy', '1']
+  - ['', 'Součet strany – zbrojní koně', '51']
+  - ['', 'Součet strany – trénní koně', '2']
+  - ['', 'Součet strany – vozy', '4']
+  - ['', 'Jost von Alten', '']
+  - ['5', 'zbrojní koně', '6']
+  - ['', 'vozy', '1']
+  - ['', 'Johan von Ratzenberg', '']
+  - ['6', 'zbrojní koně', '7']
+  - ['', 'vozy', '1']
+  - ['', 'Laudolff von Bortzfelt', '']
+  - ['7', 'zbrojní koně', '7']
+  - ['', 'vozy', '1']
+  - ['', 'Vick von Velten', '']
+  - ['8', 'zbrojní koně', '6']
+  - ['', 'vozy', '1']
+  - ['', 'Gieß von Mandelsen', '']
+  - ['9', 'zbrojní koně', '8']
+  - ['', 'trénní koně', '1']
+  - ['', 'Jost von Velten[^3]', '']
+poznamky:
+- n: 1
+  text: |-
+    Závěr rejstříku Andrese Pflůga ze [[6-008v|strany 8v]]; „Lorentz Wundartz“ je zřejmě Lorenz, ranhojič (Wundarzt). Celkové součty na této straně odpovídají součtům stran 8r–9r: 293 zbrojných koní (52 + 33 + 52 + 51 + 54 + 46 + 5), 22 kyrysníků, 21 trénních koní a 22½ vozu; příplatky (2 + 2 + 6 + 2 + 2) = 14 zl.; úhrn 3516 + 264 + 126 + 540 + 14 = 4460 zl.
+- n: 2
+  text: |-
+    V tisku „3516, o.“ – zřejmě vadně vysázené „fl.“ (zlatých); 293 × 12 = 3516.
+- n: 3
+  text: |-
+    Údaje oddílu Josta von Velten pokračují na další straně. Jména osob jsou ponechána v podobě tisku (Bortzfelt = Bortfeld, dolnosaský šlechtický rod).

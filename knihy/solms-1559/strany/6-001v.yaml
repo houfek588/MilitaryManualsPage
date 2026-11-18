@@ -1,0 +1,70 @@
+id: 6-001v
+list: 1 (6. kniha)
+strana: verso
+sken: 494
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Ritmeister mit seinen Reuttern besonder vnnd nit vnder einander / in einer geuierdten gleichen zal neben vnd hinder sich halten / dann kan er bald sehen was mangelt / aber damit einer solliche Ordnung recht mit der zal geuierdt mach / das eines jeden Ritmeisters zal gerad mit der Ordnung treffe so soll mann des Ritmeisters Register nemen / darinn die zal vnd sum seiner Reutter suchen / vnd auff solche maß stellen wie hernach verzeichnet.
+  cs: |-
+    rytmistra {Ritmeister} stát s jeho jezdci {Reuttern} zvlášť, a ne pomíchané, ve čtverci {geuierdten} o stejném počtu [mužů] vedle sebe i za sebou; pak hned uvidí, co chybí. Aby však někdo takový šik {Ordnung} správně sestavil do čtverce podle počtu, tak aby počet každého rytmistra přesně odpovídal šiku, má se vzít rytmistrův rejstřík {Register}, vyhledat v něm počet a úhrn jeho jezdců a postavit je podle míry, jak je zapsáno dále.
+- typ: odstavec
+  de: |-
+    Durch dise nachuolgende Ziffer mag nit allein die Mutiplication der zal / sonder auch alle Glieder in Ordnung des Kriegßuolcks zu roß vnd fůß in ein geuierdte Ordnung vnd platz gestellt werden / vnd fahen die ziffer mit 1. an vnd gehn biß auff 1024.
+  cs: |-
+    Podle následujících čísel lze nejen násobit {Mutiplication} počty, ale také postavit všechny řady {Glieder} v šiku válečného lidu {Kriegßuolcks} na koni i pěšky do čtvercového šiku {geuierdte Ordnung} a na místo. Čísla začínají od 1 a jdou až do 1024.[^1]
+- typ: tabulka
+  de:
+  - ['1 mal', '1 ist', '1', '17 mal', '17 ist', '289']
+  - ['2', '2', '4', '18', '18', '324']
+  - ['3', '3', '9', '19', '19', '361']
+  - ['4', '4', '16', '20', '20', '400']
+  - ['5', '5', '25', '21', '21', '441']
+  - ['6', '6', '36', '22', '22', '484']
+  - ['7', '7', '49', '23', '23', '529']
+  - ['8', '8', '64', '24', '24', '576']
+  - ['9', '9', '81', '25', '25', '625']
+  - ['10', '10', '100', '26', '26', '676']
+  - ['11', '11', '121', '27', '27', '729']
+  - ['12', '12', '144', '28', '28', '784']
+  - ['13', '13', '169', '29', '29', '841']
+  - ['14', '14', '196', '30', '30', '900']
+  - ['15', '15', '225', '31', '31', '961']
+  - ['16', '16', '256', '32', '32', '1024']
+  cs:
+  - ['1 krát', '1 je', '1', '17 krát', '17 je', '289']
+  - ['2', '2', '4', '18', '18', '324']
+  - ['3', '3', '9', '19', '19', '361']
+  - ['4', '4', '16', '20', '20', '400']
+  - ['5', '5', '25', '21', '21', '441']
+  - ['6', '6', '36', '22', '22', '484']
+  - ['7', '7', '49', '23', '23', '529']
+  - ['8', '8', '64', '24', '24', '576']
+  - ['9', '9', '81', '25', '25', '625']
+  - ['10', '10', '100', '26', '26', '676']
+  - ['11', '11', '121', '27', '27', '729']
+  - ['12', '12', '144', '28', '28', '784']
+  - ['13', '13', '169', '29', '29', '841']
+  - ['14', '14', '196', '30', '30', '900']
+  - ['15', '15', '225', '31', '31', '961']
+  - ['16', '16', '256', '32', '32', '1024']
+- typ: odstavec
+  de: |-
+    Dise Ziffern vnd Rechnung mag mann machen so ferr wie einer will / aber dieweil ein Ritmeister selten mehr dann 100. pferdt fürt / wil ichs diß mal bei 1024. lassen / was einer weiter hat mag mann besonder ein hauffen von derselbigen zal stellen. Wann mann dann den oder die hauffen also in einer geuierdten zal hat / vnd die summen in Glieder rechnet / soll mann durch die Glieder reitten / was vntüglich ist auß mustern vnd auff ein ort reitten lassen / dann rechnen wie sich das gebürt / vnd wem der oder dieselbigen zustehn / hat der Musterherr mit zu reden vnd zu vergleichen / Deßgleichen soll ein jeglicher Ritmeister seinen Wagen / Drosser oder was er derhalben hat das zu mustern gehört / bei seinem hauffen mit im feld haben / etc.
+  cs: |-
+    Tato čísla a výpočet lze vést, jak daleko kdo chce. Protože však rytmistr zřídka vede víc než 100 koní, nechám to tentokrát při 1024;[^2] co má kdo navíc, z toho lze postavit zvláštní houf {hauffen} o témž počtu. Když se pak houf či houfy takto postaví do čtverce a úhrn se spočítá po řadách, má se projet řadami, co je nezpůsobilé, vyřadit z přehlídky {auß mustern} a nechat odjet stranou, a potom řádně spočítat; s tím, komu takový jezdec či jezdci náležejí, má promluvit a vyrovnat se přehlídkový komisař {Musterherr}. Rovněž má každý rytmistr mít při svém houfu v poli své vozy, trénní koně {Drosser} nebo cokoli dalšího, co k přehlídce patří, atd.
+- typ: odstavec
+  de: |-
+    Aber erstlich so ein Herr sein Ritmeister annemen wirt / dann soll er
+  cs: |-
+    Nejprve však, když pán bude přijímat své rytmistry, má
+poznamky:
+- n: 1
+  text: |-
+    Tabulka druhých mocnin 1–32 slouží k sestavení čtvercového šiku: kolik mužů má být v řadě, aby jich bylo stejně v řadě i do hloubky (např. 100 jezdců = 10 × 10). „Mutiplication“ je tisková chyba za Multiplication.
+- n: 2
+  text: |-
+    Ve zkoumaném exempláři je u tohoto řádku na okraji rukou připsáno „1000“, zřejmě jako oprava čísla 100: teprve u tisíce jezdců dává smysl, že autor tabulku zastavuje u 1024 (= 32 × 32).

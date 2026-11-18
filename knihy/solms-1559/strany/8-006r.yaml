@@ -1,0 +1,73 @@
+id: 8-006r
+list: 6 (8. kniha)
+strana: recto
+sken: 599
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Mit dem fleysch soll auch ein freyer Kauff auff einem Platz gehalten/ vnd ein gleiche freye Schatzung geschehn/ vnd einem menschen einen tag ein pfundt fleysch verordnet werden/ wann mann es bekomen kan/ vnd kein mangel an viehe vnd zimlicher notturfft fürhanden ist das ein anzal volcks mag erhalten werden/ vnd wirt das viehe vngefehrlich angeschlagen (es halt am gewicht mehr oder weniger) wie hernach steht.
+  cs: |-
+    Také s masem se má na jednom prostranství držet volný trh a má se provádět rovné a volné ocenění. Jednomu člověku se má na den přidělit jedna libra {pfundt} masa, dá-li se sehnat a není-li nedostatek dobytka a slušných potřeb, aby se dalo určitý počet lidu vydržovat. Dobytek se přibližně odhaduje (na váhu bývá více nebo méně) takto:
+- typ: tabulka
+  de:
+  - ['1. Ochs', 'Wirt angeschlagen auff', '3. Centner']
+  - ['1. Küe', '', '1½. Centner']
+  - ['1. Kalb', '', '36. Pfundt']
+  - ['1. Hamel', '', '30. Pfundt']
+  - ['1. Schaaff.', '', '20. Pfundt.']
+  cs:
+  - ['1 vůl', 'se odhaduje na', '3 centy {Centner}']
+  - ['1 kráva', '', '1½ centu']
+  - ['1 tele', '', '36 liber {Pfundt}']
+  - ['1 skopec {Hamel}[^1]', '', '30 liber']
+  - ['1 ovce', '', '20 liber.']
+- typ: odstavec
+  de: |-
+    Nach solchem Gewicht hat mann sich nach anzal des Viehs nach notturfft vngefehrlich zurichten (wie vom Brot gemelt) ordenlich zu theilen/ also das ein theil nit allein habe vnd das ander nichts bekome/ dann wo es gleich zůgeht da ist eintrechtigkeit vnd gehorsam/ vnd durch ein gleich ordenlich Regiment kan mann gehorsam erhalten/ ist auch mit einem gehorsamen hauffen mehr/ dann mit einem vngehorsamen/ außzurichten.
+  cs: |-
+    Podle této váhy se má přibližně řídit počet dobytka podle potřeby a [maso] se má (jak bylo řečeno o chlebu) řádně rozdělovat, aby jedna strana neměla všechno a druhá nedostala nic. Kde se totiž jedná rovně, tam je svornost a poslušnost; rovnou a řádnou správou lze poslušnost udržet. S poslušným houfem se také vykoná víc než s neposlušným.
+- typ: odstavec
+  de: |-
+    Auff 100. personen muß mann einen tag 100. pfundt haben/ das ist geradt ein centner/ macht ein Woch auff 100. personen 7. centner/ thůt an viehe/ ein Ochsen/ ein Küe/ fünff Kälber/ ein Hamel vnnd zwei Schaaff/ Souil viehe muß mann ein Woch auff 100. personn halten damit nit zuuil oder wenig geschlacht werde.
+  cs: |-
+    Na 100 osob je třeba mít na den 100 liber, to je právě jeden cent {centner}; to dělá na 100 osob za týden 7 centů, a na dobytku to činí jednoho vola, jednu krávu, pět telat, jednoho skopce a dvě ovce. Tolik dobytka je třeba mít na 100 osob na týden, aby se neporáželo příliš mnoho ani málo.
+- typ: odstavec
+  de: |-
+    Item 100. personen einn Monat zuerhalten nach diser Ordnung/ macht 30. Centner/ vnd thůt an viehe wie volgt.
+  cs: |-
+    Dále: vydržovat 100 osob jeden měsíc podle tohoto řádu dělá 30 centů a na dobytku to činí, jak následuje.
+- typ: tabulka
+  de:
+  - ['4 Ochsen', 'Oder mag nemen.', '3 Ochsen']
+  - ['4 Küe', '', '6 Küe']
+  - ['20 Kälber', '', '10 Kälber']
+  - ['10 Hämel', '', '24 Schaaff']
+  - ['9 Schaaff.', '', '12 Hämel.']
+  cs:
+  - ['4 voly', 'nebo lze vzít', '3 voly']
+  - ['4 krávy', '', '6 krav']
+  - ['20 telat', '', '10 telat']
+  - ['10 skopců', '', '24 ovcí']
+  - ['9 ovcí.', '', '12 skopců.']
+- typ: odstavec
+  de: |-
+    Item auff 500 personen muß mann einen tag 5 Centner haben/ thůt an Viehe.
+  cs: |-
+    Dále: na 500 osob je třeba mít na den 5 centů, to činí na dobytku:
+- typ: tabulka
+  de:
+  - ['1 Ochsen', 'Oder mag nemen.', '1 Ochsen']
+  - ['1 Küe', '', '4 Hämel']
+  - ['1 Hamel', '', '4 Schaaff.']
+  - ['1 Schaaff.', '', '']
+  cs:
+  - ['1 vůl', 'nebo lze vzít', '1 vola']
+  - ['1 kráva', '', '4 skopce']
+  - ['1 skopec', '', '4 ovce.']
+  - ['1 ovce.', '', '']
+poznamky:
+- n: 1
+  text: |-
+    Rozpisy dobytka přesně odpovídají odhadním vahám (vůl 300, kráva 150, tele 36, skopec 30 a ovce 20 liber): 7 centů na týden pro 100 osob = 300 + 150 + 5 × 36 + 30 + 2 × 20 liber; 30 centů na měsíc = 4 × 300 + 4 × 150 + 20 × 36 + 10 × 30 + 9 × 20, resp. 3 × 300 + 6 × 150 + 10 × 36 + 24 × 20 + 12 × 30 liber; 5 centů na den pro 500 osob = 300 + 150 + 30 + 20, resp. 300 + 4 × 30 + 4 × 20 liber. Cent tu tedy činí 100 liber. *Hamel* je vykastrovaný beran, skopec.

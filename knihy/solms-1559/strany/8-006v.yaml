@@ -1,0 +1,196 @@
+id: 8-006v
+list: 6 (8. kniha)
+strana: verso
+sken: 600
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item auff 500 personen muß mann ein woch 35 Centner haben / macht an viehe.
+  cs: 'Dále: na 500 osob je třeba mít na týden 35 centů {Centner}, což činí na dobytku:'
+- typ: tabulka
+  de:
+  - - 5 Ochsen
+    - ''
+    - 3 Ochsen
+  - - 5 Kůe
+    - ''
+    - 9 Kůe
+  - - 25 Kälber
+    - Oder mag nemen.
+    - 15 Kälber
+  - - 5 Hämel
+    - ''
+    - 7 Hämel
+  - - 10 Schaaff.
+    - ''
+    - 25 Schaaff.
+  cs:
+  - - 5 volů
+    - ''
+    - 3 voly
+  - - 5 krav
+    - ''
+    - 9 krav
+  - - 25 telat
+    - 'Nebo lze vzít:'
+    - 15 telat
+  - - 5 skopců
+    - ''
+    - 7 skopců
+  - - 10 ovcí
+    - ''
+    - 25 ovcí
+- typ: odstavec
+  de: |-
+    Item auff 500 personen muß mann einn Monat 150 Centner haben / vnd macht an viehe.
+  cs: 'Dále: na 500 osob je třeba mít na měsíc 150 centů, což činí na dobytku:'
+- typ: tabulka
+  de:
+  - - 20 Ochsen
+    - ''
+    - 15 Ochsen
+  - - 20 Kůe
+    - ''
+    - 30 Kůe
+  - - 100 Kälber
+    - Oder mag nemen.
+    - 50 Kälber
+  - - 50 Hämel
+    - ''
+    - 60 Hämel
+  - - 45 Schaaff.
+    - ''
+    - 120 Schaaff.
+  cs:
+  - - 20 volů
+    - ''
+    - 15 volů
+  - - 20 krav
+    - ''
+    - 30 krav
+  - - 100 telat
+    - 'Nebo lze vzít:'
+    - 50 telat
+  - - 50 skopců
+    - ''
+    - 60 skopců
+  - - 45 ovcí
+    - ''
+    - 120 ovcí
+- typ: odstavec
+  de: |-
+    Item auff 1000 personen muß mann ein tag 10 Centner Fleysch haben / vnd thůt an Viehe.
+  cs: 'Dále: na 1000 osob je třeba mít na den 10 centů masa, což činí na dobytku:'
+- typ: tabulka
+  de:
+  - - 1 Ochsen
+    - ''
+    - 1 Ochsen
+  - - 3 Kůe
+    - ''
+    - 2 Kůe
+  - - 5 Kälber
+    - Oder mag nemen.
+    - 5 Kälber
+  - - 1 Hamel
+    - ''
+    - 4 Hämel
+  - - 2 Schaaff.
+    - ''
+    - 5 Schaaff.
+  cs:
+  - - 1 vola
+    - ''
+    - 1 vola
+  - - 3 krávy
+    - ''
+    - 2 krávy
+  - - 5 telat
+    - 'Nebo lze vzít:'
+    - 5 telat
+  - - 1 skopce
+    - ''
+    - 4 skopce
+  - - 2 ovce
+    - ''
+    - 5 ovcí
+- typ: odstavec
+  de: |-
+    Item auff 1000 personen gehen ein Woche an Fleysch 70 Centner / thůt an Viehe.
+  cs: 'Dále: na 1000 osob připadá za týden 70 centů masa, což činí na dobytku:'
+- typ: tabulka
+  de:
+  - - 7 Ochsen
+    - ''
+    - 7 Ochsen
+  - - 21 Kůe
+    - ''
+    - 14 Kůe
+  - - 35 Kälber
+    - Oder mag nemen.
+    - 35 Kälber
+  - - 7 Hämel
+    - ''
+    - 28 Hämel
+  - - 40 Schaaff.
+    - ''
+    - 35 Schaaff.
+  cs:
+  - - 7 volů
+    - ''
+    - 7 volů
+  - - 21 krav
+    - ''
+    - 14 krav
+  - - 35 telat
+    - 'Nebo lze vzít:'
+    - 35 telat
+  - - 7 skopců
+    - ''
+    - 28 skopců
+  - - 40 ovcí[^1]
+    - ''
+    - 35 ovcí
+- typ: odstavec
+  de: |-
+    Item auff 1000 personen muß mann ein Monat 300 Centner fleysch haben / macht an viehe so mann zu vnderhaltung schlchachten muß.
+  cs: 'Dále: na 1000 osob je třeba mít na měsíc 300 centů masa; to činí na dobytku, který se musí k jejich výživě porazit:'
+- typ: tabulka
+  de:
+  - - 30 Ochsen
+    - ''
+    - 28 Ochsen
+  - - 90 Kůe
+    - ''
+    - 64 Kůe
+  - - 150 Kälber
+    - Oder mag nemen.
+    - 150 Kälber
+  - - 30 Hämel
+    - ''
+    - 120 Hämel
+  - - 60 Schaaff.
+    - ''
+    - 150 Schaaff.
+  cs:
+  - - 30 volů
+    - ''
+    - 28 volů
+  - - 90 krav
+    - ''
+    - 64 krav
+  - - 150 telat
+    - 'Nebo lze vzít:'
+    - 150 telat
+  - - 30 skopců
+    - ''
+    - 120 skopců
+  - - 60 ovcí
+    - ''
+    - 150 ovcí
+poznamky:
+- n: 1
+  text: |-
+    Chyba tisku shodná s Druhou knihou ([[040r|list 40]]): sedminásobek denní dávky (2 ovce) je 14 ovcí, nikoli 40; s nimi by levý sloupec dával přesně 70 centů. Ostatní tabulky na této straně vycházejí přesně (váhy viz předchozí stranu).

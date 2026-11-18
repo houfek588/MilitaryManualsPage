@@ -1,0 +1,42 @@
+id: 7-014r
+list: 14 (7. kniha)
+strana: recto
+sken: 575
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    darnach die nachwart oder den Nachzug haben vnd gleicher massen / wie hieuorn gemelt ist / mit sechs Schlangen versehen sein.
+  cs: |-
+    podle toho držet zadní stráž {nachwart} neboli zadní voj {Nachzug}; stejně jako výše uvedení mají být opatřeni šesti kulverinami {Schlangen}.
+- typ: odstavec
+  de: |-
+    Also sein die dreitausent Pferdt ausserhalb vnd hindan gesetzt der dreihundert Schützen zu Roß in die gestelten hauffen der jetztbenanten Reisigen außgetheilt / souer mann die angezeigten dreihundert Schützen zu Roß vber die anzal der ehegedachten drei tausent pferdt füglich nit möcht auffbringen oder bekomen / so mag mann als dann dieselben auß den gestelten hauffen sonder beschwerde nemen / dann die hauffen darnach im fall der not starck gemůt sein / vnnd soll der Renhauffen alweg im vorzug bei dem Veldmarschalck sein / aber mit dem andern hauffen muß gestalt vnnd gelegenheit der sachen abgewechselt werden / damit sich kein theil der vngleicheit billich hab zubeschweren.
+  cs: |-
+    Tak jsou tři tisíce koní – nepočítaje tři sta jízdních střelců {Schützen zu Roß} – rozděleny do sestavených houfů {hauffen} právě jmenované jízdy {Reisigen}. Kdyby se uvedených tři sta jízdních střelců nad počet zmíněných tří tisíc koní nedalo vhodně sehnat nebo získat, lze je bez potíží vzít ze sestavených houfů, neboť ty jsou pak pro případ nouze dost silné. Předvojový houf {Renhauffen} má být vždy v předvoji {vorzug} u polního maršálka {Veldmarschalck}; s ostatními houfy se však musí podle povahy a okolností věci střídat, aby si žádná část nemohla po právu stěžovat na nerovnost.
+- typ: odstavec
+  de: |-
+    Darauß eruolgt das die Reutter zu destomehrem gehorsam vnd gůter Ordnung gereitzt werden / vnd mann jeder zeit desto baß mit jnen handlen vnd außkomen mag.
+  cs: |-
+    Z toho plyne, že jezdci {Reutter} jsou vedeni k tím větší poslušnosti a dobrému pořádku a že se s nimi dá kdykoli tím lépe jednat a vyjít.
+- typ: odstavec
+  de: |-
+    Wiewol auch der gereisigen gantzer hauff sampt jren vndergegeben Geschütz alweg in jrer bestimbten ordnung bleiben / so sol doch nichts destominder solicher Zug der Reisigen jeder zeit nach des obersten beuelch durch dasselbigen Leutenant / Veldmarschalck auch desselben Marschalcks Leutenant / Quartier vnd Wagenmeister verordnet werden.
+  cs: |-
+    Ačkoli celý houf jízdy i s děly {Geschütz}, která jsou mu přidělena, zůstává vždy ve svém určeném pořadí, má být takový pochod {Zug} jízdy přesto vždy na rozkaz plukovníka {obersten} uspořádán jeho poručíkem {Leutenant}, polním maršálkem, poručíkem téhož maršálka, kvartýrmistrem a vozmistrem {Quartier vnd Wagenmeister}.
+- typ: odstavec
+  de: |-
+    Begebe sich dann das mann auß getrongner not oder sonst in anderwege von den Feinden müst oder würde abziehen / so ist als dann der Veldmarschalck vermög seines vfferlegten beuelchs vnd Ampts schuldig / mit dem Renhauffen der letst im abzug zusein / vnnd mit gedreustem vleis ob dem Hauffen zuhalten / auch aller maß vnnd gestalt in sollichem nach vnnd abzug zuhandeln / wie das sein Ampt so mann gegen den Feinden im abzug were / auffs weist die andern hauffen / aber sollen den fürgenomenen abzug in jrer ordnung wie das die notturfft erfordert volbringen.
+  cs: |-
+    Kdyby se pak stalo, že by se z donucení nouze nebo jinak muselo či mělo od nepřítele ustoupit, je polní maršálek podle svěřeného rozkazu a úřadu {Ampts} povinen být s předvojovým houfem při ústupu poslední, s nejvěrnější pílí chránit houf a v tomto odtahu a ústupu jednat ve všem tak, jak mu to ukládá jeho úřad, když se před nepřítelem ustupuje.[^1] Ostatní houfy však mají zamýšlený ústup provést ve svém pořadí, jak to vyžaduje potřeba.
+- typ: odstavec
+  de: |-
+    Es möchten gleich wol dise gestelte geschwader ehe zu groß dann zu klein sein / dieweil mann aber nicht allemal einn geraumen Platz gehaben mag / so ist viel besser die geschwader in dise ordnung zulassen / dann sie sind alwegen leichter vnd nicht einer geringen mühe zusamen gestossen dann von einander zutheilen / vnd volgens widrumb in ein new ordnung zubringen / Souer auch mehr anzal Schützen zu roß vffzůbringen vnd bekomen / das were der sachen fast dienstlich / vnd dardurch möcht des gegentheils schwere Rüstung fast gefelligt vnd mat gemacht werden / zu dem derselben schwern pferdt grosser abbruch
+  cs: |-
+    Tyto sestavené švadrony {geschwader} by sice mohly být spíše příliš velké než příliš malé. Protože však nelze vždy mít prostorné místo, je mnohem lepší ponechat švadrony v tomto řádu {ordnung}; snáze a s nemalou úsporou námahy se totiž vždy spojí, než aby se od sebe dělily a potom znovu uváděly do nového řádu. Kdyby se dalo sehnat a získat více jízdních střelců, velmi by to věci prospělo; tím by se mohla těžká zbroj {schwere Rüstung} protivníka značně oslabit a zemdlít a jeho těžkým koním by se tím
+poznamky:
+- n: 1
+  text: |-
+    Tisk má „wie das sein Ampt … auffs weist“, tj. nejspíš „aufweist“ – jak jeho úřad ukazuje, ukládá.

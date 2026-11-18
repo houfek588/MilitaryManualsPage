@@ -1,0 +1,111 @@
+id: 6-015v
+list: 15 (6. kniha)
+strana: verso
+sken: 522
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['Summa lat.', 'Gelts ist', '62 flo. 12 batz.']
+  - ['', 'Pferde', '22']
+  - ['', 'Wagen.', '1½']
+  - ['', 'Barthel Hüpffauff.', '']
+  - ['14', 'Item hat auff den Musterplatz 12 meiln 6 tag mit 2 pferden reitens vnd stilligens/ thůn 2 pferd 6 tag jedes zu 6 batzen', '4 flo. 12 batz.']
+  - ['', 'Simon der Einspennig.', '']
+  - ['25', 'Item hat auff den Musterplatz 6 tag mit 1 pferde reitens vnd stilligens/ thůt 1 pferd 1 tag zu 6 batzen. 6 tag', '2 flo. 6 batzen']
+  - ['Summa latr.', 'Gelts ist', '7 flo. 3 batz.']
+  - ['', 'Pferde', '3']
+  - ['', 'Wagen', '0']
+  - ['Summarum', 'aller pferde ist 156/ thůn zum anrit gelt', '389 flo. 8 batz']
+  - ['', 'der Wagen ist 12/ thůn', '65 gulden 6 batzen.']
+  - ['', 'alles gelts der pferd vnd wagen ist', '454 flo. 14 batz.']
+  - ['', 'Von zwölffen vndergesteckter Drosser wägen abgezogen', '31 flo.']
+  - ['', 'Rest noch', '423 flo. 14 batz.']
+  cs:
+  - ['součet strany {Summa lat.}', 'peněz je', '62 zl. {flo.} 12 bac. {batz.}']
+  - ['', 'koní {Pferde}', '22']
+  - ['', 'vozů {Wagen}', '1½']
+  - ['', 'Barthel Hüpffauff.', '']
+  - ['14', 'Dále: měl na přehlídkové místo {Musterplatz} 12 mil {meiln} a 6 dní jízdy a stání {reitens vnd stilligens} se 2 koňmi; činí 2 koně za 6 dní, každý po 6 bacenech', '4 zl. 12 bac.[^1]']
+  - ['', 'Simon, jednokoní jezdec {Einspennig}.', '']
+  - ['25', 'Dále: měl na přehlídkové místo 6 dní jízdy a stání s 1 koněm; činí 1 kůň za 1 den po 6 bacenech, 6 dní', '2 zl. 6 bac.']
+  - ['součet strany', 'peněz je', '7 zl. 3 bac.']
+  - ['', 'koní', '3']
+  - ['', 'vozů', '0']
+  - ['úhrn {Summarum}', 'všech koní je 156, činí na příjezdném {anrit gelt}', '389 zl. 8 bac.']
+  - ['', 'vozů je 12, činí', '65 zlatých {gulden} 6 bacenů']
+  - ['', 'všech peněz za koně a vozy je', '454 zl. 14 bac.']
+  - ['', 'Za dvanáct vozů, do nichž byli započteni trénní koně {Drosser}, odečteno', '31 zl.[^2]']
+  - ['', 'Zbývá ještě', '423 zl. 14 bac.']
+- typ: nadpis
+  uroven: 3
+  de: Anrit gelt Hertzog Moritzen zu Sachssen/ etc.
+  cs: Příjezdné {Anrit gelt} vévody Mořice Saského atd.
+- typ: tabulka
+  de:
+  - ['1', 'Jr F. G. haben vff den musterplatz 53 meiln/ sind 18 tag mit 24 pferden gereist vnd stilgelegen/ thůt 1 pferd zu 6 batzen/', '172 flo. 12 batzen.']
+  - ['', '2 Drosser', '7 fl. 3 batzen/']
+  - ['', '4 wagen', '57 flo.']
+  - ['', 'summa', '237 gulden.']
+  - ['', 'Herr Otto von Dißkaw Ritter.', '']
+  - ['2', 'Hat vff den musterplatz 53/ vnd ist 18 tag mit 6 pferden gereist vnd stilgelegen/ thůt zu 6 batzen auffs pferd ein tag', '43 gulden 3 batzen.']
+  - ['', '1 Drosser', '3 gulden 9 batzen/']
+  - ['', '1 wagen', '14 flo. 6 batzen/']
+  - ['', 'summa', '61 fl. 6 batz.']
+  - ['', 'Jorg von Dannenberg.', '']
+  - ['3', 'Item hat auff den Musterplatz 36 meiln/ vnd hat 13 tag mit 15 Pferden gereiset vnd stilgelegen/ thůt vffs roß zu 6 batzen', '78 gulden']
+  - ['', '1 Drosser', '2 flo.']
+  - ['', '1 Wagen', '10 flo. 6 batzen.']
+  - ['', 'summa', '91 flo.']
+  - ['Summa lat.', 'Gelts', '389 flo. 3 batz.']
+  - ['', 'Pferde', '45']
+  - ['', 'Drosser', '4']
+  - ['', 'Wagen.', '6']
+  - ['', 'Hantgelt von Maltitz.', '']
+  - ['4', 'Item hat 53 meiln wegs/ vnd ist 18 tag mit 8 Rossen gereiset vnd stilgelegen/ thůt vffs Roß zu 6 batzen an gelt zusamen', '58 flo. 9 batze.']
+  - ['', '1 Droß', '3 flo. 9 batz.']
+  - ['', '1 Wagen', '14 flo 6 batzen.']
+  - ['', 'summa', '76 flo. 9 batz.']
+  - ['', 'Hanß von Dißkaw.', '']
+  - ['5', 'Item hat 43 meiln/ vnd ist 18 tag mit 8 Rossen gereiset vnd stilgelegen/ thůt vffs Roß zu 6 batzen in summa zusamen', '48 gulden.']
+  - ['', '1 Drosser', '3 flo.']
+  - ['', '1 Wagen', '12 flo.']
+  - ['', 'summa', '63 gulden.']
+  cs:
+  - ['1', 'Jeho knížecí Milost {F. G.} měla na přehlídkové místo 53 mil a 18 dní byla se 24 koňmi na cestě a ve stání {gereist vnd stilgelegen}; činí na 1 koně po 6 bacenech', '172 zl. 12 bac.']
+  - ['', '2 trénní koně', '7 zl. 3 bac.']
+  - ['', '4 vozy', '57 zl.']
+  - ['', 'suma', '237 zlatých']
+  - ['', 'Pan Otto von Dißkaw, rytíř {Ritter}.', '']
+  - ['2', 'Měl na přehlídkové místo 53 [mil] a 18 dní byl se 6 koňmi na cestě a ve stání; činí po 6 bacenech na koně za den', '43 zlatých 3 bacenů']
+  - ['', '1 trénní kůň', '3 zlaté 9 bacenů']
+  - ['', '1 vůz', '14 zl. 6 bac.']
+  - ['', 'suma', '61 zl. 6 bac.']
+  - ['', 'Jorg von Dannenberg.', '']
+  - ['3', 'Dále: měl na přehlídkové místo 36 mil a 13 dní byl s 15 koňmi na cestě a ve stání; na koně {roß} po 6 bacenech', '78 zlatých']
+  - ['', '1 trénní kůň', '2 zl.']
+  - ['', '1 vůz', '10 zl. 6 bac.']
+  - ['', 'suma', '91 zl.']
+  - ['součet strany', 'peněz', '389 zl. 3 bac.']
+  - ['', 'koní', '45']
+  - ['', 'trénních koní', '4']
+  - ['', 'vozů', '6']
+  - ['', 'Hantgelt von Maltitz.[^3]', '']
+  - ['4', 'Dále: měl 53 mil cesty a 18 dní byl s 8 koňmi na cestě a ve stání; na koně po 6 bacenech, činí na penězích dohromady', '58 zl. 9 bac.']
+  - ['', '1 trénní kůň {Droß}', '3 zl. 9 bac.']
+  - ['', '1 vůz', '14 zl. 6 bac.']
+  - ['', 'suma', '76 zl. 9 bac.']
+  - ['', 'Hanß von Dißkaw.', '']
+  - ['5', 'Dále: měl 43 mil a 18 dní byl s 8 koňmi na cestě a ve stání; na koně po 6 bacenech, činí v sumě dohromady', '48 zlatých']
+  - ['', '1 trénní kůň', '3 zl.']
+  - ['', '1 vůz', '12 zl.']
+  - ['', 'suma', '63 zlatých']
+poznamky:
+- n: 1
+  text: Tisk čísluje položky „14“ a „25“; po položce 23 má jít o položky 24 a 25.
+- n: 2
+  text: Nejisté místo – „vndergesteckter Drosser“ patrně znamená, že trénní koně byli „zastrčeni“ (započteni) do počtu vozů, a proto se za ně odečítá. Rejstřík Helwicka von Rückerßhausen a Daniela Scheurschloße tím končí s čistou částkou 423 zl. 14 bac.
+- n: 3
+  text: Čtení „Hantgelt“ odpovídá tisku; snad zkomolené křestní jméno (např. Haugold) příslušníka míšeňského rodu von Maltitz. Otto a Hanß von Dißkaw patří k saskému rodu von Dieskau.

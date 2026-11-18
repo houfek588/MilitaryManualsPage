@@ -1,23 +1,23 @@
 id: solms-1559
 nazev: Válečný popis a řád válečné správy
 nazev_orig: Dises Buch vnd Kriegsbeschreibung ist vermelten vnd berichten einer guten ordentlichen Kriegsregierung
-podtitul: 'nach alter Teutschen ordnung gebrauch vnd herkomen mit andern noch Büchern von aller Kriegsregierung vnd Rüstung so zu dem Krieg gehört (Das erst bis fünfft Buch)'
+podtitul: 'nach alter Teutschen ordnung gebrauch vnd herkomen mit andern noch Büchern von aller Kriegsregierung vnd Rüstung so zu dem Krieg gehört (Das erst bis neundt Buch)'
 autor: Reinhard hrabě ze Solmsu
 autor_zivot: 1491–1562
 vydani: Lich, vlastní tiskárna hraběte Reinharda ze Solmsu, 1559
 rok: 1559
 vd16: VD16 R 938
 katalog: VD16 R 938
-rozsah: '[1], 39, [1], [1], 87, [1], [1], 67, [22], [1], 26, [1] listů + rozkládací tabule (První až Pátá kniha souborného tisku), 2°'
+rozsah: '[1], 39, [1], [1], 87, [1], [1], 67, [22], [1], 26, [1] listů (1.–5. kniha) a listy 6.–9. knihy (6.: [1], 27; 7.: [1], 18; 8.: [1], 14; 9.: [1], 30 – podle foliace v tisku) + rozkládací tabule, 2°'
 jazyk_orig: raná nová horní němčina
 popis: >-
-  Monumentální válečné dílo říšského hraběte Reinharda ze Solmsu (knihy 1–5): válečná správa, služební listy,
-  ležení a vozová hradba, úřady, žold a artikulní list starého německého vojska, dělostřelectvo a zbrojnice, výroba
-  prachu a ohňostrojů, děla a lafety, podkopy a obléhání pevností, tažný řád a opevněné polní sruby.
-prekladatel: Pracovní překlad části 2. knihy z Google Docs revidovaný a doplněný o 1., zbytek 2., 3., 4. a 5. knihu s pomocí LLM, 2026.
+  Monumentální válečné dílo říšského hraběte Reinharda ze Solmsu (knihy 1–9): válečná správa, služební listy,
+  úřady, žold a artikulní list starého německého vojska, dělostřelectvo a zbrojnice, prach a ohňostroje, děla a lafety,
+  podkopy a polní sruby, přehlídka jízdy, válečná karetní hra, obsazení a zásobování města a Burgundský válečný řád.
+prekladatel: Pracovní překlad části 2. knihy z Google Docs revidovaný a doplněný o 1., zbytek 2. a 3.–9. knihu s pomocí LLM, 2026.
 strankovani: folio
 strany_poznamka: >-
-  Edice obsahuje soubornou První až Pátou knihu (468 stran v edici): hlavní titulní list svazku
+  Edice obsahuje soubornou První až Devátou knihu (652 stran v edici): hlavní titulní list svazku
   (sken 9) a úplnou První knihu (skeny 10–88, 80 stran, ID s prefixem 1-: nečíslovaný vložený
   dvoulist 1-erb-cisare / 1-jezdec mezi 1-001v a 1-002r a listy 2–39; sken 89 před 2. knihou je
   prázdný), úplnou Druhou knihu (skeny 90–248, 157 stran: frontispis erb-solms na skenu 90 a listy
@@ -31,7 +31,7 @@ strany_poznamka: >-
   Pátou knihu (skeny 435–490, 54 stran, ID s prefixem 5-: titulní list 5-titul na skenu 435,
   listy 5-001r až 5-025v složek A–E s foliací tištěnou až od listu 7 vč. rozkládací tabule
   5-024r/5-024v, vložený list [25a]–[25b] na skenech 487–488 a závěrečný list 5-026r až 5-026v,
-  na jehož spodní polovině začíná erbovní frontispis Šesté knihy). Ve 2. knize tisk přeskakuje
+  na jehož spodní polovině začíná erbovní frontispis Šesté knihy), Šestou knihu o přehlídce (skeny 491–545, ID s prefixem 6-: titulní list 6-titul a listy 6-001r až 6-027r), Sedmou knihu „Kartenspiel“ (skeny 546–583: erb 7-erb-solms na rubu listu 6-027r, titul 7-titul a listy 7-001r až 7-018r), Osmou knihu o obsazení města (skeny 585–616: 8-erb-solms, 8-titul, listy 8-001r až 8-014v) a Devátou knihu, Burgundský válečný řád (skeny 617–681: 9-erb-solms, 9-titul, listy 9-001r až 9-030v a erbovní list 9-erb-konec na konci svazku). Prázdné strany 492, 548, 584, 586, 588, 618 a 620 (jen prosvítání protější sazby) a závěrečné prázdné listy 682–687 se vynechávají. Ve 2. knize tisk přeskakuje
   čísla listů 5 (tab-01), 30 (tisk 031r má číslo 30 a 032r má číslo 32), 33, 47, 51, 56, 58, 63,
   68, 70r a 77 a chybně tiskne čísla 29 (27), 31 (30), 41 (42) a 81 (82); ve 3. knize tisk chybně
   čísluje listy 22 (2), 31 (32), 50 (70), 51 (71), 52 (72), 54 (74) a na listu 62 je číslo sotva
@@ -55,7 +55,7 @@ sken:
   poznamka: >-
     Zařazena je kompletní První kniha včetně hlavního titulního listu svazku (skeny 9–88),
     kompletní Druhá kniha (skeny 90–248), kompletní Třetí kniha (skeny 250–385), dochovaná Čtvrtá
-    kniha (skeny 386–434) a kompletní Pátá kniha (skeny 435–490). Skeny 89 (prázdný líc před erbem
+    kniha (skeny 386–434), kompletní Pátá kniha (skeny 435–490), Šestá kniha (491–545), Sedmá (546–583), Osmá (585–616) a Devátá kniha (617–681). Skeny 89 (prázdný líc před erbem
     2. knihy), 101 (prázdný líc před tabulí na skenu 102), 215 (prázdný líc před dřevořezem
     praporečníka na skenu 216), 249 (prázdný líc před erbem 3. knihy), nepotištěné prázdné strany
     4. knihy (skeny 388, 396, 397, 400, 405, 409, 412 a 417) a prázdné strany 5. knihy (sken 436
@@ -76,6 +76,13 @@ predsadka:
 - 4-erb-solms
 - 4-titul
 - 5-titul
+- 6-titul
+- 7-erb-solms
+- 7-titul
+- 8-erb-solms
+- 8-titul
+- 9-erb-solms
+- 9-titul
 
 poznamky_k_prekladu: |
   ZDROJ ORIGINÁLU: německý text vychází z OCR digitalizace BSB München (`zdroje/ocr_bsb/NNNN.txt`,

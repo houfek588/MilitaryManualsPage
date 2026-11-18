@@ -1,0 +1,26 @@
+id: 7-009r
+list: 9 (7. kniha)
+strana: recto
+sken: 565
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-565.jpg
+  popis: |-
+    Obrazové karty pěchoty římské strany (červený tisk), protějšek černých karet na [[7-005v|listu 5v]]; pořadí po řádcích zleva doprava: 1. sevřený čtverhranný šik lancknechtů s lesem vztyčených pík a praporcem; 2. houf pěších knechtů na pochodu, v pozadí krajina s městem, stromem a horami; 3. pochodující pikenýři se sklopenými píkami a praporcem, nahoře písmeno „B“; 4. pěší houf s praporcem, v jehož čele jede velitel na koni; 5. řada pochodujících pikenýrů se vztyčenými píkami, nahoře písmeno „A“; 6. bez rámečku – dva obdélníkové bloky drobných postaviček střelců s ručnicemi na rameni, seřazených v řadách (asi po šesti v devíti řadách). V dolní části strany prosvítají černé textové karty z rubu listu.
+- typ: tabulka
+  de:
+  - - '3'
+    - B
+  - - '5'
+    - A
+  cs:
+  - - '3'
+    - B
+  - - '5'
+    - A[^1]
+poznamky:
+- n: 1
+  text: |-
+    Význam písmen A a B na kartách 3 a 5 tisk na okolních stranách nevykládá; snad měla odlišit dva druhy pěších karet (řadu a šik).

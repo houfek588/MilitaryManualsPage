@@ -1,0 +1,40 @@
+id: 9-027r
+list: 27 (9. kniha)
+strana: recto
+sken: 673
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Feind zu dem Polwerck kommen/ werden sie wider von denen die darinn ligen zu rück geschlagen/ wann sie also ein vnuersehenliche wehre vnd hauffen Knecht darinn finden.
+  cs: |-
+    dojde k bolverku {Polwerck}, odrazí ho zase ti, kdo v něm leží, protože tam nečekaně narazí na obranu a houf knechtů {Knecht}.
+- typ: odstavec
+  de: |-
+    Auch wann ewer Feinde sehen daß ewer Stat der massen beschlossen/ daß sie vermeinen sie wöllens mit einem sturm gewinnen/ solt jr die höchsten leut die jr habt an das ort ordnen/ da jr vermeint am gefehrlichsten zu sein/ sollen auch jr Geschütz vnnd Büchsenmeister bei jnen haben/ deßgleichen solt jhr eben so wol die Frawen als die Mäner ordnen/ dann sie Kessel mit warmem Wasser haben sollen/ vnd die vnder die Feinde schütten/ auch möcht jr haben vil stein/ die an einander gebunden mit eisen dreten/ vnnd glüend heiß gemacht/ dieselbigen hinab geworffen/ welches warlich die stürmenden fast verhindert.
+  cs: |-
+    Když také váš nepřítel vidí, že je vaše město uzavřeno tak, že je hodlá dobýt útokem {sturm}, máte na místo, které pokládáte za nejnebezpečnější, postavit nejlepší lidi, jaké máte; ti mají mít u sebe i svá děla {Geschütz} a puškaře {Büchsenmeister}. Stejně tak máte rozestavit ženy jako muže, neboť ženy mají mít kotle s horkou vodou a lít ji na nepřítele. Můžete mít také mnoho kamenů svázaných k sobě železnými dráty a rozpálených dožhava a shazovat je dolů, což útočníkům věru velmi překáží.
+- typ: odstavec
+  de: |-
+    Der jenig so Oberster in der Stat ist/ soll zu roß sein/ hin vnd wider von einem Polwerck zu dem andern reitten/ vnd den Knechten on vnderlaß zu sprechen/ vnd wann etwas von nöten were an einem ort/ daß mann frische Knecht dahin verordnet/ solt jrs eilents thůn/ dann dardurch etwan ein gantze Stat behalten wirdt/ Jn dem fall sollen auch die Büchsenmeister mit dem Geschütz das best thůn/ vnd wann dardurch nicht ein Stat behalten wirdt/ kan ich euch nichts mehr daruon schreiben/ es möchten wol villeicht etwan sonst mehr Maniern sein/ die mir villeicht jetzund der zeit nicht zu fallen/ aber ich hab euch die fürnembsten sachen angezeigt.
+  cs: |-
+    Ten, kdo je ve městě plukovníkem {Oberster}, má být na koni, projíždět sem a tam od jednoho bolverku k druhému a bez ustání povzbuzovat knechty. A bude-li na některém místě třeba poslat tam čerstvé knechty, máte to učinit rychle, neboť tím se někdy udrží celé město. V takovém případě mají i puškaři s děly vykonat, co nejlépe dovedou. Neudrží-li se město ani tím, nemohu vám o tom napsat nic víc. Snad by mohly být ještě i jiné způsoby, které mě teď nenapadají, ale ukázal jsem vám ty nejpřednější věci.
+- typ: odstavec
+  de: |-
+    Dieweil ich euch nur inn schrifften den Krieg zu landt nach meinem kindischen verstandt gesetzt hab/ ist es von nöten das ich euch gleicher gestalt die Manier vnd ordnung anzeige die jhr halten solt/ wann jr personlich auff dem Meer kriegen wolt/ solt jr erstlich ewerm Admiral alle schiff groß vnd klein beuelhen zu kauffen/ vnd solche mit Geschütz vnnd allen andern dingen darzů dienstlich/ versehen/ solt auch nemen vnd außerwelen für euch die aller stercksten vnd grösten schiff/ dann dieselbigen desto mehr Geschütz füren vnd am sichersten seind/ soll auch fleissig lugen daß an dem leib des schiffs/ vnd sonst andern orten nichts fele/ auch mit segeln/ Anckern/ Mastbaumen/ stricke vnd eim gůten Patron der wol zůfürn wisse vnd fleissig sei/ versehen/ deßgleichen auch mit andern Amptern wol besetzt/ doch ist es am meisten an dem Patron gelegen/ dann derselbig wann jederman schlefft soll er wachen.
+  cs: |-
+    Protože jsem vám válku na souši sepsal jen na papíře a podle svého dětinského rozumu[^1], je třeba, abych vám stejným způsobem ukázal způsob a řád, který máte zachovávat, chcete-li osobně válčit na moři. Za prvé máte svému admirálovi {Admiral} nařídit, aby nakoupil všechny lodě, velké i malé, a vybavil je děly a všemi ostatními věcmi, které k tomu slouží. Pro sebe máte vzít a vybrat ty nejsilnější a největší lodě, neboť ty nesou tím více děl a jsou nejbezpečnější. [Admirál] má také pečlivě dohlédnout, aby trupu lodi ani jiným jejím částem nic nechybělo, vybavit ji plachtami, kotvami, stěžni, lany a dobrým kapitánem {Patron}[^2], který umí loď dobře vést a je pilný, a stejně tak dobře obsadit i ostatní úřady. Nejvíce však záleží na kapitánovi, neboť ten má bdít, když všichni ostatní spí.
+- typ: odstavec
+  de: |-
+    Ferrner soll ewer Zeugmeister in ewerm schiff das Geschütz vnnd was darzů gehörig/ von Puluer/ stein/ Fewerpfeiln besichtigen/ vnd soll das Puluer vnd Fewrzeug zu vnderst in das schiff/ da zum
+  cs: |-
+    Dále má váš zbrojmistr {Zeugmeister} na vaší lodi prohlédnout děla a to, co k nim patří, totiž střelný prach {Puluer}, kameny a zápalné šípy {Fewerpfeiln}, a má uložit prach a ohňostrojné potřeby {Fewrzeug} úplně dospod lodi, kde
+poznamky:
+- n: 1
+  text: |-
+    *nach meinem kindischen verstandt* – skromnostní formule autora (Filipa Klévského) vůči panovníkovi, jemuž řád věnoval.
+- n: 2
+  text: |-
+    *Patron* – velitel a lodivod lodi (franc. *patron*), tj. kapitán odpovědný za plavbu; vedle něho stojí admirál jako velitel celého loďstva.

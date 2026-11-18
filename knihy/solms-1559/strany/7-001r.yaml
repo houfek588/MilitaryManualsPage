@@ -1,0 +1,41 @@
+id: 7-001r
+list: 1 (7. kniha)
+strana: recto
+sken: 549
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Anfang des sibenden Buchs.
+  cs: Začátek Sedmé knihy.
+- typ: odstavec
+  de: |-
+    IN disem Bůch wirt ein Kartenspiel/ von allen Obersten Kriegßleuten vnnd Kriegßuolck zů Roß vnd Fůß/ auch mit aller wagen vnd büchsen Rüstung/ deßgleichen Heerwagen/ Artoloreiwagen/ Sturmwagen/ Macatanten wagen vnd Karn/ angezeigt/ Welchs billich ein Ritterlich vnnd Adelisch Kartenspiel genant solt werden/ darinn der jung Adel sich wol zu üben vnd zu lernen haben möcht/ vnd dörfft sein gelt nicht darauff/ wie auff Wirffeln vnd andern Kartenspieln setzen/ bedörfft der sorg auch nit/ daß jm ein anderer sein gelt angewinnen künde/ oder mit einem andern sich balgen vnd zweien müst/ sonder er kan sein Kartenspiel mit lust vnd kurtzweil wol zu bringen/ nemlich auff disen volgenden weg.
+  cs: |-
+    V této knize se ukazuje karetní hra {Kartenspiel} se všemi nejvyššími válečníky {Obersten Kriegßleuten} a válečným lidem {Kriegßuolck} na koni i pěšky, také s veškerou vozovou a dělovou výzbrojí {Rüstung}, rovněž s válečnými vozy {Heerwagen}, dělostřeleckými vozy {Artoloreiwagen}, útočnými vozy {Sturmwagen}, markytánskými vozy {Macatanten wagen} a károu {Karn}. Právem by se měla nazývat rytířskou a šlechtickou karetní hrou, neboť by se v ní mladá šlechta mohla dobře cvičit a učit. Mladý šlechtic na ni nemusí sázet své peníze jako na kostky a jiné karetní hry, nemusí se ani bát, že by mu někdo jiný peníze vyhrál nebo že by se musel s někým rvát a hádat; naopak může svou karetní hru provozovat s potěšením a pro kratochvíli, a to následujícím způsobem.
+- typ: odstavec
+  de: |-
+    Erstlich neme einer vor sich dise Kriegßkarten/ darinn zufinden ist alles Kriegßuolck zu roß vnd füß von schwerer vnnd leichter rüstung/ von allen Nationen Teutschen vnd Welschen/ wie inn einem Veldzug vnd Leger dann zusamen kompt.
+  cs: |-
+    Nejprve si hráč vezme před sebe tyto válečné karty {Kriegßkarten}, v nichž je k nalezení všechen válečný lid na koni i pěšky, v těžké i lehké zbroji, ze všech národů, německých i vlašských {Welschen}, jak se na tažení {Veldzug} a v ležení {Leger} schází.
+- typ: odstavec
+  de: |-
+    Zum andern neme einer von allerlei Geschütz groß vnnd klein/ Maurbrecher/ Veldgeschütz vnnd alle andere mehr rüstung darzů/ wie das dann gehört vnd sein will.
+  cs: |-
+    Za druhé si vezme všechna děla {Geschütz}, velká i malá, bořiče hradeb {Maurbrecher}, polní děla {Veldgeschütz} a veškerou další výzbroj k tomu, jak k tomu patří a jak je třeba.
+- typ: odstavec
+  de: |-
+    Zum dritten soll einer auch nemen alle Wagen rüstung/ nemlich Schiffbrücken/ Heerwagen/ Artoloreiwagen/ sturm oder streit Wagen/ Marcatanten wagen vnd karn/ wie hernach mit Figurn vnnd Schrifften alles angezeigt wirt.
+  cs: |-
+    Za třetí si má vzít také veškerou vozovou výzbroj, totiž lodní mosty {Schiffbrücken}, válečné vozy, dělostřelecké vozy, útočné neboli bojové vozy {sturm oder streit Wagen}, markytánské vozy a káry, jak je to dále všechno ukázáno vyobrazeními a popisy.
+- typ: odstavec
+  de: |-
+    Zum letsten vnd beschluß neme den Droß von Reuttern vnd knechten. Mag einer fragen/ wie soll ich darmit spielen. Dem thů also/ Ich neme in sinn/ wil souil Kriegßuolck zu füß/ souil zu roß/ souil schützen zu pferde/ souil geringer pferde von der Nation/ darnach souil von der/ dann souil Geschütz/ jeglichs ein summ wieuil dann zu einer Schlacht gehört/ das alles vnd die hohen ampts Personen die einn krieg regiren füren vnd ordnen findt mann auff der Karten/ Nun lege die Bletter auff ein Tafel vor dich/ wie du vermeinest daß ein kriegsvolck in ein Schlacht oder zug ordnung auff das vortheil hafftigst als du kanst/ zu stellen sei.
+  cs: |-
+    Naposledy a na závěr si vezme trén {Droß} jezdců {Reuttern} a knechtů {knechten}. Může se někdo zeptat: Jak s tím mám hrát? Udělej to takto: Umíním si, že chci tolik válečného lidu pěšky, tolik na koni, tolik jízdních střelců {schützen zu pferde}, tolik lehkých koní {geringer pferde} od tohoto národa, pak tolik od onoho, dále tolik děl – od každého takový počet, kolik k bitvě {Schlacht} patří. To vše i vysoké úřední osoby {hohen ampts Personen}, které válku řídí, vedou a pořádají, najdeš na kartách. Nyní rozlož listy na stůl před sebe tak, jak se domníváš, že se má válečný lid postavit do bitevního nebo pochodového šiku {zug ordnung} co nejvýhodněji, jak jen dovedeš.
+- typ: odstavec
+  de: |-
+    Ja mag einer fragen/ wer will mir das sagen/ ich bin nie im krieg oder Veldzug gewesen/ darumb weiß ich nicht wie oder wo ich das anfahen soll/ Daran soll es nicht fehlen/ ich wil dem helffen/ darmit
+  cs: |-
+    Může se ovšem někdo zeptat: Kdo mi to poví? Nikdy jsem nebyl ve válce ani na tažení, a proto nevím, jak a kde s tím mám začít. Na tom to nemá ztroskotat; chci tomu pomoci, aby

@@ -1,0 +1,32 @@
+id: 7-003v
+list: 3 (7. kniha)
+strana: verso
+sken: 554
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Weiter ist auch zu müssigen zeiten besser darmit vmbgehen/ dann mit spielen vnd trincken/ oder andere leichtfertige werck treiben.
+  cs: |-
+    Dále je také lepší zabývat se tím v prázdných chvílích než hrou a pitím nebo jinými lehkomyslnými věcmi.
+- typ: odstavec
+  de: |-
+    Dise beschribene Karten dienen einem Obersten wol/ daß er mit seinen Kriegßräthen vnd Beuelchßleuten sich berede/ wie sie den andern tag wann mann ziehen wirt/ den zug mit den Regimenten vornemen wöllen/ auch wie sie nach/ bei vnd neben einander ziehen sollen/ sich des bereden/ vnd wie sie das vor gůt ansehn/ auff die Karten schreiben vnd legen/ so sicht ein jeder Oberster vor jm/ wo/ auff/ neben/ oder wem er ziehen soll. Aber wann sie eines andern vnnd bessern bedenckens werden/ dann hat mann es bald anders gelegt/ wann sie sich aber des legens vergleichen/ dann beschreibt mans/ vnd gibt einem jeden seinen bescheidt/ Aber dise hernachuolgende Karten geben bericht wie mann das verstehen vnd sich darnach richten soll.
+  cs: |-
+    Tyto popsané karty dobře poslouží plukovníkovi {Obersten}, aby se se svými válečnými rady {Kriegßräthen} a veliteli {Beuelchßleuten} poradil, jak chtějí příští den, až se potáhne, uspořádat pochod {zug} s pluky {Regimenten}, a aby se také dohodli, jak mají táhnout za sebou, u sebe a vedle sebe. Jak to uznají za dobré, zapíší to na karty a rozloží je; tak každý plukovník vidí před sebou, kde, za kým, vedle koho nebo s kým má táhnout. Dospějí-li však k jinému a lepšímu názoru, je to rychle rozloženo jinak; shodnou-li se ale na rozložení, zapíše se a každému se dá jeho rozkaz {bescheidt}. Následující karty pak podávají zprávu, jak tomu rozumět a jak se tím řídit.
+- typ: odstavec
+  de: |-
+    Gleicher gestalt ordnet mann das Geschütz/ Wagen/ Droß vnd alle andere Rüstung so im zug mit geordnet werden/ alles im legen der Karten zugebrauchen.
+  cs: |-
+    Stejným způsobem se uspořádají děla {Geschütz}, vozy, trén {Droß} a všechna další výzbroj {Rüstung}, která se na pochodu řadí, aby se to všechno dalo použít při rozkládání karet.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Volgt ein Zugordnung von allen Obersten Kriegßleuten vnnd Ritmeistern zu roß vnnd zu füß/ auch allerlei geschütz/ Artoloreiwagen/ Heerwagen/ Sturmwagen vnd Marcatantenwagen/ alles mit Figurn vnd Schrifften angezeigt/ Vnd ist Hanibal Oberster Kriegßherr mit sampt andern Römischen vnd Mörischen namen zu Beuelchßleuten geordnet/ nit daß sie solche Ampter zu jren zeiten gehat/ sonder allein inn derer zu vnsern zeiten beuelchsleuten Amptern gestellt.
+  cs: |-
+    Následuje pochodový řád {Zugordnung} všech nejvyšších válečníků {Obersten Kriegßleuten} a rytmistrů {Ritmeistern} na koni i pěšky, také všech druhů děl, dělostřeleckých vozů {Artoloreiwagen}, válečných vozů {Heerwagen}, útočných vozů {Sturmwagen} a markytánských vozů {Marcatantenwagen}, vše ukázáno vyobrazeními a popisy. Hannibal je [zde] nejvyšším válečným pánem {Oberster Kriegßherr} a spolu s ním jsou mezi velitele zařazena další římská a maurská[^1] jména – ne že by takové úřady za svých časů zastávali, nýbrž jsou jen dosazeni do úřadů dnešních velitelů.
+poznamky:
+- n: 1
+  text: |-
+    *Mörisch* (maurský) zde označuje kartaginské, tj. africké vojevůdce Hannibalovy strany.

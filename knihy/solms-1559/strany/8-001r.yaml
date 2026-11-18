@@ -1,0 +1,43 @@
+id: 8-001r
+list: 1 (8. kniha)
+strana: recto
+sken: 589
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Das acht Buch lernet wie mann ein Stat oder Flecken mit Krigßuolck besetzen/ vnd mit Prouiant vnd Füterung versehen soll.
+  cs: |-
+    Osmá kniha učí, jak se má město nebo městečko obsadit válečným lidem {Krigßuolck} a zásobit proviantem {Prouiant} a pící {Füterung}.
+- typ: odstavec
+  de: |-
+    WEil ich eine Kriegßordnung vor mich genomen/ vnd souil inn das Velt gehört mit aller Regierung vnnd vnderhaltung beschrieben habe/ So wil dergleichen die notturfft erfordern daß die Besatzung auch beschrieben werde/ darumb daß gleicher massen ein Kriegßhandtlung ist vnd zusamen gehört/ vnnd auch bei einander sein wil/ vnd ist doch zweierlei thůn vnd Regierung/ so gehörn sie doch in Krieg/ vnd ist gleich Kriegßwerck vnd Handtlung. Dieweil dann ein Besatzung ein vnderschiedtlich ding ist vnd kein gleich maß hat/ so kan es auch nit anders dann vnderschiedtlich vnd mit mancherlei massen beschrieben werden/ Derhalben so wil ichs auch also mit langem vnderschiedtlichem bericht vnd massen zubeschreiben vornemen/ damit dasselbig desto mehr in einen rechten verstandt kome vnd gebracht möge werden.
+  cs: |-
+    Když jsem se ujal válečného řádu {Kriegßordnung} a popsal, co všechno patří do pole, i s veškerou správou a vydržováním [vojska], vyžaduje potřeba, abych stejně tak popsal i posádku {Besatzung}. Je to totiž rovněž válečná záležitost, patří to k sobě a chce to být pohromadě. Jsou to sice dvojí činnosti a dvojí správa, přesto obě náležejí k válce a jsou stejně válečným dílem a jednáním. A protože posádka je věc rozmanitá a nemá jednu stejnou míru, nelze ji popsat jinak než rozdílně a v rozličných mírách. Proto se ji chci pokusit popsat dlouhou, podrobně rozlišující zprávou a po mírách, aby se tím snáze dospělo ke správnému porozumění.
+- typ: odstavec
+  de: |-
+    Vnd derhalben so ist zuuerstehen daß die Besatzungen vngleich vorfallen/ vnd auch für sich selber vngleich sind/ Derhalben so muß nach gelegenheit der Besatzung einem jeden sein maß gegeben werden/ wie das eins jeden gelegenheit gibt vnd die notturfft erfordert/ wie das hernach Artickels weiß auff vnd nach einander beschriben volget vnd gefunden wirt.
+  cs: |-
+    Je tedy třeba chápat, že posádky připadají nestejně a samy o sobě jsou nestejné. Proto se musí každé podle povahy posádky vyměřit její míra, jak to dovoluje situace každé z nich a jak to vyžaduje potřeba. To následuje a najde se níže popsáno článek po článku, jeden za druhým.
+- typ: odstavec
+  de: |-
+    Zum ersten so hat mann wol ein Befestung die starck ist/ mit vilen trefflichen Wehren/ vnd zu dem besten zugericht vnnd gebawet/ Dieselbige Befestung wil zubesetzen vberschlagen sein/ wieuil Kriegßuolck mann darinn haben muß/ daß sie zu der wehr vnd in die leng gnůgsam mit gůtem Kriegßuolck besatzt vnd versehen seien.
+  cs: |-
+    Za prvé: máme například pevnost {Befestung}, která je silná, má mnoho znamenitých obranných míst {Wehren} a je co nejlépe upravená a vystavěná. U takové pevnosti je třeba pro obsazení předem rozpočítat, kolik válečného lidu {Kriegßuolck} v ní musí být, aby byla k obraně i na delší dobu dostatečně obsazena a opatřena dobrým válečným lidem.
+- typ: odstavec
+  de: |-
+    Zum andern daß die Befestung mit Prouiant vnd vnderhaltung des Kriegßuolcks gnůgsam bestalt vnd geordnet werde.
+  cs: |-
+    Za druhé: aby pevnost byla dostatečně zásobena a opatřena proviantem {Prouiant} a vším k vydržování válečného lidu.
+- typ: odstavec
+  de: |-
+    Zum dritten daß sie auch mit gůtem ordenlichem Geschütz gnůgsam versehn seien.
+  cs: |-
+    Za třetí: aby byla také dostatečně opatřena dobrými a řádnými děly {Geschütz}.
+- typ: odstavec
+  de: |-
+    Dises alles sind nun die drei Principal stück die ein Befestung mit Gottes hilff erhalten mussen/ Darmit aber zu dem vnderricht der Artickel gegriffen vnd komen werde/ so will ich an dem ersten Artickel anfahen/ nemlich wann ein Befestung starck vnd wehrlich
+  cs: |-
+    To vše jsou tedy tři hlavní věci, které s Boží pomocí musejí pevnost udržet. Abychom však přistoupili k poučení o jednotlivých článcích, začnu prvním článkem: totiž když je pevnost silná a dobře

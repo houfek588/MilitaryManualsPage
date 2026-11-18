@@ -1,0 +1,33 @@
+id: 6-001r
+list: 1 (6. kniha)
+strana: recto
+sken: 493
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Das sechst Buch von der Musterung.
+  cs: |-
+    Šestá kniha, o přehlídce.
+- typ: odstavec
+  de: |-
+    ES tragen sich grosse betrüg in der musterung zů / die warlich schwer die leng zu dulden vnnd zů zůlassen / sondern es wil ein einsehens sein / dieweil dann das mit gewalt will gehandthabt werden / vnd dem kein gewissen nachdencken sein will. Thů ein Herr eins / mach ehrlich gůt bestallung / der ein jeder billich vnd wol zůkomen kan / vnd nit dispudierlich seien / wie mann der findt die einer nit wie der ander verstehn will / vnd nach seim vortheil die strecken vnd zu behelffen haben mög / Nemlich wirt in etlichen bestallungen vermelt / wann ein Herr einem andern mehr geben oder halten würde / daß jhm dergleichen auch geschehen soll.
+  cs: |-
+    Při přehlídkách {musterung} se dějí velké podvody, které je opravdu těžké dlouho snášet a trpět; je třeba proti nim zakročit. A protože se to musí prosadit mocí a nikdo o tom nechce svědomitě přemýšlet, ať pán udělá jedno: ať vydá poctivé a dobré služební listy {bestallung}, které může každý spravedlivě a dobře dodržet a které nejsou sporné. Takových se totiž najde dost: jeden jim rozumí jinak než druhý a každý si je může natahovat a vykládat ke svému prospěchu. Tak se například v některých služebních listech uvádí, že kdyby pán dal nebo poskytoval jinému více, má se totéž stát i jemu.
+- typ: odstavec
+  de: |-
+    Zum andern / das kein zeit oder maß inn den Bestallungen jhres dienst gesetzt noch benennt werde / sonder sie sollen dem Herrn so lang zu dienen schuldig sein so lang er jr notturfftig ist.
+  cs: |-
+    Za druhé: ať se ve služebních listech nestanoví ani neurčuje žádná doba či míra jejich služby, nýbrž ať jsou povinni sloužit pánovi tak dlouho, dokud je potřebuje.
+- typ: odstavec
+  de: |-
+    Zum dritten / das ein Ritmeister keinn Knecht annemen / noch vnder den seinen Reuttern gestatten soll auff die Monat zall / wenn dieselbig außsei daß er dann abziehen / vnd vom hauffen passiern möcht / wie dann wol geschehen kan / sonder daß ein jeglicher bei seinem Herrn vnd Junckern bleibe dieweil er in dem felde ist / Vnd mache allwegen auff 25. pferde einn Rotmeister / besonder auff die so nicht die narung durchs Jar oder Junckern haben / vnnd auff jre Kost vnd Jarbesoldung in den Häusern sind / vnd gebe einem jeden Rotmeister die seine im feld zů / Dasselbig ist auch im feld gůt wann mann Rotten verschicken will / so sagt mann dem Rotmeister mit seiner Rotten dahin zu ziehen / so ist es auch in den Musterungen gůt / wann mann einen jeglichen Rotmeister heist seine Rotgesellen bei sich zu nemen / vnd auff den platz rücken / auch allwegen 5. in ein Glied / das macht 5. Glied / vnd halt ein jede allein / wann dann alle Rotmeister solchs thůn / vnd bei einander auff einem platz halten / so ist bald abzuzelen den Rotten vnd Registern nach die zal vnd summa der Reuter / Zum andern würde es dann felhen / so ist zu sehen / wellicher Rotmeister seine Rot nicht vol hat / der ist darumb anzureden / vnnd muß auch antwort geben / wo die seinen sind.
+  cs: |-
+    Za třetí: rytmistr {Ritmeister} nemá žádného pacholka přijímat na určitý počet měsíců, ani to dovolit svým jezdcům {Reuttern}, aby pacholek po jejich uplynutí mohl odtáhnout a odejít od houfu {hauffen}, jak se snadno stává; naopak každý má zůstat u svého pána a junkra {Junckern}, dokud je v poli. A ať [pán] vždy ustanoví na 25 koní jednoho rotmistra {Rotmeister}, zvláště nad těmi, kdo nemají po celý rok obživu ani junkra a jsou po domech na stravě a ročním služném, a ať každému rotmistrovi přidělí v poli jeho lidi. To je dobré i v poli, když se mají někam vyslat roty {Rotten}: pak se prostě řekne rotmistrovi, aby tam se svou rotou táhl. Stejně dobré je to při přehlídkách: každému rotmistrovi se nařídí, aby vzal k sobě své rotní druhy {Rotgesellen} a vytáhl s nimi na místo, vždy po pěti v řadě {Glied}, což dá pět řad, a aby každá rota stála zvlášť. Když to udělají všichni rotmistři a stanou spolu na jednom místě, lze podle rot a rejstříků {Registern} rychle spočítat počet a úhrn jezdců. A dále: kdyby pak někdo chyběl, hned je vidět, kterému rotmistrovi rota není plná; toho je třeba za to vzít k odpovědnosti a musí se zodpovídat, kde jeho lidé jsou.
+- typ: odstavec
+  de: |-
+    Wann ein Herr ein gewisse Musterung thůn will / dann lasse er alle Ritmeister auff ein feld zusamen kommen / vnnd lasse ein jeglichen
+  cs: |-
+    Chce-li pán vykonat spolehlivou přehlídku, ať nechá všechny rytmistry sejít se na jednom poli a ať nechá každého

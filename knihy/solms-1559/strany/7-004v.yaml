@@ -1,0 +1,30 @@
+id: 7-004v
+list: 4 (7. kniha)
+strana: verso
+sken: 556
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-556.jpg
+  popis: |-
+    Devět obrazových karet jízdy strany Hannibalovy (černý tisk), bez nápisů úřadů (pořadí po řádcích zleva doprava): 1. sevřený houf těžkých jezdců – kyrysníků na obrněných koních s čabrakami zdobenými křížem, s lesem vztyčených kopí a korouhví; 2. jízdní houf s pruhovanou korouhví, v čele dva jezdci; 3. hustý houf kopiníků s praporky na kopích a korouhví; 4. lehká jízda v trysku – jezdci s luky a vrhanými kopími či oštěpy; 5. houf kopiníků se vztyčenými kopími, před ním jezdec s žerdí a velitel na koni v síťované čabrace; 6. jízdní houf s číslem „100“; 7. hustý jízdní houf s korouhví nesoucí šikmý (burgundský) kříž; 8. menší karta s houfem jezdců a číslem „50“; 9. nejmenší karta s malou skupinou jezdců, místo čísla jen inkoustová skvrna.
+- typ: tabulka
+  de:
+  - - '6'
+    - '100'
+  - - '8'
+    - '50'
+  - - '9'
+    - '–'
+  cs:
+  - - '6'
+    - 100 [koní]
+  - - '8'
+    - 50 [koní]
+  - - '9'
+    - (bez čitelného čísla)[^1]
+poznamky:
+- n: 1
+  text: |-
+    Čísla udávají sílu oddílu, kterou karta zastupuje (srov. [[7-002r|výklad na listu 2]]: každá karta platí za počet jedné korouhve či praporce). Na odpovídající nejmenší červené kartě Římanů ([[7-008r|list 8]]) je číslo „25“; zde je místo něj jen skvrna.

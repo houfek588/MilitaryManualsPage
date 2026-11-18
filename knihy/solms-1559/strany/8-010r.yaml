@@ -1,0 +1,102 @@
+id: 8-010r
+list: 10 (8. kniha)
+strana: recto
+sken: 607
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Puluer / Kugeln / Bley / Salpeter / Schwefel / Koln / Bech im vorrat / daß wir nach der Rechnung ein gůt notturfft haben / souil wir bedörffen.
+  cs: |-
+    prachu {Puluer}, koulí {Kugeln}, olova, ledku {Salpeter}, síry {Schwefel}, dřevěného uhlí {Koln} a smůly {Bech} v zásobě, že toho máme podle výpočtu dobře dost, kolik potřebujeme.
+- typ: odstavec
+  de: |-
+    Zum vierdten haben wir ein gůt Puluermöln mit aller zůgehörender Röstung.
+  cs: |-
+    Za čtvrté máme dobrý prachový mlýn {Puluermöln} se vším příslušným nářadím.
+- typ: odstavec
+  de: |-
+    Zum fünfften ein gůt Brauhauß mit aller seiner zugehörde.
+  cs: |-
+    Za páté dobrý pivovar se vším jeho příslušenstvím.
+- typ: odstavec
+  de: |-
+    Zum fünfften ein gůten Bachofen mit allem was darzů gehöret.
+  cs: |-
+    Za páté[^1] dobrou pekařskou pec se vším, co k ní patří.
+- typ: odstavec
+  de: |-
+    Zum sibenden Holtz souil als mann nach notturfft von nöten.
+  cs: |-
+    Za sedmé tolik dříví, kolik je podle potřeby zapotřebí.
+- typ: odstavec
+  de: |-
+    Zum achten ein gůten vorrat Kolen.
+  cs: |-
+    Za osmé dobrou zásobu dřevěného uhlí.
+- typ: odstavec
+  de: |-
+    Zum neunden gnůg Roß vnd Handtmöln.
+  cs: |-
+    Za deváté dost žentourových a ručních mlýnů {Roß vnd Handtmöln}.
+- typ: odstavec
+  de: |-
+    Zum zehenden ein vorrat von grobem bawe Holtz / zur not damit zu darressen vnd zu bawen.
+  cs: |-
+    Za desáté zásobu hrubého stavebního dříví, abychom jím v nouzi mohli tarasit {darressen}[^2] a stavět.
+- typ: odstavec
+  de: |-
+    Zum eilfften souil Röstung zu bawen / als Hawen / Schauffeln / Echsen / Bickeln / Karren / Moltern zu tragen vnnd zufüren / so mann mit erden bawen vnd darressen must.
+  cs: |-
+    Za jedenácté tolik stavebního nářadí, jako jsou motyky, lopaty, sekery, krumpáče, trakaře a necky[^3] k nošení a vožení [hlíny], kolik je třeba, když se musí stavět a tarasit zeminou.
+- typ: odstavec
+  de: |-
+    Zum zwölfften so ist der Baw der gestalt gemacht / daß er mit Gottes hilff lang für gewalt zuerhalten ist.
+  cs: |-
+    Za dvanácté je stavba [pevnosti] udělána tak, že ji lze s Boží pomocí dlouho udržet proti násilí.
+- typ: odstavec
+  de: |-
+    Zum dreizehenden souil Büchsenmeister.
+  cs: |-
+    Za třinácté tolik a tolik puškařů {Büchsenmeister}.
+- typ: odstavec
+  de: |-
+    Zum vierdtzehenden souil Zimmerleut.
+  cs: |-
+    Za čtrnácté tolik a tolik tesařů.
+- typ: odstavec
+  de: |-
+    Zum fünfftzehenden souil Schmidt.
+  cs: |-
+    Za patnácté tolik a tolik kovářů.
+- typ: odstavec
+  de: |-
+    Zum sechßzehenden souil Schneider.
+  cs: |-
+    Za šestnácté tolik a tolik krejčích.
+- typ: odstavec
+  de: |-
+    Dise ob gemelte stück vnd Arbeitßleut haben wir inn der Besatzung daß nichts daran mangelt.
+  cs: |-
+    Tyto výše uvedené věci a pracovníky máme v posádce {Besatzung}, takže v ničem není nedostatek.
+- typ: odstavec
+  de: |-
+    Wann nach sochem vorhalten das Kriegßuolck bewilligt / bei jn in der Besatzung zu bleiben / soll der Oberst zu jnen sagen / Nun dieweil jr dann bei vns zu bleiben / vnd als Ritterlich Kriegßuolck mit vns bewilligt / so habt jhr den vorrat so wir haben / gehöret / so ist die Prouiant nechst Got das höchst Hauptstück vnserer vnderhaltung / vnd on dieselbig (vnd Gott beuor) die Besatzung nicht kan erhalten werden / darumb wöllen wir Gott für andern nottürfftigen stücken beuor halten / als mit Gottes dienst vnd gebet / dann wo Gott nicht sein Göttliche gnad / die wir mit betten vnd anrůffen erlangen / gibt / so ist vnser thůn vmb sonst.
+  cs: 'Když válečný lid {Kriegßuolck} po takovém předložení svolí zůstat u nich v posádce, má jim plukovník {Oberst} říci: „Když jste tedy svolili zůstat u nás a [stát] s námi jako rytířský válečný lid, slyšeli jste, jakou zásobu máme. Proviant {Prouiant} je hned po Bohu nejvyšší a hlavní věcí naší obživy a bez něho (a nade vše bez Boha) nelze posádku udržet. Proto chceme Boha ctít přede všemi ostatními potřebnými věcmi, totiž bohoslužbou a modlitbou; neboť nedá-li Bůh svou božskou milost, které dosahujeme modlitbou a vzýváním, je všechno naše počínání marné.'
+- typ: odstavec
+  de: |-
+    Weiter soll das vbel flůchen vnd Gottßlestern / dardurch Gott erzörnet / vnd damit weiters nichts außgericht wirt / nit gestat werden / dann es nichts anders dann ein mutwilligs vnd frefelligs vornemen ist / dieweil wir dann also in grosser gefahr sind / vnd on Gotts gnade nichts künden außrichten / so mussen wir weg sůchen die zu vnser sachen dinstlich / damit wir Gott zu vnser hilff vnd beistand erlangen / Darzů für das erst wil die Gottes lesterung gar nit gnade zu
+  cs: |-
+    Dále se nemá trpět zlé klení a rouhání, jímž se Bůh hněvá a jímž se nic jiného nepořídí, neboť to není nic jiného než svévolné a zpupné počínání. Protože jsme tedy ve velkém nebezpečí a bez Boží milosti nic nesvedeme, musíme hledat cesty, které naší věci poslouží, abychom získali Boha za pomocníka a ochránce. K tomu především rouhání vůbec neslouží k dosažení
+poznamky:
+- n: 1
+  text: |-
+    Tisk číslovku „Zum fünfften“ opakuje; správně má být „za šesté“. Číslování dál pokračuje „Zum sibenden“.
+- n: 2
+  text: |-
+    „darressen“ (od Tarras) – zahradit, zatarasit průlom či otvor narychlo dřevem, hlínou nebo koši; srov. „Dareß“ (zátaras) na [[8-012r|listu 12]].
+- n: 3
+  text: |-
+    „Moltern“ (Mulde, Molter) – dřevěné necky či žlaby na nošení hlíny.

@@ -1,0 +1,52 @@
+id: 9-030r
+list: 30 (9. kniha)
+strana: recto
+sken: 679
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    das es hilff bedarff/ sollen sie drei schöß thůn/ vnnd auff ein jeglichs ort des Maßbaums ein Liecht inn eine Latern hencken/ alßdan sollen jn die andern alle zu hilff kommen.
+  cs: |-
+    takže potřebuje pomoc, mají třikrát vystřelit a na každou stranu stěžně pověsit světlo v lucerně; pak jim mají všichni ostatní přijít na pomoc.
+- typ: odstavec
+  de: |-
+    Auch wann es sich begebe das bei der nacht ein frembs schiff vnder sie keme/ das sie nit kenen/ sollen die solchs zum ersten innen werden ein schoß thůn/ vnd ein liecht in einer laternen an den segel hencken an das ort da sie das frembt schiff sehen.
+  cs: |-
+    Stane-li se také, že by mezi ně v noci připlula cizí loď, kterou neznají, mají ti, kdo to zpozorují první, jednou vystřelit a pověsit světlo v lucerně k plachtě na tu stranu, kde cizí loď vidí.
+- typ: odstavec
+  de: |-
+    Wann aber ein grosser hauff schiff keme/ die sie nicht kenden/ vnd vermeinten es weren feind/ sollen sie vier odder fünffmal schiessen/ vnd zwo laternen eine zum hindersehen auff das schiff/ vnd eine zum vordersten/ auch eine auff den grossen mastbaum/ an die seiten da die Schiff seind hencken.
+  cs: |-
+    Připlul-li by však velký houf lodí, které neznají, a domnívali by se, že je to nepřítel, mají vystřelit čtyřikrát nebo pětkrát a pověsit dvě[^1] lucerny, jednu na záď lodi a jednu na příď, a také jednu na hlavní stěžeň, na tu stranu, kde lodě jsou.
+- typ: odstavec
+  de: |-
+    Weiter wann jr wolt das ewer schiff zu euch kommen/ solt jr einen schoß thůn/ vnd zwo laternen zum hindersen auffs schiff stellen/ vnnd eine auff den Korb des grossen Mastbaums/ alßdan seind sie bei jrer pflicht schuldig zu euch zukommen.
+  cs: |-
+    Dále, chcete-li, aby vaše lodě připluly k vám, máte jednou vystřelit, postavit dvě lucerny na záď lodi a jednu na koš hlavního stěžně; pak jsou povinny připlout k vám, jak jim velí jejich povinnost.
+- typ: odstavec
+  de: |-
+    Es ist von nöten daß jr dise obgemelte ordnung so jr tags vnnd nachts brauchen solt/ ewern Hauptleuten in schrifft gebt/ dann sie es sonst vergessen möchten/ das dann dardurch verhüt wirt/ wann jr aber befindt das etlich hinlessig mit der sach vmb gehn/ solt jrs hefftig straffen.
+  cs: |-
+    Je nutné, abyste tento výše uvedený řád, jehož máte užívat ve dne i v noci, dali svým hejtmanům {Hauptleuten} písemně, neboť jinak by ho mohli zapomenout; tím se tomu předejde. Shledáte-li však, že někteří s tou věcí zacházejí nedbale, máte je přísně potrestat.
+- typ: odstavec
+  de: |-
+    Der massen solt jr zu nachts auff dem Wasser faren/ wann aber der tag wider herbricht sollen die geringen schifflein wider herfür farn/ vnd euch abermals wie zu nachts Reuerentz thůn/ auch fragen ob jr etwas wölt/ nachuolgents so sehr segeln daß sie für euch komen/ doch euch allwegen in dem gesicht behalten.
+  cs: |-
+    Takto máte v noci plout po vodě. Když se však opět rozední, mají menší loďky zase vyplout dopředu, vzdát vám jako v noci poctu {Reuerentz} a zeptat se, zda si něco přejete. Potom mají plachtit tak rychle, aby se dostaly před vás, avšak tak, aby vás měly stále na očích.
+- typ: odstavec
+  de: |-
+    Wann nun das geschehen vnd die Sonn auffgangen ist/ solt jhr ewer Trommeten blasen vnd Heerbaucken schlagen lassen/ vnnd gemach faren biß ewer schiff alle herfür komen/ vnd euch Reuerentz thůn wie vormals/ solt jr jnen glück wünschen/ nachuolgents mögen sie wol ein wenig weit von euch faren/ vorn oder hindennach oder auff der seiten/ doch daß sie euch allwegen in gesicht haben/ vnd die zeichen so jr jnen gebt erkennen künden.
+  cs: |-
+    Když se to stalo a slunce vyšlo, máte dát troubit na své trubky a bít na válečné bubny {Heerbaucken} a plout pomalu, dokud všechny vaše lodě nepřiplují a nevzdají vám poctu jako předtím; pak jim máte popřát štěstí. Potom mohou plout poněkud dál od vás, vpředu, vzadu nebo po boku, avšak tak, aby vás měly vždy na očích a mohly rozeznat znamení, která jim dáváte.
+- typ: odstavec
+  de: |-
+    Auch ehe jr auß einem ort auß fart solt jr beschliessen wo jr hinfarn wolt/ vnd ewern Hauptleuten ein ort benennen/ damit wann ein vngewitter wirt daß jr euch trennen must/ wider wissen wo sie zu samen künden/ vnd wann sie vor euch daselbst hinkomen weren/ daß sie warten biß jnen Botschafft von euch keme/ vnd dasselbig ort der platz sei da sie alle hinkomen sollen/ vnd einander da warten biß sie komen oder jnen Botschafft thůn.
+  cs: |-
+    Také než odněkud vyplujete, máte rozhodnout, kam chcete plout, a určit svým hejtmanům místo, aby věděli, kde se mohou opět sejít, kdyby nastala bouře a vy jste se museli rozdělit. Kdyby tam dorazili dříve než vy, mají čekat, dokud jim od vás nepřijde zpráva. To místo má být shromaždištěm, kam mají všichni dorazit a kde mají na sebe čekat, dokud ostatní nepřijedou nebo jim nepošlou zprávu.
+poznamky:
+- n: 1
+  text: |-
+    Tisk uvádí *zwo laternen* („dvě lucerny“), ale vyjmenovává tři (záď, příď, hlavní stěžeň); *hindersehen* je tisková chyba za *hindersten* („zadní“). Strana je navíc v tisku chybně foliována číslem 25 místo 30.

@@ -1,0 +1,97 @@
+id: 6-016v
+list: 16 (6. kniha)
+strana: verso
+sken: 524
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['12', 'Item hat auff den Musterplatz 68 Meiln/ vnd ist 22 tag mit 11 pferden gereist vnd stilgelegen/ thůt ein pferde zů 6 batzen', '96 flo. 12 batze.']
+  - ['', 'Drosser', '4 gulden 6 batzen.']
+  - ['', 'Wagen', '17 gulden 9 batzen.']
+  - ['', 'Summa', '115 gulden 12 batzen.']
+  - ['Summa lat.', 'Gelts ist', '230 gulden 6 batzen.']
+  - ['', 'Pferde', '24']
+  - ['', 'Drosser', '2']
+  - ['', 'Wagen.', '2']
+  - ['', 'Einspennigen.', '']
+  - ['13', 'Item haben vff den musterplatz 53 meiln vnd sind 18 tag mit 7 pferden gereist vnd stilgelegen/ thůt ein tag ein pferd zu 6 batzen', '50 flo. 6 batz.']
+  - ['', 'Drosser', '3 gulden 9 batzen.']
+  - ['', 'halben Wagen', '7 gulden 3 batzen.']
+  - ['', 'Summa', '61 gulden 3 batzen.']
+  - ['', 'Trommeter.', '']
+  - ['14', 'Item haben vff den musterplatz 53 meiln/ vnd sind 18 tag mit 6 pferden gereist vnd stilgelegen/ thůt ein pferd ein tag 6 batzen/', '43 flo. 3 batz.']
+  - ['', 'Summa', '43 gulden 3 batzen.']
+  - ['Summa lat.', 'Gelts', '104 flo 6 batz.']
+  - ['', 'Pferd', '13']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '½']
+  cs:
+  - ['12', 'Dále: měl na přehlídkové místo {Musterplatz} 68 mil {Meiln} a 22 dní byl s 11 koňmi {pferden} na cestě a ve stání {gereist vnd stilgelegen}; činí na koně po 6 bacenech {batzen}', '96 zl. {flo.} 12 bac.']
+  - ['', 'trénní kůň {Drosser}', '4 zlaté {gulden} 6 bacenů']
+  - ['', 'vůz {Wagen}', '17 zlatých 9 bacenů']
+  - ['', 'suma', '115 zlatých 12 bacenů[^1]']
+  - ['součet strany {Summa lat.}', 'peněz je', '230 zlatých 6 bacenů']
+  - ['', 'koní', '24']
+  - ['', 'trénních koní', '2']
+  - ['', 'vozů', '2']
+  - ['', 'Jednokoní jezdci {Einspennigen}.', '']
+  - ['13', 'Dále: měli na přehlídkové místo 53 mil a 18 dní byli se 7 koňmi na cestě a ve stání; činí na koně za den 6 bacenů', '50 zl. 6 bac.']
+  - ['', 'trénní kůň', '3 zlaté 9 bacenů']
+  - ['', 'půl vozu', '7 zlatých 3 bacenů']
+  - ['', 'suma', '61 zlatých 3 bacenů']
+  - ['', 'Trubači {Trommeter}.', '']
+  - ['14', 'Dále: měli na přehlídkové místo 53 mil a 18 dní byli se 6 koňmi na cestě a ve stání; činí na koně za den 6 bacenů', '43 zl. 3 bac.']
+  - ['', 'suma', '43 zlatých 3 bacenů']
+  - ['součet strany', 'peněz', '104 zl. 6 bac.']
+  - ['', 'koní', '13']
+  - ['', 'trénních koní', '1']
+  - ['', 'vozů', '½']
+- typ: tabulka
+  de:
+  - ['Summarum aller pferd ist 163/ thůn an gelt', '1163 gulden 6 batzen.']
+  - ['Summarum aller Drosser ist 14/ thůn an gelt', '50 gulden.']
+  - ['Summarum aller Wagen ist 15½/ thůn an gelt', '221 gulden.']
+  - ['Summarum alles gelt ist von pferden/ Drossen vnd wägen', '1434 gulden 6 batzen.']
+  - ['Hieuon abgezogen von der Drosser Wägen', '50 gulden.']
+  - ['Rest noch', '2384 gulden 6 batzen.']
+  - ['Anrit gelt Andres Pflügs.', '']
+  - ['Summarum seines zů oder anreitens ist', '2262 gulden 3 batzen.']
+  - ['Abgezogen von der Drosser wegen', '67 gulden 5 batzen.']
+  - ['Rest noch', '2194 gulden 13 batzen.']
+  - ['Hennicken von Bortzfelt.', '']
+  - ['summarum seins zu oder anrit gelts ist', '610 flo 1½ batzen.']
+  - ['Der Drosser gelt abgezogen/ nemlich', '7 flo. 4½ batzen.']
+  - ['Rest noch', '602 flo. 12. batzen']
+  - ['Helwig von Rückerßhausen/ vnd Daniel Scheurschloß.', '']
+  - ['summarum seins anrit gelts ist', '423 flo. 14 batzen.']
+  - ['Vnd ist der Drosser wegen vnd hieuon abgezogen worden.', '']
+  - ['summarum aller Restirender summen ist aller zusamen', '4606 flo.']
+  cs:
+  - ['Všech koní je celkem 163, činí na penězích', '1163 zlatých 6 bacenů']
+  - ['Všech trénních koní je celkem 14, činí na penězích', '50 zlatých']
+  - ['Všech vozů je celkem 15½, činí na penězích', '221 zlatých']
+  - ['Úhrn všech peněz za koně, trénní koně a vozy je', '1434 zlatých 6 bacenů']
+  - ['Z toho odečteno za vozy trénních koní', '50 zlatých']
+  - ['Zbývá ještě', '2384 zlatých 6 bacenů[^2]']
+  - ['Příjezdné {Anrit gelt} Andrese Pflüga.', '']
+  - ['Úhrn jeho přijíždění {zů oder anreitens} činí', '2262 zlatých 3 bacenů']
+  - ['Odečteno za trénní koně', '67 zlatých 5 bacenů']
+  - ['Zbývá ještě', '2194 zlatých 13 bacenů']
+  - ['Hennicken von Bortzfelt.', '']
+  - ['Úhrn jeho příjezdného činí', '610 zl. 1½ bacenu']
+  - ['Odečteny peníze za trénní koně, totiž', '7 zl. 4½ bacenu']
+  - ['Zbývá ještě', '602 zl. 12 bacenů']
+  - ['Helwig von Rückerßhausen a Daniel Scheurschloß.', '']
+  - ['Úhrn jejich příjezdného činí', '423 zl. 14 bacenů']
+  - ['A za trénní koně z toho již bylo odečteno.', '']
+  - ['Úhrn všech zbývajících sum činí vše dohromady', '4606 zl.[^3]']
+poznamky:
+- n: 1
+  text: Tisková chyba – 96 zl. 12 bac. + 4 zl. 6 bac. + 17 zl. 9 bac. = 118 zl. 12 bac.; s touto hodnotou souhlasí i součet strany 230 zl. 6 bac.
+- n: 2
+  text: Tisková chyba – 1434 zl. 6 bac. − 50 zl. = 1384 zl. 6 bac. Jde o čistou částku příjezdného dvorské družiny vévody Mořice.
+- n: 3
+  text: 2194 zl. 13 bac. + 602 zl. 12 bac. + 423 zl. 14 bac. + 1384 zl. 6 bac. = 4606 zl. přesně (15 bacenů = 1 zlatý); součet tedy potvrzuje opravu z poznámky 2. Saské vyúčtování příjezdného tím končí, následuje braniborský rejstřík.

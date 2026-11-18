@@ -1,0 +1,37 @@
+id: 9-028r
+list: 28 (9. kniha)
+strana: recto
+sken: 675
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    seinem hauptman bleiben/ vnd nit hinauff zum geschütz steigen/ dann sie nur die Büchsenmeister am schiessen verhindern/ vnnd auch das Schiff desto langsamer gehet/ wann mann also hin vnd wider laufft so nun die sach dahin kompt/ das mann an lendt/ sollen die vier Obersten dardurch jr volck theilen/ ein jeglicher das halb theil nemen/ das ander dem leutenant im schiff lassen/ welcher wo es von nöten sein wurd/ alwegen hilff hernach schicken.
+  cs: |-
+    svého hejtmana {hauptman} a nelézt nahoru k dělům {geschütz}, neboť tím by jen překážel puškařům {Büchsenmeister} ve střelbě a loď by také plula pomaleji, kdyby se takto pobíhalo sem a tam. Dojde-li pak k tomu, že se přistává, mají čtyři plukovníci {Obersten} rozdělit svůj lid: každý vezme polovinu a druhou nechá poručíkovi {leutenant} na lodi, který mu, bude-li toho třeba, vždy pošle pomoc.
+- typ: odstavec
+  de: |-
+    Ehe das die sach zum schlagen kompt/ beuestiget mann die schiff als wol mann kan/ vnd sonderlich vor dem geschütz/ vnd ein jeglicher rüst sich auff das best als er kan/ etlich nemen die Madricen darauff sie ligen vnd henckens für oder in das schiff hinein nach dem sie platz haben/ etlich außgefült Leinen seck welches gůt für das Geschütz ist/ das es die schiff nicht gar verspert wie sonst.
+  cs: |-
+    Než dojde k bitvě, opevní se lodě, jak nejlépe to jde, a zvláště proti dělové střelbě, a každý se připraví, jak nejlépe umí. Někteří berou matrace, na nichž spí, a věší je před loď nebo dovnitř do lodi, podle toho, kolik mají místa; jiní vycpané plátěné pytle, což je dobrá ochrana proti dělům, aby [střelba] lodě tolik nepoškodila[^1] jako jindy.
+- typ: odstavec
+  de: |-
+    Auch haben etlich fewer die sich nit mit Wasser leschen lassen/ darrinn sie der Feinde schiff dardurch verbrennen/ doch wann jr leut habet die darmit wissen vmb zugehn/ wolt ich wol raten/ das jrs breuchtet doch mit vnderscheit/ denn wenn jr den wint nit habt/ sonder wider euch sein wurde/ möchte der Windt das Fewer inn ewer schiff werffen/ oder wann jr vnder der feindt schiff dermassen inn einander mit den vordern theil der schiff gefarn/ oder sonst die schiff nahe bei einander stehn/ daß jr nit bald weichen kündet/ sollet jhr es auch nicht brauchen/ sonst würden ewer vnd der feind Schiff mit einander verbrennen.
+  cs: |-
+    Někteří mají také ohně, které nelze hasit vodou, a jimi zapalují nepřátelské lodě. Máte-li lidi, kteří s nimi umějí zacházet, radil bych vám je použít, avšak s rozvahou. Nemáte-li totiž vítr a vane-li proti vám, mohl by vítr zanést oheň do vašich lodí. Rovněž když jste do nepřátelských lodí najeli přídí tak, že jsou do sebe zaklesnuté, nebo když lodě stojí jinak blízko u sebe, takže nemůžete rychle ustoupit, nemáte je používat; jinak by vaše i nepřátelské lodě shořely spolu.
+- typ: odstavec
+  de: |-
+    Vnd wann es darzů kömpt daß jhr anlenden odder mit den Feinden treffen wolt/ so gebt gůt acht daß jhr den Windt einnemet vnnd darnach faret/ dann kündet yr den Feinden vil mehr abbrechen/ auch ewer schiff baß regiren/ vnd wie jetzund gemelt/ das Fewer inn yr schiff baß werffen.
+  cs: |-
+    A když dojde k tomu, že chcete přistát nebo se s nepřítelem střetnout, dbejte dobře, abyste získali vítr a podle něho pluli. Pak můžete nepříteli mnohem více uškodit, lépe řídit své lodě a, jak bylo právě řečeno, lépe vrhat oheň do jeho lodí.
+- typ: odstavec
+  de: |-
+    Wann es aber darzů kompt daß yr mit einander zugleich schlagen kündet/ vnnd das Wetter gůt ist/ solt yr alle ewer hilff als nahe yr kündet zusamen stellen/ doch daß sie einander nicht mit anrüren/ vnnd inn einer Ordnung ziehen/ daß keins vor dem andern sei/ Wann yhr nun sehet daß jr so starck wie die Feinde seind mit leuten/ auch grossen vnnd kleinen schiffen/ wann anderst das Wetter nicht wider euch ist/ kündet yr nichts bessers thůn dann gleich treffen/ doch wolt ich nicht eben zu jhnen faren/ sonder auff einer seiten/ darmit die grossen Schiff/ so an den orten geordnet/ das Geschütz auffhielten/ auff das den schiffen desto weniger schaden thüe/ etc.
+  cs: |-
+    Dojde-li však k tomu, že se můžete bít všichni zároveň, a je dobré počasí, máte všechny své posily postavit k sobě tak blízko, jak jen můžete, avšak tak, aby se navzájem nedotýkaly, a plout v jednom šiku {Ordnung}, aby žádná loď nebyla před druhou. Vidíte-li pak, že jste stejně silní jako nepřítel v lidech i ve velkých a malých lodích, a není-li proti vám počasí, nemůžete udělat nic lepšího, než se s ním hned střetnout. Nejel bych však přímo proti němu, nýbrž z boku, aby velké lodě rozestavené na těch místech zachytily dělovou palbu a ostatním lodím bylo méně uškozeno atd.
+poznamky:
+- n: 1
+  text: |-
+    *das es die schiff nicht gar verspert* – smysl nejistý (snad *verserrt*, „poškodí“); míněno je, že matrace a vycpané pytle tlumí dopad dělových koulí.

@@ -1,0 +1,145 @@
+id: 6-024r
+list: 24 (6. kniha)
+strana: recto
+sken: 539
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - - Quirin von Reitzenstein.
+    - ''
+  - - Item ist den 19 Maij mit 2 pferden angezogen / thůt biß auff den 5 Junij anreitens vnd stilligens 17 tag / macht auff jedes pferd ein tag zu 6 batzen gerechnet /
+    - 13 gulden 9 batzen.
+  - - Götz von Berlingen.
+    - ''
+  - - Item ist den 27 Maij mit 23 pferden angezogen vnd stilgelegen 9 tag / mach auff jedes pferd ein tag zu 6 batzen /
+    - 82 gulden 12 batzen.
+  - - Zwen Wagen /
+    - 14 gulden 6 batzen.
+  - - Summa 97 gulden 3 batzen.
+    - ''
+  - - Casimir von der Grun.
+    - ''
+  - - Item ist den 19 Maij mit 4 pferden angezogen vnnd stilgelegen 17 tag / macht auff jedes pferd ein tag zu 6 batzen gerechnet /
+    - 27 flo. 3 batz.
+  - - Ein halben wagen /
+    - 6 gulden 13 batzen.
+  - - Summa 34 gulden.
+    - ''
+  - - Bernhart vom Stein.
+    - ''
+  - - Item ist den 22 Maij mit 13 pferden angezogen vnd stilgelegen 14 tag / macht auff jedes pferd ein tag zu 6 batzen /
+    - 72 gulden 12 batzen.
+  - - Ein Wagen /
+    - 11 gulden 3 batzen.
+  - - Summa 84 gulden.
+    - ''
+  - - Summa Gelt
+    - 228 gulden 12 batzen.
+  - - Summa Pferde
+    - '42'
+  - - Summa Wagen.
+    - 3½
+  - - Daniel von Reitzenstein.
+    - ''
+  - - Item ist den 19 Maij mit 2 pferden angezogen vnd stilgelegen 17 tag / macht auff jedes pferd ein tag zu 6 batzen /
+    - 13 gulden 9 batzen.
+  - - Endres Haberkorn.
+    - ''
+  - - Item ist den 21 Maij mit 8 pferden angezogen vnd stilgelegen 15 tag / thůt auff jedes pferd ein tag zu 6 batzen /
+    - 48 gulden.
+  - - Zwei drittheil eins wagens zu 8 batzen / thůt
+    - 8 gulden.
+  - - Summa 56 gulden.
+    - ''
+  - - Summa Gelt
+    - 69 gulden 9 batzen.
+  - - Summa Pferd
+    - '10'
+  - - Summa Wagen.
+    - ⅔
+  - - Philips von Cronbergs anzog.
+    - ''
+  - - Item ist den 22 Maij mit 20 pferden angezogen vnd stilgelegen 14 tag / macht auff jedes pferd zu 6 batzen /
+    - 112 gulden.
+  - - Anderthalben wagen.
+    - 16 gulden 12 batzen.
+  - - Summa 128 gulden 12 batzen.
+    - ''
+  - - Reingraue.
+    - ''
+  - - Item ist den 21 Maij mit 19 pferden angezogen vnd stilgelegen 15
+    - ''
+  cs:
+  - - Quirin von Reitzenstein
+    - ''
+  - - 'Dále: vytáhl 19. května se 2 koňmi; do 5. června to činí 17 dní jízdy a stání {anreitens vnd stilligens}, počítáno na každého koně na den po 6 bacenech {batzen}'
+    - 13 zl. 9 bac.
+  - - Götz von Berlingen
+    - ''
+  - - 'Dále: vytáhl 27. května s 23 koňmi a stál 9 dní; dělá na každého koně na den po 6 bacenech'
+    - 82 zl. 12 bac.
+  - - Dva vozy
+    - 14 zl. 6 bac.
+  - - Úhrnem 97 zl. 3 bac.
+    - ''
+  - - Casimir von der Grun
+    - ''
+  - - 'Dále: vytáhl 19. května se 4 koňmi a stál 17 dní; dělá, počítáno na každého koně na den po 6 bacenech'
+    - 27 zl. 3 bac.
+  - - Půl vozu[^1]
+    - 6 zl. 13 bac.
+  - - Úhrnem 34 zl.
+    - ''
+  - - Bernhart vom Stein
+    - ''
+  - - 'Dále: vytáhl 22. května se 13 koňmi a stál 14 dní; dělá na každého koně na den po 6 bacenech'
+    - 72 zl. 12 bac.
+  - - Jeden vůz
+    - 11 zl. 3 bac.
+  - - Úhrnem 84 zl.
+    - ''
+  - - 'úhrnem: peníze'
+    - 228 zl. 12 bac.
+  - - 'úhrnem: koně'
+    - '42'
+  - - 'úhrnem: vozy'
+    - 3½
+  - - Daniel von Reitzenstein
+    - ''
+  - - 'Dále: vytáhl 19. května se 2 koňmi a stál 17 dní; dělá na každého koně na den po 6 bacenech'
+    - 13 zl. 9 bac.
+  - - Endres Haberkorn
+    - ''
+  - - 'Dále: vytáhl 21. května s 8 koňmi a stál 15 dní; to činí na každého koně na den po 6 bacenech'
+    - 48 zl.
+  - - Dvě třetiny vozu po 8 bacenech; to činí
+    - 8 zl.
+  - - Úhrnem 56 zl.
+    - ''
+  - - 'úhrnem: peníze'
+    - 69 zl. 9 bac.
+  - - 'úhrnem: koně'
+    - '10'
+  - - 'úhrnem: vozy[^2]'
+    - ⅔
+  - - příjezd {anzog} Philipse von Cronberg
+    - ''
+  - - 'Dále: vytáhl 22. května s 20 koňmi a stál 14 dní; dělá na každého koně po 6 bacenech'
+    - 112 zl.
+  - - Půldruhého vozu
+    - 16 zl. 12 bac.
+  - - Úhrnem 128 zl. 12 bac.
+    - ''
+  - - rýnský hrabě {Reingraue}
+    - ''
+  - - 'Dále: vytáhl 21. května s 19 koňmi a stál 15'
+    - ''
+poznamky:
+- n: 1
+  text: |-
+    Půl vozu za 17 nocí po 12 bacenech dává 102 bac. = 6 zl. 12 bac.; tisk má 6 zl. 13 bac., úhrn 34 zl. však počítá s 12 bacenech.
+- n: 2
+  text: |-
+    Zlomek je v tisku špatně čitelný; podle položky Endrese Haberkorna (*Zwei drittheil eins wagens*) jde o ⅔ vozu.

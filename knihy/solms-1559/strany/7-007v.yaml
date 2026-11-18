@@ -1,0 +1,50 @@
+id: 7-007v
+list: 7 (7. kniha)
+strana: verso
+sken: 562
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-562.jpg
+  popis: |-
+    Osm obrazových karet římské strany, tištěných červeně (i živé záhlaví strany je červené), protějšek černých karet Hannibalovy strany na [[7-004r|listu 4]]; pořadí po řádcích zleva doprava: 1. polní plukovník – jízdní průvod s korouhvičkou na žerdi; 2. šlechtic dělostřelectva – jezdec s vysokým chocholem mezi pěšími dělostřelci s holemi s rozeklanými konci; 3. polní maršálek – jezdec v klobouku uprostřed jízdy se dvěma žerděmi; 4. mistr vozové hradby – jezdec vpředu a skupina jezdců za ním; 5. kapitán justice – pěší s obnaženým mečem a halapartníci, jezdec s žerdí a další jezdci; 6. vozmistr – jezdec vpředu a skupina jezdců s chocholy; 7. kapitán dělostřelectva – jezdec před skupinou jezdců; 8. bez nápisu – pět jezdců, z toho trubači s troubami. Oproti černé straně jsou karty 5–7 seřazeny v jiném pořadí a některé jsou z jiných štočků.
+- typ: tabulka
+  de:
+  - - '1'
+    - VELTOBERSTER
+  - - '2'
+    - EIN EDEL MAN DER ARTOLOREI
+  - - '3'
+    - VELTMARSCHALCK
+  - - '4'
+    - WAGENBVRG MEISTER
+  - - '5'
+    - CAPITAN DER IVSTITIEN
+  - - '6'
+    - WAGENMEISTER
+  - - '7'
+    - CAPITAN DER ARTOLOREY
+  - - '8'
+    - '–'
+  cs:
+  - - '1'
+    - polní plukovník {Veltoberster}
+  - - '2'
+    - šlechtic dělostřelectva {Edel man der Artolorei}
+  - - '3'
+    - polní maršálek {Veltmarschalck}
+  - - '4'
+    - mistr vozové hradby {Wagenburg meister}
+  - - '5'
+    - kapitán justice {Capitan der Justitien}
+  - - '6'
+    - vozmistr {Wagenmeister}
+  - - '7'
+    - kapitán dělostřelectva {Capitan der Artolorey}
+  - - '8'
+    - (bez nápisu – trubači)[^1]
+poznamky:
+- n: 1
+  text: |-
+    V nápisech karet 2 a 5 jsou zkratky s nadtržením (*EDEL MĀ*, *CAPITĀ*), zde rozepsané. Jména římských velitelů k těmto úřadům uvádějí červené textové karty na [[7-009v|listu 9v]].

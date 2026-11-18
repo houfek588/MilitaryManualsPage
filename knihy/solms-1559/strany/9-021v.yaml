@@ -1,0 +1,38 @@
+id: 9-021v
+list: 21 (9. kniha)
+strana: verso
+sken: 662
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    reden welt/ vnd jhr sehet daß etlich mit zu losen/ vnd seiner meinung sein wolten/ solt jhr euch grawsamlich vnd erschrecklich erzeigen/ vnd solchen Widersacher auff der malstat erstechen/ daß wirdt dann den anderen ein grosse forcht machen/ vnd ein jeglicher gedencken/ daß er nichts böß rede das wider euch sein werd/ vnd wirt ewer sach einen bessern fürgang haben/ dann wann yr yn erst mit recht wölt tödten lassen würde die sach einn langen verzug haben/ vnd etwas bösers eruolgen/ dann die jenigen so seines anhangs weren/ möchten sich herfür thůn/ vnd anzeigen er hett die wort geredt/ vnd euch dardurch dahin bringen/ daß jr ein sach wider ewer ehr thet/ wann jr das thůt/ vnnd einen der gestalt erstecht/ damit jr ein Stat oder Schloß mit sampt den Leuten so darinn seind/ behaltet/ vnnd es nicht auß einem neidt thůt/ acht ich es werd euch gegen Gott keine sünde sein/ dann auß zweien bösen muß mann das best erwelen.
+  cs: |-
+    a vy vidíte, že mu někteří naslouchají a chtějí s ním být zajedno, máte se ukázat krutí a hrozní a takového protivníka na místě[^1] probodnout. To pak ostatním nažene velký strach a každý si dá pozor, aby neřekl nic zlého, co by bylo proti vám, a vaše věc bude mít lepší průběh. Kdybyste ho totiž chtěli dát popravit teprve řádným právem, věc by se dlouho táhla a mohlo by z ní vzejít něco horšího. Jeho přívrženci by se totiž mohli ozvat a vypovídat o tom, jak ta slova pronesl[^2], a tím vás přivést k tomu, že byste učinili něco proti své cti. Když to uděláte a někoho takto probodnete, abyste udrželi město nebo zámek i s lidmi, kteří jsou v něm, a nečiníte to ze zášti, mám za to, že vám to před Bohem nebude hříchem; neboť ze dvou zel je třeba vybrat to menší.
+- typ: odstavec
+  de: |-
+    Nachuolgents ist mein gůt bedüncken/ daß der Oberst inn der Stat alle Prouiant so da ist/ besichtigt/ es sei Fleiß/ Wein oder korn/ deßgleichen auch die Balbierer vnnd Apotecker/ daß sie gerüst seien den verwunten vnd Krancken oder wer jhrer notturfftig sein wirdt zuhelffen/ darzů verordnen vier Mäner die es alles außtheilen mussen/ vnnd on jhrer verwilligung soll nichts außgeben werden/ nachuolgents solt jhr ewer gantz Volck in Rotten theilen/ vnd nicht mehr dann zehen inn ein Rot dieselbigen sollen vnder jnen einen Rotmeister erwelen/ der jnen allen tag oder zweimal in der Wochen/ wie jhr dann die Ordnung deßhalben gemacht/ Prouiant holle/ Deßgleichen solt jr euch auch mit den Frawen vnd Kindern halten/ wie mit den Kriegßleuten.
+  cs: |-
+    Dále je mé dobré zdání, aby plukovník {Oberst} ve městě prohlédl všechen proviant {Prouiant}, který tam je, ať maso[^3], víno, nebo obilí, a stejně tak i lazebníky {Balbierer} a lékárníky, zda jsou připraveni pomáhat raněným a nemocným nebo komukoli, kdo bude jejich pomoc potřebovat. K tomu má ustanovit čtyři muže, kteří budou všechno rozdělovat, a bez jejich svolení se nesmí nic vydat. Potom máte rozdělit všechen svůj lid do rot {Rotten}, nejvýš po deseti mužích do jedné roty. Ti si mají mezi sebou zvolit rotmistra {Rotmeister}, který jim bude každý den nebo dvakrát týdně – podle toho, jaký řád jste k tomu vydali – vyzvedávat proviant. Stejně tak máte nakládat i se ženami a dětmi jako s válečníky {Kriegßleuten}.
+- typ: odstavec
+  de: |-
+    Wann jhr die Prouiant gar besichtiget/ vnnd ewer Volck der gestalt (wie jetzund gemelt) getheilt habt/ vnd gesetzt wieuil jr zu zehen Personen ein Wochen haben müssen/ kündt jhr wol außrechnen wie lang jhr Prouiant gnůg habt/ Vnd das ist ein ding darinn jhr grossen fleiß brauchen solt/ vnnd hart darob halten daß kein vnordnung darinnen werde.
+  cs: |-
+    Když jste celý proviant prohlédli, svůj lid rozdělili tak, jak bylo právě řečeno, a stanovili, kolik ho na deset osob na týden potřebujete, můžete si snadno spočítat, na jak dlouho máte proviantu dost. To je věc, při níž máte vynaložit velkou péči a přísně dbát, aby v ní nevznikl žádný nepořádek.
+- typ: odstavec
+  de: |-
+    Mich bedüncket auch gůt sein/ daß jhr alle die so in der Stat wonhafftig seind/ berůffen lasset/ vnnd alda die Weiber/ Kinder vnnd andere Leut so nicht zu der wehr gerüst seind/ hinauß jagen vnnd ziehen lasset/ vnnd je ehe dasselbig geschicht je besser es ist/ vnnd sonderlich die jenigen so nicht eigen Häusser haben oder nicht Bürger seind/ Wann aber noch etlich Bürger inn der Stat weren/ die jhr wol zu brauchen hett/ vnd sie doch vor grosser forcht etwan jrer Weib vnnd Kinder halben gern auß der Stat wern/ ist es vil besser jhr lasset sie
+  cs: |-
+    Také se mi zdá dobré, abyste dali svolat všechny, kdo ve městě bydlí, a ženy, děti a ostatní lidi, kteří nejsou způsobilí k boji, vyhnali a nechali odejít; čím dříve se to stane, tím lépe, a zvláště ty, kdo nemají vlastní domy nebo nejsou měšťany. Kdyby však ve městě zůstali ještě někteří měšťané, jichž byste mohli dobře využít, ale oni by z velkého strachu, snad kvůli svým ženám a dětem, rádi z města odešli, je mnohem lepší nechat je
+poznamky:
+- n: 1
+  text: |-
+    *auff der malstat* – doslova „na soudném místě“ (Mahlstatt); zde ve smyslu „hned na místě“, bez řádného soudu, jak vysvětluje další věta.
+- n: 2
+  text: |-
+    *anzeigen er hett die wort geredt* – místo není zcela jasné; smysl je, že přívrženci obviněného by v řádném procesu mohli jeho slova vykládat a zpochybňovat, a tak velitele zdržet či dohnat k nečestnému jednání.
+- n: 3
+  text: |-
+    *Fleiß* – tak v tisku, tisková chyba za *Fleisch* („maso“).

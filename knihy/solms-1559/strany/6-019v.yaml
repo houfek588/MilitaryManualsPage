@@ -1,0 +1,251 @@
+id: 6-019v
+list: 19 (6. kniha)
+strana: verso
+sken: 530
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Muster Register solcher Reutter vnd Reisigen / so der Durchleuchtig / Hochgeborn Fürst vnnd Herr / Herr Albrecht Marggraue zu Brandenburg / etc. Keiserlicher Maiestat Oberster / in jrer Maies. dienst fürt / Vnd durch den Edlen / Vesten / Herrn Christoffeln von Schawenburg / etc. Als verordneten Commissarien bei Landaw gemustert / deren Reutter Monat Donstag den 5 Junij / Anno / etc. 44 angefangen hat.
+  cs: |-
+    Přehlídkový rejstřík {Muster Register} jezdců a jízdy {Reisigen}, které vede osvícený, vysoce urozený kníže a pán, pan Albrecht, markrabě braniborský atd., plukovník {Oberster} Císařského Veličenstva {Keiserlicher Maiestat}, ve službě Jeho Veličenstva, a které u Landavy přehlédl {gemustert} urozený a statečný pan Christoffel von Schawenburg atd. jako ustanovený komisař {Commissarien}; jezdecký měsíc služby jim začal ve čtvrtek 5. června léta [15]44.[^1]
+- typ: odstavec
+  de: |-
+    Erstlich die Reutter so auß seiner Fürst. Gna. Stall reiten / sampt derselben Einrosser / Einspennigen vnd Knaben.
+  cs: |-
+    Nejprve jezdci, kteří jezdí ze stáje Jeho knížecí Milosti {Fürst. Gna.}, spolu s jejími jezdci o jednom koni {Einrosser}, jednokoními jezdci {Einspennigen} a pacholky {Knaben}.[^2]
+- typ: tabulka
+  de:
+  - - Gerüster pferd
+    - '85'
+  - - Kürisser
+    - '8'
+  - - Trometer
+    - '6'
+  - - Drosser
+    - '7'
+  - - Wagen.
+    - '8'
+  - - Graue Christoffel von Hennenberg.
+    - ''
+  - - Gerüster pferd
+    - '31'
+  - - Kürisser
+    - '2'
+  - - Drosser
+    - '3'
+  - - Wagen.
+    - '3'
+  - - Summa Gerüster pferd
+    - '116'
+  - - Summa Kürisser
+    - '10'
+  - - Summa Drosser
+    - '10'
+  - - Summa Wagen
+    - '11'
+  - - Summa Trometer
+    - '6'
+  - - Steffan von Heldern.
+    - ''
+  - - Gerüster pferd
+    - '6'
+  - - Wagen.
+    - ½
+  - - Hanß Burckhart von Heinhoffen.
+    - ''
+  - - Gerüster pferd
+    - '8'
+  - - Kürisser.
+    - '1'
+  - - Braun von Würtzburg
+    - ''
+  - - Gerüster pferd
+    - '3'
+  - - haben beide
+    - ''
+  - - Wagen.
+    - '1'
+  - - Einspennige.
+    - ''
+  - - Gerüster pferd
+    - '7'
+  - - Drosser
+    - ½
+  - - Wagen
+    - ½
+  - - Summa Gerüster pferd
+    - '24'
+  - - Summa Kürisser
+    - '1'
+  - - Summa Drosser
+    - ½
+  - - Summa Wagen.
+    - '2'
+  - - Landgraue Christoff von Leuchtenberg.
+    - ''
+  - - Gerüster pferd
+    - '15'
+  - - Kürisser
+    - '2'
+  - - Drosser
+    - '1'
+  - - Wagen.
+    - ½
+  - - Graue Pop von Hennenberg.
+    - ''
+  - - Gerüster pferd
+    - '16'
+  - - Kürisser
+    - '1'
+  - - Drosser
+    - '2'
+  - - Wagen.
+    - '2'
+  - - Eucarius von Egloffstein
+    - ''
+  - - Gerüster pferd
+    - '15'
+  - - Kürisser
+    - '1'
+  - - Drosser.
+    - '1'
+  - - Summa Gerüster pferd
+    - '46'
+  - - Summa Kürisser
+    - '4'
+  - - Summa Drosser
+    - '4'
+  - - Summa Wagen.
+    - 3½
+  - - Hanß Nothafft.
+    - ''
+  - - Gerüster Pferd
+    - '6'
+  - - Drosser.
+    - ½
+  - - Joachim Wild vnd Philips von Streitburg.
+    - ''
+  cs:
+  - - zbrojní koně {Gerüster pferd}
+    - '85'
+  - - kyrysníci {Kürisser}
+    - '8'
+  - - trubači {Trometer}
+    - '6'
+  - - trénní koně {Drosser}
+    - '7'
+  - - vozy
+    - '8'
+  - - hrabě Christoffel von Hennenberg
+    - ''
+  - - zbrojní koně
+    - '31'
+  - - kyrysníci
+    - '2'
+  - - trénní koně
+    - '3'
+  - - vozy
+    - '3'
+  - - úhrnem zbrojní koně
+    - '116'
+  - - úhrnem kyrysníci
+    - '10'
+  - - úhrnem trénní koně
+    - '10'
+  - - úhrnem vozy
+    - '11'
+  - - úhrnem trubači
+    - '6'
+  - - Steffan von Heldern
+    - ''
+  - - zbrojní koně
+    - '6'
+  - - vozy
+    - ½
+  - - Hanß Burckhart von Heinhoffen
+    - ''
+  - - zbrojní koně
+    - '8'
+  - - kyrysníci
+    - '1'
+  - - Braun von Würtzburg
+    - ''
+  - - zbrojní koně
+    - '3'
+  - - 'oba mají společně:'
+    - ''
+  - - vozy
+    - '1'
+  - - jednokoní jezdci {Einspennige}
+    - ''
+  - - zbrojní koně
+    - '7'
+  - - trénní koně
+    - ½
+  - - vozy
+    - ½
+  - - úhrnem zbrojní koně
+    - '24'
+  - - úhrnem kyrysníci
+    - '1'
+  - - úhrnem trénní koně
+    - ½
+  - - úhrnem vozy
+    - '2'
+  - - lankrabě Christoff von Leuchtenberg
+    - ''
+  - - zbrojní koně
+    - '15'
+  - - kyrysníci
+    - '2'
+  - - trénní koně
+    - '1'
+  - - vozy
+    - ½
+  - - hrabě Pop von Hennenberg
+    - ''
+  - - zbrojní koně
+    - '16'
+  - - kyrysníci
+    - '1'
+  - - trénní koně
+    - '2'
+  - - vozy
+    - '2'
+  - - Eucarius von Egloffstein
+    - ''
+  - - zbrojní koně
+    - '15'
+  - - kyrysníci
+    - '1'
+  - - trénní koně
+    - '1'
+  - - úhrnem zbrojní koně
+    - '46'
+  - - úhrnem kyrysníci
+    - '4'
+  - - úhrnem trénní koně
+    - '4'
+  - - úhrnem vozy[^3]
+    - 3½
+  - - Hanß Nothafft
+    - ''
+  - - zbrojní koně
+    - '6'
+  - - trénní koně
+    - ½
+  - - Joachim Wild a Philips von Streitburg
+    - ''
+poznamky:
+- n: 1
+  text: |-
+    Albrecht II. Alkibiades, markrabě braniborsko-kulmbašský (1522–1557), sloužil v roce 1544 Karlu V. ve válce proti Francii. Přehlídkovým komisařem byl Christoph von Schaumburg; Landau in der Pfalz leží západně od Špýru. Jezdecký měsíc služby začal 5. června 1544.
+- n: 2
+  text: |-
+    Tisk sází rejstřík ve dvou sloupcích; v edici je přepsán souvisle (nejprve levý, pak pravý sloupec), úhrny spojené v tisku svorkou se slovem *Summa* jsou rozepsány po řádcích. Zlomky jsou v tisku sázeny jako ½. *Drosser* (*Trosser*) jsou koně trénu se svými pacholky – jezdci je počítali vedle zbrojných koní, žold za ně byl nižší (viz [[6-022r|s. 6-022r]]). Jména osob jsou ponechána v podobě tisku; kde je známa dnešní podoba, uvádí ji poznámka (Hennenberg = Henneberg, Würtzburg/Wirtzberg = Wirsberg, Egloffstein, Leuchtenberg). Hrabata Christoph (1510–1548) a Poppo XII. (1513–1574) z Hennebergu pocházela z linie Henneberg-Schleusingen.
+- n: 3
+  text: |-
+    Součet položek skupiny (Leuchtenberg ½, Hennenberg 2, Egloffstein 0) dává 2½ vozu; tisk má 3½. Celkový úhrn 27 vozů na [[6-020v|s. 6-020v]] však počítá s 3½, takže chyba bude spíše ve vynechané položce (snad vůz Egloffsteina).

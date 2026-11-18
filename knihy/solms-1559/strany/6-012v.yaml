@@ -1,0 +1,85 @@
+id: 6-012v
+list: 12 (6. kniha)
+strana: verso
+sken: 516
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['', 'Halben wagen.', '9 gulden 6 batzen.']
+  - ['', 'Summa', '65 gulden 12 batzen.']
+  - ['Summa lat.', 'Gelts ist', '65 gulden 12 batzen.']
+  - ['', 'Pferde', '60']
+  - ['', 'Drosser', '4']
+  - ['', 'Wagen.', '5']
+  - ['', 'Kersten von Wißdrucken.', '']
+  - ['26', 'Item hat 70 Meilen 24 tag reitens vnnd stilligens mit 8 pferden/ thůt jeden tag ein pferde zu 6 batzen', '76 gulden 12 batzen.']
+  - ['', 'halben Drosser', '2 flo. 5 batzen.']
+  - ['', 'halben Wagen', '9 gulden.']
+  - ['', 'Summa', '88 gulden 2 batzen.']
+  - ['', 'Joachim von Harstal.', '']
+  - ['27', 'Item hat 30 meiln 11½ tag reitens vnd stilligens mit 17 pferden/ thůt jeden tag ein pferde zu 6. batzen', '71 gulden 6 batz.']
+  - ['', 'Drosser', '2 gulden 1 batzen.']
+  - ['', 'Wagen', '8 gulden 6 batzen.']
+  - ['', 'Summa', '81 gulden 13 batzen.']
+  - ['', 'Erich Rautenberg.', '']
+  - ['28', 'Item hat 64 Meilen 22½ tag reitens vnd stilligens mit 8 pferden thůt', '67 gulden 1 batzen.']
+  - ['', 'Drosser', '4 gulden 6 batzen.']
+  - ['', 'Summa', '71 gulden 7 batzen.']
+  - ['', 'Sigmund von Miltitz.', '']
+  - ['', 'Item hat 53. meiln 18 tag reitens vnnd stilligens mit 7. pferden jeden tag 1. Roß 6. batzen machen 7. pferd in 18. tagen', '50 flo. 6 batzen.']
+  - ['', 'Halben Wagen', '7 flo. 3 batzen.']
+  - ['', 'Summa', '57. gulden 9 batzen.']
+  - ['', 'Vlrich Kitlitz.', '']
+  - ['', 'Item hat 89 meiln 27. tag reitens vnnd stilligens mit 4. pferden thůt jeden tag jedes pferd 6 batzen/ macht in summa', '46 flo. 6 batzen.']
+  - ['Summa lat.', 'Gelt', '345 gulden 7 batzen.']
+  - ['', 'Pferde', '44']
+  - ['', 'Droß', '2½']
+  - ['', 'Wagen.', '2']
+  cs:
+  - ['', 'půl vozu {wagen}', '9 zlatých {gulden} 6 bacenů {batzen}']
+  - ['', 'suma', '65 zlatých 12 bacenů']
+  - ['součet strany {Summa lat.}', 'peněz je', '65 zlatých 12 bacenů[^1]']
+  - ['', 'koní {Pferde}', '60']
+  - ['', 'trénních koní {Drosser}', '4']
+  - ['', 'vozů', '5']
+  - ['', 'Kersten von Wißdrucken.', '']
+  - ['26', 'Dále: měl 70 mil {Meilen} a 24 dní jízdy a stání {reitens vnnd stilligens} s 8 koňmi; na koně každý den 6 bacenů', '76 zlatých 12 bacenů']
+  - ['', 'půl trénního koně', '2 zl. {flo.} 5 bacenů']
+  - ['', 'půl vozu', '9 zlatých']
+  - ['', 'suma', '88 zlatých 2 bacenů']
+  - ['', 'Joachim von Harstal.', '']
+  - ['27', 'Dále: měl 30 mil a 11½ dne jízdy a stání se 17 koňmi; na koně každý den 6 bacenů', '71 zlatých 6 bac.']
+  - ['', 'trénní kůň', '2 zlaté 1 bacen']
+  - ['', 'vůz', '8 zlatých 6 bacenů']
+  - ['', 'suma', '81 zlatých 13 bacenů']
+  - ['', 'Erich Rautenberg.', '']
+  - ['28', 'Dále: měl 64 mil a 22½ dne jízdy a stání s 8 koňmi; činí', '67 zlatých 1 bacen']
+  - ['', 'trénní kůň', '4 zlaté 6 bacenů']
+  - ['', 'suma', '71 zlatých 7 bacenů']
+  - ['', 'Sigmund von Miltitz.', '']
+  - ['', 'Dále: měl 53 mil a 18 dní jízdy a stání se 7 koňmi; každý den na 1 koně {Roß} 6 bacenů, činí za 7 koní a 18 dní', '50 zl. 6 bacenů']
+  - ['', 'půl vozu', '7 zl. 3 bacenů']
+  - ['', 'suma', '57 zlatých 9 bacenů']
+  - ['', 'Vlrich Kitlitz.', '']
+  - ['', 'Dále: měl 89 mil a 27 dní jízdy a stání se 4 koňmi; na každého koně každý den 6 bacenů, činí suma', '46 zl. 6 bacenů']
+  - ['součet strany', 'peněz', '345 zlatých 7 bacenů']
+  - ['', 'koní', '44']
+  - ['', 'trénních koní {Droß}', '2½']
+  - ['', 'vozů', '2']
+- typ: tabulka
+  de:
+  - ['Summarum aller pferd ist 290/ thun vnd ertragen zu anrit gelt/ inhalt dises Registers', '1905 flo. 1. batzen.']
+  - ['Summarum aller Drosser ist 21. ertragen an gelt/ inhalt des Registers', '67 flo. 8 batzen.']
+  - ['Summarum aller Wagen ist 21½/ ertragen an gelt/ inhalt des Registers', '289 flo. 9 batzen.']
+  - ['summarum alles Reutter/ Drosser vnd Wagen gelts ist zusamen', '2262. gulden 3. batzen.']
+  cs:
+  - ['Všech koní je celkem 290; podle tohoto rejstříku {Registers} činí a vynášejí na příjezdném {anrit gelt}', '1905 zl. 1 bacen']
+  - ['Všech trénních koní je celkem 21; vynášejí na penězích podle rejstříku', '67 zl. 8 bacenů']
+  - ['Všech vozů je celkem 21½; vynášejí na penězích podle rejstříku', '289 zl. 9 bacenů']
+  - ['Součet všech peněz za jezdce {Reutter}, trénní koně a vozy činí dohromady', '2262 zlatých 3 bacenů']
+poznamky:
+- n: 1
+  text: Tisková chyba – opakuje se suma poslední položky. Součet položek 20–25 činí 669 zl. 9 bac.; s touto hodnotou souhlasí i celkový součet 2262 zl. 3 bac. na konci rejstříku. Rejstřík pokrývá 30 položek; poslední dvě (Miltitz, Kitlitz) nejsou v tisku očíslovány.

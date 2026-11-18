@@ -1,0 +1,36 @@
+id: 9-titul
+list: titulní list (9. kniha)
+strana: recto
+sken: 619
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Borgundische Kriegßordnung/
+    Darinn begriffen ist wie ein gut Ordnung des Kriegs fürgenommen vnnd gehalten soll werden/ Nach der Teutschen hergebrachten Kriegsregirungen/ vnd altem Römischem gebrauch.
+  cs: |-
+    Burgundský válečný řád {Kriegßordnung},
+    v němž je obsaženo, jak se má zavést a zachovávat dobrý řád války podle zděděných německých způsobů válečné správy {Kriegsregirungen} a podle starého římského obyčeje.
+- typ: odstavec
+  de: |-
+    Durch den Hochgebornen Fürsten vnnd Herrn/ Herrn Philipsen Hertzog zů Cleue/ Graue zůr Marck/ vnd Herr zů Rauenstein/ etc. beschriben vnd in dise Form bracht.
+  cs: |-
+    Sepsal a do této podoby uvedl vysoce urozený kníže a pán, pan Filip, vévoda klévský, hrabě z Marky a pán z Ravensteinu atd.[^1]
+- typ: obrazek
+  soubor: drevorez-619.jpg
+  popis: |-
+    Dřevořez císařského znaku Karla V. (z téhož štočku jako na titulních listech předchozích knih): uprostřed korunovaný štít s dvouhlavým říšským orlem a habsbursko-španělským srdečním štítkem, obklopený řetězem řádu Zlatého rouna. Po stranách stojí dva korunované Herkulovy sloupy přidržované dvěma okřídlenými putti a ovinuté nápisovou stuhou s císařským heslem „PLVS. – VLTRE“.
+- typ: odstavec
+  de: |-
+    Anno Domini M. D. Lix.
+  cs: |-
+    Léta Páně 1559.[^2]
+poznamky:
+- n: 1
+  text: |-
+    Filip Klévský (Philippe de Clèves, 1456–1528), pán z Ravensteinu, syn Adolfa Klévského z vedlejší ravensteinské linie klévského vévodského rodu a Beatrix Portugalské z Coimbry; nizozemský šlechtic a vojevůdce ve službách burgundských Habsburků, admirál a rytíř Zlatého rouna. Vládnoucím vévodou klévským nebyl – titul na titulním listu vyjadřuje jen příslušnost k rodu. Jeho francouzský spis *Instruction de toutes manières de guerroyer tant par terre que par mer* vznikl kolem roku 1516 pro mladého Karla Burgundského, pozdějšího císaře Karla V. Hrabství Marka (*Marck*) na dolním Rýně bylo spojeno s Klévskem.
+- n: 2
+  text: |-
+    Titul je tištěn červeně a černě: záhlaví *Borgundische Kriegßordnung* a jméno a tituly autora černě, hlavní titul, první řádek *Durch den Hochgebornen Fürsten vnnd* a datum červeně. Rubová strana titulního listu (sken 620) je prázdná a v edici se vynechává.

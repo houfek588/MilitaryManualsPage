@@ -1,0 +1,34 @@
+id: 6-titul
+list: titulní list (6. kniha)
+strana: recto
+sken: 491
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das sechst Bůch /
+    Die Musterung belangende / Der Durchleuchtigen / Hochgebornen Fürsten vnnd Herrn / Herrn Moritzen Hertzogen zů Sachssen / Landgraue zů Düringen / vnd Margraue zů Meissen / etc. Vnd Margraue Albrechten zů Brandenburg / etc. Keiserlicher Maiestat Obersten / wie die bei Carolo dem fünfften mit der Bestallung vnd Musterung gehalten sein worden.
+  cs: |-
+    Šestá kniha,
+    týkající se přehlídky {Musterung} osvícených a vysoce urozených knížat a pánů, pana Mořice, vévody saského, lantkraběte durynského a markraběte míšeňského atd., a markraběte Albrechta Braniborského atd., plukovníků {Obersten} Císařského Veličenstva: jak s nimi bylo za Karla V. naloženo co do služebního listu {Bestallung} a přehlídky.[^1]
+- typ: odstavec
+  de: |-
+    Durch die Wolgebornen / Edlen / Vesten Reinharten Grauen zů Solms / vnnd Herren zů Mintzenberg / etc. Vnd Christoffeln von Schawenburg / vnd Herr zů Breischs etc. Römischer Keiserlicher Maiestat Carols des fünfften Commissarien bei Franckfurt gemustert / derer Reutter Monat auff Mitwochen den 28. Mai / Anno / etc. 44. angefangen hat.
+  cs: |-
+    Přehlédnuto u Frankfurtu urozenými, vznešenými a statečnými pány Reinhartem, hrabětem ze Solmsu a pánem z Münzenbergu atd., a Christoffelem von Schawenburg, pánem v Breischs atd., komisaři {Commissarien} Římského císařského Veličenstva Karla V.; měsíc [služby] těchto jezdců {Reutter} začal ve středu 28. května léta [15]44.[^2]
+- typ: obrazek
+  soubor: drevorez-491.jpg
+  popis: |-
+    Dřevořez císařského znaku Karla V. (z téhož štočku jako na titulních listech předchozích knih): uprostřed korunovaný štít s dvouhlavým říšským orlem a srdečním štítkem se znaky habsbursko-španělských zemí, obtočený řetězem řádu Zlatého rouna. Po stranách stojí dva korunované Herkulovy sloupy, které přidržují dva okřídlení putti; sloupy ovíjí nápisová stuha s císařským heslem „PLVS – VLTRE“. Nad korunou drobná tiskařská ozdoba.
+- typ: odstavec
+  de: Getruckt im Jar / M. D. Lix.
+  cs: Tištěno léta 1559.
+poznamky:
+- n: 1
+  text: |-
+    Titulní list Šesté knihy, tištěný černě a červeně. Mořic Saský (1521–1553) byl v roce 1544 ještě vévodou (kurfiřtem se stal až 1547), Albrecht II. Alkibiades, markrabě braniborsko-kulmbašský (1522–1557), byl rovněž v císařských službách; oba vedli v tažení Karla V. proti Francii roku 1544 (obléhání Saint-Dizier) sbory německé jízdy. Rub listu (sken 492) je prázdný a v edici se vynechává.
+- n: 2
+  text: |-
+    Tisk píše „Mintzenberg“ (jinde Müntzenberg, dnes Münzenberg ve Wetteravii). Christoffel von Schawenburg je Christoph von Schauenburg; jeho přídomek zní zde „Breischs“, v nadpisu instrukce na [[6-003v|listu 3v]] „Brieschs“; místo se nepodařilo bezpečně ztotožnit. Datum odpovídá: 28. května 1544 (juliánského kalendáře) byla středa.

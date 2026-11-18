@@ -1,0 +1,47 @@
+id: 7-016r
+list: 16 (7. kniha)
+strana: recto
+sken: 579
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Solcher Kriegs Wagen den mann ein Schirmwagen heist / soll in dem Schirm löcher wie schießlöcher haben / darmit die Schützen verdeckt dardurch schiessen mögen / vnd darhinder jren standt frei haben können / solche Wagen sollen gespant werden / einer mit drei pferden. Die Schirm auff solchen wagen sollen gemacht werden / daß mann dieselbigen mög vberzwerg auff welche seite mann will rücken / damit auff der ein seiten von den Feinden die Knecht einn sitz hinder dem Schirm haben / ob sichs zutragen würde / daß mann durch wasser faren wirt / oder daß mann mit den wagen etwan eilent nachjagen / oder in einn vortheil weichen müst / so kündten die zůgeordneten Knecht oder Schützen darauff sitzen vnnd fürtkomen / da sie von nöten sein werden.
+  cs: |-
+    Takový válečný vůz, kterému se říká štítový vůz {Schirmwagen}, má mít ve štítu {Schirm} otvory jako střílny, aby jimi střelci {Schützen} mohli krytě střílet a měli za ním volné stanoviště. Do každého takového vozu se mají zapřáhnout tři koně. Štíty na těchto vozech se mají zhotovit tak, aby se daly napříč posunout na kteroukoli stranu; knechti {Knecht} pak mají za štítem na straně odvrácené od nepřítele kde sedět. Kdyby se totiž stalo, že se má jet přes vodu nebo že se musí s vozy někdy rychle pronásledovat či ustoupit na výhodné místo, mohli by na nich přidělení knechti nebo střelci sedět a dostat se tam, kde jich bude třeba.
+- typ: odstavec
+  de: |-
+    Weiter so sind dise beide wagen auch gůt / wann mann ein Wagenburg schlagen wolt / oder in sorgen faren / daß mann mit den Wagen ein außkröpffung als ein Streichwehr machen / darmit die Wagenburg möge vorstrichen werden / wann mann zu roß oder füß darauff rennen oder lauffen wirt.
+  cs: |-
+    Dále jsou oba tyto vozy dobré také tehdy, když se má rozbít vozová hradba {Wagenburg} nebo jet v nebezpečí: lze z nich udělat vysunutý zlom {außkröpffung} jako boční obrannou stavbu {Streichwehr}, aby se z ní dala vozová hradba ostřelovat z boku, kdyby na ni někdo najížděl na koni nebo útočil pěšky.
+- typ: odstavec
+  de: |-
+    Vnd so mann ein solch Wagenburg fürn / noch vmb ein leger schlagen würde / so soll allwegen ein Fußuolck darzů geordnet werden / die den standt darhinder haben / vnd die wagenburg versehen.
+  cs: |-
+    A když se taková vozová hradba vede nebo rozbíjí kolem ležení {leger}, má se k ní vždy přidělit pěchota {Fußuolck}, která má za ní stanoviště a vozovou hradbu obsazuje.
+- typ: odstavec
+  de: |-
+    Deßgleichen so ein Wagenburg im veld im zug neben dem Kriegßuolck gehen würde / so soll jn allwegen Kriegßuolck zu fuß darneben geordnet werden / vnd besonder Schützen.
+  cs: |-
+    Stejně tak, když vozová hradba jede v poli na pochodu vedle válečného lidu {Kriegßuolck}, mají se k ní vždy přidělit pěší, a zvláště střelci.
+- typ: odstavec
+  de: |-
+    Zum andern / so sind noch andere Wagen darzů / die mannn streitwagen nent / die sind mit schirmen gemacht / also das ein bretteren schirm so lang der wagen ist / vber sich auffgehe / so hoch daß ein mann vor einem Reisigen der auff seinem Pferde sitzt verdeckt sei / sollicher schirm soll löcher wie schießlöcher haben / darmit die Schützen darauß schiessen vnd sich wehren / vnd darhinder vorn Reuttern vnd zůfall sicher jren standt haben mögen.
+  cs: |-
+    Za druhé jsou k tomu ještě jiné vozy, kterým se říká bojové vozy {streitwagen}. Jsou zhotoveny se štíty tak, že prkenný štít po celé délce vozu vybíhá vzhůru tak vysoko, aby byl muž krytý před jezdcem {Reisigen}, který sedí na koni. Takový štít má mít otvory jako střílny, aby z nich střelci mohli střílet a bránit se a měli za ním stanoviště bezpečné před jezdci {Reuttern} a nenadálým útokem.
+- typ: odstavec
+  de: |-
+    Solche streitwagen als die mit den Doppelnhacken vnd schirmen sollen vnder die Heerwagen eingefürt werden / zu wehrn den einfal auff ein Zugordnung / auch auff ein standt wann ein Kriegßuolck auß not getrongen würde.
+  cs: |-
+    Takové bojové vozy, totiž ty s dvojitými hákovnicemi {Doppelnhacken} i ty se štíty, se mají zařadit mezi válečné vozy {Heerwagen}, aby odrážely přepad na tažný šik {Zugordnung} a také na postavení, kdyby byl válečný lid tísněn nouzí.
+- typ: odstavec
+  de: |-
+    Deßgleichen vmb ein Leger damit auch ein wagenburg machen / damit streichwehrn gemacht werden / die wagenburg zustreichen.
+  cs: |-
+    Stejně tak se jimi dá udělat vozová hradba kolem ležení a zřídit z nich boční obranné stavby, z nichž se vozová hradba ostřeluje z boku.
+- typ: odstavec
+  de: |-
+    Deßgleichen so kan sichs zutragen / daß im ziehen auff die wagen zu rennen / von den Feinden geordnet werden / wann sich solches inn der eil zutragen wirt / vnd man kein ordenliche wagenburg schlagen noch schliessen kündte / so sollen doch in der eil die wagen dahin
+  cs: |-
+    Stejně tak se může stát, že nepřítel na pochodu nařídí na vozy najet. Stane-li se to narychlo a nedá-li se rozbít ani uzavřít řádná vozová hradba, mají se vozy přesto narychlo

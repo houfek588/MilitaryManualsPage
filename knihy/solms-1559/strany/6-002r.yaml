@@ -1,0 +1,78 @@
+id: 6-002r
+list: 2 (6. kniha)
+strana: recto
+sken: 495
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    selber mit jnen handeln / vnd sagen / Er wöl sich mit jnen einer ehrlichen bestallung vergleichen / die einem oder keinem ehrlichen Gesellen der ehrlich kriegen will / beschwerlich sein / vnd soll dann ein Bestallung auff solche weg begreiffen lassen.
+  cs: |-
+    s nimi sám jednat a říci jim, že se s nimi chce dohodnout na poctivém služebním listu {bestallung}, který nebude obtížný pro žádného poctivého druha, jenž chce poctivě válčit; a potom má dát sepsat služební list tímto způsobem.
+- typ: odstavec
+  de: |-
+    Item haben wir bestalt vnd zu einem Ritmeister angenommen N. daß derselbig vns annemen vnnd füren soll drei hundert pferdt / darüber soll er ein Fendlin besolt haben mit 24 gulden neben seiner andern besoldung.
+  cs: |-
+    Dále: najali jsme a za rytmistra {Ritmeister} přijali N., aby nám naverboval a vedl tři sta koní; nad nimi má mít korouhev {Fendlin}, za niž bude placen 24 zlatými {gulden} kromě ostatního služného.
+- typ: odstavec
+  de: |-
+    Item auff die drei hundert pferdt einen Leutenant / der soll besoldet werden mit zwentzig gulden.
+  cs: |-
+    Dále na těch tři sta koní jednoho poručíka {Leutenant}, který má mít služné dvacet zlatých.
+- typ: odstavec
+  de: |-
+    Item er soll auff die drei hundert pferde zwölff Rotmeister haben / die sollen von gůten verstendigen Reuttern sein / daß sie jhre Rotten wissen zu regiren wie sich das gebürt zu halten / vnd in dem feld auch jre Rotten wissen zu ordnen an die fein an vnd ab zu fürn / wie das jm von seinem Ritmeister befolhen vnd angeweist wirt / vnd auch in der not selber nach gelegenheit sich in fortheil zu schicken wisse / damit der Ritmeister solchen seinen Ritmeistern seinn platz in dem feld ehrlich vnd wie sichs gebürt verwarn kan / vnd seinen Herrn damit wisse zuuersorgen vnd getreulich dienen mög / auch soll der Ritmeister von einem pferd haben neben seiner andern besoldung ein halben gulden / tregt ein Monat zwölff vnd ein halben gülden.
+  cs: |-
+    Dále má mít na těch tři sta koní dvanáct rotmistrů {Rotmeister}. Ti mají být z dobrých a zkušených jezdců {Reuttern}, aby uměli své roty {Rotten} řídit a držet, jak se sluší, a v poli je také uměli sešikovat a vést proti nepříteli i zpět, jak jim nařídí a ukáže jejich rytmistr, a aby se v nouzi uměli i sami podle okolností obrátit ve svůj prospěch. Tak bude moci rytmistr s takovými svými rytmistry[^1] své místo v poli čestně a jak se sluší uhájit, tím svého pána zaopatřit a věrně mu sloužit. Také má rytmistr mít kromě ostatního služného z jednoho koně půl zlatého, což činí za měsíc dvanáct a půl zlatého.
+- typ: odstavec
+  de: |-
+    Item dem Ritmeister soll auff sein Fendlein odder drei hundert pferdt ein Drometer gehalten werden.
+  cs: |-
+    Dále má být rytmistrovi na jeho korouhev {Fendlein} neboli tři sta koní držen jeden trubač {Drometer}.
+- typ: odstavec
+  de: |-
+    Item auff die drei hundert pferde ein Kappellan / ein Dolmetschen vnd etlich schreiber vnd Forierer gehalten / vnd jeglichen mit doppel sold besold werden.
+  cs: |-
+    Dále mají být na těch tři sta koní drženi kaplan {Kappellan}, tlumočník {Dolmetschen} a několik písařů {schreiber} a furýrů {Forierer} a každý z nich má být placen dvojitým žoldem {doppel sold}.
+- typ: odstavec
+  de: |-
+    Item auff ein jedes hundert pferdt ein Huffschmidt mit doppelsold
+  cs: |-
+    Dále na každých sto koní jeden podkovář {Huffschmidt} s dvojitým žoldem.
+- typ: odstavec
+  de: |-
+    Item es soll dem Ritmeister auff zwölff pferdt ein spißbub vnnd schützen Bub gehalten werden.
+  cs: |-
+    Dále má být rytmistrovi na dvanáct koní drženo jedno pachole s kopím {spißbub} a jedno střelecké pachole {schützen Bub}.
+- typ: odstavec
+  de: |-
+    Item auff 100. Pferdt ein Trabanten bezalt mit doppelsold.
+  cs: |-
+    Dále na 100 koní jeden drabant {Trabanten}, placený dvojitým žoldem.
+- typ: odstavec
+  de: |-
+    Item der Ritmeister soll sein gůten Körres mit einem verdeckten Hengst mit einer gantzen Barsen / stirn oder stelen gleger haben / der schützen bub soll mit eim gůten geringen Pferdt beriten sein / vnd gerüst mit gůter schützen rüstung als büchsen vnd eim schaffelein.
+  cs: |-
+    Dále má mít rytmistr svůj dobrý kyrys {Körres} a hřebce v koňské zbroji {verdeckten Hengst} s celou bardou {Barsen}, čelní plotnou {stirn} nebo ocelovým koňským pancířem {stelen gleger}.[^2] Střelecké pachole má jezdit na dobrém lehkém koni a být vyzbrojeno dobrou střeleckou výzbrojí, totiž puškou {büchsen} a kopíčkem {schaffelein}.[^3]
+- typ: odstavec
+  de: |-
+    Item dem Ritmeister sollen gehalten werden 2. schützen die stets auff jn warten / die kan er im feld wol brauchen.
+  cs: |-
+    Dále mají být rytmistrovi drženi 2 střelci {schützen}, kteří jsou mu stále k službám; ty může v poli dobře použít.
+- typ: odstavec
+  de: |-
+    Item dem ritmeister soll gegeben werden auff ein jedes gerüst pferdt das in der Musterung gůt gemacht wirt ein gulden / derselbig ritmeister gulten geht an wann die musterung schehen ist / vnd wert biß zu der abmusterung vnd abdancken.
+  cs: |-
+    Dále se má rytmistrovi dávat na každého zbrojného koně {gerüst pferdt}, který je při přehlídce {Musterung} uznán, jeden zlatý. Tento rytmistrovský zlatý začíná běžet po vykonané přehlídce a trvá až do propouštěcí přehlídky {abmusterung} a propuštění {abdancken}.
+poznamky:
+- n: 1
+  text: |-
+    Tisk má „seinen Ritmeistern“, smysl však vyžaduje „Rotmeistern“ (rotmistry). Také následující „von einem pferd … ein halben gulden / tregt ein Monat zwölff vnd ein halben gülden“ se zjevně týká rotmistra: půl zlatého z koně při rotě o 25 koních (300 : 12) dává právě 12½ zlatého měsíčně. „An die fein“ je v tisku zkrácený tvar za „an die Feind“ (proti nepříteli).
+- n: 2
+  text: |-
+    Kyrys (Küriß, zde „Körres“) je úplná jezdecká plátová zbroj. „Verdeckter Hengst“ je hřebec krytý koňskou zbrojí; „Barsen“ (srov. fr. barde) zde patrně označuje celou koňskou zbroj (bardu), „stirn“ čelní plát (chanfron) a „stelen gleger“ (Gelieger) ocelové krytí trupu a zádi koně. Tatáž výzbroj se opakuje na [[6-002v|další straně]] a ve služebním listu Mořice Saského ([[6-005r|list 5]]).
+- n: 3
+  text: |-
+    „Schaffelein“ – nejisté čtení i význam; nejspíš zdrobnělina od Schaft (lehké kopí, dřevce).

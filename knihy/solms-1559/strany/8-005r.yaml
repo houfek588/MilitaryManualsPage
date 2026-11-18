@@ -1,0 +1,35 @@
+id: 8-005r
+list: 5 (8. kniha)
+strana: recto
+sken: 597
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dasselbig maß in seiner schwere gebraucht/ vnnd nach dem vorgemelten Achtel gerechnet werden/ das nichts felhet/ vnd disem anschlag vnd Ordnung gleich ist/ Wie mann thůn soll/ volgt.
+  cs: |-
+    tamější míra použít podle své váhy a přepočítat podle výše uvedeného achtelu {Achtel}, takže nic nechybí a výsledek se shoduje s tímto rozpočtem a řádem. Jak se to má dělat, následuje.
+- typ: odstavec
+  de: |-
+    Es ist zumercken/ das ein jeglich maß an allen orten/ haben kleine maß/ dieselben seind gleich abgetheilt gegen dem grossen/ doch an einem ort mehr dann an dem andern/ darnach ein Maß ist wirdt inn 6. oder 12. theil/ auch in 24. oder 36. vnd in. 84. abgetheilt/ wie es dann mag geschehen/ vnd solliche genante theil/ wie das nach landts Ordnung genennet/ gleich gemessen werden/ der grossern eines/ thůn solche kleine abgetheilte maß/ mag eins bald vberschlagdn vnd gewigen werden/ wieuil es pfundt hat/ doch wil nicht vil daran gelegen sein/ daß das gewicht auch vngleich ist/ vnnd an einem ort schwerer dann an dem andern/ doch nicht also vngleich wie das maß/ dann es hat allenthalben Centner vnd pfundt/ wann schon etlich pfundt mit dem namen verkleret werden/ mag mann sich an allen orten woll darnach richten.
+  cs: |-
+    Je třeba si povšimnout, že každá míra má všude menší míry, které jsou vůči velké míře rozděleny rovným dílem, ale na jednom místě je jich víc než na jiném. Podle toho, jaká je míra, dělí se na 6 nebo 12 dílů, také na 24 nebo 36 a na 84,[^1] jak se to už stává. Tyto díly, ať se podle zemského zvyku nazývají jakkoli, se měří rovným dílem; [kolik] takových menších dílčích měr dělá jednu velkou, to se dá snadno spočítat a zvážit, kolik má liber {pfundt}. Na tom však mnoho nesejde, že je nestejná i váha a na jednom místě těžší než na jiném – ne však tak nestejná jako míra, protože všude mají centy {Centner} a libry. I když se některé libry nazývají jinak, lze se všude dobře podle toho řídit.
+- typ: odstavec
+  de: |-
+    Item wann mann an einem ort ein maß hat/ welches der kleinen maß 16. in sich helt/ so soll der kleinen maß eins mit Treide gemessen vnd dieselbig gemessen Treide darnach mit fleiß gewigen werden/ so wirt gefunden daß sollich maß in sich helt 15. pfundt/ so thůt das gantz maß 15. mal 16. ist 240. pfundt/ so schwer wirdt das gantz maß mit dem Treyd/ Nun wieuil soll mann jetzt brot bachen auß disem maß/ dieweil auß einem Achtel gebachen werden 90. brot/ vnd helt an dem gewicht 163. pfundt/ wie vor angrzeigt/ So soll also gesetzt werden in die Regel de Tri 163. geben mir gebachen Brot 90. wieuil werden auß 240. pfundt gebachen/ so werden auß disem Maß gebachen 132½. Brot/ on die vbrigen pfundt die mögen eingetheilt werden/ Also mag es auch mit disem gehalten werden/ wie dann vor geschehen in der Ordnung mit den Achteln/ vnd sol das brot zwei pfundt halten/ also kan es auch mit andern massen inn andern Landen gehalten werden. Wann nun an allen orten Brot zu bachen bestalt wirt/ soll manns auff zwei pfundt zu bachen verordnen/ so kan mann redtlich in der Ordnung bleiben/ vnd ist allen denen leicht die damit vmbgehn/ vnd geschicht im kauffen einem wie dem andern/ darzů ist gůt rechnung darnach zu machen.
+  cs: |-
+    Dále: má-li se na nějakém místě míra, která obsahuje 16 menších měr, má se jedna malá míra naměřit obilím a toto naměřené obilí potom pečlivě zvážit. Zjistí se, že taková míra obsahuje 15 liber; celá míra tedy dělá 15krát 16, to je 240 liber – tolik váží celá míra s obilím. Kolik chleba se má nyní z této míry upéci? Protože se z jednoho achtelu upeče 90 chlebů a achtel váží 163 liber, jak bylo ukázáno výše, má se to dosadit do trojčlenky {Regel de Tri} takto: 163 mi dá 90 upečených chlebů, kolik se jich upeče z 240 liber? Z této míry se tedy upeče 132½ chleba, nepočítaje zbylé libry, které se mohou rozpočítat.[^2] Stejně se s tím může naložit jako předtím v řádu s achtely, a chléb má vážit dvě libry; tak se to dá dodržet i s jinými měrami v jiných zemích. Když se tedy všude zadává pečení chleba, má se nařídit péct ho po dvou librách. Tak lze poctivě zůstat v řádu, je to snadné pro všechny, kdo s tím zacházejí, při nákupu se děje jednomu jako druhému a dá se podle toho dobře vést účet.
+- typ: odstavec
+  de: |-
+    So nun dises alles also (wie oben angezeigt) geordnet ist/ vnd geht nun gleich also in seiner Ordnung daher/ so soll ein freyer platz daruff mann solchs Brot fürt bestellet sein/ vnd niemands darauff lassen denn wer darzů geordnet ist/ so kan mann ordnung halten.
+  cs: |-
+    Když je tedy toto všechno uspořádáno (jak bylo ukázáno výše) a běží to tak ve svém pořádku, má být zřízeno volné prostranství, na které se takový chléb přiváží, a nikoho se tam nemá pouštět kromě toho, kdo je k tomu ustanoven. Tak lze udržet pořádek.
+poznamky:
+- n: 1
+  text: |-
+    Tak tisk („in. 84.“); vzhledem k řadě 6, 12, 24, 36 by se dalo čekat spíše 48, číslo je však v tisku zřetelné a v originále je ponecháno. Tiskové chyby *vberschlagdn* (= *vberschlagen*) a *angrzeigt* (= *angezeigt*) jsou v originále rovněž ponechány.
+- n: 2
+  text: |-
+    Výpočet je správný: 240 × 90 : 163 = 132,5 chleba.

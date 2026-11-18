@@ -1,0 +1,44 @@
+id: 7-014v
+list: 14 (7. kniha)
+strana: verso
+sken: 576
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    beschehen / welches sonst in keinen bequemlichern weg füglicher vorzunemen ist.
+  cs: |-
+    způsobila velká škoda, a to se jinak nedá provést žádným pohodlnějším a vhodnějším způsobem.
+- typ: odstavec
+  de: |-
+    Im fall aber daß die gereisigen jre schwere geschütz auß zustehenden beweglichen vrsachen nit mit sich bringen möchten / so mag als dann dasselbig allemal widerumb zu dem Fußuolck vnd desselben verwarung gebracht werden.
+  cs: |-
+    Kdyby však jízda {gereisigen} nemohla ze závažných důvodů, které by nastaly, vézt svá těžká děla {schwere geschütz} s sebou, lze je pokaždé zase odvézt k pěchotě {Fußuolck} a pod její ochranu.
+- typ: odstavec
+  de: |-
+    Dann wie es sonst der gereisigen halben in allen andern fällen / als von wegen jrer besoldung an vnd Abzug / auch sonst in gemein gehalten werden soll / ist on not hieuon einige meldung zuthůn / Dann der Artickelßbrieff / vnd jhre bestallung werden solliches alles nach lengs mit sich bringen vnd außweisen / wie es dann der Oberst sampt seinen Kriegßräthen zuuerordnen weiß.
+  cs: |-
+    Jak se má s jízdou zacházet ve všech ostatních případech, například pokud jde o její žold {besoldung}, nástup a odchod ze služby i jinak obecně, o tom není třeba se zde zmiňovat. Artikulní list {Artickelßbrieff} a jejich služební list {bestallung} to všechno obšírně obsahují a ukazují, jak to plukovník {Oberst} se svými válečnými rady {Kriegßräthen} umí nařídit.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Fußuolck.
+  cs: |-
+    Pěchota.
+- typ: odstavec
+  de: |-
+    MIt dem Fußuolck soll es also gehalten werden / nemlich wann der Kriegßherr zehentausent gemustert Knecht zusamen bringt / sollen dieselben in zwen Hauffen benentlich getheilt werden / in einn jeden hauffen fünfftausent Knecht / die sollen allwegen einer vmb den andern den vor vnd nachzug haben / vnd soll nach des Obersten vnd denselbigen Kriegßräthen verordnungen / allwegen auß einer jeden Rot zwo oder drei personen nach gelegenheit der sachen genommen / vnnd denselbigen außgeschossenen Knechten / vier oder fünff Hauptleut mit jren Fendlein inn sonderheit zugeordnet / die sollen alßdan der verloren oder lauffender hauff genent werden / vnd allwegen darumb im vorzug sein / damit sie ehe im Leger jhnen vnd jhren Burßgesellen in jren angezeigten Quartiren jhre Hütten machen / vnd sich vmb Prouiant dieselben einzukauffen / vmbsehen mögen.
+  cs: |-
+    S pěchotou se má zacházet takto: Svede-li válečný pán {Kriegßherr} dohromady deset tisíc knechtů, kteří prošli přehlídkou {gemustert}, mají se rozdělit jmenovitě do dvou houfů {Hauffen}, do každého pět tisíc knechtů. Ty se mají vždy střídat v předvoji a zadním voji {vor vnd nachzug}. Podle nařízení plukovníka {Obersten} a jeho válečných rad se má vždy z každé roty {Rot} vzít podle okolností dva nebo tři muži a těmto vybraným knechtům {außgeschossenen Knechten} se mají zvlášť přidělit čtyři nebo pět hejtmanů {Hauptleut} s jejich praporci {Fendlein}. Ti se pak budou nazývat ztracený neboli běžící houf {verloren oder lauffender hauff} a mají jít vždy v předvoji proto, aby si v ležení {Leger} na vykázaných kvartýrech {Quartiren} dříve postavili boudy {Hütten} pro sebe a pro své druhy z party {Burßgesellen} a aby se mohli poohlédnout po proviantu {Prouiant} a nakoupit jej.
+- typ: odstavec
+  de: |-
+    Auff das sich in disem fall keiner vber den andern billicher weiß habe zubeschweren / dann sonst sollen die angezeigten gewaltigen Hauffen nach Ordnung des gemeines Kriegs gebrauch / allwegen einen tag vmb den andern zwischen dem Reisigen Zeug den vor vnd Nachzug haben.
+  cs: |-
+    Aby si v tom žádný nemohl po právu stěžovat na druhého, mají se jinak oba uvedené hlavní houfy {gewaltigen Hauffen} podle řádu obecného válečného obyčeje vždy den po dni střídat mezi jízdou {Reisigen Zeug} v předvoji a zadním voji.
+- typ: odstavec
+  de: |-
+    Dem verloren / lauffenden hauffen / sollen zum vorzug sechs stück halb Schlangen verordnet werden.
+  cs: |-
+    Ztracenému, běžícímu houfu se má do předvoje přidělit šest polovičních kulverin {halb Schlangen}.

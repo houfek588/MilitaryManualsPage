@@ -1,0 +1,321 @@
+id: 6-021r
+list: 21 (6. kniha)
+strana: recto
+sken: 533
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - - Gerüster pferd
+    - '7'
+  - - haben beide.
+    - ''
+  - - Wagen.
+    - '1'
+  - - Summa Gerüster pferde
+    - '34'
+  - - Summa Kürisser
+    - '0'
+  - - Summa Drosser
+    - 1½
+  - - Summa Wagen.
+    - '3'
+  - - Heinrich werde.
+    - ''
+  - - Gerüster pferd
+    - '6'
+  - - drosser
+    - ½
+  - - Wagen.
+    - ½
+  - - Johann Eßleben.
+    - ''
+  - - Gerüster pferd
+    - '5'
+  - - Drosser
+    - ½
+  - - Wagen.
+    - ½
+  - - Lorentz Stungel.
+    - ''
+  - - gerüster pferd
+    - '5'
+  - - Wagen.
+    - ½
+  - - Wilhelm von Meiburg.
+    - ''
+  - - gerüster pferd
+    - '8'
+  - - drosser
+    - ½
+  - - wagen / vnd 4 vberleng.
+    - ½
+  - - Summa gerüster pferd
+    - '24'
+  - - Summa kürisser
+    - '0'
+  - - Summa drosser
+    - ½
+  - - Summa wagen
+    - '2'
+  - - Summa vberleng.
+    - '4'
+  - - Heinrich Meiburg.
+    - ''
+  - - gerüster pferd
+    - '5'
+  - - drosser
+    - ½
+  - - wagen.
+    - ½
+  - - Gothart Pfeiff.
+    - ''
+  - - gerüster pferd
+    - '7'
+  - - wagen vnd 2 vberleng
+    - ½
+  - - Item mehr.
+    - ''
+  - - Gerüster pferd
+    - '1'
+  - - darauff 2 vberleng
+    - ½
+  - - Summa Gerüster pferd
+    - '13'
+  - - Summa Kürisser
+    - '0'
+  - - Summa Drosser
+    - ½
+  - - Summa Wagen
+    - '1'
+  - - Summa Vberleng.
+    - '4'
+  - - Heinrich von Wernigßhausen Reuter.
+    - ''
+  - - Summa gerüster pferd
+    - '108'
+  - - Summa kürisser
+    - '0'
+  - - Summa drosser
+    - 6½
+  - - Summa wagen
+    - '9'
+  - - Summa vberleng
+    - '14'
+  - - Jobst von Dalwigs Reuter.
+    - ''
+  - - gerüster pferd
+    - '24'
+  - - drosser
+    - '2'
+  - - wagen.
+    - '2'
+  - - Wentzel von Grun.
+    - ''
+  - - gerüster pferd
+    - '11'
+  - - Drosser
+    - '1'
+  - - wagen / vnd 10 vberleng
+    - ''
+  - - Christoff von Ruckßleben
+    - ''
+  - - Gerüster pferd
+    - '8'
+  - - Drosser
+    - '1'
+  - - wagen vnd 4 vberleng.
+    - ½
+  - - Summa Gerüster pferd
+    - '43'
+  - - Summa Drosser
+    - '4'
+  - - Summa wagen.
+    - '3'
+  - - Summa vberleng
+    - '14'
+  - - Johann von Bruch.
+    - ''
+  - - gerüster pferd
+    - '5'
+  - - drosser
+    - ½
+  - - wagen.
+    - ½
+  - - Reinhart Gaburt.
+    - ''
+  - - gerüster pferd
+    - '9'
+  - - drosser
+    - '1'
+  - - wagen vnd 6 vberleng
+    - ''
+  - - Jeronimus Stackel.
+    - ''
+  - - Gerüster Pferde
+    - '7'
+  - - Drosser
+    - ½
+  - - Wagen.
+    - ½
+  cs:
+  - - zbrojní koně {Gerüster pferd}
+    - '7'
+  - - 'oba mají společně:'
+    - ''
+  - - vozy
+    - '1'
+  - - úhrnem zbrojní koně
+    - '34'
+  - - úhrnem kyrysníci {Kürisser}
+    - '0'
+  - - úhrnem trénní koně {Drosser}
+    - 1½
+  - - úhrnem vozy
+    - '3'
+  - - Heinrich werde
+    - ''
+  - - zbrojní koně
+    - '6'
+  - - trénní koně
+    - ½
+  - - vozy
+    - ½
+  - - Johann Eßleben
+    - ''
+  - - zbrojní koně
+    - '5'
+  - - trénní koně
+    - ½
+  - - vozy
+    - ½
+  - - Lorentz Stungel
+    - ''
+  - - zbrojní koně
+    - '5'
+  - - vozy
+    - ½
+  - - Wilhelm von Meiburg
+    - ''
+  - - zbrojní koně
+    - '8'
+  - - trénní koně
+    - ½
+  - - vozy a 4 přespočetných koní {vberleng}
+    - ½
+  - - úhrnem zbrojní koně
+    - '24'
+  - - úhrnem kyrysníci
+    - '0'
+  - - úhrnem trénní koně[^1]
+    - ½
+  - - úhrnem vozy
+    - '2'
+  - - úhrnem přespočetní koně
+    - '4'
+  - - Heinrich Meiburg
+    - ''
+  - - zbrojní koně
+    - '5'
+  - - trénní koně
+    - ½
+  - - vozy
+    - ½
+  - - Gothart Pfeiff
+    - ''
+  - - zbrojní koně
+    - '7'
+  - - vozy a 2 přespočetných koní
+    - ½
+  - - 'Dále ještě:'
+    - ''
+  - - zbrojní koně
+    - '1'
+  - - k tomu 2 přespočetní koně
+    - ½
+  - - úhrnem zbrojní koně
+    - '13'
+  - - úhrnem kyrysníci
+    - '0'
+  - - úhrnem trénní koně
+    - ½
+  - - úhrnem vozy
+    - '1'
+  - - úhrnem přespočetní koně
+    - '4'
+  - - jezdci Heinricha von Wernigßhausen
+    - ''
+  - - úhrnem zbrojní koně
+    - '108'
+  - - úhrnem kyrysníci
+    - '0'
+  - - úhrnem trénní koně
+    - 6½
+  - - úhrnem vozy
+    - '9'
+  - - úhrnem přespočetní koně
+    - '14'
+  - - jezdci Jobsta von Dalwig[^2]
+    - ''
+  - - zbrojní koně
+    - '24'
+  - - trénní koně
+    - '2'
+  - - vozy
+    - '2'
+  - - Wentzel von Grun
+    - ''
+  - - zbrojní koně
+    - '11'
+  - - trénní koně
+    - '1'
+  - - wagen / a 10 vberleng
+    - ''
+  - - Christoff von Ruckßleben
+    - ''
+  - - zbrojní koně
+    - '8'
+  - - trénní koně
+    - '1'
+  - - vozy a 4 přespočetných koní
+    - ½
+  - - úhrnem zbrojní koně
+    - '43'
+  - - úhrnem trénní koně
+    - '4'
+  - - úhrnem vozy
+    - '3'
+  - - úhrnem přespočetní koně
+    - '14'
+  - - Johann von Bruch
+    - ''
+  - - zbrojní koně
+    - '5'
+  - - trénní koně
+    - ½
+  - - vozy
+    - ½
+  - - Reinhart Gaburt
+    - ''
+  - - zbrojní koně
+    - '9'
+  - - trénní koně
+    - '1'
+  - - wagen a 6 vberleng
+    - ''
+  - - Jeronimus Stackel
+    - ''
+  - - zbrojní koně
+    - '7'
+  - - trénní koně
+    - ½
+  - - vozy
+    - ½
+poznamky:
+- n: 1
+  text: |-
+    Součet položek skupiny (½ + ½ + ½) dává 1½ trénového koně; tisk má ½. Úhrn celého oddílu (6½) počítá s 1½. Podobně u skupiny Heinricha Meiburga dávají vozy ½ + ½ + ½ = 1½, tisk má 1. U Wentzela von Grun a Reinharta Gaburta tisk počet vozů neuvádí.
+- n: 2
+  text: |-
+    Jobst von Dalwigk z hesenského rytířského rodu Dalwigků; jeho oddíl pokračuje na další straně a uzavírá jej úhrn 147 zbrojných koní.

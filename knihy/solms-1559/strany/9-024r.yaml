@@ -1,0 +1,45 @@
+id: 9-024r
+list: 24 (9. kniha)
+strana: recto
+sken: 667
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Wann dann solchs geschicht/ das jr ewer Feind durch obgemelte stück/ auch in einn oder mehr Flecken getrieben/ solt jr etlich taffer gesellen heimlich hinauß schicken die etwan bei manchen zu der Feind Stet kommen/ alda sehen vnd erfaren/ was sie für ein wacht oder sorg in der Stat haben/ auch die garben besichtigen wo es zum besten hinein zukomen were/ dann dardurch offt den Feinden ein Stat abgewunden wirt/ das jr zum offtermal versuchen solt/ dann wann jr solche gůte kundtschafft wie oben stehet erlangen vnd haben möcht/ doch das die Feind nichts darumb wissen/ kündt jr mit ringem schaden etwan ein Stat der gestalt erobern.
+  cs: |-
+    Když se pak stane, že jste nepřítele výše uvedenými prostředky zahnali do jednoho nebo více městeček, máte tajně vyslat několik statečných chlapíků, kteří by se snad v noci[^1] dostali k nepřátelským městům a tam viděli a zjistili, jakou stráž a jaká opatření ve městě mají, a také prohlédli příkopy[^2], kudy by se dalo nejlépe proniknout dovnitř. Tím se totiž nepříteli často nějaké město vyrve, a o to se máte pokoušet opakovaně. Kdybyste totiž mohli získat takové dobré zprávy {kundtschafft}, jak stojí výše, a nepřítel by o tom nic nevěděl, mohli byste takto snad s malou ztrátou nějaké město dobýt.
+- typ: odstavec
+  de: |-
+    Auch sollen ewer Knecht offt biß für die Stat lauffen etwan biß an die Thor hinan/ doch wann ein Bihel oder Höltzlin bei der stat ist/ sollen sie zuuor etliche leut daselbs hin legen/ daß die Feind nichts darumb wissen wann sie dann vnder euch herauß fallen/ sollen sie sitlich hindersich weichen biß sie zu dem höltzlin oder berglein komen da die jre ligen/ alßdan werden sie hinden vnd fornen in sie fallen/ vnd dardurch vil erstechen vnnd fahen/ solchs soll geschehen ehe dann jr inn ewer Stat belegert werd/ alßdan wirt solches alles fürkomen.
+  cs: |-
+    Vaši knechti {Knecht} mají také často dobíhat až před město, někdy až k samým branám. Je-li však u města pahorek nebo lesík, mají tam předem uložit několik lidí, aniž by o tom nepřítel věděl. Když pak nepřítel proti vám vyrazí z města, mají pomalu ustupovat, dokud nedojdou k lesíku nebo pahorku, kde leží jejich lidé. Pak na něj udeří zezadu i zepředu a mnoho nepřátel pobijí a zajmou. To se má dít dřív, než budete ve svém městě obleženi; potom už by tomu všemu bylo zabráněno.
+- typ: odstavec
+  de: |-
+    Auch solt jhr durch ewer Kundtschaffter erfaren was sie für ein Ordnung in den Stätten haben die nit weit von euch gelegen sein/ was Landts das sei/ dann sie möchten ein solche Ordnung füren/ oder die Landßart dermassen gestalt sein mit Gräben/ Wasser/ Holtz oder andern dergleichen sachen/ daß sie euch durch ein betrug schaden zufügen möchten/ vnd welcher geschicklich damit vmbgeht/ mag es wol on schaden erfaren.
+  cs: |-
+    Také se máte prostřednictvím svých zvědů {Kundtschaffter} dozvědět, jaký řád mají ve městech, která leží nedaleko od vás, a jaká je to krajina. Mohli by totiž zachovávat takový řád nebo by krajina mohla být tak utvářena příkopy, vodou, lesem či jinými podobnými věcmi, že by vám mohli nějakou lstí uškodit. Kdo s tím však umí obratně zacházet, může se to dozvědět bez škody.
+- typ: odstavec
+  de: |-
+    Solchs zuerfaren dünckt mich gůt sein/ wann etlich auß den ewern gefangen/ daß sie auff geleit vnd widerstellen auß vnd ein wandeln/ daß sie vor den Thoren seien ehe dann sie eröffnet/ vnnd da warten biß sie auffgethan werden/ nachuolgents sie heinein gehn/ dardurch werden sie aller Ordnung die sie halten/ bei den Thoren erfaren vnd sehen/ vnd euch solchs anzeigen/ Jch hab auch wol gesehen/ daß mann der gestalt Heerolt in die Stät geschickt hat/ in dem scheim als wann sie die gefangen mit gelt wider lösen wolten/ oder vnder einem anderen schein.
+  cs: |-
+    Zjistit to lze podle mého zdání dobře takto: jsou-li někteří z vašich lidí zajati a chodí na glejt {geleit} a na slib, že se vrátí, ven a dovnitř[^3], ať jsou u bran dřív, než se otevřou, a čekají tam, dokud je neotevřou, a teprve potom vejdou dovnitř. Tak se u bran dozvědí a uvidí celý řád, který [nepřítel] zachovává, a oznámí vám to. Viděl jsem také, že se takto do měst posílali heroldi {Heerolt}, pod záminkou[^4], že chtějí zajatce vykoupit penězi, nebo pod jinou záminkou.
+- typ: odstavec
+  de: |-
+    Jch wil auch anzeigen was jr für ein Ordnung halten solt/ wann jr also ein streiff oder außfallen auß ewer Stat vnder die Feind thůn wolt/ Erstlich die jenigen so solches zuthůn willens/ sollens gantz stil halten/ auch sollen die Porten in der Stat beschlossen sein/ ehe daß sie sich samlen/ wann jr jnen ein zeichen werdt geben/ solt jhr jnen sagen lassen/ daß sie sich samlen wann mann auff die wacht bläst/ vnd jnen
+  cs: |-
+    Chci vám také ukázat, jaký řád máte zachovávat, chcete-li tak ze svého města podniknout proti nepříteli nájezd {streiff} nebo výpad. Za prvé ti, kdo to mají v úmyslu, to mají udržet v naprosté tajnosti. Také mají být brány ve městě zavřeny dřív, než se shromáždí. Když jim budete dávat znamení, máte jim dát říci, aby se shromáždili, až se bude troubit na stráž, a
+poznamky:
+- n: 1
+  text: |-
+    *bei manchen* – tak v tisku; podle smyslu nejspíš tisková chyba za *bei nachten* („v noci“).
+- n: 2
+  text: |-
+    *garben* – tisková chyba (přesmyčka) za *graben* („příkopy“).
+- n: 3
+  text: |-
+    Zajatci propuštění na čestné slovo (*auff geleit vnd widerstellen* – na glejt a se závazkem opět se dostavit) mohli chodit mezi oběma stranami, např. shánět výkupné; při tom mohli nenápadně pozorovat stráže u bran.
+- n: 4
+  text: |-
+    *scheim* – tisková chyba za *schein* („záminka“), jak stojí hned v následujícím slově *schein*.

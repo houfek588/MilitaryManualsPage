@@ -1,0 +1,282 @@
+id: 6-020r
+list: 20 (6. kniha)
+strana: recto
+sken: 531
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - - Gerüster pferd
+    - '8'
+  - - Drosser
+    - ½
+  - - Obgemelte drei Personen haben wagen
+    - 2½
+  - - Götz von Berlingen.
+    - ''
+  - - Gerüster pferd
+    - '23'
+  - - Drosser
+    - '2'
+  - - Wagen.
+    - '2'
+  - - Summa Gerüster pferd
+    - '37'
+  - - Summa Kürisser
+    - '0'
+  - - Summa Drosser
+    - '3'
+  - - Summa Wagen.
+    - 4½
+  - - Hanß Ochs.
+    - ''
+  - - Gerüster pferd
+    - '14'
+  - - Drosser
+    - '1'
+  - - Wagen
+    - '1'
+  - - Hanß Conradt von Berlingen.
+    - ''
+  - - Gerüster pferd
+    - '4'
+  - - Hanß Dieterich von Abßberg.
+    - ''
+  - - Gerüster pferd
+    - '8'
+  - - Haben beide.
+    - ''
+  - - Drosser
+    - '1'
+  - - Wagen.
+    - '1'
+  - - Andres Haberkorn.
+    - ''
+  - - Gerüster Pferd
+    - '8'
+  - - Wagen.
+    - ½
+  - - vnd 4 vberleng.
+    - ''
+  - - Summa Gerüster pferd
+    - '34'
+  - - Summa Kürisser
+    - '0'
+  - - Summa Drosser
+    - '2'
+  - - Summa Wagen.
+    - 2½
+  - - Hanß Herdegen.
+    - ''
+  - - Gerüster pferd
+    - '5'
+  - - Drosser.
+    - ½
+  - - Hanß Fortsch.
+    - ''
+  - - Gerüster pferd
+    - '7'
+  - - Drosser
+    - ½
+  - - Haben beide
+    - ''
+  - - Wagen.
+    - '1'
+  - - Hanß Caspar von Würtzberg.
+    - ''
+  - - Gerüster pferd
+    - '8'
+  - - Drosser.
+    - ½
+  - - Christoffel Philips von Würtzberg.
+    - ''
+  - - Gerüster pferd
+    - '7'
+  - - Drosser.
+    - ½
+  - - haben beide
+    - ''
+  - - Wagen.
+    - '1'
+  - - Summa Gerüster pferd
+    - '27'
+  - - Summa Kürisser
+    - '0'
+  - - Summa Drosser
+    - '2'
+  - - Summa Wagen.
+    - '2'
+  - - Daniel von Reutzenstein.
+    - ''
+  - - Gerüster pferde
+    - '2'
+  - - Casimirus von der Grun.
+    - ''
+  - - Gerüster pferde
+    - '4'
+  - - Wagen.
+    - ½
+  - - Quirinus von Reutzenstein.
+    - ''
+  - - gerüster Pferde
+    - '2'
+  - - Bernhart vom Stein
+    - ''
+  - - gerüster Pferde
+    - '13'
+  - - Drosser
+    - '1'
+  - - Wagen.
+    - '1'
+  - - Summa gerüster pferde
+    - '21'
+  - - Summa kürisser
+    - '0'
+  - - Summa drosser
+    - '1'
+  - - Summa wagen.
+    - 1½
+  cs:
+  - - zbrojní koně {Gerüster pferd}
+    - '8'
+  - - trénní koně {Drosser}
+    - ½
+  - - výše uvedené tři osoby mají vozů
+    - 2½
+  - - Götz von Berlingen[^1]
+    - ''
+  - - zbrojní koně
+    - '23'
+  - - trénní koně
+    - '2'
+  - - vozy
+    - '2'
+  - - úhrnem zbrojní koně
+    - '37'
+  - - úhrnem kyrysníci {Kürisser}
+    - '0'
+  - - úhrnem trénní koně
+    - '3'
+  - - úhrnem vozy
+    - 4½
+  - - Hanß Ochs
+    - ''
+  - - zbrojní koně
+    - '14'
+  - - trénní koně
+    - '1'
+  - - vozy
+    - '1'
+  - - Hanß Conradt von Berlingen
+    - ''
+  - - zbrojní koně
+    - '4'
+  - - Hanß Dieterich von Abßberg
+    - ''
+  - - zbrojní koně
+    - '8'
+  - - 'oba mají společně:'
+    - ''
+  - - trénní koně
+    - '1'
+  - - vozy
+    - '1'
+  - - Andres Haberkorn
+    - ''
+  - - zbrojní koně
+    - '8'
+  - - vozy
+    - ½
+  - - a 4 přespočetní koně {vberleng}[^2]
+    - ''
+  - - úhrnem zbrojní koně
+    - '34'
+  - - úhrnem kyrysníci
+    - '0'
+  - - úhrnem trénní koně
+    - '2'
+  - - úhrnem vozy
+    - 2½
+  - - Hanß Herdegen
+    - ''
+  - - zbrojní koně
+    - '5'
+  - - trénní koně
+    - ½
+  - - Hanß Fortsch
+    - ''
+  - - zbrojní koně
+    - '7'
+  - - trénní koně
+    - ½
+  - - 'oba mají společně:'
+    - ''
+  - - vozy
+    - '1'
+  - - Hanß Caspar von Würtzberg
+    - ''
+  - - zbrojní koně
+    - '8'
+  - - trénní koně
+    - ½
+  - - Christoffel Philips von Würtzberg
+    - ''
+  - - zbrojní koně
+    - '7'
+  - - trénní koně
+    - ½
+  - - 'oba mají společně:'
+    - ''
+  - - vozy
+    - '1'
+  - - úhrnem zbrojní koně
+    - '27'
+  - - úhrnem kyrysníci
+    - '0'
+  - - úhrnem trénní koně
+    - '2'
+  - - úhrnem vozy
+    - '2'
+  - - Daniel von Reutzenstein
+    - ''
+  - - zbrojní koně
+    - '2'
+  - - Casimirus von der Grun
+    - ''
+  - - zbrojní koně
+    - '4'
+  - - vozy
+    - ½
+  - - Quirinus von Reutzenstein
+    - ''
+  - - zbrojní koně
+    - '2'
+  - - Bernhart vom Stein
+    - ''
+  - - zbrojní koně
+    - '13'
+  - - trénní koně
+    - '1'
+  - - vozy
+    - '1'
+  - - úhrnem zbrojní koně
+    - '21'
+  - - úhrnem kyrysníci
+    - '0'
+  - - úhrnem trénní koně
+    - '1'
+  - - úhrnem vozy
+    - 1½
+- typ: odstavec
+  de: |-
+    Summarum der Reutter / die auß meines gnedigen Herrn Marggraue Albrechts / etc. stall reiten / sampt den Fürsten / Grauen / vnd vom Adell / die auff sein Fürstlich gnad warten.
+  cs: |-
+    Celkový úhrn jezdců, kteří jezdí ze stáje mého milostivého pána, markraběte Albrechta atd., spolu s knížaty, hrabaty a šlechtou, kteří jsou ve službách Jeho knížecí Milosti {Fürstlich gnad}:
+poznamky:
+- n: 1
+  text: |-
+    Götz von Berlichingen (asi 1480–1562), proslulý franský rytíř „se železnou rukou“, se tažení Karla V. proti Francii v roce 1544 skutečně zúčastnil; Hanß Conradt von Berlingen je patrně příslušník téhož rodu. Würtzberg / Wirßberg = Wirsberg, Reutzenstein / Reitzenstein = Reitzenstein, Abßberg / Absperg = Absberg (franské rytířské rody).
+- n: 2
+  text: |-
+    *Vberleng* (snad *Überläng*) – podle souvislosti (*wagen vnd 6 vberleng*, na [[6-027r|s. 6-027r]] *57 wagenpferd vberleng*, kde se 46 takových koní přepočítává na 2 vozy) jde o koně nad stanovený počet, zřejmě tažné koně k vozům navíc. Překlad „přespočetní koně“ je pracovní.

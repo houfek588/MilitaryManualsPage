@@ -1,0 +1,73 @@
+id: 7-012r
+list: 12 (7. kniha)
+strana: recto
+sken: 571
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Damit aber Ewer Fürstliche Durchleuchtigkeit / Hauffen zu ordnen einn anfang haben / So hab derselbigen ich alhie etliche verzeichnußen gesetzt / als erstlich einen Zug / welcher in Vngern gegen dem Türcken ist geordnet worden / im Jar da der Chürfürst von Brandenburg des Reichs Oberster was / Vnd hat Herr Conradt von Bemmelberg zur selben zeit dise verzeichnuß helffen ordnen.
+  cs: |-
+    Aby však Vaše knížecí Jasnost měla pro začátek, jak sestavovat houfy {Hauffen}, uvedl jsem jí zde několik soupisů. Předně tažení {Zug}, které bylo sestaveno v Uhrách proti Turkům v roce, kdy byl kurfiřt braniborský plukovníkem {Oberster} Říše.[^1] Tento soupis tehdy pomáhal sestavit pan Konrad z Bemelbergu.
+- typ: odstavec
+  de: |-
+    Deßgleichen mit noch andern Ordnungen in Franckreich geschehen / so durch des Kriegßuerstendigen gestalt vnd bedacht sind / alles zum anfang sich darinn zuersehen wie die Ordnungen gestalt werden / vnd wie mann weiter nach eines jeden bedencken / demnach der hauffen vil oder wenig sind / Ordnungen machen / vnd Ewer Fürstliche Durchleuchtigkeit selber Ordnen vnd bedencken / Also volgen nun die gestalte ordnungen / von grossen vnd kleinen hauffen / wie sich dieselbigen nach gelegenheit zutragen mögen.
+  cs: |-
+    Stejně tak i další řády {Ordnungen}, jež byly zavedeny ve Francii a které sestavili a promysleli znalci válečnictví {Kriegßuerstendigen}. To vše má sloužit pro začátek, aby se z toho dalo vyčíst, jak se řády sestavují a jak lze dále podle uvážení každého – podle toho, je-li houfů mnoho či málo – řády vytvářet, a aby je Vaše knížecí Jasnost mohla sama sestavovat a promýšlet. Následují tedy sestavené řády velkých i malých houfů, jak se podle okolností mohou vyskytnout.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Volgt ein Ordnung / wie die Hauffen zogen / als der Chürfürst von Brandenburg / in Vngern Oberster gewesen ist.
+  cs: |-
+    Následuje řád, jak táhly houfy, když byl kurfiřt braniborský plukovníkem v Uhrách.
+- typ: seznam
+  de:
+  - ERstlich sollen ziehen der Renfanen vnd das Schützen Fendlein.
+  - Daruff des Chürfür. von Brandenburgs Obersten Geschwader.
+  - Darauff Herr Conradts erster Hauffen.
+  - Darauff der gewaltig Hauffe von Reisigen.
+  - Darauff Herr Conradts ander Hauffen.
+  - Darauff das Beyrisch Geschwader.
+  - Darauff Herr Conradts dritter Hauffen.
+  - Auff den soll ziehen der Fränckisch Kreiß.
+  - Darauff der Wirtenbergisch Hauffe.
+  - Darauff Herr Wolff Dieterichs von Pförts erster Hauffen.
+  - Darauff des von Ebersteins Hauffen.
+  - Darauff Herr Wolffen ander Hauffen.
+  - Darauff Georg von Bulach.
+  cs:
+  - Nejprve mají táhnout předvojová korouhev {Renfanen} a praporec střelců {Schützen Fendlein}.
+  - Za nimi švadrona {Geschwader} plukovníka, kurfiřta braniborského.
+  - Za ní první houf pana Konrada.
+  - Za ním hlavní houf jízdy {gewaltig Hauffe von Reisigen}.
+  - Za ním druhý houf pana Konrada.
+  - Za ním bavorská švadrona.
+  - Za ní třetí houf pana Konrada.
+  - Za ním má táhnout franský krajský houf {Fränckisch Kreiß}.[^2]
+  - Za ním württemberský houf.
+  - Za ním první houf pana Wolfa Dietricha z Pfirtu.[^3]
+  - Za ním houf pána z Ebersteinu.
+  - Za ním druhý houf pana Wolfa.
+  - Za ním Georg von Bulach.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Volgt ein ander Zug in Franckreich / im Jar / tausent fünffhundert vnd im vierundfünfftzigsten.
+  cs: |-
+    Následuje jiné tažení do Francie, léta tisícího pětistého padesátého čtvrtého.
+- typ: odstavec
+  de: |-
+    ZVm ersten im vorzug der von Schwartzenberg / mit drei Fanen schützen Reuttern / bei eilff hundert starck / der Donlois Dauila
+  cs: |-
+    Nejprve v předvoji {vorzug} pán ze Schwarzenbergu se třemi korouhvemi {Fanen} jízdních střelců {schützen Reuttern}, na jedenáct set mužů silný, a don Luis de Ávila
+poznamky:
+- n: 1
+  text: |-
+    Kurfiřt Jáchym II. Braniborský byl roku 1542 říšským vrchním velitelem neúspěšného tažení proti Turkům k Pešti. Do tisku exempláře BSB je u nadpisu ručně připsán letopočet „1542“ a knihovní značky („= cgm. 3665“, „Lt. 128“), které nejsou součástí tisku.
+- n: 2
+  text: |-
+    Kontingent Franckého říšského krajského okrsku (Fränkischer Reichskreis), podobně jako následující houfy bavorský a württemberský – říšská vojska byla roku 1542 vypravena po krajích.
+- n: 3
+  text: |-
+    Tisk „Wolff Dieterich von Pförts“ – Wolf Dietrich z Pfirtu (Pfirdt), plukovník lancknechtů tažení roku 1542.

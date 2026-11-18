@@ -1,0 +1,65 @@
+id: 6-017r
+list: 17 (6. kniha)
+strana: recto
+sken: 525
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Brandenburg. Wir Karl/ etc.
+  cs: Brandenburg. My, Karel atd.[^1]
+- typ: odstavec
+  de: |-
+    VErzeichnuß/ Stat vnd Articul/ darauff wir den Hochgebornen Albrechten Margrauen zů Brandenburg/ Stettin/ zů Bumern/ der Cassuben vnd Wenden/ Hertzog/ Burggraue zů Nürnberg/ vnd Fürsten zu Rugen/ Vnserm lieben Oheim vnd Fürsten/ zu vnserm Obersten vber ein tausent gerüster pferde vnd Reisigen bestelt haben.
+  cs: |-
+    Soupis, stav {Stat} a články {Articul}, na jejichž základě jsme vysoce urozeného Albrechta, markraběte braniborského, vévodu štětínského, pomořanského, kašubského a vendského, purkrabího norimberského a knížete rujánského, našeho milého strýce {Oheim} a knížete, ustanovili {bestelt} za našeho plukovníka {Obersten} nad tisícem zbrojných koní {gerüster pferde} a jezdců {Reisigen}.
+- typ: odstavec
+  de: |-
+    1 Erstlich soll vnns derselb vnser Oheim vnnd Fürst/ Margraue Albrecht biß in tausent gůter gerüster Reisiger vnd pferde/ darunder achthundert Spiesser vnd vnder denselbigen zum wenigsten fünfftzig Kürisser mit gantzen Parssen vnd verdeckten Hengsten/ vnd zweihundert Schützen sein sollen.
+  cs: |-
+    1 Předně má nám týž náš strýc a kníže, markrabě Albrecht, [přivést] až tisíc dobrých, vyzbrojených jezdců a koní. Mezi nimi má být osm set kopiníků {Spiesser}, z nich nejméně padesát kyrysníků {Kürisser} v celé zbroji {gantzen Parssen}[^2] na krytých hřebcích {verdeckten Hengsten}, a dvě stě střelců {Schützen}.
+- typ: odstavec
+  de: |-
+    2 Item die Spiesser sollen mit gůten Helmlin oder Haupthärneschen die gůt Visier haben/ vnnd wol beschlossen seien/ mit stehlen Krägen/ Armzeug/ Rücken/ Krebs/ Schurtz/ Kniegbüglein oder Dielüngen/ oder an der Armzeug stat mit gůten Pantzerermeln sampt stehlen Büglin vnd langen Hendtschůhen/ stehlen krägen mit langen Achsseln/ Deßgleichen die Schützen mit gůten Knebelspiessen/ gůt Feurbüchssen/ die mit aller notturfft vnd starcken schüssen verfast/ auch schurtzermel/ krägen/ Hendschůch/ Rücken vnd Krebsen/ auch gůtem stehlen Hauben gerüst/ gefast vnd geschickt seien.
+  cs: |-
+    2 Dále mají být kopiníci vyzbrojeni dobrými přilbicemi {Helmlin} nebo hlavovou zbrojí {Haupthärneschen} s dobrým hledím {Visier}, dobře uzavřenou, s ocelovými obojky {Krägen}, ochranou paží {Armzeug}, zádovým {Rücken} a prsním plátem {Krebs}, šorcem {Schurtz}, kolenicemi {Kniegbüglein} nebo stehenicemi {Dielüngen}; nebo místo ochrany paží dobrými kroužkovými rukávy {Pantzerermeln} spolu s ocelovými náloketníky {Büglin}[^3] a dlouhými rukavicemi {Hendtschůhen}, ocelovými obojky s dlouhými náramenicemi {Achsseln}. Stejně tak mají být střelci vyzbrojeni, vystrojeni a připraveni s dobrými kopími s příčkou {Knebelspiessen} a dobrými palnými zbraněmi {Feurbüchssen}, opatřenými vším potřebným a silnými ranami, též s kroužkovými rukávy {schurtzermel}, obojky, rukavicemi, zádovým a prsním plátem a také s dobrými ocelovými lebkami {Hauben}.
+- typ: odstavec
+  de: |-
+    3 Item vnder disen tausent pferden sollen zwen fanen/ vnd den zwei hundert schützen ein Fendlin gehalten werden.
+  cs: |-
+    3 Dále mají být pod těmito tisíci koňmi vedeny dvě korouhve {fanen} a pro dvě stě střelců jedna korouhev {Fendlin}.
+- typ: odstavec
+  de: |-
+    4 Item es soll gedachtem vnserm Oheim vnd Fürsten auff souil reisige Pferde vnd Reisigen/ als in der musterung gůt gemacht/ monatlich alsouil gulden für den hauptmans gulden bezalt werden.
+  cs: |-
+    4 Dále má být jmenovanému našemu strýci a knížeti měsíčně vyplaceno na tolik jezdeckých koní a jezdců, kolik jich bude při přehlídce {musterung} uznáno, tolik zlatých {gulden} jako hejtmanský zlatý {hauptmans gulden}.[^4]
+- typ: odstavec
+  de: |-
+    5 Item es soll seiner lieb auff derselbigen Leutenant ampts halben/ monatlich ein hundert gulden entricht vnd vergnügt werden.
+  cs: |-
+    5 Dále má být Jeho Lásce {lieb} na poručíka {Leutenant} tohoto [vojska] z titulu jeho úřadu měsíčně odvedeno a vyplaceno sto zlatých.
+- typ: odstavec
+  de: |-
+    6 Item auff obgemelte ein tausent pferde so also gemustert werden/ soll seiner lieb ein Komormeister/ Quartirmeister/ Wachtmeister/ Prouiantmeister/ Leibartz vnd ein wundtartz gehalten/ vnd monatlich auff ein jeden viertzig gulden bezalt werden.
+  cs: |-
+    6 Dále má být Jeho Lásce na výše uvedený tisíc koní, které budou takto přehlédnuty, vydržován komorník {Komormeister}, kvartýrmistr {Quartirmeister}, vachmistr {Wachtmeister}, proviantmistr {Prouiantmeister}, osobní lékař {Leibartz} a ranhojič {wundtartz}, a na každého z nich má být měsíčně placeno čtyřicet zlatých.
+- typ: odstavec
+  de: |-
+    7 Item auff dieselben tausent pferd ein Caplon/ Furirer/ schreiber/ acht Trometter vnd Heerbaucker gehalten/ vnd monatlich auff ein jeden ein vbersold/ neben seiner in der mustung gůt gemachten besoldung bezalt werden.
+  cs: |-
+    7 Dále má být na týž tisíc koní vydržován kaplan {Caplon}, furýr {Furirer}, písař {schreiber}, osm trubačů {Trometter} a kotlář {Heerbaucker} a na každého z nich má být měsíčně placen přeplatek {vbersold} vedle jeho žoldu {besoldung} uznaného při přehlídce.
+- typ: odstavec
+  de: |-
+    8 Item je auff ein Ritmeister vber zweihundert Pferde zwen Trabanten gehalten/ das macht auff fünff Ritmeister oder tausent pferd zehen Trabanten/ welche Monatlich mit acht gulden sollen bezallet werden.
+  cs: |-
+    8 Dále mají být na každého rytmistra {Ritmeister} nad dvěma sty koní vydržováni dva drabanti {Trabanten}; to činí na pět rytmistrů neboli tisíc koní deset drabantů, kterým se má měsíčně platit po osmi zlatých.
+poznamky:
+- n: 1
+  text: Služební list císaře Karla V. pro markraběte Albrechta II. Alkibiada Braniborsko-Kulmbašského (1522–1557), který roku 1544 přivedl císaři jízdu na tažení proti Francii. Titulatura je obecná braniborská (nárok na Štětín, Pomořany, Kašuby a Vendy, purkrabství norimberské, Rujána). „Oheim“ (strýc) je ustálené oslovení, jímž císař tituloval říšská knížata.
+- n: 2
+  text: „Parssen“ – nejisté slovo; podle souvislosti jde o úplnou (plátovou) zbroj kyrysníka, nikoli o koňskou zbroj, kterou vyjadřují „verdeckte Hengste“ (kryté, obrněné hřebce).
+- n: 3
+  text: „Büglin“ – patrně malé ocelové náloketníky nebo kryty předloktí k ochraně paže při kroužkových rukávech; výklad nejistý.
+- n: 4
+  text: Tj. na každého koně uznaného při přehlídce jeden zlatý měsíčně pro velitele – srov. stav vévody Mořice Saského („ze 699 koní od každého jeden zlatý“) [[6-010r|na listu 10]].

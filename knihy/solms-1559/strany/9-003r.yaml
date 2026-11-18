@@ -1,0 +1,35 @@
+id: 9-003r
+list: 3 (9. kniha)
+strana: recto
+sken: 625
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    volnbracht/ solt jr zu euch beruffen ewer freundtschafft/ Hoffmeister vnnd Hauptleut souil jhr bekommen möcht/ jedoch keine Geistlichen noch Doctores/ vnd jhnen ewer fürnemen fürhalten/ vnnd sie inn demselbigen raths fragen/ es sei zu landt oder wasser/ wieuil zu roß odder fuß/ wieuil vnd was für Geschütz jhr haben müsset/ jhr must auch den gemelten Krieg also füren/ wenn jhr personlich nicht darbei sein kündet/ solt jhr ewerm Rath nicht anzeigen was jhr für ein Leutenant/ deßgleichen Hauptleut darzů gebrauchen wölt. Herr daß mich bewegt euch zu rathen fürhin keinen Leutenant zuerwelen ist das die vrsach/ daß allwegen Partheien neyd vnd haß vnder ewerm Rath wirdt sein/ vnd wann das Haupt jhnen nicht benant/ wirdt ein jeglicher desto fleissiger sein/ der zuuersicht/ einer seiner Parheien werde darzů verordnet.
+  cs: |-
+    vykonáno, máte k sobě povolat své přátele, hofmistry {Hoffmeister} a hejtmany {Hauptleut}, kolik jich můžete získat, avšak žádné duchovní ani doktory. Předložte jim svůj záměr a otažte se jich na radu: zda [válčit] na souši, či na vodě, kolik [lidu] na koni a kolik pěšky, kolik a jaká děla {Geschütz} musíte mít. Uvedenou válku musíte vést také tak, že nebudete-li moci být osobně přítomen, nemáte své radě sdělovat, koho chcete užít za poručíka {Leutenant}[^1] a stejně tak za hejtmany. Pane, příčina, proč vám radím nevolit poručíka předem, je ta, že ve vaší radě budou vždy strany, závist a nenávist. Nebude-li jim hlava jmenována, bude každý o to horlivější v naději, že k tomu bude ustanoven někdo z jeho strany.
+- typ: odstavec
+  de: |-
+    Nun Herr/ wann jhr obgeschribenen Rath mit jnen gehabt/ vnd beschlossen wieuil jr zu fuß oder zu roß haben wolt/ deßgleichen was für Geschütz vnd Schiff/ solt jhr es alles in ein Schrifft begreiffen lassen/ nachuolgends ewerm Rentmeister beuelhen zurechnen/ wieuil Gelts solcher Krieg brauchen werde/ auch wo jhr das Gelt finden werdet/ vnd auff wieuil Monat oder Jar/ vnd das solt jr vergewist sein/ ehe das jr den Krieg anfahen/ vnd ewerm Rentmeister beuelhen das kein fehel alda einn tag oder stundtlang sei/ dann so fehel an der bezallung ist/ geschicht offt ein grosser schad/ der sonst vermitten blieben were.
+  cs: |-
+    Nuže, pane, když jste s nimi měl výše popsanou poradu a usnesli jste se, kolik lidu chcete mít pěšky a kolik na koni, stejně tak jaká děla a lodě, dejte to vše sepsat. Potom uložte svému rentmistrovi {Rentmeister}, aby spočítal, kolik peněz bude taková válka potřebovat, kde ty peníze najdete a na kolik měsíců či let; tím si máte být jist dříve, než válku začnete. A uložte svému rentmistrovi, aby v tom nebylo nedostatku ani na den či hodinu. Je-li totiž nedostatek ve výplatě, stane se často velká škoda, která by se jinak nestala.
+- typ: odstavec
+  de: |-
+    Aller gnedigster Herr so die sachen aller massen beschlossen/ mögen jhr nachuolgends wol einen Leutenant vnnd Hauptleut erwelen/ vnd alles dann allein mit denselbigen Kriegßleuten berathschlagen wie jhr den Krieg füren vnnd volenden wöllet/ vnd darzů gar kein Geistlich leut brauchen/ sie nichts von dem handel hören reden/ dann jhr dörffen nicht gedencken/ wann Geistliche personen sich in die sach legen vnd handeln wöllen/ da blůt vergossen mag werden/ es sei dann wider die Vnglaubigen das vil glücks darbei sei/ es gehört auch jnen nicht zů von sollichen hendeln zu reden/ die sie nie gebraucht/ sonder allein inn den Büchern gelesen.
+  cs: |-
+    Nejmilostivější pane, když je věc ve všem usnesena, můžete potom zvolit poručíka a hejtmany a radit se pak jen s těmito válečníky {Kriegßleuten}, jak chcete válku vést a dokončit. Nepoužívejte k tomu vůbec duchovních osob a nedávejte jim o té věci nic slyšet. Nemyslete si totiž, že když se duchovní osoby vloží do věci, při níž se má prolévat krev, a chtějí v ní jednat, bude při tom mnoho štěstí – leda by šlo o [válku] proti nevěřícím. Nepřísluší jim také mluvit o takových věcech, které nikdy neprovozovaly, nýbrž o nich jen četly v knihách.
+- typ: odstavec
+  de: |-
+    Deßgleichen auch ein jeglicher alter Edelman/ wann er schon inn seiner Jugent vil gesehen/ doch wann er inn denselbigen Zug zu ziehen/ nicht willens were/ wirdt on zweifel auch nicht vbel darzů rathen/ dann wann sein Rath im Krieg auch nicht wol erschiessen/ möche ym ein verechtlicheit darauß entspringen/ er hett geraten/ vnd dasselbig nit helffen handeln/ darumb solche Leut sich wol fürsehen
+  cs: |-
+    Stejně tak každý starý šlechtic, i když v mládí mnoho viděl, bezpochyby také neporadí špatně, nemá-li sám v úmyslu jít na to tažení {Zug}.[^2] Kdyby totiž jeho rada ve válce dobře neprospěla, mohlo by mu z toho vzejít opovržení, že radil, a sám nepomohl věc provést. Proto se takoví lidé
+poznamky:
+- n: 1
+  text: |-
+    *Leutenant* je u Filipa Klévského zástupce panovníka ve vrchním velení vojska (franc. *lieutenant général*), nikoli nižší důstojník; srov. [[9-004v|list 4v]].
+- n: 2
+  text: |-
+    Smysl věty je nejasný; snad: starý šlechtic, který sám do pole nejde, radí opatrně, aby nenesl hanbu za neúspěch rady, kterou sám nepomohl provést. V následující větě tisk *möche ym* zřejmě místo *möcht jm*.

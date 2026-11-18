@@ -1,0 +1,29 @@
+id: 9-002v
+list: 2 (9. kniha)
+strana: verso
+sken: 624
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    daß ich geschicklicheit vnd verstandt hett/ dasselbig fein ordenlich anzuzeigen/ oder ein solliche lange materien inn die Schrifft bringen/ dann kein beschwerlicher ding der Welt ist dann kriegen/ wann solcher wol gefürt/ erlangt einer ehr vnnd gůt/ behelt auch manchen bei seinem leben/ Ich mein aber so ferr jr aller gnedigster Herr/ meiner meinung so in dem Bůch begriffen/ volgt/ werd jr euch vor solchem vnrat allem verhůten mögen/ dann wann jr ein Krieg mit solchem gůten fug vnd vernunfft anfahet/ wie hernach volgt/ werd jr vngezweifelt sig erlangen/ Jedoch ist Gott der Allmechtig vber vns/ der alle ding nach seinem Göttlichen willen ordnet/ dann sein will geschehen muß/ solt auch verstehen das nicht die Kriegßleut sonder Gott allein/ die victoria durch sein Göttlichen gewalt außtheilt/ Darumb aller gnedigster Herr/ solt jhr allweg fleiß haben inn der gnad Gottes zu bleiben/ vnnd wann jhr dieselbigen habt/ kan euch niemand nichts abbrechen/ sonder was jhr von jm begeren/ werd jr erlangen.
+  cs: |-
+    že bych měl dovednost a rozum vyložit to pěkně spořádaně nebo uvést do písma tak dlouhou látku. Není totiž na světě nic obtížnějšího než válčit. Je-li však válka dobře vedena, získá člověk čest a statek a mnohého také zachová při životě. Mám však za to, nejmilostivější pane, že budete-li se řídit mým míněním, jak je obsaženo v této knize, budete se moci uchránit vší takové pohromy. Začnete-li totiž válku s tak dobrým právem a rozumem, jak bude dále vyloženo, bezpochyby dosáhnete vítězství. Nad námi je však všemohoucí Bůh, který všechny věci řídí podle své božské vůle, neboť jeho vůle se musí stát. Máte také vědět, že vítězství {victoria} neudělují válečníci {Kriegßleut}, nýbrž jedině Bůh svou božskou mocí. Proto, nejmilostivější pane, se máte vždy snažit setrvat v Boží milosti; máte-li ji, nikdo vám nemůže nic ubrat a čeho si od něho budete žádat, toho dosáhnete.
+- typ: nadpis
+  uroven: 3
+  de: Hie facht an ein Historien von einem Fürsten/ der in seiner Maiestat sitzet/ vnd seine Räth Geistliche vnd Weltliche leut bei jm hat.
+  cs: Zde začíná výjev {Historien} o knížeti, který sedí na trůnu ve svém majestátu a má u sebe své rady, duchovní i světské osoby[^1]
+- typ: odstavec
+  de: |-
+    VNd darumb das ich kom auff die Materie daruon ich schreiben will/ solt jhr euch aller gnedigster Herr hůten/ keinen Krieg zu füren vmb einer bösen vrsach willen/ vnnd ehe das jhr einen anfahet/ solt jhr zu euch beruffen alle geschicte leut souil jhr bekommen möcht/ es seien Prelaten/ Fürsten/ Edeln oder vnedeln/ auch Doctores vnd Juristen/ vnd jnen fürhalten die vrsach des Kriegs/ auch jnen anzeigen ewer gemůt/ was darinn zuthůn/ vnd ob ewer fürnemen recht oder nicht sei/ Wann sie nun erkennen vnd entlich beschliessen/ das jhr gůt fug vnd recht hat/ alßdan möcht jhr das jenig/ so euch mit gůtem nicht mag werden mit gewalt erheben/ jedoch ewern widerpart daruor vmb dasselbig gůtlich ansuchen/ so ferr jr aber nichts bei jhr erlangt/ möcht jhr ewer gantze Landtschafft beruffen/ vnd sie vmb hilff ansprechen/ damit daß euch das ewer so mit recht ewer ist/ nicht auffgehalten werde/ Doch wann ewer Rentmeister vnd Tresonier vermeinet/ jhr kündet sollichen Krieg füren on hilff ewer Vnderthanen/ wer es souil desto besser dann sie zubeschweren/ wann solliches alles
+  cs: |-
+    Abych tedy přešel k látce, o níž chci psát: máte se, nejmilostivější pane, vystříhat vést válku ze zlé příčiny. Dříve než nějakou začnete, máte k sobě povolat všechny zkušené lidi, kolik jich jen můžete získat, ať jsou to preláti, knížata, šlechtici či nešlechtici, i doktory a právníky. Předložte jim příčinu války, sdělte jim své smýšlení, co v tom hodláte činit, a [otažte se], zda je váš záměr spravedlivý, či ne. Když pak uznají a s konečnou platností usnesou, že máte dobrý důvod a právo, můžete si to, čeho se vám nemůže dostat po dobrém, vymoci mocí. Předtím však máte svého protivníka o to požádat po dobrém. Nedosáhnete-li u něho ničeho, můžete svolat všechny své zemské stavy {Landtschafft} a požádat je o pomoc, aby vám nebylo zadržováno to, co je právem vaše. Mínili-li by však váš rentmistr {Rentmeister} a pokladník {Tresonier},[^2] že můžete takovou válku vést bez pomoci svých poddaných, bylo by to o to lepší, než je zatěžovat. Když bude toto vše
+poznamky:
+- n: 1
+  text: |-
+    *Historie* znamená zde obrazový výjev. Nadpisy tohoto druhu (srov. [[9-006r|list 6r]]) jsou převzaty z popisků k miniaturám rukopisné předlohy; Solmsův tisk tato vyobrazení nemá.
+- n: 2
+  text: |-
+    *Rentmeister* – rentmistr, správce panovníkových důchodů. *Tresonier* je tisková chyba za *Tresorier* (franc. *trésorier*, pokladník).

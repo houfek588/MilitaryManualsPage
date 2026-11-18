@@ -1,0 +1,18 @@
+id: 9-erb-konec
+list: erbovní list na konci svazku
+strana: recto
+sken: 681
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: Reinhart der Elter Graue zu Solms/ vnd Herr zu Mintzenberg/ etc.
+  cs: Reinhard starší, hrabě ze Solmsu a pán z Münzenbergu[^1] atd.
+- typ: obrazek
+  soubor: drevorez-681.jpg
+  popis: |-
+    Dřevořez s erbem hrabat ze Solmsu a pánů z Münzenbergu, otištěný z téhož štočku jako erbovní frontispisy jednotlivých knih: čtvrcený štít se solmským lvem (1. a 4. pole) a děleným münzenberským štítem (2. a 3. pole), nad ním dvě turnajské přilby s klenoty – vlevo sedící lev mezi křídly, vpravo korunovaná přilba s chocholem a praporci – a s bohatými listovými přikryvadly. Erb je zasazen do koruny mohutného listnatého stromu a lemován věncem z listí a plodů; v pozadí krajina s městem a hradem na skalnatém vrchu vpravo. U kořenů stromu se vine nápisová stuha s nápisem „REINHA[RT] VND HER[R] / RT. GRAFF. ZV / ZV MINCZEN / SOLMS / BORGK“.
+poznamky:
+- n: 1
+  text: |-
+    Tisk zde má podobu *Mintzenberg* (jinde *Müntzenberg*); jde o Münzenberg ve Wetteravii. Erbovní list uzavírá Devátou knihu (*Burgundský válečný řád*) a s ní celý svazek souborného tisku.

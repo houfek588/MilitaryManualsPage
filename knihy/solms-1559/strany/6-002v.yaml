@@ -1,0 +1,98 @@
+id: 6-002v
+list: 2 (6. kniha)
+strana: verso
+sken: 496
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item es soll der Ritmeister sich befleissen vnd gewiß machen mit gůten reutern / damit er in dem feld versehen sei / auch manlich / ehrlich vnd geschicklich / wie ein ehrlich Kriegßman bestehe / vnd zu nutz dienen künde.
+  cs: |-
+    Dále se má rytmistr {Ritmeister} přičinit a zajistit si dobré jezdce {reutern}, aby byl v poli dobře opatřen a aby obstál statečně, čestně a obratně, jak sluší čestnému válečníkovi {Kriegßman}, a mohl užitečně sloužit.
+- typ: odstavec
+  de: |-
+    Item er soll zum ersten mit gůten leuten vnd Reuttern gebraucht vnd geübt sein.
+  cs: |-
+    Dále má být především sám zkušený a zběhlý ve vedení dobrých lidí a jezdců.
+- typ: odstavec
+  de: |-
+    Item ein jeglicher Körisser soll sein verdeckten Hengst / der darzu dienstlich vnd wercklich sei / haben.
+  cs: |-
+    Dále má mít každý kyrysník {Körisser} svého hřebce v koňské zbroji {verdeckten Hengst}, který je k tomu způsobilý a výkonný.
+- typ: odstavec
+  de: |-
+    Item solcher Hengst soll sein gantze Barsen oder stelen gleger mit Hals vnd Stirn / haben.
+  cs: |-
+    Dále má mít takový hřebec svou celou bardu {Barsen} nebo ocelový koňský pancíř {stelen gleger} s krytím krku {Hals} a čela {Stirn}.
+- typ: odstavec
+  de: |-
+    Item solche Körisser sollen vom Adel vnd nit von Knechten sein.
+  cs: |-
+    Dále mají být takoví kyrysníci ze šlechty, a ne z pacholků.
+- typ: odstavec
+  de: |-
+    Item die andern Spiesser sollen mit gůten starcken pferden vnd leuten / nit mit schützen vnd liederlichen Pferden sein / damit ein jeglicher seine sachen versehen künde / wie Spiessern zusteht.
+  cs: |-
+    Dále mají být ostatní kopiníci {Spiesser} s dobrými silnými koňmi a lidmi, ne se střelci a špatnými koňmi, aby každý mohl svou věc obstarat, jak kopiníkům přísluší.
+- typ: odstavec
+  de: |-
+    Item solche Spiesser sollen jre spieß vnd röstung anhaben / nemlich schortz / ermeln oder Armzeug / gantz rock / krebs vnd stelen Kragen / mit gůten verschlossenen Hauptharnischen vnd gantzen Henschen / vnd sein gůte Büchsen am sattel haben.
+  cs: |-
+    Dále mají mít takoví kopiníci svá kopí {spieß}[^1] a výzbroj {röstung}, totiž šorc {schortz}, rukávy {ermeln} neboli brnění paží {Armzeug}, celou suknici {gantz rock}, krunýř {krebs} a ocelový límec {stelen Kragen}, s dobrými uzavřenými přilbami {Hauptharnischen} a celými rukavicemi {Henschen}, a u sedla dobrou pušku {Büchsen}.
+- typ: odstavec
+  de: |-
+    Item die schützen sollen erstlich auch von gůten Reutern / vnd nit ein auffgelesen gesind sein / als wagen vnd andere karren Knecht / oder noch liederlicher gesinde dann die baurs Knecht auff den dorffern / wie jetzund der brauch ist.
+  cs: |-
+    Dále mají být také střelci {schützen} především z dobrých jezdců, a ne nějaká sebraná čeládka, jako vozatajští a jiní károví pacholci, nebo ještě horší čeleď než selští pacholci na vesnicích, jak je to nyní zvykem.
+- typ: odstavec
+  de: |-
+    Item deßgleichen sollen sie auch mit gůten pferden beritten sein / vnd nicht auff den Baurs Pferden kommen die sie den Baurn nemen auß den pflůgen vnd wägen / sonder mit tüglichen reisigen pferden / damit sie in dem Feld vor den feinden bestehn künden / vnd thůn was ehrlichen Reutern gebürt.
+  cs: |-
+    Rovněž mají jezdit na dobrých koních a nepřijíždět na selských koních, které berou sedlákům od pluhů a vozů, nýbrž na způsobilých jízdních koních, aby v poli obstáli před nepřáteli a činili, co náleží čestným jezdcům.
+- typ: odstavec
+  de: |-
+    Item sie sollen auch mit gůtem Harnisch / als schortz / ermeln / gantz röck / krebs / kragen vnd henschen gerüst sein.
+  cs: |-
+    Dále mají být vyzbrojeni dobrou zbrojí {Harnisch}, totiž šorcem, rukávy, celou suknicí, krunýřem, límcem a rukavicemi.
+- typ: odstavec
+  de: |-
+    Item sie sollen auch jr gůte wolgerüste Büchsen zwo / eine forn am sattel vnd die ander am stötzen haben.
+  cs: |-
+    Dále mají mít dvě své dobré, dobře vystrojené pušky, jednu vpředu u sedla a druhou u stehna {stötzen}.[^2]
+- typ: odstavec
+  de: |-
+    Item auff zwölff geröster Pferde ein wagen / der mit vier tüglichen pferden gespandt / vnd wie ein wagen der in das feld gehört / gerüst sei.
+  cs: |-
+    Dále na dvanáct zbrojných koní {geröster Pferde} jeden vůz, zapřažený čtyřmi způsobilými koňmi a vystrojený, jak náleží vozu, který jde do pole.
+- typ: odstavec
+  de: |-
+    Item es soll ein jedes besolt werden wie der brauch ist / wie voglt.
+  cs: |-
+    Dále má být každý placen, jak je zvykem, a to takto:[^3]
+- typ: tabulka
+  de:
+  - ['Item eim Körisser mit seinem verdeckten pferdt', '24. flo.']
+  - ['Item eim Spiesser vnd Schützen / jeglichem', '12. flo.']
+  - ['Item einem Drosser', '6. flo.']
+  - ['Item einem Wagen', '24. flo.']
+  cs:
+  - ['Dále kyrysníkovi s jeho koněm v koňské zbroji', '24 zl.']
+  - ['Dále kopiníkovi a střelci, každému', '12 zl.']
+  - ['Dále na jednoho trénního koně {Drosser}', '6 zl.']
+  - ['Dále na jeden vůz', '24 zl.']
+- typ: odstavec
+  de: |-
+    Ir solt auch mit ewern Reuttern meiner Kriegßordnung /
+  cs: |-
+    Také máte být i se svými jezdci poslušni a podřízeni mému válečnému řádu {Kriegßordnung},
+poznamky:
+- n: 1
+  text: |-
+    U jízdy znamená Spieß jezdecké kopí (dřevec), nikoli pěchotní píku.
+- n: 2
+  text: |-
+    „Am stötzen“ – patrně u stehna (Stotzen = stehno), tj. v pouzdře u jezdcovy nohy; výklad není jistý.
+- n: 3
+  text: |-
+    „Voglt“ je tisková chyba za „volgt“. Částky jsou měsíční žold v zlatých (flo. = florén, zlatý).

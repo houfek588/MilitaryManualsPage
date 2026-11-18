@@ -1,0 +1,132 @@
+id: 6-022v
+list: 22 (6. kniha)
+strana: verso
+sken: 536
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Marggraue Albrecht zu Brandenburg etc. vnd jrer Fürstlichen Gnaden Reutter / auß derselbigen Sall reitende / sampt derselbigen Einrosser vnd Einspennigen auch jren Knaben.
+  cs: |-
+    Markrabě Albrecht braniborský atd. a jezdci Jeho knížecí Milosti, kteří jezdí z její stáje {Sall}[^1], spolu s jejími jezdci o jednom koni {Einrosser} a jednokoními jezdci {Einspennigen} i jejich pacholky {Knaben}.
+- typ: tabulka
+  de:
+  - - |-
+      ERstlich sind jhre Fürstliche Gnaden außgezogen am Montag nach Vocem Jucunditatis / das ist der 19 tag Maij zu Blassenberg / vnd haben gen Landaw 44 meiln / vnd alda verhart biß auff den 5 tag Junij / anfangs der Musterung / thůt anreitens vnd stilligens 17 tag mit 91 pferden vnd 6 Trometern / macht zu 6 batz.
+    - 618 flo. 12 batz.
+  - - Acht Wagen auff ein nacht 12 batzen / thůt
+    - 108 flo. 12 batz
+  - - Summa 727 gulden 9 batzen.
+    - ''
+  - - Graue Christoffel von Hennenberg.
+    - ''
+  - - |-
+      Item ist den 21 Mai angezogen vnd stilgelegen mit 11 pferden / thůt biß auff den 5 Junij 15 tag / macht jedes pferd zu 6 patzen /
+    - 66 flo. 5 ba.
+  - - Drei wagen jedem ein nacht zu 12 batzen / thůt
+    - 36 gulden.
+  - - Summa 102 gulden 5 batzen.
+    - ''
+  - - Summa lat. Gelts ist
+    - 829 flo. 14 batzen.
+  - - Summa lat. Pferde
+    - '102'
+  - - Summa lat. Wagen.
+    - '12'
+  - - Martin von Rosennaw.
+    - ''
+  - - |-
+      Item ist den 17 Mai mit 7 pferden gereist vnd stilgelegen / thůt biß auff den 5 Junij 19 tag / macht ein pferd ein tag zu 6 batz.
+    - 53 fl. 3 batz.
+  - - Eucarius von Liechtenstein.
+    - ''
+  - - |-
+      Item ist den 18 Mai mit 3 pferden angezogen vnd stilgelegen / thůt biß auff den 5 Junij 18 tag / macht vff ein pferd zu 6 batzen /
+    - 21 flo. 9 ba.
+  - - Albert Berlin.
+    - ''
+  - - |-
+      Item ist den 16 Mai angezogen vnd stilgelegen mit 3 pferden / thůt biß auff den 5 Junij 16 tag / macht auff jedes pferd zu 6 batzen /
+    - 24 flo.
+  - - Wolff Vlrich von Kindßberg.
+    - ''
+  - - |-
+      Item ist den 19 Mai angezogen biß auff den 5 Junij / thůt 17 tag reitens vnnd stillegens / macht auff ein Roß jeden tag zu 6 batzen / thůn 2 pferde.
+    - 13 gulden 9 batzen.
+  - - Jost von Schonstet.
+    - ''
+  - - |-
+      Item ist den 18 Mai angezogen / thůt biß auff den 5 Junij 18 tag reitens vnd stilligens / macht auff ein jedes pferde ein jeden tag zu 6 batzen / thůn 2 pferd
+    - 14 flo. 6 batzen.
+  - - Summa lat. Gelts
+    - 126 flo. 12 batz.
+  - - Summa lat. Pferd
+    - '17'
+  - - Summa lat. Wagen.
+    - '0'
+  cs:
+  - - |-
+      Nejprve Jeho knížecí Milost vytáhla v pondělí po neděli Vocem jucunditatis, to jest 19. května, z Plassenburgu {Blassenberg} a měla do Landavy 44 mil; tam setrvala až do 5. června, kdy začala přehlídka {Musterung}. To činí 17 dní jízdy a stání {anreitens vnd stilligens} s 91 koňmi a 6 trubači, po 6 bacenech {batz.}[^2]
+    - 618 zl. 12 bac.
+  - - Osm vozů, na jednu noc po 12 bacenech; to činí
+    - 108 zl. 12 bac.
+  - - Úhrnem 727 zl. 9 bac.
+    - ''
+  - - hrabě Christoffel von Hennenberg
+    - ''
+  - - |-
+      Dále: vytáhl 21. května a stál s 11 koňmi; to činí do 5. června 15 dní, každý kůň po 6 bacenech
+    - 66 zl. 5 bac.
+  - - Tři vozy, každý na noc po 12 bacenech; to činí
+    - 36 zl.
+  - - Úhrnem 102 zl. 5 bac.
+    - ''
+  - - 'součet strany {Summa lat.}: peníze'
+    - 829 zl. 14 bac.
+  - - 'součet strany: koně'
+    - '102'
+  - - 'součet strany: vozy[^3]'
+    - '12'
+  - - Martin von Rosennaw
+    - ''
+  - - |-
+      Dále: 17. května vyjel se 7 koňmi a stál; to činí do 5. června 19 dní, jeden kůň na den po 6 bacenech
+    - 53 zl. 3 bac.
+  - - Eucarius von Liechtenstein
+    - ''
+  - - |-
+      Dále: vytáhl 18. května se 3 koňmi a stál; to činí do 5. června 18 dní, na koně po 6 bacenech
+    - 21 zl. 9 bac.
+  - - Albert Berlin
+    - ''
+  - - |-
+      Dále: vytáhl 16. května a stál se 3 koňmi; to činí do 5. června 16 dní, na každého koně po 6 bacenech
+    - 24 zl.
+  - - Wolff Vlrich von Kindßberg
+    - ''
+  - - |-
+      Dále: vytáhl 19. května; do 5. června to činí 17 dní jízdy a stání, na koně na každý den po 6 bacenech, a to za 2 koně
+    - 13 zl. 9 bac.
+  - - Jost von Schonstet
+    - ''
+  - - |-
+      Dále: vytáhl 18. května; do 5. června to činí 18 dní jízdy a stání, na každého koně na každý den po 6 bacenech, a to za 2 koně
+    - 14 zl. 6 bac.
+  - - 'součet strany: peníze'
+    - 126 zl. 12 bac.
+  - - 'součet strany: koně'
+    - '17'
+  - - 'součet strany: vozy'
+    - '0'
+poznamky:
+- n: 1
+  text: |-
+    Tisková chyba *Sall* za *Stall*. Tento druhý rejstřík vyúčtovává příjezdné (*Anrittgeld*): 6 bacenů na koně a den a 12 bacenů na vůz a noc za dny cesty a čekání (*anreiten vnd stilligen*) až do začátku přehlídky 5. června 1544. Tisk jej sází po odstavcích s částkou na konci řádku; v edici je zapsán jako tabulka (text | částka). Zl. = zlatý (*gulden, flo.*), bac. = bacen (*batzen*); 15 bacenů = 1 zlatý.
+- n: 2
+  text: |-
+    *Vocem jucunditatis* je 5. neděle po Velikonocích (Rogate); v roce 1544 připadla na 18. května, pondělí po ní je tedy skutečně 19. května. *Blassenberg* = hrad Plassenburg nad Kulmbachem, sídlo markraběte. Výpočet: 91 × 17 × 6 = 9282 bac. = 618 zl. 12 bac.
+- n: 3
+  text: |-
+    Podle položek má mít skupina 8 + 3 = 11 vozů; tisk má 12. Rovněž některé dílčí částky nesedí: u Christoffela von Hennenberg dává 11 × 15 × 6 bac. přesně 66 zl. (tisk 66 zl. 5 bac.), u Alberta Berlina 3 × 16 × 6 bac. = 19 zl. 3 bac. (tisk 24 zl.). Úhrny strany však s tištěnými položkami souhlasí.

@@ -1,0 +1,106 @@
+id: 8-003v
+list: 3 (8. kniha)
+strana: verso
+sken: 594
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Volgen die Stück so zur Prouiant gehören vnd von nöten sind.
+  cs: |-
+    Následují věci, které patří k proviantu {Prouiant} a jsou potřebné.
+- typ: seznam
+  de:
+  - Korn/
+  - Weyß/
+  - Meel/
+  - Erbeissen/
+  - Bon/
+  - Gersten die geschelt ist/
+  - Hafernmeel abgebrant/
+  - Zwiffeln/
+  - Bottern/
+  - Keß/
+  - Dörfisch werck/
+  - gesaltzen Fisch als Hering vnd dergleichen/
+  - Saltz/
+  - Saurkraut eingemacht/
+  - Rüben/
+  - Khů vnnd Geyssen den tranck Milch zu haben/
+  - Holtz zum brant/
+  - Vorrat an Koln/
+  - Holtz zum bawen vnnd Darressen/
+  - Häw/
+  - Stro/
+  - Hafern zů füttern/
+  - Tůch vnd Leinwat kremer zur kleidung/
+  - Schůmacher/
+  - Büchsenmeister/
+  - Zimmerleut/
+  - Wagner/
+  - Schmidt vnd allerlei Arbeits volck zum bawen vnd vnderhaltung der Besatzung.
+  cs:
+  - žito,
+  - pšenice,
+  - mouka,
+  - hrách,
+  - boby,
+  - loupaný ječmen,
+  - pražená ovesná mouka,
+  - cibule,
+  - máslo,
+  - sýr,
+  - sušené ryby,
+  - solené ryby jako sledi a podobně,
+  - sůl,
+  - nakládané kyselé zelí,
+  - řepa,
+  - krávy a kozy, aby bylo mléko k pití,
+  - dříví na otop,
+  - zásoba uhlí,
+  - dříví na stavby a na sušárny,[^1]
+  - seno,
+  - sláma,
+  - oves ke krmení,
+  - kupci se suknem a plátnem na oděv,
+  - ševci,
+  - puškaři {Büchsenmeister},
+  - tesaři,
+  - koláři,
+  - kováři a všelijaký pracovní lid ke stavbám a k údržbě posádky {Besatzung}.
+- typ: odstavec
+  de: |-
+    Dise oben verzeichnuß der Prouiant ist darumb gemelt/ daß es gůt speiß vnd Victualie in ein Besatzung ist/ vnd lang zu halten sind/ auch wol vnd weit speisen fürnemlich das gesaltzen fleysch fürs erst/ darumb soll ein Befestung erstlich mit Saltz wol versehen sein/ wann sichs zutragen würde/ daß mann eilents ein Befestung speissen müst/ so kan mann auff dem Landt bald Viehe als Ochsen/ Khů/ Schaaff vnd anders nemen vnd niderschlagen/ vnd mit allem was daran zu essen ist einsaltzen/ vnd darnach verspeisen/ dann soll mann das viehe lebendig darinn behalten/ so ging ein grosse Fütterung vnd andere mühe vnd vnkosten darauff.
+  cs: |-
+    Výše uvedený soupis proviantu je zaznamenán proto, že jsou to dobré pokrmy a potraviny {Victualie} pro posádku, dají se dlouho uchovat a dobře a vydatně živí – především solené maso. Proto má být pevnost {Befestung} především dobře zásobena solí. Kdyby se totiž stalo, že by se pevnost musela narychlo zásobit, lze na venkově rychle vzít dobytek, jako voly, krávy, ovce a jiné, porazit ho a se vším, co je na něm k jídlu, naložit do soli a potom spotřebovat. Kdyby se totiž měl dobytek chovat v pevnosti živý, padlo by na něj mnoho píce {Fütterung} a další námahy a nákladů.
+- typ: odstavec
+  de: |-
+    Die andere Prouiant von dörren vnd gesaltzenen Fischen bleipt lang vnuerdorben/ daß mann mit rath dauon speisen kan.
+  cs: |-
+    Další proviant ze sušených a solených ryb zůstává dlouho nezkažený, takže se z něj dá s rozvahou živit.
+- typ: odstavec
+  de: |-
+    Bon/ Erbeissen vnd geschelte Gersten sind mit vnder zuspeissen/ vnd gibt Suppen vnd gemüß wie mann weiß/ besonder für die Krancken/ vnd ist Prouiant die nit verdirbt.
+  cs: |-
+    Boby, hrách a loupaný ječmen se dají přidávat k ostatnímu jídlu; dělají se z nich, jak známo, polévky a kaše, zvláště pro nemocné, a je to proviant, který se nekazí.
+- typ: odstavec
+  de: |-
+    Den Keß kan mann auch verspeisen/ vnd ist Prouiant die auch nicht verdirbt/ vnd ein volck sich wol lang zur not mit erhalten kan.
+  cs: |-
+    Také sýr se dá spotřebovat; i to je proviant, který se nekazí, a lid se jím může v nouzi dlouho udržet naživu.
+- typ: odstavec
+  de: |-
+    Die Botter weiß mann wol das damit die Köchen erhalten wirt/ deßgleichen wann mangel an der andern Prouiant were/ vnd Botter vnd brot/ besonder gesaltzen Botter/ hett/ so kan mann auch bei leben bleiben vnd sich erhalten.
+  cs: |-
+    O másle se dobře ví, že se jím udržuje kuchyně. A kdyby byl nedostatek jiného proviantu a měl by člověk máslo a chléb, zvláště solené máslo, může také zůstat naživu a udržet se.
+- typ: odstavec
+  de: |-
+    Die oben verzeichneten prouiantstück halten sich lang vnd verderben nit/ Wie weiter mit denselbigen außzuspeisen vmbgangen werden soll/ wil ich hernach auch berichten/ vnd erstlich das Korn vnd Weyß wie das ins brot zu bringen sei für mich nemen/ vnd in Gewicht/ Maß vnd Rechnung vnder das Kriegßuolck außtheilen.
+  cs: |-
+    Výše uvedené druhy proviantu vydrží dlouho a nekazí se. Jak se s nimi má dále zacházet při vydávání jídla, o tom podám zprávu níže. Nejprve se ujmu žita a pšenice – jak se z nich má udělat chléb – a rozdělím je válečnému lidu {Kriegßuolck} podle váhy, míry a počtu.
+poznamky:
+- n: 1
+  text: |-
+    *Darressen* nejspíš znamená sušárny (*Darre*, *Darr-esse*) na sušení obilí a sladu; čtení není zcela jisté. *Hafernmeel abgebrant* je ovesná mouka z praženého ovsa, trvanlivá a vhodná do zásoby. *Korn* (vedle *Weyß*, pšenice) je zde chlebové obilí, v jižním Německu zpravidla žito.

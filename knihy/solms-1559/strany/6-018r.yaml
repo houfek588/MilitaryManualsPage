@@ -1,0 +1,49 @@
+id: 6-018r
+list: 18 (6. kniha)
+strana: recto
+sken: 527
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    19 Item ob vnder solchen Reisigen einer oder mehr kranck würden/ die gerüst vnd jre zuuor gemusterte rüstung vnd gůt pferd/ wie in der nechst vorgehenden musterung noch haben/ die sollen monatlichen wie die gesunden/ so in der musterung passiert/ deßgleichen die gefangene so ferr sie nach krigs gebrauch in vnserm dienst nidergeworffen vnderhalten/ besoldet vnd bezalt werden/ doch sollen der obgemelten krancken vberentzige pferd vnd Harnesch durch die Musterung gefürt vnd kein geuerde gebraucht werden.
+  cs: |-
+    19 Dále: kdyby z těchto jezdců {Reisigen} jeden nebo více onemocněli, a přitom ještě mají zbroj, svou dříve přehlédnutou výzbroj {rüstung} a dobrého koně jako při nejbližší předchozí přehlídce {musterung}, mají být měsíčně vydržováni, placeni žoldem a vypláceni jako zdraví, kteří přehlídkou prošli. Stejně tak zajatí, pokud byli podle válečného obyčeje zajati {nidergeworffen} v naší službě. Zbylí koně {vberentzige pferd}[^1] a zbroj {Harnesch} uvedených nemocných však mají být provedeni přehlídkou a nemá se přitom užívat žádné lsti {geuerde}.
+- typ: odstavec
+  de: |-
+    20 Item es sol auch solchen Reisigen so gemustert werden/ von jren Heußlichen Wonungen auß auff ein jedes gerüsts Reissigs in der musterung zugelassens pferd tag vnd nacht vier vnd zwentzig Kreutzer/ deßgleichen auff ein jeden gerüsten vnd in der musterung gůt gemachten Wagen/ acht vnd zwentzig Kreutzer für jr anrit gelt bezalt/ vnd eim vier tag zu ziehen/ vnd den fünfften stilzuligen erlaubt/ vnd soll eines jeden ziehenden tags vier meiln zureiten schuldig sein.
+  cs: |-
+    20 Dále se má těmto jezdcům, kteří budou přehlédnuti, platit jako příjezdné {anrit gelt} od jejich domovů {Heußlichen Wonungen} na každého zbrojného jezdeckého koně připuštěného při přehlídce za den a noc čtyřiadvacet krejcarů {Kreutzer} a rovněž na každý vystrojený a při přehlídce uznaný vůz {Wagen} osmadvacet krejcarů.[^2] Přitom se jim povoluje čtyři dny táhnout a pátý den stát {stilzuligen}, a každý den pochodu je každý povinen ujet čtyři míle {meiln}.
+- typ: odstavec
+  de: |-
+    21 Item soll die Besoldung nach beschehner musterung auff dem musterplatz angehn/ vnd alßbald auff die hand ein gantzer Monat soldt gegeben/ vnd darnach alwegen monatlich einmal bezalt werden/ wo das gelt aber vngeuerlich fünff/ zehen oder fünffzehen tag verbliebe/ vnd nicht gleich alda were/ sollen sie gedult tragen/ vnd nicht desto weniger alles das thun das Reisigen ehrlichen Kriegßleuten wol ansteht/ vnd als ob sie das gelt zu rechter zeit emptfangen hetten.
+  cs: |-
+    21 Dále má žold {Besoldung} začít běžet po vykonané přehlídce na přehlídkovém místě {musterplatz} a hned má být do ruky vydán žold {soldt} za celý měsíc a potom vždy jednou měsíčně placen. Kdyby se však peníze bez zlého úmyslu {vngeuerlich} o pět, deset nebo patnáct dní opozdily a nebyly hned na místě, mají mít strpení a přesto konat vše, co jezdcům jako poctivým válečníkům {Kriegßleuten} dobře přísluší, jako by peníze obdrželi v pravý čas.
+- typ: odstavec
+  de: |-
+    22 Item sollen auch dreissig tag für einn monat zu dienen schuldig sein/ vnd nit anderst gerechnet werden.
+  cs: |-
+    22 Dále mají být povinni sloužit třicet dní za jeden měsíc a jinak se to nemá počítat.
+- typ: odstavec
+  de: |-
+    23 Item oberürdte tausent pferd vnd Reisigen sampt jrer zugehörde sollen vns wider alle vnsere feind/ niemants außgenomen zudienen schuldig vnd verpflicht sein/ allein hat gedachter vnser Oheim vnnd Fürst Margraff Albrecht außgenomen seine Erbeinigungs verwanden Chur vnd Fürsten.
+  cs: |-
+    23 Dále má výše uvedený tisíc koní a jezdců i se svým příslušenstvím {zugehörde} být povinen a zavázán sloužit nám proti všem našim nepřátelům, nikoho nevyjímaje. Pouze jmenovaný náš strýc {Oheim} a kníže, markrabě Albrecht, si vyhradil kurfiřty a knížata, s nimiž je spjat dědičnou smlouvou {Erbeinigungs verwanden}.[^3]
+- typ: odstavec
+  de: |-
+    24 Item sollen vns auch drei Monatlang darauff vnd so lang wir jrer weiter bedürfftig zu dienen schwern/ doch also wann die drei bestümpte Monat außsein/ vnd wir jr lenger vnd mehr begern oder notturfftig sein würden/ sollen sie vns vmb vnd in voriger besoldung lenger vnd nach vnserm gefallen sich gebrauchen zulassen/ vnd zu dienen schuldig sein/ doch sol zuuor mit jnen vor außgang des driten monats derhalben gehandelt werden.
+  cs: |-
+    24 Dále mají přísahat, že nám budou sloužit tři měsíce a dále tak dlouho, dokud je budeme potřebovat. Když tedy uplynou tři stanovené měsíce a my bychom je déle a více žádali nebo potřebovali, mají se nechat od nás za dosavadní žold déle a podle naší libosti užívat a jsou povinni sloužit. O tom se s nimi však má předem jednat ještě před uplynutím třetího měsíce.
+- typ: odstavec
+  de: |-
+    25 Item wo die gedachten Reisigen nach jrm anrit innerhalb vnd vor außgang der drei Monat geurlaubt würden/ soll doch nichts desto weniger jnen die drei Monat also völlige besoldung außgericht/ vergnügt vnd bezalt werden.
+  cs: |-
+    25 Dále: kdyby byli jmenovaní jezdci po svém příjezdu {anrit} propuštěni {geurlaubt} ještě během tří měsíců a před jejich uplynutím, má jim přesto být za tři měsíce vyplacen, uhrazen a zaplacen plný žold.
+poznamky:
+- n: 1
+  text: „vberentzige“ (OCR čte „oberentzige“) = přebývající, zbylé; míní se koně a zbroj nemocných, které je třeba předvést při přehlídce místo nich.
+- n: 2
+  text: 24 krejcarů = 6 bacenů, tj. sazba, s níž počítají předchozí rejstříky příjezdného saských jezdců; u vozu však saské rejstříky počítají 12 bacenů (48 krejcarů) denně, kdežto braniborský služební list jen 28 krejcarů.
+- n: 3
+  text: Dědičné jednoty (Erbeinigung) spojovaly Hohenzollerny se Saskem (Wettinové) a Hesenskem; markrabě si tak vyhradil, že nebude bojovat proti spřízněným kurfiřtům a knížatům.

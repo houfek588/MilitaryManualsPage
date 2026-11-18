@@ -1,0 +1,51 @@
+id: 7-007r
+list: 7 (7. kniha)
+strana: recto
+sken: 561
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-561.jpg
+  popis: |-
+    Osm textových karet strany Hannibalovy (černý tisk) v orámovaných polích: děla, lodní mosty a vozy, odpovídající obrazovým kartám dělostřelectva a vozů na [[7-005r|listu 5]]. V poslední kartě je pod nápisem drobným písmem připojena poznámka o následující protistraně. Přes papír prosvítají červené nápisy obrazových karet z rubu listu. Přepis a překlad nápisů viz tabulka (pořadí po řádcích zleva doprava).
+- typ: tabulka
+  de:
+  - - '1'
+    - Vier Notschlangen.
+  - - '2'
+    - Schiffbrücken.
+  - - '3'
+    - Acht Veldschlangen
+  - - '4'
+    - Wagenburgwagen.
+  - - '5'
+    - Acht quartirschlangen.
+  - - '6'
+    - Gemeine Heerwagen.
+  - - '7'
+    - Zehen Falconetlin.
+  - - '8'
+    - Monition wagen.
+  cs:
+  - - '1'
+    - Čtyři těžké kulveriny {Notschlangen}.
+  - - '2'
+    - Lodní mosty {Schiffbrücken}.
+  - - '3'
+    - Osm kulverin {Veldschlangen}
+  - - '4'
+    - Vozy vozové hradby {Wagenburgwagen}.
+  - - '5'
+    - Osm čtvrtečních kulverin {quartirschlangen}.
+  - - '6'
+    - Obyčejné válečné vozy {Heerwagen}.
+  - - '7'
+    - Deset falkonetů {Falconetlin}.
+  - - '8'
+    - Vozy s municí {Monition wagen}.
+- typ: odstavec
+  de: |-
+    Volgt hernach das gegentheil von den Römern/ mit roter Farb.
+  cs: |-
+    Dále následuje protistrana, Římané, [tištěná] červenou barvou.

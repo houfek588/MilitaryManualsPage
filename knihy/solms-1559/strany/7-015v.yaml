@@ -1,0 +1,43 @@
+id: 7-015v
+list: 15 (7. kniha)
+strana: verso
+sken: 578
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Die Wagenburg aber starck vnd verwarlich zumachen / hat mann eigene Wagen darzů gehabt / die hat mann die Streitwagen geheissen / vnd hat sie vnder die Heerwagen eingetheilt / die haben bei jnen etlich Hackenschützen gehabt / die stets neben jn hergangen sind / vnd auff sie gewart / etc.
+  cs: |-
+    Aby však byla vozová hradba {Wagenburg} silná a bezpečná, měli k tomu zvláštní vozy, kterým se říkalo bojové vozy {Streitwagen}; ty se rozdělovaly mezi válečné vozy {Heerwagen}. Měly u sebe několik střelců z hákovnic {Hackenschützen}, kteří šli stále vedle nich a měli je na starosti atd.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wie solche Streitwagen zugericht vnd gemacht gewesen / volgt des hernach ein kurtzer bericht.
+  cs: |-
+    Jak byly takové bojové vozy upraveny a zhotoveny – o tom následuje krátká zpráva.
+- typ: odstavec
+  de: |-
+    DIe Streitwagen sind von zweierlei manir gemacht gewest / als der erste Wagen hat mitten den langen wege hindurch ein starck geuierdtes holtz / der wagen ist lang / vnd das holtz hat drei löcher oben herüber durchgehn / vnd ist allwegen ein loch einer Ellen oder werckschůch von dem andern / vnd bei oder vber solche löcher sind sie mit eisen beschlagen vnd gebunden / das wol leiden kan.
+  cs: |-
+    Bojové vozy byly dvojího provedení. První vůz má uprostřed po celé délce silný hraněný trám; vůz je dlouhý a trámem procházejí shora dolů tři otvory, každý od druhého vzdálený jeden loket {Ellen} nebo jednu stopu {werckschůch}. U těchto otvorů či nad nimi je trám okován a stažen železem, aby dobře vydržel.
+- typ: odstavec
+  de: |-
+    Vnd durch dieselbigen löcher geht ein starcker eissern nagel / der hat ein absatz daß er nicht durch kan / sonder darauff ruhen muß / so ist der absatz oben hinauß so lang / als ein hacken ist an einem doppelnhacken / damit er nit auff das holtz stößt / vnd der nagel soll oben gespalten sein / daß der Doppelhack geraumb darinn ligen künde / vnd der nagel vmb das holtz / daß mann den hacken wenden kan / wo hinauß mann wil / vnd sollen nach drei vbrige hacken da sein / die auff dem wagen zwischen den Redtern ligen / vnd auff den orten zwischen den Redtern sollen zwei verschlossen Kistlein sein / von Brettern fest auff den wagen gemacht / darinn puluer / Kugeln vnd solche rüstung was darzů gehört lige / vnd die vbrigen hacken ligen darneben verwart / daß sie nit vberfallen können.
+  cs: |-
+    Těmito otvory prochází silný železný čep; má osazení, aby nemohl propadnout, ale musel na něm spočívat. Osazení přečnívá nahoru tak daleko, jak dlouhý je hák na dvojité hákovnici {doppelnhacken}, aby hák nenarážel na trám. Nahoře má být čep rozeklaný, aby v něm dvojitá hákovnice mohla volně ležet, a čep se má v trámu otáčet, aby se hákovnice dala natočit, kam je třeba. Kromě toho mají být po ruce ještě tři náhradní hákovnice, které leží na voze mezi koly. Na koncích mezi koly mají být dvě uzamykatelné truhličky z prken, pevně připevněné k vozu, v nichž leží prach {puluer}, koule {Kugeln} a další potřebné příslušenství; vedle nich leží uschované náhradní hákovnice, aby nemohly vypadnout.
+- typ: odstavec
+  de: |-
+    Solche vbrige hacken sind darumb da / Wann mann einen vom Wagen abgeschossen hat / daß der ander geladen sei / vnd wann mann den abgeschossenen abhebt / den geladenen widerumb in die stat leg. Also mag mann die andern abgeschossenen auch wider laden / vnd einen vmb den andern auß vnd ein legen / zur förderung.
+  cs: |-
+    Tyto náhradní hákovnice jsou tu proto, aby byla druhá nabitá, když se z jedné z vozu vystřelí; vystřelená se sejme a na její místo se vloží nabitá. Tak lze i ostatní vystřelené znovu nabíjet a jednu za druhou vyjímat a vkládat, aby střelba šla rychleji.
+- typ: odstavec
+  de: |-
+    Derwegen sollen sie nit hoch Redter haben / dann das holtz auff dem wagen tregt auch in die höhe / damit mann die Büchsen handeln mag / wie mann will.
+  cs: |-
+    Proto nemají mít vysoká kola, neboť i trám na voze ční do výšky; tak se dá s hákovnicemi {Büchsen} zacházet podle libosti.
+- typ: odstavec
+  de: |-
+    Aber der ander Streitwagen sol auch nit mit hohen Redtern sein / vnd einen Brettern schirm haben / der so hoch ist daß ein man darneben steht / hoch gnug bedeckt sei für einem der auff eim pferdt sitzt / vnd die höhe innhat.
+  cs: |-
+    Druhý bojový vůz však také nemá mít vysoká kola a má mít prkenný štít {Brettern schirm} tak vysoký, aby muž, který stojí vedle něj, byl dost vysoko krytý před jezdcem, který sedí na koni a má převahu výšky.

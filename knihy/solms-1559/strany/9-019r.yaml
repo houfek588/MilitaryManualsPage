@@ -1,0 +1,38 @@
+id: 9-019r
+list: 19 (9. kniha)
+strana: recto
+sken: 657
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    daruor ewer groß Geschütz hinweg gehn lassen / jetzund darnach zwei oder drei nacheinander / damit wann etwas vnderwegen zerbrech / es wider kündt gemacht werden / Dann wann der Hauff in ein vnordnung kompt / dann fliehen die wagenleut von dem Geschütz / vnd wirt dardurch das Geschütz zum offtermal verloren.
+  cs: |-
+    předem odeslali svá velká děla {Geschütz}, a to vždy po dvou nebo třech za sebou, aby se to dalo opravit, kdyby se cestou něco rozbilo. Když totiž houf {Hauff} upadne do nepořádku, utečou vozkové {wagenleut} od děl, a tím se děla častokrát ztratí.
+- typ: odstavec
+  de: |-
+    Alda hab ich euch alles angezeigt das mir auff diß mal eingefallen ist / das sich zu tragen möcht in einem leger vor einer Stat oder in einem sturm / oder auffbruch eines legers.
+  cs: |-
+    Tím jsem vám ukázal vše, co mě tentokrát napadlo o tom, co se může přihodit v ležení {leger} před městem, při útoku {sturm} nebo při odchodu z ležení.
+- typ: odstavec
+  de: |-
+    Jch schreib nichts daruon wann die Feinde kommen / vnnd euch mit gewalt auß dem leger schlagen wöllen / dann wann solches geschicht / solt jrs mit beratschlagung vnd gůt bedüncken ewrer Hauptleut handeln / ob jhr auff wölt sein mit etlichem Volck vnnd euch mit den Feinden schlagen / doch ein gůt besatzung inn dem leger lassen / oder ob jr mit gantzem Heers krafft außziehen wölt / oder erwarten biß das sie euch im leger vberfallen / solches alles wirt zu ewerm vnd ewer Hauptleut gůt bedüncken stehen / Jhr solt auch acht haben daß euch die Feinde nicht belegern / vnd verhindern daß kein Prouiant zu euch zůgehn kündt / oder einen vortheil oder höhe einnemen / darauff sie in ewer leger schiessen künden / dann wo solchs geschicht / wirdt ewer Volck in ein groß vnordnung vnnd forcht kommen / daß sie sie nicht schlagen noch in Schantzen wehren künden / wann jrh dann sehet / daß die Feinde einen vortheil vor euch einnemen möchten / were mein rath daß jr mit ewerm gantzen hauffen auffwern / vnd euch mit jnen schlügt / wie ich euch nachuolgents anzeigen will / Wann jhr alßdan vil sicherer sein würd / dann wann jr die schlacht gewündt ist die Stat auch gewunnen / wann jr sie aber verliert / werden warlich die so jr in dem leger zu einer besatzung auch verlorn / vnd wann sie bei euch gewesen wern / möcht jr villeicht die schlacht gewunnen haben.
+  cs: |-
+    Nepíšu nic o tom, když přitáhne nepřítel a bude vás chtít násilím vyhnat z ležení. Stane-li se to, máte jednat po poradě a podle dobrého zdání svých hejtmanů {Hauptleut}: zda chcete vytáhnout s částí lidu a bít se s nepřítelem, ale v ležení nechat dobrou posádku {besatzung}; nebo zda chcete vytáhnout s celou silou vojska {Heers}; anebo vyčkat, až vás nepřítel v ležení přepadne. To vše bude záležet na vašem dobrém zdání a na zdání vašich hejtmanů. Máte také dbát, aby vás nepřítel neobklíčil a nezabránil tomu, aby k vám mohl přicházet proviant {Prouiant}, nebo aby nezaujal výhodné místo či výšinu, odkud by mohl střílet do vašeho ležení. Kdyby se to stalo, upadne váš lid do velkého nepořádku a strachu, takže se nebude moci ani bít, ani bránit v šancích {Schantzen}. Když tedy vidíte, že by se nepřítel mohl zmocnit výhody před vámi, radil bych vám, abyste se s celým svým houfem vypravili a bili se s ním tak, jak vám ukážu dále. Budete pak totiž mnohem bezpečnější: vyhrajete-li bitvu, je dobyto i město. Prohrajete-li ji však, jsou vskutku ztraceni i ti, které jste nechali v ležení jako posádku, a kdyby byli s vámi, možná byste bitvu vyhráli.
+- typ: odstavec
+  de: |-
+    Nun mehr sein jr kommen auff die ordnung so jr halten solt wann jr euch mit den Feinden schlagen wolt / welchs jr alles vff das glück setzen must / demnach dann die landßart ist darnach sol mann handeln / fest oder schwach / bergig oder oben / deßgleichen nach dem die Feinde vil Volcks haben oder nit / Darumb ich euch in dem fall nichts raten kan / dann nach dem euch dise obgemelte handlungen begegnen / darnach solt jr handeln.
+  cs: |-
+    Nyní jsme došli[^1] k pořádku {ordnung}, který máte zachovávat, když se chcete bít s nepřítelem; to vše musíte svěřit štěstí. Jednat se má podle toho, jaký je kraj – pevný, nebo měkký, hornatý, nebo rovný[^2] – a stejně tak podle toho, zda má nepřítel mnoho lidu, nebo ne. Proto vám v tom nemohu nic radit; máte jednat podle toho, jak se s vámi výše uvedené okolnosti setkají.
+- typ: odstavec
+  de: |-
+    Wann jr vermeint jr seiend ewern Feinden mit dem reisigen zeug zu starck / vnd es in einem eben Landt ist / solt jr der Reutter ordnung breit machen / damit sie sich desto baß schlagen kündt / wann jhr aber acht jr seien mit dem fußuolck stercker dann die Feinde / sie aber stercker zu roß dann jr / solt jr ewern reisigen Zeug eng in einander ordnen
+  cs: |-
+    Domníváte-li se, že jste svou jízdou {reisigen zeug} nepříteli nadřazeni a je-li to v rovném kraji, máte šik jezdců {Reutter ordnung} rozvinout do šíře, aby se mohli tím lépe bít. Soudíte-li však, že jste silnější pěchotou {fußuolck} než nepřítel, on však je silnější v jízdě než vy, máte svou jízdu sešikovat těsně k sobě,
+poznamky:
+- n: 1
+  text: Tisk má „sein jr kommen“, patrně tisková chyba místo „sein wir kommen“.
+- n: 2
+  text: Tisk má „bergig oder oben“, zjevně místo „eben“ (rovný).

@@ -1,0 +1,33 @@
+id: 9-011r
+list: 11 (9. kniha)
+strana: recto
+sken: 641
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    essen in dem Leger sein vnd wider spacieren gehn / dann so die Knecht jn sehen / werden sie sich vor jm förchten / vnd desto weniger zanck vnd schlagens anfahen.
+  cs: |-
+    jídle má být v ležení {Leger} a zase se procházet, neboť když ho knechti {Knecht} vidí, bojí se ho a méně se hádají a perou.
+- typ: odstavec
+  de: |-
+    Als vil euch berürt Herr rath ich euch / daß jr zum offtermal auff ein ring Pferde oder Zelter sitzen / vnd im leger hin vnd wider reitten / dann dardurch möcht jr erfarn vnd sehen ob das leger wol beschlossen vnd befestigt sei / vnd ewer Volck wirt euch gern sehn / vnd werden euch desto lieber haben / vnd vil mehr förchten dann sonst.
+  cs: |-
+    Pokud jde o vás, pane, radím vám, abyste častěji vsedli na lehkého koně nebo na mimochodníka {Zelter} a projížděli se ležením sem a tam. Tak se totiž můžete přesvědčit a vidět, zda je ležení dobře uzavřeno a opevněno. Vaši lidé vás také rádi uvidí, budou vás mít tím raději a budou se vás bát mnohem víc než jindy.
+- typ: odstavec
+  de: |-
+    Wann die Sonn nider gehet soll der Marschalck die Scharwach bereit haben / vnd acht darauff geben daß jr souil seien als jr sein sollen / vnd sie heissen auff jr wacht ziehen / vnnd soll ein Beuelchßman oder Trommeter mit jnen zum Obersten oder Leutenant schicken / vnd jn fragen was er jnen für ein heimlichs warzeichen geben wöl / wann er daß hat soll ers dem Prouosen anzeigen / damits derselbig den wachtmeister bericht / nachuolgends sollen sie bei hellem tag vff die wacht ziehen / damit sie jren vortheil desto baß ersehen mögen / vnnd sollen so nahe bei dem Leger sein / daß sie die Feind nit von dem leger tringen künden / vnd soll das heimlich warzeichen keinem dann dem Wachtmeister anzeigen biß daß die Wacht gar besetzt / nachuolgends mag manns wol den Hauptleuten vnd Beuelchßleuten / vorab den jenigen die darzů verordnet / sagen / darnach sol die Wacht keinen mehr weder auß noch in lassen / sonder wider hindersich inn das Leger schicken / es sei dann sach / daß sie gůt warzeichen von dem Obersten / Leutenant oder Marschalck bringen / das dann der Wachtmeister wol kennen wirt / Vnd bedünckt mich gůt sein / daß jhr zwen Wachtmeister habt / vnd befinde solches gůt sein / vrsachen halben / daß die Wacht allweg einen bei jnen hab / den ein die erste vnd den andern die ander nacht / wann es aber im Wintter ist / den ein die halbe vnd den andern die ander halbe nacht biß tag / Vnd dieweil sich keiner so in der wacht ist / von seinem ort da er hin verordnet verrücken soll / künden die Wachtmeister allwegen bei jnen sein vnd sie besichtigen / darmit nichts versaumpt werde.
+  cs: |-
+    Když zapadá slunce, má mít polní maršálek {Marschalck} obchůzku {Scharwach} připravenou, dbát, aby jich bylo tolik, kolik jich být má, a poručit jim, aby táhli na svou stráž {wacht}. S nimi má poslat velitele {Beuelchßman} nebo trubače {Trommeter} k plukovníkovi {Obersten} nebo k poručíkovi {Leutenant} a otázat se ho, jaké tajné heslo {heimlichs warzeichen} jim chce dát. Až ho bude mít, má ho oznámit profousovi {Prouosen}, aby ho ten sdělil vachmistrovi {wachtmeister}. Potom mají na stráž vytáhnout za bílého dne, aby si tím lépe vyhlédli výhodná místa. Mají stát tak blízko ležení {Leger}, aby je nepřítel nemohl od ležení odtlačit. Tajné heslo nemá [profous] sdělit nikomu jinému než vachmistrovi, dokud není stráž úplně rozestavena; potom je lze klidně sdělit hejtmanům {Hauptleuten} a velitelům, především těm, kdo jsou k tomu určeni. Poté nemá stráž nikoho pustit ven ani dovnitř, nýbrž ho má poslat zpět do ležení, leda by přinesl platné znamení od plukovníka, poručíka nebo polního maršálka, které vachmistr jistě pozná. Zdá se mi dobré, abyste měli dva vachmistry, a shledávám to dobrým z toho důvodu, aby měla stráž vždy jednoho u sebe – jednoho první a druhého druhou noc, v zimě však jednoho první polovinu a druhého druhou polovinu noci až do rána. A protože se nikdo, kdo drží stráž, nemá hnout z místa, kam byl určen, mohou vachmistři být neustále u strážných a kontrolovat je, aby se nic nezanedbalo.
+- typ: odstavec
+  de: |-
+    Wann nun die Scharwacht der gestalt besetzet ist / mögen die jenigen so im tag gewacht haben wider in das leger ziehen / vnd morgens soll die Scharwacht nicht abtrettren biß die ander Wacht besetzt / vnd wann sie etwas zu nacht hörten / soll der ein auß den zweien euch solchs oder dem Leutenant anzeigen / darmit er es euch kundt thů / wann sie aber etwas trefflichs hören / dardurch ein grosser schad eruolgen möcht / alßdan sollen sie einen lermen machen.
+  cs: |-
+    Když je obchůzka {Scharwacht} takto rozestavena, mohou se ti, kdo drželi stráž přes den, vrátit do ležení. Ráno nemá obchůzka odstoupit, dokud není obsazena další stráž. Uslyší-li v noci něco, má jeden z dvojice oznámit to vám nebo poručíkovi, aby vám to sdělil. Uslyší-li však něco závažného, z čeho by mohla vzejít velká škoda, pak mají vyhlásit poplach {lermen}.
+- typ: odstavec
+  de: |-
+    Der Marschalck soll die Scharwacht starck machen / welliche ich
+  cs: |-
+    Polní maršálek má obchůzku posílit; tu bych

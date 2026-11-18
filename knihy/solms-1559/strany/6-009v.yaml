@@ -1,0 +1,154 @@
+id: 6-009v
+list: 9 (6. kniha)
+strana: verso
+sken: 510
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['10', 'Gerüster pferde', '6']
+  - ['', 'Conradt von Mandelsen.', '']
+  - ['11', 'gerüster pferde', '6']
+  - ['', 'Andres Ecke.', '']
+  - ['12', 'gerüster pferde.', '5']
+  - ['Summa lat.', 'Pferde', '51']
+  - ['', 'Droß', '1']
+  - ['', 'wagen.', '4']
+  cs:
+  - ['10', 'zbrojní koně {Gerüster pferde}', '6']
+  - ['', 'Conradt von Mandelsen.', '']
+  - ['11', 'zbrojní koně', '6']
+  - ['', 'Andres Ecke.', '']
+  - ['12', 'zbrojní koně', '5']
+  - ['součet strany {Summa lat.}[^1]', 'koně', '51']
+  - ['', 'trénní kůň {Droß}[^2]', '1']
+  - ['', 'vozy {wagen}', '4']
+- typ: tabulka
+  de:
+  - ['Summa derer pferd sind 102/ gehört vff eins 12 flo. thůt', '1224 flo.']
+  - ['Summa der Drosser sind 3/ gehört auff jeden 6 flo. thůt', '18 flo.']
+  - ['Summa der Wagen ist 8. gehört auff jeden 24 flo. thůt', '192 flo.']
+  - ['Summa summarum alles gelts vff Reuter/ Droß vnd wagen ist zusamen', '1434 flo.']
+  cs:
+  - ['Koní je celkem 102; na každého připadá 12 zlatých {flo.}, činí', '1224 zl.']
+  - ['Trénních koní {Drosser} je celkem 3; na každého připadá 6 zlatých, činí', '18 zl.']
+  - ['Vozů je celkem 8; na každý připadá 24 zlatých, činí', '192 zl.']
+  - ['Celkový součet {Summa summarum} všech peněz na jezdce {Reuter}, trénní koně a vozy činí dohromady', '1434 zl.']
+- typ: nadpis
+  uroven: 3
+  de: Musterzettel deren Reutter so Helweck von Rückerßhausen/ vnd Daniel Scheurschloß beworben haben/ vnd gemustert worden auff Mitwochen nach Exaudi/ den 28. tag Mai/ Anno Domini/ 1544.
+  cs: Přehlídkový lístek {Musterzettel} jezdců, které naverbovali Helweck von Rückerßhausen a Daniel Scheurschloß a kteří byli přehlédnuti {gemustert} ve středu po neděli Exaudi, 28. dne května léta Páně 1544.[^3]
+- typ: tabulka
+  de:
+  - ['', 'Daniel Scheurschloß.', '']
+  - ['1', 'hat pferde', '9']
+  - ['', 'wagen', '1']
+  - ['', 'Helwick von Rückerßhausen.', '']
+  - ['2', 'gerüster pferd', '12']
+  - ['', 'droß', '1']
+  - ['', 'wagen', '1']
+  - ['', 'Hanß Wolff von der Dann.', '']
+  - ['3', 'gerüster pferd', '12']
+  - ['', 'kürisser', '1']
+  - ['', 'droß', '1']
+  - ['', 'wagen.', '1']
+  - ['', 'Hanß von Goritz vnd Christoffel Schade.', '']
+  - ['4', 'Gerüster pferde', '12']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['Summa lat.', 'Gerüster pfer.', '45']
+  - ['', 'Kürisser', '1']
+  - ['', 'Drosser', '3']
+  - ['', 'Wagen', '4']
+  - ['', 'Hanß von Volckerßhausen.', '']
+  - ['5', 'Gerüster pferde', '12']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['', 'Bernhart Hondt.', '']
+  - ['6', 'Gerüsterpferd', '10']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['', 'Velten von Rückershausen/ Melchior von Gotzenrade/ Herman von Vrff.', '']
+  - ['7', 'Gerüster pferde', '12']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen.', '1']
+  - ['', 'Frantz von Kran vnd Philips Schenck.', '']
+  - ['8', 'Gerüster pferd', '12']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['Summa lat.', 'Gerüster pferd', '6']
+  - ['', 'Kürisser', '0']
+  - ['', 'Drosser', '4']
+  - ['', 'Wagen', '4']
+  - ['', 'Christoffel Linsing.', '']
+  - ['9', 'Gerüster pferde', '5']
+  - ['', 'Wagen', '½']
+  - ['', 'Rub von Leierbach/ Velten von Merben.', '']
+  - ['10', 'Gerüster pferd', '12']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['', 'Rubert von Merlen.', '']
+  - ['', 'Leo von Löwenstein.', '']
+  cs:
+  - ['', 'Daniel Scheurschloß.', '']
+  - ['1', 'má koní', '9']
+  - ['', 'vozy', '1']
+  - ['', 'Helwick von Rückerßhausen.', '']
+  - ['2', 'zbrojní koně', '12']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Hanß Wolff von der Dann.', '']
+  - ['3', 'zbrojní koně', '12']
+  - ['', 'kyrysníci {kürisser}', '1']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Hanß von Goritz a Christoffel Schade.', '']
+  - ['4', 'zbrojní koně', '12']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['součet strany', 'zbrojní koně', '45']
+  - ['', 'kyrysníci', '1']
+  - ['', 'trénní koně', '3']
+  - ['', 'vozy', '4']
+  - ['', 'Hanß von Volckerßhausen.', '']
+  - ['5', 'zbrojní koně', '12']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Bernhart Hondt.', '']
+  - ['6', 'zbrojní koně', '10']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Velten von Rückershausen, Melchior von Gotzenrade, Herman von Vrff.', '']
+  - ['7', 'zbrojní koně', '12']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Frantz von Kran a Philips Schenck.[^4]', '']
+  - ['8', 'zbrojní koně', '12']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['součet strany', 'zbrojní koně', '6[^5]']
+  - ['', 'kyrysníci', '0']
+  - ['', 'trénní koně', '4']
+  - ['', 'vozy', '4']
+  - ['', 'Christoffel Linsing.', '']
+  - ['9', 'zbrojní koně', '5']
+  - ['', 'vozy', '½']
+  - ['', 'Rub von Leierbach, Velten von Merben.', '']
+  - ['10', 'zbrojní koně', '12']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Rubert von Merlen.', '']
+  - ['', 'Leo von Löwenstein.', '']
+poznamky:
+- n: 1
+  text: Summa lateris – mezisoučet „strany“, tj. úseku rejstříku (v tisku vždy se svorkou); součty nemusí odpovídat celé tištěné stránce, rejstřík je ve dvou sloupcích a čte se nejprve levý, pak pravý sloupec.
+- n: 2
+  text: Droß / Drosser – trénní kůň (s trénním pacholkem) pro zavazadla; v rejstříku se platí polovinou sazby zbrojného koně (6 zl. proti 12 zl.), zpravidla jeden na 12 zbrojných koní.
+- n: 3
+  text: Neděle Exaudi (6. neděle po Velikonocích) připadla roku 1544 na 25. května, následující středa tedy skutečně na 28. května. Jména jezdců ukazují převážně na hesenskou a franskou šlechtu (dnes von der Tann, Urff, Völkershausen, Linsingen, Rückershausen); jména se ponechávají v podobě tisku.
+- n: 4
+  text: V tisku „Krān“ s nadtržením nad a; v rejstříku příjezdného (list 14) stojí „Frantz von Kran“ bez znaménka, proto přepsáno „Kran“ (snad rod von Cramm), čtení nejisté.
+- n: 5
+  text: Tisková chyba – součet položek 5–8 je 46 zbrojných koní (12 + 10 + 12 + 12); s touto hodnotou souhlasí i celkový součet 152 koní na následující straně.

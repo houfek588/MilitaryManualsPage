@@ -1,0 +1,40 @@
+id: 9-016v
+list: 16 (9. kniha)
+strana: verso
+sken: 652
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dann das Hauß gewesen ist / vnnd soll allwegen der Velß mit Holtzwerck vnderbawet werden / vnnd wie oben steht Puluer darunder legen vnd anzünden / wirfft es das gantz Schloß herab / solchs hat mann gebraucht mit dem Schloß Culffer vnd Naplos.
+  cs: |-
+    než sahal dům. Skála se má vždy podepřít dřevěnou výdřevou, a jak stojí výše, má se pod ni položit prach {Puluer} a zapálit; to shodí celý hrad. Tak se postupovalo u hradu Culffer a u Neapole {Naplos}.[^1]
+- typ: odstavec
+  de: |-
+    Auch hett ich schier vergessen euch anzuzeigen / daß mann Wasser von einer Stat oder Flecken bringen kan durch Müllen / die mann vnder die Schantzen macht / vnnd inn die Gräben setzt / so werffen sie das Wasser höher dann der Graben ist / mit solchen Müllen kan mann einen gantzen Graben erschepffen vnd trucken legen.
+  cs: |-
+    Málem bych vám zapomněl ukázat, že vodu od města nebo městečka lze odvést mlýny {Müllen},[^2] které se postaví pod šancemi {Schantzen} a osadí do příkopů {Gräben}. Ty vyhazují vodu výš, než je příkop, a takovými mlýny lze celý příkop vyčerpat a vysušit.
+- typ: odstavec
+  de: |-
+    Jch hab auch gesehen wann ein Stat zum sturm geschossen ward / vnd doch die Gräben mit Wasser so tieff gewesen / daß mann nicht hat künden anlauffen / hat mann Brücken gemacht auff die Wässer mit vil Rädern / die sein hinder der Schantzen gestanden / vnd wann es zum anlauffen kommen ist / so haben die Fußknecht solche Brücken vnder dem hauffen mit geschicklicheit eines mals inn den Graben bracht / doch wann sie inn dem anlauff mit den Brücken sind / muß mann sie mit dem Geschütz entschütten / vnd nicht auffhörn zuschiessen an die ort da jhr die Brücken hin haben wolt / biß solliches volnbracht wirt / wann nun ewer Büchsenmeister sehen werden / daß sie den Maurn vnd Bolwercken des orts dermassen beschlossen / daß nicht vil mehr befestigung alda seien / sollen sie es euch anzeigen / damit jr ewer Volck in ein Ordnung stellen / nachuolgends so sie gerüst seind / sollen sie das gantz Geschütz klein vnd groß eines mals abgehen lassen / vnd gleich darauff anlauffen / darmit ewer Leut dardurch nicht gescheidiget werden.
+  cs: |-
+    Viděl jsem také, že když bylo město prostříleno k útoku {sturm}, ale příkopy byly s vodou tak hluboké, že se nedalo vyrazit do útoku, udělali mosty na vodu s mnoha koly, které stály za šancí. Když došlo na útok, dopravili pěší knechti {Fußknecht} tyto mosty obratně z houfu najednou do příkopu. Když jsou však s mosty v útoku, musí je děla {Geschütz} krýt a nepřestat střílet na místa, kam chcete mosty dostat, dokud to není vykonáno. Až vaši puškaři {Büchsenmeister} uvidí, že hradby a bolverky {Bolwercken} na tom místě rozstříleli[^3] natolik, že tam už mnoho opevnění nezbývá, mají vám to oznámit, abyste svůj lid postavili do šiku {Ordnung}. Potom, až budou připraveni, mají najednou vypálit ze všech děl, malých i velkých, a hned nato se má vyrazit do útoku, aby tím vaši lidé neutrpěli škodu.
+- typ: odstavec
+  de: |-
+    Herr das seind die weg vnd mittel die mir jetzund der zeit einfallen vnnd in die gedechtnuß kommen / ein Statt oder Schloß zubelegern vnd zum stürmen zubeschiessen / Jetzund will ich euch anzeigen / was für Ordnung im stürmen vnd anlauffen gehalten werden soll / vnd ist vil besser an zwei oder drei orten anzulauffen dann an einem / wann nun solches geschicht / förcht ein jeglicher die Stat werde gewonnen an einem andern ort da er wehrt / vnd künden sich nicht anderst dann mit grosser forcht wehren / vnnd nicht möglich wann sie das jemmerlich geschrei der Frawen vnnd Kinder hören so sehen sie hinder sich vnd würden verzagt / vnnd dardurch offt ein Fleck gantz leichtlich vnd gering erobert wirt.
+  cs: |-
+    Pane, to jsou cesty a prostředky, které mě nyní napadají a přicházejí mi na mysl, jak město nebo hrad obléhat a prostřílet k útoku. Nyní vám ukážu, jaký pořádek se má zachovávat při útoku a výpadu na hradby. Je mnohem lepší útočit na dvou nebo třech místech než na jednom. Když se tak stane, bojí se každý, že město bude dobyto na jiném místě, než kde se brání, a mohou se bránit jen s velkým strachem. A když uslyší žalostný křik žen a dětí, nemohou jinak, než se ohlížet za sebe a ztrácet odvahu, a tím se často městečko dobude zcela snadno a bez námahy.
+- typ: odstavec
+  de: |-
+    Wann yhr wolt gantz leicht vnnd gering stürmen / solt yhr das gantz Heer inn ein Ordnung stellen / vnnd wie oben gemelt an so vil orten angreiffen als yhr kündet / vnnd auff das wenigest an
+  cs: |-
+    Chcete-li útočit zcela snadno a bez velké námahy, máte celé vojsko {Heer} postavit do šiku a, jak bylo řečeno výše, zaútočit na tolika místech, kolik jen dokážete, nejméně však na
+poznamky:
+- n: 1
+  text: „Naplos“ je patrně Neapol – roku 1503 tam Pedro Navarro podkopy vyhodil do povětří hradby Castel Nuovo a Castel dell'Ovo; „Culffer“ se nepodařilo spolehlivě určit.
+- n: 2
+  text: Míněna jsou vodní kola, resp. čerpadla poháněná jako mlýn, která vodu z příkopu přečerpávají.
+- n: 3
+  text: Tisk má „beschlossen“, zjevně tisková chyba místo „beschossen“ (ostřelovali).

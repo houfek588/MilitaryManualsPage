@@ -1,0 +1,222 @@
+id: 6-010v
+list: 10 (6. kniha)
+strana: verso
+sken: 512
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - - '9'
+    - Sechs drometer vnd jeder zum vbersold 12 flo. thůt
+    - 72 flo.
+  - - '10'
+    - Drei fendrichen jeglichem 24 flo. auff sein ampt/ thůt
+    - 72 flo.
+  - - '11'
+    - Dem schützhauptman auff sein ampt
+    - 50 flo.
+  - - '12'
+    - Zwölff Drabanten jeglichem 8 flo. thůt den zwölffen
+    - 96 flo.
+  - - ''
+    - Summa lat.
+    - 290 flo.
+  - - ''
+    - summarum des stats
+    - 2155 flo.
+  - - ''
+    - |-
+      summa summarum derer Musterzetel sampt dem Fürstlichen stat/ ist alles zusamen
+    - '12817.'
+  - - ''
+    - summarum aller pferd/ ist
+    - '713'
+  - - ''
+    - summarum aller Kürisser
+    - '31'
+  - - ''
+    - summarum der Drosser/ ist
+    - '50'
+  - - ''
+    - summarum aller wagen ist
+    - 58½.
+  cs:
+  - - '9'
+    - |-
+      Šest trubačů {drometer}, každému jako přeplatek {vbersold} 12 zlatých {flo.}, činí
+    - 72 zl.
+  - - '10'
+    - Tři praporečníci {fendrichen}, každému 24 zlatých na jeho úřad, činí
+    - 72 zl.
+  - - '11'
+    - Hejtmanovi střelců {schützhauptman} na jeho úřad
+    - 50 zl.
+  - - '12'
+    - Dvanáct drabantů {Drabanten}, každému 8 zlatých, činí na všech dvanáct
+    - 96 zl.
+  - - ''
+    - součet strany {Summa lat.}
+    - 290 zl.
+  - - ''
+    - součet stavu {stats}
+    - 2155 zl.
+  - - ''
+    - |-
+      celkový součet {summa summarum} přehlídkových lístků {Musterzetel} i s knížecím stavem činí vše dohromady
+    - 12817 [zl.]
+  - - ''
+    - součet všech koní
+    - '713'
+  - - ''
+    - součet všech kyrysníků {Kürisser}
+    - '31'
+  - - ''
+    - součet trénních koní {Drosser}
+    - '50'
+  - - ''
+    - součet všech vozů
+    - 58½
+- typ: odstavec
+  de: Vnd laufft sich die samma sampt des Fürsten stat wie obstehet.
+  cs: Tak činí úhrnná suma i s knížecím stavem, jak stojí výše.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Register des Anreitens/ auch wieuil solches an gelt derer Reutter tregt so vnder dem durchleuchtigen/ hochgebornen Fürsten vnd Herrn/ Herrn Moritzen zu Sachssen/ etc. ziehen/ Durch die wolgebornen/ Edlen/ Vesten Herrn Reinharten Grauen zu Solms/ etc. vnd Christoffeln von Schawenburg/ etc. als verordnete Commissarien/ des 28 tag Mai/ Anno/ etc. gemustert/ biß auff obgemelten tag der Bestallung nach/ Inhalt des Registers abgezalt vnd verglichen.
+  cs: |-
+    Rejstřík příjezdu {Anreitens} a také kolik to činí na penězích u jezdců {Reutter}, kteří táhnou pod osvíceným, vysoce urozeným knížetem a pánem, panem Mořicem Saským atd. Urození, vznešení a stateční páni Reinhart hrabě ze Solmsu atd. a Christoffel von Schawenburg atd. je jako ustanovení komisaři {Commissarien} 28. dne května léta atd. přehlédli a až do výše uvedeného dne jim podle služebního listu {Bestallung} a podle obsahu rejstříku vyplatili a vyúčtovali [příjezdné].[^1]
+- typ: tabulka
+  de:
+  - - ''
+    - Andres Pflügen des Hauptmans vnd seiner Reisigen anritgelt.
+    - ''
+  - - '1'
+    - |-
+      Item hat er 13 tag gereist vnd stilgelegen mit 13 pferden/ thůt das pferdt jeden tag 6 batzen/ macht an gelt
+    - 67 flo. 9 batzen/
+  - - ''
+    - Item einem Droß
+    - 2 flo. 9 batzen/
+  - - ''
+    - Eim Wagen
+    - 9 flo. 9 batzen.
+  - - ''
+    - summa
+    - 79 gulden 12 batzen.
+  - - ''
+    - Graue Hanß Albrechten von Manßfeld.
+    - ''
+  - - '2'
+    - |-
+      Item ist 18 tag gereist vnd stilgelegen mit 12 pferden/ thůt jeden tag jeglichem pferdt 6 batzen/ machen 12 pferdt 18 tag
+    - 86 flo. 6 batzen/
+  - - ''
+    - Einem Droß
+    - 3 flo. 9 batzen/
+  - - ''
+    - Einem wagen
+    - 14 flo. 6 batz.
+  - - ''
+    - summa
+    - 104 gulden 6 batzen.
+  - - ''
+    - Herr Ernst von Schamberg.
+    - ''
+  - - '3'
+    - |-
+      Item hat 18 tag mit 12 pferden gereist vnd stilgelegen/ thůt jedem pferdt jeden tag zu 6 batzen zusamen
+    - 85 flo. 6 batzen/
+  - - ''
+    - Einem Droß
+    - 3 gulden 9 batzen/
+  - - ''
+    - Einem wagen
+    - 14 gulden 9 batzen.
+  - - ''
+    - summa
+    - 103 gulden 9 batzen
+  - - ''
+    - Graue Christoffel/ etc.
+    - ''
+  - - '4'
+    - |-
+      Item 12 tag mit 15 pferden gereist vnd stilgelegen/ thůt jedem pferd allen tag zu 6 batzen/
+    - 72 gulden
+  - - ''
+    - Einem Droß
+    - 2 gulden 6 batzen/
+  - - ''
+    - Einem Wagen
+    - 9 gulden 9 batzen/
+  cs:
+  - - ''
+    - |-
+      Příjezdné {anritgelt} hejtmana {Hauptmans} Andrese Pflüga a jeho jezdců {Reisigen}.
+    - ''
+  - - '1'
+    - |-
+      Dále: byl 13 dní na cestě a ve stání se 13 koňmi {pferden}; na koně připadá každý den 6 bacenů {batzen}, činí na penězích
+    - 67 zl. 9 bac.
+  - - ''
+    - 'Dále: na jednoho trénního koně {Droß}'
+    - 2 zl. 9 bac.
+  - - ''
+    - na jeden vůz {Wagen}
+    - 9 zl. 9 bac.
+  - - ''
+    - suma
+    - 79 zlatých {gulden} 12 bacenů
+  - - ''
+    - Hrabě Hanß Albrecht von Manßfeld.
+    - ''
+  - - '2'
+    - |-
+      Dále: byl 18 dní na cestě a ve stání s 12 koňmi; na každého koně připadá každý den 6 bacenů, činí za 12 koní a 18 dní
+    - 86 zl. 6 bac.
+  - - ''
+    - na jednoho trénního koně
+    - 3 zl. 9 bac.
+  - - ''
+    - na jeden vůz
+    - 14 zl. 6 bac.
+  - - ''
+    - suma
+    - 104 zlatých 6 bacenů
+  - - ''
+    - Pan Ernst von Schamberg.
+    - ''
+  - - '3'
+    - |-
+      Dále: byl 18 dní s 12 koňmi na cestě a ve stání; na každého koně připadá každý den 6 bacenů, činí dohromady
+    - 85 zl. 6 bac.[^2]
+  - - ''
+    - na jednoho trénního koně
+    - 3 zlaté 9 bacenů
+  - - ''
+    - na jeden vůz
+    - 14 zlatých 9 bacenů
+  - - ''
+    - suma
+    - 103 zlatých 9 bacenů
+  - - ''
+    - Hrabě Christoffel atd.
+    - ''
+  - - '4'
+    - |-
+      Dále: 12 dní na cestě a ve stání s 15 koňmi; na každého koně připadá každý den 6 bacenů
+    - 72 zlatých
+  - - ''
+    - na jednoho trénního koně
+    - 2 zlaté 6 bacenů
+  - - ''
+    - na jeden vůz
+    - 9 zlatých 9 bacenů
+poznamky:
+- n: 1
+  text: |-
+    Jedním z přehlídkových komisařů byl sám autor, Reinhard hrabě ze Solmsu. Rejstřík vyúčtovává příjezdné (peníze na cestu k přehlídce) podle dní, kdy jezdci „cestovali a stáli“ (gereist vnd stilgelegen); sazba činí 6 bacenů na zbrojného koně, 3 bacenů na trénního koně a 12 bacenů na vůz denně (15 bacenů = 1 zlatý).
+- n: 2
+  text: |-
+    Při 18 dnech a 12 koních by mělo vyjít 86 zl. 6 bac. (jako u položky 2) a u vozu 14 zl. 6 bac.; tisk uvádí 85 zl. 6 bac. a 14 zl. 9 bac., suma 103 zl. 9 bac. však s tištěnými čísly souhlasí.

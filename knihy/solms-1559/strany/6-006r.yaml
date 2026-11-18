@@ -1,0 +1,60 @@
+id: 6-006r
+list: 6 (6. kniha)
+strana: recto
+sken: 503
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    creutzer für jr anrit gelt bezalt werden / vnd einem 4 tag zu ziehen / vnd den 5 still zuliegen erlauben / vnd eins jeden ziehenden tags vier meilen zu reitten schuldig sein.
+  cs: |-
+    krejcarů {creutzer} jako jejich příjezdné {anrit gelt}. Má se jim dovolit čtyři dny táhnout a pátý den odpočívat a každý pochodový den jsou povinni ujet čtyři míle {meilen}.
+- typ: odstavec
+  de: |-
+    Item es soll die besoldung nach geschehener musterung auff den musterplatz angehn / vnd als bald vff die handt ein gantzen monatsold gegeben / darnach alwegen monatlich einmal bezalt werden / wo das gelt aber von vngefehr 5.10. oder 15. tag verblieb / sollen sie gedult tragen vnd nit desto weniger thůn als das Reisigen ehrlichen Kriegßleuten wol ansteht / vnd als ob sie das gelt empfangen hetten.
+  cs: |-
+    Dále má služné začít běžet po vykonané přehlídce na přehlídkovém místě {musterplatz}; hned se má dát do ruky celý měsíční žold {monatsold} a potom se má platit vždy jednou měsíčně. Kdyby se však peníze náhodou o 5, 10 nebo 15 dní opozdily, mají mít strpení a přesto si počínat tak, jak dobře sluší jezdcům {Reisigen} a čestným válečníkům {Kriegßleuten}, jako by peníze obdrželi.
+- typ: odstavec
+  de: |-
+    Item sollen auch 30 tag für ein monat zu dienen schuldig sein / etc.
+  cs: |-
+    Dále jsou také povinni sloužit 30 dní za jeden měsíc atd.
+- typ: odstavec
+  de: |-
+    Obgemelt 1000 pferd vnd Reisigen mit sampt jrer zugehörde sollen vns wider alle vnsere feinde / niemands außgenomen / zu dienen schuldig sein / allein gedachter vnser Oheim vnd Fürst Hertzog Moritz etc. für seiner lieb eigen person / außgenomen vnd vorbehalten sein erbeinigungs Fürsten der Augspurgischen Confession verwandt.
+  cs: |-
+    Uvedených 1000 koní a jezdců i s jejich příslušenstvím je povinno sloužit nám proti všem našim nepřátelům, nikoho nevyjímaje; jen náš jmenovaný strýc {Oheim} a kníže vévoda Mořic atd. má pro svou vlastní osobu vyhrazena a vyňata knížata spojená s ním dědičnou smlouvou {erbeinigungs Fürsten}, stoupence augsburského vyznání.[^1]
+- typ: odstavec
+  de: |-
+    Sollen vns auch 3 Monat oder wie lang wir jrer bedürfftig zudienen schweren / doch wann die 3 bestimpte Monat außsein vnd wir jrer lenger begern / sollen sie vns in voriger besoldung lenger vnd nach vnserm gefallen sich brauchen zu lassen / zu dienen schuldig sein / doch das mit jnen vor außgang deß 3 Monats derhalben gehandelt werde.
+  cs: |-
+    Také nám mají přísahat, že budou sloužit 3 měsíce nebo tak dlouho, jak je budeme potřebovat. Když však 3 stanovené měsíce uplynou a my je budeme žádat déle, jsou povinni nám sloužit déle za dosavadní služné a dát se užívat podle naší vůle; jednat se s nimi o tom však má před uplynutím třetího měsíce.
+- typ: odstavec
+  de: |-
+    Wo obgedachten Reisigen nach jrem anrit innerhalb vnd vor außgang der 3 Monat geurlaubt würden / soll doch nit desto weniger jnen die 3 monatlich völlige besoldung außgericht vnnd bezalt werden / so wir aber jrer nit mehr bedürfftig / vnnd jnen vrlaub geben / sollen wir jnen ein gantzen Monatsold für den abzug bezallen vnd reichen.
+  cs: |-
+    Kdyby jmenovaní jezdci byli po svém příjezdu propuštěni ještě během tří měsíců a před jejich uplynutím, má se jim přesto vyplatit a zaplatit plné služné za tři měsíce. Když je už nebudeme potřebovat a propustíme je, máme jim zaplatit a vydat celý měsíční žold jako odchodné {abzug}.
+- typ: odstavec
+  de: |-
+    Sie sollen vnsere Vnderthonen vnd verwanden / wer die sein niemands außgenomen / im an vnd abzug / auch sonst in keinerlei weg / bescheidigen / sonder jederman gütliche bezallung thůn / biß sie gegen den Feinden zu felt ligen / dann mögen sie Füterung suchen vnd gebrauchen / doch sollen sie vō den Wirten vngebürlich nit beschwert werden.
+  cs: |-
+    Naše poddané a spojence, ať jsou to kdokoli, nikoho nevyjímaje, nemají při příchodu ani odchodu ani jinak žádným způsobem poškozovat, nýbrž mají každému řádně platit, dokud nebudou ležet v poli proti nepřátelům; pak smějí hledat a užívat píci {Füterung}. Hostinští je však nemají nepřiměřeně zatěžovat.
+- typ: odstavec
+  de: |-
+    So Obersten Veldhauptleut von den feinden nidergelegt / gefangen vnd erobert würden / sollen dieselben mit jren personen zu vnsern oder vnsers Obersten handen gestelt werden / wo aber ausserhalb der obgemelten Obersten Veldhauptleut andere personen gefangen würden / die mag ein jeder der sie niderwirfft schetzen / vnd damit nach seinem gefallen handeln / doch sollen solche gafangen von stundtan dem oberstersten Veldhauptman angezeigt / vnd on sein wissen vnnd verwilligung nicht ledig gegeben werden.
+  cs: |-
+    Kdyby byli přemoženi, zajati a dobyti nejvyšší polní hejtmani {Obersten Veldhauptleut} nepřátel, mají být osobně vydáni do našich rukou nebo do rukou našeho plukovníka {Obersten}. Budou-li však zajaty jiné osoby mimo uvedené nejvyšší polní hejtmany, smí je každý, kdo je přemůže, zatížit výkupným {schetzen} a naložit s nimi podle své vůle. Takoví zajatci však mají být ihned ohlášeni nejvyššímu polnímu hejtmanovi a bez jeho vědomí a svolení nesmějí být propuštěni na svobodu.[^2]
+- typ: odstavec
+  de: |-
+    Stätt / Schlösser / Flecken / Dörffer vnd Leut / auch was von grossem Geschütz vnd derselbigen zugehörigen Munition darinn erobert
+  cs: |-
+    Města, zámky, městečka, vsi a lidé, jakož i velká děla {grossem Geschütz} a k nim příslušná munice {Munition}, které by v nich byly dobyty,
+poznamky:
+- n: 1
+  text: |-
+    Dědičná smlouva (Erbeinung) spojovala saské Wettiny s hesenskými lantkrabaty a braniborskými Hohenzollerny; Mořic tak nemusel táhnout proti spojeným, převážně luterským knížatům. Výhrada ukazuje napjatou náboženskou situaci v říši dva roky před šmalkaldskou válkou.
+- n: 2
+  text: |-
+    „Oberstersten“ je tisková chyba za „obersten“. Výkupné za zajatce náleželo tomu, kdo ho zajal; jen nejvyšší velitelé nepřítele byli vyhrazeni císaři.

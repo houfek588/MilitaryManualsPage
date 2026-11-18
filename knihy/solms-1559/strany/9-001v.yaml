@@ -1,0 +1,40 @@
+id: 9-001v
+list: 1 (9. kniha)
+strana: verso
+sken: 622
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ein Kriegs verstendiger gewesen/ der Gott beuor vnnd zum ersten vor sich in seiner beschreibung genommen hat/ als mit dem das kein Herr ein Krieg vor sich nemen soll/ wie er desselbigen gnůgsam außfürung zum ersten thůt/ zum andern was einer ehren halben thůn muß/ zum dritten was einer verpflicht ist zuthůn/ Wolt Gott daß wir alle an dises löblichen Fürsten erinderung vnnd beschreibung gedechten vnd behertzigten/ vnser pflicht in dem nit vergessen/ vnnd also freuentlich in die Krieg begeben/ die erstlich nicht Göttlich vnd darinn nicht getrungen werden.
+  cs: |-
+    znalcem války, který si ve svém popisu postavil Boha předem a na první místo. Za prvé [stanovil], že žádný pán nemá podnikat válku, dokud ji nejprve dostatečně nezdůvodní;[^1] za druhé, co musí člověk činit kvůli cti; za třetí, k čemu je povinen. Dej Bůh, abychom všichni pamatovali na napomenutí a popis tohoto chvályhodného knížete a vzali si je k srdci, abychom přitom nezapomínali na svou povinnost a nepouštěli se tak svévolně do válek, které předně nejsou bohulibé a k nimž nejsme nuceni.
+- typ: odstavec
+  de: |-
+    Zum andern daß wir vns nit in Krieg begeben/ die vnser ehr disputirlich machen/ dann kein adellicher noch ritterlicher man sol jm nichts zu lieb sein lassen/ nemlich gelt/ das er sich vmb desselbigen willen in solche gefahr/ vnd sein ehr daruon er den tittel hat als Gestreng vnd Ehrnuest zu disputiren geben wöl/ vnd die gefahr stehn daß jm sein ehr ab erkant werden mag/ vnd für ein vnehrlichen man geacht vnd gehalten solt werden.
+  cs: |-
+    Za druhé, abychom se nepouštěli do válek, které by naši čest učinily spornou. Žádnému šlechtici ani rytířskému muži totiž nemá být nic tak milé – totiž peníze –, aby se kvůli nim vydal do takového nebezpečí a dal v pochybnost svou čest, od níž má titul „statečný“ a „slovutný“ {Gestreng vnd Ehrnuest},[^2] a podstoupil nebezpečí, že mu čest může být odňata a že by byl považován a pokládán za bezectného muže.
+- typ: odstavec
+  de: |-
+    Zum dritten soll ein jeglicher ritterlicher man seine verpflichtung ansehen/ wie er dem Reich vnd Keyser als dem haupt verpflicht sei.
+  cs: |-
+    Za třetí má každý rytířský muž zvážit svůj závazek {verpflichtung}: jak je zavázán říši a císaři jako [její] hlavě.
+- typ: odstavec
+  de: |-
+    Zum vierdten wie er seinem Lands Fürsten verpflicht sei/ vnnd wie weit/ mit was maß sich dieselbig verpflichtung erstreckt.
+  cs: |-
+    Za čtvrté, jak je zavázán svému zemskému knížeti a jak daleko a v jaké míře tento závazek sahá.
+- typ: odstavec
+  de: |-
+    Zum fünfften was jn Briff/ Sigel/ vertreg vnd zusagung binden/ vnd er derhalben erindert werden mag/ Solchs soll ein adelliche vnd rittermessige Person für sich nemen zu bedencken vnnd besehen war in er sich begeben wöl/ vnd zů sag daß solche zů sagung oder vertrege vnd verpflichtung nicht wider einander seien/ vnd auff beiden seitten gespant sein/ vor ein jedes rede vnd antwort geben müst/ vnd an beiden zuuil gethan hett/ Darumb laß ich disen löblichen Fürsten wol in seinem schreiben hohe erinderung thůn/ dann wie ich das seiner Fürstlichen Gnaden schreiben/ bericht vnd erinderung verstehe/ so schreibt Ir Fürst. G. verstendig/ ehrlich vnd erinderlich daruon/ wie das schreiben mit sich bringt/ vnnd außfürung thůn wirt/ darinn ein jeder ehrlichen verstendiger Leser sich selber des grunds vnd warheit zu berichten finden wirt.
+  cs: |-
+    Za páté, k čemu ho zavazují listy, pečeti, smlouvy a sliby a nač mu proto může být připomínáno. To má šlechtická a rytířská osoba uvážit a zvážit, kam se chce vydat a co slibuje, aby takové sliby, smlouvy a závazky nebyly vzájemně v rozporu a aby nebyla sevřena z obou stran, takže by musela každé straně skládat počet a odpovídat a vůči oběma by se provinila. Proto nechávám tohoto chvályhodného knížete, aby to ve svém spise sám vznešeně připomenul. Jak totiž rozumím spisu, zprávě a napomenutí Jeho knížecí Milosti, píše o tom Jeho knížecí Milost rozumně, čestně a k užitečnému napomenutí, jak spis sám ukazuje a vyloží; v něm každý čestný a rozumný čtenář sám nalezne, jak se poučit o podstatě a pravdě věci.
+poznamky:
+- n: 1
+  text: |-
+    Místo *wie er desselbigen gnůgsam außfürung zum ersten thůt* je nejasné; překládáno ve smyslu Filipovy kapitoly o spravedlivé válce (válku lze začít jen se spravedlivou a dostatečně doloženou příčinou), srov. [[9-002v|list 2v]].
+- n: 2
+  text: |-
+    *Gestreng* a *Ehrnuest* (*ehrenfest*) – ustálené dobové přídomky v oslovení rytířů a nižší šlechty (česky obvykle „urozený a statečný“, „slovutný“).

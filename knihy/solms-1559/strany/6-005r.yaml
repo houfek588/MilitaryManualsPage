@@ -1,0 +1,73 @@
+id: 6-005r
+list: 5 (6. kniha)
+strana: recto
+sken: 501
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Wir Karl / etc.
+  cs: |-
+    My, Karel atd.
+- typ: odstavec
+  de: |-
+    VErzeichnuß / Stat vnd Articul daruff wir dem Hochgebornen Moritzen Hertzogen zů Sachssen / etc. vnserm lieben Oheim vnd Fürsten / vnd vnserm Obersten vber 1000. gerüster pferd vnd reisigen bestelt haben. Erstlich soll vns vnser Oheim vnd Fürst biß in 1000. gůter / gerüster vnd reisiger Reutter vnd pferde zůfürn / darunder 800. Spiesser / vnd vnder denselbigen zum wenigsten 50. Kürisser mit gantzen Barssen vnd verdeckten hengsten / vnd 200. schützen sein sollen.
+  cs: |-
+    Soupis, stav {Stat} a články {Articul}, na něž jsme najali vysoce urozeného Mořice, vévodu saského atd., našeho milého strýce {Oheim} a knížete, jako našeho plukovníka {Obersten} nad 1000 zbrojnými koňmi {gerüster pferd} a jezdci {reisigen}.[^1] Předně nám má náš strýc a kníže přivést až 1000 dobrých, vyzbrojených jezdců {Reutter} a koní; z toho má být 800 kopiníků {Spiesser}, mezi nimi nejméně 50 kyrysníků {Kürisser} s celými bardami {Barssen} a hřebci v koňské zbroji {verdeckten hengsten}, a 200 střelců {schützen}.
+- typ: odstavec
+  de: |-
+    Die Spiesser sollen mit jren gůten Helmlin oder Hauptharneschen die gůt visier haben / vnd wol beschlossen sein mit stehlen krägen / Armzeug / rücken krebs / Schurtz / Kniebüglin oder Dielingen / odder an der armzeug stat mit gůten pantzer Ermel sampt stehlen büglin vff langen Achsseln / Deßgleichen die Schützen mit gůten Knebelspiessen langen Händtschůhen stelen krägen vnd gůten Feurbüchsen die mit aller notturfft vnd starcken schüssen verfast / auch Schurtz / Ermel / Kragen Händtschůch / Rücken vnd Krebsen / auch mit gůten steln hauben gerüst / gefast / geschickt seien.
+  cs: |-
+    Kopiníci mají mít své dobré přilbice {Helmlin} či přilby {Hauptharneschen} s dobrým hledím {visier} a být dobře uzavřeni [ve zbroji]: s ocelovými límci {krägen}, brněním paží {Armzeug}, hřbetním plátem a krunýřem {rücken krebs}, šorcem {Schurtz}, nákolenky {Kniebüglin} nebo stehenními pláty {Dielingen}, anebo místo brnění paží s dobrými kroužkovými rukávy {pantzer Ermel} a ocelovými plátky {büglin} na dlouhých nárameních {Achsseln}. Rovněž střelci mají být vyzbrojeni, vybaveni a vypraveni dobrými kopími s příčkou {Knebelspiessen}, dlouhými rukavicemi {Händtschůhen}, ocelovými límci a dobrými palnými puškami {Feurbüchsen}, opatřenými vším potřebným a schopnými silných výstřelů, dále šorcem, rukávy, límcem, rukavicemi, hřbetním plátem a krunýřem a také dobrými ocelovými lebkami {hauben}.[^2]
+- typ: odstavec
+  de: |-
+    Vnder disen 1000. pferden sollen zwei / vnd den 200. schützen ein Fendlin gehalten werden.
+  cs: |-
+    Pod těmito 1000 koňmi mají být drženy dvě korouhve {Fendlin} a pod 200 střelci jedna.
+- typ: odstavec
+  de: |-
+    Es soll gedachtem vnserm Oheim vnnd Fürsten auff souil reisig Pferde vnd Reisigen / als in der musterung gůt gemacht / monatlich souil gulden für den Hauptmans gulden bezalt werden.
+  cs: |-
+    Našemu jmenovanému strýci a knížeti se má měsíčně vyplácet tolik zlatých jako hejtmanský zlatý {Hauptmans gulden}, kolik jízdních koní a jezdců bude při přehlídce {musterung} uznáno.[^3]
+- typ: odstavec
+  de: |-
+    Es soll seiner Lieb auff derselben Leutenampts halben / monatlich 100. gulden entricht vnd vergnügt werden.
+  cs: |-
+    Jeho Milosti {Lieb} se má za poručický úřad {Leutenampts} měsíčně odvádět a platit 100 zlatých.
+- typ: odstavec
+  de: |-
+    Auff obgemelte 1000. pferd die also gemustert werden / sollen seiner Lieb ein Romormeister / Quartirmeister / Wachtmeister / Prouiantmeister / Leibartz / vnd Wundtartz gehalten / vnnd monatlich auff ein jeden 40. gulden bezalt werden.
+  cs: |-
+    Na uvedených 1000 koní, kteří budou takto přehlédnuti, mají být Jeho Milosti drženi rumormistr {Romormeister}, kvartýrmistr {Quartirmeister}, vachmistr {Wachtmeister}, proviantmistr {Prouiantmeister}, osobní lékař {Leibartz} a ranhojič {Wundtartz} a každému se má měsíčně platit 40 zlatých.
+- typ: odstavec
+  de: |-
+    Auff dieselben 1000. pferd ein Caplon / Fürer / Schreiber vnd sechs Trometer gehalten / vnd monatlich auff ein jeden ein vbersold neben seiner in der musterung gůt gemachten gesoldung bezalt werden.
+  cs: |-
+    Na týchž 1000 koní mají být drženi kaplan {Caplon}, vůdce {Fürer}, písař {Schreiber} a šest trubačů {Trometer} a každému se má měsíčně platit přeplatek {vbersold} vedle jeho žoldu uznaného při přehlídce.
+- typ: odstavec
+  de: |-
+    Je auff ein Ritmeister vber 200. pferde zwen Trabanten gehalten / das macht auff 5. Ritmeister oder 1000. pferde 10. Trabanden / welche monatlich mit 8. gulden bezalt werden sollen.
+  cs: |-
+    Vždy na jednoho rytmistra {Ritmeister} nad 200 koňmi mají být drženi dva drabanti {Trabanten}; to činí na 5 rytmistrů neboli 1000 koní 10 drabantů, kteří mají být placeni měsíčně 8 zlatými.
+- typ: odstavec
+  de: |-
+    Denen so gemelte 3. Fendlin als Fendrichen beuolhen werden sollen / zů jrer in der musterung gůt gemachten besoldung dises Fendrichs ampts halber / einem jeden monatlich 24. flo. bezalt werden.
+  cs: |-
+    Těm, jimž budou uvedené 3 korouhve svěřeny jako korouhevníkům {Fendrichen}, se má k jejich služnému uznanému při přehlídce za tento praporečnický úřad platit každému měsíčně 24 zl.
+- typ: odstavec
+  de: |-
+    Item sollen gedachtem vnserm Oheim vnd Fürsten auff den hauptman den die 200. Schützen als Hauptmäner beuolhen werden / neben seiner bestimpten gemusterten besoldung / des Schützen Hauptmans beuelch halben / monatlich 50. flo. entricht werden.
+  cs: |-
+    Dále se má našemu jmenovanému strýci a knížeti odvádět na hejtmana {hauptman}, jemuž bude 200 střelců svěřeno jako hejtmanovi, vedle jeho stanoveného služného z přehlídky měsíčně 50 zl. za velení střeleckého hejtmana.
+poznamky:
+- n: 1
+  text: |-
+    Služební list Karla V. pro Mořice Saského, datovaný ve Špýru 9. dubna 1544 (viz [[6-006v|list 6v]]). „Oheim“ (strýc) je obvyklé panovnické oslovení říšských knížat, nikoli označení skutečného příbuzenství.
+- n: 2
+  text: |-
+    Popis jezdecké zbroje: přilba s hledím, ocelový límec (obojek), brnění paží, krunýř s hřbetem, šorc (plátová suknice), nákolenky (Kniebuckel) nebo stehenní pláty (Diechlinge), případně místo plátového brnění paží kroužkové rukávy s nárameníky. Střelci (jízdní pistolníci a arkebuzíři) mají lehčí výzbroj, „Knebelspieß“ (kopí s příčným ozubem pod hrotem) a palné pušky (zřejmě s kolečkovým zámkem); „Feurbüchsen“ zde neznamená ohnivý moždíř.
+- n: 3
+  text: |-
+    Hejtmanský zlatý: plukovníkovi náleží měsíčně jeden zlatý za každého uznaného koně, stejně jako rytmistrovský zlatý v obecném služebním listu ([[6-002r|list 2r]]).

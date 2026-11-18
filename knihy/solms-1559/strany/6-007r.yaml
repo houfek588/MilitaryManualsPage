@@ -1,0 +1,191 @@
+id: 6-007r
+list: 7 (6. kniha)
+strana: recto
+sken: 505
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Des alles zu vrkundt haben wir dise verzeichnuß Stat vnd Articul mit vnser eigen handt vnderschriben / vnd mit vnserm auffgetruckten Insigel besigeln lassen / Geben in vnser vnnd des Reichs Statt Speir / am neunden tag Aprilis / Anno / etc. im vierundviertzigsten / vnsers Keiserthumbs im vierundzwentzigsten / vnd vnserer Reich im neunvndzwentzigsten.
+  cs: |-
+    Na doklad toho všeho jsme tento soupis, stav {Stat} a články {Articul} podepsali vlastní rukou a dali zpečetit svou přitištěnou pečetí {Insigel}. Dáno v našem a říšském městě Špýru devátého dne měsíce dubna léta atd. čtyřicátého čtvrtého, našeho císařství ve dvacátém čtvrtém a našich království v dvacátém devátém [roce].[^1]
+- typ: odstavec
+  de: |-
+    Verung mündtlicher abrede vnd vereinigung / gibt die Keis. Mai. jr Fürs. Gna. auff jr Dafel monatlich dreihundert gulden zu fünfftzehen batzen / oder zu fünffvndzwentzig Stübern gerechnet / zu allem obgemeltem.
+  cs: |-
+    Podle ústní úmluvy a dohody dává Jeho císařské Veličenstvo Jeho knížecí Milosti na její tabuli {Dafel} měsíčně tři sta zlatých {gulden}, počítaných po patnácti bacenech {batzen} nebo po pětadvaceti stüverech {Stübern}, nad všechno výše uvedené.[^2]
+- typ: odstavec
+  de: |-
+    Item auff zwölff Trabanten so auff seiner Fürstlichen Gnaden leib warten jedem monatlich acht gulden / thůt neuntzig sechs guld.
+  cs: |-
+    Dále na dvanáct drabantů {Trabanten}, kteří slouží při osobě Jeho knížecí Milosti, každému měsíčně osm zlatých, což činí devadesát šest zlatých.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Muster Register solcher Reutter vnd Reisigen / so der durchleuchtig / hochgeborn Fürst vnd Herr / Herr Moritz Hertzog zu Sachssen / etc. Keis. Maies. Oberster in jrer Maies. dienst fürt / Vnd durch die wolgebornen Edlen / Vesten / Reinharten Grauen zu Solms / etc. vnd Christoffeln von Schawenburg / etc. als verordneten Commissarien bei Franckfurt gemustert / derer Reutter Monat auff Mitwochen den 28. tag Mai / Anno 1544. angefangen.
+  cs: |-
+    Přehlídkový rejstřík {Muster Register} jezdců {Reutter} a jízdních mužů {Reisigen}, které osvícený a vysoce urozený kníže a pán, pan Mořic, vévoda saský atd., plukovník {Oberster} Císařského Veličenstva, vede ve službě Jeho Veličenstva a které u Frankfurtu přehlédli urození, vznešení a stateční Reinhart, hrabě ze Solmsu atd., a Christoffel von Schawenburg atd. jako ustanovení komisaři {Commissarien}; měsíc [služby] těchto jezdců začal ve středu 28. května léta 1544.
+- typ: nadpis
+  uroven: 3
+  de: Muster Zettel.
+  cs: Přehlídková cedule {Muster Zettel}.
+- typ: tabulka
+  de:
+  - - '1'
+    - |-
+      Hertzog Moritzen zu Sachssen / etc. Hofgesinde vnd Reutter auff jrer gnaden leib wartende / gemustert Donnerstag den 29. Mai.
+    - ''
+  - - ''
+    - Gerüster pferde
+    - '24'
+  - - ''
+    - Kürisser
+    - '3'
+  - - ''
+    - Drosser
+    - '2'
+  - - ''
+    - Wagen 8. sind gůt gemacht
+    - '4'
+  - - ''
+    - Des Fürsten Cappellan Pferde
+    - '1'
+  - - ''
+    - Des Fürsten Foriers pferde
+    - '1'
+  - - ''
+    - Des Fürsten Schreiber pferde
+    - '1'
+  - - ''
+    - Des Fürsten 6 Drometer pferd
+    - '6.'
+  - - '2'
+    - Herr Ot von Dißkaw.
+    - ''
+  - - ''
+    - Gerüster pferde
+    - '6'
+  - - ''
+    - Drosser
+    - '1'
+  - - ''
+    - Wagen
+    - '1'
+  - - '3'
+    - Jörg von Dannenberg.
+    - ''
+  - - ''
+    - Gerüster pferde
+    - '15'
+  - - ''
+    - Kürisser
+    - '1'
+  - - ''
+    - Drosser
+    - '1'
+  - - ''
+    - Wagen.
+    - '1'
+  - - ''
+    - Nota 6. flo. vberlengende auff 3. pferde.
+    - ''
+  - - '4'
+    - Haugelt von Malritz.
+    - ''
+  - - ''
+    - Gerüster pferde
+    - '8'
+  - - ''
+    - Kurisser
+    - '1'
+  - - ''
+    - Drosser
+    - '1'
+  - - ''
+    - Wagen.
+    - '1'
+  cs:
+  - - '1'
+    - |-
+      Dvořané a jezdci vévody Mořice Saského atd., sloužící při osobě Jeho Milosti; přehlédnuti ve čtvrtek 29. května.[^3]
+    - ''
+  - - ''
+    - zbrojní koně {Gerüster pferde}
+    - '24'
+  - - ''
+    - kyrysníci {Kürisser}
+    - '3'
+  - - ''
+    - trénní koně {Drosser}
+    - '2'
+  - - ''
+    - 'vozy {Wagen}: 8, z toho uznány {gůt gemacht}'
+    - '4'
+  - - ''
+    - koně knížecího kaplana {Cappellan}
+    - '1'
+  - - ''
+    - koně knížecího furýra {Foriers}
+    - '1'
+  - - ''
+    - koně knížecího písaře {Schreiber}
+    - '1'
+  - - ''
+    - koně 6 knížecích trubačů {Drometer}
+    - '6'
+  - - '2'
+    - pan Ot von Dißkaw
+    - ''
+  - - ''
+    - zbrojní koně
+    - '6'
+  - - ''
+    - trénní koně
+    - '1'
+  - - ''
+    - vozy
+    - '1'
+  - - '3'
+    - Jörg von Dannenberg
+    - ''
+  - - ''
+    - zbrojní koně
+    - '15'
+  - - ''
+    - kyrysníci
+    - '1'
+  - - ''
+    - trénní koně
+    - '1'
+  - - ''
+    - vozy
+    - '1'
+  - - ''
+    - 'Pozn.: 6 zl. příplatku {vberlengende} na 3 koně.'
+    - ''
+  - - '4'
+    - Haugelt von Malritz
+    - ''
+  - - ''
+    - zbrojní koně
+    - '8'
+  - - ''
+    - kyrysníci
+    - '1'
+  - - ''
+    - trénní koně
+    - '1'
+  - - ''
+    - vozy
+    - '1'
+poznamky:
+- n: 1
+  text: |-
+    Karel V. byl zvolen římským králem roku 1519 a jako španělský král vládl od roku 1516; odtud počítání let „císařství“ a „království“.
+- n: 2
+  text: |-
+    „Verung“ ve smyslu „podle“ (vermöge), viz [[6-004v|list 4v]]. „Tabule“ (Tafel) – příspěvek na knížecí stůl a dvůr.
+- n: 3
+  text: |-
+    Rejstřík je v tisku sázen ve dvou sloupcích; zde je přepsán v pořadí čtení (levý sloupec, pak pravý). Čísla jednotlivých oddílů tisk klade u jména nebo u řádku se zbrojnými koňmi. Kyrysníci, trénní koně a vozy se počítají zvlášť vedle zbrojných koní. Jména osob jsou ponechána v podobě tisku (dnes Otto von Dieskau; „Haugelt von Malritz“ je zřejmě Haubold von Maltitz, ze saského šlechtického rodu). „Vberlengende“ (příplatek) je nejistý termín: patrně částka nad běžný žold vyplacená na uvedený počet koní (srov. součty na [[6-007v|listu 7v]]).

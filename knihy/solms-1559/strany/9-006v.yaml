@@ -1,0 +1,39 @@
+id: 9-006v
+list: 6 (9. kniha)
+strana: verso
+sken: 632
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Es soll auch ewer berürt Veldleger geschlagen werden nit weit vom holtz vnd fliessenden Wassern/ vnd ringßweiß vmbschlossen mit einer wagenburg so es anders von nöten/ oder doch halb mit den wagen vermacht/ in derselben wagenburg sollen Falckenetlin vnd sonst kein geschütz sein/ die wagenburg soll mit einem tieffen graben vmbgraben sein/ vnd das Leger so schön vnd fest machen als mann kan vnd mag/ dann das erst leger ein Patron der andern sein soll.
+  cs: |-
+    Vaše řečené polní ležení {Veldleger} se má rozbít nedaleko lesa a tekoucích vod a, je-li toho třeba, kolem dokola uzavřít vozovou hradbou {wagenburg}, anebo aspoň z poloviny zatarasit vozy. V této vozové hradbě mají být falkonety {Falckenetlin} a jinak žádná děla. Vozová hradba má být obkopána hlubokým příkopem a ležení se má udělat tak pěkné a pevné, jak jen lze, neboť první ležení má být vzorem pro ostatní.
+- typ: odstavec
+  de: |-
+    Auch soll mann in bemeltem Veld einen platz nemen da die wacht jre fewer machen/ so groß daß das gantz Heer zu roß vnd fuß auff bemeltem platz in einer Ordnung stehn mag/ so ein lermen zu tag vnd nacht würde/ auff denselbigen platz soll ein groß Zelt auffgeschlagen werden/ damit die wacht wanns vngewitter ist im Zelt sich auffenthalten möge/ nit weit von gemeltem platz soll ewer Zelt inn mitten auffgericht werden/ vmb euch/ ewere Kemmerling/ Ritter vnd Adel so an ewerm Hoff seind/ ewer Hetschier vnd gewarde/ vnnd bei jnen die jenigen so ordnung in schlachten auch im leger machen/ damit gůt weit gassen zwischen den Zelten vnd hůten seien/ das die Reutter tag vnd nacht woher sie komen zu euch reumig mögen komen.
+  cs: |-
+    V řečeném poli se má také vybrat místo, kde si stráž {wacht} rozdělává ohně, tak veliké, aby na něm celé vojsko, jízda i pěchota, mohlo stát v šiku {Ordnung}, kdyby ve dne či v noci nastal poplach {lermen}. Na tomto místě se má postavit veliký stan, aby se v něm stráž mohla zdržovat, když je nepohoda. Nedaleko řečeného místa má být uprostřed postaven váš stan a kolem vás vaši komorníci, rytíři a šlechta, kteří jsou u vašeho dvora, vaši hartšíři a garda {Hetschier vnd gewarde},[^1] a u nich ti, kdo sestavují šiky v bitvách i v ležení. Mezi stany a chýšemi mají být dobré široké uličky, aby k vám jezdci {Reutter} mohli ve dne i v noci, odkudkoli přijedou, volně dojet.
+- typ: odstavec
+  de: |-
+    An dem einen ort des legers soll der Marschalck ligen/ vnd bei jm der Quartirmeister/ auch die jenigen so jr jnen beuelcht vnnd vnder jnen ligen/ vnd nit weit von jm der oberst Büchsenmeister/ auch das Puluer vnd anders so zu dem Geschütz gehörig/ vnd alle wagen vnd karren so vbrig bleiben sollen zu der Wagenburg gebraucht werden.
+  cs: |-
+    Na jednom konci ležení má ležet polní maršálek {Marschalck} a u něho kvartýrmistr {Quartirmeister} i ti, které jste jim svěřil a kteří leží pod nimi. Nedaleko od něho [má ležet] nejvyšší puškař {Büchsenmeister}, také prach {Puluer} a ostatní, co patří k dělům; a všechny vozy a káry, které zbudou, se mají použít pro vozovou hradbu.
+- typ: odstavec
+  de: |-
+    An dem andern ort soll der Prouoß des Marschalcks ligen/ vnd in seinem Zelt die gefangnen haben/ vnnd zwischen ewer beiden losamenten soll der Marck der Prouiant oder essens speiß sein/ dann zu mutten ist/ es geschehe weniger trutz vnnd gewalt den Kauffleuten wann sie auff einer seitten euch/ vnd auff der andern den Prouosen haben/ auch wann sich ein zanck oder schlagen erhübe/ möchts der Prouoß desto baß hören/ vnd am ende des Marcks soll ein Galgen auffgericht werden/ damit die jenigen so etwas böß zuthůn im sinn haben/ darab erschrecken.
+  cs: |-
+    Na druhém konci má ležet maršálkův profous {Prouoß} a mít ve svém stanu zajatce. Mezi vaším a jeho ubytováním {losamenten} má být trh s proviantem či potravinami. Lze totiž očekávat, že kupcům se stane méně příkoří a násilí, budou-li mít na jedné straně vás a na druhé profouse; také kdyby vznikl svár nebo rvačka, profous by to lépe uslyšel. Na konci trhu má být postavena šibenice, aby se jí zalekli ti, kdo mají v úmyslu něco zlého.
+- typ: odstavec
+  de: |-
+    Damit ich kom zu der Ordnung die man halten soll im Zug/ sehe mich für gůt an je ehe mann auffbrech je besser es were/ Deßhalben mein meinung ist wann jr selbs nit die arbeit damit haben wolt/ wie Hertzog Carol von Borgunde der letst gethan/ welcher alles selbst thůn vnd sehen hat wöllen/ vnd groß arbeit tag vnd nacht damit gehabt/ darumb jn der Cliuier von der Marck nent/ Der vberauß arbeitsam Carole/ daß jr den Marschalck darzů verordneten/ der ein Register hab/ da die namen der Hauptleut die jr habt zu roß vnd fuß/ auch
+  cs: |-
+    Abych přešel k pořádku, který se má zachovávat na pochodu {Zug}: zdá se mi dobré, že čím dříve se vytáhne, tím lépe. Proto je mé mínění, nechcete-li s tím mít práci sám – jako poslední burgundský vévoda Karel, který chtěl všechno sám dělat a vidět a měl s tím ve dne v noci velkou práci, a proto ho Olivier de la Marche nazývá „Karel nadmíru pracovitý“[^2] –, abyste k tomu ustanovil polního maršálka. Ten má mít rejstřík {Register}, v němž jsou [zapsána] jména hejtmanů, které máte na koni i pěšky, a také
+poznamky:
+- n: 1
+  text: |-
+    *Hetschier* (hartšíři, z ital. *arciere*, franc. *archer*) – jízdní tělesná stráž knížete, původně lučištníci; *gewarde* – garda, osobní stráž.
+- n: 2
+  text: |-
+    Karel Smělý († 1477), poslední vévoda burgundský z rodu Valois. Jeho dvořan a kronikář Olivier de la Marche (asi 1425–1502) jej ve svých pamětech nazývá *Charles le Travaillant*. Tisk má *der Cliuier von der Marck* – tisková chyba za *Oliuier*.

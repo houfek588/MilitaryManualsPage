@@ -1,0 +1,85 @@
+id: 6-013r
+list: 13 (6. kniha)
+strana: recto
+sken: 517
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['Hieuon der Drosser gelt abgezogen nemlich', '67 gulden 5 batzen.']
+  - ['Rest', '2194 gulden 13 batzen.']
+  cs:
+  - ['Z toho odečteny peníze za trénní koně {Drosser}, totiž', '67 zlatých {gulden} 5 bacenů {batzen}[^1]']
+  - ['Zbývá', '2194 zlatých 13 bacenů']
+- typ: tabulka
+  de:
+  - ['', 'Heinrich von Bortzfelt Anritgelt.', '']
+  - ['', 'Item hat von Hildeßheim auff den Musterplatz 32 meiln/ vnd ist 12 tag mit 14. pferden gereiset vnnd stilgelegen/ thut jeden tag auff ein jedes pferd 6 batzen/ macht zu samen', '67 gulden 3 batzen.']
+  - ['', 'Drosser', '2 gulden 6 batzen.']
+  - ['', 'Eim Wagen den tag 12 batzen/ macht', '9 gulden 9 batzen.']
+  - ['', 'Summa', '79 gulden 3 batzen.']
+  - ['', 'Christoffel von Hausen.', '']
+  - ['2', 'Item hat auff den Musterplatz 38. meiln/ vnnd hat 13½ tag mit 12 pferden gereiset vnd stilgelegen/ thůt jeden tag auff ein pferd 6 batzen/ macht zusamen', '64 gulden 12 batzen.']
+  - ['', 'Drosser', '2 gulden 10½ batzen.']
+  - ['', 'Wagen', '10 gulden 12 batzen.']
+  - ['', 'Summa', '78 gulden 4½ batzen.']
+  - ['Summa lat.', 'Gelt', '157 gulden 7½ batzen.']
+  - ['', 'Pferde', '26']
+  - ['', 'Droß', '2']
+  - ['', 'Wagen.', '2']
+  - ['', 'Christoffel von Bortzfelt.', '']
+  - ['3', 'Item hat von Somerßburg auff den Musterplatz 44 meiln/ 15 tag mit 14 pferden gereiset vnd stilgelegen/ thůt jeden tag auff ein pferde 6 batzen/ macht zusamen', '84 gulden.']
+  - ['', 'Wagen', '12 gulden.']
+  - ['', 'Summa', '96 gulden.']
+  - ['', 'Moritz Frieß.', '']
+  - ['4', 'Item hat von Braunschweig auff den Musterplatz 34 meiln/ vnd ist 12½ tag mit 11 pferden gereiset vnd stilgelegen/ thůt jeden tag auff ein pferd 6 batzen/ macht zusamen', '55 gulden.']
+  - ['', 'Wagen', '10 gulden.']
+  - ['', 'Summa', '65 gulden.']
+  - ['', 'Grieß von Manderßheim.', '']
+  - ['5', 'Item hat auff den musterplatz 28 meiln/ vnd ist 10 tag mit 8 pferden gereist vnd stilgelegen/ thůt eim pferd ein tag zu 6 batzen', '32 gulden.']
+  - ['', 'Drosser', '2 gulden 3 batzen.']
+  - ['', 'Summa', '34 gulden 3 batzen.']
+  - ['', 'Rudolff von Bortzfelt.', '']
+  - ['6', 'Item hat auff den Musterplatz 31 meiln/ vnd ist 12 tag mit 7 pferden gereist vnd stilgelegen/ thůt ein pferd ein tag zu 6 batzen', '33 gul. 9 batz.']
+  - ['', 'Wagen', '8 gulden 12 batzen.']
+  - ['', 'Summa', '42 gulden 6 batz.']
+  cs:
+  - ['', 'Heinrich von Bortzfelt – příjezdné {Anritgelt}.[^2]', '']
+  - ['', 'Dále: měl z Hildesheimu na přehlídkové místo {Musterplatz} 32 mil {meiln} a 12 dní byl se 14 koňmi {pferden} na cestě a ve stání {gereiset vnnd stilgelegen}; na každého koně každý den 6 bacenů, činí dohromady', '67 zlatých 3 bacenů']
+  - ['', 'trénní kůň', '2 zlaté 6 bacenů']
+  - ['', 'jeden vůz {Wagen} 12 bacenů za den, činí', '9 zlatých 9 bacenů']
+  - ['', 'suma', '79 zlatých 3 bacenů']
+  - ['', 'Christoffel von Hausen.', '']
+  - ['2', 'Dále: měl na přehlídkové místo 38 mil a byl 13½ dne s 12 koňmi na cestě a ve stání; na koně každý den 6 bacenů, činí dohromady', '64 zlatých 12 bacenů']
+  - ['', 'trénní kůň', '2 zlaté 10½ bacenu']
+  - ['', 'vůz', '10 zlatých 12 bacenů']
+  - ['', 'suma', '78 zlatých 4½ bacenu']
+  - ['součet strany {Summa lat.}', 'peněz', '157 zlatých 7½ bacenu']
+  - ['', 'koní', '26']
+  - ['', 'trénních koní {Droß}', '2']
+  - ['', 'vozů', '2']
+  - ['', 'Christoffel von Bortzfelt.', '']
+  - ['3', 'Dále: měl ze Sommersburgu na přehlídkové místo 44 mil a 15 dní byl se 14 koňmi na cestě a ve stání; na koně každý den 6 bacenů, činí dohromady', '84 zlatých']
+  - ['', 'vůz', '12 zlatých']
+  - ['', 'suma', '96 zlatých']
+  - ['', 'Moritz Frieß.', '']
+  - ['4', 'Dále: měl z Brunšviku na přehlídkové místo 34 mil a 12½ dne byl s 11 koňmi na cestě a ve stání; na koně každý den 6 bacenů, činí dohromady', '55 zlatých']
+  - ['', 'vůz', '10 zlatých']
+  - ['', 'suma', '65 zlatých']
+  - ['', 'Grieß von Manderßheim.', '']
+  - ['5', 'Dále: měl na přehlídkové místo 28 mil a 10 dní byl s 8 koňmi na cestě a ve stání; na koně za den 6 bacenů', '32 zlatých']
+  - ['', 'trénní kůň', '2 zlaté 3 bacenů']
+  - ['', 'suma', '34 zlatých 3 bacenů']
+  - ['', 'Rudolff von Bortzfelt.', '']
+  - ['6', 'Dále: měl na přehlídkové místo 31 mil a 12 dní byl se 7 koňmi na cestě a ve stání; na koně za den 6 bacenů', '33 zl. 9 bac.']
+  - ['', 'vůz', '8 zlatých 12 bacenů[^3]']
+  - ['', 'suma', '42 zlatých 6 bac.']
+poznamky:
+- n: 1
+  text: Na předchozí straně jsou peníze za trénní koně vyčísleny na 67 zl. 8 bac.; zbytek 2194 zl. 13 bac. však odpovídá odečtu 67 zl. 5 bac. od celkových 2262 zl. 3 bac.
+- n: 2
+  text: Začíná vyúčtování příjezdného korouhve Henickena von Bortzfelt (srov. jeho přehlídkový lístek z 28. května 1544 [[6-009r|na listu 9]]); jezdci přijížděli z Dolního Saska (Hildesheim, Brunšvik, Sommersburg). První položka není v tisku očíslována.
+- n: 3
+  text: Za 12 dní by vůz činil 9 zl. 9 bac.; suma 42 zl. 6 bac. však s tištěnými 8 zl. 12 bac. souhlasí.

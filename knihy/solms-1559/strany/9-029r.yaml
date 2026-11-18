@@ -1,0 +1,53 @@
+id: 9-029r
+list: 29 (9. kniha)
+strana: recto
+sken: 677
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    möchten die Galleen an dem landt faren/ vnd euch die port einnemen künden/ euch der massen alwegen frische Prouiant vnnd sonst alle newe zeittung zuschicken/ vnnd wann es auff dem Meer so gar stille ist das kein windt geht/ vnd jr gern ein port einnemen woltet/ vnd es doch nicht kündet dieweil kein Windt geht/ mögen die Galleen alßdan die grossen schiff in den port ziehen.
+  cs: |-
+    mohly by galéry {Galleen} plout podél břehu, obsazovat pro vás přístavy a tak vám stále posílat čerstvý proviant {Prouiant} a všechny ostatní novinky. A je-li na moři takové bezvětří, že nevane žádný vítr, a vy byste rádi vpluli do přístavu, ale nemůžete, protože nefouká, mohou galéry velké lodě do přístavu odvléci.
+- typ: odstavec
+  de: |-
+    Doch kan ich nicht befinden das euch die Galleen in einem andern dann im fordern Meer nützlich sein künden/ dann das Oceanisch Meer vil reicher dann das ander ist.
+  cs: |-
+    Nemohu však shledat, že by vám galéry mohly být užitečné v jiném moři než ve Středozemním[^1], neboť oceán je mnohem drsnější[^2] než ono druhé moře.
+- typ: odstavec
+  de: |-
+    Jch will euch auch anzeigen/ was jr für ein ordnung mit dem faren haben solt/ nemlich daß jr zwei ringe schiff vor euch faren lasset/ doch nit so weit das jrs nit mehr sehen kündt/ sonder sie alwegen im gesicht behalten/ darinn ein tapffern verstentigen Man haben/ auff die zwei schifflin solt jr mit ewerm gantzen hauffen der Nachen farn/ doch zwei leicht schifflein auch etwan weit hinder euch lassen/ die euch stets in augen behalten/ der massen solt jr auff dem Wasser/ wo es anders das Wetter leidet/ faren/ vnnd allwegen auff ewerm kleinen Mastbaum ein viereckig Fendlin haben/ damit mann ewere Schiff kennen künde.
+  cs: |-
+    Chci vám také ukázat, jaký řád máte zachovávat při plavbě: totiž nechat plout před sebou dvě lehké lodě, avšak ne tak daleko, abyste je už neviděli, nýbrž abyste je měli stále na očích, a na nich mít statečného a rozumného muže. Za těmi dvěma loďkami máte plout s celým svým houfem velkých lodí {Nachen}, nechat však také dvě lehké loďky plout daleko za vámi, které vás budou mít stále na očích. Takto máte na vodě plout, dovolí-li to jen počasí, a na svém malém stěžni mít vždy čtverhranný praporek {Fendlin}, aby se vaše loď dala poznat.
+- typ: odstavec
+  de: |-
+    Das die kleinen ringen schiff so jr vorhin oder hinden nach schickt euch in dem gesicht haben sollen/ geschicht darumb/ daß jhr jhnen ein zeichen geben kündt was sie thůn sollen/ volgents will ich euch anzeigen/ was ich für zeichen auff dem Meer gebraucht habe.
+  cs: |-
+    Malé lehké lodě, které vysíláte napřed nebo za sebou, vás mají mít na očích proto, abyste jim mohli dát znamení, co mají dělat. Dále vám chci ukázat, jaká znamení jsem na moři užíval.
+- typ: odstavec
+  de: |-
+    Erstlich wann jr alle ewer Haupt vnd beuelchs leut zusamen samlen wolt/ einen Rath oder gesprech mit jnen zu halten/ solt jr auff den höchsten Mastbaum ein Fendlein das viereckig ist/ doch halb außgeschnitten/ wie derhalben alßdan die Beuelchs leut alle schüldig die kleinen schifflein auff das Meer thůn lassen/ vnnd zu euch kommen/ mit jnen bringen die besten Schiffmeister/ auch sonst die geschicktesten gesellen so sie haben/ darmit jhr souil einen bessern Rath haben möcht.
+  cs: |-
+    Za prvé: chcete-li shromáždit všechny své hejtmany a velitele {beuelchs leut}, abyste s nimi drželi radu nebo poradu, máte na nejvyšší stěžeň [vyvěsit] čtverhranný praporek, avšak napůl vykrojený[^3]. Velitelé jsou pak všichni povinni spustit na moře malé čluny, přijet k vám a přivézt s sebou nejlepší lodní mistry {Schiffmeister} a jiné nejschopnější chlapíky, které mají, abyste se mohli tím lépe poradit.
+- typ: odstavec
+  de: |-
+    Item in einem jeglichen schiff da mann zum ersten frembde schiff sicht/ sollen sie mitten an den Mastbaum auff die seiten da die schiff gesehen werden/ ein Fendlin das nur halb hang/ hencken/ darmit die andern auch desto besser achtung haben/ wann sie aber ein gantzen hauffen schiff sehen/ sollen sie zwei Fendlin wie vormals an den Mastbaum hencken/ doch eins höher dann das ander
+  cs: |-
+    Dále: na každé lodi, z níž se nejprve spatří cizí lodě, mají doprostřed stěžně na tu stranu, kde jsou lodě vidět, pověsit praporek, který visí jen do poloviny, aby i ostatní tím lépe dávali pozor. Spatří-li však celý houf lodí, mají na stěžeň pověsit dva praporky jako předtím, avšak jeden výše než druhý.
+- typ: odstavec
+  de: |-
+    Item in welchem schiff mann zum ersten das landt sicht/ dieselbigen sollen vff den grossen Mastbaum ein Fendlin stecken/ darmit ein jelicher sehe vnd luge was er zuschaffen habe.
+  cs: |-
+    Dále: na lodi, z níž se nejprve spatří země, mají na hlavní stěžeň vztyčit praporek, aby každý viděl a hleděl, co má dělat.
+poznamky:
+- n: 1
+  text: |-
+    *im fordern Meer* – ve „předním“ moři, tj. ve Středozemním moři (Levantě), kde byly galéry hlavním typem válečné lodi; Filip Klévský zde staví do protikladu Středomoří a Atlantik (*Oceanisch Meer*).
+- n: 2
+  text: |-
+    *reicher* – tak v tisku; podle smyslu nejspíš tisková chyba za *rauher* („drsnější, bouřlivější“).
+- n: 3
+  text: |-
+    Věta je v tisku porušená (*wie derhalben* místo např. *stecken / so seind derhalben*); sloveso „vyvěsit“ doplněno podle smyslu.

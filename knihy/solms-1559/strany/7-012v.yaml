@@ -1,0 +1,92 @@
+id: 7-012v
+list: 12 (7. kniha)
+strana: verso
+sken: 572
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mit achthundert pferden / Der oberst Veldherr / der Hertzog von Saffoy / seind seiner Herrn vnd Junckern vngefehrlich bei dreihundert / vorn oder hinden / wohin er gewölt hat / verordnet worden.
+  cs: |-
+    s osmi sty koňmi. Nejvyššímu válečnému pánovi {oberst Veldherr}, vévodovi Savojskému, bylo z jeho pánů a junkrů {Junckern} přiděleno přibližně tři sta, vpředu nebo vzadu, kde je chtěl mít.
+- typ: odstavec
+  de: |-
+    Auff disen Hauffen zwölff Fendlin Spanier / der von Eberstein mit zehen Fendlein / vnd der von Mega mit zweien Fendlein.
+  cs: |-
+    Za tímto houfem {Hauffen} dvanáct praporců {Fendlin} Španělů, pán z Ebersteinu s deseti praporci a pán z Megenu se dvěma praporci.
+- typ: odstavec
+  de: |-
+    Der ander Hauff der Printz von Vrania / mit tausent Spiessern sampt etlichen Reuttern neben den Benden / vnd drei Fanen Teutscher Schützen Reutter / etwan in die neunhundert starck.
+  cs: |-
+    Druhý houf: princ Oranžský s tisícem kopiníků {Spiessern} spolu s několika jezdci vedle band {Benden} a se třemi korouhvemi {Fanen} německých jízdních střelců {Schützen Reutter}, asi devět set mužů silnými.
+- typ: odstavec
+  de: |-
+    Darauff der Graue von Arnburg mit neuntzehen Fendlein / Niderländische Knecht.
+  cs: |-
+    Za ním hrabě z Arenbergu s devatenácti praporci nizozemských knechtů {Knecht}.
+- typ: odstavec
+  de: |-
+    Martin von Rossen mit fünfftzehen Fendlein.
+  cs: |-
+    Maarten van Rossem s patnácti praporci.
+- typ: odstavec
+  de: |-
+    Der drit Hauff der von Bussy mit zwölffhundert Spiessern / vnd dreihundert Schützen Reuttern.
+  cs: |-
+    Třetí houf: pán z Bussy s dvanácti sty kopiníky a třemi sty jízdními střelci.
+- typ: odstavec
+  de: |-
+    Graue Hanß von Nassaw mit zehen Fendlein.
+  cs: |-
+    Hrabě Hanß z Nassau s deseti praporci.
+- typ: odstavec
+  de: |-
+    Herr Conradt von Bemmelberg mit zehen Fendlein.
+  cs: |-
+    Pan Konrad z Bemelbergu s deseti praporci.
+- typ: odstavec
+  de: |-
+    Dise drei Hauffen haben mit dem vormutel vnd nachzug vmbgewechßlet.
+  cs: |-
+    Tyto tři houfy se střídaly v předvoji, středu {vormutel} a zadním voji {nachzug}.[^1]
+- typ: odstavec
+  de: |-
+    Darnach seind zwölff Fendlein Artosser vnnd Hennigauer / ein gůt Kriegßuolck / vnd vierundzwentzig Fendlein newe Spanier gezogen / die hat mann hinden / vornen vnd in der mitte gebraucht / wo es der Oberst Veldhauptman hin haben wolt / vnd die notturfft erfordert hatt.
+  cs: |-
+    Potom táhlo dvanáct praporců Artoisanů a Henegavců, dobrý válečný lid {Kriegßuolck}, a dvacet čtyři praporce nových Španělů. Ty se nasazovaly vzadu, vpředu i uprostřed, kam je nejvyšší polní hejtman {Oberst Veldhauptman} chtěl mít a kam to vyžadovala potřeba.
+- typ: odstavec
+  de: |-
+    Zwei Fendlein Englischen haben auff die Monition gewart.
+  cs: |-
+    Dva praporce Angličanů měly na starosti munici {Monition}.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Was gattung Geschütz im Zug wider Franckreich / Anno 1554. geordnet gewesen.
+  cs: |-
+    Jaké druhy děl {Geschütz} byly zařazeny do tažení proti Francii roku 1554.
+- typ: seznam
+  de:
+  - Fünff Cartaunen / vnd drei halb Cartaunen.
+  - Sechs lang Schlangen / die schiessen zechßehen pfundt eisen.
+  - Vier Schlangen / die schiessen zwölff pfundt eisen.
+  - Acht halb Schlangen.
+  - Eilff halb Falconeten die mann allenthalben wendt.
+  cs:
+  - Pět kartoun {Cartaunen} a tři poloviční kartouny {halb Cartaunen}.
+  - Šest dlouhých kulverin {lang Schlangen}, střílejí šestnáct liber {pfundt} železa.
+  - Čtyři kulveriny, střílejí dvanáct liber železa.
+  - Osm polovičních kulverin {halb Schlangen}.
+  - Jedenáct polovičních falkonetů {halb Falconeten}, které se nasazují všude.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Ein ander verzeichnus eines Veldzugs / auß dem sinn genommen.
+  cs: |-
+    Jiný soupis polního tažení {Veldzugs}, sestavený z paměti.
+poznamky:
+- n: 1
+  text: |-
+    Tisk má „vormutel“, zřejmě tiskovou chybu za „vor, mittel [vnd nachzug]“ (předvoj, střed a zadní voj).

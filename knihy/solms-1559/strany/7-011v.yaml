@@ -1,0 +1,245 @@
+id: 7-011v
+list: 11 (7. kniha)
+strana: verso
+sken: 570
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - - Der Printz von Vranien Oberster vber
+    - 1800. pferdt.
+  - - Sein eigen Bende
+    - 250. pferdt.
+  - - Der Herr von Aberkor ein bende
+    - 250. pferdt.
+  - - Herr Wilhelm von Schwartzenberg /
+    - 580. pferdt.
+  - - Darunder 180. Schwartzer Schützen Reutter.
+    - ''
+  - - Herr Albrecht von Rosenbergs schützen Reutter
+    - 450. pferdt.
+  - - Herr Johann von Beurn schwartz Schützen Reutter
+    - 300. pferdt.
+  - - Graue Günter von Schwartzenberg Oberster vber
+    - 1150 pferdt.
+  - - Moritz Frieß /
+    - 500. pferdt.
+  - - Lienhart Kotz /
+    - 350. pferdt.
+  - - Johann von Barteßleben / – Schwartzen schützen Reutter.
+    - 300. pferdt.
+  - - Item Don Lois Dauila Oberster vber
+    - 1000. leichter pferdt.
+  - - Item Schützen mit langen Rorn
+    - 400. leichter pferdt.
+  - - Item Englische geringe Pferdt
+    - 300.
+  cs:
+  - - Princ Oranžský, plukovník {Oberster} nad
+    - 1800 koňmi.[^1]
+  - - Jeho vlastní banda {Bende}
+    - 250 koní.[^2]
+  - - Pán z Aberkor, jedna banda
+    - 250 koní.
+  - - Pan Wilhelm ze Schwarzenbergu
+    - 580 koní.
+  - - Z toho 180 černých jízdních střelců {Schwartzer Schützen Reutter}.[^3]
+    - ''
+  - - Jízdní střelci pana Albrechta z Rosenbergu
+    - 450 koní.
+  - - Černí jízdní střelci pana Johanna z Beurnu
+    - 300 koní.
+  - - Hrabě Günter ze Schwartzenbergu, plukovník nad
+    - 1150 koni.[^4]
+  - - Moritz Frieß
+    - 500 koní.
+  - - Lienhart Kotz
+    - 350 koní.
+  - - Johann von Barteßleben – černí jízdní střelci.
+    - 300 koní.
+  - - Dále don Luis de Ávila, plukovník nad
+    - 1000 lehkými koňmi.[^5]
+  - - Dále střelci s dlouhými hlavněmi {Rorn}
+    - 400 lehkých koní.
+  - - Dále anglická lehká jízda {geringe Pferdt}
+    - 300.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Benden Reutter.
+  cs: |-
+    Jezdci band {Benden Reutter}.
+- typ: tabulka
+  de:
+  - - Der Hertzog von Aschgot
+    - 250. spiesser Pferdt.
+  - - Der Marggraue von Bergen
+    - 250. pferde.
+  - - Graue Peter Ernst von Manßfelt /
+    - 250. Pferdt.
+  - - Der Herr von Merbeck
+    - 250. pferdt.
+  - - Der Herr von Nöllen
+    - 250. pferdt.
+  - - Der Herr von Binecrot
+    - 250. pferdt.
+  - - Der herr von Röß
+    - 250. pferdt.
+  - - Der herr von Ceummu
+    - 200 pferdt.
+  - - Der herr von Hochstrassen
+    - 250 pferdt
+  - - Der herr von Bussy / Oberster vber
+    - 800. pferdt / vnd sein eigen Bende 250. pferdt Spiesser.
+  - - Der herr von Befern
+    - 250. pfer.
+  - - Hanß Berner schwartz Schützen reutter /
+    - 300. pferdt.
+  cs:
+  - - Vévoda z Aarschotu
+    - 250 koní kopiníků {spiesser}.[^6]
+  - - Markrabě z Bergenu
+    - 250 koní.
+  - - Hrabě Petr Arnošt z Mansfeldu
+    - 250 koní.
+  - - Pán z Merbecku
+    - 250 koní.
+  - - Pán z Nöllenu
+    - 250 koní.
+  - - Pán z Binecrotu
+    - 250 koní.
+  - - Pán z Rößu
+    - 250 koní.
+  - - Pán z Ceummu
+    - 200 koní.
+  - - Pán z Hochstrassenu
+    - 250 koní.
+  - - Pán z Bussy, plukovník nad
+    - 800 koňmi a jeho vlastní banda 250 koní kopiníků.
+  - - Pán z Befernu
+    - 250 koní.
+  - - Hanß Berner, černí jízdní střelci
+    - 300 koní.
+- typ: odstavec
+  de: |-
+    Vnder disen allen seind Teutsche Ritmeister / vber die schwartze reutter gewesen.
+  cs: |-
+    Z těch všech byli německými rytmistry {Ritmeister} nad černými jezdci {schwartze reutter}:
+- typ: seznam
+  de:
+  - Moritz Frieß.
+  - Lienhart Kotz.
+  - Johann von Barteßleben.
+  - Wilhelm Freiherr zu Schwartzenberg.
+  - Johann Freiherr von Beuren.
+  - Herr Albrecht von Rosenberg.
+  - Hanß Berner.
+  cs:
+  - Moritz Frieß.
+  - Lienhart Kotz.
+  - Johann von Barteßleben.
+  - Wilhelm, svobodný pán ze Schwarzenbergu.
+  - Johann, svobodný pán z Beurenu.
+  - Pan Albrecht z Rosenbergu.
+  - Hanß Berner.
+- typ: odstavec
+  de: |-
+    Item 12. Schiffbrücken mit 6. pferden gespant / ist 72. pferdt.
+  cs: |-
+    Dále 12 lodních mostů {Schiffbrücken}, každý zapřažený šesti koňmi, to je 72 koní.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Oberländische Landtsknecht.
+  cs: |-
+    Hornoněmečtí lancknechti {Landtsknecht}.
+- typ: tabulka
+  de:
+  - - Oberster Graue Hanß von Nassaw
+    - 10 Fendlein.
+  - - Graue Philips von Eberstein
+    - 10 Fendlein.
+  - - Conradt von Bemmelberg
+    - 10 Fendlein.
+  cs:
+  - - Plukovník hrabě Hanß z Nassau
+    - 10 praporců {Fendlein}.[^7]
+  - - Hrabě Filip z Ebersteinu
+    - 10 praporců.
+  - - Konrad z Bemelbergu
+    - 10 praporců.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Niderländische Landtsknecht.
+  cs: |-
+    Nizozemští lancknechti.
+- typ: tabulka
+  de:
+  - - Der Graue von Megen
+    - 5 fen.
+  - - Der Graue von Armberg
+    - 24 Fendlein.
+  - - Merten von Roßheim
+    - 15 Fen.
+  - - Landtuolck
+    - 16 Fendlein.
+  - - Alt Spanier
+    - 12. Fendlein.
+  - - New Spanier
+    - 24 Fendlein.
+  cs:
+  - - Hrabě z Megenu
+    - 5 praporců.[^8]
+  - - Hrabě z Arenbergu
+    - 24 praporců.
+  - - Maarten van Rossem
+    - 15 praporců.
+  - - Zemský lid {Landtuolck}
+    - 16 praporců.
+  - - Staří Španělé
+    - 12 praporců.
+  - - Noví Španělé
+    - 24 praporců.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Englischen.
+  cs: |-
+    Angličané.
+- typ: seznam
+  de:
+  - Item 2. Fendlein.
+  - Item 4000 Schantzgräber.
+  - Item 4000 Artolorei Pferdt.
+  cs:
+  - Dále 2 praporce.
+  - Dále 4000 zákopníků {Schantzgräber}.
+  - Dále 4000 dělostřeleckých koní {Artolorei Pferdt}.
+poznamky:
+- n: 1
+  text: |-
+    Vilém Oranžský (1533–1584), pozdější vůdce nizozemského povstání, tehdy jeden z velitelů jízdy Karla V.; tisk „Printz von Vranien“. Seznam je v tisku sázen ve dvou sloupcích; zde je přepsán v pořadí čtení (levý sloupec, pak pravý). Řádek „Der herr von Bussy / Oberster vber“ dole v levém sloupci pokračuje nahoře v pravém sloupci („800. pferdt / vnd sein eigen Bende…“).
+- n: 2
+  text: |-
+    Bende (niz. bende, fr. bande d’ordonnance) – stálé ordonanční roty těžké jízdy habsburského Nizozemí, každá pod velením šlechtice-kapitána, zpravidla o několika stech koní; proto „Benden Reutter“ níže.
+- n: 3
+  text: |-
+    „Černí jezdci“ (Schwarze Reiter) – němečtí jízdní střelci s pistolemi a začerněnou zbrojí, kteří se právě v 50. letech 16. století prosazovali v císařských i francouzských službách. Tři jména jsou v tisku spojena svorkou s nápisem „Schwartzen schützen Reutter“; svorka je připojena k poslední položce.
+- n: 4
+  text: |-
+    Tisk má „Schwartzenberg“; nejspíš je míněn hrabě Günther XLI. ze Schwarzburgu (1529–1583), který tehdy sloužil Karlu V. jako plukovník jízdy v Nizozemí.
+- n: 5
+  text: |-
+    Luis de Ávila y Zúñiga (asi 1504–1573), velitel lehké jízdy a kronikář šmalkaldské války; tisk „Don Lois Dauila“.
+- n: 6
+  text: |-
+    Jména kapitánů band jsou v tisku zkomolená. Pravděpodobně: Filip de Croÿ, vévoda z Aarschotu (Aschgot); Jan de Glymes, markrabě z Bergen op Zoom; Petr Arnošt z Mansfeldu; pán z Morbecque (Merbeck); Jan de Croÿ, hrabě z Roeulx (Röß); Antoine de Lalaing, hrabě z Hoogstraten (Hochstrassen); Jan de Hennin, hrabě z Boussu (Bussy), velitel nizozemské jízdy; Adolf Burgundský, pán z Beveren (Befern). „Aberkor“, „Nöllen“, „Binecrot“ a „Ceummu“ se nepodařilo bezpečně ztotožnit, proto jsou ponechány v podobě tisku.
+- n: 7
+  text: |-
+    Hornoněmečtí (oberländische) lancknechti – z jihoněmeckých zemí. Konrad z Bemelbergu (Boyneburgu, 1494–1567), zvaný „malý Hesenec“, proslulý plukovník lancknechtů Karla V.; hrabě Filip z Ebersteinu; „Hanß von Nassaw“ snad Jan z Nassau-Dillenburgu.
+- n: 8
+  text: |-
+    Karel z Brimeu, hrabě z Megenu; Jan z Ligne, hrabě z Arenbergu; Maarten van Rossem (asi 1490–1555), gelderský vojevůdce v císařských službách; tisk „Merten von Roßheim“. „Landtuolck“ je zemská hotovost.

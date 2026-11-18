@@ -1,0 +1,63 @@
+id: 8-004r
+list: 4 (8. kniha)
+strana: recto
+sken: 595
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Commis Ordnung/ welcher gestalt ein anzal Kriegßuolck inn einer Besatzung möge erhalten werden/ volgt hernach.
+  cs: |-
+    Následuje komisní řád {Commis Ordnung}: jakým způsobem lze vydržovat určitý počet válečného lidu {Kriegßuolck} v posádce {Besatzung}.
+- typ: odstavec
+  de: |-
+    Es soll ein ehrlich/ auffrichtig vnd glaubhafftig man zu einem Prouiantherrn geordnet werden/ auch on desselbigen rath/ wissen vnd willen nichts handeln noch endern/ on grosse eillende vnd zůfallende not/ das der Prouiantherr nit zu erlangen were.
+  cs: |-
+    Za proviantního pána {Prouiantherrn} má být ustanoven čestný, upřímný a důvěryhodný muž. Bez jeho rady, vědomí a vůle se nemá nic jednat ani měnit, leda ve velké, naléhavé a nenadálé nouzi, kdy by proviantní pán nebyl k zastižení.
+- typ: odstavec
+  de: |-
+    Zum ersten wil ich theiln vnnd ordnen die maß vnd schwere des Brots vnd fleysch/ was einem Menschen zu seiner leibs notturfft einen tag zugeordnet soll werden/ deßgleichen die Fütterung auff die Pferdt mit seiner schwere zalle vnd maß.
+  cs: |-
+    Nejprve chci rozvrhnout a určit míru a váhu chleba a masa, které se mají jednomu člověku přidělit na den k tělesné potřebě, a rovněž píci {Fütterung} pro koně podle její váhy, počtu a míry.
+- typ: odstavec
+  de: |-
+    Item ein maß von Korn oder Treidt wirt in disem Landt ein achtel genant/ ist vngefehrlich vff 163. pfundt angeschlagen/ auch helt diß achtel nach 8 kleiner maß inn sich/ deren eins vngefehrlich 20½. lib. schwer ist. Auß disem achtel werden 90 Brot gebachen/ vnd helt eins an teyg 2 lib. vnd 13 lot/ vnd wann es gebachen ist 2 lib. vnd auß dem kleinen maß bacht mann eilff vnd ein viertheil eins brots.
+  cs: |-
+    Dále: míra žita {Korn} či obilí se v této zemi nazývá achtel {achtel} a počítá se přibližně na 163 liber {pfundt}. Tento achtel obsahuje 8 menších měr, z nichž každá váží přibližně 20½ libry {lib.}.[^1] Z tohoto achtelu se upeče 90 chlebů; každý má v těstě 2 libry a 13 lotů {lot} a upečený 2 libry. Z malé míry se upeče jedenáct a čtvrt chleba.
+- typ: tabulka
+  de:
+  - ['Wann von solchen brotten einer Personn einn tag ein brot gelieffert wirt/ so gehn auff 100 personn', '100 brot/', 'die wigen 200 lib.', '']
+  - ['darnach vff 500 personen', '500 brot/', 'die wigen 1000 pfundt.', '']
+  - ['Ein woche gehn auff 500 personen', '2500 Brot/', 'die wigen 70. centner/ jeden centner zu 100 pfunden gerechnet/', 'vnd thůn an Korn 38. achtel vnd 7 metzen.']
+  - ['Ein Monat gehn auff 500 personen (welches 30 tag sind)', '15000 brot/', 'das macht 300 centner/', 'vnd thůn an korn 166 achtel vnd 5 metzen.']
+  - ['Ein woche gehn auff 1000 personen', '7000 brot/', 'wigen 140 centner/', 'vnd thůn an Korn 77 achtel vnd 6 metzen.']
+  - ['Thůn einn Monat', '30000 brot/', 'machen 600 centner/', 'thůn an Korn 333 achtel vnd 2 metzen.']
+  - ['Ein tag gehn auff 5000 personn', '5000 brot/', 'thůn 100 centner/', 'machen an korn 55 achtel vnd 4 metzen.']
+  - ['Ein woch gehn auff 5000 Personen', '35000 brot/', 'thůn 700 centner/', 'machen an korn 388 achtel vnd 7 metzen.']
+  - ['Ein Monat gehn auff benente personen', '150000 Brot/', 'thůn 3000 centner/', 'machen an korn 1066 achtel vnd 5 metzen.']
+  - ['Ein woch gehn auff 10000 personn', '70000 brot/', 'thůn 1400 centner/', 'machen an korn 777 achtel vnd 6 metzen.']
+  - ['Ein Monat gehn auff 10000 personen', '300000 brot/', 'machen 6000', '']
+  cs:
+  - ['Dává-li se z takových chlebů jedné osobě na den jeden chléb, jde na 100 osob', '100 chlebů,', 'které váží 200 liber {lib.};', '']
+  - ['dále na 500 osob', '500 chlebů,', 'které váží 1000 liber {pfundt}.', '']
+  - ['Na 500 osob jde za týden', '2500 chlebů,[^2]', 'které váží 70 centů {centner}, každý cent počítán po 100 librách,', 'a činí na žitě 38 achtelů {achtel} a 7 měřic {metzen}.']
+  - ['Na 500 osob jde za měsíc (což je 30 dní)', '15000 chlebů,', 'to dělá 300 centů,', 'a činí na žitě 166 achtelů a 5 měřic.']
+  - ['Na 1000 osob jde za týden', '7000 chlebů,', 'váží 140 centů', 'a činí na žitě 77 achtelů a 6 měřic.']
+  - ['Za měsíc to činí', '30000 chlebů,', 'dělají 600 centů,', 'činí na žitě 333 achtelů a 2 měřice.']
+  - ['Na 5000 osob jde za den', '5000 chlebů,', 'činí 100 centů,', 'dělají na žitě 55 achtelů a 4 měřice.']
+  - ['Na 5000 osob jde za týden', '35000 chlebů,', 'činí 700 centů,', 'dělají na žitě 388 achtelů a 7 měřic.']
+  - ['Na jmenované osoby jde za měsíc', '150000 chlebů,', 'činí 3000 centů,', 'dělají na žitě 1066 achtelů a 5 měřic.[^3]']
+  - ['Na 10000 osob jde za týden', '70000 chlebů,', 'činí 1400 centů,', 'dělají na žitě 777 achtelů a 6 měřic.']
+  - ['Na 10000 osob jde za měsíc', '300000 chlebů,', 'dělají 6000', '']
+poznamky:
+- n: 1
+  text: |-
+    Menší míra, osmina achtelu, je měřice (*Metze*), jak ukazují následující výpočty (achtel = 8 měřic). Achtel o 163 librách odpovídá při libře kolem 0,47 kg zhruba 76 kg obilí; přesná hodnota se podle místa lišila, jak Solms sám připomíná na další straně.
+- n: 2
+  text: |-
+    Tisková chyba: 500 osob spotřebuje za týden 3500 chlebů (500 × 7), jak odpovídá i uvedené váze 70 centů (3500 × 2 libry = 7000 liber) a množství žita (3500 : 90 = 38 achtelů a 7 měřic).
+- n: 3
+  text: |-
+    Tisková chyba: 150000 chlebů dělá 1666 achtelů a 5 měřic (150000 : 90), nikoli 1066. Ostatní čísla výpočtu (váha i obilí) jsou správná; zbytky měřic tisk zaokrouhluje dolů.

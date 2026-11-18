@@ -1,0 +1,50 @@
+id: 7-016v
+list: 16 (7. kniha)
+strana: verso
+sken: 580
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    geordnet werden / daß die in der eil fluchs zusamen rucken / vnd allwegen die pferde / so in einem wagen sind / so bald neben dem wagen der vor jm ist herzů fahre / vnnd seine pferdt neben den wagen der für jm ist füre / damit solcher wagen vor jm seine pferde vornen bedecke / vnd er zu dem nechsten so er kan an denselbigen wagen so vor jm ist seinen wagen anfüre / daß seines wagens vorter Redter an des andern Wagens hinder Redtern anstehen / damit kein platz zwischen den Wagen sei / also daß der Feind nit durch mag / vnd so lang die wagen nacheinander sind / also zusamen füren / vnd einer dem andern seine Pferdt bedecken / daß die Feinde nicht zu den pferden vor den wagen künden kommen.
+  cs: |-
+    seřadit tak, aby se rychle srazily dohromady. Vozka každého vozu má hned přijet vedle vozu, který jede před ním, a své koně postavit vedle tohoto předního vozu, aby mu vůz před ním kryl koně zepředu. Svůj vůz má co nejtěsněji přirazit k vozu před sebou, aby přední kola jeho vozu stála u zadních kol druhého vozu a mezi vozy nezůstalo žádné místo, kudy by nepřítel mohl projít. Tak se mají vozy srazit dohromady po celé délce, jak jdou za sebou, a jeden má druhému krýt koně, aby se nepřítel nemohl dostat ke koním zapřaženým do vozů.[^1]
+- typ: odstavec
+  de: |-
+    Vnd wo sichs in der eil leiden vnnd schicken will / daß mann die streitwagen mit zu wehrn eingefürt / vnnd auch kröpffung darmit gemacht hette / daß sie die andern wagen streichen möchten.
+  cs: |-
+    A kde to narychlo jde a hodí se, je dobré k obraně zařadit i bojové vozy {streitwagen} a udělat z nich také vysunuté zlomy {kröpffung}, aby mohly ostatní vozy ostřelovat z boku {streichen}.
+- typ: odstavec
+  de: |-
+    Solchs erfordert einen geschickten man der das zu ordnen vnd zu füren verstendig sei / seine Leut habe / vnd darbei sei / vnd alle Wagenmeister der Regiment auff solchen zugehorsam warden / volgen / vnd zu dem trewlichsten verhelffen.
+  cs: |-
+    To vyžaduje zručného muže, který rozumí tomu, jak to uspořádat a vést, má své lidi a je u toho. Všichni vozmistři {Wagenmeister} pluků {Regiment} mají takového muže poslouchat, řídit se jím a co nejvěrněji mu pomáhat.
+- typ: odstavec
+  de: |-
+    Dann fürwar es ist zugedencken daß solchs von Alten nicht vbel bedacht / wiewol die Krieg vnd derselbigen jetzte Ordnung vnd Regierung anderst / vnd nit in einem solchen gebrauch ist / doch so ist es nit hinzuwerffen oder zuuerachten / dieweil man doch souil besolder wagen im Veld hat vnd haben můß / so macht es doch ein gůt Ordnung / vnd helt gůt maß vnd regierung vnder den wagen / wann sie also auff ein haupt ein auffsehens vnd sorg haben mussen.
+  cs: |-
+    Je totiž jistě třeba uvážit, že to předkové nevymysleli špatně. Ačkoli se dnes válčí jinak a dnešní řád a správa války jsou jiné a takový zvyk se už nepoužívá, nemá se to přesto zahazovat ani pohrdat tím. Vždyť se v poli má a musí mít tolik placených vozů; tak to přece dělá dobrý pořádek a udržuje mezi vozy náležitou míru a správu, když musí hledět na jednu hlavu a mít o ni péči.
+- typ: odstavec
+  de: |-
+    Vnd so mann dann also wolt sich einer Wagenburg zu dem kriegsuolck zufüren vndernemen / so were allwegen auff hundert wagen die besoldet weren / vier streitwagen zuordnen / als nemlich zwen Wagen mit dreien Hacken / vnd zwen wagen mit schirmen.
+  cs: |-
+    Kdyby se tedy někdo chtěl podjat toho, že povede u válečného lidu vozovou hradbu {Wagenburg}, měly by se vždy na sto placených vozů přidělit čtyři bojové vozy, totiž dva vozy se třemi hákovnicemi {Hacken} a dva vozy se štíty {schirmen}.
+- typ: odstavec
+  de: |-
+    Vnd so mann ein Wagenburg schlagen oder schliessen wolt / so mag mann nemen / von den zwei hundert Reißwagen / die acht reißwagen / vnd zwischen die zweihundert Reißwagen / soll mann acht Reißwagen nemen / vnd darmit ein auß kröpffung zwergs vor die Wagen auff einer seiten machen / auff einer seiten zwen wagen vor ein ander / vnd auff der andern seiten auch zwen Streitwagen / vnd allwegen ein Wagen mit doppel hacken / vnd den andern ein schirmwagen / daß also alwegen ein Hackenwagen vnd ein Schirmwagen bei einander stehn auff einer jeden seiten / vnd vnder augen zwischen den seiten Wagen.
+  cs: |-
+    A chce-li se rozbít nebo uzavřít vozová hradba, lze vzít z dvou set cestovních vozů {Reißwagen} oněch osm [bojových] vozů; mezi dvě stě cestovních vozů se má vzít osm vozů a udělat z nich napříč před vozy na jedné straně vysunutý zlom {außkröpffung}: na jedné straně dva vozy za sebou a na druhé straně také dva bojové vozy, vždy jeden vůz s dvojitými hákovnicemi {doppel hacken} a druhý štítový vůz {schirmwagen}, takže na každé straně stojí vždy pohromadě jeden vůz s hákovnicemi a jeden štítový vůz, a čelem mezi bočními vozy.[^2]
+- typ: odstavec
+  de: |-
+    Die ander vier Wagen als zwen Hackenwägen / zwen
+  cs: |-
+    Ostatní čtyři vozy, totiž dva vozy s hákovnicemi {Hackenwägen} a dva
+poznamky:
+- n: 1
+  text: |-
+    Tisk má „die pferde / so in einem wagen sind“ (koně, kteří jsou zapřaženi do vozu), dále však mluví o „jeho vozu“; míněn je tedy vozka se spřežením. Popisuje se nouzové sražení pochodové kolony vozů do souvislé hradby, v níž každý vůz kryje koně následujícího.
+- n: 2
+  text: |-
+    Věta v tisku nemá dokončený přísudek; „vnder augen“ znamená čelem k nepříteli. Slíbený nákres („Abreissung Figur weiß“, viz [[7-017r|následující stranu]]) v knize není.

@@ -1,0 +1,50 @@
+id: 7-006v
+list: 6 (7. kniha)
+strana: verso
+sken: 560
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-560.jpg
+  popis: |-
+    Osm textových karet strany Hannibalovy (černý tisk) v orámovaných polích: v levém sloupci čtyři rytmistři jízdy s počty koní a druhem jízdy (odpovídají obrazovým kartám jízdy na [[7-004v|listu 4v]]), v pravém sloupci jeden oddíl jízdních střelců a tři karty děl. Přepis a překlad nápisů viz tabulka (pořadí po řádcích zleva doprava).
+- typ: tabulka
+  de:
+  - - '1'
+    - Juba ein Ritmeiser mit zwei tausent pferden.
+  - - '2'
+    - Pochus ein Ritmeister mit fünffhunhert Pferden Schützen mit langen rohrn.
+  - - '3'
+    - Micipsa ein Ritmeister mit fünfftzehen hundert Pferden spisser.
+  - - '4'
+    - Vier Scharpffemetzen.
+  - - '5'
+    - Hiemsalem ein Ritmeister mit fünffhundert leicht pferden spisser.
+  - - '6'
+    - Zehen Cartaunen.
+  - - '7'
+    - Sabura ein Ritmeister mit fünffhundert pferden Schützen.
+  - - '8'
+    - Zehen halb Cartaun.
+  cs:
+  - - '1'
+    - Juba, rytmistr {Ritmeiser} se dvěma tisíci koňmi.
+  - - '2'
+    - Bocchus, rytmistr s pěti sty koňmi střelců {Schützen} s dlouhými hlavněmi {rohrn}.
+  - - '3'
+    - Micipsa, rytmistr s patnácti sty koňmi kopiníků {spisser}.
+  - - '4'
+    - Čtyři šarfmece {Scharpffemetzen}.
+  - - '5'
+    - Hiempsal, rytmistr s pěti sty lehkými koňmi {leicht pferden} kopiníků.
+  - - '6'
+    - Deset kartoun {Cartaunen}.
+  - - '7'
+    - Saburra, rytmistr s pěti sty koňmi střelců.
+  - - '8'
+    - Deset polovičních kartoun {halb Cartaun}.[^1]
+poznamky:
+- n: 1
+  text: |-
+    Jména severoafrických (numidských a mauretánských) panovníků a vojevůdců jsou opět anachronická vůči Hannibalovi: Juba I. Numidský († 46 př. Kr.) a jeho vojevůdce Saburra (*Sabura*), Bocchus I. Mauretánský (*Pochus*), Micipsa a jeho syn Hiempsal (*Hiemsalem*), 2. stol. př. Kr. Tiskové chyby: *Ritmeiser* (za *Ritmeister*) a *fünffhunhert* (za *fünffhundert*). Celkem karty uvádějí 5000 koní.

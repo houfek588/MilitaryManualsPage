@@ -1,0 +1,33 @@
+id: 8-titul
+list: titulní list (8. kniha)
+strana: recto
+sken: 587
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Das acht Bůch.
+    Ein kurtzer Bericht/ wie mann ein Stat/ Schloß oder Flecken mit Kriegsuolck besetzen soll/ das sie sich für dem Feinde erhalten mögen.
+  cs: |-
+    Osmá kniha.
+    Krátká zpráva, jak se má město, zámek nebo městečko obsadit válečným lidem {Kriegsuolck}, aby se před nepřítelem udrželo.
+- typ: odstavec
+  de: |-
+    Mit einer Außtheilung/ was einem menschen an Brot vnd Fleysch/ auch was einem jeden Pferd für Hafern/ einn tag soll geben werden/ das sie nach notturfft gnug haben.
+  cs: |-
+    S rozpisem, kolik chleba a masa se má na den dávat jednomu člověku a kolik ovsa každému koni, aby měli dostatek podle potřeby.
+- typ: obrazek
+  soubor: drevorez-587.jpg
+  popis: |-
+    Dřevořez císařského znaku Karla V. (z téhož štočku jako na titulních listech předchozích knih): uprostřed štít s dvouhlavým říšským orlem a habsbursko-španělským srdečním štítkem, převýšený korunou a obklopený řetězem řádu Zlatého rouna. Po stranách stojí dva Herkulovy sloupy s korunkami, přidržované dvěma okřídlenými putti a ovinuté vlajícími stuhami s císařským heslem „PLVS – VLTRE“. Nad znakem je drobná ornamentální vinětka.
+- typ: odstavec
+  de: |-
+    Getruckt im Jar M. D. LX.
+  cs: |-
+    Tištěno léta 1560.[^1]
+poznamky:
+- n: 1
+  text: |-
+    Titulní list Osmé knihy je tištěn černě a červeně. Na rozdíl od titulů předchozích knih (Pátá až Sedmá kniha: M. D. Lix., tj. 1559) nese letopočet 1560 – Osmá kniha tedy vyšla z tiskárny hraběte Reinharda ze Solmsu v Lichi až v následujícím roce. Rubová strana listu (sken 588) je prázdná, a proto se v edici vynechává.

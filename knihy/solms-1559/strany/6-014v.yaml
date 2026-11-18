@@ -1,0 +1,76 @@
+id: 6-014v
+list: 14 (6. kniha)
+strana: verso
+sken: 520
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['', 'Hanß von Luder.', '']
+  - ['8', 'Item hat auff den Musterplatz 12 meiln/ vnd ist 6 tag mit 2 pferden gereiset vnd stilgelegen/ thůt jedes den tag zu 6 batzen', '4 flo. 12 batz.']
+  - ['', 'Hanß Wolff von der Dann.', '']
+  - ['9', 'Item hat auff den Musterplatz 16 meiln/ ist 7 tag mit 11 pferden gereiset vnd stilgelegen/ thůt das pferd zu 6 betzen', '30 flo. 12 batzen.']
+  - ['', 'Ein Wagen', '5 flo 9 batzen.']
+  - ['', 'Summa', '36 gulden 6 batzen.']
+  - ['', 'Hanß Truchses.', '']
+  - ['10', 'Item hat auff den musterplatz einer tagreisse weitter dann Hanß Wolff von der Dann/ thůn 2 pferde 8 tag', '6 flo. 6 batz.']
+  - ['', 'Hanß von Gortz vnd Christoffel Schade.', '']
+  - ['11', 'Item haben auff den musterplatz 12 meiln/ vnd sein 6 tag gereiset vnd stilligen/ thůt jeden tag jedes pferd 6 batzen/ machen also 21 pferd zu 6 tagen', '26 gulden 6 batzen.']
+  - ['', 'Ein Wagen', '4 flo. 12 batz.']
+  - ['', 'Summa', '31 gulden 3 batzen.']
+  - ['Summa lat.', 'Gelts ist', '78 flo. 12 batzen.']
+  - ['', 'Pferde', '26']
+  - ['', 'Wagen', '2']
+  - ['', 'Leo von Löwenstein.', '']
+  - ['12', 'Item hat auff den musterplatz 14 meiln/ vnd 7 tag mit 4 pferden gereiset vnd stilgelegen/ thůt jeden tag 1 pferd zu 6 batz.', '15 flo. 3 batz.']
+  - ['', 'Item zu seinem theil wagens mit Rubrechten von Mörlen', '3 flo.']
+  - ['', 'Summa', '18 gulden 3 batzen.']
+  - ['', 'Rubrecht von Mörlen.', '']
+  - ['13', 'Item hat auff den musterplatz 8 meiln/ vnd ist 5 tag mit 8 pferden gereiset vnd stilgelegen/ thůt jedes pferd zu 6 batzen', '19 flo.']
+  - ['', 'Item mit Leonharto Löwenstein ein halben wagen darauff', '6 flo.']
+  - ['', 'Summa', '18 gulden.']
+  - ['', 'Hans Volckerßhausen.', '']
+  - ['14', 'Item hat auff den musterplatz 16 meiln/ vnd ist 8 tag mit 13 Rossen gereiset vnd stilgelegen/ thůt jedes Roß ein tag 6 batzen/ machen 13 Roß 8 tag', '41 gulden 9 batz.']
+  - ['', 'Ein Wagen', '6 flo. 6 batz.']
+  - ['', 'Summa', '48 gulden.']
+  - ['', 'Ott vnd Bernhart Hunt.', '']
+  - ['15', 'Item haben auff den musterplatz 16 meiln/ vnd sein 7 tag gereiset vnd stilgelegen mit 10 pferden/ thůt zusamen', '28 gulden.']
+  - ['', 'Ein Wagen', '5 gulden 9 batzen.']
+  cs:
+  - ['', 'Hanß von Luder.', '']
+  - ['8', 'Dále: měl na přehlídkové místo {Musterplatz} 12 mil {meiln} a 6 dní byl se 2 koňmi {pferden} na cestě a ve stání {gereiset vnd stilgelegen}; na každého za den 6 bacenů {batzen}', '4 zl. {flo.} 12 bac.']
+  - ['', 'Hanß Wolff von der Dann.', '']
+  - ['9', 'Dále: měl na přehlídkové místo 16 mil a 7 dní byl s 11 koňmi na cestě a ve stání; na koně 6 bacenů', '30 zl. 12 bac.']
+  - ['', 'jeden vůz {Wagen}', '5 zl. 9 bac.']
+  - ['', 'suma', '36 zlatých {gulden} 6 bacenů']
+  - ['', 'Hanß Truchses.', '']
+  - ['10', 'Dále: měl na přehlídkové místo o den cesty dál než Hanß Wolff von der Dann; činí 2 koně za 8 dní', '6 zl. 6 bac.']
+  - ['', 'Hanß von Gortz a Christoffel Schade.', '']
+  - ['11', 'Dále: měli na přehlídkové místo 12 mil a 6 dní byli na cestě a ve stání; každý den na každého koně 6 bacenů, činí tedy 21 koní za 6 dní', '26 zlatých 6 bacenů[^1]']
+  - ['', 'jeden vůz', '4 zl. 12 bac.']
+  - ['', 'suma', '31 zlatých 3 bacenů']
+  - ['součet strany {Summa lat.}', 'peněz je', '78 zl. 12 bac.']
+  - ['', 'koní', '26']
+  - ['', 'vozů', '2']
+  - ['', 'Leo von Löwenstein.', '']
+  - ['12', 'Dále: měl na přehlídkové místo 14 mil a 7 dní byl se 4 koňmi na cestě a ve stání; každý den na 1 koně 6 bacenů', '15 zl. 3 bac.[^2]']
+  - ['', 'Dále: na jeho díl vozu, [který má] s Rubrechtem von Mörlen', '3 zl.']
+  - ['', 'suma', '18 zlatých 3 bacenů']
+  - ['', 'Rubrecht von Mörlen.', '']
+  - ['13', 'Dále: měl na přehlídkové místo 8 mil a 5 dní byl s 8 koňmi na cestě a ve stání; na každého koně 6 bacenů', '19 zl.']
+  - ['', 'Dále: s Leonhartem Löwensteinem půl vozu, na to', '6 zl.']
+  - ['', 'suma', '18 zlatých']
+  - ['', 'Hans Volckerßhausen.', '']
+  - ['14', 'Dále: měl na přehlídkové místo 16 mil a 8 dní byl se 13 koňmi {Rossen} na cestě a ve stání; na každého koně za den 6 bacenů, činí 13 koní za 8 dní', '41 zlatých 9 bac.']
+  - ['', 'jeden vůz', '6 zl. 6 bac.']
+  - ['', 'suma', '48 zlatých']
+  - ['', 'Ott a Bernhart Hunt.', '']
+  - ['15', 'Dále: měli na přehlídkové místo 16 mil a 7 dní byli na cestě a ve stání s 10 koňmi; činí dohromady', '28 zlatých']
+  - ['', 'jeden vůz', '5 zlatých 9 bacenů']
+poznamky:
+- n: 1
+  text: Má být 11 koní (11 × 6 dní × 6 bacenů = 26 zl. 6 bac.); s tím souhlasí i součet strany 26 koní.
+- n: 2
+  text: U položek 12 a 13 tištěné částky s výpočtem nesouhlasí (7 × 4 × 6 bacenů = 11 zl. 3 bac.; 5 × 8 × 6 bacenů = 16 zl.) a suma položky 13 (18 zl.) neodpovídá ani tištěným 19 + 6 zl. Leo (Leonhart) von Löwenstein a Rubrecht von Mörlen sdílejí jeden vůz.

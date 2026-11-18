@@ -1,0 +1,89 @@
+id: 6-013v
+list: 13 (6. kniha)
+strana: verso
+sken: 518
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['Summa lat.', 'Gelts ist', '139 gulden 6 batzen.']
+  - ['', 'Pferde', '40']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen.', '3']
+  - ['', 'Johan von Ratzenberg.', '']
+  - ['7', 'Item hat auff den Musterplatz 28 Meiln/ vnd ist 9 tag mit 7 pferden gereist vnd stilgelegen/ thůt ein pferde zu 6 batzen', '30 flo. 12 batze.']
+  - ['', 'Wagen', '9 gulden.']
+  - ['', 'Summa', '39 gulden 12 batzen.']
+  - ['', 'Andres von Ecken.', '']
+  - ['8', 'Item hat von Hildeßheim auff den Musterplatz 32 meiln/ vnd ist 12 tag mit 5. pferden gereiset vnd stilgelegen/ thut jeden tag auff ein jedes pferd 6 batzen/ die 12 tag 5 pferde', '24 gulden.']
+  - ['', 'Summa lat.', '24 gulden.']
+  - ['', 'Jost von Altar Mandelsa.', '']
+  - ['9', 'Item haben vff den musterplatz 36 meiln/ vnd sind 12½ tag gereist vnd stilgelegen/ thůt ein pferd ein tag zů 6 batzen gerechnet/', '32 flo. 6 batz.']
+  - ['', 'Wagen', '10 gulden 12 batzen.']
+  - ['', 'Summa', '43 gulden 3 batzen.']
+  - ['', 'Conradt von Mandelsa.', '']
+  - ['10', 'Item hat auff den Musterplatz 36 meiln/ vnd ist 13½ tag mit 6 pferden gereist vnd stilgelegen/ thůt ein pferd zu 6 batzen', '32 gulden 6 batzen.']
+  - ['', 'Summa', '32 gulden 6 batzen.']
+  - ['Summa lat.', 'Gelt', '139 gulden 6 batzen.']
+  - ['', 'Pferde', '26']
+  - ['', 'Droß', '0']
+  - ['', 'Wagen.', '2']
+  - ['', 'Vick vnd Jost von Velten.', '']
+  - ['13', 'Item haben vff den musterplatz 38 meiln vnd sind 13½ tag mit 12 pferden gereist vnd stilgelegen/ thůt ein tag ein pferd zu 6 batzen', '64 flo. 12 ba.']
+  - ['', 'Ein Wagen thůt an gelt', '10 gulden 12 batzen.']
+  - ['', 'Summa', '75 gulden 9 batzen.']
+  - ['Summa lat.', 'Gelts', '75 flo. 9 batz.']
+  - ['', 'Pferd', '12']
+  - ['', 'Drosser', '0']
+  - ['', 'Wagen', '1']
+  cs:
+  - ['součet strany {Summa lat.}', 'peněz je', '139 zlatých {gulden} 6 bacenů {batzen}[^1]']
+  - ['', 'koní {Pferde}', '40']
+  - ['', 'trénních koní {Drosser}', '1']
+  - ['', 'vozů {Wagen}', '3']
+  - ['', 'Johan von Ratzenberg.', '']
+  - ['7', 'Dále: měl na přehlídkové místo {Musterplatz} 28 mil {Meiln} a 9 dní byl se 7 koňmi na cestě a ve stání {gereist vnd stilgelegen}; na koně 6 bacenů', '30 zl. {flo.} 12 bac.']
+  - ['', 'vůz', '9 zlatých']
+  - ['', 'suma', '39 zlatých 12 bacenů']
+  - ['', 'Andres von Ecken.', '']
+  - ['8', 'Dále: měl z Hildesheimu na přehlídkové místo 32 mil a 12 dní byl s 5 koňmi na cestě a ve stání; na každého koně každý den 6 bacenů, za 12 dní a 5 koní', '24 zlatých']
+  - ['', 'součet strany', '24 zlatých']
+  - ['', 'Jost von Altar Mandelsa.[^2]', '']
+  - ['9', 'Dále: měli na přehlídkové místo 36 mil a 12½ dne byli na cestě a ve stání; na koně za den počítáno 6 bacenů', '32 zl. 6 bac.']
+  - ['', 'vůz', '10 zlatých 12 bacenů']
+  - ['', 'suma', '43 zlatých 3 bacenů']
+  - ['', 'Conradt von Mandelsa.', '']
+  - ['10', 'Dále: měl na přehlídkové místo 36 mil a 13½ dne byl se 6 koňmi na cestě a ve stání; na koně 6 bacenů', '32 zlatých 6 bacenů']
+  - ['', 'suma', '32 zlatých 6 bacenů']
+  - ['součet strany', 'peněz', '139 zlatých 6 bacenů']
+  - ['', 'koní', '26']
+  - ['', 'trénních koní {Droß}', '0']
+  - ['', 'vozů', '2']
+  - ['', 'Vick a Jost von Velten.', '']
+  - ['13', 'Dále: měli na přehlídkové místo 38 mil a 13½ dne byli s 12 koňmi na cestě a ve stání; na koně za den 6 bacenů', '64 zl. 12 bac.[^3]']
+  - ['', 'jeden vůz činí na penězích', '10 zlatých 12 bacenů']
+  - ['', 'suma', '75 zlatých 9 bacenů']
+  - ['součet strany', 'peněz', '75 zl. 9 bac.']
+  - ['', 'koní', '12']
+  - ['', 'trénních koní', '0']
+  - ['', 'vozů', '1']
+- typ: tabulka
+  de:
+  - ['Summarum der reisigen pferd ist 104/ thůn an gelt', '520 gul. 12 batz.']
+  - ['Summarum aller Drosser ist 3/ thůn an gelt', '7 gulden 7½ batz.']
+  - ['Summarum aller Wagen ist 8/ thůn an gelt', '81 gulden 12 batz.']
+  - ['Summarum alles gelt der pferde/ Drosser vnd wägen ist samptlich', '610 gulden 1½ batzen.']
+  cs:
+  - ['Jezdeckých koní {reisigen pferd} je celkem 104, činí na penězích', '520 zl. 12 bac.']
+  - ['Všech trénních koní je celkem 3, činí na penězích', '7 zlatých 7½ bac.']
+  - ['Všech vozů je celkem 8, činí na penězích', '81 zlatých 12 bac.']
+  - ['Úhrn všech peněz za koně, trénní koně a vozy činí celkem', '610 zlatých 1½ bacenu']
+poznamky:
+- n: 1
+  text: Součet strany za položky 3–6 (Christoffel von Bortzfelt až Rudolff von Bortzfelt). Tištěná částka 139 zl. 6 bac. je totožná se součtem položek 7–10 níže a s položkami 3–6 (dohromady 237 zl. 9 bac.) nesouhlasí; počty koní, trénních koní a vozů sedí. Číselné nesrovnalosti tohoto rejstříku nelze z tisku plně rozřešit.
+- n: 2
+  text: Tisk „Jost von Altar Mandelsa“ se slovesem v množném čísle („haben … sind“); jde patrně o Josta von Alten a [Gieße] von Mandelsen z přehlídkového lístku Henickena von Bortzfelt [[6-009r|na listu 9]]. Položka neuvádí počet koní.
+- n: 3
+  text: Číslování položek přeskakuje z 10 na 13 – Vick a Jost von Velten jsou dvě osoby (v přehlídkovém lístku položky 8 a 10).

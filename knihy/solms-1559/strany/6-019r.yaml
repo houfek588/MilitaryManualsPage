@@ -1,0 +1,63 @@
+id: 6-019r
+list: 19 (6. kniha)
+strana: recto
+sken: 529
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    31 Vnd dieweil villerlei Nation zu Roß vnd zufuß zusamen komen werden / derhalben vmb so vil mehr auß geringen vrsachen sich vnwil vnd zweiung zutragen mag / solchs zuuerhüden / soll kein Nation die ander einigerlei sachen halb / mit worten / wercken / noch geberden schmehen verkleinern oder stümpffiren / noch sich mit derselben von wegen des glaubens in disputation einlassen / sonder wo eine Nation gegen der andern einige beschwert spruch vnd fürderung zuhaben vermeite / sol daßselb bei jrer Oberkeit gesucht vnd nach kriegßrecht erortern vnd außgetragen werden / auch einer dem ander sein gewunne beut oder gefangne mit gewalt odder sonst nicht empfrembden / sonder sollen sich jrer jrtung vnd vneinigkeit so sich derhalben zutragen möcht / durch den öbersten Velthauptman jre öberste vnd derselben Ritmeistern entledigen vnd entscheiden lassen.
+  cs: |-
+    31 A protože se sejde mnoho národů {Nation} na koni i pěšky, a z nepatrných příčin tak může tím snáze vzniknout nevole a rozkol, aby se tomu předešlo, nemá žádný národ druhý z jakékoli příčiny hanět, snižovat ani tupit slovy, činy ani posunky, ani se s ním pouštět do sporů o víru. Domnívá-li se však některý národ, že má vůči druhému nějakou stížnost, nárok či požadavek, má jej uplatnit u své vrchnosti a dát jej projednat a rozhodnout podle válečného práva {kriegßrecht}. Také nikdo nemá druhému násilím ani jinak odcizit jeho ukořistěnou kořist {beut} nebo zajatce; spory a nesváry, které by z toho vzešly, mají dát urovnat a rozsoudit nejvyššímu polnímu hejtmanovi {öbersten Velthauptman}, svým plukovníkům {öberste} a jejich rytmistrům {Ritmeistern}.[^1]
+- typ: odstavec
+  de: |-
+    32 Item sie sollen in keinerlei weg ichts das wider die alte Religion oder sonst geistliche oder weltliche personen sei fürnemen / noch einer dem andern gestaten.
+  cs: |-
+    32 Dále: nemají žádným způsobem podnikat nic, co by bylo proti staré víře {alte Religion} nebo jinak proti duchovním či světským osobám, ani to jeden druhému dovolovat.
+- typ: odstavec
+  de: |-
+    33 Vnd nach dem sich hieuor mehrmalen in bezalung des kriegßuolckts jrrung zutragen / von wegen der Müntz solches zufürkomen / wöllen wir daran sein vnd beuelch thůn / das hinfürter für ein jeden gulden Reinisch zu Müntz fünfftzehen batzen oder fünff vnd zwentzig stiber in allerlei golt oder müntz wie solchs gelt an den orten da die bezalung beschehen sollen ganghafft im werd sein bezalt werden.
+  cs: |-
+    33 A protože dříve při výplatě válečného lidu {kriegßuolckts} vícekrát docházelo kvůli minci {Müntz} k nedorozuměním, chceme tomu předejít, dbát na to a nařídit, aby se napříště za každý rýnský zlatý {gulden Reinisch} v minci platilo patnáct bacenů {batzen} nebo pětadvacet stüverů {stiber}, v jakémkoli zlatě či minci, jak jsou tyto peníze v místech, kde se má výplata konat, běžné a jakou mají hodnotu.
+- typ: odstavec
+  de: |-
+    34 Item ob wir andern Reisigen in jrer bestallung der oberlendischen Reuter teuscher Nation etwas mehr machen würde / soll solchs deßgedachten vnsers Oheims vnnd Fürsten Reisigen auch gebüren jnen gereicht vnd gegeben werden.
+  cs: |-
+    34 Dále: kdybychom jiným jezdcům {Reisigen} z hornoněmecké jízdy {oberlendischen Reuter} německého národa přidali v jejich služebním listu {bestallung} něco víc, má to náležet i jezdcům řečeného našeho strýce {Oheims} a knížete a má jim to být vydáno a dáno.
+- typ: odstavec
+  de: |-
+    35 Item es soll der Musterplatz am Rein vngeuerlich zehen oder 15 meiln vnder odder oberhalb Speir / vnnd der tag der musterung vffs lengst den fünff vnd zwentzigsten tag Mei schirist künfftig sein vnd beschehen.
+  cs: |-
+    35 Dále: přehlídkové místo {Musterplatz} má být na Rýně, přibližně deset nebo 15 mil pod Špýrem nebo nad ním, a přehlídka {musterung} se má konat nejpozději dvacátého pátého května nejblíže příštího.[^2]
+- typ: odstavec
+  de: |-
+    36 Des alles zu vrkundt haben wir dise verzeignuß Stat vnd Articul / mit vnser eigen hand vnderschrieben / vnnd mit vnserm auffgedruckten Insigl besiglen lassen / geben in vnser vnd des Reichs Stat Speir den 5 Aprillis Anno etc. im 44 / vnsers Keiserthumbs im 24 / vnd vnserer Reiche im 29.
+  cs: |-
+    36 Na svědectví toho všeho jsme tento soupis {verzeignuß}, stav {Stat} a články {Articul} vlastní rukou podepsali a dali zpečetit naší přitištěnou pečetí. Dáno v našem a říšském městě Špýru 5. dubna léta [15]44, našeho císařství ve 24. a našich království ve 29. roce.[^3]
+- typ: odstavec
+  de: |-
+    37 Verung mundlicher abred vnd vereinigung gibt die Kei. Mat. jren F. G. auff jre Taffel monatlich 300 flo. zu fünfftzehen batzen oder fünff vnd zwentzig stibern gerechnet zu allen gemelten
+  cs: |-
+    37 Podle[^4] ústní úmluvy a dohody dává Císařské Veličenstvo {Kei. Mat.} Jeho knížecí Milosti {F. G.} na jeho tabuli {Taffel} měsíčně 300 zlatých {flo.}, zlatý počítaný po patnácti bacenech nebo pětadvaceti stüverech, nad všechny uvedené [částky].
+- typ: odstavec
+  de: |-
+    Item auff zwölff Drabanten so auff seiner F. G. leib warden jeden monatlich acht gulden thůt neuntzig gulden.
+  cs: |-
+    Dále na dvanáct drabantů {Drabanten}, kteří střeží osobu Jeho knížecí Milosti, každému měsíčně osm zlatých; to činí devadesát zlatých.[^5]
+poznamky:
+- n: 1
+  text: |-
+    Tisk má *Ritmei-|sterl*; poslední písmeno je zřejmě poškozené *n* (*Ritmeistern*).
+- n: 2
+  text: |-
+    Přehlídka se nakonec konala u Landavy (Landau in der Pfalz, asi 30 km západně od Špýru) a služba jízdy se počítala od 5. června 1544 (viz [[6-019v|přehlídkový rejstřík]]).
+- n: 3
+  text: |-
+    Listina byla vydána během říšského sněmu ve Špýru (únor–červen 1544), kde Karel V. získal od stavů pomoc proti Francii. Karel byl zvolen římským králem 1519 (24. rok „císařství“) a vládl ve Španělsku od roku 1516 (29. rok „království“).
+- n: 4
+  text: |-
+    Tisk má *Verung*, zřejmě tisková chyba za *Vermög* („podle, na základě“). Věta končí neúplně slovy *zu allen gemelten* („ke všem uvedeným“) – snad chybí slovo jako *Ämptern* či *Summen*.
+- n: 5
+  text: |-
+    Tisková chyba: 12 × 8 zlatých = 96 zlatých, jak správně uvádí i výpočet stavu na [[6-022r|s. 6-022r]].

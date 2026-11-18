@@ -1,0 +1,61 @@
+id: 6-004r
+list: 4 (6. kniha)
+strana: recto
+sken: 499
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    zu Oppenheim oder Meintz vberzufaren verschaffen / den nechsten auff Keisserßlautern / vnd von dannen den nechsten vff Metz zu.
+  cs: |-
+    zajistili jim přepravu přes [Rýn] u Oppenheimu nebo Mohuče, odtud nejkratší cestou na Kaiserslautern a odtamtud nejkratší cestou k Métám.[^1]
+- typ: odstavec
+  de: |-
+    Item so sie auff heut Dato sich auff den weg machen / werden sie sich in zweien tagen gen Franckfurt verfügen / vnnd von stundan daselbst den andern tag Ordnung geben / vnd fleissig anhalten damit die Musterung on weitern verzug auff sieben vnd zwentzig diß angefangen vnd volendet werd / damit die Reuter wo müglich vff acht vnd zwentzig in Zug bracht werden.
+  cs: |-
+    Dále: vydají-li se na cestu dnešního data, dostanou se do Frankfurtu za dva dny. Tam mají hned druhý den učinit opatření a pilně dbát, aby přehlídka {Musterung} byla bez dalšího odkladu dvacátého sedmého tohoto [měsíce] zahájena i dokončena a jezdci {Reuter} se pokud možno dvacátého osmého vydali na tažení {Zug}.
+- typ: odstavec
+  de: |-
+    Item werden die obgemelten die Musterung thůn / nach laut der Bestallung wie von der jeden ein Copei zugestelt / vnnd der in allen puncten nachkomen.
+  cs: |-
+    Dále vykonají jmenovaní přehlídku podle znění služebního listu {Bestallung}, jehož opis {Copei} každý z nich obdržel, a budou se jím ve všech bodech řídit.
+- typ: odstavec
+  de: |-
+    Item so bald solche Reuter gemustert vnnd abgezalt / sollen sie sich auff Franckfurt verfügen / vnd zum Strauß in der Herberg den Zalmeister finden / bei dem sie den Reutern bezalung verschaffen / vnd darneben dem obgemelten Zalmeister die Lieberantzen mit jren eigen händen vnderzeichnet zustellen
+  cs: |-
+    Dále: jakmile budou tito jezdci přehlédnuti a vyplaceni, mají se odebrat do Frankfurtu a v hostinci „Zum Strauß“ (U Pštrosa) vyhledat platebníka {Zalmeister}, u něhož jezdcům zajistí výplatu; vedle toho mají jmenovanému platebníkovi předat platební poukázky {Lieberantzen} podepsané vlastní rukou.[^2]
+- typ: odstavec
+  de: |-
+    Item werden die obgemelten Herrn sich wol wissen zuhalten / die öbersten Ritmeister / Rotmeister vnnd Hauptleut zuermanen wie weit ein jeder Reissiger biß auff den Musterplatz von Hauß auß zu ziehen / vnnd reuter gehabt hat / vnnd dasselbig ordenlich in ein eigen register auffschreiben zulassen / vnnd alßdan das anrit gelt fleissig abzelen / vnd summiern wie sie dann zuthůn wol wissen.
+  cs: |-
+    Dále se jmenovaní páni budou umět dobře zařídit: mají vyzvat nejvyšší rytmistry {Ritmeister}, rotmistry {Rotmeister} a hejtmany {Hauptleut}, [aby uvedli,] jak daleko měl každý jezdec {Reissiger} z domova až na přehlídkové místo {Musterplatz} táhnout a jet; to mají dát řádně zapsat do zvláštního rejstříku {register} a potom příjezdné {anrit gelt} pečlivě spočítat a sečíst, jak to dobře umějí.
+- typ: odstavec
+  de: |-
+    Item wo daß anrit gelt mehr betreffe als die zehen tausent gulten erreichen so sein F. G. jr Kei. Mai. von jr F.G. gebüren / anlag deß reichs hilff fürgestreckt / derhalb jr Ma. auch sein F.G. wo die nit für sich ging verschreiben / vnnd ein schadloß Brieff geben / sollen sie die vberentzigen Summa deß anritsgelt anstehn lassen / biß das die reuter zu Kei. Mai. vnd dem hauffen komen / alßdan jnen solcher rest erbarlich bezalt werden / vnnd sollen den reutern nit desto weniger ein gantzen Monat Solt / auff die handt bei den Zalmeistern zugeben verschaffen wo aber das anrit gelt die zehen tausent gulden nicht erreicht / sonder jn etwas vberbliebe / sollen sie die reuter vff das vberig den Monat Solt bezalen lassen.
+  cs: |-
+    Dále: kdyby příjezdné činilo více než oněch deset tisíc zlatých {gulten}, které Jeho knížecí Milost zapůjčila Jeho císařskému Veličenstvu ze svého podílu na říšské pomoci {deß reichs hilff} (Jeho Veličenstvo se za ně Jeho knížecí Milosti zavázalo úpisem a dalo jí list o odškodnění {schadloß Brieff} pro případ, že by [pomoc] nebyla odvedena), mají přebývající částku příjezdného odložit, dokud jezdci nepřijdou k Jeho císařskému Veličenstvu a k vojsku {hauffen}; pak jim má být tento zbytek poctivě vyplacen. Nicméně mají jezdcům zajistit, aby jim platebníci dali do ruky celý měsíční žold {Monat Solt}. Pokud však příjezdné deset tisíc zlatých nedosáhne a něco jim zbude, mají ze zbytku dát jezdcům vyplatit měsíční žold.[^3]
+- typ: odstavec
+  de: |-
+    Item sollen die Fanen so ferr sein F. G. daß begern zubezalen verschaffen.
+  cs: |-
+    Dále mají zajistit zaplacení korouhví {Fanen}, bude-li to Jeho knížecí Milost žádat.
+- typ: odstavec
+  de: |-
+    Item so jnen jrrungen zufiellen vnd hochgedachter Hertzog Moritz mehr dann tausent Pferdt (so dann die Kei. Mai. jren F.G. darüber hundert aber biß in anderhalb hundert bewilget) die Musterung hielten vff den Musterplatz brecht oder zubringen vergwist / sollen sie daß eilends dem Herrn von Andelot allhieher gen Speir schrifftlich
+  cs: |-
+    Dále: kdyby jim vznikly nesnáze tím, že by jmenovaný vévoda Mořic přivedl na přehlídkové místo více koní, než kolik přehlídka připouští, totiž víc než tisíc (Jeho císařské Veličenstvo mu nad to povolilo sto, nanejvýš však sto padesát), nebo se zaručil, že je přivede, mají to neprodleně panu z Andelotu sem do Špýru písemně[^4]
+poznamky:
+- n: 1
+  text: |-
+    Jezdci měli táhnout na západ k Métám (Metz), odkud v červnu 1544 vyrazilo císařské vojsko do Champagne; tažení vyvrcholilo obléháním Saint-Dizier (červenec–srpen 1544) a skončilo mírem v Crépy (září 1544).
+- n: 2
+  text: |-
+    „Lieberantzen“ (it. liberanza) – platební poukázky či kvitance, podle nichž platebník vydával peníze.
+- n: 3
+  text: |-
+    Říšská pomoc (Reichshilfe) byla vojenská daň povolená císaři na říšském sněmu ve Špýru (únor–červen 1544). Mořic Saský z ní zřejmě vyplatil předem 10 000 zlatých na příjezdné svých jezdců.
+- n: 4
+  text: |-
+    Pan z Andelotu – patrně Jean d'Andelot, štolba (écuyer) a důvěrník Karla V. Císař tehdy pobýval na sněmu ve Špýru, odtud „allhieher“ (sem).

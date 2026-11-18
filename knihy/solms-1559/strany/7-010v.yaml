@@ -1,0 +1,30 @@
+id: 7-010v
+list: 10 (7. kniha)
+strana: verso
+sken: 568
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-568.jpg
+  popis: |-
+    Posledních osm červeně tištěných karet římské strany ve dvou sloupcích: vlevo děla (těžké kulveriny, polní kulveriny, čtvrteční kulveriny, falkonety), vpravo vozy a zařízení vojska (lodní mosty, vozy vozové hradby, obyčejné válečné vozy, muniční vozy). Sestava je shodná s kartáginskými kartami na [[7-007r|listu 7]]. Přepis a překlad nápisů viz tabulka.
+- typ: tabulka
+  de:
+  - - Vier Notschlangen.
+  - - Schiffbrücken.
+  - - Acht Veldschlangen.
+  - - Wagenburgwagen.
+  - - Acht quartirschlangen.
+  - - Gemeine Heerwagen.
+  - - Zehen Falconetlin.
+  - - Monition wagen.
+  cs:
+  - - Čtyři těžké kulveriny {Notschlangen}.
+  - - Lodní mosty {Schiffbrücken}.
+  - - Osm polních kulverin {Veldschlangen}.
+  - - Vozy vozové hradby {Wagenburgwagen}.
+  - - Osm čtvrtečních kulverin {quartirschlangen}.
+  - - Obyčejné válečné vozy {Heerwagen}.
+  - - Deset falkonetů {Falconetlin}.
+  - - Muniční vozy {Monition wagen}.

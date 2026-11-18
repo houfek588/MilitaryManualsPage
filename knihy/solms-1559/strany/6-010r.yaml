@@ -1,0 +1,108 @@
+id: 6-010r
+list: 10 (6. kniha)
+strana: recto
+sken: 511
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['11', 'Gerüster pferde', '12']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['', 'Nota/ wiewol die von Rotenhausen außbleiben/ sind jnen doch auff Hertzog Moritzen verspruch gůt gemacht.', '']
+  - ['12', 'Gerüster pferde', '12']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['Summa lat.', 'Gerüster pferd', '41']
+  - ['', 'Kürisser', '0']
+  - ['', 'Drosser', '3']
+  - ['', 'Wagen', '3½']
+  - ['', 'Fritz Waltschmidt vnd Daniel Newradt.', '']
+  - ['', 'Gerüster pferde', '12']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['', 'Einspennigen.', '']
+  - ['', 'Gerüster pferde', '8']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '½']
+  - ['Summa lat.', 'Gerüster pfer.', '20']
+  - ['', 'Kürisser', '0']
+  - ['', 'Drosser', '2']
+  - ['', 'Wagen', '1½']
+  cs:
+  - ['11', 'zbrojní koně {Gerüster pferde}', '12']
+  - ['', 'trénní koně {Drosser}', '1']
+  - ['', 'vozy {Wagen}', '1']
+  - ['', 'Pozn.: Ačkoli ti z Rotenhausenu nepřijeli, byla jim přesto na slib vévody Mořice [jejich částka] přiznána.[^1]', '']
+  - ['12', 'zbrojní koně', '12']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['součet strany {Summa lat.}', 'zbrojní koně', '41']
+  - ['', 'kyrysníci {Kürisser}', '0']
+  - ['', 'trénní koně', '3']
+  - ['', 'vozy', '3½']
+  - ['', 'Fritz Waltschmidt a Daniel Newradt.', '']
+  - ['', 'zbrojní koně', '12']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Jednokoní jezdci {Einspennigen}.', '']
+  - ['', 'zbrojní koně', '8']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '½']
+  - ['součet strany', 'zbrojní koně', '20']
+  - ['', 'kyrysníci', '0']
+  - ['', 'trénní koně', '2']
+  - ['', 'vozy', '1½']
+- typ: tabulka
+  de:
+  - ['Summarum gerüster pferd ist 152. gehört vff jedes 12 fl. thůt', '1824 flo.']
+  - ['Summarum der Kürisser ist 1. thůt an gelt zum vbersold', '12 flo.']
+  - ['Summarum der Drosser ist 12. thůt einem 6 flo. macht zusamen', '72 flo.']
+  - ['Summarum der wagen ist 13. gehört auff ein 24 flo. thůt', '312 flo.']
+  - ['Summa summarum alles der Reisigen/ Kürisser/ Drosser vnd Wagen gelts ist zusamen', '2220 flo.']
+  cs:
+  - ['Zbrojních koní je celkem 152; na každého připadá 12 zlatých {fl.}, činí', '1824 zl.']
+  - ['Kyrysník je celkem 1; to činí na penězích jako přeplatek {vbersold}', '12 zl.']
+  - ['Trénních koní je celkem 12; na jednoho 6 zlatých, činí dohromady', '72 zl.']
+  - ['Vozů je celkem 13; na jeden připadá 24 zlatých, činí', '312 zl.']
+  - ['Celkový součet {Summa summarum} všech peněz za jezdce {Reisigen}, kyrysníky, trénní koně a vozy činí dohromady', '2220 zl.']
+- typ: nadpis
+  uroven: 3
+  de: Summa summarum der gantzen musterung mit sampt dem stat.
+  cs: Celkový součet celé přehlídky {musterung} i se stavem {stat}.
+- typ: tabulka
+  de:
+  - ['1', 'Hertzog Moritzen Hoffgesinds musterung thůt zusamen/ Inhalt des Muster Registers', '2548 flo.']
+  - ['2', 'Andres Pflügs Musterung/ thůt alles zůsamen', '4460 flo.']
+  - ['3', 'Hennicken von Portfels musterung/ thůt alles zu samen.', '1434 flo.']
+  - ['4', 'Helwigs von Rückerßhausen vnd Daniel Scheurschloß Musterung thut zusamen/ inhalt des Musterzetels.', '2220 flo.']
+  - ['', 'Summa lat.', '10662 flo.']
+  - ['1', 'Auff Hertzog Moritzen stat/ gebürn jrer F. G. vff 699 pferde/ von jeglichem einen gulden/ thut', '699 flo.']
+  - ['2', 'Auff jedes 100 pferde gehört ein Drabant/ thut 7 Drabanten/ jedem acht gulden/ macht', '56 flo.']
+  - ['3', 'Auff 50 pferde gehört ein Rotmeister/ gebürt eim 25 flo. thut', '350 fl.']
+  - ['4', 'Auff jedes 100 pferde gehört ein Huffschmidt/ vnd jeglichem 12 fl. vbersold/ macht', '84 flo.']
+  - ['5', 'Auffs Fürsten doffel', '300 flo.']
+  - ['6', 'Auff jrer G. Leutenant', '100 flo.']
+  - ['7', 'Auff die 6 hohen Empter/ als Komormeister/ Prouiantmeister/ Quartirmeister/ Wachtmeister/ Leibartz vnd Wundartz jedem 40 flo. thut', '240 flo.']
+  - ['8', 'Capellan/ Fürer vnd Schreiber jedem vbersold 12 flo. thut', '36 flo.']
+  - ['', 'Summa lat.', '1865 flo.']
+  cs:
+  - ['1', 'Přehlídka dvorské družiny {Hoffgesinds} vévody Mořice činí podle přehlídkového rejstříku {Muster Registers} dohromady', '2548 zl.']
+  - ['2', 'Přehlídka Andrese Pflüga činí vše dohromady', '4460 zl.']
+  - ['3', 'Přehlídka Hennickena von Portfel činí vše dohromady', '1434 zl.']
+  - ['4', 'Přehlídka Helwiga von Rückerßhausen a Daniela Scheurschloße činí podle přehlídkového lístku {Musterzetels} dohromady', '2220 zl.']
+  - ['', 'součet strany', '10662 zl.']
+  - ['1', 'Na stav vévody Mořice náleží Jeho knížecí Milosti {F. G.} ze 699 koní {pferde} od každého jeden zlatý, činí', '699 zl.']
+  - ['2', 'Na každých 100 koní připadá jeden drabant {Drabant}, to je 7 drabantů, každému osm zlatých, činí', '56 zl.']
+  - ['3', 'Na 50 koní připadá jeden rotmistr {Rotmeister}, náleží mu 25 zlatých, činí', '350 zl.']
+  - ['4', 'Na každých 100 koní připadá jeden podkovář {Huffschmidt} a každému 12 zlatých přeplatku, činí', '84 zl.']
+  - ['5', 'Na knížecí tabuli {Fürsten doffel}', '300 zl.']
+  - ['6', 'Na poručíka {Leutenant} Jeho Milosti', '100 zl.']
+  - ['7', 'Na 6 vysokých úřadů {hohen Empter}, totiž komorníka {Komormeister}, proviantmistra {Prouiantmeister}, kvartýrmistra {Quartirmeister}, vachmistra {Wachtmeister}, osobního lékaře {Leibartz} a ranhojiče {Wundartz}, každému 40 zlatých, činí', '240 zl.']
+  - ['8', 'Kaplanovi {Capellan}, vůdci {Fürer} a písaři {Schreiber} každému přeplatek 12 zlatých, činí', '36 zl.']
+  - ['', 'součet strany', '1865 zl.']
+poznamky:
+- n: 1
+  text: Rotenhausen – snad francký rod von Rotenhan; jejich podíl se započítal, přestože se k přehlídce nedostavili. Součty položek 9–12 (41 koní) i celkových 152 koní tuto rotu zahrnují.

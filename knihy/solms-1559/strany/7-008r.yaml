@@ -1,0 +1,30 @@
+id: 7-008r
+list: 8 (7. kniha)
+strana: recto
+sken: 563
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-563.jpg
+  popis: |-
+    Devět obrazových karet jízdy římské strany (červený tisk), protějšek černých karet na [[7-004v|listu 4v]]; pořadí po řádcích zleva doprava: 1. sevřený houf těžkých obrněných jezdců s lesem vztyčených kopí a korouhví s orlem; 2. houf kopiníků se vztyčenými kopími a korouhví, před ním velitel na koni a jezdec s žerdí; 3. jízdní houf s korouhví nesoucí šikmý kříž; 4. lehká jízda v trysku s luky a kopími; 5. jízdní houf s korouhví se šikmým křížem; 6. jízdní houf s číslem „100“; 7. jízdní houf s korouhví, v čele dva jezdci; 8. menší karta s houfem jezdců a číslem „50“; 9. nejmenší karta s malou skupinou jezdců a číslem „25“.
+- typ: tabulka
+  de:
+  - - '6'
+    - '100'
+  - - '8'
+    - '50'
+  - - '9'
+    - '25'
+  cs:
+  - - '6'
+    - 100 [koní]
+  - - '8'
+    - 50 [koní]
+  - - '9'
+    - 25 [koní][^1]
+poznamky:
+- n: 1
+  text: |-
+    První číslice „1“ v čísle 100 je ve skenu poškozená a čtena podle černého protějšku na [[7-004v|listu 4v]]; číslo „25“ na nejmenší kartě tam chybí.

@@ -1,0 +1,38 @@
+id: 9-005r
+list: 5 (9. kniha)
+strana: recto
+sken: 629
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gewalt vnd macht im Veld haben/ vnd alle Mandat in seinem namen außgehn/ dann es nicht von nöten/ so jhr es anders inn sonderheit nit haben wolt daß jr darinn gemelt werd/ dann allein die sachen zu handeln vnd beschliessen/ solt jr darbei sein/ vnd wann es dermassen beschlossen/ solt jr ewern obersten Veldhauptman solchs außrichten/ vnd euch nichts anfechten lassen/ sonder allein was ewer wollust ist.
+  cs: |-
+    moc a pravomoc v poli a všechny mandáty mají vycházet jeho jménem. Není totiž třeba, abyste v nich byl uváděn, leda byste si to zvlášť přál; jen při projednávání a rozhodování věcí máte být přítomen. A když je tak rozhodnuto, máte to nechat vykonat svého nejvyššího polního hejtmana {Veldhauptman} a nenechat se ničím znepokojovat kromě toho, co je vám libo.
+- typ: odstavec
+  de: |-
+    Es ist auch von nöten daß jr einen Marschalck habt der geschickt/ dapffer/ redtlich vnd fleissig sei/ der Justitiam vnd gericht halt vnder ewerm hauffen/ dann als vil die Justitia vnd gerichts hendel betrifft/ soll er den gantzen gewalt haben/ doch einem gnad vnd barmhertzigkeit zu beweisen steht allein euch zů/ aber penlich vnd bürgerlich sachen auch ander hendel als Todtschlag/ Diebstal sampt zanck vnnd hader/ wie sich dann täglichs vnder einem solchen hauffen zu tregt.
+  cs: |-
+    Je také třeba, abyste měl polního maršálka {Marschalck}, který je zkušený, statečný, poctivý a pilný a který udržuje spravedlnost {Justitiam} a soud ve vašem houfu {hauffen}. Pokud jde o spravedlnost a soudní pře, má mít veškerou moc; prokázat však někomu milost a slitování přísluší jedině vám. [Jemu však náležejí] hrdelní {penlich} i občanské věci a jiné pře, jako zabití, krádež, svár a hádky, jak se to v takovém houfu denně přihází.
+- typ: odstavec
+  de: |-
+    Damit ich euch bericht den gewalt so ein Veldmarschalck der Losierung den man auch ein quartirmeister heist/ deßgleichen auch den Prouosen der Marschalck haben soll/ der marschalck des Velds soll sein gewaltigster nach dem ober Veldhauptman/ vnnd das drit theil des Hauptmans des hauffens sol auff jn warten/ minder oder mehr nach dem dann das landt oder weg ist/ vnd in allen dingen sein raths haben. Es gebürt vnd gehört zu eim marschalck das Veld mit fleiß zu erkündigen/ vnd annemen alle kundtschafften/ sol auch wissen wie das Heer mit prouiant gespeist/ vnnd leut darzů verordnen die prouiant zu fürn/ solchs alles soll der marschalck dem Prouosen außzurichten vnd zu volenden beuelhen. So etlich Kriegßleut auß der Ordnung tretten/ vnd mehr dann 24. stund außblieben/ vnd von nöten wer daß sie prouiant mit nemen/ soll jeglichs Heers marschalck seim prouosen ein Leutenant verordnen der jnen Prouiant zu füre/ vnd gůt sorg haben das kein prouiant so man auffledt dahinden bleibe.
+  cs: |-
+    Abych vám vyložil, jakou moc má mít polní maršálek {Veldmarschalck}, [maršálek] ubytování {Losierung}, jemuž se také říká kvartýrmistr {quartirmeister}, a rovněž maršálkův profous {Prouosen}:[^1] polní maršálek má být po nejvyšším polním hejtmanovi nejmocnější. Třetina houfu vrchního hejtmana má být k jeho službám, méně či více podle toho, jaká je země nebo cesta, a [hejtman] má ve všech věcech dbát jeho rady.[^2] Maršálkovi náleží a přísluší pilně prozkoumávat terén a přijímat všechny zprávy zvědů. Má také vědět, jak je vojsko zásobováno proviantem {prouiant}, a ustanovit lidi, kteří budou proviant vozit; to vše má maršálek uložit profousovi, aby to zařídil a dokončil. Vystoupí-li někteří válečníci {Kriegßleut} ze šiku {Ordnung} a zůstanou-li venku déle než 24 hodin, takže je třeba, aby si vzali proviant s sebou, má maršálek každého vojska ustanovit svému profousovi poručíka {Leutenant}, který jim proviant dopraví a bude dobře dbát, aby žádný naložený proviant nezůstal pozadu.
+- typ: odstavec
+  de: |-
+    Was sich für vneinigkeit vnd gerichts hendel auch jrthumb der beut halben zutrüg/ sol solchs alles vor dem Marschalck als dem obersten Richter außgericht werden/ dann da der Herr oder Oberst Veldhauptman personlich nit ist/ oder ein Leutenant/ so von den Fürsten darzů verordnet/ vnd der Prouoß ist dem gemelten marschalck vnderworffen/ der gestalt als bald er ein vbeltheter gefangen wann er solchen verhört soll er jn für den Marschalck fürn vnd sein missethat anzeigen/ auch keinen on wissen vnd willen des Marschalcks peinlich fragen/ ist auch keiner on berürten Marschalck zum todt zuuerurtheilen/ vnd derselbig Marschalck soll Doctores in dem Rechten haben/ die jm die anzeigen. Der marschalck mag vber alle zalung in behalten vff des Fürsten vnd seiner Trabenten noch ein Sold/ das jeglicher zwen hab.
+  cs: |-
+    Jaké nesvornosti, soudní pře a také spory o kořist by vznikly, to vše se má vyřizovat před polním maršálkem jako nejvyšším soudcem – kromě případů, kdy je osobně přítomen pán nebo nejvyšší polní hejtman či poručík, kterého k tomu ustanovil kníže. Profous {Prouoß} je uvedenému maršálkovi podřízen, a to tak, že jakmile chytí nějakého zločince a vyslechne ho, má ho přivést před maršálka a oznámit jeho zločin. Nesmí také nikoho útrpně {peinlich} vyslýchat bez vědomí a vůle maršálka a nikdo nemá být bez řečeného maršálka odsouzen k smrti. Týž maršálek má mít doktory práv, kteří mu [právo] vyloží. Maršálek si smí nad veškerou výplatu ponechat na účet knížete a jeho drabantů {Trabenten} ještě jeden žold {Sold}, takže každý má dva.[^3]
+poznamky:
+- n: 1
+  text: |-
+    Francouzská předloha rozlišuje *maréchal de l'ost* (maršálek vojska, zde *marschalck des Velds*), *maréchal des logis* (maršálek ubytování, německy kvartýrmistr) a *prévôt des maréchaux* (maršálkův profous). Německý překlad tyto tři úřady na začátku věty slévá.
+- n: 2
+  text: |-
+    Smysl nejistý: *das drit theil des Hauptmans des hauffens sol auff jn warten* – nejspíš třetina vojska, která pod maršálkem tvoří předvoj (srov. [[9-007v|list 7v]]); *sein raths haben* lze chápat i tak, že maršálek má mít ve všem hlas v radě.
+- n: 3
+  text: |-
+    Věta je v německém znění nejasná (*vff des Fürsten vnd seiner Trabenten*); patrně jde o dvojí žold pro maršálkovy drabanty, placený na účet knížete, nebo o žold „na úrovni“ knížecí tělesné stráže.

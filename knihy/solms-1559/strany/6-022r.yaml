@@ -1,0 +1,140 @@
+id: 6-022r
+list: 22 (6. kniha)
+strana: recto
+sken: 535
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - - |-
+      Auff jedes hundert pferde einen Huffschmit / vnd einem 12 gulden vbersold / thůt 6 Huffschmidten
+    - 72 gulden.
+  - - Item auff jrer Fürstlichen Gnaden Tafel
+    - 300 gulden.
+  - - Item jrer Fürstlichen Gnaden Leutenant
+    - 100 gulden.
+  - - |-
+      Auff die 6 hohen Empter / nemlich Ritmeister / Quartirmeister / Wachmeister / Prouiantmeister / Leibartz vnd Wundartz / jedem 40 gulden thůt an gelt
+    - 240 gulden.
+  - - |-
+      Auff den Caplan / Forirer vnd Schreiber / jedem 12 gulden vbersolds / thůt an gelt zusamen
+    - 36 gulden.
+  - - Auff 6 Trometer jedem 12 gulden vbersolds thůt
+    - 72 gulden.
+  - - Item 3 Fendrichen jedem 24 gulden auff sein ampt / thůt
+    - 72 flo.
+  - - Dem Schützen Hauptman auff sein ampt
+    - 50 gulden.
+  - - Item zwölff Trabanten jedem 8 gulden / thůt
+    - 96 gulden.
+  - - Summa latris vnd stats
+    - 2063 gulden.
+  - - 'Summarum: gerüster pferde ist 648 / thůt 1 pferd zu 12 flo.'
+    - 7776 flo.
+  - - der Kürisser ist 21 / vff 1 zu vbersold 12 fl. thůt
+    - 252 flo.
+  - - der Drosser ist 45½ / auff jeden 6 flo. thůt
+    - 273 flo.
+  - - der wagen ist 53 / auff jeden 24 gulden / thůt
+    - 1272 flo.
+  - - der Trometter ist 6 / auff jeden 12 gulden / thůt
+    - 72 flo.
+  - - des vbrigen gelts auff die wagen ist
+    - 82 gulden.
+  - - des Monats solds
+    - 9727 gulden.
+  - - des stats vnd Monat solds.
+    - 11790 gulden.
+  cs:
+  - - |-
+      Na každých sto koní jeden kovář {Huffschmit} a každému 12 zlatých {gulden} přeplatku {vbersold}; to činí [za] 6 kovářů
+    - 72 zl.
+  - - Dále na tabuli {Tafel} Jeho knížecí Milosti {Fürstlichen Gnaden}
+    - 300 zl.
+  - - Dále poručík {Leutenant} Jeho knížecí Milosti
+    - 100 zl.
+  - - |-
+      Na 6 vysokých úřadů, totiž rytmistra {Ritmeister}, kvartýrmistra {Quartirmeister}, vachmistra {Wachmeister}, proviantmistra {Prouiantmeister}, osobního lékaře {Leibartz} a ranhojiče {Wundartz}, každému 40 zlatých; to činí v penězích
+    - 240 zl.
+  - - |-
+      Na kaplana {Caplan}, furýra {Forirer} a písaře {Schreiber}, každému 12 zlatých přeplatku; to činí v penězích dohromady
+    - 36 zl.
+  - - Na 6 trubačů {Trometer}, každému 12 zlatých přeplatku; to činí
+    - 72 zl.
+  - - |-
+      Dále 3 praporečníci {Fendrichen}, každému 24 zlatých za jeho úřad; to činí
+    - 72 zl.
+  - - Hejtmanovi střelců {Schützen Hauptman} za jeho úřad
+    - 50 zl.
+  - - Dále dvanáct drabantů {Trabanten}, každému 8 zlatých; to činí
+    - 96 zl.
+  - - Součet strany {Summa latris} a stavu {stats}[^1]
+    - 2063 zl.
+  - - |-
+      Celkem: zbrojných koní {gerüster pferde} je 648, na koně po 12 zlatých; to činí
+    - 7776 zl.
+  - - kyrysníků {Kürisser} je 21, na jednoho přeplatek 12 zl.; to činí
+    - 252 zl.
+  - - trénních koní {Drosser} je 45½, na každého 6 zl.; to činí
+    - 273 zl.
+  - - vozů je 53, na každý 24 zlatých; to činí
+    - 1272 zl.
+  - - trubačů je 6, na každého 12 zlatých; to činí
+    - 72 zl.
+  - - zbývajících peněz na vozy je
+    - 82 zl.
+  - - měsíčního žoldu {Monats solds}
+    - 9727 zl.
+  - - stavu a měsíčního žoldu
+    - 11790 zl.
+- typ: odstavec
+  de: |-
+    Also nach vergleichung dessen anrit gelts vnd Musterung / auch sollichs so der Durchleuchtig / Hochgeborn Fürst vnnd Herr / Herr Albrecht Marggraue zu Brandenburg / etc. auff jrer Fürstlichen gnaden vnd derselben Reutter anzug empfangen haben / wie die Summen der Register / auch der empfengnuß außweist / wie volgt.
+  cs: |-
+    Takto vychází vyúčtování příjezdného {anrit gelts} a přehlídky {Musterung} i toho, co osvícený, vysoce urozený kníže a pán, pan Albrecht, markrabě braniborský atd., obdržel na příjezd {anzug} svůj a svých jezdců, jak ukazují úhrny rejstříků i [záznam] přijatých peněz:
+- typ: tabulka
+  de:
+  - - |-
+      Erstlich die summa alles gelts ist zusamen vff die 648 pferd sampt jrer Fürst. gna. stat / Kürisser / Drosser vnd Wagen
+    - 11790 gulden.
+  - - Vnd laufft sich das Anritgelt auff
+    - 5166 gulden 11 batzen.
+  - - Vnd haben jr Für. gna. auff solche 5166 gulden vnd 11 batzen empfangen
+    - 6500 gulden.
+  - - |-
+      Solche 6500 gulden entpfangenes gelts hab ich Christoffel von Schawenberg jren für. gna. abgezogen / vnd bleiben jren für. gna. noch hierüber außstehen
+    - 1333 gulden 4 batzen.
+  - - Rest noch jren fürstlichen gnaden
+    - 10456 gulden 11 batzen.
+  - - |-
+      Auff gemelte 10456 gulden 11 batzen / habe ich jren fürstlichen gnaden durch Johannem Andaws lieffern lassen Sambstag den 7 tag Junij / Anno etc. 44.
+    - 9459 gulden.
+  - - Bleibt jrer fürs. gna. noch außstehn
+    - 997 gulden 11 batzen.
+  cs:
+  - - |-
+      Nejprve úhrn všech peněz činí dohromady na 648 koní spolu se stavem Jeho knížecí Milosti, kyrysníky, trénními koňmi a vozy
+    - 11790 zl.
+  - - Příjezdné {Anritgelt} pak dělá
+    - 5166 zl. 11 bac.
+  - - |-
+      A Jeho knížecí Milost obdržela na těchto 5166 zlatých a 11 bacenů {batzen}
+    - 6500 zl.
+  - - |-
+      Těchto 6500 zlatých přijatých peněz jsem já, Christoffel von Schawenberg, Jeho knížecí Milosti srazil, a Jeho knížecí Milosti tím zůstává nad [příjezdné] ještě přeplaceno[^2]
+    - 1333 zl. 4 bac.
+  - - Jeho knížecí Milosti zbývá ještě [doplatit]
+    - 10456 zl. 11 bac.
+  - - |-
+      Na uvedených 10456 zlatých 11 bacenů jsem Jeho knížecí Milosti dal prostřednictvím Johanna Andawa vyplatit v sobotu 7. června léta [15]44
+    - 9459 zl.
+  - - Jeho knížecí Milosti zůstává ještě nedoplaceno
+    - 997 zl. 11 bac.
+poznamky:
+- n: 1
+  text: |-
+    *Summa latris* = lat. *summa lateris*, „úhrn strany“ – účetní výraz pro mezisoučet na stránce účtu; v dalších rejstřících zkracováno *Summa lat.* *Stat* (Staat) je rozpočet na velitele, jeho dvůr a úředníky (viz [[6-021v|s. 6-021v]]). Výpočty na této straně jsou v tisku aritmeticky správné: 2063 + 9727 = 11790 zl.; 6500 − 5166 zl. 11 bac. = 1333 zl. 4 bac.; 11790 − 1333 zl. 4 bac. = 10456 zl. 11 bac.; 10456 zl. 11 bac. − 9459 = 997 zl. 11 bac.
+- n: 2
+  text: |-
+    Markrabě dostal na příjezdné zálohu 6500 zl., tedy o 1333 zl. 4 bac. více, než mu podle rejstříku náleželo; tento přeplatek komisař odečetl od celkové částky stavu a měsíčního žoldu.

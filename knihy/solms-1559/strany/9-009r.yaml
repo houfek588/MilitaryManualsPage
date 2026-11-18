@@ -1,0 +1,33 @@
+id: 9-009r
+list: 9 (9. kniha)
+strana: recto
+sken: 637
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ziehen/ vnd wann ewer Mäner an das ort kommen/ vnd anfahent das Leger schlagen/ vnd jhr auff den tag keines schlagens mehr versehent/ ist es vil baß für die Knecht das sie nicht inn einem hauffen ziehen/ sonder ein jegliche Rot besonder/ Dann wann das Land eben ist/ vnnd sie bald wider bei einander wann mann jhr bedarff/ nachuolgends wann der Marschalck da fornen ist mit seinem hauffen/ wie obstehet/ möchtet jhr wol etlich Rotten neben den Wagen ziehen lassen/ doch daß die Ordnung der Wagen nicht brochen werde/ welche in einer Ordnung/ wie obgemelt/ ziehen sollen/ am ende der Wagen sollen fünff oder sechs Falckenetlein gehn/ vnnd alles was darzů gehörig ist/ darmit wann es von nöten were/ dieselbigen gleich zu gerüst möchten werden/ Vnnd daß Puluer soll nicht weit von dem Ladwagen sein/ wann jhr inn sollicher Ordnung ziehent/ solt jhr den fünfften odder sechsten theil des reisigen Zeugs hinden nach ziehen lassen/ vnd jhnen einen geschickten Hauptman zugeben/ wellicher etliche geringe Pferdt weit hinder jhm soll streiffen lassen/ vngefehrlich zwentzig oder dreissig.
+  cs: |-
+    táhnout. A když vaši muži dojdou na místo a začnou rozbíjet ležení {Leger} a vy už toho dne nečekáte žádnou bitvu, je pro knechty {Knecht} mnohem lepší, když netáhnou v jednom houfu, nýbrž každá rota {Rot} zvlášť; je-li totiž země rovná, jsou brzy zase pohromadě, když je jich třeba. Potom, když je polní maršálek {Marschalck} se svým houfem vpředu, jak stojí výše, můžete nechat několik rot {Rotten} táhnout vedle vozů, avšak tak, aby se nenarušil pořádek vozů, které mají táhnout v řadě, jak bylo řečeno výše. Na konci vozů má jet pět nebo šest falkonetů {Falckenetlein} a vše, co k nim patří, aby je bylo možno v případě potřeby hned připravit. A prach {Puluer} nemá být daleko od vozu s nabíjecím náčiním {Ladwagen}. Táhnete-li v takovém pořádku, máte nechat jít vzadu pátý či šestý díl jízdy {reisigen Zeugs} a dát jim zkušeného hejtmana {Hauptman}, který má daleko za sebou nechat křižovat několik lehkých koní {geringe Pferdt}, zhruba dvacet nebo třicet.
+- typ: odstavec
+  de: |-
+    Der gestalt soll ein Heer ziehen inn einem weitten ebenen Veld/ daß die hinderste streiffende Rot weit hinden nach ziehe/ doch daß sie die im nachzug stettigs in augen haben/ Aber inn bergenden Landen sollen sie auff die Bügel halten/ vnnd von einem Bügel auff den anderen/ daß die Feinde dieselbigen vortheil nicht einnemen/ vnd alßdan ewern Hauffen vber sehen mögen.
+  cs: |-
+    Takto má vojsko táhnout v širém rovném poli: nejzadnější hlídková rota má táhnout daleko vzadu, avšak tak, aby stále měla na očích ty v zadním voji {nachzug}. V hornatých zemích však mají držet pahorky, a to od jednoho pahorku k druhému, aby nepřítel tyto výhodné pozice nezabral a nemohl pak přehlédnout váš houf.
+- typ: odstavec
+  de: |-
+    Wann aber die Feinde so jhnen nachzügen stercker weren/ vnnd sie dann dardurch drüngen/ daß sie neher zu dem Hauffen zügen dann es sein solt/ vnnd jhren vortheil vbergeben müssen/ soll sie der Hauptman im nachzug der massen stercken/ daß sie den Feinden starck gnůg seien/ vnd jnen beuelhen daß sie die Feind nicht angreiffen/ sonder wann sie die Feindt auß jhrem vortheil zu ziehen drüngen wolten/ ehe dann es zeit were/ sich alßdan wann sie starck genůg seind/ darpffer wehren/ wo sie aber nicht künden/ sollen sie mit einer gůten Ordnung zu dem nachzug rücken.
+  cs: |-
+    Byli-li by však nepřátelé, kteří za nimi táhnou, silnější a tlačili je tak, že by se museli stáhnout blíže k houfu, než by mělo být, a vzdát se své výhodné pozice, má je hejtman zadního voje posílit tak, aby byli proti nepříteli dost silní, a přikázat jim, aby nepřítele nenapadali. Kdyby je však nepřítel chtěl vytlačit z jejich výhodné pozice dříve, než je čas, mají se, jsou-li dost silní, statečně bránit; nemohou-li, mají v dobrém pořádku ustoupit k zadnímu voji.
+- typ: odstavec
+  de: |-
+    Vnd wann sich solliches zutrüge/ soll kein Lermen inn dem gantzen Hauffen gemacht werden/ sonder wann die Feind so starck kommen/ daß sie die streiffenden Pferdt/ biß zu denen im nachzug jagten/ sollen die im nachzug angesicht gegen angesicht keren/ vnnd denselbigen vnfall auffhalten/ vnnd den hauffen fürt ziehen lassen/ doch dem Herren oder leuttenant solchs kundt thůn.
+  cs: |-
+    A kdyby se něco takového přihodilo, nemá se v celém houfu dělat poplach {Lermen}. Přitáhne-li však nepřítel tak silně, že by hlídkující koně hnal až k těm v zadním voji, mají se ti v zadním voji obrátit tváří v tvář [nepříteli], zadržet ten nápor a nechat houf táhnout dál; mají to však oznámit pánovi nebo poručíkovi {leuttenant}.
+- typ: odstavec
+  de: |-
+    So ferr aber die streiffende Rot botschafft bringt/ die feind seien der
+  cs: |-
+    Přinese-li však hlídková rota zprávu, že nepřátelé jsou tak

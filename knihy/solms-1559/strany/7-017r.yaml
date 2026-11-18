@@ -1,0 +1,47 @@
+id: 7-017r
+list: 17 (7. kniha)
+strana: recto
+sken: 581
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    schirmwagen auch aneinander / daß also die acht wagen ein außkröpffung machen / daß ein Kriegßuolck darinn stehen kan / ein Wagenburg zů wehrn vnd zu streichen haben künden.
+  cs: |-
+    štítové vozy {schirmwagen}, rovněž vedle sebe, takže těch osm vozů tvoří vysunutý zlom {außkröpffung}, v němž může stát válečný lid {Kriegßuolck} a odkud může vozovou hradbu {Wagenburg} bránit a ostřelovat z boku {streichen}.
+- typ: odstavec
+  de: |-
+    Mann soll auch an einem jeden genenten Streitwagen hinden ein eisern Ketten hangen haben / so im fall der not mann die Wagen der gestalt zusamen füret / so kan mann dann die zwen Wagen mit solcher Ketten zusamen hencken vnd schliessen / damit sie nit von einander reissen noch vmbfallen künden / sonder daß sie also aneinander verschlossen hangen bleiben mussen / dann es kan wol sein vnd ist vorgeschehen / daß mann ein Volck verordnet hat / dasselbig also gewaltig auff ein Wagenburg lauffen lassen vmbzuwerffen vnd zutrennen.
+  cs: |-
+    Na každém jmenovaném bojovém voze {Streitwagen} má také vzadu viset železný řetěz. Když se v případě nouze vozy takto srazí dohromady, lze pak oba vozy tímto řetězem spojit a sepnout, aby se nemohly od sebe odtrhnout ani převrhnout, ale musely zůstat k sobě připoutané. Může se totiž stát, a už se stalo, že nepřítel vyslal oddíl lidu {Volck}, který nechal s takovou silou vrhnout na vozovou hradbu, aby ji převrátil a roztrhl.
+- typ: odstavec
+  de: |-
+    So sie aber also mit den Ketten aneinander gehangen vnnd geschlossen / so ist solcher anschlag als dann gebrochen / auch werden die außkröpffung mit den Streichwehrn solches vil wehren / besonder so ein Kriegßuolck in solcher außkröpffung stehen wirt.
+  cs: |-
+    Jsou-li však vozy takto řetězy spojeny a sepnuty, je takový záměr zmařen. Také vysunuté zlomy s bočními obrannými stavbami {Streichwehrn} tomu velmi zabrání, zvláště stojí-li ve vysunutém zlomu válečný lid.
+- typ: odstavec
+  de: |-
+    Wie solche Wagenburg mit jren außkröpffungen genent sind / vnd neben diser Beschreibung desto baß verstanden werden / so wil ich hernach ein Abreissung Figur weiß verzeichnen / darnach hat mann jm zů oder abzuthůn / nach bedüncken eins jeden verstands oder zuthůn.
+  cs: |-
+    Aby bylo vedle tohoto popisu tím lépe rozumět, jak jsou takové vozové hradby s jejich vysunutými zlomy míněny, zakreslím dále nákres v podobě obrazu. Podle něj si každý může něco přidat nebo ubrat podle svého rozumu a uvážení.[^1]
+- typ: odstavec
+  de: |-
+    Darumb ist gůt daß mann sich darmit vbet vnd lernet / die zuschlagen / zufüren vnd zuschliessen zu einem standt / von aller art vnd manier / dann es künden sich die fell vnd gelegenheiten wol zutragen / daß mann die bedörffen wirt / vnd zu gůtem kommen möchten.
+  cs: |-
+    Proto je dobré se v tom cvičit a učit se vozové hradby všeho druhu a provedení rozbíjet, vést a uzavírat do postavení. Mohou totiž nastat případy a okolnosti, kdy jich bude zapotřebí a kdy by mohly přijít vhod.
+- typ: odstavec
+  de: |-
+    Die Schiffbrücken hat mann auch zu der Wagenburg zu brauchen.
+  cs: |-
+    Také lodní mosty {Schiffbrücken} se dají použít do vozové hradby.
+- typ: odstavec
+  de: |-
+    Die Streitwagen mit den Schirmen sollen gemacht werden / daß zwischen den Redtern auff den Achsen auff jeder Achsen zwei starcke höltzer eingezepfft seien / gleich wie die Schiffwagen / vnd so hoch wie die Schirm sind / vnd soll ein eisen zwergs von einem holtz zu dem andern gehen / vnd fest an sie beide gemacht / vnd solche eisen sollen rond vnd eines daumen dick sein / an solchen zweien eisen eines hinden das ander vorn soll der Schirm verschlossen anhangen / vnd daß er daran rütschen möge von einer seiten zu der andern / daß mann sie kan rücken auff welche seite mann wil / dann allwegen soll der schirm auff der seiten des wagens gegen den Feinden stehen / dann künden etliche Schützen / so mann fluchs zu den Feinden solt / oder durch Wasser farn / neben die Schirm auff die Wagen stehn.
+  cs: |-
+    Bojové vozy se štíty {Schirmen} se mají zhotovit tak, aby mezi koly byly na každé nápravě začepovány dva silné sloupky, stejně jako u vozů pro lodní most {Schiffwagen}, a to tak vysoké, jak vysoké jsou štíty. Od jednoho sloupku k druhému má napříč vést železná tyč, pevně připevněná k oběma; tyto tyče mají být kulaté a na palec silné. Na těchto dvou tyčích, jedné vzadu a druhé vpředu, má štít viset pevně uchycený tak, aby po nich mohl klouzat z jedné strany na druhou a dal se posunout na kteroukoli stranu. Štít má totiž vždy stát na té straně vozu, která je obrácena k nepříteli. Pak může několik střelců {Schützen} stát na vozech vedle štítů, kdyby se mělo rychle vyrazit proti nepříteli nebo jet přes vodu.
+poznamky:
+- n: 1
+  text: |-
+    Ohlášený nákres vozové hradby s vysunutými zlomy v knize není; Sedmá kniha na [[7-018r|listu 18]] končí bez obrazové přílohy.

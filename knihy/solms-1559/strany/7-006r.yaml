@@ -1,0 +1,53 @@
+id: 7-006r
+list: 6 (7. kniha)
+strana: recto
+sken: 559
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-559.jpg
+  popis: |-
+    Osm textových karet strany Hannibalovy (černý tisk) v orámovaných polích, ve dvou sloupcích po čtyřech; každá karta nese jméno kartáginského či spojeneckého vojevůdce a jemu přidělený úřad podle rozvržení obrazových karet na [[7-004r|listu 4]]. Přepis a překlad nápisů viz tabulka (pořadí po řádcích zleva doprava).
+- typ: tabulka
+  de:
+  - - '1'
+    - Hannibal Oberster Kriegsherr mit hundert Pferden sein eigen Hoffgesind.
+  - - '2'
+    - Himilco oberster Artoloreimeister.
+  - - '3'
+    - Astrubal veldhaptman odder Leutenant mit fünffzig Pferden sein Hoffdiener.
+  - - '4'
+    - Syphax ein Edelman der Artolorei.
+  - - '5'
+    - Cartalo Veldmarschalck.
+  - - '6'
+    - Mago Wagenburgmeister.
+  - - '7'
+    - Philippus Macidonie Rex Capitan der Justitien.
+  - - '8'
+    - Juiorta Wagenmeister.
+  cs:
+  - - '1'
+    - Hannibal, nejvyšší válečný pán {Oberster Kriegsherr}, se sty koňmi své vlastní dvorské čeledi {Hoffgesind}.[^1]
+  - - '2'
+    - Himilkón, nejvyšší mistr dělostřelectva {oberster Artoloreimeister}.
+  - - '3'
+    - Hasdrubal, polní hejtman {veldhaptman} neboli poručík {Leutenant}, s padesáti koňmi svých dvorských služebníků {Hoffdiener}.
+  - - '4'
+    - Syfax, šlechtic dělostřelectva {Edelman der Artolorei}.
+  - - '5'
+    - Karthalo, polní maršálek {Veldmarschalck}.
+  - - '6'
+    - Magón, mistr vozové hradby {Wagenburgmeister}.
+  - - '7'
+    - Filip, král makedonský, kapitán justice {Capitan der Justitien}.
+  - - '8'
+    - Jugurtha, vozmistr {Wagenmeister}.[^2]
+poznamky:
+- n: 1
+  text: |-
+    Osoby (podle Livia): Hannibal (247–183 př. Kr.), kartáginský vojevůdce druhé punské války; Himilkón (*Himilco*), kartáginský velitel; Hasdrubal (*Astrubal*), Hannibalův bratr; Syfax (*Syphax*), numidský král, spojenec Kartága; Karthalo (*Cartalo*), velitel kartáginské jízdy; Magón (*Mago*), Hannibalův nejmladší bratr; Filip V. Makedonský (*Philippus Macidonie Rex*, tj. *Macedoniae rex*), spojenec Hannibalův od roku 215 př. Kr. Tvar *veldhaptman* je tisková chyba za *veldhauptman*.
+- n: 2
+  text: |-
+    *Juiorta* je patrně zkomolené *Jugurta* – numidský král Jugurtha (asi 160–104 př. Kr.) žil až o století později než Hannibal; autor bere jména „z válečných dějin“ volně (viz [[7-002v|výklad na listu 2]]).

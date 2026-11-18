@@ -1,0 +1,34 @@
+id: 7-010r
+list: 10 (7. kniha)
+strana: recto
+sken: 567
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-567.jpg
+  popis: |-
+    Dalších osm červeně tištěných karet římské strany ve dvou sloupcích: vlevo čtyři rytmistři s jezdectvem (2000 koní, 1500 kopiníků, 500 lehkých kopiníků, 500 jízdních střelců), vpravo jeden rytmistr s 500 koni s dlouhými hlavněmi a tři karty s děly (šarfmece, kartouny, poloviční kartouny). Karty odpovídají kartáginským protějškům na [[7-006v|předchozím listu]]. Přepis a překlad nápisů viz tabulka.
+- typ: tabulka
+  de:
+  - - Titus Sembronius ein Ritmeister mit zwei tausent pferden.
+  - - Cauis Nero ein Ritmeister mit fünffhundert pferden mit langen rohrn.
+  - - Publius Carnelius ein Ritmeister mit fünfftzehen hundert Pferden Spiesser.
+  - - Vier Scharpffemetzen.
+  - - Marcus Liuinus ein Ritmeister mit fünffhundert leicht pferden spisser.
+  - - Zehen Cartaunen.
+  - - Marcus Emilius ein Ritmeister mit fünffhundert pferden schützen.
+  - - Zehen halb Cartaun.
+  cs:
+  - - Titus Sempronius, rytmistr {Ritmeister} se dvěma tisíci koní.[^1]
+  - - Gaius Nero, rytmistr s pěti sty koní s dlouhými hlavněmi {rohrn}.
+  - - Publius Cornelius, rytmistr s patnácti sty koní kopiníků {Spiesser}.
+  - - Čtyři šarfmece {Scharpffemetzen}.
+  - - Marcus Livius, rytmistr s pěti sty lehkých koní kopiníků.
+  - - Deset kartoun {Cartaunen}.
+  - - Marcus Aemilius, rytmistr s pěti sty koní střelců {schützen}.
+  - - Deset polovičních kartoun {halb Cartaun}.
+poznamky:
+- n: 1
+  text: |-
+    Tisk má podoby „Sembronius“, „Cauis Nero“, „Carnelius“ a „Liuinus“. Míněni jsou nejspíš Tiberius Sempronius Longus, Gaius Claudius Nero (vítěz od Metauru 207 př. n. l.), Publius Cornelius Scipio (otec Africana), Marcus Livius Salinator a Lucius Aemilius Paullus.

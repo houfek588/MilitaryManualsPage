@@ -1,0 +1,47 @@
+id: 7-002v
+list: 2 (7. kniha)
+strana: verso
+sken: 552
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Kürisser vnnd schwere Rüstung/ zum andern das Geschütz mit langen Rorn/ zum dritten das Geschütz mit kurtzen Rorn/ zum vierdten die gemeinen Spiesser/ geringen pferd/ kleine vnd Rotten Geschwader/ Deßgleichen die Spiesser zu fuß/ die Schützen zu roß/ vnd allerlei gattung/ wie die Figurn anzeigen.
+  cs: |-
+    kyrysníky {Kürisser} a těžkou zbroj, za druhé děla {Geschütz} s dlouhými hlavněmi {Rorn}, za třetí děla s krátkými hlavněmi, za čtvrté obyčejné kopiníky {Spiesser}, lehké koně {geringen pferd}, malé a rotní švadrony {Rotten Geschwader}, rovněž pěší kopiníky, jízdní střelce {Schützen zu roß} a všechny ostatní druhy, jak ukazují vyobrazení.
+- typ: odstavec
+  de: |-
+    Nun volgt weitter wie mann das in schrifften gleich dem gemalten stellen vnd machen soll/ nemlich also/ Es soll auff die Karten zu röck/ wie gemelt/ alle rüstung zu roß/ zu fuß/ mit Droß/ Wagen/ Geschütz vnnd Schiffbrücken geschriben werden/ wie mann dann das im Veld braucht vnd in ordnung zustellen gebürt/ Also ist sichs mit diser geschriben Karten eben so wol zu vben vnd lernen/ wie mit der gemalten/ vnd auff gemelte Karten sollen der Obersten angebornen namen vnnd stam mit jhren Amptern genennt werden/ als der Oberst Kriegßherr soll einn ehrlichen angebornen Namen vnd stam haben/ deßgleichen des obersten Kriegßherrn Leutenant vnd alle andere hohen Ampter fortan.
+  cs: |-
+    Nyní dále následuje, jak se to má písemně sestavit a udělat stejně jako na malovaných kartách, totiž takto: Na rub karet {Karten zu röck} se má, jak řečeno, napsat veškerá výzbroj {rüstung} na koni i pěšky s trénem {Droß}, vozy, děly a lodními mosty {Schiffbrücken}, jak se to v poli užívá a jak se sluší to sestavit do šiku {ordnung}. Tak se lze s těmito psanými kartami cvičit a učit stejně dobře jako s malovanými. Na těchto kartách se mají uvést rodná jména a rody plukovníků {Obersten} s jejich úřady {Amptern}: například nejvyšší válečný pán {Oberst Kriegßherr} má mít čestné rodné jméno a rod, rovněž poručík {Leutenant} nejvyššího válečného pána a tak dále všechny ostatní vysoké úřady.
+- typ: odstavec
+  de: |-
+    Der gestalt sollen aller Ritmeister namen beschrieben werden/ wieuil Reutter oder Fendlin ein jeder fürt/ mit benennung einer jeden Rüstung/ als schwere vnd leichte/ Kürisser/ Spiesser vnd Schützen/ ein jedes nach seiner art.
+  cs: |-
+    Stejným způsobem se mají zapsat jména všech rytmistrů {Ritmeister}, kolik jezdců {Reutter} nebo korouhví {Fendlin} kdo vede, s označením výzbroje každého z nich, totiž těžké a lehké – kyrysníci, kopiníci a střelci, každý podle svého druhu.
+- typ: odstavec
+  de: |-
+    Deßgleichen auch alle Obersten die das Fußuolck füren.
+  cs: |-
+    Rovněž všichni plukovníci, kteří vedou pěchotu {Fußuolck}.
+- typ: odstavec
+  de: |-
+    Also die Obersten auch die die Regimenter füren/ als zehen weniger oder mehr Fendlin/ wie dann ein jeglicher hat.
+  cs: |-
+    Tak také plukovníci, kteří vedou pluky {Regimenter}, totiž deset, méně nebo více praporců, jak kdo má.
+- typ: odstavec
+  de: |-
+    Vnd dieweil dann die beschreibung der Karten jre namen/ wie gemelt ein jeden mit seiner summen mitbringt/ vnnd die zall auch darbei haben/ so sind etliche namen zum Exempel auß den Kriegs Historien vnd Büchern genomen/ vnd einem jeden ein beuelch geordnet/ wiewol sie solche Ampter zu jren Kriegs zeiten nicht gehabt/ sonder allein zum Exempel hernach gesetzt vnd genommen werden/ dann mann des gewisse erklerung in den Historien findt/ daß solche Ampter bei jren zeiten nicht gewesen sind/ wie wir jetzund brauchen/ darumb es keinen verwondern soll solche namen hieher zu setzen/ dann soll ich deren so jetzund lebend vnd Kriegßleut sind namen darbei setzen/ wann er dann ein grosser Ampt bekeme/ würds jn verdiessen/ dann ein jeder gern der höchst geacht vnnd den höchsten beuelch haben will.
+  cs: |-
+    A protože popis karet, jak řečeno, uvádí jména každého i s jeho počtem a karty mají mít i číslo, vzal jsem pro příklad některá jména z válečných dějin a knih a každému jsem přidělil velení {beuelch}, ačkoli takové úřady za svých válečných časů neměli; jsou zde dále uvedena a použita pouze jako příklad. V dějinách se totiž dá najít jisté vysvětlení, že takové úřady, jaké dnes užíváme, za jejich časů nebyly. Proto se nikdo nemá divit, že sem kladu taková jména. Kdybych totiž uvedl jména těch, kdo dnes žijí a jsou válečníky {Kriegßleut}, a [jiný] by pak dostal vyšší úřad, mrzelo by ho to;[^1] vždyť každý chce být nejvýše vážen a mít nejvyšší velení.
+- typ: odstavec
+  de: |-
+    Derhalben hab ich das in der Römer vnd anderer Nation obersten vnd beuelchßleut namen geordnet/ dann jhrer vil sind/ vnnd die Krieg vnd Ordnung auch von jnen herkommen/ vnd vnsern kriegßleuten nichts nimpt oder gibt.
+  cs: |-
+    Proto jsem to uspořádal na jménech plukovníků a velitelů {beuelchßleut} Římanů a jiných národů, neboť je jich mnoho a války i šiky pocházejí také od nich; a našim válečníkům to nic nebere ani nedává.
+poznamky:
+- n: 1
+  text: |-
+    Tisk má *wanner* (= *wann er*) a *verdiessen* – patrně tisková chyba za *verdriessen* („mrzet“). Smysl: kdyby autor na kartách obsadil úřady jmény žijících vojáků, uražen by byl ten, komu by připadl nižší úřad než jinému.

@@ -1,0 +1,42 @@
+id: 6-003v
+list: 3 (6. kniha)
+strana: verso
+sken: 498
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Damit aber zusehen sein mag wie bei der Rö. Key. Ma. Karols dem fünfften die Fürsten gehalten sind worden / habe ich der beiden Hochgebornen Fürsten Hertzog Moritzen von Sachssen / etc. vnd Margraue Albrichs von Brandenburgs / etc. Bestallung / Musterung / stat vnd summa der röstung mit Spiessern vnd Schützen mit anrit vnd abzog in dise beschreibung gefast / darinn mann findt was trefflicher Leut von Grauen vnd vom Adell die beide Fürsten mit gůter rüstung Spiesser vnd Schützen gehabt haben / vnd nit ein hodeluolck wie mann jetzund zusamen lest.
+  cs: |-
+    Aby však bylo vidět, jak se za Římského císařského Veličenstva Karla V. zacházelo s knížaty, pojal jsem do tohoto popisu služební list {Bestallung}, přehlídku {Musterung}, stav {stat} a úhrn výzbroje {röstung} obou vysoce urozených knížat, vévody Mořice Saského atd. a markraběte Albrechta Braniborského atd., s kopiníky {Spiessern} a střelci {Schützen}, s příjezdným {anrit} a odchodným {abzog}. Z toho je vidět, jak znamenité lidi z hrabat a šlechty měla obě knížata – dobře vyzbrojené kopiníky a střelce, a ne nějakou chátru {hodeluolck}, jakou dnes sbírají dohromady.
+- typ: nadpis
+  uroven: 2
+  de: Hertzog Moritz von Sachssen / etc.
+  cs: Vévoda Mořic Saský atd.
+- typ: seznam
+  de:
+  - Volgt erstlich die Keiserliche Instruction.
+  - Zum andern die Bestallung.
+  - Zum dritten die Musterung.
+  - Zum vierdten der Anrit.
+  cs:
+  - Následuje nejprve císařská instrukce {Instruction}.
+  - Za druhé služební list.
+  - Za třetí přehlídka.
+  - Za čtvrté příjezdné.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Instruction was der Wolgeborn Herr / Reinhart Graue zu Solms / etc. vnd der Edel vnd Vest Christoff von Schauwenberg / Herr zu Brieschs / etc. Römischer Keiserlicher Maie. Krießrathe vnd Commissarien / meine günstige Herrn vnnd liebe freunde thůn werden / in der Musterung der tausent reissigen vnd pferde so der Durchleuchtig Hochgeborn Fürst vnd Herr / Herr Moritz zu Sachssen / etc. in jrer F.G. dienst auff den Musterplatz sich Mustern zulassen / vmb Franckfurt brengen werd.
+  cs: |-
+    Instrukce, co mají učinit urozený pán Reinhart, hrabě ze Solmsu atd., a urozený a statečný Christoff von Schauwenberg, pán v Brieschs atd., váleční radové {Krießrathe} a komisaři {Commissarien} Římského císařského Veličenstva, moji příznivci a milí přátelé, při přehlídce tisíce jezdců {reissigen} a koní, které osvícený a vysoce urozený kníže a pán, pan Mořic Saský atd., přivede ve službě Jeho knížecí Milosti k Frankfurtu na přehlídkové místo, aby se dali přehlédnout.[^1]
+- typ: odstavec
+  de: |-
+    ANfengklich werden sie sich bede auff das beldst sampt oder sonderlich auff Franckfurt zu reitten auffmachen / alda sich erkündigen wo die Quartirmeister vnd Fürer obgemelter reutter seien / sie jre bestimpte reutter zu quartirn vnd foriern / sich mit jnen zuuergleichen / solche reutter auff beide seiten vnder vnd ober halb Franckfurt haben vnder zu brengen auff Meintz odder Oppenheim zů / welchs dem zug am gelegnesten / vnnd bei jnen ernstlich an zuhalten / daß mann wo die reutter am mehrer theil ankommen / die von stundan an beiden orten von jn beiden auff ein tag zu mustern hab vnd die nach geschehener Musterung den nechsten abzalen / vnd
+  cs: |-
+    Nejprve se oba co nejdříve vydají, společně nebo každý zvlášť, na cestu do Frankfurtu. Tam se mají vyptat, kde jsou kvartýrmistři {Quartirmeister} a vůdci {Fürer} uvedených jezdců, kteří mají své určené jezdce ubytovat {quartirn} a opatřit jim nocleh {foriern}, a dohodnout se s nimi, že tyto jezdce rozmístí na obou stranách pod Frankfurtem i nad ním směrem k Mohuči nebo Oppenheimu, kudy je to pro tažení {zug} nejvhodnější. A mají na nich důrazně trvat, aby oba [komisaři] jezdce tam, kde jich přijede větší část, ihned na obou místech v jeden den přehlédli, po vykonané přehlídce je co nejdříve vyplatili a
+poznamky:
+- n: 1
+  text: |-
+    Instrukci vydal Johan von Lier jménem císaře ve Špýru 24. května 1544 (viz [[6-004v|list 4v]]); „meine günstige Herrn vnnd liebe freunde“ je tedy jeho oslovení komisařů. „Krießrathe“ je tisková chyba za Kriegßrathe. K přídomku „Brieschs“ (na titulu „Breischs“) viz [[6-titul|titulní list]].

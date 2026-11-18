@@ -1,0 +1,85 @@
+id: 6-014r
+list: 14 (6. kniha)
+strana: recto
+sken: 519
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - ['Von der Drosser wegen hieuon abgezogen', '7 gulden 4½ batzen.']
+  - ['Rest noch', '602 gulden 12 batzen.']
+  cs:
+  - ['Za trénní koně {Drosser} z toho odečteno', '7 zlatých {gulden} 4½ bacenu {batzen}[^1]']
+  - ['Zbývá ještě', '602 zlatých 12 bacenů']
+- typ: nadpis
+  uroven: 3
+  de: Anrit gelt Helwicks von Rückerßhausen/ vnd Daniels Scheurschloß.
+  cs: Příjezdné {Anrit gelt} pro Helwicka von Rückerßhausen a Daniela Scheurschloße.
+- typ: tabulka
+  de:
+  - ['1', 'Helwick von Rückerßhausen hat auff den Musterplatz 11 meiln/ vnd ist 6 tag mit 8 pferden gereist vnd stilgelegen/ thůn 8 pferde 6 tag jeden tag ein pferde zu 6 batzen an gelt', '19 gulden 3 batzen.']
+  - ['', 'Ein wagen', '4 gulden 6 batzen.']
+  - ['', 'Summa ist', '23 gulden 9 batzen.']
+  - ['', 'Daniel Scheurschloß.', '']
+  - ['2', 'Item hat auff den musterplatz 7 meiln/ vnd ist 5 tag mit 10 pferden gereist vnd stilgelegen/ jeden tag ein pferd zu 6 batzen/ thůt', '20 gulden.']
+  - ['', 'Ein wagen', '4 gulden.']
+  - ['', 'Summa', '24 gulden.']
+  - ['', 'Velten von Rückerßhausen.', '']
+  - ['3', 'Item hat auff den musterplatz 11 meiln/ vnd ist 6 tag mit 4 pferden gereist vnd stilgelegen/ thůt das pferde zu 6 batzen 7 tag', '9 gul. 9 batz.']
+  - ['', 'Item sampt Herman von Vrff/ vnd Melchiorn von Gatzenrade', '']
+  - ['', 'Ein wagen', '4 gulden 12 batzen.']
+  - ['', 'Summa', '14 gulden 12 batzen.']
+  - ['Summa lat.', 'Gelts', '62 flo.']
+  - ['', 'Pferd', '22']
+  - ['', 'Wagen.', '3']
+  - ['', 'Herman von Vrff.', '']
+  - ['4', 'Item hat auff den musterplatz 11 meiln/ vnd ist 6 tag mit 4 pferden gereist vnd stilgelegen thůt jedes pferd ein tag zu 6 batz.', '9 fl. 9 batz.']
+  - ['', 'Melchior von Gatzenrade.', '']
+  - ['5', 'Item hat auff den musterplatz 12 meiln/ vnd ist 7 tag mit 6 pferden gereist vnd stilgelegen/ thůt jedes pferde ein tag zu batzen/', '16 fl. 14 ba.']
+  - ['', 'Frantz von Kran.', '']
+  - ['6', 'Item hat auff den musterplatz 12 meiln/ vnd ist 6 tag mit 7 pferden gereist vnd stilgelegen/ thůt jedes pferd ein tag zu 6 batz.', '16 flo. 12 batz.']
+  - ['', 'Ein wagen', '4 gulden 12 batzen.']
+  - ['', 'Summa', '21 gulden 9 batzen.']
+  - ['', 'Philips Schenck.', '']
+  - ['7', 'Item hat auff den Musterplatz 8 meiln/ vnd ist 5 tag mit 8 pferden gereist vnd stilgelegen/ thůt jedes pferd ein jeden tag zu 6 batzen gerechnet an gelt zusamen', '16 gulden.']
+  - ['Summa lat.', 'Gelts ist', '64 fl. 9 batz.']
+  - ['', 'Pferde', '25']
+  - ['', 'Wagen.', '1']
+  cs:
+  - ['1', 'Helwick von Rückerßhausen měl na přehlídkové místo {Musterplatz} 11 mil {meiln} a 6 dní byl s 8 koňmi {pferden} na cestě a ve stání {gereist vnd stilgelegen}; 8 koní po 6 dní, každý den na koně 6 bacenů, činí na penězích', '19 zlatých 3 bacenů']
+  - ['', 'jeden vůz {wagen}', '4 zlaté 6 bacenů']
+  - ['', 'suma je', '23 zlatých 9 bacenů']
+  - ['', 'Daniel Scheurschloß.', '']
+  - ['2', 'Dále: měl na přehlídkové místo 7 mil a 5 dní byl s 10 koňmi na cestě a ve stání; každý den na koně 6 bacenů, činí', '20 zlatých']
+  - ['', 'jeden vůz', '4 zlaté']
+  - ['', 'suma', '24 zlatých']
+  - ['', 'Velten von Rückerßhausen.', '']
+  - ['3', 'Dále: měl na přehlídkové místo 11 mil a 6 dní byl se 4 koňmi na cestě a ve stání; na koně 6 bacenů, 7 dní[^2]', '9 zl. 9 bac.']
+  - ['', 'Dále: společně s Hermanem von Vrff a Melchiorem von Gatzenrade', '']
+  - ['', 'jeden vůz', '4 zlaté 12 bacenů']
+  - ['', 'suma', '14 zlatých 12 bacenů']
+  - ['součet strany {Summa lat.}', 'peněz', '62 zl. {flo.}']
+  - ['', 'koní', '22']
+  - ['', 'vozů', '3']
+  - ['', 'Herman von Vrff.', '']
+  - ['4', 'Dále: měl na přehlídkové místo 11 mil a 6 dní byl se 4 koňmi na cestě a ve stání; na každého koně za den 6 bacenů', '9 zl. 9 bac.']
+  - ['', 'Melchior von Gatzenrade.', '']
+  - ['5', 'Dále: měl na přehlídkové místo 12 mil a 7 dní byl se 6 koňmi na cestě a ve stání; na každého koně za den [6] bacenů', '16 zl. 14 bac.[^3]']
+  - ['', 'Frantz von Kran.', '']
+  - ['6', 'Dále: měl na přehlídkové místo 12 mil a 6 dní byl se 7 koňmi na cestě a ve stání; na každého koně za den 6 bacenů', '16 zl. 12 bac.']
+  - ['', 'jeden vůz', '4 zlaté 12 bacenů']
+  - ['', 'suma', '21 zlatých 9 bacenů']
+  - ['', 'Philips Schenck.', '']
+  - ['7', 'Dále: měl na přehlídkové místo 8 mil a 5 dní byl s 8 koňmi na cestě a ve stání; na každého koně každý den počítáno 6 bacenů, činí na penězích dohromady', '16 zlatých']
+  - ['součet strany', 'peněz je', '64 zl. 9 bac.']
+  - ['', 'koní', '25']
+  - ['', 'vozů', '1']
+poznamky:
+- n: 1
+  text: Na předchozí straně činí peníze za trénní koně 7 zl. 7½ bac.; zbytek 602 zl. 12 bac. odpovídá odečtu 7 zl. 4½ bac. od 610 zl. 1½ bac. (podobně jako u předchozího rejstříku).
+- n: 2
+  text: Tisk uvádí 6 dní a vzápětí „7 tag“; částka 9 zl. 9 bac. odpovídá 6 dnům (6 × 4 × 6 bacenů).
+- n: 3
+  text: V tisku chybí sazba („zu batzen“); 7 dní × 6 koní × 6 bacenů dává 16 zl. 12 bac. Ani součty strany (62 zl., 64 zl. 9 bac.) se s položkami přesně nekryjí.

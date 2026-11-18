@@ -1,0 +1,55 @@
+id: 7-011r
+list: 11 (7. kniha)
+strana: recto
+sken: 569
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Hernach volget ein Zugordnung / so die Römische Keyserliche Maiestat Karol der fünfft hochlöblichster gedechtnuß in Franckreich gethan hat.
+  cs: |-
+    Následuje tažný řád {Zugordnung}, jaký zavedl ve Francii Jeho Římské císařské Veličenstvo Karel V., nejslavnější paměti.
+- typ: odstavec
+  de: |-
+    HIernach volgende verzeichnuß / habe dem Durchleuchtigen / Hochgebornen Fürsten vnd Herrn / Hertzog Karlen Infant in Spanien etc. ich zugeschickt / Dieweil sie sich dann zu disem Kartenspil reimbt vnd gehört / so hab ich die zwei zu einem weitern vnd mehrern bericht vnd verstandt zusamen gethan / vnd etlich Kriegßuolck zu roß vnd füß mit darinn bracht / welliches die Römische Keyserliche Maiestat / Karolus der fünfft im veld gehabt / mit warer verzeichnuß der Obersten vnd Ritmeistern / mit eins jeden benanter summa jres Kriegßuolcks / damit ein jeder der nit in dem veld in einem zug vnd handlung gewest oder gesehen hat / daß derselbig möcht zu einem bessern bericht kommen / vnd mit der Karten zum anfang handeln kündt / vnd eines andern bericht der solches besser verstehn möcht / darnach zurichten hett.
+  cs: |-
+    Následující soupis jsem poslal Jasnému, Vysoce urozenému knížeti a pánu, vévodovi Karlovi, infantovi španělskému atd.[^1] Protože se k této karetní hře hodí a patří k ní, spojil jsem obojí dohromady k dalšímu a hojnějšímu poučení a porozumění. Zahrnul jsem do toho i část válečného lidu {Kriegßuolck} na koni i pěšího, jaký mělo v poli Římské císařské Veličenstvo Karel V., s pravdivým soupisem plukovníků {Obersten} a rytmistrů {Ritmeistern} a s udaným počtem válečného lidu každého z nich. Kdo sám nebyl v poli při nějakém tažení {zug} a akci a nic takového neviděl, může tak dojít lepšího poučení, může s kartami pro začátek hrát a řídit se poučením jiného, kdo tomu lépe rozumí.
+- typ: odstavec
+  de: |-
+    Weiter / wie gemelt wirt / daß ewer Fürstliche Durchleuchtigkeit ich auch ein Veldleger mit allerlei gezelten groß vnd klein / deßgleichen Knecht / Hütten / Geschütz / Wagen / Marcatanten / vnd alles was in ein Leger gehört / züschicke / welches rechte Patron oder Figurn seind / vnd ich hiemit in diß Bůch truck vnd stelle / mit jrer außtheilung vnnd massen / welches auff daß papir wie getruckt / außzuschneiden ist / vnd zusamen gefast vnd geleibt / so mag mann daß frei auffstellen / gleich wie es stehn soll / Gezelt / Wagen / Geschütz / Schantzen vnd Körb / als wann das geschnitten were / vnd damit ein Leger setzen / als mann ein recht leger schlegt vnd ordnet / so mag einer nach denselben gezelten abtrucken oder abreissen vnd machen / wie inn disem Bůch / souil einer haben wil / solches ist alles den jungen gesellen zur vbung gemacht.
+  cs: |-
+    Dále, jak se praví, posílám Vaší knížecí Jasnosti také polní ležení {Veldleger} se stany všeho druhu, velkými i malými, a rovněž s boudami knechtů {Knecht}, s děly {Geschütz}, vozy, markytány {Marcatanten} a se vším, co do ležení {Leger} patří. Jsou to skutečné vzory {Patron} neboli figury, které zde tisknu a zařazuji do této knihy i s jejich rozvržením a rozměry. Vytištěné na papíře se mají vystřihnout, složit a slepit; pak je lze volně postavit tak, jak mají stát – stany, vozy, děla, šance {Schantzen} a koše {Körb} –, jako by byly vyřezané, a sestavit z nich ležení tak, jak se skutečné ležení rozbíjí a uspořádává. Podle těchto stanů si pak kdokoli může otisknout nebo obkreslit a zhotovit, kolik jich chce, jako v této knize. To vše je udělané mladým tovaryšům ke cvičení.[^2]
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Verzeichnus der Reutter vnd Knecht / so die Römische Keyserliche Maiestat im veld in Franckreich gehabt hat / Anno Domini / 1554.
+  cs: |-
+    Soupis jezdců {Reutter} a knechtů, které mělo Římské císařské Veličenstvo v poli ve Francii léta Páně 1554.[^3]
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Veldt Oberster.
+  cs: |-
+    Polní plukovník {Veldt Oberster}.
+- typ: tabulka
+  de:
+  - - Der Hertzog von Saphoy / mit sein Dienern vnd Hoffgesind / so auff jn warten
+    - 500. pferdt.
+  cs:
+  - - Vévoda Savojský se svými služebníky a dvořany {Hoffgesind}, kteří jsou mu k službám
+    - 500 koní.[^4]
+poznamky:
+- n: 1
+  text: |-
+    Nejspíš don Carlos (1545–1568), syn Filipa II. a vnuk Karla V., v době vydání (1559) následník španělského trůnu.
+- n: 2
+  text: |-
+    Ohlášené vystřihovací vzory stanů a ležení nejsou v exempláři BSB (Rar. 986) ani jinde v této knize obsaženy.
+- n: 3
+  text: |-
+    Tažení roku 1554 proti Jindřichovi II. na pomezí Nizozemí, Artois a Pikardie (bitva u Renty 13. srpna 1554); Karel V. byl tehdy u vojska osobně, vrchním velitelem byl Emanuel Filibert Savojský.
+- n: 4
+  text: |-
+    Emanuel Filibert, vévoda Savojský (1528–1580), od roku 1553 vrchní velitel císařského vojska v Nizozemí; tisk „Saphoy“.

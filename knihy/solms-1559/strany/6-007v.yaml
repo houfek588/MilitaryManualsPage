@@ -1,0 +1,145 @@
+id: 6-007v
+list: 7 (6. kniha)
+strana: verso
+sken: 506
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - ['', 'Summa lat. – Gerüster pferd', '62']
+  - ['', 'Summa lat. – Kürisser', '5']
+  - ['', 'Summa lat. – Drosser', '5']
+  - ['', 'Summa lat. – Wagen', '7']
+  - ['', 'Hanß von Dyßkaw.', '']
+  - ['5', 'Gerüster pferde', '8']
+  - ['', 'Kürisser', '11']
+  - ['', 'Drosser', '9']
+  - ['', 'Wagen.', '½']
+  - ['', 'Nota 4 gulden vberleng auff 4 pferde.', '']
+  - ['', 'Jörg Wachtmeister.', '']
+  - ['6', 'Gerüster pferde', '27']
+  - ['', 'Drosser', '2']
+  - ['', 'Wagen', '2']
+  - ['', 'Einrosser.', '']
+  - ['7', 'Gerüster pferde', '14']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['', 'Ostwald Kramßdorff.', '']
+  - ['8', 'Gerüster pferde', '14']
+  - ['', 'Kürisser', '2']
+  - ['', 'Drosser', '6']
+  - ['', 'wagen', '1']
+  - ['', 'Summa lat. – Gerüster pferde', '63']
+  - ['', 'Summa lat. – Kürisser', '3']
+  - ['', 'Summa lat. – Drosser', '5']
+  - ['', 'Summa lat. – Wagen', '½']
+  - ['', 'Caspar Bonick.', '']
+  - ['9', 'Gerüster pferd', '10']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['', 'Bastian von Walwitz.', '']
+  - ['10', 'Gerüster pferd', '4']
+  - ['', 'Item mit Ostwalden Kramßdorff vbrigen pferden wagen', '½']
+  - ['', 'Velrich von Maltitz.', '']
+  - ['11', 'Gerüster pferde', '9']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '½']
+  - ['', 'Nota 6 flo. vberlengde.', '']
+  - ['', 'Einspennigen.', '']
+  - ['12', 'Gerüster pferde', '7']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '½']
+  - ['', 'Joachim von Rebel', '']
+  - ['13', 'Gerüster pferde', '11']
+  - ['', 'Drosser', '1']
+  - ['', 'Wagen', '1']
+  - ['', 'Summa lat. – Gerüster pfer.', '41']
+  - ['', 'Summa lat. – Kürisser', '0']
+  - ['', 'Summa lat. – Drosser', '4']
+  - ['', 'Summa lat. – wagen', '3½']
+  cs:
+  - ['', 'Součet strany {Summa lat.} – zbrojní koně {Gerüster pferd}[^1]', '62']
+  - ['', 'Součet strany – kyrysníci {Kürisser}', '5']
+  - ['', 'Součet strany – trénní koně {Drosser}', '5']
+  - ['', 'Součet strany – vozy {Wagen}', '7']
+  - ['', 'Hanß von Dyßkaw', '']
+  - ['5', 'zbrojní koně', '8']
+  - ['', 'kyrysníci', '11']
+  - ['', 'trénní koně', '9']
+  - ['', 'vozy', '½']
+  - ['', 'Pozn.: 4 zlaté příplatku {vberleng} na 4 koně.', '']
+  - ['', 'Jörg Wachtmeister', '']
+  - ['6', 'zbrojní koně', '27']
+  - ['', 'trénní koně', '2']
+  - ['', 'vozy', '2']
+  - ['', 'jezdci s jedním koněm {Einrosser}', '']
+  - ['7', 'zbrojní koně', '14']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Ostwald Kramßdorff', '']
+  - ['8', 'zbrojní koně', '14']
+  - ['', 'kyrysníci', '2']
+  - ['', 'trénní koně', '6']
+  - ['', 'vozy', '1']
+  - ['', 'Součet strany – zbrojní koně', '63']
+  - ['', 'Součet strany – kyrysníci', '3']
+  - ['', 'Součet strany – trénní koně', '5']
+  - ['', 'Součet strany – vozy', '½']
+  - ['', 'Caspar Bonick', '']
+  - ['9', 'zbrojní koně', '10']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Bastian von Walwitz', '']
+  - ['10', 'zbrojní koně', '4']
+  - ['', 'dále vůz se zbylými koňmi Ostwalda Kramßdorffa', '½']
+  - ['', 'Velrich von Maltitz', '']
+  - ['11', 'zbrojní koně', '9']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '½']
+  - ['', 'Pozn.: 6 zl. příplatku.', '']
+  - ['', 'jednokoní jezdci {Einspennigen}', '']
+  - ['12', 'zbrojní koně', '7']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '½']
+  - ['', 'Joachim von Rebel', '']
+  - ['13', 'zbrojní koně', '11']
+  - ['', 'trénní koně', '1']
+  - ['', 'vozy', '1']
+  - ['', 'Součet strany – zbrojní koně', '41']
+  - ['', 'Součet strany – kyrysníci', '0']
+  - ['', 'Součet strany – trénní koně', '4']
+  - ['', 'Součet strany – vozy', '3½']
+- typ: tabulka
+  de:
+  - ['Summa summarum aller Pferde sind 166 / thun am gelt das pferd zu 12 flo. solchs gerechnet', '1992 flo.']
+  - ['summarum der Kurisser sind 8 thůt auff ein 12 flo. gerechnet /', '96 flo.']
+  - ['summarum der Drosser ist 14 / thůt jedem zu 6 flo. gerechnet', '84 flo.']
+  - ['summarum der wagen ist 15 / thůt zu 24 flo. gerechnet', '360 flo.']
+  - ['summa des vberlengs gelts ist zusamen gerechnet', '16 flo.']
+  - ['summa summarum aller Reuter / Kurisser / Drosser / wagen vnnd vberleng gelts diser Musterung', '2548 flo.']
+  cs:
+  - ['Celkový součet {Summa summarum} všech koní je 166; počítá-li se kůň po 12 zl., činí to v penězích', '1992 zl.']
+  - ['Součet kyrysníků je 8; počítáno po 12 zl. na jednoho to činí', '96 zl.']
+  - ['Součet trénních koní je 14; počítáno každému po 6 zl. to činí', '84 zl.']
+  - ['Součet vozů je 15; počítáno po 24 zl. to činí', '360 zl.']
+  - ['Součet peněz za příplatky, sečteno dohromady', '16 zl.']
+  - ['Celkový součet za všechny jezdce, kyrysníky, trénní koně, vozy a příplatky této přehlídky', '2548 zl.']
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Muster Zedel.
+  cs: |-
+    Přehlídková cedule {Muster Zedel}.
+- typ: odstavec
+  de: |-
+    Hertzog Moritzen zu sachssen / etc. Reuter welche durch Andres Pflůgen beworben / vnd seind gemustert worden durch Reinharten Grauen zu solms / etc. vnd Christoffeln von schawenburg / etc. Donerstags des 29 tag May / Anno / etc. 44.
+  cs: |-
+    Jezdci {Reuter} vévody Mořice Saského atd., které naverboval Andres Pflůg a které přehlédli Reinhart, hrabě ze Solmsu atd., a Christoffel von Schawenburg atd. ve čtvrtek 29. května léta [15]44.[^2]
+poznamky:
+- n: 1
+  text: |-
+    Pokračování rejstříku ze [[6-007r|strany 7r]]; první „součet strany“ (Summa lateris) shrnuje předchozí stranu. Tištěná čísla oddílu 5 (Hans von Dieskau: kyrysníci 11, trénní koně 9) a oddílu 8 (trénní koně 6) se neshodují se součtem strany (kyrysníci 3, trénní koně 5); součty i celkové sumy odpovídají spíše hodnotám 1, 1 a 1, takže jde patrně o chyby sazby. Také součet vozů levého sloupce je vytištěn jen jako „½“, ačkoli z položek i z celkového počtu 15 vozů vychází 4½. Polovina vozu znamená podíl na společném voze dvou oddílů.
+- n: 2
+  text: |-
+    Andres Pflůg (Pflug) – patrně příslušník saského šlechtického rodu Pflugků. Jména osob v rejstříku jsou ponechána v podobě tisku (Hanß von Dyßkaw = Hans von Dieskau, Velrich von Maltitz = Ulrich von Maltitz). Rejstřík jeho jezdců pokračuje na [[6-008r|další straně]]. Celková suma se shoduje: 1992 + 96 + 84 + 360 + 16 = 2548 zl.; kyrysníci dostávají 12 zl. navíc k žoldu zbrojného koně.
