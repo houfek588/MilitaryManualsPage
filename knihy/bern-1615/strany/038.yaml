@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Herstelt euch.
   cs: Zaujměte původní postoj.
 - typ: odstavec
@@ -15,7 +15,7 @@ bloky:
   cs: |-
     Za 16.: chce-li [voják] vrátit píku {Spieß} do původní polohy, ustoupí levou nohou zpět a uchopí píku do pravé ruky tak, aby stála před ním vzpřímeně vedle pravé nohy.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Auff die Schultern den Spieß legt.
   cs: Položte píku na rameno.
 - typ: odstavec

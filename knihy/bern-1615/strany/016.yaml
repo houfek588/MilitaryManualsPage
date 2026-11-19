@@ -12,7 +12,7 @@ bloky:
     obrátí, má ji nechat klesnout na levé straně a furketu {Fourcket} vléci za sebou; a aby to mohl pohodlně udělat, musí pravá ruka levé ihned přijít na pomoc.
   pokracovani: true
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Ladmaß (oder Ladung) auffthut.
   cs: Otevřete odměrku nálože {Ladmaß} (nebo nálož {Ladung}).
 - typ: odstavec
@@ -21,7 +21,7 @@ bloky:
   cs: |-
     Za třiadvacáté, jak má palcem otevřít odměrku nálože, vidlici {Gabel} nechat vléci za sebou, mušketu {Musquet} však (pokud ji udrží) držet vzhůru.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Musqueten ladt.
   cs: Nabijte mušketu.
 - typ: odstavec

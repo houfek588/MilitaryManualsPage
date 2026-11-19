@@ -12,7 +12,7 @@ bloky:
   cs: |-
     levé a levá na místo pravé, čímž pak zaujme svůj postoj {Postur}.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Ein anders/ den Spieß hinderwerts zu fellen.
   cs: Jiný způsob, jak sklopit píku {Spieß} dozadu.
 - typ: odstavec
@@ -21,7 +21,7 @@ bloky:
   cs: |-
     [Voják] stojí ve svém postoji a nese píku naplocho nebo skloněnou dolů. Nechá ji proklouznout pravou rukou co nejdále vpřed, ke konci neboli patce[^1], potom švihne píkou přes hlavu a obrátí se vpravo, obojí v jedné době, a pak píku uchopí levou rukou, aby ji sklopil dozadu[^2]. O návratu do původního postoje bylo již dříve řečeno dost.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Herstelt euch.
   cs: Zaujměte původní postoj.
 - typ: odstavec

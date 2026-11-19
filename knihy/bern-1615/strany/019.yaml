@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Den Ladstecken kurtz faßt.
   cs: Uchopte nabiják {Ladstecken} nakrátko.
 - typ: odstavec
@@ -15,7 +15,7 @@ bloky:
   cs: |-
     Za devětadvacáté, jak má nabiják, aby jej uchopil o to kratčeji, opět opřít o tělo, jak bylo řečeno výše.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Den Ladstecken wider einsteckt.
   cs: Zasuňte nabiják zpět.
 - typ: odstavec
@@ -24,7 +24,7 @@ bloky:
   cs: |-
     Za třicáté, jak má nabiják, když jej uchopí úplně na spodním konci, jistým hmatem hbitě zasunout zpět do pažby {Laden} neboli {Schafft}.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Musquet mit lincker Hand herfür bringt.
   cs: Přeneste mušketu {Musquet} levou rukou před sebe.
 - typ: odstavec

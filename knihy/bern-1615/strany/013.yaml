@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Lont abnembt.
   cs: Sejměte doutnák {Lont}.
 - typ: odstavec
@@ -15,7 +15,7 @@ bloky:
   cs: |-
     Za čtrnácté, jak má doutnák dobře držet a – aby jej sám neuhasil – sejmout jej [z kohoutu] týmiž prsty, jimiž jej nasadil, a nikoli jím trhnout.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Lont wider zwischen die Finger fügt.
   cs: Vložte doutnák zpět mezi prsty.
 - typ: odstavec
@@ -24,7 +24,7 @@ bloky:
   cs: |-
     Za patnácté, jak má doutnák vložit zpět mezi prsty, odkud jej předtím vzal, a mušketu {Musquet} přitom stále držet vzhůru v pohodlné výšce.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Pfann abblaßt.
   cs: Ofoukněte pánvičku {Pfann}.
 - typ: odstavec

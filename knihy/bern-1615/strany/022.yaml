@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Musquet auff der Fourcket halt.
   cs: Držte mušketu {Musquet} na furketě {Fourcket}.
 - typ: odstavec
@@ -15,7 +15,7 @@ bloky:
   cs: |-
     Za sedmatřicáté, jak má na stráži {Schiltwacht} držet mušketu položenou ve vidlici {Gabel}, pravou paži od těla, ruku přitisknutou [k pažbě] a opěrku pažby {Anschlag} u pravého boku.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: |-
     Die Musquet in der Fourcket mit der lincken Hand allein im gwicht halt.
   cs: Držte mušketu ve furketě jen levou rukou v rovnováze.

@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Marschiert vnd tragt die Gabel neben der Musqueten.
   cs: Pochodujte a neste vidlici {Gabel} vedle muškety {Musqueten}.
 - typ: odstavec
@@ -15,7 +15,7 @@ bloky:
   cs: |-
     Za čtyřiatřicáté, jak má mušketu, když ji položil na rameno, opět držet a nést jako předtím.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Musquet von der Schultern nembt.
   cs: Sejměte mušketu z ramene.
 - typ: odstavec
@@ -24,7 +24,7 @@ bloky:
   cs: |-
     Za pětatřicáté, jak se má připravit, když stojí na stráži {Schiltwacht}, a mušketu, jak bylo řečeno výše, jednou rukou sejmout z ramene.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Musquet in die Fourcket/ oder Gabel legt.
   cs: Položte mušketu do furkety {Fourcket} neboli vidlice.
 - typ: odstavec

@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: In die lincke Hand euwer Musquet nembt/ vnd die Gabel darneben.
   cs: Vezměte mušketu {Musquet} do levé ruky a vidlici {Gabel} vedle ní.
 - typ: odstavec
@@ -15,7 +15,7 @@ bloky:
   cs: |-
     Za páté, jak má mušketu vedle vidlice držet jen samotnou levou rukou v rovnováze, tak aby nebyla ani příliš vysoko, ani příliš nízko, pravou ruku si ponechat volnou a loket pro větší pevnost opřít o bok. Furketu {Fourcket} však nemá vléci po zemi, leda by byl voják příliš unavený nebo zesláblý.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Lont in die rechte Hand nembt.
   cs: Vezměte doutnák {Lont} do pravé ruky.
 - typ: odstavec

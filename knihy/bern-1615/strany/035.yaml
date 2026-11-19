@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Herstelt euch.
   cs: Zaujměte původní postoj.
 - typ: odstavec
@@ -15,7 +15,7 @@ bloky:
   cs: |-
     Za 11., jak se má z tohoto postoje {Postur} vrátit do původního neboli sklopit píku {Spieß}: sáhne totiž na tři doby opět dozadu, uchopí píku (jak bylo řečeno v 9. článku) za její konec a znovu předstoupí levou nohou, tak jako když píku sklopil.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Den Spieß schleifft.
   cs: Vlečte píku.
 - typ: odstavec

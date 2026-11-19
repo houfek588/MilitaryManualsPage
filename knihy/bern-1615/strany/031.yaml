@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Abwerts den Spieß tragt.
   cs: Neste píku {Spieß} skloněnou dolů.
 - typ: odstavec
@@ -15,7 +15,7 @@ bloky:
   cs: |-
     Za 5.: při nesení píky skloněné dolů má být její přední konec nejméně jednu stopu {Schuch} nad zemí, ne však výše[^1], a pravá noha má být vysunuta vpřed.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Den Spieß durch die Porten fellt.
   cs: Sklopte píku pro průchod branou {Porten}.
 - typ: odstavec

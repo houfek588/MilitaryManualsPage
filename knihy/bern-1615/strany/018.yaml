@@ -12,7 +12,7 @@ bloky:
     v níž takto nakrátko drží nabiják {Ladstecken}, rychle vyndat z úst nebo odkudkoli, kde kouli {Kugel} jinak nosí, a nechat ji vkutálet do muškety {Musquet}.
   pokracovani: true
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Das Puluer niderstampfft.
   cs: Upěchujte prach {Puluer}.
 - typ: odstavec
@@ -21,7 +21,7 @@ bloky:
   cs: |-
     Za sedmadvacáté, jak má nabijákem upěchovat v mušketě prach i kouli dohromady a vidlici {Gabel} nechat stále vléci za sebou, mušketu však nikoli, pokud ji udrží.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Den Ladstecken außziecht.
   cs: Vytáhněte nabiják.
 - typ: odstavec

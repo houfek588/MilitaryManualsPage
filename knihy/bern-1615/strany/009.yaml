@@ -11,7 +11,7 @@ bloky:
   cs: ostatními prsty a mušketu {Musquet} přitom stále držet vzhůru v pohodlné výšce.
   pokracovani: true
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Lont abblaßt vnd wol haltet.
   cs: Ofoukněte doutnák {Lont} a dobře jej držte.
 - typ: odstavec
@@ -20,7 +20,7 @@ bloky:
   cs: |-
     Za sedmé, jak má doutnák uchopený palcem a ostatními prsty přiblížit až k ústům a ofouknout jej, a přitom se příliš neshýbat.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Lont vfftruckt.
   cs: Nasaďte doutnák.
 - typ: odstavec
@@ -29,6 +29,6 @@ bloky:
   cs: |-
     Za osmé, jak má doutnák palcem a ostatními prsty pořádně nasadit [do kohoutu], a nikoli jej přišroubovat. Proto má mít rozevření kohoutu {Hanens} správně seřízené podle tloušťky doutnáku.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Lonten auffmeßt.
   cs: Odměřte doutnák.

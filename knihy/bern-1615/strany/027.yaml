@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Den Spieß auffhebt/ vnnd auffwerts tragt.
   cs: Zvedněte píku {Spieß} a neste ji vzpřímeně.
 - typ: odstavec

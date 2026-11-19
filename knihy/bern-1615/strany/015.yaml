@@ -11,7 +11,7 @@ bloky:
   cs: |-
     Za devatenácté, jak má z víčka pánvičky {Pfanndeckel} oklepat [přebytečný] prach {Ladpuluer}, aby mušketa {Musquet} nečekaně nevystřelila, až bude zkoušet doutnák {Lundten}.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Pfann abblaßt.
   cs: Ofoukněte pánvičku {Pfann}.
 - typ: odstavec
@@ -20,7 +20,7 @@ bloky:
   cs: |-
     Za dvacáté, jak má pro jistotu ještě odfouknout prach z víčka pánvičky (pokud by na něm nějaký zůstal), aby bylo bezpečí ještě větší.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Musquet vmbdrehet.
   cs: Obraťte mušketu.
 - typ: odstavec
@@ -29,7 +29,7 @@ bloky:
   cs: |-
     Za jednadvacáté, jak má mušketu spolu s vidlicí {Gabel} obrátit, aby ji znovu nabil, a pravou rukou ji zespodu vést k levé straně.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Gabel schleifft.
   cs: Vlečte vidlici za sebou.
 - typ: odstavec

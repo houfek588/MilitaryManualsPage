@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: |-
     Die Musquet mit rechter Hand in die höche/ oder empor/ halt/ vnnd die Gabel erfaßt.
   cs: |-
@@ -17,7 +17,7 @@ bloky:
   cs: |-
     Za dvaatřicáté, jak má mušketu pravou rukou opět uchopit u velkého šroubu {grossen schrauben} (neboli dnového šroubu {Schwanschrauben}) a držet ji vzhůru a vidlici, která se ještě vleče za ním a visí na řemínku, přenést dopředu, aby ji mohl obratně nechat dojít až do levé ruky.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Auff die Schultern die Musqueten legt.
   cs: Položte mušketu na rameno.
 - typ: odstavec

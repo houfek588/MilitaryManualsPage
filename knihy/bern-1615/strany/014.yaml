@@ -12,7 +12,7 @@ bloky:
     nevznítila, až z ní bude chtít sypat prach {Puluer} na pánvičku, čímž by se mohl sám zranit. Mezitím má mít prachovničku {Ladfleschlein}[^1] uchopenou v pravé ruce a připravenou, aby získal čas.
   pokracovani: true
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Auff die Pfan Puluer thut.
   cs: Nasypte prach na pánvičku {Pfan}.
 - typ: odstavec
@@ -21,14 +21,14 @@ bloky:
   cs: |-
     Za sedmnácté, jak má sypat prach na pánvičku z prachovničky, a nikoli z náloží {Ladungen} muškety {Musqueten}; kdyby se totiž mušketa kvůli náloži vychýlila z polohy, velmi by to zdržovalo rychlé nabíjení.[^2]
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Pfann zuthut.
   cs: Zavřete pánvičku.
 - typ: odstavec
   de: Zum 18. wie er die Pfann mit den vordersten Fingern zusperren sol.
   cs: Za osmnácté, jak má pánvičku zavřít předními prsty.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Die Pfann abschüttet.
   cs: Oklepejte pánvičku.
 poznamky:

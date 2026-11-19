@@ -6,7 +6,7 @@ stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Den Ladstecken außziecht.
   cs: Vytáhněte nabiják {Ladstecken}.
 - typ: odstavec
@@ -15,7 +15,7 @@ bloky:
   cs: |-
     Za pětadvacáté, jak má nabiják obrácenou neboli přetočenou rukou vytáhnout z pažby {Laden}, vidlici {Gabel} nechat stále vléci za sebou, mušketu {Musquet} však držet vzhůru.
 - typ: nadpis
-  uroven: 3
+  uroven: 2
   de: Den Ladstecken kurtz fasset.
   cs: Uchopte nabiják nakrátko.
 - typ: odstavec
