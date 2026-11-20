@@ -4,7 +4,7 @@ Digitální edice raně novověkých vojenských příruček: německý originá
 čtené vedle sebe, s poznámkami překladatele, věcným rejstříkem, odkazy na skeny a exportem do PDF.
 
 Web je čistě statický (HTML + CSS + JS, data vložená jako `<script>`), takže:
-- **offline**: otevři `docs/index.html` dvojklikem,
+- **offline**: sestav web (`python -I nastroje/build.py`) a otevři `docs/index.html` dvojklikem,
 - **GitHub Pages**: web sestavuje a nasazuje GitHub Actions (`.github/workflows/pages.yml`) při každém pushi do `main`:
   zkontroluje data všech knih (`over_strany.py`; chyba = nenasadí se), spustí `build.py` a nasadí `docs/`.
   Nastavení repozitáře: Settings → Pages → Build and deployment → Source: **GitHub Actions**.
@@ -40,7 +40,7 @@ nastroje/
   vyrez_drevorezy.py        výřez dřevořezů ze skenu přes IIIF (bloky obrazek se souborem drevorez-*.jpg)
   build.py                  sestavení webu do docs/
   web/                      šablony a aplikace (app.js, app.css, kniha.html, index.html, o-projektu.html, logo.png, payment_qr.png, fonts/)
-docs/                       VYGENEROVANÝ web (needitovat ručně – přepíše ho build.py)
+docs/                       VYGENEROVANÝ web – není v gitu (.gitignore), sestavuje se lokálně i v GitHub Actions; needitovat ručně
 .claude/agents/             specializovaní agenti: prekladatel, kontrola-prekladu
 Fronsberger/                původní pracovní překlad (export z Google Docs) – archiv, už se needituje
 ```
