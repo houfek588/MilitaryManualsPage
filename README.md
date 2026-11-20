@@ -5,7 +5,10 @@ Digitální edice raně novověkých vojenských příruček: německý originá
 
 Web je čistě statický (HTML + CSS + JS, data vložená jako `<script>`), takže:
 - **offline**: otevři `docs/index.html` dvojklikem,
-- **GitHub Pages**: Settings → Pages → *Deploy from a branch* → `main` / složka `/docs`.
+- **GitHub Pages**: web sestavuje a nasazuje GitHub Actions (`.github/workflows/pages.yml`) při každém pushi do `main`:
+  zkontroluje data všech knih (`over_strany.py`; chyba = nenasadí se), spustí `build.py` a nasadí `docs/`.
+  Nastavení repozitáře: Settings → Pages → Build and deployment → Source: **GitHub Actions**.
+  Lokálně se `docs/` dál sestavuje příkazem `python -I nastroje/build.py` (náhled, offline použití).
 
 ## Struktura
 
@@ -53,6 +56,10 @@ Fronsberger/                původní pracovní překlad (export z Google Docs) 
 3. Ruční ověření: po přečtení a schválení strany `python -I nastroje/overeno_clovekem.py knihy/fronsberger-1564 001r-002v --kdo "jméno"`
    (`--zrusit` zruší, `--prehled` vypíše ověřené). `stav: zkontrolovano` = strojová kontrola, `overeno_clovekem: true` = ověřil člověk.
 4. Sestavení webu: `python -I nastroje/build.py`
+   Build trvá několik sekund a je deterministický: soubory nesou `?v=<otisk obsahu>`, takže prohlížeč stahuje znovu jen
+   to, co se opravdu změnilo, a nezměněná kniha nevytvoří změnu v gitu. Rejstřík v `data.js` ukládá výskyty jako
+   `[blok, začátek, konec]` a úryvky skládá prohlížeč; mapa tvarů obsahuje jen tvary z glosáře + výjimky, koncovky
+   dopočítá `app.js` (`najdiHeslo`) stejným pravidlem jako `build.py` (`odvod_tvar`).
 5. Náhled: otevři `docs/index.html`, nebo `python -m http.server 8766 --directory docs` a http://localhost:8766/
 
 Nová kniha: vytvoř `knihy/<id>/` se stejnou strukturou (kniha.yaml, glosar.yaml, strany/) – build ji přidá do rozcestníku.

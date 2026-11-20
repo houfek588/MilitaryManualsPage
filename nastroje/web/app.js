@@ -33,6 +33,21 @@ const skenObr = (p, w) => M.sken.url_obrazek.replace('{sken5}', String(p.sken).p
 const hlavniOddil = s => { while (s && s.rodic) s = oddil[s.rodic]; return s; };
 const cestaOddilu = s => { const c = []; while (s) { c.unshift(s); s = s.rodic ? oddil[s.rodic] : null; } return c; };
 
+// německý tvar → heslo glosáře: přesný tvar z glosáře (E.demap), výjimky (E.demapx; '' = nepropojovat),
+// jinak základ + běžná koncovka (E.koncovky) – stejné pravidlo jako v build.py (odvod_tvar)
+const DEMAP_PORADI = {}; Object.keys(E.demap).forEach((k, i) => { DEMAP_PORADI[k] = i; });
+function najdiHeslo(n) {
+  if (!n) return null;
+  if (E.demapx && n in E.demapx) return E.demapx[n] || null;
+  if (n in E.demap) return E.demap[n];
+  let nej = null;
+  for (const suf of E.koncovky || []) {
+    const zaklad = n.slice(0, -suf.length);
+    if (n.endsWith(suf) && zaklad in E.demap && (nej === null || DEMAP_PORADI[zaklad] < nej[0])) nej = [DEMAP_PORADI[zaklad], E.demap[zaklad]];
+  }
+  return nej ? nej[1] : null;
+}
+
 // inline formátování: **tučně**, *kurzíva*, [^n] poznámka, {Termín} odkaz do glosáře, [[id strany|text]] odkaz na stranu
 function inline(s, ctx) {
   let h = esc(s);
@@ -40,7 +55,7 @@ function inline(s, ctx) {
   h = h.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g, '$1<i>$2</i>');
   h = h.replace(/\[\^(\d+)\]/g, (m, n) => ctx && ctx.p ? `<sup class="fn"><a href="#" data-fn="${ctx.p.id}:${n}">${n}</a></sup>` : '');
   h = h.replace(/\{([^}]*)\}\*?/g, (m, t) => {
-    const id = E.demap[normDe(t.split('/')[0])] || E.demap[normDe(t)];
+    const id = najdiHeslo(normDe(t.split('/')[0])) || najdiHeslo(normDe(t));
     return id ? `<a class="term" href="#/heslo/${id}" data-h="${id}">[${t}]</a>` : `<span class="term">[${t}]</span>`;
   });
   return h;
@@ -213,10 +228,11 @@ V.rejstrik = () => {
 V.heslo = id => {
   const h = heslo[id];
   if (!h) return V.nenalezeno();
-  const vys = h.v.map(v => {
-    const b = BL[v.b], p = STR[b.p], s = oddil[b.s];
-    return `<div class="vyskyt"><div class="kontext">${esc(v.k)}<mark>${esc(v.h)}</mark>${esc(v.z)}</div>
-      <div class="m"><a href="#/kap/${s.id}/${v.b}">${esc(strop(plain(s.cs || s.de), 70))}</a> · <a href="#/strana/${p.id}">${folio(p)}</a></div></div>`;
+  const vys = h.v.map(([bi, od, do_]) => {   // výskyt = [blok, začátek, konec] v čistém textu bloku
+    const b = BL[bi], p = STR[b.p], s = oddil[b.s], cs = plain(b.cs);
+    const a = Math.max(0, od - 70), z = Math.min(cs.length, do_ + 70);
+    return `<div class="vyskyt"><div class="kontext">${a ? '…' : ''}${esc(cs.slice(a, od))}<mark>${esc(cs.slice(od, do_))}</mark>${esc(cs.slice(do_, z))}${z < cs.length ? '…' : ''}</div>
+      <div class="m"><a href="#/kap/${s.id}/${bi}">${esc(strop(plain(s.cs || s.de), 70))}</a> · <a href="#/strana/${p.id}">${folio(p)}</a></div></div>`;
   }).join('');
   return `<p class="drobky"><a href="#/rejstrik">Rejstřík</a> › ${esc(E.kategorie[h.kat] || '')}</p>
     <h1>${esc(h.cs)}<span class="de">${esc(h.de.join(', '))}</span></h1>
