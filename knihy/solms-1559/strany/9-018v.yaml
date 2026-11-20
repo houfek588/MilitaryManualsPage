@@ -2,7 +2,7 @@ id: 9-018v
 list: 18 (9. kniha)
 strana: verso
 sken: 656
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -15,12 +15,12 @@ bloky:
   de: |-
     Wir haben ein gůt Exempel von Hertzog Carolen / welcher ein strenger Herr / vnd seine Leut in grosser forcht gehalten / vnd getrungen das sie im Wintter zu Veld haben ligen müssen / solches ist aber ein vrsach gewesen daß er vberwunden vnd geschlagen ist worden / Darumb soll einer mit vernunfft handeln / dann ausserhalb der vernunfft nichts außgericht mag werden / ich heiß ein Wintterkrieg in den Landen so der kelte vnderworffen / aber nicht Spania / Italia odder andere warm Lender / da besser winters zeiten kriegen dann sonst ist.
   cs: |-
-    Máme dobrý příklad na vévodovi Karlovi,[^1] který byl přísným pánem a držel své lidi ve velkém strachu; přinutil je, že museli v zimě ležet v poli. To však bylo příčinou, že byl přemožen a poražen. Proto má člověk jednat s rozumem, neboť bez rozumu nelze nic vykonat. Zimní válkou nazývám válku v zemích, které podléhají zimě, nikoli však ve Španělsku, Itálii nebo v jiných teplých zemích, kde se v zimě válčí lépe než jindy.
+    Máme dobrý příklad na vévodovi Karlovi,[^1] který byl přísným pánem a držel své lidi ve velkém strachu; přinutil je, že museli v zimě ležet v poli. To však bylo příčinou, že byl přemožen a poražen. Proto má člověk jednat s rozumem, neboť bez rozumu nelze nic vykonat. Zimní válkou nazývám válku v zemích, které jsou vystaveny mrazu, nikoli však ve Španělsku, Itálii nebo v jiných teplých zemích, kde se v zimě válčí lépe než jindy.
 - typ: odstavec
   de: |-
     Diser außspruch eines legers geschicht offt mit gůter vorbetrachtung / wann der Oberst nit streittig ist / vnd die Leut in das Veld tringen will / alßdan mag mann mit gůten růhen vnd ordnung das Geschütz hinweg bringen / vnd mit solcher gůten Ordnung / wie ich oben gemelt / an die ort ziehen da jhr ewer Wintterleger willens habt zu schlagen / doch solt jr einem fürnembsten Hauptman einen gůten hauffen Leut zu geben / der den nachzug inhab / damit die auß der Stat nit in euch fallen / vnnd dem Veldmarschalck beuelch geben / daß er acht hab das kein vnordnung im ziehen werde / dann wann es darzů kompt / eilt ein jeglicher vnd wer gern der erst in das Losament / darumb jr mehr vnd bessere achtung auff die ordnung haben solt dann vor nie.
   cs: |-
-    Takové zrušení {außspruch} ležení {legers}[^2] se často děje po dobrém uvážení, když plukovník {Oberst} není svéhlavý a nechce lidi nutit [zůstávat] v poli. Pak lze v klidu a pořádku odvézt děla {Geschütz} a v tak dobrém pořádku {Ordnung}, jak jsem řekl výše, táhnout na místa, kde máte v úmyslu rozbít zimní ležení {Wintterleger}. Máte však některému z nejpřednějších hejtmanů {Hauptman} dát dobrý houf lidí, aby vedl zadní voj {nachzug} a aby ti z města na vás nevpadli. Polnímu maršálkovi {Veldmarschalck} máte uložit, aby dbal, aby při tažení nevznikl nepořádek. Když totiž k tomu dojde, každý spěchá a chtěl by být první v ubytování {Losament}; proto máte na pořádek dbát víc a lépe než kdykoli předtím.
+    Takové zrušení {außspruch} ležení {legers}[^2] se často děje po dobrém uvážení, když vrchní velitel {Oberst} není svéhlavý a nechce lidi nutit [zůstávat] v poli. Pak lze v klidu a pořádku odvézt děla {Geschütz} a v tak dobrém pořádku {Ordnung}, jak jsem řekl výše, táhnout na místa, kde máte v úmyslu rozbít zimní ležení {Wintterleger}. Máte však některému z nejpřednějších hejtmanů {Hauptman} dát dobrý houf lidí, aby vedl zadní voj {nachzug} a aby ti z města na vás nevpadli. Polnímu maršálkovi {Veldmarschalck} máte uložit, aby dbal, aby při tažení nevznikl nepořádek. Když totiž k tomu dojde, každý spěchá a chtěl by být první v ubytování {Losament}; proto máte na pořádek dbát víc a lépe než kdykoli předtím.
 - typ: odstavec
   de: |-
     Jtem ich hab auch gesehen daß ein auffbruch in ein leger so eilents kommen / daß sie weder stundt / tag noch nacht erwarten haben wöllen / vnd wann schon etlich blieben seind / doch so wenig gewesen / daß sie der Feind nicht wol haben dörffen erwarten / Jn dem fall must jr euch trutzig vnd tapffer / vnd ewern kleinen hauffen vor der Stat inn ein Ordnung stellen / möcht mitler weil heissen das Geschütz vnd was darzů gehörig auff die Wägen laden / vnd jr solt der letst bleiben / auch fleiß haben daß die sach der massen außgericht / daß kein vnordnung in der Zugordnung werde / vnd euch allweg trutzig / keck vnnd manhafftig stellen / vnd den fleiß so zu denen dingen gehörig / neben vorgemeltem stück auch brauchen / dann es ein stück ist darauff jr als vil sorg haben must als auff ewern eigen leib / vrsach halben / wenn die sach zu einem solchen fall (wie ich gemelt) kompt / hat mann auff niemants kein auffsehen dann vff euch / jr must auch solchs thůn vnd kein anderer für euch / Jch hab es mehr dann einmal versucht / vnd weiß wol wie es thůt / ich schreib euch von solchen sachen die sich zutragen / was mein gůt bedüncken vnd meinung ist / wann jr sehet das sich die sach mit ewerm hauffen dahin ziehen will / wie jr dann gůter massen voran wol erachten kündet / were mein rath daß jr drei oder vier tag
@@ -28,6 +28,8 @@ bloky:
     Dále jsem také viděl, že odchod {auffbruch} z ležení přišel tak náhle, že [lidé] nechtěli čekat ani hodinu, ani den či noc; a i když někteří zůstali, bylo jich tak málo, že se neodvážili nepřítele vyčkat. V takovém případě se musíte postavit vzdorně a statečně a svůj malý houf seřadit před městem do šiku {Ordnung}. Mezitím můžete dát naložit děla a co k nim patří na vozy a sami máte zůstat poslední. Máte také pečlivě dbát, aby věc byla vykonána tak, aby v pochodovém pořádku {Zugordnung} nevznikl zmatek, a vždy se stavět vzdorně, směle a mužně. Vedle toho, co bylo řečeno, máte vynaložit i všechnu píli, která k těm věcem patří, neboť je to věc, o niž musíte pečovat jako o vlastní tělo. Když totiž věc dospěje do takového stavu (jak jsem řekl), nehledí nikdo na nikoho jiného než na vás; musíte to udělat sami, a nikdo jiný za vás. Zkusil jsem to víc než jednou a dobře vím, jaké to je. Píšu vám o takových věcech, které se přiházejí, jaké je mé dobré zdání a mínění. Když vidíte, že to s vaším houfem k tomu spěje, což můžete předem dobře posoudit, radil bych vám, abyste tři nebo čtyři dny
 poznamky:
 - n: 1
-  text: Karel Smělý, vévoda burgundský; v zimě 1476/77 obléhal Nancy a 5. ledna 1477 byl před městem poražen a zabit.
+  text: |-
+    Karel Smělý, vévoda burgundský; v zimě 1476/77 obléhal Nancy a 5. ledna 1477 byl před městem poražen a zabit.
 - n: 2
-  text: „außspruch“ zde znamená odchod, zrušení ležení (srov. „auffbruch“ v následujícím odstavci).
+  text: |-
+    „außspruch“ zde znamená odchod, zrušení ležení (srov. „auffbruch“ v následujícím odstavci).

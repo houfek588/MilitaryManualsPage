@@ -2,7 +2,7 @@ id: 6-016v
 list: 16 (6. kniha)
 strana: verso
 sken: 524
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -65,7 +65,7 @@ bloky:
   - ['summarum seins zu oder anrit gelts ist', '610 flo 1½ batzen.']
   - ['Der Drosser gelt abgezogen/ nemlich', '7 flo. 4½ batzen.']
   - ['Rest noch', '602 flo. 12. batzen']
-  - ['Helwig von Rückerßhausen/ vnd Daniel Scheurschloß.', '']
+  - ['Helwig von Rückerßhausen/ vnd Daniel scheurschloß.', '']
   - ['summarum seins anrit gelts ist', '423 flo. 14 batzen.']
   - ['Vnd ist der Drosser wegen vnd hieuon abgezogen worden.', '']
   - ['summarum aller Restirender summen ist aller zusamen', '4606 flo.']
@@ -74,7 +74,7 @@ bloky:
   - ['Všech trénních koní je celkem 14, činí na penězích', '50 zlatých']
   - ['Všech vozů je celkem 15½, činí na penězích', '221 zlatých']
   - ['Úhrn všech peněz za koně, trénní koně a vozy je', '1434 zlatých 6 bacenů']
-  - ['Z toho odečteno za vozy trénních koní', '50 zlatých']
+  - ['Z toho odečteno za trénní koně', '50 zlatých']
   - ['Zbývá ještě', '2384 zlatých 6 bacenů[^2]']
   - ['Příjezdné {Anrit gelt} Andrese Pflüga.', '']
   - ['Úhrn jeho přijíždění {zů oder anreitens} činí', '2262 zlatých 3 bacenů']
@@ -92,6 +92,6 @@ poznamky:
 - n: 1
   text: Tisková chyba – 96 zl. 12 bac. + 4 zl. 6 bac. + 17 zl. 9 bac. = 118 zl. 12 bac.; s touto hodnotou souhlasí i součet strany 230 zl. 6 bac.
 - n: 2
-  text: Tisková chyba – 1434 zl. 6 bac. − 50 zl. = 1384 zl. 6 bac. Jde o čistou částku příjezdného dvorské družiny vévody Mořice.
+  text: Tisková chyba – 1434 zl. 6 bac. − 50 zl. = 1384 zl. 6 bac. Jde o čistou částku příjezdného dvorské družiny vévody Mořice. Odečítá se přesně částka za 14 trénních koní z předchozího řádku („von der Drosser Wägen“ = „wegen“, kvůli trénním koním, ne „vozy“).
 - n: 3
   text: 2194 zl. 13 bac. + 602 zl. 12 bac. + 423 zl. 14 bac. + 1384 zl. 6 bac. = 4606 zl. přesně (15 bacenů = 1 zlatý); součet tedy potvrzuje opravu z poznámky 2. Saské vyúčtování příjezdného tím končí, následuje braniborský rejstřík.

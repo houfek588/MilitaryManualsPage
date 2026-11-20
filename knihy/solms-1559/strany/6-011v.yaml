@@ -2,7 +2,7 @@ id: 6-011v
 list: 11 (6. kniha)
 strana: verso
 sken: 514
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -66,7 +66,7 @@ bloky:
   - ['', 'trénních koní', '3']
   - ['', 'vozů', '3']
   - ['', 'Conradt von Schweichel.', '']
-  - ['14', 'Dále: měl 11 dní cesty a stání s 12 koňmi; na koně za den 6 bacenů, činí suma', '56 zl.']
+  - ['14', 'Dále: měl 11 dní cesty a stání s 12 koňmi; na koně za den 6 bacenů, činí celkem', '56 zl.']
   - ['', 'trénní kůň', '2 zl.']
   - ['', 'vůz', '8 zl.']
   - ['', 'suma', '66 zl.']
@@ -91,4 +91,4 @@ poznamky:
 - n: 1
   text: Částky u koní (49 zl. 6 bac.) i u vozu (7 zl. 9 bac.) odpovídají 9½ dne, nikoli 10½ dne uvedeným v tisku; suma i součet strany 229 zl. 13 bac. s tištěnými částkami souhlasí. Také u položek 11, 13 a 14 se částky za koně s počtem dní přesně nekryjí (zaokrouhlení nebo tiskové chyby).
 - n: 2
-  text: Suma 95 zl. 7 bac. nesouhlasí s tištěnými položkami (42 zl. + 3 zl. 7 bac. + 14 zl. = 59 zl. 7 bac.); správná suma je 59 zl. 7 bac. – s ní souhlasí součet strany 362 zl. 13 bac. na následující straně. Jméno Hanß von Dotleben stojí v tisku nad sumou předchozí položky, patří však k položce 18. „Meile“ je německá míle, asi 7,5 km.
+  text: Suma 95 zl. 7 bac. nesouhlasí s tištěnými položkami (42 zl. + 3 zl. 7 bac. + 14 zl. = 59 zl. 7 bac.); správná suma je 59 zl. 7 bac. – s ní souhlasí součet strany 362 zl. 13 bac. na následující straně. Jméno Hanß von Dotleben stojí v tisku nad sumou předchozí položky, patří však k položce 18.

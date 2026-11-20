@@ -2,7 +2,7 @@ id: 6-002r
 list: 2 (6. kniha)
 strana: recto
 sken: 495
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -25,7 +25,7 @@ bloky:
   de: |-
     Item er soll auff die drei hundert pferde zwölff Rotmeister haben / die sollen von gůten verstendigen Reuttern sein / daß sie jhre Rotten wissen zu regiren wie sich das gebürt zu halten / vnd in dem feld auch jre Rotten wissen zu ordnen an die fein an vnd ab zu fürn / wie das jm von seinem Ritmeister befolhen vnd angeweist wirt / vnd auch in der not selber nach gelegenheit sich in fortheil zu schicken wisse / damit der Ritmeister solchen seinen Ritmeistern seinn platz in dem feld ehrlich vnd wie sichs gebürt verwarn kan / vnd seinen Herrn damit wisse zuuersorgen vnd getreulich dienen mög / auch soll der Ritmeister von einem pferd haben neben seiner andern besoldung ein halben gulden / tregt ein Monat zwölff vnd ein halben gülden.
   cs: |-
-    Dále má mít na těch tři sta koní dvanáct rotmistrů {Rotmeister}. Ti mají být z dobrých a zkušených jezdců {Reuttern}, aby uměli své roty {Rotten} řídit a držet, jak se sluší, a v poli je také uměli sešikovat a vést proti nepříteli i zpět, jak jim nařídí a ukáže jejich rytmistr, a aby se v nouzi uměli i sami podle okolností obrátit ve svůj prospěch. Tak bude moci rytmistr s takovými svými rytmistry[^1] své místo v poli čestně a jak se sluší uhájit, tím svého pána zaopatřit a věrně mu sloužit. Také má rytmistr mít kromě ostatního služného z jednoho koně půl zlatého, což činí za měsíc dvanáct a půl zlatého.
+    Dále má mít na těch tři sta koní dvanáct rotmistrů {Rotmeister}. Ti mají být z dobrých a zkušených jezdců {Reuttern}, aby uměli své roty {Rotten} řídit a držet, jak se sluší, a v poli je také uměli sešikovat a vést proti nepříteli i zpět, jak jim nařídí a ukáže jejich rytmistr, a aby se v nouzi uměli i sami podle okolností postavit do výhody. Tak bude moci rytmistr s takovými svými rotmistry[^1] své místo v poli čestně a jak se sluší uhájit, tím svého pána zaopatřit a věrně mu sloužit. Také má rotmistr mít kromě ostatního služného z každého koně půl zlatého, což činí za měsíc dvanáct a půl zlatého.
 - typ: odstavec
   de: |-
     Item dem Ritmeister soll auff sein Fendlein odder drei hundert pferdt ein Drometer gehalten werden.
@@ -69,7 +69,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Tisk má „seinen Ritmeistern“, smysl však vyžaduje „Rotmeistern“ (rotmistry). Také následující „von einem pferd … ein halben gulden / tregt ein Monat zwölff vnd ein halben gülden“ se zjevně týká rotmistra: půl zlatého z koně při rotě o 25 koních (300 : 12) dává právě 12½ zlatého měsíčně. „An die fein“ je v tisku zkrácený tvar za „an die Feind“ (proti nepříteli).
+    Tisk má „seinen Ritmeistern“ (ve skenu je R zřetelné) a v další větě „auch soll der Ritmeister“; smysl však na obou místech vyžaduje „Rotmeister“, a tak je přeloženo: půl zlatého z koně při rotě o 25 koních (300 : 12) dává právě 12½ zlatého měsíčně, stejně jako ve služebním listu Mořice Saského rotmistr na 50 koní dostává 25 zlatých ([[6-005v|list 5v]]); rytmistr má naproti tomu celý zlatý z koně (poslední odstavec této strany). „An die fein“ je v tisku zkrácený tvar za „an die Feind“ (proti nepříteli).
 - n: 2
   text: |-
     Kyrys (Küriß, zde „Körres“) je úplná jezdecká plátová zbroj. „Verdeckter Hengst“ je hřebec krytý koňskou zbrojí; „Barsen“ (srov. fr. barde) zde patrně označuje celou koňskou zbroj (bardu), „stirn“ čelní plát (chanfron) a „stelen gleger“ (Gelieger) ocelové krytí trupu a zádi koně. Tatáž výzbroj se opakuje na [[6-002v|další straně]] a ve služebním listu Mořice Saského ([[6-005r|list 5]]).

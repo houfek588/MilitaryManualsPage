@@ -18,6 +18,8 @@ Revize probíhá **postupně po knihách** (nejdřív První kniha).
 - **Oberst / Oberster / Obersten** (samostatně, bez dalšího titulu) = vždy **„plukovník“** – i tam, kde jde o vrchního
   velitele celého vojska. Ne „nejvyšší velitel“, „nejvyšší polní hejtman“ ani „představený“. Složeniny (*Oberster
   Feldhauptman* = nejvyšší polní hejtman, *Oberster Zeugmeister* = nejvyšší zbrojmistr…) podle glosáře.
+  **Výjimka (2026-11-19):** v Deváté knize (Burgundský řád) Oberst ve smyslu vrchního velitele celého vojska
+  = „vrchní velitel“ (9-004v, 9-005v, 9-007v, 9-011r, 9-018v); velitelé ležení, posádky města či loďstva zůstávají „plukovník“.
 - **Fendlin / Fendlein u jízdy = „korouhev“**, u pěchoty „praporec“; u smíšených míst („zu roß oder zu fůß“) obojí.
 - *Kriegßleut* = „válečníci“; *Justitien* = „justice / spravedlnost“ (heslo `justice`, ne `soud`).
 - Knihy 6–9: *Fendrich / Fenderich* u jízdy = „korouhevník“; *Durchleuchtig* (knížata) = „osvícený“;

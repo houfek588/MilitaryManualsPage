@@ -2,7 +2,7 @@ id: 7-013r
 list: 13 (7. kniha)
 strana: recto
 sken: 573
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -14,17 +14,17 @@ bloky:
   de: |-
     Zu disem Renhauffen hat mann allwegen etlich Reutter angehenckt / souil mann gewölt hat / die mann die flügel nennt / auff beiden seiten / die haben alle ding auff beiden seiten besichtigt / etc.
   cs: |-
-    K tomuto předvojovému houfu {Renhauffen} se vždy připojovalo několik jezdců {Reutter}, kolik kdo chtěl, na obou stranách; říká se jim křídla {flügel}. Ti prohlíželi všechno po obou stranách atd.
+    K tomuto předvojovému houfu {Renhauffen} se vždy na obou stranách připojovalo několik jezdců {Reutter}, kolik jich chtěli mít; říká se jim křídla {flügel}. Ti prohlíželi všechno po obou stranách atd.
 - typ: odstavec
   de: |-
     Auff den Renhauffen gehöret der Oberst Veldherr mit seinem Hoffgesind / vnd andere Herrn vnd gůt gesellen / die auff jhn zuwarten bescheiden sind / doch mag er bleiben zu seiner gelegenheit / wo es jm gefelt.
   cs: |-
-    Za předvojový houf patří nejvyšší válečný pán {Oberst Veldherr} se svými dvořany {Hoffgesind} a další páni a dobří tovaryši, kteří jsou mu určeni k službám. Smí však zůstat, kde se mu to hodí a kde se mu líbí.
+    Za předvojový houf patří nejvyšší válečný pán {Oberst Veldherr} se svými dvořany {Hoffgesind} a další páni a dobří tovaryši, kteří jsou mu určeni k službám. Může však podle své potřeby zůstat, kde se mu líbí.
 - typ: odstavec
   de: |-
     Auff solche zwen reisigen Hauffen gehöret das best Veldgeschütz / wieuil mann des hat / mit sampt Kugeln vnd Puluer / als vil die notturfft erfordert / das gibt sich gleichwol an jm selbst.
   cs: |-
-    Za tyto dva jízdní houfy {reisigen Hauffen} patří nejlepší polní děla {Veldgeschütz}, kolik jich kdo má, spolu s koulemi {Kugeln} a prachem {Puluer}, kolik vyžaduje potřeba; to se ostatně ukáže samo.
+    Za tyto dva jízdní houfy {reisigen Hauffen} patří nejlepší polní děla {Veldgeschütz}, kolik jich kdo má, spolu s koulemi {Kugeln} a prachem {Puluer}, kolik vyžaduje potřeba; to se ostatně rozumí samo sebou.
 - typ: odstavec
   de: |-
     Auff solchs Geschütz gehört ein hauff Fußuolck / darnach auff daßselbig das gewaltig Geschütz / mit sampt der Monition so darzů gehört.
@@ -34,12 +34,12 @@ bloky:
   de: |-
     Darnach wider ein geschwader Reutter / wie mann dasselbig außtheilt / das ist allwegen der gewaltig Hauff vnder den Reisigen gewesen / vnd wechseln die Reisigen vnd Fußuolck mit jrem vor vnd nachzug vmb / außgenommen den Renfanen / der hat zu den Feinden den vorzug / von den Feinden den nachzug.
   cs: |-
-    Potom zase švadrona {geschwader} jezdců, jak se rozdělí; ta byla vždy hlavním houfem {gewaltig Hauff} jízdy {Reisigen}. Jízda a pěchota se střídají v předvoji a zadním voji {nachzug}, kromě předvojové korouhve {Renfanen}: ta má předvoj, když se táhne k nepříteli, a zadní voj, když se od nepřítele odtahuje.
+    Potom zase švadrona {geschwader} jezdců podle toho, jak se jízda rozdělí; ta byla vždy hlavním houfem {gewaltig Hauff} jízdy {Reisigen}. Jízda a pěchota se střídají v předvoji a zadním voji {nachzug}, kromě předvojové korouhve {Renfanen}: ta má předvoj, když se táhne k nepříteli, a zadní voj, když se od nepřítele odtahuje.
 - typ: odstavec
   de: |-
     Auff solchen reisigen Hauffen gehöret wider ein hauff Fußuolck / will mann den ein Veldgeschütz zugeben / das mag mann thůn oder lassen.
   cs: |-
-    Za tento jízdní houf patří opět houf pěchoty; chce-li se mu přidat polní dělo, lze to udělat, nebo nechat být.
+    Za tento jízdní houf patří opět houf pěchoty; chce-li se k němu přidat polní dělo, lze to udělat, nebo nechat být.
 - typ: odstavec
   de: |-
     Auff sollichen hauffen Fußuolck gehöret wider ein Geschwader Reisigen.

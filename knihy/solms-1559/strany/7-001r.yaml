@@ -2,7 +2,7 @@ id: 7-001r
 list: 1 (7. kniha)
 strana: recto
 sken: 549
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -13,7 +13,7 @@ bloky:
   de: |-
     IN disem Bůch wirt ein Kartenspiel/ von allen Obersten Kriegßleuten vnnd Kriegßuolck zů Roß vnd Fůß/ auch mit aller wagen vnd büchsen Rüstung/ deßgleichen Heerwagen/ Artoloreiwagen/ Sturmwagen/ Macatanten wagen vnd Karn/ angezeigt/ Welchs billich ein Ritterlich vnnd Adelisch Kartenspiel genant solt werden/ darinn der jung Adel sich wol zu üben vnd zu lernen haben möcht/ vnd dörfft sein gelt nicht darauff/ wie auff Wirffeln vnd andern Kartenspieln setzen/ bedörfft der sorg auch nit/ daß jm ein anderer sein gelt angewinnen künde/ oder mit einem andern sich balgen vnd zweien müst/ sonder er kan sein Kartenspiel mit lust vnd kurtzweil wol zu bringen/ nemlich auff disen volgenden weg.
   cs: |-
-    V této knize se ukazuje karetní hra {Kartenspiel} se všemi nejvyššími válečníky {Obersten Kriegßleuten} a válečným lidem {Kriegßuolck} na koni i pěšky, také s veškerou vozovou a dělovou výzbrojí {Rüstung}, rovněž s válečnými vozy {Heerwagen}, dělostřeleckými vozy {Artoloreiwagen}, útočnými vozy {Sturmwagen}, markytánskými vozy {Macatanten wagen} a károu {Karn}. Právem by se měla nazývat rytířskou a šlechtickou karetní hrou, neboť by se v ní mladá šlechta mohla dobře cvičit a učit. Mladý šlechtic na ni nemusí sázet své peníze jako na kostky a jiné karetní hry, nemusí se ani bát, že by mu někdo jiný peníze vyhrál nebo že by se musel s někým rvát a hádat; naopak může svou karetní hru provozovat s potěšením a pro kratochvíli, a to následujícím způsobem.
+    V této knize se ukazuje karetní hra {Kartenspiel} se všemi nejvyššími válečníky {Obersten Kriegßleuten} a válečným lidem {Kriegßuolck} na koni i pěšky, také s veškerou vozovou a dělovou výzbrojí {Rüstung}, rovněž s válečnými vozy {Heerwagen}, dělostřeleckými vozy {Artoloreiwagen}, útočnými vozy {Sturmwagen}, markytánskými vozy {Macatanten wagen} a kárami {Karn}. Právem by se měla nazývat rytířskou a šlechtickou karetní hrou, neboť by se v ní mladá šlechta mohla dobře cvičit a učit. Mladý šlechtic na ni nemusí sázet své peníze jako na kostky a jiné karetní hry, nemusí se ani bát, že by mu někdo jiný peníze vyhrál nebo že by se musel s někým rvát a hádat; naopak může při své karetní hře příjemně a pro kratochvíli trávit čas, a to následujícím způsobem.
 - typ: odstavec
   de: |-
     Erstlich neme einer vor sich dise Kriegßkarten/ darinn zufinden ist alles Kriegßuolck zu roß vnd füß von schwerer vnnd leichter rüstung/ von allen Nationen Teutschen vnd Welschen/ wie inn einem Veldzug vnd Leger dann zusamen kompt.
@@ -23,7 +23,7 @@ bloky:
   de: |-
     Zum andern neme einer von allerlei Geschütz groß vnnd klein/ Maurbrecher/ Veldgeschütz vnnd alle andere mehr rüstung darzů/ wie das dann gehört vnd sein will.
   cs: |-
-    Za druhé si vezme všechna děla {Geschütz}, velká i malá, bořiče hradeb {Maurbrecher}, polní děla {Veldgeschütz} a veškerou další výzbroj k tomu, jak k tomu patří a jak je třeba.
+    Za druhé si vezme děla {Geschütz} všeho druhu, velká i malá, bořiče hradeb {Maurbrecher}, polní děla {Veldgeschütz} a veškerou další výzbroj, která k nim patří a jaké je třeba.
 - typ: odstavec
   de: |-
     Zum dritten soll einer auch nemen alle Wagen rüstung/ nemlich Schiffbrücken/ Heerwagen/ Artoloreiwagen/ sturm oder streit Wagen/ Marcatanten wagen vnd karn/ wie hernach mit Figurn vnnd Schrifften alles angezeigt wirt.

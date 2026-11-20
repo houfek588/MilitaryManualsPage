@@ -2,7 +2,7 @@ id: 6-012r
 list: 12 (6. kniha)
 strana: recto
 sken: 515
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -89,4 +89,4 @@ poznamky:
 - n: 1
   text: Konec položky 18 z předchozí strany. Při sumě 28 zl. 12 bac. má částka za koně činit 21 zl. 9 bac. (28 zl. 12 bac. − 7 zl. 3 bac.); „27“ je patrně tisková chyba.
 - n: 2
-  text: U jezdců, kteří jeli 70 mil, jsou částky počítány za 23½ dne (např. 23½ × 13 × 6 bacenů = 122 zl. 3 bac.; trénní kůň 3 bacenů, vůz 12 bacenů denně), ačkoli text uvádí 24 dní. Jména (Klitzing, Barsdorf, Biberling, Karlowitz, Schlabrendorf) ukazují na šlechtu z Braniborska a Saska.
+  text: U jezdců, kteří jeli 70 mil, jsou částky počítány za 23½ dne (např. 23½ × 13 × 6 bacenů = 122 zl. 3 bac.; trénní kůň 3 bacenů, vůz 12 bacenů denně), ačkoli text uvádí 24 dní. Naopak u položky 23 (22 dní) odpovídají částky za trénního koně (4 zl. 9 bac.) a za vůz (18 zl. 6 bac.) 23 dnům; suma s tištěnými čísly souhlasí. Jména (Klitzing, Barsdorf, Biberling, Karlowitz, Schlabrendorf) ukazují na šlechtu z Braniborska a Saska.

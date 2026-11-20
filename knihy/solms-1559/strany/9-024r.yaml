@@ -2,7 +2,7 @@ id: 9-024r
 list: 24 (9. kniha)
 strana: recto
 sken: 667
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -14,7 +14,7 @@ bloky:
   de: |-
     Auch sollen ewer Knecht offt biß für die Stat lauffen etwan biß an die Thor hinan/ doch wann ein Bihel oder Höltzlin bei der stat ist/ sollen sie zuuor etliche leut daselbs hin legen/ daß die Feind nichts darumb wissen wann sie dann vnder euch herauß fallen/ sollen sie sitlich hindersich weichen biß sie zu dem höltzlin oder berglein komen da die jre ligen/ alßdan werden sie hinden vnd fornen in sie fallen/ vnd dardurch vil erstechen vnnd fahen/ solchs soll geschehen ehe dann jr inn ewer Stat belegert werd/ alßdan wirt solches alles fürkomen.
   cs: |-
-    Vaši knechti {Knecht} mají také často dobíhat až před město, někdy až k samým branám. Je-li však u města pahorek nebo lesík, mají tam předem uložit několik lidí, aniž by o tom nepřítel věděl. Když pak nepřítel proti vám vyrazí z města, mají pomalu ustupovat, dokud nedojdou k lesíku nebo pahorku, kde leží jejich lidé. Pak na něj udeří zezadu i zepředu a mnoho nepřátel pobijí a zajmou. To se má dít dřív, než budete ve svém městě obleženi; potom už by tomu všemu bylo zabráněno.
+    Vaši knechti {Knecht} mají také často dobíhat až před město, někdy až k samým branám. Je-li však u města pahorek nebo lesík, mají tam předem uložit několik lidí, aniž by o tom nepřítel věděl. Když pak nepřítel proti vám vyrazí z města, mají pomalu ustupovat, dokud nedojdou k lesíku nebo pahorku, kde leží jejich lidé. Pak na nepřítele udeří zezadu i zepředu a mnoho jich pobijí a zajmou. To se má dít dřív, než budete ve svém městě obleženi; potom už by tomu všemu bylo zabráněno.
 - typ: odstavec
   de: |-
     Auch solt jhr durch ewer Kundtschaffter erfaren was sie für ein Ordnung in den Stätten haben die nit weit von euch gelegen sein/ was Landts das sei/ dann sie möchten ein solche Ordnung füren/ oder die Landßart dermassen gestalt sein mit Gräben/ Wasser/ Holtz oder andern dergleichen sachen/ daß sie euch durch ein betrug schaden zufügen möchten/ vnd welcher geschicklich damit vmbgeht/ mag es wol on schaden erfaren.
@@ -24,7 +24,7 @@ bloky:
   de: |-
     Solchs zuerfaren dünckt mich gůt sein/ wann etlich auß den ewern gefangen/ daß sie auff geleit vnd widerstellen auß vnd ein wandeln/ daß sie vor den Thoren seien ehe dann sie eröffnet/ vnnd da warten biß sie auffgethan werden/ nachuolgents sie heinein gehn/ dardurch werden sie aller Ordnung die sie halten/ bei den Thoren erfaren vnd sehen/ vnd euch solchs anzeigen/ Jch hab auch wol gesehen/ daß mann der gestalt Heerolt in die Stät geschickt hat/ in dem scheim als wann sie die gefangen mit gelt wider lösen wolten/ oder vnder einem anderen schein.
   cs: |-
-    Zjistit to lze podle mého zdání dobře takto: jsou-li někteří z vašich lidí zajati a chodí na glejt {geleit} a na slib, že se vrátí, ven a dovnitř[^3], ať jsou u bran dřív, než se otevřou, a čekají tam, dokud je neotevřou, a teprve potom vejdou dovnitř. Tak se u bran dozvědí a uvidí celý řád, který [nepřítel] zachovává, a oznámí vám to. Viděl jsem také, že se takto do měst posílali heroldi {Heerolt}, pod záminkou[^4], že chtějí zajatce vykoupit penězi, nebo pod jinou záminkou.
+    Zjistit to lze podle mého zdání dobře takto: jsou-li někteří z vašich lidí v zajetí a chodí na glejt {geleit} a na slib návratu[^3] ven a dovnitř, ať přicházejí k branám dřív, než se otevřou, počkají tam, až se otevřou, a teprve potom vejdou dovnitř. Tak se u bran dozvědí a uvidí celý řád, který [nepřítel] zachovává, a oznámí vám to. Viděl jsem také, že se takto do měst posílali heroldi {Heerolt}, pod záminkou[^4], že chtějí zajatce vykoupit penězi, nebo pod jinou záminkou.
 - typ: odstavec
   de: |-
     Jch wil auch anzeigen was jr für ein Ordnung halten solt/ wann jr also ein streiff oder außfallen auß ewer Stat vnder die Feind thůn wolt/ Erstlich die jenigen so solches zuthůn willens/ sollens gantz stil halten/ auch sollen die Porten in der Stat beschlossen sein/ ehe daß sie sich samlen/ wann jr jnen ein zeichen werdt geben/ solt jhr jnen sagen lassen/ daß sie sich samlen wann mann auff die wacht bläst/ vnd jnen

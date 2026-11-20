@@ -2,12 +2,12 @@ id: 6-027r
 list: 27 (6. kniha)
 strana: recto
 sken: 545
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
   de:
-  - - Die anzal des Wagens ein nacht 11 batzen / thůt
+  - - Die anzal des Wagens ein nacht 11 batzen/ thůt
     - 15 gulden 6 batze.
   - - Summa 103 gulden 6 batzen.
     - ''
@@ -31,27 +31,27 @@ bloky:
   pokracovani: true
 - typ: odstavec
   de: |-
-    Vnd 46 vberleng / thůt noch 2 wagen / macht zusamen 4 wagen 10 vberleng / ist des gelts sollicher vberleng schon inn die Summen kommen.
+    Vnd 46 vberleng/ thůt noch 2 wagen/ macht zusamen 4 wagen 10 vberleng/ ist des gelts sollicher vberleng schon inn die Summen kommen.
   cs: |-
     A 46 přespočetných koní {vberleng} činí ještě 2 vozy, dohromady tedy 4 vozy a 10 přespočetných koní; peníze za tyto přespočetné koně jsou už v úhrnech započteny.[^1]
 - typ: tabulka
   de:
-  - - Summa summarum des gelts / 652 pferd darunder sein die 6 Trometter begriffen / thůn zu gelt
+  - - Summa summarum des gelts/ 652 pferd darunder sein die 6 Trometter begriffen/ thůn zu gelt
     - 4413 flo. 8 batzen.
-  - - Item 57 wagenpferd vberleng / sind in gelt begriffen /
+  - - Item 57 wagenpferd vberleng/ sind in gelt begriffen /
     - 753 flo. 3 batz.
   - - Drosser sind im anrit nit begriffen.
     - ''
   - - Summa summarum anrit der pferd vnd Wagen
     - 5166 flo. 11 batz.
   cs:
-  - - 'Celkový úhrn peněz: 652 koní, v nichž je zahrnuto i 6 trubačů {Trometter}; to činí v penězích'
+  - - 'Celkový součet {Summa summarum} peněz: 652 koní, v nichž je zahrnuto i 6 trubačů {Trometter}; to činí v penězích'
     - 4413 zl. 8 bac.
   - - Dále 57 přespočetných vozních koní – jsou zahrnuti v penězích
     - 753 zl. 3 bac.
-  - - Trénoví koně {Drosser} nejsou v příjezdném {anrit} zahrnuti.
+  - - Trénní koně {Drosser} nejsou v příjezdném {anrit} zahrnuti.
     - ''
-  - - Celkový úhrn příjezdného za koně a vozy
+  - - Celkový součet příjezdného za koně a vozy
     - 5166 zl. 11 bac.
 - typ: odstavec
   de: |-
@@ -64,4 +64,4 @@ poznamky:
     Místo není zcela jasné. Snad se 46 přespočetných koní celého seznamu přepočítává na 2 vozy (zbývá 10 koní), které se připočítávají ke 2 vozům posledního oddílu. K výrazu *vberleng* viz poznámku na [[6-020r|s. 6-020r]].
 - n: 2
   text: |-
-    Celkový úhrn příjezdného 5166 zl. 11 bac. (4413 zl. 8 bac. + 753 zl. 3 bac.) odpovídá částce uvedené ve vyúčtování na [[6-022r|s. 6-022r]]. Touto stranou končí Šestá kniha; na jejím rubu je erbovní frontispis Sedmé knihy ([[7-erb-solms|erb Solmsů]]).
+    Celkový úhrn příjezdného 5166 zl. 11 bac. (4413 zl. 8 bac. + 753 zl. 3 bac.) odpovídá částce uvedené ve vyúčtování na [[6-022r|s. 6-022r]]. Součet úhrnů jednotlivých stran rejstříku dává tuto částku jen s opravenými úhrny 319 zl. 3 bac. ([[6-023r|s. 6-023r]]), 217 zl. 9 bac. ([[6-023v|s. 6-023v]]) a 166 zl. 9 bac. ([[6-025v|s. 6-025v]]); tiskové chyby jsou tedy jen v sazbě, nikoli v původním účtu. Také 652 koní souhlasí se součtem úhrnů stran (s opraveným počtem 37 na [[6-025r|s. 6-025r]]). Touto stranou končí Šestá kniha; na jejím rubu je erbovní frontispis Sedmé knihy ([[7-erb-solms|erb Solmsů]]).

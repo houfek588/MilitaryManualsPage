@@ -2,14 +2,14 @@ id: 6-026r
 list: 26 (6. kniha)
 strana: recto
 sken: 543
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
   de:
   - - Jobst von Talwigs anzug.
     - ''
-  - - Item hat auff den musterplatz 48 meiln / ist 18 tag gereiset vnd stilgelegen / jeden tag jedes pferd 6 batzen / thůn 24 pferd
+  - - Item hat auff den musterplatz 48 meiln/ ist 18 tag gereiset vnd stilgelegen/ jeden tag jedes pferd 6 batzen/ thůn 24 pferd
     - 172 flo. 12 batz.
   - - 2 Wagen.
     - 28 flo. 12 batz.
@@ -17,7 +17,7 @@ bloky:
     - ''
   - - Guntzel von Grun.
     - ''
-  - - Item ist angeriten / wie obgemelt / thůt 18 tag / hat 11 pferd / das pferd ein tag 6 batzen / thůt
+  - - Item ist angeriten/ wie obgemelt/ thůt 18 tag/ hat 11 pferd/ das pferd ein tag 6 batzen/ thůt
     - 79 flo. 3 batzen.
   - - Ein Wagen.
     - 14 flo. 6 batzen
@@ -25,17 +25,17 @@ bloky:
     - ''
   - - Christoff von Ruckßleben.
     - ''
-  - - Item ist auff den musterplatz 54 meiln / ist 14 tag gereiset vnd stilgelegen / jeden tag jedes pferd 6 batzen / thůn 8 pferde
+  - - Item ist auff den musterplatz 54 meiln/ ist 14 tag gereiset vnd stilgelegen/ jeden tag jedes pferd 6 batzen/ thůn 8 pferde
     - 44 flo. 12 batz.
-  - - Die anzal des wagens je 8 batzen ein nacht / thůt
+  - - Die anzal des wagens je 8 batzen ein nacht/ thůt
     - 7 flo. 12 batz
   - - Summa 250 gulden 4 batzen.
     - ''
   - - Johann von Brudt.
     - ''
-  - - Item ist auff den musterplatz 48 meiln / ist 18 tag gereiset vnd stilgelegen / jeden tag jedes pferd 6 batzen / thůn 5 pferd
+  - - Item ist auff den musterplatz 48 meiln/ ist 18 tag gereiset vnd stilgelegen/ jeden tag jedes pferd 6 batzen/ thůn 5 pferd
     - 36 flo.
-  - - Die anzal des Karns 1 nacht 5 batzen / thůt
+  - - Die anzal des Karns 1 nacht 5 batzen/ thůt
     - 6 flo.
   - - Summa 42 gulden.
     - ''
@@ -47,31 +47,31 @@ bloky:
     - '4'
   - - Reinhart Goburt.
     - ''
-  - - Item ist angezogen den 18 Maij / thůt biß auff den Musterplatz 18 tag / hat 9 pferd / das pferd ein tag 6 batzen / thůt
+  - - Item ist angezogen den 18 Maij/ thůt biß auff den Musterplatz 18 tag/ hat 9 pferd/ das pferd ein tag 6 batzen/ thůt
     - 64 gulden 12 batzen.
-  - - Die anzall des wagens ein nacht 9 batzen ein pferd / thůt
+  - - Die anzall des wagens ein nacht 9 batzen ein pferd/ thůt
     - 10 flo. 12 ba.
   - - Summa 75 gulden 9 batzen.
     - ''
   - - Jeronimus Stöckel.
     - ''
-  - - Item ist auff den Musterplatz 75 meiln / vnd 25 tag gereist vnd stilgelegen / jeden tag ein pferd 6 batzen / thůn 7 pferd
+  - - Item ist auff den Musterplatz 75 meiln/ vnd 25 tag gereist vnd stilgelegen/ jeden tag ein pferd 6 batzen/ thůn 7 pferd
     - 70 gulden.
-  - - Die anzal des wagens ein nacht 7 batzen / thůt
+  - - Die anzal des wagens ein nacht 7 batzen/ thůt
     - 11 gulden 10 batzen.
   - - Summa 81 gulden 10 batzen.
     - ''
   - - Dieterich Schacht.
     - ''
-  - - Item ist angeriten den 16 Maij zu Braunschwig / hat biß auff den Musterplatz 20 tag / thůn 9 pferd / eins zu 6 batzen ein tag /
+  - - Item ist angeriten den 16 Maij zu Braunschwig/ hat biß auff den Musterplatz 20 tag/ thůn 9 pferd/ eins zu 6 batzen ein tag /
     - 72 flo.
-  - - Die anzal des wagens ein nacht 9 batzen / thůt
+  - - Die anzal des wagens ein nacht 9 batzen/ thůt
     - 12 gulden.
   - - summa 84 gulden.
     - ''
   - - Hanß Harstal.
     - ''
-  - - Item ist angeriten mit 15 pferden den 15 Maij / thůt biß auff den 5 Junij 21 tag / das pferd ein tag zu 6 batzen / macht
+  - - Item ist angeriten mit 15 pferden den 15 Maij/ thůt biß auff den 5 Junij 21 tag/ das pferd ein tag zu 6 batzen/ macht
     - 126 gulden.
   cs:
   - - příjezd {anzug} Jobsta von Talwig
@@ -146,4 +146,4 @@ poznamky:
     V přehlídkovém rejstříku na [[6-021r|s. 6-021r]] *Wentzel von Grun*, podobně *Johann von Bruch* (zde *Brudt*), *Reinhart Gaburt* (zde *Goburt*) a *Jeronimus Stackel* (zde *Stöckel*).
 - n: 2
   text: |-
-    Zjevná tisková chyba: 44 zl. 12 bac. + 7 zl. 12 bac. = 52 zl. 9 bac. Úhrn strany 389 zl. 7 bac. odpovídá zhruba součtu s touto správnou částkou (201 zl. 9 bac. + 93 zl. 9 bac. + 52 zl. 9 bac. + 42 zl. = 389 zl. 12 bac.).
+    Zjevná tisková chyba. Podíl na voze má činit 14 nocí × 8 bac. = 112 bac. = 7 zl. 7 bac. (tisk 7 zl. 12 bac.) a úhrn skupiny 44 zl. 12 bac. + 7 zl. 7 bac. = 52 zl. 4 bac. S touto částkou přesně souhlasí úhrn strany: 201 zl. 9 bac. + 93 zl. 9 bac. + 52 zl. 4 bac. + 42 zl. = 389 zl. 7 bac.

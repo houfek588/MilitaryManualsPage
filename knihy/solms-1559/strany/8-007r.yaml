@@ -2,7 +2,7 @@ id: 8-007r
 list: 7 (8. kniha)
 strana: recto
 sken: 601
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -34,7 +34,7 @@ bloky:
     - ''
     - 12 krav
   - - 25 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 20 telat
   - - 5 skopců
     - ''
@@ -71,7 +71,7 @@ bloky:
     - ''
     - 84 krav
   - - 175 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 140 telat
   - - 130 skopců[^2]
     - ''
@@ -108,7 +108,7 @@ bloky:
     - ''
     - 364 krav
   - - 745 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 600 telat
   - - 152 skopců
     - ''
@@ -145,7 +145,7 @@ bloky:
     - ''
     - 24 krav
   - - 50 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 45 telat
   - - 10 skopců
     - ''
@@ -182,7 +182,7 @@ bloky:
     - ''
     - 168 krav
   - - 350 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 315 telat
   - - 70 skopců
     - ''

@@ -2,7 +2,7 @@ id: 6-020r
 list: 20 (6. kniha)
 strana: recto
 sken: 531
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -270,13 +270,13 @@ bloky:
     - 1½
 - typ: odstavec
   de: |-
-    Summarum der Reutter / die auß meines gnedigen Herrn Marggraue Albrechts / etc. stall reiten / sampt den Fürsten / Grauen / vnd vom Adell / die auff sein Fürstlich gnad warten.
+    Summarum der Reutter/ die auß meines gnedigen Herrn Marggraue Albrechts/ etc. stall reiten/ sampt den Fürsten/ Grauen/ vnd vom Adell/ die auff sein Fürstlich gnad warten.
   cs: |-
     Celkový úhrn jezdců, kteří jezdí ze stáje mého milostivého pána, markraběte Albrechta atd., spolu s knížaty, hrabaty a šlechtou, kteří jsou ve službách Jeho knížecí Milosti {Fürstlich gnad}:
 poznamky:
 - n: 1
   text: |-
-    Götz von Berlichingen (asi 1480–1562), proslulý franský rytíř „se železnou rukou“, se tažení Karla V. proti Francii v roce 1544 skutečně zúčastnil; Hanß Conradt von Berlingen je patrně příslušník téhož rodu. Würtzberg / Wirßberg = Wirsberg, Reutzenstein / Reitzenstein = Reitzenstein, Abßberg / Absperg = Absberg (franské rytířské rody).
+    Götz von Berlichingen (asi 1480–1562), proslulý franský rytíř „se železnou rukou“, se tažení Karla V. proti Francii v roce 1544 skutečně zúčastnil; Hanß Conradt von Berlingen je patrně příslušník téhož rodu. Würtzberg/ Wirßberg = Wirsberg, Reutzenstein/ Reitzenstein = Reitzenstein, Abßberg/ Absperg = Absberg (franské rytířské rody).
 - n: 2
   text: |-
     *Vberleng* (snad *Überläng*) – podle souvislosti (*wagen vnd 6 vberleng*, na [[6-027r|s. 6-027r]] *57 wagenpferd vberleng*, kde se 46 takových koní přepočítává na 2 vozy) jde o koně nad stanovený počet, zřejmě tažné koně k vozům navíc. Překlad „přespočetní koně“ je pracovní.

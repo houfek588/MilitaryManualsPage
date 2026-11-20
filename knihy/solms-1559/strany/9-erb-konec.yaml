@@ -2,7 +2,7 @@ id: 9-erb-konec
 list: erbovní list na konci svazku
 strana: recto
 sken: 681
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -11,7 +11,7 @@ bloky:
 - typ: obrazek
   soubor: drevorez-681.jpg
   popis: |-
-    Dřevořez s erbem hrabat ze Solmsu a pánů z Münzenbergu, otištěný z téhož štočku jako erbovní frontispisy jednotlivých knih: čtvrcený štít se solmským lvem (1. a 4. pole) a děleným münzenberským štítem (2. a 3. pole), nad ním dvě turnajské přilby s klenoty – vlevo sedící lev mezi křídly, vpravo korunovaná přilba s chocholem a praporci – a s bohatými listovými přikryvadly. Erb je zasazen do koruny mohutného listnatého stromu a lemován věncem z listí a plodů; v pozadí krajina s městem a hradem na skalnatém vrchu vpravo. U kořenů stromu se vine nápisová stuha s nápisem „REINHA[RT] VND HER[R] / RT. GRAFF. ZV / ZV MINCZEN / SOLMS / BORGK“.
+    Dřevořez s erbem hrabat ze Solmsu a pánů z Münzenbergu, otištěný z téhož štočku jako erbovní frontispisy jednotlivých knih: čtvrcený štít se solmským lvem (1. a 4. pole) a děleným münzenberským štítem (2. a 3. pole), nad ním dvě turnajské přilby s klenoty – vlevo sedící lev mezi křídly, vpravo korunovaná přilba s chocholem a praporci – a s bohatými listovými přikryvadly. Erb je zasazen do koruny mohutného listnatého stromu a lemován věncem z listí a plodů; v pozadí krajina s městem a hradem na skalnatém vrchu vpravo. U kořene stromu se vine nápisová páska, jejíž tři úseky (vlevo, uprostřed, vpravo) se čtou po řádcích: „REINHA|RT. GRAFF. ZV|SOLMS – VND HER[R]|ZV MINCZEN|BORGK“, tj. „Reinhart Graff zu Solms und Herr zu Minczenborgk“.
 poznamky:
 - n: 1
   text: |-

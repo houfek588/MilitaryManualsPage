@@ -2,7 +2,7 @@ id: 6-009r
 list: 9 (6. kniha)
 strana: recto
 sken: 509
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -119,7 +119,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Závěr rejstříku Andrese Pflůga ze [[6-008v|strany 8v]]; „Lorentz Wundartz“ je zřejmě Lorenz, ranhojič (Wundarzt). Celkové součty na této straně odpovídají součtům stran 8r–9r: 293 zbrojných koní (52 + 33 + 52 + 51 + 54 + 46 + 5), 22 kyrysníků, 21 trénních koní a 22½ vozu; příplatky (2 + 2 + 6 + 2 + 2) = 14 zl.; úhrn 3516 + 264 + 126 + 540 + 14 = 4460 zl.
+    Závěr rejstříku Andrese Pflůga ze [[6-008v|strany 8v]]; „Lorentz Wundartz“ je zřejmě Lorenz, ranhojič (Wundarzt). Celkové součty na této straně odpovídají součtům stran 8r–9r: 293 zbrojných koní (52 + 33 + 52 + 51 + 54 + 46 + 5), 22 kyrysníků, 21 trénních koní a 22½ vozu; příplatky jsou v rejstříku zapsány jen čtyřikrát (oddíly 1, 4, 7 a 10 na [[6-008r|listu 8r]]: 2 + 6 + 2 + 2 = 12 zl.), tisk však uvádí 14 zl. – buď jeden záznam chybí, nebo jde o chybu součtu; úhrn 3516 + 264 + 126 + 540 + 14 = 4460 zl.
 - n: 2
   text: |-
     V tisku „3516, o.“ – zřejmě vadně vysázené „fl.“ (zlatých); 293 × 12 = 3516.

@@ -2,7 +2,7 @@ id: 9-002v
 list: 2 (9. kniha)
 strana: verso
 sken: 624
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -14,12 +14,12 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Hie facht an ein Historien von einem Fürsten/ der in seiner Maiestat sitzet/ vnd seine Räth Geistliche vnd Weltliche leut bei jm hat.
-  cs: Zde začíná výjev {Historien} o knížeti, který sedí na trůnu ve svém majestátu a má u sebe své rady, duchovní i světské osoby[^1]
+  cs: Zde začíná výjev {Historien} o knížeti, který sedí ve svém majestátu a má u sebe své rady, duchovní i světské osoby.[^1]
 - typ: odstavec
   de: |-
     VNd darumb das ich kom auff die Materie daruon ich schreiben will/ solt jhr euch aller gnedigster Herr hůten/ keinen Krieg zu füren vmb einer bösen vrsach willen/ vnnd ehe das jhr einen anfahet/ solt jhr zu euch beruffen alle geschicte leut souil jhr bekommen möcht/ es seien Prelaten/ Fürsten/ Edeln oder vnedeln/ auch Doctores vnd Juristen/ vnd jnen fürhalten die vrsach des Kriegs/ auch jnen anzeigen ewer gemůt/ was darinn zuthůn/ vnd ob ewer fürnemen recht oder nicht sei/ Wann sie nun erkennen vnd entlich beschliessen/ das jhr gůt fug vnd recht hat/ alßdan möcht jhr das jenig/ so euch mit gůtem nicht mag werden mit gewalt erheben/ jedoch ewern widerpart daruor vmb dasselbig gůtlich ansuchen/ so ferr jr aber nichts bei jhr erlangt/ möcht jhr ewer gantze Landtschafft beruffen/ vnd sie vmb hilff ansprechen/ damit daß euch das ewer so mit recht ewer ist/ nicht auffgehalten werde/ Doch wann ewer Rentmeister vnd Tresonier vermeinet/ jhr kündet sollichen Krieg füren on hilff ewer Vnderthanen/ wer es souil desto besser dann sie zubeschweren/ wann solliches alles
   cs: |-
-    Abych tedy přešel k látce, o níž chci psát: máte se, nejmilostivější pane, vystříhat vést válku ze zlé příčiny. Dříve než nějakou začnete, máte k sobě povolat všechny zkušené lidi, kolik jich jen můžete získat, ať jsou to preláti, knížata, šlechtici či nešlechtici, i doktory a právníky. Předložte jim příčinu války, sdělte jim své smýšlení, co v tom hodláte činit, a [otažte se], zda je váš záměr spravedlivý, či ne. Když pak uznají a s konečnou platností usnesou, že máte dobrý důvod a právo, můžete si to, čeho se vám nemůže dostat po dobrém, vymoci mocí. Předtím však máte svého protivníka o to požádat po dobrém. Nedosáhnete-li u něho ničeho, můžete svolat všechny své zemské stavy {Landtschafft} a požádat je o pomoc, aby vám nebylo zadržováno to, co je právem vaše. Mínili-li by však váš rentmistr {Rentmeister} a pokladník {Tresonier},[^2] že můžete takovou válku vést bez pomoci svých poddaných, bylo by to o to lepší, než je zatěžovat. Když bude toto vše
+    Abych tedy přešel k látce, o níž chci psát: máte se, nejmilostivější pane, vystříhat vést válku ze zlé příčiny. Dříve než nějakou začnete, máte k sobě povolat všechny zkušené lidi, kolik jich jen můžete získat, ať jsou to preláti, knížata, šlechtici či nešlechtici, i doktory a právníky. Máte jim předložit příčinu války, sdělit jim své smýšlení, co v tom hodláte činit, a [otázat se], zda je váš záměr spravedlivý, či ne. Když pak uznají a s konečnou platností usnesou, že máte dobrý důvod a právo, můžete si to, čeho se vám nemůže dostat po dobrém, vymoci mocí. Předtím však máte svého protivníka o to požádat po dobrém. Nedosáhnete-li u něho ničeho, můžete svolat všechny své zemské stavy {Landtschafft} a požádat je o pomoc, aby vám nebylo zadržováno to, co je právem vaše. Kdyby však váš rentmistr {Rentmeister} a pokladník {Tresonier}[^2] mínili, že můžete takovou válku vést bez pomoci svých poddaných, bylo by to o to lepší, než je zatěžovat. Když bude toto vše
 poznamky:
 - n: 1
   text: |-

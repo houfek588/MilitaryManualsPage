@@ -2,7 +2,7 @@ id: 9-005r
 list: 5 (9. kniha)
 strana: recto
 sken: 629
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,7 +10,7 @@ bloky:
   de: |-
     gewalt vnd macht im Veld haben/ vnd alle Mandat in seinem namen außgehn/ dann es nicht von nöten/ so jhr es anders inn sonderheit nit haben wolt daß jr darinn gemelt werd/ dann allein die sachen zu handeln vnd beschliessen/ solt jr darbei sein/ vnd wann es dermassen beschlossen/ solt jr ewern obersten Veldhauptman solchs außrichten/ vnd euch nichts anfechten lassen/ sonder allein was ewer wollust ist.
   cs: |-
-    moc a pravomoc v poli a všechny mandáty mají vycházet jeho jménem. Není totiž třeba, abyste v nich byl uváděn, leda byste si to zvlášť přál; jen při projednávání a rozhodování věcí máte být přítomen. A když je tak rozhodnuto, máte to nechat vykonat svého nejvyššího polního hejtmana {Veldhauptman} a nenechat se ničím znepokojovat kromě toho, co je vám libo.
+    moc a pravomoc v poli a všechny mandáty mají vycházet jeho jménem. Není totiž třeba, abyste v nich byl uváděn, leda byste si to zvlášť přál; jen při projednávání a rozhodování věcí máte být přítomen. A když je tak rozhodnuto, máte to nechat vykonat svého nejvyššího polního hejtmana {obersten Veldhauptman} a nenechat se ničím znepokojovat kromě toho, co je vám libo.
 - typ: odstavec
   de: |-
     Es ist auch von nöten daß jr einen Marschalck habt der geschickt/ dapffer/ redtlich vnd fleissig sei/ der Justitiam vnd gericht halt vnder ewerm hauffen/ dann als vil die Justitia vnd gerichts hendel betrifft/ soll er den gantzen gewalt haben/ doch einem gnad vnd barmhertzigkeit zu beweisen steht allein euch zů/ aber penlich vnd bürgerlich sachen auch ander hendel als Todtschlag/ Diebstal sampt zanck vnnd hader/ wie sich dann täglichs vnder einem solchen hauffen zu tregt.
@@ -25,7 +25,7 @@ bloky:
   de: |-
     Was sich für vneinigkeit vnd gerichts hendel auch jrthumb der beut halben zutrüg/ sol solchs alles vor dem Marschalck als dem obersten Richter außgericht werden/ dann da der Herr oder Oberst Veldhauptman personlich nit ist/ oder ein Leutenant/ so von den Fürsten darzů verordnet/ vnd der Prouoß ist dem gemelten marschalck vnderworffen/ der gestalt als bald er ein vbeltheter gefangen wann er solchen verhört soll er jn für den Marschalck fürn vnd sein missethat anzeigen/ auch keinen on wissen vnd willen des Marschalcks peinlich fragen/ ist auch keiner on berürten Marschalck zum todt zuuerurtheilen/ vnd derselbig Marschalck soll Doctores in dem Rechten haben/ die jm die anzeigen. Der marschalck mag vber alle zalung in behalten vff des Fürsten vnd seiner Trabenten noch ein Sold/ das jeglicher zwen hab.
   cs: |-
-    Jaké nesvornosti, soudní pře a také spory o kořist by vznikly, to vše se má vyřizovat před polním maršálkem jako nejvyšším soudcem – kromě případů, kdy je osobně přítomen pán nebo nejvyšší polní hejtman či poručík, kterého k tomu ustanovil kníže. Profous {Prouoß} je uvedenému maršálkovi podřízen, a to tak, že jakmile chytí nějakého zločince a vyslechne ho, má ho přivést před maršálka a oznámit jeho zločin. Nesmí také nikoho útrpně {peinlich} vyslýchat bez vědomí a vůle maršálka a nikdo nemá být bez řečeného maršálka odsouzen k smrti. Týž maršálek má mít doktory práv, kteří mu [právo] vyloží. Maršálek si smí nad veškerou výplatu ponechat na účet knížete a jeho drabantů {Trabenten} ještě jeden žold {Sold}, takže každý má dva.[^3]
+    Jaké nesvornosti, soudní pře a také spory o kořist by vznikly, to vše se má vyřizovat před polním maršálkem jako nejvyšším soudcem – kromě případů, kdy je osobně přítomen pán nebo nejvyšší polní hejtman či poručík, kterého k tomu ustanovil kníže. Profous {Prouoß} je uvedenému maršálkovi podřízen, a to tak, že jakmile chytí nějakého zločince a vyslechne ho, má ho přivést před maršálka a oznámit jeho zločin. Nesmí také nikoho útrpně {peinlich} vyslýchat bez vědomí a vůle maršálka a nikdo nemá být bez řečeného maršálka odsouzen k smrti. Maršálek má mít při sobě doktory práv, kteří mu [právo] vyloží. Maršálek si smí nad veškerou výplatu ponechat na účet knížete a jeho drabantů {Trabenten} ještě jeden žold {Sold}, takže každý má dva.[^3]
 poznamky:
 - n: 1
   text: |-

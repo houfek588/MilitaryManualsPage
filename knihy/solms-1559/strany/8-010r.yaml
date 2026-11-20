@@ -2,7 +2,7 @@ id: 8-010r
 list: 10 (8. kniha)
 strana: recto
 sken: 607
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,7 +10,7 @@ bloky:
   de: |-
     Puluer / Kugeln / Bley / Salpeter / Schwefel / Koln / Bech im vorrat / daß wir nach der Rechnung ein gůt notturfft haben / souil wir bedörffen.
   cs: |-
-    prachu {Puluer}, koulí {Kugeln}, olova, ledku {Salpeter}, síry {Schwefel}, dřevěného uhlí {Koln} a smůly {Bech} v zásobě, že toho máme podle výpočtu dobře dost, kolik potřebujeme.
+    prachu {Puluer}, koulí {Kugeln}, olova, ledku {Salpeter}, síry {Schwefel}, dřevěného uhlí {Koln} a smůly {Bech} v zásobě, takže toho podle výpočtu máme dostatek, kolik potřebujeme.
 - typ: odstavec
   de: |-
     Zum vierdten haben wir ein gůt Puluermöln mit aller zůgehörender Röstung.
@@ -30,7 +30,7 @@ bloky:
   de: |-
     Zum sibenden Holtz souil als mann nach notturfft von nöten.
   cs: |-
-    Za sedmé tolik dříví, kolik je podle potřeby zapotřebí.
+    Za sedmé tolik dříví, kolik je potřeba.
 - typ: odstavec
   de: |-
     Zum achten ein gůten vorrat Kolen.
@@ -55,7 +55,7 @@ bloky:
   de: |-
     Zum zwölfften so ist der Baw der gestalt gemacht / daß er mit Gottes hilff lang für gewalt zuerhalten ist.
   cs: |-
-    Za dvanácté je stavba [pevnosti] udělána tak, že ji lze s Boží pomocí dlouho udržet proti násilí.
+    Za dvanácté je stavba [pevnosti] provedena tak, že ji lze s Boží pomocí dlouho udržet proti násilí.
 - typ: odstavec
   de: |-
     Zum dreizehenden souil Büchsenmeister.
@@ -84,7 +84,7 @@ bloky:
 - typ: odstavec
   de: |-
     Wann nach sochem vorhalten das Kriegßuolck bewilligt / bei jn in der Besatzung zu bleiben / soll der Oberst zu jnen sagen / Nun dieweil jr dann bei vns zu bleiben / vnd als Ritterlich Kriegßuolck mit vns bewilligt / so habt jhr den vorrat so wir haben / gehöret / so ist die Prouiant nechst Got das höchst Hauptstück vnserer vnderhaltung / vnd on dieselbig (vnd Gott beuor) die Besatzung nicht kan erhalten werden / darumb wöllen wir Gott für andern nottürfftigen stücken beuor halten / als mit Gottes dienst vnd gebet / dann wo Gott nicht sein Göttliche gnad / die wir mit betten vnd anrůffen erlangen / gibt / so ist vnser thůn vmb sonst.
-  cs: 'Když válečný lid {Kriegßuolck} po takovém předložení svolí zůstat u nich v posádce, má jim plukovník {Oberst} říci: „Když jste tedy svolili zůstat u nás a [stát] s námi jako rytířský válečný lid, slyšeli jste, jakou zásobu máme. Proviant {Prouiant} je hned po Bohu nejvyšší a hlavní věcí naší obživy a bez něho (a nade vše bez Boha) nelze posádku udržet. Proto chceme Boha ctít přede všemi ostatními potřebnými věcmi, totiž bohoslužbou a modlitbou; neboť nedá-li Bůh svou božskou milost, které dosahujeme modlitbou a vzýváním, je všechno naše počínání marné.'
+  cs: 'Když válečný lid {Kriegßuolck} po takovém předložení svolí zůstat u nich v posádce, má jim plukovník {Oberst} říci: „Když jste tedy svolili zůstat u nás a [stát] s námi jako rytířský válečný lid, slyšeli jste, jakou zásobu máme. Proviant {Prouiant} je hned po Bohu nejvyšší a hlavní věcí naší obživy a bez něho (a především bez Boha) nelze posádku udržet. Proto chceme Boha ctít přede všemi ostatními potřebnými věcmi, totiž bohoslužbou a modlitbou; neboť nedá-li Bůh svou božskou milost, které dosahujeme modlitbou a vzýváním, je všechno naše počínání marné.“'
 - typ: odstavec
   de: |-
     Weiter soll das vbel flůchen vnd Gottßlestern / dardurch Gott erzörnet / vnd damit weiters nichts außgericht wirt / nit gestat werden / dann es nichts anders dann ein mutwilligs vnd frefelligs vornemen ist / dieweil wir dann also in grosser gefahr sind / vnd on Gotts gnade nichts künden außrichten / so mussen wir weg sůchen die zu vnser sachen dinstlich / damit wir Gott zu vnser hilff vnd beistand erlangen / Darzů für das erst wil die Gottes lesterung gar nit gnade zu

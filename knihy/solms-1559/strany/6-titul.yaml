@@ -2,7 +2,7 @@ id: 6-titul
 list: titulní list (6. kniha)
 strana: recto
 sken: 491
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -17,7 +17,7 @@ bloky:
   de: |-
     Durch die Wolgebornen / Edlen / Vesten Reinharten Grauen zů Solms / vnnd Herren zů Mintzenberg / etc. Vnd Christoffeln von Schawenburg / vnd Herr zů Breischs etc. Römischer Keiserlicher Maiestat Carols des fünfften Commissarien bei Franckfurt gemustert / derer Reutter Monat auff Mitwochen den 28. Mai / Anno / etc. 44. angefangen hat.
   cs: |-
-    Přehlédnuto u Frankfurtu urozenými, vznešenými a statečnými pány Reinhartem, hrabětem ze Solmsu a pánem z Münzenbergu atd., a Christoffelem von Schawenburg, pánem v Breischs atd., komisaři {Commissarien} Římského císařského Veličenstva Karla V.; měsíc [služby] těchto jezdců {Reutter} začal ve středu 28. května léta [15]44.[^2]
+    Přehlédnuto u Frankfurtu urozenými, vznešenými a statečnými pány Reinhartem, hrabětem ze Solmsu a pánem z Münzenbergu atd., a Christoffelem von Schawenburg, pánem z Breischs atd., komisaři {Commissarien} Římského císařského Veličenstva Karla V.; měsíc [služby] těchto jezdců {Reutter} začal ve středu 28. května léta [15]44.[^2]
 - typ: obrazek
   soubor: drevorez-491.jpg
   popis: |-

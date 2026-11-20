@@ -2,7 +2,7 @@ id: 6-015r
 list: 15 (6. kniha)
 strana: recto
 sken: 521
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -72,7 +72,7 @@ bloky:
   - ['', '1 vůz', '2 zl. 6 bacenů']
   - ['', 'suma', '12 zlatých 6 bacenů']
   - ['', 'Christoffel a Philips Schütz.', '']
-  - ['23', 'Dále: měli na přehlídkové místo jízdy a stání, každý den na koně 6 bacenů; činí 4 koně za 6 dní', '9 zlatých 9 bacenů']
+  - ['23', 'Dále: na jízdu na přehlídkové místo a stání měli každý den na koně 6 bacenů; činí 4 koně za 6 dní', '9 zlatých 9 bacenů']
 poznamky:
 - n: 1
   text: Součet strany za položky 12–15 (Löwenstein, Mörlen, Volckerßhausen, Hunt); s tištěnými sumami (18 zl. 3 bac. + 18 zl. + 48 zl. + 33 zl. 9 bac. = 117 zl. 12 bac.) přesně nesouhlasí, srov. tiskové chyby u položek 12 a 13 na předchozí straně.

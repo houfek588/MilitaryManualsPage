@@ -2,7 +2,7 @@ id: 9-009r
 list: 9 (9. kniha)
 strana: recto
 sken: 637
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -20,7 +20,7 @@ bloky:
   de: |-
     Wann aber die Feinde so jhnen nachzügen stercker weren/ vnnd sie dann dardurch drüngen/ daß sie neher zu dem Hauffen zügen dann es sein solt/ vnnd jhren vortheil vbergeben müssen/ soll sie der Hauptman im nachzug der massen stercken/ daß sie den Feinden starck gnůg seien/ vnd jnen beuelhen daß sie die Feind nicht angreiffen/ sonder wann sie die Feindt auß jhrem vortheil zu ziehen drüngen wolten/ ehe dann es zeit were/ sich alßdan wann sie starck genůg seind/ darpffer wehren/ wo sie aber nicht künden/ sollen sie mit einer gůten Ordnung zu dem nachzug rücken.
   cs: |-
-    Byli-li by však nepřátelé, kteří za nimi táhnou, silnější a tlačili je tak, že by se museli stáhnout blíže k houfu, než by mělo být, a vzdát se své výhodné pozice, má je hejtman zadního voje posílit tak, aby byli proti nepříteli dost silní, a přikázat jim, aby nepřítele nenapadali. Kdyby je však nepřítel chtěl vytlačit z jejich výhodné pozice dříve, než je čas, mají se, jsou-li dost silní, statečně bránit; nemohou-li, mají v dobrém pořádku ustoupit k zadnímu voji.
+    Byli-li by však nepřátelé, kteří za nimi táhnou, silnější a tlačili je tak, že by se museli stáhnout blíže k houfu, než by mělo být, a vzdát se své výhodné pozice, má je hejtman zadního voje posílit tak, aby byli proti nepříteli dost silní, a přikázat jim, aby nepřítele nenapadali. Kdyby je však nepřítel chtěl vytlačit z jejich výhodné pozice dříve, než je čas, mají se, jsou-li dost silní, statečně[^1] bránit; nemohou-li, mají v dobrém pořádku ustoupit k zadnímu voji.
 - typ: odstavec
   de: |-
     Vnd wann sich solliches zutrüge/ soll kein Lermen inn dem gantzen Hauffen gemacht werden/ sonder wann die Feind so starck kommen/ daß sie die streiffenden Pferdt/ biß zu denen im nachzug jagten/ sollen die im nachzug angesicht gegen angesicht keren/ vnnd denselbigen vnfall auffhalten/ vnnd den hauffen fürt ziehen lassen/ doch dem Herren oder leuttenant solchs kundt thůn.
@@ -31,3 +31,7 @@ bloky:
     So ferr aber die streiffende Rot botschafft bringt/ die feind seien der
   cs: |-
     Přinese-li však hlídková rota zprávu, že nepřátelé jsou tak
+poznamky:
+- n: 1
+  text: |-
+    Tisk má *darpffer* – tisková chyba za *dapffer* (statečně).

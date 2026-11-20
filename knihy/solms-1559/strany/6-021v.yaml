@@ -2,7 +2,7 @@ id: 6-021v
 list: 21 (6. kniha)
 strana: verso
 sken: 534
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -23,7 +23,7 @@ bloky:
     - '9'
   - - drosser
     - '1'
-  - - wagen / vnd 6 vberleng.
+  - - wagen/ vnd 6 vberleng.
     - ½
   - - Hanß Harstall vnnd Frantz von Dürstungen.
     - ''
@@ -31,7 +31,7 @@ bloky:
     - '15'
   - - drosser
     - '1'
-  - - wagen / vnd 6 vberleng.
+  - - wagen/ vnd 6 vberleng.
     - '1'
   - - Wolff Stang vnd Herwart Witzleben.
     - ''
@@ -134,7 +134,7 @@ bloky:
     - '2'
   - - úhrnem vozy
     - 1½
-  - - úhrnem přespočetní koně {vberleng}
+  - - úhrnem přespočetní koně {vberleng}[^2]
     - '8'
   - - Dieterich Schacht
     - ''
@@ -192,13 +192,13 @@ bloky:
     - '7'
   - - trénní koně
     - ½
-  - - vozy a 2 přespočetných koní
+  - - vozy a 2 přespočetní koně
     - ½
-  - - Jobst Schatt[^2]
+  - - Jobst Schatt[^3]
     - ''
   - - zbrojní koně
     - '7'
-  - - vozy a 2 přespočetných koní
+  - - vozy a 2 přespočetní koně
     - ½
   - - úhrnem zbrojní koně
     - '36'
@@ -247,17 +247,17 @@ bloky:
 - typ: nadpis
   uroven: 3
   de: Marggraff Albrechts etc. Stat.
-  cs: Stav {Stat} markraběte Albrechta atd.[^3]
+  cs: Stav {Stat} markraběte Albrechta atd.[^4]
 - typ: tabulka
   de:
   - - |-
-      Auff 648 Gerüste pferd gebürn jren F. G. auff jedes pferd 1 gulden / thůt
+      Auff 648 Gerüste pferd gebürn jren F. G. auff jedes pferd 1 gulden/ thůt
     - 648 flo.
   - - |-
-      Auff jedes hundert pferd einen Trabanten dem trabanten monatlich 8 gulden / thůt 6 trabanten / vnd einen sold auff ein halben trabanten / macht zu gelt
+      Auff jedes hundert pferd einen Trabanten dem trabanten monatlich 8 gulden/ thůt 6 trabanten/ vnd einen sold auff ein halben trabanten/ macht zu gelt
     - 52 flo.
   - - |-
-      Auff je fünfftzig pferd ein Rotmeister jedem gebürt auff sein ampt 25 gulden / thůt 13 Rotmeister / macht zu gelt
+      Auff je fünfftzig pferd ein Rotmeister jedem gebürt auff sein ampt 25 gulden/ thůt 13 Rotmeister/ macht zu gelt
     - 325 flo.
   cs:
   - - |-
@@ -274,7 +274,10 @@ poznamky:
   text: Tisková chyba *gerüsteer* za *gerüster*.
 - n: 2
   text: |-
-    Jméno je v tisku poškozené (*Scha?t*); na [[6-026v|s. 6-026v]] stojí *Jobst Schat*.
+    Úhrn 8 přespočetných koní skupiny Johanna von Bruch, Reinharta Gaburta a Jeronima Stackela neodpovídá položkám na předchozí straně, kde je uvedeno jen 6 (u Gaburta); úhrn celého oddílu (68) však s 8 počítá.
 - n: 3
+  text: |-
+    Jméno je v tisku poškozené (*Scha?t*); na [[6-026v|s. 6-026v]] stojí *Jobst Schat*.
+- n: 4
   text: |-
     *Stat* (Staat) – rozpočet na osobu velitele, jeho dvůr a úředníky, který se platil vedle žoldu jízdy; srov. služební list na [[6-017r|s. 6-017r]]. Úhrn zbrojných koní 648 = 305 + 88 + 108 + 147.

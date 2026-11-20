@@ -2,12 +2,12 @@ id: 6-024v
 list: 24 (6. kniha)
 strana: verso
 sken: 540
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
   de:
-  - - tag / macht auff jedes pferd ein tag zu 6 batzen /
+  - - tag/ macht auff jedes pferd ein tag zu 6 batzen /
     - 114 gulden.
   - - Zwen Wagen /
     - 24 gulden.
@@ -15,7 +15,7 @@ bloky:
     - ''
   - - Philips von Fleckenstein.
     - ''
-  - - Item ist den 25 Maij mit 13 pferden angezogen / thůt biß auff den 5 Junij anreitens vnd stilligens 11 tag / macht auff jedes pferd ein tag zu 6 batzen gerechnet /
+  - - Item ist den 25 Maij mit 13 pferden angezogen/ thůt biß auff den 5 Junij anreitens vnd stilligens 11 tag/ macht auff jedes pferd ein tag zu 6 batzen gerechnet /
     - 57 flo. 3 batz.
   - - Ein wagen /
     - 8 gulden 12 batzen.
@@ -23,7 +23,7 @@ bloky:
     - ''
   - - Wolff von Dalberg.
     - ''
-  - - Item ist den 24 Maij mit 12 pferden angezogen / thůt biß auff den 5 Junij anreitens vnd stilligens 12 tag / macht auff jedes pferd ein tag zu 6 batzen /
+  - - Item ist den 24 Maij mit 12 pferden angezogen/ thůt biß auff den 5 Junij anreitens vnd stilligens 12 tag/ macht auff jedes pferd ein tag zu 6 batzen /
     - 57 gulden 9 batzen.
   - - Ein Wagen /
     - 9 gulden 9 batzen.
@@ -37,11 +37,11 @@ bloky:
     - 5½
   - - Laie von Brendel.
     - ''
-  - - Item ist den 24 Maij mit 6 pferden angezogen / thůt biß auff den 5 Junij 12 tag anreitens vnd stilligens 17 tag / macht auff jedes pferd ein tag zu 6 batzen /
+  - - Item ist den 24 Maij mit 6 pferden angezogen/ thůt biß auff den 5 Junij 12 tag anreitens vnd stilligens 17 tag/ macht auff jedes pferd ein tag zu 6 batzen /
     - 28 gulden 12 batzen.
   - - Philips von Brendel.
     - ''
-  - - Item ist den 15 Maij mit 6 pferden angezogen / thůt biß auff den 5 Junij anreitens vnd stilligens 15 tag / thůt auff jedes pferd ein tag zu 6 batzen /
+  - - Item ist den 15 Maij mit 6 pferden angezogen/ thůt biß auff den 5 Junij anreitens vnd stilligens 15 tag/ thůt auff jedes pferd ein tag zu 6 batzen /
     - 36 gulden.
   - - Haben beide ein wagen /
     - 12 gulden.
@@ -49,7 +49,7 @@ bloky:
     - ''
   - - Wilhelm Waiß.
     - ''
-  - - Item ist den 2 Maij mit 12 pferden angezogen / thůt biß auff den 5 Junij anreitens vnd stilligens 15 tag / macht auff ein jedes pferd ein tag zu 6 batzen /
+  - - Item ist den 2 Maij mit 12 pferden angezogen/ thůt biß auff den 5 Junij anreitens vnd stilligens 15 tag/ macht auff ein jedes pferd ein tag zu 6 batzen /
     - 72 gulden.
   - - Ein Wagen /
     - 12 gulden.
@@ -63,7 +63,7 @@ bloky:
     - '2'
   - - Heinrichs von Bernigßhausen anzug.
     - ''
-  - - Item ist den 19 Maij mit 15 pferden angezogen / thůt biß auff den 5 Junij anreitens vnd stilligens gen Landaw 46 meiln 17 tag / macht auff
+  - - Item ist den 19 Maij mit 15 pferden angezogen/ thůt biß auff den 5 Junij anreitens vnd stilligens gen Landaw 46 meiln 17 tag/ macht auff
     - ''
   cs:
   - - dní; dělá na každého koně na den po 6 bacenech {batzen}

@@ -2,7 +2,7 @@ id: 6-005r
 list: 5 (6. kniha)
 strana: recto
 sken: 501
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -25,7 +25,7 @@ bloky:
   de: |-
     Vnder disen 1000. pferden sollen zwei / vnd den 200. schützen ein Fendlin gehalten werden.
   cs: |-
-    Pod těmito 1000 koňmi mají být drženy dvě korouhve {Fendlin} a pod 200 střelci jedna.
+    U těchto 1000 koní mají být drženy dvě korouhve {Fendlin} a u 200 střelců jedna.
 - typ: odstavec
   de: |-
     Es soll gedachtem vnserm Oheim vnnd Fürsten auff souil reisig Pferde vnd Reisigen / als in der musterung gůt gemacht / monatlich souil gulden für den Hauptmans gulden bezalt werden.
@@ -55,7 +55,7 @@ bloky:
   de: |-
     Denen so gemelte 3. Fendlin als Fendrichen beuolhen werden sollen / zů jrer in der musterung gůt gemachten besoldung dises Fendrichs ampts halber / einem jeden monatlich 24. flo. bezalt werden.
   cs: |-
-    Těm, jimž budou uvedené 3 korouhve svěřeny jako korouhevníkům {Fendrichen}, se má k jejich služnému uznanému při přehlídce za tento praporečnický úřad platit každému měsíčně 24 zl.
+    Těm, jimž budou uvedené 3 korouhve svěřeny jako korouhevníkům {Fendrichen}, se má k jejich služnému uznanému při přehlídce za tento korouhevnický úřad platit každému měsíčně 24 zl.
 - typ: odstavec
   de: |-
     Item sollen gedachtem vnserm Oheim vnd Fürsten auff den hauptman den die 200. Schützen als Hauptmäner beuolhen werden / neben seiner bestimpten gemusterten besoldung / des Schützen Hauptmans beuelch halben / monatlich 50. flo. entricht werden.

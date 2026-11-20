@@ -2,7 +2,7 @@ id: 6-020v
 list: 20 (6. kniha)
 strana: verso
 sken: 532
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -105,7 +105,7 @@ bloky:
     - '15'
   - - drosser
     - '1'
-  - - wagen / vnd 6 vberleng.
+  - - wagen/ vnd 6 vberleng.
     - '1'
   - - Conradt Werde.
     - ''

@@ -2,33 +2,49 @@ id: 7-010r
 list: 10 (7. kniha)
 strana: recto
 sken: 567
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: obrazek
   soubor: drevorez-567.jpg
   popis: |-
-    Dalších osm červeně tištěných karet římské strany ve dvou sloupcích: vlevo čtyři rytmistři s jezdectvem (2000 koní, 1500 kopiníků, 500 lehkých kopiníků, 500 jízdních střelců), vpravo jeden rytmistr s 500 koni s dlouhými hlavněmi a tři karty s děly (šarfmece, kartouny, poloviční kartouny). Karty odpovídají kartáginským protějškům na [[7-006v|předchozím listu]]. Přepis a překlad nápisů viz tabulka.
+    Dalších osm červeně tištěných textových karet římské strany v orámovaných polích ve dvou sloupcích: vlevo čtyři rytmistři s jízdou (2000 koní, 1500 kopiníků, 500 lehkých kopiníků, 500 střelců na koni), vpravo jeden rytmistr s 500 koňmi s dlouhými ručnicemi a tři karty s děly (šarfmece, kartouny, poloviční kartouny). Karty odpovídají kartáginským protějškům na [[7-006v|listu 6v]]. Přepis a překlad nápisů viz tabulka (pořadí po řádcích zleva doprava).
 - typ: tabulka
   de:
-  - - Titus Sembronius ein Ritmeister mit zwei tausent pferden.
-  - - Cauis Nero ein Ritmeister mit fünffhundert pferden mit langen rohrn.
-  - - Publius Carnelius ein Ritmeister mit fünfftzehen hundert Pferden Spiesser.
-  - - Vier Scharpffemetzen.
-  - - Marcus Liuinus ein Ritmeister mit fünffhundert leicht pferden spisser.
-  - - Zehen Cartaunen.
-  - - Marcus Emilius ein Ritmeister mit fünffhundert pferden schützen.
-  - - Zehen halb Cartaun.
+  - - '1'
+    - Titus Sembronius ein Ritmeister mit zwei tausent pferden.
+  - - '2'
+    - Cauis Nero ein Ritmeister mit fünffhundert pferden mit langen rohrn.
+  - - '3'
+    - Publius Carnelius ein Ritmeister mit fünfftzehen hundert Pferden Spiesser.
+  - - '4'
+    - Vier Scharpffemetzen.
+  - - '5'
+    - Marcus Liuinus ein Ritmeister mit fünffhundert leicht pferden spisser.
+  - - '6'
+    - Zehen Cartaunen.
+  - - '7'
+    - Marcus Emilius ein Ritmeister mit fünffhundert pferden schützen.
+  - - '8'
+    - Zehen halb Cartaun
   cs:
-  - - Titus Sempronius, rytmistr {Ritmeister} se dvěma tisíci koní.[^1]
-  - - Gaius Nero, rytmistr s pěti sty koní s dlouhými hlavněmi {rohrn}.
-  - - Publius Cornelius, rytmistr s patnácti sty koní kopiníků {Spiesser}.
-  - - Čtyři šarfmece {Scharpffemetzen}.
-  - - Marcus Livius, rytmistr s pěti sty lehkých koní kopiníků.
-  - - Deset kartoun {Cartaunen}.
-  - - Marcus Aemilius, rytmistr s pěti sty koní střelců {schützen}.
-  - - Deset polovičních kartoun {halb Cartaun}.
+  - - '1'
+    - Titus Sempronius, rytmistr {Ritmeister}, se dvěma tisíci koňmi.[^1]
+  - - '2'
+    - Gaius Nero, rytmistr s pěti sty koňmi s dlouhými ručnicemi {rohrn}.
+  - - '3'
+    - Publius Cornelius, rytmistr s patnácti sty koňmi kopiníků {Spiesser}.
+  - - '4'
+    - Čtyři šarfmece {Scharpffemetzen}.
+  - - '5'
+    - Marcus Livius, rytmistr s pěti sty lehkými koňmi {leicht pferden} kopiníků.
+  - - '6'
+    - Deset kartoun {Cartaunen}.
+  - - '7'
+    - Marcus Aemilius, rytmistr s pěti sty koňmi střelců {schützen}.
+  - - '8'
+    - Deset polovičních kartoun {halb Cartaun}
 poznamky:
 - n: 1
   text: |-
-    Tisk má podoby „Sembronius“, „Cauis Nero“, „Carnelius“ a „Liuinus“. Míněni jsou nejspíš Tiberius Sempronius Longus, Gaius Claudius Nero (vítěz od Metauru 207 př. n. l.), Publius Cornelius Scipio (otec Africana), Marcus Livius Salinator a Lucius Aemilius Paullus.
+    Tisk má podoby „Sembronius“, „Cauis Nero“, „Carnelius“, „Liuinus“ a „Emilius“. Míněni jsou nejspíš Tiberius Sempronius Longus, Gaius Claudius Nero (vítěz od Metauru 207 př. Kr.), Publius Cornelius Scipio (otec Africana), Marcus Livius Salinator a Lucius Aemilius Paullus. Celkem karty uvádějí 5000 koní jako protějšek kartáginské jízdy.

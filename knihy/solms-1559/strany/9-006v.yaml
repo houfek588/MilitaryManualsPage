@@ -2,7 +2,7 @@ id: 9-006v
 list: 6 (9. kniha)
 strana: verso
 sken: 632
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -14,7 +14,7 @@ bloky:
   de: |-
     Auch soll mann in bemeltem Veld einen platz nemen da die wacht jre fewer machen/ so groß daß das gantz Heer zu roß vnd fuß auff bemeltem platz in einer Ordnung stehn mag/ so ein lermen zu tag vnd nacht würde/ auff denselbigen platz soll ein groß Zelt auffgeschlagen werden/ damit die wacht wanns vngewitter ist im Zelt sich auffenthalten möge/ nit weit von gemeltem platz soll ewer Zelt inn mitten auffgericht werden/ vmb euch/ ewere Kemmerling/ Ritter vnd Adel so an ewerm Hoff seind/ ewer Hetschier vnd gewarde/ vnnd bei jnen die jenigen so ordnung in schlachten auch im leger machen/ damit gůt weit gassen zwischen den Zelten vnd hůten seien/ das die Reutter tag vnd nacht woher sie komen zu euch reumig mögen komen.
   cs: |-
-    V řečeném poli se má také vybrat místo, kde si stráž {wacht} rozdělává ohně, tak veliké, aby na něm celé vojsko, jízda i pěchota, mohlo stát v šiku {Ordnung}, kdyby ve dne či v noci nastal poplach {lermen}. Na tomto místě se má postavit veliký stan, aby se v něm stráž mohla zdržovat, když je nepohoda. Nedaleko řečeného místa má být uprostřed postaven váš stan a kolem vás vaši komorníci, rytíři a šlechta, kteří jsou u vašeho dvora, vaši hartšíři a garda {Hetschier vnd gewarde},[^1] a u nich ti, kdo sestavují šiky v bitvách i v ležení. Mezi stany a chýšemi mají být dobré široké uličky, aby k vám jezdci {Reutter} mohli ve dne i v noci, odkudkoli přijedou, volně dojet.
+    V řečeném poli se má také vybrat místo, kde si stráž {wacht} rozdělává ohně, tak veliké, aby na něm celé vojsko, jízda i pěchota, mohlo stát v šiku {Ordnung}, kdyby ve dne či v noci nastal poplach {lermen}. Na tomto místě se má postavit veliký stan, aby se v něm stráž mohla zdržovat, když je nepohoda. Nedaleko řečeného místa má být uprostřed postaven váš stan a kolem vás vaši komorníci, rytíři a šlechta, kteří jsou u vašeho dvora, vaši hartšíři {Hetschier} a garda {gewarde},[^1] a u nich ti, kdo sestavují šiky v bitvách i v ležení. Mezi stany a chýšemi mají být dobré široké uličky, aby k vám jezdci {Reutter} mohli ve dne i v noci, odkudkoli přijedou, volně dojet.
 - typ: odstavec
   de: |-
     An dem einen ort des legers soll der Marschalck ligen/ vnd bei jm der Quartirmeister/ auch die jenigen so jr jnen beuelcht vnnd vnder jnen ligen/ vnd nit weit von jm der oberst Büchsenmeister/ auch das Puluer vnd anders so zu dem Geschütz gehörig/ vnd alle wagen vnd karren so vbrig bleiben sollen zu der Wagenburg gebraucht werden.
@@ -29,11 +29,11 @@ bloky:
   de: |-
     Damit ich kom zu der Ordnung die man halten soll im Zug/ sehe mich für gůt an je ehe mann auffbrech je besser es were/ Deßhalben mein meinung ist wann jr selbs nit die arbeit damit haben wolt/ wie Hertzog Carol von Borgunde der letst gethan/ welcher alles selbst thůn vnd sehen hat wöllen/ vnd groß arbeit tag vnd nacht damit gehabt/ darumb jn der Cliuier von der Marck nent/ Der vberauß arbeitsam Carole/ daß jr den Marschalck darzů verordneten/ der ein Register hab/ da die namen der Hauptleut die jr habt zu roß vnd fuß/ auch
   cs: |-
-    Abych přešel k pořádku, který se má zachovávat na pochodu {Zug}: zdá se mi dobré, že čím dříve se vytáhne, tím lépe. Proto je mé mínění, nechcete-li s tím mít práci sám – jako poslední burgundský vévoda Karel, který chtěl všechno sám dělat a vidět a měl s tím ve dne v noci velkou práci, a proto ho Olivier de la Marche nazývá „Karel nadmíru pracovitý“[^2] –, abyste k tomu ustanovil polního maršálka. Ten má mít rejstřík {Register}, v němž jsou [zapsána] jména hejtmanů, které máte na koni i pěšky, a také
+    Abych přešel k pořádku, který se má zachovávat na pochodu {Zug}: mám za to, že čím dříve se vytáhne, tím lépe. Proto je mé mínění, nechcete-li s tím mít práci sám – jako poslední burgundský vévoda Karel, který chtěl všechno sám dělat a vidět a měl s tím ve dne v noci velkou práci, a proto ho Olivier de la Marche nazývá „Karel nadmíru pracovitý“[^2] –, abyste k tomu ustanovil polního maršálka. Ten má mít rejstřík {Register}, v němž jsou [zapsána] jména hejtmanů, které máte na koni i pěšky, a také
 poznamky:
 - n: 1
   text: |-
-    *Hetschier* (hartšíři, z ital. *arciere*, franc. *archer*) – jízdní tělesná stráž knížete, původně lučištníci; *gewarde* – garda, osobní stráž.
+    *gewarde* – garda (franc. *garde*), osobní stráž knížete; spolu s hartšíři (franc. *archers*) tvořila tělesnou stráž burgundských vévodů.
 - n: 2
   text: |-
     Karel Smělý († 1477), poslední vévoda burgundský z rodu Valois. Jeho dvořan a kronikář Olivier de la Marche (asi 1425–1502) jej ve svých pamětech nazývá *Charles le Travaillant*. Tisk má *der Cliuier von der Marck* – tisková chyba za *Oliuier*.

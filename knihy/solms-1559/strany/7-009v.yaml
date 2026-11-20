@@ -2,36 +2,52 @@ id: 7-009v
 list: 9 (7. kniha)
 strana: verso
 sken: 566
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: obrazek
   soubor: drevorez-566.jpg
   popis: |-
-    Osm karet římské strany hry, vytištěných celé červeně (srov. ohlášení „s červenou barvou“ na [[7-007r|listu 7]]): obdélníkové rámečky ve dvou sloupcích po čtyřech, v každém jen frakturový nápis se jménem římského velitele a úřadem, který mu autor ve hře přidělil. Karty odpovídají kartáginským protějškům na [[7-006r|listu 6]] (Hannibal, Himilkón, Hasdrubal…): vrchní velitel, mistr dělostřelectva, nejvyšší polní hejtman, šlechtic při dělostřelectvu, polní maršálek, mistr vozové hradby, kapitán justice a vozmistr. Přepis a překlad nápisů viz tabulka.
+    Osm textových karet římské strany, vytištěných celé červeně (srov. ohlášení „s červenou barvou“ na [[7-007r|listu 7]]), v orámovaných polích ve dvou sloupcích po čtyřech; každá karta nese frakturový nápis se jménem římského vojevůdce a úřadem, který mu autor ve hře přidělil. Karty odpovídají kartáginským protějškům na [[7-006r|listu 6]] (Hannibal, Himilkón, Hasdrubal…): polní plukovník, zbrojmistr, nejvyšší polní hejtman, šlechtic dělostřelectva, polní maršálek, mistr vozové hradby, kapitán justice a vozmistr. Přepis a překlad nápisů viz tabulka (pořadí po řádcích zleva doprava).
 - typ: tabulka
   de:
-  - - Publi. Carne. Scipio Aphricanus Veldoberser mit zwei hundert Pferden.
-  - - Quint. Fabius Maximus Artoloreimeister.
-  - - Celius oberster Veldhauptman oder Leutenant mit fünfftzig Pferden Hoffdiner.
-  - - Decius Junius ein Edelman der Artolorei.
-  - - Marcus Attilius / Veldmarschalck.
-  - - Publius quintus / Wagenburgmeister.
-  - - Titus Manlius Torquatus / Capitan der Justitie.
-  - - Claudius Marcellus Wagenmeister.
+  - - '1'
+    - Publi. Carne. Scipio Aphricanus Veldoberser mit zwei hundert Pferden.
+  - - '2'
+    - Quint. Fabius Maximus Artoloreimeister.
+  - - '3'
+    - Celius oberster Veldhauptman oder Leutenant mit fünfftzig Pferden Hoffdiner.
+  - - '4'
+    - Decius Junius ein Edelman der Artolorei.
+  - - '5'
+    - Marcus Attilius / Veldmarschalck.
+  - - '6'
+    - Publius quintus / Wagenburgmeister.
+  - - '7'
+    - Titus mannlius Torquatus / Capitan der Justitie.
+  - - '8'
+    - Claudius marcellus Wagenmeister.
   cs:
-  - - Publius Cornelius Scipio Africanus, polní plukovník {Veldoberser} se dvěma sty koní.[^1]
-  - - Quintus Fabius Maximus, mistr dělostřelectva {Artoloreimeister}.
-  - - Celius,[^2] nejvyšší polní hejtman {oberster Veldhauptman} neboli poručík {Leutenant}, s padesáti koňmi dvorských služebníků {Hoffdiner}.
-  - - Decius Junius, šlechtic při dělostřelectvu {Edelman der Artolorei}.
-  - - Marcus Atilius, polní maršálek {Veldmarschalck}.
-  - - Publius Quintus, mistr vozové hradby {Wagenburgmeister}.
-  - - Titus Manlius Torquatus, kapitán justice {Capitan der Justitie}.
-  - - Claudius Marcellus, vozmistr {Wagenmeister}.
+  - - '1'
+    - Publius Cornelius Scipio Africanus, polní plukovník {Veldoberser}, se dvěma sty koňmi.[^1]
+  - - '2'
+    - Quintus Fabius Maximus, zbrojmistr {Artoloreimeister}.
+  - - '3'
+    - Celius,[^2] nejvyšší polní hejtman {oberster Veldhauptman} neboli poručík {Leutenant}, s padesáti koňmi dvorských služebníků {Hoffdiner}.
+  - - '4'
+    - Decius Junius, šlechtic dělostřelectva {Edelman der Artolorei}.
+  - - '5'
+    - Marcus Atilius, polní maršálek {Veldmarschalck}.
+  - - '6'
+    - Publius Quintus, mistr vozové hradby {Wagenburgmeister}.
+  - - '7'
+    - Titus Manlius Torquatus, kapitán justice {Capitan der Justitie}.
+  - - '8'
+    - Claudius Marcellus, vozmistr {Wagenmeister}.
 poznamky:
 - n: 1
   text: |-
-    Tisk má zkratku „Publi. Carne.“ (místo Cornelius) a tiskovou chybu „Veldoberser“ místo „Veldoberster“ (srov. „Veldoberster“ v úvodu na [[7-titul|titulním listu]]). Jména římských vojevůdců z doby druhé punské války (Scipio Africanus, Fabius Maximus Cunctator, Claudius Marcellus, Manlius Torquatus aj.) jsou podle autorova výkladu přidělena novověkým válečným úřadům jen jako příklad; sami takové úřady nezastávali.
+    Tisk má zkratku „Publi. Carne.“ (místo Cornelius) a tiskovou chybu „Veldoberser“ místo „Veldoberster“ (srov. „Veldoberster“ v úvodu na [[7-titul|titulním listu]]); jména „mañlius“ a „marcellus“ jsou vysázena s malým písmenem. Jména římských vojevůdců z doby druhé punské války (Scipio Africanus, Fabius Maximus Cunctator, Claudius Marcellus, Manlius Torquatus aj.) jsou podle autorova výkladu přidělena novověkým válečným úřadům jen jako příklad; sami takové úřady nezastávali.
 - n: 2
   text: |-
     Snad Gaius Laelius, Scipionův nejbližší legát; tisk má „Celius“.

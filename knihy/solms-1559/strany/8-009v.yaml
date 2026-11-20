@@ -2,7 +2,7 @@ id: 8-009v
 list: 9 (8. kniha)
 strana: verso
 sken: 606
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -15,21 +15,21 @@ bloky:
   de: |-
     Welche nun der ehrn sein wöllen / vnd neben mich inn solche Befestung (wie gehört) begeben / die tretten zu mir / so wil ich sie beschreiben / vnd wie ehrlich Kriegßleut halten / welche aber daß zuthůn nit gemůt / die zeigen daß jetzt in der zeit an / dieweil sie noch frei sind / so wil ich sie ziehen vnd Krieg sůchen lassen die für sie sind / vnd mich mit den andern ehrlichen Gesellen / einer gebörlichen Ordnung vnnd was darzů gehört vergleichen / der gestalt daß wir zů Gott verhoffen / zustehen wie ehrlich vnd ritterlich Kriegßleut.
   cs: |-
-    Kdo tedy chce mít na této cti podíl a vstoupit spolu se mnou do této pevnosti (jak jste slyšeli), ať přistoupí ke mně; zapíšu ho a budu ho držet jako poctivého válečníka {Kriegßleut}. Kdo to však udělat nezamýšlí, ať to oznámí nyní včas, dokud je ještě volný; nechám ho odejít a hledat války, které se mu hodí. S ostatními poctivými druhy {Gesellen} se pak dohodnu na náležitém řádu a na všem, co k tomu patří, abychom – jak doufáme v Boha – obstáli jako poctiví a rytířští válečníci.“
+    Kdo tedy chce mít na této cti podíl a vstoupit spolu se mnou do této pevnosti (jak jste slyšeli), ať přistoupí ke mně; zapíšu ho a budu ho držet jako poctivého válečníka {Kriegßleut}. Kdo to však učinit nemíní, ať to oznámí nyní včas, dokud je ještě volný; nechám ho odejít a hledat války, které se mu hodí. S ostatními poctivými druhy {Gesellen} se pak dohodnu na náležitém řádu a na všem, co k tomu patří, abychom – jak doufáme v Boha – obstáli jako poctiví a rytířští válečníci.“
 - typ: odstavec
   de: |-
     Wann sie sich dann also in die Besatzung begeben / vnd ein theil wie das ander will / soll der Capitan oder Oberster solche / so bei jhm bleiben wöllen / zů sich nemen / vnd sagen / Lieben Brüder vnd Gesellen / dieweil ich bei euch gefunden / daß jr euch zu mir inn dise Besatzung wie ehrlich Kriegßleut begeben wolt / so wil ich mich mit euch einer Ordnung vnd Regiment vergleichen / damit wann wir im werck sind / nit erst mit einander disputiren / sonder einer meinung seien.
-  cs: 'Když pak takto vstoupí do posádky {Besatzung} a jedna strana chce totéž co druhá, má kapitán {Capitan} neboli plukovník {Oberster} vzít k sobě ty, kdo u něho chtějí zůstat, a říci: „Milí bratři a druhové, protože jsem u vás shledal, že chcete jako poctiví válečníci vstoupit se mnou do této posádky, chci se s vámi dohodnout na řádu a řízení {Regiment}, abychom se, až budeme v díle, teprve spolu nepřeli, nýbrž byli jedné mysli.“'
+  cs: 'Když pak takto vstoupí do posádky {Besatzung} a jedna strana chce totéž co druhá, má kapitán {Capitan} neboli plukovník {Oberster} vzít k sobě ty, kdo u něho chtějí zůstat, a říci: „Milí bratři a druhové, protože jsem u vás shledal, že chcete jako poctiví válečníci vstoupit se mnou do této posádky, chci se s vámi dohodnout na řádu a řízení, abychom se, až dojde na věc, teprve spolu nepřeli, nýbrž byli jedné mysli.“'
 - typ: odstavec
   de: |-
     Darauff soll der Oberst sagen (Lieben Brüder) Ich hab nit vnderlassen / sonder mit rath meins Herrn vnnd anderer Kriegßuerstendigen / ein Regiment vnd Ordnung so in ein Besatzung gehört zůstellen / welchs vns bedünckt daß es notwendig vnd billich sei / damit wir einig vnd inn die leng bei einander bleiben / vnd vnsere beuelch mit Gott vnd ehrn wol außrichten künden / So wil ich euch solchs alhie sehen vnd mit berathschlagen lassen / ob das etwan möcht gebessert / vnd damit nichts was vns gebürt möcht vbersehen werden / vnnd dasselbig jnen vorlesen / vnd weiter beratschlagen lassen.
-  cs: 'Nato má plukovník říci: „Milí bratři, neopomněl jsem s radou svého pána a jiných znalců válečnictví {Kriegßuerstendigen} sestavit řízení a řád, jaký k posádce patří a jaký se nám zdá nutný a spravedlivý, abychom zůstali svorní a dlouho pohromadě a své úkoly s Boží pomocí a se ctí dobře vykonali. Chci vám to zde ukázat a dát vám o tom spolu se mnou poradit, zda by se to snad dalo zlepšit, a aby se nepřehlédlo nic, co se na nás sluší.“ Pak jim má řád přečíst a nechat je dále se radit.'
+  cs: 'Nato má plukovník říci: „Milí bratři, neopomněl jsem s radou svého pána a jiných znalců válečnictví {Kriegßuerstendigen} sestavit řízení a řád, jaký k posádce patří a jaký se nám zdá nutný a spravedlivý, abychom zůstali svorní a dlouho pohromadě a své úkoly s Boží pomocí a se ctí dobře vykonali. Chci vám to zde předložit a nechat vás o tom spolu se mnou poradit, zda by se to snad dalo zlepšit, a aby se nepřehlédlo nic, co se na nás sluší.“ Pak jim má řád přečíst a nechat je dále se radit.'
 - typ: nadpis
   uroven: 3
   de: |-
     Innhalt der Ordnung so zum ersten inn ein Besatzung von nöten ist.
   cs: |-
-    Obsah řádu, který je v posádce potřebný nejprve
+    Obsah řádu, který je pro posádku nejprve zapotřebí
 - typ: odstavec
   de: |-
     ERstlich ist die Beschatzung mit souil wehrhafftigs Kriegßuolcks vberschlagen / vnd in ein jede wehr jre zal vnd maß Kriegßuolck geordnet / wie jr dieselbigen hernach sehen werd.
@@ -39,7 +39,7 @@ bloky:
   de: |-
     Zů andern ist einer jeden wehr jr eigen vnd besonder Geschütz vnden vnd oben was sie mit aller zůgehörende bedörffen / zůgeordnet.
   cs: |-
-    Za druhé je každému obrannému místu přidělena jeho vlastní a zvláštní děla {Geschütz} dole i nahoře, se vším příslušenstvím, které potřebují.
+    Za druhé jsou každému obrannému místu přidělena jeho vlastní a zvláštní děla {Geschütz} dole i nahoře, se vším příslušenstvím, které potřebují.
 - typ: odstavec
   de: |-
     Zum dritten ist zu solchem allem Geschütz groß vnd klein souil

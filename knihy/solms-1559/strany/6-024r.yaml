@@ -2,18 +2,18 @@ id: 6-024r
 list: 24 (6. kniha)
 strana: recto
 sken: 539
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
   de:
   - - Quirin von Reitzenstein.
     - ''
-  - - Item ist den 19 Maij mit 2 pferden angezogen / thůt biß auff den 5 Junij anreitens vnd stilligens 17 tag / macht auff jedes pferd ein tag zu 6 batzen gerechnet /
+  - - Item ist den 19 Maij mit 2 pferden angezogen/ thůt biß auff den 5 Junij anreitens vnd stilligens 17 tag/ macht auff jedes pferd ein tag zu 6 batzen gerechnet /
     - 13 gulden 9 batzen.
   - - Götz von Berlingen.
     - ''
-  - - Item ist den 27 Maij mit 23 pferden angezogen vnd stilgelegen 9 tag / mach auff jedes pferd ein tag zu 6 batzen /
+  - - Item ist den 27 Maij mit 23 pferden angezogen vnd stilgelegen 9 tag/ mach auff jedes pferd ein tag zu 6 batzen /
     - 82 gulden 12 batzen.
   - - Zwen Wagen /
     - 14 gulden 6 batzen.
@@ -21,7 +21,7 @@ bloky:
     - ''
   - - Casimir von der Grun.
     - ''
-  - - Item ist den 19 Maij mit 4 pferden angezogen vnnd stilgelegen 17 tag / macht auff jedes pferd ein tag zu 6 batzen gerechnet /
+  - - Item ist den 19 Maij mit 4 pferden angezogen vnnd stilgelegen 17 tag/ macht auff jedes pferd ein tag zu 6 batzen gerechnet /
     - 27 flo. 3 batz.
   - - Ein halben wagen /
     - 6 gulden 13 batzen.
@@ -29,7 +29,7 @@ bloky:
     - ''
   - - Bernhart vom Stein.
     - ''
-  - - Item ist den 22 Maij mit 13 pferden angezogen vnd stilgelegen 14 tag / macht auff jedes pferd ein tag zu 6 batzen /
+  - - Item ist den 22 Maij mit 13 pferden angezogen vnd stilgelegen 14 tag/ macht auff jedes pferd ein tag zu 6 batzen /
     - 72 gulden 12 batzen.
   - - Ein Wagen /
     - 11 gulden 3 batzen.
@@ -43,13 +43,13 @@ bloky:
     - 3½
   - - Daniel von Reitzenstein.
     - ''
-  - - Item ist den 19 Maij mit 2 pferden angezogen vnd stilgelegen 17 tag / macht auff jedes pferd ein tag zu 6 batzen /
+  - - Item ist den 19 Maij mit 2 pferden angezogen vnd stilgelegen 17 tag/ macht auff jedes pferd ein tag zu 6 batzen /
     - 13 gulden 9 batzen.
   - - Endres Haberkorn.
     - ''
-  - - Item ist den 21 Maij mit 8 pferden angezogen vnd stilgelegen 15 tag / thůt auff jedes pferd ein tag zu 6 batzen /
+  - - Item ist den 21 Maij mit 8 pferden angezogen vnd stilgelegen 15 tag/ thůt auff jedes pferd ein tag zu 6 batzen /
     - 48 gulden.
-  - - Zwei drittheil eins wagens zu 8 batzen / thůt
+  - - Zwei drittheil eins wagens zu 8 batzen/ thůt
     - 8 gulden.
   - - Summa 56 gulden.
     - ''
@@ -61,7 +61,7 @@ bloky:
     - ⅔
   - - Philips von Cronbergs anzog.
     - ''
-  - - Item ist den 22 Maij mit 20 pferden angezogen vnd stilgelegen 14 tag / macht auff jedes pferd zu 6 batzen /
+  - - Item ist den 22 Maij mit 20 pferden angezogen vnd stilgelegen 14 tag/ macht auff jedes pferd zu 6 batzen /
     - 112 gulden.
   - - Anderthalben wagen.
     - 16 gulden 12 batzen.
@@ -139,7 +139,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Půl vozu za 17 nocí po 12 bacenech dává 102 bac. = 6 zl. 12 bac.; tisk má 6 zl. 13 bac., úhrn 34 zl. však počítá s 12 bacenech.
+    Půl vozu za 17 nocí po 12 bacenech dává 102 bac. = 6 zl. 12 bac.; tisk má 6 zl. 13 bac., úhrn 34 zl. však počítá s 6 zl. 12 bac.
 - n: 2
   text: |-
     Zlomek je v tisku špatně čitelný; podle položky Endrese Haberkorna (*Zwei drittheil eins wagens*) jde o ⅔ vozu.

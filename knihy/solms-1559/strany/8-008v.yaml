@@ -2,19 +2,19 @@ id: 8-008v
 list: 8 (8. kniha)
 strana: verso
 sken: 604
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
   de: |-
     Ein Woch gehn auff 10000 pferdt 70000 metzen hafern / thůn an gewicht 8400 Centner / vnd 5833 Schäffeln 4 metzen.
   cs: |-
-    Za týden připadá na 10 000 koní 70 000 měřic {metzen} ovsa; to činí na váhu 8400 centů {Centner} a 5833 korců {Schäffeln} a 4 měřice.
+    Za týden připadá na 10 000 koní 70 000 měřic {metzen} ovsa; to činí na váhu 8400 centů {Centner}, což je 5833 korců {Schäffeln} a 4 měřice.
 - typ: odstavec
   de: |-
     Ein Monat gehn auff 10000 pferdt 300000 Metzen hafern / thůn an gewicht 36000 Centner / vnd 25000 Schäffel hafern.
   cs: |-
-    Za měsíc připadá na 10 000 koní 300 000 měřic ovsa; to činí na váhu 36 000 centů a 25 000 korců ovsa.
+    Za měsíc připadá na 10 000 koní 300 000 měřic ovsa; to činí na váhu 36 000 centů, což je 25 000 korců ovsa.
 - typ: odstavec
   de: |-
     Wo nun ferner Bestallung vnd Füterung zu Pferden von nöten / wirt ein jeder obbeschribener Rechnung nach sich zu richten wissen / Also mag mann den Wein vnd alles was jnen zukompt gleich vnder das Volck theilen.
@@ -24,7 +24,7 @@ bloky:
   de: |-
     Item wann einem Prouiantmeister seine summa gelieffert wirt / soll er als bald bezalen / oder sie zu frieden stellen / souil er schuldig ist / vnd wann ers nit bezalen wolt / auch die jenigen denen es zůstehet / nit zu frieden stellet / vnd sich damit behelffen / mann solt in der Ordnung bleiben / vnd einem nach dem andern zulieffern schuldig sein / soll es jm nit nachgelassen / sonder einem andern zugetheilt werden / der es bezalt vnd jm in dem Register nachgeht / vnd den andern gleich einschreiben als wann er der Ordnung nach verricht were / vnd seine verseumbnuß inn stat seiner gebürender liefferung schreiben.
   cs: |-
-    Dále, když se proviantmistrovi {Prouiantmeister} dodá jeho množství, má ihned zaplatit nebo dodavatele uspokojit, kolik je dlužen. Kdyby zaplatit nechtěl, ani ty, jimž to náleží, neuspokojil a vymlouval se, že se má zůstat v pořadí a že se má dodávat jednomu po druhém, nemá se mu to trpět; dodávka se má přidělit jinému, který zaplatí a následuje po něm v rejstříku {Register}. Onoho prvního je pak třeba zapsat, jako by byl podle pořadí obsloužen, a na místo jeho náležité dodávky zapsat jeho zmeškání.
+    Dále, když se proviantmistrovi {Prouiantmeister} dodá jeho množství, má ihned zaplatit, nebo dodavatele uspokojit, kolik je dlužen. Kdyby zaplatit nechtěl, ani ty, jimž to náleží, neuspokojil a vymlouval se, že se má zůstat v pořadí a že se má dodávat jednomu po druhém, nemá se mu to trpět; dodávka se má přidělit jinému, který zaplatí a následuje po něm v rejstříku {Register}. Onoho prvního je pak třeba zapsat, jako by byl podle pořadí obsloužen, a na místo jeho náležité dodávky zapsat jeho zmeškání.
 - typ: odstavec
   de: |-
     Item Genß / Hůner vnd solch gering Viehe / mag ein jeder wo er hin wil auff ein freyen Marckt / da es jm gelegen vnnd gefellig ist / tragen.
@@ -39,7 +39,7 @@ bloky:
   de: |-
     Wann ein grosse name Viehs zuwegen bracht / vnd nit so bald in gemelte Ordnung getheilt würde / so were es gůt daß die Obersten ein solche verfassung vnd vorrat an Saltz bei der handt hetten / daß solches fleysch oder Viehe / wann es inn der Weyde nicht zuerhalten were / geschlacht vnd in Fässer in das Saltz eingelegt / vnd biß zur not gespart / wann an der Prouiant felhen wirt / alßdan hat mann daruon fürzůstrecken / vnd ist auch nicht zubesorgen daß die Rotrůr von solchem fleysch komme / wann es wider sauber gewäschen wirdt ehe denn mann es kochet.
   cs: |-
-    Kdyby se získala velká kořist[^1] dobytka a nebyla hned rozdělena podle zmíněného řádu, bylo by dobré, aby plukovníci {Obersten} měli po ruce takové opatření a zásobu soli, aby se toto maso či dobytek – nedá-li se uživit na pastvě – porazil, naložil do sudů do soli a šetřil až do nouze. Až se pak bude proviantu {Prouiant} nedostávat, bude z čeho rozdávat. Není se také třeba obávat, že by z takového masa vznikla úplavice[^2], když se před vařením zase čistě vypere.
+    Kdyby se získala velká kořist[^1] dobytka a nebyla hned rozdělena podle zmíněného řádu, bylo by dobré, aby plukovníci {Obersten} měli po ruce takové opatření a zásobu soli, aby se toto maso či dobytek – nedá-li se uživit na pastvě – porazil, naložil do sudů do soli a šetřil až do nouze. Až se pak bude proviantu {Prouiant} nedostávat, bude z čeho rozdávat. Není se také třeba obávat, že by z takového masa vznikla úplavice[^2], když se před vařením znovu důkladně omyje.
 - typ: odstavec
   de: |-
     Dise gemelte Ordnung ist nit allein in einer Stat / Flecken oder Schloß / sonder auch in einem Veltzug zu brauchen / wie im Bůch der 24 Kriegßampter ins Prouiantherrn ampt klerlicher vnd weitlaufftiger angezeigt ist.

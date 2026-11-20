@@ -2,7 +2,7 @@ id: 6-021r
 list: 21 (6. kniha)
 strana: recto
 sken: 533
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -49,7 +49,7 @@ bloky:
     - '8'
   - - drosser
     - ½
-  - - wagen / vnd 4 vberleng.
+  - - wagen/ vnd 4 vberleng.
     - ½
   - - Summa gerüster pferd
     - '24'
@@ -117,7 +117,7 @@ bloky:
     - '11'
   - - Drosser
     - '1'
-  - - wagen / vnd 10 vberleng
+  - - wagen/ vnd 10 vberleng
     - ''
   - - Christoff von Ruckßleben
     - ''
@@ -202,7 +202,7 @@ bloky:
     - '8'
   - - trénní koně
     - ½
-  - - vozy a 4 přespočetných koní {vberleng}
+  - - vozy a 4 přespočetní koně {vberleng}
     - ½
   - - úhrnem zbrojní koně
     - '24'
@@ -226,7 +226,7 @@ bloky:
     - ''
   - - zbrojní koně
     - '7'
-  - - vozy a 2 přespočetných koní
+  - - vozy a 2 přespočetní koně
     - ½
   - - 'Dále ještě:'
     - ''
@@ -270,7 +270,7 @@ bloky:
     - '11'
   - - trénní koně
     - '1'
-  - - wagen / a 10 vberleng
+  - - vozy a 10 přespočetných koní
     - ''
   - - Christoff von Ruckßleben
     - ''
@@ -278,7 +278,7 @@ bloky:
     - '8'
   - - trénní koně
     - '1'
-  - - vozy a 4 přespočetných koní
+  - - vozy a 4 přespočetní koně
     - ½
   - - úhrnem zbrojní koně
     - '43'
@@ -302,7 +302,7 @@ bloky:
     - '9'
   - - trénní koně
     - '1'
-  - - wagen a 6 vberleng
+  - - vozy a 6 přespočetných koní
     - ''
   - - Jeronimus Stackel
     - ''
@@ -315,7 +315,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Součet položek skupiny (½ + ½ + ½) dává 1½ trénového koně; tisk má ½. Úhrn celého oddílu (6½) počítá s 1½. Podobně u skupiny Heinricha Meiburga dávají vozy ½ + ½ + ½ = 1½, tisk má 1. U Wentzela von Grun a Reinharta Gaburta tisk počet vozů neuvádí.
+    Součet položek skupiny (½ + ½ + ½) dává 1½ trénního koně; tisk má ½. Úhrn celého oddílu (6½) počítá s 1½. Podobně u skupiny Heinricha Meiburga dávají vozy ½ + ½ + ½ = 1½, tisk má 1. U Wentzela von Grun a Reinharta Gaburta tisk počet vozů neuvádí.
 - n: 2
   text: |-
     Jobst von Dalwigk z hesenského rytířského rodu Dalwigků; jeho oddíl pokračuje na další straně a uzavírá jej úhrn 147 zbrojných koní.

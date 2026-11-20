@@ -2,7 +2,7 @@ id: 6-025r
 list: 25 (6. kniha)
 strana: recto
 sken: 541
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -15,7 +15,7 @@ bloky:
     - ''
   - - Conradt Brede.
     - ''
-  - - Item ist den 18 Maij zu Reuern mit 11 pferden angezogen / hat biß gen Landaw 50 meiln / thůt biß auff den 5 Junij anreitens vnd stilligens 18 tag / macht auff jedes pferd allen tag zu 6 batzen /
+  - - Item ist den 18 Maij zu Reuern mit 11 pferden angezogen/ hat biß gen Landaw 50 meiln/ thůt biß auff den 5 Junij anreitens vnd stilligens 18 tag/ macht auff jedes pferd allen tag zu 6 batzen /
     - 79 flo. 3 batz.
   - - Ein wagen /
     - 14 gulden 6 batzen.
@@ -23,9 +23,9 @@ bloky:
     - ''
   - - Raue von Thers
     - ''
-  - - Item ist den 19 Maij angezogen / hat biß auff den Musterplatz 46 meiln / thůt 17 tag / macht auff jedes pferd jeden tag 6 batzen / thůn 11 pferde
+  - - Item ist den 19 Maij angezogen/ hat biß auff den Musterplatz 46 meiln/ thůt 17 tag/ macht auff jedes pferd jeden tag 6 batzen/ thůn 11 pferde
     - 74 flo. 12 batzen.
-  - - Die anzal des wagens 1 nacht 12 batzen / thůt
+  - - Die anzal des wagens 1 nacht 12 batzen/ thůt
     - 12 flo 7 batz.
   - - Summa 87 gulden 4 batzen.
     - ''
@@ -37,27 +37,27 @@ bloky:
     - 2½
   - - Eckhart vom Rein
     - ''
-  - - Item ist den 19 Maij angezogen / thůt biß auff den 5 Junij anreitens vnd stilligens 17 tag macht auff jedes pferd jeden tag 6 batzen / thůn 11 pferd
+  - - Item ist den 19 Maij angezogen/ thůt biß auff den 5 Junij anreitens vnd stilligens 17 tag macht auff jedes pferd jeden tag 6 batzen/ thůn 11 pferd
     - 74 flo. 12 batz.
-  - - Die anzal des wagens 1 nacht 12 batzen / thůt
+  - - Die anzal des wagens 1 nacht 12 batzen/ thůt
     - 12 flo. 7 batz.
   - - Summa 87 flo. 4 batzen.
     - ''
   - - Johan von Lauter vnd Heinrich von Gilse.
     - ''
-  - - Item ist den 18 Maij angezogen / hat biß auff den musterplatz 50 meiln / thůn 11 pferd
+  - - Item ist den 18 Maij angezogen/ hat biß auff den musterplatz 50 meiln/ thůn 11 pferd
     - 79 flo. 3 batz.
-  - - Die anzal des wagens zu 12 batzen 1 nacht / thůt
+  - - Die anzal des wagens zu 12 batzen 1 nacht/ thůt
     - 13 flo. 3 batz.
   - - Summa 82 flo. 6 batzen.
     - ''
   - - Thobias von Bidenfeldt.
     - ''
-  - - Item ist den 19 Maij angezogen / hat biß auff den musterplatz 46 meiln / thůt 17 tag / macht auff jedes pferd jeden tag 6 batzen / thůn 5 pferd
+  - - Item ist den 19 Maij angezogen/ hat biß auff den musterplatz 46 meiln/ thůt 17 tag/ macht auff jedes pferd jeden tag 6 batzen/ thůn 5 pferd
     - 34 flo.
   - - Gunterman Winter.
     - ''
-  - - Item ist den 19 Maij angezogen / hat biß auff den musterplatz 46 meiln / thůt 17 tag / macht auff jedes pferd jeden tag 6 batzen / thůn 7 pferd
+  - - Item ist den 19 Maij angezogen/ hat biß auff den musterplatz 46 meiln/ thůt 17 tag/ macht auff jedes pferd jeden tag 6 batzen/ thůn 7 pferd
     - 47 flo 9 batz.
   - - Summa Gelt
     - 261 gulden 4 batzen.
@@ -128,7 +128,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Tisková chyba za 119 zl. (102 + 17); s touto částkou počítá i úhrn 299 zl. 13 bac. níže.
+    Tisková chyba za 119 zl. (102 + 17); s touto částkou počítá i úhrn 299 zl. 13 bac. níže. Sama položka za vůz (17 zl.) je vyšší, než by dávalo 17 nocí po 12 bacenech (13 zl. 9 bac.).
 - n: 2
   text: |-
     Přesmyčka číslic: oddíl má 15 + 11 + 11 = 37 koní (srov. přehlídkový rejstřík na [[6-020v|s. 6-020v]]).

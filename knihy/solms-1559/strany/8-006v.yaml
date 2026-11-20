@@ -2,7 +2,7 @@ id: 8-006v
 list: 6 (8. kniha)
 strana: verso
 sken: 600
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -34,7 +34,7 @@ bloky:
     - ''
     - 9 krav
   - - 25 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 15 telat
   - - 5 skopců
     - ''
@@ -71,7 +71,7 @@ bloky:
     - ''
     - 30 krav
   - - 100 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 50 telat
   - - 50 skopců
     - ''
@@ -108,7 +108,7 @@ bloky:
     - ''
     - 2 krávy
   - - 5 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 5 telat
   - - 1 skopce
     - ''
@@ -145,7 +145,7 @@ bloky:
     - ''
     - 14 krav
   - - 35 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 35 telat
   - - 7 skopců
     - ''
@@ -182,7 +182,7 @@ bloky:
     - ''
     - 64 krav
   - - 150 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 150 telat
   - - 30 skopců
     - ''

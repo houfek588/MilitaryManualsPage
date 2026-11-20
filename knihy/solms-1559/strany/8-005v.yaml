@@ -2,14 +2,14 @@ id: 8-005v
 list: 5 (8. kniha)
 strana: verso
 sken: 598
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
   de: |-
     Darumb hab ich auff 500 einen Prouiantmeister geordnet/ daß er das einem jeden Quartirmeister auff einem platz theile/ vnd daß es nach einander wie sie im Register stehen/ getheilt werde/ also daß es ordenlich nach einander gehe/ damit ein Quartier nicht zweimal so das ander einmal/ bekmopt/ oder gar nichts bekomen hat/ vnnd an welchem es felhen wirt/ es were gleich halb oder gantz/ daß dann den andern tag/ so wider Prouiant kommen/ an dem/ da es am letsten gemangelt/ widerumb anfangen würde.
   cs: |-
-    Proto jsem na 500 [mužů] ustanovil jednoho proviantmistra {Prouiantmeister}, aby [chléb] na jednom prostranství rozděloval každému kvartýrmistrovi {Quartirmeister}, a to postupně, jak stojí v rejstříku {Register}, tak aby to šlo spořádaně jeden po druhém. Tím se zabrání, aby jeden kvartýr {Quartier}[^1] dostal dvakrát, zatímco druhý jednou[^2] nebo vůbec nic. A u kterého se [proviantu] nedostane, ať napůl nebo úplně, u toho se má druhý den, až zase přijde proviant {Prouiant}, opět začít, protože tam naposledy chyběl.
+    Proto jsem na 500 [mužů] ustanovil jednoho proviantmistra {Prouiantmeister}, aby [chléb] na jednom prostranství rozděloval každému kvartýrmistrovi {Quartirmeister}, a to postupně, jak stojí v rejstříku {Register}, tak aby to šlo spořádaně jeden po druhém. Tím se zabrání, aby jeden kvartýr {Quartier}[^1] dostal dvakrát, zatímco druhý jednou[^2] nebo vůbec nic. A u kterého [kvartýru] se [proviantu] nedostane, ať napůl nebo úplně, u toho, kde naposledy chyběl, se má druhý den, až zase přijde proviant {Prouiant}, znovu začít.
 - typ: odstavec
   de: |-
     Vnd wo nun einem jeden Prouiantmeister sein antzal mit der zal vberlieffert/ so soll er alßdan dieselbig wägen mit dem Brot/ die jm zugeordnet sein/ in sein Leger füren/ zu seinen 500. Man/ auff ein sonder platz daselbst vmbschlagen lassen/ vnd das bei die jenigen so darzů/ vnnd inn sein Register gehörig/ nemen/ vnnd allenthalben nach gebür gleichmessig außtheilen/ nach gestalt/ wie er das vom Prouiantherrn empfangen hat.
@@ -19,7 +19,7 @@ bloky:
   de: |-
     Es ist auch wol abzunemen/ daß einer vnder fünffhundert Man/ nicht so füglich als vnder einem tausent oder sechs/ verschlagen kan/ Darzů ists dem obersten Prouiantherrn leichtlicher mit zwei hunderten vmbzugehn/ dieweil sie ordenlich stehn/ dann solte er mit gantzen hauffen zutheilen vnnd zu handeln haben/ bei welchem dann keine ordnung wie ein jeder verstendiger erachten mag/ zuerhalten ist/ Vnd haben dann alle hauffen oder viertheil/ ein jedes der jhren auch darbei/ der versicht ein gantz Quartier/ das nicht ein jeder selbst lauffen darff/ vnd sich bestellen/ sonder hat einen der es für jhn außricht/ vnd bleibt er in seiner rühe vnd Ordnung.
   cs: |-
-    Je také dobře patrné, že mezi pěti sty muži nelze [nic] tak snadno zatajit a odklonit jako mezi tisíci nebo šesti tisíci. Mimo to je pro nejvyššího proviantního pána snazší jednat s dvěma sty,[^3] protože stojí spořádaně, než kdyby měl rozdělovat a jednat s celými houfy {hauffen}, u nichž, jak každý rozumný uzná, nelze žádný pořádek udržet. A všechny houfy nebo čtvrti {viertheil} mají pak každá při sobě i svého člověka, který obstarává celý kvartýr, takže nikdo nemusí sám běhat a [proviant] si obstarávat, nýbrž má někoho, kdo to za něj vyřídí, a sám zůstává v klidu a pořádku.
+    Je také dobře patrné, že mezi pěti sty muži se nikdo nemůže tak snadno ztratit [a podvádět] jako mezi tisíci nebo šesti tisíci.[^3] Mimo to je pro nejvyššího proviantního pána snazší jednat s dvěma sty,[^4] protože stojí spořádaně, než kdyby měl rozdělovat a jednat s celými houfy {hauffen}, u nichž, jak každý rozumný uzná, nelze žádný pořádek udržet. A každý houf nebo čtvrť {viertheil} má pak u sebe i svého člověka, který obstarává celý kvartýr, takže nikdo nemusí sám běhat a [proviant] si obstarávat, nýbrž má někoho, kdo to za něj vyřídí, a sám zůstává v klidu a pořádku.
 - typ: odstavec
   de: |-
     Vnd so nun diß alles (wie gemelt) in wircklicher ordnung ist/ vnd die Prouiant mit dem Brotgang volgt/ so soll auch gantz streng darüber gehalten werden/ das gůt bezalung/ wie die gesetzt von eim jeden Fendlin oder Register ordiniert/ getheilt/ vnd vnderscheiden seind/ beschehe.
@@ -29,7 +29,7 @@ bloky:
   de: |-
     Der Prouiantherr soll auch jhm von einem Prouiantmeister/ so er jn lieffert/ oder gelieffert hat/ sein Handschrifft geben lassen/ damit der Prouiantherr sein Rechnung alle tag ordenlich schliessen mög/ darzů ein gantze Wochen seine Rechnung enden mag/ seinem Herren solliches zůuberantworten haben.
   cs: |-
-    Proviantní pán si má také od každého proviantmistra, kterému [chléb] vydává nebo vydal, dát vystavit vlastnoruční potvrzení {Handschrifft}, aby mohl každý den řádně uzavřít svůj účet a také za celý týden účet ukončit a mít jej čím předložit svému pánovi.
+    Proviantní pán si má také od každého proviantmistra, kterému [chléb] vydává nebo vydal, dát vystavit vlastnoruční potvrzení {Handschrifft}, aby mohl každý den řádně uzavřít svůj účet a také za celý týden účet ukončit a předložit jej svému pánovi.
 - typ: odstavec
   de: |-
     Item/ dem Prouiantherrn sollen Diener gehalten werden/ die auff jn wardten/ vnd das Brot von denen die es bringen/ mit der zal gelieffert nemen/ vnnd denen den es gebürt wider mit der zal lieffern/ die sollen jhre Besoldung daruon haben/ wieuil der sein sollen/ wirt sich nach dem zuschaffen selbst weisen.
@@ -43,5 +43,8 @@ poznamky:
   text: |-
     Tisk má zkomolené *bekmopt* místo *bekompt* (dostane); v originále ponecháno.
 - n: 3
+  text: |-
+    *verschlagen* zde patrně ve smyslu „ukrýt se, ztratit se (v davu)“, tj. vyhnout se dohledu a brát chléb neoprávněně; méně pravděpodobně „zpronevěřit“.
+- n: 4
   text: |-
     Tak tisk („mit zwei hunderten“). Smysl není zcela jasný – snad jde o jednotky po několika stech mužů (srov. výše proviantmistra na 500 mužů), nebo o tiskovou chybu za *fünff hunderten*.

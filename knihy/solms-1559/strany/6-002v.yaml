@@ -2,7 +2,7 @@ id: 6-002v
 list: 2 (6. kniha)
 strana: verso
 sken: 496
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -14,7 +14,7 @@ bloky:
   de: |-
     Item er soll zum ersten mit gůten leuten vnd Reuttern gebraucht vnd geübt sein.
   cs: |-
-    Dále má být především sám zkušený a zběhlý ve vedení dobrých lidí a jezdců.
+    Dále má být především sám zkušený a zběhlý v [zacházení s] dobrými lidmi a jezdci.
 - typ: odstavec
   de: |-
     Item ein jeglicher Körisser soll sein verdeckten Hengst / der darzu dienstlich vnd wercklich sei / haben.

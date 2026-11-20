@@ -2,7 +2,7 @@ id: 6-012v
 list: 12 (6. kniha)
 strana: verso
 sken: 516
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -64,7 +64,7 @@ bloky:
   - ['', 'půl vozu', '7 zl. 3 bacenů']
   - ['', 'suma', '57 zlatých 9 bacenů']
   - ['', 'Vlrich Kitlitz.', '']
-  - ['', 'Dále: měl 89 mil a 27 dní jízdy a stání se 4 koňmi; na každého koně každý den 6 bacenů, činí suma', '46 zl. 6 bacenů']
+  - ['', 'Dále: měl 89 mil a 27 dní jízdy a stání se 4 koňmi; na každého koně každý den 6 bacenů, činí celkem', '46 zl. 6 bacenů']
   - ['součet strany', 'peněz', '345 zlatých 7 bacenů']
   - ['', 'koní', '44']
   - ['', 'trénních koní {Droß}', '2½']

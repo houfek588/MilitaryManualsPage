@@ -2,7 +2,7 @@ id: 7-015r
 list: 15 (7. kniha)
 strana: recto
 sken: 577
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -19,7 +19,7 @@ bloky:
   de: |-
     Nota / sonderlich so schwere die Kugeln wiegen / also schwere soll mann Puluer zu gleichem gewicht mit füren.
   cs: |-
-    Poznámka: zvlášť je třeba vézt s sebou tolik prachu {Puluer}, kolik váží koule {Kugeln}, tedy ve stejné váze.
+    Poznámka: obzvlášť se má s sebou vézt prach {Puluer} ve stejné váze, jakou mají koule {Kugeln}.
 - typ: odstavec
   de: |-
     Damit mann sich aber nit hab zuuerwondern / dieweil der Kugel schwere nach nicht souil puluers zum schiessen genommen vnd geladen wirt / vnd doch dasselbig im vorrat souil die Kugeln wiegen / mit gefürt soll werden / geschicht der vrsachen.
@@ -49,4 +49,4 @@ bloky:
   de: |-
     Deßgleichen so hat man die auch im ziechen neben den zug geordnet / das sie also in gůter ordnung neben dem Kriegßuolck hergangen seind / dieselbigen zu einer seiten für einfal verdeckt haben / daß der Feindt nicht zu allen seiten künde einfallen / das Kriegßuolck zu vbereilen / vnnd durch vil anrennen oder angreiffen / von allen seiten jrr machen / vnd in ein vnordnung oder drennung bringen möchte.
   cs: |-
-    Stejně tak se vozy na pochodu řadily vedle tažného šiku, takže jely v dobrém pořádku vedle válečného lidu a kryly ho z jedné strany proti přepadu. Nepřítel tak nemohl vpadnout ze všech stran, válečný lid zaskočit a častým najížděním či útoky ho ze všech stran zmást a uvést do nepořádku nebo roztržení.
+    Stejně tak se vozová hradba na pochodu řadila vedle tažného šiku, takže jela v dobrém pořádku vedle válečného lidu a kryla ho z jedné strany proti přepadu. Nepřítel tak nemohl vpadnout ze všech stran, válečný lid zaskočit a častým najížděním či útoky ho ze všech stran zmást a uvést do nepořádku nebo roztržení.

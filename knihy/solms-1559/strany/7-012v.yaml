@@ -2,7 +2,7 @@ id: 7-012v
 list: 12 (7. kniha)
 strana: verso
 sken: 572
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,7 +10,7 @@ bloky:
   de: |-
     mit achthundert pferden / Der oberst Veldherr / der Hertzog von Saffoy / seind seiner Herrn vnd Junckern vngefehrlich bei dreihundert / vorn oder hinden / wohin er gewölt hat / verordnet worden.
   cs: |-
-    s osmi sty koňmi. Nejvyššímu válečnému pánovi {oberst Veldherr}, vévodovi Savojskému, bylo z jeho pánů a junkrů {Junckern} přiděleno přibližně tři sta, vpředu nebo vzadu, kde je chtěl mít.
+    s osmi sty koňmi. Nejvyšší válečný pán {oberst Veldherr}, vévoda Savojský: jeho pánů a junkrů {Junckern} bylo přibližně tři sta a byli zařazeni vpředu nebo vzadu, kam to chtěl mít.
 - typ: odstavec
   de: |-
     Auff disen Hauffen zwölff Fendlin Spanier / der von Eberstein mit zehen Fendlein / vnd der von Mega mit zweien Fendlein.
@@ -20,7 +20,7 @@ bloky:
   de: |-
     Der ander Hauff der Printz von Vrania / mit tausent Spiessern sampt etlichen Reuttern neben den Benden / vnd drei Fanen Teutscher Schützen Reutter / etwan in die neunhundert starck.
   cs: |-
-    Druhý houf: princ Oranžský s tisícem kopiníků {Spiessern} spolu s několika jezdci vedle band {Benden} a se třemi korouhvemi {Fanen} německých jízdních střelců {Schützen Reutter}, asi devět set mužů silnými.
+    Druhý houf: princ Oranžský s tisícem kopiníků {Spiessern} spolu s několika jezdci vedle band {Benden} a se třemi korouhvemi {Fanen} německých jízdních střelců {Schützen Reutter} o síle asi devíti set mužů.
 - typ: odstavec
   de: |-
     Darauff der Graue von Arnburg mit neuntzehen Fendlein / Niderländische Knecht.
@@ -60,7 +60,7 @@ bloky:
   de: |-
     Zwei Fendlein Englischen haben auff die Monition gewart.
   cs: |-
-    Dva praporce Angličanů měly na starosti munici {Monition}.
+    Dva praporce Angličanů střežily munici {Monition}.
 - typ: nadpis
   uroven: 3
   de: |-

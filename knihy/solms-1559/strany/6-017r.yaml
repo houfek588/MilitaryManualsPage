@@ -2,13 +2,13 @@ id: 6-017r
 list: 17 (6. kniha)
 strana: recto
 sken: 525
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
   uroven: 2
   de: Brandenburg. Wir Karl/ etc.
-  cs: Brandenburg. My, Karel atd.[^1]
+  cs: Braniborsko. My, Karel atd.[^1]
 - typ: odstavec
   de: |-
     VErzeichnuß/ Stat vnd Articul/ darauff wir den Hochgebornen Albrechten Margrauen zů Brandenburg/ Stettin/ zů Bumern/ der Cassuben vnd Wenden/ Hertzog/ Burggraue zů Nürnberg/ vnd Fürsten zu Rugen/ Vnserm lieben Oheim vnd Fürsten/ zu vnserm Obersten vber ein tausent gerüster pferde vnd Reisigen bestelt haben.
@@ -21,9 +21,9 @@ bloky:
     1 Předně má nám týž náš strýc a kníže, markrabě Albrecht, [přivést] až tisíc dobrých, vyzbrojených jezdců a koní. Mezi nimi má být osm set kopiníků {Spiesser}, z nich nejméně padesát kyrysníků {Kürisser} v celé zbroji {gantzen Parssen}[^2] na krytých hřebcích {verdeckten Hengsten}, a dvě stě střelců {Schützen}.
 - typ: odstavec
   de: |-
-    2 Item die Spiesser sollen mit gůten Helmlin oder Haupthärneschen die gůt Visier haben/ vnnd wol beschlossen seien/ mit stehlen Krägen/ Armzeug/ Rücken/ Krebs/ Schurtz/ Kniegbüglein oder Dielüngen/ oder an der Armzeug stat mit gůten Pantzerermeln sampt stehlen Büglin vnd langen Hendtschůhen/ stehlen krägen mit langen Achsseln/ Deßgleichen die Schützen mit gůten Knebelspiessen/ gůt Feurbüchssen/ die mit aller notturfft vnd starcken schüssen verfast/ auch schurtzermel/ krägen/ Hendschůch/ Rücken vnd Krebsen/ auch gůtem stehlen Hauben gerüst/ gefast vnd geschickt seien.
+    2 Item die Spiesser sollen mit gůten Helmlin oder Hauptharneschen die gůt Visier haben/ vnnd wol beschlossen seien/ mit steheln Krägen/ Armzeug/ Rücken/ Krebs/ Schurtz/ Kniegbüglein oder Dielüngen/ oder an der Armzeug stat mit gůten Pantzerermeln sampt stehlen Büglin vnd langen Hendtschůhen/ stehlen krägen mit langen Achsseln/ Deßgleichen die Schützen mit gůten Knebelspiessen/ gůt Feurbüchssen/ die mit aller notturfft vnd starcken schüssen verfast/ auch schurtzermel/ krägen/ Hendschůch/ Rücken vnd Krebsen/ auch gůtem stehlen Hauben gerüst/ gefast vnd geschickt seien.
   cs: |-
-    2 Dále mají být kopiníci vyzbrojeni dobrými přilbicemi {Helmlin} nebo hlavovou zbrojí {Haupthärneschen} s dobrým hledím {Visier}, dobře uzavřenou, s ocelovými obojky {Krägen}, ochranou paží {Armzeug}, zádovým {Rücken} a prsním plátem {Krebs}, šorcem {Schurtz}, kolenicemi {Kniegbüglein} nebo stehenicemi {Dielüngen}; nebo místo ochrany paží dobrými kroužkovými rukávy {Pantzerermeln} spolu s ocelovými náloketníky {Büglin}[^3] a dlouhými rukavicemi {Hendtschůhen}, ocelovými obojky s dlouhými náramenicemi {Achsseln}. Stejně tak mají být střelci vyzbrojeni, vystrojeni a připraveni s dobrými kopími s příčkou {Knebelspiessen} a dobrými palnými zbraněmi {Feurbüchssen}, opatřenými vším potřebným a silnými ranami, též s kroužkovými rukávy {schurtzermel}, obojky, rukavicemi, zádovým a prsním plátem a také s dobrými ocelovými lebkami {Hauben}.
+    2 Dále mají být kopiníci vyzbrojeni dobrými přilbicemi {Helmlin} nebo hlavovou zbrojí {Hauptharneschen} s dobrým hledím {Visier}, dobře uzavřenou, s ocelovými obojky {Krägen}, ochranou paží {Armzeug}, zádovým {Rücken} a prsním plátem {Krebs}, šorcem {Schurtz}, kolenicemi {Kniegbüglein} nebo stehenicemi {Dielüngen}; nebo místo ochrany paží dobrými kroužkovými rukávy {Pantzerermeln} spolu s ocelovými náloketníky {Büglin}[^3] a dlouhými rukavicemi {Hendtschůhen}, ocelovými obojky s dlouhými náramenicemi {Achsseln}. Stejně tak mají být střelci vyzbrojeni, vystrojeni a připraveni s dobrými kopími s příčkou {Knebelspiessen} a dobrými palnými zbraněmi {Feurbüchssen}, opatřenými vším potřebným i silnými náboji, též s kroužkovými rukávy {schurtzermel}, obojky, rukavicemi, zádovým a prsním plátem a také s dobrými ocelovými lebkami {Hauben}.
 - typ: odstavec
   de: |-
     3 Item vnder disen tausent pferden sollen zwen fanen/ vnd den zwei hundert schützen ein Fendlin gehalten werden.
@@ -38,7 +38,7 @@ bloky:
   de: |-
     5 Item es soll seiner lieb auff derselbigen Leutenant ampts halben/ monatlich ein hundert gulden entricht vnd vergnügt werden.
   cs: |-
-    5 Dále má být Jeho Lásce {lieb} na poručíka {Leutenant} tohoto [vojska] z titulu jeho úřadu měsíčně odvedeno a vyplaceno sto zlatých.
+    5 Dále má být Jeho Lásce {lieb} na jejího poručíka {Leutenant} z titulu jeho úřadu měsíčně odvedeno a vyplaceno sto zlatých.
 - typ: odstavec
   de: |-
     6 Item auff obgemelte ein tausent pferde so also gemustert werden/ soll seiner lieb ein Komormeister/ Quartirmeister/ Wachtmeister/ Prouiantmeister/ Leibartz vnd ein wundtartz gehalten/ vnd monatlich auff ein jeden viertzig gulden bezalt werden.

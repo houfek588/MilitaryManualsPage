@@ -2,7 +2,7 @@ id: 7-006r
 list: 6 (7. kniha)
 strana: recto
 sken: 559
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: obrazek
@@ -31,7 +31,7 @@ bloky:
   - - '1'
     - Hannibal, nejvyšší válečný pán {Oberster Kriegsherr}, se sty koňmi své vlastní dvorské čeledi {Hoffgesind}.[^1]
   - - '2'
-    - Himilkón, nejvyšší mistr dělostřelectva {oberster Artoloreimeister}.
+    - Himilkón, nejvyšší zbrojmistr {oberster Artoloreimeister}.
   - - '3'
     - Hasdrubal, polní hejtman {veldhaptman} neboli poručík {Leutenant}, s padesáti koňmi svých dvorských služebníků {Hoffdiener}.
   - - '4'

@@ -2,7 +2,7 @@ id: 8-007v
 list: 7 (8. kniha)
 strana: verso
 sken: 602
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -34,7 +34,7 @@ bloky:
     - ''
     - 720 krav
   - - 1500 telat
-    - 'Nebo lze vzít:'
+    - 'nebo lze vzít:'
     - 1315 telat[^1]
   - - 300 skopců
     - ''
@@ -98,7 +98,7 @@ poznamky:
     Chyba tisku shodná s Druhou knihou ([[040v|list 40v]]): v pravém sloupci sazeč přenesl čísla skopců a ovcí z týdenní tabulky (280 a 413) a u telat má 1315 místo 1350; pro 3000 centů by odpovídalo 240 volů, 720 krav, 1350 telat, 1200 skopců a 1770 ovcí. Levý sloupec dává přesně 3000 centů.
 - n: 2
   text: |-
-    Dvě krávy váží 300 liber; váhově jim odpovídá teprve 5 telat (180 liber) a k tomu 6 ovcí (120 liber). Druhá kniha ([[040v|list 40v]]) zde také čte spojení „a“ místo „nebo“.
+    Dvě krávy váží 300 liber; váhově jim odpovídá teprve 5 telat (180 liber) a k tomu 6 ovcí (120 liber), nikoli jedno nebo druhé. Druhá kniha ([[040v|list 40v]]) má na tomto místě „fünff Kälber sechs Schaaff“ bez „oder“, tedy pět telat a šest ovcí.
 - n: 3
   text: |-
     Tisk má „3 Hämel 5 schaaff“ (90 + 100 = 190 liber); Druhá kniha ([[041r|list 41]]) má „drei Hämel vnd drei Schaaff“ (150 liber), což váze krávy odpovídá.

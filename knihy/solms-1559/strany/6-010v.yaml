@@ -2,7 +2,7 @@ id: 6-010v
 list: 10 (6. kniha)
 strana: verso
 sken: 512
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -48,7 +48,7 @@ bloky:
       Šest trubačů {drometer}, každému jako přeplatek {vbersold} 12 zlatých {flo.}, činí
     - 72 zl.
   - - '10'
-    - Tři praporečníci {fendrichen}, každému 24 zlatých na jeho úřad, činí
+    - Tři korouhevníci {fendrichen}, každému 24 zlatých na jeho úřad, činí
     - 72 zl.
   - - '11'
     - Hejtmanovi střelců {schützhauptman} na jeho úřad
@@ -82,11 +82,11 @@ bloky:
   de: Vnd laufft sich die samma sampt des Fürsten stat wie obstehet.
   cs: Tak činí úhrnná suma i s knížecím stavem, jak stojí výše.
 - typ: nadpis
-  uroven: 2
+  uroven: 3
   de: |-
     Register des Anreitens/ auch wieuil solches an gelt derer Reutter tregt so vnder dem durchleuchtigen/ hochgebornen Fürsten vnd Herrn/ Herrn Moritzen zu Sachssen/ etc. ziehen/ Durch die wolgebornen/ Edlen/ Vesten Herrn Reinharten Grauen zu Solms/ etc. vnd Christoffeln von Schawenburg/ etc. als verordnete Commissarien/ des 28 tag Mai/ Anno/ etc. gemustert/ biß auff obgemelten tag der Bestallung nach/ Inhalt des Registers abgezalt vnd verglichen.
   cs: |-
-    Rejstřík příjezdu {Anreitens} a také kolik to činí na penězích u jezdců {Reutter}, kteří táhnou pod osvíceným, vysoce urozeným knížetem a pánem, panem Mořicem Saským atd. Urození, vznešení a stateční páni Reinhart hrabě ze Solmsu atd. a Christoffel von Schawenburg atd. je jako ustanovení komisaři {Commissarien} 28. dne května léta atd. přehlédli a až do výše uvedeného dne jim podle služebního listu {Bestallung} a podle obsahu rejstříku vyplatili a vyúčtovali [příjezdné].[^1]
+    Rejstřík příjezdného {Anreitens}, a také kolik činí na penězích u jezdců {Reutter}, kteří táhnou pod osvíceným, vysoce urozeným knížetem a pánem, panem Mořicem Saským atd. Urození, vznešení a stateční páni Reinhart hrabě ze Solmsu atd. a Christoffel von Schawenburg atd. je jako ustanovení komisaři {Commissarien} 28. dne května léta atd. přehlédli a až do výše uvedeného dne jim podle služebního listu {Bestallung} a podle obsahu rejstříku vyplatili a vyúčtovali [příjezdné].[^1]
 - typ: tabulka
   de:
   - - ''
@@ -164,7 +164,7 @@ bloky:
     - 2 zl. 9 bac.
   - - ''
     - na jeden vůz {Wagen}
-    - 9 zl. 9 bac.
+    - 9 zl. 9 bac.[^2]
   - - ''
     - suma
     - 79 zlatých {gulden} 12 bacenů
@@ -190,7 +190,7 @@ bloky:
   - - '3'
     - |-
       Dále: byl 18 dní s 12 koňmi na cestě a ve stání; na každého koně připadá každý den 6 bacenů, činí dohromady
-    - 85 zl. 6 bac.[^2]
+    - 85 zl. 6 bac.[^3]
   - - ''
     - na jednoho trénního koně
     - 3 zlaté 9 bacenů
@@ -218,5 +218,8 @@ poznamky:
   text: |-
     Jedním z přehlídkových komisařů byl sám autor, Reinhard hrabě ze Solmsu. Rejstřík vyúčtovává příjezdné (peníze na cestu k přehlídce) podle dní, kdy jezdci „cestovali a stáli“ (gereist vnd stilgelegen); sazba činí 6 bacenů na zbrojného koně, 3 bacenů na trénního koně a 12 bacenů na vůz denně (15 bacenů = 1 zlatý).
 - n: 2
+  text: |-
+    Za 13 dní by vůz činil 10 zl. 6 bac. (13 × 12 bacenů); tištěných 9 zl. 9 bac. odpovídá 12 dnům. Suma 79 zl. 12 bac. i součet strany 371 zl. 12 bac. s tištěnou částkou souhlasí.
+- n: 3
   text: |-
     Při 18 dnech a 12 koních by mělo vyjít 86 zl. 6 bac. (jako u položky 2) a u vozu 14 zl. 6 bac.; tisk uvádí 85 zl. 6 bac. a 14 zl. 9 bac., suma 103 zl. 9 bac. však s tištěnými čísly souhlasí.

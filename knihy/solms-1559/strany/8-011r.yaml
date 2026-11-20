@@ -2,14 +2,14 @@ id: 8-011r
 list: 11 (8. kniha)
 strana: recto
 sken: 609
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
   de: |-
     Zum sechsten soll mann mit dem Tranck auch auß der Commis mit maß vnd ordnung speissen / einer jeden Person jre zůgehörende geordnet theil / so einer das allein zuhaben begert / geben / wiewol dasselbig schwere ist / aber auff die Rotten zůgeben das ist leichter vnnd richtiger / darumb mag mann das Brot auff die Rotten geben.
   cs: |-
-    Za šesté se má i nápoj z komisu {Commis} vydávat s mírou a v pořádku. Každé osobě, která si přeje mít jej sama pro sebe, se má dát její příslušný stanovený díl, ačkoli je to obtížné; vydávat na roty {Rotten} je však snazší a správnější, a proto lze i chléb vydávat na roty.
+    Za šesté se má i nápoj z komisu {Commis} vydávat s mírou a v pořádku. Každé osobě, která si přeje mít jej sama pro sebe, se má dát její příslušný stanovený díl, ačkoli je to obtížné; vydávat na roty {Rotten} je však snazší a správnější, a proto lze chléb vydávat na roty.
 - typ: odstavec
   de: |-
     Vnd was einem an der Commis außgeben / das soll jm nach außgang an seiner Besoldung abgezogen werden / Vnd sol der Prouiantmeister vber die Commis alle Wochen mit allen Rotten abrechnen / vnd dieselbig Rechnung schliessen / vnd dem Obersten bringen vnd lieffern / darmit der Oberst mit dem Kriegßuolck seine abrechnung machen künde.
@@ -24,12 +24,12 @@ bloky:
   de: |-
     Zum achten so ein Befestung der gestalt were / daß mann mit roß oder handt Möllen malen můst / dann soll mann sich mit Pferden darnach richten souil die Möllen malen künden / vnd sie in der Besatzung bedörffen / darnach auff solche Rechnung vnd maß soll die Rechnung gemacht vnd geordnet werden / Wann aber die Roßmöllen nit gůng malen künden / vnd darbei handtmöllen von nöten / sollen dieselbigen Handtmöllen mit volck die zu treiben versehen / vnd die Rechnung auch darauff wol gemacht werden / vnd in die Rotten getheilt wieuil ein jede malen soll / vnd wann ein Rot außgemalen / daß alßdann nach der Ordnung andere (so derer von nöten) antretten / vnd also weiter nach dem es die notturfft erfordert / Auch soll mann denen so gemalen etlich Brot für jre arbeit geben.
   cs: |-
-    Za osmé, je-li pevnost {Befestung} taková, že se v ní musí mlít na žentourových nebo ručních mlýnech, má se počet koní řídit tím, kolik mohou mlýny semlít a kolik [mouky] posádka {Besatzung} potřebuje; podle takového výpočtu a míry se pak má sestavit a uspořádat celý rozpočet. Nemohou-li však žentourové mlýny semlít dost[^1] a jsou-li k tomu třeba i ruční mlýny, mají se tyto ruční mlýny opatřit lidmi, kteří je budou pohánět. I na to se má udělat dobrý výpočet a rozdělit mezi roty, kolik má která semlít; a když jedna rota domele, mají podle pořadí nastoupit jiné (bude-li jich třeba), a tak dále, jak to potřeba vyžaduje. Těm, kdo mleli, se má za jejich práci dát nějaký chléb.
+    Za osmé, je-li pevnost {Befestung} taková, že se v ní musí mlít na žentourových nebo ručních mlýnech, má se počet koní řídit tím, kolik mohou mlýny semlít a kolik [mouky] posádka {Besatzung} potřebuje; podle takového výpočtu a míry se pak má sestavit a uspořádat rozpočet. Nemohou-li však žentourové mlýny semlít dost[^1] a jsou-li k tomu třeba i ruční mlýny, mají se tyto ruční mlýny opatřit lidmi, kteří je budou pohánět. I na to se má udělat dobrý výpočet a rozdělit mezi roty, kolik má která semlít; a když jedna rota domele, mají podle pořadí nastoupit jiné (bude-li jich třeba), a tak dále, jak to potřeba vyžaduje. Těm, kdo mleli, se má za jejich práci dát nějaký chléb.
 - typ: odstavec
   de: |-
     Zum neunden sollen alle Rotmeister verpflicht sein / so bald auß seiner Rotten einer kranck wirt / vnd nicht wachen oder anders was jm gebürt versehen kan / oder daß er sterben würde / dem Obersten anzeigen / damit er allezeit wiß was sein abgang ist / vnd seine wacht / Prouiant vnnd Platz daran derselbig verordnet gewesen / wider besetze / vnd in seiner Ordnung bleib.
   cs: |-
-    Za deváté mají být všichni rotmistři {Rotmeister} povinni, jakmile v jejich rotě někdo onemocní a nemůže držet stráž {wachen} nebo zastat jinou svou povinnost, anebo kdyby zemřel, ohlásit to plukovníkovi. Ten tak bude vždy vědět, jaký má úbytek, a může znovu obsadit stráž, proviant a místo, k nimž byl dotyčný určen, aby zůstal ve svém pořádku.
+    Za deváté mají být všichni rotmistři {Rotmeister} povinni, jakmile v jejich rotě někdo onemocní a nemůže držet stráž {wachen} nebo zastat jinou svou povinnost, anebo kdyby zemřel, ohlásit to plukovníkovi. Ten tak bude vždy vědět, jaký má úbytek, může znovu obsadit stráž, proviant a místo, k nimž byl dotyčný určen, a udržet svůj řád.
 - typ: odstavec
   de: |-
     Zum zehenden / sol der Oberst mit den wachten oder Zügen ordenliche stundt halten / deßgleichen daß die Garköch vnd Weinzapffen bei zeit zugethan werden / damit die Knecht einander bei nacht nicht vol machen / vnd zur not nichts außrichten künden / Darumb sol der Oberst zeitlich vmbgehen / vnd besehen daß die Ordnung wol gehalten werde / vnd die Knecht vnd Kriegßuolck erinndern was sie zu

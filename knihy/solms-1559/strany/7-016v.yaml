@@ -2,7 +2,7 @@ id: 7-016v
 list: 16 (7. kniha)
 strana: verso
 sken: 580
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -25,17 +25,17 @@ bloky:
   de: |-
     Dann fürwar es ist zugedencken daß solchs von Alten nicht vbel bedacht / wiewol die Krieg vnd derselbigen jetzte Ordnung vnd Regierung anderst / vnd nit in einem solchen gebrauch ist / doch so ist es nit hinzuwerffen oder zuuerachten / dieweil man doch souil besolder wagen im Veld hat vnd haben můß / so macht es doch ein gůt Ordnung / vnd helt gůt maß vnd regierung vnder den wagen / wann sie also auff ein haupt ein auffsehens vnd sorg haben mussen.
   cs: |-
-    Je totiž jistě třeba uvážit, že to předkové nevymysleli špatně. Ačkoli se dnes válčí jinak a dnešní řád a správa války jsou jiné a takový zvyk se už nepoužívá, nemá se to přesto zahazovat ani pohrdat tím. Vždyť se v poli má a musí mít tolik placených vozů; tak to přece dělá dobrý pořádek a udržuje mezi vozy náležitou míru a správu, když musí hledět na jednu hlavu a mít o ni péči.
+    Je totiž jistě třeba uvážit, že to předkové nevymysleli špatně. Ačkoli se dnes válčí jinak a dnešní řád a správa války jsou jiné a takový zvyk se už nepoužívá, nemá se to přesto zahazovat ani pohrdat tím. Protože se v poli má a musí mít tolik placených vozů, vytváří to přece dobrý pořádek a udržuje mezi vozy náležitou míru a správu, když musejí hledět k jedné hlavě a dbát na ni.
 - typ: odstavec
   de: |-
     Vnd so mann dann also wolt sich einer Wagenburg zu dem kriegsuolck zufüren vndernemen / so were allwegen auff hundert wagen die besoldet weren / vier streitwagen zuordnen / als nemlich zwen Wagen mit dreien Hacken / vnd zwen wagen mit schirmen.
   cs: |-
-    Kdyby se tedy někdo chtěl podjat toho, že povede u válečného lidu vozovou hradbu {Wagenburg}, měly by se vždy na sto placených vozů přidělit čtyři bojové vozy, totiž dva vozy se třemi hákovnicemi {Hacken} a dva vozy se štíty {schirmen}.
+    Kdyby se tedy někdo chtěl podjmout toho, že bude s válečným lidem vozit vozovou hradbu {Wagenburg}, měly by se vždy na sto placených vozů přidělit čtyři bojové vozy, totiž dva vozy se třemi hákovnicemi {Hacken} a dva vozy se štíty {schirmen}.
 - typ: odstavec
   de: |-
     Vnd so mann ein Wagenburg schlagen oder schliessen wolt / so mag mann nemen / von den zwei hundert Reißwagen / die acht reißwagen / vnd zwischen die zweihundert Reißwagen / soll mann acht Reißwagen nemen / vnd darmit ein auß kröpffung zwergs vor die Wagen auff einer seiten machen / auff einer seiten zwen wagen vor ein ander / vnd auff der andern seiten auch zwen Streitwagen / vnd allwegen ein Wagen mit doppel hacken / vnd den andern ein schirmwagen / daß also alwegen ein Hackenwagen vnd ein Schirmwagen bei einander stehn auff einer jeden seiten / vnd vnder augen zwischen den seiten Wagen.
   cs: |-
-    A chce-li se rozbít nebo uzavřít vozová hradba, lze vzít z dvou set cestovních vozů {Reißwagen} oněch osm [bojových] vozů; mezi dvě stě cestovních vozů se má vzít osm vozů a udělat z nich napříč před vozy na jedné straně vysunutý zlom {außkröpffung}: na jedné straně dva vozy za sebou a na druhé straně také dva bojové vozy, vždy jeden vůz s dvojitými hákovnicemi {doppel hacken} a druhý štítový vůz {schirmwagen}, takže na každé straně stojí vždy pohromadě jeden vůz s hákovnicemi a jeden štítový vůz, a čelem mezi bočními vozy.[^2]
+    A chce-li se rozbít nebo uzavřít vozová hradba, lze vzít ze dvou set cestovních vozů {Reißwagen} oněch osm [bojových] vozů; mezi dvě stě cestovních vozů se má vzít osm vozů a udělat z nich napříč před vozy na jedné straně vysunutý zlom {außkröpffung}: na jedné straně dva vozy za sebou a na druhé straně také dva bojové vozy, vždy jeden vůz s dvojitými hákovnicemi {doppel hacken} a druhý štítový vůz {schirmwagen}, takže na každé straně stojí vždy pohromadě jeden vůz s hákovnicemi a jeden štítový vůz, a čelem mezi bočními vozy.[^2]
 - typ: odstavec
   de: |-
     Die ander vier Wagen als zwen Hackenwägen / zwen

@@ -2,13 +2,13 @@ id: 7-009r
 list: 9 (7. kniha)
 strana: recto
 sken: 565
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: obrazek
   soubor: drevorez-565.jpg
   popis: |-
-    Obrazové karty pěchoty římské strany (červený tisk), protějšek černých karet na [[7-005v|listu 5v]]; pořadí po řádcích zleva doprava: 1. sevřený čtverhranný šik lancknechtů s lesem vztyčených pík a praporcem; 2. houf pěších knechtů na pochodu, v pozadí krajina s městem, stromem a horami; 3. pochodující pikenýři se sklopenými píkami a praporcem, nahoře písmeno „B“; 4. pěší houf s praporcem, v jehož čele jede velitel na koni; 5. řada pochodujících pikenýrů se vztyčenými píkami, nahoře písmeno „A“; 6. bez rámečku – dva obdélníkové bloky drobných postaviček střelců s ručnicemi na rameni, seřazených v řadách (asi po šesti v devíti řadách). V dolní části strany prosvítají černé textové karty z rubu listu.
+    Obrazové karty pěchoty římské strany (červený tisk), protějšek černých karet na [[7-005v|listu 5v]]; pořadí po řádcích zleva doprava: 1. sevřený čtverhranný šik lancknechtů s lesem vztyčených pík a praporcem; 2. houf pěších knechtů na pochodu, v pozadí krajina s městem, stromem a horami; 3. pochodující pikenýři se sklopenými píkami a praporcem, nahoře písmeno „B“; 4. pěší houf s praporcem, v jehož čele jede velitel na koni; 5. řada pochodujících pikenýrů se vztyčenými píkami, nahoře písmeno „A“; 6. bez rámečku – dva obdélníkové bloky drobných postaviček střelců s ručnicemi na rameni, seřazených v řadách (asi po šesti v devíti řadách). V dolní části strany prosvítají (zrcadlově a šedě) červené textové karty z rubu listu ([[7-009v|list 9v]]).
 - typ: tabulka
   de:
   - - '3'

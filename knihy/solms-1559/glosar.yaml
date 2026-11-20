@@ -97,7 +97,6 @@ hesla:
   - generální polní kapitán
   - generální polní hejtman
   - generální velitel
-  - vrchní velitel
   kategorie: velitele
   hledat:
   - nejvyšší\w* poln\w* hejtman
@@ -117,7 +116,7 @@ hesla:
   kategorie: velitele
   hledat:
   - plukovní[kc]
-  pozn: "Velitel pluku (Regiment) – v dobové češtině též „obrist“. Samostatné Oberst / Oberster / Obersten se v této edici překládá vždy „plukovník“, i tam, kde Solms míní vrchního velitele celého vojska (Oberster vber alle Reutter = plukovník nade vší jízdou). Složeniny jako Oberster Feldhauptman (nejvyšší polní hejtman) nebo Oberster Zeugmeister (nejvyšší zbrojmistr) mají vlastní hesla."
+  pozn: "Velitel pluku (Regiment) – v dobové češtině též „obrist“. Samostatné Oberst / Oberster / Obersten se v této edici překládá vždy „plukovník“, i tam, kde Solms míní vrchního velitele celého vojska (Oberster vber alle Reutter = plukovník nade vší jízdou). Složeniny jako Oberster Feldhauptman (nejvyšší polní hejtman) nebo Oberster Zeugmeister (nejvyšší zbrojmistr) mají vlastní hesla. Výjimka: v Deváté knize (Burgundský řád Filipa Klévského) se Oberst ve smyslu vrchního velitele celého vojska překládá „vrchní velitel“."
 - id: polni-marsalek
   cs: polní maršálek
   de:
@@ -201,7 +200,7 @@ hesla:
   kategorie: velitele
   hledat:
   - prapore[čc]ní
-  pozn: Nositel praporce (dobově „fendrych“); ručil za korouhev životem a byl třetím mužem praporce po hejtmanovi a poručíkovi.
+  pozn: "Nositel praporce (dobově „fendrych“); ručil za korouhev životem a byl třetím mužem praporce po hejtmanovi a poručíkovi. U jízdy (Šestá kniha Solmse) se Fendrich překládá „korouhevník“."
 - id: sikovatel
   cs: šikovatel
   de:
@@ -887,6 +886,8 @@ hesla:
   - Trosfern
   - Trosser buben
   - Trossern
+  - Droß
+  - droß
   nepouzivat:
   - týlový doprovod
   kategorie: sluzba
@@ -2165,8 +2166,6 @@ hesla:
   - Troßpferdt
   - Troßpferden
   - 'Drosser'
-  - 'Droß'
-  - 'droß'
   kategorie: sluzba
   hledat:
   - trénn\w* (kon|koň|kůň)
@@ -5571,7 +5570,7 @@ hesla:
 - id: karetni-hra
   cs: karetní hra
   de: ['Kartenspiel', 'Kartenspiels']
-  kategorie: osoby
+  kategorie: sluzba
   hledat: ['karetn\w* hr']
   pozn: "Kartenspiel – Solmsova „válečná karetní hra“ (Sedmá kniha): karty představují úřady, oddíly, děla a vozy dvou vojsk (Hannibal proti Scipionovi) a slouží k nácviku sestavování šiku a ležení."
 - id: bojovy-vuz

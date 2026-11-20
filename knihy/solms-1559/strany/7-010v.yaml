@@ -2,29 +2,45 @@ id: 7-010v
 list: 10 (7. kniha)
 strana: verso
 sken: 568
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: obrazek
   soubor: drevorez-568.jpg
   popis: |-
-    Posledních osm červeně tištěných karet římské strany ve dvou sloupcích: vlevo děla (těžké kulveriny, polní kulveriny, čtvrteční kulveriny, falkonety), vpravo vozy a zařízení vojska (lodní mosty, vozy vozové hradby, obyčejné válečné vozy, muniční vozy). Sestava je shodná s kartáginskými kartami na [[7-007r|listu 7]]. Přepis a překlad nápisů viz tabulka.
+    Posledních osm červeně tištěných textových karet římské strany v orámovaných polích ve dvou sloupcích: vlevo děla (těžké kulveriny, kulveriny, čtvrteční kulveriny, falkonety), vpravo vozy a zařízení vojska (lodní mosty, vozy vozové hradby, obyčejné válečné vozy, vozy s municí). Sestava je shodná s kartáginskými kartami na [[7-007r|listu 7]]; přes papír prosvítají nápisy z rubu listu. Přepis a překlad nápisů viz tabulka (pořadí po řádcích zleva doprava).
 - typ: tabulka
   de:
-  - - Vier Notschlangen.
-  - - Schiffbrücken.
-  - - Acht Veldschlangen.
-  - - Wagenburgwagen.
-  - - Acht quartirschlangen.
-  - - Gemeine Heerwagen.
-  - - Zehen Falconetlin.
-  - - Monition wagen.
+  - - '1'
+    - Vier Notschlangen.
+  - - '2'
+    - Schiffbrücken.
+  - - '3'
+    - Acht Veldschlangen.
+  - - '4'
+    - Wagenburgwagen.
+  - - '5'
+    - Acht quartirschlangen.
+  - - '6'
+    - Gemeine Heerwagen.
+  - - '7'
+    - Zehen Falconetlin.
+  - - '8'
+    - Monition wagen.
   cs:
-  - - Čtyři těžké kulveriny {Notschlangen}.
-  - - Lodní mosty {Schiffbrücken}.
-  - - Osm polních kulverin {Veldschlangen}.
-  - - Vozy vozové hradby {Wagenburgwagen}.
-  - - Osm čtvrtečních kulverin {quartirschlangen}.
-  - - Obyčejné válečné vozy {Heerwagen}.
-  - - Deset falkonetů {Falconetlin}.
-  - - Muniční vozy {Monition wagen}.
+  - - '1'
+    - Čtyři těžké kulveriny {Notschlangen}.
+  - - '2'
+    - Lodní mosty {Schiffbrücken}.
+  - - '3'
+    - Osm kulverin {Veldschlangen}.
+  - - '4'
+    - Vozy vozové hradby {Wagenburgwagen}.
+  - - '5'
+    - Osm čtvrtečních kulverin {quartirschlangen}.
+  - - '6'
+    - Obyčejné válečné vozy {Heerwagen}.
+  - - '7'
+    - Deset falkonetů {Falconetlin}.
+  - - '8'
+    - Vozy s municí {Monition wagen}.

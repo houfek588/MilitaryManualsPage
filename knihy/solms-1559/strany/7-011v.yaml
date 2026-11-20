@@ -2,7 +2,7 @@ id: 7-011v
 list: 11 (7. kniha)
 strana: verso
 sken: 570
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -51,8 +51,8 @@ bloky:
     - 450 koní.
   - - Černí jízdní střelci pana Johanna z Beurnu
     - 300 koní.
-  - - Hrabě Günter ze Schwartzenbergu, plukovník nad
-    - 1150 koni.[^4]
+  - - Hrabě Günter ze Schwarzenbergu, plukovník nad
+    - 1150 koňmi.[^4]
   - - Moritz Frieß
     - 500 koní.
   - - Lienhart Kotz
@@ -61,7 +61,7 @@ bloky:
     - 300 koní.
   - - Dále don Luis de Ávila, plukovník nad
     - 1000 lehkými koňmi.[^5]
-  - - Dále střelci s dlouhými hlavněmi {Rorn}
+  - - Dále střelci s dlouhými ručnicemi {Rorn}
     - 400 lehkých koní.
   - - Dále anglická lehká jízda {geringe Pferdt}
     - 300.

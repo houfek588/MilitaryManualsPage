@@ -2,7 +2,7 @@ id: 6-023r
 list: 23 (6. kniha)
 strana: recto
 sken: 537
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -10,26 +10,26 @@ bloky:
   - - Johan von Münster.
     - ''
   - - |-
-      Item ist den 17 Mai mit 2 pferden angezogen / thůt biß auff den 5 Junij 19 tag / vnd ein Roß ein tag zu 6 batzen / thůt
+      Item ist den 17 Mai mit 2 pferden angezogen/ thůt biß auff den 5 Junij 19 tag/ vnd ein Roß ein tag zu 6 batzen/ thůt
     - 15 flo. 3 ba.
   - - Christoffel Hirschheider.
     - ''
   - - |-
-      Item ist den 19 Mai mit 1 pferde angezogen / thůt biß auff den 5 Junij 17 tag / macht ein pferde zu 6 batzen
+      Item ist den 19 Mai mit 1 pferde angezogen/ thůt biß auff den 5 Junij 17 tag/ macht ein pferde zu 6 batzen
     - 6 flo. 12 batzen.
   - - Steffan von Hellern.
     - ''
   - - |-
-      Item ist den 17 Mai mit 6 pferden angezogen / thůt biß auff den 5 Junij 19 tag / macht auff jedes pferd ein tag zu 6 batzen
+      Item ist den 17 Mai mit 6 pferden angezogen/ thůt biß auff den 5 Junij 19 tag/ macht auff jedes pferd ein tag zu 6 batzen
     - 45 flo. 9 ba.
-  - - Ein halben Wagen zu 12 batzen / thůt
+  - - Ein halben Wagen zu 12 batzen/ thůt
     - 7 gulden 9 batzen.
   - - Summa 53 gulden 3 batzen.
     - ''
-  - - Hanß Burckhart von Hanhofer / vnd Braun Wirtzberger.
+  - - Hanß Burckhart von Hanhofer/ vnd Braun Wirtzberger.
     - ''
   - - |-
-      Item sind den 18 Mai angezogen mit 11 pferden / thůt biß vff den 5 Junij 18 tag / ein jeden tag 6 batzen auffs pferd / macht
+      Item sind den 18 Mai angezogen mit 11 pferden/ thůt biß vff den 5 Junij 18 tag/ ein jeden tag 6 batzen auffs pferd/ macht
     - 79 flo 3 batz.
   - - 1 Wagen
     - 14 gulden 6 batzen.
@@ -44,7 +44,7 @@ bloky:
   - - Einspennigen.
     - ''
   - - |-
-      Item sind den 17 Mai angezogen mit 7 pferden / thůt biß auff den 5 Junij 19 tag / macht auff jedes pferd zu 6 batzen /
+      Item sind den 17 Mai angezogen mit 7 pferden/ thůt biß auff den 5 Junij 19 tag/ macht auff jedes pferd zu 6 batzen /
     - 53 gulden 3 batzen.
   - - Ein halben Wagen
     - 7 gulden 9 batzen.
@@ -53,7 +53,7 @@ bloky:
   - - Landtgraue Christoffel von Leuchtenberg.
     - ''
   - - |-
-      Item ist den 19 Mai mit 15 pferden angezogen / thůt biß auff den 5 Junij 17 tag / macht auff jedes pferd allen tag zu 6 batzen /
+      Item ist den 19 Mai mit 15 pferden angezogen/ thůt biß auff den 5 Junij 17 tag/ macht auff jedes pferd allen tag zu 6 batzen /
     - 102 gulden.
   - - Anderthalben Wagen
     - 20 gulden 6 batzen.
@@ -62,7 +62,7 @@ bloky:
   - - Graue Poppo von Hennenberg.
     - ''
   - - |-
-      Item ist den 19 Mai angezogen mit 16 pferden / thůt biß auff den 5 Junij 17 tag / macht jedes pferd jeden tag zu 6 patzen /
+      Item ist den 19 Mai angezogen mit 16 pferden/ thůt biß auff den 5 Junij 17 tag/ macht jedes pferd jeden tag zu 6 patzen /
     - 108 flo. 12 batzen.
   - - Zwen wagen
     - 27 gulden 3 patzen.
@@ -74,10 +74,10 @@ bloky:
     - '38'
   - - Summa lat. Wagen.
     - '4'
-  - - Eucarus von Egloffstein mit dem Nothafft / vnd Philips von Streitberg.
+  - - Eucarus von Egloffstein mit dem Nothafft/ vnd Philips von Streitberg.
     - ''
   - - |-
-      Item sind 17 tag mit 29 pferden gereist vnnd stilgelegen / thůt auff jedes pferde ein tag zu 6 patzen /
+      Item sind 17 tag mit 29 pferden gereist vnnd stilgelegen/ thůt auff jedes pferde ein tag zu 6 patzen /
     - 197 gulden 3 patzen.
   - - Drithalben Wagen
     - 34 gulden.
@@ -85,7 +85,7 @@ bloky:
   - - Johan von Münster
     - ''
   - - |-
-      Dále: vytáhl 17. května se 2 koňmi; to činí do 5. června 19 dní, a koně na den po 6 bacenech {batzen}; to činí
+      Dále: vytáhl 17. května se 2 koňmi; to činí do 5. června 19 dní, a za koně na den po 6 bacenech {batzen}; to činí
     - 15 zl. 3 bac.
   - - Christoffel Hirschheider
     - ''
@@ -164,4 +164,4 @@ poznamky:
   text: Tisková chyba *gudlen* za *gulden*.
 - n: 3
   text: |-
-    Součet dílčích úhrnů strany (60 zl. 12 bac. + 122 zl. 6 bac. + 136 zl.) dává 319 zl. 3 bac.; tisk má 329 zl. 3 bac.
+    Součet dílčích úhrnů strany (60 zl. 12 bac. + 122 zl. 6 bac. + 136 zl.) dává 319 zl. 3 bac.; tisk má 329 zl. 3 bac. Celkový součet na [[6-027r|s. 6-027r]] počítá se správnou částkou.

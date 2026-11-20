@@ -2,7 +2,7 @@ id: 6-013v
 list: 13 (6. kniha)
 strana: verso
 sken: 518
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -82,7 +82,7 @@ bloky:
   - ['Úhrn všech peněz za koně, trénní koně a vozy činí celkem', '610 zlatých 1½ bacenu']
 poznamky:
 - n: 1
-  text: Součet strany za položky 3–6 (Christoffel von Bortzfelt až Rudolff von Bortzfelt). Tištěná částka 139 zl. 6 bac. je totožná se součtem položek 7–10 níže a s položkami 3–6 (dohromady 237 zl. 9 bac.) nesouhlasí; počty koní, trénních koní a vozů sedí. Číselné nesrovnalosti tohoto rejstříku nelze z tisku plně rozřešit.
+  text: Součet strany za položky 3–6 (Christoffel von Bortzfelt až Rudolff von Bortzfelt). Tisková chyba – tištěná částka 139 zl. 6 bac. je převzata ze součtu položek 7–10 níže; položky 3–6 dávají 237 zl. 9 bac. Správnost této hodnoty potvrzuje celkový součet (157 zl. 7½ bac. + 237 zl. 9 bac. + 139 zl. 6 bac. + 75 zl. 9 bac. = 610 zl. 1½ bac.). Počty koní, trénních koní a vozů sedí.
 - n: 2
   text: Tisk „Jost von Altar Mandelsa“ se slovesem v množném čísle („haben … sind“); jde patrně o Josta von Alten a [Gieße] von Mandelsen z přehlídkového lístku Henickena von Bortzfelt [[6-009r|na listu 9]]. Položka neuvádí počet koní.
 - n: 3

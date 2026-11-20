@@ -2,7 +2,7 @@ id: 7-002v
 list: 2 (7. kniha)
 strana: verso
 sken: 552
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -25,12 +25,12 @@ bloky:
   de: |-
     Deßgleichen auch alle Obersten die das Fußuolck füren.
   cs: |-
-    Rovněž všichni plukovníci, kteří vedou pěchotu {Fußuolck}.
+    Stejně tak [jména] všech plukovníků, kteří vedou pěchotu {Fußuolck}.
 - typ: odstavec
   de: |-
     Also die Obersten auch die die Regimenter füren/ als zehen weniger oder mehr Fendlin/ wie dann ein jeglicher hat.
   cs: |-
-    Tak také plukovníci, kteří vedou pluky {Regimenter}, totiž deset, méně nebo více praporců, jak kdo má.
+    Rovněž [jména] plukovníků, kteří vedou pluky {Regimenter}, totiž deset, méně nebo více praporců, jak kdo má.
 - typ: odstavec
   de: |-
     Vnd dieweil dann die beschreibung der Karten jre namen/ wie gemelt ein jeden mit seiner summen mitbringt/ vnnd die zall auch darbei haben/ so sind etliche namen zum Exempel auß den Kriegs Historien vnd Büchern genomen/ vnd einem jeden ein beuelch geordnet/ wiewol sie solche Ampter zu jren Kriegs zeiten nicht gehabt/ sonder allein zum Exempel hernach gesetzt vnd genommen werden/ dann mann des gewisse erklerung in den Historien findt/ daß solche Ampter bei jren zeiten nicht gewesen sind/ wie wir jetzund brauchen/ darumb es keinen verwondern soll solche namen hieher zu setzen/ dann soll ich deren so jetzund lebend vnd Kriegßleut sind namen darbei setzen/ wann er dann ein grosser Ampt bekeme/ würds jn verdiessen/ dann ein jeder gern der höchst geacht vnnd den höchsten beuelch haben will.
@@ -40,7 +40,7 @@ bloky:
   de: |-
     Derhalben hab ich das in der Römer vnd anderer Nation obersten vnd beuelchßleut namen geordnet/ dann jhrer vil sind/ vnnd die Krieg vnd Ordnung auch von jnen herkommen/ vnd vnsern kriegßleuten nichts nimpt oder gibt.
   cs: |-
-    Proto jsem to uspořádal na jménech plukovníků a velitelů {beuelchßleut} Římanů a jiných národů, neboť je jich mnoho a války i šiky pocházejí také od nich; a našim válečníkům to nic nebere ani nedává.
+    Proto jsem k tomu použil jména plukovníků a velitelů {beuelchßleut} Římanů a jiných národů, neboť je jich mnoho a války i šiky pocházejí také od nich; a našim válečníkům to nic nebere ani nedává.
 poznamky:
 - n: 1
   text: |-

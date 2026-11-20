@@ -2,7 +2,7 @@ id: 6-023v
 list: 23 (6. kniha)
 strana: verso
 sken: 538
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -12,7 +12,7 @@ bloky:
   - - Hanß Ochs.
     - ''
   - - |-
-      Item ist den 19 Mai mit 14 pferden angezogen / thůt biß auff den 5 Junij 17 tag / vnd ein Roß ein tag zu 6 batzen / thůt
+      Item ist den 19 Mai mit 14 pferden angezogen/ thůt biß auff den 5 Junij 17 tag/ vnd ein Roß ein tag zu 6 batzen/ thůt
     - 95 flo. 3 ba.
   - - 1 Wagen
     - 13 gulden 9 batzen.
@@ -21,14 +21,14 @@ bloky:
   - - Hanß Conradt von Berlingen.
     - ''
   - - |-
-      Item ist den 19 Mai mit 4 pferden angezogen / thůt biß auff den 5 Junij 17 tag / macht ein pferde zu 6 batzen
+      Item ist den 19 Mai mit 4 pferden angezogen/ thůt biß auff den 5 Junij 17 tag/ macht ein pferde zu 6 batzen
     - 27 flo. 3 batzen.
   - - Summa per se
     - ''
   - - Hanß Dieterich von Absperg.
     - ''
   - - |-
-      Item ist den 19 Mai mit 8 pferden angezogen / thůt biß auff den 5 Junij 17 tag / macht auff jedes pferd ein tag zu 6 batzen
+      Item ist den 19 Mai mit 8 pferden angezogen/ thůt biß auff den 5 Junij 17 tag/ macht auff jedes pferd ein tag zu 6 batzen
     - 54 flo. 6 ba.
   - - 1 Wagen
     - 13 gulden 9 batzen.
@@ -43,14 +43,14 @@ bloky:
   - - Hanß Herdegen.
     - ''
   - - |-
-      Item ist den 19 Mai angezogen / thůt biß auff den 5 Junij anreitens vnd stilligen 17 tag / vnd auff jedes pferd 6 batzen / machen 5 pferde an gelt zusamen
+      Item ist den 19 Mai angezogen/ thůt biß auff den 5 Junij anreitens vnd stilligen 17 tag/ vnd auff jedes pferd 6 batzen/ machen 5 pferde an gelt zusamen
     - 34 gulden.
   - - Summa per se.
     - ''
   - - Hanß Fortsch.
     - ''
   - - |-
-      Item ist den 19 Mai angezogen mit 7 pferden biß vff den 5 Junij / macht ein jeden tag zu 6 batzen auffs pferd gerecht /
+      Item ist den 19 Mai angezogen mit 7 pferden biß vff den 5 Junij/ macht ein jeden tag zu 6 batzen auffs pferd gerecht /
     - 47 gulden 9 batz.
   - - Haben beide ein Wagen
     - 13 gulden 9 batzen.
@@ -59,14 +59,14 @@ bloky:
   - - Hanß Caspar von Wirßberg.
     - ''
   - - |-
-      Item ist den 18 Mai mit 8 pferden angezogen biß vff den 5 Junij / macht auff jedes pferd allen tag zu 6 batzen /
+      Item ist den 18 Mai mit 8 pferden angezogen biß vff den 5 Junij/ macht auff jedes pferd allen tag zu 6 batzen /
     - 57 gulden 9 batzen.
   - - Summa per se.
     - ''
   - - Christoffel Philips von Wirßberg.
     - ''
   - - |-
-      Item ist den 18 Mai angezogen mit 7 pferden biß vff den 5 Junij / macht auff jedes pferd jeden tag zu 6 batzen /
+      Item ist den 18 Mai angezogen mit 7 pferden biß vff den 5 Junij/ macht auff jedes pferd jeden tag zu 6 batzen /
     - 50 gulden 6 batzen.
   - - Haben beide ein wagen
     - 14 gulden 6 batzen.
@@ -84,11 +84,11 @@ bloky:
   - - Hanß Ochs
     - ''
   - - |-
-      Dále: vytáhl 19. května se 14 koňmi; to činí do 5. června 17 dní, a koně na den po 6 bacenech {batzen}; to činí
+      Dále: vytáhl 19. května se 14 koňmi; to činí do 5. června 17 dní, a za koně na den po 6 bacenech {batzen}; to činí
     - 95 zl. 3 bac.
   - - 1 vůz
     - 13 zl. 9 bac.
-  - - Úhrnem 108 zl. 12 bac.
+  - - Úhrnem 108 zl. 12 bac.[^1]
     - ''
   - - Hanß Conradt von Berlingen
     - ''
@@ -144,7 +144,7 @@ bloky:
     - 14 zl. 6 bac.
   - - Úhrnem 64 zl. 12 bac.
     - ''
-  - - 'součet strany: peníze[^1]'
+  - - 'součet strany: peníze[^2]'
     - 227 zl. 9 bac.
   - - 'součet strany: koně'
     - '27'
@@ -152,5 +152,7 @@ bloky:
     - '2'
 poznamky:
 - n: 1
+  text: Tisková chyba *gudlen* za *gulden*.
+- n: 2
   text: |-
-    Součet dílčích úhrnů (34 + 61 zl. 3 bac. + 57 zl. 9 bac. + 64 zl. 12 bac.) dává 217 zl. 9 bac.; tisk má 227 zl. 9 bac. První úhrn strany (435 zl. 3 bac.) je správný.
+    Součet dílčích úhrnů (34 + 61 zl. 3 bac. + 57 zl. 9 bac. + 64 zl. 12 bac.) dává 217 zl. 9 bac.; tisk má 227 zl. 9 bac. Celkový součet na [[6-027r|s. 6-027r]] počítá se správnou částkou. První úhrn strany (435 zl. 3 bac.) je správný.

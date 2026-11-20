@@ -2,7 +2,7 @@ id: 8-010v
 list: 10 (8. kniha)
 strana: verso
 sken: 608
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,12 +10,12 @@ bloky:
   de: |-
     erlangen dienen / sonder dardurch Gott hoch erzörnet wirt / wann wir dann Gott so hoch erzörnen / so dörffen wir vns keiner gnade / trost noch hilff versehen / Darumb soll die Gottßlesterung gar nicht zůgelassen / sonder hart gestrafft werden / dann Gott solt durch einen Gottßlesterer so der vnder einem hauffen were / vnd jhm gestat vnd zůgelassen würde / den gantzen Hauffen straffen / Derhalben soll solches der fürnemblichst vnd erst Artickel sein zu straffen.
   cs: |-
-    milosti, nýbrž se jím Bůh těžce hněvá. A když Boha tak těžce rozhněváme, nemůžeme očekávat žádnou milost, útěchu ani pomoc. Proto se rouhání nemá vůbec trpět, nýbrž přísně trestat; neboť kdyby byl v houfu {hauffen} jediný rouhač a trpělo a dovolovalo se mu to, Bůh by pro něho mohl potrestat celý houf. Proto má být tento článek {Artickel} trestán jako nejpřednější a první.
+    milosti, nýbrž se jím Bůh těžce hněvá. A když Boha tak těžce rozhněváme, nemůžeme očekávat žádnou milost, útěchu ani pomoc. Proto se rouhání nemá vůbec trpět, nýbrž přísně trestat; neboť kdyby byl v houfu {hauffen} jediný rouhač a trpělo a dovolovalo se mu to, Bůh by pro něho mohl potrestat celý houf. Proto má být rouhání prvním a nejpřednějším článkem {Artickel}, který se trestá.
 - typ: odstavec
   de: |-
     Der ander Artickel ist daß mann die Prouiant mit gleicher maß außtheil vnd wol ordne / einer jeden Personen zugeben / darnach mann mit dem vorrat gefast ist.
   cs: |-
-    Druhý článek je, aby se proviant {Prouiant} rozděloval stejnou mírou a dobře rozvrhl, kolik se má dát každé osobě, podle toho, jak velkou zásobou se disponuje.
+    Druhý článek je, aby se proviant {Prouiant} rozděloval stejnou mírou a dobře rozvrhl, kolik se má dát každé osobě, podle toho, jakou zásobou je [posádka] opatřena.
 - typ: odstavec
   de: |-
     Zum dritten soll das vberflüssig zůtrincken das einer vber not ein tag trincket da er wol zwen mit gnůg hett / vnd dardurch vngeschickt mit allen lastern wirt / vnd nichts darbei außrichten kan / verbotten sein / Dann mann sagt / daß einem truncken Man nichts zu beuelhen nach zuuertrawen / dann er seiner nit allezeit mechtig sei / welchs ein grosser mangel in zeit der not ist.
@@ -30,4 +30,4 @@ bloky:
   de: |-
     Zum fünfften soll der Oberst ein Garkoch ordnen / der dem kriegßvolck / die nit eigen Köche halten künden / jre liefferung so mann jnen auß der Commis gibt / vmb ein gesatzts kochen / deßgleichen soll solchem Garkoch sein gebürentes vnnd zu der notturfft Holtz auß der Commis gelieffert werden / Doch sol mann (so derer von nöten) andere Garköch haben / die jre eigene Köche halten / vnd vmb den pfenning oder Malzeit geben / denen soll mann auch auß der Commis für jre bezallung lieffern / so das am vorrat vorhanden / das kompt dem Herrn der Besatzung wider zu gůtem / Wolt aber ein Koch seine Prouiant selber bestellen / das mag ein Oberster jm zulassen / doch daß er sich vnder seinem Regiment halt.
   cs: |-
-    Za páté má plukovník ustanovit polního kuchaře {Garkoch}, který válečnému lidu {kriegßvolck}, jenž si nemůže držet vlastní kuchaře, uvaří za stanovenou platbu dávku, kterou mu vydávají z komisu {Commis}. Tomuto kuchaři se má z komisu dodávat také náležité a potřebné dříví. Bude-li toho zapotřebí, má se mít i více takových kuchařů, kteří si drží vlastní kuchaře a vydávají jídlo za peníze či po jednotlivých jídlech; i těm se má z komisu dodávat za úplatu, je-li to v zásobě, a to pánovi posádky zase přijde k užitku. Kdyby si však některý kuchař chtěl proviant opatřovat sám, může mu to plukovník dovolit, avšak tak, aby se držel jeho řádu {Regiment}.
+    Za páté má plukovník ustanovit polního kuchaře {Garkoch}, který válečnému lidu {kriegßvolck}, jenž si nemůže držet vlastní kuchaře, uvaří za stanovenou platbu dávku, kterou mu vydávají z komisu {Commis}. Tomuto kuchaři se má z komisu dodávat také náležité a potřebné dříví. Bude-li toho zapotřebí, mají se mít i další polní kuchaři {Garköch}, kteří si drží vlastní kuchaře a prodávají jídlo za peníze nebo po jednotlivých jídlech; i těm se má z komisu dodávat za úplatu, je-li to v zásobě, a to pánovi posádky zase přijde k užitku. Kdyby si však některý kuchař chtěl proviant opatřovat sám, může mu to plukovník dovolit, avšak tak, aby se podřizoval jeho řízení.

@@ -142,3 +142,25 @@ klepr, ochranný list, trojčlenka, sekané železo, správce sýpky, zemské st
 - Kniha 5: význam *Ziegel*, *Focher*, *Gytter*; jméno *Asthauer* (tisková chyba za Aschawer?); úroveň nadpisů srubů;
   nově oddělený odstavec „Mit den Wagen…“ (5-015v, lze vrátit); chyba tisku 1461 Achtel (správně asi 2 511).
 - Celá kniha: v `de` se střídá zápis lomítka „slovo / slovo“ a „slovo/ slovo“ (podle předlohy přepisu) – nesjednoceno.
+
+## Šestá až Devátá kniha – přepis, překlad a revize (2026-11-18/19)
+
+Nově zařazeno 184 stran (skeny 491–681): kostry `nastroje/solms_kostry_6_9.py`, zadání `zdroje/ZADANI_PREKLAD_6_9.md`,
+zprávy překladu `zdroje/kontrola/preklad-6-A … 9-C.md` a revize `zdroje/kontrola/revize2-kniha6-A … 9-C.md`.
+Prázdné strany 492, 548, 584, 586, 588, 618, 620 a listy 682–687 se nezařazují.
+
+**Rozhodnutí a sjednocení:** výjimka autora – v Deváté knize *Oberst* ve smyslu vrchního velitele celého vojska =
+„vrchní velitel“ (9-004v, 9-005v, 9-007v, 9-011r, 9-018v); *Fendrich* u jízdy = korouhevník; *Durchleuchtig* (knížata) = osvícený; *Drosser* = trénní
+kůň, *Droß* (souhrnně) = trén; *Summa lat.* = součet strany; *Veldoberster* = polní plukovník; karty Sedmé knihy =
+obrázek + tabulka nápisů s překladem; v Šesté knize „Drosser wägen“ = „kvůli trénním koním“ (ne vozy, 6-015v/6-016v).
+
+**Otevřená místa k rozhodnutí:**
+- *General Obersten* (Sedmá kniha) přeloženo „generální plukovník“ – zvážit.
+- *Scharwacht* v Deváté knize = noční stráž po dvojicích před ležením (glosář: „obchůzka“).
+- 6-002r: tisk má *Ritmeister*, smysl (½ zl. na koně) ukazuje na rotmistra – v překladu „rotmistr“ s poznámkou.
+- *vberleng* (Šestá kniha): „přespočetní koně“ – nejspíš tažní koně k vozům navíc; *Einrosser* bez vlastního hesla.
+- Nesouhlasné součty v rejstřících Šesté knihy (6-007v, 6-008v, 6-013v–6-015v, 6-023r–6-026r) – vysvětleno v poznámkách.
+- Osmá kniha: *auff 100. gerechnet*, *in. 84.* (asi 48), *zwei hunderten*, *verschlagen*; chybějící vyobrazení vrhacího stroje.
+- Devátá kniha: *redt/redung*, *Puluer dareinn*, místo *Culffer*, *Naplos* (= Neapol?), *gab noch zeit*, „tři nebo čtyři muže“
+  (9-008v, snad vypadlo *hundert*), *Leuttenant* u admirála; kustos 9-024v nenavazuje, chybná foliace listů 23 a 30.
+- Sedmá kniha: téměř zdvojený odstavec o 4000 knechtech (7-002r), součet 1970 místo 2000 koní (7-001v), význam karet A/B.

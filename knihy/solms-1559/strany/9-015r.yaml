@@ -2,7 +2,7 @@ id: 9-015r
 list: 15 (9. kniha)
 strana: recto
 sken: 649
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,7 +10,7 @@ bloky:
   de: |-
     fleiß haben / das Leger eben als wol beuestiget seie an dem ort / so inn das weit Feld geht als das gegen der Stat mit gräben / Wagenburgen / Wehrn vnd andern sachen die darzů dienstlich seind.
   cs: |-
-    dbát, aby ležení {Leger} bylo na straně obrácené do otevřeného pole opevněno stejně dobře jako na straně k městu, a to příkopy {gräben}, vozovými hradbami {Wagenburgen}, náspy {Wehrn} a jinými věcmi, které k tomu slouží.
+    dbát, aby ležení {Leger} bylo na straně obrácené do otevřeného pole opevněno stejně dobře jako na straně k městu, a to příkopy {gräben}, vozovými hradbami {Wagenburgen}, obrannými stavbami {Wehrn} a jinými věcmi, které k tomu slouží.
 - typ: odstavec
   de: |-
     Jr solt auch leut vmb ewer Zelt ligen haben / welche helffen sollen / wann die in den Schantzen not anstieß / auch daruor sein / wann ein vneinigkeit vnder ewerm Volck wolt werden / vnnd euch beschirmen wann mann in das leger wolt fallen.

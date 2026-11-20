@@ -2,16 +2,16 @@ id: 6-025v
 list: 25 (6. kniha)
 strana: verso
 sken: 542
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
   de:
-  - - Haben beide ein wagen / thůt zu 12 batzen
+  - - Haben beide ein wagen/ thůt zu 12 batzen
     - 13 gulden 9 batzen.
   - - Heinrich Werde.
     - ''
-  - - Item ist den 19 Maij mit 6 pferden angezogen / hat biß auff den Musterplatz reitens vnd stilligens 46 meiln / thůt 17 tag / macht das pferd ein tag zu 6 batzen /
+  - - Item ist den 19 Maij mit 6 pferden angezogen/ hat biß auff den Musterplatz reitens vnd stilligens 46 meiln/ thůt 17 tag/ macht das pferd ein tag zu 6 batzen /
     - 40 gulden 12 batz.
   - - Ein halben Wagen /
     - 6 gulden 12 batzen.
@@ -19,17 +19,17 @@ bloky:
     - ''
   - - Johann von Eßleben.
     - ''
-  - - Item hat auff den Musterplatz 46 Meiln / ist 17 tag geriten vnnd stilgelegen / thůn 5 pferd / das pferd ein tag zu 6 batzen
+  - - Item hat auff den Musterplatz 46 Meiln/ ist 17 tag geriten vnnd stilgelegen/ thůn 5 pferd/ das pferd ein tag zu 6 batzen
     - 34 flo.
-  - - Die anzal des Wagens ein nacht 5 batzen / thůt
+  - - Die anzal des Wagens ein nacht 5 batzen/ thůt
     - 5 gulden 10 batzen.
   - - Summa 39 gulden 10 batzen.
     - ''
   - - Lorentz Schungel.
-    - Lorentz Schungel[^1]
-  - - Item ist angezogen / wie obgemelt / thůt 17 tag / auff jedes pferde jeden tag 6 batzen / thůn 5 pferde
+    - ''
+  - - Item ist angezogen/ wie obgemelt/ thůt 17 tag/ auff jedes pferde jeden tag 6 batzen/ thůn 5 pferde
     - 34 gulden.
-  - - Die anzal des wagens / thůt
+  - - Die anzal des wagens/ thůt
     - 5 gulden 10 batzen.
   - - Summa 39 gulden 10 batzen.
     - ''
@@ -41,31 +41,31 @@ bloky:
     - '2'
   - - Wilhelm von Meiburg.
     - ''
-  - - Item ist angezogen / wie obgemelt / thůt 17 tag / hat 8 pferd / macht auff jedes pferd jeden tag zu 6 batzen /
+  - - Item ist angezogen/ wie obgemelt/ thůt 17 tag/ hat 8 pferd/ macht auff jedes pferd jeden tag zu 6 batzen /
     - 54 gulden 6 batz.
-  - - Die anzal des Wagens ein nacht 8 batzen / thůt
+  - - Die anzal des Wagens ein nacht 8 batzen/ thůt
     - 9 gulden 1 batzen.
   - - Summa 63 gulden 7 batzen.
     - ''
   - - Heinrich Meiburg.
     - ''
-  - - Item ist angezogen mit 5 pferden / wie obgemelt / thůt 17 tag / machet auff jedes pferd allen tag zu 6 batzen
+  - - Item ist angezogen mit 5 pferden/ wie obgemelt/ thůt 17 tag/ machet auff jedes pferd allen tag zu 6 batzen
     - 34 gulden.
-  - - Die anzal des Wagens / thůt
+  - - Die anzal des Wagens/ thůt
     - 5 gulden 10 batzen.
   - - Summa 39 gulden 10 batzen.
     - ''
   - - Gothart Pfeiff.
     - ''
-  - - Item ist angezogen mit 7 pferden / wie obgemelt / thůt 17 tag / auff jedes pferd ein tag zu 6 batzen / macht an gelt
+  - - Item ist angezogen mit 7 pferden/ wie obgemelt/ thůt 17 tag/ auff jedes pferd ein tag zu 6 batzen/ macht an gelt
     - 47 gulden 9 batz.
-  - - Die anzal des Karns ein nacht 7 batzen auffs pferd / thůt
+  - - Die anzal des Karns ein nacht 7 batzen auffs pferd/ thůt
     - 7 fl. 14 batz.
   - - Summa 60 flo. 8 batzen.
     - ''
-  - - Weiter ein pferd / ist angezogen wie oblaut / thůt
+  - - Weiter ein pferd/ ist angezogen wie oblaut/ thůt
     - 6 gulden 12 batzen.
-  - - Die anzal des wagens / thůt
+  - - Die anzal des wagens/ thůt
     - 1 gulden 2 batzen.
   - - Summa Gelt
     - 165 flo. 14 batz.
@@ -92,8 +92,8 @@ bloky:
     - 5 zl. 10 bac.
   - - Úhrnem 39 zl. 10 bac.
     - ''
-  - - Lorentz Schungel
-    - Lorentz Schungel[^1]
+  - - Lorentz Schungel[^1]
+    - ''
   - - 'Dále: vytáhl jako výše uvedený; to činí 17 dní, na každého koně každý den 6 bacenů, a to za 5 koní'
     - 34 zl.
   - - Podíl na voze; to činí
@@ -149,4 +149,4 @@ poznamky:
     Úhrn 140 zl. 8 bac. zahrnuje i společný vůz Thobiase von Bidenfeldt a Guntermana Wintera z prvního řádku strany (13 zl. 9 bac.) a tři skupiny Werde, Eßleben a Schungel.
 - n: 3
   text: |-
-    Součet 47 zl. 9 bac. + 7 zl. 14 bac. dává 55 zl. 8 bac.; tisk má 60 zl. 8 bac. Také úhrn koní (8 + 5 + 7 + 1 = 21) se liší od tištěných 20.
+    Součet 47 zl. 9 bac. + 7 zl. 14 bac. dává 55 zl. 8 bac.; tisk má 60 zl. 8 bac. Také úhrn koní (8 + 5 + 7 + 1 = 21) se liší od tištěných 20. Tištěný úhrn peněz 165 zl. 14 bac. nesedí ani s tištěnými položkami (171 zl. 9 bac.), ani s opraveným úhrnem Gotharta Pfeiffa (166 zl. 9 bac.); celkový součet na [[6-027r|s. 6-027r]] však počítá právě se 166 zl. 9 bac., chyba je tedy jen v sazbě.

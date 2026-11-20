@@ -2,7 +2,7 @@ id: 8-004r
 list: 4 (8. kniha)
 strana: recto
 sken: 595
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -25,7 +25,7 @@ bloky:
   de: |-
     Item ein maß von Korn oder Treidt wirt in disem Landt ein achtel genant/ ist vngefehrlich vff 163. pfundt angeschlagen/ auch helt diß achtel nach 8 kleiner maß inn sich/ deren eins vngefehrlich 20½. lib. schwer ist. Auß disem achtel werden 90 Brot gebachen/ vnd helt eins an teyg 2 lib. vnd 13 lot/ vnd wann es gebachen ist 2 lib. vnd auß dem kleinen maß bacht mann eilff vnd ein viertheil eins brots.
   cs: |-
-    Dále: míra žita {Korn} či obilí se v této zemi nazývá achtel {achtel} a počítá se přibližně na 163 liber {pfundt}. Tento achtel obsahuje 8 menších měr, z nichž každá váží přibližně 20½ libry {lib.}.[^1] Z tohoto achtelu se upeče 90 chlebů; každý má v těstě 2 libry a 13 lotů {lot} a upečený 2 libry. Z malé míry se upeče jedenáct a čtvrt chleba.
+    Dále: míra žita {Korn} či obilí se v této zemi nazývá achtel {achtel} a počítá se přibližně na 163 liber {pfundt}. Tento achtel obsahuje 8 menších měr, z nichž každá váží přibližně 20½ libry.[^1] Z tohoto achtelu se upeče 90 chlebů; každý má v těstě 2 libry a 13 lotů {lot} a upečený 2 libry. Z malé míry se upeče jedenáct a čtvrt chleba.
 - typ: tabulka
   de:
   - ['Wann von solchen brotten einer Personn einn tag ein brot gelieffert wirt/ so gehn auff 100 personn', '100 brot/', 'die wigen 200 lib.', '']
@@ -40,9 +40,9 @@ bloky:
   - ['Ein woch gehn auff 10000 personn', '70000 brot/', 'thůn 1400 centner/', 'machen an korn 777 achtel vnd 6 metzen.']
   - ['Ein Monat gehn auff 10000 personen', '300000 brot/', 'machen 6000', '']
   cs:
-  - ['Dává-li se z takových chlebů jedné osobě na den jeden chléb, jde na 100 osob', '100 chlebů,', 'které váží 200 liber {lib.};', '']
-  - ['dále na 500 osob', '500 chlebů,', 'které váží 1000 liber {pfundt}.', '']
-  - ['Na 500 osob jde za týden', '2500 chlebů,[^2]', 'které váží 70 centů {centner}, každý cent počítán po 100 librách,', 'a činí na žitě 38 achtelů {achtel} a 7 měřic {metzen}.']
+  - ['Dává-li se z takových chlebů jedné osobě na den jeden chléb, jde na 100 osob', '100 chlebů,', 'které váží 200 liber;', '']
+  - ['dále na 500 osob', '500 chlebů,', 'které váží 1000 liber.', '']
+  - ['Na 500 osob jde za týden', '2500 chlebů,[^2]', 'které váží 70 centů {centner}, každý cent počítán po 100 librách,', 'a činí na žitě 38 achtelů a 7 měřic {metzen}.']
   - ['Na 500 osob jde za měsíc (což je 30 dní)', '15000 chlebů,', 'to dělá 300 centů,', 'a činí na žitě 166 achtelů a 5 měřic.']
   - ['Na 1000 osob jde za týden', '7000 chlebů,', 'váží 140 centů', 'a činí na žitě 77 achtelů a 6 měřic.']
   - ['Za měsíc to činí', '30000 chlebů,', 'dělají 600 centů,', 'činí na žitě 333 achtelů a 2 měřice.']
@@ -54,7 +54,7 @@ bloky:
 poznamky:
 - n: 1
   text: |-
-    Menší míra, osmina achtelu, je měřice (*Metze*), jak ukazují následující výpočty (achtel = 8 měřic). Achtel o 163 librách odpovídá při libře kolem 0,47 kg zhruba 76 kg obilí; přesná hodnota se podle místa lišila, jak Solms sám připomíná na další straně.
+    Menší mírou se tu rozumí měřice (*Metze*), jak ukazují následující výpočty (achtel = 8 měřic). Achtel o 163 librách odpovídá při libře kolem 0,47 kg zhruba 76 kg obilí; přesná hodnota se podle místa lišila, jak Solms sám připomíná na další straně.
 - n: 2
   text: |-
     Tisková chyba: 500 osob spotřebuje za týden 3500 chlebů (500 × 7), jak odpovídá i uvedené váze 70 centů (3500 × 2 libry = 7000 liber) a množství žita (3500 : 90 = 38 achtelů a 7 měřic).

@@ -2,7 +2,7 @@ id: 7-002r
 list: 2 (7. kniha)
 strana: recto
 sken: 551
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -44,12 +44,12 @@ bloky:
   de: |-
     Weitter mag einer auch fragen/ Wie kan ich also ein ordnung gebrauchen mit wenig Karten/ dann ich jegliche wol zehen/ zwölff oder mehr mal bedarff/ ist recht daruon geredt/ das zuuerstehen/ so sollen der Figurn eins blats die menge sein/ dann ein jede Kart auff eines Fendlins summ zu roß oder füß geordnet ist/ so kan mann ein Fendlin als starck vnd souil/ auch ein hauffen so groß als mann wil/ stellen.
   cs: |-
-    Dále se může někdo zeptat: Jak mohu takový šik {ordnung} sestavit s několika málo kartami, když každou potřebuji snad desetkrát, dvanáctkrát nebo vícekrát? To je správně řečeno. Je třeba tomu rozumět tak, že figury na jednom listu znamenají celé množství, neboť každá karta odpovídá počtu jednoho praporce či korouhve {Fendlins}, pěšího nebo jízdního. Tak lze postavit praporec či korouhev tak silnou a početnou a také houf tak velký, jak kdo chce.
+    Dále se může někdo zeptat: Jak mohu takový šik {ordnung} sestavit s několika málo kartami, když každou potřebuji snad desetkrát, dvanáctkrát nebo vícekrát? Správně se na to odpovídá takto: figury na jednom listu mají představovat celé množství, neboť každá karta odpovídá počtu jednoho praporce či korouhve {Fendlins}, pěšího nebo jízdního. Tak lze postavit praporec či korouhev tak silnou a početnou a také houf tak velký, jak kdo chce.
 - typ: odstavec
   de: |-
     Zum andern mag einer auch fragen/ Wo findt ich solcher Karten die menge/ das ist auch ein billich frag/ Vnd daß dise Karten also augenscheinlich inn ein Bůch gemacht sind/ ist darumb geschehen/ daß mann die Rüstung vnd Gattung aller art des Kriegßuolcks vnderschidtlich sehen mög/ Zum andern hat es noch ein weiter erklerung/ nemlich daß mann es nit dahin verstehn soll/ als müste mann gemalte Karten haben/ vnd anders nit zu wegen bringen kündt/ Neyn/ dem ist also zu thůn/ neme gemeine Kartenbletter/ vnd auff der reinen seiten schreibe die Ampter darauff/ wie die Figurn anzeigen/ erstlich die
   cs: |-
-    Za druhé se může někdo také zeptat: Kde najdu takové množství karet? I to je oprávněná otázka. Že jsou tyto karty takto názorně vyobrazeny v knize, stalo se proto, aby bylo možné rozeznat výzbroj a druhy všeho válečného lidu {Kriegßuolcks}. Za druhé to má ještě další vysvětlení: nemá se to chápat tak, že by člověk musel mít malované karty a jinak by to nesvedl. Nikoli, je třeba to udělat takto: vezmi obyčejné karetní listy {Kartenbletter} a na čistou stranu na ně napiš úřady {Ampter}, jak ukazují vyobrazení, nejprve
+    Za druhé se může někdo také zeptat: Kde najdu takové množství karet? I to je oprávněná otázka. Že jsou tyto karty takto názorně vyobrazeny v knize, stalo se proto, aby bylo možné zřetelně rozlišit výzbroj a druhy všeho válečného lidu {Kriegßuolcks}. Za druhé to má ještě další vysvětlení: nemá se to chápat tak, že by člověk musel mít malované karty a jinak by to nesvedl. Nikoli, je třeba to udělat takto: vezmi obyčejné karetní listy {Kartenbletter} a na jejich čistou stranu napiš úřady {Ampter}, jak ukazují vyobrazení, nejprve
 poznamky:
 - n: 1
   text: |-

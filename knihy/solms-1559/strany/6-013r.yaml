@@ -2,7 +2,7 @@ id: 6-013r
 list: 13 (6. kniha)
 strana: recto
 sken: 517
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -78,7 +78,7 @@ bloky:
   - ['', 'suma', '42 zlatých 6 bac.']
 poznamky:
 - n: 1
-  text: Na předchozí straně jsou peníze za trénní koně vyčísleny na 67 zl. 8 bac.; zbytek 2194 zl. 13 bac. však odpovídá odečtu 67 zl. 5 bac. od celkových 2262 zl. 3 bac.
+  text: Na předchozí straně jsou peníze za trénní koně vyčísleny na 67 zl. 8 bac. a stejnou částku dávají i jednotlivé položky rejstříku (s opravou u položky 6, viz [[6-011r|list 11]]); odečítá se však o 3 bacenů méně. Zbytek 2194 zl. 13 bac. s odečtenými 67 zl. 5 bac. souhlasí.
 - n: 2
   text: Začíná vyúčtování příjezdného korouhve Henickena von Bortzfelt (srov. jeho přehlídkový lístek z 28. května 1544 [[6-009r|na listu 9]]); jezdci přijížděli z Dolního Saska (Hildesheim, Brunšvik, Sommersburg). První položka není v tisku očíslována.
 - n: 3

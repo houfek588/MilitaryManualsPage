@@ -2,7 +2,7 @@ id: 7-013v
 list: 13 (7. kniha)
 strana: verso
 sken: 574
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -20,7 +20,7 @@ bloky:
   de: |-
     Es wirt auch von nöten sein / daß mann von jeder Nation / es sei Teutsch / Welsch / oder andere / einen general Obersten Wagenmeister / vber die andern zu solchem Troß vnd Wagen verordnet / damit darob gehalten / jnen auch Leut zugeordnet werden / die jnen helffen.
   cs: |-
-    Bude také třeba, aby se z každého národa, ať německého, vlašského či jiného, ustanovil nad ostatními generální nejvyšší vozmistr {general Obersten Wagenmeister} pro takový trén a vozy, aby nad tím držel ruku, a aby se jim přidělili i lidé, kteří jim budou pomáhat.
+    Bude také třeba, aby se z každého národa, ať německého, vlašského či jiného, ustanovil pro takový trén a vozy generální nejvyšší vozmistr {general Obersten Wagenmeister} nad ostatními [vozmistry], který by nad tím držel ruku, a aby se vozmistrům přidělili i lidé, kteří jim budou pomáhat.
 - typ: nadpis
   uroven: 3
   de: |-
@@ -31,7 +31,7 @@ bloky:
   de: |-
     SO der Kriegs Herr in ein Veld zusamen bringt / nemlich drei tausent gerüster pferde / sollen dieselbigen inn die hernach angezeigten Geschwader / volgender gestalt zůschlagen verordnet vnd getheilt werden. Erstlich in den Renfanen 400. pferdt / vnd darzů 100. schützen zu anhangung der Flügel / die sollen mit jren eigen Fanen / frei vnd allein auff den Veldmarschalck zu warten bescheiden sein / der weiß sie dann zu jeder zeit / nach gelegenheit der verstehender Kriegßhandlung / in Ordnung zustellen / vnnd zu oder von den Feinden zu brauchen / solche Reutter sein auch mit jren Fanen zug vnnd wacht frei / doch in allweg schuldig in werender Kriegs vbung / jeder zeit ob dem Leger biß dasselbig gar geschlagen / vnnd der gantz helle hauffen / darein komen ist / wie sich gebürt zuhalten / vnd am ersten vff sein. Auff solchen verlorn hauffen sollen vierhundert pferde in einem Geschwader verordnet werden / welche dann bei sich haben sollen benentlich sechs Veldschlangen oder souil guter volgent / vnd auff den Obersten oder derselben Leutenant vnd den Veldmarschalck warten.
   cs: |-
-    Svede-li válečný pán {Kriegs Herr} do pole tři tisíce zbrojných koní {gerüster pferde}, mají se rozdělit a přidělit do švadron {Geschwader} uvedených níže takto: Nejprve do předvojové korouhve {Renfanen} 400 koní a k tomu 100 střelců {schützen}, kteří se připojí na křídla {Flügel}. Ti mají se svými vlastními korouhvemi {Fanen} sloužit volně a jedině polnímu maršálkovi {Veldmarschalck}; ten je pak umí kdykoli podle povahy nastávající válečné akce postavit do šiku a použít proti nepříteli či při odtahu od něj. Tito jezdci jsou se svými korouhvemi také osvobozeni od pochodové a strážní služby {zug vnnd wacht}. Po celou dobu válečného tažení jsou však v každém případě povinni držet se náležitě u ležení {Leger}, dokud není úplně rozbité a dokud do něj nevstoupí celý houf {gantz helle hauffen}, a být první v sedle.[^1] Za tímto ztraceným houfem {verlorn hauffen} se má do jedné švadrony zařadit čtyři sta koní, kteří mají mít u sebe jmenovitě šest polních kulverin {Veldschlangen} nebo tolik dobrých [děl], kolik jich bude následovat,[^2] a mají být k službám plukovníkovi {Obersten} nebo jeho poručíkovi {Leutenant} a polnímu maršálkovi.
+    Svede-li válečný pán {Kriegs Herr} do pole tři tisíce zbrojných koní {gerüster pferde}, mají se rozdělit a přidělit do švadron {Geschwader} uvedených níže takto: Nejprve do předvojové korouhve {Renfanen} 400 koní a k tomu 100 střelců {schützen}, kteří se připojí na křídla {Flügel}. Ti mají se svými vlastními korouhvemi {Fanen} sloužit volně a jedině polnímu maršálkovi {Veldmarschalck}; ten je pak umí kdykoli podle povahy nastávající válečné akce postavit do šiku a použít proti nepříteli či při odtahu od něj. Tito jezdci jsou se svými korouhvemi také osvobozeni od pochodové a strážní služby {zug vnnd wacht}. Po celou dobu válečného tažení jsou však v každém případě povinni náležitě chránit ležení {Leger}, dokud není úplně rozbité a dokud do něj nevstoupí celý houf {gantz helle hauffen}, a být první v sedle.[^1] Za tímto ztraceným houfem {verlorn hauffen} se má do jedné švadrony zařadit čtyři sta koní, kteří mají mít u sebe jmenovitě šest kulverin {Veldschlangen} nebo tolik dobrých [děl], kolik jich bude následovat,[^2] a mají být k službám plukovníkovi {Obersten} nebo jeho poručíkovi {Leutenant} a polnímu maršálkovi.
 - typ: odstavec
   de: |-
     Item mehr ein Geschwader von vier hundert Pferden.
@@ -41,7 +41,7 @@ bloky:
   de: |-
     Darnach abermals inn ein Geschwader fünffhundert Pferdt zu stossen / die sollen gleich fals / wie die andern hieuor gemelt / mit hundert Schützen / vnd sechs Schlangen versehen sein / darzů auch inn allweg mit solchen ihren hauffen inn der mit des gantzen Reisigen Zeugs bleiben / vnd solchs jr Geschütz / der sechs Schlangen mitten vnder jnen gesetzt / ob gleich die hauffen abgewechselt würden behalten / Auff solchen hauffen wider ein geschwader von vierhundert Pferden / Darnach wider vierhundert Pferdt.
   cs: |-
-    Potom se má opět sestavit do jedné švadrony pět set koní. Ti mají být stejně jako ostatní, výše uvedení, opatřeni sto střelci a šesti kulverinami {Schlangen}. Kromě toho mají se svým houfem vždy zůstávat uprostřed celé jízdy {Reisigen Zeugs} a svá děla, totiž šest kulverin, mají mít postavená uprostřed mezi sebou a ponechat si je, i kdyby se houfy vystřídaly. Za tímto houfem opět švadrona o čtyřech stech koních, potom zase čtyři sta koní.
+    Potom se má opět sestavit do jedné švadrony pět set koní. Ti mají být stejně jako ostatní výše uvedení opatřeni sto střelci a šesti kulverinami {Schlangen}. Kromě toho mají se svým houfem vždy zůstávat uprostřed veškeré jízdy {Reisigen Zeugs} a svá děla, totiž šest kulverin, mají mít postavená uprostřed mezi sebou a ponechat si je, i kdyby se houfy vystřídaly. Za tímto houfem opět švadrona o čtyřech stech koních, potom zase čtyři sta koní.
 - typ: odstavec
   de: |-
     Vnd beschließlich in das letst Geschwader auch fünffhundert Pferde / vnd darzů hundert Schützen / dieselben sollen auch auff den Obersten deßselben Leutenant vnd Veldmarschalck jr auffsehen vnd

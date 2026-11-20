@@ -2,13 +2,13 @@ id: 6-001v
 list: 1 (6. kniha)
 strana: verso
 sken: 494
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
   pokracovani: true
   de: |-
-    Ritmeister mit seinen Reuttern besonder vnnd nit vnder einander / in einer geuierdten gleichen zal neben vnd hinder sich halten / dann kan er bald sehen was mangelt / aber damit einer solliche Ordnung recht mit der zal geuierdt mach / das eines jeden Ritmeisters zal gerad mit der Ordnung treffe so soll mann des Ritmeisters Register nemen / darinn die zal vnd sum seiner Reutter suchen / vnd auff solche maß stellen wie hernach verzeichnet.
+    Ritmeister mit seinen Reuttern besonder vnnd nit vnder einander / in einer geuierdten gleichen zal neben vnd hinder sich halten / dann kan er bald sehen was mangelt / aber darmit einer solliche Ordnung recht mit der zal geuierdt mach / das eines jeden Ritmeisters zal gerad mit der Ordnung treffe so soll mann des Ritmeisters Register nemen / darinn die zal vnd sum seiner Reutter suchen / vnd auff solche maß stellen wie hernach verzeichnet.
   cs: |-
     rytmistra {Ritmeister} stát s jeho jezdci {Reuttern} zvlášť, a ne pomíchané, ve čtverci {geuierdten} o stejném počtu [mužů] vedle sebe i za sebou; pak hned uvidí, co chybí. Aby však někdo takový šik {Ordnung} správně sestavil do čtverce podle počtu, tak aby počet každého rytmistra přesně odpovídal šiku, má se vzít rytmistrův rejstřík {Register}, vyhledat v něm počet a úhrn jeho jezdců a postavit je podle míry, jak je zapsáno dále.
 - typ: odstavec

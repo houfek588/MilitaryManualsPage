@@ -2,7 +2,7 @@ id: 9-028r
 list: 28 (9. kniha)
 strana: recto
 sken: 675
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,7 +10,7 @@ bloky:
   de: |-
     seinem hauptman bleiben/ vnd nit hinauff zum geschütz steigen/ dann sie nur die Büchsenmeister am schiessen verhindern/ vnnd auch das Schiff desto langsamer gehet/ wann mann also hin vnd wider laufft so nun die sach dahin kompt/ das mann an lendt/ sollen die vier Obersten dardurch jr volck theilen/ ein jeglicher das halb theil nemen/ das ander dem leutenant im schiff lassen/ welcher wo es von nöten sein wurd/ alwegen hilff hernach schicken.
   cs: |-
-    svého hejtmana {hauptman} a nelézt nahoru k dělům {geschütz}, neboť tím by jen překážel puškařům {Büchsenmeister} ve střelbě a loď by také plula pomaleji, kdyby se takto pobíhalo sem a tam. Dojde-li pak k tomu, že se přistává, mají čtyři plukovníci {Obersten} rozdělit svůj lid: každý vezme polovinu a druhou nechá poručíkovi {leutenant} na lodi, který mu, bude-li toho třeba, vždy pošle pomoc.
+    svého hejtmana {hauptman} a nelézt nahoru k dělům {geschütz}, neboť by jen překážel puškařům {Büchsenmeister} ve střelbě a loď by také plula pomaleji, kdyby se takto pobíhalo sem a tam. Dojde-li pak k tomu, že se přistává, mají čtyři plukovníci {Obersten} rozdělit svůj lid: každý vezme polovinu a druhou nechá poručíkovi {leutenant} na lodi, který mu, bude-li toho třeba, vždy pošle pomoc.
 - typ: odstavec
   de: |-
     Ehe das die sach zum schlagen kompt/ beuestiget mann die schiff als wol mann kan/ vnd sonderlich vor dem geschütz/ vnd ein jeglicher rüst sich auff das best als er kan/ etlich nemen die Madricen darauff sie ligen vnd henckens für oder in das schiff hinein nach dem sie platz haben/ etlich außgefült Leinen seck welches gůt für das Geschütz ist/ das es die schiff nicht gar verspert wie sonst.
@@ -30,7 +30,7 @@ bloky:
   de: |-
     Wann es aber darzů kompt daß yr mit einander zugleich schlagen kündet/ vnnd das Wetter gůt ist/ solt yr alle ewer hilff als nahe yr kündet zusamen stellen/ doch daß sie einander nicht mit anrüren/ vnnd inn einer Ordnung ziehen/ daß keins vor dem andern sei/ Wann yhr nun sehet daß jr so starck wie die Feinde seind mit leuten/ auch grossen vnnd kleinen schiffen/ wann anderst das Wetter nicht wider euch ist/ kündet yr nichts bessers thůn dann gleich treffen/ doch wolt ich nicht eben zu jhnen faren/ sonder auff einer seiten/ darmit die grossen Schiff/ so an den orten geordnet/ das Geschütz auffhielten/ auff das den schiffen desto weniger schaden thüe/ etc.
   cs: |-
-    Dojde-li však k tomu, že se můžete bít všichni zároveň, a je dobré počasí, máte všechny své posily postavit k sobě tak blízko, jak jen můžete, avšak tak, aby se navzájem nedotýkaly, a plout v jednom šiku {Ordnung}, aby žádná loď nebyla před druhou. Vidíte-li pak, že jste stejně silní jako nepřítel v lidech i ve velkých a malých lodích, a není-li proti vám počasí, nemůžete udělat nic lepšího, než se s ním hned střetnout. Nejel bych však přímo proti němu, nýbrž z boku, aby velké lodě rozestavené na těch místech zachytily dělovou palbu a ostatním lodím bylo méně uškozeno atd.
+    Dojde-li však k tomu, že se můžete bít všichni zároveň, a je dobré počasí, máte všechny své síly postavit k sobě tak blízko, jak jen můžete, avšak tak, aby se navzájem nedotýkaly, a plout v jednom šiku {Ordnung}, aby žádná loď nebyla před druhou. Vidíte-li pak, že jste stejně silní jako nepřítel v lidech i ve velkých a malých lodích, a není-li proti vám počasí, nemůžete udělat nic lepšího, než se s ním hned střetnout. Nejel bych však přímo proti němu, nýbrž z boku, aby velké lodě rozestavené na těch místech zachytily dělovou palbu a ostatním lodím bylo méně uškozeno atd.
 poznamky:
 - n: 1
   text: |-

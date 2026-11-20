@@ -2,7 +2,7 @@ id: 6-014r
 list: 14 (6. kniha)
 strana: recto
 sken: 519
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: tabulka
@@ -78,7 +78,7 @@ bloky:
   - ['', 'vozů', '1']
 poznamky:
 - n: 1
-  text: Na předchozí straně činí peníze za trénní koně 7 zl. 7½ bac.; zbytek 602 zl. 12 bac. odpovídá odečtu 7 zl. 4½ bac. od 610 zl. 1½ bac. (podobně jako u předchozího rejstříku).
+  text: Na předchozí straně jsou peníze za trénní koně vyčísleny na 7 zl. 7½ bac., jednotlivé položky (2 zl. 6 bac. + 2 zl. 10½ bac. + 2 zl. 3 bac. [[6-013r|na listu 13]]) však dávají právě odečtených 7 zl. 4½ bac. Zbytek 602 zl. 12 bac. odpovídá odečtu od 610 zl. 1½ bac.
 - n: 2
   text: Tisk uvádí 6 dní a vzápětí „7 tag“; částka 9 zl. 9 bac. odpovídá 6 dnům (6 × 4 × 6 bacenů).
 - n: 3

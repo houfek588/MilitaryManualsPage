@@ -2,18 +2,18 @@ id: 6-019v
 list: 19 (6. kniha)
 strana: verso
 sken: 530
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
-  uroven: 2
+  uroven: 3
   de: |-
-    Muster Register solcher Reutter vnd Reisigen / so der Durchleuchtig / Hochgeborn Fürst vnnd Herr / Herr Albrecht Marggraue zu Brandenburg / etc. Keiserlicher Maiestat Oberster / in jrer Maies. dienst fürt / Vnd durch den Edlen / Vesten / Herrn Christoffeln von Schawenburg / etc. Als verordneten Commissarien bei Landaw gemustert / deren Reutter Monat Donstag den 5 Junij / Anno / etc. 44 angefangen hat.
+    Muster Register solcher Reutter vnd Reisigen/ so der Durchleuchtig/ Hochgeborn Fürst vnnd Herr/ Herr Albrecht Marggraue zu Brandenburg/ etc. Keiserlicher Maiestat Oberster/ in jrer Maies. dienst fürt/ Vnd durch den Edlen/ Vesten/ Herrn Christoffeln von Schawenburg/ etc. Als verordneten Commissarien bei Landaw gemustert/ deren Reutter Monat Donstag den 5 Junij/ Anno/ etc. 44 angefangen hat.
   cs: |-
     Přehlídkový rejstřík {Muster Register} jezdců a jízdy {Reisigen}, které vede osvícený, vysoce urozený kníže a pán, pan Albrecht, markrabě braniborský atd., plukovník {Oberster} Císařského Veličenstva {Keiserlicher Maiestat}, ve službě Jeho Veličenstva, a které u Landavy přehlédl {gemustert} urozený a statečný pan Christoffel von Schawenburg atd. jako ustanovený komisař {Commissarien}; jezdecký měsíc služby jim začal ve čtvrtek 5. června léta [15]44.[^1]
 - typ: odstavec
   de: |-
-    Erstlich die Reutter so auß seiner Fürst. Gna. Stall reiten / sampt derselben Einrosser / Einspennigen vnd Knaben.
+    Erstlich die Reutter so auß seiner Fürst. Gna. Stall reiten/ sampt derselben Einrosser/ Einspennigen vnd Knaben.
   cs: |-
     Nejprve jezdci, kteří jezdí ze stáje Jeho knížecí Milosti {Fürst. Gna.}, spolu s jejími jezdci o jednom koni {Einrosser}, jednokoními jezdci {Einspennigen} a pacholky {Knaben}.[^2]
 - typ: tabulka
@@ -245,7 +245,7 @@ poznamky:
     Albrecht II. Alkibiades, markrabě braniborsko-kulmbašský (1522–1557), sloužil v roce 1544 Karlu V. ve válce proti Francii. Přehlídkovým komisařem byl Christoph von Schaumburg; Landau in der Pfalz leží západně od Špýru. Jezdecký měsíc služby začal 5. června 1544.
 - n: 2
   text: |-
-    Tisk sází rejstřík ve dvou sloupcích; v edici je přepsán souvisle (nejprve levý, pak pravý sloupec), úhrny spojené v tisku svorkou se slovem *Summa* jsou rozepsány po řádcích. Zlomky jsou v tisku sázeny jako ½. *Drosser* (*Trosser*) jsou koně trénu se svými pacholky – jezdci je počítali vedle zbrojných koní, žold za ně byl nižší (viz [[6-022r|s. 6-022r]]). Jména osob jsou ponechána v podobě tisku; kde je známa dnešní podoba, uvádí ji poznámka (Hennenberg = Henneberg, Würtzburg/Wirtzberg = Wirsberg, Egloffstein, Leuchtenberg). Hrabata Christoph (1510–1548) a Poppo XII. (1513–1574) z Hennebergu pocházela z linie Henneberg-Schleusingen.
+    Tisk sází rejstřík ve dvou sloupcích; v edici je přepsán souvisle (nejprve levý, pak pravý sloupec), úhrny spojené v tisku svorkou se slovem *Summa* jsou rozepsány po řádcích. Zlomky jsou v tisku sázeny jako ½. Za trénní koně se platil nižší žold než za zbrojné (viz [[6-022r|s. 6-022r]]). Jména osob jsou ponechána v podobě tisku; kde je známa dnešní podoba, uvádí ji poznámka (Hennenberg = Henneberg, Würtzburg/Wirtzberg = Wirsberg, Egloffstein, Leuchtenberg). Hrabata Christoph (1510–1548) a Poppo XII. (1513–1574) z Hennebergu pocházela z linie Henneberg-Schleusingen.
 - n: 3
   text: |-
     Součet položek skupiny (Leuchtenberg ½, Hennenberg 2, Egloffstein 0) dává 2½ vozu; tisk má 3½. Celkový úhrn 27 vozů na [[6-020v|s. 6-020v]] však počítá s 3½, takže chyba bude spíše ve vynechané položce (snad vůz Egloffsteina).

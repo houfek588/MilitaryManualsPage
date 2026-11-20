@@ -2,7 +2,7 @@ id: 9-006r
 list: 6 (9. kniha)
 strana: recto
 sken: 631
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -24,11 +24,11 @@ bloky:
   de: |-
     Der Prouos soll keinen richten lassen/ wie obgemelt/ er sei dann vom Marschalck oder durch die von jm verordnet/ verurtheilt worden/ es sei dann sach daß der Fürst selbst oder der Leutenant solches in abwesen des Marschalcks verordnet haben/ mag er wol fürtfarn.
   cs: |-
-    Profous nesmí, jak bylo řečeno výše, nikoho dát popravit, leda by ho odsoudil maršálek nebo ti, které k tomu ustanovil. Nařídil-li by to však v maršálkově nepřítomnosti sám kníže nebo poručík {Leutenant}, smí jistě pokračovat.
+    Profous nesmí, jak bylo řečeno výše, nikoho dát popravit, leda by ho odsoudil maršálek nebo ti, které k tomu ustanovil. Nařídil-li by to však v maršálkově nepřítomnosti sám kníže nebo poručík {Leutenant}, smí ovšem pokračovat.
 - typ: nadpis
   uroven: 3
   de: Alhie facht sich an ein Historie/ da ein Stat vnd auff der andern seiten ein beschlossens Landt wie es sein soll/ vnd der Fürst in seinem Zelte.
-  cs: Zde začíná výjev {Historie}, na němž je město a na druhé straně ohrazená země, jak má být, a kníže ve svém stanu[^1]
+  cs: Zde začíná výjev {Historie}, na němž je město a na druhé straně ohrazená země, jak má být, a kníže ve svém stanu.[^1]
 - typ: odstavec
   de: |-
     HErr wann jr versehen seit mit den Emptern wie ich gesagt hab/ vnd daß zeit ist das ewer gantz Heer zu fuß vnd zu roß/ auch das Geschütz vnnd alles so zu dem Krieg dienstlich/ bei euch nicht weit von der lesten statt ewers Lands sei/ so in der gegen ligt/ da jhr den zug fürnemen müssen/ solt jr ein verschlossen vnd fest Leger schlagen nicht weniger als ob jhr in der Feind landt weren/ vnd alda ewer erst leger schlagen/ vnnd nit verrücken biß daß jr alles so jr zu demselbigen Krieg brauchen wolt/ bei euch haben/ vnnd eben als ein gůt Ordnung im leger halten/ als wann jr schon nicht im Krieg weren.

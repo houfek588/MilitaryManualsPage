@@ -2,13 +2,13 @@ id: 7-004r
 list: 4 (7. kniha)
 strana: recto
 sken: 555
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: obrazek
   soubor: drevorez-555.jpg
   popis: |-
-    Osm obrazových karet strany Hannibalovy (černý tisk), ve dvou sloupcích po čtyřech, vždy s nápisem úřadu v rámečku (pořadí po řádcích zleva doprava): 1. polní plukovník – jezdec v čele jízdního průvodu s korouhvičkou na žerdi, za ním obrnění jezdci a pěší sluhové; 2. šlechtic dělostřelectva – jezdec s vysokým chocholem uprostřed pěších dělostřelců, kteří nesou na ramenou holi s rozeklanými konci (patrně zapalovací hole); 3. polní maršálek – jízdní houf se dvěma žerděmi, v čele jezdec v čapce; 4. mistr vozové hradby – osamělý jezdec vpředu a skupina jezdců s chocholy za ním; 5. kapitán dělostřelectva – jezdec v plášti před skupinou jezdců; 6. vozmistr (nápis zdobným kaligrafickým písmem) – jezdec před skupinou jezdců; 7. kapitán justice – jezdci s žerdí, pěší s halapartnami a muž s obnaženým dlouhým mečem (snad kat); 8. bez nápisu – pět jezdců, z toho čtyři trubači s troubami.
+    Osm obrazových karet strany Hannibalovy (černý tisk), ve dvou sloupcích po čtyřech, vždy s nápisem úřadu v rámečku (pořadí po řádcích zleva doprava): 1. polní plukovník – jízdní průvod se žerdí nesoucí korouhvičku, v čele (vpravo) jezdec s chocholem, mezi koňmi pěší pacholci; 2. šlechtic dělostřelectva – jezdec s vysokým chocholem uprostřed pěších dělostřelců, kteří nesou na ramenou hole s rozeklanými konci (patrně zapalovací hole); 3. polní maršálek – jízdní houf se dvěma žerděmi, v čele jezdec v čapce; 4. mistr vozové hradby – osamělý jezdec vpředu a skupina jezdců s chocholy za ním; 5. kapitán dělostřelectva – jezdec v plášti před skupinou jezdců; 6. vozmistr (nápis zdobným kaligrafickým písmem) – jezdec před skupinou jezdců; 7. kapitán justice – jezdci s žerdí, pěší s halapartnami a muž s obnaženým dlouhým mečem (snad kat); 8. bez nápisu – pět jezdců, z toho čtyři trubači s troubami.
 - typ: tabulka
   de:
   - - '1'

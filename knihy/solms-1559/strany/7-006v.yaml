@@ -2,13 +2,13 @@ id: 7-006v
 list: 6 (7. kniha)
 strana: verso
 sken: 560
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: obrazek
   soubor: drevorez-560.jpg
   popis: |-
-    Osm textových karet strany Hannibalovy (černý tisk) v orámovaných polích: v levém sloupci čtyři rytmistři jízdy s počty koní a druhem jízdy (odpovídají obrazovým kartám jízdy na [[7-004v|listu 4v]]), v pravém sloupci jeden oddíl jízdních střelců a tři karty děl. Přepis a překlad nápisů viz tabulka (pořadí po řádcích zleva doprava).
+    Osm textových karet strany Hannibalovy (černý tisk) v orámovaných polích: v levém sloupci čtyři rytmistři jízdy (Juba, Micipsa, Hiempsal, Saburra) s počty koní a druhem jízdy, v pravém sloupci nahoře pátý rytmistr (Bocchus) s jízdními střelci a pod ním tři karty těžkých děl; karty rytmistrů odpovídají obrazovým kartám jízdy na [[7-004v|listu 4v]]. Přepis a překlad nápisů viz tabulka (pořadí po řádcích zleva doprava).
 - typ: tabulka
   de:
   - - '1'
@@ -31,7 +31,7 @@ bloky:
   - - '1'
     - Juba, rytmistr {Ritmeiser} se dvěma tisíci koňmi.
   - - '2'
-    - Bocchus, rytmistr s pěti sty koňmi střelců {Schützen} s dlouhými hlavněmi {rohrn}.
+    - Bocchus, rytmistr s pěti sty koňmi střelců {Schützen} s dlouhými ručnicemi {rohrn}.
   - - '3'
     - Micipsa, rytmistr s patnácti sty koňmi kopiníků {spisser}.
   - - '4'

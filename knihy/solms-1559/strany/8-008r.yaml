@@ -2,7 +2,7 @@ id: 8-008r
 list: 8 (8. kniha)
 strana: recto
 sken: 603
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -25,62 +25,62 @@ bloky:
   de: |-
     Ein woche gehn auff 100 pferde 700 metzen / thůn an gewicht 84 Centner / vnd 58 schäffel 4 metzen.
   cs: |-
-    Za týden připadá na 100 koní 700 měřic; to činí na váhu 84 centů {Centner} a 58 korců a 4 měřice.
+    Za týden připadá na 100 koní 700 měřic; to činí na váhu 84 centů {Centner}, což je 58 korců a 4 měřice.
 - typ: odstavec
   de: |-
     Ein Monat gehen auff 100 pferdt 3000 metzen / thůn an gewicht 360 Centner / vnd 250 schäffel.
   cs: |-
-    Za měsíc připadá na 100 koní 3000 měřic; to činí na váhu 360 centů a 250 korců.
+    Za měsíc připadá na 100 koní 3000 měřic; to činí na váhu 360 centů, což je 250 korců.
 - typ: odstavec
   de: |-
     Item auff 500 Pferdt gehen ein tag 500 metzen / thůn an gewicht 60 Centner / vnd 41 schäffel 8 metzen.
   cs: |-
-    Dále na 500 koní připadá za den 500 měřic; to činí na váhu 60 centů a 41 korců a 8 měřic.
+    Dále na 500 koní připadá za den 500 měřic; to činí na váhu 60 centů, což je 41 korců a 8 měřic.
 - typ: odstavec
   de: |-
     Ein Woch gehn auff 500 pferdt 3500 metzen / thůn an gewicht 420 Centner / vnd 291 schäffel 8 metzen.
   cs: |-
-    Za týden připadá na 500 koní 3500 měřic; to činí na váhu 420 centů a 291 korců a 8 měřic.
+    Za týden připadá na 500 koní 3500 měřic; to činí na váhu 420 centů, což je 291 korců a 8 měřic.
 - typ: odstavec
   de: |-
     Ein Monat gehen auff 500 pferdt 15000 metzen / thůn an gewicht 1800 Centner / vnd 1250 Achtel.
   cs: |-
-    Za měsíc připadá na 500 koní 15 000 měřic; to činí na váhu 1800 centů a 1250 achtelů.
+    Za měsíc připadá na 500 koní 15 000 měřic; to činí na váhu 1800 centů, což je 1250 achtelů.
 - typ: odstavec
   de: |-
     Item ein tag gehn auff 1000 pferdt 1000 metzen / thůn an gewicht 120 Centner / vnd 33 schäffel 4 metzen hafern.
   cs: |-
-    Dále za den připadá na 1000 koní 1000 měřic; to činí na váhu 120 centů a 33 korců[^2] a 4 měřice ovsa.
+    Dále za den připadá na 1000 koní 1000 měřic; to činí na váhu 120 centů, což je 33 korců[^2] a 4 měřice ovsa.
 - typ: odstavec
   de: |-
     Ein Woch gehn auff 1000 pferdt 7000 metzen / thůn an gewicht 840 Centner / vnd 583 schäffel 4 metzen hafern.
   cs: |-
-    Za týden připadá na 1000 koní 7000 měřic; to činí na váhu 840 centů a 583 korců a 4 měřice ovsa.
+    Za týden připadá na 1000 koní 7000 měřic; to činí na váhu 840 centů, což je 583 korců a 4 měřice ovsa.
 - typ: odstavec
   de: |-
     Ein Monat lang gehen auff 1000 pferdt 30000 metzen / thůn an gewicht 3600 Centner / vnd 1500 schäffel hafern.
   cs: |-
-    Za celý měsíc připadá na 1000 koní 30 000 měřic; to činí na váhu 3600 centů a 1500 korců[^3] ovsa.
+    Za celý měsíc připadá na 1000 koní 30 000 měřic; to činí na váhu 3600 centů, což je 1500 korců[^3] ovsa.
 - typ: odstavec
   de: |-
     Item ein tag gehn auff 5000 pferdt 5000 metzen hafern / thůn an gewicht 600 Centner / vnd 416 schäffel vnd 8 metzen hafern.
   cs: |-
-    Dále za den připadá na 5000 koní 5000 měřic ovsa; to činí na váhu 600 centů a 416 korců a 8 měřic ovsa.
+    Dále za den připadá na 5000 koní 5000 měřic ovsa; to činí na váhu 600 centů, což je 416 korců a 8 měřic ovsa.
 - typ: odstavec
   de: |-
     Ein Woch gehn auff 5000 pferdt 35000 metzen / thůn an gewicht 4200 Centner / vnd 2916 schäffel 8 metzen hafern.
   cs: |-
-    Za týden připadá na 5000 koní 35 000 měřic; to činí na váhu 4200 centů a 2916 korců a 8 měřic ovsa.
+    Za týden připadá na 5000 koní 35 000 měřic; to činí na váhu 4200 centů, což je 2916 korců a 8 měřic ovsa.
 - typ: odstavec
   de: |-
     Ein Monat gehn auff 5000 pferdt 1500 metzen hafern / thůn an gewicht 18000 Centner / vnd 12500 schäffel hafern.
   cs: |-
-    Za měsíc připadá na 5000 koní 1500 měřic[^4] ovsa; to činí na váhu 18 000 centů a 12 500 korců ovsa.
+    Za měsíc připadá na 5000 koní 1500 měřic[^4] ovsa; to činí na váhu 18 000 centů, což je 12 500 korců ovsa.
 - typ: odstavec
   de: |-
     Item auff 10000 pferdt gehen ein tag 10000 metzen hafern / thůn an gewicht 1200 Centner / vnd 833 schäffel 4 metzen hafern.
   cs: |-
-    Dále na 10 000 koní připadá za den 10 000 měřic ovsa; to činí na váhu 1200 centů a 833 korců a 4 měřice ovsa.
+    Dále na 10 000 koní připadá za den 10 000 měřic ovsa; to činí na váhu 1200 centů, což je 833 korců a 4 měřice ovsa.
 poznamky:
 - n: 1
   text: |-
@@ -93,4 +93,4 @@ poznamky:
     Chyba tisku: 30 000 měřic je 2500 korců (Druhá kniha, [[041v|list 41v]], má správně „fünff vnd zwentzig hundert“).
 - n: 4
   text: |-
-    Chyba tisku: za 30 dní je to 150 000 měřic; následné údaje 18 000 centů a 12 500 korců odpovídají správné hodnotě.
+    Chyba tisku: za 30 dní je to 150 000 měřic; následné údaje 18 000 centů, což je 12 500 korců odpovídají správné hodnotě.

@@ -2,7 +2,7 @@ id: 7-001v
 list: 1 (7. kniha)
 strana: verso
 sken: 550
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -19,7 +19,7 @@ bloky:
   de: |-
     ERstlich will ich ordnen/ wie sich gebürt/ einen kleinen vorzug das leger zu besichtigen/ einzunemen vnd zu schlagen/ darzů sol der Veldmarschalck vorziehen/ vnd den zeug oder Artolorei meister/ den Capitan der Justitien/ oder den General Wachtmeister/ Quartirmeister/ Wagenburgmeister/ der Knecht Forirer/ vnd 100 Pferd/ Schützen oder geringen pferde zu sich nemen/ vnd 15. vorhin ziehen/ vnd sein vorwart sein/ vnnd auff jeder seiten 3. der gleichen zu seiten Warten/ darnach 2. pferd nach vnd zwischen jm vnd dem Renfanen vnd vorzug dauorn ziehen lassen/ wann sich etwas würde zutragen/ daß er sie zu dem Renfanen schicken kündt. Auff solchen kleinen vorzug sol der Renfan mit 200. pferden/ spiesser/ vnnd auff der rechten seiten der schützen Fan mit 100 pferden/ vnd sollen Schützen sein/ darauff oder darneben 2. Veldschlangen ziehen/ vnd ein Karn mit 2. pferden/ der souil puluer vnd kogeln als mann zu den 2. stücken bedarff/ fürt. Der gewaltig Hauff soll haben 1500. pferd/ Spiesser/ darauff soll der Droß ziehen nach dem 170. Heerwagen/ on der Herrn vnd Ampter wagen/ als vff 12. pferde ein wagen laut der bestallungs Rechnung/ auff die wagen zeucht der nachzug mit 70. pferden/ vnd sind 7 pferde die nachwart/ vnd auff jede seiten warte neben nachzug 2. pferd/ das macht 4 pferd/ thůt zusamen 2000. pferde.
   cs: |-
-    Nejprve chci zřídit, jak se sluší, malý předvoj {vorzug}, který má ležení {leger} prohlédnout, zabrat a vytyčit. K tomu má napřed vyrazit polní maršálek {Veldmarschalck} a vzít s sebou zbrojmistra neboli mistra dělostřelectva {zeug oder Artolorei meister}, kapitána justice {Capitan der Justitien} nebo generálního vachmistra {General Wachtmeister}, kvartýrmistra {Quartirmeister}, mistra vozové hradby {Wagenburgmeister}, furýra knechtů {Forirer} a 100 koní, střelců {Schützen} nebo lehkých koní {geringen pferde}. Z nich ať 15 jede napřed jako jeho přední hlídka {vorwart} a po každé straně 3 rovněž jako boční hlídky; potom ať nechá za sebou jet 2 koně mezi sebou a předvojovou korouhví {Renfanen}, zatímco předvoj jede vpředu, aby je mohl poslat k předvojové korouhvi, kdyby se něco přihodilo. Za tímto malým předvojem má jet předvojová korouhev s 200 koni, kopiníky {spiesser}, a po pravé straně střelecká korouhev {schützen Fan} se 100 koni, a to mají být střelci. Za nimi nebo vedle nich mají jet 2 kulveriny {Veldschlangen} a kára {Karn} se 2 koňmi, která veze tolik prachu {puluer} a koulí {kogeln}, kolik je pro ty 2 kusy zapotřebí. Hlavní houf {gewaltig Hauff} má mít 1500 koní, kopiníků. Za ním má táhnout trén {Droß} a potom 170 válečných vozů {Heerwagen} kromě vozů pánů a úředníků {Ampter}, totiž po jednom voze na 12 koní podle výpočtu služebního listu {bestallungs Rechnung}. Za vozy táhne zadní voj {nachzug} se 70 koňmi; z nich 7 koní tvoří zadní hlídku {nachwart} a po každé straně vedle zadního voje hlídkují 2 koně, to dělá 4 koně. Dohromady to činí 2000 koní.[^2]
+    Nejprve chci zřídit, jak se sluší, malý předvoj {vorzug}, který má ležení {leger} prohlédnout, zabrat a vytyčit. K tomu má napřed vyrazit polní maršálek {Veldmarschalck} a vzít s sebou zbrojmistra neboli mistra dělostřelectva {zeug oder Artolorei meister}, kapitána justice {Capitan der Justitien} nebo generálního vachmistra {General Wachtmeister}, kvartýrmistra {Quartirmeister}, mistra vozové hradby {Wagenburgmeister}, furýra knechtů {Forirer} a 100 koní, střelců {Schützen} nebo lehkých koní {geringen pferde}. Z nich ať 15 jede napřed jako jeho přední hlídka {vorwart} a po každé straně 3 jako boční hlídky. Potom ať nechá za sebou jet 2 koně, mezi sebou a předvojovou korouhví {Renfanen} a předvojem vpředu, aby je mohl poslat k předvojové korouhvi, kdyby se něco přihodilo.[^2] Za tímto malým předvojem má jet předvojová korouhev s 200 koni, kopiníky {spiesser}, a po pravé straně střelecká korouhev {schützen Fan} se 100 koni, a to mají být střelci. Za nimi nebo vedle nich mají jet 2 kulveriny {Veldschlangen} a kára {Karn} se 2 koňmi, která veze tolik prachu {puluer} a koulí {kogeln}, kolik je pro ty 2 kusy zapotřebí. Hlavní houf {gewaltig Hauff} má mít 1500 koní, kopiníků. Za ním má táhnout trén {Droß} a potom 170 válečných vozů {Heerwagen} kromě vozů pánů a úředníků {Ampter}, totiž po jednom voze na 12 koní podle výpočtu služebního listu {bestallungs Rechnung}. Za vozy táhne zadní voj {nachzug} se 70 koňmi; z nich 7 koní tvoří zadní hlídku {nachwart} a po každé straně vedle zadního voje hlídkují 2 koně, to dělá 4 koně. Dohromady to činí 2000 koní.[^3]
 - typ: nadpis
   uroven: 3
   de: Zehen tausent Knecht.
@@ -33,14 +33,17 @@ bloky:
   de: |-
     Die 5. Hauptleut sollen mit jren 2000. knechten mit der vorwacht als der Veldmarschalck vnd seine Gesellen/ vorziehen/ das Leger schlagen/ auff den gantzen hauffen Knech die Quartir einnemen/ vnd jeglicher seiner Rotten losiern.
   cs: |-
-    Těchto 5 hejtmanů má se svými 2000 knechty vyrazit napřed s přední stráží {vorwacht}, totiž s polním maršálkem a jeho druhy, vytyčit ležení, zabrat kvartýry {Quartir} pro celý houf knechtů[^3] a každý z nich má ubytovat {losiern} své roty.
+    Těchto 5 hejtmanů má se svými 2000 knechty vyrazit napřed s přední stráží {vorwacht}, totiž s polním maršálkem a jeho druhy, vytyčit ležení, zabrat kvartýry {Quartir} pro celý houf knechtů[^4] a každý z nich má ubytovat {losiern} své roty.
 poznamky:
 - n: 1
   text: |-
-    Slovo *Vnd wil* na začátku druhého řádku je ve skenu (BSB) rozmazané; čteno podle smyslu.
+    Slova *Vnd wil* (konec prvního a začátek druhého řádku) jsou ve skenu BSB rozmazaná; čteno podle smyslu.
 - n: 2
   text: |-
-    Výslovně uvedené počty (100 + 200 + 100 + 1500 + 70 koní) dávají 1970, nikoli 2000 koní; rozdíl tisk nevysvětluje. Počet 170 vozů odpovídá zhruba klíči jeden vůz na 12 koní (2000 : 12 ≈ 167).
+    Místo *darnach 2. pferd nach vnd zwischen jm vnd dem Renfanen vnd vorzug dauorn ziehen lassen* je syntakticky nejasné; smysl je patrně ten, že dva jezdci jedou za polním maršálkem jako spojka mezi malým předvojem a předvojovou korouhví, která jede za ním.
 - n: 3
+  text: |-
+    Výslovně uvedené počty (100 + 200 + 100 + 1500 + 70 koní) dávají 1970, nikoli 2000 koní; rozdíl tisk nevysvětluje. Počet 170 vozů odpovídá zhruba klíči jeden vůz na 12 koní (2000 : 12 ≈ 167).
+- n: 4
   text: |-
     Tisk má *Knech* místo *Knecht* (tisková chyba).

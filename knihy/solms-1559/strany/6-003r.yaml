@@ -2,7 +2,7 @@ id: 6-003r
 list: 3 (6. kniha)
 strana: recto
 sken: 497
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -15,12 +15,12 @@ bloky:
   de: |-
     Deßgleichen dem Feldmarschalck den ich euch geben werde / in allem gehorchen vnd volgen / es sei im feld oder im leger / vnnd was er mit euch schafft / nit allein gehorsam sonder jm auch in seinem ampt beratsam vnd beistendig sein / ob jm vnd den seinen halten helffen vnd handthaben / Dann es ist ewer eigen Justitien ewer Volck euch helffen zu regiern / bei der billicheit vnd gebrauch zu halten / derhalben wöllet ewern Reuttern vnd gesindt so vnder euch sind / dahin halten / daß sie sich nit wider den Feldmarschalck setzen / damit ich nit verursacht werde selber Justitien zu halten / dann er ist in meiner statt alda.
   cs: |-
-    Rovněž máte polního maršálka {Feldmarschalck}, kterého vám dám, ve všem poslouchat a následovat, ať v poli, nebo v ležení {leger}. V tom, co vám nařídí, mu máte být nejen poslušni, ale také v jeho úřadu {ampt} nápomocni radou i skutkem a pomáhat jemu i jeho lidem [pořádek] držet a prosazovat. Je to totiž vaše vlastní justice: pomáhá vám řídit váš lid a udržovat ho ve slušnosti a dobrém obyčeji. Proto veďte své jezdce {Reuttern} a čeleď, kteří jsou pod vámi, k tomu, aby se polnímu maršálkovi nestavěli na odpor, abych nebyl nucen vykonávat justici sám; vždyť on je tam na mém místě.
+    Rovněž máte polního maršálka {Feldmarschalck}, kterého vám dám, ve všem poslouchat a následovat, ať v poli, nebo v ležení {leger}. V tom, co vám nařídí, mu máte být nejen poslušni, ale také v jeho úřadu {ampt} nápomocni radou i skutkem, stát při něm i při jeho lidech a pomáhat jim [pořádek] udržet. Je to totiž vaše vlastní justice: pomáhá vám řídit váš lid a udržovat ho ve slušnosti a dobrém obyčeji. Proto veďte své jezdce {Reuttern} a čeleď, kteří jsou pod vámi, k tomu, aby se polnímu maršálkovi nestavěli na odpor, abych nebyl nucen vykonávat justici sám; vždyť on je tam na mém místě.
 - typ: odstavec
   de: |-
     Deiweil jr Ritmeister mein gemůt in dem gehört / vnd ich euch ein statlichen vnd ehrlichen beuelch / mitsampt einer statlichen ehrlichen vnderhaltung gebe / so wil ich von euch auch haben / daß jr solcher bestallung nachsetzt vnd gelebt / wie ich daß euch beuelhen vnd vertrawen wil / als einem ehrlichen vom Adel vnnd Kriegßman / der nach ehren vnd nit nach finantz seine sachen außrichte / von ewern Reutern nichts anders annemen noch auff den Musterplatz brengen / dann was tüglich / vnd nach der maß wie oben gemelt / gerüst vnd beritten sei / vnd euch wie jrem Ritmeister inn allem / laut der gantzen bestallung / meiner Kriegßordnung vnd Justitien vnderworffen vnnd gehorsam sein wöllen.
   cs: |-
-    Poněvadž jste, rytmistře {Ritmeister}, v tom slyšel mé smýšlení a já vám dávám vznešené a čestné velení {beuelch} spolu s vydatným a čestným zaopatřením, chci také od vás, abyste se tímto služebním listem {bestallung} řídil a podle něho žil, jak vám to chci přikázat a svěřit jako čestnému šlechtici a válečníkovi {Kriegßman}, který své věci vyřizuje podle cti, a ne podle fint {finantz}. Nemáte od svých jezdců přijímat ani na přehlídkové místo {Musterplatz} přivádět nic jiného než to, co je způsobilé, podle výše uvedené míry vyzbrojené a na koni a co je ochotno se vám jako svému rytmistrovi ve všem podřídit a poslouchat podle celého služebního listu, mého válečného řádu {Kriegßordnung} a justice.
+    Poněvadž jste, rytmistře {Ritmeister}, v tom slyšel mé smýšlení a já vám dávám vznešené a čestné velení {beuelch} spolu s vydatným a čestným zaopatřením, chci také od vás, abyste se tímto služebním listem {bestallung} řídil a podle něho žil, jak vám to chci přikázat a svěřit jako čestnému šlechtici a válečníkovi {Kriegßman}, který své věci vyřizuje podle cti, a ne kvůli fintám {finantz}. Nemáte od svých jezdců přijímat ani na přehlídkové místo {Musterplatz} přivádět nic jiného než to, co je způsobilé, podle výše uvedené míry vyzbrojené a na koni a co je ochotno se vám jako svému rytmistrovi ve všem podřídit a poslouchat podle celého služebního listu, mého válečného řádu {Kriegßordnung} a justice.
 - typ: odstavec
   de: |-
     Item wirt der Ritmeister die bestallung also annemen vnd zu friden sein / denn neme mann seinen Refers von jm / vnd zur zeit der Musterung / mustert mann jn darauff.
