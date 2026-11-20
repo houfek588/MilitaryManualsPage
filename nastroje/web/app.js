@@ -343,7 +343,7 @@ function route() {
     default: html = V.nenalezeno();
   }
   OBSAH.innerHTML = html;
-  document.querySelectorAll('.menu a').forEach(a => a.classList.toggle('on', a.dataset.m === menu));
+  document.querySelectorAll('.menu-kniha a').forEach(a => a.classList.toggle('on', a.dataset.m === menu));
   const nadp = OBSAH.querySelector('h1');
   document.title = (nadp ? nadp.childNodes[0].textContent + ' – ' : '') + M.nazev;
   if (!(c[0] === 'kap' && c[2])) window.scrollTo(0, 0);

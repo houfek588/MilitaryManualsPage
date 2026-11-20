@@ -267,6 +267,7 @@ def build_kniha(kniha_dir):
     html = html.replace('src="data.js"', f'src="data.js?v={VERZE}"').replace('app.js"', f'app.js?v={VERZE}"').replace('app.css"', f'app.css?v={VERZE}"').replace('tema.js"', f'tema.js?v={VERZE}"')
     html = html.replace('{{NAZEV}}', meta['nazev']).replace('{{AUTOR}}', meta['autor']).replace('{{ROK}}', str(meta['rok']))
     html = html.replace('{{WEB}}', esc(PROJEKT['nazev'])).replace('{{EMAIL}}', esc(PROJEKT['email']))
+    html = html.replace('{{PODTITUL}}', esc(PROJEKT.get('podtitul')))
     html = html.replace('{{SOCIALNI}}', socialni_html())
     html = html.replace('{{VERZE_WEBU}}', esc(PROJEKT.get('verze')))
     html = html.replace('{{SKEN_ZDROJ}}', esc(meta['sken'].get('paticka') or ('Sken: ' + meta['sken'].get('instituce', ''))))
