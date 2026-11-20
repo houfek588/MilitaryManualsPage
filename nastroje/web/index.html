@@ -27,18 +27,42 @@
   <p class="upozorneni">Překlady jsou zatím převážně <b>strojové (AI)</b> a postupně je kontroluje člověk – u každé strany je
   vyznačeno, zda už byla ověřena. Najdete-li chybu, dejte prosím vědět na <a href="mailto:{{EMAIL}}?subject=Vojensk%C3%A9%20manu%C3%A1ly%20%E2%80%93%20oprava">{{EMAIL}}</a>.
   Více <a href="o-projektu.html">o projektu</a>.</p>
+  <div class="razeni" role="group" aria-label="Řazení knih">
+    <span class="m">Řadit:</span>
+    <button class="tl" type="button" data-raz="rok" aria-pressed="true" title="Podle roku vydání, od nejstarší">Rok ↑</button>
+    <button class="tl" type="button" data-raz="-rok" aria-pressed="false" title="Podle roku vydání, od nejnovější">Rok ↓</button>
+    <button class="tl" type="button" data-raz="autor" aria-pressed="false" title="Podle příjmení autora, A–Z">Autor A–Z</button>
+    <button class="tl" type="button" data-raz="-autor" aria-pressed="false" title="Podle příjmení autora, Z–A">Autor Z–A</button>
+  </div>
   <div class="dlazdice" id="knihy"></div>
 </main>
 <footer class="pata wrap">{{PATICKA}}</footer>
 <script>
 const KNIHY = /*KNIHY*/[];
 const STAVY = {zkontrolovano:'zkontrolováno strojově', prelozeno:'přeloženo', castecne:'částečně', chybi_preklad:'bez překladu', chybi_original:'bez textu'};
-document.getElementById('knihy').innerHTML = KNIHY.map(k => {
-  const hotovo = (k.stav.zkontrolovano||0) + (k.stav.prelozeno||0);
-  return `<a class="dl kniha" href="${k.id}/index.html"><span class="rok">${k.rok}</span><b>${k.nazev}</b>
-  <i class="de">${k.nazev_orig}</i><span>${k.autor}</span><p>${k.popis}</p>
-  <span class="m">${hotovo} z ${k.stran} stran přeloženo · ověřeno člověkem ${k.overeno || 0} · ${Object.entries(k.stav).map(([s,n])=>`${STAVY[s]||s} ${n}`).join(' · ')}</span></a>`;
-}).join('');
+const rok = k => parseInt(String(k.rok).match(/\d{3,4}/) || 9999, 10);
+const podleNazvu = (a, b) => a.nazev.localeCompare(b.nazev, 'cs');
+const podleAutora = (a, b) => (a.autor_razeni || a.autor).localeCompare(b.autor_razeni || b.autor, 'cs') || rok(a) - rok(b);
+const RAZENI = {   // výchozí: podle roku od nejstarší
+  'rok': (a, b) => rok(a) - rok(b) || podleNazvu(a, b),
+  '-rok': (a, b) => rok(b) - rok(a) || podleNazvu(a, b),
+  'autor': podleAutora,               // podle příjmení autora (kniha.yaml → autor_razeni)
+  '-autor': (a, b) => podleAutora(b, a),
+};
+function vykresli(razeni) {
+  document.getElementById('knihy').innerHTML = [...KNIHY].sort(RAZENI[razeni]).map(k => {
+    const hotovo = (k.stav.zkontrolovano||0) + (k.stav.prelozeno||0);
+    return `<a class="dl kniha" href="${k.id}/index.html"><span class="rok">${k.rok}</span><b>${k.nazev}</b>
+    <i class="de">${k.nazev_orig}</i><span>${k.autor}</span><p>${k.popis}</p>
+    <span class="m">${hotovo} z ${k.stran} stran přeloženo · ověřeno člověkem ${k.overeno || 0} · ${Object.entries(k.stav).map(([s,n])=>`${STAVY[s]||s} ${n}`).join(' · ')}</span></a>`;
+  }).join('');
+  document.querySelectorAll('.razeni [data-raz]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.raz === razeni)));
+}
+document.querySelector('.razeni').addEventListener('click', e => {
+  const b = e.target.closest('[data-raz]');
+  if (b) vykresli(b.dataset.raz);
+});
+vykresli('rok');
 </script>
 </body>
 </html>

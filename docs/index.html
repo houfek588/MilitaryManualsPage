@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Vojenské manuály</title>
 <link rel="icon" href="assets/favicon.png" type="image/png">
-<link rel="stylesheet" href="assets/app.css?v=e6a97e417f">
+<link rel="stylesheet" href="assets/app.css?v=0630e287d1">
 <script src="assets/tema.js?v=9051df69f5"></script>
 </head>
 <body>
@@ -29,18 +29,42 @@
   <p class="upozorneni">Překlady jsou zatím převážně <b>strojové (AI)</b> a postupně je kontroluje člověk – u každé strany je
   vyznačeno, zda už byla ověřena. Najdete-li chybu, dejte prosím vědět na <a href="mailto:houfek.pavel@gmail.com?subject=Vojensk%C3%A9%20manu%C3%A1ly%20%E2%80%93%20oprava">houfek.pavel@gmail.com</a>.
   Více <a href="o-projektu.html">o projektu</a>.</p>
+  <div class="razeni" role="group" aria-label="Řazení knih">
+    <span class="m">Řadit:</span>
+    <button class="tl" type="button" data-raz="rok" aria-pressed="true" title="Podle roku vydání, od nejstarší">Rok ↑</button>
+    <button class="tl" type="button" data-raz="-rok" aria-pressed="false" title="Podle roku vydání, od nejnovější">Rok ↓</button>
+    <button class="tl" type="button" data-raz="autor" aria-pressed="false" title="Podle příjmení autora, A–Z">Autor A–Z</button>
+    <button class="tl" type="button" data-raz="-autor" aria-pressed="false" title="Podle příjmení autora, Z–A">Autor Z–A</button>
+  </div>
   <div class="dlazdice" id="knihy"></div>
 </main>
 <footer class="pata wrap"><a href="index.html">Knihovna</a> · <a href="o-projektu.html">O projektu</a> · Pavel Houfek, <a href="mailto:houfek.pavel@gmail.com">houfek.pavel@gmail.com</a> · pro skupinu <a href="https://www.rattenschwanz.cz" target="_blank" rel="noopener">Fähnlein Rattenschwanz</a> · <span class="verze">verze 4.4.0</span></footer>
 <script>
-const KNIHY = [{"id": "solms-1559", "nazev": "Válečný popis a řád válečné správy", "nazev_orig": "Dises Buch vnd Kriegsbeschreibung ist vermelten vnd berichten einer guten ordentlichen Kriegsregierung", "autor": "Reinhard hrabě ze Solmsu", "rok": 1559, "popis": "Monumentální válečné dílo říšského hraběte Reinharda ze Solmsu (knihy 1–9): válečná správa, služební listy, úřady, žold a artikulní list starého německého vojska, dělostřelectvo a zbrojnice, prach a ohňostroje, děla a lafety, podkopy a polní sruby, přehlídka jízdy, válečná karetní hra, obsazení a zásobování města a Burgundský válečný řád.", "stav": {"zkontrolovano": 652}, "stran": 652, "overeno": 0}, {"id": "fronsberger-1564", "nazev": "Válečný řád a zřízení", "nazev_orig": "Kriegs Ordnung vnd Regiment", "autor": "Leonhart Fronsperger", "rok": 1564, "popis": "Příručka organizace žoldnéřského vojska 16. století: úřady, přísahy a povinnosti velitelů jízdy, pěchoty a dělostřelectva, soudní řád lancknechtů, artikulní list, posádky a obrana měst a obecná poučení o vedení války.", "stav": {"zkontrolovano": 249}, "stran": 249, "overeno": 0}, {"id": "bern-1615", "nazev": "Stručný přehled a návod k válečnému cvičení a výcviku", "nazev_orig": "Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung", "autor": "Město Bern (připisováno Valentinu Friderichovi)", "rok": 1615, "popis": "Výcviková příručka městské a zemské milice republiky Bern sestavená podle oranžských (nizozemských) vojenských reforem Mořice Nasavského: úvodní nařízení rady města Bernu, 40 povelů a postupů pro cvičení s mušketou, 19 pro cvičení s píkou a 33 povelů s výkladem pro obraty a zdvojování bitevního šiku.", "stav": {"zkontrolovano": 68}, "stran": 68, "overeno": 0}, {"id": "lavater-1651", "nazev": "Válečná knížka", "nazev_orig": "Kriegs-Büchlein", "autor": "Hans Conrad Lavater", "rok": 1651, "popis": "Příručka curyšského hejtmana pro důstojníky zemské milice: stavba pevnosti a jejích děl, služba posádky, úřady a přísahy velitelů, cvičení s mušketou a píkou, šiky pěchoty a jízdy, tažení, ležení a obléhání. Doplněna výkladem cizích (francouzských a italských) vojenských výrazů.", "stav": {"zkontrolovano": 164}, "stran": 164, "overeno": 0}];
+const KNIHY = [{"id": "solms-1559", "nazev": "Válečný popis a řád válečné správy", "nazev_orig": "Dises Buch vnd Kriegsbeschreibung ist vermelten vnd berichten einer guten ordentlichen Kriegsregierung", "autor": "Reinhard hrabě ze Solmsu", "autor_razeni": "Solms, Reinhard", "rok": 1559, "popis": "Monumentální válečné dílo říšského hraběte Reinharda ze Solmsu (knihy 1–9): válečná správa, služební listy, úřady, žold a artikulní list starého německého vojska, dělostřelectvo a zbrojnice, prach a ohňostroje, děla a lafety, podkopy a polní sruby, přehlídka jízdy, válečná karetní hra, obsazení a zásobování města a Burgundský válečný řád.", "stav": {"zkontrolovano": 652}, "stran": 652, "overeno": 0}, {"id": "fronsberger-1564", "nazev": "Válečný řád a zřízení", "nazev_orig": "Kriegs Ordnung vnd Regiment", "autor": "Leonhart Fronsperger", "autor_razeni": "Fronsperger, Leonhart", "rok": 1564, "popis": "Příručka organizace žoldnéřského vojska 16. století: úřady, přísahy a povinnosti velitelů jízdy, pěchoty a dělostřelectva, soudní řád lancknechtů, artikulní list, posádky a obrana měst a obecná poučení o vedení války.", "stav": {"zkontrolovano": 249}, "stran": 249, "overeno": 0}, {"id": "bern-1615", "nazev": "Stručný přehled a návod k válečnému cvičení a výcviku", "nazev_orig": "Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung", "autor": "Město Bern (připisováno Valentinu Friderichovi)", "autor_razeni": "Bern", "rok": 1615, "popis": "Výcviková příručka městské a zemské milice republiky Bern sestavená podle oranžských (nizozemských) vojenských reforem Mořice Nasavského: úvodní nařízení rady města Bernu, 40 povelů a postupů pro cvičení s mušketou, 19 pro cvičení s píkou a 33 povelů s výkladem pro obraty a zdvojování bitevního šiku.", "stav": {"zkontrolovano": 68}, "stran": 68, "overeno": 0}, {"id": "lavater-1651", "nazev": "Válečná knížka", "nazev_orig": "Kriegs-Büchlein", "autor": "Hans Conrad Lavater", "autor_razeni": "Lavater, Hans Conrad", "rok": 1651, "popis": "Příručka curyšského hejtmana pro důstojníky zemské milice: stavba pevnosti a jejích děl, služba posádky, úřady a přísahy velitelů, cvičení s mušketou a píkou, šiky pěchoty a jízdy, tažení, ležení a obléhání. Doplněna výkladem cizích (francouzských a italských) vojenských výrazů.", "stav": {"zkontrolovano": 164}, "stran": 164, "overeno": 0}];
 const STAVY = {zkontrolovano:'zkontrolováno strojově', prelozeno:'přeloženo', castecne:'částečně', chybi_preklad:'bez překladu', chybi_original:'bez textu'};
-document.getElementById('knihy').innerHTML = KNIHY.map(k => {
-  const hotovo = (k.stav.zkontrolovano||0) + (k.stav.prelozeno||0);
-  return `<a class="dl kniha" href="${k.id}/index.html"><span class="rok">${k.rok}</span><b>${k.nazev}</b>
-  <i class="de">${k.nazev_orig}</i><span>${k.autor}</span><p>${k.popis}</p>
-  <span class="m">${hotovo} z ${k.stran} stran přeloženo · ověřeno člověkem ${k.overeno || 0} · ${Object.entries(k.stav).map(([s,n])=>`${STAVY[s]||s} ${n}`).join(' · ')}</span></a>`;
-}).join('');
+const rok = k => parseInt(String(k.rok).match(/\d{3,4}/) || 9999, 10);
+const podleNazvu = (a, b) => a.nazev.localeCompare(b.nazev, 'cs');
+const podleAutora = (a, b) => (a.autor_razeni || a.autor).localeCompare(b.autor_razeni || b.autor, 'cs') || rok(a) - rok(b);
+const RAZENI = {   // výchozí: podle roku od nejstarší
+  'rok': (a, b) => rok(a) - rok(b) || podleNazvu(a, b),
+  '-rok': (a, b) => rok(b) - rok(a) || podleNazvu(a, b),
+  'autor': podleAutora,               // podle příjmení autora (kniha.yaml → autor_razeni)
+  '-autor': (a, b) => podleAutora(b, a),
+};
+function vykresli(razeni) {
+  document.getElementById('knihy').innerHTML = [...KNIHY].sort(RAZENI[razeni]).map(k => {
+    const hotovo = (k.stav.zkontrolovano||0) + (k.stav.prelozeno||0);
+    return `<a class="dl kniha" href="${k.id}/index.html"><span class="rok">${k.rok}</span><b>${k.nazev}</b>
+    <i class="de">${k.nazev_orig}</i><span>${k.autor}</span><p>${k.popis}</p>
+    <span class="m">${hotovo} z ${k.stran} stran přeloženo · ověřeno člověkem ${k.overeno || 0} · ${Object.entries(k.stav).map(([s,n])=>`${STAVY[s]||s} ${n}`).join(' · ')}</span></a>`;
+  }).join('');
+  document.querySelectorAll('.razeni [data-raz]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.raz === razeni)));
+}
+document.querySelector('.razeni').addEventListener('click', e => {
+  const b = e.target.closest('[data-raz]');
+  if (b) vykresli(b.dataset.raz);
+});
+vykresli('rok');
 </script>
 </body>
 </html>

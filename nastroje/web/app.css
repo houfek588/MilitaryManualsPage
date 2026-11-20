@@ -73,6 +73,8 @@ h2.sekce{font-size:20px;margin:34px 0 10px;color:var(--ink);border-bottom:2px so
 .prazdne{color:var(--muted);font-style:italic}
 .chip{display:inline-block;margin:3px 6px 3px 0;padding:5px 12px;border:1px solid var(--accent);border-radius:3px;font:700 13px var(--head);color:var(--accent);background:var(--panel);color:var(--ink);text-decoration:none}
 .chip:hover{background:var(--accent);color:#fff}
+.razeni{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:20px 0 -6px}   /* přepínač řazení knih v Knihovně */
+.razeni .m{margin-right:4px}
 .dlazdice{display:grid;grid-template-columns:1fr;gap:14px;margin:20px 0}   /* knihy v rozcestníku pod sebou */
 .dl{display:block;padding:16px 18px;border:1px solid var(--line);border-top:4px solid var(--accent);border-radius:3px;background:var(--panel);color:var(--ink);text-decoration:none}
 .dl:hover{box-shadow:0 4px 14px rgba(0,0,0,.1)}

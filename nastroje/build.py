@@ -360,7 +360,7 @@ def build_kniha(kniha_dir):
     html = html.replace('{{PREDMET}}', urllib.parse.quote(f"{meta['nazev']} – oprava"))
     (out / 'index.html').write_text(varovani(html, 'nastroje/web/kniha.html (texty knihy v knihy/<kniha>/)'), encoding='utf-8')
     print(f"web {PROJEKT.get('verze')} · {meta['id']}: {len(pages)} stran (ověřeno člověkem {data['overeno']}), {len(blocks)} bloků, {len(sections)} oddílů, {len(hesla)} hesel, data.js {len(js) // 1024} kB, {stats}")
-    return dict(id=meta['id'], nazev=meta['nazev'], nazev_orig=meta['nazev_orig'], autor=meta['autor'], rok=meta['rok'],
+    return dict(id=meta['id'], nazev=meta['nazev'], nazev_orig=meta['nazev_orig'], autor=meta['autor'], autor_razeni=meta.get('autor_razeni') or meta['autor'], rok=meta['rok'],
                 popis=meta.get('popis', ''), stav=stats, stran=len(pages), overeno=data['overeno'])
 
 
