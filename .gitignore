@@ -6,3 +6,6 @@ Lavater/
 Solms/
 prvotni_zadani.txt
 glosar_Schilling.csv
+
+# vygenerovaný web – sestavuje GitHub Actions (.github/workflows/pages.yml), lokálně: python -I nastroje/build.py
+docs/
