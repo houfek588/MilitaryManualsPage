@@ -9,14 +9,47 @@ Výstup:   docs/index.html                 rozcestník knih
           docs/<kniha>/data.js            data knihy (window.EDICE = {...}); <script src>, takže funguje i z file://
           docs/<kniha>/obrazky/*
 """
-import html as htmlmod, json, re, shutil, sys, time, unicodedata, urllib.parse, pathlib
+import hashlib, html as htmlmod, json, re, shutil, sys, unicodedata, urllib.parse, pathlib
+from collections import defaultdict
 import yaml
 
 KOREN = pathlib.Path(__file__).resolve().parent.parent
 WEB = KOREN / 'nastroje' / 'web'
 DOCS = KOREN / 'docs'
-VERZE = time.strftime('%Y%m%d%H%M')  # proti zastaralé mezipaměti prohlížeče
-PROJEKT = yaml.safe_load((KOREN / 'projekt.yaml').read_text(encoding='utf-8'))
+# YAML: rychlý C parser (libyaml), je-li k dispozici – jinak čistý Python (stejný výsledek, jen pomaleji)
+_LOADER = getattr(yaml, 'CSafeLoader', yaml.SafeLoader)
+
+
+def nacti_yaml(text):
+    return yaml.load(text, Loader=_LOADER)
+
+
+PROJEKT = nacti_yaml((KOREN / 'projekt.yaml').read_text(encoding='utf-8'))
+
+
+def otisk(data):
+    """Krátký otisk obsahu souboru pro ?v= (prohlížeč stáhne soubor znovu jen tehdy, když se opravdu změnil)."""
+    if isinstance(data, pathlib.Path):
+        data = data.read_bytes()
+    if isinstance(data, str):
+        data = data.encode('utf-8')
+    return hashlib.sha1(data).hexdigest()[:10]
+
+
+def s_verzemi(html, soubory):
+    """Doplní k odkazům na soubory ?v=<otisk obsahu>; soubory = {jméno v HTML: obsah nebo cesta}."""
+    for jmeno, obsah in soubory.items():
+        html = html.replace(f'{jmeno}"', f'{jmeno}?v={otisk(obsah)}"')
+    return html
+
+
+def kopiruj_zmenene(zdroj, cil):
+    """Zkopíruje soubor jen tehdy, když se liší velikost nebo čas změny (obrázky mají desítky MB)."""
+    if cil.exists():
+        a, b = zdroj.stat(), cil.stat()
+        if a.st_size == b.st_size and int(a.st_mtime) == int(b.st_mtime):
+            return
+    shutil.copy2(zdroj, cil)
 esc = lambda t: htmlmod.escape(str(t or ''), quote=True)
 
 
@@ -91,7 +124,7 @@ def staticka_stranka(sablona, knihy=None):
         t = t.replace(k, v)
     if knihy is not None:
         t = t.replace('/*KNIHY*/[]', json.dumps(knihy, ensure_ascii=False))
-    return t.replace('app.css"', f'app.css?v={VERZE}"').replace('tema.js"', f'tema.js?v={VERZE}"')
+    return s_verzemi(t, {'app.css': WEB / 'app.css', 'tema.js': WEB / 'tema.js'})
 
 
 def slug(s, maxlen=48):
@@ -121,6 +154,53 @@ def norm_de(s):
     return re.sub(r'[^a-z]', '', s)
 
 
+def povinny_zacatek(vzor):
+    """Pevný úvod regulárního výrazu (např. 'plukovní' z 'plukovní[kc]'), který musí být v textu, aby výraz mohl
+    zabrat; slouží jen k rychlému předfiltrování bloků. Při jakékoli nejistotě vrací '' (= nefiltrovat)."""
+    if '|' in vzor.replace('\\|', ''):   # alternativa: úvod nemusí být povinný
+        hloubka, i = 0, 0
+        for ch in vzor:
+            hloubka += ch == '('
+            hloubka -= ch == ')'
+            if ch == '|' and hloubka == 0:
+                return ''
+    s = vzor[2:] if vzor.startswith('\\b') else vzor
+    m = re.match(r"[^\\\[\]\(\)\.\*\+\?\{\}\|\^\$]+", s)
+    if not m:
+        return ''
+    lit = m.group(0)
+    if m.end() < len(s) and s[m.end()] in '?*{':
+        lit = lit[:-1]                    # poslední znak je volitelný
+    return lit.lower() if len(lit) >= 3 else ''
+
+
+def odvod_tvar(klic, presne, poradi_klicu):
+    """Stejné pravidlo jako v app.js (najdiHeslo): přesný tvar, jinak základ + koncovka s nejdřívějším pořadím v glosáři."""
+    if klic in presne:
+        return presne[klic]
+    nej = None
+    for suf in KONCOVKY:
+        zaklad = klic[:-len(suf)]
+        if klic.endswith(suf) and zaklad in presne and (nej is None or poradi_klicu[zaklad] < nej[0]):
+            nej = (poradi_klicu[zaklad], presne[zaklad])
+    return nej[1] if nej else None
+
+
+def komprimuj_demap(presne_vse, de_map):
+    """Z úplné mapy tvar → heslo nechá jen přesné tvary z glosáře a výjimky, které pravidlo s koncovkami neodvodí."""
+    presne = {k: v for k, v in presne_vse.items() if de_map.get(k) == v}
+    poradi_klicu = {k: i for i, k in enumerate(presne)}
+    vyjimky = {}
+    kandidati = set(de_map) | {k + s for k in presne for s in KONCOVKY}
+    for klic in kandidati:
+        cil = de_map.get(klic)
+        if klic in presne:
+            continue
+        if odvod_tvar(klic, presne, poradi_klicu) != cil:
+            vyjimky[klic] = cil or ''      # '' = tvar se nepropojuje (bez_odkazu)
+    return presne, dict(sorted(vyjimky.items()))
+
+
 def poradi(kniha_dir, meta=None):
     """Pořadí stran edice = pořadí skenů (pole `sken`); funguje pro foliaci i stránkování."""
     klice = []
@@ -131,8 +211,8 @@ def poradi(kniha_dir, meta=None):
 
 
 def build_kniha(kniha_dir):
-    meta = yaml.safe_load((kniha_dir / 'kniha.yaml').read_text(encoding='utf-8'))
-    glos = yaml.safe_load((kniha_dir / 'glosar.yaml').read_text(encoding='utf-8'))
+    meta = nacti_yaml((kniha_dir / 'kniha.yaml').read_text(encoding='utf-8'))
+    glos = nacti_yaml((kniha_dir / 'glosar.yaml').read_text(encoding='utf-8'))
     pages, blocks, sections = [], [], []
     stack = []  # otevřené oddíly (indexy do sections)
     used_slugs = set()
@@ -163,7 +243,7 @@ def build_kniha(kniha_dir):
 
     for pidx, pid in enumerate(poradi(kniha_dir, meta)):
         try:
-            d = yaml.safe_load((kniha_dir / 'strany' / f'{pid}.yaml').read_text(encoding='utf-8'))
+            d = nacti_yaml((kniha_dir / 'strany' / f'{pid}.yaml').read_text(encoding='utf-8'))
         except Exception as e:  # rozpracovaný soubor – stranu vynech, build nesmí spadnout
             print(f'  ! {pid}: chyba YAML, strana vynechána ({str(e).splitlines()[0]})')
             d = dict(id=pid, stav='chybi_original', bloky=[])
@@ -215,29 +295,34 @@ def build_kniha(kniha_dir):
     # tvary, které se odvodily chybně (Massen = měrky na prach, ne máz) – v glosáři klíč bez_odkazu
     for v in glos.get('bez_odkazu') or []:
         de_map.pop(norm_de(v), None)
+    texty = [plain(b.get('cs')) for b in blocks]        # čistý český text bloků – jednou, ne pro každé heslo zvlášť
+    texty_mala = [cs.lower() for cs in texty]
+    zavorky = [[(m, norm_de(m.group(1).split('/')[0])) for m in re.finditer(r'\[([^\]]+)\]', cs)] if cs else [] for cs in texty]
+    klice_hesla = defaultdict(set)
+    for k, hid in de_map.items():
+        klice_hesla[hid].add(k)
+
+    def u16(s, i):  # pozice znaku v UTF-16 (tak počítá JavaScript)
+        return len(s[:i].encode('utf-16-le')) // 2
+
     hesla = []
     for h in glos['hesla']:
-        rx = [re.compile(x, re.I) for x in h.get('hledat', [])]
-        dn = {k for k, hid in de_map.items() if hid == h['id']}
+        rx = [(re.compile(x, re.I), povinny_zacatek(x)) for x in h.get('hledat', [])]
+        dn = klice_hesla.get(h['id'], set())
         vys = []
-        for bi, b in enumerate(blocks):
-            cs = plain(b.get('cs'))
+        for bi, cs in enumerate(texty):
             if not cs:
                 continue
-            hit = None
-            for m in re.finditer(r'\[([^\]]+)\]', cs):
-                if norm_de(m.group(1).split('/')[0]) in dn:
-                    hit = m
-                    break
+            hit = next((m for m, n in zavorky[bi] if n in dn), None)
             if not hit:
-                for r in rx:
+                for r, lit in rx:
+                    if lit and lit not in texty_mala[bi]:
+                        continue                  # pevný začátek výrazu v bloku není → výraz nemůže zabrat
                     hit = r.search(cs)
                     if hit:
                         break
-            if hit:
-                a, z = max(0, hit.start() - 70), min(len(cs), hit.end() + 70)
-                vys.append(dict(b=bi, k=('…' if a else '') + cs[a:hit.start()], h=hit.group(0),
-                                z=cs[hit.end():z] + ('…' if z < len(cs) else '')))
+            if hit:   # výskyt = [blok, začátek, konec]; úryvek kolem něj složí prohlížeč z textu bloku
+                vys.append([bi, u16(cs, hit.start()), u16(cs, hit.end())])
         hesla.append(dict(id=h['id'], cs=h['cs'], de=h.get('de', []), kat=h.get('kategorie'), pozn=h.get('pozn', ''), v=vys))
     # hesla bez výskytu v této knize (sdílený glosář) na web nedávat; odkazy {Termín} na ně by vedly do prázdna
     pouzite_termy = set()
@@ -247,12 +332,13 @@ def build_kniha(kniha_dir):
     hesla = [h for h in hesla if h['v'] or h['id'] in pouzite_termy]
     zustava = {h['id'] for h in hesla}
     de_map = {k: v for k, v in de_map.items() if v in zustava}
+    demap_presne, demap_vyjimky = komprimuj_demap(presne, de_map)
 
     # ---- obrázky
     out = DOCS / meta['id']
     (out / 'obrazky').mkdir(parents=True, exist_ok=True)
     for f in (kniha_dir / 'obrazky').glob('*'):
-        shutil.copy2(f, out / 'obrazky' / f.name)
+        kopiruj_zmenene(f, out / 'obrazky' / f.name)
 
     stats = {}
     for p in pages:
@@ -260,13 +346,14 @@ def build_kniha(kniha_dir):
     data = dict(meta={k: meta[k] for k in meta if k not in ('poznamky_k_prekladu',)},
                 projekt=dict(nazev=PROJEKT['nazev'], email=PROJEKT['email'], autor=PROJEKT['autor']),
                 kategorie=glos.get('kategorie', {}), stranky=pages, bloky=blocks, oddily=sections,
-                hesla=hesla, demap=de_map, stav=stats, overeno=sum(1 for p in pages if p.get('ov')))
+                hesla=hesla, demap=demap_presne, demapx=demap_vyjimky, koncovky=KONCOVKY, stav=stats, overeno=sum(1 for p in pages if p.get('ov')))
     js = 'window.EDICE = ' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';\n'
     (out / 'data.js').write_text(js, encoding='utf-8')
     html = (WEB / 'kniha.html').read_text(encoding='utf-8')
-    html = html.replace('src="data.js"', f'src="data.js?v={VERZE}"').replace('app.js"', f'app.js?v={VERZE}"').replace('app.css"', f'app.css?v={VERZE}"').replace('tema.js"', f'tema.js?v={VERZE}"')
+    html = s_verzemi(html, {'data.js': js, 'app.js': WEB / 'app.js', 'app.css': WEB / 'app.css', 'tema.js': WEB / 'tema.js'})
     html = html.replace('{{NAZEV}}', meta['nazev']).replace('{{AUTOR}}', meta['autor']).replace('{{ROK}}', str(meta['rok']))
     html = html.replace('{{WEB}}', esc(PROJEKT['nazev'])).replace('{{EMAIL}}', esc(PROJEKT['email']))
+    html = html.replace('{{PODTITUL}}', esc(PROJEKT.get('podtitul')))
     html = html.replace('{{SOCIALNI}}', socialni_html())
     html = html.replace('{{VERZE_WEBU}}', esc(PROJEKT.get('verze')))
     html = html.replace('{{SKEN_ZDROJ}}', esc(meta['sken'].get('paticka') or ('Sken: ' + meta['sken'].get('instituce', ''))))

@@ -1,0 +1,51 @@
+# Sestaví web z knihy/ a nástrojů a nasadí ho na GitHub Pages.
+# Nastavení repozitáře: Settings → Pages → Build and deployment → Source: „GitHub Actions“.
+# Složka docs/ pak nemusí být v gitu – web se pokaždé sestaví čerstvě ze zdrojových YAML.
+name: Web (GitHub Pages)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
+      - run: pip install -r requirements.txt
+      - name: Kontrola dat stran (chyba = build se nenasadí)
+        run: |
+          for k in knihy/*/; do
+            python -I nastroje/over_strany.py "$k" > kontrola.txt || { cat kontrola.txt; exit 1; }
+            tail -n 1 kontrola.txt
+          done
+      - name: Sestavení webu
+        run: python -I nastroje/build.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
