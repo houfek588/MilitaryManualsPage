@@ -1,0 +1,62 @@
+id: 028r
+list: '[28] r'
+strana: recto
+sken: 55
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item es ist auch in gemainem brauch/das man der geschossen Kuglen etwavil wider pringt/sy seyen der Veind oder Fraind gewesen/so soll sy der Lutinant wider lösen/von den/die sy bringen.
+  cs: |-
+    Dále je obecným zvykem, že se zpět přináší dost vystřelených koulí {Kuglen}, ať nepřátelských, nebo vlastních; ty má poručík {Lutinant} od těch, kdo je přinesou, vykoupit.
+- typ: nadpis
+  uroven: 3
+  de: Tax/was für die Kugeln gegeben werden soll.
+  cs: Sazba {Tax} – co se má dávat za koule
+- typ: odstavec
+  de: |-
+    Namlich ain Metzen oder Basiliscen kugel/Nachtigallen/Singerin/vnd Quartanen/das seind Maurenbrecherin/darfür soll gegeben werden 4 Kreützer. Für Trachen/Schlanngen kugeln/für aine 2 kreützer/für ain Valckonet kugel 1 Creützer.
+  cs: |-
+    Totiž za kouli z mece {Metzen} nebo z baziliška {Basiliscen}, ze slavíka {Nachtigallen}, ze zpěvačky {Singerin} a z kartouny {Quartanen} – to jsou bořiči hradeb {Maurenbrecherin} – se mají dát 4 krejcary {Kreützer}. Za koule z draků {Trachen}[^1] a kulverin {Schlanngen} 2 krejcary za jednu, za kouli z falkonetu {Valckonet} 1 krejcar.
+- typ: odstavec
+  de: |-
+    Das ist darfür gůt/das die kugeln wider gepracht werden/wenn man nichts darfür hett/wurden sy sellten wider komen/Vnd wenn dann der Lutinant der Kuglen vil oder wenig hat/so soll sy der Zewgwart von jm in die Artelarey nemen/vnd dem Zewg Lutinanten/des ain Zedelin geben/vnnder seinem Handt Zaichen oder Pütschafft/wie vil der/oder jhener Kugeln Er empfangen hab/Darnach nymt der Zewgzal Schreiber oder Pfenningmaister denselben Zedel/vnd bezalt dem Lutinanten die Kugeln darauff/Also mag dem Kriegßherren abermals nichts ab getragen werden/Es wären dann Zwen oder drey böswicht darob.
+  cs: |-
+    To je dobré k tomu, aby se koule přinášely zpět; kdyby se za ně nic nedostávalo, vracely by se jen zřídka. Ať má pak poručík koulí mnoho nebo málo, má je od něho zbrojní správce {Zewgwart} převzít do dělostřelectva {Artelarey} a zbrojmistrovu poručíkovi {Zewg Lutinanten} o tom dát lístek {Zedelin} pod svým vlastnoručním znamením nebo pečetí, kolik těch či oněch koulí přijal. Potom vezme zbrojní platebník {Zewgzal Schreiber} neboli pokladník {Pfenningmaister} tento lístek a podle něho poručíkovi koule zaplatí. Ani tak nemůže být válečnému pánu {Kriegßherren} nic odcizeno, leda by se na tom spolčili dva nebo tři darebáci.
+- typ: odstavec
+  de: |-
+    Darnach nymts der Zewgwart/vnd treybt dieselben Kugeln/durch die Ler seiner Kugeln/so zů den Büchsen gehören/die er hat/vnd was er gerecht findt/das thůt er zů denselben seinen Kuglen/vnnd laßt sy wider hinein schiessen/Was nit gerecht ist/das thůt Er besonnder/behellt sy biß jm die Büchsen auch darzů werdn/Amen Das es nur bald geschech/wär vns gůt.
+  cs: |-
+    Potom je zbrojní správce vezme a prožene je měrkami {Ler}[^2] pro koule děl {Büchsen}, která má. Co najde správné ráže, přidá ke svým koulím a dá je znovu vystřílet dovnitř [do obléhaného místa]. Co nesedí, uloží zvlášť a ponechá si to, dokud k tomu nezíská i [nepřátelská] děla. Amen – kéž by se to stalo brzy, bylo by to pro nás dobré.
+- typ: odstavec
+  de: |-
+    Also ist gehört/von des Zewgwarten Beuelch vnd Ampt.
+  cs: |-
+    Tolik o pověření a úřadu zbrojního správce.
+- typ: nadpis
+  uroven: 3
+  de: Von der Geschirrmaister Beuelch vnd Ampt/volgt hernach.
+  cs: Následuje o pověření a úřadu vozmistrů {Geschirrmaister}
+- typ: odstavec
+  de: |-
+    Item die Geschirrmaister/die nimpt man gewonlich von Fürleütten/die die Straß von ainem Lanndt in das ander gebraucht/vnd jr tag vil gefaren/Auch wol bekannt/vnd andern Fürlewten/die wissen am basten/welche Fürlewt wol gemänt seind/gůtte Roß vnd Geschirr haben.
+  cs: |-
+    Dále se vozmistři obvykle berou z vozků {Fürleütten}, kteří jezdili po silnicích z jedné země do druhé a za svůj život hodně najezdili. Jsou také dobře známí ostatním vozkům, a proto nejlépe vědí, kteří vozkové mají dobré spřežení, dobré koně a postroje {Geschirr}.
+- typ: odstavec
+  de: |-
+    Item sy werden gewonlich vom Zewgmaister außgesandt/die Wägen Roß vnd Fürlewt zubewerben vnd bestellen/Man můß sy offt weyt zůsamen treyben/Es thůts nit yederman gern/die Fürlewt seind nit all Kriegßlewt/Aber ains tails Schweinßhewt.
+  cs: |-
+    Dále je zbrojmistr {Zewgmaister} obvykle vysílá, aby verbovali a najímali vozy, koně a vozky. Často je musí shánět zdaleka a ne každý jde rád – vozkové nejsou všichni válečníci {Kriegßlewt}, nýbrž zčásti hrubiáni {Schweinßhewt}.[^3]
+- typ: odstavec
+  de: |-
+    Item die Geschirrmaister söllen alle abendt/den Zewgmaister in seinem Losament sůchen/nach beschayd fragen/das er den Fürlewten künde ansagen/zu wölcher zeyt sy einspannen söllen/vnd wartten/wenn man anziehen wöll/vnnd wa sy Deichsel hinwennden söllen zufaren/Es soll auch der Zewgmaister jm zůerkennen geben/wa man hinfaren wöll/
+  cs: |-
+    Dále mají vozmistři každý večer vyhledat zbrojmistra v jeho ubytování {Losament} a ptát se na pokyny, aby mohli vozkům oznámit, v kolik hodin mají zapřáhnout a čekat, až se vyrazí, a kam mají obrátit oj, aby jeli. Zbrojmistr má také každému dát na srozuměnou, kam se pojede,
+poznamky:
+- n: 1
+  text: Trachen – draci, dlouhá děla kulverinového typu; v sazbě stojí s kulverinami ve střední třídě.
+- n: 2
+  text: Ler (Lehre) – kalibrová měrka (kruh), kterou se koule protahovaly, aby se zjistilo, zda se hodí do vlastních děl.
+- n: 3
+  text: Schweinßhewt – doslova „svinské kůže“, nadávka pro hrubé, nespolehlivé lidi.

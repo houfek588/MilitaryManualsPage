@@ -1,0 +1,48 @@
+id: 025r
+list: '[25] r'
+strana: recto
+sken: 49
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Schanntzmaisters beuelch.
+  cs: Pověření šancmistra {Schanntzmaisters}
+- typ: odstavec
+  de: |-
+    Beuelch des Schantzmaisters/der soll mit dem Zewgmaister vnd seinem Lutinanten/auch den anndern/so von den Kriegß Räten darzů verordnet werden/der Schloß vnnd Stett/darfür man sich veraint zubelägern/Pletz vnd Malstat besehen/vnnd helffen anschlahen/wie man am basten/mit dem Zewg fürkommen müg/bey tag oder nacht/ob der boden die grossen Stuck/als die Metzen/Basiliscen/vnd ander schwär Büchsen/tragen müge oder nit/ob es Gräben/Moß/oder ander wasser irre/ob holweg/wasserfäll/oder anders nit hindere/wa der Veind wörinen hin dienen oder nit.
+  cs: |-
+    Pověření šancmistra {Schantzmaisters}: Má spolu se zbrojmistrem {Zewgmaister} a jeho poručíkem {Lutinanten} i s ostatními, které k tomu určí váleční radové {Kriegß Räte}, prohlédnout místa a stanoviště {Pletz vnd Malstat} u hradů a měst, které se usnesli oblehnout, a pomoci uvážit, jak se tam ve dne či v noci nejlépe dostat s dělostřelectvem {Zewg}: zda půda unese velké kusy {Stuck}, jako jsou mece {Metzen},[^1] baziliškové {Basiliscen} a jiná těžká děla {Büchsen}, nebo ne; zda nepřekážejí příkopy, bažina {Moß} či jiná voda, zda nebrání úvozy, vodopády nebo něco jiného; a kam nepřátelské obranné stavby {wörinen} dosáhnou a kam ne.[^2]
+- typ: odstavec
+  de: |-
+    Item der Schantzmaister soll auch allwegen mit ettlichen Geschirrmaistern vnd Schantzbawren/auch Zymmerleüt/vnd ander mit ägsten/holltz zufellen/Prugken/Steg vnd weg zumachen bey dem Renenden hauffen vorhin zuziehen/mit jren kundtschafftern/die Landkündig seyen/die steg vnd weg wissen/die besehen/ob man mit dem Geschütz fürkomen müg oder nit/die Prugken/Steg vnd weg zubessern/darmit der gantz Zewg dester baser hernach komen müg/darzů wissen die Geschirrmaister auch wol zuraten/vnd anschleg zumachen/sonnderlich an den rencken/in den gepürgen/sunst thůnds die langen Zewg an den Büchsen nit/als ander gemain wägen/die nit lang Zewg haben/Darumb můß man offt frembd vnd vngewonlich weg sůchen.
+  cs: |-
+    Dále má šancmistr vždy táhnout napřed s předvojem {Renenden hauffen}[^3] a s ním několik vozmistrů {Geschirrmaistern} a šancířů {Schantzbawren}, také tesaři a jiní lidé se sekerami, aby káceli dříví a stavěli mosty, lávky a cesty. Mají s sebou mít zvědy {kundtschafftern}, kteří znají kraj a vědí o lávkách a cestách. Mají prohlédnout, zda se s děly {Geschütz} dá projet, nebo ne, a opravit mosty, lávky a cesty, aby za nimi mohlo celé dělostřelectvo tím snáze dojet. Vozmistři v tom také dobře umějí poradit a najít řešení, zvláště v horských zatáčkách, kde dlouhá spřežení {langen Zewg} u děl neprojedou tak jako obyčejné vozy, které dlouhá spřežení nemají. Proto se musí často hledat cizí a neobvyklé cesty.
+- typ: odstavec
+  de: |-
+    Item des Schantzmaisters Besoldung/ist ains Hauptmans Sold/ain Monat 40 florin/Auff ainen Jungen ain Sold/Zwen Trabanten/darauff 4 Söld/Will er Ains oder Zway Gerüste Pferdt/zů dem seinen hallten/das steet zů jm/Doch das diselben/wie vorlaut/bey den raisigen an der Muster beston/vnd sich brauchen lassen/in allweg/wie ander zewg diener/Denselben gehört/für jr besoldung/ain Monat 20 florin/Das macht alles in der Sum/so auf den Schantzmaister gehört ain Monat/ – 80 florin.
+  cs: |-
+    Dále žold {Besoldung} šancmistra je hejtmanský žold, za měsíc 40 zlatých {florin}; na pachole {Jungen} jeden žold {Sold}; dva drabanti {Trabanten}, na ně 4 žoldy. Chce-li ke svému [koni] držet jednoho nebo dva zbrojné koně {Gerüste Pferdt}, je to na něm; [jezdci na nich] však musejí, jak je uvedeno výše, obstát při přehlídce {Muster} jezdců {raisigen} a dát se ve všem užívat jako ostatní zbrojní služebníci {zewg diener}. Na ně náleží žold 20 zlatých měsíčně. Všechno, co náleží na šancmistra, činí za měsíc celkem – 80 zlatých.
+- typ: odstavec
+  de: |-
+    Item der Schantzmaister/vnd der Schantzpawren Hauptman/söllen daran vnd darob sein/die Schantzkörb zumachen/Darzů soll der Zewgmaister/etlich Zewg Diener/vnd Büchsenmaister auch verordnen/das sy zůsehen/die Körb nit zugroß/nit zuklain/nit zuhoch oder nider gemacht werden/man kan sy sellten beyainander machen/ainer da/der ander dort/sonst bedörfft es nit vil lewt darbey zusein.
+  cs: |-
+    Dále šancmistr a hejtman šancířů {Schantzpawren Hauptman} mají dbát na to, aby se dělaly šancovní koše {Schantzkörb}. K tomu má zbrojmistr určit také několik zbrojních služebníků a puškařů {Büchsenmaister}, kteří dohlédnou, aby koše nebyly ani příliš velké, ani příliš malé, ani příliš vysoké či nízké. Málokdy se dají dělat všechny na jednom místě – jeden tu, druhý tam; jinak by při tom nebylo třeba mnoho lidí.
+- typ: odstavec
+  de: |-
+    Item der Schantzmaister soll die Büchsenmaister verschantzen vnd verbawen/nach dem aller besten/mit Rat des Zewgmaisters vnd der verordneten Kriegßlewtte/so vom Kriegß Rat darzů gegeben vnnd verordnet werden/alles nach gelegenhait der gegenwör/dahin můß die Schantz am stercksten sein.
+  cs: |-
+    Dále má šancmistr puškaře co nejlépe opevnit šancemi {verschantzen} a krytými stavbami, a to s radou zbrojmistra a válečníků {Kriegßlewtte}, které k tomu válečná rada {Kriegß Rat} vyšle a určí, vše podle postavení nepřátelské obrany {gegenwör}: proti ní musí být šance {Schantz} nejsilnější.
+- typ: odstavec
+  de: |-
+    Item er soll auch die Hůt vnd Wach verschantzen/auf das aller sicherest/so müglich ist/Auch mit jren Wörin vnd Gräben/ob man sy überfallen
+  cs: |-
+    Dále má také co nejbezpečněji opevnit šancemi stráže a hlídky {Hůt vnd Wach}, a to i s jejich náspy {Wörin} a příkopy, kdyby je [nepřítel] chtěl přepadnout
+poznamky:
+- n: 1
+  text: Metzen – zkráceně pro šarfmece (Scharfmetze), nejtěžší obléhací děla.
+- n: 2
+  text: „wa der Veind wörinen hin dienen“ – čteme „kam slouží nepřátelské obranné stavby (Wehren)“, tj. která místa jsou pod palbou z obrany města; výklad nejistý.
+- n: 3
+  text: Rennender Haufen – lehká jízda, která táhla před vojskem jako předvoj a průzkum (srov. heslo předvojová korouhev).

@@ -1,0 +1,63 @@
+id: 029r
+list: '[29] r'
+strana: recto
+sken: 57
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    lang verzug/mercklicher Cost eruolgt/vnd den Veinden sondere frucht vnd hertz pringt/Darumb so soll man das Pulver in gůtten vermachten Fässern füren/die wol verspänt seind/darmit kain wasser hinein müg/wa man durch die geschwöllte wasser faren můß.
+  cs: |-
+    vznikne dlouhé zdržení a značný náklad, kdežto nepřátelům to přinese zvláštní užitek a odvahu. Proto se má prach {Pulver} vézt v dobrých, uzavřených a dobře zazátkovaných {verspänt} sudech, aby do nich nemohla vniknout voda, když se musí brodit rozvodněnými toky.
+- typ: odstavec
+  de: |-
+    Es söllen auch die Büchsenmaister/das geladen Geschütz/bey dem ansatz/auff das aller höchst auffrichten/darmit kain wasser zůr Kugel in Pulver Sack raichen müg/darzů die Zündtlöcher mit wachs verklaiben/so schat es nichts/wie tieff das maul oder vordertail am Ror ins wasser hangt.
+  cs: |-
+    Puškaři {Büchsenmaister} mají také nabitá děla {Geschütz} co nejvýše zvednout za zadní část {ansatz},[^1] aby voda nemohla dosáhnout ke kouli a do pytle s prachem {Pulver Sack}, a zátravky {Zündtlöcher} zalepit voskem. Pak nevadí, jak hluboko ústí neboli přední část hlavně {Ror} visí ve vodě.
+- typ: odstavec
+  de: |-
+    Wenn dann die weg beritten vnd gemacht seind/biß an die Malstat/da das Leger dieselben nacht wirt/so soll dann der Geschirrmaister wider zurugk Reytten/dem grossen Geschütz entgegen/demselben vorzureyten/die weg zuweysen/die er vor hat helffen bereyten/es sey tag oder nacht/darmit sy auff dem rechten gefert beleyben mügen.
+  cs: |-
+    Když jsou pak cesty projety a upraveny až k tábořišti {Malstat}[^2], kde bude ležení {Leger} té noci, má vozmistr {Geschirrmaister} jet zpátky naproti velkým dělům, jet před nimi a ukazovat cesty, které předtím pomáhal připravit, ať ve dne, nebo v noci, aby zůstala na správné cestě.
+- typ: odstavec
+  de: |-
+    Wenn aber der Geschirrmaister mer dann ainer wär/als dann offt geschicht/so söllen die anndern ainer oder zwen/bey dem Grossen geschütz beleyben/ob ain Büchß versunck oder besteckt/oder ain Bühel so hoch/das er darüber sein Büchß nit pringen möcht/so soll der Geschirrmaister von andern wägen/Roß erfordern/den fürzusetzen/biß er wider vom landt faren mag.
+  cs: |-
+    Je-li však vozmistrů víc než jeden, jak se často stává, mají ostatní, jeden nebo dva, zůstat u velkých děl. Kdyby se některé dělo {Büchß} zabořilo nebo uvázlo, nebo kdyby byl kopec tak příkrý, že by přes něj [vozka] své dělo nedostal, má vozmistr vyžádat koně z jiných vozů a předpřáhnout je, dokud se dělo zase nepohne z místa.
+- typ: odstavec
+  de: |-
+    Item man hat gewonlich zu 200 wagen Rossen ain geschirrmaister.
+  cs: |-
+    Dále se obvykle má na 200 vozních koní {wagen Rossen} jeden vozmistr.
+- typ: odstavec
+  de: |-
+    Item wenn die Herrschafft sich selbs wol bedencken/so ist es ain seer gůt ding 50 oder 100 lediger Roß mit jren Geschirren/neben dem Zewg zugon/Es pringt etwan dem Kriegß Herren vnd gantzem Veldtleger grossen nutz/Vnd wär zuzeyten gůt/das man die hett/vnd souil Raysiger pferdt dest minder/wa man den Costen scheühen wölt.
+  cs: |-
+    Dále, když to vrchnost {Herrschafft} dobře uváží, je velmi dobrá věc nechat jít vedle dělostřelectva {Zewg} 50 nebo 100 volných koní {lediger Roß} s postroji. Válečnému pánu {Kriegß Herren} i celému polnímu ležení {Veldtleger} to někdy přináší velký užitek. A bylo by někdy dobré je mít, a raději o tolik méně jezdeckých koní {Raysiger pferdt}, chce-li se šetřit nákladem.
+- typ: odstavec
+  de: |-
+    Es waißt nyemant/das es so groß fürdert zuziehen/dann die/so vil darbey gewesen seind.
+  cs: |-
+    Jak velice to pochod urychlí, ví jen ten, kdo při tom často byl.
+- typ: odstavec
+  de: |-
+    Item die Vrsachen/Man darff vnd soll kain Wagen dahinden lassen/so můß man mit dem Veld Zewg ordnung halten zuziehen/was in Vorzug verordnet ist/das můß im VorZug beleyben/Deßgleichen der Nachzug/darff nichts hinder jm lassen/das hinfür gehört/So můß bey dem Gewalltigen Hauffen beleyben/was darzů verordnet wirt.
+  cs: |-
+    Dále důvody: žádný vůz se nesmí a nemá nechat vzadu, a s polním dělostřelectvem {Veld Zewg} se při pochodu musí držet pořádek: co je určeno do předvoje {Vorzug}, musí v předvoji zůstat; stejně tak zadní voj {Nachzug} nesmí nechat za sebou nic, co patří dopředu; a u hlavního voje {Gewalltigen Hauffen} musí zůstat, co je k němu určeno.
+- typ: odstavec
+  de: |-
+    Also můß etwan das gantz Leger still hallten/von ains ainigen wagen oder Büchsen wegen.
+  cs: |-
+    Tak se někdy musí celé ležení zastavit kvůli jedinému vozu nebo dělu.
+- typ: odstavec
+  de: |-
+    So dann 50 oder Hundert Roß fürdern 2.3. oder 4. Tausent Roß darzů aller Artelarey Roß/auch das gantz Veldleger/Warumb wolt man dann die ledigen Roß ersparen. Der Frantzösich König soll wol zuzeytten so vil lediger Roß mitgon haben/als in Geschirren ziehen.
+  cs: |-
+    Když tedy 50 nebo 100 koní pomůže 2, 3 nebo 4 tisícům koní, totiž všem koním dělostřelectva {Artelarey}, i celému polnímu ležení, proč by se mělo šetřit na volných koních? Francouzský král prý někdy vede s sebou tolik volných koní, kolik jich táhne v postrojích.
+poznamky:
+- n: 1
+  text: Ansatz – patrně zadní (závěrová) část hlavně, kde leží náboj; zvedne-li se co nejvýše, může ústí při brodění viset ve vodě, a voda přesto nedosáhne ke kouli a prachu. Výklad nejistý.
+- n: 2
+  text: Malstat – zde místo, kde se večer rozbije ležení (tábořiště), ne soudní místo.

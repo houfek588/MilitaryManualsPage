@@ -1,0 +1,129 @@
+id: 041r
+list: '[41] r'
+strana: recto
+sken: 81
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Von den andern Ainfachen vnd DopelSöldnern / vnder ain Fendlin gehörig.
+  cs: |-
+    O ostatních prostých žoldnérech a dvojžoldnérech {DopelSöldnern}, kteří patří k praporci {Fendlin}
+- typ: odstavec
+  de: |-
+    Item alle Knecht / söllen N. vnnd 30 tag für ainen Monat gerechnet sein / vnd ainem yeden Ainfachen Söldner / des Monats 4 florin / Reinische werung.
+  cs: |-
+    Dále mají být všichni knechti [najati] na N. [měsíců] a 30 dní se má počítat za měsíc; každému prostému žoldnéři {Ainfachen Söldner} [se má dávat] měsíčně 4 zlaté {florin} rýnské měny.
+- typ: odstavec
+  de: |-
+    Vnnd welche obgestympte zeyt / ganntz außdienen / oder vom Obersten Hauptman / auß redlichen Vrsachen / ain Baßporten erlangen 20 tag / für jren Abzug gerechnet werden.
+  cs: |-
+    A těm, kdo výše stanovenou dobu celou vyslouží nebo od nejvyššího hejtmana {Obersten Hauptman} z poctivých příčin obdrží průvodní list {Baßporten}, se má jako odchodné {Abzug} počítat 20 dní.
+- typ: tabulka
+  de:
+  - - Item ainem Fendrich
+    - iij
+    - Söld
+  - - Seinem Knaben
+    - j
+    - ''
+  - - Freyspil
+    - iiij
+    - ''
+  - - Capplan
+    - ij
+    - ''
+  - - Des Hauptmans Schreyber
+    - ij
+    - ''
+  - - Dem Furrier
+    - ij
+    - ''
+  - - Zwayen gemainen Waybeln
+    - iiij
+    - ''
+  - - Ainem Barbierer / der Wundartzney kan
+    - ij
+    - Söld.
+  cs:
+  - - Dále praporečníkovi {Fendrich}
+    - '3'
+    - žoldy
+  - - jeho pacholeti {Knaben}
+    - '1'
+    - ''
+  - - hudbě {Freyspil}[^1]
+    - '4'
+    - ''
+  - - kaplanovi {Capplan}
+    - '2'
+    - ''
+  - - hejtmanovu písaři {Schreyber}
+    - '2'
+    - ''
+  - - furýrovi {Furrier}
+    - '2'
+    - ''
+  - - dvěma obecním šikovatelům {gemainen Waybeln}
+    - '4'
+    - ''
+  - - lazebníkovi {Barbierer}, který umí ranhojičství
+    - '2'
+    - žoldy
+- typ: odstavec
+  de: |-
+    Bekanten / namhafften / vom Adel / mügen der Oberst Hauptman / vnd die MusterHerrn / nach jrem gůtbeduncken / DoppelSöld zůlassen vnd machen / Doch das yeder sein Küriß / Harnasch haben / Was sy dann der Oberst Hauptman / vnd MusterHerrn / andern Redlichen Knechten / die nit vom Adel wären / DoppelSöld zugeben für gůtt angesehen / soll man zů GerichtLewten machen / als vil füglich ist / Darmit dester mer überiger TopelSöld erspart werden / Vnnd das doch dieselben Toppelsöldner alle / auch jr Küriß vnd Harnisch haben.
+  cs: |-
+    Známým a vážným šlechticům smějí nejvyšší hejtman a přehlídkoví komisaři {MusterHerrn} podle svého uvážení povolit a přiznat dvojitý žold {DoppelSöld}, avšak tak, aby každý měl svůj kyrys {Küriß} a zbroj {Harnasch}. Ty jiné poctivé knechty, kteří nejsou šlechtici a jimž nejvyšší hejtman a přehlídkoví komisaři uznají za dobré dát dvojitý žold, je třeba, nakolik je to vhodné, ustanovit za soudní přísedící {GerichtLewten}, aby se tím více ušetřilo nadbytečných dvojitých žoldů; a všichni tito dvojžoldnéři {Toppelsöldner} mají rovněž mít svůj kyrys a zbroj.
+- typ: nadpis
+  uroven: 2
+  de: Des Regiments VberSöld.
+  cs: Přeplatky {VberSöld} pluku
+- typ: odstavec
+  de: |-
+    Item was dem Obersten Hauptman / für sein Besoldung vnd Vnderhalltung gegeben werden soll / ist in seinem Bestellbrieff außgetruckt.
+  cs: |-
+    Dále co se má dávat nejvyššímu hejtmanovi na jeho žold {Besoldung} a vydržování, je uvedeno v jeho služebním listu {Bestellbrieff}.
+- typ: nadpis
+  uroven: 3
+  de: Nun allweg M. Knecht I Waybel.
+  cs: Nyní vždy na 1000 {M.} knechtů jeden šikovatel {Waybel}
+- typ: odstavec
+  de: Item iiij. Söld Waybel / zů den Vier Tausendt Knechten /
+  cs: |-
+    Dále čtyři žoldní šikovatelé {Söld Waybel}[^2] ke čtyřem tisícům knechtů:
+- typ: tabulka
+  de:
+  - - Yedem
+    - iij. Söld.
+  - - Mer / Jr yedem auff ain Knaben
+    - j sold
+  - - Dem Schuldthaissen
+    - iiij söld
+  - - Seinem Knaben
+    - j sold
+  - - Sechß Gerichtslewten
+    - vij söld
+  cs:
+  - - každému
+    - 3 žoldy
+  - - navíc každému z nich na pachole
+    - 1 žold
+  - - rychtáři {Schuldthaissen}
+    - 4 žoldy
+  - - jeho pacholeti
+    - 1 žold
+  - - šesti soudním přísedícím {Gerichtslewten}[^3]
+    - 7 žoldů
+poznamky:
+- n: 1
+  text: |-
+    „Freyspil“ – hudba praporce (pištci a bubeníci); proč „frei“, není jasné – snad hudebníci zproštění jiné služby.
+- n: 2
+  text: |-
+    „Söld Waybel“ – šikovatelé pluku placení z přeplatků (Übersold), patrně ve smyslu polních šikovatelů; podle předchozího řádku připadá jeden na 1000 knechtů. Výraz nejistý, snad tisková záměna.
+- n: 3
+  text: |-
+    Ve skenu jasně „vij“ (7). Na šest přísedících by se spíše čekalo 6 nebo 12 (xij) žoldů; může jít o tiskovou chybu, nebo o přeplatek včetně soudního šikovatele.

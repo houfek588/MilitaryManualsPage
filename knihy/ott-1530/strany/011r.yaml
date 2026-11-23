@@ -1,0 +1,56 @@
+id: 011r
+list: '[11] r'
+strana: recto
+sken: 21
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Alßdann gibt es dem gantzen Veldläger ain grossen lerman/vnd machen bey der nacht ain Schlachtordnung/Etwan verkriechen sy sich in die hecken/oder nemen vnder jn selbs ain spottliche flucht/wie offt geschehen ist/Die nacht/macht weyß leüt doll vnd irr.
+  cs: |-
+    Pak to celému polnímu ležení {Veldläger} způsobí velký poplach {lerman} a [nepřátelé] se v noci staví do bitevního šiku {Schlachtordnung}. Někdy zalezou do křoví nebo se mezi sebou dají na potupný útěk, jak se často stalo. Noc dělá i moudré lidi pomatenými a zmatenými.
+- typ: odstavec
+  de: |-
+    So solliches geschicht/noch wissen dannocht die Feind nit/ob die im Schloss seynd außgefallen/vnd wider hinein gewichen/oder ob das Schloss Rettung überkomen hab/Also bleybends die gantzen nacht in jrer Ordnung hallten vnd ston/Also mügen die gůtten gesellen rüwig hinwegk komen/Vnd finden darnach die Feind nichts dann trümmer vnd strick.
+  cs: |-
+    Když se to stane, nepřátelé přesto stále nevědí, zda ti na hradě vyrazili ven a zase se stáhli dovnitř, nebo zda hrad dostal pomoc. Zůstanou tedy celou noc stát ve svém šiku. Tak mohou dobří druzi v klidu odejít a nepřátelé pak najdou jen trosky a provazy.[^1]
+- typ: odstavec
+  de: |-
+    Wir haben nun geredt von dem sauren/so müss wir auch hören das süß/vnd reg hiemit das Kriegßrecht widerumm an/dardurch der arm kriegßmann ainr ergötzlichkait gewärtig sey/Ain yeder arbaiter ist seines lons wirdig.
+  cs: |-
+    Mluvili jsme nyní o kyselém, musíme tedy slyšet i sladké. Proto se znovu dotýkám válečného práva {Kriegßrecht}, podle něhož může chudý válečník {kriegßmann} očekávat nějakou odměnu: každý dělník je hoden své mzdy.[^2]
+- typ: odstavec
+  de: |-
+    Item es ist in gewonlichem brauch/vnd seind die Kriegßrecht/es werde dann außtruckenlich im Artickelbrieff abgestreckt oder außgedingt/den die Kriegßlewt schwören über jr bestellung.
+  cs: |-
+    Dále je obvyklým zvykem a válečným právem [to, co následuje] – leda by to bylo výslovně zrušeno nebo vyjmuto v artikulním listu {Artickelbrieff}, který válečníci {Kriegßlewt} odpřisáhnou při svém najetí {bestellung}.
+- typ: odstavec
+  de: |-
+    Item so man ain Veldtschlacht thůt/Schloss oder Stett stürmt/das der Monat desselben tags auß vnd an geet/darzů ainen Monat soldt/durch das gantz Veldtleger gegeben wirt/auch alle farende hab/an die gemainen beytt/außgenomen etliche Prouandt/die zů derselbigen Besatzung gehörig vnd notdurfftig werden möcht/darzů alle wör vnd harnisch/gehörend dem Kriegß Herren vnd seinem Zeügmaister/vnd sonderlich Büchsen/puluer vnd Kugeln etc. gehört alles dem Zeügmaister/das soll der Herr von jm lösen/ongeuärlich was das werdt ist/vmb die zwaytail/So der Zeügmaister dem Herren den drittentail nachlaßt/ist genůg.
+  cs: |-
+    Dále když se svede polní bitva {Veldtschlacht} nebo se útokem dobude hrad či město, má toho dne skončit [běžící] měsíc a začít nový; k tomu se celému polnímu ležení {Veldtleger} vyplatí jeden měsíční žold {Monat soldt}. Také všechen movitý majetek {farende hab} připadne do společné kořisti {gemainen beytt}, kromě určitého proviantu {Prouandt}, který by mohl patřit a být zapotřebí téže posádce {Besatzung}; Dále všechny zbraně {wör} a zbroj {harnisch} náležejí válečnému pánovi {Kriegß Herren} a jeho zbrojmistrovi {Zeügmaister}; zvláště děla {Büchsen}, prach {puluer}, koule {Kugeln} atd. patří všechno zbrojmistrovi. Pán to má od něho vykoupit zhruba za dvě třetiny ceny; když zbrojmistr pánovi jednu třetinu sleví, stačí to.
+- typ: odstavec
+  de: |-
+    Also hat der Zeügmaister sein Broueytt/darzů der Herr/auch was jm/als dem Kriegßherren zůsteet.
+  cs: |-
+    Tak má zbrojmistr svůj užitek {Broueytt} a pán k tomu také to, co mu jako válečnému pánovi náleží.
+- typ: odstavec
+  de: |-
+    Item so ain Fendlin gewunnen wirt/soll der öberst Hauptman/dem jhenigen/der es erstlich zů seinen handen bringt/zum wenigsten/vmb ainen Monat Soldt/so er vngeuerlich vnder seinem Hauptman (er sey dupley oder tripley) hat/gelößt werden/sonst soll der Oberst/das Fendlin von dem Kriegßman nit nemen.
+  cs: |-
+    Dále je-li ukořistěn praporec {Fendlin}, má jej nejvyšší hejtman {öberst Hauptman} od toho, kdo se ho první zmocnil, vykoupit nejméně za jeden měsíční žold, jaký zhruba pobírá u svého hejtmana {Hauptman} (ať je to žold dvojitý {dupley}, nebo trojitý {tripley}); jinak nemá plukovník {Oberst} praporec válečníkovi brát.
+- typ: odstavec
+  de: |-
+    Es hat auch derselbig/so das Fendlin gewunnen/gůtte macht/neben ander Fendrich/so man in ordnung zeücht/zů gan vnd stan/sein Fendlin in der hand zů tragen/offen vnd fliegend/doch das er es bey dem eysen in der faust/vnnd den schafft übersich gegen dem hymel gekert/als ain überwunden vnd gewunnen Fendlin/Das bringt dem Kriegßman sonderlich eer/Dann/es wirt darbey erkannt/das er sich Ritterlich zů den Feinden gethan hat.
+  cs: |-
+    Ten, kdo praporec ukořistil, má také plné právo, když se táhne v šiku, chodit a stát vedle ostatních praporečníků {Fendrich} a nést svůj praporec v ruce, rozvinutý a vlající – avšak tak, že jej drží v pěsti za hrot {eysen} a žerď je obrácena vzhůru k nebi, jako přemožený a ukořistěný praporec. To válečníkovi přináší zvláštní čest, neboť se tím pozná, že se k nepřátelům zachoval rytířsky.
+poznamky:
+- n: 1
+  text: |-
+    „Trümmer vnd strick“ – trosky (rozbitá děla a vyhozené stavby, srov. list [10] v) a provazy, patrně dohořelé
+    doutnáky a stopiny; výklad „strick“ nejistý.
+- n: 2
+  text: |-
+    Biblická průpověď (Lk 10,7; 1 Tm 5,18): „Hoden je dělník své mzdy.“

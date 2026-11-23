@@ -1,0 +1,55 @@
+id: 013v
+list: '[13] v'
+strana: verso
+sken: 26
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item der Oberst der Fůßknecht/ hat auch seinen Prouosen/ vnd aigen Regiment/ Was aber derselben yetzgemellten Prouosen beuelch vnd ämpter seyen/ daruon will ich ain klaine meldung thůn/ zu besserer vnderricht vnd verstand der Artelarey zůuernemen.
+  cs: |-
+    Dále plukovník {Oberst} pěších knechtů {Fůßknecht} má také svého profouse {Prouosen} a vlastní pluk {Regiment}. O tom, jaké jsou pověření a úřady těchto právě zmíněných profousů, učiním krátkou zmínku, aby se dělostřelectvo {Artelarey} dalo lépe vyložit a pochopit.
+- typ: odstavec
+  de: |-
+    Item der öberst Veldthauptman/ hat auch seinen Prouosen/ sampt seinen Steckenknechten/ der wirt genennt/ der öberst Veldt Prouoß/ das ist als vil/ als ain Veldt Richter/ der hat das Malefitz zů straffen/ Etwan auß beuelch der öbersten Hauptlewt/ das ist in offenbarlichen sachen/ da richt Er auß beuelch/ on Vrtail/ vnd sonnderlichen in sachen/ die offenbarlich/ durch den Ernhold/ den man nennt Herold/ vnd trummeter/ verkündt sein gebotten vnd verbotten/ Aber in etlichen vällen/ richt Er mit Recht/ Desselben orts ist er Prouoß/ Richter übers blůt vnd flaisch/ sampt seinen zůuerordneten Schöpffen.
+  cs: |-
+    Dále nejvyšší polní hejtman {öberst Veldthauptman} má také svého profouse s jeho profousovými pacholky {Steckenknechten}; ten se nazývá nejvyšší polní profous {öberst Veldt Prouoß}, což je tolik jako polní soudce. Ten má trestat hrdelní zločiny {Malefitz}, někdy z rozkazu nejvyšších hejtmanů – totiž ve zjevných věcech; tu soudí z rozkazu bez rozsudku {Vrtail}, zvláště ve věcech, které byly veřejně přikázány nebo zakázány heroldem {Ernhold}, jinak zvaným Herold, a trubačem {trummeter}. V některých případech však soudí právem {Recht}; tehdy je profous soudcem nad hrdlem a tělem spolu se svými přidělenými přísedícími {Schöpffen}.[^1]
+- typ: odstavec
+  de: |-
+    Item so sich Malefitz vnd ander sträflich sachen verlauffen oder begeben/ die soll der Prouoß der Ritterschafft/ so Er söllichs augenscheinlich gewar wurde/ annemen/ in die bannd zůuerhafft/ biß auf den Veldt Marschalck/ der hat darnach macht/ mit jm vnd seiner that/ weyter zu handeln.
+  cs: |-
+    Dále dojde-li k hrdelním zločinům a jiným trestným věcem, má [pachatele] profous rytířstva {Prouoß der Ritterschafft}, uvidí-li to na vlastní oči, zatknout a držet v poutech až do [rozhodnutí] polního maršálka {Veldt Marschalck}; ten má potom moc s ním a s jeho činem dále naložit.
+- typ: odstavec
+  de: |-
+    Darzů söllen sich die andern zway Regiment der Artelarey vnd Fůßknecht Prouosen auch hallten/ vnd kains dem andern eingreffen in die personen/ so jm nit zůgehörig seind.
+  cs: |-
+    Podle toho se mají řídit i profousové ostatních dvou pluků, dělostřelectva a pěších knechtů, a žádný nemá druhému sahat na osoby, které mu nepatří.
+- typ: odstavec
+  de: |-
+    Geschehe es aber/ das ain Prouoß yemants fenngklich anneme/ der nit in sein Regiment gehörig/ das doch ain yeder Prouoß in etlichen fellen anzunemen gůt macht hat/ sonnderlich in offenbaren sachen/ So soll doch er jn darnach/ sobald er gewar wirt/ wem der zůgehörig/ demselben Regiment öbersten überantworten.
+  cs: |-
+    Stane-li se však, že nějaký profous zatkne někoho, kdo nepatří k jeho pluku – k čemuž má každý profous v některých případech plnou moc, zvláště ve zjevných věcech –, má ho potom, jakmile zjistí, komu patří, vydat plukovníkovi toho pluku.
+- typ: odstavec
+  de: |-
+    Item der ander beuelch der Prouosen/ das Sy söllen die Brouandt/ vnd ProuandtMaister in acht haben/ oder war nemen/ wenn die komen/ Es sey Wein/ Brot/ Visch oder anders/ Flaisch vnd dergleichen/ das solichs mit Rat vnd wissen des öbersten veldprouosen oder seiner Steckenknecht/ auf den berůfften Freyenmarckt getriben/ vnd daselbst geschetzt werden.
+  cs: |-
+    Dále druhé pověření profousů: mají dohlížet na proviant {Brouandt} a proviantmistry {ProuandtMaister} a všímat si, když přijedou – ať je to víno, chléb, ryby nebo něco jiného, maso a podobně –, aby se to s radou a vědomím nejvyššího polního profouse nebo jeho pacholků dopravilo na vyhlášený volný trh {Freyenmarckt} a tam ocenilo.
+- typ: odstavec
+  de: |-
+    Were es aber sach/ das der Prouand zů wenig/ vnd möcht nit wol in das gantz Läger raichen/ so söllen die Prouosen die wägen tailen/ vnd ain tayl in der Raysigen Regiment/ den andern tail/ in der Artelarey Regiment/ das dritt tail/ in der Fůßknecht Regiment/ Das allwegen nach der gröss vnd menige des Volcks verordnen/ dieweyl die Regiment an leütten vngleich seind.
+  cs: |-
+    Kdyby však proviantu bylo příliš málo a nestačil by pro celé ležení {Läger}, mají profousové vozy rozdělit: jednu část do pluku jízdy {Raysigen}, druhou do pluku dělostřelectva, třetí do pluku pěších knechtů – a to vždy podle velikosti a počtu lidu, protože pluky nejsou co do počtu lidí stejné.
+- typ: odstavec
+  de: |-
+    Also werden vermerckt vnd vnderschidenliche bericht verstanden/ wie Dreü Regiment/ in ainem yeden gewaltigen Veldzug sein müssen/ vnd kains on das ander wol frucht schaffen mag.
+  cs: |-
+    Tak je vidět a zřetelně pochopitelné, že v každém velkém polním tažení {Veldzug} musejí být tři pluky a žádný nemůže bez druhého přinést náležitý užitek.
+- typ: odstavec
+  de: |-
+    Aber ains mag dem anndern wol die handt raichen/ Vrsach/ Die Fůßknecht mügen nit Reytter erlauffen/ so mügen die Reytter in den
+  cs: |-
+    Jeden však může druhému dobře podat ruku. Příčina: pěší knechti nemohou jezdce doběhnout a jezdci zase nemohou
+poznamky:
+- n: 1
+  text: „Schöpffen“ (Schöffen) – přísedící soudu, konšelé; srov. glosář přísedící. „Richter übers blůt vnd flaisch“ – soudce v hrdelních věcech a nad tresty na těle.

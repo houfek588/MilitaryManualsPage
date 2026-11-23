@@ -1,0 +1,52 @@
+id: 031v
+list: '[31] v'
+strana: verso
+sken: 62
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Darzů den Tross vorhinweg / vnd in sonderhait / so geschichts gewonlich durch der Obersten / vnd Kriegß Rät beuelch / Wenn man von den Veinden zeücht / so scheübt man alles das / so auff der ächs gat / vorhinweg / Außgenommen etlichs Veld Geschütz / můß bey dem nachziehen beleyben / darmit der Tross nit etwan ain Lerman oder vnnötige flucht mache / darumb ists gůt dauornen.
+  cs: |-
+    K tomu [jede] napřed i trén {Tross}, a zvláště – obvykle se to děje na rozkaz plukovníků {Obersten} a válečných radů {Kriegß Rät} – když se táhne od nepřítele: tehdy se napřed pošle všechno, co jede na nápravách, kromě několika polních děl {Veld Geschütz}, která musejí zůstat u zadního voje, aby trén nevyvolal poplach {Lerman} nebo zbytečný útěk. Proto je dobré mít ho vpředu.[^1]
+- typ: nadpis
+  uroven: 3
+  de: Tax / der Zewg Diener Söld.
+  cs: Sazba {Tax} žoldu zbrojních služebníků {Zewg Diener}
+- typ: odstavec
+  de: |-
+    Welcher vom Adel des Monats 4 Söld / auff sein Ross vnd seinen Jungen / den anndern ausserhalb Adels / den Monat auf ain Ross 3 Söld / vnd jren 2 auff ainen Jungen ain Sold / Das macht den Edellewtten ains Monats 16 florin / Mit den Jungen / vnd andern / des Monats 14 florin / Mit den Jungen / so sy halb Edellewt wären / Vnd der ander halb tail nit vom Adel / so machen die 8 Zewgdiener in der Sum / – 120 Florin.
+  cs: |-
+    Kdo je ze šlechty, [dostává] měsíčně 4 žoldy {Söld} na svého koně a své pachole {Jungen}; ostatní, kteří nejsou šlechtici, měsíčně 3 žoldy na koně a vždy dva z nich jeden žold na [společné] pachole. To činí šlechticům i s pacholetem 16 zlatých {florin} měsíčně, ostatním i s pacholetem 14 zlatých měsíčně. Je-li polovina [služebníků] šlechticů a druhá polovina nešlechticů, činí 8 zbrojních služebníků v součtu – 120 zlatých.[^2]
+- typ: nadpis
+  uroven: 2
+  de: Nun volgt hernach der Schneller Beuelch vnd Arbait.
+  cs: Nyní následuje povinnost a práce zvedačů {Schneller}
+- typ: odstavec
+  de: |-
+    Item der Zewgmaister soll auch haben 8 Schneller / die da auf die grossen Stuck Büchsen wartten / die Züg helffen auffrichten / darmit man die Grossen Stuck Büchsen / vonn ainem Wagen auff den anndern hebt / vnnd die Büchsen / so offt es nott ist / helffen Schmieren / die Zewg vnd annder Mundicey / auff vnnd ab helffen laden / Vnd wenn man im Ziehen ist / söllen sy auf die Grossen Stuck Büchsen wartten / was da not geschicht / das sy helffen hand anlegen / darmit man bald wider von stat komen müg / Vnd was jn zůuil / vnd nit in jrem vermügen zutragen / zulegen vnnd heben / darzů söllen jn die Schantz Pawren hilfflich sein / durch beuelch jres Hauptmanns / oder geschefft des Schantzmaisters / Zewgmaisters / oder seins Leitingers / mit ainer Rott 2. 3. oder so vil not ist / Vnd derselben Schneller Söld / gebürt ainem ain Monat 6 flor. thůt in seiner Sum / – 48 Florin.
+  cs: |-
+    Dále má mít zbrojmistr {Zewgmaister} také 8 zvedačů, kteří obsluhují velké kusy děl {Stuck Büchsen}. Pomáhají stavět kladkostroje {Züg}, jimiž se velké kusy děl zvedají z jednoho vozu na druhý, pomáhají mazat děla, kdykoli je třeba, a nakládat a skládat výzbroj {Zewg} a jinou munici {Mundicey}. Na pochodu mají být u velkých kusů děl a přiložit ruku k dílu, kdekoli je toho třeba, aby se mohlo brzy zase pohnout z místa. S tím, co by na ně bylo příliš a nad jejich síly unést, položit a zvednout, jim mají pomáhat šancíři {Schantz Pawren} – z rozkazu svého hejtmana {Hauptmanns} nebo na pokyn šancmistra {Schantzmaisters}, zbrojmistra nebo jeho poručíka {Leitingers}[^3] – jednou, dvěma, třemi rotami {Rott} nebo kolik je třeba. Žold těchto zvedačů: každému náleží za měsíc 6 zlatých {flor.}, to činí v součtu – 48 zlatých.
+- typ: odstavec
+  de: |-
+    Item zů söllichem VeldZug / gehören 8 Zymmerlewt / die sich brauchen lassen / bey dem Geschütz der Artelarey / warzů man dann Zymmerlewt notdurfftig ist / in der Schantz / vnd anderer ort / zu bawen / zu abbrechen / Gestreb vnd Setz / rösch zu machen / Gefäß / Pruggen / vnd was man bedarff / Auch im Ziehen etwan im Vorzug brauchen lassen / zu Steg vnd Weg machen / Sonst söllen Sy auch auff das Groß Geschütz wartten / da bedarff man jr allerbast bey. Tax jrer Söld / Aim den Monat / 6 Florin / thůt in Summa / – 48 florin.
+  cs: |-
+    Dále k takovému polnímu tažení {VeldZug} patří 8 tesařů {Zymmerlewt}, kteří se dají použít u děl dělostřelectva {Artelarey}, kdekoli je tesařů zapotřebí: v šanci {Schantz} i jinde stavět a bourat, rychle zhotovit vzpěry a podpěry {Gestreb vnd Setz}[^4], lafety {Gefäß}, mosty {Pruggen} a cokoli je třeba. Na pochodu se také někdy používají v předvoji {Vorzug} k úpravě stezek a cest. Jinak mají být u velkých děl, tam jich je nejvíce zapotřebí. Sazba jejich žoldu: každému[^5] měsíčně 6 zlatých, v součtu – 48 zlatých.
+- typ: odstavec
+  de: |-
+    Item darbey soll der Zewgmaister hallten Drey Schmid / bey der Artelarey / die söllen / was not ist zum Geschütz machen / vnd beschlahen / was von nöten ist / Die söllen sich auch im Ziehen / bey den Grossen Büchsen /
+  cs: |-
+    Dále má přitom zbrojmistr u dělostřelectva držet tři kováře {Schmid}. Ti mají dělat, co je třeba k dělům, a okovat, co je zapotřebí. Při tažení se mají také zdržovat u velkých děl
+poznamky:
+- n: 1
+  text: „dauornen“ = da vornen, vpředu. Při ústupu od nepřítele jede všechno vozové napřed a zadní voj kryje jen několik polních děl; trén vzadu by při náporu nepřítele snadno propadl panice.
+- n: 2
+  text: Žold (Sold) je zde jednotka 4 zlatých (měsíční žold prostého lancknechta). Šlechtic tedy 4 × 4 = 16 zl.; nešlechtic 3 žoldy (12 zl.) a polovinu žoldu na pachole (2 zl.) = 14 zl.; 4 × 16 + 4 × 14 = 120 zl.
+- n: 3
+  text: „Leitinger“ – zkomolenina slova Leutinger / Locotenent, tj. zástupce (poručík) zbrojmistra nebo šancmistra.
+- n: 4
+  text: „Gestreb vnd Setz“ – podpěry a vzpěry (Gestrebe) a podložky či stojany (Gesetze), jimiž se zpevňovaly šance a podkládala děla; přesný význam slova „Setz“ nejistý.
+- n: 5
+  text: V tisku „Aim̃“ – zkrácený (švábský) tvar za „ainem“, tj. každému.

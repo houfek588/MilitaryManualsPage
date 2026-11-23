@@ -1,0 +1,90 @@
+id: 002r
+list: '[2] r'
+strana: recto
+sken: 3
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Stat Regiment vnd Ordnung/ ainer besatzung der Schloss.
+  cs: Stav, zřízení {Regiment} a řád posádky hradů
+- typ: odstavec
+  de: |-
+    JTem ain yede besatzung/da man sich versicht fürzulegern/die soll haben Fünff wesenlicher stuck/vnd wenn es deren ains oder mer nit hat/so soll der Herr kain vertröstung oder costen darauff legen/Vnd sonst in ander weg vnd mittel sich versůchen/wie Er mit seinem veind kirchweih mach.
+  cs: |-
+    Dále každá posádka {besatzung}, u níž se dá očekávat, že ji [nepřítel] oblehne, má mít pět podstatných věcí. Chybí-li jí jedna nebo více z nich, nemá na ni pán spoléhat ani na ni vynakládat náklady; ať raději zkusí jiné cesty a prostředky, jak si se svým nepřítelem „vystrojí posvícení“.[^1]
+- typ: nadpis
+  uroven: 3
+  de: Was aber die fünff wesenliche stuck seyen/volgt hernach.
+  cs: Které jsou oněch pět podstatných věcí, následuje dále
+- typ: odstavec
+  de: |-
+    Zu dem Ersten/das dasselb hauß an jm selb/ain wörlichen gůtten platz hab vnd vest sey.
+  cs: |-
+    Za prvé, aby hrad {hauß} sám o sobě stál na dobrém místě, vhodném k obraně, a byl pevný.
+- typ: odstavec
+  de: |-
+    Zu dem andern/Das söllich hauss mit geschütz vnd aller mundiceyen/darzů gehörig/nach seiner gelegenhait/versehen sey.
+  cs: |-
+    Za druhé, aby byl takový hrad podle svých poměrů zásoben děly {geschütz} a veškerou municí {mundiceyen}, která k nim patří.
+- typ: odstavec
+  de: |-
+    Zu dem dritten/Das gemelt hauss/mit notdurfftiger Brouant/nach seiner gelegenhait gespeyßt vnd versehen sey.
+  cs: |-
+    Za třetí, aby byl řečený hrad podle svých poměrů zaopatřen a zásoben potřebným proviantem {Brouant}.
+- typ: odstavec
+  de: |-
+    Zu dem Vierdten/Das das hauss zů seiner zimlichen zeyt/vnd zůuor/ee das Brouandt zerrinnt/gereth werden müg.
+  cs: |-
+    Za čtvrté, aby hrad mohl být v přiměřené době vysvobozen, a to dříve, než dojde proviant.
+- typ: odstavec
+  de: |-
+    Zu dem Fünfften/Das söllich gemellt hauss/mit fromen vnd notuesten leüten besetzt sey/daran ist nit wenig gelegen/Dann wa das nit wär/so wär Crisem vnd tauff aller verloren/da hilfft kain sterck/wenns nit Biderlewt hat. Es seind gewonlich in allen Besatzungen dreyerlay Secten der menschen/vnd haben doch Sechs namen/das seind Adel vnd Reytter/Fůßknecht/vnd des hauss gewonlich Ehallten/Handtwercker vnd Pawrn.
+  cs: |-
+    Za páté, aby byl řečený hrad obsazen řádnými a v nouzi pevnými lidmi; na tom nezáleží málo. Kdyby tomu tak nebylo, přišlo by vniveč křižmo i křest[^2] a nepomůže žádná síla, nemá-li [hrad] poctivé muže. Ve všech posádkách bývá obvykle trojí druh {Secten} lidí, kteří však mají šest jmen: šlechta a jezdci {Reytter}, pěší knechti {Fůßknecht} a obvyklá čeleď hradu {Ehallten},[^3] řemeslníci a sedláci.
+- typ: odstavec
+  de: |-
+    Item söllich hewser müssend vertröst sein zů retten/Wenn sy nit Rettung haben/so ist es nit müglich sölliche hewser zů behalten/in die harr.
+  cs: |-
+    Dále takové hrady musejí mít jistotu, že budou vysvobozeny. Nemají-li naději na pomoc, není možné je udržet nadlouho.
+- typ: nadpis
+  uroven: 3
+  de: Was aber der besatzung/die tröstlichest zůuersicht ist/volgt hernach.
+  cs: Co je však pro posádku nejútěšnější nadějí, následuje dále
+- typ: odstavec
+  de: |-
+    Item der principal oder kriegßherr der besatzung/soll selbs aigner person/im Schloss nit bleiben/vrsach/wie hernach volgen wirt/es ist gifft.
+  cs: |-
+    Dále hlavní pán {principal} neboli válečný pán {kriegßherr} posádky nemá sám osobně zůstávat na hradě; z příčin, jež budou uvedeny dále, je to jed.
+- typ: odstavec
+  de: |-
+    Aber seiner liebsten vnd nechstgesipten freündt ainer oder mer/Als der Vatter den Sun/oder der sun den vatter/oder ain Brůder den andern/der Herr die Fraw/oder vnerzogne kind/vnd dergleichen/Das macht der Besatzung ain hertz vnd trost.
+  cs: |-
+    Avšak jeden nebo více jeho nejmilejších a nejbližších příbuzných [tam zůstat má] – jako když otec [nechá na hradě] syna nebo syn otce, bratr bratra, pán paní nebo nedospělé děti a podobně. To dodává posádce odvahu a útěchu.
+- typ: odstavec
+  de: |-
+    So mag sich der principal/oder selbsecher bewerben/so er daussen ist/leyb/eer vnd gůt zů retten/die sein/vnd ander eerlich kriegßlewt zů behalten.
+  cs: |-
+    Hlavní pán, totiž sám strana ve při {selbsecher},[^4] se pak může, když je venku, přičinit o to, aby zachránil život, čest a statek a zachoval své lidi i jiné čestné válečníky {kriegßlewt}.
+- typ: odstavec
+  de: |-
+    Vnd das hauss nymmermeer alls gar/an vngesipt lewt lassen/das ist gantz trostlich/vnd bringt der gantzen besatzung ain hertz.
+  cs: |-
+    A nikdy nemá hrad nechat docela jen na lidech, kteří s ním nejsou spřízněni. To je velmi útěšné a dodává celé posádce odvahu.
+poznamky:
+- n: 1
+  text: |-
+    „Kirchweih machen“ (doslova „slavit posvícení“) – ironické lancknechtské rčení pro rvačku či boj. Míněno: ať se
+    s nepřítelem vypořádá jinak než spoléháním na nedostatečně vybavenou posádku.
+- n: 2
+  text: |-
+    „So wär Crisem vnd tauff aller verloren“ – doslova „bylo by ztraceno všechno křižmo i křest“; rčení pro zcela marné
+    úsilí.
+- n: 3
+  text: |-
+    Ehehalten (Ehallten) – stálá čeleď domu či hradu, služebnictvo vázané služební smlouvou.
+- n: 4
+  text: |-
+    „Selbsecher“ (Selbsächer) – kdo vede věc (spor, válku) sám za sebe, tj. sama strana sporu; zde jiné označení hlavního
+    pána, jemuž hrad patří.

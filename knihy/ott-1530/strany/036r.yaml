@@ -1,0 +1,60 @@
+id: 036r
+list: '[36] r'
+strana: recto
+sken: 71
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item ain yeder gewalltiger VeldZug / will haben Dreü Regiment / vnd wa der ains nit ist / mügen sellten die zway on das ain / frucht würcken / Darumb müssen sy alle Dreü ainig / vnd mit ainander eingezogen werden / in ain Regiment / wie dann hernach volgt /
+  cs: |-
+    Dále každé velké polní tažení {VeldZug} vyžaduje tři pluky {Regiment}, a kde jeden z nich chybí, mohou ty dva bez onoho jednoho jen zřídka přinést užitek. Proto musejí být všechny tři svorné a spolu sloučeny v jedno zřízení {Regiment}, jak dále následuje.
+- typ: odstavec
+  de: |-
+    Item es will haben / ain yeder gewalltiger VeldZug / mit seiner Maß / ain Raysigen Zeüg / darbey / mit seiner maß / ain Artelarey / mit jrem Geschütz / vnd ganntzer Mundicey / das ist ain Zewghauß / mit jrer Zal Büchsen / so auff der ächß gond / biß in die 55 Stuck.
+  cs: |-
+    Dále každé velké polní tažení vyžaduje v náležité míře jízdu {Raysigen Zeüg} a k tomu v náležité míře dělostřelectvo {Artelarey} s jeho děly {Geschütz} a veškerou municí {Mundicey}, to jest zbrojnici {Zewghauß} s příslušným počtem děl {Büchsen}, která jedou na nápravách, až do 55 kusů {Stuck}.
+- typ: odstavec
+  de: |-
+    Was aber ain Zeüghauß oder Artelarey mit jrer Mundicey ist / das wirt in disem Regiment vnd Stat / nit außgetruckt / Sonnder dieweyl es ain aigen Regiment vnd Stat ist / Darumb so werden jr in demselben gantz aigentlich finden / allen gebrauch / mit sonnderm fleyß / was er in seiner krafft vermag / vnd wie derselb Stat zuprauchen ist. Vnd wird allain den Stat vnd Regiment der Fůßknecht anregen.
+  cs: |-
+    Co je však zbrojnice nebo dělostřelectvo s jeho municí, to se v tomto zřízení a stavu {Regiment vnd Stat} nevykládá. Protože je to samostatné zřízení a stav, najdete v něm zcela přesně a se zvláštní pečlivostí [popsáno] veškeré jeho užívání, co dokáže svou silou a jak se onoho stavu má užívat. A [zde] se zmíním jen o stavu a zřízení pěších knechtů {Fůßknecht}.
+- typ: odstavec
+  de: |-
+    Warumb ich aber das Regiment der Raysigen vnd Artelarey mit einzeüch / Das ist darumb von bessers verstandts wegen / wie ains auß dem andern fleüßt / vnd wie ains dem andern die handt beüt / auch wie kains on das ander nutz oder frucht schaffen mag.
+  cs: |-
+    Proč však zahrnuji i pluk jízdy {Raysigen} a dělostřelectva, to je kvůli lepšímu porozumění: jak jedno z druhého plyne, jak jedno druhému podává ruku a také jak žádné nemůže bez druhého přinést užitek ani plod.
+- typ: odstavec
+  de: |-
+    Wie aber die Dreü Regiment / ain Regimeut erhallten / ist also gestalt / Wenn ain Herr will auff ain Krieg legen / Dreümal Hundert Tausent florin / So soll er rechnen die Hundert Tausendt / auff den Raysigen Zewg / vnd das ander Hundert Tausent auf die Artelarey / vnd die letsten Hundert Tausent auf die Fůßknecht.
+  cs: |-
+    Jak však tři pluky udržují jedno [společné] zřízení,[^1] je to takto: Chce-li pán vynaložit na válku třikrát sto tisíc zlatých {florin}, má počítat sto tisíc na jízdu, druhých sto tisíc na dělostřelectvo a posledních sto tisíc na pěší knechty.
+- typ: odstavec
+  de: |-
+    Vnd wiewol die Hauffen an der Manschafft ainander nit gleich / vnd an den Personen ain grosse vnderschayd ist / so geet doch auff die Raysigen Pferdt dester mer / Vnd wiewol die Artelarey vil schwecher am volck vnd Raysigen Pferdten / so geet doch dester mer auff Kugeln / Puluer / vnd WagenRoss / auch DoppelSold vnd Mundicey / das ich die Regiment im Costen vast mit ainander vergleich.
+  cs: |-
+    A ačkoli si houfy {Hauffen} počtem mužstva nejsou rovny a v počtu osob je mezi nimi velký rozdíl, padne přece tím více na jezdecké koně. A ačkoli je dělostřelectvo mnohem slabší lidmi i jezdeckými koňmi, padne zase tím více na koule {Kugeln}, prach {Puluer} a vozní koně {WagenRoss}, také na dvojitý žold {DoppelSold} a munici, takže pluky co do nákladů stavím téměř na roveň.
+- typ: odstavec
+  de: |-
+    Wie aber die Regiment gestallt seind / dem ist also / wie hernach volgt /
+  cs: 'Jak jsou však pluky uspořádány, to je takto, jak následuje:'
+- typ: odstavec
+  de: |-
+    Alle Geraysigen haben gewonlich ainen Obersten / der da ist über alle ander VnderHauptlewt vnd gantzen Raysigen Hauffen / der wirt genannt / ain VeldtMarschalck / so man die Empter besetzt / Der hat sein aigen Regiment / vnd seinen aigen Prouosen / vnd wirdt genannt / der Ritterschafft Prouoß.
+  cs: |-
+    Všichni jezdci {Geraysigen} mají obvykle jednoho plukovníka {Obersten}, který je nad všemi ostatními podřízenými hejtmany {VnderHauptlewt} a nad celým jízdním houfem; ten se při obsazování úřadů nazývá polní maršálek {VeldtMarschalck}. Ten má svou vlastní správu {Regiment} a svého vlastního profousa {Prouosen}, jenž se nazývá profous rytířstva {Ritterschafft Prouoß}.
+- typ: odstavec
+  de: |-
+    Das ander Regiment / ist der Oberst VeldZewgmaister / der hat vnder seinem gewalt / die gantz Artelarey / sampt allem Geschütz vnd Mundicey / Der hat auch sein aigen Prouosen.
+  cs: |-
+    Druhý pluk je nejvyšší polní zbrojmistr {Oberst VeldZewgmaister}; ten má pod svou mocí celé dělostřelectvo se všemi děly a municí. I on má svého vlastního profousa.
+- typ: odstavec
+  de: |-
+    Das drit / ist der Fůßknecht Regiment / die haben auch ain öbersten aller fůßknecht / der hat vnder jm / all ander Vnderhauptleüt / vnd wirt genent aller Fůßknecht öberster / der hat auch sein Prouosen vnd aigen regiment.
+  cs: |-
+    Třetí je pluk pěších knechtů; ti mají také plukovníka všech pěších knechtů, který má pod sebou všechny ostatní podřízené hejtmany a nazývá se plukovník všech pěších knechtů {aller Fůßknecht öberster}; i on má svého profousa a vlastní správu.
+poznamky:
+- n: 1
+  text: |-
+    V tisku „Regimeut“ – tisková chyba za „Regiment“. Jde o to, jak tři pluky dohromady tvoří a nesou jeden celek (vojsko) a jak se mezi ně dělí náklady.

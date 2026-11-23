@@ -1,0 +1,69 @@
+id: 041v
+list: '[41] v'
+strana: verso
+sken: 82
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  pokracovani: true
+  de:
+  - [Gerichtschreyber, ij söld]
+  - [Ainem Quartiermaister, iiij söld]
+  - [Dem Wachmaister, iiij söld]
+  cs:
+  - ['soudnímu písaři {Gerichtschreyber}', 2 žoldy]
+  - ['kvartýrmistrovi {Quartiermaister}', 4 žoldy]
+  - ['vachmistrovi {Wachmaister}', 4 žoldy]
+- typ: odstavec
+  de: |-
+    Item das ain yeder vorgemellter VberSöldner oder DopelSöldner sein KürissHarnisch hab.
+  cs: |-
+    Dále [je třeba], aby každý výše jmenovaný nadžoldnéř {VberSöldner} nebo dvojžoldnéř {DopelSöldner} měl svou kyrysovou zbroj {KürissHarnisch}.
+- typ: odstavec
+  de: |-
+    Ainem gemainen Wundartzt / für sich vnd seinen Knecht xxx florin / des Monats.
+  cs: |-
+    Obecnímu ranhojiči {gemainen Wundartzt} pro něho a jeho pacholka 30 zlatých {florin} měsíčně.[^1]
+- typ: tabulka
+  de:
+  - [Dem Prouosen, vj söld]
+  - [Seinen Vier Trabanten, viij söld]
+  - [Seinen Vier SteckenKnechten, viij söld]
+  - [Dem NachRichter vnd seinem Knecht, iiij söld]
+  cs:
+  - ['profousovi {Prouosen}', 6 žoldů]
+  - ['jeho čtyřem drabantům {Trabanten}', 8 žoldů]
+  - ['jeho čtyřem pacholkům {SteckenKnechten}', 8 žoldů]
+  - ['katovi {NachRichter} a jeho pacholkovi', 4 žoldy]
+- typ: nadpis
+  uroven: 2
+  de: Von den MusterHerren.
+  cs: O přehlídkových komisařích {MusterHerren}
+- typ: odstavec
+  de: |-
+    Item es söllen zum wenigsten / Zwen MusterHerren bestellt vnd besoldt werden / Vnd wirt geacht / das derselben ainem / des Monats / als vil als vorgemellter maß / ainem VnnderHauptman / über ain Fendlin Knecht / auff sein Person / vnd für ain knaben gegeben werde.
+  cs: |-
+    Dále mají být najati a placeni nejméně dva přehlídkoví komisaři. A má se za to, že jednomu z nich se má dávat měsíčně tolik, kolik se výše řečenou měrou dává podřízenému hejtmanovi {VnnderHauptman} nad praporcem knechtů na jeho osobu a na pachole {knaben}.
+- typ: odstavec
+  de: |-
+    Vnd soll jr yeder Zwen Trabanten haben / die er auß den andern besöldten Knechten nemen / der yedem zů seinem vorigen Sold / noch ain Halber Sold / werden soll.
+  cs: |-
+    A každý z nich má mít dva drabanty, které si vezme z ostatních placených knechtů; každému z nich se má k jeho dosavadnímu žoldu dostávat ještě půl žoldu.
+- typ: nadpis
+  uroven: 2
+  de: Ayd der MusterHerren.
+  cs: Přísaha {Ayd} přehlídkových komisařů
+- typ: odstavec
+  de: |-
+    Das ich die N. Monat / so ich von wegen N. zůr Musterung / des kriegß volcks bestellt N. getrewlich dienen / schaden warnen / vnd fromen werben / auch dem Obersten Hauptman gewärtig vnd gehorsam sein soll / Vnd will auch / in ainer yeden Musterung / des KriegßVolcks / als vil mir müglich ist / fürkomen vnd abwenden / darmit die Herrschafft / mit vnzymlichen Sölden / nit betrogen oder beschwert werden / Vnnd wess mir / söllich Musterung halben / von wegen des KriegßHerrn / verzaichnet / gegeben wirdt / der soll vnnd will ich volg thůn / Wes sich dann / gemellts meins Diensts halben / irrung begebe / das gůtlich nit vertragen kündt werden / darumb will ich enndtlich / vngewägerts entschyds / von dem Obersten Hauptman / vnnd den KriegßRäten / so er darzů nymt / gewärtig sein.
+  cs: |-
+    Že po N. měsíců, na které jsem jménem N. najat k přehlídce {Musterung} válečného lidu, budu N. věrně sloužit, varovat před škodou a usilovat o prospěch a budu nejvyššímu hejtmanovi {Obersten Hauptman} k službám a poslušný. A chci také při každé přehlídce válečného lidu {KriegßVolcks}, seč mi síly stačí, předcházet a bránit tomu, aby panstvo nebylo podváděno nebo zatěžováno nepřiměřenými žoldy {Sölden}. A čím mě kvůli takové přehlídce jménem válečného pána {KriegßHerrn} písemně pověří, tomu mám a chci vyhovět. A kdyby kvůli této mé službě vznikl spor, který by nemohl být smírně urovnán, chci se bez zdráhání podrobit konečnému rozhodnutí nejvyššího hejtmana a válečných radů {KriegßRäten}, které k tomu přibere.
+- typ: odstavec
+  de: |-
+    Nun diser Artickel / soll in der MusterHerrn Ordnung / so jn der KriegßHerr gegeben / auch gesetzt werden / darmit sy demselbigen / als vil sy der berürt / volg thůn / Vnd als vil die MusterHerren in söllicher Musterung / gůt gemachter Knecht finden / söllen sy dem Pfenningmaister /
+  cs: |-
+    Tento artikul {Artickel} má být také vložen do řádu přehlídkových komisařů, který jim dá válečný pán, aby mu vyhověli, nakolik se jich týká. A kolik uznaných {gůt gemachter} knechtů přehlídkoví komisaři při takové přehlídce shledají, [o tom] mají pokladníkovi {Pfenningmaister}
+poznamky:
+- n: 1
+  text: V tisku římská číslice „xxx“ (30), ověřeno ve skenu.

@@ -1,0 +1,74 @@
+id: 034r
+list: '[34] r'
+strana: recto
+sken: 67
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  de:
+  - Item darnach die Pleywägen /
+  - Item darnach der Büchsen Mödel / Zanngen vnd Kellen wägen.
+  - Item darnach der Salpeter vnd Schwebel wagen /
+  - Item den wagen mit den übrigen Ladstanngen / vnd was darzů gehört.
+  - Item den wagen mit den FewrPfannen /
+  - Item die Harnasch wägen
+  - Item den Sattel vnd Kometh wagen
+  - Item den wagen mit den Stäben vnd Schineysen /
+  - Item die Reder wägen /
+  - Item den wagen mit den Lönstanngen vnd SylScheittern /
+  - Item den wagen mit den Sännfftin /
+  - Item daruor den wagen mit den Saylern
+  - Item die wägen mit den Tragkörben vnd Kübeln / so man zum Schantzen braucht.
+  - Item den wagen mit den Grossen ächsen /
+  - Item die wägen mit den klain ächsen vnd Wagnerholtz /
+  - Item den wagen mit den Ronnden Stanngen / die zu ZeldtPaumen söllen.
+  - Item die wägen mit dem vngemachten GefäßHoltz /
+  - Item den wagen mit dem geringen ZymmerHoltz /
+  - Item die wägen mit den SturmLayttern / die seind die letsten.
+  - Item des Zewgwarten wagen.
+  cs:
+  - Dále potom vozy s olovem {Pleywägen}.
+  - Dále potom vozy s formami na koule {Büchsen Mödel}, kleštěmi a licími lžícemi {Kellen}.
+  - Dále potom vůz s ledkem {Salpeter} a sírou {Schwebel}.
+  - Dále vůz se zásobními nabíjecími tyčemi {Ladstanngen} a s tím, co k tomu patří.
+  - Dále vůz s ohnivými pánvemi {FewrPfannen}.
+  - Dále vozy se zbrojí {Harnasch}.
+  - Dále vůz se sedly a chomouty {Kometh}.
+  - Dále vůz s tyčovým železem {Stäben} a ráfovým železem {Schineysen}.
+  - Dále vozy s koly.
+  - Dále vůz s opěrnými tyčemi {Lönstanngen}[^1] a vahadly {SylScheittern}.
+  - Dále vůz s nosítky {Sännfftin}.
+  - Dále před ním vůz s lany {Saylern}.[^2]
+  - Dále vozy s nosnými koši a vědry, jichž je třeba při stavbě šancí.
+  - Dále vůz s velkými nápravami.
+  - Dále vozy s malými nápravami a kolářským dřevem {Wagnerholtz}.
+  - Dále vůz s kulatými tyčemi, které mají sloužit jako stanové sloupy {ZeldtPaumen}.
+  - Dále vozy s neopracovaným dřevem na lafety {GefäßHoltz}.
+  - Dále vůz s drobným stavebním dřívím {ZymmerHoltz}.
+  - Dále vozy s útočnými žebříky {SturmLayttern}; ty jsou poslední.
+  - Dále vůz zbrojního správce {Zewgwarten}.
+- typ: odstavec
+  de: |-
+    Darnach volgen des Zewgmaisters vnd anderer Obern wägen / auch in ordnung wie vor angezaigt ist.
+  cs: |-
+    Potom následují vozy zbrojmistra {Zewgmaisters} a jiných představených, také v pořadí, jak bylo ukázáno výše.
+- typ: nadpis
+  uroven: 2
+  de: Nun volgt hernach die Freyhait der Artelarey.
+  cs: Nyní následuje výsada {Freyhait} dělostřelectva
+- typ: odstavec
+  de: |-
+    Item die Freyhait vnd Altherkomen im Kriegßgeprauch der Artelarey / So sich begebe im Veldtläger vnder dem Kriegßvolck / sy seyen zu Ross oder Fůß / Hoch oder niders Stands / so ainer den andern entleybt / oder auff den todt verwundt / vnd das geschech auß hitzigem gemůt / ob dem Spil / oder vmb GelltSchuld willen / oder vmb SchmachRed / oder schöner Frawen willen / wie dann das offt geschicht / das ainer den andern zu Straichen verursacht / Doch das söllichs nit fürträchtlich / mordtmässig beschech / vnd wol bedacht / So derselb / in die Artelarey / flüchtig enträn / vnd Freyhait der Artelarey / sůcht vnd begert / so soll derselb / weder von den Prouosen / oder andern / auß der Artelarey / zů fängknuß nit angenomen werdn / Sonder jn / bey derselben beleyben lassen / Es wäre dann sach / das der beschädigt / des täters Hauptman / oder Oberster wär / so hat er kain Freyhait bey der Artelarey / Auch kain Mörder / kain Verräter / Allain / was ausser der verursachung vnd hitzigem gemůt geschech /
+  cs: |-
+    Dále výsada a starobylý obyčej {Altherkomen} dělostřelectva {Artelarey} podle válečného zvyku: Stane-li se v polním ležení {Veldtläger} mezi válečným lidem {Kriegßvolck}, ať jízdním nebo pěším, vysokého nebo nízkého stavu, že jeden druhého zabije nebo smrtelně zraní, a stane-li se to ve vznětlivé mysli – při hře, kvůli peněžitému dluhu, kvůli urážce {SchmachRed} nebo kvůli pěkné ženě, jak se často stává, že jeden druhého vyprovokuje k ranám – avšak ne úmyslně, vražedně a s rozmyslem: uteče-li takový do dělostřelectva a hledá-li a žádá výsadu dělostřelectva, nemají ho z dělostřelectva vzít do vězení ani profousové {Prouosen}, ani nikdo jiný, nýbrž ho mají nechat u něho zůstat. Leda by poškozený byl hejtmanem {Hauptman} nebo plukovníkem {Oberster} pachatele; pak nemá u dělostřelectva žádnou výsadu. Nemá ji ani žádný vrah, ani žádný zrádce – platí jen pro to, co se stane z vyprovokování a ve vznětlivé mysli.
+- typ: odstavec
+  de: |-
+    Vnnd welcher Herr oder Prouoß / auß Fräuel darwider thůt / der verschult sich nit weniger / dann der wider Kayserliche Freyhait thät / aufs höchst.
+  cs: |-
+    A pán nebo profous {Prouoß}, který by proti tomu svévolně {auß Fräuel} jednal, se proviní nejvýš, neméně než ten, kdo jedná proti císařské výsadě.
+poznamky:
+- n: 1
+  text: „Lönstangen“ – nejisté; snad opěrné nebo boční tyče vozu (Lehnstangen, Leuchsen), srov. „LönSaylen“ na předchozí straně.
+- n: 2
+  text: „Sayler“ – patrně lana (Seile); tvar by mohl znamenat i provazníky (Seiler), v soupisu vozů s materiálem je však pravděpodobnější náklad lan.

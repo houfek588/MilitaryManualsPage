@@ -1,0 +1,51 @@
+id: 037v
+list: '[37] v'
+strana: verso
+sken: 74
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item welcher gellt empfahet / darumb Er noch zůdienen schuldig ist / vnnd darüber / on kundtliche erlaubnuß des Obersten Hauptmanns / hinwegzuge / soll auch trewloß / vnd Mainaydig / vnd ain Schelm sein / Darzů von ainem yeden an leyb vnd gůt gestrafft werden mügen / vnd derhalb allenthalben im Reych / nyendert kain Freyhait / Glayt / oder sicherhait haben.
+  cs: |-
+    Dále kdo přijme peníze, za které je ještě povinen sloužit, a přesto bez výslovného svolení nejvyššího hejtmana {Obersten Hauptmanns} odtáhne, má být rovněž [pokládán za] věrolomného, křivopřísežníka a šelmu {Schelm}; k tomu ho smí kdokoli potrestat na těle i statku, a proto nemá nikde v říši mít žádnou výsadu {Freyhait}, glejt {Glayt} ani bezpečí.
+- typ: odstavec
+  de: |-
+    Item so Schloss / Stett / oder ander Besatzungen / mit thäding / auffgenomen wurden / derhalb soll eüch die Oberkait nichts schuldig sein.
+  cs: |-
+    Dále budou-li hrady, města nebo jiná obsazená místa {Besatzungen} získána smlouvou {thäding}, nemá vám za to vrchnost {Oberkait} nic dlužit.
+- typ: odstavec
+  de: |-
+    Item so Schlösser / Stett / annder Besatzung oder Flecken / mit dem Sturm gewunnen wurden / so soll der Oberkait Geschütz / Puluer / vnd was darzů gehört / Auch Prouandt zů notdurfftiger Besatzung / desselben gewunnen Fleckens / vorbehallten sein / Was aber sonnst ain yeder von annderer Farender hab / oder gefanngen gewinnt / das soll jm nach KriegßOrdnung beleyben / oder an gemaine Bewt komen / Vnd wa ainer dem andern sein gebürende gewinnung / mit gewalt abtrung oder neme / der oder dieselben / söllen darumb / nach erkantnuß des Obersten VeldtHauptmans / gestrafft werden.
+  cs: |-
+    Dále budou-li hrady, města, jiná obsazená místa nebo městečka {Flecken} dobyta útokem {Sturm}, mají vrchnosti zůstat vyhrazena děla {Geschütz}, prach {Puluer} a co k tomu patří, také proviant {Prouandt} k nezbytnému zaopatření posádky {Besatzung} téhož dobytého místa. Co však jinak kdo získá z jiného movitého majetku {Farender hab} nebo na zajatcích, to mu má podle válečného řádu {KriegßOrdnung} zůstat, nebo připadnout ke společné kořisti {gemaine Bewt}. A kdyby někdo druhému násilím vynutil nebo vzal kořist, která mu náleží, má být ten nebo ti za to potrestáni podle uvážení nejvyššího polního hejtmana {Obersten VeldtHauptmans}.
+- typ: odstavec
+  de: |-
+    Item N. söllen eüch von Sturm oder Schlachten wegen / die jr thůn wurdet / weytters nichts / dann wie Jr ewer Besoldung halben bestellt seyt / auch jr darumb ferrner oder weytters nichts an sy fordern oder haischen.
+  cs: |-
+    Dále vám N. nemají být za útoky nebo bitvy, které podniknete, povinni ničím dalším, než k čemu jste co do svého žoldu {Besoldung} najati, a vy po nich za to nemáte nic dalšího žádat ani požadovat.[^1]
+- typ: odstavec
+  de: |-
+    Kindtpetterin / Schwanger / vnd ander Erber Frawen / Junckfrawen / Allt erlebt vnd über Järig lewt / Junge Kinder / minder Järig Knaben / Priester / so zů den PfarKirchen gehörig / So ferr sy sich zůr gegenwör nichts gebraucht / Die yetzgemellten Personen / söllen an jren leyben vnuerletzt gehallten werden / Vnd wa man mit dem Leger ligen wurde / oder an ainem Zug / da PfarrKirchen wären / soll sich ewer kainer in die Kirchen Legern / oder schaden darinnen zůfügen / sonder dieselbigen / getrewlich schützen helffen / Wer darwider thäte / soll on alle genad gestrafft werden.
+  cs: |-
+    Šestinedělky, těhotné a jiné počestné ženy, panny, staří sešlí a přestárlí lidé, malé děti, nedospělí chlapci, kněží, kteří patří k farním kostelům, pokud se nijak nestaví na odpor: tyto právě jmenované osoby mají být zachovány bez úhony na těle. A kde by se stálo ležením {Leger} nebo kde by na tažení {Zug} byly farní kostely, nemá se nikdo z vás v kostelech ukládat ani v nich působit škodu, nýbrž má je věrně pomáhat chránit. Kdo by jednal proti tomu, má být potrestán bez jakékoli milosti.
+- typ: odstavec
+  de: |-
+    Es soll kainer kain allten Neyd oder Hass rechen / noch überlauffen Schelltworten / oder schuldenhalben gegenainander / ausserhalb Rechtens / fürnemen / Welcher das nit hielt / soll nach erkantnuß des Rechtens / an leyb vnd gůt gestrafft werden.
+  cs: |-
+    Nikdo nemá mstít starou závist či nenávist ani mimo cestu práva podnikat proti druhému přepadení {überlauffen} kvůli nadávkám nebo dluhům. Kdo by to nedodržel, má být podle nálezu práva potrestán na těle i statku.
+- typ: odstavec
+  de: |-
+    Ob sich begebe / das ainer mit dem andern in vnainigkait oder Aufrůr keme / es wär gegen FůßKnechten / Raysigen N. oder N. oder anderm KriegßVolck / soll sich kainer wider den andern Rotten / sonnder von stundan / Friden nemen vnnd geben / Vnnd welchem vmb Friden zůgesprochen / vnd den nit hielte / so solle der nächst auf jn schlahen / Vnd so söllicher überfarer / des erforderten Fridens / darüber erschlagen wurde / in demselbigen / soll nyemant sich vergriffen haben /
+  cs: |-
+    Kdyby se stalo, že by se jeden s druhým dostal do nesvárů nebo vzbouření {Aufrůr}, ať proti pěším knechtům, jezdcům {Raysigen}, N. nebo N., nebo jinému válečnému lidu {KriegßVolck}, nemá se nikdo proti druhému srocovat {Rotten}, nýbrž má ihned mír {Friden} přijmout i dát. A kdo by byl vyzván k míru a nedodržel ho, na toho má udeřit nejbližší. A kdyby byl takový přestupník vyžádaného míru přitom zabit, nemá se tím nikdo provinit.
+- typ: odstavec
+  de: |-
+    Weytter / Ob ainer oder mer / seine Wör / auf ainen andern schuss / oder
+  cs: |-
+    Dále kdyby jeden nebo více [lidí] na jiného vystřelili ze své zbraně {Wör} nebo
+poznamky:
+- n: 1
+  text: |-
+    Věta je eliptická (chybí „schuldig sein“) – za útok či bitvu se tedy podle tohoto artikulu nevyplácí žádný zvláštní útočný žold (Sturmsold) nad smluvený měsíční žold.

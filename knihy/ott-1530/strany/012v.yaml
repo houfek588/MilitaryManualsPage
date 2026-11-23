@@ -1,0 +1,64 @@
+id: 012v
+list: '[12] v'
+strana: verso
+sken: 24
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Stat vnnd Regiment der Artelarey/ wie das regiert vnd gehandelt werden soll.
+  cs: Stav a zřízení {Stat vnnd Regiment} dělostřelectva {Artelarey} – jak se má řídit a spravovat[^1]
+- typ: odstavec
+  de: |-
+    Item wie dem obersten Veldtzeügmaister sein Stat vnd Regiment beuolhen werden soll/ was sein Ayd vnd besoldung sey.
+  cs: |-
+    Dále jak se má nejvyššímu polnímu zbrojmistrovi {obersten Veldtzeügmaister} svěřit jeho stav a zřízení a jaká je jeho přísaha {Ayd} a žold {besoldung}.
+- typ: odstavec
+  de: |-
+    Item was sein/ des Zeügmaisters Lutinant/ beuelch/ Ayd vnd Sold sey.
+  cs: |-
+    Dále jaké je pověření, přísaha a žold zbrojmistrova poručíka {Lutinant}.
+- typ: odstavec
+  de: |-
+    Item was des Pfenningmaisters oder ZallZeügschreybers beuelh/ Ayd/ vnd Soldt sey.
+  cs: |-
+    Dále jaké je pověření, přísaha a žold pokladníka {Pfenningmaisters} neboli zbrojního platebníka {ZallZeügschreybers}.
+- typ: odstavec
+  de: |-
+    Item wie alle Empter beuolhen vnnd besetzt werden sollen/ Als die Zeüg diener.
+  cs: |-
+    Dále jak se mají svěřit a obsadit všechny úřady {Empter}, jako zbrojní služebníci {Zeüg diener},
+- typ: seznam
+  de:
+  - Schantzmaister/
+  - Zeügwart/
+  - Veldt wundartzt/
+  - Der Schantzbawren Hauptman/
+  - Die Geschirrmaister/
+  cs:
+  - šancmistr {Schantzmaister},
+  - zbrojní správce {Zeügwart},
+  - polní ranhojič {Veldt wundartzt},
+  - hejtman šancířů {Schantzbawren Hauptman},
+  - vozmistři {Geschirrmaister}.
+- typ: odstavec
+  de: |-
+    Item des Zeügmaisters Profoß/
+  cs: |-
+    Dále zbrojmistrův profous {Profoß}.
+- typ: odstavec
+  de: |-
+    Item Büchsenmaister mit jrem beuelch vnd Sölden/ auch jrem Ayd/ vnd vnderschaid der Namen/ BüchsenMaister/ oder Schützen.
+  cs: |-
+    Dále puškaři {Büchsenmaister} s jejich pověřením, žoldem a přísahou a s rozlišením názvů puškař a střelec {Schützen}.
+- typ: odstavec
+  de: |-
+    Also durchauß vnd auß/ was alle Artelarey personen gestan im Costen ain Monat lanng/ sampt aller Wagen Pferdt/ so an den Büchsen vnd anderer Mundiceywägen gand/ wirt besonder in der Tax vnd Summa gefunden/ so man ain gantz Zeüghauß in ordnung ins Veld füren soll etc.
+  cs: |-
+    A tak od začátku do konce: kolik stojí všechny osoby dělostřelectva za jeden měsíc spolu se všemi vozními koňmi {Wagen Pferdt}, kteří táhnou děla {Büchsen} a ostatní vozy s municí {Mundiceywägen}, to se najde zvlášť v sazbě {Tax} a součtu pro případ, že se má do pole vypravit v pořádku celá polní zbrojnice {Zeüghauß}[^2] atd.
+poznamky:
+- n: 1
+  text: Začátek druhé hlavní části tisku. „Stat vnd Regiment“ – „Stat“ je stav (vydržování, výbava a personál úřadu), „Regiment“ řízení, správa; v edici jednotně „stav a zřízení“ (Ordnung = řád). V dalším textu znamená „Regiment“ také samostatný útvar vojska (pluk).
+- n: 2
+  text: „Zeughaus“ zde i dále ve smyslu celého dělostřeleckého parku s děly, municí, vozy a obsluhou, který se vypravuje do pole (55 děl, viz [[014v|list (14) v]]), ne budovy zbrojnice.

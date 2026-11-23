@@ -1,0 +1,76 @@
+id: 005r
+list: '[5] r'
+strana: recto
+sken: 9
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Es sollen auch in ainer yeden Besatzung/zu ainem vorrath/etlich laittern gewärtig sein/wa etwan der wendel zerschossen wirt/schnecken/windelstain/oder andere stiegen zu grund vnd boden gond/das man dannocht zůsamen komen mög/von ainer wör zů der andern.
+  cs: |-
+    V každé posádce {Besatzung} má být také do zásoby připraveno několik žebříků pro případ, že by byla rozstřílena točitá schodiště {wendel}, šnekové schody {schnecken}, kamenná vřetena {windelstain} nebo jiné schody a zřítily se až k zemi – aby se lidé přesto mohli dostat k sobě, od jednoho obranného místa {wör} k druhému.
+- typ: nadpis
+  uroven: 2
+  de: Nun volgen hernach die Weybs personn so in ainer yeden besatzung von nöten seynd.
+  cs: Nyní následují ženy, které jsou v každé posádce zapotřebí
+- typ: odstavec
+  de: |-
+    Item ain Neerin/mit jrer helfferin/die dem volck hembder vnd anders machen künden/auch der Bethgewand vnd anderer leinwat/im Schloss gewärtig/mit bessern/darzů gehörig/Dem Amptman ain anzal leinwath/das derselbig Amptman oder Castenvogt auch herfür geb/vmb gellt/in massen/wie vor von tůch vnd leder gehört ist.
+  cs: |-
+    Dále švadlena s pomocnicí, které umějí lidu šít košile a jiné věci a na hradě mají na starosti i ložní prádlo a jiné plátno a jeho spravování. K tomu patří, aby měl úředník {Amptman} určitou zásobu plátna, kterou tento úředník neboli správce zásob {Castenvogt}[^1] rovněž vydává za peníze, stejně jak bylo řečeno výše o suknu a kůži.
+- typ: odstavec
+  de: |-
+    Item Zwo starck frawen/die der krancken warten künden/Meer zwo frawen/die zu zeyten/den Köchen in der kuchin/mit spielen/holtz vnd wasser tragen/handtraich thůnd/vnd zu zeyten den Pfistern zu dem Bachen/deßgleichen den Metzgern auch zůgreiffen sollen/Vnd wenn sy nit nöttigers zu thůn haben/so söllen sy all stain/auff die Wörinen/in alle Zymmer vnd Läden tragen/wa dann Sy das der Hauptman weyset/oder ander/von seinetwegen.
+  cs: |-
+    Dále dvě silné ženy, které umějí ošetřovat nemocné. Ještě další dvě ženy, které mají občas podávat ruku kuchařům v kuchyni při mytí nádobí a nošení dříví a vody, občas pomáhat pekařům při pečení a stejně tak řezníkům. Když nemají nic naléhavějšího na práci, mají nosit všechno kamení na obranná místa {Wörinen}, do všech místností a k okenicím {Läden}[^2], kam jim to hejtman {Hauptman} nebo někdo jiný jeho jménem ukáže.
+- typ: odstavec
+  de: |-
+    Item man soll auch noch zwo oder drey frawen besolden/die yedermans weyb seind/Derhalben soll man kain eyferung haben/Es soll auch der Hauptmann/denselben armen weybern/gleichen vertrag/Schutz vnd Schirm hallten/Vnd kainer gedencken/das er sy allain haben wöllt/Es ist vnrecht/wölcher ain gemain einzeinen will/darumb sollen sy ain zimlich frawengellt nemen/Tay/zwen Creützer.
+  cs: |-
+    Dále se mají za žold {besolden} držet ještě dvě nebo tři ženy, které jsou ženami pro každého; kvůli nim nemá nikdo žárlit. Hejtman má těmto ubohým ženám zajistit stejné zacházení, ochranu a záštitu. A nikdo ať nepomýšlí na to, že by je chtěl mít sám pro sebe; není správné, chce-li někdo obecní pastvinu oplotit pro sebe.[^3] Proto mají brát přiměřený ženský poplatek podle sazby {Tay}[^4]: dva krejcary {Creützer}.
+- typ: odstavec
+  de: |-
+    Darzů soll jr yeden über das alles/der Hauptmann/alle Monat/zů der liuerung/geben ain florin. Also söllen alle frawen/in der Besatzung/von der Herrschafft versollt werden/zůsampt der liuerung/Es söllen auch die/so Eeweyber haben/kain tail an dem gemainen gůt haben/der yetzgemellten frawen/bey Gottes Straff.
+  cs: |-
+    K tomu má hejtman nad to všechno dát každé z nich každý měsíc k přídělu {liuerung}[^5] jeden zlatý {florin}. Tak mají být všechny ženy v posádce placeny vrchností, a to spolu s přídělem. Ti, kdo mají manželky, nemají pod trestem Božím mít žádný podíl na tomto společném statku, totiž na právě zmíněných ženách.
+- typ: odstavec
+  de: |-
+    Man soll auch kainer Frawen ausser dem Schloss erlauben/biß zu end der Sach/das ain gemain erlaubnuß geschicht.
+  cs: |-
+    Žádné ženě se také nemá dovolit odejít z hradu až do konce věci, kdy se dá obecné propuštění.
+- typ: odstavec
+  de: |-
+    Item man soll auch ain Priester besolden mit seinem Caplan/die das gottswortt verkünden/vnd dem volck die Sacrament raichen.
+  cs: |-
+    Dále se má za žold držet kněz se svým kaplanem {Caplan}, kteří mají hlásat slovo Boží a udělovat lidu svátosti.
+- typ: odstavec
+  de: |-
+    Darzů soll man ain Wundartzet erhallten/mitsampt seinem knecht/darzů alle wundartzney/das den wunden geholffen werden müge/das sy hoch vnd nydern Stennden zu zeyten helffen mügen/mit schrepffen vnd aderlassen.
+  cs: |-
+    K tomu se má vydržovat ranhojič {Wundartzet} s tovaryšem a k tomu všechny léky na rány, aby se raněným mohlo pomoci a aby [ranhojiči] mohli občas pomoci vysokým i nízkým stavům baňkováním a pouštěním žilou.
+- typ: odstavec
+  de: |-
+    Item so man zůsamen geschworen hat/vnd alle Empter ordenlichen besetzt mit jrer maß beuolhen seind/Alßdann söllen in speyß vnd tranck/ain gleichhait gehallten werden/Auß ainem hafen speysen/ainerlay
+  cs: |-
+    Dále když se [všichni] vzájemně zavázali přísahou a všechny úřady {Empter} jsou řádně obsazeny a v náležité míře svěřeny, má se v jídle a pití zachovávat rovnost: jíst z jednoho hrnce, jeden a týž
+poznamky:
+- n: 1
+  text: |-
+    Kastenvogt – správce panské sýpky a zásob (Kasten = sýpka, zásobárna); zde zřejmě totožný s úředníkem (Amptman), který
+    vede hradní hospodářství. Srov. heslo „správce sýpky“ (Kastenpfleger).
+- n: 2
+  text: |-
+    „Läden“ – okenice, okenní otvory s okenicemi, odkud se na útočníky házelo kamení (srov. list [9] r: „stain werffen
+    über die leden hinauß“).
+- n: 3
+  text: |-
+    „Wölcher ain gemain einzeinen will“ – doslova „kdo chce obecní pozemek (občinu) oplotit“; rčení: přivlastnit si,
+    co patří všem.
+- n: 4
+  text: |-
+    „Tay“ – stanovená sazba, taxa (srov. Taxe; týž výraz v řádu stráží, list [7] r). Krejcar (Kreuzer) – drobná
+    stříbrná mince; 60 krejcarů = 1 zlatý.
+- n: 5
+  text: |-
+    „Liuerung“ (Lieferung) – příděl stravy a potřeb, který vrchnost vydávala posádce vedle peněžitého žoldu.

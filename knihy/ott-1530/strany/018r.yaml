@@ -1,0 +1,74 @@
+id: 018r
+list: '[18] r'
+strana: recto
+sken: 35
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Es wär dann sach/ das sein Büchß der massen gestallt/ das sy nit zebrauchen wär/ alß offt geschicht/ so soll er zů andern Büchsenmaistern lauffen/ in sollichem Lerman/ vnd was am nöttigisten/ ainem andern helffen vnd zůgreyffen.
+  cs: |-
+    Leda by jeho dělo {Büchß} bylo v takovém stavu, že by se nedalo použít, jak se často stává; pak má při takovém poplachu {Lerman} běžet k jiným puškařům {Büchsenmaistern} a pomáhat a přiložit ruku k dílu tam, kde je toho nejvíc třeba.
+- typ: odstavec
+  de: |-
+    Sonst soll sich kain Büchsenmaister des andern Büchsen annemen oder vnderziehen/ on beuelch/ wissen vnd willen des Zeügmaisters/ oder seiner gewalltrager.
+  cs: |-
+    Jinak se žádný puškař nemá ujímat ani zmocňovat děla jiného bez rozkazu, vědomí a vůle zbrojmistra {Zeügmaisters} nebo jeho zmocněnců.
+- typ: nadpis
+  uroven: 3
+  de: Das sey von beuelch der Büchsen/ Vnd volgt hernach die Tax jrer Söld.
+  cs: Tolik o svěření děl; a dále následuje sazba jejich žoldů {Söld}
+- typ: odstavec
+  de: |-
+    Item welcher ain ScharpffeMetz schewßt/ dem gibt man gewonlich ain Monat/ – 16 florin.
+  cs: |-
+    Dále kdo střílí ze šarfmece {ScharpffeMetz}, tomu se obvykle dává na měsíc – 16 zlatých {florin}.
+- typ: odstavec
+  de: |-
+    Item welcher ain Basiliscen schewßt/ dem gibt man des Monats/ – 14 florin.
+  cs: |-
+    Dále kdo střílí z baziliška {Basiliscen}, tomu se dává na měsíc – 14 zlatých.
+- typ: odstavec
+  de: |-
+    Item welcher scheüßt ain Nachtgallen/ oder Singerin/ die baid werden gleich versöldt/ gibt man ain Monat/ – 12 florin.
+  cs: |-
+    Dále kdo střílí ze slavíka {Nachtgallen} nebo ze zpěvačky {Singerin} – obě jsou placeny stejně –, tomu se dává na měsíc – 12 zlatých.
+- typ: odstavec
+  de: |-
+    Item ainer der ain Quartan scheüßt/ dem soll ain Monat gegeben werden/ – 10 florin.
+  cs: |-
+    Dále tomu, kdo střílí z kartouny {Quartan}, se má dát na měsíc – 10 zlatých.
+- typ: odstavec
+  de: |-
+    Item Trachen vnd Schlanngen/ werden gewonlich gleich versoldt/ den gibt man ain Monat/ – 8 florin.
+  cs: |-
+    Dále [střelci z] draků {Trachen} a kulverin {Schlanngen} jsou obvykle placeni stejně; těm se dává na měsíc – 8 zlatých.
+- typ: odstavec
+  de: |-
+    Item Valckon/ vnd Valckonet/ werden gewonlich auch gleich versöldt/ den gibt man ain Monat/ – 6 florin.
+  cs: |-
+    Dále [střelci z] falkon {Valckon} a falkonetů {Valckonet} jsou obvykle také placeni stejně; těm se dává na měsíc – 6 zlatých.
+- typ: odstavec
+  de: |-
+    Item wölcher auß ainem Morthier würfft Fewr vnd Stain/ vnnd die Fewrwerck selbs machen kan/ so er würfft/ vnd gůt seind/ dem gibt man so vil/ als ainem/ der ain ScharpffMetz scheüßt/ des Monats/ – 16 florin.
+  cs: |-
+    Dále kdo z moždíře {Morthier} vrhá oheň a kameny a umí sám udělat ohňostroje {Fewrwerck}, které vrhá, a to dobré, tomu se dává tolik jako tomu, kdo střílí ze šarfmece: na měsíc – 16 zlatých.
+- typ: odstavec
+  de: |-
+    Deßgleichen söllen sy auch das Fewrwerck künden schiessen vnd machen/ Es begibt sich offt/ das man mer nutz mag schaffen mit Fewr schiessen/ dann mit Fewr werffen.
+  cs: |-
+    Rovněž mají umět ohňostroje také střílet [z děl] a dělat; často se totiž stává, že střelbou ohně lze způsobit víc užitku než jeho vrháním.
+- typ: odstavec
+  de: |-
+    Also soll man die auch hallten/ in der besoldung/ so zů dem klainen Morthier geordnet seind/ Sy söllen sich auch brauchen lassen/ zů den Scharpff Metzen/ vnd anderm Geschütz zuschiessen/ Alles nach beuelch vnd gůt bedüncken des Zeügmaisters.
+  cs: |-
+    Stejně se má v žoldu {besoldung} zacházet i s těmi, kdo jsou přiděleni k malým moždířům. Mají se také dát použít ke střelbě ze šarfmecí a z jiných děl {Geschütz}, vše podle rozkazu a uvážení zbrojmistra.
+- typ: odstavec
+  de: |-
+    Die Summ der FewrwerckMaister/ der seind zů den 16 Morthier 7.
+  cs: |-
+    Počet ohňostrůjců {FewrwerckMaister}: k 16 moždířům jich je 7.[^1]
+poznamky:
+- n: 1
+  text: Odpovídá obsazení moždířů na [[016v|listu (16) v]] a [[017r|(17) r]] – 4 puškaři ke dvěma velkým a dvěma malým moždířům a 3 k úplně malým, celkem 7.

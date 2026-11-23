@@ -1,0 +1,54 @@
+id: 037r
+list: '[37] r'
+strana: recto
+sken: 73
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    So dann der KriegßRat / vnd alle Regiment / statlich besetzt seind / so mag dann alle Kriegs notdurfft / gar leichtlich erhallten werden / vnd alle ding in gůtter gelidmaß beleyben / vnnd besteen / mit gůttem allter verharren.
+  cs: |-
+    Když jsou pak válečná rada {KriegßRat} a všechny pluky {Regiment} náležitě obsazeny, lze velmi snadno zajistit všechny válečné potřeby a všechny věci zůstanou a obstojí v dobrém uspořádání {gelidmaß} a dlouho vydrží.
+- typ: odstavec
+  de: |-
+    Vnd von merer sicherhait wegen / gůter stattlicher ordnung / des kriegs Regiment zuerhallten / so volgt hernach der ArtickelBrieff / was die Empter / vnd Gemain KriegßVolck Schwören / thůn / vnd lassen söllen / mit jrer Tax der Söld / Darmit alles KriegßVolck stattlich erhalten werd / vnd nyemandts Vrsach hab / die Herren zubeschwären / mit vngebürlichen Sölden.
+  cs: |-
+    A kvůli větší jistotě, aby se zachoval dobrý a náležitý pořádek válečného zřízení {kriegs Regiment}, následuje dále artikulní list {ArtickelBrieff}: co mají úřady {Empter} a obecný válečný lid {Gemain KriegßVolck} přísahat, činit a čeho se vyvarovat, se sazbou {Tax} jejich žoldů {Söld}, aby byl všechen válečný lid řádně vydržován a nikdo neměl příčinu zatěžovat pány nepřiměřenými žoldy.
+- typ: nadpis
+  uroven: 1
+  de: ArtickelBrieff der Fůßknecht.
+  cs: Artikulní list pěších knechtů {Fůßknecht}
+- typ: odstavec
+  de: |-
+    Die nachuolgenden Artickel / söllen jr N. vnd N. als Jrer N. Obersten vnd Verordneten Hauptmann / Schwören /
+  cs: |-
+    Následující artikuly {Artickel} máte přísahat N. a N. jakožto nejvyššímu a ustanovenému hejtmanovi Jejich N.:
+- typ: odstavec
+  de: |-
+    Namlich / Das jr N. schaden warnen / vnd fromen fürdern / vnnd N. als Obersten Hauptmann / oder wer an seiner statt verordnet wurde / Auch den Fendrich vnnd Waybeln / so Eüch von Gemainem Obersten Hauptman / vnd dem Gemainem Mann / nach lawt seiner bestallung / gesetzt werden / in allen jren zymlichen Geschefften vnnd Gepotten / als Fromen KriegßLewten gepürt zuthůn / geuölgig vnd gehorsam sein wöllen.
+  cs: |-
+    Totiž: že budete N. varovat před škodou a podporovat jeho prospěch a že N. jakožto nejvyššímu hejtmanovi {Obersten Hauptmann}, nebo tomu, kdo by byl ustanoven na jeho místo, a také praporečníkovi {Fendrich} a šikovatelům {Waybeln}, které vám dosadí společný nejvyšší hejtman a obec {Gemainem Mann} podle znění jeho služebního listu {bestallung}, budete ve všech jejich slušných příkazech a nařízeních povolní a poslušní, jak se sluší na řádné válečníky {KriegßLewten}.
+- typ: odstavec
+  de: |-
+    Wess eüch der Oberst Hauptman der andern Hauptlewten / Fendrich / Waybel / Spillewtten / vnd Knechten gebietten oder schaffen wurde / den söllen jr auch geuölgig vnd gehorsam sein.
+  cs: |-
+    Kterým jiným hejtmanům {Hauptlewten}, praporečníkům, šikovatelům, hudebníkům {Spillewtten} a knechtům vás nejvyšší hejtman podřídí nebo vám je ustanoví, těm máte být rovněž povolní a poslušní.
+- typ: odstavec
+  de: |-
+    Jr söllen auch N. von dem jr bestellt sein / nit mer anhaischen oder fordern / dann des Monats / für ain Ainfachen Sold 4 Florin / Reinischer wärung / ye N. für ain Guldin zubezalen.
+  cs: |-
+    Také nemáte po N., od něhož jste najati, žádat ani požadovat víc než měsíčně za jednoduchý žold {Ainfachen Sold} 4 zlaté {Florin} rýnské měny, přičemž se za jeden zlatý {Guldin} platí vždy N.[^1]
+- typ: odstavec
+  de: |-
+    Vnd söllen jr N 30 tag für ainen Monat zůdienen schuldig sein / Desgleichen söllen sich die Fendrich vnd andere Empter / jrer versprochen Besoldung auch genügen lassen / alles nach laut vnd innhallt jres Hauptmans / der ainen yeden angenomen hat / Bestell vnd ReuersBrieff.
+  cs: |-
+    A máte být povinni sloužit N. 30 dní za měsíc. Stejně tak se mají praporečníci a jiné úřady spokojit se svým slíbeným žoldem {Besoldung}, vše podle znění a obsahu služebního listu a reversu {Bestell vnd ReuersBrieff} svého hejtmana, který každého přijal.
+- typ: odstavec
+  de: |-
+    Item es soll sich in der Musterung / ain yeder / mit seinem Rechten vnd ZůNamen / Auch die Statt / darinnen oder darbey er am nechsten geporen ist / nennen / vnd einschreyben lassen / auch in der Musterung / kainer auff des anndern Namen durchgeen / oder andere vortail geprauchen / noch yemant darzů helffen / raten oder fürdern / Darmit N. von dess wegen Jr bestellt / mit vnbillichen vnd vnzůlässigen Sölden / nit betrogen / oder beschwärdt werden / wie das geschehen mag oder kündt / in kain weyß / Welcher das überfür / der soll nit allain Trewloß / sonnder auch Mainaydig sein / vnd für ain Schelmen gehallten werden / Darzů mit dem Hencker an seinem leyb peinlich gestrafft werden mögen.
+  cs: |-
+    Dále se má každý při přehlídce {Musterung} uvést svým pravým jménem a příjmením i městem, v němž nebo nejblíže u něhož se narodil, a dát se tak zapsat. Při přehlídce také nemá nikdo projít na jméno jiného ani užívat jiných úskoků, ani nikomu k tomu pomáhat, radit nebo napomáhat, aby N., kvůli němuž jste najati, nebyl nespravedlivými a nedovolenými žoldy podveden nebo zatížen, ať by se to mohlo stát jakýmkoli způsobem. Kdo by to přestoupil, ten má být pokládán nejen za věrolomného, ale i za křivopřísežníka a za šelmu {Schelmen}, a k tomu smí být katem {Hencker} útrpně potrestán na těle.
+poznamky:
+- n: 1
+  text: Místo „ye N. für ain Guldin“ ponechává tisk prázdné (N.) – doplňoval se kurz, kolik drobných mincí (např. krejcarů nebo baceňů) se počítá na jeden zlatý.

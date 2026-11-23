@@ -1,0 +1,64 @@
+id: 029v
+list: '[29] v'
+strana: verso
+sken: 58
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item ferrner vrsach/Hewt stirbt ain Roß/morgen wirdt jm ains hinckend oder sonnst kranck/da ist not/das gerütte Roß entgegen seyen/Die mangel vnd geprechenhaffte Roß/soll man ledig hinach gan lassen/so werden sy auch dest ee wider gůt.
+  cs: |-
+    Dále další důvod: dnes [vozkovi] padne kůň, zítra mu jiný začne kulhat nebo jinak onemocní; tehdy je třeba, aby byli po ruce odpočatí koně {gerütte Roß}. Koně s vadami a neduhy ať jdou volně vzadu; tak se také tím dříve zotaví.
+- typ: odstavec
+  de: |-
+    Ist es von nöten/das man überig Spieß/Harrnasch/vnd andere Mundicey/zů ainem Vorrath fürt/so will der überigen wagenpferdt vil mer not sein/dieweyl sy selbs wol geen künden.
+  cs: |-
+    Je-li nutné vézt do zásoby {Vorrath} nadbytečné píky {Spieß}, zbroje a jinou munici {Mundicey}, je náhradních vozních koní {wagenpferdt} zapotřebí tím spíše, neboť dobře dojdou sami.
+- typ: odstavec
+  de: |-
+    Item wenn man solliche Pferdt mitfürt/die ledig seind/so gehören sy auch vnder die geschirrmaister.
+  cs: |-
+    Dále, vedou-li se s sebou takoví volní koně, podléhají také vozmistrům {geschirrmaister}.
+- typ: odstavec
+  de: |-
+    Item die Geschirrmaister/söllen auch den Fürlewten/wa es not ist/so man Zeücht oder ligt in der Fraind landt/vmb Habern trachten/vnd Stallung Furrieren/vnnd denselben Habern zuschicken oder schaffen/Doch so söllen die Fürlewt denselben mit jrem baren gellt bezalen.
+  cs: |-
+    Dále mají vozmistři pro vozky {Fürlewten}, je-li toho třeba, když se táhne nebo leží v přátelské zemi, shánět oves {Habern}, opatřovat {Furrieren}[^1] stáje a oves jim posílat nebo obstarat. Vozkové jej však mají platit svými hotovými penězi.
+- typ: odstavec
+  de: |-
+    Item die Geschirrmaister/söllen kain aigen Roß in der Artelarey haben im Sold/dann das/so er selb reyt/Darauff hatt er alle Monat/ – 14 florin.
+  cs: |-
+    Dále vozmistři nemají mít u dělostřelectva {Artelarey} na žoldu {Sold} žádného vlastního koně kromě toho, na kterém sám jezdí; na to má každý měsíc – 14 zlatých {florin}.
+- typ: odstavec
+  de: |-
+    Vnd seinem Jungen ain Soldt/thůt/ – 4 florin.
+  cs: |-
+    A na jeho pachole {Jungen} jeden žold, to činí – 4 zlaté.
+- typ: odstavec
+  de: |-
+    Item die Geschirrmaister söllen auch den Fürlewtten vorreytten vnnd geen/es sey tag oder nacht/so man das Geschütz in die Schantzen füren will/weg weysen/helffen vnd raten/das die Büchsen recht gefürt/gestellt vnd außgesetzt werden.
+  cs: |-
+    Dále mají vozmistři, když se mají děla {Geschütz} vézt do šancí {Schantzen}, ve dne i v noci jet a jít před vozky, ukazovat cestu, pomáhat a radit, aby se děla správně dovezla, postavila a složila [z vozů].
+- typ: odstavec
+  de: |-
+    Item so man in die Schantz füren soll/Pulver/Kugeln/Reder/gefäß/oder anders zůr notdurfft/so soll der Geschirrmaister/denselben Fürlewten/die darzů gehörig/das schaffen zuthůn/vnd darob sein/das söllichs fürderlich geschech/mit laden vnd füren.
+  cs: |-
+    Dále, má-li se do šance {Schantz} vézt prach, koule, kola, lafety {gefäß} nebo jiné potřeby, má to vozmistr nařídit vozkům, kterým to přísluší, a dbát, aby se to rychle vykonalo – nakládání i vezení.
+- typ: odstavec
+  de: |-
+    Es soll auch der Zewgmaister verordnen/das alle Monat durch den Lutinanten/Schantzmaister/Geschirrmaister/Zeügschreyber vnd ander Zeüg Diener/das alle Wagen Roß gemustert werden/was kranck krumm/zuklain/oder sonst vntauglich/vnd den Pferdten nit gleich/wie er bestellt worden ist/soll man außmustern/vnd kain gelt darauf geben/biß der Fůrman ain ander starck vnd taugenlich Roß an der stat hat/Sy treyben offt betrug/kauffen Beüt Roß/schwach vnnd klain/vmb wenig gellts/darmit sy nit von lanndt komen mügen/Darauß dem Kriegß Herren vnd gantzem Veldtleger mercklicher nachtail eruolgt.
+  cs: |-
+    Zbrojmistr {Zewgmaister} má také nařídit, aby poručík {Lutinanten}, šancmistr {Schantzmaister}, vozmistři, zbrojní písař {Zeügschreyber} a ostatní zbrojní služebníci {Zeüg Diener} každý měsíc přehlédli {gemustert} všechny vozní koně. Co je nemocné, chromé, příliš malé nebo jinak nezpůsobilé a neodpovídá koním, na které byl [vozka] najat, to se má vyřadit a nemá se na to dávat žádných peněz, dokud vozka {Fůrman} nepostaví na jeho místo jiného silného a způsobilého koně. Vozkové totiž často podvádějí: kupují za málo peněz ukořistěné koně {Beüt Roß},[^2] slabé a malé, s nimiž se nemohou hnout z místa; z toho válečnému pánu {Kriegß Herren} a celému polnímu ležení {Veldtleger} vzniká značná škoda.
+- typ: odstavec
+  de: |-
+    Item so geben sy auch etwan die besten Roß/darauff sy bestellt seind/den Geraysigen zukauffen/vnd stellen nichtige/vntaugenliche Roß/an die stat/Deßhalben sy jren gepürenden last nit füren mügen/Deßhalben will von nöten sein/das der Zeügmaister ain blinde Musterung thůe/vngewarneter sach/wenn man im Ziehen ist/das er den
+  cs: |-
+    Dále někdy také prodávají nejlepší koně, na něž jsou najati, jezdcům {Geraysigen} a na jejich místo staví bídné, nezpůsobilé koně, takže pak nemohou vézt náležitý náklad. Proto bude nutné, aby zbrojmistr na pochodu nečekaně, bez ohlášení, uspořádal slepou přehlídku {blinde Musterung}[^3] a aby měl
+poznamky:
+- n: 1
+  text: Furrieren – opatřovat ubytování a píci (srov. furýr).
+- n: 2
+  text: Beüt Roß – čteme Beuteross, kůň z kořisti, kterého vojáci levně prodávali (srov. „Beütgüter“ a „verbewten“ na [[030r|následující straně]]); výklad „Beiross“ (vedlejší kůň) je méně pravděpodobný.
+- n: 3
+  text: Blinde Musterung – neohlášená, překvapivá přehlídka, při níž nelze počty koní předem „dorovnat“.

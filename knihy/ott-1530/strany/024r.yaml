@@ -1,0 +1,47 @@
+id: 024r
+list: '[24] r'
+strana: recto
+sken: 47
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Artickel/darauff der Oberst Zeügmaister bestellt/vnnd Schwören soll.
+  cs: Artikuly, na které má být nejvyšší zbrojmistr {Oberst Zeügmaister} přijat do služby a na které má přísahat
+- typ: odstavec
+  de: |-
+    Item das er N. seinem gnedigen Fürsten vnd Herren/auff disen fürgenomen Veldtzug vnd bestallung/getrew vnd gewär sein wölle/jren N. gnaden Schaden warnen/vnd fromen fürdern/die gantzen Artelarey/auch alles Volck darzů gehörig/so jm von N. wegen/getrewlich beuolhen zuhaben/vnnd nach seinem besten vermügen/ob vnd vor zusein/die brauchen vnd nutzen/nach notdurfft/wie dann das dem N. vnserm gnedigen Herren/vnd gantzen Veldtleger am eerlichsten vnd nutzlichsten sein mag/alles nach Rat vnd gůtbeduncken des Obersten/vnd anderer Kriegß Räte/Auch sonnst alles das jhenig zuthůn vnd lassen/das sich ainem eerlichen vnd redlichen mann zuthůn gebürt/vnd als ain getrewer Zewgmaister/von Amptswegen/zuthůn schuldig ist/on allen gefär/also helff mir Gott vnd all Hailigen.
+  cs: |-
+    Dále, že chce být N., svému milostivému knížeti a pánu, na toto zamýšlené tažení {Veldtzug} a podle služebního listu {bestallung} věrný a spolehlivý {gewär}; že bude Jeho knížecí Milost N. varovat před škodou a podporovat její prospěch; že bude celé dělostřelectvo {Artelarey} i všechen lid, který k němu patří a který mu byl jménem N. svěřen, věrně opatrovat, podle svých nejlepších sil nad ním bdít a stát v jeho čele, užívat ho a zacházet s ním podle potřeby tak, jak to N., našemu milostivému pánu, a celému polnímu ležení {Veldtleger} může být nejčestnější a nejužitečnější – vše podle rady a uvážení vrchního velitele {Obersten} a ostatních válečných radů {Kriegß Räte}. Také že jinak učiní a nechá vše, co sluší činit čestnému a poctivému muži a co je jako věrný zbrojmistr {Zewgmaister} z moci úřadu povinen činit, bez jakékoli lsti. K tomu mi dopomáhej Bůh a všichni svatí.
+- typ: odstavec
+  de: |-
+    Darzů soll der Veldt Zewgmaister darob vnd daran sein mit fleyß vnd ernnst/das kain Artelarey person geurlaubt oder auffgenomen werd/on sein wissen vnd willen.
+  cs: |-
+    K tomu má polní zbrojmistr s pílí a vážností dbát a usilovat o to, aby žádná osoba dělostřelectva nebyla propuštěna ani přijata bez jeho vědomí a vůle.
+- typ: odstavec
+  de: |-
+    Item so sich irrtumb oder spenn/zwischen N. dem Kriegß Herren/oder dem Obersten Veldt Hauptman/vnd gemellten Veld Zewgmaister/begeben/vnd das gütlich nit vertragen werden möcht/so söllen die kriegs Rät/oder der mertail/gůt macht haben/darinn zuerkennen vnd sprechen/darbey söllen bayd tail beleyben/endtlich vnuerwägert/bey gethaner pflicht/Vnd söllicher bestallung/söllen Brieff vnd Reuers gegen ainander gegeben werden.
+  cs: |-
+    Dále, vzniknou-li nějaké nesrovnalosti nebo spory {spenn} mezi N., válečným pánem {Kriegß Herren}, nebo nejvyšším polním hejtmanem {Obersten Veldt Hauptman} a zmíněným polním zbrojmistrem a nedaly-li by se urovnat po dobrém, mají váleční radové nebo jejich většina plnou moc v té věci rozhodnout a vynést výrok. Při něm mají obě strany podle složeného slibu s konečnou platností a bez odporu zůstat. O této službě si mají strany navzájem vydat list {Brieff} a revers {Reuers}.[^1]
+- typ: nadpis
+  uroven: 3
+  de: Pfenningmaister oder Zalschreybers Ayd der soll dem Kriegß Herren schwören.
+  cs: Přísaha pokladníka {Pfenningmaister} neboli platebníka {Zalschreybers}, kterou má přísahat válečnému pánu
+- typ: odstavec
+  de: |-
+    Ich gelob vnd Schwör/leyplich zů Gott/das ich N. meinem gnedigen Fürsten vnd Herren/getrew vnd gewer sein soll/vnd will/schaden warnen/eeren vnd fromen fürdern/vnd getrwlich schreyben/mit ernst vnd fleyß verrechen alle Artelarey person/wie die bestellt/lawt des bestallbrieffs vnd Register/so mir der Zeügmaister mit seiner hand vnderschriben vnd verzaichnet hat/bezalen/wissendtlich/weder minder noch mer zugeben/dann wie ains yeden bestallung laut vnd weißt/Auch sonst alles thůn vnd lassen/was ain fromer/redlicher biderman seinem Herrn/als ainer öberkait zuthůn schuldig ist/getrewlich/on allen gefär/Also helff mir Gott vnd all Hailigen.
+  cs: |-
+    Slibuji a tělesně přísahám Bohu, že mám a chci být N., svému milostivému knížeti a pánu, věrný a spolehlivý, varovat před škodou, podporovat jeho čest a prospěch a věrně zapisovat. Se vší vážností a pílí chci vyúčtovat a vyplatit všechny osoby dělostřelectva, jak jsou najaty, podle služebního listu {bestallbrieffs} a soupisu {Register}, který mi zbrojmistr vlastní rukou podepsal a sepsal, a vědomě nedám nikomu méně ani více, než jak zní jeho služební list {bestallung}. Také chci jinak věrně činit i nečinit vše, co je řádný a poctivý bodrý muž povinen svému pánu jako vrchnosti, bez jakékoli lsti. K tomu mi dopomáhej Bůh a všichni svatí.
+- typ: nadpis
+  uroven: 3
+  de: Ain gemainer Ayd/allen andern bestellten Artelarey personen.
+  cs: Obecná přísaha všem ostatním najatým osobám dělostřelectva
+- typ: odstavec
+  de: |-
+    Samentlich vnd besonnder/alle die/so der Oberst Veldtzeügmaister/vnd sein Lutinant/in des Zewgmaisters namen/zů dem
+  cs: |-
+    Společně i jednotlivě všichni ti, které nejvyšší polní zbrojmistr {Oberst Veldtzeügmaister} a jeho poručík {Lutinant} jménem zbrojmistra pro
+poznamky:
+- n: 1
+  text: Brief – služební list vydaný pánem; revers je protilist najatého (viz glosář).

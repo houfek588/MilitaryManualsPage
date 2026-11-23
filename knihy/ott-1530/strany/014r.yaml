@@ -1,0 +1,72 @@
+id: 014r
+list: '[14] r'
+strana: recto
+sken: 27
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    hohen gebürgen vnd enngen höltzern/ darzů auf den mösern vnd gräben den Fůßknechten auch nit vil angesigen.
+  cs: |-
+    ve vysokých horách a hustých lesích ani v močálech a příkopech nad pěšími knechty {Fůßknechten} mnoho zvítězit.
+- typ: odstavec
+  de: |-
+    Darzů kan man mit den Roßköpffen vnd lanngen spiessen/ Mauren/ Thürn/ Bolwerck vnd Basteyen nit wol vmbstossen.
+  cs: |-
+    Kromě toho se koňskými hlavami a dlouhými píkami {spiessen} nedají dobře povalit hradby, věže, bolverky {Bolwerck} a bašty {Basteyen}.
+- typ: odstavec
+  de: |-
+    Man můß ain gewalltig Geschütz vnd Artelarey haben/ das kans thůn Es ist auch dienstlich zůr Veldtschlacht/ Hat sy aber kainen raisigen zeüg/ darzů kain Fůß Volck bey jr/ die sy verhůten/ verwachen/ Darob hallten vor gewallt/ So ist die Artelarey auch nichts nütz/ Darumb seind sy alle dreü gůt beyainander.
+  cs: |-
+    K tomu je třeba mít mocná děla {Geschütz} a dělostřelectvo {Artelarey}; ta to dokážou. [Dělostřelectvo] je také užitečné v polní bitvě. Nemá-li však u sebe žádnou jízdu {raisigen zeüg} ani pěchotu {Fůß Volck}, které by je chránily, střežily a bránily před násilím, pak ani dělostřelectvo není k ničemu. Proto jsou všechny tři dobré [jen] pospolu.
+- typ: odstavec
+  de: |-
+    Dieweyl sy dann alle dreü zůsamen gehören/ so söllen sy auch alle dreü mitainander Regieren/ Rat/ vnd Kriegs anschleg machen/ Sy söllen auch gleicher maß mitainander an die stanngen greiffen/ so heben sy etwas groß vnd schwärs/ das sonst nit sein mag.
+  cs: |-
+    Protože tedy všechny tři patří k sobě, mají také všechny tři společně vládnout, radit se a činit válečné plány {Kriegs anschleg}. Mají se také stejnou měrou společně chopit sochoru;[^1] tak zvednou něco velkého a těžkého, co by jinak zvednout nešlo.
+- typ: odstavec
+  de: |-
+    Da werden yetz die Dreü Regiment ains/ vnd haben ainen Obersten/ Principal/ über die dreü/ das macht/ in Summa/ ain Regiment.
+  cs: |-
+    Tím se nyní tři pluky {Regiment} stanou jedním a mají nad sebou jednoho vrchního velitele {Obersten}, principála; to dělá v součtu jeden pluk.
+- typ: nadpis
+  uroven: 2
+  de: Wie der kriegß Rat besetzt werden soll/ ee ich zů der Artelarey greyff.
+  cs: Jak se má obsadit válečná rada {kriegß Rat}, dříve než přistoupím k dělostřelectvu
+- typ: odstavec
+  de: |-
+    Erblich so gehören zů dem Obersten/ als kriegß Rat/ Der VeldtMarschalck/ Darnach der öberst VeldtZeügmaister/ der Dritt/ aller Fůßknecht öbrister.
+  cs: |-
+    Z moci úřadu {Erblich}[^2] patří k vrchnímu veliteli {Obersten} jako váleční radové {kriegß Rat}: polní maršálek {VeldtMarschalck}, potom nejvyšší polní zbrojmistr {öberst VeldtZeügmaister} a za třetí plukovník {öbrister} všech pěších knechtů.
+- typ: odstavec
+  de: |-
+    Darnach mag der Oberst VeldHauptman/ mit den yetzgemelten dreyen KriegßRäten/ auß den vndern Hauptleüten der Raysigen/ die berümptisten vnd achtbarsten oder Kriegßverstendigsten/ in etlichen fellen auch zů jnen erfordern/ als KriegßRät/ vil oder wenig/ alles nach gelegenhait vnd gestallt der Sachen/ Deßgleichen soll auß der Fůßknecht Vnder hauptleütten auch geschehen/ doch mit geleicher maß oder anzal/ Das die Raysigen nit gedencken/ Die Anschleg werden gemacht nach gefallen der Fůßknecht.
+  cs: |-
+    Potom může nejvyšší polní hejtman {Oberst VeldHauptman} spolu s těmito třemi válečnými rady {KriegßRäten} v některých případech povolat k sobě jako válečné rady také nejslavnější a nejváženější neboli ve válce nejzkušenější {Kriegßverstendigsten} z podřízených hejtmanů {vndern Hauptleüten} jízdy {Raysigen}, více či méně, vše podle povahy a okolností věci. Totéž se má stát i s podřízenými hejtmany pěších knechtů, ovšem ve stejné míře či počtu, aby si jezdci nemysleli, že se plány dělají podle libosti pěších knechtů.
+- typ: odstavec
+  de: |-
+    Auch widerumb/ das die Hauptleüt der Fůßknecht nit gedencken/ Die Ratschleg werden gemacht/ nach gefallen der Raysigen/ vnnd etwas vortails in ainem oder anderem gebraucht werd/ Darumb soll vnwill allweg verhůtt werden vnder dem Kriegßvolck.
+  cs: |-
+    A naopak, aby si hejtmani pěších knechtů nemysleli, že se rozhodnutí {Ratschleg} dělají podle libosti jezdců a že [jedni] mají v tom či onom nějakou výhodu. Mezi válečným lidem {Kriegßvolck} je totiž třeba vždy předcházet nevoli.
+- typ: odstavec
+  de: |-
+    Also wirt yetz vernomen/ wie die Regiment über ainen hauffen komen/ vnd ain Regiment darauß wirt/ so man wider die Veind handeln soll/ vnd anschleg machen/ den Veinden zuwider.
+  cs: |-
+    Tak se nyní dozvídáme, jak se pluky sejdou v jeden houf a stane se z nich jeden pluk, když se má jednat proti nepříteli a dělat plány nepříteli navzdory.
+- typ: odstavec
+  de: |-
+    Nun müssen alle ding/ so auf Erden seind/ sein Zal/ maß/ vnd form haben/ darmit wirdts in ain Ordnung vnd Regiment gestelt vnd zwungen.
+  cs: |-
+    Všechny věci na zemi totiž musejí mít svůj počet, míru a tvar; tím se uvádějí a nutí do řádu a zřízení.
+- typ: odstavec
+  de: |-
+    Exempel oder gleichnuß/ Wie Gott der Allmechtig in der Natur so ordenlichen gewirckt/ so wir ansehen den lauf vnd regiment Sonn/ Mon vnd alles Gestirn/ Sommer/ Winter/ Tag vnd Nacht/ yedes in seinem Ampt/ geet vnd steet/ vnd sich auß seinem geordneten fůßstapffen nit tringen laßt/ Deßgleichen fewr/ wasser/ lufft/ vnd erdtrich/ beleibt in seinem beuelch.
+  cs: |-
+    Příklad neboli podobenství: jak spořádaně působil všemohoucí Bůh v přírodě, vidíme na běhu a řádu slunce, měsíce a všech hvězd, léta a zimy, dne a noci – každé ve svém úřadu jde a stojí a nedá se vytlačit ze svých vyměřených šlépějí. Stejně tak oheň, voda, vzduch a země zůstávají ve svém určení.
+poznamky:
+- n: 1
+  text: „an die stangen greiffen“ – doslova chopit se tyče (sochoru) a zvedat společně; obraz společného zvedání břemene.
+- n: 2
+  text: „Erblich“ – tak v tisku (i na [[013r|listu (13) r]] u polního maršálka); doslova „dědičně“, zde ve smyslu trvale, z moci samotného úřadu – na rozdíl od radů povolávaných podle potřeby v dalším odstavci.

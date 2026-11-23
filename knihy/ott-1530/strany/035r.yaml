@@ -1,0 +1,61 @@
+id: 035r
+list: '[35] r'
+strana: recto
+sken: 69
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    So aber der KriegßHerr söllichs notdurfftig wär / oder söllichs zů sein hannden ziehen wöllt / so soll der Zewgmaister / söllichs zu lösen geben / Des dritten tails neher / dann es on gefärlich wert ist.
+  cs: |-
+    Kdyby však válečný pán {KriegßHerr} toho potřeboval nebo to chtěl vzít do svých rukou, má mu to zbrojmistr {Zewgmaister} dát vykoupit, a to o třetinu levněji, než je to zhruba hodno.
+- typ: odstavec
+  de: |-
+    Vnnd soll sich der KriegßHerr genügen lassen an den Fiscälischen gütern / dieselbigen gehören dem überwinder zů / als dem KriegßHerren / Das seind die Frewst / Zwing vnd Bän / Wiltfur / Glait / Zöll / groß vnd klain / Schiffreiche See / vnd ander Fliessende wasser / die von ainem Land zum anndern raichen / wie dann das die Regalia vermügen / Darzů der selben überwunden Herrschafft / oder Statt / gewonlich Güllt / Rennt vnd Zinß etc. vnd anderer zůgehörung.
+  cs: |-
+    A válečný pán se má spokojit s fiskálními statky {Fiscälischen gütern}; ty náležejí vítězi jakožto válečnému pánu. Jsou to lesy {Frewst}, soudní a vrchnostenská moc {Zwing vnd Bän}, právo lovu {Wiltfur}, právo glejtu {Glait}, cla velká i malá, splavná jezera a jiné tekoucí vody, které tečou z jedné země do druhé, jak to obnášejí regálie {Regalia}; k tomu obvyklé platy {Güllt}, důchody {Rennt} a úroky {Zinß} atd. téhož přemoženého panství nebo města a jiné příslušenství.[^1]
+- typ: nadpis
+  uroven: 2
+  de: Der Büchsenmaister Proueyt / volgt hernach.
+  cs: Následují požitky {Proueyt} puškařů {Büchsenmaister}
+- typ: odstavec
+  de: |-
+    Item den Büchsenmaistern steet vor / vnnd ist jr Broueyt / so ain Statt oder Schloss benötigt werden zů dem auffgeben / oder mit Sturm erobert wirt / so seind die Kugeln / Puluer so in den Büchsen bleibt / jr.
+  cs: |-
+    Dále puškařům přísluší a je jejich požitkem: když je město nebo hrad donucen ke vzdání nebo dobyt útokem {Sturm}, patří jim koule {Kugeln} a prach {Puluer}, které zůstaly v dělech {Büchsen}.
+- typ: odstavec
+  de: |-
+    Darzů die angebrochne vnd eröffnete PuluerFäßlin / die soll der Herr von jn lösen / vngefärlich was das werdt ist / Darzů gehört jn / desselbigen Schloss oder Statt / gröste Sturmglock / die werde dann von jn gelößt / biß an der Büchsenmaister gůtten willen / Darzů soll man jn / den Amptleüten der Artelarey / mitsampt den Büchsenmaistern / ain vereerung thůn / zum wenigsten / ain MonatSold / Es ist etwan gewesen / das man durch die ganntz Artelarey / allen Person gegeben hat / ainen MonatSold / so es mit dem Geschütz zum Aufgeben getrangt worden ist on den Sturm / Es ist aber ye nit mer / wiewol es nit nutz ist dem KriegßHerren Abzubrechen.
+  cs: |-
+    K tomu [jim patří] načaté a otevřené soudky prachu {PuluerFäßlin}; ty má od nich pán vykoupit zhruba za to, co mají cenu. Dále jim patří největší poplachový zvon {Sturmglock} téhož hradu nebo města, ledaže by byl od nich vykoupen, a to podle dobré vůle puškařů.[^2] Kromě toho se má jim, úředníkům dělostřelectva {Amptleüten der Artelarey}, spolu s puškaři dát čestný dar {vereerung}, nejméně jeden měsíční žold {MonatSold}. Kdysi se stávalo, že se v celém dělostřelectvu dával všem osobám měsíční žold, když se [místo] děly {Geschütz} přinutilo ke vzdání bez útoku. Dnes už se to neděje, ačkoli válečnému pánu není k užitku na tom šetřit.
+- typ: nadpis
+  uroven: 2
+  de: Nun volgt hernah des Schantzmaisters Broueyt.
+  cs: Nyní následují požitky šancmistra {Schantzmaisters}
+- typ: odstavec
+  de: |-
+    Item des Schantzmaisters Proueyt / vorauß gehören / nach eroberung der Schloss oder Stett / alle Schantzkörb / Resch / Gestreb / Ansetz / vnnd all ander Holtzwerck / das man nit mitfürt / das mag er zů seinem Nutz verkauffen / wem er will / es seyen Hürt oder Brugken / darauff man scheüßt / ist alles sein. Also endet sich die Artelarey.
+  cs: |-
+    Dále šancmistrovi jako požitek přednostně náležejí po dobytí hradů nebo měst všechny šancovní koše {Schantzkörb}, rošty {Resch}, vzpěry {Gestreb}, podpěry {Ansetz} a veškeré jiné dřevěné dílo, které se neveze s sebou; to smí prodat ke svému užitku, komu chce. Ať jsou to pletené lísky {Hürt}, nebo dělové podlahy {Brugken}, z nichž se střílí, všechno je jeho. Tím končí dělostřelectvo.
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Nun volgt hernach das Regiment vnd Stat der Fůßknecht / sampt seinem Artickelbrieff / mit ainer kurtzen Vorred / vnd Kriegischen vnderricht.
+  cs: |-
+    Nyní následuje zřízení a stav {Regiment vnd Stat} pěších knechtů {Fůßknecht} spolu s jejich artikulním listem {Artickelbrieff}, s krátkou předmluvou a válečným poučením
+- typ: odstavec
+  de: |-
+    Nun haben E.G. vnd G. etwas Kriegischer Vnderricht / wie das gantz Regiment der Artelarey gehanndelt vnd gehallten werden soll / so ain Statlicher VeldZug fürgenomen wirt / Vnd das auff E.G. vnd G. vnd
+  cs: |-
+    Nyní tedy máte, Vaše Milosti a Přízni,[^3] jisté válečné poučení, jak se má spravovat a vést celé zřízení {Regiment} dělostřelectva, když se podniká velké polní tažení {VeldZug}; a to s výhradou opravy, kterou provedou Vaše Milosti a Přízně a
+poznamky:
+- n: 1
+  text: |-
+    Výčet regálií (panovnických práv) – Forst (lesy a lesní právo), Twing und Bann (nižší soudní a příkazní moc), Wildfuhr (právo lovu), Geleit (právo poskytovat a vybírat glejt), cla, plavba a vodní práva; Gült, Rente, Zins jsou pozemkové platy a úroky z panství.
+- n: 2
+  text: |-
+    Poplachový zvon (Sturmglocke) dobytého místa připadal podle válečného obyčeje puškařům; obvykle jej od nich vykoupilo město nebo pán.
+- n: 3
+  text: |-
+    „E. G. vnd G.“ – Euer Gnaden und Gunst, oslovení urozených („Milosti“) i neurozených („Přízni“) čtenářů či adresátů.

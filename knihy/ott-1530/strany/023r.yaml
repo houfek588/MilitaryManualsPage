@@ -1,0 +1,53 @@
+id: 023r
+list: '[23] r'
+strana: recto
+sken: 45
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item der yetzgemellten Mundicey wägen/seind in jrer Sum 96. Da wirt yedem Wagen gerechnet 4 Roß/thůt in ainer Sum/ – 384 Roß.
+  cs: |-
+    Dále právě uvedených vozů s municí {Mundicey wägen} je celkem 96. Na každý vůz se počítají 4 koně, což činí dohromady – 384 koní.
+- typ: odstavec
+  de: |-
+    Item 384 Roß/müssen haben 144 person/Roß vnd Person/machen in ainer Sum zůsamen gerechnet/ – 528 Person vnd Roß.
+  cs: |-
+    Dále 384 koně potřebují 144 osob; koně a osoby činí sečteno dohromady – 528 osob a koní.
+- typ: odstavec
+  de: |-
+    Item ain Person vnd Roß/ainstags 15 kreützer/wie oblaut/macht in Summa/der Mundicey Roß vnd Person/ain Monat/ – 2710 florin.
+  cs: |-
+    Dále na jednu osobu i na koně 15 krejcarů {kreützer} denně, jak je uvedeno výše; to činí za koně a osoby u munice za jeden měsíc celkem – 2710 zlatých.[^1]
+- typ: nadpis
+  uroven: 1
+  de: Nun volgt hernach des Obersten Veldt Zewgmaisters Stat/Ordnung vnd Regiment/wie derselb gehallten werden soll/mit anndern Artelarey person/Vnd wie sy sich hergegen hallten söllen/mit jrem thůn vnd lassen
+  cs: Nyní následuje stav, řád a zřízení nejvyššího polního zbrojmistra {Obersten Veldt Zewgmaisters}, jak se má zacházet s ním i s ostatními osobami dělostřelectva {Artelarey} a jak se mají oni naproti tomu chovat ve všem, co činí i čeho se zdržují
+- typ: odstavec
+  de: |-
+    Item die 5 Summa/biß auff des Zeügmaisters Regiment/vnd nachuolgende Person/thůt aller Sum/im Costen der Sold/ – 14590 florin/vnd ain ort.
+  cs: |-
+    Dále pět [předchozích] součtů až po zbrojmistrovo zřízení a osoby, které následují, činí na nákladech žoldu {Sold} celkem – 14 590 zlatých {florin} a jeden ort.[^2]
+- typ: odstavec
+  de: |-
+    Item ain yeder Oberster Veld Zeügmaister/Ist der Drytt kriegß Rath erblich/von Amptswegen/nach dem Obersten Veldt Hauptman/vnd dem Veldt Marschalck/wie oben angezaygt ist/
+  cs: |-
+    Dále každý nejvyšší polní zbrojmistr je z moci úřadu stálým {erblich}[^3] třetím válečným radou {kriegß Rath}, hned po nejvyšším polním hejtmanovi {Obersten Veldt Hauptman} a polním maršálkovi {Veldt Marschalck}, jak bylo ukázáno výše.
+- typ: odstavec
+  de: |-
+    Deßgleichen soll des Obersten Zewgmaisters Lutinant/zůuil zeytten im Kriegß Rath/bey etlichen Anschlegen sein/vnd in sonnderhait/wa von sachen geredt wirt/die der Leytinger selb thůn oder helffen thůn soll/darauff kan er dester mer bedacht sein.
+  cs: |-
+    Stejně tak má být poručík {Lutinant} nejvyššího zbrojmistra často přítomen ve válečné radě, když se jedná o některých plánech {Anschlegen}, a zvláště když se mluví o věcech, které má poručík {Leytinger} sám vykonat nebo pomoci vykonat; může se na ně pak tím lépe připravit.
+- typ: odstavec
+  de: |-
+    Item der Oberst Veld Zeügmaister/soll nit ain Schlecht Man sein/sonder ains gůtten Namens/zu dem wenigsten ainer vom Adel/Es kompt offt/das Grauen vnd Herrn auf söllichen eerlichen Veldzügen Zewgmaister seind/ja etwan bey den Welschen Fürsten zu öbristen Veld Zeügmaistern gemacht worden seind/Aber welchem ain Zewghauß beuolhen ist/als ainem redlichen vnd Zewgverstendigen mann/den nennt man auch etwan ainen Zewgmaister/der allen Zewg waißt zumachen oder anzugeben/vnd was dem gantzen Zeüg zůgehörig ist/Aber ain Veld Zewgmaister ist vil ain ander ding/derselb ist Rat vnd Zeügmaister/Er tregt nit allain die sorg der Artelarey/Sonder auch die gantz Kriegßhandlung/mit dem Obersten vnd all andern Kriegß Räten vnd Hauptlewten/Aber ain Zewgmaister/die man gewonlich nennt ain Zewgwarten/das ist nit ains Fürsten oder Herrn Rat/dann allain souil den Zeügmaister angeet/Dasselb Ampt/mag wol mit ainem erlichen/redlichen/verstendigen/schlechten Mann/dem der Herr gůts vertruwt/versehen werden/Es gibt auch derselb Zewgwart/ainem Obristen Veld Zeügmaister/ain gůt Register/das er sich im Veld dester baß zuhallten waißt.
+  cs: |-
+    Dále nejvyšší polní zbrojmistr nemá být prostý muž, nýbrž muž dobrého jména, přinejmenším šlechtic. Často se stává, že na takových čestných taženích {Veldzügen} bývají zbrojmistry hrabata a páni, ba někdy byli u vlašských knížat ustanoveni i nejvyššími polními zbrojmistry. Komu je však jako poctivému muži zběhlému ve zbrojních věcech svěřena zbrojnice {Zewghauß}, toho také někdy nazývají zbrojmistrem: umí zhotovit nebo navrhnout veškerou výzbroj {Zewg} i vše, co k ní patří. Polní zbrojmistr {Veld Zewgmaister} je však něco docela jiného: je radou i zbrojmistrem a nese péči nejen o dělostřelectvo, nýbrž i o celé válečné podnikání {Kriegßhandlung} spolu s vrchním velitelem {Obersten} a všemi ostatními válečnými rady a hejtmany {Hauptlewten}. Zbrojmistr, kterému se obvykle říká zbrojní správce {Zewgwarten}, však není radou knížete nebo pána, leda pokud jde o věci zbrojmistrovské. Tento úřad lze dobře obsadit čestným, poctivým a rozumným mužem prostého stavu, kterému pán důvěřuje. Zbrojní správce také dává nejvyššímu polnímu zbrojmistrovi dobrý soupis {Register}, aby se v poli mohl tím lépe řídit.
+poznamky:
+- n: 1
+  text: Tisk jasně „2710 florin“. Z 528 osob a koní po 15 krejcarech denně by za 30 dní vycházelo 3960 zlatých; Ott však s číslem 2710 dále počítá (viz pozn. 2), chyba je tedy už v jeho výpočtu.
+- n: 2
+  text: Ort – čtvrtina zlatého (15 krejcarů). Pět součtů jsou měsíční žoldy z předchozích oddílů – vozky a koně děl 5280 zl. ([[016r|list 16 r]]), puškaři a střelci 998 zl. ([[019r|list 19 r]]), vozy s koulemi 3416 zl. a vozy s prachem 2186 zl. 1 ort ([[020v|list 20 v]]) a munice 2710 zl. – dohromady přesně 14 590 zl. 1 ort.
+- n: 3
+  text: Erblich – zde „trvale, samozřejmě s úřadem spojený“, ne dědičně v právním smyslu.

@@ -1,0 +1,53 @@
+id: 008r
+list: '[8] r'
+strana: recto
+sken: 15
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    widerumb beschlossen/Alsdann hat man die leüt/sy seyen zu Ross oder fůß/so mügen sy nichts schaden.
+  cs: |-
+    znovu zamčeny. Pak má [stráž] ty lidi [mezi branami] v moci, a ať jsou na koni, nebo pěšky, nemohou nijak uškodit.
+- typ: odstavec
+  de: |-
+    Item so der Kriegsherr in aigner person an die thür kem/es wär bey tag oder nacht/so soll man jn nit hinein lassen/Er gelobe dann zůuor/dem Hauptman/das Er von den Feinden nit gefangen sey oder getrungen/das Schloss auszugeben. Wöllt sich dann der Herr söllichs zethůn sperren/so soll der Hauptman söllichs dem Obersten anzaigen/vnd den Herren on des Obersten wissen vnd rath/nit einlassen/Er liesse dann Jn allain zwischen die thor/vnd nyemant mit jm/so bey jm sein möchten.
+  cs: |-
+    Dále kdyby válečný pán {Kriegsherr} přišel osobně k bráně, ať ve dne, nebo v noci, nemá se vpustit dovnitř, leda by předtím hejtmanovi {Hauptman} slíbil, že není zajat nepřítelem ani donucen hrad vydat. Kdyby se pán zdráhal to učinit, má to hejtman oznámit plukovníkovi {Obersten} a bez jeho vědomí a rady pána nevpouštět – leda by ho vpustil samotného mezi brány a nikoho z těch, kdo by byli s ním.
+- typ: odstavec
+  de: |-
+    Item man soll bey den wasserheüsern/kainen Schwanen/Alstern/oder wild Antfögel/oder bey den Berckheüsern kainen Pfawen vertreyben oder wegthůn lassen/es seind seer gůt wachter/sy verschweygen nichts/Es seind auch die Frösch/Somerszeyt/gůt wachter/wenn sy jr geschray haben/vnd yemants zů jn geet/so schweygen sy still/Darauf mag ain yeder Wachter wol acht nemen/Sitzen dann die Frösch am gstadt/so yemants zů jn geet/springen sy mit hauffen ins wasser/Darbey mügen die Wechter abermals jr Zaichen haben. Dise Creaturen wecken/vnd machen ander wachter mundter.
+  cs: |-
+    Dále se u vodních hradů {wasserheüsern} nemají zahánět ani odstraňovat labutě, straky ani divoké kachny a u hradů na vrších {Berckheüsern} pávi; jsou to velmi dobří strážci, nic nezamlčí. V létě jsou dobrými strážci i žáby: když kvákají a někdo k nim přijde, zmlknou. Toho si může každý strážný dobře všímat. A sedí-li žáby na břehu a někdo k nim přijde, skáčou houfně do vody; i z toho mohou mít strážní znamení. Tito tvorové budí a povzbuzují ostatní strážné.
+- typ: odstavec
+  de: |-
+    Deßgleichen seind die hund auch gůt wachter/wa mans an den bergen zwischen den Stacketen bey der nacht lauffen laßt/vnd bey dem tag/soll mans wider auffahen.
+  cs: |-
+    Stejně tak jsou dobrými strážci psi, nechají-li se v noci volně pobíhat na svazích mezi palisádami {Stacketen}; ve dne se mají zase pochytat.
+- typ: odstavec
+  de: |-
+    Item wa man vorgelegert hat/soll man kain glock oder stund schlagen lassen/den Zaiger vnd Vr/mag man wol geen lassen/darbey ain liecht in ainer laternen prennen/das die im Schloß sehen mügen/tag vnd nacht obs frů oder spat sey.
+  cs: |-
+    Dále kde se [nepřítel] položil ležením před [hradem], nemá se zvonit žádným zvonem ani odbíjet hodiny. Ručičku a hodiny lze však nechat jít a u nich mít v lucerně rozsvícené světlo, aby ti na hradě mohli ve dne i v noci vidět, je-li časně, nebo pozdě.
+- typ: odstavec
+  de: |-
+    Item so man vorleyt/oder ander Lerman sich begeben/soll der Oberst sein Leytinger/oder ainen andern redlichen vom Adel/auf alle Letz vnd wörinen schicken/dieselbigen zů besichtigen/wie sich yederman hallt/vnd ob yeder/wie er beschaiden/an seiner Letze sey.
+  cs: |-
+    Dále když [nepřítel] leží před [hradem] nebo nastane jiný poplach {Lerman}, má plukovník {Oberst} poslat svého poručíka {Leytinger} nebo jiného poctivého šlechtice na všechna stanoviště {Letz} a obranná místa {wörinen}, aby je prohlédl, jak se kdo chová a zda je každý na svém stanovišti, kam byl určen.
+- typ: odstavec
+  de: |-
+    Item der Oberst soll sich im Lerman oder handlung/allwegen auf dem platz/darauf der Fenderich/das Spil/vnd merer tail des volcks in der ordnung gewärtig seind/finden lassen.
+  cs: |-
+    Dále se má plukovník při poplachu nebo střetnutí vždy zdržovat na prostranství, kde v pořadí stojí pohotově praporečník {Fenderich}, hudba {Spil} a větší část lidu.
+- typ: odstavec
+  de: |-
+    Item der Fendrich/Trummenschlaher vnd Pfeyffer mit jm/söllen sich ye zů zeyten auff den höchsten vnd aussersten wörinen/mit auffrechtem fliegenden Fendlin/sehen vnd hören lassen/vnd sonst soll man allweg/auff dem höchsten Thurn/ain außgestossen Fendlin fliegen lassen.
+  cs: |-
+    Dále se má praporečník spolu s bubeníkem {Trummenschlaher} a pištcem {Pfeyffer} čas od času ukázat a dát slyšet na nejvyšších a nejzazších obranných místech se vztyčeným vlajícím praporcem {Fendlin}. Jinak má na nejvyšší věži vždy vlát rozvinutý praporec.
+- typ: odstavec
+  de: |-
+    Item es will auch von nöten sein/das der Zeügwart oder Zeügmaister etwan vil schwebelring hab/die man zů nachtliechtern braucht/der zeit so man vorligt/oder Lerman seind/von Schwebel/Bech/vnd Hartz gemacht/vnd von allen zertrifelten saylern/oder allten lumpen/welche
+  cs: |-
+    Dále bude třeba, aby zbrojní správce {Zeügwart} neboli zbrojmistr {Zeügmaister} měl značné množství sirných věnců {schwebelring}, které se užívají jako noční světla v době, kdy [nepřítel] leží před [hradem] nebo jsou poplachy. Dělají se ze síry, smoly a pryskyřice a ze všech rozedřených provazů nebo starých hadrů, které

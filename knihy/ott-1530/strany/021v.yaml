@@ -1,0 +1,58 @@
+id: 021v
+list: '[21] v'
+strana: verso
+sken: 42
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item zů yedem geschlecht der büchsen/zway ledige Reder mitzůfüren/ob im ziehen ain Rad abgieng/vnd schaden nem/das man ain anders anstoß/biß ins nächst Läger/so kan mans darnach machen/Dieweyl es Acht geschlecht seind/müssen der Reder 16 gefürt werden/Darzů 6 brotzen Reder/die da vornen vnnder den gefässen gond/Darzů soll man mitfüren/gemainer wagen Reder/das man zů den Redern müge beladen/ – 5 Wägen.
+  cs: |-
+    Dále se má ke každému druhu děl {geschlecht der büchsen} vézt po dvou volných kolech {Reder}: kdyby se na pochodu některé kolo ulomilo a poškodilo, aby se dalo nasadit jiné až do nejbližšího ležení {Läger}, kde se pak [poškozené] spraví. Protože je osm druhů, musí se vézt 16 kol. K tomu 6 kol předku {brotzen Reder},[^1] která jdou vpředu pod lafetami {gefässen}. Dále se mají vézt kola obyčejných vozů, aby se [vozy] spolu s [dělovými] koly plně naložily. – 5 vozů.
+- typ: odstavec
+  de: |-
+    Item souil halber gefäß/söllen auch mit gefürt werdn/Achterlay groß/souil/das darmit geladen werden/ – 4 wägen.
+  cs: |-
+    Dále se má vézt také tolik polovičních lafet {halber gefäß}[^2] osmi velikostí {Achterlay groß}, kolik jich [vozy] pojmou. – 4 vozy.
+- typ: odstavec
+  de: |-
+    Item darzů soll der Bitner/die Ringisten Gefäß wegen/beladen mit Taugen/zů klainen Pulverfäßlin/der kains über ain Zentner vasset/darmit dieselben wägen/auch jren Last haben/welche klaine Pulverfäßlin/man füllet/auß den grossen Pulverfässern/so man fürgelegert hat/die werden in die Schantz gefürt/vnd laßt dann die grossen in der Artelarey/von gefärs wegen zůuerhütten/Dieweyl die Artelarey/dem Veldleger näher gelegen/dann die Schantz.
+  cs: |-
+    Dále má k tomu bednář {Bitner} naložit nejméně naložené vozy s lafetami {Gefäß wegen}[^3] dužinami {Taugen} na malé soudky na prach {Pulverfäßlin}, z nichž žádný nepojme víc než jeden cent {Zentner}, aby i tyto vozy měly plný náklad. Malé soudky se plní z velkých sudů s prachem, které jsou předem uloženy v zásobě, a vozí se do šance {Schantz}. Velké sudy se kvůli nebezpečí nechávají u dělostřelectva {Artelarey}, protože dělostřelectvo leží blíže polnímu ležení {Veldleger} než šance.
+- typ: odstavec
+  de: |-
+    Item man soll auch auff 30000 verwarter man/die mit aller War versehen seind/zum Vorrat/mitfüren 3000 Fůßknecht Spieß/Die müssen haben zum wenigsten/ – 6 wägen.
+  cs: |-
+    Dále se má na 30 000 ozbrojených mužů, opatřených veškerou výzbrojí {War}, vézt do zásoby 3 000 pěších pík {Fůßknecht Spieß}; ty potřebují nejméně – 6 vozů.
+- typ: odstavec
+  de: |-
+    Item dieselben Spieß/söllen der halbtail geschifft mit jren Eysen/vnd anderhalb tail söllen on eysen gefürt werden/Aber so vil Eysen/mit jren nägeln/darmit sy angeschlagen werden/in den fassen mitgefürt werden/Es kompt offt/das aim Knecht der Spieß schaden nympt/vnd behallt das Eysen/der bedarff nur ain schafft/Etwan kompt er vmb das eysen vnd behellt den schafft/den baiden mag geholffen werden in der Artelarey.
+  cs: |-
+    Dále se má z těchto pík polovina vézt osazená {geschifft}[^4] železy {Eysen} a druhá polovina bez želez; tolik želez i s hřeby, jimiž se přibíjejí, se však má vézt s sebou v sudech. Často se totiž stává, že se knechtovi {Knecht} píka poškodí, ale železo mu zůstane – ten potřebuje jen ratiště {schafft}. Jindy zase přijde o železo a ratiště mu zůstane. Oběma lze pomoci u dělostřelectva.
+- typ: odstavec
+  de: |-
+    Item man můß mitfüren/zum vorrat 300 Helmparten/die müssen haben/ – 3 wägen.
+  cs: |-
+    Dále se musí vézt do zásoby 300 halapartén {Helmparten}; ty potřebují – 3 vozy.
+- typ: odstavec
+  de: |-
+    Item man můß auch mitfüren/etwavil Reytspieß/die der halbtail geschifft/vnd der ander halb tail vngeschifft/Doch so müssen jr eysen/jre scheyben/vnd nägel/darzů gehörig/mitgefürt werden/Der müssen so vil sein/das darmit geladen werd/ – 1 wagen.
+  cs: |-
+    Dále se musí vézt také větší počet jezdeckých kopí {Reytspieß}, polovina osazená a druhá polovina neosazená; i s nimi se však musí vézt jejich železa, kotouče {scheyben}[^5] a hřeby, které k nim patří. Má jich být tolik, aby naplnila – 1 vůz.
+- typ: odstavec
+  de: |-
+    Item überig Lad Schaufeln/Ansetz Kolben/vnd Stangen zů söllichem/groß vnd klain/zů den Achterlay oder Allerlay Büchsen/Darzů gehört/ – 1 wagen.
+  cs: |-
+    Dále náhradní nabíjecí lopatky {Lad Schaufeln}, nabijáky {Ansetz Kolben} a tyče k nim, velké i malé, k osmerým čili všem druhům děl {Achterlay oder Allerlay Büchsen}; k tomu patří – 1 vůz.
+poznamky:
+- n: 1
+  text: Brotzen (Protzen) Reder – kola dělového předku (Protze), dvoukolového podvozku, na nějž se při jízdě zavěšuje konec lafety.
+- n: 2
+  text: Halbe Gefäß – patrně náhradní poloviční (zadní) části lafet, příp. lafety bez předku; výklad nejistý.
+- n: 3
+  text: „die Ringisten Gefäß wegen“ čteme jako „die geringsten Gefäßwägen“ – nejméně naložené vozy, které vezou lafety (předchozí položka); bednář na ně přiloží dužiny, „aby i tyto vozy měly plný náklad“.
+- n: 4
+  text: Geschifft (geschäftet) – nasazené na ratiště; „vngeschifft“ = jen železné hroty bez ratiště.
+- n: 5
+  text: Scheyben – patrně kotoučovité chrániče ruky (Brechscheiben) na jezdeckém kopí; ve skenu spíše „scheyben“ (OCR „scherben“).

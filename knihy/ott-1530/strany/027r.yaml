@@ -1,0 +1,45 @@
+id: 027r
+list: '[27] r'
+strana: recto
+sken: 53
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Will dann der Zewgwart/noch ain gerüst Pferdt halten/zů dem sein/das an aller Muster der Raysigen besteet/so mag ers hallten/Darauff soll jm der Zewgmaister schaffen ain Monat/ – 10 florin.
+  cs: |-
+    Chce-li pak zbrojní správce {Zewgwart} ke svému [koni] držet ještě jednoho zbrojného koně {gerüst Pferdt}, který obstojí při každé přehlídce jezdců {Raysigen}, smí ho držet; zbrojmistr {Zewgmaister} mu na něj má zajistit za měsíc – 10 zlatých {florin}.
+- typ: odstavec
+  de: |-
+    Item so man Hůffeysen/hůfnägel/vnd dergleichen in der Artelarey bedarff/so sols der Zewgwart/den/so jr notdurfftig seind/vmbs gellt geben/wie dann das von dem Lutinanten taxiert wirt/Darumb soll er zů seiner zeyt rechenschafft geben/vnd bezalung thůn/Deßgleichen soll er den/die sein bedürffen/Spieß geben/vmb gellt/sy seyen Raysig oder Fůßknecht.
+  cs: |-
+    Dále, když se u dělostřelectva {Artelarey} potřebují podkovy {Hůffeysen}, podkováky a podobné věci, má je zbrojní správce dávat těm, kdo je potřebují, za peníze podle ceny, kterou stanoví {taxiert} poručík {Lutinanten}; z toho má v určený čas složit účet a peníze odvést. Stejně tak má těm, kdo je potřebují, dávat za peníze píky {Spieß}, ať jsou to jezdci, nebo pěší knechti {Fůßknecht}.
+- typ: odstavec
+  de: |-
+    Deßgleichen Harnasch vnd Büchsen/auch den Handtschützen Zündtstrick/Schieß vnd Zündt pulfer geben/vmbs gellt.
+  cs: |-
+    Stejně tak [má dávat] za peníze zbroj {Harnasch} a pušky {Büchsen} a také střelcům z ručnic {Handtschützen} doutnáky {Zündtstrick}, střelný a zápalný prach {Schieß vnd Zündt pulfer}.
+- typ: odstavec
+  de: |-
+    Item so es sich zůtrüge/das man ain Sturm oder Schlacht fürneme/oder versech/so wirt gewonlich im Leger vmbgeschlagen/allen Handtschützen/bey der Artelarey Pulfer vnd Pley zuhollen/Alßdann söllen die Hauptlewt jre Schützen Mustern/vnnd abzelen/wievil der vnnder jm oder seinem Fendlin hat/Der soll bey seinem Ayd/vnnder seinem Pütschafft/die Zal der Schützen/dem Zewgmaister/bey Zwen Rotmaistern oder seinen Trabanten zůschicken/Alßdann soll der Zewgmaister seinem Zewgschreyber denselben Zedel in ain Register oder Bůch abschreyben lassen/vnnd dem Zewgwarten beuelhen/wievil demselben Hauptman/auf ain Schützen Pulvers oder Pley zugeben/Darzů soll der Zeügmaister/dem zewgwarten/den verpütschierten Zedel/vom Hauptman außganngen/übergeben/darmit der Zewgwart/sein Rechnung darauff thůn müg.
+  cs: |-
+    Dále, chystá-li se útok {Sturm} nebo bitva, anebo očekává-li se, obvykle se v ležení {Leger} vybubnuje {vmbgeschlagen}, aby si všichni střelci z ručnic vyzvedli u dělostřelectva prach a olovo. Tehdy mají hejtmani {Hauptlewt} přehlédnout své střelce a spočítat, kolik jich kdo má pod sebou čili ve svém praporci {Fendlin}. [Hejtman] má pod svou přísahou {Ayd} poslat počet střelců zbrojmistrovi pod svou pečetí {Pütschafft} po dvou rotmistrech {Rotmaistern} nebo po svých drabantech {Trabanten}. Pak má zbrojmistr dát svému zbrojnímu písaři {Zewgschreyber} tento lístek {Zedel} opsat do rejstříku {Register} neboli knihy a nařídit zbrojnímu správci, kolik prachu a olova má tomu hejtmanovi dát na jednoho střelce. Zapečetěný lístek od hejtmana má pak zbrojmistr předat zbrojnímu správci, aby podle něho mohl vést své účty.
+- typ: odstavec
+  de: |-
+    Also gibt gewonlich der Zewgwart auff ain Schützen/ainen Vierdung Pulfers/vnnd ain Halbpfundt Pley/daruon mag er mer Schuß machen/dann yendert ain Reytter Pfeyl in seinem Kocher fürt/Dann/wenn man vil gibt/so ist vil verloren vnd vergebens verschossen/Bedürffen dann sy Zündtstrick oder Zündtpulver/soll es jnn mit der Maß/auff tag vnd nacht auch gegeben/vnd durch den gegenschreyber mit fleyß beschriben werden.
+  cs: |-
+    Zbrojní správce tak obvykle dává na jednoho střelce čtvrtku {Vierdung}[^1] prachu a půl libry {Halbpfundt} olova; z toho může vystřelit víc ran, než kolik šípů veze kterýkoli jezdec {Reytter} v toulci. Když se totiž dává mnoho, mnoho se také ztratí a zbytečně vystřílí. Potřebují-li doutnáky nebo zápalný prach, má se jim i to dávat odměřeně, na den a noc, a protipísař {gegenschreyber} to má pečlivě zapsat.
+- typ: odstavec
+  de: |-
+    Item so ist auch gewonlich im prauch/wenn man sich sturm oder Schlacht versicht/so laßt man vmbschlahen/welcher Harnisch bedörff/der zaig sich seinem Hauptman an/dem will man Harnasch verschaffen zugeben/vmb ain zimlich gellt/Vnd welcher den nit zubezalen hat/dem will man all musterung ain florin daran abziehen/biß er söllich Harnasch bezalt.
+  cs: |-
+    Dále je také obvyklé, že když se očekává útok nebo bitva, dá se vybubnovat: kdo potřebuje zbroj {Harnisch}, ať se ohlásí u svého hejtmana, a ten mu zařídí zbroj za přiměřenou cenu. Kdo ji nemá čím zaplatit, tomu se při každé přehlídce {musterung} srazí jeden zlatý, dokud zbroj nesplatí.
+- typ: odstavec
+  de: |-
+    Darnach soll der Zewgmaister beuelhen dem Zewgwartten/sölichs den Hauptlewten zugeben/Es soll auch derselb Hauptman/dem Zewgwarten vnder seinem Pütschafft vnd Handt Zaichen/ain schrifftlich bekanntnuß geben/wievil er Harnasch hinweg hab/Doch so soll dieselbig Handschrifft oder Hauptmans Zedel/von dem Zewgschreyber/ins Zeügmaisters Register/wie vorlaut/Copiert vnd Einuerleipt werden.
+  cs: |-
+    Potom má zbrojmistr nařídit zbrojnímu správci, aby zbroje vydal hejtmanům. Každý hejtman má zbrojnímu správci dát pod svou pečetí a vlastnoručním znamením {Handt Zaichen} písemné potvrzení {bekanntnuß}, kolik zbrojí odebral. Tento úpis {Handschrifft} neboli hejtmanův lístek má však zbrojní písař, jak bylo řečeno výše, opsat a zanést do zbrojmistrova rejstříku.
+poznamky:
+- n: 1
+  text: Vierdung = Vierling, čtvrt libry.

@@ -1,0 +1,16 @@
+id: titul
+list: titulní list [1] r
+strana: recto
+sken: 1
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Kriegs ordnung
+  cs: Válečný řád {Kriegs ordnung}[^1]
+poznamky:
+- n: 1
+  text: |-
+    Titulní list nese jen titul vysázený velkou švabachovou literou, bez jména autora, tiskaře a roku. Slabé stopy
+    textu na skenu jsou průsvit či obtisk sousedních listů svazku; číslo „1“ vpravo nahoře je pozdější tužková foliace.

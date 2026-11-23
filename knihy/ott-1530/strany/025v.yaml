@@ -1,0 +1,55 @@
+id: 025v
+list: '[25] v'
+strana: verso
+sken: 50
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd das Geschütz verschlahen oder abtrinngen wölte/das sy gräben vor jne vnd dem geschütz haben.
+  cs: |-
+    a zatlouct děla {Geschütz} nebo je odvléci,[^1] aby měli příkopy před sebou i před děly.
+- typ: nadpis
+  uroven: 3
+  de: Nun volgen hernach/die Schantzbawren.
+  cs: Nyní následují šancíři {Schantzbawren}
+- typ: odstavec
+  de: |-
+    Item zů söllicher vnd yetzgemellter Artelarey/söllen nit minder besöldt vnd vnderhallten werden dann 400 Schantzbawren/der bedarff man zu vilzeytten wol/vnd ist ain ser Nutz Volck/Ee man jr geraten oder manglen soll/so söllt man ee 400 knecht minder haben im Hauffen/sy thůnd vil notdurfftiger arbait/das dem gantzen Leger zu fürderung vnd gůtem komt/So ain Veld Leger ain tag still ligt/vnd nit von land mag/etwan Prugken/Fürt/Steg vnd Weg halben/die durch die Schanntzpawren gemacht werden/Was geet dem Kriegß Herren für ain vnkost auff das gantz Leger.
+  cs: |-
+    Dále se k takovému právě popsanému dělostřelectvu {Artelarey} má platit a vydržovat nejméně 400 šancířů. Těch je často velmi zapotřebí a je to velmi užitečný lid. Než by se jich mělo postrádat a mít jich nedostatek, raději ať je ve voji {Hauffen} o 400 knechtů {knecht} méně. Konají totiž mnoho potřebné práce, která slouží celému ležení {Leger} k prospěchu a dobru. Když polní ležení {Veld Leger} stojí den na místě a nemůže se hnout kvůli mostům, brodům, lávkám a cestám, které dělají šancíři – jaký náklad na celé ležení to válečnému pánu {Kriegß Herren} způsobí!
+- typ: odstavec
+  de: |-
+    Wie geets dann/wenn man Schantzen soll auff ain nacht/vnd mag in dreyen nit beschehen/was bringt das dem Leger/vnd etwan dem gantzen Krieg nachtail vnd zerrüttung/Was mügen die Veind in derselben zeyt ergegen buwen/das man etwan fünff oder sechß tag lennger zuschiessen hat dann sonst/ja zu vilzeyten gar mit schannden daruon ziehen müssen/das sonst nit geschech/wenn fürderlich geschantzt vnd geschossen wurd/Darumb soll ain yeder Kriegß Herr/sich nicht dauren lassen/was die Schanntzpawren für Costen brauchen/ain stund gibts wider/was Zwen Monat auff sy geet.
+  cs: |-
+    Jak to pak chodí, když se mají za jednu noc postavit šance {Schantzen} a nedá se to stihnout ani za tři [noci]? Jakou škodu a jaký rozvrat to přinese ležení a někdy i celé válce! Co všechno mohou nepřátelé za tu dobu postavit na obranu, takže se pak musí střílet třeba o pět nebo šest dní déle než jindy, ba mnohdy se dokonce musí s hanbou odtáhnout – což by se nestalo, kdyby se rychle šancovalo a střílelo. Proto ať žádnému válečnému pánu není líto nákladů, které šancíři vyžadují: jedna hodina vrátí, co na ně padne za dva měsíce.
+- typ: odstavec
+  de: |-
+    Item der Pawren Hauptman/soll ain gerüst Pferdt hallten/Er wirt gebraucht/wie ain ander Zewg Diener/soll also eingeschriben werden.
+  cs: |-
+    Dále má hejtman šancířů {Pawren Hauptman} držet jednoho zbrojného koně {gerüst Pferdt}; užívá se ho jako ostatních zbrojních služebníků {Zewg Diener} a tak má být také zapsán.
+- typ: odstavec
+  de: |-
+    Item er soll auch darob vnd daran sein/das die Pawren jr Quartier/vnnd Losament/nächst bey der Artelarey haben/wenn man jr bedörff/das sy bey der handt seyen.
+  cs: |-
+    Dále má také dbát na to, aby šancíři měli svůj kvartýr {Quartier} a ubytování {Losament} co nejblíže u dělostřelectva, aby byli po ruce, když jich bude třeba.
+- typ: odstavec
+  de: |-
+    Item der Hauptman/soll auch bey seinem Ayd/on des Obersten Zewgmaisters wissen vnd willen/kain Pawren auffnemen vnd vrlauben.
+  cs: |-
+    Dále nemá hejtman pod svou přísahou {Ayd} bez vědomí a vůle nejvyššího zbrojmistra {Obersten Zewgmaisters} přijmout ani propustit žádného šancíře.
+- typ: odstavec
+  de: |-
+    Item er soll auch bey dem gemellten Ayd/anzaigen vnd nit verhallten/wa ain Schantzpawr schaden nem/oder sonst/auß ordnung gotes sturb/ainer oder mer hinweg lieff/darmit annder an die stat auffgenomen/oder im register außgethan werde/vnd die hingelauffen jrer Herrschafft schreyben/gegen denselben zuhandeln/als mainayden vnnd trewlosen lewten/der gepür nach.
+  cs: |-
+    Dále má pod zmíněnou přísahou oznámit a nezamlčet, když se některý šancíř zraní nebo z Boží vůle zemře anebo když jeden či více jich uteče, aby se na jejich místo přijali jiní nebo aby byli vyškrtnuti ze soupisu {register}. O těch, kdo utekli, má napsat jejich vrchnosti, aby se proti nim náležitě zakročilo jako proti křivopřísežným a nevěrným lidem.
+- typ: odstavec
+  de: |-
+    Item es soll auch der Hauptmann bey aller Musterung sein/darzů der Zeügschreyber vnd Lutinant/Vnd so es geschefft halben sein möcht/der Zewgmaister selb/darzů etlich Zeüg Diener/Es soll auch der Hauptman aigentlich auffmercken haben/das kain falsch oder betrug/in der Musterung geschech/bey seinem Ayd.
+  cs: |-
+    Dále má být hejtman při každé přehlídce {Musterung}, k tomu zbrojní písař {Zeügschreyber} a poručík {Lutinant}, a dovolí-li to jeho povinnosti, i sám zbrojmistr a s ním několik zbrojních služebníků. Hejtman má také pod svou přísahou bedlivě dbát, aby se při přehlídce nedělo nic falešného ani podvodného.
+poznamky:
+- n: 1
+  text: Verschlahen (vernageln) – zatlouct do zátravky hřeb, a tím dělo vyřadit; abtrinngen – odtáhnout, ukořistit.

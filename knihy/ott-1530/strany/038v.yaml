@@ -1,0 +1,70 @@
+id: 038v
+list: '[38] v'
+strana: verso
+sken: 76
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    oder darwider Rotten / oder sich des annemen / bey leybs straff / Vnd ob ainer oder mer / den Prouosen / oder seinen Knechten ain Gefangen verhinderten / vnd der Mißhandler dardurch hinwegk kem / so soll derselb / oder dieselben / so darzů geholffen haben / an dess Mißhandlers statt / gestrafft / vnd durch den Prouosen angenomen werden.
+  cs: |-
+    ani se proti tomu srocovat {Rotten}, ani se ho zastávat, pod trestem na těle. A kdyby jeden nebo více [lidí] zabránili profousovi {Prouosen} nebo jeho pacholkům [odvést] zajatce a provinilec by tím unikl, má být ten nebo ti, kdo k tomu pomohli, potrestáni místo provinilce a profousem zatčeni.
+- typ: odstavec
+  de: |-
+    Das Zůtrincken soll der maß verbotten sein / wa ainer in der vollen weiß etwas vermißhandelt / so soll er gleich als wol gestrafft werden / als wär er nüchtern / Auch kainer den andern zů söllichem trincken nöten.
+  cs: |-
+    Připíjení {Zůtrincken} má být zakázáno v tom smyslu, že kdyby se někdo v opilosti něčím provinil, má být potrestán stejně, jako by byl střízlivý. A nikdo nemá druhého k takovému pití nutit.
+- typ: odstavec
+  de: |-
+    Item wa ain Zug beschicht / soll kainer auß der Ordnung ziehen / on gepürlich vrsach / Wa aber ainer in söllichem Vngehorsam oder verächtlich wär / so söllen die Hauptlewt oder Waybel / mit hilff vnd handthabung Gemainer Knecht / die Vngehorsamen mit gewalt / in die Ordnung treyben / vnd sy berauben / nemen was sy haben.
+  cs: |-
+    Dále když se táhne {Zug}, nemá nikdo bez náležité příčiny vystoupit z šiku {Ordnung}. Kdyby však někdo byl v tom neposlušný nebo pohrdavý, mají hejtmani {Hauptlewt} nebo šikovatelé {Waybel} s pomocí a přispěním obecných knechtů {Gemainer Knecht} neposlušné násilím zahnat do šiku a oloupit je – vzít jim, co mají.
+- typ: odstavec
+  de: |-
+    Wa man Schlachten / Stürmen / oder Eröberung tätte / wie das wär / so soll sich nyemants vmb das gůt annemen / noch Plündern / oder auß der Ordnung / noch vom Hauffen thůn / Es sey dann die Walstat vnd Platz zůuor erobert / sonder in gůtter Ordnung bleyben.
+  cs: |-
+    Kdyby se sváděly bitvy, útoky {Stürmen} nebo dobývání, ať jakékoli, nemá se nikdo starat o kořist, ani plenit, ani vystupovat z šiku nebo od houfu {Hauffen}, dokud nebude napřed dobyto bojiště {Walstat} a místo, nýbrž má zůstat v dobrém pořádku.
+- typ: odstavec
+  de: |-
+    Es soll kainer auff dem Spilplatz oder am Spil / on des ander gůtten willen / nichts auffschlahen / vnnd kain Teütscher mit ainem von anderer Nation Spilen / damit dest minder vnwillen entsteen / bey schwerer straff.
+  cs: |-
+    Nikdo nemá na hráčském místě nebo při hře bez dobré vůle druhého nic přirážet[^1] a žádný Němec nemá hrát s někým z jiného národa, aby vznikalo tím méně nevole, pod těžkým trestem.
+- typ: odstavec
+  de: |-
+    Item es soll ain yeder den NachRichter bey seiner Freyhait beleyben lassen.
+  cs: |-
+    Dále má každý ponechat katovi {NachRichter} jeho výsadu {Freyhait}.[^2]
+- typ: odstavec
+  de: |-
+    Item wenn ain Lerman wirt / im Veld oder Leger / so soll ain yeder auff den Platz / dahin sein Fendlin beschaiden ist / lauffen / vnd sonst / on erlaubnuß des Hauptmans / nyenderhin lauffen.
+  cs: |-
+    Dále když nastane poplach {Lerman} v poli nebo v ležení {Leger}, má každý běžet na místo, kam je určen jeho praporec {Fendlin}, a jinak bez svolení hejtmana nikam neběhat.
+- typ: odstavec
+  de: |-
+    Wa ainer oder mer / on ain Passporten / die jn allen der Oberst Hauptman zugeben hat / auß dem VeldLeger zugen / den soll man nemen was sy haben / vnd darzů von dem Obersten in dem Veldt / weyter gestrafft / Oder wa sy hinwegk komen / Jnen nachgeschriben / vnnd ferrner zu jrer straff getrangt werden.
+  cs: |-
+    Kdyby jeden nebo více [lidí] odtáhli z polního ležení bez průvodního listu {Passporten}, který jim smí vydat jedině nejvyšší hejtman {Oberst Hauptman},[^3] má se jim vzít, co mají, a k tomu mají být vrchním velitelem {Obersten} v poli dále potrestáni. Pokud by však unikli, má se o nich napsat [jejich vrchnosti] a mají být dále přidrženi k trestu.
+- typ: odstavec
+  de: |-
+    Item wa ain Fendlin auff die Wach beschaiden wirt / so soll der Hauptman / Fendrich / Waybel / Edel vnd vnedel / ains yeden Fendlins / auff die Wach ziehen / vnd wie sichs gebürt / wachen / Welcher aber nit auff die wach zeücht / oder von der Wach vor der zeyt ab gieng / der soll sonder alle genad / von seinem Rottgesellen / mit willen seins Hauptmanns / bey ainem Dickenpfenning / oder nach gelegenhait der zeyt / vnnd nach ermessen deß Hauptmans gestraffer werden.
+  cs: |-
+    Dále když je praporec určen na stráž {Wach}, má hejtman, praporečník {Fendrich}, šikovatel {Waybel}, urozený i neurozený každého praporce na stráž nastoupit a strážit, jak se sluší. Kdo by však na stráž nenastoupil nebo ze stráže odešel před časem, ten má být bez jakékoli milosti potrestán svými rotními druhy {Rottgesellen} se svolením svého hejtmana pokutou jednoho tlustého peníze {Dickenpfenning}, nebo podle okolností doby a podle uvážení hejtmana.[^4]
+- typ: odstavec
+  de: |-
+    Es soll auch kainer / kain andern Wachter an sein stat zůwachen bestellen / on erlaubnuß seines Hauptmans.
+  cs: |-
+    Také nemá nikdo ustanovit jiného strážného {Wachter}, aby strážil na jeho místě, bez svolení svého hejtmana.
+poznamky:
+- n: 1
+  text: |-
+    „auffschlahen“ – patrně zvyšovat sázku či přirážet k dluhu ze hry proti vůli spoluhráče; obdobný artikul má Fronsperger.
+- n: 2
+  text: |-
+    Kat (Nachrichter) byl při výkonu svého úřadu chráněn; nikdo mu nesměl překážet ani se mu za vykonaný trest mstít.
+- n: 3
+  text: |-
+    „die jn allen der Oberst Hauptman zugeben hat“ – „allen“ chápu jako „allain“ (jedině), shodně s Fronspergerovým artikulem („das allein dem Obersten Hauptmann zuthůn zusteht“); doslovné čtení „jim všem“ dává slabší smysl.
+- n: 4
+  text: V tisku „gestraffer“ – tisková chyba za „gestrafft“/„gestraffet“.

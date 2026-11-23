@@ -1,0 +1,54 @@
+id: 017r
+list: '[17] r'
+strana: recto
+sken: 33
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vier Büchsenmaister/ Darzů die gar klainen Boler/ söllen 3 Büchsenmaister haben.
+  cs: |-
+    čtyři puškaře {Büchsenmaister}; k tomu mají ty úplně malé moždíře {Boler} mít 3 puškaře.
+- typ: odstavec
+  de: |-
+    Item die 55 Stuck Büchsen/ bedürffen 100 Büchsenmaister vnd veld schützen/ wenn mans gehaben mag/ Wiewol sellten kain Herrschafft ist/ die so vil Büchsenmaister vnderhallt/ so haben die teütschen Fürsten vnd Herrn diß mittel/ auch der Römisch Kayser etc. hellt disen geprauch/ Wenn sy Kriegßhandlung füren wöllen/ so bewerben sy sich bey andern Fürsten vnd Stetten/ so der Krieg nit angat/ durch jre Zeügmaister/ in desselben Herren namen/ So mag man Büchsenmaister vnd Veldt Schützen genůg außbringen vmb jre besoldung.
+  cs: |-
+    Dále 55 kusů děl {Büchsen} potřebuje 100 puškařů a polních střelců {veld schützen}, dají-li se sehnat. Ačkoli málokteré panství vydržuje tolik puškařů, mají němečtí knížata a páni tento prostředek – a stejný zvyk zachovává i římský císař atd.: chtějí-li vést válku, ucházejí se [o puškaře] prostřednictvím svých zbrojmistrů {Zeügmaister} jménem svého pána u jiných knížat a měst, kterých se válka netýká. Tak lze za žold {besoldung} sehnat puškařů a polních střelců dost.
+- typ: odstavec
+  de: |-
+    Item der Büchsenmaister vnd Schützen Ayd/ den soll jnen der Zeügmaister geben/ oder sein Zeüg Lutinant/ in des Zeügmaisters beywesen/ vnd wen er darzů verordnet.
+  cs: |-
+    Dále přísahu {Ayd} puškařů a střelců jim má předříkat zbrojmistr nebo v jeho přítomnosti jeho zbrojní poručík {Zeüg Lutinant}, anebo ten, koho k tomu ustanoví.
+- typ: nadpis
+  uroven: 2
+  de: Nun volget hernach der Ayd der Büchsenmaister vnd Veldtschützen.
+  cs: Nyní následuje přísaha puškařů a polních střelců {Veldtschützen}
+- typ: odstavec
+  de: |-
+    Ir Büchsenmaister vnd Veldtschützen/ werden da angeloben/ vnd ferner leyplich ainen Ayd zu Gott schwören N. vnserm gnedigen Herren etc. dem KriegßFürsten/ getrew/ gewer/ vnd gehorsam sein/ allen zymlichen gebotten geuölgig/ schaden warnen/ eeren vnd frommen fürdern/ auch alles anders zuthůn vnd lassen/ das dem herren/ vnd dem gantzen VeldtLäger zu gůt raichen mag/ Alßdann frummen vnd bider kriegßlewten zůstat. Vnd das jr all/ samentlichen vnd besonder/ schiessen wöllen/ dem KriegßHerren zu gůt vnd nutz/ den Veinden zuwider vnd schaden/ nach ewrem besten vermügen/ vnd höchsten verstand/ Alles getrewlich vnd ongeferlich/ Deßgleichen söllen vnd wöllen jr all/ in massen vnd Crafft diss Ayds/ wie dem KriegßHerren N. ewerem Zeügmaister/ oder seinem Leytinger/ in abwesen des Zewgmaisters/ geuölgig vnd gehorsam sein.
+  cs: |-
+    Vy, puškaři a polní střelci, zde slíbíte a potom tělesnou přísahou {Ayd} Bohu přísaháte,[^1] že budete N., našemu milostivému pánu atd., válečnému knížeti {KriegßFürsten}, věrni, spolehliví a poslušni, budete poslouchat všechny náležité příkazy, varovat před škodou, hledět cti a prospěchu a také činit a nechávat všechno ostatní, co může pánovi a celému polnímu ležení {VeldtLäger} přinést dobro, jak se sluší na řádné a poctivé válečníky {kriegßlewten}. A že všichni, společně i každý zvlášť, chcete střílet ku prospěchu a užitku válečného pána {KriegßHerren}, nepříteli navzdory a ke škodě, podle svých nejlepších sil a nejlepšího rozumu, vše věrně a bez úskoku. Rovněž máte a chcete být všichni v míře a mocí této přísahy poslušni a povolni svému zbrojmistrovi {Zeügmaister} jako válečnému pánu N., v nepřítomnosti zbrojmistra pak jeho poručíkovi {Leytinger}.
+- typ: odstavec
+  de: |-
+    Darnach söllen sy all/ ainer nach dem anndern/ angeloben/ den yetzgemellten Artickeln vnd mainung/ getrewlich nachzukomen.
+  cs: |-
+    Potom mají všichni, jeden po druhém, slíbit, že budou těmto právě vysloveným článkům {Artickeln} a jejich smyslu věrně dostávat.
+- typ: odstavec
+  de: |-
+    Alßdann soll der Zeügmaister jnen zůsprechen/ Nun heben auff/ ain yeder drey finger/ in die höch/ dem haupt geleich/ vnd sprechen mir nach/ Weß ich yetzt mit schrifft oder mund bericht/ von N. meins gnedigen Herren wegen/ vnd ich das angelobt hab/ dem will ich getrewlich geleben vnd nachkomen/ on allen gefär/ also helff mir Gott vnd all Hailigen.
+  cs: |-
+    Potom jim má zbrojmistr říci: „Nyní zvedněte každý tři prsty vzhůru, do výše hlavy, a opakujte po mně: Čemu jsem byl nyní písmem nebo ústy poučen jménem N., mého milostivého pána, a co jsem slíbil, tomu chci věrně žít a dostát bez jakéhokoli úskoku. K tomu mi dopomáhej Bůh a všichni svatí.“
+- typ: nadpis
+  uroven: 3
+  de: Also habt jr den Ayd der Büchsenmaister/ Vnnd volgt hernach/ wie die Büchsen beuolhen werden söllen.
+  cs: Tak máte přísahu puškařů; a dále následuje, jak se mají děla svěřit
+- typ: odstavec
+  de: |-
+    Darnach soll der Zewgmaister die Büchsen außgeben/ denen/ so jm die bessten Büchsenmaister berümpt seind/ den soll er auch die bessten
+  cs: |-
+    Potom má zbrojmistr rozdat děla: těm, kdo jsou mu vychvalováni jako nejlepší puškaři, má dát také nejlepší
+poznamky:
+- n: 1
+  text: „leyplich ainen Ayd schwören“ – přísahat tělesně (leiblich), tj. osobně se zdviženými prsty, na rozdíl od pouhého slibu (angeloben) podáním ruky.

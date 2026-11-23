@@ -1,0 +1,47 @@
+id: 024v
+list: '[24] v'
+strana: verso
+sken: 48
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gegenwürtigen Veldtzug/zů kriegßsachen angenomen vnd bestellt haben/von wegen N. vnnsers gnedigen Fürsten vnd Herren/das sy dem gemellten Herren getrew vnd gewärtig sein wöllen/die benennten N. Monat/jren gnaden schaden warnen/eeren vnd fromen fürdern/dem Obersten Veldt Zewgmaister vnd seinem Lutinanten oder andern/so beuelch haben/in seinem abwesen/allen zymlichen Gepotten geuölgig vnd gehorsam sein wöllen/yeder das jhenig fleyssig vnd getrewlich thůn/darzů er bestellt vnd verordnet ist/mit seinem höchsten ernst vnd fleyß/vnd sonst alles das thůn vnd lassen/so ain yeder seiner Herrschafft vnd Oberkait zuthůn schuldig ist/Vnnd wa ainer oder mer wären/die söllichs überfüren/vnd gefärlicher weyß/vngehorsam wurden/der oder dieselben wurden in aller schwär vnd straff stan/als wenn er das dem Kriegß Herrn selb aigner person gethan hette/Darumb wiß sich ain yeder vor schaden zuhůtten.
+  cs: |-
+    toto nynější tažení {Veldtzug} přijali a najali k válečným věcem jménem N., našeho milostivého knížete a pána: že chtějí být zmíněnému pánu věrní a poslušní {gewärtig} po jmenovaných N. měsíců, varovat Jeho Milost před škodou a podporovat jeho čest a prospěch; že chtějí být nejvyššímu polnímu zbrojmistrovi {Obersten Veldt Zewgmaister} a jeho poručíkovi {Lutinanten} nebo jiným, kdo mají v jeho nepřítomnosti velení {beuelch}, povolní a poslušní ve všech náležitých rozkazech; že každý bude pilně a věrně konat to, k čemu je najat a ustanoven, s největší vážností a pílí, a jinak činit i nečinit vše, co je každý povinen své vrchnosti {Oberkait}. A kdyby se našel jeden nebo více takových, kteří by to přestoupili a zlovolně se stali neposlušnými, ponese ten nebo ti veškerou tíhu trestu, jako by se toho dopustili proti samému válečnému pánu {Kriegß Herrn}. Proto ať se každý má na pozoru před škodou.
+- typ: odstavec
+  de: |-
+    Alßdann söllen sy dem Leytinger/ins Zeügmaisters beywesen/angeloben/ainer nach dem anndern/Alßdann schwören/ain Ayd leiplich zů Gott.
+  cs: |-
+    Potom mají poručíkovi {Leytinger} v přítomnosti zbrojmistra jeden po druhém slíbit rukoudáním {angeloben} a pak tělesně přísahat {Ayd} Bohu.
+- typ: odstavec
+  de: |-
+    So Sy dann angelopt haben/mit gegebner trew/Alßdann soll jn der Zewgmaister zůsprechen/Nun heben all auff/yeder drey finnger/dem haupt geleich/vnd sprechen mir nach/yeder für sich selbs/als wär er allain da/
+  cs: |-
+    Když pak slíbili a dali na to svou věrnost, má jim zbrojmistr říci: „Nyní všichni zvedněte každý tři prsty do výše hlavy a opakujte po mně, každý sám za sebe, jako by tu byl sám.“
+- typ: odstavec
+  de: |-
+    Wie mir mit wortten fürgehallten vnd erzelt ist/vnd ich dieselben vernomen hab/darüber ich mit aigner hand gelobt/dem will ich geleben/vnd trewlich nachkomen/on allen gefär/also helff mir Gott vnnd all hailgen.
+  cs: |-
+    „Co mi bylo slovy předloženo a přečteno, co jsem vyslechl a na co jsem vlastní rukou slíbil, tím se chci řídit a věrně to plnit bez jakékoli lsti. K tomu mi dopomáhej Bůh a všichni svatí.“
+- typ: nadpis
+  uroven: 2
+  de: Nun volgen hernach die anndern Artelarey personen/mit jren Sölden vnd beuelch/Was jr Arbait ist.
+  cs: Nyní následují ostatní osoby dělostřelectva {Artelarey} s jejich žoldy a pověřeními a s tím, jaká je jejich práce
+- typ: odstavec
+  de: |-
+    Item des Zeügmaisters Lutinant/dem gehört ains Hauptmans sold/das ist 40 florin/Vnnd soll jm hallten Zwen Trabannten/den gehört 4 söld/macht in der Sum/ – 56 florin.
+  cs: |-
+    Dále zbrojmistrovu poručíkovi {Lutinant} náleží hejtmanský žold {Hauptmans sold}, totiž 40 zlatých {florin}, a má si držet dva drabanty {Trabannten}, jimž náležejí 4 žoldy {söld}; to činí v součtu – 56 zlatých.
+- typ: odstavec
+  de: |-
+    Item der gemelt Lutynant/hat allen beuelch des Zeügmaisters/in seinem abwesen/
+  cs: |-
+    Dále zmíněný poručík má v nepřítomnosti zbrojmistra veškerou jeho pravomoc {beuelch}.
+- typ: odstavec
+  de: |-
+    Item mer gehört jm/auff ainen Jungen/ain sold/Will er dann zů seinem aigen Roß/ains oder Zway gerüster Pferdt hallten/die an der Muster bestandt/so soll man jn halten/wie vorlaut/Das ist auff Zway Pferdt 20 florin/Auf die anndern so er ferrner hellt/gehören in sein aigen Costen/Doch so söllen Sy/die gerüsten knecht gewärtig sein/vnd gebraucht werden bey der Artelarey/als annder Zeügdiener/wes jn der Zeügmaister/oder jr Herr der Leytinger beuilcht zuthůn.
+  cs: |-
+    Dále mu ještě náleží jeden žold na pachole {Jungen}. Chce-li pak ke svému vlastnímu koni držet jednoho nebo dva zbrojné koně {gerüster Pferdt}, kteří obstojí při přehlídce {Muster}, mají se mu platit, jak je uvedeno výše, totiž na dva koně 20 zlatých; další koně, které by držel navíc, jdou na jeho vlastní náklad. Tito ozbrojení jízdní pacholci {gerüsten knecht} však mají být k službám a mají se dát užívat u dělostřelectva jako ostatní zbrojní služebníci {Zeügdiener} ve všem, co jim zbrojmistr nebo jejich pán, poručík, přikáže.

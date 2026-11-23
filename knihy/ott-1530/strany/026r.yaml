@@ -1,0 +1,45 @@
+id: 026r
+list: '[26] r'
+strana: recto
+sken: 51
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item es söllen allwegen 12 Bauren ain Rot haben/darzů ain Rothmaister/den söllen sy selb erwölen vnder jnn/Darnach dem Hauptmann vnd Zewgschreyber/denselben Rotmaister anzaigen/So wirt der Rotmaister mit seiner Rott/sonderlich aufgeschriben/vnd dem Hauptman ain Reuers daruon gegeben/der waißt darnach ain Rott nach der andern zůuordern/wenn man jr bedarff/yetzt ain Rott/denn zwo oder drey/yetzt im Vorzug/denn im Nachzug/yetzt da/denn dort/also geets vmb/das ain Rott so vil gebraucht wirt/als die annder/dieweyl sy allweg nit all geleich mitainander gebraucht werden etc.
+  cs: |-
+    Dále má vždy 12 šancířů {Bauren} tvořit jednu rotu {Rot} a k tomu mít rotmistra {Rothmaister}, kterého si mají sami zvolit mezi sebou. Potom mají toho rotmistra oznámit hejtmanovi {Hauptmann} a zbrojnímu písaři {Zewgschreyber}. Rotmistr se svou rotou se pak zapíše zvlášť a hejtmanovi se o tom vydá revers {Reuers}. Hejtman pak ví, jak povolávat jednu rotu po druhé, když jich je třeba – jednou jednu rotu, pak dvě nebo tři, jednou do předvoje {Vorzug}, pak do zadního voje {Nachzug}, jednou sem, pak tam. Tak se to střídá, aby se jedna rota užívala tolik jako druhá, protože se všechny nikdy neužívají zároveň atd.
+- typ: odstavec
+  de: |-
+    Item wenn man die Pawren Mustert/soll ain Rott nach der andern durchzugan/gefordert werden.
+  cs: |-
+    Dále, když se šancíři přehlížejí {Mustert}, mají se roty vyvolávat jedna po druhé, aby prošly [přehlídkou].
+- typ: odstavec
+  de: |-
+    Des Hauptmanns Sold/ain Monat XVI. Florin.
+  cs: |-
+    Hejtmanův žold {Sold} za měsíc: 16 zlatých {Florin}.
+- typ: odstavec
+  de: |-
+    Item die Schanntz Pawren söllen ain Fendlin haben/darff nit kostlich sein/als ain Fůßknecht Fendlin/mit seinem Zaichen/Hawen vnd Schaufeln daran gemalt/Darzů ainen Trummenschlager/on ain Pfeyffer/den braucht man allain zu dem vmbschlagen/wenn man die Schanntzpawren brauchen will/allzumal/die oder jhene Rot/das soll der Hauptman beuelhen/Vnd wenn man sy all brauchen will/so soll der Fenndrich das Fendlin fliegen lassen/vnd auff dem Platz/da der Pawren ongefärlich am maisten beyainander seind.
+  cs: |-
+    Dále mají mít šancíři {Schanntz Pawren} praporec {Fendlin}; nemusí být tak nákladný jako praporec pěších knechtů, ale má mít své znamení – namalované motyky {Hawen} a lopaty. K tomu bubeníka {Trummenschlager} bez pištce {Pfeyffer}; toho se užívá jen k vybubnování {vmbschlagen}, když se mají šancíři povolat – všichni najednou, anebo ta či ona rota; to má nařídit hejtman. A když se mají povolat všichni, má praporečník {Fenndrich} nechat praporec vlát, a to na prostranství, kde jsou šancíři přibližně nejvíce pohromadě.
+- typ: odstavec
+  de: |-
+    Vnd der Trummenschlager/soll vmb die Quartier vnd Artelarey vmbschlahen/vnd rüffen allen Schantzpawren/zů jrem Fendlin/da werden sy beschayd finden/Bey dem Ayd soll es gebotten werden/Vnd welcher Pawr söllichs sicht vnd hört/der soll bey seinem Ayd/von stund an/zů dem Fendlin komen/mit seinem waffen/es sey Hawen/Bickeln oder Schaufeln/da wirt dann jm beschaid gegeben/Es soll auch ain yeder Pawr/sein Hawen/Bickeln/oder Schaufeln/für sich selbs haben auff seinen Costen/Er prech sy oder verliers/soll jm der Zewgwart ain annders vmb das gellt geben/Die übrigen Hawen/Schaufeln vnd Bickeln/bey sein hannden behallten/Ob es sich begebe/das man über die Pawren/noch mer arbaitter müßte haben/vnd vnder den Knechten vmbgeschlagen würd/alßdann offt geschicht/das dieselbigen Werckzeüg/darauff gewärtig sein söllen.
+  cs: |-
+    A bubeník má bubnovat po kvartýrech {Quartier} a u dělostřelectva {Artelarey} a svolávat všechny šancíře k jejich praporci, kde dostanou pokyny. Má se to přikázat pod přísahou {Ayd}. A který šancíř to uvidí a uslyší, ten má pod svou přísahou ihned přijít k praporci se svou zbraní, ať je to motyka, krumpáč {Bickeln} nebo lopata; tam pak dostane pokyny. Každý šancíř má také mít vlastní motyku, krumpáč nebo lopatu na vlastní náklad. Zlomí-li ji nebo ztratí, má mu zbrojní správce {Zewgwart} dát jinou za peníze. Zbývající motyky, lopaty a krumpáče má [zbrojní správce] držet ve svých rukou pro případ, že by bylo třeba mít kromě šancířů ještě více dělníků a vybubnovávalo by se mezi knechty {Knechten}, jak se často stává – aby bylo toto nářadí pro ten případ připraveno.
+- typ: odstavec
+  de: |-
+    Item es soll auch kain Pawr ausser dem Leger Ziehen/on des Hauptmans erlaubnuß/es sey gleich ferr oder nahend.
+  cs: |-
+    Dále nemá žádný šancíř odejít z ležení {Leger} bez hejtmanova svolení, ať daleko, nebo blízko.
+- typ: odstavec
+  de: |-
+    Item wenn sy gemustert seind/so soll jnn gellt gegeben werden/von stund an/wie andern Kriegßlewten/Es soll auch jr Monat an vnd auß gon/wie anndern Artelarey person/Vnd jre Söld söllen all gleich sein/ainem wie dem anndern/alle Monat 4 florin/Fenndrich/Rottmaister/vnnd Trummenschlaher/gillt all des ortts ainerlay Soldt/das ist 4 florin/Summa/ – 1600 florin.
+  cs: |-
+    Dále, když jsou přehlédnuti, mají ihned dostat peníze jako ostatní válečníci {Kriegßlewten}. Také jejich měsíc má začínat a končit jako u ostatních osob dělostřelectva. Jejich žoldy mají být všechny stejné, jednomu jako druhému, každý měsíc 4 zlaté; praporečník, rotmistr i bubeník mají zde všichni týž žold, totiž 4 zlaté. Součet – 1600 zlatých.[^1]
+poznamky:
+- n: 1
+  text: 400 šancířů po 4 zlatých = 1600 zlatých měsíčně; hejtmanův žold (16 zlatých) je uveden zvlášť.

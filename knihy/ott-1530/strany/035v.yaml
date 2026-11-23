@@ -1,0 +1,50 @@
+id: 035v
+list: '[35] v'
+strana: verso
+sken: 70
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ander Kriegßuerstendigen verbesserung / die zů mindern / zů meren / alles nach gestallt vnd gelegenhait der Sachen / nit nach meinem gestracken fürschlag oder anzaigen / sonder / das jhenig darauß zunemen / das ainer yeden KriegßHerrschafft / am aller gelegensten vnd dienstlichsten sein will.
+  cs: |-
+    jiní znalci válečnictví {Kriegßuerstendigen}, kteří mohou ubrat nebo přidat, vše podle povahy a okolností věci, ne striktně podle mého návrhu či ukazování; ať si každá válčící vrchnost {KriegßHerrschafft} vezme z toho to, co jí bude nejpříhodnější a nejužitečnější.
+- typ: odstavec
+  de: |-
+    Vnd das ebensouil E.G. vnd G. gethan zů ainer warnung sich vor Krieg zůhůten / als Krieg auffzurichten / Ich glaub gůtlich / man finde vil Fürsten / Grauen / Herren / vnd ander Oberkaiten / in vnsern Teütschen Landen / Hetten sy souil Vnderricht gehabt / vnd in disem Spiegel sich ersehen / was Costens vnnd Lewt es haben will / sy hetten sich noch ain weyl darob besunnen / ee sy sich in Kriegßhandlung eingelassen heten.
+  cs: |-
+    A to jsem, Vaše Milosti a Přízni, učinil stejně tak pro výstrahu, abyste se války vyvarovali, jako pro návod, jak válku vypravit. Věřím jistě, že by se v našich německých zemích našlo mnoho knížat, hrabat, pánů a jiných vrchností {Oberkaiten}, kteří – kdyby měli tolik poučení a nahlédli do tohoto zrcadla, kolik nákladů a lidí to vyžaduje – by se nad tím ještě chvíli rozmýšleli, než by se pustili do války.
+- typ: odstavec
+  de: |-
+    Wenn es aber ye gekriegt sein můß / ausser der getrangten not / zů ainer gegenwör / Dieweyl nyemants lenger frid haben mag / dann so lang sein nachpawr will / vnnd ain Herrschafft dahin genötigt / so soll ain yede Herrschafft oder Oberkait / sich vnd die seinen vnderstan bey fryden / Eer / leyb / vnd Vatterland zubehallten / Dann man gewonlich kriegt / vmb fridens willen / Daran soll man Eer / leyb vnd gůtt / ja alles vermügen / so Gott vnd die natur gegeben / hencken vnd setzen.
+  cs: |-
+    Musí-li se však přece válčit z naléhavé nouze, k obraně {gegenwör} – protože nikdo nemůže mít mír {frid} déle, než jak dlouho chce jeho soused – a je-li k tomu vrchnost donucena, má se každé panství nebo vrchnost snažit zachovat sebe i své v míru, při cti, životě a vlasti. Neboť se obvykle válčí kvůli míru; do toho se má vložit a nasadit čest, život i statek, ba všechen majetek, který dal Bůh a příroda.
+- typ: odstavec
+  de: |-
+    Söllichs vermag das Natürlich vnnd menschlich KriegßRecht / das hat vns Gott auch gegeben / Wir sehen von ainem yeden klainen würmlin / so man jm zůsetzt / das es sein gegenwör braucht / Wiewol vns Gott darneben leert / durch seinen hailigen gayst / ain annder Recht / das wir vnnserm beschediger / gůts / für sein boßhait thůn söllen / Das wer wol gůt / Es geschech dardurch Gottes will / Ich kans aber in meiner Haußhaltung nit finden / das ist mein schuld / Gott verleich vnns sein Genad darzů / Amen.
+  cs: |-
+    To připouští přirozené a lidské válečné právo {KriegßRecht}; to nám dal také Bůh. Vidíme na každém malém červíčkovi, že když se na něj dotírá, brání se. Bůh nás sice vedle toho skrze svého Ducha svatého učí jinému právu: abychom tomu, kdo nám škodí, za jeho zlobu činili dobro. To by bylo jistě dobré, dála by se tím vůle Boží; já to však ve svém domě nedokážu – to je má vina. Bůh nám k tomu uděl svou milost. Amen.
+- typ: nadpis
+  uroven: 2
+  de: Regiment vnd Stat der Fůßknecht.
+  cs: Zřízení a stav {Regiment vnd Stat} pěších knechtů {Fůßknecht}
+- typ: odstavec
+  de: |-
+    Regiment vnd Stat / der Fůßknecht / ains gewaltigen VeldZugs / so ain Römischer Kayser / Künig / oder dergleichen / Als der loblich Pundt zů Schwaben / die Stennd des Reichs / Venediger / Frantzosen / oder Engelland sein möchten etc. Mit seinem Artickelbrieff / wie alle KriegsEmpter Besetzt werden söllen / vnd was sy Schwören / vnd yedem Ampt / Auch gemainem Mann / beuolhen werden soll / Sampt der Tax jrer söld.
+  cs: |-
+    Zřízení a stav pěších knechtů velkého polního tažení {VeldZugs}, jaké by mohl vést římský císař, král nebo jim podobní, jako chvalný Švábský spolek, říšské stavy, Benátčané, Francouzi nebo Anglie atd.[^1] S jeho artikulním listem {Artickelbrieff}: jak se mají obsadit všechny válečné úřady {KriegsEmpter}, co mají přísahat a co se má uložit každému úřadu i obecnímu muži {gemainem Mann}, spolu se sazbou {Tax} jejich žoldu.
+- typ: odstavec
+  de: |-
+    Darmit alles KriegßVolck statlich erhallten werden mag / vnd der betrug aller Finantz / tödtlichen außgethan werde / der bißher bey etlichen Hauptlewten / MusterHerren / MusterSchreybern / auch vnnder dem gemainen Mann im prauch gewesen / Deßhalben den KriegßHerren vnd gemainem KriegßMan / vil schwär vnd last eruolgt ist.
+  cs: |-
+    Aby mohl být všechen válečný lid {KriegßVolck} řádně udržován a aby byl s kořenem vymýcen podvod všech fint {Finantz}, který byl dosud zvykem u některých hejtmanů {Hauptlewten}, přehlídkových komisařů {MusterHerren}, přehlídkových písařů {MusterSchreybern} i mezi obecným lidem, z čehož válečným pánům {KriegßHerren} i obecnému válečníkovi vzešlo mnoho tíže a břemene.
+- typ: odstavec
+  de: |-
+    Söllichs wirt hierinn alles verhůtt / wenn man Sturm oder Schlacht fürnemen will / das man gewißlich wiss / wie vil man lewt hab.
+  cs: |-
+    Tomu všemu se zde předchází, takže když se chce podniknout útok {Sturm} nebo bitva, ví se jistě, kolik lidí je k dispozici.
+poznamky:
+- n: 1
+  text: Švábský spolek (Schwäbischer Bund, 1488–1534) – sdružení jihoněmeckých knížat, měst a rytířstva, které vedlo vlastní války (např. 1519 proti vévodovi Ulrichovi Württemberskému, 1525 proti sedlákům); zmínka svědčí o vzniku textu před jeho rozpadem roku 1534.

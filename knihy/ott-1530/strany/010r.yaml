@@ -1,0 +1,61 @@
+id: 010r
+list: '[10] r'
+strana: recto
+sken: 19
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Wa aber der Kriegßherr/Hauptleüt/vnd ander/obgemelten last/nit auf sich nemen wöllen/so ist hierinn noch ain mittel zů sůchen/vnd das glück zů uersůchen/dardurch vil vnrat vnd verhafft der fengknuß verhůt werden/wie hernach volgt/
+  cs: |-
+    Nechtějí-li však válečný pán {Kriegßherr}, hejtmani {Hauptleüt} a ostatní vzít na sebe výše zmíněné břemeno, lze ještě hledat jiný prostředek a zkusit štěstí, jímž se lze vyhnout mnoha zlům a poutům zajetí, jak následuje.[^1]
+- typ: odstavec
+  de: |-
+    Hergegen soll auch der gefanngen/er sey Herr oder Knecht/sein trew vnd ayd/als ain eerlich biderman hallten/stedt vnd vest/wie sich ainem gefangen gebürt.
+  cs: |-
+    Naproti tomu má i zajatec, ať pán, nebo knecht {Knecht}, dodržet svou věrnost a přísahu {ayd} jako čestný a poctivý muž, stále a pevně, jak se na zajatce sluší.
+- typ: odstavec
+  de: |-
+    Wurd aber der überwinder/an dem gefanngen prüchig/vnd trib sein můtwillen an jm/mit strennger gfengknuß oder frag/als dann ist der gefanngen/dem Kriegßrecht nach/seiner pflicht vnd Ayd ledig/wa er dem überwinder auß den banden vnnd verhafft empfiel/alsdann möcht er mit eeren dem Krieg vnd Vehd/in aller massen anhangen vnd außwarten/wie vor/vnd würdt darauff/der überwinder/seiner Eeren billich geschollten.
+  cs: |-
+    Kdyby však přemožitel porušil slovo vůči zajatci a dopouštěl se na něm svévole tuhým vězením nebo mučením {frag}, je zajatec podle válečného práva {Kriegßrecht} zproštěn svého závazku a přísahy. Kdyby pak přemožiteli unikl z pout a vazby, smí se ctí zase plně účastnit války a sváru {Vehd} a sloužit v ní jako předtím; a přemožitel je pak právem haněn na cti.
+- typ: odstavec
+  de: |-
+    Wer es aber sach/das der gefanngen/bey Ritterlicher vengknuß flüchtig wurde/oder in ander weg seiner trew vnd Aid vergess/Alßdann mag der übewinder mit gestrennger Fengknuß vnd frag/der eeren vnuerletzlich/gegen jm wol handeln/vnd handeln lassen. Also wirt vernomen/wie es mit den gefangen gehandelt vnd gehallten werden soll/Vnd volgt hernach die Broueyt vnd Freyhait/wie es gehallten werden soll.
+  cs: |-
+    Kdyby se však stalo, že by zajatec z rytířského vězení {Ritterlicher vengknuß} uprchl nebo jinak zapomněl na svou věrnost a přísahu, pak s ním přemožitel může bez úhony na své cti zacházet tuhým vězením a mučením a dát tak s ním zacházet. Tak je patrné, jak se má se zajatci jednat a nakládat. Dále následuje užitek {Broueyt}[^2] a výsada {Freyhait} a jak se v nich má postupovat.
+- typ: odstavec
+  de: |-
+    So ain Feind den andern in Fengknuß schätzen will/soll kainer den andern/dem Kriegß Recht vnd prauch nach/höher schätzen/dann vmb den drittentail seiner vermügen/Soll also verstannden werden/Wa ainer Dreütausent florin werdt vermöcht/sol derselb über tausent florin nit geschätzt werden/Also auch/So er dreühundert florin vermöcht/soll derselb über hundert florin nit geschetzt werden/Darzů ist das jhenig auch verloren/das man bey jm gefunden hat.
+  cs: |-
+    Chce-li nepřítel uložit druhému ve vězení výkupné {schätzen}, nemá podle válečného práva a obyčeje nikdo nikomu uložit víc než třetinu jeho jmění. Rozumí se to tak: má-li někdo jmění v hodnotě tří tisíc zlatých {florin}, nemá mu být uloženo víc než tisíc zlatých; a stejně tak, má-li tři sta zlatých, nemá mu být uloženo víc než sto zlatých. K tomu propadá i to, co se u něho našlo.
+- typ: odstavec
+  de: |-
+    Es begibt sich offt/in kriegßleüffen/das ainer/so Viertausendt florin vermag/an seinen güttern/ain tausent nit zů wegen bringen mag/vnd solt er gleich darumb sterben/oder ander groß not leyden.
+  cs: |-
+    Ve válečných dobách se často stává, že kdo má na statcích jmění čtyř tisíc zlatých, nedokáže sehnat ani tisíc, i kdyby měl kvůli tomu zemřít nebo trpět jinou velkou nouzi.
+- typ: odstavec
+  de: |-
+    Darumb soll ain yeder Kriegßherr/oder anderer/wol bedacht/mit gůttem Rat sich fürsehen/ee er ain Krieg oder Vehd fürnympt/Vnd ob jm gleich seines erachtens/vnrecht vnd übel beschehen wär/so soll er seinem widerwärtigen dannocht auß dem weg tretten vnd entweichen/biß zů der zeyt seines widergelltens/vnd sonderlich in sachen/darob weder eer noch nutz zů erlangen ist.
+  cs: |-
+    Proto má každý válečný pán či kdokoli jiný dobře uvážit a s dobrou radou se připravit, dříve než podnikne válku nebo svár {Vehd}. A i kdyby se mu podle jeho mínění stalo bezpráví a zlé, má se svému protivníkovi přesto vyhnout a ustoupit z cesty až do doby, kdy mu to bude moci oplatit – a zvláště ve věcech, v nichž nelze dosáhnout ani cti, ani užitku.
+- typ: odstavec
+  de: |-
+    Nun ist noch ain anderer weg/bey den benöttigten der besatzungen/so die täding von den Feinden nit anzunemen ist/dermassen/wie vor oben gehört/So mag man dann das glück ferrner versůchen/dermassen/wie hernach volgt/
+  cs: |-
+    Nuže, pro posádky {besatzungen} v tísni je ještě jiná cesta, nelze-li od nepřátel dosáhnout dohody {täding} za podmínek uvedených výše: pak lze zkusit štěstí dále, a to tak, jak následuje.
+- typ: odstavec
+  de: |-
+    Item wenn man mit Eeren vnd nutz abziehen will/so soll man die besten gütter/als Sylber/gold/gelt/vnd andere Klainoter/was kostlichs ist/
+  cs: |-
+    Dále chce-li se odtáhnout se ctí a užitkem, mají se nejlepší statky, jako stříbro, zlato, peníze a jiné klenoty, co je drahocenného,
+poznamky:
+- n: 1
+  text: |-
+    Ohlášený „prostředek“ následuje až níže („Nun ist noch ain anderer weg …“); mezitím tisk vkládá pravidla o zajatcích.
+    Pořadí odstavců je v tisku zřejmě narušené, překlad je ponechává.
+- n: 2
+  text: |-
+    „Broueyt“ (jinde Proueyt) – výraz nejasný; nejspíš z Profit/Proveit: užitek, nárok na zisk z války (výkupné,
+    kořist). Překládáme jednotně „užitek“, „Freyhait“ jako „výsada“ (srov. [11] v).

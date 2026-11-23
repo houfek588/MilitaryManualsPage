@@ -1,0 +1,51 @@
+id: 012r
+list: '[12] r'
+strana: recto
+sken: 23
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    meinem fürnemen nach/ laut diser Schrifft/ Aber Ordnung zů hallten in allen sachen/ vnd vorauß in Kriegßhandlung/ Wa das nit geschicht/ so geet es offt über vnd vmb/ wie wir das gesehen haben in disem Pauren krieg/ vnd andern orten.
+  cs: |-
+    podle mého záměru, jak zní toto psaní. Pořádek je však třeba zachovávat ve všech věcech, a zvláště ve válečných záležitostech. Kde se to neděje, jde často všechno vniveč, jak jsme to viděli v této selské válce[^1] i na jiných místech.
+- typ: odstavec
+  de: |-
+    Es begegnet offt ain Feind dem anndern/ der gestallt/ des sich der widertail nit versehen hett/ Darumb ist es gůt/ das sich die Herren mit kriegßverstenndigen leüten/ die erbar seyen/ wol versehen/ die den feind im plick erkennen mügen/ seines fürnemens.
+  cs: |-
+    Často se jeden nepřítel s druhým střetne tak, že to protivník nečekal. Proto je dobré, aby se páni dobře zaopatřili poctivými znalci války {kriegßverstenndigen}, kteří dokážou nepřítele a jeho záměr prohlédnout na první pohled.
+- typ: odstavec
+  de: |-
+    Der Marckt lert kramen/ der gegenwurff lert kriegen/ vnd die not leret weg sůchen/ Armůt lert genaw vischen.
+  cs: |-
+    Trh učí kupčit, protivník učí válčit a nouze učí hledat cestu; chudoba učí pečlivě lovit ryby.[^2]
+- typ: odstavec
+  de: |-
+    Ordnung ist gůt in allen dingen/ Auß vnordnung werden offt vil grosser ding versaumt/ die da raichen zů vnüberwindtlichem vnd ewigem schaden.
+  cs: |-
+    Pořádek je dobrý ve všech věcech. Z nepořádku se často zmešká mnoho velkých věcí, a to vede k nenapravitelné a věčné škodě.
+- typ: odstavec
+  de: |-
+    Auß gůter ordnung vnd klainem vorrat/ wirt offt erhallten frucht vnd nutz/ die da raichen zů ewiger eer.
+  cs: |-
+    Z dobrého pořádku a z malé zásoby se často získá užitek a prospěch, které vedou k věčné cti.
+- typ: odstavec
+  de: |-
+    Item in yeder Pollicey vnd gemainer versamlung/ es sey in der Fürsten vnd Herrn Lender/ oder in den Stetten des Reichs/ ist gůt/ vnd nit das wenigest kriegßstuck/ ain manzucht zů hallten/ das ist/ geleicher schirm/ gleicher vertrag/ vnd gleiche straff/ Wa gonst vnd aigner nutz gepraucht wirt/ mag kain Regiment erhallten werden/ So bald man Freündtschafft/ Schwagerschafft/ Geuatterschafft/ Gesellschafft in Oberkaiten vnd VogtAmpt verschont/ ist die recht wurtzel/ darauß meer böswichter dann biderleüt wachsen/ Darumb ist gůt ainer yeden Oberkait/ dieweyl sy den gewallt von Gott vnd oben herab haben/ mit dem Hencker zů kriegen/ dann mit höres crafft/ so mag vil vnschuldigs blůt erspart werden/ darzů groß gůt/ das man sonst in ander weg zů Gottes lob/ eer vnd gemainem nutz brauchen mag.
+  cs: |-
+    Dále v každém veřejném řádu {Pollicey} a obecném společenství, ať v zemích knížat a pánů, nebo v říšských městech, je dobré – a není to nejmenší z válečných věcí {kriegßstuck} – zachovávat kázeň {manzucht}, to jest stejnou ochranu, stejné urovnávání sporů[^3] a stejný trest. Kde se dá na přízeň a vlastní prospěch, nemůže obstát žádné zřízení {Regiment}. Jakmile vrchnosti a fojtské úřady šetří [provinilce] kvůli příbuzenství {Freündtschafft}, švagrovství, kmotrovství a kamarádství, je to pravý kořen, z něhož roste víc lotrů než poctivých lidí. Proto je pro každou vrchnost {Oberkait} – protože má moc od Boha a shůry – lépe vést válku katem {Hencker} než silou vojska.[^4] Tak se může ušetřit mnoho nevinné krve, a k tomu i mnoho jmění, které lze jinak použít ke chvále Boží, ke cti a k obecnému prospěchu.
+poznamky:
+- n: 1
+  text: |-
+    Německá selská válka 1524–1526 (Bauernkrieg); zmínka „v této selské válce“ ukazuje, že text vznikl krátce po ní.
+- n: 2
+  text: |-
+    Řada přísloví. „Gegenwurf“ – protivník, odpor. „Genau fischen“ – lovit důkladně, šetrně, tj. chudoba učí vytěžit i z mála.
+- n: 3
+  text: |-
+    „gleicher vertrag“ – doslova „stejná smlouva“; patrně stejné urovnávání sporů (smír), případně stejná snášenlivost (vertragen) ke všem.
+- n: 4
+  text: |-
+    „höres crafft“ = Heeres Kraft. Smysl – vrchnost má raději včas a nestranně trestat zločince katem, než aby nekázeň přerostla v nepokoje (narážka na selskou válku), které se pak musí potlačovat vojskem.

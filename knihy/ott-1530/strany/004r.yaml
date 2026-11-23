@@ -1,0 +1,60 @@
+id: 004r
+list: '[4] r'
+strana: recto
+sken: 7
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Wölche die yetzgemelte Artickel schweren/söllen die mit jren waren trewen hallten/vnzerprochen/stet vnd vest darbey beleyben/ee jr leben verliern/ee Sy deren ainen oder mer/geferlicher weiß/wegern oder zerprechen wöllten/als Sy wöllen jne Got der allmechtig helffe.
+  cs: |-
+    Kdo právě uvedené články {Artickel} odpřisáhnou, mají je na svou pravou věrnost dodržovat neporušeně, stále a pevně při nich setrvat a raději ztratit život, než aby jeden z nich nebo více úmyslně odmítli nebo porušili. Tak jim pomáhej Bůh všemohoucí.
+- typ: odstavec
+  de: |-
+    Item so yemandts vermercket/das sich der ander/er were groß oder klain hanß/geferlich hiellt/mit worten oder wercken/darauß der Herrschafft oder gantzer Besatzung schaden oder nachtail eruolgen möcht/das soll bey dem Ayd/der Oberkait/angezaigt werden/Doch so soll der zůhörer/so es sich vngeuerlich mit wortten begebe/zu fordrist fragen/Průder/wie mainst du die red? sy seind übellauttend/stee söllicher wortt ab/ich müst sy sonst an die ort bringen/da sy hingehörig/vnd du wol waist das ich es thů in brůderlicher warnung/Will es dann nit frucht wircken/so wayßt ain yeder/söllichs den Hauptleüten oder Obersten wol anzuzaigen.
+  cs: |-
+    Dále postřehne-li někdo, že se jiný – ať velký, nebo malý Honza[^1] – chová slovy nebo skutky nebezpečně, takže by z toho mohla vzejít škoda nebo újma vrchnosti nebo celé posádce {Besatzung}, má to pod přísahou {Ayd} oznámit vrchnosti. Stane-li se to však slovy a bez zlého úmyslu, má se ten, kdo to slyší, nejprve zeptat: „Bratře, jak tu řeč myslíš? Zní zle. Upusť od takových slov, jinak bych je musel donést tam, kam patří. A dobře víš, že to dělám z bratrského varování.“ Nepřinese-li to pak užitek, ví každý dobře, že to má oznámit hejtmanům {Hauptleüten} nebo plukovníkům {Obersten}.
+- typ: odstavec
+  de: |-
+    Item so das Schloss belegert wurde/soll kainer mitt der veinde Ernhold/trumettern oder andern/gesprech hallten/on des öbersten wissen oder beuelch.
+  cs: |-
+    Dále kdyby byl hrad obležen, nikdo nemá bez vědomí nebo rozkazu plukovníka {öbersten} rozmlouvat s nepřátelskými herolty {Ernhold}, trubači {trumettern} ani s jinými.
+- typ: odstavec
+  de: |-
+    Es soll auch kainer in diser besatzung aincherlay brieff hinsenden/er gehör gleich wem er wöll/er sey offen oder zůgeschlossen/der öberst habe jn dann zůuor gelesen/vnd sein gewonlich handtzaichen fürgestellt.
+  cs: |-
+    Také nikdo v této posádce nemá odesílat jakýkoli list, ať patří komukoli a ať je otevřený, nebo zapečetěný, leda by jej plukovník předtím přečetl a připojil k němu svůj obvyklý podpis {handtzaichen}.
+- typ: odstavec
+  de: |-
+    Item es soll auch kainer ausser dem Schloss/weder tags oder nachts geen/on des öbersten wissen oder willen/vnd on ain gestempfft bollet/auch namen des/der sy brauchen soll/Er habe zů schaffen was er wöll/Er sey gleich des öbersten diener oder ain anderer.
+  cs: |-
+    Dále nemá nikdo vycházet z hradu ve dne ani v noci bez vědomí nebo vůle plukovníka a bez orazítkované propustky {bollet}, na níž je i jméno toho, kdo ji má použít – ať má na práci cokoli a ať je to sluha plukovníka, nebo kdokoli jiný.
+- typ: odstavec
+  de: |-
+    Item der Oberst sol all nacht/die bolleten/von dem/der desselben tages Hauptman vnder der porten gewesen/nemen.
+  cs: |-
+    Dále má plukovník každou noc převzít propustky od toho, kdo byl ten den hejtmanem u brány.
+- typ: odstavec
+  de: |-
+    Item man soll kainen frembden in das Schloss lassen/weder zu roß oder fůß/Dann es seind vil sachen/darinn man mag vor dem thor abfertigung thůn.
+  cs: |-
+    Dále se nemá do hradu vpouštět žádný cizinec, ani na koni, ani pěšky. Mnoho věcí se totiž dá vyřídit před branou.
+- typ: odstavec
+  de: |-
+    Begebe es aber sich der gestalt/das man ye ainen hinein müste lassen/so soll man das pferdt von jm nemen/vnd das ainem beuelhen/der jms wol versorg/vnd den gast in ain stuben oder gemach füren/darinnen er beleybe/vnd des Schloß wör/auch geprauch nit sehen oder lernen lassen/biß er gefertigt wirt/so kan er weder geuerlichs oder vngeuerlichs kuntschafft geben/wie es vmb das Schloss stee/darnach jn wider den nechsten hinauß gefürt/Er sey trumeter/Ernhold/oder andere Post.
+  cs: |-
+    Stalo-li by se však, že by bylo nutné někoho dovnitř přece jen vpustit, má se mu vzít kůň a svěřit někomu, kdo se o něj dobře postará. Hosta je třeba zavést do světnice nebo komnaty, kde má zůstat, a nenechat ho vidět ani poznat obranu {wör} hradu ani jeho zvyklosti, dokud nebude vyřízen. Tak nemůže ani úmyslně, ani neúmyslně podat zprávu o tom, jak to s hradem vypadá. Potom ať je nejkratší cestou zase vyveden ven, ať je to trubač, herold nebo jiný posel.
+- typ: odstavec
+  de: |-
+    Item so nun das Schloss besetzt ist/mit seiner gepürlichen vnd rechter maß/oder anzal der manschafft/mit aller Brouand wol gespeißt/vnd über die zeyt/darinn es gerött werden mag.
+  cs: |-
+    Dále když je tedy hrad obsazen náležitým a správným počtem mužstva a dobře zásoben veškerým proviantem {Brouand}, a to na delší dobu, než za jakou může být vysvobozen.[^2]
+poznamky:
+- n: 1
+  text: |-
+    „Er were groß oder klain hanß“ – doslova „ať by to byl velký, či malý Hans“, tj. kdokoli, vysoký i nízký.
+- n: 2
+  text: |-
+    Věta je v tisku neúplná (chybí hlavní věta); zřejmě má uvádět následující oddíl o potřebných osobách v posádce
+    (list [4] v).

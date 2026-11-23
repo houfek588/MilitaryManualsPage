@@ -1,0 +1,43 @@
+id: 032r
+list: '[32] r'
+strana: recto
+sken: 63
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    finden lassen / oder bey des Zewgmaisters SchmidZeüg wagen. Tax jrer Söld / Des Monats / ainem 6 florin / thůt in Summa / – 18 florin.
+  cs: |-
+    nebo u zbrojmistrova {Zewgmaisters} vozu s kovářským nářadím {SchmidZeüg wagen}. Sazba {Tax} jejich žoldu {Söld}: každému měsíčně 6 zlatých {florin}, v součtu – 18 zlatých.
+- typ: odstavec
+  de: |-
+    Item mer Zwen Redermacher / die söllen auch im Ziehen / bey dem grossen Geschütz / oder jren Werckzeügwägen gewärttig sein / ob es not geschech / das man müßt Reder anstossen / vnd die andern hinwegthůn / das sy bey der handt seyen / Vnd sonst alles das / das jn beuolhen wirt zumachen / es seyen Reder / ächsen / deychseln / vnd annders / das zu wägen gehört / Sy söllen auch den Schnellern / die Büchsen helffen schmieren. Tax jrer Söld / des Monats 6 florin / thůt in Summa / – 12 florin.
+  cs: |-
+    Dále ještě dva koláře {Redermacher}. I ti mají být na pochodu v pohotovosti u velkých děl {Geschütz} nebo u svých vozů s nářadím, aby byli po ruce, kdyby bylo třeba nasadit [nová] kola a ta druhá sejmout. Jinak [mají zhotovit] vše, co se jim uloží, ať jsou to kola, nápravy, oje nebo jiné věci, které k vozům patří. Mají také pomáhat zvedačům {Schnellern} mazat děla. Sazba jejich žoldu: [každému] měsíčně 6 zlatých, v součtu – 12 zlatých.
+- typ: odstavec
+  de: |-
+    Item ain Fassbinder / soll auch versoldt werden / Tax / des Monats / – 6 florin.
+  cs: |-
+    Dále se má na žold přijmout také bednář {Fassbinder}. Sazba: měsíčně – 6 zlatých.
+- typ: odstavec
+  de: |-
+    Item es söllen auch alle Artelarey person / sy seyen Hoch oder Nider / zu Ross oder Fůß / sich vnder kain anndern Hauptman oder Fendlin / mustern lassen / Sold da vnd dort anzunemen / Alßdann vormals in etlichen Veldzügen beschehen ist / Das ainer bey der Artelarey / Sold vnd Dienst gehabt / vnnd hat sich darneben vnder ainem andern Hauptman auch schreyben lassen / ja etwan vnder 2 oder 3 Fendlin gellt genomen / Ergegen widerum / haben etlich / so vnder den Fůßhauptlewten gelegen / dienst von dem Zewgmaister begert / vnd angenomen / von wegen jrer Handtwerck / oder etwan Büchsenmaister Sold angenomen / vnd den dienst vnder seinem Fendlin darzů behallten / Das ist aber nit recht / vnnd haißt recht / die Herren betrogen / oder mit vrlaub zuschreyben / mit seinem bessern teütsch / beschissen vmb jr gelt.
+  cs: |-
+    Dále se žádné osoby dělostřelectva {Artelarey}, ať vysoké nebo nízké, jízdní nebo pěší, nemají dávat zapsat při přehlídce {mustern} pod jiného hejtmana {Hauptman} nebo praporec {Fendlin}, aby braly žold tu i tam. Tak se totiž dříve na některých taženích {Veldzügen} stávalo, že někdo měl žold a službu u dělostřelectva, a vedle toho se dal zapsat ještě pod jiného hejtmana, ba někdy bral peníze pod dvěma nebo třemi praporci. A naopak si někteří, kteří stáli pod pěšími hejtmany {Fůßhauptlewten}, žádali u zbrojmistra o službu kvůli svému řemeslu a dostali ji, nebo snad přijali puškařský {Büchsenmaister} žold, a k tomu si ještě ponechali službu u svého praporce. To však není správné a právem se tomu říká pány podvádět, nebo – s dovolením napsáno – lepší němčinou: obesrat je o peníze.[^1]
+- typ: odstavec
+  de: |-
+    Darauß eruolgt / das die Herrn zů vil zeyten groß gellt außgeben / vnd in der not / wenig Lewt haben / Wenn ainer soll bey dem Geschütz gewärtig sein / so ist er vnder seinem Fendlin / bey Hůt oder Wach / oder an der Muster / das vnuerdient gellt einzunemen / So begibt es sich auch offt / das vmbgeschlagen wirt / das ain yegklicher bey dem Ayd / zů seinem Fendlin komen soll / von stund an / etwas zůuerkünden / oder etwas zuhandeln / Deßgleichen laßt auch etwan auf ain söliche stund / der Zeügmaister vmbschlagen / vnd erfordert all Artelareyperson / bey jren Ayden auf den Platz für sein Losament zukomen / Da gesah man nye hüpscher Gesellen / oder solt sagen / hässlicher Bößwicht / dann das ainer ain Ayd schwört dem Hauptman / vnd dem andern auch / vnd kain hallten kan.
+  cs: |-
+    Z toho plyne, že páni často vydávají velké peníze, a když přijde nouze, mají málo lidí. Když má někdo být v pohotovosti u děl, je u svého praporce na stráži či hlídce {Hůt oder Wach} nebo na přehlídce {Muster}, aby shrábl nezasloužené peníze. Také se často stává, že se vybubnuje {vmbgeschlagen}, aby každý pod svou přísahou {Ayd} ihned přišel ke svému praporci, protože se má něco vyhlásit nebo projednat. A právě v takovou hodinu dá někdy také zbrojmistr vybubnovat a povolá všechny osoby dělostřelectva pod jejich přísahou, aby přišly na prostranství před jeho ubytování {Losament}. Tu jste nikdy neviděli hezčí chlapíky – nebo lépe řečeno ošklivější ničemy –, než když jeden přísahá hejtmanovi i tomu druhému a nemůže dostát ani jedné [přísaze].
+- typ: odstavec
+  de: |-
+    Deßhalben wär manchem Kriegßman not / das er nit allain 3 fältig wär / wie Gott vnser Herr / man findt manchen / wöllt er aim biderman gleich sein / er wäre 4 oder 5 fältig / nit allain Gott Vatter / Sun / vnd Hailiger Gaist / sonnder auch Můtter vnd Dochter dartzů. Ich hab selb ainen kennt / der hett vnnder 13 Fendlin Sold / auff ainem VeldZug /
+  cs: |-
+    Proto by mnohý válečník {Kriegßman} potřeboval být nejen trojí jako Bůh, náš Pán. Najde se i takový, který by – kdyby se chtěl rovnat poctivému muži – musel být čtverý nebo paterý: nejen Bůh Otec, Syn a Duch svatý, ale k tomu ještě Matka a Dcera.[^2] Sám jsem znal jednoho, který na jednom polním tažení {VeldZug} bral žold pod 13 praporci.
+poznamky:
+- n: 1
+  text: „beschissen“ – hrubé, ale dobově běžné slovo pro podvedení; autor se za ně omlouvá formulí „mit vrlaub zuschreyben“ a ironicky je nazývá „lepší němčinou“, tj. řečí bez obalu.
+- n: 2
+  text: Satirická narážka na Trojici – kdo je zapsán u dělostřelectva i u několika praporců, musel by být na několika místech najednou; „Matka a Dcera“ jsou žertovné rozšíření Trojice.

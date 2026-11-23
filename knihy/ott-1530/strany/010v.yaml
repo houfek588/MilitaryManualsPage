@@ -1,0 +1,58 @@
+id: 010v
+list: '[10] v'
+strana: verso
+sken: 20
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    so vil müglich/zů treyben vnd tragen/Doch/das es an der wör oder hinkomen/nit zů verhinderung raich/es seye von des Herren/oder den geflehneten güttern/Das alles/soll dem Herrn zůgestellt werden/bey verliesen der Eeren/vnd leybs straff.
+  cs: |-
+    pokud možno odvézt a odnést, avšak tak, aby to nebylo na překážku obraně {wör} ani odchodu – ať jde o statky pánovy, nebo o statky na hrad uschované. To vše má být odevzdáno pánovi pod ztrátou cti a pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Wer es aber sach/das er darmit hinweg kem/vnd fünd sich augenscheinlich/das ainer etwas abgetragen hett/soll jn/yeder vnd manigklich für ain Schelmen schellten vnd hallten/Auch zů eerlichen geschefften vnd sachen nymmermer brauchen/auch kain Glaytt/im gantzen Reich als ain mainaydiger vnd dieb/an seinem Herren gerechtfertigt werden.
+  cs: |-
+    Kdyby se však stalo, že by se s tím někdo dostal pryč, a zjevně by se ukázalo, že něco odnesl [pro sebe], má jej každý a všichni hanět a pokládat za šelmu {Schelmen} a nikdy už jej nepoužívat k čestným úkolům a věcem. V celé říši nemá mít žádný glejt {Glaytt} a má být souzen jako křivopřísežník a zloděj, který okradl svého pána.
+- typ: odstavec
+  de: |-
+    Item man soll auch alle Büchsen laden/wenn man sy abschieß/das sy zerspringen/vnd kaine gantz beleyb.
+  cs: |-
+    Dále se mají všechna děla {Büchsen} nabít tak, aby se při výstřelu roztrhla a žádné nezůstalo celé.
+- typ: odstavec
+  de: |-
+    Item man soll auch alles Puluer dahin setzen vnd anleüff machen/wenn man hinauß kom/das es darnach in ainer stund oder zwo von jm selbs anzündt/vnd die sterckisten Wörinen oder Gebew zerreyß/So gond die Büchsen/so man anleüff vnd zündtstrick kurtz vnd lanng darzů legt/auch von jn selb ab/vnd zerbrechen.
+  cs: |-
+    Dále se má všechen prach {Puluer} uložit na [vhodné] místo a připravit k němu stopiny {anleüff}, aby se, až se vyjde ven, za hodinu nebo dvě sám zapálil a roztrhal nejsilnější obranná místa {Wörinen} nebo budovy. Přiloží-li se k dělům stopiny a doutnáky {zündtstrick}, krátké i dlouhé, vystřelí také sama od sebe a roztrhají se.
+- typ: odstavec
+  de: |-
+    Item man soll auch alle überige gütter/so man nit hinweg bringen mag auß den gewölben/über ain hauffen ziehen/die mit holtz/hew vnd stro spicken/vnd wol puluern/mit zündtstricken vnd anleüffen beraitten/das zündt sich auch selb an.
+  cs: |-
+    Dále se mají všechny zbylé statky, které nelze odnést, vytáhnout ze sklepení na hromadu, prošpikovat dřívím, senem a slámou, dobře posypat prachem a opatřit doutnáky a stopinami; i to se pak zapálí samo.
+- typ: odstavec
+  de: |-
+    Item man soll auch alle büchsen vmmwenden gegen dem wandel im schloß wie man dartzů geet/so die Veind hinein komen/möchten sy den veinden für sich selbs schaden thůn/so hetten sy auch jr beüt gewunnen/Vnd geet also Büchsen/Puluer/Gütter/Vogel vnd nest mit ainander hinweg.
+  cs: |-
+    Dále se mají všechna děla obrátit proti průchodům {wandel} na hradě, kudy se k nim přichází. Když nepřátelé vniknou dovnitř, mohou jim [děla] sama od sebe uškodit; a tak by „získali svou kořist“. Tak zajde všechno pospolu: děla, prach, statky, pták i hnízdo.
+- typ: odstavec
+  de: |-
+    Man mag auch in ettlichen stuben vnd gemechen liechter prennen lassen/das man im veld nit gedencken müg/das das Schloß on lewtt sey/Alßdann söllen sy Zaichen vnd Loß machen/wenns hinauß komen/vnd die Schilltwach treffen/das sy ainander bey Zaichen vnd haimlichem Loß erkönnen möchten.
+  cs: |-
+    V některých světnicích a komnatách lze také nechat hořet světla, aby se v poli nedalo pomyslit, že je hrad bez lidí. Potom si mají [odcházející] stanovit znamení a heslo {Loß}, aby se, až vyjdou ven a narazí na [nepřátelskou] stálou stráž {Schilltwach}, mohli navzájem poznat podle znamení a tajného hesla.
+- typ: odstavec
+  de: |-
+    Item sy söllen in ainer grossen still hinauß ziehen/vnnd kundtschaffter mit sondern Zaichen verordnen/die steg vnd weg wissen von veinden zů füren/darauff soll Trummenschlager vnd Fenndrich ain auffsehen haben/den Fenndrich mag man mit seinem Zaichen bey der nacht sehen/vnd den Trummenschlager hören.
+  cs: |-
+    Dále mají vytáhnout ven ve velkém tichu a ustanovit zvědy {kundtschaffter} se zvláštními znameními, kteří znají stezky a cesty, aby je vedli pryč od nepřátel. Na ně má dávat pozor bubeník {Trummenschlager} a praporečník {Fenndrich}; praporečníka lze v noci vidět podle jeho znamení a bubeníka slyšet.
+- typ: odstavec
+  de: |-
+    Vnd söllen kainen Lerman machen/Es begeb sich dann/das die Schilltwach laut wurd/Alßdann soll der Trumenschlager trostlich ainen Lerman schlagen/vnd mit ainhelligem geschray/Her/her/her/Stich todt/stich todt/So fellt die wach dahin/dem Leger zů/Mit jrem geschray vnd lerman/dem söllen sy nit nachuolgen/vnd bald wider ain still machen/vnd den nechsten bald wider hinweg trachten/Vnd der trumenschlager soll ye bey der weyl mit klainen straichlein die Trumen rüren/so mügen die verlauffen knecht sich demselbigen widerumm nachrichten hinweg zů komen.
+  cs: |-
+    A nemají dělat žádný poplach {Lerman}, leda by se [nepřátelská] stálá stráž ozvala. Pak má bubeník odvážně vybubnovat poplach a [všichni mají] jednohlasně křičet: „Sem, sem, sem! Bodni, zabij! Bodni, zabij!“[^1] Stráž pak se svým křikem a poplachem uteče do [nepřátelského] ležení {Leger}. Za ní nemají jít, nýbrž mají brzy zase utichnout a hledět co nejkratší cestou pryč. A bubeník má občas lehkými údery zavířit na buben; podle něj se pak rozptýlení knechti {knecht} mohou zase řídit, aby se dostali pryč.
+poznamky:
+- n: 1
+  text: |-
+    „Her, her, her, Stich todt“ – válečný pokřik lancknechtů („sem, sem, bodni [ho] mrtvého“); má nepřátelskou stráž
+    zastrašit dojmem silného útoku.

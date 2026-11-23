@@ -1,0 +1,89 @@
+id: 039v
+list: '[39] v'
+strana: verso
+sken: 78
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Vnd ob sich zwischen gemelltem Hauptman / vnd N. obgemellts seines Diensts vnd bestallung halben / irrung begebe / deren sy sich gůtlich nit vertragen kündten / Vmb solliche irrung / soll N. vnd N. samentlich / oder durch den mertail / endtlich / vnnd on alle wägerung zuentschaiden haben / Vnnd soll gedachter Oberster Hauptman N. Monat bestellt sein / vnd 30 tag für ain Monat gerechnet werden / vnd jm yedes Monats für seinen Hauptmans Sold N. Reinischer Florin / gegeben / Vnnd sein sold / wie des anndern KriegßVolck / am N. tag / schierst angeen / vnnd in N. Monat für den Abzug gerechnet werden.
+  cs: |-
+    A kdyby mezi řečeným hejtmanem a N. vznikl spor {irrung} kvůli jeho výše zmíněné službě a služebnímu listu {bestallung}, na němž by se nemohli smírně dohodnout, mají o takovém sporu N. a N. společně nebo většinou {mertail} s konečnou platností a bez jakéhokoli zdráhání rozhodnout. Řečený nejvyšší hejtman {Oberster Hauptman} má být najat na N. měsíců, přičemž se 30 dní počítá za měsíc, a každý měsíc mu má být dáno za jeho hejtmanský žold {Hauptmans Sold} N. rýnských zlatých {Reinischer Florin}. A jeho žold má, stejně jako žold ostatního válečného lidu {KriegßVolck}, začít běžet nejbližšího N. dne a N. měsíc se má počítat jako odchodné {Abzug}.
+- typ: odstavec
+  de: |-
+    Zů dem soll man jm geben des Monats N. Reinischer florin / auff sein Kamerwagen / Zwölff Trabanten / soll er auß andern Ainfachen besoldten Knechten nemen / Der yedem soll deßhalben alle Monat / noch ain Sold gegeben werden.
+  cs: |-
+    K tomu se mu má dávat měsíčně N. rýnských zlatých na jeho komorní vůz {Kamerwagen}.[^1] Dvanáct drabantů {Trabanten} si má vzít z jiných knechtů s jednoduchým žoldem {Ainfachen besoldten Knechten}; každému z nich se má proto dávat každý měsíc ještě jeden žold {Sold} navíc.
+- typ: tabulka
+  de:
+  - - Seinem Schreyber
+    - '3'
+    - Sold
+  - - Seinem Tolmätschen
+    - '2'
+    - ''
+  - - Seinem Spil
+    - '4'
+    - ''
+  - - Seinem Caplan
+    - '2'
+    - ''
+  cs:
+  - - Jeho písaři {Schreyber}
+    - '3'
+    - žoldy
+  - - Jeho tlumočníkovi {Tolmätschen}
+    - '2'
+    - ''
+  - - Jeho hudbě {Spil}
+    - '4'
+    - ''
+  - - Jeho kaplanovi {Caplan}
+    - '2'
+    - ''
+- typ: odstavec
+  de: |-
+    Item so es von nötten / das man jm ain Lutinanten bestellen müß / soll er jn auß den VnderHauptlewten der Knecht nemen / Demselbigen soll derhalb / sein besoldung dupliert werden / Neme aber der Oberst Hauptman solich sein Lutinanten / nit auß andern bestellten VnderHauptlewten / soll man jm doch nit mer / dann ainem andern / söllichem Hauptman geben / Vnd solliche obgemellte Artickel all / so der Hauptman N. oder von seintwegen darzů verordnet zuhallten / schwören / Auch derhalb / nach laut obgemellter Artickel / BestellBriefe vnd Reuerß / nemen vnd geben.
+  cs: |-
+    Dále bude-li třeba ustanovit mu poručíka {Lutinanten}, má ho vzít z podřízených hejtmanů {VnderHauptlewten} knechtů; tomu se má proto jeho žold {besoldung} zdvojnásobit. Nevezme-li však nejvyšší hejtman takového svého poručíka z jiných najatých podřízených hejtmanů, nemá se mu přesto dávat více než jinému takovému hejtmanovi. A všechny tyto výše řečené artikuly {Artickel} má hejtman přísahat N. nebo tomu, kdo je k tomu jeho jménem ustanoven, že je bude dodržovat; a také si mají podle znění výše řečených artikulů vzájemně vydat a přijmout služební listy {BestellBriefe} a reversy {Reuerß}.
+- typ: odstavec
+  de: |-
+    Nota / was dem Obersten Hauptman auff sein Person vnd Tafel / yedes Monats für Besoldung gegeben werden soll.
+  cs: |-
+    Poznámka {Nota}: co se má nejvyššímu hejtmanovi dávat každý měsíc jako žold na jeho osobu a stůl {Tafel}.[^2]
+- typ: odstavec
+  de: |-
+    Nun dem Obersten Hauptman soll aller VnderEmpter vnnd Dienstlewt Bestallung vnd Pflicht / verzaichnet / gegeben werden.
+  cs: |-
+    Nyní má být nejvyššímu hejtmanovi dán soupis služebních listů {Bestallung} a povinností {Pflicht} všech nižších úřadů {VnderEmpter} a služebníků.
+- typ: nadpis
+  uroven: 2
+  de: Von bestallung der VnderHauptleüt / über ain Fendlin Knecht.
+  cs: |-
+    O služebním listu podřízených hejtmanů {VnderHauptleüt} nad praporcem knechtů
+- typ: odstavec
+  de: |-
+    Item es ist für gůtt angesehen / das ain yeder VnderHauptman / nit über ain Fendlin Knecht füren / Vnd das ain yedes Fendlin 400 knecht nach den Personen gerechnet / hab.
+  cs: |-
+    Dále se pokládá za dobré, aby každý podřízený hejtman nevedl víc než jeden praporec {Fendlin} knechtů a aby každý praporec měl 400 knechtů, počítáno podle osob.[^3]
+- typ: odstavec
+  de: |-
+    Item wiewol es bißher der brauch nit gewest / So wirts doch für nütz vnd gůt angesehen / Welcher Hauptman / von des N. wegen / ain Fendlin Knecht zufüren angenomen hat / das mit demselben ain Bestallung gemacht werd / auff nachuolgende maß vnd Artickel.
+  cs: |-
+    Dále ačkoli to dosud nebývalo zvykem, pokládá se přece za užitečné a dobré, aby s každým hejtmanem, který se jménem N. podjal vést praporec knechtů, byl uzavřen služební list {Bestallung} podle následující míry a artikulů.
+- typ: odstavec
+  de: |-
+    Namlich / das jr yedem ain Artickel oder Geschrifft des ArtickelBriefs / den die Knecht Schwören söllen / auch darbey / wes die Herrschafft / vnd
+  cs: |-
+    Totiž: že každému z nich [bude vydán] artikul čili opis {Geschrifft} artikulního listu {ArtickelBriefs}, který mají knechti přísahat, a k tomu [sdělení], které úřady má panstvo {Herrschafft} a
+poznamky:
+- n: 1
+  text: |-
+    Komorní vůz (Kammerwagen) – zavazadlový vůz s osobními věcmi a pokladnou velitele.
+- n: 2
+  text: |-
+    Věta je v tisku samostatná a není za ní uvedena žádná částka – patrně jde o nadpis nedoplněné položky (formulář).
+- n: 3
+  text: |-
+    Tj. 400 hlav, nikoli 400 žoldů – dvojžoldnéř se počítá jako jedna osoba.

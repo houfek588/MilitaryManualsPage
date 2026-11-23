@@ -1,0 +1,73 @@
+id: 038r
+list: '[38] r'
+strana: recto
+sken: 75
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nachwurff / auch yemant steche / oder ligend hüwe / es wär vor oder nach dem Friden / der soll gestrafft werden an seinem leyb.
+  cs: |-
+    po něm hodili, nebo někoho bodli či ležícího sekli, ať před vyhlášením míru {Friden}, nebo po něm, ten má být potrestán na těle.
+- typ: odstavec
+  de: |-
+    Es soll kainer kain Meyterey / Auflauff / Auffrůr / oder Lerman machen / Welcher aber in sollichem vngeschickt vnd verachtlich wär / soll sonder on alle genad gestrafft werden / nach erkantnuß der Hauptlewt.
+  cs: |-
+    Nikdo nemá způsobit vzpouru {Meyterey}, srocení {Auflauff}, vzbouření {Auffrůr} ani poplach {Lerman}. Kdo by se však v tom choval nepatřičně a pohrdavě, má být bez jakékoli milosti potrestán podle uvážení hejtmanů {Hauptlewt}.
+- typ: odstavec
+  de: |-
+    Wa ainer oder mer innen wurden / das ainer Verrätterey / oder ander böse stuck tryb / die wider N. oder jrer N. verordenten Obersten Hauptlewt wären / der soll das dem Prouosen anzaigen / mit dem er dann nach beuelch des Obersten Hauptmans / zuhandeln hat.
+  cs: |-
+    Kdyby se jeden nebo více [lidí] dozvěděli, že někdo provádí zradu nebo jiné zlé kusy, které by byly proti N. nebo proti nejvyšším hejtmanům, jež Jejich N. ustanovil, má to oznámit profousovi {Prouosen}; ten pak s ním má naložit podle rozkazu nejvyššího hejtmana {Obersten Hauptmans}.
+- typ: odstavec
+  de: |-
+    Es soll kainer auß dem Leger ziehen / weder auf die beüten oder anderßwahin / on seins Hauptmans wissen vnd willen / bey leybs Straff.
+  cs: |-
+    Nikdo nemá vytáhnout z ležení {Leger}, ať za kořistí {beüten}, nebo jinam, bez vědomí a vůle svého hejtmana, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Es soll auch kainer mit den Veinden Sprach hallten / on des öbersten wissen / in kainerlay weg.
+  cs: |-
+    Také nemá nikdo v žádném případě vést s nepřáteli rozhovory bez vědomí vrchního velitele {öbersten}.
+- typ: odstavec
+  de: |-
+    Item wa Raisig oder Fůßknecht in ainem Leger bey ainander ligen / so söllen die Knecht / zů zimlicher notdurfft weichen / darmit das die Raysigen jre Pferdt vnderbringen mügen / vnd sich mit ainander leyden.
+  cs: |-
+    Dále kde leží jezdci {Raisig} a pěší knechti {Fůßknecht} spolu v jednom ležení, mají knechti v náležité míře ustoupit, aby jezdci mohli ustájit své koně, a mají se navzájem snášet.
+- typ: odstavec
+  de: |-
+    Item es soll sich auch ain yeder / wie er von seinem Rott oder Vierdtail maister Losiert wirt / desselben orts benügen lassen / vnd sich fridlich vnd gůtlich betragen.
+  cs: |-
+    Dále se má každý spokojit s místem, kam ho jeho rotmistr nebo čtvrtmistr {Rott oder Vierdtail maister} ubytuje {Losiert}, a chovat se pokojně a vlídně.
+- typ: odstavec
+  de: |-
+    Item es soll kainer an gefärlichen ortten / sonderlich bey der nacht / abschiessen / es sey jm Leger / Steten oder Schlössern / dardurch schaden entston oder lerman verursacht werden möcht / bey vermeidung leybs straf.
+  cs: |-
+    Dále nemá nikdo na nebezpečných místech, zvláště v noci, vystřelit, ať v ležení, ve městech nebo na hradech, čímž by mohla vzniknout škoda nebo být způsoben poplach, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item es soll kainer kain Mül beschedigen / noch kainerlay daran zerrütten oder zerreyssen / on beuelch des Obersten / bey leybs straff.
+  cs: |-
+    Dále nemá nikdo poškodit žádný mlýn ani na něm nic rozbít nebo strhnout bez rozkazu vrchního velitele {Obersten}, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Es soll kainer in kainerlay weg / Brandtschatzen / noch Brennen / auch kain Leger anzünden / on des Obersten beuelch / bey leybs straff.
+  cs: |-
+    Nikdo nemá žádným způsobem vybírat výpalné {Brandtschatzen} ani pálit, ani zapálit ležení bez rozkazu vrchního velitele, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Item wa ainer oder mer wären / der oder die ain Flucht machten im veld oder sonnst in Schlachten / oder Scharmützeln / so soll der nechst / der jn erraichen möcht / in jn stechen oder zutodtschlagen / darmit nichts verwirckt / sonnder jme grosser danck gsagt werden / Wa aber derselbigen ainer entlieff / so soll er den Herren vnnd Hauptlewten angezaigt werden / darmit er zu ainem Schelmen erkennt werde.
+  cs: |-
+    Dále kdyby se jeden nebo více [lidí] dali na útěk v poli nebo jinak v bitvách či šarvátkách {Scharmützeln}, má ho nejbližší, kdo na něj dosáhne, probodnout nebo ubít; tím se ničím neprovinil, ba má se mu za to velmi poděkovat. Kdyby však některý z nich utekl, má být oznámen pánům a hejtmanům, aby byl uznán za šelmu {Schelmen}.
+- typ: odstavec
+  de: |-
+    Item so dem Veld oder Leger / Prouandt zůgefürt wirt / vnd in das Leger oder Hör komt / soll kainer darüber fallen / oder angreyffen / ee die zůuor geschetzt wirt / Vnd wa jr in N. oder andern / der fremden land ziehet / soll ain yeder schon bezalen / vnd nyemants beschedigen / Es soll auch nyemants vor dem Leger fürkauffen / oder Prouand nemen / bey leibs straf.
+  cs: |-
+    Dále když se do pole nebo ležení přiváží proviant {Prouandt} a přijde do ležení nebo k vojsku {Hör}, nemá se na něj nikdo vrhnout ani na něj sáhnout, dokud nebude napřed oceněn {geschetzt}. A kudy potáhnete v N. nebo v jiných cizích zemích, má každý řádně platit a nikomu neškodit. Také nemá nikdo před ležením překupovat {fürkauffen} ani brát proviant, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    Ob der Prouoß oder seine Knecht / ainen oder mer / so vngehorsam seind vnd Mißhandler / annemen wöllten / so soll sy nyemant daran hindern /
+  cs: |-
+    Kdyby profous {Prouoß} nebo jeho pacholci chtěli zatknout jednoho nebo více [lidí], kteří jsou neposlušní a provinilci, nemá jim v tom nikdo bránit

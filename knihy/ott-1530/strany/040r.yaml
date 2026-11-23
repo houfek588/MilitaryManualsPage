@@ -1,0 +1,53 @@
+id: 040r
+list: '[40] r'
+strana: recto
+sken: 79
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    der gemain Man / von Emptern zubestellen hab / auch das jr dienst am N. tag / schierst angeen / vnd N. Monat weeren / Vnnd welcher maß denen / so mit des Obersten Hauptmans Passporten abschaiden N. tag / für jren Abzug / gerechnet werden solle behendigt werde / Darmit sy sich mit auffpringung jrer Knecht / zurichten wissen.
+  cs: |-
+    obec {gemain Man} obsazovat, a také že jejich služba začne nejbližšího N. dne a potrvá N. měsíců, a v jaké míře se těm, kdo odcházejí s průvodním listem {Passporten} nejvyššího hejtmana {Obersten Hauptmans}, má počítat N. dní jako odchodné {Abzug}; aby se věděli zařídit při sbírání {auffpringung} svých knechtů.
+- typ: odstavec
+  de: |-
+    Zum andern / Soll in jrer der VnnderHauptlewt bestallung / anzaigt werden / ob sy zum auffpringen jrer Knecht / etlichen derselben Knecht / gellt lihen / das jns N. für dasselbig / weytters nichts / dann was solliche Knecht / nachmals verdienen wurden / schuldig sein sollen.
+  cs: |-
+    Za druhé: v jejich, totiž podřízených hejtmanů {VnnderHauptlewt}, služebním listu {bestallung} má být uvedeno, že kdyby při sbírání svých knechtů některým z nich půjčili peníze, nemá jim za to N. být dlužen nic dalšího než to, co si takoví knechti potom vyslouží.
+- typ: odstavec
+  de: |-
+    Zum Dritten / So nachmals / zwischen der Musterung Knecht abgiengen / vnnd sy anndere an derselbigen Abgangen Knecht stat annemen / söllen sy alßbald dieselben / für den Obersten Hauptman vnd die MusterHerren pringen vnd anzaigen / vnnd on derselbigen verwilligung / nit einschreyben.
+  cs: |-
+    Za třetí: kdyby potom mezi přehlídkami {Musterung} knechti odešli a oni na místo těch odešlých knechtů přijali jiné, mají je ihned přivést a ohlásit nejvyššímu hejtmanovi a přehlídkovým komisařům {MusterHerren} a bez jejich svolení je nezapisovat.
+- typ: odstavec
+  de: |-
+    Es soll kain VnderHauptman seinen Knechten oder anndern / Basporten zuerlauben haben / sonnder sollichs / allain dem Obersten Hauptman zůsteen.
+  cs: |-
+    Žádný podřízený hejtman nemá mít právo vydávat průvodní listy {Basporten} svým knechtům ani jiným; to má příslušet jedině nejvyššímu hejtmanovi.
+- typ: odstavec
+  de: |-
+    Zum Vierdten / Das sy in annemen der Musterung der Knecht / den MusterHerren / nit mer Knecht / oder Sold anzaigen / oder Bezalung fordern wöllen / weder jne in Jrer Bestallung wissendtlich zůgelassen vnd gemustert seind / vnnd in dem oder annderm in kainerlay vortayl sůchen / oder gefärd gebrauchen / dardurch die N. betrogen / vnnd beschwärdt werden / Auch zů der geleich betrug / kainem andern Rat / hilff oder fürderung thůn / in kain weyß.
+  cs: |-
+    Za čtvrté: že při přijímání knechtů na přehlídce nebudou přehlídkovým komisařům udávat víc knechtů nebo žoldů {Sold} ani požadovat víc peněz, než kolik jim je v jejich služebním listu prokazatelně povoleno a kolik [knechtů] prošlo přehlídkou; a že v tom ani v ničem jiném nebudou hledat žádný prospěch ani užívat lsti, čímž by N. byli podvedeni a zatíženi; a že ani k podobnému podvodu nebudou nikomu jinému nijak radit, pomáhat ani napomáhat.
+- typ: odstavec
+  de: |-
+    Zum Fünfften / Das er kainen Schreyber annemen / vnnd zů dem anschreyben seiner Knecht / oder zů der Musterung brauchen wöll / Er hab dann zůuor dem Obersten Hauptman gelobt vnd geschworen / wie jm deßhalb ain sonnder Ayd geordent ist / des dann ainem yeden sollichen Vnderhauptman auch ain Abschrifft gegeben werden soll.
+  cs: |-
+    Za páté: že nepřijme žádného písaře {Schreyber} a nepoužije ho k zapisování svých knechtů ani při přehlídce, leda by [písař] napřed slíbil a přísahal nejvyššímu hejtmanovi, jak je mu k tomu stanovena zvláštní přísaha {Ayd}; její opis se má dát také každému takovému podřízenému hejtmanovi.
+- typ: odstavec
+  de: |-
+    Zum Sechßten / Ob sich in zeyt / sollicher seiner bestallung derhalben oder mit anndern Hauptlewten irrung begebe / die in der gůt / mit baydertail wissen / nit vertragen werden künden / das sy dieselben / bey endtlichem entschaid des Obersten Hauptmans / vnd der KriegßRäte / so er darzů nymt / beleyben wölle.
+  cs: |-
+    Za šesté: kdyby v době této jeho služby kvůli tomu nebo s jinými hejtmany vznikl spor {irrung}, který by nemohl být s vědomím obou stran smírně urovnán, že jej ponechají konečnému rozhodnutí nejvyššího hejtmana a válečných radů {KriegßRäte}, které k tomu přibere.
+- typ: odstavec
+  de: |-
+    Zum Sibenden / Das er N. die N. Monat / die er bestellt wirdet / getrewlich dienen / vnnd dem Obersten Hauptman / geuölgig vnd gehorsam sein wölle.
+  cs: |-
+    Za sedmé: že bude N. věrně sloužit po N. měsíců, na které bude najat, a bude nejvyššímu hejtmanovi povolný a poslušný.
+- typ: odstavec
+  de: |-
+    Zum Achten / Das er bey seinen Knechten / so vil jm müglich / mit fleyß darob sein wölle / darmit sy / nach laut jrer Bestallung vnd Artickelbrieff / dem N. getrewlich dienen / vnd demselben Obersten Hauptman gefölgig vnd gehorsam sein / Vnd das ain yeder söllicher VnderHauptman /
+  cs: |-
+    Za osmé: že bude u svých knechtů, seč mu síly stačí, pilně dbát, aby podle znění svého služebního listu a artikulního listu {Artickelbrieff} věrně sloužili N. a byli témuž nejvyššímu hejtmanovi povolní a poslušní. A že každý takový podřízený hejtman

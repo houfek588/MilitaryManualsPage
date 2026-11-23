@@ -1,0 +1,75 @@
+id: 019v
+list: '[19] v'
+strana: verso
+sken: 38
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item 6 Schlanngen/ thůt ain tag 216 Kuglen/ machet vier tag in der Summ/ – 864 kugeln.
+  cs: |-
+    Dále 6 kulverin {Schlanngen} činí za den 216 koulí {Kuglen}, za čtyři dny to dělá v součtu – 864 koulí.
+- typ: odstavec
+  de: |-
+    Item 10 Falckon/ auff ain tag 36 kuglen auff ain Valckon/ thůndt vier tag in der Summ/ – 1440 kugeln.
+  cs: |-
+    Dále 10 falkon {Falckon}, na den 36 koulí na jednu falkonu, činí za čtyři dny v součtu – 1440 koulí.
+- typ: odstavec
+  de: |-
+    Item 14 Valckonet auff ain tag 36 kugeln/ machen die 14 Valckoneth auff vier tag in der Summ/ – 2016 kugeln.
+  cs: |-
+    Dále 14 falkonetů {Valckonet}, na den 36 koulí; těch 14 falkonetů dělá na čtyři dny v součtu – 2016 koulí.
+- typ: odstavec
+  de: |-
+    Item ainr Fewrbüchsen/ rechnet man ain tag 18 Schüss/ der seind zwo/ die machen bayd ain tag 36 kugeln/ Summa/ vier tag/ – 144 kugeln.
+  cs: |-
+    Dále na jeden ohnivý moždíř {Fewrbüchsen} se počítá 18 ran za den; jsou dva, oba dohromady dělají 36 koulí za den, součet za čtyři dny – 144 koulí.
+- typ: odstavec
+  de: |-
+    Welche fewrbüchsen/ die gröst gewonlich ainen halben zentner an jrer kugel wegen/ vnd die klainern 25 pfundt schwär.
+  cs: |-
+    Koule největšího z těchto ohnivých moždířů váží obvykle půl centu {zentner}, menšího 25 liber {pfundt}.
+- typ: odstavec
+  de: |-
+    Item die 2 grosse Morthier/ werffen gewonlich ain Zentner schwär/ stain/ Darauß mag man ain tag 36 würff thůn/ machen vier tag in der Summ/ – 144 kugeln.
+  cs: |-
+    Dále 2 velké moždíře {Morthier} vrhají obvykle kámen těžký jeden cent. Lze z nich za den vykonat 36 vrhů, za čtyři dny to dělá v součtu – 144 koulí.
+- typ: odstavec
+  de: |-
+    Die gond durch alle gwölb ein/ vnd erschrecken die lewt seüberlich/ zůuor/ wenn 8 oder 10 an ainem Tisch sitzen/ vnd fellt ain stain von ainem Zentner/ durch alle Bünen/ vnd mitten auff den Tisch inn pfeffer/ oder inns kraut/ so macht es seer blaich nasen.
+  cs: |-
+    Ty prorazí všechny klenby a lidi pěkně postraší, zvláště když jich sedí 8 nebo 10 u jednoho stolu a kámen o jednom centu propadne všemi stropy {Bünen} a dopadne doprostřed stolu do pepřové omáčky {pfeffer}[^1] nebo do zelí – to pak nadělá hodně bledých nosů.
+- typ: odstavec
+  de: |-
+    Item die 2 halben Morthier/ werffen gewonlich ain halben Zentner stain/ Vnd machen in jrer Summ/ auff vier tag/ auch/ – 144 kugeln.
+  cs: |-
+    Dále 2 poloviční moždíře {halben Morthier} vrhají obvykle kámen o půl centu a dělají v součtu na čtyři dny také – 144 koulí.
+- typ: odstavec
+  de: |-
+    Item die 12 klainen Morthier/ der ainer würfft nit über 8 pfundt stain/ Vnd 1 tag ain Morthier 216 kuglen/ macht vier tag/ – 864 kuglen.
+  cs: |-
+    Dále 12 malých moždířů, z nichž každý vrhá kámen nejvýš o 8 librách: na 1 den [dělají] moždíře 216 koulí,[^2] za čtyři dny – 864 koulí.
+- typ: nadpis
+  uroven: 2
+  de: Was die Kuglen für Wägen haben müssen/ volgt hernach.
+  cs: Následuje, kolik vozů koule potřebují
+- typ: odstavec
+  de: |-
+    Item auff vier tag gerechnet zuschiessen/ so müssen die vier ScharpffMetzen haben zů 576 kugeln 28 Wägen/ vnd bleyben noch 16 kugeln über/ die můß man eintailen/ Vnnd fürt ain wagen 20 kugeln/ das ist 20 Zentner/ auf vier Ross zuladen/ – Metzen kugeln. 28 wägen.
+  cs: |-
+    Dále počítá-li se se střelbou na čtyři dny, musejí čtyři šarfmece {ScharpffMetzen} mít na 576 koulí 28 vozů a ještě zbude 16 koulí, které se musejí rozdělit [mezi vozy]. Jeden vůz veze 20 koulí, to je 20 centů, naložených na čtyři koně – koule šarfmecí: 28 vozů.[^3]
+- typ: odstavec
+  de: |-
+    Item die zwen Basiliscen/ die haben 288 kugeln/ die wegen 214 Zentner/ die müssen haben/ – 11 wegen.
+  cs: |-
+    Dále dva bazilišky {Basiliscen} mají 288 koulí, ty váží 214 centů a musejí mít – 11 vozů.[^4]
+poznamky:
+- n: 1
+  text: „Pfeffer“ – dobový pokrm, maso či ryba v husté, silně opepřené omáčce. Celá věta je žertovná vsuvka o účinku moždířů na obležené.
+- n: 2
+  text: Tisk píše „ain Morthier 216 kuglen“, avšak 216 koulí je denní počet za všech 12 moždířů (12 × 18); 216 × 4 = 864 souhlasí.
+- n: 3
+  text: 28 vozů × 20 koulí = 560, zbývá 16 koulí do 576 – souhlasí.
+- n: 4
+  text: 288 koulí po 75 librách činí 216 centů; tisk uvádí 214 centů, tj. asi 20 centů na vůz.

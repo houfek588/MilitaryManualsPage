@@ -17,7 +17,7 @@ const oddil = {}; ODD.forEach((s, i) => { s.i = i; oddil[s.id] = s; s.deti = [];
 ODD.forEach(s => { if (s.rodic) oddil[s.rodic].deti.push(s); });
 const strana = {}; STR.forEach((p, i) => { p.i = i; strana[p.id] = p; });
 const heslo = {}; E.hesla.forEach(h => heslo[h.id] = h);
-const normDe = s => s.toLowerCase().replace(/ſ/g,'s').replace(/[åä]/g,'a').replace(/ö/g,'o').replace(/[üů]/g,'u').replace(/ß/g,'ss').replace(/th/g,'t').replace(/ey/g,'ei').replace(/ff/g,'f').replace(/dt/g,'t').replace(/[^a-z]/g,'');
+const normDe = s => s.toLowerCase().replace(/ſ/g,'s').replace(/[åä]/g,'a').replace(/ö/g,'o').replace(/[üů]/g,'u').replace(/ß/g,'ss').replace(/th/g,'t').replace(/ey/g,'ei').replace(/ff/g,'f').replace(/dt/g,'t').replace(/ai/g,'ei').replace(/ay/g,'ei').replace(/ew/g,'eu').replace(/v/g,'f').replace(/[^a-z]/g,'');
 const bezDiakritiky = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ſ/g,'s').toLowerCase();
 
 // ---------- pomocné

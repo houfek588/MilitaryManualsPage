@@ -1,0 +1,52 @@
+id: 007r
+list: '[7] r'
+strana: recto
+sken: 13
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    demselben ain Wachter zůlassen/der jm vmb das gellt wachet/Dieselb Tay soll gemacht sein/ainem wie dem andern/darmit nyemant den andern vmb der wach willen beschwer/das auch kainer dem andern sein lidlon vorhallt/Es soll auch kainer über die Tay mer geben/auch kainer mer nemen.
+  cs: |-
+    takovému povolit strážného, který za něho za peníze drží stráž. Tato sazba {Tay}[^1] má být stanovena pro jednoho jako pro druhého, aby nikdo druhého kvůli stráži nezatěžoval a aby také nikdo druhému nezadržoval jeho mzdu. A nikdo nemá dávat ani brát víc, než činí sazba.
+- typ: odstavec
+  de: |-
+    Item die wach soll durch den öbersten vnd Kriegßrat verordent vnd gemacht werden auf die gantz summ der personen oder musterzedel/zu acht/zu Syben/zu sechsen oder fünff tailen/oder wa es von nötten wäre/das der Vierdtail des volcks wachen müst/alles nach gelegenhait oder notdurfft der ortt/die billich verwacht werden söllen/Doch so soll die wach auf die halb nacht gesetzt werden/des kan ain yeder zůkomen/vnd den tag darnach etwas außrichten vnd schaffen.
+  cs: |-
+    Dále má plukovník {öbersten} a válečná rada {Kriegßrat} stráž {wach} nařídit a rozvrhnout podle celkového počtu osob neboli podle přehlídkového seznamu {musterzedel}, a to na osm, sedm, šest nebo pět dílů; anebo, bylo-li by třeba, aby stála na stráži čtvrtina lidu, vše podle polohy a potřeby míst, která se mají náležitě střežit. Stráž se však má stanovit vždy na půl noci; to každý vydrží a může druhý den ještě něco vyřídit a udělat.
+- typ: odstavec
+  de: |-
+    Item die wachzedel söllen auß dem musterbůch genomen werden zu dreyen hauffen/die Herren/Edellewt vnd Raysigknecht/söllen haben ain vndermachte oder zwifache laden zů jren namen vnd zedel/deßgleichen söllen die Landtßknecht/sampt dem gewonlichen hofgesind/auch ain zwifache laden haben/zů jren namen vnd zedel/darzů die Pauren vnd Handtwercker auch ain zwifache laden mit jren namen vnd zedeln/Vnd welche Partey oder Secten am maisten lewt vermag/der soll man nemen/vnd den andern Laden zůtragen/biß das sy sich mit den personn in der zal oder summ vergleichen.
+  cs: |-
+    Dále se mají strážní lístky {wachzedel} vzít z přehlídkové knihy {musterbůch} a rozdělit do tří skupin. Páni, šlechtici a jízdní pacholci {Raysigknecht} mají mít pro své jméno a lístek přepaženou neboli dvojdílnou truhlici {laden}. Stejně tak mají mít lancknechti {Landtßknecht} spolu s obvyklou dvorskou čeledí {hofgesind} pro svá jména a lístky dvojdílnou truhlici a k tomu sedláci a řemeslníci také dvojdílnou truhlici se svými jmény a lístky. A která strana neboli skupina {Secten} má nejvíce lidí, z té se mají [lístky] vzít a přenést do ostatních truhlic, dokud se počtem či součtem osob nevyrovnají.
+- typ: odstavec
+  de: |-
+    Item darnach/so man das nachtmal yßt/so kompt der Wachmaister mit seinen dreyen laden/vnd laßt auß der Edelleüt laden ain Zedel nemen/den verlesen/vnd verkündt hiemit demselben die vorwach.
+  cs: |-
+    Dále potom při večeři přijde vachmistr {Wachmaister} se svými třemi truhlicemi, dá z truhlice šlechticů vytáhnout jeden lístek, přečte jej a oznámí tím dotyčnému první noční stráž {vorwach}.
+- typ: odstavec
+  de: |-
+    Item darnach laßt er ain vngeuerlichen person/die nit lesen kan/auß der landtßknecht laden auch ain zedel nemen/vnd den verlesen/verkündt jm darbey die vorwach/Also geschicht mit der letsten vnd Pawren laden auch/biß die anzal der Vorwach erstatt wirt/Vnd wirt allemal/der verlesen Zedel/in das ander fach der laden gelegt/biß die erst gar außgelert wirt/Aldann nimpt mans widerumb auß der vollen laden/vnd legts in die leren/Also geet wach vnd hůt stätigs vmb/wie ain rad/vnd wachet kainer mer oder minder dann der ander.
+  cs: |-
+    Dále potom dá nestrannou osobou, která neumí číst, vytáhnout lístek také z truhlice lancknechtů, přečte jej a oznámí tomu [vylosovanému] první noční stráž. Stejně se postupuje i s poslední, selskou truhlicí, dokud se nedoplní počet první stráže. Přečtený lístek se pokaždé vloží do druhé přihrádky truhlice, dokud se první zcela nevyprázdní. Pak se lístky berou zase z plné přihrádky a vkládají do prázdné. Tak se stráž a hlídka {wach vnd hůt} neustále točí dokola jako kolo a nikdo nestojí na stráži více ani méně než druhý.
+- typ: odstavec
+  de: |-
+    Also pfligt man auch zethůn mit der taghůt/So bald die wach besetzt/so nympt man alsbald die taghůt vnd wach auch herauß/in massen wie vor/vnd verkündt denselben bey den thoren zů sein/morgens frů/ee die nachwach abgeet.
+  cs: |-
+    Stejně se postupuje i s denní hlídkou {taghůt}. Jakmile je [noční] stráž obsazena, vylosuje se hned také denní hlídka a stráž, týmž způsobem jako předtím, a oznámí se jim, že mají být u bran časně ráno, dříve než odejde druhá noční stráž {nachwach}.
+- typ: odstavec
+  de: |-
+    Alßdann soll der Wachmaister dem Schilltwachter/der auch so vil söllen sein/als der wachenden tail beuelhen/die wach vor vnd nach zů zeyten besichtigen/vnd über die wechter zegan/das sy recht wachen/Derselbig Schiltwachter/soll auch das haimlich loß von dem öbersten hollen oder nemen/Darnach soll sy der Wachmaister anstellen/an jre Letzinen/yetzt ain Edelman oder ain Reytter/denn ain Landtßknecht/oder ain allt hofgesind/denn ain Bawren oder Handtwercker.
+  cs: |-
+    Potom má vachmistr uložit dozorci stráží {Schilltwachter}[^2] – a těch má být tolik, kolik je dílů strážících –, aby stráž před půlnocí i po ní občas prohlédl a obcházel strážné, zda řádně bdí. Tento dozorce stráží má také vyzvednout nebo převzít od plukovníka tajné heslo {haimlich loß}. Potom má vachmistr rozestavit [strážné] na jejich stanoviště {Letzinen}: jednou šlechtice nebo jezdce {Reytter}, pak lancknechta nebo starého dvorského služebníka, pak sedláka nebo řemeslníka.
+poznamky:
+- n: 1
+  text: |-
+    „Tay“ – stanovená sazba, taxa (srov. Taxe, Tax); míněna pevná částka, kterou smí zaplatit, kdo za sebe dá na stráž
+    náhradníka.
+- n: 2
+  text: |-
+    Schiltwachter – zde ne stálý strážný (Schildwacht), ale ten, kdo strážné na stanovištích obchází a kontroluje
+    a přináší jim heslo; překládáme „dozorce stráží“.

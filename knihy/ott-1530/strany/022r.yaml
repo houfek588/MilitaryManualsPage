@@ -1,0 +1,60 @@
+id: 022r
+list: '[22] r'
+strana: recto
+sken: 43
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item darzů můß man mitfüren 100 Hackenbüchsen mit jren Becken/Ladstecken/vnd Puluersecken/darzů gehören/ – 3 wägen.
+  cs: |-
+    Dále se k tomu musí vézt 100 hákovnic {Hackenbüchsen} s jejich kozlíky {Becken},[^1] nabijáky {Ladstecken} a pytlíky na prach {Puluersecken}, které k nim patří – 3 vozy.
+- typ: odstavec
+  de: |-
+    Item 600 Handt Rore/die auch mitgefürt werden söllen/mit jrer zůgehörung/müssen haben/ – 3 wägen.
+  cs: |-
+    Dále 600 ručnic {Handt Rore}, které se mají vézt také i s jejich příslušenstvím; ty potřebují – 3 vozy.
+- typ: odstavec
+  de: |-
+    Item 3 Thunn oder 9 Zentner Handtbüchsen puluer/ain Zentner zündpulfer/Zway vaß mit grossen zündt Stricken/Zů dem grossen geschütz/ain Vaß mit klainen Zündtstricken/den Hacken vnnd Handschützen/Darbey ain väßlin mit Hackenkugeln/souil/das darmit geladen werd mit seinem last/ – 1 wagen.
+  cs: |-
+    Dále 3 tuny {Thunn}[^2] neboli 9 centů {Zentner} prachu do ručnic {Handtbüchsen puluer}, jeden cent zápalného prachu {zündpulfer}, dva sudy velkých doutnáků {zündt Stricken} k velkým dělům {geschütz} a jeden sud malých doutnáků pro střelce z hákovnic a ručnic {Hacken vnnd Handschützen}. K tomu soudek koulí do hákovnic {Hackenkugeln}, tolik, aby se vůz naplnil do plného nákladu – 1 vůz.
+- typ: odstavec
+  de: |-
+    Item man můß auch mitfüren 60 Zentner Pley/zů Schlanngen/Valckoneth vnd Hackenkugeln/ob deren zerrän vnd mangel wurd/auch vnder die knecht zugeben/so mit Handt Roren schiessen/die müssen haben/ – 3 wägen.
+  cs: |-
+    Dále se musí vézt také 60 centů olova {Pley} na koule do kulverin {Schlanngen}, falkonetů {Valckoneth} a hákovnic, kdyby koulí ubylo a byl jich nedostatek, a také k rozdělení mezi knechty {knecht}, kteří střílejí z ručnic; to potřebuje – 3 vozy.
+- typ: odstavec
+  de: |-
+    Item zů den Schlangen/Valckonen/Valckonethen Modeln/zangen vnd lären mödel/zů dem grossen geschütz/das man der Veind vnd Freündt kugeln dardurch messen müg/darzů Köllen vnd gießlöffel/Eysine schret in väßlin/die man in die kugeln geüßt/bedörffen auch/ – 1 wagen.
+  cs: |-
+    Dále licí formy {Modeln} a kleště {zangen} ke kulverinám, falkonám {Valckonen} a falkonetům a měrky {lären mödel}[^3] k velkým dělům, aby se jimi daly měřit koule nepřátel i spojenců; k tomu naběračky {Köllen} a licí lžíce {gießlöffel} a železné sekance {Eysine schret}[^4] v soudcích, které se zalévají do koulí. To vše potřebuje také – 1 vůz.
+- typ: odstavec
+  de: |-
+    Item Salyter/Schwebel/vnd ander materialia/darauß man Fewrwerck machen mag/darzů Ansetzkolben groß vnd klain/müssen haben/ – 1 wagen.
+  cs: |-
+    Dále ledek {Salyter}, síra {Schwebel} a jiné materiály, z nichž lze dělat ohňostroj {Fewrwerck}, k tomu velké i malé nabijáky {Ansetzkolben}; to potřebuje – 1 vůz.
+- typ: odstavec
+  de: |-
+    Item der Zewgwart/můß beyhenndig haben/alles das seines Ampts notdurfft erfordert/Darzů ain Vaß mit vnslitkertzen/darbey etlich Laternen groß vnd klain/darzů Leüchter vnd kertzenstöck/wenn man bey der nacht/in der Schantz pawen soll/das man mit verborgnem liecht/kundtschafften/auch zů anderer notdurfft in den Hütten vnd Zeldten geprauchen müg etc. Darzů soll er mitfüren ain anzal windtliechter/so der Zeügmaister bey der nacht/ab vnd zů den Kriegß Herren reyt/vnd sein losiment weytt von den anndern Kriegßräten durch das Läger komen müg zů der Artelarey/Darzů gehört seine Registerbücher vnd Bapir/ain geschrauffte fläsch mit dintten/dem Zewgmaister vnd seinen Schreybern/auch jm selbs zugůt/das alles můß haben/ – 1 wagen.
+  cs: |-
+    Dále musí mít zbrojní správce {Zewgwart} po ruce vše, čeho vyžaduje potřeba jeho úřadu {Ampts}. K tomu sud lojových svíček {vnslitkertzen}, k němu několik velkých i malých luceren a také svícny a stojany na svíce {kertzenstöck}, aby se jich, má-li se v noci stavět šance {Schantz}, dalo užívat se skrytým světlem k vyzvědám {kundtschafften} a k jiné potřebě v chýších a stanech atd. Dále má vézt několik větrných světel {windtliechter},[^5] aby zbrojmistr {Zeügmaister}, když v noci jezdí sem a tam k válečným pánům {Kriegß Herren} a jeho ubytování {losiment} je daleko od ostatních válečných radů {Kriegßräten}, mohl projet ležením {Läger} k dělostřelectvu {Artelarey}. K tomu patří jeho rejstříky {Registerbücher} a papír a šroubovací láhev s inkoustem pro zbrojmistra, jeho písaře {Schreybern} i pro jeho [správcovu] vlastní potřebu. To vše potřebuje – 1 vůz.
+- typ: odstavec
+  de: |-
+    Item man můß mitfüren Rauch/oder Fewrpfannen/die man aufrecht in das Erdtrich steckt/auf dem platz vor des obersten Zeldt oder Hütten/so bey der nacht/so Lerman seind/das die Hauptlewt vnd anndere
+  cs: |-
+    Dále se musí vézt kouřové neboli ohnivé pánve {Rauch/oder Fewrpfannen}, které se zastrkují zpříma do země na prostranství před stanem nebo chýší vrchního velitele {obersten},[^6] aby v noci, když je poplach {Lerman}, hejtmani {Hauptlewt} a ostatní
+poznamky:
+- n: 1
+  text: Becken – patrně Böcke, kozlíky (podstavce), z nichž se z hákovnic střílelo; srov. „Esel/Beck“ v soupisu na [[021r|předchozím listu]]. Výklad „pánvičky“ je méně pravděpodobný.
+- n: 2
+  text: Thunn (Tonne) – sud jako jednotka objemu a váhy prachu; podle textu 1 tuna = 3 centy.
+- n: 3
+  text: Lären mödel (Lehren, Lehrmodel) – kalibrové měrky (šablony), jimiž se zjišťovala velikost koulí, i ukořistěných nebo nalezených koulí nepřítele, aby se poznalo, do kterého děla se hodí.
+- n: 4
+  text: Eysine schret (eiserner Schrot) – nasekané kousky železa, které se zalévaly olovem do koulí (olověné koule s železným jádrem).
+- n: 5
+  text: Windliechter – pochodně nebo lucerny odolné proti větru, k osvětlení cesty v noci.
+- n: 6
+  text: Oberster – zde patrně vrchní velitel vojska, u jehož stanu se hejtmani při nočním poplachu scházejí pro rozkazy; může jít i o nejvyššího zbrojmistra.

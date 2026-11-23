@@ -1,0 +1,59 @@
+id: 016v
+list: '[16] v'
+strana: verso
+sken: 32
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Wer er aber durch annder glaubwirdig personen berümpt oder gůt kundtschafft/ durch lebendige stymm da/ so soll der VeldtZeügmaister/ jm ain Büchsen hinauß füren lassen/ vnd zů jm verordnen etlich Zeügdiener/ auffzůsehen was er künd/ vnnd was Er aufsetz/ ob sein Dryangel/ vnd andere Instrument/ die warhait vnd gerechte maß vermügen oder nit/ Er mag auch wol ainen verstendigen Büchsenmaister dartzů verordnen/ der erber/ vnd nit neydig sey.
+  cs: |-
+    Je-li však [uchazeč] chválen jinými věrohodnými osobami nebo má-li tu dobré svědectví {kundtschafft} živým hlasem, má mu polní zbrojmistr {VeldtZeügmaister} dát vyvézt ven dělo {Büchsen} a přidělit k němu několik zbrojních služebníků {Zeügdiener}, aby dohlédli, co umí a jak míří {aufsetz}, zda jeho trojúhelník {Dryangel}[^1] a jiné nástroje ukazují pravdu a správnou míru, nebo ne. Může k tomu také přidělit zkušeného puškaře {Büchsenmaister}, který je poctivý a není závistivý.
+- typ: odstavec
+  de: |-
+    Welcher erengeytzig/ aigennützig/ vnd hoffertig ist/ der fürdert kainen andern/ dann sich selb/ wiewol er seinem Herren eeren vnd frommen zu fürdern schuldig ist/ Darumb ist von nöten/ das die Examinatorn erber vnd verstendig seyen.
+  cs: |-
+    Kdo je ctižádostivý, sobecký a pyšný, ten nepomáhá nikomu jinému než sobě, ačkoli je povinen hledět cti a prospěchu svého pána. Proto je zapotřebí, aby zkoušející {Examinatorn} byli poctiví a zkušení.
+- typ: odstavec
+  de: |-
+    Deßhalben will gůt sein/ wa ain Zeügmaister/ geschefft halben/ selb darbey sein mag/ das er selbs sehe/ wie/ vnnd was ainer scheüßt/ Dann es komt vil/ das ainer von den Gemainen Büchsenmaistern/ von seinem fleyß vnd kunst wegen ee verhindert vnd verletzt/ dann wenn er gantz seycht vnd kunstloß wär.
+  cs: |-
+    Proto bude dobré, může-li zbrojmistr, pokud mu to povinnosti dovolí, být při tom osobně, aby sám viděl, jak a co kdo střílí. Často se totiž stává, že obyčejní puškaři někomu pro jeho píli a umění spíše překážejí a škodí, než kdyby byl docela mělký a neuměl nic.
+- typ: odstavec
+  de: |-
+    Vnd ist allwegen besser/ der Zeügmaister laß dem Herrn ain schuß/ zwen oder drey vergebens thůn/ dann ain grosse Summ/ darzů vil gelts geben.
+  cs: |-
+    A vždy je lepší, když zbrojmistr nechá na pánův účet vypálit nadarmo jeden, dva nebo tři výstřely, než aby [neschopnému] dával velkou sumu a k tomu mnoho peněz.
+- typ: odstavec
+  de: |-
+    Alßdann sicht er wol/ ob ainer Maister sey/ Schütz/ oder gar nichts/ Aber die höchst Prob vnd aller best/ die Büchsenmaister zu probieren/ geschicht vor den Veinden/ so das gegenschiessen da ist/ mag man wol sehen/ maister oder knecht/ Sy mügen nit all todts flaisch sehen/ so offt bey jnen zerbrochen wirt/ etwan durch der Veind schiessen/ zu zeyten durch zebrechung der aigen Büchsen/ etwan durch verwarlosung aigens erschiessens oder verbrennung des pulfers/ Wer des dings nit gewon ist/ der taugt gar zů kainem Büchsenmaister/ vnd ob er gleich wol aller welt kunst vnd fleyß bey jm vermöcht.
+  cs: |-
+    Tehdy dobře uvidí, zda je kdo mistr, střelec {Schütz}, nebo vůbec nic. Nejvyšší a nejlepší zkouška puškařů se však děje před nepřítelem: když se střílí proti nim, lze dobře poznat, kdo je mistr a kdo pacholek. Ne všichni snesou pohled na mrtvá těla, když u nich bývají [lidé] tak často roztrháni – někdy střelbou nepřítele, jindy roztržením vlastního děla, někdy nedbalostí při vlastní střelbě nebo vzplanutím prachu {pulfers}. Kdo na takové věci není zvyklý, ten se k puškařství vůbec nehodí, i kdyby měl veškeré umění a píli světa.
+- typ: odstavec
+  de: |-
+    Also hat man die vnderschaid der Büchsenmaister vnd Schützen/
+  cs: |-
+    Tolik o rozdílu mezi puškaři a střelci.
+- typ: nadpis
+  uroven: 2
+  de: Nun volgt hernach/ wie die Büchsen besetzt werden söllen.
+  cs: Nyní následuje, jak se mají děla obsadit [obsluhou]
+- typ: odstavec
+  de: |-
+    Item Vier Scharpffmetzen/ söllen haben Acht Büchsenmaister/ die söllen ainander helffen schiessen/ oder ain tag vmb den andern/ Wenn ainer schaden nymmt/ wund oder kranck würd/ das die Büchsen darumb nit feyren/ Wenn die Büchsen feyren/ so feyrt das gantz Veldtläger/ darauf geet groß gůt/ Man soll auch den veinden nit rast lassen/ so werden sy bald matt.
+  cs: |-
+    Dále čtyři šarfmece {Scharpffmetzen} mají mít osm puškařů. Ti si mají při střelbě navzájem pomáhat nebo se střídat den po dni, aby děla nezahálela, když někdo utrpí úraz, bude raněn nebo onemocní. Když zahálejí děla, zahálí celé polní ležení {Veldtläger}, a to stojí mnoho peněz. Nepříteli se také nemá dopřát oddechu, pak brzy ochabne.
+- typ: odstavec
+  de: |-
+    Also söllen auch die Zwen Basiliscen/ Nachtigallen/ Singerin/ der da 8 seind/ mit Büchsenmaistern besetzt sein/ Vnd wenn gleich die vier Quartonen auch Acht Büchsenmaister haben mügen/ ist gůt.
+  cs: |-
+    Stejně tak mají být puškaři obsazeny i dva bazilišky {Basiliscen} a slavíci {Nachtigallen} a zpěvačky {Singerin}, jichž je 8. A mohou-li i čtyři kartouny {Quartonen} mít osm puškařů, je to dobré.
+- typ: odstavec
+  de: |-
+    Item die Zwen grossen Boler/ vnd die zwen klainen Boler/ söllen haben
+  cs: |-
+    Dále dva velké moždíře {Boler} a dva malé moždíře mají mít
+poznamky:
+- n: 1
+  text: „Dryangel“ (Dreiangel) – trojúhelník, puškařský měřicí přístroj k zaměřování děla (úhelník s olovnicí, předchůdce kvadrantu).

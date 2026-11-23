@@ -1,0 +1,56 @@
+id: 004v
+list: '[4] v'
+strana: verso
+sken: 8
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Volgt hernach Wie vil der notdurfftigen Person in ain Besatzung gehörn.
+  cs: Následuje, kolik potřebných osob patří do posádky
+- typ: odstavec
+  de: |-
+    Item man soll die notdurfftigen person in ainer yeden Besatzung treffenlichen bedencken vnd melden/der man nit wol geraten mag/nach größ vnd gelegenhait der Besatzung.
+  cs: |-
+    Dále se mají v každé posádce {Besatzung} důkladně uvážit a stanovit potřebné osoby, bez nichž se nelze dobře obejít, podle velikosti a poměrů posádky.
+- typ: odstavec
+  de: |-
+    Item zwen oder drey Köch/doch das ainer oder mer Metzger seyen/mit jrem Kuchenmaister/welcher kuchinmaister/sampt dem Kriegßherren/die Rechnung vnd Anschleg soll helffen machen/auff so vil/oder auff so vil hundert personen/müssen ain Jarlang souil/oder auf so vil hundert deren vnd jhener Prouant haben.
+  cs: |-
+    Dále dva nebo tři kuchaři, z nichž však jeden nebo více mají být řezníci, s jejich kuchmistrem {Kuchenmaister}. Ten má spolu s válečným pánem {Kriegßherren} pomáhat sestavit výpočet a rozvrh: na tolik či tolik set osob je třeba mít na rok tolik či tolik set [měr] toho a onoho proviantu {Prouant}.
+- typ: odstavec
+  de: |-
+    Darzů můß man ain oder zwen Keller haben/alles nach gelegenhait der grösse oder klaine des Volcks/doch das sy vaßbinder seyen/Ain oder zwen Pfister/doch das sy darzů das Mülwerck künden oder ain Mül wissen anzustellen.
+  cs: |-
+    K tomu je třeba mít jednoho nebo dva sklepníky {Keller}, vše podle toho, jak velký či malý je lid, avšak aby to byli bednáři; dále jednoho nebo dva pekaře {Pfister}, kteří však k tomu musejí umět zacházet s mlýnským zařízením nebo vědět, jak mlýn uvést do chodu.
+- typ: odstavec
+  de: |-
+    Item ain oder mer Schneider/darzů mit zimlichem gewandt/das soll mit barem gellt/von ainem yeden kriegßman/dem Herrn/bezalt werden/doch mit zimlicher maß/was es sonst bey den nachpawrn gellten mag/on geuerlich/oder solich tůch an jren sölden abziehen.
+  cs: |-
+    Dále jeden nebo více krejčích a k tomu přiměřená zásoba sukna. To má každý válečník {kriegßman} zaplatit pánovi hotovými penězi, avšak za přiměřenou cenu, zhruba za kolik se jinak prodává u sousedů; anebo se má takové sukno strhnout z jejich žoldu {sölden}.
+- typ: odstavec
+  de: |-
+    Item ain oder mer Schůchmacher/Darzů will auch von nöten sein/im Schloss/ain anzal beraitt leder/den kriegßlewten söllichs vmb jr gellt zugeben.
+  cs: |-
+    Dále jeden nebo více ševců. K tomu bude třeba mít na hradě i určité množství vydělané kůže, aby se válečníkům {kriegßlewten} dávala za jejich peníze.
+- typ: odstavec
+  de: |-
+    Item ain Schmid/mit seinem knecht/vnd ain Schlosser/die drey söllen ainander helffen zů dem schmiden vnd schlosserwerck/yeder nach seinem vermügen.
+  cs: |-
+    Dále kovář se svým tovaryšem a zámečník; ti tři si mají navzájem pomáhat při kovářské a zámečnické práci, každý podle svých schopností.
+- typ: odstavec
+  de: |-
+    Item ain Schreiner mit seinem knecht/Darzů zwen oder drey Zymerlewt/Vnd auch souil Stainmötzel/Darzů gehörend auch etliche hebeysen vnd hebtremel/Auch Maurer/Darzů yedes handtwerck mit seinem werckgezeüg/Als dem Schmid Eysen vnd Stahel/vnd dergleichen.
+  cs: |-
+    Dále truhlář se svým tovaryšem, k tomu dva nebo tři tesaři a stejně tolik kameníků, k nimž patří také několik železných pák a zvedacích trámů {hebtremel}; také zedníci. K tomu každé řemeslo se svým nářadím a materiálem, jako kovář železo a ocel a podobně.
+- typ: odstavec
+  de: |-
+    Es soll auch bey der Besatzung/ain überhauff der handtwaffen/als bickeln/hawen/schaufeln/tragberen vnd anders/zu der arbait/gehallten werden/Es gibt sich offt/das vil lewt müssen handt anlegen zu der arbait/vnd sonnderlich/so die Feind anfahen zu schiessen/so die Zymer vnd annder gebew fallen werden/widerumb zu raumen/Darumb bedarff man auch ain anzal holtzäxten vnd handtbeyhel/das alles nach gröss vnd klaine der Pletz vnd menige des Volcks.
+  cs: |-
+    V posádce se má také k práci držet přebytek ručního nářadí {handtwaffen}, jako krumpáčů, motyk, lopat, nosítek a jiného. Často se totiž stává, že mnoho lidí musí přiložit ruku k dílu, a zvláště když nepřítel začne střílet a krovy {Zymer} a jiné budovy se budou řítit, je třeba [sutiny] zase odklízet. Proto je potřeba také určitý počet sekyr na dřevo a ručních seker, to vše podle velikosti či malosti míst a podle množství lidu.
+- typ: odstavec
+  de: |-
+    Also soll man auch fürsehen sein mit kuchingeschirr/vnd schaffen/oder wassergeschirr/mit Schüsseln/tellern/trinckgeschirr/auß kupffer oder plech gemacht.
+  cs: |-
+    Stejně tak se má [posádka] zásobit kuchyňským nádobím a škopky {schaffen} neboli nádobami na vodu, mísami, talíři a nádobami na pití z mědi nebo z plechu.

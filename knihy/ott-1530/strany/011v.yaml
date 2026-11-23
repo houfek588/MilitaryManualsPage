@@ -1,0 +1,58 @@
+id: 011v
+list: '[11] v'
+strana: verso
+sken: 22
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Ergegen widerumb soll es auch gehallten werden in den Besatzungen/ es seyen Schloss oder Stett/ so die belegert vnd beschossen werden/ vnd steen vor/ vnüberwunden/ der gestallt/ das die Veind widerumb abziehen müssen/ ongeschafft vnd sigloß/ Obgleich nit mer dann drey schüss hinein geschehen/ das auch durch die gantze Besatzung ain Monatsold gegeben werde/ Darzů Zeügwarten vnd Büchsenmaistern/ ain sonder vererung vnd schanck/ für jre Proueyt vnd gerechtigkait/ Dann wa sy vor der Besatzung legen/ vnd überwünden/ so wär die gröst Sturmglock darzů das Pulfer/ vnd Kugeln/ alles jr/ mitsampt den angebrochen Väßlen/ darinn das Puluer/ in der Schantz.
+  cs: |-
+    Naproti tomu[^1] se má stejně postupovat i v posádkách {Besatzungen}, ať jsou to hrady, nebo města, které jsou obléhány a ostřelovány, a přesto obstojí nepřemoženy, takže nepřítel musí s nepořízenou a bez vítězství odtáhnout – i kdyby do nich nepadly víc než tři výstřely: také celé posádce se má dát jeden měsíční žold {Monatsold}. Kromě toho [patří] zbrojním správcům {Zeügwarten} a puškařům {Büchsenmaistern} zvláštní čestný dar {vererung} a odměna za jejich užitek {Proueyt} a nárok. Kdyby totiž oni sami leželi před [obleženým místem] a přemohli posádku, patřil by jim největší poplachový zvon {Sturmglock}, k tomu prach {Pulfer} a koule {Kugeln}, to vše i s načatými soudky, v nichž je prach v šanci {Schantz}.[^2]
+- typ: odstavec
+  de: |-
+    Item der Oberst der Besatzung/ soll in sonderhait von dem KriegßHerren/ mit eerlichen vnd Ritterlichen Klainotern begabt werden/ Als etwan den VeldHauptleütten/ so vorligen/ vnd überwinden/ auch geschicht von den KriegßHerren.
+  cs: |-
+    Dále má válečný pán {KriegßHerren} plukovníka {Oberst} posádky zvlášť obdarovat čestnými a rytířskými klenoty, jak to válečné páni činí i u polních hejtmanů {VeldHauptleütten}, kteří [místo] oblehnou a přemohou.
+- typ: odstavec
+  de: |-
+    Item die Broueyt vnd Freyhait des KriegßHerren/ soll man auch vernemen/ Alle geflehnete hab vnd gůtter/ so zů dem Hauß geflehnet/ söllen die jhenigen/ so es zůgehört/ vmb den drittentail jres werdts/ widerumb lösen/ Es were dann ainer oder meer/ der sein leyb vnd gůt im Schloss hett/ dem soll der Herr sein hab vnd gůt/ vmb den Fünfften tail seines werdts/ widerumb zůstellen/ Vrsach/ wie hernach volgt/
+  cs: |-
+    Dále je třeba poznat také užitek {Broueyt} a výsadu {Freyhait} válečného pána. Všechen movitý majetek a statky, které byly do hradu {Hauß} uklizeny před nepřítelem,[^3] mají ti, jimž patří, vykoupit zpět za třetinu jejich ceny. Leda by někdo – jeden či více – byl na hradě sám osobně i se svým majetkem; tomu má pán jeho movitosti a statky vrátit za pětinu jejich ceny. Příčina je taková, jak následuje.
+- typ: odstavec
+  de: |-
+    Item so die Veind etwa gewar werden/ das groß hab vnd gůtter in die Schloss oder Stett geflehnet seind/ so hencken sy etwan alle jr vermügen daran/ das sy sonst nit thäten/ wa sy nit groß gůt darinnen wißten/ Darauß der Besatzung vnd des Hauß Kriegßherrn vil vnrat vnd gefar eruolget/ vnd vnträglichen last pringt/ Es ist gifft/ wa vil gůter in den heüsern verkundtschafft werden/ gleich so böß/ wenn der kriegßherr aigner person bey dem Schloß betretten wirt/ Wenn man Vogel vnd nest bey ainander waißt/ kert alle wellt destmer fleyß für/ wie vor gehört/ Der gemain hauff vermaint aller Reich darob zu werden.
+  cs: |-
+    Dále když se nepřítel dozví, že do hradů nebo měst byl uklizen velký majetek a statky, vynaloží na to někdy všechny své síly, což by jinak neudělal, kdyby nevěděl, že je v nich velké jmění. Z toho posádce i válečnému pánovi hradu vzniká mnoho škody a nebezpečí a přináší to nesnesitelné břemeno. Je to jed, když se vyzví, že je v domech mnoho statků – stejně zlé, jako když je válečný pán zastižen na hradě osobně. Když se ví, že jsou pták i hnízdo pohromadě, vynasnaží se celý svět o to víc, jak už bylo řečeno; obecný houf {gemain hauff} si myslí, že na tom všichni zbohatnou.
+- typ: odstavec
+  de: |-
+    Item das ist die Proueyt vnd Freyhait der Kriegßleüt/ so sich in Besatzungen einlassen/ dem kriegßrechten nach/ darmit etwan das kriegsvolck gepfnast wirt/ vnd dester harter hallten/ so jnen eer vnd nutz darauß eruolgt/ dem Herrn vnd aller Besatzung/ auch denen/ so jr hab vnd gůtter hiebey haben.
+  cs: |-
+    Dále toto je podle válečného práva užitek a výsada válečníků {Kriegßleüt}, kteří se dají do posádek. Tím se válečný lid {kriegsvolck} rozdychtí[^4] a drží se tím pevněji, protože z toho plyne čest a prospěch jim, pánovi i celé posádce, a také těm, kdo tu mají své movitosti a statky.
+- typ: odstavec
+  de: |-
+    Gleicherweyß/ wie die Jag vnd Laythundt fraydig vnd gyrig gemacht werden/ so sy die süssigkait von dem Wildbret auff der haut befinden/ Deßhalben offt die gůtten hund schaden empfahen/ von den wilden thieren/ vnd bleybt doch das wildtpret zuletst dem Herren/ vnd wildtmaister.
+  cs: |-
+    Stejně jako lovečtí psi a slídiči {Laythundt}[^5] zesmělí a zdychtí, když na kůži okusí sladkost zvěřiny – proto také dobří psi často utrpí od divé zvěře škodu, a zvěřina přece nakonec zůstane pánovi a mistru lovčímu.
+- typ: odstavec
+  de: |-
+    Söllichs hab ich gemacht/ auf verbesserung anderer kriegßverstendigen/ das zů mindern/ zů meren/ alles nach gestallt vnd gelegenhait der Heüser/ der Herrschafft/ der Pletz/ vnd vermügen nach/ nit gestracks
+  cs: |-
+    Toto jsem sestavil s výhradou, že to jiní znalci válečnictví {kriegßverstendigen} opraví – ubrat či přidat, vše podle povahy a okolností hradů, panství a míst a podle možností, nikoli striktně
+poznamky:
+- n: 1
+  text: |-
+    „Ergegen“ – tak v tisku (bez iniciály); patrně za „hergegen“ (naproti tomu, oproti tomu). Navazuje na předchozí odstavce o kořisti z polní bitvy a dobytých míst ([[011r|předchozí strana]]).
+- n: 2
+  text: |-
+    Věta je zdůvodnění zvláštní odměny pro zbrojní správce a puškaře – kdyby jako obléhatelé místo dobyli, náležel by jim podle zvykového „zvonového práva“ největší poplachový zvon dobytého místa a zbylý prach a koule; protože posádka obstála, dostávají náhradou čestný dar. Srov. Fronspergerovu verzi, kde se zvon a načaté soudky prachu od puškařů vykupují.
+- n: 3
+  text: |-
+    „geflehnet“ (flöhnen, flehnen) – uklizený, ukrytý před nepřítelem do bezpečí, tj. majetek okolních obyvatel uschovaný v hradě či městě.
+- n: 4
+  text: |-
+    „gepfnast“ – nejisté slovo; patrně od „pfnasen/pfnäsen“ (funět, frkat), tj. rozdychtěný, povzbuzený jako zvíře před lovem (srov. následující přirovnání k loveckým psům).
+- n: 5
+  text: |-
+    Leithund – slídič (vodič), pes vedený na řemeni, který vyhledává stopu zvěře; „Jag(hund)“ je pes štvoucí zvěř.

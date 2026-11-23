@@ -1,0 +1,53 @@
+id: 008v
+list: '[8] v'
+strana: verso
+sken: 16
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    man auf dem Hof/im Regen/Schnee vnd anderm vngewitter brauchen mag/in den schwebenden Fewrpfannen/zugesehen.
+  cs: |-
+    lze používat na nádvoří za deště, sněhu a jiného nečasu v zavěšených ohnivých pánvích {Fewrpfannen}, aby bylo vidět.
+- typ: odstavec
+  de: |-
+    Item es will auch in ainer yeden Besatzung ain notdurfft Vnslit haben/darauß man liechter macht/wa man das nit hett/precht ainen grossen mangel/Darzů gehört ain väßlin mit öl/das man in ainer ampeln brennt/bey der nacht/an gemainen wanndel vnd platz/da yederman liecht bey hollen kan.
+  cs: |-
+    Dále je v každé posádce {Besatzung} třeba mít dostatek loje, z něhož se dělají svíce; kdyby se neměl, způsobilo by to velký nedostatek. K tomu patří soudek oleje, který se v noci pálí v lampě na společném průchodu {wanndel} a prostranství, kde si každý může vzít světlo.
+- typ: odstavec
+  de: |-
+    Item es soll auch der Zeügwart etwo vil laternen haben im Zeüghauß/die gleserin seyen/auf die Letzinen/das man bey der nacht die Hacken vnd ander geschütz laden künd/gleserin seind sy vast gůt/man gesicht hinden vnd vornen darbey.
+  cs: |-
+    Dále má mít zbrojní správce {Zeügwart} ve zbrojnici {Zeüghauß} hodně luceren, a to skleněných, pro stanoviště {Letzinen}, aby se v noci daly nabíjet hákovnice {Hacken} a jiné zbraně {geschütz}. Skleněné jsou velmi dobré, je při nich vidět dozadu i dopředu.
+- typ: odstavec
+  de: |-
+    Item man můß hangend laternen haben/in die gemecht/da der wandel am grösten ist/vnd sonderlich/an den stiegen vnd wendelstain/sonst gillts vil fallen/vnd laufft ainer dem andern in die wör.
+  cs: |-
+    Dále se musí mít závěsné lucerny v místnostech, kudy se nejvíc chodí, a zvláště na schodech a točitých schodištích {wendelstain}; jinak se tu hodně padá a jeden vbíhá druhému do zbraně {wör}.
+- typ: odstavec
+  de: |-
+    Item dem Zeügwartten/söllen alle Büchsen/groß vnd klain/kugeln/pulfer/auch alle mundicey vnd zůgehörung der arttelorey/von stuck zů stuck/klains vnd groß/inuentiert vnd verzaichnet sein/was er auß dem Büchsenhauß gibt/wem/vnd zů wöllcher zeyt/Das alles/soll er ordenlichen/mit fleyß beschreiben/vnd zů seinen gepürlichen zeyten/dem Herrn darumb rechnung thůn/laut seines Inuentarij/Dann nit wenig dem Herren an seinem Zeüghauß gelegen ist/Es soll auch der Zeügwart/so er aincherlay mangels an der mundicey hette/dasselbig den Kriegß Räten nit verhallten/sich ferrner darnach haben zů richten/Er soll auch gůt acht haben/das er allemal/von bley/ain dapffern vorrat habe.
+  cs: |-
+    Dále mají být zbrojnímu správci všechna děla {Büchsen}, velká i malá, koule {kugeln}, prach {pulfer} a také veškerá munice {mundicey} a příslušenství dělostřelectva {arttelorey} kus po kusu, malé i velké, inventováno a zapsáno. Co vydá z dělostřelecké zbrojnice {Büchsenhauß}, komu a kdy, to všechno má řádně a pečlivě zapsat a v náležitých lhůtách z toho pánovi skládat účty podle svého inventáře; neboť pánovi nemálo záleží na jeho zbrojnici. Zjistí-li zbrojní správce jakýkoli nedostatek munice, nemá jej tajit před válečnými rady {Kriegß Räten}, aby se podle toho mohli dále zařídit. Má také dobře dbát, aby měl vždy značnou zásobu olova.
+- typ: odstavec
+  de: |-
+    Item man soll auch zuletst/so ain Schloss zů dem sturm geschossen wirt/mit dem überigen volck/an gelegnem platz vnd malstat/in gůter ordnung steen/vor in alle/allt kamer vnd stainbüchsen/mit gestrew oder hagel geladen/So bald man eintringt/in Sturm/soll man den ersten tail/abgon lassen/geschech/das nit nachlassens wer/soll man den andern tail/auch deßgleichen den dritten tail/abgan lassen.
+  cs: |-
+    Dále když je nakonec hrad prostřílen natolik, že je možný útok {sturm}, má se se zbylým lidem stát v dobrém pořádku na vhodném místě a shromaždišti {malstat}, před sebou všechna stará komorová {kamer} a kamenná děla {stainbüchsen}, nabitá drobnou střelou {gestrew} nebo kartáčem {hagel}. Jakmile [nepřítel] při útoku vnikne dovnitř, má se nechat vypálit první díl; kdyby [útočníci] nepovolili, má se vypálit druhý a stejně tak i třetí díl.
+- typ: odstavec
+  de: |-
+    Item so sich dann die Feind vermessen/zů stürmen/über die gefüterten greben/so mag es doch nit sein/sy lauffen dann mit dem volck an die greben/zů füllen mit wellholtz/Vnd so man sollich einwerffen oder außfüllen wenden will/soll man vmm die gräben Stacketen machen/so kan man nichts darüber einwerffen.
+  cs: |-
+    Dále kdyby se pak nepřátelé odvážili útočit přes vyzděné příkopy {gefüterten greben}[^1], nemohou to provést jinak, než že s lidmi přiběhnou k příkopům a vyplní je otepmi {wellholtz}. A chce-li se takovému vhazování či zasypávání zabránit, mají se kolem příkopů postavit palisády {Stacketen}; přes ně se pak nic vhodit nedá.
+- typ: odstavec
+  de: |-
+    Item wa es aber geschech/das man mit dem anlauff wellenholtz oder anders einwerff/so sol man gefaßt sein mit raiffen/groß vnd klain/wie man vngefarlich vmb die Byer/wein/vnd ander vässer macht/Die söllen mit Stro/hanff vnd allerlay zertrifelten saylen/oder altten hadern vnd lumpen/zottet vmbwunden sein/die durch hartz vnd bech gezogen/das da in ainem grossen kessel zerlassen ist/Darnach/dieweyl es noch
+  cs: |-
+    Dále stalo-li by se však, že by [nepřítel] při útoku vhodil otepi nebo něco jiného, má se být připraven s obručemi, velkými i malými, jaké se zhruba dělají na pivní, vinné a jiné sudy. Ty mají být huňatě omotány slámou, konopím a všelijakými rozedřenými provazy nebo starými cáry a hadry a protaženy pryskyřicí a smolou rozpuštěnou ve velkém kotli. Potom, dokud je to ještě
+poznamky:
+- n: 1
+  text: |-
+    „Gefüterte greben“ – příkopy s obezděnými (vyloženými) stěnami, tzv. eskarpou a kontreskarpou (Futtermauer =
+    opěrná, obkládací zeď).

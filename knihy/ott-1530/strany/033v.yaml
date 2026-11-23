@@ -1,0 +1,83 @@
+id: 033v
+list: '[33] v'
+strana: verso
+sken: 66
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  de:
+  - Item darnach alle Schlanngen /
+  - Item darnach alle Trachen /
+  - Item darnach ain Zewgwagen / mit allerlay Kugeln Puluer Kamer ZündtStricken / PuluerSecken / vnnd all anderer notdurfft / so zů dem Veldtgeschütz / in ainer eyl zůprauchen ist.
+  - Item darnach den Klainen Zewgwagen / der den klainen Zewg fürt /
+  - Item darnach den Grossen Zewgwagen.
+  - Item darnach den Wagen / mit den Winnden / HebEysen / Hemern / Schlegeln / Zanngen / vnd dergleichen / so man zů den Zewgen braucht / aufzurichten.
+  - Item darnach all Quarton.
+  - Item darnach alle Singerin /
+  - Item darnach yetlicher Singerin jre Gefäß.
+  - Item darnach alle Nachtgallen /
+  - Item auff yede Nachtgallen jr Gefäß.
+  - Item darnach die Basiliscen /
+  - Item darnach jr Gefäß.
+  - Item darnach all ScharpffMetzen / Vnd bayd Fewrbüchsen /
+  - Item darnach aller Metzen Gefäß.
+  - Item darnach alle klain Morthier oder Boler /
+  - Item darnach die Halben Narren oder Morthier /
+  - Item darnach die grossen Narren /
+  - Item darnach den Wagen mit den SetzBawmen / Böcken / vnd Vndersetzeln.
+  - Item darnach den Wagen mit der Schmier / vnd was darzů gehörig.
+  - Item darnach den wagen mit den Wischern / Ladschaufeln / Ansetzkolben / zů dem Grossen geschütz.
+  - Item darnach den wagen mit dem Zimer vnd RedermacherZewg / vnd SchmidZewg wagen.
+  - Item darnach den Wagen mit den LönSaylen / Lunegeln / vnd Lennegel / Hebtremel / so man braucht in die Reder zustossen / wenn man die gepürg abfert.
+  - Item darnach die wägen mit dem Puluer /
+  - Item darnach die Kugelwägen / zů dem Veldtgeschütz /
+  - Item darnach den wagen mit den ZündtStricken.
+  - Item die Kugelwägen zů dem Grossen geschütz / vnd allwegen die klainsten Kugeln / söllen vor den Grossen gefürt werden.
+  - Item darnach die wägen / so Bickeln / Hawen vnd Schaufeln füren.
+  - Item darnach die Wägen / so FewrKugeln / vnd Staine Kugel / zů den Bollern füren.
+  - Item darnach den wagen mit den RoßEysen vnd Hůfnageln.
+  - Darnach die wägen / so die Böck / vnd HagkenBüchsen füren.
+  - Item darnach die wägen mit den Handtroren /
+  - Item darnach die wägen mit den Helmparten /
+  - Item die wägen mit den Spiessen /
+  cs:
+  - Dále potom všechny kulveriny {Schlanngen}.
+  - Dále potom všechny draky {Trachen}.
+  - Dále potom zbrojní vůz {Zewgwagen} se všelijakými koulemi {Kugeln}, prachem {Puluer}, komorami {Kamer}, doutnáky {ZündtStricken}, pytli na prach a se vším ostatním, čeho je třeba narychlo použít k polním dělům {Veldtgeschütz}.
+  - Dále potom malý zbrojní vůz, který veze drobnou výzbroj {Zewg}.
+  - Dále potom velký zbrojní vůz.
+  - Dále potom vůz se zvedáky {Winnden}, sochory {HebEysen}, kladivy, palicemi, kleštěmi a podobnými věcmi, jichž je třeba ke stavění kladkostrojů {Zewgen}.
+  - Dále potom všechny kartouny {Quarton}.
+  - Dále potom všechny zpěvačky {Singerin}.
+  - Dále potom lafety {Gefäß} každé zpěvačky.
+  - Dále potom všechny slavíky {Nachtgallen}.
+  - Dále ke každému slavíku jeho lafetu.
+  - Dále potom bazilišky {Basiliscen}.
+  - Dále potom jejich lafety.
+  - Dále potom všechny šarfmece {ScharpffMetzen} a oba ohnivé moždíře {Fewrbüchsen}.
+  - Dále potom lafety všech mecí.
+  - Dále potom všechny malé moždíře {Morthier oder Boler}.
+  - Dále potom poloviční blázny {Halben Narren}[^1] neboli moždíře.
+  - Dále potom velké blázny.
+  - Dále potom vůz s podpěrnými trámy {SetzBawmen}, kozami {Böcken} a podkladky {Vndersetzeln}.
+  - Dále potom vůz s mazivem {Schmier} a s tím, co k tomu patří.
+  - Dále potom vůz s vytěráky {Wischern}, nabíjecími lopatkami {Ladschaufeln} a nabijáky {Ansetzkolben} k velkým dělům.
+  - Dále potom vůz s tesařským a kolářským nářadím a vůz s kovářským nářadím.
+  - Dále potom vůz s lany {LönSaylen}, zákolníky {Lunegeln} a opěrnými kolíky {Lennegel} a se zdvihacími sochory {Hebtremel}, které se strkají do kol, když se sjíždí z hor.[^2]
+  - Dále potom vozy s prachem.
+  - Dále potom vozy s koulemi k polním dělům.
+  - Dále potom vůz s doutnáky.
+  - Dále vozy s koulemi k velkým dělům; nejmenší koule se mají vždy vézt před velkými.
+  - Dále potom vozy, které vezou krumpáče {Bickeln}, motyky {Hawen} a lopaty.
+  - Dále potom vozy, které vezou ohnivé koule {FewrKugeln} a kamenné koule k moždířům {Bollern}.
+  - Dále potom vůz s podkovami a podkováky {Hůfnageln}.
+  - Potom vozy, které vezou kozlíkové pušky {Böck} a hákovnice {HagkenBüchsen}.
+  - Dále potom vozy s ručnicemi {Handtroren}.
+  - Dále potom vozy s halapartnami {Helmparten}.
+  - Dále vozy s píkami {Spiessen}.
+poznamky:
+- n: 1
+  text: „Narr“ (blázen) – dobové jméno moždíře; „halbe Narren“ jsou menší, „grosse Narren“ těžké moždíře. Tisk je výslovně ztotožňuje s moždíři (Morthier).
+- n: 2
+  text: Nejisté termíny – „Lunnagel“ je zákolník (kolík držící kolo na nápravě), „Lennegel“ snad opěrný kolík (Lehnnagel), „Lönsail“ snad lano k přidržování či brzdění vozu; „Hebtremel“ je páka či trám. Strkaly se mezi loukotě kol, aby se kola při sjíždění z hor zabrzdila.

@@ -1,0 +1,56 @@
+id: 003v
+list: '[3] v'
+strana: verso
+sken: 6
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gestallt der sach/můß es besetzt sein/ob man dess Sturms mer dann an ainem end gewärtig sein můß oder nit.
+  cs: |-
+    povahy věci musí být [hrad] obsazen, [a podle toho,] zda je třeba čekat útok {Sturms} na více než jednom místě, nebo ne.
+- typ: odstavec
+  de: |-
+    Item so dann alle Wörinen vnd Plätz wol besetzt seind/in der not/můß man dannocht noch etwas ain überhauff von leüten haben/das man bey tag vnd nacht/in der not vnd grösten arbait/den wechsel haben möge/darmit die besten leüt nit matt vnd abgemörgelt/doll vnd doub werden von wachen vnd anderer vnrůw.
+  cs: |-
+    Dále i když jsou pro případ nouze všechna obranná místa {Wörinen} a stanoviště {Plätz} dobře obsazena, je přesto třeba mít ještě nějaký přebytek lidí, aby se ve dne i v noci, v nouzi a při největší námaze mohli střídat. Tak nebudou ti nejlepší lidé od stráží a jiného nepokoje zemdlení a zmožení, otupělí a omámení.
+- typ: odstavec
+  de: |-
+    Item so nun überschlagen seind die kriegßlewt/nach klaine oder grösse der Wörinen oder Platz des Hauß gelegenhait/wie vil deren von nöten sein müssen/das dieselben all taugenlich/der Eeren vnuerletzlich seyen/alle frum vnd redlich biderlewt.
+  cs: |-
+    Dále když se nyní podle malosti či velikosti obranných míst nebo podle polohy hradu {Hauß} propočte, kolik válečníků {kriegßlewt} je zapotřebí, [ať se dbá,] aby byli všichni způsobilí, se zachovalou ctí, samí řádní a poctiví muži.
+- typ: odstavec
+  de: |-
+    Vnd alles vnnütz gesind/zu jung/zu allt/zu kranck/vnd was häderisch/zänckisch ist/soll nichts daher/Sollich loß gesind/macht vil Meyterey vnder den Kriegßprůdern/auch alle weybs person/Außgenomen etlich/so ich hernach benennen wird.
+  cs: |-
+    A všechna neužitečná čeládka – příliš mladí, příliš staří, příliš nemocní a kdo je svárlivý a hašteřivý – tam nemá co dělat. Taková prostopášná čeládka působí mezi válečnými bratry mnoho vzpour {Meyterey}. [Totéž platí] o všech ženách, kromě několika, které uvedu dále.
+- typ: odstavec
+  de: |-
+    Item darnach soll der öberst Hauptman N. genant/so von den kriegß Herren die sach alle beuolhen/mit seinem vollmechtigen gewallt/den Ayd der gantzen Besatzung/mit seinen Artickeln geben/mit auferlegung des Burckfridens.
+  cs: |-
+    Dále má potom nejvyšší hejtman {öberst Hauptman}, jménem N., jemuž válečný pán {kriegß Herren} svěřil celou věc, svou plnou mocí uložit celé posádce {Besatzung} přísahu {Ayd} s jejími články a uložit [jí] hradní mír {Burckfridens}.
+- typ: nadpis
+  uroven: 2
+  de: Artickelbrief/mit fernerm innhallt/dann hierinn in diser Copey vnd Form begriffen ist.
+  cs: Artikulní list {Artickelbrief}, [v plném znění] obsáhlejší, než jak je zachycen v tomto opisu a formě[^1]
+- typ: odstavec
+  de: |-
+    Item Jr werden schwören/leyplichen/ain Ayd/zu Gott/das jr all vnd besonder/wöllen getrew/gewer/vnd gehorsam sein N. vnserm gnedigen Herren/oder jrer gnaden Erben/wa der in diser handlung mit todt abgienge/allen zimlichen Gepoten/geuölgig/schaden warnen/eeren vnd fromen fürdern/in jrer gnaden abwesen/den Hauptlewtten derselben verordneten kriegßräten vnd andern/so befelh haben/als meinem Rottmaister/in Summa/eüch gegen ainem yeden hallten vnd beuolhen haben/als ain Brůder gegen dem anndern/jr leyb vnd gůtt bey im zu lassen/Es soll auch sich ain yeder söllichs zů dem andern getrösten vnd versehen.
+  cs: |-
+    Dále budete tělesně přísahat Bohu, že všichni společně i každý zvlášť chcete být věrni, oddáni a poslušni N., našemu milostivému pánu, nebo dědicům Jeho Milosti, kdyby on během tohoto podniku zemřel. [Že budete] poslušni všech náležitých rozkazů, budete varovat před škodou, podporovat [jeho] čest a prospěch a v nepřítomnosti Jeho Milosti [budete poslušni] hejtmanů {Hauptlewtten}, válečných radů {kriegßräten}, které ustanovil, a jiných, kdo mají velení, jako [třeba] mého rotmistra {Rottmaister}. Zkrátka, že se budete ke každému chovat a pečovat o něj jako bratr o bratra a nasadíte při něm život i statek. A každý má totéž s důvěrou očekávat od druhého.
+- typ: nadpis
+  uroven: 3
+  de: Nun volgt hernach der Ayd.
+  cs: Nyní následuje přísaha
+- typ: odstavec
+  de: |-
+    Item samentlichen vnd besonder/Edel vnd vnedel/was wirden/wesens/oder Standts ain yeder ist/hoch oder nider/will ich hiemit seinen gepürlichen Tittel gegeben haben/Vnd heben auff/yeder drey finnger/dem haupt gleich/der sich hierinn diser loblichen Versamlung vnd Besatzung/vnserer gnedigen Herrschafft N. zu Eeren vnd wolfart/sein leyb vnd gůt darstrecken will/das gůt vnd böß gedulden vnd tragen/bey den loblichen kriegßbrůdern beleiben wöllen/Vnd wems nit gelegen sein wölle/der zaig sich an/vor nachts/den wöllen die Herrschafft an söllichem nit verhindern/Es soll auch demselben an seinen Eeren vnuerletzlich sein/Blibe aber ainer lennger/vnangezaigt/so bleibt er darnach billich/wie ander in krafft des yetzerzelten Ayds.
+  cs: |-
+    Dále všichni společně i každý zvlášť, šlechtici i nešlechtici, ať je kdo jakékoli hodnosti, postavení či stavu, vysokého nebo nízkého – tímto chci každému vzdát jeho náležitý titul. Zvedněte každý tři prsty do výše hlavy, kdo chce v tomto chvalném shromáždění a posádce nasadit svůj život a statek ke cti a blahu naší milostivé vrchnosti N., snášet a nést dobré i zlé a zůstat u chvalných válečných bratrů. Komu by to však nevyhovovalo, ať se ohlásí před nocí; v tom mu vrchnost nebude bránit a nemá to být na újmu jeho cti. Zůstane-li však někdo déle, aniž se ohlásil, pak právem zůstává jako ostatní ve vázanosti právě přednesené přísahy.
+poznamky:
+- n: 1
+  text: |-
+    „mit fernerm innhallt/dann hierinn … begriffen ist“ – „dann“ chápeme jako srovnávací „než“: skutečný artikulní list
+    má být obsáhlejší než tento vzor. Možné je i čtení „s dalším obsahem, jak je zde obsažen“.

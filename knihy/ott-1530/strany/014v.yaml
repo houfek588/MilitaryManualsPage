@@ -1,0 +1,82 @@
+id: 014v
+list: '[14] v'
+strana: verso
+sken: 28
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Also will auch in kriegßsachen gehandelt sein vnd werden/ Wa aber nit/ so geet es offt/ wie wir es vil malen gesehen/ vnd noch täglich sehen.
+  cs: |-
+    Tak se má postupovat i ve válečných věcech. Kde se to neděje, dopadá to často tak, jak jsme mnohokrát viděli a dosud denně vidíme.
+- typ: odstavec
+  de: |-
+    Wenn ain Kriegßherr will verkriegen/ dreümal hunderttausent florin/ soll er anfangs die Hunderttausent rechen auf den Raysigen Zeüg/ die hunderttausent auf die artelarey/ die hundertausent auf die fůßknecht
+  cs: |-
+    Chce-li válečný pán {Kriegßherr} vynaložit na válku třikrát sto tisíc zlatých {florin}, má zpočátku počítat sto tisíc na jízdu {Raysigen Zeüg}, sto tisíc na dělostřelectvo {artelarey} a sto tisíc na pěší knechty {fůßknecht}.
+- typ: odstavec
+  de: |-
+    Wiewol die Hauffen ainander nit gleich an personen/ so geet dennocht auf die Pferdt dester mer/ das es sich im Costen/ dem Fůßhauffen wol vergleicht.
+  cs: |-
+    Ačkoli se ty houfy {Hauffen} navzájem počtem osob nerovnají, padne přece o to víc na koně, takže se [jízda] nákladem pěšímu houfu dobře vyrovná.
+- typ: odstavec
+  de: |-
+    Wiewol die Artelarey den klainsten hauffen hat/ so geet doch groß auf die Wagen Ross/ vnd menige der Doppelsöld/ vnd anders/ Darzů Puluer/ Kugeln vnd ander Mundicey/ darmit wirt der Cost zuletst vast gleich.
+  cs: |-
+    Ačkoli má dělostřelectvo nejmenší houf, padne přece mnoho na vozní koně {Wagen Ross}, na množství dvojitých žoldů {Doppelsöld} a jiné, k tomu na prach {Puluer}, koule {Kugeln} a jinou munici {Mundicey}; tím je nakonec náklad téměř stejný.
+- typ: odstavec
+  de: |-
+    Nun will ich greyffen zů der Artelarey ordnung/ vnd sag/ Das in seiner ordnung vnd maß erfordern will von Zwaintzig/ biß in Dreyssigtausent man/ zu Roß vnd Fůß/ wöllen im veld/ ain gantz Zeüghauß haben/ das ist 55 stuck Büchsen/ die auf der ächß gond/ mitsampt aller Mundicey darzůgehörig.
+  cs: |-
+    Nyní přistoupím k řádu dělostřelectva a pravím: podle náležitého pořádku a míry chce [vojsko] o dvaceti až třiceti tisících mužů na koni i pěšky mít v poli jednu celou polní zbrojnici {Zeüghauß},[^1] to jest 55 kusů děl {Büchsen} na kolových lafetách {auf der ächß}, spolu se vší municí, která k nim patří.
+- typ: odstavec
+  de: |-
+    Von Fünffzig/ biß in die Sechtzigtausendt man/ zu Ross vnd fůß/ wöllen haben/ Zway Zeüghauß/ mit jrer maß/ wie oblaut.
+  cs: |-
+    [Vojska] o padesáti až šedesáti tisících mužů na koni i pěšky chtějí mít dvě polní zbrojnice v téže míře, jak stojí výše.
+- typ: odstavec
+  de: |-
+    Von Neüntzig/ biß in die Hunderttausent man/ zu Ross vnd fůß/ wöllen haben/ dreü Zeüghauß mit aller jrer zůgehörung/ wie vor.
+  cs: |-
+    [Vojska] o devadesáti až sto tisících mužů na koni i pěšky chtějí mít tři polní zbrojnice se vším příslušenstvím jako výše.
+- typ: nadpis
+  uroven: 2
+  de: Was aber die geschlecht der Büchsen/ ain Zeughauß ins veld/ yedes mit seiner zal vnd namen/ werden hernach benennt.
+  cs: Jaké druhy děl patří k jedné polní zbrojnici, každý se svým počtem a jménem, je uvedeno dále
+- typ: odstavec
+  de: |-
+    Es seind aller Büchsen/ nit mer dann Acht geschlecht/ die man auf der ächß scheüßt.
+  cs: |-
+    Všech děl {Büchsen}, z nichž se střílí na kolové lafetě, není víc než osm druhů.
+- typ: odstavec
+  de: |-
+    Item Vier maurenprecher/ vnd vier Veldtgeschütz/ Vnd wenn man jnen gleich tausent namen geb/ so seind jr doch nit mer/ on die Morthier oder Boler vnd Fewrbüchsen/ dann Acht geschlecht.
+  cs: |-
+    Dále čtyři [druhy] bořičů hradeb {maurenprecher} a čtyři [druhy] polních děl {Veldtgeschütz}. A i kdyby se jim dalo tisíc jmen, není jich přece víc než osm druhů, kromě moždířů {Morthier} neboli {Boler} a ohnivých moždířů {Fewrbüchsen}.
+- typ: odstavec
+  de: |-
+    Es seind Nachtigallen vnd Singerin/ Zwen namen/ aber nit mer dann ain Geschlecht/ die bayd/ schiessen ain kugel/ groß vnd schwär/ allain das die Nachtgall etwan zwayer schůch lenger/ dann die Singerin.
+  cs: |-
+    Slavíci {Nachtigallen} a zpěvačky {Singerin} jsou dvě jména, ale jen jeden druh: obě střílejí kouli stejně velkou a těžkou, jen slavík je asi o dvě stopy {schůch} delší než zpěvačka.
+- typ: nadpis
+  uroven: 3
+  de: Die zal yedes geschlechts.
+  cs: Počet každého druhu
+- typ: odstavec
+  de: |-
+    Item vier Metzikana/ die wir nennen in jrem teütsch Scharpffmetzen/ der aine scheüßt gewonlich/ ainen Zentner eysens/ vnnd wigt an jrem Ror 100 Zentner.
+  cs: |-
+    Dále čtyři mecikany {Metzikana},[^2] které po našem německu nazýváme šarfmece {Scharpffmetzen}; každá z nich střílí obvykle [kouli] o jednom centu {Zentner} železa a její hlaveň {Ror} váží 100 centů.
+- typ: odstavec
+  de: |-
+    Item Zwo Rana/ die wir nennen Basilisco/ die schiessen gewonlich 75 pfundt eysen/ die wigt an jrem Ror 75 Zentner.
+  cs: |-
+    Dále dvě rany {Rana},[^3] kterým říkáme bazilišky {Basilisco}; ty střílejí obvykle 75 liber {pfundt} železa a hlaveň [každé] váží 75 centů.
+poznamky:
+- n: 1
+  text: „Zeughaus“ zde i dále znamená ucelený dělostřelecký park (soubor děl s municí, vozy a obsluhou) pro jedno polní vojsko, ne budovu zbrojnice. „auf der ächß“ – doslova „na nápravě“, tj. děla vezená a střílející z kolové lafety (na rozdíl od moždířů).
+- n: 2
+  text: „Metzikana“ – italizující tvar (srov. glosářové „Matzicana“) pro šarfmeci, největší obléhací dělo.
+- n: 3
+  text: „Rana“ (ital. žába) – dobové jméno pro bazilišek, srov. glosář.

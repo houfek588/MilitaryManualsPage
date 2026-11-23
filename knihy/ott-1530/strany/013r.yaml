@@ -1,0 +1,66 @@
+id: 013r
+list: '[13] r'
+strana: recto
+sken: 25
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Stat vnd Regiment der Artelaria/ samt aller Mundicey/ in ordnung verfangen.
+  cs: Stav a zřízení dělostřelectva {Artelaria} se vší municí {Mundicey}, sepsané po pořádku
+- typ: odstavec
+  de: |-
+    Es haben gewonlich die gewaltigen Veldtzüg/ dreü Regiment/ Als wenn ain Römischer Kayser/ oder die Stennd des Reichs etc. oder als der Pundt yetzt in Swaben sein möcht/ oder gleicherweyß/ als ain König in Hispania/ Franckreich/ Engellandt/ vnd der gleichen/ als die Venediger sein möchten/ Die etwa mit Zwaintzigtausent/ Dreyssig/ Sechtzig Neüntzig/ biß in die Hunderttausent man zu veldt ziehen/ söllen vnnd müssen Dreü Regiment haben.
+  cs: |-
+    Velká polní tažení {Veldtzüg} mívají obvykle tři pluky {Regiment}: například když táhne římský císař nebo říšské stavy atd., nebo jak by to nyní mohl být Švábský spolek,[^1] nebo podobně král ve Španělsku, ve Francii, v Anglii a jim podobní, jakými by mohli být Benátčané. Ti, kdo táhnou do pole s dvaceti tisíci, třiceti, šedesáti, devadesáti až se sto tisíci muži, mají a musejí mít tři pluky.
+- typ: odstavec
+  de: |-
+    Die Fürsten/ Herren/ vnd Ritterschafft/ sampt allem Raysigen kriegsvolck/ haben jr aigen Regiment.
+  cs: |-
+    Knížata, páni a rytířstvo spolu se vším jízdním válečným lidem {Raysigen kriegsvolck} mají svůj vlastní pluk.
+- typ: odstavec
+  de: |-
+    Der öberst Veldtzeügmaister/ sampt aller Artelarey/ hat sein aigen Regiment.
+  cs: |-
+    Nejvyšší polní zbrojmistr {öberst Veldtzeügmaister} se vším dělostřelectvem {Artelarey} má svůj vlastní pluk.
+- typ: odstavec
+  de: |-
+    Aller Fůßknecht Oberster/ hat sein aigen Regiment.
+  cs: |-
+    Plukovník {Oberster} všech pěších knechtů {Fůßknecht} má svůj vlastní pluk.
+- typ: odstavec
+  de: |-
+    Die yetzgemelten dreü Regiment/ haben ain Obersten VeldtHauptmann/ der ist öberster über das gantz Veldtleger/ wa der recht Principal oder KriegßHerr aigner person selbs nit entgegen ist.
+  cs: |-
+    Tyto právě jmenované tři pluky mají jednoho nejvyššího polního hejtmana {Obersten VeldtHauptmann}, který je nejvyšší nad celým polním ležením {Veldtleger}, není-li tam osobně přítomen sám pravý principál neboli válečný pán {KriegßHerr}.
+- typ: odstavec
+  de: |-
+    Wa aber der Kriegßherr selbs im veld/ so soll der öberst des Kriegßherren Lutinant sein/ darmit jm in seinem Ampt kain verklainung beschech.
+  cs: |-
+    Je-li však válečný pán sám v poli, má být ten nejvyšší [polní hejtman] poručíkem {Lutinant} válečného pána, aby se mu v jeho úřadu nestala žádná újma.
+- typ: odstavec
+  de: |-
+    Item es haben gewonlich alle geraysigen jren Obersten/ der wirt genannt/ ain Veldtmarschalck/ an dem ist nit wenig gelegen/ er hat ain treffenlich Ampt. Auch sein aigen Profosen/ den nennt man/ der Ritterschafft Profosen.
+  cs: |-
+    Dále mívají všichni jezdci {geraysigen} obvykle svého plukovníka, kterému se říká polní maršálek {Veldtmarschalck}; na něm nemálo záleží, má významný úřad. [Mají] také vlastního profouse {Profosen}, jemuž se říká profous rytířstva.
+- typ: odstavec
+  de: |-
+    Er hat auch vnder im alle geraysigen Hauptleüt/ welche Hauptlewt vnder im dem Veldtmarschalck/ ainer so vil Reytter/ der annder souil/ der dritt ain geschwader/ der vierdt zway geschwader Reytter/ Dieselben Vnderhauptleüt/ sůchen vnd finden allwegen beuelch vnd beschaid bey dem Marschalck/ zuthůn vnd lassen/ Dann Er ist erblich ainer der vordersten KriegßRät/ Was aber derselben geraysigen Regiment sey in allen sachen/ laß ich hierinn berůwen/ den Stat der Artelarey/ wird ich an die hand nemen.
+  cs: |-
+    Má také pod sebou všechny jízdní hejtmany {Hauptleüt}; z nich má pod ním, polním maršálkem, jeden tolik jezdců, druhý onolik, třetí jednu švadronu {geschwader}, čtvrtý dvě švadrony. Tito podřízení hejtmani {Vnderhauptleüt} hledají a nacházejí vždy u maršálka rozkaz a pokyn, co činit a čeho nechat, neboť on je z moci úřadu {erblich}[^2] jedním z předních válečných radů {KriegßRät}. Jaké je však zřízení {Regiment} oné jízdy ve všech věcech, to zde nechám stranou; ujmu se stavu {Stat} dělostřelectva.
+- typ: odstavec
+  de: |-
+    So ich den Stat vnd Regiment der Artelarey anregen will/ so můß ich das gantz Regiment melden/ damit die vnderschaid aller Regiment verstanden werden/ wie ains auß dem andern fleüßt/ vnd wie ains dem andern die handt beüt/ vnnd das ains on das ander nit vil Frucht wircken mag/ sy sein gůt bey ainander
+  cs: |-
+    Chci-li pojednat o stavu a zřízení dělostřelectva, musím vylíčit celé zřízení [vojska], aby byl pochopen rozdíl mezi všemi pluky: jak jeden vyplývá z druhého, jak jeden druhému podává ruku a že jeden bez druhého nemůže přinést mnoho užitku; dobré jsou [jen] pospolu.
+- typ: odstavec
+  de: |-
+    Der öberst Veldzeügmaister/ hat auch sein aigen Regiment/ darzů sein aigen Prouosen.
+  cs: |-
+    Nejvyšší polní zbrojmistr má také svůj vlastní pluk a k tomu svého vlastního profouse.
+poznamky:
+- n: 1
+  text: Švábský spolek (Schwäbischer Bund, 1488–1534) – svaz říšských stavů v jižním Německu, který mj. potlačil selskou válku 1525; „yetzt“ (nyní) ukazuje, že spolek v době sepsání ještě trval.
+- n: 2
+  text: „erblich“ (ve skenu jasně, ne „erstlich“) – doslova „dědičně“; zde patrně ve smyslu trvale, z moci samotného úřadu (srov. [[014r|list (14) r]] – „Erblich so gehören zů dem Obersten als kriegß Rat …“). Méně pravděpodobná je narážka na dědičný úřad maršálka (Erbmarschall) u knížecích dvorů.

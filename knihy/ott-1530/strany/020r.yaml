@@ -1,0 +1,74 @@
+id: 020r
+list: '[20] r'
+strana: recto
+sken: 39
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Die vier Nachtgallen/ vnd vier Singerin/ haben 1152 kuglen/ Die wegen 577 Zentner/ müssen haben/ – 28 Wägen/ vnd bleyben über 16 kuglen/ die můß man eintailen.
+  cs: |-
+    Čtyři slavíci {Nachtgallen} a čtyři zpěvačky {Singerin} mají 1152 koulí {kuglen}; ty váží 577 centů {Zentner} a musejí mít – 28 vozů a zbude 16 koulí, které se musejí rozdělit [mezi vozy].[^1]
+- typ: odstavec
+  de: |-
+    Item vier Quartan/ haben 576 kuglen/ der wegen vier ainen Zentner/ macht in Summa 144 Zentner/ die machen/ – 7 wägen/ vnd machen 4 Zentner mer/ die můß man eintaylen.
+  cs: |-
+    Dále čtyři kartouny {Quartan} mají 576 koulí, z nichž čtyři váží jeden cent; to dělá v součtu 144 centů. Ty dělají – 7 vozů a ještě 4 centy navíc, které se musejí rozdělit.
+- typ: odstavec
+  de: |-
+    Item die Fünff Trachen/ haben 680 kuglen/ der thůnd ye 8 ain Zentner/ machet die Summ 85 Zentner vnd ain halben/ darzů zwo kuglen/ die machen/ – 4 Wagen/ die můß man eintailen.
+  cs: |-
+    Dále pět draků {Trachen} má 680 koulí,[^2] z nichž vždy 8 činí jeden cent; to dělá v součtu 85 a půl centu a k tomu dvě koule. Ty dělají – 4 vozy; [zbytek] se musí rozdělit.
+- typ: odstavec
+  de: |-
+    Item 6 Schlanngen/ die haben 964 kuglen/ vnnd thůnd ye 16 ainen Zentner/ die machen/ – Drithalben Wagen/ minder Drithalben Zentner.
+  cs: |-
+    Dále 6 kulverin {Schlanngen} má 964 koulí[^3] a vždy 16 činí jeden cent; to dělá – dva a půl vozu bez dvou a půl centu.
+- typ: odstavec
+  de: |-
+    Item 10 Falckon/ die haben 1440 kuglen/ vnd 16 auf ainen Zentner gerechnet/ thůnd 90 Zentner. – macht 5 wägen.
+  cs: |-
+    Dále 10 falkon {Falckon} má 1440 koulí; počítá-li se 16 na jeden cent, činí to 90 centů – to dělá 5 vozů.
+- typ: odstavec
+  de: |-
+    Item 14 Falckonet/ machen 2016 kuglen/ vnd 32 kuglen/ gerechnet auf ainen Zentner/ macht 63 Zentner/ thůt – 3 wägen/ vnd bleyben 3 Zentner über/ die můß man eintailen.
+  cs: |-
+    Dále 14 falkonetů {Falckonet} dělá 2016 koulí; počítá-li se 32 koulí na jeden cent, dělá to 63 centů, to činí – 3 vozy, a zbudou 3 centy, které se musejí rozdělit.
+- typ: odstavec
+  de: |-
+    Item die 2 Fewrbüchsen kuglen/ seind 144. die wegen 50 Zentner/ thůt – Drithalben wagen.
+  cs: |-
+    Dále koulí pro 2 ohnivé moždíře {Fewrbüchsen} je 144; ty váží 50 centů, to činí – dva a půl vozu.
+- typ: odstavec
+  de: |-
+    Item die 2 grossen Morthier/ haben 144 kuglen/ wegen so vil Zentner Vnnd die 2 halben Morthier der kuglen/ wegen halb so vil/ das ist 72 Zentner/ Summa der vier Morthier kuglen/ wegen 216 Zentner/ thůt/ – 11 wägen/ minder vier Zentner/ den můß man zůtragen/ biß sy auch geladen werden.
+  cs: |-
+    Dále 2 velké moždíře {Morthier} mají 144 koulí, ty váží stejný počet centů; a koule 2 polovičních moždířů váží polovinu, to je 72 centů. Koule čtyř moždířů váží v součtu 216 centů, to činí – 11 vozů bez čtyř centů; ty [chybějící] se musejí přiložit, až se budou nakládat i ony.[^4]
+- typ: odstavec
+  de: |-
+    Item die 12 klainen Morthier/ der ainer würfft 8 pfundt schwär/ die haben 1728 kuglen/ wegen hundert vnd 38 Zentner/ thůt/ – 7 wägen/ minder 2 Zentner.
+  cs: |-
+    Dále 12 malých moždířů, z nichž každý vrhá 8 liber {pfundt}, má 1728 koulí;[^5] ty váží sto třicet osm centů, to činí – 7 vozů bez 2 centů.
+- typ: odstavec
+  de: |-
+    Summa Summarum/ was alle Kuglen wegen/ thůt 2180 Zentner/ Die müssen haben in Summa/ – 108 vnd ain halben wagen.
+  cs: |-
+    Celkový součet {Summa Summarum}: všechny koule váží 2180 centů. Ty musejí mít v součtu – 108 a půl vozu.[^6]
+- typ: nadpis
+  uroven: 2
+  de: Nun volgt hernach die Summ der Wagenpferdt/ so in den Kugel Wägen ziehen.
+  cs: Nyní následuje počet vozních koní {Wagenpferdt}, kteří táhnou vozy s koulemi
+poznamky:
+- n: 1
+  text: 1152 koulí po 50 librách váží 576 centů; tisk uvádí 577. Při 20 centech na vůz (viz [[019v|list (19) v]]) vychází 28 vozů a zbytek.
+- n: 2
+  text: Zde 680 koulí (5 draků × 34 ran × 4 dny), na [[019r|listu (19) r]] 686. Udaná váha 85½ centu a dvě koule (po 8 koulích na cent) však odpovídá 686 koulím (684 + 2), takže Ott počítal váhu z čísla 686.
+- n: 3
+  text: Na [[019v|listu (19) v]] je pro šest kulverin uvedeno 864 koulí (6 × 36 × 4); „964“ je patrně tisková chyba. 864 koulí po 16 na cent činí 54 centů; „dva a půl vozu bez dvou a půl centu“ (při 20 centech na vůz 47½ centu) neodpovídá přesně ani jednomu číslu.
+- n: 4
+  text: 216 centů při 20 centech na vůz = 10,8 vozu, tj. 11 vozů bez 4 centů – souhlasí.
+- n: 5
+  text: Na [[019v|listu (19) v]] je pro 12 malých moždířů na čtyři dny 864 koulí; zde je počet dvojnásobný (1728). Hmotnost 1728 × 8 liber = 13 824 liber ≈ 138 centů odpovídá číslu 1728.
+- n: 6
+  text: 'Kontrola: vozy jednotlivých položek dávají 28 + 11 + 28 + 7 + 4 + 2½ + 5 + 3 + 2½ + 11 + 7 = 109 (tisk 108½), váhy asi 2200 centů (tisk 2180); rozdíl plyne ze zaokrouhlování a nesrovnalostí výše.'

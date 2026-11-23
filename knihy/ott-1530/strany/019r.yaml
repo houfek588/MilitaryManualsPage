@@ -1,0 +1,75 @@
+id: 019r
+list: '[19] r'
+strana: recto
+sken: 37
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item 10 Valckon/ vnnd 14 Valckoneth/ ist 24 Büchsen/ macht 48 Schützen/ die haben auch gleichen sold/ vnd gepürt ainem ain Monat 6 florin/ thůt in Summa/ – 288 florin.
+  cs: |-
+    Dále 10 falkon {Valckon} a 14 falkonetů {Valckoneth}, to je 24 děl {Büchsen}, dělá 48 střelců {Schützen}. Ti mají také stejný žold {sold} a každému náleží 6 zlatých {florin} na měsíc; činí to v součtu – 288 zlatých.
+- typ: odstavec
+  de: |-
+    Also seind all Büchsen Doppel besetzt/ on die FewrwerckMaister.
+  cs: |-
+    Tak jsou všechna děla obsazena dvojmo, kromě ohňostrůjců {FewrwerckMaister}.
+- typ: odstavec
+  de: |-
+    Item die 16 Morthier/ haben 7 Büchsenmaister/ die werden auch gleich versöldt/ in massen/ wie die/ so ScharpffMetzen schiessen/ ain Monat 16 florin/ Das macht in der Summ/ – 112 florin.
+  cs: |-
+    Dále 16 moždířů {Morthier} má 7 puškařů {Büchsenmaister}; ti jsou také placeni stejně jako ti, kdo střílejí ze šarfmecí {ScharpffMetzen}, 16 zlatých na měsíc. To dělá v součtu – 112 zlatých.
+- typ: odstavec
+  de: |-
+    Item der vier Jungen Söld/ so auff die 8 Büchsenmaister warten/ die ScharpffMetzen schiessen/ machen in Summa/ – 16 florin.
+  cs: |-
+    Dále žoldy čtyř pacholků {Jungen}, kteří obsluhují 8 puškařů střílejících ze šarfmecí, činí v součtu – 16 zlatých.
+- typ: odstavec
+  de: |-
+    Item der massen gehören auf die Siben FewrwerckMaister jren Jungen vierdthalben sold/ thůt/ – 14 florin.
+  cs: |-
+    Dále stejně tak náleží sedmi ohňostrůjcům pro jejich pacholky třiapůl žoldu,[^1] činí to – 14 zlatých.
+- typ: odstavec
+  de: |-
+    In Summa der Büchsen vnd FewrwerckMaister/ auch aller Schützen Söld/ machen in ainer Summ/ ain Monat lang/ – 998 florin.
+  cs: |-
+    Celkem žoldy puškařů a ohňostrůjců i všech střelců činí v jednom součtu za jeden měsíc – 998 zlatých.[^2]
+- typ: nadpis
+  uroven: 2
+  de: Nun volgen hernach die Kuglen aller Büchsen.
+  cs: Nyní následují koule {Kuglen} pro všechna děla
+- typ: odstavec
+  de: |-
+    Item so fürderlich geschossen wirt/ es sey vor Schlossen oder Stetten/ so mag ain fertiger Büchsenmaister/ auß ainer ScharpffeMetz ains tags 36 schüss thůn/ So můß man auf vier tag Metzenkuglen mit füren/ das thůt in der Summ ain tag 144 Kuglen/ Summa vier tag. – 576 kuglen.
+  cs: |-
+    Dále když se střílí bez prodlení, ať před hrady, nebo před městy, může zběhlý puškař vystřelit ze šarfmece {ScharpffeMetz} za den 36 ran. Proto se musí vézt s sebou koule pro šarfmece na čtyři dny; to činí v součtu na jeden den 144 koulí, za čtyři dny – 576 koulí.
+- typ: odstavec
+  de: |-
+    Item so gebürt ainem Basiliscen auch so vil/ ain tag 36 kuglen/ Der seind Zwo/ macht in Summa/ ain tag 72. thůt vier tag in der Summ/ – 288 kuglen.
+  cs: |-
+    Dále na bazilišek {Basiliscen} náleží také tolik, 36 koulí na den. Jsou dva, to dělá v součtu na den 72, za čtyři dny – 288 koulí.
+- typ: odstavec
+  de: |-
+    Item vier Nachtgallen/ vnd vier Singerin/ macht vier tag 288 kuglen/ thůt die gantz Summ/ – 1152 kuglen.
+  cs: |-
+    Dále čtyři slavíci {Nachtgallen} a čtyři zpěvačky {Singerin}: to dělá [na každý ze] čtyř dnů 288 koulí, celý součet činí – 1152 koulí.[^3]
+- typ: odstavec
+  de: |-
+    Item vier Quartan/ gerechnet auff 36 Kuglen/ thůt vier tag/ in der Summ/ – 576 kuglen.
+  cs: |-
+    Dále čtyři kartouny {Quartan}, počítáno po 36 koulích, činí za čtyři dny v součtu – 576 koulí.
+- typ: odstavec
+  de: |-
+    Item Fünff Trachen/ machen ain tag 170 Kuglen/ thůt vier tag in der Summ/ – 686 kuglen.
+  cs: |-
+    Dále pět draků {Trachen} dělá na den 170 koulí, za čtyři dny to činí v součtu – 686 koulí.[^4]
+poznamky:
+- n: 1
+  text: „vierdthalben sold“ – třiapůl žoldu, tj. jeden pacholek na dva ohňostrůjce (7 ÷ 2 = 3½) po 4 zlatých měsíčně, jako u pacholků puškařů výše (4 pacholci = 16 zlatých).
+- n: 2
+  text: 'Kontrola: 64 + 56 + 192 + 80 + 176 ([[018v|list (18) v]]) + 288 + 112 + 16 + 14 = 998. Součet tedy počítá s chybnou položkou 64 zlatých u šarfmecí (správně by bylo 8 × 16 = 128 a celkem 1062 zlatých).'
+- n: 3
+  text: Tisk píše „vier tag 288“, ale 288 koulí (8 děl × 36) připadá na jeden den; 288 × 4 = 1152 souhlasí.
+- n: 4
+  text: 170 × 4 = 680, ne 686 (170 koulí = 5 × 34 ran za den). Na [[020r|listu (20) r]] je sice uvedeno 680 koulí, jejich váha „85½ centu a dvě koule“ (po 8 koulích na cent) však odpovídá právě 686 koulím; nesrovnalost je tedy už v Ottově výpočtu.

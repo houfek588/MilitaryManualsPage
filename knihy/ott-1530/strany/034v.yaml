@@ -1,0 +1,58 @@
+id: 034v
+list: '[34] v'
+strana: verso
+sken: 68
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Vnd zů ainer beuestigung merer krafft / söllicher Freyhait / so steet das darauff / So ain Eingriff geschech / mit gewalt / von den Oberkaiten / so seind alle Artelarey Person / von jrer Pflicht / durch sölliche that / ledig / Vnnd haben gůt macht / ausser dem Veldt zuziehen / zů Frainden oder Veinden / vnuerletzlich der eeren.
+  cs: |-
+    A k upevnění a větší síle této výsady {Freyhait} je stanoveno: kdyby do ní vrchnosti {Oberkaiten} násilím zasáhly, jsou tím činem všechny osoby dělostřelectva {Artelarey Person} zproštěny své povinnosti {Pflicht} a mají plné právo odtáhnout z pole – k přátelům nebo k nepřátelům – bez úhony na cti.
+- typ: odstavec
+  de: |-
+    Item thäte aber ain vnderthan / hoch oder niders namens / mit fräuenlicher handt / wider solliche Freyhait / so hat derselb / on genad / den kopff verwirckt / Vnd beleyben alle Regiment in jr Ordnung / wie vor.
+  cs: |-
+    Kdyby však některý poddaný, vysokého nebo nízkého jména, svévolnou rukou jednal proti této výsadě, propadl bez milosti hlavu; a všechna zřízení {Regiment} zůstávají v dosavadním pořádku.
+- typ: odstavec
+  de: |-
+    Es mag aber die that wol gerechtfertigt werden / vor den Ordenlichen Veldtrichtern / ob die vermessenlichen / verdächtlich / beredenlich / wol bedacht / mit alltem trow / oder über Frydbott / oder Mordtmässig / Als hinderwärts / Auß denen oder dergleichen vrsachen / mag der Richter über lauter darthůn / wie recht ist / mit der Vrtail / dem thäter die Freyhait wol aberkennen / Alsdann soll der Oberst / mit wissen des Veldtmarschalcks / vnd zůuor der Zeügmaister / als ain Oberkait / durch den Prouosen / den thäter annemen / vnd weyter ergan lassen / was die Recht vermügen.
+  cs: |-
+    Čin však smí být souzen před řádnými polními soudci {Veldtrichtern}, [aby se zjistilo,] zda byl spáchán opovážlivě, podezřele, po domluvě {beredenlich}, s rozmyslem, se starou pohrůžkou {trow}, přes vyhlášený mír {Frydbott} nebo vražedně, například zezadu. Z těchto nebo podobných příčin smí soudce po jasném prokázání, jak je právem, pachateli rozsudkem {Vrtail} výsadu odejmout. Potom má plukovník {Oberst} s vědomím polního maršálka {Veldtmarschalcks} – a především zbrojmistr {Zeügmaister} jako [jeho] vrchnost – dát pachatele profousem {Prouosen} zajmout a nechat dále proběhnout, co práva připouštějí.
+- typ: odstavec
+  de: |-
+    Doch so soll der Zeügmaister / zůuordrist / die erkennt Vrtail / so der thäter besetzt / das er nit daruon mag / in der Artelarey verkünden / vnd vmbschlahen lassen / Das nyemant wider das Recht / anffrürig / oder handt anleg / bey kopff abhawen.
+  cs: |-
+    Zbrojmistr však má nejprve, jakmile je pachatel zajištěn, aby nemohl uniknout, dát vynesený rozsudek v dělostřelectvu {Artelarey} vyhlásit a vybubnovat, aby se nikdo proti právu nebouřil {anffrürig}[^1] ani nevztáhl ruku, pod trestem stětí hlavy.
+- typ: odstavec
+  de: |-
+    Item so ainer dann die Freyhait hat / mit aller billichhait / vnd dieselb nit abgesprochen werden mag / vnd das Leger auffprech / so soll der thäter / bey ainer Büchsen beleyben / Innhallt 24 Schritt / oder gar darauff sitzen / biß in das nechst Leger / so bleybt er abermals bey der Artelarey / Also ferr / erstreckt sich / dem thäter / die Freyhait / Gienge er aber weytter daruon / darumb bestee er sein Abendessen.
+  cs: |-
+    Dále má-li někdo výsadu po vší slušnosti a nemůže mu být odepřena, a ležení {Leger} se zvedá, má pachatel zůstat u některého děla {Büchsen} v okruhu 24 kroků {Schritt}, nebo na něm přímo sedět, až do příštího ležení; tam zůstává opět u dělostřelectva. Až potud sahá pachatelova výsada. Kdyby však odešel dál, ať za to ručí svou večeří.[^2]
+- typ: odstavec
+  de: |-
+    Item also ist der gröst Fräuel / so in dem gantzen Leger beschehen mag / bey der Artelarey / vnd in der Schantz / Welcher über den andern Zuckt oder schlecht / der ist / on genad / das Haupt verfallen / Dann es ist kain Platz / der dienstlicher ist / zů gemainem Auflauff vnd Lerman / dann an disen Zwayen ortten / vnd da man mer schaden von zugewarten ist / Es wäre dann ain sondere Person / die ain Ampt bey der Artelarey hett.
+  cs: |-
+    Dále největší zločin {Fräuel}, který se může v celém ležení stát, je ten, který se stane u dělostřelectva a v šanci {Schantz}. Kdo tam na druhého tasí {Zuckt} nebo ho udeří, propadl bez milosti hlavu. Neboť není místa, které by více napomáhalo obecnému srocení {Auflauff} a poplachu {Lerman} než tato dvě místa a odkud by bylo třeba očekávat větší škodu. Leda by to byla zvláštní osoba, která má u dělostřelectva úřad {Ampt}.[^3]
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Item des Obersten VeldZeügmaisters Freyhait vnd Proueyt / so jm zůgehörig ist / volgt hernach.
+  cs: |-
+    Dále následuje výsada a požitky {Proueyt} nejvyššího polního zbrojmistra {Obersten VeldZeügmaisters}, které mu náležejí
+- typ: odstavec
+  de: |-
+    Item so Schloss oder Stett gewunnen werden / die beschossen seind / wenig oder vil / es werd auff gegeben / oder mit dem Sturm erobert / so ist alle Mundicey des VeldZewgmaisters / Alls Büchsen / Puluer / Kugeln / vnd was darzů gehörig / Deßgleichen alle Wör / Harnisch / Spieß / vnd der geleichen / Als Handtgeschütz / vnd Hagken / vnnd was zů der handtwör gehört.
+  cs: |-
+    Dále když se dobudou hrady nebo města, která byla ostřelována, ať málo nebo hodně, a ať se vzdají, nebo jsou dobyta útokem {Sturm}, patří veškerá munice {Mundicey} polnímu zbrojmistrovi: děla, prach {Puluer}, koule {Kugeln} a co k tomu patří, rovněž všechny zbraně {Wör}, zbroj {Harnisch}, píky {Spieß} a podobné věci, jako ruční palné zbraně {Handtgeschütz}, hákovnice {Hagken} a co patří k ruční zbrani.
+poznamky:
+- n: 1
+  text: |-
+    V tisku „anffrürig“ – tisková chyba za „auffrürig“ (vzpurný, buřičský).
+- n: 2
+  text: |-
+    Obrat „darumb bestee er sein Abendessen“ – tj. na vlastní nebezpečí; mimo okruh dělostřelectva výsada neplatí a pachatel může být zatčen.
+- n: 3
+  text: |-
+    Výjimka se patrně vztahuje na trest – osobu s úřadem u dělostřelectva (která smí např. kázeňsky trestat) nelze za úder hned popravit; smysl věty je stručný a nejednoznačný.

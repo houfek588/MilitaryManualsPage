@@ -151,6 +151,8 @@ KONCOVKY = ('n', 'en', 'e', 's', 'es', 'er', 'ern', 'em')   # pádové a množn�
 def norm_de(s):
     s = s.lower().replace('ſ', 's').replace('å', 'a').replace('ä', 'a').replace('ö', 'o').replace('ü', 'u').replace('ů', 'u')
     s = s.replace('ß', 'ss').replace('th', 't').replace('ey', 'ei').replace('ff', 'f').replace('dt', 't')
+    # švábský a starší pravopis (Ott: Zeügmaister, Zewg, Kriegßlewt, Veldtleger) – stejně jako normDe v app.js
+    s = s.replace('ai', 'ei').replace('ay', 'ei').replace('ew', 'eu').replace('v', 'f')
     return re.sub(r'[^a-z]', '', s)
 
 

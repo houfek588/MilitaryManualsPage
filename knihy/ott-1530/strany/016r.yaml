@@ -1,0 +1,51 @@
+id: 016r
+list: '[16] r'
+strana: recto
+sken: 31
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item so rechen ich allwegen Acht Rossen 3 Person/ Zwen Fürmänner vnd ain Läuffer/ der jnen hilfft der Ross wartten/ mit fütterung/ trencken/ vnd anders/ auß vnd ein setzen/ Das macht in Summa. – 192 Person.
+  cs: |-
+    Dále počítám vždy na osm koní 3 osoby: dva vozky {Fürmänner} a jednoho běžce {Läuffer}, který jim pomáhá ošetřovat koně – krmit, napájet a jiné – a vypřahat a zapřahat. To dělá v součtu – 192 osob.
+- typ: odstavec
+  de: |-
+    Item Person vnnd Ross/ was allain zů den Büchsen gehört/ macht in Summa/ person vnd Ross/ – 704
+  cs: |-
+    Dále osoby a koně, kteří patří jen k dělům {Büchsen}, činí v součtu – 704.
+- typ: odstavec
+  de: |-
+    Item die yetzgemellten Person vnnd Ross/ seind in ainer besoldung/ Darumb so volgt hernach dieselb Tax/
+  cs: |-
+    Dále právě zmínění lidé a koně mají jednotný žold {besoldung}; proto následuje jejich sazba {Tax}.
+- typ: odstavec
+  de: |-
+    Item man gibt gewonlich auff ain Person der Fürleüt ain tag/ dergeleichen auch den Rossen/ auf ains 15 Kreützer oder ain Ort/ ist gleich so vil/ vnd stat nyemandt für Schaden/ Der Fürman můß sein geschirr für sich selbs erhallten/ Vnd macht die Summ auf ainen tag/ der 704 person vnd ross 176 florin/ Ainen Monat/ vnd 30 täg für ainen Monat gerechnet/ thůt die gantz Summ/ – 5280 Florin.
+  cs: |-
+    Dále se obvykle dává na jednu osobu z vozků {Fürleüt} na den, a stejně tak i na koně, na každého 15 krejcarů {Kreützer} neboli jeden ort {Ort},[^1] což je totéž; za škodu nikdo neručí – vozka si musí svůj postroj {geschirr} udržovat sám. To dělá na jeden den za 704 osob a koní 176 zlatých {florin}. Za jeden měsíc, počítá-li se 30 dní na měsíc, činí celý součet – 5280 zlatých.[^2]
+- typ: nadpis
+  uroven: 2
+  de: Büchsenmaister mit jren sölden/ volgt hernach.
+  cs: Následují puškaři {Büchsenmaister} s jejich žoldy
+- typ: odstavec
+  de: |-
+    Item welcher ainen ScharpffeMetzen/ oder ainen Basiliscen/ Nachtgall/ Singerin/ oder ain Quartan scheüßt/ das seind Mauren precherin/ dieselben haben den Namen/ das sy Büchsenmaister haissen/ Welche aber Trachen/ Schlanngen/ Valckonen oder Valckonet schiessen/ die haissen vnd seind Schützen/ Ainer haißt ain Trachen oder Schlangen schütz/ die andern Valckonen oder Valckonet schützen/ vnd nit Büchsenmaister/ Darumb soll der Zeügmaister ain sonder auffmercken haben/ wenn jm frembd vnd vnbekant gesellen zůkomen/ die sich für Büchssenmaister anzaigen/ vnd dienst begeren/ das er sy mit fleyß erforsch vnd frag/ wa sy/ als Büchsenmaister/ vormals/ vnd bey wem/ oder vnder welchem Zewgmaister/ vormals geschossen haben/ im veld/ vor Schlossen/ Stetten oder in Besatzungen/ So er das anzaigt/ soll der Zewgmaister nach seinen Bassbrůffen vnd Abschid fragen/ die sehen vnd hören.
+  cs: |-
+    Dále kdo střílí ze šarfmece {ScharpffeMetzen}, z baziliška {Basiliscen}, ze slavíka {Nachtgall}, ze zpěvačky {Singerin} nebo z kartouny {Quartan} – to jsou bořiče hradeb {Mauren precherin} –, ti mají to jméno, že se nazývají puškaři. Kteří však střílejí z draků {Trachen}, kulverin {Schlanngen}, falkon {Valckonen} nebo falkonetů {Valckonet}, ti se nazývají a jsou střelci {Schützen}: jeden se jmenuje střelec z draka nebo z kulveriny, ostatní střelci z falkon nebo falkonetů, a ne puškaři. Proto má zbrojmistr {Zeügmaister} zvlášť dávat pozor, když k němu přijdou cizí a neznámí tovaryši, kteří se vydávají za puškaře a žádají o službu: má je pilně vyzkoušet a vyptat se, kde, u koho nebo pod kterým zbrojmistrem dříve jako puškaři stříleli – v poli, před hrady a městy nebo v posádkách {Besatzungen}. Když to [některý] udá, má se ho zbrojmistr ptát po průvodních listech {Bassbrůffen} a propouštěcím listu {Abschid}, prohlédnout je a dát si je přečíst.
+- typ: odstavec
+  de: |-
+    Alßdann findt der Zeügmaister/ ob er seinem anzaigen nach an den orten gebraucht worden sey oder nit/ Erfindt auch in denselben Baßbriefen/ Ob Er als ain Büchsenmaister gebraucht worden sey/ oder für ainen Schützen/ vnd wie er sich in seinem Dienst gehallten hat.
+  cs: |-
+    Tehdy zbrojmistr zjistí, zda na těch místech podle svého udání skutečně sloužil, nebo ne. Z týchž průvodních listů zjistí také, zda sloužil jako puškař, nebo jako střelec, a jak se ve službě choval.
+- typ: odstavec
+  de: |-
+    Hat er dann nichts anzuzaigen/ so mag jn der Zewgmaister wol faren vnd weytter Bassieren lassen/ Man findt der gesellen vil/ die der Büchsenmaister handtraicher seind gewesen/ vnd mainen/ wenn sy ain Büchs laden vnd anzünden künden/ sy seyen schon Büchsenmaister/ so felets noch vmb ainen weytten/ Es gehört mer darzů/ Es leyt dem Herrn ain mercklicher Cost daran/ Man soll den Zewg nit vmb sonst verschiessen.
+  cs: |-
+    Nemá-li pak nic, čím by se vykázal, smí ho zbrojmistr klidně nechat jít a táhnout dál. Najde se mnoho tovaryšů, kteří byli u puškařů podavači {handtraicher}, a myslí si, že když umějí dělo nabít a zapálit, jsou už puškaři. K tomu však mají ještě daleko; patří k tomu víc. Pána to stojí značný náklad – munice {Zewg} se nemá vystřílet nadarmo.
+poznamky:
+- n: 1
+  text: Ort – čtvrtina zlatého; 15 krejcarů je při 60 krejcarech na zlatý právě čtvrt zlatého.
+- n: 2
+  text: 'Kontrola: 512 koní ÷ 8 × 3 = 192 osob; 512 + 192 = 704; 704 × 15 krejcarů = 10 560 krejcarů = 176 zlatých denně; × 30 dní = 5280 zlatých.'

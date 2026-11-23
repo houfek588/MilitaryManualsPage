@@ -1,0 +1,86 @@
+id: 015v
+list: '[15] v'
+strana: verso
+sken: 30
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item die vier Quartonen/ söllen auch Zwen überig Wägen haben/ darauf die Ror gefürt werden/ ye Zway auf ainem wagen/ vnd die gefäß ledig gefürt/ das macht in ainer Summ 20 lediger wägen.
+  cs: |-
+    Dále čtyři kartouny {Quartonen} mají mít také dva další vozy, na nichž se vezou hlavně {Ror}, vždy dvě na jednom voze, a lafety {gefäß} se vezou prázdné. To dělá v součtu 20 prázdných vozů.[^1]
+- typ: nadpis
+  uroven: 3
+  de: Nun volgt hernach die Summ der Ross/ so an den Büchsen ziehen.
+  cs: Nyní následuje počet koní {Ross}, kteří táhnou děla
+- typ: odstavec
+  de: |-
+    Item ain Scharpffemätz můß haben 18 Ross/ mit jrem wagen/ vnnd das gefäß 6 Ross/ machen die vier Metzen/ in jrer Summ/ – 96 Ross
+  cs: |-
+    Dále jedna šarfmece {Scharpffemätz} musí mít 18 koní se svým vozem a lafeta 6 koní; to dělá u čtyř šarfmecí v součtu – 96 koní.
+- typ: odstavec
+  de: |-
+    Item zwen Basilisco/ můß ainer haben xiiij. Ross/ vnnd 5. zu dem gefäß/ machen baid Basiliscen – 38 Ross
+  cs: |-
+    Dále dva bazilišky {Basilisco}: každý musí mít 14 koní a 5 k lafetě; to dělá u obou bazilišků – 38 koní.
+- typ: odstavec
+  de: |-
+    Item die Vier Nachtigallen/ vnd die vier Singerin/ seind gleich an der schwär/ můß yede haben Zehen Ross/ vnnd yedes gefäß Vier Ross/ machen die Acht Stuck in Smma. – 112 Ross
+  cs: |-
+    Dále čtyři slavíci {Nachtigallen} a čtyři zpěvačky {Singerin} jsou stejně těžké; každá musí mít deset koní a každá lafeta čtyři koně. To dělá u osmi kusů v součtu – 112 koní.
+- typ: odstavec
+  de: |-
+    Item vier Quartana/ die gond auf jren gefässen/ der aine můß haben 10 Ross/ thůt in der Summ/ – 40 Ross
+  cs: |-
+    Dále čtyři kartouny {Quartana} jezdí na svých lafetách; každá musí mít 10 koní, činí to v součtu – 40 koní.
+- typ: odstavec
+  de: |-
+    Item 5 Trachen/ der ainer můß haben 9 Ross/ thůt in Summa/ – 45 Ross
+  cs: |-
+    Dále 5 draků {Trachen}: každý musí mít 9 koní, činí to v součtu – 45 koní.
+- typ: odstavec
+  de: |-
+    Item Sechs Schlangen/ můß aine haben 8 Ross/ Summa – 48 Ross
+  cs: |-
+    Dále šest kulverin {Schlangen}: každá musí mít 8 koní, součet – 48 koní.
+- typ: odstavec
+  de: |-
+    Item 10 Valckon/ můß aine haben 5 Ross/ thůt in der Summ – 50 Ross
+  cs: |-
+    Dále 10 falkon {Valckon}: každá musí mít 5 koní, činí to v součtu – 50 koní.
+- typ: odstavec
+  de: |-
+    Item 14 Valckoneth/ můß ains haben 2 Ross/ thůt in Summa/ – 28 Ross
+  cs: |-
+    Dále 14 falkonetů {Valckoneth}: každý musí mít 2 koně, činí to v součtu – 28 koní.
+- typ: odstavec
+  de: |-
+    Item Zwo Fewrbüchsen/ die müssen baid haben – 20 Ross
+  cs: |-
+    Dále dva ohnivé moždíře {Fewrbüchsen}; ty musejí mít oba dohromady – 20 koní.
+- typ: odstavec
+  de: |-
+    Item Zwen groß Morthier oder Boler/ die müssen baid haben/ – 20 Ross
+  cs: |-
+    Dále dva velké moždíře {Morthier} neboli {Boler}; ty musejí mít oba dohromady – 20 koní.
+- typ: odstavec
+  de: |-
+    Item Zwen halb Morthier/ die müssen haben/ – 10 Ross
+  cs: |-
+    Dále dva poloviční moždíře; ty musejí mít – 10 koní.
+- typ: odstavec
+  de: |-
+    Item die Zwölff klaine Morthier/ müssen haben ainen wagen/ mit – 5 Rossen.
+  cs: |-
+    Dále dvanáct malých moždířů musí mít jeden vůz – s 5 koňmi.
+- typ: odstavec
+  de: |-
+    In Summa/ Alle Ross/ so an den Büchsen ziehen/ machen – 512 Ross.
+  cs: |-
+    Celkem všichni koně, kteří táhnou děla {Büchsen}, činí – 512 koní.[^2]
+poznamky:
+- n: 1
+  text: Vozy vyjmenované na této a [[015r|předchozí straně]] dávají jen 4 (šarfmece) + 2 (bazilišky, počítá-li se po jednom voze) + 8 (slavíci a zpěvačky) + 2 (kartouny) = 16; tisk uvádí 20, číslo ponecháno.
+- n: 2
+  text: 'Kontrola: 96 + 38 + 112 + 40 + 45 + 48 + 50 + 28 + 20 + 20 + 10 + 5 = 512 – souhlasí. U bazilišků tisk uvádí římské „xiiij.“ (14): (14 + 5) × 2 = 38. „Smma“ je tisková chyba za „Summa“.'

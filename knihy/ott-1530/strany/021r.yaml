@@ -1,0 +1,61 @@
+id: 021r
+list: '[21] r'
+strana: recto
+sken: 41
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Schlüssel zů der Puluer Truhen hat/ Dergleichen soll auch im Nachzug ain Zeügwag gehallten werden.
+  cs: |-
+    má klíč k truhle s prachem {Puluer Truhen}. Stejně tak se má i v zadním voji {Nachzug} držet jeden zbrojní vůz {Zeügwag}.
+- typ: seznam
+  de:
+  - Item 1 wagen mit holltz/ ägsten/ vnd beyheln.
+  - Item ain wagen mit Stainwaffen/ das ist Maurer oder Stainmötzen Zeüg.
+  - Item 1 wagen mit Bickeln
+  - Item ain wagen mit Hawen.
+  - Item zwen wägen mit Schaufeln oder Schupffen.
+  - Item Zwen Zewgwägen/ ain grosser Zeüg/ vnnd ainen klainen Zewg/ Darbey Esel/ Beck/ vnd annder Vndersetzel/ Auch Setzpäwm/ gestreb hölltzer/ Winden vnd annders darzůgehörig/ so man Büchsen schmieren will/ oder die Büchsen von ainem wagen auf den andern heben soll.
+  - Item ain wagen mit Schmier Schmer/ Speck vnd öl/ vnd dergleichen/ was zum schmirben gehörig ist.
+  - Item ain wagen zů den hebeysen.
+  - Item ain wagen mit hebtremeln.
+  - Item ain wagen mit Len vnd lon negeln/ Hämmern/ Zangen/ Brechmaisseln/ Schlegeln/ vnd annderm eyssen werckZeüg/ auch übrige legeysen.
+  - Item ain wagen mit RossEysen/ biß auf 1520 vnnd 6000 hůfnegel/ den Rossen der Artelarey zu gůt.
+  - Item ain wagen mit ainem SchmidZewg/
+  - Item ain wagen mit Zymmer/ Wagner/ vnd Binderzewg.
+  - Item ain wagen mit LenSaylen stränngen/ vnd andern Saylern/ so ins Veldt gehörig.
+  - Item ain wagen mit beschlagen Lenstanngen vnd Sylscheyttern/
+  - Item ain wagen mit Stäb vnnd Schineysen/ zu aller notdurfft zůuerschmiden/
+  - Item ain wagen mit Zymmerhölltzern/ groß vnd klain/ zů Setzbowmen/ gestreben/ resten/ vnd ander notdurfft/
+  - Item ain wagen mit rundenstanngen/ zů Zeldtbowmen vnd Laytern sprossen/ Zeltnägeln/
+  - Item Zwen wägen mit Fellgen/ Naben/ vnd Spaichen/ groß vnd klain/ die vnaußgemacht seind/
+  - Item ain wagen mit ächsen vnaußgemacht/ die zů grossem geschütz gehören.
+  cs:
+  - Dále 1 vůz s dřevem, sekerami a sekyrkami {beyheln}.
+  - Dále jeden vůz s kamenickým nářadím {Stainwaffen}, to jest se zednickým nebo kamenickým náčiním.
+  - Dále 1 vůz s krumpáči {Bickeln}.
+  - Dále jeden vůz s motykami {Hawen}.
+  - Dále dva vozy s lopatami {Schaufeln} neboli šufany {Schupffen}.
+  - Dále dva zbrojní vozy {Zewgwägen} – jedno velké a jedno malé zvedací náčiní {Zeüg},[^1] k tomu kozy {Esel}, kozlíky {Beck} a jiné podložky {Vndersetzel}, také stavěcí trámy {Setzpäwm}, vzpěrná dřeva, heveráky {Winden} a jiné, co k tomu patří, když se mají děla {Büchsen} mazat nebo překládat z jednoho vozu na druhý.
+  - Dále jeden vůz s mazacím sádlem {Schmier Schmer}, slaninou, olejem a podobně, co patří k mazání.
+  - Dále jeden vůz pro zvedací železa {hebeysen}.
+  - Dále jeden vůz se zvedacími trámky {hebtremeln}.
+  - Dále jeden vůz s hřeby do ojí a zákolníky {Len vnd lon negeln},[^2] kladivy, kleštěmi, sekáči, palicemi a jiným železným nářadím, také s náhradními podkladními železy {legeysen}.
+  - Dále jeden vůz s podkovami {RossEysen}, až 1520 [kusů], a 6000 podkováků {hůfnegel} pro koně dělostřelectva {Artelarey}.
+  - Dále jeden vůz s kovářským nářadím {SchmidZewg}.
+  - Dále jeden vůz s tesařským, kolářským a bednářským nářadím.
+  - Dále jeden vůz s provazy k ojím a postraňky {LenSaylen stränngen} a jinými provazy, které patří do pole.
+  - Dále jeden vůz s okovanými ojemi {Lenstanngen} a vahadly {Sylscheyttern}.
+  - Dále jeden vůz s tyčovým a pásovým železem {Stäb vnnd Schineysen}, aby se z něj dalo vykovat všechno potřebné.
+  - Dále jeden vůz s tesařským dřívím, velkým i malým, na stavěcí trámy, vzpěry, lešení {resten} a jiné potřeby.
+  - Dále jeden vůz s kulatými tyčemi na stanové sloupy a příčle žebříků [a] se stanovými kolíky.
+  - Dále dva vozy s loukotěmi, náboji a paprsky, velkými i malými, které nejsou dohotoveny.
+  - Dále jeden vůz s nedohotovenými nápravami, které patří k velkým dělům.
+poznamky:
+- n: 1
+  text: „ain grosser Zeüg vnnd ainen klainen Zewg“ – zde patrně zvedací náčiní (kladkostroj, Hebzeug), jímž se těžká děla zvedají; k němu patří vyjmenované podložky a heveráky.
+- n: 2
+  text: „Len vnd lon negel“ – nejisté; „Len“ patrně od „Lanne/Lenne“ (oj, oplen vozu, srov. níže „Lenstanngen“, „LenSaylen“), „lon“ = Lohn/Lünse, zákolník (čep, který drží kolo na nápravě).

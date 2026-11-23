@@ -1,0 +1,21 @@
+id: 042r
+list: '[42] r'
+strana: recto
+sken: 83
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnnd seinem GegenSchreyber / die Zal / jrer gůt gemachten Knecht / vnd derselben gepürenden Söld / mit jrer Handt Verzaichnet / vnd darzů mit jrem Pettschier / verpüttschafft / übergeben / Nach welchen Verzaichnussen / Alßdann der Pfenningmaister / ains yeden Fendlin knecht Hauptmann / gellt geben / von ainem yeden sollichen Hauptman / ain schrifftlich verpütschafften Quitantz / empfahen solle / wes er / der hauptman / von sein / vnnd seiner Knecht gepürende Bezalung wegen / gelts von jm empfanngen hab.
+  cs: |-
+    a jeho protipísaři {GegenSchreyber} odevzdat počet svých uznaných knechtů a jim náležejících žoldů {Söld}, zapsaný vlastní rukou a k tomu zapečetěný jejich pečetidlem {Pettschier}. Podle těchto soupisů má pak pokladník {Pfenningmaister} dát peníze hejtmanovi knechtů každého praporce {Fendlin} a od každého takového hejtmana přijmout písemnou zapečetěnou stvrzenku {Quitantz} o tom, kolik peněz od něho on, hejtman, přijal na náležitou výplatu svou a svých knechtů.
+- typ: odstavec
+  de: |-
+    Item wess dann gedachter Pfenningmaister / dem Obersten / über sölliche Knecht verordnet / an seiner Besoldung gibt / darumb soll Er yedesmals / ain gepürende verbüttschierte Quittanz nemen.
+  cs: |-
+    Dále co pak řečený pokladník dá na žold {Besoldung} plukovníkovi {Obersten}, ustanovenému nad takovými knechty, za to si má pokaždé vzít náležitou zapečetěnou stvrzenku.
+- typ: odstavec
+  de: Ende der KriegsOrdnung.
+  cs: Konec válečného řádu {KriegsOrdnung}.

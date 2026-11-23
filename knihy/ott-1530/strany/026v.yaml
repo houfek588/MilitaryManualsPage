@@ -1,0 +1,56 @@
+id: 026v
+list: '[26] v'
+strana: verso
+sken: 52
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Zewgwart beuelch.
+  cs: Pověření zbrojního správce {Zewgwart}
+- typ: odstavec
+  de: |-
+    Item der Zewgwart/soll allen Zewg/vnd die gantz Mundicey/in seinem beuelch haben/Alles das er ins Veld fürt/soll jm mit ainem Inuentari/inuentiert/überantwurt werden/darmit der Zewgmaister dem Kriegß Herren anzaigen künd/Was der Statt oder dem Schloß an Zewg/vnd annderm/aufgegangen sey/oder was im vorrat da ist/oder was der gantz Veldtzug/an Kugeln/Pulver/vnd anderm Vncosten genomen hab/sich ferrner darnach haben zurichten.
+  cs: |-
+    Dále má mít zbrojní správce pod svou správou veškerou výzbroj {Zewg} a celou munici {Mundicey}. Vše, co veze do pole, mu má být sepsáno do inventáře {Inuentari} a předáno, aby zbrojmistr {Zewgmaister} mohl válečnému pánu {Kriegß Herren} oznámit, kolik výzbroje a jiných věcí ubylo městu nebo hradu,[^1] co je ještě v zásobě a kolik stálo celé tažení {Veldtzug} na koulích, prachu a jiných nákladech, aby se [válečný pán] mohl podle toho dále zařídit.
+- typ: odstavec
+  de: |-
+    Item es soll jm mit fleyß verzaichnet werden/so vil Kugeln/so vil Pulvers/vnnd also durchauß/alle Mundicey beschriben/auch alle nacht/was denselben tag aufgeganngen ist/vnd was jn geduncket/das zu wenig werden will/soll er dem Zewgmaister in gehaim sagen/vnd sonnst nyemant eröffnen/Da kan der Zeügmaister im Kriegs Ratt wol meldung thůn/das söllicher mangel erstatt werd/oder in ander weg/sich die Kriegß Rät wissen zuhallten.
+  cs: |-
+    Dále se mu má pečlivě zapsat, kolik je koulí, kolik prachu, a tak veskrze popsat veškerou munici; a každou noc také, co se toho dne spotřebovalo. Čeho se mu zdá, že začíná být málo, to má zbrojmistrovi říci tajně a nikomu jinému to nevyjevit. Zbrojmistr pak může ve válečné radě {Kriegs Ratt} podat zprávu, aby se takový nedostatek doplnil, nebo aby váleční radové {Kriegß Rät} věděli, jak se jinak zařídit.
+- typ: odstavec
+  de: |-
+    Vnd wa er/der Zewgwart/von andern gefragt wurd/ob nit mangel an dem oder disem sey/Soll er sich allwegen/mit gůttem trost/hören lassen/Er hab sein noch genůg/da sey kain mangel/Darmit dest weniger Meyterey/gegen den Veinden gemacht werd/vnd dest weniger waiche vnder das Kriegß Volck komen müge.
+  cs: |-
+    A kdyby se ho, zbrojního správce, jiní ptali, zda není nedostatek toho či onoho, má vždy povzbudivě odpovídat, že toho má ještě dost a že žádný nedostatek není – aby tváří v tvář nepříteli tím méně docházelo ke vzpouře {Meyterey}[^2] a aby se mezi válečný lid {Kriegß Volck} tím méně šířila malomyslnost {waiche}.
+- typ: odstavec
+  de: |-
+    Item der Zewgwart soll auch im ziehen/alle nacht die Pulverwägen stellen/oder beuelhen zustellen/auff jren verordenten Platz/wie dann das durch die Quartier vnd Zewgmaister anzaigt wirdt/Darnach die andern Artelarey wägen/als ain Wagenpurg/darumb schliessen/Darumb söllen jm annder Zewg Diener hilflich sein/darmit nyemandt zů dem Pulver müge komen mit Fewr/weder Veind noch Fraind/in Lerman oder sonnst.
+  cs: |-
+    Dále má zbrojní správce na pochodu každou noc postavit nebo dát postavit vozy s prachem {Pulverwägen} na jejich určené místo, jak je ukáže kvartýrmistr a zbrojmistr {Quartier vnd Zewgmaister}, a potom je obstavit ostatními vozy dělostřelectva {Artelarey} jako vozovou hradbou {Wagenpurg}. K tomu mu mají pomáhat ostatní zbrojní služebníci {Zewg Diener}, aby se k prachu nikdo nemohl dostat s ohněm, ani nepřítel, ani přítel, za poplachu {Lerman} ani jindy.
+- typ: odstavec
+  de: |-
+    Er soll auch alle morgen/so die Fürlewt angespannen haben/widerumb yeden Fůrman erfordern/wie er faren soll/darmit er die wägen in ordnung behallt/Es will sein maß haben/wie yeder Wagen gan soll/darmit man künde ainem yeden Zewg Diener sagen/Da findst du den wagen/da den andern/Es wayßt mancher Fůrman selb nit/was er fürt/auch der nechst darhinder/was der vorder oder annder füren/Es wär auch nit gůt/das man es allemal wissen sollt.
+  cs: |-
+    Má také každé ráno, když vozkové {Fürlewt} zapřáhnou, znovu každému vozkovi {Fůrman} určit, kde má jet, aby udržel vozy v pořádku. Musí být stanoveno, jak má který vůz jet, aby se dalo každému zbrojnímu služebníkovi říci: tam najdeš ten vůz, tam onen. Mnohý vozka totiž sám neví, co veze, a ani ten, kdo jede hned za ním, [neví,] co vezou ten vpředu nebo jiní; a nebylo by ani dobré, aby to vždycky každý věděl.
+- typ: odstavec
+  de: |-
+    Item des Zewgwarten Sold/auff sein leyb/alle Monat/ – 16 florin.
+  cs: |-
+    Dále žold {Sold} zbrojního správce na jeho osobu každý měsíc – 16 zlatých {florin}.
+- typ: odstavec
+  de: |-
+    Item des Zeügwartten Schreyber/soll man alle Monat geben/ – 8 florin.
+  cs: |-
+    Dále písaři {Schreyber} zbrojního správce se má dávat každý měsíc – 8 zlatých.
+- typ: odstavec
+  de: |-
+    Item auff des Zewgwarten Jungen/gehört ain Sold/das ist/ – 4 florin.
+  cs: |-
+    Dále na pachole {Jungen} zbrojního správce náleží jeden žold, totiž – 4 zlaté.
+poznamky:
+- n: 1
+  text: „der Statt oder dem Schloß“ – patrně město nebo hrad, z jehož zbrojnice byla výzbroj vypravena (srov. úvodní oddíl o posádce); méně pravděpodobně obléhané místo.
+- n: 2
+  text: Meyterey = Meuterei.

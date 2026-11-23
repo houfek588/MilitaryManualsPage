@@ -1,0 +1,95 @@
+id: 015r
+list: '[15] r'
+strana: recto
+sken: 29
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item Vier Duplicana/ die man nennt Nachtgallen/ schiessen gewonlich 50 pfundt eysen/ wegen an jrem Ror 50 Zentner.
+  cs: |-
+    Dále čtyři duplikany {Duplicana}, kterým se říká slavíci {Nachtgallen}; střílejí obvykle 50 liber {pfundt} železa a jejich hlaveň {Ror} váží 50 centů {Zentner}.
+- typ: odstavec
+  de: |-
+    Item vier Triplicana/ die man nennt Singerin/ schiessen gewonlich 50 pfundt eysen/ wegen auch an jrem Ror 50 Zentner.
+  cs: |-
+    Dále čtyři triplikany {Triplicana}, kterým se říká zpěvačky {Singerin}; střílejí obvykle 50 liber železa a jejich hlaveň váží také 50 centů.
+- typ: odstavec
+  de: |-
+    Item vier Quartana/ die man nennet Not/ oder Fiertel büchsen/ die schiessen gewonlich 25 pfundt eysen/ wegen auch an jrem Ror 25 Zentner.
+  cs: |-
+    Dále čtyři kartouny {Quartana}, kterým se říká „nouzová“ {Not}[^1] neboli čtvrtinová děla {Fiertel büchsen}; ty střílejí obvykle 25 liber železa a jejich hlaveň váží 25 centů.
+- typ: odstavec
+  de: |-
+    Das seind die 4 maurenbrecher/ darmit man mag Mauren vnd Thürn vmwerffen/ auch andere starcke gebew/ die haben in jrer Zal oder Summ – 18 stuck.
+  cs: |-
+    To jsou ty čtyři [druhy] bořičů hradeb {maurenbrecher}, jimiž lze povalit hradby a věže i jiné pevné stavby; v počtu neboli součtu je jich – 18 kusů.
+- typ: nadpis
+  uroven: 3
+  de: Nun volgen hernach/ die vier geschlecht der Veldgeschütz/
+  cs: Nyní následují čtyři druhy polních děl {Veldgeschütz}
+- typ: odstavec
+  de: |-
+    Item Fünff Trackana/ die man nennt zu vnnserm teütsch/ Trachen/ oder Notschlangen/ die schiessen gewonlich 16 pfundt eysen.
+  cs: |-
+    Dále pět trakan {Trackana}, kterým se po našem německu říká draci {Trachen} neboli těžké kulveriny {Notschlangen}; ty střílejí obvykle 16 liber železa.
+- typ: odstavec
+  de: |-
+    Item Sechß Schlanngkana/ die man nennt Schlangen/ schiessen gewonlich 8 pfundt eysen.
+  cs: |-
+    Dále šest šlangkan {Schlanngkana}, kterým se říká kulveriny {Schlangen}; střílejí obvykle 8 liber železa.
+- typ: odstavec
+  de: |-
+    Item Zehen Valckana/ die man nennt HalbSchlanngen/ schiessen gewonlich Vier pfundt eysen oder pley.
+  cs: |-
+    Dále deset falkon {Valckana}, kterým se říká poloviční kulveriny {HalbSchlanngen}; střílejí obvykle čtyři libry železa nebo olova.
+- typ: odstavec
+  de: |-
+    Item Vierzehen Valckonet/ die man nennt Valcken/ schiessen gewonlich Zway pfundt Pley/ Darzů gehören zwo Fewrbüchsen/ darauß man fewr scheüßt.
+  cs: |-
+    Dále čtrnáct falkonetů {Valckonet}, kterým se říká sokoli {Valcken}; střílejí obvykle dvě libry olova. K tomu patří dva ohnivé moždíře {Fewrbüchsen}, z nichž se střílí oheň.
+- typ: odstavec
+  de: |-
+    Summa 37 Veldtgeschütz/ die mauren brechen/ Darzů thůt 18 stuck/ ist die gantz Summ aines Zeüghauß 55 Stuck Büchsen.
+  cs: |-
+    Součet: 37 polních děl; k tomu [děla], která boří hradby, činí 18 kusů. Celkový součet jedné polní zbrojnice {Zeüghauß} je tedy 55 kusů děl {Büchsen}.[^2]
+- typ: odstavec
+  de: |-
+    Darnach 2 groß Morthier/ die man nennt Narren oder Boler/ Der ainer würfft ain Zentner stain/ die gond durch starcke gewölb/ der soll wegen an seinem Ror 50 Zentner.
+  cs: |-
+    Potom 2 velké moždíře {Morthier}, kterým se říká blázni {Narren} neboli {Boler}. Každý z nich vrhá kámen o jednom centu, který prorazí i silnou klenbu; jeho hlaveň má vážit 50 centů.
+- typ: odstavec
+  de: |-
+    Item Zwen halb Morthier/ der ainer würfft ain halben Zentner/ der soll wegen an seinem Ror 25 Zentner.
+  cs: |-
+    Dále dva poloviční moždíře {halb Morthier}; každý z nich vrhá půl centu a jeho hlaveň má vážit 25 centů.
+- typ: odstavec
+  de: |-
+    Item noch 12 klain Morthier oder Boler/ der ainer von seinem Ror/ on das gefäß/ anderhalben Zentner wigt/ vnd nit über Acht pfundt würfft/ das macht in der Summ 16 Morthier/ darauß mag man fewr oder stain werffen.
+  cs: |-
+    Dále ještě 12 malých moždířů neboli {Boler}; hlaveň každého z nich bez lafety {gefäß} váží půldruhého centu a nevrhá víc než osm liber. To dělá v součtu 16 moždířů, z nichž lze vrhat oheň nebo kameny.
+- typ: nadpis
+  uroven: 3
+  de: Die übrigen Wägen zů dem grossen geschütz.
+  cs: Další vozy k velkým dělům
+- typ: odstavec
+  de: |-
+    Item die Vier ScharpffMetzen/ müssen haben/ vier besonder Wägen/ darauf man fürt die vier Ror/ vnd yedes Gefäß wirt lär gefürt.
+  cs: |-
+    Dále čtyři šarfmece {ScharpffMetzen} musejí mít čtyři zvláštní vozy, na nichž se vezou jejich čtyři hlavně, a každá lafeta {Gefäß} se veze prázdná.
+- typ: odstavec
+  de: |-
+    Item die Zwen Basiliscen/ müssen auch besonder gefürt werden/ ausserhalb der gefäß.
+  cs: |-
+    Dále dva bazilišky {Basiliscen} se musejí také vézt zvlášť, mimo lafety.
+- typ: odstavec
+  de: |-
+    Item die vier Nachtgallen/ vnd souil singerin/ müssen Acht lärer Wägen haben/ darauf man die Ror fürt/ vnd auch yedes gefäß besonnder.
+  cs: |-
+    Dále čtyři slavíci a stejný počet zpěvaček musejí mít osm prázdných vozů, na nichž se vezou hlavně, a také každá lafeta zvlášť.
+poznamky:
+- n: 1
+  text: „Quartana“ (ital. quartana, čtvrtinové dělo) je předchůdce slova kartouna, proto podle glosáře „kartouna“. „Not“ – zkrácené označení, patrně „Notbüchse“ (dělo pro nouzi, tj. pro těžkou službu), obdobně jako „Notschlange“ u těžké kulveriny níže.
+- n: 2
+  text: 'Kontrola: polní děla 5 + 6 + 10 + 14 = 35, s dvěma ohnivými moždíři 37; bořiče hradeb 4 + 2 + 4 + 4 + 4 = 18; celkem 55 kusů.'

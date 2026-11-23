@@ -1,0 +1,65 @@
+id: 031r
+list: '[31] r'
+strana: recto
+sken: 61
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dem söllen sy bayd nymer entweichen/Es soll allwegen ainer darbey beleyben/Sy sollen auch jr Losament bey der nacht/vnder den Pulverwägen haben/darmit sy dester merern fleyß fürwenden zuhütten vnd auffsehens haben/Dann solt das Pulver angezündt werden/durch vntrew/wären die Hütter mit zeytlichem Fewr verdorben.
+  cs: |-
+    a nemají od něho nikdy odejít oba; vždy má jeden u něho zůstat. V noci mají mít své ubytování {Losament} pod vozy s prachem {Pulverwägen}, aby tím pilněji střežili a dávali pozor. Kdyby totiž byl prach {Pulver} zradou {vntrew} zapálen, zahynuli by strážci {Hütter} v tom ohni sami.[^1]
+- typ: odstavec
+  de: |-
+    Item sy söllen auch bey tag oder nacht/kain vnbekannt Person/zů dem Pulver/gan lassen/er sey gleych Groß oder Klain Hanns.
+  cs: |-
+    Dále nemají ve dne ani v noci pustit k prachu žádnou neznámou osobu, ať je to velký pán, nebo obyčejný Honza {Groß oder Klain Hanns}.[^2]
+- typ: nadpis
+  uroven: 3
+  de: Tax/der Pulver Hütter Sold.
+  cs: Sazba {Tax} – žold strážců prachu {Pulver Hütter}
+- typ: odstavec
+  de: |-
+    Yedem ain Monat 6 florin. Summa thůt. – 12 florin.
+  cs: |-
+    Každému za měsíc 6 zlatých {florin}. Součet činí – 12 zlatých.
+- typ: odstavec
+  de: |-
+    Es ist darumb die Artelarey mit den Wägen/von des Pulvers wegen/verschlossen wie ain Wagenburg/das nyemants darein gan soll/dann die/so darzů gehörig seind.
+  cs: |-
+    Dělostřelectvo {Artelarey} je proto kvůli prachu uzavřeno vozy jako vozová hradba {Wagenburg}, aby do něho nikdo nevcházel kromě těch, kdo k němu patří.
+- typ: odstavec
+  de: |-
+    Item das Groß/schwär Geschütz/soll in der mitt/so man im ziehen ist/bey dem Gewaltigen Hauffen gefürt werden.
+  cs: |-
+    Dále se mají velká, těžká děla {Geschütz} na pochodu vézt uprostřed, u hlavního voje {Gewaltigen Hauffen}.
+- typ: nadpis
+  uroven: 3
+  de: Nun volgen hernach die Zeüg Diener.
+  cs: Nyní následují zbrojní služebníci {Zeüg Diener}
+- typ: odstavec
+  de: |-
+    Item der Zewgmaister soll haben Acht Zewg Diener/zu Roß/sy seyen Edel oder ander redliche Person/der sach verstendig/im Veld ober dem Zewg/die er braucht zů allen notdurfftigen sachen/hin vnd herwider/verr vnd nach/da vnd dort hin zu sollicitieren/auch auff den ganntzen Zewg zuwarten/das er in Rechter Ordnung gefürt werd/kainer für den andern einziech/Auch das sonnst kain Rayß Wagen zwischen oder in die Artelarey wägen gefürt werden.
+  cs: |-
+    Dále má mít zbrojmistr {Zewgmaister} v poli u dělostřelectva {Zewg} osm jízdních zbrojních služebníků, ať šlechticů, nebo jiných poctivých osob znalých věci. Potřebuje je ke všem nutným věcem: aby sem a tam, daleko i blízko, tu i onde vyřizovali {sollicitieren} [jeho záležitosti] a také dohlíželi na celé dělostřelectvo, aby jelo ve správném pořádku a nikdo nepředjížděl druhého, a také aby se mezi vozy dělostřelectva nebo do jejich řady nevezly žádné jiné cestovní vozy {Rayß Wagen}.
+- typ: nadpis
+  uroven: 3
+  de: Wie die Wägen gefürt söllen werden/volgt hernach.
+  cs: Následuje, jak se mají vozy vézt
+- typ: odstavec
+  de: |-
+    Item die Artelarey Wägen/söllen vor allen andern wägen gefürt werden/Darnach des Obersten Veld Hauptmanns wägen/Darnach des Veld Marschalcks/Darnach des öbersten aller Fůßknecht wägen/Darnach der Grauen/Herren/vnd anderer Haptleüwt/Kuchin vnd Zeldt wägen/vnd was sy sonnst für wägen haben/die söllen nach beuelch/deren/so man über die gemainen wägen verordnet hat/gefürt werden/Aber Kuchin vnd Zeldtwägen/mag man wol/nechst auf die Artelarey hingan lassen/wie oblaut.
+  cs: |-
+    Dále mají vozy dělostřelectva jet přede všemi ostatními vozy. Potom vozy nejvyššího polního hejtmana {Obersten Veld Hauptmanns}, potom [vozy] polního maršálka {Veld Marschalcks}, potom vozy plukovníka všech pěších knechtů {öbersten aller Fůßknecht}, potom kuchyňské a stanové vozy {Kuchin vnd Zeldt wägen} hrabat, pánů a ostatních hejtmanů {Haptleüwt}. Jiné vozy, které mají, se mají vézt podle rozkazu těch, kdo jsou ustanoveni nad obecnými vozy. Kuchyňské a stanové vozy však lze dobře nechat jet hned za dělostřelectvem, jak bylo řečeno výše.
+- typ: odstavec
+  de: |-
+    Wann die Herrn so bey jrem beuelch vnd Ordnung beleiben/müssen jr Hütten vnd Zeldt finden/so sy komen/der andern wägen/mügen sy darnach wol erwartten/Die Prouandt vnd der Sudler wägen/die werden nit allmal/in gleicher ordnung gefürt/sy gond aber die merer zeit/den andern Rayßwägen nach/Sy werden etwan zu aller vorderst gefürt/nach dem Lauffenden Hauffen/den man nennt/den Verlornen Hauffen vnnd Rennfendlin.
+  cs: |-
+    Páni, kteří [na pochodu] zůstávají u svého velení a šiku, totiž musejí najít své chýše a stany [postavené], když přijdou; na ostatní vozy pak mohou klidně počkat. Vozy s proviantem {Prouandt} a vozy markytánů {Sudler} se nevezou vždy ve stejném pořadí; většinou však jedou za ostatními cestovními vozy. Někdy se vezou úplně vpředu, za běžícím houfem {Lauffenden Hauffen}, kterému se říká ztracený houf {Verlornen Hauffen} a předvojová korouhev {Rennfendlin}.
+poznamky:
+- n: 1
+  text: „mit zeytlichem Fewr verdorben“ – „zeytlich“ je buď „časný, pozemský“ (v protikladu k věčnému ohni), nebo „okamžitý“; smysl je, že stráž by výbuch nepřežila.
+- n: 2
+  text: „Groß oder Klain Hanns“ – rčení „velký nebo malý Hans“, tj. kdokoli, vysoce či nízko postavený.

@@ -1,0 +1,49 @@
+id: 027v
+list: '[27] v'
+strana: verso
+sken: 54
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Darnach soll der Hauptman das Harnasch seinen Knechten/vmb das gellt geben/wie jms der Zewgmaister Taxiert hat/vnd in sein zal Register schreyben/so zeücht er zu seiner zeyt/auf alle Muster/den florin herab/biß er söllichs bezalt.
+  cs: |-
+    Potom má hejtman {Hauptman} dávat zbroj {Harnasch} svým knechtům {Knechten} za cenu, kterou mu stanovil zbrojmistr {Zewgmaister}, a zapsat to do svého platebního rejstříku {zal Register}; v určený čas pak [knechtovi] při každé přehlídce {Muster} srazí jeden zlatý {florin}, dokud zbroj nesplatí.
+- typ: odstavec
+  de: |-
+    Item alßbald gibt der Zewgwart/von yedes Hauptmans bekantnuß/ain Abschrifft/wievil er Harnasch hinweg hat/dem Zalschreyber oder Pfenningmaister/der die Fůßknecht bezalt/der gibt alle Muster/den Hauptlewten/das gelt/den Fůßknechten/auff dieselben Zedel.
+  cs: |-
+    Dále zbrojní správce {Zewgwart} ihned předá opis potvrzení {bekantnuß} každého hejtmana o tom, kolik zbrojí odebral, platebníkovi {Zalschreyber} neboli pokladníkovi {Pfenningmaister}, který vyplácí pěší knechty {Fůßknecht}. Ten pak při každé přehlídce vydává hejtmanům peníze pro pěší knechty podle těchto lístků {Zedel}.
+- typ: odstavec
+  de: |-
+    Also bleybt dem Kriegß Herrn das gellt/für das Harnasch/in seiner gewallt/vnd thůt der Zewgwart sein Rechenschafft/für das Harnisch/auff der Hauptlewt bekantnuß.
+  cs: |-
+    Tak zůstanou peníze za zbroj v moci válečného pána {Kriegß Herrn} a zbrojní správce skládá účet za zbroj na základě potvrzení hejtmanů.
+- typ: odstavec
+  de: |-
+    Der massen pfligt man/mit den Langen Spiessen vnder den knechten/zethůn/Deßgleichen thůt man mit der Reytter Harnisch/auch wenn sy knyebugkeln/Helmlin/oder Stirnen auf die Geül begeren/so müssen jre Hauptlewt fürston/auff die Söld/oder mit barem gellt bezalung thůn/Dergeleichen beschicht auch/so die Knecht Hanndt Ror annemen/von der Artelarey/můß auch mit söllicher maß/wie vorsteet/bezalt werden/Es geschicht offt/das offennlich außgerüfft wirt vnd vmbgeschlagen/Welcher Knecht ain Handt Ror tregt/dem will man ain Monat ains Dickenpfennings mer/oder etwan ain halben florin geben/dann ainem der ain spieß tregt/Das geschicht gewonlich/so man sich ainer Schlacht versicht/Doch so soll der Zewgwart/den Spieß vom Landtßknecht nemen/so er ain Büchß begert/in dem gelt abziehen/wie er die Spieß vnder die Knecht gibt.
+  cs: |-
+    Stejně se obvykle postupuje s dlouhými píkami {Langen Spiessen} pro knechty. Totéž se dělá se zbrojí jezdců {Reytter Harnisch}: žádají-li kolenice {knyebugkeln}, přilbice {Helmlin} nebo čelní pláty pro koně {Stirnen auf die Geül}, musí se za ně jejich hejtmani zaručit [srážkou] ze žoldů {Söld}, nebo zaplatit hotovými penězi. Stejně se děje i tehdy, když knechti berou od dělostřelectva {Artelarey} ručnice {Hanndt Ror}; i ty se musí platit stejným způsobem, jak je uvedeno výše. Často se stává, že se veřejně vyhlásí a vybubnuje: který knecht nosí ručnici, tomu se dá měsíčně o jeden tlustý peníz {Dickenpfennings}[^1] nebo asi o půl zlatého víc než tomu, kdo nosí píku. To se obvykle děje, když se očekává bitva. Od lancknechta {Landtßknecht}, který žádá pušku {Büchß}, má však zbrojní správce vzít jeho píku a odečíst ji z ceny podle toho, za kolik píky knechtům vydává.
+- typ: odstavec
+  de: |-
+    Es begibt sich auch zuzeytten/das die Trummeter/auß beuelch der öbristen Hauptlewt/im Veldtleger vmbplasen/vnd durch Ernhold berüffen Vnd in sonder/wenn man sich ainer Schlacht versicht/welche die seyen/Edel oder vnedel/Ainspennig/Junckherrn oder Knecht/die jre Küriß Harnasch nit haben/die wöll man auß der Artelarey/zů jrem gewonlichen harnasch/so sy vorhaben/Helmlin vnd Knyebugkeln/auch stirnen auff die Geül/herfür geben/darmit sy desterbaß im getrenng/bey den Frainden/auch vor Veinden/dest statlicher beleyben mügen.
+  cs: |-
+    Někdy se také stává, zvláště když se očekává bitva, že trubači {Trummeter} z rozkazu nejvyšších hejtmanů {öbristen Hauptlewt} troubí po polním ležení {Veldtleger} a ústy herolda {Ernhold} vyhlašují: kdokoli, ať šlechtic nebo nešlechtic, jednokonný {Ainspennig},[^2] junker {Junckherrn} nebo pacholek, nemá svou kyrysnickou zbroj {Küriß Harnasch}, tomu se z dělostřelectva vydají k obvyklé zbroji, kterou už má, přilbice a kolenice a také čelní pláty pro koně, aby v tlačenici tím lépe a pevněji obstál mezi svými i před nepřítelem.
+- typ: odstavec
+  de: |-
+    Vnd welcher das annemen will/der soll des Monats auff sein Pferdt Zwen guldin mer haben/dann er bißher gehabt/Es sölln auch die Hauptlewt dieselben/so das annemen wöllen/beschreyben/darauff sy das Harnasch genomen haben.
+  cs: |-
+    A kdo to chce přijmout, ten má mít měsíčně na svého koně o dva zlaté {guldin} víc, než měl dosud. Hejtmani mají ty, kdo to chtějí přijmout, zapsat i s tím, za jakých podmínek zbroj vzali.
+- typ: odstavec
+  de: |-
+    Item so dann die wägen mit Pulver/Kugeln/vnd anderer Mundicey geringert werden/so mag man die Fürlewt/so sein begeren/vrlauben/vnd wider faren lassen/Vnd die/so am basten gemänt seind/behallten/Es wär dann sach/das Schloß oder Stett gewunnen wurden/so schickt es sich offt/das man Büchsen/Pulver/Kugeln/vnd ander Mundicey gewinnt/vnd mer Roß/Wägen vnd Lewt bedarff/dann vor.
+  cs: |-
+    Dále, když vozů s prachem, koulemi a jinou municí {Mundicey} ubude, lze vozky {Fürlewt}, kteří o to žádají, propustit a nechat odjet domů a ponechat si ty, kteří mají nejlepší spřežení {gemänt}.[^3] Ledaže by se dobyly hrady nebo města – tehdy se často stává, že se získají děla, prach, koule a jiná munice a je třeba více koní, vozů a lidí než předtím.
+poznamky:
+- n: 1
+  text: Dickenpfennig = tlustý peníz (viz glosář); „nebo asi půl zlatého“ je jen přibližné vyrovnání.
+- n: 2
+  text: Ainspennig (Einspänniger) – jezdec sloužící s jedním koněm, bez vlastního doprovodu; junker – mladý šlechtic.
+- n: 3
+  text: Gemänt – opatřený koňmi, zapřažený („wol gemänt“ = s dobrými koňmi a spřežením).

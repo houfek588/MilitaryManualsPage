@@ -1,0 +1,49 @@
+id: 036v
+list: '[36] v'
+strana: verso
+sken: 72
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Zum dem Vierdten / so ist über die Dreü Regiment / noch ainer von dem KriegßHerren verordent zu ainem Obersten VeldtHauptman / über die andern Kriegßämpter oder Regiment alle dreü / der hat auch ain Prouosen / der wirt genannt der Oberst Veldt Prouoß / Das ist so vil / als ain VeldtRichter / Derselb hat in seinem beuelch / das Malefitz zustraffen / die Prouandt zuschätzen / Er hat auch seine Stecken Knecht / die jm sein Ampt helffen verwallten / Er hat auch sein Schuldthaissen vnd Gericht / Darzů sein NachRichter / Auch was jm von dem Obersten VeldtHauptman / vnd andern KriegßRäten / beuolhen wirt / zustraffen / Das hat er zuthůn / Was offenbarlicher Sachen seind / die strafft er schlecht / auß beuelch der Obern / Aber was zweyfliger Sachen / das wirt für den Richter vnd KriegßRecht / als rechten Ordinari / gestellt / vnd dem Rechten beuolhen.
+  cs: |-
+    Za čtvrté je nad třemi pluky {Regiment} válečným pánem {KriegßHerren} ustanoven ještě jeden [muž] za nejvyššího polního hejtmana {Obersten VeldtHauptman} nad ostatními válečnými úřady {Kriegßämpter} čili pluky, nade všemi třemi. I ten má profousa, jenž se nazývá nejvyšší polní profous {Oberst Veldt Prouoß}; to je tolik jako polní soudce {VeldtRichter}. Ten má v pověření trestat hrdelní zločiny {Malefitz} a stanovovat ceny proviantu {Prouandt}. Má také své profousovy pacholky {Stecken Knecht}, kteří mu pomáhají spravovat jeho úřad, má také svého rychtáře {Schuldthaissen} a soud {Gericht} a k tomu svého kata {NachRichter}. Také co mu nejvyšší polní hejtman a jiní váleční radové {KriegßRäten} uloží potrestat, to má vykonat. Zjevné věci trestá prostě z rozkazu představených; co jsou však věci pochybné, ty se předkládají soudci a válečnému soudu {KriegßRecht} jako řádné instanci {Ordinari} a svěřují se právu.
+- typ: odstavec
+  de: |-
+    Derselb Oberst VeldtHauptmann / der fordert all ander Kriegßlewt / zu KriegßRat / Zum Ersten / den VeldtMarschalck / darnach den obersten VeldZewgmaister / Zum dritten / den Obersten aller Fůßknecht.
+  cs: |-
+    Tento nejvyšší polní hejtman povolává všechny ostatní válečníky {Kriegßlewt} k válečné radě {KriegßRat}: nejprve polního maršálka {VeldtMarschalck}, potom nejvyššího polního zbrojmistra {VeldZewgmaister}, za třetí plukovníka všech pěších knechtů {Obersten aller Fůßknecht}.
+- typ: odstavec
+  de: |-
+    Die Drey yetzgemellten Obersten / seind Erblich drey KriegßRät / So dann die zůsamen komen / söllen sy zů jn auß den Geraysigen erfordern / als KriegßRät / die erfarnesten von den Grauen / Herren / vnnd Ritterschafften / vil oder wenig / alles nach gestallt vnnd gelegenhait der sach.
+  cs: |-
+    Tito tři právě jmenovaní plukovníci {Obersten} jsou dědičně {Erblich}[^1] tři váleční radové. Když se sejdou, mají k sobě z jízdy {Geraysigen} povolat jako válečné rady nejzkušenější z hrabat, pánů a rytířstva, mnoho nebo málo, vše podle povahy a okolností věci.
+- typ: odstavec
+  de: |-
+    Darnach / söllen sy erfordern etlich zu KriegßRäten / auß den Fůßknechten Vnderhauptlewten vnd DopelSöldnern / die besten vnd Kriegßuerstendigisten / Doch das solchs mit gleicher anzal beschech / darmit das Meer im Ratschlag bey dem Obersten VeldtHauptman beleyb.
+  cs: |-
+    Potom mají za válečné rady povolat několik nejlepších a ve válečnictví nejzkušenějších z podřízených hejtmanů pěších knechtů {Vnderhauptlewten} a z dvojžoldnéřů {DopelSöldnern}, avšak ve stejném počtu, aby rozhodující většina {Meer} při poradě zůstala u nejvyššího polního hejtmana.[^2]
+- typ: odstavec
+  de: |-
+    So dann der Oberst / mit den KriegßRäten / von den Dreü Regimenten hanndelt / vnd sich in allen Sachen aintrechtig machen / so mag er gar leichtlich etwas groß vnd tapffers erheben / Alßdann seind die dreü Regiment ain Regiment / vnnd haben ain Obersten / der soll den VeldtMarschalck / in KriegßSachen / die Ersten Frag anlegen / Darnach den VeldtZewgmaister / Darnach den Obersten aller Fůßknecht / Als dann die andern KriegßRät / vngefärlich / der nächst / der best / Es wirt auch der Oberst VeldtProuoß / zůuilmalen in etlichen sachen / auch als kriegß Rat eruordert.
+  cs: |-
+    Když pak vrchní velitel {Oberst} jedná s válečnými rady ze tří pluků a ve všech věcech se shodnou, může velmi snadno podniknout něco velkého a statečného. Tehdy jsou tři pluky jedním zřízením {Regiment} a mají jednoho vrchního velitele. Ten se má ve válečných věcech nejprve tázat polního maršálka, potom polního zbrojmistra, potom plukovníka všech pěších knechtů a pak ostatní válečné rady zhruba bez pořadí, jak kdo přijde.[^3] Také nejvyšší polní profous bývá v některých věcech často povolán jako válečný rada.
+- typ: odstavec
+  de: |-
+    So man dann etwas besehen soll oder will / vnnd ferrner darüber Ratschlahen / so will von nöten sein / das man zů denselben sachen / von allen Hauptlewten / vnnd vnder allen Fendlin / die Kriegßuerstendigisten / auß den DopelSöldnern eruordere.
+  cs: |-
+    Má-li se nebo chce-li se pak něco prohlédnout a dále o tom radit, bude třeba, aby se k těm věcem povolali od všech hejtmanů {Hauptlewten} a ze všech praporců {Fendlin} nejzkušenější z dvojžoldnéřů.
+- typ: odstavec
+  de: |-
+    Deßgleichen auß den Geraysigen / auch die Eltisten vnd Kriegßerfarnesten / Vnd sonnderlich / in denen fellen / so man etwas treffenlichs fürnemen will / Als Schlacht / vnnd Sturm / oder dergleichen / so ist es dem Obersten vnd allen KriegßRäten dest leichter / es gee wol oder übel.
+  cs: |-
+    Stejně tak i z jízdy nejstarší a ve válce nejzkušenější. A zvláště v případech, kdy se chce podniknout něco závažného, jako bitva, útok {Sturm} nebo podobně, je to pro vrchního velitele i všechny válečné rady tím snazší, ať to dopadne dobře nebo zle.
+poznamky:
+- n: 1
+  text: „Erblich“ – zde ve smyslu „z povahy svého úřadu, trvale“; tři velitelé pluků jsou stálými členy válečné rady.
+- n: 2
+  text: Rada má být složena z jízdy a pěchoty rovným dílem, aby při rovnosti hlasů rozhodoval hlas nejvyššího polního hejtmana.
+- n: 3
+  text: „vngefärlich / der nächst / der best“ – doslova „zhruba – nejbližší, nejlepší“, tj. bez pevného pořadí podle hodnosti.

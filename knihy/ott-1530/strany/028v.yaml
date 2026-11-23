@@ -1,0 +1,53 @@
+id: 028v
+list: '[28] v'
+strana: verso
+sken: 56
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    aber nit weyter/dann dieselben Tagrayß/Das soll der Geschirrmaister bey seinem Ayd/in gehaim behallten.
+  cs: |-
+    ale ne dál než na ten jeden denní pochod {Tagrayß}. To má vozmistr {Geschirrmaister} pod svou přísahou {Ayd} zachovat v tajnosti.
+- typ: odstavec
+  de: |-
+    Aber not ists/das der Geschirrmaister/des ain wissen hab/Er můß ye mit dem Schantzmaister helffen die weg bereyten vnd besehen/im vorziehen/darzů Raten vnd reden/die Weg vnd Prugken zumachen/Es ist deßhalben nit wenig an ainem Geschirrmaister gelegen/sy verstonds auch gewonlich baß/was die lanngen Züg an den Rengken vermügen oder nit vermügen/dann ander lewt.
+  cs: |-
+    Je však nutné, aby o tom vozmistr věděl. Musí totiž se šancmistrem {Schantzmaister} jet napřed a pomáhat prohlížet a připravovat cesty a radit, jak cesty a mosty upravit. Proto na vozmistrovi nemálo záleží; vozmistři také obvykle lépe než jiní lidé rozumějí tomu, co dlouhá spřežení {lanngen Züg} v zatáčkách {Rengken} dokážou a co ne.
+- typ: odstavec
+  de: |-
+    Item sy wissen auch baß/was die Prugken tragen mögen/oder nit tragen dann ander/Dartzů so sy den boden sehen/künden sy jn auch vor andern erkennen/ob die Büchsen versincken oder nit.
+  cs: |-
+    Dále také vědí lépe než jiní, co mosty unesou a co ne. A když vidí půdu, dovedou lépe než jiní posoudit, zda se do ní děla {Büchsen} zaboří, nebo ne.
+- typ: odstavec
+  de: |-
+    Item so man an die Pirg komt/můß man acht nemen/ob die Holweg weyt genůg seyen den ächsen der grossen Büchsen.
+  cs: |-
+    Dále, když se přijde k horám, je třeba dbát, zda jsou úvozy {Holweg} dost široké pro nápravy velkých děl.
+- typ: odstavec
+  de: |-
+    Dieweyl sy etwa weyter geächßt seind dann die gewonlichen wägen/Ist es in den Holwegen/Felsen vnd stain/so můß man die grösten gefäß zerlegen/Da gehören die Schneller/Schmid/Zymmerlewt vnnd Redermacher zů/vnd die auf die andern ringisten wägen legen/die das glayß haben/vnd in stucks weyß hindurchfüren lassen/Darnach söllen die wider abgeladen/vnd zůsamen geschlagen werden.
+  cs: |-
+    Protože mají [děla] někdy širší nápravy než obyčejné vozy, musí se v úvozech, kde je skála a kámen, největší lafety {gefäß} rozebrat. K tomu patří zvedači {Schneller}, kováři, tesaři a koláři. [Díly] se pak naloží na jiné, co nejméně naložené vozy, které mají [obvyklý] rozchod {glayß}, a nechají se po kusech provézt. Potom se mají zase složit a stlouct dohromady.
+- typ: odstavec
+  de: |-
+    Seind dann die holweg sand oder erden/so mag man die mit den Schantzbawren wol raumen lassen/Doch sölln allweg die öbersten/dem Schantzmaister/Geschirrmaister/auch anndern/die in Vorzug verordnet werden/Landtkündig vnd wissendhafft lewt/die der Steg/Fürt/vnd weg wissen haben zůgeben/Dann wa das Vorziehen Falsch vnd vngerecht ist/so geet der gantz Veldzug irr/Darumb ist vil an kundtschafftern gelegen/Doch so söllen die Obersten/dem kundtschaffter jres Ziehens/nit weytter zuerkennen geben/dann ain Tag Raiß/vnd das er dieselben in gehaim behallt/vnd nyemandts eröffne/biß die beyainander seind/die er füren soll/darmit Meytterey verhůt bleyb etc.
+  cs: |-
+    Jsou-li však úvozy písčité nebo hliněné, lze je dobře nechat rozšířit šancíři {Schantzbawren}. Nejvyšší velitelé {öbersten} však mají šancmistrovi, vozmistrovi i jiným, kteří jsou určeni do předvoje {Vorzug}, vždy dát znalé lidi z kraje, kteří vědí o lávkách, brodech a cestách. Vede-li totiž předvoj špatně a nesprávně, bloudí celé tažení {Veldzug}. Proto na zvědech {kundtschafftern} mnoho záleží. Nejvyšší velitelé však nemají zvědovi o svém pochodu prozradit víc než jeden denní pochod {Tag Raiß}; ten má zvěd zachovat v tajnosti a nikomu ho nevyjevit, dokud nejsou pohromadě ti, které má vést, aby se předešlo vzpouře {Meytterey}[^1] atd.
+- typ: odstavec
+  de: |-
+    Das bringt zwo Frucht/Das die Feind nit wissen/wa sich der Veldtzug am nechsten hin wenden werd/vnd dester weniger vor Schaden gewarnet seyen/Zum andern/Das die Veind dester weniger das Veldtleger an jrem fürnemen/verhindern mügen/die Päß zůuerhůtten/Prugken abzuwerffen/die gebürg vnd holweg zůuerschrangken/die wäld vnd höltzer zůuerhawen/etwan die Them vnd Deüch zueröffnen/die engen täler mit wasser zuerfüllen/dardurch etwan die Büchsen vnd Pulver sich ertrencken/biß man durch die Fürt komt.
+  cs: |-
+    To přináší dvojí užitek. Za prvé, že nepřátelé nevědí, kam se tažení příště obrátí, a jsou tím méně varováni před škodou. Za druhé, že nepřátelé mohou tím méně překazit polnímu ležení {Veldtleger} jeho záměr: obsadit průsmyky {Päß}, strhnout mosty, zatarasit horské cesty a úvozy, udělat záseky {zůuerhawen}[^2] v lesích a hájích, případně protrhnout hráze a rybníky {Them vnd Deüch} a zaplavit úzká údolí, takže se děla a prach třeba utopí dřív, než se projde brody.
+- typ: odstavec
+  de: |-
+    Darumb ists nit gůt/das die Veind wissen haben/wa das Leger den kopff hinauß wennden will/wiewol sy nit allmal dem Leger sein fürnemen wenden mügen/so pringt es doch groß verhinderung/biß das man auffbricht/bawt/oder wider Prugken macht/Dardurch dem Leger
+  cs: |-
+    Proto není dobré, aby nepřátelé věděli, kam chce ležení {Leger} obrátit hlavu. I když nemohou ležení vždy překazit jeho záměr, přináší to přece velké překážky, než se [záseky] prorazí, [cesty] upraví nebo znovu postaví mosty. Tím ležení
+poznamky:
+- n: 1
+  text: Meytterey (Meuterei) – zde spíše tajné pikle a zrada (vyzrazení cesty nepříteli) než vzpoura v dnešním smyslu.
+- n: 2
+  text: Verhawen – udělat záseky (porazit stromy přes cestu).

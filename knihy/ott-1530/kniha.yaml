@@ -1,0 +1,55 @@
+id: ott-1530
+nazev: Válečný řád
+nazev_orig: Kriegsordnung
+podtitul: Stat Regiment vnd Ordnung ainer besatzung der Schlösser … Stat vnd Regiment der Artelarey …
+autor: Michael Ott von Echterdingen (připisováno)
+autor_razeni: 'Ott von Echterdingen, Michael'   # klíč abecedního řazení v Knihovně (příjmení, jméno)
+autor_zivot: 1479–1532
+vydani: '[Augsburg, Silvan Otmar, kolem 1530]'
+rok: 1530
+katalog: VD16 O 1451
+rozsah: '[42] listů, 2°'
+jazyk_orig: raná nová horní němčina (švábská)
+popis: >-
+  Válečný řád připisovaný císařskému zbrojmistrovi Michaelu Ottovi z Echterdingen: posádka hradů a měst a její
+  zásobování, dělostřelectvo a jeho úřady, služební list nejvyššího zbrojmistra, tři „regimenty“ vojska, artikulní
+  list lancknechtů a žold. Předloha, z níž později čerpal Leonhart Fronsperger.
+prekladatel: Přepis z OCR a překlad s pomocí LLM, 2026.
+strankovani: folio
+strany_poznamka: >-
+  Tisk není foliován (jen signatury archů); edice čísluje listy v hranatých závorkách [1]–[42]: titulní list = [1] r
+  (sken 1), text začíná listem [2] r (sken 3) a končí na [42] r (sken 83, „Ende der Kriegs Ordnung“). Prázdné strany
+  [1] v (sken 2) a [42] v (sken 84) se vynechávají.
+zdroj_textu: 'Německý text je přepsán podle digitalizace Bayerische Staatsbibliothek München (Res/2 A.lat.b. 788#Beibd.1, bsb00089558) z OCR s opravenými chybami podle skenu;'
+
+sken:
+  instituce: Bayerische Staatsbibliothek München
+  kratce: BSB
+  portal: digitale-sammlungen.de
+  paticka: 'Sken: Bayerische Staatsbibliothek München (Public Domain Mark 1.0)'
+  signatura: 'Res/2 A.lat.b. 788#Beibd.1'
+  id: bsb00089558
+  urn: urn:nbn:de:bvb:12-bsb00089558-2
+  url_dilo: https://www.digitale-sammlungen.de/de/view/bsb00089558
+  url_strana: https://www.digitale-sammlungen.de/de/view/bsb00089558?page={sken}
+  url_obrazek: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00089558_{sken5}/full/{sirka},/0/default.jpg
+  licence: 'Public Domain Mark 1.0 (volné dílo); digitalizace: Bayerische Staatsbibliothek München'
+  poznamka: 'List [N] r = sken 2N − 1, list [N] v = sken 2N (84 skenů = 42 listů).'
+
+predsadka: [titul]
+
+poznamky_k_prekladu: |
+  ZDROJ ORIGINÁLU: německý text vychází z OCR BSB (zdroje/ocr_bsb/NNNN.txt), které je u tohoto tisku velmi chybné
+  (švabach, švábský pravopis ai/ay, ů, w = u) – každou stranu porovnej se skenem. Zachovej dobový pravopis
+  (ainer, Kriegßherr, Zeügmaister, Büchsenmaister, Locotenent), rozepiš zkratky (vñ → vnd, ē → en, ꝛc. → etc.),
+  vynech signatury archů (a ij, b iij …) a kustody.
+
+  STRUKTURA NADPISŮ: uroven 1 = hlavní části: titul; „Stat Regiment vnd Ordnung ainer besatzung der Schlösser“
+  (posádka hradů a měst, [2] r); „Stat vnd Regiment der Artelarey“ (dělostřelectvo, [12] v); další samostatné řády
+  podle tisku (služební list nejvyššího zbrojmistra, tři regimenty, artikulní list, žold). uroven 2 = kapitoly
+  (úřady, articles, „Volgt hernach …“), uroven 3 = drobné oddíly.
+
+  TERMINOLOGIE: glosář je převzatý ze Solmse (stejná doba a látka; Fronsperger z Otta přímo čerpal). Závazně:
+  Oberst / Oberster = plukovník (u vrchního velitele celého vojska „vrchní velitel“), Kriegßherr = válečný pán,
+  Zeügmaister = zbrojmistr, Büchsenmaister = puškař, Artelarey = dělostřelectvo, Fendlin = praporec (u jízdy
+  korouhev), Kriegßleut = válečníci, Locotenent = poručík (zástupce), Besatzung = posádka, Lerman = poplach.

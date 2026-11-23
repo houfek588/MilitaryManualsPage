@@ -1,0 +1,82 @@
+id: 002v
+list: '[2] v'
+strana: verso
+sken: 4
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item so dann ainer oder mer/von des Kriegßherren fraindtschafft/im hauß seind/so seind alle die/so in der Besatzung dester mer geflissen/das aller best zethůn.
+  cs: |-
+    Dále jsou-li pak na hradě {hauß} jeden nebo více příbuzných válečného pána {Kriegßherren}, všichni v posádce {Besatzung} se tím víc přičiňují, aby odvedli to nejlepší.
+- typ: odstavec
+  de: |-
+    Item es ist zů bedencken/wie lang das hauß mit Prouant versehen sey/ob es der zeit/darinn man sich Rettung versicht/vergleichen müg.
+  cs: |-
+    Dále je třeba uvážit, na jak dlouho je hrad zásoben proviantem {Prouant}, a zda to vystačí na dobu, za kterou lze očekávat vysvobození.
+- typ: odstavec
+  de: |-
+    Item ob das Hauß/koch vnd trinckwasser hab/wasser zů der brunst/bachen/metzgen/waschen/vnd ander notdurfft da sey/dartzů brennholtz oder kolen.
+  cs: |-
+    Dále zda má hrad vodu k vaření a pití, zda je tu voda k hašení požáru, k pečení, k porážce [dobytka], k praní a k jiné potřebě, a k tomu palivové dříví nebo uhlí.
+- typ: odstavec
+  de: |-
+    Item korn/mel/prot/mülen vnd anders/das man Brot bachen müg/Wein/bier/hopffen/gersten/oder ander gezeüg/darmit man Bier machen mag.
+  cs: |-
+    Dále obilí, mouka, chléb, mlýny a jiné, aby se dal péct chléb; víno, pivo, chmel, ječmen nebo jiné potřeby, z nichž lze vařit pivo.
+- typ: odstavec
+  de: |-
+    Item flaisch/dürr vnd grün/plateyssen/stockvisch/hering/vnd ander dürr visch/wa man anders solchs haben mag/alles nach des Landes gelegenhait.
+  cs: |-
+    Dále maso sušené i čerstvé, platýsi, sušené tresky, slanečci a jiné sušené ryby, lze-li je vůbec sehnat – vše podle poměrů země.
+- typ: odstavec
+  de: |-
+    Item Saltz/Buttern oder Schmaltz/koch/kern/gersten/habermel zů prey/ärbis/linsen/vnd ander kuchezůmůß.
+  cs: |-
+    Dále sůl, máslo nebo sádlo, krupky na vaření,[^1] ječmen, ovesná mouka na kaši, hrách, čočka a jiná zelenina a luštěniny do kuchyně.
+- typ: odstavec
+  de: |-
+    Item kraut/rüben/vnd so mans gehaben mag öpffel vnd biren/zwibel kümmich/krametbör.
+  cs: |-
+    Dále zelí, řepa, a lze-li je mít, jablka a hrušky, cibule, kmín a jalovčinky.
+- typ: odstavec
+  de: |-
+    Item ymber/nägelin/pfeffer/zymmet/muscaten/vnd ander dergleichen gewürtz/von wegen der krancken/zu ergetzung.
+  cs: |-
+    Dále zázvor, hřebíček, pepř, skořice, muškátový oříšek a jiné podobné koření pro nemocné, k jejich posilnění.
+- typ: odstavec
+  de: |-
+    Item so mans am platz vnd fütter vermag/so söllen da gehallten werden Zwo küe/zwo oder drey gaissen/von der krancken vnd schwachen wegen/wa die nit seind/ists den gesunden auch gůt.
+  cs: |-
+    Dále, dovolí-li to místo a krmivo, mají se tam chovat dvě krávy a dvě nebo tři kozy kvůli nemocným a slabým; nejsou-li takoví, přijde to vhod i zdravým.
+- typ: odstavec
+  de: |-
+    Item drey oder vier post ross/die bey tag vnd nacht gewerttig seyen/so es der Feind halben sein mag/zůr notdurfft/botschafft darmit außzůrichten/alles nach gelegenhait des fütters/hew vnd stro.
+  cs: |-
+    Dále tři nebo čtyři poštovní koně, kteří jsou ve dne i v noci připraveni, aby se s nimi v případě potřeby – pokud to nepřítel dovolí – dalo vyslat poselství; vše podle toho, kolik je krmiva, sena a slámy.
+- typ: odstavec
+  de: |-
+    Item Ross zů der Mül vnd wasser zů schöpffen/stain vnd zymmerholtz/büchsen/vnd anders/etwan auf die wöll/Basteyen vnd hohe gebew zů ziehen/müssen auch erhallten werden.
+  cs: |-
+    Dále se musí chovat i koně k mlýnu a k čerpání vody a k vytahování kamene, stavebního dříví, děl {büchsen} a jiného na valy {wöll}, bašty {Basteyen} a vysoké stavby.
+- typ: odstavec
+  de: |-
+    Item überlast der pferd/daruor soll man sich hüten in den Besatzungen vnd all ander vnnütz vich/die Pferdt bedürffen vil costen vnd arbait/nemen vil platz ein/da sich die menschen wol behelffen mügen/überig hew vnd stro/ist ausser der belegerten Schlossen gůt/Vrsach/Des fewrs můß man gewarten in drey weg.
+  cs: |-
+    Dále se mají posádky vyvarovat přemíry koní a veškerého jiného zbytečného dobytka. Koně vyžadují mnoho nákladů a práce a zabírají mnoho místa, které by lidé dobře potřebovali. Přebytečné seno a sláma jsou dobré mimo obležené hrady. Důvod: ohně je třeba se obávat trojím způsobem.
+- typ: odstavec
+  de: |-
+    Item das wetter/hagel/donner vnd plitz/ist ains/Aigne verwarlosung des fewrs/seind zway/Der Feind einwerffung vnd schiessen mit fewr/das seind dreü ding/darmit man mag fewrs halben verderben.
+  cs: |-
+    Dále nečas, krupobití, hrom a blesk jsou první; vlastní nedbalost s ohněm druhá; nepřítel, který oheň vhazuje a ohněm střílí, třetí. To jsou tři věci, jimiž lze ohněm přijít na zmar.
+- typ: odstavec
+  de: |-
+    Item alles überig hew vnd stro/soll man für das Schloss füren vnd verprennen/das es den veinden nit zů nutz kom.
+  cs: |-
+    Dále všechno přebytečné seno a slámu je třeba vyvézt před hrad a spálit, aby nepřátelům nepřišly k užitku.
+poznamky:
+- n: 1
+  text: |-
+    „koch/kern“ – v tisku odděleno virgulí, jde však nejspíš o jeden výraz „Kochkern“ (tak Fronsperger): loupaná
+    špalda (Kernen) či krupky na kaši.

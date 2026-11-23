@@ -1,0 +1,56 @@
+id: 005v
+list: '[5] v'
+strana: verso
+sken: 10
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Brottbachen/durchauß vnd auß/Darzů auß ainem vaß trincken/so lang es werdt/gleich anrichten/macht nit schilhend brůder.
+  cs: |-
+    chléb péct pro všechny bez rozdílu, k tomu pít z jednoho sudu, dokud vydrží, a všem stejně nakládat. Pak bratři po sobě nešilhají.[^1]
+- typ: nadpis
+  uroven: 2
+  de: Ordnung/Wie es mit dem Geschütz gehallten werden soll.
+  cs: Řád, jak se má zacházet s děly
+- typ: odstavec
+  de: |-
+    Item man soll haben ain Zeügmaister/oder Zeügwarten/der da hat in seiner gewallt/alles Geschütz/Zewg vnd gantze mundicey/vast wol versorgt/das ist alle zůgehörung des gantzen geschütz/das nit yederman darüber müg lauffen/Dann ain vngetrewer mensch/mag wol mercklichen schaden thůn/der der Herrschaft/vnd gantzer besatzung/vnüberwindtlichen last bringet/Derselbig Zeügwart/soll den Büchsenmaistern/dern man auch ain anzal/nach gelegenhait vnd vilin der Wörinen/erhallten vnd besolden soll/herfür geben/alle notdurfft/Er soll auch söllichs widerumb von ainem yeden empfahen/Vnd vorauß/das pulfer soll man nit am weg stan oder ligen lassen/Aber ain anzal kugeln mag man wol bey yeder Büchsen ligen lassen/welche man auf der ächß scheüßt.
+  cs: |-
+    Dále je třeba mít zbrojmistra {Zeügmaister} neboli zbrojního správce {Zeügwarten}, který má ve své moci všechna děla {Geschütz}, výzbroj {Zewg} a veškerou munici {mundicey} – to jest všechno příslušenství všech děl – a velmi dobře je opatruje, aby k tomu nemohl chodit kdokoli. Nevěrný člověk totiž může způsobit značnou škodu, která vrchnosti a celé posádce {besatzung} přinese nepřekonatelné břímě. Tento zbrojní správce má vydávat všechno potřebné puškařům {Büchsenmaistern}, jichž se má rovněž vydržovat a platit určitý počet podle poměrů a množství obranných míst {Wörinen}; a má to od každého zase přijímat zpět. A především se střelný prach {pulfer} nemá nechávat stát nebo ležet volně v cestě. Určitý počet koulí {kugeln} však lze dobře nechat ležet u každého děla {Büchsen}, které se střílí na kolové lafetě {auf der ächß}[^2].
+- typ: odstavec
+  de: |-
+    Item wischer/ansetzkolben/vnd ladschaufeln/söllen alle mal/bey den Büchsen beleyben/Die büchsen sollen auch dahinden vnd vornen beym maul vnd zündtloch/beschlossen sein/das die nit abgeschossen werden/on des Büchsenmaisters wissen.
+  cs: |-
+    Dále vytěráky {wischer}, nabijáky {ansetzkolben} a nabíjecí lopatky {ladschaufeln} mají vždy zůstávat u děl. Děla mají být také vzadu i vpředu, u ústí a u zápalného otvoru {zündtloch}, uzavřena, aby nemohla být vypálena bez vědomí puškaře.
+- typ: odstavec
+  de: |-
+    Item es soll auch der Büchsenmaister sein Zündrůt allwegen bey handen/vnd seinem losament haben/darbey sein Fewrzeüg/Wenn ain Lerman wirt/söllen seine zůuerordneten/helffer vnd handtraicher auf jren Büchsenmaister/vnd derselbigen Letz/gewärtig sein/bey jren Ayden.
+  cs: |-
+    Dále má mít puškař svou zapalovací hůl {Zündrůt} stále po ruce a ve svém ubytování {losament}, a u ní své křesadlo {Fewrzeüg}. Když nastane poplach {Lerman}, mají jeho přidělení pomocníci a přisluhovači pod svou přísahou {Ayden} čekat na svého puškaře a na jeho stanoviště {Letz}.
+- typ: odstavec
+  de: |-
+    Item es sol auch der zeügwart sein gewonlich losament/bey dem Zeüghauß haben/oder auffs nechst darbey/darmit er den Hagkenschützen/vnd andern/die Laden/so auff die Letzinen gehörig/zuweg herfür setz/In wölchen Laden/puluer/kugeln/ladungen/vnd darbey jre Zündt rütten/mit jren stricken.
+  cs: |-
+    Dále má mít zbrojní správce své obvyklé ubytování u zbrojnice {Zeüghauß} nebo co nejblíže u ní, aby mohl hákovnicím střelcům {Hagkenschützen} a jiným pohotově vydat truhlice {Laden}, které patří na stanoviště. V těchto truhlicích [má být] prach, koule, nálože {ladungen} a k nim jejich zapalovací hole s doutnáky {stricken}.
+- typ: odstavec
+  de: |-
+    Item es söllen auch alle Letzinen jre sondere namen vnd zaichen haben/dieselben Zaichen söllen auch die Hacken haben/Darzů söllen die Laden/darinn pulfer/kugeln/vnd anders darzů gehörig/auch das Zaichen haben/darmit man allwegen wiss/wahin ain yede Lad vnd Hacken gehörig seyen.
+  cs: |-
+    Dále mají mít všechna stanoviště {Letzinen} svá zvláštní jména a znamení. Stejná znamení mají mít i hákovnice {Hacken}. K tomu mají mít totéž znamení i truhlice, v nichž je prach, koule a jiné příslušenství, aby se vždy vědělo, kam která truhlice a hákovnice patří.
+- typ: odstavec
+  de: |-
+    Item es soll auch ain yede Letz/jren Rottmaister/mit seiner Roth/der da hayßt schiessen/vnd auf hören/dahin oder dorthin/darmit nit vergebens der Zeüg verschossen werd/das oder jhenes haissen hollen/da oder dorthin/zů den Hauptleüten/oder ins Zeüghauß/das oder jhenes zůsagen/vnd botschaft wider zů pringen/Darmit nit ain yeder von der Letz lauff/vmb ain liederlich ding oder sach.
+  cs: |-
+    Dále má mít každé stanoviště svého rotmistra {Rottmaister} s jeho rotou {Roth}. Ten poroučí střílet i přestat, sem či tam, aby se munice {Zeüg} nevystřílela nadarmo; posílá pro to či ono, sem či tam, k hejtmanům {Hauptleüten} nebo do zbrojnice něco vyřídit a přinést zpět zprávu – aby od stanoviště neodbíhal každý kvůli nějaké maličkosti.
+poznamky:
+- n: 1
+  text: |-
+    „Macht nit schilhend brůder“ – doslova „nedělá šilhající bratry“: stejná strava pro všechny nevyvolává závist,
+    nikdo nemusí po druhém pokukovat.
+- n: 2
+  text: |-
+    „Auf der ächß“ – doslova „na ose“, tj. děla na kolové lafetě (na rozdíl od hákovnic a děl na pevných kozách či
+    v pevných ložích).

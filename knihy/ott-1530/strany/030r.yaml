@@ -1,0 +1,61 @@
+id: 030r
+list: '[30] r'
+strana: recto
+sken: 59
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Zeügschreyber/mit dem Muster Zedel bey jm hab/darzů die Geschirrmaister/so findt er yetzt im faren vnd eingespannen Geschirren/welcher sein anzal Pferdt hat oder nit.
+  cs: |-
+    u sebe zbrojního písaře {Zeügschreyber} s přehlídkovým seznamem {Muster Zedel} a k tomu vozmistry {Geschirrmaister}; tak při jízdě a u zapřažených spřežení zjistí, kdo má svůj počet koní a kdo ne.
+- typ: odstavec
+  de: |-
+    Item es will auch zůvilzeyten von nötten sein/das der Zeügmaister mit den Verordneten/die Wägen auch muster/so wol als die Roß/Dann die Fürlewt auß jrem betrug vnd aigen nutz willen/von den Kriegßlewten/Beütgüter annemen/vnd besonder gellt daruon haben/Das oder jhenes/dahin oder dorthin zůfüren/das dann gar nit sein soll/die Artelarey wägen zubeschwären.
+  cs: |-
+    Dále bude také často nutné, aby zbrojmistr {Zeügmaister} s určenými [muži] přehlížel stejně jako koně i vozy. Vozkové {Fürlewt} totiž z podvodnosti a pro vlastní zisk přijímají od válečníků {Kriegßlewten} kořist {Beütgüter}[^1] a berou si zvláštní peníze za to, že vezou to či ono sem či tam. To se však vůbec nemá dít, aby se vozy dělostřelectva {Artelarey} nepřetěžovaly.
+- typ: odstavec
+  de: |-
+    Zů söllicher Muster der Wägen/soll der Zewgwart Muster Herr sein/mit den Zůuerordneten/der waißt am basten/was er yeden auff hat lassen laden zufüren/Wär es aber sach/das ainer oder mer/aufflůde/anders/dann zů seinem aigen leyb/als Klaider/Harnasch/Wör/so hat der Muster Herr/der Zewgwart/vnd annder Zůuerordnet/gůt macht/dieselben gütter/zů jren aigen hannden nemen/die zůuerbewten/oder dem Gebövel ain gemain Lerman darüber zumachen/Dannocht soll dem Zewgmaister gegen demselbigen Fůrmann/der übertretten hat/sein straff vorsteen.
+  cs: |-
+    Při takové přehlídce vozů má být zbrojní správce {Zewgwart} spolu s určenými [muži] přehlídkovým komisařem {Muster Herr}, neboť nejlépe ví, co komu dal naložit. Kdyby se však stalo, že jeden nebo více [vozků] naložili něco jiného než to, co patří k jejich vlastní osobě, jako šaty, zbroj a zbraň {Wör}, má přehlídkový komisař, totiž zbrojní správce, a ostatní určení plnou moc vzít ty věci do svých rukou a prohlásit je za kořist {verbewten}, nebo je s pokřikem vydat obecnému lidu {Gebövel}.[^2] Zbrojmistrovi však přesto zůstává právo toho vozku {Fůrmann}, který se provinil, potrestat.
+- typ: odstavec
+  de: |-
+    Doch so soll der Zewgmaister zůuor/durch den Trummenschlaher offenlich berůffen/in der Artelarey/vnder den Fürlewten/söliche warnung thůn/darmit kainer aincherlay entschuldigung wisse zuhaben.
+  cs: |-
+    Zbrojmistr však má předem dát bubeníkem {Trummenschlaher} u dělostřelectva mezi vozky veřejně vyhlásit takové varování, aby se nikdo nemohl na nic vymlouvat.
+- typ: odstavec
+  de: |-
+    Item so man im Ziehen ist/so komen vil ausser den Fůßknechten/die die Kranckhait/das Fawl wee/oder den Faulen weetagen haben/vnd wöllen über der Fürlewt willen/auff den Artelarey wägen ligen/das soll in kainen weg gestatt werden/vnd gehört dasselbig den Zewg Dienern zů wören/Wa aber ainer das gütlich nit lassen wöllt/söllen sy jn durch den Prouosen an denselbigen wagen schlahen lassen in die eysen hinnach zu geen/vnd nit zufaren/biß in das nechst Leger/Alßdann soll der Prouoß denselbigen seinem Obern überantwortten.
+  cs: |-
+    Dále, když se táhne, přichází mnoho pěších knechtů {Fůßknechten}, kteří mají nemoc „líné bolení“ {Fawl wee} neboli „líné neduhy“ {Faulen weetagen},[^3] a chtějí proti vůli vozků ležet na vozech dělostřelectva. To se nijak nemá dovolit a zbránit tomu přísluší zbrojním služebníkům {Zewg Dienern}. Kdyby toho však někdo nechtěl po dobrém nechat, mají ho dát profousem {Prouosen} přikovat v železech k témuž vozu, aby až do příštího ležení {Leger} šel za ním a nejel. Tam ho má profous {Prouoß} předat jeho představenému.
+- typ: odstavec
+  de: |-
+    Es wäre dann sach/das ain wundter/oder ain leybkrancker/der vor den Veinden sein schaden empfangen hett/denselben mag man wol biß in das nechst Leger füren lassen/die am ringsten geladen seind/Doch soll man kainem Fůrman zwen kranck oder wundt auf legen/Dem ainen/dem andern Fůrman auch ainen/damit sy hingepracht werden.
+  cs: |-
+    Leda by to byl raněný nebo nemocný, který přišel k úrazu v boji s nepřítelem; toho lze nechat dovézt až do příštího ležení na vozech, které jsou nejméně naložené. Žádnému vozkovi se však nemají naložit dva nemocní nebo ranění, nýbrž jednomu vozkovi jeden a druhému také jeden, aby byli dopraveni na místo.
+- typ: nadpis
+  uroven: 3
+  de: Nun ist geredt von den Geschirrmaistern vnd Fürlewtten/Vnd volgt hernach des Prouosen der Artelarey/Ampt.
+  cs: Nyní bylo pojednáno o vozmistrech a vozcích a následuje úřad profouse dělostřelectva {Prouosen der Artelarey}
+- typ: odstavec
+  de: |-
+    Item der Prouoß der Arttelarey/hat disen Beuelch/Das er acht hab/mit anndern Prouosen vnd Prouandt Maistern/das die Artelarey mit Prouandt versehen werd/mit flaisch/wein/prot/bier/vnd anders/in die Artelarey verschaff/das schätz/vnd erlaub hinzugeben.
+  cs: |-
+    Dále profous dělostřelectva má toto pověření: má spolu s ostatními profousy a proviantmistry {Prouandt Maistern} dbát, aby bylo dělostřelectvo zásobeno proviantem {Prouandt} – masem, vínem, chlebem, pivem a jiným; má ho do dělostřelectva obstarat, ocenit {schätz}[^4] a povolit k prodeji.
+- typ: odstavec
+  de: |-
+    Item wölcher Fůrmann etwas verkaufft von Prouandt/ee das der Prouoß schätzt/dem mag der Prouoß die Prouandt gar nemen/dem geprauch vnd Kriegß Recht nach.
+  cs: |-
+    Dále, který vozka by prodal něco z proviantu dříve, než to profous ocení, tomu může profous ten proviant zcela odejmout podle zvyklosti a válečného práva {Kriegß Recht}.
+poznamky:
+- n: 1
+  text: Beütgüter – čteme Beutegüter, kořist, kterou si vojáci dávali za úplatu vézt na vozech dělostřelectva (srov. dále „zůuerbewten“, prohlásit za kořist); výklad „Beigüter“ (přidané zboží) je méně pravděpodobný.
+- n: 2
+  text: Gebövel (Pöbel) – obecný lid, vojáci a trén. „ain gemain Lerman darüber zumachen“ – doslova „spustit nad tím obecný poplach“, tj. vydat zboží veřejně v plen.
+- n: 3
+  text: Fawl wee, Faulen weetagen – ironicky „líná nemoc“, tj. předstíraná nemoc, simulantství; srov. „Faulweh“.
+- n: 4
+  text: Schätzen – úředně stanovit cenu (taxu) potravin v ležení; prodávat se smělo teprve po ocenění.

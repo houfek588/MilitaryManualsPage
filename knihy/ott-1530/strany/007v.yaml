@@ -1,0 +1,62 @@
+id: 007v
+list: '[7] v'
+strana: verso
+sken: 14
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Also werden die Secten allmal vnder ainander vermengt/das kainer nit waißt/wenn oder wa er hůt oder wacht/Es kan auch kainer vor dem andern ainicherlay gefar oder meyterey geprauchen oder machen/dann es waißt kainer/weder stund noch zeyt/wenn Wach oder hůt an jn kompt.
+  cs: |-
+    Tak se skupiny {Secten} pokaždé navzájem promísí, takže nikdo neví, kdy nebo kde bude hlídkovat či stát na stráži. Nikdo také nemůže před druhým použít nebo strojit nějakou lest či vzpouru {meyterey}, neboť nikdo nezná hodinu ani čas, kdy na něho přijde stráž nebo hlídka.
+- typ: odstavec
+  de: |-
+    Es soll auch allwegen der Wachtmaister Zwen bey der Taghůt auff dem Thurn/bey dem Thurnbläser haben/Auch Zwen auf dem Thorhauß ober der Porten/die in die ferr vmb sich sehen mügen/wenn Reytter oder sonst leüt komen/die da warnung thůen/das die verordneten/zů rechter zeyt/zum Geschütz vnd anderer ort komen mügen.
+  cs: |-
+    Vachmistr {Wachtmaister} má také mít při denní hlídce {Taghůt} vždy dva [muže] na věži u věžného trubače {Thurnbläser} a dva v branské věži {Thorhauß} nad branou, aby mohli hledět do dálky kolem sebe. Když přijedou jezdci {Reytter} nebo jiní lidé, ať varují, aby se určení lidé mohli včas dostat k dělům {Geschütz} a na jiná místa.
+- typ: odstavec
+  de: |-
+    Item der Wachtmaister/soll die Wächter kain nacht stellen der ortt/da ers zum nehern mal daruor gestellt hat/oder gewacht/Es sollen alle nacht die Personen verwechselt werden/Die Wach vnd Letz soll beleyben/mit jrer anzal/allwegen besetzt werden.
+  cs: |-
+    Dále nemá vachmistr žádnou noc postavit strážné na místo, kam je postavil minule nebo kde [minule] stáli na stráži. Každou noc se mají osoby vyměnit; stráž a stanoviště {Letz} však mají zůstat a mají být vždy obsazena svým počtem.
+- typ: odstavec
+  de: |-
+    Also söllen auch die Portten verhůtt vnd besetzt werden/Welcher heüt bey dem aussern Thor ist/der soll des nächsten darnach bey dem inneren oder mitlern hůtten/darmit kainer möge wissen/wa er hin verschafft werd zů hůtten oder wachen/Auch nit wisse wenn/das geyt jms Loß/auß der zwifachen Laden/darinn die Wachtzedel ligen.
+  cs: |-
+    Stejně tak se mají hlídat a obsazovat brány. Kdo je dnes u vnější brány, ten má příště hlídat u vnitřní nebo prostřední, aby nikdo nemohl vědět, kam bude k hlídce nebo stráži určen, a aby ani nevěděl kdy. To mu určí los z dvojdílné truhlice {Laden}, v níž leží strážní lístky {Wachtzedel}.
+- typ: odstavec
+  de: |-
+    Es söllen auch allwegen ain yede Port mit den dreyen geschlechten der Besatzung besetzt sein/wie die Wach/Es soll auch allwegen der Hauptman/der Tagwach bey dem aussersten Thor/gewärtig sein/Der soll auch die gestempfften Bolleten/von den/so auß vnd ein erlaubt wirt/annemen/auch beschaid nemen vnd geben/von den frembden vnd andern/Auch alle Brieff dem öbersten Hauptman überantworten/sy gehören gleich wem sy wöllen/der kans hinnach wol antworten/wa sy hin gehörig seind.
+  cs: |-
+    Každá brána má být také vždy obsazena třemi druhy [lidí] posádky {Besatzung}, stejně jako stráž. Hejtman {Hauptman} denní stráže {Tagwach} má být vždy pohotově u nejzazší brány. Ten má také přebírat orazítkované propustky {Bolleten} od těch, jimž je dovoleno vycházet a vcházet, a vyptávat se a podávat odpověď, pokud jde o cizince a jiné [příchozí]. Také má všechny listy, ať patří komukoli, odevzdat nejvyššímu hejtmanovi {öbersten Hauptman}; ten je pak může předat, kam patří.
+- typ: odstavec
+  de: |-
+    Item es soll auch kain nachtwache/die vor gewacht hat/abgon/es sey dann die nachwach vor zůgegen.
+  cs: |-
+    Dále nemá žádná noční stráž, která stála první hlídku, odejít, dokud není přítomna druhá noční stráž {nachwach}.
+- typ: odstavec
+  de: |-
+    Item deßgleichen sollen die nachtwach des morgens gegen dem tag/nit abgon/die taghůt sey dann zůuor da/vnd helffen ainander aufschliessen
+  cs: |-
+    Dále stejně tak nemá noční stráž ráno k rozbřesku odejít, dokud tu nejprve není denní hlídka {taghůt}; a mají si navzájem pomáhat při odmykání.
+- typ: odstavec
+  de: |-
+    Item wenn man auffthůn will/sollen zůuor etlich von der wach auff die Mauren gon/sich wol bey den Porten vmbsehen/ob sich nichts darbey versteckt hab.
+  cs: |-
+    Dále když se má otvírat, mají nejprve někteří ze stráže vystoupit na hradby a dobře se rozhlédnout u bran, zda se tam něco neskrývá.
+- typ: odstavec
+  de: |-
+    Darnach soll man auffthůn/ain anzal bey der innersten porten lassen/die wider nach jn zůsperren/vnd zuletst drey oder vier gar hinauß lon/die sich wol vmb die porten vmbsehen.
+  cs: |-
+    Potom se má otevřít; u nejvnitřnější brány se má nechat několik [mužů], kteří za ostatními zase zamknou, a nakonec se mají pustit úplně ven tři nebo čtyři, kteří se dobře rozhlédnou kolem brány.
+- typ: odstavec
+  de: |-
+    Es sollen auch gewonlich die aussersten porten liechtgattern sein/vnd ain stacket darbey herumb/so kan man sich vmbsehen/ee das man gar aufschleüßt/ob etwas an der porten sey oder nit.
+  cs: |-
+    Nejzazší brány mají být obvykle mřížové {liechtgattern} a kolem nich palisáda {stacket}; tak se lze rozhlédnout, zda u brány něco je, nebo ne, dříve než se úplně odemkne.
+- typ: odstavec
+  de: |-
+    Item wenn man etwarn hinein lassen will/es sey tag oder nacht/so soll man die innern porten nit eröffnen/es seyen dann die aussern zůuor
+  cs: |-
+    Dále když se má někdo vpustit dovnitř, ať ve dne, nebo v noci, nemají se otevírat vnitřní brány, dokud nejsou vnější

@@ -1,0 +1,61 @@
+id: 018v
+list: '[18] v'
+strana: verso
+sken: 36
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Welche aber die wären/ die kain Fewr werffen/ schiessen/ oder machen kündten/ allain Stain/ denselben gehört ain Monat nit mer zugeben/ dann/ – 10 florin.
+  cs: |-
+    Kdo by však neuměl oheň {Fewr} vrhat, střílet ani dělat, nýbrž jen [vrhat] kameny, tomu nenáleží dávat víc než – 10 zlatých {florin} na měsíc.
+- typ: odstavec
+  de: |-
+    Vnd soll sich weytter zum Geschütz brauchen lassen/ nach notdurfft vnd beuelch des Zewgmaisters/ wie oblaut.
+  cs: |-
+    A [takový] se má dále dát použít k dělům {Geschütz} podle potřeby a rozkazu zbrojmistra {Zewgmaisters}, jak stojí výše.
+- typ: odstavec
+  de: |-
+    Item welche die Büchsenmaister seind/ die des monats haben 16 florin/ die söllen Ross hallten/ nach jrem vermügen/ klepperlin oder besser/ darmit sy den Zewg Dienern/ die Artelarey/ so man im ziehen ist/ helffen in Ordnung hallten/ Dieweyl sy doch jrer Büchsen im ziehen/ mit Fewr vnd ZündtRütten/ nit wartten bedurffen/ damit sy die Wägen manen zu faren/ vnnd kainer für den anndern einziech/ Darmit die Wägen in Ordnung/ wie der Zeüg seinen ganng auff ainander hat/ bleyb/ vnd sonst kain Rayßwag in die Artelarey einziech.
+  cs: |-
+    Dále ti puškaři {Büchsenmaister}, kteří mají měsíčně 16 zlatých, mají podle svých možností vydržovat koně – koníky {klepperlin} nebo lepší –, aby zbrojním služebníkům {Zewg Dienern} pomáhali udržovat dělostřelectvo {Artelarey} v pořádku, když se táhne. Protože u svých děl během pochodu stejně nemusejí být připraveni s ohněm a zapalovací holí {ZündtRütten}, [mají] vozy pobízet k jízdě, aby žádný nepředjížděl druhý a vozy zůstaly v pořádku, v jakém výzbroj {Zeüg} jede za sebou, a aby se mezi dělostřelectvo nevmísil žádný cestovní vůz {Rayßwag}.
+- typ: odstavec
+  de: |-
+    Ergegen soll der Zewgmaister allwegen Zwayen die Ross hallten/ Auf ain Jungen/ ain Monat Soldt verschaffen zugeben/ der jnen der Ross wart/ auch Fütterung vnd ander notdurfft hollt.
+  cs: |-
+    Naproti tomu[^1] má zbrojmistr vždy dvěma [puškařům], kteří vydržují koně, zařídit měsíční žold {Monat Soldt} na jednoho pacholka {Jungen}, který jim koně ošetřuje a také obstarává píci {Fütterung} a jiné potřeby.
+- typ: nadpis
+  uroven: 2
+  de: Nun volgt hernach/ Was der Büchsenmaister Sold ain Monat lanng in Summa betrifft.
+  cs: Nyní následuje, kolik činí žold {Sold} puškařů za jeden měsíc v součtu
+- typ: odstavec
+  de: |-
+    Item vier ScharpffMetzen/ haben Acht Büchsenmaister/ ainem 16 florin/ macht ain Monat/ – 64 florin.
+  cs: |-
+    Dále čtyři šarfmece {ScharpffMetzen} mají osm puškařů, každému 16 zlatých; to dělá na měsíc – 64 zlatých.[^2]
+- typ: odstavec
+  de: |-
+    Item zů Zwen Basiliscen/ gehören vier Büchsenmaister/ vnd ainem des Monats 14 florin/ das macht/ – 56 florin.
+  cs: |-
+    Dále ke dvěma baziliškům {Basiliscen} patří čtyři puškaři a každému 14 zlatých měsíčně; to dělá – 56 zlatých.
+- typ: odstavec
+  de: |-
+    Item vier Nachtgallen/ vnd vier Singerin/ söllen haben 16 Büchsenmaister/ vnd ainem ain Monat 12 florin/ macht/ – 192 florin.
+  cs: |-
+    Dále čtyři slavíci {Nachtgallen} a čtyři zpěvačky {Singerin} mají mít 16 puškařů a každému 12 zlatých na měsíc; to dělá – 192 zlatých.
+- typ: odstavec
+  de: |-
+    Item vier Quartanen machen Acht Büchsenmaister/ vnnd ainem ain Monat 10 florin/ thůt in Summa/ – 80 florin
+  cs: |-
+    Dále čtyři kartouny {Quartanen} dělají osm puškařů a každému 10 zlatých na měsíc; činí to v součtu – 80 zlatých.
+- typ: odstavec
+  de: |-
+    Item Fünff Trachen/ vnnd Sechß Schlanngen/ die müssen haben 22 Schützen/ die werden gleich versöldt/ wie vor angezaigt ist/ ainem ain Monat 8 florin/ thůt an der Summ/ – 176 florin.
+  cs: |-
+    Dále pět draků {Trachen} a šest kulverin {Schlanngen} musí mít 22 střelců {Schützen}; ti jsou placeni stejně, jak bylo uvedeno výše, každému 8 zlatých na měsíc, činí to v součtu – 176 zlatých.
+poznamky:
+- n: 1
+  text: „Ergegen“ – tak v tisku i zde (srov. [[011v|list (11) v]]); patrně za „hergegen“ (naproti tomu, zato).
+- n: 2
+  text: Tisková nebo početní chyba – 8 puškařů po 16 zlatých činí 128 zlatých, ne 64 (64 by odpovídalo čtyřem puškařům). Ostatní součty na stránce souhlasí (4 × 14 = 56, 16 × 12 = 192, 8 × 10 = 80, 22 × 8 = 176).

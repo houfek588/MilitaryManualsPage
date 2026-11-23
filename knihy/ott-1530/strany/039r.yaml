@@ -1,0 +1,58 @@
+id: 039r
+list: '[39] r'
+strana: recto
+sken: 77
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Auffs letst / Wa ainer oder mer / so die vorgeschriben Artickel / ainen oder mer / nit hielten / so soll derselbig oder dieselben / peinlich / als Aydbrüchig / gestrafft werden / nach erkantnuß des Obersten / Vnnd ob etwas in vorgemellten Artickeln vergessen / vnnd nit genennt wäre / das KriegßLewt zuhallten schuldig seind / dieselben Mißhandler alle / söllen auch nach beschaid des Obersten Hauptmans / gestrafft werden.
+  cs: |-
+    Nakonec: kdyby jeden nebo více [lidí] nedodrželi jeden nebo více z výše psaných artikulů {Artickel}, má být ten nebo ti útrpně potrestáni jako rušitelé přísahy {Aydbrüchig}, podle uvážení vrchního velitele {Obersten}. A kdyby v řečených artikulech bylo zapomenuto a nebylo jmenováno něco, co jsou válečníci {KriegßLewt} povinni dodržovat, mají být i všichni takoví provinilci potrestáni podle rozhodnutí nejvyššího hejtmana {Obersten Hauptmans}.
+- typ: odstavec
+  de: |-
+    Vnd ob ainer oder mer / dise Artickel / nit recht gemerckt / oder vergessen hette / der findet disen ArtickelBrieff / bey N. als Obersten Hauptman / vnd dem Schuldthaissen / bey der ainem / er deßhalben weitter Vnderricht sůchen soll vnd mag.
+  cs: |-
+    A kdyby si jeden nebo více [lidí] tyto artikuly dobře nezapamatovali nebo je zapomněli, najdou tento artikulní list {ArtickelBrieff} u N. jakožto nejvyššího hejtmana a u rychtáře {Schuldthaissen}; u jednoho z nich má a smí hledat další poučení.
+- typ: odstavec
+  de: |-
+    Nota / Diser ArtickelBrieff / soll auß beuelch vnd gegenwürtigkait des Obersten Hauptmans / oder seinem Schreyber / den Knechten im Ring verstendtlich vorgelesen / vnd jnen darnach der Schuldthaiß / gebürende Aydts Pflicht darauf geben.
+  cs: |-
+    Poznámka {Nota}: Tento artikulní list má být z rozkazu a v přítomnosti nejvyššího hejtmana nebo jeho písaře {Schreyber} knechtům v kruhu {Ring} srozumitelně předčten a rychtář jim potom na něj má dát složit náležitou přísahu {Aydts Pflicht}.
+- typ: odstavec
+  de: |-
+    Item das der Gemain Man / die Furrier / die gemainen Waybel vnd furier / zuwölen / Aber alle andere Empter / soll der oberst Hauptmann / von N. wegen / zubestellen haben.
+  cs: |-
+    Dále obec {Gemain Man} má volit furýry {Furrier}, obecní šikovatele {gemainen Waybel} a furýry;[^1] všechny ostatní úřady {Empter} však má jménem N. obsazovat nejvyšší hejtman.
+- typ: nadpis
+  uroven: 2
+  de: Artickel / darauff der Oberst Hauptman bestellt werden soll.
+  cs: Artikuly, na které má být najat nejvyšší hejtman {Oberst Hauptman}
+- typ: odstavec
+  de: |-
+    Namlich / das er N. in sollicher Bestallung / getrew vnd gewär sein / jrer N. schaden getrewlich warnen / wenden / vnd fromen werben / Das Kriegßvolck / so jm von N. wegen / zůgeordnet wirt / getrewlich beuolhen haben / vnd nach seinem besten vorsteen / kundtlichen / wider den N. gebrauchen vnd handeln / Vnd so die N. durch jre KriegßRät / mit jm handeln lassen wirt / welcher massen Er gegen den Veinden ziehen / ligen vnd handeln / So soll er des N. Hauptman / dieselben fürschleg vnd anders / selbs auch betrachten / vnd nach seinem verstandt / das best zů demselben oder anderem raten / Vnnd so es jn gůt bedunckt / derhalben besichtigung vnd erfarung thůn / vnd fürter mit sölchem Zug / vnd ligen in N. oder N. vnd annderm thůn / was jn nach gelegenhait der sachen / vnd N. beuelch nach / am wegsten / Eerlichisten / vnnd nutzlichsten bedunckt / vnd in dem allem sein fleyssig einsehen haben / das nit er N. zu nachtail / durch verachtung oder verwarlosung / sein beuolhen Kriegßvolck verfür.
+  cs: |-
+    Totiž: že bude N. v takové službě {Bestallung} věrný a spolehlivý, bude Jejich N. věrně varovat před škodou, odvracet ji a usilovat o jejich prospěch; válečný lid {Kriegßvolck}, který mu bude jménem N. přidělen, bude mít věrně ve své péči a podle svého nejlepšího rozumu ho bude otevřeně {kundtlichen} užívat a vést proti N. A když s ním N. skrze své válečné rady {KriegßRät} dají jednat o tom, jak má proti nepřátelům táhnout, ležet a postupovat, má on jako hejtman N. tyto návrhy i jiné věci také sám uvážit a podle svého rozumu radit k nim nebo k něčemu jinému to nejlepší. A uzná-li za dobré, má kvůli tomu provést obhlídku a průzkum a dále při takovém tažení a ležení v N. nebo N. i v jiném činit to, co se mu podle okolností a podle rozkazu N. jeví nejvhodnějším, nejčestnějším a nejužitečnějším. A ve všem tom má pilně dbát, aby svěřený válečný lid z opovržení nebo nedbalosti nepřivedl ke zkáze, N. k neprospěchu.
+- typ: odstavec
+  de: |-
+    Es soll auch der Oberst Hauptman / kain sonnderlichen Knecht / noch nyemant anders / von seinen wegen / oder in seinem namen aufnemen.
+  cs: |-
+    Také nemá nejvyšší hejtman přijímat žádného zvláštního knechta ani nikoho jiného kvůli sobě nebo na své jméno.[^2]
+- typ: odstavec
+  de: |-
+    Ferrer / So soll auch der Oberst Hauptman / mit allem fleyß darob sein / darmit N. in der Musterung vnd anderm / nit betrogen / vnd gůt Regiment vnd gehorsam / vnder dem Kriegßuolck gehallten werd.
+  cs: |-
+    Dále má nejvyšší hejtman se vší pílí dbát, aby N. nebyl při přehlídce {Musterung} ani v jiném podveden a aby se mezi válečným lidem udržoval dobrý pořádek {Regiment} a poslušnost.
+- typ: odstavec
+  de: |-
+    Vnd sonst alles das thůn / das ain fromer / getrewer Hauptman seiner Herrschafft vnd Oberkait zuthůn schuldig vnd pflichtig ist.
+  cs: |-
+    A jinak [má] činit vše, co je řádný a věrný hejtman svému panstvu a vrchnosti povinen a zavázán činit.
+poznamky:
+- n: 1
+  text: |-
+    Tisk uvádí furýry (Furrier, furier) dvakrát – patrně nedbalost sazby. Volba furýrů a obecních šikovatelů obcí odpovídá lancknechtskému obyčeji.
+- n: 2
+  text: |-
+    Tj. nemá na žold válečného pána najímat vlastní osobní služebníky nebo knechty mimo řádnou přehlídku.

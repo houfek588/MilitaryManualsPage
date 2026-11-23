@@ -1,0 +1,80 @@
+id: 020v
+list: '[20] v'
+strana: verso
+sken: 40
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item es soll ain Wagen Vier Ross haben/ machen die 108 vnd ain halber wagen in der Summ/ – 434 Ross.
+  cs: |-
+    Dále má mít jeden vůz čtyři koně {Ross}; to dělá u 108 a půl vozu v součtu – 434 koní.
+- typ: odstavec
+  de: |-
+    Item was auf die Ross ain Monat für Costen auffgeet/ volgt hernach
+  cs: |-
+    Dále následuje, jaký náklad padne na koně za jeden měsíc.
+- typ: odstavec
+  de: |-
+    Item man gibt gewonlich ain tag auf ain Ross 15 kreützer/ So man dann 30 tag für ain Monat rechnet/ so machen die 434 Ross an aller Summ/ ain Monat/ – 3255 florin.
+  cs: |-
+    Dále se obvykle dává na jednoho koně 15 krejcarů {kreützer} na den. Počítá-li se pak 30 dní na měsíc, dělá to za 434 koní v celkovém součtu za jeden měsíc – 3255 zlatých {florin}.
+- typ: nadpis
+  uroven: 2
+  de: Fürleüt vnd Liuer darbey/ volgt hernach.
+  cs: Následují vozkové {Fürleüt} a výplata {Liuer} k tomu[^1]
+- typ: odstavec
+  de: |-
+    So gehören allwegen zu 8 Rossen 3 person/ der seind an der Summ 162 Person/ beleybt dannocht über 2 Ross/ vnd yeder person auch ain tag 15 kreützer/ machen Person vnd Ross in ainer Summ/ – 3416 florin/ Das seind die Kugelnwägen.
+  cs: |-
+    Na 8 koní patří vždy 3 osoby; těch je v součtu 162 a ještě zbudou 2 koně. Každé osobě [se dává] také 15 krejcarů na den; osoby a koně dělají v jednom součtu – 3416 zlatých.[^2] To jsou vozy s koulemi.
+- typ: odstavec
+  de: |-
+    Nun volgen hernach die Puluerwägen/ die eraischen in jrer maß/ halb so vil wägen als die Kuglen/ Aber gůt ist zů ainer übersauff oder vorrat ainer oder zwen Wägen mer/ dann den halben tail/ von wegen der Büchsen zů beschiessen/ vnd etwan die Büchsenmaister zůuersůchen/ vnd vmb anders vergebens schiessens willen/ das zuzeiten auß der Herrn beuelch/ den Veinden zů ainer Bellaziera oder hofiern beschicht.
+  cs: |-
+    Nyní následují vozy s prachem {Puluerwägen}; těch je v náležité míře třeba o polovinu méně než vozů s koulemi. Je však dobré mít pro přebytek {übersauff}[^3] neboli zásobu o jeden nebo dva vozy víc než polovinu – kvůli zkušební střelbě z děl {Büchsen}, také k vyzkoušení puškařů {Büchsenmaister} a kvůli jiné zbytečné střelbě, která se někdy z rozkazu pánů děje nepříteli na uvítanou či k poctě {Bellaziera oder hofiern}.[^4]
+- typ: odstavec
+  de: |-
+    Die Summ derselben Wägen/ so Puluer füren/ thůt/ – 45 wägen/ vnd 1 Ross.
+  cs: |-
+    Součet těchto vozů, které vezou prach, činí – 45 vozů a 1 koně.[^5]
+- typ: odstavec
+  de: |-
+    Item dieselben yetzgemellten Puluerwägen füren/ – 1090 Zentner pulfers.
+  cs: |-
+    Dále tytéž právě zmíněné vozy s prachem vezou – 1090 centů {Zentner} prachu {pulfers}.
+- typ: odstavec
+  de: |-
+    Item die Puluerwägen/ müssen haben 212 Ross/ darzů gehören 79 Person/ Die Person vnd Ross werden gleich versoldt/ ain tag/ yedem 15 kreützer/ macht die ganntz Summ der Puluerwägen im Soldt/ ain Monat/ – 2186 florin/ ain ort.
+  cs: |-
+    Dále vozy s prachem musejí mít 212 koní a k tomu patří 79 osob. Osoby a koně jsou placeni stejně, každému 15 krejcarů na den; to dělá u vozů s prachem celkový žold {Soldt} za jeden měsíc – 2186 zlatých a jeden ort {ort}.[^6]
+- typ: nadpis
+  uroven: 2
+  de: Nun volgen hernach alle annder Mundiceywägen.
+  cs: Nyní následují všechny ostatní vozy s municí {Mundiceywägen}
+- typ: odstavec
+  de: |-
+    Item zum ersten 2 Brugkwägen/ die söllen vor dem gantzen Zeüg hinweg gan/ mit dem Rennfendlin/ vor dem Verlornen oder Lauffenden hauffen/ wenn man an gräben kompt/ die sich nit wol reytten oder watten lassen/ so soll man dieselben Brugken überwerffen/ das Reytter vnd Fůßknecht hinüber mügen.
+  cs: |-
+    Dále předně 2 mostní vozy {Brugkwägen}; ty mají jet před celou výzbrojí {Zeüg}, spolu s předvojovou korouhví {Rennfendlin} před ztraceným {Verlornen} neboli běžícím houfem {Lauffenden hauffen}. Když se přijde k příkopům, které se nedají dobře přejet ani přebrodit, mají se přes ně ty mosty přehodit, aby jezdci a pěší knechti mohli přejít.
+- typ: odstavec
+  de: |-
+    Item mer Zwen wägen/ die da füren/ ainer im vorziehen/ vnd ainer im nachziehen/ Puluer/ Kuglen/ Zündtpuluer/ Zündtstrick/ Kamern zů allerlay Veldtgeschütz/ Darzů gehört ain Zeügdiener zu Ross/ der den
+  cs: |-
+    Dále ještě dva vozy, které vezou – jeden v předvoji a jeden v zadním voji – prach, koule, zápalný prach {Zündtpuluer}, doutnáky {Zündtstrick} [a] komory {Kamern}[^7] pro všelijaká polní děla. K tomu patří zbrojní služebník {Zeügdiener} na koni, který
+poznamky:
+- n: 1
+  text: „Liuer“ – nejisté; patrně „Liefer(ung)“, tj. vydržování, výplata (srov. franc. livrée), nebo tisková chyba za „Läuffer“ (běžci, pomocníci vozků, srov. [[016r|list (16) r]]).
+- n: 2
+  text: 434 koní ÷ 8 × 3 = 162¾ osob, tedy 162 osob a 2 koně navíc. Součet 3416 zlatých s předchozími čísly nesouhlasí (162 osob × 15 krejcarů × 30 dní = 1215 zlatých, spolu s koňmi 4470 zlatých).
+- n: 3
+  text: „übersauff“ – tak v tisku (ověřeno ve skenu, dlouhé s); smyslem „přebytek, rezerva“, snad tisková chyba za „überlauff“.
+- n: 4
+  text: „Bellaziera“ – patrně z ital. „far bella cera“ (vlídně přivítat, uctít); „hofiern“ = dvořit se, prokazovat poctu. Míněna ironicky okázalá „uvítací“ střelba na nepřítele.
+- n: 5
+  text: Polovina 108½ vozu s koulemi je 54¼ vozu, tj. 54 vozů a 1 kůň (čtvrtina čtyřspřeží); „45“ je tedy patrně přesmyk číslic za 54. Tomu odpovídá i 1090 centů prachu (polovina z 2180 centů koulí).
+- n: 6
+  text: (212 + 79) × 15 krejcarů × 30 dní = 130 950 krejcarů = 2182 ¾ zlatého; tisk uvádí 2186 zlatých a jeden ort (¼ zlatého). Počet 45 vozů neodpovídá ani 212 koním (53 vozů po čtyřech); 79 osob odpovídá 212 koním (212 ÷ 8 × 3 = 79½).
+- n: 7
+  text: „Kamern“ – výměnné komory na prach pro děla nabíjená zezadu (srov. glosář komorové dělo).

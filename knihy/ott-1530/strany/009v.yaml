@@ -1,0 +1,60 @@
+id: 009v
+list: '[9] v'
+strana: verso
+sken: 18
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnnd mit ainhelligem Rat oder wissen der ganntzen Besatzung/ainen gemainen Abzug zůthůn/es geschech bey tag oder nacht/aber allerbest bey der nacht/so man vorligt/Da wirt Vengknuß vnd vil vnrat erspart/wa man haimlich außkomen mag.
+  cs: |-
+    a s jednomyslnou radou či vědomím celé posádky {Besatzung} provést společný odchod {Abzug}, ať ve dne, nebo v noci – nejlépe však v noci, když [nepřítel] leží před [hradem]. Podaří-li se tajně uniknout, ušetří se tím zajetí a mnoho zlého.
+- typ: nadpis
+  uroven: 2
+  de: Wie man mit eeren abziehen soll/das der Kriegßherr seine Kriegßleüt der eeren nit schellten mag.
+  cs: Jak se má odtáhnout se ctí, aby válečný pán nemohl své válečníky na cti hanět
+- typ: odstavec
+  de: |-
+    Item so es die obgemellten vrsachen het/vnd die zeyt der Rettung/darauf der Kriegßherr vertröst/verruckt wär/vnd kainer hoffnung mer zů gewartten/so mügen alßdann die Kriegßlewt wol ain gesprech hallten/der gestallt/wie hernach volgt/
+  cs: |-
+    Dále jsou-li tu výše zmíněné důvody, uplynula-li doba vysvobození, kterou válečný pán {Kriegßherr} slíbil, a není-li už v co doufat, mohou pak válečníci {Kriegßlewt} oprávněně vyjednávat [s nepřítelem], a to takto:
+- typ: odstavec
+  de: |-
+    Item das die Kriegßleüt der Besatzung vnd ander bey jnen/mitsampt jren Wör vnd Harnasch/vnd annders des jren/so sy mit dem Ayd für jr aigen gůt behallten mügen/frey vnbelaidigt/passieren/darzů dem Kriegß Herren alle seine farende hab/veruolgen lassen/mit sampt dem geschütz vnd aller zůgehörung.
+  cs: |-
+    Dále [žádat], aby válečníci posádky a ostatní, kdo jsou s nimi, mohli svobodně a bez úhony odejít se svými zbraněmi {Wör}, zbrojí {Harnasch} a jiným svým majetkem, který mohou přísežně prohlásit za vlastní; a k tomu aby [nepřítel] vydal válečnému pánovi všechen jeho movitý majetek {farende hab} spolu s děly {geschütz} a veškerým příslušenstvím.
+- typ: odstavec
+  de: |-
+    Darzů den jhenigen/so jre hab vnd gütter/vertruwlich zum Schloss geflehnet haben/dieselbigen hab vnd gütter auch vngeschwecht/zů jren handen widerumb nemmen/vnnd die Veindt sich benügen lassen/am stain/vnd Fiscälischen güttern/was derselben Herrschafft zůgehörig/ist.
+  cs: |-
+    K tomu aby ti, kdo svůj majetek a statky v důvěře uschovali na hradě, mohli tento majetek a statky také neumenšené vzít zase do svých rukou; a aby se nepřátelé spokojili s kamenem [hradu] a s komorními {Fiscälischen} statky, které patří této vrchnosti.
+- typ: odstavec
+  de: |-
+    Wöllen aber die Veindt/gemellt Schloss vnd Kriegßleüt/dergestallt/wie oblaut/nit auffnemen/so mag noch ain anders versůcht werden/Dieweyl vnder zwayen bösen/das ain zů erwölen ist.
+  cs: |-
+    Nechtějí-li však nepřátelé řečený hrad a válečníky přijmout tak, jak stojí výše, lze zkusit ještě něco jiného, neboť ze dvou zel je třeba zvolit jedno.
+- typ: odstavec
+  de: |-
+    Ob die veind vermainten den Kriegßherren oder Hauptman/oder ander sonnderlich personen zů überantworten auf gnad vnd vngnad/vnd die andern ziehen zů lassen mit jren hab vnd güttern/das söllen sy in kainen weg annemen/Ee/leyb vnd gůt bey dem Herren vnd Hauß lassen/Es ist vil besser mit eeren/als bider leütt gestorben/dann on eeren/als böswichter gelebt.
+  cs: |-
+    Kdyby nepřátelé chtěli, aby jim byl na milost a nemilost vydán válečný pán nebo hejtman {Hauptman} či jiné zvláštní osoby, a ostatní že nechají odejít s jejich majetkem a statky, to [válečníci] nemají v žádném případě přijmout. Raději ať u pána a u hradu položí život i statek. Mnohem lepší je zemřít se ctí jako poctiví muži než bez cti žít jako ničemové.
+- typ: odstavec
+  de: |-
+    Es begeb sich dann/das sölichs geschech mit gůttem gonst vnd willen des Herren/zů Schirm vnd Rettung jm selbs vnd andern jrer leyb vnd leben/vnd zů uerbesserung in annder weg/der sach zů gůt/das er sich selbs bewilligt/zů Ritterlicher Fengknuß/alßdann geets hin.
+  cs: |-
+    Leda by se to stalo s dobrou přízní a vůlí pána: aby k ochraně a záchraně sebe i jiných, jejich těla a života, a ke zlepšení [situace] jiným způsobem, ve prospěch věci, sám svolil do rytířského vězení {Ritterlicher Fengknuß};[^1] pak budiž.
+- typ: odstavec
+  de: |-
+    Wa aber dem Herren seine gütter/auch den jhenigen/so das jr zů dem Hauß vertruwlich geflehendt/nit vertädingen mügen/so will sich auch nit gebüren/das die Kriegßleüt/jre selbs hab vertädingen söllen/vnnd ist besser/sy ziehen on jr hab/als ander gefangen/auf ain zymliche zeyt/dem kriegßgeprauch nach/mit weyssen stäblen daruon/so mügen sy nit/als für geferlich/verdacht werden.
+  cs: |-
+    Nemohou-li však vyjednat pánovi jeho statky ani těm, kdo své jmění v důvěře uschovali na hradě, pak se nesluší, aby si válečníci vyjednávali vlastní majetek. Je lepší, aby odtáhli bez svého majetku jako jiní zajatci, na přiměřenou dobu, podle válečného obyčeje s bílými hůlkami {weyssen stäblen}[^2]; tak nemohou být podezříváni z nekalého jednání.
+poznamky:
+- n: 1
+  text: |-
+    Ritterliche Gefängnis – čestné vězení na slovo (na rytířskou víru), z něhož se zajatý šlechtic vykupoval výkupným.
+- n: 2
+  text: |-
+    Bílá hůlka v ruce byla znamením odzbrojeného, kapitulujícího vojáka, který odchází se svolením nepřítele beze zbraní
+    a majetku.

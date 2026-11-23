@@ -1,0 +1,79 @@
+id: 003r
+list: '[3] r'
+strana: recto
+sken: 5
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item man soll auch alle hohe thürn im schloss abheben/so vil der überhöch ist/es werden gewonlich die prunnen/Cistern vnd kuchin/keller/auch ander notdürfftiger wandel zu den werinen verfellt/von der feinde schiessen
+  cs: |-
+    Dále se mají všechny vysoké věže na hradě snížit o tolik, o kolik jsou příliš vysoké. Nepřátelskou střelbou [a sutinami] bývají totiž obvykle zasypány studny, cisterny a kuchyně, sklepy i jiné potřebné průchody k obranným místům {werinen}.[^1]
+- typ: odstavec
+  de: |-
+    Item man soll auch alle hohe kemeth vnd gebew abdecken/die Ziegel vnd schifer thůnd den lewten offt vil schaden/mit jrem gefell/so man darein scheüßt.
+  cs: |-
+    Dále se mají odkrýt všechny vysoké komnaty {kemeth}[^2] a budovy, neboť tašky a břidlice lidem často velmi uškodí, když padají, jakmile se do nich střílí.
+- typ: odstavec
+  de: |-
+    Es ist gůt/das man auch die Zymer der höchsten gebew abprech/es kompt offt/das die spleyssen den weyhprunnen vnsauber geben/so von dem schiessen vmb sich würfft/Exempel/Frantzen von Sicking säliger geschach auch also/dem Gott genad.
+  cs: |-
+    Je dobré strhnout také krovy nejvyšších budov. Často se totiž stává, že třísky, které střelba rozmetá kolem sebe, uštědří ošklivé „kropení“.[^3] Příklad: tak se stalo i nebožtíku Františkovi ze Sickingenu, Bůh mu buď milostiv.[^4]
+- typ: odstavec
+  de: |-
+    Item man soll auch dieselben Zymerhöltzer legen an die ort/das es vor aignem fewr verwart werd/auch vor der veind fewr/so man würfft vnd scheüßt.
+  cs: |-
+    Dále se má toto trámoví uložit na taková místa, kde bude chráněno před vlastním ohněm i před ohněm, který nepřátelé vrhají a střílejí.
+- typ: odstavec
+  de: |-
+    Item es ist auch gůt zů kochen vnd anderem prennen.
+  cs: |-
+    Dále se [toto dříví] také dobře hodí k vaření a k jinému topení.
+- typ: odstavec
+  de: |-
+    Item man soll auch alle innwendige decher im schloss/die nider seynd/mit rinnen verfassen/darmit die regenwasser gefangen werden/vnd alle gemech/kains außgenomen/mit küffen/vässern/vnd anderm wasser geschürr/vnd zu allen zeyten voll hallten/von fewrs wegen/etwan geschichts not/das man zu kochen/metzgen/bachen/wäschen/vnd anderer notdurfft auch haben můß.
+  cs: |-
+    Dále se mají všechny vnitřní střechy na hradě, které jsou nízko, opatřit žlaby, aby se zachycovala dešťová voda. A všechny místnosti bez výjimky [se mají opatřit] kádmi, sudy a jinými nádobami na vodu, které mají být kvůli ohni stále plné. Někdy také nastane nouze, takže [vodu] je třeba mít i k vaření, k porážce, k pečení, k praní a k jiné potřebě.
+- typ: odstavec
+  de: |-
+    Item es will auch etwan von nötten sein/das man auß den kellern oder andern tieffen gemechen/vnder der erd/in stollen weyß/genng zů den prunnen mache/vrsach/die veind schiessen gewonlich die prunnen vnd kuchin zůuerfellen/Darnach ist der weg vnder der Erd gůt zů dem prunnen/biß das man raumen mag.
+  cs: |-
+    Dále bude někdy nutné vést ze sklepů nebo jiných hlubokých místností pod zemí chodby ke studnám, na způsob štol. Důvod: nepřátelé obvykle střílejí tak, aby studny a kuchyně zasypali. Pak se podzemní cesta ke studni hodí, dokud se [sutiny] nedají odklidit.
+- typ: odstavec
+  de: |-
+    Item es ist auch gůt/wa mans vermag/mit kolen zů kochen/kan man im Leger nit wol sehen wa man die kuchin hellt/die kolen riechen nit.
+  cs: |-
+    Dále je dobré vařit, je-li to možné, na dřevěném uhlí; z [nepřátelského] ležení {Leger} pak nelze dobře vidět, kde je kuchyně, neboť uhlí nekouří.
+- typ: odstavec
+  de: |-
+    Item/wie obgemelt/so soll in kainen weg/der kriegßherr/sich belegern lassen/vnd weder dem hauß/noch den leüten darinn/auch den feinden daruor/souil nit vertrawen/das er sich belegern laß in aigner person.
+  cs: |-
+    Dále, jak bylo řečeno výše, válečný pán {kriegßherr} se nemá nijak dát obléhat. Nemá tolik důvěřovat ani hradu, ani lidem v něm, ani nepřátelům před ním, aby se dal osobně obléhat.
+- typ: odstavec
+  de: |-
+    Item es hat vil vrsach/das es nit gůt ist/die sich hierinn nit all melden lassen/aber die kriegßuerstenndigen wissens wol/wa man vogel vnd nest bey ainander wayßt/so wenden die veind etwan alle jre vermügen für/das sonst nit geschech/Es bedürffen auch die feind/so vorligen/an andern orten/sich vor rettung nit so hart besorgen/Darumb mögen sy jr kriegßuolck alles für das schloss/so belegert ist/bringen/oder so vil dester weniger haben.
+  cs: |-
+    Dále je mnoho důvodů, proč to není dobré; ne všechny se tu dají uvést, ale znalci válečnictví {kriegßuerstenndigen} je dobře znají. Ví-li se, že pták i hnízdo jsou pohromadě, nasadí nepřátelé někdy všechny své síly, což by se jinak nestalo. Nepřátelé, kteří [před hradem] leží, se také nemusejí tolik obávat pomoci zvenčí. Proto mohou přivést před obležený hrad všechen svůj válečný lid {kriegßuolck}, anebo jim stačí o to méně [lidí].
+- typ: odstavec
+  de: |-
+    Item ain yeder kriegßherr besehe wol/des hauss gelegenhait/die gröss/weytt/oder enng/ob das vil oder wenig lewt bedürff/ob man im an ainem oder mer orten/belegern/schantzen oder beschiessen müg/alles nach
+  cs: |-
+    Dále ať si každý válečný pán dobře prohlédne polohu hradu, jeho velikost, rozlehlost či stísněnost, zda potřebuje mnoho, nebo málo lidí, zda jej lze obléhat, šancovat {schantzen} nebo ostřelovat z jednoho nebo z více míst, vše podle
+poznamky:
+- n: 1
+  text: |-
+    „Wandel zu den werinen“ – průchody (Wandel = chůze, provoz, srov. [8] v „da der wandel am grösten ist“) k obranným
+    místům na hradbách (Wörinen = Wehren, srov. [3] v). Zasypané sutinami zřícených věží by odřízly obránce od hradeb.
+- n: 2
+  text: |-
+    „Kemeth“ – nejspíš Kemenaten, obytné (vytápěné) budovy hradu; švábské Kemmet může znamenat i komín, což se však
+    s „abdecken“ (odkrýt střechu) hodí méně.
+- n: 3
+  text: |-
+    Doslova „dávají nečisté svěcené vody“ (den Weihbrunnen unsauber geben) – ironické rčení: třísky „pokropí“ okolostojící
+    a zraní je.
+- n: 4
+  text: |-
+    Franz von Sickingen (1481–1523), říšský rytíř a vojevůdce, byl při obléhání svého hradu Nanstein u Landstuhlu
+    (květen 1523) smrtelně zraněn trámem či třískami rozmetanými dělovou střelou a zemřel po kapitulaci hradu.

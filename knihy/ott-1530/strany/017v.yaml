@@ -1,0 +1,58 @@
+id: 017v
+list: '[17] v'
+strana: verso
+sken: 34
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Büchsen beuelhen/ ye N. vnd N. zů der Büchsen/ Vnnd aber N. vnd N. zů jhener Büchsen/ biß die Büchsen all besetzt vnd verlihen seind.
+  cs: |-
+    děla {Büchsen} svěřit: vždy N. a N. k tomuto dělu, a zase N. a N. k onomu dělu, dokud nejsou všechna děla obsazena a rozdána.
+- typ: odstavec
+  de: |-
+    Darnach soll der Zewgmaister dem Zewgschreyber beuelhen/ den Reuers brieff zumachen/ vnd al jr namen zubeschreyben/ vnd wie die Büchsenmaister bestellt/ auch wie sy jren Ayd gethon/ vnd was sy versprochen haben/ auf wie vil Monat sy geschworen/ vnnd gewissen Dienst haben/ Auch was yedem ain Monat gegeben werden soll/ vnd wie vil jm vorhinauß auf die hand gegeben sey/ Auch was jm für den Abzug gegeben werd/ so man jn vor der benannten Zeyt oder Monat vrlaub gibt/ wie er gehallten werden soll/ so er weyt von haymet gefürt ist.
+  cs: |-
+    Potom má zbrojmistr {Zewgmaister} uložit zbrojnímu písaři {Zewgschreyber}, aby vyhotovil revers {Reuers brieff} a zapsal všechna jejich jména: jak byli puškaři {Büchsenmaister} přijati, jak složili přísahu {Ayd} a co slíbili, na kolik měsíců přísahali a mají zaručenou službu; dále co se má každému dávat na měsíc a kolik mu bylo dáno předem do ruky; také co dostane jako odchodné {Abzug}, propustí-li se před stanovenou dobou či měsícem, a jak se s ním má zacházet, byl-li odveden daleko od domova.
+- typ: odstavec
+  de: |-
+    Item wenn man jnen vor der zeyt vrlaub gibt/ die sy bestellt seind/ so gibt man jnen gewonlich ainen Monat Soldt für den Abzug/ Wenn man jnen aber vrlaub gibt nach der Zeyt oder Monat/ so jnen zůgesagt ist/ So gibt man jnen gewonlich ain Halben Monat Soldt/ für den abzug.
+  cs: |-
+    Dále propouštějí-li se před dobou, na kterou byli přijati, dává se jim obvykle jeden měsíční žold {Monat Soldt} jako odchodné. Propouštějí-li se však po uplynutí doby či měsíců, které jim byly přislíbeny, dává se jim obvykle půl měsíčního žoldu jako odchodné.
+- typ: odstavec
+  de: |-
+    Sy werden aber gewonlich bestellt/ auf den gemainen VeldtZug/ wie man die zu Ross vnd Fůß hallt/ also werd man sy auch hallten/ des Abzugs halben.
+  cs: |-
+    Obvykle se však přijímají na obecné polní tažení {VeldtZug}: jak se co do odchodného zachází s jízdními a pěšími, tak se bude zacházet i s nimi.
+- typ: odstavec
+  de: |-
+    Item zuzeytten werden Sy mit sonderer bestellung auffgenomen/ man mag sy nit allwegen so leichtlich erheben/ als Reytter vnd Fůßknecht.
+  cs: |-
+    Dále se někdy přijímají na zvláštní služební list {bestellung}, neboť je nelze vždy sehnat tak snadno jako jezdce a pěší knechty.
+- typ: odstavec
+  de: |-
+    So nun der Ayd beschehen ist/ soll man ainem yeden ain Halben Monat Sold vorhinauß auff die hanndt geben/ Es komt offt/ das man jnen ainen gantzen Monatsoldt/ oder etwan mer/ vorhinauß gibt/ darnach die sach nötig/ vnd man der lewt bekomen mag.
+  cs: |-
+    Když je přísaha složena, má se každému dát předem do ruky půl měsíčního žoldu {Sold}. Často se stává, že se jim předem dává celý měsíční žold nebo někdy i víc, podle toho, jak je věc naléhavá a jak lze lidi sehnat.
+- typ: odstavec
+  de: |-
+    Nachmalen soll jnen der Zeügmaister beuelch geben/ yeden auf sein Büchs zuwartten/ in der Veind Landt/ oder da man sich gefärs versicht mit fewr/ darbey den gantzen tag zuwarten.
+  cs: |-
+    Potom jim má zbrojmistr dát rozkaz, aby každý v nepřátelské zemi nebo tam, kde se očekává nebezpečí, obsluhoval své dělo a byl u něho s ohněm připraven po celý den.
+- typ: odstavec
+  de: |-
+    Darzů soll er seinen aigen Fewrzewg in seiner täschen tragen/ wenns not geschech/ bey tag vnd nacht/ das er ain Fewr machen künd/ vnd sein zündtrůt bey seiner hannd vnd losament hab/ Vnd wenn er auß eehafften vrsachen/ von der Büchsen gon müst/ so soll dieselben zeyt sein gesell darbey wartten/ darmit die Büchs nymmer loß oder ledig stee/ in der Veindt Land.
+  cs: |-
+    K tomu má nosit ve své tašce své vlastní křesadlo {Fewrzewg}, aby mohl v případě potřeby ve dne i v noci rozdělat oheň, a mít svou zapalovací hůl {zündtrůt} po ruce a ve svém ubytování {losament}. A kdyby musel z pádných příčin od děla odejít, má u něho po tu dobu čekat jeho druh {gesell}, aby dělo v nepřátelské zemi nikdy nestálo opuštěné nebo bez obsluhy.
+- typ: odstavec
+  de: |-
+    Item er soll auch alle nacht sein Losament bey dem Zewg vnnd Artelarey haben/ bey anndern Büchsenmaistern/ darmit er gefunden werden müg/ durch die Zeüg Diener/ so der Zewgmaister sein oder annder bedörffte/ beuelch zugeben.
+  cs: |-
+    Dále má mít každou noc své ubytování u výzbroje {Zewg} a dělostřelectva {Artelarey} mezi ostatními puškaři, aby ho zbrojní služebníci {Zeüg Diener} mohli najít, kdyby ho nebo jiné zbrojmistr potřeboval a chtěl jim dát rozkaz.
+- typ: odstavec
+  de: |-
+    Er soll auch in Lerman/ so sich begebe/ bey tag oder nacht/ sich zů seiner Büchsen verfügen/ bey dem Ayd/ darbey gewärtig sein/ was mit jm verschafft wirt/ zuthůn/ sy sey in der Schantz oder andern orten.
+  cs: |-
+    Také při poplachu {Lerman}, kdyby k němu došlo ve dne nebo v noci, se má pod přísahou odebrat ke svému dělu a být tam připraven vykonat, co mu bude nařízeno, ať je [dělo] v šanci {Schantz}, nebo na jiných místech.

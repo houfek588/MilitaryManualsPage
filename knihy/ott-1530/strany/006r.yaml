@@ -1,0 +1,65 @@
+id: 006r
+list: '[6] r'
+strana: recto
+sken: 11
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Item wenn man wider abgeet/nach ergangnem Lerman/so soll man alle Büchsen zůuor wider laden/vnd versorgen vor feüchtigkait/die zündlöcher/an den Hacken/mit wachß verklaiben/Vnd die zündlöcher auf dem Stahellöth/alle vndersich wennden/ob das wetter darauff gieng/so schadt es destweniger.
+  cs: |-
+    Dále když se po skončeném poplachu {Lerman} zase odchází [z hradeb], mají se předtím všechna děla {Büchsen} znovu nabít a ochránit před vlhkostí. Zápalné otvory {zündlöcher} u hákovnic {Hacken} se mají zalepit voskem a zápalné otvory na [podstavci] {Stahellöth}[^1] všechny obrátit dolů; kdyby na ně přišel nečas, uškodí to méně.
+- typ: odstavec
+  de: |-
+    Item darnach soll dem Zeügwartten/alle Laden vnd pulferseck/wider zůgestellt werden/von stundan/der soll sy all besehen/wess er dann/an kugeln/schiess vnd zündtpulfer/weniger findt/dann vor darinn geweßt/soll er wider darein thůn/Deßgleichen/was er mangel an zündtstricken findt/soll er mer darzů thůn/darmit man allweg schnell berait sey.
+  cs: |-
+    Dále se potom mají zbrojnímu správci {Zeügwartten} okamžitě vrátit všechny truhlice {Laden} a pytle na prach {pulferseck}. Ten je má všechny prohlédnout, a čeho najde v koulích {kugeln}, střelném a zápalném prachu {schiess vnd zündtpulfer} méně, než v nich bylo předtím, to má znovu doplnit. Stejně tak, kde zjistí nedostatek doutnáků {zündtstricken}, má jich přidat, aby se vždy bylo rychle připraveno.
+- typ: odstavec
+  de: |-
+    Item es söllen auch die Büchsenmaister vnd Hackenschützen offt zů jren büchsen sehen/das alles/so darzů gehörig/bey ainander sey/wa etwas daruon kom/das man sölichs widerumm bey dem Zeügmaister erholl/bey leybsstraf verbieten/von den büchsen nichts zutragen oder zůerbrechen.
+  cs: |-
+    Dále mají puškaři {Büchsenmaister} a hákovničtí střelci {Hackenschützen} často dohlížet na svá děla, aby všechno, co k nim patří, bylo pohromadě; ztratí-li se něco z toho, ať se to znovu vyzvedne u zbrojmistra {Zeügmaister}. Pod trestem na těle se má zakázat cokoli od děl odnášet nebo z nich ulamovat.
+- typ: odstavec
+  de: |-
+    Item es soll auch das pulfer/so man in ainer Besatzung hat/nit an ainem end behallten werden/Vrsach/wenn glück zůschlüg/das aigen fewr/donner oder plitz außkem/oder darein geschossen wurde/so wer man gar verdorben/Darumm soll man ain pulfer behaltnuß drey oder vier haben/wenn glück an ainem end zůschlůg/das man dannocht an dem andern noch ain vorrat haben möcht.
+  cs: |-
+    Dále se prach {pulfer}, který posádka {Besatzung} má, nemá uchovávat na jednom místě. Důvod: kdyby přišla nehoda – vypukl vlastní oheň, uhodil hrom nebo blesk, anebo by se do něj střelilo –, bylo by po všem. Proto je třeba mít tři nebo čtyři prachárny {pulfer behaltnuß}, aby i při nehodě na jednom místě zbyla zásoba na jiném.
+- typ: odstavec
+  de: |-
+    Item es ist in söllichem fal/noch ain weg/vnrat zůuerhütten/also/wenn man den Salyter gerainigt/vnd den Schwebel berait hat/alßdann mag man den Salpeter deßgleichen den Schwebel vnd kolen/yedes besonder zů staub vnd pulfer malen/auch yedes besonnder in vässer fassen/vnd sauber einschlahen/ains dahin/das ander dorthin/in verschlossen kamern setzen/ist nit sorgklich/es gibt nit gern fewr/yedes besonder/als wenn es gemischt wär.
+  cs: |-
+    Dále je v takovém případě ještě jeden způsob, jak předejít neštěstí: když se ledek {Salyter} vyčistí a síra {Schwebel} připraví, lze ledek, stejně jako síru a dřevěné uhlí {kolen}, semlít každé zvlášť na prášek a moučku, každé zvlášť uložit do sudů, čistě je zatlouct a postavit jedno sem, druhé tam do uzamčených komor. To není nebezpečné, neboť každá složka zvlášť tak snadno nevzplane, jako kdyby byly smíchány.
+- typ: odstavec
+  de: |-
+    Gescheh es dann not in ainer Besatzung/so kan man wol die tailung yedes mit seinem gewicht machen/Darzů ain instrument ainer stampf mülin/die hat mit wenig leüten/bald vil pulfers gemacht.
+  cs: |-
+    Nastane-li pak v posádce nouze, lze snadno provést rozdělení každé složky podle její váhy. K tomu [patří] zařízení stoupy {stampf mülin}[^2]; ta s několika málo lidmi brzy vyrobí mnoho prachu.
+- typ: odstavec
+  de: |-
+    Item es soll auch/bey leybstraff/kain Handtschütz oder ander/kain angezündten strick oder fewr/in das Zeüghauß tragen.
+  cs: |-
+    Dále nemá pod trestem na těle žádný střelec z ručnice {Handtschütz} ani nikdo jiný nosit do zbrojnice {Zeüghauß} zapálený doutnák {strick} nebo oheň.
+- typ: odstavec
+  de: |-
+    Item es soll auch/weder bey tag oder nacht/kain Büchsenmaister oder Hackenschütz/vnd ander/kain Büchß nit abschiessen/on des öbersten wissen oder beuelch/Es macht Lerman/geit Meyterey vnd Zaichen den Feinden/bringt vnordnung/so man gegen Feinden handeln soll/Es macht die Büchsen lär/so sy geladen sein sollten.
+  cs: |-
+    Dále nemá ve dne ani v noci žádný puškař, hákovnický střelec ani nikdo jiný vystřelit z jakékoli zbraně {Büchß} bez vědomí nebo rozkazu plukovníka {öbersten}. Působí to poplach, dává podnět ke vzpouře {Meyterey} a znamení nepřátelům, vnáší nepořádek, když se má proti nepřátelům jednat, a vyprazdňuje zbraně, které by měly být nabité.
+- typ: nadpis
+  uroven: 2
+  de: Wie man den Kriegs Rath besetzen soll.
+  cs: Jak se má obsadit válečná rada
+- typ: odstavec
+  de: |-
+    Item der öberst/soll zů jm erfordern/Erstlich/drey kriegß Räth/namlich ainen von dem Adel/als seinen Leytinger oder Locotenent vnd
+  cs: |-
+    Dále má plukovník {öberst} povolat k sobě nejprve tři válečné rady {kriegß Räth}, totiž jednoho ze šlechty jako svého poručíka {Leytinger} neboli zástupce {Locotenent}, a
+poznamky:
+- n: 1
+  text: |-
+    „Auf dem Stahellöth“ – výraz nejasný. Patrně jde o pevná děla či hákovnice uložené na podstavci nebo ocelovém
+    lůžku (Stahel = ocel, Stahel/Stall též podstavec); zápalné otvory se mají obrátit dolů, aby do nich nezatékalo.
+- n: 2
+  text: |-
+    Stampfmühle – stoupa, mlýn s dusadly poháněnými vačkovým hřídelem (vodou, koňmi či lidmi), v níž se drtily a mísily
+    složky prachu.

@@ -1,0 +1,38 @@
+id: 032v
+list: '[32] v'
+strana: verso
+sken: 64
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Deßhalben ist von nöten / das die Herren auff sich selber vnd jre Seckel wol sehen / vnd gewarnet seyen.
+  cs: |-
+    Proto je třeba, aby páni dobře hleděli na sebe a na své měšce a měli se na pozoru.
+- typ: odstavec
+  de: |-
+    Item ich hab auch auff ainem VeldZug / in ainem Lerman gefunden / vnd gesehen / das grosser mangel an Lewten gewest / vnnd die Fendlin übel besetzt / da ain yeder bey seinem Ayd / zů seinem Fendlin den nächsten zůtrachten soll / Deßgleychen / bey der Artelarey / auch vil Personen / so zů dem Geschütz gehörig / aber nit da / Da ward von dem Schreyenden Hauffen vil vnnützer / oder villeicht gantz nottdurfftiger wort gehört / Wo ist der Groß Hanns / wo der Feder Hanns / wo der Klain Hanns / wo Brůder Veyt / wo der / wo jhener / wo die mit den Grossen vnd Vil Sölden / wo die / so all tag mit den Muster Herren vnd jren Schreybern Banckatieren / Der ain schwört Marter / der annder / Gotts Wunden soll sy schennden / der dritt / bots Lufft / der vierdt schwört Dufft vnd Schnee / der fünfft Gotts Flaisch / der Sechßt schwört Kraut darzů / vnnd füren ain söllich seltzam Regiment vnd Gugelfůr / das den Hauptlewten offt not geschicht den Kriegßknechten zuentlauffen oder zuentreyten / Dann es geschicht söllichs vil / auß verhengknuß vnd zůlassung der Hauptlewt / Es ist etwan also gestallt / Hillff mir / so hilff ich dir / Leichst du mir Knecht zů der Muster / das ich bestan mag / so leich ich dir wider knecht / Also geets zů / das Sy etwan übel bestond / mit jren Meyttereyen vnd Abtragen den Herrn / darzů dem gemainen mann / wie ob gehört ist.
+  cs: |-
+    Dále jsem také na jednom polním tažení {VeldZug} při poplachu {Lerman} zjistil a viděl, že byl velký nedostatek lidí a praporce {Fendlin} byly špatně obsazeny, ačkoli každý má pod svou přísahou {Ayd} nejkratší cestou spěchat ke svému praporci. Stejně tak u dělostřelectva {Artelarey} chybělo mnoho osob, které k dělům {Geschütz} patří. Tu bylo od křičícího houfu {Hauffen} slyšet mnoho zbytečných, nebo snad docela potřebných slov: Kde je Velký Hans, kde Péro-Hans, kde Malý Hans, kde bratr Vít, kde ten, kde onen, kde ti s velkými a mnohonásobnými žoldy {Sölden}, kde ti, co každý den hodují {Banckatieren} s přehlídkovými komisaři {Muster Herren} a jejich písaři? Jeden kleje „umučení“, druhý „ať je rány Boží zhanobí“, třetí „Boží povětří“, čtvrtý kleje „mlhu a sníh“, pátý „tělo Boží“, šestý k tomu kleje „zelí“.[^1] A tropí tak podivné řádění a maškarádu {Gugelfůr}[^2], že hejtmani {Hauptlewten} musejí často před válečnými knechty {Kriegßknechten} utéct pěšky nebo ujet na koni. Děje se to totiž často s přivolením a svolením hejtmanů. Někdy to chodí takto: Pomoz mně, pomohu já tobě; půjčíš-li mi knechty k přehlídce {Muster}, abych obstál, půjčím já zase tobě. Tak se stává, že [hejtmani] někdy se svými vzpourami {Meyttereyen} zle pochodí a působí škodu pánům i prostému lidu {gemainen mann}, jak bylo slyšet výše.
+- typ: odstavec
+  de: |-
+    Das můß man also fürkomen vnd verhůtten / Dieweyl alle Empter vnd annder Kriegßlewtt / eerlich vnd wol mit jren Sölden vnd ander Proueyt / erhallten werden / das der Zewgmaister kain Artelarey Person anneme zudienen / der vorhin gellt vnnder ainem andern Hauptmann / im selben Veld Leger hab / Er soll jm auch das / an geschworen Aydsstat angeloben lassen / das er vorhin Vrlaub nemen wöll / ee er jn einschreyben laßt / wa er annderst Dienst hett / im Leger / Es were dann in söllichem Fall / mit willen vnd gonst des Zewgmaisters vnd Hauptmanns / das er bey dem Zewgmaister / des Monats 8 Florin haben möcht / vnd bey dem Hauptman nur 4. So mag jm der Zewgmaister den Monat 4 florin schreyben / vnd der Hauptmann auch 4 florin / so wirt der Herr nit betrogen / vnnd verdient der Knecht die 8 florin / die seind jm nützer dann 4. vnnd behallt der Hauptman sein anzal Knecht / im Register. Sonst soll es in kainen weg zůgelassen oder gestatt werden / Das ain Artelareyperson / dienst oder gellt nem vnder ainem Fendlin / on ain lauter vrlaub des Zewgmaisters.
+  cs: |-
+    Tomu se musí předejít a zabránit takto: Protože všechny úřady {Empter} i ostatní válečníci {Kriegßlewtt} jsou čestně a dobře zaopatřeni svými žoldy a jinými požitky {Proueyt}, ať zbrojmistr {Zewgmaister} nepřijímá do služby žádnou osobu dělostřelectva, která už bere peníze pod jiným hejtmanem v témž polním ležení {Veld Leger}. Má si od ní také místo přísahy dát slíbit, že si napřed vezme propuštění {Vrlaub}, než se dá zapsat, pokud má v ležení jinou službu. Výjimkou je případ, kdy by s vůlí a přízní zbrojmistra i hejtmana mohla mít u zbrojmistra 8 zlatých {Florin} měsíčně a u hejtmana jen 4. Pak jí smí zbrojmistr zapsat měsíčně 4 zlaté a hejtman rovněž 4 zlaté. Tak pán nebude ošizen, knecht si vyslouží 8 zlatých, které jsou mu užitečnější než 4, a hejtman si ponechá svůj počet knechtů v rejstříku {Register}. Jinak se nemá nijak připustit ani dovolit, aby osoba dělostřelectva brala službu nebo peníze pod některým praporcem bez výslovného propuštění od zbrojmistra.
+- typ: odstavec
+  de: |-
+    Wa aber söllichs von ainem oder mer übertretten wurde / so soll er gestrafft werden am leyb / mit Henckershanndt / als ain Mainaidiger / vnd vngetrewer an seinem Herren.
+  cs: |-
+    Kdyby to však jeden nebo více [lidí] přestoupili, má být [provinilec] potrestán na těle rukou katovou {Henckershanndt} jako křivopřísežník, nevěrný svému pánu.
+- typ: odstavec
+  de: |-
+    Keme er aber daruon / das er im Veld nit gestrafft werden möcht / so soll jm der Zewgmaister oder sein Hauptman nachschreyben / seiner Oberkait / der ort / da er dahaim ist / als ainem Schelmen vnd Trewlosen
+  cs: |-
+    Kdyby však utekl, takže by nemohl být potrestán v poli, má o něm zbrojmistr nebo jeho hejtman napsat jeho vrchnosti {Oberkait} tam, kde je doma, jak náleží na šelmu {Schelmen} a věrolomného
+poznamky:
+- n: 1
+  text: Výčet dobových kleteb, z nichž některé jsou opisné (eufemistické) – „Marter“ (Kristovo umučení), „Gotts Wunden“ (rány Boží), „bots Lufft“ (bots/potz = Gottes, tj. „Boží povětří“), „Dufft vnd Schnee“ (jinovatka/mlha a sníh), „Gotts Flaisch“ (tělo Boží); „Kraut“ je patrně krycí slovo za „Sakrament“ (svátost) – výklad nejistý.
+- n: 2
+  text: „Gugelfůr“ (Gugelfuhr) – původně masopustní maškaráda s kuklami, obrazně bláznovství, nepořádek.

@@ -1,0 +1,35 @@
+id: 040v
+list: '[40] v'
+strana: verso
+sken: 80
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    alle obgemellte Artickel / ainer Person / die N. verordnet / Geloben vnnd Schwören / auch derhalb BestellBrieff / vnnd Reuerß nemen vnd geben.
+  cs: |-
+    všechny výše řečené artikuly {Artickel} slíbí a odpřisáhne osobě, kterou N. ustanoví, a že si o tom vzájemně vydají a přijmou služební list {BestellBrieff} a revers {Reuerß}.
+- typ: odstavec
+  de: |-
+    Nun es wirt bedacht / So ain Hauptman / auff obgemellte Artickel verpflicht / das durch vil Vortail vnnd Zůstend / so sy daruor gehabt / abgeschnitten werden / Vnd darumb für gůt angesehen / das man ainem yeden söllichen VnderHauptman / den obgemellten gewonlichen Hauptmans Soldt bessern / vnd ainem yeden söllichen VnderHauptman / des Monats 40 Florin / Vnd darzů ainen Ainfachen Sold / auff ain Knaben geb / So soll er auch Zwen Trabanten / auß den besoldten Knechten nemen / Auff der yeder soll man jm noch ain Halben Solld / vnnd zu den allen 2 Ainfach Söld / auff ain Caplan geben / darmit man dester redlicher vnd geschickter VnderHauptlewt / daran dann auch nit wenig gelegen / gehaben müg / Wann söllicher Hauptman / müß mancherlay vnkostens / von seins Hauptman Stannds wegen thůn / So ist an disem ort / ab den Veinden zugewinnen / klaine hoffnung / Darumb will man Redlich Vnderhauptlewt haben / vnnd jn ander Vortail / obgemellter mass / abschneyden / So wirt not sein / jnen jr Besoldung dester besser zu machen / Vnnd man komt des dannocht gar vil neher / dann das man jnen weniger geb / vnd ander Vortail dem N. zu nachtail sůchen lassen sollte.
+  cs: |-
+    Nyní se uvažuje takto: když je hejtman {Hauptman} zavázán na výše řečené artikuly, odnímá se tím mnoho výhod a příjmů {Zůstend}, které [hejtmani] dříve měli. Proto se pokládá za dobré každému takovému podřízenému hejtmanovi {VnderHauptman} výše řečený obvyklý hejtmanský žold zlepšit a dávat každému takovému podřízenému hejtmanovi měsíčně 40 zlatých {Florin} a k tomu jeden jednoduchý žold {Ainfachen Sold} na pachole {Knaben}. Má si také vzít dva drabanty {Trabanten} z najatých knechtů; na každého z nich se mu má dávat ještě půl žoldu a ke všemu tomu 2 jednoduché žoldy na kaplana {Caplan}, aby bylo možné mít tím poctivější a schopnější podřízené hejtmany, na čemž také nemálo záleží. Neboť takový hejtman musí kvůli svému hejtmanskému stavu nést mnohé náklady, a přitom je v tomto ohledu malá naděje, že by něco získal na nepříteli. Chce-li se tedy mít poctivé podřízené hejtmany a odejmout jim jiné výhody výše řečeným způsobem, bude třeba jim jejich žold {Besoldung} tím zlepšit; a i tak se tím vyjde mnohem levněji, než kdyby se jim dávalo méně a nechalo se jim hledat jiné výhody ke škodě N.[^1]
+- typ: odstavec
+  de: |-
+    Nun es will ainem yeden VnderHauptman / angezaigt werden / das er mit seinen Knechten / am N. tag / schierst / zu N. sey / So sollen den anndern tag darnach / frů / sölliche Knecht / in gegenwürtigkait des Obersten / gemustert werden / auch jren Artickel Schwören / vnnd jne als bald darauff ain Halben Monatsoldt eingeben werden / darmit sy dann stracks anziehen.
+  cs: |-
+    Nyní je třeba každému podřízenému hejtmanovi oznámit, aby byl se svými knechty nejbližšího N. dne v N. Druhý den potom časně ráno mají být tito knechti v přítomnosti vrchního velitele {Obersten} prohlédnuti na přehlídce {gemustert}, mají přísahat na svůj artikul a ihned nato jim má být vyplacen půlměsíční žold {Halben Monatsoldt}, aby pak neprodleně vytáhli.
+- typ: nadpis
+  uroven: 2
+  de: Ains yeden vorgemellten Vnnder Hauptmans Schreybers Ayd.
+  cs: Přísaha {Ayd} písaře každého výše zmíněného podřízeného hejtmana
+- typ: odstavec
+  de: |-
+    Das ich N. die Monatlanng / vnder dem Hauptman N. als sein bestelter Schreyber / bey anderm Kriegßvolck vnder sein Fendlin gehörig / getrewlich dienen / Jrer N. schaden wennden / vnnd fromen fürdern / Auch die KriegßKnecht / so gedachtem meinem Hauptman / vnder seinem Fendlin / als ain Ainfacher oder DoppelSöldner / durch die MusterHerrn / zu yeder Musterung / gůt gemacht werden / Derselben zůlassung nach / getrewlich / Recht beschreyben / vnnd darinnen / weder meinem Hauptman / Mir / oder Annder zůuortail oder Nutz / kainerlay betrug gebrauchen / Auch nyemants annders darzů helffen fürdern oder Raten / Sonnder in dem vnnd anderm / alles das thůn / das ain Fromer / getrewer Schreyber vnd Kriegßman / seiner Oberkait vnd Herschafft zuthůn / schuldig ist / on allerlay Arglisten vnnd gefärde / Also helff mir Gott der Allmechtig.
+  cs: |-
+    Že já, N., budu po ty měsíce pod hejtmanem N. jako jeho najatý písař {Schreyber} věrně sloužit spolu s ostatním válečným lidem {Kriegßvolck}, který patří pod jeho praporec {Fendlin}, budu odvracet škodu Jejich N. a podporovat jejich prospěch. Také válečné knechty {KriegßKnecht}, kteří budou mému řečenému hejtmanovi pod jeho praporcem při každé přehlídce {Musterung} uznáni přehlídkovými komisaři {MusterHerrn} jako prostí žoldnéři nebo dvojžoldnéři {DoppelSöldner}, budu podle jejich schválení věrně a správně zapisovat a nebudu při tom užívat žádného podvodu ve prospěch nebo k užitku svého hejtmana, svému ani jiných, ani nikomu jinému k tomu pomáhat, napomáhat nebo radit; nýbrž v tom i v jiném budu činit vše, co je řádný a věrný písař a válečník {Kriegßman} povinen činit své vrchnosti a panstvu, beze vší lsti a úskoku. Tak mi pomáhej Bůh všemohoucí.
+poznamky:
+- n: 1
+  text: Měsíční příjem podřízeného hejtmana by tak činil 40 zl. + 4 zl. na pachole + 2 × 2 zl. (půl žoldu na každého ze dvou drabantů) + 8 zl. na kaplana = 56 zl., počítá-li se jednoduchý žold po 4 zl.

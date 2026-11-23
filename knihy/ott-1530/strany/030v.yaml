@@ -1,0 +1,58 @@
+id: 030v
+list: '[30] v'
+strana: verso
+sken: 60
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Gebe er aber/der verkauffer/die Prouandt höher/vnnd schlüg darmit auff/dann es jm geschätzt wäre/so hat der Prouoß abermals gůt macht/das er sy alle nem/vnnd das gellt darzů/das er über die Schatzung darauß gelößt hat. Das ist alles darumb angesehen/das der arm hungerig Kriegßknecht/der nit Wägen hat/Speyß mit jm zůfüren/über die billichkait nit geschätzt werde.
+  cs: |-
+    Kdyby však prodavač prodával proviant {Prouandt} dráž a zvyšoval cenu nad to, nač mu byl oceněn, má profous {Prouoß} opět plnou moc vzít mu všechen proviant i s penězi, které nad odhadní cenu {Schatzung} utržil. To vše je zamýšleno proto, aby chudý hladový válečný knecht {Kriegßknecht}, který nemá vozy, na nichž by s sebou vezl jídlo, nebyl odírán nad to, co je spravedlivé.
+- typ: odstavec
+  de: |-
+    Es soll auch der Prouoß die Prouandt Schätzen/das der verkauffer ain zymlichen vnd redlichen gewin habe/darmit er vnd annder verkauffer/sich des Legers bessere/vnd dest williger werden/mit der Prouandt wider zukomen/das/Leger hungers halben nit entweichen dörffe.
+  cs: |-
+    Profous má také proviant ocenit tak, aby prodavač měl přiměřený a poctivý zisk, aby si on i jiní prodavači u ležení {Leger} přišli na své a byli tím ochotnější přijít s proviantem znovu a ležení nemuselo kvůli hladu ustupovat.
+- typ: odstavec
+  de: |-
+    Item es hat ain yeder macht/die Prouandt neher zugeben/dann es jm geschetzt ist/Aber nit höher/Der Abschlag findt sich selbs/Welcher bald verkauffen will/der gibt dest neher.
+  cs: |-
+    Dále má každý právo dávat proviant laciněji, než mu byl oceněn, ale ne dráž. Sleva se najde sama: kdo chce rychle prodat, ten dává tím laciněji.
+- typ: odstavec
+  de: |-
+    Item wenn dann ainer in der Artelarey schaden thůt/über verbot/so dann andern in gemainem Artickelbrieff verbotten ist/vnd in sonder Malefitz henndel/so soll der Prouoß/den/mit hilff des Zewgmaisters Trabanten/annemen/vnd den an ainen wagen schmiden/oder in die eysen setzen/biß auff des Zewgmaisters weytter beuelch/Vnnd was jm der Zewgmaister sonst weyter/in dergleichen fellen/beuelch zustraffen gibt gegen den vngehorsamen.
+  cs: |-
+    Dále, kdyby někdo u dělostřelectva {Artelarey} způsobil škodu proti zákazu, jak je to i ostatním zakázáno v obecném artikulním listu {Artickelbrieff}, a zvláště v hrdelních věcech {Malefitz henndel}, má ho profous s pomocí zbrojmistrových drabantů {Trabanten} zatknout a přikovat k vozu nebo dát do želez až do dalšího rozkazu zbrojmistra {Zewgmaister}; a má na neposlušných potrestat i cokoli jiného, co mu zbrojmistr v podobných případech přikáže.
+- typ: odstavec
+  de: |-
+    Item er soll sonst auch wartten/dem Zewgmaister/als ain Trabant/Söllichem Prouosen hellt man kainen Steckenknecht/Vnd ist sein Monat Sold/zu andern fellen 3 Söld/thůt/ – 12 florin/Vnd seinem Jungen/ain Sold.
+  cs: |-
+    Dále má jinak také být zbrojmistrovi k službám jako drabant. Takovému profousovi se nedrží žádný profousův pacholek {Steckenknecht}. Jeho měsíční žold {Monat Sold} činí kromě jiných příjmů {fellen}[^1] 3 žoldy {Söld}, to je – 12 zlatých {florin}, a na jeho pachole {Jungen} jeden žold.
+- typ: odstavec
+  de: |-
+    Item wenn ain Person in der Artelarey sturb/die kain gichtigen Herren hett/vnd seinen Namen in den kriegß Registern nicht gefunden wurd/das er in disem Veld Leger/als ain Besöldter/nit wär/den erbt der Prouoß/was bey jm oder bey jr gefunden wirt/Es wär dann/das ainer sein Vatter/Můtter/Schwester/oder Brůder/der Frawen Eemann/oder des manns Eefraw vor augen vnd entgegen wär/Auch das sy söllichs mit dem Ayd erstatten möchten/sonst hilfft kain Sipt.
+  cs: |-
+    Dále, kdyby u dělostřelectva zemřela osoba, která neměla žádného pána, k němuž by se hlásila {gichtigen Herren},[^2] a jejíž jméno by se nenašlo ve válečných rejstřících {kriegß Registern}, takže by v tomto polním ležení {Veld Leger} nebyla jako placený žoldnéř {Besöldter}, dědí profous vše, co se u něho nebo u ní najde. Leda by byl na místě přítomen otec, matka, sestra nebo bratr [zemřelého], manžel ženy nebo manželka muže a mohli by to doložit přísahou {Ayd}; jinak žádné příbuzenství {Sipt} nepomůže.
+- typ: odstavec
+  de: |-
+    Ist es aber sach/das ain Dienstman schaden nem/oder sonst auß Gotes ordnung/stürb/der gar kain Gesipten Freünd bey sich hett/des vermügen/sampt seinem verdienten Sold/soll dem Obersten Zewgmaister gegeben/vnd beuolhen werdn/seinen Landtßlewten/solchs dahaim anzuzaigen/darmit den Erben/seinem Weyb oder Kindern/oder wer die seind/das jr werde. Also soll es in den andern Zwayen Regimenten auch gehallten werden.
+  cs: |-
+    Kdyby se však stalo, že by se některý služebník {Dienstman} zranil nebo jinak z Boží vůle zemřel a neměl u sebe vůbec žádné pokrevní přátele {Gesipten Freünd}, má být jeho jmění i se zaslouženým žoldem odevzdáno nejvyššímu zbrojmistrovi {Obersten Zewgmaister} a jeho krajanům {Landtßlewten} má být uloženo oznámit to doma, aby se to dostalo dědicům – jeho ženě nebo dětem, či kdo to je. Tak se to má zachovávat i v ostatních dvou plucích {Regimenten}.[^3]
+- typ: nadpis
+  uroven: 3
+  de: Nun volgen hernach die Pulver Hütter.
+  cs: Nyní následují strážci prachu {Pulver Hütter}
+- typ: odstavec
+  de: |-
+    Item es soll auch der öberst Zewgmaister/zů dem wenigsten Zwen Pulver Hütter haben/die tag vnd nacht bey dem Pulver hütten vnd wachen/
+  cs: |-
+    Dále má mít nejvyšší zbrojmistr nejméně dva strážce prachu, kteří ve dne i v noci prach střeží a bdí u něho
+poznamky:
+- n: 1
+  text: „zu andern fellen“ – kromě jiných nahodilých příjmů (Fälle), k nimž patřilo např. dědictví po osobách bez pána, o němž mluví následující odstavec.
+- n: 2
+  text: Gichtiger Herr – pán, k němuž se osoba hlásí (od „jehen“ = vyznat, přiznat); jde o osoby nikomu nesloužící a nezapsané v rejstřících, typicky z trénu.
+- n: 3
+  text: Ostatní dva pluky – jízda a pěchota; Ott dělí vojsko na tři pluky (Dreü Regiment).

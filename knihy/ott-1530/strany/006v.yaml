@@ -1,0 +1,60 @@
+id: 006v
+list: '[6] v'
+strana: verso
+sken: 12
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Verwallter des öbersten/Doch das derselb Locotenent des kriegß Herren/Lehenman oder Landtsäss/oder langkwiriger diener vnd hofgesind gewest. Darnach soll er erfordern den Zeügmaister oder Zewgwarten/als kriegs Räth. Zů dem dritten/den Fenndrich/als kriegs Rath/Die drey/hat der Oberst macht/für sich selbs zunemen.
+  cs: |-
+    správce [úřadu] plukovníka {öbersten}; avšak tak, aby tento poručík {Locotenent} byl manem {Lehenman} nebo zemským usedlíkem {Landtsäss} válečného pána {kriegß Herren}, anebo jeho dlouholetým služebníkem a dvořanem. Potom má povolat zbrojmistra {Zeügmaister} neboli zbrojního správce {Zewgwarten} jako válečného radu {kriegs Räth}. Za třetí praporečníka {Fenndrich} jako válečného radu. Tyto tři si plukovník {Oberst} smí vybrat sám.
+- typ: odstavec
+  de: |-
+    Item darnach soll der Oberst dem gemainen Adel/ain kriegßverstendigen erfarnen mann auß jnen zů erwelen beuelhen/Dergleichen soll er auß den Raysigen knechten/auch ain kriegß Rath/zů erwölen beuelhen. Es soll auch ainer auß den gemainen Landtßknechten erwölt werden/Deßgleichen/ainer auß den gewonlichen Eehallten/so vor der Besatzung desselben Schloß diener gewesen/Darzů söllen auch ainen erwölen/die/so auß den Burgern oder handtwerckslewtten/so in die Besatzung geschworen haben/Dergleichen soll auch ainer auß den Pawren erwölt werden.
+  cs: |-
+    Dále má potom plukovník uložit šlechtě [v posádce], aby ze svého středu zvolila muže znalého války a zkušeného. Podobně má uložit jízdním pacholkům {Raysigen knechten}, aby si rovněž zvolili válečného radu. Také jeden má být zvolen z obyčejných lancknechtů {Landtßknechten}; stejně tak jeden z obvyklé čeledi {Eehallten}, která byla služebníky téhož hradu již před [příchodem] posádky {Besatzung}. K tomu mají jednoho zvolit ti z měšťanů nebo řemeslníků, kteří přísahali do posádky. Podobně má být jeden zvolen i ze sedláků.
+- typ: odstavec
+  de: |-
+    Vnd soll ain yede Parthey/jren kriegs Rath erwölen/bey dem Ayd/so er zů dem Hauß vnd kriegß Herren geschworen hat/der dem Kriegßherren/vnd gantzer Besatzung/am Eerlichsten vnd nutzlichsten sein mag/der allen sachen am basten vor vnd ob sein mag/nichts angesehen.
+  cs: |-
+    A každá strana si má pod přísahou {Ayd}, kterou složila hradu a válečnému pánovi, zvolit za válečného radu toho, kdo může být válečnému pánovi a celé posádce nejčestnější a nejužitečnější a kdo dokáže všechny věci nejlépe řídit a o ně pečovat – bez ohledu na cokoli jiného.
+- typ: odstavec
+  de: |-
+    Item was der Oberst/mit seinen zůuerordneten kriegß Räthen/thůt vnd laßt/darein soll jme/der gemain man/geferlicher weyß/nichts tragen/noch einreden/Sy für jr rechte Ordinari vnd Oberkait hallten vnd achten/bey verlierung leybs vnd gůts.
+  cs: |-
+    Dále do toho, co plukovník se svými přidělenými válečnými rady činí a nechává, mu obec {gemain man} nemá se zlým úmyslem nijak zasahovat ani mluvit; má je pokládat a ctít jako svou řádnou představenou {Ordinari}[^1] a vrchnost, pod ztrátou hrdla i statku.
+- typ: odstavec
+  de: |-
+    Item der Oberst Hauptman/mitsampt seinen Kriegßräthen/söllen auch gůt macht haben/endtlichen/vmb alle Jrrung/so sich begeben möchten/vnder söllicher Besatzung/es wär vmm straich/schelltwort/oder geltschuldt/so das in der gůtt nit vertragen möcht werden/endtlich vnd Rechtlich darumb zů erkennen/Darbey söllen auch alle Partheyen uerwägert bleyben/bey jren Ayden.
+  cs: |-
+    Dále mají mít nejvyšší hejtman {Oberst Hauptman} spolu se svými válečnými rady plnou moc s konečnou platností rozhodovat o všech sporech, které by v takové posádce mohly nastat, ať jde o rány, nadávky nebo peněžité dluhy, nedají-li se urovnat po dobrém, a vynést o nich konečný a právní nález. Při tom mají všechny strany pod svou přísahou bez odporu {uerwägert}[^2] setrvat.
+- typ: odstavec
+  de: |-
+    Item es soll auch der Oberst zů dem wenigsten mit seinen kriegß Räten/alle morgen/ain stund oder mer/nach dem es die sach erfordert/bey ainander im Rath sein/von allen notdurfftigen sachen Ratschlagen/reden/von kriegßsachen/vnd des Hauß notdurfft.
+  cs: |-
+    Dále má plukovník se svými válečnými rady zasedat každé ráno přinejmenším hodinu nebo déle, jak to věc vyžaduje, pospolu v radě a radit se a jednat o všech potřebných věcech, o válečných záležitostech i o potřebách hradu {Hauß}.
+- typ: odstavec
+  de: |-
+    Item nach Erwölung söllicher kriegß Rät/mag der Oberst nidersitzen/vnd alle Empter besetzen/als Wachtmaister/Hauptlewt über wach vnd hůt/auff tag vnd nacht/Viertelmaister/Rotmaister/Hauptlewt auff die Letzinen/vnd alles anders/das dann die notdurfft erhaischt/an söllichem ort/nach dem aller besten fürsehen.
+  cs: |-
+    Dále po zvolení těchto válečných radů může plukovník zasednout a obsadit všechny úřady {Empter}: vachmistra {Wachtmaister}, hejtmany {Hauptlewt} nad stráží a hlídkou {wach vnd hůt} ve dne i v noci, čtvrtmistry {Viertelmaister}, rotmistry {Rotmaister}, hejtmany na stanovištích {Letzinen}; a všechno ostatní, co si potřeba na takovém místě žádá, co nejlépe opatřit.
+- typ: nadpis
+  uroven: 2
+  de: Wie man die Wacht besetzen soll.
+  cs: Jak se má obsadit stráž
+- typ: odstavec
+  de: |-
+    Item der Wach soll nyemants Exempt oder gefreyt sein/weder groß noch klain/die mag man aber mit des Obersten rat vnd wissen thůn/etlicher person/so eehaft/not vnd vrsachen vor augen wären/so soll man
+  cs: |-
+    Dále nemá být nikdo vyňat nebo osvobozen od stráže {Wach}, ani velký, ani malý. S radou a vědomím plukovníka to však lze učinit u některých osob, jestliže jsou zřejmé zákonné překážky {eehaft}, nouze a důvody; pak se má
+poznamky:
+- n: 1
+  text: |-
+    „Ordinari“ – řádná, příslušná vrchnost (z církevního ordinarius, řádný představený s vlastní pravomocí).
+- n: 2
+  text: |-
+    „Uerwägert“ – tak v tisku; zřejmě vypadlé „vn-“ (vnuerwägert = bez odmítání, bez odporu), tj. strany se mají nálezu
+    podrobit.

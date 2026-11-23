@@ -1,0 +1,83 @@
+id: 023v
+list: '[23] v'
+strana: verso
+sken: 46
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Von des öbersten Zeügmaisters Bestallung.
+  cs: O služebním listu nejvyššího zbrojmistra {öbersten Zeügmaisters Bestallung}
+- typ: odstavec
+  de: |-
+    Item dem Zeügmaister/auf sein leyb/soll gegeben werden/ain Monat – 100 florin.
+  cs: |-
+    Dále se má zbrojmistrovi {Zeügmaister} dávat na jeho osobu {leyb} za jeden měsíc – 100 zlatých {florin}.
+- typ: odstavec
+  de: |-
+    Vnd auff 6 gerüste Pferdt/ainem ain Monat 10 florin/vnd auff sein Troß Pferdt 5 florin/Darzů soll jm versoldt werden ain Kamer Wagen/ain Kuchin Wagen/wie vor gemellt/mit Acht Pferdten/vnd drey personen/darzů gehörig/ist verrechnet in der Artelarey.
+  cs: |-
+    A na 6 zbrojných koní {gerüste Pferdt} na každého za měsíc 10 zlatých a na jeho trénního koně {Troß Pferdt} 5 zlatých. K tomu se mu má platit komorní vůz {Kamer Wagen} a kuchyňský vůz {Kuchin Wagen}, jak bylo řečeno výše, s osmi koňmi a třemi osobami, které k nim patří; to je už započteno u dělostřelectva {Artelarey}.
+- typ: odstavec
+  de: |-
+    Item man soll jm hallten 6 Trabanten/auff yeden Zwen Söld.
+  cs: |-
+    Dále se mu má držet 6 drabantů {Trabanten}, na každého dva žoldy {Söld}[^1].
+- typ: odstavec
+  de: |-
+    Item mer ain Caplan/darauff Zwen Söld.
+  cs: |-
+    Dále ještě jeden kaplan {Caplan}, na něho dva žoldy.
+- typ: odstavec
+  de: |-
+    Item mer ain Tolmätschen/darauff Zwen söld.
+  cs: |-
+    Dále ještě jeden tlumočník {Tolmätschen}, na něho dva žoldy.
+- typ: odstavec
+  de: |-
+    Item auf ain Jungen/den er brauch zů der Füßrüstung/ain ainfachen sold/sy haben gewonlich bayd Rüstung im Veldt.
+  cs: |-
+    Dále na pachole {Jungen}, které potřebuje k pěší zbroji {Füßrüstung},[^2] jeden prostý žold; [zbrojmistři] mají totiž v poli obvykle obojí zbroj.
+- typ: odstavec
+  de: |-
+    Item mer seinem Spil 4 söld.
+  cs: |-
+    Dále ještě jeho hudbě {Spil} 4 žoldy.
+- typ: odstavec
+  de: |-
+    Item mer seinem Zewgschreyber 4 söld.
+  cs: |-
+    Dále ještě jeho zbrojnímu písaři {Zewgschreyber} 4 žoldy.
+- typ: odstavec
+  de: |-
+    Item mer seinem Gegenschreyber 3 söld.
+  cs: |-
+    Dále ještě jeho protipísaři {Gegenschreyber} 3 žoldy.
+- typ: odstavec
+  de: |-
+    Item dem Pfenningmaister oder Zeüg Zalschreyber 4 söld.
+  cs: |-
+    Dále pokladníkovi {Pfenningmaister} neboli zbrojnímu platebníkovi {Zeüg Zalschreyber} 4 žoldy.
+- typ: odstavec
+  de: |-
+    Item seinem Wundt Artzet der Artelarey/soll ain Wagen gehallten werden mit 4 Rossen/darauff er sein Wundtartzney vnd andern werckzewg zůr notdurfft füren mag/Darzů soll man jm vnd seinem knecht all Monat geben 30 florin/Darumb soll er haylen alle Artelarey Person/die vor den Veinden oder von den Veinden wund vnd beschedigt werden/Was aber ainander selbs beschedigt/das mag er jm in sonderhait wol bezalen lassen/nach gestallt der sach/biß an sein genügen/Was er aber sonnst im Veldläger/ausserhalb der Artelarey/zuartzneyen hat/mag er jm auch/nach gestallt vnd größ der sach/vnd vermügen nach der Person bezalen lassen/Doch so soll er der Artelarey gewärtig sein vor allen andern/vnnd vmb seinen angeregten Soldt/bey seinem Ayd/den Armen als den Reichen haylen/on weytter vorderung/Es werde jm dann etwas geschenckt/auß aignem freyem willen.
+  cs: |-
+    Dále jeho ranhojiči {Wundt Artzet} dělostřelectva se má držet vůz se 4 koňmi, na němž může vézt své ranhojičské léky {Wundtartzney} a jiné potřebné nářadí. K tomu se jemu a jeho pacholkovi {knecht} má dávat každý měsíc 30 zlatých. Za to má léčit všechny osoby dělostřelectva, které nepřítel zraní nebo poraní v boji s ním či jinak. Co si však poranili navzájem sami, to si smí dát zvlášť zaplatit podle povahy věci, aby byl spokojen. Co má jinak léčit v polním ležení {Veldläger} mimo dělostřelectvo, to si rovněž smí dát zaplatit podle povahy a závažnosti věci a podle zámožnosti osoby. Přesto má být k službám dělostřelectvu přede všemi ostatními a za zmíněný žold {Soldt} má na svou přísahu {Ayd} léčit chudé stejně jako bohaté bez dalšího nároku, ledaže by mu někdo něco daroval ze své svobodné vůle.
+- typ: odstavec
+  de: |-
+    Item bayd Zeügschreiber vnd Pfenningmaister/auch der Wundartzt/söllen sich bey dem Zeüg/so man im ziehen ist/prauchen lassen/als ander Zewg Diener/alles nach beuelch des Zewgmaisters
+  cs: |-
+    Dále zbrojní písař i pokladník a také ranhojič mají být na pochodu u dělostřelectva {Zeüg} k službám jako ostatní zbrojní služebníci {Zewg Diener}, vše podle rozkazu zbrojmistra.
+- typ: odstavec
+  de: |-
+    Item ob der Zeügschreiber/Pfenning oder Zalmaister/auch der Wundartzet/yeder zů jm wöllte hallten ain gerüst Pferdt/das an der Muster bestat/so man die Raysigen mustert/dem solls gehallten werden/Vnd soll jm der Zeügmaister ains yeden Monats darauff geben 10 florin/Das macht 6 pferdt/so ainer 2 hellt/Summa. – 60 florin.
+  cs: |-
+    Dále kdyby zbrojní písař, pokladník neboli platebník {Zalmaister} i ranhojič chtěl každý držet zbrojného koně, který obstojí při přehlídce {Muster} jezdců {Raysigen}, má se mu [kůň] platit a zbrojmistr mu na něj má každý měsíc dávat 10 zlatých. To činí 6 koní, drží-li každý dva; součet – 60 zlatých.[^3]
+poznamky:
+- n: 1
+  text: Söld (žold) – zde jednotka, totiž měsíční žold prostého knechta, u Otta 4 zlaté; „dva žoldy“ = 8 zlatých.
+- n: 2
+  text: Füßrüstung – pěší zbroj (na rozdíl od jezdecké); zbrojmistr měl obojí a pachole se staralo o pěší. Čtení „Füß-“ podle skenu.
+- n: 3
+  text: Text nejdřív mluví o jednom koni na osobu, součet však počítá se dvěma koňmi pro každého ze tří úředníků (3 × 2 × 10 = 60 zlatých).

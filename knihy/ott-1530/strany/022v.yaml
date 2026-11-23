@@ -1,0 +1,69 @@
+id: 022v
+list: '[22] v'
+strana: verso
+sken: 44
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Empter/so beschaid sůchen vnd hollen/ainander sehen vnd erkennen mügen/Darbey söllen sein etliche Vaß mit Schwebel Ringen/die jr fewr vnd liecht behallten bey regen vnd wind/Darzů gehört/ – 1 wagen.
+  cs: |-
+    úředníci {Empter}, kteří si přicházejí pro pokyny, se mohli navzájem vidět a poznat. K tomu má být několik sudů sirných věnců {Schwebel Ringen},[^1] které udrží oheň a světlo i za deště a větru. K tomu patří – 1 vůz.
+- typ: odstavec
+  de: |-
+    Item zů dem grossen geschütz/gehört zů dem laden/hew vnnd stro/můß haben/ – 1 wagen.
+  cs: |-
+    Dále k nabíjení velkých děl {geschütz} patří seno a sláma;[^2] to potřebuje – 1 vůz.
+- typ: odstavec
+  de: |-
+    Item zů den Roßparen oder Senfftin/darauff man die verwundten oder krancken fürt/zů den orten/da jr gewardt wirt/vnnd wider gesundt werden/die soll man brauchen/sonderlich person die dem Kriegßherren vnd ganntzen Veldtleger besonder nutz seind/Dann ain kriegß geschickt mann/ist an den orten aufzuheben für Sylber vnd gold/Darzů gehört/ – 1 wagen.
+  cs: |-
+    Dále ke koňským nosítkům {Roßparen} neboli lektikám {Senfftin}, na nichž se ranění nebo nemocní vezou tam, kde se jim dostane péče a kde se uzdraví. Mají se užívat zvláště pro osoby, které jsou válečnému pánu {Kriegßherren} a celému polnímu ležení {Veldtleger} obzvlášť užitečné, neboť muže zběhlého ve válce je v takové chvíli třeba opatrovat víc než stříbro a zlato. K tomu patří – 1 vůz.
+- typ: odstavec
+  de: |-
+    Item 1000 fůßknecht harnisch/vnd 500 stirn auff die pferdt/mit 500 par kniebucken/den geraisigen/die müssen haben. – 26 wägen.
+  cs: |-
+    Dále 1000 zbrojí pro pěší knechty {fůßknecht harnisch} a 500 koňských čelních plátů {stirn auff die pferdt} s 500 páry kolenic {kniebucken}[^3] pro jezdce {geraisigen}; ty potřebují – 26 vozů.
+- typ: odstavec
+  de: |-
+    Item man můß mitfüren/ledige oder läre Komether/Reytsättel/vnd afftergeschirr/auff die wagen Roß/můß man haben/ – 1 wagen.
+  cs: |-
+    Dále se musí vézt náhradní neboli volné chomouty {Komether}, jezdecká sedla {Reytsättel} a zadní postroje {afftergeschirr}[^4] pro vozní koně; na to se musí mít – 1 vůz.
+- typ: odstavec
+  de: |-
+    Item man můß mitfüren/kübeln/kretzen/tragpern/vnd klaine schub kärrlin/darinn man erdtrich tregt vnd fürt/die Schantzkörb darmit zůfüllen/Wa die auf velsen oder herten grund gesetzt werden/můß man die erd darein tragen vnd füren/darzů gehören/ – 3 wägen.
+  cs: |-
+    Dále se musí vézt kbelíky {kübeln}, nůše {kretzen}, nosítka {tragpern} a malá kolečka {schub kärrlin}, v nichž se nosí a vozí zemina k plnění šancovních košů {Schantzkörb}: stavějí-li se koše na skále nebo tvrdé půdě, musí se do nich zemina nanosit a navozit. K tomu patří – 3 vozy.
+- typ: odstavec
+  de: |-
+    Item dem Zeügmaister můß man hallten ain kamerwagen/vnnd ain kuchinwagen/vnd seinem Lutinanten auch ain wagen/Das macht alles/ – 3 wägen.
+  cs: |-
+    Dále se musí pro zbrojmistra {Zeügmaister} držet komorní vůz {kamerwagen} a kuchyňský vůz {kuchinwagen} a jeho poručíkovi {Lutinanten} také jeden vůz. To činí celkem – 3 vozy.
+- typ: odstavec
+  de: |-
+    Item man můß mitfüren/etwavil Sturm Laittern/die müssen haben – 3 wägen.
+  cs: |-
+    Dále se musí vézt větší počet útočných žebříků {Sturm Laittern}; ty potřebují – 3 vozy.
+- typ: odstavec
+  de: |-
+    Item man můß mitfüren/stanngen vnnd sprossen/holtz/darauß man Layttern machen kan/groß vnd klains/bedürffen/ – 1 wagen.
+  cs: |-
+    Dále se musí vézt žerdi a příčle {sprossen}, [tj.] dřevo, z něhož lze udělat velké i malé žebříky; to potřebuje – 1 vůz.
+- typ: odstavec
+  de: |-
+    Item der Mundicey Wägen vnd Kuglen/Pulfer Wägen/seind in jrer Sum 96 Das macht aller Artelarey Wägen/Pulver/Kuglen/vnnd alle Mundicey/zusamen gerechneter Sum/ – 258 vnd ain Halben wagen.
+  cs: |-
+    Dále vozů s municí {Mundicey}, s koulemi a s prachem je celkem 96. Všech vozů dělostřelectva {Artelarey} i s prachem, koulemi a veškerou municí je tedy dohromady – 258 a půl vozu.[^5]
+poznamky:
+- n: 1
+  text: Schwebel Ringe – věnce nebo kruhy napuštěné sírou (srov. smolné věnce), hořící i za větru a deště; sloužily k osvětlení v ohnivých pánvích.
+- n: 2
+  text: Seno a sláma se při nabíjení děl používaly jako ucpávka (zátka) mezi prachem a koulí.
+- n: 3
+  text: Stirn – koňský čelní plát (Rossstirn), součást koňské zbroje; Kniebucken (Kniebuckel) – kolenice jezdecké zbroje.
+- n: 4
+  text: Afftergeschirr – zadní část postroje (podsedlí, podocasník), která drží vůz při jízdě z kopce.
+- n: 5
+  text: Součty zahrnují i položky z předchozích stran; z jednotlivých položek je nelze přímo ověřit. Další strana počítá s 96 muničními vozy.

@@ -1,0 +1,61 @@
+id: 009r
+list: '[9] r'
+strana: recto
+sken: 17
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    warm/in zerstossen oder gemalen Schwebel vmbgekert/so henckt sich der schwebel vnd hartz an ainander/Darnach soll man das erkallten lassen/vnd in ain gewölb/auf ain hauffen werffen/das ligt hundert jar/vnd noch lennger/Die seind gůt/in die außgefüllten greben zů werffen/so mans anzündt/so brennen sy das holltz in greben auß/vnd müssen die Feind durch das fewr stürmen/oder mit schaden vnd schanden/wider zů ruck weichen.
+  cs: |-
+    teplé, se [obruče] obalí v roztlučené nebo semleté síře {Schwebel}; tak se síra a pryskyřice spojí dohromady. Potom se to má nechat vychladnout a naházet na hromadu do klenutého sklepa; vydrží to sto let i déle. Takové [obruče] je dobré házet do zasypaných příkopů. Když se zapálí, vypálí dříví v příkopech a nepřátelé musejí útočit skrze oheň, anebo se se škodou a hanbou zase stáhnout.
+- typ: odstavec
+  de: |-
+    Item wa man einscheüßt/vnd vermůt sich/es werd daselbst hinein gestürmt/mag man innwendig im Schloss ain oder zwen blindt greben machen für ainander/nechst bey der lucken/da man hinein geschossen hat/dieselben auch mit fewr beraiten/vnd die vorgemellten ring/mag man mit puluer/vnd ainem anlauffenden fewr anzünden/so es in vollem Sturm ist/müssen die Feind verderben.
+  cs: |-
+    Dále kde [nepřítel] střelbou proráží [hradbu] a lze tušit, že tam bude útočit, lze uvnitř hradu hned u průlomu {lucken}, který byl prostřelen, vyhloubit jeden nebo dva skryté příkopy {blindt greben} jeden před druhým a také je připravit s ohněm. Výše zmíněné obruče lze zapálit prachem a běžícím ohněm {anlauffenden fewr}[^1]; když je útok {Sturm} v plném proudu, musejí nepřátelé zahynout.
+- typ: odstavec
+  de: |-
+    Item vor dem platz/da man mit der ordnung gefaßt ist/mag man auch ainen blinden graben werffen/mit fewr/oder on fewr/mit ainem ygel/vnd spitzigen pfälen.
+  cs: |-
+    Dále lze i před prostranstvím, kde se stojí připraveni v šiku, vyhloubit skrytý příkop, s ohněm nebo bez ohně, s ježkem {ygel}[^2] a zahrocenými kůly.
+- typ: odstavec
+  de: |-
+    Item man mag auch vor ainer yeden thür/auf dem hof/ain blind loch oder grůben machen/mit ainem ygel/vnnd des Schloss verwandten/mügen sich vor sollichen blinden grůben wol hůtten/vnd den wandel innwendig/von ainem gemach vnd wörinen zů den andern/wol kommen.
+  cs: |-
+    Dále lze také před každými dveřmi na nádvoří udělat skrytou díru nebo jámu s ježkem. Příslušníci hradu se takových skrytých jam mohou dobře vyvarovat a uvnitř se dobře dostanou z jedné místnosti a jednoho obranného místa {wörinen} do druhého.
+- typ: odstavec
+  de: |-
+    Man mag auch an etlichen notdurfftigen ortten/durch die wend vnd mauren brechen/darmit man mag von ainem Zymer in das ander lauffen/vnd den Feinden mit handtroren/vnd stain werffen über die leden hinauß begegnen/das sy die Herberg mit willen zůuerlassen begeben.
+  cs: |-
+    Na některých potřebných místech lze také prorazit stěny a zdi, aby se dalo přebíhat z jedné místnosti do druhé a čelit nepřátelům ručnicemi {handtroren} a házením kamení ven z okenic {leden}, takže tu „hospodu“ {Herberg} rádi opustí.
+- typ: odstavec
+  de: |-
+    Also hat man zůuernemen/wie man sich hallten soll in yeder Besatzung so die not vor augen/auf verbesserung der kriegßverstendigen vnd gelegenhait der Sach/Auch můß man sich richten/dem gegenwurff nach/Der Feind kompt zů zeyten in der gestallt/das hierinnen nit begriffen werden mag.
+  cs: |-
+    Tak je tedy patrné, jak se má postupovat v každé posádce {Besatzung}, když hrozí nouze – s výhradou zlepšení ze strany znalců válečnictví a podle povahy věci. Musí se také řídit podle toho, co protivník podnikne; nepřítel někdy přichází takovým způsobem, který zde nelze postihnout.
+- typ: odstavec
+  de: |-
+    Es sein auch noch vilerlay Sachen/die in der nott zů der wör dienstlich seind an stürmen/des sich hierinn nit alles melden laßt/oder in die feder zů pringen ist.
+  cs: |-
+    Je ještě mnoho dalších věcí, které jsou v nouzi při útocích užitečné k obraně; ne všechno se zde dá uvést nebo svěřit peru.
+- typ: nadpis
+  uroven: 2
+  de: Wa man auß getrangter not auffgeben müst/Wie das mit eren geschehen mag oder nit.
+  cs: Musí-li se [hrad] z tíživé nouze vzdát, jak se to může stát se ctí, nebo ne
+- typ: odstavec
+  de: |-
+    Item wenn sich begeb in der not vnd handlung/das der Herr oder Statthallter befinden/mangel an prouandt/an pulfer/kugeln/oder anderer wör/an gellt oder rettung/oder mangel an leüten/das der Schelm oder Pestilentz vnder sy kem/als offt geschicht/vnd befinden/das Hauß vnmüglich zů behallten/So můß man auß der nott ain tugendt machen/
+  cs: |-
+    Dále kdyby se v nouzi a v boji stalo, že pán nebo místodržící {Statthallter} zjistí nedostatek proviantu {prouandt}, prachu, koulí nebo jiných zbraní {wör}, peněz či pomoci, anebo nedostatek lidí, protože mezi ně přišla nákaza {Schelm} nebo mor, jak se často stává, a shledají, že hrad nelze udržet, pak musí z nouze udělat ctnost
+poznamky:
+- n: 1
+  text: |-
+    „Anlauffendes fewr“ – běžící (doutnající, plazivý) oheň, tj. prachová stopa či stopina, po níž oheň doběhne
+    k náloži a zapálí ji ve vhodnou chvíli.
+- n: 2
+  text: |-
+    „Ygel“ – zde nikoli šik s nastavenými píkami, ale překážka: deska či trám s vyčnívajícími hroty, položená na dně
+    skryté jámy nebo příkopu.

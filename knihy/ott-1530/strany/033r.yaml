@@ -1,0 +1,67 @@
+id: 033r
+list: '[33] r'
+strana: recto
+sken: 65
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Vnflat zůgehört / Darzů soll er kain Glayt haben / im ganntzen Reych / Darzů wa er betretten wirt / mag er beclagt werden / Eerloß vnd nichtig / In massen soll es gehallten werden mit söllichen lewtten / wie der Fůßknecht ArtickelBrieff außweyßt vnd vermag.
+  cs: |-
+    ničemu {Vnflat}. Kromě toho nemá mít v celé říši žádný glejt {Glayt} a kdekoli bude dopaden, smí být obžalován jako bezectný a bezprávný {nichtig}. S takovými lidmi se má naložit tak, jak to ukazuje a stanoví artikulní list {ArtickelBrieff} pěších knechtů.
+- typ: odstavec
+  de: |-
+    Item es söllen auch all Artelareyperson / aller Tag Hůt vnd Wach gefreyt sein / wie dann gewonhait vnd Kriegßrecht ist / Sy müssen on das offt mer / dann ander Kriegßlewt wachen / vnd in gefären stan.
+  cs: |-
+    Dále mají být všechny osoby dělostřelectva {Artelareyperson} osvobozeny od veškeré denní stráže a hlídky {Tag Hůt vnd Wach}, jak je obyčejem a válečným právem {Kriegßrecht}. Beztak musejí často bdít víc než jiní válečníci {Kriegßlewt} a stát v nebezpečí.
+- typ: odstavec
+  de: |-
+    Summa Summarum / Was auff Lewt vnd Ross ain Monatlang in der Besoldung auff die Artelarey geet / wie hie vor überschlagen ist / macht / – 15685 Florin.
+  cs: |-
+    Celkový součet {Summa Summarum}: co na žold {Besoldung} dělostřelectva {Artelarey} padne za jeden měsíc na lidi a koně, jak to bylo výše rozpočteno, činí – 15685 zlatých {Florin}.
+- typ: odstavec
+  de: |-
+    Vnnd der überig Vnkosten / so hierinn nit verzaichnet / Als das gellt / darumb die geschossen Kugeln gelößt werden /
+  cs: |-
+    A ostatní náklady, které zde nejsou zapsány: jako peníze, za něž se vykupují vystřelené koule {Kugeln};[^1]
+- typ: odstavec
+  de: |-
+    Item mer / Der Costen / so auff die Büchsenmaister / vnd jre Helffer / als Handtraicher (vnd ander in der Schantz) gat / so man anfacht zůschiessen / gantz statlich / So söllen die Büchsenmaister / vnnd jre Helffer / dem Geschütz nit mer entweichen / biß die Mauren zu dem Sturm geschossen / vnd ligen / Darumb sollen jn die Herrschafft / auff jren Costen / Kuchin vnd keller hallten / speysen vnd trencken / mit jren Helffern / darmit fürderlich vnd stäts geschossen werd / Vnd der annder Vnkosten / Als Post vnd ander Botschafft / Kundtschaffter / oder der geleichen / gan möcht / das sich hierinn / mit kainer zal oder maß / begreyffen laßt / möchte ain Monatlang / bey 2000 florin erfordern.
+  cs: |-
+    dále náklady, které připadají na puškaře {Büchsenmaister} a jejich pomocníky {Helffer}, jako jsou podavači {Handtraicher} (a jiní v šanci {Schantz}), jakmile se začne střílet – ty jsou velmi značné. Puškaři a jejich pomocníci totiž nemají od děl {Geschütz} odejít, dokud není hradba rozstřílena k útoku {Sturm} a neleží [na zemi]. Proto má pro ně i jejich pomocníky vrchnost {Herrschafft} na své náklady držet kuchyni a sklep a dávat jim jídlo a pití, aby se střílelo rychle a bez přestání. A ostatní náklady, které by mohly vzniknout, jako pošta a jiné poselství, zvědové {Kundtschaffter} a podobně, a které se zde nedají postihnout žádným číslem ani mírou, by mohly za měsíc vyžadovat asi 2000 zlatých.
+- typ: nadpis
+  uroven: 2
+  de: Nun volgt hernach / Wie man das Geschütz vnd alle Mundicey / in ordnung wesenlich füren soll.
+  cs: Nyní následuje, jak se mají děla a veškerá munice {Mundicey} náležitě a v pořádku vézt
+- typ: odstavec
+  de: |-
+    Item in das Vorziehen / bey dem Rennfendlin vnd Lauffenden Hauffen / ain Wagen mit Howen / Agsten / Schupffen oder Schaufeln / die Strassen / Weg vnd Steg darmit zubessern / Darzů seine Person / die zů söllichem gehören / wie vor angezaigt.
+  cs: |-
+    Dále do předvoje {Vorziehen}, k předvojové korouhvi {Rennfendlin} a běžícímu houfu {Lauffenden Hauffen}, [patří] vůz s motykami {Howen}, sekerami {Agsten}, rýči {Schupffen} nebo lopatami {Schaufeln}, aby se jimi spravovaly silnice, cesty a stezky; k tomu i lidé, kteří k němu patří, jak bylo ukázáno výše.
+- typ: odstavec
+  de: |-
+    Item darnach der Prugkwagen /
+  cs: |-
+    Dále potom mostní vůz {Prugkwagen}.
+- typ: odstavec
+  de: |-
+    Item darnach die Zwen Zewgwägen / so ins Vor vnd Nachziehen gehörig / den ainen in Vorzug / Den andern / soll man auff das Nachziehen / wartten lassen.
+  cs: |-
+    Dále potom dva zbrojní vozy {Zewgwägen}, které patří k předvoji a k zadnímu voji: jeden do předvoje {Vorzug}, druhý se má nechat čekat na zadní voj {Nachziehen}.
+- typ: odstavec
+  de: |-
+    Item darnach / so das Vorziehen / auch das Nachziehen / sein Veldgeschütz / vnd was darzů gehörig / verordnet ist / Alßdann (ob gleich Zway oder Dreü Vorziehen wären) söllen erst bey dem Gewalltigen Hauffen hernachziehen / Zum Ersten / Alle Valckoneth.
+  cs: |-
+    Dále potom, když je předvoji i zadnímu voji přiděleno jeho polní dělostřelectvo {Veldgeschütz} a co k němu patří, mají teprve u hlavního houfu {Gewalltigen Hauffen}[^2] jet (i kdyby byly dva nebo tři předvoje): nejprve všechny falkonety {Valckoneth}.
+- typ: odstavec
+  de: |-
+    Item darnach alle Valcken /
+  cs: |-
+    Dále potom všechny falkony {Valcken}.
+poznamky:
+- n: 1
+  text: Za sebrané vystřelené koule se platilo výkupné (gelößt = vykoupeny), aby se mohly znovu použít.
+- n: 2
+  text: „Gewalltiger Hauff“ – hlavní (silný) houf, jádro vojska mezi předvojem a zadním vojem.
