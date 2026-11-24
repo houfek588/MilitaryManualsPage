@@ -1,0 +1,38 @@
+id: 009r
+list: '[9] r'
+strana: recto
+sken: 21
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    DArumb sol ein jeder bedencken/ die wir Christen sind/ vnd auff seinen Namen getaufft/ das wir mögen Christlich leben/ selig abscheiden/ vnd frölich aufferstehen.
+  cs: |-
+    Proto má každý z nás, kdo jsme křesťané a jsme pokřtěni na Jeho jméno, pamatovat, abychom žili křesťansky, blaženě zemřeli a radostně vstali z mrtvých.
+- typ: odstavec
+  de: |-
+    Vnd das sprüchlein so Sidonius geschrieben/ De misera mortalium conditione behertzigen.
+  cs: |-
+    A má si vzít k srdci průpověď, kterou napsal Sidonius[^1], O bídném údělu smrtelníků (De misera mortalium conditione):
+- typ: verse
+  de:
+  - 'O Necessitas abiecta nascendi,'
+  - 'Viuendi misera, dura moriendi. Das ist:'
+  cs:
+  - '„O Necessitas abiecta nascendi,'
+  - 'Viuendi misera, dura moriendi.“ [Ó nutnosti, ponižující při narození, bídná v žití, krutá v umírání.] To jest:'
+- typ: odstavec
+  de: |-
+    O HERR Gott/ wie ein elend ding ist es vmb des Menschen Leben/ da der Anfang geringe/ das Mittel erbermlich/ vnd das ende oder der Todt gantz beschwerlich ist.
+  cs: |-
+    Ó Pane Bože, jak bídná věc je lidský život: jeho počátek je nuzný, střed politováníhodný a konec čili smrt velmi těžká.
+- typ: odstavec
+  de: |-
+    Derwegen gnedige Herren/ Es ist mein trewer raht/ das sich ein jeglicher König oder Fürst daruor hüte/ das er nicht vmb einer kleinen hoffart oder nutz willen einen Krieg anfahe/ zu verderb der armen vnschüldigen/ denn sie es kegen Gott nimermehr verantworten können/ wo es aber je einer nicht vber haben sein kündte/ vnd von seinem Nachbar darzu gedrungen würde/ so habe ich hernach folgend ein kleinen bericht gethan/ wie man sich als dann in Krieg schicken sol/ wiewol viel mehr von nöhten were anzeigunge zu thun/ so wil sichs im schreiben nicht leiden/ in sonderheit/ wie man mit zurichtung verräterey vnd meuterey zu machen/ kriegen sol/ Desgleichen mit heimlicher kundschafft. Auch widerumb wie man sich desselbigen erwehren sol/ Ich mus aber auff dismahl also bleiben lassen/ Es were aber gut vnd noth/ das in einer jeglichen Stad/ auch in der zeit des friedens/ diese ordnung gehalten
+  cs: |-
+    Proto, milostiví páni, je mou věrnou radou, aby se každý král nebo kníže varoval začínat kvůli malé pýše nebo malému prospěchu válku ke zkáze ubohých nevinných, neboť to před Bohem nikdy nebudou moci obhájit. Kdyby se toho však někdo nemohl uchránit a soused by ho k tomu donutil, sepsal jsem dále krátké poučení, jak se pak má člověk do války chystat. Bylo by sice zapotřebí uvést mnohem víc, ale písemně se to nehodí, zvláště jak válčit tím, že se nastrojí zrada a vzpoura {meuterey}, nebo pomocí tajného vyzvědačství {kundschafft}, a naopak jak se tomu bránit. Musím to však pro tentokrát nechat být. Bylo by ale dobré a nutné, aby se v každém městě i v době míru dodržoval tento řád,
+poznamky:
+- n: 1
+  text: |-
+    Výrok, připsaný Sidoniovi (snad Sidonius Apollinaris, galořímský básník a biskup 5. stol.), se nepodařilo ověřit; myšlenkou i názvem připomíná spis papeže Inocence III. *De miseria humanae conditionis* (O bídě lidského údělu). Tisk uvádí latinský název kurzívou.

@@ -1,0 +1,42 @@
+id: 053r
+list: '[53] r'
+strana: recto
+sken: 109
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    auch gleichförmig / wie obgemelt / Vnd so denn die drey Rahtschleg ergangen / erzelet man sie nach einander / vnd lest vmbschlagen / mit dreyen Trummeln / bey Ehre vnd Eydt / wenn man den Raht gemehret / das vnter 2. oder 3. mahl auffhiebe.
+  cs: |-
+    stejným způsobem, jak bylo řečeno výše. Když pak proběhnou tři porady {Rahtschleg}, vyjmenují se jedna po druhé a třemi bubny se dá vybubnovat při cti a přísaze, aby každý, až se bude o radách hlasovat {gemehret}, zvedl [ruku] jen pro jednu ze 2 nebo 3 [rad][^1].
+- typ: nadpis
+  uroven: 3
+  de: Jetzund felt der arme Sünder nieder / vnd bittet den gemeinen Man vmb ein genedig Vrtheil.
+  cs: Nyní ubohý hříšník padne na kolena a prosí obecný lid o milostivý rozsudek.
+- typ: nadpis
+  uroven: 3
+  de: '12.'
+  cs: '12.'
+- typ: odstavec
+  de: |-
+    ZVm zwelfften / wenn das Vrtheil ergangen ist / so bedancken sich die Fendriche fast sehr gegen dem gemeinen Manne / das sie so willig vnd ehrlich sind gewesen / gut Regiment zu halten / werffen die Fendlein in die höhe / vnd lassen sie fliehen / gegen dem Auffgang der Sonnen / vnd machen eine Gasse / dieweil lest der Profos den armen Sünder berichten / bis die Gasse gemacht ist.
+  cs: |-
+    Za dvanácté: když je rozsudek vynesen, praporečníci {Fendriche} obecnému lidu {gemeinen Manne} velmi děkují, že byl tak ochotný a čestný držet dobré zřízení {Regiment}. Vyhodí praporce {Fendlein} do výšky, nechají je vlát k východu slunce a utvoří uličku {Gasse}. Mezitím dá profous {Profos} ubohého hříšníka zaopatřit {berichten}[^2], dokud není ulička utvořena.
+- typ: nadpis
+  uroven: 3
+  de: '13.'
+  cs: '13.'
+- typ: odstavec
+  de: |-
+    Zum dreytzehenden / so kömpt der Profos mit dem Gefangenen in die Gasse / vnd begeret / das man solle mit dreyen Trummeln vmbschlagen / zu drey mahl / das die Gassen wol verschlossen sein / denn in welcher lücken der Gefangene heraus kömpt / derselbige sol an seine stat vnd fustapffen tretten.
+  cs: |-
+    Za třinácté: profous přijde s vězněm do uličky a žádá, aby se třemi bubny třikrát vybubnovalo, aby byla ulička dobře uzavřena; neboť kdo by stál v mezeře, kudy vězeň vyjde ven, ten má nastoupit na jeho místo a do jeho šlépějí[^3].
+poznamky:
+- n: 1
+  text: „wenn man den Raht gemehret / das vnter 2. oder 3. mahl auffhiebe“ – místo je stručné; míní se hlasování obce zdviženou rukou (das Mehr machen), při němž se každý přihlásí k jedné ze dvou či tří přednesených rad.
+- n: 2
+  text: „berichten“ – zaopatřit, tj. připravit odsouzeného na smrt zpovědí a útěchou kněze.
+- n: 3
+  text: Odsouzený při právu dlouhých pík probíhal uličkou pikenýrů, kteří ho ubodali. Kdo by ho nechal mezerou uniknout, měl podle této hrozby sám podstoupit trest místo něho.

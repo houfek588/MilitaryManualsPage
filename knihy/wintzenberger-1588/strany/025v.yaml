@@ -1,0 +1,19 @@
+id: 025v
+list: '[25] v'
+strana: verso
+sken: 54
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Solchen allen vnterricht / wie oben angezeiget / bitte ich lieben Herren / jhr wollet darinne mir nichts zu vbel auffnemen / vnd wo ich jhm zuuiel gethan habe / so wollet das vberflüssige dauon nemen / wo ich jhm aber zu wenig gethan habe / so wollet euch mehr darzu setzen / denn es ist ein guter raht vnd warnung / vnd nicht ein Geboth / wer es zu hertzen nehmen wil.
+  cs: |-
+    Prosím vás, milí páni, abyste mi všechno toto poučení, jak je výše vyloženo, neměli ve zlém. A kde jsem toho udělal příliš, odeberte z toho, co přebývá; kde jsem však udělal málo, přidejte k tomu sami víc. Je to totiž dobrá rada a výstraha, a ne příkaz – pro toho, kdo si ji chce vzít k srdci.
+- typ: nadpis
+  uroven: 2
+  de: Ende des Ersten Theils.
+  cs: Konec Prvního dílu
+- typ: obrazek
+  soubor: drevorez-54.jpg
+  popis: Oválná ozdobná viněta – proplétaný pásový ornament (moreska) s rostlinnými úponky na černém poli, uprostřed kvítek.

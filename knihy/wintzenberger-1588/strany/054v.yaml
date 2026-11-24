@@ -1,0 +1,16 @@
+id: 054v
+list: '[54] v'
+strana: verso
+sken: 112
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Vnd ob etwas in dieser Ordnung vorgessen were worden / das denn recht vnd gebreuchlichen / vnd darzu dienlichen / Solches sol dem Obersten / vnd dem gantzen Regiment vorbehalten sein /
+  cs: |-
+    A pokud by se v tomto řádu {Ordnung} na něco zapomnělo, co je náležité, obvyklé a k tomu užitečné, má to být vyhrazeno plukovníkovi {Obersten} a celému pluku {Regiment}.
+- typ: nadpis
+  uroven: 3
+  de: FINIS.
+  cs: KONEC.

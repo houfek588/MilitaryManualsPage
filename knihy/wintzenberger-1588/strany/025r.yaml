@@ -1,0 +1,25 @@
+id: 025r
+list: '[25] r'
+strana: recto
+sken: 53
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dieselbigen alle dahin bescheiden / wann ein Lermen wird / vnd das man Quartiermeister mache / achte / oder darnach die Stad gros ist / nach notdurfft / die da bey dem Volck auff der Vehste bleiben / vnd das Volck vermanen / wenn ein Sturm angetretten würde / an welchem orth die noth erfordert / so sol derselbige Quartiermeister eylend kommen oder fordern / auff den platz / da die Knechte in Ordnung stehen / vnd als viel als notdürfftig ist / also sol er ein Glied / zwey oder drey jhn zu hülffe schicken / vnd also fleissig auffsehen habe / wenn es noth ist / das sie mit aller Ordnung jhn zu hülffe zulauffen / damit das Volck getrost bleibet / vnd gestercket wird / Man sol auch alle Mönche vnd Pfaffen / Frawen vnd Jungkfrawen / was desselbigen Volcks ist / verordnen auff einen platz / zusammen zu lauffen / vnd in der Stadt auff das Fewer achtung zu geben / ob Fewer auskehme / das dieselbigen das Fewer warten / vnd die auff der Vehste vnbekümmert bleiben.
+  cs: |-
+    a všem jim určit, [aby se] tam [shromáždili], když nastane poplach {Lermen}. Dále se mají ustanovit kvartýrmistři {Quartiermeister}[^1] – osm, nebo podle toho, jak velké je město, kolik je potřeba –, kteří zůstávají u lidu na hradbách {Vehste} a lid povzbuzují. Bude-li veden útok {Sturm}, má kvartýrmistr na tom místě, kde to nouze vyžaduje, rychle přijít nebo vzkázat na prostranství, kde stojí knechti {Knechte} v šiku, a podle potřeby si dát poslat na pomoc jednu, dvě nebo tři řady {Glied}. A má pilně dohlížet, aby mu v nouzi přiběhli na pomoc v naprostém pořádku, aby lid zůstal dobré mysli a byl posilněn. Také všechny mnichy a kněží {Pfaffen}, ženy a panny – co je toho lidu – je třeba určit na jedno prostranství, kde se mají sbíhat a dávat ve městě pozor na oheň; kdyby vypukl požár, mají se o něj postarat oni, aby ti na hradbách zůstali nerušeni.
+- typ: odstavec
+  de: |-
+    Man sol auch von stundan im anfang vmbgehen / vnd besichtigen vnd zusammen tragen / alles das / das zu notdurfft der vnderhaldung dienet / es sey von essen vnd trincken / oder zum Geschütz / vnd alle andere notdurfft / das man das durch etliche vorordnete aus der Gemein austheilen lasse / einem jeglichen nicht mehr / dann zu seiner blossen enthaltung / nach dem man der notdurfft vberflüssig hat / damit man tauren oder harren möcht / ob sichs in die lenge ziehen möchte / wo man alsdann getrewe vnd fromb Volck bey solcher Ordnung hat / so mag leicht eine Vehste sein / die man vor gewalt behelt.
+  cs: |-
+    Také se má hned zpočátku obejít [město], prohlédnout a snést dohromady všechno, co slouží k nezbytné obživě, ať je to jídlo a pití, nebo [potřeby] pro děla, a všechny ostatní potřeby, a nechat to rozdělovat několika ustanovenými [muži] z obce {Gemein}[^2]; každému ne víc, než kolik potřebuje k holé obživě, podle toho, jakou má člověk zásobu, aby se dalo vydržet a vyčkat, kdyby se to protáhlo. Má-li pak člověk při takovém řádu věrný a řádný lid, snadno může [město] být pevností, kterou lze uhájit proti násilí.
+poznamky:
+- n: 1
+  text: |-
+    „Quartiermeister“ zde není kvartýrmistr ležení, ale velitel jednoho z „kvartýrů“, tj. úseků hradeb, na něž je město rozděleno (viz předchozí stranu); vede lid na svém úseku a v nouzi si vyžádá posilu ze záložního šiku na prostranství.
+- n: 2
+  text: |-
+    „Gemein“ zde znamená městskou obec, měšťanstvo, nikoli obec (mužstvo) praporce.

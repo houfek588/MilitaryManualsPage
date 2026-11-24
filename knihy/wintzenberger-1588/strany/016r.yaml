@@ -1,0 +1,40 @@
+id: 016r
+list: '[16] r'
+strana: recto
+sken: 35
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Jhr müst haben einen guten Schmid / mit allem seinen guten Werckzeug / einen guten Schlosser / darzu zwene gute Rademacher / ob ein Rad brech / das sie ein anders als bald wiederumb machten / darzu 2. Wagen / für jeden Wagen 6. Pferd / jhr müst haben 8. guter Zimmerleut / mit jhrem guten Werckzeug. Jhr müst haben 12. guter Seil / je eines 8. Klafftern lang / mehr 12. die nur halb so lang sein / die mus man halten zu einem vorrath / ein 100. guter strick / da die Ros anziehen. 300. guter Pfennigstrick / etliche lange Seil in zug zu einem vorrath / ob etwas brech / das mans wider machen könde / darzu ein Wagen mit 6. Pferden / vnd darzu 12. gute Ketten.
+  cs: |-
+    Musíte mít dobrého kováře se vším jeho dobrým nářadím, dobrého zámečníka a k tomu dva dobré koláře, aby hned udělali jiné kolo, kdyby se nějaké zlomilo; k tomu 2 vozy, ke každému vozu 6 koní. Musíte mít 8 dobrých tesařů s jejich dobrým nářadím. Musíte mít 12 dobrých lan, každé 8 sáhů {Klafftern} dlouhé, a dalších 12 jen poloviční délky; ta je třeba držet do zásoby. Dále sto dobrých provazů, za něž táhnou koně, 300 dobrých tenkých provázků {Pfennigstrick},[^1] několik dlouhých lan do kladkostroje {zug} do zásoby, aby se dalo opravit, kdyby se něco přetrhlo; k tomu vůz se 6 koňmi a k tomu 12 dobrých řetězů.
+- typ: odstavec
+  de: |-
+    Jhr müst haben 1000. Klaffter Zündstrick / vnd 100. Brücknagel / 300. Lattennagel / 400. Blechnagel / 2000. Huffnagel / vnd 200. Huffeysen. Jhr müst halten guten Brechzeug / vnd eiserne Stangen / die an beyden enden gestellet sein / darzu sechs Winden / damit man hebet was noth ist / etzliche gute Handsegen / etzliche Börer / zu den Büchssenrädern / vnd andere gemeine Börer / darzu einen gemeinen Wagen / darfür 6. Pferde.
+  cs: |-
+    Musíte mít 1000 sáhů doutnáku {Zündstrick}, 100 mostních hřebů {Brücknagel}, 300 latňáků {Lattennagel}, 400 hřebů na plech {Blechnagel}, 2000 podkováků {Huffnagel} a 200 podkov. Musíte mít dobré páčidlo {Brechzeug} a železné sochory, na obou koncích ocelované,[^2] k tomu šest heverů {Winden}, jimiž se zvedá, co je potřeba, několik dobrých ručních pil, několik nebozezů na kola lafet {Büchssenrädern} a jiné obyčejné nebozezy; k tomu obyčejný vůz a do něj 6 koní.
+- typ: odstavec
+  de: |-
+    Jhr müst haben ein Wagen mit Fürschlegen / da die Ros anziehen / vnd ein Wagen mit Wogen / vnd etzliche Ring an die Wogen / ob ein Ring bricht / das man ein andern het.
+  cs: |-
+    Musíte mít vůz s tažným nářadím {Fürschlegen},[^3] za něž táhnou koně, a vůz s vahadly {Wogen} a několik kroužků na vahadla, aby se mělo jiný, kdyby se kroužek zlomil.
+- typ: odstavec
+  de: |-
+    Jhr müst haben 200. guter Schauffeln / 200. guter Radehawen / 100. Brücken / 100. guter Scharn / darzu 2. Wagen / für ein Wagen 6. Pferde / etzliche gute Hebel auff die Wägen / damit man etwas mag heben / wenn es noth thut.
+  cs: |-
+    Musíte mít 200 dobrých lopat, 200 dobrých klučovacích motyk {Radehawen}, 100 mostnic {Brücken},[^4] 100 dobrých škrabek {Scharn}, k tomu 2 vozy, ke každému vozu 6 koní, a několik dobrých pák na vozy, jimiž lze něco nadzvednout, když je toho potřeba.
+poznamky:
+- n: 1
+  text: |-
+    „Pfennigstrick“ – tenký, levný provázek („za fenik“), k vázání a drobným opravám.
+- n: 2
+  text: |-
+    Tisk má „gestellet“; smysl patrně „gestählet“ (ocelované, zakalené), jak bývalo u sochorů a páčidel.
+- n: 3
+  text: |-
+    K „Fürschlag“ viz poznámku na [[015v|předchozí straně]]. „Wogen“ = „Wagen“ ve smyslu váhy, vahadla (orčíku), na něž se zapínají postraňky.
+- n: 4
+  text: |-
+    Tisk (ověřeno ve skenu) má mezi kopacím nářadím „Brücken“; snad fošny či desky k přechodům přes příkopy, anebo tisková chyba za „Bicken“ (krumpáče), které v takových soupisech obvykle stojí vedle lopat a motyk. „Scharn“ (Scharre) – škrabka, hrablo na zeminu.

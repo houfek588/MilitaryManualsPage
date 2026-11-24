@@ -1,0 +1,21 @@
+id: 038r
+list: '[38] r'
+strana: recto
+sken: 79
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dem gantzen Fenlein zu wachen / oder für den Feind zu führen / dann ist er schuldig / selbst auff die Wache zu ziehen / vnd zu bleiben / vnd die Wache helffen besuchen / so wol auch die Schildwache / wie sichs begiebt / es were dann / das er aus andern redlichen sachen der Obrigkeit nicht erscheinen köndte / sol er dem Leutenampt alle sachen befehlen / gantz trewlich / als ob er selbst entgegen were / damit nichts vorseumet oder vorhindert werde / Also ist er auch in Stürmen vnd Schlachten zu thun / das der Hauptman allzeit zu förderst sein sol.
+  cs: |-
+    s celým praporcem {Fenlein} držel stráž nebo ho vedl proti nepříteli, pak je povinen sám vytáhnout na stráž {Wache}, na ní zůstat a pomáhat obcházet stráže i stálé stráže {Schildwache}, jak se to naskytne. Kdyby se však kvůli jiným řádným záležitostem vrchnosti {Obrigkeit} nemohl dostavit, má všechny věci zcela věrně svěřit poručíkovi {Leutenampt}, jako by byl sám přítomen, aby nic nebylo zanedbáno ani zmařeno. Tak má činit také při útocích {Stürmen} a bitvách: hejtman {Hauptman} má být vždy v čele.
+- typ: odstavec
+  de: |-
+    7. Zum siebenden / seind die Fendrich schuldig / vnd sollen gedencken / das sie nechst bey den Hauptleuten sein / bey jhm sol ein Fendrich haben Pfeiffer vnd Trummelschlager / ein Spiel / darnach sein zugehörigen Gesinde / er sol sehen / das sein Fenlein vorwacht sey / vnd es jhm lieber sein lassen / dann sein eigen Leib / denn es jhm mehr gehöret zuuerwaren / dann sein Weib / so jhme zur Ehe gegeben ist / so man eine vorordente Schlacht thun sol / ist der Fendrich schuldig / einem andern Ehrlichen Man in der Ordnung das Fenlein zu geben / vnd eine Helleparten auff seine Achssel zu nemen / vnd nach seinem verstand die Schlachtordnung helffen machen / oder ob die recht gemacht sey / besichtigen / vnd so er siehet / das man mit dem Feinde treffen wil / sein Fenlein selbst zuhand nehmen / damit streiten / weil sein Leib weret / vnd ob es sach were / das durch die Feinde gewunnen / vnd ein Loch vber jhn kehm / vnd ein Fendrich so weit gedrungen von Feinden / das jhme die rechte Hand were abgeschossen
+  cs: |-
+    7. Za sedmé jsou praporečníci {Fendrich} povinni a mají pamatovat na to, že jsou nejblíže po hejtmanech. Praporečník má mít u sebe pištce a bubeníka, jednu hudbu {Spiel}, a dále svou příslušnou čeleď. Má dbát, aby byl jeho praporec dobře střežen, a má mu být milejší než vlastní tělo, neboť ho má opatrovat víc než svou ženu, která mu byla dána za manželku. Když se má svést řádná bitva {vorordente Schlacht}, je praporečník povinen dát praporec jinému čestnému muži v šiku {Ordnung}, vzít si na rameno halapartnu {Helleparten} a podle svého rozumu pomáhat stavět šik {Schlachtordnung} nebo prohlédnout, zda je postaven správně. A když vidí, že se má s nepřítelem střetnout, má praporec sám vzít do ruky a bojovat s ním, dokud je živ. A kdyby se stalo, že by nepřítel nabyl vrchu a nad ním vznikla mezera {Loch}[^1] a praporečník byl nepřáteli tak zatlačen, že by mu byla pravá ruka ustřelena,
+poznamky:
+- n: 1
+  text: „ein Loch vber jhn kehm“ – doslova „přišla by na něj díra“, tj. nepřítel by prolomil šik a praporečník by zůstal v mezeře sám. Podobný popis povinností praporečníka (praporec v levé ruce, pak v zubech, zabalit se do něj) mají i Fronsperger a Solms.

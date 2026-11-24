@@ -1,0 +1,30 @@
+id: 026r
+list: '[26] r'
+strana: recto
+sken: 55
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Folget das Ander Theil dieses Büchleins.
+  cs: Následuje Druhý díl této knížky
+- typ: seznam
+  de:
+  - I. Keyser Caroli des Fünfften Kriegsbestallung / wie er die angeordenet mit Obersten vnd alle hohe Empter. Sampt einem Artickelsbrieff mit 42. Artickeln.
+  - II. Eine SchiffsOrdnung / wie sich die Kriegsleute / alldo vrehalten sollen.
+  - III. Zum beschlus / Das Malefitz vnd Langespies Recht / alles nach seiner Ordnung.
+  cs:
+  - I. Válečný služební list {Kriegsbestallung} císaře Karla Pátého, jak jej zřídil s plukovníkem {Obersten} a všemi vysokými úřady {hohe Empter}; spolu s artikulním listem {Artickelsbrieff} o 42 artikulích[^1].
+  - II. Lodní řád {SchiffsOrdnung}, jak se tam mají válečníci {Kriegsleute} chovat[^2].
+  - III. Na závěr hrdelní {Malefitz} právo a právo dlouhých pík {Langespies Recht}, všechno podle svého řádu.
+- typ: obrazek
+  soubor: drevorez-55.jpg
+  popis: Obdélná ozdobná lišta – proplétaný pletencový ornament s volutami na obou koncích.
+poznamky:
+- n: 1
+  text: |-
+    Artikulní list začíná na [[030r|straně 30 r]]; artikule jsou v tisku číslovány průběžně 1–42 (poslední na skenu 74).
+- n: 2
+  text: |-
+    „vrehalten“ – tisková chyba za „verhalten“; v přepisu ponecháno.

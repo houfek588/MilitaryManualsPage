@@ -1,0 +1,34 @@
+id: 001v
+list: '[1] v'
+strana: verso
+sken: 6
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Eine feine Regel vnd Exempel der Alten.
+  cs: Pěkné pravidlo a příklad starých
+- typ: verse
+  de:
+  - 'Eins das raht ich dir mit trewen/'
+  - 'Folgstu mir/ wird dich nicht gerewn/'
+  - 'Mit fleis so ließ der alten that/'
+  - 'Ihr Mannlich handlung/ Ehr vnd stat/'
+  - 'Damit sie jhn/ vnd jhrn Stammen/'
+  - 'Haben gestifft ewign Namen/'
+  - 'Ihr Herrligkeit vnd Gschlecht geziert/'
+  - 'Das jhr nicht mehr vorgessen wird/'
+  - 'Dem folge nach/ das ist mein Lehr/'
+  - 'So wechst dein Lob/ Glück/ Sieg vnd Ehr.'
+  cs:
+  - 'Jedno ti věrně radím;'
+  - 'poslechneš-li mě, nebudeš litovat:'
+  - 'pilně čti o činech starých,'
+  - 'o jejich mužném jednání, cti a stavu,'
+  - 'jimiž sobě i svému rodu'
+  - 'založili věčné jméno,'
+  - 'ozdobili svou slávu i pokolení,'
+  - 'takže se na ně už nezapomene.'
+  - 'Následuj jich, to je mé naučení,'
+  - 'a poroste tvá chvála, štěstí, vítězství i čest.'

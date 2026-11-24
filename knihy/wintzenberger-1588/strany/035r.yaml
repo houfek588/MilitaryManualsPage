@@ -1,0 +1,36 @@
+id: 035r
+list: '[35] r'
+strana: recto
+sken: 73
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nachtheil / mit beschwerung vnd verwüstung der Gebew / oder Bewm auff dem Felde / auch andern Gehöltze vorkommen wird.
+  cs: |-
+    újmě z poškozování a pustošení budov nebo stromů na polích i jiného dříví předešlo.
+- typ: odstavec
+  de: |-
+    36. Item / die Hackenschützen / so lange sie nicht zu Felde liegen / noch gegen den Feinden handlung haben / so sollen sie schuldig sein / vmb jhren eigenen Pfenning mit Kraut vnd Loth zuuorsehen vnd gefast zu machen / vnd weil man einem jeden 1. fl. Obersoldt giebt / ob sie aber gebraucht würden / oder einige handlung vorzunemen hetten / in solchem fall bewilliget jhre May: hierin versehung zu thun / in massen / wie in jeglichen gewönlich / vnd vnter den Kriegsleuten gebrauch ist.
+  cs: |-
+    36. Dále střelci z hákovnic {Hackenschützen} jsou povinni, dokud neleží v poli a s nepřítelem nebojují, zásobit se a vybavit prachem {Kraut} a olovem {Loth} za vlastní peníz, neboť každému se dává 1 zlatý přeplatku {Obersoldt}. Kdyby však byli nasazeni nebo měli proti nepříteli něco podniknout, v takovém případě Jeho Veličenstvo svoluje, že je v tom zaopatří tak, jak je to všude obvyklé a jak je mezi válečníky {Kriegsleuten} zvykem.
+- typ: odstavec
+  de: |-
+    37. Item / es sol auch kein Hauptman macht haben / keinen abgestorbenen Namen oder Platz einem andern zugeben / verleihen vnd gut zu machen / sondern solcher Platz sol jhrer May: heim fallen.
+  cs: |-
+    37. Dále žádný hejtman {Hauptman} nemá mít moc dávat jméno nebo místo někoho zemřelého jinému, propůjčovat mu je nebo mu je připisovat k dobru; takové místo má připadnout zpět Jeho Veličenstvu.
+- typ: odstavec
+  de: |-
+    38. Item / die Trabanten / vnd denn für hohen Personen / auch die Steckenknecht / so dem Profosen aus dem Stadt gehalten werden / sol keinen / dann allein auff sein einfachen Leibes Besoldung / vnd an allem Obersold vnter keinem Fenlein durchgehen / vnd gestattet werden.
+  cs: |-
+    38. Dále drabantům {Trabanten} vysokých osob a rovněž profousovým pacholkům {Steckenknecht}, kteří jsou profousovi {Profosen} vydržováni z jeho stavu {Stadt}[^1], se nemá žádnému dovolit, aby pod některým praporcem {Fenlein} prošel přehlídkou jinak než jen na svůj prostý osobní žold {Leibes Besoldung}, a to bez jakéhokoli přeplatku.
+- typ: odstavec
+  de: |-
+    39. Item / Key: May: hat bewilliget / in ansehung / das sie in jhrer May: zu vnderthenigsten gefallen / in jhrer May: dienste in diese Lande begeben haben / das ein jeder Knecht 3. Cronen / vnangesehen / das sonst nicht mehr dann 2. Cronen / vnd 2. Drittheil zubezalen geschicht / für jeden einfachen
+  cs: |-
+    39. Dále Jeho císařské Veličenstvo svolilo – vzhledem k tomu, že se [knechti] k nejponíženější libosti Jeho Veličenstva vydali do jeho služeb do těchto zemí –, aby každému knechtovi {Knecht} byly – bez ohledu na to, že se jinak nevyplácí víc než 2 koruny a 2 třetiny – vypláceny 3 koruny {Cronen} za každý prostý
+poznamky:
+- n: 1
+  text: Drabanti a profousovi pacholci jsou placeni ze stavu (vydržování) svého pána, proto nesmějí brát žold ještě jednou pod praporcem.

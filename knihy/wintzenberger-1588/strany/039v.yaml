@@ -1,0 +1,23 @@
+id: 039v
+list: '[39] v'
+strana: verso
+sken: 82
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Hauptman Besoldung / das dis nicht weniger zu besetzen ist / als der hohen Empter eines / vnd gebürt kein vnuorstendiger darzu / ein jeder Hurenweibel sol wissen / solchen hauffen nach geschickligkeit zu führen / wie man einen verlornen hauffen führen sol / wo man mit dem Feinde eine Schlacht thut / es sey auff einem engen oder weiten Wege / sol der Weibel guter vernunfft sein / vnd mit geschickligkeit den hauffen nach gelegenheit wissen zu führen / das dem Geschütz / Reisigen Zeuge / auch dem gantzen hauffen kein schaden bringen möge / wann die Knechte in einer Schlachtornnung stehen / vnder jhn den Feind nicht weit vom hauffen stehen lassen / denn solches giebt dem Feinde grosse beschwerung / als were es ein gewaltiger hauffe / Er sol auch sehen / das der Tros fast in der Ordnung bleibe / damit das die Knechte in der Schlachtordnung sehen mögen.
+  cs: |-
+    hejtmanovi žold {Besoldung}, neboť tento [úřad] není třeba obsazovat o nic méně pečlivě než kterýkoli z vysokých úřadů {hohen Empter}, a nepatří k němu nikdo nerozumný. Každý šikovatel trénu {Hurenweibel} má umět takový houf {hauffen} obratně vést, tak jako se vede ztracený houf {verlornen hauffen}. Svádí-li se s nepřítelem bitva, ať na úzké, nebo široké cestě, má být šikovatel {Weibel} dobrého rozumu a umět houf [trénu] obratně vést podle okolností tak, aby nemohl způsobit škodu dělům {Geschütz}, jízdě {Reisigen Zeuge} ani celému houfu. Když knechti stojí v šiku[^1], má [trén], který je pod ním, nechat stát proti nepříteli nedaleko od houfu, neboť to nepříteli působí velkou starost, jako by to byl hlavní houf {gewaltiger hauffe}[^2]. Má také dbát, aby trén {Tros} pevně zůstal v pořádku {Ordnung}, aby ho knechti v šiku {Schlachtordnung} mohli vidět.
+- typ: odstavec
+  de: |-
+    Er sol auch sehen / das sie Reuter vnd Knechte in der Schlachtordnung nicht hindern / auch in Scharmützeln / sondern mit dem Tros weichen / hinder sich oder für sich / damit die jhren platz zu scharmützeln haben mügen / vnd ob es sich begebe / das man denn in eine verschlossene Wagenburg wolt fallen / vnd angreiffen / sol der Weibel gedencken / das er hinder der Wagenburg mit Hackenschützen wol versehen sey / damit der Feind mit jhrem Volck nicht in Tros fallen / vnd plündern / also hat er seinen Ehren genug gethan.
+  cs: |-
+    Má také dbát, aby [lidé z trénu] nepřekáželi jezdcům {Reuter} a knechtům v šiku ani v šarvátkách {Scharmützeln}, nýbrž aby s trénem ustupovali dozadu nebo dopředu, aby [jezdci a knechti] měli k šarvátce své místo. A kdyby se stalo, že by se mělo vpadnout do uzavřené vozové hradby {Wagenburg} a zaútočit na ni, má šikovatel pamatovat na to, aby byl za vozovou hradbou dobře opatřen střelci z hákovnic {Hackenschützen}, aby nepřítel se svým lidem nevpadl do trénu a nevyplenil ho. Tak učinil své cti zadost.
+poznamky:
+- n: 1
+  text: V tisku „Schlachtornnung“ – tisková chyba za „Schlachtordnung“ (šik); v přepisu ponechána.
+- n: 2
+  text: Trén postavený nedaleko za šikem měl nepříteli z dálky budit dojem dalšího velkého houfu vojska. Větná stavba je v tisku nejasná („vnder jhn den Feind nicht weit vom hauffen stehen lassen“); překlad podle smyslu.

@@ -1,0 +1,18 @@
+id: 055v
+list: '[55] v'
+strana: verso
+sken: 114
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-114.jpg
+  popis: Tiskařský znak Gimela Bergena – erb v oválném rámu s rohovými akantovými rozvilinami a nápisem GIMEL BERGEN. Ve štítě dvě hroudy (pahorky) porostlé trávou, nad štítem kolčí helm s bohatými přikrývadly a klenotem v podobě košatého stromu.
+- typ: odstavec
+  de: |-
+    Gedruckt zu Dreßden / durch Gimel Bergen / in der Moritzstrassen / Anno 1588.
+  cs: |-
+    Vytištěno v Drážďanech u Gimela Bergena v Moritzově ulici[^1] léta 1588.
+poznamky:
+- n: 1
+  text: Gimel Bergen (též Gimel Berg) – drážďanský tiskař 2. poloviny 16. století. Moritzstraße v Drážďanech nese jméno saského kurfiřta Mořice (Moritz, † 1553).

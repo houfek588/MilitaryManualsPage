@@ -1,0 +1,25 @@
+id: 011v
+list: '[11] v'
+strana: verso
+sken: 26
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    anfang wol vorsehen/ vnd einen Graffen oder Freyherren/ der eines guten gerüchts vnd geforcht ist/ zu einem Obersten erwehlen/ vnd der ein gut Hertz hat/ wie oben angezeiget. Vnangesehen/ ob er sein lebenlang im Krieg gewesen sey oder nicht/ demselben mus man zugeben vnd verordenen/ Edle vnd Vnedle/ die des Kriegs verstand vnd gebrauch haben/ das sie sich des Obersten befehl halten/ vnd jhm rathen/ darumb mus man jhnen geben/ das sie der Obersten Hauptmanschafft vergessen mögen/ vnd allen jhren fleis vnd rath/ diesen Obersten Heuptman/ jhm gehorsam mit theilen/ denn es können sich nicht zwey Heupter/ die einander gleich sein sollen/ im Kriege mit einander vergleichen vnd vereinigen/ Wie man denn anfenglich in des Keysers Carls ersten Krieg gesehen vnd gehort hat/ was der Graff von Nassaw/ vnd Frantz von Sickingen mit einander ausgericht haben. Das habe ich auch zu dem andern für eine fleissige warnung angezeiget.
+  cs: |-
+    počátku dobře postarat a za vrchního velitele {Obersten} zvolit hraběte nebo svobodného pána, který má dobrou pověst, je obáván a má dobré srdce, jak bylo výše řečeno – bez ohledu na to, zda byl celý život ve válce, či nikoli. Tomu je nutno přidělit a ustanovit šlechtice i nešlechtice, kteří válce rozumějí a mají v ní zkušenost, aby se drželi rozkazů vrchního velitele a radili mu. Proto je třeba jim dát [tolik], aby mohli zapomenout na [touhu po] nejvyšším hejtmanství {Obersten Hauptmanschafft}[^1] a poslušně mu, tomuto nejvyššímu hejtmanovi, věnovat všechnu svou píli a radu. Ve válce se totiž nemohou dvě hlavy, které mají být sobě rovny, spolu snést a shodnout, jak se ostatně na počátku první války císaře Karla vidělo a slyšelo, co spolu svedli hrabě z Nassau a František ze Sickingenu[^2]. I to jsem k druhému bodu uvedl jako důrazné varování.
+- typ: odstavec
+  de: |-
+    3. Zum dritten/ wenn man einen Obersten mit wol betrachtung/ wie oben angezeiget/ erwelet hat/ so sol man alsdenn mit demselbigen/ vnd denen/ die man jhm zugiebt vnd verordnet/ den Krieg zufüren mit jhren Leiben berahtschlagen/ wie man sich nun fort im Felde schicken solle/ mit aller bereitschafft/ zu Ros vnd Fus/ Geschütz vnd alles das man bedürffe/ das mus man anstellen/ nach der macht vnd vermögen/ wie man befindet/ vnd sich erkunden möge/ des gegentheils macht/ damit man nicht vberflüssig/ zuuiel oder zu wenig fürneme/ vnd das alle dasselb/ es sey Reuter oder Fusknecht/
+  cs: |-
+    3. Za třetí: když byl vrchní velitel {Obersten} po dobrém uvážení, jak bylo výše řečeno, zvolen, má se s ním a s těmi, které mu přidělí a ustanoví, aby válku vedli vlastní osobou, poradit, jak si má [vojsko] dále v poli počínat se vší výzbrojí {bereitschafft} pro jízdu i pěchotu {zu Ros vnd Fus}, s děly {Geschütz} a se vším, čeho je zapotřebí. To je třeba zařídit podle síly a možností, jak se shledá a jak lze vyzvědět sílu protivníka {gegentheils}, aby se nepodnikalo nic zbytečného, příliš mnoho nebo příliš málo. A všechno to – ať jezdec {Reuter}, nebo pěší knecht {Fusknecht},
+poznamky:
+- n: 1
+  text: |-
+    Smysl: zkušení válečníci přidělení vrchnímu veliteli mají být odměněni tak, aby se smířili s tím, že sami nejvyšším hejtmanem nejsou, a sloužili mu bez řevnivosti.
+- n: 2
+  text: |-
+    Tažení Karla V. proti Francii roku 1521 (obléhání Mézières): císařskému vojsku velel hrabě Jindřich III. z Nassau-Bredy spolu s Františkem ze Sickingenu; jejich nesvornost a váhání přispěly k neúspěchu tažení.

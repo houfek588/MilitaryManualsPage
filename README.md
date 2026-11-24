@@ -71,7 +71,8 @@ Knihy: `fronsberger-1564` (Fronsperger, Kriegs Ordnung vnd Regiment, sken BSB), 
 (Lavater, Kriegs-Büchlein, Curych 1651; německý text z přepisu Deutsches Textarchiv, CC BY-SA 4.0), `bern-1615`
 (Město Bern, Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung, Bern 1615; sken UB Bern / e-rara)
 `solms-1559` (Reinhard hrabě ze Solmsu, Kriegsbeschreibung – Das erst bis neundt Buch, Lich 1559; sken BSB)
-a `ott-1530` (Michael Ott von Echterdingen, Kriegsordnung, Augsburg kolem 1530; sken BSB bsb00089558).
+`ott-1530` (Michael Ott von Echterdingen, Kriegsordnung, Augsburg kolem 1530; sken BSB bsb00089558)
+a `wintzenberger-1588` (Daniel Wintzenberger, Beschreibung einer Kriegs-Ordnung, Drážďany 1588; sken BSB bsb00032546).
 
 ## Web
 - čtení po **kapitolách** (`#/kap/<id>`) i po **stranách tisku** (`#/strana/018r`), šipky ← → listují,

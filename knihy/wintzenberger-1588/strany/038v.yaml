@@ -1,0 +1,31 @@
+id: 038v
+list: '[38] v'
+strana: verso
+sken: 80
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    worden / sol er das Fenlein in die lincke Hand nemen / ob jhme dieselbe auch abgeschlagen / sol er das Fenlein mit den Strümpen zu sich reissen / sich darein wickeln / vnd mit den Zenen zureissen / also sol er sich in einem Sturm auch halten / so hat er seinen Ehren genug gethan.
+  cs: |-
+    má vzít praporec {Fenlein} do levé ruky. Bude-li mu i ta useknuta, má praporec pahýly {Strümpen}[^1] strhnout k sobě, zabalit se do něj a roztrhat ho zuby. Tak se má chovat také při útoku {Sturm}; pak učinil své cti zadost.
+- typ: odstavec
+  de: |-
+    8. Zum achten / die Feldtweibel / so viel jhrer vnter einem Regiment sein / sollen wissen / vnd verstendig sein / es sey in Belagerung oder Besatzung / auff Zügen oder andern zufelligen sachen / gegen vnd vor dem Feinde jhre Schlachtordnung zu machen / sich vnter einander vergleichen / einer den andern vnterrichten / vnd bericht geben / damit der gemeine Man mit seiner Wehre nicht verkürtzt / vnd sein stadt in der Ordnung vertreten mag.
+  cs: |-
+    8. Za osmé: šikovatelé {Feldtweibel}, kolik jich v pluku {Regiment} je, mají vědět a rozumět tomu, jak proti nepříteli a před ním postavit svůj šik {Schlachtordnung}, ať při obléhání nebo v posádce {Besatzung}, na taženích {Zügen} nebo při jiných nahodilých věcech. Mají se mezi sebou dohodnout, jeden druhého poučit a podat mu zprávu, aby prostý voják {gemeine Man} nebyl se svou zbraní {Wehre} zkrácen a mohl v šiku zastat své místo.
+- typ: odstavec
+  de: |-
+    Es sol sich auch keiner vber den andern berühmen / vnd mehr wissen wollen / denn der ander / ob aber das vnter jhnen entstünde / wer zubesorgen / das das gantze Läger dardurch geschlagen würde / Darumb sollen sie alle in friedlicher weise eintrechtig mit einander leben / vnd allzeit bedencken / wie gros vnd starck der hauffe Landsknechte sey / damit sie die in eyl in die Schlachtordnung bringen mögen / lang oder breit / nach gelegenheit des Feindes / oder solche Schlachtordnung offt machen / so werden sie geübet / vnd weis sich ein jeder geschicklich zu halten / vnd richten / es sey zu oder von dem Feind.
+  cs: |-
+    Žádný se také nemá vychloubat nad druhého a chtít vědět víc než ten druhý. Kdyby k tomu mezi nimi došlo, bylo by se co obávat, že tím bude poraženo celé ležení {Läger}. Proto mají všichni žít spolu pokojně a svorně a vždy uvažovat, jak velký a silný je houf {hauffe} lancknechtů {Landsknechte}, aby ho mohli rychle uvést do šiku, dlouhého nebo širokého podle toho, jak to nepřítel vyžaduje. A budou-li takový šik často stavět, budou [knechti] vycvičeni a každý se bude umět obratně chovat a řídit, ať jde proti nepříteli, nebo od něho.
+- typ: odstavec
+  de: |-
+    9. Zum neundten / des Hauptmans Fürer vnd Weibel / sollen zu nechst bey dem Fenlein jhr
+  cs: |-
+    9. Za deváté mají hejtmanův vůdce {Fürer} a šikovatel {Weibel} mít své
+poznamky:
+- n: 1
+  text: „Strümpen“ – pahýly paží (Stumpf). Obraz praporečníka, který praporec drží pahýly a v zubech, je běžný topos lancknechtských řádů.

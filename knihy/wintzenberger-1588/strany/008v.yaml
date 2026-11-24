@@ -1,0 +1,70 @@
+id: 008v
+list: '[8] v'
+strana: verso
+sken: 20
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - 'So macht er jhn gar toll vnd blind/'
+  - 'Das er sein thun nicht mehr erkent.'
+  - 'Vnd sündiget fort immermehr/'
+  - 'Bis das sein Stündlein kömpt daher.'
+  - 'Das er sein Straff bekommen sol/'
+  - 'Denn wird er recht bezahlet wol.'
+  - 'Kan auch der Straffe nicht entgehn/'
+  - 'Dieweil es Gott also versehn.'
+  cs:
+  - 'udělá ho docela pošetilým a slepým,'
+  - 'takže už nepoznává, co činí,'
+  - 'a hřeší dál a dál,'
+  - 'až přijde jeho hodinka,'
+  - 'kdy má dostat svůj trest;'
+  - 'tehdy se mu spravedlivě odplatí'
+  - 'a trestu neujde,'
+  - 'neboť tak to Bůh ustanovil.'
+- typ: odstavec
+  de: |-
+    ES meldet auch der Poet Virgilius/ das auffruhr eine sonderliche straffe Gottes sey/ wie bey den auffrürischen Bawren/ so vnter Keyser Maximiliano dem ersten sich in Windisch Marck empörten/ wider den Adel/ Anno 1517. das derer in die Neuntzigtausend sind erschlagen worden/ vnd Anno 1525. aber ein Auffruhr gewest/ das der Bawren auch auff die zeit jnnerhalb 3. Monaten/ in die hundert tausent sind erschlagen worden/ darauff diese Lateinische Vers sich nicht vbel geziemen anzumelden.
+  cs: |-
+    Také básník Vergilius uvádí, že vzpoura {auffruhr} je zvláštním trestem Božím. Tak tomu bylo u vzbouřených sedláků, kteří se za císaře Maxmiliána I. roku 1517 vzbouřili ve Windické marce[^1] proti šlechtě, takže jich bylo pobito na devadesát tisíc; a roku 1525 bylo opět povstání, při němž bylo tehdy během tří měsíců pobito na sto tisíc sedláků[^2]. K tomu se nikoli nevhodně hodí uvést tyto latinské verše.
+- typ: verse
+  de:
+  - 'At veluti magno in populo cum sæpe coorta est'
+  - 'Seditio, sæuitque animis ignobile vulgus,'
+  - 'Iamque faces, & saxa volant, furor arma ministrat.'
+  cs:
+  - 'Jako když ve velkém lidu často vypukne'
+  - 'vzpoura a nízká chátra zuří v duších,'
+  - 'už létají pochodně i kameny, zbraně podává zuřivost.[^3]'
+- typ: nadpis
+  uroven: 3
+  de: 'Auff Deudsch vngefehrlich also:'
+  cs: 'Německy přibližně takto:'
+- typ: verse
+  de:
+  - 'Gleich wie der Pöpel mit grossen hauffen/'
+  - 'Auffrührig thut zusammen lauffen/'
+  - 'Ergreifft Stang/ Beil Axt vnd Stein/'
+  - 'Das müssen alles Waffen sein/'
+  - 'Damit sie lauffen blind dahin/'
+  - 'Zu schlagen todt steht als jhr sinn.'
+  cs:
+  - 'Jako když se lůza ve velkých houfech'
+  - 'vzbouřeně sbíhá dohromady,'
+  - 'popadne tyč, sekyrku, sekeru i kámen,'
+  - 'to vše musí být zbraní,'
+  - 'a s tím běží slepě vpřed,'
+  - 'jen zabíjet mají na mysli.'
+poznamky:
+- n: 1
+  text: |-
+    *Windisch Marck* – Windická (Slovinská) marka v dolním Kraňsku. Velké slovinské selské povstání proti šlechtě vypuklo roku 1515 (nikoli 1517) a bylo potlačeno; údaj o devadesáti tisících padlých je silně přehnaný.
+- n: 2
+  text: |-
+    Německá selská válka 1524–1526; počet kolem sto tisíc obětí uvádějí již dobové kroniky.
+- n: 3
+  text: |-
+    Vergilius, Aeneis I, 148–150 (přirovnání Neptuna utišujícího bouři k vážnému muži, jenž uklidní vzbouřený dav).

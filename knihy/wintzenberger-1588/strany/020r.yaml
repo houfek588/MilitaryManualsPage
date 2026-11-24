@@ -1,0 +1,22 @@
+id: 020r
+list: '[20] r'
+strana: recto
+sken: 43
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Schlachtordnung / denen solt jhr aber redliche vorstendige Gesellen zugeben / alsbald die Schlacht angangen ist / das dieselbigen 500. Knechte hinden herfür ziehen / vnd zu den Feinden auff die seiten hinein fallen / dann alsbald man jhn die seiten abgewinnet / so seind sie geschlagen / vnd wann sie noch so starck seind / alldieweil das mit solcher geschickligkeit die Feinde angegriffen / also das in dem gewaltigen hauffen 6000. vnd 300. Knechte geordnet werden / mit der anzeigung / wie oben benumbt.
+  cs: |-
+    bitevnímu šiku {Schlachtordnung}. Přidejte jim však řádné a rozumné druhy, aby oněch 500 knechtů {Knechte}, jakmile bitva začne, vytáhlo zezadu dopředu a vpadlo nepříteli do boku. Jakmile se mu totiž získají boky, je poražen, i kdyby byl sebesilnější, protože se na nepřítele zaútočí s takovou obratností. V hlavním houfu {gewaltigen hauffen} se tedy postaví 6000 a 300 knechtů,[^1] s tím rozvrhem, jak je výše uvedeno.
+- typ: odstavec
+  de: |-
+    In dem verlornen hauffen sol man 3000. Man ordnen / abermahl in eine breite Ordnung / wie oben angezeiget / vnd 200. Knechte hinden angehangen / dieselbige lauffen zu auff das Feldgeschütz der Feinde / des verlornen hauffens / Es mus aber nicht ein hauffen sein / vnd zusehen wie ich wol gesehen habe / vnd auch erfahren / bis einer nach dem andern gewinne oder verliere / denn es mus der gewaltige hauffen Knecht neben dem verlornen hauffen daher ziehen / vnd das das angreiffen also kurtz auff einander geschehe / wie man eine Büchsse auff die ander abgeben lest / also das solche angreiffung eintrechtiglich geschehe / das bricht dem Feind den Hals / vnd benimbt jhm all seine geschickligkeit / das man sie also vbereilet / vnd gebt fleißig achtung darauff / das jhr die Leuffer kurtz zuuor lauffen last / auff das Feldgeschütz der Feinde / ehe sie anzünden / so würde euch der Feinde Geschütz nicht viel schaden mögen / vnd darumb das sich die Feinde auff eine solche eyl mit gegenwehr nicht schicken künde / dann mit grosser vnordnung jhrer hauffen / Darumb so mus man
+  cs: |-
+    Do ztraceného houfu {verlornen hauffen} se má postavit 3000 mužů, opět do širokého šiku {breite Ordnung}, jak je výše ukázáno, a vzadu se k němu připojí 200 knechtů; ti vyběhnou ze ztraceného houfu proti nepřátelským polním dělům {Feldgeschütz}. Nesmí to však být tak, že jeden houf stojí a přihlíží – jak jsem to sám dost viděl a zažil –, dokud jeden po druhém nevyhraje nebo neprohraje. Hlavní houf knechtů musí totiž táhnout vedle ztraceného houfu a útoky musejí následovat tak rychle po sobě, jako když se vypálí jedno dělo {Büchsse} za druhým, aby takový útok proběhl svorně. To nepříteli zlomí vaz a připraví ho o všechnu jeho obratnost, když ho takto zaskočíte. A pilně dbejte, abyste běžce {Leuffer} vypustili na nepřátelská polní děla krátce předtím, než je nepřítel zapálí; pak by vám nepřátelská děla nemohla příliš uškodit, protože by se nepřítel v takovém spěchu nedokázal postavit na odpor jinak než ve velkém zmatku svých houfů. Proto se musí
+poznamky:
+- n: 1
+  text: |-
+    Tj. 6000 mužů hlavního houfu (viz [[018v|list 18 v]]) a 300 běžců za ním. 500 mužů „přikrytého pokrmu“ autor do součtu nezahrnuje, ačkoli na [[020v|listu 20 v]] staví za hlavní houf 800 připojených knechtů (300 + 500). Celkem 6000 + 300 + 500 v hlavním houfu a 3000 + 200 ve ztraceném houfu dává právě 10 000 pěších.

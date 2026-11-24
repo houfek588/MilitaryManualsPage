@@ -1,0 +1,27 @@
+id: 022v
+list: '[22] v'
+strana: verso
+sken: 48
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    der arbeit lest sich niemand gerne abfordern / es gefalle jhm denn gar wol / Darumb so sol man es alles vorhin eigentlich verordnen / vnd einem jeglichen befehlen / das er sich des Hauptmans oder Fenleins halte / vnd jhm folge.
+  cs: |-
+    boji {arbeit} se nikdo nedá rád odvolat, leda by se mu to velmi líbilo. Proto se má všechno předem přesně nařídit a každému přikázat, aby se držel svého hejtmana {Hauptmans} nebo korouhve {Fenleins} a následoval ho.
+- typ: odstavec
+  de: |-
+    Aber noch eins mus ich euch zum vnterricht anzeigen / das jhr euch mit fleis daruor hütet / Wann jhr dem Feinde vnter Augen ziehet / vnd einander ansichtig werdet / vnd ob jemand sagen würde / er sey gros oder klein / wir wollen die Sonne vnd den Wind suchen / vnd auff vnser vortheil ziehen / darfür hütet euch bey leibe / vnd folget nicht / kehret euch weder an Sonne oder Wind / sondern zeug deinem Feinde stracks vnter Augen / wie du jhn ankommen bist / wiewol der Wind vom Geschütze zuweilen / darnach das Geschütze stehet / einen blenden macht / es vergehet aber balde / vnd kömpt gleich so balde dem Feinde zu schaden / als zu frommen / denn es wird keiner so blind von der Sonnen noch vom Winde werden / das er nicht einen grossen hauffen Leute sehen köndte / hütet euch daruor. Ich warne euch trewlich / ich habe es nie anders gesehen vnd gehöret / denn das eine flucht daraus kommen ist / Aber den Feind also von sich kommen lassen / vnbeschediget.
+  cs: |-
+    Ještě jednu věc vám však musím pro poučení ukázat, abyste se jí pilně vyvarovali. Když táhnete nepříteli přímo před oči a navzájem se spatříte, a někdo – ať vysoký, nebo nízký – by řekl: „Chceme získat slunce a vítr a táhnout na své výhodné místo {vortheil},“ toho se pro živý svět vystříhejte a neposlouchejte ho. Nedbejte ani na slunce, ani na vítr, nýbrž táhni svému nepříteli rovnou před oči, jak jsi na něj narazil. Třebaže vítr od děl {Geschütze}[^1] někdy – podle toho, jak děla stojí – člověka oslepí, brzy to přejde a přijde to nepříteli stejně tak ke škodě jako k užitku. Neboť nikdo nebude od slunce ani od větru tak oslepen, aby neviděl velký houf lidí. Toho se vystříhejte. Věrně vás varuji: nikdy jsem neviděl ani neslyšel, že by z toho vzešlo něco jiného než útěk a že se tak nepřítel nechal bez úhony odtáhnout.
+- typ: odstavec
+  de: |-
+    Darumb wenn jhr den Feind ansichtig werdet / so nemet es frölich mit dieser Ordnung wie angezeiget ist an / vnd last euch nicht mit solchen kleinen vortheiln erschrecken oder vorführen / es ist mir selbst drey mahl dardurch mislungen / so habe ichs auch bey andern gesehen vnd erfahren / das die
+  cs: |-
+    Proto když nepřítele spatříte, pusťte se do něj směle s tímto šikem {Ordnung}, jak je ukázán, a nedejte se takovými malými výhodami zastrašit ani svést. Mně samému se tím věc třikrát nezdařila a viděl a zažil jsem to i u jiných, že
+poznamky:
+- n: 1
+  text: |-
+    Patrně dým ze střelby, který vítr nese proti vlastnímu šiku (nebo do očí nepříteli).

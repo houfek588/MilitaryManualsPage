@@ -1,0 +1,37 @@
+id: 031r
+list: '[31] r'
+strana: recto
+sken: 65
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    erleubnüs vnd Pastport des Obristen oder Hauptmans daruber hinweg zöge / wo aber derselbigen einer oder mehr betreten würden / dieselbigen sollen an Leib vnd Leben gestraffet werden.
+  cs: |-
+    svolení a průvodního listu {Pastport} plukovníka {Obristen} nebo hejtmana {Hauptmans} odešli; bude-li však kdo z nich, jeden nebo více, dopaden, mají být potrestáni na těle i na životě.
+- typ: odstavec
+  de: |-
+    6. Item / es sol kein Knecht am ziehen aus der Ordnung gehen / ohne merckliche vrsache / wo aber einer oder mehr vngehorsam wehren / so sollen die Heuptleute / Feldweibel / vnd gemeine Knecht / den oder dieselbigen / so nicht in der Ordnung bleiben wollen / mit gewalt in die Ordnung treiben.
+  cs: |-
+    6. Dále žádný knecht {Knecht} nemá na pochodu vystupovat ze šiku {Ordnung} bez závažné příčiny. Kdyby však jeden nebo více z nich byli neposlušní, mají hejtmani {Heuptleute}, šikovatelé {Feldweibel} i prostí knechti toho nebo ty, kdo nechtějí zůstat v šiku, zahnat do šiku násilím.
+- typ: odstavec
+  de: |-
+    7. Item / die Kindelbetterin / schwangere Frawen / Jungkfrawen / alte Leut / Priester vnd Geistliche Leute / auch wo man mit dem Lager liegen würde / oder durchziehen theten / da Kirchen weren / das sich alsdann niemand in die Kirchen oder Klöster legen sol / noch sonst auffbrechen / vnd nichts nemen / sondern sie beschirmen / wie es sich gebüret / in keinem wege beleidigen / vnd Christlich halten / wie von alters her kommen ist / bey Leibstraff.
+  cs: |-
+    7. Dále šestinedělky {Kindelbetterin}, těhotné ženy, panny, staré lidi, kněze a duchovní osoby – a kde by se leželo ležením {Lager} nebo táhlo místy, kde jsou kostely, tam se nikdo nemá ukládat do kostelů ani klášterů, ani je jinak vylamovat a nic [z nich] brát – je třeba chránit, jak se sluší, nijak jim neubližovat a chovat se k nim křesťansky, jak je odedávna zvykem, a to pod trestem na těle.
+- typ: odstavec
+  de: |-
+    8. Item / es sol sich auch ein jeglicher massen / Gott vnd seine Heiligen nicht lestern / wo aber einer oder mehr GOtt vnd seine Heiligen freuentlicher weise lestern würde / die sollen am Leibe gestraffet werden.
+  cs: |-
+    8. Dále se má každý zdržet rouhání Bohu a jeho svatým[^1]. Kdyby se však jeden nebo více z nich Bohu a jeho svatým svévolně rouhali, mají být potrestáni na těle.
+- typ: odstavec
+  de: |-
+    9. Item / ob es sich begebe / das durch den Obristen Key: May: etc. eine Schlacht oder Sturm an gemawerten Stetten / Schlössern oder Flecken beschehen würde / vnd mit Gottes hülff erobert würde / so sol alsdann einem jeden Knecht / sein Monat
+  cs: |-
+    9. Dále kdyby se stalo, že by skrze plukovníka Jeho císařského Veličenstva atd. došlo k bitvě nebo k útoku {Sturm} na zděná města, zámky nebo městečka {Flecken} a s Boží pomocí by byly dobyty, pak má každému knechtovi jeho měsíc,
+poznamky:
+- n: 1
+  text: |-
+    „es sol sich … massen / Gott vnd seine Heiligen nicht lestern“ – „sich massen“ (zdržet se) je tu spojeno s nadbytečným záporem „nicht“; smysl je zákaz rouhání.

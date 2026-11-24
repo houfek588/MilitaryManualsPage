@@ -1,0 +1,26 @@
+id: 029r
+list: '[29] r'
+strana: recto
+sken: 61
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    darunter das erste Blat auch begriffen / passiren lassen / vnd dieselbigen 100. Vbersold / vnter die von Adel / vnd andere ehrliche Kriegsleut austheilen / doch das sie mit Wehren vnd Rüstung darnach geschickt vnd versucht sein / wie solches gebüret / denen die mit Pantzerermeln / Harnisch / Rinckkragen / Sturmhauben gerüst sein / jedem 6. fl. zur besoldung / vnd keinem zwen Sold folgen lassen / er sey denn mit Harnisch gerüst / es sol niemand keinen Buben Mustern / er sey klein oder gros Hans / denn ausgenommen Heuptleute oder Fenrich / im ersten Blat / vnd soll gut auffsehen haben / damit die Fenlein / mit guten tüchtigen Kriegesleuten besetzet sein / es soll auch bemelter vnser Commissarius vnd Muster Herr / alle Obristen vnd Heuptleute vermanen vnd befehlen / bey jhrem vntergebenen Kriegesuolck daran zu sein / vnd dahin halten / das sie jhre Wirte allenthalben zu frieden stellen / wie sichs gebüret / er soll auch Graffen / Freyherren / so vnter dem Regiment sein werden / in massen andern ehrlichen Kriegsleuten / mit ehrlicher Besoldung halten / doch keinem vber 5. oder 6. Monat Soldt passiren lassen / Ob aber ein alter ansehnlicher Heuptman were / dem mag er in die acht Soldt folgen lassen / Er sol keinen mustern / oder durch passieren lassen / der für einen Meutmacher bescholten / oder sonsten eines verdencklichen wesens sey / oder sonst hader vnd zanck suchet / auch sol er die gebunden / vnd sonderlich die Wunten cassiren vnd aus thun / Er sol fleissig auffsehen / damit keiner auff des andern Nahmen durchgehet / vnd so er jhr desgleichen innen wird / oder sonst mutung vnd argwohn hat / sol er die Hauptleute jhrer pflicht
+  cs: |-
+    a to včetně prvního listu {erste Blat}[^1], a těch 100 přeplatků {Vbersold} rozdělit mezi šlechtice {von Adel} a jiné čestné válečníky {Kriegsleut} – ovšem tak, aby byli náležitě opatřeni zbraněmi a zbrojí {Rüstung} a byli zkušení, jak se sluší. Těm, kdo jsou vyzbrojeni pancéřovými rukávy {Pantzerermeln}, zbrojí {Harnisch}, nákrčníkem {Rinckkragen} a šturmhaubou {Sturmhauben}[^2], [má dát] každému 6 zlatých žoldu; a nikomu nemá přiznat dva žoldy {Sold}, leda by byl vyzbrojen plnou zbrojí. Nikdo – ať malý, nebo velký pán[^3] – nemá dát při přehlídce zapsat žádné pachole {Buben}, vyjma hejtmanů a praporečníků {Fenrich} v prvním listu. A má dobře dohlížet, aby praporce {Fenlein} byly obsazeny dobrými a zdatnými válečníky. Také má řečený náš komisař {Commissarius}, přehlídkový komisař {Muster Herr}, napomenout všechny plukovníky {Obristen} a hejtmany {Heuptleute} a přikázat jim, aby na to u svého podřízeného válečného lidu dbali a k tomu ho vedli, aby všude uspokojili své hospodáře {Wirte}, jak se sluší. Hrabata a svobodné pány, kteří budou v pluku, má také držet jako jiné čestné válečníky při čestném žoldu, nikomu však nepřiznat víc než 5 nebo 6 měsíčních žoldů; byl-li by to však starý vážený hejtman, tomu může přiznat až osm žoldů. Nemá zapsat ani nechat projít nikoho, kdo má pověst vzbouřence {Meutmacher}, nebo je jinak podezřelého chování, nebo jinak vyhledává svár a hádky. Také má propustit {cassiren} a vyřadit obvázané a zvláště raněné[^4]. Má pilně dohlížet, aby nikdo neprošel na jméno někoho jiného; a zjistí-li něco takového nebo má-li jinak domněnku a podezření, má hejtmanům připomenout jejich povinnost
+poznamky:
+- n: 1
+  text: |-
+    „das erste Blat“ (prima plana) – první list přehlídkového rejstříku praporce, na němž byli zapsáni hejtman, poručík, praporečník, šikovatelé a další úředníci s vyšším žoldem; přeplatky pro ně se počítaly do týchž 100 přeplatků praporce.
+- n: 2
+  text: |-
+    Lehčí výstroj (pancéřové rukávy, nákrčník, šturmhauba) zakládá nárok na 6 zlatých, tj. 1½ žoldu; plná zbroj (Harnisch) na dva žoldy (8 zl.).
+- n: 3
+  text: |-
+    „er sey klein oder gros Hans“ – úsloví: ať je to kdokoli, prostý nebo vznešený („velký Hans“ = velký pán).
+- n: 4
+  text: |-
+    „die gebunden / vnd sonderlich die Wunten“ – sazba zřetelná, smysl nejistý: snad „obvázané“ (s nezhojenými zraněními) a zvláště „raněné“.

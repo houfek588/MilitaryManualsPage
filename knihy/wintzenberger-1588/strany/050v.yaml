@@ -1,0 +1,41 @@
+id: 050v
+list: '[50] v'
+strana: verso
+sken: 104
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    versamlet / vnd wil jhnen das Reht geben / das böse zu straffen / mit den langen Spiessen. So sol der oberste Feldheuptman (den der Fürst oder Herr auffwirfft) lassen vmbschlahen / gemein zu halten / auff einen morgen / vnd jhnen lassen vorhalten / bey einer öffentlichen Gemeine / was für Recht man mit jhnen füren vnd brauchen wird / vnd jhnen anzeigen / das sich ein jeder vor schaden wölle hůten / denn es mus da einer den andern straffen / Darauff sol er den Artickels Brieff vorlesen lassen / was das Recht innhelt oder vermag / das sich ein jeder wisse dafür zu hůten / darauff sol gemacht werden / solches Recht zu stercken vnd hand zuhaben.
+  cs: |-
+    shromáždí a chce jim dát právo trestat zlo dlouhými píkami {langen Spiessen}, má nejvyšší polní hejtman {oberste Feldheuptman} (kterého kníže nebo pán ustanoví) dát vybubnovat, že se jednoho rána sejde obec {gemein}. Na veřejném shromáždění obce jim má dát předložit, jaké právo se s nimi bude vést a užívat, a oznámit jim, aby se každý vystříhal škody, neboť tu musí jeden trestat druhého. Nato má dát přečíst artikulní list {Artickels Brieff}, co právo obsahuje a co zmůže, aby každý věděl, čeho se má vystříhat. Nato má být [složena přísaha][^1], že toto právo budou posilovat a zachovávat.
+- typ: nadpis
+  uroven: 3
+  de: '2.'
+  cs: '2.'
+- typ: odstavec
+  de: |-
+    Zum andern / so sollen sie einhellig einen Eyd schweren / in Gott vnd allen seinen Heiligen / Gros oder Kleinhans / ob einer oder mehr wider solche Artickel thun wůrden / das der oder dieselbigen sollen gestraffet werden / damit / vnangesehen Freundschafft oder Gesipschafft / Gunst / Gabe noch Gut / auch nicht zu rechnen alten Neidt oder Has.
+  cs: |-
+    Za druhé mají jednomyslně přísahat {Eyd schweren} při Bohu a všech jeho svatých, ať velký, či malý {Gros oder Kleinhans}[^2]: kdyby jeden nebo více jednali proti těmto artikulům, že ten nebo ti mají být tím [právem] potrestáni bez ohledu na přátelství či příbuzenství, přízeň, dar nebo statek, a také bez ohledu na starou závist či nenávist.
+- typ: odstavec
+  de: |-
+    Sondern richten / da die Rechte ein Vrtheil fellen / als sie alle wolten / als Christus der HErr jhnen thun wolte / am Jüngsten Gerichte / wenn er wird richten die 12. Geschlechte Jsrahel.
+  cs: |-
+    Nýbrž mají soudit, když se vynáší rozsudek, tak, jak by si všichni přáli, aby s nimi naložil Kristus Pán na Posledním soudu, až bude soudit 12 pokolení izraelských.
+- typ: nadpis
+  uroven: 3
+  de: '3.'
+  cs: '3.'
+- typ: odstavec
+  de: |-
+    Zum dritten / so auch einer oder mehr gefunden / die wider den Artickel vnbillich gehandelt
+  cs: |-
+    Za třetí: najde-li se jeden nebo více takových, kdo by bezprávně jednali proti artikulu,
+poznamky:
+- n: 1
+  text: „darauff sol gemacht werden / solches Recht zu stercken vnd hand zuhaben“ – věta je v tisku eliptická (chybí podmět); podle bodu 2 se míní přísaha obce, že bude toto právo zachovávat.
+- n: 2
+  text: „Gros oder Kleinhans“ – „velký nebo malý Hans“, ustálené rčení pro vysoce i nízko postavené; viz i oslovení obce na následující straně („GrosHans vnd KleinHans“). V tisku také „Reht“ (za „Recht“) – ponecháno.

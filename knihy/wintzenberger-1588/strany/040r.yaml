@@ -1,0 +1,19 @@
+id: 040r
+list: '[40] r'
+strana: recto
+sken: 83
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Folget die Schiffordnung / so man dem Deudschen Kriegsuolck vorgehalten.
+  cs: Následuje lodní řád {Schiffordnung}, který byl předložen německému válečnému lidu.
+- typ: obrazek
+  soubor: drevorez-83.jpg
+  popis: Nalodění vojska a zásob. U dřevěného mola kotví loď s napjatou plachtou, na níž jsou dva šikmé (ondřejské, burgundské) kříže; na palubě se tísní lidé a veslaři zabírají vesly. Vlevo nahoře přijíždí vůz naložený pytli, vpravo na břehu stojí zástup mužů a žen se sudy, pytli, koši a džbány – zásobami na plavbu.
+- typ: odstavec
+  de: |-
+    DIeweil jhr semptlichen Römischer Keyserlichen Mayestadt / vnserm aller Gnedigsten Herren geschworen habt / auff den Artickelsbrieff vnd innhaldt vnser Bestallung / vns zu brauchen / es sey zu Wasser oder Land / vnd wie wir jetzund des fürnemen seind / zu Schieff zu gehen / erfordert die Notdurfft / das wir Schieffordnung dem alten brauch nach halten / das vermag alten brauch nach / wie folget.
+  cs: |-
+    Poněvadž jste vy všichni přísahali Římskému císařskému Veličenstvu, našemu nejmilostivějšímu pánu, podle artikulního listu {Artickelsbrieff} a obsahu našeho služebního listu {Bestallung}, že se dáme použít, ať na vodě, nebo na zemi, a poněvadž se nyní chystáme nalodit, vyžaduje potřeba, abychom podle starého zvyku zachovávali lodní řád. Ten podle starého zvyku obsahuje, co následuje.

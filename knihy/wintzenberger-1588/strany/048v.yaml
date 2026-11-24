@@ -1,0 +1,53 @@
+id: 048v
+list: '[48] v'
+strana: verso
+sken: 100
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: '6.'
+  cs: '6.'
+- typ: odstavec
+  de: |-
+    Zum sechsten / Jch verbanne das Recht / vnd spanne die Banck / von wegen der langen Spiesse.
+  cs: |-
+    Za šesté: zahajuji soud {verbanne das Recht} a napínám lavici {spanne die Banck} jménem dlouhých pík {langen Spiesse}[^1].
+- typ: odstavec
+  de: |-
+    Darnach spricht der Schultheis / Wer da zu schaffen hat / vor dem Gerichte / der zeige es an / jhme sol widerfahren / was recht ist. Jch frage dich auch Gerichtswebel / ob du hast jemands geboten / bey rechter zeit vnd weile / nach Ordnung des Rechten.
+  cs: |-
+    Potom praví rychtář {Schultheis}: „Kdo má před soudem nějakou věc, ať to oznámí; stane se mu, co je po právu. Ptám se také tebe, soudní šikovateli {Gerichtswebel}, předvolal-li jsi někoho v pravý čas a chvíli podle řádu práva.“
+- typ: nadpis
+  uroven: 3
+  de: Antwort.
+  cs: Odpověď.
+- typ: odstavec
+  de: |-
+    Ja Herr Schultheis. So wird gefragt: Profos / habt jhr etwas zu schaffen vor dem Gericht / zeiget es an / euch sol widerfahren was recht ist.
+  cs: |-
+    „Ano, pane rychtáři.“ Nato se táže: „Profouse {Profos}, máte-li před soudem nějakou věc, oznamte to; stane se vám, co je po právu.“
+- typ: odstavec
+  de: |-
+    Darnach sol der Profos in die Banck treten / vnd sprechen: Herr Schultheis / wollet jhr mir erleuben einen guten Gesellen / der da mein Wort thut.
+  cs: |-
+    Nato má profous předstoupit k lavici a říci: „Pane rychtáři, dovolte mi dobrého druha {guten Gesellen}, který by za mě vedl řeč.“
+- typ: odstavec
+  de: |-
+    Spricht der Schultheis: Es sey euch erleubet / so weit als Recht ist. Darnach sol der Profos einen guten Gesellen bitten / das er wolle auffstehen / vnd jhme sein Wort thun.
+  cs: |-
+    Rychtář praví: „Budiž vám dovoleno, pokud je to po právu.“ Potom má profous požádat některého dobrého druha, aby vstal a vedl za něho řeč.
+- typ: odstavec
+  de: |-
+    Sol derselbige sprechen: Herr Schultheis / wollet jhr mir erleuben auffzustehen. So spricht der Schultheis: Es sey dir erleubet / als weit als recht ist. Als demnach sol er vor die Banck treten / vnd sagen: Herr Schultheis / vnd ein Erbar Gericht / wollet jhr mir erleuben dem Profosen sein Wort zu reden.
+  cs: |-
+    Ten má říci: „Pane rychtáři, dovolte mi vstát.“ Rychtář praví: „Budiž ti dovoleno, pokud je to po právu.“ Potom má předstoupit před lavici a říci: „Pane rychtáři a ctihodný soude, dovolte mi vést řeč za profouse.“
+- typ: odstavec
+  de: |-
+    So spricht der Schultheis: Es sey dir erleubet / so weit als recht ist. So hebet der gute Gesel an vnd spricht: Herr Schultheis / vnd ein Erbars
+  cs: |-
+    Rychtář praví: „Budiž ti dovoleno, pokud je to po právu.“ Dobrý druh tedy začne a praví: „Pane rychtáři a ctihodný
+poznamky:
+- n: 1
+  text: Šestým zahájením se soud otevírá i „jménem dlouhých pík“, tj. jménem obce pikenýrů, jejíž vlastní soud (právo dlouhých pík) popisuje text od [[050r|listu 50 r]] dále.

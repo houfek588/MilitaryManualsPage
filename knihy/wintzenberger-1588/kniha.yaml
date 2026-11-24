@@ -1,0 +1,57 @@
+id: wintzenberger-1588
+nazev: Popis válečného řádu
+nazev_orig: Beschreibung einer Kriegs-Ordnung, zu Roß vnd Fueß, sampt der Artalerey vnd zugehörigen Munition
+podtitul: von einem Wolgebornen Edlen Herren vnd wolerfahrnen Obristen, welcher seinen trewen Rath etlichen hohen Potentaten, so ihn darumb ersucht, schrifftlich mitgeteilet …
+autor: Daniel Wintzenberger
+autor_razeni: 'Wintzenberger, Daniel'   # klíč abecedního řazení v Knihovně (příjmení, jméno)
+autor_zivot: 2. polovina 16. stol., kurfiřtský saský dvorní úředník
+vydani: Drážďany, Gimel Bergen, 1588
+rok: 1588
+katalog: VD16 W 3555
+rozsah: '[56] listů, 4°'
+jazyk_orig: raná nová horní němčina (východostředoněmecká)
+popis: >-
+  Rady zkušeného plukovníka k vedení války, vydané kurfiřtským saským úředníkem Danielem Wintzenbergerem: válečná
+  rada, úřady, pochodový a bitevní řád jízdy, pěchoty a dělostřelectva, ležení a obrana města; ve druhé části
+  služební list Karla V., artikulní list, lodní řád a hrdelní právo dlouhých pík.
+prekladatel: Přepis z OCR a překlad s pomocí LLM, 2026.
+strankovani: folio
+strany_poznamka: >-
+  Tisk není foliován (jen signatury archů); edice čísluje listy v hranatých závorkách [1]–[56]: titulní list = [1] r
+  (sken 5), text končí tiráží na [55] v (sken 114) a básní na [56] r (sken 115). V digitalizaci BSB jsou na místě
+  stran [14] v a [15] r (skeny 32–33) omylem znovu nasnímány strany [30] v a [31] r (skeny 64–65; shodné okrajové
+  značky i signatura H iij) – pokračování první části mezi skeny 31 a 34 v digitalizaci chybí.
+zdroj_textu: 'Německý text je přepsán podle digitalizace Bayerische Staatsbibliothek München (Sc.mil. 233 b, bsb00032546) z OCR s opravenými chybami podle skenu;'
+
+sken:
+  instituce: Bayerische Staatsbibliothek München
+  kratce: BSB
+  portal: digitale-sammlungen.de
+  paticka: 'Sken: Bayerische Staatsbibliothek München (Public Domain Mark 1.0)'
+  signatura: Sc.mil. 233 b
+  id: bsb00032546
+  urn: urn:nbn:de:bvb:12-bsb00032546-8
+  url_dilo: https://www.digitale-sammlungen.de/de/view/bsb00032546
+  url_strana: https://www.digitale-sammlungen.de/de/view/bsb00032546?page={sken}
+  url_obrazek: https://api.digitale-sammlungen.de/iiif/image/v2/bsb00032546_{sken5}/full/{sirka},/0/default.jpg
+  licence: 'Public Domain Mark 1.0 (volné dílo); digitalizace: Bayerische Staatsbibliothek München'
+  poznamka: 'List [N] r = sken 2N + 3, list [N] v = sken 2N + 4. Skeny 1–4 a 116–120 jsou desky, měřítko a prázdné strany.'
+
+predsadka: [titul]
+
+poznamky_k_prekladu: |
+  ZDROJ ORIGINÁLU: OCR BSB (zdroje/ocr_bsb/NNNN.txt) – fraktura, porovnej každou stranu se skenem. Zachovej
+  pravopis tisku (vnd, Obrister, Kriegßvolck, Artalerey, Fenlein), rozepiš zkratky (vñ → vnd, ꝛc. → etc.), vynech
+  signatury archů a kustody, slovo rozdělené přes hranici stran patří celé na stranu, kde končí.
+
+  STRUKTURA: titul [1] r, verše „Eine feine Regel vnd Exempel der Alten“ [1] v, věnování Richardovi von der …,
+  obsah knihy, PRVNÍ DÍL (rady plukovníka: válečná rada, úřady, pochodový řád, ležení, bitva, obrana města),
+  DRUHÝ DÍL od [26] r (sken 55): služební list a artikulní list Karla V. pro vévodu z Alby, lodní řád (sken 83),
+  hrdelní a dlouhých pík právo (sken 85), závěr, tiráž a báseň. uroven 1 = titul, věnování, obsah, První díl,
+  Druhý díl; uroven 2 = kapitoly; uroven 3 = drobné oddíly, otázky a odpovědi soudu.
+
+  TERMINOLOGIE: glosář převzatý z edice (Solms/Ott). Závazně: Obrister / Oberster = plukovník (u vrchního velitele
+  celého vojska „vrchní velitel“), Kriegsherr = válečný pán, Zeugmeister = zbrojmistr, Büchsenmeister = puškař,
+  Artalerey = dělostřelectvo, Fenlein = praporec (u jízdy korouhev), Kriegsleute = válečníci, Regiment jako správa
+  = zřízení (jako útvar = pluk), Profos = profous, Schultheis = rychtář, Malefitzrecht = hrdelní právo,
+  langer Spieß Recht = právo dlouhých pík, Item = „Dále“.

@@ -1,0 +1,27 @@
+id: 004r
+list: '[4] r'
+strana: recto
+sken: 11
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Fusuolck/ vnd dem heiligen Reich Teutscher Nation/ wider den Erbfeind der Christenheit/ den Türcken vnd auch viel andern Feinden/ sich Mänlich vnd Ritterlich vnter Augen gestellet/ vnd nun einen rühmlichen vnd vnuergenglichen/ löblichen Nahmen von dieser Welt gebracht.
+  cs: |-
+    pěchotou {Fusuolck}, kteří se za Svatou říši národa německého mužně a rytířsky postavili tváří v tvář dědičnému nepříteli křesťanstva, Turkovi, i mnoha jiným nepřátelům a odnesli si nyní z tohoto světa slavné, nepomíjející a chvalné jméno;
+- typ: odstavec
+  de: |-
+    Vnd E. E. G. auch ein Adeliche vnd Ritterliche Person/ die sich zum Schimpff vnd Ernst wol durffen sehen lassen/ vnd auch von Gott dem Almechtigen gesegnet/ vnd vor andern etwas vermögen.
+  cs: |-
+    a jelikož i Vaše urozená Statečnost je osoba šlechtická a rytířská, která se smí dobře ukázat v kratochvíli i ve vážném boji[^1], je požehnána od Boha všemohoucího a zmůže víc než jiní,
+- typ: odstavec
+  de: |-
+    Als habe E. E. G. dis Büchlein zusondern Ehren vnd dienstlichen willen/ in druck verfertigen lassen/ vnd in derselben Adelichen vnd rühmlichen Nahmen/ Publicirt vnd Dediciret/ Der tröstlichen vnd vnzweifflichen zuuersicht/ E. E. G. werden jhr diese arbeit/ vnd meinen guten vnd wolmeinenden willen/ den ich zu E. E. G. vnd denen vom Adel/ trage vnd habe/ von mir im besten vermercken/ dehme ich auch jeder zeit mit Ehr erbietunge zu dienen gantzwillig stetts vnd bereit bin.
+  cs: |-
+    dal jsem tuto knížku Vaší urozené Statečnosti ke zvláštní poctě a z ochoty k službě vytisknout a pod Vaším šlechtickým a slavným jménem ji zveřejňuji a připisuji. Pevně a bez pochyby doufám, že Vaše urozená Statečnost přijme tuto práci i mou dobrou a dobře míněnou vůli, kterou chovám k Vaší urozené Statečnosti a ke šlechtě, ode mne v nejlepším. Jsem také kdykoli s úctou cele ochoten a vždy připraven Vám sloužit.
+poznamky:
+- n: 1
+  text: |-
+    *Zum Schimpff vnd Ernst* – ustálené spojení „v žertu i doopravdy“: *Schimpf* je zde rytířská hra, turnaj, *Ernst* skutečný boj.

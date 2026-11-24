@@ -1,0 +1,36 @@
+id: 020v
+list: '[20] v'
+strana: verso
+sken: 44
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    eylen / das jmmer eins auffs ander mit fleis zudringet / das Gegentheil aber mit vngeschickligkeit begegnet / also das jhr verlorner hauffe weit für den gewaltigen hauffen daher zeucht / wie ich denn offt gesehen habe / so wendet euch auff das eilendeste / mit allen hauffen / kegen jhren verlohrnen hauffen / so müssen sie fort aus jhren vortheil zu euch ziehen / oder müssen vor jhrem Angesicht den verlornen hauffen schlahen lassen / Wenn der verlorne hauffe in die flucht gebracht / so wird der gewaltige nicht lange stehen / durch das erschrecken vnd furcht / des ersten verlusts. Also mit solcher ordnung geschichts viel vnd offt / das kleine hauffen grosmechtige hauffen schlahen / mit solchem deutlichen anlauffen vnd vbereylen.
+  cs: |-
+    spěchat, aby [houfy] pilně tlačily vždy jeden hned za druhým. Vyjde-li vám však protivník {Gegentheil} vstříc neobratně, takže jeho ztracený houf {verlorner hauffe} táhne daleko před hlavním houfem {gewaltigen hauffen}, jak jsem to často viděl, obraťte se co nejrychleji se všemi houfy proti jeho ztracenému houfu. Pak musí buď vytáhnout ze své výhodné pozice {vortheil} k vám, anebo nechat svůj ztracený houf před svýma očima pobít. Když je ztracený houf obrácen na útěk, hlavní houf dlouho nevydrží zděšením a strachem z první ztráty. Tak se s takovým řádem mnohokrát a často stává, že malé houfy takovým rozhodným[^1] náběhem a zaskočením porážejí velmi mocné houfy.
+- typ: odstavec
+  de: |-
+    Diese Ordnung mit den Leuffern vnd anhengen / wie oben angezeiget / ist ein verborgen ding / das nicht in gemein gebraucht ist / Darumb mus man es auch zuuor nicht zu gemein machen / damit das Gegentheil nicht weise wird / vnd sich auch dargegen schicke / denn sonst hette es ein grosser hauffe einen grossen vortheil gegen einem kleinen / wenn man die verdeckten stücke nicht verborgen hielte / wie ein Fechtmeister zu thun pfleget / Damit man auff ein eyl solche Ordnung machen möge / so wil ich eine kleine anzeigung thun.
+  cs: |-
+    Tento řád s běžci {Leuffern} a připojenými oddíly {anhengen}, jak je ukázán výše, je skrytá věc, která se běžně neužívá. Proto se nesmí předem příliš rozhlašovat, aby se to protivník nedozvěděl a nepřipravil se na to; jinak by totiž velký houf měl proti malému velkou výhodu, kdyby se skryté kusy {verdeckten stücke} neudržovaly v tajnosti, jak to činívá šermířský mistr {Fechtmeister}.[^2] Aby bylo možno takový řád rychle sestavit, podám krátký návod.
+- typ: odstavec
+  de: |-
+    Last die 200. Knechte zu aller föderst / nach dem ein Fenlein vorziehen / die da Leuffer sein sollen / bey dem verlornen hauffen / darnach den verlornen hauffen / vnd darauff den gewaltigen hauffen / vnd nach dem gewaltigen hauffen die 800. Knechte / die da
+  cs: |-
+    Nechte úplně vpředu za jedním praporcem {Fenlein}[^3] táhnout těch 200 knechtů {Knechte}, kteří mají být běžci u ztraceného houfu, potom ztracený houf, za ním hlavní houf a za hlavním houfem těch 800 knechtů,[^4] kteří
+poznamky:
+- n: 1
+  text: |-
+    Tisk má „deutlichen“ (zřetelným, zjevným); smysl je spíše „rázným, rozhodným“.
+- n: 2
+  text: |-
+    Přirovnání k šermířskému mistrovi, který své tajné údery (verdeckte Stücke) neprozrazuje.
+- n: 3
+  text: |-
+    „Nach dem ein Fenlein“ (ve skenu ověřeno „nach dem“) – patrně „za jedním praporcem“, tj. těch 200 běžců táhne pod vlastním praporcem; čtení „nachdem“ (poté, co) dává horší smysl.
+- n: 4
+  text: |-
+    Čtení „800“ ověřeno ve skenu (OCR „soo“): jde o 300 běžců a 500 mužů „přikrytého pokrmu“, kteří se připojují za hlavní houf (viz [[019v|list 19 v]] – [[020r|20 r]]).

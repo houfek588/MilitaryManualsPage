@@ -1,0 +1,31 @@
+id: 021v
+list: '[21] v'
+strana: verso
+sken: 46
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Hauffen 600. Pferde / in dem andern hauffen aber 600. Pferde / inn dem dritten 300. Pferde / ( Bey den 300. Pferden soll der FeldOberste bleiben ) vnd soll die andern zwen hauffen / jeglichen in drey theil ordnen / je 200. Pferd vnter ein Fenlein / das dieselbigen nichts desto weniger neben einander halten bleiben / als wer es ein hauff / vnd das der Oberste verordene / wenn es zum treffen gehet / das ein hauffe nach dem andern treffe / vnd breitte Ordnung mache / vnd also das einer des andern im treffen felen kan / vnd das solch treffen eylende eines auff das ander geschehe / wie oben angezeigt mit den Fus Knechten / es soll sich auch ein Oberster Hauptman / wol befleissigen zuerfahren / wie starck das gegentheil mit seinem Reisigen zeug ist / vnd wenn dieselbigen mit notdurfft besatzt / so soll man die vbrigen geschwader oder hauffen auff die Fusknechte verordenen / vnd der Oberste Feldhauptman / soll mit seinem hauffen / zu aller letzt treffen / vnd an den Ortten / da er sihet / da die noth am aller grösten / vnd die Schlacht am gewinlichsten ist / vnd soll sich daran nicht kehren / das man sagen will / er sey im treffen der letzte gewest / aber die Schlacht sey geschehen / ehe er troffen hat. Das ist alles seiner geschickligkeit schuld / das er solches alles wol verordenet hat / vnd alle Ehre wirp jhme zugemessen.
+  cs: |-
+    houfu 600 koní {Pferde}, do druhého houfu rovněž 600 koní a do třetího 300 koní (u těch 300 koní má zůstat polní plukovník {FeldOberste}).[^1] Ostatní dva houfy má rozdělit, každý na tři díly, po 200 koních pod jednou korouhví {Fenlein}, tak aby přesto zůstaly stát vedle sebe, jako by to byl jeden houf. A ať vrchní velitel {Oberste} nařídí, aby se při střetnutí {treffen} srážel jeden houf za druhým a tvořil široký šik {Ordnung}, tak aby se jeden ve střetnutí obešel bez druhého,[^2] a aby taková střetnutí následovala rychle jedno za druhým, jak je výše ukázáno u pěších knechtů {Fus Knechten}. Nejvyšší hejtman {Oberster Hauptman} se má také dobře snažit zjistit, jak silný je protivník {gegentheil} svou jízdou {Reisigen zeug}; a když se proti ní postaví dostatečná síla, mají se ostatní švadrony {geschwader} či houfy určit proti pěším knechtům. Nejvyšší polní hejtman {Oberste Feldhauptman} má se svým houfem udeřit úplně naposled, a to tam, kde vidí, že je nouze největší a bitvu lze nejsnáze vyhrát. A nemá dbát na to, budou-li říkat, že ve střetnutí byl poslední a bitva se odehrála dřív, než udeřil. To vše je zásluha jeho obratnosti, že to všechno dobře nařídil, a všechna čest se přičte jemu.[^3]
+- typ: odstavec
+  de: |-
+    Will er aber den ersten Pracht haben / vnd Bawerkühne sein / also das er das erste treffen selbst thun will / so thut er als ein tummer vnuerstendiger / denn er kan nicht sehen / ob sein Volck sich also in Krieg schicke / wie er jhnen befohlen hat / vnd fehrt
+  cs: |-
+    Chce-li však mít slávu prvního útoku {Pracht} a být smělý jako sedlák {Bawerkühne},[^4] takže chce první srážku provést sám, jedná jako hloupý a nerozumný člověk. Nemůže totiž vidět, zda si jeho lid ve válce počíná tak, jak mu přikázal, a žene se
+poznamky:
+- n: 1
+  text: |-
+    „FeldOberste“ (polní plukovník), „Oberste“ (vrchní velitel), „Oberster Hauptman“ (nejvyšší hejtman) i „Oberste Feldhauptman“ (nejvyšší polní hejtman) označují v této kapitole tutéž osobu – vrchního velitele, který si ponechává třetí, nejmenší houf jízdy jako zálohu.
+- n: 2
+  text: |-
+    „Das einer des andern im treffen felen kan“ – nejisté; patrně „aby jeden houf mohl ve srážce postrádat druhého“, tj. aby houfy nebyly na sobě závislé a nepřekážely si.
+- n: 3
+  text: |-
+    V tisku chybně „wirp“ místo „wird“.
+- n: 4
+  text: |-
+    „Bawerkühne“ – doslova „sedlácky smělý“, tj. neuváženě, hrubě odvážný.

@@ -1,0 +1,24 @@
+id: 023v
+list: '[23] v'
+strana: verso
+sken: 50
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Wenn jhr auff den Zügen seid / so sehet das jhr ewer Nachtleger nemet / da jhr Wasser vnd Fewer haben möget / desgleichen Futter vnd Profiant / nach gelegenheit / als viel als möglich ist / das jhr ewer Volck vnd Rosse nicht matt vnd vnwillig machet / vnd wo jhrs gehaben köndt / so solt jhr euch nider schlahen an Wasser vnd Holtz / das jhr auff einer seiten für den Feinden frey liget / vnd jhr solt nichts verachten / dann das vberfallen in den Lägern hat manchen in schimpff vnd schande gebracht / darumb lieget viel an fleissigen vnd nüchtern Leuten / die da jhre Wache Tag vnd Nacht wol versorgen vnd halten / denn man mit kleinem Volck kan grossen schaden thun / durch vnachtsamkeit / vnd trunckene Hauptleute. Dann der Krieg wil Tag vnd Nacht auffsehen haben / vnd viel gute kundschafft haben / das man das Volck durch angeben besser kundschafft nicht abgeschleifft / vnd müde gemacht werde / Es kömpt auch ein Oberster leichtlich in vnglauben / das jhm das Volck vngehorsam wird / wenn er sie auff böse kundschafft viel vmbschleufft / vnd denn nichts ausrichtet.
+  cs: |-
+    Když jste na tažení {Zügen}, hleďte si brát noční ležení {Nachtleger} tam, kde můžete mít vodu a oheň, a stejně tak píci a proviant {Profiant}, podle příležitosti, kolik jen je možné, abyste svůj lid a koně neunavili a neznechutili. A kde to jde, máte se utábořit u vody a dříví tak, abyste z jedné strany leželi chráněni před nepřítelem. A nic nepodceňujte, neboť přepadení v ležení {Lägern} už mnohého přivedlo k potupě a hanbě. Proto mnoho záleží na pilných a střízlivých lidech, kteří ve dne i v noci dobře obstarávají a drží svou stráž {Wache}; neboť pro nedbalost a opilé hejtmany {Hauptleute} může i malý lid způsobit velikou škodu. Válka totiž vyžaduje bdělost ve dne i v noci a mnoho dobrých zpráv {kundschafft}, aby lid nebyl kvůli udaným špatným[^1] zprávám uháněn a unavován. Také vrchní velitel {Oberster} snadno pozbude důvěry a lid mu přestane být poslušný, když jej na základě špatných zpráv mnoho honí sem a tam a pak nic nepořídí.
+- typ: odstavec
+  de: |-
+    Derhalben mus ein oberster Hauptman tag vnd nacht sorge tragen / vnd andere Leut neben sich ziehen / die der sachen verstand haben / die jhme solche mühe vnd sorge tragen helffen / dann jhm ist es allein nicht müglich / Es were noch wol viel ander anzeigung zu thun / man kan nicht alles in die Feder bringen / Darumb nemet mit diesem vor gut / auff dis mal / mit schaden vnd frommen müst jhr auch selber etwas lernen / oder weise werden.
+  cs: |-
+    Proto musí nejvyšší hejtman {oberster Hauptman}[^2] ve dne i v noci pečovat a přibrat si k sobě další lidi, kteří se ve věci vyznají a kteří mu takovou námahu a péči pomohou nést, neboť sám to nedokáže. Dalo by se ještě dát mnoho dalších pokynů, ale všechno nelze svěřit peru. Proto se tentokrát spokojte s tímto; ze škody i z užitku se musíte také sami něčemu naučit čili zmoudřet.
+poznamky:
+- n: 1
+  text: |-
+    „durch angeben besser kundschafft“ – tisk zřetelně „besser“ (lepší); smysl i hned následující „auff böse kundschafft“ žádají „böser“ (špatných, falešných). Tisková chyba, překládáno podle smyslu.
+- n: 2
+  text: |-
+    „oberster Hauptman“ – zde vrchní velitel vojska, jemuž je určen celý návod (výše „Oberster“).

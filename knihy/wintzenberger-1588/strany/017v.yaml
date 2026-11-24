@@ -1,0 +1,40 @@
+id: 017v
+list: '[17] v'
+strana: verso
+sken: 38
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Büchssenmeister kan / damit die Büchssen nicht verwarloset werden / als denn offt geschehen ist.
+  cs: |-
+    puškař {Büchssenmeister} umí, aby se děla {Büchssen} nezanedbávala, jak se často stávalo.
+- typ: odstavec
+  de: |-
+    Mehr mercket vnd trachtet / was grossen vnkosten darauff gehet / auff einen solchen zug / nur ein Monat / auff den Fuszeug / auff den Reisigen zeug / sonder alle Hauptleute / Fendrich / Doppelsöldner / mit aller zugehörung.
+  cs: |-
+    Dále si povšimněte a uvažte, jak velké náklady padnou na takové tažení {zug} jen za jeden měsíc – na pěchotu {Fuszeug} a na jízdu {Reisigen zeug}, nepočítaje všechny hejtmany {Hauptleute}, praporečníky {Fendrich} a dvojžoldnéře {Doppelsöldner} se vším příslušenstvím.[^1]
+- typ: odstavec
+  de: |-
+    Weiter bedencket den Zeugmeister / mit allen Büchssenmeistern / vnd jhren Helffern / vnd die darzu gehören / was derselben kosten ist.
+  cs: |-
+    Dále uvažte, jaké jsou náklady na zbrojmistra {Zeugmeister} se všemi puškaři, jejich pomocníky {Helffern} a s tím, co k nim patří.
+- typ: odstavec
+  de: |-
+    Ich mus noch eins setzen / das möget jhr wol bedencken / wann jhr wollet vor ein Schlos ziehen / oder für eine Besatzunge / ehe jhr anhebet zu schiessen / das jhr das beste Geschütz zusammen richtet / so fern es möglich ist vnd sein mag / vnd das kleine Geschütz auff die Wehre richtet / daraus man euch den schaden thun möchte / dasselbige jhnen zu wehren.
+  cs: |-
+    Musím uvést ještě jednu věc, kterou dobře uvažte: když chcete táhnout před hrad nebo před obsazené místo {Besatzunge}, zamiřte dříve, než začnete střílet, nejlepší děla {Geschütz} společně [na jedno místo], pokud je to jen možné, a malá děla zamiřte na obranná místa {Wehre}, odkud by vám mohli škodit, abyste jim v tom zabránili.
+- typ: odstavec
+  de: |-
+    Item / nicht das jhr einen jeden / der da hin vnd her leufft / in der Besatzung demselben zuschiessen wolt / vnd den Zeug vmb sonst verschiessen / wenn jhr das nicht wehret / so werdet jhr nicht viel ausrichten / es were denn sach / das man auff euch schiessen wolt / mit Hauptstücken / oder andern kleinen Geschütz / so möget jhr ewer klein Geschütz auff dieselben richten / oder wenn sie ausfallen wolten / das das Geschütz in der nidern bleibe / auff dieselbigen zu richten / denn es mir selbest widerfahren ist / bey dem Geschütz / durch verwarlosen meiner Obern / so sie hin vnd her gelauffen seind / vns darzu gereitzt
+  cs: |-
+    Dále nestřílejte na každého, kdo v obsazeném místě pobíhá sem a tam, a neplýtvejte zbytečně střelivem {Zeug}.[^2] Nezabráníte-li tomu, mnoho nesvedete; ledaže by na vás chtěli střílet z hlavních děl {Hauptstücken} nebo z jiných malých děl – pak můžete svá malá děla zamířit na ně –, anebo kdyby chtěli učinit výpad; [pak ať] děla zůstanou zamířena nízko, aby mířila na ně. Mně samému se totiž u děl stalo, že nás z nedbalosti mých představených {Obern}, když [nepřátelé] pobíhali sem a tam, k tomu vyprovokovali,
+poznamky:
+- n: 1
+  text: |-
+    „Sonder“ tu patrně ve smyslu „ohne“ (bez, nepočítaje); lze číst i „a zvlášť [náklady na] všechny hejtmany …“.
+- n: 2
+  text: |-
+    „Zeug“ zde ve smyslu prachu a koulí (střeliva).

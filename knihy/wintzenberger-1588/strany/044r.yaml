@@ -1,0 +1,37 @@
+id: 044r
+list: '[44] r'
+strana: recto
+sken: 91
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Nun folget das Malefitz Recht.
+  cs: Nyní následuje hrdelní právo {Malefitz Recht}.
+- typ: odstavec
+  de: |-
+    ERstlich sol der Schultheis lassen vmbschlagen / allen Hauptleuten / allen Fendrichen / allen Feltwebeln / allen Fuhrirern / vnd allen den jenigen / die zum Rechten beschrieben / die sollen kommen vmb 8. vhr / vor Mittage / vor des Schultheissen Losament / vnd ob einer oder mehr wehren / die mit einander zu schaffen hetten / die sollen einander gebieten lassen / bey dem Gerichtswebel bey Sonnenschein / nach Ordnung des Rechten / wenn nun dieselbigen zusammen kommen / so sol jhme der Schultheis heraus nemen / was in den Rechten sitzen sol / oder jhnen anzeigen / das sie sich vertragen / nemlich 12. Personen denn so viel alter Kriegsleute dar sind / sampt den Befehlshabern / das jhrer 24. Personen werden / der Oberste aber sol beneben dem Schultheissen sitzen / von wegen des Herren.
+  cs: |-
+    Předně má rychtář {Schultheis} dát bubnem vyhlásit {vmbschlagen} všem hejtmanům {Hauptleuten}, všem praporečníkům {Fendrichen}, všem šikovatelům {Feltwebeln}, všem furýrům {Fuhrirern} a všem, kdo jsou k soudu {Rechten} obesláni, aby přišli v 8 hodin před polednem před rychtářovo ubytování {Losament}. A jsou-li jeden nebo více takových, kdo spolu mají nějakou při, mají se navzájem dát předvolat skrze soudního šikovatele {Gerichtswebel}, a to za denního světla[^1] podle soudního řádu. Když se pak sejdou, má si rychtář vybrat ty, kdo mají zasedat u soudu, nebo jim [stranám] oznámit, aby se smířili. [Vybere] totiž 12 osob ze starých válečníků {Kriegsleute}, kolik jich tam je, a k nim velitele {Befehlshabern}, takže jich bude 24[^2]. Plukovník {Oberste} však má sedět vedle rychtáře jménem pána {Herren}[^3].
+- typ: odstavec
+  de: |-
+    Darnach sol der Schultheis dem minsten denn denn geboten vnd bedrawen / das sie die Banck nicht anrüren / sondern alleine so weit dauon stehen / das der Gerichtswebel vmbgang haben mag / bey auffgesetzter Peen.
+  cs: |-
+    Potom má rychtář všem přítomným[^4] přikázat a pohrozit, aby se nedotýkali soudní lavice {Banck}, nýbrž aby stáli jen tak daleko od ní, aby soudní šikovatel mohl kolem obcházet, pod stanovenou pokutou {Peen}.
+- typ: odstavec
+  de: |-
+    Es sol auch niemand im Rechte sitzen / mit einem Ringkragen / es sey denn / er habe die Tagewache / es sol auch niemand mit seiner langen Wehre
+  cs: |-
+    Také nikdo nemá zasedat u soudu s nákrčníkem {Ringkragen}[^5], leda by měl denní stráž {Tagewache}; také nikdo nemá se svou dlouhou zbraní {langen Wehre}
+poznamky:
+- n: 1
+  text: „bey Sonnenschein“ – soudní úkony se podle starého práva směly konat jen za denního světla („bei scheinender Sonne“).
+- n: 2
+  text: „12. Personen denn so viel alter Kriegsleute dar sind“ – místo je nejasné; nejspíš 12 starých válečníků (přísedících, srov. čl. 2 na [[041v|straně 041v]]) a 12 velitelů dohromady tvoří 24 soudců.
+- n: 3
+  text: „von wegen des Herren“ – jako zástupce válečného pána, v jehož jménu se soud koná.
+- n: 4
+  text: V tisku „dem minsten denn denn“ – porušené místo (zdvojené „denn“). Snad zkomolená formule „dem mindesten als dem meisten“ (nejmenšímu jako největšímu, tj. všem bez rozdílu), nebo „dem Vmbstand“ (okolostojícím). Smysl je v obou případech týž.
+- n: 5
+  text: Nákrčník byl odznakem služby ve zbroji; u soudu se zasedalo bez něj, výjimku měl jen ten, kdo právě držel denní stráž.

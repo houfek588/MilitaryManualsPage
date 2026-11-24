@@ -1,0 +1,90 @@
+id: 007v
+list: '[7] v'
+strana: verso
+sken: 18
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - 'Vnd das der Krieg gros schaden thue/'
+  - 'Auch alles vnglück füge zu/'
+  - 'Thut er zwo Stedt vns mahlen fein/'
+  - 'Die beyde schön vnd lustig sein/'
+  - 'In einer man viel Hochzeit macht/'
+  - 'Springt/ tantzt/ isset/ trinckt/ singt vnd lacht/'
+  - 'Vnd allenthalben frölich walt/'
+  - 'Das in der gantzen Stadt erschaldt.'
+  - 'Die ander ist belagert sehr/'
+  - 'Von Krieg mit einem grossem Heer/'
+  - 'Da man thut brennen/ stürmen/ schlagen/'
+  - 'Das sie darinne gantz verzagen/'
+  - 'Vnd sich dem Feind also ergeben/'
+  - 'Auff das sie retten nur das leben.'
+  - 'Das Gut geht allzumahl dahin/'
+  - 'Denn wirfft man jhn die Mawren ein/'
+  - 'Vnd zündet jhn die Heuser an/'
+  - 'Das sie blos müssen gehn daruon/'
+  - 'Welchs man denn jetzund mercken wol/'
+  - 'Vnd stets nach frieden trachten sol.'
+  cs:
+  - 'a jak velkou škodu působí válka'
+  - 'a jaké neštěstí přináší,'
+  - 'namaluje nám pěkně dvě města,'
+  - 'obě krásná a veselá.'
+  - 'V jednom se slaví mnoho svateb,'
+  - 'skáče se, tančí, jí, pije, zpívá a směje,'
+  - 'všude vládne radost,'
+  - 'až se to rozléhá celým městem.'
+  - 'Druhé je tvrdě obleženo'
+  - 'válkou s velkým vojskem;'
+  - 'pálí se tam, útočí, bije,'
+  - 'takže ti uvnitř docela ztrácejí odvahu'
+  - 'a vzdávají se nepříteli,'
+  - 'jen aby si zachránili život.'
+  - 'Všechen majetek přijde nazmar,'
+  - 'pak jim strhnou hradby'
+  - 'a zapálí domy,'
+  - 'takže musejí odejít s prázdnou.'
+  - 'To si má člověk nyní dobře zapamatovat'
+  - 'a vždy usilovat o mír.'
+- typ: nadpis
+  uroven: 3
+  de: Der Poet Virgilius schreibet.
+  cs: Básník Vergilius píše
+- typ: verse
+  de:
+  - 'Nulla salus bello, pacem te poscimus omnes, Das ist:'
+  - 'Kein heil im Krieg auff dieser Welt/'
+  - 'Der Frieden vns viel bas gefelt.'
+  cs:
+  - '„Nulla salus bello, pacem te poscimus omnes“[^1] [Ve válce není spásy, všichni tě prosíme o mír], to jest:'
+  - 'Ve válce na tomto světě není spásy,'
+  - 'mír se nám líbí mnohem víc.'
+- typ: nadpis
+  uroven: 3
+  de: Ferner saget er.
+  cs: Dále praví
+- typ: verse
+  de:
+  - 'Dulce bellum in expertis.'
+  - 'Der Krieg ist recht den Vnerfahrnen.'
+  - 'Es ist nichts schedlichers als Krieg/'
+  - 'Vnd nichts tröstlicher als der fried.'
+  cs:
+  - '„Dulce bellum inexpertis“[^2] [Válka je sladká těm, kdo ji nezkusili].'
+  - 'Válka se líbí jen nezkušeným.'
+  - 'Nic není škodlivějšího než válka'
+  - 'a nic útěšnějšího než mír.'
+- typ: nadpis
+  uroven: 3
+  de: Ferner saget Virgilius.
+  cs: Dále praví Vergilius
+poznamky:
+- n: 1
+  text: |-
+    Vergilius, Aeneis XI, 362 (řeč Drancova k Turnovi).
+- n: 2
+  text: |-
+    Tisk má *in expertis* (rozděleno), správně *inexpertis*. Nejde o Vergilia, ale o antické přísloví (Pindaros, Vegetius), proslulé Erasmovým adagiem *Dulce bellum inexpertis* (1515).

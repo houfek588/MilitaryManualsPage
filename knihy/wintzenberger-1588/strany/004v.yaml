@@ -1,0 +1,21 @@
+id: 004v
+list: '[4] v'
+strana: verso
+sken: 12
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Thue hiermit E. E. G. vnd derselben gantzes rühmlich Geschlecht/ auch aller seits Bludtsfreundtschafft/ in Gottes gnedigen schutz an Leib Seel/ Gut vnd Ehre befehlen. Datum Dreßden dis 1588. Jares/ Mense Martij.
+  cs: |-
+    Tímto poroučím Vaši urozenou Statečnost i celý Váš slavný rod a všechny pokrevní příbuzné na všech stranách do milostivé ochrany Boží na těle i duši, statku i cti. Dáno v Drážďanech tohoto roku 1588, v měsíci březnu.
+- typ: odstavec
+  de: |-
+    E. E. G. Williger vnd gehorsamer Diener allezeit Daniel Wintzenberger.
+  cs: |-
+    Vaší urozené Statečnosti vždy ochotný a poslušný služebník Daniel Wintzenberger.
+- typ: obrazek
+  soubor: drevorez-12.jpg
+  popis: |-
+    Oválná ozdobná vinětka: propletené pásky tvořící hvězdicový uzel, vyplněné rostlinnými rozvilinami a liliemi (tisková ozdoba na konci věnování).

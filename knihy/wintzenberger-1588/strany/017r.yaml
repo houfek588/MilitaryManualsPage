@@ -1,0 +1,39 @@
+id: 017r
+list: '[17] r'
+strana: recto
+sken: 37
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Auff den gewaltigen hauffen das Puluer / die Kugeln / vnd die gantze Munition / die Profiantwägen / vnd was darzu gehört / darauff den Dros / den faulen hauffen / vnd darauff der reisige Zeug.
+  cs: |-
+    Za hlavním houfem {gewaltigen hauffen} [jede] prach, koule a celá munice {Munition}, proviantní vozy {Profiantwägen} a co k nim patří, za nimi trén {Dros}, líný houf {faulen hauffen} a za ním jízda {reisige Zeug}.
+- typ: odstavec
+  de: |-
+    Mehr ist mein anschlag also / wenn jhr euch vor eine Stadt oder Schlos laget / so sol sich dann ein Zeugmeister wol bedencken / vnd wol vmbschawen / wie er den fürschlag annemen wil / das er oder die Büchssenmeister nicht schaden oder schand einlegen / vnd grosser schade möcht geschehen / vnd schaw eben auff / wo er der Besatzung zu dem besten ein abbruch thun möchte.
+  cs: |-
+    Dále mám tento návrh {anschlag}: když se položíte {laget} před město nebo hrad, má se zbrojmistr {Zeugmeister} dobře rozmyslet a dobře rozhlédnout, jak chce věc pojmout,[^1] aby on ani puškaři {Büchssenmeister} neutrpěli škodu nebo hanbu a nestala se velká škoda; a ať dobře hledí, kde by mohl posádce {Besatzung} co nejvíce uškodit.
+- typ: odstavec
+  de: |-
+    Es ist mein raht / wo ein böse Läger were / vor einer besatzung / das man für dem Geschütz müste in grossen sorgen stehen / das es nicht vberfallen würde / So ist mein Raht / das jhr lange Seil nemet / vnd Eyserne Ketten / an die Büchssen macht / damit man sie möcht daruon bringen / ob ein aufflauff geschehe / als denn offt geschehen ist / damit das nichts verwarlost werde.
+  cs: |-
+    Radím také: kdyby bylo ležení {Läger} před obsazeným místem ve špatné poloze, takže by se člověk musel o děla velmi obávat, aby nebyla přepadena, pak je mou radou, abyste vzali dlouhá lana a železné řetězy a připevnili je k dělům {Büchssen}, aby se dala odvléct, kdyby došlo k výpadu {aufflauff}, jak se často stalo, a aby se nic nezanedbalo.
+- typ: odstavec
+  de: |-
+    Es sol ein Zeugmeister wissen / wie die Schantzkörbe seind / damit er die Büchssenmeister mag desto sicherer brauchen / darnach dann die gelegenheit ist / vnd mit einem Schantzmeister / der darzu geschicket ist.
+  cs: |-
+    Zbrojmistr má vědět, jak je to se šancovními koši {Schantzkörbe},[^2] aby mohl puškaře nasadit tím bezpečněji podle toho, jaké jsou místní poměry, a to spolu se šancmistrem {Schantzmeister}, který je k tomu zručný.
+- typ: odstavec
+  de: |-
+    Mehr ist mein raht / das man niemand in die Schantz las gehen / der nicht darein gehöret / damit die Büchssenmeister desto bas verwaret sein / Ein Zeugmeister sol erkennen / was ein jeglicher
+  cs: |-
+    Dále radím, aby se do šance {Schantz} nepouštěl nikdo, kdo tam nepatří, aby byli puškaři tím lépe chráněni. Zbrojmistr má znát, co který
+poznamky:
+- n: 1
+  text: |-
+    „Den fürschlag annemen“ – doslova „jak chce přijmout (pojmout) návrh“, tj. jak hodlá rozvrhnout postavení děl a vést ostřelování.
+- n: 2
+  text: |-
+    Doslova „jaké jsou šancovní koše“ – tj. jak se stavějí a rozestavují jako kryt pro děla a obsluhu.

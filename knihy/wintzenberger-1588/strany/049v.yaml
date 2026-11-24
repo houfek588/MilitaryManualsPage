@@ -1,0 +1,56 @@
+id: 049v
+list: '[49] v'
+strana: verso
+sken: 102
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Sprach begeren / einen vmb den andern / wie solches ein alt herkommen ist.
+  cs: |-
+    rozmluvu, jednu po druhé, jak je to starý obyčej.
+- typ: odstavec
+  de: |-
+    Des Profosen Vorsprecher hebet an / vnd bittet vmb vorleub auffzustehen / vnd jhme seine weiter rede / So gehet der Profos mit seinem Vorsprecher auff einen orth / vnd zeiget an / was der gute Geselle wider den Artickel gethan habe.
+  cs: |-
+    Profousův řečník {Vorsprecher} začne a prosí o dovolení vstát a [vést] za něho další řeč. Profous {Profos} pak jde se svým řečníkem stranou a oznámí mu, čeho se dobrý druh {gute Geselle}[^1] dopustil proti artikulu {Artickel}.
+- typ: odstavec
+  de: |-
+    Des Profosen Vorsprecher vor die Banck / vnd spricht: Wollet jhr mich hören / Herr Schultheis / von wegen des Profosen.
+  cs: |-
+    Profousův řečník [předstoupí] před lavici a praví: „Vyslechněte mě, pane rychtáři {Schultheis}, jménem profousovým.“
+- typ: odstavec
+  de: 'Der Schultheis: Ja.'
+  cs: 'Rychtář: „Ano.“'
+- typ: odstavec
+  de: |-
+    So hebet er denn an vnd klaget: So stehe ich hie / von wegen des Profosen / vnd von wegen des Regiments.
+  cs: |-
+    Tu začne a žaluje: „Stojím zde jménem profousovým a jménem pluku {Regiments}.“
+- typ: odstavec
+  de: |-
+    Des Vorklagten Vorsprecher hebet an / vnd thut die antwort / von wegen des Verklagten.
+  cs: |-
+    Řečník obžalovaného {Vorklagten} začne a odpoví jménem obžalovaného.
+- typ: odstavec
+  de: |-
+    Des Profosen Vorsprecher thut die ander klage / vnd berůfft sich auff Gezeugen / darauff berůfft sich die ander Part auch / vnd begeret seine Zeugen zu hören.
+  cs: |-
+    Profousův řečník přednese druhou žalobu a dovolává se svědků; nato se i druhá strana dovolává [svědků] a žádá, aby byli vyslechnuti její svědkové.
+- typ: odstavec
+  de: |-
+    Der Gerichtswebel ruffet die Zeugen bey jhren Nahmen zusammen / von einem jeden Zeugen hat der Gerichtswebel 1. gr. der Schultheis 2. gr. vnd der Gerichtsschreiber ein Ortsgülden / Wenn nun die Zeugen geschrieben seind / so thut denn der Profos wider die 3. klage / vnd stellet also seine sache zu GOtt / vnd den Keyserlichen Rechten.
+  cs: |-
+    Soudní šikovatel {Gerichtswebel} svolá svědky jejich jmény. Od každého svědka dostane soudní šikovatel 1 groš {gr.}, rychtář 2 groše a soudní písař {Gerichtsschreiber} čtvrt zlatého {Ortsgülden}[^2]. Když jsou svědkové zapsáni, přednese profous opět žalobu, tentokrát třetí, a tak svou při svěří Bohu a císařskému právu {Keyserlichen Rechten}.
+- typ: odstavec
+  de: |-
+    Des vorklagten Vorsprecher antwort widerumb auff seine klage vnd kundschafft / stellet auch
+  cs: |-
+    Řečník obžalovaného opět odpoví na jeho žalobu a svědectví {kundschafft} a svěří také svou
+poznamky:
+- n: 1
+  text: „Der gute Geselle“ (dobrý druh) je zde obžalovaný; v dalším textu se o něm mluví také jako o „ubohém hříšníkovi“ (arme Sünder) a „obžalovaném“ (Verklagte).
+- n: 2
+  text: Ortsgülden = čtvrtina zlatého (srov. heslo ort); „gr.“ = groš.

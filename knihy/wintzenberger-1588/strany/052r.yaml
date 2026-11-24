@@ -1,0 +1,41 @@
+id: 052r
+list: '[52] r'
+strana: recto
+sken: 107
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vnd bittet / das er jhme wolte weise vnd lehre geben / das er dem Profosen auff seine schwere klage möge antwort geben / das er wider jhn gethan hat / gehen sie wider in den Ring / geben dem Profosen antwort / vber die schwere klage / die er gethan hat / vor dem gemeinen Man.
+  cs: |-
+    a prosí, aby mu poradil a poučil ho, jak má odpovědět na těžkou žalobu, kterou proti němu profous {Profosen} vznesl. Pak jdou opět do kruhu {Ring} a před obecným lidem {gemeinen Man} dávají profousovi odpověď na těžkou žalobu, kterou vznesl.
+- typ: nadpis
+  uroven: 3
+  de: '10.'
+  cs: '10.'
+- typ: odstavec
+  de: |-
+    Zum zehenden / nimpt der Profos seinen Redener zum andern mahl / bleibet bey seiner ersten klage / vnd lest die kundschafft vber den Gefangenen lesen / wie er gehandelt hat.
+  cs: |-
+    Za desáté: profous vezme podruhé svého řečníka {Redener}, setrvá při své první žalobě a dá přečíst svědectví {kundschafft} proti vězni o tom, jak jednal.
+- typ: odstavec
+  de: |-
+    Jetzt giebt der Gefangene antwort / durch seinen Vorsprecher / auff die kundschafft / die vber jhn gangen ist / Auff das gehet der Profos zum dritten mahl in seinem Raht aus dem Ringe / bleibet bey seiner klage / vnd vorgelesener kundschafft / vnd setzet es für den gemeinen Man zu Recht.
+  cs: |-
+    Nyní vězeň skrze svého řečníka {Vorsprecher} odpoví na svědectví, které proti němu bylo podáno. Nato jde profous potřetí z kruhu na poradu, setrvá při své žalobě a přečteném svědectví a předloží věc obecnému lidu k rozhodnutí.
+- typ: odstavec
+  de: |-
+    Jetzt giebt der Gefangene dem Profosen zum dritten mal antwort / durch seine Rähte / vnd setzet es auch zu Rechte für den gemeinen Man / bittet vmb ein genedig Vrtheil.
+  cs: |-
+    Nyní vězeň skrze své rádce {Rähte} odpoví profousovi potřetí, předloží věc rovněž obecnému lidu k rozhodnutí a prosí o milostivý rozsudek.
+- typ: nadpis
+  uroven: 3
+  de: '11.'
+  cs: '11.'
+- typ: odstavec
+  de: |-
+    Zum Eilfften / thun die Fendrich jhre Fenlein zu / vnd stecken sie mit den Spitzen in die Erden / vnd thut einer vnter jhnen das wort / vnd spricht: Lieben Kriegesleute / jhr habt gehört des Profosen
+  cs: |-
+    Za jedenácté: praporečníci {Fendrich} svinou své praporce {Fenlein} a zapíchnou je hroty do země. Jeden z nich se ujme slova a praví: „Milí válečníci {Kriegesleute}, slyšeli jste profousovu

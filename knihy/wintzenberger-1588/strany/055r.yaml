@@ -1,0 +1,25 @@
+id: 055r
+list: '[55] r'
+strana: recto
+sken: 113
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Zum Beschlus.
+  cs: Na závěr.
+- typ: obrazek
+  soubor: drevorez-113.jpg
+  popis: Dřevořez v rámu – srážka dvou houfů lancknechtů. Zleva útočí pikenýři, z nichž jeden se rozmáchl mečem, zprava proti nim stojí houf se sklopenými píkami a velkým vlajícím praporcem; na zemi mezi nimi leží padlí. V pozadí stany ležení, na pahorku drobné postavy s píkami, na obloze hejno ptáků.
+- typ: verse
+  de:
+  - ES ist am tag / man hats erfahrn /
+  - Das gros trůbsal vor tausend Jahrn /
+  - Gewesen ist in aller Welt /
+  - Wie es auch heutigs tags sich helt.
+  cs:
+  - Je to zjevné, sami jsme to poznali,
+  - že velké soužení už před tisíci lety
+  - vládlo v celém širém světě,
+  - tak jako je tomu i v dnešní den,

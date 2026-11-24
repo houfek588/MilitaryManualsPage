@@ -1,0 +1,30 @@
+id: 021r
+list: '[21] r'
+strana: recto
+sken: 45
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    angehangen / vnd zu Leuffern geordnet sollen werden / bey dem gewaltigen hauffen / vnd ein jeglich Geschütz soll gehen / wie auch fein angezeigt ist.
+  cs: |-
+    mají být připojeni a určeni za běžce {Leuffern} u hlavního houfu {gewaltigen hauffen}; a každé dělo {Geschütz} má jít tak, jak je to také pěkně ukázáno.
+- typ: odstavec
+  de: |-
+    Also hastu die hauffen bald zu ordnen / vnd zu schicken / vnd darffst keinen hauffen zubrechen lassen / also hastu ein anzeigung einer Schlacht Ordnung auff Zehentausent Knechte / darnach man sich zurichten habe.
+  cs: |-
+    Tak můžeš houfy rychle sešikovat a vypravit a nemusíš žádný houf rozdělovat. Tak máš návod k bitevnímu šiku {Schlacht Ordnung} pro deset tisíc knechtů {Knechte}, podle něhož se lze zařídit.
+- typ: nadpis
+  uroven: 2
+  de: Ein vnterricht Ordnung des Reisigen zeugs / auff 15. hundert Pferde / wie folget.
+  cs: Poučení o šiku jízdy {Reisigen zeugs} o patnácti stech koních, jak následuje
+- typ: obrazek
+  soubor: drevorez-45.jpg
+  popis: Dřevořez – srážka jízdy. Obrnění jezdci s kopími a korouhví se střetávají v hustém chumlu; v popředí padlí koně a jezdci, vpravo kulatý štít.
+- typ: odstavec
+  de: |-
+    ES ist mein Rath vnd gutduncken / das man drey hauffen erstlich daraus mache / inn einen
+  cs: |-
+    Je mou radou a míněním, aby se z nich nejprve udělaly tři houfy: do jednoho

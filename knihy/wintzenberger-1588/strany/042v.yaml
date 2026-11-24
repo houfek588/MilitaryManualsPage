@@ -1,0 +1,61 @@
+id: 042v
+list: '[42] v'
+strana: verso
+sken: 88
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: '3.'
+  cs: '3.'
+- typ: odstavec
+  de: |-
+    Zum dritten / sol weder Richter noch Rechtsprecher aus dem Lager gehen / ausgenommen / er habe dann vrlaub von beyden Schultheissen / bey Peen ein fl.
+  cs: |-
+    Za třetí nemá ani přísedící {Richter}, ani nálezce práva {Rechtsprecher} odejít z ležení {Lager}, leda by měl dovolení od obou rychtářů {Schultheissen}[^1], pod pokutou {Peen} jednoho zlatého.
+- typ: nadpis
+  uroven: 3
+  de: '4.'
+  cs: '4.'
+- typ: odstavec
+  de: |-
+    Zum vierdten / so ein Richter oder Rechtsprecher / oder einer / der da zum Rechten fürgefordert wird / nach ordnung des Rechten / vnd er zu langsam komme / ist ein fl. zur Peen.
+  cs: |-
+    Za čtvrté: když přísedící nebo nálezce práva nebo někdo, kdo je podle soudního řádu předvolán k soudu {Rechten}, přijde příliš pozdě, [platí] jeden zlatý pokuty.
+- typ: nadpis
+  uroven: 3
+  de: '5.'
+  cs: '5.'
+- typ: odstavec
+  de: |-
+    Zum fünfften / ob einer oder mehr am Rechten sesse / der dem Rechten nicht Adelich oder Ehrlich genug were / ob sie jhn nicht melden oder verschwigen / vnd dasselbige vber lang oder kurtz an tag keme / so sollen dieselbigen alle Meineydig geachtet werden.
+  cs: |-
+    Za páté: kdyby u soudu zasedal jeden nebo více takových, kdo by pro soud nebyli dost urození {Adelich} nebo bezúhonní {Ehrlich}[^2], a [ostatní] by je neohlásili nebo to zamlčeli a vyšlo by to dříve či později najevo, mají být všichni ti považováni za křivopřísežníky.
+- typ: nadpis
+  uroven: 3
+  de: '6.'
+  cs: '6.'
+- typ: odstavec
+  de: |-
+    Zum sechsten / wer nach verbannunge des auffstehen / ohne vrlaub des Schultheissen / der ist dem Schultheissen 1. fl. verfallen.
+  cs: |-
+    Za šesté: kdo by po zahájení soudu {verbannunge}[^3] vstal bez dovolení rychtáře, propadá rychtáři 1 zlatý.
+- typ: nadpis
+  uroven: 3
+  de: '7.'
+  cs: '7.'
+- typ: odstavec
+  de: |-
+    Zum siebenden / welcher im Rechten oder ausserhalb des Rechten dem Schultheissen einredet / allein durch seinen Vorsprecher / der ist dem Schultheissen ein fl. verfallen.
+  cs: |-
+    Za sedmé: kdo by rychtáři u soudu nebo mimo soud skákal do řeči jinak než jen skrze svého řečníka {Vorsprecher}[^4], propadá rychtáři jeden zlatý.
+poznamky:
+- n: 1
+  text: „von beyden Schultheissen“ – snad rychtář pěchoty a rychtář jízdy, nebo rychtář a jeho zástupce; o druhém rychtáři text jinak nemluví.
+- n: 2
+  text: „Adelich“ – doslova „šlechtický, urozený“; nejspíš je míněn řádný (manželský) původ, srov. obvyklý požadavek na soudce „ehelich vnd ehrlich“ (z manželského lože a bezúhonný). Možná jde přímo o tiskovou chybu za „Ehelich“. Přísedící nesměl být bezectný (např. trestaný nebo z „nečestného“ řemesla).
+- n: 3
+  text: V tisku je věta neúplná („nach verbannunge des auffstehen“) – vypadlo „Rechten“ a sloveso v podmiňovacím způsobu („auffstehen würde“). Překlad podle smyslu.
+- n: 4
+  text: „allein durch seinen Vorsprecher“ – míněno „ausgenommen durch seinen Vorsprecher“; strana smí k soudu mluvit jen ústy svého řečníka.

@@ -1,0 +1,37 @@
+id: 053v
+list: '[53] v'
+strana: verso
+sken: 110
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: '14.'
+  cs: '14.'
+- typ: odstavec
+  de: |-
+    Zum viertzehenden / wann das geschehen ist / so füret jhn der Profos drey mahl in der Gassen auff vnd ab / das er vrlaub nimpt / von menniglichen / vnd bittet vmb verzeihung / vnd vorzeihet allen Menschen / Darnach befielet man jhme seiner armen Seelen gutes zu thun / so sprechen jhme auch die Fendriche zu / er sol tapffer vnd vnuerzagt sein / sie wollen jhme auff halben Wege entgegen kommen / vnd erledigen.
+  cs: |-
+    Za čtrnácté: když se to stane, provede ho profous {Profos} třikrát uličkou {Gassen} sem a tam, aby se se všemi rozloučil, poprosil o odpuštění a sám všem lidem odpustil. Potom se mu klade na srdce, aby se postaral o dobro své ubohé duše. Také praporečníci {Fendriche} mu domlouvají, aby byl statečný a neohrožený; vyjdou mu prý napůl cesty vstříc a vysvobodí ho[^1].
+- typ: nadpis
+  uroven: 3
+  de: '15.'
+  cs: '15.'
+- typ: odstavec
+  de: |-
+    Zum funfftzehenden / so lest man wider vmbschlahen / das keiner keinen alten groll oder schaden rechnen sol / Darmit lassen sie die Spiesse nieder / vnd die Fendrich stehen / das sie den Rücken gegen der Sonnen keren / vnd mit der Spitze das Fendlein gegen dem armen Man stehen / so schlegt der Profos den armen Man aus den Eysen / vnd nimpt vrlaub von jhm / das er jhme vorzeyhen sol / dann was er gethan habe / das habe er thun müssen / von wegen des Regiments. Es nimpt des Profosen Vorsprecher auch vrlaub von jhm / wie der Profos.
+  cs: |-
+    Za patnácté: dá se znovu vybubnovat, že si nikdo nesmí vyřizovat žádnou starou zášť ani škodu. Nato sklopí píky {Spiesse}; praporečníci stojí zády ke slunci a praporce {Fendlein} drží hrotem obrácené proti ubohému muži. Profous pak ubohého muže vyprostí z okovů {Eysen} a rozloučí se s ním s prosbou, aby mu odpustil, neboť co učinil, to musel učinit kvůli zřízení {Regiments}. Také profousův řečník {Vorsprecher} se s ním rozloučí jako profous.
+- typ: nadpis
+  uroven: 3
+  de: '16.'
+  cs: '16.'
+- typ: odstavec
+  de: |-
+    Zum sechtzehenden / wenn der arme Mensch vorschieden ist / kniet man nieder / vnd thut ein Gebet / seiner armen Seelen zu gute / Darnach machet man ein Ordnung / vnd zeuhet drey mahl vmb den
+  cs: |-
+    Za šestnácté: když ubohý člověk skoná, poklekne se a pomodlí se za jeho ubohou duši. Potom se utvoří šik {Ordnung} a třikrát se obejde kolem
+poznamky:
+- n: 1
+  text: Praporečníci slibují, že mu „vyjdou napůl cesty vstříc a vysvobodí ho“ – tj. že ho v uličce rychle usmrtí a neprodlouží jeho trápení.

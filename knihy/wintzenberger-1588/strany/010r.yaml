@@ -1,0 +1,23 @@
+id: 010r
+list: '[10] r'
+strana: recto
+sken: 23
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wehet/ wo jhnen der meiste nutz werden möge/ Dann sol er jhm also thun.
+  cs: |-
+    vane – tam, kde by jim kynul největší prospěch. Kníže má tedy učinit toto.
+- typ: odstavec
+  de: |-
+    Erstlich sol ein Fürst oder Herr/ die Rechtuerstendigen vnd Schrifftgelerten fragen/ ob er die sache zu thun recht habe oder nicht/ vnd wenn er sich von jhnen erlernet/ das er gut fug vnd recht habe/ sich der gewaltigen that/ die gegen jhm oder den seinen fürgenommen wird/ mit recht oder gewalt sich fug zu schützen haben (So sollen sich die Schrifftgelerten/ in ordnung des Kriegs oder widerwertigkeit nicht mehr bekümmern lassen) Sondern ein jeglicher Fürst vnd Herr/ der sol zusammen fordern/ von allen Stenden seiner Vnderthanen/ vnd in sonderheit die jenigen/ durch die er gedenckt den Krieg zu führen/ vnd sol jhnen zu erkennen geben/ die gewaltige vnd vnrechte that/ die gegen jhm vnd den seinen fürgenommen wird/ vnd jhn darneben anzeigen/ aus was vrsachen die Rechtuerstendigen meinen/ das man sich desselben vnrecht/ mit gewalt oder recht zu wehren fug habe/ vnd wo jhm alsdann seine Vnderthanen/ die doch den meisten schaden leiden vnd tragen müssen/ rahten werden/ einen Krieg anzunehmen/ so werden sie jhm auch mit Leib vnd Gut dasselb zuuolführen helffen.
+  cs: |-
+    Předně se má kníže nebo pán zeptat právníků {Rechtuerstendigen} a vzdělanců {Schrifftgelerten}, zda má k té věci právo, či ne. A když se od nich dozví, že má dobré oprávnění a právo bránit se právem nebo mocí proti násilnému činu, který se podniká proti němu nebo proti jeho lidem (vzdělanci se pak už nemají do řízení války nebo sporu vměšovat), má každý kníže a pán svolat [zástupce] všech stavů svých poddaných, a zvláště ty, jejichž prostřednictvím zamýšlí vést válku. Má jim oznámit násilný a bezprávný čin, který se proti němu a jeho lidem podniká, a zároveň jim ukázat, z jakých důvodů právníci soudí, že je oprávněn bránit se tomu bezpráví mocí nebo právem. Jestliže mu pak poddaní, kteří přece musejí snášet a nést největší škodu, poradí válku přijmout, pomohou mu ji také životem i statkem dovést do konce.
+- typ: odstavec
+  de: |-
+    Aus vrsachen/ sie wissen/ das jhrem Herren vnd jhnen vnrecht geschicht/ Derhalben werden sie geursacht/ Leib vnd Gut neben jhrem Herren zuzusetzen. Wo aber der Krieg von den Königen vnd Fürsten/ durch jhre selbst Köpffe vnd eigene Hoffart/ vnd durch raht der Doctoren vnd Geistlichen ein Krieg beschleust/ vnbewust seiner Lande/ vnd der jenigen/
+  cs: |-
+    Je to proto, že vědí, že se jejich pánovi i jim děje bezpráví; proto jsou pohnuti nasadit vedle svého pána život i statek. Kde však králové a knížata rozhodnou o válce po své hlavě, z vlastní pýchy a na radu doktorů {Doctoren} a duchovních, bez vědomí své země a těch,

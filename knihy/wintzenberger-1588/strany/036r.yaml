@@ -1,0 +1,29 @@
+id: 036r
+list: '[36] r'
+strana: recto
+sken: 75
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    desgleichen mit Profiant / bis in Italien auff rechnung / vnd in abschlagung jhrer Besoldung vorsehen / vnd jhnen darzu einen halben Soldt zum abzug / von dem orth an / das sie hin zu Land gesetzt werden / von Alganago / bis in Ciomo zu rechnen / vormöge jhrer vorigen bestallung / die jhnen jhre May: etc. gegeben.
+  cs: |-
+    a rovněž proviantem {Profiant} až do Itálie, na účet a se srážkou ze svého žoldu {Besoldung}. Kromě toho [se jim má dát] půl žoldu jako odchodné {abzug}, počítáno od místa, kde budou vysazeni na pevninu, od Alganaga až do Ciomo[^1], podle jejich dřívějšího služebního listu {bestallung}, který jim Jeho Veličenstvo atd. dalo.
+- typ: nadpis
+  uroven: 2
+  de: Nun folgen die hohen Empter.
+  cs: Nyní následují vysoké úřady {hohen Empter}.
+- typ: odstavec
+  de: |-
+    1. Erstlich sol der Profos versehen sein / mit einem geschickten Leutenampt / dem gemeinen Man / vnd dem gemeinen Regiment zu nutz / darnach mit einem geschickten Schreiber / Trabanten / vnd einem Stockmeister / Steckenknechte / Stock vnd Eysen / er sol auch bedacht sein / das er seine Diener vnd Leutenampt / bey dem Profiantmeister / in vnd ausser dem Läger sich erkunden / das mit Profiant vnd aller notdurfft des Lägers versorget / vnd kein abgang zimlich vnd gebührlicher weise geschehe / wann das geschehen ist / das dem gemeinen Man zu nutz / vnd dem armen kein schade geschehe / Er sol auch zusehen / damit durch seine Steckenknechte rechter vnd gebürlicher weise gehandelt werde / vnd so einem oder mehr von jhnen durch has vnd neid / Geld oder durch was anders / es wehre durch sie selbst / oder zugedrungener neidt / in die Eysen kommen / dieselbigen sollen zu recht wider ausgelassen werden.
+  cs: |-
+    1. Předně má být profous {Profos} opatřen schopným poručíkem {Leutenampt} k užitku obce {gemeinen Man} a celého zřízení {Regiment}, dále schopným písařem {Schreiber}, drabanty {Trabanten} a žalářníkem {Stockmeister}, profousovými pacholky {Steckenknechte}, kládou {Stock} a okovy {Eysen}. Má také pamatovat na to, aby se jeho služebníci a poručík u proviantmistra {Profiantmeister} v ležení {Läger} i mimo ně informovali, zda je ležení zásobeno proviantem a vší potřebou a zda nic nechybí[^2], a aby se vše dálo slušně a náležitě; tak to bude k užitku obce a chudému se nestane škoda. Má také dohlížet, aby jeho pacholci jednali spravedlivě a náležitě. A kdyby se jeden nebo více [lidí] dostalo do okovů z jejich nenávisti a závisti, pro peníze nebo z jakékoli jiné příčiny, ať už jejich vlastním přičiněním[^3], nebo z cizí vnucené závisti, mají být podle práva opět propuštěni.
+poznamky:
+- n: 1
+  text: „von Alganago / bis in Ciomo“ – místní jména jsou v tisku (ověřeno ve skenu) zřejmě zkomolená a nepodařilo se je určit (snad přístav vylodění v Itálii a cíl cesty, např. Como). Ponecháno v podobě tisku.
+- n: 2
+  text: „vnd kein abgang … geschehe“ – „abgang“ = úbytek, nedostatek; větná stavba článku je v tisku nepřehledná, překlad vystihuje smysl.
+- n: 3
+  text: „es wehre durch sie selbst“ – míní se nejspíš zvůle samotných profousových pacholků.

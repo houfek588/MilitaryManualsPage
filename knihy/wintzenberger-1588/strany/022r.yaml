@@ -1,0 +1,30 @@
+id: 022r
+list: '[22] r'
+strana: recto
+sken: 47
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dahin wie ein Blinder / vnd mag wol durch einen kleinen vorzug des treffens durch seine Leut die gantze Schlacht verlieren / denn wann das Haupt leith / das denn eilend zugehen kan / so ist alles Volck verzagt / Derhalben kehrt euch an kein reden / vnd verordnet ewer ding das es eilend zu gehe / vnd einen hauffen neben dem andern / hinden vnd fornen zu treffen kommen mag.
+  cs: |-
+    dopředu jako slepý a může snadno prohrát celou bitvu jen proto, že se ve srážce o kus předstihl před svými lidmi {vorzug des treffens}.[^1] Když totiž hlava {Haupt} padne, což se může stát rychle, je všechen lid sklíčen. Proto nedbejte na žádné řeči a zařiďte své věci tak, aby to šlo rychle a aby se houf vedle houfu mohl dostat ke srážce {treffen} vzadu i vpředu.
+- typ: odstavec
+  de: |-
+    Derhalben halte ich viel hauffen / vnd breite Ordnung vor guth / das viel Leute zur wehre vnd treffen komen mögen / hinden / fornen / vnd auff den seiten / die Feinde angegriffen werden / das bringet den Feinden ein gros schrecken / so könnet jhr bey euch selbst ermessen / wo grosse hauffen geordnet werden / vnd schmale Ordnung gemacht / so köndten die mittelsten vnd die hindersten zu keinen treffen nicht komen / vnd jhre spies vnd wehren seind jhnen nichts nütze / denn zu einem schein / denn kleine hauffen die künden sich eilende keren vnd wenden / vnd den grossen hauffen die Rücken vnd die Seitten angewinnen / das man alles mit dem grossen hauffen nicht gethun kan.
+  cs: |-
+    Proto pokládám za dobré mnoho houfů a široký šik {breite Ordnung}, aby se mnoho lidí mohlo dostat k boji a ke srážce a aby byl nepřítel napaden vzadu, vpředu i z boků; to nepříteli nažene velký strach. Sami pak můžete posoudit: kde se postaví velké houfy a udělá se úzký šik, nemohli by se ti uprostřed a vzadu dostat k žádné srážce a jejich píky {spies} a zbraně {wehren} by jim byly k ničemu, leda pro parádu. Malé houfy se totiž dokážou rychle obracet a otáčet a dostat se velkým houfům do týlu a do boků, což se s velkým houfem vůbec udělat nedá.
+- typ: odstavec
+  de: |-
+    Vnd wenn die kleinen hauffen wollen / so können sie allzeit neben einander in zwey oder drey hauffen rücken / als viel als sie bequeme düncket / vnd widerumb also von einander / mit wenig oder viel / wie es jhme gefellig oder am bequemsten ist / wenn man vorhin einem jeglichen zu erkennen giebet / vnter welch Panier sich ein jeglicher halten sol / so kan sich ein jeglicher selbst schicken vnd ordenen / das sonst dem obersten Hauptman zu thun vnmüglich ist / denn in
+  cs: |-
+    A když malé houfy chtějí, mohou se vždy sevřít vedle sebe do dvou nebo tří houfů, kolik se jim zdá vhodné, a zase se od sebe rozdělit, s menším nebo větším počtem [mužů], jak se mu[^2] líbí nebo jak je to nejvhodnější. Dá-li se předem každému na vědomí, pod kterou korouhví {Panier} se má držet, může se každý sám zařídit a zařadit, což by jinak nejvyšší hejtman {obersten Hauptman} udělat nemohl; neboť v
+poznamky:
+- n: 1
+  text: |-
+    „Vorzug des treffens“ – tj. když velitel vyrazí do srážky o kus napřed před svým lidem; „Haupt“ (hlava) je zde velitel.
+- n: 2
+  text: |-
+    „Jhme“ – tj. veliteli (nebo každému houfu); tisk přechází od množného čísla k jednotnému.

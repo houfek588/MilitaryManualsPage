@@ -1,0 +1,26 @@
+id: 027r
+list: '[27] r'
+strana: recto
+sken: 57
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Hochgebornen Fürsten vnd Herren etc. Duca de Alba / vnserm obristen Raht Kriegesobersten vnd Hoffemeister / das er ein Regiment Deutsch Kriegesuolck. 12. Fenlein / derer jeden eines 400. starck sein soll / vmb einen versuchten Obristen / vnd versuchte Hauptleute vmbsehen / vnd trachten / vnd nach redlichen Kriegsleuten / wie er dann gethan / vnd dem Wolgebornen Herren / Johan Baptista Graffen zu Ladron / vnd auch den wolgebornen Graffen Felix von Arch / als Hauptman vnd obristen Leutenapmt / von vnsert wegen angeordenet / vnd in bestallung genomen / vnd besoldung geordenet / vnd den nechsten tag nach der Musterung / welcher des 6. May obgemeltes Jahres ist / beschehen soll / als denn jhre besoldung von stund an / alsbald das Regiment auffgericht / vnd die Knechte geschworen haben / angehen soll / in krafft dieses Brieffes / mit dem geding vnd also / das wir jetzt gedachten Obristen mit seinen vntergeben Heuptleuten vnd Kriegesuolck / in vnsern dienst vnd besoldung behalten werden / vnd soll der selbe / auch andere gemeine Knechte / so vnter seinem Regiment sein werden / vns die zeit vber / vnd wie lange wir derselben / oder auch ferner nodtürfftig sein werden / auff diese nachfolgende bestallung / nach vermüge vnd inhalt / des Artickels Brieffs / jhnen derhalben zugestelt / dienen / eines jeden Monats / den Monat zu 30. tagen gerechnet / vnd für einen soldt 4. fl. Müntze zu 60. Creutzern / oder 25. Stiebern für jhren oder derselbigen vermügen wol bezalet werden / vnd gemelter Obrister vnd gemeine Heuptleute / Fendrich / Befehlshaber / vnd gemeine Kriegesleute / so vnter seinem Regiment sein werden / jhr ansehen auff vns haben / oder wen
+  cs: |-
+    a vysoce urozenému knížeti a pánu atd. vévodovi z Alby (Duca de Alba)[^1], našemu nejvyššímu radovi, válečnému plukovníkovi {Kriegesobersten} a hofmistrovi {Hoffemeister}, aby se poohlédl a postaral o pluk {Regiment} německého válečného lidu {Kriegesuolck} o 12 praporcích {Fenlein}, z nichž každý má mít 400 [mužů], o zkušeného plukovníka {Obristen} a zkušené hejtmany {Hauptleute} i o poctivé válečníky {Kriegsleuten}. To také učinil: jménem naším ustanovil urozeného pána Johanna Baptistu hraběte z Lodronu a také urozeného hraběte Felixe z Arca[^2] jako hejtmana a nejvyššího poručíka {obristen Leutenapmt}[^3], přijal je do služby {bestallung} a určil jim žold {besoldung}. Den po přehlídce {Musterung}, která se má konat 6. května výše uvedeného roku, má pak hned začít běžet jejich žold, jakmile bude pluk zřízen a knechti {Knechte} odpřisáhnou, a to mocí tohoto listu a s tou podmínkou, že výše řečeného plukovníka s jeho podřízenými hejtmany a válečným lidem budeme držet ve své službě a žoldu. A on i ostatní prostí knechti {gemeine Knechte}, kteří budou v jeho pluku, nám mají po tu dobu a tak dlouho, jak jich budeme nebo i nadále budeme potřebovat, sloužit podle tohoto následujícího služebního listu a podle znění a obsahu artikulního listu {Artickels Brieffs}, který jim byl k tomu vydán. Každý měsíc, počítaje měsíc po 30 dnech, mají být za jeden žold {soldt} dobře zaplaceni 4 zlatými {fl.} v minci po 60 krejcarech {Creutzern} nebo 25 stüverech {Stiebern} podle své či jejich možnosti[^4]. A řečený plukovník i všichni hejtmani, praporečníci {Fendrich}, velitelé {Befehlshaber} a prostí válečníci, kteří budou v jeho pluku, mají hledět na nás nebo na toho,
+poznamky:
+- n: 1
+  text: |-
+    Fernando Álvarez de Toledo, 3. vévoda z Alby (1507–1582), vrchní hofmistr (mayordomo mayor) a vojevůdce Karla V.; později proslulý místodržitel v Nizozemí.
+- n: 2
+  text: |-
+    „Johan Baptista Graffen zu Ladron“ – Giovanni Battista (Johann Baptist) hrabě z Lodronu, tyrolsko-trentinský plukovník lancknechtů ve službách Karla V.; „Graffen Felix von Arch“ – Felix hrabě z Arca (Arco u Gardského jezera). V artikulním listu ([[030r|30 r]]) je Lodron uveden jako plukovník a Arco jako „jrer May: Hauptman“.
+- n: 3
+  text: |-
+    „obristen Leutenapmt“ – tisk má zřetelně „Leutenapmt“, přesmyk za „Leutenampt“; ponecháno. Věta úřady jednoznačně nerozděluje; podle artikulního listu je Lodron plukovník (o něm mluví i následující text) a oba tituly „hejtman a nejvyšší poručík“ patří nejspíš Arcovi jako zástupci plukovníka.
+- n: 4
+  text: |-
+    „für jhren oder derselbigen vermügen“ – nejasné; snad „podle jejich (vojáků) či jejich [úřadů] způsobilosti“, tj. podle hodnosti a výzbroje. Údaj o minci se nejspíš týká jednoho zlatého (= 60 krejcarů = 25 stüverů); 4 zlaté na žold potvrzuje i artikulní list ([[030v|30 v]]).

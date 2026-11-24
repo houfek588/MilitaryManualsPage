@@ -1,0 +1,44 @@
+id: 032v
+list: '[32] v'
+strana: verso
+sken: 68
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    16. Item / es sol auch keiner keinen Lermen machen / dann es sey von nöten / bey Leibsstraffe / vnd ob ein Lermen würde / so sol ein jeder auff den Plan / dahin er bescheiden ist / lauffen / vnd keiner sonder Leibesnoth / im Losament bleiben / bey vorlierung Leibes vnd Lebens.
+  cs: |-
+    16. Dále nikdo nemá dělat poplach {Lermen}, leda by to bylo nutné, pod trestem na těle. A když nastane poplach, má každý běžet na prostranství {Plan}, kam je určen, a nikdo nemá bez tělesné nouze zůstat ve svém ubytování {Losament}, pod ztrátou těla i života.
+- typ: odstavec
+  de: |-
+    17. Item es sol auch keiner ohne sonderlichen befehlich des Obristen / Brantschetzen / Brenney / oder die Läger anzünden / bey Leibsstraff.
+  cs: |-
+    17. Dále nikdo nemá bez zvláštního rozkazu plukovníka {Obristen} vymáhat výpalné {Brantschetzen}, pálit {Brenney} ani zapalovat ležení {Läger}, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    18. Item / es sol auch keiner / er sey wer er wölle / die Mühlen oder Mühlwerck verderben / zureissen / oder zuuerwüsten sich vnterstehen / bey Leibsstraffe.
+  cs: |-
+    18. Dále nikdo, ať je to kdokoli, se nemá odvážit kazit, rozbíjet nebo pustošit mlýny nebo mlýnská zařízení, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    19. Item / es sol auch keiner mit den Feinden / es sey im Läger oder am ziehen vnd Besatzung / sprach halten / ohne befehlich oder erleubnis des Obristen / bey Leibstraffe.
+  cs: |-
+    19. Dále nikdo nemá s nepřítelem rozmlouvat, ať v ležení, na pochodu nebo v posádce {Besatzung}, bez rozkazu nebo svolení plukovníka, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    20. Item / es sol sich auch keiner vnter zweene Heuptleute schreiben lassen / oder zwey mahl mustern lassen / vnd keiner auff des andern Namen durchgehen / auch keinen vnwerhafften versprechen / Welcher aber solches thut / der sol am Leib vnd Leben gestraffet werden.
+  cs: |-
+    20. Dále nikdo se nemá dát zapsat pod dva hejtmany {Heuptleute} nebo se dát dvakrát zapsat při přehlídce {mustern}, nikdo nemá projít na jméno jiného a také se nikdo nemá zaručovat za člověka neschopného nosit zbraň[^1]. Kdo by to však učinil, má být potrestán na těle i na životě.
+- typ: odstavec
+  de: |-
+    21. Item / es sol auch bey ewrem Eyde kein gemein / ohne wissen vnd willen des Obristen gehalten werden / Welche aber solches vbertreten würden / dieselbigen sollen / als mit Meineydigen Gliedern / vnd am Leib vnd Leben ohne alle Gnad gestraffet werden.
+  cs: |-
+    21. Dále se při vaší přísaze nemá bez vědomí a vůle plukovníka konat žádné shromáždění obce {gemein}[^2]. Kdo by to však přestoupil, s těmi má být naloženo jako s křivopřísežnými údy a mají být bez jakékoli milosti potrestáni na těle i na životě.
+poznamky:
+- n: 1
+  text: |-
+    „auch keinen vnwerhafften versprechen“ – nikdo nemá při přehlídce ručit za nezpůsobilého (neozbrojeného, „nebranného“) muže, aby byl přijat a placen.
+- n: 2
+  text: |-
+    „kein gemein halten“ – nesvolávat obec (mužstvo) do kruhu; shromáždění bez plukovníkova svolení se pokládalo za počátek vzpoury.

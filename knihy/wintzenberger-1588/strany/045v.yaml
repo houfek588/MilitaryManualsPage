@@ -1,0 +1,34 @@
+id: 045v
+list: '[45] v'
+strana: verso
+sken: 94
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    vber träge / einen Krancken damit zu stercken / nach Christlicher Ordnung / Wie mag ich mich halten / sampt den Richtern?
+  cs: |-
+    k nemocnému, aby jím byl podle křesťanského řádu posilněn – jak se mám spolu s přísedícími {Richtern} zachovat?
+- typ: nadpis
+  uroven: 3
+  de: Antwort.
+  cs: Odpověď.
+- typ: odstavec
+  de: |-
+    Herr Schultheis / jhr habt mich gefraget auff meinen Eyd / das ich sol eine ausweisung geben / der sachen / ob sichs zutrůg / so habt jhr macht vnd gewalt / mit sampt den Richtern auff zustehen / vnd dem heiligen Sacrament zucht vnd ehre zuerbieten / nach Christlicher Ordnung / vnd wenn dasselbige vorůber ist / so möget jhr mit den Richtern Richten vnd Recht sprechen / vber alles / das vor ewern Stab vorkommet vnd angeklaget wird / nach Ordnung des Rechten / es sey vmb Silber / Goldt / Ehre vnd Gut / etc.
+  cs: |-
+    Pane rychtáři {Schultheis}, ptali jste se mě při mé přísaze {Eyd}, abych v té věci dal nález {ausweisung}. Kdyby se to přihodilo, máte moc a právo spolu s přísedícími vstát a prokázat svaté svátosti úctu a čest podle křesťanského řádu. A až svátost přejde, můžete s přísedícími soudit a nalézat právo podle řádu práva o všem, co přijde před vaši soudní hůl {Stab} a bude žalováno, ať jde o stříbro, zlato, čest a statek atd.
+- typ: nadpis
+  uroven: 3
+  de: '3.'
+  cs: '3.'
+- typ: odstavec
+  de: |-
+    Zum dritten / frage ich dich aller massen / wie ich diesen gefraget habe / ob das Recht genugsam bestetet sey / mit ehrlichen Kriegsleuten / ob einer oder mehr im Recht sessen / der nicht Ehrlich oder Adelich genug wehre / vnd dir bewust / das du das wollest melden / damit die Keyserischen Recht nicht vorletzet noch gemindert werden / das ich sampt euch köndte vnd möchte vorantworten / gegen GOtt vnd der Welt.
+  cs: |-
+    Za třetí se tě ptám zcela tak, jak jsem se tázal tohoto [předchozího přísedícího]: je-li soud dostatečně obsazen[^1] bezúhonnými válečníky {Kriegsleuten}? Zasedal-li by v soudu jeden nebo více takových, kdo by nebyl dost bezúhonný nebo urozený, a je-li ti to známo, abys to oznámil, aby císařské právo {Keyserischen Recht} nebylo porušeno ani umenšeno a abych to spolu s vámi mohl a dokázal obhájit před Bohem i před světem.
+poznamky:
+- n: 1
+  text: „bestetet“ – doslova „potvrzen, ustaven“; zde ve smyslu „obsazen“, jak ukazuje odpověď („das das Recht besetzt sey“).

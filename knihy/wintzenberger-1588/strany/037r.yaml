@@ -1,0 +1,30 @@
+id: 037r
+list: '[37] r'
+strana: recto
+sken: 77
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Hackenschützen / Darnach auffs wenigste 400. Bawren / die da Schantzen graben / Schantzkörbe machen / in die Schantzen helffen bringen / darzu man mus haben / Hacken / Bicken / Schauffeln / Exte / Beyl / vnd was man acht darzu von nöten zu sein / auch einen eigenen Profosen / vnter seinem Regiment.
+  cs: |-
+    střelce z hákovnic {Hackenschützen}. Dále nejméně 400 sedláků {Bawren}, kteří kopou šance {Schantzen}, pletou šancovní koše {Schantzkörbe} a pomáhají je dopravovat do šancí; k tomu je třeba mít motyky {Hacken}, krumpáče {Bicken}, lopaty, sekery a širočiny {Beyl} a cokoli dalšího se k tomu uzná za potřebné. Také [má mít] pod svým zřízením {Regiment} vlastního profouse {Profosen}.
+- typ: odstavec
+  de: |-
+    3. Der Schantzmeister mit seinen Schantzbawren / so jhm aus der Artalerey zugeben werden / sol gedencken / so man sich für eine Stat oder Schlos / so fest ist / legen wil / die mit gewalt zu erobern / so sol er ein vngefehrliche Schantz auffbawen / mit Graben auffwerffen / die Schantzkörbe hinzu setzen / dahinder das Geschütz vnd Munition raum haben möge / vnd so dann das Geschütz gelegert / alsdann sol er nun mehr schantzen / als forme vnd weise / wo man die Stadt oder Schlos beschiessen wil / dahin die Schantzkörbe setzen / damit die Schantze nach der lenge vnd zwerch sey / damit also in die Schantz verordnet sein / vor dem Feind genugsamlich vorsehen vnd versorget sein / desgleichen sol man auch das Feldlager wissen zu schlahen.
+  cs: |-
+    3. Šancmistr {Schantzmeister} se svými šancíři {Schantzbawren}, kteří mu budou přiděleni z dělostřelectva {Artalerey}, má pamatovat na to, že když se má vojsko položit před pevné město nebo zámek, aby je dobylo mocí, má postavit předběžnou šanci[^1]: vyhodit příkopy a postavit k nim šancovní koše, za nimiž by děla {Geschütz} a munice {Munition} měly místo. Jakmile budou děla rozestavena, má šancovat dále, a to takto: kam se má město nebo zámek ostřelovat, tam postavit šancovní koše tak, aby šance vedla do délky i napříč[^2] a aby ti, kdo jsou do šance určeni, byli před nepřítelem dostatečně chráněni a zaopatřeni. Stejně tak má umět rozbít polní ležení {Feldlager}.
+- typ: odstavec
+  de: |-
+    4. Zum vierdten / sol der Profiantmeister seine geschickte Diener haben / zu Ros vnd Fus / wie es denn von wegen seines Ampts durch die Key: May: abgefertiget wird / nichts darein reden / dann wie jhme jhre May: die Profiant vberantwortet / dem gemeinen Man vnd gantzem Regiment zu gut / zimlicher vnd gebürlicher weise / wie es von dem Profosen geschatzt / bleiben lassen / dardurch jhme selbst Key: May: kein nachtheil oder kleinerung derselben
+  cs: |-
+    4. Za čtvrté má mít proviantmistr {Profiantmeister} své schopné služebníky na koni i pěší, jak je ve svém úřadě vypraven Jeho císařským Veličenstvem. Nemá do toho nijak zasahovat, nýbrž má proviant {Profiant} ponechat tak, jak mu ho Jeho Veličenstvo předá, k dobru obce {gemeinen Man} a celého pluku, slušně a náležitě, jak ho profous ocenil {geschatzt}[^3], aby tím ani on sám, ani Jeho císařské Veličenstvo neutrpěli žádnou škodu ani újmu. Nebude-li tento
+poznamky:
+- n: 1
+  text: „vngefehrliche Schantz“ – doslova „přibližná“ šance, tj. první, provizorní postavení vyhozené narychlo, než se určí místo vlastní baterie.
+- n: 2
+  text: „nach der lenge vnd zwerch“ – šance má krýt baterii zepředu i z boků, aby děla a obsluha byly chráněny před palbou z hradeb.
+- n: 3
+  text: Ceny potravin v ležení stanovil (ocenil, „schätzen“) profous; proviantmistr je nesmí sám měnit (srov. čl. 26 artikulního listu).

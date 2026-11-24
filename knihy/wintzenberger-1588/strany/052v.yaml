@@ -1,0 +1,32 @@
+id: 052v
+list: '[52] v'
+strana: verso
+sken: 108
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    schwere klage / die er vber den Gefangtnen gethan hat / darauff wir vnser Fenlein zuthun / vnd keren vmb mit den Eysen in das Erdreich / vnd wollen dismahl vnser Fenlein nicht fliehen lassen / bis vber solche klage ein Vrtheil gehet / auff das vnser Regiment ehrlich sey / wir bitten euch auch alle in gemein / jhr wollet in ewrem Rahte sein / vnd ein Vrtheil fellen / also weit vnd ferr ewer verstand ausweiset / wenn das geschehen / so wollen wir vnser Fenlein in aller massen / wie vor / fliehen lassen / vnd bey euch halten / wie ehrlichen Fendrichen zustehet.
+  cs: |-
+    těžkou žalobu, kterou vznesl proti vězni. Proto svinujeme své praporce {Fenlein}, obracíme je železem do země a tentokrát nenecháme své praporce vlát[^1], dokud o této žalobě nepadne rozsudek, aby naše zřízení {Regiment} zůstalo bezúhonné. Prosíme vás také všechny společně, abyste se poradili a vynesli rozsudek, nakolik vám rozum stačí. Až se to stane, necháme své praporce zcela jako předtím vlát a budeme při vás stát, jak náleží bezúhonným praporečníkům {Fendrichen}.“
+- typ: nadpis
+  uroven: 3
+  de: Der Feldwebel ruffet einen in Ring / derselbige kömpt in Ring / vnd saget also.
+  cs: Šikovatel zavolá jednoho [muže] do kruhu; ten přijde do kruhu a praví takto.
+- typ: odstavec
+  de: |-
+    Lieben ehrlichen Kriegsleute / ich bin hie gefraget vmb einen raht vnd ausweisung / so bin ich der sachen allein nicht weise genug / Derhalben begere ich gute ehrliche Kriegsleute / vmb einen raht in dem dinge / vnd aus dem Ringe. Die Befehlichshaber / Edel vnd vnd Vnedel / so viel als 40. Personen / so wil ich mit denselbigen aus dem Ringe an einen orth treten / vnd bey jhnen raht suchen / trewlich vnd vngefehrlich / so weit als vnser vorstandt ausweiset / darnach kommen sie / vnd vrtheilen in dem Ring dem gemeinen Man / was sie gerahtschlaget haben / vnd ob jhnen jhr raht nicht gefelt / so wollen sie von dem jhren zum andern fallen.
+  cs: |-
+    „Milí bezúhonní válečníci {Kriegsleute}, jsem zde tázán o radu a nález {ausweisung}. V té věci však sám nejsem dost moudrý, proto žádám dobré, bezúhonné válečníky o radu v této záležitosti, a to z kruhu {Ringe}: velitele {Befehlichshaber}, urozené i neurozené[^2], celkem 40 osob. S těmi chci vystoupit z kruhu stranou a radit se s nimi věrně a bez lsti, nakolik nám rozum stačí.“ Potom přijdou zpět a v kruhu oznámí obecnému lidu {gemeinen Man} jako svůj nález, na čem se uradili; a nebude-li se [obci] jejich rada líbit, přejde [obec] od ní k jiné.
+- typ: odstavec
+  de: |-
+    Jetzt ruffet man einen andern Raht / der thut gleich wie vor gemelt / Darnach den dritten Raht
+  cs: |-
+    Nyní se zavolá druhá rada {Raht}, která učiní totéž, co bylo řečeno výše. Potom [se zavolá] i třetí rada
+poznamky:
+- n: 1
+  text: „fliehen lassen“ – tj. „fliegen lassen“, nechat praporec volně vlát. Svinutý praporec zabodnutý železem (hrotem žerdi) do země je znamení, že se obec pod praporci nebude shromažďovat, dokud nebude čin potrestán. V tisku také „Gefangtnen“ (za „Gefangenen“) – ponecháno.
+- n: 2
+  text: V tisku zdvojené „Edel vnd vnd Vnedel“ – tisková chyba (dittografie), v překladu neopakováno.

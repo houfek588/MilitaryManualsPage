@@ -1,0 +1,32 @@
+id: 023r
+list: '[23] r'
+strana: recto
+sken: 49
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    geschrey vnd vortheil nie kein gut gethan haben / Darumb wil ich euch mit fleis darfür gewarnet haben / Das ist die anzeigung zu Ros.
+  cs: |-
+    pokřik a [honba za] výhodami nikdy nepřinesly nic dobrého. Proto jsem vás před tím chtěl pilně varovat. Tolik návod pro jízdu.
+- typ: odstavec
+  de: |-
+    Ich solte auch wol anzeigen / wie man das Geschütz führen / vnd auff welche seiten dasselbige zu gebrauchen / desgleichen den Reisigen zeug / auff welche seiten man den führen sol / Es ist aber wider meinen vnd eines jeglichen verstand / mit warheit vnd gründlich anzuzeigen / Aus vrsachen / das Feld / darinnen man begriffen wird / darnach mus man es abnemen / vnd sich richten / desgleichen des Gegentheils oder Feindes Ordnung / wie der einem begegnet.
+  cs: |-
+    Měl bych také ukázat, jak se mají vést děla {Geschütz} a na které straně se jich má užít, a stejně tak jízda {Reisigen zeug} – na kterou stranu se má postavit. Vyložit to pravdivě a důkladně však přesahuje můj i kohokoli jiného rozum. Příčina je ta, že se to musí odhadnout a zařídit podle pole, na kterém se člověk ocitne, a stejně tak podle šiku {Ordnung} protivníka {Gegentheils} čili nepřítele – jak proti člověku nastoupí.
+- typ: odstavec
+  de: |-
+    Ist er einem mit dem Reisigen Zeuge zu starck / so mus man das Geschütz in den Reisigen zeug richten / vnd auff die seiten / da man denselbigen erreichen kan / Ist aber das Fusuolck zu starck / diesem hauffen / so mus man das Geschütz in das Fusuolck zu richten / Darumb so liegt solche Ordnung sehr am ansehen des Feldes / vnd auch des Volckes / wo man am besten zum treffen kommen kan.
+  cs: |-
+    Je-li na nás nepřítel příliš silný jízdou, musí se děla namířit do jeho jízdy, a to na tu stranu, odkud ji lze zasáhnout. Je-li však jeho pěchota {Fusuolck} příliš silná na tento [náš] houf {hauffen}, musí se děla namířit do pěchoty. Takové rozestavení tedy velice záleží na tom, jak člověk posoudí pole i lid a kde se nejlépe dá dojít ke střetnutí {treffen}.
+- typ: odstavec
+  de: |-
+    Viel halten es dafür / man sol das Geschütz auff eine seiten / vnd die Reuter auff die ander seiten ordnen / Ich aber halte das für besser / wo es gesein kan / das man auff beyde seiten Geschütz ordene / vnd desgleichen die Reuter auswendig des Geschützes / nach der seiten / wo es anders ohne mercklichen nachtheil geschehen köndte. Also habt jhr eine anzeigung einer Feldschlacht / eines gemeinen Fürsten / etc. auff 10. tausent Man Fusknechte / vnd 1500. reisiger Pferde.
+  cs: |-
+    Mnozí mají za to, že se děla mají postavit na jednu stranu a jezdci {Reuter} na druhou. Já však pokládám za lepší, je-li to možné, postavit děla na obě strany a jezdce stejně tak vně děl, na tu stranu, kde by se to jinak mohlo stát bez znatelné nevýhody. Tak tu máte návod k polní bitvě {Feldschlacht} obyčejného knížete[^1] atd., pro 10 tisíc pěších knechtů {Fusknechte} a 1500 jízdních koní.
+poznamky:
+- n: 1
+  text: |-
+    „eines gemeinen Fürsten“ – tj. knížete průměrné moci; navazuje na úvod pochodového řádu (sken 31), kde autor počítá „einen zimlichen zug / auff einen gemeinen Feldtzug“ – 10 000 pěších a 1500 koní.

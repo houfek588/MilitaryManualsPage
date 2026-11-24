@@ -1,0 +1,31 @@
+id: 039r
+list: '[39] r'
+strana: recto
+sken: 81
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Losament haben / ob ein Lerman würde / damit sie desnechst bey dem Hauptman vnd Fendrich / die Knechte weisen auff den bestimpten Platz zu führen / dahin denn der gantze hauffe vorordnet ist / das sich ein jeder zu schicken wisse / wie er von der Obrigkeit vnd Befehlsleuten vnterrichtet wird.
+  cs: |-
+    ubytování {Losament} co nejblíže u praporce {Fenlein}, aby v případě poplachu {Lerman} mohli hned vedle hejtmana a praporečníka odvést knechty {Knechte} na určené místo, kam je celý houf {hauffe} určen, a aby se každý uměl zařídit, jak ho poučila vrchnost {Obrigkeit} a velitelé {Befehlsleuten}.
+- typ: odstavec
+  de: |-
+    Darum sol man keinen vnuorstendigen in das Ampt setzen / wanner allzeit an Rechten sitzen mus / wie sein Befehlich ausweiset / zu Vrthielen vnd Recht sprechen / vber alles / was für Recht kömpt / es sey Malefitz oder ander handlung.
+  cs: |-
+    Proto se do toho úřadu nemá dosazovat nikdo nerozumný, neboť [jeho držitel] musí vždy zasedat u soudu {Rechten}, jak mu ukládá jeho služba, a vynášet rozsudky a nalézat právo o všem, co přijde před soud, ať je to hrdelní věc {Malefitz}, nebo jiná při[^1].
+- typ: odstavec
+  de: |-
+    10. Zum zehenden / ein jeder Fuhrirer sol wissen / wie jhm der Quartiermeister sein Quartir zustelt / damit er dem Hauptman / Fendrich / Befehlsleuten / Edelleuten / Toppelsöldnern / einem jeden nach seinem Stande wisse sein Losament zu geben / er sol auch gedencken / das er Abend vnd morgens bey seinem Quartirmeister vnd Hauptman sich erkunde / wenn vnd welche zeit das Läger vorrücken wird / vnd wohin / darnach man sich wisse zurichten / damit dem Hauptman / Fendrich / Befehlsleuten / vnd dem gemeinen Man nichts vorseumpt / oder vorhindert werde.
+  cs: |-
+    10. Za desáté má každý furýr {Fuhrirer} vědět, jak mu kvartýrmistr {Quartiermeister} přiděluje jeho kvartýr {Quartir}, aby uměl hejtmanovi {Hauptman}, praporečníkovi {Fendrich}, velitelům, šlechticům {Edelleuten} a dvojžoldnéřům {Toppelsöldnern}, každému podle jeho postavení, přidělit ubytování. Má také pamatovat na to, aby se večer a ráno u svého kvartýrmistra a hejtmana dotázal, kdy a v kterou hodinu ležení {Läger} vytáhne dál a kam, aby se tomu lidé uměli přizpůsobit a aby hejtmanovi, praporečníkovi, velitelům ani obci {gemeinen Man} nic nebylo zanedbáno nebo zmařeno.
+- typ: odstavec
+  de: |-
+    11. Zum eilfften / zum Hurenweibel gehöret ein Ehrlicher / alter versuchter Landsknecht / der da Schlacht vnd Sturm hat helffen thun / solcher Weibel sol in sonderheit von der Obrigkeit erkant / vnd verordnet werden / es gebürt jhm auch sein Leutenant vnd Fendrich / vnd da der Tros starck ist / gebürt jhme nichts desto weniger / als einem andern
+  cs: |-
+    11. Za jedenácté: na šikovatele trénu {Hurenweibel} patří čestný, starý a zkušený lancknecht {Landsknecht}, který se účastnil bitvy i útoku {Sturm}. Takového šikovatele má zvlášť uznat a ustanovit vrchnost. Náleží mu také jeho poručík {Leutenant} a praporečník, a je-li trén {Tros} silný, náleží mu neméně než jinému
+poznamky:
+- n: 1
+  text: Odstavec v tisku navazuje bez nadpisu na čl. 9 o vůdci a šikovateli praporce; řeč je zřejmě o šikovateli, který zasedal u soudu (srov. v hrdelním právu na [[044r|straně 044r]], kde spolu s přísedícími zasedají i velitelé). Je možné, že před odstavcem v předloze vypadl text o jiném úřadu (např. o rychtáři). „Vrthielen“ je v tisku (zkomolené „Vrtheilen“).

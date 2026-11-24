@@ -1,0 +1,31 @@
+id: 046v
+list: '[46] v'
+strana: verso
+sken: 96
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    guter Tagezeit were / so möget jhr wider sitzen / mit sampt den Richtern / vnd ewern Stab wider in die Hand nemen / vnd damit richten vnd vrtheilen / was da vorkommet / oder vorgebracht ist worden / es sey vmb Silber / Goldt / Leib / Ehre vnd Gut.
+  cs: |-
+    dobrá denní doba, můžete spolu s přísedícími {Richtern} opět zasednout, vzít svou soudní hůl {Stab} znovu do ruky a s ní soudit a vynášet rozsudek o tom, co přijde nebo bylo předneseno, ať jde o stříbro, zlato, hrdlo, čest a statek.
+- typ: nadpis
+  uroven: 3
+  de: '5.'
+  cs: '5.'
+- typ: odstavec
+  de: |-
+    Zum fünfften / frage ich euch / in aller massen vnd gestalt / wie ich die gefraget habe / ob es sach were / vnd mir der Oberste einen Boten schickte / zu jhme zu kommen / wie ich mich mus halten mit den Richtern.
+  cs: |-
+    Za páté se vás ptám zcela týmž způsobem a v téže podobě, jako jsem se tázal těch [předchozích]: kdyby se stalo, že by mi plukovník {Oberste} poslal posla, abych k němu přišel, jak se mám spolu s přísedícími zachovat?
+- typ: nadpis
+  uroven: 3
+  de: Antwort.
+  cs: Odpověď.
+- typ: odstavec
+  de: |-
+    Herr Schultheis / jhr habt mich gefraget auff meinen Eyd / das ich sol eine ausweisung geben / der sachen / so sage ich solches bey meinem Eyd / ob sich solches zutrůge / das der Oberste zu euch schickte / so sollet jhr ewern Stab einem andern ehrlichen Manne in die Rechte Hand geben / vnd vberlieffern / der euch geschickt darzu düncket / vnd hin gehen / vnd hören / was der Oberste wil / vnd wenn jhr wider zu vns kommet / so es noch bey guter Tagezeit were / so möget jhr ewern Stab wider zu ewern Henden nemen / vnd mit vns Richtern Richten vnd Vrtheilen / vber alles / was zu recht eingebracht ist worden / es sey vmb Silber / Goldt / Leib / Ehre / Gut vnd Blut.
+  cs: |-
+    Pane rychtáři {Schultheis}, ptali jste se mě při mé přísaze {Eyd}, abych v té věci dal nález {ausweisung}. Pravím tedy při své přísaze: kdyby se přihodilo, že by pro vás plukovník poslal, máte svou hůl dát a předat do pravé ruky jinému bezúhonnému muži, který se vám k tomu zdá způsobilý, jít tam a vyslechnout, co plukovník chce. A až se k nám opět vrátíte a bude ještě dobrá denní doba, můžete vzít svou hůl znovu do svých rukou a s námi, přísedícími, soudit a vynášet rozsudek o všem, co bylo předneseno k soudu, ať jde o stříbro, zlato, hrdlo, čest, statek a krev.

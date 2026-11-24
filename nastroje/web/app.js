@@ -160,7 +160,8 @@ V.obsah = () => {
   const tit = STR[0];
   return `<div class="titul"><div>
     <h1>${esc(M.nazev)}<span class="de">${esc(M.nazev_orig)} – ${esc(M.podtitul || '')}</span></h1>
-    <p class="uvod">${esc(M.autor)} (${esc(M.autor_zivot || '')}). ${esc(M.vydani)}. ${esc(M.rozsah || '')}. ${esc(M.vd16 || '')}.</p>
+    <p class="uvod">${[M.autor + (M.autor_zivot ? ` (${M.autor_zivot})` : ''), M.vydani, M.rozsah, M.vd16 || M.katalog]
+      .filter(Boolean).map(esc).join('. ')}.</p>
     <p>${esc(M.popis || '')}</p>
     <p class="m">Překlad: ${esc(M.prekladatel || '')}. Sken: ${esc(M.sken.instituce)}, ${esc(M.sken.signatura)} (<a href="${M.sken.url_dilo}" target="_blank" rel="noopener">${esc(M.sken.portal || 'digitalizace')} ↗</a>).</p>
     <div class="postup">${postup}</div><div class="legenda">${leg}</div>

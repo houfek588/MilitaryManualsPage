@@ -1,0 +1,29 @@
+id: 034r
+list: '[34] r'
+strana: recto
+sken: 71
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    31. Item / so offt man mustern wird / sollen alle Befehlsleute vnd Toppelsöldner / so vortheil von jhrer May: etc: haben / mit jhren Wehren auff den Musterplatz erscheinen / desgleichen sollen alle die / so auff der stete bezalt werden / sollen schuldig sein / jhre Rüstung vnd Wehren den Musterherrn fürzubringen / vnd anzuzeigen / damit gemelte Musterherrn solches selbst mügen sehen / Welche aber mit Rüstung vnd wehre nicht gefast sein / denen sol kein Obersoldt noch vortheil gegeben werden / Desgleichen sol keiner auff keines abgestorbenen Nahmen oder Platz durchgehen / oder bezalet werden.
+  cs: |-
+    31. Dále kdykoli se bude konat přehlídka {mustern}, mají se všichni velitelé {Befehlsleute} a dvojžoldnéři {Toppelsöldner}, kteří mají od Jeho Veličenstva atd. příplatek {vortheil}, dostavit se svými zbraněmi {Wehren} na přehlídkové místo {Musterplatz}. Rovněž všichni, kdo jsou placeni na místo[^1], jsou povinni předvést a ukázat svou zbroj {Rüstung} a zbraně přehlídkovým komisařům {Musterherrn}, aby je řečení komisaři mohli sami spatřit. Kdo však nebude zbrojí a zbraní vybaven, tomu se nemá dávat žádný přeplatek {Obersoldt} ani příplatek. Stejně tak nikdo nesmí projít přehlídkou {durchgehen} ani být vyplacen na jméno nebo místo někoho zemřelého[^2].
+- typ: odstavec
+  de: |-
+    32. Item / sie sollen schuldig sein / die Bezalung in aller gestalt / wie bisher / eine Krone für 23. Patzen / vnd einen Ducaten vmb 26. Patz wol zu empfahen.
+  cs: |-
+    32. Dále jsou povinni přijímat výplatu {Bezalung} ve všem tak jako dosud, totiž korunu {Krone} za 23 bacenů {Patzen} a dukát {Ducaten} za 26 bacenů[^3].
+- typ: odstavec
+  de: |-
+    33. Item / ob sich hinfort zutrüge / das sich die Bezalung auff etliche tage nach ausgang des Monats vorziehen würde / aus vrsachen / dieweil das Geldt / so mehrer theil aus Castilien bracht werden mus / nicht allwege eben zu bestimpter zeit ankommen mag / in diesem fall sol jhrer May: obrister Feldheuptman vorpflicht sein / daran zu sein / vnd bestellen Profiant oder Zehrung / in jhren Losamenten oder Herbrigen / auffs Kerbholtz gereicht werden sol / vnd sol das Kriegsuolck damit zufrieden sein / vnd die Bezalung bis auff ankunfft des Geldes mit gedult erwarten / vnd keine Meuterey anfahen / sondern dem Obristen vnd den Hauptleuten gehorsam sein / vnd sich in jhrer May: diensten vnd sachen
+  cs: |-
+    33. Dále kdyby se napříště přihodilo, že by se výplata o několik dní po skončení měsíce opozdila – a to proto, že peníze, které se z větší části musejí dovážet z Kastilie, nemohou vždy dorazit právě v určený čas –, v takovém případě má být nejvyšší polní hejtman {obrister Feldheuptman} Jeho Veličenstva povinen se o to přičinit a zařídit, aby se jim v jejich ubytování {Losamenten} nebo hospodách {Herbrigen} vydával proviant {Profiant} nebo strava {Zehrung} na vrubovku {Kerbholtz}. Válečný lid {Kriegsuolck} se tím má spokojit, trpělivě vyčkat výplaty až do příchodu peněz a nezačínat žádnou vzpouru {Meuterey}, nýbrž být poslušen plukovníka {Obristen} a hejtmanů {Hauptleuten} a dát se ve službách a záležitostech Jeho Veličenstva
+poznamky:
+- n: 1
+  text: „so auff der stete bezalt werden“ – doslova „kdo jsou placeni na místo (Stätte)“. Nejspíš kalk španělského „plaza“ (místo v soupisu praporce, na něž se vyplácí žold; srov. „abgestorbenen … Platz“ na konci článku), tj. veškeré mužstvo vedené v soupisu. Méně pravděpodobné je čtení „stets“ (trvale placení).
+- n: 2
+  text: Zákaz tzv. slepých jmen – hejtmani si nechávali vyplácet žold na mrtvé nebo neexistující muže. Při přehlídce muži procházeli jeden po druhém kolem komisařů, kteří je zapisovali.
+- n: 3
+  text: Koruna (španělské escudo) a dukát jsou zlaté mince; přepočet na baceny stanoví kurs, za který musejí vojáci cizí minci přijímat. Srov. čl. 30 na předchozí straně, kde se prostý měsíční žold udává 3 korunami.

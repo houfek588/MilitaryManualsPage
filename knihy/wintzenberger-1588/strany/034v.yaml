@@ -1,0 +1,32 @@
+id: 034v
+list: '[34] v'
+strana: verso
+sken: 72
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nichts desto weniger brauchen lassen / vnd so die Bezalung ankömpt / sol das Kriegsuolck ein jeder zu seiner gebür dauon entricht / vnd die Profiant / so viel sie gehabt haben / dauon abgezogen / vnd dem gemeinen Man in dem Flecken / darinn sie alle jhre vnderhaltunge gehabt / bezahlet werden / vnd sol auch in solcher noth ein ander zeit kein aufflauff / Rettung oder Meuterey / noch einige newerung in der Musterung machen / Wo aber solches vbertreten / der oder dieselbigen anfenger sollen am Leibe gestraffet werden / Jeglicher Hauptman sol schuldig sein / in sonderheit solche Meutmacher anzuzeigen.
+  cs: |-
+    nicméně dál používat. Až výplata dorazí, má z ní být válečný lid {Kriegsuolck} vyplacen, každý podle toho, co mu náleží; proviant {Profiant}, kolik ho měli, se z ní srazí a zaplatí se obyčejným lidem {gemeinen Man} v městečku {Flecken}, kde měli všechnu svou výživu. Ani v takové nouzi, ani jindy nemají dělat žádné srocení {aufflauff}, spolčování[^1] nebo vzpouru {Meuterey} ani zavádět nic nového při přehlídce {Musterung}. Kdo by to však přestoupil, ten nebo ti, kdo s tím začali, mají být potrestáni na těle. Každý hejtman {Hauptman} je povinen takové buřiče {Meutmacher} jmenovitě udat.
+- typ: odstavec
+  de: |-
+    34. Item / es sol auch das Kriegsuolck in den Losamenten / darin sie beherbriget werden / zu frieden sein / nicht Hausgeschirr / Betten vnd Fewer / nach zimlicher notdurfft / vnd die Wirt / dabey sie beherbriget sein / in jhren Heusern haben / vnd sol sich des Fewers / als mit den Wirten sonst keinen vberdrang oder beschwerung / noch Oel / Saltz / Hew oder Stro von jhnen erfordern / anderst derwegen gebührlicher bezalunge / dieweil man solches in Hespanien nimmer / pfleget zu geben / vnd sonderlich in diesem Fürstenthumb / Cathalonien / aus welchen vrsachen / darinnen gemelten diesen Landen / einem jeden jedes Monat ein Drittheil einer Cronen geben wird.
+  cs: |-
+    34. Dále se má válečný lid v ubytování {Losamenten}, kde je ubytován, spokojit s[^2] nádobím {Hausgeschirr}, lůžky a ohněm podle slušné potřeby a podle toho, co hospodáři {Wirt}, u nichž jsou ubytováni, ve svých domech mají. Ohně mají [užívat] spolu s hospodáři a jinak jim nečinit žádný útisk ani obtíž a nežádat od nich olej, sůl, seno ani slámu, leda za řádnou úhradu, neboť ve Španělsku se to [zdarma] dávat nikdy nezvykne[^3], a zvláště ne v tomto knížectví, v Katalánsku. Z těch příčin se v řečených zemích dává každému měsíčně třetina koruny {Cronen}.
+- typ: odstavec
+  de: |-
+    35. Item / das Kriegsuolck sol in den Flecken / da sie dann gelegenheit haben / notdürfftiglich / vnd sol der Comissarius / der jhnen zugeben wird / hierin einsehen vnd ordnung thun / damit schad vnd
+  cs: |-
+    35. Dále má být válečný lid v městečkách, kde k tomu má příležitost, podle potřeby [zaopatřen dřívím][^4] a komisař {Comissarius}, který mu bude přidělen, má na to dohlížet a zjednat pořádek, aby se škodě a
+poznamky:
+- n: 1
+  text: V tisku „Rettung“ (záchrana), což v řadě „aufflauff / … oder Meuterey“ nedává smysl; nejspíš tisková chyba za „Rottung“ (srocování do rot, spolčování).
+- n: 2
+  text: V tisku „nicht Hausgeschirr“; smysl vyžaduje „mit“ (spokojit se s nádobím …), jde tedy nejspíš o tiskovou chybu. Celý článek je stylisticky porušený, snad jde o překlad ze španělské předlohy.
+- n: 3
+  text: Hostitel ve Španělsku podle zvyku vojákům olej, sůl, seno a slámu zdarma neposkytoval; proto dostávali měsíční příspěvek třetiny koruny. Katalánsko (Cathalonien) bylo knížectvím aragonské koruny.
+- n: 4
+  text: Věta je v tisku neúplná (chybí předmět a sloveso). Doplněno podle obdobného čl. 41 („mit Holtz … notdürfftiglich vorsehen werden“), který rovněž chrání budovy a stromy před vojáky.

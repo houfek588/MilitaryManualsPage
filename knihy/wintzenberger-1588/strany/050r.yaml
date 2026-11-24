@@ -1,0 +1,52 @@
+id: 050r
+list: '[50] r'
+strana: recto
+sken: 103
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    seine sache zu GOtt / vnd den Keyserlichen Rechten / vnd bittet vmb ein gnediges Vrtheil.
+  cs: |-
+    při Bohu a císařskému právu {Keyserlichen Rechten} a prosí o milostivý rozsudek.
+- typ: odstavec
+  de: |-
+    Also haben Keyserliche Rechte jhme 3. klagen vnd 3. antworten erleubet / welcher denn die besten Zeugen hat / der mag mit dem Rechten fortfaren / Wenn nun die 3. klagen vnd antwort ergangen sein / so heist der Schultheis den vmbstehenden / mit sampt dem Profosen vnd seinem Widerpart / so lange das das Vrtheil gefelt vnd gesprochen ist / abstehen.
+  cs: |-
+    Tak mu tedy císařské právo dovoluje 3 žaloby a 3 odpovědi; kdo má nejlepší svědky, ten smí v řízení pokračovat. Když proběhnou 3 žaloby a odpovědi, vyzve rychtář {Schultheis} přihlížející spolu s profousem {Profosen} a jeho odpůrcem {Widerpart}, aby odstoupili, dokud nebude rozsudek vynesen a vysloven.
+- typ: odstavec
+  de: |-
+    Der Schultheis schlegt mit dem Stab auff den Tisch / vnd spricht: Stehet herzu jhr Menge / mit sampt dem Profosen vnd Mishändler / So kömpt der Profos vor die Banck.
+  cs: |-
+    Rychtář udeří soudní holí {Stab} do stolu a praví: „Přistupte, vy všichni, spolu s profousem a provinilcem {Mishändler}!“ Tu přijde profous před lavici.
+- typ: odstavec
+  de: |-
+    Spricht der Schultheis zum Profosen vnd Mishändler: Brůder / seyd jhr beyde zu frieden / was euch Vrtheil vnd Recht geben hat.
+  cs: |-
+    Rychtář praví profousovi a provinilci: „Bratři, jste oba spokojeni s tím, co vám dal rozsudek a právo?“
+- typ: odstavec
+  de: 'Antworten sie beyde: Ja / Ja.'
+  cs: 'Oba odpovědí: „Ano, ano.“'
+- typ: odstavec
+  de: |-
+    Darauff wird das Vrtheil / so von dem Schultheissen vnd andern Richtern erkandt ist / vnd von dem Obersten vbergeben ist worden / das wird von dem Gerichtschreiber öffentlich jhnen beyden vorgelesen.
+  cs: |-
+    Nato soudní písař {Gerichtschreiber} oběma veřejně přečte rozsudek, který rychtář a ostatní přísedící {Richtern} nalezli a který plukovník {Obersten} předal [k vyhlášení][^1].
+- typ: nadpis
+  uroven: 2
+  de: Folget das Recht mit den langen Spiessen.
+  cs: Následuje právo dlouhých pík.
+- typ: nadpis
+  uroven: 3
+  de: '1.'
+  cs: '1.'
+- typ: odstavec
+  de: |-
+    Zum ersten / wo ein Fürst oder Herr ein hauffen Landsknechte annimpt / oder öffentlichen
+  cs: |-
+    Za prvé: najme-li kníže nebo pán houf lancknechtů {Landsknechte} nebo je veřejně
+poznamky:
+- n: 1
+  text: „von dem Obersten vbergeben ist worden“ – „von“ zde uvádí původce děje (předán plukovníkem); rozsudek hrdelního soudu podléhal plukovníkovu potvrzení, a teprve pak se vyhlašoval. Méně pravděpodobné čtení „byl předložen plukovníkovi“.

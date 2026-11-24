@@ -1,0 +1,35 @@
+id: 047v
+list: '[47] v'
+strana: verso
+sken: 98
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Antwort.
+  cs: Odpověď.
+- typ: odstavec
+  de: |-
+    Herr Schultheis / jhr habt mich gefraget bey meinem Eyde / das ich euch sol ausweisung geben / so sage ich euch bey meinem Eyde / ob sich Regen oder Wind erhůbe / das jhr macht vnd gewalt habet / wann es noch bey guter Tegzeit ist / das jhr mit ewern Richtern auffstehet / vnd vnter ein Dach zu stehen oder zu sitzen / damit das Gerichtsbuch bey seinen wůrden bleiben mag / vnd der Gerichtschreiber desto füglicher zu schreiben hat / nach Ordnung des Rechten / Jhr habt auch macht / ewer Recht zauerbannen / auff solche vmbfrage 1. fl. am Golde.
+  cs: |-
+    Pane rychtáři {Schultheis}, ptali jste se mě při mé přísaze {Eyde}, abych vám dal nález {ausweisung}. Pravím vám tedy při své přísaze: kdyby se zvedl déšť nebo vítr, máte moc a právo, je-li ještě dobrá denní doba, vstát se svými přísedícími {Richtern} a jít stát nebo sedět pod střechu, aby soudní kniha {Gerichtsbuch} zůstala v náležité vážnosti a soudní písař {Gerichtschreiber} mohl podle řádu práva tím pohodlněji psát. Máte také moc po tomto dotazování {vmbfrage} zahájit svůj soud pod pokutou jednoho zlatého {fl.} ve zlatě[^1].
+- typ: nadpis
+  uroven: 3
+  de: Nun spricht der Schultheis.
+  cs: Nyní praví rychtář.
+- typ: odstavec
+  de: |-
+    DIeweil jhr nun alle bey dem Eyde gefraget vnd ermanet seid worden / so wollen wir das Göttliche Recht verbannen / vnd die Banck spannen / wie vnser Väter vnd Vorfahren gethan haben / nach dem Rechten / das vns Keyser vnd Könige / Fürsten vnd Herren gegeben haben / von wegen Gottes des Allmechtigen / da alle Gerechtigkeit aus entsprossen ist.
+  cs: |-
+    Poněvadž jste nyní byli všichni při přísaze tázáni a napomenuti, chceme zahájit {verbannen} božský soud a napnout lavici {die Banck spannen}[^2], jak to činili naši otcové a předkové, podle práva, které nám dali císařové a králové, knížata a páni, jménem všemohoucího Boha, z něhož vzešla všechna spravedlnost.
+- typ: odstavec
+  de: |-
+    Nun spandt der Schultheis die Banck / allen Richtern / vnd müssen denn auffstehen / vnd nemen die Hůt alle abe / der Schultheis
+  cs: |-
+    Nyní rychtář napíná lavici všem přísedícím; ti pak musejí vstát a všichni smeknout klobouky. Rychtář
+poznamky:
+- n: 1
+  text: „vmbfrage“ – dotazování přísedících jednoho po druhém, které právě proběhlo. V tisku „zauerbannen“ (tisková chyba za „zuuerbannen“) a „Tegzeit“ (za „Tagzeit“). „1. fl. am Golde“ = jeden zlatý (florén) ve zlaté minci, nikoli v drobné stříbrné.
+- n: 2
+  text: „Die Banck spannen“ (napnout, tj. postavit a vymezit soudní lavici) – starobylá formule slavnostního otevření soudu, souběžná se „zahájením“ (verbannen); od té chvíle platí soudní mír a jeho rušení se trestá pokutou.

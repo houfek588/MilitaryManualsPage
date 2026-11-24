@@ -1,0 +1,46 @@
+id: 018r
+list: '[18] r'
+strana: recto
+sken: 39
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    haben / dardurch wir ein nachtheil empfangen haben.
+  cs: |-
+    čímž jsme utrpěli škodu.
+- typ: odstavec
+  de: |-
+    Darumb wolt jhr kriegen / so möget jhr wol vmbschawen / denn die Welt ist gar vorteilisch worden / darumb so mercket auff ein jetzlich stück / das da geschrieben ist / vorsehe sich ein jeglicher selber / dann daran gar viel gelegen ist.
+  cs: |-
+    Chcete-li tedy válčit, dobře se rozhlížejte, neboť svět se stal velmi vychytralým.[^1] Proto dbejte na každý kus, který je zde napsán, a ať se každý sám má na pozoru, neboť na tom velmi mnoho záleží.
+- typ: odstavec
+  de: |-
+    Gedencke das du hast zu einer jeglichen Büchssen ein gerechte Kugel / sie sey gros oder klein / damit kein jrrung werde im schiessen / denn es kömpt offt darzu / das gros jrrung geschicht / mit dem oder andern dingen / Darumb wolt jhr ein Zeugmeister sein / so bedencket / was zu allen dingen gehöret.
+  cs: |-
+    Pamatuj, abys měl ke každému dělu {Büchssen}, ať je velké nebo malé, správnou kouli {gerechte Kugel},[^2] aby při střelbě nedošlo k omylu; často se totiž stává, že se s tím či s jinými věcmi velmi chybuje. Chcete-li tedy být zbrojmistrem {Zeugmeister}, uvažte, co ke všem věcem patří.
+- typ: odstavec
+  de: |-
+    Nun mus ich mehr melden / das man auch mus haben liderne Eymer / vor die höltzenen Schieff / wo man die haben kan. Gedencket das jhr das Puluer eben kennet / das zu jeder Büchssen gehöret / sie sey gros oder klein / damit jhr das Geschütze nicht zureisset / dann es ist gar offt geschehen / vnd es weis nicht ein jeder / was er schiessen sol / Ich wolt nicht / das es jederman wüste / was darzu gehöret.
+  cs: |-
+    Nyní musím dále uvést, že je třeba mít také kožená vědra místo dřevěných škopků {Schieff},[^3] kde je lze sehnat. Pamatujte, abyste přesně znali prach {Puluer}, který ke každému dělu patří, ať je velké nebo malé, abyste děla neroztrhli; to se totiž stalo velmi často a ne každý ví, čím má střílet. Nechtěl bych, aby každý věděl, co k tomu patří.
+- typ: odstavec
+  de: |-
+    Ich habe bey andern Herren gesehen vnd erfahren / das ein oberster Feldheuptman ob einem Zeugmeister gehalten hat / damit er die Büchssenmeister in einen ehrlichen standt bringe. Item noch mehr / darzu in der Munition eine Keyserliche Freyheit in seinem Zeldt zuhalten / es wil aber wider abgehen / vnd wo man das nicht abtreibet / da wird
+  cs: |-
+    U jiných pánů jsem viděl a zažil, že nejvyšší polní hejtman {oberster Feldheuptman} stál za zbrojmistrem, aby puškaře {Büchssenmeister} uvedl do čestného postavení. Dále ještě k tomu, aby [zbrojmistr] při munici {Munition} držel ve svém stanu {Zeldt} císařskou výsadu {Keyserliche Freyheit}.[^4] To však zase upadá, a pokud se tomu nezabrání, nebude
+poznamky:
+- n: 1
+  text: |-
+    „Vorteilisch“ – kdo hledá výhodu (Vorteil), vychytralý, úskočný.
+- n: 2
+  text: |-
+    „Gerechte Kugel“ – koule přesně odpovídající ráži (vývrtu) daného děla.
+- n: 3
+  text: |-
+    „Schieff“ – patrně „Schaff“, dřevěná nádoba, škopek, džber; kožená vědra jsou lehčí a nerozbijí se (k hašení a k vodě pro vytěráky). Méně pravděpodobné je čtení „Schiff“ (kožená vědra pro dřevěné lodi, tj. k vylévání vody).
+- n: 4
+  text: |-
+    Tisk má „Zeldt“ (Zelt, stan; ověřeno ve skenu, OCR i pracovní přepis četly „Feldt“). „Keyserliche Freyheit“ je výsada dělostřelectva udělená císařem, zejména právo útočiště (viz heslo glosáře); „in seinem Zeldt“ patrně znamená, že útočiště poskytoval stan zbrojmistra.

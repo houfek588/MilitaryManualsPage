@@ -1,0 +1,36 @@
+id: 029v
+list: '[29] v'
+strana: verso
+sken: 62
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    erinnern / vnd so jemand betreten wird / der sich solches vnterstünde / den sol er dem Profosen vberantworten / gegen jhm nach vermög des Artickelsbrieffs handeln.
+  cs: |-
+    a bude-li někdo přistižen, že se něčeho takového odvážil, má ho vydat profousovi {Profosen} [a ten má] s ním naložit podle artikulního listu {Artickelsbrieffs}.
+- typ: odstavec
+  de: |-
+    Gleicher weis sol er gut auffsehen haben / damit die Kriegsleut keiner auff des andern Nahmen durchgehe / oder einer dem andern sein Harnisch / Wehre / Spies oder Hacken auff die Musterung leihen / Wo aber einer befunden / dem sol mit gleicher straff / wie oben gemelt / verfolget werden / es sol mit dem ersten Blat nachfolgender weise gehandelt werden / Nemlich / dem Hauptman 10. Soldt / dem Fendrich 5. Soldt / des Hauptmans vnd Fendrichs Buben jeden ein Soldt / vnd den andern auff jhre Nahmen im Register / als Fürer / Vorehrer / beyden Weibeln / sol ein solcher Nahm gut gemacht werden / den beyden Trummelschlagern jeden zwene Soldt / Im ersten Blat sol der Feldweibel 1. Soldt / vnd im andern des Obristen Stadt 3. Soldt haben / nach laut vnd verzeichnis des ersten Blats / so vnter einem Fenlein so viel ansehnlicher Personen weren / die mit 100. Vbersolden nicht möchten vnterhalten werden / dieselben sol gemelter vnser Musterherr auffzeichnen / vnd vns sonderlichen neben seinem gutdüncken zu wissen thun / vnd was vns nach gestalt der Personen vnd anzal der Vbersold / die sie begeren / zu thun sey / vnd mit wie viel schulden dieselben möchten zu endern gestalt werden / vns berichten.
+  cs: |-
+    Stejně tak má dobře dohlížet, aby nikdo z válečníků {Kriegsleut} neprošel na jméno jiného nebo aby jeden druhému nepůjčoval na přehlídku {Musterung} svou zbroj {Harnisch}, zbraň, píku {Spies} nebo hákovnici {Hacken}. Bude-li však někdo takový zjištěn, má být stíhán stejným trestem, jak je výše řečeno. S prvním listem {ersten Blat} se má naložit takto: hejtmanovi {Hauptman} 10 žoldů, praporečníkovi {Fendrich} 5 žoldů, pacholeti {Buben} hejtmana i praporečníka každému jeden žold; a ostatním – jako vůdci {Fürer}, furýrovi {Vorehrer}[^1] a oběma šikovatelům {Weibeln} – se má na jejich jména v rejstříku {Register} započíst jedno takové jméno[^2]; oběma bubeníkům {Trummelschlagern} každému dva žoldy. V prvním listu má mít šikovatel {Feldweibel} 1 žold a v druhém, [totiž ve] stavu {Stadt} plukovníka, 3 žoldy[^3], podle znění a soupisu prvního listu. Bylo-li by v jednom praporci {Fenlein} tolik vážených osob, že by je nebylo možné vydržovat ze 100 přeplatků {Vbersolden}, má je řečený náš přehlídkový komisař {Musterherr} zapsat a zvlášť nám je spolu se svým dobrým zdáním oznámit, a podat nám zprávu, co máme vzhledem k osobám a k počtu přeplatků, jichž žádají, učinit a kolika žoldy {schulden} by mohli být uspokojeni[^4].
+- typ: odstavec
+  de: |-
+    Es sol auch vnser Comissarius daran sein / das sich bemelt vnser Kriegsuolck von stundan nach der
+  cs: |-
+    Náš komisař {Comissarius} má také dbát, aby se řečený náš válečný lid hned po
+poznamky:
+- n: 1
+  text: |-
+    „Vorehrer“ – zřejmě zkomolené „Forierer“ (furýr) praporce; v obdobných přehlídkových instrukcích stojí vedle sebe vůdce (Führer) a furýr.
+- n: 2
+  text: |-
+    „sol ein solcher Nahm gut gemacht werden“ – patrně: každému z nich se na jeho jméno započte jeden žold navíc, stejně jako pacholatům hejtmana a praporečníka.
+- n: 3
+  text: |-
+    „Im ersten Blat … vnd im andern des Obristen Stadt 3. Soldt“ – šikovatel dostává 1 přeplatek z prvního listu svého praporce a další 3 ze stavu placeného přímo císařem; srov. stav vysokých úřadů na [[028v|28 v]], položka 8: „10 Feldwebel / einem jeden 3 Vber sold“.
+- n: 4
+  text: |-
+    „mit wie viel schulden dieselben möchten zu endern gestalt werden“ – zřejmě zkomoleno z „mit wie viel Solden … zufrieden gestellt werden“; překládáno podle tohoto smyslu.

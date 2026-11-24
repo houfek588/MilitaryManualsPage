@@ -1,0 +1,49 @@
+id: 015v
+list: '[15] v'
+strana: verso
+sken: 34
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Jhr müst 200. gute Hacken Büchssen / darzu guter Böck ein hundert / vnd darzu eine gute Summa Zündstrick / darzu etliche gute Seck / darein man das Puluer vnd die Kugeln thut / vnd zwo gute Giespfannen / darinnen man die Kugeln giessen / zu den Hacken vnd Falckeneth / vnd vier gute Giesleffel / darzu 20. Centner Bley / daraus man geust / was darzu noth ist.
+  cs: |-
+    Musíte [mít][^1] 200 dobrých hákovnic {Hacken Büchssen} a k nim sto dobrých kozlíků,[^2] dále slušné množství doutnáku {Zündstrick}, několik dobrých pytlů, do nichž se dává prach {Puluer} a koule {Kugeln}, dvě dobré licí pánve {Giespfannen}, v nichž se lijí koule pro hákovnice a falkonety {Falckeneth}, čtyři dobré licí lžíce {Giesleffel} a k tomu 20 centů {Centner} olova, z něhož se odlévá, čeho je zapotřebí.
+- typ: odstavec
+  de: |-
+    Mehr müst jhr haben zu dem Geschütz guter Böcke zwene / oder Zug mit aller zugehörung / drey guter Hebestöck / mit einem langen Bawm / damit man auffhebet / was noth ist / darzu drey Wagen / vnd für ein wagen sechs Pferde. Mehr müst jhr haben drey Brücken / vnd was darzu noth ist / das werdet jhr wol betrachten / darzu drey Wagen / für einen sechs Pferde.
+  cs: |-
+    Dále musíte mít k dělům {Geschütz} dvě dobré zvedací kozy {Böcke} nebo kladkostroje {Zug} se vším příslušenstvím, tři dobré zvedáky {Hebestöck}[^3] s dlouhým trámem, jimiž se zvedá, co je potřeba, a k tomu tři vozy a ke každému vozu šest koní. Dále musíte mít tři mosty {Brücken}[^4] a co je k nim zapotřebí – to sami dobře uvážíte –, a k tomu tři vozy, ke každému šest koní.
+- typ: odstavec
+  de: |-
+    Jhr müst haben ein Wagen mit guten Rädern / ob ein Rad bricht / das man ein anders hat / Mehr ein Wagen mit guten Axen / die wol beschlagen seind / mehr ein Wagen mit Felgen / ein Wagen mit guten Speichen / sechs guter Legeisen / vnd etzliche gute Radeschinen / etzliche Ring an die Naben / etzliche gute Schinnagel / etzliche gute Bande / an die Fürschlege / etzliche Riemel für die Räder / etzliche Lönnegel / ob ein Rad wolte abgehen / das man es daruor sties / darzu ein Wagen der den Zeug tregt / darfür sechs Pferde / das gehöret in die Munition.
+  cs: |-
+    Musíte mít vůz s dobrými koly, aby se mělo jiné, kdyby se kolo zlomilo; dále vůz s dobrými nápravami {Axen}, které jsou dobře okované, dále vůz s loukotěmi {Felgen}, vůz s dobrými paprsky {Speichen}, šest dobrých ložných želez {Legeisen},[^5] několik dobrých šín {Radeschinen} [železných obručí kol], několik kroužků na náboje {Naben}, několik dobrých hřebů na šíny {Schinnagel}, několik dobrých kování {Bande} na tažné nářadí {Fürschlege},[^6] několik řemínků {Riemel} na kola a několik zákolníků {Lönnegel}, které se zastrčí, kdyby kolo chtělo spadnout; k tomu vůz, který to náčiní veze, a do něj šest koní. To patří k munici {Munition}.[^7]
+- typ: odstavec
+  de: |-
+    Item / jhr müst haben 14. Sturmleitern / je eine lenger als die ander / darzu etzliche Stangen / damit man die Leitern auffricht / darzu drey Wagen / vnd für ein Wagen 6. Pferde.
+  cs: |-
+    Dále musíte mít 14 útočných žebříků {Sturmleitern}, jeden vždy delší než druhý, k tomu několik tyčí, jimiž se žebříky vztyčují, a k tomu tři vozy, ke každému vozu 6 koní.
+poznamky:
+- n: 1
+  text: |-
+    Text navazuje na stranu, která v digitalizaci chybí (viz poznámku na [[014r|listu 14 r]]); začátek tohoto soupisu výzbroje a munice tedy není k dispozici. V tisku tu sloveso „haben“ vypadlo.
+- n: 2
+  text: |-
+    „Bock“ – podpěrný kozlík (podstavec), z něhož se střílí z těžké hákovnice; v dalším odstavci u děl znamená „Bock“ zvedací kozu.
+- n: 3
+  text: |-
+    „Hebestock“ – zvedací páka či sochor; „mit einem langen Bawm“ patrně o zvedáku s dlouhým trámem (ramenem páky).
+- n: 4
+  text: |-
+    Patrně rozebíratelné mosty k přechodu příkopů a potoků, anebo dřevěné ložné podlahy pod děla (srov. heslo glosáře); v pochodovém pořadí jedou mosty před velkými děly (viz [[016v|list 16 v]]).
+- n: 5
+  text: |-
+    „Legeisen“ – nejasné; patrně železné pásy či destičky kladené (ložené) na nápravy nebo k jejich opravě.
+- n: 6
+  text: |-
+    „Fürschlag“ (Vorschlag) – nejasné; podle dalšího textu („ein Wagen mit Fürschlegen / da die Ros anziehen“) část postroje či předku vozu, za niž táhnou koně (patrně svora nebo oj předku); vahadla jsou na další straně zvlášť jako „Wogen“.
+- n: 7
+  text: |-
+    „Munition“ zde v širším dobovém smyslu: veškeré válečné zásoby a náčiní dělostřelectva, nejen střelivo.

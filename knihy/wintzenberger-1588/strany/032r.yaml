@@ -1,0 +1,35 @@
+id: 032r
+list: '[32] r'
+strana: recto
+sken: 67
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    sey dann zuuor die Walstadt vnd Platz erobert / sondern in guter Ordnung bleiben / bey Leibstraff.
+  cs: |-
+    nebude nejprve dobyto bojiště {Walstadt} a místo, nýbrž má zůstat v dobrém pořádku, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    13. Item / was einer in Schlachten vnd Stürmen / oder sonst den Feinden abgewonnen / so sol einem jeden / nach Krieges Recht vnd Ordnung vermög bleiben / ohne Geschütz vnd Puluer / vnd anders zu der Artalerey / vnd zu erhaltung desselbigen Flecken gehörig / damit sol der obriste Feldhauptman zu handeln haben / vnd wo Viehe oder Profiant dem Feinde abgewonnen würde / der oder dieselbigen sollen solche Profiant oder Viehe nicht aus dem Läger führen / sondern im Läger vmb einen zimlichen Pfenning verkauffen / den gemeinen Knechten zu gute.
+  cs: |-
+    13. Dále co kdo v bitvách a útocích {Stürmen} nebo jinak nepříteli ukořistí, to mu má podle válečného práva a řádu zůstat – kromě děl {Geschütz} a prachu {Puluer} a jiných věcí patřících k dělostřelectvu {Artalerey} a k udržení téhož místa; s tím má nakládat nejvyšší polní hejtman {obriste Feldhauptman}. A bude-li nepříteli ukořistěn dobytek nebo proviant {Profiant}, ten nebo ti [kdo jej ukořistí] nemají takový proviant nebo dobytek vyvážet z ležení {Läger}, nýbrž jej v ležení prodat za slušnou cenu {zimlichen Pfenning}, prostým knechtům ku prospěchu.
+- typ: odstavec
+  de: |-
+    14. Item / wo einer oder mehr wehren / die eine flucht machten / im Felde oder sonst / so sol der neheste jhn erstechen oder erschlahen / vnd ob einer eine flucht machen wolte / vnd darüber zu tode geschlagen würde / so sol sich niemand an jhme vorgreiffen / sondern grossen danck verdienet haben / wo aber einer entlieff / so sol derselbige dem Obristen angezeiget werden / vnd der Profos sol jhn alsdann am Leibe straffen / oder zu einem Schelmen gemacht werden.
+  cs: |-
+    14. Dále byl-li by jeden nebo více takových, kteří by se v poli nebo jinde dali na útěk, má ho nejbližší probodnout nebo ubít. A kdyby se někdo chtěl dát na útěk a byl přitom ubit, nikdo se tím na něm neprohřeší[^1], nýbrž si [ten, kdo ho zabil,] zaslouží velký dík. Kdyby však někdo utekl, má být oznámen plukovníkovi {Obristen} a profous {Profos} ho pak má potrestat na těle, nebo má být prohlášen za šelmu {Schelmen}[^2].
+- typ: odstavec
+  de: |-
+    15. Item / ob einer oder mehr weren / die verräterey oder sonst böse stücke treiben / der oder dieselbigen sollen dem Profosen angezeiget werden / vnd der Profos sol alsdann mit jhnen handeln / nach befehlich des Obristen.
+  cs: |-
+    15. Dále byl-li by jeden nebo více takových, kteří by se dopouštěli zrady nebo jiných zlých kousků, mají být ten nebo ti oznámeni profousovi a profous s nimi pak má naložit podle rozkazu plukovníka.
+poznamky:
+- n: 1
+  text: |-
+    „so sol sich niemand an jhme vorgreiffen“ – doslova „nikdo se na něm nedopouští přečinu“, tj. zabití zběha v boji se netrestá.
+- n: 2
+  text: |-
+    „zu einem Schelmen gemacht werden“ – být veřejně prohlášen za bezectného (šelmu), čímž ztrácel čest a nesměl už sloužit mezi poctivými válečníky.

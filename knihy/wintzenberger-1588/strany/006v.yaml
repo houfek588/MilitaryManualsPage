@@ -1,0 +1,31 @@
+id: 006v
+list: '[6] v'
+strana: verso
+sken: 16
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Darumb auch die Heyden vor alters feine Vers vnd Sprüche von Krieges wesen gemacht/ wie folget.
+  cs: |-
+    Proto také pohané za starých časů složili o válečnictví pěkné verše a průpovědi, jak následuje
+- typ: odstavec
+  de: |-
+    EHe man aber ein Krieg anfinge/ solt man billich betrachten/ was auch die Heyden daruon geschrieben haben/ als wil ich nur derer 4. an melden.
+  cs: |-
+    Než by však člověk začal válku, měl by náležitě uvážit, co o ní napsali i pohané; uvedu z nich tedy jen čtyři.
+- typ: odstavec
+  de: |-
+    1. Erstlich/ der Grichische Poet Homerus schreibet also/ wie Achilles auff seinem Schild habe gemahlet oder gegraben gehabt/ zwo Stedte/ in der einen ist man guter ding/ gehet alles still vnd friedlich zu/ man helt Hochzeit vnd Frewdenfest. In der andern aber eitel Krieg/ Brand/ Morden vnd Rauben/ wie diese Lateinische Vers melden.
+  cs: |-
+    1. Předně řecký básník Homér píše, že Achilles měl na svém štítě namalována či vyryta dvě města[^1]. V jednom jsou lidé dobré mysli, vše tam probíhá tiše a pokojně, slaví se svatby a radostné slavnosti. Ve druhém je však samá válka, požár, vraždění a loupení, jak praví tyto latinské verše.
+- typ: obrazek
+  soubor: drevorez-16.jpg
+  popis: |-
+    Dřevořez: město v míru – pohled přes řeku na opevněné město s věžemi a kostely (na jedné věži půlměsíc); k městské bráně vede dlouhý most se zubatým zábradlím, na řece plují lodice. (Ilustruje první z Homérových měst.)
+poznamky:
+- n: 1
+  text: |-
+    Homér, Ilias XVIII, popis Achillova štítu, který mu ukoval Héfaistos; na štítu je město svateb a hostin a město obležené vojskem. Latinské verše na následující straně jsou volným latinským převodem tohoto místa.

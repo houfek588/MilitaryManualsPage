@@ -1,0 +1,25 @@
+id: 012r
+list: '[12] r'
+strana: recto
+sken: 27
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Zeugmeister oder Büchssenmeister / das mus man alles dem obersten Hauptman anzunemen befehlen / vmb des gehorsams willen / denn wo einige Person durch den König oder Fürsten angenommen würden / so seind sie dem obersten Hauptman nimmermehr so gehorsam / als er sie selber anneme / aus befehlich seines Fürsten vnd Herren / denn der König vnd Fürst mag wol seinem obersten Hauptman anzeigen / welche Personen er wil angenommen haben / vnd dasselbige dem obersten Hauptman zu thun befehlen / Es sol aber ein oberster Hauptman sich fleißigen vnd wol fürsehen / was er für Vnderheuptleute / zu Ros vnd Fus annimpt / denn darinne ligt seine selbst ehre vnd glück / Widerumb seine selbst schande vnd vnehre / Darumb so las er jhm nicht einreden / Personen die des Krieges nicht geübet sein / es sein Freunde oder Feinde / Denn wer wil einen jeden vngeübten Man im Kriege lernen / ehe er das Kriegen gelernet hat / hat man viel schaden erlitten.
+  cs: |-
+    zbrojmistr {Zeugmeister} nebo puškař {Büchssenmeister} – to vše je třeba uložit nejvyššímu hejtmanovi {obersten Hauptman}, aby je přijímal sám, a to kvůli poslušnosti.[^1] Kdyby totiž některé osoby přijal král nebo kníže, nebudou nejvyššímu hejtmanovi nikdy tak poslušné, jako kdyby je přijal on sám z rozkazu svého knížete a pána. Král a kníže mu ovšem může oznámit, které osoby chce mít přijaty, a uložit mu, aby tak učinil. Nejvyšší hejtman se však má pilně snažit a dobře si rozmyslet, jaké podřízené hejtmany {Vnderheuptleute} pro jízdu i pěchotu {zu Ros vnd Fus} přijímá, neboť na tom spočívá jeho vlastní čest a zdar, anebo naopak jeho vlastní hanba a nečest. Ať si proto nedá vnutit osoby, které nejsou ve válce zběhlé, ať jsou to přátelé, nebo nepřátelé.[^2] Má-li se totiž každý nezkušený muž učit teprve ve válce, utrpí se dřív, než se válčit naučí, mnoho škody.
+- typ: odstavec
+  de: |-
+    Darumb sol der Oberste mit fleis erforschen / vnd fragen nach den / die des Krieges geübet vnd im gebrauch sind / vnangesehen der Personen / ob sie hohes oder niderstandes / gros oder klein sind / denn es leit am verstande vnd am gebrauch im Kriege am meisten / vnd nicht an der Person / vnd in allen Empter / als Zeugmeister / Büchssenmeister / Schantzmeister / das die im gebrauch / vnd wol vorstendig des Krieges sein / denn wenn man dieselbigen im Felde erst lernen sol / so gnade GOtt dem Kriege / wiewol man denselbigen allen schaffen vnd gebieten mus / wie sie ziehen / vnd wie sie sich schicken sollen.
+  cs: |-
+    Proto má vrchní velitel {Oberste} pilně pátrat a vyptávat se po těch, kdo jsou ve válce zběhlí a zkušení, bez ohledu na osobu – zda jsou vysokého či nízkého stavu, velcí či malí. Ve válce totiž nejvíce záleží na rozumu a zkušenosti, a ne na osobě. A ve všech úřadech {Empter}, jako je zbrojmistr, puškař a šancmistr {Schantzmeister}, ať jsou lidé zkušení a válce dobře rozumějící; mají-li se to totiž učit teprve v poli, pak se Bůh nad takovou válkou smiluj. Přesto je ovšem nutno jim všem nařizovat a přikazovat, jak mají táhnout a jak si mají počínat.
+poznamky:
+- n: 1
+  text: |-
+    Věta začíná na [[011v|předchozí straně]] („… ať jezdec, nebo pěší knecht, zbrojmistr nebo puškař“); slovo je v tisku rozděleno přes hranici stran (Zeug-|meister). „Oberster Hauptman“ (nejvyšší hejtman) a „der Oberste“ (vrchní velitel) označují v této kapitole tutéž osobu – velitele celého vojska, kterého jmenuje král nebo kníže.
+- n: 2
+  text: |-
+    „Freunde oder Feinde“ – ustálená dvojice ve smyslu „ať je to kdokoli“; „Freund“ znamená dobově i příbuzného.

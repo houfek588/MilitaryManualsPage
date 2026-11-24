@@ -1,0 +1,37 @@
+id: 047r
+list: '[47] r'
+strana: recto
+sken: 97
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: '6.'
+  cs: '6.'
+- typ: odstavec
+  de: |-
+    Zum sechsten / frage ich euch aller massen vnd gestalt / wie die andern gefraget sein / ob es sach were / das mich GOtt auff den heutigen Tag angriffe / mit einer Kranckheit / wie denn alle in seinen Henden stehen.
+  cs: |-
+    Za šesté se vás ptám zcela týmž způsobem a v téže podobě, jako byli tázáni ostatní: kdyby se stalo, že by mě Bůh dnešního dne stihl nemocí – vždyť všichni jsme v jeho rukou.
+- typ: nadpis
+  uroven: 3
+  de: Antwort.
+  cs: Odpověď.
+- typ: odstavec
+  de: |-
+    Herr Schultheis / jhr habt mich gefraget bey meinem Eyde / vmb eine ausweisung / wenn euch GOtt der Herr angriff mit einer Kranckheit / wie wir denn alle in seinen Göttlichen gnaden stehen / vnd gewarten müssen / ob vns allen solches zu handen stiesse / so sage ich bey meinem Eyde / das jhr macht habet / ewern Stab einem andern ehrlichen Manne in seine Rechte Hand zu geben vnd befehlen / vnd euch lassen führen zu der Herberge / vnd ewer Kranckheit raht suchen / so sol er den Stab von euch empfangen / hat auch macht vnd gewalt zu richten vnd vrtheilen / mit den Richtern / alles das / Was ins Recht eingebracht wird / es sey vmb Silber / Goldt / Leib / Ehr vnd Gut / etc.
+  cs: |-
+    Pane rychtáři {Schultheis}, ptali jste se mě při mé přísaze {Eyde} o nález {ausweisung}, kdyby vás Pán Bůh stihl nemocí – vždyť všichni jsme v jeho božské milosti a musíme počítat s tím, že něco takového může potkat kohokoli z nás. Pravím tedy při své přísaze, že máte moc dát a svěřit svou soudní hůl {Stab} jinému bezúhonnému muži do jeho pravé ruky, dát se odvést do svého ubytování a hledat pomoc proti své nemoci. Ten má od vás hůl přijmout a má také moc a právo soudit a vynášet rozsudek s přísedícími {Richtern} o všem, co bude předneseno k soudu, ať jde o stříbro, zlato, hrdlo, čest a statek atd.
+- typ: nadpis
+  uroven: 3
+  de: '7.'
+  cs: '7.'
+- typ: odstavec
+  de: |-
+    Zum siebenden / frage ich euch aller massen vnd gestalt / wie ich die andern gefraget habe / ob Vngewitter oder Regen am heutigen Tage einfiele / wie mus ich mich halten / mit sampt den Richtern? Ich frage ob ich auch macht habe das Recht zuuerbannen / wie hoch vnd wie thewer?
+  cs: |-
+    Za sedmé se vás ptám zcela týmž způsobem a v téže podobě, jako jsem se tázal ostatních: kdyby dnes přišla nepohoda nebo déšť, jak se mám spolu s přísedícími zachovat? Ptám se také, mám-li moc zahájit soud {das Recht zuuerbannen}, a pod jakou pokutou[^1]?
+poznamky:
+- n: 1
+  text: „wie hoch vnd wie thewer“ – doslova „jak vysoko a jak draze“, tj. pod jakou pokutou smí rychtář při zahájení soudu zakázat jeho rušení.

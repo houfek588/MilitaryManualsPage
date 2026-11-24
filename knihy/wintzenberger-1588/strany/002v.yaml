@@ -1,0 +1,25 @@
+id: 002v
+list: '[2] v'
+strana: verso
+sken: 8
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    feine KriegsRegel/ weise vnd wege vorgestellet/ wie er vor der zeit sich dessen bey Keyser Maximiliano auff höchstes ermelten Keysers beuelich sich dessen gebraucht/ daraus dieselbigen Herren vnd Potentaten/ vnd auch andere Könige/ Fürsten vnd Herren/ so da müsten vnd würden Krieg führen/ sich wol zu ersehen/ so ferne sie sich dessen wollen berichten lassen vnd folgen/ welches jhnen nützlich/ heilsam vnd vortreglichen sein würde/ wie E. E. G. sich fein eigentlich hierinnen zu ersehen haben.
+  cs: |-
+    pěkné válečné pravidlo {KriegsRegel}, způsoby a cesty, jichž sám dříve užíval u císaře Maxmiliána na rozkaz výše jmenovaného císaře. Z toho se tíž páni a mocnáři {Potentaten}, jakož i jiní králové, knížata a páni, kteří by museli a měli vést válku, mohou dobře poučit, pokud se tím chtějí dát poučit a řídit. Bylo by to pro ně užitečné, blahodárné a prospěšné, jak to Vaše urozená Statečnost[^1] může zde sama pěkně a podrobně seznat.
+- typ: odstavec
+  de: |-
+    Denn ob wol andere/ auch von Kriegs Ordnung nützliche bedencken geschrieben haben/ vnd sonderlich ein gros Buch so zu Franckfurt am Meyn/ welches in drey theil verfast/ vnd in Herr Georgen von Fronsberg Namen ausgangen/ vnd sonderlich von Keyser Carl des 5. Krieges hendel/ wie er die zu Wasser vnd Lande gefüret/ mit sampt einer stadtlichen Artalerey vnd aller zugehörigen Munition beschriben/ vnd mit vielen herrlichen Figuren gezieret. Weil aber solch Buch nicht jedermans kauff ist/ vnd sonsten gar weitleufftiger bericht/ vnd viel zeit vnd weil darzu gehöret/ ehe man das alles durch lesen/ vnd auch gahr zuuiel/ das man solches alles im Kopff nicht wol behalten könne.
+  cs: |-
+    O válečném řádu {Kriegs Ordnung} sice sepsali užitečná pojednání i jiní, a zvláště [vyšla] ve Frankfurtu nad Mohanem velká kniha rozdělená do tří dílů, vydaná pod jménem pana Jiřího z Fronsbergu[^2], která popisuje zejména válečné činy císaře Karla V., jak je vedl na vodě i na souši, spolu se skvělým dělostřelectvem {Artalerey} a veškerou příslušnou municí {Munition}, a je ozdobena mnoha krásnými vyobrazeními. Taková kniha však není k mání pro každého. Je to i jinak velmi obšírný výklad: než to člověk všechno přečte, potřebuje mnoho času a chvíle, a je toho i příliš mnoho, než aby si to všechno dobře udržel v hlavě.
+poznamky:
+- n: 1
+  text: |-
+    *E. E. G.* = *Ewer Edle Gestrenge(n)*, zkrácené oslovení podle titulatury adresáta (*Edel, Gestreng*); v překladu jednotně „Vaše urozená Statečnost“.
+- n: 2
+  text: |-
+    Míněno Kriegßbuch Leonharda Fronspergera ve třech dílech (Frankfurt nad Mohanem, nákladem Sigmunda Feyerabenda, 1573; 2. vyd. 1596), jehož součástí je i rozšířený válečný řád z roku 1564 (v této knihovně jako samostatné dílo). Vydavatel autora zřejmě zaměňuje se slavným velitelem lancknechtů Jiřím z Frundsbergu (Georg von Frundsberg, 1473–1528).

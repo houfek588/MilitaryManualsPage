@@ -1,0 +1,37 @@
+id: 018v
+list: '[18] v'
+strana: verso
+sken: 40
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    kein gut Regiment nimmermehr / darauff bedencket euch / Edel vnd Vnedel.
+  cs: |-
+    už nikdy dobré zřízení {Regiment}. Na to pamatujte, šlechtici i nešlechtici.
+- typ: odstavec
+  de: |-
+    Mehr mus man haben etlich gut Gefes zu einem vorraht / vnd etliche gute lange Nagel / in die fördern Wagen / darauff man die Büchssen führet vnd fördert. Viel mehr / das man haben mus / das hie nicht gemeldet wird / darauff ein Zeugmeister trachten sol / die sach sol kein Man offenbaren / denn für sich selber.
+  cs: |-
+    Dále je třeba mít do zásoby několik dobrých lafet {Gefes} a několik dobrých dlouhých hřebů {lange Nagel}[^1] do předních vozů {fördern Wagen}, na nichž se děla {Büchssen} vezou a dopravují. Je toho ještě mnohem víc, co se musí mít a co zde není uvedeno; na to má pamatovat zbrojmistr {Zeugmeister}. Tu věc ať nikdo neprozrazuje, ať si ji každý nechá pro sebe.
+- typ: nadpis
+  uroven: 2
+  de: Eine Schlachtordnung mit guter bedacht zu machen / wie hernach folget.
+  cs: O sestavení bitevního šiku {Schlachtordnung} s dobrou rozvahou, jak následuje
+- typ: odstavec
+  de: |-
+    ERstlich / wenn man zehentausend Man zu Fus hat / so sol man 6000. Man in den gewaltigen hauffen ordenen / vnd die Ordnung breit machen / drey mahl so breit als sie lang ist / vnd last euch dauon niemand abreden / Ich habe es aus gewisser vbung vnd erfahrung / das breite Ordnung nützlicher denn die gevierdten Ordnung / das kan ein jeglicher bey sich selbst ermessen / als viel ein Ordnung breiter ist / weder die ander / also weit bricht man in die seiten ein / vnd fast die schmale Ordnung zwischen die Arm / das ist der rechte todt vnd gewin der Schlacht / ob gleich die schmale Ordnung viel mechtiger am Volck ist / dann die breite / dann wenn man in dieselbe in die seiten kompt / so sein sie verloren / denn es müssen doch die födersten 5. oder 6. Glieder /
+  cs: |-
+    Nejprve: má-li člověk deset tisíc mužů pěchoty, má jich 6000 postavit do hlavního houfu {gewaltigen hauffen} a šik {Ordnung} udělat široký – třikrát tak široký, jak je hluboký[^2] – a nedejte si to od nikoho vymluvit. Z jisté praxe a zkušenosti vím, že široký šik {breite Ordnung} je užitečnější než čtvercový {gevierdten Ordnung}. To může každý sám posoudit: o kolik je jeden šik širší než druhý, o tolik [širší] vpadne úzkému do boků a sevře jej mezi ramena {Arm}; v tom je pravá smrt [protivníka] a vítězství v bitvě,[^3] i kdyby byl úzký šik co do lidu mnohem silnější než široký. Když se mu totiž vpadne do boků, je ztracen, protože přece musejí přední 5 nebo 6 řad {Glieder}
+poznamky:
+- n: 1
+  text: |-
+    Patrně dlouhé čepy či hřeby (srov. „Spannagel“), jimiž se spojuje lafeta s předkem, nebo hřeby k upevnění děla na voze. „Fördern Wagen“ lze číst jako „přední vozy“ (předky) i jako „dopravní vozy“ (slovní hříčka „führet vnd fördert“).
+- n: 2
+  text: |-
+    „Lang“ zde ve smyslu hloubky šiku (počtu řad za sebou), „breit“ je šíře čela.
+- n: 3
+  text: |-
+    Doslova „to je pravá smrt a výhra bitvy“, tj. tím je bitva rozhodnuta.

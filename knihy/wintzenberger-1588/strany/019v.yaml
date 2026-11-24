@@ -1,0 +1,28 @@
+id: 019v
+list: '[19] v'
+strana: verso
+sken: 42
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    alle zeit also befohlen / der doch ein vornemlicher Kriegsheld gewest ist. Nun soltu nemen vnd auslesen / 300. Knechte / vnd etliche gute Büchssen Schützen darunder / die da wol zu Fus sein / vnd solt denselbigen zugeben / zwene Verstendige Redliche Gesellen die diese 300. Knechte führen / das heissen Leuffer / die sol man hinden an die Ordnung anhengen / vnd wenn es nun zum treffen gehen sol / kurtz dauor / ehe die Feinde das Feldgeschütze abgehen lassen / vnd das dieselbigen volles lauffens auff der Feinde Feldgeschütz zulauffen / gar zustrewet / wie man ein Scharmützel anfehet / so dringen sie balde die Büchssenmeister von jhrem anzünden vnd richtunge der Büchssen / vnd macht eine grosse vnordnung vnd geschrey vnter den Feinden / denn sollen sie sich mit einem geordenten hauffen gegen dem zustreitenden Volck zuwenden / so müssen sie euch die seiten geben / vnd können demnach nichts schaffen / an diesem zustrewten Volck / dann es leufft hin vnd wider / das sie nicht wissen / wo sie das warnemen sollen / lassen sie jhr Handgeschütz auff sie abgehen / also hats mehr fehlens denn treffens / vnd kömpt dem rechten hauffen alles zu gut / man mus aber nicht seumen / man mus von stundan auff solch anlauffen allhier auff diesem orth das Feldgeschütz abgehen lassen / vnd mit einem hauffen flugs fort drucken / es treffe Feind oder Freund. Darumb heist mans verlorne Leuffer.
+  cs: |-
+    vždy takto přikazoval – a byl to přece vynikající válečný hrdina. Vezmi tedy a vyber 300 knechtů {Knechte} a mezi nimi několik dobrých střelců z pušek {Büchssen Schützen}, kteří jsou dobří běžci, a přidej jim dva rozumné a řádné druhy, kteří těch 300 knechtů povedou; těm se říká běžci {Leuffer}.[^1] Ty je třeba připojit vzadu k šiku {Ordnung}. A když má dojít ke střetnutí {treffen}, ať krátce předtím, než nepřítel vypálí z polních děl {Feldgeschütze}, vyběhnou plným během na nepřátelská polní děla, docela rozptýleni, jako když se začíná šarvátka {Scharmützel}. Tak brzy zaženou puškaře {Büchssenmeister} od zapalování a míření děl {Büchssen} a způsobí mezi nepřáteli velký zmatek a křik. Mají-li se totiž [nepřátelé] se sevřeným houfem obrátit proti rozptýlenému lidu {zustreitenden Volck},[^2] musejí vám nastavit bok, a proti tomu rozptýlenému lidu stejně nic nesvedou, protože pobíhá sem a tam, takže nevědí, kam mají mířit. Vypálí-li na ně z ručních zbraní {Handgeschütz}, víc minou, než trefí, a to vše jde k dobru vlastnímu houfu {rechten hauffen}. Nesmí se však otálet: hned při takovém náběhu je třeba na tomto místě vypálit z polních děl a s houfem rychle tlačit vpřed, ať to zasáhne nepřítele, nebo přítele. Proto se jim říká ztracení běžci {verlorne Leuffer}.
+- typ: odstavec
+  de: |-
+    Ich mus auch noch ein verdeckt Essen anzeigen / vnd ist dis: Jhr solt nun nemen 500. Knechte / die solt jhr ordnen dahinden an ewer
+  cs: |-
+    Musím ještě ukázat jeden přikrytý pokrm {verdeckt Essen},[^3] a to tento: vezměte 500 knechtů a postavte je vzadu k vašemu
+poznamky:
+- n: 1
+  text: |-
+    Proto dále „verlorne Leuffer“ – ztracení běžci, obdobně jako ztracený houf (verlorner Hauffen): jsou vysláni napřed s vědomím, že je zasáhne i palba vlastních děl.
+- n: 2
+  text: |-
+    Tisk má „zustreitenden“; podle souvislosti (dále „zustrewten Volck“) jde patrně o tiskovou chybu za „zustrewten“ – rozptýlený, rozprášený.
+- n: 3
+  text: |-
+    „Verdeckt Essen“ – doslova přikrytý (zakrytý) pokrm, tj. skrytá lest, překvapení připravené pro nepřítele.

@@ -1,0 +1,26 @@
+id: 012v
+list: '[12] v'
+strana: verso
+sken: 28
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Aber es mus ein jeglicher sein Handwergk selbst können mit fleis ausrichten / darzu gehören alles vorstendige / tapffere / vnd geschickte Leute / Darumb so last euch niemands einreden / der nicht damit vmbgangen hat / wo jhr anderst bey Ehren selbst bleiben wollet / vnd das der oberste Hauptman die Personen / daran gebrechen befunden / allezeit macht habe / dieselbigen zu vrlauben / vnd andere anzunemen / das wil ich euch zum dritten für einen vnterricht angezeiget haben.
+  cs: |-
+    Každý však musí své řemeslo sám umět a pilně vykonávat; k tomu patří samí rozumní, stateční a zruční lidé. Proto si nedejte nic namluvit od nikoho, kdo s tím nemá zkušenost, chcete-li sami zůstat ve cti. A že nejvyšší hejtman {oberste Hauptman} má mít vždy moc osoby, u nichž shledá nedostatky, propustit {vrlauben} a přijmout jiné – to jsem vám chtěl za třetí ukázat pro poučení.
+- typ: odstavec
+  de: |-
+    4. Zum vierdten / sol der oberste Hauptman sich fleißig vorsehen / in der ersten annemung des Volcks / zu Ros vnd zu Fus / daran ligt der gehorsam des Krieges gantz vnd gar / Wie er den eingang macht / bey der Gerechtigkeit da mus er das Kriegesuolck lassen bleiben / denn es vermag sie kein Herr daraus zu dringen / wo anders die Herren selbst / mit sampt den Obersten jhres Leibes sicher sein wollen / Darumb sol man jhm also thun / das man ein Artickels Brieff stellen / vnd den schrifftlich verfassen / vnd im ersten annemen der Knechte / einen Hauptman eine Copey des Artickelsbrieffs zustellen / vnd die Knechte jhme darauff schweren lassen / diese Artickel also zuhalten / vnd das man sich wol vorsehe / das der erste hauffe / den man annimpt / nicht zu gros sey / denn man bringt sie sonst in diese Artickel nicht / denn mit dieser bescheidenheit.
+  cs: |-
+    4. Za čtvrté se má nejvyšší hejtman pilně mít na pozoru při prvním přijímání lidu, jízdy i pěchoty {zu Ros vnd zu Fus}, neboť na tom zcela a úplně závisí poslušnost ve válce. Jak začátek nastaví, při takovém právu {Gerechtigkeit} musí pak válečný lid {Kriegesuolck} ponechat; žádný pán je z něho totiž nedokáže vytlačit,[^1] chtějí-li si ovšem páni sami i s plukovníky {Obersten} být jisti životem. Proto se má postupovat takto: sestavit a sepsat artikulní list {Artickels Brieff}, při prvním přijímání knechtů {Knechte} předat hejtmanovi {Hauptman} opis artikulního listu a dát mu knechty na něj přísahat, že budou tyto artikuly zachovávat. A je třeba dbát, aby první houf {hauffe}, který se přijímá, nebyl příliš velký; jinak než s touto opatrností je k těmto artikulům nepřivedete.
+- typ: odstavec
+  de: |-
+    Nachfolgende alle andere Heuptleute / die man ausschicket / Knechte anzunemen / den sol man befehl geben / das ein jeglicher die Knechte die er angenommen hat / nach seinem befehl schweren lassen / diesem
+  cs: |-
+    Všem dalším hejtmanům, kteří jsou potom vysíláni přijímat knechty, se má dát rozkaz, aby každý dal knechty, které přijal, podle svého pověření přísahat tomuto
+poznamky:
+- n: 1
+  text: |-
+    Smysl: podmínky, za nichž je lid při náboru přijat (žold, artikuly), se stávají jeho „právem“, které mu pak žádný pán nemůže odejmout bez nebezpečí vzpoury.

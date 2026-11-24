@@ -1,0 +1,30 @@
+id: 013v
+list: '[13] v'
+strana: verso
+sken: 30
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    die des Krieges recht verstand haben / die mus man in das Gericht ordenen vnd setzen / neben die Heuptleute / Fenrich / vnd andere / die von den Knechten zum Rechten verordnet sein / dieselbigen vorkommen die Vrtheil / die durch gunst gesprochen werden / vnd ermanen allezeit die andern / des Artickelsbrieffs / denn sie werden von den Herren gesetzet / vnd nicht von den Knechten gewehlet / Derhalben haben sie nicht vrsache nach gunst Vrtheil zugeben.
+  cs: |-
+    které válce správně rozumějí. Ty je třeba ustanovit a dosadit do soudu {Gericht} vedle hejtmanů {Heuptleute}, praporečníků {Fenrich} a dalších, které k soudu určili knechti {Knechten}. Tito muži pak zabraňují rozsudkům {Vrtheil} vyneseným z přízně a vždy ostatním připomínají artikulní list {Artickelsbrieffs}; dosazují je totiž páni, a ne knechti volbou, a proto nemají důvod vynášet rozsudky podle přízně.
+- typ: odstavec
+  de: |-
+    Es mus auch der oberste Hauptman fleißig auffsehen haben / das er einen vorstendigen Man zu einem Schultheissen mache / denn daran leit viel / Man mus sich auch nicht tawren lassen / das man jhm vmb furcht willen etliche Trabanten / zum wenigsten zween / desgleichen seinen Gerichtschreiber halten / denn er mus vmb furcht zu machen / vber den andern oder dritten Tage allezeit Gericht halten / oder je die Woche einmahl / demselbigen Schultheis mus man den Artickelsbrieff geben / den mus er alle Gerichtstage / vor sich vnd die Gerichtsleute / öffentlich auff den Tisch legen / vnd als offt als ein Freuelklage fürkömpt / denselbigen öffentlich vorlesen / vnd die Vrtheil von stand ergehen lassen / dis giebt eine furcht / vnd bringet gehorsam / mehr dann das man sie mit gewalt ohne Recht straffen solte. Was auch des Profosen Ampt / sol im andern theil ausführlich gemeldet werden.
+  cs: |-
+    Nejvyšší hejtman {oberste Hauptman} musí také pilně dbát, aby rychtářem {Schultheissen} ustanovil rozumného muže, neboť na tom mnoho záleží. Nesmí být také líto vydržovat mu pro respekt několik drabantů {Trabanten}, nejméně dva, a rovněž jeho soudního písaře {Gerichtschreiber}; aby totiž vzbuzoval bázeň, musí zasedat k soudu vždy obden nebo ob dva dny, anebo aspoň jednou týdně. Tomuto rychtáři je třeba dát artikulní list a ten jej musí každý soudní den veřejně položit na stůl před sebe a před přísedící {Gerichtsleute}; a kdykoli přijde žaloba pro zločin {Freuelklage},[^1] má jej veřejně předčíst a dát rozsudek vynést ihned. To vzbuzuje bázeň a přináší poslušnost víc, než kdyby je měl trestat násilím bez práva. O úřadu profouse {Profosen} se podrobně pojedná v druhém díle.
+- typ: odstavec
+  de: |-
+    Was nun den Artickelsbrieff belangende / sol im andern theil / wie der mit 42. Artickeln gestellet ist / fein ordentlich darthun / etc.
+  cs: |-
+    Pokud jde o artikulní list, bude v druhém díle[^2] pěkně po pořádku předloženo, jak je sestaven ze 42 artikulů atd.
+poznamky:
+- n: 1
+  text: |-
+    „Freuel“ (Frevel) – svévolný přečin, násilí; „Freuelklage“ je žaloba pro takový čin, zde obecně trestní žaloba před soudem pluku.
+- n: 2
+  text: |-
+    Druhý díl začíná na [[026r|listu 26 r]]; obsahuje služební a artikulní list Karla V.

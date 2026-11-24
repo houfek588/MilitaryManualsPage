@@ -1,0 +1,25 @@
+id: 030r
+list: '[30] r'
+strana: recto
+sken: 63
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Musterung erhalten / jnnerhalb 3. tagen fortrücken / solches alles sol gemelter Comissarius vnd Musterherr mit fleis vnd geschickligkeit ausrichten vnd handeln / vnd sich hierinn vnserm vertrawen zuerzeigen wissen / daran thut er vnsern wilen / vnd ernstliche meinung.
+  cs: |-
+    přehlídce {Musterung} udržel [pohromadě] a do 3 dnů vytáhl dál. To vše má řečený komisař {Comissarius}, přehlídkový komisař {Musterherr}, pilně a obratně vyřídit a vykonat a umět se v tom prokázat hodným naší důvěry. Tím splní naši vůli a vážný úmysl.
+- typ: obrazek
+  soubor: drevorez-63.jpg
+  popis: Úzká ozdobná lišta s rostlinnými úponky a maskaronem uprostřed.
+- typ: nadpis
+  uroven: 2
+  de: 'Röm: Key: May: Caroli des Fünfften / Kriegesordnung vnd Artickelsbrieff / so auffgerichtet worden den 6. May / zu Maron im Etzschlande / im 1543. Jahre.'
+  cs: Válečný řád a artikulní list {Artickelsbrieff} Jeho římského císařského Veličenstva Karla Pátého, zřízený 6. května v Maronu v Adižsku roku 1543
+- typ: odstavec
+  de: |-
+    ERstlich vnd anfenglich / solt jhr Key: May: etc. vnserm aller gnedigsten Herren / auch jhrer May: vorordenten Obristen / Nemlich / dem Wolgebornen Herren Johan Baptista / Graffen zu Ladron / auch jhrer May: Hauptman / Graffen Felix von Arch / Nemlich zu dienen vnd schweren / jhren schaden zu wenden / vnd den frommen zu förderen / Desgleichen Hauptleuten / Fendrichen / vnd den Befehlsleuten / so von vnsern Obristen vorordnet seind / was sie mit euch schaffen vnd gebieten / das Kriegsleuten zustehet / er sey Edel oder Vnedel / Gros Hans oder Klein Hans / dasselb ohn allen auszug zuthun / auch keine Meuterey machen / sondern sich gebrauchen lassen / es sey zu oder vor dem Feinde /
+  cs: |-
+    Předně a na počátku máte Jeho císařskému Veličenstvu atd., našemu nejmilostivějšímu pánu, a také plukovníkovi {Obristen} ustanovenému Jeho Veličenstvem, totiž urozenému pánu Johannu Baptistovi hraběti z Lodronu, a rovněž hejtmanovi {Hauptman} Jeho Veličenstva hraběti Felixovi z Arca přísahat a sloužit, odvracet od nich škodu a podporovat jejich prospěch. Stejně tak [máte] hejtmanům, praporečníkům {Fendrichen} a velitelům {Befehlsleuten}, které ustanovili naši plukovníci, ve všem, co vám přikážou a nařídí a co válečníkům {Kriegsleuten} přísluší – ať je [ten, kdo velí,] urozený, nebo neurozený, velký, nebo malý pán –, vyhovět bez jakýchkoli výmluv; také nemáte dělat žádnou vzpouru {Meuterey}, nýbrž se nechat použít, ať u nepřítele, nebo před ním,

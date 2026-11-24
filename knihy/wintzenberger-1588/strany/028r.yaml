@@ -1,0 +1,69 @@
+id: 028r
+list: '[28] r'
+strana: recto
+sken: 59
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Pferde / auff eines 10. fl. thut 80. fl. auff einen Wagen 24. fl. Einen Trummelschleger vnd Pfeiffer / einem 12. fl. thut 24. fl.
+  cs: |-
+    koní {Reisige Pferde}, na každého 10 zlatých, činí 80 zlatých. Na jeden vůz 24 zlatých. Jednoho bubeníka {Trummelschleger} a pištce {Pfeiffer}, každému 12 zlatých, činí 24 zlatých.
+- typ: tabulka
+  de:
+  - [Einem Caplan, 8. fl.]
+  - [Dem Dolmetzscher, 8. fl.]
+  - [Einem Einspenniger, 8. fl.]
+  - [Einem Schreiber, 8. fl.]
+  - [Einem Koch, 8. fl.]
+  - [Einem Fürer, 8. fl.]
+  cs:
+  - ['Jednomu kaplanovi {Caplan}', 8 zl.]
+  - ['Tlumočníkovi {Dolmetzscher}', 8 zl.]
+  - ['Jednomu jednokonímu jezdci {Einspenniger}[^1]', 8 zl.]
+  - ['Jednomu písaři {Schreiber}', 8 zl.]
+  - ['Jednomu kuchaři {Koch}', 8 zl.]
+  - ['Jednomu vůdci {Fürer}[^2]', 8 zl.]
+- typ: odstavec
+  de: |-
+    Diese Sold vnd vber sold werden allein in einer Müntz geschlagen werden / vnd bringet in einer Summa 600. fl. Das alles zu vrkund / haben wir diesen Stadt mit vnser eigenen Hand vnderschrieben / vnd mit vnserm Secret vorsiegeln lassen.
+  cs: |-
+    Tyto žoldy {Sold} a přeplatky {vber sold} se budou vyplácet pouze v jedné minci a činí v souhrnu 600 zlatých[^3]. Na svědectví toho všeho jsme tento stav vlastní rukou podepsali a dali zapečetit svou sekretní pečetí {Secret}.
+- typ: nadpis
+  uroven: 3
+  de: Stadt der hohen Empter.
+  cs: Stav {Stadt} vysokých úřadů
+- typ: odstavec
+  de: |-
+    STadt vnd vorzeichnüs / das wir zu vnderhaldung vnd Besoldung der hohen Empter / des Regiments vnsers Deudschen Kriegsuolcks / so vns der Edle vnd Reichs getrewe auff Italien führen wird / entrichten vnd bezahlen lassen / gnediglichen bewilliget / vnd solche vnderhaltung auff den tag der ersten Musterung angehen / vnd von dannen ferner alle Monat bezahlet werden / wie folget.
+  cs: |-
+    Stav a soupis toho, co jsme milostivě povolili odvádět a vyplácet k vydržování a žoldu vysokých úřadů {hohen Empter} pluku našeho německého válečného lidu, který nám vznešený a říši věrný [plukovník] povede do Itálie. Toto vydržování má začít dnem první přehlídky {Musterung} a odtud dále se má vyplácet každý měsíc, jak následuje.
+- typ: tabulka
+  de:
+  - ['1.', Dem Profosen, 10. Soldt / in Müntz, 40. fl.]
+  - ['2.', Dem Schultheis, 10. Soldt / thut, 40. fl.]
+  - ['3.', Dem Wachmeister, 10. Soldt / thut, 40. fl.]
+  - ['4.', Dem Quartirmeister, 10. Soldt / thut, 40. fl.]
+  - ['5.', Dem Obristen Feldschreiber, 10. Sold thut, 40. fl.]
+  - ['6.', Dem Gerichtschreiber, 8. Soldt / thut, 32. fl.]
+  - ['7.', Dem Gerichtsweibel, 8. Soldt / thut, 32. fl.]
+  cs:
+  - ['1.', 'Profousovi {Profosen}', '10 žoldů, v minci', 40 zl.]
+  - ['2.', 'Rychtáři {Schultheis}', '10 žoldů, činí', 40 zl.]
+  - ['3.', 'Vachmistrovi {Wachmeister}', '10 žoldů, činí', 40 zl.]
+  - ['4.', 'Kvartýrmistrovi {Quartirmeister}', '10 žoldů, činí', 40 zl.]
+  - ['5.', 'Nejvyššímu polnímu písaři {Obristen Feldschreiber}', '10 žoldů, činí', 40 zl.]
+  - ['6.', 'Soudnímu písaři {Gerichtschreiber}', '8 žoldů, činí', 32 zl.]
+  - ['7.', 'Soudnímu šikovateli {Gerichtsweibel}', '8 žoldů, činí', 32 zl.]
+poznamky:
+- n: 1
+  text: |-
+    Einspenniger – zde jízdní posel v plukovníkově doprovodu.
+- n: 2
+  text: |-
+    „Fürer“ – v plukovníkově stavu spíš průvodce (znalec cest) než poddůstojník praporce.
+- n: 3
+  text: |-
+    Uvedené položky dávají 640 zlatých (400 + 64 + 80 + 24 + 24 + 6 × 8 = 640), tisk však (ověřeno ve skenu) uvádí součet 600 zlatých; ponecháno podle tisku. Zda je chybný součet, nebo některá položka (např. 400 zl. na osobu a stůl), nelze rozhodnout.

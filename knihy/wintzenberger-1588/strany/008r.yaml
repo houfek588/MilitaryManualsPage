@@ -1,0 +1,99 @@
+id: 008r
+list: '[8] r'
+strana: recto
+sken: 19
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: verse
+  de:
+  - 'Dolus an virtus, quis in hoste requirat. Das ist:'
+  - 'Gewalt vnd list/ Zu gleicher frist/'
+  - 'Gehalten seind/ Wider den Feind.'
+  cs:
+  - '„Dolus an virtus, quis in hoste requirat“[^1] [Lest, či statečnost – kdo by se na to u nepřítele ptal?], to jest:'
+  - 'Násilí i lest zároveň'
+  - 'jsou dovoleny proti nepříteli.'
+- typ: nadpis
+  uroven: 3
+  de: 'Liuius schreibet also:'
+  cs: 'Livius píše takto:'
+- typ: odstavec
+  de: |-
+    3. Quod melior sit certa pax, quam sperata victoria.
+  cs: |-
+    3. „Quod melior sit certa pax, quam sperata victoria.“[^2]
+- typ: odstavec
+  de: |-
+    Das ist/ Ein gewisser Fried ist besser/ denn verhoffter vngewisser Sieg.
+  cs: |-
+    To jest: Jistý mír je lepší než očekávané nejisté vítězství.
+- typ: odstavec
+  de: |-
+    4. Alciatus ein trefflicher Jurist schreibet also:
+  cs: |-
+    4. Alciatus, znamenitý právník, píše takto:[^3]
+- typ: verse
+  de:
+  - 'Arma procul iaceant: tamen est fas sumere bellum,'
+  - 'Sin aliter pacis non licet arte frui. Das ist.'
+  - 'Die Waffen sol man werffen weit/'
+  - 'Nach frieden trachten allezeit.'
+  - 'Kans aber je nicht anders sein/'
+  - 'So schlag alsdann mit frewden drein.'
+  cs:
+  - '„Arma procul iaceant: tamen est fas sumere bellum,'
+  - 'Sin aliter pacis non licet arte frui.“ [Zbraně ať leží daleko; přece je však dovoleno chopit se války, nelze-li jinak užívat umění míru.] To jest:'
+  - 'Zbraně má člověk odhodit daleko'
+  - 'a vždy usilovat o mír.'
+  - 'Nemůže-li to však být jinak,'
+  - 'pak se do toho s chutí pusť.'
+- typ: nadpis
+  uroven: 3
+  de: Folget eine feine Krieges Regel.
+  cs: Následuje pěkné válečné pravidlo
+- typ: verse
+  de:
+  - 'Ein Fürst der nicht für sein Person/'
+  - 'Sich selbst im Feld wil sehen lan/'
+  - 'Sein Leib wagen/ vnd in gefahr/'
+  - 'Fürm Feind frey willig geben dar/'
+  - 'Der mag wol wissen das sein Kunst/'
+  - 'Vnd all sein Kriegen ist vmbsonst.'
+  - 'Des Kriegs er auch kein gwin nicht hat/'
+  - 'Denn all sein thun ein Krebsgang gaht.'
+  cs:
+  - 'Kníže, který se nechce sám'
+  - 'osobně ukázat v poli,'
+  - 'nasadit svůj život a vydat se'
+  - 'dobrovolně v nebezpečí před nepřítelem,'
+  - 'ať dobře ví, že jeho umění'
+  - 'i všechno jeho válčení je marné.'
+  - 'Z války také nebude mít žádný zisk,'
+  - 'neboť všechno jeho počínání jde rakovým krokem[^4].'
+- typ: nadpis
+  uroven: 3
+  de: |-
+    Die alten Poeten haben diese nachfolgende Vers/ als ein Prophecey hinder sich gelassen.
+  cs: |-
+    Staří básníci po sobě zanechali tyto následující verše jako proroctví
+- typ: verse
+  de:
+  - 'Wenn einer hat gesündiget viel/'
+  - 'Vnd Gott darumb jhn straffen wil/'
+  cs:
+  - 'Když někdo mnoho zhřešil'
+  - 'a Bůh ho za to chce potrestat,'
+poznamky:
+- n: 1
+  text: |-
+    Vergilius, Aeneis II, 390 (Koroibova slova, když se Trójané převlékají do řecké zbroje).
+- n: 2
+  text: |-
+    Livius XXX, 30: *melior tutiorque est certa pax quam sperata victoria* (Hannibalova řeč ke Scipionovi před bitvou u Zamy). Číslo 3 navazuje na Homéra (1) a Vergilia (2).
+- n: 3
+  text: |-
+    Andrea Alciato (Alciatus, 1492–1550), italský právník a humanista, autor proslulé sbírky Emblemata, z níž dvojverší pochází (citováno volně).
+- n: 4
+  text: |-
+    *Krebsgang* – „rakův krok“, tj. couvání, nezdar; věc jde zpátky místo dopředu.

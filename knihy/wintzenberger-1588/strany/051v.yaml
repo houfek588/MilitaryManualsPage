@@ -1,0 +1,45 @@
+id: 051v
+list: '[51] v'
+strana: verso
+sken: 106
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    können / bey andern Fürsten vnd Herren. Spricht der Profos wider zum Feldwebel / machet eine mehr darüber / Der Feltwebel / Lieben Landsknechte / jhr habt des Profosen Wort wol verstanden / weme es lieb ist / der recke mit mir eine Faust auff / das wir demselbigen wollen also nachkommen.
+  cs: |-
+    i u jiných knížat a pánů.“ Profous {Profos} pak opět praví šikovateli {Feldwebel}: „Dejte o tom hlasovat {machet eine mehr}.“ Šikovatel: „Milí lancknechti {Landsknechte}, dobře jste porozuměli profousovým slovům. Kdo s tím souhlasí, ať se mnou zvedne pěst na znamení, že tomu chceme dostát.“
+- typ: nadpis
+  uroven: 3
+  de: '7.'
+  cs: '7.'
+- typ: odstavec
+  de: |-
+    Zum siebenden / begeret des Profosen Vorsprecher / vnd seine beyde Rehte / Es wird jhme vergunt / des gefangenen Vorsprecher begeret auch das Recht / vor den gemeinen Man / wie denn gebreuchlich ist.
+  cs: |-
+    Za sedmé: profousův řečník {Vorsprecher} a jeho dva rádci {Rehte} žádají [o právo][^1]; je mu to povoleno. Také řečník vězně žádá o právo před obecným lidem {gemeinen Man}, jak je obvyklé.
+- typ: nadpis
+  uroven: 3
+  de: '8.'
+  cs: '8.'
+- typ: odstavec
+  de: |-
+    Zum achten / nimpt der Profos seinen Vorsprecher / vnd seine Rehte / vnd gehet mit jhnen / vnd zeiget jhnen an / was der Gefangene wider das Regiment gehandelt habe / vnd was er dem gemeinen Man fürhalten vnd anzeigen sol / so gehen sie wider in den Ring / vnd hebt des Profosen Vorsprecher an / Lieben Landsknechte / wolt jhr mich hören / von wegen des Profosen / so sagen sie / Ja. So erzehlet er dem gemeinen Man / was er gehandelt habe / darauff begeret der Profos / das er auff den heutigen Tag an dem Leibe vnd Gut sol gestraffet werden.
+  cs: |-
+    Za osmé: profous vezme svého řečníka a své rádce, jde s nimi [stranou] a oznámí jim, čím se vězeň provinil proti zřízení {Regiment} a co má [řečník] obecnému lidu předložit a oznámit. Pak jdou opět do kruhu {Ring} a profousův řečník začne: „Milí lancknechti, vyslechněte mě jménem profousovým.“ Oni řeknou: „Ano.“ Tu vypoví obecnému lidu, čeho se [vězeň] dopustil, a profous nato žádá, aby byl dnešního dne potrestán na hrdle a statku.
+- typ: nadpis
+  uroven: 3
+  de: '9.'
+  cs: '9.'
+- typ: odstavec
+  de: |-
+    Zum neundten / nimpt der Gefangene seine Redener seine Rethe / gehet mit jhnen auff einen orth /
+  cs: |-
+    Za deváté: vězeň vezme svého řečníka {Redener}[^2] a své rádce, jde s nimi stranou
+poznamky:
+- n: 1
+  text: „begeret des Profosen Vorsprecher / vnd seine beyde Rehte“ – věta je stručná, předmět chybí. Podle souběžné věty „des gefangenen Vorsprecher begeret auch das Recht“ (také řečník vězně žádá o právo) je podmětem profousův řečník se dvěma rádci a žádají o právo před obcí. Lze číst i „[profous] žádá o svého řečníka a své dva rádce“. Rádci (Rehte, Räte) pomáhají straně při poradách mimo kruh.
+- n: 2
+  text: Na skenu je slovo rozdělené „R…-|…ener“ rozmazané (OCR „Rabener“); čteme „Redener“ (řečník) podle téhož slova na následující straně („seinen Redener“).

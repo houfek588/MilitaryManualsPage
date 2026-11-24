@@ -1,0 +1,38 @@
+id: 033v
+list: '[33] v'
+strana: verso
+sken: 70
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    kein auffruhr noch muthwillen machen / oder anfangen / auch mit jhnen nicht spielen / damit grosser vnraht verhütet werde / bey Leibstraff.
+  cs: |-
+    dělat ani začínat žádnou vzpouru {auffruhr} ani svévoli, a také s nimi nemá hrát [hazardní hry], aby se předešlo velkým škodám, pod trestem na těle.
+- typ: odstavec
+  de: |-
+    28. Item / wo Fusknechte vnd Reisige bey einander in einem Läger liegen / so sollen die Fusknechte weichen / das sie die Pferde mögen vnderbringen / vnd sich einig mit einander halten.
+  cs: |-
+    28. Dále kde pěší knechti {Fusknechte} a jízda {Reisige} leží spolu v jednom ležení {Läger}, mají pěší knechti ustoupit, aby [jezdci] mohli umístit koně, a mají se mezi sebou snášet.
+- typ: odstavec
+  de: |-
+    29. Sollen sie erstlich schweren / der Röm: Key: May: auff 6. Monat lang / jhrer May: nöthlich zu dienen / es sey zu Wasser oder Land / wohin vnd wo auch jhre May: etc. Obrister Feldtheuptman / oder Obrister verschaffen oder ordenen würde / zu ziehen / sie sollen auch zusagen / sich mustern zu lassen / alle mit einander / oder jedes Fenlein in sonderheit / an örten vnd enden / wo vnd so offt sie Bezahlung oder Lehengeldt empfangen / auch zu welcher zeit jhrer May: obrister Feldthauptman / oder derselbigen Befehlichshaber an sie begeren werden.
+  cs: |-
+    29. Předně mají přísahat, že budou Jeho římskému císařskému Veličenstvu po 6 měsíců podle potřeby[^1] sloužit, ať na vodě, nebo na souši, a táhnout, kamkoli a kdekoli jim nejvyšší polní hejtman {Obrister Feldtheuptman} Jeho Veličenstva atd. nebo plukovník přikáže nebo nařídí. Mají také slíbit, že se podrobí přehlídce {mustern} – všichni společně nebo každý praporec {Fenlein} zvlášť – na místech a v končinách, kde a kolikrát budou přijímat výplatu nebo zálohu na žold {Lehengeldt}[^2], a také kdykoli to po nich bude žádat nejvyšší polní hejtman Jeho Veličenstva nebo jeho velitelé {Befehlichshaber}.
+- typ: odstavec
+  de: |-
+    30. Item / sie sollen auch schuldig sein / mit dieser Bezahlung oder Besoldung / wie jhnen bisher gereicht worden / nach laut des vorigen bestall Brieffes vnd Capitulation / so mit jhnen am ersten auffgerichtet / Nemlich / jeden Monat 30. tage / auff jegliche einfache Leibesbesoldung 3. Kronen / aber für einen Vbersoldt 4. fl. geben werden / vnd sol den Hackenschützen / so allein nicht mehr denn 50. vnder jeglichen Fenlein passirt / einem jeden 1. fl. zum vortheil gereicht werden.
+  cs: |-
+    30. Dále mají být povinni [spokojit se] s tímto placením čili žoldem {Besoldung}, jak jim byl dosud vyplácen podle znění předchozího služebního listu {bestall Brieffes} a smlouvy {Capitulation}, které s nimi byly zprvu uzavřeny: totiž že se jim každý měsíc o 30 dnech bude dávat na každý prostý osobní žold {Leibesbesoldung} 3 koruny {Kronen}[^3], za jeden přeplatek {Vbersoldt} však 4 zlaté. A střelcům z hákovnic {Hackenschützen}, jichž se v každém praporci přizná nejvýše 50, se má dávat každému 1 zlatý jako příplatek {vortheil}.
+poznamky:
+- n: 1
+  text: |-
+    „nöthlich“ – snad „podle potřeby“ (notdürftig), nebo tisková chyba za „redlich“ (poctivě); smysl je zřejmě totožný s běžnou formulí přísahy.
+- n: 2
+  text: |-
+    „Lehengeldt“ – peníze vyplacené předem jako půjčka na žold (Lehen = půjčka), které se pak odečítaly při řádné výplatě.
+- n: 3
+  text: |-
+    Podle 32. artikulu ([[034r|34 r]]) 1 koruna = 23 bacenů, tedy 3 koruny = 69 bacenů, o něco víc než 4 zlaté po 15 bacenech (60 bacenů).

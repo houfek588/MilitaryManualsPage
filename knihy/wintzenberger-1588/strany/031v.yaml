@@ -1,0 +1,41 @@
+id: 031v
+list: '[31] v'
+strana: verso
+sken: 66
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    seines diensts begreifft / aus vnd angehen / so sol auch der Herr wider nichts schuldig sein.
+  cs: |-
+    v němž je právě ve službě, skončit a [nový] začít[^1]; a pán mu pak naproti tomu nemá být povinen nic [dalšího].
+- typ: odstavec
+  de: |-
+    10. Item / ob es sich begebe / auff solches das Geldt nicht zugleich da were / vnd dem Feinde ein abbruch geschehen möchte / so solt jhr euch nach der that nach zu rücken / wie ewer Obrister mit euch schaffet vnd gebüret zu ziehen / das müglich ist / nicht wider den zuuor an den Keyserischen zug / zu den Feinden zu einem abbruch abschlagen.
+  cs: |-
+    10. Dále kdyby se stalo, že by poté peníze nebyly hned po ruce a nepříteli by se dalo uškodit {abbruch}, máte po vykonaném činu postupovat dál a táhnout, jak vám váš plukovník {Obrister} přikáže a jak se sluší, pokud je to možné, a neodmítat císařské tažení proti nepříteli, jímž by se mu uškodilo[^2].
+- typ: odstavec
+  de: |-
+    11. Item / ob es sach were / das durch die Key: May: derselbigen gemeinen Obristen oder Hauptman / Fenlein oder Rotten weise in eine Besatzung geschickt würden / es were in eine Stadt / Schlos oder Flecken / wie es sich zutrüge / vnd dieselbigen in solcher Besatzung weren oder legen / vnd durch die Feinde ersucht würden / es were durch einen oder mehr Sturm / sol jhm darüber der Herr zu thun weiter nichts denn jhre Besoldung recht schuldig sein / vnd ob Stedte / Schlösser oder ander Besatzung mit theidigung gewonnen würden / so sol jhr keiner darein fallen / noch plündern / auch darinne keiner nichts thun oder handeln / ohne wissen vnd willen des obristen Feldtheuptmans / oder wer es von seinet wegen befehl hat / bey Leibesstraffe / vnd die Besetzten vnd Beschüldigten bey der sicherung bleiben lassen.
+  cs: |-
+    11. Dále kdyby se stalo, že by [knechti] byli Jeho císařským Veličenstvem, jeho plukovníkem {gemeinen Obristen} nebo hejtmanem posláni po praporcích {Fenlein} nebo po rotách {Rotten} do posádky {Besatzung}, ať do města, zámku nebo městečka, jak se přihodí, a byli by v takové posádce nebo v ní leželi a nepřítel by je napadl, ať jedním nebo více útoky {Sturm}, nemá jim za to pán být povinen nic dalšího než jejich řádný žold {Besoldung}[^3]. A kdyby byla města, zámky nebo jiná místa s posádkou dobyta smlouvou {theidigung}[^4], nemá do nich nikdo z vás vpadnout ani plenit, ani v nich nic činit nebo jednat bez vědomí a vůle nejvyššího polního hejtmana {obristen Feldtheuptmans} nebo toho, kdo k tomu má od něho rozkaz, pod trestem na těle; a obsazené i obviněné [obyvatele] je třeba nechat při [slíbené] bezpečnosti {sicherung}.
+- typ: odstavec
+  de: |-
+    12. Item / wo man an Schlachten vnd Stürmen eroberung thet / wie das wehre / so sol sich niemand vmb das Gut annemen noch plünderen / es
+  cs: |-
+    12. Dále když se v bitvách a útocích něčeho dobude, ať je to cokoli, nikdo se nemá ujímat kořisti {Gut} ani plenit, dokud
+poznamky:
+- n: 1
+  text: |-
+    Tj. dobytí města či vyhraná bitva se počítá jako ukončený měsíc služby a začíná nový žoldový měsíc; tím je vojákům vyrovnán nárok na mimořádnou odměnu (útočný žold), a pán jim proto „nic dalšího“ nedluží.
+- n: 2
+  text: |-
+    Věta je v tisku porušená („nicht wider den zuuor an den Keyserischen zug … abschlagen“); smysl: ani při opožděném žoldu nesmějí knechti odmítnout další tažení proti nepříteli.
+- n: 3
+  text: |-
+    Ani za obranu napadené posádky tedy nenáleží žádná zvláštní odměna, jen běžný žold.
+- n: 4
+  text: |-
+    „mit theidigung“ (Teidigung) – vyjednáním, vzdáním se na smlouvu (akord). „die Besetzten vnd Beschüldigten“ – smysl nejistý (snad za „Beschädigten“, postižení): obyvatelé a obránci, jimž smlouva zaručila bezpečnost.

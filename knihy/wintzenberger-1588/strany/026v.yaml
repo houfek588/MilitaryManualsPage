@@ -1,0 +1,26 @@
+id: 026v
+list: '[26] v'
+strana: verso
+sken: 56
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: 'Röm: Key: May: Caroli des Fünfften Krieges bestallung / Im 1543. Jahr / den 5. May / zu Maron im Etzschlande geschehen vnd auffgerichtet.'
+  cs: Válečný služební list {Krieges bestallung} Jeho římského císařského Veličenstva Karla Pátého, vydaný a zřízený roku 1543 dne 5. května v Maronu v Adižsku[^1]
+- typ: obrazek
+  soubor: drevorez-56.jpg
+  popis: Dřevořez – polopostava vousatého muže v baretu s pérem, v brokátovém plášti s kožešinovým límcem a s řetězem řádu na prsou, ruce opřené o parapet; po stranách rámu sloupky s bustami vousatých mužů a volutami. V knize zastupuje portrét císaře Karla V.
+- typ: odstavec
+  de: |-
+    WIr Carolus der Fünfft / erwelther Römischer Keiser in Germanien etc. Bekennen / als wir jetzo ein anzal Deutsch Kriegesuolck zu vnsern fürfallenden Kriegssachen in vnser Besoldung zu nemen entschlossen sein / das wir demnach befolen haben. Dem Durchleuchtigsten
+  cs: |-
+    My, Karel Pátý, zvolený římský císař v Germánii atd., vyznáváme: Když jsme se nyní rozhodli vzít do svého žoldu {Besoldung} jistý počet německého válečného lidu {Kriegesuolck} pro své naskýtající se válečné záležitosti, přikázali jsme proto nejjasnějšímu[^2]
+poznamky:
+- n: 1
+  text: |-
+    „zu Maron im Etzschlande“ – Etzschland = Etschland, krajina na horní Adiži (Etsch) v Tyrolsku; „Maron“ je nejspíš Meran (Merano), dobově též Maran. Karel V. táhl v květnu–červnu 1543 ze Španělska přes Janov (připlul koncem května) a Tyroly do Německa, takže 5. května byl ještě ve Španělsku; datum, místo nebo obojí je v předloze patrně zkomoleno. Překládáno podle tisku.
+- n: 2
+  text: |-
+    „Durchleuchtigsten Hochgebornen“ – dobový titul knížat („nejjasnějšímu, vysoce urozenému“); oslovení pokračuje na další straně jménem vévody z Alby.

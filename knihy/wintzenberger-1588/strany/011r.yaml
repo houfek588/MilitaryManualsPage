@@ -1,0 +1,28 @@
+id: 011r
+list: '[11] r'
+strana: recto
+sken: 25
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Hansen/ denn bey den Armen findet man viel raht/ denn sie müssen vmb jhrer noth willen vielerleiden vnd versuchen/ das sie jhnen raht aus einem gebrauch jhrer selbst Leibe geben mögen/ Man sol sich aber mit fleis hüten/ das man in namhafftigen Kriegen keinen schlechten Edelman/ wie geschickt oder geübt er sey/ zu einem obersten Hauptman erwehle/ denn es wil sich nicht leiden/ das Graffen/ Ritter vnd Herren/ vnter befehl eines Edelmannnes jhre Leibe vnd Gut darstrecken sollen/ vnd sollen also klein geacht werden/ daraus fleust aus diesen vnd andern vrsachen/ das die Fürsten vnd Herren jhre Kriege vbel ausführen/ Denn das Kriegesuolck mus einen obersten Hauptman haben/ dem sie gar gehorsam sein/ vom Obersten bis zum Nidersten/ aus liebe seiner auffrichtigkeit vnd Manheit/ So machen die Fürsten jetzunder Hauptleute/ die da kleines ansehens/ vnd doch darneben nicht gebraucht/ noch verstand haben/ was sich zum Kriege eigent vnd gebüret.
+  cs: |-
+    pány[^1]. U chudých se totiž najde mnoho rady, protože kvůli své nouzi musejí mnoho vytrpět a zkusit, takže si umějí poradit ze zkušenosti na vlastní kůži. Je se však třeba pilně vyvarovat toho, aby se ve významných válkách volil za nejvyššího hejtmana {obersten Hauptman} prostý šlechtic {schlechten Edelman}[^2], ať je sebeschopnější nebo sebezkušenější. Nesnese se totiž, aby hrabata, rytíři a páni nasazovali život a statek pod velením pouhého šlechtice a byli tak málo váženi. Z toho i z jiných příčin plyne, že knížata a páni vedou své války špatně. Válečný lid {Kriegesuolck} totiž musí mít nejvyššího hejtmana, kterého poslouchá úplně, od nejvyššího po nejnižšího, z lásky k jeho poctivosti a mužnosti. Knížata však nyní dělají hejtmany {Hauptleute} lidi malé vážnosti, kteří přitom nejsou zběhlí, ani nerozumějí tomu, co se k válce hodí a sluší.
+- typ: odstavec
+  de: |-
+    Es gemanet mich gleich/ als wenn der kleine Vogel/ den man ein König nennet/ solte viel Geyer vnter jhm haben/ was er einem gebote/ das der Geyer spreche/ thue es selbst/ oder ich fresse dich/ Also mus der oberste Hauptman alles mit forchten schaffen vnd gebieten/ Derhalben kan er zu dem werck des Krieges nicht kommen/ denn diese vneinigkeit/ die die Hauptleute durch die gestalt/ wie angezeiget/ vnter einander selbst haben/ die hat bisher alle Kriege zurüttet/ vnd die Könige vnd Fürsten/ vnd alle Vnderthanen vbel vmb jhr Geldt gebracht/ vnd zuletzt in grossen schimpff vnd nachtheil/ durch ablassung des Krieges. Derhalben sol man sich mit fleis im
+  cs: |-
+    Připomíná mi to, jako kdyby malý ptáček, jemuž se říká král[^3], měl pod sebou mnoho supů: co by kterémukoli z nich přikázal, sup by mu odpověděl: „Udělej si to sám, nebo tě sežeru.“ Stejně tak musí nejvyšší hejtman všechno nařizovat a přikazovat se strachem, a proto se nemůže dostat k vlastnímu dílu války. Tato nesvornost, kterou mají hejtmani mezi sebou z výše uvedeného důvodu, až dosud rozvrátila všechny války, krále, knížata i všechny poddané zle připravila o peníze a nakonec, když se od války upustilo, je přivedla k velké hanbě a škodě. Proto se má člověk hned na
+poznamky:
+- n: 1
+  text: |-
+    *Grosse Hansen* – hovorově „velcí páni“, mocní a vlivní lidé.
+- n: 2
+  text: |-
+    *Schlecht* zde znamená „prostý, obyčejný“ (nikoli „špatný“): šlechtic bez hraběcího nebo panského titulu, příslušník nižší šlechty. Tvar *Edelmannnes* (tři n) je tisková chyba.
+- n: 3
+  text: |-
+    Střízlík (něm. *Zaunkönig*, lid. *König*), podle bajky „král ptáků“, který lstí přelstil orla.

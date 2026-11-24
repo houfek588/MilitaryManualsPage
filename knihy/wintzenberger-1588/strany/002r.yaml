@@ -1,0 +1,30 @@
+id: 002r
+list: '[2] r'
+strana: recto
+sken: 7
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Dem Edlen Gestrengen vnd Ehrnuesten Richarden von der Schulenburg auff Löbenaw vnd Lieberose/ Meinem günstigen Junckern vnd forderern.
+  cs: |-
+    Urozenému, statečnému a slovutnému panu Richardovi von der Schulenburg na Lübbenau a Lieberose[^1], mému příznivému junkrovi {Junckern} a podporovateli
+- typ: odstavec
+  de: |-
+    EDler/ Gestrenger vnd Ehrnuester Juncker/ Es ist für Funfftzig Jahren ein vornemer Herr vnd KriegsOberster/ der bey Keyser Maximiliano dem ersten dis Namens in Zügen vnd Kriegen wolberümbt/ vnd sich mehrmalen/ wie zu vornemen/ wider die Feinde gebrauchen lassen/ von etlichen grossen Herren vnd Potentaten/ vmb guten Rath jhnen mitzutheilen/ ersucht vnd gebethen worden/ wie man einen Krieg/ wann darzu genötiget vnd gedrungen wirdt/ anfangen vnd ausführen müge.
+  cs: |-
+    Urozený, statečný a slovutný junkře! Před padesáti lety žil přední pán a válečný plukovník {KriegsOberster}[^2], který se za císaře Maxmiliána, prvního toho jména, proslavil na taženích {Zügen} a ve válkách a, jak se lze doslechnout, nejednou se dal použít proti nepřátelům. Několik velkých pánů a mocnářů {Potentaten} ho tehdy žádalo a prosilo, aby jim udělil dobrou radu, jak válku začít a vést, je-li k ní člověk donucen a dohnán.
+- typ: odstavec
+  de: |-
+    Dessen er sich gegen denselben Herren vnd Potentaten gutwillig vnd gehorsamlich verhalten/ vnd jhnen darinnen gewilfahret/ vnd seinen trewen Rath vnd wolmeinend gemühte/ nach seinem Vorstande/ schrifftlichen vbersandt/ vnd jhnen eine
+  cs: |-
+    On se k těm pánům a mocnářům zachoval ochotně a poslušně, vyhověl jim a podle svého rozumu jim písemně poslal svou věrnou radu a své dobře míněné smýšlení. Předložil jim
+poznamky:
+- n: 1
+  text: |-
+    Richard von der Schulenburg, pán na Lübbenau (tisk *Löbenaw*) a Lieberose v Dolní Lužici, z altmarského šlechtického rodu von der Schulenburg. Oslovení *Edel, Gestreng vnd Ehrnuest* odpovídá stavu nižší šlechty; česká kancelářská praxe užívala obdobně „urozený a statečný“ (rytíř) a „slovutný“.
+- n: 2
+  text: |-
+    Jméno tohoto plukovníka kniha neuvádí. „Před padesáti lety“ ukazuje do doby kolem roku 1538, služba u Maxmiliána I. († 1519) ještě dříve; sám text První části se odvolává i na první válku Karla V. (1521).

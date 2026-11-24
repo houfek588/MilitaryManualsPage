@@ -1,0 +1,48 @@
+id: 005v
+list: '[5] v'
+strana: verso
+sken: 14
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  pokracovani: true
+  de:
+  - '2. Die hohen Empter/ wie die bestelt werden/ vnd ein jeder seinem Ampt vorstehen sol.'
+  - '3. Der Artickels Brieff/ darinnen 42. Artickel angemeldet/ darnach sich das Kriegsuolck sol halten.'
+  - '4. Wie die hohen Empter/ wie vor angezeiget/ ein jeder sich in seinem Ampt vorhalten sol/ vnd wie viel hohe Empter gebraucht werden.'
+  - '5. Wie sich ein jeder Hauptman halten sol.'
+  - '6. Wie ein jeglicher Fendrich sich halten mus bey seinem Fehnlein/ so jhme ist zugestelt.'
+  - '7. Schiffs Ordnung den Kriegsleuten gegeben/ wie die sich vorhalten müssen/ wann sie sind zu Wasser auffgesatzt.'
+  - '8. Das Malefitz vnd lange Spies Recht/ wie das bestelt vnd besatzt mit Personen/ auch mit seinen vmbfragen/ vnd wie man Klage vnd Antwort führen sol/ Vnd wie Vrteil vnd Recht gesprochen/ vnd entlich die Iustitia ergehet.'
+  cs:
+  - '2. Vysoké úřady {hohen Empter}: jak se obsazují a jak má každý svůj úřad {Ampt} zastávat.'
+  - '3. Artikulní list {Artickels Brieff}, v němž je uvedeno 42 artikulů, podle nichž se má válečný lid {Kriegsuolck} chovat.'
+  - '4. Jak se má každý z vysokých úřadů, jak výše uvedeno, ve svém úřadě chovat a kolik vysokých úřadů je zapotřebí.'
+  - '5. Jak se má chovat každý hejtman {Hauptman}.'
+  - '6. Jak se musí každý praporečník {Fendrich} chovat u praporce {Fehnlein}, který mu byl svěřen.'
+  - '7. Lodní řád {Schiffs Ordnung} vydaný válečníkům {Kriegsleuten}: jak se musejí chovat, když jsou naloděni na vodě.'
+  - '8. Hrdelní právo a právo dlouhých pík {Malefitz vnd lange Spies Recht}: jak se obsazuje osobami, jak probíhá dotazování [přísedících] {vmbfragen}, jak se má vést žaloba a odpověď, jak se vynáší rozsudek {Vrteil} a nalézá právo a jak se nakonec vykoná spravedlnost {Iustitia}[^1].'
+- typ: nadpis
+  uroven: 1
+  de: Nun folget das Erste theil dieses Buchleins.
+  cs: Nyní následuje první díl této knížky
+- typ: odstavec
+  de: |-
+    ERstlich ist es eine Erinnerung/ ob auch Kriegsleute/ in einem Stande/ so man Krieg führen mus/ selig sein können.
+  cs: |-
+    Nejprve připomínka, zda mohou válečníci {Kriegsleute} dojít spásy ve stavu, kdy je nutno vést válku.
+- typ: odstavec
+  de: |-
+    Zum andern/ Was auch vom Kriege vornünfftige Heiden geschrieben haben.
+  cs: |-
+    Za druhé, co o válce napsali i rozumní pohané.
+- typ: odstavec
+  de: |-
+    Das aber Kriegsleute in einem seligen Stande sein können/ ist aus Gottes Wort gnugsam erweiset/ Darumb ich auch nicht viel vnd weite vmbschweiff
+  cs: |-
+    Že však válečníci mohou být ve stavu spásy, je z Božího slova dostatečně dokázáno, a proto se o tom nebudu
+poznamky:
+- n: 1
+  text: |-
+    *Iustitia ergehet* – „spravedlnosti se učiní zadost“, tj. vykoná se rozsudek (poprava nebo trest).

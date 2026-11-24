@@ -1,0 +1,43 @@
+id: 054r
+list: '[54] r'
+strana: recto
+sken: 111
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    toden Cörper / vnd die Schützen schiessen drey mahl los / im Nahmen der heiligen Dreyfaltigkeit / vnd ziehen darnach wider vmb / vnd machen einen Ring / geschlossen.
+  cs: |-
+    mrtvého těla. Střelci {Schützen} třikrát vypálí ve jménu Nejsvětější Trojice, potom se zase obrátí a utvoří uzavřený kruh {Ring}.
+- typ: nadpis
+  uroven: 3
+  de: '17.'
+  cs: '17.'
+- typ: odstavec
+  de: |-
+    Zum siebenzehenden / sol sich der Profos bedancken / gegen dem gemeinen Man / vnd dem gantzen hauffen / das sie so gut Regiment helffen führen vnd halten / vnd bittet den gantzen hellen hauffen / das einer des andern straff wolle vor gut annehmen / vnd einer den andern nicht liederlich vbergeben / vnd ein Exempel nehmen / von diesem armen Menschen / denn was er thut / das mus er thun / von wegen Regiments.
+  cs: |-
+    Za sedmnácté: profous {Profos} má poděkovat obecnému lidu {gemeinen Man} a celému houfu, že tak pomáhají vést a držet dobré zřízení {Regiment}. Prosí celý houf {hellen hauffen}, aby každý přijal trest od druhého v dobrém, aby jeden druhého lehkomyslně nevydával [k potrestání][^1] a aby si z tohoto ubohého člověka vzali příklad; neboť co [profous] činí, to činit musí kvůli zřízení.
+- typ: nadpis
+  uroven: 3
+  de: '18.'
+  cs: '18.'
+- typ: odstavec
+  de: |-
+    Zum achtzehenden / so ein gut Gesell mit dem andern zu schaffen hette / das nicht Malefitz bedarff gehalten werden / so mag man ein mittel machen / nach dem alle handlung ist.
+  cs: |-
+    Za osmnácté: má-li dobrý druh {gut Gesell} s jiným nějakou při, kvůli níž není třeba konat hrdelní soud {Malefitz}, lze uzavřít narovnání {mittel} podle toho, jak se celá věc má.
+- typ: nadpis
+  uroven: 3
+  de: '19.'
+  cs: '19.'
+- typ: odstavec
+  de: |-
+    Zum neunzehenden ist auch gebreuchlich / wenn der Gefangene dem Profosen auff seine klage antwort giebet / durch seinen Vorsprecher / das der Profos den Gefangenen aus den Eysen lasse / bis die antwort alle drey ergangen seind / nach innhalt des Rechten.
+  cs: |-
+    Za devatenácté je také obvyklé, že když vězeň skrze svého řečníka {Vorsprecher} odpovídá profousovi na jeho žalobu, profous vězně propustí z okovů {Eysen}, dokud podle obsahu práva neproběhnou všechny tři odpovědi.
+poznamky:
+- n: 1
+  text: „einer den andern nicht liederlich vbergeben“ – nikoho lehkomyslně (zbytečně) neudávat a nevydávat k potrestání; lze chápat i jako „nikoho lehkomyslně neopouštět“.

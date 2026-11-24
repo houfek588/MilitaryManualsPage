@@ -1,0 +1,42 @@
+id: 016v
+list: '[16] v'
+strana: verso
+sken: 36
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Jhr müst haben etzliche gute Zimmerart / vnd Handbeil / ein Wagen mit langen Spiessen / ein Wagen mit Harnisch / ein Wagen mit Reitspies / etzliche Helleparten / etzliche Reitspies Eysen / etzliche Fuseysen / darauff man gehe / die wol verwaret sein / etzliche andere Fuseysen / vnd etzliche Handbüchssen darzu.
+  cs: |-
+    Musíte mít několik dobrých tesařských seker a ručních sekyrek, vůz s dlouhými píkami {langen Spiessen}, vůz se zbrojí {Harnisch}, vůz s jezdeckými kopími {Reitspies}, několik halapartn {Helleparten}, několik hrotů na jezdecká kopí {Reitspies Eysen}, několik nožních želez {Fuseysen}, na něž se šlape, dobře opatřených,[^1] několik jiných nožních želez a k tomu několik ručnic {Handbüchssen}.
+- typ: odstavec
+  de: |-
+    Jhr müst haben etzliche gute Bechpfannen / Schweffelring / Schandelkertzen / etzliche Windlichte / etzliche Laternen / damit man bey der Nacht mag anzünden / wo es noth ist.
+  cs: |-
+    Musíte mít několik dobrých smolných pánví {Bechpfannen}, sirné věnce {Schweffelring}, lojové svíčky {Schandelkertzen}, několik pochodní {Windlichte} a několik luceren, aby se dalo v noci posvítit, kde je toho potřeba.[^2]
+- typ: odstavec
+  de: |-
+    Jhr müst diesen Zeug / so jhr jhn wolt zurichten / wie vor geschrieben stehet / so müst jhr bey dem Geschütz / das da bey dem vorzug ein Wagen mit etzlichen Puluer vnd Kugeln / vnd etzliche Fürschlege / vnd Wagen zu den Pferden / wo eine zubrech / das man ein andere het / etliche Secke zu dem Puluer / die mus man haben zu einem vorraht / ob etwas noth würde / das mans hette.
+  cs: |-
+    Tuto výzbroj {Zeug}, chcete-li ji připravit, jak je psáno výše, musíte [mít takto]:[^3] u děl, která jdou s předvojem {vorzug}, vůz s nějakým prachem a koulemi, několik kusů tažného nářadí {Fürschlege} a vahadel {Wagen} pro koně, aby se mělo jiné, kdyby se nějaké zlomilo, a několik pytlů na prach. To vše je třeba mít do zásoby, aby to bylo po ruce, kdyby bylo něčeho zapotřebí.
+- typ: odstavec
+  de: |-
+    Mehr müst jhr den Nachzug also haben / mit allen vorraht / wie mit dem Vorzug / mit aller zugehörung.
+  cs: |-
+    Dále musíte mít zadní voj {Nachzug} vybavený stejně jako předvoj, se všemi zásobami a se vším příslušenstvím.
+- typ: odstavec
+  de: |-
+    Es ist mein raht / mit dem Gewaltigen Geschütz / wie man das führen sol / Zum ersten vier kleine Schlenglein / vor zuführen / vnd auff dieselbigen die Brücken / vnd auff die Brücken die grossen Büchsen / vnd zwischen den grossen Büchsen ein Zug oder Bock / vnd etzliche Fürschlege vnd Wagen / zu einem vorrath / darauff das ander Geschütz / damit etzliche Wägen / zu dem Zeug / darauff den gewaltigen hauffen zu Fus.
+  cs: |-
+    Pokud jde o těžká děla {Gewaltigen Geschütz}, radím je vést takto: nejprve vpředu čtyři malé kulverinky {Schlenglein}, za nimi mosty {Brücken}, za mosty velká děla {grossen Büchsen} a mezi velkými děly kladkostroj {Zug} nebo zvedací kozu {Bock} a několik kusů tažného nářadí a vahadel do zásoby; za nimi ostatní děla a s nimi několik vozů s náčiním; za nimi hlavní houf pěchoty {gewaltigen hauffen zu Fus}.
+poznamky:
+- n: 1
+  text: |-
+    „Fuseysen / darauff man gehe / die wol verwaret sein“ – nejisté: buď železné nášlapky (mačky) připínané na obuv, nebo nášlapná železa (ostnaté „Fußangeln“, pasti), na něž má šlápnout nepřítel; „wol verwaret“ = dobře zajištěná. „Andere Fuseysen“ je patrně jiný druh téhož.
+- n: 2
+  text: |-
+    „Windlicht“ – pochodeň či svítilna odolná proti větru; „Schandelkertze“ – svíčka z loje (Schandel). Sirné věnce a smolné pánve sloužily k nočnímu osvětlení a k zapalování.
+- n: 3
+  text: |-
+    Věta je v tisku syntakticky neúplná (opakované „Jhr müst … so müst jhr“, chybí sloveso „haben“); překlad doplňuje smysl. „Wagen“ ve spojení s „Fürschlege“ a s „wo eine zubrech“ (ženský rod) znamená vahadla (Wage), ne vozy; srov. „Wogen“ na [[016r|předchozí straně]].

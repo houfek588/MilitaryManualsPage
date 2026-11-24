@@ -1,0 +1,43 @@
+id: 005r
+list: '[5] r'
+strana: recto
+sken: 13
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Inhalt dieses Büchleins/ das hat zwey teil.
+  cs: Obsah této knížky, která má dva díly
+- typ: nadpis
+  uroven: 2
+  de: Das Erste theil.
+  cs: První díl
+- typ: seznam
+  de:
+  - '1. Was ein König/ Fürst vnd Herr/ wann er Krieg führen wil oder mus/ zubedencken hat.'
+  - '2. Wie die Zug Ordenung von Landesknechten/ Reutern/ sampt dem Geschütz sol angeordent werden/ vnd mit aller Kriegs Munition/ mit fleis angezeiget wirdt.'
+  - '3. Wie man die Schlachtordenung sol machen/ mit dem Fusuolck/ Auch wie sich der Oberst halten/ vnd mit sonderlichem bedencken/ wie vnd mit was gelegenheit der Feindt anzugreiffen sey.'
+  - '4. Wie man sich mit dem Reisigen Zeug halten/ wie die Vorwarth anzustellen/ vnd wie man das treffen thun sol mit den Feinden.'
+  - '5. Wie man Städte vnd Schlösser belagern sol/ mit waserm fleis vnd ernst.'
+  - '6. Wie man eine Stadt/ so vom Feinde belagert wirdt/ mit gutem Rath erhalten/ vnd sich schützen mag.'
+  cs:
+  - '1. Co má uvážit král, kníže a pán, když chce nebo musí vést válku.'
+  - '2. Jak se má uspořádat pochodový šik {Zug Ordenung} lancknechtů {Landesknechten} a jezdců {Reutern} spolu s děly {Geschütz}; pilně se tu ukazuje i veškerá válečná munice {Kriegs Munition}.'
+  - '3. Jak se má sestavit bitevní šik {Schlachtordenung} pěchoty {Fusuolck}; také jak se má chovat vrchní velitel {Oberst}, a se zvláštním uvážením, jak a při jaké příležitosti se má na nepřítele zaútočit.'
+  - '4. Jak si počínat s jízdou {Reisigen Zeug}, jak rozestavit předvoj {Vorwarth} a jak svést střetnutí {treffen} s nepřítelem.'
+  - '5. Jak se mají obléhat města a hrady a s jakou pílí a vážností[^1].'
+  - '6. Jak lze město obléhané nepřítelem dobrou radou udržet a ubránit.'
+- typ: nadpis
+  uroven: 2
+  de: Im andern theil wird angezeiget/ Keyser Carls des Fünfften Kriegsbestallung.
+  cs: Ve druhém díle se uvádí válečný služební list {Kriegsbestallung} císaře Karla Pátého
+- typ: seznam
+  de:
+  - '1. Des Obersten standt vnd stadt/ wie der sol vnterhalten werden.'
+  cs:
+  - '1. Hodnost a stav {stadt} plukovníka {Obersten}: jak má být vydržován.'
+poznamky:
+- n: 1
+  text: |-
+    Tisk zřetelně *mit waserm fleis*; tvar je nejasný – snad tisková chyba za *mit was fleis* („s jakou pílí“), nebo za *wackerm* („s udatnou pílí“). Překlad se drží prvního výkladu.

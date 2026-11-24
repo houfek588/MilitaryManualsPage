@@ -1,0 +1,31 @@
+id: 024r
+list: '[24] r'
+strana: recto
+sken: 51
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Eine anzeigung / wie man vor Stedte sich lagern solle.
+  cs: Návod, jak se má [vojsko] utábořit před městy
+- typ: odstavec
+  de: |-
+    ERstlich sol man sich mit fleis erlernen / ob die Stadt zu gewinnen oder zu belegern sey / als denn / wenn man daraor kömpt / so sol man die Stadt berennen lassen / vnd von stundan im anfang zu Ros vnd Fus ein Scharmützel anfahen vnd bestellen / vnter demselben Scharmützel sol der oberste Hauptman ein oder zweene zu sich nemen / die der sachen verstendig sein / vnd als nahe man hinan kommen kan / die Stadt besichtigen / von stundan das Geschütz legen / 2. 3. oder 4. tage die Stadt mit fleis beschiessen / vnd wo es halbicht Sturmlich gemacht wird / von stund darauff gestürmet / dieweil das Volck in der erschrecknis ist / Kan man diesen Sturm nicht gewinnen / so rahte ich / das man abziehe / denn es darff sich niemand schemen / vnd versuche sich an einer andern Stadt / dann je lenger man dauor scheust / je stercker sie bawen / vnd behertzter sie werden / Darumb ist es ein böser gebrauch / das sie sich vnderstehen / vor die erste Stadt / da sie vor kommen / lange zuuorharren / sie wolten sie denn aushungern / da verlieren sie mehr / denn sie gewinnen.
+  cs: |-
+    Nejprve je třeba pilně zjistit, zda lze město dobýt, nebo [je nutné] je oblehnout. Potom, když se před ně přitáhne[^1], má se dát město oběhnout {berennen}[^2] a hned zpočátku započít a zařídit šarvátku {Scharmützel} na koni i pěšky. Během té šarvátky si má nejvyšší hejtman {oberste Hauptman} vzít k sobě jednoho nebo dva muže, kteří se ve věci vyznají, a co nejblíže se dá přijít, si město prohlédnout. Hned pak postavit děla {Geschütz}, 2, 3 nebo 4 dny město pilně ostřelovat, a jakmile je [průlom] aspoň napůl schůdný k útoku {Sturmlich}, ihned udeřit, dokud je lid [ve městě] vyděšený. Nedá-li se tento útok {Sturm} vyhrát, radím odtáhnout – nikdo se za to nemusí stydět – a zkusit to u jiného města. Čím déle se totiž před městem střílí, tím silněji [obránci] stavějí a tím odvážnější jsou. Proto je to špatný zvyk, že se [mnozí] pouštějí do dlouhého setrvávání před prvním městem, k němuž přitáhnou, ledaže by je chtěli vyhladovět; tím ztratí víc, než získají.
+- typ: odstavec
+  de: |-
+    Der Frantzos ist ein berümbter Kriegsman / der schemet sich nicht von einer jeglichen Stad abzuziehen / die er nicht wol gewinnen kan / vnd wenn sie jhre zusetze verlassen / so kompt er wider / vnd schafft denn allen seinen willen / damit leschet er den ersten schimpff aus / der jhme zuuor begegnet ist.
+  cs: |-
+    Francouz je proslulý válečník; nestydí se odtáhnout od kteréhokoli města, které nemůže snadno dobýt. A když [obránci] posílenou posádku {zusetze}[^3] zase propustí, vrátí se a pak si [s městem] naloží podle své vůle. Tím smaže první potupu, která ho předtím potkala.
+poznamky:
+- n: 1
+  text: |-
+    „wenn man daraor kömpt“ – tisk má zřetelně „daraor“; tisková chyba za „daruor“ (davor, před ně). V přepisu ponecháno.
+- n: 2
+  text: |-
+    „berennen“ – rychle obklíčit město jízdou a uzavřít přístupy, aby se do něj nedostala pomoc ani zásoby; první krok obléhání.
+- n: 3
+  text: |-
+    „wenn sie jhre zusetze verlassen“ – „Zusatz“ je posila (přídavek) posádky vyslaná do ohroženého města; když nebezpečí zdánlivě pomine a posila odejde (nebo ji měšťané propustí), vrátí se Francouz k útoku.

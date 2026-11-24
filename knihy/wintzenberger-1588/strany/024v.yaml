@@ -1,0 +1,28 @@
+id: 024v
+list: '[24] v'
+strana: verso
+sken: 52
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Anzeigung / wie man eine Stadt mit guter Ordnung behalten mag.
+  cs: Návod, jak lze dobrým řádem udržet město
+- typ: odstavec
+  de: |-
+    IHr sollet alsbalde als jhr euch des Krieges vermuth / oder belagert werdet / so sollet jhr diese Ordnung machen / jhr sollet austheilen Quartier vmb die gantze Stadt / in allen Vehsten / vnd das Volck alles versamlen / vnd dieselben Quartir austheilen / vnd nach notdurfft besetzen / vnd einem jeglichen befehlen / tag vnd nacht an sein Quartir / da er hingestellet vnd geordnet wird / also das sie allezeit / die helffte nach der stunde / oder nachm tage heim in jhre Heuser gehen mögen / vnd die ander helffte an der Wehre liegen bleiben / vnd die da heim gehen / eines vmb das ander / das sie jre Wehre auff der Vhesten stecken lassen / denn an demselbigen orth / vnd wen ein gerücht oder Lermen wird / das sie an keinen andern ort lauffen / denn an denselbigen orth / ein jetzlicher soll auch sein Geschütz alle stunden in bereitschafft vnd geladen / auff der Vehste bey sich haben
+  cs: |-
+    Jakmile očekáváte válku nebo jste obléháni, máte zavést tento řád: rozdělte kvartýry {Quartier} kolem celého města po všech hradbách {Vehsten}, shromážděte všechen lid, rozdělte mu tytéž kvartýry a obsaďte je podle potřeby. Každému přikažte [držet se] ve dne i v noci svého kvartýru, kam je postaven a zařazen, a to tak, aby vždy polovina mohla podle hodiny nebo podle dne odcházet do svých domů a druhá polovina zůstávala u zbraní {Wehre}. Ti, kdo jdou střídavě domů, ať nechají své zbraně stát na hradbě, a to právě na svém místě. A když se strhne pokřik nebo poplach {Lermen}, ať neběží na žádné jiné místo než na totéž. Každý má také mít na hradbě u sebe svou zbraň {Geschütz}[^1], v každou hodinu připravenou a nabitou.
+- typ: odstavec
+  de: |-
+    Wann nun die Mawern oder Vehste nach aller notdurfft besatzt seind / als viel man jhr zum Sturm zu behalten notdürfftig ist / hat man Kriegesleute in der Stadt / so solle man die Bürger damit spicken / auff die helffte / oder den dritten theil / vnd alle tage ander Volck / das da werhafftig ist / auff einen bequemen platz in eine Ordnung stellen / vnd
+  cs: |-
+    Když jsou tedy zdi čili hradby obsazeny podle vší potřeby – tolik lidí, kolik je jich třeba k udržení při útoku {Sturm} –, a jsou-li ve městě válečníci {Kriegesleute}, má se jimi měšťanstvo „prošpikovat“[^2], a to napůl nebo z jedné třetiny. A každý den se má jiný lid, který je schopný nosit zbraň, postavit na vhodném prostranství do šiku {Ordnung} a
+poznamky:
+- n: 1
+  text: |-
+    „Geschütz“ zde zřejmě znamená palnou zbraň obránce vůbec (ruční i hradební), nejen dělo: každý ji má mít „bey sich“ na svém místě.
+- n: 2
+  text: |-
+    „die Bürger damit spicken“ – promíchat měšťany s vojáky (v poměru půl na půl nebo třetinu), aby žoldnéři podpořili nezkušené měšťany na hradbách.

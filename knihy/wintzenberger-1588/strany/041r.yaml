@@ -1,0 +1,26 @@
+id: 041r
+list: '[41] r'
+strana: recto
+sken: 85
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Folget das Malefitz vnd langen Spies Recht / welches jetzo bey Keyser / Königen / Chur vnd Fürsten / Herren vnd Potentaten / vber die Kriegsleute gehalten wird / gantz ordentlich beschrieben / etc.
+  cs: Následuje hrdelní právo a právo dlouhých pík {Malefitz vnd langen Spies Recht}, jak se nyní u císaře, králů, kurfiřtů a knížat, pánů a mocnářů {Potentaten} drží nad válečníky {Kriegsleute}, zcela řádně popsané atd.
+- typ: obrazek
+  soubor: drevorez-85.jpg
+  popis: Soudní zasedání. Uprostřed pod baldachýnem se závěsy sedí na stolci vousatý soudce (rychtář) s holí či žezlem v ruce, po obou stranách sedí a rokují přísedící v dlouhých šatech a čepicích. V popředí sedí za stolem s knihami a kalamářem soudní písař. Vpravo dole monogram řezáče (snad „HL“).
+- typ: nadpis
+  uroven: 3
+  de: '1.'
+  cs: '1.'
+- typ: odstavec
+  de: |-
+    ERstlichen / wo sich Kriegesordnung erheben würde / in einem Feldtlager oder Flecken / da Rechte vnd Vrtheil gehalten werden / so sol der
+  cs: |-
+    Předně, kde by se ustavil válečný řád {Kriegesordnung}[^1] v polním ležení {Feldtlager} nebo v městečku {Flecken}, kde se konají soudy {Rechte} a vynášejí rozsudky {Vrtheil}, tam má
+poznamky:
+- n: 1
+  text: „Kriegesordnung“ – zde ve smyslu zřízení vojska (pluku) s jeho úřady a soudem, nikoli bitevního šiku.

@@ -1,0 +1,35 @@
+id: 040v
+list: '[40] v'
+strana: verso
+sken: 84
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    1. Erstlich vnd anfenglich / so das Wort Gottes verkündet vnd verbracht wird / so sol menniglich darzu gehen / Gott dem Allmechtigen nach dem alten löblichen brauch / vmb guten Wind vnd Wetter bitten / welcher aber das ohne vrsach nicht thet / oder veracht / der sol nach ordnung des Hauptmans oder des Meistermans gestrafft werden.
+  cs: |-
+    1. Předně a na počátku, když se zvěstuje a koná slovo Boží, má k tomu jít každý a podle starého chvályhodného zvyku prosit Boha Všemohoucího za dobrý vítr a počasí. Kdo by to však bez příčiny nečinil nebo tím pohrdal, má být potrestán podle nařízení hejtmana {Hauptmans} nebo lodního mistra {Meistermans}.
+- typ: odstavec
+  de: |-
+    2. Zum andern / welche Person / es sey hohes oder nieder standes / Herren / Knecht oder Buben / Gott oder seine Heiligen lestern würde / es sey wenig oder viel / der oder dieselbigen sollen nach erkentnüs des Hauptmans oder Meistermans gestraffet werden.
+  cs: |-
+    2. Za druhé: kdo by se rouhal Bohu nebo jeho svatým, ať málo, nebo mnoho, ať je to osoba vysokého nebo nízkého stavu, pán, knecht {Knecht}, nebo pacholek {Buben}, ten nebo ti mají být potrestáni podle uznání hejtmana nebo lodního mistra.
+- typ: odstavec
+  de: |-
+    3. Zum dritten / welcher eine Wehre oder Brodtmesser gegen einem braucht / der sol nach erkentnis des Obristen am Leibe gestrafft werden.
+  cs: |-
+    3. Za třetí: kdo proti někomu použije zbraň {Wehre} nebo nůž na chléb, má být podle uznání plukovníka {Obristen} potrestán na těle.
+- typ: odstavec
+  de: |-
+    4. Zum vierdten / sol auch keiner den andern auff dem Lande schlagen / oder zu balgen zusagen / welcher darwider thet / der sol nach erkentnüs des Obristen gestraffet werden.
+  cs: |-
+    4. Za čtvrté nemá také nikdo druhého na zemi bít ani ho vyzývat k bitce {balgen}[^1]. Kdo by se proti tomu provinil, má být potrestán podle uznání plukovníka.
+- typ: odstavec
+  de: |-
+    5. Zum fünfften / so zwene mit Feusten einander schlagen / oder sonst freuentlicher weise einander dringen / die sol der Meisterman straffen.
+  cs: |-
+    5. Za páté: když se dva navzájem bijí pěstmi nebo se jinak svévolně potýkají, má je potrestat lodní mistr.
+poznamky:
+- n: 1
+  text: „auff dem Lande“ – na pevnině (po vylodění), nebo obecně „v zemi“; „zu balgen zusagen“ = vyzvat k rvačce či souboji. Za rvačky pěstmi na lodi trestá podle čl. 5 lodní mistr.

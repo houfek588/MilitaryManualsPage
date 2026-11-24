@@ -1,0 +1,50 @@
+id: 007r
+list: '[7] r'
+strana: recto
+sken: 17
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: verse
+  de:
+  - 'Atque duas hominum pulchras coniunxerat vrbes,'
+  - 'Quarum vna in celebrant certa connubia lege'
+  - 'Atque pareant epulas, face tum præeunte per vrbem'
+  - 'Deducunt Nymphas, cœlum resonatque hymenæo.'
+  cs:
+  - 'A spojil [na štítě] dvě krásná města lidí;'
+  - 'v jednom z nich slaví sňatky podle pevného řádu,'
+  - 'chystají hostiny[^1] a za svitu pochodní, jež jdou před nimi, vedou městem'
+  - 'nevěsty a nebe zní svatebním zpěvem.'
+- typ: obrazek
+  soubor: drevorez-17.jpg
+  popis: |-
+    Dřevořez: obležené město – za hradbami se střílnami se tyčí věže a domy, vlevo na skále hrad; nad městem letí ohnivé střely. Před městem stojí ležení se stany, děla na kolových lafetách pálí na hradby, u nich leží hromádky koulí a moždíř, vlevo vojáci s praporcem. (Ilustruje druhé z Homérových měst.)
+- typ: verse
+  de:
+  - 'Obsidet ast aliam populorum exercitus vrbem'
+  - 'Armis conspicuus, placet his sententia discors.'
+  - 'Et muro Vxores charæ, puerique, virique,'
+  - 'Quorum iam tremulos senium laxauerat artus'
+  - 'Incumbunt, illum certa & statione tuentur.'
+  cs:
+  - 'Druhé město však obléhá vojsko národů,'
+  - 'skvělé ve zbrani, avšak rozdílného mínění.'
+  - 'A o hradbu drahé manželky, chlapci i muži,'
+  - 'jimž už stáří uvolnilo třesoucí se údy,'
+  - 'se opírají a hájí ji [hradbu] z pevného stanoviště.'
+- typ: nadpis
+  uroven: 3
+  de: Diese Vers lauten im Deudschen vngefehrlich/ wie hernach folget.
+  cs: Tyto verše zní německy přibližně takto
+- typ: verse
+  de:
+  - 'Homerus da er beschreiben wil/'
+  - 'Wie frieden vns bringt gutes viel/'
+  cs:
+  - 'Homér, když chce popsat,'
+  - 'jak mnoho dobrého nám přináší mír'
+poznamky:
+- n: 1
+  text: |-
+    Latinský text má v tisku několik chyb nebo neobvyklých tvarů (*vna in celebrant* je zřejmě porušené, *pareant* stojí za *parant*); v přepisu jsou ponechány. Zkratky *Atq;*, *-q;* jsou rozepsány na *Atque*, *-que*.

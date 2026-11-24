@@ -1,0 +1,50 @@
+id: 043v
+list: '[43] v'
+strana: verso
+sken: 90
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: '13.'
+  cs: '13.'
+- typ: odstavec
+  de: |-
+    Zum dreytzehenden / von einem jeden Malefitzrecht Vrtheil / ist man dem Schultheissen 1. fl. vnd dem Gerichtschreiber 1. fl. vnd sonst von einem jeden Vrtheil / einen Orth von einem Goldgülden / vnd dem Schreiber einen halben orth.
+  cs: |-
+    Za třinácté: z každého rozsudku {Vrtheil} hrdelního práva {Malefitzrecht} je třeba dát rychtáři {Schultheissen} 1 zlatý a soudnímu písaři {Gerichtschreiber} 1 zlatý, z každého jiného rozsudku pak ort {Orth} zlatého goldenu {Goldgülden}[^1] a písaři půl ortu.
+- typ: nadpis
+  uroven: 3
+  de: '14.'
+  cs: '14.'
+- typ: odstavec
+  de: |-
+    Zum vierzehenden / welcher einen Brieff vom Schultheissen wil vorsiegelt haben / es sey Vrtheil / Kundschafft / oder so viel als man auff einen Bogen Papier schreiben kan / der giebt dem Schultheissen ein fl.
+  cs: |-
+    Za čtrnácté: kdo chce mít od rychtáře zapečetěnou listinu, ať rozsudek, svědectví {Kundschafft}, nebo cokoli, co lze napsat na jeden arch papíru, ten dá rychtáři jeden zlatý.
+- typ: nadpis
+  uroven: 3
+  de: '15'
+  cs: '15.'
+- typ: odstavec
+  de: |-
+    Zum funfftzehenden / was bey dem Schultheissen geleget wird / es sey Geld odel Kleinodt / das ist der Schultheis dem Part zuuerwahren schuldig / von solchem Gelde oder Kleinoth / ist man jhme zu geben schuldig 10. ß. wo aber solch Geld oder Kleinoth durch den Schultheissen verloren wird / so ist er schuldig derselbigen Part / die das eingeleget haben / zu bezalen.
+  cs: |-
+    Za patnácté: co se u rychtáře uloží, ať peníze, nebo klenoty[^2], to je rychtář povinen straně {Part} opatrovat. Z takových peněz nebo klenotů je mu třeba dát 10 šilinků {ß.}[^3]. Pokud by však rychtář takové peníze nebo klenoty ztratil, je povinen je té straně, která je uložila, nahradit.
+- typ: odstavec
+  de: |-
+    Ob es aber sach were / das dem Schultheissen solche bezalunge / mit sampt seinem Hab vnd Gut / durch die Feinde abgedrungen würde / oder in Fewers noth vmbkehme / so ist er weder Recht noch Antwott der Part zu geben schuldig / oder zu bezahlen.
+  cs: |-
+    Kdyby se však stalo, že by takový vklad[^4] byl rychtáři spolu s jeho jměním a statky uloupen nepřáteli nebo by zahynul v ohni, není povinen straně stát k soudu ani odpovídat[^5], ani [jí] nic platit.
+poznamky:
+- n: 1
+  text: Ort = čtvrtina; „ein Orth von einem Goldgülden“ je tedy čtvrt zlatého goldenu, písař dostává osminu.
+- n: 2
+  text: V tisku „odel“ (ověřeno ve skenu) – tisková chyba za „oder“; podobně dále „Antwott“ za „Antwort“.
+- n: 3
+  text: Znak „ß.“ za číslem (ověřeno ve skenu) je dobová zkratka šilinku (Schilling, solidus); nelze zcela vyloučit fenik. Zda jde o paušální poplatek, nebo o sazbu z určité částky, text neuvádí.
+- n: 4
+  text: „solche bezalunge“ – zde ve smyslu uložené peníze, vklad.
+- n: 5
+  text: „weder Recht noch Antwort … zu geben schuldig“ – nemůže být z toho žalován a nemusí se zodpovídat.

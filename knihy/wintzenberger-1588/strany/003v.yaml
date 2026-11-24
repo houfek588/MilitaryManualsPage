@@ -1,0 +1,32 @@
+id: 003v
+list: '[3] v'
+strana: verso
+sken: 10
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    noch in Wind schlagen soll/ dieweil wie obgemelt/ vornehme Herren/ Fürsten vnd Potentaten/ sich seines trewen vnd wolmeinenden Raths/ bey jhme erholet vnd belernet.
+  cs: |-
+    ani je házet za hlavu, neboť, jak výše řečeno, přední páni, knížata a mocnáři {Potentaten} si jeho věrnou a dobře míněnou radu u něho vyžádali a dali se jí poučit.
+- typ: odstavec
+  de: |-
+    Vnd da auch nuhn jtzo/ weil Krieg vnd Krieges geschrey/ vnd grosse gefahr vorhanden/ viel grösser als etwa etliche meinen wollen/ man sich also verhalten/ ob noth an Man gehen würde/ vnd die sachen so vorfallen möchten/ als etwa zu der zeit/ sich derselben mittel zu gebrauchen vor die Hand nemen müste/ Ist alhier ja eine feine richtige anleittung vorgeschrieben/ wie man sich halten müste vnd köndte.
+  cs: |-
+    A protože i nyní je tu válka, pověsti o válce[^1] a velké nebezpečí, mnohem větší, než si snad někteří chtějí připustit, je třeba se zařídit tak, aby – kdyby šlo do tuhého a nastaly věci jako tehdy – bylo možno sáhnout po týchž prostředcích. Zde je k tomu jistě sepsán pěkný a správný návod, jak se zachovat má a může.
+- typ: odstavec
+  de: |-
+    Wil es also bey dieser Erinnerung bleiben lassen/ vnd mein lob das ich diesem Büchlein gebe ist nicht genug/ Das werck wird selbst seinen Herren vnd Meister loben.
+  cs: |-
+    Nechám to tedy při této připomínce; moje chvála, kterou této knížce vzdávám, stejně nestačí – dílo samo bude chválit svého pána a mistra.
+- typ: odstavec
+  de: |-
+    DIeweil denn E. E. G. von Edlen vnd Adelichen Stammen/ eines gar vhraldens herkomens/ vnd eines löblichen vnd rühmlichen geschlechtes/ darunter auch vorneme treffliche Kriegs Obersten gewesen/ vber Reuter/ vnd
+  cs: |-
+    Jelikož tedy Vaše urozená Statečnost pochází z urozeného a šlechtického kmene, velmi starobylého původu a chvalného a slavného rodu, z něhož vzešli i přední a znamenití váleční plukovníci {Kriegs Obersten} nad jízdou {Reuter} a
+poznamky:
+- n: 1
+  text: |-
+    *Krieges geschrey* – zvěsti o válce (srov. Lutherův překlad Mt 24,6 „Kriege vnd geschrey von Kriegen“). Rok 1588 byl dobou napětí (válka v Nizozemí, tažení Armady proti Anglii, spory o Kolínské arcibiskupství, trvalé turecké nebezpečí).

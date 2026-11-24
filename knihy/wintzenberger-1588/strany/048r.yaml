@@ -1,0 +1,61 @@
+id: 048r
+list: '[48] r'
+strana: recto
+sken: 99
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    schlegt mit dem Stabe auff den Tisch / vnd spricht: Still jhr Vmbstehenden / vnd mercket auff.
+  cs: |-
+    udeří soudní holí {Stabe} do stolu a praví: „Ticho, vy přihlížející, a dávejte pozor!“
+- typ: nadpis
+  uroven: 3
+  de: '1.'
+  cs: '1.'
+- typ: odstavec
+  de: |-
+    Zum ersten / Jch verban das Recht / vnd spanne die Banck / von wegen Gottes des Allmechtigen / in seinem höchsten Trohne / da alle Gerechtigkeit aus entsprossen ist / das wir heute diesen Tag Richten vnd vrtheilen mögen / das wir mögen bekant sein / am Jüngsten Gerichte.
+  cs: |-
+    Za prvé: zahajuji soud {verban das Recht} a napínám lavici {spanne die Banck} jménem všemohoucího Boha na jeho nejvyšším trůnu, z něhož vzešla všechna spravedlnost, abychom dnešního dne soudili a vynášeli rozsudek tak, abychom se k tomu mohli přiznat[^1] na Posledním soudu.
+- typ: nadpis
+  uroven: 3
+  de: '2.'
+  cs: '2.'
+- typ: odstavec
+  de: |-
+    Zum andern / Jch verban das Recht / vnd spanne die Banck / von wegen Röm: Key: May: deme das Schwert gegeben ist / der Göttlichen Gerechtigkeit.
+  cs: |-
+    Za druhé: zahajuji soud a napínám lavici jménem Jeho římského císařského Veličenstva, jemuž je svěřen meč božské spravedlnosti.
+- typ: nadpis
+  uroven: 3
+  de: '3.'
+  cs: '3.'
+- typ: odstavec
+  de: |-
+    Zum dritten / Jch verbanne das Recht / vnd spanne die Banck / von wegen des Durchlauchtigen Hochgebornen Fürsten vnd Herren N. vnsers gnedigsten Herren.
+  cs: |-
+    Za třetí: zahajuji soud a napínám lavici jménem osvíceného, vysoce urozeného knížete a pána N., našeho nejmilostivějšího pána.
+- typ: nadpis
+  uroven: 3
+  de: '4.'
+  cs: '4.'
+- typ: odstavec
+  de: |-
+    Zum vierdten / Jch verbanne das Recht / vnd spanne die Banck / von wegen des Obersten / der da sitzet an der stadt vnsers gnedigsten Herren.
+  cs: |-
+    Za čtvrté: zahajuji soud a napínám lavici jménem plukovníka {Obersten}, který zde zasedá místo našeho nejmilostivějšího pána.
+- typ: nadpis
+  uroven: 3
+  de: '5.'
+  cs: '5.'
+- typ: odstavec
+  de: |-
+    Zum fünfften / Jch verban das Recht / vnd spanne die Banck / von wegen vnser aller / vnd von wegen mein / als vorordenter Schultheis vnd Stabhalter / das wir also richten vnd vrtheilen / das wir bekant mögen sein / am Jüngsten Gerichte.
+  cs: |-
+    Za páté: zahajuji soud a napínám lavici jménem nás všech a jménem svým jakožto ustanoveného rychtáře {Schultheis} a držitele hole {Stabhalter}, abychom soudili a vynášeli rozsudek tak, abychom se k tomu mohli přiznat na Posledním soudu.
+poznamky:
+- n: 1
+  text: „das wir mögen bekant sein“ – abychom se k [svému rozsudku] mohli přiznat, tj. obhájit ho před Bohem.

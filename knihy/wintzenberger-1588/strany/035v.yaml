@@ -1,0 +1,31 @@
+id: 035v
+list: '[35] v'
+strana: verso
+sken: 74
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Monat Soldt bezalet werden solt / so lang in diesem Hispanischen Königreichen vnd Landen / jhrer May: dienst vnd Besoldung seind / Ob sie aber widerumb in Italien gefürt werden / alsdenn sol es mit jhnen gehalten werden / wie von alters herkommen / vnd der Brauch ist / Nemlich / vor jeden Monat Soldt 4. fl. welches sich auff 2. Cronen / vnd 2. Drittheil erstrecket / entrichten.
+  cs: |-
+    měsíční žold {Monat Soldt}, a to po celou dobu, co jsou v těchto španělských královstvích a zemích ve službě a na žoldu Jeho Veličenstva. Budou-li však opět odvedeni do Itálie, má se s nimi zacházet tak, jak se odedávna vede a jak je zvykem, totiž za každý měsíční žold [jim] vyplácet 4 zlaté, což činí 2 koruny {Cronen} a 2 třetiny[^1].
+- typ: odstavec
+  de: |-
+    40. Hat Key: May: bewilliget / auff die Fendlein / so in jhrer May: dienst bleiben / damit die wider ernewert werden / einem jeden Hauptman 10. Cronen / oder so viel Daffet / als zu einem Fenlein von nöten ist / zustellen lassen / doch sollen die Fenlein von Farben / nach jhrer May: befehlich gemacht werden.
+  cs: |-
+    40. Jeho císařské Veličenstvo svolilo, že na praporce {Fendlein}, které zůstanou v jeho službě, aby mohly být obnoveny, dá každému hejtmanovi {Hauptman} doručit 10 korun nebo tolik taftu {Daffet}, kolik je na jeden praporec potřeba. Barvy praporců však mají být podle rozkazu Jeho Veličenstva.
+- typ: odstavec
+  de: |-
+    41. So man auch das Winterlager halten mus / es sey in Stedten / Castellen oder Flecken / sollen die Kriegesleute mit Holtz zu der Wache / die sie zu thun haben / notdürfftiglich vorsehen werden / vnd sol der Commissarius / der jhnen zugegeben / neben dem Wachmeister hierinnen ordnung vnd einsehung thun / mit fleis in acht haben / damit schad vnd nachtheil / mit beschedigung der Gebew / oder andern Bewmen auff dem Felde / auch ander Gehöltz / das man zu andern sachen brauchen mag / fürkommen werden sol.
+  cs: |-
+    41. Bude-li třeba držet zimní ležení {Winterlager}, ať ve městech, kastelech nebo městečkách {Flecken}, mají být válečníci {Kriegesleute} podle potřeby zaopatřeni dřívím pro stráž {Wache}, kterou mají držet. Komisař {Commissarius}, který je jim přidělen, má spolu s vachmistrem {Wachmeister} zjednat v tom pořádek a dohled a pilně dbát, aby se předešlo škodě a újmě z poškozování budov nebo stromů na polích i jiného dříví, které se dá potřebovat k jiným věcem.
+- typ: odstavec
+  de: |-
+    42. Vnd so Key: May: jhrer nicht weiter notdürfftig sein würde / so man sie jhrer Bezalung vnd Besoldung / was man jhnen zuthun ist bezalt / vnd sie mit Schiffen auff jhrer May: kosten /
+  cs: |-
+    42. A až jich Jeho císařské Veličenstvo nebude dále potřebovat, jakmile se jim zaplatí jejich plat a žold {Besoldung}, cokoli jim náleží, mají být na náklad Jeho Veličenstva zaopatřeni loďmi
+poznamky:
+- n: 1
+  text: Z obou údajů vyplývá kurs 1 koruna = 1½ zlatého (4 zl. = 2⅔ koruny), což přibližně odpovídá kursu 23 bacenů za korunu v čl. 32 (zlatý = 15 bacenů). Ve Španělsku tedy knecht dostával místo obvyklých 4 zlatých fakticky 4½ zlatého měsíčně.

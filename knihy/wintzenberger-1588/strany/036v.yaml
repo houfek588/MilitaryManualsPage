@@ -1,0 +1,31 @@
+id: 036v
+list: '[36] v'
+strana: verso
+sken: 76
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Er sol auch sehen / das dem Zeugmeister in seine Artalerey Profiant geführet werde / sol auch vber niemand zu gierig / oder sich durch jemand vorhetzen lassen / vnd so weit sie es vor der Obrigkeit verantworten können vnd wissen / vnd doch dem Regiment zu nachtheil nichts vorgessen / sondern bey der gütigkeit bleiben lassen / doch das nichts desto weniger das vbel gestraffet werde.
+  cs: |-
+    Má také dbát, aby se zbrojmistrovi {Zeugmeister} do jeho dělostřelectva {Artalerey} dovážel proviant {Profiant}. Nemá se na nikoho příliš sápat[^1] ani se nechat proti nikomu poštvat, [nýbrž jednat,] nakolik to [on a jeho lidé] mohou a umějí obhájit před vrchností {Obrigkeit}. Přitom nemá nic zanedbat ke škodě zřízení {Regiment}, ale zachovat mírnost, avšak tak, aby zlo bylo přesto potrestáno.
+- typ: odstavec
+  de: |-
+    2. Zum andern sol der Zeugmeister haben in seiner Artalerey / sein sonderlich Regiment / Artickels Brieff / Büchssenmeister vnd Handwergker / auff das sein gantz Regiment mit Kriegsuolck vnd anderer Notdurfft gnugsam vorsehen sey / wie jetzo folget.
+  cs: |-
+    2. Za druhé má mít zbrojmistr ve svém dělostřelectvu své zvláštní zřízení, artikulní list {Artickels Brieff}, puškaře {Büchssenmeister} a řemeslníky, aby celé jeho zřízení bylo dostatečně opatřeno válečným lidem {Kriegsuolck} i jinou potřebou, jak nyní následuje.
+- typ: odstavec
+  de: |-
+    Als das er sol haben auff seinen Leib sein gerüstet Pferd / auff jhn zu warten / darnach seinen Leutenampt / seinen Zeugschreiber / Zeugwarter / Geschützmeister / Wagenburgmeister / Schlosser / Schmiede / Tischer / Zimmerleute / vnd zu dem Geschütz / so gros vnd klein nachgeführet / mit erfarnen vnd geschickten Büchssenmeistern vnd Gesellen / sampt jhren Handreichern / vnd alle notdürfftige zugehörunge / als Puluer / Kugeln / Bley / Wischer / Loth / Heben / Kratzer / Darzu Zündstrick / Schwefel / Pech / Kolbele / Fewerwergk / Fewerkugeln / Fewerpfeil / Zeug vnd allerley Fewerwergk / das nötig sein mag / Auch Eysen / Ketten / Stricken / Waltzen / grossen Seylen / Holtz / Leitern / Lötter / Laternen / vnd aller Zeug / zu den Schieffbrücken / Hacken / Eysen / vorrath an Rädern / Feldschmiede / vnd vorrath an Puluer vnd Bley / vor die
+  cs: |-
+    Totiž má mít pro svou osobu svého zbrojného koně {gerüstet Pferd}, aby mu byl k službě, dále svého poručíka {Leutenampt}, svého zbrojního písaře {Zeugschreiber}, zbrojního správce {Zeugwarter}, dělmistra {Geschützmeister}, mistra vozové hradby {Wagenburgmeister}, zámečníky, kováře, truhláře a tesaře; k dělům {Geschütz}, velkým i malým, která se vezou za vojskem, zkušené a schopné puškaře a tovaryše {Gesellen} s jejich přidavači {Handreichern}; a všechno potřebné příslušenství: střelný prach {Puluer}, koule {Kugeln}, olovo, vytěráky {Wischer}, kulky {Loth}[^2], páky {Heben}, škrabky {Kratzer}, k tomu doutnák {Zündstrick}, síru {Schwefel}, smůlu {Pech}, [ohnivé] palice {Kolbele}[^3], ohňostroje {Fewerwergk}, ohnivé koule {Fewerkugeln}, zápalné šípy {Fewerpfeil}, nářadí a všelijaké ohňostroje, jichž by bylo třeba; také železo, řetězy, provazy, válce, velká lana, dříví, žebříky, „Lötter“[^4], lucerny a všechno nářadí k lodním mostům {Schieffbrücken}, háky, železo, zásobu kol, polní kovárny a zásobu prachu a olova pro
+poznamky:
+- n: 1
+  text: „vber niemand zu gierig“ – doslova „na nikoho příliš chtivý“, tj. nemá nikoho stíhat z přehnané horlivosti nebo zištnosti. Odstavec ještě patří k čl. 1 o profousovi.
+- n: 2
+  text: „Loth“ – olověné kulky, popř. olovo na odlévání kulí; srov. „Kraut vnd Loth“ (prach a olovo) v čl. 36 artikulního listu.
+- n: 3
+  text: „Kolbele“ – zdrobnělina od „Kolbe“ (palice, kyj); vedle síry, smůly a ohňostrojů jde nejspíš o útočné palice napuštěné zápalnou směsí. Čtení není jisté.
+- n: 4
+  text: „Lötter“ (ověřeno ve skenu) – výraz se nepodařilo určit; snad jiná podoba slova „Leitern“ (žebříky), nebo „Lotter“ (bidla, tyče). Ponecháno bez překladu.

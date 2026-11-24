@@ -1,0 +1,43 @@
+id: 028v
+list: '[28] v'
+strana: verso
+sken: 60
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - ['8.', Item 10. Feldwebel / einem jeden 3. Vber sold / thut, 120. fl.]
+  - ['9.', dem Hurenweibel, 8. fl.]
+  - ['10.', Auff den Stockmeister /, 12. fl.]
+  - ['11.', Auff 6. Steckenknechte /, 48. fl.]
+  - ['12.', Einem Nachtrichter 4. Soldt / thut, 16. fl.]
+  cs:
+  - ['8.', 'Dále 10 šikovatelům {Feldwebel}, každému 3 přeplatky {Vber sold}, činí', 120 zl.]
+  - ['9.', 'Šikovateli trénu {Hurenweibel}', 8 zl.]
+  - ['10.', 'Na žalářníka {Stockmeister}', 12 zl.]
+  - ['11.', 'Na 6 profousových pacholků {Steckenknechte}', 48 zl.]
+  - ['12.', 'Jednomu katovi {Nachtrichter} 4 žoldy, činí', 16 zl.]
+- typ: odstavec
+  de: |-
+    Summa Summarum / aller dieser Soldt vnd vnd Vbersoldt / bringen Monatlich jeden Monat 468. fl. Zu warer Vrkund / haben wir diesen Stadt mit vnser eigen Hand vnterschrieben / vnd vnser Secret auffgedruckt / Geschehen instruction auff Musterung instruction / was der Ersame / vnser vnd des Reichs lieber Getrewer N. vnser verordenter Comissarius / vnd Angeber vnsers Deudschen Kriegesuolcks / so vnter dem Regiment N. sein werden / jetzt in der ersten Musterung thun vnd handeln sollen.
+  cs: |-
+    Celkový součet {Summa Summarum} všech těchto žoldů a přeplatků činí měsíčně, každý měsíc, 468 zlatých[^1]. Na pravé svědectví jsme tento stav podepsali vlastní rukou a přitiskli svou sekretní pečeť {Secret}. Dáno.[^2] Instrukce {instruction} k přehlídce {Musterung}: co má ctihodný N., náš a říše milý věrný, náš ustanovený komisař {Comissarius} a zapisovatel {Angeber}[^3] našeho německého válečného lidu, který bude v pluku N., nyní při první přehlídce činit a konat.
+- typ: odstavec
+  de: |-
+    ERstlich sollen sich auff dem vorordenten Musterplat / verfügen / Nemlich / gen Reinhausen vnd andern darumb liegenden Flecken / vnd zu seiner ankunfft gemeltes vnser Kriegsuolck / geloben vnd schweren lassen / vnd solt vns 6. Monat lang / vnd so lang wir jhr bedürffen werden / vormög jhrer Bestallung vnd Artickelsbrieffs dienen / doch vns vorbehalten / da wir zu einer jeden zeit / so vns vor gut ansehen wird / vrlauben mögen / Man sol auch mit fleis daran sein / das ein jegliches Fenlein mit 400. Personen / guter gerüster Landsknechte besetzet sein / dieselben wol behandt sein / keinen mustern oder passiren lassen / der lahm / krumb oder schadhafftig sey / Er sol nicht vnter jeden Fenlein 100. Vbersoldt /
+  cs: |-
+    Předně se má [komisař] odebrat na určené přehlídkové místo {Musterplat}, totiž do Reinhausenu[^4] a dalších okolních městeček {Flecken}, a po svém příjezdu nechat řečený náš válečný lid slíbit a přísahat, že nám bude sloužit 6 měsíců a tak dlouho, jak ho budeme potřebovat, podle svého služebního listu {Bestallung} a artikulního listu {Artickelsbrieffs}; vyhrazujeme si však, že ho můžeme kdykoli, jak uznáme za dobré, propustit. Má také pilně dbát, aby každý praporec {Fenlein} byl obsazen 400 osobami, dobře vyzbrojenými lancknechty {Landsknechte}, a aby to byli muži zdatní; nemá nechat zapsat ani projít nikoho, kdo by byl chromý, křivý nebo jinak vadný. Nemá v žádném praporci [povolit] víc než 100 přeplatků {Vbersoldt},
+poznamky:
+- n: 1
+  text: |-
+    Součet odpovídá položkám obou stran (čísla ověřena ve skenu): 5 × 40 + 2 × 32 + 120 + 8 + 12 + 48 + 16 = 468 zlatých. Položka 8: 10 šikovatelů × 3 přeplatky (žoldy) po 4 zl. = 120 zl.
+- n: 2
+  text: |-
+    „Geschehen instruction auff Musterung instruction“ – sazba je tu porušená: za „Geschehen“ (dáno) chybí datum a nadpis následující instrukce („Instruction auff Musterung“) je vsazen do běžného textu, slovo „instruction“ navíc zdvojeno. Stejně je zdvojeno „vnd vnd“. V přepisu ponecháno podle tisku, v překladu rozčleněno podle smyslu.
+- n: 3
+  text: |-
+    „Angeber“ – doslova „ten, kdo udává, ohlašuje“; zřejmě úředník, který lid zapisuje do přehlídkového rejstříku (snad zkomolené „Annehmer“, verbíř). Jde o tutéž osobu, dále nazývanou „Commissarius vnd Muster Herr“.
+- n: 4
+  text: |-
+    „gen Reinhausen“ – místo nelze s jistotou určit (snad Rheinhausen na Rýně u Speyeru); v předloze služebního listu šlo o shromaždiště německého pluku před pochodem do Itálie.

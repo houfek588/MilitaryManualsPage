@@ -1,0 +1,23 @@
+id: 010v
+list: '[10] v'
+strana: verso
+sken: 24
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    die solchen Krieg mit Leib vnd Gut führen sollen/ vnd die jhm gerahten haben/ die bleiben in guter versicherung/ solcher Krieg mag keinen guten bestandt haben/ wie jedermenniglich wol ermessen kan/ mit was lieb oder lust die Vnderthanen neben jhrem Herren/ jhr Leib vnd Gut zuzusetzen haben sollen/ weil es ohne jhren bewust vnd willen/ durch die gerahten vnd angefangen ist/ die da in guter verwarung bleiben/ vnd der sachen wenig verlust haben/ das wil ich für das Erste theil zu einer vnterricht angezeiget haben.
+  cs: |-
+    kdo mají takovou válku vést životem i statkem – a ti, kdo mu ji poradili, zůstávají v dobrém bezpečí –, taková válka nemůže mít dobré trvání. Každý si snadno domyslí, s jakou láskou či chutí mají poddaní nasazovat vedle svého pána život i statek, když válku bez jejich vědomí a vůle doporučili a začali ti, kdo zůstávají v dobrém bezpečí a mají z té věci jen malou ztrátu. To jsem chtěl uvést jako poučení k prvnímu bodu.
+- typ: odstavec
+  de: |-
+    2. Zum andern/ wenn nun die Fürsten vnd Herren den Krieg mit fleis vnd rahte jhrer Vnderthanen betracht vnd angenommen haben/ so sol er nun mit raht derselbigen seiner Vnderthanen von allen Stenden einen obersten Hauptman/ der da solchen Krieg von wegen des Königes/ Fürsten oder Herren führen solle/ erwehlen/ darinn bedürffen sie wol gutes rahts/ da ligt das gröste an/ in allem Kriege/ wie man denn bey allen Königen vnd Fürsten jetzo bisher vielmahls gesehen vnd erfahren hat/ Denn ein oberster Heuptman mus also geschickt sein/ das er habe ein gros ansehen/ vnd ein behertzter Man/ der da ein grossen muth hat/ Also in der gestalt/ das er dis/ das jhm befohlen ist/ mit solchem fleis ausführen wil/ das er keine schande noch nachtheilung haben dürffe/ oder viel lieber darumb sterben.
+  cs: |-
+    2. Za druhé: když knížata a páni válku s pílí a na radu svých poddaných uvážili a přijali, má kníže s radou týchž poddaných ze všech stavů zvolit nejvyššího hejtmana {obersten Hauptman}, který má tu válku vést jménem krále, knížete nebo pána. K tomu věru potřebují dobrou radu, neboť na tom v celé válce nejvíc záleží, jak se to u všech králů a knížat až dosud mnohokrát ukázalo a zakusilo. Nejvyšší hejtman totiž musí být tak způsobilý, aby měl velkou vážnost a byl srdnatý muž s velkou odvahou, a to tak, že to, co mu bylo svěřeno, chce vykonat s takovou pílí, aby neutrpěl žádnou hanbu ani újmu – raději by pro to zemřel.
+- typ: odstavec
+  de: |-
+    Es mus aber nicht eine böse hoffart sein bey jhm/ denn er mus mit den Armen also gerne vmbgehen/ vnd sie fragen vnd hören/ jhren raht holen vnd gebrauchen/ als mit den Reichen vnd grossen
+  cs: |-
+    Nesmí v něm však být zlá pýcha, neboť musí s chudými jednat stejně rád – ptát se jich, naslouchat jim, žádat jejich radu a užívat jí – jako s bohatými a velkými

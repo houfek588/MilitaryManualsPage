@@ -1,0 +1,55 @@
+id: 049r
+list: '[49] r'
+strana: recto
+sken: 101
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Gericht / so wil ich mir alles das jenige abgedinget haben / das dem Profosen zu seinem Rechten gedeyen mag / ob ich etwan zuuiel oder zu wenig in das Recht bringen möchte / das dasselbige keine krafft noch macht habe / von dem ersten / zum andern / vom andern zum dritten / bis auff seinen selbst eigenen Mund vnd Jawort / so lange bis die Warheit an den tag kömpt / Doch solches meinen Ehren ohne schaden / vnd des Profosen nicht vngeschwecht / hiermit begere ich Raht vnd Sprache / einen vmb den andern / gleich wie vnser alt herkommen ist.
+  cs: |-
+    soude, vyhrazuji si všechno, co může profousovi {Profosen} prospět k jeho právu: kdybych snad k soudu přednesl příliš mnoho nebo příliš málo, ať to nemá žádnou platnost ani moc, od prvního k druhému, od druhého ke třetímu[^1], až k jeho vlastním ústům a jeho vlastnímu „ano“, dokud nevyjde pravda najevo. To vše bez újmy na mé cti a bez oslabení [práva] profousova. Tímto žádám o poradu a rozmluvu {Raht vnd Sprache}[^2], jednu po druhé, jak je náš starý obyčej.
+- typ: nadpis
+  uroven: 3
+  de: 'Spricht des Profosen Widerpart:'
+  cs: 'Profousův odpůrce praví:'
+- typ: odstavec
+  de: |-
+    Herr Schultheis / wollet jhr mir erleuben / einen guten Gesellen aus dem Rechten / mir mein Wort zu thun.
+  cs: |-
+    „Pane rychtáři {Schultheis}, dovolte mi [vzít si] dobrého druha {guten Gesellen} ze soudu, aby za mě vedl řeč.“
+- typ: nadpis
+  uroven: 3
+  de: 'Spricht der Schultheis:'
+  cs: 'Rychtář praví:'
+- typ: odstavec
+  de: |-
+    Es sey dir erleubet.
+  cs: |-
+    „Budiž ti dovoleno.“
+- typ: odstavec
+  de: |-
+    Sol des Profosen Widerpart einen guten Gesellen bitten / in der Banck / das er wolle auffstehen / vnd jhme sein Wort zu reden. Sol derselbige sagen:
+  cs: |-
+    Profousův odpůrce {Widerpart} má požádat některého dobrého druha na lavici, aby vstal a vedl za něho řeč. Ten má říci:
+- typ: odstavec
+  de: |-
+    Herr Schultheis / wollet jhr mir erleuben auffzustehen.
+  cs: |-
+    „Pane rychtáři, dovolte mi vstát.“
+- typ: nadpis
+  uroven: 3
+  de: 'Spricht der Schultheis:'
+  cs: 'Rychtář praví:'
+- typ: odstavec
+  de: |-
+    Es sey dir erleubet. So sol der auffstehen / vnd den Schultheissen bitten / das er jhme erleuben wolle / dem armen Sünder sein Wort zu thun. Wenn nun solches erleubet ist / fenget er an / vnd giebt sich in das Recht / aller massen / vnd gestalt / wie des Profosen sein Vorsprecher / vnd darauff Raht vnd
+  cs: |-
+    „Budiž ti dovoleno.“ Ten pak má vstát a požádat rychtáře, aby mu dovolil vést řeč za ubohého hříšníka. Když je mu to dovoleno, začne a vstoupí do řízení zcela týmž způsobem a v téže podobě jako profousův řečník {Vorsprecher} a poté žádá o poradu a
+poznamky:
+- n: 1
+  text: Řečník si vyhrazuje, že jeho případný omyl nezavazuje stranu; může se opravit „od prvního k druhému, od druhého ke třetímu“ (tj. až třikrát), a rozhodující je teprve vlastní výpověď a souhlas („Jawort“) strany samé.
+- n: 2
+  text: „Raht vnd Sprache“ – právo strany a jejího řečníka poradit se a domluvit mimo lavici před každým dalším krokem řízení; „einen vmb den andern“ = jednu poradu po druhé, střídavě za každou stranu.

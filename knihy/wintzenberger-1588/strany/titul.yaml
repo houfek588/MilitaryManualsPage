@@ -1,0 +1,31 @@
+id: titul
+list: titulní list [1] r
+strana: recto
+sken: 5
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    Beschreibung einer Kriegs-Ordnung, zu Roß vnd Fueß/ sampt der Artalerey/ vnd zugehörigen Munition/
+  cs: |-
+    Popis válečného řádu {Kriegs-Ordnung} pro jízdu i pěchotu {zu Roß vnd Fueß} spolu s dělostřelectvem {Artalerey} a příslušnou municí {Munition}
+- typ: odstavec
+  de: |-
+    Von einem Wolgebornen Edlen Herren vnd wolerfahrnen Obristen/ welcher seinen trewen Rath/ etlichen hohen Potentaten/ so jhn darumb ersucht/ schrifftlich mitgeteilet hat/ Dergleichen vor niemals also in Druck ausgangen/ fein kurtz/ vorstendtlich/ deutlich vnd klar.
+  cs: |-
+    od urozeného, vznešeného pána a velmi zkušeného plukovníka {Obristen}, který svou věrnou radu písemně sdělil několika vysokým mocnářům {Potentaten}, když ho o ni požádali. Nic podobného dosud takto tiskem nevyšlo; [vše je podáno] pěkně stručně, srozumitelně, zřetelně a jasně.
+- typ: obrazek
+  soubor: drevorez-5.jpg
+  popis: |-
+    Titulní dřevořez v rámečku: erb s klenotem. Na korunované přilbě s bohatými listovými přikrývadly stojí vousatý muž v zapjatém kabátci a čepici s pérem a v každé ruce drží vzhůru gryfí nohu s pařátem. Štít je čtvrcený: v 1. a 4. poli dva vodorovně položené pařáty, ve 2. a 3. poli kráčející zvíře (patrně tur). Gryfí pařáty jsou erbovní figurou rodu von der Schulenburg; jde patrně o erb Richarda von der Schulenburg, jemuž je kniha věnována.
+- typ: odstavec
+  de: |-
+    Beschrieben durch Daniel Wintzenberger/ Churfürstlichen Sächsischen gewesenen Postbereittern zu Dreßden/ In diesem 1588. Jar.
+  cs: |-
+    Sepsal Daniel Wintzenberger, bývalý kurfiřtský saský poštovní jezdec {Postbereittern}[^1] v Drážďanech, tohoto roku 1588.
+poznamky:
+- n: 1
+  text: |-
+    *Postbereiter* – jízdní posel kurfiřtské pošty, který dopravoval úřední listy a dohlížel na poštovní stanice. Wintzenberger vydal v Drážďanech i cestovní příručky (itineráře poštovních a obchodních cest); tuto knihu nepředkládá jako vlastní dílo, ale jako vydání rady anonymního plukovníka.

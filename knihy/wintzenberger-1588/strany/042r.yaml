@@ -1,0 +1,46 @@
+id: 042r
+list: '[42] r'
+strana: recto
+sken: 87
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: '4.'
+  cs: '4.'
+- typ: odstavec
+  de: |-
+    Zum vierdten / so ist der Gerichtsschreiber schuldig zu schweren / das er vmb sein gebür im Rechten oder ausserhalb des Rechten / schreiben wölle / nicht zu viel noch zu wenig / sondern was durch das Recht zugebracht wird.
+  cs: |-
+    Za čtvrté je soudní písař {Gerichtsschreiber} povinen přísahat, že bude za náležitou odměnu psát u soudu {Rechten} i mimo soud, ani příliš mnoho, ani příliš málo, nýbrž to, co bude soudem předneseno.
+- typ: odstavec
+  de: |-
+    Es sol auch der Gerichtsweibel mit schweren / das er zum Rechte vorbiten wolte / zu rechter zeit / trewlich vnd vngefehrlich / damit keiner vor dem Gerichte zu verseumnis kommen möchte.
+  cs: |-
+    Také soudní šikovatel {Gerichtsweibel} má spolu s ním přísahat, že bude k soudu předvolávat {vorbiten} v pravý čas, věrně a bez úskoku, aby nikdo před soudem neupadl do zmeškání[^1].
+- typ: nadpis
+  uroven: 3
+  de: Nun folget / was die Gerichte nach billigkeit / dem Schultheis zu thun schuldig sein.
+  cs: Nyní následuje, co jsou přísedící soudu {Gerichte} podle slušnosti povinni činit rychtáři {Schultheis}.
+- typ: nadpis
+  uroven: 3
+  de: '1.'
+  cs: '1.'
+- typ: odstavec
+  de: |-
+    ZVm Ersten / sollen die Richter / sampt den Schultheissen / einen Eyd thun / zu GOtt vnd allen Heiligen / alles was sie richten vnd vrtheilen / zuuerschweigen bis in den Todt.
+  cs: |-
+    Za prvé mají přísedící {Richter} spolu s rychtářem složit přísahu {Eyd} Bohu a všem svatým, že všechno, co budou soudit a o čem budou rozhodovat, zamlčí až do smrti.
+- typ: nadpis
+  uroven: 3
+  de: '2.'
+  cs: '2.'
+- typ: odstavec
+  de: |-
+    Zum andern / so sollen die Richter dem Schultheissen schweren / gehorsam zu sein / in allen billichen sachen.
+  cs: |-
+    Za druhé mají přísedící rychtáři přísahat, že mu budou poslušni ve všech náležitých věcech.
+poznamky:
+- n: 1
+  text: „zu verseumnis kommen“ – upadnout do zmeškání (kontumace), tj. propásnout soudní lhůtu, protože nebyl řádně a včas předvolán.

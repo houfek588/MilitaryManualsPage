@@ -1,0 +1,33 @@
+id: 030v
+list: '[30] v'
+strana: verso
+sken: 64
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    auff Zug vnd Wacht / wie es sich begiebet / bey tag vnd nacht / wie es die notdurfft erfordert / es sey auff Wasser oder auff dem Lande / wie es jhrer Key: May: am aller gefelligsten / tüglichsten / vnd gelegnesten sein würde / wo aber einer oder mehr in vngehorsam erschiene / der oder dieselbigen sollen nach erkentnüs des Obristen gestraffet werden / als wie in nachfolgenden geschriebenen Artickeln klerlichen begriffen ist.
+  cs: |-
+    na tažení {Zug} i na stráži {Wacht}, jak se přihodí, ve dne i v noci, jak bude potřeba vyžadovat, ať na vodě, nebo na souši, jak to bude Jeho císařskému Veličenstvu nejmilejší, nejvhodnější a nejpříhodnější. Kdyby se však jeden nebo více z vás ukázali neposlušnými, mají být ten nebo ti potrestáni podle uvážení plukovníka {Obristen}, jak je zřetelně obsaženo v následujících sepsaných artikulích {Artickeln}.
+- typ: odstavec
+  de: |-
+    2. Zum andern / es sol sich ein jedes Fenlein Knecht / semptlich vnd sonderlich / Rotten weise / oder wie es sich begiebet / vnd die notdurfft erfordert vnd erheischt / gebrauchen lassen.
+  cs: |-
+    2. Za druhé: knechti {Knecht} každého praporce {Fenlein} se mají nechat použít všichni společně i jednotlivě, po rotách {Rotten}, nebo jak se přihodí a jak to potřeba vyžaduje a žádá.
+- typ: odstavec
+  de: |-
+    3. Zum dritten / ob es sich begebe / das ein Hauptman mit eines andern Hauptmans Fendrich / Weibel vnd Knecht was zu thun schüff / das die notdurfft erfordern wird / vnd Kriegsleuten zu thun müglich ist / vnd gebühret / das im gehorsam zu befleissigen / gleich als sein Hauptman selbst schüff.
+  cs: |-
+    3. Za třetí: kdyby se stalo, že by některý hejtman {Hauptman} přikázal praporečníkovi {Fendrich}, šikovateli {Weibel} a knechtům jiného hejtmana něco, co bude potřeba vyžadovat a co je válečníkům {Kriegsleuten} možné vykonat a co jim přísluší, mají se snažit ho v tom poslechnout, jako by to přikázal jejich vlastní hejtman.
+- typ: odstavec
+  de: |-
+    4. Zum vierdten / jhr solt 30. tage für einen Monat zu dienen schuldig sein / wie dann der brauch ist / vnd sol einem jeden auff jeden Soldt 4. fl. an Müntz gereichet vnd gegeben werden / vnd alle Monat bezahlen / vnd so das Geldt vorzöge / nichts desto minder die Wache vorsehen / vnd keinen Zug abschlagen / wie den Kriegsleuten zustehet / vnd der gebrauch ist / vnd der Monat heut den 6. May angehet.
+  cs: |-
+    4. Za čtvrté: jste povinni sloužit 30 dní za jeden měsíc, jak je zvykem. Každému se má na každý žold {Soldt} vyplatit 4 zlaté {fl.} v minci, a to každý měsíc. A kdyby se peníze opozdily, máte přesto konat stráž {Wache} a neodmítat žádné tažení, jak se na válečníky sluší a jak je zvykem. A měsíc začíná dnes, 6. května.
+- typ: odstavec
+  de: |-
+    5. Item / ob einer oder mehr Geld empfieng / vnd darneben noch schuldig zu dienen were / vnd ohn
+  cs: |-
+    5. Dále kdyby jeden nebo více z vás přijali peníze a byli za ně ještě povinni sloužit, a přesto bez

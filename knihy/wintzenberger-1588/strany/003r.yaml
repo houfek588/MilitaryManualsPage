@@ -1,0 +1,24 @@
+id: 003r
+list: '[3] r'
+strana: recto
+sken: 9
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    Solches alles ist in diesem Büchlein/ gar fein kurtz begrieffen/ was einem jeden Kriegesman/ nach seinem Stand vnd Ampt notturfftiglich gebüret zu wissen/ vnd auch zuuorrichten/ Auch für die/ so auch zu Kriegeshendeln sich solten vnd müsten/ vnd andere so ver sich selbst in Kriegeshendeln wolten gebrauchen lassen/ sich fein ersehen/ lehrnen vnd bedencken/ Vnd sonderlich in deme wenn man ein Regiment auffrichtet/ das man allen in gemein/ den Artickels Brieff vor lieset/ darauff sie jhren Eyd thun vnd schweren müssen/ das derer viel vnter einem Regiment/ zum theil nicht hören können/ was man jhnen vorgehalten/ etliche auch weil der Artickel viel/ in eile nicht alles fassen vnd behalten können/ vnd dennoch jhre Finger auffrecken vnd schweren/ als Kriegesleute/ sich gehorsamlich zuuerhalten/ denen ist solch Büchlein nütz vnd gut/ weil es fein kurtz/ verstendlich/ deutlich vnd klar/ vnd ein jeder bald durch lesen/ vnd zur not bey sich tragen kan/ sich vnd andere damit zuberichten.
+  cs: |-
+    To všechno je v této knížce pojato pěkně stručně: co každému válečníkovi {Kriegesman} podle jeho stavu a úřadu {Ampt} nezbytně přísluší vědět a také vykonávat. Mohou se z ní pěkně poučit, učit a rozvažovat i ti, kdo by se měli a museli dát použít k válečným záležitostem, i jiní, kdo by se do nich chtěli pustit sami od sebe[^1]. Zvláště pak: když se zřizuje pluk {Regiment}, předčítá se všem společně artikulní list {Artickels Brieff}, na který musejí složit a odpřisáhnout svou přísahu {Eyd}. Mnozí v pluku však zčásti neslyší, co se jim předkládá, a někteří, protože artikulů je mnoho, nedokážou ve spěchu všechno pochopit a zapamatovat si to – a přesto zvedají prsty a přísahají, že se jako válečníci {Kriegesleute} budou chovat poslušně. Těm je tato knížka užitečná a dobrá, protože je pěkně stručná, srozumitelná, zřetelná a jasná; každý ji brzy přečte a v případě potřeby může nosit při sobě, aby z ní poučil sebe i jiné.
+- typ: odstavec
+  de: |-
+    Dann in solchen wichtigen sachen/ trewer vnd guter Rath zum höchsten von nöten/ wie die erfarunge genugsam zeuget/ darumb man solche trewe Rathschiege/ vnd sonderlich von einem solchen Obersten/ der es gut meinet/ ja nicht verachten/
+  cs: |-
+    V tak důležitých věcech je totiž věrná a dobrá rada nanejvýš potřebná, jak dostatečně dosvědčuje zkušenost. Proto by se takovými věrnými radami[^2], a zvláště od plukovníka {Obersten}, který to myslí dobře, rozhodně nemělo pohrdat
+poznamky:
+- n: 1
+  text: |-
+    Tisk má *so ver sich selbst*; *ver* je tisková chyba za *vor* („sami od sebe, ze své vůle“).
+- n: 2
+  text: |-
+    Tisk zřetelně *Rathschiege*, tisková chyba za *Rathschlege* (rady, porady).

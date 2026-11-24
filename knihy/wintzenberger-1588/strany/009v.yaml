@@ -1,0 +1,31 @@
+id: 009v
+list: '[9] v'
+strana: verso
+sken: 22
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    würde/ wie ich hernach verzeichnet habe/ in der behaltunge oder besatzung der Städte/ wenn ein sturm geschlagen würde/ inn Fewers oder ander noth/ das ein jederman wüste/ wo er hin lauffen wolte/ dasman nicht auff einen hauffen/ wie das Viehe thut/ daraus viel vnordnung erwechst/ Bit auch/ jhr wollet mir in meinem schreiben nichts vor vbel haben/ denn wer es versuchen wird/ der wird etwas darinn befinden/ Gott behüt einen jeglichen darfür/ Wann wirs aber nicht vberhaben sein mögen/ so sol man dem Krieg sein volstendig Recht thun/ vnd sich darinn nichts erbarmen/ der Krieg wil grosmütig ausgefürt sein.
+  cs: |-
+    jak jsem ho dále sepsal o udržení neboli obsazení {besatzung} měst: aby každý věděl, kam má běžet, když se bije na poplach {sturm geschlagen}[^1] při požáru nebo v jiné nouzi, a aby se lidé nesbíhali na jednu hromadu jako dobytek, z čehož vzniká mnoho zmatku. Prosím také, abyste mi v mém psaní nic nezazlívali, neboť kdo [válku] zakusí, ten v tom [pravdu] shledá – Bůh každého před ní uchovej! Jestliže se tomu však nemůžeme vyhnout, má se válce dát plně, co jí po právu náleží, a nemít v ní nad ničím slitování: válka chce být vedena velkodušně.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    Ordnung vnd vnterricht/ wie sich die Könige vnd Fürsten im anfang in Krieg richten sollen.
+  cs: |-
+    Řád a poučení, jak se mají králové a knížata na počátku války zařídit
+- typ: odstavec
+  de: |-
+    1. Erstlich sollen Könige/ Fürsten vnd Herren/ wenn jhn von jhren Nachtbarn/ oder andern widerwertigkeit zustehet/ wol bedencken/ betrachten/ vnd in acht nemen/ aus was vrsachen dieselbige widerwertigkeit geschehen möge/ ob es aus einer gerechtigkeit oder vngerechter gewalt gegen jhm vorgenommen werde/ vnd alsdann/ wenn er sich mit fleis desselbigen erlernet/ vnd befindet bey sich/ das er mit vnrechter gewalt beschweret werde/ vnd das Gegentheil keinen fug darzu habe/ so sol derselbige Fürst vnd Herr nicht solche widerwertigkeit/ mit Schrifftgelerten oder Geistlichen berahtschlagen/ denn dieselbigen in Kriegen den wenigsten verlust tragen/ denn sie fallen hin vnd wider/ wie der Wind
+  cs: |-
+    1. Předně mají králové, knížata a páni, když se jim od sousedů nebo od jiných přihodí nějaké protivenství, dobře uvážit, rozmyslit a vzít v úvahu, z jakých příčin to protivenství vzniká, zda se proti nim podniká z nějakého práva, nebo z bezprávného násilí. A když se o tom kníže pilně poučí a shledá, že je stíhán bezprávným násilím a že protivník {Gegentheil} k tomu nemá žádné oprávnění, nemá takové protivenství projednávat se vzdělanci {Schrifftgelerten}[^2] ani s duchovními. Ti totiž ve válkách nesou nejmenší ztráty a kloní se sem a tam, jak vítr
+poznamky:
+- n: 1
+  text: |-
+    *Sturm schlagen* – bít na poplach (zvonem nebo bubnem); zde tedy ne „útok“, ale poplach ve městě.
+- n: 2
+  text: |-
+    Autor učencům a právníkům (doktorům) vytýká, že k válce radí, ale sami nenesou její břemena; na následující straně je naopak doporučuje tázat se jich na právní stránku sporu.

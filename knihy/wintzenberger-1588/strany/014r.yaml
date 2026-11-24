@@ -1,0 +1,38 @@
+id: 014r
+list: '[14] r'
+strana: recto
+sken: 31
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Ordnung eines Zugs / wie hernach folget.
+  cs: Řád tažení {Zugs}, jak následuje
+- typ: odstavec
+  de: |-
+    WOlt jhr ein anschlag machen / vber einen Herren / der fast mechtig ist / so müst jhr dester ein mechtiger Heerzug gegen jhm führen.
+  cs: |-
+    Chcete-li podniknout útok {anschlag} proti pánovi, který je velmi mocný, musíte proti němu vést tím mocnější tažení {Heerzug}.
+- typ: odstavec
+  de: |-
+    Ist er aber nicht mechtig / so bedürfft jhr des Heerzugs nicht so gros / darumb setze ich hernach einen zimlichen zug / auff einen gemeinen Feldtzug / zu dem ersten zu Ros vnd Fus / wie jhr hernach hören werd / denn das ist mir offt widerfahren.
+  cs: |-
+    Není-li však mocný, nepotřebujete tak velké tažení. Proto níže stanovím přiměřené vojsko pro obyčejné polní tažení {Feldtzug}, a to nejprve jízdu i pěchotu {zu Ros vnd Fus}, jak dále uslyšíte; to jsem totiž často zažil.
+- typ: odstavec
+  de: |-
+    Jhr müst zu dem ersten haben / zehen tausent Fusknecht / vnd funfftzenhundert Pferde / vnd zimlich Feltgeschos / wie jhr hernach hören werdet / das zu einer ordnung zu machen / darnach denn die Landt gelegen seind vor Wasser / oder Bergen / darnach mus sich ein jeder schicken zu dem besten.
+  cs: |-
+    Nejprve musíte mít deset tisíc pěších knechtů {Fusknecht}, patnáct set koní {Pferde} a přiměřeně polních děl {Feltgeschos}, jak dále uslyšíte, a uspořádat je do řádu {ordnung} podle toho, jak leží krajina vzhledem k vodám nebo horám; podle toho se musí každý co nejlépe zařídit.
+- typ: odstavec
+  de: |-
+    Jhr müst auch haben ein Rennfenlein / vnd auff das Rennfenlein 400. Pferde zu einem vorzug / vnd auff die Pferde ein zimlich Feldtgeschütz / vnd auff das Geschütz 2000. Knecht zu einem vorzug. Vnd auff die Knecht / das ist der vorzug / das gewaltige Geschütz / vnd auff das Geschütz den gewaltigen hauffen zu Fus / vnd auff den Fuszeug die gemeine Munition / darauff die Profiandwagen / vnd auff die Wagen den Tros / den faulen hauffen / den gewaltigen reisigen zeug / den nachzug 2000. Knechte / vnd auff die Knechte das geschütz / auff das Geschütz den reisigen Zeug / in aller mas / wie der Vorzug / oder
+  cs: |-
+    Musíte mít také předvojovou korouhev {Rennfenlein} a za ní 400 koní jako předvoj {vorzug}, za koňmi přiměřeně polních děl {Feldtgeschütz} a za děly 2000 knechtů jako předvoj. Za knechty, tedy za předvojem, [jdou] těžká děla {gewaltige Geschütz}, za děly hlavní houf pěchoty {gewaltigen hauffen zu Fus}, za pěchotou {Fuszeug} společná munice {gemeine Munition},[^1] potom proviantní vozy {Profiandwagen}, za vozy trén {Tros}, líný houf {faulen hauffen}, hlavní voj jízdy {gewaltigen reisigen zeug}, zadní voj {nachzug} o 2000 knechtech, za knechty děla, za děly jízda {reisigen Zeug}, ve všem tak jako předvoj, anebo[^2]
+poznamky:
+- n: 1
+  text: |-
+    „Auff“ zde vyjadřuje pořadí v pochodu: „za tím (následuje)“. „Gemeine Munition“ – společné zásoby střeliva a výzbroje celého vojska, na rozdíl od munice vezené přímo s děly.
+- n: 2
+  text: |-
+    Věta tu končí neúplná (kustos „wie“). Místo stran [14] v a [15] r (skeny 32–33) jsou v digitalizaci BSB omylem znovu nasnímány strany [[030v|30 v]] a [[031r|31 r]] ze druhého dílu (shodné okrajové značky i signatura H iij). Dvě strany s pokračováním řádu tažení (patrně dokončení pochodového pořadí a začátek soupisu výzbroje a munice) tedy v digitalizaci chybějí; text navazuje až na [[015v|listu 15 v]] uprostřed soupisu.

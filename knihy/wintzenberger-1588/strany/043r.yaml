@@ -1,0 +1,57 @@
+id: 043r
+list: '[43] r'
+strana: recto
+sken: 89
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: '8'
+  cs: '8.'
+- typ: odstavec
+  de: |-
+    Zum achten / welcher den Richter vnbillicher weise / vber oder die Gerichts Schrancken mit einem Fus vbertritt oder berürt / der ist dem Schultheis 1. fl. verfallen.
+  cs: |-
+    Za osmé: kdo by soudní ohradu {Gerichts Schrancken} přísedících {Richter} nepatřičně překročil nebo se jí dotkl[^1], byť jen jednou nohou, propadá rychtáři {Schultheis} 1 zlatý.
+- typ: nadpis
+  uroven: 3
+  de: '9.'
+  cs: '9.'
+- typ: odstavec
+  de: |-
+    Zum neundten / welche Part / es sey Verantworter oder Bekleger / oder Kundschaffer / welchem geboten ist worden / nach ordnung des Rechten / vnd dieselben nicht kommen / zu rechter zeit vnd weile / die seind schuldig vor das erste Geboth 1. fl.
+  cs: |-
+    Za deváté: která strana {Part}, ať obžalovaný {Verantworter}, nebo žalobce {Bekleger}, nebo svědek {Kundschaffer}, byla podle soudního řádu předvolána a nedostaví se v pravý čas a hodinu, ta je povinna [zaplatit] za první předvolání {Geboth} 1 zlatý.
+- typ: nadpis
+  uroven: 3
+  de: '10.'
+  cs: '10.'
+- typ: odstavec
+  de: |-
+    Zum zehenden / von einer jeglichen Kundschafft / ist man dem Gerichtswebel zu gebteten 2. Patzen / vnd dem Gerichtschreiber auch 2. Patzen.
+  cs: |-
+    Za desáté: za každé svědectví {Kundschafft} je třeba dát[^2] soudnímu šikovateli {Gerichtswebel} 2 baceny {Patzen} a soudnímu písaři {Gerichtschreiber} také 2 baceny.
+- typ: nadpis
+  uroven: 3
+  de: '11.'
+  cs: '11.'
+- typ: odstavec
+  de: |-
+    Zum eilfften / sol kein Richter oder Vorsprecher / den Antwortenden in die Rede fallen / mit klag oder antwort / bey Peen 1. fl.
+  cs: |-
+    Za jedenácté nemá žádný přísedící ani řečník {Vorsprecher} skákat do řeči tomu, kdo odpovídá, ať žalobou, nebo odpovědí, pod pokutou {Peen} 1 zlatého.
+- typ: nadpis
+  uroven: 3
+  de: '12.'
+  cs: '12.'
+- typ: odstavec
+  de: |-
+    Zum zwelfften / vor eine jedere vmbfrage im Rechten / ist man dem Schultheissen 2. Patzen schuldig.
+  cs: |-
+    Za dvanácté: za každé hlasování {vmbfrage} u soudu je třeba dát rychtáři 2 baceny.
+poznamky:
+- n: 1
+  text: Věta je v tisku porušená („welcher den Richter vnbillicher weise / vber oder die Gerichts Schrancken …“), nejspíš za „den Richtern … vber die Gerichts Schrancken“. Soudní ohrada (Schranken) s lavicemi vymezovala soudní místo, za nímž seděli přísedící.
+- n: 2
+  text: V tisku „zu gebteten“ (ověřeno ve skenu) – tisková chyba, nejspíš za „zu geben“ (dát).

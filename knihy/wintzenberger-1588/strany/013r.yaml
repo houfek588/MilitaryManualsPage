@@ -1,0 +1,33 @@
+id: 013r
+list: '[13] r'
+strana: recto
+sken: 29
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    König oder Fürsten / der sie annemen lest / vnd die Artickel / die der erste hauff / den man angenommen vnd geschworen hat zuhalten / vnd also jmmer ein kleinen hauffen auff den andern in Eyd gebracht werde / dann wann sie alle zusammen kommen / vnuoreydet in einen hauffen / so bringet jhr sie nicht darzu / diese Artickelsbrieff zu schweren / denn sie stellen euch ein Regiment / wie sie gehalten sein wollen / nach allen jhren gefallen / das müst jhr also thun / vnd seid darnach ewres Leibes nimmer sicher bey jhnen / Darumb mus man der sachen im anfang vorkommen / wo man anders ein Krieg rechtschaffen ordnen vnd vorfüren wil / Diese ordnug wird alleine angezeiget / den Königen vnd Fürsten / die da mit guten raht vnd bedacht einen Krieg führen wollen.
+  cs: |-
+    králi nebo knížeti, který je dává přijímat, a [že budou zachovávat] artikuly {Artickel}, které odpřisáhl první přijatý houf {hauff}. Tak se má vždy jeden malý houf po druhém vzít do přísahy {Eyd}. Když se totiž všichni sejdou v jeden houf, aniž by přísahali, nepřivedete je k tomu, aby na tento artikulní list {Artickelsbrieff} přísahali; sami vám nadiktují zřízení {Regiment}, jak s nimi chtějí, aby se zacházelo, zcela podle své libosti. To pak musíte přijmout, a potom si u nich už nikdy nejste jisti životem. Proto je třeba tomu hned zpočátku předejít, chce-li člověk ovšem válku řádně uspořádat a vést. Tento řád {ordnug}[^1] se ukazuje jen králům a knížatům, kteří chtějí vést válku s dobrou radou a rozvahou.
+- typ: odstavec
+  de: |-
+    Aber die / die vbereilet werden / die können zu dieser Ordnung nicht kommen / sie müssen des Kriegesuolcks / das sie annemen / willen vnd gefallen thun / das hat den bestand / wie man bisher manchfaltig gesehen hat / das kein Herr in solcher vnordnung Krieg zu führen vermag / wenn jhr aber im anfang zu dieser oben angezeigten ordnung kommen möget / so ist guter trost vnd gehorsam des Krieges / das man im friede vnd gehorsam grosse ding thun möge / Dieweil man denn das Kriegsuolck nicht allezeit mit gewalt zwingen kan / ohne merckliche fahr / auffruhr vnd anders / so mus man das Recht vornemen / das sie zuhalten geschworen haben.
+  cs: |-
+    Ti však, které [válka] zaskočí,[^2] k tomuto řádu dojít nemohou a musejí se řídit vůlí a libostí válečného lidu {Kriegesuolcks}, který přijímají. S tím je to tak, jak se dosud mnohokrát ukázalo: v takovém nepořádku nedokáže válku vést žádný pán. Dokážete-li však hned zpočátku zavést tento výše ukázaný řád, je ve válce dobrá naděje a poslušnost, takže lze v pokoji a poslušnosti vykonat velké věci. A protože válečný lid nelze vždy donutit násilím bez značného nebezpečí, vzpoury {auffruhr} a jiného, je třeba sáhnout k právu {Recht}, které odpřisáhli zachovávat.
+- typ: odstavec
+  de: |-
+    Darumb so gehöret auch noch eines darzu / Jhr müst sechs oder acht Solde nicht ansehen / vnd müst auslesen sechs oder acht vorstendige Personen /
+  cs: |-
+    Proto k tomu patří ještě jedna věc: nesmíte hledět na šest nebo osm žoldů {Solde}[^3] a musíte vybrat šest nebo osm rozumných osob,
+poznamky:
+- n: 1
+  text: |-
+    V tisku chybně „ordnug“ místo „ordnung“.
+- n: 2
+  text: |-
+    „Die vbereilet werden“ – kdo jsou válkou zaskočeni a musejí najímat lid ve spěchu, bez možnosti brát jej k přísaze postupně po malých houfech.
+- n: 3
+  text: |-
+    Tj. nešetřete na několika žoldech navíc: šest až osm zkušených mužů, které vybere a platí sám pán, má zasedat v soudu (viz [[013v|následující stranu]]).

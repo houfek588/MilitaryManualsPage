@@ -1,0 +1,26 @@
+id: 037v
+list: '[37] v'
+strana: verso
+sken: 78
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Profiant nicht zubekommen / alsdann sol der Profiantmeister sampt seinen Dienern dahin bedacht sein / vnd alle zeit ein tag 2. oder 3. sehen / in allen Stedten vnd flecken / sich beneben Wein kauffen / Brodt vnd allerley Profiant / so viel er vnd die seinen Diener auffbringen mögen / dem Lager zuführen zu lassen / damit das Regiment gnugsam versehen sey.
+  cs: |-
+    proviant {Profiant} k dostání, má proviantmistr {Profiantmeister} se svými služebníky pamatovat na to, aby vždy hleděl 2 nebo 3 dny dopředu a ve všech městech a městečkách {flecken} nadto nakupoval víno, chléb a všelijaký proviant, kolik ho on a jeho služebníci dokážou sehnat, a dával ho dovážet do ležení {Lager}, aby byl pluk {Regiment} dostatečně zaopatřen.
+- typ: odstavec
+  de: |-
+    5. Zum fünfften sol der Quartirmeister wissen vnd gedencken / das / wenn er mit der Obrigkeit vorhin reit / anfenglichen das Quartier besichtigen / vnd verzeichnen / darnach nahe darbey sol er gute Heuser vorbehalten / vnd daran zeichnen / nach der Obrigkeit / dem Schultheissen vnd seine Gerichtsleut / den Profosen / seine Trabanten vnd ander gesinde / darnach den Dolmetzscher vnd Nachtrichter / den Hauptleuten / Fendrichen / Feldweibeln vnd Befehlichsleuten / vnd was für Heuser in allen Quartieren vberbleiben / sol durch die Furirer ausgetheilet werden / Profiantmeister / Brandtmeister / vnd Schantzmeister / wissen selbst wohin sie bescheiden sein / vnd wo man das Lager zu Felde schlagen würde / sol der Quartiermeister einen jeden nach seinem Stande wissen zu Quartiren / alsdann hat er seinen Ehren genug gethan.
+  cs: |-
+    5. Za páté má kvartýrmistr {Quartirmeister} vědět a pamatovat, že když jede s vrchností {Obrigkeit}[^1] napřed, má nejprve prohlédnout a zapsat kvartýr {Quartier}. Potom má blízko toho vyhradit dobré domy a označit je – po vrchnosti pro rychtáře {Schultheissen} a jeho přísedící {Gerichtsleut}, pro profouse {Profosen}, jeho drabanty {Trabanten} a ostatní čeleď, dále pro tlumočníka {Dolmetzscher} a kata {Nachtrichter}, pro hejtmany {Hauptleuten}, praporečníky {Fendrichen}, šikovatele {Feldweibeln} a velitele {Befehlichsleuten}. Domy, které ve všech kvartýrech zbudou, mají rozdělit furýři {Furirer}. Proviantmistr, výpalný mistr {Brandtmeister} a šancmistr {Schantzmeister} sami vědí, kam jsou vykázáni. A bude-li se ležení rozbíjet v poli, má kvartýrmistr umět každého ubytovat podle jeho postavení; pak učinil své cti zadost.
+- typ: odstavec
+  de: |-
+    6. Zum sechsten sol einem jeden Hauptman auch sein sonderlich Losament / durch den Quartirmeister oder seinen Furirer gegeben werden / es sey in Stedten / Flecken / Schlössern / oder im Felde / wie es sich zutregt / für sich / seine Trabanten / vnd alle sein Gesinde / vnd ob die Wach an jhn kehme / mit
+  cs: |-
+    6. Za šesté má kvartýrmistr nebo jeho furýr přidělit každému hejtmanovi {Hauptman} také jeho zvláštní ubytování {Losament}, ať ve městech, městečkách, na zámcích nebo v poli, jak se to právě naskytne, pro něho, jeho drabanty a všechnu jeho čeleď {Gesinde}. A připadne-li na něj stráž {Wach}, aby
+poznamky:
+- n: 1
+  text: „Obrigkeit“ – zde velitelstvo, tj. plukovník a jeho štáb, nikoli zemská vrchnost.

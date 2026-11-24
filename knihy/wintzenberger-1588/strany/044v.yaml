@@ -1,0 +1,41 @@
+id: 044v
+list: '[44] v'
+strana: verso
+sken: 92
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    zur Banck kommen / er sey dann darzu vorordenet.
+  cs: |-
+    přistupovat k soudní lavici {Banck}, leda by k tomu byl určen.
+- typ: odstavec
+  de: |-
+    Wann der Schultheis dis alles / wie vorgemelt / volkömlich vorordnet hat / so sol er einem jeglichen gebieten vnd befehlen / das niemands aus dem Rechten reden oder sagen sol / es sey bey Bier oder Wein / bey Tag oder Nacht / heimlichen oder öffentlichen / bey auffgesetzter Peen / des lincken Auges / oder der rechten Hand / oder bey verlust 12. Carlsgülden.
+  cs: |-
+    Když rychtář {Schultheis} toto všechno, jak bylo řečeno, úplně zařídil, má každému přikázat a nařídit, aby nikdo nic nevynášel ani nevyprávěl z toho, co se děje u soudu {Rechten}, ať při pivě, nebo při víně, ve dne, nebo v noci, potají, nebo veřejně, pod stanovenou pokutou {Peen} levého oka nebo pravé ruky nebo pod ztrátou 12 karlovských zlatých {Carlsgülden}[^1].
+- typ: nadpis
+  uroven: 3
+  de: Darnach spricht der Schultheis zu den Richtern.
+  cs: Potom praví rychtář přísedícím {Richtern}.
+- typ: odstavec
+  de: |-
+    IHr sollet macht haben / zu richten vber alles dasjenige / das für meinen Stab vorkömmet / nicht vmb Liebe oder Freundschafft oder vmb Gunst / nicht aus Neid oder Has / nicht vmb Silber oder Goldt / oder Goldes wert / sondern nur die Göttliche Warheit ansehen / als jhr wollet / das Gott bey ewer armen Seelen thun sol / am Jüngsten Gerichte / Wollet jhr deme also thun / so hebet 2. Finger auff / vnd sprechet mir.
+  cs: |-
+    Máte mít moc soudit o všem, co přijde před mou soudní hůl {Stab}, ne pro lásku, přátelství nebo přízeň, ne ze závisti nebo nenávisti, ne pro stříbro, zlato ani nic, co má cenu zlata, nýbrž hledět jen na Boží pravdu, tak jako chcete, aby Bůh učinil s vaší ubohou duší při Posledním soudu. Chcete-li tak činit, zvedněte dva prsty a opakujte po mně[^2].
+- typ: nadpis
+  uroven: 3
+  de: Der Eyd.
+  cs: Přísaha.
+- typ: odstavec
+  de: |-
+    Als wir mit Worten bescheiden sind / deme wollen wir also stet vnd feste / trewlichen vnd vngefehrlichen nachkommen / ohne einige arge list / als vns GOtt helffe / vnd seine Heiligen.
+  cs: |-
+    Jak nám bylo slovy uloženo, tomu chceme stále a pevně, věrně a bez úskoku dostát, bez jakékoli zlé lsti, tak nám pomáhej Bůh a jeho svatí.
+poznamky:
+- n: 1
+  text: Karlovský zlatý byl ražen od roku 1521 (zprvu ve zlatě, od roku 1543 i ve stříbře) v hodnotě 20 stüverů.
+- n: 2
+  text: „sprechet mir“ – zkráceně za „sprechet mir nach“, tj. opakujte po mně slova přísahy, která následuje.

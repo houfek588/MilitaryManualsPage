@@ -1,0 +1,38 @@
+id: 056r
+list: '[56] r'
+strana: recto
+sken: 115
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: verse
+  pokracovani: true
+  de:
+  - Da alle Land in sorgen stehn /
+  - Als wollens jetzt zu scheitern gehn.
+  - Drumb denck / verwig dichs denn fortan /
+  - Keins wegs es besser werden kan.
+  - Jammer vnd noth ist vberal /
+  - Drůmb heist die Welt ein Jammerthal.
+  - Halt du dich steiff du frommer Christ /
+  - Auff den der dein Erlöser ist.
+  - Der wird ohn zweiffel bald vnd bhend /
+  - Des jammers machn ein solches end.
+  - Der theil vns mit sein gůt vnd gnad /
+  - Sonst hilfft kein sterck / kein hülff noch raht.
+  cs:
+  - kdy všechny země trnou v obavách,
+  - jako by teď měly ztroskotat.
+  - Proto pomni a smiř se s tím[^1] napříště,
+  - že lepší to být nijak nemůže.
+  - Bída a nouze je všude kolem,
+  - proto svět slove slzavé údolí.
+  - Drž se pevně, ty zbožný křesťane,
+  - toho, jenž je tvým Vykupitelem.
+  - On bez pochyby brzy a rychle
+  - učiní konec všemu tomu strádání.
+  - Kéž nám udělí svou dobrotu a milost,
+  - jinak nepomůže síla, pomoc ani rada.
+poznamky:
+- n: 1
+  text: „verwig dichs“ – od „sich einer Sache verwegen“, smířit se s něčím, vzdát se naděje.

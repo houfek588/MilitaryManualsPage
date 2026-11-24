@@ -1,0 +1,28 @@
+id: 019r
+list: '[19] r'
+strana: recto
+sken: 41
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    die Schlacht gewinnen oder verlieren / ehe mehr Leut zu der arbeit kommen können / je leichter es zugehet / vnd ist nicht die meinung das man sagt / die Ordnung sollen dicke sein / darumb das sie frisch hernach künnen dringen / denn die fördersten / die die Erbeit thun sollen vnd müssen / die wollen nicht vberdrenget werden / man mus jhn den freyen stich lassen / sonst drünge man sie hienein / wie man ein Volck in einen Graben stiesse / vnd machte sie Alle wehrlos / darumb last euch von der breiten Ordnung niemand reden.
+  cs: |-
+    bitvu vyhrát nebo prohrát dřív, než se k té práci {arbeit} může dostat víc lidí; [čím víc jich tedy stojí vpředu,] tím snáze to jde.[^1] A neplatí mínění, které se traduje, že šiky {Ordnung} mají být hluboké {dicke}, aby mohly zezadu svěže tlačit. Ti přední, kteří tu práci konat mají a musejí, totiž nechtějí být tlačeni; musí se jim nechat volný prostor k bodu {freyen stich}, jinak by je člověk vtlačil dovnitř, jako by lid strčil do příkopu, a udělal by je všechny bezbrannými. Proto si široký šik od nikoho nedejte vymluvit.
+- typ: obrazek
+  soubor: drevorez-41.jpg
+  popis: Dřevořez v rámu s ozdobnými postranními sloupky – poprsí císaře Maxmiliána I. z profilu, s plochým baretem, dlouhými vlasy, kožešinovým límcem a řetězem na prsou.
+- typ: odstavec
+  de: |-
+    ES hat mir Keyser Maximilianus Primus / Hochlöblichster seliger gedechtnis / auch
+  cs: |-
+    Také mi císař Maxmilián I.,[^2] nejchvalitebnější blahé paměti,
+poznamky:
+- n: 1
+  text: |-
+    Místo je v tisku stručné („ehe mehr Leut zu der arbeit kommen können / je leichter es zugehet“). Smysl: bitvu rozhodnou přední řady dřív, než se zadní vůbec dostanou do boje; čím víc mužů stojí vpředu (široký šik), tím snáze se vítězí. „Arbeit“ (Erbeit) je dobový výraz pro boj.
+- n: 2
+  text: |-
+    Císař Maxmilián I. (1459–1519); autor se odvolává na jeho poučení. Dřevořez nad textem znázorňuje patrně právě jeho.

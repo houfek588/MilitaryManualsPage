@@ -1,0 +1,43 @@
+id: 051r
+list: '[51] r'
+strana: recto
+sken: 105
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    hetten / sol der Profos nach jhme forschen vnd greiffen / vnd jhn denn setzen vnd wol bewahren / vnd anzeigen / was er wider den Artickel gehandelt habe / vnd S. G. bitten / das er die Gemeine lasse zusammen kommen / auff morgen sol er der Gemeine anzeigen / warumb er gemein halte.
+  cs: |-
+    má po něm profous {Profos} pátrat a zmocnit se ho, uvěznit ho a dobře střežit. Má oznámit, čeho se dopustil proti artikulu {Artickel}, a požádat Jeho Milost {S. G.}[^1], aby dal svolat obec {Gemeine}. Nazítří má obci oznámit, proč ji svolává.
+- typ: nadpis
+  uroven: 3
+  de: '4.'
+  cs: '4.'
+- typ: odstavec
+  de: |-
+    Zum vierdten / sol der Profos keinen Gefangenen vorkürtzen / vnd jhme einen Tag zuuor ehe er gemein halten wird / anzeigen lassen / ob er kundschafft het oder wüste / das er genesen möchte / damit er auch nicht vorkürtzet wůrde.
+  cs: |-
+    Za čtvrté: profous nemá žádného vězně zkracovat na jeho právu. Den předtím, než svolá obec, mu má dát oznámit, [aby uvedl,] má-li nebo ví-li o svědectví {kundschafft}, jímž by se mohl vyprostit, aby ani on nebyl zkrácen.
+- typ: nadpis
+  uroven: 3
+  de: '5.'
+  cs: '5.'
+- typ: odstavec
+  de: |-
+    Zum fünfften / so die Gemeine bey einander ist / sol der Profos den Gefangenen in Ring führen / vnd begeren / das der Ring wol verschlossen werde / vnd also zu jhnen sagen / Einen guten morgen / lieben Kriegsleute / Edel vnd Vnedel / GrosHans vnd KleinHans / wie vns Gott zusammen gefüget hat / Jhr traget alle gut wissen / wie wir vns anfenglich zusammen geschworen haben / das wir wolten gut Regiment halten / den Armen als den Reichen / den Reichen als den Armen / allen vngehorsam straffen / die wider vnser Regiment thun vnd brůchig werden.
+  cs: |-
+    Za páté: když je obec shromážděna, má profous přivést vězně do kruhu {Ring}, požádat, aby byl kruh dobře uzavřen, a promluvit k nim takto: „Dobré jitro, milí válečníci {Kriegsleute}, urození i neurození, velcí i malí {GrosHans vnd KleinHans}, jak nás Bůh dohromady svedl. Všichni dobře víte, jak jsme si na počátku navzájem přísahali, že chceme držet dobré zřízení {Regiment} – chudému jako bohatému, bohatému jako chudému – a trestat všechnu neposlušnost těch, kdo jednají proti našemu zřízení a porušují je.
+- typ: nadpis
+  uroven: 3
+  de: '6.'
+  cs: '6.'
+- typ: odstavec
+  de: |-
+    Zum sechsten / Darauff lieben Landsknechte / beger ich mir zu hilff / auff diesen heutigen tag das vbel zu straffen / das wirs auch vorantworten
+  cs: |-
+    Za šesté: „Proto, milí lancknechti {Landsknechte}, žádám vás o pomoc, abychom dnešního dne potrestali zlo tak, abychom to mohli obhájit
+poznamky:
+- n: 1
+  text: „S. G.“ = Seine Gnaden, Jeho Milost – míněn nejvyšší polní hejtman, který podle bodu 1 obec svolává.

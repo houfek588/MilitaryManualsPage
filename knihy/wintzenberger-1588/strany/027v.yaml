@@ -1,0 +1,26 @@
+id: 027v
+list: '[27] v'
+strana: verso
+sken: 58
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    wir dann an vnser stat befohlen haben / vns getrew vnd gehorsam sein / in allen vnsern Kriegen / vnd andern sachen vnd handlung / zu Wasser vnd Lande / gegen aller menniglichen / niemand ausgenommen / redlich vnd getrewlich / wie ehrliche frome Kriegesleuten jhrem Herren zu thun schuldig sein / vnd jhnen wol anstehet vnd gebüret / vnd sich gutwillig gebrauchen lassen / vnd wenn wir jhrer lenger notdürfftig sein / oder jhnen vor der bestimpten zeit vrlaub geben würden / so wollen wir jhnen ein Monat Soldt für den abzug geben / vnd bezalen lassen / das / alles hie vorgemelt / vnd berüret / sagen wir zu vnd vorsprechen / bey vnsern Keyserlichen Würden vnd Trewen / stet / fest vnd vnuorbrüchlich zu halten / vnd dem also nachzukommen / vnd geben trewlich vnd ohn arge list / zu Vrkund mit vnserm Keyserlichen Secret bestetiget / vnd eigener Hand vnterschrieben. Datum vt supra, Mense Maio.
+  cs: |-
+    komu jsme to místo sebe přikázali, a mají nám být věrni a poslušni ve všech našich válkách i jiných věcech a jednáních, na vodě i na souši, proti komukoli, nikoho nevyjímaje, poctivě a věrně, jak jsou čestní a řádní válečníci {Kriegesleuten} povinni svému pánu a jak se jim dobře sluší a patří, a mají se ochotně nechat použít. A kdybychom jich [už] déle nepotřebovali[^1] nebo jim před určenou dobou dali propuštění {vrlaub}, chceme jim dát a nechat vyplatit jeden měsíční žold {Monat Soldt} jako odchodné {abzug}. To vše, co je zde výše uvedeno a zmíněno, slibujeme a zavazujeme se při své císařské důstojnosti a věrnosti stále, pevně a neporušitelně dodržovat a tak plnit, a vydáváme [tento list] věrně a bez lsti, na svědectví stvrzený naší císařskou sekretní pečetí {Secret} a podepsaný vlastní rukou. Dáno jako výše, v měsíci květnu.
+- typ: nadpis
+  uroven: 3
+  de: Stadt eines Obristen.
+  cs: Stav {Stadt} plukovníka
+- typ: odstavec
+  de: |-
+    STadt vnd vorzeichnüs / so wir dem Wolgebornen vnd Edlen / vnd des Reichs Getrewen / vnsern Obristen / vber ein Regiment / so wir jetzt in Italien schicken / Deudsch Kriegsuolck / zu seiner Besoldung vnd vnterhaltung / eines jeden Monats / von der ersten Musterung / nach demselbigen Regiment auffgerichtet / anzufahen vnd entrichten / vnd bezahlen lassen / sol erstlich auff seinen Leib vnd Taffel 400. fl. Item / wir wollen jhm halten 8. Trabanten / auff einen 8. fl. thut 64. fl. Item / 8. Reisige
+  cs: |-
+    Stav a soupis toho, co urozenému a vznešenému, říši věrnému našemu plukovníkovi {Obristen} nad plukem {Regiment} německého válečného lidu, který nyní posíláme do Itálie, necháme k jeho žoldu a vydržování odvádět a vyplácet každý měsíc, počínaje první přehlídkou {Musterung} po zřízení téhož pluku: Předně má [dostávat] na svou osobu a stůl 400 zlatých {fl.}. Dále mu chceme vydržovat 8 drabantů {Trabanten}, na každého 8 zlatých, činí 64 zlatých. Dále 8 jízdních
+poznamky:
+- n: 1
+  text: |-
+    „wenn wir jhrer lenger notdürfftig sein“ – v tisku chybí zápor („nicht lenger“); smysl (odchodné při předčasném propuštění) jej vyžaduje, proto doplněno v překladu.

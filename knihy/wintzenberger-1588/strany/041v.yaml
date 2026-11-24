@@ -1,0 +1,34 @@
+id: 041v
+list: '[41] v'
+strana: verso
+sken: 86
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Oberste Feldtherr / nach einem vorstendigen Kriegsman trachten / der da geschickt / vnd in den Rechten erfaren sey / denselbigen macht er zum Schultheis / thut jhme den Stab vberliefferen / bey Eydes pflichten vermahnen / vnd jhme einbinden / das er denselben wolle führen / dem Armen als dem Reichen / dem Reichen als dem Armen / niemand zu leide noch zu liebe / sondern nach dem Göttlichen Rechte ein Vrtheil sprechen.
+  cs: |-
+    válečný pán {Oberste Feldtherr} vyhledat rozumného válečníka {Kriegsman}, který je schopný a zkušený v právu. Toho ustanoví rychtářem {Schultheis}, odevzdá mu soudní hůl {Stab}, napomene ho při povinnosti přísahy {Eydes} a uloží mu, aby ji vedl chudému jako bohatému a bohatému jako chudému, nikomu ke škodě ani z přízně, nýbrž aby vynášel rozsudek {Vrtheil} podle práva Božího.
+- typ: nadpis
+  uroven: 3
+  de: '2.'
+  cs: '2.'
+- typ: odstavec
+  de: |-
+    Zum andern / sol jhme der Schultheis 12. geschickte Menner erwehlen / vnd darnach trachten / welche ehr vormahls bey Kriegeshendeln gewesen sein / dieselbigen 12. sollen darauff bestellet werden / vnd Wach frey sein / der Schultheis hat jhnen zu heissen vnd zu gebieten / alles was da billich ist.
+  cs: |-
+    Za druhé si má rychtář vybrat 12 schopných mužů a hledět na to, aby to byli ti, kdo již dříve byli při válečných akcích. Těchto 12 má být k tomu ustanoveno a osvobozeno od stráže {Wach}. Rychtář jim smí poroučet a přikazovat všechno, co je náležité.
+- typ: nadpis
+  uroven: 3
+  de: '3.'
+  cs: '3.'
+- typ: odstavec
+  de: |-
+    Zum dritten / so sol der Schultheis / sampt den 12. vnd dem Obersten / einen Eyd schweren / zu Gott vnd seinen Heiligen / das sie wollen vrtheilen / vnd Recht sprechen / dem Armen als dem Reichen / dem Reichen als dem Armen / hierinnen nicht gedencken noch ansehen / Freundschafft oder Gesipschafft / Feindschafft / Gevatterschafft / Gunst / Neidt oder Haß / sonder sie sollen getrewlich vnd vngefehrlich / jhm in allen sachen / so weit jhr vorstand reichet vnd ausweiset / Als sie wollen / das Gott der Allmechtige am Jungsten Gericht / vber jhre arme Seele sol richten.
+  cs: |-
+    Za třetí má rychtář spolu s těmi 12 a s plukovníkem {Obersten} přísahat Bohu a jeho svatým, že budou soudit a nalézat právo chudému jako bohatému a bohatému jako chudému a že přitom nebudou pamatovat ani hledět na přátelství nebo příbuzenství, nepřátelství, kmotrovství, přízeň, závist nebo nenávist, nýbrž že budou ve všech věcech jednat věrně a bez úskoku[^1], nakolik jejich rozum stačí a ukazuje, tak jako chtějí, aby Bůh Všemohoucí při Posledním soudu soudil jejich ubohou duši.
+poznamky:
+- n: 1
+  text: „vngefehrlich“ – právní formule „bez lsti a úskoku“ (ohne Gefährde). Následující „jhm in allen sachen“ je v tisku nejspíš porušené (za „thun in allen sachen“); překlad podle smyslu.

@@ -1,0 +1,34 @@
+id: 046r
+list: '[46] r'
+strana: recto
+sken: 95
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Antwort.
+  cs: Odpověď.
+- typ: odstavec
+  de: |-
+    Herr Schultheis / jhr habt mich gefraget auff meinen Eyd / das ich euch sol entdecken / ob einer oder mehr im Rechten sessen / der darzu nicht Adelich oder Ehrlich genug were / so sage ich bey meinem Eyde / mich düncket / das das Recht besetzt sey / mit ehrlichen Personen / Kriegsleuten / Edel vnd Vnedel / das jhr sitzen möget / heut diesen tag / mit sampt den Richtern Vrtheilen / vnd Recht sprechen / vber alles / das vor ewern Stab kommet / es sey vmb Silber / Gold / Ehre / Leib vnd Gut.
+  cs: |-
+    Pane rychtáři {Schultheis}, ptali jste se mě při mé přísaze {Eyd}, abych vám oznámil, zasedá-li v soudu jeden nebo více takových, kdo by k tomu nebyl dost urozený nebo bezúhonný. Pravím tedy při své přísaze, že se mi zdá, že soud je obsazen bezúhonnými osobami a válečníky {Kriegsleuten}, urozenými i neurozenými, takže dnešního dne můžete zasedat a spolu s přísedícími {Richtern} vynášet rozsudek a nalézat právo o všem, co přijde před vaši soudní hůl {Stab}, ať jde o stříbro, zlato, čest, hrdlo a statek.
+- typ: nadpis
+  uroven: 3
+  de: '4.'
+  cs: '4.'
+- typ: odstavec
+  de: |-
+    Zum vierdten / so frage ich dich in aller massen vnd gestalt / wie ich die andern gefraget habe / ob dar jrgends Fewer / Wasser / da GOtt vor behůte / vber hand neme / oder sonsten ein Lerman im Lager wůrde / Wie mus ich mich halten / mit sampt den Richtern.
+  cs: |-
+    Za čtvrté se tě ptám zcela týmž způsobem a v téže podobě, jako jsem se tázal ostatních: kdyby se tu někde rozmohl oheň nebo voda, čehož Bůh uchovej, nebo kdyby jinak nastal v ležení {Lager} poplach {Lerman}, jak se mám spolu s přísedícími zachovat?
+- typ: nadpis
+  uroven: 3
+  de: Antwort.
+  cs: Odpověď.
+- typ: odstavec
+  de: |-
+    Herr Schultheis / jhr fraget mich auff meinen Eyd / vmb eine ausweisung der sachen / ob ein Fewer oder Wasser / oder ein Lerman sich erhůbe im Lager / so sage ich bey meinem Eyd / so sich solches zutrůge / so möget jhr den Stab von euch werffen / vnd mit vns Richtern / da dann solche sache vorhanden ist / vnd denselbigen helffen / retten vnd abstellen / wenn solches gestillet ist / vnd noch bey
+  cs: |-
+    Pane rychtáři, ptáte se mě při mé přísaze o nález {ausweisung} v té věci, kdyby v ležení vznikl oheň, voda nebo poplach. Pravím tedy při své přísaze: kdyby se to přihodilo, můžete hůl od sebe odhodit, [jít] s námi, přísedícími, tam, kde se to děje, pomáhat lidem, zachraňovat a [neštěstí] zastavit. Když se to utiší a bude ještě

@@ -1,0 +1,43 @@
+id: 045r
+list: '[45] r'
+strana: recto
+sken: 93
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: Nun Folgen frage vnd Antwort.
+  cs: Nyní následují otázky a odpovědi.
+- typ: nadpis
+  uroven: 3
+  de: '1.'
+  cs: '1.'
+- typ: odstavec
+  de: |-
+    ZVm ersten frage ich dich bey deinem Eyde / den du dem Herren geschworen hast / das du wollest sagen vnd erkennen / ob es zu früe oder zu spat sey / das ich auff den heutigen tag mit euch Richtern vnd Rechtsprechen sitzen mag / vnd alles das für meinen Stab kommet vnd vorgebracht wird / mit sampt euch Richtern / Vrtheilen vnd Rechtsprechen mag.
+  cs: |-
+    Za prvé se tě ptám při tvé přísaze {Eyde}, kterou jsi přísahal pánu, abys řekl a nalezl, není-li příliš časně nebo příliš pozdě na to, abych dnešního dne zasedal s vámi, přísedícími {Richtern} a nálezci práva {Rechtsprechen}, a o všem, co přijde a bude předneseno před mou soudní hůl {Stab}, spolu s vámi, přísedícími, vynášel rozsudek a nalézal právo[^1].
+- typ: nadpis
+  uroven: 3
+  de: Antwort.
+  cs: Odpověď.
+- typ: odstavec
+  de: |-
+    Herr Schultheis / jhr habt mich gefraget auff meinen Eydt / welches mein höchstes Pfand ist / welches ich Fürsten vnd Herren nachtrage / das ich euch eine ausweisunge sol geben / der sachen / So sage ich bey meinem Eyde / das heute der Tag nicht zu früe / noch zu spat / noch zu heilig sey / das jhr wol mit ewern Richtern möget sitzen / Richten vnd Recht sprechen / vber alles / das vor ewern Stab kömmet / vnd angeklaget wird / es sey vber Silber / Gold / Lob / Ehre / Gut / vnd Blut.
+  cs: |-
+    Pane rychtáři {Schultheis}, ptali jste se mě při mé přísaze, která je mou nejvyšší zástavou a kterou jsem zavázán knížatům a pánům, abych vám v té věci dal nález {ausweisunge}. Pravím tedy při své přísaze, že dnešní den není ani příliš časný, ani příliš pozdní, ani příliš svatý, takže se svými přísedícími můžete dobře zasedat, soudit a nalézat právo o všem, co přijde před vaši hůl a bude žalováno, ať jde o stříbro, zlato, chválu[^2], čest, statek a krev.
+- typ: nadpis
+  uroven: 3
+  de: '2.'
+  cs: '2.'
+- typ: odstavec
+  de: |-
+    Zum andern / frage ich dich / in massen vnd gestalt / wie vor dem ersten geschehen ist / ob es sach were / das man das Hochwirdige Sacrament vor
+  cs: |-
+    Za druhé se tě ptám týmž způsobem a v téže podobě, jak se to stalo předtím u prvního: kdyby se stalo, že by se kolem nesla velebná svátost
+poznamky:
+- n: 1
+  text: Rychtář klade otázky postupně jednotlivým přísedícím (proto „jak se to stalo u prvního“, „jak jsem se tázal tohoto / ostatních“) a každý odpovídá nálezem, tj. výrokem, co je v dané věci právem. Otázkami se ověřuje, že soud smí ten den zasedat a jak se má zachovat při překážkách.
+- n: 2
+  text: V tisku „Lob“ (chvála, dobré jméno); v téže formuli ostatních odpovědí stojí na tomto místě „Leib“ (hrdlo, tělo), jde tedy nejspíš o tiskovou chybu. Překládáme podle tisku.
