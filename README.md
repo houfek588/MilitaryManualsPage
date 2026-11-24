@@ -15,7 +15,7 @@ Web je čistě statický (HTML + CSS + JS, data vložená jako `<script>`), tak�
 ```
 PRAVIDLA_PREKLADU.md        pravidla překladu a popis datového formátu (závazné pro lidi i agenty)
 PRIDANI_KNIHY.md            postup přidání nové knihy (podklady → import → glosář → agenti → build)
-projekt.yaml                nastavení webu: autor, kontakt, skupina, sociální sítě, údaje pro podporu (dar)
+projekt.yaml                nastavení webu: autor, kontakt, skupina, sociální sítě, údaje pro podporu (dar), Google formulář „nahlásit chybu“ (formular)
 knihy/
   fronsberger-1564/
     kniha.yaml              metadata knihy, zdroj skenů, pořadí předsádky, pokyny k překladu

@@ -110,8 +110,13 @@ def staticka_stranka(sablona, knihy=None):
     dar_html = ('<div class="dar"><p>Překlady vznikají ve volném čase a jejich zpracování (výpočetní kapacita pro AI, '
                 'čas na ruční kontrolu, případně tisk) něco stojí. Pokud vám edice pomáhá, ať při reenactmentu, '
                 'studiu, výzkumu nebo vedení skupiny, budu vděčný za jakýkoli příspěvek. Děkuji!</p>' + ''.join(casti) + '</div>')
-    repo = (f' Případně založte issue na <a href="{esc(P["repozitar"])}/issues" target="_blank" rel="noopener">GitHubu</a>.'
+    repo = (f' Nebo založte issue na <a href="{esc(P["repozitar"])}/issues" target="_blank" rel="noopener">GitHubu</a>.'
             if P.get('repozitar') else '')
+    mail_oprava = f'<a href="mailto:{esc(P["email"])}?subject=Vojensk%C3%A9%20manu%C3%A1ly%20%E2%80%93%20oprava">{esc(P["email"])}</a>'
+    formular = (P.get('formular') or {}).get('odeslat')
+    hlaseni = (f'Najdete-li chybu, nahlaste ji prosím přes <a href="{esc(formular.replace("/formResponse", "/viewform"))}" '
+               f'target="_blank" rel="noopener">formulář</a> (v knize je u každé strany odkaz „nahlásit chybu“, který stranu '
+               f'vyplní sám), nebo napište na {mail_oprava}.' if formular else f'Najdete-li chybu, dejte prosím vědět na {mail_oprava}.')
     paticka = (f'<a href="index.html">Knihovna</a> · <a href="o-projektu.html">O projektu</a> · '
                f'{esc(P["autor"])}, <a href="mailto:{esc(P["email"])}">{esc(P["email"])}</a> · '
                f'pro skupinu <a href="{esc(sk.get("url"))}" target="_blank" rel="noopener">{esc(sk.get("nazev"))}</a> · '
@@ -120,7 +125,7 @@ def staticka_stranka(sablona, knihy=None):
     for k, v in {'{{WEB}}': esc(P['nazev']), '{{PODTITUL}}': esc(P.get('podtitul')), '{{AUTOR}}': esc(P['autor']),
                  '{{EMAIL}}': esc(P['email']), '{{SKUPINA}}': esc(sk.get('nazev')), '{{SKUPINA_URL}}': esc(sk.get('url')),
                  '{{DAR}}': dar_html, '{{REPO}}': repo, '{{PATICKA}}': paticka, '{{SOCIALNI}}': socialni_html(),
-                 '{{AUTOR_SOCIALNI}}': autor_socialni_html()}.items():
+                 '{{AUTOR_SOCIALNI}}': autor_socialni_html(), '{{HLASENI}}': hlaseni}.items():
         t = t.replace(k, v)
     if knihy is not None:
         t = t.replace('/*KNIHY*/[]', json.dumps(knihy, ensure_ascii=False))
@@ -346,7 +351,8 @@ def build_kniha(kniha_dir):
     for p in pages:
         stats[p['stav']] = stats.get(p['stav'], 0) + 1
     data = dict(meta={k: meta[k] for k in meta if k not in ('poznamky_k_prekladu',)},
-                projekt=dict(nazev=PROJEKT['nazev'], email=PROJEKT['email'], autor=PROJEKT['autor']),
+                projekt=dict(nazev=PROJEKT['nazev'], email=PROJEKT['email'], autor=PROJEKT['autor'], verze=PROJEKT.get('verze'),
+                             formular=PROJEKT.get('formular') if (PROJEKT.get('formular') or {}).get('odeslat') else None),
                 kategorie=glos.get('kategorie', {}), stranky=pages, bloky=blocks, oddily=sections,
                 hesla=hesla, demap=demap_presne, demapx=demap_vyjimky, koncovky=KONCOVKY, stav=stats, overeno=sum(1 for p in pages if p.get('ov')))
     js = 'window.EDICE = ' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';\n'

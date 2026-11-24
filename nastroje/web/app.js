@@ -70,19 +70,20 @@ function hodnota(v, typ, ctx) {
 }
 
 // ---------- vykreslení rozsahu bloků se značkami stran a poznámkami
-const hlasit = p => {
+// nahlášení chyby: e-mail (záloha) – v = {sporny, navrh, vysvetleni} z formuláře, pokud už je uživatel vyplnil
+const odkazStrany = p => location.href.split('#')[0] + (p ? '#/strana/' + p.id : '');
+const hlasit = (p, v = {}) => {
   const P = E.projekt || {};
-  const odkaz = location.href.split('#')[0] + '#/strana/' + p.id;
-  const predmet = `${M.nazev} – ${folio(p)} – oprava`;
+  const predmet = `${M.nazev}${p ? ' – ' + folio(p) : ''} – oprava`;
   const telo = `Kniha: ${M.nazev} (${M.nazev_orig}, ${M.rok})
-Strana: ${folio(p)} (soubor ${p.id}.yaml, sken ${p.sken})
-Odkaz: ${odkaz}
+Strana: ${p ? `${folio(p)} (soubor ${p.id}.yaml, sken ${p.sken})` : v.strana || ''}
+Odkaz: ${odkazStrany(p)}
 
-Citace (originál nebo překlad):
+Sporný termín / citace: ${v.sporny || ''}
 
-Navrhovaná oprava:
+Navrhovaný termín / oprava: ${v.navrh || ''}
 
-Zdůvodnění / zdroj:
+Vysvětlení / zdroj: ${v.vysvetleni || ''}
 `;
   return `mailto:${P.email || ''}?subject=${encodeURIComponent(predmet)}&body=${encodeURIComponent(telo)}`;
 };
@@ -92,7 +93,7 @@ const ovZnacka = p => p.ov
 function predel(p, prvni) {
   const strn = p.strana === 'verso' ? 'levá strana' : 'pravá strana';
   return `<div class="predel" id="p-${p.id}"><span class="ik">📄</span><span>${prvni ? 'Strana' : 'Začátek strany'} <b>${M.strankovani === 'strany' && /^\d+$/.test(p.list) ? p.list : folio(p)}</b> (sken č. ${p.sken}, ${strn})</span>
-    <a href="#/strana/${p.id}">samostatná strana</a><a href="${skenUrl(p)}" target="_blank" rel="noopener">sken ↗</a><a href="${hlasit(p)}" title="Poslat opravu nebo připomínku k této straně e-mailem">nahlásit chybu</a>
+    <a href="#/strana/${p.id}">samostatná strana</a><a href="${skenUrl(p)}" target="_blank" rel="noopener">sken ↗</a><a href="${hlasit(p)}" data-hlasit="${p.id}" title="Poslat opravu nebo připomínku k této straně">nahlásit chybu</a>
     <span class="stav"><span class="tecka" style="background:var(--st-${p.stav})"></span>${STAVY[p.stav] || p.stav}${ovZnacka(p)}</span></div>`;
 }
 function poznamkyStrany(p, pouzite) {
@@ -407,6 +408,76 @@ document.addEventListener('click', e => {
   if (f) { e.preventDefault(); const [pid, n] = f.dataset.fn.split(':'); cil(`fn-${pid}-${n}`); }
 });
 
+// ---------- okno „nahlásit chybu“ (Google Formuláře; bez nastavení v projekt.yaml zůstává e-mail)
+const FORM = (E.projekt || {}).formular;
+let HLASENI = null, hlasStrana = null;
+function oknoHlaseni() {
+  if (HLASENI) return HLASENI;
+  const d = document.createElement('dialog');
+  d.className = 'hlaseni';
+  d.setAttribute('aria-labelledby', 'hlaseni-nadpis');
+  d.innerHTML = `<form method="dialog" novalidate>
+    <h2 id="hlaseni-nadpis">Nahlásit chybu</h2>
+    <p class="m">Oprava překladu, přepisu originálu nebo termínu. Stačí vyplnit, co víte.</p>
+    <label>Strana<input name="strana" autocomplete="off"></label>
+    <label>Sporný termín<input name="sporny" autocomplete="off" placeholder="slovo nebo citace z překladu či originálu"></label>
+    <label>Navrhovaný termín<input name="navrh" autocomplete="off" placeholder="jak by to mělo znít"></label>
+    <label>Vysvětlení<textarea name="vysvetleni" rows="4" placeholder="proč, případně zdroj"></textarea></label>
+    <label>E-mail <span class="m">(nepovinný – jen pokud chcete odpověď)</span><input name="email" type="email" autocomplete="email"></label>
+    <p class="hlaseni-stav" role="status" aria-live="polite"></p>
+    <p class="m hlaseni-gdpr">Hlášení se ukládá do Google Formulářů autora projektu.</p>
+    <div class="tlacitka"><button type="button" class="tl" data-zavrit>Zavřít</button><button type="submit" class="tl hlavni">Odeslat</button></div>
+  </form>`;
+  document.body.appendChild(d);
+  const f = d.querySelector('form'), stav = d.querySelector('.hlaseni-stav'), odeslat = f.querySelector('[type=submit]');
+  d.querySelector('[data-zavrit]').onclick = () => d.close();
+  f.addEventListener('submit', async e => {
+    e.preventDefault();
+    if (odeslat.dataset.hotovo) { d.close(); return; }
+    const v = Object.fromEntries(['strana', 'sporny', 'navrh', 'vysvetleni', 'email'].map(k => [k, f.elements[k].value.trim()]));
+    stav.className = 'hlaseni-stav';
+    if (!v.sporny && !v.navrh && !v.vysvetleni) { stav.textContent = 'Vyplňte prosím aspoň sporný termín, návrh nebo vysvětlení.'; stav.classList.add('chyba'); f.elements.sporny.focus(); return; }
+    if (v.email && !f.elements.email.checkValidity()) { stav.textContent = 'E-mail nemá platný tvar.'; stav.classList.add('chyba'); f.elements.email.focus(); return; }
+    const data = new URLSearchParams();
+    const pole = FORM.pole || {};
+    const hodnoty = {...v, kniha: `${M.nazev} (${M.id}) · web ${(E.projekt || {}).verze || ''}`, odkaz: odkazStrany(hlasStrana)};
+    for (const [k, entry] of Object.entries(pole)) if (hodnoty[k]) data.append(entry, hodnoty[k]);
+    odeslat.disabled = true; stav.textContent = 'Odesílám…';
+    try {
+      // Google Formuláře nepovolují čtení odpovědi (CORS) – úspěch = požadavek odešel; výpadek sítě vyvolá chybu
+      await fetch(FORM.odeslat, {method: 'POST', mode: 'no-cors', body: data});
+      stav.textContent = 'Děkujeme, hlášení bylo odesláno.'; stav.classList.add('ok');
+      f.querySelectorAll('input,textarea').forEach(x => x.disabled = true);
+      odeslat.textContent = 'Hotovo'; odeslat.dataset.hotovo = '1';
+    } catch (err) {
+      stav.innerHTML = `Odeslání se nepovedlo (jste offline?). Můžete hlášení <a href="${esc(hlasit(hlasStrana, v))}">poslat e-mailem</a>.`;
+      stav.classList.add('chyba');
+    } finally { odeslat.disabled = false; }
+  });
+  return (HLASENI = d);
+}
+function otevriHlaseni(pid) {
+  const d = oknoHlaseni(), f = d.querySelector('form'), odeslat = f.querySelector('[type=submit]');
+  const nova = pid && strana[pid] ? strana[pid] : null;
+  if (odeslat.dataset.hotovo || nova !== hlasStrana) {  // jiná strana nebo už odesláno: nové hlášení (jinak zůstane rozepsané)
+    f.reset(); f.querySelectorAll('input,textarea').forEach(x => x.disabled = false);
+    delete odeslat.dataset.hotovo; odeslat.textContent = 'Odeslat';
+    d.querySelector('.hlaseni-stav').textContent = ''; d.querySelector('.hlaseni-stav').className = 'hlaseni-stav';
+  }
+  hlasStrana = nova;
+  if (!f.elements.strana.value) f.elements.strana.value = hlasStrana ? folioDlouze(hlasStrana) : '';
+  BUB.hidden = true;
+  d.showModal();
+  (hlasStrana ? f.elements.sporny : f.elements.strana).focus();
+}
+if (FORM) document.addEventListener('click', e => {
+  const a = e.target.closest('a[data-hlasit]');
+  if (!a || e.ctrlKey || e.metaKey || e.shiftKey) return;
+  e.preventDefault();
+  const pid = a.dataset.hlasit || (location.hash.match(/^#\/strana\/([^/?]+)/) || [])[1];
+  otevriHlaseni(pid);
+});
+
 // ---------- přepínače a klávesy
 const prepOrig = $('#prepinac-orig');
 function nastavOrig(v) { document.body.classList.toggle('bez-orig', !v); prepOrig.setAttribute('aria-pressed', v); prepOrig.textContent = v ? 'Originál' : 'Jen překlad'; uloz('orig', v); }
@@ -414,7 +485,7 @@ prepOrig.onclick = () => nastavOrig(document.body.classList.contains('bez-orig')
 nastavOrig(nacti('orig', true));
 // motiv (světlý/tmavý) obsluhuje společný assets/tema.js
 document.addEventListener('keydown', e => {
-  if (e.target.closest('input,select,textarea') || e.ctrlKey || e.metaKey || e.altKey) return;
+  if (e.target.closest('input,select,textarea') || e.ctrlKey || e.metaKey || e.altKey || HLASENI?.open) return;
   if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
     const a = OBSAH.querySelector(`.nav-ctecka a[data-klav="${e.key === 'ArrowRight' ? 'dalsi' : 'predchozi'}"]`);
     if (a) { e.preventDefault(); location.hash = a.getAttribute('href'); }

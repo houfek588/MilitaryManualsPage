@@ -3,7 +3,7 @@
 nazev: Vojenské manuály
 # Verze webu (MAJOR.MINOR.PATCH) – zobrazuje se v patičce všech stránek.
 # Kdy které číslo zvýšit: README.md, sekce „Verzování webu“.
-verze: '4.5.0'
+verze: '5.0.0'
 podtitul: české překlady raně novověkých vojenských příruček
 
 autor: Pavel Houfek
@@ -20,6 +20,20 @@ skupina:
 socialni:
   facebook: https://www.facebook.com/Praporec-Rattenschwanz-104892576268537
   instagram: https://www.instagram.com/rattenschwanz_fahnlein/
+
+# Formulář „nahlásit chybu“ (Google Formuláře). Prázdné `odeslat` = odkazy otevřou e-mail jako dřív.
+# Identifikátory polí (entry.…) jsou vidět v odkazu „Získat předvyplněný odkaz“ v editoru formuláře.
+# Formulář nesmí vyžadovat přihlášení ani sbírat ověřené e-maily (jinak odeslání z webu nefunguje).
+formular:
+  odeslat: https://docs.google.com/forms/d/e/1FAIpQLSd6SelmJeRmkAwk2QWDmwEOzCqERusXxvfWr4kF6XRvcvl-NQ/formResponse
+  pole:
+    kniha: entry.769147632
+    strana: entry.1575778694
+    odkaz: entry.317437647
+    sporny: entry.2117547649
+    navrh: entry.162219030
+    vysvetleni: entry.567976945
+    email: entry.688763040
 
 # Repozitář projektu (až bude založený) – na stránce O projektu se objeví odkaz pro hlášení chyb přes GitHub.
 repozitar: 'https://github.com/houfek588/MilitaryManualsPage'
