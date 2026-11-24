@@ -33,6 +33,7 @@
     <button class="tl" type="button" data-raz="-rok" aria-pressed="false" title="Podle roku vydání, od nejnovější">Rok ↓</button>
     <button class="tl" type="button" data-raz="autor" aria-pressed="false" title="Podle příjmení autora, A–Z">Autor A–Z</button>
     <button class="tl" type="button" data-raz="-autor" aria-pressed="false" title="Podle příjmení autora, Z–A">Autor Z–A</button>
+    <span class="m pocet-knih" id="pocet-knih"></span>
   </div>
   <div class="dlazdice" id="knihy"></div>
 </main>
@@ -58,6 +59,8 @@ function vykresli(razeni) {
   }).join('');
   document.querySelectorAll('.razeni [data-raz]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.raz === razeni)));
 }
+{ const n = KNIHY.length;   // počet knih vpravo na řádku řazení (1 kniha, 2–4 knihy, 5 knih)
+  document.getElementById('pocet-knih').textContent = `${n} ${n === 1 ? 'kniha' : n >= 2 && n <= 4 ? 'knihy' : 'knih'}`; }
 document.querySelector('.razeni').addEventListener('click', e => {
   const b = e.target.closest('[data-raz]');
   if (b) vykresli(b.dataset.raz);
