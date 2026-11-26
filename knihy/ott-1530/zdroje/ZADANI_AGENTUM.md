@@ -6,7 +6,7 @@ Nejdřív přečti: `PRAVIDLA_PREKLADU.md`, `knihy/ott-1530/kniha.yaml` (hlavně
 `knihy/ott-1530/glosar.yaml`.
 
 ## Strany
-- Strany jsou kostry (`stav: chybi_original`, `bloky: []`), založené skriptem `nastroje/ott_kostry.py`.
+- Strany jsou kostry (`stav: chybi_original`, `bloky: []`), založené nástrojem `nastroje/zaloz_strany.py` (`--od 1 --do 84 --prvni 1 --titul 1 --vynech 2,84`).
   Pole `id`, `list`, `strana`, `sken` neměň. Id: `titul` (sken 1) a listy `002r` … `042r` (list [N] r = sken 2N−1).
 - **Originál (`de`)**: výchozí je OCR `knihy/ott-1530/zdroje/ocr_bsb/NNNN.txt` (NNNN = sken, 4 číslice), u tohoto tisku
   hodně chybné. **Každou stranu porovnej se skenem**:

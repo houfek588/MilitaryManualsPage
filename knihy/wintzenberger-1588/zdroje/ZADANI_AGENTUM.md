@@ -6,7 +6,7 @@ Nejdřív přečti: `PRAVIDLA_PREKLADU.md`, `knihy/wintzenberger-1588/kniha.yaml
 `knihy/wintzenberger-1588/glosar.yaml`.
 
 ## Strany
-- Strany jsou kostry (`stav: chybi_original`, `bloky: []`), založené skriptem `nastroje/wintzenberger_kostry.py`.
+- Strany jsou kostry (`stav: chybi_original`, `bloky: []`), založené nástrojem `nastroje/zaloz_strany.py` (`--od 5 --do 115 --prvni 5 --titul 5`).
   Pole `id`, `list`, `strana`, `sken` neměň. Id: `titul` (sken 5) a listy `001v` … `056r` (list [N] r = sken 2N + 3, [N] v = sken 2N + 4).
 - **Originál (`de`)**: výchozí je OCR `knihy/wintzenberger-1588/zdroje/ocr_bsb/NNNN.txt` (NNNN = sken, 4 číslice), u fraktury
   místy chybné. **Každou stranu porovnej se skenem**:

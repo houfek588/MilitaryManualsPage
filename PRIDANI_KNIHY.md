@@ -1,10 +1,50 @@
 # Postup přidání nové knihy
 
-Návod shrnuje, jak se do edice dostal Fronsperger (`fronsberger-1564`) a Lavater (`lavater-1651`).
+Návod shrnuje, jak se do edice dostaly knihy s pracovním překladem (Fronsperger `fronsberger-1564`, Lavater
+`lavater-1651`, Bern, Solms) i knihy přeložené jen z odkazu na digitalizaci (Ott `ott-1530`,
+Wintzenberger `wintzenberger-1588` – pro ně viz [rychlý postup](#0-kniha-jen-z-odkazu-na-digitalizaci)).
 Pravidla překladu a formát dat popisuje [PRAVIDLA_PREKLADU.md](PRAVIDLA_PREKLADU.md), obecnou strukturu a nástroje
 [README.md](README.md). Tady je pořadí kroků a na co si dát pozor.
 
 Na konci je [kontrolní seznam](#kontrolní-seznam).
+
+---
+
+## 0. Kniha jen z odkazu na digitalizaci
+
+Stačí zadání typu „Přidej knihu, odkaz: https://www.digitale-sammlungen.de/de/view/bsb…“. Pracovní překlad
+není potřeba – originál se přepíše z OCR a skenu, přeloží a zreviduje agenty. Postup (podrobnosti v dalších oddílech):
+
+1. **Metadata a úplnost skenu** (§ 1, § 3): z titulního listu, katalogu (VD16/VD17, OPAC knihovny) a IIIF manifestu.
+   Projdi skeny (zmenšený náhled všech snímků), najdi desky, prázdné strany, předsádku, tabule, zdvojené nebo
+   chybějící listy a převod **snímek → list/strana** (ověř na signaturách archů a kustodách na několika místech).
+2. **Složka a `kniha.yaml`** zkopírované z podobné knihy (Ott = nefoliovaný tisk, Solms = foliace, Bern = stránkování).
+   Do `poznamky_k_prekladu` struktura knihy (úrovně nadpisů) a terminologická rozhodnutí specifická pro knihu.
+3. **OCR**: `python -I nastroje/stahni_ocr_bsb.py knihy/<kniha> <bsb-id>` (+ manifest do `zdroje/`).
+4. **Prázdné strany**: `python -I nastroje/zaloz_strany.py knihy/<kniha> --od <sken> --do <sken> --prvni <sken listu 1> --titul <sken> --vynech <prázdné> --zkouska`,
+   ověř výpis podle skenu a spusť bez `--zkouska`. Předsádku před listem 1 (věnování, předmluva) založ ručně.
+5. **Glosář** zkopírovaný z knihy stejného období (§ 6).
+6. **Zadání agentům** `zdroje/ZADANI_AGENTUM.md` (vzor `knihy/wintzenberger-1588/zdroje/`): zdroj originálu, převod
+   snímků, zvláštnosti skenu, struktura, terminologie, kam ukládat zprávy a dočasné soubory.
+7. **Překlad**: agenti `prekladatel` v dávkách po 20–25 stranách souběžně (§ 8), každý se svým podadresářem
+   scratchpadu. Pak hranice dávek, glosář z návrhů ve zprávách, dřevořezy (§ 7).
+8. **Revize**: `zdroje/ZADANI_REVIZE.md` (vzor `knihy/wintzenberger-1588/zdroje/`) se závazným sjednocením termínů
+   napříč dávkami a agenti `kontrola-prekladu` nad celou knihou → `stav: zkontrolovano`.
+9. **Dokončení** (§ 9–10): nepropojené termíny do glosáře, `SPORNA_MISTA.md`, `over_strany.py`, build, kontrola
+   v prohlížeči, README, paměť projektu.
+
+**Výchozí volby, na které se není třeba ptát:** překlad + revize celé knihy; plynulost „středně“ (PRAVIDLA § 3);
+dřevořezy jako výřezy s popisem a přepisem nápisů; výchozí terminologie podle PRAVIDLA § 3; prázdné strany
+vynechat; tiskové chyby ponechat s poznámkou.
+
+**Rozhoduje autor projektu** – práce se kvůli tomu nezastavuje: agent zvolí výchozí řešení, pokračuje a na konci
+ho vyjmenuje v závěrečné zprávě nebo v `SPORNA_MISTA.md`: český název knihy (`nazev` – agent navrhne věcný překlad
+titulu), odchylky od výchozí terminologie, nejasná místa textu, vady exempláře (chybějící listy – hledat jinou
+digitalizaci?), zvýšení verze webu (dělá autor). Zeptat se předem je namístě jen tehdy, když by špatná volba
+znamenala předělat velkou část práce (např. dvě různá vydání téhož díla).
+
+**Limity použití:** agenti ukládají stranu po straně a zprávu píší na konci. Když dávka spadne na limit, pokračuje
+se zprávou téže dávce (ne novým agentem) – strany se stavem `prelozeno` / `zkontrolovano` jsou hotové.
 
 ---
 
@@ -92,6 +132,7 @@ Import zapíše `zdroje/import_report.txt` – projdi ho: chybějící strany, n
 hvězdičkové termíny `[X]*` (= podle autora překladu sem patří poznámka).
 
 Strany, které v pracovním překladu chybí, se založí prázdné (`stav: chybi_original`) a doplní je agent.
+**Bez pracovního překladu** založ všechny strany nástrojem `nastroje/zaloz_strany.py` (viz § 0, bod 4).
 Každá strana začíná s `overeno_clovekem: false`.
 
 Pozor na **slova rozdělená přes hranici stran**: celé slovo patří na stranu, kde končí (PRAVIDLA § 1).
@@ -127,7 +168,9 @@ Glosář upravuje jen hlavní relace (ne agenti v dávkách) – agenti návrhy 
 ## 8. Překlad a kontrola (agenti)
 
 1. Napiš **`zdroje/ZADANI_AGENTUM.md`** – čím se kniha liší od ostatních: zdroj originálu, číslování a id stran,
-   adresa skenu, terminologické zvláštnosti, kam ukládat zprávy. (Vzor: `knihy/lavater-1651/zdroje/ZADANI_AGENTUM.md`.)
+   adresa skenu, vady skenu, terminologické zvláštnosti, kam ukládat zprávy. (Vzor s pracovním překladem:
+   `knihy/lavater-1651/zdroje/ZADANI_AGENTUM.md`, bez něj: `knihy/wintzenberger-1588/zdroje/ZADANI_AGENTUM.md`.)
+   Pro korekturu celé knihy napiš **`zdroje/ZADANI_REVIZE.md`** se sjednocením termínů napříč dávkami.
 2. Rozděl strany do **dávek po 15–25 stranách** podle kapitol.
 3. Nepřeložené strany: agent **`prekladatel`**. Přeložené: agent **`kontrola-prekladu`** (věrnost, plynulost,
    terminologie podle glosáře, párování, úplnost originálu). Dávky mohou běžet souběžně, každá jen nad svými stranami.
@@ -163,7 +206,7 @@ python -I nastroje/build.py
 - `over_strany.py` musí skončit s 0 chybami; varování projdi (nepoměr délek DE/CS, nespárované bloky, zakázané termíny).
 - Náhled: `docs/index.html` dvojklikem, nebo server `python -m http.server 8766 --directory docs`.
   Projdi rozcestník, obsah (úrovně nadpisů), několik stran v zrcadlovém zobrazení, rejstřík, hledání, PDF a odkazy na sken.
-- Zvyš **verzi webu** v `projekt.yaml` – nová kniha = první číslo (MAJOR), viz README › Verzování.
+- **Verzi webu** v `projekt.yaml` zvyšuje autor projektu – nová kniha = první číslo (MAJOR), viz README › Verzování.
 - Do README (sekce Knihy / Zdroje) doplň knihu a zdroj originálu, do paměti projektu rozhodnutí o terminologii.
 - `docs/` je generovaný – needitovat ručně (případné ruční úpravy přenést do šablon v `nastroje/web/`).
 
@@ -174,14 +217,17 @@ python -I nastroje/build.py
 
 ## Kontrolní seznam
 
-- [ ] sken je úplný (návaznost textu, kustody, signatury) a jeho licence je zapsaná
+- [ ] sken je úplný (návaznost textu, kustody, signatury), vady skenu (chybějící / zdvojené listy) popsané
+      v `strany_poznamka`, licence zapsaná
+- [ ] český název knihy navržený a uvedený v závěrečné zprávě (autor projektu ho může změnit v `kniha.yaml`)
 - [ ] `knihy/<id>/kniha.yaml` – metadata, `strankovani`, adresy skenu, `poznamky_k_prekladu`
 - [ ] text originálu po snímcích v `zdroje/` (OCR nebo DTA) a převod strana → snímek ověřený na několika místech
-- [ ] import pracovního překladu, `import_report.txt` prošlý, chybějící strany založené
+- [ ] import pracovního překladu, `import_report.txt` prošlý, chybějící strany založené – nebo bez pracovního
+      překladu všechny strany založené `zaloz_strany.py` (převod ověřený `--zkouska`)
 - [ ] glosář (kopie + specifické termíny, `nepouzivat`, `bez_odkazu`)
 - [ ] obrázky: dřevořezy vyříznuté a zkontrolované, tabule jako `tab-NN` s popisem
-- [ ] `zdroje/ZADANI_AGENTUM.md`, dávky přeloženy a zkontrolovány, zprávy v `zdroje/kontrola/`
+- [ ] `zdroje/ZADANI_AGENTUM.md` a `ZADANI_REVIZE.md`, dávky přeloženy a zkontrolovány, zprávy v `zdroje/kontrola/`
 - [ ] terminologie sjednocená, hranice dávek vyřešené, `SPORNA_MISTA.md` sepsané
 - [ ] nepropojené termíny doplněné do glosáře, odkazy na strany a tabule označené
 - [ ] `over_strany.py` bez chyb, `build.py` proběhl, web prošlý v prohlížeči
-- [ ] verze v `projekt.yaml` zvýšená (MAJOR), README doplněné
+- [ ] README doplněné; verzi v `projekt.yaml` (MAJOR) zvýší autor projektu

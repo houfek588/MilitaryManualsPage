@@ -14,7 +14,7 @@ Web je čistě statický (HTML + CSS + JS, data vložená jako `<script>`), tak�
 
 ```
 PRAVIDLA_PREKLADU.md        pravidla překladu a popis datového formátu (závazné pro lidi i agenty)
-PRIDANI_KNIHY.md            postup přidání nové knihy (podklady → import → glosář → agenti → build)
+PRIDANI_KNIHY.md            postup přidání nové knihy (podklady → import nebo založení stran → glosář → agenti → build)
 projekt.yaml                nastavení webu: autor, kontakt, skupina, sociální sítě, údaje pro podporu (dar), Google formulář „nahlásit chybu“ (formular)
 knihy/
   fronsberger-1564/
@@ -28,6 +28,7 @@ nastroje/
   import_md.py              jednorázový import pracovního překladu z Google Docs (.md)
   migrace_sken_45899.py     jednorázový přechod na úplný sken (doplnění 3 vynechaných dvojstran)
   stahni_ocr_bsb.py         stažení OCR z digitale-sammlungen.de
+  zaloz_strany.py           založení prázdných stran knihy bez pracovního překladu (převod snímek → list/strana)
   dta_strany.py             rozdělení přepisu Deutsches Textarchiv (TEI) po stranách → zdroje/dta/NNNN.txt
   import_lavater.py         jednorázový import pracovního překladu Lavatera (.md)
   import_bern.py            jednorázový import pracovního překladu Bernské příručky (.md)

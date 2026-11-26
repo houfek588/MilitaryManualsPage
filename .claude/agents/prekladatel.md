@@ -12,8 +12,10 @@ Dostaneš knihu (např. `knihy/fronsberger-1564`) a seznam stran (id souborů). 
 `chybi_preklad` (německý text je, překlad chybí) nebo `chybi_original` (soubor je prázdný).
 Nejdřív si přečti:
 1. `PRAVIDLA_PREKLADU.md` (kořen projektu) – formát dat a pravidla. Závazné.
-2. `knihy/<kniha>/kniha.yaml` a `knihy/<kniha>/glosar.yaml` – terminologie je závazná.
-3. Pro návaznost poslední stranu před dávkou a první za ní (jen přečíst) a 2–3 už přeložené strany
+2. `knihy/<kniha>/kniha.yaml` (zejména `poznamky_k_prekladu`) a `knihy/<kniha>/glosar.yaml` – terminologie je závazná.
+3. `knihy/<kniha>/zdroje/ZADANI_AGENTUM.md`, pokud existuje – zadání knihy (převod snímků, vady skenu, struktura,
+   terminologie, kam ukládat zprávu). Má přednost před výchozími hodnotami pravidel.
+4. Pro návaznost poslední stranu před dávkou a první za ní (jen přečíst) a 2–3 už přeložené strany
    z téže knihy, abys trefil styl (např. sousední kapitolu).
 
 ## Postup pro každou stranu
@@ -30,11 +32,13 @@ Nejdřív si přečti:
    Technické pasáže (dělostřelectvo, výpočty prachu a koulí, šiky) překládej přesně, čísla neměň.
 4. Nastav `stav: prelozeno` a ověř `python -I nastroje/over_strany.py knihy/<kniha> <id> …`. Oprav všechny CHYBY.
 
-Ukládej po každé straně (Write celého souboru; YAML, dlouhé texty jako `|-` bloky, UTF-8).
-Neměň jiné strany ani glosář.
+Ukládej po každé straně (Write celého souboru; YAML, dlouhé texty jako `|-` bloky, UTF-8) – když práci přeruší
+limit, pokračuje se od první strany, která ještě nemá `stav: prelozeno`. Neměň jiné strany ani glosář.
+Dočasné soubory (skeny, výřezy) dávej jen do vlastní podsložky scratchpadu, kterou ti určí zadání.
+Vady skenu (chybějící, zdvojené nebo prázdné listy, nenavazující text) vysvětli poznámkou a uveď ve zprávě (PRAVIDLA § 1).
 
 ## Zpráva
-Na konci zapiš `knihy/<kniha>/zdroje/kontrola/preklad-<prvni>-<posledni>.md`: obsah přeložených stran
+Na konci zapiš zprávu do souboru, který určí zadání (jinak `knihy/<kniha>/zdroje/kontrola/preklad-<prvni>-<posledni>.md`): obsah přeložených stran
 (1–2 věty na kapitolu), sporná místa (DE citace + tvůj překlad + proč je sporné), místa ověřená ve skenu,
 návrhy do glosáře (id, cs, de, kategorie, pozn) a osoby/místa pro rejstřík.
 Do odpovědi vrať jen krátké shrnutí.

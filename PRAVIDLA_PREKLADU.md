@@ -1,12 +1,16 @@
 # Pravidla překladu a datového formátu
 
 Platí pro všechny knihy v `knihy/` a pro oba agenty (`.claude/agents/prekladatel.md`, `.claude/agents/kontrola-prekladu.md`).
-Konkrétní kniha může mít výjimky v `knihy/<kniha>/kniha.yaml` (pole `poznamky_k_prekladu`).
+Konkrétní kniha může mít výjimky v `knihy/<kniha>/kniha.yaml` (pole `poznamky_k_prekladu`) a v zadání agentům
+`knihy/<kniha>/zdroje/ZADANI_AGENTUM.md` (překlad) a `ZADANI_REVIZE.md` (korektura). Výjimky knihy mají přednost
+před výchozími hodnotami v těchto pravidlech.
 
 ## 1. Jeden soubor = jedna strana tisku
 
 `knihy/<kniha>/strany/<id>.yaml`, např. `018r.yaml` = list XVIII, líc (recto); `018v.yaml` = rub (verso).
-Tisk číslovaný po listech (foliace): na líci je římské číslo, rub je bez čísla.
+Tisk číslovaný po listech (foliace): na líci je římské číslo, rub je bez čísla. Tisk bez foliace (jen signatury
+archů) čísluje edice listy sama v hranatých závorkách: `list: '[12] r'`, id `012r` (titulní list = `[1] r`, id `titul`).
+Tisk stránkovaný (`strankovani: strany` v kniha.yaml): id `012`, `list: '12'`.
 
 ```yaml
 id: 018r
@@ -58,6 +62,9 @@ poznamky:              # poznámky překladatele k této straně
 - Slovo rozdělené přes hranici stran (*erma-|nen*) patří celé na stranu, **kde končí** (tj. na následující).
 - Svorky a marginálie ve výčtech (*gehören vnter den Profosen*) připoj k poslední položce skupiny: „… – gehören vnter den Profosen.“
 - Ve výčtech úřadů je každá položka termín: `{…}` jen při prvním výskytu na stránce, opakovaně („jeho poručík“) bez závorky.
+- **Vady tisku a skenu** neopravuj potichu – upozorni na ně poznámkou na dotčené straně a ve zprávě:
+  chybějící list (text nenavazuje, chybí kustoda nebo signatura), zdvojený snímek (táž strana nasnímaná dvakrát
+  – přepis i překlad pak musí být totožné), prázdné strany, zaměněné pořadí. Prázdné strany se nezakládají.
 - **Dřevořezy a vyobrazení**, která jsou na skenu, ale nemají v datech blok `obrazek`, doplň jako blok na správné místo:
   `typ: obrazek`, `soubor: drevorez-<sken>.jpg` (NN = číslo skenu; druhý obrázek na téže straně `drevorez-<sken>b.jpg`)
   a `popis`. Soubor nevytvářej – výřez ze skenu doplní správce projektu.
@@ -90,7 +97,31 @@ poznamky:              # poznámky překladatele k této straně
 - Vlastní jména: ustálená česká podoba (Maxmilián, Titus Livius, Frankfurt nad Mohanem), u méně známých
   původní podoba.
 - Čísla, míry a mince přelož přesně (žádné přepočty v textu; přepočet patří do poznámky).
-- Oslovení a formule listin (*N.*, *E. F. G.*) překládej dobově: „N.“, „Vaše knížecí Milost“.
+- Oslovení a formule listin (*N.*, *E. F. G.*) překládej dobově: „N.“, „Vaše knížecí Milost“. Panovnické tituly
+  ve správném pádě: *Key: May: / Röm: Key: May:* = „Jeho (římské) císařské Veličenstvo“ („Jeho Veličenstva“,
+  „Jeho Veličenstvu“ – ne „Majestát“), *Kö: May:* = „Jeho královské Veličenstvo“, *F. G.* = „Jeho knížecí Milost“,
+  *E. E. G.* = „Vaše urozená Statečnost“.
+- **Čísla a mince**: v souvislém textu slovy jednotky („12 zlatých“), v tabulkách a sazebnících zkratkou („12 zl.“);
+  *fl. / Gulden / Florin* = zlatý, *kr.* = krejcar, *Batzen* = bacen, *ß* = šilink. Součtový řádek sázený v tisku
+  samostatně na střed („– 120 Florin“) připoj na konec odstavce za pomlčku, pokud kniha.yaml neurčí jinak.
+  **Početní chybu předlohy** (součet nesedí s položkami) v textu ponech a vysvětli v poznámce.
+- **Verše** (`verse`): zachovej počet řádků a smysl; rým ani metrum nejsou nutné, ale verš má jít číst jako verš.
+- Plynulost „středně“: přirozená věta a slovosled, rozdělená souvětí, ale žádné převyprávění ani modernizace reálií.
+
+### Výchozí terminologie (platí, pokud glosář nebo kniha.yaml neurčí jinak)
+| Tisk | Překlad | Pozor |
+|---|---|---|
+| *Oberst, Oberster, Obrister* | plukovník | velitel celého vojska (nad plukovníky) = „vrchní velitel“; *oberster Hauptman* = nejvyšší hejtman; *oberster Feldhauptman* = nejvyšší polní hejtman |
+| *Kriegsherr* | válečný pán | |
+| *Kriegsleute / Kriegsvolk* | válečníci / válečný lid | ne „vojáci“ |
+| *Fähnlein, Fendlin, Fenlein* | praporec | u jízdy *korouhev*; *Fähnrich* = praporečník (u jízdy korouhevník) |
+| *Knecht* | knecht (voják) / pacholek (sluha) | *Jung, Knab* = pachole |
+| *Feldweibel* | šikovatel | civilní *Weibel* = biřic |
+| *Regiment* | zřízení (správa, řád) / pluk (útvar) | podle smyslu |
+| *Zeugmeister / Büchsenmeister* | zbrojmistr / puškař | |
+| *Artalerey, Artollerey* | dělostřelectvo | |
+| *Profos / Schultheis* | profous / rychtář | |
+| *Item* | Dále | bez dvojtečky |
 - Uvozovky „…“, pomlčka –, tři tečky …, nezlomitelné mezery netřeba.
 
 ## 4. Poznámky překladatele
@@ -106,6 +137,8 @@ poznamky:              # poznámky překladatele k této straně
   U Lavatera se odkazy na mědirytiny označují skriptem `nastroje/odkazy_rytiny.py` (číslování tabulí viz jeho
   záhlaví), odkazy na čísla stran („Čti s. 5“, „str. 58–59“) skriptem `nastroje/odkazy_strany.py`;
   `over_strany.py` hlásí odkaz na neexistující stranu.
+- Popis obrázku (`popis`): co vyobrazení ukazuje (postavy, zbraně, děj, krajina) a **přepis i překlad nápisů**
+  a popisků v obrázku („nápis LANDS-KNECHT – lancknecht“). U erbu popiš štít a klenot, u portrétu koho zobrazuje.
 - Nákresy, tabulky a vyobrazení převeď do srozumitelné textové podoby: u `obrazek` napiš `popis`, tabulky
   jako `tabulka`, výpočty šiků jako seznam nebo tabulku.
 
@@ -123,7 +156,11 @@ zaznamenává samostatné pole **`overeno_clovekem`**:
 
 ## 6. Pomůcky
 - `knihy/<kniha>/zdroje/ocr_bsb/NNNN.txt` – OCR skenu NNNN (číslo = `sken`), po řádcích. Na kontrolu úplnosti.
-- Sken strany: `https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045899_000NN/full/1400,/0/default.jpg`
-  (NN = `sken`, doplněno na 5 číslic: `bsb00045899_00043`). Stáhni `curl -s -o <scratchpad>/s43.jpg <url>` a otevři
-  nástrojem Read – použij jen při pochybnostech (čísla, termíny, nečitelné OCR).
+- Sken strany: adresa je v `knihy/<kniha>/kniha.yaml` → `sken.url_obrazek` (zástupné znaky `{sken5}` = číslo
+  snímku doplněné na 5 číslic, `{sirka}` = šířka v px, např. 1400). Pro BSB např.
+  `https://api.digitale-sammlungen.de/iiif/image/v2/<bsb-id>_00043/full/1400,/0/default.jpg`.
+  Stáhni `curl -s -o <scratchpad>/s43.jpg <url>` do vlastní podsložky scratchpadu a otevři nástrojem Read – použij
+  při pochybnostech (čísla, termíny, nečitelné OCR); sporný detail si zvětši výřezem (`/x,y,w,h/1000,/0/…`).
+- Zadání knihy: `knihy/<kniha>/zdroje/ZADANI_AGENTUM.md` (překlad) a `ZADANI_REVIZE.md` (korektura) – přečti
+  před prací, mají přednost před výchozími hodnotami.
 - Kontrola souborů: `python -I nastroje/over_strany.py knihy/<kniha> 018r 018v …` (bez seznamu = všechny).

@@ -13,7 +13,9 @@ Dostaneš knihu (např. `knihy/fronsberger-1564`) a seznam stran (id souborů, n
 Každou stranu zkontroluj a **oprav přímo v YAML souboru**. Nejdřív si přečti:
 1. `PRAVIDLA_PREKLADU.md` (kořen projektu) – formát dat a pravidla překladu. Závazné.
 2. `knihy/<kniha>/kniha.yaml` (zejména `poznamky_k_prekladu`) a `knihy/<kniha>/glosar.yaml`.
-3. Pro kontext stranu před první a za poslední stranou dávky (jen přečíst, needitovat).
+3. `knihy/<kniha>/zdroje/ZADANI_REVIZE.md` (závazné sjednocení termínů napříč knihou) a `ZADANI_AGENTUM.md`,
+   pokud existují, a zprávy překladatelů v `zdroje/kontrola/` ke tvým stranám – sporná místa z nich rozhodni.
+4. Pro kontext stranu před první a za poslední stranou dávky (jen přečíst, needitovat).
 
 ## Postup pro každou stranu
 1. Načti YAML a OCR skenu `knihy/<kniha>/zdroje/ocr_bsb/NNNN.txt` (NNNN = `sken`, 4 číslice).
@@ -37,10 +39,12 @@ Každou stranu zkontroluj a **oprav přímo v YAML souboru**. Nejdřív si pře�
    Všechny CHYBY oprav; VAROVÁNÍ posuď.
 
 Pracuj stranu po straně a soubor ukládej hned po kontrole (Write celého souboru je v pořádku; drž formát YAML:
-dlouhé texty jako `|-` bloky, UTF-8, bez tabulátorů). Neměň jiné strany, než máš přidělené, a neměň glosář.
+dlouhé texty jako `|-` bloky, UTF-8, bez tabulátorů). Po přerušení limitem se pokračuje od první strany dávky,
+která ještě nemá `stav: zkontrolovano`. Dočasné soubory jen do vlastní podsložky scratchpadu.
+Neměň jiné strany, než máš přidělené, a neměň glosář.
 
 ## Zpráva
-Na konci zapiš `knihy/<kniha>/zdroje/kontrola/<prvni>-<posledni>.md`:
+Na konci zapiš zprávu do souboru, který určí zadání (jinak `knihy/<kniha>/zdroje/kontrola/<prvni>-<posledni>.md`):
 - tabulka stran: co se zásadně změnilo (věcné opravy překladu, doplněný text, změny párování),
 - **sporná místa** k rozhodnutí člověkem (s citací DE a navrženým CS),
 - **návrhy do glosáře**: nové termíny nebo úpravy (id, cs, de, kategorie, pozn), osoby a místa pro rejstřík.
