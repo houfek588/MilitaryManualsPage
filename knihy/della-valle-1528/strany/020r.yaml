@@ -1,0 +1,31 @@
+id: 020r
+list: '20'
+strana: recto
+sken: 59
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    doi lumi che, m, n, o, p, & ferma & quello scriue & a laltra monstra el fuoco con uno lume una uolta che e da le diece littere prime, & laltra la monstra con doi lumi & fa in questo modo, m, n, o, p, q, r, s, & scriue ad laltra pur con doi, m, n, o, p, q, r, s, t, & scriui, & como arrai scrito, scriue laltra poi con uno lume & monstra una uolta che, i, & cossi harai scrito baptista, & ancho con questo se potra scriuere qual se uoglia cosa che uorai.
+  cs: |-
+    dvěma světly {lumi}: m, n, o, p – a zastaví se, a ten druhý píše. U dalšího [písmene] se ukáže oheň jedním světlem jednou, neboť je z prvních deseti písmen. Další se ukazuje dvěma světly a dělá se to takto: m, n, o, p, q, r, s, a píše se. U dalšího opět dvěma: m, n, o, p, q, r, s, t, a piš. A až to napíšeš, napiš další, potom jedním světlem, a ukáže se jednou, což je i. A tak budeš mít napsáno baptista[^1]; a stejně tak se tím dá napsat cokoli, co budeš chtít.
+- typ: nadpis
+  uroven: 1
+  de: LIBRO SECONDO.
+  cs: Kniha druhá
+- typ: nadpis
+  uroven: 2
+  de: COMO SE DE PIGLIARE VNA TERRA. CAPITOLO PRIMO.
+  cs: Jak se má dobýt město. Kapitola první.
+- typ: odstavec
+  de: |-
+    PER PIGLIARE una terra bisogna chel Capitano uada piu, et piu uolte intorno dela terra, et mandare alcuni de ingegno, & de iudicio, et poi disputare doue, e da qual banda, & in che luoco e da fare fondamento de hauere a pigliare el ditto luoco, & piu non basta sul disputare il caso ma dico che bisogna andare sopra il luoco, & li dire ogni uno il suo parere, & facendo cossi a luoco per luoco & pigliando sempre el meglior modo se ne aspetta certo el bon fine.
+  cs: |-
+    Chce-li kapitán {Capitano} dobýt město {terra}[^2], musí mnohokrát objet město dokola a vyslat několik důvtipných a soudných mužů; potom se má poradit, kde, z které strany a na kterém místě je třeba založit dobývání onoho místa. A dále nestačí o věci jen rokovat, nýbrž pravím, že je třeba jít přímo na místo a tam ať každý řekne svůj názor. Když se tak učiní místo od místa a vždy se zvolí nejlepší způsob, lze očekávat jistě dobrý konec.
+poznamky:
+- n: 1
+  text: 'Příklad v tisku přesně neodpovídá pořadí písmen jména Baptista (b, a, p, t, i, s, t, a): po b, a, p následuje „písmeno z prvních deseti“ ukázané jednou, pak s a t, nakonec i – text je zřejmě zkrácený nebo porušený, překládán doslova. Baptista je křestní jméno autora.'
+- n: 2
+  text: 'Kniha druhá (listy 20 r – 29 v) pojednává o dobývání měst: průzkum, zákopy, mosty, žebříky, stroje a miny. Nadpis knihy i kapitoly je nad velkou zdobnou dřevořezovou iniciálou P se scénou Svaté rodiny (sv. Josef, Panna Maria a Ježíšek v jesličkách).'

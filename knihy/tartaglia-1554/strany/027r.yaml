@@ -1,0 +1,67 @@
+id: 027r
+list: '27'
+strana: recto
+sken: 53
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    gran quantita della detta sabbia dentro da si, cioe dentro dal foro della canna, hor ue addimando la causa di tal effetto.
+  cs: |-
+    do sebe, to jest do vývrtu {foro} hlavně {canna}, velké množství toho písku. Ptám se vás tedy po příčině tohoto jevu.
+- typ: odstavec
+  de: |-
+    N. Vn caso simil à questo, etiam alquanto piu fantastico, mi fu ricercato da uno Bombardiero (come appare in questo al. 21. quesito) il quale, si come nel uostro, il pezzo tiro gran quantita di sabbia dentro dal uacuo della canna, nel suo, tal pezzo ue tiro dentro uno cagnolino, cosa assai ridicolosa, e pero questo uostro dubbio lo risolueremo, si come risoluessimo quello, cioe che per tirar il pezzo, tal pezzo necessariamente se scalda, & subito che il sia alquanto caldo, subito si fa alquanto attrattiuo alla similitudine d'una uentosa, e tanto piu, quanto piu si troua caldo, e pero non è marauiglia se tal pezzo trasse tal sabbia dentro da se.
+  cs: |-
+    **Nicolò.** Na podobný a ještě poněkud podivuhodnější případ se mě ptal jeden dělostřelec {Bombardiero} (jak je vidět v této knize v 21. dotazu): jako ve vašem případě vtáhlo dělo {pezzo} do vývrtu {uacuo} hlavně velké množství písku, tak v jeho případě do ní dělo vtáhlo pejska, což je věc dost k smíchu. Proto vaši pochybnost rozřešíme stejně, jako jsme rozřešili tu, totiž že se dělo střelbou nutně zahřívá, a jakmile je poněkud teplé, hned se stává poněkud sacím podobně jako baňka {uentosa}, a to tím víc, čím je teplejší. Proto není divu, že takové dělo do sebe vtáhlo ten písek.
+- typ: odstavec
+  de: |-
+    A. Questa uostra ragion molto mi consona.
+  cs: |-
+    **Alberghetto.** Tento váš výklad se mi velmi zamlouvá.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO VIGESIMOQVINTO FATTO DA uno Schioppettero, & etiam Bombardiero.
+  cs: |-
+    Dvacátý pátý dotaz, který položil jeden ručničář {Schioppettero} a zároveň dělostřelec
+- typ: odstavec
+  de: |-
+    SCHIOPPETIERO. Hauendo io un schioppo con la sua mira tanto ben acconcia, che tirando à un segno posto in piano, in una certa mia conueniente distantia quasi la maggior parte delle uolte, dia precisamente in brocca, cioe nella cosa tolta de mira per picciola che la sia. Ve adimando se tal mira cosi ben acconcia me seruira à tirare à un segno, o altra picciola cosa, che sia posta in alto, in quella medesima distantia.
+  cs: |-
+    **Ručničář.** Mám ručnici {schioppo} s mířidlem {mira} tak dobře seřízeným, že když střílím na cíl {segno} postavený ve vodorovné rovině v jisté mně příhodné vzdálenosti, trefím skoro pokaždé přesně do středu {brocca},[^1] to jest do věci, na kterou mířím, ať je sebemenší. Ptám se vás, zda mi tak dobře seřízené mířidlo poslouží i ke střelbě na cíl nebo jinou malou věc, která je umístěna vysoko, v téže vzdálenosti.
+- typ: odstavec
+  de: |-
+    N. Eglie cosa chiara, che tal mira non ue seruira cosi precisamente tirando all'alta, & in quella medesima distantia.
+  cs: |-
+    **Nicolò.** Je zřejmé, že vám takové mířidlo při střelbě vzhůru a v téže vzdálenosti neposlouží tak přesně.
+- typ: odstavec
+  de: |-
+    S. Ma perche ragione.
+  cs: |-
+    **Ručničář.** Ale z jakého důvodu?
+- typ: odstavec
+  de: |-
+    N. La ragione è questa, se tirando in piano in quella uostra commune distantia uoi date la maggior parte precisamente in brocca, necessariamente in quella tal distantia, & in tal luoco, ui se congionge, ouer concorre la uostra linea uisuale, o per contingentia, ouer per interseccatione, con il transito, ouer uiaggio qual debbe far la balla. Et perche nelli tiri elleuati, la balla ua molto piu per linea retta, ouer linea men curua di quello ua nelli tiri fatti in piano, cioe con il pezzo, ouer schioppo aliuellato, come fu disputato sopra al secondo quesito, e perche quanto che piu rettamente se istende il transito, ouer uiaggio, qual debba far la balla (tirando all'alta) di quello faceua tirando in piano, tanto piu presto uien à concorrere, & à interseccarse, il detto transito, ouer uiaggio, con la detta linea uisuale, di quello faceua tirando in piano. Facendosi adunque tal interseccatione piu propinqua (per tirar cosi in alto) la cosa à chi se tira uien à restare oltra à tal interseccatione (per esser quella nella medesima prima distantia) & essendo fuora di tal interseccatione è impossibile à dar precisamente in brocca per ragion delle mire.
+  cs: |-
+    **Nicolò.** Důvod je tento: jestliže při vodorovné střelbě v té vaší obvyklé vzdálenosti trefujete většinou přesně do středu, pak se nutně v této vzdálenosti a na tom místě vaše zorná čára {linea uisuale} setkává neboli sbíhá s dráhou {transito} neboli cestou, kterou má koule {balla} vykonat, a to buď v bodě dotyku, nebo v průsečíku {interseccatione}. A protože při elevovaných ranách {tiri elleuati} letí koule mnohem víc po přímce neboli po méně zakřivené čáře než při ranách vodorovných, to jest z vodorovně namířeného {aliuellato} děla nebo ručnice, jak bylo rozebráno ve druhém dotazu, a protože čím přímočařeji se dráha neboli cesta koule (při střelbě vzhůru) prostírá oproti střelbě vodorovné, tím dříve se setká a protne s uvedenou zornou čarou, vzniká (při takové střelbě vzhůru) průsečík blíže. Věc, na niž se střílí, tedy zůstane za tímto průsečíkem (protože je v téže vzdálenosti jako prve), a je-li za průsečíkem, není možné kvůli mířidlům trefit přesně do středu.
+- typ: odstavec
+  de: |-
+    S. Io non intendo troppo bene queste uostre ragioni, ne manco uoglio che ue affaticati à darmele ad intendere, perche credo, che uoi ui haueresti difficulta, ma conchiudetemi pur se tirando à tal segno posto in alto, & nella medesima prima distantia io daro piu alto, ouer piu basso di tal segno.
+  cs: |-
+    **Ručničář.** Těmto vašim důvodům příliš dobře nerozumím, a ani nechci, abyste se namáhal mi je vysvětlovat, protože myslím, že byste s tím měl potíže. Řekněte mi však aspoň závěr: když budu střílet na takový cíl umístěný vysoko a v téže vzdálenosti jako prve, trefím výš, nebo níž než ten cíl?
+- typ: odstavec
+  de: |-
+    N. Conchiudo che uoi dariti piu alto, perche ogni uolta che la linea uisuale se interseca con il transito, ouer uiaggio qual debbe far la balla, & che la cosa, ouer segno à che se tira sia oltra à tal interseccatione, sempre la balla percuotera alquanto di sopra del segno, & tanto piu alto quanto che il detto segno, sara piu lontano dalla detta interseccatione.
+  cs: |-
+    **Nicolò.** Závěr je, že trefíte výš. Kdykoli se totiž zorná čára protíná s dráhou neboli cestou, kterou má koule vykonat, a věc neboli cíl, na který se střílí, je za tímto průsečíkem, udeří koule vždy poněkud nad cíl, a to tím výš, čím dál bude cíl od průsečíku.
+- typ: odstavec
+  de: |-
+    S. Certamente uoi haueti detto la uerita, et sappiati
+  cs: |-
+    **Ručničář.** Věru jste řekl pravdu, a vězte,
+poznamky:
+- n: 1
+  text: Dar in brocca – trefit přesně do středu terče; brocca byl hřeb či kolík uprostřed terče (odtud i „imbroccare“ = trefit).

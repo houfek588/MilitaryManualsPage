@@ -1,0 +1,44 @@
+id: 033v
+list: '33'
+strana: verso
+sken: 66
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    cioe, che tal ciffolare, nasse dalla gran difficulta, che ritroua la detta balla in penetrar tal aere riposante, e quieto: ma perche alla seconda uolta tal balla, non solamente la ritrouo tal aere tutto commosso, rotto, & conquassato, dalla prima balla tirata, ma anchora molto tendente, ouer scorrente uerso al luoco doue se tira, cioe secondando el moto della detta balla, per le qual cose la detta balla, per non ritrouar quell'ostacolo alla seconda uolta, che fece alla prima, la non ciffolaua cosi forte, come fece alla prima uolta, & per le medesime ragioni molto meno doueua ciffolare nelli altri tiri, essendo pero tirati consequentemente.
+  cs: |-
+    to jest toto svištění {ciffolare} vzniká z velké obtíže, s níž koule {balla} proniká takovým nehybným a klidným vzduchem. Podruhé však koule nenarazila jen na vzduch zcela rozvířený, rozražený a rozbitý první vystřelenou koulí, ale navíc silně proudící neboli plynoucí k místu, kam se střílí, to jest ve směru pohybu koule. Protože tedy koule podruhé nenarazila na takovou překážku jako poprvé, nesvištěla tak silně jako poprvé; a z týchž důvodů musela svištět ještě mnohem méně při dalších ranách {tiri}, ovšem pokud se střílelo jednou ranou za druhou.
+- typ: odstavec
+  de: |-
+    P. Questa uostra ragione mi consona assai.
+  cs: |-
+    **Převor.** Tento váš výklad se mi velmi zamlouvá.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO OTTAVO FATTO DAL Magnifico M. Bernardo Segreo.
+  cs: |-
+    Osmý dotaz, který položil urozený pan Bernardo Segreo[^1]
+- typ: odstavec
+  de: |-
+    MAGN. M. BERNARDO Qual credeti che andara piu lontano, una balla graue, ò una leggiera, tirando l'una e l'altra con una istessa artegliaria, et à una istessa elleuatione, & con equal quantita di poluere.
+  cs: |-
+    **Pan Bernardo.** Která podle vás doletí dál, koule těžká, nebo lehká, vystřelí-li se obě z téhož děla {artegliaria}, při téže elevaci {elleuatione} a se stejným množstvím prachu {poluere}?
+- typ: odstavec
+  de: |-
+    N. A questo non ui si puo dare determinata resposta, che non distingue la differentia della lor grauita, & la quantita de la poluere, perche, & la grauita della cosa, & la leuita se è uista frustare la uirtu del mouente, perche la cosa tirata puo esser di tal leuita, che à pena, ouer poco lontano dalla bocca del pezzo sara spenta, ouer tirata, & simelmente potria esser di tanta gran grauita (rispetto alla poca quantita della poluere) che seguitaria el medesimo inconueniente, e pero eglie necessario à distinguere la differentia della lor grauita, etiam di che materia sia cadauna balla, etiam la quantita della poluere, perche se l'una fusse de piombo, & l'altra di ferro, ouer di pietra, & tirandole con i dui terzi di poluere di quello pesa la balla de piombo, eglie cosa chiara (per le ragioni adutte di sopra nel primo, & terzo Quesito) che la balla di ferro, ouer di pietra andara piu lontano di quella di piombo, ma se l'una de dette balle fusse di piombo, ouer di ferro, et l'altra di legno leggiero, ouer di quel suore, che si mette nelli subri, ouer zocoli delle donne, eglie da credere che la balla graue, cioe quella di piombo, ouer di ferro (tirata con la sua poluere ordinaria) andara molto piu lontano, della balla leue (cioe di quella balla di legno leggiero, ouer di suore) tirate anchor quelle con la medesima quantita di poluere. Ma uoltando carta, che uolesse tirare una balla de piombo da lire cento con un canon da cento, & simelmente una balla di legno di quella medesima grandezza, ouer grossezza, che è quella di piombo, ma tirare l'una, e l'altra solamente con una lira, ouer due di poluere, eglie da credere in questo caso, che la balla di legno andara piu lontano di quella di piombo, la qual cosa ne auertisse qualmente eglie necessario, che tra la grauita della cosa tirata, & la uirtu della cosa mouente (ouer che spenge) ui casca una sua limitata proportione.
+  cs: |-
+    **Nicolò.** Na to nelze dát určitou odpověď, dokud se nerozliší rozdíl v jejich tíži a množství prachu. Bylo totiž vidět, že sílu hybné věci {mouente} zmaří jak tíže vystřelené věci, tak její lehkost: vystřelená věc může být tak lehká, že její pohyb ustane sotva neboli kousek od ústí děla {pezzo}, a stejně tak by mohla být tak velice těžká (vzhledem k malému množství prachu), že by nastala táž nehoda. Proto je nutné rozlišit rozdíl v jejich tíži, i z jaké hmoty je každá koule, i množství prachu. Kdyby totiž jedna byla z olova a druhá ze železa nebo z kamene a vystřelily by se s prachem ve váze dvou třetin olověné koule, je zřejmé (z důvodů uvedených výše v prvním a třetím dotazu), že železná nebo kamenná koule doletí dál než olověná. Kdyby však jedna z těch koulí byla z olova nebo ze železa a druhá z lehkého dřeva nebo z korku {suore}, který se dává do ženských střevíců {subri} neboli dřeváků {zocoli},[^2] je třeba věřit, že těžká koule, to jest olověná nebo železná (vystřelená se svou obvyklou náloží), doletí mnohem dál než lehká koule (to jest koule z lehkého dřeva nebo z korku), vystřelí-li se i ona s týmž množstvím prachu. Naopak však: kdyby někdo chtěl vystřelit olověnou kouli o sto librách {lire} ze stoliberního kanonu {canon da cento} a stejně tak dřevěnou kouli téže velikosti neboli tloušťky jako olověná, ale obě jen s jednou nebo dvěma librami prachu, je třeba v tomto případě věřit, že dřevěná koule doletí dál než olověná. To nás upozorňuje, že mezi tíží vystřelené věci a silou věci hybné (neboli té, která žene) musí být určitý omezený poměr {proportione}.
+- typ: odstavec
+  de: |-
+    M. B. Questo uostro discorso non me dispiace, & sappiati, che una uolta mi uolsi chiarire di questo dubbio, & feci far una balla, pur di mettallo, ma busa, cioe uacua di dentro, & la feci tirare, & quella ando assai meno della balla ordinaria di ferro.
+  cs: |-
+    **Pan Bernardo.** Tento váš výklad se mi docela zamlouvá, a vězte, že jsem si jednou chtěl tuto pochybnost objasnit: dal jsem udělat kouli rovněž z kovu, ale dutou, to jest uvnitř prázdnou, a dal jsem ji vystřelit, a ta doletěla mnohem blíž než obyčejná železná koule.
+poznamky:
+- n: 1
+  text: Bernardo Segreo (Segredo?) – tazatel blíže neznámý, snad příslušník benátské patricijské rodiny Sagredo; „Magnifico“ je titul benátských patricijů.
+- n: 2
+  text: Suore – benátsky korek (sughero); subri a zocoli – ženská obuv na vysoké korkové či dřevěné podešvi (benátské „chopines“, zoccoli), tehdy módní v Benátkách.

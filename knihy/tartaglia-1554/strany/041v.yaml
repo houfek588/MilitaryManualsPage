@@ -1,0 +1,69 @@
+id: 041v
+list: '41'
+strana: verso
+sken: 82
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: QVESITO OTTAVO FATTO DAL MEDESIMO Signor Priore di Barletta.
+  cs: Osmý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Hiersera uoi determinasti, che quella poluere, che contien maggior parte de salnitrio, et menor parte fra solfere e carbone (domente che tal solfere, & carbone sia sofficiente à far el suo officio) e migliore, e piu potente di qualunque altra composta della medesima sorte di salnitrio, solfere, e carbone, ma con menor parte del detto salnitrio, & maggiore fra solfere e carbone (et questo credo anchora io) ma considero, che tal regola non è generale à ogni specie di artegliaria, perche el se sa communamente che li schioppi, la uogliono piu fina delli archibusi, & li archibusi la uogliono piu fina delli moschetti, et falconetti, & li falconetti la uogliono megliore delle altre sorte de artegliarie grosse, & per tanto ue adimando sel non ui pare, che el sia necessario à limitare questa sua compositione. & finezza secondo la sorte di pezzi.
+  cs: |-
+    **Převor.** Včera večer jste stanovil, že prach {poluere}, který obsahuje větší díl ledku a menší díl síry a uhlí dohromady (pokud ovšem síra a uhlí postačují ke své úloze), je lepší a mocnější než kterýkoli jiný, složený z ledku, síry a uhlí téhož druhu, ale s menším dílem ledku a větším dílem síry a uhlí (a to si myslím i já). Uvažuji však, že toto pravidlo neplatí obecně pro každý druh děla {artegliaria}, neboť se všeobecně ví, že ručnice {schioppi} chtějí prach jemnější než arkebuzy {archibusi}, arkebuzy jemnější než muškety {moschetti}[^1] a falkonety {falconetti} a falkonety lepší než ostatní druhy velkých děl. Proto se vás ptám, zda se vám nezdá nutné vymezit jeho složení a jemnost podle druhu děl {pezzi}.
+- typ: odstavec
+  de: |-
+    N. A me non pare, che tal cosa sia necessaria, anchor che la se costumi, anzi ho una openione, che questo sia un errore assai maggiore di quello fu detto delle collobrine, & suoi canoni al.11. Quesito del.1. libro.
+  cs: |-
+    **Nicolò.** Mně se nezdá, že by to bylo nutné, ačkoli se to tak dělá; naopak jsem toho mínění, že je to chyba mnohem větší než ta, o níž byla řeč u kolubrin {collobrine} a jejich kanonů {canoni} v 11. dotazu první knihy[^2].
+- typ: odstavec
+  de: |-
+    P. Mo come uoresti uoi, che si facesse.
+  cs: |-
+    **Převor.** Jak byste tedy chtěl, aby se to dělalo?
+- typ: odstavec
+  de: |-
+    N. Al presente non uoglio cosi absolutamente dar determinata risposta à questa materia, perche la uoglio un poco considerarla meglio, et spero di farui conoscere un errore in questa cosa, el quale se ne tira drio molti altri de piu discomodita, interresso, et spesa di quello fanno le dette colobrine rispetto alli suoi canoni (come si fece conoscere sopra lo detto.11. Quesito del.1. libro.
+  cs: |-
+    **Nicolò.** Nyní vám nechci dát v této věci tak naprosto určitou odpověď, protože ji chci ještě trochu lépe uvážit; doufám však, že vám v ní ukážu chybu, která s sebou táhne mnoho dalších, s větší nevýhodou, škodou a náklady, než jaké působí zmíněné kolubriny ve srovnání se svými kanony (jak bylo ukázáno ve zmíněném 11. dotazu první knihy).
+- typ: odstavec
+  de: |-
+    P. Consideratila un poco bene perche le sono cose che importano assai à longo andare, & tal hora assai piu di quello che l'huom si pensa.
+  cs: |-
+    **Převor.** Uvažte to dobře, neboť jsou to věci, které mají časem velký význam, a někdy mnohem větší, než si člověk myslí.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO NONO FATTO DA VN HIERONIMO qual disse esser sotto capo de bombardieri nella isola de Cipri.
+  cs: Devátý dotaz, který položil jakýsi Hieronimo, jenž o sobě řekl, že je podvelitelem dělostřelců na ostrově Kypru[^3]
+- typ: odstavec
+  de: |-
+    HIERONIMO. Perche causa credeti, che se dia la grana alla poluere fina, (cioe à quella de schioppo, & de archibuso) & non alla grossa (cioe à quella delle artegliarie.
+  cs: |-
+    **Hieronimo.** Z jaké příčiny se podle vás zrní {grana} jemný prach (totiž ten pro ručnice a arkebuzy), a ne hrubý (totiž ten pro děla)?
+- typ: odstavec
+  de: |-
+    N. Io so bene, che la causa di questa tal particolarita non è da uoi ignorata, & che non me adimandati tal cosa, perche non la sappiati: ma solamente per far isperientia di me.
+  cs: |-
+    **Nicolò.** Dobře vím, že příčina této zvláštnosti vám není neznámá a že se mě na to neptáte proto, že byste ji neznal, ale jen abyste mě vyzkoušel.
+- typ: odstavec
+  de: |-
+    H. Anzi ue la adimando per saperla, & non per far isperientia di uoi: perche non solamente confesso non saper tal causa, cioe perche ragione ui se dia tal grana, ma ui giuro da real Christiano, che ho ricercato questa tal cosa da molti che fanno poluere, dico prouisionati dalla signoria per far poluere d'ogni sorte, & niuno me ne ha saputo assignar ragion alcuna, saluo quello che lauora qua in larsenale di Venetia, el quale me ha risposto, che per darui la detta grana tal poluere si fa, ouer diuenta piu gagliarda, e potente, la qual sua ragione mi consona alquanto, ma non tanto che basti, e pero son uenuto da uoi per chiarirme meglio, e per uedere se la uostra openione è simile alla sua.
+  cs: |-
+    **Hieronimo.** Naopak, ptám se vás, abych to věděl, a ne abych vás zkoušel. Nejenže přiznávám, že tu příčinu neznám, totiž z jakého důvodu se prach zrní, ale přísahám vám jako poctivý křesťan, že jsem se na to vyptával mnoha lidí, kteří dělají prach – myslím těch, které Signorie {signoria} platí, aby dělali prach všeho druhu –, a nikdo mi nedokázal uvést žádný důvod kromě onoho [mistra], který pracuje zde v benátském Arzenálu[^4]. Ten mi odpověděl, že se takový prach zrněním stává silnějším a mocnějším. Tento jeho důvod se mi trochu zamlouvá, ale ne natolik, aby to stačilo; proto jsem přišel k vám, abych si to lépe objasnil a viděl, zda je vaše mínění podobné jeho.
+- typ: odstavec
+  de: |-
+    N. Quasi che non posso credere questo, che uoi me dite, perche el mi pare quasi impossibile, che uno artista faccia alcuna cosa, senza sapere à che fine el la faccia, & massime di quelle cose, che lui fa de continuo, perche el bisogna che larte imiti la natura in questo, che tutte le cose che lei fa, la li faccia à qualche fine. Et pero
+  cs: |-
+    **Nicolò.** Skoro nemohu uvěřit tomu, co mi říkáte, protože se mi zdá téměř nemožné, aby nějaký řemeslník dělal nějakou věc, aniž by věděl, k jakému účelu ji dělá, a zvláště u věcí, které dělá neustále; umění totiž musí napodobovat přírodu v tom, že všechno, co dělá, dělá k nějakému účelu. A proto
+poznamky:
+- n: 1
+  text: Moschetto – v polovině 16. století těžká ruční palná zbraň či malé otočné dělo větší ráže než arkebuza (střílelo se z ní z podpěry nebo z hradeb).
+- n: 2
+  text: Odkaz na 11. dotaz první knihy (rovněž od převora z Barletty) – kolubriny se nabíjejí čtyřmi pětinami váhy koule prachu, kanony jen dvěma třetinami; Tartaglia tam tvrdí, že každé dělo má svou náležitou délku a přílišná délka kolubrin je chyba, kterou se pak nákladně „léčí“ větší náloží.
+- n: 3
+  text: Sotto capo de bombardieri – zástupce velitele benátských dělostřelců na Kypru, který tehdy patřil Benátkám (1489–1571). Hieronimo blíže neznámý.
+- n: 4
+  text: Arsenale – benátský státní Arzenál, loděnice a zbrojnice, kde se vyráběla i děla a střelný prach.

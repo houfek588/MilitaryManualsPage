@@ -1,0 +1,52 @@
+id: 016v
+list: '16'
+strana: verso
+sken: 32
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    qualunque altro, hor dico, che se per caso il segno che se tuol de mira sara in ponto.m.la balla dara pur di sotto dal segno, cioe daria in ponto.n.ma pur ui dara piu propinquo che in qualunque altro luoco, perche se tal segno fusse piu de la dal ponto.m.(come saria a dire in ponto.l.) ouer di qua (come saria a dire in ponto.o.) sempre dara piu basso, uero è che eglie suggetto a maggior errore di la che di qua dal detto ponto.m.(come di sotto nella figura appare.)
+  cs: |-
+    kterékoli jiné. Pravím tedy, že bude-li cíl {segno}, na který se míří, náhodou v bodě m, zasáhne koule {balla} sice pod cíl, totiž do bodu n, ale přece blíž k němu než na kterémkoli jiném místě. Kdyby totiž cíl byl za bodem m (například v bodě l) nebo před ním (například v bodě o), zasáhne vždy níž; je ovšem pravda, že za bodem m je chyba větší než před ním (jak je vidět níže na obrazci).
+- typ: odstavec
+  de: |-
+    P. Non piu che ue ho inteso benissimo, circa a questa parte.
+  cs: |-
+    **Převor.** Dost, v této části jsem vám porozuměl výborně.
+- typ: obrazek
+  soubor: drevorez-32.jpg
+  popis: Dělo na lafetě s mířidly C (zadní) a D (přední, jen o málo nižší) a ústím H. Zorná čára (nápis LINEA VISVALE – zorná čára) vede od C přes D vpravo nad dráhou koule a nikde se jí nedotkne. Na tyčích stojí terče v bodech O (blízko u děla), M (místo, kde je zorná čára dráze nejblíž) a L (vpravo v dálce); pod nimi jsou na dráze koule vyznačeny body I, N a K.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO NONO FATTO DAL medesimo. S. Prior di Barletta.
+  cs: |-
+    Devátý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Hor seguitati la ultima parte di questa proposta materia, cioe quando che la mira dauanti hauera la sua conueniente cortezza, ouer bassezza rispetto a quella de drio.
+  cs: |-
+    **Převor.** Pokračujte nyní poslední částí této předložené látky, totiž kdy bude mít přední mířidlo {mira dauanti} vůči zadnímu {mira de drio} náležitou krátkost čili nízkost.
+- typ: odstavec
+  de: |-
+    N. Quando che la mira dauanti sara talmente piu scarsetta, ouer piu bassa di quella de drio, che la nostra linea uisuale che transira per le istremita delle ponte di quelle, nel tuor la mira delle cose, uada solamente a toccare, e non segare il transito, ouer uiaggio qual debbe far la balla (come nella sottoscritta figura appare in ponto.m.) & tutta la distantia che sara dalla bocca de tal pezzo al ponto de tal toccamento che nella sottoscritta figura saria la linea.h.m.tanto se potra dire con ragione, che tal pezzo tiri de mira, perche se per caso il segno che se tuol de mira se trouara à essere nel ponto di tal toccamento, la balla dara precisamente in brocca, ma essendo fuora di tal toccamento, cioe fuora del ponto.m.la balla sempre dara alquanto di sotto di tal segno, cioe di sotto dalla brocca di quello, & tanto piu quanto piu sara remoto il detto segno dal detto ponto del toccamento.o. sia de là, ouer de quà da quello. Vero è, che essendo de quà, cioe uerso il pezzo, tal balla non puo dar molto bassa, perche tal bassezza mai se puo agguagliare alla altezza della mira de drio, che puo essere circa alla mita della grossezza del pezzo nella culatta de drio (come fu detto anchora in fine del Settimo quesito) e pero in tal caso se è suggetto à poco errore in rispetto à quello che potria occorrer quando che il segno fusse de la dal ponto del detto toccamento, come ogni commun intelletto puo considerare.
+  cs: |-
+    **Nicolò.** Když bude přední mířidlo o tolik kratší čili nižší než zadní, že se naše zorná čára {linea uisuale}, vedoucí přes vrcholy jejich hrotů, při zaměřování věcí dráhy {transito} čili cesty koule jen dotkne, a neprotne ji (jak je vidět níže na obrazci v bodě m), pak o celé vzdálenosti od ústí toho děla {pezzo} k bodu tohoto dotyku, kterou by na níže nakresleném obrazci byla čára h m, lze právem říci, že na ni dělo střílí podle mířidel {tiri de mira}.[^1] Bude-li se totiž cíl, na který se míří, náhodou nacházet v bodě tohoto dotyku, koule zasáhne přesně do středu {in brocca}; bude-li však mimo tento dotyk, totiž mimo bod m, zasáhne koule vždy poněkud pod cíl, totiž pod jeho střed, a to tím víc, čím dál bude cíl od bodu dotyku, ať už za ním, nebo před ním.[^2] Je ovšem pravda, že je-li před ním, totiž směrem k dělu, nemůže koule zasáhnout o mnoho níž, protože tato nízkost se nikdy nemůže vyrovnat výšce zadního mířidla, která může činit asi polovinu tloušťky děla na zadním závěru {culatta} (jak bylo řečeno také na konci sedmého dotazu). A proto v takovém případě hrozí jen malá chyba ve srovnání s tou, k níž by mohlo dojít, kdyby cíl byl za bodem onoho dotyku, jak může uvážit každý obyčejný rozum.
+- typ: odstavec
+  de: |-
+    P. Perche uoleti cosi attribuire alla distantia del sopradetto ponto del toccamento che sia il tirar de mira di tal pezzo, et non alla distantia del ponto della intersecatione, nel quale essendoui il segno, la balla da medesimamente in brocca, si come fa nel ponto del toccamento, come fu dimostrato nel Settimo quesito.
+  cs: |-
+    **Převor.** Proč tedy chcete za dostřel podle mířidel {tirar de mira} toho děla pokládat vzdálenost k výše řečenému bodu dotyku, a ne vzdálenost k bodu průsečíku, v němž koule, je-li tam cíl, rovněž zasáhne do středu stejně jako v bodě dotyku, jak bylo ukázáno v sedmém dotazu?
+- typ: odstavec
+  de: |-
+    N. Perche il ponto della intersecatione non ha luoco determinato,
+  cs: |-
+    **Nicolò.** Protože bod průsečíku nemá určené místo,
+poznamky:
+- n: 1
+  text: Tirar de mira – střílet „podle mířidel“, tj. s hlavní zamířenou přes obě mířidla přímo na cíl; vzdálenost, na kterou dělo takto zasahuje střed terče, je jeho dostřel podle mířidel (něm. Visierschuss). Tartaglia ji zde definuje jako vzdálenost k bodu, kde se zorná čára dráhy koule jen dotkne.
+- n: 2
+  text: V tisku „toccamento.o. sia de là, ouer de quà“ – písmeno o je zde spojka „o sia“ (ať už), sazeč je však oddělil tečkami jako písmeno bodu obrazce.

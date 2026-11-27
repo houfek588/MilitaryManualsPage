@@ -1,0 +1,62 @@
+id: 037r
+list: '37'
+strana: recto
+sken: 73
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: LIBRO TERZO DELLI QVESITI ET INVENTIONI DIVERSE, DE NICOLO TARTAGLIA.
+  cs: Třetí kniha Rozličných otázek a vynálezů Niccola Tartaglii
+- typ: odstavec
+  de: |-
+    Sopra del Salnitrio, & delle uarie compositioni della poluere delle artegliarie, & della proprietà, ouer particular officio, che ha cadauno di suoi tre materiali in tal compositione, & altre particolarita.
+  cs: |-
+    O ledku {Salnitrio}, o různých složeních prachu pro děla {poluere delle artegliarie}, o vlastnosti čili zvláštní úloze, kterou má v tomto složení každá z jeho tří přísad, a o jiných podrobnostech.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO PRIMO FATTO DAL SIGNOR Gabriel Tadino Priore di Barletta.
+  cs: První dotaz, který položil pan Gabriel Tadino, převor z Barletty[^1]
+- typ: odstavec
+  de: |-
+    PRIORE. Non è da marauigliarsi, che gli autiqui non hauessero notitia del salnitrio, qual à noi moderni è fatto tanto famigliare.
+  cs: |-
+    **Převor.** Není divu, že staří[^2] neznali ledek, který je nám dnešním tak důvěrně znám.
+- typ: odstavec
+  de: |-
+    N. Anzi la notitia di tal simplice è antiquissima, perche el si uede tutti li antiqui Physici, ouer naturali farne mentione, uero è che alcuni (& massime Auicenna) l'hanno chiamata, Baurach, perche cosi in lingua Arabica è nominato, & alcuni altri gli dicono, Afronitrum, perche da Greci cosi è detto, & altri poi (& massime Serapione, Diascoride, & Plinio) lo chiamano Nitro, ouer spuma nitri, perche in lingua Latina cosi è nominato, & nelle Pandete se afferma le specie del nitro, ouer salnitri, esser due, cioe minerale, & artificiale, & del minerale, dicono esseruen di.4. sorte, cioe Armeno, Affricano, Romano, & Egyptio. Et Serapione dice, che le minere del salnitrio, sono come le minere de sali, perche di quello se ne troua, che sono acque scorrente, le quale acque se congellano, et si condensano quasi come pietra, & questo medesimo afferma Plinio, & se ne troua anchora, che nella sua minera è come pietra, & chiamasi sal petroso, anchor dice, che di questo salnitrio se ne troua de bianco, de rosso, & de molti colori, & per tanto afferma le specie di quello esser molte, non solamente per la diuersita del colore, ma perche ui se ne troua prima una specie, che è molto spongoso, cioe pieno de forami, & un'altra poi che uiene in lamine frangibile, & de molte altre qualita, che longo saria à starle à narrare à una per una: delle quale una è piu mordente, & potente dell'altra, del Artificiale poi non accade à parlarne, per esser à questi tempi piu cognito, che la herba Betonica.
+  cs: |-
+    **Nicolò.** Naopak, znalost této jednoduché látky {simplice} je převelice stará, neboť vidíme, že se o ní zmiňují všichni staří lékaři {Physici} čili přírodovědci[^3]. Je ovšem pravda, že někteří (a zvláště Avicenna) ji nazvali baurach, protože tak se jmenuje v arabštině, jiní jí říkají afronitrum, protože tak se nazývá u Řeků, a další (a zvláště Serapion, Dioskúridés a Plinius) jej jmenují nitrum neboli spuma nitri, protože tak se nazývá latinsky. V Pandektách[^4] se tvrdí, že druhy nitra čili ledku jsou dva, totiž přírodní {minerale} a umělý, a o přírodním se praví, že je ho čtvero druhů: arménský, africký, římský a egyptský. Serapion praví, že naleziště ledku jsou jako naleziště solí, neboť se nachází i v podobě tekoucích vod, které tuhnou a houstnou skoro jako kámen, a totéž tvrdí Plinius; nachází se ho také tak, že je ve svém nalezišti jako kámen, a nazývá se „kamenná sůl“ {sal petroso}[^6]. Dále praví, že tohoto ledku se nachází bílý, červený i mnoha jiných barev, a proto tvrdí, že jeho druhů je mnoho, nejen podle rozdílnosti barvy, ale i proto, že se nachází jednak druh velmi houbovitý, to jest plný dírek, jednak jiný, který se láme v lupenech, a ještě mnoha jiných vlastností, které by bylo zdlouhavé vypočítávat jednu po druhé; přičemž jeden je ostřejší a silnější než jiný. O umělém pak netřeba mluvit, protože je v dnešní době známější než bylina bukvice[^5].
+- typ: odstavec
+  de: |-
+    P. Certo credeua che la notitia sua fusse moderna.
+  cs: |-
+    **Převor.** Opravdu jsem se domníval, že se o něm ví teprve odnedávna.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SECONDO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: Druhý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Ditime un poco, se gli antiqui hebbero cognitione del salnitrio si del naturale, come del artificiale (come di sopra haueti approuato) per autorita de antiqui Physici, hebbero poi notitia che quello ardesse abbrusasse cosi uigorosamente come fa.
+  cs: |-
+    **Převor.** Řekněte mi ještě: jestliže staří znali ledek přírodní i umělý (jak jste výše doložil autoritou starých lékařů), věděli pak také, že tak prudce hoří a pálí, jako to činí?
+- typ: odstavec
+  de: |-
+    N. Certamente li sopradetti antiqui naturali non fanuo mentione,
+  cs: |-
+    **Nicolò.** Zmínění staří přírodovědci se ovšem nezmiňují
+poznamky:
+- n: 1
+  text: Gabriele Tadino da Martinengo (asi 1480–1543), vojenský inženýr a dělostřelec, převor johanitů v Barlettě, obránce Rhodu (1522) a generál dělostřelectva Karla V.; s Tartagliou vede celou třetí knihu.
+- n: 2
+  text: V tisku chybou „autiqui“ místo „antiqui“; podobně níže „fanuo“ místo „fanno“ (převrácené n/u).
+- n: 3
+  text: Physici, ouer naturali – lékaři a přírodovědci, autoři spisů o léčivých látkách. Antické „nitrum“ (řec. nitron, afronitron = „pěna nitra“) byl ve skutečnosti natron (soda), ne ledek; ztotožnění obou bylo v 16. století běžné.
+- n: 4
+  text: Pandette – Pandectae medicinae Mattea Silvatica (14. stol.), středověký lékařský slovník léčivých látek. Serapion – Serapion mladší, arabský autor spisu o jednoduchých lécích, známého v latinském překladu.
+- n: 5
+  text: Betonica – bukvice lékařská (Betonica officinalis), všeobecně známá léčivka; italské pořekadlo „conosciuto più che la betonica“ = známý jako falešný groš.
+- n: 6
+  text: Sal petroso (lat. sal petrae, „skalní sůl“) – z tohoto názvu pochází ital. salnitro / něm. Salpeter; nejde o kamennou sůl (halit) v dnešním smyslu.

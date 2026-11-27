@@ -1,0 +1,68 @@
+id: 012v
+list: '12'
+strana: verso
+sken: 24
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    supponeremo in forma del perpendicolo.c.il qual perpendicolo, ouer grauita.c.in ogni uerso sempre ua tirando la detta balla uerso il centro del mondo, cioe perpendicolarmente uerso terra, onde argumentando, come nel tiro aliuellato fu fatto, sara manifesto qualmente in nullo altro uerso che nelli dui sopra detti, la balla tirata da detta colobrina, ouer d'altro pezzo, non puo andare alcuna minima parte del suo moto per linea perfettamente retta, che è il proposito.
+  cs: |-
+    si představíme v podobě olovnice {perpendicolo} c. Tato olovnice čili tíha c v každém směru neustále táhne uvedenou kouli {balla} ke středu světa, totiž kolmo k zemi. Budeme-li tedy dokazovat tak, jak jsme to učinili u vodorovného výstřelu {tiro aliuellato}, bude zřejmé, že v žádném jiném směru než ve dvou výše řečených nemůže koule vystřelená z uvedené kolubriny {colobrina} nebo z jiného děla {pezzo} urazit ani sebemenší část svého pohybu po dokonale přímé čáře, což bylo dokázati.
+- typ: odstavec
+  de: |-
+    S. D. Voi haueti ben difesa la uostra ragione, & questo basta per hoggi, come sia ritornato da Pesaro uoro che si faccia la isperientia di queste uostre inuentioni.
+  cs: |-
+    **Pan vévoda.** Svůj názor jste dobře obhájil, a to pro dnešek stačí. Až se vrátím z Pesara,[^1] chci, aby se tyto vaše vynálezy vyzkoušely v praxi.
+- typ: obrazek
+  soubor: drevorez-24.jpg
+  popis: Obrazec k důkazu, že tíha koule táhne kouli vždy kolmo k zemi. Z bodu A (ústí děla) na levé straně vycházejí paprsky k sedmi koulím B rozloženým po půlkruhu od svislice vzhůru přes vodorovnou polohu až po svislici dolů; od každé koule visí svisle dolů olovnice C, znázorňující tíhu koule. Jen u koule nahoře a dole leží olovnice ve směru výstřelu, ve všech ostatních polohách s ním svírá úhel.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO QVARTO FATTO DAL SIGNOR Gabriel Tadino da Martinengo Cauallier de Rodi, & Prior di Barletta.
+  cs: |-
+    Čtvrtý dotaz, který položil pan Gabriel Tadino z Martinenga, rytíř rhodský a převor z Barletty[^2]
+- typ: odstavec
+  de: |-
+    PRIORE. Tirando un pezzo di artegliaria due uolte l'una drieto a l'altra, a una medesima elleuatione, & uerso uno medesimo luoco, et cargato sempre egualmente, domando se questi dui tiri saranno eguali.
+  cs: |-
+    **Převor.** Když se z děla {pezzo di artegliaria} vystřelí dvakrát po sobě při téže elevaci {elleuatione}, na totéž místo a pokaždé se stejným nábojem, ptám se, zda budou ty dva výstřely stejné.
+- typ: odstavec
+  de: |-
+    N. Senza dubbio saranno in eguali, perche tirara piu lontano alla seconda uolta che alla prima.
+  cs: |-
+    **Nicolò.** Bez pochyby budou nestejné, neboť podruhé dostřelí dál než poprvé.
+- typ: odstavec
+  de: |-
+    P. Perche ragione.
+  cs: |-
+    **Převor.** Z jakého důvodu?
+- typ: odstavec
+  de: |-
+    N. Per due ragioni, la prima è questa, che al primo tiro la balla ritrouara l'aere quieto, et nel secondo lo ritrouara non solamente tutto commosso dalla balla tirata dal primo tiro, ma anchora molto tendente, ouer scorrente uerso al luoco doue se tira. Et perche eglie piu facile a mouere etiam a penetrare una cosa gia commossa & penetrata, che una che stia riposata & quieta. Seguita che la balla tirata alla seconda uolta (per ritrouare men ostacolo nel suo moto della prima) andara molto piu lontano di quella tirata alla prima uolta. La seconda ragione è questa, che al primo tiro la poluere posta nel pezzo, spesse uolte ritroua la canna alquanto humida, massime quando che quel tal pezzo non fusse stato tirato gia alquanti giorni, per la qual cosa, la detta poluere non brusara cosi presto, come faria trouando tal luoco arido, & alquanto caldo d'una calidita temperata: la qual calidita fuga alquanto la poluere de ogni humidita che in lei fusse: ilche la fa piu presta, e potente nell'abbrusiare, & per tanto non operara cosi uigorosamente nel primo tiro, come fara nel secondo, siche anchora per questa seconda ragione alla seconda uolta douera tirar piu lontano che alla prima.
+  cs: |-
+    **Nicolò.** Ze dvou důvodů. První je tento: při prvním výstřelu najde koule vzduch v klidu, kdežto při druhém jej najde nejen celý rozvířený koulí vystřelenou prvním výstřelem, ale navíc silně tíhnoucí čili proudící k místu, kam se střílí. A protože je snazší pohnout věcí, která je už v pohybu a proražená, a také jí proniknout, než věcí, která je v klidu a nehybná, plyne z toho, že koule vystřelená podruhé (protože ve svém pohybu najde menší překážku než první) doletí mnohem dál než ta, která byla vystřelena poprvé. Druhý důvod je tento: při prvním výstřelu najde střelný prach {poluere} vložený do děla hlaveň {canna} často poněkud vlhkou, zvláště když se z toho děla už několik dní nestřílelo; proto prach nevzplane tak rychle, jako by vzplanul, kdyby to místo našel suché a poněkud teplé mírným teplem. Takové teplo totiž z prachu poněkud vyžene všechnu vlhkost, kterou by v sobě měl, a to jej činí rychlejším a mocnějším při hoření; při prvním výstřelu tedy nebude působit tak silně jako při druhém. I z tohoto druhého důvodu tedy musí dělo podruhé dostřelit dál než poprvé.
+- typ: odstavec
+  de: |-
+    P. Queste uostre ragioni molto mi piaceno, & uoglio che basti per questa sera.
+  cs: |-
+    **Převor.** Tyto vaše důvody se mi velmi líbí; a pro dnešní večer to stačí.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO QVINTO FATTO DAL medesimo. Sig. Prior di Barletta.
+  cs: |-
+    Pátý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Hiersera uoi concludesti, & con buone ragioni naturali approuasti, che tirando un pezzo due uolte l'una drieto l'altra a una medesima elleuatione, & uerso uno medesimo luoco, & etiam egualmente cargato, molto piu tirara la seconda uolta, che la prima, hor ue adimando, che continuasse per longo tempo a
+  cs: |-
+    **Převor.** Včera večer jste dospěl k závěru a dobrými přírodními důvody jste dokázal, že když se z děla vystřelí dvakrát po sobě při téže elevaci, na totéž místo a také se stejným nábojem, dostřelí podruhé mnohem dál než poprvé. Nyní se vás ptám: kdyby se z toho děla dlouhou dobu nepřetržitě
+poznamky:
+- n: 1
+  text: Pesaro – přímořské sídlo urbinských vévodů. Rozhovory s vévodou Francescem Mariou I. della Rovere se podle nadpisu prvního dotazu konaly v Benátkách roku 1538; vévoda v témž roce zemřel, takže slibovaná zkouška se už neuskutečnila.
+- n: 2
+  text: Gabriele Tadino da Martinengo (asi 1480–1543), vojenský inženýr z Martinenga u Bergama, rytíř johanitského řádu (rytíři z Rhodu), proslulý obranou Rhodu proti Turkům roku 1522; poté převor řádového převorství v Barlettě (Apulie) a ve službách Karla V. velitel císařského dělostřelectva. S ním vede Tartaglia dotazy IV–XVII první knihy.

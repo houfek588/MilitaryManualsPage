@@ -1,0 +1,40 @@
+id: 004v
+list: '4'
+strana: verso
+sken: 28
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE PERTINENTIE AD GOVERNARE VNA TERRA. Capitolo. V.
+  cs: |-
+    O tom, co náleží ke správě města. Kapitola V.
+- typ: odstavec
+  de: |-
+    ET piu e de necessario chel Capitan uada doi, o tre uolte fuora della terra intorno, & uedere, & spiculare doue lo inimico lo potrebbe offendere si nello scalare, come a trahere artellarie per ammazare gli huomini, uerbi gratia, si gli fosse alcuno passo, o uero stretta pratticabile, & questo uederlo piu, & piu uolte di dentro & di fuora, o altri modi utili al bisogno, E da notare, che chi non sa defendere non sa offendere. E bisogna attendere ad fortificare in reparare, bastioni, & caualleti & meze lunette, & torrete con casematte con soe candonere che batteno per fianchi, & per cantone secondo il luocho, & iudicio de buon guerriero, & sapere mettere legnami ad tanti palmi luno secondo la larghezza del bastione, & de modo tale che uengano le chiaue al proposito del suo Calare, & che non si sconzi alcuno legno, o uero candonera, cossi facendo le cose bene secondo larte, & ragione li sera utile honore & gloria.
+  cs: |-
+    Dále je nutné, aby kapitán {Capitan} dvakrát nebo třikrát vyšel z města {terra}[^1] a obešel je dokola a prohlédl a prozkoumal, kde by ho nepřítel mohl napadnout, ať už zlézáním hradeb {scalare}, nebo přitažením děl {artellarie}, jimiž by zabíjel muže – například je-li tam nějaký průchod nebo schůdná úžina; a to si má prohlédnout znovu a znovu zevnitř i zvenčí, anebo [hledat] jiné způsoby, jichž by bylo v nouzi třeba. Je třeba si uvědomit, že kdo neumí bránit, neumí ani útočit. A je třeba dbát o opevňování: o zahrazování {reparare}, o bašty {bastioni}, kavalírky {caualleti}[^2] a půlměsíčky {meze lunette} a o věžičky {torrete} s kasematami {casematte} a jejich střílnami {candonere}, které střílejí do boků {fianchi} a z rohu {cantone}, podle místa a podle úsudku dobrého válečníka. A [kapitán má] umět klást trámy {legnami} po tolika a tolika pídích {palmi}[^3] od sebe podle šířky bašty, a to tak, aby kotvy {chiaue} vycházely podle jejího sklonu {Calare}[^4] a aby se žádné dřevo ani střílna neporušily. Bude-li dělat věci dobře podle umění a rozumu, bude mu to k užitku, ke cti a ke slávě.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE FORTIFICARE VNA TERRA Capitolo. VI.
+  cs: |-
+    O opevnění města. Kapitola VI.
+- typ: odstavec
+  de: |-
+    QVando mancasseno le fascine per reparare bisogna fare de molti gabioni tondi a modo de botte aperti sotto, & sopra & drizando in piede, & metterli doue e il bisogno, e impirli di terra, & calcarli ben forte, & questi gabioni sono molto utili, & mettendoli uno poco larghetti luno da laltro
+  cs: |-
+    Kdyby chyběly fašiny {fascine} k zahrazování, je třeba udělat mnoho kulatých košů {gabioni}[^5] na způsob sudu, otevřených dole i nahoře, postavit je nastojato a umístit tam, kde je jich potřeba, naplnit je zemí a velmi pevně udusat. Tyto koše jsou velmi užitečné, a když se postaví trochu od sebe
+poznamky:
+- n: 1
+  text: Terra – v textu Della Vally obvykle opevněné místo, město nebo hrad, které kapitán hájí; překládáno „město“.
+- n: 2
+  text: Cavalletto – malý kavalír, vyvýšené dělové stanoviště (srv. heslo kavalír); mezza lunetta – menší polokruhové předsunuté dílo.
+- n: 3
+  text: Palmo – stará italská délková míra (neapolský palmo asi 26,4 cm, římský asi 22,3 cm), zde překládáno „píď“.
+- n: 4
+  text: Sporné místo. Chiave (klíč) je ve stavitelství kotva či spona, která spojuje trámy výztuže; „calare“ chápeme jako sklon (svah) stěny bašty, k němuž mají kotvy odpovídat. Della Valle popisuje dřevěnou výztuž hliněné bašty.
+- n: 5
+  text: Gabbione – koš (gabion) proplétaný z proutí, plněný zemí; sloužil jako rychlá ochrana děl a mužů.

@@ -1,0 +1,54 @@
+id: 013v
+list: '13'
+strana: verso
+sken: 26
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    andare uien à restar superiore alli detti dui primi, et per questo à longo andar tal pezzo uien à tirare molto manco del solito.
+  cs: |-
+    nakonec převáží nad oběma prvními, a proto dělo {pezzo} nakonec dostřelí mnohem méně než obvykle.
+- typ: odstavec
+  de: |-
+    P. Mo chi reffreddasse tal pezzo, con acqua (cioè gettandoui dell'acqua nella canna) non credeti chel tiraraue piu uerso il medesimo luoco.
+  cs: |-
+    **Převor.** A kdyby se takové dělo ochladilo vodou (totiž nalitím vody do hlavně {canna}), nemyslíte, že by na totéž místo dostřelilo dál?
+- typ: odstavec
+  de: |-
+    N. Senza dubio che tiraraue piu, quando che tal pezzo restasse perfettamente fredo, & asciuto, ma raffredandolo cosi con acqua, el metallo che è caldo, sorbe di quella acqua, & sorbendola la risolue in uapore aereo, el qual uapore non potendo stare nella canna è sforzato à uscir di quella pian piano, el qual uapore, quando chel non portasse con seco alcuna humidita, & chel pezzo restasse di dentro ben asciuto, tal uapore doueria piu presto augumentar il tiro in tal pezzo, che scemarlo: perche de attrattiuo, che era tal pezzo, per lo continuo uscire di tal uapore saria fatto espulsiuo, ma perche tal uapore è tutto humidità, onde recargando tal pezzo, quantunque para asciuto nel metterui la poluere, el non puo essere che tal uapore humido, non humidisca alquanto la poluere, per il che non fara tanto uigoroso il suo effetto, quanto faria se tal pezzo si lassasse raffredare per se stesso senza metterui acqua.
+  cs: |-
+    **Nicolò.** Bezpochyby by dostřelilo dál, kdyby dělo zůstalo dokonale studené a suché. Když se však takto chladí vodou, rozpálený kov tu vodu vsákne a vsáknutou ji rozkládá ve vzdušnou páru {uapore}; tato pára se v hlavni nemůže udržet a musí z ní pomalu vycházet. Kdyby ta pára s sebou nenesla žádnou vlhkost a dělo by zůstalo uvnitř dobře suché, měla by pára dostřel {tiro} toho děla spíše zvětšit než zmenšit, protože by se dělo z dosud sacího stalo neustálým vycházením páry vypuzujícím. Ale protože je ta pára samá vlhkost, nemůže se stát, aby při novém nabíjení děla, i když se zdá při vkládání prachu {poluere} suché, vlhká pára prach poněkud nenavlhčila; proto nebude jeho účinek tak silný, jako by byl, kdyby se dělo nechalo vychladnout samo bez vody.
+- typ: odstavec
+  de: |-
+    P. Voi me haueti molto satisfatto questa sera, ma per esser hora tarda, uoglio, che questo basti.
+  cs: |-
+    **Převor.** Dnes večer jste mě velmi uspokojil, ale protože je už pozdě, ať to stačí.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO SESTO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: |-
+    Šestý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Qual è la causa, che dandosi piu quantita di poluere del solito à un pezzo di artegliaria quella percuottera piu alto del segno, doue che prima con men poluere ui tiraua rettamente de mira.
+  cs: |-
+    **Převor.** Jaká je příčina, že když se dá dělu {pezzo di artegliaria} větší množství prachu než obvykle, zasáhne výše nad cíl {segno}, na který předtím s menším množstvím prachu střílelo přesně podle mířidel {de mira}?
+- typ: odstavec
+  de: |-
+    N. Questo procede, che il moto, ouero transito di tal balla tirata con piu poluere, è manco curuo, che quel di quella tirata con men poluere, & la differentia di queste due curuita piu se dimostra, ouer che piu si fa apparente nel fin del moto, che in ogni altro luoco, pero che quel transito, ouer moto, che è men curuo, sempre se istende, & procede di sopra à quello, che è piu curuo, & quanto piu è longo el tiro, tanto piu la percussione del men curuo sara piu alta di quella del piu curuo, perche il transito, ouer moto men curuo piu si accosta al transito, ouero moto retto, di quello che fa lo piu curuo, & perche el tramito, ouer transito retto, cioe quello, che se istende rettamente secondo la rettitudine della canna del pezzo in qual si uoglia uerso, è sempre superiore à tutti li moti, ouer transiti obliqui di qual si uoglia balla, che uiolentemente uscisca di quel pezzo in qual si uoglia uerso. E pero quel moto, ouer transito, che piu si accosta al detto retto, sempre uien à esser superiore à quello, che men ui si accosta, & perche la balla tirata con piu poluere uscisse, & ua piu ueloce di quella tirata con men poluere, e pero fa el moto suo piu retto, ouer men curuo di l'altra, e per tanto la sua percussione è superiore à quella di l'altra.
+  cs: |-
+    **Nicolò.** To pochází odtud, že pohyb čili dráha {transito} koule {balla} vystřelené s větším množstvím prachu je méně zakřivená než dráha koule vystřelené s menším množstvím, a rozdíl obou těchto zakřivení se nejvíce projevuje čili je nejzřetelnější na konci pohybu, víc než kdekoli jinde. Dráha čili pohyb, který je méně zakřivený, se totiž vždy táhne a postupuje nad tím, který je zakřivenější, a čím delší je dostřel, tím výše bude zásah méně zakřivené dráhy nad zásahem zakřivenější; neboť méně zakřivená dráha čili pohyb se víc blíží dráze čili pohybu přímému než dráha zakřivenější. A přímá cesta {tramito} čili dráha, totiž ta, která se táhne přímo ve směru hlavně děla, ať je namířeno kamkoli, je vždy výše než všechny šikmé pohyby čili dráhy jakékoli koule, která z toho děla násilně vyletí v jakémkoli směru. A proto pohyb čili dráha, která se víc blíží oné přímé, je vždy výše než ta, která se jí blíží méně. A protože koule vystřelená s větším množstvím prachu vylétá a letí rychleji než koule vystřelená s menším, činí svůj pohyb přímějším čili méně zakřiveným než ta druhá, a proto i její zásah {percussione} je výše než zásah té druhé.
+- typ: odstavec
+  de: |-
+    P. Io non bene intendo questo che uoi diceti, che el tiro fatto con piu poluere ua men curuo di quello fatto con men poluere. Non uoleti uoi, che una balla tirata con un pezzo cargato con la sua debita, & consueta misura di poluere uada rettamente al luoco, ouer segno tolto de mira, in una mediocre distantia.
+  cs: |-
+    **Převor.** Dobře nerozumím tomu, co říkáte, že výstřel s větším množstvím prachu letí méně zakřiveně než výstřel s menším. Nechcete snad připustit, že koule vystřelená z děla nabitého náležitou a obvyklou mírou prachu letí na střední vzdálenost přímo na místo čili cíl, na který se zamířilo?
+- typ: odstavec
+  de: |-
+    N. Anci questo il nego, cioe, che tal balla uada per linea retta al segno tolto de mira, & questo medemo passo fu da me disputato un'altra uolta auanti della buona memoria della Eccellentia del Duca di
+  cs: |-
+    **Nicolò.** Naopak, to popírám, totiž že by taková koule letěla po přímé čáře na zamířený cíl. A právě o této věci jsem už jednou disputoval před Jeho Excelencí, vévodou z

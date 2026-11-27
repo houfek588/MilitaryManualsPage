@@ -1,0 +1,46 @@
+id: 005r
+list: '5'
+strana: recto
+sken: 9
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    IL PRIMO LIBRO DELLI QVESITI, ET INVENTIONI DIVERSE DE NICOLO TARTAGLIA, SOPRA GLI TIRI DELLE ARTIGLIERIE, ET ALTRI SVOI VARII ACCIDENTI.
+  cs: |-
+    První kniha Rozličných otázek a vynálezů Niccola Tartaglii, o střelbě z dělostřelectva a o jiných jejích rozličných příhodách
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO PRIMO FATTO DALL'ILLVSTRISS. Signor Francesco Maria Duca Eccellentissimo di Vrbino. L'Anno. M. D. XXXVIII. IN VENETIA.
+  cs: |-
+    První dotaz {Quesito}, který položil nejosvícenější pan Francesco Maria, nejvznešenější vévoda z Urbina, roku MDXXXVIII v Benátkách
+- typ: odstavec
+  de: |-
+    DVCA. Che ragioni sono quelle che dicete hauer trouato, nel uostro libro à me intitolato, sopra al tirare delle artiglierie.
+  cs: |-
+    **Pan vévoda.** Jaké jsou ty zákonitosti {ragioni}, o nichž říkáte, že jste je nalezl ve své knize, kterou jste mi připsal, o střelbě z děl {artiglierie}?[^1]
+- typ: odstavec
+  de: |-
+    NICOLO. La proportione, & ordine de i tiri lontani, & propinqui di qual si uoglia pezzo, & con qual si uoglia sorte di balla.
+  cs: |-
+    **Nicolò.** Proporci {proportione} a řád dalekých i blízkých dostřelů {tiri} kteréhokoli děla {pezzo} a s jakýmkoli druhem koule {balla}.
+- typ: odstavec
+  de: |-
+    S. D. Io non u'intendo, parlatemi piu chiaro, & datemi un'essempio.
+  cs: |-
+    **Pan vévoda.** Nerozumím vám, mluvte jasněji a dejte mi příklad.
+- typ: odstavec
+  de: |-
+    N. Volendo essemplificar questa nostra inuentione à uostra Eccellentia, sono astretto à parlar prima di quello istrumento materiale, da noi ritrouato, figurato nel principio del detto nostro libretto à quella intitolato: il qual istrumento è una squadra di legno, ouer di alcun mettallo fatta con diligentia, alla similitudine della sotto scritta figura .b.a.c. la quale ha interchiuso uno quadrante, cioè una quarta parte di un cerchio, alla similiudine della figura .h.i.g.k. la qual figura, ouer quadrante .h.i.g.k. si descriue con un compasso sopra il centro .h. cioè ponendo il pede immobile del detto compasso, in el detto ponto .h. (angolo intrinsico di tal squadra, & l'altro piede mobile girandolo per .i.g.k. formando il detto lato curuo .i.g.k. del detto quadrante, & dapoi restringere alquanto el detto compasso, & descriuere un'altra linea curua, equidistante alla prima, quale sia la linea .e.f. et tutto quel spatio, che è fra queste due linee curue, cioè fra el lato curuo .i.g.k. et la curua .e.f. uuol esser diuiso, prima in dodici parte equali, le quai diuisioni uogliono esser tirate con una rega, che uenga dal ponto .h. (centro del quadrante) à ciascheduna di dette diuisioni, accioche ciascheduna diuisione risguardi il detto centro .h. come in la figura appare, & queste dodici parte le chiameremo ponti.
+  cs: |-
+    **Nicolò.** Chci-li Vaší Excelenci tento náš vynález objasnit na příkladu, musím nejprve promluvit o onom hmotném nástroji, který jsme vynalezli a který je vyobrazen na začátku zmíněné naší knížky, Vám připsané. Tím nástrojem je kvadrant {squadra}[^2] ze dřeva nebo z nějakého kovu, pečlivě zhotovený podle níže nakresleného obrazce b a c, který v sobě uzavírá čtvrtkruh {quadrante}, tj. čtvrtou část kruhu, podle obrazce h i g k. Tento obrazec čili čtvrtkruh h i g k se opíše kružítkem {compasso} kolem středu h, totiž tak, že se nepohyblivá noha kružítka postaví do zmíněného bodu h (vnitřního úhlu toho kvadrantu) a druhou, pohyblivou nohou se otáčí přes i g k, čímž vznikne zmíněná oblá strana i g k čtvrtkruhu; potom se kružítko poněkud sevře a opíše se jiná křivka, souběžná s první, totiž čára e f. Celý prostor mezi těmito dvěma křivkami, tj. mezi oblou stranou i g k a křivkou e f, se má rozdělit nejprve na dvanáct stejných dílů; dělicí čáry se mají vést podle pravítka z bodu h (středu čtvrtkruhu) ke každému dílku, aby každé dělení směřovalo do zmíněného středu h, jak je vidět na obrazci. Těchto dvanáct dílů budeme nazývat body {ponti}.
+poznamky:
+- n: 1
+  text: |-
+    Kniha připsaná vévodovi je Tartagliova Nova scientia (Benátky 1537). „Ragioni“ zde znamená pravidla a zákonitosti, které autor nalezl.
+- n: 2
+  text: |-
+    „Squadra“ je doslova úhelník (dvě ramena v pravém úhlu, z nichž delší se vkládá do hlavně); vepsaný „quadrante“ (čtvrtkruh se stupnicí) je přeložen jako čtvrtkruh, aby se odlišil od celého přístroje. Závorka za „angolo intrinsico di tal squadra“ není v tisku uzavřena; „similiudine“ je tisková chyba za „similitudine“.

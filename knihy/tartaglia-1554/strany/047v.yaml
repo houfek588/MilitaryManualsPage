@@ -1,0 +1,50 @@
+id: 047v
+list: '47'
+strana: verso
+sken: 94
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    & cosi in ogni altro numero, che sia quadrato se formara il detto cuneo senza alcuno soprauanzamento de fanti, ma se il detto numero de fanti non sara numero quadrato sempre ui auanzara tanti fanti, quanto che il detto numero de fanti auanzara il maggior numero quadrato contenuto da quello, essempi gratia se gli proposti fanti da far il cuneo fusseno .120. dico che ui auanzara .20. fanti fuora della ordinanza del cuneo, cioe tanti quanto che .120. eccede el .100. (maggior numero quadrato contento da quello) che saria pur .20. ma se gli detti fanti fusseno .123. ui auanzaria solamente fanti .2. perche il maggior numero quadrato contenuto da .123. saria .121. e pero .123. auanza il detto .121. nel detto .2. & questo medesimo si debbe intendere in ogni gran numero.
+  cs: |-
+    a stejně tak se z každého jiného čtvercového čísla vytvoří ten klín {cuneo} bez jakéhokoli přebytku pěšáků {fanti}. Nebude-li však počet pěšáků čtvercovým číslem, vždy zbude tolik pěšáků, o kolik ten počet převyšuje největší čtvercové číslo v něm obsažené. Například kdyby pěšáků určených k vytvoření klínu bylo 120, pravím, že mimo klínový šik {ordinanza} zbude 20 pěšáků, totiž tolik, o kolik 120 převyšuje 100 (největší čtvercové číslo v něm obsažené), což by bylo právě 20. Kdyby však těch pěšáků bylo 123, zbyli by jen 2 pěšáci, protože největší čtvercové číslo obsažené ve 123 by bylo 121, a 123 tedy převyšuje 121 o ony 2. A totéž platí o každém velkém počtu.
+- typ: odstavec
+  de: |-
+    P. E ue ho inteso benissimo, & me basta assai per questa sera.
+  cs: |-
+    **Převor.** Porozuměl jsem vám velmi dobře a pro dnešní večer mám dost.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SESTO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Šestý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Come se potria formar quella figura chiamata la forfice, la quale usauano gli antichi per opponere alla forma cunea.
+  cs: |-
+    **Převor.** Jak by se dal vytvořit onen obrazec zvaný nůžky {forfice}, který stavěli staří proti klínovému tvaru?
+- typ: odstavec
+  de: |-
+    N. La forfice se costituisse con due forme cunee congionte per tuor la detta figura cunea in meggio.
+  cs: |-
+    **Nicolò.** Nůžky se skládají ze dvou spojených klínů, aby onen klínový obrazec sevřely mezi sebe.
+- typ: odstavec
+  de: |-
+    P. Datime uno essempio figurale, & in piccol numero.
+  cs: |-
+    **Převor.** Dejte mi příklad v obrazci, a to na malém počtu.
+- typ: odstavec
+  de: |-
+    N. Lo essempio di questa lo uoglio adure nel medesimo numero de fanti .100. con che fu fatto il cuneo, accio che quella possa far giudicio, se il fusse dui esserciti eguali de quantita de fanti, & che l'uno formasse il cuneo, & l'altro la forfice, qual de loro haueria auantaggio, dico adunque che essendo fanti .100. & uolendo de quelli formare la forfice, li se debbono diuidere in due parti eguali, che ne ueneria .50. per parte, & de cadauna de queste parti se ne debbe
+  cs: |-
+    **Nicolò.** Příklad k nim chci uvést na témž počtu 100 pěšáků, z nichž byl udělán klín, aby Vaše Důstojnost mohla posoudit, kdyby byla dvě vojska {esserciti} o stejném počtu pěšáků a jedno vytvořilo klín a druhé nůžky, které z nich by mělo výhodu. Pravím tedy, že máme-li 100 pěšáků a chceme-li z nich vytvořit nůžky, je třeba je rozdělit na dvě stejné části, takže na každou část vyjde 50, a z každé z těchto částí se má
+- typ: obrazek
+  soubor: drevorez-94.jpg
+  popis: >-
+    Nůžky proti klínu, sázené z teček. Nahoře dva klíny po 49 pěšácích vedle sebe, spojené základnami
+    v jedné vodorovné linii; každý má 7 řad (13, 11, 9, 7, 5, 3 a 1 pěšák) s hrotem dolů, u hrotů
+    nápisy „fronte“ (čelo). Nad místem spojení dvě samostatné tečky – dva pěšáci, kteří zbyli mimo šik.
+    Mezi oběma hroty nápis „fronte“ a pod ním klín ze 100 pěšáků (10 řad o 1 až 19 pěšácích) s hrotem
+    nahoru, vražený mezi ramena nůžek.

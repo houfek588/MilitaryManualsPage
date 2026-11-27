@@ -1,0 +1,48 @@
+id: 065r
+list: '65'
+strana: recto
+sken: 129
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    meglio intendiati il tutto, questa tal citta è di forma quadrangola, come in el sottoscritto disegno appare, & la fazzata, che ua da Leuante à Ponente, uerso Septentrione è circa passa .360. el medesimo è l'altra fazzata à questa opposita. Le altre due fazzate, ouer teste sono alquanto piu corte, cioe meno de detti passa .360. & in cadauno delli quattro angoli di questa citta ui è un Baluardo, ouer bastione de ismisurata grossezza. La fazzata de fora uia, cioe la costa .a.b. ouer .b.c. de cadauno de quelli, me sta referto esser passa .40. Le quattro fazze di questa citta con li detti baluardi, ouer bastioni sono stati fatti modernamente, cioe di muraglia noua grossissima, & hanno serrato dentro da se tutta la muraglia uecchia, con alquanto de interuallo fra la muraglia noua, & la muraglia uecchia, & cadauno di quattro baluardi ha due canonere di dentro della noua muraglia, che guardano quel spacio, ouer interuallo, che è fra la muraglia noua, e la uecchia (detto di sopra.) Anchora fra baluardo, e baluardo, cioe nel mezzo di cadauna fazzata ui è una forma piatta, ouer caualliero, le quale guardano li baluardi, & cadauna di queste forme piatte ha due canonere di dentro della noua muraglia opposite à quelle di baluardi, che guardano quel detto spatio, che è fra la muraglia noua, & la muraglia uecchia. Le fosse poi che cercondano questa citta nel fondo sono larghe passa .14. & nella sommita, ouer bocca passa .16. & alte passa .4. hor ue adimando, sel non ui pare, che questa tal citta sia fortissima, si secondo la forma, come secondo la materia.
+  cs: |-
+    všemu lépe porozuměl: toto město má čtyřúhelníkový tvar, jak je vidět na níže nakresleném plánu. Průčelí, které vede od východu k západu na severní straně, měří asi 360 kroků {passa}, a stejně tolik i protější průčelí. Ostatní dvě průčelí čili čela jsou poněkud kratší, totiž méně než zmíněných 360 kroků. V každém ze čtyř rohů tohoto města je bašta {baluardo} čili bastion {bastione} nezměrné tloušťky; vnější líc každé z nich, totiž strana a b nebo b c, má podle toho, co mi bylo sděleno, 40 kroků. Čtyři strany tohoto města s oněmi baštami byly zbudovány nově, totiž z nového, velmi tlustého zdiva, a uzavřely v sobě celou starou hradbu, takže mezi novou a starou hradbou zůstal jistý odstup. Každá ze čtyř bašt má na vnitřní straně nové hradby dvě střílny {canonere}, které střeží onen prostor čili mezeru mezi novou a starou hradbou (zmíněnou výše). Dále je mezi baštou a baštou, totiž uprostřed každého průčelí, plochá bašta {forma piatta} čili kavalír {caualliero},[^1] které střeží bašty, a každá z těchto plochých bašt má na vnitřní straně nové hradby dvě střílny, protilehlé střílnám bašt, které střeží zmíněný prostor mezi novou a starou hradbou. Příkopy {fosse}, které toto město obklopují, jsou pak na dně široké 14 kroků, nahoře čili v ústí 16 kroků a hluboké 4 kroky. Nuže, ptám se vás, zda se vám nezdá, že toto město je velmi silné jak tvarem, tak hmotou.
+- typ: obrazek
+  soubor: drevorez-129.jpg
+  popis: Nápis „Pianta de Turino“ (Půdorys Turína). Týž schematický půdorys jako na předchozí straně, zde obdélník položený na šířku – zdvojená obvodová čára (nová vnější a stará vnitřní hradba), bašty ve čtyřech rozích a obdélníková plochá bašta (kavalír) uprostřed každé strany. U pravé horní rohové bašty jsou písmena A (nahoře), B (vrchol rohu) a C (vpravo) – úseky a b a b c jsou vnější líce bašty, každý po 40 krocích.
+- typ: odstavec
+  de: |-
+    N. Io confirmo, che la è forte respetto alla materia, cioe in quanto alle sue grosse mura, baluardi, cauallieri, profonde, & larghe fosse. Ma in quanto alla forma delle dette sue mura, non ui discerno alcuna artificiosa particolarita.
+  cs: |-
+    **Nicolò.** Potvrzuji, že je silné, pokud jde o hmotu, totiž o jeho tlusté hradby {mura}, bašty, kavalíry a hluboké a široké příkopy. Ale pokud jde o tvar jeho hradeb, nerozeznávám v něm žádnou důmyslnou zvláštnost.
+- typ: odstavec
+  de: |-
+    P. Et à me mi pare, che la forma di tal suo contorno, ouer mura non potria esser megliore, & credo chel sia quasi impossibile à poterla megliorare in conto alcuno.
+  cs: |-
+    **Převor.** A mně se zdá, že tvar jeho obvodu čili hradeb by nemohl být lepší, a myslím, že je skoro nemožné jej v čemkoli zlepšit.
+- typ: odstavec
+  de: |-
+    N. In questo uostra Reuerentia se inganna grandemente.
+  cs: |-
+    **Nicolò.** V tom se Vaše Důstojnost velice mýlí.
+- typ: odstavec
+  de: |-
+    P. Haro de caro, che mel fatti conoscere, ma per esser hora tarda, uoglio che la remettiamo à diman de sera.
+  cs: |-
+    **Převor.** Budu rád, když mi to objasníte; ale protože je pozdní hodina, chci, abychom to odložili na zítřejší večer.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO TERZO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Třetí dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Voi conchiudesti hiersera, che la detta citta de Turino, non ha in se gran fortezza, per uigor della forma delle sue mura, ma solamente per uigore della grossezza de quelle, et delle sue profonde, & larghe fosse hor uoria, che me dicesti, le conditioni, qualita, ouer particularita, che à uoi par, che se doueria fare, ouer che doueria hauere la forma delle mura de una citta à douer esser forte per uigor di tal forma, accio ch'io sappia in che riprendeti, ouer in che cosa pecca, ouer manca la forma
+  cs: |-
+    **Převor.** Včera večer jste uzavřel, že zmíněné město Turín nemá velkou pevnost díky tvaru svých hradeb, nýbrž jen díky jejich tloušťce a svým hlubokým a širokým příkopům. Nyní bych chtěl, abyste mi řekl podmínky, vlastnosti čili zvláštnosti, které by podle vás měl splňovat čili mít tvar hradeb města, aby bylo silné díky tomuto tvaru, abych věděl, co vytýkáte, čili v čem chybuje nebo čím nedostačuje tvar
+poznamky:
+- n: 1
+  text: Forma piatta (piattaforma) – plochá bašta, nízká dělostřelecká plošina vysunutá uprostřed kurtiny; Tartaglia ji ztotožňuje s kavalírem (caualliero), tj. vyvýšeným dělostřeleckým stanovištěm. Popis odpovídá opevnění Turína, které od roku 1536 budovali Francouzi okupující Piemont (čtyřúhelník starého římského města se čtyřmi rohovými baštami).

@@ -1,0 +1,32 @@
+id: 028r
+list: '28'
+strana: recto
+sken: 55
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    secondo il detto uostro parere, perche ogni uolta che un schioppettiero, ouer bombardiero tiri de mira à un segno, & che per uigor, ouer difetto delle due mire lui dia di sopra dal segno. Eglie manifesto che la linea uisuale interseca, il transito, ouer uiaggio qual debbe far la balla, & che tal interseccatione che fa la detta linea uisuale con il detto uiaggio qual debbe far la balla, se fa de qua dal segno (per le ragioni adutte nel. 7. quesito) & perche per un molto longo spacio, quanto piu il segno doue se tira sia piu oltra la detta interseccatione, tanto piu la percossa dara di sopra dal segno, trasportando adunque il detto segno, per alquanto piu lontano, similmente per alquanto piu lontano sara trasferido dalla dalla medesima interseccatione, et per tanto la botta dara piu alta, ouer piu di sopra dal segno dell'altra, & tanto piu quanto che piu lontano per fin à un certo termine sara trasferito, ouer trasportato il detto segno il medesimo seguiria se il schioppetiero, ouer bombardiero se ritirasse per alquanto in drio, & tutto questo che ho detto se debbe intendere quando che la botta è alta per difetto delle due mire, & non per difetto de colui che tira, perche se per difetto de colui che tira, cioe che nel discargare il schioppo lui facesse alcun mouimento, & che per tal mouimento lui desse di sopra, ouer di sotto, ouer coster dal segno, tal inconueniente non si comprende nel nostro ragionamento, ma solamente quando che tal effetto occorre per difetto delle due mire del schioppo. Anchor bisogna auertire, che il detto segno se potria trasportar tanto, & tanto lontano dalla prima positione, che non solamente se potria dar piu propinquo al segno della prima botta, ma anchora se potria dar nel proprio segno, per le ragioni adutte nel fine del. 7. quesito, cioe se per sorte se trasportasse tanto, & tanto lontano il detto segno, & che per sorte se mettesse nel luoco doue che la nostra linea uisuale fa la seconda interseccatione, con il transito della balla senza dubbio se daria in brocca (come fu detto sopra al detto. 7. quesito) & se per caso non fusse cosi precise in tal seconda interseccatione, ma propinquo, tal botta non dara cosi precisamente in brocca, ma ben ui dara propinquo, cioe se tal segno sara alquanto di qua da tal interseccatione, dara alquanto di sopra dal segno, & se sara alquanto de la, dara alquanto di sotto dal detto segno, & tutto questo facilmente se apprendera dalle ragioni adutte per figura in fine del detto. 7. quesito. Vero è, che il detto segno se potria trasportar tanto di la della detta seconda interseccatione che la balla non potria aggiongere à quello, come per ragion naturale facilmente si puo comprendere.
+  cs: |-
+    podle toho vašeho mínění. Kdykoli totiž ručničář nebo dělostřelec střílí mířenou ranou na cíl {segno} a vlivem neboli vadou obou mířidel {mire} trefí nad cíl, je zřejmé, že zorná čára {linea uisuale} protíná dráhu {transito} neboli cestu, kterou má koule {balla} vykonat, a že tento průsečík {interseccatione} zorné čáry s cestou koule leží před cílem (z důvodů uvedených v 7. dotazu). A protože na velmi dlouhém úseku platí, že čím dál za tímto průsečíkem je cíl, na který se střílí, tím výš nad cíl padne zásah, bude-li tedy cíl přenesen o něco dál, bude také o něco dál vzdálen od téhož průsečíku,[^1] a proto rána {botta} padne výš neboli víc nad cíl než ta předešlá, a to tím víc, čím dál (až do jisté meze) bude cíl přemístěn neboli přenesen. Totéž by nastalo, kdyby ručničář nebo dělostřelec o něco ustoupil dozadu. To vše, co jsem řekl, je třeba chápat pro případ, kdy je rána vysoko vadou obou mířidel, a nikoli vinou toho, kdo střílí. Kdyby to bylo vinou střelce, totiž kdyby při výstřelu z ručnice {schioppo} udělal nějaký pohyb a tím pohybem trefil nad cíl, pod něj nebo stranou {coster}, taková chyba do našeho výkladu nespadá; ten se týká jen případu, kdy k tomu dojde vadou obou mířidel ručnice. Dále je třeba upozornit, že by se cíl dal přenést od první polohy tak daleko, že by se nejenom dalo trefit blíž k místu první rány, ale dokonce přímo do cíle, z důvodů uvedených na konci 7. dotazu: kdyby se totiž cíl náhodou přenesl tak daleko, že by se ocitl na místě, kde naše zorná čára podruhé protíná dráhu koule, bez pochyby by se trefilo do středu {brocca} (jak bylo řečeno v témže 7. dotazu). A kdyby náhodou nebyl přesně v tomto druhém průsečíku, ale jen blízko něj, nepadne rána přesně do středu, ale padne blízko: bude-li cíl o něco před tímto průsečíkem, padne poněkud nad cíl, a bude-li o něco za ním, padne poněkud pod cíl. To vše snadno pochopíte z důvodů vyložených obrazcem na konci zmíněného 7. dotazu. Je ovšem pravda, že by se cíl dal přenést za ten druhý průsečík tak daleko, že by k němu koule nedolétla, jak lze z přirozeného rozumu snadno pochopit.
+- typ: odstavec
+  de: |-
+    S. Ho inteso benissimo la uostra ragione, & la ho molto accara.
+  cs: |-
+    **Ručničář.** Vašemu výkladu jsem velmi dobře porozuměl a velice si ho cením.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO VIGESIMOOTTAVO fatto dal medesimo Schioppettiero.
+  cs: |-
+    Dvacátý osmý dotaz, který položil týž ručničář
+- typ: odstavec
+  de: |-
+    SCHIOPPETIERO. Dal sopradetto quesito me ne uenuto un'altro in mente, qual è questo, se tirando con il detto mio schioppo pur à un segno de mira, et che per difetto delle due mire io desse di sotto dal segno, trasportando anchora il detto segno alquanto piu lontano, ouer ritirandomi alquanto in drio, & ritirando al medesimo segno de mira, ue adimando se questa seconda botta sara piu alta, ouer piu bassa della prima.
+  cs: |-
+    **Ručničář.** Z výše uvedeného dotazu mi přišel na mysl další, a to tento: když budu z té své ručnice opět střílet mířenou ranou na cíl a vadou obou mířidel trefím pod cíl, a pak cíl opět přenesu o něco dál nebo sám o něco ustoupím dozadu a znovu na týž cíl zamířím a vystřelím, ptám se vás, zda bude tato druhá rána výš, nebo níž než první.
+poznamky:
+- n: 1
+  text: V tisku zdvojeno „dalla dalla“ (tisková chyba); v překladu jednou.

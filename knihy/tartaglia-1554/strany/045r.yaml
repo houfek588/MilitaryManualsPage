@@ -1,0 +1,68 @@
+id: 045r
+list: '45'
+strana: recto
+sken: 89
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    fermata che sia far procedere auanti la seconda anchor la terza per fina à tanto che la testa, ouer fronte della seconda parte se sia unita con la testa, ouer fronte della prima, & cosi fermata la detta seconda parte, far procedere auanti, per el medesimo modo anchor la terza parte, la qual cosa facendo se uedera esser redutta tal battaglia in forma quadra di gente, come di sotto appare con li suoi archibuseri alla fronte, et alle spalle.
+  cs: |-
+    a když stojí, nechat postupovat vpřed druhou a potom i třetí [část], dokud se hlava neboli čelo druhé části nespojí s hlavou neboli čelem první; a když se takto zastaví druhá část, nechat stejným způsobem postoupit vpřed i třetí část. Když se to provede, uvidí se, že šik {battaglia} je převeden do čtvercového tvaru co do mužstva {forma quadra di gente}, jak je vidět níže, se svými arkebuzíry {archibuseri} v čele a v týlu.
+- typ: obrazek
+  soubor: drevorez-89.jpg
+  popis: >-
+    Šik ze 100 pěšáků s 20 arkebuzíry, sestavený ze tří pochodových částí do čtverce, sázený z teček.
+    Obrazec je otočený: vpravo nápis „fronte“ (čelo), vlevo „spalle“ (týl). V každé z 10 vodorovných
+    linií je zleva kroužek o (arkebuzír), 10 teček (pěšáků) a kroužek o – tedy 10 řad po 10 pěšácích
+    (řady stojí v obrazci svisle), vpředu i vzadu po jedné řadě 10 arkebuzírů. Uprostřed písmeno B –
+    místo praporu.
+- typ: odstavec
+  de: |-
+    Ma quando che nel partire la detta radice auanzasse .2. come saria, quando che li fanti fusseno .121. la radice di quali è .11. el qual .11. partendolo per tre, ne uien tre, & auanza .2. (come habbiamo detto) dico che in questo caso, & in altri simili io faria caminare .11. file (cioe tante quanto è la radice) à .4. fanti per fila, & altre .11. file à .3. fanti per fila, & altri .11. file pur à .4. fanti per fila, come di sotto appar in figura con li suoi .22. archibuseri oltra li detti fanti .121. li quali fanti ogni uolta che se uolesseno
+  cs: |-
+    Když však při dělení zmíněné odmocniny {radice} zbudou 2, jako by tomu bylo, kdyby pěšáků {fanti} bylo 121 – jejich odmocnina je 11, a když se těch 11 dělí třemi, vyjde tři a zbudou 2 (jak jsme řekli) –, pravím, že v tomto a v jiných podobných případech bych nechal pochodovat 11 řad {file} (tj. tolik, kolik činí odmocnina) po 4 pěšácích v řadě, dalších 11 řad po 3 pěšácích v řadě a dalších 11 řad opět po 4 pěšácích v řadě, jak je vidět níže na obrazci, se svými 22 arkebuzíry navíc k oněm 121 pěšákům. Kdykoli by se ti pěšáci měli
+- typ: obrazek
+  soubor: drevorez-89b.jpg
+  popis: >-
+    Pochodový sled 121 pěšáků s 22 arkebuzíry, sázený z teček: tři části vedle sebe (směr pochodu je
+    vodorovný). Levá část má 4 linie, prostřední (mírně posunutá) 3 linie, pravá 4 linie; každá linie
+    je kroužek o (arkebuzír), 11 teček (pěšáků) a kroužek o. Tedy 11 řad po 4, 11 řad po 3 a 11 řad
+    po 4 pěšácích, v čele a v týlu každé části řada arkebuzírů (4 + 3 + 4, celkem 22).
+- typ: odstavec
+  de: |-
+    redure in battaglia quadra di gente se procederia, come di sopra fu fatto.
+  cs: |-
+    převést do šiku čtvercového co do mužstva, postupovalo by se tak, jak bylo učiněno výše.
+- typ: odstavec
+  de: |-
+    C.H. Questo uostro discorso non me dispiace, anchor che tai tre parti per essere diseguale, par che disdicano assai, ma diteme un poco questa regola seruila cosi in ogni gran numero de fanti.
+  cs: |-
+    **Hrabě Hieronimo.** Tento váš výklad mi není nemilý, ačkoli ty tři části, jelikož jsou nestejné, působí dost nevzhledně. Ale povězte mi, poslouží toto pravidlo stejně u každého velkého počtu pěšáků?
+- typ: odstavec
+  de: |-
+    N. Senza dubbio, che la seruira in ogni numero, si quadrato, come non quadrato.
+  cs: |-
+    **Nicolò.** Bez pochyby poslouží u každého počtu, ať je čtvercový, nebo ne.
+- typ: odstavec
+  de: |-
+    C.H Datime un'essempio in parole solamente.
+  cs: |-
+    **Hrabě Hieronimo.** Dejte mi příklad, jen slovy.
+- typ: odstavec
+  de: |-
+    N. Poniamo per essempio, che siano fanti .3969. delli quali uolendo uoi sapere à quanti fanti per fila uoi li debbiati far caminar per camino, accioche siano commodi à poterli in un subito mettere in battaglia quadra di gente, dico che de questi tai fanti uoi debbiati pigliar la radice quadrata (per el, modo che ui ho insignato) quala trouareti esser .63. & .63. fanti sara per fila tutta la battaglia in quadro di gente, & perche questa radice (cioè .63.) è diuisibile in tre parti equale, ne pigliareti el terzo (per regola ferma) qual sara .21. & cosi à .21. fante per fila uoi li douete far caminare in camino.
+  cs: |-
+    **Nicolò.** Dejme tomu například, že je 3969 pěšáků a vy chcete vědět, po kolika pěšácích v řadě je máte nechat jít na pochodu, aby byli připraveni k tomu, abyste je mohli v okamžiku postavit do šiku čtvercového co do mužstva. Pravím, že z počtu těchto pěšáků máte vzít druhou odmocninu (způsobem, který jsem vás naučil), a ta vám vyjde 63; po 63 pěšácích v řadě bude celý šik ve čtverci co do mužstva. A protože tato odmocnina (totiž 63) je dělitelná na tři stejné části, vezmete z ní třetinu (podle pevného pravidla), a to bude 21; a tak je máte na pochodu nechat jít po 21 pěšácích v řadě.
+- typ: odstavec
+  de: |-
+    C.H. Mo quante file potro io sapere che starano in tutto cosi à .21. fante per fila.
+  cs: |-
+    **Hrabě Hieronimo.** A jak poznám, kolik bude celkem řad takto po 21 pěšácích v řadě?
+- typ: odstavec
+  de: |-
+    N. Sempre saranno el treppio
+  cs: |-
+    **Nicolò.** Vždy to bude trojnásobek

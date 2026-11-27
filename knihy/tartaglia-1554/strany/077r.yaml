@@ -1,0 +1,61 @@
+id: 077r
+list: '77'
+strana: recto
+sken: 153
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    N. Anci eglie tutto al contrario Signor Magnifico, che delle sue particolarita non gli ne ho altra special cognitione, che quello, che mi fu narrato in parole dal S. Prior di Barletta, quasi in fine del ottauo Quesito del mio sesto libro, perche gia mai fui in luoco, che potesse uedere realmente la piazza di sopra, ne manco quella da basso de alcun baluardo, & la causa di questo fu da me narrata al detto Signor Priore nel primo, & anchora in fine del ottauo Quesito del detto nostro sesto libro, eglie ben uero, che ho compreso, come sta fatta l'una, e l'altra piazza, per uigor de un disegno retratto da un baluardo de una citta maritima, el qual è questo.
+  cs: |-
+    **Nicolò.** Je tomu právě naopak, urozený pane: o jejich podrobnostech nemám žádnou zvláštní znalost kromě toho, co mi slovy vyprávěl pan převor z Barletty skoro na konci osmého dotazu mé šesté knihy. Nikdy jsem totiž nebyl na místě, kde bych mohl skutečně vidět horní plošinu {piazza di sopra}, ani dolní plošinu {piazza da basso} nějaké bašty {baluardo}; příčinu toho jsem uvedenému panu převorovi vyložil v prvním a také na konci osmého dotazu zmíněné naší šesté knihy. Je ovšem pravda, že jsem pochopil, jak je udělána jedna i druhá plošina, díky výkresu pořízenému podle bašty jednoho přímořského města, který je tento.
+- typ: odstavec
+  de: |-
+    S. M. Seti stato per mare.
+  cs: |-
+    **Pan Marcantonio.** Byl jste na moři?
+- typ: odstavec
+  de: |-
+    N. Son stato fina à lio Signor Magnifico, quando, che la Illustrissima Signoria ua à sposar el mare, & non piu oltra.
+  cs: |-
+    **Nicolò.** Byl jsem až na Lidu, urozený pane, když nejosvícenější Signorie vyjíždí zasnoubit se s mořem,[^1] a dál ne.
+- typ: odstavec
+  de: |-
+    S. M. Come cauasti adunque il ritratto di tal baluardo da tal citta maritima.
+  cs: |-
+    **Pan Marcantonio.** Jak jste tedy získal nákres takové bašty z takového přímořského města?
+- typ: obrazek
+  soubor: drevorez-153.jpg
+  popis: |-
+    Dřevořez: perspektivní pohled na hrotitou baštu se dvěma kurtinami, které z ní vybíhají šikmo doleva nahoru a doprava. Bašta má zaoblená ramena (ušáky) a za nimi zatažené boky s klenutými otvory dolních střílen; na hřbetu předprsně jsou střílny pro děla. Písmeno A je v hrdle bašty mezi oběma ušáky – podle textu místo vjezdu do dolní plošiny; na podlaze horní plošiny jsou vidět malá okénka, kterými dopadá světlo do dolní plošiny.
+- typ: odstavec
+  de: |-
+    N. Tal ritratto non fu da me cauato, ma mi fu dato da un mio discipulo Pittore eccellente.
+  cs: |-
+    **Nicolò.** Ten nákres jsem nepořídil já, ale dal mi ho jeden můj žák, znamenitý malíř.
+- typ: odstavec
+  de: |-
+    S. M. Sapeti come stia, ouer come sia fatta la piazza da basso di tal baluardo, & altri simili.
+  cs: |-
+    **Pan Marcantonio.** Víte, jak vypadá neboli jak je udělána dolní plošina takové bašty a jiných podobných?
+- typ: odstavec
+  de: |-
+    N. Di ueduta non ui saprei dire, ne di questo, ne manco de altri simili, come di sopra ho detto. ma diro bene, come istimo, che sia fatta. Penso, che tal piazza da basso sia fatta in uolti sopra, de grossi, & gagliardi pilastroni, & che la intrata di andar, & condur le artegliarie in tal piazza da basso sia doue si uede il ponto .a. et che quelle fenestrelle, che sono per el piano della piazza di sopra siano fatte per dar luce alla detta piazza da basso.
+  cs: |-
+    **Nicolò.** Z vlastního pohledu vám to říci nedovedu, ani o této, ani o jiných podobných, jak jsem řekl výše; povím však, jak soudím, že je udělána. Myslím, že tato dolní plošina je zaklenuta klenbami na silných a mohutných pilířích a že vchod, kudy se chodí a kudy se vozí dělostřelectvo {artegliarie} do dolní plošiny, je tam, kde je vidět bod a.; a že ta okénka, která jsou na podlaze horní plošiny, jsou udělána proto, aby dávala světlo dolní plošině.
+- typ: odstavec
+  de: |-
+    S. M. Voi non haueti in tutto mal pensato, ma molto me marauiglio di uoi, che non ue siati dilettato de andare à uedere minutamente tai particolarita.
+  cs: |-
+    **Pan Marcantonio.** Nesoudíte docela špatně, ale velmi se vám divím, že vás nelákalo zajít se na takové podrobnosti důkladně podívat.
+- typ: odstavec
+  de: |-
+    N. Non ho tempo Signor Eccellentiss. di andar à cercar di uedere tai cose, & massime, che io non mi curo, ne tengo conto di quelle cose, che molti le sanno fare, anchor, che siano da me ignorate (come che nel supplimento della nostra trauagliata inuentione da me fu anchor detto) ma solamente di quelle cose che niuno le sanno essequire molto me diletto, & curo di trouare. Io non uo dire, che quando fusse uno de detti baluardi qua in Venetia, & appresso della mia stantia,
+  cs: |-
+    **Nicolò.** Nemám čas, nejvznešenější pane, chodit a shánět se po takových věcech, zvláště proto, že nedbám a nedržím mnoho na věcech, které mnozí umějí udělat, i když je sám neznám (jak jsem řekl už v Dodatku k našemu Trápenému vynálezu);[^2] velmi mě však těší a snažím se nalézat jen věci, které nikdo provést neumí. Nechci říci, že kdyby taková bašta byla tady v Benátkách {Venetia} a blízko mého obydlí,
+poznamky:
+- n: 1
+  text: Sposalizio del mare – benátská slavnost na svátek Nanebevstoupení Páně, kdy dóže s Signorií vyplouval na lodi Bucintoro k Lidu a vhazoval do moře prsten na znamení „zasnoubení“ republiky s mořem. Lido (v tisku „lio“) je pobřežní ostrov oddělující benátskou lagunu od Jaderského moře.
+- n: 2
+  text: Tartagliův spis La travagliata inventione (Benátky 1551) o vyzdvihování potopených lodí, k němuž připojil Supplimento; odkaz na tamní výrok.

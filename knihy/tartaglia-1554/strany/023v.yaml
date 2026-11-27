@@ -1,0 +1,39 @@
+id: 023v
+list: '23'
+strana: verso
+sken: 46
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    uelocita lassa de drio da se la detta figura aerea, & se non tutta almeno la maggior parte, talmente che in tal luoco di mediocre distantia la balla ui fara maggior effetto di quello faria nel luoco piu propinquo, perche tal balla nel fare il suo effetto non ritroua tanto impedimento di refflessione ne combustion di aere.
+  cs: |-
+    rychlostí nechá onen vzdušný útvar za sebou, a ne-li celý, tedy aspoň jeho větší část, takže v takovém místě střední vzdálenosti bude mít koule {balla} větší účinek, než by měla v místě bližším, protože při svém účinku nenaráží na tolik překážek z odrazu a zmatku vzduchu.
+- typ: odstavec
+  de: |-
+    S. IACOMO. Questa uostra ragione ne consona molto, & comprendo che non puo procedere da altra cosa.
+  cs: |-
+    **Pan Iacomo.** Tento váš výklad se mi velmi zamlouvá a chápu, že to nemůže pocházet z ničeho jiného.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO DECIMONONO FATTO DAL medesimo Signor Iacomo de Achaia.
+  cs: |-
+    Devatenáctý dotaz, který položil týž pan Iacomo de Achaia
+- typ: odstavec
+  de: |-
+    SIGNOR IACOMO. Ma un'altro dubbio uorria che me chiaresti, il qual è questo, se per star troppo propinquo con la artegliaria alla cosa doue se tira, gli effetti di tal artegliaria, non sono cosi uigorosi quanto fariano in una mediocre distantia, per le ragioni per uoi adutte, è per le sperientie per me fatte, similmente per starui troppo di lontano (per commune opinione) seguita il medesimo, cioe che per starui molto di lontano non fa cosi gagliardo effetto, nella cosa doue percuote quanto faria in una mediocre distantia, hor ui adimando doue se potria con ragione determinare il luoco doue che la balla di tal artegliaria faria il piu gagliardo, ouer uigoroso effetto, che far potesse in tutto il transito, ouer uiaggio che far debbe, ouer che faria, quella tal balla, non trouando alcuno impedimento.
+  cs: |-
+    **Pan Iacomo.** Rád bych však, abyste mi objasnil ještě jinou pochybnost, a to tuto: jestliže při příliš malé vzdálenosti děla {artegliaria} od věci, na niž se střílí, nejsou účinky toho děla tak mocné, jaké by byly ve střední vzdálenosti – z důvodů, které jste uvedl vy, i podle zkušeností, které jsem učinil já –, a jestliže (podle obecného mínění) totéž nastává i při příliš velké vzdálenosti, totiž že z velké dálky nemá střela na věc, do níž udeří, tak mocný účinek jako ve střední vzdálenosti, ptám se vás, kde by se dalo rozumně určit místo, v němž by koule takového děla měla nejmocnější neboli nejprudší účinek, jaký by mohla mít na celé dráze {transito} neboli cestě, kterou má vykonat, či kterou by ta koule vykonala, kdyby nenarazila na žádnou překážku.
+- typ: odstavec
+  de: |-
+    N. In quello istante che la balla peruiene, ouer aggionge nella istrema parte di quella figura aerea (detta nel precedente quesito) trouando in tal luoco un resistente, in quel tal luoco ui faria maggiore, ouer piu uigoroso effetto, che in qualunque altro luoco, perche se tal resistente fusse piu in uerso la bocca del pezzo, in quel tale resistente prima ui percuoteria la detta figura aerea che la balla (come nel precedente quesito fu detto) & dapoi la percussione immediate reffletaria in drio incontra alla medesima figura aerea, & alla balla, ouiando alquanto il moto di quella (come fu detto nel precedente quesito.) Et se tal resistente sara piu lontano di tal luoco, subito che la balla uscisse totalmente di quella figura aerea, cioe lasciando quella de drio da se immediate ritroua lo aere quasi quieto, onde tal balla uiene ad hauer alquanto piu difficulta à penetrar tal aere quieto, che non haueua à penetrare quello della detta figura aerea, per esser quello di detta figura medesimamente in corso, & uerso il medesimo luoco doue ua la balla. Et per tanto uscita la balla di tal figura continuamente ui andara mancando il uigore, & tanto piu quanto piu se andara allontanando, e pero consequentemente tanto piu deboli fara li suoi affetti, si che per queste due ragioni, la detta balla doueria far piu gagliardo effetto in un resistente trouando quello precisamente nello uscire della istremita della sopradetta figura aerea, che in qualunque altro luoco piu lontano, ouer propinquo.
+  cs: |-
+    **Nicolò.** Kdyby koule v tom okamžiku, kdy dospěje neboli dorazí ke krajní části onoho vzdušného útvaru (popsaného v předešlém dotazu), narazila právě na tom místě na odpor, měla by tam větší neboli prudší účinek než na kterémkoli jiném místě. Kdyby totiž ten odpor byl blíže k ústí děla {pezzo}, udeřil by do něj vzdušný útvar dříve než koule (jak bylo řečeno v předešlém dotazu) a po nárazu by se ihned odrazil zpět proti zbytku vzdušného útvaru a proti kouli, čímž by její pohyb poněkud zbrzdil (jak bylo řečeno v předešlém dotazu). A bude-li ten odpor dále než na zmíněném místě, pak jakmile koule zcela vyjde z onoho vzdušného útvaru, to jest nechá ho za sebou, hned narazí na vzduch téměř klidný. Proniká proto tímto klidným vzduchem o něco obtížněji, než pronikala vzduchem zmíněného útvaru, neboť ten byl rovněž v pohybu, a to k témuž místu, kam letí koule. Když tedy koule z toho útvaru vyjde, bude jí síla neustále ubývat, a to tím víc, čím víc se bude vzdalovat, a v důsledku toho budou její účinky tím slabší. Z těchto dvou důvodů by tedy uvedená koule měla mít mocnější účinek na odpor, na který narazí přesně při vycházení z konce zmíněného vzdušného útvaru, než na kterémkoli jiném místě, ať vzdálenějším, či bližším.
+- typ: odstavec
+  de: |-
+    S. I. Eglie da credere che sia cosi, perche in effetto comprendo che in tal luoco la balla ferisse senza impedimento di refflessione de aere, ne per fina allhora non è stata impedita da aere quieto, come saria impedita per lo auenire se procedesse piu oltra.
+  cs: |-
+    **Pan Iacomo.** Dá se věřit, že tomu tak je, neboť opravdu chápu, že na tom místě zasahuje koule bez překážky odraženého vzduchu, a až do té chvíle jí nepřekážel ani klidný vzduch, jako by jí překážel napříště, kdyby letěla dál.

@@ -1,0 +1,52 @@
+id: 044v
+list: '44'
+strana: verso
+sken: 88
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    (per le ragion adutte nel presente quesito) le qual distantie non hauemo osseruate, ne anchora se osseruara nella maggior parte delle figure che hanno da uenire, perche occupariano troppo gran spacio.
+  cs: |-
+    (z důvodů uvedených v tomto dotazu). Tyto rozestupy jsme nedodrželi a nebudou dodrženy ani ve většině obrazců, které budou následovat, protože by zabíraly příliš mnoho místa.
+- typ: obrazek
+  soubor: drevorez-88.jpg
+  popis: Hotový šik z 81 pěšáků, čtvercový co do mužstva, sázený z teček vpravo vedle textu – 9 linií po 9 tečkách, v prostřední linii písmeno B (místo praporu), nad obrazcem nápis „fronte“ (čelo).
+- typ: odstavec
+  de: |-
+    C. H. Questo non me importa, ma ditemi pur, come se potra saper, ouer conoscer li luochi doue se debbia smembrare le dette .27. file in tre parte eguale, senza stare à numerare le dette file à .9. perche quando che il fusse una gran quantita de fanti saria cosa molto longa.
+  cs: |-
+    **Hrabě Hieronimo.** Na tom mi nezáleží; ale řekněte mi přece, jak by se dala zjistit čili poznat místa, kde se má těch 27 řad {file} rozčlenit na tři stejné části, aniž by se řady musely odpočítávat po devíti; kdyby totiž šlo o velký počet pěšáků {fanti}, bylo by to velmi zdlouhavé.
+- typ: odstavec
+  de: |-
+    N. Io ho inteso che ogni quantita de fanti ui se li da una fila de archibuseri nella fronte, & un'altra nelle spalle che in questi soprascritti fanti .81. ui uorria .18. archibuseri, cioe .9. nella fronte, & .9. nella coda, & per tanto nelli luochi doue se doueria far la diuisione ui metteria due file de archibuseri, come di sotto appare in figura, intendendo li archibuseri per questa lettera o.
+  cs: |-
+    **Nicolò.** Slyšel jsem, že každému počtu pěšáků se dává jedna řada arkebuzírů {archibuseri} do čela {fronte} a druhá do týlu {spalle}, takže k těmto výše zapsaným 81 pěšákům by bylo třeba 18 arkebuzírů, totiž 9 v čele a 9 v týlu {coda}. Proto bych na místa, kde se má provést dělení, postavil dvě řady arkebuzírů, jak je vidět níže na obrazci, přičemž arkebuzíry značí toto písmeno o.
+- typ: obrazek
+  soubor: drevorez-88b.jpg
+  popis: Pochodový sled 81 pěšáků s 18 arkebuzíry, sázený z teček – tři vodorovné linie, v každé zleva kroužek o (arkebuzír), 9 teček (pěšáků), dvojice oo, 9 teček, dvojice oo, 9 teček a kroužek o (u poslední linie koncový kroužek v tisku chybí). Dvojice arkebuzírů oo označují místa, kde se sled dělí na tři části; v prostřední části prostřední linie písmeno B (místo praporu).
+- typ: odstavec
+  de: |-
+    Li quali archibuseri ui auertiranno sempre delli luochi doue se doueranno smembrare le dette file .27. & cosi in ogni altro maggior numero.
+  cs: |-
+    Tito arkebuzíři vám vždy ukážou místa, kde se má těch 27 řad rozčlenit, a stejně tak u každého jiného, většího počtu.
+- typ: odstavec
+  de: |-
+    C. H. E ue ho inteso benissimo, fin qua, ma uorria che me dicesti, come se doueria procedere quando che la radice de detti fanti non si potesse diuidere in tre parti eguale.
+  cs: |-
+    **Hrabě Hieronimo.** Až potud jsem vám porozuměl velmi dobře; ale chtěl bych, abyste mi řekl, jak by se mělo postupovat, kdyby se odmocnina {radice} počtu pěšáků nedala rozdělit na tři stejné části.
+- typ: odstavec
+  de: |-
+    N. Quando che tal radice non è diuisibile in tre parti eguali, io non so come se procedano li periti Sargenti, ma ben ue diro in che modo in tal caso, se potria procedere, il qual modo, se il sara per caso simil à quello che lor costumano, io lo hauero accaro, & se per caso il sara meglio di quello che lor costumano, io lo hauero molto piu accaro, & se per caso il sara peggiore, imputareti la mia poca pratica, ouer isperientia di tal essercitio. Dico adunque che quando la radice di detti fanti non sia diuisibile in tre parti eguali, necessariamente in tal diuisione auanzara uno, ouer dui, hor pigliamo prima per essempio quella che auanza solamente uno, come saria se fusseno fanti .100. la radice di quali è .10. il qual .10. partendolo per .3. ne uien .3. & auanza uno, hor dico che io faria caminar diece file, à tre, à tre (cioe tante file quanto è il numero della radice) & altre diece file, à quattro, à quattro, & altre diece pur à tre, à tre, come qui sotto appare con li suoi .20. archibusi oltra li detti .100. fanti.
+  cs: |-
+    **Nicolò.** Jak postupují zkušení šikovatelé {Sargenti}, když tato odmocnina není dělitelná na tři stejné části, nevím; ale řeknu vám, jakým způsobem by se dalo v takovém případě postupovat. Bude-li ten způsob náhodou podobný tomu, který užívají oni, bude mi to milé; bude-li náhodou lepší než ten jejich, bude mi to mnohem milejší; a bude-li náhodou horší, přičtěte to mé malé praxi čili zkušenosti v tomto řemesle. Pravím tedy, že když odmocnina počtu pěšáků není dělitelná na tři stejné části, při tom dělení nutně zbude jedna nebo dvě. Vezměme nejprve za příklad případ, kdy zbude jen jedna, jako by tomu bylo, kdyby bylo 100 pěšáků: jejich odmocnina je 10, a když se těch 10 dělí třemi, vyjde 3 a zbude jedna. Nuže pravím, že bych nechal pochodovat deset řad po třech (totiž tolik řad, kolik činí odmocnina), dalších deset řad po čtyřech a dalších deset opět po třech, jak je vidět zde níže, s jejich 20 arkebuzíry navíc k oněm 100 pěšákům.
+- typ: obrazek
+  soubor: drevorez-88c.jpg
+  popis: Pochodový sled 100 pěšáků s 20 arkebuzíry, sázený z teček – tři části vedle sebe, levá a pravá po 3 vodorovných liniích, prostřední (posunutá výš) po 4 liniích; každá linie je kroužek o (arkebuzír), 10 teček (pěšáků) a kroužek o. Tedy 10 řad po 3, 10 po 4 a 10 po 3 pěšácích, v čele i v týlu každé části řada arkebuzírů (3 + 4 + 3, celkem 20). Vpravo svisle nápis „fronte“ (čelo).
+- typ: odstavec
+  de: |-
+    Et queste tre parti, quando l'occorresse di uolerli redur in battaglia quadra di gente, se procedaria, si come di sopra, cioe far affermar la prima parte uerso la fronte, &
+  cs: |-
+    Když by pak bylo třeba tyto tři části převést do šiku čtvercového co do mužstva {battaglia quadra di gente}, postupovalo by se jako výše, totiž nechat zastavit první část, tu směrem k čelu,

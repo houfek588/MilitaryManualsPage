@@ -1,0 +1,99 @@
+id: 069r
+list: '69'
+strana: recto
+sken: 137
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    similmente nelli baluardi ui si conuengono cosi grossi pezzi, perche li pezzi grossi sono (secondo il mio parere) solamente per rouinar le mura delle citta, & non per tirar nelli esserciti, & li pezzi piccoli, & meggiani, sono per tirare nelle ordinanze, ouer nelli esserciti, & non per rouinar le mura delle citta, perche un pezzo piccolo, ouer un meggiano, à me mi pare esser di tanta faccione, per tirare in una banda de fantaria che uenisse sotto à tal citta, quanto che faria un canon da .50. ouer da .100. & forsi piu.
+  cs: |-
+    na baštách {baluardi} se hodila tak těžká děla {pezzi}, neboť těžká děla jsou (podle mého mínění) jen k bourání městských hradeb {mura}, a ne ke střelbě do vojsk {esserciti}; malá a střední děla jsou ke střelbě do šiků {ordinanze} neboli do vojsk, a ne k bourání městských hradeb. Zdá se mi totiž, že malé nebo střední dělo má při střelbě do oddílu pěchoty {fantaria}, který by se přiblížil pod takové město, stejný účinek jako kanon {canon} na 50 nebo na 100 liber, a možná i větší.
+- typ: odstavec
+  de: |-
+    P. Questa uostra opinione non me dispiace, perche un sacro, & altri pezzi simili, nel tempo che uorra uno di detti pezzi grossi à tirarlo due uolte, se potranno tirare tre uolte, & forsi piu, & tanto effetto fara forsi l'uno, quanto l'altro per cadauna uolta.
+  cs: |-
+    **Převor.** Tento váš názor mi není proti mysli, neboť ze sakru {sacro} a jiných podobných děl se za dobu, za kterou se dvakrát vystřelí z některého z těch těžkých děl, dá vystřelit třikrát a možná i vícekrát, a jedno bude mít při každém výstřelu možná stejný účinek jako druhé.
+- typ: odstavec
+  de: |-
+    N. Cosi è da credere, oltra che sariano di molto menor spesa, et occupariano manco luoco.
+  cs: |-
+    **Nicolò.** Tak se dá soudit; navíc by stála mnohem méně a zabírala by méně místa.
+- typ: odstavec
+  de: |-
+    P. Certamente pensando sopra di uoi stago stupefatto, che non hauendo uoi mai tirato, ne dilettato da tirare di artegliaria, archibuso, ne schioppo, ne esserui giamai essercitato, nell'arte militare, ne praticato doue se fortifichi alcuna citta, ouer fortezza. Et che ui basti l'animo non solamente di parlare, ma di trattar di queste cose.
+  cs: |-
+    **Převor.** Věru, když o vás přemýšlím, žasnu, že ačkoli jste nikdy nestřílel z děla {artegliaria}, z arkebuzy {archibuso} ani z ručnice {schioppo}, ani vás střelba netěšila, nikdy jste se necvičil ve válečném umění ani jste nepobýval tam, kde se opevňuje nějaké město {citta} nebo pevnost {fortezza}, přesto si troufáte o těchto věcech nejen mluvit, ale i pojednávat.
+- typ: odstavec
+  de: |-
+    N. Il non è da marauigliarsi di questo, perche l'occhio mentale uede piu intrinsecamente nelle cose generale, di quello, che fa l'occhio corporale, nelle particolare.
+  cs: |-
+    **Nicolò.** Tomu není třeba se divit, neboť oko ducha vidí do věcí obecných hlouběji, než vidí tělesné oko do věcí jednotlivých.
+- typ: odstavec
+  de: |-
+    P. Ditemi un poco, ue aricordati hauermi conosciuto, quando che io stantiaua à Bressa.
+  cs: |-
+    **Převor.** Povězte mi, vzpomínáte si, že jste mě znal, když jsem bydlel v Brescii?
+- typ: odstavec
+  de: |-
+    N. Me ne ariccordo si, quantunque à quel tempo io fusse molto piccolo, & per tal signale uostra Signoria stantiaua in quella contrata che è fra li Carmini, & Santo Christofolo, ouer Santa Chiara nuoua.
+  cs: |-
+    **Nicolò.** Ano, vzpomínám si, ačkoli jsem tehdy byl velmi malý, a na důkaz: Vaše Milost bydlela v té čtvrti, která leží mezi Karmelitány a svatým Kryštofem neboli Novou svatou Klárou.[^1]
+- typ: odstavec
+  de: |-
+    P. Voi diceti la uerita. Ditemi anchora, come se chiamaua uostro padre.
+  cs: |-
+    **Převor.** Mluvíte pravdu. Povězte mi ještě, jak se jmenoval váš otec.
+- typ: odstavec
+  de: |-
+    N. Mio padre hebbe nome Michele. Et perche la natura non gli fu manco auara in dare à sua persona grandezza conneniente, di quello, che fu la fortuna in farlo partecipe di suoi beni, fu chiamato Micheletto.
+  cs: |-
+    **Nicolò.** Můj otec se jmenoval Michele. A protože příroda k němu nebyla o nic štědřejší, když měla dát jeho postavě náležitou velikost, než štěstěna, když ho měla učinit účastným svých statků, říkali mu Micheletto.[^2]
+- typ: odstavec
+  de: |-
+    P. Certamente se la natura fu alquanto auara, in dare alla persona di uostro padre grandezza conueniente, nanche con uoi è stata molto liberale.
+  cs: |-
+    **Převor.** Věru, byla-li příroda poněkud skoupá, když dávala postavě vašeho otce náležitou velikost, ani k vám nebyla příliš štědrá.
+- typ: odstavec
+  de: |-
+    N. Io me ne allegro, perche l'esser di persona cosi piccolo, mi fa testimoniaza che ueramente fui suo figlio, perche anchor che il non mi lasciasse al mondo, à me con un'altro mio fratello, & due sorelle, quasi saluo, che l'esser per buona memoria de lui, mi basta hauer sentito à dire da molti che il conosceua & praticaua, che egliera huomo da bene, della qual cosa molto piu me ne contento, & allegro di quello haueria fatto se mi hauesse lasciato di molta facolta con un tristo nome.
+  cs: |-
+    **Nicolò.** Raduji se z toho, neboť to, že jsem tak malé postavy, mi dosvědčuje, že jsem byl vskutku jeho synem. Ačkoli totiž mně, mému dalšímu bratrovi a dvěma sestrám[^3] nezanechal na světě skoro nic kromě holého života, k jeho dobré památce mi stačí, že jsem od mnohých, kdo ho znali a stýkali se s ním, slyšel, že to byl řádný člověk. S tím jsem mnohem spokojenější a mám z toho větší radost, než kdyby mi byl zanechal velké jmění se špatným jménem.
+- typ: odstavec
+  de: |-
+    P. Che essercitio faceua uostro padre.
+  cs: |-
+    **Převor.** Jaké řemeslo provozoval váš otec?
+- typ: odstavec
+  de: |-
+    N. Mio padre teneua un cauallo, & con quello correua alla posta ad istantia di Cauallari da Bressa, cioe portando lettere della Illustrissima Signoria, da Bressa, à Bergamo, à Crema, à Verona, & altri luochi simili.
+  cs: |-
+    **Nicolò.** Můj otec choval koně a jezdil na něm s poštou na pokyn brescijských jízdních poslů {Cauallari}, totiž vozil listy nejosvícenější Signorie[^4] z Brescie do Bergama, do Cremy, do Verony a na jiná podobná místa.
+- typ: odstavec
+  de: |-
+    P. Di che casata se chiamaua.
+  cs: |-
+    **Převor.** Jak se jmenoval jeho rod?
+- typ: odstavec
+  de: |-
+    N. Per Dio che io non so, ne me aricordo de altra sua casata, ne cognome, saluo che sempre il sentei da piccolino chiamar simplicemente Micheletto Cauallaro, potria esser che hauesse hauuto qualche altra casata, ouer cognome, ma non che io sappia, la causa è, che il detto mio padre mi morse essendo io di eta de anni sei, uel circa, & cosi restai io, & un'altro mio fratello (poco maggior di me) & una mia sorella (menora di me) insieme con nostra madre uedoua, & liquida di beni della fortuna, con la quale, non poco dapoi fussemo dalla fortuna conquassati, che à uoler lo raccontar saria cosa longa, la qual cosa mi dete da pensare in altro, che de inquerire di che casata se chiamasse mio padre.
+  cs: |-
+    **Nicolò.** Při Bohu, nevím a nepamatuji se na žádný jiný jeho rod ani příjmení, jen že jsem ho odmalička vždy slýchal nazývat prostě Micheletto Cavallaro.[^5] Možná měl nějaký jiný rod nebo příjmení, ale pokud vím, ne. Příčinou je, že mi otec zemřel, když mi bylo asi šest let, a tak jsme zůstali já, můj další bratr (o málo starší než já) a jedna moje sestra (mladší než já) s naší ovdovělou matkou, zbavenou statků štěstěny; a nedlouho potom nás štěstěna tak zdeptala, že by bylo dlouhé to vyprávět. To mi dalo přemýšlet o jiných věcech, než pátrat, jak se jmenoval rod mého otce.
+- typ: odstavec
+  de: |-
+    P. Non sapendo di che casata si chiamasse
+  cs: |-
+    **Převor.** Když nevíte, jak se jmenoval rod
+poznamky:
+- n: 1
+  text: Brescia (v tisku Bressa) – Tartagliovo rodné město, tehdy pod vládou Benátek. Carmini = karmelitánský kostel Santa Maria del Carmine; San Cristoforo a Santa Chiara nuova – kostely v téže části města. Převor z Barletty (Gabriele Tadino z Martinenga) pocházel z brescijského kraje.
+- n: 2
+  text: Micheletto – zdrobnělina jména Michele („Michálek“), daná pro malou postavu. Tvary „conneniente“ a níže „testimoniaza“ jsou tiskové chyby (conueniente, testimonianza), ponechány.
+- n: 3
+  text: Zde „dvě sestry“, níže však Tartaglia uvádí jen „jednu svou sestru“ – rozpor je v originále.
+- n: 4
+  text: Illustrissima Signoria – benátská vláda (Signoria), pod niž Brescia, Bergamo, Crema a Verona patřily.
+- n: 5
+  text: Cauallaro – „jízdní posel, kurýr“; přízvisko podle otcova zaměstnání, ne rodové jméno.

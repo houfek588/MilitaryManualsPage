@@ -1,0 +1,47 @@
+id: 025v
+list: '25'
+strana: verso
+sken: 50
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    far creppar el pezzo quasi in ogni luoco. Anchora quando che una balla non è egualmente tonda, ouer che hauesse qualche parte piu elleuata in un luoco, che in un'altro, potria alle uolte far accadere un tal inconueniente uerso la bocca del pezzo. Anchora quando, che el pezzo è molto caldo per el lungo tirare, è molto piu atto al creppare, che essendo freddo (essendo pero di bronzo) perche el bronzo è di tal natura, che per il caldo se fa frangibile. Anchora un pezzo quanto piu tira in alto tanto piu patisse di quello fa tirandolo in piano. Anchora nel gettare il pezzo, ui se puo causar alcune comessure, & cauernosita parte occulte al senso, & parte palese: ma per esser di dentro dal pezzo non si possono uedere, le quale fanno piu debile in tal luoco el pezzo di quello ui si conuiene, e per questo alle uolte senza altro particolar accidente, in tal luoco creppa, ò sia de drio, ouer dauanti, ouer in mezzo. Alcuna fiata anchora el foro del pezzo non passa precisamente per mezzo dil mettallo, ma tende piu da una banda, che dall'altra: per il che il mettallo uien à restare da una banda piu sottile, & dall'altra piu grosso del suo douere, e per tanto da quella banda doue che el mettallo è piu sottile, et debile del suo douere el pezzo alle uolte creppa, et questo è quanto che alle cause del creppare, ui so dire,
+  cs: |-
+    roztrhnout dělo {pezzo} takřka na kterémkoli místě. Dále, když koule {balla} není stejnoměrně kulatá nebo má někde nějakou část vyvýšenější než jinde, mohla by někdy způsobit takovou nehodu u ústí děla. Dále, když je dělo dlouhou střelbou velmi rozpálené, je mnohem náchylnější k roztržení, než když je studené (je-li ovšem z bronzu), protože bronz je takové povahy, že se horkem stává křehkým. Dále, čím víc dělo střílí vzhůru, tím víc trpí, než když se z něj střílí vodorovně. Dále, při lití děla mohou vzniknout nějaké spáry {comessure} a dutiny, zčásti smyslům skryté a zčásti zjevné; protože jsou však uvnitř děla, nelze je vidět, a ty dělají dělo na tom místě slabším, než by mělo být. Proto se někdy i bez jiné zvláštní příhody na takovém místě roztrhne, ať vzadu, vpředu, nebo uprostřed. Někdy také vývrt {foro} děla neprochází přesně středem kovu, ale uchyluje se víc na jednu stranu než na druhou; kov pak zůstává na jedné straně tenčí a na druhé tlustší, než má být. A na té straně, kde je kov tenčí a slabší, než má být, se dělo někdy roztrhne. To je, co vám mohu říci o příčinách roztržení.
+- typ: odstavec
+  de: |-
+    G. Voi me haueti largamente di mei dubbij satisfatto.
+  cs: |-
+    **Slévač.** Vrchovatě jste mé pochybnosti uspokojil.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO VIGESIMOTERZO FATTO DA M. Alberghetto di Alberghetti gettadore de artegliaria. l'anno. 1545. adi Aprile. In Venetia.
+  cs: |-
+    Dvacátý třetí dotaz, který položil mistr Alberghetto di Alberghetti, slévač děl, roku 1545 dne … dubna v Benátkách[^1]
+- typ: odstavec
+  de: |-
+    ALBERGHETTO. Saria possibel di poter sapere, de una artegliaria nouamente incassata, ouer fornita, & non mai tirata se quella tirara li suoi tiri retti, ouer costeri, ouer in sgalembro, senza tirarla altramente.
+  cs: |-
+    **Alberghetto.** Bylo by možné zjistit u děla {artegliaria} nově osazeného na lafetu {incassata} neboli vystrojeného, z něhož se ještě nikdy nestřílelo, zda bude střílet své rány {tiri} přímo, nebo stranou {costeri}, nebo šikmo {in sgalembro}, aniž by se z něj jinak vystřelilo?
+- typ: odstavec
+  de: |-
+    N. Questo uostro quesito in sostantia non uuol dir altro, che sapere conoscere se el foro di tal pezzo giace rettamente nel mezzo del mettallo, ouer non, & non giacendo in mezzo del detto mettallo sapere determinare in qual uerso pende tal foro: la qual cosa non ho per difficile, & considero che eglie una cosa, che per molte uie se potria inuestigare, & sapere: ma à uoler dare un modo, che sia ispediente e facile, bisogneria pensarui alquanto.
+  cs: |-
+    **Nicolò.** Tento váš dotaz v podstatě neznamená nic jiného než umět poznat, zda vývrt {foro} takového děla leží přesně uprostřed kovu, či nikoli, a pokud uprostřed neleží, umět určit, na kterou stranu se vývrt uchyluje. To nepovažuji za obtížné a soudím, že je to věc, kterou by bylo možné zkoumat a zjistit mnoha cestami; chceme-li však podat způsob, který by byl pohotový a snadný, bylo by třeba o tom trochu přemýšlet.
+- typ: odstavec
+  de: |-
+    A. Pensatigli un poco, perche ho addimandato questo dubbio à molti, che fanno professione de ingegno, & non ho ritrouato alcun, che me habbia saputo dar resolutione.
+  cs: |-
+    **Alberghetto.** Popřemýšlejte o tom trochu, neboť jsem se na tuto pochybnost ptal mnoha lidí, kteří se honosí důmyslem, a nenašel jsem nikoho, kdo by mi ji uměl rozřešit.
+- typ: odstavec
+  de: |-
+    N. Io ho pensato sopra questa materia, & ritrouo in effetto tal cosa potersi inuestigar per piu uie: ma à uolerlo sapere con una cosa spediente, et di poco artificio el si die tuor due aste, ouer dui bastoni drittissimi, ouer due cantinelle, ouer liste ben pianate, & egualmente larghe, longhe quanto che è la canna de tal pezzo, & anchora uno brazzo di piu, & in quel brazzo di piu metterui, & inchiodarui dui trauersi longhi quanto che è la mitta della culatta del pezzo uel circa (e nanti piu che meno) & lontani l'uno da l'altro circa un brazzo, accio siano piu atti à conseruar li dette due aste, ouer cantinelle, ouer liste egualmente distante, e dapoi ficare l'una di quelle aste, ouer liste nella canna, ouero foro de tal pezzo, & l'altra andara de fuora uia. Et uolendo sapere se tal pezzo è piu grosso di mettallo in un luoco, che in un'altro, procederemo in questo
+  cs: |-
+    **Nicolò.** Přemýšlel jsem o této věci a skutečně shledávám, že ji lze zkoumat více cestami. Chceme-li to však zjistit pohotově a bez velkého umu, je třeba vzít dvě tyče neboli dvě zcela rovné hole, nebo dvě laťky {cantinelle} neboli dobře ohoblované lišty stejné šíře, dlouhé jako hlaveň {canna} toho děla a ještě o jeden loket {brazzo} víc. Na ten loket navíc se upevní a přibijí dvě příčky {trauersi} dlouhé zhruba jako polovina [průměru] závěru {culatta} děla (spíš víc než méně), vzdálené od sebe asi loket, aby lépe udržely obě tyče neboli laťky či lišty ve stejné vzdálenosti od sebe. Pak se jedna z těch tyčí neboli lišt zasune do hlavně neboli vývrtu děla a druhá zůstane venku. A chceme-li zjistit, zda má dělo na jednom místě silnější kov než na druhém, postupujeme tímto
+poznamky:
+- n: 1
+  text: Alberghetto di Alberghetti – člen benátské rodiny slévačů děl Alberghetti, která po několik generací odlévala děla pro benátský Arzenál. V datu „adi Aprile“ chybí v tisku číslo dne (je tu jen mezera).

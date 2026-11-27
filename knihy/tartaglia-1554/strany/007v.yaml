@@ -1,0 +1,32 @@
+id: 007v
+list: '7'
+strana: verso
+sken: 14
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO SECONDO FATTO dal medesimo Illust. Sig. Duca consequentemente al precedente.
+  cs: |-
+    Druhý dotaz {Quesito}, který položil týž nejosvícenější pan vévoda v návaznosti na předchozí
+- typ: odstavec
+  de: |-
+    DVCA. Ma ditemi un poco per qual uerso credete uoi che una Artegliaria fara maggior effetto, ouer passata nella cosa doue se tira, tirandoui con quella aliuellata, ouer elleuata dauanti.
+  cs: |-
+    **Pan vévoda.** Ale řekněte mi, jakým způsobem podle vás bude mít dělo {Artegliaria} větší účinek čili průraz {passata} v předmětu, do něhož se střílí: když se do něho střílí z děla vodorovného {aliuellata}, nebo vpředu zdviženého {elleuata dauanti}?
+- typ: odstavec
+  de: |-
+    N. A uoler resoluere questo quesito senza reprensione, eglie necessario, che uostra Eccellentia, me proponga tal quesito per essempio, ouer figura, con la quantita della distantia de tal Artegliaria, & la qualita del luoco doue se tira.
+  cs: |-
+    **Nicolò.** Mám-li tento dotaz rozřešit bezvadně, je nutné, aby mi jej Vaše Excelence předložila na příkladu čili obrazci, s udáním vzdálenosti toho děla a s povahou místa, kam se střílí.
+- typ: odstavec
+  de: |-
+    S.D. Pongo per essempio, che il mi occorresse di far battere una fortezza che fusse in cima di una colina, ouer monticello, alto passa .60. & che lontano passa .100. da quella tal colina, ouer monticello, ui fusse un'altra colina, ouer monticello, alto alla equalita di detta fortezza, cioè pur passa .60. (come di sotto appare in figura) & poniamo che sopra la cima di questo secondo monticello, ui se potesse stare commodamente con la artegliaria à battere questa tal fortezza, la quale artegliaria in tal luoco ueneria à tirare in quella retto tramite, cioè con la detta artegliaria aliuellata (come di sotto appare in figura) & poniamo anchora che tal fortezza, si potesse commodamente battere stando con la artegliaria nel piano (cioè stando da banda nel pie del detto secondo monticello in quella medesima distantia) cioè stando lontano dal pie del monte, doue è la fortezza pur passa .100. nel qual luoco, la detta artegliaria uerria à tirare in quella stante molto elleuata dauanti, cioè tiraria in quella di sotto in suso (come di sotto appare in figura.) Hor ue adimando, in qual luoco pensati che tale artegliaria faria maggiore effetto, ouer passata in detta fortezza,
+  cs: |-
+    **Pan vévoda.** Kladu za příklad, že bych měl dát ostřelovat {battere} pevnost {fortezza}, která by stála na vrcholu pahorku čili kopečku vysokého 60 kroků {passa}, a že 100 kroků od toho pahorku čili kopečku by byl jiný pahorek čili kopeček, vysoký stejně jako ta pevnost, totiž rovněž 60 kroků (jak je vidět níže na obrazci). A dejme tomu, že na vrcholu tohoto druhého kopečku by se dalo pohodlně postavit s dělem a ostřelovat tu pevnost; dělo by tam do ní střílelo přímou drahou {retto tramite}, totiž vodorovně (jak je vidět níže na obrazci). A dejme dále tomu, že by se tato pevnost dala pohodlně ostřelovat i s dělem postaveným na rovině (totiž stranou na úpatí zmíněného druhého kopečku, ve stejné vzdálenosti), tj. 100 kroků od úpatí hory, na níž stojí pevnost; na tomto místě by do ní dělo střílelo s ústím vysoko zdviženým, tj. střílelo by do ní zdola nahoru (jak je vidět níže na obrazci). Nuže, ptám se vás: na kterém místě by podle vás takové dělo mělo větší účinek čili průraz v té pevnosti,
+- typ: obrazek
+  soubor: drevorez-14.jpg
+  popis: |-
+    Dva strmé pahorky oddělené údolím. Na vrcholu levého stojí válcová věž s cimbuřím (pevnost), na vrcholu pravého, stejně vysokého pahorku dělo na kolové lafetě namířené vodorovně; přímka z jeho ústí vede vodorovně k věži. Na úpatí pravého pahorku stojí druhé dělo s hlavní zdviženou šikmo vzhůru; z jeho ústí vede k věži šikmá přímka.

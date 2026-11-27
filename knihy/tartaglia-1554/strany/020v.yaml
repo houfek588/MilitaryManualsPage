@@ -1,0 +1,66 @@
+id: 020v
+list: '20'
+strana: verso
+sken: 40
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    accresceria il detto tiro tanto quanto fece il primo terzo, cioe chel non accrescera quelli passa.250.che fu supposto che facesse il primo terzo, ma cresceria molto manco de detti passa.250.& similmente, che ui aggiongesse anchora un'altro terzo di poluere di piu quest'altro terzo accresceria pur il tiro, ma molto manco di quello hauera fatto lo secondo terzo, che fu aggionto, si che ogni accrescimento di poluere andaria per fina à un certo termine sempre accrescendo alquanto il tiro, ma tal crescere andaria sempre sminuendo del suo anciano per fina al detto termine, ma da quello termine in suso che ui aggiongesse piu poluere non faria accrescere piu il detto tiro, anci potria esser tanto lo accrescimento della poluere che non solamente la non faria crescere, ma faria calare assai il detto tiro.
+  cs: |-
+    dostřel {tiro} nezvětšila tolik jako první třetina, to jest nepřidala by oněch 250 kroků {passa}, které podle předpokladu přidala první třetina, nýbrž by přidala mnohem méně než oněch 250 kroků. A podobně, kdyby se přidala ještě další třetina prachu {poluere}, i tato další třetina by dostřel sice zvětšila, ale mnohem méně, než by to učinila přidaná druhá třetina. Každé zvětšení prachu by tedy až do jisté meze dostřel vždy o něco zvětšovalo, ale tento přírůstek by se oproti předchozímu až do oné meze stále zmenšoval; a od této meze výše by přidání dalšího prachu dostřel už nezvětšilo, ba přírůstek prachu by mohl být tak velký, že by dostřel nejenže nezvětšil, ale značně zmenšil.
+- typ: odstavec
+  de: |-
+    P. Voi diceti una cosa, che non mi consona molto, cioe à dire che ui se potria aggiongere, ouer accrescerui tanta poluere oltra à un certo termine, che non solamente la non faria accrescere il tiro à tal pezzo, ma che lo faria callare, la qual cosa me pare molto fuora di ragione.
+  cs: |-
+    **Převor.** Říkáte věc, která se mi příliš nezamlouvá, totiž že by se do děla dalo přidat čili přisypat tolik prachu nad jistou mez, že by to dostřel takového děla {pezzo} nejen nezvětšilo, ale zmenšilo; to se mi zdá velmi proti rozumu.
+- typ: odstavec
+  de: |-
+    N. Anci è ragioneuole per commun prouerbio: qual dice, che ogni superchio rompe il coperchio, & per chiarire ben questo dubbio bisogna uenir alli estremi. Et per tanto dico, che chi cargasse questo tal pezzo con tanta poluere quanto puo tener la canna, lassandoui solamente nella istremita di detta canna tanto di uacuo quanto è il diametro della balla, cioe tanto che ui si potesse mettere la balla à pena, & tirarlo poi in tal modo cargato, adimando à uostra Signoria, se quella crede, che quello tiraria piu, ouer meno di quello faria à cargarlo secondo l'ordinario, cioe con dui terzi poluere di quello pesa la balla.
+  cs: |-
+    **Nicolò.** Naopak, je to rozumné podle obecného přísloví, které říká, že každá přemíra rozbije poklici.[^1] A abychom tuto pochybnost dobře objasnili, je třeba přejít ke krajnostem. Pravím tedy: kdyby někdo nabil takové dělo tolika prachem, kolik se vejde do hlavně {canna}, a nechal by na konci hlavně volné místo jen na průměr koule {balla}, totiž tolik, aby se tam koule sotva vešla, a pak by z takto nabitého děla vystřelil, ptám se Vaší Milosti {uostra Signoria}, zda věří, že by dostřelilo dál, nebo méně, než kdyby se nabilo obvyklým způsobem, totiž dvěma třetinami prachu oproti váze koule.
+- typ: odstavec
+  de: |-
+    P. Io credo che chi il tirasse in tal modo cargato che tal pezzo crepparia, & che ueramente il superchio di detta poluere, romperia il coperchio (come dice il uostro prouerbio) cioe che romperia il detto pezzo.
+  cs: |-
+    **Převor.** Já myslím, že kdyby z něj někdo takto nabitého vystřelil, dělo by se roztrhlo a přemíra prachu by vskutku rozbila poklici (jak říká vaše přísloví), totiž roztrhla by dělo.
+- typ: odstavec
+  de: |-
+    N. Non uoglio stare à disputare che in un tal caso, tal pezzo douesse ragioneuolmente creppare, ouer non creppare, perche longa saria tal disputta, ma supponiamo pur, che tal pezzo non creppasse.
+  cs: |-
+    **Nicolò.** Nechci se přít o to, zda by se v takovém případě dělo rozumně vzato mělo roztrhnout, nebo ne, protože taková disputace by byla dlouhá; předpokládejme však, že se neroztrhne.
+- typ: odstavec
+  de: |-
+    P. In questo caso che gli ponesse una balla che ui entrasse talmente stretta, che fusse necessario à farla entrar per forza di mazzate. Io tengo per fermo che tiraria molto lontano.
+  cs: |-
+    **Převor.** V takovém případě, kdyby se do něj vložila koule, která by vcházela tak těsně, že by bylo třeba ji tam vtlouci údery palice, mám za jisté, že by dostřelilo velmi daleko.
+- typ: odstavec
+  de: |-
+    N. In tutte le cose che sono state dette, et che se hanno da dire, circa alle cose di tiri delle artegliarie, sempre se suppone (non specificando altro) che le balle siano, eguale si in grandezza, come di peso, etiam che siano egualmente rotonde, perche ciascuno di questi accidenti fanno uariar li tiri. E per tanto in questo nostro caso dico, che se debbe intendere, che la balla che se ha da tirare con la canna piena di poluer sia di quella medesima qualita di peso, misura, & rotondita, che quella che se ha da tirare secondo l'ordinario, cioe con li dui terzi poluere di quello pesa la balla.
+  cs: |-
+    **Nicolò.** Ve všem, co bylo řečeno a co se ještě řekne o dostřelech děl {artegliarie}, se vždy předpokládá (není-li uvedeno jinak), že koule jsou stejné jak velikostí, tak vahou a že jsou také stejně kulaté, protože každá z těchto okolností {accidenti} způsobuje, že se dostřely mění. A proto v tomto našem případě pravím, že je třeba rozumět, že koule, která se má vystřelit s hlavní plnou prachu, má tutéž váhu, míru a kulatost jako ta, která se má vystřelit obvyklým způsobem, totiž se dvěma třetinami prachu oproti váze koule.
+- typ: odstavec
+  de: |-
+    P. Pigliandola per il modo che uoi diceti, in effetto la cosa è dubbiosa.
+  cs: |-
+    **Převor.** Vezme-li se to tak, jak říkáte, je věc skutečně pochybná.
+- typ: odstavec
+  de: |-
+    N. Non ui è dubbio alcuno, anci è cosa certa che tirandola con la canna piena di poluere tirara molto, & molto manco di quello faria con la poluere ordinaria.
+  cs: |-
+    **Nicolò.** Není tu žádná pochybnost, naopak je jisté, že vystřelí-li se s hlavní plnou prachu, dostřelí mnohem a mnohem méně, než by dostřelilo s obvyklým prachem.
+- typ: odstavec
+  de: |-
+    P. Perche ragione.
+  cs: |-
+    **Převor.** Z jakého důvodu?
+- typ: odstavec
+  de: |-
+    N. La ragion è questa, che ogni poluere (per fina che la sia) abbrusa in tempo, cioe che prima abbrusa quella che se ritroua nel luoco doue ui se da fuoco, di quella che è alquanto remota dal detto luoco, & quella, che è piu propinqua al detto luoco se abbrusa alquanto auanti di quella, che ui è men propinqua, ouer che ui è piu remota, stante adunque questa propositione, eglie manifesto che qual si uoglia parte di quella tal poluere, che se ritroua nella canna del detto pezzo, che sia piu propinqua al foro doue
+  cs: |-
+    **Nicolò.** Důvod je tento: každý prach (ať je jakkoli jemný) hoří v čase, to jest nejprve shoří ten, který je v místě, kde se mu dává oheň, a teprve potom ten, který je od toho místa poněkud vzdálen; a ten, který je tomu místu blíž, shoří o něco dřív než ten, který je mu méně blízko čili je od něj vzdálenější. Platí-li tedy tato věta, je zřejmé, že kterákoli část prachu, která se nachází v hlavni děla a je blíže k otvoru {foro}, kudy
+poznamky:
+- n: 1
+  text: Ogni superchio rompe il coperchio – italské přísloví (doslova „každá přemíra rozbije poklici“), obdoba českého „všeho moc škodí“; převor v další replice slovní hříčku rozvíjí – poklicí by tu bylo samo dělo.

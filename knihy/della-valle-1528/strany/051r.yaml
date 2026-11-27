@@ -1,0 +1,21 @@
+id: 051r
+list: '51'
+strana: recto
+sken: 121
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: A FARE DOI BATTAGLIONE lun contra laltro. Capitolo. XLII.
+  cs: Jak postavit dva bataillony proti sobě. Kapitola XLII.
+- typ: odstavec
+  de: |-
+    QVesti battaglioni sono contrarii luno de laltro, triangolo contra quadrangolo como qui alincontro appare, & ciascuno de epso sono picche trecento, & alo quadrangolo auanzano sedece picche, quale se metteno nella piaza, & allo triangolo auanza quattro, & cosi questi doi battaglioni se deueno affrontare, & ciaschun de epsi potranno spicare una ala per impedire per fianco, & anco doi. Ma uero depende chi la cacciara con piu ragione & ad tempo, & cossi se potriano moltiplicare in gran numero ciaschun de epsi con altri battaglioni per conserua & spalle.
+  cs: |-
+    Tyto bataillony {battaglioni} stojí proti sobě, trojúhelník {triangolo} proti čtyřúhelníku {quadrangolo}, jak je vidět na protější straně, a každý z nich má tři sta pikenýrů {picche}. Čtyřúhelníku přebývá šestnáct pikenýrů, kteří se postaví na náměstí {piaza}[^1], a trojúhelníku přebývají čtyři. Takto se tyto dva bataillony mají utkat a každý z nich bude moci vyslat jedno křídlo {ala}, aby [nepříteli] překáželo z boku, a také dvě. Ale skutečně záleží na tom, kdo je vyšle s větším rozmyslem a včas. A tak by se každý z nich mohl rozmnožit do velkého počtu s dalšími bataillony jako průvodem a zálohou {per conserua & spalle}[^2].
+poznamky:
+- n: 1
+  text: Piazza – volný prostor uvnitř dutého čtyřhranného šiku, kde stojí prapor a jeho stráž (na obrazci [[050v|50 v]] písmena „d“ kolem „B“). Nezaměňovat s dělovou plošinou (heslo glosáře „plošina“).
+- n: 2
+  text: „Per conserva“ – jako doprovod, souputník (námořní výraz pro lodě plující spolu); „spalle“ (doslova „plece“) – opora, záloha za zády bataillonu. Text je sázen do zužujícího se trojúhelníku (tzv. včelí úl), jak bývalo zvykem na konci kapitoly.

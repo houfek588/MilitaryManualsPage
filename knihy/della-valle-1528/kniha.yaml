@@ -1,0 +1,63 @@
+id: della-valle-1528
+nazev: Val
+nazev_orig: 'Vallo. Libro continente appertenentie ad capitanii'
+podtitul: retenere & fortificare una città con bastioni, con novi artificii de fuoco aggionti, … et de expugnare una città con ponti, scale, argani, trombe, trenciere, artegliarie, cave, dare avisamenti senza messo allo amico, fare ordinanze, battaglioni et ponti de disfida con lo pingere
+autor: Battista della Valle
+autor_razeni: 'Della Valle, Battista'   # klíč abecedního řazení v Knihovně (příjmení, jméno)
+autor_zivot: 1. polovina 16. století, voják z Venafra
+vydani: Benátky, Piero de Ravani, 1528
+rok: 1528
+katalog: 'Getty Research Institute, 9928375040001551'
+rozsah: '[8], 71, [1] listů'
+jazyk: it          # jazyk originálu: pole `de` ve stranách a glosáři obsahuje ITALSKÝ text a tvary
+jazyk_orig: italština (1528, s neapolskými a benátskými rysy)
+popis: >-
+  Příručka vojáka z Venafra pro kapitány: jak hájit a opevnit město baštami, ohňostrojné zbraně, střelný prach,
+  dobývání mosty, žebříky a minami, tajné zprávy, desítky obrazců bataillonů a šiků a v poslední knize kodex
+  rytířských soubojů a urážek cti.
+prekladatel: Přepis ze skenu (OCR jen pomocně) a překlad s pomocí LLM, 2026.
+strankovani: folio
+strany_poznamka: >-
+  Úvod (titul, verše, obsah a „tři kapitoly o ohňostrojných zbraních“) tvoří 8 nečíslovaných listů, které edice
+  uvádí v hranatých závorkách [1]–[8]; text je foliován 1–71 (list N r = sken 2N + 19), na listu [72] r (sken 163) je
+  tiskařský znak. Exempláři Getty Research Institute chybí poslední (patrně prázdný) list.
+zdroj_textu: 'Italský text je přepsán podle digitalizace Getty Research Institute v Internet Archive (vallolibrocotine00dell), OCR archivu sloužilo jen pomocně;'
+
+sken:
+  instituce: Getty Research Institute (Internet Archive)
+  kratce: Internet Archive
+  portal: archive.org
+  paticka: 'Sken: Getty Research Institute / Internet Archive'
+  signatura: Getty Research Institute, 9928375040001551
+  id: vallolibrocotine00dell
+  zaklad_id: -1          # stránka v prohlížeči archive.org má číslo n = sken − 1
+  url_dilo: https://archive.org/details/vallolibrocotine00dell
+  url_strana: https://archive.org/details/vallolibrocotine00dell/page/n{erara_id}/mode/1up
+  url_obrazek: https://iiif.archive.org/iiif/vallolibrocotine00dell%24{sken}/full/{sirka},/0/default.jpg
+  licence: 'Volné dílo (tisk 1528); digitalizace Getty Research Institute, zpřístupněno v Internet Archive'
+  poznamka: 'Sken = číslo listu skenu v archivu (soubor _NNNN.jp2, IIIF …%24NNN). Úvodní list [N] r = sken 2N + 3, foliovaný list N r = sken 2N + 19. Skeny 1–4 jsou desky, ex libris a prázdné strany.'
+
+predsadka: [titul]
+
+poznamky_k_prekladu: |
+  JAZYK: originál je ITALSKY (1528). Pole `de` obsahuje italský text. OCR archivu (zdroje/ocr_ia/NNNN.txt) je velmi
+  špatné – text přepisuj ZE SKENU, OCR použij jen k orientaci. Zachovej pravopis tisku (u/v: uarie, hauere; et, &;
+  ph, ti/tti: Excellentissimo, expugnare), dlouhé ſ převáděj na s, ligaturu ß na „ss“, zkratky s vlnovkou rozepiš
+  (cõ → con, ẽ → en, q̃ → que), vynech živé záhlaví (LIBRO / PRIMO), číslo listu, signatury a kustody.
+
+  STRUKTURA: titul [1] r (sken 5), verše „Se uoi …“ [1] v, Tabola (obsah) [2] r – [5] r, dřevořez [5] v (sken 14),
+  „Capitoli tre de artificii de fuoco novamente aggionti“ [6] r – [8] v, LIBRO PRIMO s věnováním hraběti
+  Henricovi Pandonovi z Venafra od listu 1 r (sken 21), LIBRO SECONDO od listu 20 r (sken 59; dobývání: mosty,
+  žebříky, stroje), LIBRO TERZO od listu 29 v (sken 78; bataillony a šiky – mnoho obrazců z písmen a teček),
+  LIBRO QUARTO od listu 53 v (sken 126; šlechtictví, urážky cti a souboje), tiráž a registr 71 v (sken 162).
+  Úroveň 1 = titul, obsah, úvodní kapitoly o ohni, jednotlivé knihy; úroveň 2 = kapitoly („Capitolo …“);
+  úroveň 3 = drobné mezinadpisy.
+
+  TERMINOLOGIE (výchozí, glosář ji upřesní): capitano = kapitán, bastione = bašta, cavaliero = kavalír, artiglieria /
+  artegliaria = dělostřelectvo, pezzo = dělo, bombardiero = dělostřelec, polvere = prach, salnitro = ledek,
+  battaglione / battaglia = bataillon / šik (battaglione = velký čtvercový šik pěchoty), ordinanza = šik / řád,
+  picca / picche = píka / pikenýři, archibuso = arkebuza, scoppietto = ručnice, fante = pěšák, huomo d'arme =
+  kyrysník (těžký jezdec), cavallo leggiero = lehký jezdec, sargente = šikovatel, colonello = plukovník
+  (velitel kolony), caporale = desátník, alfiere = praporečník, bandiera = prapor, trincea = zákop, cava = mina,
+  ponte = most, scala = žebřík, argano = rumpál, tromba de fuoco = ohnivá trouba, disfida = výzva k souboji,
+  cartello = vyzývací list, padrino = sekundant, mentita = obvinění ze lži, honore = čest, cavaliero (osoba) = rytíř.

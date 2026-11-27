@@ -1,0 +1,63 @@
+id: 018r
+list: '18'
+strana: recto
+sken: 35
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    tanto piu tira lontano.
+  cs: |-
+    čím delší má hlaveň {canna}?
+- typ: odstavec
+  de: |-
+    N. Questa uostra propositione non è generale, cioe che quanto piu è longo di canna un pezzo tanto piu tiri lontano. Anci è da credere, & da tener per fermo, che ogni specie di pezzo, ui sia una sua certa, & determinata longhezza, cosi debitamente proportionata alla poluere, & balla che porta quello tal pezzo, la quale ogni uolta che sia preterita (in qual modo si uoglia) tal pezzo sempre debbia tirar manco, e per tanto dico, che potesse hauer perfetta cognitione di questa sua proportionata longhezza in ogni specie di pezzo non accaderia à fare pezzi longhi, & pezzi corti di canna (saluo per necessità) perche ogni uolta che una specie di pezzo fusse fatto piu longo di quella sua proportionata longhezza, ouer piu corto tal pezzo sempre tiraria manco (dico con una medesima quantita di poluere.
+  cs: |-
+    **Nicolò.** Toto vaše tvrzení neplatí obecně, totiž že čím delší hlaveň dělo {pezzo} má, tím dál dostřelí. Naopak je třeba věřit a mít za jisté, že pro každý druh děla existuje určitá a stanovená délka, náležitě úměrná prachu {poluere} a kouli {balla}, které to dělo nese; a kdykoli se tato délka (jakýmkoli způsobem) překročí, dělo vždy dostřelí méně. A proto pravím, že kdo by dokonale znal tuto úměrnou délku u každého druhu děla, nemusel by dělat děla s dlouhými a s krátkými hlavněmi (leda z nutnosti). Kdykoli by totiž nějaký druh děla byl udělán delší nebo kratší, než je jeho úměrná délka, dostřelil by vždy méně (myslím se stejným množstvím prachu).
+- typ: odstavec
+  de: |-
+    P. Credo che uoi diciati el uero, perche uedo che à tutte le specie de canoni, & altri pezzi corti, per tirarli ordinariamente ui danno di poluere li dui terzi di quello, che pesa la balla. Ma à tutte le specie di colobrine, per esser pezzi piu longhi di canna à cadauna ordinariamente per tirarla ui danno li quatro quinti di quello pesa la balla, & tutto questo credo chel facciano, perche daendoli solamente li dui terzi, come si costuma dar alli canoni forsi che la non tiraria tanto, come fanno li canoni.
+  cs: |-
+    **Převor.** Věřím, že mluvíte pravdu, neboť vidím, že všem druhům kanonů {canoni} a jiným krátkým dělům se ke střelbě obvykle dávají dvě třetiny prachu toho, co váží koule. Ale všem druhům kolubrin {colobrine}, protože jsou to děla s delší hlavní, se ke střelbě obvykle dávají čtyři pětiny toho, co váží koule. A to vše podle mne dělají proto, že kdyby se jim dávaly jen dvě třetiny, jak se obvykle dává kanonům, snad by kolubrina nedostřelila tak daleko jako kanony.[^1]
+- typ: odstavec
+  de: |-
+    N. Questo è una cosa certamente, che io non sapeua, & essendo cosi ho molto à caro hauerla intesa.
+  cs: |-
+    **Nicolò.** To je věru věc, kterou jsem nevěděl, a je-li tomu tak, jsem velmi rád, že jsem ji slyšel.
+- typ: odstavec
+  de: |-
+    P. Anci questa è una cosa, che è notissima ad ogni minimo bombardiero.
+  cs: |-
+    **Převor.** Vždyť je to věc, kterou dobře zná i ten nejposlednější dělostřelec {bombardiero}.
+- typ: odstavec
+  de: |-
+    N. Credo, che essendo cosi ui debbia esser nota à cadauno di loro. Ma io non so che materia sia questa, & molto mi marauiglio di Principi, che fanno gettar tai pezzi con uno difetto tanto euidente per uoler poi medicar quel tal effetto con suo gran discomodo, & spesa.
+  cs: |-
+    **Nicolò.** Věřím, že je-li tomu tak, musí to znát každý z nich. Ale já nevím, co je to za věc, a velmi se divím knížatům, že dávají lít taková děla s tak zjevnou vadou, aby pak tuto vadu napravovala ke své velké škodě a nákladu.
+- typ: odstavec
+  de: |-
+    P. Ma se ben queste colobrine ui si da piu poluere di quello, che se fa alli canoni, tirano poi anchora piu di quello fanno li canoni.
+  cs: |-
+    **Převor.** Ale přestože se kolubrinám dává víc prachu než kanonům, dostřelí pak také dál než kanony.
+- typ: odstavec
+  de: |-
+    N. Ne ha mai fatto far isperientia uostra Signoria di questo.
+  cs: |-
+    **Nicolò.** Dala o tom Vaše Milost {uostra Signoria} někdy udělat zkoušku?
+- typ: odstavec
+  de: |-
+    P. Io non ho mai fatto far questa sperientia, nondimeno io ho per fermo, che sia cosi, perche etiam tutti li bombardieri hanno uniuersalmente questa opinione, & non puo esser altramente, perche essendo la colobrina piu longa di canna del canone, & duendoli poi anchor piu poluere di quello si fa al canone, el non puo esser altramente, che la non tiri assai piu di quello che fa il canone, & la spesa non è tanto grande, come uoi la fati, perche in uno canone da libre.20.di balla ui si da ordinariamente per tirarlo libre.13.onze.4.di poluere, & alla colobrina pur da libre.20.di balla ui si da ordinariamente per tirarla lire.16.di poluere, che saria solamente lire.2.onze.8.de piu, si che questa spesa de lire.2.onze.8.de poluere de piu è una miseria.
+  cs: |-
+    **Převor.** Takovou zkoušku jsem udělat nikdy nedal, přesto mám za jisté, že tomu tak je, protože tento názor mají obecně všichni dělostřelci. A nemůže to být jinak: má-li kolubrina delší hlaveň než kanon a dává-li se jí[^2] navíc víc prachu než kanonu, nemůže to být jinak, než že dostřelí mnohem dál než kanon. A náklad není tak velký, jak jej děláte vy, neboť kanonu na 20 liber {libre} koule se ke střelbě obvykle dává 13 liber 4 unce {onze} prachu a kolubrině rovněž na 20 liber koule se ke střelbě obvykle dává 16 liber prachu; to by bylo jen o 2 libry 8 uncí víc, takže tento náklad 2 liber 8 uncí prachu navíc je pouhá maličkost.
+- typ: odstavec
+  de: |-
+    N. Io non uoglio affermare, che la colobrina debbia tirar piu, ouer meno del suo canone per non esser tal cosa molto chiara, per non hauersi perfetta notitia della sua proportionata longhezza (detta di sopra) ma se eglie il uero, che la colobrina cargandola solamente con tanta poluere, quanta si da al suo canone, la non tiri tanto quanto fa el suo canone, io son certissimo, che à uoler che la tiri precisamente tanto, quanto fa el suo canone, eglie necessario à porui dentro piu poluere di quello si fa al canone, & tanto piu poluere ui uora, quanto maggior sara la differentia di dui tiri fatti con egual quantita di poluere, et per tanto conchiudo chel potria esser facilmente, che tirando la sopra detta colobrina da.20.con la poluere che ordinariamente ui si da de piu del canone, che quella tal poluere non sara forsi sofficiente à farla arriuare à quel segno, che tira el canone, uero è chel potria esser anchora
+  cs: |-
+    **Nicolò.** Nechci tvrdit, že kolubrina musí dostřelit dál nebo méně než její kanon, protože taková věc není příliš jasná, neboť se dokonale nezná její úměrná délka (o níž byla řeč výše). Je-li však pravda, že kolubrina nabitá jen tolika prachem, kolik se dává jejímu kanonu, nedostřelí tak daleko jako její kanon, jsem si zcela jist, že má-li dostřelit přesně tak daleko jako její kanon, je třeba do ní vložit víc prachu, než se dává kanonu; a prachu bude potřeba tím víc, čím větší bude rozdíl mezi dvěma výstřely vykonanými se stejným množstvím prachu. A proto uzavírám, že se snadno může stát, že když se z uvedené dvacetilibrové kolubriny vystřelí s prachem, který se jí obvykle dává navíc oproti kanonu, takový prach snad nebude stačit, aby ji přivedl k onomu cíli {segno}, kam dostřelí kanon. Je ovšem pravda, že by se také mohlo stát,
+poznamky:
+- n: 1
+  text: Dobová pravidla nabíjení – kanonu dvě třetiny váhy koule, kolubrině čtyři pětiny – odpovídají tomu, co převor níže dokládá čísly (kanon na 20 liber 13 liber 4 unce prachu, kolubrina na 20 liber 16 liber; libra má 12 uncí).
+- n: 2
+  text: V tisku „duendoli“ – zřejmě tisková chyba za „dandoli“ (dává-li se jí); ponecháno podle tisku.

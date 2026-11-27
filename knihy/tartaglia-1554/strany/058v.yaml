@@ -1,0 +1,40 @@
+id: 058v
+list: '58'
+strana: verso
+sken: 116
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    se tal nostra scala sara supposta poniamo de cento apriture di compasso, le quale representasse .100. passa, prima con un compasso largo alla equalita di tal scala, se misurara fora sette apriture di quel tal compasso, le quale denotaranno .700. passa, dapoi se restringera el detto compasso alla equalita de una decima parte de tal scala, la quale representara dieci passa, & con tal apritura se misurara fora anchora .9. e meggio di tal apriture, & cosi se hauera misurato fuora li sopradetti passa settecento nouantacinque, & questo si fa, perche saria cosa molto longa à uoler stare à misurare una tanta gran quantita di passa, con una apritura di compasso che representasse un sol passo, & massime, che tal hora el dissegno si uora far tanto piccolo, che un passo non saria quantita sensibile, & per questo sempre si costuma far la detta linea (chiamata scala) & quella se suppone de quanti passa pare all'operante, nondimeno la maggior parte la suppone de cento passa nelle discretion piccole, ma nelle grande in Geographia se suppongano de milliari, & non de passa, cioe de cento, ouer piu milliari. Anchora bisogna notar, che quella prima linea, che di sopra fu detto, che si debbe tirare in mezzo della carta, doue se uol descriuere el nostro dissegno (cioe quella linea .a.b.) la se puo supponere, che uada rettamente da Leuante à Ponente, ouer da Ostro à Tramontana, il che supponendola, bisogna poi giustar la medesima del nostro istrumento sopra à quella, & dapoi torcere talmente la tabula, che la lancetta della calamita se uada à giustar (in tal positione) secondo el suo ordine, & dapoi procedere, come di sopra fu detto.
+  cs: |-
+    a naše měřítko {scala} bude stanoveno řekněme na sto rozevření kružítka {apriture di compasso}, která budou představovat 100 kroků {passa}, pak se nejprve kružítkem rozevřeným na celou délku měřítka odměří sedm takových rozevření, která budou znamenat 700 kroků; potom se kružítko zúží na desetinu měřítka, která bude představovat deset kroků, a tímto rozevřením se odměří ještě 9 a půl takových rozevření; a tak bude odměřeno zmíněných sedm set devadesát pět kroků. To se dělá proto, že by bylo velmi zdlouhavé chtít měřit tak velký počet kroků rozevřením kružítka, které by představovalo jediný krok, zvláště když se kresba někdy bude dělat tak malá, že by jeden krok nebyl znatelnou veličinou. Proto se vždy zhotovuje zmíněná čára (zvaná měřítko) a stanoví se na tolik kroků, kolik se zdá vhodné tomu, kdo pracuje; většina ji však stanoví na sto kroků u malých zákresů,[^1] kdežto u velkých, v geografii, se stanoví na míle {milliari}, a ne na kroky, totiž na sto nebo více mil. Dále je třeba si povšimnout, že o oné první přímce, o níž bylo výše řečeno, že se má vést prostředkem papíru, na němž chceme naši kresbu vynést (totiž o přímce a b), lze předpokládat, že vede přímo od východu {Leuante} k západu {Ponente} nebo od jihu {Ostro} k severu {Tramontana}. Předpokládáme-li to, je pak třeba na ni vyrovnat tutéž [čáru] našeho nástroje a potom natočit desku tak, aby se magnetická střelka {lancetta della calamita} (v této poloze) nastavila podle svého řádu, a potom postupovat, jak bylo řečeno výše.
+- typ: obrazek
+  soubor: drevorez-116.jpg
+  popis: Zákres pětiúhelníkové krajinky na papíře – obrazec A (vlevo nahoře), E (vpravo nahoře), D (vpravo), C (dole), B (vlevo). Uprostřed leží buzola s dioptrou (kreslená otočená, nahoře O, vpravo nahoře G, vpravo P, vpravo dole M, dole T, vlevo dole G, vlevo L, vlevo nahoře S); z jejího středu vedou přímky k vrcholům a pokračují za ně jako „přímky neurčité délky“, na nichž se kružítkem odměřily vzdálenosti z lístku.
+- typ: odstavec
+  de: |-
+    R. E ue ho inteso benissimo, & basta per hoggi.
+  cs: |-
+    **Richard.** Porozuměl jsem vám velmi dobře, a pro dnešek to stačí.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO TERZO FATTO DAL MEDDSIMO M. Richardo Ventuorth.
+  cs: Třetí dotaz, který položil týž[^2] pan Richard Wentworth
+- typ: odstavec
+  de: |-
+    RICHARDO. Hor uoria, che uoi mi dichiarasti un poco quando che li lati del detto paese non fusseno perfettamente retti, come se doueria procedere.
+  cs: |-
+    **Richard.** Nyní bych si přál, abyste mi trochu vysvětlil, jak by se mělo postupovat, kdyby strany oné krajiny nebyly dokonale přímé.
+- typ: odstavec
+  de: |-
+    N. Quando che quello paese, che se desiderasse da mettere in dissegno fusse contenuto parte da linee curue, & parte da rette, oueramente tutto da linee curue, eglie necessario à formar in tal figura curuilinea una figura rettilinea de molti lati per accostarse piu che sia possibile à quelle linee curue, & mettere in dissegno quella figura
+  cs: |-
+    **Nicolò.** Kdyby krajina, kterou si přejeme zakreslit, byla ohraničena zčásti křivkami a zčásti přímkami, anebo celá křivkami, je nutné do takového křivočarého obrazce vepsat přímočarý obrazec o mnoha stranách, aby se co nejvíce přiblížil oněm křivkám, a zakreslit ten
+poznamky:
+- n: 1
+  text: Discretion piccole – doslova „malá rozlišení“, tj. zákresy malých území (měřítka s jemným dělením); překlad podle smyslu.
+- n: 2
+  text: V tisku chybně „MEDDSIMO“ místo „MEDESIMO“; v originále ponecháno.

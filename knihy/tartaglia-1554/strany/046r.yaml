@@ -1,0 +1,42 @@
+id: 046r
+list: '46'
+strana: recto
+sken: 91
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    auanzara fanti .31.) & di tal radice seruirsene secondo il suo uolere, essempi gratia, uolendoli de subito mettere in bttaglia quadra di gente, se ne doueria mettere sessantatre fanti per fila, & tal battaglia uenira quadra di gente, come nel principio fu detto, uero è, che ui auanzaria fora di tal ordinanza quelli fanti .31. li quali il sargente li assettara secondo el suo uolere, similmente uolendo mettere li detti fanti quattromille in camino se die pur tore la detta sua radice propinqua, la quale, come detto è sessanta tre, la qual partendola per tre, ne uien .21. & non auanza cosa alcuna, e per tanto gli detti fanti si debbono far caminare à fanti .21. per fila, & partire le dette file in tre parte à .63. file per parte, uero è, che la ultima parte uerra à esser de .64. file, & anchor .10. fanti de piu (per quelli fanti .31. che auanzorno in principio, li quali (come è detto) restaranno fora della ordinanza, secondo il parere del sargente, & per lo medesimo modo se procedaria, quando che la radice di tal numero non quadrato non receuesse la perfetta diuision per tre, cioe, sel auanzasse uno, procedere, come di sopra dissi, cioe dar uno fante de piu per fila alla parte di mezzo, & alle altre due parti, cioe alla prima, & alla terza porui solamente tanti fanti per fila, quanto sara la terza parte della nostra radice, & quando auanzasse .2. procedere al contrario, cioe dar uno fante per fila de piu alla prima, & alla terza parte, & alla seconda porui solamente tanti fanti per fila, quanto sara el terzo della nostra radice, & quelli fanti che fusseno auanzati nel cauar della radice in principio, assettarli, come di sopra è stato detto.
+  cs: |-
+    zbude 31 pěšáků {fanti}) a této odmocniny {radice} použít podle libosti. Například kdybychom je chtěli ihned postavit do šiku čtvercového co do mužstva {battaglia quadra di gente}[^1], mělo by se jich dát šedesát tři do řady {fila} a ten šik bude čtvercový co do mužstva, jak bylo řečeno na začátku; ovšem mimo tento šik {ordinanza} by zbylo oněch 31 pěšáků, které šikovatel {sargente} rozestaví podle své vůle. Podobně když chceme těch čtyři tisíce pěšáků poslat na pochod, je třeba opět vzít jejich nejbližší odmocninu, která je, jak bylo řečeno, šedesát tři; ta dělená třemi dá 21 a nezbude nic. Proto se mají ti pěšáci nechat pochodovat po 21 pěšácích v řadě a řady rozdělit na tři části po 63 řadách na část; ovšem poslední část bude mít 64 řad a k tomu ještě 10 pěšáků navíc (kvůli oněm 31 pěšákům, kteří zbyli na začátku a kteří, jak bylo řečeno, zůstanou mimo šik podle uvážení šikovatele). Stejně by se postupovalo, kdyby se odmocnina takového nečtvercového čísla nedala beze zbytku dělit třemi: zbude-li jednička, postupovat, jak jsem řekl výše, totiž dát prostřední části o jednoho pěšáka v řadě víc a ostatním dvěma částem, tj. první a třetí, dát jen tolik pěšáků v řadě, kolik činí třetina naší odmocniny; a zbudou-li 2, postupovat naopak, totiž dát první a třetí části o jednoho pěšáka v řadě víc a druhé dát jen tolik pěšáků v řadě, kolik činí třetina naší odmocniny; a ty pěšáky, kteří zbyli při vytahování odmocniny na začátku, rozestavit, jak bylo řečeno výše.
+- typ: odstavec
+  de: |-
+    C.H. Non procedati piu oltra, che ue ho inteso benissimo.
+  cs: |-
+    **Hrabě Hieronimo.** Nepokračujte dál, porozuměl jsem vám velmi dobře.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO TERZO FATTO DAL medesimo C. Hieronimo da Piagnano.
+  cs: Třetí dotaz, který položil týž hrabě Hieronimo da Piagnano
+- typ: odstavec
+  de: |-
+    CONTE HIERONIMO. Io adimandai una uolta à uno famoso Sargente, come ordinaria una battaglia de .1000. fanti, lui me rispose, che lui faria el file de fanti .49. per testa, hor ue adimando, uolendo io ordinare una battaglia simile à questa de una altra maggiore, ouer menore quantita de fanti, come me doueria gouernare.
+  cs: |-
+    **Hrabě Hieronimo.** Zeptal jsem se jednou jednoho slavného šikovatele, jak by sestavil šik {battaglia} z 1000 pěšáků, a on mi odpověděl, že by udělal řady po 49 pěšácích v čele {per testa}. Nyní se vás ptám: kdybych chtěl sestavit šik podobný tomuto z jiného, většího nebo menšího počtu pěšáků, jak bych si měl počínat?
+- typ: odstavec
+  de: |-
+    N. Quadrati quello numero de .49. cioe multiplicatilo in se medesimo, che fara .2401. & questo .2401. moltiplicareti fia quella quantita de fanti, che uoreti mettere in battaglia, & quel produtto, partiritele per el uostro .1000. & la radice di questo aduenimento sara nel numero di fanti, che douereti metter in cadauna fila per testa, essempi gratia, se quelli fanti, che desiderareti di mettere in una battaglia simile fusseno .3500. multiplicati questi fanti .3500. per .2401. cioe per el quadrato de .49. fara .8403500. & questo tal produtto, partireti per el uostro .1000. ne uenira .8403. (lassando el rotto, perche uno huomo non si puo spezzare, che non perisca el tutto,) & di questo .8403. ne cauareti la radice, la qual sara .91. & auanzara .122. & fanti .91. douereti mettere in cadauna fila per testa, & per fianco ne uerra à esser fanti .38. uero è che anchor ne auanzara fora fanti .42. quali non compiranno la ultima fila de drio. Et con simel ordine uoi procedareti in ogni altra maggior, ouer menor quantita.
+  cs: |-
+    **Nicolò.** Umocněte to číslo 49 na druhou, tj. vynásobte je sebou samým, což dá 2401; těmito 2401 vynásobíte počet pěšáků, který chcete postavit do šiku, a ten součin vydělíte vaším číslem 1000. Odmocnina z tohoto podílu bude počet pěšáků, které máte postavit do každé řady v čele. Například kdyby pěšáků, které si přejete postavit do podobného šiku, bylo 3500, vynásobte těch 3500 pěšáků číslem 2401, tj. čtvercem 49, a vyjde 8403500; tento součin vydělíte vaším číslem 1000 a vyjde 8403 (zlomek vynecháme, protože člověka nelze rozdělit, aniž by zahynul celý) a z těch 8403 vytáhnete odmocninu, která bude 91, a zbude 122[^2]. Do každé řady v čele tedy postavíte 91 pěšáků a na boku {per fianco} jich bude 38; ovšem ještě 42 pěšáků zbude mimo, kteří nenaplní poslední zadní řadu. Stejným způsobem budete postupovat u každého jiného, většího nebo menšího počtu.
+- typ: odstavec
+  de: |-
+    C.H. Ve ho inteso benissimo, & questa uostra regola la ho piu accara, che cosa, che me habbiati insegnato, perche me gli son affaticato molti giorni, per trouarui regola, & mai ue la ho potuta ritrouare.
+  cs: |-
+    **Hrabě Hieronimo.** Porozuměl jsem vám velmi dobře a toto vaše pravidlo je mi milejší než cokoli, co jste mě naučil, protože jsem se nad tím mnoho dní lopotil, abych na to našel pravidlo, a nikdy se mi je nepodařilo nalézt.
+poznamky:
+- n: 1
+  text: V tisku tisková chyba „bttaglia“ místo „battaglia“.
+- n: 2
+  text: 'Prostřední číslice je v tisku slitá; čtení 122 odpovídá výpočtu (8403 − 91² = 8403 − 8281 = 122). Pravidlo zachovává poměr šíře čela ke hloubce šiku – 49² : 1000 = x² : 3500; 91 × 38 = 3458, zbytek do 3500 je 42.'

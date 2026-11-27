@@ -1,0 +1,23 @@
+id: 006r
+list: '6'
+strana: recto
+sken: 31
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    MODO DE FARE BASTIONI quadri con soi pertinentie. Cap. VII.
+  cs: |-
+    Způsob, jak stavět čtverhranné bašty, s jejich příslušenstvím. Kapitola VII.
+- typ: odstavec
+  de: |-
+    QVesto e modo de Bastione quadro con le soe chiaue & candonere con doe casematte, elquale bisogna como e stato ditto che sta al sapere murare le soe manocchie, & calcarli como per laltro e ditto, & facendose como conuiene & con larte & intendimento pertinente ad epso sera de gran perfettione. Et piu e da sapere che li Bastioni son trouati per molti boni respetti, prima son piu expeditiui alla guerra chel Muro, & se reseccano piu presto chel muro, & mancho spesa, et anchora resisteno piu ad colpi de artellarie, & piu securo de fauille de pietre che non e cossi el muro, che quando non si po piu resistere ale botte, el muro fa piu dando le pietre de epso muro ad li Militi che la pietra del candoner, o altro pezo, quello che non fanno el riparo prendendo el deuere, che quando si fa uno riparo e prohibito che el terreno che ui metiate che non li sia pietre nisuna che quando la palla del nimico uiene, & troua pietre al riparo lo disfa piu presto & le pietre che usisce fora amaza gli militi che stanno al combattere.
+  cs: |-
+    Toto je způsob čtverhranné bašty {Bastione quadro} s jejími kotvami {chiaue} a střílnami {candonere} a se dvěma kasematami {casematte}.[^1] U ní, jak bylo řečeno, záleží na tom, umět vyzdít její otepi {manocchie}[^2] a udusat je, jak bylo řečeno u předchozí; a když se udělá, jak se sluší, s uměním a porozuměním, které k ní patří, bude velmi dokonalá. Dále je třeba vědět, že bašty byly vynalezeny z mnoha dobrých důvodů. Zaprvé se ve válce postaví rychleji než zeď {Muro}, vyschnou dříve než zeď a stojí méně; dále lépe odolávají ranám z děl {artellarie} a jsou bezpečnější před střepinami {fauille} kamenů, než je zeď. Když už totiž zeď nemůže odolávat ranám {botte}, škodí víc tím, že metá kameny z téže zdi na vojáky {Militi}, než kámen [vystřelený] ze střílny nebo z jiného děla {pezo}; to záštita {riparo}, je-li provedena řádně, nedělá. Neboť když se staví záštita, je zakázáno, aby v zemině, kterou do ní dáváte, byly jakékoli kameny: když přiletí nepřátelská koule {palla} a narazí v záštitě na kameny, rozbije ji rychleji a kameny, které vyletí ven, zabíjejí vojáky, kteří tam bojují.
+poznamky:
+- n: 1
+  text: Obrazec čtverhranné bašty je na protější straně, [[005v|list 5 v]].
+- n: 2
+  text: Manocchia (mannocchia) – otep, svazek proutí či chrastí; z otepí a udusané hlíny se „zdí“ těleso bašty podobně jako z fašin.

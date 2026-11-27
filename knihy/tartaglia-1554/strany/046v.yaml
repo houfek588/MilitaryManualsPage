@@ -1,0 +1,52 @@
+id: 046v
+list: '46'
+strana: verso
+sken: 92
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: QVESITO QVARTO FATTO DAL SARGENTE maggiore del Duca di Vrbino.
+  cs: Čtvrtý dotaz, který položil vrchní šikovatel vévody z Urbina
+- typ: odstavec
+  de: |-
+    SARGENTE. Come ordinaresti una battaglia quadra di terreno, & non di gente.
+  cs: |-
+    **Šikovatel.** Jak byste sestavil šik {battaglia} čtvercový co do plochy {quadra di terreno}, a ne co do mužstva?
+- typ: odstavec
+  de: |-
+    N. Volendo limitar à cadauno fante piedi .7. per longhezza, & piedi .3. per larghezza (come uol Vegetio) cioe piedi .3. dauanti, & piedi .3. de drio. et piedi .1. uol che occupi la sua persona, che in summa sarian piedi .7. in lungo, et da spalla à spalla uol che occupi piedi .3. come di sopra è detto, io procedaria in questo modo multiplicarei quella quantita de fanti, che desiderasse di metter in battaglia, per el quadrato de sette. cioe per .49. & quel produtto parteria per .21. & quanto fusse la radice di tal aduenimento, tanti fanti mettaria in cadauna fila per testa, essempi gratia, sel fusse fanti .3600. li quali desiderassi di mettere in battaglia quadra di terreno, & non di gente, io moltiplicaria li detti fanti .3600. per el quadrato de .7. cioe per .49. fariano .176400. & questo produtto lo parteria per .21. del qual partimento ne ueneria .8400. & di questo aduenimento ne cauaria la radice, laqual saria .91. (uero è che auanzaria .119.) & de fanti .91. faria le file per testa, uero è che la maggior parte delle uolte nella coda ui restara una fila non compita, cioe imperfetta, perche li numeri rare uolte ne seruano precisamente secondo el nostro intento, si, come anchora occorre nel fare le battaglie quadre di gente, cioe, che la maggior parte delle uolte ne auanza qualche fante de piu, tamen una fila de piu, ouer de manco, non fa error troppo apparente.
+  cs: |-
+    **Nicolò.** Chceme-li každému pěšákovi {fante} vyměřit 7 stop {piedi} do délky a 3 stopy do šířky (jak chce Vegetius[^1]), totiž 3 stopy před sebou, 3 stopy za sebou a 1 stopu, kterou podle něho zabírá jeho vlastní osoba – což dohromady dělá 7 stop do délky –, a od ramene k rameni 3 stopy, jak bylo řečeno výše, postupoval bych takto: počet pěšáků, které bych chtěl postavit do šiku, bych vynásobil čtvercem sedmi, tj. 49, ten součin bych vydělil 21, a kolik by činila odmocnina {radice} z tohoto podílu, tolik pěšáků bych postavil do každé řady {fila} v čele. Například kdyby bylo 3600 pěšáků, které byste si přál postavit do šiku čtvercového co do plochy, a ne co do mužstva, vynásobil bych těch 3600 pěšáků čtvercem 7, tj. 49, což by dalo 176400; tento součin bych vydělil 21 a z toho dělení by vyšlo 8400. Z tohoto podílu bych vytáhl odmocninu, která by byla 91 (ovšem zbylo by 119), a řady v čele bych dělal po 91 pěšácích. Ovšem nejčastěji zůstane v týlu jedna řada nedoplněná, tj. neúplná, protože čísla nám jen zřídka vyhoví přesně podle našeho záměru, jak se to stává i při sestavování šiků čtvercových co do mužstva, totiž že nejčastěji zbude nějaký pěšák navíc; jedna řada navíc nebo méně však není příliš patrná chyba.
+- typ: odstavec
+  de: |-
+    S. Doue cauati quel .21. con el quale uoi parteti quella uostra multiplicatione.
+  cs: |-
+    **Šikovatel.** Odkud berete to 21, kterým dělíte ten svůj součin?
+- typ: odstavec
+  de: |-
+    N. Io imagino una battaglia de tre file a fanti .7. per fila, la qual battaglia saria quadra di terreno, perche le tre file in longo uoranno piedi .21. di terreno (a piedi .7. per fila fra dauanti, & de drio con quel piede, che occupa ogni fila, & simelmente li fanti .7. in larghezza uoranno medesimamente piedi .21. di terreno a piedi .3. per fante, onde se tal battaglia occupa piedi .21. di terreno in ogni uerso la sara quadra di terreno, & tutta tal battaglia contenera fanti .21. & questi fanti .21. me ne seruo per partitore nella soprascritta mia operatione.
+  cs: |-
+    **Nicolò.** Představuji si šik o třech řadách po 7 pěšácích v řadě; takový šik by byl čtvercový co do plochy, protože tři řady zaberou do délky 21 stop půdy (po 7 stopách na řadu, počítaje prostor vpředu a vzadu i tu stopu, kterou zabírá každá řada), a stejně tak 7 pěšáků zabere do šířky rovněž 21 stop půdy, po 3 stopách na pěšáka. Když tedy takový šik zabírá 21 stop půdy v každém směru, bude čtvercový co do plochy, a celý ten šik bude obsahovat 21 pěšáků; a těchto 21 pěšáků mi slouží jako dělitel ve výše popsaném výpočtu.
+- typ: odstavec
+  de: |-
+    S. Sta benissimo.
+  cs: |-
+    **Šikovatel.** Velmi dobře.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO QVINTO FATTO DAL S. GABRIEL Tadino da Martinengo, Cauallier de Rhodi, e Prior di Barletta.
+  cs: Pátý dotaz, který položil pan Gabriel Tadino da Martinengo, rytíř rhodský a převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Dapoi che sopra la compositione della poluere non ui habbiamo altro che dire, per non star ociosi dapoi la nostra lettione di Euclide, uoglio che ragionamo un poco del modo de ordinare li esserciti in battaglia, & massime in alcune ingeniose forme, usitate da nostri antiqui, el qual modo, alli presenti tempi, par sia totalmente perso, & anullato, per non trouarse alcuno autore antiquo, nè moderno, che ne dia el modo, ouer regola di saperli ordinare, & queste tai figure, ouer forme sono el cuneo, la forfice, la serra, el rhumbo, el cerchio, et la forma lunare, uero è che el uallo ha posto alcune stranie forme di battaglie, ma rare di quelle è che sia atta a poter caminare, che non ui segua immediate disordine, perche ogni ordinata battaglia se la debbe
+  cs: |-
+    **Převor.**[^2] Protože o skladbě střelného prachu {poluere} už nemáme co říci, chci, abychom po naší lekci z Eukleida nezaháleli a pohovořili si trochu o způsobu, jak sestavovat vojska {esserciti} do šiku, a zvláště do některých důmyslných tvarů, jichž užívali naši předkové. Ten způsob se v dnešní době zdá zcela ztracený a zaniklý, protože se nenajde žádný autor, starý ani nový, který by podal způsob neboli pravidlo, jak je sestavit. A tyto obrazce neboli tvary jsou klín {cuneo}, nůžky {forfice}, pila {serra}, kosočtverec {rhumbo}, kruh {cerchio} a tvar půlměsíce {forma lunare}. Je pravda, že Vallo[^3] uvedl několik podivných tvarů šiků, ale málokterý z nich je schopen pochodovat, aniž by hned nastal zmatek; neboť má-li každý sestavený šik
+poznamky:
+- n: 1
+  text: Flavius Vegetius Renatus, pozdně antický autor spisu Epitoma rei militaris (asi konec 4. stol.); o rozestupech pěšáků v šiku píše ve 3. knize, kap. 14–15. Tartaglia jeho údaje přebírá volně (3 stopy na šířku, 7 stop na hloubku).
+- n: 2
+  text: Gabriele Tadino da Martinengo (asi 1480–1543), vojenský inženýr a dělostřelec, rytíř řádu johanitů (rytíř rhodský), účastník obrany Rhodu proti Turkům roku 1522, poté převor johanitského převorství v Barlettě a velitel dělostřelectva císaře Karla V. Tartaglia s ním vede rozhovory o prachu (kniha III) a o šicích (kniha IV).
+- n: 3
+  text: El uallo – nejspíše Giovanni Battista della Valle (Vallo), autor příručky „Vallo. Libro continente appertinentie a capitanii“ (Neapol 1521 a mnohá další vydání), v níž jsou vyobrazeny různé tvary šiků.

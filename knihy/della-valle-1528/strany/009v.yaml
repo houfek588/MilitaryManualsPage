@@ -1,0 +1,29 @@
+id: 009v
+list: '9'
+strana: verso
+sken: 38
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    conuiene auere lo manico longo como curto, li ferri sonno questi qui per gli offenditori.
+  cs: |-
+    musí mít dlouhou, jiné krátkou násadu {manico}. Železa {ferri} na útočníky jsou tato zde.
+- typ: obrazek
+  soubor: drevorez-38.jpg
+  popis: |-
+    Dřevořez bez nápisů: železné hlavice obranných vidlí a hrábí (ferri) na nasazení na násadu, každá s kuželovitou tulejí dole. Vlevo dvě menší hlavice vedle sebe s řadou trojúhelníkových hrotů (u první je mezi hroty malý zahnutý hák), vpravo větší hlavice se čtyřmi vysokými hroty a dvěma obloukovitými háky po stranách. Pravý hák je na skenu u okraje strany mírně oříznut.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE DEFENDERE VNA TERRA. Capitolo. XII.
+  cs: |-
+    O obraně města. Kapitola XII.
+- typ: odstavec
+  de: |-
+    ANchora ui e unaltro modo di difendere Muraglia, como pigliar gran quantita di Cennere sotile, como Calce in poluere, con palate de Carboni accesi di fuoco, Stizoni di fuoco, Oglio caldo, & non essendoce oglio pigliate aqua bullente, et Pignate piene de Feza di botte liquida, & uasi pieni di brutitia, & fare ogni cosa insieme, & a ogni potentia per non farte expugnare dallo inimico che sa lo nocumento, Che se non fosse mai altro da pensare se non che ce lo honore de le donne, mortalita de fanciulli, desertamenti de Edificii, annihilare le gran memorie de Antiqui, O quanto se offende la natura, una perdita di popolo e di tal terrore, & duolo, & strepito e tale che io iudico chel sia uno stranio gioco, et piu presto e meglio
+  cs: |-
+    Je ještě jiný způsob, jak bránit hradbu {Muraglia}: vzít velké množství jemného popela {Cennere}, rovněž vápna v prášku {Calce in poluere}, k tomu lopaty žhavého uhlí, hořící oharky, horký olej, a když není olej, vezměte vroucí vodu; dále hrnce {Pignate} plné tekutého vinného kalu {Feza di botte} a nádoby plné nečistoty; a to všechno použít najednou a ze všech sil, aby tě nepřítel nedobyl – vždyť víš, jaká je to zhouba. Kdyby nebylo nic jiného k zamyšlení než čest žen, smrt dětí, zpustošení budov a zničení velkých památek předků – ó, jak se tím uráží příroda! – ztráta lidu je spojena s takovou hrůzou, žalem a vřavou, že soudím, že je to krutá hra, a čím dříve a lépe
+poznamky: []

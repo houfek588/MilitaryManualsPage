@@ -1,0 +1,35 @@
+id: 065r
+list: '65'
+strana: recto
+sken: 149
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    honore comune, & aggrauaria lo gouerno chel tiene, ma altramente non potra fugere, & non debbe essere si pronto & audace allo offendere, & assai par che abasta al Capitato quando con causa licita iocasse de mano, o dire iniuria al milite lie concesso quello che non e adaltri priuato.
+  cs: |-
+    čest {honore} společnou a uškodil by velení, které zastává; jinak se však [souboji] vyhnout nemůže, a nemá být tak pohotový a odvážný v urážení. A zdá se, že kapitánovi[^1] docela stačí, že když z oprávněného důvodu vztáhne ruku na válečníka nebo ho urazí slovy, je mu dovoleno, co jiným prostým [válečníkům] dovoleno není.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    SE VN SIGNORE O GENTILHOMO de quattro quarti lo po con ragione refutare uno priuato huomo darme, si ouer no. Capi. XXIII.
+  cs: |-
+    Zda pán nebo šlechtic {gentilhomo} o čtyřech předcích {de quattro quarti}[^2] může právem odmítnout prostého muže ve zbrani {huomo darme}, či nikoli. Kapitola XXIII.
+- typ: odstavec
+  de: |-
+    MOuesi el lite per lo Signore de Vasalli et dice che per longo & antiquo tempo gli suoi sono stati grandi, & lui heredita per hereditate la nobilita, et quella perseuerando de giorno in giorno. Ma dice uoler dare uno campione zoe uno scambio de quella portata Se responde per lo milite che atteso che lui exercita lo mestiere delle arme honoratamente, & per longo tempo la adoperato come conuiene, non puo essere refutato prendendo lo exempio del buon Caio Mario Arpinate che desse al principe Romano che lera molto piu daniente essere uenuto grande con la uirtu mia che quello che per altri lie prestata, che quando alchun grande che le per heredita sene fesse experientia de acquistare la uirtu, & fama, potria ben essere non retrouare el uerso, & essere da niente. Adoncha se tanti Imperatori che conceden allo acquistatore de arme tanta nobilita insuperabile & honorata dignita, & che loro sene fanno grandi in persona propria, & de quel adaltri
+  cs: |-
+    Spor {lite} vznáší pán vazalů {Vasalli} a říká, že jeho předkové byli po dlouhý a dávný čas velkými pány a on dědí šlechtictví {nobilita} dědictvím a den ze dne v něm setrvává. Říká však, že chce postavit zástupce {campione}[^3], totiž náhradníka onoho postavení. Za válečníka {milite} se odpovídá, že protože čestně provozuje řemeslo zbraní a dlouho je provozoval, jak se sluší, nemůže být odmítnut; a bere se příklad dobrého Gaia Maria z Arpina[^4], který řekl římskému knížeti, že je mnohem [čestnější][^5] stát se velkým vlastní ctností než tím, co je člověku propůjčeno od jiných; neboť kdyby některý velmož, který je jím z dědictví, měl zkusit dobýt si ctnosti a slávy, mohl by snadno nenajít cestu a být k ničemu. Jestliže tedy tolik císařů {Imperatori}, kteří udělují tomu, kdo si dobude [slávy] zbraněmi, tak nepřekonatelnou šlechtu a čestnou hodnost, a sami se proslavili vlastní osobou, a tím, co jiným
+poznamky:
+- n: 1
+  text: 'Tisk má tiskovou chybu „Capitato“ místo „Capitano“.'
+- n: 2
+  text: 'Gentilhuomo de quattro quarti – šlechtic, jehož všichni čtyři prarodiče byli šlechtického rodu (čtyři urozené erby, „čtyři kvartýry“).'
+- n: 3
+  text: 'Campione – zástupce, který bojuje v souboji místo jiného (zejména místo pána, ženy, duchovního nebo nemocného).'
+- n: 4
+  text: 'Gaius Marius (157–86 př. n. l.) z Arpina, „homo novus“ a sedminásobný konzul; jeho řeč proti urozeným (Sallustius, Válka s Jugurthou 85) byla oblíbeným dokladem, že ctnost je víc než urozený původ. Tisk mluví o „principe Romano“, u Sallustia mluví Marius k římskému lidu.'
+- n: 5
+  text: 'Tisk má „piu daniente“ – patrně tisková chyba (snad za „conueniente“ nebo „eccellente“); přeloženo podle smyslu.'

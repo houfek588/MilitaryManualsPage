@@ -1,0 +1,51 @@
+id: 009v
+list: '9'
+strana: verso
+sken: 18
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-18.jpg
+  popis: |-
+    Geometrický obrazec k důkazu z předchozí strany: kruh se svislým průměrem e f (čára směru) a středem c. Vahadlo je vychýleno z vodorovné polohy a a b do šikmé polohy u i: těleso B je zvednuto do bodu i (malý kroužek vpravo nahoře), těleso A sníženo do bodu u (malý kroužek dole vlevo). Vodorovné tětivy k–i, m–l, o–n, a–b, q–p, s–r a u–t protínají svislici v bodech x, y, z, c, &, ꝯ, ꝝ; na obvodu jsou vlevo body k, m, o, a, q, s, u, vpravo i, l, n, b, p, r, t.
+- typ: odstavec
+  de: |-
+    S. DVCA. Che uoleti inferir per questo.
+  cs: |-
+    **Pan vévoda.** Co tím chcete vyvodit?
+- typ: odstavec
+  de: |-
+    N. Voglio inferir questo, che ogni artigliaria essendo aliuellata, la se intende esser nel sito della equalita, & la balla tirata da quella, in tal sito uscisse del pezzo piu graue, che in qualunque altro modo elleuata, ouer separata da quel sito della equalita (per le ragioni di sopra adutte) e pero in tal sito la balla ua con piu difficultà, & molto piu presto comincia à declinar al basso, cioè uerso terra, & in maggior quantita lei ua declinando, che in qualunque altro modo elleuata, cioè che lei ua (come fra bombardieri se dice) molto manco per linea retta, che in qualunque altro modo elleuata, e pero li effetti di tiri fatti in tal sito saranno men uigorosi, ouer di menor effetto, che in qualunque altro uerso. Vero è, che uostra Eccellentia potria dire, & ragioneuolmente, per queste tue ragioni son chiaro, che in distantie equale lei fara manco effetto, ma in distantie inequale resto dubbioso, perche nel nostro Quesito si uede, che quelle artegliarie, che sono nel piano, ouer nel pie del monte, sono molto piu distante, dalla fortezza, di quelle, che son nella sommita del monte, talmente che tal differentia potria esser molto maggiore della differentia del suo tirar per linea retta, ouer della differentia de suoi effetti in distantie equale, & essendo cosi quelle de la sommita del monte, uerriano à far maggior effetto, di quelle poste in piano, circa al qual dubbio rispondo, che gliè ben uero, che la distantia di quelle, che stano in piano, potria esser alle uolte tanto grandemente differente da quella, di quelle, che sono nela sommita del monte, che seguiria quello, che di sopra hauemo detto, ouer dubitato.
+  cs: |-
+    **Nicolò.** Chci tím vyvodit toto: o každém děle {artigliaria}, je-li ve vodorovné poloze {aliuellata}, se rozumí, že je v poloze rovnosti {sito della equalita}, a koule {balla} z něho vystřelená v této poloze vyletí z děla {pezzo} těžší než při jakékoli jiné elevaci čili odchylce od oné polohy rovnosti (z důvodů výše uvedených). Proto v této poloze koule letí s větší obtíží, mnohem dříve se začne sklánět dolů, tj. k zemi, a sklání se ve větší míře než při jakékoli jiné elevaci; to znamená, že letí (jak se mezi dělostřelci {bombardieri} říká) mnohem méně po přímce {linea retta} než při jakékoli jiné elevaci, a proto budou výstřely vypálené v této poloze slabší čili méně účinné než v kterémkoli jiném směru. Je ovšem pravda, že by Vaše Excelence mohla říci, a právem: „Z těchto tvých důvodů je mi jasné, že na stejné vzdálenosti bude mít [koule] menší účinek, ale o nestejných vzdálenostech zůstávám na pochybách, neboť v našem dotazu {Quesito} vidíme, že děla, která jsou na rovině čili na úpatí hory, jsou od pevnosti mnohem vzdálenější než ta, která jsou na vrcholu hory, takže tento rozdíl by mohl být mnohem větší než rozdíl v jejich střelbě po přímce čili rozdíl v jejich účincích na stejné vzdálenosti; a je-li tomu tak, měla by děla na vrcholu hory větší účinek než děla postavená na rovině.“ Na tuto pochybnost odpovídám, že je jistě pravda, že vzdálenost děl stojících na rovině by se mohla někdy tak velice lišit od vzdálenosti děl na vrcholu hory, že by nastalo to, co jsme výše řekli čili v čem jsme pochybovali.
+- typ: odstavec
+  de: |-
+    S.D. Datime un'essempio in figura, se uoleti, che ue intenda.
+  cs: |-
+    **Pan vévoda.** Dejte mi příklad na obrazci, chcete-li, abych vám porozuměl.
+- typ: odstavec
+  de: |-
+    N. Per uoler essemplificare figuralmente questa cosa supponeremo una colobrina da lire .20. di balla, laqual colobrina (per quella sperientia, che fu fatta à Verona, narrata nel principio della nostra noua scientia à uostra Eccellentia) io trouo, che tal colobrina nel sito della equalita (cioè stando aliuellata) tirara de mira, ouer per linea retta circa passa .200. & alla elleuatione de .45. gradi, cioè al sesto ponto, ouer alli .72. minuti della nostra squadra tal colobrina (per le ragioni adutte nella ultima propositione del secondo libro della nostra noua scientia) tirara de mira, ouer per linea retta in quel uerso, circa passa .800.
+  cs: |-
+    **Nicolò.** Abych tu věc objasnil na obrazci, předpokládejme kolubrinu {colobrina} na kouli o 20 librách {lire}. O této kolubrině shledávám (podle oné zkoušky, která byla provedena ve Veroně a kterou jsem Vaší Excelenci vylíčil na začátku naší Nové vědy), že v poloze rovnosti (tj. když stojí vodorovně) dostřelí po mířidlech {de mira} čili po přímce asi 200 kroků {passa}, a při elevaci {elleuatione} 45 stupňů, tj. na šestém bodě čili na 72 minutách našeho kvadrantu {squadra}, dostřelí tato kolubrina (z důvodů uvedených v poslední větě druhé knihy naší Nové vědy) tímto směrem po mířidlech čili po přímce asi 800 kroků.
+- typ: odstavec
+  de: |-
+    S. D Adunque tirando la detta colobrina à tal elleuatione tirara circa passa .800. per linea retta, & tirandola poi aliuellata, non tirara saluo che circa passa .200.
+  cs: |-
+    **Pan vévoda.** Když se tedy ze zmíněné kolubriny vystřelí s takovou elevací, dostřelí po přímce asi 800 kroků, a když se z ní pak vystřelí vodorovně, dostřelí jen asi 200 kroků?
+- typ: odstavec
+  de: |-
+    N. Cosi ne afferma la ragione.
+  cs: |-
+    **Nicolò.** Tak nám to potvrzuje rozum.
+- typ: odstavec
+  de: |-
+    S. D. La me pare una gran differentia.
+  cs: |-
+    **Pan vévoda.** To se mi zdá velký rozdíl.
+- typ: odstavec
+  de: |-
+    N. Questo procede per esser anchora tal elleuatione molto differente dal sito della equalita, perche
+  cs: |-
+    **Nicolò.** To pochází z toho, že se tato elevace také velmi liší od polohy rovnosti; neboť

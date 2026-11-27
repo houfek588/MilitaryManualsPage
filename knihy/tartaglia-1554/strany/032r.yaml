@@ -1,0 +1,75 @@
+id: 032r
+list: '32'
+strana: recto
+sken: 63
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    impedisse il moto, e pero non ui se moltiplica tanto la offensione dell'aere, quanto che fa nelli tiri elleuati, perche in quelli pertransisse assai piu tempo per l'aere, & massime nella sua lassitudine, nella qual lassitudine (come di sopra dissi) lo aere ui ha proportionalmente maggior potesta, & dominatione di quello ha nelli tiri bassi, & per tanto la detta balla di ferro non eccede tanto la balla di piombo nelli tiri elleuati (proportionalmente) quanto fa nelli tiri bassi.
+  cs: |-
+    zabrání v pohybu, nenarůstá u nich škodlivé působení vzduchu tolik jako u elevovaných ran {tiri elleuati}. Při nich totiž koule letí vzduchem mnohem déle, a zvláště ve své ochablosti, v níž má vzduch (jak jsem řekl výše) poměrně větší moc a vládu než při nízkých ranách. Proto železná koule při elevovaných ranách nepřevyšuje olověnou (poměrně) tolik jako při ranách nízkých.
+- typ: odstavec
+  de: |-
+    P. Ve ho inteso benissimo.
+  cs: |-
+    **Převor.** Velmi dobře jsem vám porozuměl.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO SECONDO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: |-
+    Druhý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Qual credeti poi che andara piu lontano, o la detta balla di piombo, ouer di ferro, tirate pur con una istessa artegliaria, & à una istessa elleuatione, ma ciascaduna con la sua poluere ordinaria, cioe con li dui terzi di quello pesa ciascaduna balla per se.
+  cs: |-
+    **Převor.** A která podle vás doletí dál, olověná koule {balla}, nebo železná, vystřelené opět z téhož děla {artegliaria} a při téže elevaci {elleuatione}, ale každá se svou obvyklou náloží prachu {poluere}, to jest se dvěma třetinami toho, co váží každá koule sama?
+- typ: odstavec
+  de: |-
+    N. Nelli tiri bassi, cioe aliuellati, ouer poco elleuati non ui sara gran differentia, ma nelli tiri molto elleuati, come saria à dire alla elleuatione del terzo, quarto, quinto, & sesto ponto, la balla de piombo andara assai piu lontano di quella di ferro, & tutto questo procedera per le ragioni adutte nel precedente quesito.
+  cs: |-
+    **Nicolò.** U nízkých ran, to jest vodorovných {aliuellati} nebo málo elevovaných, nebude velký rozdíl; u ran hodně elevovaných, například při elevaci třetího, čtvrtého, pátého a šestého bodu {ponto}, však olověná koule doletí mnohem dál než železná, a to vše z důvodů uvedených v předešlém dotazu.
+- typ: odstavec
+  de: |-
+    P. Io haueua in animo di uolerui adimandare, quando che cadauna di dette balle fusse tirata con li dui terzi poluere di quello pesa la balla di ferro, qual saria andata piu lontano, ma per le ragion di sopra adutte comprendo che la balla di ferro andaria piu lontano.
+  cs: |-
+    **Převor.** Měl jsem v úmyslu se vás zeptat, která by doletěla dál, kdyby každá z těch koulí byla vystřelena s prachem ve váze dvou třetin železné koule; ale z výše uvedených důvodů chápu, že by dál doletěla železná koule.
+- typ: odstavec
+  de: |-
+    N. Cosi è.
+  cs: |-
+    **Nicolò.** Tak tomu je.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO TERZO FATTO DAL medesimo Signor Priore di Barletta.
+  cs: |-
+    Třetí dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Qual credeti poi che andara piu lontano, & quanto una balla di ferro, ouer una di pietra pur tirate con una istessa artegliaria, & à una istessa elleuatione, & con egual quantita di poluere, cioe con li dui terzi poluere di quello pesa la balla di ferro.
+  cs: |-
+    **Převor.** A která podle vás doletí dál a o kolik, koule železná, nebo kamenná, vystřelené opět z téhož děla, při téže elevaci a se stejným množstvím prachu, to jest s prachem ve váze dvou třetin železné koule?
+- typ: odstavec
+  de: |-
+    N. Senza alcun dubbio la ragion ne dimostra che nelli tiri bassi, et nella maggior parte delli elleuati, la balla di pietra andara piu lontano di quella di ferro.
+  cs: |-
+    **Nicolò.** Bez jakékoli pochyby nám rozum ukazuje, že při nízkých ranách a při většině elevovaných doletí kamenná koule dál než železná.
+- typ: odstavec
+  de: |-
+    P. Et quanto andara piu lontano.
+  cs: |-
+    **Převor.** A o kolik dál doletí?
+- typ: odstavec
+  de: |-
+    N. Nelli tiri bassi (poniamo dal sito della equalita, per fina alla elleuation de un sol ponto) la balla de pietra andara piu lontano, circa à un quarto piu di quello sara andata, ouer che andaria la balla di ferro, & inanti piu che manco, ma poi nelli tiri piu elleuati, non cressaria tanto, & tanto meno quanto piu saranno elleuati, & talmente andara scemando che alla elleuatione del quarto ponto ui sara pochissima differentia, cioe che à tal elleuatione andara quasi tanto lontano la balla di ferro quanto quella di pietra, ma alla elleuatione del quinto, & sesto ponto la balla di ferro andara poi alquanto piu lontano di quella di pietra, & tutto questo procede per le ragioni adutte sopra il primo quesito.
+  cs: |-
+    **Nicolò.** Při nízkých ranách (řekněme od vodorovné polohy {sito della equalita} až po elevaci jednoho jediného bodu) doletí kamenná koule dál, a to asi o čtvrtinu víc, než doletěla či by doletěla koule železná, spíš víc než méně. Při ranách víc elevovaných by však tolik nepřibývalo, a to tím méně, čím víc budou elevované; a ubývá to tak, že při elevaci čtvrtého bodu bude rozdíl nepatrný, to jest při takové elevaci doletí železná koule skoro stejně daleko jako kamenná. Při elevaci pátého a šestého bodu pak doletí železná koule o něco dál než kamenná; a to vše vyplývá z důvodů uvedených v prvním dotazu.
+- typ: odstavec
+  de: |-
+    P. Certamente le sono cose belle da considerare.
+  cs: |-
+    **Převor.** Věru jsou to krásné věci k uvažování.

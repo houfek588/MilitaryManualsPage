@@ -1,0 +1,24 @@
+id: 006v
+list: '6'
+strana: verso
+sken: 12
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: Pezzo elleuato al sesto ponto, ouero alli settantadue minuti.
+  cs: Dělo elevované na šestý bod {ponto} čili na sedmdesát dvě minuty.
+- typ: obrazek
+  soubor: drevorez-12.jpg
+  popis: |-
+    Dělo na dvoukolové lafetě s hlavní zdviženou šikmo vzhůru (45°); ostruha lafety je zapuštěna do jámy vykopané v zemi. V ústí hlavně je vloženo delší rameno kvadrantu, konec kratšího ramene přidržuje ruka vybíhající z pravého okraje obrazu; olovnice padá na šestý bod stupnice. V popředí roste na zemi rostlina s květem.
+- typ: odstavec
+  de: |-
+    S. DVCA. Che uolete inferir per questo.
+  cs: |-
+    **Pan vévoda.** Co tím chcete vyvodit?
+- typ: odstavec
+  de: |-
+    N. Primamente uoglio inferir questo, che tirando un pezzo alla elleuatione del primo ponto, tirara molto piu lontano di quello che fara stando aliuello, & tirandolo alla elleuatione del secondo ponto, tirara molto piu lontano di quello, che fara alla elleuatione del primo ponto, & cosi alla elleuatione del terzo ponto tirara piu lontano, che alla elleuatione del secondo, & cosi alla elleuation del quarto tirara anchora assai piu lontano di quello, che fara alla elleuatione del terzo, & similmente alla elleuatione del quinto tirara alquanto piu, che alla elleuatione del quarto, & cosi alla ultima elleuatione, cioè al sesto ponto, con balla di piombo tirara alquanto piu, che alla elleuation del quinto, ma poco piu, perche la ragion ne dimostra, che questi due tiri, cioè tirati al quinto, & sesto ponto sono tanto uicini, ouer tanto poco differenti, che ogni poco d'auantaggio, che si trouasse nel quinto, ò per uigor di poluere, ouer per altro, al detto quinto, se tiraria tanto, quanto al sesto, et forsi piu. Et chi potesse elleuar tal pezzo, come se fanno li mortari, cioè al settimo ponto, senza dubbio al detto settimo ponto tirara alquanto manco, che al detto sesto, & cosi all'ottauo ponto tirara assai manco, che al detto settimo, & similmente, al nono tirara molto manco, che all'ottauo, & cosi al decimo tirara molto manco, che al nono, et cosi
+  cs: |-
+    **Nicolò.** Zaprvé tím chci vyvodit toto: když se z děla {pezzo} vystřelí s elevací {elleuatione} prvního bodu, dostřelí mnohem dál, než když stojí vodorovně {aliuello}; když se z něho vystřelí s elevací druhého bodu, dostřelí mnohem dál než s elevací prvního bodu; a tak s elevací třetího bodu dostřelí dál než s elevací druhého a s elevací čtvrtého ještě o hodně dál než s elevací třetího; podobně s elevací pátého dostřelí poněkud dál než s elevací čtvrtého; a tak při poslední elevaci, tj. na šestém bodě, dostřelí s olověnou koulí {balla di piombo} poněkud dál než s elevací pátého, ale jen o málo. Rozum nám totiž dokazuje, že tyto dva dostřely {tiri}, totiž na pátém a na šestém bodě, jsou si tak blízké čili se tak málo liší, že při sebemenší výhodě, která by se naskytla na pátém bodě, ať silou prachu {poluere}, nebo něčím jiným, by se na pátém dostřelilo stejně daleko jako na šestém, a snad i dál. A kdo by mohl takové dělo elevovat, jak se to dělá s moždíři {mortari}, totiž na sedmý bod, ten na sedmém bodě bezpochyby dostřelí poněkud méně daleko než na šestém, na osmém bodě o hodně méně než na sedmém, podobně na devátém mnohem méně než na osmém, na desátém mnohem méně než na devátém a tak

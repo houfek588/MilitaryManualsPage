@@ -1,0 +1,37 @@
+id: 060v
+list: '60'
+strana: verso
+sken: 120
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    quel ponto fermo, & anchora per quello pontino, & di questa seconda linea il se ne debbe con un compasso (secondo l'ordine della nostra scala) misurar fuora tanti passa, quanti dira la seconda partita della nostra pollicetta, & principiare à misurare à quel ponto fermo, terminante la prima linea, & in capo de tal commensuratione, farui pur un ponto fermo secondo il solito, & de nuouo il si debbe agiustar la dioptra à quel uento, & numero de gradi, come se contien nella terza partita della nostra pollicetta, & agiustarla à tal ponto fermo, & accordar quelle tre cose (dette di sopra) & signare quel pontino, dall'altro capo della dioptra, & leuar l'istromento, & misurar fuora (con il compasso) da tal linea, tanti passa (con l'ordine della nostra scala) quanti dira la detta terza partita della nostra pollicetta, & cosi andar procedendo per fin che se habbia circondato, ouer serrato tutto tal dissegno, & se per caso se hauera commesso qualche errore, se ne accorgera nell'ultimo lato, ouer linea, che compira di serrare tal dissegno, perche quella sara necessario à tirarla senza misurarla altramente con il compasso, perche quella se tirara dal ponto fermo, terminante il penultimo lato, ouer linea di tal dissegno, al ponto fermo, doue principiara lo primo lato, ouer linea, che prima fu tirata, cioe doue fu posto lo istromento nel principio, cioe la prima uolta, & se per caso, dapoi che la se hauera tirata la se ritrouara, con il compasso à esser de tanti passa, (secondo l'ordine della nostra scala) quanto che sara notato nella ultima partita della nostra pollicetta (ilche rare uolte accade) dinotara non essersi commesso alcuno minimo errore in tutto quanto il nostro operare, ma se per caso il detto ultimo lato, ouer linea, del nostro dissegno se trouara de piu, ouer men apriture di compasso di quello sara il numero di passa, annotati nella pollicetta di tal suo relatiuo lato del nostro sito, ouer paese, dinotara essersi fatto errore nell'operare, & tanto maggior quanto maggior differentia si trouara fra quelli, & se il ui pare ue ne daro uno essempio in figura.
+  cs: |-
+    oním pevným bodem a také tím bodíkem; a na této druhé přímce je třeba kružítkem {compasso} (podle našeho měřítka {scala}) odměřit tolik kroků {passa}, kolik udává druhá položka {partita} našeho lístku {pollicetta}, a začít měřit od onoho pevného bodu, který ukončuje první přímku, a na konci tohoto odměření udělat opět jako obvykle pevný bod. A znovu je třeba nastavit dioptru {dioptra} na ten vítr {uento} a počet stupňů, které obsahuje třetí položka našeho lístku, přiložit ji k tomu pevnému bodu, uvést v soulad ony tři věci (zmíněné výše), vyznačit bodík u druhého konce dioptry, odstranit nástroj a odměřit (kružítkem) na té přímce tolik kroků (podle našeho měřítka), kolik udává třetí položka našeho lístku; a tak postupovat, až se celá kresba obejde dokola čili uzavře. A pokud se snad stala nějaká chyba, pozná se to na poslední straně čili přímce, která kresbu uzavírá. Tu je totiž třeba vést, aniž by se jinak měřila kružítkem, neboť se vede od pevného bodu, který ukončuje předposlední stranu čili přímku kresby, k pevnému bodu, kde začíná první strana čili přímka, která byla vedena nejdříve, totiž kde byl na začátku, poprvé, postaven nástroj. A shledá-li se kružítkem, když je narýsována, že má právě tolik kroků (podle našeho měřítka), kolik bude zapsáno v poslední položce našeho lístku (což se stává zřídka), bude to znamenat, že se v celé naší práci nestala ani ta nejmenší chyba. Shledá-li se však, že poslední strana čili přímka naší kresby má více nebo méně rozevření kružítka, než je počet kroků zapsaný na lístku pro odpovídající stranu našeho místa {sito} čili krajiny {paese}, bude to znamenat, že se při práci stala chyba, a to tím větší, čím větší rozdíl se mezi nimi najde. A zdá-li se vám to vhodné, dám vám k tomu příklad v obrázku.
+- typ: odstavec
+  de: |-
+    R. Non accade che uoi me dati altro essempio, perche ue ho inteso benissimo, & basta per hoggi.
+  cs: |-
+    **Richard.** Není třeba, abyste mi dával další příklad, neboť jsem vám velmi dobře porozuměl, a pro dnešek to stačí.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO QVINTO FATTO DAL medesimo. M. Richardo Ventuorth.
+  cs: Pátý dotaz, který položil týž pan Richard Wentworth
+- typ: odstavec
+  de: |-
+    RICHARDO. Anchor che quasi comprenda, come se doueria procedere quando che tal sito fusse contenuto da linee, ouer lati curui, ouer montuosi, nondimeno hauero accaro à intendere la uostra opinione per uedere se la mia se conforma con la uostra.
+  cs: |-
+    **Richard.** Ačkoli skoro chápu, jak by se mělo postupovat, kdyby takové místo bylo ohraničeno křivými nebo hornatými čarami čili stranami, přece rád uslyším váš názor, abych viděl, zda se můj s vaším shoduje.
+- typ: odstavec
+  de: |-
+    N. Bisogna procedere pur, come fu detto nel terzo quesito, cioe nella curuita de tai lati piantarui de molte bacchette, et tanto piu spesse quanto che piu sono curui, & dapoi procedere, come se fece nel precedente quesito, cioe procedere propriamente, come se tal figura fusse contenuta de tante linee, ouer lati retti, quante saranno quelle differentie, che sara da bacchetta, à bacchetta, ma nel dissegnarli poi, bisogna darui un poco del curuo in fuora, ouer in dentro, secondo che con qualche segno ue ne haueti fatto memoria nella pollicetta.
+  cs: |-
+    **Nicolò.** Je třeba postupovat rovněž tak, jak bylo řečeno ve třetím dotazu, totiž do zakřivení těch stran zarazit mnoho tyček {bacchette}, a to tím hustěji, čím jsou křivější, a pak postupovat, jak se to dělalo v předchozím dotazu, totiž postupovat přesně tak, jako by byl ten obrazec ohraničen tolika přímkami čili přímými stranami, kolik bude úseků mezi jednotlivými tyčkami; při jejich zakreslování jim však pak je třeba dát trochu zakřivení ven nebo dovnitř, podle toho, jak jste si to nějakou značkou poznamenal na lístku.
+- typ: odstavec
+  de: |-
+    R. Cosi precisamente haueua in opinione, che si douesse fare, e pero non uoglio, che per hoggi entramo in altro.
+  cs: |-
+    **Richard.** Přesně tak jsem se domníval, že by se to mělo dělat, a proto nechci, abychom se dnes pouštěli do něčeho dalšího.

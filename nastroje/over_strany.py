@@ -31,6 +31,7 @@ def main():
     zakaz = [(re.compile(r'\b' + re.escape(x) + r'\b', re.I), h['cs']) for h in glos['hesla'] for x in h.get('nepouzivat', [])]
     files = [kniha / 'strany' / f'{i}.yaml' for i in ids] if ids else sorted((kniha / 'strany').glob('*.yaml'))
     ocr = not (kniha / 'zdroje' / 'dta').exists()
+    jazyk = (yaml.safe_load((kniha / 'kniha.yaml').read_text(encoding='utf-8')) or {}).get('jazyk', 'de')
     ids_stran = {x.stem for x in (kniha / 'strany').glob('*.yaml')}
 
     def odkazy(text):  # [[id strany|text]] – cíl musí existovat, text bez dalších značek
@@ -114,8 +115,10 @@ def main():
                     m = rx.search(ct_bez)
                     if m:
                         warns.append(f'blok {k}: „{m.group(0)}“ → podle glosáře „{spr}“')
-            if ocr and re.search(r'\bf(oll|ift|ein)\b', text_of(de)):
+            if ocr and jazyk == 'de' and re.search(r'\bf(oll|ift|ein)\b', text_of(de)):
                 warns.append(f'blok {k}: v de možná chyba OCR (foll/ift/fein)')
+            if ocr and jazyk == 'it' and re.search(r'\bf(i|e|ono|opra|ua|ue|econdo)\b|ſ', text_of(de)):
+                warns.append(f'blok {k}: v originále možná chyba OCR (ſ čtené jako f: fi/fe/fono/fopra/fua… nebo nepřevedené ſ)')
         for n in d.get('poznamky') or []:
             errs += [f'poznámka {n.get("n")}: {x}' for x in odkazy(str(n.get('text') or ''))]
         notes = {int(n['n']) for n in d.get('poznamky') or []}

@@ -5,6 +5,11 @@ Konkrétní kniha může mít výjimky v `knihy/<kniha>/kniha.yaml` (pole `pozna
 `knihy/<kniha>/zdroje/ZADANI_AGENTUM.md` (překlad) a `ZADANI_REVIZE.md` (korektura). Výjimky knihy mají přednost
 před výchozími hodnotami v těchto pravidlech.
 
+**Jazyk originálu.** Edice je psaná pro německé tisky; kniha může mít i jiný jazyk originálu (`kniha.yaml` →
+`jazyk: it` – Tartaglia). Pole `de` ve stranách i glosáři pak obsahuje text a tvary **originálu** (název pole je
+historický), pravidla pro OCR a výchozí terminologii v § 2–3 platí pro němčinu a kniha má vlastní v
+`poznamky_k_prekladu` a `zdroje/ZADANI_AGENTUM.md`. Build podle jazyka volí normalizaci tvarů pro odkazy do glosáře.
+
 ## 1. Jeden soubor = jedna strana tisku
 
 `knihy/<kniha>/strany/<id>.yaml`, např. `018r.yaml` = list XVIII, líc (recto); `018v.yaml` = rub (verso).

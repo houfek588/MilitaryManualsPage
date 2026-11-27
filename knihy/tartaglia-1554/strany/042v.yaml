@@ -1,0 +1,50 @@
+id: 042v
+list: '42'
+strana: verso
+sken: 84
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    cioe ponendo sopra una tabula piana un pugno di fromento, & separatamente un pugno di farina, & inclinando poi alquanto da una banda la detta tabula, senza dubbio piu facilmente scorrera el detto fromento zoso della detta tabula, di quello fara la detta farina, ma tal farina restara amaccata, & piu immobile, & se pur anchora lei ui scorresse per la molta dependetia di tal tabula, la ui scorrera quasi tutta in un colpo, & il frumento ui scorrira à parte a parte, cioe piu disgregatamente.
+  cs: |-
+    totiž když se na rovnou desku položí hrst pšenice a zvlášť hrst mouky a deska se pak trochu nakloní na jednu stranu, bezpochyby pšenice sjede z desky dolů snáze než mouka; mouka zůstane slehlá a nehybnější, a i kdyby přece při velkém sklonu desky sjela, sjede skoro celá najednou, kdežto pšenice bude sjíždět po částech, totiž víc rozptýleně.
+- typ: odstavec
+  de: |-
+    H. E ue ho inteso benissimo, ma che mi gioua quella sua scorrentia.
+  cs: |-
+    **Hieronimo.** Porozuměl jsem vám výborně, ale k čemu mi je ta jeho sypkost?
+- typ: odstavec
+  de: |-
+    N. Mo non sapeti, che uolendo portar un schioppo, ouer un'archibuso per seruirsene alli bisogni, eglie necessario anchora portarse drio della poluere, per poterlo cargar ad ogni suo piacere, & che tal poluere se porta nelle fiasche, & per cargarli con misura in quelle tai fiasche ui se fa uscire, come sapeti, un certo canoncino atto a riceuere tanta poluere, quanta ui si conuiene a cargare quel tal schioppo, ouer archibuso con un certo ingegno da rechiuderlo poi di dentro uia, quando che è pieno, accioche tal poluere non possa uscire fora del canoncino, & ritornar nella fiascha.
+  cs: |-
+    **Nicolò.** Což nevíte, že kdo chce nosit ručnici {schioppo} nebo arkebuzu {archibuso}, aby ji v případě potřeby použil, musí s sebou nosit i prach {poluere}, aby ji mohl nabít, kdykoli se mu zlíbí? A že se takový prach nosí v prachovnicích {fiasche} a že se na nich, aby se dalo nabíjet s mírou, dělá, jak víte, jakási trubička {canoncino}[^1], schopná pojmout tolik prachu, kolik je třeba k nabití té ručnice nebo arkebuzy, s jakýmsi zařízením, kterým se pak zevnitř uzavře, když je plná, aby prach nemohl vyjít z trubičky a vrátit se do prachovnice?
+- typ: odstavec
+  de: |-
+    H. Io so tutte queste particolarita, si che non accade che uoi me le dicate.
+  cs: |-
+    **Hieronimo.** Všechny tyto podrobnosti znám, takže mi je nemusíte vykládat.
+- typ: odstavec
+  de: |-
+    N. Anchor che so, che uoi le sapeti meglio di me, ue le ho uolute dire, accioche meglio me intendiati per l'auenire. Et per tanto concludo, che se la poluere, che si mette nelle dette fiasche, non fusse granita, con difficulta se potria fare impire quel tal canoncino, perche nel riuoltar la fiascha per far impire quel tal canoncino la poluere che fusse nella detta fiascha, cascaria quasi tutta in un tratto sopra alla intrata di tal canoncino, chiudendo, ouer resserando in quello quasi tutto quello aere, che in quello si trouasse, per esser uodo, el qual aere ueneria a impedire lo ingresso alla poluere, talmente, che tal canoncino la maggior parte delle uolte si trouaria quasi uacuo, ouer molto scemo, la qual cosa non ui occorrera cosi, se la detta poluere sara granita, perche tal poluere granita scorrera nel detto canoncino piu disgregatamente (come fu detto del fromento, et della farina) la qual disgregatione dara adito a quello aere, che si ritrouara nel detto canoncino da poter uscire, et de intrare nela fiasca a impire quel loco che occupaua quella poluere, che intrara nel detto canoncino, e pero el detto canoncino la maggior parte delle uolte se trouara pieno, come si conuiene, et cosi per questa causa li huomini sono stati astretti a inuistigar el modo de ingranire la detta poluere de schioppo, & de archibuso, & non quella di artegliaria, perche nelle artegliarie ui se mette la poluere con una cazza, come sapeti, et con quella la ui se porta per fin nel fondo della sua canna, et pero non importa che tal poluere sia scorrente, ò non scorrente, anzi saria cosa superflua a ingranire quella delle artigliarie, ma piu, che per inescar quel busettino doue se da el fuocho alli schioppi, & alli archibusi se costuma portar. come sapeti, un fiaschettino piccolino pieno di poluer finissima, la qual poluere, se per sorte non fusse menutamente granita, la non uoria, ne potria uscire di quel tal buso cosi piccolino per le ragioni di sopra dette, e pero fu necessario a farla minutamente granita, la qual cosa non accade nelle artegliarie, perche, per quanto ho inteso, uoi ue la metteti con la mano.
+  cs: |-
+    **Nicolò.** Ačkoli vím, že je znáte lépe než já, chtěl jsem vám je říci, abyste mi dále lépe rozuměl. Uzavírám tedy, že kdyby prach, který se dává do těch prachovnic, nebyl zrněný, jen stěží by se ta trubička dala naplnit. Při obrácení prachovnice, aby se trubička naplnila, by totiž prach, který je v prachovnici, spadl skoro celý najednou na vstup do trubičky a uzavřel neboli zatarasil v ní skoro všechen vzduch, který v ní je, protože je prázdná; a tento vzduch by prachu bránil ve vstupu, takže by se ta trubička většinou ocitla skoro prázdná nebo hodně nedoplněná. To se však nestane, bude-li prach zrněný, protože takový zrněný prach bude do trubičky sypat rozptýleněji (jak bylo řečeno o pšenici a mouce); a toto rozptýlení umožní vzduchu, který je v trubičce, aby z ní mohl vyjít a vstoupit do prachovnice a vyplnit místo, které zaujímal prach, jenž vnikne do trubičky; proto se ta trubička většinou ocitne plná, jak se sluší. A tak byli lidé z této příčiny nuceni vyhledat způsob, jak zrnit prach pro ručnice a arkebuzy, a ne prach pro děla {artegliaria}. Do děl se totiž prach dává nabíjecí lžící {cazza}, jak víte, a ta jej dopraví až na dno hlavně {canna}, a proto nezáleží na tom, zda je ten prach sypký, či nikoli; naopak by bylo zbytečné zrnit prach pro děla. A nadto se k podsypání {inescar} toho malého otvoru, jímž se ručnicím a arkebuzám dává oheň, obvykle nosí, jak víte, malinká prachovnička plná nejjemnějšího prachu[^2]; a kdyby ten prach náhodou nebyl drobně zrněný, nechtěl by a nemohl vyjít z tak malého otvoru z důvodů výše uvedených. Proto bylo nutné jej drobně zrnit, což u děl není třeba, protože, pokud jsem slyšel, vy jej tam sypete rukou.
+- typ: odstavec
+  de: |-
+    H. Eglie cosi, & certamente queste uostre ragioni sono lo euangelio, ne mai haria pensato, che per simel causa ui se li desse tal grana, & questa cosa la ho accaro piu di dieci scudi, & pero di questo ue ne ringratio grandamente.
+  cs: |-
+    **Hieronimo.** Je tomu tak a tyto vaše důvody jsou jistě svaté evangelium; nikdy bych si nebyl pomyslel, že se prach zrní {grana} z takové příčiny. Tato věc je mi milejší než deset skudů {scudi}[^3], a proto vám za ni velice děkuji.
+- typ: odstavec
+  de: |-
+    Il fine del terzo libro.
+  cs: |-
+    Konec třetí knihy.
+poznamky:
+- n: 1
+  text: Canoncino – dávkovací trubička (měrka) na hrdle prachovnice, uzavíratelná zevnitř pružnou záklopkou; jedna naplněná trubička odpovídá jedné náloži.
+- n: 2
+  text: Busettino (buso) – zápalný otvor ručnice či arkebuzy, nad nímž je pánvička; nejjemnější zrněný prach k jeho podsypání se nosil ve zvláštní malé prachovničce (podsýpce).
+- n: 3
+  text: Scudo – zlatá (později i stříbrná) mince; deset skudů představovalo značnou částku.

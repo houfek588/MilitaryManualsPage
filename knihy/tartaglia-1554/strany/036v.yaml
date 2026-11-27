@@ -1,0 +1,31 @@
+id: 036v
+list: '36'
+strana: verso
+sken: 72
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    VERO è, che tutte le balle gettate in una medesima forma non saranno precisamente d'un medesimo peso, perche in una il metallo ui se congella alle uolte piu fisso, ouer piu poroso che nell'altra per molte cause, le quale non uoglio al presente star à narrarle, ma solamente me apparso de aduertirui, accio che se la nostra determinatione, non ui rispondesse cosi precisamente, come habbiamo determinato, che quella non se ne debbia scandalizzare, perche tutte le cose operate in materia, mai ponno esser fatte cosi uere è precise, che sempre le non possano essere piu uere, et piu precise.
+  cs: |-
+    Je ovšem pravda, že všechny koule {balle} odlité v téže formě nebudou mít přesně stejnou váhu, protože v jedné kov někdy ztuhne hutnější či pórovitější než v druhé, a to z mnoha příčin, které teď nechci vypočítávat. Zdálo se mi jen vhodné vás upozornit, aby se Vaše Milost nepohoršovala, kdyby vám naše určení neodpovídalo tak přesně, jak jsme je stanovili; neboť nic, co se zhotovuje z hmoty, nelze nikdy udělat tak věrně a přesně, aby to nemohlo být ještě věrnější a přesnější.
+- typ: odstavec
+  de: |-
+    ANCHORA Vostra Signoria aduertisca, che se il detto diametro à me mandato fu di una balla di ferro (come me haueti scritto) tutti li nostri se debbono intendere solamente sopra balle di ferro, & non di piombo, ma uolendoli etiam adattare alle balle di piombo, bisogna augumentarui il suo peso per la sua mita, cioe se lo detto diametro è di balla di ferro, & che quella pesi, come detto rotuli.9 (ouer lire.25.) dico che un'altra di piombo gettata in quella medesima forma pesara, circa à un tanto è mezzo, cioe rotuli.13. e mezzo, ouer lire.37. e mezza, perche il piombo, al ferro in grauita sta quasi in sesquialtera proportione, & cosi si debbe intendere in tutti gli altri. Et che ne uolesse farne far de pietra commune sopra la misura di alcuno di detti diametri, tal balla pesara circa la quarta parte di quello pesaria quella de piombo, cioe che la proportione della pietra marmorina al piombo in ponderosita è quasi subquadrupla, & con il ferro è quasi come da.15. à.38. per la qual notitia se potra trouar la grauita di qual si uoglia balla, sopra qual si uoglia diametro assignato, & accio che meglio quella lo possa tener in memoria qua di sotto ui ho notata la detta lor proportione distintamente.
+  cs: |-
+    Dále ať Vaše Milost uváží, že byl-li průměr, který mi byl zaslán, průměrem železné koule (jak jste mi psal), je třeba všechny naše průměry chápat jen pro železné koule, a ne pro olověné. Chcete-li je však použít i pro olověné koule, je třeba jejich váhu zvětšit o polovinu: je-li totiž zmíněný průměr průměrem železné koule a váží-li tato, jak bylo řečeno, 9 rotulů {rotuli} (neboli 25 liber {lire}), říkám, že jiná, olověná, odlitá v téže formě bude vážit zhruba jedenapůlkrát tolik, totiž 13 a půl rotulu neboli 37 a půl libry, protože olovo je k železu co do tíže skoro v poměru půldruhého {sesquialtera proportione} (3 : 2); a tak je třeba to chápat u všech ostatních. A kdyby někdo chtěl dát podle míry některého z těchto průměrů zhotovit kouli z obyčejného kamene, bude taková koule vážit asi čtvrtinu toho, co by vážila olověná; poměr mramorového kamene k olovu co do tíže je totiž skoro jedna ku čtyřem {subquadrupla} a k železu skoro jako 15 ku 38. Podle těchto údajů bude možné najít tíži kterékoli koule při kterémkoli zadaném průměru; a aby si to Vaše Milost lépe zapamatovala, zaznamenal jsem zde níže jejich poměry jednotlivě.
+- typ: seznam
+  de:
+  - Il piombo al ferro è quasi come.30. à.19. cioe quasi sesquialtera.
+  - Il piombo al pietra marmorina è quasi come.4. à.1.
+  - Il ferro alla pietra è quasi come.38. à.15.
+  cs:
+  - Olovo je k železu skoro jako 30 ku 19, to jest skoro v poměru půldruhého.
+  - Olovo je k mramorovému kameni skoro jako 4 ku 1.
+  - Železo je ke kameni skoro jako 38 ku 15.
+- typ: odstavec
+  de: |-
+    Il fine del Secondo Libro.
+  cs: |-
+    Konec druhé knihy.

@@ -1,0 +1,37 @@
+id: 035v
+list: '35'
+strana: verso
+sken: 70
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    longhi che non poteuano capire nel foglio, ui ho notato solamente la mitade di tal diametro, come quella potra uedere, & se il diametro, che quella me ha mandato è giusto, anchora questi da me geometricamente ritrouati, saranno giusti, & se quella hauera commesso alcuno errore, nel detto diametro à me mandato, anchor li miei non saranno
+  cs: |-
+    dlouhé, že se nevešly na list, zaznamenal jsem u nich jen polovinu průměru, jak Vaše Milost uvidí. Je-li průměr, který mi Vaše Milost poslala, správný, budou správné i tyto, které jsem nalezl geometricky; jestliže se však Vaše Milost v průměru, který mi poslala, dopustila nějaké chyby, nebudou ani mé
+- typ: obrazek
+  soubor: drevorez-70.jpg
+  popis: Devět rovnoběžných úseček sázených napříč stranou (strana se čte otočená o 90°), každá s popiskem podél ní. Zleva průměr koule o 9 rotulech, průměr o 9 rotulech zaslaný z Lecce, průměry koulí o 10, 11 a 12 rotulech a poloviny průměrů koulí o 18, 36, 45 a 72 rotulech. Celé průměry (9–12 rotulů) se zleva doprava mírně prodlužují, poloviny průměrů jsou kratší a od 18 do 72 rotulů opět rostou. Znění popisků je přepsáno a přeloženo pod obrázkem. Pokračování řady (9 až 1 rotul) je na následující straně.
+- typ: seznam
+  de:
+  - Questo diametro è di una balla da rotuli nuoue che saria lire.25.
+  - Questo sottoscritto è pur il diametro de una balla da rotuli.9. mandatami da Lezze la qual saria lire.25.
+  - Questo sottoscritto è il diametro de una balla da rotuli.10. che saria lire.27. onze.9. e un terzo.
+  - Questo sottoscritto è il diametro de una balla da rotuli.11. che saria lire.30. onze.6. e dui terzi.
+  - Questo sottoscritto è il diametro de una balla da rotuli.12. che saria lire.33. onze.4.
+  - Questo sottoscritto è la mita del diametro de una balla de rotuli.18. che saria lire.50.
+  - Questo sottoscritto è la mita del diametro de una balla da rotuli.36. che saria lire.100
+  - Questo sottoscritto è la mita del diametro de una balla da rotuli.45. che saria lire.125.
+  - Questo sottoscritto è la mita del diametro de una balla da rotuli.72. che saria lire.200.
+  cs:
+  - Tento průměr je průměr koule o devíti rotulech {rotuli}, což by bylo 25 liber {lire}.
+  - Níže je rovněž průměr koule o 9 rotulech, zaslaný mi z Lecce, což by bylo 25 liber.
+  - Níže je průměr koule o 10 rotulech, což by bylo 27 liber 9 a třetina unce {onze}.
+  - Níže je průměr koule o 11 rotulech, což by bylo 30 liber 6 a dvě třetiny unce.
+  - Níže je průměr koule o 12 rotulech, což by bylo 33 liber 4 unce.
+  - Níže je polovina průměru koule o 18 rotulech, což by bylo 50 liber.
+  - Níže je polovina průměru koule o 36 rotulech, což by bylo 100 liber.
+  - Níže je polovina průměru koule o 45 rotulech, což by bylo 125 liber.
+  - Níže je polovina průměru koule o 72 rotulech, což by bylo 200 liber.

@@ -1,0 +1,43 @@
+id: 020r
+list: '20'
+strana: recto
+sken: 39
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO DECIMOTERTIO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: |-
+    Třináctý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Hiersera uoi dimostrasti con buone ragioni di quanta longhezza se potria con ragione determinare che douesse esser la longhezza della canna d'un pezzo di Artegliaria ad essere debitamente proportionata alla conueniente misura della poluere, & balla che si costuma à dare à un tal pezzo, la qual misura conueniente il se suppone che sia li dui terzi di quello che pesa la balla. Hor se il fusse uno pezzo (poniamo uno canon da.20.) che per sorte hauesse quella sua debita & proportionata longhezza che ui si conuiene alli dui terzi poluere di quello pesa la balla, che gli desse poi piu poluere, cioe piu delli detti dui terzi di quello che pesa la balla, ue adimando se tal pezzo tirara piu del solito.
+  cs: |-
+    **Převor.** Včera večer jste dobrými důvody ukázal, jak dlouhá by rozumně vzato měla být hlaveň {canna} děla {pezzo di Artegliaria}, aby byla náležitě úměrná přiměřené míře prachu {poluere} a koule {balla}, jakou se takovému dělu obvykle dává; přičemž se předpokládá, že tato přiměřená míra jsou dvě třetiny váhy koule. Kdyby nyní bylo nějaké dělo (řekněme kanon {canon} na 20 liber), které by náhodou mělo onu náležitou a úměrnou délku, jaká přísluší dvěma třetinám prachu oproti váze koule, a dalo by se mu pak víc prachu, totiž víc než ony dvě třetiny váhy koule, ptám se vás, zda takové dělo dostřelí dál než obvykle.
+- typ: odstavec
+  de: |-
+    N. Senza dubbio che lui tirara alquanto piu del solito.
+  cs: |-
+    **Nicolò.** Bez pochyby dostřelí o něco dál než obvykle.
+- typ: odstavec
+  de: |-
+    P. Questo saria contra alle ragioni da uoi hiersera adutte, perche in questo caso la balla sara uscita della bocca del pezzo auanti che tutta la detta poluere sia compita di risoluersi in fuoco, e pero quella parte de uigore, che sara causato da quella tal parte de poluere di piu, dapoi che sara uscita la balla della bocca del pezzo sara frusta è uana, e pero tal pezzo non doueria tirar piu, per tal poluer dataui de piu (restando il uigor di quella in tutto uano è frusto) anci doueria tirare solamente secondo il solito.
+  cs: |-
+    **Převor.** To by bylo proti důvodům, které jste uvedl včera večer. V tomto případě totiž koule vyletí z ústí děla dřív, než se všechen prach úplně promění v oheň; a proto ta část síly, kterou způsobí ona přidaná část prachu, až koule vyletí z ústí děla, přijde nazmar a bude marná. Takové dělo by tedy po přidání prachu nemělo dostřelit dál (protože jeho síla zůstane docela marná a ztracená), nýbrž by mělo dostřelit jen jako obvykle.
+- typ: odstavec
+  de: |-
+    N. Quel uigore uentoso, che generara quella parte di poluer dataui de piu (dapoi che la balla sara uscita dalla bocca del pezzo) à benche lui non potra operare nella detta balla mentre che quella sara dentro della canna del pezzo, il non restara pero da operare in quella, dapoi che sara uscita dalla bocca del pezzo, cioe in aere, perche tutto quel uento che uien causato dalla poluere nella detta canna sempre seguita per alquanto unitamente la balla, anchor che la balla sia uscita per alquanto fuora della bocca del pezzo, e pero ui augumenta alquanto il moto, uero è che tal uigor uentoso non operara tanto nel spingere la detta balla (per trouarla cosi fuora della detta canna) come faria se la trouasse dentro nella canna, cioe che tal suo operare non sara proportionale à quella quantita di poluere postaui di piu, anci sara molto lontano di tal proportione.
+  cs: |-
+    **Nicolò.** Ona větrná síla, kterou vytvoří přidaná část prachu (poté, co koule vyletí z ústí děla), sice nebude moci působit na kouli, dokud bude v hlavni děla, nepřestane však na ni působit, když vyletí z ústí děla, totiž ve vzduchu. Všechen ten vítr, který prach v hlavni vyvolá, totiž ještě nějakou dobu sleduje kouli v jednom proudu, i když už koule kus vyletěla z ústí děla, a proto její pohyb poněkud zvětší. Je ovšem pravda, že tato větrná síla nebude při pohánění koule působit tolik (protože ji zastihne venku z hlavně), jako kdyby ji zastihla uvnitř hlavně; to jest její působení nebude úměrné {proportionale} onomu přidanému množství prachu, nýbrž bude od takové úměrnosti velmi vzdáleno.
+- typ: odstavec
+  de: |-
+    P. Io non intendo questo operar poportionale.
+  cs: |-
+    **Převor.** Nerozumím tomuto úměrnému působení.
+- typ: odstavec
+  de: |-
+    N. Operar proportionale se intende in questo modo, poniamo essempi gratia che questo nostro canon da lire uenti, tirandolo à una data elleuatione con li dui terzi poluere di quello pesa la balla, tiri passa 1000. tirandolo poi con tanta poluere quanto pesa la balla, la qual poluere ueneria à essere un tanto è meggio di quello era prima (cioe dalli dui terzi) hor dico, che se questa poluere che ui fusse aggionta de piu operasse proportionalmente nella balla, tal pezzo doueria tirare alla medesima elleuatione precisamente passa.1500.cioe un tanto è meggio di quello fece con li dui terzi poluere. Et io dico, che il pezzo in simil caso non solamente il non tiraria li detti passa.500.de piu, ma forsi che il non tiraria manco la mita di piu, cioe passa.250. Ma supponemo che lui tirasse li detti passa.250.de piu (che in summa saria passa.1250.) Anchora dico, che tirasse il medesimo canone con uno altro terzo di poluere de piu, cioe con tanta poluere quanto pesa la balla, & un terzo piu, che saria quattro terzi questo secondo terzo non
+  cs: |-
+    **Nicolò.** Úměrné působení se rozumí takto. Předpokládejme například, že tento náš kanon na dvacet liber {lire}, vystřelí-li se z něj při určité elevaci {elleuatione} se dvěma třetinami prachu oproti váze koule, dostřelí 1000 kroků {passa}. Vystřelí-li se z něj pak s tolika prachem, kolik váží koule, což by bylo jednou a půl tolik než předtím (totiž než dvě třetiny), pravím, že kdyby tento přidaný prach působil na kouli úměrně, mělo by dělo při téže elevaci dostřelit přesně 1500 kroků, totiž jednou a půl tolik než se dvěma třetinami prachu. A já pravím, že dělo v takovém případě nejenže nedostřelí o oněch 500 kroků dál, ale snad nedostřelí ani o polovinu z toho dál, totiž o 250 kroků. Předpokládejme však, že dostřelí o oněch 250 kroků dál (což by celkem bylo 1250 kroků). Dále pravím: kdyby se z téhož kanonu vystřelilo s další třetinou prachu navíc, totiž s tolika prachem, kolik váží koule, a ještě o třetinu víc, což by byly čtyři třetiny, tato druhá třetina by

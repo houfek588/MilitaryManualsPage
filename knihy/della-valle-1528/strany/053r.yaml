@@ -1,0 +1,21 @@
+id: 053r
+list: '53'
+strana: recto
+sken: 125
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: A FARE DOI BATTAGLIONI LVNO CONTRA LALTRO.
+  cs: Jak postavit dva bataillony proti sobě
+- typ: odstavec
+  de: |-
+    QVesti battaglioni sono luno contra laltro, uno e ad forfece, & laltro in triangolo, quale uiene luno contra laltro con ragione, senza darse fastidio, & ambe doi con nedere como qui alinconro appare.
+  cs: |-
+    Tyto bataillony {battaglioni} stojí proti sobě, jeden v nůžkách {forfece} a druhý v trojúhelníku {triangolo}; jdou proti sobě správně, aniž by si navzájem překáželi, a oba je lze vidět[^1], jak je zde na protější straně zobrazeno.[^2]
+poznamky:
+- n: 1
+  text: Tisk má „con nedere“, patrně tisková chyba za „con uedere“ (vidět; obrácená litera n/u); stejně „alinconro“ místo „alincontro“. Obě čtení ověřena ve skenu.
+- n: 2
+  text: Nadpis zde na rozdíl od předchozích kapitol nemá číslo; v obsahu (Tabola) je kapitola uvedena jako „A far doi battaglioni luno in forfice & laltro in triangolo non se molestando loro“ s odkazem na list 53. Obrazec je na protější straně [[052v|52 v]]. Zbytek strany je prázdný – zde končí Kniha třetí.

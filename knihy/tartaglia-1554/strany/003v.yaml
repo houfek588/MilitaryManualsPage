@@ -1,0 +1,114 @@
+id: 003v
+list: '[3] v'
+strana: verso
+sken: 6
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  de:
+  - |-
+    Come se doueria procedere uolendo redur una quantita de fanti in figura Rhombica di gente. a car. 49. al Quesito. 9.
+  - |-
+    Come se poteria ordinar una quantita de fanti, ouer un essercito in una battaglia cornuta. a car. 50. al Quesito. 10.
+  - |-
+    Come non e licito uno essercito offeso dalle artegliarie nemiche, a restringersi insieme, ne manco a caminare secondo che si troua. a car. 51. al Quesito. 11.
+  - |-
+    Come se doueria procedere uolendo in un subito ridure una ordinanza in forma quadra di gente, in una forma cunea senza desordinare la prima ordinanza. a carte. 52. al Quesito. 12.
+  - |-
+    Con ragion se approua come che eglie possibile a ritrouar col frequente studio modi di ordinar un essercito quasi di che fattion, ouer autorita si uoglia. a car. 53. & 54.
+  cs:
+  - |-
+    Jak by se mělo postupovat, chce-li se určitý počet pěšáků {fanti} sestavit do kosočtverečného obrazce {figura Rhombica} co do mužstva. – Na [[049r|listu 49]], dotaz 9.
+  - |-
+    Jak by bylo možné určitý počet pěšáků nebo vojsko {essercito} sestavit do rohatého šiku {battaglia cornuta}[^1]. – Na [[050r|listu 50]], dotaz 10.
+  - |-
+    Že vojsko ostřelované nepřátelskými děly {artegliarie} se nemá semknout k sobě, a tím méně pochodovat tak, jak právě stojí. – Na [[051r|listu 51]], dotaz 11.
+  - |-
+    Jak by se mělo postupovat, chce-li se šik {ordinanza} čtvercový co do mužstva {forma quadra di gente} rázem proměnit v klín {forma cunea}, aniž se původní šik rozvrátí. – Na [[052r|listu 52]], dotaz 12.
+  - |-
+    S odůvodněním se dokazuje, že pilným studiem lze nalézt způsoby, jak sestavit vojsko téměř jakékoli podoby či významu[^2]. – Na [[053r|listu 53]] a 54.
+- typ: nadpis
+  uroven: 3
+  de: El soggetto delli Quesiti del quinto libro.
+  cs: Předmět dotazů {Quesiti} páté knihy
+- typ: seznam
+  de:
+  - |-
+    Come ua fabricato il Bossolo per tor in disegno li siti paesi & le piante delle Città. a carte. 55. al Quesito primo
+  - |-
+    Come se de procedera, uoler tor in disegno un sito, ouer paese contenuto da linee rette. a carte. 56. al Quesito secondo
+  - |-
+    Come se de procedere uolendo tor in disegno un paese contenuto da linee corue & rette. a carte. 79. & 60. al Quesito. 3. & 4.
+  - |-
+    Come si de procedere uolendo tor in disegno la pianta de una Città. a car. 61. al Q. 5.
+  - |-
+    Come se de procedere uolendo formar un Bossolo per se medesimo & con puoco arteficio & spesa. a carte. 61. al Quesito. 6.
+  cs:
+  - |-
+    Jak má být zhotovena buzola {Bossolo}, jíž se zakreslují polohy míst, krajiny a půdorysy {piante} měst. – Na [[055r|listu 55]], dotaz první.
+  - |-
+    Jak se má postupovat, chce-li se zakreslit místo nebo krajina ohraničená přímými čarami. – Na [[056r|listu 56]], dotaz druhý.
+  - |-
+    Jak se má postupovat, chce-li se zakreslit krajina ohraničená čarami křivými i přímými. – Na listu 79[^3] a [[060r|60]], dotazy 3 a 4.
+  - |-
+    Jak se má postupovat, chce-li se zakreslit půdorys města. – Na [[061r|listu 61]], dotaz 5.
+  - |-
+    Jak se má postupovat, chce-li si člověk sám zhotovit buzolu s malou námahou a nákladem. – Na [[061r|listu 61]], dotaz 6.
+- typ: nadpis
+  uroven: 2
+  de: ALLI LETTORI.
+  cs: Čtenářům
+- typ: verse
+  de:
+  - Chi Brama di ueder noue inuentioni,
+  - Non tolte da Platon, ne da Plotino,
+  - Ne d'alcun altro Greco, ouer Latino,
+  - Ma sol da Larte, misura, e Ragioni.
+  - Lega di questo le interrogationi,
+  - Fatte da Pietro, Pol, Zuann', e Martino
+  - (Si come, l'occorea sera, e Matino)
+  - Et simelmente, le responsioni.
+  - Qui dentr'intendara, se non m'inganno,
+  - De molti effetti assai speculatiui,
+  - La causa propinqua del suo danno,
+  - Anchor de molti atti operatiui,
+  - Se uedera essequir con puoc'affanno
+  - Nell'arte della guerra Profittiui.
+  - Et molto defensiui.
+  - Con altre cose di magno ualore,
+  - Et inuentioni nell'arte maggiore.
+  cs:
+  - Kdo touží spatřit nové vynálezy,
+  - jež nevzaty jsou z Platóna ni z Plótína
+  - ni od jiného Řeka či Latiníka,
+  - leč jen z umění, z míry a z rozumu,
+  - ať z této knihy čte otázky,
+  - jež kladli Petr, Pavel, Jan a Martin[^4]
+  - (jak se právě naskytlo, večer či ráno),
+  - a rovněž také odpovědi.
+  - Zde pochopí, jestli se nemýlím,
+  - u mnoha účinků dosti spekulativních
+  - nejbližší příčinu jejich škody;
+  - též mnohé úkony praktické
+  - uvidí konat s malou námahou,
+  - ve válečném umění užitečné
+  - a k obraně velmi prospěšné;
+  - s jinými věcmi velké ceny
+  - a vynálezy ve Velikém umění[^5].
+poznamky:
+- n: 1
+  text: |-
+    Rohatý šik (battaglia cornuta) – šik, jehož křídla vybíhají vpřed jako rohy, takže nepřítele obemknou z boků.
+- n: 2
+  text: |-
+    „Quasi di che fattion, ouer autorita si uoglia“ – nejisté místo; „fattion“ chápeme jako tvar (podobu) šiku, „autorita“ snad jako jeho význam či velikost.
+- n: 3
+  text: |-
+    Tisková chyba: má být list 59 ([[059r|list 59]]); třetí dotaz páté knihy začíná na listu 58 v.
+- n: 4
+  text: |-
+    Petr, Pavel, Jan a Martin (Pietro, Pol, Zuanne, Martino) – příslovečná jména, tj. „kdekdo“, lidé všeho druhu; Zuanne je benátský tvar jména Giovanni.
+- n: 5
+  text: |-
+    „Arte maggiore“ (doslova „větší umění“) – Veliké umění (ars magna), tj. algebra, jíž se věnuje devátá kniha. Báseň je „sonetto caudato“ – sonet rozšířený o tříveršovou „codu“ (krátký verš a dvojverší).

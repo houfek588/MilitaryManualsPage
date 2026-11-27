@@ -1,0 +1,50 @@
+id: 064v
+list: '64'
+strana: verso
+sken: 128
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    cioe per la grossezza de quelle. Et per tanto quantunque habbia uisto la grossezza delle mura, et torrioni de tai citta, non hauendo considerata la sua forma non posso far giudicio di quello, che me ha adimandato V. S. perche quella (se ben me aricordo) me ha adimandato, se à me mi pare che lo ingegno dell'huomo sia peruenuto à quel sublime grado doue sia possibile de peruenire, nel fortificare una citta. Onde se lo ingegno dell'huomo, in simil caso (come di sopra è detto) se approua per la forma, & non hauendo io considerato alcuna forma non posso far alcun giudicio.
+  cs: |-
+    totiž tloušťkou hradeb {mura}. A proto, ačkoli jsem viděl tloušťku hradeb a věží {torrioni} těch měst, nemohu, protože jsem si nevšiml jejich tvaru, posoudit to, nač se mě Vaše Milost ptala. Vaše Milost se mě totiž (pamatuji-li si dobře) ptala, zda se mi zdá, že lidský důmysl dospěl v opevňování města k onomu nejvyššímu stupni, jehož lze dosáhnout. Jestliže se tedy lidský důmysl v takovém případě (jak bylo řečeno výše) osvědčuje tvarem, a já jsem si žádného tvaru nevšiml, nemohu učinit žádný úsudek.
+- typ: odstavec
+  de: |-
+    P. Doman de sera ui uoglio mostrar il dissegno d'una citta de Italia, la qual è giudicata inespugnabile, uorro poi che sopra la forma di quella me dicati la uostra opinione, cioe se la sara ingeniosamente fabricata.
+  cs: |-
+    **Převor.** Zítra večer vám chci ukázat plán jednoho italského města, které je pokládáno za nedobytné {inespugnabile}; pak budu chtít, abyste mi o jeho tvaru řekl svůj názor, totiž zda je důmyslně postaveno.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SECONDO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Druhý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Vedeti qua, questo è il dissegno della pianta de Turino, qual da gli huomini de ingegno è giudicato esser inespugnabile. Hor che diceti di questa figura.
+  cs: |-
+    **Převor.** Podívejte se sem: toto je plán půdorysu {pianta} Turína, který důmyslní muži pokládají za nedobytný. Nuže, co říkáte tomuto obrazci?
+- typ: odstavec
+  de: |-
+    N. In questa tal figura, non ui dicerno alcuna gran sottilita d'ingegno.
+  cs: |-
+    **Nicolò.** V tomto obrazci nerozeznávám žádnou velkou jemnost důmyslu.
+- typ: odstavec
+  de: |-
+    P. O uoi seti, non solamente contra alla opinione d'ogn'uno, ma anchora contra à tutto quello, che per sperientia se è ueduto, toccato, e palpato.
+  cs: |-
+    **Převor.** Ó, vy jste nejen proti mínění všech, ale i proti všemu, co zkušenost ukázala, čeho se dotkla a co ohmatala.
+- typ: odstavec
+  de: |-
+    N. Non dico, ne manco uoglio dire, che Turino non sia forte, & forsi fortissimo, perche una citta puo essere alle uolte forte per la natura del luoco doue che la se ritroua, & alle uolte solamente per artificio dell'huomo, & alle uolte per l'uno, e per l'altro. Quelle che sono forte solamente per la natura del luoco (cioe quando che quella fusse cinta, ouer circondata da acque, fiumi, ouer paludi) io non ne parlo, perche il laude di tal sua fortezza si debbe attribuire piu presto alla natura, che all'ingegno dell'huomo. Ma quelle che sono forte solamente per artificio dell'huomo, tal sua fortezza puo accadere in dui modi, cioe tal hora puo esser forte, piu per uigor della pura materia, che della forma, cioe piu per uigor delle sue grosse mura, bastioni, larghe & profonde fosse, che dalla forma di quella, il qual modo, anchor che faccia quasi lo effetto disiderato, à me non pare che sia de molto ingegno. L'altro modo è, che talhora una citta puo esser forte piu per uigore della forma, che della materia, cioe che la forma delle mura del circuito de tal citta, potria esser alle uolte di tal sorte, che quella non saria di menor impedimento, ouer ostacolo alli nemici, di quello che saria le sue grosse mura, bastioni, larghe et profonde fosse, la qual cosa essendo, giudicarei tal opra esser composta, ouer ordinata da non mediocre ingegno.
+  cs: |-
+    **Nicolò.** Neříkám, a ani nechci říci, že Turín není silný, ba snad velmi silný, neboť město může být silné někdy přírodou místa, kde leží, někdy jen lidským uměním a někdy obojím. O těch, která jsou silná jen přírodou místa (totiž když je obepínají či obklopují vody, řeky nebo močály), nemluvím, protože chválu za takovou pevnost je třeba přičíst spíše přírodě než lidskému důmyslu. Ale u těch, která jsou silná jen lidským uměním, může taková pevnost vzniknout dvojím způsobem. Někdy totiž může být město silné spíše silou samotné hmoty než tvaru, totiž spíše silou svých tlustých hradeb, bašt {bastioni} a širokých a hlubokých příkopů {fosse} než svým tvarem; a tento způsob, ač má skoro žádoucí účinek, se mi nezdá příliš důmyslný. Druhý způsob je, že někdy může být město silné spíše silou tvaru než hmoty, totiž že tvar hradeb obvodu takového města by mohl být někdy takový, že by byl nepříteli neméně překážkou čili zábranou než jeho tlusté hradby, bašty a široké a hluboké příkopy. Kdyby tomu tak bylo, soudil bych, že takové dílo bylo složeno čili uspořádáno nikoli průměrným důmyslem.
+- typ: obrazek
+  soubor: drevorez-128.jpg
+  popis: Nápis „Pianta de Turino“ (Půdorys Turína). Schematický půdorys města ve tvaru téměř čtvercového obdélníku (o něco širšího než vysokého) se zdvojenou obvodovou čarou – vnější nová a vnitřní stará hradba s mezerou mezi nimi; ve všech čtyřech rozích jsou bašty a uprostřed každé strany malá obdélníková plošina (forma piatta čili kavalír).
+- typ: odstavec
+  de: |-
+    P. Ma uoglio che sappiati qualmente la detta citta è fortissima, & non solamente per la pura materia, ma anchora per la buona forma, & accio
+  cs: |-
+    **Převor.** Chci však, abyste věděl, že to město je velmi silné, a to nejen samotnou hmotou, ale i dobrým tvarem. A abyste

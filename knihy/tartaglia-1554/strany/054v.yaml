@@ -1,0 +1,55 @@
+id: 054v
+list: '54'
+strana: verso
+sken: 108
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: LIBRO QVINTO DELLI QVESITI, ET INVENTIONI DIVERSE, DE NICOLO TARTAGLIA.
+  cs: Pátá kniha Rozličných otázek a vynálezů Niccola Tartaglii
+- typ: odstavec
+  de: |-
+    Sopra el mettere, ouer tuore rettamente in disegno con el bossolo, li siti, paesi, & simelmente le piante delle citta, con el modo de sapere fabricare el detto bossolo, & in diuersi modi, la cui scientia da Ptolomeo è detta Chorografia.
+  cs: |-
+    O tom, jak buzolou {bossolo} správně zakreslit neboli zachytit do výkresu polohy a krajiny a stejně tak půdorysy {piante} měst, se způsobem, jak takovou buzolu zhotovit, a to rozličnými způsoby; tuto vědu nazývá Ptolemaios chorografií[^1].
+- typ: nadpis
+  uroven: 3
+  de: QVESITO PRIMO FATTO DAL MIO HONORANDO Compare. M. Richardo Ventuorth, gentil'huomo della Maestà del Re d'Inghilterra.
+  cs: První dotaz, který položil můj ctěný kmotr pan Richard Wentworth, šlechtic Jeho Veličenstva krále anglického
+- typ: odstavec
+  de: |-
+    RICHARDO. Compare carissimo haria molto accaro, che me dichiarasti, come se poteria mettere in disegno rettamente un sito, ouer un particolar paese, & simelmente la pianta di una citta, la cui pratica da Ptolomeo, come sapeti nella sua Geographia, è detta Chorographia.
+  cs: |-
+    **Richard.**[^2] Nejmilejší kmotře, velmi rád bych, kdybyste mi vyložil, jak by se dala správně zakreslit poloha nebo určitá krajina, a stejně tak půdorys města; tuto praxi nazývá Ptolemaios, jak víte, ve své Geografii chorografií.
+- typ: odstavec
+  de: |-
+    N. Tal cosa si puo fare con un bossolo artificialmente fatto con la sua calamita, che sia giusto.
+  cs: |-
+    **Nicolò.** To lze udělat přesnou buzolou, umně zhotovenou a opatřenou magnetovcem {calamita}.
+- typ: odstavec
+  de: |-
+    R. Vi prego me dicati in che forma uol esser fatto questo bossolo.
+  cs: |-
+    **Richard.** Prosím vás, řekněte mi, v jaké podobě má být ta buzola zhotovena.
+- typ: odstavec
+  de: |-
+    N. La forma di tal bossolo si puo far in dui modi. L'uno, qual è il piu communo, si è à farlo con una dioptra, ouer trasguardo mobile, cioe, che si puol girare à torno per poter trasguardare in ogni uerso secondo che occorre il bisogno. L'altro si fa da potersene seruire senza quella tal dioptra, ouer trasguardo mobile, il che è molto accommodo, e di menor artificio, ma ben ui occorre un bossolo con una lancetta molto longa.
+  cs: |-
+    **Nicolò.** Takovou buzolu lze udělat dvojím způsobem. Jeden, nejběžnější, spočívá v tom, že se opatří pohyblivou dioptrou {dioptra} neboli průzorem {trasguardo}, tj. takovým, který lze otáčet dokola, aby se dalo zaměřovat každým směrem podle potřeby. Druhý se dělá tak, aby se jí dalo používat bez takové pohyblivé dioptry neboli průzoru; to je velmi pohodlné a vyžaduje to méně umu, ale je k tomu potřeba buzola s velmi dlouhou střelkou {lancetta}.
+- typ: odstavec
+  de: |-
+    R. Mostratime pur per al presente solamente quella forma, che è piu in uso, cioe quella che piu si costuma, perche quando saro in Inghilterra me ne sappia far far uno.
+  cs: |-
+    **Richard.** Ukažte mi tedy prozatím jen tu podobu, která je nejvíce v užívání, tj. tu, která je nejobvyklejší, abych si ji, až budu v Anglii, dovedl dát zhotovit.
+- typ: odstavec
+  de: |-
+    N. La piu frequentata si fa in questo modo. Prima se fa far un tondo di lama di rame, ouer di ottone grossa una costa di cortello uel circa el diametro, del qual tondo non uoria esser men de una spanna, perche quanto piu tal istrumento è maggiore, tanto piu eglie men fallace, uero è, che eglie poi piu discommodo da portarse drio, & per questa causa molti lo costumano piu piccolo assai per esser piu commodo, & questo tal tondo di lama se fa spianar benissimo alla mola, & dapoi, che è ben spianato sopra el centro del medesimo tondo ui si descriue prima un cerchio piu scarso una costa di cortello del tondo di detta lama, et anchora un'altro piu piccolo di questo per due bone coste di cortello, et tutta la circonferentia del primo cerchio, prima se diuide con summa diligentia in quatro parti equali, et à una di queste diuisione ui se scriue Leuante, et all'altra à questa opposita ui se scriue Ponente, & à quella diuisione, che è fra queste due uerso Tramontana, ui se scriue Tramontana, & à quella che è uerso Ostro, ui se scriue Ostro, & cosi la circonferentia del detto primo cerchio uenira a esser diuisa in le dette quattro parti equali, delle quali una uenira à esser fra Leuante, et Tramontana, et una fra Tramontana, & Ponente,
+  cs: |-
+    **Nicolò.** Nejužívanější se dělá takto. Nejprve se dá udělat kotouč z měděného nebo mosazného plechu, silný asi jako hřbet nože; jeho průměr by neměl být menší než píď {spanna}, protože čím je takový přístroj větší, tím méně klame – je ovšem pak nepohodlnější k nošení s sebou, a z toho důvodu jej mnozí dělávají mnohem menší, aby byl pohodlnější. Tento plechový kotouč se dá velmi dobře vyrovnat na brusném kameni, a když je dobře vyrovnaný, opíše se ze středu téhož kotouče nejprve kruh, menší o hřbet nože než kotouč z toho plechu, a ještě další, menší než tento o dva dobré hřbety nože. Celý obvod prvního kruhu se nejprve s největší pečlivostí rozdělí na čtyři stejné díly; k jednomu z těchto dělicích bodů se napíše Levante [východ], k druhému, protilehlému, se napíše Ponente [západ], k tomu dělicímu bodu, který leží mezi těmito dvěma směrem k severu, se napíše Tramontana [sever] a k tomu, který leží k jihu, se napíše Ostro [jih]. Tak bude obvod prvního kruhu rozdělen na zmíněné čtyři stejné díly, z nichž jeden bude mezi Levante a Tramontanou, jeden mezi Tramontanou a Ponente,
+poznamky:
+- n: 1
+  text: Klaudios Ptolemaios (2. stol.) v úvodu své Geografie (Geographiké hyfégésis, I,1) rozlišuje geografii (zobrazení celé známé země) a chorografii (podrobný popis a zobrazení jednotlivých krajin a míst).
+- n: 2
+  text: Richardo Ventuorth (tak v tisku) – Richard Wentworth, anglický šlechtic, žák a přítel Tartaglii v Benátkách, jemuž Tartaglia říká „compare“ (kmotr, důvěrný přítel); s ním vede Tartaglia rozhovory páté knihy.

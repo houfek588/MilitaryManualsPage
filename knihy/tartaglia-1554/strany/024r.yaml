@@ -1,0 +1,64 @@
+id: 024r
+list: '24'
+strana: recto
+sken: 47
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO VIGESIMO FATTO DA VNO Capo de Bombardieri.
+  cs: |-
+    Dvacátý dotaz, který položil jeden náčelník dělostřelců {Capo de Bombardieri}
+- typ: odstavec
+  de: |-
+    BOMBARDIERO. Perche causa credete uoi che si metta quelli dui stroppaioni de fieno, ouer de stoppa, ogni uolta che si carga una artegliaria, cioe uno dapoi che ui se ha posta la poluere, cioe auanti che ui si metta la balla, & l'altro dapoi che ui si ha posta la detta balla.
+  cs: |-
+    **Dělostřelec.** Z jaké příčiny se podle vás dávají ty dvě ucpávky {stroppaioni} ze sena nebo z koudele pokaždé, když se nabíjí dělo {artegliaria}: jedna poté, co se do něj nasype prach {poluere}, to jest dříve, než se vloží koule {balla}, a druhá poté, co se vloží koule?
+- typ: odstavec
+  de: |-
+    N. Certamente che io non sapeua questa cosa, che uoi me haueti detto, cioe che auanti che si metta la balla nel pezzo ui si metta uno stroppaion de fieno, ouer de stoppa, & cosi un'altro dapoi che ui se ha posta la balla, ma essendo cosi (come al presente credo) à me mi pare, che piu se conuegnaria che io ui adimandasse à uoi la causa di tal cautella, cha che uoi l'adimandasti à me, perche se uoi usati di far tal cosa ogni uolta che uoi cargati un pezzo, uoi doueresti pur sapere à che fin il fati, perche l'arte bisogna che la imiti la natura in questo, che tutte le cose, che quella fa le faccia à qualche fine.
+  cs: |-
+    **Nicolò.** Věru jsem nevěděl o té věci, kterou jste mi řekl, totiž že se před vložením koule do děla {pezzo} dává ucpávka ze sena nebo z koudele a stejně tak další po vložení koule. Je-li tomu však tak (jak nyní věřím), zdá se mi, že by se spíš slušelo, abych se po příčině takové opatrnosti ptal já vás, než abyste se ptal vy mne. Jestliže to totiž děláte pokaždé, když nabíjíte dělo, měl byste přece vědět, k jakému cíli to činíte; umění musí napodobovat přírodu v tom, že vše, co dělá, dělá k nějakému cíli.
+- typ: odstavec
+  de: |-
+    B. Ma ue dirò, io non ho grammatica, & se pur uso di far questa cosa, lo faccio, perche ho uisto che tutti glialtri lo fanno.
+  cs: |-
+    **Dělostřelec.** Povím vám však: já nejsem učený,[^1] a jestliže to dělám, dělám to proto, že jsem viděl, že to dělají všichni ostatní.
+- typ: odstavec
+  de: |-
+    N. Questo si costuma in molti, & in molte arte, si mecanice, come liberale, e pero non me marauiglio di uoi, ne manco ui biasimo, anci ue laudo à ricercar la causa di quelle cose che si costuma di fare nell'arte uostra, ilche doueria far ogniuno, perche il sapere non è altro che conoscere la cosa per la causa, hor tornando al nostro proposito, il primo stroppaione, cioe quello che diceti che si mette drio alla poluere, auanti che ui se metta la balla, non posso pensare che ui si metta per altro, saluo che per spazzar, & condure tutta quella poluere (che nel cargare il pezzo fusse rimasta per la canna) insieme con l'altra, & à tenerla dapoi unita al suo luoco, dou'è stata assettata. Ma il secondo stroppaione, cioe quello che uoi diceti che metteti drio alla balla, bisogna pensare, che colui, che prima comincio à porui tal stroppaione fu astretto da qualche necessita, la qual necessita non ui puo esser occorsa, saluo che lui doueua essere in qualche luoco doue gli conuenia tirare al basso, cioe tirar de suso in giuso, la qual cosa uolendola essequire senza porui tal stroppaione, nell'abbassare il pezzo dauanti per metterlo à segno, la balla saria uscita del pezzo, e pero accio che tal balla non uscidesse, fu sforzato à porui tal stroppione.
+  cs: |-
+    **Nicolò.** Tak to chodí u mnoha lidí a v mnoha uměních, řemeslných i svobodných,[^2] a proto se vám nedivím ani vás nekárám; naopak vás chválím, že pátráte po příčině věcí, které se ve vašem umění obvykle dělají. To by měl dělat každý, neboť vědění není nic jiného než poznávat věc z její příčiny. Abychom se však vrátili k věci: o první ucpávce, totiž té, o níž říkáte, že se dává za prach, dříve než se vloží koule, si nedovedu myslet, že by se tam dávala k něčemu jinému než k tomu, aby smetla a dohnala všechen prach (který při nabíjení děla zůstal v hlavni {canna}) k ostatnímu a pak jej držela pohromadě na jeho místě, kde byl upěchován. O druhé ucpávce, totiž té, o níž říkáte, že ji dáváte za kouli, je však třeba se domnívat, že ten, kdo ji tam začal dávat jako první, byl k tomu donucen nějakou nutností. Tou nemohlo být nic jiného, než že byl na nějakém místě, odkud musel střílet dolů, to jest shora dolů. Kdyby to chtěl provést bez takové ucpávky, koule by mu při skloňování přední části děla, když je zaměřoval na cíl, z děla vypadla; aby tedy koule nevypadla, byl nucen dát tam tu ucpávku.
+- typ: odstavec
+  de: |-
+    B. Queste uostre ragioni sono bonissime, ma è uedo che tal stroppaione ue lo ponemo anchora quando che uolemo tirare all'alta, cioe di giuso in suso, doue non è quel pericolo che diceti, cioe che la balla uscisca del pezzo nel metterlo à segno, e pero uorria sapere la causa di questo.
+  cs: |-
+    **Dělostřelec.** Tyto vaše důvody jsou výborné, ale vidím, že tu ucpávku tam dáváme i tehdy, když chceme střílet vzhůru, to jest zdola nahoru, kde to nebezpečí, o kterém mluvíte, totiž že by koule při zaměřování z děla vypadla, nehrozí. Proto bych rád znal příčinu toho.
+- typ: odstavec
+  de: |-
+    N. La causa di questo è la ignorantia, perche se uoi sapesti la causa di tal attione, uoi non ui poneresti tal stroppaione, saluo quando che la necessita, accio ue astringesse.
+  cs: |-
+    **Nicolò.** Příčinou toho je nevědomost; kdybyste totiž znali příčinu toho úkonu, nedávali byste tam takovou ucpávku, leda když by vás k tomu přinutila nutnost.
+- typ: odstavec
+  de: |-
+    B. Certamente comprendo che uoi diceti troppo il uero.
+  cs: |-
+    **Dělostřelec.** Věru chápu, že mluvíte naprostou pravdu.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO VIGESIMOPRIMO FATTO DAL medesimo Capo de Bombardieri.
+  cs: |-
+    Dvacátý první dotaz, který položil týž náčelník dělostřelců
+- typ: odstavec
+  de: |-
+    BOMBARDIERO. Ve uoglio raccontar una nouella, della quale son certo ue ne marauigliareti molto, la qual è questa. Ritrouandomi una uolta à fare una batteria, & dapoi molti tiri, accadete che per uno certo disconcio, il pezzo nel
+  cs: |-
+    **Dělostřelec.** Chci vám vyprávět příhodu, nad kterou se jistě velmi podivíte, a je to tato. Když jsem jednou vedl ostřelování {batteria}, stalo se po mnoha výstřelech, že se dělo pro jakousi nehodu při
+poznamky:
+- n: 1
+  text: „Io non ho grammatica“ – doslova „nemám gramatiku“, tj. neznám latinu, nemám školní vzdělání.
+- n: 2
+  text: Arti mecaniche a arti liberali – řemeslná (mechanická) umění a svobodná umění; středověké a renesanční dělení dovedností.

@@ -1,0 +1,40 @@
+id: 076v
+list: '76'
+strana: verso
+sken: 152
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    occupato, et pie di pietre, oltra che nell'appogiar le dette scale molte pietre si faranno rouinar à dosso, ma li primi, che ascenderanno uolendo montare poi suso per quel monte de pietre non poche de tai pietre ne faranno non solamente rouinar à dosso de quelli, che su per le dette scale consequentemente ascenderanno, ma anchora à quelli, che nella fossa staranno per ascendere de mano in mano, oltra che le canonere delle piazze da basso dell'uno, e l'altro baluardo romperanno molte de quelle scale, & uccideranno molti de quelli, che ascenderanno, & che staranno per ascendere per le dette scale. Ma piu che le canonere della piazza di sopra pur dell'uno, e l'altro baluardo insieme con quelle, che gia furno assettate dall'una, e l'altra banda per guardar à longo per tutto quel spacio doue se reposseranno le dette pietre della cortina rouinata, senza comparatione faranno piu effetto, & danno nelli detti nemici, per causa de tal rouinamento de cortina, che se tal cortina fusse intiera, & sana, perche tirando in quelli fanti, che suso per quelle amontonate pietre ascenderanno, oltra che amazzaranno, & stroppiaranno con le pure balle gran parte de quelli, li quali cadendo per quelle amontonate pietre redolaranno, & faranno redolar quelle pietre giuso per la testa de quelli, che ascenderanno, & staranno per ascendere su per dette scale. Ma le balle tirate su per quelle tai pietre sbroffaranno quelle per tutte le parti di tal fossa, & non ui è dubbio, che li detti nemici riceueranno infinite uolte piu danno, & offensione dalle pure pietre, che dalle pure balle tirate dall'un, e l'altro baluardo, & canonere.
+  cs: |-
+    zaplněný a plný kamení, nejenže se při opírání žebříků na útočníky zřítí mnoho kamenů, ale ti první, kdo vystoupí a budou pak chtít lézt nahoru po té hromadě kamení, shodí nemálo těch kamenů nejen na hlavy těch, kdo po nich budou po žebřících vystupovat, ale i na ty, kdo budou v příkopu {fossa} čekat, až postupně na ně přijde řada. Kromě toho střílny {canonere} dolních plošin {piazze da basso} jedné i druhé bašty {baluardo} rozbijí mnoho žebříků a pobijí mnoho těch, kdo budou po nich vystupovat nebo se chystat vystoupit. A co víc: střílny horní plošiny {piazza di sopra} rovněž obou bašt spolu s těmi, které už byly na jedné i druhé straně postaveny, aby podélně střežily celý prostor, kde budou ležet kameny rozbořené kurtiny {cortina}, budou mít kvůli takovému zboření kurtiny nesrovnatelně větší účinek a způsobí nepřátelům větší škodu, než kdyby kurtina byla celá a neporušená. Když totiž budou střílet do pěšáků {fanti}, kteří budou vystupovat po té nakupené hromadě kamení, nejenže samotnými koulemi {balle} velkou část z nich zabijí a zmrzačí, ale ti, kdo budou padat, se budou po té nakupené hromadě kamení kutálet dolů a strhnou s sebou kameny na hlavy těch, kdo po žebřících vystupují nebo se chystají vystoupit. A koule vystřelené do toho kamení je rozmetají po všech částech příkopu, a není pochyb, že nepřátelé utrpí od samotného kamení nekonečněkrát větší škodu a úraz než od samotných koulí vystřelených z jedné i druhé bašty a ze střílen.
+- typ: odstavec
+  de: |-
+    S. M. Senza dubbio che li detti nemici saranno piu offesi, & mal trattati dalle dette pietre, che dalle pure balle, & questa uostra opinion me piace assai, perche comprendo che tai pietre rouinate constitueranno, & formaranno un'altra altezza de pietre rouinate sopra della prima fondamental cortina, oltra quella discesa, ouer montata di quel argine di terra misto, & colligato con le reliquie di contraforti gia fatti nell'arginar la cortina rouinata, la qual altezza à uolerla ascendere li nemici trouaranno de molte difficolta, e forsi molto piu, che se tal cortina fusse intiera, e sana. Ma ditemi un poco, quel tal spacio uoleti che sia perfettamente quadrangolo, & rettangolo.
+  cs: |-
+    **Pan Marcantonio.** Bezpochyby budou nepřátelé těmi kameny zraněni a pocuchováni víc než samotnými koulemi, a tento váš názor se mi velmi líbí. Chápu totiž, že ty zřícené kameny vytvoří a utvoří nad první, základovou kurtinou další výšku ze zříceného kamení, kromě onoho svahu neboli stoupání hliněného náspu {argine}, smíšeného a spojeného se zbytky opěrných pilířů {contraforti}, které byly už dříve postaveny, když se rozbořená kurtina zasypávala náspem. Až na tuto výšku budou chtít nepřátelé vystoupit, narazí na mnoho obtíží, a možná na mnohem větší, než kdyby kurtina byla celá a neporušená. Ale povězte mi trochu: chcete, aby onen prostor byl dokonale čtyřhranný a pravoúhlý?
+- typ: odstavec
+  de: |-
+    N. Non Signor magnifico, anci uoglio che tal spacio dall'uno, e l'altro capo uada tondezando in uerso la citta, cioe scansando, & annullando l'uno, e l'altro de quelli dui angoli che doueriano formarsi uerso la detta citta, tal che il detto spacio uenira à formar una figura biangola quasi alla similitudine di quella figura, che fa la Luna quando è in quadrato con il Sole, dico dalli capi di tal spacio, cioe che l'un, e l'altro uengano à formar un'angolo solo quasi contiguo con il baluardo à se conterminale dall'uno, & dall'altro capo.
+  cs: |-
+    **Nicolò.** Ne, urozený pane, chci naopak, aby se tento prostor na jednom i druhém konci zaobloval směrem k městu {citta}, totiž aby se vyhnul oběma úhlům, které by se měly utvořit směrem k městu, a zrušil je. Tím prostor utvoří dvojúhelníkový obrazec, skoro podobný obrazci, jaký tvoří Měsíc, když je v kvadratuře se Sluncem[^1] – mám na mysli konce toho prostoru –, totiž aby oba konce tvořily jen jeden úhel, který bude na jednom i druhém konci skoro přiléhat k sousední baště.
+- typ: odstavec
+  de: |-
+    S. M. E ue ho inteso.
+  cs: |-
+    **Pan Marcantonio.** Rozumím vám.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SETTIMO FATTO DAL MEDESIMO Magnifico, & Eccellentissimo Dottor, Signor Marc'Antonio Morosino.
+  cs: Sedmý dotaz, který položil týž urozený a nejvznešenější doktor, pan Marcantonio Morosini
+- typ: odstavec
+  de: |-
+    SIGNOR MARC'ANTON. So che doueti saper minutamente, come si fanno al presente li baluardi di dentro uia, cioe la piazza da basso, & quella di sopra & so, che doueti hauer trouato qualche bella sottilita sopra la costrution de quelli, e per non stare otiosi fina à hora da cena, uorria, che di cio ne ragionassimo un poco.
+  cs: |-
+    **Pan Marcantonio.** Vím, že musíte podrobně znát, jak se nyní stavějí bašty uvnitř, totiž dolní plošina a horní plošina, a vím, že jste jistě přišel na nějaký pěkný důmysl o jejich stavbě. Abychom až do večeře nezaháleli, rád bych, abychom si o tom trochu pohovořili.
+poznamky:
+- n: 1
+  text: Měsíc „v kvadratuře“ se Sluncem (úhlová vzdálenost 90°) je v první nebo poslední čtvrti – polokruh, jehož rovný okraj a oblouk se na každém konci stýkají v jediném úhlu. Prostor tedy nemá na koncích dva rohy, ale jen jeden cíp přiléhající k baště.

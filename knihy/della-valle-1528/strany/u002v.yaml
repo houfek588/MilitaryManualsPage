@@ -1,0 +1,133 @@
+id: u002v
+list: '[2] v'
+strana: verso
+sken: 8
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  de:
+  - |-
+    Per far pietra che se accenda con sputo ouer con acqua. car. 13.
+  - |-
+    Per fare Lota sapientia. car. 13.
+  - |-
+    Per far intorcia a uento et che resista allacqua, car. 13.
+  - |-
+    Per fare poluere de bombarde grossa. car. 14.
+  - |-
+    Per fare poluere de falconetti & archibusi. car. 14.
+  - |-
+    Per fare poluere de scoppetti. car. 14.
+  - |-
+    De exhortatione & exempli. car. 14.
+  - |-
+    Per mettere guardie & sopra guardie. car. 15.
+  - |-
+    De guardie. car. 15.
+  - |-
+    De monitione de sopraguardie. car. 16.
+  - |-
+    De adgiongere guardie & sopra guardie. car. 16.
+  - |-
+    De admonitione ad milite che hanno ad conseruare un luoco. car. 16.
+  - |-
+    De fare arlogio con acqua. car. 17.
+  - |-
+    De fare arlogio con aqua. car. 17.
+  - |-
+    Scriuere da longi senza messagio. car. 19.
+  cs:
+  - |-
+    Jak udělat kámen, který se zapálí slinou nebo vodou. – [[013r|list 13]]
+  - |-
+    Jak udělat „hlínu moudrosti“ {Lota sapientia}.[^1] – [[013r|list 13]]
+  - |-
+    Jak udělat pochodeň {torcia} odolnou proti větru, která vydrží i ve vodě. – [[013r|list 13]]
+  - |-
+    Jak udělat hrubý prach {poluere} do bombard {bombarde}. – [[014r|list 14]]
+  - |-
+    Jak udělat prach do falkonetů {falconetti} a arkebuz {archibusi}. – [[014r|list 14]]
+  - |-
+    Jak udělat prach do ručnic {scoppetti}. – [[014r|list 14]]
+  - |-
+    O povzbuzování a příkladech. – [[014r|list 14]]
+  - |-
+    Jak stavět stráže {guardie} a dozorčí stráže {sopra guardie}.[^2] – [[015r|list 15]]
+  - |-
+    O strážích. – [[015r|list 15]]
+  - |-
+    O poučení dozorčích stráží. – [[016r|list 16]]
+  - |-
+    O přidávání stráží a dozorčích stráží. – [[016r|list 16]]
+  - |-
+    Napomenutí vojákům {milite}, kteří mají uhájit nějaké místo. – [[016r|list 16]]
+  - |-
+    Jak udělat vodní hodiny {arlogio}. – [[017r|list 17]]
+  - |-
+    Jak udělat vodní hodiny.[^3] – [[017r|list 17]]
+  - |-
+    Jak psát na dálku bez posla. – [[019r|list 19]]
+- typ: nadpis
+  uroven: 2
+  de: 'LIBRO SECONDO.'
+  cs: 'Kniha druhá'
+- typ: seznam
+  de:
+  - |-
+    COmo se deue pigliare una terra. car. 20.
+  - |-
+    Modo de dare principio de fare pigliare una terra. car. 21.
+  - |-
+    Modo de far trencieri ouero gabioni. car. 22.
+  - |-
+    Modo de recordo de dar battaglia ad muraglia. c. 23
+  - |-
+    Excusatione dello compositore. car. 23.
+  - |-
+    Modello de scala ad argano con ponte. car. 23.
+  - |-
+    Modello de scala che piantata se allarga, car. 24.
+  - |-
+    Modello de scala ad pezi. car. 25.
+  - |-
+    Modello de scala ad argano con capello. car. 25.
+  - |-
+    Modello de rompere una muraglia. car. 26.
+  cs:
+  - |-
+    Jak se má dobýt město {terra}. – [[020r|list 20]]
+  - |-
+    Jak začít s dobýváním města. – [[021r|list 21]]
+  - |-
+    Jak dělat zákopy {trencieri} čili koše {gabioni}.[^4] – [[022r|list 22]]
+  - |-
+    Pamětní návod, jak vést útok {battaglia} na hradbu {muraglia}. – [[023r|list 23]]
+  - |-
+    Omluva autora {compositore}. – [[023r|list 23]]
+  - |-
+    Model žebříku {scala} s rumpálem {argano} a můstkem. – [[023r|list 23]]
+  - |-
+    Model žebříku, který se po postavení roztahuje. – [[024r|list 24]]
+  - |-
+    Model žebříku skládaného z kusů. – [[025r|list 25]]
+  - |-
+    Model žebříku s rumpálem a se „kloboukem“ {capello}.[^5] – [[025r|list 25]]
+  - |-
+    Model [stroje], jak prolomit hradbu. – [[026r|list 26]]
+poznamky:
+- n: 1
+  text: |-
+    „Lota sapientia“ = lat. lutum sapientiae, „hlína (tmel) moudrosti“ – alchymistický tmel z hlíny, trusu a železných okují, jímž se utěsňují a obalují nádoby vkládané do pece (recept na listu 13 v).
+- n: 2
+  text: |-
+    „Sopraguardie“ – stráže, které obcházejí a kontrolují hlídky (dozorčí hlídky, ronda).
+- n: 3
+  text: |-
+    Položka je v tisku zdvojena (podruhé s pravopisem „aqua“); obě odkazují na list 17.
+- n: 4
+  text: |-
+    „Gabbioni“ – proutěné koše plněné zeminou, kterými se kryjí děla a zákopníci (šanckoše).
+- n: 5
+  text: |-
+    „Capello“ (klobouk) – patrně ochranná stříška nebo krytý koš na vrcholu žebříku; výklad podá kapitola na listu 25.

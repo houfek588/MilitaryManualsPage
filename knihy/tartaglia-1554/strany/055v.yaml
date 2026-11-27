@@ -1,0 +1,36 @@
+id: 055v
+list: '55'
+strana: verso
+sken: 110
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    tro poi ui se de far assettar una ponta alta circa per la mita della detta scatolina, e questa ponta è per metterui suso la lanzetta acconcia con la calamita, alla similitudine di quelle, che hanno quelli horologietti, che uengono de Alamagna, ma alquanto piu granda, & nel fondo di questa scatola ui se de segnar una linea quasi alla similitudine della lanzetta che uada da Tramontana uerso Ostro rettamente, accio che si possa conoscere quando che il bossolo sia ben assettato (perche il bossolo se intende esser ben assettato, quando che la ponta della detta lanzetta guarda rettamente uerso la Tramontana (si come nella figura appare) la qual cosa facilmente si conosce per meggio della detta linea, cioe come se fa preciso con li sopradetti horologietti quando se uol saper quante hore sono, & fatto questo ui se de poner la detta lanzetta acconcia (come è detto) con la calamita, & dapoi si fa un coperchio alla detta scatolina de uitrio chiaro, come se costuma alli bossoli da nauicare, accio si possa uedere il star, & l'andar della detta lanzetta, & dopo questo ui se de metter una dioptra, ouer trasguardo, la qual dioptra, ouer trasguardo solea costumarsi alla similitudine della prima figura .a.b. con quelli dui bracci .c.d. & .e.f. il qual modo per mettere in dissegno un paese era sofficiente assai, ma per mettere in dissegno la pianta de una citta era alquanto discomodo, onde per farlo piu accomodo, & generale ui se costuma à ponerui un'altro trasuerso in croce, perfettamente squadra essempi gratia à quella armilla uacua .a.b. ui se assalda prima nelli dui bracci .c.d. et .e.f. della principal dioptra, ouer trasguardo, con quelle due lamette in alto elleuate nelle istremita di quella, con uno busettino in cadauna da trasguardare, per quelli le cose che accadera, à benche anchor due pontine acute seruiriano, si come quelli dui busettini, & forsi meglio, & dapoi ui se salda anchora quelli altri dui brazzetti .g.h. & .i.k. perfettamente in croce, cio perfettamente à squara sopra la principal dioptra, & nel capo dell'un de questi secondi bracci ui si assetta, ouer salda quell'altro brazzetto .l.m. pur à squadra, come nella seconda figura appare, & la forma di quala si uoglia delle due sottoscritte sorte de dioptre uol essere totalmente fabricata che la detta armilla .a.b. sia de tal
+  cs: |-
+    středu se pak má dát připevnit hrot vysoký asi do poloviny toho pouzdra {scatolina}; tento hrot je k tomu, aby se na něj nasadila střelka {lanzetta} upravená magnetovcem {calamita}, podobná těm, jaké mají ony malé hodiny, které přicházejí z Německa[^1], ale o něco větší. Na dně tohoto pouzdra se má vyznačit čára, zhruba jako ta střelka, vedoucí přímo od Tramontany k Ostru [od severu k jihu], aby se dalo poznat, kdy je buzola {bossolo} dobře usazena (buzola se totiž pokládá za dobře usazenou, když hrot té střelky míří přímo k Tramontaně, jak je vidět na obrazci); to se snadno pozná pomocí té čáry, právě tak jako se to dělá u zmíněných malých hodin, když se chce zjistit, kolik je hodin. Když se to udělá, má se nasadit zmíněná střelka upravená (jak bylo řečeno) magnetovcem a pak se tomu pouzdru udělá víčko z čirého skla, jak je obvyklé u námořních buzol, aby bylo vidět, jak střelka stojí i jak se pohybuje. Potom se na to má nasadit dioptra {dioptra} neboli průzor {trasguardo}. Ta dioptra neboli průzor se obvykle dělávala podle prvního obrazce a b se dvěma rameny {bracci} c d a e f; tento způsob dostačoval k zakreslení krajiny, ale k zakreslení půdorysu {pianta} města byl poněkud nepohodlný. Aby byla pohodlnější a obecně použitelná, je zvykem přidat ještě další příčné rameno do kříže, přesně v pravém úhlu. Například k oné prázdné obruči {armilla} a b se nejprve připájejí dvě ramena c d a e f hlavní dioptry neboli průzoru se dvěma vztyčenými destičkami {lamette} na jejích koncích, v každé s dírkou {busettino}, jíž se podle potřeby zaměřují věci – ačkoli by posloužily i dva ostré hroty, stejně jako ty dvě dírky, a snad i lépe. Potom se připájejí ještě ona další dvě ramínka g h a i k přesně do kříže, totiž přesně v pravém úhlu k hlavní dioptře, a na konec jednoho z těchto druhých ramen se nasadí neboli připájí ještě ono ramínko l m, rovněž v pravém úhlu, jak je vidět na druhém obrazci. A kterýkoli z obou níže zobrazených druhů dioptry má být zhotoven tak, aby zmíněná obruč a b byla takové
+- typ: obrazek
+  soubor: drevorez-110.jpg
+  popis: >-
+    Kruhová deska buzoly (bez dioptry): vnější mezikruží je drobnými čárkami rozděleno na 72 dílů
+    (po 5 stupních), osm paprsků vede ke středu k osmi větrům označeným písmeny T (Tramontana – sever,
+    nahoře), G (Greco – severovýchod), L (Levante – východ), S (Sirocco – jihovýchod), O (Ostro – jih,
+    dole), G (Garbino – jihozápad), P (Ponente – západ) a M (Maistro – severozápad). Uprostřed kruhové
+    pouzdro se střelkou, jejíž hrot se šipkou míří k T.
+- typ: obrazek
+  soubor: drevorez-110b.jpg
+  popis: >-
+    První druh dioptry: prázdná obruč s písmeny A (nahoře) a B (dole) a nápisem VACVO (prázdné), od níž
+    vedou na obě strany dvě vodorovná ramena – vlevo D–F, vpravo E–C; na koncích F a C jsou svislé
+    čtyřhranné destičky s dírkou k zaměřování.
+- typ: obrazek
+  soubor: drevorez-110c.jpg
+  popis: >-
+    Druhý druh dioptry: prázdná obruč A–B s nápisem VACVO, od níž vedou do kříže čtyři ramena – hlavní
+    dioptra svisle (nahoru F–E, dolů C–D, se zaměřovacími destičkami na koncích E a D) a příčná ramena
+    vodorovně (vlevo K–I, vpravo G–H); na konci H je napříč připevněno ramínko L–M v pravém úhlu.
+poznamky:
+- n: 1
+  text: Horologietti che uengono de Alamagna – kapesní sluneční hodiny s malou buzolou k orientaci podle severu (tzv. kompasové sluneční hodiny), vyráběné hlavně v Norimberku a hojně vyvážené do Itálie.

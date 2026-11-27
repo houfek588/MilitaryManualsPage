@@ -1,0 +1,47 @@
+id: 047r
+list: '47'
+strana: recto
+sken: 93
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    esser atta à poter caminare in quel tal ordine eglie necessario che ogni fante habbia uno altro fante in debita distantia, che ui camini auanti di se, eccetto quelli della prima fronte, & cosi un'altro per banda, eccetto quelli che sono nei fianchi, et cosi un'altro de drio eccetto la ultima fila, perche ogni fante nel caminare se regge dal suo compagno che gli camina auanti di se, eccetto quelli della prima fila, e pero se una ordinanza uorra caminare, & che tutti li fanti non habbiano un'altro fante, che gli camini auanti di se nella sua debita distantia, accettuando quelli della prima fronte, subito tal ordinanza uerra in confusione.
+  cs: |-
+    být schopen pochodovat v takovém uspořádání, je nutné, aby každý pěšák {fante} měl v náležité vzdálenosti jiného pěšáka, který jde před ním, kromě těch v první řadě čela {fronte}, a stejně tak jiného po boku, kromě těch, kdo stojí na bocích {fianchi}, a stejně tak jiného za sebou, kromě poslední řady {fila}. Neboť každý pěšák se při pochodu řídí svým druhem, který jde před ním, kromě těch v první řadě. Proto bude-li šik {ordinanza} chtít pochodovat a nebudou-li mít všichni pěšáci před sebou v náležité vzdálenosti jiného pěšáka – vyjma těch v první řadě čela –, ten šik hned upadne do zmatku.
+- typ: odstavec
+  de: |-
+    N. Credo che sia cosi, perche ogni fante piglia la meta nel suo caminare pian, e forte, dal compagno che gli camina auanti, eccetto quelli che sono nella prima fila della fronte, li quali non si reggono da niuno nel caminare, anci tutte le altre file se reggono da quella sola.
+  cs: |-
+    **Nicolò.** Věřím, že je tomu tak, protože každý pěšák si při chůzi, pomalé i rychlé, bere za vodítko druha, který jde před ním, kromě těch v první řadě čela, kteří se při pochodu neřídí nikým; naopak všechny ostatní řady se řídí jen podle ní.
+- typ: odstavec
+  de: |-
+    P. Cosi è, hor dapoi che uedo che haueti inteso la mia opinione, ue adimando, come se douera procedere, uolendo ordinare una quantita de fanti, ouer uno essercito in forma cunea, ouer triangolare talmente che fusseno atti à poter caminare uerso la ponta de tal cuneo, cioe che tal ordinanza possa caminare con la ponta di tal cuneo uerso li nemici.
+  cs: |-
+    **Převor.** Tak jest. Nyní, když vidím, že jste pochopil můj názor, ptám se vás, jak se má postupovat, chceme-li sestavit určitý počet pěšáků neboli vojsko do tvaru klínu {forma cunea} neboli trojúhelníku tak, aby byli schopni pochodovat směrem ke hrotu toho klínu, tj. aby ten šik mohl pochodovat hrotem klínu proti nepříteli.
+- typ: odstavec
+  de: |-
+    N. Questa forma di ordinanza, ouer di battaglia nasce, ouer se forma dalla progressione ascendente per numero binario, cominciando dalla unita, cioe ponendo prima un fante, & dapoi .3. & dapoi .5. & dapoi .7. & dapoi .9. & dapoi .11. & cosi andar procedendo, & accrescendo sempre dui fanti de piu, per fina à tanto che non ui sia piu fanti, uero è, che potria esser tal numero de fanti, che in ultimo non potranno, ouer non saranno sofficienti à compir la ultima fila, ilche essendo se potriano lassar cosi fuora della ordinanza da seruirsene secondo parera al buon Sargente, perche tal cosa occorre la maggior parte delle uolte, & in ogni specie de ordinanza, cioe che sempre ui resta qualche fante fuora di tal ordinanza.
+  cs: |-
+    **Nicolò.** Tento tvar šiku {battaglia} vzniká neboli se tvoří ze vzestupné posloupnosti po dvou[^1], začínající jedničkou: postaví se nejprve jeden pěšák, potom 3, potom 5, potom 7, potom 9, potom 11 a tak se pokračuje a přidávají se vždy o dva pěšáky víc, dokud pěšáci nedojdou. Ovšem může jít o takový počet pěšáků, že nakonec nebudou moci neboli nebudou stačit naplnit poslední řadu; v tom případě by se mohli nechat stranou mimo šik, aby s nimi dobrý šikovatel {Sargente} naložil, jak uzná za vhodné. To se totiž stává nejčastěji a u každého druhu šiku, totiž že vždy zůstane nějaký pěšák mimo šik.
+- typ: odstavec
+  de: |-
+    P. Credo questo che uoi diceti, ma datime uno essempio in figura sopra tal materia, & in piccol numero, perche nelli numeri piccoli meglio se intende la cosa.
+  cs: |-
+    **Převor.** Věřím tomu, co říkáte, ale dejte mi k té věci příklad v obrazci, a to na malém počtu, protože na malých číslech se věc lépe pochopí.
+- typ: odstavec
+  de: |-
+    N. Poniamo che li fanti che desideriamo di mettere in battaglia cunea siano .100. dico che prima se ne ponga uno, dapoi .3. dapoi .5. dapoi .7. dapoi .9. dapoi .11. & cosi andar procedendo sempre mettendoui .2. fanti de piu per fina à tanto che ue sia fanti, come di sotto appare in figura, onde la ultima fila, in questo caso uenira à esser de fanti .19. & non ui auanzara alcun fante, & questo è, perche il numero delli fanti (cioe il .100.) è numero quadrato,
+  cs: |-
+    **Nicolò.** Dejme tomu, že pěšáků, které chceme postavit do klínového šiku, je 100. Pravím, že nejprve se postaví jeden, potom 3, potom 5, potom 7, potom 9, potom 11 a tak se pokračuje a přidávají se vždy o 2 pěšáky víc, dokud pěšáci stačí, jak je vidět níže na obrazci. Poslední řada tedy v tomto případě bude mít 19 pěšáků a nezbude žádný pěšák, a to proto, že počet pěšáků (totiž 100) je čtvercové číslo,
+- typ: obrazek
+  soubor: drevorez-93.jpg
+  popis: >-
+    Klínový šik ze 100 pěšáků sázený z teček: nahoře nápis „Fronte“ (čelo), pod ním 10 řad o 1, 3, 5,
+    7, 9, 11, 13, 15, 17 a 19 tečkách (pěšácích), souměrně pod sebou, takže tvoří trojúhelník s hrotem
+    směřujícím k čelu.
+poznamky:
+- n: 1
+  text: Progressione ascendente per numero binario – aritmetická posloupnost lichých čísel s rozdílem 2 (1, 3, 5, 7 …); součet prvních n lichých čísel je n², proto klín ze čtvercového počtu mužů (100 = 10²) vyjde beze zbytku na 10 řad.

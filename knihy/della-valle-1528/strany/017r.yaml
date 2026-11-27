@@ -1,0 +1,29 @@
+id: 017r
+list: '17'
+strana: recto
+sken: 53
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ragioneuelmente apppiciati che saranno, ponno ben intrare dentro della terra insieme, & maxime quando e deliberato per consiglio di quelli di fuora, siche e de pensare grandemente a tal fine.
+  cs: |-
+    právem: když se s nimi nepřátelé jednou zapletou, mohou spolu s nimi snadno vniknout do města {terra}, zvláště když je to předem uváženo a usneseno na poradě obléhatelů. Proto je třeba o tom velmi přemýšlet.
+- typ: nadpis
+  uroven: 2
+  de: EL MODO DI FARE VNO arlogio. Capitolo.XXXV.
+  cs: Jak zhotovit hodiny. Kapitola XXXV.
+- typ: odstavec
+  de: |-
+    EL modo di fare uno Arlogio da intendere a hora per hora con epso & mettere le guardie acio possano farle con piu ragione bisogna hauere un uaso di terra, ouer di rame, & a quello farli un busetto piccolo da piedi, & far una cosa de legno larghetta ad modo di una lama de spata ficcata in una piastra de piombo, & mettila dentro del uaso como uolta carta appare, & poi habi un pezo de Suro che uadi dentro dal uaso che sia quadretto, & in mezo del ditto Suro fatili una fissura tanto longa che ci uada quello bastone ad modo de spata ditto di sopra, & nota che al ditto Suro ci metterai un pezo di ferro filato como uolta carta appare, e chel ditto ferro stia ficcato nello Suro et fatto questo impi lo uaso daqua chiara, acio chel buso non se stropasse, & la ditta aqua se uole mettere la sera considerando che sia uintiquatro hore, & senza la cima del ferro nel ditto legno & lassa calare laqua per fina alaltra sera ad quella medesima hora, & doue sera calata la freza del ferro, segnali di nouo e da principio doue toccaua la freza la sera inanti in fine doue e calata la sera appresso, & poi parti in uintiquatro parte che seran uintiquatro hore cioe che ogni parte sera una hora, et cos
+  cs: |-
+    Chceš-li zhotovit hodiny {Arlogio}[^1], podle nichž se pozná hodina po hodině a podle nichž se střídají stráže {guardie}, aby se mohly konat s větším pořádkem, potřebuješ hliněnou nebo měděnou nádobu a ve dně jí udělej malý otvor. Pak zhotov dřevěnou laťku, poněkud širokou jako čepel meče, zaraženou do olověné desky, a postav ji do nádoby, jak je vidět po obrácení listu. Potom si opatři kus korku {Suro}, čtverhranný, aby se vešel do nádoby, a doprostřed toho korku udělej tak dlouhý zářez, aby jím prošla ta laťka podobná meči, o níž byla řeč výše. A pamatuj, že do korku zapíchneš kus železného drátu, jak je vidět po obrácení listu, a ten drát musí v korku pevně vězet. Když je to hotovo, naplň nádobu čistou vodou, aby se otvor neucpal. Vodu je třeba nalít večer, s ohledem na to, že [den] má dvacet čtyři hodiny[^2]; poznamenej[^3] na dřevě místo, kam ukazuje hrot drátu, a nech vodu vytékat až do druhého večera do téže hodiny. Kam pak klesne šipka {freza} drátu, tam udělej novou značku: na začátku tedy, kam šipka ukazovala předchozího večera, a na konci, kam klesla příštího večera. Potom [vzdálenost] rozděl na dvacet čtyři díly, které budou dvacet čtyři hodiny, takže každý díl bude jedna hodina. A tak
+poznamky:
+- n: 1
+  text: 'Arlogio (orologio) – zde vodní hodiny (klepsydra): z nádoby voda pomalu vytéká otvorem ve dně, korkový plovák s drátěnou ručkou klesá podél svislé dřevěné laťky a ukazuje na ní hodiny. „Come uolta carta appare“ (jak je vidět po obrácení listu) odkazuje na vyobrazení na straně [[018r|18 r]].'
+- n: 2
+  text: 'Italské počítání hodin: den měl 24 hodin počítaných od západu slunce (od večerního klekání), proto se hodiny „nastavují“ večer.'
+- n: 3
+  text: 'V tisku „& senza la cima del ferro“ (a bez hrotu drátu) – patrně tisková chyba za „segna la cima“ (označ hrot); překládáno podle smyslu.'

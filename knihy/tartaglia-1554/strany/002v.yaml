@@ -1,0 +1,103 @@
+id: 002v
+list: '[2] v'
+strana: verso
+sken: 4
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  pokracovani: true
+  de:
+  - |-
+    schioppo. a car. 22. al Quesito. 15.
+  - |-
+    Donde procede che una artegliaria non fa tanto effetto percotendo in una naue ouer galia in mare quanto faria percottendo in una muraglia. a car. 22. al Quesito. 16.
+  - |-
+    Come se potria dischiodare al improuiso una multitudine de artegliarie che fusseno state inchiodate. a car. 23. al Quesito. 17.
+  - |-
+    Doue nasce la causa che una artegliaria fa manco effetto nella cosa doue se tira, a starui molto propinquo che a starui alquanto di lontano. a car. 23. al Quesito. 18.
+  - |-
+    In quanta distantia una artegliaria faria el maggior effetto, che far possa. a carte. 24. al Quesito. 29.
+  - |-
+    Perche causa se mette quelli stroppaioni di fieno, ouer di stoppa auanti alla balla & da poi. a car. 24. al Quesito. 20
+  - |-
+    La causa d'un certo caso rediculoso di una artegliaria che sorbete dentro nella canna un cagnolino. a car. 24. al Quesito. 21.
+  - |-
+    Donde procede che de tutte le artegliarie che creppano, creppano la maggior parte de drio, ouer nella bocca, & rare uolte nel mezzo. a carte. 25. al Quesito. 22
+  - |-
+    Come se potria conoscere se una artegliaria tirara li suoi tiri retti senza tirarla altramente. a carte. 26. al Quesito. 23.
+  - |-
+    La causa d'un'altro accidente di una artegliaria che sorbette suso gran quantita di sabbia a Lio. a car. 27. al Quesito. 24.
+  - |-
+    Come che quelle mire che seruono per tirar in piano, non seruono cosi precisamente per tirar a l'alta, ouer al basso. a car. 27. al Quesito. 25. & 26.
+  - |-
+    Come che quelle mire che fanno dar la botta di sopra dal segno in maggior distantia la faranno dar molto piu di sopra dal segno. a car. 28. al Quesito. 27.
+  - |-
+    Come che quelle mire che fanno dar la botta de sotto dal segno in maggior distantia puo far uarij effetti. a car. 28. al Quesito. 28.
+  - |-
+    Donde procede che ogni Schioppettero, & anche Bombardero, generalmente quanto che è piu propinquo al segno tolto de mira tanto piu è atto a far piu bella botta. a car. 29. al Quesito. 29.
+  - |-
+    Donde procede che tirando de continuo a un segno de mira con un medesimo schioppo alle uolte se da molto di sopra, alle uolte molto di sotto, alle uolte molto costero del segno tolto de mira & alle uolte nel segno. a car. 31. al Quesito. 30
+  cs:
+  - |-
+    ručnice. – Na [[022r|listu 22]], dotaz 15.
+  - |-
+    Odkud pochází, že dělo {artegliaria} nemá takový účinek, když zasáhne loď {naue} nebo galéru {galia} na moři, jaký by mělo, kdyby zasáhlo hradbu {muraglia}. – Na [[022r|listu 22]], dotaz 16.
+  - |-
+    Jak by bylo možné narychlo odzátkovat {dischiodare} velký počet děl, která by byla zatlučena {inchiodate}[^1]. – Na [[023r|listu 23]], dotaz 17.
+  - |-
+    Odkud pochází příčina, že dělo má menší účinek na předmět, do něhož se střílí, když stojí velmi blízko, než když stojí poněkud opodál. – Na [[023r|listu 23]], dotaz 18.
+  - |-
+    Na jakou vzdálenost by dělo mělo největší účinek, jaký mít může. – Na [[024r|listu 24]], dotaz 29.[^2]
+  - |-
+    Proč se dávají ty ucpávky {stroppaioni} ze sena nebo z koudele před kouli a za ni. – Na [[024r|listu 24]], dotaz 20.
+  - |-
+    Příčina jedné směšné příhody s dělem, které vtáhlo do hlavně {canna} štěně. – Na [[024r|listu 24]], dotaz 21.
+  - |-
+    Odkud pochází, že ze všech děl, která se roztrhnou {creppano}, praskne většina vzadu nebo u ústí {bocca} a jen zřídka uprostřed. – Na [[025r|listu 25]], dotaz 22.
+  - |-
+    Jak by bylo možné poznat, zda bude dělo střílet rovně, aniž by se z něho vystřelilo. – Na [[026r|listu 26]], dotaz 23.
+  - |-
+    Příčina jiné příhody s dělem, které nasálo velké množství písku na Lidu[^3]. – Na [[027r|listu 27]], dotaz 24.
+  - |-
+    Že mířidla {mire}, která slouží ke střelbě po rovině, neslouží tak přesně ke střelbě vzhůru nebo dolů. – Na [[027r|listu 27]], dotazy 25 a 26.
+  - |-
+    Že mířidla, která způsobují, že rána padne nad cíl {segno}, způsobí na větší vzdálenost, že padne ještě mnohem výše nad cíl. – Na [[028r|listu 28]], dotaz 27.
+  - |-
+    Že mířidla, která způsobují, že rána padne pod cíl, mohou na větší vzdálenost mít rozličné účinky. – Na [[028r|listu 28]], dotaz 28.
+  - |-
+    Odkud pochází, že každý ručničář {Schioppettero} i dělostřelec {Bombardero} je obecně tím způsobilejší k pěkné ráně, čím blíže je k cíli, na nějž míří. – Na [[029r|listu 29]], dotaz 29.
+  - |-
+    Odkud pochází, že když se z téže ručnice {schioppo} stále střílí na týž zamířený cíl, rána padne někdy vysoko nad něj, někdy hluboko pod něj, někdy daleko stranou od něj a někdy do cíle. – Na [[031r|listu 31]], dotaz 30.
+- typ: nadpis
+  uroven: 3
+  de: El soggetto delli Quesiti del Secondo libro.
+  cs: Předmět dotazů {Quesiti} druhé knihy
+- typ: seznam
+  de:
+  - |-
+    Qual andara piu lontano (& quanto) una balla di Piombo, ouer di Ferro, ouer di Pietra, & prima con equal quantita di Poluere, & da poi con la sua poluere ordinaria. a car. 32. al Quesito. 1. 2. 3. & 4.
+  - |-
+    Qual fara maggior effetto in una distantia comuna, una balla di Piombo, ouer di Ferro, ouer di Pietra, & prima con equal quantita di poluere, & dapoi con la sua poluere ordinaria. a car. 33. al Quesito. 5. & 6.
+  - |-
+    Donde procede che essendo tirato ad alcuni guastadori in Rodi, alla prima uolta la balla
+  cs:
+  - |-
+    Která koule {balla} doletí dál (a o kolik), olověná, železná nebo kamenná, nejprve se stejným množstvím prachu {Poluere} a potom každá se svou obvyklou dávkou prachu. – Na [[032r|listu 32]], dotazy 1, 2, 3 a 4.
+  - |-
+    Která bude mít na stejnou vzdálenost větší účinek, koule olověná, železná nebo kamenná, nejprve se stejným množstvím prachu a potom se svou obvyklou dávkou prachu. – Na [[033r|listu 33]], dotazy 5 a 6.
+  - |-
+    Odkud pochází, že když se na Rhodu[^4] střílelo na nějaké zákopníky {guastadori}, při první ráně koule
+poznamky:
+- n: 1
+  text: |-
+    „Dischiodare“ – opak zatlučení: vyražení či vyvrtání hřebu ze zápalu, aby dělo znovu mohlo střílet.
+- n: 2
+  text: |-
+    Tisková chyba: má být dotaz 19 (dotazy 18 a 20 stojí v sousedních položkách).
+- n: 3
+  text: |-
+    Lio – benátský tvar pro Lido, písčitý ostrov oddělující benátskou lagunu od moře.
+- n: 4
+  text: |-
+    Rhodos, sídlo johanitů (rytířů sv. Jana), oblehl a roku 1522 dobyl sultán Sulejman I.

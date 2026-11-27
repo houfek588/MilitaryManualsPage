@@ -1,0 +1,25 @@
+id: 008v
+list: '8'
+strana: verso
+sken: 36
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE FORTIFICARE VNA TERRA. Capitolo. X.
+  cs: |-
+    O opevnění města. Kapitola X.
+- typ: odstavec
+  de: |-
+    SI debbe saper anchora che alcuni luochi molto de caderia a fare uno certo riparo, ouero caua larga secondo lo luoco, & quella fengere perderla, & reducti gli nimici, quelli mandarli in aere, & farne mortalita de epsi bisogna hauere una quantita de zochi ouer tochi, de legni seccati & alti cinque piedi piu & meno secondo il bon iudicio, per ciascaduno de gli zocchi, bisogna fare tre cerchi de ferro uno da capo, & laltro da piedi & uno nel mezo, & poi farli un buso larghetto per fine alla mitta del tocco, & el dicto buso impirlo di poluere de artelaria commo lauete impito bene stropate el dicto buso con uno cocone ben forte, & poi farli unaltro busetto con uno triuilino ouero ponta che non sia troppo grossa, attale che uada per fina al canone della poluere, & questo impirlo ben de poluere, & cosi farete ad tutti gli zocchi, & poi li drizati dritti ad modo quando se traheno li mortari, & la bocca de lo buso che darai el foco uole stare stopata in terra, ad tale che la coda sia inalto, & al busetto picolo qual darai fuoco al zocho bisogna che ui sia modo che prenda il fuoco, attale che luno zoccho dia fuoco a laltro con la sementella de poluere, & questa poluere uole essere de scopetto azio porgia presto fuoco a tutti, & quando se desse fuoco per piu bande e megliore, & facto questo ordine, & per lo basso bisogna hauere tauole non molto grosse, & chiauarle incima delli zocchi non molto forte, & poi habbi strame, fieno, o uero paglia, & fanne uno
+  cs: |-
+    Dále je třeba vědět, že na některých místech by bylo velmi vhodné udělat podle [povahy] místa jistou záštitu {riparo} nebo široký výkop {caua}[^1] a předstírat, že se ztratila; a až nepřátelé vniknou dovnitř, vyhodit je do povětří a způsobit mezi nimi velké mrtvo. K tomu je třeba mít množství špalků {zochi} čili kmenů {tochi} z vysušeného dřeva, vysokých asi pět stop {piedi}, víc nebo méně podle dobrého úsudku. Na každý špalek je třeba udělat tři železné obruče, jednu nahoře, druhou dole a jednu uprostřed; pak do něj vyvrtat poněkud širší díru až do poloviny špalku a tu díru naplnit dělovým prachem {poluere de artelaria}. Až ji dobře naplníte, ucpěte ji velmi pevně zátkou {cocone}; potom udělejte ještě jednu dírku malým vrtákem {triuilino} nebo hrotem, který nesmí být příliš tlustý, tak aby vedla až k prachové komoře {canone della poluere}, a tu dírku dobře naplňte prachem. Tak udělejte se všemi špalky. Potom je postavte zpříma, tak jako když se střílí z moždířů {mortari}, a ústí díry, [kterou] zapálíš, má být zacpané a [obrácené] do země, tak aby konec {coda} byl nahoře.[^2] U malé dírky, kterou zapálíš špalek, musí být zařízeno, aby chytila oheň, tak aby jeden špalek zapálil druhý prachovou stopou {sementella}; ten prach má být ručnicový {de scopetto},[^3] aby rychle předal oheň všem; a když se zapálí na více místech, je to lepší. Když je to takto uspořádáno, je třeba mít [i] pro spodní část ne příliš silná prkna a přibít je navrch na špalky, ne příliš pevně; pak měj stelivo {strame}, seno nebo slámu a udělej z toho
+poznamky:
+- n: 1
+  text: Caua – obvykle mina (podkop); zde zřejmě široký výkop či prostor za záštitou, který obránci záměrně opustí a pod nímž jsou nastražené výbušné špalky.
+- n: 2
+  text: Popis je stručný a místy nejasný. Patrně jde o špalky zakopané zpříma s nabitou komorou dolů (ústím do země) jako improvizované nášlapné „miny“ (předchůdce fugasy), které výbuchem vyhodí do vzduchu falešnou podlahu z prken, slámy a hlíny i s útočníky.
+- n: 3
+  text: Tj. jemný prach do ručnic (scoppietto), který hoří rychleji než hrubý dělový prach.

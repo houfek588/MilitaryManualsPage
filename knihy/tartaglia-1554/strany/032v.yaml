@@ -1,0 +1,49 @@
+id: 032v
+list: '32'
+strana: verso
+sken: 64
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO QVARTO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: |-
+    Čtvrtý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Qual credeti poi che andara anchora piu lontano, o la detta balla di ferro, o quella di pietra, pur tirate con una istessa artegliaria, et à una istessa elleuatione, ma con la sua poluere ordinaria, cioe tirando la balla di ferro con li dui terzi, poluere di quello pesa la balla, & quella di pietra con un terzo di quello pesa la medesima balla di pietra.
+  cs: |-
+    **Převor.** A která podle vás doletí dál, železná koule {balla}, nebo kamenná, vystřelené opět z téhož děla {artegliaria} a při téže elevaci {elleuatione}, ale každá se svou obvyklou náloží prachu {poluere}, to jest železná koule s prachem ve váze dvou třetin koule a kamenná s prachem ve váze jedné třetiny té kamenné koule?
+- typ: odstavec
+  de: |-
+    N. La determination di questo non è molto facile per il uariar della proportione del peso di cadauna balla alla sua poluere, nondimeno conchiudo che la balla di ferro andara piu lontano di quella di pietra in ogni elleuatione, uero è, che quanto piu il tiro sara elleuato, tanto piu andara piu lontano la detta balla di ferro proportionalmente di quella di pietra, & è conuerso, cioe che quanto piu il tiro se accostera al sito della equalita ui occorrera menor differentia.
+  cs: |-
+    **Nicolò.** Rozhodnout to není příliš snadné, protože se mění poměr {proportione} váhy každé koule k jejímu prachu; přesto soudím, že železná koule doletí dál než kamenná při každé elevaci. Je ovšem pravda, že čím víc bude rána {tiro} elevovaná, tím poměrně dál doletí železná koule oproti kamenné, a naopak: čím víc se rána přiblíží vodorovné poloze, tím menší rozdíl nastane.
+- typ: odstavec
+  de: |-
+    P. Comprendo adunque che quelli primi che determinorno che alla balla di pietra ui si douesse dar solamente il terzo poluere, di quello pesa la balla, il ferno, perche forsi con con la sperientia trouaro quello che uoi diceti, cioe che se agguagliaua à quella di ferro.
+  cs: |-
+    **Převor.** Chápu tedy, že ti první, kdo stanovili, že kamenné kouli se má dávat jen třetina prachu oproti její váze, tak učinili proto, že snad zkušeností[^1] shledali to, co říkáte vy, totiž že se pak kamenná koule železné vyrovná.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO QVINTO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: |-
+    Pátý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Qual teneti che fara maggior effetto, ouer passata (in una egual distantia) una balla di piombo, ouer di ferro tirate con una istessa artegliaria, & à una istessa elleuatione, & prima con egual quantita di poluere, cioe con li dui terzi di quello pesa la balla de piombo) & dapoi con la sua poluere ordinaria.
+  cs: |-
+    **Převor.** Která podle vás bude mít (na stejnou vzdálenost) větší účinek neboli průraz {passata}, koule olověná, nebo železná, vystřelené z téhož děla a při téže elevaci, nejprve se stejným množstvím prachu (to jest se dvěma třetinami toho, co váží olověná koule), a potom každá se svou obvyklou náloží?
+- typ: odstavec
+  de: |-
+    N. Di sopra nel primo quesito fu conchiuso che la balla di ferro in ogni elleuatione andara piu lontano di quella di piombo (essendo pero ambedue tirate con quella detta egual quantita di poluere) e pero se la cosa doue se tira fusse tanto lontano che la balla di piombo non ui potesse arriuare, & che quella di ferro ui arriuasse, cadauno sapra far questo giudicio senza che io il dica, ma se la detta cosa doue se tira sara in una distantia conueniente all'uno, e l'altro tiro, & che la detta cosa non sia di tal durezza che sia atta à smaccare la balla de piombo, senza dubbio la balla de piombo fara molto maggior effetto, ouer passata di quello fara la balla di ferro, per causa della sua maggior grauita, perche molto piu opera la grauita che la uelocita (come sopra al. 16. quesito del primo anchor fu detto) uero è, che quando la detta cosa doue se tira fusse di tal durezza che fusse atta à smaccar la detta balla di piombo, ui saria da dubitare che la balla di ferro douesse penetrare alquanto piu di quella di piombo, uero è, che se ben la balla di piombo non penetrasse tanto quanto quella di ferro, il non restara ch'ella non conquassi molto piu la detta cosa percossa di quello fara la detta balla di ferro, per causa della sua maggior grauita, & tutto questo che se detto di tai balle tirate, con la detta egual quantita di poluere meglio se uerificara tirandole con la sua poluere ordinaria, cioe con li dui terzi di quello chi pesa cadauna balla per se, cioe che nelle cose che non siano atte per sua durezza à smaccare la balla de piombo molto piu sara di maggior effetto, ouer passata la
+  cs: |-
+    **Nicolò.** Výše v prvním dotazu bylo vyvozeno, že železná koule doletí při každé elevaci dál než olověná (jsou-li ovšem obě vystřeleny s oním stejným množstvím prachu). Kdyby tedy věc, na niž se střílí, byla tak daleko, že by k ní olověná koule nedoletěla, kdežto železná ano, dokáže každý posoudit sám, aniž bych to říkal. Bude-li však věc, na niž se střílí, ve vzdálenosti přiměřené oběma ranám a nebude-li tak tvrdá, aby dokázala olověnou kouli zploštit {smaccare}, bude mít olověná koule bez pochyby mnohem větší účinek neboli průraz než koule železná, a to pro svou větší tíži, neboť tíže působí mnohem víc než rychlost (jak bylo také řečeno výše v 16. dotazu první knihy).[^2] Je ovšem pravda, že kdyby věc, na niž se střílí, byla tak tvrdá, že by dokázala olověnou kouli zploštit, dalo by se pochybovat, zda by železná koule nepronikla o něco hlouběji než olověná; avšak i kdyby olověná koule nepronikla tak hluboko jako železná, nic to nezmění na tom, že zasaženou věc rozdrtí {conquassi} mnohem víc než železná koule, a to pro svou větší tíži. A vše, co bylo řečeno o těchto koulích vystřelených se stejným množstvím prachu, se ještě lépe potvrdí, když se vystřelí každá se svou obvyklou náloží, to jest se dvěma třetinami toho, co váží každá koule sama: u věcí, které pro svou tvrdost nedokážou olověnou kouli zploštit, bude mít
+poznamky:
+- n: 1
+  text: V tisku zdvojeno „con con la sperientia“ (tisková chyba); „il ferno“ = benátsky „lo fecero“ (učinili tak).
+- n: 2
+  text: Myšlenka, že tíže koule působí víc než její rychlost, zazní v tomto vydání na konci patnáctého dotazu První knihy (list 22r, před nadpisem šestnáctého dotazu); odkaz na 16. dotaz je zřejmě pozůstatek jiného číslování.

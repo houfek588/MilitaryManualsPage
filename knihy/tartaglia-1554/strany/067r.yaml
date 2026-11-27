@@ -1,0 +1,59 @@
+id: 067r
+list: '67'
+strana: recto
+sken: 133
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ogni commun ingegno (come di sopra dissi) che di tai particolarita sia auertito facilmente da se le ritrouara, non che Vostra Reuerentia.
+  cs: |-
+    každý obyčejný rozum (jak jsem řekl výše), který je na takové zvláštnosti upozorněn, je snadno najde sám, natož pak Vaše Důstojnost.
+- typ: odstavec
+  de: |-
+    P. Considero ueramente, che il molto praticare, ragionare, & disputare de una materia, fa ritrouar molte cose, circa à quella, perche nel praticare, ragionare, et disputare, l'huomo uien sempre auertito de qualche nuoua particolarita, et dapoi ch'eglie auertito, et sopra à quella pensando facilmente la ritroua.
+  cs: |-
+    **Převor.** Vskutku soudím, že když se člověk nějakou látkou hodně zabývá, rozmlouvá a disputuje o ní, přijde na mnoho věcí, které se jí týkají; neboť při takovém zabývání, rozmlouvání a disputování je vždy upozorněn na nějakou novou zvláštnost, a jakmile je na ni upozorněn a přemýšlí o ní, snadno na ni přijde.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SETTIMO FATTO DAL medesimo signor Prior di Barletta.
+  cs: Sedmý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Seguitati anchora la quinta particolarita, ouer conditione, per fin che uenga hora da cena.
+  cs: |-
+    **Převor.** Pokračujte ještě pátou zvláštností neboli podmínkou, dokud nepřijde čas večeře.
+- typ: odstavec
+  de: |-
+    N. La quinta qualita, ouer conditione, che debbe hauer una citta è questa, che sempre si debbe adattare qualche particolare, & sicuro ingegno alla guardia de cadauna cortina, ouer muraglia, che occorrendo che li nemici uenissono per scalarla con scale, che con facilita ui si potesse rompere totalmente ogni suo dissegno, & con suo grandissimo danno, et uergogna, della qual cosa son certo, che manca le cortine, ouer mura de Turino.
+  cs: |-
+    **Nicolò.** Pátá vlastnost neboli podmínka, kterou má město {citta} mít, je tato: k ochraně každé kurtiny {cortina} neboli hradby {muraglia} je vždy třeba připravit nějaké zvláštní a spolehlivé zařízení {ingegno},[^1] aby se v případě, že by ji nepřátelé přišli ztéci po žebřících, dal snadno zcela zmařit každý jejich záměr, a to s jejich největší škodou a hanbou. To, jsem si jist, kurtinám neboli hradbám Turína chybí.
+- typ: odstavec
+  de: |-
+    P. Anci di questa tal particolarita, non solamente, non manca la citta de Turino, ma nanche alcun'altra citta de Italia, perche sempre ui se mette dui, & tal hora quattro pezzi di artegliaria per banda in cadauno baluardo, li quali guardano, & defendano tal cortina da chi la uolesse scalare.
+  cs: |-
+    **Převor.** Naopak, této zvláštnosti se nedostává nejen městu Turínu, ale ani žádnému jinému městu v Itálii, neboť se v každé baště {baluardo} vždy staví na každou stranu dvě, někdy i čtyři děla {pezzi di artegliaria}, která takovou kurtinu střeží a brání před každým, kdo by ji chtěl ztéci.
+- typ: odstavec
+  de: |-
+    N. Il non bisogna totalmente assicurarse sopra dui, ne quattro pezzi di artegliaria, che fusseno per banda in cadauno baluardo, ne tenere, che quelli siano sofficienti à difendere tal cortina, da uno impetuoso, & grandissimo assalimento, perche anchor che le artegliarie siano de gran terrore, & de mirabile effetto (doue che percuoteno) nondimeno tai suoi effetti la maggior parte delle uolte, ouer che uanno totalmente falliti, ouer che mancano assai di quello, che le persone se istimano, ouer pensano, perche le lor balle passano sempre per stretto luoco, e pero offendono li nemici solamente in particolare (cioe à chi la tocca per sorte) & non in generale. Et per tanto dico, che bisogna prepararui cose che offendono li detti nemici in generale, cioe di tal qualita che subito che li nemici cominciasseno ad aggiongere nella sommita di tal cortina, che non solamente fusseno atte di ributtare in drio generalmente tutti quelli, che fusseno peruenuti nella sommita di tal cortina, insieme con quelli, che su per tai scale si trouasseno. Ma che anchora offendessono generalmente tutti quelli altri, che sopra à tai scale stessono per assalire.
+  cs: |-
+    **Nicolò.** Není radno spoléhat se úplně na dvě ani čtyři děla, která by byla v každé baště na každou stranu, ani se domnívat, že by stačila ubránit takovou kurtinu před prudkým a velikým útokem. Neboť ačkoli dělostřelectvo {artegliarie} budí velký děs a má podivuhodný účinek (tam, kam zasáhne), přesto jeho účinky většinou buď zcela selžou, nebo zůstanou daleko za tím, co si lidé představují či myslí. Jeho koule {balle} totiž prolétají vždy jen úzkým prostorem, a proto zasahují nepřátele jen jednotlivě (totiž toho, koho náhodou trefí), a ne hromadně. Proto říkám, že je třeba tam připravit věci, které zasahují uvedené nepřátele hromadně, a to takové povahy, aby ve chvíli, kdy by nepřátelé začali dosahovat vrcholu kurtiny, dokázaly nejen hromadně srazit zpět všechny, kdo by se na vrchol kurtiny dostali, spolu s těmi, kdo by se nacházeli na žebřících, ale aby také hromadně zasáhly všechny ostatní, kteří by stáli u žebříků, připraveni k útoku.
+- typ: odstavec
+  de: |-
+    P. Quando che il non fusse le artegliarie. Credo ben che facilmente se potria trouar qualche particolar ingegno chi facesse in gran parte quello, che haueti detto. Ma uoglio che sappiati, che quando li nemici deliberano di dare l'assalto, ouer battaglia à una citta, sempre cercano da daruela da tal banda, ouer in tal luoco, che con le sue artegliarie lor possino leuare facilmente quelli della terra dalle diffese, & doue che le artegliarie possono giuocare, non credo che sia possibile di accommodarui alcuna sorte de ingegno, che da quelle non sia immediate rotto, & dissipato, come dissi anchora sopra il far delle ordinanze.
+  cs: |-
+    **Převor.** Kdyby nebylo dělostřelectva, věřím, že by se snadno dalo najít nějaké zvláštní zařízení, které by z velké části dokázalo to, co jste řekl. Ale chci, abyste věděl, že když se nepřátelé rozhodnou podniknout na město útok neboli šturm, vždy se snaží vést jej z takové strany nebo na takovém místě, kde mohou svým dělostřelectvem snadno vyhnat obránce města z obranných postavení. A kde může dělostřelectvo působit, nevěřím, že by se tam dalo umístit jakékoli zařízení, které by jím nebylo okamžitě rozbito a rozmetáno, jak jsem už řekl výše o sestavování šiků {ordinanze}.[^2]
+- typ: odstavec
+  de: |-
+    N. Ogni dritto ha il suo rouerso, basta che in fine nel far di nostri modelli, secondo la promessa, faro uedere à V. R. & con ragion toccare, che non
+  cs: |-
+    **Nicolò.** Každý líc má svůj rub.[^3] Postačí, že nakonec, až budeme podle slibu zhotovovat naše modely, ukážu Vaší Důstojnosti a rozumovými důvody doložím, že nejen
+poznamky:
+- n: 1
+  text: Ingegno – zde i dále „důmyslné zařízení, vynález“ (obranné ústrojí na hradbě); v prvním odstavci téže strany ve významu „rozum, důvtip“ (ogni commun ingegno).
+- n: 2
+  text: Převor odkazuje na svou námitku ze čtvrté knihy (13. dotaz, [[053v|list 53v]]), že každý šik rozvrátí dělostřelectvo, arkebuzy a luky.
+- n: 3
+  text: Ogni dritto ha il suo rouerso – přísloví „každá věc má líc i rub“ – i proti dělostřelectvu se najde protiopatření.

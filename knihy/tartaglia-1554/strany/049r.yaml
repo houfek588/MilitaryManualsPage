@@ -1,0 +1,45 @@
+id: 049r
+list: '49'
+strana: recto
+sken: 97
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    data nel .5. Quesito, & quelli tai cunei, congiongerli in diretto, secondo che fu fatto di quelli dui nel formar la forfice, essempi gratia, poniamo, che delli detti fanti cento se uoglia far quattro denti di una serra, dico, che li detti fanti cento li se debbono partire in quattro parti, del qual partimento ne uenira fanti .25. per parte, hor di cadauna di queste parti se ne debbe formar un cuneo secondo l'ordine dato nel detto .5. Quesito, & questi quattro cunei congiongerli in diretto, come di sotto appar in figura, & questo è in quanto al far delli puri denti, ma se per caso se uolesse mettere una altra ordinanza drio alli detti quattro denti, bisognaria prima determinare de quanti fanti tal ordinanza se uora fare, & quella cauarla de per se, & del resto formar li denti, &
+  cs: |-
+    podaného v 5. dotazu, a ty klíny {cunei} spojit v přímé linii, tak jak se to udělalo s oněmi dvěma při tvoření nůžek. Dejme tomu například, že ze zmíněných sta pěšáků {fanti} chceme udělat čtyři zuby pily {serra}. Pravím, že těch sto pěšáků je třeba rozdělit na čtyři části, z čehož vyjde 25 pěšáků na část; z každé z těchto částí se pak má vytvořit klín podle postupu podaného ve zmíněném 5. dotazu a tyto čtyři klíny spojit v přímé linii, jak je vidět níže na obrazci. To se týká vytvoření samotných zubů. Kdyby však někdo chtěl za ty čtyři zuby postavit ještě jiný šik {ordinanza}, bylo by třeba nejprve určit, z kolika pěšáků se ten šik má udělat, ty oddělit zvlášť a ze zbytku vytvořit zuby; a
+- typ: obrazek
+  soubor: drevorez-97.jpg
+  popis: >-
+    Pila ze 100 pěšáků sázená z teček: čtyři klíny po 25 pěšácích vedle sebe, hroty nahoru. Každý zub
+    má řady o 1, 3, 5 a 7 tečkách a jejich základny po 9 tečkách splývají v jednu souvislou spodní
+    řadu o 36 tečkách.
+- typ: odstavec
+  de: |-
+    de drio de detti denti ponerui quella quantita de fanti, che prima fu cauata, & ordinarli à tanti fanti per fila, quanti fanti se trouara direttamente in longo essere in tutte le base delli denti formati, essempi gratia, poniamo che siano fanti .244. et che de fanti .100. de quelli se uoglia fare quattro denti di una serra, & delli altri .144. se uoglia fare una ordinanza sustentante li detti quattro denti, dico, che redutti li fanti cento in quattro denti, come di sopra fu detto consequentemente drieto à quelli ui se debbe assettar quelli cento quarantaquattro fanti à fanti trentasei per fila, perche in tutte quattro le base de detti quattro denti ui sono fanti trentasei, come nella sotto scritta figura appare, & cosi con tal modo, & ordine se potra ordinare, se fusseno bene cento milia fanti destinguendo, come di sopra se fatto in quel poco numero.
+  cs: |-
+    za ty zuby postavit onen počet pěšáků, který byl předtím oddělen, a seřadit je po tolika pěšácích v řadě {fila}, kolik pěšáků se nachází v přímé linii ve všech základnách vytvořených zubů. Dejme tomu například, že je 244 pěšáků a ze 100 z nich chceme udělat čtyři zuby pily a z ostatních 144 šik, který ty čtyři zuby podpírá. Pravím, že když se sto pěšáků převede do čtyř zubů, jak bylo řečeno výše, musí se pak za ně postavit oněch sto čtyřicet čtyři pěšáků po třiceti šesti pěšácích v řadě, protože ve všech čtyřech základnách těch čtyř zubů je třicet šest pěšáků, jak je vidět na obrazci níže. A tímto způsobem a postupem bude možné sestavit [šik], i kdyby bylo sto tisíc pěšáků, rozčlení-li se tak, jak se to udělalo výše na onom malém počtu.
+- typ: odstavec
+  de: |-
+    P. Ve ho inteso benissimo, & basta per questa sera.
+  cs: |-
+    **Převor.** Porozuměl jsem vám velmi dobře a pro dnešní večer to stačí.
+- typ: obrazek
+  soubor: drevorez-97b.jpg
+  popis: >-
+    Pila s podpůrným šikem, sázená z teček: nahoře nápis „fronte“ (čelo), pod ním hroty čtyř zubů po
+    25 pěšácích (řady o 1, 3, 5 a 7 tečkách), za nimi souvislé řady po 36 tečkách – základna zubů
+    a podpůrný šik. Podle textu má být podpůrný šik ze 144 pěšáků, tj. 4 řady po 36; v obrazci jsou
+    ale pod hroty zřetelně jen 4 souvislé řady celkem (základna zubů a 3 podpůrné řady).
+- typ: nadpis
+  uroven: 3
+  de: QVESITO NONO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: Devátý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Come se potria redure una quantita de fanti, ouer uno essercito in figura Rhombica di gente, che fusseno atti à poter caminar con uno angolo
+  cs: |-
+    **Převor.** Jak by se dal určitý počet pěšáků neboli vojsko {essercito} převést do kosočtverečného obrazce {figura Rhombica} co do mužstva, aby byli schopni pochodovat jedním úhlem

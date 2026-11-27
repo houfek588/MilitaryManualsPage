@@ -1,0 +1,72 @@
+id: 075r
+list: '75'
+strana: recto
+sken: 149
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    difficultosissimo: ma un certo messer Cesare Napolitano zotto (qual faceua gran professione de fortificar citta) me affermo esser impossibile di poter fortificare l'angolo retto, & manco l'acuto, della qual cosa fra me molto me ne risi, ma allui finsi da credere tal sua conclusione.
+  cs: |-
+    velmi obtížné, ale jistý messer Cesare Napolitano, kulhavec[^1] (který se velmi honosil uměním opevňovat města), mi tvrdil, že pravý úhel nelze opevnit vůbec, a ostrý tím méně. Tomu jsem se v duchu velmi smál, ale před ním jsem předstíral, že jeho závěru věřím.
+- typ: odstavec
+  de: |-
+    S. M. Adunque haueti opinione, che li detti angoli si possano sicuramente fortificare.
+  cs: |-
+    **Pan Marcantonio.** Jste tedy toho mínění, že tyto úhly lze bezpečně opevnit?
+- typ: odstavec
+  de: |-
+    N. Senza dubbio Signor Magnifico, che si possono fortificare.
+  cs: |-
+    **Nicolò.** Bezpochyby, urozený pane, že je lze opevnit.
+- typ: odstavec
+  de: |-
+    S. M. Questo hauero ben accaro di uedere.
+  cs: |-
+    **Pan Marcantonio.** To uvidím velmi rád.
+- typ: odstavec
+  de: |-
+    N. Un'altra uolta di cio satisfaro Vostra Magnificentia, perche al presente é hora tarda de intrar in tal ragionamento.
+  cs: |-
+    **Nicolò.** Jindy v tom Vaši Urozenost uspokojím, neboť teď je už pozdě pouštět se do takového rozhovoru.
+- typ: odstavec
+  de: |-
+    S. M. Morsu diman ui aspetto.
+  cs: |-
+    **Pan Marcantonio.** Nuže,[^2] zítra vás očekávám.
+- typ: odstavec
+  de: |-
+    N. Io ueniro Signor Magnifico.
+  cs: |-
+    **Nicolò.** Přijdu, urozený pane.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO QVINTO FATTO DAL MEDESIMO Magnifico, & Eccellentissimo Dottor, Signor Marc'Antonio Morosini.
+  cs: Pátý dotaz, který položil týž urozený a nejvznešenější doktor, pan Marcantonio Morosini
+- typ: odstavec
+  de: |-
+    SIGNOR MARC'ANTONIO. Hor narratime un poco questo uostro modo de fortificare un'angolo retto, ouer acuto de una citta.
+  cs: |-
+    **Pan Marcantonio.** Nuže, vyložte mi trochu tento svůj způsob, jak opevnit pravý nebo ostrý úhel města {citta}.
+- typ: odstavec
+  de: |-
+    N. Questo si fara Signor Magnifico, facendo prima di sopra al detto angolo, o uogliamo dir cantone uno cauallero, ilqual cauallero trauersi da una cortina all'altra, ma che tal cauallero sia molto in dentro dal detto angolo, retto, ouer acuto, perche se tal cauallero fusse fatto terminare con alcuna parte di quello sopra al detto angolo facil cosa saria alli nemici à rouinare tal angolo con le sue artegliarie (per esser debile) onde se tal angolo fusse fondamento del detto cauallero, ueneria à rouinare il detto cauallero insieme con tal angolo, la qual cosa non poco pericolo causaria à quelli della citta, perche tal rouinazzo caderia nella fossa, & ueneria à far scala alli nemici di poter ascendere, & entrare per tal luoco dentro della citta. E per questo uoglio, che tal cauallero trauersi rettamente da una cortina all'altra molto in dentro di tal angolo, & perche tal angolo retto, ouer acuto (anchor che sopra di quello non ui fusse il detto cauallero) potria pur esser rouinato da nemici ad ogni suo piacer, et massime tutta quella parte, che fusse apparente di sopra dalla fossa, e pero meglio è à fare di uolonta quello, che li nemici (parendogli) ne potriano far per forza, & con nostro maggior pericolo, perche rouinando simplicemente tal angolo per forza tal luoco rouinato insieme con il rouinazzo, che caderia nel fosso (come è detto) ueneriano pur à far scala alli nemici di ascendere, & entrare nel cauallero, & nella detta citta. E per tanto uoglio, che tutto tal angolo, ouer canton apparente dalla fossa in suso sia totalmente tagliato, ouer smussato à scarpa per fin à canto del fondamento del cauallero, la qual cosa facendo tal loco uenira à restar assai gagliardo, e forte. Oltra di questo uoglio, che circa al meggio dell'una, & l'altra cortina sia fatto un baluardo, con tal ordine, che li lati, che sono dalla banda uerso il detto cauallero dell'uno, e l'altro de quelli, siano rettamente signoreggiati, & guardati dal detto cauallero, oltra di questo uoglio che à canto dell'uno, e l'altro baluardo, dalla banda uerso l'angolo, retto, ouer acuto sia fatto un caualleretto (quadrangolo, ouer tondo, ouer ouale) di tal capacita, che sopra all'uno, & l'altro de quelli ui se possa accomodare .3. ouer .4. falconetti da .6. lire di balla, oueramente .2. ouer .3. sacri, & che li detti caualleretti siano situati di sorte, che possino rettamente difendere, et guardar tal angolo.
+  cs: |-
+    **Nicolò.** To se udělá, urozený pane, tak, že se nejprve nad tímto úhlem neboli nárožím {cantone} udělá kavalír {cauallero}, který povede napříč od jedné kurtiny {cortina} ke druhé, ale tak, aby byl hodně uvnitř od toho pravého nebo ostrého úhlu. Kdyby totiž tento kavalír končil některou svou částí nad tím úhlem, bylo by pro nepřátele snadné rozbořit ten úhel (protože je slabý) svým dělostřelectvem {artegliarie}; a kdyby byl ten úhel základem kavalíru, zbořil by se kavalír spolu s tím úhlem. To by obráncům města způsobilo nemalé nebezpečí, protože by sutiny spadly do příkopu {fossa} a posloužily by nepřátelům jako schody, po nichž by mohli vystoupit a vniknout tudy do města. Proto chci, aby tento kavalír vedl přímo napříč od jedné kurtiny ke druhé hodně uvnitř od toho úhlu. A protože takový pravý nebo ostrý úhel (i kdyby nad ním kavalír nebyl) by přesto nepřátelé mohli rozbořit, kdykoli by se jim zachtělo, zvláště celou tu část, která by vyčnívala nad příkop, je lepší udělat dobrovolně to, co by nepřátelé (kdyby se jim zdálo) mohli udělat násilím, a to s větším nebezpečím pro nás. Kdyby totiž ten úhel prostě rozbořili násilím, rozbořené místo spolu se sutinami, které by spadly do příkopu (jak bylo řečeno), by nepřátelům přece posloužily jako schody, aby vystoupili a vnikli do kavalíru a do města. Proto chci, aby celý takový úhel neboli nároží, pokud vyčnívá z příkopu nahoru, bylo úplně odříznuto neboli seříznuto ve svahu {scarpa} až k základu kavalíru; když se to udělá, zůstane takové místo velmi pevné a silné. Kromě toho chci, aby se asi uprostřed jedné i druhé kurtiny udělala bašta {baluardo}, a to tak, aby strany obou bašt obrácené ke kavalíru kavalír přímo ovládal a střežil. A dále chci, aby se vedle jedné i druhé bašty, na straně k pravému nebo ostrému úhlu, udělal malý kavalír {caualleretto} (čtyřhranný, kulatý nebo oválný) tak prostorný, aby se na každý z nich daly umístit 3 nebo 4 falkonety {falconetti} na kouli o 6 librách {lire} nebo 2 či 3 sakry {sacri}; a aby tyto malé kavalíry byly postaveny tak, aby mohly ten úhel přímo bránit a střežit.
+- typ: odstavec
+  de: |-
+    S. M. E ui ho ottimamente inteso, nondimeno fatime un poco di essempio in figura.
+  cs: |-
+    **Pan Marcantonio.** Výborně jsem vám porozuměl, přesto mi to trochu ukažte na příkladu v obrazci.
+- typ: odstavec
+  de: |-
+    N. Signor clarissimo, per
+  cs: |-
+    **Nicolò.** Slovutný pane,
+poznamky:
+- n: 1
+  text: Cesare Napolitano – jinak neznámý neapolský stavitel opevnění; „zotto“ (benátsky zoto, zoppo) = kulhavý.
+- n: 2
+  text: V tisku „Morsu“, tisková chyba za „Horsu“ (nuže); ponecháno.

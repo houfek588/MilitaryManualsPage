@@ -1,0 +1,19 @@
+id: 029r
+list: '29'
+strana: recto
+sken: 77
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: MODELLO DE APRIRE VN monte o muraglie, rocche, reparo con minera zoe caua & fuoco. Cap. XVI.
+  cs: Model, jak rozevřít horu nebo hradby, hrady a náspy minou, totiž podkopem a ohněm. Kapitola XVI.
+- typ: odstavec
+  de: |-
+    ET piu ho da dare notitia in fauore de quelli de fuora per expugnare una muraglia, con uno impeto, et furore, bisogna che se faccia una minera laquale fa lo effetto con fuoco, in prima bisogna arbitrare & considerare el luoco possibile, & fare una caua sotto terra, laquale caua fate per tutti doi li fianchi ue sia tauole grosette zoe una della man dextra, & laltra de la man sinistra deritte, & strette da capo, & large da piedi, ad modo de una Tenne ad doi penne, & fatta che sera cauate fine ad quel deritto che harai compassato al luoco che uorria ruinare, & li piglia una caua larga tonda ad modo de uno padiglione siue forno al tetto secondo laltura della caua, & fatto che harai questa tomba ad modo de forno, ma molto piu largo, & alto poi mettere alchuno barrile de poluere, & quanto e piu fina, meglio e, & poi mura la minera lasciandoce un buso per sotto quanto se possa con sementella de poluere dare fuoco doue hai messo gli barrili de poluere quali ce farite arteficii che buttando della poluere per terra porgia fuoco alli barrilli, & murato che harai quando el tempo appicciate fuoco attal che el fuoco uada per un buso lasciato, & quando sera alla tomba, perche il fuoco attrahe in airo como sua natura uera ad aprire se ben fosse tutto un monte, & cosi uincerai col ditto magisterio.
+  cs: |-
+    A dále musím podat zprávu ve prospěch těch venku {quelli de fuora}, [jak] dobýt hradbu {muraglia} jedním náporem a prudce: je třeba udělat minu {minera}, která působí ohněm. Nejprve je třeba uvážit a prohlédnout místo, kde je to možné, a udělat pod zemí chodbu {caua}; v této chodbě dejte po obou bocích silnější prkna {tauole grosette}, totiž jedno po pravé ruce a druhé po levé, postavená zpříma, nahoře k sobě sbíhavá a dole od sebe rozevřená, jako stan se dvěma sklony {Tenne ad doi penne}[^1]. A když bude chodba vykopána až k tomu bodu, který sis odměřil kružítkem {compassato} pod místem, jež bys chtěl rozbořit, vykopej tam širokou okrouhlou komoru, nahoře klenutou jako stan {padiglione} nebo pec {forno}, podle výšky chodby. A když tuto komoru {tomba} uděláš jako pec, ale mnohem širší a vyšší, vlož do ní několik sudů {barrile} střelného prachu {poluere}, a čím jemnější, tím lépe. Potom minu zazdi a nech v ní dole otvor, jak jen to půjde, s prachovou stopou {sementella}, aby se zapálilo [místo], kam jsi uložil sudy prachu; uděláte tam takové zařízení {arteficii}, aby prach nasypaný po zemi donesl oheň až k sudům. A až zazdíš, zapalte v pravý čas, aby oheň běžel ponechaným otvorem; a až dojde do komory, protože oheň se podle své přirozenosti žene vzhůru do vzduchu {airo}, rozevře [místo], i kdyby to byla celá hora. A tak tímto umem {magisterio} zvítězíš.
+poznamky:
+- n: 1
+  text: '„Tenne ad doi penne“ – patrně „tenda a due penne“, stan se dvěma šikmými stěnami (sedlový stan): boční prkna výdřevy jsou dole od sebe a nahoře se k sobě sklánějí, takže chodba má průřez lichoběžníku či trojúhelníku. Ve slově „da|re fuoco“ (zapálit) je zalomení řádku; tisk „poluere da re fuoco“ se čte „dare fuoco“.'

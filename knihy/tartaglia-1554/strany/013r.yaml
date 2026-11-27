@@ -1,0 +1,41 @@
+id: 013r
+list: '13'
+strana: recto
+sken: 25
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    tirare il detto pezzo à tal elleuatione, & uerso il medesimo luoco, se continuamente andaria augumentando li suoi tiri.
+  cs: |-
+    střílelo při téže elevaci {elleuatione} a na totéž místo, zda by se jeho dostřely {tiri} stále zvětšovaly.
+- typ: odstavec
+  de: |-
+    N. Non signore, chel non seguiria questo.
+  cs: |-
+    **Nicolò.** Nikoli, pane, to by nenastalo.
+- typ: odstavec
+  de: |-
+    P. Mo perche uoi dicesti pur hiersera, che per trouare lo aere commosso, & alquanto scorrente uerso el luoco doue se tira, etiam perche la poluere posta nel pezzo, troua el luoco piu arido, & sutto, & alquanto caldo, che alla seconda uolta tiraria piu, che alla prima, e per tanto quanto piu si ua tirando, tanto piu la balla uien à ritrouare l'aere piu commosso, e penetrato, etiam piu scorrente uerso al luoco doue se tira (per causa delli tiri anciani) & simelmente la poluere, che se ua recargando, ouer remettendo nel pezzo, continuamente ua ritrouando il luoco (cioè la canna del pezzo) continuamente piu arida, & sutta, & piu calda, la qual calidita (come uoi dicesti hiersera) fuga la poluere de ogni humidita, che in lei fusse, per il che tal poluere si fa piu presta nel abbrusiare: la qual prestezza la uien à far piu potente del solito.
+  cs: |-
+    **Převor.** Ale vždyť jste sám včera večer řekl, že protože [koule] najde vzduch rozvířený a poněkud proudící k místu, kam se střílí, a také protože prach {poluere} vložený do děla {pezzo} najde místo sušší a vyprahlejší a poněkud teplé, dostřelí [dělo] podruhé dál než poprvé. Čím déle se tedy střílí, tím víc koule {balla} nachází vzduch rozvířenější a proraženější a také víc proudící k místu, kam se střílí (kvůli předchozím výstřelům); a stejně tak prach, který se do děla znovu a znovu nabíjí čili vkládá, nachází to místo (totiž hlaveň {canna} děla) stále sušší, vyprahlejší a teplejší. A toto teplo (jak jste včera řekl) z prachu vyhání všechnu vlhkost, kterou by v sobě měl, takže prach hoří rychleji; a tato rychlost jej činí mocnějším než obvykle.
+- typ: odstavec
+  de: |-
+    N. Eglie ben uero tutto quello, che dice uostra Signoria, ma ui occorre un'altro accidente molto contrario, el quale è questo: che per el continuo tirare el pezzo continuamente piu se ua scaldando, & quanto piu è caldo, tanto piu la canna di quello si fa attrattiua, cioe, si come una uentosa, quando è scaldata per la stoppa abbrusiata dentro in quella, & perche la balla non è spulsata, ouer spinta da altro, che dalla essalatione aerea, ouer uentosa, causata dal salnitrio, onde facendosi tal pezzo continuamente piu attrattiuo, come ho detto, per el maggior caldo, quel medemo uiene à sorbere, & à retenere, & continuamente piu di quella uentosita, che doueria seruire al spingere la balla, e pero scemando (& continuamente piu) la uirtu espulsiua nel detto pezzo, rasoneuolmente la balla continuamente debbe uscire men ueloce, ouer piu debile, & consequentemente andar continuamente men lontano.
+  cs: |-
+    **Nicolò.** Je jistě pravda všechno, co Vaše Milost {uostra Signoria} říká, ale přistupuje k tomu ještě jiná okolnost {accidente}, velmi opačná, a to tato: nepřetržitou střelbou se dělo stále víc zahřívá, a čím je teplejší, tím víc jeho hlaveň nasává, právě jako baňka,[^1] když se zahřeje koudelí zapálenou uvnitř ní. A protože koule není vypuzována čili hnána ničím jiným než vzdušným čili větrným výparem {essalatione}, který vzniká z ledku {salnitrio}, a protože dělo, jak jsem řekl, při větším teple nasává stále víc, začne samo pohlcovat a zadržovat stále víc oné větrnosti {uentosita}, která by měla sloužit k vypuzení koule. A protože se tak vypuzovací síla v děle zmenšuje (a to stále víc), je rozumné, že koule musí vyletovat stále pomaleji čili slaběji, a tudíž doletět stále méně daleko.
+- typ: odstavec
+  de: |-
+    P. Questa uostra ragione mi consona molto: ma chi sa, che quelli dui accidenti primi, che dano fauore, & aiuto al moto della balla, cioe la gran combustione, ouer scorrentia del aere uerso al luoco doue continuamente se tira, & lo uigore, che se augumenta nella poluere, per causa del caldo, non siano sofficienti à supplire à quel difetto attratiuo causato dalla gran calidita del pezzo et forsi piu, la qual cosa essendo cosi, seguiria, che el detto pezzo tirasse sempre à uno medesimo modo essendo tanto quello, che ui aggiongesse li detti dui primi accidenti, quanto quello, che ui robasse el terzo, oueramente che tirasse continuamente piu, essendo piu la augmentatione di ditti dui primi accidenti, della detrattione del terzo.
+  cs: |-
+    **Převor.** Tento váš důvod se mi velmi zamlouvá. Ale kdo ví, zda ony dvě první okolnosti, které pohybu koule prospívají a pomáhají – totiž velké rozvíření čili proudění vzduchu k místu, kam se nepřetržitě střílí, a síla, která v prachu vzrůstá kvůli teplu –, nestačí vyrovnat onen nedostatek, totiž sání způsobené velkým žárem děla, a možná i s přebytkem. Kdyby tomu tak bylo, plynulo by z toho, že by dělo střílelo stále stejně, pokud by obě první okolnosti přidaly právě tolik, kolik by ubrala ta třetí; anebo že by dostřelilo stále dál, pokud by přírůstek z obou prvních okolností byl větší než úbytek způsobený třetí.
+- typ: odstavec
+  de: |-
+    N. Certamente el non si puo negare, che quelli dui primi accidenti (cioe el rompimento dell'aere, & quel uigor che accresse nella poluere) non diano grande aiuto e sussidio al moto della balla, el qual aiuto, e sussidio, eglie da credere, che per alquanto tempo supplisca (& forsi dauantaggio) per quella uirtu expulsiua, che continuamente ua robando, ouer sorbendo el pezzo, secondo che si ua scaldando, talmente che forsi el terzo, & quarto tiro saranno quasi pari in bilancia, con el secondo, ouer poco differenti, nondimeno à longo andare, eglie da tenere, che li detti dui accidenti non potranno supplire al difetto del terzo accidente, per la augmentatione del grandissimo caldo, che continuamente si ua causando in quel tal pezzo, per il che el detto pezzo, come di sopra è detto, si fa continuamente piu attrattiuo, e pero continuamente ua robando, ouero sorbendo piu di quella essalatione, che doueria spingere la balla, & per tanto questo terzo accidente à longo
+  cs: |-
+    **Nicolò.** Jistě nelze popřít, že ony dvě první okolnosti (totiž proražení vzduchu a síla, která v prachu vzrůstá) pohybu koule velmi pomáhají a podporují jej. Je třeba věřit, že tato pomoc a podpora po nějaký čas vyrovná (a snad i s přebytkem) onu vypuzovací sílu, kterou dělo, jak se zahřívá, neustále ubírá čili pohlcuje, takže snad třetí a čtvrtý výstřel budou na vahách skoro stejné jako druhý nebo jen málo odlišné. Přesto je třeba mít za to, že nakonec obě tyto okolnosti nebudou s to vyrovnat vadu třetí okolnosti, protože v tom děle neustále přibývá převelikého žáru. Proto dělo, jak bylo řečeno, nasává stále víc, a tak neustále ubírá čili pohlcuje víc onoho výparu, který by měl hnát kouli; a proto tato třetí okolnost
+poznamky:
+- n: 1
+  text: Uentosa – lékařská baňka (sklenice k baňkování), v níž se zapálením koudele vytvoří podtlak, takže přisaje kůži. Tartaglia podle dobové fyziky soudí, že rozpálená hlaveň podobně „nasává“ a pohlcuje plyny z prachu.

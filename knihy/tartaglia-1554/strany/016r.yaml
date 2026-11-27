@@ -1,0 +1,37 @@
+id: 016r
+list: '16'
+strana: recto
+sken: 31
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mira, sara in qual si uoglia delle dette due intersecationi, cioe in ponto.i.ouer in ponto.l.necessariamente la balla dara precisamente in brocca, & quando che il detto segno sara piu in fuora della prima intersecatione, cioe dal ponto.i.per fin al ponto.k.tanto piu alta sara la detta botta, ma quanto piu oltra al detto ponto.k.per fin al ponto.l.sara il detto segno tanto men alta sara la detta botta, ma quando che il detto segno fusse per alquanto oltra al ponto.l.tal botta necessariamente dara di sotto dal segno, & quando tal segno sara molto oltra al ponto.l.la detta balla non potra arriuare al segno, come (per ragion naturale) credo, che quella possa facilmente comprendere.
+  cs: |-
+    v kterémkoli z obou uvedených průsečíků, totiž v bodě i nebo v bodě l, zasáhne koule {balla} nutně přesně do středu {in brocca}. Čím dál bude cíl {segno} za prvním průsečíkem, totiž od bodu i až po bod k, tím výše bude rána {botta}; ale čím dál bude cíl za bodem k až po bod l, tím méně vysoko bude rána. Kdyby však cíl byl poněkud za bodem l, rána nutně zasáhne pod cíl, a bude-li cíl daleko za bodem l, koule k němu vůbec nebude moci doletět, jak, myslím, Vaše Milost snadno pochopí přirozeným rozumem.
+- typ: odstavec
+  de: |-
+    P. Comprendo che eglie troppo il uero. Et certamente questa è stata una bella Speculatione, e pero non uoglio che piu ue affaticati per questa sera, diman de sera direti poi il restante.
+  cs: |-
+    **Převor.** Chápu, že je to docela pravda. A jistě to byla krásná úvaha {Speculatione}; proto nechci, abyste se dnes večer dál namáhal. Zítra večer pak povíte zbytek.
+- typ: obrazek
+  soubor: drevorez-31.jpg
+  popis: Dělo na lafetě s mířidly C (zadní) a D (přední, nižší) a ústím H. Zorná čára (nápis LINEA VISVALE – zorná čára) vede od C přes D vodorovně doprava; dráha koule (nápis TRANSITO DELLA BALLA – dráha koule) vychází z ústí, protne zornou čáru poprvé v bodě I (terč na tyči), vystoupí nad ni k bodu K, znovu ji protne v bodě L (druhý terč na tyči) a pak se stáčí dolů přes bod M až svisle k bodu N, kde je nakreslena koule.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO OTTAVO FATTO DAL medesimo. S. Prior di Barletta.
+  cs: |-
+    Osmý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Hor seguitamo la materia de hiersera.
+  cs: |-
+    **Převor.** Pokračujme nyní ve včerejší látce.
+- typ: odstavec
+  de: |-
+    N. Hiersera (se ben mi aricordo) fu detto tutti gli effetti, ouer botte che puo occorrere, quando che per la molta cortezza, ouer bassezza della mira denanti rispetto à quella de drio, la nostra linea uisuale seghera il transito, ouer uiaggio qual debbe far la balla. Et questa sera uoglio dichiarire tutti gli effetti, ouer botte, che puo occorrere, quando che la detta mira de nanti non è talmente piu corta, ouer bassa della mira de drio, quanto ui si conuegneria, per la qual causa, la nostra linea uisuale non procede tanto al basso che si possa congiongere con il transito, ouer uiaggio qual debbe far la balla, e pero in simil caso, sempre la balla dara di sotto dal segno, perche per tutto tal luoco, ouer spacio, il transito della balla passa di sotto della nostra linea uisuale, uero è, che ui è un certo luoco, nel quale la nostra linea uisuale piu se appropinqua al detto transito della balla che in ogni altro luoco, e per tanto, se per caso il segno doue se tira de mira sara nel detto luoco, a ben che la balla dara di sotto da quello pur ui dara piu propinquo che in ogni altro luoco essempi gratia sia per figura lo sottoscritto pezzo di artegliaria; le due mire delquale siamo.c.&.d.& sia il transito della balla la linea.h.i.k.& sia pur la mira denanti, cioe la.d.alquanto piu corta, ouer piu bassa della.c.ma in tanta poca quantita che la linea uisuale che transira per le istremita di quelle (quala sia la linea.c.d.m.l.) non tocchi lo detto transito.h.i.k.et sia il ponto.m.il luoco di tal linea piu propinquo al detto transito di
+  cs: |-
+    **Nicolò.** Včera večer (dobře-li si vzpomínám) byly popsány všechny účinky čili rány, k nimž může dojít, když pro velkou krátkost čili nízkost předního mířidla {mira denanti} vzhledem k zadnímu {mira de drio} naše zorná čára {linea uisuale} protne dráhu {transito} čili cestu, kterou má koule vykonat. A dnes večer chci objasnit všechny účinky čili rány, k nimž může dojít, když přední mířidlo není o tolik kratší čili nižší než zadní, kolik by náleželo; proto naše zorná čára nevede tak nízko, aby se mohla s dráhou čili cestou koule setkat. V takovém případě koule vždy zasáhne pod cíl, protože na celém tomto místě čili úseku probíhá dráha koule pod naší zornou čárou. Je ovšem pravda, že je jisté místo, kde se naše zorná čára k dráze koule přibližuje víc než kdekoli jinde; a proto bude-li cíl, na který se míří, náhodou na tomto místě, koule sice zasáhne pod něj, ale přece blíž k němu než kdekoli jinde. Například: mějme na obrazci níže nakreslené dělo {pezzo di artegliaria}, jehož dvě mířidla {mire} jsou c a d, a dráha koule budiž čára h i k. Přední mířidlo, totiž d, budiž poněkud kratší čili nižší než c, ale o tak málo, aby se zorná čára vedoucí přes jejich vrcholy (kterou budiž čára c d m l) nedotkla uvedené dráhy h i k; a bod m budiž místo této čáry, které je k uvedené dráze blíž než

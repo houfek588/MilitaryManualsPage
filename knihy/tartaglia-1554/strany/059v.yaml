@@ -1,0 +1,35 @@
+id: 059v
+list: '59'
+strana: verso
+sken: 118
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    istromento à cadauna bacchetta piantata nel contorno del nostro sito, ouer paese, le qual bacchette, se non me inganno, sono pur .25. tamen in fatto proprio non uoleno esser tirate apparente (come di sopra nell'altro dissegno fu anchor detto) perche guastano la figura designata, ma solamente quelle del contorno uoleno esser tirate apparente, perche quelle sono che ne rappresentano la figura, & queste tale, che uoleno esser tirate, non le ho uoleste tirare, ma solamente ui ho annotato li ponti fermi, accio meglio si apprenda il modo operatiuo, li quali ponti fermi, che li congiongera con una linea retta, ouer curua, conuessa, ouer concaua, secondo il bisogno, se uedera rappresentarse una figuretta simile à quella del nostro sito, ouer paese.
+  cs: |-
+    nástroje ke každé tyčce {bacchetta} zaražené na obvodu našeho místa {sito} čili krajiny {paese}, a těch tyček je, nemýlím-li se, rovněž 25 –, při skutečné práci se přesto nemají rýsovat viditelně (jak bylo řečeno už výše u předchozí kresby), protože kazí zakreslený obrazec; viditelně se mají rýsovat jen čáry obvodu, neboť ty nám obrazec představují. A ty, které se rýsovat mají, jsem rýsovat nechtěl, nýbrž jsem tam vyznačil jen pevné body, aby se lépe pochopil pracovní postup. Kdo ty pevné body spojí přímou nebo křivou čarou, vypouklou nebo vydutou podle potřeby, uvidí, jak se objeví malý obrazec podobný obrazci našeho místa čili krajiny.
+- typ: obrazek
+  soubor: drevorez-118.jpg
+  popis: Buzola s dioptrou uprostřed, z jejíhož středu vychází 25 přímek neurčité délky (k tyčkám na obvodu krajiny z předchozího obrázku); na každé přímce je tečkou vyznačen pevný bod v odměřené vzdálenosti. Obrysové čáry krajiny nejsou narýsovány – vznikly by spojením těchto bodů.
+- typ: odstavec
+  de: |-
+    R. Anchora questa parte l'ho intesa benissimo, & uoglio che basti per hoggi.
+  cs: |-
+    **Richard.** I této části jsem porozuměl velmi dobře, a chci, aby to pro dnešek stačilo.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO QVARTO FATTO DAL medesimo. M. Richardo Ventuorth.
+  cs: Čtvrtý dotaz, který položil týž pan Richard Wentworth
+- typ: odstavec
+  de: |-
+    RICHARDO. Hor uorria Compare che me dichiarasti quel secondo modo de tuor in dissegno, che in principio dicesti, cio procedendo, ouer andando per la circonferentia, ouer contorno di tal sito, ouer paese.
+  cs: |-
+    **Richard.** Nyní bych si přál, kmotře, abyste mi vysvětlil onen druhý způsob zakreslování, o němž jste mluvil na začátku, totiž postupovat čili jít po obvodu neboli okraji místa či krajiny.
+- typ: odstavec
+  de: |-
+    N. Hauendo uoi ben inteso il primo modo, uoi ueniti hauer anchora inteso piu della mita di questo secondo, perche similmente uolendo proceder per la circonferentia di tal sito, ouer paese, essendo quello contenuto de lati, ouer linee rette nelli angoli de quello, ui bisogna pur mettere una bacchetta, ouer qualche altro signale da potere trasguardare, & dapoi piantare il detto nostro istromento in uno di suoi angoli, & quello assettarlo secondo l'ordine piu uolte detto, & dapoi trasguardare quella bacchetta, o altro signale, che sia nell'altro angolo auanti di se, & girare talmente la dioptra che la linea uisuale passi per quelli dui busettini (hauendo detti busettini) oueramente che la se incontri con quelle due ponte (hauendo dette ponte, quale à me mi pareno piu spediente) & dapoi notar sopra una pollicetta il uento, & numero di gradi per donde passara la detta linea uisuale (ilche la dioptra fara manifesto) & dapoi far misurare quanto é dal piede dell'istromento à quella bacchetta, o altro signale, che sara su l'altro angolo, & tal quantita de passa, à notarli su la pollicetta consequentemente drio à quello uento, & numero de gradi per
+  cs: |-
+    **Nicolò.** Když jste dobře porozuměl prvnímu způsobu, porozuměl jste už víc než polovině tohoto druhého. Neboť i když chceme postupovat po obvodu místa čili krajiny ohraničené stranami neboli přímkami, je třeba do jeho úhlů rovněž postavit tyčku {bacchetta} nebo nějaké jiné znamení, na něž lze zaměřit. Potom se náš nástroj zarazí v jednom z jeho úhlů a usadí podle řádu, o němž byla mnohokrát řeč, a pak se zaměří tyčka nebo jiné znamení, které je v dalším úhlu před ním, a dioptrou {dioptra} se otočí tak, aby zorná čára {linea uisuale} procházela oběma dírkami {busettini} (má-li je dioptra), nebo aby se setkal s oběma hroty (má-li je, a ty se mi zdají vhodnější). Potom se na lístek {pollicetta} zapíše vítr {uento} a počet stupňů, kudy zorná čára prochází (to ukáže dioptra), a potom se dá změřit, jak je to daleko od paty nástroje k té tyčce nebo jinému znamení, které bude v druhém úhlu, a ten počet kroků {passa} se zapíše na lístek hned za onen vítr a počet stupňů

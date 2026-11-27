@@ -1,0 +1,65 @@
+id: 027v
+list: '27'
+strana: verso
+sken: 54
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    che io ho morto alli miei giorni. 2000. uccelli (dico di piccioli) & la mia longa isperientia mi ha fatto chiaro di quello che uoi me haueti detto, e pero ogni uolta che mi occorre à tirare ad alcuno uccello che sia sopra à qualche alboro nella mia consueta distantia, io toglio sempre la mira alli piedi di tal uccello, ma essendo tal uccello in piano, io toglio la mira precisamente nel corpo di tal uccello, ilche facendo rare uolte tiro in fallo.
+  cs: |-
+    že jsem za svůj život zastřelil 2000 ptáků (myslím malých), a má dlouhá zkušenost mi potvrdila to, co jste mi řekl. Proto kdykoli mám střílet na nějakého ptáka, který sedí na stromě v mé obvyklé vzdálenosti, mířím vždy ptákovi na nohy; je-li však pták v rovině, mířím přesně do jeho těla. Když to tak dělám, zřídka chybím.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO VIGESIMOSESTO FATTO dal medesimo Schioppettiero.
+  cs: |-
+    Dvacátý šestý dotaz, který položil týž ručničář
+- typ: odstavec
+  de: |-
+    SCHIOPPETTIERO. Anchora ui uoglio adimandarui un'altro passo, qual è questo. Se con il detto mio schioppo uoglio tirare à un segno posto al basso, ma pur nella medesima distantia (detta di sopra) ue adimando se tal mia mira mi seruira, si come fa in piano, cioe se io daro in brocca, ouer di sopra, ouer di sotto dal detto segno.
+  cs: |-
+    **Ručničář.** Chci se vás zeptat ještě na jednu věc, a to tuto: když budu chtít z té své ručnice {schioppo} střílet na cíl {segno} umístěný níže, ale přece v téže vzdálenosti (o níž byla řeč výše), ptám se vás, zda mi mé mířidlo {mira} poslouží stejně jako ve vodorovné rovině, to jest zda trefím do středu {brocca}, nebo nad cíl, nebo pod něj.
+- typ: odstavec
+  de: |-
+    N. Senza dubbio che tal mira non ue seruiria in quella medesima distantia, per le medesime ragioni dette di sopra, ma uoi dareti pur anchora piu alto del segno, cioe di sopra dal detto segno.
+  cs: |-
+    **Nicolò.** Bez pochyby vám takové mířidlo v téže vzdálenosti neposlouží, a to z týchž důvodů, které byly uvedeny výše; i tentokrát trefíte výš než cíl, to jest nad něj.
+- typ: odstavec
+  de: |-
+    S. Voi dite pur anchor la uerita, perche ogni uolta che io tiro à alcun uccello che sia in qualche bassura, ouer dismontata, la longa sperientia mi ha fatto cauto che sempre piglio la mira pur nelli piedi di detto uccello, come faccio anchora à quelli che sono all'alta, cioe sopra à qualche arboro, ouer torre, & cosi facendo rare uolte tiro in fallo.
+  cs: |-
+    **Ručničář.** Opět mluvíte pravdu, neboť kdykoli střílím na nějakého ptáka, který je v nějaké prohlubni nebo níže na svahu, naučila mě dlouhá zkušenost, abych vždy mířil ptákovi na nohy, stejně jako to dělám u ptáků, kteří jsou vysoko, to jest na nějakém stromě nebo věži; a když to tak dělám, zřídka chybím.
+- typ: odstavec
+  de: |-
+    N. Io ho molto à caro, che la uostra longa isperientia ui habbia dato buona testimonianza, di quello che con ragioni naturale, ui ho conchiuso.
+  cs: |-
+    **Nicolò.** Velmi mě těší, že vaše dlouhá zkušenost dosvědčila to, co jsem vám vyvodil z přirozených důvodů.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO VIGESIMOSETTIMO fatto dal medesimo Schioppettiero.
+  cs: |-
+    Dvacátý sedmý dotaz, který položil týž ručničář
+- typ: odstavec
+  de: |-
+    SCHIOPPETIERO. Vn'altro passo ui ho anchora di adimandarui qual è questo, tirandosi con un schioppo à un bersaglio, ouer ad altro segno, de mira, & che per sorte la botta dia di sopra dal segno, trasportando poi il detto segno alquanto piu lontano, ouer ritirandosi il schioppettero alquanto piu in drio, & ritirando poi anchora de mira al detto segno, se adimanda se con tal tiro si dara piu alto, ouer piu basso dell'altro tiro.
+  cs: |-
+    **Ručničář.** Mám se vás zeptat ještě na jednu věc, a to tuto: když se z ručnice střílí mířenou ranou na terč {bersaglio} nebo na jiný cíl a rána {botta} náhodou padne nad cíl, a pak se cíl přenese o něco dál nebo ručničář ustoupí o něco dozadu a opět na cíl zamíří a vystřelí – ptám se, zda se touto ranou trefí výš, nebo níž než předešlou.
+- typ: odstavec
+  de: |-
+    N. In un simil caso alla seconda uolta si dara molto piu di sopra dal segno di quello si fece alla prima.
+  cs: |-
+    **Nicolò.** V takovém případě se podruhé trefí mnohem výš nad cíl, než se trefilo poprvé.
+- typ: odstavec
+  de: |-
+    S. Voi haueti detto la uerita, perche me accaduto à me uolendo inuestigare quanto tiraua de mira uno schioppo nuouo non piu tirato qual in una certa commune distantia mi daseua di sopra dal segno, et facendo trasportar piu di lontano il detto segno, cioe circa. 10. passa con speranza de dar in brocca, & ritirando al medesimo segno, io percossi molto piu di sopra dal segno alla seconda uolta che alla prima, la qual cosa, mi parue tanto fuora di ragione quanto dir se possa, perche à mi me parea, è pare anchora che allontanando il segno se doueria battere piu basso, di quello si faceua standoui piu appresso, e per tanto haueria molto accaro à intendere la causa di questo inconueniente.
+  cs: |-
+    **Ručničář.** Řekl jste pravdu, neboť se mi to stalo, když jsem chtěl vyzkoušet, jak míří nová ručnice, z níž se ještě nestřílelo. V jisté obvyklé vzdálenosti mi střílela nad cíl; dal jsem tedy cíl přenést dál, totiž asi o 10 kroků {passa}, v naději, že trefím do středu, a když jsem znovu vystřelil na týž cíl, zasáhl jsem podruhé mnohem výš nad cíl než poprvé. To se mi zdálo tak nerozumné, jak jen si lze představit, neboť jsem se domníval, a dosud se domnívám, že když se cíl vzdálí, mělo by se trefovat níž, než když se stojí blíž. Proto bych velmi rád pochopil příčinu tohoto rozporu.
+- typ: odstavec
+  de: |-
+    N. Questo non è inconueniente, anci è cosa conueniente à far quello che di ragion de fare, & inconueniente grandissimo saria se seguitasse
+  cs: |-
+    **Nicolò.** To není žádný rozpor; naopak je to v pořádku, děje se tu, co se podle rozumu dít má, a velikým rozporem by bylo, kdyby se to dělo

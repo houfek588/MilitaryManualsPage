@@ -1,0 +1,86 @@
+id: 002r
+list: '[2] r'
+strana: recto
+sken: 3
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: TAVOLA DE CIO CHE SI CONTIEN PARTICOLARMENTE IN CIASCVN LIBRO.
+  cs: Seznam toho, co je podrobně obsaženo v každé knize
+- typ: nadpis
+  uroven: 3
+  de: El soggetto delli Quesiti del primo libro.
+  cs: Předmět dotazů {Quesiti} první knihy
+- typ: seznam
+  de:
+  - |-
+    DI che sostantia sia la notitia della proportione delli tiri lontani e propinqui. a carte. 5. al Quesito primo
+  - |-
+    Come che una artegliaria fara maggior effetto nelli tiri elleuati che nelli aliuellati. a carte. 7. al Quesito secondo
+  - |-
+    Come che una balla tirata da una artegliaria mai ua per linea retta eccetto che rettamente in suso uerso el cielo, ouer rettamente in zoso uerso el centro del mondo. a car. 11. Q. 3
+  - |-
+    Come che tirando un pezzo due uolte luna drieto l'altra in un medesimo uerso, tirara piu alla seconda uolta che alla prima. a carte. 13. al Quesito. 4
+  - |-
+    Come che a tirar molte uolte continue un pezzo al fine tirara men lontano. a car. 13. al Q. 5
+  - |-
+    Donde procede che dagando piu poluer a un pezzo dara piu alto da quel segno doue con men poluere ue tiraua rettamente de mira. a car. 14. al Quesito. 6.
+  - |-
+    De tutti li effetti, ouer botte cha puo occorrere nel tirar de mira quando che la mira dauanti del pezzo e egualmente alta a quella da drio, o ueramente piu alta o ueramente piu bassa del suo douere. a carte. 14. al Quesito. 7.
+  - |-
+    De tutti li effetti, ouer botte che puo occorrere nel tirar de mira quando che la mira dauanti non e tanto piu corta di quella de drio quanto bisognaria. a car. 16. al Q. 8.
+  - |-
+    De tutti li effetti, ouer botte che puo occorrere nel tirar de mira quando che la mira dauanti ha la sua conueniente bassezza respetto a quella de drio. a car. 17. al Quesito. 9.
+  - |-
+    Donde puo proceder la causa quando che un pezzo da molto costero nel tirar de mira. a carte. 17. al Quesito. 10.
+  - |-
+    Come che el non e generale questa regola che quanto che un pezzo e piu longo di canna tanto piu tiri lontano, & come che nel far colobrine molto longhe è un error troppo manifesto & di molto danno. a car. 18. al Quesito. 11.
+  - |-
+    Della longhezza de tutte le specie de pezzi, & della quantita del metallo, che comunamente ue intra in cadauno de loro, et delli animali, che ui uol a condurli. a c. 19. al Q. 11.
+  - |-
+    Di quanta longhezza doueria esser la canna de cadaun pezzo a douer esser ben proportionata la longhezza. a car. 20. al Quesito. 12.
+  - |-
+    Come de necessita eglie un certo termine, ouer misura nel dar della poluere nel qual daendo piu, ouer men poluer al pezzo di quella tal misura sempre tal pezzo tirara manco. a car. 20. al Quesito. 13.
+  - |-
+    Qual sia meglio calcar benissimo la poluer nel pezzo ouer lassarla alquanto rara. a carte. 22. al Quesito. 14.
+  - |-
+    Qual è la causa che con un schioppo se tiri piu lontan de mira che non si fa con un archibuso & tamen lo archibuso fara maggior passata in un comun tramite del
+  cs:
+  - |-
+    V čem spočívá znalost proporce {proportione} dalekých a blízkých dostřelů {tiri}. – Na [[005r|listu 5]], dotaz první.
+  - |-
+    Že dělo {artegliaria} bude mít větší účinek při výstřelech s elevací {elleuati} než při výstřelech vodorovných {aliuellati}. – Na [[007r|listu 7]], dotaz druhý.
+  - |-
+    Že koule {balla} vystřelená z děla nikdy neletí po přímce, leda by šla přímo vzhůru k nebi nebo přímo dolů ke středu světa. – Na [[011r|listu 11]], dotaz 3.
+  - |-
+    Že když se z děla {pezzo} vystřelí dvakrát po sobě týmž směrem, dostřelí druhá rána dál než první. – Na [[013r|listu 13]], dotaz 4.
+  - |-
+    Že když se z děla střílí mnohokrát za sebou, nakonec dostřelí méně daleko. – Na [[013r|listu 13]], dotaz 5.
+  - |-
+    Odkud pochází, že když se dělu dá víc prachu {poluer}, zasáhne výš nad ten cíl {segno}, kam s menším množstvím prachu střílelo přesně po mířidlech {de mira}. – Na [[014r|listu 14]], dotaz 6.
+  - |-
+    O všech účincích čili ranách, které mohou nastat při střelbě po mířidlech, když je přední mířidlo {mira dauanti} děla stejně vysoké jako zadní, anebo vyšší, anebo nižší, než má být. – Na [[014r|listu 14]], dotaz 7.
+  - |-
+    O všech účincích čili ranách, které mohou nastat při střelbě po mířidlech, když přední mířidlo není o tolik kratší než zadní, kolik by bylo třeba. – Na [[016r|listu 16]], dotaz 8.
+  - |-
+    O všech účincích čili ranách, které mohou nastat při střelbě po mířidlech, když má přední mířidlo vůči zadnímu náležitou nízkost. – Na [[017r|listu 17]], dotaz 9.
+  - |-
+    Odkud může pocházet příčina, když dělo při střelbě po mířidlech bije hodně stranou. – Na [[017r|listu 17]], dotaz 10.
+  - |-
+    Že neplatí obecně pravidlo, že čím má dělo delší hlaveň {canna}, tím dál střílí, a že dělat velmi dlouhé kolubriny {colobrine} je až příliš zjevný a velmi škodlivý omyl. – Na [[018r|listu 18]], dotaz 11.
+  - |-
+    O délce všech druhů děl, o množství kovu, které obvykle do každého z nich přijde, a o tažných zvířatech, kterých je třeba k jejich dopravě. – Na [[019r|listu 19]], dotaz 11.[^1]
+  - |-
+    Jak dlouhá by měla být hlaveň každého děla, aby byla její délka dobře úměrná. – Na [[020r|listu 20]], dotaz 12.
+  - |-
+    Že nutně existuje určitá mez čili míra v dávce prachu, takže dá-li se dělu víc nebo méně prachu, než je tato míra, dělo vždy dostřelí méně daleko. – Na [[020r|listu 20]], dotaz 13.
+  - |-
+    Zda je lepší prach v děle velmi pevně upěchovat {calcar}, nebo jej nechat poněkud kypřejší. – Na [[022r|listu 22]], dotaz 14.
+  - |-
+    Jaká je příčina, že s ručnicí {schioppo} se po mířidlech střílí dál než s arkebuzou {archibuso}, a přece arkebuza dosáhne většího průrazu {passata} na stejnou vzdálenost jako
+poznamky:
+- n: 1
+  text: |-
+    Tisk uvádí u této i předchozí položky dotaz 11; tabulka délek a hmotností děl je skutečně součástí jedenáctého dotazu (listy 17 v – 19 r), dvanáctý dotaz začíná na listu 19 v.

@@ -1,0 +1,31 @@
+id: 006r
+list: '6'
+strana: recto
+sken: 11
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    come di sotto appare nella terza figura) se intende alla maggiore elleuatione, che elleuar si possa. (Dico un pezzo d'artigliaria, perche li mortari poi se possono elleuare in tutti li altri seguenti per fin al duodecimo ponto.) Et questo che habbiamo detto de i ponti, se debbe anchora intendere de i minuti, cioè, che quando, che uno pezzo sia talmente elleuato, che el perpendicolo caschi precisamente sopra la diuisione del primo minuto, cioè sopra la duodecima parte del primo ponto, tal pezzo s'intende esser elleuato uno minuto, & quando caschara sopra alli due minuti, s'intendera essere elleuato duoi minuti, il medesimo s'intendera de tutti li altri, per fin alla maggior elleuatione, cioè alla elleuatione del sesto ponto, ouero settantadue minuti, come nella detta terza figura appare: Li altri minuti che seguita per fino in capo, sono per le elleuationi di mortari.
+  cs: |-
+    jak je vidět níže na třetím obrazci), rozumí se, že je elevováno na největší elevaci {elleuatione}, na jakou je lze zvednout. (Říkám dělo {pezzo d'artigliaria}, protože moždíře {mortari} lze pak elevovat i na všechny další body až po dvanáctý.)[^1] A co jsme řekli o bodech {ponti}, je třeba rozumět také o minutách: když je dělo elevováno tak, že olovnice {perpendicolo} padne přesně na dělicí čáru první minuty, tj. na dvanáctý díl prvního bodu, rozumí se, že dělo je elevováno o jednu minutu, a když padne na dvě minuty, rozumí se, že je elevováno o dvě minuty; totéž platí o všech ostatních až po největší elevaci, tj. po elevaci šestého bodu čili sedmdesáti dvou minut, jak je vidět na zmíněném třetím obrazci. Ostatní minuty, které následují až do konce [stupnice], slouží pro elevace moždířů.
+- typ: odstavec
+  de: Pezzo aliuellato.
+  cs: Dělo vodorovně {aliuellato}.
+- typ: obrazek
+  soubor: drevorez-11.jpg
+  popis: |-
+    Těžké dělo na dvoukolové polní lafetě, jejíž ostruha leží na zemi; hlaveň je vodorovná. V ústí hlavně je vloženo delší rameno kvadrantu, kratší rameno visí svisle dolů a olovnice padá podél něho, tedy na nulovou čáru stupnice („pezzo aliuellato“ – dělo ve vodorovné poloze).
+- typ: odstavec
+  de: Pezzo elleuato un ponto, ouero dodici minuti.
+  cs: Dělo elevované o jeden bod čili dvanáct minut.
+- typ: obrazek
+  soubor: drevorez-11b.jpg
+  popis: |-
+    Totéž dělo na polní lafetě s hlavní mírně zdviženou. Kvadrant vložený do ústí je pootočen, olovnice padá na dělicí čáru prvního bodu stupnice (elevace o jeden bod čili dvanáct minut).
+poznamky:
+- n: 1
+  text: |-
+    Šest bodů kvadrantu odpovídá 45°, největší elevaci, na niž se běžné dělo na lafetě zvedá a při níž podle Tartaglii dostřelí nejdál; body 7–12 (52,5°–90°; jeden bod = 7,5°) slouží jen pro strmou střelbu z moždířů.

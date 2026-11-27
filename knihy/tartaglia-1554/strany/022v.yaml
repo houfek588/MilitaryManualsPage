@@ -1,0 +1,51 @@
+id: 022v
+list: '22'
+strana: verso
+sken: 44
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO DECIMOSETTIMO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: |-
+    Sedmnáctý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Diteme un poco, se per caso in qualche improuiso assalto ne fusse inchiodate le artegliarie, saria possibile à ritrouar un modo, che fusse spediente & presto di poter ipso facto, cioe de subito dischiodar le dette artegliarie, dico de subito, perche molti dicono saper far, & fanno certa acqua, ouer olio, qual ponendolo sopra el foro inchiodato corode quel ferro talmente, che dischiodano quel tal pezzo. Alcuni altri ho inteso, che fanno el medesimo con un trappano, cioe per el modo che usano à farui il primo buso, nondimeno cadauno di questi modi uoleno tempo assai, & massime essendoui molto numero de pezzi da deschiodare, & io uoria ritrouar un modo, se possibel fusse, di poterle dischiodar con cellerita, & prestezza.
+  cs: |-
+    **Převor.** Povězte mi trochu: kdyby nám při nějakém nenadálém útoku byla děla {artegliarie} zatlučena {inchiodate},[^1] bylo by možné najít způsob, který by byl pohodlný a rychlý, jak ta děla ipso facto, totiž ihned, odtlouci? Říkám ihned, protože mnozí tvrdí, že umějí udělat – a také dělají – jakousi vodu nebo olej, který, když se nalije na zatlučený otvor {foro}, rozleptá ono železo tak, že dělo odtlučou. O jiných jsem slyšel, že totéž dělají vrtákem {trappano}, totiž týmž způsobem, jakým se vrtá první otvor. Každý z těchto způsobů však vyžaduje mnoho času, zvláště je-li děl k odtlučení velký počet; a já bych rád našel způsob, je-li to možné, jak je odtlouci rychle a pohotově.
+- typ: odstavec
+  de: |-
+    N. A me mi pare, che tal cosa se potria fare (se non me inganno) à recargare tutte le dette artegliaria, con balle alquanto scarsette, cioe, che non uadano molto serrate nel pezzo, & dapoi che sono cargate, metterle à segno uerso al luoco doue potria occorrer il bisogno, cioe come proprio se faria, quando che loro non fusseno inchiodate, & dapoi farui una sementella di poluere nel fondo della canna, che uada dalla bocca del pezzo, per fin alla balla di cadauna artegliaria, & per non tirarle frustamente aspettar la occasione, & occorrendo la occasione da tirarle, darui il fuoco per la bocca, onde oltra che faranno li suoi effetti ordinarij, tutte nel discargarse penso se dischioderanno, & getteranno fuora quel chiodo, ouer ponta di ferro con che furono inchiodate: & cosi facendo de tal inchiodatura se uenira à non patirne alcun senistro ouer disconzo.
+  cs: |-
+    **Nicolò.** Mně se zdá, že by se to dalo udělat (nemýlím-li se) tak, že by se všechna ta děla znovu nabila poněkud menšími koulemi {balle}, totiž takovými, které v děle {pezzo} nesedí příliš těsně. Po nabití by se namířila na místo, kde by mohla nastat potřeba, totiž právě tak, jako by se to udělalo, kdyby zatlučena nebyla. Potom by se po dně hlavně {canna} nasypala prachová stopa {sementella} vedoucí od ústí děla až ke kouli každého děla; a aby se z nich nestřílelo naprázdno, vyčkalo by se příležitosti, a když by nastala příležitost z nich vystřelit, zapálila by se ústím. Tak by kromě toho, že by měla svůj obvyklý účinek, při výstřelu podle mne všechna sama odtloukla a vyhodila ven onen hřeb čili železný hrot, kterým byla zatlučena. Když se tak učiní, nevznikne z takového zatlučení žádná škoda ani nesnáz.
+- typ: odstavec
+  de: |-
+    P. Certo questo è bello, e molto spediente, & non credo, che si potesse ritrouar modo meglio di questo, domente che nel discargarse facciano questo effetto, che haueti detto di gettarne quel chiodo, ouer ponta di ferro, con che furno inchiodate.
+  cs: |-
+    **Převor.** Jistě je to krásné a velmi pohotové, a nevěřím, že by se dal najít lepší způsob než tento – jen když budou mít při výstřelu ten účinek, o kterém jste mluvil, totiž že vyhodí ven onen hřeb čili železný hrot, kterým byla zatlučena.
+- typ: odstavec
+  de: |-
+    N. Senza dubbio lo gittaranno.
+  cs: |-
+    **Nicolò.** Bez pochyby jej vyhodí.
+- typ: odstavec
+  de: |-
+    P. Et se per caso alcuna non lo gettasse, per esserui forsi piu fissamente posto delle altre, che rimedio ui si potria aggiongere.
+  cs: |-
+    **Převor.** A kdyby jej snad některé nevyhodilo, protože by v něm byl zaražen pevněji než v ostatních, jaký lék by se tu dal přidat?
+- typ: odstavec
+  de: |-
+    N. Cargarla, & tirarla un'altra uolta per el medesimo modo, uero è che ui gettasse sopra la inchiodatura un poco di oglio caldissimo scaldando anchora prima el luoco doue è la inchiodatura con carbon acceso, poi con creda farui sopra un uasetto attorno el buso, che ritenga quello olio caldo, che ui si ponera, il che facendo el buco con quel ferro interposto, per la sua calidita, sorbiranno quello olio caldo, la qual cosa fara quel tal ferro piu lubricoso ad uscire. Anchora se dapoi che si hauera posta, & assettata la poluere nel mezzo (innanti che ui se ponga la balla) sara fatto uno buso con una asta nella detta poluere, el quale penetri per fin in fondo della canna del ditto pezzo, cioe che uada à referire appresso al detto buso inchiodato, tal cautella non sara fora di proposito in questo caso: Et credo, che questa supplira senza operar altramente olio caldo.
+  cs: |-
+    **Nicolò.** Nabít je a vystřelit znovu týmž způsobem; bylo by však dobré nalít na zatlučené místo trochu velmi horkého oleje, když se předtím ještě místo se zatlučeným hřebem nahřeje řeřavým uhlím, a pak kolem otvoru {buso} udělat z hlíny malou nádobku, která by nalitý horký olej udržela. Když se to učiní, otvor i zaražené železo pro své teplo onen horký olej vsají, a to železo učiní kluzčím, takže snáze vyjde. A dále: když se prach {poluere} vloží a usadí doprostřed (dříve, než se vloží koule), a udělá se do něj tyčí otvor, který by pronikl až na dno hlavně toho děla, totiž aby vedl až k onomu zatlučenému otvoru, nebude taková opatrnost v tomto případě od věci; a myslím, že to postačí i bez horkého oleje.
+- typ: odstavec
+  de: |-
+    P. Questo credo anchora mi, perche nel discargarse, la furia del fuoco troua tutte le comissure mal comesse, & pero non credo che ui sia debisogno à preparar la materia con olio caldo, ne fredo, altramente. Et perche credo sia hora da cena, non uoglio procediamo piu oltra, et per lauenire, non uoglio che piu parlamo della artegliaria, ma che intramo in qualche altra ingeniosa materia, perche circa alle cose della artegliaria, io non so piu che adimandarui.
+  cs: |-
+    **Převor.** To si myslím i já, neboť při výstřelu najde zuřivost ohně všechny špatně spojené spáry, a proto nevěřím, že by bylo zapotřebí připravovat věc horkým olejem ani studeným, ani jinak. A protože už je myslím čas večeře, nechci, abychom pokračovali dál; a nadále už nechci, abychom mluvili o dělostřelectvu {artegliaria}, nýbrž abychom se pustili do nějaké jiné důmyslné látky, neboť o věcech dělostřelectva se vás už nemám nač ptát.
+poznamky:
+- n: 1
+  text: Inchiodare l’artiglieria – zatlouci dělo, tj. zarazit do zápalového otvoru železný hřeb, aby se z děla nedalo vystřelit; běžný způsob, jak nepřítel při výpadu nebo ústupu vyřadil zajatá či opuštěná děla.

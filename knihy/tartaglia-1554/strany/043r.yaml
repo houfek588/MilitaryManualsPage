@@ -1,0 +1,55 @@
+id: 043r
+list: '43'
+strana: recto
+sken: 85
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: LIBRO QVARTO DELLI QVESITI ET INVENTIONI DIVERSE, DE NICOLO TARTAGLIA.
+  cs: Čtvrtá kniha Rozličných otázek a vynálezů Niccola Tartaglii
+- typ: odstavec
+  de: |-
+    Sopra l'ordinar delle schiere, ouer esserciti in battaglia sotto uarie & diuerse forme, & del modo de far caminar quelli, con altre uarie particolarita.
+  cs: |-
+    O řazení šiků {schiere} čili vojsk {esserciti} k bitvě v rozličných a různých podobách a o způsobu, jak je vést na pochodu, s jinými rozličnými podrobnostmi.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO PRIMO FATTO DAL Conte Hieronimo da Piagnano.
+  cs: První dotaz, který položil hrabě Hieronimo da Piagnano[^1]
+- typ: odstavec
+  de: |-
+    CONTE HIERONIMO. Volendo io redure una quantita de Fanti, ouer un essercito in una battaglia quadra di gente, ue domando in che modo, ouer con che regola potria sapere quanti Fanti se doueria mettere per fila.
+  cs: |-
+    **Hrabě Hieronimo.** Kdybych chtěl postavit určitý počet pěšáků {Fanti} nebo vojsko do šiku čtvercového co do mužstva {battaglia quadra di gente}[^2], ptám se vás, jakým způsobem či podle jakého pravidla bych mohl zjistit, kolik pěšáků se má postavit do řady {fila}.
+- typ: odstavec
+  de: |-
+    N. Pigliando la radice quadrata di quel tal numero de Fanti, e tanto quanto sara quella tal radice, tanti Fanti se ne douera mettere per fila.
+  cs: |-
+    **Nicolò.** Vezme se druhá odmocnina {radice quadrata} z toho počtu pěšáků; a kolik bude činit ta odmocnina, tolik pěšáků se má postavit do řady.
+- typ: odstavec
+  de: |-
+    C.H. Datime uno essempio in uno piccolo numero, perche ue intendero meglio.
+  cs: |-
+    **Hrabě Hieronimo.** Dejte mi příklad na malém čísle, protože tak vám lépe porozumím.
+- typ: odstavec
+  de: |-
+    N. Poniamo che sia .100. Fanti, dico che uolendoli mettere in una ordinanza, ouer battaglia quadra di gente, il se debbe cauare la radice quadra de .100. quala come, sapeti è .10. hor dico che mettendo .10. de questi Fanti per fila faranno file .10. à .10. Fanti per fila, le quale .10. file assettandole ordinatamente l'una drieto all'altra, talmente che tutti li interualli che sara fra Fante, è Fante, si dalle bande, come dauanti, & de drio stano equali, tai .100. Fanti formaranno una figura quadrata, si di gente, come di terreno, come di sotto appare in figura.
+  cs: |-
+    **Nicolò.** Dejme tomu, že je 100 pěšáků. Pravím, že chceme-li je postavit do šiku {ordinanza} čili bitevního šiku čtvercového co do mužstva, je třeba vytáhnout druhou odmocninu ze 100, která je, jak víte, 10. Nuže, postavíme-li z těchto pěšáků 10 do řady, bude 10 řad po 10 pěšácích v řadě; a když se těchto 10 řad rozestaví spořádaně jedna za druhou tak, aby všechny mezery mezi pěšákem a pěšákem, jak po stranách, tak vpředu i vzadu, byly stejné, vytvoří těch 100 pěšáků čtvercový obrazec jak co do mužstva, tak co do plochy {terreno}, jak je vidět níže na obrazci.
+- typ: obrazek
+  soubor: drevorez-85.jpg
+  popis: Šik ze 100 pěšáků sázený z teček – 10 řad po 10 tečkách ve čtverci se stejnými rozestupy. Nahoře nápis „Testa“ (hlava, tj. čelo šiku), po obou stranách svisle „Fianco“ (bok).
+- typ: odstavec
+  de: |-
+    MA perche in effetto li Fanti posti in ordinanza non stanno, ne caminano, come di sopra è sta supposto, cioe in eguale distantie, perche ogni Fante (come afferma Vegetio) uol per larghezza piedi tre, cioe da spalla, à spalla, & per longhezza piedi .7. cioe piedi .3. dauanti di se, & piedi .3. de drio, & un piede uol che occupi la sua persona, per la qual cosa la soprascritta ordinanza, stando li Fanti secondo le
+  cs: |-
+    Protože však pěšáci postavení do šiku ve skutečnosti nestojí ani nepochodují tak, jak bylo výše předpokládáno, totiž ve stejných rozestupech – každý pěšák totiž (jak tvrdí Vegetius[^3]) potřebuje na šířku tři stopy {piedi}, totiž od ramene k rameni, a na délku 7 stop, totiž 3 stopy před sebou, 3 stopy za sebou a jednu stopu, kterou má zaujímat jeho vlastní osoba –, nebude výše zapsaný šik, stojí-li pěšáci podle
+poznamky:
+- n: 1
+  text: Hrabě Hieronimo (Girolamo) da Piagnano – podle přídomku z rodu hrabat z Piagnana (hrad u Sassocorvara v Montefeltru, v urbinském vévodství); osoba blíže neurčena. S Tartagliou vede první tři dotazy čtvrté knihy.
+- n: 2
+  text: Battaglia quadra di gente – šik, v němž je v každé řadě tolik mužů, kolik je řad (čtverec co do počtu mužů); na rozdíl od šiku čtvercového co do plochy (quadra di terreno), který zabírá čtvercový kus terénu.
+- n: 3
+  text: Flavius Vegetius Renatus, pozdně antický autor spisu Epitoma rei militaris; o rozestupech pěšáků v šiku píše ve 3. knize (kap. 14–15). Tartaglia jeho údaje přebírá volně.

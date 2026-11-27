@@ -1,0 +1,1451 @@
+# Glosář a věcný rejstřík – Niccolò Tartaglia, Quesiti et inventioni diverse (Benátky 1554)
+# Originál je ITALSKY: pole `de` obsahuje italské tvary z tisku. Build je normalizuje (kniha.yaml → jazyk: it):
+# bez diakritiky, u = v, i = j = y, bez h, bez koncové samohlásky – artiglieria / artegliarie / Artigliaria se
+# shodují, odlišný kmen (artegliaria × artiglieria) je ale třeba vypsat. Formát podle PRAVIDLA_PREKLADU.md.
+
+kategorie:
+  delostrelectvo: Dělostřelectvo, střelba a munice
+  zbrane: Zbraně a výstroj
+  jednotky: Vojsko, jednotky a šiky
+  velitele: Velitelé, úřady a hodnosti
+  opevneni: Opevnění a obléhání
+  mereni: Měření, přístroje a geometrie
+  miry: Míry, váhy a mince
+  osoby: Osoby
+  mista: Místa a národy
+hesla:
+- id: delostrelectvo
+  cs: dělostřelectvo
+  de:
+  - artiglieria
+  - artegliaria
+  - artigliaria
+  - artegliarie
+  - artigliarie
+  - artiglierie
+  kategorie: delostrelectvo
+  hledat:
+  - \bdělostřelectv\w*
+  pozn: Artiglieria – souhrnně děla a jejich obsluha; v textu často i jednotlivé dělo („un pezzo d’artiglieria“).
+- id: delo
+  cs: dělo
+  de:
+  - pezzo
+  - pezzo d'artiglieria
+  - pezzo d'artegliaria
+  - pezzi d'artegliaria
+  - pezzi d'artiglieria
+  - pezzo di artegliaria
+  - pezzo di artiglieria
+  - pezzi di artegliaria
+  kategorie: delostrelectvo
+  hledat:
+  - \bděl(o|a|u|em|ech|ům|y)\b
+  - \bděl\b
+- id: delostrelec
+  cs: dělostřelec
+  de:
+  - bombardiero
+  - bombardero
+  - bombardiere
+  - bombardieri
+  kategorie: velitele
+  hledat:
+  - \bdělostřelc\w*
+  - \bdělostřelec\b
+  pozn: Bombardiero – dělostřelec, mistr děla (něm. Büchsenmeister); s Tartagliou vede většinu rozhovorů první knihy.
+- id: kolubrina
+  cs: kolubrina
+  de:
+  - colubrina
+  - colobrina
+  - colubrine
+  kategorie: delostrelectvo
+  hledat:
+  - \bkolubrin\w*
+  pozn: Colubrina (kulverina, něm. Schlange) – dlouhé dělo menší ráže na daleké střely.
+- id: sakr
+  cs: sakr
+  de:
+  - sacro
+  - sagro
+  kategorie: delostrelectvo
+  hledat:
+  - \bsakr(|u|em|y|ů|ech)\b
+  pozn: Sacro – lehčí kulverina (asi 6–12 liber).
+- id: falkon
+  cs: falkon
+  de:
+  - falcone
+  - falconi
+  kategorie: delostrelectvo
+  hledat:
+  - \bfalkon(|u|em|y|ů)\b
+- id: falkonet
+  cs: falkonet
+  de:
+  - falconetto
+  - falconetti
+  kategorie: delostrelectvo
+  hledat:
+  - \bfalkonet\w*
+- id: mozdir
+  cs: moždíř
+  de:
+  - mortaro
+  - mortari
+  - mortaio
+  kategorie: delostrelectvo
+  hledat:
+  - \bmoždíř\w*
+- id: bombarda
+  cs: bombarda
+  de:
+  - bombarda
+  kategorie: delostrelectvo
+  hledat:
+  - \bbombard(a|y|u|ou|ě|ám|ách)\b
+- id: kanon
+  cs: kanon
+  de:
+  - cannone
+  - canone
+  - cannoni
+  - mezzo cannone
+  - canon
+  kategorie: delostrelectvo
+  hledat:
+  - \bkanon\w*
+- id: arkebuza
+  cs: arkebuza
+  de:
+  - archibuso
+  - archibugio
+  - arcobuso
+  - archibusi
+  kategorie: zbrane
+  hledat:
+  - \barkebuz\w*
+- id: arkebuzir
+  cs: arkebuzír
+  de:
+  - archibusiero
+  - archibusieri
+  - archibugiero
+  - archibugieri
+  - archibuseri
+  - archibusero
+  kategorie: jednotky
+  hledat:
+  - \barkebuzír\w*
+- id: rucnice
+  cs: ručnice
+  de:
+  - schioppo
+  - schioppi
+  - scoppio
+  kategorie: zbrane
+  hledat:
+  - \bručnic\w*
+- id: koule
+  cs: koule
+  de:
+  - balla
+  - palla
+  kategorie: delostrelectvo
+  hledat: []
+  pozn: Balla – dělová koule (olověná, železná, kamenná); hmotnost koule určuje „ráži“ děla v librách.
+- id: prach
+  cs: střelný prach
+  de:
+  - polvere
+  - poluere
+  - poluer
+  - poluer grossa
+  - poluere grossa
+  - poluer fina
+  - poluere fina
+  kategorie: delostrelectvo
+  hledat:
+  - \bstřeln\w* prach\w*
+- id: ledek
+  cs: ledek
+  de:
+  - salnitro
+  - salnitrio
+  - salnitri
+  kategorie: delostrelectvo
+  hledat:
+  - \bledk\w*
+  - \bledek\b
+- id: sira
+  cs: síra
+  de:
+  - solfo
+  - zolfo
+  - solfere
+  kategorie: delostrelectvo
+  hledat:
+  - \bsír(a|y|u|ou)\b
+- id: uhel-drevene
+  cs: dřevěné uhlí
+  de:
+  - carbone
+  - carboni
+  kategorie: delostrelectvo
+  hledat:
+  - \bdřevěn\w* uhl\w*
+- id: kvadrant
+  cs: kvadrant
+  de:
+  - squadra
+  - squadra del bombardiero
+  kategorie: mereni
+  hledat:
+  - \bkvadrant\w*
+  pozn: Squadra – Tartagliův dělostřelecký úhloměr (kvadrant s olovnicí, 12 dílů = 90°), vkládaný do hlavně k nastavení elevace.
+- id: elevace
+  cs: elevace
+  de:
+  - elevatione
+  - elleuatione
+  - eleuatione
+  - elleuationi
+  kategorie: mereni
+  hledat:
+  - \belevac\w*
+  pozn: Elleuatione – zdvih hlavně nad vodorovnou rovinu, měřený v bodech kvadrantu (12 bodů = 90°).
+- id: bod-kvadrantu
+  cs: bod (kvadrantu)
+  de:
+  - ponto
+  - punto
+  - ponti
+  - punti
+  kategorie: mereni
+  hledat: []
+- id: dostrel
+  cs: dostřel
+  de:
+  - tiro
+  - tiri
+  kategorie: delostrelectvo
+  hledat:
+  - \bdostřel\w*
+  pozn: Tiro – výstřel i dráha a vzdálenost střely; „tiro di punto in bianco“ = přímý výstřel na vodorovně namířené dělo.
+- id: prima-strela
+  cs: přímý výstřel
+  de:
+  - punto in bianco
+  - di punto in bianco
+  - ponto in bianco
+  kategorie: delostrelectvo
+  hledat:
+  - \bpřím\w* výstřel\w*
+- id: miridlo
+  cs: mířidlo
+  de:
+  - mira
+  - mire
+  - mira dauanti
+  - mira de drio
+  - mira dauante
+  - de mira
+  kategorie: delostrelectvo
+  hledat:
+  - \bmířidl\w*
+- id: hlaven
+  cs: hlaveň
+  de:
+  - canna
+  kategorie: delostrelectvo
+  hledat:
+  - \bhlav(eň|ně|ni|ní|ních)\b
+- id: usti
+  cs: ústí (děla)
+  de:
+  - bocca
+  - bocca del pezzo
+  kategorie: delostrelectvo
+  hledat:
+  - \bústí\b
+  - \bústím\b
+  pozn: Bocca – ústí hlavně; „bocca“ u Tartaglii neznamená ráži.
+- id: lafeta
+  cs: lafeta
+  de:
+  - carretta
+  - cassa
+  - ceppo
+  kategorie: delostrelectvo
+  hledat:
+  - \blafet\w*
+- id: nabijak
+  cs: nabiják
+  de:
+  - calcatore
+  - calcator
+  kategorie: delostrelectvo
+  hledat:
+  - \bnabiják\w*
+  - \bpěch\w*
+- id: zapal
+  cs: zápal
+  de:
+  - focone
+  - fogone
+  kategorie: delostrelectvo
+  hledat:
+  - \bzápal(|u|em)\b
+- id: sik
+  cs: šik
+  de:
+  - squadrone
+  - squadroni
+  - ordinanza
+  - ordinanze
+  - schiera
+  - schiere
+  - battaglia
+  - Battaglia
+  kategorie: jednotky
+  hledat:
+  - \bšik(|u|em|y|ů|ům|ách|ích)\b
+  pozn: Squadrone / ordinanza / schiera – sestava pěchoty (šik); squadra je u Tartaglii převážně přístroj (kvadrant).
+- id: rota
+  cs: řada (v šiku)
+  de:
+  - fila
+  - file
+  - filo
+  kategorie: jednotky
+  hledat: []
+  pozn: Fila – řada mužů v šiku (řada / rota podle smyslu); Tartaglia počítá šiky jako čtverce a obdélníky.
+- id: pikenyr
+  cs: pikenýr
+  de:
+  - picca
+  - picche
+  - piccheri
+  - picchieri
+  kategorie: jednotky
+  hledat:
+  - \bpikenýr\w*
+  - \bpík\w*
+- id: piechota
+  cs: pěchota
+  de:
+  - fanteria
+  - fanti
+  - fante
+  kategorie: jednotky
+  hledat:
+  - \bpěchot\w*
+  - \bpěš(í|ích|ím)\b
+- id: jizda
+  cs: jízda
+  de:
+  - caualli
+  - cavalleria
+  - caualleria
+  - huomini d'arme
+  kategorie: jednotky
+  hledat:
+  - \bjízd\w*
+  - \bjezdc\w*
+- id: vojsko
+  cs: vojsko
+  de:
+  - essercito
+  - esserciti
+  - exercito
+  kategorie: jednotky
+  hledat:
+  - \bvojsk\w*
+- id: kapitan
+  cs: kapitán
+  de:
+  - capitano
+  - capitanio
+  - capitani
+  kategorie: velitele
+  hledat:
+  - \bkapitán\w*
+- id: generalni-kapitan
+  cs: generální kapitán
+  de:
+  - capitano generale
+  - capitanio generale
+  kategorie: velitele
+  hledat:
+  - \bgenerální\w* kapitán\w*
+- id: kondotier
+  cs: kondotiér
+  de:
+  - condottiero
+  - condottieri
+  kategorie: velitele
+  hledat:
+  - \bkondotiér\w*
+- id: inzenyr
+  cs: inženýr
+  de:
+  - ingegnero
+  - ingegniero
+  - ingegneri
+  kategorie: velitele
+  hledat:
+  - \binženýr\w*
+- id: buzola
+  cs: buzola
+  de:
+  - bossolo
+  - bussola
+  - bossoli
+  - bossoletto
+  kategorie: mereni
+  hledat:
+  - \bbuzol\w*
+  pozn: Bossolo – kompas s dělenou kruhovou stupnicí; Tartaglia jím zaměřuje úhly mezi body krajiny a půdorysy měst (kniha V).
+- id: pudorys
+  cs: půdorys
+  de:
+  - pianta
+  - piante
+  kategorie: mereni
+  hledat:
+  - \bpůdorys\w*
+- id: mesto
+  cs: město
+  de:
+  - città
+  - citta
+  - cittade
+  kategorie: opevneni
+  hledat: []
+- id: opevneni
+  cs: opevnění
+  de:
+  - fortezza
+  - fortezze
+  - fortificatione
+  - fortificationi
+  kategorie: opevneni
+  hledat:
+  - \bopevněn\w*
+- id: basta
+  cs: bašta
+  de:
+  - baluardo
+  - baloardo
+  - baluardi
+  - baloardi
+  - bastione
+  - bastioni
+  - bastion
+  kategorie: opevneni
+  hledat:
+  - \bbašt\w*
+- id: kurtina
+  cs: kurtina
+  de:
+  - cortina
+  - cortine
+  kategorie: opevneni
+  hledat:
+  - \bkurtin\w*
+- id: hradba
+  cs: hradba
+  de:
+  - muro
+  - mura
+  - muraglia
+  - muraglie
+  kategorie: opevneni
+  hledat:
+  - \bhradb\w*
+  - \bhradeb\b
+- id: val
+  cs: val
+  de:
+  - terrapieno
+  - terrapieni
+  kategorie: opevneni
+  hledat:
+  - \bval(|u|em|y|ů|ech)\b
+- id: prikop
+  cs: příkop
+  de:
+  - fossa
+  - fosse
+  - fosso
+  kategorie: opevneni
+  hledat:
+  - \bpříkop\w*
+- id: kasemata
+  cs: kasemata
+  de:
+  - casamatta
+  - casematta
+  - casamatte
+  kategorie: opevneni
+  hledat:
+  - \bkasemat\w*
+- id: strilna
+  cs: střílna
+  de:
+  - cannoniera
+  - cannoniere
+  - troniera
+  - troniere
+  - canonere
+  - canonera
+  - cannonera
+  - bombardera
+  - bombardiera
+  kategorie: opevneni
+  hledat:
+  - \bstříln\w*
+  - \bstřílen\b
+- id: bok
+  cs: bok (bašty)
+  de:
+  - fianco
+  - fianchi
+  kategorie: opevneni
+  hledat: []
+- id: mina
+  cs: mina
+  de:
+  - mina
+  - mine
+  kategorie: opevneni
+  hledat:
+  - \bmin(a|y|u|ou|ami|ách)\b
+  - \bpodkop\w*
+- id: obleheni
+  cs: obléhání
+  de:
+  - assedio
+  - oppugnatione
+  - batteria
+  kategorie: opevneni
+  hledat:
+  - \bobléh\w*
+  - \bostřelov\w*
+- id: nedobytny
+  cs: nedobytný
+  de:
+  - inespugnabile
+  - inexpugnabile
+  kategorie: opevneni
+  hledat:
+  - \bnedobytn\w*
+- id: libra
+  cs: libra
+  de:
+  - libra
+  - libre
+  - lira
+  - lire
+  - lira alla sottile
+  - lira alla grossa
+  kategorie: miry
+  hledat:
+  - \blib(ra|ry|er|ru|rou|rách|rám)\b
+- id: unce
+  cs: unce
+  de:
+  - oncia
+  - oncie
+  - onza
+  - onze
+  kategorie: miry
+  hledat:
+  - \bunc(e|í|ím|ích)\b
+- id: loket
+  cs: loket
+  de:
+  - braccio
+  - braccia
+  - brazzo
+  - brazza
+  - brazzi
+  kategorie: miry
+  hledat:
+  - \blok(et|te|tů|tech|tům|ty)\b
+  pozn: Braccio – italský loket (v Benátkách asi 64–68 cm); Tartaglia jím měří vzdálenosti i rozměry děl.
+- id: krok
+  cs: krok
+  de:
+  - passo
+  - passi
+  kategorie: miry
+  hledat:
+  - \bkrok(|y|ů|ech|ům)\b
+  pozn: Passo – míra délky (benátský krok = 5 stop, asi 1,74 m); dostřely jsou udávány v krocích.
+- id: stopa
+  cs: stopa
+  de:
+  - piede
+  - piedi
+  - pie
+  kategorie: miry
+  hledat:
+  - \bstop(a|y|u|ou|ách|ám)\b
+- id: mile
+  cs: míle
+  de:
+  - miglio
+  - miglia
+  - miglia italiane
+  kategorie: miry
+  hledat:
+  - \bmíl(e|í|ích|ím)\b
+- id: dukat
+  cs: dukát
+  de:
+  - ducato
+  - ducati
+  kategorie: miry
+  hledat:
+  - \bdukát\w*
+- id: proporce
+  cs: proporce
+  de:
+  - proportione
+  - proportioni
+  kategorie: mereni
+  hledat:
+  - \bpropor\w*
+- id: ctverec
+  cs: čtverec
+  de:
+  - quadrato
+  - quadro
+  kategorie: mereni
+  hledat: []
+- id: odmocnina
+  cs: odmocnina
+  de:
+  - radice
+  - radici
+  - radice quadrata
+  - radice quadra
+  kategorie: mereni
+  hledat:
+  - \bodmocnin\w*
+- id: euklides
+  cs: Eukleidés
+  de:
+  - Euclide
+  kategorie: osoby
+  hledat:
+  - \bEukleid\w*
+- id: jindrich-viii
+  cs: Jindřich VIII.
+  de:
+  - Henrico Ottavo
+  kategorie: osoby
+  hledat:
+  - \bJindřich\w* VIII
+  pozn: Jindřich VIII. Tudor, anglický král (1509–1547), jemuž Tartaglia dílo roku 1546 věnoval; věnování ponecháno i ve vydání 1554.
+- id: vevoda-urbinsky
+  cs: vévoda z Urbina
+  de:
+  - Duca d'Urbino
+  - Duca de Urbino
+  kategorie: osoby
+  hledat:
+  - \bvévod\w* z Urbina
+  pozn: Francesco Maria I. della Rovere (1490–1538), vrchní velitel benátských vojsk; jeden z Tartagliových tazatelů.
+- id: turci
+  cs: Turci
+  de:
+  - Turchi
+  - Turco
+  kategorie: mista
+  hledat:
+  - \bTur(ci|ků|kům|ky|ek|kem)\b
+  - \bturec\w*
+- id: benatky
+  cs: Benátky
+  de:
+  - Venetia
+  - Vinegia
+  - Venegia
+  kategorie: mista
+  hledat:
+  - \bBenát\w*
+- id: verona
+  cs: Verona
+  de:
+  - Verona
+  kategorie: mista
+  hledat:
+  - \bVeron\w*
+- id: turin
+  cs: Turín
+  de:
+  - Turino
+  - Torino
+  kategorie: mista
+  hledat:
+  - \bTurín\w*
+- id: cil
+  cs: cíl
+  de:
+  - segno
+  - segni
+  - bersaglio
+  kategorie: delostrelectvo
+  hledat:
+  - \bcíl\w*
+  pozn: Segno – terč, cíl střelby; „tirar di mira al segno“ = mířit na cíl.
+- id: zorna-cara
+  cs: zorná čára
+  de:
+  - linea uisuale
+  - linea visuale
+  - linee uisuali
+  kategorie: mereni
+  hledat:
+  - \bzorn\w* čár\w*
+  - \bzáměrn\w* přímk\w*
+  pozn: Linea visuale – přímka od zadního přes přední mířidlo k cíli; Tartaglia ji srovnává s dráhou koule.
+- id: draha
+  cs: dráha (střely)
+  de:
+  - transito
+  - tramito
+  - tramite
+  - uiaggio
+  - viaggio
+  kategorie: delostrelectvo
+  hledat:
+  - \bdráh\w*
+  pozn: 'Transito / viaggio – křivka letu koule: nejdřív přímý „násilný“ pohyb, pak oblouk a nakonec přirozený pád.'
+- id: dioptra
+  cs: dioptra
+  de:
+  - dioptra
+  - diopra
+  - trasguardo
+  kategorie: mereni
+  hledat:
+  - \bdioptr\w*
+  - \bprůzor\w*
+  pozn: Otočné zaměřovací pravítko s průzory nad buzolou (kniha V).
+- id: rana
+  cs: rána (výstřel)
+  de:
+  - botta
+  - botte
+  kategorie: delostrelectvo
+  hledat:
+  - \brán(a|y|u|ou|ě)\b
+- id: krajina
+  cs: krajina
+  de:
+  - paese
+  - paesi
+  kategorie: mereni
+  hledat: []
+- id: vodorovne
+  cs: vodorovná poloha
+  de:
+  - aliuello
+  - a liuello
+  - aliuellato
+  - aliuellata
+  - aliuellati
+  - liuello
+  kategorie: mereni
+  hledat:
+  - \bvodorovn\w*
+  pozn: A livello – hlaveň vodorovně, s elevací 0; „tiro aliuellato“ = vodorovný výstřel.
+- id: klin
+  cs: klín (šik)
+  de:
+  - cuneo
+  - cunei
+  - forma cunea
+  kategorie: jednotky
+  hledat:
+  - \bklín\w*
+  pozn: Šik ve tvaru klínu (trojúhelníku) hrotem k nepříteli; Tartaglia učí převést čtverec v klín (kniha IV).
+- id: vyvrt
+  cs: vývrt (hlavně)
+  de:
+  - foro
+  - uacuo
+  - vacuo
+  - uacuo della canna
+  kategorie: delostrelectvo
+  hledat:
+  - \bvývrt\w*
+- id: ctverec-muzstva
+  cs: šik čtvercový co do mužstva
+  de:
+  - battaglia quadra di gente
+  - forma quadra di gente
+  - quadra di gente
+  - quadro di gente
+  kategorie: jednotky
+  hledat:
+  - \bco do mužstva
+  pozn: Šik se stejným počtem řad a mužů v řadě; protože muži stojí v řadě hustěji než za sebou, je na zemi delší než široký.
+- id: ctverec-plochy
+  cs: šik čtvercový co do plochy
+  de:
+  - battaglia quadra di terreno
+  - forma quadra di terreno
+  - quadra di terreno
+  - quadro di terreno
+  kategorie: jednotky
+  hledat:
+  - \bco do plochy
+  pozn: Šik, který zabírá na zemi čtverec (s ohledem na rozestupy v řadě a mezi řadami).
+- id: celo
+  cs: čelo (šiku)
+  de:
+  - fronte
+  - frontera
+  - fronti
+  kategorie: jednotky
+  hledat: []
+  pozn: Fronte – přední strana šiku; v obrazcích šiků je nápis „fronte“.
+- id: tycka
+  cs: tyčka (měřická)
+  de:
+  - bacchetta
+  - bacchette
+  kategorie: mereni
+  hledat:
+  - \btyč\w*
+  pozn: Tyčka zaražená v rohu měřeného pozemku jako zaměřovací bod.
+- id: pruraz
+  cs: průraz
+  de:
+  - passata
+  - passate
+  kategorie: delostrelectvo
+  hledat:
+  - \bprůraz\w*
+  pozn: Passata – průstřel, hloubka, do které koule pronikne cílem.
+- id: stred-cile
+  cs: střed (cíle)
+  de:
+  - brocca
+  - in brocca
+  kategorie: delostrelectvo
+  hledat: []
+  pozn: Brocca – střed terče („dar in brocca“ = trefit přesně).
+- id: vitr
+  cs: vítr (směr)
+  de:
+  - uento
+  - uenti
+  - vento
+  - venti
+  - Tramontana
+  - Ostro
+  - Sirocco
+  - Leuante
+  - Levante
+  - Ponente
+  - Greco
+  - Maistro
+  - Garbino
+  - Libeccio
+  - Maestro
+  kategorie: mereni
+  hledat:
+  - \bvětr\w*
+  - \bvítr\b
+  pozn: 'Osm větrů = osm hlavních směrů na buzole: Tramontana – sever, Greco – severovýchod, Levante – východ, Sirocco – jihovýchod, Ostro – jih, Garbino (Libeccio) – jihozápad, Ponente – západ, Maistro – severozápad.'
+- id: nasep
+  cs: násep
+  de:
+  - argine
+  - argini
+  - argenetti
+  - argenetto
+  - arginetto
+  kategorie: opevneni
+  hledat:
+  - \bnásp\w*
+  - \bnásep\b
+  pozn: Argine – hliněný násep (val) před příkopem nebo za ním.
+- id: sikovatel
+  cs: šikovatel
+  de:
+  - Sargente
+  - sargente
+  - Sargenti
+  - sargenti
+  kategorie: velitele
+  hledat:
+  - \bšikovatel\w*
+  pozn: Sargente – poddůstojník, který staví šiky a řadí muže.
+- id: meritko
+  cs: měřítko
+  de:
+  - scala
+  - schala
+  kategorie: mereni
+  hledat:
+  - \bměřítk\w*
+- id: kavalir
+  cs: kavalír
+  de:
+  - caualliero
+  - cauallieri
+  - cauallero
+  - caualleri
+  - caualleretto
+  - caualleretti
+  - cavalliero
+  kategorie: opevneni
+  hledat:
+  - \bkavalír\w*
+  pozn: Cavaliere – vyvýšená dělová plošina na baště nebo za kurtinou, z níž se střílí přes hradbu do pole.
+- id: nuzky
+  cs: nůžky (šik)
+  de:
+  - forfice
+  - forbice
+  kategorie: jednotky
+  hledat:
+  - \bnůžk\w*
+  pozn: Šik ve tvaru rozevřeného V, který přijímá nepřátelský klín.
+- id: pila
+  cs: pila (šik)
+  de:
+  - serra
+  - sega
+  kategorie: jednotky
+  hledat: []
+  pozn: Šik se zubatým čelem.
+- id: rohaty-sik
+  cs: rohatý šik
+  de:
+  - battaglia cornuta
+  - forma cornuta
+  kategorie: jednotky
+  hledat:
+  - \brohat\w* šik\w*
+- id: kruzitko
+  cs: kružítko
+  de:
+  - compasso
+  - compassi
+  kategorie: mereni
+  hledat:
+  - \bkružítk\w*
+- id: operny-pilir
+  cs: opěrný pilíř
+  de:
+  - contraforti
+  - contraforte
+  kategorie: opevneni
+  hledat:
+  - \bopěrn\w* pilíř\w*
+  pozn: Contraforte – zděný pilíř za hradbou, který drží val (terrapieno).
+- id: prst
+  cs: prst (míra)
+  de:
+  - dedo
+  - deda
+  - deta
+  - dito
+  - diti
+  kategorie: miry
+  hledat:
+  - \bprst\w*
+  pozn: Dito – šířka prstu, asi 1/16 stopy; Tartaglia jím měří průměry koulí.
+- id: rotul
+  cs: rotul
+  de:
+  - rotuli
+  - rotulo
+  kategorie: miry
+  hledat:
+  - \brotul\w*
+  pozn: Rotulo – váhová jednotka jižní Itálie a Levanty, v níž jsou udány průměry koulí (kniha II).
+- id: strelka
+  cs: střelka
+  de:
+  - lancetta
+  - lanzetta
+  kategorie: mereni
+  hledat:
+  - \bstřelk\w*
+  pozn: Magnetická střelka buzoly.
+- id: listek
+  cs: lístek (zápis měření)
+  de:
+  - policetta
+  - pollicetta
+  - poliza
+  - polizza
+  kategorie: mereni
+  hledat:
+  - \blístk\w*
+  - \blístek\b
+  pozn: Polizzetta – lístek, kam se zapisují změřené úhly a vzdálenosti.
+- id: svah
+  cs: svah (líce hradby)
+  de:
+  - scarpa
+  kategorie: opevneni
+  hledat:
+  - \bsvah\w*
+  pozn: Scarpa – šikmo odkloněný líc hradby nebo valu.
+- id: predpoli
+  cs: předpolí
+  de:
+  - campagna
+  kategorie: opevneni
+  hledat:
+  - \bpředpol\w*
+- id: rucnicar
+  cs: ručničář
+  de:
+  - Schioppettero
+  - schioppettero
+  - schioppetteri
+  kategorie: jednotky
+  hledat:
+  - \bručničář\w*
+- id: olovnice
+  cs: olovnice
+  de:
+  - perpendicolo
+  - perpendicoli
+  - piombino
+  kategorie: mereni
+  hledat:
+  - \bolovnic\w*
+- id: nasilny-pohyb
+  cs: násilný pohyb
+  de:
+  - moto uiolente
+  - moto violente
+  - motto uiolente
+  kategorie: mereni
+  hledat:
+  - \bnásiln\w* pohyb\w*
+  pozn: 'Pojem aristotelské fyziky: pohyb vnucený tělesu zvenčí (výstřelem), na rozdíl od přirozeného pohybu (pádu k zemi).'
+- id: prirozeny-pohyb
+  cs: přirozený pohyb
+  de:
+  - moto naturale
+  - moto natural
+  kategorie: mereni
+  hledat:
+  - \bpřirozen\w* pohyb\w*
+- id: zaver
+  cs: závěr (děla)
+  de:
+  - culatta
+  kategorie: delostrelectvo
+  hledat:
+  - \bzávěr\w*
+- id: magnetovec
+  cs: magnetovec
+  de:
+  - calamita
+  kategorie: mereni
+  hledat:
+  - \bmagnetovc\w*
+  - \bmagnetovec\b
+- id: zakopnik
+  cs: zákopník
+  de:
+  - guastadori
+  - guastatori
+  - guastadore
+  kategorie: jednotky
+  hledat:
+  - \bzákopník\w*
+  pozn: Guastatore – pomocný dělník vojska (kopání příkopů, šancí, cest).
+- id: galera
+  cs: galéra
+  de:
+  - galia
+  - galea
+  - galee
+  - galie
+  kategorie: zbrane
+  hledat:
+  - \bgalér\w*
+- id: ucpavka
+  cs: ucpávka
+  de:
+  - stroppaioni
+  - stroppaglio
+  - stoppaccio
+  - stroppaccio
+  kategorie: delostrelectvo
+  hledat:
+  - \bucpávk\w*
+  pozn: Zátka z koudele nebo sena, která drží prach a kouli v hlavni.
+- id: zatlouci
+  cs: zatlučení (děla)
+  de:
+  - inchiodate
+  - inchiodato
+  - inchiodar
+  - inchiodare
+  - dischiodare
+  - inchiodatura
+  kategorie: delostrelectvo
+  hledat:
+  - \bzatluč\w*
+  - \bzatlouc\w*
+  pozn: Inchiodare – zatlouct hřeb do zápalu a tím dělo vyřadit.
+- id: zrneni
+  cs: zrnění prachu
+  de:
+  - grana
+  - granata
+  - granare
+  kategorie: delostrelectvo
+  hledat: []
+  pozn: Granare – zrnit prach (protlačit vlhkou směs sítem). Podle Tartaglii se zrní jen jemný prach do ručnic a arkebuz, hrubý dělový prach se nezrní.
+- id: lod
+  cs: loď
+  de:
+  - naue
+  - naui
+  - nave
+  kategorie: zbrane
+  hledat: []
+- id: vypar
+  cs: výpar (větrnost)
+  de:
+  - essalatione
+  - essalatione uentosa
+  - uentosita
+  - ventosita
+  kategorie: delostrelectvo
+  hledat:
+  - \bvýpar\w*
+  - \bvětrnost\w*
+  pozn: Exhalatio – „větrný výpar“, který podle Tartaglii vzniká z hořícího prachu a vyhání kouli; dobová představa o síle výstřelu.
+- id: prachova-stopa
+  cs: prachová stopa
+  de:
+  - sementella
+  - sementelle
+  kategorie: delostrelectvo
+  hledat:
+  - \bprachov\w* stop\w*
+  pozn: Sementella – stopa (cestička) prachu, kterou se zapaluje nálož.
+- id: slevac
+  cs: slévač děl
+  de:
+  - gettadore
+  - gettadori
+  - gettador di artegliaria
+  - Gettador di Artegliaria
+  kategorie: velitele
+  hledat:
+  - \bslévač\w*
+- id: nacelnik-delostrelcu
+  cs: náčelník dělostřelců
+  de:
+  - capo de bombardieri
+  - Capo de Bombardieri
+  - capo di bombardieri
+  kategorie: velitele
+  hledat:
+  - \bnáčelník\w* dělostřelc\w*
+- id: bod-dotyku
+  cs: bod dotyku
+  de:
+  - toccamento
+  kategorie: mereni
+  hledat:
+  - \bbod\w* dotyku
+  pozn: Místo, kde se zorná čára dotkne dráhy koule.
+- id: prusecik
+  cs: průsečík
+  de:
+  - interseccatione
+  - intersecatione
+  - interseccationi
+  kategorie: mereni
+  hledat:
+  - \bprůsečík\w*
+  pozn: Místo, kde zorná čára protíná dráhu koule.
+- id: aspid
+  cs: aspid
+  de:
+  - aspide
+  - aspidi
+  kategorie: delostrelectvo
+  hledat:
+  - \baspid\w*
+  pozn: Aspide – lehčí dělo kolubrinového typu.
+- id: passavolante
+  cs: passavolante
+  de:
+  - passauolante
+  - passavolante
+  - passauolanti
+  kategorie: delostrelectvo
+  hledat:
+  - \bpassavolant\w*
+  pozn: Passavolante – dlouhé lehké dělo na daleké střely.
+- id: kortald
+  cs: kortald
+  de:
+  - cortaldo
+  - cortaldi
+  kategorie: delostrelectvo
+  hledat:
+  - \bkortald\w*
+  pozn: Cortaldo – krátké dělo (houfnicového typu) na kamenné koule.
+- id: plocha-basta
+  cs: plochá bašta
+  de:
+  - forma piatta
+  - forme piatte
+  - piatta forma
+  kategorie: opevneni
+  hledat:
+  - \bploch\w* bašt\w*
+  pozn: Piattaforma – plochá bašta uprostřed kurtiny.
+- id: vez
+  cs: věž
+  de:
+  - torrione
+  - torrioni
+  - torre
+  - torri
+  kategorie: opevneni
+  hledat:
+  - \bvěž\w*
+  - \bvěží\b
+- id: plosina
+  cs: plošina (dělová)
+  de:
+  - piazza
+  - piazze
+  kategorie: opevneni
+  hledat:
+  - \bplošin\w*
+  pozn: Piazza – dělové stanoviště na baště nebo kavalíru.
+- id: predprsen
+  cs: předprseň
+  de:
+  - parapetto
+  - parapetti
+  kategorie: opevneni
+  hledat:
+  - \bpředpr\w*
+- id: merlon
+  cs: merlon (zub cimbuří)
+  de:
+  - merlone
+  - merloni
+  - merli
+  kategorie: opevneni
+  hledat:
+  - \bmerlon\w*
+- id: protimina
+  cs: protiminová chodba
+  de:
+  - contramina
+  - contramine
+  kategorie: opevneni
+  hledat:
+  - \bprotimin\w*
+- id: kryta-cesta
+  cs: krytá cesta
+  de:
+  - strada coperta
+  kategorie: opevneni
+  hledat:
+  - \bkryt\w* cest\w*
+- id: zdvihaci-most
+  cs: zdvíhací most
+  de:
+  - ponte leuatore
+  - ponte leuador
+  - ponti leuatori
+  kategorie: opevneni
+  hledat:
+  - \bzdvíhac\w* most\w*
+  - \bpadac\w* most\w*
+- id: zakop
+  cs: zákop
+  de:
+  - trincea
+  - trincee
+  - trinciera
+  kategorie: opevneni
+  hledat:
+  - \bzákop(|u|y|ů|ech)\b
+- id: obruc
+  cs: obruč (buzoly)
+  de:
+  - armilla
+  kategorie: mereni
+  hledat:
+  - \bobruč\w*
+- id: stupen
+  cs: stupeň (úhlový)
+  de:
+  - grado
+  - gradi
+  kategorie: mereni
+  hledat:
+  - \bstupn\w*
+  - \bstupeň\b
+- id: stanoviste
+  cs: stanoviště (měřické)
+  de:
+  - statione
+  - stationi
+  kategorie: mereni
+  hledat:
+  - \bstanovišt\w*
+- id: pid
+  cs: píď
+  de:
+  - spanna
+  - spanne
+  kategorie: miry
+  hledat:
+  - \bpíd(|i|ě|í|ích)\b
+  - \bpíď\b
+- id: sold
+  cs: sold (mince)
+  de:
+  - soldo
+  - soldi
+  kategorie: miry
+  hledat:
+  - \bsold(|ů|y|u)\b
+  pozn: Benátský soldo = 1/20 liry.
+- id: marcello
+  cs: marcello (mince)
+  de:
+  - marcello
+  - marcelli
+  kategorie: miry
+  hledat:
+  - \bmarcell\w*
+  pozn: Benátská stříbrná mince (10 soldů).
+- id: balista
+  cs: balista
+  de:
+  - balista
+  - baliste
+  - balestra
+  kategorie: zbrane
+  hledat:
+  - \balist\w*
+  pozn: Antický vrhací stroj; Tartaglia počítá podle Vitruvia jeho rozměry.
+- id: arzenal
+  cs: Arzenál
+  de:
+  - Arsenale
+  - Arsenal
+  - Arzenale
+  kategorie: mista
+  hledat:
+  - \bArzenál\w*
+  pozn: Benátská státní loděnice a zbrojnice.
+- id: trojclenka
+  cs: trojčlenka
+  de:
+  - regola del tre
+  - regola de tre
+  kategorie: mereni
+  hledat:
+  - \btrojčlenk\w*
+- id: treti-odmocnina
+  cs: třetí odmocnina
+  de:
+  - radice cuba
+  kategorie: mereni
+  hledat:
+  - \btřetí\w* odmocnin\w*
+- id: lzice
+  cs: lžíce (nabíjecí)
+  de:
+  - cazza
+  - cucchiara
+  - cucchiaro
+  kategorie: delostrelectvo
+  hledat:
+  - \blžíc\w*
+  pozn: Měděná lžíce na dlouhé násadě, kterou se do děla vkládá prach.
+- id: vazky
+  cs: váhy (vážky)
+  de:
+  - bilanza
+  - bilanze
+  kategorie: mereni
+  hledat:
+  - \bvážk\w*
+  - \bváh(y|ách)\b
+- id: minuta
+  cs: minuta (úhlová)
+  de:
+  - minuto
+  - minuti
+  kategorie: mereni
+  hledat:
+  - \bminut\w*
+- id: ctvrtkruh
+  cs: čtvrtkruh
+  de:
+  - quadrante
+  - quadranti
+  kategorie: mereni
+  hledat:
+  - \bčtvrtkruh\w*
+  pozn: Kvadrant kruhu, ze kterého je zhotoven dělostřelecký kvadrant (squadra).
+- id: poloha-rovnosti
+  cs: poloha rovnosti
+  de:
+  - sito della equalita
+  - sito de equalita
+  kategorie: mereni
+  hledat:
+  - \bpoloh\w* rovnosti
+  - \bmíst\w* rovnosti
+  pozn: Rovnováha vah (statika).
+- id: kosoctverec
+  cs: kosočtverec (šik)
+  de:
+  - rhombo
+  - rombo
+  - figura Rhombica
+  - forma rhombea
+  kategorie: jednotky
+  hledat:
+  - \bkosočtver\w*
+  pozn: Šik ve tvaru kosočtverce.
+- id: pouzdro
+  cs: pouzdro (buzoly)
+  de:
+  - scatolina
+  - scatola
+  kategorie: mereni
+  hledat:
+  - \bpouzd\w*
+- id: tabor
+  cs: tábor (ležení)
+  de:
+  - alloggiamento
+  - alloggiamenti
+  kategorie: opevneni
+  hledat:
+  - \btábo\w*
+  - \bležen\w*

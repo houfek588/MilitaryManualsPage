@@ -1,0 +1,35 @@
+id: 019v
+list: '19'
+strana: verso
+sken: 58
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: DE HAVERE AD SCRIVERE E fare legere ad altri di lonzi senza messagio Capitolo XXXVII.
+  cs: Jak psát a dávat druhým číst na dálku bez posla. Kapitola XXXVII.
+- typ: odstavec
+  de: |-
+    VNo modo de scriuere da longi quando si puo uedere cioe de notte, & ancho de di, ma da presso non molto da longi, la cosa e questa, che uerbi gratia quando uno capitano e assediato in una terra da uno grosso campo che non si potesse intrare nissuno dentro con littera, ouero quelli dentro non potessero uscire fora con littere, adchi conuenisse de sapere lo bisogno loro, bisogna pigliare questo intendimento de arte luna & laltra parte che se hanno da dare auiso fra loro, El modo e questo, che quello che da auiso che lo tegna scripto in mano, & quello che lara da copiare et legere bisogna che habia carta, & chalamero, con questo alphabetto qui sottoscritto & intenderai.
+  cs: |-
+    [Zde je] způsob, jak psát na dálku, pokud je vidět – v noci, ale i ve dne –, avšak zblízka, ne příliš zdaleka. Věc je tato: když je například kapitán {capitano} obležen ve městě {terra} velkým vojskem {campo}[^1], takže nikdo nemůže proniknout dovnitř s listem, anebo obránci nemohou vyjít ven s listy k tomu, kdo by se měl dozvědět o jejich potřebě, musejí si obě strany, které si mají navzájem podávat zprávy, osvojit toto umění. Způsob je tento: kdo zprávu podává, ať ji má napsanou v ruce, a kdo ji bude opisovat a číst, musí mít papír a kalamář. S touto abecedou, která je zde níže napsána, porozumíš.
+- typ: tabulka
+  de:
+  - ['1 1 1 1 1 1 1 1 1 1', '2 2 2 2 2 2 2 2 2']
+  - ['a b c d e f g h i l', 'm n o p q r s t u']
+  - ['Con uno lume questa parte', 'Con doi lume questa parte.']
+  cs:
+  - ['1 1 1 1 1 1 1 1 1 1', '2 2 2 2 2 2 2 2 2']
+  - ['a b c d e f g h i l', 'm n o p q r s t u']
+  - ['Tato část jedním světlem', 'Tato část dvěma světly.']
+- typ: odstavec
+  de: |-
+    Per intendere piu chiaramente lo modo dele sopraditte littere e da notare che la prima parte dele littere fin ad l si dimostra con uno lume, & la seconda parte comenciando da, m, fin ad, u, se demonstra con doi lumi, & quella littera che ci bisogna che si scriua se ha da pigliare quando lo lume se ferma, cioe quando se hauesse da scriuere Baptista bisogna pensare che B, e la prima littera e sta nella prima parte, lo lume bisogna che per ciascuna uolta se nasconda incominciando a, b, & ferma, quel lo altro scriue, b, poi mostra lo lume unaltra uolta & ferma che, a, per laltra littera comenza con
+  cs: |-
+    Abyste lépe pochopili způsob s výše uvedenými písmeny, je třeba poznamenat, že první část písmen až po l se ukazuje jedním světlem {lume} a druhá část, počínaje m až po u, dvěma světly. Písmeno, které se má napsat, se určí tehdy, když se světlo zastaví[^2]. Kdyby se například mělo psát Baptista, je třeba si uvědomit, že B je první písmeno a je v první části. Světlo se musí při každém [písmenu] skrýt, počínaje a, b, a pak se zastaví; ten druhý napíše b. Potom se světlo ukáže ještě jednou a zastaví se, což je a. Další písmeno se začne
+poznamky:
+- n: 1
+  text: 'Campo – polní vojsko, ležení obléhatelů.'
+- n: 2
+  text: 'Princip optické telegrafie: světlo (pochodeň, lucerna) se pro každé písmeno ukazuje a skrývá tolikrát, kolikáté je písmeno v abecedě své skupiny, a pak se nechá stát („se ferma“); počet světel (jedno, nebo dvě) určuje, zda jde o první (a–l), nebo druhou (m–u) skupinu abecedy o 19 písmenech (bez j, k, v). Příklad se jménem Baptista – autorovým křestním jménem – je v tisku nepřesný (viz pokračování na 20 r).'

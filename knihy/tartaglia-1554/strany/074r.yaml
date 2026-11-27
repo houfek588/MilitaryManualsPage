@@ -1,0 +1,39 @@
+id: 074r
+list: '74'
+strana: recto
+sken: 147
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    potesse guardare: onde facendo langolo di tal baluardo acuto, ueneria debelissimo, tal che con facilita potria esser ruinato da nemici con le artegliarie.
+  cs: |-
+    střežit. Kdyby se pak úhel takové bašty {baluardo} udělal ostrý, byla by velmi slabá, takže by ji nepřátelé mohli snadno rozbořit dělostřelectvem {artegliarie}.
+- typ: odstavec
+  de: |-
+    S. M. Perche causa seguitaria, che se langolo del baluardo fusse eguale, ouer maggiore del angolo compreso dalle due cortine, esser impossibile à poter esser guardato dalli dui circostanti baluardi, & manco da alcun cauallero, che fusse sopra à l'una, e l'altra cortina.
+  cs: |-
+    **Pan Marcantonio.** Z jaké příčiny by plynulo, že kdyby úhel bašty byl roven úhlu sevřenému oběma kurtinami {cortine} nebo větší, nemohly by ji střežit obě sousední bašty, a tím méně nějaký kavalír {cauallero}, který by byl na jedné či druhé kurtině?
+- typ: odstavec
+  de: |-
+    N. Signor Magnifico, per assignar la causa di questo, supponamo, che langolo compreso da due cortine sia langolo .a.b.c. & che le dette due cortine, ouer che la istension di quelle sia secondo le due linee .a.b. & .b.c. hor uolendo constituir rettamente un baluardo sopra à tal angolo .a.b.c. diuideremo tal angolo in due parti equali (secondo l'ordine dato da Euclide nella nona del primo) con la linea .d.b.e.f. & in qual ponto ne parera nella linea istrinsica .b.e.f. constituiremo un angolo (per la .31. del primo di Euclide) equale à quel angolo, che ne parera di fare langolo del nostro baluardo, ma farlo con tal conditione, che tal angolo sia diuiso pur in due parti equali dalla detta linea .b.e.f. & questo si fara facendo la mita di tal angolo da una banda, & l'altra mita dall'altra di detta linea, hor supponemo, che questo tal angolo sia langolo .g.e.h. hor dico, che se tal angolo .g.e.h. sara equale, ouer maggiore del angolo .a.b.c. esser impossibile à poter fare in alcun luoco della cortina .a.b. una canonera, che possa uedere, ne tirare, ne difendere lo lato .g.e. del detto baluardo. Il medesimo dico della cortina .c.b. cioe esser impossibile di fare in alcun luoco di quella una canonera, ouer bombardera, che possa uedere, ne tirare, ne difendere l'altro lato .e.h. del detto baluardo, la qual cosa se dimostra in questo modo, se tutto langolo .g.e.h. è equale a tutto langolo .a.b.c. anchora la mitta di l'uno
+  cs: |-
+    **Nicolò.** Urozený pane, abych uvedl příčinu, předpokládejme, že úhel sevřený dvěma kurtinami je úhel a.b.c. a že obě kurtiny neboli jejich průběh jdou podle dvou čar a.b. a b.c. Chceme-li nyní správně zřídit na takovém úhlu a.b.c. baštu, rozdělíme tento úhel na dvě stejné části (postupem, který podal Eukleidés {Euclide} v deváté [větě] první [knihy])[^1] čarou d.b.e.f.; a v kterémkoli bodě vnější čáry b.e.f., který uznáme za vhodný, zřídíme úhel (podle 31. [věty] první [knihy] Eukleidovy)[^2] rovný tomu úhlu, jaký chceme dát úhlu naší bašty, avšak s tou podmínkou, aby i tento úhel byl uvedenou čarou b.e.f. rozdělen na dvě stejné části. To se udělá tak, že se polovina úhlu vynese na jednu stranu té čáry a druhá polovina na druhou. Předpokládejme nyní, že tento úhel je úhel g.e.h. Pak pravím, že bude-li úhel g.e.h. roven úhlu a.b.c. nebo větší, nebude možné udělat na žádném místě kurtiny a.b. střílnu {canonera}, která by mohla vidět, ostřelovat či bránit stranu g.e. této bašty. Totéž říkám o kurtině c.b., totiž že na žádném jejím místě nebude možné udělat střílnu neboli dělovou střílnu {bombardera}, která by mohla vidět, ostřelovat či bránit druhou stranu e.h. této bašty. To se dokazuje takto: je-li celý úhel g.e.h. roven celému úhlu a.b.c., bude i polovina jednoho
+- typ: obrazek
+  soubor: drevorez-147.jpg
+  popis: |-
+    Geometrický obrazec: dvě silné čáry z bodů A (vlevo dole) a C (vpravo dole) se sbíhají v bodě B a tvoří tupý úhel A.B.C. (průběh dvou kurtin zalomených k sobě). Svislá osa úhlu jde zdola od bodu D přes B, E až k F. Nad bodem B je obrys malé bašty s hrotem v bodě E a zaoblenými boky (ušima) u bodů G (vlevo) a H (vpravo); úhel bašty je G.E.H., rozpůlený osou E.B.
+- typ: odstavec
+  de: |-
+    (per communa scientia) sara eguale alla mitta de l'altro, e pero langolo .g.e.b. sara eguale al angolo .a.b.d. onde (per la .28. del primo di Euclide) le due linee .g.e. & .a.b. saranno equidistante, & per le medesime ragioni la linea .e.h. sara equidistante alla
+  cs: |-
+    (podle obecné poučky)[^3] rovna polovině druhého, a proto bude úhel g.e.b. roven úhlu a.b.d.; odtud (podle 28. [věty] první [knihy] Eukleidovy) budou obě čáry g.e. a a.b. rovnoběžné, a ze stejných důvodů bude čára e.h. rovnoběžná s
+poznamky:
+- n: 1
+  text: Eukleidés, Základy I, 9 – rozpůlení daného úhlu. Tartaglia sám vydal italský překlad Eukleida (Benátky 1543).
+- n: 2
+  text: Sestrojení úhlu rovného danému je Základy I, 23; věta I, 31 je vedení rovnoběžky daným bodem. Odkaz tisku je patrně chybný, nebo Tartaglia myslí sestrojení pomocí rovnoběžky.
+- n: 3
+  text: Communa scientia – „obecná poučka“ (axiom) Eukleidových Základů; zde, že poloviny stejných veličin jsou si rovny.

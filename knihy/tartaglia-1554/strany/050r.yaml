@@ -1,0 +1,38 @@
+id: 050r
+list: '50'
+strana: recto
+sken: 99
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    N. Poniamo, essempi gratia, che li fanti, con li quali se desidera di uoler formar el rhombo siano .320. dico, che si debbono partire in due parti equali, che de tal partimento ne uenira fanti .160. per parte, & de l'una di queste parti se ne debbe far uno cuneo secondo l'ordine datto nel quinto Quesito, el qual fatto si trouara auanzar fanti .16. (per le ragioni adutte nel detto quinto Quesito) cioe ui mancara fanti noue à compire la detta ultima fila de tal primo rhombo, hor dico, che tal fila si debbe compire con li fanti dell'altra mita, cioe pigliarne quelli fanti .19. che ui manca, che nel detto primo rhombo uenira à esser fanti .169. & nell'altra parte uenira à restare solamente fanti .151. con i quali formandone l'altro rhombo, sopra la ultima fila del primo, la qual ultima fila sara de fanti uinticinque, onde bisognara sopra di quella assettaruene un'altra fila de dui fanti manco, cioe de fanti uintitre, & di sopra à quella de detti fanti uintitre assettaruene un'altra de fanti uintiuno, & sopra à quella de fanti uintiuno, un'altra de fanti desnoue, & sopra à quella de fanti desnoue un'altra de fanti diecisette, & cosi andar procedando sempre con dui fanti manco, per fina à tanto che se peruenira alla fila d'un fante solo (come di sopra appar in figura) uero è, che si trouara in ultimo auanzar fanti sette, li quali il facente Sargente li assettara secondo il suo parere, & cosi con tal modo, & ordine se potra redure in una simel ordinanza ogni grande essercito, & potranno uoltarse, & caminar facendo de spalle fronte, & simelmente de qual si uoglia fianco.
+  cs: |-
+    **Nicolò.** Dejme tomu například, že pěšáků {fanti}, z nichž chceme vytvořit kosočtverec {rhombo}, je 320. Pravím, že je třeba je rozdělit na dvě stejné části, takže z toho dělení vyjde 160 pěšáků na část, a z jedné z těchto částí se má udělat klín {cuneo} podle postupu podaného v pátém dotazu. Když je hotov, zjistí se, že zbývá 16 pěšáků (z důvodů uvedených v tom pátém dotazu), tj. k doplnění poslední řady {fila} toho prvního kosočtverce[^1] bude chybět devět pěšáků. Pravím tedy, že tu řadu je třeba doplnit pěšáky z druhé poloviny, totiž vzít z ní oněch 19[^2] pěšáků, kteří chybějí, takže v tom prvním kosočtverci bude 169 pěšáků a ve druhé části zůstane jen 151 pěšáků. Z nich se vytvoří druhý kosočtverec na poslední řadě prvního, která bude mít dvacet pět pěšáků; je tedy třeba na ni postavit další řadu o dva pěšáky menší, tj. o dvaceti třech pěšácích, na tu řadu o dvaceti třech pěšácích postavit další o dvaceti jednom pěšákovi, na tu o dvaceti jednom další o devatenácti pěšácích, na tu o devatenácti další o sedmnácti pěšácích a tak pokračovat vždy o dva pěšáky méně, až se dojde k řadě o jediném pěšákovi (jak je vidět výše na obrazci). Ovšem nakonec se zjistí, že zbývá sedm pěšáků, které šikovatel {Sargente}, jenž šik staví, rozestaví podle svého uvážení. Takto a tímto postupem bude možné převést do podobného šiku {ordinanza} každé velké vojsko {essercito}; a budou se moci obracet a pochodovat tak, že udělají z týlu čelo, a stejně tak z kteréhokoli boku.
+- typ: odstavec
+  de: |-
+    P. Io ue ho inteso ottimamente, & chel sia el uero, uoi uoleti primamente, che se aduertisca, come chel primo cuneo ui à esser de una fila di fanti de piu del secondo, e pero essendo diuiso lo essercito in due parti equali, & ponendo poi quelli fanti desnoue, che auanzano nella formation del primo cuneo, insieme con quelli fanti .160. dell'altra mita fariano poi fanti cento settantanoue, delli quali uolendone poi formar l'altro cuneo sopra la ultima fila del detto primo cuneo, laquale saria solamente de fanti uintitre, & cominciando poi el secondo cuneo de fanti uintiuno (cioe per dui fanti manco) & cosi andar procedendo (per duo fanti meno) per fin al compimento di questo secondo cuneo, ne uenira auanzar fanti cinquantacinque, & uoi per far auanzar men fanti uoleti, che quella ultima fila (imperfetta del primo cuneo, quala è solamente di fanti desnoue, che la se compisca delli fanti dell'altra mita (cioe pigliando quelli fanti noue che ui manca) il che facendo, & procedendo poi come di sopra fu detto, in ultima ui uenira auanzar solamente fanti sette, come di sopra fu detto, et dapoi sotto giongeti qualmente questa figura rhombica ha quella potesta, che se ritroua nelle ordinanze quadre di gente, ouer di terreno, cioe, che ella è atta à uoltarse, & far de spalle fronte, & caminar etiam per quel uerso, & simelmente è atta à far da qual si uoglia fianco testa, uero è, che ui occorre in tai uersi à douersi restringer per un uerso, & allargarse per un'altro, come medemamente, occorre anchora nelle dette ordinanze quadre di gente, ouer di terreno.
+  cs: |-
+    **Převor.** Porozuměl jsem vám výborně, a na důkaz, že je tomu tak: chcete především, aby se dbalo na to, že první klín má o jednu řadu pěšáků víc než druhý. Kdyby se totiž vojsko rozdělilo na dvě stejné části a těch devatenáct pěšáků, kteří zbudou při tvoření prvního klínu, se pak přidalo k oněm 160 pěšákům druhé poloviny, bylo by pak pěšáků sto sedmdesát devět; kdybychom z nich chtěli vytvořit druhý klín na poslední řadě prvního klínu, která by měla jen dvacet tři pěšáky, a začali pak druhý klín řadou o dvaceti jednom pěšákovi (tj. o dva pěšáky méně) a tak pokračovali (vždy o dva pěšáky méně) až do dokončení tohoto druhého klínu, zbylo by padesát pět pěšáků[^3]. Vy však, aby zbylo méně pěšáků, chcete, aby se ta poslední řada (neúplná řada prvního klínu, která má jen devatenáct pěšáků) doplnila pěšáky z druhé poloviny (totiž aby se vzalo těch devět pěšáků, kteří chybějí); když se to udělá a pak se postupuje, jak bylo řečeno výše, zbude nakonec jen sedm pěšáků, jak bylo řečeno výše. A potom dodáváte, že tento kosočtverečný obrazec má tutéž schopnost, jakou mají šiky čtvercové co do mužstva nebo co do plochy, totiž že se může obracet a udělat z týlu čelo a pochodovat i tím směrem, a stejně tak může udělat čelo z kteréhokoli boku; ovšem při takových směrech je třeba se jedním směrem zúžit a druhým rozšířit, jak se to stejně stává i u zmíněných šiků čtvercových co do mužstva nebo co do plochy.
+- typ: odstavec
+  de: |-
+    N. Non altro che questo uolemo inferire.
+  cs: |-
+    **Nicolò.** Nic jiného jsme vyložit nechtěli.
+- typ: odstavec
+  de: |-
+    P. Adunque ue ho inteso, e pero al presente non uoglio che procedamo piu oltra per questa sera.
+  cs: |-
+    **Převor.** Porozuměl jsem vám tedy, a proto nyní nechci, abychom dnes večer pokračovali dál.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO DECIMO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Desátý dotaz, který položil týž pan převor barlettský
+poznamky:
+- n: 1
+  text: Tisk zde i dále píše „primo rhombo“ (první kosočtverec), myslí se však první klín, tj. horní polovina kosočtverce.
+- n: 2
+  text: Chyba předlohy – chybí 9 pěšáků (16 zbylých + 9 = 25 v poslední řadě; 144 + 25 = 169; 160 − 9 = 151), jak tisk správně uvádí o větu dříve.
+- n: 3
+  text: Převorova čísla jsou v tisku pomíchaná – při tvoření prvního klínu ze 160 mužů zbude 16 (ne 19), s druhou polovinou je to 176 (ne 179) a druhý klín o řadách 21, 19 … 1 má 121 mužů, takže zbude 176 − 121 = 55, jak tisk uvádí. „Devatenáct“ v obou místech převorovy repliky je tedy chyba za „šestnáct“; text je ponechán podle tisku.

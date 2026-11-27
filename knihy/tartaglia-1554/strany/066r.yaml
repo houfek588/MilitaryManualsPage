@@ -1,0 +1,74 @@
+id: 066r
+list: '66'
+strana: recto
+sken: 131
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nostra imaginata qualita, ouer particolarita in ogni cortina. Ma che anchora eglie possibile à farlo in tre diuersi modi, & forsi piu.
+  cs: |-
+    naši vymyšlenou vlastnost čili zvláštnost uskutečnit u každé kurtiny {cortina}, ale i to, že je možné to udělat třemi různými způsoby, a snad i více.
+- typ: odstavec
+  de: |-
+    P. Questo hauero molto à caro, di uedere.
+  cs: |-
+    **Převor.** To uvidím velmi rád.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO QVARTO FATTO DAL medesimo signor Priore di Barletta.
+  cs: Čtvrtý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Hor seguitati anchora la seconda qualita, ouer particolarita.
+  cs: |-
+    **Převor.** Nuže, pokračujte druhou vlastností čili zvláštností.
+- typ: odstavec
+  de: |-
+    N. La seconda qualita, ouer conditione è questa, che bisogna ben antiuedere di assettar tutte le sue cortine, & baluardi, con tal modo e forma, che li nimici non possano trouar luoco alcuno di poter piantare le sue artegliarie, che sempre non sia menor distantia di alcuno di baluardi di tal citta al detto luoco, di quella, che sara dal detto loco à quella cortina, che desideraranno da battere. Il che facendo, li detti nimici non potranno piantare le dette sue artegliarie per battere detta citta, se non con suo gran disauantaggio. Et di questa qualita, ouer conditione, manca anchora la forma di Turino, perche el si uede, che in qualunque luoco si uora assettar li nemici con le artegliarie per battere tal citta sempre sara maggior distantia di qual si uoglia baluardo al detto luoco, che non sara dal medesimo luoco à quella cortina, che desideraranno da battere.
+  cs: |-
+    **Nicolò.** Druhá vlastnost čili podmínka je tato: je třeba dobře předvídat a rozmístit všechny kurtiny a bašty {baluardi} takovým způsobem a v takovém tvaru, aby nepřítel nemohl najít žádné místo k postavení svých děl {artegliarie}, od něhož by nebyla vzdálenost k některé z bašt města vždy menší než vzdálenost od toho místa ke kurtině, kterou chce ostřelovat. Když se tak udělá, nebude moci nepřítel postavit svá děla k ostřelování města jinak než ke své velké nevýhodě. A ani tuto vlastnost čili podmínku tvar Turína nemá, neboť je vidět, že ať se nepřítel se svými děly postaví k ostřelování města kamkoli, bude vzdálenost od kterékoli bašty k tomu místu vždy větší než vzdálenost od téhož místa ke kurtině, kterou chce ostřelovat.
+- typ: odstavec
+  de: |-
+    P. Questo mi par quasi impossibile.
+  cs: |-
+    **Převor.** To se mi zdá skoro nemožné.
+- typ: odstavec
+  de: |-
+    N. Io non diria una cosa à uostra Signoria, che fusse impossibile di fare. Anci in fine à quella faro non solamente figuralmente uedere qualmente tal cosa sia possibile, ma che eglie possibile à farlo in uarij, & diuersi modi.
+  cs: |-
+    **Nicolò.** Neřekl bych Vaší Milosti nic, co by nebylo možné udělat. Naopak, nakonec Vaší Milosti nejenže ukážu na obrázku, že je to možné, ale i to, že je to možné udělat rozličnými a různými způsoby.
+- typ: odstavec
+  de: |-
+    P. Di questo ne hauero appiacer grandissimo. Et ui uoglio dire, che con questa uostra seconda conditione mi haueti auerto lo intelletto talmente, che spero fra pochi giorni di farue uedere una pianta designata de mia mano, che hauera in se queste uostre due dette conditioni.
+  cs: |-
+    **Převor.** Z toho budu mít převelikou radost. A chci vám říci, že touto svou druhou podmínkou jste mi otevřel rozum natolik, že doufám, že vám za několik dní ukážu půdorys {pianta} nakreslený mou vlastní rukou, který bude mít obě tyto vaše podmínky.
+- typ: odstavec
+  de: |-
+    N. Io son certissimo, che se uostra Signoria ui pensara alquanto sopra, facilmente le ritrouara, & designera: perche ogni commun ingegno, che di tai particolarita sia auertito, facilmente ritruouara il tutto, tanto piu uostra Signoria, che è colma de ingegno.
+  cs: |-
+    **Nicolò.** Jsem si zcela jist, že když se nad tím Vaše Milost trochu zamyslí, snadno je nalezne a nakreslí, neboť každý obyčejný důmysl, který je na takové zvláštnosti upozorněn, snadno všechno najde, tím spíše Vaše Milost, která je důmyslu plna.
+- typ: odstavec
+  de: |-
+    P. Hor su per questa sera, non uoglio, che procedamo in altro.
+  cs: |-
+    **Převor.** Nuže, pro dnešní večer nechci, abychom pokračovali v něčem dalším.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO QVINTO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Pátý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Hor uegnamo alla terza conditione, ouer particolarita.
+  cs: |-
+    **Převor.** Nyní přejděme ke třetí podmínce čili zvláštnosti.
+- typ: odstavec
+  de: |-
+    N. La terza conditione è questa, che el bisogna, che la forma di tal citta sia talmente disposita, che se li nemici deliberasseno di darui una battaglia ordinata, chel non si troui vlcuna parte di quella tal citta, che possa esser assaltata da nemici, che quelli non possano sempre esser offesi da quelli dalla terra almen da quattro diuerse bande con le artegliarie (& da piu bande se eglie possibile) della qual cosa manca la ditta citta de Turino, perche ogni uolta, che li nemici assaltassero tal citta in una (qual si uoglia)
+  cs: |-
+    **Nicolò.** Třetí podmínka je tato: tvar města musí být uspořádán tak, aby – kdyby se nepřítel rozhodl podniknout na ně řádný útok {battaglia ordinata} – nebyla žádná[^1] část města, kterou by nepřítel mohl napadnout, aniž by ho obránci města mohli vždy zasahovat z děl aspoň ze čtyř různých stran (a je-li to možné, z více stran). A to zmíněné město Turín nemá, neboť kdykoli by nepřítel napadl to město na jednom (kterémkoli)
+poznamky:
+- n: 1
+  text: V tisku „vlcuna“ – tisková chyba za „alcuna“; v originále ponecháno.

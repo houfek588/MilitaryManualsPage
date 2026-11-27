@@ -1,0 +1,67 @@
+id: 048v
+list: '48'
+strana: verso
+sken: 96
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    rotto é spezzato.
+  cs: |-
+    poražena a rozbita.
+- typ: odstavec
+  de: |-
+    P. Perche ragione.
+  cs: |-
+    **Převor.** Z jakého důvodu?
+- typ: odstavec
+  de: |-
+    N. La ragion ue la diro, sia essempi gratia fanti .100. in forma cunea, & altri fanti .100. in forma quadra di terreno all'opposition del detto cuneo, come di sotto appare in figura, & perche l'ordine del ferir del cuneo, è questo che tutti quelli che tirano de alcuna sorte istrumento, come sono artegliarie, archibusi, dardi, archi, ouer balestre, tutti debbono tendere à tirare, & à ferire solamente in quel luoco doue ua à inferire la ponta del cuneo, cioe in ponto .a. onde li fanti che in quel luoco se ritrouaranno, ui sara necessario, o à morire, ouer à dar luoco alla ponta del detto cuneo, per la grande moltitudine delle archibusate, & frizzate tutte in quel solo luoco tirate, intrando adunque dentro la ponta del detto cuneo in tal luoco, continuamente andara preforando, & penetrando tutta quella ordinanza da banda, à banda, perche tutti archibuseri, & arceri che restano di fuora, non debbono cessar de tirare in quel istesso luoco, & non altroue, la qual cosa facendo eglie impossibile che non ui sia dato luoco al detto cuneo da penetrare, et penetrato che sia tal essercito è rotto senza alcun remedio.
+  cs: |-
+    **Nicolò.** Důvod vám povím. Mějme například 100 pěšáků {fanti} v klínovém tvaru {forma cunea} a jiných 100 pěšáků ve tvaru čtvercovém co do plochy {forma quadra di terreno} proti tomu klínu, jak je vidět níže na obrazci[^1]. Způsob, jakým klín útočí, je tento: všichni, kdo střílejí z jakéhokoli druhu nástroje, jako jsou děla {artegliarie}, arkebuzy {archibusi}, oštěpy, luky nebo kuše, musí mířit a střílet jen do toho místa, kam má vniknout hrot klínu, totiž do bodu a. Pěšáci, kteří se na tom místě budou nacházet, budou nuceni buď zemřít, nebo ustoupit hrotu klínu, kvůli velikému množství výstřelů z arkebuz a šípů, jež všechny míří do toho jediného místa. Když tedy hrot klínu na tom místě vnikne dovnitř, bude ten šik {ordinanza} soustavně provrtávat a pronikat jím od kraje do kraje, protože všichni arkebuzíři {archibuseri} a lučištníci, kteří zůstávají venku, nesmějí přestat střílet do téhož místa a nikam jinam. Když se to provede, není možné, aby klínu nebylo uvolněno místo k proniknutí; a jakmile jím pronikne, je to vojsko nenapravitelně poraženo.
+- typ: odstavec
+  de: |-
+    P. Questa cosa è chiara, che se il detto cuneo penetra tutta la detta ordinanza quella senza dubbio resta rotta, e fracassata, et è quasi impossibile che non gli uenga ad effetto, perche tutta la possanza & uirtu de quel tal cuneo uien à operare in quel luoco solo, e pero eglie quasi impossibile che in quel tal luoco ui possano durare anchor, che fusseno molto piu in tal ordinanza, de quelli che fusseno nel detto cuneo, perche tal luoco non puo esser soccorso da alcuno de quelli di tal ordinanza, perche se quelli che sono uerso .b. ouer uerso .c. uolesseno uenire à dar soccorso à quel tal luoco, saria forza à desordinarse, & desordinati che fussono, incorrariano nel medesimo scandolo, cioe restariano rotti totalmente, & restando nel suo luoco la sua uirtu, ouer possanza, resta quasi morta, perche niun de loro la puo mostrare per ualente che sia, & hor comprendo di quanta importantia sia questa forma cunea, à chi non ui sapessi, trouar la sua medicina, ouer rimedio.
+  cs: |-
+    **Převor.** Je zřejmé, že pronikne-li ten klín {cuneo} celým šikem, šik bez pochyby zůstane poražen a rozdrcen, a je téměř nemožné, aby se mu to nepodařilo, protože celá síla a moc toho klínu působí jen na tom jediném místě. Proto je téměř nemožné, aby tam obstáli, i kdyby jich v tom šiku bylo mnohem víc než v klínu, neboť tomu místu nemůže přispět na pomoc nikdo z toho šiku: kdyby ti, kdo stojí u b nebo u c, chtěli tomu místu přijít na pomoc, museli by porušit své uspořádání, a jakmile by je porušili, upadli by do téže pohromy, totiž byli by úplně poraženi; a zůstanou-li na svém místě, jejich síla neboli moc je jako mrtvá, protože nikdo z nich ji nemůže ukázat, ať je sebestatečnější. Nyní chápu, jak velký význam má tento klínový tvar pro toho, kdo by proti němu nedovedl najít lék neboli nápravu.
+- typ: odstavec
+  de: |-
+    N. Senza dubbio che una buona forma alle uolte è di tal autorita quanto che è la sua materia, & anchor piu.
+  cs: |-
+    **Nicolò.** Dobrá forma má bez pochyby někdy stejnou váhu jako její látka, ba i větší[^2].
+- typ: odstavec
+  de: |-
+    P. Certamente questa uostra opinione mi è piacesta assai, et mi basta per questa sera.
+  cs: |-
+    **Převor.** Tento váš názor se mi jistě velmi zalíbil a pro dnešní večer mi to stačí.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO OTTAVO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Osmý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Come se potria formare, de una quantita de fanti, ouer di uno essercito, quella forma, ouer figura di battaglia dalli antichi chiamata la Serra.
+  cs: |-
+    **Převor.** Jak by se dal z určitého počtu pěšáků neboli z vojska {essercito} vytvořit onen tvar neboli obrazec šiku {battaglia}, který staří nazývali pila {Serra}?
+- typ: odstavec
+  de: |-
+    N. Questa forma di battaglia, secondo la qualita del suo nome, à mi me pare che debbia essere dentata, si come è la sega con che se costuma segar li traui, e per tanto uolendo redure una quantita de fanti, ouer uno essercito in tal forma, bisogna considerare due cose, l'una de quanti denti se uol far questa Serra, ouer sega, & se oltra tai denti ui si uol altra ordinanza da sostentar quelli denti, ouer non.
+  cs: |-
+    **Nicolò.** Tento tvar šiku má podle povahy svého jména, jak se mi zdá, být zubatý, jako je pila, kterou se obvykle řežou trámy. Chceme-li tedy převést určitý počet pěšáků neboli vojsko do takového tvaru, je třeba uvážit dvě věci: jednak kolik zubů má ta pila mít, jednak zda je kromě těch zubů třeba ještě další šik, který by ty zuby podpíral, nebo ne.
+- typ: odstavec
+  de: |-
+    P. Datime uno essempio in figura sopra quello che uoleti inferire, ma in poco numero de fanti, perche meglio apprendero la cosa.
+  cs: |-
+    **Převor.** Dejte mi k tomu, co chcete vyložit, příklad v obrazci, ale na malém počtu pěšáků, protože tak věc lépe pochopím.
+- typ: odstavec
+  de: |-
+    N. Poniamo che li fanti delli quali se uol formare li puri denti della detta Serra siano .100. hor questi .100. fanti si debbono diuidere nel numero delli denti che si uol dar à questa Serra, & de cadauna de quelle parti formarne un cuneo, per la regola
+  cs: |-
+    **Nicolò.** Dejme tomu, že pěšáků, z nichž se mají vytvořit samotné zuby té pily, je 100. Těchto 100 pěšáků je třeba rozdělit podle počtu zubů, které chceme té pile dát, a z každé z těch částí vytvořit klín podle pravidla
+poznamky:
+- n: 1
+  text: Tisk říká „come di sotto appare in figura“ (jak je vidět níže), obrazec je však na předchozí straně [[048r|048r]] (na líci téhož listu).
+- n: 2
+  text: 'Narážka na aristotelský pár forma – látka (materia): uspořádání (tvar šiku) může mít větší účinek než samotný počet mužů.'

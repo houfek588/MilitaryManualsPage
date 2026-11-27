@@ -1,0 +1,75 @@
+id: 007r
+list: '7'
+strana: recto
+sken: 13
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    al undecimo, tirara molto manco, che al decimo, & simelmente al duodecimo, cioe al ultimo ponto tirara molto e molto manco che al undecimo anci in tal ultima elleuatione per rason naturale la balla doueria retornar a dare precisamente nella bocca di tal pezzo, ma per molti accidentie che ui puo occorrere nel discaugarsi, tal balla non ui ritornara cosi precise; ma ben non andara a dare molto lontana dal detto pezzo.
+  cs: |-
+    na jedenáctém dostřelí mnohem méně než na desátém, a podobně na dvanáctém, tj. na posledním bodě {ponto}, dostřelí mnohem a mnohem méně než na jedenáctém; ba při této poslední elevaci by se koule {balla} podle přirozeného řádu měla vrátit a dopadnout přesně do ústí {bocca} toho děla. Ale pro mnohé nahodilosti, které mohou nastat při jeho výstřelu[^1], se tam koule tak přesně nevrátí; avšak dopadne nepříliš daleko od děla.
+- typ: odstavec
+  de: |-
+    S. D. Eglie cosa consonante quasi tutto quello che haueti detto, ma che uoleti inferire per questo.
+  cs: |-
+    **Pan vévoda.** Skoro všechno, co jste řekl, zní rozumně, ale co tím chcete vyvodit?
+- typ: odstavec
+  de: |-
+    N. Voglio secondariamente inferir questo, che noi habbiamo ritrouato in che specie di proportione, ouer ordine uanno augumentando li detti tiri in ogni elleuatione, & non solamente a ponto per ponto della detta nostra squadra, ma anchora a minuto per minuto per fin alla elleuatione del sesto ponto, ouer di .72. minuti, & in ogni sorte balla, cioe di piombo, ferro, ouer di pietra. Et simelmente chi potesse elleuare li pezzi oltra al detto sesto ponto (come se fanno li mortari) hauemo anchora ritrouato in che proportione andaranno calando li suoi tiri, & non solamente a ponto per ponto, ma anchora (come detto) a minuto per minuto per fin al fine di tutta la squadra, cioe per fin in capo de tutti li .12. ponti, ouer .144. minuti.
+  cs: |-
+    **Nicolò.** Zadruhé tím chci vyvodit toto: nalezli jsme, v jakém druhu proporce {proportione} čili řádu přibývá zmíněných dostřelů {tiri} při každé elevaci {elleuatione}, a to nejen bod po bodu našeho kvadrantu {squadra}, ale i minutu po minutě až po elevaci šestého bodu čili 72 minut, a s každým druhem koule, totiž olověnou, železnou nebo kamennou. A podobně, kdyby někdo mohl elevovat děla nad zmíněný šestý bod (jak se to dělá s moždíři {mortari}), nalezli jsme také, v jaké proporci budou jejich dostřely ubývat, a to nejen bod po bodu, ale (jak řečeno) i minutu po minutě až do konce celého kvadrantu, tj. až po konec všech 12 bodů čili 144 minut.
+- typ: odstavec
+  de: |-
+    S. D. Que costrutto se puo cauar de tal uostra inuentione.
+  cs: |-
+    **Pan vévoda.** Jaký užitek lze z tohoto vašeho vynálezu vytěžit?
+- typ: odstavec
+  de: |-
+    N. El costrutto de tal inuentione è questo, che per la notitia de un sol tiro di qual si uoglia pezzo, posso formar una tauola de tutti li tiri che tirara quel tal pezzo in ogni elleuatione, cioe a ponto per ponto, et a minuto per minuto della nostra squadra, la qual tauola sara di tal sostantia, ouer proprieta, che qualunque persona la hauera a presso di se, non solamente sapra tirare, ma sapra far tirare ogni grosso bombardero con tal sorte pezzi di lontano quanti passa li parira (pur che non sia piu lontano del maggior tiro di tal pezzo) & che non hauera la detta nostra tauola, non potra imparare alcuna particolarita di tal inuentione, ma tal secreto restara solamente a presso di colui che hauera tal tauola, & non ad altri.
+  cs: |-
+    **Nicolò.** Užitek tohoto vynálezu je ten, že ze znalosti jediného dostřelu kteréhokoli děla mohu sestavit tabulku {tauola} všech dostřelů, kterých to dělo dosáhne při každé elevaci, tj. bod po bodu i minutu po minutě našeho kvadrantu. Ta tabulka bude takové podstaty čili vlastnosti, že kdokoli ji bude mít u sebe, bude nejen umět střílet, ale bude umět i přimět kteréhokoli neobratného dělostřelce {bombardero}, aby s takovým druhem děla střílel na tolik kroků {passa}, na kolik se mu zlíbí (jen když to nebude dál než největší dostřel toho děla); a kdo zmíněnou naši tabulku mít nebude, nebude se moci naučit žádnou podrobnost tohoto vynálezu, nýbrž tajemství zůstane jen u toho, kdo bude tu tabulku mít, a u nikoho jiného.
+- typ: odstavec
+  de: |-
+    S. D. Mo si colui che hauera tal uostra tauola non uora tirare lui medesimo, ma uora far tirare a un'altra seconda persona, non sara necessario che tal seconda persona impari tal secreto.
+  cs: |-
+    **Pan vévoda.** Ale když ten, kdo bude mít vaši tabulku, nebude chtít střílet sám, nýbrž bude chtít, aby střílela jiná, druhá osoba, nebude snad nutné, aby se ta druhá osoba to tajemství naučila?
+- typ: odstavec
+  de: |-
+    N. Non Signor Eccellentissimo, anci tal seconda persona restara come restano li garzoni di speciari de medicine, li quali continuamente componeno medicine, secondo che gli uengono ordinate dalli medici, & tamen mai imparano a saper medicare.
+  cs: |-
+    **Nicolò.** Nikoli, nejvznešenější pane, ta druhá osoba zůstane na tom tak jako tovaryši lékárníků {speciari}, kteří neustále připravují léky, jak jim je předepisují lékaři, a přece se nikdy nenaučí léčit.
+- typ: odstavec
+  de: |-
+    S. D. Questa mi pare una cosa molto dura da credere, & tanto piu che nel uostro libretto (a me intitulato) uoi diceti che mai tirasti di artegliaria, ne di schioppo, & colui che fa un giudicio di una cosa, della quale non habbia uisto lo effetto, ouer isperientia, la maggior parte delle uolte se inganna, perche solamente l'occhio è quello che ne rende uera testimonianza delle cose immaginate.
+  cs: |-
+    **Pan vévoda.** To se mi zdá velmi těžko uvěřitelné, a to tím spíš, že ve své knížce (mně připsané) říkáte, že jste nikdy nestřílel z děla {artegliaria} ani z ručnice {schioppo}; a kdo soudí o věci, jejíž účinek čili zkoušku neviděl, většinou se mýlí, neboť jen oko podává pravdivé svědectví o věcech, jež si představujeme.
+- typ: odstavec
+  de: |-
+    N. Eglie ben uero che il senso isteriore, ne dice la uerita nelle cose particolare, ma non nelle uniuersale, perche le cose uniuersale sono sottoposte solamente al intelletto, & non ad alcun senso.
+  cs: |-
+    **Nicolò.** Je jistě pravda, že vnější smysl nám říká pravdu o věcech jednotlivých, ale ne o obecných, neboť věci obecné podléhají jen rozumu, a ne žádnému smyslu.
+- typ: odstavec
+  de: |-
+    S. D. Basta se me fareti ueder questo (cosa che non credo) el me parera un miracolo.
+  cs: |-
+    **Pan vévoda.** Dobrá – jestliže mi to ukážete (čemuž nevěřím), bude mi to připadat jako zázrak.
+- typ: odstavec
+  de: |-
+    N. Tutte le cose che accadeno per natura, ouer per arte pareno de grande ammiratione, quando che di quelle non si sa la causa, ma presto uostra Eccellentia se ne potra chiarire, facendone far la isperientia con un pezzo.
+  cs: |-
+    **Nicolò.** Všechny věci, které se dějí přirozeně nebo uměním, se zdají velmi podivuhodné, dokud se nezná jejich příčina; ale Vaše Excelence se o tom brzy bude moci přesvědčit, dá-li to vyzkoušet s jedním dělem.
+- typ: odstavec
+  de: |-
+    S. D. Voglio andare per fina à Pesaro, subito che sia ritornato, certo la uoglio uedere.
+  cs: |-
+    **Pan vévoda.** Chci si zajet až do Pesara; jakmile se vrátím, jistě tu zkoušku chci vidět.[^2]
+poznamky:
+- n: 1
+  text: |-
+    „Accidentie“ je v tisku zkráceno „accidtiē“; „discaugarsi“ je patrně tisková chyba za „discargarsi“ (vybít se, vystřelit).
+- n: 2
+  text: |-
+    Pesaro bylo sídelním městem vévodů z Urbina. Francesco Maria della Rovere zemřel v Pesaru v říjnu 1538, nedlouho po tomto rozhovoru.

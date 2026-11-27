@@ -1,0 +1,36 @@
+id: 075v
+list: '75'
+strana: verso
+sken: 150
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    satisfar meglio V. Mag. ho portato in dissegno un modelletto di tal sorte angolo fortificato, qual è questo sottoscritto, cio e l'angolo .a. è l'angolo terreo contenuto dalle due cortine, retto, ouer acuto. Et .b. è lo cauallero fatto sopra di quello, & lo triangolo .c.d.e. è il taglio, ouer smussatura à scarpa, dell'angolo, ouer cantone, che era apparente di sopra della fossa, che gia conteneua le due cortine, et la linea .a.e. è il restante dell'angolo contenuto pur dalle dette due cortine, il quale uien à essere alto, quanto è alta la fossa, cioe la linea .a.e. debbe esser eguale alla detta altezza della fossa, la qual fossa non ue la ho uoluta designare, accio meglio si ueda il tutto, l'uno, e l'altro baluardo sono .f. & .g. Et li dui caualleretti sono .h. & .i. le qual cose difenderanno honoratamente tal specie di angolo, & lo faranno gagliardo, & forte, uero è, che io laudarei, che sopra à l'un, e l'altro di dui baluardi (si nella piazza di sopra, come in quella da basso) ui se gli mettesse piu presto pezzi piccoli, che grossi, cioe sacri, ouer falconetti da .6. & metteruene tanto piu numero.
+  cs: |-
+    abych Vaši Urozenost lépe uspokojil, přinesl jsem na výkrese malý model takto opevněného úhlu, který je zde níže vyobrazen. Totiž: a. je přízemní úhel, sevřený oběma kurtinami {cortine}, pravý nebo ostrý; b. je kavalír {cauallero} udělaný nad ním; trojúhelník c.d.e. je odříznutí neboli seříznutí ve svahu {scarpa} toho úhlu neboli nároží {cantone}, které vyčnívalo nad příkop {fossa} a které dříve svíraly obě kurtiny; a čára a.e. je zbytek úhlu sevřeného rovněž oběma kurtinami, který je vysoký tak, jak je hluboký příkop, totiž čára a.e. se má rovnat uvedené hloubce příkopu. Příkop jsem vám nechtěl kreslit, aby bylo lépe vidět všechno ostatní. Obě bašty {baluardo} jsou f. a g. a oba malé kavalíry {caualleretti} jsou h. a i.; ty budou takový druh úhlu čestně bránit a učiní jej pevným a silným. Je ovšem pravda, že bych doporučoval dát na jednu i druhou z obou bašt (jak na horní, tak na dolní plošinu {piazza}) spíše malá děla {pezzi} než velká, totiž sakry {sacri} nebo falkonety {falconetti} na 6 [liber koule], a dát jich tam o to větší počet.
+- typ: obrazek
+  soubor: drevorez-150.jpg
+  popis: |-
+    Dřevořez: perspektivní pohled shora na dvě kurtiny sbíhající se do tvaru písmene V v pravém či ostrém úhlu A (dole). Kousek nad hrotem stojí napříč mezi kurtinami kavalír B, pod ním je seříznutý trojúhelník C–D–E (C a D na základně kavalíru, E na hrotu seříznutí, A ve vrcholu úhlu). Na horních koncích kurtin jsou (jen zčásti zobrazené) bašty F (vlevo) a G (vpravo) s dalšími písmeny K, L (u levé) a N, M (u pravé); vedle bašt, na straně k úhlu, malé čtyřhranné kavalíry H (vlevo) a I (vpravo). Příkop není zakreslen.
+- typ: odstavec
+  de: |-
+    S. M. Me piace assai questa uostra opinione, pur penso, che considerando ben questa cosa ui se ritrouera molte cose da poterui opponere, e pero uoglio che rimettemo à disputar meglio questa uostra opinione à un'altra fiata.
+  cs: |-
+    **Pan Marcantonio.** Tento váš názor se mi velmi líbí, přesto si myslím, že když se ta věc dobře uváží, najde se mnoho věcí, které by se proti ní daly namítnout; a proto chci, abychom důkladnější rozbor tohoto vašeho názoru odložili na jindy.
+- typ: odstavec
+  de: |-
+    N. Come pare à uostra Magnificentia.
+  cs: |-
+    **Nicolò.** Jak se Vaší Urozenosti zdá.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SESTO FATTO DAL MEDESIMO Magnifico, & Eccellentissimo Dottor, Signor Marc'Antonio Morosini.
+  cs: Šestý dotaz, který položil týž urozený a nejvznešenější doktor, pan Marcantonio Morosini
+- typ: odstavec
+  de: |-
+    SIGNOR MARC'ANTONIO. Nel Sesto Quesito del uostro Sesto libro, uoi diceti, che à uoler fortificar una citta, che si debbe dar tal forma alle mura, ouer cortine di quella, che se per sorte quelle tai mura, ouer cortine fusseno
+  cs: |-
+    **Pan Marcantonio.** V šestém dotazu své šesté knihy říkáte, že chce-li se opevnit město {citta}, má se jeho hradbám {mura} neboli kurtinám dát takový tvar, aby, kdyby snad tyto hradby neboli kurtiny byly

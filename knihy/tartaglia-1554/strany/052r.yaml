@@ -1,0 +1,42 @@
+id: 052r
+list: '52'
+strana: recto
+sken: 103
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: QVESITO DVODECIMO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Dvanáctý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Ditemi un poco, saria possibile di potere trasmutar con prestezza uno essercito in forma quadra di gente, in una forma cunea, senza disordinar la prima ordinanza, & senza pericolo di confusione.
+  cs: |-
+    **Převor.** Řekněte mi, bylo by možné rychle přeměnit vojsko {essercito} ve tvaru čtverce co do mužstva {forma quadra di gente} v tvar klínu {forma cunea}, aniž by se porušil původní šik {ordinanza} a bez nebezpečí zmatku?
+- typ: odstavec
+  de: |-
+    N. Troppo saria possibile.
+  cs: |-
+    **Nicolò.** To by bylo docela dobře možné.
+- typ: odstavec
+  de: |-
+    P. E come.
+  cs: |-
+    **Převor.** A jak?
+- typ: odstavec
+  de: |-
+    N. Secondo che con il suono, ouer con uoce uoi ue fati intendere quando che uoleti che quelli si uoltano con la faccia uerso la banda destra, ouer sinistra, ouer à spalle, con un diuerso suono, ouer con la uoce uoglio che siano auertiti, & amaestrati à sapersi uoltare in quel uerso, che è fra la fronte, & il fianco destro, ouer il sinistro, & similmente in quello che è fra il fianco destro, ouer il sinistro, & le spalle, & dapoi che saranno ben informati di questa particolarita, uoglio che anchora siano ben auertiti di quello fu detto nel precedente quesito, cioe de auertire, & amaestrare cadauno fante, che ogni uolta che fusse fatto uoltare in alcun di sopradetti uersi, et che non si trouasse hauer compagno nella consueta distantia auanti di se, che quel debbia con gran prestezza procedere, ouer caminare tanto rettamente auanti, che ritroui un compagno nella consueta distantia auanti di se, delle qual cose essendo tutti ben informati, & amaestrati, in uno batter d'occhio se potra essequire quello ricerca Vostra Signoria, cioe uolendo trasmutare uno essercito che sia in forma quadra di gente, in una forma cunea, et uolendo che l'angolo destro della fronte resti la ponta della detta forma cunea, dico che facendo uoltar con il suono, ouer con uoce, tutti li fanti di tal essercito con la faccia in quel uerso, che è fra la fronte, & il fianco destro, & subito uoltati che siano, osseruando cadauno l'ordine detto di sopra, cioe che tutti quelli che non si trouaranno hauer compagno nella consueta distantia auanti di se, procedino rettamente auanti tanto che ne ritrouano uno, la qual cosa essequida, se trouara esser trasformata la detta forma quadrata di gente in una forma cunea, & la ponta di tal figura cunea uerra à esser lo detto angolo destro della fronte della prima figura.
+  cs: |-
+    **Nicolò.** Tak jako zvukem [nástroje] {suono} nebo hlasem dáváte najevo, kdy chcete, aby se obrátili tváří napravo, nalevo nebo dozadu, chci, aby byli jiným zvukem nebo hlasem upozorněni a vycvičeni, aby se uměli obrátit tím směrem, který leží mezi čelem {fronte} a pravým nebo levým bokem {fianco}, a stejně tak tím, který leží mezi pravým nebo levým bokem a týlem. A když budou v této věci dobře vyučeni, chci, aby byli také dobře poučeni o tom, co bylo řečeno v předchozím dotazu, totiž poučit a vycvičit každého pěšáka {fante}, že kdykoli se bude muset obrátit některým ze zmíněných směrů a nebude mít druha v obvyklé vzdálenosti před sebou, má velmi rychle postupovat neboli jít přímo vpřed, dokud nenajde druha v obvyklé vzdálenosti před sebou. Když budou všichni v těchto věcech dobře vyučeni a vycvičeni, bude možné v mžiku oka provést to, co Vaše Milost žádá. Chceme-li totiž přeměnit vojsko, které je ve tvaru čtverce co do mužstva, v tvar klínu a chceme-li, aby se pravý roh čela stal hrotem toho klínu, pravím, že stačí zvukem nebo hlasem nechat všechny pěšáky toho vojska obrátit tváří tím směrem, který leží mezi čelem a pravým bokem. Jakmile se obrátí a každý bude dodržovat výše řečený řád – totiž že všichni, kdo nebudou mít druha v obvyklé vzdálenosti před sebou, půjdou přímo vpřed, dokud nějakého nenajdou –, ukáže se, že se zmíněný čtvercový tvar co do mužstva přeměnil v klínový tvar a hrotem toho klínového obrazce bude zmíněný pravý roh čela prvního obrazce.
+- typ: odstavec
+  de: |-
+    PRIORE. Questa uostra regola me par molto bellissima, e presta, ma non la ho ben capita, e pero ui prego che me dati uno essempio in figura, ma sopra tutto in poco numero, perche la
+  cs: |-
+    **Převor.** Toto vaše pravidlo se mi zdá převelice krásné a rychlé, ale dobře jsem ho nepochopil, a proto vás prosím, abyste mi dal příklad v obrazci, ale hlavně na malém počtu, protože se mi
+- typ: obrazek
+  soubor: drevorez-103.jpg
+  popis: >-
+    Čtvercový šik z 25 pěšáků znázorněných písmeny abecedy: nahoře nápis „Fronte“ (čelo), pod ním 5 řad
+    po 5 písmenech – a b c d e / f g h i k / l m n o p / q r ſ t u / x y z & ꝯ (poslední znak je
+    zkratkové znaménko, jímž končívaly dobové abecedy). Pravý roh čela tvoří písmeno e.

@@ -1,0 +1,39 @@
+id: 051v
+list: '51'
+strana: verso
+sken: 102
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    à longare i passi, & con quella prestezza che à lui sia possibile, non de cessare de caminare tanto auanti, che ritroua un'altro compagno nella consueta distantia, che gli camini auanti di se, et se per caso in quella tal fila per longo non ue ne trouasse alcuno, debba procedere tanto, che peruenga alla ultima fila uerso la fronte, cioe nella fila della
+  cs: |-
+    prodloužit krok {passi} a tak rychle, jak je mu možné, nepřestat jít vpřed, dokud nenajde jiného druha v obvyklé vzdálenosti, který jde před ním; a kdyby v té řadě {fila} po délce náhodou žádného nenašel, má postupovat tak daleko, až dojde k poslední řadě směrem k čelu, totiž do řady
+- typ: obrazek
+  soubor: drevorez-102.jpg
+  popis: >-
+    Šik ze 144 pěšáků ve čtverci co do mužstva, sázený z teček: nahoře nápis „Fronte“ (čelo), 12 řad po
+    12 místech. V prvních pěti řadách od čela je rozeseto 12 prázdných míst – pěšáci zabití nepřátelskými
+    děly; zadní řady jsou úplné.
+- typ: odstavec
+  de: |-
+    fronte, & li affermarse, ouer caminar secondo l'ordine di detta fila, & similmente si debbe auertire cadauno, che nel suo caminare piano, e forte, si debbia reggere sempre dal suo compagno che gli camina dauanti, & non da alcuno de quelli che gli è dalle bande, la qual cosa essendo osseruata, nella soprascritta figurata ordinanza quella se trasferira in quest'altra forma, che qui di sotto appar, cioe che
+  cs: |-
+    čela {fronte}, a tam se zastavit, anebo pochodovat podle uspořádání té řady. Stejně tak je třeba každého poučit, že se při své chůzi, pomalé i rychlé, má vždy řídit svým druhem, který jde před ním, a ne nikým z těch, kdo jsou po jeho bocích. Bude-li se to dodržovat, přejde šik {ordinanza} znázorněný na obrazci výše do této jiné podoby, která je vidět níže, totiž že
+- typ: obrazek
+  soubor: drevorez-102b.jpg
+  popis: >-
+    Týž šik po přeskupení: nahoře nápis „Fronte“, 12 řad po 12 místech; přední řady jsou úplné a 12
+    prázdných míst se přesunulo do zadních řad v týlu.
+- typ: odstavec
+  de: |-
+    quelli dodeci lochi uacui saranno traslatati nella coda, come sensibilmente si puo uedere, nel qual luoco non saranno quasi de alcun pericolo, ouer disordine.
+  cs: |-
+    těch dvanáct prázdných míst bude přeneseno do týlu, jak lze názorně vidět; tam nebudou skoro nijak nebezpečná ani nezpůsobí zmatek.
+- typ: odstavec
+  de: |-
+    P. Questa uostra opinione è bonissima, & non credo che la si possa megliorare in simil caso.
+  cs: |-
+    **Převor.** Tento váš názor je výborný a nemyslím, že by se v takovém případě dal zlepšit.

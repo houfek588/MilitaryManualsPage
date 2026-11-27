@@ -1,0 +1,47 @@
+id: 039r
+list: '39'
+strana: recto
+sken: 77
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    si debbia tuor parti.100. di salnitrio, et parti.20. di solfere, et parti.37. di carbone. Et per farla fina parti.9. salnitrio, parti.3. solfere, et parti.6. de fior de mirochea (cioe hanno tentato di farla senza carbone, anchor che tal herba à me sia incognita, perche tal nome di herba mai ho potuto ritrouare, ne in le Pandete, ne in Auicenna, ne in alcun herbolario) alcuni altri piu moderni poi hanno detto, che per fare la poluer grossa se debbia pigliare salnitrio parti.2. solfere parti.1. carbon de salice parti.1. Et per far quella de archibusi dicono che si debbia pigliare salnitrio parti.3. carboni de rami di salice giouani, parte.1. solfere parti.1. Et à far la poluer fina de schioppo dicono, che se debbia pigliare salnitrio raffinato piu uolte parti.5. solfere parti.1. carbone de uerghette di Auellane, ouer nocelle giouine de un'anno parti.1. alcuni altri dicono, che per far poluer grossa, che si debbia tuor parti.3. de salnitrio raffinato, & parti.1. di solfere, et parti.2. di carbon de salice, & per fare la poluere mezzana dicono, che si debbia pigliare parti.10. di salnitrio raffinato, & parti.2. di solfere, & parti.3. di carbon de salice, & per farla fina de archibusi dicono, che se debbia pigliar parti.10. di salnitrio raffinato solfer parti.1. carbon de uerzelle de nizola monde pur parte.1. Et per farla migliore, cioe per schioppo, uogliono che se toglia parti.27. de salnitrio raffinato solfere parti.3. carbone pur de uerzelle de nizola monde parti.4. alcuni altri dicono, che per farla piu gagliarda che si debbia tuore salnitro raffinato lire.7. solfere lire.1. carbon de uerzella de nizola monde lire.1. altri per farla molto migliore uoleno che si toglia salnitrio raffinato parti.8. solfere parte.1. carbon de uerzelle de uizola gioueni, & monde parte.1. alcuni per farla piu forte hanno uoluto aggiongere dell'argento uiuo, alcuni acqua de uitta, alcuni sal armoniaco, alcuni canfora, alcuni farla con carboni de torsi de uerzi, alcuni con carbone de gionchi, ouer di tela di lino brusiata, alcuni hanno tentato à farla in uari colori senza carboni, cioe bianca, rossa, biaua, ponendoui alcuni fiori di herbe secche in poluere che faceuano lo officio del carbone, & chi ue daseuano quel tal colore, le qual cose, à uolerle descriuere à una per una ci haueria da dire per fin à diman da mattina, & accio che quella possa uedere la differentia, che sia fra questi modi li uoglio descriuere qua sotto à uno per uno distintamente, secondo che di sopra gli ho recitati, & de molti altri non recitati per piu breuita.
+  cs: |-
+    se má vzít 100 dílů ledku {salnitrio}, 20 dílů síry {solfere} a 37 dílů uhlí {carbone}. A na jemný prach 9 dílů ledku, 3 díly síry a 6 dílů květu mirochea[^1] (to jest zkoušeli jej dělat bez uhlí, ačkoli mi tato bylina není známa, neboť takové jméno byliny jsem nikdy nemohl najít ani v Pandektách, ani u Avicenny, ani v žádném herbáři). Někteří jiní, novější, pak řekli, že na hrubý prach {poluer grossa} se mají vzít 2 díly ledku, 1 díl síry a 1 díl vrbového uhlí {carbon de salice}. A na prach pro arkebuzy {archibusi} říkají, že se mají vzít 3 díly ledku, 1 díl uhlí z mladých vrbových větví a 1 díl síry. A na jemný prach pro ručnice {schioppo} říkají, že se má vzít 5 dílů vícekrát přečištěného {raffinato} ledku, 1 díl síry a 1 díl uhlí z lískových prutů neboli z mladých jednoletých lísek. Někteří jiní říkají, že na hrubý prach se mají vzít 3 díly přečištěného ledku, 1 díl síry a 2 díly vrbového uhlí; na prostřední prach {poluere mezzana} říkají, že se má vzít 10 dílů přečištěného ledku, 2 díly síry a 3 díly vrbového uhlí; a na jemný prach pro arkebuzy říkají, že se má vzít 10 dílů přečištěného ledku, 1 díl síry a rovněž 1 díl uhlí z oloupaných lískových prutů {uerzelle de nizola monde}[^2]. A aby byl ještě lepší, totiž pro ručnice, chtějí, aby se vzalo 27 dílů přečištěného ledku, 3 díly síry a 4 díly uhlí rovněž z oloupaných lískových prutů. Někteří jiní říkají, že aby byl silnější, má se vzít 7 liber přečištěného ledku, 1 libra síry a 1 libra uhlí z oloupaných lískových prutů. Jiní, aby byl mnohem lepší, chtějí, aby se vzalo 8 dílů přečištěného ledku, 1 díl síry a 1 díl uhlí z mladých oloupaných lískových prutů. Někteří, aby byl silnější, do něj chtěli přidávat rtuť, někteří pálenku {acqua de uitta}, někteří salmiak, někteří kafr; někteří jej dělali s uhlím z košťálů kapusty, někteří s uhlím ze sítiny nebo ze spáleného lněného plátna; a někteří se pokoušeli dělat jej v různých barvách bez uhlí, totiž bílý, červený a modrý, a přidávali do něj květy sušených bylin v prášku, které plnily úlohu uhlí a dávaly mu onu barvu[^3]. Kdybych tyto věci chtěl popisovat jednu po druhé, měl bych co vyprávět až do zítřejšího rána; a aby Vaše Důstojnost mohla vidět rozdíl mezi těmito způsoby, chci je zde níže popsat jeden po druhém, tak jak jsem je výše vyjmenoval, a k tomu mnoho jiných, které jsem pro stručnost nevyjmenoval.
+- typ: tabulka
+  de:
+  - ['1', 'Poluere di bombarda al modo piu antico.', 'Salnitrio', 'parte.1.']
+  - ['', '', 'Solfere', 'parte.1.']
+  - ['', '', 'Carbone', 'parte.1.']
+  - ['2', 'Poluer di bombarda al modo non tanto antico.', 'Salnitrio', 'parti.3.']
+  - ['', '', 'Solfere', 'parti.2.']
+  - ['', '', 'Carbone', 'parti.2.']
+  - ['3', 'Poluer di bombarda al modo non tanto antico.', 'Salnitrio', 'parti.10.']
+  - ['', '', 'Solfere', 'parti.3.']
+  - ['', '', 'Carbone', 'parti.3.']
+  - ['4', 'Poluer di bombarda al modo non tanto antico.', 'Salnitrio', 'parti.12.']
+  - ['', '', 'Solfere', 'parti.3.']
+  - ['', '', 'Carbone', 'parti.2.']
+  cs:
+  - ['1', 'Prach pro bombardy {bombarda} po nejstarším způsobu', 'ledek', '1 díl']
+  - ['', '', 'síra', '1 díl']
+  - ['', '', 'uhlí', '1 díl']
+  - ['2', 'Prach pro bombardy po ne tak starém způsobu', 'ledek', '3 díly']
+  - ['', '', 'síra', '2 díly']
+  - ['', '', 'uhlí', '2 díly']
+  - ['3', 'Prach pro bombardy po ne tak starém způsobu', 'ledek', '10 dílů']
+  - ['', '', 'síra', '3 díly']
+  - ['', '', 'uhlí', '3 díly']
+  - ['4', 'Prach pro bombardy po ne tak starém způsobu', 'ledek', '12 dílů']
+  - ['', '', 'síra', '3 díly']
+  - ['', '', 'uhlí', '2 díly']
+poznamky:
+- n: 1
+  text: Fior de mirochea – neznámá bylina; Tartaglia sám přiznává, že ji nenašel v žádném herbáři. Receptura č. 10 v tabulkách.
+- n: 2
+  text: Uerzelle (uerghette) de nizola monde – oloupané pruty lísky (benátsky nizzola = nocciola, lat. avellana). Lehké uhlí z mladých lískových, vrbových nebo konopných stonků se pokládalo za nejlepší na jemný prach.
+- n: 3
+  text: Acqua de uitta (aqua vitae) – pálenka, destilát vína; sal armoniaco – salmiak (chlorid amonný); torsi de uerzi – košťály kapusty; gionchi – sítina; biaua – světle modrá.

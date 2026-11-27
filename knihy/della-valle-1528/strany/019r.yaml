@@ -1,0 +1,23 @@
+id: 019r
+list: '19'
+strana: recto
+sken: 57
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: DE FARE VNO ARLOGIO. Capitolo.XXXVI.
+  cs: Jak zhotovit hodiny. Kapitola XXXVI.
+- typ: odstavec
+  de: |-
+    QVesto e uno altro modo de fare uno altro Arlogio como qui alincontro appare, e da notare che questa corda ue sonno Vintiquatro contrapesi liquali uanno in giu, & el uaso de laqua ua in su, & anchora e da notare che quando sara una hora di notte bisogna che lo contrapeso piu basso tocca la terra, & ad doi hore lo secondo contrapeso anchora habia da toccare in terra, & cossi bisogna con questo ordine uenire tutti in giu fin che serano calati tutti li.xxiiii.contrapesi, & poi uenendo laltra sera retira in su li contrapesi como qui alincontro appare, & impi lo uaso di aqua netta che non stroppi lo buso piccolino che e da piedi, ouero un poco ad una banda di epso uaso. E da notare che da una banda lo trabucchello se potria fare una rota con lo numero del abacho delle hore, & dallo ferro de lo fuso della freza, & cossi potreti uedere anchora le hore a questo altro modo como qui alincontro uedete.
+  cs: |-
+    Toto je jiný způsob, jak zhotovit jiné hodiny {Arlogio}, jak je vidět zde naproti[^1]. Je třeba poznamenat, že na tomto provazu je dvacet čtyři protizávaží {contrapesi}, která jdou dolů, a nádoba s vodou jde nahoru. A dále je třeba poznamenat, že když bude jedna hodina v noci[^2], musí se nejnižší protizávaží dotknout země, ve dvě hodiny se má dotknout země i druhé protizávaží, a tak musejí tímto pořádkem sestupovat všechna, dokud nesestoupí všech 24 protizávaží. Potom, když přijde další večer, vytáhni protizávaží znovu nahoru, jak je vidět zde naproti, a naplň nádobu čistou vodou, aby neucpala malinký otvor, který je ve dně nebo trochu stranou na boku nádoby. A je třeba poznamenat, že na jedné straně válce {trabucchello}[^3] by se dalo udělat kolo s číslicemi hodin a na železném čepu osy šipka {freza}; tak byste mohli vidět hodiny i tímto jiným způsobem, jak to vidíte zde naproti.
+poznamky:
+- n: 1
+  text: 'Vyobrazení je na protější straně [[018v|18 v]]. Zbytek strany 19 r je v tisku prázdný.'
+- n: 2
+  text: 'Tj. hodinu po západu slunce podle italského počítání hodin (srov. kapitolu XXXV).'
+- n: 3
+  text: 'Trabucchello – zde patrně otočný válec (hřídel) nahoře v rámu, přes který vede provaz; slovo jinak znamená malé vahadlo nebo past. Věta je v tisku eliptická („& dallo ferro de lo fuso della freza“), překládáno podle smyslu: na ose válce ručka ukazující na ciferník.'

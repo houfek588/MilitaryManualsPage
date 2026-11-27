@@ -1,0 +1,93 @@
+id: 034r
+list: '34'
+strana: recto
+sken: 67
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: QVESITO NONO FATTO DAL MAGNIFICO Signor Giulio Sauorgnano.
+  cs: Devátý dotaz, který položil urozený pan Giulio Savorgnan[^1]
+- typ: odstavec
+  de: |-
+    SIGNOR GIVLIO Eglie una balla, che per diametro è onze quatro di misura, & pesa lire otto, hor ue adimando quanto pesaria unaltra, che fusse per diametro onze.6.
+  cs: |-
+    **Pan Giulio.** Mám kouli {balla}, která má v průměru čtyři unce {onze} míry[^2] a váží osm liber {lire}; nyní se vás ptám, kolik by vážila jiná, jejíž průměr by byl 6 uncí.
+- typ: odstavec
+  de: |-
+    N. La pesaria lire.27.
+  cs: |-
+    **Nicolò.** Vážila by 27 liber.
+- typ: odstavec
+  de: |-
+    S. G. Come è possibile, che una balla, che sia per diametro onze.6. de misura (che saria mezzo pie) non pesi piu de lire.27. anzi tengo, che debbia pesare piu de lire.60.
+  cs: |-
+    **Pan Giulio.** Jak je možné, aby koule, která má v průměru 6 uncí míry (což by byla půl stopy {pie}), nevážila víc než 27 liber? Naopak se domnívám, že by měla vážit přes 60 liber.
+- typ: odstavec
+  de: |-
+    N. Eglie il uero, che se tal balla fusse di ferro, et che per diametro la fusse onze.6. de misura ordinaria (che saria mezzo pie) senza dubbio tengo, che pesaria circa à dette lire.60.
+  cs: |-
+    **Nicolò.** Je pravda, že kdyby taková koule byla železná a měla v průměru 6 uncí obvyklé míry (což by byla půl stopy), bezpochyby se domnívám, že by vážila zhruba oněch 60 liber.
+- typ: odstavec
+  de: |-
+    S. G. Perche diceti adunque che la pesara solamente lire.27.
+  cs: |-
+    **Pan Giulio.** Proč tedy říkáte, že bude vážit jen 27 liber?
+- typ: odstavec
+  de: |-
+    N. Io dico, che la pesara lire.27. stante, che quella che è di diametro onze quattro pesi solamente lire otto: ma se tal balla fusse de ferro, & che de diametro la fusse (come è detto) onze quattro de misura ordinaria (cioe un terzo dun pie) la pesaria piu de lire.18. uel circa, e pero io ho risposto secondo la proposta.
+  cs: |-
+    **Nicolò.** Říkám, že bude vážit 27 liber, protože ta, která má v průměru čtyři unce, váží jen osm liber; kdyby však taková koule byla železná a měla v průměru (jak bylo řečeno) čtyři unce obvyklé míry (totiž třetinu stopy), vážila by přes 18 liber nebo kolem toho. Proto jsem odpověděl podle zadání.
+- typ: odstavec
+  de: |-
+    S. G. Et come haueti trouato quelle lire.27.
+  cs: |-
+    **Pan Giulio.** A jak jste těch 27 liber našel?
+- typ: odstavec
+  de: |-
+    N. Io le ho ritrouate in questo modo, io ho cubato quelle onze.4. (diametro della prima balla) el cubo delle quale è.64. & simelmente ho cubato quelle.6. onze (diametro della seconda balla) el cubo delle quale è.216. et dapoi per la regola del tre, dico: se.64. pesa lire.8. che pesara.216. multiplico, & parto secondo l'ordine di tal regula, & mene uenuto le dette lire.27. e pero ho concluso, che la detta seconda balla pesaria lire.27. stante che la prima pesasse solamente lire.8.
+  cs: |-
+    **Nicolò.** Našel jsem je takto: umocnil jsem na třetí ty 4 unce (průměr první koule), jejichž třetí mocnina {cubo} je 64, a stejně jsem umocnil na třetí těch 6 uncí (průměr druhé koule), jejichž třetí mocnina je 216. Potom podle trojčlenky {regola del tre} říkám: jestliže 64 váží 8 liber, kolik bude vážit 216? Násobím a dělím podle postupu tohoto pravidla a vyšlo mi oněch 27 liber. Proto jsem usoudil, že druhá koule by vážila 27 liber, když první váží jen 8 liber.
+- typ: odstavec
+  de: |-
+    S. G. Ve ho inteso benissimo.
+  cs: |-
+    **Pan Giulio.** Porozuměl jsem vám výborně.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO DECIMO FATTO DA M. ZANANtonio di Rusconi Pittor, & Architettor.
+  cs: Desátý dotaz, který položil mistr Zanantonio Rusconi, malíř a architekt[^3]
+- typ: odstavec
+  de: |-
+    ZANANTONIO Eglie una balla, che per diametro è.5. deda ui adimando come faro io a ritrouare quanto che sia el diametro duna altra balla che sia doppia à questa.
+  cs: |-
+    **Zanantonio.** Mám kouli, která má v průměru 5 prstů {deda}[^4]; ptám se vás, jak mám najít, jaký je průměr jiné koule, která je proti této dvojnásobná.
+- typ: odstavec
+  de: |-
+    N. Voi doueti cubar quelli cinque deda de diametro, el qual cubo sara 125. & questo.125. uoi lo adoppiareti, fara.250. & la radice cuba di questo.250. sara el diametro di quella seconda balla (doppia alla prima) la qual radice cuba de 250. cauandola per el modo, che ui ho mostrato uoi trouareti, che la sara alquanto piu de sei deda, cioe ui auanzara.34. rotti.
+  cs: |-
+    **Nicolò.** Musíte umocnit na třetí těch pět prstů průměru; ta třetí mocnina bude 125. Těch 125 zdvojnásobíte, bude to 250, a třetí odmocnina {radice cuba} z těchto 250 bude průměrem oné druhé koule (dvojnásobné proti první). Když tu třetí odmocninu z 250 vytáhnete způsobem, který jsem vám ukázal, zjistíte, že bude o něco větší než šest prstů, totiž zbude vám 34 na zlomek {rotti}[^5].
+- typ: odstavec
+  de: |-
+    Z. Come mi debbio gouernare con quello.34. che mi auanza per formar il conueniente rotto da accompagnar con quelli sei deda.
+  cs: |-
+    **Zanantonio.** Jak mám naložit s těmi 34, které mi zbývají, abych z nich sestavil náležitý zlomek, jenž by se připojil k oněm šesti prstům?
+- typ: odstavec
+  de: |-
+    N. La bona regola di formar el rotto di quel residuo, che auanza nella estratione della radice cuba (nelli numeri non cnbi) per fin à questa hora mai ho ritrouato in alcun Autore, che di tal materia habbia trattato, che l'habbia rettamente intesa, & questo procede (se non me inganno) perche el retto modo da cauar la detta radice cuba, dalla maggior parte è ignorato, non dico ignorato, che quelli tali non la sappiano cauare, ouer che le regole da lor poste, non seruino per cauarla, ma uoglio dire, che tai sue regole non procedeno per la uera, & retta uia naturale, perche se questi tali procedesseno per la sua retta uia nel cauar la detta radice cuba, & che intendessino poi la causa di tal suo operare, facile ui saria ad assignare con ragione la uera regola da
+  cs: |-
+    **Nicolò.** Pokud jde o správné pravidlo, jak sestavit zlomek ze zbytku, který zůstane při vytahování třetí odmocniny (u čísel, která nejsou třetími mocninami[^6]), dosud jsem nenašel žádného autora, který by o té věci psal a správně je pochopil. To pochází (nemýlím-li se) z toho, že správný způsob, jak tu třetí odmocninu vytáhnout, většině není znám. Neříkám „není znám“ v tom smyslu, že by ji tito lidé neuměli vytáhnout nebo že by pravidla, která podávají, k jejímu vytažení nesloužila; chci tím říct, že tato jejich pravidla nepostupují pravou a přímou přirozenou cestou. Kdyby totiž tito lidé postupovali při vytahování třetí odmocniny její přímou cestou a chápali pak i příčinu svého počínání, snadno by mohli rozumově stanovit pravé pravidlo, jak
+poznamky:
+- n: 1
+  text: Giulio Savorgnan (v tisku Sauorgnano, 1510–1595), friulský šlechtic ve službách Benátek, vojenský inženýr a velitel dělostřelectva, později hlavní stavitel pevnosti Palmanova (1593).
+- n: 2
+  text: Onze di misura – délková unce, dvanáctina stopy (palec); proto 6 uncí = půl stopy a 4 unce = třetina stopy. Hmotnostní unce (dvanáctina libry) je jiná míra.
+- n: 3
+  text: Giovanni Antonio (benátsky Zanantonio) Rusconi (asi 1520–1587), benátský malíř a architekt, autor ilustrovaného výkladu Vitruvia (Della architettura, vyd. 1590). Na Vitruvia navazuje i jeho další dotaz.
+- n: 4
+  text: Deda (spisovně dita, lat. digiti) – Rusconi měří po vitruviovsku v prstech.
+- n: 5
+  text: Třetí mocnina 6 je 216; 250 − 216 = 34 je zbytek, z něhož se má sestavit zlomková část odmocniny (³√250 ≈ 6,30).
+- n: 6
+  text: V tisku chybou „cnbi“ (převrácené u) místo „cubi“.

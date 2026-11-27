@@ -1,0 +1,34 @@
+id: 061r
+list: '61'
+strana: recto
+sken: 121
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SESTO FATTO DAL MEDESIMO M. Richardo Ventuorth.
+  cs: Šestý dotaz, který položil týž pan Richard Wentworth
+- typ: odstavec
+  de: |-
+    RICHARDO. Per le ragioni dette nelli precedenti dui Quesiti à me mi pare, che senza alcun uostro auiso io saperia anchor tor in disegno la pianta de una citta.
+  cs: |-
+    **Richard.** Podle výkladu z předchozích dvou dotazů se mi zdá, že bych i bez vaší rady dokázal zakreslit také půdorys {pianta} města.
+- typ: odstavec
+  de: |-
+    N. Si bene, ma in questo bisogna considerar, che li lati di una citta sono muraglie, & perche nel proprio loco, doue che è la detta muraglia non ui si puo andare, ne piantarui el nostro istromento, ne etiam le bacchette, ouer signali, perche la detta muraglia ne impedisse, e per tanto bisogna procedere per l'uno de dui modi, el primo di quali è questo: che el si puo procedere per el medesimo modo, ma andando egualmente distante à cadauna muraglia, cioe piantare el nostro istromento alquanto lontano dalla detta muraglia, come saria à dire tre piedi, & cosi se de far piantare la bacchetta, che si uuol trasguardare, medesimamente lontana dalla detta muraglia li detti tre piedi, onde trasguardando la detta bacchetta secondo l'ordinario, & annotar nella policetta, per qual uento, & numero de gradi passara la nostra linea uisuale, & dapoi far misurare la longhezza di quella tal muraglia, ouer cortina, & tal numero de passa annotarlo nella policetta consequentemente drio à quel uento, et numero de gradi, che prima fu annotati, & cosi con tal ordine andar procedendo in cadauna cortina, & se per sorte in alcuna di dette muraglie, ouer cortine ui fusse qualche porta, baluardo, ouer torrione, bisogna farne un poco di memoria nella policetta, cioe à quanti passa sara della detta cortina, etiam di quanti passa sara la sua larghezza, per poterli, & saperli poi mettere, ouer designare nel nostro disegno alli suoi debiti luochi, & con le sue debite misure, & questo medesimo modo se douera anchora osseruare, quando l'occorresse à uoler mettere in disegno un paese, doue fusse necessario à proceder per la circonferentia, ouer contorno di quello, & che nella detta sua circonferentia, ouer contorno ui fusse qualche fosso, ciese, ouer qualche altra cosa, che ne impedidesse il poter andare à piantar el nostro istromento, & le bacchette da trasguardare, in la uera circonferentia di tal sito, ouer paese, cioe, chel si doueria procedere equidistantemente à quel tal lato, cioe sel tal nostro istromento, saremo sforzati à piantarlo lontano dal uero lato de tal sito, poniamo passa .4. ouer piu, altertanti anchora se douera piantar lontano la bacchetta dall'altro capo di tal lato.
+  cs: |-
+    **Nicolò.** To jistě, ale přitom je třeba uvážit, že strany města jsou hradby {muraglie}. A protože přímo na místo, kde stojí hradba, nelze jít ani tam zarazit náš nástroj, ani tyčky {bacchette} či znamení, neboť hradba nám v tom brání, je třeba postupovat jedním ze dvou způsobů. První z nich je tento: lze postupovat týmž způsobem, ale jít ve stejné vzdálenosti od každé hradby, totiž zarazit náš nástroj poněkud dál od hradby, řekněme tři stopy {piedi}, a stejně tak dát zarazit tyčku, na kterou chceme zaměřit, rovněž ve vzdálenosti oněch tří stop od hradby. Když pak tuto tyčku obvyklým způsobem zaměříme, zapíšeme na lístek {policetta}, kterým větrem {uento} a počtem stupňů prochází naše zorná čára {linea uisuale}, a pak dáme změřit délku té hradby čili kurtiny {cortina} a ten počet kroků {passa} zapíšeme na lístek hned za vítr a počet stupňů, které byly zapsány předtím; a tímto pořádkem postupujeme u každé kurtiny. A je-li snad v některé z těch hradeb čili kurtin nějaká brána, bašta {baluardo} nebo věž {torrione}, je třeba si to trochu poznamenat na lístek, totiž v kolika krocích na té kurtině leží a kolik kroků činí její šířka, abychom je pak mohli a dovedli vynést čili zakreslit do naší kresby na příslušná místa a v příslušných rozměrech. A týž postup je třeba zachovat i tehdy, kdyby se naskytlo zakreslit krajinu {paese}, u níž by bylo nutné postupovat po jejím obvodu čili okraji, a na tom obvodu čili okraji by byl nějaký příkop {fosso}, ploty[^1] nebo nějaká jiná věc, která by nám bránila zarazit náš nástroj a tyčky k zaměřování na skutečném obvodu toho místa {sito} čili krajiny. Totiž, že by se mělo postupovat ve stejné vzdálenosti od té strany: budeme-li nuceni zarazit náš nástroj dál od skutečné strany místa, řekněme 4 kroky nebo více, právě tak daleko bude třeba zarazit i tyčku na druhém konci té strany.
+- typ: odstavec
+  de: |-
+    R. E ue ho inteso benissimo circa à questo primo modo, hor diteme pur l'altro modo.
+  cs: |-
+    **Richard.** Pokud jde o tento první způsob, porozuměl jsem vám velmi dobře; nyní mi tedy povězte ten druhý.
+- typ: odstavec
+  de: |-
+    N. L'altro modo certamente è molto piu espediente, & presto, perche in quello non ui occorre à far piantar bacchette, ne metter altri signali, perche quel brazzetto, ouer trauerso .l.m. che fu posto à squadra nella istremita di quello brazzo .g.h. ne caua de tal fastidio, perche uolendo sapere per qual uento, & grado proceda, ouer stia una cortina, ouer muraglia di tal citta, basta solamente à tuor el detto nostro istromento in mani, & andare adappozzare quel tal brazzo, ouer trauerso .l.m. in un luoco piano di tal cortina, ouer muraglia, & dapoi girarui sotto lo detto istromento, ouer bossolo, per fina à tanto, che la lenguella, ouer lancetta stia secondo el suo ordine, & fatto questo bisogna notare nella nostra policetta, per qual uento, e numero de gradi passara, ouer che discouerzera la nostra principal dioptra, perche, per quel medesimo procedera
+  cs: |-
+    **Nicolò.** Ten druhý způsob je zajisté mnohem pohodlnější a rychlejší, protože při něm není třeba dávat zarážet tyčky ani stavět jiná znamení. Onoho obtěžování nás totiž zbavuje ramínko čili příčka l m, která byla připevněna v pravém úhlu na konci ramene g h. Chceme-li totiž zjistit, kterým větrem a stupněm běží čili leží některá kurtina neboli hradba toho města, stačí jen vzít náš nástroj do rukou, jít a opřít to rameno čili příčku l m o nějaké rovné místo té kurtiny čili hradby, a pak pod ním otáčet nástrojem čili buzolou {bossolo}, až jazýček {lenguella} čili střelka {lancetta} bude stát podle svého řádu. Když je to hotovo, je třeba zapsat na náš lístek, kterým větrem a počtem stupňů prochází čili který ukáže naše hlavní dioptra {dioptra}, protože týmž [větrem a stupněm] poběží i
+poznamky:
+- n: 1
+  text: Ciese (v tisku cieſe) – benátsky „cesa“ = živý plot, ohrada (it. siepe); čtení podle skenu.

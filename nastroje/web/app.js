@@ -17,7 +17,12 @@ const oddil = {}; ODD.forEach((s, i) => { s.i = i; oddil[s.id] = s; s.deti = [];
 ODD.forEach(s => { if (s.rodic) oddil[s.rodic].deti.push(s); });
 const strana = {}; STR.forEach((p, i) => { p.i = i; strana[p.id] = p; });
 const heslo = {}; E.hesla.forEach(h => heslo[h.id] = h);
-const normDe = s => s.toLowerCase().replace(/ſ/g,'s').replace(/[åä]/g,'a').replace(/ö/g,'o').replace(/[üů]/g,'u').replace(/ß/g,'ss').replace(/th/g,'t').replace(/ey/g,'ei').replace(/ff/g,'f').replace(/dt/g,'t').replace(/ai/g,'ei').replace(/ay/g,'ei').replace(/ew/g,'eu').replace(/v/g,'f').replace(/[^a-z]/g,'');
+const normNem = s => s.toLowerCase().replace(/ſ/g,'s').replace(/[åä]/g,'a').replace(/ö/g,'o').replace(/[üů]/g,'u').replace(/ß/g,'ss').replace(/th/g,'t').replace(/ey/g,'ei').replace(/ff/g,'f').replace(/dt/g,'t').replace(/ai/g,'ei').replace(/ay/g,'ei').replace(/ew/g,'eu').replace(/v/g,'f').replace(/[^a-z]/g,'');
+// italský originál (kniha.yaml → jazyk: it): bez diakritiky, u/v, i/j/y, bez h, bez koncové samohlásky – jako norm_it v build.py
+const normIt = s => { const x = s.toLowerCase().replace(/ſ/g,'s').normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/v/g,'u').replace(/[jy]/g,'i').replace(/h/g,'').replace(/[^a-z]/g,''); return x.length > 3 ? x.replace(/[aeiou]$/, '') : x; };
+const JAZYK = M.jazyk || 'de';
+const normDe = JAZYK === 'it' ? normIt : normNem;
+const NAZEV_ORIG = {de: 'Německý originál', it: 'Italský originál'}[JAZYK] || 'Originál';
 const bezDiakritiky = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ſ/g,'s').toLowerCase();
 
 // ---------- pomocné
@@ -29,11 +34,11 @@ const folio = p => !p.list ? p.id : (/^([IVXLC]+|\d+)$/.test(p.list) && M.strank
 const folioDlouze = p => !p.list ? p.id : (/^([IVXLC]+|\d+)$/.test(p.list) && M.strankovani !== 'strany') ? `list ${p.list}, ${p.strana === 'verso' ? 'rub (verso)' : 'líc (recto)'}` : /^\d+$/.test(p.list) ? `strana ${p.list}` : p.list;
 const eraraId = p => (M.sken.zaklad_id || 0) + Number(p.sken);
 const skenUrl = p => M.sken.url_strana.replace('{sken}', p.sken).replace('{erara_id}', eraraId(p));
-const skenObr = (p, w) => M.sken.url_obrazek.replace('{sken5}', String(p.sken).padStart(5, '0')).replace('{sken4}', String(p.sken).padStart(4, '0')).replace('{erara_id}', eraraId(p)).replace('{sirka}', w);
+const skenObr = (p, w) => M.sken.url_obrazek.replace('{sken}', p.sken).replace('{sken5}', String(p.sken).padStart(5, '0')).replace('{sken4}', String(p.sken).padStart(4, '0')).replace('{erara_id}', eraraId(p)).replace('{sirka}', w);
 const hlavniOddil = s => { while (s && s.rodic) s = oddil[s.rodic]; return s; };
 const cestaOddilu = s => { const c = []; while (s) { c.unshift(s); s = s.rodic ? oddil[s.rodic] : null; } return c; };
 
-// německý tvar → heslo glosáře: přesný tvar z glosáře (E.demap), výjimky (E.demapx; '' = nepropojovat),
+// tvar originálu → heslo glosáře: přesný tvar z glosáře (E.demap), výjimky (E.demapx; '' = nepropojovat),
 // jinak základ + běžná koncovka (E.koncovky) – stejné pravidlo jako v build.py (odvod_tvar)
 const DEMAP_PORADI = {}; Object.keys(E.demap).forEach((k, i) => { DEMAP_PORADI[k] = i; });
 function najdiHeslo(n) {
@@ -127,12 +132,12 @@ function vykresli(od, doo, moznosti = {}) {
       de = hodnota(b.de, b.t, ctx);
       cz = b.cs == null ? '<span class="chybi">[překlad zatím chybí]</span>' : hodnota(b.cs, b.t, ctx);
     }
-    h += `<div class="${tridy}" id="b${i}">` + (sOrig ? `<div class="de" lang="de">${de}</div>` : '') + `<div class="cs">${cz}</div></div>`;
+    h += `<div class="${tridy}" id="b${i}">` + (sOrig ? `<div class="de" lang="${JAZYK}">${de}</div>` : '') + `<div class="cs">${cz}</div></div>`;
   }
   zavri();
   return h;
 }
-const zahlaviSloupcu = `<div class="zahlavi-sloupcu"><span class="de">Originál (${esc(M.rok)})</span><span>Český překlad</span></div>`;
+const zahlaviSloupcu = `<div class="zahlavi-sloupcu"><span class="de">${NAZEV_ORIG} (${esc(M.rok)})</span><span>Český překlad</span></div>`;
 
 // ---------- navigace mezi oddíly
 function dalsiOddil(s) {
@@ -218,7 +223,7 @@ V.strany = () => {
 V.rejstrik = () => {
   const kat = Object.entries(E.kategorie);
   return `<h1>Věcný rejstřík<span class="de">Termíny, úřady, zbraně, osoby a místa s odkazy do textu</span></h1>
-    <input class="filtr" id="filtr" type="search" placeholder="Filtrovat hesla (česky i německy)…" aria-label="Filtrovat hesla">
+    <input class="filtr" id="filtr" type="search" placeholder="Filtrovat hesla (česky i v originále)…" aria-label="Filtrovat hesla">
     ${kat.map(([k, nazev]) => {
       const hs = E.hesla.filter(h => h.kat === k).sort((a, b) => a.cs.localeCompare(b.cs, 'cs'));
       if (!hs.length) return '';

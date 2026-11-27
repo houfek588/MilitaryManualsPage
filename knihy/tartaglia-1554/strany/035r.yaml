@@ -1,0 +1,59 @@
+id: 035r
+list: '35'
+strana: recto
+sken: 69
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    alquanto piu d'un mezz digito, & gia di sopra trouassimo, che significauano manco d'un ottauo de digito, la qual cosa ne manifesta qualmente li detti nuoue ponti non hanno alcuna regolata significatione, & similmente ne aduertisse qualmente Vitruuio non haueua regola di sapere formare rettamente il rotto di quel residuo che sopravanza nelle estrattioni delle radice, cube, nelli numeri non cubici (che di sopra nel precedente quesito dicessimo hauer ritrouata) la qual dicessimo anchora esser stata ignorata da quanti Autori habbiamo letto, che di tal materia habbiam trattato.
+  cs: |-
+    o něco víc než půl prstu, kdežto výše jsme zjistili, že znamenaly méně než osminu prstu. To nám ukazuje, že těch devět teček nemá žádný pravidelný význam, a zároveň nás to upozorňuje, že Vitruvius neměl pravidlo, jak správně sestavit zlomek ze zbytku, který přebývá při vytahování třetích odmocnin z čísel, jež nejsou třetími mocninami (o němž jsme výše v předchozím dotazu řekli, že jsme je nalezli). A řekli jsme také, že je neznali všichni autoři, které jsme četli a kteří o té věci pojednávali.
+- typ: odstavec
+  de: |-
+    Z. Non posso credere, che Vitruuio ignorasse tal cosa, ma la causa debbe esser processa dalli traduttori.
+  cs: |-
+    **Zanantonio.** Nemohu uvěřit, že by Vitruvius takovou věc neznal; příčina musela vzejít od překladatelů.
+- typ: odstavec
+  de: |-
+    N. Il medesimo è nelli antichissimi in lingua Latina, ma piu che nel sasso de.20. libre, lui determina che il detto forame uorra esser de digiti diece, & piu il significato di detti nuoue ponti, & noi ritrouamo, che tal forame uorra esser de digiti diece, & piu de tre quarti d'un'altro digito, onde in questo luoco li detti nuoue ponti ueneriano à significare piu de tre quarti d'un digito, & cosi ua procedendo, & errando quasi in tutte le altre sue determinationi che seguitano.
+  cs: |-
+    **Nicolò.** Totéž stojí i v nejstarších [textech] v latinském jazyce. A navíc: u kamene o 20 librách stanoví, že otvor bude muset mít deset prstů a k tomu tolik, co znamená těch devět teček, my však nacházíme, že takový otvor bude muset mít deset prstů a víc než tři čtvrtiny dalšího prstu. Na tomto místě by tedy těch devět teček znamenalo víc než tři čtvrtiny prstu. A tak postupuje dál a chybuje skoro ve všech dalších určeních, která následují.
+- typ: odstavec
+  de: |-
+    Z. Me stupisco che tal huomo habbia errato in simil caso.
+  cs: |-
+    **Zanantonio.** Divím se, že takový muž v takové věci chyboval.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO DVODECIMO FATTO DAL Signor Iacomo di Achaia, Con una sua lettera mandata da Lezze.
+  cs: Dvanáctý dotaz, který položil pan Iacomo di Achaia[^1] dopisem zaslaným z Lecce[^2]
+- typ: odstavec
+  de: |-
+    SIGNOR IACOMO. Io ui prego di gratia, che per il lattor della presente, me uogliati mandar in dissegno quanto sia, ouer debbia essere il diametro di una palla di uno rotulo à peso, & cosi quello di una, di dui rotuli, & similmente da tre, da quattro, da cinque, da sei, & cosi procedendo per fina à quella maggior quantita de rotuli, che à uoi parera.
+  cs: |-
+    **Pan Iacomo.** Prosím vás laskavě, abyste mi po doručiteli tohoto listu poslal na nákresu, jak velký je či má být průměr koule {palla} o váze jednoho rotulu {rotulo}[^3], a stejně tak průměr koule o dvou rotulech a podobně o třech, čtyřech, pěti, šesti a tak dále až do největšího počtu rotulů, jaký uznáte za vhodný.
+- typ: odstavec
+  de: |-
+    N. A douer satisfare alla dimanda di uostra Signoria, eglie necessario che quella me dia notitia del diametro, & del peso di una balla con somma diligentia misurata, & pesata, cioe ueder di trouare una balla, & quanto piu è grossa tanto è meglio, & quella pesarla sottilmente, come se fusse di argento, & dapoi trouar diligentemente quanto è per diametro, cioe quanto è per linea, & dapoi mandarme in dissegno la longhezza di tal diametro, etiam la quantita del peso di tal balla, & darmi anchor notitia, ouer informatione che peso sia un rotulo, & come se diuide, cioe quante lire, ouer onze sia, perche tal sorte de peso non se costuma in queste bande, & facendo questo satisfaro alla petitione, ouer quesito de uostra Signoria.
+  cs: |-
+    **Nicolò.** Abych mohl vyhovět žádosti Vaší Milosti, je třeba, aby mi Vaše Milost sdělila průměr a váhu koule {balla} s největší pečlivostí změřené a zvážené: totiž hledět najít kouli – a čím větší, tím lépe –, zvážit ji přesně, jako by byla stříbrná, a pak pečlivě zjistit, jak velký je její průměr, totiž jak dlouhá je jeho úsečka, a potom mi poslat na nákresu délku toho průměru i váhu té koule a dát mi také zprávu či informaci, jakou váhu má rotul a jak se dělí, totiž kolik liber {lire} či uncí {onze} činí, protože taková váha se v těchto končinách nepoužívá. Učiníte-li to, vyhovím žádosti neboli dotazu Vaší Milosti.
+- typ: odstavec
+  de: |-
+    S. I. M. Nicolo carissimo ho riceuuta la uostra, & inteso il tutto, e per tanto ui auiso qualmente la sottoscritta linea è il diametro di una balla di ferro, qual pesa precisamente.9. rotuli, & sappiati che un rotulo è un certo peso che si usa qua in Lezze, il qual rotulo è onze.33. e un terzo di onza, cioe onze.100. sono tre rotuli.
+  cs: |-
+    **Pan Iacomo.** Nejmilejší mistře Nicolò, obdržel jsem váš dopis a všemu porozuměl. Oznamuji vám tedy, že níže nakreslená úsečka je průměr železné koule, která váží přesně 9 rotulů. A vězte, že rotul je jistá váha, která se užívá zde v Lecce; rotul má 33 a třetinu unce, takže 100 uncí jsou tři rotuly.
+- typ: odstavec
+  de: |-
+    N. Signor Iacomo honorandissimo ho riceuuta la uostra insieme con il diametro di una balla de rotuli.9. con il qual diametro ue ho ritrouato il diametro delle sottoscritte, & piu ue ne haria ritrouato, ma mi ho pensato, che questi debbano esser à sufficientia, per quello desidera uostra Signoria, & per piu commune satisfattione ho uoluto tirar tal peso de rotuli al peso de queste bande, cioe à onze.33. e un terzo per rotulo, & perche alcuni diametri ueniuano tanto
+  cs: |-
+    **Nicolò.** Velectěný pane Iacomo, obdržel jsem váš dopis spolu s průměrem koule o 9 rotulech. Podle tohoto průměru jsem vám našel průměry níže nakreslených koulí a našel bych jich i víc, ale pomyslel jsem si, že tyto budou pro to, co si Vaše Milost přeje, stačit. Pro obecnější užitek jsem také chtěl převést tu váhu v rotulech na váhu těchto končin, totiž po 33 a třetině unce na rotul. A protože některé průměry vycházely tak
+poznamky:
+- n: 1
+  text: Patrně Gian Giacomo dell’Acaya (Acaia, asi 1500–1570), vojenský architekt Karla V. v Apulii, stavitel hradu v Lecce a opevněného městečka Acaya; v tisku Iacomo di Achaia.
+- n: 2
+  text: Lezze – Lecce v Apulii, tehdy v Neapolském království.
+- n: 3
+  text: Rotulo (neapolsky rotolo) – jihoitalská váha; podle údaje tazatele 33 ⅓ unce, tj. 2 7/9 benátské libry o 12 uncích (100 uncí = 3 rotuly). Podle ní jsou dále přepočítány všechny váhy koulí.

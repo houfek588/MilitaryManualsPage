@@ -1,0 +1,60 @@
+id: 050v
+list: '50'
+strana: verso
+sken: 100
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    PRIORE. Come se potria ordinare una quantita de fanti, ouer uno essercito in una battaglia cornuta, che fusse atta à poter caminare in tal ordine contra à li nemici, & chi fusse anchora atta occorrendo il bisogno à poter allongar i corni, cioe buttarli in fuora etiam à tirarli in dentro (come suol far la lumaca, ouer bouolo) senza alcun pericolo de alcun desordine.
+  cs: |-
+    **Převor.** Jak by se dal určitý počet pěšáků {fanti} neboli vojsko {essercito} sestavit do rohatého šiku {battaglia cornuta}, který by byl schopen pochodovat v takovém uspořádání proti nepříteli a který by byl také schopen, bude-li třeba, rohy {corni} prodloužit, tj. vysunout je ven, a také je vtáhnout dovnitř (jak to dělá slimák neboli hlemýžď[^1]), bez jakéhokoli nebezpečí, že dojde ke zmatku?
+- typ: odstavec
+  de: |-
+    N. Volendo esseguir tal cosa, io diuideria tutti quelli fanti, ouer tutto quel essercito in tre parti equali, & una di quelle parti reduria in battaglia quadra di terreno, & cadauna delle altre due le reduria in battaglia quadra di gente, & non di terreno, et una di queste due battaglie, la mettaria alla banda destra della prima battaglia (gia fatta in forma quadra di gente) & l'altra ue la poneria alla banda sinistra, non continuate con quella, ma alquanto distante: accio possino caminar piu presto, ouer piu tardi di quella di mezzo (occorrendo el bisogno) senza interrompere l'andare, ouer el stare della detta battaglia di mezzo.
+  cs: |-
+    **Nicolò.** Chtěje to provést, rozdělil bych všechny ty pěšáky neboli celé to vojsko na tři stejné části. Jednu z nich bych převedl do šiku čtvercového co do plochy {battaglia quadra di terreno} a každou z ostatních dvou do šiku čtvercového co do mužstva {quadra di gente}, a ne co do plochy. Jeden z těchto dvou šiků bych postavil po pravé straně prvního šiku (již sestaveného do čtverce co do mužstva[^2]) a druhý po levé straně, ne v souvislé linii s ním, ale v jistém odstupu, aby mohly (bude-li třeba) pochodovat rychleji nebo pomaleji než šik prostřední, aniž by přerušily chůzi či stání toho prostředního šiku.
+- typ: odstavec
+  de: |-
+    P. E ue ho quasi inteso, nondimeno datime uno essempio in figura, ma sopra tutto in poca quantita de fanti, perche molto meglio se apprende la cosa nelli numeri piccoli, che nelli numeri grandi.
+  cs: |-
+    **Převor.** Skoro jsem vám porozuměl, přesto mi dejte příklad v obrazci, ale hlavně na malém počtu pěšáků, protože na malých číslech se věc pochopí mnohem lépe než na velkých.
+- typ: odstavec
+  de: |-
+    N. Poniamo, che tutti li nostri fanti fusseno trecento, li quali uolendoli redure in quella forma di battaglia, che me adimanda uostra Reuerentia, dico, che li diuideria in tre parti equali, che in cadauna saria fanti cento, & l'una di queste parti reduria in battaglia quadra di terreno (per el modo dato nel quarto Quesito) & cadauna delle altre due reduria in battaglia quadra di gente (per el modo dato nel primo Quesito) & fra queste due battaglie, gli assettaria la prima battaglia detta di sopra, cioe quella quadra di terreno, talmente, che fusse alquanto distinta, ouer disgionta da quelle, come di sotto appar in figura, accio che occorrendo à uoler far procedere auanti
+  cs: |-
+    **Nicolò.** Dejme tomu, že všech našich pěšáků je tři sta. Chtěje je převést do tvaru šiku, na který se mě Vaše Důstojnost ptá, pravím, že bych je rozdělil na tři stejné části, takže v každé by bylo sto pěšáků. Jednu z těchto částí bych převedl do šiku čtvercového co do plochy (způsobem podaným ve čtvrtém dotazu) a každou z ostatních dvou do šiku čtvercového co do mužstva (způsobem podaným v prvním dotazu) a mezi tyto dva šiky bych postavil první zmíněný šik, totiž ten čtvercový co do plochy, tak aby byl od nich poněkud oddělen neboli odpojen, jak je vidět níže na obrazci; a to proto, aby se v případě potřeby dalo nechat postoupit vpřed
+- typ: obrazek
+  soubor: drevorez-100.jpg
+  popis: >-
+    Rohatý šik ze 300 pěšáků sázený z teček (čelo nahoře, bez nápisu). Vlevo a vpravo dva rohy, každý
+    čtverec 10 řad po 10 pěšácích; mezi nimi prostřední šik čtvercový co do plochy o 6 širších řadách
+    (asi po 15 pěšácích), zarovnaný s rohy vzadu, takže rohy přečnívají dopředu o 4 řady.
+- typ: odstavec
+  de: |-
+    uno, ouer ambidue li corni, chel si possa fare senza disturbar la ordinanza di mezzo, oueramente occorrendo à uoler retirare uno, ouer ambidui di ditti corni in drio, che medesimamente el si possa fare senza impedimento della detta ordinanza di mezzo.
+  cs: |-
+    jeden nebo oba rohy bez narušení prostředního šiku {ordinanza}, nebo naopak stáhnout jeden nebo oba ty rohy dozadu, a to rovněž bez překážky pro prostřední šik.
+- typ: odstavec
+  de: |-
+    P. Credeti che tai sorte de corni fusseno quelli, che usauano li antiqui in alcune sue battaglie.
+  cs: |-
+    **Převor.** Myslíte, že právě takové rohy užívali staří v některých svých bitvách?
+- typ: odstavec
+  de: |-
+    N. Non ui saprei dire di certo se fusseno sun questa forma, ma qustea sorte me la ho imaginata da me, perche la me par hauer in se tutto quello che mi ha ricercato V.R.
+  cs: |-
+    **Nicolò.** Nedovedl bych vám s jistotou říci, zda byly v tomto tvaru; tento druh[^3] jsem si však vymyslel sám, protože se mi zdá, že má v sobě vše, co po mně Vaše Důstojnost žádala.
+- typ: odstavec
+  de: |-
+    P. Basta che la non me dispiace, anchor che la non fusse simile à questo che usauano li antichi.
+  cs: |-
+    **Převor.** Stačí, že se mi zamlouvá, i kdyby nebyl podobný tomu, čeho užívali staří.
+poznamky:
+- n: 1
+  text: Bouolo (bovolo) – benátsky „hlemýžď“, synonymum k italskému lumaca.
+- n: 2
+  text: Tisk má „gia fatta in forma quadra di gente“, ačkoli prostřední šik byl podle předchozí věty sestaven do čtverce co do plochy (quadra di terreno) – zřejmě chyba předlohy.
+- n: 3
+  text: V tisku tisková chyba „qustea“ místo „questa“.

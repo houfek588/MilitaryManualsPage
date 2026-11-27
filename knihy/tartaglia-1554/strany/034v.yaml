@@ -1,0 +1,91 @@
+id: 034v
+list: '34'
+strana: verso
+sken: 68
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    formar el suo rotto, nelli residui restanti nel suo operare.
+  cs: |-
+    sestavit její zlomek ze zbytků, které jim při počítání zůstávají.
+- typ: odstavec
+  de: |-
+    Z. La retta uia da cauare la detta radice cuba, non eglie quella, che uoi me haueti mostrata.
+  cs: |-
+    **Zanantonio.** Není snad správnou cestou, jak tu třetí odmocninu vytáhnout, ta, kterou jste mi ukázal?
+- typ: odstavec
+  de: |-
+    N. Quella propria.
+  cs: |-
+    **Nicolò.** Právě ta.
+- typ: odstavec
+  de: |-
+    Z. Dapoi che uoi me haueti mostrata tal regola, uoi me mostrareti pur anchora el modo da formar rettamente el detto rotto.
+  cs: |-
+    **Zanantonio.** Když jste mi ukázal to pravidlo, ukážete mi přece také způsob, jak ten zlomek správně sestavit.
+- typ: odstavec
+  de: |-
+    N. Per al presente uoi hareti patientia, ma ben ui prometto, che in breue con alcune altre cose insieme ue le faro uedere à uoi, et alli altri.
+  cs: |-
+    **Nicolò.** Prozatím budete muset mít strpení, ale slibuji vám, že vám to brzy spolu s některými jinými věcmi předvedu, vám i ostatním.
+- typ: odstavec
+  de: |-
+    Z. Non potendo far altro haro patientia per fin a quel tempo.
+  cs: |-
+    **Zanantonio.** Když nemohu jinak, budu mít strpení až do té doby.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO VNDECIMO FATTO DAL medesimo. M. Zanantonio di Rusconi.
+  cs: Jedenáctý dotaz, který položil týž mistr Zanantonio Rusconi
+- typ: odstavec
+  de: |-
+    ZANANTONIO. Con che regola, ouer uia determina adunque Vetruuio la proportione delle pietre, che se hanno da mettere al forame della Balista.
+  cs: |-
+    **Zanantonio.** Jakým pravidlem či postupem tedy Vitruvius určuje poměr {proportione} kamenů, které se mají přiřadit k otvoru balisty {Balista}?
+- typ: odstavec
+  de: |-
+    N. Adesso me aricordo, che la ragione, che uoi me adimandasti nel precedente Quesito è proprio quella medesima, che pone il detto Vittruuio al.17. capitulo del suo decimo libro, nel qual luoco lui conclude, che sel sasso qual debbe tirare la balista sara dui pesi, cioè de due libre) che el forame del suo capitello sara de.5. digiti, ouer dedi, e che se tal sasso sara de.4. libre, dice chel detto forame sia fatto de.6. digiti, ouer dedi, la qual determinatione è simile alla nostra fatta nel precedente Quesito respetto al numero sano, cioe al sesto, ma non al rotto, perche quello.34. che in tal luoco ne auanzo ne risponde assai piu dun quarto de digito, cioe, che tal forame doueria esser alquanto piu de digiti.6. e un quarto.
+  cs: |-
+    **Nicolò.** Teď si vzpomínám, že výpočet, na který jste se mě ptal v předchozím dotazu, je právě tentýž, jaký uvádí zmíněný Vitruvius v 17. kapitole své desáté knihy[^1]. Tam dochází k závěru, že bude-li kámen, který má balista metat, vážit dvě váhy {pesi} (totiž dvě libry), bude mít otvor její hlavice {capitello}[^2] 5 prstů {digiti} neboli dedi; a bude-li takový kámen vážit 4 libry, praví, že otvor se má udělat na 6 prstů. Toto určení se shoduje s naším z předchozího dotazu co do celého čísla, totiž šestky, ale ne co do zlomku, neboť oněch 34, které nám tam zbyly, odpovídá mnohem víc než čtvrtině prstu; to jest otvor by měl být o něco větší než 6 a čtvrt prstu.
+- typ: odstavec
+  de: |-
+    Z. Potria esser, che il fusse stato mal tradutto.
+  cs: |-
+    **Zanantonio.** Mohlo by to být špatně přeloženo.
+- typ: odstavec
+  de: |-
+    N. El medesimo si troua nel Latino.
+  cs: |-
+    **Nicolò.** Totéž stojí i v latině.
+- typ: odstavec
+  de: |-
+    Z. Vedeti mo, se nelle altre sue determinationi, che seguitano in tal luoco, sono giustamente concluse.
+  cs: |-
+    **Zanantonio.** Podívejte se tedy, zda jsou správně vyvozena jeho další určení, která na tom místě následují.
+- typ: odstavec
+  de: |-
+    N. Senza dubbio ui è qualche errore, ma piu in una, che nell'altra, & credo tutto questo proceda per ignorare quella regola da noi ritrouata (detta nel precedente Quesito) di sapere formare el suo conueniente rotto di quel residuo, che auanza nelle estrationi delle radice cube, nelli numeri non cubi, & che el sia el uero, lui conclude, che sel sasso, che se ha da tirare sara de.6. libre, che el forame del capitello de detta balista si debbia far de digiti.7. & per el rotto, che debbe esser de piu de detti digiti.7. lui mette noue ponti in forma quasi circulare.
+  cs: |-
+    **Nicolò.** Bezpochyby je v nich nějaká chyba, v jednom víc než v druhém, a myslím, že to všechno pochází z neznalosti onoho námi nalezeného pravidla (zmíněného v předchozím dotazu), jak sestavit náležitý zlomek ze zbytku, který zůstává při vytahování třetích odmocnin z čísel, jež nejsou třetími mocninami. Že je tomu tak, dokládá jeho závěr, že bude-li kámen, který se má metat, vážit 6 liber, má se otvor hlavice té balisty udělat na 7 prstů, a za zlomek, o který má být větší než těch 7 prstů, klade devět teček v podobě skoro kruhové[^3].
+- typ: odstavec
+  de: |-
+    Z. Che sa, che quelli.9. ponti non significano el conueniente rotto, ouer parte de digiti, che uol esser el detto forame de piu delli detti.7. digiti, quantunque che noi non intendamo el significato de detti noue ponti, per esser cosa antiqua.
+  cs: |-
+    **Zanantonio.** Kdo ví, zda těch 9 teček neznamená náležitý zlomek, totiž část prstu, o kterou má být otvor větší než oněch 7 prstů, i když my význam těch devíti teček nechápeme, protože je to věc starobylá.
+- typ: odstavec
+  de: |-
+    N. Quando cosi fusse necessariamente seguitaria, che in qualunque luoco doue sono posti quelli tali noue ponti, ui representassono uno medesimo rotto, la qual cosa non è uera, perche nelli detti luochi ui occorre rotti molto diuersi in quantita, essempi gratia, al detto sasso de sei libre, el detto forame uora esser de.7. digiti, & circa a uno ottauo de digito, cioe uol esser alquanto scarso de.7. digiti, & uno ottauo de digito. Et per tanto quelli noue ponti, in tal luoco ueneriano a significare alquanto manco de uno ottauo de digito. Et nel sasso de diece libre lui conclude, che el detto forame uora esser de.8. digiti, & piu el significato de detti noue ponti, & noi procedendo per l'ordine dato nel precedente Quesito, ritrouamo che el detto sasso de diece libre, uora di forame alquanto piu de digiti otto e mezzo, per il che seguitaria, che li detti noue ponti nel detto luoco significassono
+  cs: |-
+    **Nicolò.** Kdyby tomu tak bylo, nutně by z toho plynulo, že kdekoli je těch devět teček položeno, představovaly by týž zlomek; to však není pravda, neboť na těch místech se vyskytují zlomky velmi rozdílné velikosti. Například u zmíněného kamene o šesti librách má mít otvor 7 prstů a asi osminu prstu, totiž o něco méně než 7 prstů a osminu prstu[^4]. Těch devět teček by tedy na tom místě znamenalo o něco méně než osminu prstu. A u kamene o deseti librách dochází k závěru, že otvor má mít 8 prstů a k tomu tolik, co znamená těch devět teček; my však, postupujíce podle návodu z předchozího dotazu, nacházíme, že kámen o deseti librách bude vyžadovat otvor o něco větší než osm a půl prstu. Z toho by plynulo, že těch devět teček by na tom místě znamenalo
+poznamky:
+- n: 1
+  text: Vitruvius, De architectura X – kapitola o balistách (v dnešním členění X, 11), kde je tabulka průměru otvoru podle váhy kamene (2 libry – 5 prstů, 4 libry – 6 prstů, 6 liber – 7 prstů atd.). Průměr má růst s třetí odmocninou váhy, proto jde o tutéž úlohu jako v předchozí otázce (5 prstů a dvojnásobná váha).
+- n: 2
+  text: Capitello (lat. capitulum) – hlavice, tj. rám balisty s otvory pro torzní svazky ze šlach či vlasů; průměr otvoru je modulem, z něhož se odvozují všechny rozměry stroje. Prsty (digiti, dedi) viz pozn. k předchozí otázce.
+- n: 3
+  text: V rukopisech a raných vydáních Vitruvia jsou zlomkové části zapsány zvláštními znaky, které opisovači zkomolili; Tartaglia je v tištěném textu zná jako skupinu devíti teček.
+- n: 4
+  text: Podle Tartagliova vlastního pravidla vychází 5 · ∛3 ≈ 7,21 prstu, tedy víc než 7 a pětina; údaj „asi osmina, o něco méně“ výpočtu neodpovídá. Další dva údaje (10 liber ≈ 8,55 prstu, 20 liber ≈ 10,77 prstu) souhlasí.

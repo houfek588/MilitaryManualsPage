@@ -1,0 +1,79 @@
+id: 062r
+list: '62'
+strana: recto
+sken: 123
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    percotesse perpendicolarmente sopra à cadauna cortina, sempre el brazzo .g.h. lo fara manifesto.
+  cs: |-
+    by dopadal kolmo na každou kurtinu {cortina}, tomu to vždy ukáže rameno g h.
+- typ: odstavec
+  de: |-
+    R. Voi me haueti certamente molto satisfatto, uero è, che el me è occorso un'altra particolarita de adimandarui, ma per esser tardi, la uoglio lassar à dimane.
+  cs: |-
+    **Richard.** Velmi jste mi zajisté vyhověl. Pravda je, že mě napadla ještě jedna podrobnost, na kterou bych se vás chtěl zeptat, ale protože je pozdě, nechám ji na zítřek.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SETTIMO FATTO DAL MEDESIMO M. Richardo Ventuorth.
+  cs: Sedmý dotaz, který položil týž pan Richard Wentworth
+- typ: odstavec
+  de: |-
+    RICHARDO. Anchor che me habbiati (Compar carissimo) molto satisfatto in tutto quello, che nel principio ue richiese, nondimeno pensando poi, che in ogni luoco, ouer citta, non potero forsi trouare maestro, che mi potesse, ouer sapesse seruire in farmi tal istromento, ouer bossolo, per esser quello, secondo el mio parere, di non poco artificio, & per tanto ui prego, che sel fusse possibile de immaginare una qualche altra forma, che fusse de tal facilita, che fusse sicuro di poter in ogni citta ritrouare maestri, che me potessono, ouer sapessono fare.
+  cs: |-
+    **Richard.** Ačkoli jste mi (nejmilejší kmotře) ve všem, oč jsem vás na začátku žádal, velmi vyhověl, přece když potom přemýšlím, že snad ne v každém místě či městě najdu mistra, který by mi mohl nebo dovedl posloužit zhotovením takového nástroje čili buzoly {bossolo}, neboť ta je podle mého mínění nemalé umělosti, prosím vás tedy, zda by se nedala vymyslet nějaká jiná podoba, tak snadná, abych měl jistotu, že v každém městě najdu mistry, kteří by mi ji mohli či dovedli udělat.
+- typ: odstavec
+  de: |-
+    N. Io ue ne uoglio insignare à formarne uno di legno, el quale non solamente in ogni citta uoi trouareti molte persone, che uel sapranno, & potranno fare, ma anchora per uoi medesimo à un bisogno lo sapereti, & potreti fare.
+  cs: |-
+    **Nicolò.** Naučím vás zhotovit si jeden ze dřeva: nejenže v každém městě najdete mnoho lidí, kteří vám ho dovedou a budou moci udělat, ale v případě potřeby ho dovedete a budete moci udělat i vy sám.
+- typ: odstavec
+  de: |-
+    R. Voi non mi potresti fare cosa piu grata, ma dubito assai che tal cosa non sia el uero, & la causa, che mi fa dubbitare è questa, che solamente in le citta maritime, se ritroua persone, che sappiano far li bossoli, & temperare quella sua lancetta, la qual è il timone, che gouerna la naue di questa nostra pratica.
+  cs: |-
+    **Richard.** Nic milejšího byste mi nemohl učinit, ale velmi pochybuji, že je to pravda. A příčina, proč pochybuji, je tato: jen v přímořských městech se najdou lidé, kteří umějí dělat buzoly a magnetizovat[^1] jejich střelku {lancetta}, která je kormidlem řídícím loď této naší praxe.
+- typ: odstavec
+  de: |-
+    N. Eglie ben il uero, che in ogni citta non si troua cosi persone, che siano atte à far tal cosa, ma non me potreti negare, che in ogni citta non ui si troua di quelli horologietti, che uengono dalla Lemagna. con li quali al sole se pol sapere quante hore sono, & si uendono tre, ouer quattro soldi luno.
+  cs: |-
+    **Nicolò.** Je sice pravda, že ne v každém městě se najdou lidé schopní takovou věc udělat, ale nemůžete mi upřít, že v každém městě se najdou ony malé hodiny, které přicházejí z Německa, s nimiž lze podle slunce zjistit, kolik je hodin, a prodávají se po třech nebo čtyřech soldech[^2] za kus.
+- typ: odstavec
+  de: |-
+    R. Che de quelli, che hanno una Tramontanella piccola, cioe poco piu della ungia del dedo grosso.
+  cs: |-
+    **Richard.** Ty, které mají malou kompasovou střelku {Tramontanella},[^3] totiž o málo větší než nehet na palci?
+- typ: odstavec
+  de: |-
+    N. Proprio de quelli.
+  cs: |-
+    **Nicolò.** Právě ty.
+- typ: odstavec
+  de: |-
+    R. Senza dubbio, che de tali horologietti se ne ritroua per ogni citta.
+  cs: |-
+    **Richard.** Bezpochyby se takové hodinky najdou v každém městě.
+- typ: odstavec
+  de: |-
+    N. Et con uno de quelli ue uoglio insignare à farui uno istrumento, & con gran facilita, con el quale ue ne potreti seruir in tutte queste pratiche, di che hauemo fin hora parlato.
+  cs: |-
+    **Nicolò.** A s pomocí jedněch z nich vás chci naučit udělat si velmi snadno nástroj, jímž si budete moci posloužit při všech těch úkonech, o nichž jsme dosud mluvili.
+- typ: odstavec
+  de: |-
+    R. E come.
+  cs: |-
+    **Richard.** A jak?
+- typ: odstavec
+  de: |-
+    N. Io uoglio, che uoi disegnati con un compasso sopra à un foglio di carta alquanto grossa e ferma, e ben lissa, una figura simile à quella, che in principio ui mostrai di far sopra quella lama di ottone, cioè quelli medesimi circuli, con le medesime diuisioni de uenti, & de gradi, come che anchora di sotto appar in figura, ma farlo, che per diametro sia al men una spanna, accioche la sua circonferentia possa esser diuisa in .360. gradi, et dapoi che haueriti fatto questo tal disegno in carta, uoglio che tal disegno l'incollati sopra ad un quadretto di tabula di legno ben piana, et di legno ben secco, grossa circa à un dedo, & se possibil fusse farla far de legno d'ancipresso (perche tal legno non fa mutatione sensibile ne se storge per tempo) & far che el detto quadretto di tabula habbia nel mezzo de un di suoi lati un'altro quadrettino congionto di tanta grandezza, che sia capace di poterui sopra di quello incassarui, & incollarui uno delli sopradetti horologietti, che uengono da Allemagna, ma bisogna aduertire ne l'incollar el detto disegno, & el detto horologietto di far, che la Tramontana del detto disegno, et similmente quella del detto horologietto guardino rettamente per uno medesimo uerso, come di sotto appar in figura.
+  cs: |-
+    **Nicolò.** Chci, abyste kružítkem {compasso} narýsoval na list poněkud silného, pevného a dobře hladkého papíru obrazec podobný tomu, který jsem vám na začátku ukázal udělat na mosazné desce, totiž tytéž kruhy s týmž rozdělením na větry {uenti} a stupně, jak je to vidět i níže na obrázku; ale udělejte ho tak, aby měl v průměru aspoň píď {spanna}, aby se jeho obvod dal rozdělit na 360 stupňů. A když tuto kresbu na papíře uděláte, chci, abyste ji přilepil na čtvercovou desku z dobře rovného a dobře vyschlého dřeva, silnou asi na prst – a bylo-li by to možné, dejte ji udělat z cypřišového dřeva {legno d'ancipresso} (neboť toto dřevo znatelně nepracuje ani se časem nekroutí) –, a udělejte, aby ta čtvercová deska měla uprostřed jedné ze svých stran připojenou další malou čtvercovou destičku takové velikosti, aby se do ní dalo zasadit a přilepit jedny z oněch malých hodin, které přicházejí z Německa. Při přilepování kresby a hodinek je však třeba dbát, aby sever {Tramontana} kresby i sever hodinek mířily přesně týmž směrem, jak je vidět níže na obrázku.
+poznamky:
+- n: 1
+  text: Temperare la lancetta – doslova „temperovat“ střelku, tj. zmagnetovat ocelovou jehlu potřením magnetovcem (calamita) a vyvážit ji; umění vázané na výrobce lodních kompasů v přístavních městech.
+- n: 2
+  text: Soldo – drobná benátská mince (1/20 liry); malé kompasové sluneční hodiny byly tedy levné zboží.
+- n: 3
+  text: Tramontanella – zdrobnělina od Tramontana (sever, severka); zde malá magnetická střelka či kompas zabudovaný v hodinkách.

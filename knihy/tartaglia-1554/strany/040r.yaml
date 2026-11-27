@@ -1,0 +1,61 @@
+id: 040r
+list: '40'
+strana: recto
+sken: 79
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: tabulka
+  de:
+  - ['20', 'Poluer grossa moderna.', 'Salnitrio', 'parti.4.']
+  - ['', '', 'Solfere', 'parte.1.']
+  - ['', '', 'Carbone de salice', 'parte.1.']
+  - ['21', 'Poluer grossa moderna.', 'Salnitrio', 'parti.20.']
+  - ['', '', 'Solfere', 'parti.4.']
+  - ['', '', 'Carbone de salice', 'parti.5.']
+  - ['22', 'Poluer de schioppo moderna.', 'Salnitrio raffinato à secco', 'parti.48.']
+  - ['', '', 'Solfero cetrimo', 'parti.7.']
+  - ['', '', 'Carbone de nizolaro, ouer de legni del caneuo secchi', 'parti.8.']
+  - ['23', 'Poluer da schioppo moderna.', 'Salnitrio raffinato', 'parti.18.']
+  - ['', '', 'Solfere', 'parti.2.']
+  - ['', '', 'Carbon de legno de nizolaro', 'parti.3.']
+  cs:
+  - ['20', 'Hrubý prach {Poluer grossa} novodobý', 'ledek {Salnitrio}', '4 díly']
+  - ['', '', 'síra {Solfere}', '1 díl']
+  - ['', '', 'vrbové uhlí {Carbone de salice}', '1 díl']
+  - ['21', 'Hrubý prach novodobý', 'ledek', '20 dílů']
+  - ['', '', 'síra', '4 díly']
+  - ['', '', 'vrbové uhlí', '5 dílů']
+  - ['22', 'Prach pro ručnice {schioppo} novodobý', 'ledek přečištěný nasucho[^1]', '48 dílů']
+  - ['', '', 'citronová síra[^2]', '7 dílů']
+  - ['', '', 'uhlí z lísky neboli ze suchých konopných stonků', '8 dílů']
+  - ['23', 'Prach pro ručnice novodobý', 'přečištěný ledek', '18 dílů']
+  - ['', '', 'síra', '2 díly']
+  - ['', '', 'uhlí z lískového dřeva', '3 díly']
+- typ: odstavec
+  de: |-
+    Per fare qual si uoglia delle soprascritte sorte di poluere, bisogna notare, che à uoler che la sia buona, secondo la qualita sua, eglie necessario, che il salnitrio sia puro, e netto, & potente (la qual cosa si conosce da pratici à brusarne un poco) similmente che il solfere sia netto di terra, & da altre sporcitie, che in esso si troua, & che il carbone anchora non sia suboido per stare in luoco humido, ouer che il non sia misto con poluere, ouer terra, ultimamente bisogna aduertire, che tal poluere sia ottimamente pesta, & li detti tre materiali insieme ben incorporati, ilche facendo tal poluere non mancara di suoi effetti secondo la specie di quella, domente, che anchora sia da ogni humidita bene essicata, e pero la non uol esser tenuta in luoco humido, ma in luoco sutto. Anchora per un'altra ragione uol star in luoco sutto, che la humidita risolue il salnitrio in acqua, & risolto che sia discende pian piano uerso il fondo del uaso doue reposta tal poluere, per ilche nella poluere del fondo uien à esser piu salnitrio, che in quella che sta nella parte di sopra del detto uaso.
+  cs: |-
+    Má-li se udělat kterýkoli z výše zapsaných druhů prachu {poluere}, je třeba si uvědomit, že aby byl dobrý podle svého druhu, je nutné, aby ledek byl čistý, nezkalený a silný (což praktici poznají tak, že ho trochu spálí); rovněž aby síra byla očištěna od hlíny a jiných nečistot, které se v ní nacházejí; a také aby uhlí nebylo zvlhlé[^3] tím, že leželo na vlhkém místě, a nebylo smíšené s prachem či hlínou. Konečně je třeba dbát, aby byl takový prach dokonale utlučen a ty tři přísady spolu dobře spojeny. Učiní-li se to, nebude takovému prachu nic chybět na jeho účincích podle jeho druhu, pokud bude ovšem také dobře vysušen od veškeré vlhkosti; proto se nemá uchovávat na vlhkém místě, nýbrž na suchém. Na suchém místě má být ještě z jiného důvodu: vlhkost rozpouští ledek ve vodu, a když se rozpustí, klesá ponenáhlu ke dnu nádoby, v níž je takový prach uložen, takže v prachu na dně je pak víc ledku než v tom, který je v horní části nádoby.
+- typ: odstavec
+  de: |-
+    HOR Vostra Reuerentia puo uedere in quanti uarij modi è stato determinato l'ordine, ouer la proportione della quantita di sopradetti tre materiali nella compositione della detta poluere.
+  cs: |-
+    Nuže, Vaše Důstojnost může vidět, kolika rozličnými způsoby byl určován předpis {ordine} čili poměr množství zmíněných tří přísad při skládání toho prachu.
+- typ: odstavec
+  de: |-
+    P. Certamente eglie da marauigliare de tante uarie mutationi de ordini, & non posso pensare con che ragione quelli tali se siano mossi à determinar tai ordini.
+  cs: |-
+    **Převor.** Opravdu je s podivem tolik rozličných změn předpisů a nedovedu si představit, z jakého důvodu ti lidé takové předpisy stanovili.
+- typ: odstavec
+  de: |-
+    N. La prima inuentione (quantunque alcuni dicono che la fu trouata à caso) io tengo che la fusse ritrouata con ragion naturale, & speculatiuamente, cioe che tai tre materiali ben pisti, & mescolati insieme douesseno esser atti à formar un fuoco cosi gagliardo, & inestinguibile, per fin che ogni materia non fusse consumata, perche ui sono le ragion uiue cosi douer esser, ma à determinare la proportione della quantita de detti materiali, credo che con la isperientia se siano consigliati, perche nel primo ordine se fondorno su la proportion della equalita, perche il si uede, che pigliauano tanto de l'un materiale quanto che dell'altro, & quantunque tal poluere in gran quantita facesse forsi qualche buon effetto, nondimeno considerando che tal effetto procedeua dal salnitrio, fecero un'altro ordine, cioe pigliando maggior parte de salnitrio di quello faceano de cadauno delli altri, et ritrouorno tal poluer piu potente
+  cs: |-
+    **Nicolò.** Pokud jde o první vynález (ačkoli někteří říkají, že byl nalezen náhodou), domnívám se, že byl nalezen přirozeným rozumem a úvahou, totiž že tyto tři přísady, dobře utlučené a smíšené, musí být schopny vytvořit oheň tak prudký a neuhasitelný, dokud se nestráví všechna hmota; neboť pro to mluví pádné důvody. Při určování poměru množství těchto přísad se však podle mne řídili zkušeností. V prvním předpisu totiž vycházeli z poměru rovnosti, protože vidíme, že brali od jedné přísady tolik jako od druhé; a ačkoli takový prach ve velkém množství snad měl nějaký dobrý účinek, přece uvážili, že tento účinek pochází z ledku, a udělali jiný předpis, totiž vzali víc ledku než kterékoli z ostatních přísad, a shledali, že takový prach je silnější
+poznamky:
+- n: 1
+  text: Salnitrio raffinato à secco – ledek přečištěný „nasucho“, patrně přetavením bez rozpouštění ve vodě; přesný postup Tartaglia neuvádí.
+- n: 2
+  text: Solfero cetrimo (cetrino) – citronově žlutá, tj. čistá přírodní síra.
+- n: 3
+  text: Suboido – nejasné slovo, ze souvislosti „nasáklé vlhkostí, zvlhlé“.

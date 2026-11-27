@@ -1,0 +1,49 @@
+id: 048r
+list: '48'
+strana: recto
+sken: 95
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    formar uno cuneo, secondo il modo di sopra detto, & congiongerli insieme, come di sopra appare in figura con le sue ponte uerso delli nemici, cioe uerso del cuneo per torlo in meggio, & bisogna notare qualmente nella formatione di questi dui cunei, ui auanzara un fante per cadauno de loro fuora della ordinanza, perche il numero .50. non è numero quadrato, & auanza il maggior numero quadrato contenuto da quello (qual è .49.) per un fante solo, cioe fra tutti dui ui auanzaria dui fanti, come di sopra appare in figura.
+  cs: |-
+    vytvořit jeden klín {cuneo} výše popsaným způsobem a oba spojit dohromady, jak je vidět výše na obrazci, hroty proti nepříteli, tj. proti klínu, aby ho sevřely mezi sebe. Je třeba si všimnout, že při tvoření těchto dvou klínů zbude z každého z nich jeden pěšák {fante} mimo šik {ordinanza}, protože číslo 50 není čtvercové a převyšuje největší čtvercové číslo v něm obsažené (totiž 49) o jediného pěšáka; z obou dohromady by tedy zbyli dva pěšáci, jak je vidět výše na obrazci.
+- typ: odstavec
+  de: |-
+    PRIORE. Certamente non è huomo che non reputasse che li fanti che sono in quelli dui cunei che formano la detta forfice, non fusseno piu d'un tanto, e meggio de quelli che sono nel primo cuneo, & se io non gli hauesse numerati, io non lo crederei che fusseno eguali, e per tanto, io giudicarei, in dui esserciti cosi ordinati, esser maggior auantaggio nella forfice, che nel cuneo, perche la forfice piglia in meggio il detto cuneo, & quello ha da tendere nel combattere dall'una é l'altra banda, & li dui cunei della forfice non hanno da tendere nel combattere, saluo che da una banda sola cadauno de loro.
+  cs: |-
+    **Převor.** Jistě není člověka, který by si nemyslel, že pěšáků v těch dvou klínech, které tvoří zmíněné nůžky {forfice}, je víc než půldruhakrát tolik co v prvním klínu; a kdybych je nebyl spočítal, nevěřil bych, že jich je stejně. Proto bych soudil, že u dvou takto sestavených vojsk {esserciti} mají větší výhodu nůžky než klín, protože nůžky svírají ten klín mezi sebe a ten musí v boji čelit na obě strany, kdežto každý ze dvou klínů nůžek musí v boji čelit jen na jednu stranu.
+- typ: odstavec
+  de: |-
+    N. Cosi è da giudicare.
+  cs: |-
+    **Nicolò.** Tak je třeba soudit.
+- typ: odstavec
+  de: |-
+    P. Non uoglio che intramo in altra materia per questa sera, ma diman de sera uoglio che disputamo la proprieta di questa figura cunea, quando che il nemico non sapesse formar la detta forfice.
+  cs: |-
+    **Převor.** Dnes večer nechci, abychom se pouštěli do další látky, ale zítra večer chci, abychom rozebrali vlastnosti tohoto klínového obrazce pro případ, že by nepřítel nedovedl vytvořit zmíněné nůžky.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SETTIMO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Sedmý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Ben quando se ordinasse uno essercito in forma cunea, & che li nemici non hauessono l'arte di saper far la forfice, che auantaggio se potria giudicare per quella sorte figura, massime hauendo tanta gente l'una parte quanto l'altra.
+  cs: |-
+    **Převor.** Když by se tedy vojsko {essercito} sestavilo do tvaru klínu {forma cunea} a nepřítel by neovládal umění udělat nůžky, jakou výhodu by bylo možné přičíst tomuto druhu obrazce, zvláště když by obě strany měly stejně lidí?
+- typ: odstavec
+  de: |-
+    N. Quando che la contraria parte uolesse opponerse à tal figura cunea, con una forma quadra di terreno, come al presente si costuma, à tutte le ragion del mondo restara
+  cs: |-
+    **Nicolò.** Kdyby se protivná strana chtěla takovému klínovému obrazci postavit tvarem čtvercovým co do plochy {forma quadra di terreno}, jak je dnes zvykem, podle veškerého rozumu na světě zůstane
+- typ: obrazek
+  soubor: drevorez-95.jpg
+  popis: >-
+    Klín proti šiku čtvercovému co do plochy, sázený z teček (obrazec je otočený, směr útoku zprava
+    doleva). Vlevo šik, podle textu ze 100 pěšáků; v obrazci má však jen 6 svislých řad po 15 tečkách
+    a nad nimi jednu osamocenou tečku (91 teček). Čelem je obrácen napravo. U jeho čela malá písmena b (nahoře), a (uprostřed) a c (dole). Vpravo klín ze 100
+    pěšáků: 10 svislých řad o 1, 3, 5 … 19 tečkách, hrotem (jediná tečka) obrácený doleva proti bodu a.

@@ -1,0 +1,33 @@
+id: u001v
+list: '[1] v'
+strana: verso
+sken: 6
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: verse
+  de:
+  - Se un animoso core acquistar brama
+  - Ne larte militar honor egreggio
+  - E far de lopre suoi uolar la fama
+  - Nel quinto cielo al bellicoso seggio
+  - Legha questo libretto, elqual se chiama
+  - VALLO, che uale ogni thesoro e preggio
+  - Per dar ne larme (al bon soldato) lume
+  - Et adottarlo al martial costume.
+  cs:
+  - Touží-li srdce smělé získat sobě
+  - ve válečném umění čest znamenitou
+  - a slávu svých činů vznést až
+  - do pátého nebe, k sídlu válečnému,[^1]
+  - ať čte tuto knížku, jež se jmenuje
+  - VAL a stojí za každý poklad i cenu,[^2]
+  - aby (dobrému vojákovi) ve zbrani dala světlo
+  - a přivykla ho válečnému mravu.
+poznamky:
+- n: 1
+  text: |-
+    Páté nebe je podle ptolemaiovské soustavy sféra planety Marsu, tedy sídlo boha války („bellicoso seggio“ – sídlo válečné).
+- n: 2
+  text: |-
+    Slovní hříčka: VALLO (val, opevnění) – „che uale“ (který má cenu); „preggio“ za „pregio“ (tisk zkratkou p̃ggio). Pod verši je razítko knihovny LIBRARY of THE FRANKLIN INSTITUTE a tužkou psané provenienční poznámky (1950); nejsou součástí tisku.

@@ -1,0 +1,53 @@
+id: 043v
+list: '43'
+strana: verso
+sken: 86
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dette distantie ordinarie, non sara quadrata di terreno anci occupara in longhezza piedi .70. & in larghezza solamente piedi .30. onde che all'occhio parera piu che bislonga, come di sotto appare in figura.
+  cs: |-
+    zmíněných obvyklých rozestupů, čtvercový co do plochy {terreno}, nýbrž zabere na délku 70 stop {piedi} a na šířku jen 30 stop, takže se oku bude jevit výrazně podlouhlý, jak je vidět níže na obrazci.
+- typ: obrazek
+  soubor: drevorez-86.jpg
+  popis: Týž šik ze 100 pěšáků v obvyklých rozestupech, sázený z teček a otočený o 90° – 10 svislých řad po 10 tečkách, vodorovně rozestupy větší než svisle, takže obrazec je podlouhlý. Nahoře a dole nápis „Fianco“ (bok), vpravo svisle „Testa“ (hlava, čelo šiku).
+- typ: odstavec
+  de: |-
+    CONTE HIERONIMO. Ve ho inteso benissimo in quanto à questo, ma quando, che tal numero de fanti non fusse cosi quadrato, come saria se fusseno .200. fanti, la radice di quali, se non me inganno, saria .14. ma auanzaria .4. fanti, hor come doueria fare in tal caso.
+  cs: |-
+    **Hrabě Hieronimo.** Pokud jde o toto, porozuměl jsem vám velmi dobře. Ale kdyby počet pěšáků {fanti} nebyl takto čtvercový, jako by tomu bylo, kdyby bylo 200 pěšáků – jejich odmocnina {radice}, nemýlím-li se, by byla 14, ale zbyli by 4 pěšáci –, jak bych měl v takovém případě postupovat?
+- typ: odstavec
+  de: |-
+    N. In questo caso uoi ne doueresti pur mettere .14. per fila, & ueneria pur la detta battaglia quadra di gente, si come la precedente, cioe sara de .14. file à fanti .14. per fila, uero è, che ui auanzara, quelli fanti .4. fuora di tal ordinanza, li quali il Sargente li assetta doue à lui pare, fuora di tal ordinanza, ouer che li pone forsi nella coda de tal ordinanza.
+  cs: |-
+    **Nicolò.** V tomto případě byste jich přece měl postavit 14 do řady {fila} a vyšel by opět šik čtvercový co do mužstva {battaglia quadra di gente} jako předchozí, totiž o 14 řadách po 14 pěšácích v řadě; ovšem zbudou oni 4 pěšáci mimo tento šik {ordinanza}, které šikovatel {Sargente} rozestaví mimo šik, kam uzná za vhodné, nebo je snad postaví do týlu {coda} toho šiku.
+- typ: odstavec
+  de: |-
+    C.H. Anchor questa parte ho intesa benissimo, ma se il fusse un grande essercito, che mi occorresse di mettere pur in forma quadra di gente, come doueria procedere.
+  cs: |-
+    **Hrabě Hieronimo.** I tuto část jsem pochopil velmi dobře. Ale kdyby šlo o velké vojsko {essercito}, které bych měl rovněž postavit do podoby čtverce co do mužstva, jak bych měl postupovat?
+- typ: odstavec
+  de: |-
+    N. Per il medesimo modo, essempi gratia, poniamo che tal essercito sia de fanti .35000. dice che di questi .35000. fanti uoi ne doueti cauar la radice quadrata per l'ordine che ue ho insignato, & trouareti quella esser .187. & auanzara fanti .31. e per tanto se douera mettere fanti .187. per fila, & tal essercito uerra in forma quadra di gente, cioe uenira de .187. file à fanti .187. per fila, uero è, che ui auanzara quelli fanti .31. detti di sopra, li quali il Sargente li accommoda doue li pare, ma io tengo che tai residui sempre li pongano nella coda di tal essercito.
+  cs: |-
+    **Nicolò.** Týmž způsobem. Dejme tomu například, že takové vojsko má 35000 pěšáků; pravím[^1], že z těchto 35000 pěšáků máte vytáhnout druhou odmocninu {radice quadrata} postupem, který jsem vás naučil, a zjistíte, že je 187 a zbude 31 pěšáků. Proto se má postavit 187 pěšáků do řady a takové vojsko bude mít podobu čtverce co do mužstva, totiž bude o 187 řadách po 187 pěšácích v řadě; ovšem zbude oněch 31 pěšáků zmíněných výše, které šikovatel umístí, kam uzná za vhodné, ale já se domnívám, že takové zbytky se vždy staví do týlu vojska.
+- typ: odstavec
+  de: |-
+    C. H. Cosi credo anchora io.
+  cs: |-
+    **Hrabě Hieronimo.** Tak to myslím i já.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SECONDO FATTO DAL medesimo. C. Hieronimo da Piagnano.
+  cs: Druhý dotaz, který položil týž hrabě Hieronimo da Piagnano
+- typ: odstavec
+  de: |-
+    CONTE HIERONIMO. Mo occorrendomi à douer condure una quantita de fanti, ouer uno essercito in uiaggio, ouer per camino, ue adimando, come se potria sapere à quanti fanti per fila li se doueria far caminare, accio che occorrendo il bisogno, se potessono mettere in un subito in battaglia quadra di gente, & che
+  cs: |-
+    **Hrabě Hieronimo.** Kdybych nyní měl vést určitý počet pěšáků nebo vojsko na cestě čili na pochodu, ptám se vás, jak by se dalo zjistit, po kolika pěšácích v řadě je mám nechat pochodovat, aby je bylo možné v případě potřeby v okamžiku postavit do šiku čtvercového co do mužstva, a aby se
+poznamky:
+- n: 1
+  text: V tisku „dice che“ (říká) místo „dico che“ (pravím) – tisková chyba.

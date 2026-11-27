@@ -1,0 +1,50 @@
+id: 041r
+list: '41'
+strana: recto
+sken: 81
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    comparatione di quelle grosse, ouer de artegliarie alle altre sue simile, et cosi delle fine, ouer de schioppo, alle altre sue simile, perche saria cosa longa à uoler dare essempio à tutti li sapra detti ordini à uuo per uno.
+  cs: |-
+    porovnávat hrubé prachy neboli prachy pro děla s jinými jim podobnými, a stejně tak jemné neboli pro ručnice s jinými jim podobnými; bylo by totiž zdlouhavé chtít uvádět příklad u všech výše zmíněných předpisů jednoho po druhém[^1].
+- typ: odstavec
+  de: |-
+    P. Concludetemi al manco de tutti li sopra notati ordini qual sara la piu gagliarda è potente de tutte le altre.
+  cs: |-
+    **Převor.** Řekněte mi aspoň na závěr, který ze všech výše zapsaných předpisů {ordini} dá prach silnější a mocnější než všechny ostatní.
+- typ: odstavec
+  de: |-
+    N. Quella del.16. ordine sara la piu potente, & gagliarda de tutte le sopra notate (cioe quella doue se tol salnitrio raffinato piu uolte parte.10. solfere parte.1. carbon de uerzelle de nizola giouene e monde parte.1. & questa sara la piu potente per due cause. La prima è, perche tal poluere uien à tener li cinque sesti salnitrio, el qual cinque sesti è maggiore di qual si uoglia parte occorrente in qual si uoglia delli altri sopra notati ordini. La seconda causa è, che tal salnitrio ua raffinato piu uolte, che lo fa piu perfetto etiam ui concorre piu perfetto carbone, perche in effetto quanto piu el carbone è di materia leue, e dolce, eglie piu atto à riceuere, & mantenere piu facilmente il fuoco, e pero tanto piu è perfetto, per esser piu atto, & disposto à far con celerita lo officio suo.
+  cs: |-
+    **Nicolò.** Prach podle 16. předpisu bude nejmocnější a nejsilnější ze všech výše zapsaných (totiž ten, kde se bere 10 dílů vícekrát přečištěného ledku {salnitrio}, 1 díl síry {solfere} a 1 díl uhlí z mladých oloupaných lískových prutů); a nejmocnější bude ze dvou příčin. První je ta, že takový prach obsahuje pět šestin ledku, a těchto pět šestin je víc než kterýkoli díl, jenž se vyskytuje v kterémkoli z ostatních výše zapsaných předpisů. Druhá příčina je ta, že tento ledek je vícekrát přečištěný, což jej činí dokonalejším, a přistupuje k tomu i dokonalejší uhlí {carbon}; neboť opravdu čím je uhlí z lehčí a měkčí hmoty, tím je schopnější snáze přijmout a udržet oheň, a je tedy tím dokonalejší, protože je schopnější a způsobilejší rychle konat svou úlohu.
+- typ: odstavec
+  de: |-
+    P. Questa uostra openione mi consona molto, ma mi resta un dubbio di adimandarui, ma per esser tardi lo uoglio lassar à diman di sera.
+  cs: |-
+    **Převor.** Toto vaše mínění se mi velmi zamlouvá, ale zbývá mi ještě jedna pochybnost, na kterou se vás chci zeptat; protože je však pozdě, nechám ji na zítřek večer.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SETTIMO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: Sedmý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Hiersera uoi concludesti, che quella del decimosesto ordine, esser la piu fina, & piu potente, ouer gagliarda poluere de cadauno altro di sopra notati ordini, perche contien maggior parte de salnitrio, de cadauno delli predetti ordeni la qual parte è li cinque sesti del tutto, hor ue adimando se la non saria assai piu gagliarda, e potente, che la facesse con maggior parte de detti cinque sesti del medesimo salnitrio, & menor parte de un sesto fra solfere, e carbon, cioe carbon della medesima sorte.
+  cs: |-
+    **Převor.** Včera večer jste dospěl k závěru, že prach podle šestnáctého předpisu je nejjemnější a nejmocnější neboli nejsilnější ze všech výše zapsaných předpisů, protože obsahuje větší díl ledku než kterýkoli z nich, a tento díl činí pět šestin celku. Nyní se vás ptám, zda by nebyl ještě mnohem silnější a mocnější, kdyby se dělal s větším dílem téhož ledku, než je pět šestin, a s menším dílem síry a uhlí dohromady, než je jedna šestina – totiž s uhlím téhož druhu.
+- typ: odstavec
+  de: |-
+    N. Senza dubbio, che la saria piu gagliarda, e potente, domente, che tal minima parte de solfere, & carbone fusse atta, & sofficiente à far quel suo officio, che ui se aspetta, cioe ad apprendere con prestezza el fuoco, etiam à introdurlo, & mantenerlo nel salnitrio per fina che sia totalmente rissolto in fuoco, perche sel fusse tanto poca la quantita, ouer parte del detto solfere, & carbone, che la non fusse atta, e sofficiente à far tal officio, tal compositione restaria inutile, & quasi de niun ualore, e pero bisogna sopra questo molto ben aduertire, perche sel fusse possibile à far tal poluere de puro, e perfetto salnitrio, senza dubbio quella saria piu potentissima, ouer gagliardissima di qualunque altra composta de medesimo salnitrio con solfere, & carbone: ma petche el detto salnitrio per se solo non è atto ne sofficiente ad apprendere con tal cellerita el fuoco con uiua fiamma, come fa el solfere, ne etiam à conseruarlo per fina à tanto, che fusse totalmente arso, & distrutto (come fa el carbone) e pero eglie necessario à dargli la compagnia delli altri dui, cioe solfere, & carbone, & tanta quantita, che sia atta, e sofficiente à fare quel tal suo officio, che ui se aspetta (detto di sopra.)
+  cs: |-
+    **Nicolò.** Bezpochyby by byl silnější a mocnější, pokud by ten nejmenší díl síry a uhlí byl schopen a postačoval k tomu, aby konal svou úlohu, která se od něj očekává, totiž aby rychle chytil oheň a zanesl jej do ledku a udržel jej v něm, dokud se úplně nerozloží v oheň. Kdyby totiž množství neboli díl síry a uhlí bylo tak malé, že by nebylo schopné a dostatečné tuto úlohu konat, zůstalo by takové složení neužitečné a skoro bez ceny; proto je třeba na to velmi dobře dbát. Kdyby totiž bylo možné udělat takový prach z čistého a dokonalého ledku, byl by bezpochyby mnohem mocnější neboli silnější než kterýkoli jiný, složený z téhož ledku se sírou a uhlím. Ale protože ledek sám o sobě není schopen ani dostatečný k tomu, aby tak rychle chytil oheň živým plamenem, jako to činí síra, ani aby jej udržel, dokud by úplně neshořel a nestrávil se (jak to činí uhlí), je nutné dát mu společnost ostatních dvou, totiž síry a uhlí, a to v takovém množství, aby bylo schopné a dostatečné konat onu úlohu, která se od něj očekává (o níž byla řeč výše).
+- typ: odstavec
+  de: |-
+    P. E ue ho inteso benissimo, & uoglio, che questo basti per questa sera.
+  cs: |-
+    **Převor.** Porozuměl jsem vám výborně; pro dnešní večer to stačí.
+poznamky:
+- n: 1
+  text: V tisku chybou „sapra“ (sopra), „uuo“ (uno) a níže „petche“ (perche); živé záhlaví této strany je chybně QVARTO místo TERZO.

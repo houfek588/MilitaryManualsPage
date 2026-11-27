@@ -1,0 +1,27 @@
+id: 064r
+list: '64'
+strana: recto
+sken: 147
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    singillato uitio, & horribile errore attalche questa ditta de tradimento auanza ogni altra infamia.
+  cs: |-
+    zpečetěná neřest a hrozný poklesek, takže toto slovo „zrada“ převyšuje každou jinou hanbu.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE VN VINTO EL QVALE HARA fatto el debito, & e per recombattere con unaltro huomo da bene se puo essere refutato con ragion per essere stato da unaltro uinto, si o uero no. Capitolo XXI.
+  cs: |-
+    O přemoženém, který učinil, co byl povinen, a chce znovu bojovat s jiným dobrým mužem – zda může být právem odmítnut proto, že byl přemožen jiným, či nikoli. Kapitola XXI.
+- typ: odstavec
+  de: |-
+    MOuesi el dubio per quello huomo che le recercato al combattere da quel perditore, & dice & refuta non uoler combattere con lui perche e stato uinto & ha perso el suo honore, & che uincendo uinceria un che uinto, & che acquisto hara quel che ha perso, & che sia singillato ala uittoria come al perdere. Se responde per lo actore, & dice che se esso ha perso & fatto lo suo debito non ha fatto pocho, che li basta essere stato al cimento, & al mordere de arme lequale non solo da chi le conosce che sapor tene, ma da molti non uolontieri sence conduceno, & quello che hara fatto el debito per benche habia perso, & piu de quello che non sa che cosa e tal pegno, e sapore de tal pomo, & piu che se tiene per commune opinione che quello che perde facendo suo debito elle per lo torto, che molti son che hanno ragione, & refutan lo combattere, et si e uinto dal primo potria ben esso uincere altro tanto piu che se retroua piu admonito al mistiero, & piu infulminato, & per questo se potrebbe pensare la causa che sia refutato. Et piu che de piu cose che se fanno doi uolte uen meglio, ne per questo de tanti Capitani Romani che forno uinti per un
+  cs: |-
+    Vzniká pochybnost u muže, kterého onen poražený {perditore} vyzve k boji, a on říká a odmítá, že s ním nechce bojovat, protože byl přemožen a ztratil svou čest {honore}: zvítězí-li, přemůže někoho, kdo už přemožen byl – jaký zisk bude mít z toho, kdo prohrál? –, a [porážka] je zpečetěna pro vítězství stejně jako pro prohru. Za vyzyvatele {actore} se odpovídá a říká se, že jestliže prohrál a učinil, co byl povinen, neučinil málo; stačí mu, že se postavil zkoušce a zakusil kousnutí zbraní, k nimž se nejen ti, kdo vědí, jak chutnají, ale mnozí vůbec jdou neradi. A ten, kdo učinil, co byl povinen, třebaže prohrál, [má větší cenu] než ten, kdo neví, co je taková zástava a jak chutná takové ovoce. A navíc se obecně má za to, že kdo prohraje, ač činí, co je povinen, prohrává pro křivdu [své věci][^1]; vždyť je mnoho těch, kdo mají pravdu, a přece boj odmítají. A byl-li přemožen prvním, mohl by stejně dobře zvítězit nad jiným, tím spíše, že je nyní poučenější v řemesle a zapálenější; a proto by se dalo soudit, že toto je důvod, proč je odmítán. A navíc mnohé věci, které se dělají dvakrát, se podaří lépe; a proto ani tolik římských vojevůdců {Capitani Romani}, kteří byli nějakou
+poznamky:
+- n: 1
+  text: '„elle per lo torto“ (è per lo torto) – podle tehdejšího chápání souboje jako Božího soudu vítězí pravda; kdo statečně bojoval a prohrál, prohrál pro nespravedlnost své při, a ne pro zbabělost.'

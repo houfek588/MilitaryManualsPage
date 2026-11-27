@@ -1,0 +1,43 @@
+id: 063v
+list: '63'
+strana: verso
+sken: 126
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ottone, perche in quello di ottone, oltra che ui occorre maggior difficolta in far quelli dui bracci della sua dioptra, che siano rettissimi (per esser di metallo) di quello, che occorre nelli dui bracci della soprascritta dioptra .a.b. (per esser piu facile da lauorar con la piona il legno del metallo) ma poniamo anchora che gli detti bracci di ottone (per la buona diligentia del maestro fusseno fatti di tanta giustezza, quanto quelli di legno) dico che eglie difficile assai ad assettarli poi in quella sua armilla, che si incontrano rettamente, & non incontrandosi tal istromento saria falso, & oltra di questo, eglie anchora molto difficoltoso, che tal armilla uada, ouer intraga talmente giusta, ouer sazzadamente, in quella altra armilla saldata à torno del bossolo, che non scantini piu in un luoco, che in un'altro, ilche facendo tal dioptra non rispondera il uero grado, ilche facendo tal istromento saria falso. Et oltra di questo, non è molto facile ad assaldare quella prima armilla à torno al centro di tal istromento di ottone, che sia perfettamente concentrica con il detto istromento, & non essendo concentrica tal istromento saria falso, e per tanto dico, che à far tal dioptra di legno per il modo dato di sopra non ui occorre alcune delle sopradette difficolta, ma solamente bisogna esser diligente in far, che quella prima righetta, ouer listetta sia giustissima (ilche facilmente per lo sopradetto modo da noi posto nel Terzo libro detto Nuona Scientia) si puo conoscere, & uedere.
+  cs: |-
+    mosazný. U mosazného je totiž za prvé větší potíž udělat obě ramena jeho dioptry {dioptra} naprosto rovná (protože jsou z kovu) než u obou ramen výše popsané dioptry a b (neboť dřevo se hoblíkem[^1] opracovává snáze než kov). Ale předpokládejme i, že by ona mosazná ramena byla (díky pečlivosti mistra) zhotovena stejně přesně jako dřevěná: pravím, že je pak velmi obtížné usadit je do jejich obruče {armilla} tak, aby se přesně setkávala [ve středu], a kdyby se nesetkávala, byl by nástroj nepřesný. A kromě toho je také velmi obtížné, aby ta obruč šla čili zapadala do oné druhé obruče, připájené kolem buzoly {bossolo}, tak přesně a těsně, aby se na jednom místě neviklala víc než na jiném; kdyby se tak dělo, neukazovala by dioptra pravý stupeň, a tím by byl nástroj nepřesný. A dále není příliš snadné připájet onu první obruč kolem středu mosazného nástroje tak, aby byla s nástrojem dokonale soustředná, a kdyby soustředná nebyla, byl by nástroj nepřesný. Proto pravím, že když se dioptra dělá ze dřeva výše uvedeným způsobem, nenastane žádná z výše zmíněných potíží; je jen třeba pečlivě dbát, aby ona první lišta čili laťka byla naprosto přesná (což lze snadno poznat a ověřit výše zmíněným způsobem, který jsme uvedli ve třetí knize, nazvané Nová věda).[^2]
+- typ: odstavec
+  de: |-
+    R. Considero che eglie il uero quello, che uoi diceti, ma eglie se non una cosa, che quel quadretto doue uoleti che ui se incassi il detto horologietto, par che molto disdica cosi congionto in quel lato, de fuora uia.
+  cs: |-
+    **Richard.** Uznávám, že je pravda, co říkáte; jen jedna věc: ta čtvercová destička, do níž chcete zasadit zmíněné hodinky, působí takto připojená zvenčí k té straně dost nevhodně.
+- typ: odstavec
+  de: |-
+    N. Circa à questo, ui se gli potria rimediare in piu modi, l'uno di quali è questo, il se potria da tal horologietto segarui, ouer tagliarui fuora quel poco bossoletto, cioe quella tramontanella, & tal tramontanella incassarla in uno de quelli spaci uacui de quelli angoli del quadrato, che conterminorno con il medesimo lato doue che è congionto tal quadretto, cioe in quel spacio doue è signato .o. ouer nel l'altro, ma bisogna auertire nell'incassar tal bossoletto, ouer tramontanella, in tal luoco de far che la Tramontana de tal bossoletto, guardi per quel medesimo uerso, che guardara quella del nostro dissegno, cioe che la linea che ua da Ostro à Tramontana nel bossoletto stia equidistante à quella, che medesimamente ua da Ostro à Tramontana del nostro dissegno, il qual bossoletto essendo cosi assettato, tanto ui seruira, come se quel fusse, come era prima, cioe congionto con quel lato de fuora uia.
+  cs: |-
+    **Nicolò.** Tomu by se dalo odpomoci několika způsoby. Jeden z nich je tento: z těch hodinek by se dala vyříznout čili vyjmout ta malá buzolka {bossoletto}, totiž ona kompasová střelka {tramontanella}, a tu zasadit do jednoho z oněch prázdných prostorů v rozích čtverce, které sousedí s toutéž stranou, k níž je připojena ta destička, totiž do toho prostoru, kde je vyznačeno o, nebo do toho druhého. Při zasazování té buzolky čili střelky na takové místo je však třeba dbát, aby sever {Tramontana} buzolky mířil týmž směrem jako sever naší kresby, totiž aby čára, která v buzolce vede od jihu {Ostro} k severu, byla rovnoběžná s tou, která rovněž vede od jihu k severu na naší kresbě. Takto usazená buzolka vám poslouží stejně, jako kdyby byla jako předtím, totiž připojená k té straně zvenčí.
+- typ: odstavec
+  de: |-
+    R. A questo modo sta molto meglio, & molto piu mi piace dell'altro. Nondimeno ho à caro di hauer inteso l'uno, e l'altro, & per al presente non ui uoglio dare altro fastidio. Ma un'altra uolta con piu uostro, & mia commodita, uorro poi che anchora mi dichiarati di quell'altra forma de istromento, ouer bossolo, che serue senza dioptra.
+  cs: |-
+    **Richard.** Takto je to mnohem lepší a líbí se mi to mnohem víc než to první. Přesto jsem rád, že jsem poznal obojí, a pro tuto chvíli vás už nechci dále obtěžovat. Ale jindy, až to bude vám i mně pohodlnější, budu chtít, abyste mi vysvětlil ještě onu jinou podobu nástroje čili buzoly, která se obejde bez dioptry.
+- typ: odstavec
+  de: |-
+    N. Ogni uolta che ui sia accommodo son sempre apparato à farui appiacere. Ma una cosa ui ho da ricordare, ogni uolta che uoleti operare tal istromento auertir, che non ui sia propinquo ferro di sorte alcuna, perche il bossolo, ouer calamita, non ui risponderia il uero, e pero in tal negocio non si debbe portar spada, ne pugnal cinto, perche il pomo spesse uolte ui faria errare, & non di poco.
+  cs: |-
+    **Nicolò.** Kdykoli se vám to bude hodit, jsem vždy připraven vám vyhovět. Jednu věc vám však musím připomenout: kdykoli chcete s tímto nástrojem pracovat, dbejte, aby poblíž nebylo železo jakéhokoli druhu, protože buzola čili magnetovec {calamita} by vám neukazovaly správně. Proto se při této práci nemá nosit u pasu meč ani dýka, neboť jejich hlavice by vás často svedla k chybě, a to nemalé.
+- typ: odstavec
+  de: |-
+    Il fine del Quinto Libro.
+  cs: |-
+    Konec páté knihy.
+poznamky:
+- n: 1
+  text: Piona – benátsky hoblík (it. pialla).
+- n: 2
+  text: V tisku „Nuona Scientia“ (tisková chyba za „Noua Scientia“); Tartagliova Nova scientia (1537). Závorka je v tisku uzavřena až za názvem spisu, ne za celou vložkou.

@@ -1,0 +1,46 @@
+id: 026v
+list: '26'
+strana: verso
+sken: 52
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-52.jpg
+  popis: |-
+    První obrazec k dvacátému třetímu dotazu. Nahoře samotná měřicí pomůcka: dvě rovnoběžné tyče (lišty) A–B a C–D, na koncích B a D spojené dvěma příčkami. Pod ní táž pomůcka nasazená na dělo ležící vodorovně (závěr s knoflíkem vlevo, ústí vpravo): tyč C–D je zasunuta ústím do hlavně a přiléhá k horní straně vývrtu, tyč A–B vede nad dělem; krátká svislá úsečka E vlevo u bodu A značí vzdálenost konce vnější tyče od kovu děla.
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    (capo de l'asta, ouer lista) al mettallo de tal pezzo in tal luoco, & poniamo che tal distantia sia precise quanto, che è la lineetta. e. & fatto questo, el si de tramutar tai aste, ouer liste in uno altro luoco, ouer banda di tal pezzo, hor trasmutamola (per far la differentia piu sensibile) nella parte opposita, come in questa altra figura appare, et cosi in tal luoco misuraremo pur (ouer faremo misurare) in tal luoco la distantia, che sara dal medesimo ponto. a. (capo de l'asta) al pezzo ouer mettallo, la qual distantia supponamo, che la sia quanto è la linea. f. hor dico, che se per caso la linea. f. fusse stata equale alla linea. e. el mettallo di tal pezzo saria stato equalmente grosso si de sopra, come di sotto di tal pezzo: ma perche in questo caso sensibelmente trouamo la linea. f.
+  cs: |-
+    (konce tyče neboli lišty) ke kovu děla {pezzo} na tom místě; a předpokládejme, že tato vzdálenost je přesně taková jako úsečka e. Když je to hotovo, je třeba tyče neboli lišty přemístit na jiné místo neboli stranu děla. Přemístěme je tedy (aby byl rozdíl patrnější) na protější stranu, jak je vidět na tomto druhém obrazci, a na tomto místě opět změříme (nebo dáme změřit) vzdálenost od téhož bodu a. (konce tyče) k dělu neboli ke kovu; předpokládejme, že tato vzdálenost je taková jako úsečka f. Nuže pravím: kdyby úsečka f. byla stejná jako úsečka e., byl by kov toho děla stejně silný nahoře jako dole. Protože však v tomto případě shledáváme, že úsečka f.
+- typ: obrazek
+  soubor: drevorez-52b.jpg
+  popis: |-
+    Druhý obrazec: totéž dělo s pomůckou otočenou na protější stranu. Tyč C–D je zasunuta v hlavni a přiléhá nyní k její opačné straně, vnější tyč A–B vede pod dělem; svislá úsečka F u bodu A značí vzdálenost konce vnější tyče od kovu, zřetelně delší než úsečka E na prvním obrazci.
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    esser molto maggiore della linea. e. e per tanto concluderemo esser molto piu grosso el mettallo di sopra, che di sotto in tal pezzo, & tanto piu grosso, quanto che la linea. f. sara piu longa della linea. e. & con tal ordine, e modo se die procedere dalla banda destra, & dalla sinistra etiam in tutte le altre parte, ouer bande a torno a torno di tal pezzo notando sempre le dette distantie per linee, & con tai linee se conoscera minutamente la grossezza, & sottigliezza del mettallo à torno à torno del foro di tal pezzo, etiam per qual uerso, ouer banda penderanno li suoi tiri per le ragioni, per auanti dette, che è il proposito.
+  cs: |-
+    je znatelně mnohem větší než úsečka e., usoudíme, že kov je u toho děla nahoře mnohem silnější než dole, a to o tolik silnější, o kolik bude úsečka f. delší než úsečka e. Týmž pořádkem a způsobem je třeba postupovat na pravé i levé straně i na všech ostatních místech neboli stranách dokola kolem děla a zaznamenávat vždy zjištěné vzdálenosti úsečkami. Podle těch úseček se pak podrobně pozná síla a tenkost kovu dokola kolem vývrtu {foro} děla a také to, ke které straně se budou jeho rány {tiri} odchylovat, z důvodů uvedených výše; a o to šlo.
+- typ: odstavec
+  de: |-
+    A. Questo uostro modo è molto spediente, et me piace assai.
+  cs: |-
+    **Alberghetto.** Tento váš způsob je velmi pohotový a velice se mi líbí.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO VIGESIMOQVARTO FATTO DAL medesimo M. Alberghetto.
+  cs: |-
+    Dvacátý čtvrtý dotaz, který položil týž mistr Alberghetto
+- typ: odstavec
+  de: |-
+    ALBERGHETTO. Vn'altro dubbio ue uoglio addimandare. Accadete una uolta, che prouandosi alcuni pezzi à lio, uno de ditti pezzi dapoi alcuni tiri nel discargarse, andete con la testa dauanti in terra, cioe con la bocca, et subito che tal pezzo fu gionto con la detta bocca in terra (doue era molta sabbia, ouer sabbione) tiro
+  cs: |-
+    **Alberghetto.** Chci se vás zeptat ještě na jednu pochybnost. Jednou se stalo, že když se na Lidu[^1] zkoušelo několik děl {pezzi}, jedno z nich po několika ranách při výstřelu dopadlo předkem, to jest ústím, na zem; a jakmile se to dělo ústím dotklo země (kde bylo mnoho písku neboli hrubého písku), vtáhlo
+poznamky:
+- n: 1
+  text: „à Lio“ – benátsky Lido, písčitý ostrov oddělující benátskou lagunu od moře; na jeho plážích se zkoušela děla odlitá v Arzenálu.

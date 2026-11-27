@@ -1,0 +1,29 @@
+id: 064v
+list: '64'
+strana: verso
+sken: 148
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    tempo che fussero tacciati, & che non li sia concesso dhauere affare delle altre singulare, & buone opere, & merito del triumpho, & fare cento per una & piu che uno che dorme non e morto, & ancho piu che ui son molti chel dubitare fa cognoscere el caso che da paura uiene ad morte, quello che ad te potria succedere, & de mene fatto proua, siche non e de ragione dare la causa & non seguire lo effetto, & quando se da la causa & non se pensa el fine, non basta ne conuene stare.
+  cs: |-
+    dobu poraženi, nebyli haněni, ani se jim neodpíralo, aby vykonali jiné jedinečné a dobré činy, zasloužili si triumf {triumpho}[^1] a [vrátili] stokrát víc za jednu [porážku]. A navíc: kdo spí, není mrtvý. A také: je mnoho těch, jimž pochybování dá poznat, že ze strachu přichází smrt – což by se mohlo stát i tobě, a sám jsem to zakusil. Není tedy správné dát podnět a nesledovat jeho následek; a když se dává podnět a nemyslí se na konec, nestačí a nesluší se zůstat stát.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE VN CAPITANO DESFIDA da uno milite priuato, se si puo rifutare lo combattere si o no. Capitolo XXII.
+  cs: |-
+    O kapitánovi {Capitano} vyzvaném[^2] prostým válečníkem {milite priuato} – zda smí boj odmítnout, či nikoli. Kapitola XXII.
+- typ: odstavec
+  de: |-
+    ET mouesi el dubio per lo Capitano, dicendo che lui non uuole mettere in compromesso lo titolo, & nobilita del gouerno, & lo acquistato per lo acquistare che lui e in essere, & quello ha da essere, Ma quando sera de soa portata & conditione non e per mancare al mistiero, Se risponde per lo attore che exercitando la militia honoratamente la quale e commune pretio & arte alluno, et alaltro concessa, se dice con ragione non potterlo refutare dal Capitano hauendo data licita causa allo milite che habbia da recercare anchora chel sia titolato Capitano non conuene per tal zelo & nome sia licito offendere lhonore ad chi conuiene stimarlo, & fare secondo conuiene ad tal mestiero, ben e uero che non seria iusto quando fosse procinto de fare giornata generale dello exercito, o in loco de assedio el Capitano e excusato e atteso che importa allo
+  cs: |-
+    A vzniká pochybnost u kapitána, který říká, že nechce dát v sázku titul a vznešenost svého velení ani to, co získal, za to, co teprve má získat – co je a co má být; ale až to bude [protivník] jeho postavení a stavu, nebude [v tom] řemeslu chybět. Za vyzyvatele {attore} se odpovídá, že ten, kdo čestně vykonává válečné řemeslo {militia}, které je společnou hodnotou a uměním dopřaným jednomu i druhému, nemůže – jak se právem říká – být kapitánem odmítnut, jestliže kapitán dal válečníkovi oprávněný důvod, aby [ho] vyzval. Třebaže má titul kapitána, nesluší se, aby mu pro takovou horlivost a jméno bylo dovoleno urážet čest toho, koho má vážit; [má] jednat, jak se na takové řemeslo sluší. Je ovšem pravda, že by to nebylo spravedlivé, kdyby se vojsko {exercito} chystalo svést generální bitvu {giornata generale} nebo kdyby byl při obléhání {assedio}: tu je kapitán omluven, ježto jde o
+poznamky:
+- n: 1
+  text: 'Triumf – slavnostní vjezd vítězného vojevůdce do Říma; Della Valle naráží na římské vojevůdce, kteří po porážce zvítězili (obecný příklad bez jmen).'
+- n: 2
+  text: 'V tisku „DESFIDA“ s dělicím znaménkem na konci řádku a dál „da uno milite“ – patrně zkrácené či chybně vysázené „desfidato“ (vyzvaný).'

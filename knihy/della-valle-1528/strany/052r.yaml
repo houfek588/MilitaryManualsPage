@@ -1,0 +1,16 @@
+id: 052r
+list: '52'
+strana: recto
+sken: 123
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: A FARE DOI BATTAGLIONI IN QVADRANGOLO CAPITOLO. XLIII.
+  cs: Jak postavit dva bataillony ve čtyřúhelníku. Kapitola XLIII.
+- typ: odstavec
+  de: |-
+    QVesti sono doi battaglioni in quadrangolo luno contra laltro & ogniuno de epso caccia uno pezo de ordinanza per dare per fianco & ogniuno prendendo el suo auantagio come qui alincontro appare.
+  cs: |-
+    Toto jsou dva bataillony {battaglioni} ve čtyřúhelníku {quadrangolo} proti sobě a každý z nich vysílá kus šiku {ordinanza}, aby udeřil [nepříteli] do boku {per fianco}, a každý přitom využívá své výhody, jak je vidět na protější straně.

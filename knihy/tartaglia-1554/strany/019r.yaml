@@ -1,0 +1,68 @@
+id: 019r
+list: '19'
+strana: recto
+sken: 37
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  de:
+  - Colobrina da lire.16.di balla di ferro de longhezza de piedi.7.e meggio, uol di metallo lire.1750.& per condurla caualli para.4.in.5.
+  - Passauolante da lire.16.di longhezza piedi.12.uol di metallo lire.2740.& per condurlo buoui para.5.
+  - Colobrina da lire.14.di longhezza piedi.8.e meggio, uol di metallo lire.2233.& per condurla buoui para.5.
+  - Colubrina da lire.20.di longhezza piedi.10.uol di metallo lire.4300.& per condurla buoui para.7.
+  - Vn canon da lire.20.di longhezza piedi.7.uol di metallo lire.2200.& per condurlo buoui para.5.
+  - Vn canon da lire.20.di longhezza piedi.8.uol di metallo lire.2500.& per condurlo buoui para.5.in.6.
+  - Vna colobrina da lire.30.di longhezza piedi [ ] uol di metallo lire [ ] & per condurla buoui para.8.
+  - Vn canon da lire.30.di longhezza piedi [ ] uol di metallo lire [ ] & per condurlo buoui para.6.
+  - Vna colobrina da lire.50.da piedi.10.e meggio, di longhezza uol di metallo lire.5387.& per condurla buoui para.12.
+  - Et una colobrina pur da lire.50.di longhezza de piedi.12.uol di metallo lire.6600.& per condurla buoui para.14.
+  - Vn canon da lire.50.di longhezza de piedi.8.e meggio, uol di metallo lire.4000.& per condurlo para.9.de buoui.
+  - Vn canon da lire.100.di longhezza de piedi.9.e meggio, uol di metallo lire.8800.& per condurlo buoui para.18.
+  - Canoni da lire.120.di longhezza piedi.10.uol di metallo lire.12459.& per condurli buoui para.25.
+  - Colobrine da lire.120.di longhezza de piedi.15.uol di metallo lire.13000.& per condurle buoui para.28.
+  cs:
+  - Kolubrina {Colobrina} na 16 liber {lire} železné koule, dlouhá 7 a půl stopy {piedi}, potřebuje 1750 liber kovu a k převozu 4 až 5 párů koní.
+  - Passavolante {Passauolante}[^1] na 16 liber, dlouhý 12 stop, potřebuje 2740 liber kovu a k převozu 5 párů volů.
+  - Kolubrina na 14 liber, dlouhá 8 a půl stopy, potřebuje 2233 liber kovu a k převozu 5 párů volů.
+  - Kolubrina na 20 liber, dlouhá 10 stop, potřebuje 4300 liber kovu a k převozu 7 párů volů.
+  - Kanon {canon} na 20 liber, dlouhý 7 stop, potřebuje 2200 liber kovu a k převozu 5 párů volů.
+  - Kanon na 20 liber, dlouhý 8 stop, potřebuje 2500 liber kovu a k převozu 5 až 6 párů volů.
+  - Kolubrina na 30 liber, dlouhá [ ] stop, potřebuje [ ] liber kovu a k převozu 8 párů volů.[^2]
+  - Kanon na 30 liber, dlouhý [ ] stop, potřebuje [ ] liber kovu a k převozu 6 párů volů.
+  - Kolubrina na 50 liber, dlouhá 10 a půl stopy, potřebuje 5387 liber kovu a k převozu 12 párů volů.
+  - A jiná kolubrina rovněž na 50 liber, dlouhá 12 stop, potřebuje 6600 liber kovu a k převozu 14 párů volů.
+  - Kanon na 50 liber, dlouhý 8 a půl stopy, potřebuje 4000 liber kovu a k převozu 9 párů volů.
+  - Kanon na 100 liber, dlouhý 9 a půl stopy, potřebuje 8800 liber kovu a k převozu 18 párů volů.
+  - Kanony na 120 liber, dlouhé 10 stop, potřebují 12459 liber kovu a k převozu 25 párů volů.
+  - Kolubriny na 120 liber, dlouhé 15 stop, potřebují 13000 liber kovu a k převozu 28 párů volů.
+- typ: odstavec
+  de: |-
+    N. Vostra Signoria non me ne dica piu, perche mi bastaua della mita di questi che ho notati.
+  cs: |-
+    **Nicolò.** Vaše Milost {Vostra Signoria} mi už víc nemusí říkat, vždyť by mi stačila i polovina těch, které jsem si zapsal.
+- typ: odstavec
+  de: |-
+    P. Me ne resta de dirui solamente sei altri, e pero compiteli, cioe ui sono anchora bombarde de lire.250.di balla di pietra, di longhezza piedi.10.e meggio, che uol di metallo lire.8900.& per condurle para.18.in.19.de buoui.
+  cs: |-
+    **Převor.** Zbývá mi říci vám už jen šest dalších, tak je dopište. Jsou ještě bombardy {bombarde} na 250 liber kamenné koule, dlouhé 10 a půl stopy, které potřebují 8900 liber kovu a k převozu 18 až 19 párů volů.
+- typ: seznam
+  de:
+  - Altre da lire.150.longhe piedi.10.che uol di metallo lire.6146.& per condurle buoui para.12.
+  - Altre da lire.100.longhe pur piedi.10.che uol di metallo lire.5500.& per condurle buoui para.11.
+  - Altre pur da lire.100.longhe solamente piedi.8.e meggio, che uol di metallo lire.4500.& per condurle buoui para.9.
+  - Anchora ui sono cortaldi da lire.45.longhi piedi.7.che uoleno di metallo lire.2740.& per condurli buoui para.5.
+  - Vn'altra sorte de cortaldi da lire.30.longhi piedi.7.e meggio, uoleno di metallo lire.1600.& per condurli buoui para.3.& cosi faremo fine.
+  cs:
+  - Jiné na 150 liber, dlouhé 10 stop, které potřebují 6146 liber kovu a k převozu 12 párů volů.
+  - Jiné na 100 liber, rovněž dlouhé 10 stop, které potřebují 5500 liber kovu a k převozu 11 párů volů.
+  - Jiné rovněž na 100 liber, dlouhé jen 8 a půl stopy, které potřebují 4500 liber kovu a k převozu 9 párů volů.
+  - Jsou ještě kortaldy {cortaldi}[^3] na 45 liber, dlouhé 7 stop, které potřebují 2740 liber kovu a k převozu 5 párů volů.
+  - Jiný druh kortaldů na 30 liber, dlouhých 7 a půl stopy, které potřebují 1600 liber kovu a k převozu 3 páry volů. A tím skončíme.
+poznamky:
+- n: 1
+  text: Passavolante – dlouhé dělo malé až střední ráže (kulverinového typu) na daleké střely.
+- n: 2
+  text: U kolubriny a kanonu na 30 liber nechal tisk pro délku a váhu kovu prázdné místo – údaje zřejmě chyběly už v převorově zápisníku.
+- n: 3
+  text: Cortaldo (kortald) – krátké těžké dělo velké ráže na kamenné koule.

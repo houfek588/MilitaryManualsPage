@@ -1,0 +1,105 @@
+id: 003r
+list: '[3] r'
+strana: recto
+sken: 5
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  pokracovani: true
+  de:
+  - |-
+    ziffolaua molto forte per aere, & alle altri tiri la balla ui ueniua tacita & quieta. a car. 33. al Quesito. 7.
+  - |-
+    Qual andara piu lontano una balla graue, ouer legera. a car. 34. al Quesito. 8.
+  - |-
+    Certe regole, che per la notitia del diometro & peso di una balla se puol determinare el peso, ouer el diametro di qualunque altra. a car. 34. al Quesito. 9. & 10.
+  - |-
+    La determinatione del diametro de piu sorte balle per linea ritrouati geometrice per la notitia d'un diametro dato. a car. 35. al Quesito. 11. & 12.
+  cs:
+  - |-
+    velmi silně svištěla vzduchem, kdežto při dalších ranách k nim přilétala tiše a klidně. – Na [[033r|listu 33]], dotaz 7.
+  - |-
+    Která koule {balla} doletí dál, těžká, nebo lehká. – Na [[034r|listu 34]], dotaz 8.
+  - |-
+    Některá pravidla, jak ze znalosti průměru {diometro} a váhy jedné koule určit váhu nebo průměr kterékoli jiné. – Na [[034r|listu 34]], dotazy 9 a 10.
+  - |-
+    Určení průměrů koulí několika druhů, nalezených geometricky pomocí čar, ze znalosti jednoho daného průměru. – Na [[035r|listu 35]], dotazy 11 a 12.
+- typ: nadpis
+  uroven: 3
+  de: El suggetto delli Quesiti del Terzo libro.
+  cs: Předmět dotazů {Quesiti} třetí knihy
+- typ: seznam
+  de:
+  - |-
+    Qualmente la notitia del Salnitrio & la natura sua è antiquissima & come ne sono de uarie specie. a car. 37. al Quesito. 1. & 2.
+  - |-
+    Perche causa li antiqui non sepeno componer la poluere delle artegliarie. a carte 38. al Quesito. 3.
+  - |-
+    Che uirtu, ouer officio particolare ha cadauno di tre simplici, ouer materiali, cioe Salnitrio, Solphere et Carbone nella compositione della poluere. a car. 38. al Quesito. 4.
+  - |-
+    Chi fu inuentor della poluere, & con che ragione fu determinata la proportione della quantita de cadauno de detti tre materiali. a car. 39. al Quesito. 5.
+  - |-
+    Delli uarij ordeni si antiqui come moderni usitadi nella compositione delle poluere grosse & fine. a car. 39. al Quesito. 5.
+  - |-
+    Come se puol conoscere una poluere esser piu potente de un'altra. a car. 41. al Quesito. 6.
+  - |-
+    Come si puo augumentar la poluere in uirtu, ouer potentia. a car. 41. al Quesito. 7.
+  - |-
+    Se egli è necessario a limitar la compositione della poluere delle artegliarie grosse da quella delle sotile & da quella delli archibusi & Schioppi. a car. 42. al Quesito. 8.
+  - |-
+    Perche causa si da la grana alla poluere delli archibusi, & non a quella delle artegliarie. a car. 42. al Quesito. 9. & 10.
+  cs:
+  - |-
+    Že znalost ledku {Salnitrio} a jeho povahy je velmi stará a že je ho více druhů. – Na [[037r|listu 37]], dotazy 1 a 2.
+  - |-
+    Proč staří neuměli sestavit prach {poluere} pro děla {artegliarie}. – Na [[038r|listu 38]], dotaz 3.
+  - |-
+    Jakou zvláštní moc čili úlohu má při skládání prachu každá ze tří jednoduchých látek čili surovin, totiž ledek, síra {Solphere} a uhlí {Carbone}. – Na [[038r|listu 38]], dotaz 4.
+  - |-
+    Kdo byl vynálezcem prachu a z jaké úvahy byla stanovena proporce {proportione} množství každé z uvedených tří surovin. – Na [[039r|listu 39]], dotaz 5.
+  - |-
+    O rozličných předpisech, starých i nových, užívaných při skládání hrubého i jemného prachu. – Na [[039r|listu 39]], dotaz 5.
+  - |-
+    Jak lze poznat, že jeden prach je silnější než jiný. – Na [[041r|listu 41]], dotaz 6.
+  - |-
+    Jak lze prach zesílit co do moci čili síly. – Na [[041r|listu 41]], dotaz 7.
+  - |-
+    Zda je nutné odlišovat složení prachu pro velká děla od prachu pro malá a od prachu pro arkebuzy {archibusi} a ručnice {Schioppi}. – Na [[042r|listu 42]], dotaz 8.
+  - |-
+    Proč se prach pro arkebuzy zrní {grana}[^1], a prach pro děla ne. – Na [[042r|listu 42]], dotazy 9 a 10.
+- typ: nadpis
+  uroven: 3
+  de: El suggetto delli Quesiti del Quarto libro.
+  cs: Předmět dotazů čtvrté knihy
+- typ: seznam
+  de:
+  - |-
+    Come si de procedere, a uoler redure una quantità de fanti, ouer un essercito in Battaglia quadra di gente & a quanti per fila si debbono far caminar per uiaggio, ouer camino accio che occorrendo el bisogno con facilità si potesseno mettere subito in ordenanza. a car. 43. al Quesito. 1. & 2.
+  - |-
+    Come se debbe procedere a uoler far una ordinanza simile a una data in ogni quantità de fanti. a car. 46. al Quesito. 3.
+  - |-
+    Come si de procedere uolendo redur una quantità de fanti, ouer un essercito in una Battaglia quadra di terreno. a car. 47. al Quesito 4.
+  - |-
+    Come si de procedere de una quantita de fanti a uolerne formar el cuneo, ouer la forfice. a car. 47. al Quesito. 5. & 6.
+  - |-
+    Di che auantaggio saria un'essercito formato in forma cunea, quando che li nemici non sapesseno constituir la forfice. a car. 48. al Quesito. 7.
+  - |-
+    Come se doueria procedere uolendo de una quantità de fanti formar la Serra, ouer Segha. a car. 49. al Quesito. 8.
+  cs:
+  - |-
+    Jak se má postupovat, chce-li se určitý počet pěšáků {fanti} nebo vojsko {essercito} sestavit do šiku čtvercového co do mužstva {Battaglia quadra di gente} a po kolika v řadě {fila} je třeba je nechat pochodovat na cestě čili pochodu, aby je bylo možné v případě potřeby snadno a rychle uvést do šiku {ordenanza}. – Na [[043r|listu 43]], dotazy 1 a 2.
+  - |-
+    Jak se má postupovat, chce-li se z jakéhokoli počtu pěšáků udělat šik podobný danému šiku. – Na [[046r|listu 46]], dotaz 3.
+  - |-
+    Jak se má postupovat, chce-li se určitý počet pěšáků nebo vojsko sestavit do šiku čtvercového co do plochy {Battaglia quadra di terreno}. – Na [[047r|listu 47]], dotaz 4.
+  - |-
+    Jak se má postupovat, chce-li se z určitého počtu pěšáků vytvořit klín {cuneo} nebo nůžky {forfice}. – Na [[047r|listu 47]], dotazy 5 a 6.
+  - |-
+    Jakou výhodu by mělo vojsko sestavené do klínu, kdyby nepřátelé nedovedli postavit nůžky. – Na [[048r|listu 48]], dotaz 7.
+  - |-
+    Jak by se mělo postupovat, chce-li se z určitého počtu pěšáků vytvořit pilu {Serra, Segha}. – Na [[049r|listu 49]], dotaz 8.
+poznamky:
+- n: 1
+  text: |-
+    Velká děla se tehdy ještě běžně nabíjela nezrněným, moučkovým prachem; zrněný prach hoří rychleji a stejnoměrněji.

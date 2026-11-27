@@ -1,0 +1,42 @@
+id: 011v
+list: '11'
+strana: verso
+sken: 22
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    questa conclusione, che doue è maggior uelocita nella balla tirata uiolentemente per aere, in quella è manco grauita, & econuerso, cioè che doue che in quella è menor uelocita iui è maggior grauita in quella.
+  cs: |-
+    tento závěr: kde je v kouli {balla} násilně vystřelené vzduchem větší rychlost, tam je v ní menší tíže, a naopak, totiž kde je v ní menší rychlost, tam je v ní větší tíže.
+- typ: odstavec
+  de: |-
+    S.D. Eglie il uero.
+  cs: |-
+    **Pan vévoda.** To je pravda.
+- typ: odstavec
+  de: |-
+    N. Anchor dico, che doue che in quella è maggior grauita, iui è maggior stimulatione di quella in tirare la detta balla uerso il centro del mondo, cioè uerso la terra.
+  cs: |-
+    **Nicolò.** Dále pravím, že kde je v ní větší tíže, tam ona [tíže] tím silněji pobízí a táhne kouli ke středu světa, tj. k zemi.
+- typ: odstavec
+  de: |-
+    S.D. Eglie cosa credibile.
+  cs: |-
+    **Pan vévoda.** To je věc uvěřitelná.
+- typ: odstavec
+  de: |-
+    N. Hor per conchiuder il nostro proposito, supponeremo che tutto il transito, ouer uiaggio che debbia far, ouer che habbia fatto la balla tirata dalla sopradetta colobrina sia tutta la linea .a.b.c.d. & se possibil è che in quello sia alcuna parte che sia perfettamente retta, poniamo che quella sia tutta la parte .a.b. la qual sia diuisa in due parti eguali in ponto .e. & perche la balla transira piu ueloce per il spacio .a.e. (per la terza propositione del primo, della nostra nuoua scientia) di quello fara per il spacio .e.b. Adunque la detta balla andara piu rettamente, per le ragioni di sopra adutte, per il spacio .a.e. di quello fara per il spacio .e.b. onde la linea .a.e. saria piu retta della .e.b. la qual cosa è impossibile, perche se tutta la .a.b. è supposta esser perfettamente retta, la mitade di quella non puol esser ne piu ne men retta dell'altra mitade, & se pur l'una mitade sara piu retta dell'altra, seguita necessariamente quell'altra mitade non esser retta, e pero seguita de necessita, la parte .e.b. non esser perfettamente retta.
+  cs: |-
+    **Nicolò.** Abychom tedy dovedli náš předmět do konce, předpokládejme, že celá dráha čili cesta, kterou má vykonat nebo vykonala koule vystřelená z výše zmíněné kolubriny {colobrina}, je celá čára a b c d; a je-li možné, aby v ní byla nějaká část dokonale přímá, položme, že je to celá část a b, a ta budiž rozdělena na dvě stejné části v bodě e. Protože koule proběhne úsekem a e rychleji (podle třetí věty první [knihy] naší Nové vědy) než úsekem e b, poletí tedy z důvodů výše uvedených úsekem a e přímočařeji než úsekem e b, takže čára a e by byla přímější než e b. To je však nemožné, neboť předpokládá-li se, že celá a b je dokonale přímá, nemůže být jedna její polovina ani více, ani méně přímá než druhá polovina; a je-li přece jedna polovina přímější než druhá, nutně z toho plyne, že ta druhá polovina není přímá. A proto nutně plyne, že část e b není dokonale přímá.
+- typ: obrazek
+  soubor: drevorez-22.jpg
+  popis: |-
+    Dělo na kolové lafetě s vodorovnou hlavní; z ústí A vychází dráha koule – nejprve téměř přímá přes body F a E (vyznačené pod čarou) k bodu B, pak se stáčí dolů přes C a končí v bodě D, kde leží koule.
+- typ: odstavec
+  de: |-
+    Et se pur alcuno hauesse anchora opinione che la parte .a.e. fusse pur perfettamente retta, tal opinione se reprobara per falsa, per li medesimi modi, e uie, cioè diuidendo la detta parte .a.e. pur in due parti eguali in ponto .f. & per le medesime ragioni di sopra adutte, sera manifesto la parte .a.f. esser piu retta della parte .f.e. adunque la detta parte .f.e. de necessita non sara perfettamente retta, similmente che diuidesse anchora la .a.f. in due parti eguali, con le medesime ragioni se manifesta la mita di quella uerso .a. esser piu retta di quella che uerso .f. & cosi chi diuidesse quella mita pur in altre due parti eguali il medesimo seguira, cioè la parte terminante in .a. esser piu retta dell'altra, & perche questo procedere è infinito seguita di necessita che non solamente tutta la .a.b. non è perfettamente retta, ma che alcuna minima parte di quella non puo esser perfettamente retta, che è il proposito. Si uede adunque qualmente la balla tirata da detta colobrina in tal uerso non ua alcuna minima parte del suo moto, ouer transito per linea perfettamente retta (uscisca pur con qual grandissima uelocita si uoglia) perche la uelocita (per granda che la sia) mai è sufficiente, in simili uersi, a farla andar per linea retta, uero è che quanto piu ua ueloce in simili uersi tanto piu col moto suo se appropinqua al moto retto, cioè all'andar per retta linea, tamen mai puo arriuar a tal segno, e pero piu conueniente è a dire in simil caso, che quanto piu la detta balla ua ueloce, fa
+  cs: |-
+    A kdyby přesto někdo ještě zastával mínění, že část a e je dokonale přímá, vyvrátí se toto mínění jako mylné týmž způsobem a cestou: rozdělí se zmíněná část a e opět na dvě stejné části v bodě f a z týchž důvodů, jaké byly uvedeny výše, bude zřejmé, že část a f je přímější než část f e, takže část f e nutně nebude dokonale přímá. Podobně kdyby se rozdělila i a f na dvě stejné části, z týchž důvodů se ukáže, že její polovina směrem k a je přímější než ta, která je směrem k f; a tak kdo by tu polovinu rozdělil opět na další dvě stejné části, vyjde totéž, totiž že část končící v a je přímější než druhá. A protože tento postup jde do nekonečna, nutně z toho plyne, že nejen celá a b není dokonale přímá, ale že ani sebemenší její část nemůže být dokonale přímá, což bylo dokázati. Vidí se tedy, že koule vystřelená ze zmíněné kolubriny tímto směrem neletí ani sebemenší částí svého pohybu čili dráhy po dokonale přímé čáře (ať vyletí s jakkoli velikou rychlostí), neboť rychlost (ať je jakkoli veliká) nikdy v takových směrech nestačí k tomu, aby ji přiměla letět po přímce {linea retta}. Je ovšem pravda, že čím rychleji v takových směrech letí, tím víc se svým pohybem blíží pohybu přímému, tj. letu po přímce, avšak nikdy toho cíle nemůže dosáhnout; a proto je v takovém případě vhodnější říci, že čím rychleji zmíněná koule letí, tím činí

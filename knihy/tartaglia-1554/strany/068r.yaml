@@ -1,0 +1,75 @@
+id: 068r
+list: '68'
+strana: recto
+sken: 135
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    per .200. ouer piu passa da lontano à torno à torno di tal citta, & che sia fortificato di tal sorte, che dentro di tai termini alcun essercito (per grosso che sia) non solamente non sia atto, ne sofficiente à poter penetrare, ma nanche per altri .100. passa oltra à tai termini possa sicuramente piantar la sua artegliaria, per battere detta citta. Senza dubbio tal citta uenira ad esser sicura da non poter esser danneggiata da nemici con le artegliarie. Et per tanto essendo sicura detta citta da non poter esser battuta con le artegliarie da nemici, non ui occorrera à farui altra spesa in fortificarla. Ma ui bastara una simplice muraglia per una battaglia da mano per buon rispetto.
+  cs: |-
+    do vzdálenosti 200 nebo více kroků {passa} všude kolem takového města {citta}, a to tak, že žádné vojsko {essercito} (jakkoli silné) nejenže nebude s to proniknout do těchto hranic, ale nebude moci ani o dalších 100 kroků za nimi bezpečně postavit své dělostřelectvo {artegliaria} k ostřelování města, pak bude takové město bezpochyby v bezpečí a nepřátelé mu dělostřelectvem nebudou moci uškodit. A protože bude toto město chráněno před ostřelováním nepřátelským dělostřelectvem, nebude třeba vynakládat na jeho opevnění žádné další náklady; postačí mu pro jistotu prostá hradba {muraglia} proti útoku zblízka.[^1]
+- typ: odstavec
+  de: |-
+    P. In effetto ogni uolta che si potesse assicurare una citta, da non poter esser battuta da nemici con le artegliarie, la non puo esser se non fortissima, quantunque hauesse le mura molto debole, perche le artegliarie (à questi tempi) sono il uerbo principale per debellare una citta. Et quando che il fusse possibile à condure ad effetto questo che uoi haueti detto, anchor che ui entrasse il doppio spesa, di quello che entraria à fortificar la simplice citta, la saria una cosa molto laudabile, & degna, & le artegliarie nelle ispugnationi de tai citta haueriano perso tutto il credito. Ma per non ue dir bugia, non credo che il sia possibile di far una tal cosa (come di sopra dissi) saluo, che con una grandissima, & intolerabil spesa.
+  cs: |-
+    **Převor.** Vskutku, kdykoli by se dalo město zabezpečit tak, aby je nepřátelé nemohli ostřelovat dělostřelectvem, nemůže být než velmi silné, i kdyby mělo hradby {mura} velmi slabé, neboť dělostřelectvo je (v dnešní době) hlavním prostředkem[^2] k přemožení města. A kdyby bylo možné uskutečnit to, co jste řekl, byť by to stálo dvojnásobek toho, co by stálo opevnění samotného města, byla by to věc velmi chvályhodná a důstojná, a dělostřelectvo by při dobývání takových měst ztratilo veškerou vážnost. Ale abych vám nelhal, nevěřím (jak jsem řekl výše), že by se taková věc dala provést jinak než s nesmírným a nesnesitelným nákladem.
+- typ: odstavec
+  de: |-
+    N. Quando che uostra Reuerentia hauera uisto in dissegno la forma delle piante, oueramente li modelli di tai sorte de fortificationi, & sopra de quelli calculata la spesa che ui entrara, spero che quella ritrouara entrarui manco spesa di quello, che di sopra dissi.
+  cs: |-
+    **Nicolò.** Až Vaše Důstojnost uvidí na výkrese podobu půdorysů {piante} nebo modely takových druhů opevnění {fortificationi} a podle nich spočítá náklad, který si vyžádají, doufám, že shledá, že to bude stát méně, než jsem řekl výše.
+- typ: odstavec
+  de: |-
+    P. Mo quando uoleti dar principio à far queste uostre piante, ouer modelli.
+  cs: |-
+    **Převor.** A kdy se chcete pustit do zhotovování těchto svých půdorysů neboli modelů?
+- typ: odstavec
+  de: |-
+    N. Partito che sia da uostra Signoria non tendaro ad altro.
+  cs: |-
+    **Nicolò.** Jakmile odejdu od Vaší Milosti, nebudu se věnovat ničemu jinému.
+- typ: odstavec
+  de: |-
+    P. Ditemi un poco, in questi uostri modelli non gli fareti li suoi baluardi, & cauallieri, ouer forme piatte, & similmente le sue fosse.
+  cs: |-
+    **Převor.** Povězte mi: neuděláte na těchto svých modelech také jejich bašty {baluardi} a kavalíry {cauallieri} neboli ploché bašty {forme piatte},[^3] a rovněž jejich příkopy {fosse}?
+- typ: odstavec
+  de: |-
+    N. Senza dubbio. Anci uolendo io dimostrare con ragioni sensibili, la proprieta, & ualuta di cadauna di dette forme, sono astretto à farui grosso modo tutte queste cose.
+  cs: |-
+    **Nicolò.** Bezpochyby. Ba protože chci názornými důvody dokázat vlastnosti a hodnotu každého z těchto tvarů, jsem nucen udělat na nich zhruba všechny tyto věci.
+- typ: odstavec
+  de: |-
+    P. Ditemi anchora haueti pratica, ouer notitia della forma, & misura di baluardi, cauallieri, ouer forme piatte, che al presente si costuma nelle moderne fortificationi, cioe di quanta longhezza, larghezza, & altezza si formino, & similmente di quanta grossezza, & altezza si facciano li loro mura, & parapetti, & similmente, di quanta longhezza, altezza, & grossezza, si faccia cadauna cortina, & parapetti di quelle, & similmente di quanta larghezza, & altezza, si costumano, far le fosse.
+  cs: |-
+    **Převor.** Povězte mi ještě: máte zkušenost nebo povědomí o tvaru a rozměrech bašt, kavalírů neboli plochých bašt, jak se nyní obvykle dělají u moderních opevnění, totiž jak dlouhé, široké a vysoké se stavějí, a rovněž jak silné a vysoké se dělají jejich zdi a předprsně {parapetti}, a rovněž jak dlouhá, vysoká a silná se dělá každá kurtina {cortina} a její předprsně, a také jak široké a vysoké se obvykle dělají příkopy?
+- typ: odstavec
+  de: |-
+    N. Veramente che di questo non ue ne saperia dire alcuna minima particolarita, ne per alduta, ne manco per ueduta, perche (come nel principio dissi à uostra Signoria) giamai ho praticato in luoco doue se fortificasse, ne manco ho conuersato con alcuno che di tal cosa habbia notitia.
+  cs: |-
+    **Nicolò.** Popravdě vám o tom nedovedu říci ani tu nejmenší podrobnost, ani z doslechu, tím méně z vlastního pozorování, neboť (jak jsem Vaší Milosti řekl hned na začátku) jsem nikdy nepobýval na místě, kde se opevňovalo, ani jsem nerozmlouval s nikým, kdo by o takové věci něco věděl.
+- typ: odstavec
+  de: |-
+    P. Mo di questa materia ue ne sapro rendere buon conto, la qual cosa, ui potra giouare, per far li sopradetti uostri modelli ben proportionati, secondo il costume moderno.
+  cs: |-
+    **Převor.** Nuže, o této látce vám dovedu podat dobrou zprávu, a to vám může pomoci, abyste své výše zmíněné modely udělal ve správných proporcích {proportionati} podle moderního zvyku.
+- typ: odstavec
+  de: |-
+    N. Io hauero molto accaro di hauerne notitia. Anchor che di tal cosa non credo di seruirmene molto, nondimeno hauero sommo appiacere ad intendere il tutto, per piu rispetti.
+  cs: |-
+    **Nicolò.** Velmi rád se o tom dozvím. Ačkoli nevěřím, že toho budu mnoho využívat, přesto z mnoha důvodů s největším potěšením vyslechnu všechno.
+- typ: odstavec
+  de: |-
+    P. Voglio incominciare dalle cortine. Hor sappiati, che alli presenti tempi, si costuma di far le cortine nel fondo communamente di grossezza piedi sette, & cosi le fanno andar procedendo per fina alla altezza de piedi diece, & da li in suso se fanno solamente de piedi dui, ma ui fanno poi li contraforti de
+  cs: |-
+    **Převor.** Chci začít kurtinami. Vězte tedy, že v nynější době se kurtiny obvykle dělají u základu sedm stop {piedi} silné a v této síle je vedou až do výše deseti stop; odtud nahoru se dělají jen dvě stopy silné, ale pak se k nim dělají opěrné pilíře {contraforti}
+poznamky:
+- n: 1
+  text: Battaglia da mano – útok zblízka, tj. šturm pěchoty (po žebřících), na rozdíl od ostřelování.
+- n: 2
+  text: Il uerbo principale – doslova „hlavní slovo“, tj. rozhodující prostředek.
+- n: 3
+  text: Forma piatta (plochá bašta, „platforma“) – nízká plochá dělová bašta; Tartaglia ji klade jako rovnocenný výraz ke kavalíru.

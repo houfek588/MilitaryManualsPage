@@ -1,0 +1,65 @@
+id: 067v
+list: '67'
+strana: verso
+sken: 134
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    solamente eglie possibile di far una tal particolarita ad ogni cortina. Ma che eglie possibile à farla in tre diuersi modi, & che eglie una cosa facile, & durabile, & di pochissimo arteficio, & manco spesa. Et dico di tal proprieta, che .25. ouer .30. huomini al piu saranno sofficientissimi à difendere .150. passa di cortina, ouer muraglia da ogni grandissma moltitudine de nemici, che con scale la uenissono per scalare, ouer che la hauessono gia scalata (come di sopra è detto) & tal particolarita sara sicura dalle artegliarie nemiche.
+  cs: |-
+    je možné takovou zvláštnost zřídit u každé kurtiny {cortina}, ale že ji lze zřídit třemi různými způsoby a že je to věc snadná a trvanlivá, která vyžaduje velmi málo umění a ještě menší náklad. A o její povaze tvrdím, že 25 nebo nanejvýš 30 mužů bude zcela postačovat k obraně 150 kroků {passa} kurtiny neboli hradby {muraglia} proti jakkoli obrovskému množství nepřátel, kteří by ji přišli ztéci po žebřících nebo ji už ztekli (jak bylo řečeno výše), a že toto zařízení bude chráněno před nepřátelským dělostřelectvem {artegliarie}.[^1]
+- typ: odstavec
+  de: |-
+    P. Quando che questo fusse la uerita, ne seguiria due cose di grandissimo momento, & utilita. l'una è, che con pochissima gente, et consequentemente con pochissima spesa si faria guardar una tal citta. (Anchor che fusse molto granda) l'altra è, che una citta da poca gente guardata, con difficolta, puo esser assediata, ilche importa assai.
+  cs: |-
+    **Převor.** Kdyby to byla pravda, vyplynuly by z toho dvě věci nesmírné důležitosti a užitku. Jedna je, že s velmi malým počtem lidí, a tudíž s velmi malým nákladem, by se dalo takové město {citta} uhájit (i kdyby bylo velmi veliké); druhá je, že město hájené malým počtem lidí lze jen stěží zdolat obléháním {assediata}, což je velmi důležité.
+- typ: odstavec
+  de: |-
+    N. Eglie ben uero, che una citta da poca gente guardata, ui uol molto piu tempo à douerla assediare, di quello uorria, quando che quella fusse di gente molto piena, nondimeno à questi tempi questo non satisfa tanto che basti, perche V. R. sa la possanza del Turco, per la difension del quale, hauemo inuestigato, tutto quello, che per fina à questa hora hauemo detto, & disputato. Et per tanto dico, quando che di quel se dubitasse, ouer de altra, possanza simile, che fusse atta à mantenere longamente l'assedio à tal citta, accio che à longo andare tal citta non incorresse in tal errore. Il saria necessario à fargli altra prouisione, come nella seguente sesta particolarita, ouer conditione si narrara, la quale per esser hora tarda la lassaremo à diman de sera.
+  cs: |-
+    **Nicolò.** Je sice pravda, že obléhání města hájeného malým počtem lidí si žádá mnohem více času, než kdyby bylo plné lidí; nicméně v dnešní době to dostatečně nepostačuje, neboť Vaše Důstojnost zná moc Turka {Turco}, k obraně proti němuž jsme zkoumali vše, co jsme až do této hodiny řekli a probrali. Proto pravím: kdyby se bylo třeba obávat jeho nebo jiné podobné moci, která by byla schopna udržet obléhání takového města dlouho, bylo by nutné učinit jiné opatření, aby takové město časem neupadlo do takové nesnáze. To bude vyloženo v následující šesté zvláštnosti neboli podmínce, kterou si, protože je už pozdní hodina, necháme na zítřejší večer.
+- typ: odstavec
+  de: |-
+    P. Horsu doman ui aspetto, & ueniti à bon'hora.
+  cs: |-
+    **Převor.** Nuže, zítra vás čekám; přijďte zavčas.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO OTTAVO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Osmý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Horsu seguitati la sesta qualita, ouer particolarita.
+  cs: |-
+    **Převor.** Nuže, pokračujte šestou vlastností neboli zvláštností.
+- typ: odstavec
+  de: |-
+    N. La sesta qualita, ouer conditione è questa. Quando che la citta, che se ha da fortificare, se dubitasse del Turco (come dissi hiersera) ouer de qualche altra potentia simile, cioe che fusse atta, & sofficiente à mantenerui molti anni l'assedio. Bisognaria al tutto auertire di dar una tal forma, alle mura, & circuito di quella, talmente che quelli di detta citta potessono sicuramente andare, ouer mandare à lauorare, seminare, & raccogliere, almen tanto terreno, che fusse atto, & sofficiente à dargli quasi il uiuere, cioe che li nemici (per grossi che fusseno) non ui potessono uenire, ne scorrere in conto alcuno à danneggiare li raccolti, ne gli lauoranti, ouer raccoglienti quelli.
+  cs: |-
+    **Nicolò.** Šestá vlastnost neboli podmínka je tato. Kdyby se město, které se má opevnit, obávalo Turka (jak jsem řekl včera večer) nebo nějaké jiné podobné moci, totiž takové, která by byla schopna a s to udržet obléhání po mnoho let, bylo by naprosto nutné dbát na to, aby se jeho hradbám {mura} a obvodu dal takový tvar, aby obyvatelé města mohli bezpečně chodit nebo posílat [lidi] obdělávat, sít a sklízet alespoň tolik půdy, kolik by stačilo, aby je téměř uživila; totiž aby nepřátelé (jakkoli početní) nemohli nijak přitáhnout ani vpadnout a škodit úrodě ani těm, kdo ji obdělávají nebo sklízejí.
+- typ: odstavec
+  de: |-
+    P. Senza dubbio che questo saria una cosa ottima, & santa, & credo anchora che il se potria fare, ma ue entraria una troppo gran spesazza.
+  cs: |-
+    **Převor.** Bezpochyby by to byla věc výborná a svatá, a věřím také, že by se dala provést, ale stála by příliš ohromný náklad.
+- typ: odstavec
+  de: |-
+    N. Anci io ho opinione che à fortificare, & assicurare il paese di una citta per un commun spacio à torno, ui entraria molto manco spesa di quello che entraria à fortificare la simplice citta.
+  cs: |-
+    **Nicolò.** Naopak, jsem toho mínění, že opevnit a zabezpečit kraj {paese} kolem města v přiměřeném okruhu by stálo mnohem méně, než by stálo opevnit samotné město.
+- typ: odstavec
+  de: |-
+    P. Mo ditemi un poco, non uoleti che prima se fortifichi la simplice citta, auanti che se fortifichi il paese.
+  cs: |-
+    **Převor.** Nuže, povězte mi: nechcete snad, aby se samotné město opevnilo dříve, než se opevní kraj?
+- typ: odstavec
+  de: |-
+    N. Fortificando il paese non accade à fortificare altramente la citta, perche la detta citta sara fatta forte per la fortezza del paese, perche se tal paese sara fatto forte (poniamo)
+  cs: |-
+    **Nicolò.** Opevní-li se kraj, není již třeba město jinak opevňovat, protože město bude silné silou kraje. Bude-li totiž takový kraj opevněn (dejme tomu)
+poznamky:
+- n: 1
+  text: V tisku „grandissma“ (správně grandissima) – tisková chyba, ponechána.

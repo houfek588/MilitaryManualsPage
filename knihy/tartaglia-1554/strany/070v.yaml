@@ -1,0 +1,33 @@
+id: 070v
+list: '70'
+strana: verso
+sken: 140
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: LA GIONTA DEL SESTO LIBRO DI QVESITI, ET INVENTIONI DIVERSE DE NICOLO TARTAGLIA.
+  cs: Dodatek k šesté knize Rozličných otázek a vynálezů Niccola Tartaglii
+- typ: odstavec
+  de: |-
+    Nella quale si dimostra un primo modo di redure una citta inespugnabile, & che non potra esser battuta, ne danneggiata da nemici con le artegliarie, con altre particolar sottilita.
+  cs: |-
+    V němž se ukazuje první způsob, jak učinit město {citta} nedobytným {inespugnabile}, takže je nepřátelé nebudou moci ostřelovat ani mu škodit dělostřelectvem {artegliarie}, spolu s dalšími zvláštními důmysly.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO PRIMO FATTO DAL MAGNIFICO, & Clarissimo Signor Marc'Antonio Morosini Dottor, & Philosopho Eccellentissimo.
+  cs: První dotaz, který položil urozený a slovutný pan Marcantonio Morosini, doktor a nejvznešenější filozof
+- typ: odstavec
+  de: |-
+    SIGNOR MARC'ANTONIO. Son molto desideroso sier Nicolo di uedere in disegno, ouer in figura quelle piante de fortificationi, che gia promettesti di mostrare al Prior di Barletta, cioe con quelle sei qualita, ouer conditioni, che nel uostro sesto libro preponete: perche tutte me paiono cose ingeniose, non piu audite, ne uedute, ne considerate d'alcuno altro, & se possibel é di poterle mandar à essecutione (come credo) sara cosa utilissima, & massime quella uostra terza qualita, ouer conditione, nella quale diceti, che uoleti, che la forma delle mura di una citta sia talmente disposita, che se per sorte li nemici deliberasseno di darui la battaglia generale, chel non si troui alcuna parte di quella, che possa esser assaltata da nemici, che quelli non possino esser sempre offesi da quelli dalla terra, al men da quattro bande con le artegliarie: il che potendosi fare, me pareria cosa grande, e pero questa tal qualita, ouer conditione haueria piu accaro di uedere de qual si uoglia delle altre cinque.
+  cs: |-
+    **Pan Marcantonio.**[^1] Velice toužím, pane Nicolò, spatřit na výkrese neboli na obrazci ty půdorysy {piante} opevnění {fortificationi}, které jste už slíbil ukázat převorovi z Barletty, totiž s oněmi šesti vlastnostmi neboli podmínkami, jež předkládáte ve své šesté knize. Všechny mi totiž připadají jako důmyslné věci, o nichž nikdo jiný dosud neslyšel, je neviděl ani o nich neuvažoval; a je-li možné je uskutečnit (jak věřím), bude to věc nanejvýš užitečná, zvláště ta vaše třetí vlastnost neboli podmínka, v níž říkáte, že chcete, aby tvar městských hradeb {mura} byl uspořádán tak, aby v případě, že by se nepřátelé rozhodli podniknout na město všeobecný útok, nebyla na něm žádná část, kterou by nepřátelé mohli napadnout, aniž by je obránci města mohli vždy zasáhnout dělostřelectvem alespoň ze čtyř stran. Kdyby to bylo možné, zdálo by se mi to velkou věcí, a proto bych tuto vlastnost neboli podmínku viděl raději než kteroukoli z ostatních pěti.
+- typ: odstavec
+  de: |-
+    N. Vostra Eccellentia, Signor Magnifico, sa, che mi puo comandare, & per tanto non solamente le predette sei qualita mostraro in disegno à Vostra Magnificentia, ma molte altre inuestigate dapoi: perche (come dice il prouerbio) di cosa sempre nasce cosa, cioe trouata che sia una cosa, sempre ui si troua di megliorarla, & di farla molto meglio. Ma bisogna notare, che tutte tai qualita, ouer conditioni non si conuengono in una medesima forma de fortificatione, anci parte se conuengono in una, & parte in un'altra: & perche le forme de fortificare da me immaginate, & ritrouate sono molte, secondo uarij respetti, delle quale alcune si difendono con baluardi, & cauallieri, secondo, che communamente si costuma nelle moderne fortificationi, ma sotto altra forma. Altre poi si difendono per altri uarij, & ingeniosi modi, l'uno molto piu sicuro, & di molto manco spesa dell'altro: Ma perche à uoler mostrare in disegno tutte le dette forme in un tratto generariano confusione à Vostra Eccellentia, e pero li andaro mostrando à una per una, & uoglio cominciare dalla piu trista, come costumano li botegheri nel mostrar le sue merce, che tengono da uendere. Et questo tal modo, ouer forma sara di maggior spesa de tutti li altri: perche sara difeso con baluardi, & cauallieri, si come, che alli presenti tempi si costuma, ma sotto
+  cs: |-
+    **Nicolò.** Vaše Excelence, urozený pane, ví, že mi může poroučet, a proto Vaší Urozenosti ukážu na výkrese nejen zmíněných šest vlastností, ale i mnohé další, na něž jsem přišel později; neboť (jak praví přísloví) z jedné věci se vždy rodí další, totiž když se nějaká věc najde, vždy se najde i způsob, jak ji zlepšit a udělat mnohem lépe. Je však třeba poznamenat, že všechny tyto vlastnosti neboli podmínky se nehodí do jednoho a téhož tvaru opevnění, nýbrž část se hodí do jednoho a část do jiného. Tvarů opevnění, které jsem si vymyslel a nalezl, je totiž mnoho, podle různých ohledů: některé z nich se brání baštami {baluardi} a kavalíry {cauallieri}, jak je u moderních opevnění obvyklé, ale v jiném tvaru; jiné se pak brání jinými rozličnými a důmyslnými způsoby, jeden mnohem bezpečnější a mnohem levnější než druhý. Protože by však ukázat všechny tyto tvary na výkrese najednou způsobilo Vaší Excelenci zmatek, budu je ukazovat jeden po druhém a chci začít tím nejhorším, jak to dělávají kramáři, když ukazují zboží, které mají na prodej. A tento způsob neboli tvar bude nákladnější než všechny ostatní, protože bude bráněn baštami a kavalíry, jak je v nynější době zvykem, ale v
+poznamky:
+- n: 1
+  text: Marcantonio Morosini – benátský patricij, doktor (práv či svobodných umění) a filozof; v dodatku k šesté knize je Tartagliovým tazatelem. V tisku jako řečník „SIGNOR MARC'ANTONIO“, oslovován též „Signor Magnifico“. „Sier“ je benátský titul patricijů (ser, pan).

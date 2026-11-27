@@ -1,0 +1,72 @@
+id: 042r
+list: '42'
+strana: recto
+sken: 83
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    non posso credere, che costui del Arsenale (qual me haueti detto, che è prouisionato dalla signoria per far poluere si fina come grossa) non sappia à que fine se dia cosi la grana alla poluere de schioppo, e de archibuso, & non à quella dalle artegliarie, et massime facendone continuamente ogni giorno.
+  cs: |-
+    nemohu uvěřit, že by ten člověk z Arzenálu (o němž jste mi řekl, že ho Signorie platí, aby dělal prach {poluere} jemný i hrubý) nevěděl, k jakému účelu se zrní {grana} prach pro ručnice a arkebuzy, a ne prach pro děla, zvláště když jej dělá neustále, den co den.
+- typ: odstavec
+  de: |-
+    H. Io ui so dir certo, che non ui sa assignare altra meglior ragione di quella, che ui ho detta.
+  cs: |-
+    **Hieronimo.** Mohu vám s jistotou říci, že vám neumí uvést lepší důvod než ten, který jsem vám pověděl.
+- typ: odstavec
+  de: |-
+    N. Inanti che di questa cosa ue dica la mia opinione, uoglio che ritornati da lui, & pregarlo di gratia, che ue dica realmente, perche ragione ui da tal grana.
+  cs: |-
+    **Nicolò.** Dříve než vám o této věci řeknu své mínění, chci, abyste se k němu vrátil a laskavě ho poprosil, aby vám upřímně řekl, z jakého důvodu prach zrní.
+- typ: odstavec
+  de: |-
+    H. Non accade che ui uada altramente, perche io son certo, che mi replicara el medesimo, cioe, che tal grana la fa diuentar piu gagliarda, e potente.
+  cs: |-
+    **Hieronimo.** Není třeba, abych tam znovu chodil, neboť jsem si jist, že mi zopakuje totéž, totiž že jej zrnění činí silnějším a mocnějším.
+- typ: odstavec
+  de: |-
+    N. Se pur el ue replica questo, respondetegli in questo modo, se tal grana fa la poluere piu gagliarda, e potente, mo non saria ben fatto à ingranire anchora quella grossa (cioe quella delle artegliarie) per farla diuentare piu gagliarda e potente.
+  cs: |-
+    **Nicolò.** Jestliže vám to přece zopakuje, odpovězte mu takto: činí-li zrnění prach silnějším a mocnějším, nebylo by tedy dobře zrnit i ten hrubý (totiž ten pro děla {artegliarie}), aby se stal silnějším a mocnějším?
+- typ: odstavec
+  de: |-
+    H. Lassati far à me, che ui uoglio ritornare (& forsi hoggi) & diman ue refferiro quello me hauera risposto.
+  cs: |-
+    **Hieronimo.** Nechte to na mně; chci se k němu vrátit (snad ještě dnes) a zítra vám vyřídím, co mi odpověděl.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO DECIMO FATTO DAL MEDESIMO Hieronimo.
+  cs: Desátý dotaz, který položil týž Hieronimo
+- typ: odstavec
+  de: |-
+    HIERONIMO. Dapoi che fui partito da uoi hieri, io andai subito in larsenale, & andai à ritrouar l'amico, & lo pregai de nouo, che se lui haueua altra ragione di quella, che lui me haueua detta, che non me la uolesse cellare, che di cio sempre gli ne resteria obligatissimo, lui me giuro, che non sapeua altra ragione di quella, che gia me haueua detta, cioe, che la se ingraniua per augumentarla in uirtu, & possanza, cioe per farla piu gagliarda, & potente, & io gli dissi quello, che me ordinasti, cioe sel non saria buono à ingranire anchora la poluere delle artegliarie, cioe la grossa, per farla anchor lei piu gagliarda, e potente di quello che la è, lui me rispose, che si andaria à pericolo di far creppar li pezzi, et cosi me risolse.
+  cs: |-
+    **Hieronimo.** Když jsem od vás včera odešel, šel jsem hned do Arzenálu, vyhledal toho přítele a znovu ho poprosil, aby přede mnou netajil jiný důvod, má-li nějaký kromě toho, který mi řekl; že mu za to budu navždy velice zavázán. Přísahal mi, že jiný důvod nezná než ten, který mi již řekl, totiž že se prach zrní, aby se zvětšila jeho síla a moc, to jest aby byl silnější a mocnější. Řekl jsem mu, co jste mi uložil, totiž zda by nebylo dobré zrnit i prach pro děla, to jest hrubý, aby byl i on silnější a mocnější, než je. Odpověděl mi, že by se tím riskovalo, že se děla {pezzi} roztrhnou, a tím mě odbyl.
+- typ: odstavec
+  de: |-
+    N. Voi gli doueui pur rispondere, che se potriano poi cargare tai pezzi con manco poluere del solito, & tanto saria auanzato, oueramente ponerui dentro alquanto manco salnitrio del solito.
+  cs: |-
+    **Nicolò.** Měl jste mu přece odpovědět, že by se pak taková děla mohla nabíjet menším množstvím prachu než obvykle, a tolik by se ušetřilo, anebo že by se do něj mohlo dávat o něco méně ledku {salnitrio} než obvykle.
+- typ: odstavec
+  de: |-
+    H. Io non ho hauuto tanto auiso di saperui far tal risposta, ma che credeti, tutti questi che fanno poluere, uanno facendo secondo, che hanno uisto far alli altri, ouer secondo, che gli è stato insegnato, & non si curano di cercare, ne manco di sapere la causa delle cose, che loro fanno, cioe à che fin le facciano. Et uoi dir di me, che anchora mi ho fatto della poluere grossa, e fina, & quando ne faceua de fina, io la ingraniua anchora mi, anchor che non sapesse, ne anchor so à que fine la se ingranischa, & questo faceua, perche haueua uisto che tutti li altri cosi faceuano.
+  cs: |-
+    **Hieronimo.** Neměl jsem tolik důvtipu, abych mu uměl takto odpovědět. Ale co myslíte – všichni ti, kdo dělají prach, postupují tak, jak to viděli dělat jiné nebo jak je to naučili, a nestarají se pátrat ani vědět, proč dělají to, co dělají, totiž k jakému účelu to dělají. A abych mluvil o sobě: i já jsem dělal hrubý i jemný prach, a když jsem dělal jemný, také jsem jej zrnil, ačkoli jsem nevěděl, a dosud nevím, k jakému účelu se zrní; a dělal jsem to proto, že jsem viděl, že tak dělají všichni ostatní.
+- typ: odstavec
+  de: |-
+    N. Credo, che sia, come uoi diceti.
+  cs: |-
+    **Nicolò.** Věřím, že je tomu tak, jak říkáte.
+- typ: odstavec
+  de: |-
+    H. Di gratia ditime la uostra opinione circa à questa cosa.
+  cs: |-
+    **Hieronimo.** Prosím, řekněte mi své mínění o této věci.
+- typ: odstavec
+  de: |-
+    N. Hauendoui quasi promesso de diruela, eglie il douer ch'io ui attenda, & per tanto dico, che dapoi, che hieri ui partisti da me, ho considerato sopra di tal cosa, & in effetto ho ritrouato, che solamente la necessita, ouer commodita ha indutto gli huomini à inuestigar il modo de ingranire la detta poluere de schioppo, & de archibuso, & non quella de artegliaria, perche la detta poluere granita è molto piu scorrente, de la non granita alla similitudine, che saria uno pugno di fromento, de un pugno de farina,
+  cs: |-
+    **Nicolò.** Když jsem vám je takřka slíbil říci, je mou povinností dostát slovu. Pravím tedy, že jsem o té věci od včerejška, kdy jste ode mne odešel, uvažoval a skutečně jsem zjistil, že jen nutnost čili pohodlí přimělo lidi vyhledat způsob, jak zrnit prach pro ručnice {schioppo} a arkebuzy {archibuso}, a ne prach pro děla. Zrněný prach je totiž mnohem sypčí než nezrněný, podobně jako hrst pšenice oproti hrsti mouky,

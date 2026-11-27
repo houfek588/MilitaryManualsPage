@@ -1,0 +1,64 @@
+id: 008r
+list: '8'
+strana: recto
+sken: 15
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    cioè stando in cima del detto monticello, ouer stando iui da banda nel pie di quello.
+  cs: |-
+    totiž když stojí na vrcholu zmíněného kopečku, nebo když stojí tam stranou na jeho úpatí?[^1]
+- typ: odstavec
+  de: |-
+    N. Senza dubbio, che stando nel piano, cioè nel pie del monte, faria maggiore effetto, ouer passata in detta fortezza, di quello faria stando nella sommita del monte.
+  cs: |-
+    **Nicolò.** Bezpochyby by mělo větší účinek čili průraz {passata} v té pevnosti {fortezza}, když stojí na rovině, tj. na úpatí hory, než jaký by mělo, kdyby stálo na vrcholu hory.
+- typ: odstavec
+  de: |-
+    S.D. Et io giudicarei, & giudico esser tutto al contrario, perche quelle che tiraranno dalla sommita del monte saranno molto piu propinque alle muraglie di quella tal fortezza, di quello che saranno quelle che tiraranno dal pie del monte, & quanto che la cosa doue se tira è piu propinqua alla artegliaria, per ragion naturale, la balla douria far maggiore effetto in lei.
+  cs: |-
+    **Pan vévoda.** A já bych soudil, a také soudím, že je tomu zcela naopak, neboť [děla], která budou střílet z vrcholu hory, budou mnohem blíže k hradbám {muraglie} té pevnosti než ta, která budou střílet z úpatí hory; a čím blíže je předmět, do něhož se střílí, k dělu {artegliaria}, tím větší účinek by v něm koule {balla} podle přirozeného řádu měla mít.
+- typ: odstavec
+  de: |-
+    N. Quando che un'artegliaria tirasse egualmente per ogni uerso segueria quello, che dice uostra Eccellentia. Ma per efficace ragioni ritrouo tutto all'opposito, cioè che ogni sorte di artegliaria necessariamente tirara manco per linea retta, stante aliuellata di quello faria in qualunque altro modo assettata, o per dir meglio, che ogni sorte di artegliaria necessariamente tirara piu per linea retta stante alquanto elleuata dauanti di quello fara stante quella à liuello, & quanto piu stara elleuata tanto piu tirara per retta linea, il medesimo si debbe intendere essendo abbassata, cioè che molto piu tirara per linea retta stante quella alquanto abbassata dauanti, di quello fara stante à liuello, & quanto piu stara abbassata, tanto piu tirara per linea retta.
+  cs: |-
+    **Nicolò.** Kdyby dělo střílelo každým směrem stejně, platilo by to, co říká Vaše Excelence. Ale z pádných důvodů shledávám, že je tomu zcela naopak: totiž že každý druh děla nutně střílí po přímce {linea retta} méně daleko, když je ve vodorovné poloze {aliuellata}, než by střílelo v jakékoli jiné poloze; nebo lépe řečeno, že každý druh děla nutně střílí po přímce dál, když je vpředu poněkud zdviženo, než když je vodorovně, a čím výše je zdviženo, tím dál střílí po přímce[^2]. Totéž je třeba rozumět, když je skloněno: totiž že mnohem dál bude střílet po přímce, když je vpředu poněkud skloněno, než když je vodorovně, a čím víc bude skloněno, tím dál bude střílet po přímce.
+- typ: odstavec
+  de: |-
+    S.D. Questo che uoi dite, me pare una cosa molto strania da credere, cioè à dire, che una medesima quantita, e possanza di poluere, debbia spingere piu uigorosamente una medesima grauita di balla, per un uerso, che per un'altro, e pero haria à caro, che uoi me assignasti la ragione, e causa di questa uostra openione.
+  cs: |-
+    **Pan vévoda.** To, co říkáte, se mi zdá velmi podivné k uvěření, totiž že by totéž množství a táž síla prachu {poluere} měla jedním směrem hnát kouli téže tíhy prudčeji než jiným; a proto bych byl rád, kdybyste mi uvedl důvod a příčinu tohoto svého mínění.
+- typ: odstavec
+  de: |-
+    N. La ragion di questo lo dimostramo (per li accidenti accadenti nelli suoi tiri) nella ultima propositione del Secondo libro della nostra nuoua scientia, uero è, che in tal dimostratione, non se assegna la causa propinqua di tale effetto, la qual cosa in tal luoco pretermessi, per non fastidiar uostra Eccellentia, perche tal causa propinqua, se dimostra con la scientia di pesi, la quale è una scientia di non poca speculatione, per esser quella subalternata, si dalla Geometria, come dalla natural Filosophia. Ma quando non sia graue à quella lo ascoltarme, io mi sforzaro di dimostrarla al presente.
+  cs: |-
+    **Nicolò.** Důvod toho jsme dokázali (z jevů, které nastávají při jeho střelbě) v poslední větě {propositione} druhé knihy naší Nové vědy[^3]; je ovšem pravda, že v tom důkazu se neuvádí nejbližší příčina tohoto účinku. To jsem tam vynechal, abych Vaši Excelenci neobtěžoval, neboť tato nejbližší příčina se dokazuje naukou o vahách {scientia di pesi}, což je nauka nemalé spekulace, protože je podřízena jak geometrii, tak přírodní filozofii. Nebude-li však Vaší Excelenci obtížné mě vyslechnout, pokusím se ji nyní dokázat.
+- typ: odstavec
+  de: |-
+    S.D. Seguitati pur, ma sotto breuita.
+  cs: |-
+    **Pan vévoda.** Jen pokračujte, ale stručně.
+- typ: odstavec
+  de: |-
+    N. Per dimostrar questa cosa rettamente sono astretto uolendo essere inteso à mandare auanti la diffinitione de alcuni termini opportuni, etiam alcune suppositioni, come si costuma in ciascuna scientia, & perche tutte le cose meglio se apprendono per essempio, che per parole. Pongo per essempio la libra, ouer bilanza .a.b. con li dui brazzi .a.c. & .c.b. eguali, & il centro, sopra del qual lei gira, sia il detto ponto .c. & nelle estremita di detti dui brazzi siano congionti dui corpi egualmente graui, li quali nominaremo dalle medesime lettere, cioè .a. & .b. li quali dui corpi, per essere eguali in grauita, dal presupposito, & appesi in longhezze eguali, cioè à gli detti dui brazzi .a.c. & .c.b. della proposta libra, qual sono sta supposti essere egualmente longhi, per la prima petitione adutta da Archimede, nel libro che fa del centro della grauita, quelli inclinaranno egualmente, cioè che staranno in equilibra, come di sotto appare in figura.
+  cs: |-
+    **Nicolò.** Abych tu věc řádně dokázal a byl pochopen, musím předeslat definici {diffinitione} některých potřebných pojmů a také některé předpoklady {suppositioni}, jak je zvykem v každé vědě; a protože se všechny věci lépe pochopí na příkladu než ze slov, kladu za příklad váhu čili vážky {bilanza} a b se dvěma stejnými rameny[^4] a c a c b, a střed, kolem něhož se otáčí, budiž zmíněný bod c; a na koncích těchto dvou ramen nechť jsou připojena dvě stejně těžká tělesa, která pojmenujeme týmiž písmeny, totiž a a b. Protože jsou tato dvě tělesa podle předpokladu stejně těžká a zavěšena ve stejných vzdálenostech, totiž na zmíněných dvou ramenech a c a c b navržené váhy, o nichž se předpokládalo, že jsou stejně dlouhá, budou se podle prvního postulátu {petitione}, který uvádí Archimédés v knize o těžišti[^5], klonit stejně, tj. budou v rovnováze {equilibra}, jak je vidět níže na obrazci.
+poznamky:
+- n: 1
+  text: |-
+    V tisku je na tomto listu omylem číslo 7 místo 8 (list 7 je tak číslován dvakrát).
+- n: 2
+  text: |-
+    Tartaglia (podle aristotelské fyziky) skládá dráhu střely ze tří částí: přímého „násilného“ pohybu, zakřiveného úseku a nakonec přirozeného pádu. „Střílet víc po přímce“ znamená, že přímý úsek dráhy, na němž má koule plnou sílu, je delší.
+- n: 3
+  text: |-
+    Nova scientia (Benátky 1537), Tartagliův první balistický spis, věnovaný právě vévodovi z Urbina.
+- n: 4
+  text: |-
+    „Brazzi“ jsou zde ramena vah, nikoli délková míra loket.
+- n: 5
+  text: |-
+    Archimédův spis O rovnováze rovin (lat. De aequiponderantibus, též De centris gravium); jeho první postulát zní, že stejné váhy ve stejných vzdálenostech jsou v rovnováze.

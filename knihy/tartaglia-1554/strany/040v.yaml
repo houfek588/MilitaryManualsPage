@@ -1,0 +1,42 @@
+id: 040v
+list: '40'
+strana: verso
+sken: 80
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    della prima, et cosi con tai auisi ragioneuoli, alcuni sono andati uariando tal ordine per fin à questi tempi, uero è, che ui sono alcuni ordini delli sopra notati, che con poca ragion, & manco giudicio sono stati ordinati, anzi credo che siano stati alcuni, che per non uoler far, come faceuano gli altri) per mostrar di saper piu di loro) senza altra ragione hanno uoluto formar nuoui ordini, cioe crescendo il carbone, & sminuendo il solfere, altri in crescere il solfere, & sminuire il carbone, altri uariando tutti tre li detti materiali in certe stranie proportioni, accio che para con maggior sapientia, & sottilita ritrouato.
+  cs: |-
+    než první. A tak s takovými rozumnými nápady někteří až do dnešní doby ten předpis obměňovali. Je ovšem pravda, že některé z výše zapsaných předpisů byly stanoveny s malým rozumem a ještě menším úsudkem; ba myslím, že byli i někteří, kteří – aby nedělali, co dělali jiní, a ukázali, že vědí víc než oni – bez jiného důvodu chtěli vytvořit nové předpisy, totiž přidáváním uhlí a ubíráním síry, jiní přidáváním síry a ubíráním uhlí, jiní obměňováním všech tří přísad v jakýchsi podivných poměrech, aby se zdálo, že to nalezli s větší moudrostí a důvtipem.
+- typ: odstavec
+  de: |-
+    P. Eglie questo, si come sono anchora quelli compositori, che non sanno dire, ne fare, se non quello, che hanno detto, ouer fatto gli altri, ma perche si uergognano alle uolte apparere che habbiano imparato, ouer tolto da quelli tali se sforzan di uariar alquanto il modo, ouer il parlare.
+  cs: |-
+    **Převor.** Je to tak, jako je tomu i s těmi spisovateli, kteří nedovedou říci ani udělat nic jiného, než co řekli nebo udělali jiní; ale protože se někdy stydí, aby nebylo vidět, že se to od nich naučili nebo to od nich převzali, snaží se poněkud obměnit postup nebo vyjádření.
+- typ: odstavec
+  de: |-
+    N. Cosi è preciso.
+  cs: |-
+    **Nicolò.** Tak tomu přesně je.
+- typ: odstavec
+  de: |-
+    P. Questo ragionamento è stato molto longo, e pero uoglio che facciamo fine.
+  cs: |-
+    **Převor.** Tento rozhovor byl velmi dlouhý, a proto skončeme.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SESTO FATTO DAL medesimo S. Prior di Barletta.
+  cs: Šestý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Hiersera uoi dimostrasti in quanti modi (da non molto tempo in qua) è stato uariato l'ordine, ouer la proportione della quantita di tre materiali nel componere la poluere, hor ue adimando, qual di sopra notati ordini (si di piu antichi, come di piu moderni) giudicati esser migliore, cioe che ne dia piu perfetta, & piu gagliarda, ouer potente poluere.
+  cs: |-
+    **Převor.** Včera večer jste ukázal, kolika způsoby byl (v nepříliš dávné době) obměňován předpis {ordine} čili poměr množství tří přísad při skládání prachu {poluere}. Nyní se vás ptám, který z výše zapsaných předpisů (ať starších, nebo novějších) pokládáte za nejlepší, totiž který nám dá nejdokonalejší a nejsilnější neboli nejmocnější prach.
+- typ: odstavec
+  de: |-
+    N. Senza dubbio quella poluere se de giudicar esser piu gagliarda, & potente che contien maggior parte de salnitrio, dico maggior parte rispetto al tutto. Essempi gratia, il primo ordine di sopra annotati, cioe quello doue si tuol de cadauno materiale parte una, tal compositione uenira à tener un terzo salnitrio, & li dui terzi fra solfere è carbone, & lo secondo consequente à quello, cioe quello doue se tuol salnitrio parte.3. solfere parte.2. e carbone parte.2. ueniria à tener li tre settimi salnitrio, & li quattro settimi fra solfere, e carbone, & perche li tre settimi è maggior parte de un terzo, e pero diremo che la poluere del detto secondo ordine sara piu gagliarda, e potente di quella del primo ordine, similmente la poluere del terzo ordine sara piu potente di quella del secondo, perche quella del detto terzo ordine tien li cinque ottaui salnitrio, li quai cinque ottaui sono molto maggior parte de tre settimi, & il quarto uien à tener li dodeci.17.essimi salnitrio, & perche dodeci.17.essimi è maggior de cinque ottaui, e pero diremo, che la poluere del detto quarto ordine è piu gagliarda di quella del terzo, & il quinto ordine uien à tener li nuoue.14.essimi salnitrio, & perche li nuoue.14.essimi è menor parte de dodeci.17.essimi diremo che la poluer del detto quinto ordine esser peggiore, ouer men potente di quella del quarto, & il sesto ordine uien à tener li dui terzi salnitrio, & perche li dui terzi è maggior delli nuoue.14.essimi, diremo che la poluere del sesto ordine esser migliore, ouer piu potente di quella del quinto, & con tal modo procedendo in tutti gli altri consequenti ordini (à che non ignorara lo operar, & cognition di rotti) con facilita conoscera qual ordine sia migliore, ouer peggiore, cioe qual poluere sara piu gagliarda è potente, & e conuerso, intendendo pero in una istessa sorte di salnitrio, & cosi se potra far
+  cs: |-
+    **Nicolò.** Bezpochyby je třeba za nejsilnější a nejmocnější pokládat ten prach, který obsahuje větší díl ledku {salnitrio} – říkám větší díl vzhledem k celku. Například první z výše zapsaných předpisů, totiž ten, kde se od každé přísady bere jeden díl, bude obsahovat jednu třetinu ledku a dvě třetiny síry a uhlí dohromady; a druhý, který po něm následuje, totiž ten, kde se berou 3 díly ledku, 2 díly síry a 2 díly uhlí, bude obsahovat tři sedminy ledku a čtyři sedminy síry a uhlí. A protože tři sedminy jsou větší díl než jedna třetina, řekneme, že prach podle druhého předpisu bude silnější a mocnější než prach podle prvního. Podobně prach podle třetího předpisu bude mocnější než podle druhého, protože obsahuje pět osmin ledku, a těchto pět osmin je mnohem větší díl než tři sedminy. Čtvrtý obsahuje dvanáct sedmnáctin ledku, a protože dvanáct sedmnáctin je víc než pět osmin, řekneme, že prach podle čtvrtého předpisu je silnější než podle třetího. Pátý předpis obsahuje devět čtrnáctin ledku, a protože devět čtrnáctin je menší díl než dvanáct sedmnáctin, řekneme, že prach podle pátého předpisu je horší čili méně mocný než podle čtvrtého. Šestý předpis obsahuje dvě třetiny ledku, a protože dvě třetiny jsou víc než devět čtrnáctin, řekneme, že prach podle šestého předpisu je lepší čili mocnější než podle pátého. Kdo bude takto postupovat u všech dalších předpisů (a vyzná se v počítání se zlomky {rotti}), snadno pozná, který předpis je lepší nebo horší, totiž který prach bude silnější a mocnější a naopak – rozumí se ovšem při stejném druhu ledku. A tak bude možné

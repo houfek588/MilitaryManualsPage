@@ -1,0 +1,100 @@
+id: u003r
+list: '[3] r'
+strana: recto
+sken: 9
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: seznam
+  de:
+  - |-
+    Modello de rompere una muraglia con casa. car. 27.
+  - |-
+    Modello de ponti per passare exercito. car. 27.
+  - |-
+    Modello de diuersi ponti liquali si lassa per non essere al proposito. car. 28.
+  - |-
+    Modello per cauare acqua con mantice. car. 28.
+  - |-
+    Modello de aprire una muraglia, roche, repari con caue & fuoco. car. 29.
+  cs:
+  - |-
+    Model, jak prolomit hradbu {muraglia} pod krytou boudou {casa}.[^1] – [[027r|list 27]]
+  - |-
+    Model mostů {ponti} k přechodu vojska {exercito}. – [[027r|list 27]]
+  - |-
+    Model rozličných mostů, které se vynechávají, protože nejsou k věci. – [[028r|list 28]]
+  - |-
+    Model, jak čerpat vodu měchem {mantice}. – [[028r|list 28]]
+  - |-
+    Model, jak otevřít hradbu, hrady {roche} a náspy {repari} minami {caue} a ohněm. – [[029r|list 29]]
+- typ: nadpis
+  uroven: 2
+  de: 'LIBRO TERZO'
+  cs: 'Kniha třetí'
+- typ: seznam
+  de:
+  - |-
+    ORdinanza de fantaria per far camino de 100 200. 300. & de. 300. 200. car. 30.
+  - |-
+    A far battaglion de picche 100. car. 31.
+  - |-
+    A far un battaglione de picche. 200. de quadrangolo in pizo. car. 32.
+  - |-
+    A far un battaglion de picche. 300. in modo de scorpione. car. 32.
+  - |-
+    A far un battaglion de picche. 300. in quadran. car. 33.
+  - |-
+    A far un battaglion de picche. 400. in quadran. c. 34.
+  - |-
+    A far un battaglion de picche. 550. in quadrangolo con una ala. car. 35.
+  - |-
+    A far un battaglion de quanto numero uoi per conseruare li campi grandi. car. 36.
+  - |-
+    A fare un battaglion de picche. 500. in quadrangolo con doi ale. car. 36.
+  - |-
+    A fare uno battaglion de picche. 400. in croce con le sue artellerie in mezo. car. 37.
+  - |-
+    A far un battaglion de picche. 300. con doi lunette. c. 38
+  - |-
+    A far un battaglion de picche. 300. in tre cerchi. c. 39.
+  - |-
+    A far un battaglion de picche. 100. in triangolo. c. 39.
+  - |-
+    A far un battaglion de picche. 250. in triangolo. ca. 40.
+  cs:
+  - |-
+    Šik {Ordinanza} pěchoty {fantaria} na pochod o 100, 200 a 300 a o 300 a 200 [mužích]. – [[030r|list 30]]
+  - |-
+    Jak udělat bataillon {battaglion} ze 100 pikenýrů {picche}. – [[031r|list 31]]
+  - |-
+    Jak udělat bataillon z 200 pikenýrů jako čtyřúhelník {quadrangolo} postavený na hrot {in pizo}. – [[032r|list 32]]
+  - |-
+    Jak udělat bataillon z 300 pikenýrů ve způsobu štíra {scorpione}. – [[032r|list 32]]
+  - |-
+    Jak udělat bataillon z 300 pikenýrů do čtyřúhelníku. – [[033r|list 33]]
+  - |-
+    Jak udělat bataillon ze 400 pikenýrů do čtyřúhelníku. – [[034r|list 34]]
+  - |-
+    Jak udělat bataillon z 550 pikenýrů do čtyřúhelníku s jedním křídlem {ala}. – [[035r|list 35]]
+  - |-
+    Jak udělat bataillon o jakémkoli počtu [mužů] k ochraně velkých vojsk {campi}. – [[036r|list 36]]
+  - |-
+    Jak udělat bataillon z 500 pikenýrů do čtyřúhelníku se dvěma křídly. – [[036r|list 36]]
+  - |-
+    Jak udělat bataillon ze 400 pikenýrů do kříže s jeho děly {artellerie} uprostřed. – [[037r|list 37]]
+  - |-
+    Jak udělat bataillon z 300 pikenýrů se dvěma lunetami {lunette}.[^2] – [[038r|list 38]]
+  - |-
+    Jak udělat bataillon z 300 pikenýrů do tří kruhů. – [[039r|list 39]]
+  - |-
+    Jak udělat bataillon ze 100 pikenýrů do trojúhelníku {triangolo}. – [[039r|list 39]]
+  - |-
+    Jak udělat bataillon z 250 pikenýrů do trojúhelníku. – [[040r|list 40]]
+poznamky:
+- n: 1
+  text: |-
+    „Casa“ (dům) – krytá pojízdná bouda (lat. testudo, musculus), pod níž se útočníci přibližují k hradbě a podkopávají ji.
+- n: 2
+  text: |-
+    „Lunetta“ (měsíček) – šik nebo jeho křídlo ve tvaru půlměsíce. Tvary „battaglion“, „in quadran.“ (= in quadrangolo) a „in tre cerchi“, „in triangolo“ jsou v tisku zkrácené (battagliõ, q̃drã, ĩ); zkratky jsou rozepsány.

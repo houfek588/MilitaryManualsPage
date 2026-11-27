@@ -88,6 +88,7 @@ Nejjednodušší je zkopírovat `kniha.yaml` z knihy s podobným číslováním 
 | `id` | stejné jako název složky |
 | `nazev`, `nazev_orig`, `podtitul` | český název (vybírá autor projektu), původní název, podtitul z titulního listu |
 | `autor`, `autor_zivot`, `vydani`, `rok`, `katalog`, `rozsah`, `jazyk_orig` | bibliografické údaje (VD16/VD17, počet listů/stran) |
+| `jazyk` | jazyk originálu: `de` (výchozí) nebo `it`; řídí normalizaci tvarů v glosáři (`build.py` → `NORM`, `app.js` → `normDe`), popisky webu a kontrolu OCR. Nový jazyk = doplnit normalizaci v obou souborech a `KONCOVKY_JAZYK` |
 | `popis` | 2–3 věty o obsahu – zobrazí se v rozcestníku |
 | `prekladatel` | kdo/jak překládal |
 | `strankovani` | `folio` (tisk číslovaný po listech → „fol. XII r“, id stran `012r`) nebo `strany` (→ „str. 12“, id `012`) |
@@ -107,6 +108,12 @@ překladatel i kontrola úplnosti.
 
 - **OCR z BSB:** `python -I nastroje/stahni_ocr_bsb.py knihy/<kniha> <bsb-id>` → `zdroje/ocr_bsb/NNNN.txt`.
   Uložit si i IIIF manifest (`zdroje/manifest_<bsb-id>.json`) – je potřeba pro výřezy obrázků.
+- **OCR z Internet Archive:** `python -I nastroje/stahni_ocr_ia.py knihy/<kniha> <ia-id>` → `zdroje/ocr_ia/NNNN.txt`
+  (NNNN = číslo listu skenu = číslo souboru `_NNNN.jp2`). Obrázky přes IIIF
+  `https://iiif.archive.org/iiif/<ia-id>%24<sken>/…` (server přesměrovává – `curl -L`), stránka v prohlížeči
+  archive.org má číslo n = sken − 1 (`sken.zaklad_id: -1` a `{erara_id}` v `url_strana`; vzor `knihy/della-valle-1528`).
+  OCR archivu bývá u starých tisků špatné – agenti pak přepisují ze skenu. Nástroj `vyrez_drevorezy.py` umí jen BSB;
+  u jiných zdrojů vyříznou obrázky přímo překladatelé (zadání v `ZADANI_AGENTUM.md` Della Valla).
 - **Přepis DTA:** stáhnout TEI XML ručně v prohlížeči (web DTA má ochranu proti robotům – neobcházet ji),
   uložit do `zdroje/` a `python -I nastroje/dta_strany.py knihy/<kniha> zdroje/<soubor>.xml` → `zdroje/dta/NNNN.txt`
   (typografické znaky se rovnou převedou: ſ→s, uͤ→ü, ꝛ→r).

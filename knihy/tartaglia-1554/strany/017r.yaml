@@ -1,0 +1,47 @@
+id: 017r
+list: '17'
+strana: recto
+sken: 33
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ma puo occorrere in infiniti luochi, secondo li infiniti modi, che la mira dauanti puo esser di soperchio piu corta di quella de drio, ma el ponto del toccamento non puo occorrere, saluo che in un luoco solo, el qual luoco è il piu lontano della bocca del pezzo de qual si uoglia altro, doue concorrer possa la nostra linea uisuale con el transito, ouer uiaggio qual debbe far la balla, essendo adunque el piu lontano concorso de cadauno de li altri concorsi, che se intersecano, & el manco uariabile: per tale ragioni à mi me pare, che piu meritamente à quel si debbia atribuire tal dignita, che ad alcuno di ponti delle intersecationi.
+  cs: |-
+    nýbrž může nastat na nekonečně mnoha místech podle nekonečně mnoha způsobů, jak může být přední mířidlo {mira dauanti} nadmíru kratší než zadní {mira de drio}. Bod dotyku však může nastat jen na jediném místě, a toto místo je od ústí děla {pezzo} vzdálenější než kterékoli jiné, kde se naše zorná čára {linea uisuale} může setkat s dráhou {transito} čili cestou, kterou má koule {balla} vykonat. Protože je to tedy nejvzdálenější setkání ze všech ostatních setkání, při nichž se čáry protínají, a nejméně proměnlivé, zdá se mi z těchto důvodů spravedlivější přiznat tuto čest jemu než kterémukoli z bodů průsečíků.
+- typ: odstavec
+  de: |-
+    P. Voi haueti ragione, & questa con le due passate sono state tre belle lettioni.
+  cs: |-
+    **Převor.** Máte pravdu; tato a obě předešlé byly tři krásné lekce.
+- typ: obrazek
+  soubor: drevorez-33.jpg
+  popis: Dělo na lafetě s mířidly C (zadní) a D (přední) a ústím H. Zorná čára (nápis LINEA VISVALE – zorná čára) vede od C přes D a dráhy koule (nápis TRANSITO DELLA BALLA – dráha koule) se jen dotýká v bodě M, kde stojí terč na tyči; za ním dráha klesá ke kouli nakreslené vpravo dole.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO DECIMO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: |-
+    Desátý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Fin qua me haueti fatto chiaro, donde procede la causa, quando che uno tirando de mira à uno segno alle uolte da in brocca, alle uolte di sopra, et alle uolte di sotto del detto segno, hor uoria sapere da che procede, che alcune uolte da molto costero dal detto segno tolto de mira.
+  cs: |-
+    **Převor.** Až dosud jste mi objasnil, odkud pochází příčina, že když někdo střílí podle mířidel {de mira} na nějaký cíl {segno}, někdy zasáhne do středu {in brocca}, někdy nad cíl a někdy pod něj. Nyní bych rád věděl, odkud pochází, že někdy zasáhne daleko stranou {costero} od zamířeného cíle.
+- typ: odstavec
+  de: |-
+    N. Questo puo procedere per due cause, l'una è per le mire, le quale alle uolte l'una, ouer ambe due non sara precisamente nella mezzara del pezzo, cioè nel mezzo della parte superiore del pezzo, per il che tal pezzo è sforzato à percuottere costero, perche se la mira de drio sara fora del detto ponto di mezzo: poniamo uerso la nostra man destra, etiam el detto pezzo dara costero alla medesima banda destra del segno, che se tol de mira, & se la detta mira de drio sara fora del ponto di mezzo, & uerso la man sinistra, etiam el detto pezzo percuotera costero, & uerso la medesima parte sinistra.
+  cs: |-
+    **Nicolò.** To může pocházet ze dvou příčin. První jsou mířidla {mire}: někdy jedno z nich nebo obě nejsou přesně ve středu {mezzara} děla, totiž uprostřed jeho horní strany, a proto dělo musí zasáhnout stranou. Bude-li totiž zadní mířidlo mimo onen střed, řekněme k naší pravé ruce, zasáhne dělo také stranou, a to na tutéž pravou stranu od cíle, na který se míří; a bude-li zadní mířidlo mimo střed k levé ruce, zasáhne dělo rovněž stranou, a to na tutéž levou stranu.
+- typ: odstavec
+  de: |-
+    P. A me pare, che doueria esser al contrario di quello che haueti detto, cioè che se la mira de drio sia fora del ponto di mezzo, & uerso la banda destra, che il detto pezzo ueria tirar costero uerso la banda sinistra.
+  cs: |-
+    **Převor.** Mně se zdá, že by to mělo být naopak, než jste řekl, totiž že je-li zadní mířidlo mimo střed, a to na pravou stranu, mělo by dělo střílet stranou na levou stranu.
+- typ: odstavec
+  de: |-
+    N. Non Signore, anci eglie, come hauemo detto, & accioche quella per ragione ne sia certa, poniamo essempi gratia, lo sotto scritto pezzo, che la mira de drio.c.sia alquanto fora del ponto di mezzo, & uerso man destra, & che la mira.d.dauanti sia iustamente nel ponto de mezzo, & il segno incontrato, ouer tolto de mira con le dette due mire, poniamo sia el ponto.e.el qual ponto.e.eglie necessario, che sia discrepante, ouer discosto dal uiaggio, che debbe far la balla, & uerso la banda sinistra, come di sotto in figura appare, supponendo che la linea f.g.sia el uiaggio, che deue far la balla. Essendo adunque el segno.e.discosto à banda sinistra del uiaggio, che
+  cs: |-
+    **Nicolò.** Nikoli, pane, je to tak, jak jsme řekli; a aby si toho Vaše Milost byla jista z rozumu, mějme například níže nakreslené dělo, jehož zadní mířidlo c je poněkud mimo střed, a to k pravé ruce, kdežto přední mířidlo d je přesně ve středu. Cíl, na který se těmito dvěma mířidly zamířilo, budiž bod e. Tento bod e se musí odchylovat čili být vzdálen od cesty, kterou má koule vykonat, a to na levou stranu, jak je vidět níže na obrazci, předpokládáme-li, že čára f g je cesta, kterou má koule vykonat. Protože je tedy cíl e vzdálen na levou stranu od cesty, kterou

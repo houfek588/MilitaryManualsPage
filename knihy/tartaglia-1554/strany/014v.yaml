@@ -1,0 +1,49 @@
+id: 014v
+list: '14'
+strana: verso
+sken: 28
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    per esser stato dimostrato, che in simei tiri la balla mai ua per linea perfettamente retta, ma sempre per obliqua, ouer curua, seguita di necessita, che tal balla dia, ouer dara di sotto dal ponto.g.come saria à dire in ponto.i. & perche ogni commune intelletto, senza altra dimostratione, confirmara in questo caso, che quanto piu sara lontano el detto segno.e.tanto piu basso sara el ponto.i.perche el transito, ouer moto curuo continuamente si ua piu curuando uerso terra, che è il primo proposito.
+  cs: |-
+    protože bylo dokázáno, že při takových výstřelech {tiri} koule {balla} nikdy neletí po dokonale přímé čáře, nýbrž vždy po šikmé čili zakřivené, plyne z toho nutně, že koule zasáhne pod bod g, například do bodu i. A každý obyčejný rozum i bez dalšího důkazu potvrdí, že v tomto případě čím vzdálenější bude uvedený cíl {segno} e, tím níž bude bod i, neboť zakřivená dráha {transito} čili pohyb se neustále víc zakřivuje k zemi. To je první tvrzení.
+- typ: obrazek
+  soubor: drevorez-28.jpg
+  popis: Dělo na kolové lafetě se stejně vysokými mířidly – zadním C na konci hlavně a předním D u ústí. Zorná čára (nápis LINEA VISVALE – zorná čára) vede vodorovně od oka mířiče přes C a D k cíli E (kroužek vpravo). Z ústí (body F a H) vychází pod ní rovnoběžná přímka k bodu G, ležícímu svisle pod E, a zakřivená dráha koule, která klesá až k bodu I pod G.
+- typ: odstavec
+  de: |-
+    El secondo proposito (cioè, che se la mira dauanti sara piu alta, che quella de drio, che simelmente la botta sempre dara piu bassa del segno, & in ogni uerso, & molto piu basso di quello faria con le mire eguale, & questo senza altra dimostratione è manifesto, come per la figura sottoscritta sensibelmente si uede, e pero sopra di cio non diro altro, saluo che questi dui essempi, quantunque siano dati nel tirar a liuello si debbe intendere il medesimo succedere in ogni altro uerso.
+  cs: |-
+    Druhé tvrzení (totiž že bude-li přední mířidlo {mira dauanti} vyšší než zadní {mira de drio}, zasáhne rána {botta} rovněž vždy níž než cíl, a to v každém směru, a mnohem níž, než by tomu bylo se stejnými mířidly)[^2] je zřejmé bez dalšího důkazu, jak je názorně vidět z níže nakresleného obrazce; a proto o tom neřeknu nic víc, jen to, že ačkoli jsou tyto dva příklady dány pro vodorovnou střelbu {tirar a liuello}, je třeba rozumět, že totéž nastává v každém jiném směru.
+- typ: obrazek
+  soubor: drevorez-28b.jpg
+  popis: Totéž dělo, ale přední mířidlo D je vyšší než zadní C. Zorná čára (nápis LINEA VISVALE – zorná čára) proto od C přes D stoupá k cíli E, zatímco přímka z ústí (F, H) vede vodorovně k bodu G a zakřivená dráha koule klesá k bodu I; vzdálenost mezi cílem E a zásahem I je větší než na předchozím obrazci.
+- typ: odstavec
+  de: |-
+    PRIORE. Questi dui uostri essempi, gli ho inteso benissimo, si che uegnamo pur all'altra parte, cioè doue nasce, che molte uolte si da in brocca, & alcuna fiata di sotto dal segno.
+  cs: |-
+    **Převor.** Těmto vašim dvěma příkladům jsem porozuměl výborně, takže přejděme k té druhé části, totiž odkud pochází, že se mnohokrát zasáhne do středu {in brocca} a někdy pod cíl.
+- typ: odstavec
+  de: |-
+    N. Detta la conditione, & qualita delle botte, che occorre, quando che le due mire sono eguale, & etiam quando, che la mira dauanti è piu alta di quella de drio (cioè, che in l'una, & l'altra sempre de necessita si da di soto dal segno.) Hor resta solamente à narrare le conditione, & qualita delle botte, che puo occorrere quando che la mira dauanti sia alquanto piu bassa, cioè alquanto piu corta di quella de drio, & questo piu bassa, ouer piu corta si debbe intendere sempre (come di sopra fu detto) in rispetto al fundo del uacuo della canna del detto pezzo. Dico adunque, che quando la mira dauanti sara alquanto piu bassa di quella de drio in tal caso puo occorrere, che alcuna fiata se dia in brocca, & alcun'altra, che se dia di sopra, & alcun'altra di sotto dal segno.
+  cs: |-
+    **Nicolò.** Popsal jsem tedy povahu a vlastnosti ran, k nimž dochází, když jsou obě mířidla {mire} stejná, a také když je přední mířidlo vyšší než zadní (totiž že v jednom i druhém případě se nutně vždy zasáhne pod cíl). Nyní zbývá jen vyložit povahu a vlastnosti ran, k nimž může dojít, když je přední mířidlo poněkud nižší, to jest poněkud kratší než zadní; a to „nižší“ čili „kratší“ je třeba vždy chápat (jak bylo řečeno výše) vzhledem ke dnu vývrtu {uacuo} hlavně {canna} toho děla. Pravím tedy, že když bude přední mířidlo poněkud nižší než zadní, může se v takovém případě stát, že se někdy zasáhne do středu, jindy nad cíl a jindy pod cíl.
+- typ: odstavec
+  de: |-
+    P. Perche ragione.
+  cs: |-
+    **Převor.** Z jakého důvodu?
+- typ: odstavec
+  de: |-
+    N. La ragione è questa, che ogni uolta, che la mira dauanti sia alquanto piu bassa di quella de drio (per la quinta petitione di Euclide) la nostra linea uisuale è necessario concorrere con la linea retta, che procede
+  cs: |-
+    **Nicolò.** Důvod je tento: kdykoli je přední mířidlo poněkud nižší než zadní, musí se naše zorná čára {linea uisuale} (podle pátého postulátu Eukleidova)[^1] protnout s přímkou, která vede
+poznamky:
+- n: 1
+  text: Quinta petitione – pátý postulát (o rovnoběžkách) v Eukleidových Základech; přímky, které nejsou rovnoběžné, se při dostatečném prodloužení protnou. Tartaglia vydal italský překlad Eukleida roku 1543.
+- n: 2
+  text: Závorka otevřená v tisku za „El secondo proposito“ není uzavřena; v překladu je uzavřena podle smyslu.

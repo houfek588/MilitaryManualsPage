@@ -1,0 +1,113 @@
+id: u002r
+list: '[2] r'
+strana: recto
+sken: 7
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: 'INCOMINCIA LA TABOLA DEL Libro intitolato Vallo.'
+  cs: 'Začíná obsah knihy nazvané Val'
+- typ: nadpis
+  uroven: 2
+  de: 'LIBRO PRIMO.'
+  cs: 'Kniha první'
+- typ: seznam
+  de:
+  - |-
+    DEl sapere del Capitano. car. 2.
+  - |-
+    Deli colori de uestimenti de Capitani. c. 3.
+  - |-
+    De punitione del disobediente & traditore. car. 3.
+  - |-
+    De pertinentia ad Capitani che expettano campo. c. 4.
+  - |-
+    De pertinentia ad gouernare una terra. car. 4.
+  - |-
+    De fortificare una terra. car. 4.
+  - |-
+    De fare uno Bastione quadro. car. 6.
+  - |-
+    De fare uno bastione tondo. car. 7.
+  - |-
+    De inchiauare ripari per calare bassar con le sue candonere. car. 8.
+  - |-
+    De fortificare una terra, car. 8.
+  - |-
+    De fortificare una terra & defendere. car. 9.
+  - |-
+    De defendere una terra con forche di ferro. car. 9.
+  - |-
+    De defendere una terra con fuoco de artellarie. c. 10.
+  - |-
+    De defendere una terra con pignatelle di fuoco, c. 10.
+  - |-
+    De defendere una terra con palle de fuoco. car. 10.
+  - |-
+    Per defendere una terra con trombe di fuoco, ca. 11.
+  - |-
+    Ad defensione con Rotelle di fuoco. car. 11.
+  - |-
+    Per far lo stoppino per scoppetto. car. 12.
+  - |-
+    Per fare fuoco con mestura bollita. car. 12.
+  - |-
+    Per fare fuoco terminato ad hora. car. 12.
+  - |-
+    Per appicciare fuoco de ligname & ligname senza focile. car. 12.
+  - |-
+    Per fare mestura in pietra de fuoco che se accenda con acqua, ouero con sputo. car. 13.
+  cs:
+  - |-
+    O vědění kapitána {Capitano}. – [[002r|list 2]]
+  - |-
+    O barvách oděvů kapitánů. – [[003r|list 3]]
+  - |-
+    O trestání neposlušného a zrádce. – [[003r|list 3]]
+  - |-
+    O tom, co přísluší kapitánům, kteří očekávají nepřátelské vojsko {campo}.[^1] – [[004r|list 4]]
+  - |-
+    O tom, co přísluší ke správě města {terra}. – [[004r|list 4]]
+  - |-
+    O opevnění {fortificare} města. – [[004r|list 4]]
+  - |-
+    Jak postavit čtverhrannou baštu {Bastione}. – [[006r|list 6]]
+  - |-
+    Jak postavit okrouhlou baštu. – [[007r|list 7]]
+  - |-
+    Jak sepnout náspy {ripari}, aby se svažovaly dolů, i s jejich střílnami {candonere}.[^2] – [[008r|list 8]]
+  - |-
+    O opevnění města. – [[008r|list 8]]
+  - |-
+    O opevnění a obraně města. – [[009r|list 9]]
+  - |-
+    O obraně města železnými vidlemi {forche di ferro}. – [[009r|list 9]]
+  - |-
+    O obraně města ohněm dělostřelectva {artellarie}. – [[010r|list 10]]
+  - |-
+    O obraně města ohnivými hrnci {pignatelle di fuoco}. – [[010r|list 10]]
+  - |-
+    O obraně města ohnivými koulemi {palle de fuoco}. – [[010r|list 10]]
+  - |-
+    Jak bránit město ohnivými troubami {trombe di fuoco}. – [[011r|list 11]]
+  - |-
+    K obraně ohnivými kotouči {Rotelle di fuoco}. – [[011r|list 11]]
+  - |-
+    Jak udělat doutnák {stoppino} pro ručnici {scoppetto}. – [[012r|list 12]]
+  - |-
+    Jak udělat oheň z vařené směsi {mestura}. – [[012r|list 12]]
+  - |-
+    Jak udělat oheň, který vzplane v určenou hodinu. – [[012r|list 12]]
+  - |-
+    Jak rozdělat oheň dřevem o dřevo bez křesadla {focile}. – [[012r|list 12]]
+  - |-
+    Jak udělat směs v podobě ohnivého kamene, který se zapálí vodou nebo slinou. – [[013r|list 13]]
+poznamky:
+- n: 1
+  text: |-
+    „Campo“ – polní vojsko, zvláště nepřátelské vojsko, které se položí před město k obléhání; „aspettare il campo“ = očekávat obléhání.
+- n: 2
+  text: |-
+    V textu na listu 8 r zní nadpis kapitoly „Modo de inchinare uno riparo, el quale viene a calare secondo il riparo con le soe candonere“ (způsob, jak naklonit násep, který se svažuje podle valu, se svými střílnami). „Inchiauare“ (sepnout klíny, svázat) a „inchinare“ (naklonit) se v tisku střídají; „candonere“ je patrně tiskový nebo nářeční tvar slova „cannoniere“ (střílny). Slova „calare bassar“ (spustit, snížit) stojí v obsahu vedle sebe jako dvojí výraz.

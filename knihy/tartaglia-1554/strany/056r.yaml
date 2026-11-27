@@ -1,0 +1,38 @@
+id: 056r
+list: '56'
+strana: recto
+sken: 111
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    grandezza che ui possa entrare sazzatamente quell'altra armilla, ouer scatolina del soprascritto nostro istromento, et che quelli dui, ouer quattro bracci, cioe .c.d.e.f.g.h. & .i.k. siano talmente fabricati che dall'una, & l'altra banda dimostrino giustamente li gradi sopra la prima lamma circolare gia signati, & li dui principali, cioe .c.d. & .e.f. uoleno esser di tanta longhezza che dall'una, & l'altra banda uscischano alquanto fuora del cerchio della nostra prima lamma circolare, & nella istremita dell'uno, & l'altro de questi dui bracci ui se salda le sopradette due lamette, ouer figure quadrangole in alto elleuate di tal altezza che sopra auanzano la altezza della scatolina del nostro bossolo, & talmente larghe, che facendoli uno busettino in meggio di cadauna di quelle, cioe in quella parte che soperchia di sopra del detto bossolo, uno rettamente opposito all'altro, talmente che trasguardando per li detti dui busettini la nostra linea uisuale transisca precisamente sopra al centro del cerchio del detto nostro istromento, & dapoi tal dioptra si debbe con diligentia incassare sopra al detto nostro bossolo, cioe sopra à quella armilla, ouer scatolina, che interchiude il detto bossolo, ilche facendo il detto nostro istromento stara precisamente, come di sotto appare in figura, & la dioptra, ouer trasguardo, sara girabile, cioe che la se potra girare per ogni uerso à torno à torno, et per quelli dui busettini, che saranno in quelle due lamette quadrangole in alto elleuate, se potra trasguardar con un'occhio li segni, & termini, che si uorra uedere, come per l'auenire per essempio se mostrara, uero è, che in luoco de quelli dui busettini à me mi piace, & me pare anchora piu spediente due pontine acute, come di sopra dissi.
+  cs: |-
+    velikosti, aby do ní přesně[^1] zapadla ona druhá obruč {armilla} čili pouzdro {scatolina} našeho výše popsaného nástroje; a ta dvě, případně čtyři ramena, totiž c d, e f, g h a i k, mají být zhotovena tak, aby na obou stranách přesně ukazovala stupně, vyznačené už na první kruhové desce. Dvě hlavní ramena, totiž c d a e f, mají být tak dlouhá, aby na obou stranách poněkud přesahovala kruh naší první kruhové desky, a na konec jednoho i druhého z těchto dvou ramen se připájejí výše zmíněné dvě destičky čili čtyřhranné plíšky, vztyčené vzhůru. Mají být tak vysoké, aby přečnívaly nad pouzdro naší buzoly {bossolo}, a tak široké, aby se v každé z nich – totiž v té části, která přečnívá nad buzolu – mohla udělat dírka {busettino}, jedna přesně naproti druhé, tak aby naše zorná čára {linea uisuale} při zaměřování skrze ty dvě dírky procházela přesně nad středem kruhu našeho nástroje. Potom se má tato dioptra {dioptra} pečlivě nasadit na naši buzolu, totiž na onu obruč čili pouzdro, které buzolu uzavírá. Když se to udělá, bude náš nástroj vypadat přesně tak, jak je níže vidět na obrázku, a dioptra čili průzor {trasguardo} bude otočná, to jest půjde otáčet na všechny strany dokola, a skrze ty dvě dírky v oněch dvou čtyřhranných destičkách vztyčených vzhůru bude možné jedním okem zaměřit značky a mezníky {termini}, které budeme chtít vidět, jak se dále ukáže na příkladu. Pravda však je, že místo těch dvou dírek se mi líbí a zdají se mi ještě vhodnější dva ostré hroty, jak jsem řekl výše.
+- typ: obrazek
+  soubor: drevorez-111.jpg
+  popis: Hotová buzola s nasazenou otočnou dioptrou (pohled shora). Vnější kruh je rozdělen drobnými čárkami na 72 dílů (po 5 stupních) a osmi paprsky na osm větrů s písmeny T (Tramontana – sever, nahoře), G (Greco – severovýchod), L (Levante – východ), S (Sirocco – jihovýchod), O (Ostro – jih), G (Garbino – jihozápad), P (Ponente – západ) a M (Maistro – severozápad). Uprostřed je kruhové pouzdro se střelkou, jejíž hrot se šipkou míří k T. Přes desku vede šikmo (od severovýchodu k jihozápadu) hlavní rameno dioptry s čtyřhrannými zaměřovacími destičkami s dírkou na obou koncích; kolmo na ně je příčné rameno, na jehož severozápadním konci je napříč připevněno krátké rameno ve tvaru písmene T.
+- typ: odstavec
+  de: |-
+    R. Questa forma de istromento molto mi piace, dimane parlaremo poi del modo di operarlo.
+  cs: |-
+    **Richard.** Tato podoba nástroje se mi velmi líbí; zítra si pak promluvíme o tom, jak s ním pracovat.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SECONDO FATTO DAL medesimo. M. Richardo Ventuorth.
+  cs: Druhý dotaz, který položil týž pan Richard Wentworth
+- typ: odstavec
+  de: |-
+    RICHARDO. Hor uorria Compare che sotto breuita me dichiarasti il modo di operare l'istromento, che hieri me insignasti à fare.
+  cs: |-
+    **Richard.** Nyní bych si přál, kmotře, abyste mi stručně vysvětlil, jak pracovat s nástrojem, jehož výrobu jste mě včera naučil.
+- typ: odstavec
+  de: |-
+    N. Per uoler operar tal istromento à uoler mettere in dissegno qualche sito, ouer paese, bisogna hauere un bastone longo, circa piedi tre, & che tal bastone in un di capi habbia un ferro appontito, per poterlo piantare in terra, & dall'altro capo un tondo di legno alla grandezza dello istromento con un poco di orlo, che sia atto à tener tale istromento
+  cs: |-
+    **Nicolò.** Chceme-li tento nástroj použít k zakreslení nějakého místa {sito} nebo krajiny {paese}, je třeba mít hůl dlouhou asi tři stopy {piedi}, která má na jednom konci zašpičatělé železo, aby se dala zarazit do země, a na druhém konci dřevěný kotouč velikosti nástroje s nízkým okrajem, který by byl s to udržet nástroj
+poznamky:
+- n: 1
+  text: Sazzatamente (v tisku ſazzatamente) – patrně benátské „přesně, na doraz“ (srov. sazzo, sazzar – přiléhat, sedět); vnější obruč dioptry má na pouzdro buzoly nasednout těsně, ale otočně. Čtení i výklad nejisté.

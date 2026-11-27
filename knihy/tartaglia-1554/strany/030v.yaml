@@ -1,0 +1,47 @@
+id: 030v
+list: '30'
+strana: verso
+sken: 60
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    istremita delle due mire sono alquanto piu alte della brocca del schioppo doue uscisse la balla. la qual cosa facendo (come credo che faccia) ueneria ad annular quel poco errore, che doueria far in bassezza la detta balla, & per queste due cause tal schioppettero, ouer bombardero con tal sorte di mire generalmente sara molto piu atto à dar nel segno, ouer à far piu bella botta in un luoco propinquo di quello saria con le due prime qualita de mire dette nel principio di questo Quesito, perche in questa qualita la linea uisuale per molto spatio ua quasi congionta, ouer poco distante dal transito della balla, e pero in tutto quel spacio che è fra la bocca del schioppo, & el luoco doue concorano le dette due linee, ouer doue che sono piu propinque, non se è suggetto quasi ad alcuno errore per le ragion dette di sopra, dico ad alcuno errore per conto delle mire.
+  cs: |-
+    konce obou mířidel {mire} jsou o něco výš než ústí[^1] ručnice {schioppo}, odkud vychází koule {balla}. Když to tak dělá (a myslím, že to dělá), vyruší tím onu malou chybu, kterou by koule měla směrem dolů. Z těchto dvou příčin bude takový ručničář nebo dělostřelec s tímto druhem mířidel obecně mnohem spíše trefovat cíl {segno} neboli dělat krásnější rány {botta} na blízkém místě, než by tomu bylo s oběma prvními druhy mířidel, o nichž byla řeč na začátku tohoto dotazu. Při tomto druhu totiž jde zorná čára {linea uisuale} na dlouhém úseku téměř spojena s dráhou {transito} koule neboli jen málo od ní vzdálena, a proto na celém úseku mezi ústím ručnice a místem, kde se obě čáry sbíhají nebo kde jsou si nejblíže, není člověk z důvodů výše uvedených vystaven téměř žádné chybě – myslím žádné chybě kvůli mířidlům.
+- typ: odstavec
+  de: |-
+    S. Certamente con questo uostro ragionamento uoi me haueti satisfatto in tutto, e per tutto, perche da una banda io teneua, per le ragioni da uoi adutte nel precedente Quesito, che fusse impossibile à dar in un segno tolto de mira, quando che tal segno non fusse precisamente nel ponto della intersecatione, ouer del toccamento delle due linee concorrente, cioe della linea uisuale, & del transito della balla, & dell'altra banda, me pareua che la mia longa isperientia non correspondesse à questo, perche con el mio schioppo ho tirato, & morto infiniti uccelli, alcuni à starui competentamente da lontano, alcuni altri à starui cosi mediocremente di lontano, et alcuni altri starui molto propinquo, la qual cosa non potria accadere, essendo, come prima tenea (perche se le mire del detto mio schioppo sono tale, che mi facciano concorrere la mia linea uisuale con el transito della balla, el ponto di tal concorso eglie da credere, che sempre si faccia quasi in una medesima distantia (massime tirando per un medesimo uerso, e cargandolo sempre à uno medesimo modo) e per tanto essendo stata la cosa à che se tira piu, ouer men distante di quella tal determinata distantia, saria stato impossibile à imbroccar la detta cosa tolta de mira, e gia (come di sopra ho detto) per isperientia ritrouaua al contrario, cioe che in distantie commune, & mediocre, & propinque, & in un medesimo uerso me occorso molte uolte à dar imbrocca, con el mio schioppo, la qual cosa mi faceua star molto ambiguo, ma uoi me haueti ottimamente da ogni dubbio fatto chiaro, & massime che ogni uolta che mi occorre à tirare à qualche uccello, che me sia molto propinquo, io costumo come di sopra dicesti, cioe à pigliar la mira talmente piu alto, che la bocca del mio schioppo uenga à couerzerme lo uccello, il che facendo rare uolte tiro in fallo.
+  cs: |-
+    **Ručničář.** Věru jste mě tímto svým výkladem uspokojil ve všem všudy. Na jednu stranu jsem se totiž z důvodů, které jste uvedl v předešlém dotazu, domníval, že není možné trefit zamířený cíl, pokud cíl není přesně v bodě průsečíku {intersecatione} nebo dotyku {toccamento} obou sbíhajících se čar, totiž zorné čáry a dráhy koule; na druhou stranu se mi zdálo, že tomu má dlouhá zkušenost neodpovídá. Svou ručnicí jsem totiž střílel a zastřelil nesčetně ptáků, některé ze slušné dálky, jiné ze střední vzdálenosti a jiné z velké blízkosti, což by se nemohlo stát, kdyby tomu bylo tak, jak jsem se prve domníval. (Jsou-li totiž mířidla mé ručnice taková, že se má zorná čára sbíhá s dráhou koule, je třeba věřit, že se bod tohoto setkání nachází vždy skoro v téže vzdálenosti (zvláště když se střílí týmž směrem a ručnice se nabíjí vždy týmž způsobem); a proto kdyby věc, na niž se střílí, byla blíž nebo dál než tato určená vzdálenost, nebylo by možné zamířenou věc trefit.) A přece (jak jsem řekl výše) jsem zkušeností shledával opak, totiž že se mi v obvyklých, středních i blízkých vzdálenostech a týmž směrem mnohokrát podařilo svou ručnicí trefit; to mě uvádělo do velkých rozpaků. Vy jste mě však ze všech pochybností výborně vyvedl, a to tím spíš, že kdykoli mám střílet na nějakého ptáka, který je velmi blízko, mívám ve zvyku, jak jste řekl výše, mířit natolik výš, že mi ústí ručnice ptáka zakryje; a když to tak dělám, zřídka chybím.
+- typ: odstavec
+  de: |-
+    N. Mi piace assai, che la uostra longa sperientia ui renda bona testimonianza di quello, che per ragion naturale, e geometrica la mia mente sente.
+  cs: |-
+    **Nicolò.** Velice mě těší, že vaše dlouhá zkušenost dobře dosvědčuje to, co má mysl chápe z přirozeného a geometrického rozumu.
+- typ: odstavec
+  de: |-
+    S. Quantunque del mio dubbio me habbiati fatto chiaro, nondimeno pensando sopra la uostra argumentatione, me ne occorso nouamente un'altro in mente, ma dubito di non farui fastidio.
+  cs: |-
+    **Ručničář.** Ačkoli jste mi mou pochybnost objasnil, přece když přemýšlím o vašem výkladu, napadla mě znovu další; bojím se však, abych vás neobtěžoval.
+- typ: odstavec
+  de: |-
+    N. Seguitati pur che non mi fatte fastidio alcuno, anci me fatti appiacere.
+  cs: |-
+    **Nicolò.** Jen pokračujte, nijak mě neobtěžujete, naopak mi děláte radost.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO TRIGESIMO FATTO DAL medesimo Schioppetero.
+  cs: |-
+    Třicátý dotaz, který položil týž ručničář
+- typ: odstavec
+  de: |-
+    SCHIOPPETTERO Nella argumentatione per uoi fatta sopra al precedente Quesito, con bonissime ragioni hauete dimostrato qualmente un schioppettero in
+  cs: |-
+    **Ručničář.** Ve výkladu, který jste podal k předešlému dotazu, jste velmi dobrými důvody dokázal, že ručničář je na
+poznamky:
+- n: 1
+  text: V tisku „della brocca del schioppo“ – zřejmě tisková chyba za „della bocca“ (ústí); přeloženo podle smyslu.

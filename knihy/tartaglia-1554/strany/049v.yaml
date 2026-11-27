@@ -1,0 +1,30 @@
+id: 049v
+list: '49'
+strana: verso
+sken: 98
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    uerso li nemici.
+  cs: |-
+    proti nepříteli?
+- typ: odstavec
+  de: |-
+    N. Con la regola che si fa el cuneo, con quella medesima quasi si fa el rhombo, perche diuidendo tutti quei fanti, ouer quello essercito con, che si uuol formar el detto rhombo in due parti equali, & di quella mita formar el cuneo, & formato che le sopra el medesimo ultimo lato, ui se debbe andar assettando l'altra mita de fanti, ouer del essercito con file, che continuamente andasseno declinando per dui fanti manco, cioe al contrario di quello se fa comenzandolo dalla unita, cioe comenzando à far la ponta del cuneo, nel qual si ua continuamente accrescendo le file per dui fanti piu, ma bisogna aduertire, che se nella fabricatione del primo cuneo, ui auanzasse qualche fanti, che non fusseno à sofficienza de farui un'altra fila, quella medesima fila se debbe pur compire con li fanti dell'altra mita de fanti, perche uno di questi dui cunei congionti, uiene a esser de una fila piu de l'altro.
+  cs: |-
+    **Nicolò.** Kosočtverec {rhombo} se dělá skoro týmž pravidlem jako klín {cuneo}. Pěšáky {fanti} neboli vojsko {essercito}, z něhož se má ten kosočtverec vytvořit, rozdělíme na dvě stejné části a z jedné poloviny vytvoříme klín; když je hotov, má se na jeho poslední stranu postupně stavět druhá polovina pěšáků neboli vojska v řadách {file}, které se postupně zmenšují vždy o dva pěšáky, tj. opačně, než se postupuje, když se začíná od jedničky, totiž od hrotu klínu, kde se řady postupně zvětšují vždy o dva pěšáky. Je však třeba dát pozor: zbude-li při stavbě prvního klínu několik pěšáků, kteří nestačí na další řadu, má se tato řada přesto doplnit pěšáky z druhé poloviny, protože jeden z těchto dvou spojených klínů má o jednu řadu víc než druhý.
+- typ: odstavec
+  de: |-
+    P. Datime un'essempio in figura ma in picciol numero.
+  cs: |-
+    **Převor.** Dejte mi příklad v obrazci, ale na malém počtu.
+- typ: obrazek
+  soubor: drevorez-98.jpg
+  popis: >-
+    Kosočtverečný šik ze 320 pěšáků sázený z teček: nahoře nápis „fronte“ (čelo). Horní klín má 13 řad
+    o 1, 3, 5 … 25 tečkách (169 pěšáků), na jeho nejširší řadu navazuje dolní obrácený klín o 12 řadách
+    o 23, 21 … 1 tečce (144 pěšáků). Pod hrotem odděleně 7 teček (3, 3 a 1) s nápisem „auanza“
+    (zbývá) – pěšáci, kteří zůstali mimo šik.

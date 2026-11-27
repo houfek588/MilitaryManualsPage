@@ -1,0 +1,51 @@
+id: 051r
+list: '51'
+strana: recto
+sken: 101
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: QVESITO VNDECIMO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Jedenáctý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Essendo uno essercito ordinato in qual si uoglia forma, & che per sorte li nemici inuistidessono dentro con le sue artegliarie, talmente che amazzasseno molti de quelli fanti di tal essercito, se adimanda qual saria meglio che tal essercito caminasse secondo che lui se ritrouasse, cioe lassando quelli lochi cosi uacui di quelle persone morte dalle artegliarie, ouer à restringersi insieme per impire quelli tali lochi uacui.
+  cs: |-
+    **Převor.** Je-li vojsko {essercito} sestaveno v jakémkoli tvaru a nepřítel by do něho náhodou udeřil svými děly {artegliarie} tak, že by pobil mnoho pěšáků {fanti} toho vojska, ptám se, co by bylo lepší: aby to vojsko pochodovalo tak, jak se právě nachází, tj. nechalo místa po lidech zabitých děly prázdná, nebo aby se stáhlo dohromady a ta prázdná místa zaplnilo?
+- typ: odstavec
+  de: |-
+    N. All'uno modo mi par male, & all'altro peggio, perche lassando quelli lochi cosi uacui, & massime nella fronte, si da facilita grandissima alli nemici di entrar nella detta ordinanza, & di romperla, & facendo poi restringere la detta ordinanza per empir li detti lochi, necessariamente tal ordinanza se disordina totalmente, & se redusse quasi in confusione, perche eglie da credere, che le dette artegliarie, non consumano alcuna fila de fanti integralmente da un capo all'altro per longo, ma solamente una parte di questa, & una parte di quell'altra, & alcune restano illese, ouer non offese, ma intiere, & sane, onde uolendole far restringere per empir li detti lochi uacui, eglie necessario à disconciar le file acconcie, per integrar le disconcie, tal che tal ordinanza uerra à restar con piu numero de file de fanti (al longo) nella coda, che nella fronte, la qual cosa, se tal ordinanza uorra caminare, eglie necessario che immediate uenghi in confusione, per causa di quelle file imperfette per longo.
+  cs: |-
+    **Nicolò.** První způsob se mi zdá špatný a druhý ještě horší. Necháme-li ta místa prázdná, a zvláště v čele {fronte}, velmi tím usnadníme nepříteli, aby do toho šiku {ordinanza} vnikl a rozbil ho; a necháme-li pak šik stáhnout, aby se ta místa zaplnila, šik se nutně úplně rozvrátí a upadne skoro do zmatku. Je totiž třeba počítat s tím, že děla nezničí žádnou řadu {fila} pěšáků po délce celou od jednoho konce ke druhému, ale jen část té a část oné, a některé zůstanou nedotčené neboli nezraněné, celé a zdravé. Chceme-li je tedy nechat stáhnout, aby se zaplnila prázdná místa, je nutné porušit řady neporušené, aby se doplnily řady porušené, takže v šiku zůstane v týlu více řad pěšáků (po délce) než v čele; a bude-li ten šik chtít pochodovat, nutně hned upadne do zmatku kvůli těm neúplným řadám po délce.
+- typ: odstavec
+  de: |-
+    P. Eglie cosa consonante, ma come uorresti che se facesse altramente.
+  cs: |-
+    **Převor.** To dává smysl; ale jak byste chtěl, aby se to dělalo jinak?
+- typ: odstavec
+  de: |-
+    N. Io laudarei che se amaestrasse li fanti in simil caso, à non restar mai senza compagno auanti di se, eccetto che nella fronte, cioe auertir cadauno de loro, che se per caso gli uenisse à manco quello fante che gli camina auanti di se, ouer piu, che subito, & con gran prestezza debbia caminare tanto auanti che ritroui un'altro compagno nella consueta distantia auanti di se, & se per caso non ui ne ritrouasse alcuno auertirli, come debbiano procedere per fin alla testa, ouer fronte, et in tal luoco fermarse, ouer caminare secondo che fara tal fila della testa, ouer della fronte.
+  cs: |-
+    **Nicolò.** Doporučil bych pěšáky pro takový případ vycvičit, aby nikdy nezůstali bez druha před sebou, kromě těch v čele; totiž poučit každého z nich, že kdyby mu náhodou ubyl pěšák, který jde před ním, nebo více pěšáků, má ihned a velmi rychle jít tak daleko vpřed, až najde jiného druha v obvyklé vzdálenosti před sebou. A kdyby tam náhodou žádného nenašel, poučit je, že mají postupovat až k hlavě neboli čelu a tam se zastavit, anebo pochodovat tak, jak to bude dělat ta řada hlavy neboli čela.
+- typ: odstavec
+  de: |-
+    P. Mo gli altri che saranno nella medesima fila de drio da quel tal compagno, per longo, che uorreti che facciano.
+  cs: |-
+    **Převor.** A ti ostatní, kteří budou v téže řadě po délce za tím druhem, co chcete, aby dělali?
+- typ: odstavec
+  de: |-
+    N. Essendo questa regola ferma che ogni fante piglia la misura del suo caminar pian, e forte dal suo compagno che gli camina dauanti, & non da quelli che gli sono dalle bande, e per tanto tutti quelli fanti che se ritrouaranno in quella medesima fila de drio da quel tal fante à che sara mancato il suo compagno, ouer piu compagni dauanti, saranno sforzati à correre, ouer caminare à longhi passi secondo che caminara quel tal compagno, la qual cosa essendo osseruata da tutti, tal ordinanza, ouer battaglia se trouara sempre nella fronte integra, e sana, & quelli spaci uacui, delli uccisi fanti, se trasportaranno nella coda, nel qual luoco non saranno quasi de alcuno pericolo.
+  cs: |-
+    **Nicolò.** Protože platí pevné pravidlo, že každý pěšák si bere míru své chůze, pomalé i rychlé, od druha, který jde před ním, a ne od těch, kdo jsou po jeho bocích, budou všichni pěšáci, kteří se ocitnou v téže řadě za pěšákem, jemuž ubyl druh nebo více druhů vpředu, nuceni běžet neboli jít dlouhými kroky {passi}, podle toho, jak půjde onen druh. Bude-li to všemi dodržováno, bude ten šik {battaglia} v čele vždy celý a neporušený a ta prázdná místa po zabitých pěšácích se přenesou do týlu, kde nebudou skoro nijak nebezpečná.
+- typ: odstavec
+  de: |-
+    P. De gratia datime uno essempio, & in poco numero de fanti, per non mi confonder lo intelletto.
+  cs: |-
+    **Převor.** Prosím, dejte mi příklad, a to na malém počtu pěšáků, abych si nezmátl rozum.
+- typ: odstavec
+  de: |-
+    N. Poniamo per essempio che in una nostra battaglia de fanti .144. in forma quadra di gente, li nemici ui habbiano morto fanti .12. come per li suoi lochi uacuati nella sottoscritta figura appare, dico che hauendo auertito cadaun fante à far quanto che di sopra habbiamo narrato, cioe che ogni uolta che ui mancasse il suo compagno che gli camina dauanti (ouer piu) subito debba
+  cs: |-
+    **Nicolò.** Dejme tomu například, že v našem šiku ze 144 pěšáků v podobě čtverce co do mužstva {forma quadra di gente} nám nepřítel zabil 12 pěšáků, jak je vidět podle jejich uprázdněných míst na obrazci níže. Pravím, že když jsme každého pěšáka poučili, aby dělal, co jsme vylíčili výše, totiž že kdykoli mu bude chybět druh, který jde před ním (nebo více druhů), má ihned

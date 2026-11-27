@@ -1,0 +1,38 @@
+id: 012r
+list: '12'
+strana: recto
+sken: 23
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    il moto suo men curuo.
+  cs: |-
+    svůj pohyb méně zakřiveným.
+- typ: odstavec
+  de: |-
+    S. D. Doue procede adunque che molte uolte se uisto percuotere uno precisamente nel luoco tolto de mira, la qual cosa non potria occorrere se tal balla non fusse andata rettamente.
+  cs: |-
+    **Pan vévoda.** Čím to tedy je, že se mnohokrát vidělo, jak někdo zasáhl přesně místo, na které mířil {tolto de mira}? To by se přece nemohlo stát, kdyby ta koule neletěla přímo.
+- typ: odstavec
+  de: |-
+    N. Signor questo non ne fa certi che la balla uada rettamente, perche anchora molte uolte se uisto percuotere di sopra dal segno tolto de mira, la qual cosa, essendo le mire eguale, è impossibile, cioe che la balla seghi la linea uisuale equidistante alla canna di tal pezzo, ma tai effetti non procedeno, perche la balla uada rettamente, ne perche quella ascenda oltra la rettitudine, ma procedano totalmente dalle mire, ouer dal trasguardante. Eglie ben uero, che chi potesse ueder la balla, nel moto suo senza dubbio giudicarebbe tal balla per un commun spacio esser andata rettissima, perche il nostro senso non è atto, ne sufficiente a discerner tale obliquita, si come occorre, guardando l'acqua del mare quando è quieto, la quale per una gran distantia ne pare perfettamente piana, & nondimeno, per meggio della ragione sapemo esser all'opposito, cioe spherica, e pero nelli giudici fatti secondo il senso del uedere, molte uolte se ingannamo.
+  cs: |-
+    **Nicolò.** Pane, to nás nijak neujišťuje, že koule letí přímo, neboť se také mnohokrát vidělo, že zasáhla nad zamířeným cílem {segno}. To je však při stejně vysokých mířidlech {mire} nemožné – totiž aby koule protnula zornou čáru {linea uisuale} rovnoběžnou s hlavní {canna} toho děla. Takové jevy tedy nepocházejí z toho, že by koule letěla přímo, ani z toho, že by vystoupila nad přímku, nýbrž pocházejí výhradně od mířidel nebo od toho, kdo zaměřuje.[^1] Je ovšem pravda, že kdo by mohl kouli v jejím pohybu vidět, bez pochyby by usoudil, že na obvyklou vzdálenost letěla zcela přímo, neboť náš smysl není schopen ani dostatečně citlivý, aby takové zakřivení rozeznal. Stejně je tomu, když hledíme na mořskou hladinu za klidu: na velkou vzdálenost se nám zdá dokonale rovná, a přece rozumem víme, že je tomu naopak, totiž že je kulovitá. A proto se v úsudcích činěných podle zraku mnohokrát klameme.
+- typ: odstavec
+  de: |-
+    S. D. Le ragioni uostre son buone certo, pur mi pare molto distranio a dire, che una balla tirata da una tal machina, & con tanta uehementia, non uada alquanto per linea retta, ma pur considerando anchor che in tal obliquo uerso la grauita della balla è molto piu atta a far declinar, ouer a tirare la detta balla uerso terra, che in ogni altra elleuatione, mi fa credere che uoi diciate il uero. Ma tirando quella alquanto elleuata dauanti, penso & tengo per fermo che quella debba andar per alquanto rettamente per aere, perche la grauita di tal balla tirandola in simei uersi elleuati è manco atta a far declinar la balla uerso terra di quello che è tirandola a liuello.
+  cs: |-
+    **Pan vévoda.** Vaše důvody jsou jistě dobré, a přece se mi zdá velmi podivné tvrdit, že koule vystřelená takovým strojem a s takovou prudkostí neletí aspoň kus přímo. Když však uvážím, že v tomto šikmém směru je tíha koule mnohem schopnější přimět ji k poklesu čili stahovat ji k zemi než při jakékoli jiné elevaci {elleuatione}, věřím, že mluvíte pravdu. Ale střílí-li se s hlavní vpředu poněkud zdviženou, myslím a mám za jisté, že koule musí kus cesty letět vzduchem přímo, protože tíha koule je při střelbě v takových zdvižených směrech méně schopna strhnout ji k zemi, než když se střílí vodorovně.
+- typ: odstavec
+  de: |-
+    N. Vostra Eccellentia dice ben il uero, che la grauita della balla non è tanto atta a ouiar il moto di quella, nelli tiri elleuati, quanto che nelli tiri equidistanti all'orizonte, cioe aliuellati, ouer de ponto in bianco (come dicono li bombarderi) per due cause, l'una perche in tal sito (come nel principio fu approuato) ui è maggior grauita, l'altra perche la detta grauita tira la balla perpendicolarmente sopra il moto, ouer transito di quella uerso terra, il qual modo da tirare è piu uigoroso, e gagliardo, che in ogni altra elleuatione, perche elleuandola gradatamente, etiam gradatamente la detta grauita, si ua accostando uerso il suo transito, cioe che non ui cade cosi perpendicolare sopra il detto moto, ouer transito, anci sempre si ua piu restringendo uerso quello: ilche la fa men uigorosa, ouer men gagliarda a tirar detta balla fuora del uiaggio, ouer moto suo, & oltra di questo (come in principio fu dimostrato) quanto piu si ua elleuando tanto piu li tiri suoi sono ben men curui, tamen mai ponno esser per alcuna sua parte perfettamente retti, eccetto nelli sopradetti duoi uersi, cioe rettamente in suso uerso il cielo, ouer rettamente in gioso uerso il centro del mondo, perche in ogni uerso ui è alcuna parte de grauita quala sempre tira la detta balla fuora del suo uiaggio, ouer fuora del suo transito, ouer moto, eccetto che nelli predetti dui uersi, cioe rettamente uerso il cielo, ouer rettamente in giuso uerso il centro del mondo, nelli quali dui uersi la detta grauita (se pur ui è grauita) uien a tirare la detta balla rettamente secondo l'ordine del suo uiaggio, ouer moto, et non fuora di quello, come per la sottoscritta figura facilmente senza altra longa dimostratione si puo comprendere, et cosi nelli tiri abbassati, come nelli elleuati, supponendo.a.la bocca del pezzo, doue sia uscita la balla.b.et la grauita di tal balla.b.la
+  cs: |-
+    **Nicolò.** Vaše Excelence říká jistě pravdu, že tíha koule není při zdvižených výstřelech {tiri elleuati} tak schopna odklánět její pohyb jako při výstřelech rovnoběžných s obzorem, totiž vodorovných čili přímých {de ponto in bianco} (jak říkají dělostřelci {bombarderi}), a to ze dvou příčin. Jednak proto, že v takové poloze (jak bylo dokázáno na začátku) je v kouli větší tíha;[^2] jednak proto, že tato tíha táhne kouli k zemi kolmo na její pohyb čili dráhu {transito}, a tento způsob tahu je silnější a mocnější než při jakékoli jiné elevaci. Když totiž dělo postupně zdvihnete, i tato tíha se postupně přibližuje směru dráhy, to jest nepůsobí na pohyb čili dráhu tak kolmo, nýbrž se k ní stále víc přimyká; a to ji činí méně silnou čili méně mocnou k tomu, aby kouli vytáhla z její cesty čili pohybu. A kromě toho (jak bylo ukázáno na začátku) čím víc se dělo zdvihá, tím méně zakřivené jsou jeho výstřely; přesto nemohou být v žádné své části dokonale přímé, kromě dvou výše řečených směrů, totiž kolmo vzhůru k nebi nebo kolmo dolů ke středu světa. V každém jiném směru totiž působí nějaká část tíhy, která kouli stále vytahuje z její cesty čili dráhy čili pohybu, kromě oněch dvou směrů, totiž kolmo k nebi nebo kolmo dolů ke středu světa; v těchto dvou směrech táhne tíha (je-li tam vůbec jaká tíha) kouli přímo ve směru její cesty čili pohybu, a ne mimo ni, jak lze snadno a bez dalšího dlouhého dokazování pochopit z níže uvedeného obrazce. A tak při výstřelech skloněných i zdvižených předpokládejme, že a je ústí děla, z něhož vyšla koule b, a tíhu této koule b
+poznamky:
+- n: 1
+  text: Trasguardante – ten, kdo hledí přes mířidla (mířič). Tartaglia připisuje zásahy nad cílem nestejné výšce předního a zadního mířidla, jak podrobně vykládá v sedmém až devátém dotazu.
+- n: 2
+  text: Odkaz na začátek rozhovoru (listy 10 v–11 v), kde Tartaglia dovozuje, že kde má vržené těleso menší rychlost, tam je v něm větší tíha, a ta je táhne k zemi.

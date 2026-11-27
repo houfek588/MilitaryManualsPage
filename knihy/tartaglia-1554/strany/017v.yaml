@@ -1,0 +1,47 @@
+id: 017v
+list: '17'
+strana: verso
+sken: 34
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    deue far la balla, seguita chel uiaggio che deue far la detta balla passi discosto dal detto segno, & uerso la banda destra di quello, come nello sotto scritto essempio si puo uedere, & molto piu seguiria tal effetto se la mira.d.dauanti fusse anchora lei fuora del detto ponto di mezzo, ma uerso l'altra banda, cioe uerso la banda sinistra.
+  cs: |-
+    má koule {balla} vykonat, plyne z toho, že cesta {uiaggio}, kterou má koule vykonat, povede stranou od cíle {segno}, a to po jeho pravé straně, jak je vidět na níže nakresleném příkladu. A tento účinek by byl mnohem větší, kdyby i přední mířidlo {mira dauanti} d bylo mimo střed, ale na druhou stranu, totiž na levou.
+- typ: obrazek
+  soubor: drevorez-34.jpg
+  popis: Dělo na lafetě se zadním mířidlem C a předním D; zorná čára vede od C přes D k cíli E (terč na tyči vpravo). Z ústí F vychází cesta koule F–G, která se od zorné čáry odchyluje a končí koulí vpravo dole, stranou od cíle E. Obrazec znázorňuje (v bočním pohledu) odchylku střely do strany při mířidle posunutém mimo střed děla.
+- typ: odstavec
+  de: |-
+    LA seconda causa, che puo causar tal effetto, ouer inconueniente puo procedere del uacuo della canna, el quale molte uolte non è triuellato, ouer gettato drettamente nel mezzo del mettallo, cioe, che tal foro non è perfettamente nel mezzo del mettallo, anci da una banda ui è piu sottile, ouer piu grosso, che non è dall'altra, talmente, che se ben le due mire fusseno collocate, & assettate perfettamente nelli ponti di mezzo di la parte superiore del mettallo, tal pezzo necessariamente tirara costero, perche se ben le mire sono nelli ponti del mezzo del superior mettallo non sono sopra la mezzara del foro, & per questa causa da costero, onde per remediar à tal inconueniente, eglie necessario con industria ritrouare doue batte la mezzara del foro si de drio come dauanti, & iui assettarui le mire: & leuarassi tal inconueniente al detto pezzo, per trouar la mezzaria del detto foro, li bombardieri costumano à retrouarla (per quanto ho inteso da alcuni) con due liste, ouer cantinelle egualmente larghe, & rettissime, & una ne cazano nel pezzo rettamente per il fondo della canna, & l'altra di fora sopra il pezzo, & incontrano una parte di quella di sopra el pezzo con quella parte, che auanza fora della bocca del pezzo di quella, che ua per dentro el pezzo, & cosi doue batte el mezzo di quella di fora sopra il pezzo si de drio, come dauanti ui pongono l'una, & l'altra mira, el qual modo per esser assai spediente, & di poco artificio, non è da biasmare, quantunque per altre uie se potriano inuestigare.
+  cs: |-
+    Druhá příčina, která může způsobit tento účinek čili nesnáz, může pocházet z vývrtu {uacuo} hlavně {canna}, který mnohokrát není vyvrtán ani odlit přesně uprostřed kovu; to jest otvor {foro} není dokonale uprostřed kovu, nýbrž na jedné straně je kov tenčí nebo silnější než na druhé. Proto i kdyby obě mířidla {mire} byla umístěna a usazena dokonale ve středových bodech horní strany kovu, dělo {pezzo} nutně bude střílet stranou {costero}, protože mířidla jsou sice ve středových bodech horního kovu, ale nejsou nad středem otvoru, a z té příčiny zasahuje stranou. Aby se tato nesnáz napravila, je třeba důmyslně najít, kam připadá střed otvoru vzadu i vpředu, a tam usadit mířidla; tak se tato nesnáz z děla odstraní. Střed otvoru dělostřelci {bombardieri} obvykle hledají (pokud jsem od některých slyšel) dvěma lištami {liste} čili laťkami {cantinelle} stejně širokými a zcela rovnými: jednu zasunou do děla přímo po dně hlavně a druhou položí zvenčí na dělo; pak srovnají část té, která leží na děle, s tou částí vnitřní lišty, jež vyčnívá z ústí děla. A kam pak připadá střed vnější lišty na děle vzadu i vpředu, tam umístí jedno i druhé mířidlo. Tento způsob, protože je dosti pohodlný a nevyžaduje velké umění, nelze hanět, ačkoli by se [střed] dal vyhledat i jinými cestami.
+- typ: odstavec
+  de: |-
+    P. Non se potria truouare el modo di agiustar le dette mire senza altra industria de dette liste, ma solamente nel tirar continuamente el pezzo.
+  cs: |-
+    **Převor.** Nedal by se najít způsob, jak tato mířidla seřídit bez dalšího důmyslu s lištami, jen pouhou opakovanou střelbou z děla?
+- typ: odstavec
+  de: |-
+    N. Se potria si, cioe sel pezzo desse costero, poniamo uerso la banda destra del segno, spingendo la mira de drio alquanto uerso la parte sinistra, & se per caso lui percotesse costero uerso la banda sinistra, del segno, spingere alquanto la detta mira de drio uerso la banda destra, & cosi andar facendo, tanto che se ritroui il perfetto luoco di tal mira, & ritrouato che sia far in tal luoco un segno stabile (se tal mira fusse cosa mobile) accioche un'altra uolta non si habbia causa à ricercar tal luoco.
+  cs: |-
+    **Nicolò.** Dal by se, ovšem. Kdyby totiž dělo zasahovalo stranou, řekněme napravo od cíle, posune se zadní mířidlo {mira de drio} poněkud doleva; a kdyby snad zasahovalo stranou nalevo od cíle, posune se zadní mířidlo poněkud doprava. Tak se postupuje, dokud se nenajde správné místo toho mířidla; a když se najde, udělá se na tom místě trvalá značka (je-li mířidlo posuvné), aby se to místo nemuselo hledat znovu.
+- typ: odstavec
+  de: |-
+    P. Ve ho inteso benissimo, & basta per questa sera.
+  cs: |-
+    **Převor.** Porozuměl jsem vám výborně, a pro dnešní večer to stačí.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO VNDECIMO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: |-
+    Jedenáctý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Perche causa uno pezzo di artegliaria quanto è piu longo di canna,
+  cs: |-
+    **Převor.** Z jaké příčiny dostřelí dělo {pezzo di artegliaria} tím dál,

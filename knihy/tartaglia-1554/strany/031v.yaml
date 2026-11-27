@@ -1,0 +1,74 @@
+id: 031v
+list: '31'
+strana: verso
+sken: 62
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    LIBRO SECVNDO DE LI QVESITI ET INVENTION DIVERSE, DE NICOLO TARTAGLIA,
+  cs: |-
+    Druhá kniha Rozličných otázek a vynálezů Niccola Tartaglii
+- typ: odstavec
+  de: |-
+    Sopra la differentia, che occorre nelli tiri, & effetti fatti con balla de Piombo, ouer di Ferro, ouer di Pietra, & altre uarie particolarita, circa la proportione, peso, & misura delle dette balle.
+  cs: |-
+    O rozdílu, který nastává u ran {tiri} a účinků koulí {balla} z olova, železa nebo kamene, a o dalších rozličných podrobnostech, týkajících se poměru {proportione}, váhy a míry těchto koulí.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO PRIMO FATTO DAL SIGNOR Gabriel Tadino Cauallier de Rodi, & Prior di Barletta.
+  cs: |-
+    První dotaz, který položil pan Gabriel Tadino, rytíř rhodský a převor z Barletty[^1]
+- typ: odstavec
+  de: |-
+    PRIORE. Dapoi che non sappiamo piu che dire, per al presente sopra le qualita di tiri, & altri accidenti delle Artegliarie, per non star otiosi dapoi la lettione di Euclide, uoglio che parlamo alquanto delle qualita, & accidenti delle diuersita delle balle. E per tanto, ditemi un poco, qual credeti che andara piu lontano, & quanto una balla di piombo, ouer di ferro, tirate con una istessa artegliaria, & à una istessa elleuatione, & con egual quantita di poluere.
+  cs: |-
+    **Převor.** Protože o povaze ran a o jiných vlastnostech děl {Artegliarie} nevíme nyní, co bychom ještě řekli, chci, abychom po výkladu Eukleida[^2] nezaháleli a pohovořili trochu o povaze a vlastnostech různých koulí. Řekněte mi tedy, která podle vás doletí dál a o kolik: koule olověná, nebo železná, vystřelené z téhož děla {artegliaria}, při téže elevaci {elleuatione} a se stejným množstvím prachu {poluere}?
+- typ: odstavec
+  de: |-
+    N. Bisogna che quella me dica, con quanta quantita di poluere.
+  cs: |-
+    **Nicolò.** Vaše Milost mi musí říci, s jakým množstvím prachu.
+- typ: odstavec
+  de: |-
+    P. Poniamo con li dui terzi di quello pesara la balla di piombo.
+  cs: |-
+    **Převor.** Řekněme se dvěma třetinami toho, co bude vážit olověná koule.
+- typ: odstavec
+  de: |-
+    N. Senza dubbio la balla di ferro andara piu lontano.
+  cs: |-
+    **Nicolò.** Bez pochyby doletí dál železná koule.
+- typ: odstavec
+  de: |-
+    P. Quanto piu.
+  cs: |-
+    **Převor.** O kolik dál?
+- typ: odstavec
+  de: |-
+    N. Nelli tiri bassi, cioe con il pezzo aliuellato andara quasi un terzo de piu, ma alla elleuatione d'un ponto, andara alquanto meno d'un terzo piu, & quanto piu la se andara elleuando tanto piu andara scemando di tal proportione, talmente che tirandola alla elleuatione del quinto, ouer sesto ponto, tal balla de ferro andara piu lontano di quella di piombo solamente poco piu d'un quinto, & accio che V. S. meglio me intenda, poniamo che la balla di piombo, stando il pezzo aliuellato, uada di lontano passa. 300. dico che la balla di ferro (tirata con quella medesima quantita di poluere con che fu tirata quella de piombo (cioe con li dui terzi di quello pesa la detta balla di piombo) andara di lontano quasi passa. 400. cioe quasi in sesquitertia proportione, ma se tal balla de piombo alla elleuatione del quinto, ouer sesto ponto andasse di lontano poniamo passa. 3000. dico che la balla di ferro à tal elleuatione, con la medesima poluere, andara di lontano poco piu di passa. 3600. cioe poco piu che in sequi quinta proportione.
+  cs: |-
+    **Nicolò.** Při nízkých ranách, to jest z vodorovně namířeného {aliuellato} děla {pezzo}, doletí skoro o třetinu dál; při elevaci jednoho bodu {ponto} doletí o něco méně než o třetinu dál; a čím víc se bude elevace zvyšovat, tím víc se bude tento poměr zmenšovat, takže při střelbě s elevací pátého nebo šestého bodu doletí železná koule dál než olověná jen o málo víc než o pětinu. A aby mi Vaše Milost lépe porozuměla: předpokládejme, že olověná koule doletí z vodorovně namířeného děla do vzdálenosti 300 kroků {passa}; pravím, že železná koule (vystřelená s týmž množstvím prachu jako olověná, to jest se dvěma třetinami toho, co váží olověná koule) doletí skoro do 400 kroků, to jest skoro v poměru sesquitertia.[^3] Kdyby však olověná koule při elevaci pátého nebo šestého bodu doletěla řekněme do 3000 kroků, pravím, že železná koule při téže elevaci a s týmž prachem doletí o málo dál než do 3600 kroků, to jest o málo víc než v poměru sesquiquinta.
+- typ: odstavec
+  de: |-
+    P. Perche ragione seguita tal cosa, cioe che cosi nelli tiri elleuati, non eccede secondo la medesima proportione che fa nelli bassi.
+  cs: |-
+    **Převor.** Z jakého důvodu se to děje, totiž že při elevovaných ranách nepřevyšuje ve stejném poměru jako při nízkých?
+- typ: odstavec
+  de: |-
+    N. Perche lo aere fa maggior resistentia proportionalmente al corpo men graue, secondo la specie, di quello fa al piu graue, & tanto piu quanto piu la ritroua quello men ueloce, ouer piu lento, e lasso. Et perche nelli tiri bassi, non pertransisse per aere saluo che nella sua piu uigorosa uelocita, perche presto ritroua la terra che ue
+  cs: |-
+    **Nicolò.** Protože vzduch klade poměrně větší odpor tělesu, které je co do druhu[^4] méně těžké, než tělesu těžšímu, a to tím větší, čím pomaleji neboli líněji a ochaběji těleso letí. A protože při nízkých ranách prolétá koule vzduchem jen ve své nejprudší rychlosti, neboť brzy narazí na zem, která jí
+poznamky:
+- n: 1
+  text: Gabriele Tadino di Martinengo (asi 1480–1543), vojenský inženýr a dělostřelec, rytíř řádu johanitů (rhodských rytířů), převor z Barletty; proslul obranou Rhodu proti Turkům roku 1522, později generál dělostřelectva Karla V. S Tartagliou vede rozhovory i v závěru První knihy.
+- n: 2
+  text: Lettione di Euclide – Tartaglia převorovi vykládal Eukleidovy Základy; rozhovory o dělostřelectvu probíhají po těchto lekcích.
+- n: 3
+  text: |-
+    Sesquitertia proportione – poměr 4 : 3 (300 : 400); sesquiquinta – poměr 6 : 5 (3000 : 3600). Tisk má „sequi quinta“.
+- n: 4
+  text: Secondo la specie – podle druhu látky, tj. podle měrné tíhy (olovo je „těžší co do druhu“ než železo a železo než kámen).

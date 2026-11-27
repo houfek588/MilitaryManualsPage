@@ -1,0 +1,35 @@
+id: 065v
+list: '65'
+strana: verso
+sken: 150
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    concede, bisogna qui cedere, & affirmare chel milite possa godere la sua grandeza, & honorato acquisto.
+  cs: |-
+    propůjčují, je tu třeba ustoupit a potvrdit, že válečník {milite} smí užívat své velikosti a čestně nabytého [postavení].
+- typ: nadpis
+  uroven: 2
+  de: |-
+    IN CHE MODO IVSTAMENTE se po depingere un che mancasse al combattere, & ad suo honore. Capi. XXIIII.
+  cs: |-
+    Jak lze po právu namalovat na hanbu {depingere}[^1] toho, kdo by selhal v boji a ve své cti {honore}. Kapitola XXIIII.
+- typ: odstavec
+  de: |-
+    ESsendo un che fusse recercato al combattere de alchune querele & fra tanto tempo habia da dare resposta, & mancando al ditto tempo, non per la prima litera, & ne ancho la seconda non preiudica atteso che potrebbe farlo studiosamente per far deuariar de termine lo actore, ma se alla terza non respondesse al termine iusto de qualche mese acio habia tempo de consigliarse non ue e mezo de scusa. Vero che da la terza litera ultima conuien prendere el tempo dato & fare passare sei mesi, Et uenuti sei mesi si non ha resposta resolutamente se po depengere mancatore del suo honore. Et non e licito che per torto che habia lui che la parte non habia modo reuedere la iniuria fosse receuuta, et questi sei mesi per legge imperiale, & per consuetudine conuien che habia luoco, che altramente lo offenditore potria dilatare mille anni allo offeso. Et questo e retrouato perchi non hauesse animo combattere el torto, & che habia a pensare in che modo le doffendere a persona, & antiuedere el caso succedente.
+  cs: |-
+    Je-li někdo vyzván k boji kvůli nějakým sporům {querele} a má v určité lhůtě dát odpověď a v té lhůtě selže, pak mu to při prvním listu {litera} ani při druhém neuškodí, ježto by to mohl [vyzvaný] dělat úmyslně, aby přiměl vyzyvatele {actore} změnit lhůtu. Ale kdyby neodpověděl na třetí [list] ve spravedlivé lhůtě několika měsíců, aby měl čas se poradit, nemá už žádnou výmluvu. Pravda je, že od třetího a posledního listu je třeba vzít danou lhůtu a nechat uplynout šest měsíců; a když uplyne šest měsíců a on nedá rozhodnou odpověď, lze ho namalovat jako toho, kdo selhal ve své cti. A není dovoleno, aby pro křivdu, kterou má on [sám], neměla strana možnost odčinit urážku {iniuria}, která jí byla učiněna; a těchto šest měsíců musí platit podle císařského zákona {legge imperiale}[^2] i podle obyčeje, jinak by urážející mohl uraženého odkládat tisíc let. A to bylo vymyšleno pro toho, kdo by neměl odvahu bojovat proti křivdě, aby musel uvážit, jak se osobně bránit, a předvídat, co nastane.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE VN'ALTRO MODO DE DEPINGERE un traditore. Capitolo XXV.
+  cs: |-
+    O jiném způsobu, jak namalovat zrádce {traditore}. Kapitola XXV.
+poznamky:
+- n: 1
+  text: 'Depingere (pingere) – zhotovit a veřejně vyvěsit hanlivé vyobrazení (pittura infamante) toho, kdo se nedostavil k souboji nebo zradil: bývá zobrazen hlavou dolů, oběšený za nohu apod. Titul knihy na ni naráží slovy „ponti de disfida con lo pingere“.'
+- n: 2
+  text: 'Legge imperiale – římské (císařské) právo; o šestiměsíční lhůtě k souboji se v Justiniánově kodexu nemluví, Della Valle tak patrně označuje ustálený obyčej rytířského práva.'

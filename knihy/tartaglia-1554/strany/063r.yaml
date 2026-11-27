@@ -1,0 +1,34 @@
+id: 063r
+list: '63'
+strana: recto
+sken: 125
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    che otto à cadauno de detti dui bracci .i.h.g.k. ui sia incollato uno de quelli .4. pezzi menori .a.b.c.d. detti di sopra, li quali ueniranno à empire perfettamente quelli dui uacui, perche se conueneranno precisamente in quelli, & cosi sera redutta tal croce piana dalla parte di sotto uerso il piano, ma non di sopra, perche quelli dui primi bracci posti in piano non ascendono alla altezza delli dui sopra posti, cioe de .i.h.g.k. anci ui manca tanto quanto è la grossezza de cadauno de loro, e pero per empir quel uacuo, uoglio che ui sia incollato sopra à cadauno de loro uno de quelli altri dui pezzi menori gia restati, li quali ueniranno à empire perfettamente quel uacuo, perche se conueniranno precisamente in quelli, & fatto questo, tal croce sara redutta tutta solida, & piana da ambe le bande, e sara fortificata, perche sara fatta tutta doppia, et tutto questo meglio se uedera nel fabricarla, che per figura. Et dapoi questo nel capo de dui di detti bracci oppositi, bisogna incollarui un'altro pezzetto della medesima listetta pur doppia, come di sotto appare in ponto .a. & in ponto .b. & in l'uno, e l'altro de questi dui lochi ui douera piantar una ponta acuta, come saria una ponta de ago, che seruino per trasguardar, in luoco delli dui busi. Et se piu aggradara li busi che tai due ponte, in tai medesimi lochi ui se potra incassar, & incollar dui quadratini in alto elleuati con li detti dui busi, ma piu mi piace le due ponte, che li busi. Et per potersi seruire di questo tal istromento per tuor in dissegno le piante delle citta, nella istremita del braccio .c.d. ui se potra incassar, & incollar il brazzetto .e.f. à squadra, come nella soprascritta figura appare. Et dapoi questo nel centro di tal dioptra bisogna farui un busettino, & con un pironcino di ferro, ouer di ottone piantare tal dioptra nel centro di tal istromento, la qual cosa facendo tal istromento stara precise, come di sotto appare in figura, & di questo ue ne potreti seruire, si come di quello di ottone.
+  cs: |-
+    aby pod[^1] každé z obou ramen i h a g k byl přilepen jeden z oněch čtyř menších kousků a, b, c, d, zmíněných výše; ty dokonale vyplní obě mezery, neboť do nich přesně zapadnou. Tak bude kříž zespodu, směrem k podložce, rovný, ale ne nahoře, protože ona dvě první ramena položená naplocho nedosahují výšky obou ramen položených na nich, totiž i h a g k, nýbrž jim chybí právě tloušťka každého z nich. A proto, abychom vyplnili i tu mezeru, chci, aby na každé z nich byl přilepen jeden z oněch dvou zbývajících menších kousků; ty tu mezeru dokonale vyplní, neboť do ní přesně zapadnou. Když je to hotovo, bude kříž celý pevný a rovný z obou stran a bude zpevněný, protože bude celý zdvojený; to vše se však lépe pozná při výrobě než z obrázku. Potom je třeba na konec dvou protilehlých ramen přilepit další kousek téže lišty, rovněž zdvojený, jak je vidět níže u bodu a a u bodu b, a do obou těchto míst zarazit ostrý hrot, jako je hrot jehly, který bude sloužit k zaměřování místo dvou dírek. A bude-li se někomu víc líbit dírky než ty dva hroty, lze na tatáž místa zasadit a přilepit dvě čtvercové destičky vztyčené vzhůru s oněmi dvěma dírkami; mně se však víc líbí ty dva hroty než dírky. A abychom mohli tento nástroj používat k zakreslování půdorysů {piante} měst, lze na konec ramene c d zasadit a přilepit v pravém úhlu ramínko e f, jak je vidět na obrázku výše. Potom je třeba udělat ve středu této dioptry {dioptra} dírku a železným nebo mosazným kolíčkem {pironcino} upevnit dioptru do středu nástroje. Když se to udělá, bude nástroj vypadat přesně tak, jak je vidět níže na obrázku, a můžete ho používat stejně jako ten mosazný.
+- typ: obrazek
+  soubor: drevorez-125.jpg
+  popis: 'Hotová dřevěná dioptra ve tvaru kříže: svislé hlavní rameno A–B se zaměřovacími hroty na koncích A (nahoře) a B (dole), v místě křížení bod D; vodorovné rameno vede z D doleva k C, kde je na něm v pravém úhlu připevněno ramínko E (nahoře) – F (dole); pravý konec příčného ramene je krátký a začerněný.'
+- typ: odstavec
+  de: |-
+    R. Questo mi pare una cosa molto facile, & di poco artificio, & quasi di niuna spesa, perche tutta la spesa che ui entrara non credo che ascendera à un marcello, ma dubito che il non sara di quella medesima giustezza che sara quello di ottone.
+  cs: |-
+    **Richard.** To se mi zdá věc velmi snadná, nepříliš umělá a skoro bez nákladů, neboť si myslím, že veškeré náklady na ni nepřesáhnou jeden marcello;[^2] obávám se však, že nebude tak přesný jako ten mosazný.
+- typ: odstavec
+  de: |-
+    N. Anci per molte ragioni, eglie necessario, che questo sia molto piu giusto di quello di
+  cs: |-
+    **Nicolò.** Naopak, z mnoha důvodů nutně musí být tento mnohem přesnější než ten
+- typ: obrazek
+  soubor: drevorez-125b.jpg
+  popis: Hotový dřevěný nástroj – čtvercová deska s nalepeným papírovým kotoučem s dělením na stupně a osmi větry (T nahoře, G vpravo nahoře, L vpravo, S vpravo dole, O dole, G vlevo dole, P vlevo, M vlevo nahoře). Uprostřed horní strany desky jsou vsazeny kompasové hodinky (u T), v levém horním rohu desky je kroužek O. Ve středu je na kolíčku otočně upevněna dřevěná křížová dioptra; hlavní rameno se zaměřovacími nástavci na koncích vede šikmo od severovýchodu k jihozápadu, příčné rameno nese na severozápadním konci ramínko ve tvaru T.
+poznamky:
+- n: 1
+  text: V tisku „che otto à cadauno“ – vypadlé (či nevytištěné) s, má být „che sotto“ (aby pod každé…); v originále ponecháno podle tisku.
+- n: 2
+  text: Marcello – benátská stříbrná mince v hodnotě 10 soldů (půl liry), ražená od dóžete Nicolò Marcella (1473).

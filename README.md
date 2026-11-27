@@ -28,6 +28,7 @@ nastroje/
   import_md.py              jednorázový import pracovního překladu z Google Docs (.md)
   migrace_sken_45899.py     jednorázový přechod na úplný sken (doplnění 3 vynechaných dvojstran)
   stahni_ocr_bsb.py         stažení OCR z digitale-sammlungen.de
+  stahni_ocr_ia.py          stažení OCR z Internet Archive (djvu.xml) po stranách → zdroje/ocr_ia/NNNN.txt
   zaloz_strany.py           založení prázdných stran knihy bez pracovního překladu (převod snímek → list/strana)
   dta_strany.py             rozdělení přepisu Deutsches Textarchiv (TEI) po stranách → zdroje/dta/NNNN.txt
   import_lavater.py         jednorázový import pracovního překladu Lavatera (.md)
@@ -73,7 +74,9 @@ Knihy: `fronsberger-1564` (Fronsperger, Kriegs Ordnung vnd Regiment, sken BSB), 
 (Město Bern, Kurtzer Begriff vnd Anleitung Des Kriegs Exercitij vnd Vbung, Bern 1615; sken UB Bern / e-rara)
 `solms-1559` (Reinhard hrabě ze Solmsu, Kriegsbeschreibung – Das erst bis neundt Buch, Lich 1559; sken BSB)
 `ott-1530` (Michael Ott von Echterdingen, Kriegsordnung, Augsburg kolem 1530; sken BSB bsb00089558)
-a `wintzenberger-1588` (Daniel Wintzenberger, Beschreibung einer Kriegs-Ordnung, Drážďany 1588; sken BSB bsb00032546).
+`wintzenberger-1588` (Daniel Wintzenberger, Beschreibung einer Kriegs-Ordnung, Drážďany 1588; sken BSB bsb00032546)
+a `tartaglia-1554` (Niccolò Tartaglia, Quesiti et inventioni diverse, Benátky 1554 – **italský originál**, `jazyk: it`;
+sken BSB bsb11221340; přeloženy knihy I–VI s dodatkem).
 
 ## Web
 - čtení po **kapitolách** (`#/kap/<id>`) i po **stranách tisku** (`#/strana/018r`), šipky ← → listují,

@@ -1,0 +1,47 @@
+id: 014r
+list: '14'
+strana: recto
+sken: 27
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Vrbino padre di questo, cioe, che una balla tirata con qual si uoglia pezzo di artegliaria, & per qual si uoglia uerso mai ua, ne puo andare alcuna minima parte del suo moto, ouer transito per linea perfettamente retta, saluo che non la tirasse rettamente uerso el cielo, ouer rettamente uerso el centro del mondo.
+  cs: |-
+    Urbina blahé paměti, otcem nynějšího [vévody],[^1] totiž že koule {balla} vystřelená z jakéhokoli děla {pezzo di artegliaria} a v jakémkoli směru nikdy neletí ani nemůže letět po dokonale přímé čáře ani sebemenší část svého pohybu čili dráhy {transito} – leda by se vystřelila kolmo k nebi nebo kolmo ke středu světa.
+- typ: odstavec
+  de: |-
+    P. Comprendo, che uoi diti la uerita, perche se quella andasse alla prima rettamente al segno, per darui poi piu quantita di poluere, rasoneuolmente non doueria dar de sopra del segno, anzi doueria pur dar nel medesimo loco, doue che prima con men poluere percuoteua, & per questo ui ho fatto lo presente Quesito, perche mi pareua distranio, che per darui piu poluere la balla douesse ascendere di sopra alla rettitudine, nondimeno doman di sera uoro che disputamo meglio questa materia, perche la me piace.
+  cs: |-
+    **Převor.** Chápu, že mluvíte pravdu. Kdyby totiž koule nejprve letěla přímo na cíl {segno}, pak by po přidání většího množství prachu {poluere} rozumně vzato neměla zasáhnout nad cílem, nýbrž by měla zasáhnout totéž místo, kam předtím zasahovala s menším množstvím prachu. A proto jsem vám položil tento dotaz {Quesito}, neboť se mi zdálo podivné, že by koule po přidání prachu měla vystoupit nad přímku. Nicméně zítra večer chci, abychom o této látce pojednali důkladněji, protože se mi líbí.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO SETTIMO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: |-
+    Sedmý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Hiersera uoi concludesti, & con buone ragioni naturale uoi dimostrasti qualmente una balla tirata da una artegliaria, mai ua per linea retta in parte alcuna, saluo che rettamente uerso il cielo, ouer rettamente uerso il centro del mondo. Hor ue dimando donde procede, che tirandose ad alcun segno de mira, alcuna fiata si da precisamente in brocca, cioe nel segno tolto de mira, alcun'altra fiata si da di sotto, & alcun'altra di sopra dal segno.
+  cs: |-
+    **Převor.** Včera večer jste dospěl k závěru a dobrými přírodními důvody jste dokázal, že koule vystřelená z děla {artegliaria} nikdy neletí v žádné části [své dráhy] po přímé čáře, leda kolmo k nebi nebo kolmo ke středu světa. Nyní se vás ptám, odkud pochází, že když se střílí podle mířidel na nějaký cíl, někdy se zasáhne přesně do středu {in brocca}, to jest do zamířeného cíle, jindy se zasáhne pod cíl a jindy nad něj.
+- typ: odstavec
+  de: |-
+    N. Tutto questo procede dalle mire, perche se la mira dauanti è precisamente tanto alta, quanto quella de drio, cioe, che l'una, & l'altra siano egualmente lontane dal fondo del uacuo della canna di tal pezzo, & che colui, che uol tirare ad alcun segno, incontri col suo occhio precisamente el detto segno con le due mire, cioe con le istremita di quelle sempre in tal caso dara alquanto di sotto dal segno, & quanto piu il detto segno sara lontano, tanto piu bassa sara la botta, & è conuerso, cioè, che quanto piu sara propinquo il detto segno, tanto men bassa sara la detta botta. Questo medesimo, & con maggior differentia, seguiria quando che la mira de drio fusse piu bassa, ouero piu corta di quella dauanti, dico piu corta in respetto al fondo del uacuo della canna del pezzo.
+  cs: |-
+    **Nicolò.** To všechno pochází od mířidel {mire}. Je-li totiž přední mířidlo {mira dauanti} přesně tak vysoké jako zadní {mira de drio}, to jest jsou-li obě stejně vzdálena ode dna vývrtu {uacuo} hlavně {canna} toho děla, a zamíří-li ten, kdo chce střílet na nějaký cíl, svým okem přesně na ten cíl přes obě mířidla, totiž přes jejich vrcholy, zasáhne v takovém případě vždy poněkud pod cíl; a čím vzdálenější bude cíl, tím níž bude rána {botta}, a naopak, čím bližší bude cíl, tím méně nízko bude rána. Totéž, a s ještě větším rozdílem, by nastalo, kdyby zadní mířidlo bylo nižší čili kratší než přední – říkám kratší vzhledem ke dnu vývrtu hlavně.
+- typ: odstavec
+  de: |-
+    P. Non ue intendo.
+  cs: |-
+    **Převor.** Nerozumím vám.
+- typ: odstavec
+  de: |-
+    N. Accio meglio me intendiati uoglio ponere figuralmente la sottoscritta artegliaria con le due mire c. & .d. le qual due mire poniamo in questo caso, che siano equale, cioe, che le due istremita di quelle (cioe.c.&.d.) siano egualmente distante dal fondo del uacuo della canna, & con queste due mire sia incontrato el ponto.e.cioe supponemo, chel ponto.e.sia el segno, che hauemo tolto de mira per tirarui, hor dico in questo caso, che necessariamente sempre se dara alquanto piu basso del segno, & sia tal segno lontano, ouero propinquo quanto si uoglia. Perche la nostra linea uisuale (qual sia la.c.d.e.) sempre procedera, ouero se estendera egualmente distante al uacuo della canna, ouero alla linea, che sia protratta rettamente in longo, secondo l'ordine del uacuo della canna, ouero centro di quella, la quale in questo caso pongo sia la linea.f.g. et perche il ponto.g.è necessario esser piu basso del ponto.e.per tanto quanto che è dal ponto.d al centro della canna, si uede adunque, che se la balla andasse perfettamente per linea retta, in questo caso lei percuotteria de sotto dal segno, cioe in ponto.g.ma
+  cs: |-
+    **Nicolò.** Abyste mi lépe porozuměl, chci vám to znázornit na níže nakresleném děle se dvěma mířidly c a d. Předpokládejme v tomto případě, že obě mířidla jsou stejná, to jest že jejich dva vrcholy (totiž c a d) jsou stejně vzdáleny ode dna vývrtu hlavně, a že se těmito dvěma mířidly zamíří na bod e; předpokládejme tedy, že bod e je cíl, na který jsme zamířili, abychom na něj vystřelili. Pravím, že v tomto případě se nutně vždy zasáhne poněkud níž než cíl, ať je ten cíl jakkoli daleko nebo blízko. Naše zorná čára {linea uisuale} (kterou budiž c d e) totiž vždy povede čili se potáhne rovnoběžně s vývrtem hlavně čili s čárou prodlouženou přímo do délky ve směru vývrtu hlavně čili jejího středu; tou budiž v tomto případě čára f g. A protože bod g musí nutně ležet níž než bod e, a to o tolik, kolik je od bodu d ke středu hlavně, je tedy vidět, že kdyby koule letěla dokonale po přímé čáře, zasáhla by v tomto případě pod cíl, totiž do bodu g. Ale
+poznamky:
+- n: 1
+  text: Francesco Maria I. della Rovere (zemřel 1538), otec Guidobalda II. della Rovere, vévody z Urbina v době vydání knihy. O této věci Tartaglia s vévodou disputoval ve třetím dotazu (viz předchozí strany).

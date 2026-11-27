@@ -1,0 +1,40 @@
+id: 077v
+list: '77'
+strana: verso
+sken: 154
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    che non lo andasse qualche uolta à uedere, ma non con altro mio maggior disconzo.
+  cs: |-
+    nešel bych se na ni někdy podívat; ale ne za cenu nějaké větší nepříjemnosti pro mne.
+- typ: odstavec
+  de: |-
+    S. M. Credo, che siati molto occupato nel essercitio uostro. Dimane son per andare alla uilla, doue staro alquanti giorni, per certe mie occorrentie. In questo mezzo preparareti quelle altre forme de fortificationi, accio siano in ordine alla tornata mia. Et massime quella, che preponeti nel .7. Quesito del uostro sesto Libro, cioe di fare quel uostro particolar ingegno di accommodar à ogni cortina, che sicuramente potra esser guardata, & difesa da .25. ouer .30. fanti al piu, contra à ogni grandissimo assalimento, che con scale la uolesseno scalare. Et preparate anchora quel modo de fortificar el paese atorno de una citta (come, che preponeti nell'ottauo Quesito) talmente, che quelli della citta possano sicuramente andare à lauorare, seminare, & raccogliere quasi tanto, che sia atto à dar il uiuere à quelli della citta, perche son molto desideroso de ueder tal uostra inuentione, perche la me par cosa granda à farlo con cosi poca spesa, come diceti.
+  cs: |-
+    **Pan Marcantonio.** Věřím, že jste velmi zaměstnán svou prací. Zítra se chystám odjet na venkov, kde zůstanu několik dní kvůli jistým svým záležitostem. Mezitím připravte[^3] ty další tvary opevnění {fortificationi}, aby byly hotové, až se vrátím. A zvláště ten, který předkládáte v sedmém dotazu své šesté knihy, totiž jak udělat to vaše zvláštní zařízení {ingegno} přizpůsobené každé kurtině {cortina}, aby ji mohlo bezpečně střežit a bránit nanejvýš 25 nebo 30 pěšáků {fanti} proti jakkoli velikému útoku, kdyby ji chtěli zlézt po žebřících. A připravte také ten způsob, jak opevnit kraj {paese} kolem města (jak předkládáte v osmém dotazu), tak aby obyvatelé města mohli bezpečně chodit obdělávat, sít a sklízet skoro tolik, kolik stačí k obživě obyvatel města. Velmi totiž toužím vidět tento váš vynález, protože se mi zdá velkou věcí udělat to s tak malým nákladem, jak říkáte.
+- typ: odstavec
+  de: |-
+    N. Faro Signor Magnifico.
+  cs: |-
+    **Nicolò.** Udělám to, urozený pane.[^1]
+- typ: odstavec
+  de: |-
+    Fine della Gionta del sesto Libro delli Quesiti, & Inuentioni diuerse de Nicolo Tartaglia.
+  cs: |-
+    Konec Dodatku k šesté knize Rozličných otázek a vynálezů Niccola Tartaglii.
+- typ: odstavec
+  de: |-
+    CON gratia, & priuilegio dall'Illustrissimo Senato Veneto, che niuno ardisca, ne presuma di stampar, ne far stampare la presente Gionta, ne stampate altroue uendere, ne far uendere in Venetia, ne in alcuno altro luoco, ò terra del Dominio Veneto, per anni diece, sotto pena de duc. 300. & perdere le opere in qual si uoglia loco, che saranno trouate, el terzo della qual pena pecuniaria sia applicata all'Arsenale, & un terzo sia del Magistrato, doue se fara la essecutione, & l'altro terzo sia del denonciante, & le opere siano del presence Autore, come che nel priuilegio si contiene.
+  cs: |-
+    S milostí a výsadou[^2] nejosvícenějšího benátského senátu, aby se nikdo neodvážil ani neopovážil tento Dodatek tisknout nebo dávat tisknout, ani jinde vytištěný prodávat nebo dávat prodávat v Benátkách {Venetia} ani v žádném jiném místě či zemi benátského panství, po dobu deseti let, pod pokutou 300 dukátů {duc.} a ztráty výtisků, ať budou nalezeny kdekoli. Třetina této peněžité pokuty připadne Arzenálu, třetina úřadu, který bude rozsudek vykonávat, a zbylá třetina udavači; výtisky pak připadnou nynějšímu autorovi, jak je obsaženo ve výsadě.
+poznamky:
+- n: 1
+  text: Dodatek tím končí; další tvary opevnění, které Nicolò slibuje ukázat (zařízení k obraně kurtiny proti zteči a opevnění okolního kraje), už v tisku nenásledují, ačkoli titul vydání slibuje „dva způsoby“, jak učinit město nedobytným.
+- n: 2
+  text: Priuilegio – tiskařské privilegium benátského senátu, ochrana proti přetisku; „presence“ je tisková chyba za „presente“, ponechána.
+- n: 3
+  text: V tisku „preparareti“ (správně prepareti, připravte) – tisková chyba, ponechána.

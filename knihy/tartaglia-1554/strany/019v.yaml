@@ -1,0 +1,53 @@
+id: 019v
+list: '19'
+strana: verso
+sken: 38
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  de: |-
+    N. Le sopra annotate lire sono alla sottile, ouer alla grossa, & similmente li piedi sono piedi alla misura di Venetia, ouer maggiore, ouer menore di quella.
+  cs: |-
+    **Nicolò.** Jsou výše zapsané libry {lire} lehké, nebo těžké?[^1] A podobně: jsou ty stopy {piedi} stopami podle benátské míry, nebo větší či menší než ona?
+- typ: odstavec
+  de: |-
+    P. Le lire credo siano tutte alla sottile, delli piedi non uel saprei dire, ma perche questa nota mi fu data à Barletta, potria esser che fusseno piedi à misura di quelle bande, pur credo siano eguali à questi.
+  cs: |-
+    **Převor.** Libry jsou myslím všechny lehké; o stopách vám to říci nedovedu, ale protože mi tento zápis dali v Barlettě, mohly by to být stopy podle tamní míry. Přesto myslím, že jsou rovny zdejším.
+- typ: odstavec
+  de: |-
+    N. Hor non importa hauer la cosa tanto per sottile, ma me basta hauer inteso che in un canone da.50.longo piedi.8.e meggio, uol di metallo lire.4000. Et le colobrine pur da.50.ui ne una sorte longa piedi.12.che uol di metallo lire.6600.che sarian lire.2600.di metallo piu del canone, & questa uol para.5.de buoui di piu di quello uol il canone, & li detti cinque para de buoui credo uorranno cinque huomini che li gouerni, hor guardati se questo importa à longo andare, oltra la spesa della poluere che uole de piu à ogni colpo che la se tira.
+  cs: |-
+    **Nicolò.** Nezáleží na tom znát věc tak dopodrobna; stačí mi, že jsem se dozvěděl, že kanon {canone} na 50 liber, dlouhý 8 a půl stopy, potřebuje 4000 liber kovu. A z kolubrin {colobrine} rovněž na 50 liber je jeden druh dlouhý 12 stop, který potřebuje 6600 liber kovu; to by bylo o 2600 liber kovu víc než u kanonu. A ta potřebuje o 5 párů volů víc než kanon, a k těm pěti párům volů bude myslím třeba pěti mužů, kteří by je obsluhovali. Posuďte tedy, zda to časem nebude mnoho znamenat, nadto ještě náklad na prach {poluere}, kterého je třeba navíc při každé ráně, kterou se z ní vystřelí.
+- typ: odstavec
+  de: |-
+    P. La importa si in una, ma molto piu importa in molte, & certamente se fusse sano ne uorria ueder la isperientia per esser cosa molto importante.
+  cs: |-
+    **Převor.** Záleží na tom u jedné, a mnohem víc u mnoha. A jistě, kdybych byl zdráv,[^2] chtěl bych to vidět vyzkoušet, protože je to věc velmi důležitá.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO DVODECIMO FATTO DAL medesimo. S. Prior di Barletta.
+  cs: |-
+    Dvanáctý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Hiersera fu assai disputato qualmente à ogni artegliaria lo esser troppo longa di canna, & etiam lo esser troppo corta noce alli tiri di quella, hor uorria sapere di quanta longhezza se potria con ragion naturale determinare che douesse esser la sua canna, à douer esser debitamente proportionata alla sua conueniente misura di poluere, & balla.
+  cs: |-
+    **Převor.** Včera večer se dost disputovalo o tom, že každému dělu {artegliaria} škodí na dostřelech, má-li příliš dlouhou hlaveň {canna}, a také má-li ji příliš krátkou. Nyní bych rád věděl, jakou délku jeho hlavně lze přírodními důvody určit, aby byla náležitě úměrná jeho přiměřené míře prachu a koule {balla}.
+- typ: odstavec
+  de: |-
+    N. La sua longhezza uorria esser tanta che in quello istante che tutta la poluere compisse di esser risolta in fuoco, in quello medesimo la balla se ritroui esser peruenuta precisamente nella istremita della canna, cioe precisamente alla bocca del pezzo, perche in tal istante tutta la uirtu ispulsiua della poluere uiene à operare nella balla nel colmo della sua furia, ouer possanza, & dapoi che tal uirtu ha operato nella detta balla, la detta balla non ritroua cosa alcuna, che ui impedisca, ouer che gli interrompa il moto eccetto che l'aere, e pero debbe andar piu in tal longhezza, che se tal canna fusse piu longa, ouer piu corta, perche se la canna fusse piu corta, la balla uscisse della bocca del pezzo auanti che sia compita di esser risolta in fuoco tutta la poluere, e pero tutta la uirtu ispulsiua della poluere non uiene à operare nella balla, anci parte di quella resta uana, & puo accadere facilmente, che molta poluere uscisca sana fuora del pezzo insieme con la balla, cioe poluere non tocca dal fuoco. Ma quando poi che la detta canna fusse piu longa, in quello istante che compisse da esser risolta in fuoco tutta la poluere, la balla in quel medesimo non si troua cosi precisamente alla bocca del pezzo, ma alquanto piu in dentro, e per tanto la detta balla nel colmo della sua uelocita, scorrendo per quella poca parte di canna che ui restaua à compire, la detta canna grandemente ue interrompe il suo moto, perche ogni uolta che un corpo immobile tocchi alcun corpo che si moua sempre ui interrompe il moto, & tanto piu, quanto che maggior parte, ouer per maggior tempo ua toccando quello.
+  cs: |-
+    **Nicolò.** Její délka by měla být taková, aby v témž okamžiku, kdy se všechen prach úplně promění v oheň, se koule ocitla přesně na konci hlavně, totiž přesně v ústí děla {pezzo}. V tom okamžiku totiž působí na kouli celá vypuzovací síla prachu na vrcholu své zuřivosti čili moci; a jakmile tato síla na kouli zapůsobí, nenajde koule nic, co by jí překáželo nebo přerušovalo její pohyb, kromě vzduchu. A proto musí při takové délce doletět dál, než kdyby hlaveň byla delší nebo kratší. Kdyby totiž hlaveň byla kratší, vyletěla by koule z ústí děla dřív, než by se všechen prach proměnil v oheň; celá vypuzovací síla prachu by tedy na kouli nezapůsobila, nýbrž část by jí přišla nazmar, a snadno se může stát, že z děla spolu s koulí vyletí mnoho neporušeného prachu, totiž prachu nezasaženého ohněm. Kdyby však hlaveň byla delší, nebyla by koule v okamžiku, kdy se všechen prach úplně promění v oheň, přesně v ústí děla, nýbrž o něco hlouběji uvnitř; a tak když koule na vrcholu své rychlosti probíhá tím kouskem hlavně, který jí ještě zbývá, hlaveň její pohyb velmi přerušuje. Kdykoli se totiž nehybné těleso dotýká nějakého pohybujícího se tělesa, vždy mu přerušuje pohyb, a to tím víc, čím větší částí čili čím déle se ho dotýká.
+- typ: odstavec
+  de: |-
+    P. Ve ho inteso benissimo, & queste uostre ragioni me piaceno molto, ne uoglio che procedemo in altro per questa sera.
+  cs: |-
+    **Převor.** Porozuměl jsem vám výborně a tyto vaše důvody se mi velmi líbí; dnes večer už nechci, abychom pokračovali v něčem jiném.
+poznamky:
+- n: 1
+  text: Alla sottile / alla grossa – v Benátkách se užívala lehká libra (libbra sottile, asi 0,30 kg, pro většinu zboží) a těžká libra (libbra grossa, asi 0,48 kg, pro kovy a hrubé zboží); údaj o váze děl a koulí se proto bez upřesnění nedal porovnat.
+- n: 2
+  text: Převor se zmiňuje o své nemoci; Gabriele Tadino zemřel roku 1543.

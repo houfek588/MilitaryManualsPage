@@ -1,0 +1,27 @@
+id: 062r
+list: '62'
+strana: recto
+sken: 143
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    per alchun se tiene chel sia auantagio, adoncha se le adesso danno & al nemico auantagio, non se puo strengere ad remontare, Si ad uno che uuole remontare ad cauallo non lie concesso, manco e concesso a laltro che monti nel po astrengere ad farlo montare, perche li dentro a ciaschuno e licito usare ogni astutia & auantagio.
+  cs: |-
+    protože to někdo pokládá za výhodu. Je-li to tedy nyní jemu ke škodě a nepříteli k výhodě, nelze [nikoho] nutit, aby znovu nasedl. Jestliže tomu, kdo chce znovu nasednout na koně, se to nedovoluje, tím méně se dovoluje druhému, aby [ho nutil], aby nasedl – nemůže ho přinutit, aby nasedl, protože tam uvnitř [kolbiště] je každému dovoleno užít každé lsti a výhody.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE VNO COMBATTENTE PRESO dal suo inimico, & puoi per lo suo honore afferra unaltro combattere, & con licentia del primo. Et per sorte sera ancho uento per lo secondo & sera uento da doi, & puoi sera recercato tutti doi dal primo in un medesimo tempo a chi sera obligato andare el primo o lo secondo. Capitolo XVIII.
+  cs: |-
+    O bojovníkovi zajatém svým nepřítelem, který pak kvůli své cti {honore} přijme jiný souboj, a to s dovolením prvního. A náhodou je přemožen i druhým, takže je přemožen dvěma, a pak je oběma zároveň povolán – ke komu je povinen jít, zda k prvnímu, či k druhému. Kapitola XVIII.
+- typ: odstavec
+  de: |-
+    SE moue el dubio che sera un milite uento da unaltro, & uenneno per caso che gli conuiene pigliare unaltra desfida per lo suo honore, & facendo como per rason se deue de domandare licentia de combattere col suo inimico, ad quello che per primo gli ha uento, & gli sara commissa ditta licentia. Et uenendo per sorte chel sera uento dal secondo, & sera anchora ad questo per legato & arreso, & puoi da tutti doi hauera aduiso chel debbia andare ciaschuno gli uole adoperare, hauera lo auiso ad uno medesimo tempo a chi questo e tenuto obedire. Se moue el lite per lo primo uincitore, & dice che deue primo seruire ad epso perche prima lo uense, & e primo lo suo instrumento, & epso gli e obligato, &
+  cs: |-
+    Vzniká pochybnost, když je válečník {milite} přemožen jiným a pak se náhodou stane, že musí kvůli své cti přijmout jinou výzvu {desfida}; a jak se podle práva sluší, požádá toho, kdo ho přemohl jako první, o dovolení bojovat se svým nepřítelem, a to dovolení mu bude uděleno. A stane-li se náhodou, že je přemožen i druhým a je i jemu zavázán a vzdal se mu, a pak dostane od obou zprávu, že má přijít, protože ho každý z nich chce užít, a zprávu dostane od obou ve stejný čas – koho je povinen poslechnout? Spor {lite} vznáší první vítěz a říká, že mu má sloužit nejdřív, protože ho přemohl první, a jeho listina {instrumento}[^1] je první a on je mu zavázán, a
+poznamky:
+- n: 1
+  text: 'Instrumento – písemný závazek (notářská listina), jímž se poražený zavazoval vítězi jako jeho zajatec, např. k výkupnému nebo ke službě.'

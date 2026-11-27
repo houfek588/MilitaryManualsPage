@@ -1,0 +1,56 @@
+id: 037v
+list: '37'
+strana: verso
+sken: 74
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    saluo di quelle proprietà, che in lui se ritruoua, alla medicina necessarie, & non d'altro: ma molti altri antiqui autori, ne fanno certissimi, che lor seppero, che abbrusaua, perche loro se ne seruiuano nelle compositioni de alcuni fuochi, per abbrusare le testudine, ouer ariete, & le ellepoli, & altre torre portatile, che nelle ispugnationi delle citta à quel tempo si usaua: Et similmente per abbrusare le armate nauale, uero è che in tai compositioni alcuni el chiamano sal ardente, altri el chiamano sal petroso, altri el chiamano sal praticha, & altri el chiamano proprio, salnitrio.
+  cs: |-
+    o ničem jiném než o těch jeho vlastnostech, které jsou potřebné v lékařství. Mnoho jiných starých autorů nás však ujišťuje, že věděli, že pálí, neboť ho užívali ve složeních některých ohňů k zapalování želv {testudine} neboli beranů {ariete}, helepolí {ellepoli} a jiných pojízdných věží, jichž se v té době užívalo při dobývání měst[^1], a stejně tak k zapalování válečných loďstev. Je ovšem pravda, že v těchto složeních jej někteří nazývají „hořlavá sůl“ {sal ardente}, jiní „kamenná sůl“, jiní „sal praticha“[^2] a jiní přímo ledek {salnitrio}.
+- typ: odstavec
+  de: |-
+    P. Circa di questo ui ho da adimandarui un'altro dubbio: ma perche el mi dole alquanto la testa, lo uoglio remettere à doman de sera.
+  cs: |-
+    **Převor.** K tomu bych se vás chtěl zeptat ještě na jednu pochybnost, ale protože mě trochu bolí hlava, odložím to na zítřek večer.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO TERZO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: Třetí dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Se gli antiqui hebbero cognitione, chel salnitrio brusaua, & ardeua con quella uigorosita che fa, perche non seppero far la poluere delle artegliarie di tanta importanza nell'arte militare, come noi moderni.
+  cs: |-
+    **Převor.** Jestliže staří věděli, že ledek pálí a hoří s takovou prudkostí, jakou má, proč neuměli dělat prach pro děla {poluere delle artegliarie}, ve válečném umění tak důležitý, jako my dnešní?
+- typ: odstavec
+  de: |-
+    N. Questa consequentia non è bona, à dire, che se li antiqui hebbero notitia del salnitrio, & che sapessono, che ardeua, ouer brusaua, che de necessita douessono saper componere la poluere delle artegliarie, perche la detta poluere non si fa de salnitrio puro, anzi se compone de tre materiali (come credo, che quella sappia) cioe di salnitrio, solfere, & carbone. Et pero eglie cosa credibile, chel sia possibile hauer cognitione del salnitrio, & della natura di quello, & ignorare la compositione della detta poluere.
+  cs: |-
+    **Nicolò.** Tento úsudek není správný – tvrdit, že jestliže staří znali ledek a věděli, že hoří neboli pálí, museli nutně umět skládat prach pro děla. Ten prach se totiž nedělá z čistého ledku, nýbrž se skládá ze tří přísad (jak myslím Vaše Důstojnost ví), totiž z ledku, síry {solfere} a uhlí {carbone}. Je tedy dobře možné znát ledek a jeho povahu, a přitom neznat složení toho prachu.
+- typ: odstavec
+  de: |-
+    P. Voi haueti ragione.
+  cs: |-
+    **Převor.** Máte pravdu.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO QVARTO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: Čtvrtý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Con che ragione, ouer perche causa la detta poluere delle artegliarie, se compone cosi de questi tre materiali, cioe de salnitrio, solfere, et carbone, & non de altri simplici, & que uirtu, ouer officio particolare ha cadauno di detti tre materiali, ouer simplici per se in tal compositione, & que effetto faria ogni dui di loro senza el terzo.
+  cs: |-
+    **Převor.** Z jakého důvodu či z jaké příčiny se ten prach pro děla skládá právě z těchto tří přísad, totiž z ledku, síry a uhlí, a ne z jiných jednoduchých látek? A jakou sílu čili zvláštní úlohu má v tomto složení každá z těch tří přísad neboli jednoduchých látek sama o sobě a jaký účinek by měly kterékoli dvě z nich bez třetí?
+- typ: odstavec
+  de: |-
+    N. Tal poluere se compone cosi de detti tre materiali, perche cadauno loro medica, & supplisse ad alcun difetto de alcun delli altri dui, perche el solfere è piu atto di accendere il fuoco con fiamma (essendo alquanto tocco da quello) de alcun delli altri dui, el qual fuoco con fiamma è molto piu atto à introdur in fuoco el salnitrio di qualunque altro fuoco, & perche el detto salnitrio brusando se risolue in essalatione uentosa, la quale è tanto potente, che subito amorzarebbe la fiamma gia introdutta nel solfere, & consequentemente quella introduta (per quella del solfere) nel medemo salnitrio, & perche la natura del solfere, & simelmente quella del salnitrio è tale, che morta la fiamma, non ui resta alcuna minima insegna di fuoco, & per tanto componendo insieme solamente salnitrio, & solfere ottimamente pisti, & accostandoui el fuoco, immediate tal fuoco ui se accendera, & immediate ui se destuara,
+  cs: |-
+    **Nicolò.** Ten prach se skládá právě z těchto tří přísad proto, že každá z nich napravuje a nahrazuje nějakou vadu některé z ostatních dvou. Síra je totiž schopnější než kterákoli z ostatních dvou chytit oheň s plamenem (jakmile se jí oheň jen trochu dotkne), a tento oheň s plamenem je mnohem schopnější než jakýkoli jiný oheň zažehnout ledek. Ledek se však při hoření rozkládá ve větrné výpary {essalatione uentosa}, tak mocné, že by hned uhasily plamen již zanesený do síry, a v důsledku toho i plamen zanesený (plamenem síry) do samotného ledku; a povaha síry i ledku je taková, že když plamen zhasne, nezůstane v nich ani nejmenší známka ohně. Proto když se smísí jen ledek a síra, dokonale utlučené, a přiloží se k nim oheň, oheň se v nich okamžitě vznítí a okamžitě uhasne,
+poznamky:
+- n: 1
+  text: Antické obléhací stroje – testudo („želva“), krytá stříška pro útočníky a beranidlo; aries, beran k prolamování hradeb; helepolis („dobyvatelka měst“), vysoká pojízdná obléhací věž. Antické zápalné směsi ve skutečnosti ledek neobsahovaly; ten se v zápalných recepturách objevuje až ve středověku (Marcus Graecus, Liber ignium).
+- n: 2
+  text: Sal praticha – nejasný název; snad zkomolenina z „sal petrae“ nebo označení „praktické“ (užívané) soli. Ponecháno nepřeloženo.

@@ -1,0 +1,44 @@
+id: 044r
+list: '44'
+strana: recto
+sken: 87
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    la bandera se uenisse à ritrouare nel meggio de tal ordinanza, ouer battaglia.
+  cs: |-
+    prapor {bandera} ocitl uprostřed takového šiku {ordinanza} čili bitevního šiku.
+- typ: odstavec
+  de: |-
+    N. Per saper far questa cosa con prestezza, subito pigliati la radice quadra di quella tal quantita de fanti, et se tal radice sara diuisibile per tre, tanto quanto sara la detta terza parte di tal radice, à tanti per fila se douera far caminar li detti fanti per camino.
+  cs: |-
+    **Nicolò.** Abyste to dovedl rychle provést, vezměte hned druhou odmocninu {radice quadra} z toho počtu pěšáků {fanti}; a je-li tato odmocnina dělitelná třemi, po tolika v řadě {fila}, kolik činí třetina té odmocniny, se mají ti pěšáci nechat pochodovat na cestě.
+- typ: odstavec
+  de: |-
+    C.H. De gratia datime un essempio, & in piccol numero, perche meglio ue intendero in uno numero piccolo, che in uno grande.
+  cs: |-
+    **Hrabě Hieronimo.** Prosím, dejte mi příklad, a to na malém čísle, protože na malém čísle vám porozumím lépe než na velkém.
+- typ: odstavec
+  de: |-
+    N. Poniamo per essempio, che li fanti, che se ha da condur, siano fanti .81. dico che il si debbe tuor la radice de .81. la qual è .9. & perche questa tal radice è diuisibile per tre, & la sua terza parte è tre, e per tanto dico che li detti fanti .81. si debbono far caminar per uiaggio à tre fanti per fila, & faranno in tutto file .27. come qui sotto appare.
+  cs: |-
+    **Nicolò.** Dejme tomu například, že pěšáků, které je třeba vést, je 81. Pravím, že se má vzít odmocnina z 81, která je 9; a protože tato odmocnina je dělitelná třemi a její třetina je tři, pravím, že těch 81 pěšáků se má nechat pochodovat na cestě po třech pěšácích v řadě, a bude to celkem 27 řad, jak je vidět zde níže.
+- typ: obrazek
+  soubor: drevorez-87.jpg
+  popis: Pochodový sled 81 pěšáků sázený z teček – 27 řad po 3 pěšácích, kreslených jako tři vodorovné linie po 27 tečkách, rozdělené dvěma svislými čarami na tři stejné části po 9 řadách. Dělicí čáry jsou označeny písmeny c–d (mezi levou a prostřední částí) a a–b (mezi prostřední a pravou). Vlevo svisle nápis „spalle“ (týl), vpravo „fronte“ (čelo).
+- typ: odstavec
+  de: |-
+    Et quando l'occorresse el bisogno di uolerli redure in battaglia quadra tutte queste .27. file si debbono smembrare in tre parti eguale, come dimostra .a.b. & .c.d. che in ogni parte uenira à restare .9. file à tre fanti per fila, & dapoi il si debbe far fermar la prima parte uerso la fronte, & che le altre due procedano auanti dalla banda destra, ouer sinistra della prima (gia fermata) per fina à tanto che la testa, ouer fronte della seconda parte se unisca con la testa, ouer fronte della prima, & iui fermarse, & fermata la prima, & seconda parte si debbe far il medesimo con la terza parte, cioe farla caminare, e procedere à canto della seconda parte (gia fermata) per fina à tanto che la sua testa, ouer fronte se unisca con la testa, ouer fronte della prima, & seconda (come nella sottoscritta figura.
+  cs: |-
+    A když by nastala potřeba převést je do čtvercového šiku {battaglia quadra}, je třeba všech těchto 27 řad rozčlenit na tři stejné části, jak ukazují [čáry] a–b a c–d, takže v každé části zůstane 9 řad po třech pěšácích v řadě. Potom se má první část, ta směrem k čelu {fronte}, zastavit a ostatní dvě mají postupovat vpřed po pravé nebo levé straně první (již zastavené), dokud se hlava {testa} neboli čelo druhé části nespojí s hlavou neboli čelem první, a tam se zastavit. Když stojí první i druhá část, je třeba totéž udělat s třetí částí, totiž nechat ji pochodovat a postupovat vedle druhé části (již zastavené), dokud se její hlava neboli čelo nespojí s hlavou neboli čelem první a druhé (jako na níže zakresleném obrazci).
+- typ: obrazek
+  soubor: drevorez-87b.jpg
+  popis: Převádění pochodového sledu do šiku, sázené z teček – tři části po 3 liniích o 9 tečkách, odstupňované šikmo za sebou (pravá nahoře, prostřední uprostřed, levá dole), jak postupně najíždějí vedle sebe. V prostřední části písmeno B (místo praporu), vpravo svisle nápis „fronte“ (čelo).
+- typ: odstavec
+  de: |-
+    Le qual tre parti cosi redutte, & assettate, haueranno redutta tal battaglia in forma quadra di gente, come di sotto appare in figura, & per far che la bandiera caschi nel meggio di tal battaglia sempre la se debbe assettar nel meggio della seconda parte, come di sopra appare in ponto .B. Et bisogna auertire che anchor che tal figura sia quadra di terreno, come sensibilmente si uede, nondimeno in atto proprio tal figura se trouera occupare per longhezza piedi, .63. & per larghezza piedi uentisette,
+  cs: |-
+    Tyto tři části, takto převedené a rozestavené, převedou ten šik do podoby čtverce co do mužstva {forma quadra di gente}, jak je vidět níže na obrazci; a aby se prapor {bandiera} ocitl uprostřed šiku, je třeba jej vždy postavit doprostřed druhé části, jak je vidět výše v bodě B. A je třeba si uvědomit, že ačkoli je tento obrazec čtvercový co do plochy {terreno}, jak je patrné na první pohled, ve skutečnosti bude zabírat na délku 63 stop {piedi} a na šířku dvacet sedm stop

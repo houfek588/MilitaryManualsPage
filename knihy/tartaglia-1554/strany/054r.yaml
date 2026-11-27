@@ -1,0 +1,43 @@
+id: 054r
+list: '54'
+strana: recto
+sken: 107
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    pur tal essercito ordinato in forma quadrata, cunea, ouer come si uoglia, saluo che non circondasse tal essercito de grossissime mura, ouer bastioni, come si costuma alli presenti tempi nelli alloggiamenti, ma uolendo poi uenir alla frontera, eglie forza uscir de quelli, si che nel atto del combattere io non credo, ne reputo, che ue sia alcun meglior rimedio a uoler uinzere, & superchiar el nemico, che hauere gente, artegliarie, archibusi, & archi piu di lui, & persone pratiche, & essercitate nella guerra.
+  cs: |-
+    to vojsko {essercito} sestaveno ve tvaru čtvercovém, klínovém nebo jakkoli jinak – leda by se to vojsko obehnalo převelice silnými hradbami {mura} nebo baštami {bastioni}, jak je dnes zvykem v táborech {alloggiamenti}; ale chce-li pak vytáhnout proti nepříteli, musí z nich vyjít. Takže v samotném boji nevěřím ani se nedomnívám, že by byl nějaký lepší prostředek, jak nepřítele porazit a přemoci, než mít víc lidí, děl {artegliarie}, arkebuz {archibusi} a luků než on a lidi zkušené a vycvičené ve válce.
+- typ: odstavec
+  de: |-
+    N. Questo, che conclude uostra Signoria se intende naturalmente cosi douer seguire, cioe non ui se interponendo alcuna artificialita, perche eglie cosa naturale, che el numero maggiore in ogni attione superi el menore, cioe che lo essercito maggiore superi el menore, et che el maggior numero de artegliarie, archibusi, & archi, siano de molta maggior faccione, che non sara el menore: ma nelle cose fatte, & ordinate con arte non seguita sempre questo, perche l'arte tende sempre a l'uno de questi dui fini, oueramente ad emitar la natura ad ogni suo potere, oueramente a supplire alli diffetti di essa natura, cioe a fare quelle cose, che la natura non puo fare, ouer che naturalmente non si possono essequire (cosa certamente magnanima, & generosa) e pero non è da concludere, ne da dire, che con arte non sia possibile a superare quelle cose, che per natura siamo uenti.
+  cs: |-
+    **Nicolò.** To, k čemu Vaše Milost dospívá, se má tak stát podle přirozenosti, totiž když do toho nevstoupí žádný umělý prostředek. Je totiž přirozené, že větší počet v každém jednání přemůže menší, tj. že větší vojsko přemůže menší a že větší počet děl, arkebuz a luků vykoná mnohem víc než menší. Ale u věcí udělaných a uspořádaných uměním to vždy neplatí, protože umění vždy směřuje k jednomu z těchto dvou cílů: buď ze všech sil napodobit přírodu, nebo doplnit nedostatky téže přírody, tj. dělat věci, které příroda udělat nemůže nebo které se přirozenou cestou provést nedají (což je věc jistě velkodušná a ušlechtilá). Proto nelze uzavírat ani říkat, že uměním nelze překonat věci, jimiž jsme podle přirozenosti přemoženi.
+- typ: odstavec
+  de: |-
+    P. Dapoi che haueti questa tal openione, che uia ui pare, che si potria tenere, ouer con che mezzo credeti, che tal cosa potesse fare.
+  cs: |-
+    **Převor.** Když jste toho názoru, jakou cestou by se podle vás dalo jít, neboli jakým prostředkem by se podle vás taková věc dala udělat?
+- typ: odstavec
+  de: |-
+    N. Circa cio bisognaria pensarui alquanto.
+  cs: |-
+    **Nicolò.** O tom by bylo třeba trochu přemýšlet.
+- typ: odstavec
+  de: |-
+    P. Pensatigli un poco (dico con summa diligentia) perche eglie una cosa molto importantissima, & necessaria a questi tempi, & in cio conoscero quanto ualeti, perche nelle infirmita, che sono giudicate incurabile, si conosce la sufficienza del medico.
+  cs: |-
+    **Převor.** Popřemýšlejte o tom trochu (a to, říkám, s největší pečlivostí), protože je to věc nanejvýš důležitá a v dnešní době nutná; a na tom poznám, jakou máte cenu, neboť na nemocech, které jsou pokládány za nevyléčitelné, se pozná schopnost lékaře.
+- typ: odstavec
+  de: |-
+    N. Io certamente ui pensaro, ma molto piu con diligentia, quando presentiro approssimarsi el bisogno.
+  cs: |-
+    **Nicolò.** Jistě o tom budu přemýšlet, ale mnohem pečlivěji, až ucítím, že se blíží potřeba.
+- typ: odstavec
+  de: |-
+    Il fine del quarto libro.
+  cs: |-
+    Konec čtvrté knihy.

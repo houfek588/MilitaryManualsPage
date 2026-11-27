@@ -1,0 +1,40 @@
+id: 038v
+list: '38'
+strana: verso
+sken: 76
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: QVESITO QVINTO FATTO DAL MEDESIMO Signor Priore di Barletta.
+  cs: Pátý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Hiersera uoi assignasti la causa, perche la poluere se compone cosi cosi di quelli tre materiali, & che officio ha cadauno de ditti materiali, in tal compositione, hor ue adimando, che fu inuentor di tal poluere, & con che ragione fu determinata da quello, la proportione della quantita di cadauno materiale conueniente à tal compositione.
+  cs: |-
+    **Převor.** Včera večer jste uvedl příčinu, proč se prach {poluere} skládá právě z oněch tří přísad[^1] a jakou úlohu má v tomto složení každá z nich. Nyní se vás ptám, kdo byl vynálezcem tohoto prachu a podle jakého rozumu určil poměr {proportione} množství každé přísady, jaký se k tomuto složení hodí.
+- typ: odstavec
+  de: |-
+    N. Che fusse inuentor di questa poluere, & della artegliaria, fra el uulgo è sparto, per autorita del Cornazano, qual dice, che fu trouata à caso da un Todesco Alchimista, ma io son di openione, che di tal compositione Archimede Siracusano (Philosopho, & Mathematico peritissimo) ne fusse inuentore (& di questa medema opinione è il commentator di Vitruuio sopra el primo libro à carte.8.) perche di lui si troua in molti luochi inscritto (come narra Valturio nel decimo libro de re militare) qualmente lui trouo una certa specie di machina di ferro, con la quale lui traseua uerso lo essercito terresto sassi di grandissimo peso, e grandezza, & con uno incredibel suono, la qual cosa ne da ad intendere, che fusse una machina simile à una artegliaria, ma che tirasse balle di pietra grossissime, come che anchora non è molto tempo, che fra moderni si costumaua, & massime per quel incredibel suono, che nel tirarla ui occorre, el qual suono, in altra sorte di machina da tirar, à me non pare, che ui se possa causare, saluo che in una simile alla artegliaria, uero è, che à quel tempo io tengo, che fusseno molto difforme, & piu disconze di quelle, che alli presenti tempi si costuma, perche sempre le prime inuentioni teneno del rustico, ma con el tempo se uanno megliorando, per esser cosa facile aggiongere alle cose trouate, & il medesimo dico della poluere, cioe, che al principio, che la fu trouata (ò da Archimede, ouer da chi si uoglia) eglie da credere, che in quel tempo la non se componesse con tal ordine e proportione, come che al presente si costuma, anzi giudico, che da quel tempo in qua se sia uariato l'ordine da componerla quasi infiniti modi, & che el sia el uero, io ho ritrouato sopra alcuni libri non molto antiqui certi modi, & ordini da componerla, molto differenti dalli piu moderni.
+  cs: |-
+    **Nicolò.** O tom, kdo byl vynálezcem tohoto prachu a dělostřelectva {artegliaria}, se mezi lidem traduje na základě Cornazzanova svědectví[^2], který praví, že je náhodou nalezl jakýsi německý alchymista. Já jsem však toho mínění, že vynálezcem tohoto složení byl Archimédés Syrakuský (filozof a převelice zkušený matematik) – a téhož mínění je i komentátor Vitruvia k první knize na listu 8[^3] –, neboť o něm stojí na mnoha místech psáno (jak vypráví Valturio v desáté knize spisu O vojenství[^4]), že vynalezl jakýsi druh železného stroje, jímž metal proti pozemnímu vojsku {essercito} kameny převeliké váhy a velikosti, a to s neuvěřitelným hřmotem. To nám dává na srozuměnou, že to byl stroj podobný dělu, jenž však střílel převeliké kamenné koule, jak bylo i v naší době ještě nedávno zvykem; a zvláště to dokazuje onen neuvěřitelný hřmot, který při výstřelu vzniká – takový hřmot podle mne nemůže vzniknout u žádného jiného druhu vrhacího stroje než u stroje podobného dělu. Je ovšem pravda, že v té době byla tato děla, jak se domnívám, mnohem neforemnější a nemotornější než ta, jichž se užívá dnes, neboť první vynálezy mají vždy v sobě něco hrubého, ale časem se zdokonalují, protože je snadné přidávat k věcem již nalezeným. Totéž říkám o prachu: když byl na počátku vynalezen (ať Archimédem, nebo kýmkoli), je třeba věřit, že se tehdy neskládal podle takového předpisu a poměru jako nyní; naopak soudím, že od té doby až dosud se způsob jeho skládání obměnil snad nekonečně mnohokrát. Že je tomu tak, dokládám tím, že jsem v některých nepříliš starých knihách našel jisté způsoby a předpisy {ordini} k jeho skládání, velmi odlišné od nejnovějších.
+- typ: odstavec
+  de: |-
+    P. Ditime un poco, che proportion osseruamo, & osseruauano.
+  cs: |-
+    **Převor.** Řekněte mi tedy, jaký poměr zachováváme my a jaký zachovávali oni.
+- typ: odstavec
+  de: |-
+    N. Io ho ritrouato in alcuni piu antiqui libri, che à uoler far poluere di bombarda uoleuano, che se pigliasse de cadauno di sopra detti tre materiali parte equale, cioe tanto de l'uno, quanto de l'altro. Et alcuni altri dapoi uoleuano che se pigliasse parte.3. di salnitrio, & parte.2. di solfere, & parte.2. di carbone. Alcuni altri poi uoleuano, che per far la detta poluere di bombarda se togliesse lire.10. di salnitrio, & lire.3. di solfere, & lire.3. di carbone. Et alcuni altri uoleuano, che se pigliasse lire.12. di salnitrio, & lire.3. di solfere, & lire.2. di carbone. Altri uoleuano che si togliesse parte.9. di salnitrio, & parte.2. di solfere, e parte.3. di carbone, et alcuni altri piu moderni per farla per schioppi uoleuano, che se pigliasse parti.4. de salnitrio, & parte una di solfere, & parte.1. di carbone: alcuni altri han detto, che per far poluere grossa si douesse pigliare parti.20. di salnitrio, et parti.3. di solfere, et parti.10. di carbon, & per farla alquanto piu fina per schioppi hanno detto, che si douesse tore parti.100. di salnitrio, & parti.10. di solfere, et parti.36. di carbone, altri dicono che per far poluere grossa, che
+  cs: |-
+    **Nicolò.** V některých starších knihách jsem našel, že kdo chtěl udělat prach pro bombardy {bombarda}, žádal, aby se od každé ze tří zmíněných přísad vzal stejný díl, totiž od jedné tolik jako od druhé. Někteří jiní pak žádali, aby se vzaly 3 díly ledku {salnitrio}, 2 díly síry {solfere} a 2 díly uhlí {carbone}. Jiní zase žádali, aby se na týž prach pro bombardy vzalo 10 liber {lire} ledku, 3 libry síry a 3 libry uhlí. A někteří jiní chtěli, aby se vzalo 12 liber ledku, 3 libry síry a 2 libry uhlí. Jiní chtěli, aby se vzalo 9 dílů ledku, 2 díly síry a 3 díly uhlí; a někteří jiní, novější, žádali, aby se na prach pro ručnice {schioppi} vzaly 4 díly ledku, jeden díl síry a 1 díl uhlí. Někteří jiní řekli, že na hrubý prach {poluere grossa} se má vzít 20 dílů ledku, 3 díly síry a 10 dílů uhlí, a na prach poněkud jemnější pro ručnice řekli, že se má vzít 100 dílů ledku, 10 dílů síry a 36 dílů uhlí. Jiní říkají, že na hrubý prach
+poznamky:
+- n: 1
+  text: V tisku zdvojeno „cosi cosi“ na přechodu řádků (tisková chyba).
+- n: 2
+  text: Antonio Cornazzano (asi 1430–1484), italský básník a autor veršovaného spisu De re militari; připisoval vynález prachu a děl německému alchymistovi (tradice o „Bertholdu Schwarzovi“).
+- n: 3
+  text: Komentátor Vitruvia – patrně Cesare Cesariano, jehož komentované italské vydání Vitruvia vyšlo v Comu 1521.
+- n: 4
+  text: Roberto Valturio (1405–1475), De re militari (tištěno ve Veroně 1472), kniha X o válečných strojích. Pověst o Archimédově parním děle („architronito“) zná i Leonardo da Vinci; historicky nemá opodstatnění.

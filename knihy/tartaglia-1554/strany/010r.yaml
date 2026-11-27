@@ -1,0 +1,37 @@
+id: 010r
+list: '10'
+strana: recto
+sken: 19
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    secondo che la si ua elleuando de minuto in minuto, cosi de minuto in minuto lei ua anchora augumentando il suo tirar per linea retta, il medesimo fara etiam nelli ponti, & in maggior quantita, cioè, che elleuata al primo ponto della squadra tirara molto piu per linea retta, di quello fara nel sito della equalita, cioè aliuellata, & elleuata poi al secondo ponto di detta squadra, molto piu tirara per linea retta, di quello fara elleuata al primo ponto, & cosi elleuata al terzo ponto, tirara piu pur per linea retta, di quello fara al secondo, & cosi successiuamente al quarto, tirara piu, che al terzo, & al quinto piu che al quarto, & al sesto (detto di sopra) tirara piu che al quinto, & se piu oltra la si potesse elleuare gradatamante andaria augumentando il suo tirare per linea retta, cioè, che al .7. ponto, tirara piu per linea retta, che al .6. & al .8. piu che al .7. & al .9. piu che al .8. & al .10. piu che al .9. & al .11. piu che al .10. & al .12. piu che al .11. & à questo .12. tutto il suo tiro sara per linea retta, perche sara perpendicolare sopra all'orizonte, & questo tale sara piu perfettamente retto de cadauno delli anteditti, perche in uero il transito, ouer moto uiolente d'un corpo egualmente graue, che sia fora della perpendicolar del orizonte, mai pol hauere alcuna parte, che sia perfettamente retta (come fu detto sopra la seconda suppositione del secondo libro della nostra noua scientia.
+  cs: |-
+    jak se [kolubrina] zvedá minutu po minutě, tak jí minutu po minutě přibývá i střelby po přímce {linea retta}. Totéž učiní i na bodech {ponti}, a to ve větší míře: zdvižená na první bod kvadrantu {squadra} dostřelí po přímce mnohem dál než v poloze rovnosti {sito della equalita}, tj. ve vodorovné poloze; zdvižená pak na druhý bod kvadrantu dostřelí po přímce mnohem dál než zdvižená na první bod; a tak zdvižená na třetí bod dostřelí po přímce opět dál než na druhém, a tak postupně na čtvrtém dál než na třetím, na pátém dál než na čtvrtém a na šestém (výše zmíněném) dál než na pátém. A kdyby ji bylo možné zvednout ještě výše, postupně by jí přibývalo střelby po přímce: na 7. bodě by po přímce dostřelila dál než na 6., na 8. dál než na 7., na 9. dál než na 8., na 10. dál než na 9., na 11. dál než na 10. a na 12. dál než na 11.; a na tomto 12. bodě bude celý její výstřel {tiro} po přímce, protože bude kolmý k obzoru, a bude dokonaleji přímý než kterýkoli z předchozích. Neboť dráha čili násilný pohyb {moto uiolente}[^1] stejnorodě těžkého tělesa, které je mimo kolmici k obzoru, nemůže mít nikdy žádnou část dokonale přímou (jak bylo řečeno u druhého předpokladu druhé knihy naší Nové vědy).
+- typ: odstavec
+  de: |-
+    S. D. Perche diceti adunque per linea retta, non essendo perfettamente retta.
+  cs: |-
+    **Pan vévoda.** Proč tedy říkáte „po přímce“, když [dráha] není dokonale přímá?
+- typ: odstavec
+  de: |-
+    N. Per esser inteso dal uolgo, perche quella parte, che è quasi insensibelmente curua, la chiamamo retta, & quella che è euidentamente curua, li dicono curua.
+  cs: |-
+    **Nicolò.** Abych byl srozumitelný obecnému lidu: tu část, která je téměř nepostřehnutelně zakřivená, nazýváme přímou, a tu, která je zřetelně zakřivená, nazývají křivou.
+- typ: odstavec
+  de: |-
+    S. D. Seguitati.
+  cs: |-
+    **Pan vévoda.** Pokračujte.
+- typ: odstavec
+  de: |-
+    N. Hor per ritornare al nostro proposito, dico adunque, che se la altezza della predetta fortezza fosse tanta, che da quella à le artegliarie, che fusseno nel piano del monte, fusse .760. passa, & che dalla medema fortezza à quelle artegliarie, che fusseno nella summita del monte, fusse solamente passa .130. in questo caso dico, che la sopra detta colobrina faria mazzor effetto nelle muraglie di detta fortezza, stante quella ne la sommita del monte, di quello faria, stante nel pie dil monte. La causa è, perche la detta colobrina (stante aliuellata) tira circa passa .200. per linea retta (come di sopra fu detto) Essendo adunque da quella à la muraglia passa .130. (come fu supposto) lei ueneria à percuotere ne la detta muraglia circa per .70. passa auanti al termine dil suo andar per linea retta: Ma stante quella nel pie dil monte (dal qual luoco alla detta muraglia è sta supposto esser diametralmente passa .760.) & elleuandola alla elleuatione de .45. gradi (cioè al .6. ponto della nostra squadra) tirara circa passa .800. per linea retta (come di sopra fu detto) onde lei ueneria à percuotere nella detta muraglia solamente circa per passa .40. auanti il termine del suo andar per linea retta, cioè auanti la sua sensibil declinatione. Et perche quella balla che nel suo percotere hauera à transire per piu longo spatio (non trouando resistentia) fara maggior effetto in tal resistente (per le ragioni adutte sopra la .4. propositione del primo libro della nostra noua scientia) perche adunque la balla tirata da la sommita del monte nel suo percottere haueria anchora à andare passa .70. per linea retta. Et quella tirata dal piano, nel suo percottere haueria à procedere solamente passa .40. per linea retta, & per queste ragioni se conchiuderia in tal caso, che maggior effetto faria la detta colobrina in detta muraglia, stante quella ne la sommita del monte di quello faria stante nel piano, ouero pie dil monte alla elleuatione del detto .6. ponto della
+  cs: |-
+    **Nicolò.** Abych se tedy vrátil k našemu předmětu, pravím: kdyby výška zmíněné pevnosti {fortezza} byla tak velká, že by od ní k dělům {artegliarie} stojícím na rovině pod horou bylo 760 kroků {passa} a od téže pevnosti k dělům na vrcholu hory jen 130 kroků, pak pravím, že v tom případě by výše zmíněná kolubrina {colobrina} měla na hradbách {muraglie} té pevnosti větší účinek, když stojí na vrcholu hory, než když stojí na úpatí hory. Příčina je ta, že zmíněná kolubrina (ve vodorovné poloze) střílí po přímce asi 200 kroků (jak bylo řečeno výše); je-li tedy od ní k hradbě 130 kroků (jak bylo předpokládáno), zasáhla by hradbu asi 70 kroků před koncem své dráhy po přímce. Kdežto stojí-li na úpatí hory (odkud je k hradbě podle předpokladu přímou čarou 760 kroků) a zvedne-li se na elevaci {elleuatione} 45 stupňů (tj. na 6. bod našeho kvadrantu), dostřelí po přímce asi 800 kroků (jak bylo řečeno výše), takže by hradbu zasáhla jen asi 40 kroků před koncem své dráhy po přímce, tj. před svým znatelným sklonem {sensibil declinatione}. A koule {balla}, která by při svém nárazu měla [ještě] proběhnout delší prostor (kdyby nenarazila na odpor), bude mít v takové překážce větší účinek (z důvodů uvedených u 4. věty první knihy naší Nové vědy). Protože tedy koule vystřelená z vrcholu hory by při svém nárazu měla ještě letět 70 kroků po přímce, kdežto koule vystřelená z roviny by při svém nárazu měla postoupit po přímce jen 40 kroků, z těchto důvodů by se v takovém případě usoudilo, že zmíněná kolubrina by měla v hradbě větší účinek, když stojí na vrcholu hory, než když stojí na rovině čili na úpatí hory při elevaci zmíněného 6. bodu
+poznamky:
+- n: 1
+  text: |-
+    Pohyb vnucený kouli výbuchem prachu, na rozdíl od přirozeného pohybu (pádu). Závorka před „come fu detto“ není v tisku uzavřena.

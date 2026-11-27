@@ -1,0 +1,76 @@
+id: 001v
+list: '[1] v'
+strana: verso
+sken: 2
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    LA PRESENTE OPERA E' DIuisa in noue libri, la continentia di ciascun di loro summariamente di sotto si narra.
+  cs: |-
+    Toto dílo je rozděleno do devíti knih; obsah každé z nich je níže stručně vyložen.
+- typ: odstavec
+  de: |-
+    NEl primo libro si tratta, delli tiri & effetti delle artegliarie, secondo le sue uarie elleuationi, & secondo la uaria position delle mire con altri suoi strani accidenti. a car. 5
+  cs: |-
+    V první knize se pojednává o dostřelech {tiri} a účincích dělostřelectva {artegliarie} podle jeho rozličných elevací {elleuationi} a podle rozličného postavení mířidel {mire}, spolu s jinými jeho podivuhodnými jevy. – Na [[005r|listu 5]].
+- typ: odstavec
+  de: |-
+    Nel secondo si manifesta la differentia, che occorre fra li tiri, & effetti fatti con balle di piombo, di ferro, ouer di pietra, con altre sotilita circa la proportion peso & misura delle dette balle. a car. 32
+  cs: |-
+    Ve druhé se objasňuje rozdíl, jaký je mezi dostřely a účinky koulí {balle} olověných, železných nebo kamenných, s dalšími jemnostmi o proporci {proportion}, váze a míře těchto koulí. – Na [[032r|listu 32]].
+- typ: odstavec
+  de: |-
+    Nel tertio se notifica le specie di salnitri, & le uarie compositioni delle poluere usata da nostri antichi & moderni sperimentatori. a car. 73
+  cs: |-
+    Ve třetí se vykládají druhy ledku {salnitri} a rozličná složení prachu {poluere}, jichž užívali naši dávní i noví zkoumatelé. – Na listu 73.[^1]
+- typ: odstavec
+  de: |-
+    Nel quarto si da el modo di saper ordinar li esserciti in battaglia sotto uarie & diuerse forme, con un modo di saper tramutar in un subito una ordinanza in forma quadra di gente, in una forma cunea senza desordinar la prima ordinanza & altre. a char. 43
+  cs: |-
+    Ve čtvrté se podává způsob, jak stavět vojska {esserciti} do šiku {battaglia} v rozličných a rozmanitých tvarech, se způsobem, jak rázem proměnit šik {ordinanza} čtvercový co do mužstva {forma quadra di gente} v klín {forma cunea}, aniž se původní šik rozvrátí, a jiné věci. – Na [[043r|listu 43]].
+- typ: odstavec
+  de: |-
+    Nel quinto libro se insegna il modo di mettere rettamente il disegno con el Bossolo, li siti, Paesi, & le piante delle Città, con el modo de fabicar il detto Bossolo in dui modi. a carte. 55
+  cs: |-
+    V páté knize se vyučuje, jak pomocí buzoly {Bossolo} správně zakreslit polohy míst, krajiny a půdorysy {piante} měst, a jak tuto buzolu zhotovit dvojím způsobem. – Na [[055r|listu 55]].
+- typ: odstavec
+  de: |-
+    Nel sesto libro si narra, il modo, che si doueria osseruar nel fortificar le Città a questi tempi per ouiar alli uigorosi colpi delle artegliarie per uigor della forma. a car. 64
+  cs: |-
+    V šesté knize se vykládá, jakého způsobu by se mělo v dnešní době dbát při opevňování {fortificar} měst, aby se silou samotného tvaru [opevnění] čelilo mocným ranám dělostřelectva. – Na [[064r|listu 64]].
+- typ: odstavec
+  de: |-
+    Nella gionta del detto sesto libro, si mostra dui modi de fortificar una Città, luno di quali per se la redusse inespugnabile, et che non potra esser battuta ne daneggiata da nemici con le artegliarie, ne potra esser minata, ne impite le fosse, et l'altro sara tale, che ruuinandogli le mura si fara quasi piu forte che con le mura, con altre particolarita. a car. 71
+  cs: |-
+    V dodatku {gionta} k této šesté knize se ukazují dva způsoby, jak opevnit město: první z nich je samo o sobě učiní nedobytným {inespugnabile}, takže je nepřátelé nebudou moci ostřelovat ani poškodit děly, nebude je možné podkopat minami {minata} ani zasypat jeho příkopy {fosse}; druhý bude takový, že když mu hradby {mura} rozbijí, stane se téměř silnějším, než bylo s hradbami; s dalšími podrobnostmi. – Na [[071r|listu 71]].
+- typ: odstavec
+  de: |-
+    Nel settimo libro si manifesta alcuni dubbij, che mouer si posseno sopra li principij delle questioni Mecanice de Aristotile, per acuir li pelegrini ingegni. a car. 78
+  cs: |-
+    V sedmé knize se předkládají některé pochybnosti, které lze vznést proti základům Aristotelových Mechanických otázek[^2], ke zbystření vzácných duchů. – Na [[078r|listu 78]].
+- typ: odstavec
+  de: |-
+    Nel ottauo libro si tratta della scientia di Pesi demostratiuamente, per mezzo della qual scientia non solamente si puo conoscere & sapere la forza de l'huomo, ma anchora trouar modo, di augumentar quella con artificiosi istrumenti in infinito. a car. 83
+  cs: |-
+    V osmé knize se důkazně pojednává o nauce o vahách[^3], pomocí níž lze nejen poznat a zjistit sílu člověka, ale také nalézt způsob, jak ji důmyslnými nástroji rozmnožit do nekonečna. – Na [[083r|listu 83]].
+- typ: odstavec
+  de: |-
+    Nel nono libro si da regola & modo di saper risoluere uarij & diuersi casi, ouer questioni in Arithmetica, in Geometria, & in la Pratica speculatiua de l'arte Magna, detta Algebra & almucabala, uolgarmente detta la Regola della cosa, & massime sopra le Regole de cose e cubi eguali a numero, dal presente Autor ritrouate, & simelmente de censi e cubi & altri suoi edderenti, li quali da sapienti erano giudicati impossibili. a car. 98
+  cs: |-
+    V deváté knize se podává pravidlo a způsob, jak řešit rozličné a rozmanité případy čili úlohy v aritmetice, v geometrii a ve spekulativní praxi Velikého umění, zvaného algebra a almukabala, lidově pravidlo věci[^4], a zvláště o pravidlech pro věci a krychle rovné číslu, která nalezl tento autor, a podobně o čtvercích a krychlích a jiných jim příbuzných [případech], které učenci pokládali za neřešitelné. – Na [[098r|listu 98]].
+poznamky:
+- n: 1
+  text: |-
+    Tisková chyba: třetí kniha začíná na listu 37 ([[037r|list 37]]), nikoli 73 – číslice jsou přehozeny.
+- n: 2
+  text: |-
+    Pseudoaristotelský spis Mechanika (Mechanika problémata, lat. Quaestiones mechanicae) o páce, kladce a dalších jednoduchých strojích.
+- n: 3
+  text: |-
+    „Scientia di pesi“ – středověká nauka o vahách a rovnováze (scientia de ponderibus, Jordanus de Nemore), předchůdkyně statiky.
+- n: 4
+  text: |-
+    „Regola della cosa“ – italské označení algebry: neznámá se nazývala „cosa“ (věc), její druhá mocnina „censo“, třetí „cubo“. „Cose e cubi eguali a numero“ jsou kubické rovnice typu x³ + px = q, jejichž řešení Tartaglia nalezl roku 1535 a roku 1539 důvěrně sdělil Girolamu Cardanovi; ten je otiskl v díle Ars magna (1545), což vyvolalo slavný spor. „Censi e cubi“ jsou rovnice typu x³ + px² = q. Kniha IX v této edici zatím přeložena není.

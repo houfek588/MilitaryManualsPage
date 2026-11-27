@@ -1,0 +1,68 @@
+id: 021v
+list: '21'
+strana: verso
+sken: 42
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    tirara piu che con li tre manco, et cosi con cinque manco tirara piu che con quattro manco, et cosi andaria procedendo per fin à un certo termine medio fra questi dui estremi, el qual termine gionto che ui se fusse haueria questa dignita in se, che chi cargasse poi tal pezzo con men poluere lui tiraraue manco, et simelmente che ui dasse piu poluere, anchora tiraraue manco.
+  cs: |-
+    dostřelilo by dál než se třemi méně, a tak s pěti méně dál než se čtyřmi méně. A tak by to pokračovalo až k jisté střední hranici mezi oběma krajnostmi; a když by se jí dosáhlo, měla by v sobě tu vlastnost, že kdyby se pak dělo {pezzo} nabilo menším množstvím prachu {poluere}, dostřelilo by méně, a podobně kdyby se mu dalo víc prachu, dostřelilo by také méně.
+- typ: odstavec
+  de: |-
+    P. Certamente questa è una bella speculatione, et molto mi piace, perche in uero conosco, che fra dui istremi diuersi in proprieta eglie necessario esserui un perfetto mezzo.
+  cs: |-
+    **Převor.** Jistě je to krásná úvaha {speculatione} a velmi se mi líbí, neboť věru poznávám, že mezi dvěma krajnostmi rozdílných vlastností musí být dokonalý střed.
+- typ: odstavec
+  de: |-
+    SERVO. Signor el passa l'hora da cena.
+  cs: |-
+    **Sluha.** Pane, hodina večeře už minula.
+- typ: odstavec
+  de: |-
+    P. Horsu chel se ceni.
+  cs: |-
+    **Převor.** Nuže, ať se večeří.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO DECIMOQVARTO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: |-
+    Čtrnáctý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Qual credeti sia meglio à calcar benissimo la poluere in un pezzo ouer à lassarla alquanto dispersa, e rara.
+  cs: |-
+    **Převor.** Co myslíte, že je lepší: prach v děle velmi dobře upěchovat, nebo jej nechat poněkud rozptýlený a řídký?
+- typ: odstavec
+  de: |-
+    N. In tutti gli istremi contrari bisogna fondarse sul mezzo, cioè, che la non uuol esser molto calcata, ne molto dispersa, perche la poluere molto, e molto calcata fa maggior resistentia al ingresso del fuoco, di quello faria essendo alquanto rara, & per tanto la poluere molto, e molto calcata pena piu tempo ad esser consumata dal fuoco, di quello faria, se quella fusse alquanto rara, & quanto piu tempo pena una poluere ad esser consumata dal fuoco, tanto piu deboli segue li suoi effetti, & è conuerso, cioe, che quanto piu presto uien risolta in fuoco tanto piu uigorosamente spinge la balla, perche la sua uirtu, ouer possanza piu unitamente opera. Il medesimo quasi seguita, essendo molto dispersa, & rara, & massime in forma longa, come si uede seguir nelle sementelle, che si costumano per uoler dar fuoco à qualche cosa stando da lontano, delle qual sementelle prima abbrusa quella parte, che se ritroua nel capo di tal sementella doue ui si da fuoco, & successiuamente ua continuando, cioè abbrusando di mano in mano, per fin chel fuoco aggionge all'altro capo, & quanto piu è longa tal sementella, tanto piu tempo pena tal poluere ad esser totalmente consumata dal fuoco. Il medesimo uoglio inferire delle artegliarie, che quanto piu se lassa la poluere dispersa, & rara quella occupa piu della canna, cioè tal forma di poluere uien à esser piu longa, e pero piu tempo ui uuol ad esser totalmente consumata dal fuoco, e per tanto li suoi effetti non saranno cosi uigorosi. Concludesi adunque, che la poluere molto e molto calcata nel pezzo, ouer molto dispersa e rara indebilisse gli effetti di tal pezzo, e pero bisogna fondarse nel termine di mezzo (come di sopra è detto) & non nelli istremi, cioe, che quella sia non molto calcata, ne molto rara.
+  cs: |-
+    **Nicolò.** Ve všech protikladných krajnostech je třeba držet se středu, to jest prach nemá být ani příliš upěchovaný, ani příliš rozptýlený. Velmi, velmi upěchovaný prach totiž klade vnikání ohně větší odpor, než kdyby byl poněkud řídký; a proto velmi, velmi upěchovanému prachu trvá déle, než jej oheň stráví, než kdyby byl poněkud řídký. A čím déle prachu trvá, než jej oheň stráví, tím slabší jsou jeho účinky, a naopak: čím rychleji se promění v oheň, tím mocněji žene kouli {balla}, protože jeho síla čili moc působí soustředěněji. Skoro totéž nastává, je-li prach velmi rozptýlený a řídký, a zvláště je-li v protáhlém tvaru, jak je vidět na prachových stopách {sementelle},[^1] které se obvykle dělají, když se chce něco zapálit zdálky. Z takové stopy nejprve shoří ta část, která je na tom konci, kde se dává oheň, a pak to postupně pokračuje, totiž hoří kousek po kousku, dokud oheň nedojde k druhému konci; a čím delší je taková stopa, tím déle trvá, než oheň prach zcela stráví. Totéž chci vyvodit o dělech {artegliarie}: čím víc se prach nechá rozptýlený a řídký, tím víc zabírá z hlavně {canna}, to jest prachová náplň je delší, a proto potřebuje víc času, než ji oheň zcela stráví, a její účinky tedy nebudou tak mocné. Uzavírá se tedy, že prach v děle velmi, velmi upěchovaný nebo velmi rozptýlený a řídký oslabuje účinky děla, a proto je třeba držet se střední míry (jak bylo řečeno výše), a ne krajností, totiž aby prach nebyl ani příliš upěchovaný, ani příliš řídký.
+- typ: odstavec
+  de: |-
+    P. Questa uostra openione molto mi consona.
+  cs: |-
+    **Převor.** Tento váš názor se mi velmi zamlouvá.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO DECIMOQVINTO FATTO DAL detto Signor Prior di Barletta.
+  cs: |-
+    Patnáctý dotaz, který položil řečený pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Qual è la causa che con un schioppo se tira piu rettamente, & piu lontano de mira, che non se fa con uno archibuso, et tamen lo archibuso fara maggior effetto, ouer passata in un commun tramite del schioppo.
+  cs: |-
+    **Převor.** Jaká je příčina, že z ručnice {schioppo} se střílí podle mířidel {de mira} příměji a dál než z arkebuzy {archibuso}, a přece arkebuza má na obvyklou vzdálenost {tramite} větší účinek čili průraz {passata} než ručnice?
+- typ: odstavec
+  de: |-
+    N. Questo procede, che le balle delli archibusi debbono esser forsi piu grosse di quelle di schioppi, & la
+  cs: |-
+    **Nicolò.** To pochází odtud, že koule arkebuz jsou snad větší než koule ručnic, a
+poznamky:
+- n: 1
+  text: Sementella – prachová stopa (dráha nasypaného prachu), kterou se zapalovalo z bezpečné vzdálenosti, např. miny nebo náboj v děle; srov. sedmnáctý dotaz, kde ji Tartaglia doporučuje k zapálení zatlučených děl ústím.

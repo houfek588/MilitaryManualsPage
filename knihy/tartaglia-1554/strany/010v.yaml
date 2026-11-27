@@ -1,0 +1,41 @@
+id: 010v
+list: '10'
+strana: verso
+sken: 20
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    nostra squadra), & se alla detta elleuatione dil .6. ponto lei fara manco effetto, molto meno lei lo faria ad alcuna altra piu bassa elleuatione. Ma se per caso la distantia de detta fortezza alle artegliarie, che fusseno nel piano fusse passa .600. cioè diametralmente, & che dalla medema à quelle che fusseno nella sommita del monte fusse passa .150. in tal caso dico, che la detta colobrina fara molto maggiore effetto nella detta muraglia stante nel piano (ouer pie dil monte alla elleuatione del detto .6. ponto.) di quello faria stante nella sommita del monte, perche stante nel piano le balle tirate da quella ueniranno à percuottere nella detta muraglia circa à passa .200. auanti il termine dil suo procedere per linea retta, Et quelle tirate dalla sommita del monte ueneriano à percuotere solamente à passa .50. auanti al termine del suo andar per linea retta, & perche la differentia de detti effetti, cioè dalli .50. passa, alli .200. (che feriscono auanti la sua sensibel declimatione) è circa passa .150. e per tanto la detta colobrina non solamente alla elleuatione del sesto ponto della nostra squadra: ma anchora alla elleuatione del quinto ponto, fara maggior el detto effetto: ma di questo non uoglio star à farne dimostratione, perche so che ueneria in fastidio à quella. Adunque, se in una cosi grande altezza (quala in questo ultimo caso hauemo supposta) la detta colobrina faria maggior effetto (stante quella nel piano alla elleuatione del .6. & etiam del .5. ponto) di quello faria stante la medema nella sommita del monte, molto piu euidentamente seguiria tal effetto nel primo caso proposto da V. Ec. nel quale fu supposto il monte, et etiam la fortezza, essere egualmente alti solamente passa .60. & la distantia delle radice delli dui monti, ouer le cime de quelli esser passa .100. onde la linea diametrale, ouer diagonale, cioè la distantia de detta fortezza al luoco à costo alla radice del monte, doue se suppone el star delle artegliarie in piano, per la penultima del primo di Euclide sara circa passa .116. (lassando li rotti) e per tanto, le balle tirate dalla detta nostra colobrina, stante quella nella sommita del monte, ueriano à percuottere nella detta muraglia circa à passa .140. auanti al termine del suo procedere per linea retta, & quelle tirate dalla medesima stante quella nel piano alla elleuatione del .6. ponto ueneriano à percottere nella detta muraglia, circa passa .684. auanti al termine del suo andar per linea retta, & perche tal differentia è grandissima, cioè da .140. passa à .684. passa, che feriscono auanti al termine del suo andar per linea retta. Eglie cosa euidente, e chiara, in questo caso, che non solamente alla elleuatione del .6. ponto, la detta colobrina stante nel pie del monte, fara maggior effetto in detta fortezza di quello faria stante nella sommita. Ma anchora alla elleuatione di qual si uoglia ponto, che sia elleuata, che è il proposito.
+  cs: |-
+    našeho kvadrantu {squadra}); a má-li [kolubrina] na zmíněné elevaci 6. bodu menší účinek, tím méně by jej měla na kterékoli jiné, nižší elevaci {elleuatione}. Kdyby však náhodou vzdálenost zmíněné pevnosti {fortezza} od děl {artegliarie} stojících na rovině byla 600 kroků {passa}, totiž přímou čarou, a od téže pevnosti k dělům na vrcholu hory 150 kroků, pak pravím, že v tom případě bude mít zmíněná kolubrina {colobrina} na zmíněné hradbě {muraglia} mnohem větší účinek, když stojí na rovině (čili na úpatí hory s elevací zmíněného 6. bodu), než by měla, kdyby stála na vrcholu hory. Neboť když stojí na rovině, zasáhnou koule {balle} z ní vystřelené zmíněnou hradbu asi 200 kroků před koncem své dráhy po přímce {linea retta}, kdežto koule vystřelené z vrcholu hory by ji zasáhly jen 50 kroků před koncem své dráhy po přímce; a rozdíl těchto účinků, totiž mezi 50 a 200 kroky (o které zasahují před svým znatelným sklonem {sensibel declimatione}), činí asi 150 kroků. Proto bude mít zmíněná kolubrina tento větší účinek nejen při elevaci šestého bodu našeho kvadrantu, ale i při elevaci pátého bodu; to však nechci dokazovat, neboť vím, že by to Vaši Excelenci obtěžovalo. Jestliže tedy při tak veliké výšce (jakou jsme předpokládali v tomto posledním případě) by zmíněná kolubrina měla větší účinek (když stojí na rovině s elevací 6. a také 5. bodu), než by měla tatáž [kolubrina] na vrcholu hory, mnohem zřetelněji by tento účinek nastal v prvním případě, který Vaše Excelence předložila: v něm se předpokládalo, že hora i pevnost jsou stejně vysoké, jen 60 kroků, a vzdálenost úpatí obou hor čili jejich vrcholů 100 kroků. Proto přímá čili úhlopříčná čára, tj. vzdálenost zmíněné pevnosti od místa vedle úpatí hory, kde mají podle předpokladu stát děla na rovině, bude podle předposlední [věty] první [knihy] Eukleidovy[^1] asi 116 kroků (bez zlomků). Koule vystřelené z naší zmíněné kolubriny, když stojí na vrcholu hory, by tedy zasáhly hradbu asi 140 kroků[^2] před koncem své dráhy po přímce, kdežto koule vystřelené z téže [kolubriny], když stojí na rovině s elevací 6. bodu, by hradbu zasáhly asi 684 kroků před koncem své dráhy po přímce. A protože je tento rozdíl velmi veliký, totiž mezi 140 a 684 kroky, o které zasahují před koncem své dráhy po přímce, je v tomto případě zřejmé a jasné, že zmíněná kolubrina, stojí-li na úpatí hory, bude mít v té pevnosti větší účinek, než kdyby stála na vrcholu, a to nejen při elevaci 6. bodu, ale při elevaci na kterýkoli bod, což bylo dokázati.
+- typ: odstavec
+  de: |-
+    S. D. Me haueti risolto assai bene questo Quesito.
+  cs: |-
+    **Pan vévoda.** Tento dotaz {Quesito} jste mi rozřešil velmi dobře.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO TERZO FATTO DAL MEDESIMO Illustrissimo Signor Duca consequentemente.
+  cs: |-
+    Třetí dotaz, který v návaznosti položil týž nejosvícenější pan vévoda
+- typ: odstavec
+  de: |-
+    DVCA. Ma nel uostro arguire me haueti reduto in un'altra maggior difficulta, ouer dubitatione, perche se ben ui aricordati, haueti detto, che la balla sboccata che sia d'un pezzo, mai ua parte alcuna del suo motto per linea retta, saluo che tirandola rettamente in suso uerso il cielo.
+  cs: |-
+    **Pan vévoda.** Ale svým dokazováním jste mě přivedl do jiné, větší obtíže čili pochybnosti; neboť jestli si dobře vzpomínáte, řekl jste, že koule {balla}, jakmile vyletí z ústí děla {pezzo}, nikdy neletí žádnou částí svého pohybu po přímce, leda by byla vystřelena přímo vzhůru k nebi.
+- typ: odstavec
+  de: |-
+    N. Ouer rettamente in zoso uerso il centro dil mondo?
+  cs: |-
+    **Nicolò.** Nebo přímo dolů ke středu světa?
+poznamky:
+- n: 1
+  text: |-
+    Eukleidés, Základy I.47 (Pythagorova věta): √(100² + 60²) ≈ 116,6 kroku.
+- n: 2
+  text: |-
+    Číslo 140 neodpovídá výpočtu: při vodorovném dostřelu po přímce 200 kroků a vzdálenosti 100 kroků by koule zasáhla hradbu asi 100 kroků před koncem přímé dráhy (srov. 800 − 116 = 684 u děla na rovině). Jde patrně o chybu tisku nebo autorovu nepřesnost; v textu ponecháno.

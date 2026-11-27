@@ -1,0 +1,34 @@
+id: 053r
+list: '53'
+strana: recto
+sken: 105
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    all'improuiso uno essercito in forma cunea, eglie quasi impossibile che li nemici possano, oue sappiano formar la forfice da opponerui, talmente che se ueniria ad hauer
+  cs: |-
+    znenadání převede vojsko {essercito} do klínového tvaru {forma cunea}, je téměř nemožné, aby nepřítel mohl nebo dovedl vytvořit nůžky {forfice} a postavit je proti němu, takže by se získala
+- typ: obrazek
+  soubor: drevorez-105.jpg
+  popis: >-
+    Výsledek přeměny čtverce z 25 písmen v klín: písmena se posunula šikmo vpřed (k pravému hornímu
+    rohu) a seřadila se do trojúhelníku s hrotem v písmenu e; vpravo nahoře svislý nápis „fronte“
+    (čelo). Horní řada a b c d e, pod ní posunuté řady f g h i k, l m n o p, q r ſ t u a x y z & ꝯ
+    tvoří šikmé linie směřující k hrotu; drobné tečky vlevo a dole označují uprázdněná původní místa.
+- typ: odstavec
+  de: |-
+    grande auantaggio, come se uerifico di sopra nel settimo Quesito, perche à mi me pare che una battaglia cunea sia sempre atta e sofficiente à rompere ogni altra battaglia in forma quadra di terreno, come che al presente si costuma, anchor che quella fusse di gente, ouer de fanti un tanto e mezzo de piu, domente, che quelli della forma cunea siano ben istrutti del modo del ferire (detto nel settimo Quesito.)
+  cs: |-
+    veliká výhoda, jak se ukázalo výše v sedmém dotazu; neboť se mi zdá, že klínový šik {battaglia cunea} je vždy schopen a dost silný, aby rozbil každý jiný šik ve tvaru čtverce co do plochy {forma quadra di terreno}, jak je dnes zvykem, i kdyby ten měl lidí neboli pěšáků {fanti} půldruhakrát víc – jen když budou ti v klínovém tvaru dobře vycvičeni ve způsobu útoku (popsaném v sedmém dotazu).
+- typ: nadpis
+  uroven: 3
+  de: QVESITO DECIMOTERZO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: Třináctý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Io ho pensato assai questa notte sopra à quella trasmutatione de hiersera, & à tutte quelle altre uarieta di forme, di che hauemo fin à questa hora parlato, & certamente el non si puo negare, che le non siano cose molto ingeniose, & atte à dare alle uolte honoratamente una uittoria, anchor che li nimici fusseno un tanto e mezzo piu di nostri, come dissi anchor hiersera, nondimeno non sono di tanta autorita, quanto che à questi tempi bisognaria, perche contra à una potentia, come è quella del Turco, comprendo, che alcuna de loro non saria sofficiente a darli noia, la causa è, che quello è sempre atto a fare, & fa continuamente (come sapeti) uno essercito di tre, & quattro tanta moltitudine de fanti de noi Christiani, delli caualli poi non ne parlo, che sempre ne ha una infinita, da non comparare alli nostri. E pero uolendo essere sicuri di potersi opporre sicuramente a quello in campagna, el bisognaria inuestigare qualche altro artificioso modo di ordinare uno essercito de fantaria, che fusse atto, & sicuro di poter resistere in una nuda campagna a uno altro essercito almen di tre tanta moltitudine de fanti, & che anchora el fusse sicuro di non poter esser turbato,
+  cs: |-
+    **Převor.** Této noci jsem hodně přemýšlel o oné včerejší přeměně a o všech ostatních rozmanitých tvarech, o nichž jsme až dosud hovořili. Jistě nelze popřít, že jsou to věci velmi důmyslné a schopné někdy přinést čestné vítězství, i kdyby nepřátel bylo půldruhakrát víc než našich, jak jsem říkal už včera večer; přesto nemají takovou váhu, jakou by v dnešní době bylo třeba. Neboť chápu, že proti takové moci, jako je moc Turka {Turco}, by žádný z nich nestačil na to, aby mu uškodil. Příčina je ta, že on je vždy schopen postavit a stále staví (jak víte) vojsko třikrát a čtyřikrát početnější v pěšácích než my křesťané – o jízdě {caualli} ani nemluvím, té má vždy nekonečné množství, s naší nesrovnatelné. Chceme-li si tedy být jisti, že se mu dokážeme bezpečně postavit v poli, bylo by třeba vyhledat nějaký jiný důmyslný způsob, jak sestavit vojsko z pěchoty {fantaria}, které by bylo s jistotou schopno odolat v otevřeném poli jinému vojsku nejméně třikrát početnějšímu v pěšácích a které by si také bylo jisto, že nemůže být zmateno

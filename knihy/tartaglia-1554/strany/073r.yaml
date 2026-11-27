@@ -1,0 +1,34 @@
+id: 073r
+list: '73'
+strana: recto
+sken: 145
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SECONDO FATO CONSEQVENTEMENTE dal medesimo Magnifico, & Eccellentissimo Dottor, Signor Marc'Antonio Morosini.
+  cs: Druhý dotaz, který vzápětí položil týž urozený a nejvznešenější doktor, pan Marcantonio Morosini
+- typ: odstavec
+  de: |-
+    SIGNOR MARC'ANTONIO. Ma ditime un pnco, uolendo uoi, che tutte le cortine, che hanno da circondare tal citta procedano secondo l'ordine de le predette, doue uorete poi, che siano fatte le porte necessarie à tal citta.
+  cs: |-
+    **Pan Marcantonio.** Ale povězte mi trochu:[^1] když chcete, aby všechny kurtiny {cortine}, které mají takové město {citta} obklopovat, probíhaly podle řádu těch předešlých, kde pak chcete, aby se udělaly brány {porte}, jichž je takovému městu třeba?
+- typ: odstavec
+  de: |-
+    N. Signor Magnifico, tutte le porte necessarie à tal citta, uoglio, che siano fatti in quelli angoli ingolfati uerso la citta, cioe, doue, che nella figura passata fu fatto il baluardo .b. percha tai angoli, ouer luochi sono le piu sicure parti di tutto il contorno di tal citta. Ma bisogna farle far con tal modo, e forma, che dalla banda destra, & sinistra di quella ui se gli possa accommodar dui, ouer tre sacri, che guardino non solamente l'una, e l'altra cortina, & simelmente li dui circostanti baluardi, insiene con el fosso, ma anchora quella uia coperta dal argine, cioe, che fu lassata fra l'argine, & il fosso, ouer fossa, la qual cosa sara facilissima da fare, et simelmente, far sopra alla detta porta, cioe nella summita de la cortina, fra li dui caualleretti, un luoco di poterui assettar tre, ouer quattro sacri, che possino tirare, & guardare à longo per tutto quel spacio ingolfato, & massime per longo alli argini, cioe doue procedono le lettere .m.l.k.i.n.o. & anchora per quella uia coperta, & nella campagna isteriore, uero è, che lo ingresso di andare alla detta porta non uoglio, che si faccia nel argine .k.h.i. Anci uoglio, che tal ingresso sia fatto in quel interuallo de argine, che è fra le due lettere .l. & .m. ouer, che è fra .n. & .o. & tal ingresso, ouer intrata si debbe far con una porta soda, ouer con un ponte leuatore, che habbia un poco di fossetta sotto, & cosi tal ingresso sara sicurissimo, perche tutti quelli, che uoranno intrar dentro di tal citta, ò siano carri, caualli, ouer pedoni, sara necessario, che per un pezzo camineno per quella uia coperta à quelli di fuora, ma tutta discoperta à quelli, che saranno sopra le cortine della citta sotto à quelli argenetti piu uolte detti, nelli quali luochi, oltra li falconetti, ui puo stare sicuramente molti archibuseri, come fu detto nel principio, e pero se li nemici con qualche inganno pigliasseno tal ingresso, porta, ouer ponte, nanti che potessono peruenir alla principal porta, da piu bande saranno rebattuti, & mal trattati, & la detta porta principale hauera commodita, & tempo abondante da esser serrata, & quella serrata, che sia, li nemici saranno sforzati (se non uoranno morire) à torse fuora di tal uia, & ritornarsene alli suoi alloggiamenti con suo grandissimo danno, & uergogna per esser tal uia in ogni loco discoperta à quelli, che saranno sopra la summita della cortina, & anchora alli baluardi, et caualleretti, come di sopra fu detto, uero é, che tal uia dal primo ingresso per fin alla porta principale della citta uuol esser tanto larga, che incontrandosi dui carri carghi l'uno possa dar luoco all'altro di passare.
+  cs: |-
+    **Nicolò.** Urozený pane, všechny brány, jichž je takovému městu třeba, chci udělat v oněch úhlech zalomených dovnitř k městu, totiž tam, kde byla na minulém obrazci udělána bašta {baluardo} b., protože tyto úhly neboli místa jsou nejbezpečnějšími částmi celého obvodu takového města. Je však třeba dát je udělat takovým způsobem a v takovém tvaru, aby se po pravé i levé straně brány daly umístit dva nebo tři sakry {sacri}, které by střežily nejen jednu i druhou kurtinu a rovněž obě sousední bašty spolu s příkopem {fosso}, ale i onu cestu krytou náspem {argine}, totiž tu, která byla ponechána mezi náspem a příkopem; to bude velmi snadné udělat. A podobně udělat nad touto branou, totiž na temeni kurtiny mezi oběma malými kavalíry {caualleretti}, místo, kam by se daly postavit tři nebo čtyři sakry, které by mohly střílet a střežit podélně celý onen zálivový prostor, a zvláště podél náspů, totiž kudy probíhají písmena m.l.k.i.n.o., a také podél oné kryté cesty {uia coperta} a do vnějšího předpolí {campagna}. Je ovšem pravda, že vstup vedoucí k této bráně nechci udělat v náspu k.h.i., nýbrž chci, aby se tento vstup udělal v tom úseku náspu, který je mezi písmeny l. a m., nebo v tom, který je mezi n. a o.; a tento vstup neboli vjezd se má udělat s pevnou branou nebo se zdvíhacím mostem {ponte leuatore}, pod nímž je malý příkop. Tak bude tento vstup velmi bezpečný, protože všichni, kdo budou chtít vstoupit do takového města, ať vozy, koně nebo pěší, budou muset kus cesty jít po té cestě, která je krytá vůči těm venku, ale zcela odkrytá vůči těm, kdo budou na kurtinách města pod oněmi několikrát zmíněnými náspky {argenetti}; na těchto místech může kromě falkonetů {falconetti} bezpečně stát mnoho arkebuzírů {archibuseri}, jak bylo řečeno na začátku. Kdyby se tedy nepřátelé nějakou lstí zmocnili tohoto vstupu, brány nebo mostu, budou dříve, než by mohli dojít k hlavní bráně, z více stran odraženi a zle pocuchováni, a hlavní brána bude mít příležitost a dostatek času, aby se zavřela. A jakmile se zavře, nepřátelé budou nuceni (nechtějí-li zemřít) z té cesty ustoupit a vrátit se do svých táborů s největší škodou a hanbou, protože ta cesta je všude odkrytá vůči těm, kdo budou na temeni kurtiny, a také vůči baštám a malým kavalírům, jak bylo řečeno výše. Je ovšem pravda, že tato cesta má být od prvního vstupu až k hlavní bráně města tak široká, aby se dva naložené vozy, když se potkají, mohly jeden druhému vyhnout.
+- typ: odstavec
+  de: |-
+    S. M. Certamente, che questa uostra prima forma è molto artificiosamente composta, tal che à me pare esser inespugnabile. Et uoi dite, che la è la piu trista de tutte le altre, & io non posso imaginare, come sia possibile de megliorarla, ma per esser hora tarda, uoglio, che poniamo fine à tal ragionamento.
+  cs: |-
+    **Pan Marcantonio.** Věru, tento váš první tvar je složen velmi důmyslně, takže se mi zdá nedobytný {inespugnabile}. A vy říkáte, že je nejhorší ze všech ostatních, a já si neumím představit, jak by bylo možné jej vylepšit. Ale protože je už pozdní hodina, chci, abychom tento rozhovor ukončili.
+- typ: odstavec
+  de: |-
+    N. Al piacer di quella.
+  cs: |-
+    **Nicolò.** Jak se Vaší Urozenosti líbí.
+poznamky:
+- n: 1
+  text: V tisku tiskové chyby „pnco“ (poco), níže „percha“ (perche) a „insiene“ (insieme); ponechány.

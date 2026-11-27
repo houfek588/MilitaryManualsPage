@@ -1,0 +1,34 @@
+id: 057v
+list: '57'
+strana: verso
+sken: 114
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    istrumento alla detta bacchetta posta in ponto .a. hor poniamo che ui sia passa .54. hor dico, che di tutto questo se ne debbe far memoria sopra una policetta in questa forma, cioe à gradi tre de Sirocco uerso Ostro passa .54. fatto questo, el si de uoltar la detta dioptra (stando pero lo istrumento sempre fermo e fisso secondo el suo ordine) talmente, che per el medesimo modo el si ueda l'altra bacchetta che seguita, poniamo quella posta in ponto .b. & uisto, et notato el grado, etiam la distantia, che sara dal pie del nostro istrumento per fin al ponto .b. sopra la nostra polizetta alla similitudine dell'altra, & con tal modo, e uia si de procedere à cadauna delle altre tre bacchette poste nelli altri tre angoli, ouer cantoni .c.d, & .e. & per abbreuiar scrittura, poniamo che le dette cinque distantie annotate sopra alla detta polizetta uadano, & siano tanto quanto qua di sotto appare, perche cosi debbono esser notate.
+  cs: |-
+    nástroje k oné tyčce {bacchetta} postavené v bodě a; předpokládejme, že je to 54 kroků {passa}. Pravím tedy, že o tom všem je třeba učinit záznam na lístku {policetta} v této podobě, totiž: 3 stupně od jihovýchodu {Sirocco} k jihu {Ostro}, 54 kroků. Když je to hotovo, je třeba otočit dioptrou {dioptra} (přičemž nástroj stále stojí pevně a nehnutě podle svého řádu) tak, abychom stejným způsobem uviděli další tyčku, která následuje, řekněme tu postavenou v bodě b. Když ji uvidíme, zapíšeme na náš lístek stupeň a také vzdálenost od paty našeho nástroje až k bodu b, podobně jako u první. A týmž způsobem a postupem je třeba pokračovat u každé z ostatních tří tyček, postavených v ostatních třech úhlech čili rohách c, d a e. A abychom zkrátili psaní, předpokládejme, že těch pět vzdáleností zapsaných na lístku vychází a činí tolik, kolik je vidět zde níže, neboť takto mají být zapsány.
+- typ: tabulka
+  de:
+  - [A gradi. 3. de Sirocco uerso Ostro, passa. 54.]
+  - [A gradi. 29. de Greco uerso Leuante, passa. 63.]
+  - [A gradi. 28. de Tramontana uerso Greco, passa. 81.]
+  - [A gradi 9. de Maistro uerso Ponente, passa. 72.]
+  - [A gradi. 5. de Garbino uerso Ostro, passa. 62.]
+  cs:
+  - ['3 stupně od jihovýchodu k jihu', '54 kroků']
+  - ['29 stupňů od severovýchodu {Greco} k východu {Leuante}', '63 kroků']
+  - ['28 stupňů od severu {Tramontana} k severovýchodu', '81 kroků']
+  - ['9 stupňů od severozápadu {Maistro} k západu {Ponente}', '72 kroků']
+  - ['5 stupňů od jihozápadu {Garbino} k jihu', '62 kroků']
+- typ: odstavec
+  de: |-
+    Hor fatto questo, se de cauare lo istrumento, & andarsene à casa con la sopradetta sua poliza, & quando li pare di uoler mettere in dissegno quella tal figura de paese sopra una carta, ouer tela primamente el si debbe distendere quella tal carta, ouer tela sopra una tabula pianissima, & sopra à quella imbroccaruela, ouer taccaruela con cera talmente, che la non si possa muouere, & dapoi tirare una linea retta, in mezzo di quella tal carta, ouer tela alla similitudine della sottoscritta linea .a.b. & al mezzo di quella assettarui el detto nostro istrumento, talmente, che la detta linea uenghi à passar per el centro del detto istrumento, & che anchor el detto istrumento ui stia sopra ben agiustato, cioe, che la sua lanzetta stia secondo el suo debito ordine (piu uolte detto) & dapoi da l'una e l'altra parte del detto istrumento el se die distinguere quella parte della detta linea .a.b. che uien à esser sotto al istrumento (cioe coperta da quello) da quella, che é discoperta con dui piccoli ponti, quali siano li dui ponti .c. & .d. et questo si fa per poter ritrouar con facilita el luoco, doue se ripossi el centro del detto istrumento, perche la detta parte .c.d. uien à esser equal al diametro del detto istrumento, & pero nel mezzo di quella, cioe in ponto .e. se riposara el centro del detto istrumento. Dapoi che se hauera fatte queste cose, el si de signar .5. ponti sopra alla detta carta à torno del istrumento secondo l'ordine della nostra polizetta, cioe uno à dirimpetto alli .3. gradi de Sirocco uerso Ostro, & cosi un'altro à derimpetto delli .29. gradi de Greco uerso Leuante, cosi un'altro à dirimpetto delli .28. gradi de Tramontana uerso Greco, & un'altro alli .9. gradi de Maistro uerso Ponente, & un'altro alli .5. gradi di Garbino uerso Ostro el giusto loco da segnar li sopradetti .5. ponti si troua per mezzo della dioptra, cioe uoltando prima la detta dioptra talmente, che la se ripossi giustamente alli detti .3. gradi de Sirocco uerso Ostro, & secondo l'ordine di quel poco brazzo della detta dioptra, che passa fuora del istrumento, signar el detto ponto su la carta
+  cs: |-
+    Když je to hotovo, je třeba nástroj vytáhnout a odejít se zmíněným lístkem {poliza} domů. A když se pak rozhodne zakreslit onen obrazec krajiny {paese} na papír nebo plátno, je třeba nejprve ten papír či plátno rozprostřít na co nejrovnější desku a na ní ho připevnit hřebíčky nebo přilepit voskem tak, aby se nemohl pohnout. Potom se doprostřed toho papíru či plátna vede přímka, podobná níže nakreslené přímce a b, a doprostřed ní se usadí náš nástroj tak, aby ta přímka procházela středem nástroje a aby nástroj na ní byl také dobře vyrovnán, totiž aby jeho střelka {lanzetta} stála podle svého náležitého řádu (jak bylo mnohokrát řečeno). Potom je třeba na obou stranách nástroje oddělit tu část přímky a b, která je pod nástrojem (totiž jím zakrytá), od té, která je odkrytá, dvěma malými body, jimiž budou body c a d. To se dělá proto, aby se dalo snadno znovu najít místo, kde ležel střed nástroje: část c d je totiž rovna průměru nástroje, a proto v jejím středu, totiž v bodě e, bude ležet střed nástroje. Když je to všechno uděláno, je třeba vyznačit na papíře okolo nástroje pět bodů podle pořadí na našem lístku {polizetta}: jeden naproti 3 stupňům od jihovýchodu k jihu, další naproti 29 stupňům od severovýchodu k východu, další naproti 28 stupňům od severu k severovýchodu, další u 9 stupňů od severozápadu k západu a další u 5 stupňů od jihozápadu k jihu. Správné místo pro vyznačení těchto pěti bodů se najde pomocí dioptry: nejprve se dioptra otočí tak, aby ležela přesně na zmíněných 3 stupních od jihovýchodu k jihu, a podle onoho krátkého ramínka dioptry, které přečnívá ven z nástroje, se vyznačí ten bod na papíře
+- typ: obrazek
+  soubor: drevorez-114.jpg
+  popis: Vodorovná přímka s body A (levý konec), C, E, D a B (pravý konec); úsek C–D odpovídá průměru buzoly, E (vyznačený tečkou) je jeho střed, kde ležel střed nástroje.

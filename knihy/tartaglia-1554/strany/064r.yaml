@@ -1,0 +1,71 @@
+id: 064r
+list: '64'
+strana: recto
+sken: 127
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: LIBRO SESTO DELLI QVESITI, ET INVENTIONI DIVERSE, DE NICOLO TARTAGLIA.
+  cs: Šestá kniha Rozličných otázek a vynálezů Niccola Tartaglii
+- typ: odstavec
+  de: |-
+    Sopra il modo di fortificar le Citta rispetto alla forma.
+  cs: |-
+    O způsobu opevňování {fortificar} měst se zřetelem k jejich tvaru.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO PRIMO FATTO DAL S. GABRIEL Tadino, Cauallier de Rodi, & Prior di Barletta.
+  cs: První dotaz, který položil pan Gabriel Tadino, rytíř rhodský a převor barlettský[^1]
+- typ: odstavec
+  de: |-
+    PRIORE. Non credeti uoi che lo ingegno dell'huomo al presente sia peruenuto à quel sublime grado doue sia possibile à peruenire, per fortificare una citta.
+  cs: |-
+    **Převor.** Nemyslíte, že lidský důmysl dospěl v dnešní době k onomu nejvyššímu stupni, jehož lze v opevňování města dosáhnout?
+- typ: odstavec
+  de: |-
+    N. Di questo non ui saprei rispondere, perche non solamente ho praticato poco per Italia, & manco fuor de Italia, ma da dodeci anni in qua mai son stato fuora di Venetia, saluo una uolta che andai à Verona per un mio negocio quasi à staffetta.
+  cs: |-
+    **Nicolò.** Na to bych vám nedovedl odpovědět, protože nejenže jsem málo cestoval po Itálii a ještě méně mimo Itálii, ale už dvanáct let jsem nebyl z Benátek pryč, kromě jednoho případu, kdy jsem jel po svém obchodě do Verony, a to skoro jako kurýr.[^2]
+- typ: odstavec
+  de: |-
+    P. Mo non uedesti Padoua, & Verona, non haueti anchora uisto Bressa uostra Patria.
+  cs: |-
+    **Převor.** Copak jste neviděl Padovu a Veronu? A Brescii, své rodné město, jste snad také neviděl?
+- typ: odstavec
+  de: |-
+    N. Padoua ho uisto per transito simplicemente in trauersarla per andare alle barche dal Frassine, ma non considerata. Similmente ho uisto Verona, & stantiato per diece anni in quella, ma mai la circondai, ne manco considerai, la figura del contorno di quella. La causa fu che à quel tempo non mi dilettaua de tai particolarita, ne mai hebbi in animo di dilettarmene in conto alcuno, ma questi sospetti, & mouimenti Turcheschi me hanno dato nuouamente occasione di ponerui alquanto cura, come cosa utile, & necessaria, & quello che ho detto di Verona, il medesimo dico di Bressa (Patria mia) & similmente di Crema, Bergamo, & Millano. Le quai citta tutte le ho uedute quando era giouene, & gargione. Ma non considerata la forma delle mura di alcuna di quelle, eglie ben uero, che quando stantiaua à Verona, io fui alcune uolte à San Georgio, & uidi à quella porta esserui principiati alcuni fondamenti di mura di una ismisurata grossezza, & similmente me aricordo hauer uisto à cadauna delle altre porte certi bastioni, torrioni, ouer baluardi, alcuni solamente principiati, alcuni meggi fatti, & alcuni compiti, di una grossezza inestimabile, ma come ho detto, mai possi cura alla forma del contorno di quella, il medesimo dico hauer uisto Bressa (Patria mia) & stantiato per tutta la mia pueritia, in quella, & me aricordo delli suoi grossissimi terrai, muri, et torrioni, ma non della forma.
+  cs: |-
+    **Nicolò.** Padovu jsem viděl jen mimochodem, když jsem jí projížděl k lodím u Frassine,[^3] ale neprohlížel jsem si ji. Stejně tak jsem viděl Veronu a bydlel jsem v ní deset let, ale nikdy jsem ji neobešel dokola, ani jsem si nevšímal tvaru jejího obvodu. Příčina byla ta, že mě v té době takové podrobnosti netěšily a nikdy jsem neměl v úmyslu se jimi jakkoli zabývat; teprve tyto obavy a turecké pohyby[^4] mi nyní daly příležitost věnovat jim trochu péče jako věci užitečné a nutné. A co jsem řekl o Veroně, to říkám i o Brescii (svém rodném městě) a stejně tak o Cremě, Bergamu a Miláně. Všechna tato města jsem viděl, když jsem byl mladý, ještě chlapec, ale tvar hradeb {mura} žádného z nich jsem si neprohlížel. Je ovšem pravda, že když jsem bydlel ve Veroně, byl jsem několikrát u brány San Giorgio[^5] a viděl jsem, že tam byly založeny základy hradeb nezměrné tloušťky, a rovněž si vzpomínám, že jsem u každé z ostatních bran viděl jakési bašty {bastioni}, věže {torrioni} čili bastiony {baluardi}, některé teprve založené, některé napůl hotové a některé dokončené, nesmírné tloušťky; ale jak jsem řekl, nikdy jsem nevěnoval pozornost tvaru jejího obvodu. Totéž říkám o Brescii (svém rodném městě), kterou jsem viděl a v níž jsem bydlel po celé své dětství: vzpomínám si na její převeliké valy {terrai}, zdi a věže, ale ne na její tvar.
+- typ: odstavec
+  de: |-
+    P. Mo hauendo uisto quelli fondamenti de mura, & torrioni cosi grossissimi di Verona, et quelli grossissimi terrai, mura, & torrioni, che circonda Bressa, non poteti far giudicio della sua fortezza.
+  cs: |-
+    **Převor.** Ale když jste viděl ty tak převeliké základy hradeb a věží ve Veroně a ty převeliké valy, hradby a věže, které obklopují Brescii, nemůžete posoudit jejich pevnost?
+- typ: odstavec
+  de: |-
+    N. Lo ingegno dell'huomo, nel fortificar una citta (secondo il mio parere) se conosce per la forma, & non per la materia, perche à fortificare una citta simplicemente per uigore, & forza de materia. La non mi pare cosa molto ingeniosa, ne di molte laude degna.
+  cs: |-
+    **Nicolò.** Lidský důmysl se při opevňování města (podle mého mínění) pozná podle tvaru, a ne podle hmoty, neboť opevnit město prostě silou a mohutností hmoty, to se mi nezdá věc nijak důmyslná ani hodná velké chvály.
+- typ: odstavec
+  de: |-
+    P. Io non ue intendo troppo bene.
+  cs: |-
+    **Převor.** Moc dobře vám nerozumím.
+- typ: odstavec
+  de: |-
+    NIC. Io dico, che à fortificare una Citta ui concorre la materia, & la forma, & che lo ingegno dello huomo se approua per la forma delle sue mura, & non per la materia,
+  cs: |-
+    **Nicolò.** Říkám, že při opevňování města spolupůsobí hmota i tvar a že lidský důmysl se osvědčuje tvarem jeho hradeb, a ne hmotou,
+poznamky:
+- n: 1
+  text: Gabriele Tadino da Martinengo (asi 1480–1543), vojenský inženýr a dělostřelec, rytíř řádu johanitů (rhodských rytířů), účastník obrany Rhodu 1522, převor johanitského převorství v Barlettě a později generál dělostřelectva císaře Karla V.
+- n: 2
+  text: A staffetta – „jako štafeta“, tj. ve spěchu, rychlou jízdou jako kurýr. Tartaglia žil ve Veroně asi do roku 1534, poté v Benátkách.
+- n: 3
+  text: Frassine – patrně říční přístaviště na vodní cestě z Padovy (např. na Frassine/Fratta jižně od Padovy, nebo zkomolenina Fusina, odkud se plulo do Benátek); identifikace nejistá.
+- n: 4
+  text: Narážka na osmanskou hrozbu ve 30. a 40. letech 16. století (benátsko-turecká válka 1537–1540), která v Benátkách vyvolala rozsáhlé opevňovací práce.
+- n: 5
+  text: Porta San Giorgio ve Veroně; Benátčané v letech po válce Cambrayské ligy (po 1517) znovu budovali veronské opevnění, mj. pod vedením Michele Sanmicheliho.

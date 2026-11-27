@@ -1,0 +1,54 @@
+id: 022r
+list: '22'
+strana: recto
+sken: 43
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    grauita della balla offende assai piu della uelocita di quella, essempi gratia essendo un schioppo, che tiri di lontano retto tramite passa.400.con una balla di peso di mezza onza, & un archibuso, che retto tramite tiri solamente passa.300.ma con una balla, che pesi una onza, hor dico, che in un tramite di.100.ouer.150.passa, lo archibuso fara maggior passata del schioppo, quantunque in tal luoco la balla del schioppo uada piu ueloce per le ragioni adutte nella quarta propositione del primo libro della nostra noua scientia, di quella del archibuso. Et pero essendo, come dice uostra signoria, di ragione la balla dello archibuso debbeno esse piu grosse, che quelle de schioppi.
+  cs: |-
+    tíha koule {balla} působí mnohem větší škodu než její rychlost. Mějme například ručnici {schioppo}, která přímou drahou {retto tramite} dostřelí do vzdálenosti 400 kroků {passa} s koulí o váze půl unce {onza}, a arkebuzu {archibuso}, která přímou drahou dostřelí jen 300 kroků, ale s koulí o váze jedné unce. Pravím tedy, že na vzdálenost 100 nebo 150 kroků bude mít arkebuza větší průraz {passata} než ručnice, ačkoli koule ručnice tam letí rychleji než koule arkebuzy, z důvodů uvedených ve čtvrté větě první knihy naší Nové vědy.[^1] A proto, je-li tomu tak, jak říká Vaše Milost, musí být koule arkebuzy rozumně vzato větší než koule ručnic.
+- typ: odstavec
+  de: |-
+    P. Senza dubbio, che gli archibusi portano generalmente maggior balla de schioppi, uero è, che sono alcune sorte de schioppi, che portano balle alla equalita de alcuni archibusi.
+  cs: |-
+    **Převor.** Bez pochyby nesou arkebuzy obecně větší kouli než ručnice; je ovšem pravda, že jsou některé druhy ručnic, které nesou koule stejné jako některé arkebuzy.
+- typ: odstavec
+  de: |-
+    N. Ma quando fusse un schioppo, che portasse tanta balla, quanto che facesse un archibuso, & che tal schioppo tirasse piu rettamente, ouer piu lontano di mira, di quello tal archibuso, senza dubbio in distantie equale, lo schioppo fara maggior passata del archibuso.
+  cs: |-
+    **Nicolò.** Ale kdyby byla ručnice, která by nesla tak velkou kouli jako arkebuza, a kdyby taková ručnice střílela podle mířidel {di mira} příměji čili dál než ona arkebuza, pak bez pochyby na stejné vzdálenosti bude mít ručnice větší průraz než arkebuza.
+- typ: odstavec
+  de: |-
+    P. Questo è cosa rasoneuole, & basta per questa sera.
+  cs: |-
+    **Převor.** To je rozumné, a pro dnešní večer to stačí.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO DECIMOSESTO FATTO DAL detto Signor Prior di Barletta.
+  cs: |-
+    Šestnáctý dotaz, který položil řečený pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Donde procede la causa, che percuotendo con una artegliaria in una naue, ouer galia in mare, el pare che tal artegliaria faccia puoco effetto, ouer passata respetto à quello che solita à far tirando in una muraglia, perche essendo come si sa me si sa ogni naue, ouer galia di tabule di legname onde essendo due, ouer tre naue una appresso l'altra, el pare, che tirando un pezzo grosso in quelle, respetto à quello, che faria tal pezzo in una grossa muraglia, ragioneuolmente le doueria penetrar tutte tre da banda à banda con tutte le bagaglie che ritrouasse per quelle, per esser ogni cosa di legname, & tamen rare uolte accade, che ne possa penetrar una sola da banda à banda, anci la maggior parte delle uolte le balle restano nella naue, ouer galia.
+  cs: |-
+    **Převor.** Odkud pochází příčina, že když se dělem {artegliaria} střílí do lodi {naue} nebo galéry {galia} na moři, zdá se, že dělo má malý účinek čili průraz ve srovnání s tím, jaký obvykle má, když střílí do hradby {muraglia}? Protože každá loď či galéra je, jak víme,[^2] z dřevěných prken, zdálo by se, že kdyby stály dvě nebo tři lodi jedna vedle druhé a vystřelilo se do nich z velkého děla, mělo by je rozumně vzato – ve srovnání s tím, co by to dělo udělalo v silné hradbě – prorazit všechny tři skrz naskrz i se vším nákladem, na který by v nich narazilo, protože všechno je ze dřeva. A přece se jen zřídka stane, že by prorazilo skrz naskrz byť jedinou; naopak koule většinou zůstávají v lodi nebo galéře.
+- typ: odstavec
+  de: |-
+    N. Eglie manifesto per ragion naturale, che quella cosa, che piu impedisce il moto, piu uien spenta, urtata, ouer offesa dalla cosa mobile, ouer percotente per esser adunque la muraglia una cosa stabile, & soda, & che piu impedisse el moto della balla della artegliaria di quello fa una naue, ouer galia essendo quella in el mare, mobile, la qual mobilita fa che la detta naue ouer galia consente alquanto al moto, ouer alla percussione della balla, per il che la balla non fa quel uigoroso effetto, ouer passata, che faria se tal naue, ouer galia fusse ben assettata in terra ferma, si come sono le muraglie. Si che per tal ragione, piu gagliardo effetto fa una artegliaria in una muraglia, ouer in una altra cosa ferma e fissa in terra soda, che non fa in una naue, ouer galia, nel mare mobile. Ma molto maggior effetto fara la detta artegliaria in una naue, ouer galia, che gli uegna alincontro, di quello faria in una, che gli fuggisse dauanti, perche quella, che gli uien alincontro uien contra al moto della balla, & pero la ballo debbe far maggior effetto in quella, che non faria stando quella ferma in mare. Et quella, che gli fuggie dauanti, molto piu ua consentendo alla percussion della balla, di quello faria, se quella stesse in mare ferma, & quieta.
+  cs: |-
+    **Nicolò.** Z přirozeného rozumu je zřejmé, že věc, která pohybu víc překáží, je pohybující se čili narážející věcí víc tlačena, sražena čili poškozena. Hradba je tedy věc pevná a tuhá a pohybu dělové koule překáží víc než loď či galéra, která je na moři pohyblivá; a tato pohyblivost způsobuje, že loď či galéra pohybu čili nárazu koule poněkud povolí, takže koule nemá onen mocný účinek čili průraz, jaký by měla, kdyby loď či galéra byla pevně usazena na souši, jako jsou hradby. Z toho důvodu má tedy dělo mocnější účinek v hradbě nebo v jiné věci pevné a upevněné v tuhé zemi než v lodi či galéře na pohyblivém moři. Mnohem větší účinek však bude mít dělo v lodi či galéře, která mu jede vstříc, než v té, která před ním prchá. Ta, která jede vstříc, se totiž pohybuje proti pohybu koule, a proto v ní koule musí mít větší účinek, než kdyby loď stála na moři nehybně. A ta, která před ním prchá, povoluje nárazu koule mnohem víc, než kdyby stála na moři nehybně a v klidu.
+- typ: odstavec
+  de: |-
+    P. Ve ho inteso benissimo.
+  cs: |-
+    **Převor.** Porozuměl jsem vám výborně.
+poznamky:
+- n: 1
+  text: Nova scientia (Benátky 1537), Tartagliův spis o balistice; ve čtvrté větě (propositione) první knihy dokazuje, že rovnoměrně těžké těleso vržené násilným pohybem letí tím pomaleji, čím dál se vzdaluje od počátku pohybu.
+- n: 2
+  text: V tisku zdvojeně „come si sa me si sa“ – tisková chyba za „come si sa“ (jak víme); ponecháno podle tisku.

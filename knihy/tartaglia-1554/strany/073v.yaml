@@ -1,0 +1,55 @@
+id: 073v
+list: '73'
+strana: verso
+sken: 146
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 3
+  de: QVESITO TERZO FATTO DAL MEDESIMO Magnifico, & Eccellentissimo Dottor, Signor Marc'Antonio Morosini.
+  cs: Třetí dotaz, který položil týž urozený a nejvznešenější doktor, pan Marcantonio Morosini
+- typ: odstavec
+  de: |-
+    SIGNOR MARC'ANTONIO. Non saria buona cosa à far far anchora quel tal argine, & quella uia coperta alle citta, che sono gia fortificate, accio, che li nemici non le potessino battere con le artegliarie, accettuando in quella poca parte apparente di sopra di tai argini.
+  cs: |-
+    **Pan Marcantonio.** Nebylo by dobré dát udělat takový násep {argine} a takovou krytou cestu {uia coperta} i u měst {citta}, která jsou už opevněna, aby je nepřátelé nemohli ostřelovat dělostřelectvem {artegliarie}, kromě oné malé části, která vyčnívá nad takové náspy?
+- typ: odstavec
+  de: |-
+    N. Non signor Magnifico, perche le forme, che si costuma à dare à tai fortificationi nol comportano, anci saria tai argini molto nociui à quelli della citta: perche sotto de quelli (cioe dalla banda de fora) ui potria sicuramente star li nemici, & quelli con trincere potriano penetrar in diuersi luochi li detti argini, & anchora intrar nella fossa, con el farui larghe, & profonde aperture, e per quelle battere in diuersi luochi sicuramente le mura, ouer cortine di tal citta, la qual cosa non puo occorrere nella nostra forma, perche se quella ben se arricorda, la parte de fora dello detto argine, ouer argini (cioe, doue sono le lettere .m.l.k.h.i.n.o. è ottimamente guardata, & difesa da uarie, & diuerse bande.
+  cs: |-
+    **Nicolò.** Ne, urozený pane, protože tvary, jaké se takovým opevněním {fortificationi} obvykle dávají, to nesnesou; naopak by takové náspy byly obráncům města velmi škodlivé. Pod nimi (totiž z vnější strany) by mohli bezpečně stát nepřátelé a zákopy {trincere} by mohli na různých místech proniknout těmito náspy, a dokonce vniknout do příkopu {fossa} tím, že by v nich udělali široké a hluboké průlomy, a jimi pak bezpečně ostřelovat na různých místech hradby {mura} neboli kurtiny {cortine} takového města. To se v našem tvaru nemůže stát, protože, jak si Vaše Urozenost dobře pamatuje, vnější strana uvedeného náspu neboli náspů (totiž tam, kde jsou písmena m.l.k.h.i.n.o.) je znamenitě střežena a bráněna z mnoha různých stran.[^1]
+- typ: odstavec
+  de: |-
+    S. M. Me ne arricordo, et comprendo, che uoi diceti il uero. Questo debbe essere quel modo de fortificare, che preponeti nello ottauo Quesito del uostro sesto Libro: Perche uedo, che quelli della terra potranno andare sicuramente à lauorare, seminare, e riccogliere per tutti quelli spacij di terreno, che se ingolfaranno à torno al circuito di tal citta, simili à quello, che è dentro delle lettere .m.z.4.y.o. ma anchora molto piu in fora delle dette lettere: & oltra di questo tal citta non potra esser battuta, ne danneggiata da nemici con le artegliarie, come se prepone del detto Quesito .8.
+  cs: |-
+    **Pan Marcantonio.** Pamatuji si to a chápu, že mluvíte pravdu. To musí být onen způsob opevňování, který předkládáte v osmém dotazu své šesté knihy. Vidím totiž, že obyvatelé města budou moci bezpečně chodit obdělávat, sít a sklízet po všech těch zálivových prostorech půdy kolem obvodu takového města, podobných tomu, který je uvnitř písmen m.z.4.y.o., a dokonce i mnohem dále vně těchto písmen; a kromě toho takové město nepřátelé nebudou moci ostřelovat ani mu dělostřelectvem škodit, jak se předkládá ve zmíněném osmém dotazu.
+- typ: odstavec
+  de: |-
+    N. Non signor Magnifico, che tal modo non è questo, anci quello assicurara tal paese, per piu di tre tanto lontano dalle mura di tal citta, & con molto e molto manco spesa, di quello intrara in questa sorte de fortificatione, & questo mostraro da far per due diuerse uie, come, che in fine à uostra Eccellentia gli faro uedere.
+  cs: |-
+    **Nicolò.** Ne, urozený pane, ten způsob to není; onen naopak zabezpečí takový kraj {paese} do více než trojnásobné vzdálenosti od hradeb takového města, a to s mnohem a mnohem menším nákladem, než si vyžádá tento druh opevnění. A ukážu, jak to udělat dvěma různými cestami, jak to nakonec Vaší Excelenci předvedu.
+- typ: odstavec
+  de: |-
+    S. M. Certo gran cosa me parera, se uoi me fareti ueder una tal opra con si poca spesa.
+  cs: |-
+    **Pan Marcantonio.** Jistě se mi bude zdát velkou věcí, ukážete-li mi takové dílo s tak malým nákladem.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO QVARTO FATTO DAL MEDESIMO Magnifico, & Eccellentissimo Dottor, Signor Marc'Antonio Morosini.
+  cs: Čtvrtý dotaz, který položil týž urozený a nejvznešenější doktor, pan Marcantonio Morosini
+- typ: odstavec
+  de: |-
+    SIGNOR MARC'ANTONIO. Mi resta da dirui, perche causa uoleti cosi, che langolo fatto delle due cortine in ponto .b. sia ottuso, & non retto, ne acuto.
+  cs: |-
+    **Pan Marcantonio.** Zbývá mi se vás zeptat, z jaké příčiny chcete, aby úhel, který tvoří obě kurtiny v bodě b., byl tupý, a ne pravý ani ostrý.
+- typ: odstavec
+  de: |-
+    N. Perche se langolo .b. fosse retto, ouer acuto (uolendo procedere regolatamente) saria necessario à far li angoli .a. & .c. di quella medesima qualita, & nelli angoli retti, ouer ottusi non ui se puo far baluardo, che uaglia, & questo procede, perche langolo del baluardo è necessario à farlo menore del angolo delle dette cortine, perche, che lo facesse equale, ouer maggior di quello, el saria impossibile tal baluardo à poter esser guardato da alcun delli altri dui circostanti baluardi. Et saria anchora impossibile à poter far in alcun luoco sopra l'una, & l'altra cortina un cauallero, che lo
+  cs: |-
+    **Nicolò.** Protože kdyby úhel b. byl pravý nebo ostrý, bylo by (chceme-li postupovat pravidelně) nutné udělat úhly a. a c. téže povahy; a v pravých nebo tupých[^2] úhlech nelze udělat baštu {baluardo}, která by k něčemu byla. To proto, že úhel bašty je nutné udělat menší než úhel uvedených kurtin; kdyby jej totiž někdo udělal stejný nebo větší, nemohla by takovou baštu střežit žádná z obou sousedních bašt. A rovněž by nebylo možné udělat na žádném místě jedné ani druhé kurtiny kavalír {cauallero}, který by ji mohl
+poznamky:
+- n: 1
+  text: Závorka otevřená před „cioe, doue sono le lettere“ se v tisku nezavírá.
+- n: 2
+  text: V tisku „retti, ouer ottusi“ (pravých nebo tupých); podle smyslu má jít patrně o úhly pravé nebo ostré (acuti) – možná tisková chyba, ponecháno.

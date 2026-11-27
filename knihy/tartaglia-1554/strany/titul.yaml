@@ -1,0 +1,40 @@
+id: titul
+list: titulní list [1] r
+strana: recto
+sken: 1
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: QVESITI ET INVENTIONI DIVERSE DE NICOLO TARTAGLIA,
+  cs: Rozličné otázky {Quesiti} a vynálezy Niccola Tartaglii
+- typ: odstavec
+  de: |-
+    DI NOVO RESTAMPATI CON VNA GIONTA AL SESTO LIBRO, NELLA quale si mostra duoi modi di redur una Città inespugnabile.
+  cs: |-
+    Nově přetištěné s dodatkem {gionta} k šesté knize, v němž se ukazují dva způsoby, jak učinit město nedobytným {inespugnabile}.
+- typ: odstavec
+  de: |-
+    LA DIVISIONE ET CONTINENTIA DI TVTTA l'opra nel seguente foglio si trouara notata.
+  cs: |-
+    Rozdělení a obsah celého díla nalezneš zaznamenány na následujícím listu.
+- typ: odstavec
+  de: CON PRIVILEGIO
+  cs: S privilegiem[^1]
+- typ: obrazek
+  soubor: drevorez-1.jpg
+  popis: |-
+    Dřevořezový portrét autora do pasu: vousatý muž v plochém baretu a širokém plášti, levou rukou s pečetním prstenem svírá u prsou okraj pláště. V tisku pod portrétem (mimo výřez) je podstavec, na němž leží lístek se jménem „NICOLO TARTALEA“ (Nicolò Tartaglia); na čelní straně podstavce drobný nápis „LE INVENTIONI SONO DIFFICILE MA LO AGIONGERE È FACILE“ – vynalézat je obtížné, ale přidávat [k vynalezenému] snadné.
+- typ: odstavec
+  de: |-
+    APPRESSO DE L'AVTTORE MDLIIII.
+  cs: |-
+    U autora, MDLIIII [1554].[^2]
+poznamky:
+- n: 1
+  text: |-
+    Tiskové privilegium Benátské republiky, které autorovi zaručovalo na určitou dobu výhradní právo dílo tisknout a prodávat.
+- n: 2
+  text: |-
+    „Appresso de l'auttore“ – vydáno nákladem a v prodeji u autora (Tartaglia vydával svá díla sám); tiskařem byl Niccolò de Bascarini. Jde o druhé vydání, první vyšlo v Benátkách roku 1546.

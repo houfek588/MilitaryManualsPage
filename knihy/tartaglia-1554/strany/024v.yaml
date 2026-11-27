@@ -1,0 +1,44 @@
+id: 024v
+list: '24'
+strana: verso
+sken: 48
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    discargarse se elleuo talmente che andete con la bocca in terra, & in tanto che io tendeua à ragunar facchini con stanghe per ritornar tal pezzo al suo luoco un cagnolino uolse andar (come accade) à nasare la bocca di tal pezzo, & subito che il detto cagnolino fu gionto alla bocca di tal pezzo, immediate lo detto pezzo lo tiro dentro della canna, la qual cosa uista dalli circostanti, alcuni corse per aiutare il detto cagnolino, & lo trouorno esser stato tirato quasi in capo della canna, cioe quasi in capo del uacuo della canna di tal pezzo, pur lo cauorno, come morto, non so quello che dapoi seguisse de lui, ma credo che morisse, hor che ue pare di questo.
+  cs: |-
+    výstřelu vzepjalo tak, že dopadlo ústím na zem. Zatímco jsem sháněl nosiče {facchini} se sochory, abychom to dělo {pezzo} vrátili na jeho místo, šel se jeden pejsek (jak už to bývá) očichat k ústí toho děla; a sotva pejsek k ústí děla došel, dělo ho okamžitě vtáhlo dovnitř hlavně {canna}. Když to přihlížející uviděli, někteří přiběhli pejskovi na pomoc a zjistili, že byl vtažen skoro až na konec hlavně, to jest skoro až na dno vývrtu {uacuo} toho děla. Vytáhli ho sice, ale jako mrtvého; nevím, co se s ním potom stalo, ale myslím, že pošel. Co tomu říkáte?
+- typ: odstavec
+  de: |-
+    N. Di questa cosa non me ne marauiglio, perche un pezzo per il molto tirar, diuenta caldo, & per tal caldezza (come fu detto nel quinto quesito) quel tal pezzo si fa attrattiuo, cioe alla similitudine di una uentosa, quando ui è arsa di dentro la stoppa. E pero non è marauiglia, che sorbesse suso quel tal cagnolino, anci credo, che quando un tal pezzo è molto caldo se uno ui andasse ad appoggiar la pancia nuda alla bocca di quello, colui in tal luoco ui restaria talmente appreso, che con difficulta ui se distaccaria. Et molto piu attrattiuo tal pezzo diuentaria in tal caso, che ui atturasse, ouer astroppasse quel busetto doue se gli da il fuoco.
+  cs: |-
+    **Nicolò.** Tomu se nedivím, neboť dělo se mnohou střelbou rozpálí, a tímto žárem (jak bylo řečeno v pátém dotazu) se stává sacím, podobně jako baňka {uentosa},[^1] když se v ní spálí koudel. Proto není divu, že toho pejska nasálo dovnitř; ba myslím, že kdyby si někdo k ústí takového velmi rozpáleného děla přiložil holé břicho, přisál by se k němu tak, že by se jen stěží odtrhl. A takové dělo by sálo ještě mnohem silněji, kdyby se ucpala neboli zazátkovala ta dírka, kudy se mu dává oheň.[^2]
+- typ: odstavec
+  de: |-
+    B. Questa uostra ragione mi consona molto.
+  cs: |-
+    **Dělostřelec.** Tento váš výklad se mi velmi zamlouvá.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO VIGESIMOSECVNDO FATTO da uno Gettador di Artegliaria.
+  cs: |-
+    Dvacátý druhý dotaz, který položil jeden slévač děl {Gettador di Artegliaria}
+- typ: odstavec
+  de: |-
+    GETTADORE. Donde procede che di tutte le artegliarie che creppano, la maggior parte creppano, de drio doue sta la poluere, ouer alla bocca, & rare uolte nel meggio, uero è che del creppar nella parte de drio doue sta la poluere non me ne marauiglio, perche in tal luoco la poluere ui mostra ogni sua possanza, ma del creppare in bocca ne stago molto ammiratiuo, perche à me mi pare che piu presto doueria creppar nel meggio della canna che alla bocca, perche la essalatione del salmitrio alla bocca ui troua luoco largo da sborare, cosa che non troua cosi di dentro nel meggio della canna.
+  cs: |-
+    **Slévač.** Čím to je, že ze všech děl {artegliarie}, která se roztrhnou, se jich většina roztrhne vzadu, kde je prach {poluere}, nebo u ústí, a jen zřídka uprostřed? Že se trhají vzadu, kde je prach, se ovšem nedivím, protože tam prach projevuje veškerou svou sílu; ale nad tím, že se trhají u ústí, velmi žasnu, neboť se mi zdá, že by se spíš měla roztrhnout uprostřed hlavně {canna} než u ústí. U ústí totiž výpar {essalatione} ledku nachází široké místo, kudy uniknout, což uvnitř, uprostřed hlavně, nenachází.
+- typ: odstavec
+  de: |-
+    N. Circa à questa cosa bisogna pensare, che ogni mouente puo riceuere due difficulta, ouer nocumenti nel mouere un corpo rotondo graue che stia riposato è quieto nel mouerlo per trasuerso la prima è à mouerlo nel principio, perche dapoi che mosso sia non ui ha tanta difficulta à mantenerlo continuamente in moto, l'altra difficulta che puo riceuere tal mouente è questa, che dapoi che ha mouesto quel tal corpo rotondo, e graue, e quel redutto in moto continuo, ouer successiuo per trauerso ritrouando poi alcuno repentino ostacolo, ouer, resistente à tal moto, tal mouente riceue nocumento assai. Et per tanto dico, che à quella essalatione di uento causata dal salnitrio, dapoi che è generata nel pezzo ui occorre due gran difficulta, la prima è à mouere cosi repentinamente la balla ripossante quieta, e pero in tal accidente subitano trouandosi il pezzo in tal luoco debole di metallo, ouer di metallo, nel getto mal consolidato, ouer piu sottile da una banda che dall'altra, facilmente in tal luoco creppa, ma se per caso il metallo di tal luoco resista gagliardamente tanto che tal essalatione moue la balla, mossa che sia dal suo luoco, non ui è piu pericolo in tal parte di creppare (saluo se à tal balla non ui occorresse dentro dal pezzo qualche strano accidente (come in fine se dira,)
+  cs: |-
+    **Nicolò.** K této věci je třeba uvážit, že každá hybná síla {mouente} může při pohybování těžkého kulatého tělesa, které je v klidu a nehybné, do strany utrpět dvojí obtíž neboli újmu. První je uvést ho do pohybu na počátku, neboť když je jednou v pohybu, není již tak obtížné udržovat ho v pohybu nepřetržitě. Druhá obtíž, kterou může taková hybná síla utrpět, je tato: když už to kulaté a těžké těleso uvedla do pohybu a udržuje ho v nepřetržitém neboli postupném pohybu do strany, a ono pak narazí na nějakou náhlou překážku neboli odpor proti tomu pohybu, utrpí hybná síla velkou újmu. Proto pravím, že onen výpar větru {essalatione di uento} vzniklý z ledku {salnitrio} má, jakmile se v děle zrodí, dvě velké obtíže. První je pohnout tak náhle koulí {balla}, která leží v klidu; a proto, je-li dělo na tom místě slabé v kovu, nebo má-li tam kov při lití špatně slitý, anebo je-li na jedné straně tenčí než na druhé, při takové náhlé příhodě se na tom místě snadno roztrhne. Odolá-li však kov na tom místě natolik pevně, že výpar kouli pohne, pak když je jednou pohnuta ze svého místa, nehrozí již, že by se dělo na tom místě roztrhlo (leda by se koule uvnitř děla setkala s nějakou zvláštní nehodou (jak bude řečeno na konci),
+poznamky:
+- n: 1
+  text: Uentosa – lékařská baňka; po spálení koudele uvnitř vznikne při ochlazení podtlak a baňka se přisaje k tělu. Tartaglia stejně vysvětluje „sání“ rozpáleného děla (s odkazem na pátý dotaz První knihy).
+- n: 2
+  text: Busetto doue se gli da il fuoco – zápal (focone), kudy se zapaluje nálož.

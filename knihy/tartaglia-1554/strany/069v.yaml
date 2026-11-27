@@ -1,0 +1,69 @@
+id: 069v
+list: '69'
+strana: verso
+sken: 138
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    uostro padre, perche ue chiamati cosi Nicolo Tartaglia.
+  cs: |-
+    vašeho otce, proč se jmenujete Nicolò Tartaglia?
+- typ: odstavec
+  de: |-
+    N. Io ue diro, quando che li Francesi saccheggiorno Bressa (nel qual sacco fu preso la bona memoria del Magnifico messer Andrea Gritti (à quel tempo Proueditore) & fu menato in Franza, oltra che ne fu sualisata la casa (anchor che poco ui fusse) ma piu, che essendo io fuggito nel domo di Bressa insieme con mia madre, & mia sorella, & molti altri huomini, & donne della nostra contrata, credendone in tal luoco esser salui almen della persona, ma tal pensier ne ando falito, perche in tal chiesa, alla presentia di mia madre mi fur date cinque ferite mortale, cioe tre su la testa (che in cadauna la panna del ceruello si uedeua) & due su la fazza, che se la barba non me le occultasse, io pareria un mostro, fra le quale una ue ne haueua à trauerso la bocca, & denti, la qual della massela, & palato superiore me ne fece due parti, & el medesimo della inferiore: per la qual ferita, non solamente io non poteua parlare (saluo, che in gorga, come fanno le gazzole) ma nanche poteua manzare, perche io non poteua mouere la bocca, nelle massele in conto alcuno, per esser quelle (come detto) insieme con li denti tutte fraccassate, talmente, che bisognaua cibarme solamente con cibi liquidi, & con grande industria. Ma piu forte che à mia madre, per non hauer cosi il modo da comprar li unguenti (non che da tuor medico) fu astretta à medicarme sempre di sua propria mano, & non con unguenti, ma solamente con el tenermi nettate le ferite spesso, & tolse tal essempio dalli cani, che quando quelli si trouano feriti, si sanano solamente con el tenersi netta la ferita con la lingua. Con la qual cautella, in termine di pochi mesi me ridusse à bon porto, hor per tornare al nostro proposito, essendo io quasi guarrito di tale, et tai ferite, stetti un tempo, che io non poteua ben proferire parole, ma sempre balbutaua nel parlare, per causa di quella ferita à trauerso della bocca, & denti (non anchor ben consolidata) per il che li putti della mia eta con chi conuersaua, me imposero per sopra nome Tartaglia. Et perche tal cognome me duro molto tempo, per bona memoria di tal mia disgratia, me apparso de uolermi chiamare per Nicolo Tartaglia.
+  cs: |-
+    **Nicolò.** Povím vám to. Když Francouzi vyplenili Brescii[^1] (při tom plenění byl zajat blahé paměti urozený pan Andrea Gritti, tehdy providur {Proueditore},[^2] a odvezen do Francie), nejenže nám vyloupili dům (ačkoli v něm bylo málo), ale co hůř: utekl jsem se s matkou, sestrou a mnoha dalšími muži a ženami z naší čtvrti do brescijského dómu v domnění, že na takovém místě zachráníme aspoň holý život; ale ta naděje nás zklamala. V tom kostele mi totiž před očima mé matky zasadili pět smrtelných ran: tři na hlavu (v každé z nich byla vidět mozková blána) a dvě do obličeje, takže kdyby mi je nezakrýval vous, vypadal bych jako netvor. Jedna z nich mi šla napříč ústy a zuby a rozťala mi horní čelist i patro ve dví, a stejně tak dolní čelist. Kvůli té ráně jsem nejen nemohl mluvit (leda hrdlem, jako to dělají straky), ale ani jíst, protože jsem nemohl ústy v čelistech vůbec pohnout, neboť byly (jak řečeno) i se zuby celé roztříštěné, takže jsem se musel živit jen tekutou stravou, a to s velkou námahou. A ještě hůř: moje matka, protože neměla prostředky ani na koupi mastí (natož aby vzala lékaře), byla nucena léčit mě vždy vlastní rukou, a ne mastmi, nýbrž jen tak, že mi rány často čistila. Vzala si příklad ze psů, kteří, když jsou zraněni, se uzdravují jen tím, že si ránu udržují čistou jazykem. Takovou péčí mě během několika měsíců postavila na nohy. Abych se tedy vrátil k věci: když jsem se z té a takových ran skoro zotavil, nemohl jsem nějaký čas dobře vyslovovat slova, ale pořád jsem při řeči koktal, a to kvůli té ráně napříč ústy a zuby (ještě ne dobře zhojené). Proto mi chlapci mého věku, s nimiž jsem se stýkal, dali přezdívku Tartaglia.[^3] A protože mi toto příjmení vydrželo dlouho, rozhodl jsem se na dobrou památku toho svého neštěstí jmenovat se Nicolò Tartaglia.
+- typ: odstavec
+  de: |-
+    P. Di che eta erate uoi à quel tempo.
+  cs: |-
+    **Převor.** Kolik vám tehdy bylo let?
+- typ: odstavec
+  de: |-
+    N. De anni .12. uel circa.
+  cs: |-
+    **Nicolò.** Asi dvanáct.
+- typ: odstavec
+  de: |-
+    P. Certamente la fu cosa molto crudele à ferire un putto di quella eta, auisandoui, che mi marauigliaua di tal uostro stranio cognome, perche à me mi parcua di non hauer mai alduto ne sentito à nominar una tal casata in Bressa.
+  cs: |-
+    **Převor.** Věru, byla to velká krutost zranit chlapce toho věku. A dávám vám na vědomí, že jsem se divil tomuto vašemu podivnému příjmení, protože se mi zdálo,[^5] že jsem nikdy v Brescii o takovém rodu neslyšel.
+- typ: odstavec
+  de: |-
+    N. La cosa sta precisamente, come ho narrato à uostra Reuerentia.
+  cs: |-
+    **Nicolò.** Věc se má přesně tak, jak jsem Vaší Důstojnosti vyprávěl.
+- typ: odstavec
+  de: |-
+    P. Che fu uostro precettore.
+  cs: |-
+    **Převor.** Kdo byl vaším učitelem?
+- typ: odstavec
+  de: |-
+    N. Auanti, che mio padre morisse, fui mandato alquanti mesi à scola di leggere, ma perche à quel tempo io era molto piccolo, cioe di eta de anni cinque in sei, non me aricordo el nome di tal maestro, uero è, che essendo poi di eta di anni .14. uel circa. Andei uolontariamente circa giorni .15. à scola de scriuere da uno chiamato maestro Francesco, nel qual tempo imparai a fare la. A. b. c. per fin al k. de lettra mercantesca.
+  cs: |-
+    **Nicolò.** Než můj otec zemřel, byl jsem na několik měsíců poslán do školy čtení, ale protože jsem byl tehdy velmi malý, totiž v pěti až šesti letech, nepamatuji si jméno toho mistra. Je ovšem pravda, že když mi pak bylo asi čtrnáct let, chodil jsem dobrovolně asi patnáct dní do školy psaní k jednomu, jemuž říkali mistr Francesco; za tu dobu jsem se naučil psát abecedu kupeckým písmem[^4] až po k.
+- typ: odstavec
+  de: |-
+    P. Perche cosi per fina al k. & non piu oltra.
+  cs: |-
+    **Převor.** Proč takhle jen po k, a ne dál?
+- typ: odstavec
+  de: |-
+    N. Perche li termini del pagamento (con el detto maestro) erano di darui el terzo auanti tratto, & un'altro terzo quando che sapeua fare la detta. A. b. c. per fina al k. & el resto quando, che sapeua fare tutta la detta. A. b. c. & perche al detto termine non mi trouaua cosi li danari de far el debito mio (& desideroso de imparare) cercai di hauere alcuni di suoi Alphabeti compiti, & essempi de lettera scritti di sua mano, & piu non ui tornai, perche sopra de quelli imparai da mia posta, & cosi da quel giorno in qua, mai
+  cs: |-
+    **Nicolò.** Protože podmínky placení (s tím mistrem) byly takové, že jsem měl dát třetinu předem, další třetinu, až budu umět napsat abecedu po k, a zbytek, až budu umět napsat celou abecedu. A protože jsem v ten termín neměl peníze, abych splnil svůj závazek (a přitom jsem toužil se učit), snažil jsem se získat několik jeho úplných abeced a vzorů písma psaných jeho rukou a víckrát jsem tam nešel, neboť podle nich jsem se naučil sám. A tak od toho dne už nikdy
+poznamky:
+- n: 1
+  text: Vyplenění Brescie francouzským vojskem Gastona de Foix 19. února 1512, po potlačení protifrancouzského povstání ve prospěch Benátek; při masakru zahynuly tisíce obyvatel.
+- n: 2
+  text: Andrea Gritti (1455–1538), benátský providur (vojenský zmocněnec republiky) při vojsku, v Brescii zajat a odvezen do Francie; od roku 1523 benátský dóže. Závorka otevřená před „nel qual sacco“ se v tisku nezavírá.
+- n: 3
+  text: Tartaglia – italsky „koktavý, koktal“ (tartagliare = koktat).
+- n: 4
+  text: Lettera mercantesca – kurzivní kupecké písmo užívané italskými obchodníky.
+- n: 5
+  text: V tisku „parcua“ (správně pareua) – tisková chyba, ponechána.

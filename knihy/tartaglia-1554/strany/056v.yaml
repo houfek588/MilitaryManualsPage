@@ -1,0 +1,66 @@
+id: 056v
+list: '56'
+strana: verso
+sken: 112
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    incassato, & fermo in cima de quel tal bastone, come di sotto appare in figura, & che tal orlo sia tanto basso che il non impedisca il poter girar la dioptra in ogni uerso.
+  cs: |-
+    zasazený a pevně usazený na vršku té hole, jak je níže vidět na obrázku; ten okraj však má být tak nízký, aby nebránil otáčet dioptrou {dioptra} na všechny strany.
+- typ: odstavec
+  de: |-
+    R. Non se potria far saldar un canon di banda buso sotto à tal istromento per ficar dentro tal bastone, ouer una ponta da poterlo piantar in cima di tal bastone, facendo prima un buso nella cima di tal bastone.
+  cs: |-
+    **Richard.** Nedalo by se pod nástroj připájet duté trubičkové pouzdro z plechu, do něhož by se hůl zastrčila, nebo hrot, kterým by se nástroj nasadil na vršek hole, když by se do vršku hole nejdřív udělala díra?
+- typ: odstavec
+  de: |-
+    N. L'uno è l'altro de questi, daria impedimento per mettere tal dissegno in carta, come alli suoi luochi si potra giudicare.
+  cs: |-
+    **Nicolò.** Jedno i druhé by překáželo při přenášení kresby na papír, jak bude možné posoudit na příslušných místech.
+- typ: odstavec
+  de: |-
+    R. Seguitati.
+  cs: |-
+    **Richard.** Pokračujte.
+- typ: odstavec
+  de: |-
+    N. Inteso adunque tutte queste cose bisogna notare, che per mettere in dissegno un sito, ouer un paese, si puo procedere in dui modi, l'uno è à stare in meggio, cioe dentro dil detto sito, ouer paese con il detto istromento piantato, fermo è stabile, & l'altro è à andare à torno, à torno per la circonferentia di tal sito, ouer paese.
+  cs: |-
+    **Nicolò.** Když jsme tedy tohle všechno pochopili, je třeba si uvědomit, že při zakreslování nějakého místa {sito} nebo krajiny {paese} lze postupovat dvojím způsobem: jeden je stát uprostřed, totiž uvnitř toho místa nebo krajiny, s nástrojem zaraženým pevně a nehybně; druhý je obcházet dokola po obvodu toho místa nebo krajiny.
+- typ: obrazek
+  soubor: drevorez-112.jpg
+  popis: Buzola s nasazenou otočnou dioptrou (s čtyřhrannými zaměřovacími destičkami na koncích hlavního ramene a příčným ramenem zakončeným krátkým ramenem ve tvaru T) usazená v kotouči na vršku hole, jejíž dolní konec je zašpičatělý k zaražení do země. Uprostřed buzoly je vidět střelka.
+- typ: odstavec
+  de: |-
+    R. Qual è meglio de questi dui modi.
+  cs: |-
+    **Richard.** Který z těch dvou způsobů je lepší?
+- typ: odstavec
+  de: |-
+    N. Certamente piu giusto, ouer men fallace riuscira tal dissegno à stare fermo è fisso nel meggio, cioe dentro di tal sito, ouer luoco, perche in ogni trasmutatione che si fa del detto bussolo nel trasportarlo da un luoco in un'altro sempre se incorre in qualche poco di errore, & perche à tuor in dissegno un luoco, ouer sito andando per la circonferentia di quello se fa molte trasmutationi, del detto bossolo, come per lo auenire se potra uedere, e pero delli molti pochi errori se ne uiene à causare poi la maggior parte delle uolte, in fine uno maggiore.
+  cs: |-
+    **Nicolò.** Zajisté bude kresba přesnější čili méně chybná, když budeme stát pevně a nehnutě uprostřed, totiž uvnitř toho místa nebo prostoru, neboť při každém přemístění buzoly {bussolo}, když ji přenášíme z jednoho místa na druhé, se vždy dopustíme nějaké malé chyby. A protože při zakreslování místa či prostoru obchůzkou po jeho obvodu se buzola přemísťuje mnohokrát, jak bude možné vidět dále, vznikne pak z mnoha malých chyb nejčastěji nakonec jedna větší.
+- typ: odstavec
+  de: |-
+    R. Mostratime adunque quello che de star dentro in meggio, perche l'altro essendo cosi fallace non me ne curo.
+  cs: |-
+    **Richard.** Ukažte mi tedy ten způsob, kdy se stojí uvnitř uprostřed, neboť o ten druhý, když je tak chybný, nestojím.
+- typ: odstavec
+  de: |-
+    N. Anci è necessario, che uoi intendiati l'uno è l'altro modo, perche non sempre si puo tuor in dissegno un sito, ouer paese à star dentro nel detto sito, perche spesse uolte ui se troua delli arbori, monticelli, casamenti, & altre cose, che impediscono il poter uedere tutti li termini di tal sito, alcuna fiata per la grandezza sua non si potra essequire tal effetto à star cosi fermo nel meggio anchor che non ui fusse arbori, ne altri impedimenti, come che uolesse mettere in dissegno uno grandissimo paese, che per la sua grandezza in alcun luoco dentro di quello non si potesse uedere tutti li suoi termini, e pero quantunque il modo di quel tuor in dissegno à star dentro di tal sito, ouer luoco sia piu giusto, ouer men fallace dell'altro, nondimeno l'altro è poi piu generale, perche con quello se puo operare, si nelli paesi grandi, come nelli piccoli, o con arbori, monti, & casamenti, come essendo piani, & con questo tale si puol tuor in dissegno, non solamente le piante delle citta, ma anchora tutto il territorio di quelle, et similmente isole, prouincie, & altre cose simile.
+  cs: |-
+    **Nicolò.** Naopak, je nutné, abyste pochopil oba způsoby, protože místo nebo krajinu nelze vždy zakreslit tak, že stojíme uvnitř, neboť tam často bývají stromy, pahorky, stavení a jiné věci, které brání vidět všechny mezníky {termini} toho místa. Někdy se to kvůli jeho velikosti nedá provést, totiž stát takto pevně uprostřed, i kdyby tam nebyly žádné stromy ani jiné překážky – například kdyby někdo chtěl zakreslit nesmírně velkou krajinu, z níž by pro její velikost nebylo z žádného místa uvnitř vidět všechny její mezníky. Proto ačkoli je onen způsob zakreslování stojíce uvnitř místa či prostoru přesnější čili méně chybný než ten druhý, je ten druhý přece obecnější, neboť jím lze pracovat jak ve velkých krajinách, tak v malých, ať jsou v nich stromy, hory a stavení, nebo jsou rovné, a lze jím zakreslit nejen půdorysy {piante} měst, ale i celé jejich území, a rovněž ostrovy, provincie a jiné podobné věci.
+- typ: odstavec
+  de: |-
+    R. Adunque me li dichiarereti ambi dui. tamen cominciatemi prima à dichiarire quel primo modo, cioe à star dentro nel meggio di tal sito, ouer paese, & dapoi me dichiarereti l'altro.
+  cs: |-
+    **Richard.** Vysvětlíte mi tedy oba. Začněte mi však nejdřív vykládat ten první způsob, totiž stát uvnitř uprostřed místa nebo krajiny, a potom mi vysvětlíte ten druhý.
+- typ: odstavec
+  de: |-
+    N. Accioche meglio me intendiati, supponeremo che il sia uno paesetto de cinque fazze, ouer lati, alla similitudine della sottoscritta figura .a.b.c.d.e. & che sia di tal qualita, che stando dentro in meggio, ouer circa al meggio di quella, & che facendo poi piantar una bacchetta in cadauno di quelli cinque angoli, ouer cantoni che tai bacchette si possano uedere à una per una, hor dico, che à uoler
+  cs: |-
+    **Nicolò.** Abyste mi lépe porozuměl, předpokládejme malou krajinu o pěti stěnách čili stranách, podobnou níže zakreslenému obrazci a b c d e, a takovou, že když se stojí uvnitř uprostřed nebo zhruba uprostřed ní a dá se pak zarazit tyčka {bacchetta} do každého z oněch pěti úhlů čili rohů, lze ty tyčky vidět jednu po druhé. Pravím tedy, že chceme-li

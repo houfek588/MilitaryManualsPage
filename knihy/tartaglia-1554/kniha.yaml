@@ -1,0 +1,67 @@
+id: tartaglia-1554
+nazev: Rozličné otázky a vynálezy
+nazev_orig: Quesiti et inventioni diverse
+podtitul: di novo restampati con una gionta al sesto libro, nella quale si mostra duoi modi di redur una città inespugnabile
+autor: Niccolò Tartaglia
+autor_razeni: 'Tartaglia, Niccolò'   # klíč abecedního řazení v Knihovně (příjmení, jméno)
+autor_zivot: 1499/1500–1557
+vydani: Benátky, nákladem autora (tiskl Niccolò de Bascarini), 1554
+rok: 1554
+katalog: BV010857339
+rozsah: '128 listů, 4°'
+jazyk: it          # jazyk originálu: pole `de` ve stranách a glosáři obsahuje ITALSKÝ text a tvary
+jazyk_orig: italština (benátská toskánština 16. století)
+popis: >-
+  Rozhovory matematika Niccola Tartaglii s vojáky, dělostřelci a šlechtici o střelbě z děl, kulích, střelném prachu
+  a ledku, o sestavování šiků, zaměřování plánů buzolou a opevňování měst, včetně dodatku o pevnosti, kterou nelze
+  dobýt. Druhé vydání 1554; přeloženy knihy I–VI s dodatkem, mechanika (VII–VIII) a algebra (IX) zatím ne.
+prekladatel: Přepis z OCR a překlad s pomocí LLM, 2026.
+strankovani: folio
+strany_poznamka: >-
+  Tisk je foliován arabskými čísly od listu 5 (první čtyři listy – titul, obsah a věnování – číslo nemají a edice je
+  uvádí v hranatých závorkách). List N r = sken 2N − 1. Přeloženy jsou knihy I–VI a dodatek k šesté knize (listy
+  1–77, skeny 1–154); knihy VII–IX (mechanika a algebra, skeny 155–256) jsou zatím jen jako strany bez textu.
+zdroj_textu: 'Italský text je přepsán podle digitalizace Bayerische Staatsbibliothek München (exemplář Staats- und Stadtbibliothek Augsburg, 4 Phys 215, bsb11221340) z OCR s opravenými chybami podle skenu;'
+
+sken:
+  instituce: Bayerische Staatsbibliothek München (exemplář Staats- und Stadtbibliothek Augsburg)
+  kratce: BSB
+  portal: digitale-sammlungen.de
+  paticka: 'Sken: Bayerische Staatsbibliothek München / SuStB Augsburg (Public Domain Mark 1.0)'
+  signatura: 4 Phys 215 (přívazek)
+  id: bsb11221340
+  urn: urn:nbn:de:bvb:12-bsb11221340-5
+  url_dilo: https://www.digitale-sammlungen.de/de/view/bsb11221340
+  url_strana: https://www.digitale-sammlungen.de/de/view/bsb11221340?page={sken}
+  url_obrazek: https://api.digitale-sammlungen.de/iiif/image/v2/bsb11221340_{sken5}/full/{sirka},/0/default.jpg
+  licence: 'Public Domain Mark 1.0 (volné dílo); digitalizace: Bayerische Staatsbibliothek München'
+  poznamka: 'List N r = sken 2N − 1, list N v = sken 2N.'
+
+predsadka: [titul]
+
+poznamky_k_prekladu: |
+  JAZYK: originál je ITALSKY (benátská toskánština 1554). Pole `de` ve stranách obsahuje italský text, v glosáři
+  italské tvary z tisku. Zachovej pravopis tisku (u/v: uarie, hauere; et, &; apostrofy l'artiglieria), dlouhé ſ
+  převáděj na s a ligaturu ß (ſs: Serenißima, poßibile) na „ss“, rozepiš zkratky s vlnovkou (cõ → con, ā → an/am
+  podle slova, q̃ → que), vynech záhlaví (PRIMO, LIBRO), číslo listu, kustody a signatury.
+  Typické chyby OCR: ſ čtené jako f (fi → si, fono → sono, fopra → sopra, fua → sua, cofa → cosa), u/n, c/e.
+
+  FORMA: kniha je řada „quesiti“ – rozhovorů autora (N. = Nicolò) s tazateli (Bombardiero, S. Duca, S. Priore, S.
+  Gabriel Tadino…). Repliky začínají jménem mluvčího zkratkou či verzálkami (BOMBARDIERO., N., S. M.) – každá replika
+  = jeden blok `odstavec`, jméno mluvčího přelož („Dělostřelec.“, „Nicolò.“, „Pan vévoda.“) a dej na začátek bloku
+  tučně: **Dělostřelec.** … Nadpis quesita („Quesito primo fatto dal Signor Duca d’Urbino…“) = nadpis úrovně 3.
+
+  STRUKTURA: titul [1] r; obsah díla [1] v; tabulka obsahu [2] r–[3] v; věnování Jindřichu VIII. [4] r–v. Úroveň 1 =
+  titul, věnování, jednotlivé knihy (LIBRO PRIMO … SESTO) a Gionta k šesté knize; úroveň 2 = úvodní/dílčí oddíly knihy
+  (věnování knihy, pokud je); úroveň 3 = jednotlivá quesita. Knihy: I sken 9 (střelba z děl), II sken 62 (koule
+  z olova, železa, kamene), III sken 73 (ledek a prach), IV sken 85 (šiky), V sken 108 (zaměřování buzolou), VI sken
+  127 (opevnění měst), Gionta sken 140–154.
+
+  TERMINOLOGIE (výchozí, glosář ji upřesní): artiglieria / artegliaria = dělostřelectvo, pezzo d’artiglieria = dělo,
+  bombardiero = dělostřelec (ne bombardér), colubrina = kolubrina (kulverina), sacro = sakr, falcone / falconetto =
+  falkon / falkonet, mortaro = moždíř, bombarda = bombarda, archibuso = arkebuza, schioppo = ručnice, balla = koule,
+  polvere = prach, salnitro = ledek, squadra (přístroj) = kvadrant (dělostřelecký úhloměr), squadra / squadrone
+  (útvar) = šik, elevatione = elevace, tiro = výstřel / dostřel, bossolo = buzola, cortina = kurtina, baluardo /
+  bastione = bašta, terrapieno = val, fossa = příkop, città = město, Signor = pan, Vostra Eccellenza = Vaše Excelence,
+  Maestà = Veličenstvo, ducato = dukát, braccio = loket (míra), passo = krok (míra), libra = libra.
+  Čísla, míry a výpočty (bracci, passi, libre, proporce) překládej přesně; geometrické figury popiš v `popis`.

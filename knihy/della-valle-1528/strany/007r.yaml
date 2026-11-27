@@ -1,0 +1,25 @@
+id: 007r
+list: '7'
+strana: recto
+sken: 33
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    MODO DE FARE VNO BASTIONE tondo per defendere con le soe chiaue, & casematte, & cannoniere. Capitolo. VIII.
+  cs: |-
+    Způsob, jak postavit okrouhlou baštu k obraně, s jejími kotvami, kasematami a střílnami. Kapitola VIII.
+- typ: odstavec
+  de: |-
+    EDa notare anchora di questo Bastione tondo per defendere in uno luoco che sia apto, & necessario, Nel quale bastione gli siano doe casematte con soe candonere como qui appare & con soe chiaue le quale ueneno calando con soi bisogni & nella parte di sopra ci uiene uno Caualiero con uno parapetto, & el ditto bastione e de tanta uirtu facendose alloco ditto che le de marauiglia. Et per fare el ditto Bastione bisogna sapere fare li manochi de fascinette le quale non uoleno essere de piu grossezza che uno brazzo, & uoleno essere ben torti, & nel mezo alligate, & poi e da sapere murare molto ben stretti, & quello torto uada di fuori, & poi uno solaro de Terreno ben calcato con maglio, o con uno cantino de legno, attale che si gli metta uno solaro de fascine & laltro di terra & non si dimenticare delle chiaue, como qui appare, & suoi candoneri, Et piu anchora e da considerare doue sonno le candonere bisogna farce lo concauo con legname a trauerso per ogni banda, & fascine sopra, & terreno, elquale el mirar de lochio, Ma el fare de esso e il buon indicio a comprendere il tutto.
+  cs: |-
+    Dále je třeba poznamenat o této okrouhlé baště {Bastione tondo}, [určené] k obraně na místě, kde je vhodná a potřebná: v té baště ať jsou dvě kasematy {casematte} s jejich střílnami {candonere}, jak je zde vidět,[^1] a s jejími kotvami {chiaue}, které podle potřeby postupně klesají; a v horní části je kavalír {Caualiero} s předprsní {parapetto}. Postaví-li se ta bašta na zmíněném místě, má takovou sílu, že je to k podivu. K postavení této bašty je třeba umět dělat otepi {manochi} z malých fašin {fascinette}, které nemají být tlustší než paže,[^2] mají být dobře zkroucené a uprostřed svázané; potom je třeba umět je vyzdít velmi těsně k sobě, a to tak, aby zkroucená strana šla ven; potom [přijde] vrstva {solaro} zeminy dobře udusaná palicí {maglio} nebo dřevěným tloukem {cantino}, takže se klade jedna vrstva fašin a druhá hlíny. A nezapomeň na kotvy, jak je zde vidět, a na jejich střílny. Dále je ještě třeba uvážit, že tam, kde jsou střílny, je nutné udělat dutinu {concauo} s trámy napříč na každé straně a s fašinami a zeminou nahoře. To ukáže pohled oka, ale k provedení je třeba dobrého úsudku {indicio}, aby se všechno pochopilo.[^3]
+poznamky:
+- n: 1
+  text: Obrazec okrouhlé bašty je na protější straně, [[006v|list 6 v]].
+- n: 2
+  text: V originále „uno brazzo“ – zde paže (tloušťka svazku), nikoli délková míra loket.
+- n: 3
+  text: Konec odstavce je v originále syntakticky neúplný („elquale el mirar de lochio“); překládáno podle smyslu. „Indicio“ je patrně tisková chyba za „iudicio“ (úsudek), jak stojí na listu 4 v.

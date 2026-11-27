@@ -1,0 +1,27 @@
+id: titul
+list: titulní list [1] r
+strana: recto
+sken: 5
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: Vallo
+  cs: Val[^1]
+- typ: odstavec
+  de: |-
+    libro continente appertenentie ad Capitanii, retenere et fortificare una Citta con bastioni, con noui artificii de fuoco aggionti, come nella tabola appare, & de diuerse sorte poluere, et de expugnare una Citta con ponti, scale, argani, trombe, trenciere, artegliarie, caue, dare auisamenti senza messo allo amico, fare ordinanze, battaglioni, Et ponti de disfida con lo pingere, opera molto utile con la experientia de larte militare.
+  cs: |-
+    kniha obsahující věci příslušející kapitánům {Capitanii}: jak udržet a opevnit město {Citta} baštami {bastioni}, s nově přidanými ohňostrojnými zbraněmi {artificii de fuoco}, jak ukazuje obsah {tabola}, a o rozličných druzích prachu {poluere}; jak dobýt město mosty {ponti}, žebříky {scale}, rumpály {argani}, ohnivými troubami {trombe}, zákopy {trenciere}, dělostřelectvem {artegliarie} a minami {caue}; jak podat zprávu příteli bez posla; jak stavět šiky {ordinanze} a bataillony {battaglioni}; a body výzvy k souboji {disfida} spolu s potupným malováním[^2] – dílo velmi užitečné, se zkušeností válečného umění.
+- typ: obrazek
+  soubor: drevorez-5.jpg
+  popis: |-
+    Dřevořezový rám titulní strany, uprostřed v obdélném poli sazba titulu. Nahoře vlevo trůnící Mars v brnění s mečem (nápis MARTE – Mars), vpravo trůnící Bellona, bohyně války, s mečem (nápis BELLONA), mezi nimi v síni dva muži v soubojovém postoji s mečem a malým štítem (puklířem). Levý sloup: trofej zbraní na tyči – maska, kulatý štít, rukavice, meč, krunýř a stuhy. Pravý sloup: zkřížené hlavně, planoucí koule, ohnivé hrnce a další ohňostrojné zbraně, dvě kola lafety, sudy s prachem a hromada koulí. Dole bitva: dva šiky pěchoty s píkami skloněnými proti sobě se srážejí, mezi nimi bubeník s bubnem a mečem. Vpravo dole signatura EVSTACHIVS – patrně Eustachio Celebrino z Udine (asi 1480–1535), kaligraf a autor dřevořezů činný tehdy v Benátkách.
+poznamky:
+- n: 1
+  text: |-
+    „Vallo“ – val, opevnění (lat. vallum); v dedikačních verších na rubu listu autor slovo zároveň spojuje s „vale“ (má cenu) a se svým jménem Della Valle.
+- n: 2
+  text: |-
+    „Ponti de disfida“ = „punti di disfida“, tj. sporné body (otázky) souboje a výzvy, nikoli mosty. „Lo pingere“ (malování) je dobový zvyk soubojového práva: kdo se k vyhlášenému souboji nedostavil nebo nedostál slovu, toho protivník směl dát veřejně potupně vymalovat (např. hlavou dolů nebo se znamením zrady) jako nečestného. Della Valle o tom jedná ve čtvrté knize.

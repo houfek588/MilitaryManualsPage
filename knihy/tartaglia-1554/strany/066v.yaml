@@ -1,0 +1,72 @@
+id: 066v
+list: '66'
+strana: verso
+sken: 132
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    delle sue quattro fazzate, ouer cortine, quelli non potranno esser offesi, da quelli dalla terra, con lartegliaria, saluo che da due bande, cioe dalli dui baluardi, che guardano quella tal cortina, ouer muraglia, perche la forma piatta, ouer caualliero, non debbe poter tirar tanto basso, che possa offendere li nemici, che stano sotto alle mura.
+  cs: |-
+    ze svých čtyř průčelí čili kurtin {cortine}, nebudou ho obránci města moci zasahovat dělostřelectvem {artegliaria} jinak než ze dvou stran, totiž ze dvou bašt {baluardi}, které tu kurtinu čili hradbu střeží; plochá bašta {forma piatta} čili kavalír {caualliero} totiž nemůže střílet tak nízko, aby mohla zasáhnout nepřítele, který stojí pod hradbami.
+- typ: odstavec
+  de: |-
+    P. Di questa particolarita manca anchora ogni altra fortificata citta de Italia, & anchora fuor de Italia, perche de quante ne ho uiste mai ne ho uista alcuna, che le sue cortine siano guardate, saluo che da due bande, cioe da dui baluardi. Et quando, che questa uostra particolarita si potesse condur ad effetto in ogni cortina, certo la saria una cosa di molto profitto, ma ui dubito grandemente.
+  cs: |-
+    **Převor.** Tuto zvláštnost nemá ani žádné jiné opevněné město v Itálii, ba ani mimo Itálii, neboť ze všech, která jsem kdy viděl, jsem neviděl žádné, jehož kurtiny by byly střeženy jinak než ze dvou stran, totiž ze dvou bašt. A kdyby se tato vaše zvláštnost dala uskutečnit u každé kurtiny, byla by to jistě věc velmi prospěšná; ale velice o tom pochybuji.
+- typ: odstavec
+  de: |-
+    N. In fine di questi nostri ragionamenti (si come ho promesso) faro ueder à quella il tutto in figura, & quando, che uostra signoria hauera uisto el disegno di tal pianta, son certo, che quella non ui hauera dubbio alcuno, & tanto piu, che gli faro uedere, tal cosa potersi far in piu modi.
+  cs: |-
+    **Nicolò.** Na konci těchto našich rozhovorů (jak jsem slíbil) ukážu Vaší Milosti všechno na obrázku; a až Vaše Milost uvidí plán takového půdorysu {pianta}, jsem si jist, že o tom nebude mít žádnou pochybnost, tím spíše, že jí ukážu, že se to dá udělat více způsoby.
+- typ: odstavec
+  de: |-
+    P. Questo hauero molto accaro.
+  cs: |-
+    **Převor.** To uvidím velmi rád.
+- typ: nadpis
+  uroven: 3
+  de: QVESITO SESTO FATTO DAL medesimo Signor Prior di Barletta.
+  cs: Šestý dotaz, který položil týž pan převor barlettský
+- typ: odstavec
+  de: |-
+    PRIORE. Hor seguitati anchora la quarta qualita, perche eglie à buon'hora.
+  cs: |-
+    **Převor.** Nuže, pokračujte čtvrtou vlastností, protože je ještě časně.
+- typ: odstavec
+  de: |-
+    N. La quarta conditione, che si conuien nel fortificar una citta, respetto alla forma delle mura è questa. Che nel far fabricar, et in alzar le sue mura, ouer cortine. Bisogna fra le altre cose esser cauto de farle in alzar con tal modo e forma, che se per caso quelle fusseno ruinate da nemici con le artegliarie, che tai mura cosi ruinate, rendano quasi maggior difficultà, & pericolo alli detti nemici, uolendo quelli intrare nella detta citta, di quello che faceuano, quando, che quelle erano intiere, & sane. De la qual cosa son certo, che manca la forma di Turino.
+  cs: |-
+    **Nicolò.** Čtvrtá podmínka, která náleží k opevňování města se zřetelem k tvaru hradeb {mura}, je tato: při stavbě a zvyšování jeho hradeb čili kurtin je mimo jiné třeba dbát, aby se zvyšovaly takovým způsobem a v takovém tvaru, že kdyby je snad nepřítel rozbořil děly {artegliarie}, kladly by takto rozbořené hradby nepříteli, chtějícímu vniknout do města, skoro větší obtíže a nebezpečí, než když byly celé a neporušené. A to, jsem si jist, tvar Turína nemá.
+- typ: odstavec
+  de: |-
+    P. Questa non me pare cosa da credere, perche se tal cosa fusse possibile, seguiria, che tal citta fusse quasi piu forte senza le mura, che con le mura.
+  cs: |-
+    **Převor.** To se mi nezdá k uvěření, protože kdyby to bylo možné, plynulo by z toho, že by takové město bylo bez hradeb skoro silnější než s hradbami.
+- typ: odstavec
+  de: |-
+    N. Questo è uero, che la saria quasi piu forte, perche se le mura cadute, & ruinate causaranno quasi maggior difficulta, & pericolo alli nimici à uoler intrar dentro della detta citta, di quello fariano essendo intiere, & sane. Seguira de necessita, che la detta citta sia piu forte con le mura ruinate, che con quelle intiere e sane.
+  cs: |-
+    **Nicolò.** Je pravda, že by bylo skoro silnější, neboť jestliže padlé a rozbořené hradby způsobí nepříteli, který chce do města vniknout, skoro větší obtíže a nebezpečí, než kdyby byly celé a neporušené, plyne z toho nutně, že město je silnější s rozbořenými hradbami než s celými a neporušenými.
+- typ: odstavec
+  de: |-
+    P. Io non posso quasi credere questa cosa.
+  cs: |-
+    **Převor.** Tomu skoro nemohu uvěřit.
+- typ: odstavec
+  de: |-
+    N. Quando che uostra Reuerentia hauera uisto el modello de tal forma de mura, son certo, che quella affermera tutto quello, che hauemo detto. Ma piu, che gli faro uedere, & con ragion toccare, potersi tal particolarita condur ad effetto in tre diuersi modi.
+  cs: |-
+    **Nicolò.** Až Vaše Důstojnost uvidí model {modello} takového tvaru hradeb, jsem si jist, že potvrdí všechno, co jsme řekli. A navíc jí ukážu a důvody doložím, že se tato zvláštnost dá uskutečnit třemi různými způsoby.
+- typ: odstavec
+  de: |-
+    P. Quando che questo fusse la uerita, le artegliarie haueriano perso la mita della sua reputatione, nelle ispugnation delle citta. Et ui uo dire, che cosi ragionando, & tutta uia pensando sopra à questa uostra particolarita, e me ho quasi imaginato, come se potria far questa tal cosa, ma la uoglio un poco meglio considerare, & farne un modelletto, perche nel far di modelli meglio se delucida la cosa, dapoi uoro uedere se la mia opinione sara simile alla uostra.
+  cs: |-
+    **Převor.** Kdyby to byla pravda, ztratilo by dělostřelectvo polovinu své pověsti při dobývání měst. A chci vám říci, že když takto rozmlouvám a stále přemýšlím o této vaší zvláštnosti, skoro jsem si už představil, jak by se ta věc dala udělat; ale chci ji ještě trochu lépe uvážit a udělat si z ní malý model, neboť při výrobě modelů se věc lépe vyjasní. Potom budu chtít vidět, zda bude můj názor podobný vašemu.
+- typ: odstavec
+  de: |-
+    N. Io son certissimo, che se uostra Signoria ui pensara alquanto sopra, quella ritrouara il tutto, auanti che ueda altramente gli miei modelli, perche
+  cs: |-
+    **Nicolò.** Jsem si zcela jist, že když se nad tím Vaše Milost trochu zamyslí, nalezne všechno dříve, než vůbec uvidí mé modely, neboť

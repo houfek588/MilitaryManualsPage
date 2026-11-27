@@ -1,0 +1,44 @@
+id: 036r
+list: '36'
+strana: recto
+sken: 71
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    senza menda, similmente se il uostro rotulo è giustamente onze.33. e un terzo, & le lire da me determinate sopra detti diametri staranno bene à ragion de onze.12. per lira, & si tal uostre onze saranno eguale alle nostre onze qua da Venetia, anchora le dette balle se uerificaranno al nostro peso da Venetia, altramente non.
+  cs: |-
+    bez vady. Podobně: má-li váš rotul přesně 33 a třetinu unce, budou i libry, které jsem k těmto průměrům určil, správné v poměru 12 uncí na libru; a budou-li vaše unce rovné našim zdejším benátským, budou ty koule odpovídat i naší benátské váze, jinak ne.
+- typ: obrazek
+  soubor: drevorez-71.jpg
+  popis: Jedenáct rovnoběžných úseček sázených napříč stranou (strana se čte otočená o 90°), každá s popiskem podél ní – pokračování řady z předchozí strany. Zleva průměr koule o 9 rotulech a dále průměry koulí o 8, 7, 6, 5, 4, 3, 2 a 1 rotulu, průměr koule o 1 libře a nakonec průměr koule o 1 a půl rotulu; úsečky se směrem doprava zkracují, jen poslední (1 a půl rotulu) je opět delší. Znění popisků je přepsáno a přeloženo pod obrázkem.
+- typ: seznam
+  de:
+  - Questo sottoscritto pur è il diametro de una balla da rotuli.9. à onze.33. e un terzo per rotulo sariano lire.25.
+  - Questo sottoscritto è il diametro de una balla da rotuli.8. che saria lire.22. onze.2. e un terzo.
+  - Questo sottoscritto è il diametro della balla da rotuli.7. che saria lire.19. onze 5. e un terzo.
+  - Questo sottoscritto è il diametro de una balla da rotuli.6. che saria lire.16. onze.8.
+  - Questo sottoscritto è il diametro de una balla da rotuli.5. che saria lire.13. onze.10. e dui terzi.
+  - Questo sottoscritto è il diametro de una balla da rotuli.4. che saria lire.11. onze.1. e un terzo.
+  - Questo sottoscritto è il diametro da rotuli.3. che saria lire.8. onze.4.
+  - Questo sottoscritto è il diametro de una balla da rotuli.2. che saria lire.5. onze.6. e dui terzi.
+  - Questo sottoscritto è il diametro de una balla da rotuli.1. che saria lire.2. onze.9. e un terzo.
+  - Questo sottoscritto è il diametro de una balla da lire.1.
+  - Questo sottoscritto è il diametro de una balla da rotuli.1. e mezzo, che saria lire.4. onze.2.
+  cs:
+  - Níže je rovněž průměr koule o 9 rotulech {rotuli}; po 33 a třetině unce {onze} na rotul by to bylo 25 liber {lire}.
+  - Níže je průměr koule o 8 rotulech, což by bylo 22 liber 2 a třetina unce[^1].
+  - Níže je průměr koule o 7 rotulech, což by bylo 19 liber 5 a třetina unce.
+  - Níže je průměr koule o 6 rotulech, což by bylo 16 liber 8 uncí.
+  - Níže je průměr koule o 5 rotulech, což by bylo 13 liber 10 a dvě třetiny unce.
+  - Níže je průměr koule o 4 rotulech, což by bylo 11 liber 1 a třetina unce.
+  - Níže je průměr [koule] o 3 rotulech, což by bylo 8 liber 4 unce.
+  - Níže je průměr koule o 2 rotulech, což by bylo 5 liber 6 a dvě třetiny unce.
+  - Níže je průměr koule o 1 rotulu, což by bylo 2 libry 9 a třetina unce.
+  - Níže je průměr koule o 1 libře.
+  - Níže je průměr koule o 1 a půl rotulu, což by bylo 4 libry 2 unce.
+poznamky:
+- n: 1
+  text: Početní chyba tisku – 8 rotulů po 33 ⅓ unce je 266 ⅔ unce, tj. 22 liber 2 a dvě třetiny unce (ne „e un terzo“). Ostatní přepočty sedí.

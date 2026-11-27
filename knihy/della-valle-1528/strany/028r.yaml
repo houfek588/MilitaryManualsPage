@@ -1,0 +1,29 @@
+id: 028r
+list: '28'
+strana: recto
+sken: 75
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    zoe fatti ad modo de carro con quelli trauersi inchiodati, & ali loro capi son certi piastroni de ferro con uno anello quale e tutto duno pezo con le due ale de piastra che ua de la, & de qua, & ali altri ue uno uncino ad modo de un brocco como se uede, & cosi questo ponte e de tanti pezi che se puo portare, & farlo tanto longo quanto ue parera, & piantato che sera ue bisogna buttarcele soe tauole, quale seranno al proposito, & nota che le tauole sono conserte con certi uadi fra loro, & poi uanno inchiodati al ponte, como qui alincontro appare.
+  cs: |-
+    totiž udělané jako vůz {carro}, s příčníky {trauersi} přibitými. Na jejich koncích jsou jakési železné pláty {piastroni de ferro} s okem {anello}, které je z jednoho kusu s oběma křídly plátu, jež sahají sem i tam; a na druhých [koncích] je hák {uncino} v podobě bodce {brocco}, jak je vidět. A tak je tento most {ponte} složen z tolika kusů, že se dá nosit, a můžete jej udělat tak dlouhý, jak uznáte za dobré. Když bude postaven, je třeba na něj položit jeho prkna {tauole}, která k tomu budou připravena. A pamatuj, že prkna jsou mezi sebou spojena jakýmisi sponami {uadi}[^1] a potom se přibijí k mostu, jak je vidět na protější straně.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE DE DIVERSI PONTI DA PASSAR FIVMARE LI QVALI LASSO DA CANTO. Cap. XIIII.
+  cs: O zhotovení různých mostů k přechodu řek, které pomíjím. Kapitola XIIII.
+- typ: odstavec
+  de: |-
+    NOn descriuo de molte sorte de ponti como son botti, & barche, & de utri, & daltri modelli, perche non se hanno da portare con muli drieto al campo, & sono utile piu che utri, per benche siano per portare, perche sono piu fallace, & cosi nel mio proposito depono che questi siano piu atti, & utile, & maniuoli che de altri saluo che de corde, che sono ancho lor fallaci, che per la fuga longa, el cargo de tauole, & de gente potrebbe strocarse alcuna de esse corde.
+  cs: |-
+    Nepopisuji mnoho druhů mostů, jako jsou [mosty] ze sudů {botti}, z lodic {barche}, z měchů {utri}[^2] a jiné modely, protože se nedají vozit na mezcích za vojskem {campo}. A [tyto moje] jsou užitečnější než měchy, ačkoli ty se nosit dají, protože měchy jsou méně spolehlivé. A tak podle svého úmyslu tvrdím, že tyto [mosty] jsou vhodnější, užitečnější a ovladatelnější než jiné, kromě [mostů] z provazů {corde}; avšak i ty jsou nespolehlivé, protože při velkém rozpětí {fuga longa}[^3] by se pod tíhou prken a lidí mohl některý z provazů přetrhnout.
+poznamky:
+- n: 1
+  text: '„Uadi“ – nejasné slovo (čtení ve skenu jisté); podle dřevořezu na protější straně ([[027v|list 27 v]]) jsou spáry mezi prkny přepnuty malými obdélníkovými sponami, proto překlad „spony“. Možná jde o tiskovou chybu nebo nářeční výraz pro čep či drážku.'
+- n: 2
+  text: 'Utri – kožené měchy (vaky) nafouknuté vzduchem, na nichž se od antiky stavěly plovoucí mosty a převáželi vojáci.'
+- n: 3
+  text: '„Fuga longa“ – dlouhý rozběh, tj. velká délka (rozpětí) provazového mostu mezi oběma břehy.'

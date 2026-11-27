@@ -151,6 +151,10 @@ def plain(v):
 
 
 KONCOVKY = ('n', 'en', 'e', 's', 'es', 'er', 'ern', 'em')   # pádové a množné koncovky němčiny
+# Jazyk originálu knihy (kniha.yaml → jazyk, výchozí de). Pole `de` ve stranách a glosáři = text/tvary originálu.
+# Italština: koncovky se nepřidávají – normalizace odřízne koncovou samohlásku (artiglieria/artiglierie, pezzo/pezzi).
+KONCOVKY_JAZYK = {'de': KONCOVKY, 'it': ()}
+TITULNI_LIST = {'de': 'Titelblatt', 'it': 'Frontespizio'}
 
 
 def norm_de(s):
@@ -159,6 +163,17 @@ def norm_de(s):
     # švábský a starší pravopis (Ott: Zeügmaister, Zewg, Kriegßlewt, Veldtleger) – stejně jako normDe v app.js
     s = s.replace('ai', 'ei').replace('ay', 'ei').replace('ew', 'eu').replace('v', 'f')
     return re.sub(r'[^a-z]', '', s)
+
+
+def norm_it(s):
+    """Italský tvar z tisku → klíč glosáře; stejné pravidlo jako normIt v app.js."""
+    s = unicodedata.normalize('NFD', s.lower().replace('ſ', 's'))
+    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
+    s = re.sub(r'[^a-z]', '', s.replace('v', 'u').replace('j', 'i').replace('y', 'i').replace('h', ''))
+    return re.sub(r'[aeiou]$', '', s) if len(s) > 3 else s
+
+
+NORM = {'de': norm_de, 'it': norm_it}
 
 
 def povinny_zacatek(vzor):
@@ -181,29 +196,29 @@ def povinny_zacatek(vzor):
     return lit.lower() if len(lit) >= 3 else ''
 
 
-def odvod_tvar(klic, presne, poradi_klicu):
+def odvod_tvar(klic, presne, poradi_klicu, koncovky=KONCOVKY):
     """Stejné pravidlo jako v app.js (najdiHeslo): přesný tvar, jinak základ + koncovka s nejdřívějším pořadím v glosáři."""
     if klic in presne:
         return presne[klic]
     nej = None
-    for suf in KONCOVKY:
+    for suf in koncovky:
         zaklad = klic[:-len(suf)]
         if klic.endswith(suf) and zaklad in presne and (nej is None or poradi_klicu[zaklad] < nej[0]):
             nej = (poradi_klicu[zaklad], presne[zaklad])
     return nej[1] if nej else None
 
 
-def komprimuj_demap(presne_vse, de_map):
+def komprimuj_demap(presne_vse, de_map, koncovky=KONCOVKY):
     """Z úplné mapy tvar → heslo nechá jen přesné tvary z glosáře a výjimky, které pravidlo s koncovkami neodvodí."""
     presne = {k: v for k, v in presne_vse.items() if de_map.get(k) == v}
     poradi_klicu = {k: i for i, k in enumerate(presne)}
     vyjimky = {}
-    kandidati = set(de_map) | {k + s for k in presne for s in KONCOVKY}
+    kandidati = set(de_map) | {k + s for k in presne for s in koncovky}
     for klic in kandidati:
         cil = de_map.get(klic)
         if klic in presne:
             continue
-        if odvod_tvar(klic, presne, poradi_klicu) != cil:
+        if odvod_tvar(klic, presne, poradi_klicu, koncovky) != cil:
             vyjimky[klic] = cil or ''      # '' = tvar se nepropojuje (bez_odkazu)
     return presne, dict(sorted(vyjimky.items()))
 
@@ -220,6 +235,8 @@ def poradi(kniha_dir, meta=None):
 def build_kniha(kniha_dir):
     meta = nacti_yaml((kniha_dir / 'kniha.yaml').read_text(encoding='utf-8'))
     glos = nacti_yaml((kniha_dir / 'glosar.yaml').read_text(encoding='utf-8'))
+    jazyk = meta.get('jazyk', 'de')
+    norm, koncovky = NORM[jazyk], KONCOVKY_JAZYK[jazyk]
     pages, blocks, sections = [], [], []
     stack = []  # otevřené oddíly (indexy do sections)
     used_slugs = set()
@@ -261,7 +278,7 @@ def build_kniha(kniha_dir):
             pending_frontispis = dict(p=pidx, od=od, blocks=[])
         prvni = (d.get('bloky') or [{}])[0]
         if pid == meta.get('predsadka', ['titul'])[0] and not sections and prvni.get('typ') != 'nadpis':
-            new_section(1, 'Titulní list', 'Titelblatt', pidx, od)
+            new_section(1, 'Titulní list', TITULNI_LIST[jazyk], pidx, od)
         for b in d.get('bloky') or []:
             t = b.get('typ')
             if t == 'nadpis':
@@ -292,19 +309,19 @@ def build_kniha(kniha_dir):
     de_map = {}
     for h in glos['hesla']:
         for v in h.get('de', []):
-            de_map.setdefault(norm_de(v), h['id'])
+            de_map.setdefault(norm(v), h['id'])
     # německé termíny stojí v textu v různých pádech (Oberst → Obersten, Reutter → Reuttern):
     # k tvarům z glosáře doplň běžné koncovky; přesný tvar z glosáře má vždy přednost
     presne = dict(de_map)
     for k, hid in presne.items():
-        for suf in KONCOVKY:
+        for suf in koncovky:
             de_map.setdefault(k + suf, hid)
     # tvary, které se odvodily chybně (Massen = měrky na prach, ne máz) – v glosáři klíč bez_odkazu
     for v in glos.get('bez_odkazu') or []:
-        de_map.pop(norm_de(v), None)
+        de_map.pop(norm(v), None)
     texty = [plain(b.get('cs')) for b in blocks]        # čistý český text bloků – jednou, ne pro každé heslo zvlášť
     texty_mala = [cs.lower() for cs in texty]
-    zavorky = [[(m, norm_de(m.group(1).split('/')[0])) for m in re.finditer(r'\[([^\]]+)\]', cs)] if cs else [] for cs in texty]
+    zavorky = [[(m, norm(m.group(1).split('/')[0])) for m in re.finditer(r'\[([^\]]+)\]', cs)] if cs else [] for cs in texty]
     klice_hesla = defaultdict(set)
     for k, hid in de_map.items():
         klice_hesla[hid].add(k)
@@ -335,11 +352,11 @@ def build_kniha(kniha_dir):
     pouzite_termy = set()
     for b in blocks:
         for m in re.finditer(r'\{([^}]*)\}', json.dumps(b.get('cs'), ensure_ascii=False)):
-            pouzite_termy.add(de_map.get(norm_de(m.group(1).split('/')[0])) or de_map.get(norm_de(m.group(1))))
+            pouzite_termy.add(de_map.get(norm(m.group(1).split('/')[0])) or de_map.get(norm(m.group(1))))
     hesla = [h for h in hesla if h['v'] or h['id'] in pouzite_termy]
     zustava = {h['id'] for h in hesla}
     de_map = {k: v for k, v in de_map.items() if v in zustava}
-    demap_presne, demap_vyjimky = komprimuj_demap(presne, de_map)
+    demap_presne, demap_vyjimky = komprimuj_demap(presne, de_map, koncovky)
 
     # ---- obrázky
     out = DOCS / meta['id']
@@ -354,7 +371,7 @@ def build_kniha(kniha_dir):
                 projekt=dict(nazev=PROJEKT['nazev'], email=PROJEKT['email'], autor=PROJEKT['autor'], verze=PROJEKT.get('verze'),
                              formular=PROJEKT.get('formular') if (PROJEKT.get('formular') or {}).get('odeslat') else None),
                 kategorie=glos.get('kategorie', {}), stranky=pages, bloky=blocks, oddily=sections,
-                hesla=hesla, demap=demap_presne, demapx=demap_vyjimky, koncovky=KONCOVKY, stav=stats, overeno=sum(1 for p in pages if p.get('ov')))
+                hesla=hesla, demap=demap_presne, demapx=demap_vyjimky, koncovky=koncovky, stav=stats, overeno=sum(1 for p in pages if p.get('ov')))
     js = 'window.EDICE = ' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + ';\n'
     (out / 'data.js').write_text(js, encoding='utf-8')
     html = (WEB / 'kniha.html').read_text(encoding='utf-8')

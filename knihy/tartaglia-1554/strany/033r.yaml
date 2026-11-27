@@ -1,0 +1,58 @@
+id: 033r
+list: '33'
+strana: recto
+sken: 65
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    detta balla di piombo di quella di ferro, di quello era tirandole cadauna con la sopra detta equal quantita di poluere, & simelmente in quelle cose, che per la sua durezza siano atte à smaccar la balla de piombo, quantunque forsi la balla di ferro potria esser che penetrasse alquanto piu, nondimeno molto maggior botta, & conquassamento fara la balla di piombo di quella di ferro.
+  cs: |-
+    olověná koule {balla} větší účinek neboli průraz {passata} oproti železné ještě mnohem víc, než když byly obě vystřeleny se zmíněným stejným množstvím prachu {poluere}. A podobně u věcí, které pro svou tvrdost dokážou olověnou kouli zploštit {smaccar}: ačkoli by snad železná koule mohla proniknout o něco hlouběji, olověná koule přesto zasadí mnohem větší ránu {botta} a způsobí mnohem větší rozdrcení než železná.
+- typ: odstavec
+  de: |-
+    P. Eglie cosa, che assai mi consona.
+  cs: |-
+    **Převor.** To je věc, která se mi velmi zamlouvá.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO SESTO FATTO DAL MEDESIMO Signor Priore di Barletta.
+  cs: |-
+    Šestý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Qual credeti poi che fara maggior effetto, ouer passata (in equal distantia) una balla di ferro, ouer di pietra, tirate con una istessa artegliaria, & a una istessa elleuatione, & prima con equal quantita di poluere, cioe con li dui terzi di quello pesa la balla di ferro, & dapoi con la sua poluere ordinaria.
+  cs: |-
+    **Převor.** A která podle vás bude mít (na stejnou vzdálenost) větší účinek neboli průraz, koule železná, nebo kamenná, vystřelené z téhož děla {artegliaria} a při téže elevaci {elleuatione}, nejprve se stejným množstvím prachu, to jest se dvěma třetinami toho, co váží železná koule, a potom každá se svou obvyklou náloží?
+- typ: odstavec
+  de: |-
+    N. In questa non ui è alcun dubbio, che la balla di ferro fara molto maggior effetto, ouer passata, et in ogni qualita di materia, di quello fara la balla di pietra, domente che la cosa doue se tira non fusse tanto lontana, che la balla di ferro non ui potesse arriuare, & che quella di pietra ui arriuasse (come fu detto anchora sopra la balla di piombo, & di ferro nel precedente Quesito) & se adunque la balla di ferro fara maggior effetto, ouer passata, della balla di pietra tirandole ambe due con quella equal quantita di poluere, molto maggior effetto, ouer passata fara la poi tirandole ambe due con la sua poluere ordinaria, cioe la balla di ferro con li dui terzi di quello pesa la detta balla, & quella di pietra con un sol terzo di quello pesa detta balla di pietra.
+  cs: |-
+    **Nicolò.** Zde není nejmenší pochyby, že železná koule bude mít mnohem větší účinek neboli průraz než kamenná, a to v jakémkoli druhu hmoty – ovšem jen pokud by věc, na niž se střílí, nebyla tak daleko, že by k ní železná koule nedoletěla, kdežto kamenná ano (jak bylo řečeno i o olověné a železné kouli v předešlém dotazu). Bude-li tedy železná koule mít větší účinek neboli průraz než kamenná, když se obě vystřelí s oním stejným množstvím prachu, bude jej mít ještě mnohem větší, když se obě vystřelí každá se svou obvyklou náloží, totiž železná koule se dvěma třetinami své váhy a kamenná jen s jednou třetinou váhy kamenné koule.
+- typ: odstavec
+  de: |-
+    P. Io ho sempre tenuto, che cosi fusse, come uoi hauete detto, & determinato.
+  cs: |-
+    **Převor.** Vždycky jsem se domníval, že tomu tak je, jak jste řekl a stanovil.
+- typ: nadpis
+  uroven: 3
+  de: |-
+    QVESITO SETTIMO FATTO DAL MEDESIMO Signor Prior di Barletta.
+  cs: |-
+    Sedmý dotaz, který položil týž pan převor z Barletty
+- typ: odstavec
+  de: |-
+    PRIORE. Essendo io à Rhodi al tempo, che il Turco ui era à torno, & essendo io andato in una certa parte della terra con molti guastadori per far fare alcuni ripari, accadete, che ne fu tirato da Turchi con una artegliaria, & la balla con el suo ciffolare se fece sentire tanto di lontano, che ogn'uno hebbe assai commodita di poter dar luoco alla detta balla, & schiuarsi da quella, & cosi ogn'un fece. Et dapoi che la detta balla hebbe fatto il suo effetto frustatorio, ogniuno retornorno à lauorare sicuramente confidandosi, che se ben ue retirauano piu di saluarsi sempre al auiso della balla, cioe al suo ciffolare, hor accadete, che ue retirorno un'altra uolta, & la detta balla uenne tanto quietamente, che alcun non la sentete, saluo nel aggiongere, ouer nel far el suo effetto, talmente che quella uccise quattro guastadori, hor ue adimando la causa di tal suo uenir cosi tacito, & quieto, & massime, che ue retirorno molte altre uolte, & faceua el medesimo.
+  cs: |-
+    **Převor.** Když jsem byl na Rhodu v době, kdy jej obléhal Turek,[^1] a odešel jsem s mnoha zákopníky {guastadori} na jedno místo města, abych dal zřídit nějaké ochranné stavby {ripari}, stalo se, že na nás Turci {Turchi} vystřelili z děla. Koule se svým svištěním {ciffolare} byla slyšet tak zdaleka, že každý měl dost času jí uhnout a vyhnout se jí, a tak to také každý udělal. Když pak koule vykonala svůj marný účinek, vrátili se všichni bezstarostně k práci, spoléhajíce, že i kdyby tam stříleli znovu, vždy se zachrání díky výstraze koule, totiž jejímu svištění. Stalo se však, že tam vystřelili ještě jednou, a koule přiletěla tak tiše, že ji nikdo neslyšel, leda když dopadla neboli vykonala svůj účinek, takže zabila čtyři zákopníky. Ptám se vás tedy po příčině, proč přiletěla tak tiše a klidně, zvláště když tam pak stříleli ještě mnohokrát a dělo se totéž.
+- typ: odstavec
+  de: |-
+    N. La causa di tal effetto procede, per le ragioni adutte nel. 4. Quesito del primo libro, cioe, perche la prima uolta, che ui fu tirato, tal balla ritrouo lo aere quieto, per la qual quietitudine, fa maggior resistentia al moto della balla di quello faria essendo commosso, per la qual resistentia se causa quel suo si gran ciffolare,
+  cs: |-
+    **Nicolò.** Příčina tohoto jevu vyplývá z důvodů uvedených ve 4. dotazu První knihy: když se tam vystřelilo poprvé, narazila koule na klidný vzduch, a ten pro svůj klid klade pohybu koule větší odpor, než by kladl, kdyby byl rozvířený; a tímto odporem vzniká ono její tak hlasité svištění,
+poznamky:
+- n: 1
+  text: Obléhání Rhodu sultánem Sulejmanem I. roku 1522; Gabriele Tadino tehdy řídil opevňovací práce a dělostřelectvo johanitů. Město po půlroční obraně kapitulovalo.

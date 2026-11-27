@@ -1,0 +1,34 @@
+id: 004r
+list: '[4] r'
+strana: recto
+sken: 7
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: |-
+    AL CLEMENTISSIMO, ET INVITTISSIMO HENRICO, OTTAVO, PER LA DIO GRATIA RE DE ANGLIA, DE FRANCIA, ET DE HIBERNIA, ETC.
+  cs: |-
+    Nejmilostivějšímu a nepřemožitelnému Jindřichu VIII., z Boží milosti králi Anglie, Francie a Irska atd.
+- typ: odstavec
+  de: NICOLO TARTAGLIA.
+  cs: Niccolò Tartaglia.
+- typ: odstavec
+  de: |-
+    LE Dimande, Quesiti, ouer Interrogationi Maestà Serenissima, & illustrissima, fatte da Saui, & Prudenti Domandatori, fanno molte uolte considerare allo interrogato molte cose, & anchora conoscerne molte altre, le quale senza esserne adimandato giamai harebbe conosciute, ne considerate. Questo dico per me, qual mai feci professione, ouer dilettai de tirare di alcuna sorte, Artegliaria, Archibuso, Bombarda, ne Schioppo, (ne manco tirar intendo) & un sol quesito fattomi da un perito Bombardero, l'anno MDXXXI. in Verona, mi fece à quel tempo considerare, & inuestigare speculatiuamente l'ordine, & proportione di tiri propinqui, & lontani, secondo le uarie elleuationi de tale machine tormentarie, alle qual cose giamai haueria posto cura, se tal Bombardero, con tal suo quesito non mi hauesse in tal materia sueggiato. Ma piu sentendo io l'anno MDXXXVII. con quanto gran preparamente si moueua Soliman Imperator de Turchi, per infestare la nostra Christiana Religione, Compossi con gran celerità sopra à tal materia una operina, & quella publicai. Accioche tai mie particolar inuentioni si hauesseno à sperimentare, uedere, & considerare se di quelle si poteua cauare qualche buon costrutto in beneficio & difension di quella, & quantunque di tal cosa non ne seguitasse altro (per uari accidenti, ne manco io me ne curai, perche tal guerra in fummo si risolse,) nondimeno tal mia operina, ha prouocato uarie qualità di persone, & maggior parte non uolgare, ma di supremo, & alto ingegno) à trouagliarmi di nouo con altri uarij Quesiti, ouer interrogationi, & non solamente sopra à tal materia di Artegliarie, Balle, Salnitrio, & Poluere. Ma anchora sopra di nouo me hanno fatto non solamente considerare tai particolarità da loro adimandate, ma anchora conoscerne, & ritrouarne (com'e detto) molte altre, lequale senza tai suoi Quesiti, ouer interrogationi, forsi giamai haueria conosciute, ne considerate. Dapoi fra me pensando, che non puoco biasimo merita quel huomo, qual, ouer per scientia, ouer per sua industria, ouer per sorte ritroua qualche notabil particolarità, & chi solamente lui solo
+  cs: |-
+    Otázky, dotazy {Quesiti} čili tázání, nejjasnější a nejosvícenější Veličenstvo, kladené moudrými a rozvážnými tazateli, často přimějí tázaného, aby uvážil mnoho věcí a poznal ještě mnoho jiných, které by, kdyby nebyl tázán, nikdy nebyl poznal ani uvážil. To říkám o sobě: nikdy jsem se střelbou nezabýval ani jsem neměl zálibu ve střelbě z jakéhokoli děla {Artegliaria}, arkebuzy {Archibuso}, bombardy {Bombarda} či ručnice {Schioppo} (a ani střílet nehodlám), a přece jediný dotaz, který mi roku MDXXXI ve Veroně položil zkušený dělostřelec {Bombardero}[^1], mě tehdy přiměl uvážit a teoreticky zkoumat řád a proporci {proportione} blízkých a dalekých dostřelů {tiri} podle rozličných elevací {elleuationi} takových válečných strojů {machine tormentarie}[^2]. Těmto věcem bych se nikdy nebyl věnoval, kdyby mě onen dělostřelec svým dotazem k této látce nebyl probudil. Když jsem pak roku MDXXXVII uslyšel, s jak velikou přípravou se Sulejman, císař Turků, chystá napadnout naše křesťanské náboženství, sestavil jsem o této látce ve velkém spěchu dílko a vydal je[^3], aby se tyto mé zvláštní vynálezy mohly vyzkoušet, prohlédnout a uvážit, zda by se z nich nedalo vytěžit něco dobrého ku prospěchu a obraně [křesťanské víry]. A ačkoli z toho nic dalšího nevzešlo (z rozličných příčin, a ani já jsem se o to dál nestaral, neboť ona válka se rozplynula v dým), přece toto mé dílko podnítilo rozličné osoby, a to většinou nikoli prosté, nýbrž nejvyššího a vznešeného ducha, aby mě znovu zaměstnávaly jinými rozličnými dotazy čili tázáními, a to nejen o této látce, o dělech, koulích {Balle}, ledku {Salnitrio} a prachu {Poluere}, ale i o [jiných věcech][^4]; a znovu mě přiměly nejen uvážit ty podrobnosti, na něž se tázaly, ale také poznat a nalézt (jak bylo řečeno) mnoho dalších, které bych bez jejich dotazů čili tázání snad nikdy nebyl poznal ani uvážil. Když jsem pak sám u sebe uvažoval, že nemalou hanu zasluhuje člověk, který buď vědou, nebo svou pílí, nebo náhodou nalezne nějakou pozoruhodnou věc a sám jediný chce
+poznamky:
+- n: 1
+  text: |-
+    O tomto dotazu veronského dělostřelce (z roku 1531), jakou elevací dělo dostřelí nejdál, píše Tartaglia v předmluvě ke své Nova scientia (1537); jeho odpověď zněla 45°, tj. šest bodů kvadrantu.
+- n: 2
+  text: |-
+    „Machine tormentarie“ – učený latinismus (tormenta = antické metací stroje), jímž Tartaglia označuje děla.
+- n: 3
+  text: |-
+    Nova scientia (Benátky 1537), Tartagliův spis o balistice, věnovaný vévodovi z Urbina. Roku 1537 vypukla válka Benátek s Osmanskou říší (obléhání Korfu); Benátky uzavřely mír roku 1540.
+- n: 4
+  text: |-
+    Věta „Ma anchora sopra di nouo me hanno fatto…“ je v tisku zjevně neúplná – po „sopra“ chybí předmět (snad vypadlé „di molte altre materie, le quali“); doplněno podle smyslu v hranatých závorkách. Také závorka za „alto ingegno)“ nemá v tisku počáteční protějšek.

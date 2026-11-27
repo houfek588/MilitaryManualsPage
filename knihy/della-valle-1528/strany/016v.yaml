@@ -1,0 +1,27 @@
+id: 016v
+list: '16'
+strana: verso
+sken: 52
+stav: prelozeno
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    seruitio, & honore pigliando ala sprouista quelli dentro, & facendo cossi con piu ragione la matina se ponno leuare le guardie, ma non perho a mi pare che mai se leuano tutte, ma lassare qualcuno, & ancho secondo il tempo como sei constretto anzi de di renouarle can buone uedette in qualche altura, perche se hai fatto uedere che intorno della terra non e per un pezo imboscate, le uedette le discopriranno quando fossero per fare altri motiui li inimici, & cossi haueranno tempo quelli di dentro di metterse allordine de diffendere, & offendere. Et ancho e da notare che ad alcuno tempo accadeno le guardie, & sopra guardie, si de di como di notte non mancando un punto, anzi farle di meglior ordine, e piu che simel fatione soleno essere le piu uolte de di che di notte.
+  cs: |-
+    prospěchu a ke své cti tím, že by obránce přepadla znenadání. Když se tak učiní, lze ráno s větším oprávněním stráže {guardie} stáhnout; přesto se mi zdá, že by se nikdy neměly stáhnout všechny, ale některé ponechat, a podle okolností, k nimž jsi přinucen, je naopak za dne obnovit dobrými hláskami {uedette}[^1] na nějakém vyvýšeném místě. Když jsi totiž dal prohledat, že kolem města {terra} není široko daleko žádná záloha {imboscate}, hlásky ji odhalí, kdyby nepřítel chtěl podniknout nějaké jiné pohyby, a tak budou mít obránci čas se připravit k obraně i k útoku. A dále je třeba poznamenat, že v některých dobách jsou stráže a obchůzky {sopra guardie} potřeba ve dne stejně jako v noci, aniž by se v nich v nejmenším polevilo – ba je třeba je konat v ještě lepším pořádku; neboť takové akce {fatione}[^2] se většinou podnikají spíše ve dne než v noci.
+- typ: nadpis
+  uroven: 2
+  de: DE MONITIONE AD MILITI che hanno ad conseruare un luoco per tempo. Capitolo.XXXIIII.
+  cs: Poučení pro vojáky, kteří mají po nějaký čas hájit nějaké místo. Kapitola XXXIIII.
+- typ: odstavec
+  de: |-
+    ANchora e da notare che quando quelli militi di dentro de la terra uanno fuora per dimostrare le lor magnanimita, & dappiciase ad fatti dico che non conuiene saluo che cautamente cioe che habbiano da comprendere che quelli di fuora non habbiano battaglioni in conserua acio che quando seranno appiciati in scaramuzza che al retirarse per tornare dentro che la furia loro non si mescolasse insieme perche sarebbe un mettere ad compromisso el dubioso caso, del che habiate aduertentia che communeuolmente e per comprendere, & temere simel acceso & pensamento si
+  cs: |-
+    Dále je třeba poznamenat: když vojáci {militi} z města vycházejí ven, aby ukázali svou statečnost a pustili se do boje, pravím, že se to smí dít jen opatrně. Musejí totiž zjistit, zda obléhatelé nemají v záloze bataillony {battaglioni in conserua}, aby se – až se zapletou do šarvátky {scaramuzza} a budou ustupovat zpět do města – nepřátelský nápor s nimi nesmísil; to by totiž znamenalo vydat se nejistému osudu. Na to dávejte pozor, neboť obecně je třeba takový výpad a záměr pochopit a obávat se ho, a to
+poznamky:
+- n: 1
+  text: 'Vedette – stálé denní hlídky (hlásky) na vyvýšeném místě, odkud přehlédnou okolí; „can buone uedette“ – v tisku tisková chyba „can“ místo „con“.'
+- n: 2
+  text: 'Fatione (fazione) – vojenská akce, podnik, přepad.'

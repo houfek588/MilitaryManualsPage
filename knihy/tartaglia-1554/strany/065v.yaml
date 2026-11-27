@@ -1,0 +1,61 @@
+id: 065v
+list: '65'
+strana: verso
+sken: 130
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    de Turino.
+  cs: |-
+    Turína.
+- typ: odstavec
+  de: |-
+    N. Le conditioni, qualita, & particolarita, che douria hauere, ouer che si potria adattare, alla forma, & mura de una citta, si per resistere à questi tempi alli uigorosi colpi delle artegliarie, come anchora per potere con facilita, rebattere, & offendere in uarij modi li nimici in ogni lor impetuoso assalimento, eglie da credere, che siano molti. Ma quelle, che cosi per al presente me ho imaginate, sono solamente sei, & perche queste sei se possono alterare, & uariare in uarij, & diuersi modi, secondo uarij, & diuersi rispetti, à me saria necessario (à uolere à sofficienza ben dechiarire, & con ragione dimostrare di cadauna di quelle particolarmente sua ualuta) à designare, uarie, & diuerse piante, ouer à fabricare materialmente uarij, & diuersi modelli, la qual cosa non si puo fare cosi all'improuiso, anci ui uol tempo, & non poco, & massime à me, che nel operar manuale non son molto isperto.
+  cs: |-
+    **Nicolò.** Podmínek, vlastností a zvláštností, které by měl mít čili jimiž by se dal vybavit tvar a hradby {mura} města – jak k tomu, aby v dnešní době odolaly mohutným ranám dělostřelectva {artegliarie}, tak k tomu, aby bylo možné snadno a rozličnými způsoby odrážet a poškozovat nepřítele při každém jeho prudkém útoku –, je podle všeho mnoho. Ty, které jsem si takto prozatím vymyslel, jsou však jen šest. A protože těchto šest lze obměňovat a pozměňovat rozličnými a různými způsoby podle rozličných a různých ohledů, bylo by nutné (kdybych chtěl dostatečně dobře objasnit a důvody doložit cenu každé z nich zvlášť), abych nakreslil rozličné a různé půdorysy {piante} nebo zhotovil z hmoty rozličné a různé modely {modelli}. To se však nedá udělat tak z ničeho nic, nýbrž to vyžaduje čas, a nemalý, zvláště u mne, který nejsem v ruční práci příliš zběhlý.
+- typ: odstavec
+  de: |-
+    P. Anchor, che cosi al improuiso non possiati designare le dette piante, ne fabricar materialmente li detti modelli, non poteti almen sotto breuita narrare la conditione, & proprieta di queste uostre sei imaginate particolarita, & dapoi designare con uostra commodita le dette piante, ouer modelli.
+  cs: |-
+    **Převor.** I když ty půdorysy nemůžete takhle z ničeho nic nakreslit ani ty modely zhotovit, nemůžete aspoň stručně vylíčit povahu a vlastnosti těch vašich šesti vymyšlených zvláštností a ty půdorysy či modely pak nakreslit, až se vám to bude hodit?
+- typ: odstavec
+  de: |-
+    N. Le posso dir si.
+  cs: |-
+    **Nicolò.** Říci vám je mohu, ano.
+- typ: odstavec
+  de: |-
+    P. Mo ditteli adunque consequentemente l'una dietro l'altra, perche in effetto à me mi pare, che sia quasi impossibile di poter tassare la forma de Turino de un solo, non che de sei diffetti.
+  cs: |-
+    **Převor.** Nuže, povězte mi je tedy postupně jednu po druhé, neboť mně se skutečně zdá skoro nemožné vytknout tvaru Turína byť jen jedinou vadu, natož šest.
+- typ: odstavec
+  de: |-
+    N. La prima cosa, che à me mi pare, che doueria hauere la forma delle mura de una citta, ouer che ui se doueria fare, uolendo à questi tempi fortificar quella è questa, che mai in conto alcuno se doueria far pala de alcuna sua cortina, ouer muraglia, talmente, che li nemici ui potessono percotere, ouer tirare perpendicolarmente con le artegliarie, perche, ogni muraglia cede molto piu facilmente alle percussioni delle balle, che feriscono perpendicolarmente sopra à quella, di quello fa à quelle, che gli feriscono obliquamente, cioe in sguinzo, & quanto piu ueneranno, ouer feriranno obliquamente, cioe in sguinzo, tanto menor nocumento faranno in detta cortina, ouer muraglia. La causa è, che ogni comuna percossa fatta perpendicolarmente sopra à una muraglia è molto piu risentita in tutte le parte di tal muraglia, di quello sara ogni altra molto maggiore, che percottera obliquamente, ouer in sguinzo sopra alla medesima.
+  cs: |-
+    **Nicolò.** První věc, kterou by podle mne měl mít tvar hradeb města, čili kterou by bylo třeba udělat, chceme-li je v dnešní době opevnit, je tato: nikdy a v žádném případě by se žádná kurtina {cortina} čili hradba neměla nastavovat nepříteli čelem,[^1] tak aby do ní mohl bít čili střílet z děl kolmo. Každá hradba totiž mnohem snáze povolí nárazům koulí {balle}, které na ni dopadají kolmo, než těm, které ji zasahují šikmo, totiž úkosem {in sguinzo}; a čím šikměji, totiž víc úkosem, přiletí čili zasáhnou, tím menší škodu kurtině čili hradbě způsobí. Příčina je ta, že každý obyčejný náraz kolmo na hradbu se ve všech částech hradby projeví mnohem citelněji než jakýkoli jiný, byť mnohem větší, který na ni dopadne šikmo čili úkosem.
+- typ: odstavec
+  de: |-
+    P. Credo questo, che uoi diceti, perche delle percussioni fatte cosi obliquamente, ouer in sguinzo, la muraglia non riceue tutta la botta, ma solamente parte di quella, la qual parte tanto sara menore, quanto che piu obliquamente, ouer in sguinzo tal balla ferira sopra à quella.
+  cs: |-
+    **Převor.** Věřím tomu, co říkáte, protože při nárazech takto šikmých čili úkosem nepřijme hradba celý úder, nýbrž jen jeho část, a ta část bude tím menší, čím šikměji čili víc úkosem koule na ni dopadne.
+- typ: odstavec
+  de: |-
+    N. Adunque la forma de Turino incorre in questo errore, perche cadauna delle sue quattro muraglie, ouer cortine, che la circonda, sono assettate di tal sorte (come si uede nel suo disegno) che li nemici ui potranno ageuolmente tirare perpendicolarmente in cadauna di quelle.
+  cs: |-
+    **Nicolò.** Tvar Turína se tedy dopouští této chyby, neboť každá z jeho čtyř hradeb čili kurtin, které ho obklopují, je postavena tak (jak je vidět na jeho plánu), že do každé z nich bude nepřítel moci snadno střílet kolmo.
+- typ: odstavec
+  de: |-
+    P. Quando, che tal uostra opinione si potesse mandar ad essecutione in ogni cortina, el non se potria negare, che la non fusse una cosa molto ingeniosa, & utile. Ma non solamente dubito, che uoi non ue ingannati. Ma tengo, che tal cosa sia impossibile, perche de quante citta ho pratticate, & uiste mai, ne ho uisto alcuna (che batter si possa) che in ogni sua cortina, non ui se possa tirare perpendicolarmente con le artegliarie.
+  cs: |-
+    **Převor.** Kdyby se tento váš názor dal uskutečnit u každé kurtiny, nedalo by se popřít, že je to věc velmi důmyslná a užitečná. Ale nejenže mám obavu, že se mýlíte, nýbrž mám to za nemožné, neboť ze všech měst, která jsem kdy navštívil a viděl, jsem neviděl žádné (které lze ostřelovat), do jehož každé kurtiny by se nedalo z děl střílet kolmo.
+- typ: odstavec
+  de: |-
+    N. Dapoi, che noi haueremo compito da narrare tutte queste nostre sei imaginate qualita, ouer conditioni, non solamente faro conoscere, & uedere à uostra Signoria in figura (ouer con modelli) qualmente eglie possibile di mandar ad effetto tal
+  cs: |-
+    **Nicolò.** Až dovyprávíme všech těchto našich šest vymyšlených vlastností čili podmínek, nejenže dám Vaší Milosti poznat a uvidět na obrázku (nebo na modelech), že je možné tuto
+poznamky:
+- n: 1
+  text: Far pala – benátsky „ukazovat plochu, nastavit (jako lopatu)“, tj. postavit kurtinu tak, aby čelem přímo vystavovala plochu nepřátelské palbě.

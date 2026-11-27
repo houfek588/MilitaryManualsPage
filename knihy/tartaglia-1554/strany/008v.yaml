@@ -1,0 +1,59 @@
+id: 008v
+list: '8'
+strana: verso
+sken: 16
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: obrazek
+  soubor: drevorez-16.jpg
+  popis: |-
+    Rovnoramenná váha: vodorovné vahadlo s rameny a c a c b, na koncích dvě stejná kruhová tělesa A a B, uprostřed svislý jazýček s osou otáčení C a závěsným držadlem nahoře. Vahadlo je ve vodorovné poloze (rovnováha).
+- typ: odstavec
+  de: |-
+    ANchora sia descritto sopra il centro .c. un cerchio, secondo la quantita dell'uno di brazzi della libra, ouer bilanza qual sia il cerchio .e.a.f.b. la circonferentia del quale supponeremo per il uiaggio che fariano li centri di detti corpi, girando à torno la detta bilanza sopra il suo centro .c.
+  cs: |-
+    Dále budiž kolem středu c opsán kruh o poloměru jednoho z ramen váhy čili vážek {bilanza}, totiž kruh e a f b; jeho obvod budeme pokládat za dráhu, kterou by opsaly středy zmíněných těles, kdyby se váha otáčela kolem svého středu c.
+- typ: odstavec
+  de: Diffinitione Prima.
+  cs: '**Definice první.**'
+- typ: odstavec
+  de: |-
+    Stando adunque li detti dui corpi in equilibra, come in figura appare, in tal luoco li detti dui corpi, se dicono esser nel sito della equalita.
+  cs: |-
+    Když jsou tedy obě zmíněná tělesa v rovnováze {equilibra}, jak je vidět na obrazci, říká se, že jsou v této poloze v poloze rovnosti {sito della equalita}.
+- typ: odstavec
+  de: Diffinitione Seconda.
+  cs: '**Definice druhá.**'
+- typ: odstavec
+  de: |-
+    Anchor tirando dalla sommita una perpendicolare passante per il centro .c. (quala sia la linea .e.c.f.) tal linea uien detta la linea della direttione.
+  cs: |-
+    Dále, vede-li se z vrcholu kolmice procházející středem c (budiž to čára e c f), nazývá se tato čára čárou směru {linea della direttione}[^1].
+- typ: obrazek
+  soubor: drevorez-16b.jpg
+  popis: |-
+    Kruh se středem c, svislým průměrem e c f (e nahoře, f dole) a vodorovným průměrem, na jehož koncích jsou malá kruhová tělesa A a B – váha z předchozího obrazce vepsaná do kruhu, který opisují středy těles.
+- typ: odstavec
+  de: Suppositione Prima.
+  cs: '**Předpoklad první.**'
+- typ: odstavec
+  de: |-
+    ANchora bisogna notare qualmente un corpo graue se suppone esser tanto piu graue, nel luoco doue se ritroua quanto che il discender di quello è manco obliquo, cioè manco curuo, in el medesimo sito, ouer luoco. Lo essempio di questa suppositione se adura nella seguente figuratione.
+  cs: |-
+    Dále je třeba poznamenat, že o těžkém tělese se předpokládá, že je v místě, kde se nachází, tím těžší, čím méně šikmé, tj. čím méně zakřivené je jeho klesání v tomtéž postavení čili místě[^2]. Příklad tohoto předpokladu bude uveden na následujícím obrazci.
+- typ: odstavec
+  de: Suppositione Seconda.
+  cs: '**Předpoklad druhý.**'
+- typ: odstavec
+  de: |-
+    Et il discender d'un corpo graue, se suppone esser tanto piu obliquo, quanto che nel suo discender capisse manco del diretto, in medesima quantita, cioe che capisse manco parte della linea della direttione, ouer di una altra a quella equidistante, in la medesima quantita, cioe in medesima quantita di circonferentia del cerchio doue gira, ouer ua, & questo nella figuration sequente meglio se intendera.
+  cs: |-
+    A o klesání těžkého tělesa se předpokládá, že je tím šikmější, čím méně při svém klesání pojme z přímého [svislého směru] při stejné délce [dráhy], tj. čím menší část čáry směru nebo jiné čáry s ní rovnoběžné pojme při stejné délce, totiž při stejné délce oblouku kruhu, po němž se otáčí čili pohybuje; to se lépe pochopí na následujícím obrazci.
+poznamky:
+- n: 1
+  text: |-
+    Definice a předpoklady jsou převzaty ze středověké nauky o vahách (Jordanus de Nemore, Elementa super demonstrationem ponderum): „situs aequalitatis“ je vodorovná poloha vahadla, „linea directionis“ svislice, po níž by těleso volně padalo.
+- n: 2
+  text: |-
+    Jde o pojem „tíže podle polohy“ (gravitas secundum situm): těleso na rameni váhy působí tím silněji, čím strměji (svisleji) by v dané poloze začalo klesat po oblouku kruhu.

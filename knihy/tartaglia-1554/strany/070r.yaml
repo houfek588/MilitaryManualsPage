@@ -1,0 +1,78 @@
+id: 070r
+list: '70'
+strana: recto
+sken: 139
+stav: zkontrolovano
+overeno_clovekem: false
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    piu fui, ne andai da alcun'altro precettore, ma solamente in compagnia di una figlia di pouerta, chiamata Industria. Sopra le opere de gli huomini defonti continuamente mi son trauagliato. Quantunque della età d'anni uinti in qua sempre sia stato da non poca cura famigliare straniamente impedito. Et finalmente poi la crudel morte mi ha fatto restare nouamente poco men che solo.
+  cs: |-
+    jsem nešel k žádnému jinému učiteli, nýbrž jen ve společnosti jedné dcery chudoby jménem Píle.[^1] Nad spisy zesnulých mužů jsem se neustále lopotil, ačkoli mi od dvaceti let nemalá péče o rodinu vždy nesmírně překážela. A nakonec mě krutá smrt nedávno zanechala skoro samotného.
+- typ: odstavec
+  de: |-
+    P. Non haueti fatto poco, hauendo hauuto cura famigliare a frequentar el studio.
+  cs: |-
+    **Převor.** Nevykonal jste málo, když jste se při péči o rodinu dokázal věnovat studiu.
+- typ: odstavec
+  de: |-
+    SERVO. Signor, eglie sonato cinque hore.
+  cs: |-
+    **Sluha.** Pane, odbilo pět hodin.[^2]
+- typ: odstavec
+  de: |-
+    P. Questo nostro ragionamento é stato molto piu longo del solito, e pero uoglio facciamo fine, ui prego, che piu presto, che poteti, me fatti quelli modelli, perche molto desidero di uedergli.
+  cs: |-
+    **Převor.** Tento náš rozhovor byl mnohem delší než obvykle, a proto chci, abychom skončili. Prosím vás, udělejte mi ty modely co nejdříve, neboť je velmi toužím vidět.
+- typ: odstavec
+  de: |-
+    N. Non mancaro de solicitudine.
+  cs: |-
+    **Nicolò.** Nebudu otálet.
+- typ: odstavec
+  de: |-
+    P. Ditemi un poco, uolendo far questi modelli, non designareti prima le sue piante.
+  cs: |-
+    **Převor.** Povězte mi: když chcete dělat tyto modely, nenakreslíte nejdříve jejich půdorysy {piante}?
+- typ: odstavec
+  de: |-
+    N. Senza dubbio della maggior parte designaro prima le sue piante, & dapoi sopra a quelle andaro eleuando le sue cortine, & baluardi, secondo, che occorrera.
+  cs: |-
+    **Nicolò.** Bezpochyby u většiny z nich nejdříve nakreslím půdorysy a potom na nich budu vyzdvihovat jejich kurtiny {cortine} a bašty {baluardi}, podle toho, jak bude třeba.
+- typ: odstavec
+  de: |-
+    P. Hauero molto accaro, che come hauereti designate le dette piante, subito me le fatte uedere, & designatele tutte pur sopra la pianta de Turino, perche a mi me pare, che tal forma de Turino (come nel principio ue dissi) non si possa megliorare.
+  cs: |-
+    **Převor.** Velmi rád bych, abyste mi ty půdorysy, jakmile je nakreslíte, hned ukázal, a nakreslete je všechny přímo na půdorysu Turína, protože se mi zdá, že takový tvar jako u Turína (jak jsem vám řekl na začátku) nelze vylepšit.
+- typ: odstavec
+  de: |-
+    N. Faro molto uolentiera, & di questo in breue me ne ispedirò, perche le piante se designaran presto.
+  cs: |-
+    **Nicolò.** Udělám to velmi rád a brzy s tím budu hotov, protože půdorysy se nakreslí rychle.
+- typ: odstavec
+  de: |-
+    P. Et questo è quello, che uoglio dire, che le ispedireti piu presto. Et spesse uolte tanto se intende la cosa sopra della pianta, quanto che sopra un modello de releuo.
+  cs: |-
+    **Převor.** A právě to chci říci, že s nimi budete hotov dříve. A často se věc z půdorysu pochopí stejně dobře jako z plastického modelu.
+- typ: odstavec
+  de: |-
+    N. Cosi è, & se pur ui sara qualche particolarita, che nella pura pianta non si possa dimostrare, cercaremo de delucidarla con parole, & se per caso con quelle non potro sodisfare uostra Signoria, la faremo poi de releuo.
+  cs: |-
+    **Nicolò.** Tak jest. A bude-li přece nějaká podrobnost, kterou nelze ukázat na pouhém půdorysu, pokusíme se ji objasnit slovy, a kdybych snad jimi Vaší Milost neuspokojil, uděláme ji potom plasticky.
+- typ: odstavec
+  de: |-
+    P. Alla buon'hora sia.
+  cs: |-
+    **Převor.** Budiž, v dobrou hodinu.
+- typ: odstavec
+  de: |-
+    Il fine del sesto Libro.
+  cs: |-
+    Konec šesté knihy.
+poznamky:
+- n: 1
+  text: Industria – personifikace píle, „dcera chudoby“ (chudoba nutí k přičinlivosti).
+- n: 2
+  text: Hodiny se v Itálii tehdy počítaly od západu slunce („italské hodiny“); pět hodin je tedy asi pět hodin po soumraku, pozdě večer.
