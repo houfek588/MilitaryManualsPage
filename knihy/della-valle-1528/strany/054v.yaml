@@ -2,6 +2,34 @@ id: 054v
 list: '54'
 strana: verso
 sken: 128
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    fo necessario chel ditto gran Capitano apparesse nel monte Gargano in fauore de Sipontani, & beneuentani non fo tempo adoperare scienna. Anchora piu diro quanto fo lo strepito, quanto fo lo terrore dato al Lucifero, quando con la sua spdta lo caccio dal cielo empireo, & mandato nel centro & loco strano, noa tan poco adoperara scientia, quando amazara quello Antechristo, ma con quello che e reseruato per piu bisogno, & ualore, siche quello che de militia splende puo ben dire che de tre ual doi.
+  cs: |-
+    bylo zapotřebí, aby se řečený veliký kapitán zjevil na hoře Gargano na pomoc Sipontským a Beneventským,[^1] nebyl čas užívat vědy. A ještě víc řeknu: jaký to byl hřmot a jaká hrůza padla na Lucifera, když ho svým mečem[^2] vyhnal z nebe empyrea a svrhl do středu [země], na místo cizí. Ani až zabije onoho Antikrista, nepoužije vědy, nýbrž toho, co je vyhrazeno pro větší potřebu a udatnost. Takže kdo září vojenstvím {militia}, může dobře říci, že ze tří [dílů] má cenu dvou.[^3]
+- typ: nadpis
+  uroven: 2
+  de: DE CONTENDERE DE LITERATI contra li Militi. Capitolo. III.
+  cs: O sporu učenců proti vojákům. Kapitola III.
+- typ: odstavec
+  de: |-
+    BIsogna piu dire de Literati, como della militia descende uno stranio, & uitioso uiuere, ingenera captiui animi per doe triste fine, quando la guerra non se fa contra infideli non se aspetta altro da militi, che uno discoretto et odioso uiuere, pare essere licito farte prendere lo uiuere de tua famiglia da suoi saccomanni, et famigli, receuendo bastonate, ferite, morte, perdere honore de donne, perdere le anime, uederse ad tal porto redutti, & non basta ferro al tuo danno, ma anchora col fuoco de piu maniera adoperando, si che non danno se non dolore, terrore, faticha, & tormento, ma literati uiueno modesti con loro aduocare & procurare iustamente, & inducti tanti nobili affecti, quanti di sopra se dice che non se aspetta da Literati se non honore, amore, gentileza, grandeza, & quando li militanti non hanno guerra in tempo de pace, & loro uiueno miseramente, & non stanno in grandeza, ma literati quando
+  cs: |-
+    Ze strany učenců {Literati} je třeba dále říci, jak z vojenství pochází cizácký a neřestný život a jak plodí zlé duše pro dvojí smutný konec. Když se válka nevede proti nevěřícím, nelze od vojáků {militi} čekat nic jiného než nevázaný a nenáviděný život. Pokládají za dovolené, aby ti jejich čeledíni {saccomanni}[^4] a sluhové brali živobytí tvé rodiny; [lidé] dostávají bití, rány i smrt, ženy ztrácejí čest, duše přicházejí do záhuby a lidé se vidí přivedeni do takového přístavu. A k tvé škodě nestačí železo, nýbrž užívají ještě ohně mnoha způsoby, takže nepůsobí nic než bolest, hrůzu, strádání a muka. Učenci však žijí skromně, spravedlivě obhajují a vedou pře a probouzejí tolik ušlechtilých citů, jak bylo řečeno výše, takže od učenců nelze čekat nic než čest, lásku, laskavost a velikost. A když vojáci v době míru nemají válku, žijí bídně a nejsou ve velikosti; učenci však, když
+poznamky:
+- n: 1
+  text: |-
+    Zjevení archanděla Michaela na hoře Gargano v Apulii (podle legendy roku 492) a jeho pomoc obyvatelům Sipontu a Beneventa v boji proti pohanským Neapolcům, jak je líčí Legenda aurea; ke Garganu vedla oblíbená pouť do svatyně Monte Sant’Angelo.
+- n: 2
+  text: |-
+    Tisk má „scienna“ (místo scientia), „spdta“ (místo spada – meč) a „noa tan poco“ (místo non tan poco); vše ověřeno ve skenu.
+- n: 3
+  text: |-
+    „De tre ual doi“ – doslova „ze tří má cenu dvou“, tj. vojenství má dvojnásobnou váhu; snad narážka na tři části „začátek, střed a konec“ z kapitoly II nebo na úsloví o dvou třetinách.
+- n: 4
+  text: |-
+    Saccomanno – vojenský čeledín, který nosí zavazadla a pobírá kořist (srov. něm. Sackmann; od „sacco“ – pytel, plenění).

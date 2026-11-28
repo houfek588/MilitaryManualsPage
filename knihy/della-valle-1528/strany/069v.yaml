@@ -2,6 +2,32 @@ id: 069v
 list: '69'
 strana: verso
 sken: 158
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Recerca el reo ad desfida essendo la uerita de quello che lie stato referito contra del honore suo, & uenera la resolutione de tal modo dal reo, & dice che non e el uero de tal proponere, & che quello che e stato reportatore se ne mente per la gola, & ha fatto officio da tristo, & le da intendere se le resoluto lo honore dello actore qual se teneua essere offeso, si ouer no. Se responde che le annullato & desdetto per contrario la sua iniuria & restaurato lo suo honore, & non deue cercare altro in quanto per conto suo.
+  cs: |-
+    [Uražený] vyzve protivníka {reo} k souboji {desfida}, jako by bylo pravdou to, co mu bylo doneseno proti jeho cti {honore}. Vyzvaný pak věc vyřeší tak, že řekne, že to, co se tvrdí, není pravda a že ten, kdo to donesl {reportatore}, lže hrdlem {mente per la gola}[^1] a jednal jako ničema. Je třeba posoudit, zda je tím vyrovnána čest vyzyvatele {actore}, který se pokládal za uraženého, či nikoli. Odpovídá se, že jeho urážka {iniuria} je zrušena a odvolána opačným [výrokem] a jeho čest obnovena, a pokud jde o něho, nemá hledat nic dalšího.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    AD CHE E TENVTO VNO ESSERE rebeccato per bosardo. Cap. XXXIIII.
+  cs: |-
+    K čemu je zavázán ten, komu bylo vráceno, že je lhář {bosardo}. Kapitola XXXIIII.
+- typ: odstavec
+  de: |-
+    MOuesi el dubio chi e leso desti doi. Vno che lie stato apposto una offensione, ouero che lo reportatore e stato repulsato per busardo & mentitore, Nasce el lite per lo reportatore & dice che lui lha incolpato con ragione, ouero ad torto che deue admoderare la sua iniuria, & che per tal causa ad lui non conuiene essere lo actore tra loro doi. Ma sera el reo al tempo che sera constretto. Qui se responde per lo offensore et dice che non dice el uero, & che sene mente per la gola, & per quante uolte sara tale officio conferire lo contrario del uero. A questi doi Casi se conclude chel reportatore quale e stato mentito & rebeccato, & approbato dala parte per huomo falsario del uero sie iniuriato, & allui resta la taccia & falsita de tal casi ditti.
+  cs: |-
+    Vzniká pochybnost, který z těchto dvou je poškozen: ten, komu byla připsána urážka, nebo donašeč {reportatore}, který byl odmítnut jako lhář a lživec {mentitore}. Spor {lite} vznáší donašeč a říká, že [onen] ho obvinil, ať právem, nebo neprávem, takže musí svou urážku zmírnit; a že z toho důvodu mu nepřísluší být mezi nimi dvěma vyzyvatelem, nýbrž bude vyzvaným, až k tomu bude donucen. Tu se za urážejícího odpovídá, že [donašeč] nemluví pravdu a že lže hrdlem, a to tolikrát, kolikrát bude takto tvrdit opak pravdy. V těchto dvou případech se uzavírá, že donašeč, který byl obviněn ze lži {mentito} a odbyt a kterého strana prohlásila za muže, jenž pravdu falšuje, je uražen a na něm zůstává pohana a nepravdivost takových řečí.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE VN CHE DESFIDA VN ALTRO,
+  cs: |-
+    O tom, kdo vyzve jiného
+poznamky:
+- n: 1
+  text: 'Mentire per la gola – „lhát hrdlem“, slavnostní formule obvinění ze lži (mentita); kdo ji dostal, byl podle soubojového práva povinen se ozvat a stal se vyzyvatelem.'

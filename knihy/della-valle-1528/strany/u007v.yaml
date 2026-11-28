@@ -2,6 +2,16 @@ id: u007v
 list: '[7] v'
 strana: verso
 sken: 18
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    como e ben caldo butta le toi balle lequale ueneranno nettissime & salde a torno a torno, saluo che li remanera el buso doue entra lo fuso de ferro elqual fuso uol essere coperto con la ditta creta perche lo bronzo non se accosta cosi bene al ferro che ala creta, & poi lo cauerai piu facilmente fuora, cauato che sia el buso tu potrai con un ferro sottile cauar fuora quella creta de dentro & empirla della sottoscritta mistura, uidelicet. Impi la tua balla insino al mezo de buona poluere de schiopetto da poi li metti dentro sino che le piena poluere de bombarda grossa misturata con peza greca, ouer pegola spagna cioe in poluere parte tre peza greca ouer pegola spagna parte una, & pista sotilmente nel mortaro & incorporala ben con ditta poluere grossa et con ditta mistura et impi la tua balla sino ala bocca, dapoi ala bocca li metti tanto de poluere fina quanto basta solo perche presto accostandosi el fuoco se habia apizare, & queste balle se adoperano ali bisogni doue fusse una stretta de inimici ouer gittarle sopra le mura in una forteza stando di fora per dar terrore e danno a quelli de dentro, laqual balla bisogna per trarla esser presto, perche la non facesse nocimento a chi lha da trare, adoncha tien questo modo tenirai la toa balla alordine nela mano dextra & la corda con el fuoco ala sinistra, & uedendo il tempo dalli el fuoco & lassela soffiar un pocho fin che tu uedi che la mistura sia accesa, & tralla presto doue elo bisogno, laquale fara grandissima faccione di se, che gionto che sia lo fuoco ala poluere fina se spezera in mille pezzi et guai a chi li sara uicino a cui accostera un minimo pezzo, fara proprio como una artellaria non manco, quelle
+  cs: |-
+    jakmile je dobře rozpálený, odlij své koule {balle}; vyjdou zcela čisté a pevné dokola, jen v nich zůstane otvor, kudy vchází železný trn {fuso}. Ten trn má být obalen zmíněnou hlínou {creta}, protože bronz nepřilne k železu tak dobře jako k hlíně, a pak ho snáze vytáhneš ven. Když je otvor vyčištěn, můžeš tenkým železem vyškrábat hlínu zevnitř a kouli naplnit níže popsanou směsí {mistura}, totiž takto: naplň kouli do poloviny dobrým prachem do ručnic {poluere de schiopetto}, potom do ní dávej, dokud není plná, hrubý prach do bombard {poluere de bombarda} smíchaný s řeckou smolou {peza greca} čili španělskou smolou, a to tři díly prachu a jeden díl řecké či španělské smoly;[^1] [smolu] jemně roztluč v hmoždíři, dobře ji smíchej se zmíněným hrubým prachem a touto směsí naplň kouli až po ústí. Potom do ústí dej jen tolik jemného prachu, kolik stačí, aby se rychle chytil, když se k němu přiblíží oheň. Tyto koule se užívají, je-li třeba, tam, kde se nepřátelé tlačí nahusto, anebo se házejí zvenčí přes hradby do opevnění {forteza}, aby obráncům způsobily hrůzu a škodu. S takovou koulí se musí při vrhání jednat rychle, aby neublížila tomu, kdo ji vrhá. Postupuj tedy takto: drž kouli připravenou v pravé ruce a hořící šňůru {corda} v levé; když uvidíš vhodnou chvíli, přilož k ní oheň, nech ji chvilku prskat, dokud neuvidíš, že se směs vzňala, a rychle ji hoď, kam je třeba. Koule bude mít převeliký účinek, neboť jakmile oheň dojde k jemnému prachu, roztrhne se na tisíc kusů, a běda tomu, kdo bude nablízku a koho zasáhne byť nejmenší kousek: zapůsobí to právě jako dělo {artellaria}, ne méně. Ten,
+poznamky:
+- n: 1
+  text: |-
+    V tisku „cioe ĩ poluere parte tre“ – zkratka ĩ je rozepsána jako „in“; smysl je „totiž [v poměru] tři díly prachu“.

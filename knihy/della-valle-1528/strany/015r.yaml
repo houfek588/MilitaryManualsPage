@@ -2,6 +2,28 @@ id: 015r
 list: '15'
 strana: recto
 sken: 49
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    & matre, & dela uitoria more contento, cossi lo contrario che al perdere duna terra non e solo lo perdere de corpi, de huomini, militi, ne ancho de citadini, de figlioli, de fanciulli, sbalzati per fenestre abrusiati in fuoco, como son uisti piu & piu uolte, anchora ui e honori de donzelle, uedoe, maritate, & cossi considerando lhuomo deli figlioli, mammoli, & ancho poncelle, & de soa famiglia, dico che lie la perdita delanima, & more desperate, considerando el caso che e securo che andaranno ad mala uia, & cossi considerando luno de laltro, amico del amico, lo patre del figlio, la matre de li figli, li fratelli deli honori dele sorelle, e caso antiueduto per commune opinione attal che uiene a disperatione, & cossi moreno in confusione le pouere anime perdute como se stima.
+  cs: |-
+    a [jeho] Matku,[^1] umírá spokojen vítězstvím. Naproti tomu při ztrátě města nejde jen o ztrátu těl mužů a vojáků {militi}, ani jen měšťanů, synů a dětí vyhazovaných z oken a upalovaných v ohni, jak se to vidělo mnohokrát; jde také o čest dívek, vdov a vdaných žen. A když tak muž myslí na své syny, malé děti i dcerky a na svou čeleď, říkám, že jde o ztrátu duše a že umírá zoufalý, protože pomýšlí na to, že je jisté, že [jeho blízcí] přijdou do zlého. A tak myslí jeden na druhého, přítel na přítele, otec na syna, matka na děti, bratři na čest sester; a protože podle obecného mínění je ten osud předem znám, propadají zoufalství, a tak, jak se soudí, umírají ubohé ztracené duše ve zmatku.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE METTERE GVARDIE ET sopra guardie. Capitolo. XXIX.
+  cs: |-
+    O stavění stráží a vrchních stráží. Kapitola XXIX.
+- typ: odstavec
+  de: |-
+    ANon uenire ad simil caso o tu buon Capitano ricordati al mettere de guardie, lequale si conuiene mettere ad uintitre hore in li luochi deputati, & debiti, con loro quantita de numero secondo il buon indicio, & bisogni, & anchora e da deputare tanta quantita de huomini per sopra guardie in la piazza de la terra, & fatto questo, bisogna che ci siano Bandi & commandamenti che niuno prattichi da le doe hore de notte saluo che le sopra guardie le quale bisogna che siano lor deputati a far contrasegni, & nomi e qual nome bisogna dargli a li missi che saranno in
+  cs: |-
+    Abys nepřišel do takové situace, ty dobrý kapitáne {Capitano}, pamatuj na stavění stráží {guardie}. Ty je třeba postavit ve dvacet tři hodiny[^2] na určená a náležitá místa, v počtu podle dobrého úsudku a potřeby; a dále je třeba určit dostatečný počet mužů za vrchní stráže {sopra guardie} na náměstí města. Když se to stane, je třeba vyhlásit vyhlášky {Bandi} a příkazy, aby se od druhé hodiny noční nikdo nepohyboval [venku] kromě vrchních stráží; ty musí být určeny k tomu, aby dávaly poznávací znamení {contrasegni} a hesla {nomi}, a [určit], jaké heslo je třeba dát poslům, kteří budou na
+poznamky:
+- n: 1
+  text: Konec věty z předchozí strany („considerando in dio, & matre“) chápeme jako „myslí na Boha a [jeho] Matku“, tj. Pannu Marii. Na této straně tisk chybně uvádí číslo listu 19 (rukou opraveno na 15).
+- n: 2
+  text: Italské počítání hodin od západu slunce – 23. hodina je hodina před soumrakem, „druhá hodina noční“ dvě hodiny po západu slunce.

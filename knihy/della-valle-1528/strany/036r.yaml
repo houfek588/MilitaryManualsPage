@@ -2,6 +2,18 @@ id: 036r
 list: '36'
 strana: recto
 sken: 91
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VN BATTAGLIONE DE QVATTRO, O SEI O DIECE MILIA PICCHE Cap. xii.
+  cs: Jak udělat bataillon o čtyřech, šesti nebo deseti tisících pik. Kapitola XII.
+- typ: odstavec
+  de: |-
+    E Da notare chel ditto battaglione e per farse ad numero grande duno exercito de quattro, o sei, o diece milia picche per conseruare li gran maestri in forteza con queste conserue & modi moltiplicando li numeri de piu, & meno secondo questo ordine. El ditto battaglione conuiensi ad offendere, como a defendere, & per farlo bisogna mettere inordinanza ad otto picche, & per farne due parte bisogna smembrare ad .24. filara, & mettete per fianco larghetto .12. per banda che ce capano sei picche como appare, et poi piglia sette filara nel mezo ali .12. e tira in giu, & dallaltra parte sette altre filara, & tira fuora in giu, che farai la piaza como se uede, li scopetteri non ua ad numero de conto, perche non sono sempre al bisogno, ma de questo ordine se deue mettere, Como denota questi, o, piccoli fra mezo le picche hauendo le loro strade per tirarse indrieto et uscire allor bisogno.
+  cs: |-
+    Je třeba poznamenat, že řečený bataillon {battaglione} se staví pro velký počet [mužů] vojska {exercito} o čtyřech, šesti nebo deseti tisících pik {picche}, aby se velcí páni {gran maestri}[^1] udrželi v bezpečí díky těmto průvodním oddílům {conserue} a způsobům, přičemž se počty násobí, víc nebo méně, podle tohoto řádu. Řečený bataillon se hodí k útoku i k obraně. Chceš-li ho postavit, je třeba seřadit šik {ordinanza} po osmi pikenýrech; a chceš-li z něj udělat dvě části, je třeba oddělit {smembrare} po 24 řadách {filara} a postavit [je] po boku {per fianco} trochu do šířky, 12 na každou stranu, takže se tam vejde šest pikenýrů, jak je vidět. Potom vezmi sedm řad uprostřed těch 12 a táhni je dolů, a z druhé strany sedm dalších řad a táhni je ven dolů, čímž uděláš prostranství {piaza}, jak je vidět. Ručničáři {scopetteri} nejsou započítáni, protože jich není vždy tolik, kolik je třeba, ale mají se rozestavit podle tohoto řádu, jak ukazují tato malá „o“ mezi pikenýry: mají mezi nimi své uličky, aby se mohli stáhnout dozadu a vyjít ven, kdykoli je třeba.
+poznamky:
+- n: 1
+  text: '„Gran maestri“ – velcí páni, velitelé a šlechtici (na obrazci [[035v|na protější straně]] „Homini grandi“), kteří stojí s prapory, kapitány a dělostřelectvem na prostranství uprostřed kříže. „Conserue“ – průvodní oddíly, které je chrání (srov. „per conserva“ na [[051r|listu 51 r]]).'

@@ -2,6 +2,22 @@ id: 042r
 list: '42'
 strana: recto
 sken: 103
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE DE PICCHE TRECENTO A MODO DI FORFICE Capitolo.XXI.
+  cs: Jak udělat bataillon o třech stech pikách ve tvaru nůžek. Kapitola XXI.
+- typ: odstavec
+  de: |-
+    PEr fare el ditto battaglione de picche trecento ad forfece bisogna mettere in ordinanza ad cinque et bisogna partire ad uinti, ad uinticique, & fa una. V. & la bandiera sotto la. V. & circundarla con laltra parte como qui alincontro si dimostra, & questo battaglione ad forfece se adopera ad uno cantone de quadrangolo, o uero abrazando caualli & redurse in tondeza & calare le picche dentro, & fore, et cossi potrai moltiplicarlo in piu gran numero per questo ordine si dentro como fora, & ancho ali pizzi cioe la fronte.
+  cs: |-
+    Chceš-li udělat tento bataillon {battaglione} o třech stech pikách {picche} do nůžek {forfece}, je třeba postavit muže do šiku {ordinanza} po pěti, rozdělit je po dvaceti a po dvaceti pěti [řadách] a udělat V. Prapor {bandiera} [postav] pod V a obklop ho druhou částí, jak je ukázáno tady naproti.[^1] Tento bataillon do nůžek se používá na jednom rohu čtyřúhelníku {quadrangolo},[^2] anebo když obemyká jízdu {caualli}; tehdy se stáhne do kruhu a skloní píky dovnitř i ven. Tímto řádem ho můžeš rozmnožit na větší počet, jak uvnitř, tak venku, a také na hrotech, totiž na čele {fronte}.
+poznamky:
+- n: 1
+  text: |-
+    Obrazec je na protější straně [[041v|41 v]]. Iniciála P nebyla vytištěna (v prázdném místě je jen návěstí „p“), text doplněn na „PEr“; „uinticique“ je tisková chyba za „uinticinque“.
+- n: 2
+  text: |-
+    Patrně se nůžky staví na roh čtyřhranného bataillonu (quadrangolo, viz kapitoly XXIII n.), aby přijaly nepřítele útočícího na roh; „abrazando caualli“ = sevřít nepřátelskou jízdu mezi rameny. „Ali pizzi“ (na hrotech) jsou konce ramen V obrácené k nepříteli.

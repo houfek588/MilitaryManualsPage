@@ -2,6 +2,39 @@ id: 040v
 list: '40'
 strana: verso
 sken: 100
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    di parere de farlo conuiene diminuire de lordinanza, uer poi che le fatto pigliate intorno de epso alchuno filaro & farlo al numero conueniente.
+  cs: |-
+    rozhodl udělat ho [s křídly], je třeba ubrat ze šiku {ordinanza}, anebo až bude hotov, odeberte z něho kolem dokola některou řadu {filaro} a udělejte [křídla] o náležitém počtu.
+- typ: seznam
+  de:
+  - Picche. 400.
+  - o.7.5.25.18.77. Bandere lanze spezate.
+  cs:
+  - Pik {Picche} 400.
+  - 'o. 7. 5. 25. 18. 77. Prapory {Bandere}, lance spezzate {lanze spezate}.[^1]'
+- typ: obrazek
+  soubor: drevorez-100.jpg
+  popis: |-
+    Obrazec bataillonu o 400 pikách v trojúhelníku (kapitola XIX), větší obdoba obrazce na [[040r|listu 40 r]]: šik ve tvaru trojúhelníku se zaobleným spodkem, hrot nahoře pod nápisem „Fronte.“ (čelo), podél obou šikmých stran nápis FRONTE, dole nápis „Schino.“ (týl). Muži jsou znázorněni písmeny d, obvod lemuje střídavá řada d a o. Uprostřed volné trojúhelníkové prostranství s písmenem B (Bandera – prapor).
+- typ: nadpis
+  uroven: 2
+  de: A FARE VNO BATTAGLIONE de picche.400.in triangolo. Cap.XIX.
+  cs: Jak udělat bataillon o 400 pikách v trojúhelníku. Kapitola XIX.
+- typ: odstavec
+  de: |-
+    PEr fare el ditto battaglione de quatrocento picche in triangolo bisogna mettere in ordinanza ad sette, & parti ad uinticique, & ad deceotto & ad
+  cs: |-
+    Chceš-li udělat tento bataillon {battaglione} o čtyřech stech pikách {picche} v trojúhelníku {triangolo}, je třeba postavit muže do šiku {ordinanza} po sedmi a rozdělit je po dvaceti pěti [řadách], po osmnácti a po[^2]
+poznamky:
+- n: 1
+  text: |-
+    Šik po 7, „5“ = p. (partire), dělení 25, 18, 7, 7 řad (25 + 18 + 7 + 7 = 57 řad × 7 = 399 mužů); „77“ jsou zřejmě dvě sedmičky bez tečky. K zápisu viz poznámku na [[040r|listu 40 r]]. Prapory a lance spezzate se do počtu pik nezapočítávají.
+- n: 2
+  text: |-
+    Iniciála P nebyla vytištěna (v prázdném místě je jen návěstí „p“), doplněno „PEr“; „uinticique“ je tisková chyba za „uinticinque“. Krátký řádek „& ad“ vpravo dole není kustoda, ale konec textu strany (list 41 r začíná slovem „septe“).

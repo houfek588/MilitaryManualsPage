@@ -2,6 +2,39 @@ id: 046r
 list: '46'
 strana: recto
 sken: 111
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: |-
+    SI che per mille altri ragione concludo che uno exercito de Fantaria se debbe partire in piu battaglioni per fare facende & fattione grande, per benche ad questo me riporto nelli magnanimi, & loro opinione de militi inclinati ala militia
+  cs: |-
+    Z tisíce dalších důvodů tedy uzavírám, že vojsko {exercito} pěchoty {Fantaria} se má rozdělit do více bataillonů {battaglioni}, aby mohlo konat velké činy a podniky; v tom se ovšem odvolávám na velkomyslné [pány] a na mínění vojáků {militi} oddaných vojenství {militia}.[^1]
+- typ: nadpis
+  uroven: 2
+  de: CAPITOLO.XXXIIII.
+  cs: Kapitola XXXIIII.
+- typ: odstavec
+  de: |-
+    EDa notare anchora che li soprascripti Battaglioni per fare alcuno brazo diminuisse, o uero giongi a numero debito, & pertinente al battaglione de tanta centenara, o uero migliara & con buono intendimento de ragione de huomo di guerra, acio che el nome tuo non manchi in eterno, che chi con ragione more, con ragione uiue il suo nome.
+  cs: |-
+    Je třeba si ještě všimnout, že chceš-li u výše popsaných bataillonů {Battaglioni} udělat nějaké rameno, máš ubrat, anebo přidat do náležitého počtu, jaký přísluší bataillonu o tolika stech či tisících, a to s dobrým porozuměním, jaké má mít válečník, aby tvé jméno nikdy nezaniklo; neboť kdo s rozumem umírá, tomu s rozumem žije jméno.[^2]
+- typ: nadpis
+  uroven: 2
+  de: Cap XXXV.
+  cs: Kapitola XXXV.
+- typ: odstavec
+  de: |-
+    ANchora e necessario de sapere mettere la soa Fantaria bene in ordinanza, & uaga auanti a gli ochi de magnanimi, acio prendano diletto de lo adornamento, & buono ordine che porge el core de li experti militi, bisogna mettere la soa piccha nella spalla sinistra con la mano appresso la spalla, & con lo cubito alto forte, & el capo dritto, fermo & saldo, con la man dextra sula daga, ouero spada, & che la ditta piccha batta alla drittura del piede sinistro, alta, & li conuiene cosi alli altri dello medesimo filaro, & piu che ciascuno de loro habiano da intendere lo tamburro nella ordinanza con passi lenti, & braui, & ciascuno di loro con la medesima gamba mouendo el passo luno, & laltro ad un tempo non si mouendo del filare de loro filara ouer riga, & cossi facendo e concludo che dilettera molto alli magnanimi li presenti & circunstanti attale ordinanza.
+  cs: |-
+    Rovněž je nutné umět postavit svou pěchotu {Fantaria} pěkně a úhledně do šiku {ordinanza} před očima velkomyslných [pánů], aby měli potěšení z ozdobnosti a dobrého pořádku, který dodává srdce zkušeným vojákům {militi}. [Každý] má položit svou píku {piccha} na levé rameno, s rukou u ramene a s loktem pevně vzhůru, s hlavou vzpřímenou, pevně a neochvějně, s pravou rukou na dýce {daga} anebo meči; a píka má stát vysoko, v přímce s levou nohou[^3] – a tak to náleží i ostatním v téže řadě {filaro}. Navíc musí každý z nich v šiku poslouchat buben {tamburro} a kráčet pomalým a hrdým krokem, každý stejnou nohou, jeden jako druhý zároveň, aniž by vybočil z řady svého zástupu čili linie {riga}. Když budou takto činit, uzavírám, že takový šik velice potěší velkomyslné [pány], přítomné i přihlížející.
+poznamky:
+- n: 1
+  text: |-
+    Text kapitoly XXXIII, jejíž dlouhý nadpis je na [[045v|listu 45 v]]; závěr navazuje na tamní výklad, že více menších bataillonů je výhodnější než jeden velký šik.
+- n: 2
+  text: |-
+    V tisku stojí za koncem odstavce na témže řádku „Cap XXXV.“ – označení následující kapitoly, které edice vyčleňuje jako nadpis. Kapitola XXXIIII nemá vlastní nadpis kromě čísla.
+- n: 3
+  text: |-
+    Pochodové držení píky: píka leží na levém rameni, levá ruka ji drží u ramene s loktem zdviženým, pravá spočívá na jílci dýky či meče. „Che la ditta piccha batta alla drittura del piede sinistro, alta“ – doslova „aby píka bila v přímce levé nohy, vysoko“; patrně má píka mířit vysoko a šikmo vzhůru ve směru levé nohy (všechny píky řady rovnoběžně), případně se zadní konec kývat v rytmu kroku. Smysl není zcela jistý.

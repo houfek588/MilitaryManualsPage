@@ -2,6 +2,26 @@ id: 043v
 list: '43'
 strana: verso
 sken: 106
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE de picche.300. Capitolo.XXIIII.
+  cs: Jak udělat bataillon o 300 pikách. Kapitola XXIIII.
+- typ: odstavec
+  de: |-
+    BAttaglione de trecento picche in quadrangolo bisogna mettere in ordinanza ad sei, & partire ad decesette filara como e ditto di sopra con scopetteri & uno Capo di Squadra, & tre & piu & meno secondo il numero, & parti ad dodeci, ma prima ad decesette, & poi smembra, & tira per fianco, & smembra, & tira laltra parte, & unisci quadratamente, & sara perfetto con debita rasone di arte militare. Et per doi faze seranno picche decesette et per doi altre deceotto. Et e da notare che lo calare delle picche contra dello inimico sta suggetto al bisogno de qual banda sera offeso, & quando no se assalta se non ad una banda non hai da calare se non da quella comenzando dalla Bandera innanti a doi per doi, & tre per tre, & quatro per quatro che sara intorno, & cossi monstrara bon conto a ciascuno, in quantunque consiste al buon Capitano lo exercitare de battaglioni, non si puo negare che li buoni sergenti, & Capi di squadra et lanze spezate, & communamente conuiene ad tutti fare el debito, chi con lo ingegno, chi con lo orare, chi con le forze, chi con la magnanimita, chi con la obstinatione alla uittoria con fama, & tutto questo conuiene alla uera militia.
+  cs: |-
+    Bataillon {battaglione} o třech stech pikách {picche} ve čtyřúhelníku {quadrangolo}: je třeba postavit muže do šiku {ordinanza} po šesti a rozdělit je po sedmnácti řadách {filara}, jak je řečeno výše, s ručničáři {scopetteri} a jedním desátníkem {Capo di Squadra}, [případně] třemi, víc nebo méně podle počtu. Pak rozděl po dvanácti, ale nejprve po sedmnácti; potom odděl {smembra} a vytáhni na bok {fianco}, odděl a vytáhni druhou část a spoj [je] do čtverce. Bude to dokonalé podle náležitého pravidla válečného umění. Na dvou stranách {faze} bude sedmnáct pik a na dvou dalších osmnáct.[^1] A je třeba si všimnout, že sklápění pík {calare delle picche} proti nepříteli se řídí potřebou, podle toho, z které strany bude [bataillon] napaden. Když se útočí jen z jedné strany, nemáš sklápět [píky] jinde než na té straně, a to počínaje od praporu {Bandera} dopředu, po dvou a dvou, po třech a třech, po čtyřech a čtyřech, kteří budou kolem; tak to každému dobře poslouží.[^2] Ačkoli výcvik bataillonů náleží dobrému kapitánovi {Capitano}, nelze popřít, že i dobří šikovatelé {sergenti}, desátníci a lance spezzate {lanze spezate} a vůbec všichni musí konat svou povinnost: jeden rozumem, jiný výmluvností, jiný silou, jiný velkodušností, jiný zarputilou touhou po vítězství a slávě; a to vše náleží pravému vojenství {militia}.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE de picche.400. quadrangolo. Capitolo.XXV.
+  cs: Jak udělat čtyřhranný bataillon o 400 pikách. Kapitola XXV.
+poznamky:
+- n: 1
+  text: |-
+    Počet: 17 + 12 + 17 = 46 řad po 6 mužích = 276; počty jsou přibližné, zbytek do tří set doplňují ručničáři a desátníci na místech dělení, případně přebývající muži u praporu.
+- n: 2
+  text: |-
+    „Monstrara bon conto a ciascuno“ – doslova „ukáže každému dobrý účet“; postupné sklápění pík od praporu patrně ukáže každému, kdy má svou píku sklopit.

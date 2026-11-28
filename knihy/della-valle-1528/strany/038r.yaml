@@ -2,6 +2,18 @@ id: 038r
 list: '38'
 strana: recto
 sken: 95
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VN BATTAGLIONE DE TRECENTO PICCHE AD DOI LVNETTE CAPITO. XV.
+  cs: Jak udělat bataillon o třech stech pikách o dvou půlměsících. Kapitola XV.
+- typ: odstavec
+  de: |-
+    PEr fare el ditto battaglione de trecento picche ad doi lunette zoe ad mezo circo bisogna mettere inordinanza ad sei, & la bandera ad uinticinque, & parti fin alla bandera, & smembra che sono uinticinque filara, & farite laltra meza luna & metterite la Bandera fra luna & laltra como qua allincontro appare, uero e che bisogna pigliare sei picche per lunetta, & fare piaza alla Bandera, & le ditte sei picche, metterle per fianco della Bandera, & sei altre per laltra parte como qui alincontro se demostra non ad numero li scoppetti, per che non mai se ne hanno tanti ad uno battaglione, quanti ce ne conueriano, ma hauendone pochi se deueno collocare con questo ordine como se demostra qui alincontro.
+  cs: |-
+    Chceš-li postavit řečený bataillon {battaglione} o třech stech pikách {picche} o dvou půlměsících {lunette}, totiž v půlkruhu, je třeba seřadit šik {ordinanza} po šesti a prapor {bandera} do dvacáté páté [řady]. Rozděl [šik] až k praporu a odděl {smembra} tak, že je to dvacet pět řad {filara}, a uděláte druhý půlměsíc {meza luna} a prapor postavíte mezi jeden a druhý, jak je vidět na protější straně. Ovšem je třeba vzít z každého půlměsíce šest pikenýrů a udělat praporu prostranství {piaza}: řečených šest pikenýrů postavit po boku {per fianco} praporu a šest dalších na druhou stranu, jak je ukázáno na protější straně. Ručničáři {scoppetti} nejsou započítáni, protože jich bataillon nikdy nemá tolik, kolik by jich potřeboval; má-li jich však málo, mají se rozestavit tímto řádem, jak je ukázáno na protější straně.[^1]
+poznamky:
+- n: 1
+  text: 'Obrazec k této kapitole je na protější straně téže dvojstrany ([[037v|list 37 v]]); obrazec na [[038v|listu 38 v]] patří až ke kapitole XVI. Konec odstavce je sázen do zužujícího se trojúhelníku.'

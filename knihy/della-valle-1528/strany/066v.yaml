@@ -2,6 +2,26 @@ id: 066v
 list: '66'
 strana: verso
 sken: 152
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ouero per camino essere stato assaltato in alchun passo attale non ue stato modo expugnare lo passare, o uero per fortunal tempo che per grossa fiumara non potesse passare, elle iustamente scusato, uero che ciascuna de queste cause conuiene sene facia fede per huomini degni de fede, & posti in acti, & in forma publica, et cosi ale infirmita fede de medici.
+  cs: |-
+    anebo byl na cestě přepaden v nějakém průsmyku, takže nebylo možné si průchod vybojovat, anebo pro nečas nemohl projít přes rozvodněnou řeku – pak je spravedlivě omluven. Každou z těchto příčin však musí dosvědčit hodnověrní muži, a to zapsáno do akt a ve veřejné formě {forma publica}[^1], a nemoc stejně tak osvědčení lékařů.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE VNO CHE FOSSE STATO depinto, Se con ragione se puo refutare, si ouer no. Capitolo XXVII.
+  cs: |-
+    O tom, kdo byl potupně vymalován {depinto} – zda ho lze právem odmítnout, či nikoli. Kapitola XXVII.
+- typ: odstavec
+  de: |-
+    MOuesi el dubio dello actore quale per unaltra uolta e stato depinto in Cartello, & dice che lui per ben che sia stato depinto, & per lui si e mancato ad quello paresse essere tenuto, e causato sol per non combattere el torto, & non per uilita, ma per recognoscere idio che non lice uenire col torto a tal acto perche Dio pende dal canto della ragione, come chiaramente e noto. Ma al presente se troua hauer ragione laquale lie data dal reo intende restaurare, & fare fama de se, & quando fosse stato per chiaro iudicio da refutarlo, non sta bene sotto tal colore darli causa al combattere Se responde per el reo che la causa procede dala forma che luna causa ne fa laltra, pero non accetta essere stato principio ma stato mezo, & chel fin se relassa perche non conuiene lo agnello col lupo, ne Lepre con Lorso, ne coniglio con Leone, & non el magnanime col codardo, & ne ancho se puo fare che una cosa morta reuiuerla, & darli uita, & de anco legitima
+  cs: |-
+    Pochybnost vznáší vyzyvatel {actore}, který byl už jindy potupně vymalován ve vyzývacím listu {Cartello}. Říká, že ačkoli byl vymalován a nesplnil, k čemu se zdál být zavázán, stalo se to jen proto, aby nebojoval za nespravedlivou věc, a ne ze zbabělosti {uilita}, nýbrž z bázně Boží: nesluší se totiž jít k takovému činu s nepravdou, protože Bůh stojí na straně práva, jak je všeobecně známo. Nyní však má pravdu, kterou mu dal [svou urážkou] vyzvaný {reo}, a hodlá [svou čest] napravit a zjednat si dobré jméno; a pokud ho bylo jasným soudem třeba odmítnout, nemělo se [vyzvanému] slušet, aby mu pod touto záminkou dával důvod k boji. Za vyzvaného se odpovídá, že příčina vychází z toho, že jedna příčina plodí druhou; proto nepřipouští, že by [jeho urážka] byla počátkem, nýbrž jen pokračováním, a konec [věci] se ponechává stranou. Neboť se nesnese beránek s vlkem, zajíc s medvědem, králík se lvem ani velkomyslný se zbabělcem {codardo}; a také nelze způsobit, aby mrtvá věc znovu ožila a dostala život, ani aby zákonitá
+poznamky:
+- n: 1
+  text: 'In forma publica – v podobě veřejné (notářské) listiny, která má plnou důkazní moc.'

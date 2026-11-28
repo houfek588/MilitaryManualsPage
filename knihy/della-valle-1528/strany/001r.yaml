@@ -2,6 +2,29 @@ id: 001r
 list: '1'
 strana: recto
 sken: 21
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: LIBRO PRIMO
+  cs: Kniha první[^1]
+- typ: nadpis
+  uroven: 2
+  de: ALO EXCELLENTISSIMO ET molto Strenuo caualiero. S. Henrico Pandone Conte de Venafra lhumil seruidor Baptista de la Valle Venafrano.
+  cs: Převznešenému a velmi statečnému rytíři {caualiero}, panu Enricu Pandonovi, hraběti z Venafra, jeho pokorný služebník Battista della Valle z Venafra
+- typ: odstavec
+  de: |-
+    SOLEANO Li nostri magiori Excellentissimo Signor mio si lege il suo Signor, o uero benefattore como adun imortale nume, & Dio adorare, & continuamente uenerare, Il che per infinite uolte hauere intro de me considerato, ad lultimo ho deliberato monstrar, esser in quanto ale mei exigue forze compete, de quelle imitatore. Ad esso per exequir lo mio concepto, & far alcuno segno, & principio, ho totalmente deliberato secondo li costumi de gli Populi Parthe uisitare, Offerendote alcuno presentetto ad uno de ogni Fortuna terreste decorato & dotato condecente, & per cognoscere nullo dono per grande che fosse, essere piu maiore, & sincero, & piu duraturo in gli mortali che donare il proprio core, & animi, & de lo ingegno alcuno delecteuole, & utile frutto te mando il presente Libro Vallo nominato. Benche le sententie, ragione, & precepti militanti non siano dal mio rude ingegno excogitati, ma da la excellentia uostra imaginati, & ad noi uostri fideli seruitori referiti, & exquisitamente imparati. Et questo non sia admiratione ali lettori del presente opusculo. Atteso che uostra
+  cs: |-
+    Naši předkové, převznešený můj pane, měli, jak se čte, ve zvyku uctívat svého pána neboli dobrodince jako nesmrtelné božstvo, ba jako Boha, a ustavičně ho ctít. Když jsem to v sobě nesčíslněkrát uvážil, rozhodl jsem se nakonec ukázat, že jsem jejich následovníkem, nakolik to mým nepatrným silám přísluší. Abych tedy svůj záměr uskutečnil a dal tomu nějaké znamení a počátek, rozhodl jsem se navštívit Tě podle obyčeje parthských národů[^2] a obětovat Ti nějaký skromný dárek, jak se sluší na toho, kdo je ozdoben a obdařen veškerým pozemským štěstím. A protože poznávám, že mezi smrtelníky není žádný dar, byť sebevětší, větší, upřímnější a trvalejší, než darovat vlastní srdce a mysl a nějaký příjemný a užitečný plod svého ducha, posílám Ti tuto knihu nazvanou Val. Ač vojenské zásady, úvahy a předpisy v ní nevymyslel můj neumělý duch, nýbrž Vaše Excelence, která je nám, svým věrným služebníkům, sdělila, a my jsme se jim důkladně naučili.[^3] To ať čtenáře tohoto spisku nepřekvapuje, neboť Vaše
+poznamky:
+- n: 1
+  text: |-
+    Slova LIBRO PRIMO stojí v místě živého záhlaví (s číslem listu 1); na této straně zároveň uvozují první knihu. Věnování začíná zdobnou dřevořezovou iniciálou S s postavou papeže v tiáře se svatozáří mezi dvěma ptačími (drakovitými) hlavami.
+- n: 2
+  text: |-
+    Narážka na perský (zde „parthský“) obyčej, že nikdo nesměl předstoupit před krále bez daru; antické anekdoty (Aelianus, Plútarchos) vyprávějí o prostém muži, který králi Artaxerxovi podal v dlaních vodu z řeky, protože neměl nic jiného.
+- n: 3
+  text: |-
+    Věta „Benche … imparati“ je v originále neúplná (přípustková vedlejší věta bez věty hlavní); překlad ji ponechává jako samostatnou větu. Autor v textu střídá tykání („te mando“) a vykání („uostra excellentia“); překlad to zachovává.

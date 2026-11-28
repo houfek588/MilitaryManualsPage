@@ -2,6 +2,27 @@ id: 060v
 list: '60'
 strana: verso
 sken: 140
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    accordo, & uolonta dello attore, & non uolesse acceptare li ditti pezzi di arme da deffendere, le po con ragio ne rifutare.
+  cs: |-
+    [se to neděje] po dohodě a s vůlí vyzyvatele {attore}[^1] a on by nechtěl řečené kusy obranné zbroje přijmout, může je právem odmítnout.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE DOI COMBATTANTI ET quello alqual conuiene elegere le arme per litere ne fara noto a laltro de tale, & tale arme te preparerai, & non ce sara altra reserua de mancare, & giongere se si puo per mutare de altre arme de quelle o si o no. Capitolo. XV.
+  cs: |-
+    O dvou bojovnících, z nichž ten, komu přísluší volba zbraní, dá druhému listem vědět „připrav si takové a takové zbraně“ a nebude tam žádná jiná výhrada, že něco ubere nebo přidá – zda smí ty zbraně vyměnit za jiné, nebo ne. Kapitola XV.
+- typ: odstavec
+  de: |-
+    SE Moue el dubio che il desfidato hauera donato auiso alo desfidatore che lui se habia ad preparare per el di de la giornata de tale, & tale arme, & non ui sara altra reserua, & quando saranno insul campo li appresentara altre sorte de arme dicendo che a lui e sta lo elegere la eletione dele arme, & sono in lo luoco de elegere, & da operarle & dara quelle le quale li piacera, Se risponde per lo attore che non conuiene che a una cosa ditta ouero fatta, & maxime ad magnanimi & no ancho sta bene essere licito de dare, & tore, & dire una cosa, & poi fare unaltra, & non ancho el deuere che uno possa ligare, & dissogliere, et fare quello che uuole in preiudicio della parte, tanto piu che in questo mestiero de militia se prende & attacase ad ogni piccolo ramuzio, & quando lhuomo mal se rege spesso accade sforzatamente tollerare, siche e licito lassare li primi termini, & combattere noue cause, cossi ancho si po con ragione attaccarse ad quello che lo cossi desteso ditto per prima senza reserua de giongere, & mancare, gran priuilegio, & diuina gratia hara lhuomo che
+  cs: |-
+    Vzniká pochybnost, když vyzvaný {desfidato} dal vyzyvateli {desfidatore} zprávu, aby se na den boje připravil s takovými a takovými zbraněmi, a nebyla tam žádná jiná výhrada, a když pak jsou na kolbišti, předloží mu jiné druhy zbraní a říká, že volba zbraní příslušela jemu, že je na něm, aby volil a určil, jak se jich bude užívat, a že dá ty, které se mu zalíbí. Za vyzyvatele {attore} se odpovídá, že se to nesluší u věci jednou řečené nebo učiněné, a nejvíce u velkodušných mužů; a také není správné, aby bylo dovoleno dávat a brát, říci jednu věc a pak udělat jinou, a není ani spravedlivé, aby někdo mohl vázat a rozvazovat a dělat, co chce, k újmě protistrany – tím spíše, že v tomto vojenském řemesle {militia} se člověk chytá a drží každé malé větvičky, a když se člověk špatně ovládá, často se stane, že musí z donucení snášet [následky]. A jako je dovoleno opustit první podmínky a bojovat o nové příčiny, tak se lze také právem držet toho, co bylo napoprvé takto výslovně řečeno bez výhrady něco přidat nebo ubrat. Velkou výsadu a Boží milost by měl člověk, [kdyby mohl]
+poznamky:
+- n: 1
+  text: |-
+    Tisk má „per questo quando per | accordo, & uolonta dello attore“ – smysl vyžaduje zápor („když ne po dohodě a s vůlí vyzyvatele“), jak ukazuje závěr věty; překlad jej doplňuje v hranatých závorkách. Tisk také píše „ragio ne“ (= ragione) a „deffendere“; ověřeno ve skenu.

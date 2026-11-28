@@ -2,6 +2,24 @@ id: 056r
 list: '56'
 strana: recto
 sken: 131
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: |-
+    SEranno state tra doi de molte cose iniuriose ditte, ouer fatte, & uno de epsi elquale se sente essere leso prende a scriuere retificando le loro cose, et poi se fermara in qualche querela ad epso fauorebile, & quella dice, & conclude uolere sustentare, Le da uedere se le desfida, & qui se moue la lite. Alchun dice per essere el primo cartello mandato, el quale moue termino de combattenti, & dado misso in tauola, par ben che sia actore principio del fine de preuenire a combattere, per questo se potrebbe intendere desfida, & perdere la actione delle arme, qui conuiene respondere ben che stiano in presentia discorreno di folminante, parlamenti & e per possibile da luna & laltra parte non uscire a mantenere o uer far buono, & restare le cose sopite & non sono in desfida, & piu se descriuera ad alchuno de alchune cose fatte, o uer ditte ad tentarlo, se le per farlo buono si o uer no, & questo solo se fa per farlo essere actore, & per essere uno testare & recordo non si puo dire essere desfida. Anchora piu se disdice, o fara dire a uno che sia un traditore non e disfida, per benche sia principio de tale fine, & cosi dicendo uolerlo sustentare, se intende quando ne sera recercato a modo che le schiauo ad un precipitio che li conuiene sostentare, & si ancho come al pouero Sommiero che le inuitato a portare la soma & conuenela sostentare, & piu anchora de tanti martiri che diceuano uolere sostentare la morte, non per questo erano actori, che sarebbe stato un dar de morte a lor stessi, quale non lice. Ma che aspettauano lo actore & modo et argano ad tirarlo alo sostentare, & non erano per tal causa de dire uoler sostentare actore del fine, ma erano rei.
+  cs: |-
+    Jestliže mezi dvěma padlo mnoho urážlivých slov nebo se stalo mnoho urážlivých činů a jeden z nich, který se cítí dotčen, se dá do psaní, uvede jejich záležitosti na pravou míru, pak se zastaví u nějakého sporu {querela}, který je mu příznivý, vysloví ho a zakončí tím, že ho chce hájit {sustentare},[^1] je třeba uvážit, zda je to výzva {desfida} – a tu vzniká pře. Někteří říkají, že protože to byl první odeslaný vyzývací list {cartello}, který bojujícím stanoví lhůtu, a kostky jsou vrženy na stůl,[^2] zdá se, že [pisatel] je vyzyvatelem {actore} a počátkem konce, totiž toho, že se dojde k souboji; proto by se to mohlo chápat jako výzva a on by ztratil volbu zbraní {actione delle arme}.[^3] Na to je třeba odpovědět: i když stojí tváří v tvář, mluví hromovými slovy a jednají spolu, je možné, že ani jedna strana nevystoupí, aby [svá slova] hájila nebo jim dostála, a věci zůstanou v klidu – a to není výzva. Dále, napíše-li se někomu o nějakých činech nebo slovech, aby se vyzkoušelo, zda je ochoten jim dostát, či ne, děje se to jen proto, aby se z něho stal vyzyvatel; a protože je to jen svědectví a připomínka, nelze říci, že je to výzva. A dále: řekne-li[^4] kdo někomu sám nebo skrze jiného, že je zrádce, není to výzva, ačkoli je to začátek takového konce. A stejně když řekne, že to chce hájit, rozumí se tím: až k tomu bude vyzván – jako otrok na kraji propasti, který musí vydržet, nebo jako ubohý soumar, kterého pobídnou nést náklad a musí ho unést. A co víc, ti mnozí mučedníci, kteří říkali, že chtějí snést smrt, nebyli proto vyzyvateli, neboť to by bylo usmrcení sebe sama, což není dovoleno. Čekali však na vyzyvatele a na způsob a rumpál, který by je přitáhl k tomu, aby ji snesli; a tím, že řekli, že ji chtějí snést, se nestali vyzyvateli onoho konce, nýbrž byli vyzvanými {rei}.
+poznamky:
+- n: 1
+  text: |-
+    Sustentare / sostentare – autor si hraje s dvojím významem slova: „hájit, obhájit [se zbraní v ruce]“ (tvrzení ve sporu) a „snášet, nést“ (otrok, soumar, mučedníci). Kdo jen prohlásí, že své tvrzení obhájí, je podle něho vyzvaným, ne vyzyvatelem.
+- n: 2
+  text: |-
+    „Dado misso in tauola“ – doslova „kostka vržená na stůl“, tj. hra začala, věc je rozhodnuta.
+- n: 3
+  text: |-
+    Podle soubojových pravidel volí zbraně vyzvaný (reo); vyzyvatel (actore) toto právo ztrácí. Proto bylo tak důležité určit, kdo je vyzyvatelem.
+- n: 4
+  text: |-
+    Tisk má „se disdice, o fara dire“ – „disdice“ je tu patrně za prosté „dice“ (řekne), případně ve smyslu „odporuje, obviní ze lži“.

@@ -2,6 +2,30 @@ id: 057r
 list: '57'
 strana: recto
 sken: 133
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    hauere & tu a altro uoi darlo con cortesia, se prende. Et piu dico che le mal donare ad chi non ha agrato, & accepta il dono, & non se puo dare taccia ouer pecco al donatore che con buono animo lo offerisce, ma dello acceptare che scortesemente nega il dono, per tanto e da intendere che le si ualido lultimo testamento como lo primo obligo, & per chiara consuetudine se uisto, & uede lassare le prime cause, & combattere noui termini, & questo aduiene per accordo, o uero mal uedere, in fine chi tene, & lassa, ad altri e a suo bel danno.
+  cs: |-
+    mít od druhého, a chceš ji druhému s dvorností dát, přijímá se to. A dále pravím, že špatně se daruje tomu, komu to není milé, a on dar přesto přijme; dárci, který jej s dobrým úmyslem nabízí, nelze vytknout vadu ani chybu, nýbrž tomu, kdo má dar přijmout[^1] a nezdvořile ho odmítá. Proto je třeba rozumět, že poslední vůle platí stejně jako první závazek; a podle zřejmého obyčeje se vidělo a vidí, že se opouštějí první příčiny [sporu] a bojuje se o nové podmínky, a to se děje dohodou anebo ze zlé vůle. Nakonec: kdo [výzvu] drží, a pak ji přenechá jiným, činí tak ke své vlastní škodě.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE DOI CHE SONO A CONTENDERE in parole, & uno dice poltrone, o traditore, & laltro li mena un boffetto, & non li da ma dice per poco non so che mi tiene, si se intende de si, ouer no de auerli dato. Capitolo. IX.
+  cs: |-
+    O dvou, kteří se přou slovy; jeden řekne [druhému] zbabělče nebo zrádce a druhý se po něm ožene políčkem, ale nezasáhne ho a řekne „málem, nevím, co mě drží“ – zda se má za to, že mu políček dal, nebo ne. Kapitola IX.
+- typ: odstavec
+  de: |-
+    E Da intendere de doi che son montati in colera, ira, & furore, et che uno iniuria laltro in parole, et quello iniuriato li mena uno boffetto, ouer sguanzata, & non li da, ma li dice non so che mi tene che non ti dia, si se po intendere hauere receuuta la ingiuria si o no, Se dice che de molte cose si consiste allanimo ouer intentione, & quello lui afferma, che quando el si senti cde lera iniuriato de parole, che lui con deliberatione alzo la mano per darli un boffetto, per far li fatti, e mazor carrico, & si e stato impedito, non e restato che non habbia habuto animo deliberato, & fattone lo atto demonstratiuo, & per lo atto essere apparso in parte, elquale si stima per uillissimo moto che li e usato
+  cs: |-
+    Je třeba posoudit případ dvou, kteří se rozpálili v hněvu, zlosti a zuřivosti: jeden urazí druhého slovy a uražený se po něm ožene políčkem {boffetto} čili fackou {sguanzata}, ale nezasáhne ho, nýbrž mu řekne: „Nevím, co mě drží, že ti ji nedám.“ Lze mít za to, že [první] urážku {ingiuria} utrpěl, nebo ne? Říká se, že v mnoha věcech záleží na úmyslu čili záměru. A [uražený] sám potvrzuje, že když cítil, že byl[^1] uražen slovy, rozvážně zvedl ruku, aby mu dal políček – aby mu to oplatil činem, což je větší potupa {carrico}[^2] – a byl-li v tom zadržen, nic to nemění na tom, že měl rozvážný úmysl a učinil k tomu zjevný úkon. A protože se ten úkon zčásti projevil a považuje se za nanejvýš potupné gesto, které bylo proti němu použito,
+poznamky:
+- n: 1
+  text: |-
+    „Dello acceptare“ – snad zkomoleno z „acceptatore“ (příjemce); dále tisk „cde lera“ místo „che lera“ (že byl). Ověřeno ve skenu.
+- n: 2
+  text: |-
+    Carico (carrico) – v jazyce cti „břemeno“, tj. urážka, která zatěžuje čest a vyžaduje zadostiučinění. Políček (schiaffo, boffetto) platil za nejtěžší urážku činem, horší než slovní obvinění ze lži.

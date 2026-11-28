@@ -8,7 +8,7 @@ autor_zivot: 1. polovina 16. století, voják z Venafra
 vydani: Benátky, Piero de Ravani, 1528
 rok: 1528
 katalog: 'Getty Research Institute, 9928375040001551'
-rozsah: '[8], 71, [1] listů'
+rozsah: '[8], 71 listů'
 jazyk: it          # jazyk originálu: pole `de` ve stranách a glosáři obsahuje ITALSKÝ text a tvary
 jazyk_orig: italština (1528, s neapolskými a benátskými rysy)
 popis: >-
@@ -19,8 +19,8 @@ prekladatel: Přepis ze skenu (OCR jen pomocně) a překlad s pomocí LLM, 2026.
 strankovani: folio
 strany_poznamka: >-
   Úvod (titul, verše, obsah a „tři kapitoly o ohňostrojných zbraních“) tvoří 8 nečíslovaných listů, které edice
-  uvádí v hranatých závorkách [1]–[8]; text je foliován 1–71 (list N r = sken 2N + 19), na listu [72] r (sken 163) je
-  tiskařský znak. Exempláři Getty Research Institute chybí poslední (patrně prázdný) list.
+  uvádí v hranatých závorkách [1]–[8]; text je foliován 1–71 (list N r = sken 2N + 19); tiráž a registr archů jsou na 71 r,
+  tiskařský znak (korunovaná siréna) na 71 v. Exempláři Getty Research Institute chybí poslední (patrně prázdný) list.
 zdroj_textu: 'Italský text je přepsán podle digitalizace Getty Research Institute v Internet Archive (vallolibrocotine00dell), OCR archivu sloužilo jen pomocně;'
 
 sken:
@@ -49,7 +49,7 @@ poznamky_k_prekladu: |
   „Capitoli tre de artificii de fuoco novamente aggionti“ [6] r – [8] v, LIBRO PRIMO s věnováním hraběti
   Henricovi Pandonovi z Venafra od listu 1 r (sken 21), LIBRO SECONDO od listu 20 r (sken 59; dobývání: mosty,
   žebříky, stroje), LIBRO TERZO od listu 29 v (sken 78; bataillony a šiky – mnoho obrazců z písmen a teček),
-  LIBRO QUARTO od listu 53 v (sken 126; šlechtictví, urážky cti a souboje), tiráž a registr 71 v (sken 162).
+  LIBRO QUARTO od listu 53 v (sken 126; šlechtictví, urážky cti a souboje), tiráž a registr 71 r (sken 161), tiskařský znak 71 v (sken 162).
   Úroveň 1 = titul, obsah, úvodní kapitoly o ohni, jednotlivé knihy; úroveň 2 = kapitoly („Capitolo …“);
   úroveň 3 = drobné mezinadpisy.
 

@@ -2,6 +2,19 @@ id: 025r
 list: '25'
 strana: recto
 sken: 69
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: obrazek
+  soubor: drevorez-69.jpg
+  popis: |-
+    Útočný žebřík skládaný z kusů (ke kapitole IX pod vyobrazením) v rozevřeném postavení do tvaru písmene A: vlevo žebřík o dvou štěřínech se šesti příčlemi; štěříny jsou složené z několika kusů spojených kováním s hřeby a dole zakončené železnými hroty. Nahoře nesou oba štěříny velké zahnuté železné háky (brocchi, rampini), jimiž se žebřík zachytí za hranu hradby, a jsou spojeny příčnou tyčí. Vpravo je k hlavě žebříku připojena šikmá tyč s kolíky trčícími střídavě na obě strany a s hrotem dole – patrně tyč (bastone), která podle textu pomáhá žebřík navést a postavit.
+- typ: nadpis
+  uroven: 2
+  de: MODELLO DE SCALA DE unaltra maniera a pezi. Cap.IX.
+  cs: Stroj – žebřík jiného způsobu, skládaný z kusů. Kapitola IX.
+- typ: odstavec
+  de: |-
+    VNaltro modo de Scala laqual e de pezi como qui e da comprendere, & con uno bastone che lo
+  cs: |-
+    Jiný způsob žebříku {Scala}, který je skládaný z kusů, jak je zde patrno; a s tyčí, která jej

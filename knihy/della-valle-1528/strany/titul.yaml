@@ -2,7 +2,7 @@ id: titul
 list: titulní list [1] r
 strana: recto
 sken: 5
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -13,7 +13,7 @@ bloky:
   de: |-
     libro continente appertenentie ad Capitanii, retenere et fortificare una Citta con bastioni, con noui artificii de fuoco aggionti, come nella tabola appare, & de diuerse sorte poluere, et de expugnare una Citta con ponti, scale, argani, trombe, trenciere, artegliarie, caue, dare auisamenti senza messo allo amico, fare ordinanze, battaglioni, Et ponti de disfida con lo pingere, opera molto utile con la experientia de larte militare.
   cs: |-
-    kniha obsahující věci příslušející kapitánům {Capitanii}: jak udržet a opevnit město {Citta} baštami {bastioni}, s nově přidanými ohňostrojnými zbraněmi {artificii de fuoco}, jak ukazuje obsah {tabola}, a o rozličných druzích prachu {poluere}; jak dobýt město mosty {ponti}, žebříky {scale}, rumpály {argani}, ohnivými troubami {trombe}, zákopy {trenciere}, dělostřelectvem {artegliarie} a minami {caue}; jak podat zprávu příteli bez posla; jak stavět šiky {ordinanze} a bataillony {battaglioni}; a body výzvy k souboji {disfida} spolu s potupným malováním[^2] – dílo velmi užitečné, se zkušeností válečného umění.
+    kniha obsahující, co přísluší kapitánům {Capitanii}: jak udržet a opevnit město {Citta} baštami {bastioni}, s nově přidanými ohňostrojnými zbraněmi {artificii de fuoco}, jak ukazuje obsah {tabola}, a o rozličných druzích prachu {poluere}; jak dobýt město mosty {ponti}, žebříky {scale}, rumpály {argani}, ohnivými troubami {trombe}, zákopy {trenciere}, dělostřelectvem {artegliarie} a minami {caue}; jak podat zprávu příteli bez posla; jak stavět šiky {ordinanze} a bataillony {battaglioni}; a sporné body výzvy k souboji {disfida} spolu s potupným vymalováním {pingere}[^2]. Dílo velmi užitečné, opřené o zkušenost z válečného umění.
 - typ: obrazek
   soubor: drevorez-5.jpg
   popis: |-
@@ -24,4 +24,4 @@ poznamky:
     „Vallo“ – val, opevnění (lat. vallum); v dedikačních verších na rubu listu autor slovo zároveň spojuje s „vale“ (má cenu) a se svým jménem Della Valle.
 - n: 2
   text: |-
-    „Ponti de disfida“ = „punti di disfida“, tj. sporné body (otázky) souboje a výzvy, nikoli mosty. „Lo pingere“ (malování) je dobový zvyk soubojového práva: kdo se k vyhlášenému souboji nedostavil nebo nedostál slovu, toho protivník směl dát veřejně potupně vymalovat (např. hlavou dolů nebo se znamením zrady) jako nečestného. Della Valle o tom jedná ve čtvrté knize.
+    „Ponti de disfida“ = „punti di disfida“, tj. sporné body (otázky) výzvy a souboje, nikoli mosty; jedná o nich čtvrtá kniha.

@@ -2,7 +2,7 @@ id: 008r
 list: '8'
 strana: recto
 sken: 35
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -10,12 +10,12 @@ bloky:
   de: |-
     MODO DE INCHINARE VNO RIPARO, EL QVALE VIENE A CALARE SECONDO IL RIPARO CON LE SOE CANDONERE CAPITOLO NONO.
   cs: |-
-    Způsob, jak naklonit {INCHINARE} záštitu, která se svažuje podle záštity, s jejími střílnami. Kapitola devátá.[^1]
+    Způsob, jak naklonit záštitu, která se svažuje podle [sklonu] záštity, s jejími střílnami. Kapitola devátá.[^1]
 - typ: odstavec
   de: |-
     EDa notare che questo e uno modello de dare notitia como se debbe inchiauare uno riparo, elquale uiene ad Calare secondo cala lo riparo con le soe candonere pertinente ad epso, & ancho al loco, bisogna che si habia ad hauere lo intendimento sapere murare li manocchi, liquali manocchi uoleno essere li capi torti, & stretti & uno solaro de epso & laltro de terreno mettendoce le soe candonere & chiaue como qui alincontro appare.
   cs: |-
-    Je třeba poznamenat, že toto je vzor {modello}, který má ukázat, jak se má záštita {riparo} sepnout kotvami {inchiauare}; [kotvení] se svažuje {Calare}, tak jak se svažuje záštita, spolu s jejími příslušnými střílnami {candonere}, a také podle místa. Je třeba mít porozumění a umět vyzdít otepi {manocchi}; ty otepi mají mít konce zkroucené a utažené a klade se jedna vrstva {solaro} z nich a druhá ze zeminy a vkládají se do toho střílny a kotvy {chiaue}, jak je vidět zde naproti.[^2]
+    Je třeba poznamenat, že toto je vzor, který ukazuje, jak se má sepnout kotvami {inchiauare} záštita {riparo}: [kotvy] se svažují tak, jak se svažuje záštita, spolu s jejími příslušnými střílnami {candonere}, a také podle místa. Je třeba mít porozumění a umět vyzdít otepi {manocchi}; ty mají mít konce zkroucené a utažené. Klade se jedna vrstva {solaro} otepí a druhá zeminy a vkládají se do toho střílny a kotvy {chiaue}, jak je vidět zde naproti.[^2]
 poznamky:
 - n: 1
   text: Nadpis má „INCHINARE“ (naklonit), text „inchiauare“ (sepnout kotvami, od chiave); nadpis je patrně tisková chyba, obsah kapitoly se týká kotvení svažující se záštity.

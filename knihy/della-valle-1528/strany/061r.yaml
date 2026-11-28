@@ -2,7 +2,7 @@ id: 061r
 list: '61'
 strana: recto
 sken: 141
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,18 +10,18 @@ bloky:
   de: |-
     ciascuna cosa mal fatta che la non fosse, ouero resoluerla senza preiudicio della parte, ma per non pottere bisogna che de lui stesso si doglia.
   cs: |-
-    každou špatně vykonanou věc [učinit], jako by se nebyla stala, anebo ji napravit bez újmy protistrany; protože to však nemůže, musí si stěžovat sám na sebe.
+    každou špatně vykonanou věc odčinit, jako by se nestala, anebo ji rozvázat bez újmy protistrany; protože to však nemůže, musí si stěžovat sám na sebe.
 - typ: nadpis
   uroven: 2
   de: |-
     DE DOI CHE SONO PER COMBATTERE no ad tutta oltranza, ma per accordo saranno ad le tre prime ferite che uno de loro harra sia perditore, & uno harra leuato doi ferite, & laltro una, se quello delle doi e presone o si o no. Capitolo XVI.
   cs: |-
-    O dvou, kteří mají bojovat ne na život a na smrt {ad tutta oltranza}[^1], nýbrž podle dohody, že kdo z nich utrží první tři rány, bude poraženým: jeden utržil dvě rány a druhý jednu – zda je ten se dvěma ranami zajatcem {presone}[^2], či nikoli. Kapitola XVI.
+    O dvou, kteří mají bojovat ne na smrt {ad tutta oltranza}, nýbrž podle dohody, že kdo z nich utrží první tři rány, bude poražený; jeden utržil dvě rány a druhý jednu – zda je ten se dvěma ranami zajatcem {presone}[^1], či nikoli. Kapitola XVI.
 - typ: odstavec
   de: |-
     MOuese el dubio de chi sara ditto che la fine de lor querelle se determina ad tre ferite, nasce che quello che harra donato doi ferite sia el perditore, & quello che ne hauera hauuta una sia lo uincitore atteso che ad tre colpi ne ha datto doi & chel suo son tre, Se risponde di no & toglie lo exempio che saranno doi iocatori de palla, & metteranno un precio, uerbi gratia ad tre iochi, & saranno ad uno, ad uno, & quando per chiaro accordo non fanno altro, a laltro, hauendo che uno haueria uento doi iochi, ueneno al quarto, & per sorte saranno ad doi, ad doi, conuiene chel quinto facia fine, che uno hauera uinto doi iochi & laltro tre, & quello prendera el precio. Et piu che saranno doi maestri de scrimire, & iocaranno ad tre botte uno precio, che pur son huomini del mestiero, conuiene quando non uene per nouo accordo, & facendo iacere la cosa como le, se intende che il perditore habia receuuto tre botte, & le soi date non sono in numero.
   cs: |-
-    Vzniká pochybnost u těch, o nichž bylo řečeno, že konec jejich sváru {querelle} se určí třemi ranami {ferite}: zda ten, kdo udělil dvě rány[^3], je poražený a ten, kdo jednu utržil, vítěz, ježto ze tří ran dal dvě a že jeho [počet] činí tři. Odpovídá se, že nikoli, a bere se příklad ze dvou hráčů míčové hry {palla}[^4], kteří vsadí cenu, řekněme na tři hry: budou na jedné a jedné, a nedohodnou-li se výslovně jinak, [hraje se] dál; když jeden vyhrál dvě hry, přijdou ke čtvrté, a budou-li náhodou na dvou a dvou, musí to rozhodnout pátá, takže jeden vyhraje dvě hry a druhý tři, a ten pak bere cenu. A dále: když dva šermířští mistři {maestri de scrimire} hrají o cenu na tři zásahy, ač jsou to lidé z řemesla, platí – nedojde-li k nové dohodě a nechá-li se věc tak, jak je –, že poražený je ten, kdo utržil tři zásahy, a zásahy, které sám udělil, se nepočítají.
+    Vzniká pochybnost u těch, o nichž bylo ujednáno, že konec jejich sporu {querelle} určí tři rány: zda ten, kdo „udělil“ dvě rány[^2], je poražený a ten, kdo utržil jednu, vítězem, ježto ze tří ran [protivník] zasadil dvě a s jeho [jednou] jsou tři. Odpovídá se, že nikoli, a uvádí se příklad dvou hráčů míčové hry[^3], kteří vsadí cenu, řekněme na tři hry. Je-li stav jedna k jedné a nedohodnou-li se výslovně jinak, hraje se dál; když jeden vyhraje dvě hry, přijde na řadu čtvrtá, a bude-li náhodou stav dva ku dvěma, musí rozhodnout pátá, takže jeden bude mít vyhrané dvě hry a druhý tři, a ten bere cenu. A dále: když dva šermířští mistři {maestri de scrimire} hrají o cenu na tři zásahy, ač jsou to lidé z řemesla, platí – nedojde-li k nové dohodě a nechá-li se věc tak, jak je –, že poražený je ten, kdo utržil tři zásahy, a zásahy, které sám zasadil, se nepočítají.
 - typ: nadpis
   uroven: 2
   de: |-
@@ -30,10 +30,8 @@ bloky:
     O dvou bojovnících, z nichž
 poznamky:
 - n: 1
-  text: 'Combattere a (tutta) oltranza – bojovat „do krajnosti“, tj. dokud jeden nepadne, nevzdá se nebo není vyhnán z kolbiště; opak souboje „per accordo“ s předem smluveným koncem (např. do tří ran).'
+  text: 'Presone (prigione) – zajatec; poražený, který se vzdal, se podle soubojového práva stával zajatcem vítěze.'
 - n: 2
-  text: 'Presone (prigione) – zajatec; podle soubojového práva se poražený, který se vzdal, stával zajatcem vítěze.'
+  text: 'Tisk má „donato“ (udělil), ač nadpis kapitoly mluví o tom, kdo dvě rány „utržil“ (leuato), a odpověď vychází z ran utržených; patrně jde o přehlédnutí autora či sazeče. Text je ponechán podle tisku.'
 - n: 3
-  text: 'Tisk má „donato“ (udělil), ač nadpis kapitoly mluví o tom, kdo dvě rány „utržil“ (leuato); smysl sporu je patrně, zda ten, kdo utržil dvě rány ze tří (dohromady), už prohrál. Text ponechán podle tisku.'
-- n: 4
-  text: 'Palla – míčová hra (pallone, jeu de paume), hraná o sázku na určitý počet vyhraných her.'
+  text: 'Palla – míčová hra (pallone, předchůdce tenisu), hraná o sázku na určitý počet vyhraných her.'

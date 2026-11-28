@@ -2,6 +2,29 @@ id: 031r
 list: '31'
 strana: recto
 sken: 81
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: o.3.5.10.8.10.a.16.mitte per.10.a.6.M.alla piaza. Scopetti.36.
+  cs: o.3.5.10.8.10.a.16. postav po [boku] 10. a.6. M. na prostranství {piaza}. Ručničářů {Scopetti} 36.[^1]
+- typ: obrazek
+  soubor: drevorez-81.jpg
+  popis: |-
+    Bataillon sta pikenýrů (ke kapitole VI), sázený z písmen do čtverce asi 10 řad po 10 mužích. Nahoře nápis Fronte – čelo, na obou bocích „Fianco e fronte“ – bok a čelo, dole vzhůru nohama „Spalle e fronte, voltare le picche“ – záda a čelo, obrátit píky. První a poslední řadu tvoří střídavě „d“ (pikenýři) a „o“ (ručničáři), oba boky svislé řady „d“ a „o“ obrácené na bok; uvnitř jsou řady „d“, uprostřed prázdné místo (prostranství pro prapor) a pod ním řada „p“.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIOne de picche cento. Cap. VI.
+  cs: Jak udělat bataillon o sto pikách. Kapitola VI.
+- typ: odstavec
+  de: |-
+    PEr fare el battaglione de picche cento bisogna mettere ad ordinanza ad tre la bandiera ad quatordece & parti ad dieci filara, ad otto, ad dieci & sedeci picche auanza, & metti al fiancho alla fila de diece & laltri sei ala piaza, E da notare chal ditto battaglione metti ad diece filara, sei scopetteri, & ad otto altre filara sei altri scopetteri per lo fianco dextro fino alli primi scoppetti che mettesti uoleno diece scoppetti al fianco sinistro nella parte ultima dieci altri scopetti, & poi desmembra ad diece filara, & metti per fianco, & tira fine alla testa della ordinanza che ce uerra la bandiera, & guarda doue mettesti sei altri scoppetteri, et smembra un filaro de scoppetti lassa, et laltro piglia, & tira per fianco fine alla testa, & cosi inquadri el battaglione mettendo delli sedeci che auanza diece per lo
+  cs: |-
+    Chceš-li postavit bataillon {battaglione} o sto pikách {picche}, je třeba je seřadit do šiku {ordinanza} po třech, prapor {bandiera} do čtrnácté [řady], a [šik] rozdělit na deset řad {filara}, osm a deset; přebývá šestnáct pikenýrů. [Deset z nich] postav na bok k části o deseti řadách a ostatních šest na prostranství[^2]. A pamatuj, že k řečenému bataillonu postavíš do deseti řad šest ručničářů {scopetteri} a do dalších osmi řad šest dalších ručničářů. Po pravém boku {fianco} až k prvním ručničářům, které jsi postavil, je třeba deset ručničářů a na levém boku v poslední části deset dalších[^3]. Potom odděl {desmembra} deset řad, postav je k boku a táhni [je] až k hlavě šiku, kam přijde prapor. Dívej se, kam jsi postavil šest dalších ručničářů, a odděl [je]: jednu řadu ručničářů nech a druhou vezmi a táhni podél boku až k hlavě. A tak sestavíš bataillon do čtverce, když z šestnácti přebývajících [pikenýrů] postavíš deset po
+poznamky:
+- n: 1
+  text: 'Číselná šifra bataillonu (vykládá ji kapitola XLI na [[050r|listu 50 r]]): o.3 = šik po třech mužích v řadě; následují části, na něž se šik rozdělí (10, 8 a 10 řad); a.16 = přebývá 16 pikenýrů; „mitte per 10“ = deset z nich postav po boku; a.6 = zbývá šest; „M. alla piaza“ = postav [je] na prostranství. Ke stu pikenýrům patří 36 ručničářů. Druhá „5“ stojí na místě písmene p. (partire – rozdělit) ze šifry na listu 50 r. Kontrola: 3 × (10 + 8 + 10) = 84 pikenýrů v řadách + 16 přebývajících = 100.'
+- n: 2
+  text: 'Na místě velké iniciály P je jen malé vodicí písmeno „p“ na okraji; prostor pro ozdobnou iniciálu zůstal prázdný.'
+- n: 3
+  text: 'Text výslovně rozmisťuje 6 + 6 + 10 + 10 = 32 ručničářů; zbývající čtyři do celkových 36 (viz šifru nahoře a [[031v|list 31 v]]) jsou patrně v rozích čela a týlu, kde obrazec střídá „d“ a „o“.'

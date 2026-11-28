@@ -2,6 +2,39 @@ id: 030v
 list: '30'
 strana: verso
 sken: 80
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: C. IIII.
+  cs: Kapitola IIII.
+- typ: odstavec
+  de: Picche de. 300.
+  cs: Tři sta pikenýrů {Picche}.
+- typ: odstavec
+  de: Ad ordinanza per camino sospetto & bisognando caminare & andare per loco stretto per defendere & offendere.
+  cs: Šik {ordinanza} pro podezřelou cestu, a když je třeba pochodovat a jít úzkým místem, aby se mohl bránit i útočit.
+- typ: odstavec
+  de: Questa e una ordinanza per caminare per loco sospetto per strada & non farse itertenere ad caualli & non anco ad fanti, & de andare ad alcuno colle ouero passo per redurse in luoco saluo ouero andar de longo al suo camino.
+  cs: Toto je šik k pochodu podezřelým místem po silnici, aby se nedal zadržet jízdou {caualli} ani pěšáky {fanti} a mohl dojít na nějaký pahorek nebo do průsmyku, kde se dostane do bezpečí, anebo pokračovat dál svou cestou.
+- typ: nadpis
+  uroven: 2
+  de: Cap. V.
+  cs: Kapitola V.
+- typ: odstavec
+  de: De picche 200 come se smembra lordenanza. E vnire a battaglione. Unisce questa tira suso.
+  cs: 'O dvou stech pikenýrech: jak se šik rozčlení {smembra} a jak se spojí do bataillonu {battaglione}. Připoj tuto [část], táhni [ji] nahoru.'
+- typ: odstavec
+  de: Vnisse questa tira su al la testa.
+  cs: Připoj tuto [část], táhni [ji] nahoru k hlavě [šiku].
+- typ: odstavec
+  de: Spengi su ala testa.
+  cs: Posuň [ji] nahoru k hlavě.
+- typ: odstavec
+  de: Spengi suso ala testa. Et cosi sera de quattro. Et cossi se vnisse.
+  cs: Posuň [ji] nahoru k hlavě. A tak to budou čtyři [části]. A tak se spojí.
+- typ: obrazek
+  soubor: drevorez-80.jpg
+  popis: |-
+    Celá strana obrazců sázených z písmen ke kapitolám IIII a V; nápisy gotickým písmem jsou přepsány výše (vepsány jsou do volných míst mezi bloky). Vlevo (kapitola IIII) dlouhý pochodový sloupec tří set pikenýrů k pochodu podezřelou cestou: asi 40 řad po šesti, s nápisem Fronte – čelo nahoře, dole i na obou bocích. Levá polovina řad je sázena z písmen „d“ položených na bok, pravá z „p“ obrácených na druhou stranu, takže muži hledí čelem k oběma bokům; po krajích běží svislé řady „dodo…“ a „popo…“ (ručničáři „o“ mezi pikenýry), nahoře řada „dodododod“, dole „popopopopop“. Uprostřed sloupce je pět řad stojících „p“ s praporem „B“. Vpravo (kapitola V) dvě stě pikenýrů rozčleněných do čtyř kusů, které se mají posunout „nahoru k hlavě“ a spojit v bataillon: nahoře vpravo blok asi 12 řad po čtyřech „d“ orámovaný řadami „dodododod“, pod ním blok po pěti „d“ se třemi řadami „p“ a praporem „B“ uprostřed, pod ním a vedle sloupce kapitoly IIII další dva bloky po čtyřech „d“, dolní uzavřený řadou „dodododod“.

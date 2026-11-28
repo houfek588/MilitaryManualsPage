@@ -2,6 +2,52 @@ id: 014r
 list: '14'
 strana: recto
 sken: 47
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    & grande lume ui faranno.
+  cs: |-
+    a [pochodně] vám dají velké světlo.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER FARE POLVERE DE ARtellarie grosse. Capitolo. XXVI.
+  cs: |-
+    Jak udělat prach pro velká děla. Kapitola XXVI.
+- typ: odstavec
+  de: |-
+    HAbbi Salmitro non molto refinato parte doi, carboni de salici stuffati parte una, Sulphuro parte una, pista ogni cosa da per se bene, & poi mescola ogni cosa insieme, et poi piglia uno mortagio & bagnalo daceto, & butta dentro la ditta poluere, & pistala unaltra uolta cossi bagnata non tropo, & pistata che larai, ponila al sole, & poi como la sara sciutta mettila in uno berile un poco calcata, & sara bona.
+  cs: |-
+    Měj ledku {Salmitro}, ne příliš přečištěného, dva díly, dušeného vrbového uhlí {carboni}[^1] jeden díl, síry {Sulphuro} jeden díl. Každou věc zvlášť dobře roztluč, pak všechno smíchej dohromady; potom vezmi hmoždíř, navlhči ho octem, nasyp do něj ten prach a roztluč ho ještě jednou takto [jen] mírně navlhčený. Až ho roztlučeš, dej ho na slunce, a až bude suchý, dej ho, trochu upěchovaný, do soudku, a bude dobrý.[^2]
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER FARE POLVERE DE FALconetti, & archibusi. Capitolo. XXVII.
+  cs: |-
+    Jak udělat prach pro falkonety a arkebuzy. Kapitola XXVII.
+- typ: odstavec
+  de: |-
+    TOglie Salmitro non grosso parte tre, carboni di salici cioe de rami gioueni, & stuffati parte una, Sulphuro parte una, & pista ogni cosa bene da per se, & tamisato ogni sorte da per se bene, & poi mescola ogni cosa insieme, & habbi aceto fortissimo con una frasca di rosa marina o di altro et bagna la ditta poluere, & pistala unaltra uolta, & assucala al sole bene & sara buona.
+  cs: |-
+    Vezmi ledku, ne hrubého, tři díly, vrbového uhlí, totiž z mladých větví, dušeného, jeden díl, síry jeden díl; každou věc zvlášť dobře roztluč a každý druh zvlášť dobře prosej, pak všechno smíchej dohromady. Měj velmi silný ocet a ratolestí rozmarýnu nebo něčeho jiného ten prach pokrop a roztluč ho ještě jednou; pak ho dobře usuš na slunci a bude dobrý.[^3]
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER FAR POLVERE FINA per scopetto Capitolo. XXVIII.
+  cs: |-
+    Jak udělat jemný prach pro ručnici. Kapitola XXVIII.
+- typ: odstavec
+  de: |-
+    TOglie uerghette de Auellane ouer nocelle giouene di quel anno, & mondale, & fane pezetti picoli, & mettegli in uno grande pignato, & ben coperto & allotato, & mettilo in una fornace ouer
+  cs: |-
+    Vezmi mladé letošní lískové pruty, oloupej je, nadělej z nich malé kousky a dej je do velkého hrnce, dobře přikrytého a utěsněného hlínou, a dej ho do pece nebo
+poznamky:
+- n: 1
+  text: Stuffare – dusit, tj. zuhelnatět dřevo v uzavřené nádobě bez přístupu vzduchu.
+- n: 2
+  text: 'Poměr 2 : 1 : 1 (ledek : uhlí : síra) odpovídá asi 50 % ledku – slabší, levný dělový prach; prach pro falkonety a arkebuzy (kapitola XXVII) má poměr 3 : 1 : 1 (asi 60 % ledku).'
+- n: 3
+  text: Vlhčení octem nebo pálenkou a opětovné tlučení (mokrá cesta) omezovalo prášení a rozmíšení složek a připravovalo prach ke zrnění.

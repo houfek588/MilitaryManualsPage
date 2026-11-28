@@ -2,7 +2,7 @@ id: 021r
 list: '21'
 strana: recto
 sken: 61
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -13,11 +13,11 @@ bloky:
   de: |-
     DOue fosse determinato per boni iudicii che sarebbe al proposito de fare la battaglia, & piantare le artellarie, bisogna per ciescuno luoco fare certe trenciere como qui alincontro appare ad uolte acio che non possino quelli dentro scoprire per dritto, e da farle in piu luochi, acio che loro temino, ancho bisogna che per piu lati habiano pensieri, & nota che le trenciere uoleno essere in questo modo saluo che habia paese, & luoco piu apto, & non fosse largo che se potessero accostare alle artellarie senza nocimento, & nota che ad ciescuno cubito quando fosseno ueduti ue bisogna mettere alcuna botta, ouero gabione, como per alcuni capitoli per auanti ui e notato.
   cs: |-
-    Kde se po dobré úvaze rozhodne, že by bylo vhodné vést útok {battaglia}[^1] a postavit děla {artellarie}, je třeba na každém takovém místě vyhloubit zákopy {trenciere}, jak je vidět zde naproti, a to se zatáčkami, aby je obránci nemohli přehlédnout přímo. A je třeba je dělat na více místech, aby se obránci báli; také je třeba, aby museli myslet na více stran. Pamatuj, že zákopy mají být takové, ledaže by krajina {paese} a místo byly vhodnější a nebyly tak otevřené, že by se k dělům dalo přiblížit bez úhony. A pamatuj, že na každém lokti {cubito}[^2], kde by muži byli vidět, je třeba postavit nějaký sud {botta} nebo koš {gabione}[^3], jak je to zaznamenáno v některých předchozích kapitolách.
+    Kde se po dobré úvaze rozhodne, že by bylo vhodné vést útok[^1] a postavit děla {artellarie}, je třeba na každém takovém místě vyhloubit zákopy {trenciere}, jak je vidět zde naproti, a to se zatáčkami, aby je obránci nemohli přehlédnout v přímé linii. Je třeba je dělat na více místech, aby se obránci báli; musejí totiž mít starost o více stran. Pamatuj, že zákopy mají být takové, ledaže by krajina a místo byly příhodnější a nebyly tak otevřené, že by se k dělům dalo přiblížit bez úhony. A pamatuj, že na každé zalomení {cubito}[^2], kde by muži byli vidět, je třeba postavit nějaký sud[^3] nebo koš {gabione}, jak je to vyloženo v některých předchozích kapitolách.
 poznamky:
 - n: 1
-  text: 'Battaglia – zde útok, „baterie“ (ostřelování a šturm), nikoli šik.'
+  text: '„fare la battaglia“ – zde útok na hradbu (ostřelování a šturm), nikoli šik.'
 - n: 2
-  text: 'Cubito – doslova loket (míra), zde ve smyslu „na každém kousku, každém zalomení“ zákopu.'
+  text: '„cubito“ – doslova loket, zde zalomení či ohyb zákopu (srov. kap. III: „ad cubiti cioe ad uolte“).'
 - n: 3
-  text: 'Botta (botte) – zde sud naplněný zeminou jako kryt, nikoli „rána“; gabione – válcový koš z proutí plněný zeminou (gabion), viz vyobrazení na [[020v|20 v]].'
+  text: '„botta“ (botte) – zde sud naplněný zeminou jako kryt, nikoli „rána“ (výstřel). Vyobrazení zákopů s koši je na [[020v|20 v]].'

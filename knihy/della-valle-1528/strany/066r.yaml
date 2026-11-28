@@ -2,30 +2,30 @@ id: 066r
 list: '66'
 strana: recto
 sken: 151
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
   de: |-
     MOuesi el caso che essendo uno che hauera acceptato la desfida, & tra le litre scritte da luna parte & laltra, un de loro mancasse de non intrauenire al suo fine, della cosa laltro facendo la scusa como si costuma rasoneuolmente, & spetando li sei mesi lo potra depingere in Cartello in piu & piu luochi. Come mancatore, atteso che non sta bene che in parole li sia licito brauare con uno huomo da bene, & farli incarico, et poi far fine, equiparare loro al piombo non e lice.
   cs: |-
-    Klade se případ, kdy někdo přijal výzvu {desfida} a mezi listy psanými z jedné i z druhé strany by jeden z nich selhal a nedostavil se k jejímu konci; když pak druhý v té věci učiní ohrazení, jak je rozumně zvykem, a vyčká šest měsíců, bude ho moci namalovat na hanbu {depingere} ve vyzývacím listu {Cartello}[^1] na více a více místech jako toho, kdo selhal. Neboť není správné, aby mu bylo dovoleno slovy se vytahovat před dobrým mužem a urážet ho, a pak s tím skončit; srovnávat zlato s olovem se nesluší.
+    Klade se případ, kdy někdo přijal výzvu {desfida} a po listech psaných z jedné i z druhé strany by jeden z nich selhal a nedostavil se k jejímu rozhodnutí. Když pak druhý v té věci učiní ohrazení, jak je rozumně zvykem, a vyčká šest měsíců, bude ho moci potupně vymalovat {depingere} ve vyzývacím listu {Cartello}[^1] na mnoha a mnoha místech jako toho, kdo selhal. Neboť není správné, aby mu bylo dovoleno vytahovat se slovy před dobrým mužem, urážet ho a pak s tím skončit; rovnat zlato olovu se nesluší.
 - typ: nadpis
   uroven: 2
   de: |-
     DE VNALTRO MODO DE DEPINGERE un che si retrouera el di deputato sel se puo depingere, si ouero no. Cap. XXVI.
   cs: |-
-    O jiném způsobu malování na hanbu: o tom, kdo se [ne]dostaví[^2] v určený den – zda ho lze namalovat, či nikoli. Kapitola XXVI.
+    O jiném způsobu potupného vymalování: o tom, kdo se v určený den dostaví[^2] – zda smí [protivníka] vymalovat, či nikoli. Kapitola XXVI.
 - typ: odstavec
   de: |-
     SE moue el dubio dallo actore, & dice che lui non ha mancato uno ponto dal canto suo per combattere, & trouato el campo con saluo condutto & data la giornata deputata del combattere ad tempo iusto, & quella e acceptata. Et per che lui e redutto con tanta spesa, & altro interesso, & piu che per suo mezo, ue seranno de molte terze persone magnanimi redutti per uedere el combattere, che per mostrare che dal canto suo non e impedito lo combattimento e giornata & per resoluere le querele scritte de uoler combatter intende fare correre el campo a suon de trombe, et poi depingerlo doue li parera. Se responde per lo reo che per non trouarse alla giornata deputata per combattere, al campo se scusa como per iusto impedimento e mancato. Atteso chel fo messo in presone, ouero e stato infermo, o con ferite
   cs: |-
-    Pochybnost vznáší vyzyvatel {actore} a říká, že ze své strany nezanedbal ani bod, aby se bojovalo: našel kolbiště {campo} s bezpečným průvodem {saluo condutto}[^3], ve spravedlivé lhůtě byl dán určený den boje a ten byl přijat. A protože se dostavil s tak velkými výlohami a jinou újmou, a navíc jeho přičiněním se tam sešlo mnoho velkomyslných třetích osob, aby boj viděly, zamýšlí – aby ukázal, že boj a den nebyly zmařeny z jeho strany, a aby rozhodl písemné spory, v nichž [oba] chtěli bojovat – dát kolbiště objet za zvuku trub {trombe}[^4] a potom [protivníka] namalovat, kde se mu uzdá. Za vyzvaného {reo} se odpovídá, že pokud jde o to, že se v den určený k boji nedostavil na kolbiště, omlouvá se, že selhal pro spravedlivou překážku: byl totiž uvržen do vězení, nebo byl nemocen, nebo [ležel] s ranami
+    Pochybnost vznáší vyzyvatel {actore} a říká, že ze své strany nezanedbal ani bod, aby se bojovalo: opatřil kolbiště s bezpečným průvodem {saluo condutto}[^3], ve spravedlivé lhůtě byl dán určený den boje a ten byl přijat. A protože se dostavil s tak velkými výlohami a jinou újmou a navíc se jeho přičiněním sešlo mnoho velkomyslných třetích osob, aby boj viděly, zamýšlí dát kolbiště objet za zvuku trub[^4] a potom [protivníka] vymalovat, kde se mu uzdá – aby ukázal, že boj a určený den nezmařil on, a aby rozhodl písemné spory o tom, že [oba] chtěli bojovat. Za vyzvaného {reo} se odpovídá, že pokud se v den určený k boji nedostavil na kolbiště, omlouvá se tím, že selhal pro spravedlivou překážku: byl totiž uvržen do vězení, nebo byl nemocen, nebo [ležel] s ranami
 poznamky:
 - n: 1
   text: 'Depingere in cartello – vyvěsit veřejný list s hanlivým vyobrazením a textem, který označí toho, kdo se nedostavil, za zbabělce a muže bez cti.'
 - n: 2
-  text: 'Nadpis v tisku zní „un che si retrouera el di deputato“ (kdo se dostaví v určený den); podle textu kapitoly jde o toho, kdo se nedostavil – v tisku patrně vypadlo „non“.'
+  text: 'Nadpis „un che si retrouera el di deputato sel se puo depingere“ je nejasný. Překlad jej chápe tak, že jde o vyzyvatele, který se v určený den dostaví a ptá se, zda smí nedostavivšího se protivníka vymalovat (tak zní i text kapitoly); lze jej číst i jako „o tom, kdo se [ne]dostaví“ s vypadlým „non“.'
 - n: 3
   text: 'Saluo condutto – průvodní list (glejt) pána, který kolbiště poskytl, zaručující bojovníkům a jejich doprovodu bezpečný příchod a odchod.'
 - n: 4

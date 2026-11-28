@@ -2,6 +2,9 @@ id: 071v
 list: '71'
 strana: verso
 sken: 162
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: obrazek
+  soubor: drevorez-162.jpg
+  popis: 'Tiskařský znak Piera de Ravani (dřevořez v dvojitém obdélném rámu): korunovaná siréna s dlouhými rozpuštěnými vlasy a nahým trupem drží oběma rukama své dva rybí ocasy, zdvižené obloukem vzhůru a zakončené listovitými ploutvemi; dolní část těla přechází v akantové listy. Bez nápisu. Na papíře prosvítá zrcadlově text líce (tiráž a registr na [[071r|listu 71 r]]).'

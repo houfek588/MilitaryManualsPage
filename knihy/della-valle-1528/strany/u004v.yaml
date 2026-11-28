@@ -2,6 +2,81 @@ id: u004v
 list: '[4] v'
 strana: verso
 sken: 12
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: seznam
+  de:
+  - |-
+    De uno che in absentia li fusse ditto ingiuria. ca. 62.
+  - |-
+    De doi che se dicono ingiuriose parole cornuto & laltro traditore qual e magior ingiuria. car. 63.
+  - |-
+    De uno uinto se puo essere refutato da unaltro. ca. 64.
+  - |-
+    De uno capitano desfidato da uno milite priuato si puo con ragione refutare o no. car. 64.
+  - |-
+    De uno signore o gentilhomo de quattro quarti si lo puo con ragione refutare uno priuato huomo o no. c. 65.
+  - |-
+    De uno modo de depingere uno che mancasse al suo honore. car. 65.
+  - |-
+    De depingere uno traditore. car. 66.
+  - |-
+    De depingere uno che non si troua al di deputato. c. 66.
+  - |-
+    De uno che depinto se si puo refutare. car. 66.
+  - |-
+    De uno che se arende al padre & el padre more sel primo genito redita el presone o no. car. 67.
+  - |-
+    De ingiuria fatta de parole uno li da bastonate e buffeti sie resoluta la ingiuria o no. car. 67.
+  - |-
+    De dire ad uno traditore poltrone o dar ferite se si puo resoluere senza uenire a fatti. car. 67.
+  - |-
+    De uno che ha aspettato el suo nemico al campo & non e uenuto el di deputato. car. 68.
+  - |-
+    De uno che sara ingiuriato da unaltro. car. 68.
+  - |-
+    De doi nemici & il terzo reporta ad uno delli doi alchuno caso & uiene a termine per combattere quella ditta del reportatore & el principale nega non essere lo uero se e resoluto o no car. 69.
+  - |-
+    De che e tenuto uno reportatore essere rebeccato per bosardo. car. 69.
+  - |-
+    De uno che desfida unaltro & uuole combattere con tale arme. car. 70.
+  cs:
+  - |-
+    O tom, komu by byla v nepřítomnosti řečena urážka {ingiuria}. – [[062v|list 62]]
+  - |-
+    O dvou, kteří si řeknou urážlivá slova, [jeden] „paroháč“ {cornuto} a druhý „zrádce“ {traditore} – co je větší urážka. – [[063v|list 63]]
+  - |-
+    O přemoženém – zda ho jiný může odmítnout. – [[064r|list 64]]
+  - |-
+    O kapitánovi {capitano}, kterého vyzve {desfidato} prostý voják {milite priuato} – zda ho smí právem odmítnout, či ne. – [[064v|list 64]]
+  - |-
+    O pánovi nebo šlechtici {gentilhomo} o čtyřech urozených předcích {quattro quarti} – zda smí právem odmítnout prostého muže, či ne.[^1] – [[065r|list 65]]
+  - |-
+    O způsobu, jak potupně vymalovat {depingere} toho, kdo by selhal ve své cti {honore}. – [[065v|list 65]]
+  - |-
+    Jak potupně vymalovat zrádce. – [[065v|list 66]]
+  - |-
+    Jak potupně vymalovat toho, kdo se v určený den nedostaví. – [[066r|list 66]]
+  - |-
+    O potupně vymalovaném – zda ho lze odmítnout. – [[066v|list 66]]
+  - |-
+    O tom, kdo se vzdá [jako zajatec] otci, a otec zemře – zda prvorozený zdědí zajatce {presone}, či ne. – [[067r|list 67]]
+  - |-
+    O urážce slovy, za niž jeden dá druhému rány holí a políčky {buffeti} – zda je urážka vyrovnána, či ne. – [[067v|list 67]]
+  - |-
+    Zda lze [urážku], že někdo druhého nazval zrádcem a zbabělcem {poltrone} nebo ho zranil, vyrovnat, aniž by se přišlo k činům. – [[067v|list 67]]
+  - |-
+    O tom, kdo čekal na svého nepřítele na kolbišti {campo}, a ten v určený den nepřišel. – [[068r|list 68]]
+  - |-
+    O tom, koho jiný urazí. – [[068v|list 68]]
+  - |-
+    O dvou nepřátelích: třetí donese jednomu z nich nějakou věc a dojde až k boji o slova donašeče {reportatore}, ale hlavní [strana] popírá, že by to byla pravda – zda je [urážka] vyrovnána, či ne. – [[069r|list 69]]
+  - |-
+    K čemu je zavázán donašeč, když mu bylo odvětěno, že je lhář {bosardo}. – [[069v|list 69]]
+  - |-
+    O tom, kdo vyzve jiného a chce bojovat takovými a takovými zbraněmi. – [[070r|list 70]]
+poznamky:
+- n: 1
+  text: |-
+    „De quattro quarti“ – urozený po všech čtyřech prarodičích (čtyři šlechtické erby předků).

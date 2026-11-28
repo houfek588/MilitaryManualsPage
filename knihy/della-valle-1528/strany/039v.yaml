@@ -2,6 +2,23 @@ id: 039v
 list: '39'
 strana: verso
 sken: 98
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: obrazek
+  soubor: drevorez-98.jpg
+  popis: |-
+    Obrazec bataillonu o sto pikách ve tvaru písmene A (ke kapitole XVII níže): dvě ramena po třech mužích v řadě (písmena d) se šikmo sbíhají do hrotu nahoře; nad hrotem a podél obou vnějších svahů je nápis FRONTE – čelo. Uvnitř mezi rameny stojí písmeno B (Bandera – prapor) a pod ním mezi patami ramen krátký blok pěti sloupců po třech až čtyřech mužích (tři řady „dospod“). Týl nápis nemá.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VN BATTAGLIONE de cento picche. Cap.XVII.
+  cs: Jak udělat bataillon o sto pikách. Kapitola XVII.
+- typ: odstavec
+  de: |-
+    AFare el ditto battaglione de cento picche, bisogna mettere inordinanza ad tre & partir ad quattordece & fa ad modo de un ,A, metti la Bandera dentro con le soe lanze spezate atorno, & tre filara sotto, como qui appare.
+  cs: |-
+    Chceš-li udělat tento bataillon {battaglione} o sto pikách {picche}, je třeba postavit muže do šiku {ordinanza} po třech, rozdělit je po čtrnácti [řadách] a udělat [z nich] tvar písmene A. Prapor {Bandera} dej dovnitř a kolem něho jeho lance spezzate {lanze spezate} a dospod tři řady {filara}, jak je zde vidět.[^1]
+poznamky:
+- n: 1
+  text: |-
+    Dvě ramena po 14 řadách o 3 mužích dávají 84 mužů, zbytek do stovky tvoří tři řady pod praporem. Obrazec je v tisku nad nadpisem kapitoly.

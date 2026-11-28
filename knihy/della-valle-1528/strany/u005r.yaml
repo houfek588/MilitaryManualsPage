@@ -2,6 +2,22 @@ id: u005r
 list: '[5] r'
 strana: recto
 sken: 13
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: seznam
+  de:
+  - |-
+    De uno che depengesse unaltro a torto ad che e tenuto. car. 70.
+  cs:
+  - |-
+    O tom, kdo by jiného potupně vymaloval {depengesse} neprávem – k čemu je zavázán. – [[070r|list 70]]
+- typ: odstavec
+  de: |-
+    Finisse la tabola del Libro ditto Vallo.
+  cs: |-
+    Konec obsahu {tabola} knihy zvané Val.[^1]
+poznamky:
+- n: 1
+  text: |-
+    Zbytek strany je prázdný; prosvítá jím dřevořez z [[u005v|rubu listu]].

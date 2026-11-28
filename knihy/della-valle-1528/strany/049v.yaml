@@ -2,6 +2,29 @@ id: 049v
 list: '49'
 strana: verso
 sken: 118
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: obrazek
+  soubor: drevorez-118.jpg
+  popis: |-
+    Obrazec dvou bataillonů postavených proti sobě (kapitola XL). Nahoře čtyřúhelníkový šik z písmen P (pikenýři) s týlem nahoře (nápis SCHINO – týl) a se dvěma šikmo dolů spuštěnými křídly (ale) po stranách; vnitřní okraje lemují střídavá písmena P a o (zřejmě střelci). Uprostřed horního šiku je vzhůru nohama prapor B s malým blokem písmen d, na spodní straně šiku vzhůru nohama nápis FRONTE (čelo) obrácený dolů k nepříteli, na obou křídlech rovněž nápisy FRONTE. Dole proti němu stojí druhý bataillon „do nůžek“: horní okraj tvoří střídavá řada d a o, odtud se sloupce písmen d rozbíhají do obou stran jako rozevřená ramena a uprostřed se zužují v úzké „hrdlo“ ze svislých zástupů; na začátku hrdla stojí prapor B mezi dvěma řadami po čtyřech písmenech P z každé strany (lance spezzate). Pod dolním šikem je nápis SCHINO (týl) a vpravo vedle něj označení kapitoly „Ca.XI.“
+- typ: nadpis
+  uroven: 2
+  de: Ca.XI.
+  cs: Kapitola XI.[^1]
+- typ: odstavec
+  de: |-
+    QVesti battaglioni son lun contra laltro, et ciaschuno, de epsi prendendo el suo auantagio, & un dessi, e quadrangolo con doe ale como se demostra, laltro e a modo de forfece con la credenza in canna, como se diuide in mezo de epso, & ogniuno de loro con ragion debbe calare le loro picche, et la lor fin depende a lor magnanimi, & in petto della fortuna.
+  cs: |-
+    Tyto bataillony {battaglioni} stojí jeden proti druhému a každý z nich se snaží získat výhodu. Jeden z nich je čtyřúhelník {quadrangolo} se dvěma křídly {ale}, jak je ukázáno; druhý je ve tvaru nůžek {forfece} s „kredencí“ v hrdle,[^2] tak jak se uprostřed dělí. Každý z nich má podle pravidla sklonit své píky {picche} a jejich konec závisí na jejich velkomyslných [velitelích] a spočívá v lůně Štěstěny.[^3]
+poznamky:
+- n: 1
+  text: |-
+    V tisku je označení „Ca.XI.“ vysázeno vpravo vedle spodního nápisu SCHINO obrazce. Podle pořadí jde o kapitolu XL (předchozí je XXXIX na [[049r|listu 49 r]], následující XLI na [[050r|listu 50 r]]); „XI“ je tisková chyba za „XL“, ponechaná podle tisku.
+- n: 2
+  text: |-
+    „Con la credenza in canna“ – nejisté místo. Credenza (příborník, kredenc) je snad žertovné či nářeční označení pro blok mužů s praporem, který stojí v úzkém „hrdle“ (canna, doslova trubice, hrdlo) mezi oběma rameny nůžek, jak ukazuje obrazec. Lze uvažovat i o významu „důvěra, záloha“.
+- n: 3
+  text: |-
+    „Et la lor fin depende a lor magnanimi, & in petto della fortuna“ – doslova „a jejich konec závisí na jejich velkomyslných a v hrudi Štěstěny“. Tisk má poškozenou sazbu („ogniu no d loro“, „la lo r fin“, „fortun a“).

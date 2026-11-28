@@ -2,7 +2,7 @@ id: 009r
 list: '9'
 strana: recto
 sken: 37
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,7 +10,7 @@ bloky:
   de: |-
     solaro, che la terra non uada al basso, & copri del terreno quanto sera il bisogno, & quando sera el tempo, de dare il fuoco, & uederai cose grande in aere. Et e da notare chel sopraditto artificio e di tanta perfetione et utile che non si po estimare, per che non e lo essere in epso tanto e lo subito effetto, quanto al terrore dello inimico & per altri che ti potrano essere, & uenire a simil caso, & pensare de combattere con fuoco e grande estremita, & duolo al pouero magnanimo per non possere monstrare la sua uirtu equalmente da core a core, da brazo a brazo,
   cs: |-
-    vrstvu {solaro}, aby hlína nepropadla dolů, a zakryj [to] zeminou, kolik bude potřeba; a až přijde čas, zapal [to] a uvidíš veliké věci ve vzduchu. Je třeba poznamenat, že výše popsané zařízení {artificio} je tak dokonalé a užitečné, že se to ani nedá ocenit: nejde ani tak o ně samo a jeho náhlý účinek, jako o hrůzu, kterou nažene nepříteli i ostatním, kteří by tam mohli být a přijít do podobné situace a pomyslet si, že mají bojovat s ohněm. A je to veliká krajnost a žal pro chudáka velkomyslného, že nemůže ukázat svou statečnost rovným dílem, srdce proti srdci, paže proti paži.
+    vrstvu {solaro}, aby hlína nepropadla dolů, a zakryj [to] zeminou, kolik bude potřeba; a až přijde čas, zapal [to] a uvidíš veliké věci ve vzduchu. Je třeba poznamenat, že výše popsané zařízení {artificio} je tak dokonalé a užitečné, že se to ani nedá ocenit: nejde ani tak o ně samo a jeho náhlý účinek, jako o hrůzu, kterou nažene nepříteli i jiným, kteří by proti tobě mohli stát a dostat se do podobné situace. Pomyšlení na boj s ohněm je pro chudáka statečného veliká krajnost a žal, neboť nemůže ukázat svou udatnost rovným dílem, srdce proti srdci, paže proti paži.
 - typ: nadpis
   uroven: 2
   de: |-
@@ -21,9 +21,9 @@ bloky:
   de: |-
     COnuiene anchora per defendere una terra de molti artificii de legname como sonno traui, Zocchi, Botte uacue, o uero piene de pietre grosse con doi Circhi li quali se uengano a rompere, & questo conuiene in luoco doue fosse fuga di correre, et cossi ancho Gabioni uno poco serati per li fianchi, como per auanti in uno capitolo e notato, anchora de certi Traui con molti paletti aguzi, ouer Pali piccoli appontiti in croce in croce da capo in piedi, & quelli conuiene stare sopra le Muraglie, o uero ripari carrichi de sassi, attale che questo ingegno uada epso insieme con le pietre. Et lie unaltro defendere de Muraglia como con forche de legni, con le forche de ferro ad tre, a quatro & a cinque per offendere bene aguze, & appontite, & ancho con certi Magli, & capi de Cette da Mulatieri per dare ancho di taglio, uero e che alcuna li
   cs: |-
-    K obraně města se dále hodí mnoho dřevěných zařízení {artificii de legname}, jako jsou trámy {traui}, špalky {Zocchi}, prázdné sudy {Botte} nebo sudy plné velkých kamenů se dvěma obručemi {Circhi}, které se [při pádu] rozbijí; a to se hodí na místě, kde je svah, po němž se mohou rozběhnout {fuga di correre}. Stejně tak koše {Gabioni}, po bocích trochu uzavřené, jak je zaznamenáno výše v jedné kapitole;[^1] dále jisté trámy s mnoha ostrými kolíky čili malými špičatými kůly [zaraženými] křížem krážem od jednoho konce k druhému. Ty mají ležet na hradbách {Muraglie} nebo na záštitách {ripari} obložené kameny, aby tento stroj {ingegno} letěl [dolů] spolu s kameny. A je ještě jiný způsob obrany hradby, totiž dřevěnými vidlemi {forche}, železnými vidlemi se třemi, čtyřmi a pěti hroty, dobře ostrými a špičatými, aby dobře zraňovaly, a také jistými palicemi {Magli} a sekerami {Cette}, jaké mají mezkaři,[^2] aby se dalo sekat i ostřím. Je pravda, že některé
+    K obraně města se dále hodí mnoho dřevěných zařízení, jako jsou trámy, špalky, prázdné sudy nebo sudy plné velkých kamenů se dvěma obručemi, které se [při pádu] rozbijí; to se hodí na místě, kde je kudy je skutálet. Stejně tak koše {Gabioni}, po bocích trochu uzavřené, jak je zaznamenáno výše v jedné kapitole;[^1] dále jisté trámy s mnoha ostrými kolíky čili malými špičatými kůly, [zaraženými] křížem krážem od jednoho konce k druhému. Ty mají ležet na hradbách {Muraglie} nebo na záštitách {ripari} naložených kamením, aby tento stroj letěl [dolů] spolu s kameny. A je ještě jiný způsob obrany hradby, totiž dřevěnými vidlemi a železnými vidlemi {forche} se třemi, čtyřmi a pěti hroty, dobře ostrými a špičatými, aby dobře zraňovaly, a také jistými palicemi a sekerami {Cette}, jaké mají mezkaři,[^2] aby se dalo sekat i ostřím. Je pravda, že některé
 poznamky:
 - n: 1
   text: Viz kapitolu VI o koších (gabioni), [[004v|list 4 v]] – [[005r|5 r]].
 - n: 2
-  text: „Capi de Cette da Mulatieri“ – doslova „hlavice seker (accette) mezkařů“, tj. krátké sekery, jaké nosili soumaři a mezkaři; čtení „Cette“ = accette je pravděpodobné, nikoli jisté.
+  text: „Capi de Cette da Mulatieri“ – doslova „hlavice seker (accette) mezkařů“, tj. krátké sekery, jaké nosili soumaři a mezkaři.

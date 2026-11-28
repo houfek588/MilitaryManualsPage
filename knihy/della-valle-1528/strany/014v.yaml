@@ -2,6 +2,30 @@ id: 014v
 list: '14'
 strana: verso
 sken: 48
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ad gran fuoco, & quando el ditto pignato non fuma caualo, & lassalo sfredire, & sera fatto carbone stuffato, piglia del ditto carbone, parte una sulphuro, parte una Salmitro piu uolte refinato parte cinque, & nota che le ditte cose bisogna pistarle molto bene, & tamesarle piu & piu uolte, & dapoi mescola insieme le ditte cose con aqua uita, & bagna la ditta poluere & repistela unaltra uolta molto bene & se non uolete con aqua uita fate con aceto fortissimo, ma nota che sta nel pistare bene queste cose.
+  cs: |-
+    do velkého ohně; a když ten hrnec přestane kouřit, vytáhni ho a nech ho vychladnout, a bude z toho dušené uhlí {carbone}. Vezmi toho uhlí jeden díl, síry {sulphuro} jeden díl, mnohokrát přečištěného ledku {Salmitro} pět dílů;[^1] a pamatuj, že tyto věci je třeba velmi dobře roztlouct a mnohokrát prosít; potom je smíchej dohromady s pálenkou {aqua uita}: pokrop tím prach a ještě jednou ho velmi dobře roztluč. Nechcete-li pálenku, udělejte to s velmi silným octem; ale pamatuj, že [všechno] záleží na dobrém roztlučení těchto věcí.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE EXHORTATIONE ET EXempli. Capitolo. XXVIII.
+  cs: |-
+    O povzbuzení a příkladech. Kapitola XXVIII.[^2]
+- typ: odstavec
+  de: |-
+    DEclaro, & affermo che le gran differentia la perdita di uno popolo che uno exercito in campagna pigliando la debita ragione che in campagna el buono milite pur che mora facendo el debito con soa commodita de prosperita, & ancho essendo iusto lo suo magnanimo prende tanto diletto che se persuade se more di corpo non more di fama, & cossi more contento, & anchora si in lui regna alcuno buon discorso de natura, & seruendose delo libero arbitrio, como accade ad uno sincero magnanimo, e da credere che non nuoce niente, ma gioua che al principio, & mezo, & fine dela battaglia humilmente recomandarse ala santa Trinita donde che pare che gli cresca forza & animo, & ingegno maxime quando la guerra e con qualche ragione & cossi dichiamo che per principio, & mezo & fine dela uita soa considerando in dio,
+  cs: |-
+    Prohlašuji a tvrdím, že je veliký rozdíl mezi ztrátou lidu [města] a [ztrátou] vojska {exercito} v poli, uváží-li se to náležitě. Neboť v poli dobrý voják {milite}, i když zemře, umírá při konání své povinnosti, maje [k tomu] příležitost i naději na úspěch;[^3] a je-li [jeho věc] spravedlivá, jeho velkomyslný duch má takové potěšení, že je přesvědčen, že umírá-li tělem, neumírá slávou, a tak umírá spokojen. A vládne-li v něm navíc dobrý přirozený rozum a užívá-li svobodné vůle, jak se stává u upřímně velkomyslného muže, je třeba věřit, že nic neškodí, nýbrž prospívá, na začátku, uprostřed i na konci bitvy se pokorně poroučet svaté Trojici; odtud mu, jak se zdá, roste síla, odvaha a důvtip, zvláště když se válka vede z nějakého spravedlivého důvodu. A tak říkáme, že na začátku, uprostřed i na konci svého života, když myslí na Boha,
+poznamky:
+- n: 1
+  text: 'Jemný ručnicový prach v poměru 5 : 1 : 1 (ledek : uhlí : síra), tj. asi 71 % ledku.'
+- n: 2
+  text: Tisk opakuje číslo XXVIII, které už nese předchozí kapitola o jemném prachu (list 14 r); správně by mělo být XXIX.
+- n: 3
+  text: „Con soa commodita de prosperita“ – nejasné; chápeme jako „s možností úspěchu“, na rozdíl od bezbranného lidu dobytého města.

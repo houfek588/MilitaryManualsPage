@@ -2,6 +2,22 @@ id: 022v
 list: '22'
 strana: verso
 sken: 64
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: obrazek
+  soubor: drevorez-64.jpg
+  popis: |-
+    Postavení košů (gabionů) s děly: dvě řady velkých válcovitých košů pletených z proutí kolem kolíků, nahoře tři a dole tři (krajní pravé jsou useknuty hřbetem vazby). V mezerách mezi koši, které tvoří střílny, stojí dvě děla na kolových lafetách, ústím nahoru (k nepříteli), s ocasem lafety dozadu.
+- typ: nadpis
+  uroven: 2
+  de: MODO DE PIANTARE GABIONI como qui appare. Capitolo.IIII.
+  cs: Jak stavět koše, jak je zde vidět. Kapitola IIII.
+- typ: odstavec
+  de: |-
+    BIsogna che sia noto, quanto e la uirtu de gabioni & maxime in compagnia, finalmente concludo che sonno assai, & molto utile, & metendoli a la fila uno poco larghetti lassandoce le candonere fra luno, & laltro, & con questi gabioni si puo in tempo de
+  cs: |-
+    Je třeba vědět, jakou sílu mají koše {gabioni}, zvláště když jich stojí více pospolu. Zkrátka uzavírám, že mají velkou cenu a jsou velmi užitečné, když se postaví do řady {fila} trochu od sebe a mezi jedním a druhým se nechají střílny {candonere}[^1]. S těmito koši se lze za
+poznamky:
+- n: 1
+  text: '„candonere“ (v tisku cãdonere) – tvar tisku za cannoniere, střílny pro děla v mezerách mezi koši; vrací se i na [[027r|27 r]], jde tedy o podobu slova, nikoli o ojedinělou tiskovou chybu.'

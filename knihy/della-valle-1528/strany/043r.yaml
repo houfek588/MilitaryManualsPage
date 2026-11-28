@@ -2,6 +2,31 @@ id: 043r
 list: '43'
 strana: recto
 sken: 105
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    altre filara che ce uera la Bandera, & doi altre filara le metterite per longo con sei altre picche como qui auanti si dimonstra, & cossi si potra moltiplicare in gran numero como diminuire con questo ordine, & questo si po fare tondo per abraciare, & calare le picche dentro, & difuori, Ma bisogna che allo trar delli scopetti serrato che fusse bisogna che uscissero fora per lo circulo di fuore ad offendere lo soccorso deli presi, & reforzare li altri. E da notare che li sopraditti battaglioni li quali moueno lo essere loro per quadrangolo senza le ale o uero brazi, el numero loro uanno in questo modo como qui alincontro uedete.
+  cs: |-
+    dalších řad {filara} tam, kde byl prapor {Bandera}, a dvě další řady postavíte podélně se šesti dalšími pikami {picche}, jak je ukázáno výše. Tímto řádem se [bataillon] bude moci rozmnožit na velký počet i zmenšit. Lze ho také udělat kulatý, aby obemkl [nepřítele], a sklonit píky dovnitř i ven. Je-li však sevřený, musí při střelbě z ručnic {scopetti} [střelci] vyjít ven za vnější kruh, napadnout posily obklíčených[^1] a posílit ostatní. A je třeba si všimnout, že počty výše uvedených bataillonů {battaglioni}, které se odvozují od čtyřúhelníku {quadrangolo} bez křídel {ale} čili ramen, jsou takové, jak to vidíte tady naproti.[^2]
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE de picche.200. Capitolo.XXIII.
+  cs: Jak udělat bataillon o 200 pikách. Kapitola XXIII.
+- typ: odstavec
+  de: |-
+    BAttaglione in quadrangolo de doi centenara de picche si mette inordinanza ad cinque, & lo partire suo bisogna contare fine ad quatordece filara, & la mettere scopetti & uno capo di Squadra ad diece altre filara il simile, & ad quatordace altri pur cosi, & como hai partito per questo ordine in tre parte, dismembra, & unisce parte per parte per fianco, & per tutti doi li fianchi, attale che quella seconda parte de lordinanza laquale resta per la Bandera che sta nel mezo, fate anchora uenga in mezo ale doi parte nel battaglione, & cossi seran belli, & perfetti, & con ragione, & arte, & per doi faze de epsi ueneranno quattordeci picche, & per doi altre facie ueneranno quindeci, & conuiene che auanzano, & non che manchino.
+  cs: |-
+    Bataillon {battaglione} ve čtyřúhelníku {quadrangolo} o dvou stech pikách {picche} se postaví do šiku {ordinanza} po pěti. Při dělení je třeba napočítat čtrnáct řad {filara} a tam postavit ručnice {scopetti} a jednoho desátníka {capo di Squadra}, po deseti dalších řadách totéž a po dalších čtrnácti rovněž. Když jsi ho tímto řádem rozdělil na tři části, odděl je {dismembra} a spoj část s částí bokem {fianco}, a to na obou bocích, tak aby ta druhá část šiku, která zůstává pro prapor {Bandera} stojící uprostřed, přišla rovněž doprostřed mezi obě [ostatní] části bataillonu. Tak budou [bataillony] krásné a dokonalé, podle rozumu i umění: na dvou stranách {faze} jich bude po čtrnácti pikách a na dvou dalších po patnácti – a je lépe, aby přebývaly, než aby chyběly.[^3]
+poznamky:
+- n: 1
+  text: |-
+    „Lo soccorso deli presi“ – posily těch, kdo jsou sevřeni (obklíčeni) uvnitř kulatého šiku; střelci mají vyrazit ven a bránit nepříteli, aby jim zvenčí pomohl.
+- n: 2
+  text: |-
+    Obrazec zde není; Della Valle zřejmě myslí následující kapitoly XXIII–XXXI s počty pro čtyřhranné bataillony.
+- n: 3
+  text: |-
+    Počet: 14 + 10 + 14 = 38 řad po 5 mužích = 190; počty jsou přibližné, zbytek do dvou set doplňují ručničáři a desátník vložení na místech dělení (proto „ať raději přebývají“). Čísla 14 a 15 udávají počet mužů na stranách hotového čtverce.

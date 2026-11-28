@@ -2,6 +2,49 @@ id: 003r
 list: '3'
 strana: recto
 sken: 25
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    adormentatamente nelle braza, iudicio, et gouerno loro, & metteno in compromissi li honori communi in lor petti, per tanto exhorto ciascuno comprendere lo caso grande. Perho e necessario al bon Capitano essere continuamente in se secretissimo, suspecto, & geloso, & questa suspitione, & gelosia e tanto necessaria a larte della Militia ad tal che senza quella seria impossibile hauere bon fine. Siche queste doe parte sian consiglio, diletto, & cibo del Milite.
+  cs: |-
+    jako ve spánku v jejich náručí, úsudku a vedení a do jejich hrudi vkládají společnou čest. Proto každého nabádám, aby pochopil, jak veliká je to věc. Dobrý kapitán {Capitano} proto musí být ustavičně nanejvýš mlčenlivý, podezíravý a ostražitý {geloso}; a tato podezíravost a ostražitost je pro válečné řemeslo {Militia} tak nezbytná, že bez ní by nebylo možné dojít dobrého konce. Ať jsou tedy tyto dvě vlastnosti vojákovou {Milite} radou, potěchou i pokrmem.
+- typ: nadpis
+  uroven: 2
+  de: DE LI COLORI DEL VESTIMENto de gli Capitani. Capitolo. II.
+  cs: O barvách oděvu kapitánů. Kapitola II.
+- typ: odstavec
+  de: |-
+    DIco che al Capitano conuiene uestirse, & aduoltarse de quatro colori de bianco, negro, rosso, non dimenticarse continuamente del Turchino, qual significa la fulminante gelosia, laqual da uigilantia, perseuerantia, da penetrato ingegno, da attrattiuo iudicio, porge dilecto alo conueniente.
+  cs: |-
+    Pravím, že kapitánovi se sluší oblékat a halit do čtyř barev: bílé, černé, červené, a nikdy nezapomínat na modrou {Turchino}, která znamená bleskovou ostražitost; ta dodává bdělost a vytrvalost, vychází z pronikavého ducha a z vnímavého úsudku a těší toho, komu přísluší.[^1]
+- typ: odstavec
+  de: |-
+    Il Bianco monstra il Capitano de fengere con soi militi una purita, & generale amore senza monstrare confidarse in loro, non uolere recognoscere quel che non molto importa, ma passandolo con modesto mezo, & atto amoreuole.
+  cs: |-
+    Bílá ukazuje, že kapitán má vůči svým vojákům {militi} předstírat čistotu a všeobecnou lásku, aniž by dal najevo, že se na ně spoléhá; nemá si chtít všímat toho, na čem příliš nezáleží, ale přejít to s mírností a laskavým gestem.
+- typ: odstavec
+  de: |-
+    Il Negro significa il Capitano essere fermo, & stabile al suo honore con ogni honesta, & cupido de soi secreti.
+  cs: |-
+    Černá znamená, že kapitán je pevný a stálý ve své cti {honore} se vší počestností a pečlivě střeží svá tajemství.[^2]
+- typ: odstavec
+  de: |-
+    Il Rosso monstra al bon Capitano dessere rubicondo, sanguineo, crudelissimo, como piaceuole, uindicatiuo al stipendio de suoi inimici & anco ad suoi con causa licita cioe mancando de obedientia, o factione de
+  cs: |-
+    Červená ukazuje dobrému kapitánovi, že má být ruměný, krvavý, nanejvýš krutý stejně jako vlídný,[^3] mstivý vůči těm, kdo jsou v žoldu {stipendio} jeho nepřátel,[^4] a také vůči svým [lidem], je-li k tomu oprávněná příčina, totiž když chybí poslušnost nebo služba
+poznamky:
+- n: 1
+  text: |-
+    „Turchino“ – tmavě modrá (tyrkysová) barva; v dobové symbolice barev značí ostražitost i žárlivost („gelosia“ znamená obojí). Závěr věty („da penetrato ingegno, da attrattiuo iudicio, porge dilecto alo conueniente“) je syntakticky nejasný; překlad je přibližný.
+- n: 2
+  text: |-
+    „Cupido de soi secreti“ – doslova „žádostivý svých tajemství“, tj. dbalý o jejich utajení.
+- n: 3
+  text: |-
+    „Crudelissimo, como piaceuole“ – kapitán má být podle potřeby stejně tak krutý jako vlídný.
+- n: 4
+  text: |-
+    Doslova „mstivý k žoldu svých nepřátel“ („uindicatiuo al stipendio de suoi inimici“, ve skenu zřetelně); překlad vykládá „stipendio“ jako ty, kdo slouží v nepřátelském žoldu, tj. nepřátelské vojsko.

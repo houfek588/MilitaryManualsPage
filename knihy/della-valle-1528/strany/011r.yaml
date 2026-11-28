@@ -2,6 +2,26 @@ id: 011r
 list: '11'
 strana: recto
 sken: 41
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Arcobuso, ouero di poluere fina, & dandoli fuoco ala ditta palla, & trazendola a gli nemici fara cose grande. Et nota che la ditta palla abrusia dintro laqua, attale che buttandola in armatura duno milite non basta aqua smortarla & non altra cosa saluo che buttarla in uno gran fango.
+  cs: |-
+    jaký se dává do arkebuzy {Arcobuso},[^1] nebo jemným prachem; a když tu kouli zapálíš a hodíš ji na nepřátele, udělá veliké věci. A pamatuj, že ta koule hoří i ve vodě, takže když ji hodíš na zbroj vojáka {milite}, voda nestačí ji uhasit a nepomůže nic jiného, než ji hodit do velkého bláta.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER DEFENDERE VNA TERRA con trombe di fuoco. Capitolo. XVI.
+  cs: |-
+    Jak bránit město ohnivými troubami. Kapitola XVI.
+- typ: odstavec
+  de: |-
+    DA notare e che ala sopraditta mistura giongendo meza parte de uitro, & parte meza de sale commune e per fare certe trombe di fuoco, lequale fanno grande effetto ad muraglie con esse & per fare le ditte trombe habiate Rame batuto & fatene fare certe trombe grosse quanto el brazo, e longo, mezo brazo piu o meno secondo parera & la ditta tromba bisogna inchiauarla incima duna hasta de una piccha de modo che stia ferma con uno pezo de legname busato che ce entra lhasta, & nota che chiauata che le con uno poco de lota sapientia ouer creda secondo abasso impararemo & metti in fondi dela tromba acio non ui offenda lo fuoco che ne possate adoperare piu uolte, & cosi la ditta tromba la impirai de la ditta mistura non molto calcata, & non cotta, ma solo la compositione mescolata insieme, & piu sarebbe bona cotta, & facendo la ditta tromba con la mistura cotta non li conuene trombe de Rame, ma si puo fare ad modo di una borsa longa como una calza, & inuestirla como una palla, Ma ogni tre dette di mistura fate uno solaro di poluere fina di scopetto, con alcuna palla piccola ad modo di una
+  cs: |-
+    Je třeba poznamenat, že když se k výše uvedené směsi {mistura} přidá půl dílu skla a půl dílu obecné soli, je [vhodná] k výrobě jistých ohnivých trub {trombe di fuoco}, které při obraně hradeb {muraglie} velmi účinkují. K výrobě těch trub mějte tepanou měď a dejte si z ní udělat trouby tlusté jako paže a dlouhé půl lokte {brazo}, víc nebo méně, jak se bude zdát [vhodné]. Tu troubu je třeba upevnit hřeby na konec ratiště píky {piccha}, aby pevně držela, pomocí kusu provrtaného dřeva, do něhož vchází ratiště. A pamatuj: když je přibitá, [vezmi] trochu mudrcovské hlíny {lota sapientia} nebo jílu, jak se naučíme níže, a dej ji na dno trouby, aby ji oheň nepoškodil a abyste ji mohli použít vícekrát. Pak tu troubu naplníš touto směsí, ne příliš udusanou a nevařenou, jen se složky smíchají dohromady; lepší by však byla vařená. Když se trouba dělá s vařenou směsí, nejsou potřeba trouby z mědi, ale lze ji udělat jako dlouhý měšec, jako punčochu, a obalit ji jako kouli. Ale vždy po třech prstech {dette} směsi udělejte vrstvu {solaro} jemného ručnicového prachu {poluere fina} s nějakou malou kulkou velikosti
+poznamky:
+- n: 1
+  text: „Poluere di artellaria de mezo de Arcobuso“ (přes hranici listů 10 v / 11 r) je nejasné; chápeme jako prach středního zrna, jaký se dává do arkebuz, na rozdíl od nejjemnějšího prachu (poluere fina).

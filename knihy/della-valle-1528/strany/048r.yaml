@@ -2,6 +2,22 @@ id: 048r
 list: '48'
 strana: recto
 sken: 115
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: MODO DE FARE VNO BATTAGLIONE de poco numero contra li piu e auantagiare le doi picche de li pocchi contra deli assai. Capitolo. XXXVIII.
+  cs: Způsob, jak udělat bataillon o malém počtu proti přesile a dát dvěma píkám těch mála převahu nad mnohými. Kapitola XXXVIII.
+- typ: odstavec
+  de: |-
+    BIsogna per fare el ditto battaglione che anteuedi quante picche tiene la testa dello nemico, & tante fa che sia a la tua, & poi al fatto bisogna che ad uno cigno del Capitano se moua de ciascun filaro uno, & tiri ala testa del nemico, & menato che lhai doi o tre picchate uenga li altri cossi facendo de mano in mano uienne doi contra uno & uiene ad refrecarse lun laltro, & per forza auanzano terreno, & per ogni ragione conuiene che rompi lo nemico. E da notare chel ditto Battaglione e sogetto a locchio, perche converia che si uedesse fare, & ancho bisogna per prima ad maistrarli, chel facino ad tempo lasta il tutto.
+  cs: |-
+    Chceš-li udělat tento bataillon {battaglione}, musíš předem zjistit, kolik pík {picche} má nepřítel v čele, a zařídit, aby jich tolik měl i tvůj [bataillon]. Při střetnutí pak musí na jedno kývnutí kapitána {Capitano} vystoupit z každé řady {filaro} jeden [muž] a udeřit na čelo nepřítele; a když jsi zasadil dvě nebo tři rány píkou, ať přijdou další. Když se to tak dělá postupně, připadnou na jednoho dva a [muži] se navzájem střídají a osvěžují; nutně tak získávají půdu a nepřítele musí zcela jistě rozrazit.[^1] A je třeba si všimnout, že tento bataillon je věcí oka, protože by bylo třeba vidět, jak se dělá; a také je nutné muže napřed vycvičit, aby to dělali včas – na tom stojí všechno.[^2]
+poznamky:
+- n: 1
+  text: |-
+    Smysl: šik o stejně širokém čele jako nepřítel napadá jeho první řadu postupně – z každé řady vystoupí jeden muž, po několika bodech ho podpoří další, takže proti každému nepříteli bojují dva a unavení se střídají s čerstvými („refrecarse“ = rinfrescarsi).
+- n: 2
+  text: |-
+    „Chel facino ad tempo lasta il tutto“ – čteme „là sta il tutto“ (v tom spočívá vše); méně pravděpodobné je „l'asta“ (žerď, píka). Zbytek strany je prázdný, prosvítá obrazec z rubu.

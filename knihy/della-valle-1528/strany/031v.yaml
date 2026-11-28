@@ -2,6 +2,28 @@ id: 031v
 list: '31'
 strana: verso
 sken: 82
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    fianco sinistro, & li sei che restano nella piaza doue e la bandiera con suoi lanze spezate, & cosi uenera quattro per ciascuno fianco diece picche, & fornito de scoppetteri como appare. E da notare che a cento picche bisogna trentasei scoppetti per farlo con rasone, el calare delle picche sta soggetto al bisogno de ciascuno quattro. E da notare che quelli, o, uer punti che stanno fra le picche sono scoppetti.
+  cs: |-
+    levém boku a šest, kteří zbývají, na prostranství {piaza}, kde je prapor {bandiera} se svými lance spezzate {lanze spezate}. A tak vyjdou čtyři [strany], na každém boku {fianco} deset pikenýrů {picche}, a [bataillon bude] opatřen ručničáři {scoppetteri}, jak je vidět. A pamatuj, že ke stu pikenýrům je třeba třiceti šesti ručničářů {scoppetti}, aby byl [bataillon] postaven, jak se patří; sklápění pík {calare delle picche}[^1] se řídí potřebou každé ze čtyř [stran]. A pamatuj, že ta „o“ neboli tečky, které stojí mezi pikenýry, jsou ručničáři.
+- typ: odstavec
+  de: B.19. 2 2 (picche.200. o.5.5.14.10.14.per.14.15. 10. alla piaza.
+  cs: B.19. 2 2 (200 pikenýrů. o.5.5.14.10.14.per.14.15. 10 na prostranství.[^2]
+- typ: obrazek
+  soubor: drevorez-82.jpg
+  popis: |-
+    Bataillon dvou set pikenýrů postavený „na hrot“ (ke kapitole VII), sázený z písmen do kosočtverce, tj. čtverce otočeného o 45°. Všechny čtyři strany lemuje dvojitá řada „dodo…“ (pikenýři „d“ střídaní s ručničáři „o“), uvnitř stojí šikmé řady písmen „d“ (pikenýři) a uprostřed prostranství, v němž je kolem velkého písmene „B“ (prapor) skupina malých „p“ (lance spezzate). Šifra nad obrazcem udává 10 mužů na prostranství, sazeč jich vysázel víc (asi 18 „p“). Nápisy: na obou horních stranách FRONTE – čelo, na pravé dolní straně SPALLE E FRONTE – záda a čelo, u levé dolní strany gotickým písmem „Spalle e fronte col voltare de picche al bisogno“ – záda a čelo, obrátí-li se podle potřeby píky.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE EL DITTO BATtaglione de ducento picche. Cap. VII.
+  cs: Jak udělat řečený bataillon o dvou stech pikách. Kapitola VII.
+poznamky:
+- n: 1
+  text: 'Calare delle picche – spuštění (sklopení) pík z polohy „na rameni“ do vodorovné útočné polohy proti nepříteli. Každá strana čtvercového bataillonu sklápí píky podle toho, odkud hrozí útok.'
+- n: 2
+  text: 'Šifra bataillonu podle kapitoly XLI ([[050r|list 50 r]]): B.19 = prapor v devatenácté řadě; o.5 = šik po pěti; rozdělení na 14, 10 a 14 řad; „per“ (v tisku zkratka p s kličkou) = po boku – dvě strany („2 2“) mají 14 a dvě 15 mužů; deset pikenýrů přijde na prostranství. Kontrola: 5 × (14 + 10 + 14) = 190 v řadách + 10 na prostranství = 200; strany bataillonu 14 a 15 (14 × 15 = 210 míst včetně ručničářů a prostranství). Druhá „5“ stojí na místě písmene p. (partire – rozdělit) ze šifry na listu 50 r.'

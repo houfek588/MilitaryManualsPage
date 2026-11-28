@@ -2,6 +2,33 @@ id: 058v
 list: '58'
 strana: verso
 sken: 136
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mano potria ben essere che lei faria la botta, como per mezo dello inimico per lo andare in la in qua, & porgese lei stessa el caso, & ancho che le membro piu nascosto a uedere, & che da piu parlare quel che e noto, che quel che non, & assai basta che per altri se uede el suo ualore, & piu che sempre la man sadopra con larme che assai li basta de quel che lhauera fatto.
+  cs: |-
+    ruka mohla tu ránu {botta} klidně způsobit sama, jako by prostřednictvím nepřítele, svým pohybem sem a tam, a sama se k tomu nabídnout. A také [se říká], že je to úd skrytější zraku a že víc se mluví o tom, co je známé, než o tom, co není; a úplně stačí, že na jiných [údech] je vidět jeho udatnost. A dále, že ruka se se zbraní používá pořád, takže jí úplně stačí to, co [zbraň] způsobila.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE DOI COMBATTENTI, ET quello che hauera hauuto el torto hauera uinto, & sara uittorioso, che non e licito, da che procede. Capito. XII.
+  cs: |-
+    O dvou bojovnících, z nichž ten, kdo byl v neprávu, zvítězil a odchází jako vítěz, což není správné – odkud to pochází. Kapitola XII.
+- typ: odstavec
+  de: |-
+    ET mouesi el dubio del perditore el quale hauera hauuto ragione et dice che Alpha & O li ha fatto torto, & non e mancato da lui fare ogni opera conueniente ad honore dela ragione, & che tanto bene lie mancato, Pompeo colmo de rason contra Cesaro, luno liberare la soa patria, & laltro sottometterla, & laltro che sta in orare dicendo el suo officio, o altro bene, & uien quello, & amazalo, siche se puo ben dire che lhuomo sel porta dalle fascie, & li corsi celesti ce sforzano, & fano far fatti horribili, che non ual a contendere, che son tanti li uarii effetti & pianeti, & segni producono che guai ad quelli che allor ascendenti & dominio nasce. Se risponde per lo uincitore che la natura non manco mai, Saluo per qualche ordine, & bel fine prendendo lo exempio al libro che tratta della unica madonna santa Maria, & non donna anzi Imperatrice del tutto che molti orando, pregando ueneno ad horribil morte, & e per qualche monstratiuo & nobile e
+  cs: |-
+    Poražený, který měl pravdu, vznáší pochybnost a říká, že mu Alfa a Omega[^1] ukřivdil, ačkoli on sám nezanedbal žádné úsilí, jež náleží ke cti spravedlivé věci, a přesto mu tolik dobrého chybělo. [Tak byl] Pompeius plný práva proti Caesarovi[^2] – jeden chtěl svou vlast osvobodit, druhý ji podrobit. A jiný se modlí a říká své hodinky nebo koná jiné dobro, a přijde onen a zabije ho. Lze tedy dobře říci, že si to člověk nese od plenek a že nebeská tělesa nás nutí a dávají nám páchat strašné činy, takže nemá cenu se přít; neboť planety a znamení působí tolik rozličných účinků, že běda těm, kdo se narodí pod jejich ascendentem {ascendenti} a vládou. Za vítěze se odpovídá, že příroda nikdy nepochybila, leda kvůli nějakému řádu a dobrému konci. Vezměme si příklad z knihy, která pojednává o jediné paní svaté Marii[^3] – a nejen paní, nýbrž císařovně všehomíra –, že mnozí, když se modlili a prosili, došli strašné smrti, a to je pro nějaký názorný a vznešený
+poznamky:
+- n: 1
+  text: |-
+    Alfa a Omega – Bůh (Zj 1,8: „Já jsem Alfa i Omega“). Poražený, ač měl pravdu, viní z porážky Boha a osud (hvězdy).
+- n: 2
+  text: |-
+    Gnaeus Pompeius Magnus, poražený Caesarem u Farsálu roku 48 př. Kr.; v renesančním podání obránce republikánské svobody proti Caesarovi, který si vlast podrobil. K Pompeiovi se autor vrací na další straně.
+- n: 3
+  text: |-
+    Patrně některá ze sbírek mariánských zázraků (Miracoli della Madonna), v Itálii hojně tištěných koncem 15. století.

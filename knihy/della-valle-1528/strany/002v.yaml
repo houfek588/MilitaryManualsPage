@@ -2,6 +2,19 @@ id: 002v
 list: '2'
 strana: verso
 sken: 24
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    elegante, & limate parole composte, nientedimeno la lor compositione e stata solamente per authorita, & imitatione de altri authori, & non per propria exercitatione, Ma io elquale da mei teneri, & giouenil anni in gli exercitii de larme me son io exercitato non ho scripto altro in questo mio libretto excepto quello che per longa experientia ho experto, & prouato con continue fatiche, sudori, & pericoli quali continuamente ho supportato & con gratia dello omnipotente Idio da quelli io son liberato, como col suo recto, uero, sincero, & exquisito iudicio, & perspicace, & acuto intelletto potra iudicare, & comprendere chi la presente opera curiosamente legera. Et ad tal che piu chiaramente da tutti potesse essere inteso (perche son certo questo libro peruenera in mano de dotti, & indotti) non ho uoluto exquisitamente solum per li huomini eruditi, & intelligenti scriuere, ma con basso, inculto & triuiar parlar, & ad tutthomo cognito me ha parso exponere quello che a li strenui, & ualorosi dignissimi militi conuiene. Et pero primamente secondo il mio iudicio dico che al buon capitano de Fantaria in prima e necessario & gli conuiene per exercitare la militia sapere mettere in ordinanza qualse uoglia numero, saperlo spartire, smembrare, & unire in battaglione con arte & ragione, sapere fare calare le picche conueniente ad soi bisogni exercitando li loro battaglioni con loro ragione, & debiti modi prendendo principio, et mezo. Anchora subiungo essere molto utile, & necessario ad Capitani non raro, ma spesso appogiar la barba al petto con accutissimo pensamento quanti militi magnanimi se confidano, & reposano
+  cs: |-
+    elegantními a vybroušenými slovy, přece jejich skladba vznikla jen na základě autority a napodobování jiných autorů, a ne z vlastního cviku. Já však, který jsem se od útlých a jinošských let cvičil ve zbrani, jsem do této své knížky nenapsal nic jiného než to, co jsem během dlouhé zkušenosti poznal a vyzkoušel za ustavičných námah, potu a nebezpečí, která jsem neustále snášel a z nichž jsem byl milostí všemohoucího Boha vysvobozen – jak to svým správným, pravým, upřímným a vybraným úsudkem a bystrým a ostrým rozumem bude moci posoudit a pochopit každý, kdo bude tento spis pozorně číst. A aby mi všichni mohli lépe porozumět (neboť jsem si jist, že se tato kniha dostane do rukou učených i neučených), nechtěl jsem psát vybraně jen pro vzdělané a chápavé lidi, nýbrž jsem uznal za dobré vyložit prostou, neuhlazenou a obyčejnou řečí, srozumitelnou každému, co se sluší na statečné, udatné a nejvýš důstojné vojáky {militi}. Proto nejprve podle svého úsudku pravím, že dobrý kapitán pěchoty {capitano de Fantaria} musí především – a tak se mu sluší, chce-li vykonávat válečné řemeslo {militia} – umět postavit do šiku {ordinanza} jakýkoli počet [mužů], umět ho s uměním a rozvahou rozdělit, rozčlenit a spojit do bataillonu {battaglione}, umět dát sklopit píky {picche}[^1] podle svých potřeb a cvičit své bataillony jejich vlastním způsobem a náležitým postupem, od počátku až po prostředek.[^2] Dále dodávám, že je pro kapitány velmi užitečné a nutné nikoli zřídka, ale často sklonit bradu na prsa a s nejbystřejší myslí uvážit, kolik velkodušných vojáků se svěřuje a bezstarostně odpočívá
+poznamky:
+- n: 1
+  text: |-
+    „Fare calare le picche“ – dát povel ke sklopení pík z polohy na rameni do polohy proti nepříteli (k útoku či obraně).
+- n: 2
+  text: |-
+    „Prendendo principio, et mezo“ – doslova „berouce začátek i střed (prostředek)“; „mezo“ může znamenat střed bataillonu i prostředek, způsob. Smysl je patrně „soustavně, od základů“.

@@ -2,6 +2,27 @@ id: 070r
 list: '70'
 strana: recto
 sken: 159
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  pokracovani: true
+  de: |-
+    & dice uien che con te uoglio combattere con tale arme la tale & tale querela, se e tenuto lo desfidato andare, si o uero no. Capi. XXXV.
+  cs: |-
+    a řekne: „Pojď, chci s tebou bojovat takovými zbraněmi pro ten a ten spor {querela}“ – zda je vyzvaný povinen jít, či nikoli. Kapitola XXXV.
+- typ: odstavec
+  de: |-
+    MOuesi el dubio dallo actore, & dice che lui desfida conditionato & diceli che arme uole combattere chel deue gire senza replica se le uer homo honorato, & non deue mancare, & tanto piu quando li hauesse ditto uoler essere con una spada laquale arma e commune ad ogni natione, & arma usata piu che le altre a tutthomo. Se replica per lo reo che non ne deuere che uno debbia dare el campo & larme hauendo la ragion atteso in quanto al deuere che chi desfida, e presumptione che lhabia causa licita uenire al combattere, e dhauere ragione, & se altro fosse, e uitio manifesto che quello per troppo confidarse in quelle arme desfida esser alemane con chi ne sera forse innocente. Prendendo exempio da uno maestro, & che non ne hauesse intendimento alchuno, siche la desfida e con fraude & uitiosa. Et cosi concludo che la desfida se puo acceptare & negando le arme date dallo desfidatore, & allo desfidato conuiene darle, & lo actore afforza conuien prenderle, che altramente par che saria tacciato lo recercato, non me par che li uaglia desfidare cosi conditionato che ue e lhonore delle parte.
+  cs: |-
+    Pochybnost vznáší vyzyvatel {actore}: vyzývá s podmínkou {conditionato} a říká [vyzvanému], jakými zbraněmi chce bojovat, a ten má přijít bez odmluvy, je-li opravdu ctný muž, a nemá selhat – tím spíše, kdyby mu řekl, že chce [bojovat] mečem {spada}, což je zbraň společná všem národům a užívaná každým mužem víc než ostatní. Za vyzvaného {reo} se namítá, že není správné, aby jeden určoval kolbiště i zbraně, když už má na své straně pravdu; neboť pokud jde o povinnost, u toho, kdo vyzývá, se předpokládá, že má oprávněný důvod jít do boje a že má pravdu. A kdyby to bylo jinak, je to zjevná vada: ten, kdo příliš spoléhá na ony zbraně, vyzývá, aby se pustil do křížku[^1] s někým, kdo je v nich snad nezkušený – jako by mistr [vyzval] toho, kdo se v nich vůbec nevyzná; taková výzva je podvodná a vadná. A tak uzavírám, že výzvu lze přijmout a odmítnout zbraně, které určil vyzyvatel; dát je přísluší vyzvanému a vyzyvatel je musí nutně přijmout, jinak by se zdálo, že vyzvaný bude pohaněn. Nezdá se mi, že by platilo vyzývat takto s podmínkou, když jde o čest {honore} stran.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE VN CHE DEPINGESSE VNALTRO a torto, & che non hauesse licita ragione ma cattiuamente, ad che e tenuto. Capitolo XXXVI.
+  cs: |-
+    O tom, kdo by jiného potupně vymaloval {depingesse} neprávem, bez oprávněného důvodu, nýbrž ze zlomyslnosti – k čemu je zavázán. Kapitola XXXVI.
+poznamky:
+- n: 1
+  text: '„esser alemane“ – čti „esser a le mane“ (dostat se do rukou, pustit se do sebe).'

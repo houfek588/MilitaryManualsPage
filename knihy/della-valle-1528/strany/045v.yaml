@@ -2,6 +2,31 @@ id: 045v
 list: '45'
 strana: verso
 sken: 110
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    prima doue li sara piu de bisogno a fare fatti, secondario che fai conserua al principante, & spalle & animo. Terzo per dare per fianco una uolta o doi o tre & essere freschi al combattere, & da terrore a gli nimici, & quantunque si ristringe ad unirse tutti in uno, ad questo respondo che stando con piu terrore, & sonno piu soggetti, & mouendose con impeto per ciascuno lato non po uenire in tutto acconciamente che laltro che sta alla mitta, & che non fura el tempo ad intrare, & como hauesse pigliato el modo de sbarattare non ce riparo, & quando fossero tutti maestri di guerra, & pertinaci al resistere, questo non ui mancaria ad intrauenire, como il falciatore che falcia il frumento, che piglia girando intorno intorno diminuendo ad poco ad poco, finche uenira a finire la tenuta cioe possessione, & cossi luno non po soccorrere laltro, ma e disutile cosa a contendere allo Exercito ordinato in piu battaglioni con sui ragione, & de piu sorte como in Triangolo che significa una Cetta per aprire como in quadrangolo in Spicolo, como in Lunette, ad lato, & ad Forfice nelli canti, de quadrangolo, como in Scorpione, & de tanti altri modi necessarii al bisogno militare.
+  cs: |-
+    zaprvé tam, kde bude větší potřeba konat činy; zadruhé abys vytvořil zálohu pro toho, kdo [boj] začíná, a dodal mu oporu v zádech i odvahu; zatřetí abys mohl jednou, dvakrát či třikrát udeřit do boku {fianco}, mít muže čerstvé do boje a nahánět nepřátelům hrůzu. A ačkoli se [někteří] omezují na to, aby se všichni spojili v jeden [šik], na to odpovídám, že když tak stojí, mají víc strachu a jsou zranitelnější;[^1] a když [nepřítel] útočí prudce ze všech stran, nemůže jeden [oddíl] zcela dobře přijít [na pomoc] druhému, který stojí na polovině {mitta},[^2] ani zabránit, aby nepřítel nevyužil chvíle a nevnikl dovnitř. A jakmile [nepřítel] najde způsob, jak [šik] rozrazit, není proti tomu obrany; i kdyby to byli samí mistři války a zarputile se bránili, nevyhnulo by se jim to. Je to jako se žencem, který žne obilí: obchází dokola a dokola a ubírá kousek po kousku, až dožne celý pozemek, totiž držbu; a tak jeden nemůže pomoci druhému. Je však marné bojovat proti vojsku {Exercito} rozdělenému do více bataillonů {battaglioni} podle jejich pravidel a rozličných druhů:[^3] v trojúhelníku {Triangolo}, který znamená sekeru {Cetta} k rozetnutí [nepřítele], ve čtyřúhelníku na hrot {Spicolo}, v půlměsících {Lunette} po stranách a v nůžkách {Forfice} na rozích čtyřúhelníku, ve štíru {Scorpione} a v tolika jiných podobách, jichž je třeba pro válečnou potřebu.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    ANCHORA E DA ADVERTIRE che quelli che sonno redutti tutti insieme, et maxime ad giornata deputata per guanto de battaglia, & como fusse ad una terra assediata con poco riparo, & manco muraglia, & huomini, ne ancho uittoria per potersi adoperare, & che ogni perdita de uno huomo li importa diece de li altri. Capitolo XXXIII.
+  cs: |-
+    Rovněž je třeba upozornit, že ti, kdo jsou všichni staženi dohromady, zvláště ke dni bitvy ujednanému vyzývací rukavicí {guanto de battaglia}, jsou na tom, jako by byli v obleženém městě s chabou záštitou {riparo} a s ještě menšími hradbami {muraglia} a menším počtem mužů, a nemají ani [naději na] vítězství, protože se nemohou uplatnit; ztráta každého muže pro ně znamená tolik jako [ztráta] deseti jiných. Kapitola XXXIII.[^4]
+poznamky:
+- n: 1
+  text: |-
+    Tisk je na této straně velmi slabě otištěný a místy setřelý; ve zvětšeném skenu se dají přečíst „stando con piu terrore“, „soggetti“, „mitta“ a „luno [n]o po soccorrere laltro“; přehybem papíru jsou poškozena „a con|[t]endere“ a „con [s]ui ragione“ (první písmena téměř nečitelná). Smysl: jediný velký šik je bojácnější a zranitelnější.
+- n: 2
+  text: |-
+    „Alla mitta“ – smysl nejistý; snad „alla metà“ (na polovině, uprostřed velkého šiku): části jediného velkého šiku si nemohou navzájem včas pomoci.
+- n: 3
+  text: |-
+    Výčet shrnuje tvary z předchozích kapitol: trojúhelník (kap. XVIII–XX), čtyřúhelník postavený na hrot (spicolo, kosočtverec), půlměsíce na bocích (kap. XVI, XXII), nůžky na rozích čtyřúhelníku (kap. XXI) a štír (scorpione), který je popsán dále. „Cetta“ = accetta, sekera.
+- n: 4
+  text: |-
+    V tisku následuje po kapitole XXXI hned kapitola XXXIII; číslo XXXII bylo přeskočeno. Nadpis je v tisku dlouhý a sázený jako souvislý text za verzálkovým začátkem „ANCHORA E DA ADVERTIRE“. „Guanto de battaglia“ – rukavice hozená jako výzva k bitvě v ujednaný den (giornata).

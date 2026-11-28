@@ -2,6 +2,10 @@ id: 026r
 list: '26'
 strana: recto
 sken: 71
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: obrazek
+  soubor: drevorez-71.jpg
+  popis: |-
+    Žebřík s rumpálem pod střechou (ke kapitole X na protější straně): pojízdný vůz na plných kolech (z boku jsou vidět tři) stojí pod vysokou sedlovou střechou z prken skládaných do stromečku, nesenou svislými sloupy. Ve voze je šikmo uložen dlouhý žebřík s příčlemi, který se vztyčuje lanem vedeným přes kladku na svislém sloupku a navíjeným klikou (rumpálem) vlevo; další lano vede dole pod žebříkem. Dlouhá šikmá vzpěra a druhá klika dole uprostřed slouží k nastavení sklonu žebříku. Celá strana je vyobrazení bez textu (dole signatura D ii).

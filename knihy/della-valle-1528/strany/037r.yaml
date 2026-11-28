@@ -2,6 +2,27 @@ id: 037r
 list: '37'
 strana: recto
 sken: 93
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: Picche.400. B.20. o.5.5.a.10.a.10.a.10.a.1
+  cs: 400 pikenýrů {Picche}. B.20. o.5.5.a.10.a.10.a.10.a.1[^1]
+- typ: obrazek
+  soubor: drevorez-93.jpg
+  popis: |-
+    Bataillon čtyř set pikenýrů ze čtyř čtverců (ke kapitole XIIII), sázený z písmen. Čtyři čtverce asi po 10 řadách o 10 mužích stojí do kříže kolem prázdného prostranství s nápisem „bandiere lanze spezate e grandi hoi.“ (homini) – prapory, lance spezzate a velcí páni; v rozích prostranství jsou čtyři malá dřevořezová děla na kolových lafetách, ústím šikmo ven. Horní čtverec (písmena „d“ položená na bok) má nahoře nápis „Fianco e Fronte“ – bok a čelo, dolní čtverec stejně, nápis vzhůru nohama „Fianco e fronte“. Levý čtverec z písmen „p“ má nahoře „Schino“ – týl a dole „Fronte“ – čelo, poslední řadu proloženou tečkami (ručničáři); pravý čtverec z písmen „d“ má nahoře „Fronte“ a dole vzhůru nohama „Schino e Fronte“ – týl a čelo, první řadu proloženou tečkami. Čtverce tak stojí zády k sobě („luno guarda laltro lo schino“) a čelem na všechny čtyři strany. Pravý okraj obrazce je na skenu u hřbetu mírně oříznut.
+- typ: nadpis
+  uroven: 2
+  de: Cap. XIIII.
+  cs: Kapitola XIIII.
+- typ: odstavec
+  de: |-
+    PEr fare el ditto battaglione bisogna mettere in ordinanza ad diece filara, et la Bandera ad uinti filara, & le lanze spezate denanti, & drieto a le bandere, & smembrate ad diece ad diece, ad diece ad diece, & cosi partito che hai smembra, & fa un quadro, smembra et farite unaltro quadro che son doi,
+  cs: |-
+    Chceš-li postavit řečený bataillon {battaglione}, je třeba seřadit šik {ordinanza} po deseti řadách {filara}[^2], prapor {Bandera} do dvacáté řady a lance spezzate {lanze spezate} před prapory a za ně, a rozčlenit {smembrate} [šik] po deseti a deseti, po deseti a deseti. A když jsi ho tak rozdělil, odděl [část] a udělej jeden čtverec {quadro}; odděl [další] a uděláte druhý čtverec, takže jsou dva,
+poznamky:
+- n: 1
+  text: 'Šifra (srov. [[050r|list 50 r]]): B.20 = prapor ve 20. řadě; o.5 (? podle textu šik po deseti) a rozdělení „a 10, a 10, a 10“ na čtverce po deseti řadách; poslední „a.1“ stojí na samém okraji sazby u hřbetu a je patrně useknuté „a.10“ (čtvrtý čtverec). Druhá „5“ stojí na místě písmene p. (partire – rozdělit).'
+- n: 2
+  text: '„Ad diece filara“ – podle obrazce se tu myslí šik po deseti mužích v řadě, který se pak dělí po deseti řadách na čtyři čtverce 10 × 10; šifra v záhlaví však začíná „o.5“. Rozpor je ponechán podle tisku.'

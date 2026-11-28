@@ -2,7 +2,7 @@ id: 053v
 list: '53'
 strana: verso
 sken: 126
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -13,7 +13,7 @@ bloky:
   de: |-
     DEl precedente libro molti et diuersi battaglioni hauemo scritto quali alla uniuersale Militia apparteneno. Ma perche spesso se suole particularmente dalli strenui, & animosi armigeri contendere. Me ha parso conueniente in questo quarto, & ultimo libro trattare de Duello, & prima qual sia maggior nobilita le arme, o le litere.
   cs: |-
-    V předchozí knize jsme popsali mnoho rozličných bataillonů {battaglioni}, které náležejí k vojenství {Militia} obecně. Protože se však udatní a odvážní ozbrojenci {armigeri} často přou každý sám za sebe, zdálo se mi vhodné pojednat v této čtvrté a poslední knize o souboji {Duello}, a nejprve o tom, co má větší šlechtictví {nobilita}: zbraně, nebo učenost {litere}.[^1]
+    V předchozí knize jsme popsali mnoho rozličných bataillonů {battaglioni}, které náležejí k vojenství {Militia} obecně. Protože však udatní a smělí bojovníci často bývají zvyklí utkávat se jednotlivě, zdálo se mi vhodné pojednat v této čtvrté a poslední knize o souboji {Duello}, a nejprve o tom, co má větší šlechtictví {nobilita}: zbraně, nebo učenost {litere}.[^1]
 - typ: nadpis
   uroven: 2
   de: DELLA NOBILITA DE LITERE CAPITO PRIMO.
@@ -22,9 +22,11 @@ bloky:
   de: |-
     EL preuenire de grandeza, Titoli & gradi, & nobilita aduiene per longo tempo stentare in litere & quelle perseuerando studiare in puerile eta el principio, in la eta perfetta il mezo, in la eta decrepita lo optimo fine, et quante sono le fatiche de mente, & de corpi con quanti incommodi notte & giorno de audire & legere, perdeno il sonno, & nutrimenti de cibi per attendere ad studiare non temendo freddo, fame, sete, & fatiche, incommodi grandi, solo peruenire a questa nobile, Excellente & utile scientia, per laquale se gouerna & rege tutto luniuerso, che senza lei non se potrebbe uiuere rectamente. O quanta differenza, o quante insidie, o quanti adulti, o quante roine de corpi, & de
   cs: |-
-    K velikosti, titulům, hodnostem a šlechtictví se dochází dlouhou námahou v učenosti {litere}, když se jí člověk vytrvale věnuje: v chlapeckém věku je začátek, v dospělém věku střed a ve stáří nejlepší konec. A kolik je to námahy duševní i tělesné, s kolika nepohodlími dnem i nocí při naslouchání a čtení; [učenci] ztrácejí spánek i výživu z pokrmů, aby se mohli věnovat studiu, a nebojí se zimy, hladu, žízně ani námahy a velkých nepohodlí, jen aby dosáhli této vznešené, výtečné a užitečné vědy, kterou se spravuje a řídí celý svět a bez níž by se nedalo žít správně. Ó kolik sporů {differenza}, kolik úkladů, kolik cizoložství[^2], kolik zhouby těl i
+    K velikosti, titulům, hodnostem a šlechtictví se dochází dlouholetou námahou v učenosti {litere}, když se jí člověk vytrvale věnuje: v chlapeckém věku je začátek, v dospělém věku střed a ve stáří nejlepší konec. A kolik je to námahy duševní i tělesné, s kolika nepohodlími dnem i nocí při naslouchání a čtení! [Učenci] ztrácejí spánek i výživu z pokrmů, aby se mohli věnovat studiu, a nebojí se zimy, hladu, žízně, námahy ani velkých nepohodlí, jen aby dosáhli této vznešené, výtečné a užitečné vědy, jíž se spravuje a řídí celý svět a bez níž by se nedalo žít správně. Ó kolik sporů, kolik úkladů, kolik cizoložství,[^2] kolik zhouby těl i
 poznamky:
 - n: 1
-  text: Kniha čtvrtá začíná velkou figurální iniciálou D (dvě svaté postavy se svatozáří, jedna s klíčem). Spor „zbraně, nebo písmo“ (armi o lettere) je oblíbené renesanční téma; Della Valle ho předesílá výkladu o souboji, protože šlechtictví a čest jsou jeho předpokladem.
+  text: |-
+    Kniha čtvrtá začíná velkou figurální iniciálou D (anděl s křídly a vousatý světec se svatozáří, dole klíč). Spor „zbraně, nebo písmo“ (armi o lettere) je oblíbené renesanční téma; Della Valle ho předesílá výkladu o souboji, protože šlechtictví a čest jsou jeho předpokladem.
 - n: 2
-  text: Tisk má „o quanti adulti“ (doslova „kolik dospělých“), což v řadě neštěstí nedává smysl; patrně zkomoleno z „adulterii“ (cizoložství). Čtení ověřeno ve skenu. Nadpis kapitoly má tiskovou chybu „CAPITO“ místo „CAPITOLO“.
+  text: |-
+    Tisk má „o quanti adulti“ (doslova „kolik dospělých“), což v řadě neštěstí nedává smysl; patrně zkomoleno z „adulterii“ (cizoložství), méně pravděpodobně z „assalti“ (útoků). Nadpis kapitoly má tiskovou chybu „CAPITO“ místo „CAPITOLO“.

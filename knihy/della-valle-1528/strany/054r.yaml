@@ -2,7 +2,7 @@ id: 054r
 list: '54'
 strana: recto
 sken: 127
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,7 +10,7 @@ bloky:
   de: |-
     populi, de regni, de amici, questa scientia admodesta, applaca, concorda, & unisce, o beato e quello che la reuerisce, & tene, o beato e quello che lama, & continuamente segue, o qual cosa e piu appresso a Dio che la sapientia, siche Dio e somma sapientia, & la sapientia e in Dio adoncha e da pensare che quello che se inueste de ragio diuino se puo dire nobile & grande.
   cs: |-
-    národů, království i přátelství tato věda {scientia} krotí, usmiřuje, uvádí v soulad a sjednocuje! Ó blažený, kdo ji ctí a drží se jí, ó blažený, kdo ji miluje a ustavičně ji následuje! Ó, co je blíže Bohu než moudrost {sapientia}? Vždyť Bůh je svrchovaná moudrost a moudrost je v Bohu. Je tedy třeba soudit, že kdo se odívá božským paprskem, může se nazývat vznešeným a velikým.
+    národů, království i přátel – to vše tato věda krotí, usmiřuje, uvádí v soulad a sjednocuje. Ó blažený, kdo ji ctí a drží se jí, ó blažený, kdo ji miluje a ustavičně ji následuje! Ó, co je Bohu bližší než moudrost? Vždyť Bůh je svrchovaná moudrost a moudrost je v Bohu. Je tedy třeba soudit, že kdo se odívá božským paprskem, smí se nazývat vznešeným a velikým.
 - typ: nadpis
   uroven: 2
   de: DELLA NOBILITA ET GRANDEZA della militia. Cap. II.
@@ -19,7 +19,8 @@ bloky:
   de: |-
     IN prima se dice la scientia e il fiore, & la militia el frutto, adoncha de una gran cosa ue e principio, mezo, & fine, per tanto non e da fondarse come al fiore ma dico al frutto, & quello demostra la perfettione del suo optimo, & bel fine, & piu dico quel piu uale chi piu se stima, quel piu se stima, che se acquista con piu faticha, quella e piu faticha che ce piu pericolo, quello e piu pericolo che ce pegno la uita appresso la uita ue e lhonore quel che tutto auanza non se puo negare che dio non sia somma sapientia, ma anchora e somma potentia, & questa e reseruata per un suo ultimo, & grandissimo ualore, anchora se legge nel Lib. de uita Sanctorum a charte. 145. in capi. 87. como per uolunta de Iesu eterno idio fo reseruato nella superna corte a santo Michaele archangelo lo atto, et la nobilita piu che a li altri angeli dotati de somma sapientia, siche della degna & nobile, & splendidissima militia titulato Capitano, el quale Capitano non uolse tanto adoperare la scientia, ma la magnanimita della forza dico uera militia, o quando
   cs: |-
-    Především se říká, že věda je květ a vojenství {militia} plod. U každé velké věci je tedy začátek, střed a konec, a proto se nemá stavět na květu, nýbrž, pravím, na plodu, neboť ten ukazuje dokonalost svého nejlepšího a krásného konce. A dále pravím: více platí to, čeho se více cení; více se cení to, co se získává větší námahou; větší námaha je tam, kde je větší nebezpečí; a větší nebezpečí je tam, kde je v sázce život – a hned po životě je tu čest {honore}, která převyšuje všechno. Nelze popřít, že Bůh je svrchovaná moudrost, ale je také svrchovaná moc, a ta je vyhrazena pro jeho poslední a největší udatnost {ualore}. Také se čte v knize O životě svatých {Lib. de uita Sanctorum}[^1] na listu 145 v kapitole 87, jak z vůle Ježíše, věčného Boha, byla na nebeském dvoře archandělu svatému Michaelovi vyhrazena ta hodnost a šlechtictví {nobilita} více než ostatním andělům obdařeným svrchovanou moudrostí, takže byl nazván kapitánem {Capitano} důstojného, vznešeného a přeskvělého vojska {militia}. A ten kapitán nechtěl ani tak užít vědy, jako velkodušnosti síly, totiž pravého vojenství. Ó, když
+    Především se říká, že věda je květ a vojenství {militia} plod. U každé velké věci je tedy začátek, střed a konec, a proto se nemá stavět na květu, nýbrž, pravím, na plodu, neboť ten ukazuje dokonalost svého nejlepšího a krásného konce. A dále pravím: víc platí to, čeho si [lidé] víc cení; víc se cení to, co se získává větší námahou; větší námaha je tam, kde je větší nebezpečí; a větší nebezpečí je tam, kde je v sázce život – a hned po životě je tu čest {honore}, která převyšuje všechno. Nelze popřít, že Bůh je svrchovaná moudrost, ale je také svrchovaná moc, a ta je vyhrazena pro jeho poslední a největší udatnost. Také se čte v knize O životě svatých[^1] na listu 145 v kapitole 87, jak z vůle Ježíše, věčného Boha, byl na nebeském dvoře archandělu svatému Michaelovi vyhrazen ten čin a šlechtictví {nobilita} více než ostatním andělům obdařeným svrchovanou moudrostí, takže byl nazván kapitánem {Capitano} důstojného, vznešeného a přeskvělého vojska. A ten kapitán nechtěl ani tak užít vědy jako velkodušnosti síly, totiž pravého vojenství. Ó, když
 poznamky:
 - n: 1
-  text: Patrně Legenda aurea Jakuba de Voragine (v italských tiscích „Legendario de sancti“, latinsky též „Vitae sanctorum“), kde je kapitola o svatém Michaelovi; údaj „list 145, kapitola 87“ se vztahuje k vydání, které autor používal, a nepodařilo se ho ztotožnit.
+  text: |-
+    V tisku „Lib. de uita Sanctorum“ – patrně Legenda aurea Jakuba de Voragine (v italských tiscích „Legendario de sancti“, latinsky též „Vitae sanctorum“), kde je kapitola o svatém Michaelovi; údaj „list 145, kapitola 87“ se vztahuje k vydání, které autor používal, a nepodařilo se ho ztotožnit.

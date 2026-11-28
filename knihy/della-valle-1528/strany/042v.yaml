@@ -2,6 +2,29 @@ id: 042v
 list: '42'
 strana: verso
 sken: 104
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: o.6.5.18.2.2.6.a.3.B.22. Picche.400.
+  cs: o. 6. 5. 18. 2. 2. 6. a. 3. B. 22. Pik {Picche} 400.[^1]
+- typ: obrazek
+  soubor: drevorez-104.jpg
+  popis: |-
+    Obrazec bataillonu o 400 pikách v půlměsíci (kapitola XXII): nahoře široký oblouk řad (půlměsíc), jehož konce se zvedají vzhůru jako rohy; na konci každého rohu jsou dvě příčné řady (d d d a dodo…); řady tvoří písmena d a p, vnější i vnitřní okraj lemují střídavě písmena d a o, resp. p a o. Uvnitř oblouku nápis FRONTE (čelo), u levého rohu svisle „Fronte“. Pod obloukem navazuje čtvercový blok: uprostřed prapor B mezi sloupci písmen P (zřejmě lance spezzate), po stranách řady písmen p lemované písmeny o, na obou bocích nápis FRONTE a pod spodní řadou střídavých p a o rovněž FRONTE. Pravý roh půlměsíce i konce řádků jsou na skenu useknuty okrajem stránky.
+- typ: nadpis
+  uroven: 2
+  de: Per fare uno battaglione de Picche.400. Ca.XXII.
+  cs: Jak udělat bataillon o 400 pikách. Kapitola XXII.
+- typ: odstavec
+  de: |-
+    AFare el ditto battaglione in Lunetta de.400 picche bisogna mettere in ordinanza ad sei filara la bandiera ad.22. & partire ad deceotto, ad doi, ad doi, ad sei, & tre altri restanti spartirli da piedi como qui appare, & smembra ad deceotto, et fa mezo circho como qui sopra appare, & doi filari per testa como qui disopra trouarite, & partite le picche sei
+  cs: |-
+    Chceš-li udělat tento bataillon {battaglione} v půlměsíci {Lunetta} o 400 pikách {picche}, je třeba postavit muže do šiku {ordinanza} po šesti, prapor {bandiera} na dvacátou druhou řadu {filara}, a rozdělit je po osmnácti, po dvou, po dvou a po šesti [řadách]; zbývající tři [řady] rozděl dole u paty, jak je zde vidět. Pak odděl {smembra} osmnáct [řad] a udělej půlkruh, jak je vidět nahoře, a dvě řady {filari} na každý konec, jak to najdete nahoře; a rozdělte píky do šesti[^2]
+poznamky:
+- n: 1
+  text: |-
+    Číselná řada přesně odpovídá textu kapitoly: šik po 6 (o.6), dělení 18, 2, 2, 6 řad, „a.3“ = avanza 3 (tři zbývající), „B.22“ = prapor na 22. řadě. Druhá „5“ stojí na místě písmene p. (partire – rozdělit), viz poznámku na [[040r|listu 40 r]]. „Per testa“ (na každou hlavu) – dvě příčné řady na konci každého rohu půlměsíce, jak ukazuje obrazec.
+- n: 2
+  text: |-
+    Pravý okraj tisku je na skenu useknut, konce řádků (ověřeno ve zvětšeném skenu) („de.400“, „fi|lara“, „deceot|to“, „da“, „fa“, „te|sta“, „sei“) jsou doplněny podle smyslu a zbylých stop písmen. Obrazec je v tisku nad nadpisem kapitoly.

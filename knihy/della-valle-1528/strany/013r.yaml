@@ -2,6 +2,34 @@ id: 013r
 list: '13'
 strana: recto
 sken: 45
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    bastioni seccati de lauro, & sfregizarli molto forte luno con laltro uelocemente, & spesso butta sulphure, & si accendera da per loro senza altro mezo.
+  cs: |-
+    suché vavřínové kolíky {bastioni}[^1] a velmi silně a rychle je o sebe třít a často [na ně] sypat síru {sulphure}; a samy od sebe se vznítí bez jiného prostředku.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER FARE VNA MISTVRA IN pietra da pizar fuoco che si accenda con aqua ouero sputo. Capitolo. XXII.
+  cs: |-
+    Jak udělat směs v podobě kamene k zapalování ohně, který se vznítí vodou nebo slinou. Kapitola XXII.
+- typ: odstavec
+  de: |-
+    PEr fare una pietra che si appicia fuoco con lo sputo, ouero con aqua & questa mistura e molto utile per un Capitano per dare fuoco ali loro scopetteri quando hauessero remorti li stoppini per fortunale tempo, & non hauessero ancho commodita ad remediare con el fuoco per el mal tempo che fosse. In prima piglia calcina uiua che non sia bagnata parte una, Tutia alexandrina non preparata parte una Salmitro refinato piu, & piu uolte parte una, Sulphuro uiuo parte doe, Camphora parte doe, pietra calamitta parte una, Et tutte queste cose bisogna che siano ben pistate, & tamisate bene, & poi le lega con peza noua ben stretto, & habbi doi grandi orzuoli ouer corezuoli da orefece, & metti la ditta mistura dentro luno & laltro, & poi copri & incattena con ferro filato, & poi habbi lota sapientia ouer creda & riuoltali bene, attale che non fiata, & falli un poco reseccare, & remanira giallo, & poi mettili in una fornace, quando ue si mette li mattoni, ouero uasi, & date fuoco, & quando sera il tempo di cauar luno sera fatto como li mattoni pietra,
+  cs: |-
+    Jak udělat kámen, kterým se zapálí oheň slinou nebo vodou. Tato směs {mistura} je velmi užitečná pro kapitána {Capitano}, aby mohl dát oheň svým ručničářům {scopetteri}, kdyby jim za bouřlivého počasí zhasly doutnáky {stoppini} a neměli by ani příležitost pomoci si ohněm kvůli špatnému počasí, které by panovalo. Nejprve vezmi nehašené vápno, které nesmí být navlhlé, jeden díl; alexandrijské tutie {Tutia alexandrina},[^2] nepřipravené, jeden díl; ledku {Salmitro} mnohokrát přečištěného jeden díl; přírodní síry {Sulphuro} dva díly; kafru {Camphora} dva díly; magnetovce {calamitta} jeden díl. Všechny tyto věci je třeba dobře roztlouct a dobře prosít; pak je pevně svaž do nového hadříku a měj dva velké zlatnické kelímky, dej tu směs do jednoho i do druhého, pak je přiklop a obtoč železným drátem. Potom měj mudrcovskou hlínu {lota sapientia} nebo jíl a dobře je jí obal, aby nedýchaly; nech je trochu proschnout a zůstanou žluté. Pak je dej do pece, když se do ní sází cihly nebo nádoby, a zapalte; a až bude čas je vytáhnout, bude z [té směsi] kámen jako z cihel.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER FARE VNO ALTRO MOdo de pietra che si appicia con lo sputo ouer aqua el fuoco. Capitolo. XXIII.
+  cs: |-
+    Jak udělat jiný druh kamene, kterým se slinou nebo vodou zapálí oheň. Kapitola XXIII.
+poznamky:
+- n: 1
+  text: Bastioni zde znamená „bastoni“ (hole, kolíky), nikoli bašty; začátek věty („dva…“) je na předchozí straně.
+- n: 2
+  text: Tutia alexandrina – tutie, nečistý oxid zinečnatý ze sazí mosazných a bronzových hutí, dovážený přes Alexandrii; užívala se v lékařství.

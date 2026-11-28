@@ -2,6 +2,16 @@ id: u008v
 list: '[8] v'
 strana: verso
 sken: 20
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    che con la corda se accenda el fuoco presto al tempo, et faranno gran faccione in una stretta de fanti similmente trarli fora de una fortezza perche rompendose quel fuoco se sparze & arde tenebrosamente doue tocca, ma auertissi de lassarle prima bene appizare se tu le trai in luoco doue se habbino a rompere cioe da alto a basso.
+  cs: |-
+    se od hořící šňůry {corda} oheň v pravou chvíli rychle vzňal. Velký účinek budou mít v tlačenici pěchoty {fanti}, a stejně tak, když se vrhají ven z opevnění {fortezza}, protože když se nádoba rozbije, oheň se rozstříkne a hoří temně a čadivě, kamkoli dopadne. Ale dej pozor, abys je nechal nejprve dobře rozhořet, vrháš-li je na místo, kde se mají rozbít, totiž shora dolů.[^1]
+poznamky:
+- n: 1
+  text: |-
+    Tím končí „tři kapitoly o ohňostrojných zbraních“; zbytek strany je v tisku prázdný (prosvítá text z líce listu).

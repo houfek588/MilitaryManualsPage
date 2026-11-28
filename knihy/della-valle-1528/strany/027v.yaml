@@ -2,28 +2,28 @@ id: 027v
 list: '27'
 strana: verso
 sken: 74
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
   pokracovani: true
   de: |-
-    stra, & potra sbusare per ponte coperto, e utilissimo, anchora e da notare che la testa de epso bisogna che sia apertura che habia da fare dui ale per fianco, per potere uscire la gente.
+    mostra, & potra sbusare per ponte coperto, e utilissimo, anchora e da notare che la testa de epso bisogna che sia apertura che habia da fare dui ale per fianco, per potere uscire la gente.
   cs: |-
-    ukazuje, a [stroj] tak bude moci projít jako krytý most {ponte coperto}[^1], což je velmi užitečné. Dále je třeba poznamenat, že jeho přední čelo {testa} musí mít otvor, který po stranách vytvoří dvě křídla {ale}, aby mohli muži vyjít ven.
+    ukazuje, a [stroj] tak bude moci projít jako krytý most {ponte coperto}[^1], což je velmi užitečné. Také je třeba poznamenat, že jeho přední část musí mít otvor, který se po stranách otvírá na dvě křídla, aby mohli muži vyjít ven.
 - typ: obrazek
   soubor: drevorez-74.jpg
   popis: |-
-    Dva přenosné mosty k přechodu vojska přes řeky (ke kapitole XIII), pohled shora. Nahoře kostra mostu: tři dlouhé trámy, každý složený ze dvou kusů, které jsou uprostřed spojeny železnými kováními s okem a hákem; trámy spojují příčné hranoly (traversy), takže kostra připomíná podvozek vozu. Dole tentýž most pokrytý šesti podélnými prkny; tečky znázorňují hřeby, malé obdélníčky přes spáry spony, jimiž jsou prkna spojena. Na koncích trámů jsou po obou stranách železná kování s okem a hákem k napojení dalších dílů.
+    Dva přenosné mosty k přechodu vojska přes řeky (ke kapitole XIII), pohled shora. Nahoře kostra mostu: tři dlouhé trámy, každý složený ze dvou kusů, které jsou uprostřed spojeny železnými kováními s okem a hákem; trámy spojují příčné hranoly (traversy), takže kostra připomíná podvozek vozu. Dole jeden díl mostu pokrytý šesti prkny položenými napříč přes trámy; tečky znázorňují hřeby, malé obdélníčky přes spáry spony, jimiž jsou prkna spojena. Na koncích tří trámů vyčnívají po obou stranách železná kování s okem a hákem k napojení dalších dílů.
 - typ: nadpis
   uroven: 2
   de: MODELLO DE PONTI PER PAsare exerciti per fiumare. Cap. XIII.
-  cs: Model mostů k převádění vojsk přes řeky. Kapitola XIII.
+  cs: Stroj – mosty k převádění vojsk přes řeky. Kapitola XIII.
 - typ: odstavec
   de: |-
     E Da notare questi doi ponti sono in un medesimo modo uero che ad uno sono messe su le tauole inchiodate, & bisogna che siano trauicelli carrati,
   cs: |-
-    Je třeba poznamenat, že tyto dva mosty {ponti} jsou udělány stejným způsobem, jenom na jednom jsou nahoře položena a přibita prkna {tauole}. Trámky {trauicelli} musí být vozové,
+    Je třeba poznamenat, že tyto dva mosty {ponti} jsou udělány stejným způsobem, jen na jeden jsou navrch položena a přibita prkna. Trámky musí být „vozové“,
 poznamky:
 - n: 1
   text: '„Sbusare“ – patrně neapolsky za „sbucare“ (vyjít, prodrat se ven) nebo „bucare“ (prorazit); smysl: dřevěný kryt na kolech z předchozí kapitoly XII (list 27 r) lze s trámy podloženými zespodu převést přes vodní příkop jako krytý most.'

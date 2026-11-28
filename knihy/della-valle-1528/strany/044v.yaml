@@ -2,6 +2,44 @@ id: 044v
 list: '44'
 strana: verso
 sken: 108
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    como e ditto di sopra, & sara con ragione, & per doi fianchi saranno picche uinticinque, & per doi restante saranno uintisei.
+  cs: |-
+    jak je řečeno výše, a bude to správně: na dvou bocích {fianchi} bude dvacet pět pik {picche} a na dvou zbývajících [stranách] dvacet šest.[^1]
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE de picche.700. Capitolo.XXVIII.
+  cs: Jak udělat bataillon o 700 pikách. Kapitola XXVIII.
+- typ: odstavec
+  de: |-
+    DA fare uno battaglione de.700. picche in quadrangolo bisogna mettere in ordinanza ad diece, & partire ad uintisei, ad decesette ad uintisei, & smembra, & tira per fianco una, & doi, & unisce, & sara de quadro, & auanza picche sei, le quale uanno appresso la piaza, & sara da doi faze uintisei, & per doi altre uintisette.
+  cs: |-
+    Chceš-li udělat bataillon {battaglione} o 700 pikách {picche} ve čtyřúhelníku {quadrangolo}, je třeba postavit muže do šiku {ordinanza} po deseti a rozdělit je po dvaceti šesti, po sedmnácti a po dvaceti šesti [řadách]. Pak odděl {smembra}, vytáhni na bok jednu i druhou [část] a spoj, a bude to do čtverce. Zbude šest pik, které jdou k prostranství {piaza}; na dvou stranách {faze} bude dvacet šest [pik] a na dvou dalších dvacet sedm.[^2]
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE de picche.800. Capitolo XXIX.
+  cs: Jak udělat bataillon o 800 pikách. Kapitola XXIX.
+- typ: odstavec
+  de: |-
+    DA fare uno battaglione de.800. picche in quadrangolo bisogna mettere in ordinanza ad diece, & la Bandera ad trentanoue filare, & bisogna partire como ui e monstrato ad trenta ad disnoue ad trenta, & partito che hai smembra ali.30. & tira ala testa, & dalli.19. & tira ala testa, & unisce & sara de quadro uero, e che cene auanza sei picche le quale metterai nella piaza appresso le lanze spezate, & sara per doi fianchi picche trenta, & per doi altre picche trenta & sara buono.
+  cs: |-
+    Chceš-li udělat bataillon o 800 pikách {picche} ve čtyřúhelníku, je třeba postavit muže do šiku po deseti a prapor {Bandera} na třicátou devátou řadu {filare}; a je třeba rozdělit je, jak vám bylo ukázáno, po třiceti, po devatenácti a po třiceti [řadách]. Když jsi rozdělil, odděl u třiceti a vytáhni do čela, a od devatenácti rovněž vytáhni do čela a spoj; a bude to pravý čtverec. Zbude šest pik, které postavíš na prostranství k lance spezzate {lanze spezate}; na dvou bocích bude třicet pik a na dvou dalších [stranách] také třicet a bude to dobré.[^3]
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE de picche.900. Capitolo XXX.
+  cs: Jak udělat bataillon o 900 pikách. Kapitola XXX.
+poznamky:
+- n: 1
+  text: |-
+    Počet: 25 + 16 + 25 = 66 řad po 9 mužích = 594; počty jsou přibližné, zbytek do šesti set doplňují ručničáři a desátníci na místech dělení.
+- n: 2
+  text: |-
+    Počet: 26 + 17 + 26 = 69 řad po 10 mužích = 690; se šesti přebývajícími 696.
+- n: 3
+  text: |-
+    Počet: 30 + 19 + 30 = 79 řad po 10 mužích = 790; prapor na 39. řadě stojí zhruba uprostřed (79 : 2 ≈ 40).

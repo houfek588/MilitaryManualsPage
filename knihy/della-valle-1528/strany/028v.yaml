@@ -2,22 +2,22 @@ id: 028v
 list: '28'
 strana: verso
 sken: 76
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: obrazek
   soubor: drevorez-76.jpg
   popis: |-
-    Dvě čerpadla z měchů k vyčerpání vody z příkopu (ke kapitole XV). Nahoře velký měch ve tvaru obráceného jehlanu se skládanými (harmonikovými) stěnami, postavený na noze v kaluži vody; z horního víka trčí vlevo zubatá páka (rukojeť) a vpravo zahnutá trubka, z níž proudem vytéká voda do potoka, který odtéká pryč. Dole menší kovářský měch na podstavci; z jeho trubky (hubice) vytéká voda do další kaluže, odkud odtéká strouhou.
+    Dvě čerpadla z měchů k vyčerpání vody z příkopu (ke kapitole XV). Nahoře velký měch ve tvaru obráceného komolého jehlanu se skládanými (harmonikovými) stěnami, postavený na noze v kaluži vody; z horního víka trčí vlevo zubatá rukojeť a vpravo zahnutá trubka, z níž proudem vytéká voda do potoka, který odtéká pryč. Dole menší kovářský měch na noze, rovněž postavený ve vodě; z jeho trubky (hubice) vytéká voda do další kaluže, odkud odtéká strouhou.
 - typ: nadpis
   uroven: 2
   de: MODELLO PER CAVARE AQVA con mantici da fossi. Cap. XV.
-  cs: Model k čerpání vody z příkopů měchy. Kapitola XV.
+  cs: Stroj k čerpání vody z příkopů měchy. Kapitola XV.
 - typ: odstavec
   de: |-
     ANchora e da notare che per expugnare una impresa de pigliare una terra che non se potesse portare ponti, & poi le scale, & altri modelli per acqua che fosse nelli fossi, & che ce fusse lo parere de maestri uolere cauare lacqua, & non hauesse la dinpendentia che per trinciera cauarla, ue serra questo modo con elquale magisterio non essendo impedito se potra cauare la ditta acqua dal fosso o uero doue sera.
   cs: |-
-    Dále je třeba poznamenat, že kdyby při dobývání, když se podniká útok na nějaké město {terra}, nebylo možné kvůli vodě v příkopech {fossi} přinést mosty a pak žebříky {scale} a jiné modely, a kdyby mistři {maestri} byli toho mínění, že je třeba vodu vyčerpat, a [příkop] neměl takový spád {dinpendentia}[^1], aby se dala odvést zákopem {trinciera}, poslouží vám tento způsob: tímto umem {magisterio} se, nebude-li vám v tom bráněno, bude moci řečená voda vyčerpat z příkopu nebo odkudkoli bude třeba.
+    Také je třeba poznamenat: kdyby při podniku dobýt nějaké město nebylo možné kvůli vodě v příkopech {fossi} přinést mosty a potom žebříky {scale} a jiné stroje, a kdyby mistři byli toho mínění, že je třeba vodu vyčerpat, a [příkop] neměl takový spád {dinpendentia}[^1], aby se dala odvést zákopem {trinciera}, poslouží vám tento způsob. Tímto umem se, nebude-li vám v tom bráněno, bude moci řečená voda vyčerpat z příkopu nebo odkudkoli bude třeba.
 poznamky:
 - n: 1
   text: '„Dinpendentia“ – tak v tisku (ověřeno ve skenu), patrně za „dependentia“ / „pendenza“ – spád, sklon terénu, který by dovolil vodu z příkopu vypustit odvodňovacím zákopem.'

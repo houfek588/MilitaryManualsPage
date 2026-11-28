@@ -2,7 +2,7 @@ id: 053r
 list: '53'
 strana: recto
 sken: 125
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -16,6 +16,8 @@ bloky:
     Tyto bataillony {battaglioni} stojí proti sobě, jeden v nůžkách {forfece} a druhý v trojúhelníku {triangolo}; jdou proti sobě správně, aniž by si navzájem překáželi, a oba je lze vidět[^1], jak je zde na protější straně zobrazeno.[^2]
 poznamky:
 - n: 1
-  text: Tisk má „con nedere“, patrně tisková chyba za „con uedere“ (vidět; obrácená litera n/u); stejně „alinconro“ místo „alincontro“. Obě čtení ověřena ve skenu.
+  text: |-
+    Tisk má „con nedere“, patrně tisková chyba za „con uedere“ (vidět; obrácená litera n/u); stejně „alinconro“ místo „alincontro“. Obě čtení ověřena ve skenu.
 - n: 2
-  text: Nadpis zde na rozdíl od předchozích kapitol nemá číslo; v obsahu (Tabola) je kapitola uvedena jako „A far doi battaglioni luno in forfice & laltro in triangolo non se molestando loro“ s odkazem na list 53. Obrazec je na protější straně [[052v|52 v]]. Zbytek strany je prázdný – zde končí Kniha třetí.
+  text: |-
+    Nadpis zde na rozdíl od předchozích kapitol nemá číslo; v obsahu (Tabola, list [5] r) je kapitola uvedena jako „A far doi battaglioni luno in forfice & laltro in triangolo non se molestando loro“ s odkazem na list 53. Obrazec je na protější straně [[052v|52 v]]. Zbytek strany je prázdný – zde končí Kniha třetí.

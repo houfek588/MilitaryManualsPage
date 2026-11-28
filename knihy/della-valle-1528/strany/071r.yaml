@@ -2,6 +2,44 @@ id: 071r
 list: '71'
 strana: recto
 sken: 161
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    mestiero chel sia depento malamente, & essendo cosi per certo se deue fare la sopraditta demonstratione.
+  cs: |-
+    řemesle, [který shledá], že [vyzvaný] byl potupně vymalován {depento} neprávem; a je-li tomu jistě tak, má se učinit výše uvedené veřejné potrestání.
+- typ: odstavec
+  de: |-
+    QVesti sono li fioreti della Militia Excellentissimo S. mio quali solamente per exercitatione, & per non darme totalmente a locio me ha parso in questo mio libret[to] bre[ue]mente descriuere pregando uostra excellentissima signoria se degna alchuna uolta ascoltare alchuno Capitolo, & se alchuna cosa ue paresse non limatamente exposta uoglia considerare io non hauere inuestigato tanto il terso, & elegante parlare, quanto la uerita.
+  cs: |-
+    To jsou kvítka vojenství {Militia}[^1], můj přejasný pane[^2], která jsem se jen pro cvik, a abych se docela neoddal zahálce, rozhodl krátce popsat v této své knížečce[^3]. Prosím Vaši přejasnou Milost, aby ráčila někdy vyslechnout některou kapitolu; a zdálo-li by se Vám, že je něco vyloženo neuhlazeně, račte uvážit, že jsem se nesnažil ani tak o uhlazenou a vybranou řeč jako o pravdu.
+- typ: odstavec
+  de: |-
+    Finisse Libro intitolato VALLO pertinente ad militi con noui Capitoli di artificii de fuoco agionti como nella soa tabola appare. Stampata in Venetia per Piero de Rauani. Nel anno del Signore Dio nostro. M.D.XXVIII. Adi. IX. de Decembrio.
+  cs: |-
+    Končí kniha nazvaná VALLO, náležející vojákům, s nově přidanými kapitolami o ohňostrojných zbraních {artificii de fuoco}, jak ukazuje její obsah {tabola}. Vytištěna v Benátkách u Piera de Ravani[^4] léta Pána Boha našeho 1528, dne 9. prosince.
+- typ: nadpis
+  uroven: 3
+  de: REGISTRO.
+  cs: Registr [archů][^5]
+- typ: tabulka
+  de:
+  - ['1', A, B, C, D, E, F, G, H, I]
+  - ['4', '4', '4', '4', '4', '4', '4', '4', '4', '4']
+  cs:
+  - ['1', A, B, C, D, E, F, G, H, I]
+  - ['4', '4', '4', '4', '4', '4', '4', '4', '4', '4']
+poznamky:
+- n: 1
+  text: 'Fioretti – „kvítka“, tj. výbor, nejlepší kousky (srov. Fioretti sv. Františka).'
+- n: 2
+  text: 'Oslovení „Excellentissimo S[ignore] mio“ patří hraběti Enricu Pandonovi z Venafra, jemuž je kniha věnována (LIBRO PRIMO, list 1 r).'
+- n: 3
+  text: 'Slova „libret[to] bre[ue]mente“ jsou ve skenu poškozena (natržený nebo odřený papír); doplněno podle smyslu.'
+- n: 4
+  text: 'Piero de Ravani (Pietro Ravani) – benátský tiskař a nakladatel, činný asi 1515–1550; jeho tiskařský znak (korunovaná siréna s dvěma ocasy) je na rubu tohoto listu.'
+- n: 5
+  text: 'Registr – soupis archů pro knihaře: nesignovaný úvodní arch (zde číslice 1) a archy A–I, každý po 4 dvoulistech (kvaternion = 8 listů), celkem 80 listů ([8] + 72). Poslední list I8 ([72]) byl patrně prázdný; v digitalizaci Getty po tiskařském znaku následuje jen prázdný sken 163.'

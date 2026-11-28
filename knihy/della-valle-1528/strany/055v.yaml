@@ -2,6 +2,32 @@ id: 055v
 list: '55'
 strana: verso
 sken: 130
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: |-
+    E Da notare che uno honesto mentire se suole dire tu non dice il uero, anchora ue a laltro mentire dicendo tu ne menti per la golla, & laltro mentire se dice tu ne menti per la gola como ad un tristo, laltro anchora se dice tu ne menti per la gola como ad un tristo che tu sei, si che luno procede dallaltro, & luno e differente dallaltro, prendendo el caso che un dicessi tu ne menti per la gola como un tristo, non se intende chel sia tristo, ma che lhabia mentito come fa un tristo in quella uolta, & lui non deue combattere per querela chel sia ditto tristo, ma dicendo tu ne menti per la gola, come un tristo che tu sei la querela e de combattere che li e ditto tristo per causa che dice tu sei.
+  cs: |-
+    Je třeba si všimnout, že slušné obvinění ze lži {mentire} se obvykle vyslovuje slovy „neříkáš pravdu“. Jiné obvinění ze lži zní „lžeš hrdlem“,[^1] další „lžeš hrdlem jako darebák“ {tristo} a ještě další „lžeš hrdlem jako darebák, kterým jsi“. Jedno tedy vychází z druhého a jedno se od druhého liší. Vezměme případ, že by někdo řekl „lžeš hrdlem jako darebák“: tím se nemíní, že je darebák, nýbrž že tentokrát zalhal, jak to dělá darebák, a [obviněný] nemá bojovat ve sporu {querela} kvůli tomu, že byl nazván darebákem. Když se však řekne „lžeš hrdlem jako darebák, kterým jsi“, je spor, o který se bojuje, v tom, že byl nazván darebákem, protože se říká „kterým jsi“.
+- typ: nadpis
+  uroven: 2
+  de: DE VNO ALTRO HONESTISSIMO modo rebeccare, ouero replicare senza tacere. Cap. VI.
+  cs: O jiném, velmi slušném způsobu, jak odporovat čili odpovědět a nemlčet. Kapitola VI.
+- typ: odstavec
+  de: |-
+    SEranno doi per contendere un caso, & un dice persuadendo una cosa, & laltro non e de tal parere, & dicendo salua sia la gratia uostra non se intende rebeccarli per darli taccia iniuriosa, ma uno honestissimo replicare ala parola sola, non ala prospectiua, & suo honore perche la salua protestandose como e ditto salua sia la gratia uostra, si che concludo secondo me non e querela combattente come ho uisto pigliarse per ponto da alchun brauazo.
+  cs: |-
+    Budou-li se dva přít o nějakou věc a jeden bude něco přesvědčivě tvrdit a druhý nebude téhož mínění a řekne „s vaším dovolením“,[^2] nemíní se tím mu odporovat proto, aby ho urážlivě nařkl. Je to jen velmi slušná odpověď na samotné slovo, ne na jeho osobu a čest, protože ji šetří tím, že se ohradí, jak bylo řečeno, „s vaším dovolením“. Proto podle svého soudu uzavírám, že to není spor k souboji {querela combattente}, ačkoli jsem viděl, že to někteří chvastouni brali za věc cti.
+- typ: nadpis
+  uroven: 2
+  de: DEL CONTENDERE DICENDO de sostentare alchuna cosa si le desfida o uer no. Capi. VII.
+  cs: |-
+    O sporu, kdy někdo prohlásí, že bude něco hájit – zda je to výzva k souboji, nebo ne. Kapitola VII.
+poznamky:
+- n: 1
+  text: |-
+    „Mentire per la gola“ (lhát hrdlem, angl. „to lie in one’s throat“) – ustálená a nejtěžší formule obvinění ze lži (mentita), na kterou musel urážený podle rytířských pravidel odpovědět výzvou k souboji. Tisk píše jednou „golla“, jinak „gola“.
+- n: 2
+  text: |-
+    „Salua sia la gratia uostra“ – doslova „budiž zachována vaše přízeň“, zdvořilá formule nesouhlasu (s prominutím, s vaším dovolením).

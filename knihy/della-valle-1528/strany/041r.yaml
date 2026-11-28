@@ -2,6 +2,38 @@ id: 041r
 list: '41'
 strana: recto
 sken: 101
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    septe, ad septe, poi smembra la prima parte, et ponila ad modo de un, a, cioe cossi, A, & septe da piedi, et septe altre file pur da piedi, & sara como qui alincontro appare, & sara da doi canti uinticinque, & da uno uintiotto.
+  cs: |-
+    sedmi a po sedmi. Pak odděl {smembra} první část a postav ji do tvaru písmene a, totiž takto: A, a sedm [řad] dole u paty a dalších sedm řad {file} rovněž u paty. Bude to vypadat, jak je vidět tady naproti;[^1] na dvou stranách bude dvacet pět [řad] a na jedné dvacet osm.
+- typ: odstavec
+  de: o.5.5.20.15.5.5.5. Picche.350.
+  cs: o. 5. 5. 20. 15. 5. 5. 5. Pik {Picche} 350.[^2]
+- typ: obrazek
+  soubor: drevorez-101.jpg
+  popis: |-
+    Obrazec bataillonu o 350 pikách v trojúhelníku s křídly (kapitola XX): uprostřed velký trojúhelník pikenýrů (písmena d) hrotem nahoru pod nápisem FRONTE (čelo); uvnitř trojúhelníkový blok písmen P (zřejmě lance spezzate) s praporem B, pod ním oblouk krátkých řad dospod. Po obou stranách odstává šikmé křídlo (rameno) o několika řadách, na vnitřní straně s nápisem FRONTE, na vnějším dolním konci s nápisem SCHINO (týl); pod celým šikem je nápis SCHINO.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE de Picche.350 in triangolo. Cap.XX.
+  cs: Jak udělat bataillon o 350 pikách v trojúhelníku. Kapitola XX.
+- typ: odstavec
+  de: |-
+    PEr fare el ditto battaglione in triangolo de picche trecento e cinquanta allato, se debbe mettere in ordinanza ad cinque, & partire ad uinti
+  cs: |-
+    Chceš-li udělat tento bataillon {battaglione} v trojúhelníku {triangolo} o třech stech padesáti pikách {picche} s křídly,[^3] je třeba postavit muže do šiku {ordinanza} po pěti a rozdělit je po dvaceti [řadách]
+poznamky:
+- n: 1
+  text: |-
+    Obrazec ke kapitole XIX je na protější straně [[040v|40 v]]. Počet: 25 + 18 + 7 + 7 = 57 řad po 7 mužích = 399, tedy zhruba 400.
+- n: 2
+  text: |-
+    Šik po 5, druhá „5“ = p. (partire), dělení 20, 15, 5, 5 řad (poslední 5 text nemá); k zápisu viz poznámku na [[040r|listu 40 r]]. Řady 20 + 15 + 5 + 5 = 45 po 5 mužích dávají 225 mužů, dalších 120 tvoří dvě křídla ([[041v|list 41 v]]), celkem 345.
+- n: 3
+  text: |-
+    „Allato“ chápeme jako „alato“ (okřídlený), protože obrazec má na rozdíl od předchozích dvě křídla a text na [[041v|listu 41 v]] dělá z posledních 120 mužů „doi braza“ (dvě ramena). Lze číst i „a lato“ (po straně).

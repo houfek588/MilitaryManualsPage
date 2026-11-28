@@ -2,6 +2,28 @@ id: 067r
 list: '67'
 strana: recto
 sken: 153
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    matre sia poncella. Siche el bon triumpho canta & exclama gente di ferro, & de ualore armata, & chi ha poco luno & manco laltro per contrario e reprobato, el reprobato non puo prouare, & non conuiene che de militia splenda, ma al consueto, & queto uiuere se done.
+  cs: |-
+    matka byla pannou. Proto dobrý Triumf[^1] zpívá a volá: „lid železem a udatností ozbrojený“; a kdo má málo jednoho a ještě méně druhého, je naopak zavržen. Zavržený nemůže [nic] dokazovat [zbraní] a nesluší se, aby se skvěl ve vojenství {militia}; ať se raději oddá obvyklému a tichému životu.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE VNO CHE NEL COMBATTERE se arrende per presone per instrumento, & in poco de tempo lo uincitore uiene ad morte. El suo primo genito recerca lo presone al suo dominio, como aspettaua al padre, Sel presone e tenuto, si ouer no. Cap. XXVIII.
+  cs: |-
+    O tom, kdo se v boji vzdá jako zajatec {presone} listinou {instrumento}, a vítěz po krátké době zemře. Jeho prvorozený syn žádá zajatce pod svou moc, jak náležel otci – zda je zajatec zavázán, či nikoli. Kapitola XXVIII.
+- typ: odstavec
+  de: |-
+    MOuesi el dubio dal presone & dice che lui combattete col padre & non hebbe con altro da contendere insul campo, & non adaltri se arrese, & non adaltri dice lo instrumento della uittoria che quando fosse stato presone de altro che da quello che ha uinto & de doi primi sarebbe uenuto a morte che obligarse ad doi. Se responde per lo figliolo primo genito del uincitore, & dice che allui conuiene hereditare tutti li beni del padre si lacquistato come lo acquistare che li conuenesse ad altro stato, & se ue fosse debiti allui conueria pagarli, come riscodere, & si el danno del padre ue participa, el figliolo, & el padre de lhonore del figliolo. Adoncha se tra lor doi ue e commune luno et laltro et se al figliolo e licito hereditare el tutto, Adoncha piu quello che e acquistato con piu pericolo & senza usura.
+  cs: |-
+    Pochybnost vznáší zajatec a říká, že bojoval s otcem a s nikým jiným neměl na kolbišti co činit, nikomu jinému se nevzdal a listina o vítězství nezní na nikoho jiného; a kdyby se měl stát zajatcem někoho jiného než toho, kdo ho přemohl, a tedy dvou, byl by raději zemřel, než by se zavázal dvěma[^2]. Za prvorozeného syna vítězova se odpovídá, že jemu náleží zdědit všechen otcův majetek, jak to, co bylo získáno, tak to, co by mu ještě připadlo z jiného stavu; a kdyby byly dluhy, musel by je platit, stejně jako vymáhat [pohledávky]. A má-li syn podíl na otcově škodě, má otec podíl i na synově cti. Je-li tedy mezi nimi dvěma společné jedno i druhé a smí-li syn zdědit všechno, tím spíše to, co bylo získáno s větším nebezpečím a bez lichvy.
+poznamky:
+- n: 1
+  text: 'El bon triumpho – Petrarkovy Triumfy (Trionfi); verš „gente di ferro e di valore armata“ je doslovně z Triumfu slávy (Triumphus Fame I, v. 28), kde jde o průvod slavných římských vojevůdců.'
+- n: 2
+  text: '„& de doi primi sarebbe uenuto a morte che obligarse ad doi“ – patrně „de doi, prima sarebbe uenuto a morte …“ (raději by zemřel, než by se zavázal dvěma pánům); překlad podle tohoto smyslu.'

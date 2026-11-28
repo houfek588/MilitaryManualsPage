@@ -2,6 +2,115 @@ id: u003v
 list: '[3] v'
 strana: verso
 sken: 10
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: seznam
+  de:
+  - |-
+    A far un battaglion de picche. 400. in triangolo. c. 40
+  - |-
+    A far un battaglion de picche. 350. in triangolo con doi ale. car. 41.
+  - |-
+    A far un battaglion de picche. 300. in forfice. c. 42.
+  - |-
+    A far un battaglion de picche. 400. in lunetta. c. 42.
+  - |-
+    A far un battaglion de picche. 200. in quadrang. c. 43.
+  - |-
+    A far un battaglion de picche. 300. in quadrang. c. 43.
+  - |-
+    A far un battaglion de picche. 400. in quadrang. c. 44.
+  - |-
+    A far un battaglion de picche. 500. in quadrang. c. 44.
+  - |-
+    A far un battaglion de picche. 600. in quadran. c. 44.
+  - |-
+    A far un battaglion de picche. 700. in quadran c. 44.
+  - |-
+    A far un battaglion de picche. 800. in quadran. c. 44.
+  - |-
+    A far un battaglion de picche. 900. in quadran. c. 45.
+  - |-
+    A far un baltaglione de picche. 1000. in quadrangolo. car. 45.
+  - |-
+    A far piu battaglioni de uno exercito, car. 46.
+  - |-
+    A far brazzi alli battaglioni. car. 46.
+  - |-
+    A dar lordine ad fantaria. car. 46.
+  - |-
+    A far una centura per militi per passar fiumara. car. 47.
+  - |-
+    A far un pappafico per andar sotto acqua car. 47.
+  - |-
+    A far un battaglion de pochi contra li piu. car. 48.
+  - |-
+    A far un battaglione sbarrato. car. 49.
+  - |-
+    A far doi battaglioni luno contra laltro uno in forfice & laltro in quadrangolo. car. 49.
+  - |-
+    Ordine de numerare ogni battaglione in pocho numero. car. 50.
+  - |-
+    A far doi battaglioni luno contra laltro uno in quadrangolo & laltro in triangolo. car. 51.
+  - |-
+    A far doi battaglioni in quadrangolo luno contra laltro. car. 52.
+  cs:
+  - |-
+    Jak udělat bataillon {battaglion} o 400 pikách {picche} do trojúhelníku {triangolo}. – [[040v|list 40]]
+  - |-
+    Jak udělat bataillon o 350 pikách do trojúhelníku se dvěma křídly {ale}. – [[041r|list 41]]
+  - |-
+    Jak udělat bataillon o 300 pikách do nůžek {forfice}. – [[042r|list 42]]
+  - |-
+    Jak udělat bataillon o 400 pikách do půlměsíce {lunetta}. – [[042v|list 42]]
+  - |-
+    Jak udělat bataillon o 200 pikách do čtyřúhelníku. – [[043r|list 43]]
+  - |-
+    Jak udělat bataillon o 300 pikách do čtyřúhelníku. – [[043r|list 43]]
+  - |-
+    Jak udělat bataillon o 400 pikách do čtyřúhelníku. – [[044r|list 44]]
+  - |-
+    Jak udělat bataillon o 500 pikách do čtyřúhelníku. – [[044r|list 44]]
+  - |-
+    Jak udělat bataillon o 600 pikách do čtyřúhelníku. – [[044r|list 44]]
+  - |-
+    Jak udělat bataillon o 700 pikách do čtyřúhelníku. – [[044r|list 44]]
+  - |-
+    Jak udělat bataillon o 800 pikách do čtyřúhelníku. – [[044r|list 44]]
+  - |-
+    Jak udělat bataillon o 900 pikách do čtyřúhelníku. – [[045r|list 45]]
+  - |-
+    Jak udělat bataillon o 1000 pikách do čtyřúhelníku {quadrangolo}.[^1] – [[045r|list 45]]
+  - |-
+    Jak z jednoho vojska {exercito} udělat více bataillonů. – [[046r|list 46]]
+  - |-
+    Jak bataillonům udělat ramena {brazzi}. – [[046r|list 46]]
+  - |-
+    Jak dát pěchotě {fantaria} řád. – [[046r|list 46]]
+  - |-
+    Jak udělat pás {centura}, s nímž vojáci {militi} přejdou řeku. – [[046v|list 47]]
+  - |-
+    Jak udělat kuklu {pappafico} k chůzi pod vodou.[^2] – [[047r|list 47]]
+  - |-
+    Jak udělat bataillon z mála [mužů] proti přesile. – [[048r|list 48]]
+  - |-
+    Jak udělat zahrazený bataillon {sbarrato}. – [[049r|list 49]]
+  - |-
+    Jak postavit dva bataillony proti sobě, jeden do nůžek a druhý do čtyřúhelníku. – [[049v|list 49]]
+  - |-
+    Způsob, jak zapsat každý bataillon několika málo čísly.[^3] – [[050r|list 50]]
+  - |-
+    Jak postavit dva bataillony proti sobě, jeden do čtyřúhelníku a druhý do trojúhelníku. – [[051r|list 51]]
+  - |-
+    Jak postavit dva bataillony do čtyřúhelníku proti sobě. – [[052r|list 52]]
+poznamky:
+- n: 1
+  text: |-
+    „baltaglione“ – tisková chyba za „battaglione“, ponechána.
+- n: 2
+  text: |-
+    „Pappafico“ – kukla zakrývající hlavu a obličej; zde kožená potápěčská kukla se železnými obručemi, korkem a trubicí ke vzduchu (kap. XXXVII).
+- n: 3
+  text: |-
+    Kapitola XLI na listu 50 r vykládá číselnou šifru, jíž se celý šik zapíše do krátké řady čísel nad obrazcem.

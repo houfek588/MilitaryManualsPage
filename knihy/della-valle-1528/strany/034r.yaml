@@ -2,6 +2,27 @@ id: 034r
 list: '34'
 strana: recto
 sken: 87
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: B.29. 2 Picche.400. o.7.5.21.14.21.per.21.21.s.80.bisogna.8. picche.
+  cs: B.29. 2. 400 pikenýrů {Picche}. o.7.5.21.14.21.per.21.21.s.80. Je třeba 8 pikenýrů.[^1]
+- typ: obrazek
+  soubor: drevorez-87.jpg
+  popis: |-
+    Bataillon čtyř set pikenýrů (ke kapitole X), sázený z písmen do čtverce asi 21 řad po 21 mužích. Nahoře nápis „Fronte, e fianco“ – čelo a bok, vlevo „Fianco e fronte al bisogno“ – bok a čelo podle potřeby, vpravo a dole „Fianco e fronte“ – bok a čelo. První a poslední řadu tvoří střídavě „d“ a „o“ (pikenýři a ručničáři), po obou bocích jsou svislé řady ručničářů sázené jako „o“ připojená k „d“. Uvnitř řady písmen „d“ (pikenýři), uprostřed blok sedmi řad po sedmi „p“ (lance spezzate) s praporem „B“ ve středu.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIOne de .400. picche. Cap. X.
+  cs: Jak udělat bataillon o 400 pikách. Kapitola X.
+- typ: odstavec
+  de: |-
+    PEr fare el presente battaglione de .400. picche bisogna .80. scoppetteri, & bisogna mettere a lordinanza ad sette, & poi parti ad uintiuno, ad quattordece, a uintiuno mancano .8. picche lequale le metterai ne la piaza fatto che sera el battaglione, & farai cosi depoi che ne harai fatto tre parte como te e ditto
+  cs: |-
+    K tomuto bataillonu {battaglione} o 400 pikách {picche} je třeba 80 ručničářů {scoppetteri}. [Pikenýry] je třeba seřadit do šiku {ordinanza} po sedmi a potom rozdělit na dvacet jedna, čtrnáct a dvacet jedna [řad]; chybí[^2] 8 pikenýrů, které postavíš na prostranství {piaza}, až bude bataillon hotov. A udělej to takto: když z něj uděláš tři části, jak ti bylo řečeno
+poznamky:
+- n: 1
+  text: 'Šifra (srov. [[050r|list 50 r]]): B.29 = prapor ve 29. řadě; o.7 = šik po sedmi; rozdělení na 21, 14 a 21 řad; „per 21.21“ = po bocích 21 a 21 mužů; s.80 = 80 ručničářů (scoppetteri); „bisogna 8 picche“ – osm pikenýrů navíc pro prostranství. Druhá „5“ stojí na místě písmene p. (partire – rozdělit). Tabulka na listu 50 r uvádí pro 400 pikenýrů jinak strany 20 a 21 a přebytek a.4.'
+- n: 2
+  text: '„Mancano“ (chybí) – míněno: chybí v řadách šiku. 7 × (21 + 14 + 21) = 392, ze 400 tedy zbývá 8 pikenýrů, kteří se postaví na prostranství; šifra má „bisogna 8“ (je třeba [umístit] 8).'

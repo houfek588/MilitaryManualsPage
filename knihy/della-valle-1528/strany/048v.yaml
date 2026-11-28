@@ -2,6 +2,13 @@ id: 048v
 list: '48'
 strana: verso
 sken: 116
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: Picche.350.
+  cs: Pik {Picche} 350.
+- typ: obrazek
+  soubor: drevorez-116.jpg
+  popis: |-
+    Obrazec „zahrazeného“ bataillonu (battaglione sbarrato) o 350 pikách ke kapitole XXXIX na protější straně: šik ve tvaru obdélníkového rámu s prázdným středem. Nahoře příčná lišta o čtyřech řadách (střídavá řada d a o, pod ní tři řady písmen d, krajní muži dvou spodních řad jsou otočeni do stran), dole obdobná lišta o čtyřech řadách písmen P a p, zakončená střídavou řadou p a o. Lišty spojují dva svislé boky, každý o čtyřech sloupcích po šestnácti mužích (vlevo písmena p, vpravo d; vnější sloupec střídavě p a o, resp. d a o). Uprostřed volného prostoru stojí prapor B mezi čtyřmi řadami po čtyřech písmenech P (zřejmě lance spezzate), dvěma nad ním a dvěma pod ním. Nápisy FRONTE (čelo) nad horní lištou, pod dolní lištou a podél obou boků; nad obrazcem „Picche.350.“ Pravý okraj obrazce je na skenu mírně useknut.

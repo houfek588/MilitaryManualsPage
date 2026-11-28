@@ -2,6 +2,31 @@ id: 004r
 list: '4'
 strana: recto
 sken: 27
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    et col troncone darli in testa notificando che la insegna e lesa per soe male opere, & che lo condanna al morire, & cossi tirandose indrieto fuor di piaza ognun debbe callare le picche contra di quello che hauesse abandonato la sua factione de fare la guardia, o scolta, o uero che hauesse alcuno intendimento con gli inimici como con fuoco, fumo, litere, spie, o altri modi nociui allhonor commune, & cossi farli fare la fine sua de passarlo per le picche.
+  cs: |-
+    a koncem žerdi {troncone} ho udeřit do hlavy na znamení, že prapor {insegna} byl jeho zlými činy uražen a že ho odsuzuje k smrti. Když pak [kapitán] ustoupí z prostranství, každý má sklopit píku {picche} proti tomu, kdo opustil svou službu na stráži {guardia} nebo hlídce {scolta} anebo kdo měl nějaké dorozumění s nepřáteli, například ohněm, kouřem, dopisy, vyzvědači či jinými způsoby, které škodí společné cti; a tak ho nechat skončit tím, že projde píkami.
+- typ: nadpis
+  uroven: 2
+  de: DE PERTINENTIE AD CAPItani che aspettano Campo, Capi. IIII.
+  cs: O tom, co přísluší kapitánům, kteří očekávají obléhání.[^1] Kapitola IIII.
+- typ: odstavec
+  de: |-
+    DE pertinentie necessarie ad Capitani che aspettano Campo in alcuna Cita, Castelli piccoli, o grandi, prima e necessario che abia ad cazziare alcuna casata sospetta che attrahe alla parte contraria, & ancho alcune persone dissutile come sono donne uechie, & huomini uechi decrepiti & che non ponno, ne ualeno poco a fare guardie, ne mancho exercitare ad bastioni, & repari, & prouedere di uittuaglia necessaria, speciari, medici, ceroici, como phisici, appresso monitione de artellarie grosse como piccole cioe carboni de salici, carboni de getti de auellane ouer nocelle salmitro, sulpho, piombo, fascine per ripari, & legname, legne per far e fuocho per cucinare el pane, & altre cose necessarie, maistri de fucine siue ferari de piu sorte, maistri de legnami per fare caualleti, molini, & inchiauare bastioni, repari secondo li sera preposto per gli inzigneri & altri huomini capaci da tal mistiero.
+  cs: |-
+    K nezbytným povinnostem kapitánů {Capitani}, kteří v nějakém městě {Cita} nebo v malých či velkých hradech {Castelli} očekávají obléhání, patří: především musí vyhnat každou podezřelou rodinu, která tíhne k protivné straně, a také některé neužitečné osoby, jako jsou staré ženy a staří zchátralí muži, kteří nemohou držet stráže {guardie} nebo se k nim málo hodí, ani nemohou pracovat na baštách {bastioni} a záštitách {repari}. Dále se má zásobit nezbytnými potravinami, lékárníky, lékaři, ranhojiči {ceroici} i fyziky {phisici},[^2] a také municí do velkých i malých děl {artellarie}, totiž vrbovým uhlím, uhlím z lískových výhonků,[^3] ledkem {salmitro}, sírou {sulpho}, olovem, fašinami {fascine} na záštity a dřevem – dříví na oheň k pečení chleba a k jiným potřebným věcem –, kováři {maistri de fucine} čili zámečníky {ferari} rozličného druhu a tesaři {maistri de legnami}, aby dělali kozy {caualleti} a mlýny a kotvami sepínali bašty a záštity, jak jim uloží inženýři {inzigneri} a jiní muži, kteří se v tom řemesle vyznají.
+poznamky:
+- n: 1
+  text: |-
+    „Aspettare campo“ – doslova „očekávat [nepřátelské] vojsko“, tj. že se před město položí nepřátelský tábor k obléhání.
+- n: 2
+  text: |-
+    „Ceroici“ (cerusici, chirurghi) – ranhojiči, chirurgové; „phisici“ – učení lékaři vnitřních nemocí.
+- n: 3
+  text: |-
+    „Getti de auellane ouer nocelle“ – výhonky lísky (avellana i nocella znamenají lískový oříšek). Lehké uhlí z vrbového a lískového dřeva se pokládalo za nejlepší k výrobě střelného prachu.

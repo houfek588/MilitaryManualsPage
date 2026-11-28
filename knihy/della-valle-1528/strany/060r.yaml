@@ -2,6 +2,30 @@ id: 060r
 list: '60'
 strana: recto
 sken: 139
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    tuo fauore, & utile & piu bene se adoperano per lo contrario, & la causa procede da te stesso.
+  cs: |-
+    tvůj prospěch a užitek, a přece se mnohem častěji užívají k opaku – a příčina pochází od tebe samého.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE DOI COMBATTENTI REdutti insul campo, et quello che desfidato appresentara arme de corpo, alo desfidatore senza hauerne primo dato notitia sel puo fare si, ouero non. Cap. XIIII.
+  cs: |-
+    O dvou bojovnících, kteří přišli na kolbiště, a vyzvaný předloží vyzyvateli tělesnou zbroj, aniž mu o tom předem dal zprávu – zda to smí udělat, nebo ne. Kapitola XIIII.
+- typ: odstavec
+  de: |-
+    MOuesi el dubio che essendo per combattere insul campo che lo desfidato appresenta le arme de offendere como li conuiene, & con le arme de defendere como son corsaletti, coraze, corazine, ouero celatoni, elmetti, ouero meza testa, braccidletti, ouer guanti, como ancho gionichietti, aschinieri, con dire che chi e desfidato puo dare le arme che gli piace si de defendere, como de offendere, et como se costuma, & obserua, Se responde per lo desfidatore che non sta bene che primo non habia inteso per litera che se habia ad preparare col tempo de arme de corpo, atteso che le arme non sono equale, ne ancho li corpi humani, o teste, como gambe, & che le arme per metterse ad partito de pigliare per lo actore, el reo se lhauera fatto fare per lo corpo suo trambe dui per non sapere quelle che gli restasse, & questo presupponendo che sia de pocha statura, & laltro grande, & grosso de membra, non conuiene che con tanta superchiaria leua la uita, & lhonore per questo quando per
+  cs: |-
+    Vzniká pochybnost: když se má bojovat na kolbišti, vyzvaný {desfidato} předloží zbraně útočné, jak se sluší, a k tomu zbroj obrannou, jako jsou korzety {corsaletti}, kyrysy {coraze}, brigantiny {corazine}[^1], nebo šalíře {celatoni}, přilby {elmetti} či polohelmy {meza testa}, nátepníky {braccidletti} nebo [kovové] rukavice {guanti} a také nákolenky {gionichietti} a holenice {aschinieri}, a říká, že kdo je vyzván, smí dát zbraně, jaké se mu líbí, obranné i útočné, jak je obyčejem a jak se zachovává. Za vyzyvatele {desfidatore} se odpovídá, že není správné, aby nejprve listem nedostal zprávu, že se má včas připravit na tělesnou zbroj, protože zbroje nejsou stejné, a stejně tak lidská těla, ať hlavy, či nohy; a že zbroj, kterou si má vyzyvatel {actore} vybrat, si vyzvaný {reo} možná dal udělat obě na své tělo, protože nevěděl, která mu zbude,[^2]; a předpokládá-li se, že jeden je malé postavy a druhý velký a statných údů, nesluší se, aby mu takovým zneužitím převahy {superchiaria} vzal život a čest. Proto když
+poznamky:
+- n: 1
+  text: |-
+    Výčet dobové zbroje k souboji: corsaletto – lehčí pěší zbroj (korzet), coraza – kyrys, corazzina – kyrys z plátů pod látkou (brigantina), celatone – velký šalíř, elmetto – uzavřená přilba, mezza testa – polohelma (lebka), bracciali – nátepníky a ramenní plechy, ginocchietti – nákolenky, schinieri – holenice. Tisk má „braccidletti“ (vadná litera d místo a, tj. braccialetti), ověřeno ve zvětšeném skenu.
+- n: 2
+  text: |-
+    Vyzvaný předložil dvě sady zbroje a vyzyvatel si měl jednu vybrat; jsou-li obě zhotoveny na míru vyzvanému, vyzyvateli žádná nepadne. Proti takovému zneužití převahy (superchiaria) se dobová pravidla bránila požadavkem, aby vyzvaný zbraně a zbroj oznámil předem.

@@ -2,6 +2,45 @@ id: 023r
 list: '23'
 strana: recto
 sken: 65
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    notte accostarse ale muraglie, & impirli di terreno, & piantare le artellarie como qui alincontro appare.
+  cs: |-
+    noci přiblížit k hradbám {muraglie}, naplnit je zeminou a postavit děla {artellarie}, jak je vidět zde naproti[^1].
+- typ: nadpis
+  uroven: 2
+  de: MODO DE RECORDO DE dare battaglia ad muraglie secondo lordine ditto. Capitolo.V.
+  cs: Připomenutí, jak podle řečeného pořádku útočit na hradby. Kapitola V.
+- typ: odstavec
+  de: |-
+    DA notare e che quando e fatta la battaria conuiene appresentarui ale muraglia con alcuni modelli como sonno scale a dargani, o in altro modo secondo accade, & farli piantare ale muraglie, & subito se ha da spengere le uostre bandere inanti con le soe fulminante lanze spezate quale ne sonno pochi che desaldano, le quale sonno dedicate ad andare onde ua la soa insegna, & perho sonno de tanta stima per la gran fattione che fanno ala guerra, & perho anchora hanno gran soldo perche sonno huomini chel meritano, & sappie chel nome loro de lanze spezate denota che sonno stati piu uolte ale mura & proua & parangone, & a ogni martello, & copellati per dare noto de lor ualore.
+  cs: |-
+    Je třeba poznamenat, že když je provedeno ostřelování {battaria}, je třeba přistoupit k hradbám s nějakými stroji {modelli}, jako jsou žebříky {scale} s rumpály[^2], nebo jinak, podle toho, jak se to hodí, a dát je postavit k hradbám. A hned je třeba hnát vpřed vaše prapory {bandere} s jejich bleskurychlými lance spezzate {lanze spezate}[^3], z nichž jen málokdo povolí; ti jsou určeni k tomu, aby šli tam, kam jde jejich prapor. Proto jsou v takové vážnosti pro velké služby, které ve válce konají, a proto také dostávají vysoký žold {soldo}, neboť jsou to muži, kteří si ho zaslouží. A věz, že jejich jméno „lance spezzate“ značí, že už mnohokrát byli na hradbách a prošli zkouškou i prubířským kamenem, každým kladivem i tavicím kelímkem[^4], aby dali najevo svou statečnost.
+- typ: nadpis
+  uroven: 2
+  de: EXCVSATIONE DE LO compositore. Capitolo.VI.
+  cs: Omluva skladatele. Kapitola VI.
+- typ: odstavec
+  de: |-
+    NOn dico questo per me Baptista se in principio per longo tempo io uide tal nome illustrato ali seruitii de quello unico della natura spento sublimamente lo illustro guida & lanterna de militi Francesco Maria urbis prefetto, Duca de Vrbino che
+  cs: |-
+    Neříkám to kvůli sobě, Baptistovi, ačkoli jsem zpočátku po dlouhou dobu viděl toto jméno proslaveno[^5] ve službách onoho jedinečného, kterého příroda vznešeně vyzdvihla[^6] – slavného vůdce a světla vojáků {militi}, Francesca Marii, prefekta Města[^7], vévody z Urbina,
+poznamky:
+- n: 1
+  text: 'Vyobrazení košů s děly je na protější straně [[022v|22 v]].'
+- n: 2
+  text: '„scale a dargani“ = scale ad argani, žebříky vztyčované a přisouvané pomocí rumpálů (viz kapitolu VII a vyobrazení na [[024r|24 r]]).'
+- n: 3
+  text: 'Della Valle je líčí jako vybrané muže, kteří jdou v útoku v čele s praporem a berou zvýšený žold; sám k nim patrně patřil (viz kapitolu VI).'
+- n: 4
+  text: 'Obrazy z prubířství drahých kovů: „proua & parangone“ (zkouška a prubířský kámen), „a ogni martello“ (snese každé kladivo, tj. kování) a „copellati“ (přezkoušeni kupelací v prubířském kelímku) – muži osvědčení jako ryzí zlato.'
+- n: 5
+  text: 'Tj. jméno lance spezzate. Autor se omlouvá, že předchozí chválou nemíní sám sebe – patrně sám sloužil jako lancia spezzata u vévody z Urbina.'
+- n: 6
+  text: 'V tisku „unico della natura spẽto (spento) sublimamente“ – smysl nejistý; patrně „spento“ = spinto (vypuzený, vyzdvižený), tj. „jedinečný výtvor přírody, vznešeně povýšený“. Francesco Maria I. della Rovere byl roku 1528 ještě živ (zemř. 1538), význam „zesnulý“ tedy nepřichází v úvahu.'
+- n: 7
+  text: '„urbis prefetto“ – praefectus Urbis, prefekt Říma; čestný úřad, který Francesco Maria della Rovere zdědil po otci Giovannim della Rovere.'

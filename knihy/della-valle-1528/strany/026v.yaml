@@ -2,6 +2,22 @@ id: 026v
 list: '26'
 strana: verso
 sken: 72
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: obrazek
+  soubor: drevorez-72.jpg
+  popis: |-
+    Beranidlo pod střechou (ke kapitole XI): dřevěný rám na plných kolech s vysokou špičatou sedlovou střechou krytou prkny, aby po ní sklouzávaly kameny házené z hradeb. Uvnitř visí na řetězu z příčného trámu pod střechou dlouhý vodorovný trám, na obou koncích opatřený železnými hroty (vpravo přesahuje daleko před vůz); muži jej uvnitř rozhoupávají dozadu a vpřed a bijí jím do zdi.
+- typ: nadpis
+  uroven: 2
+  de: MODELLO PER ROMPERE una muraglia. Cap.XI.
+  cs: Stroj na prolomení hradby. Kapitola XI.
+- typ: odstavec
+  de: |-
+    QVesto e uno modello de andare alle muraglie, & scassare, & sbusare muri, & porte false, o altri luochi necessarii, & nota che questo modello se fa solo per lo alto cosi aguzo per gli sassi, & quello de mezo e uno trauo con una catena como se uede, & ne la ponta del ditto trauo ue uno spontone de acciaro ben grosso, & ben temperato, & donde che bisogna tirare indrieto, & spengere poi innanzi, &
+  cs: |-
+    Toto je stroj {modello}, s nímž se jde k hradbám {muraglie} a jímž se rozbíjejí a provrtávají zdi, tajné branky {porte false}[^1] nebo jiná potřebná místa. Pamatuj, že tento stroj se dělá nahoře tak špičatý jen kvůli kamenům; to, co je uprostřed, je trám na řetězu, jak je vidět, a na špici tohoto trámu je velmi silný a dobře zakalený ocelový hrot {spontone}. Ten je třeba táhnout zpět a potom hnát vpřed, a
+poznamky:
+- n: 1
+  text: '„porte false“ – tajné či zazděné branky (výpadové fortny) v hradbě.'

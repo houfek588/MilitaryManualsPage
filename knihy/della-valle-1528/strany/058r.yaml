@@ -2,6 +2,33 @@ id: 058r
 list: '58'
 strana: recto
 sken: 135
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    dire uoler fare buono gli conuiene auantagiare, ma uolere aguagliare, & equare la cosa con piu ragione se puo dire chel reo habia fatto col torto, quanto ad quello che hauuto ragione, hauerne lo meglio e fatto con piu gran proua.
+  cs: |-
+    když říká, že tomu chce dostát, musí mít navrch. Chceme-li však věc vyrovnat a spravedlivě uvážit, lze s větším právem říci, že vyzvaný {reo} jednal v neprávu, kdežto ten, kdo měl pravdu, vyšel z toho lépe a podal větší důkaz.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE DOI CHE SPARTITI SERANO se li retrouera una ferita per uno, & uno hauera leuato in testa, & laltro alla mano qual sera el perditore. Cap. XI.
+  cs: |-
+    O dvou, kteří budou rozděleni a každý z nich bude mít jednu ránu – jeden ji dostal do hlavy a druhý do ruky –, kdo z nich bude poraženým. Kapitola XI.
+- typ: odstavec
+  de: |-
+    MOuesi el dubio dalo actore quale hauera stropiato la mano de alchuno organo al reo, & dice che atteso che la mano per esser si nobil membro seruente, utile, & necessario ad tutte cose ala persona in qual se uoglia acto & maxime adoperando le arme, per lo quale se induce fama non simile, & nome eterno che hara ben assignato, se replica chel buon milite conuien essere uillan de corpo & gentil de animo, che pocho importa hauendo alchun sfriso insu le guangie, che delhuomo se prende quel che fa, & non quel che le, & che piu, & piu uolte adoperare se puo, piu se responde per il reo, chel buon Romano piglio Asdrubale la testa per lo piu nobile, & honorato membro. Et piu che tra magnanimi con lor lanze, lo assignare se tiene nele parte piu eminente, piu honorate botte. Anchora dalli amaestratori de scrimire quali ancora loro se pono intitulare strenui fanno la botta dela testa tre, er piu dele uolte quella de la mano non se admette, atteso che la
+  cs: |-
+    Vyzyvatel {actore},[^1] který vyzvanému zmrzačil ruku na některé její části, vznáší pochybnost a říká: protože ruka je tak vznešený úd, sloužící, užitečný a nezbytný člověku ke všem věcem při jakémkoli úkonu, a nejvíce při zacházení se zbraněmi, jimiž se dosahuje nevšední slávy a věčného jména, zasáhl dobře. Dodává se, že dobrý voják {milite} má být sedlák tělem a šlechtic duší, takže málo záleží na tom, má-li nějakou jizvu na tvářích, neboť na člověku se cení, co dělá, a ne, jaký je, a [ruky] lze užít víc a častěji. Dále se za vyzvaného odpovídá, že dobrý Říman vzal Hasdrubalovi hlavu[^2] jako nejvznešenější a nejctěnější úd. A dále, že mezi velkodušnými [rytíři] s jejich kopími se zásahy do nejvyšších částí [těla] pokládají za nejčestnější rány {botte}. Také učitelé šermu, kteří se rovněž mohou nazývat udatnými, počítají ránu do hlavy za tři a ránu do ruky většinou neuznávají,[^3] protože
+poznamky:
+- n: 1
+  text: |-
+    Iniciála M chybí: v tisku je pro ni vynechané místo a na okraji jen malá návodní litera „m“ pro iluminátora; edice doplňuje „MOuesi“. U čísla listu je rukopisné podtržení a přípisek, na pravém okraji inkoustová skvrna; text nepoškozují.
+- n: 2
+  text: |-
+    Hasdrubal Barkas, bratr Hannibalův, padl roku 207 př. Kr. v bitvě u řeky Metauru; konzul Gaius Claudius Nero dal jeho uťatou hlavu hodit do Hannibalova tábora (Livius XXVII,51).
+- n: 3
+  text: |-
+    Doklad bodování ve šermířských školách a zápasech (botte): zásah do hlavy platil trojnásobně, zásah do ruky se často nepočítal. Tisk má „er piu“ místo „et piu“.

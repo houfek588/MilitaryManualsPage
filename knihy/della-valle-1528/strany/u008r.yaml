@@ -2,6 +2,25 @@ id: u008r
 list: '[8] r'
 strana: recto
 sken: 19
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    che lhauera a trare faccia prima la experientia duna in un luoco chiuso & uedera el tempo che la stara a spezarse & li busi che fara in piu luochi, cosi al medesimo modo empirai laltre et saperai la sua natura la grossezza loro quanto una balla de uento piccola o qualche cosa manco.
+  cs: |-
+    kdo je bude vrhat, ať nejprve udělá zkoušku s jednou [koulí] na uzavřeném místě; uvidí, za jak dlouho se roztrhne a jaké díry udělá na různých místech. Stejným způsobem pak naplníš ostatní a poznáš jejich povahu. Velikost mají mít jako malý nafukovací míč {balla de uento}[^1] nebo o něco menší.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE FIASCHI OVERO pignatelle di fuoco artificiato da trazere. Capitolo. III.
+  cs: Jak udělat láhve {FIASCHI} čili hrnce {pignatelle} se zápalným ohněm {fuoco artificiato} k vrhání. Kapitola III.
+- typ: odstavec
+  de: |-
+    ANchora e da notare che essendo congionti doi battaglioni de fanti allincontro uno alaltro habbi questo auiso che la prima & la seconda filara habia ciaschuno in mano una pignatella de terra, o uoi certi fiaschi pur de terra liquali adopera li contadini a tenir lolio dentro, liquali empirai della sotto scritta mistura poluere de bombarda parte doe, peza greca ouero pegola spagna parte una, pegola nauale, ouer pegola de naue parte una pista sotillissimamente ogni cosa insieme in un mortaro, poi habbi trementina ala satisfattione in una caldara & mettila sopra el fuoco & metti dentro alquanto olio de lino, non possendo hauer olio de ginepro, poi incorpora le tue misture con uno legno longo un braccio, & empirai li toi uasi insino al mezo & poi habbi poluere grossa parte una, peza greca ouero pegola spagna parte una, solfaro parte meza, peza nauale ouer pegola de naue parte meza, & de ditta poluere incorporata fornirai de empire li sopraditti uasi poi al boccame li metterai bonamente poluere fina acio
+  cs: |-
+    Dále je třeba si povšimnout, že když se dva bataillony {battaglioni} pěchoty {fanti} střetnou proti sobě, měj tuto radu: první a druhá řada {filara} ať má každý [muž] v ruce hliněný hrnec {pignatella}, anebo, chceš-li, jisté láhve, rovněž hliněné, v nichž venkované uchovávají olej. Ty naplníš níže popsanou směsí {mistura}: dva díly prachu do bombard {poluere de bombarda}, jeden díl řecké {peza greca} čili španělské smoly, jeden díl lodní smoly {pegola nauale} čili smoly z lodí; to vše spolu co nejjemněji roztluč v hmoždíři. Potom měj v kotli terpentýnu {trementina}, kolik je potřeba, postav ho na oheň a přidej do něj trochu lněného oleje, nemůžeš-li mít jalovcový olej. Potom své směsi promíchej dřevem dlouhým jeden loket {braccio} a naplň jimi své nádoby do poloviny. Pak měj jeden díl hrubého prachu, jeden díl řecké čili španělské smoly, půl dílu síry {solfaro} a půl dílu lodní smoly čili smoly z lodí, a tímto smíchaným prachem dokonči plnění zmíněných nádob. Potom jim do ústí {boccame} dej pořádnou dávku jemného prachu, aby
+poznamky:
+- n: 1
+  text: |-
+    „Balla de uento“ – nafukovací míč (z kůže s měchýřem), jaký se užíval ke hře „pallone“.

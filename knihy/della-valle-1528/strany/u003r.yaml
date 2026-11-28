@@ -2,7 +2,7 @@ id: u003r
 list: '[3] r'
 strana: recto
 sken: 9
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: seznam
@@ -19,15 +19,15 @@ bloky:
     Modello de aprire una muraglia, roche, repari con caue & fuoco. car. 29.
   cs:
   - |-
-    Model, jak prolomit hradbu {muraglia} pod krytou boudou {casa}.[^1] – [[027r|list 27]]
+    Stroj {Modello} na prolomení hradby {muraglia} pod krytou boudou {casa}.[^1] – [[027r|list 27]]
   - |-
-    Model mostů {ponti} k přechodu vojska {exercito}. – [[027r|list 27]]
+    Stroj – mosty {ponti} k převádění vojska {exercito}. – [[027v|list 27]]
   - |-
-    Model rozličných mostů, které se vynechávají, protože nejsou k věci. – [[028r|list 28]]
+    Stroj – rozličné mosty, které pomíjím, protože nejsou k věci. – [[028r|list 28]]
   - |-
-    Model, jak čerpat vodu měchem {mantice}. – [[028r|list 28]]
+    Stroj k čerpání vody měchem {mantice}. – [[028v|list 28]]
   - |-
-    Model, jak otevřít hradbu, hrady {roche} a náspy {repari} minami {caue} a ohněm. – [[029r|list 29]]
+    Stroj – jak rozevřít hradbu, hrady {roche} a záštity {repari} minami {caue} a ohněm. – [[029r|list 29]]
 - typ: nadpis
   uroven: 2
   de: 'LIBRO TERZO'
@@ -66,35 +66,32 @@ bloky:
   - |-
     Šik {Ordinanza} pěchoty {fantaria} na pochod o 100, 200 a 300 a o 300 a 200 [mužích]. – [[030r|list 30]]
   - |-
-    Jak udělat bataillon {battaglion} ze 100 pikenýrů {picche}. – [[031r|list 31]]
+    Jak udělat bataillon {battaglion} o 100 pikách {picche}. – [[031r|list 31]]
   - |-
-    Jak udělat bataillon z 200 pikenýrů jako čtyřúhelník {quadrangolo} postavený na hrot {in pizo}. – [[032r|list 32]]
+    Jak udělat bataillon o 200 pikách jako čtyřúhelník {quadrangolo} postavený na hrot {in pizo}. – [[032r|list 32]]
   - |-
-    Jak udělat bataillon z 300 pikenýrů ve způsobu štíra {scorpione}. – [[032r|list 32]]
+    Jak udělat bataillon o 300 pikách ve způsobu štíra {scorpione}. – [[032r|list 32]]
   - |-
-    Jak udělat bataillon z 300 pikenýrů do čtyřúhelníku. – [[033r|list 33]]
+    Jak udělat bataillon o 300 pikách do čtyřúhelníku. – [[033r|list 33]]
   - |-
-    Jak udělat bataillon ze 400 pikenýrů do čtyřúhelníku. – [[034r|list 34]]
+    Jak udělat bataillon o 400 pikách do čtyřúhelníku. – [[034r|list 34]]
   - |-
-    Jak udělat bataillon z 550 pikenýrů do čtyřúhelníku s jedním křídlem {ala}. – [[035r|list 35]]
+    Jak udělat bataillon o 550 pikách do čtyřúhelníku s jedním křídlem {ala}. – [[035r|list 35]]
   - |-
-    Jak udělat bataillon o jakémkoli počtu [mužů] k ochraně velkých vojsk {campi}. – [[036r|list 36]]
+    Jak udělat bataillon o libovolném počtu [mužů] k ochraně velkých vojsk {campi}. – [[036r|list 36]]
   - |-
-    Jak udělat bataillon z 500 pikenýrů do čtyřúhelníku se dvěma křídly. – [[036r|list 36]]
+    Jak udělat bataillon o 500 pikách do čtyřúhelníku se dvěma křídly. – [[036r|list 36]]
   - |-
-    Jak udělat bataillon ze 400 pikenýrů do kříže s jeho děly {artellerie} uprostřed. – [[037r|list 37]]
+    Jak udělat bataillon o 400 pikách do kříže s jeho děly {artellerie} uprostřed. – [[037r|list 37]]
   - |-
-    Jak udělat bataillon z 300 pikenýrů se dvěma lunetami {lunette}.[^2] – [[038r|list 38]]
+    Jak udělat bataillon o 300 pikách se dvěma půlměsíci {lunette}. – [[038r|list 38]]
   - |-
-    Jak udělat bataillon z 300 pikenýrů do tří kruhů. – [[039r|list 39]]
+    Jak udělat bataillon o 300 pikách do tří kruhů. – [[039r|list 39]]
   - |-
-    Jak udělat bataillon ze 100 pikenýrů do trojúhelníku {triangolo}. – [[039r|list 39]]
+    Jak udělat bataillon o 100 pikách do trojúhelníku {triangolo}. – [[039r|list 39]]
   - |-
-    Jak udělat bataillon z 250 pikenýrů do trojúhelníku. – [[040r|list 40]]
+    Jak udělat bataillon o 250 pikách do trojúhelníku. – [[040r|list 40]]
 poznamky:
 - n: 1
   text: |-
     „Casa“ (dům) – krytá pojízdná bouda (lat. testudo, musculus), pod níž se útočníci přibližují k hradbě a podkopávají ji.
-- n: 2
-  text: |-
-    „Lunetta“ (měsíček) – šik nebo jeho křídlo ve tvaru půlměsíce. Tvary „battaglion“, „in quadran.“ (= in quadrangolo) a „in tre cerchi“, „in triangolo“ jsou v tisku zkrácené (battagliõ, q̃drã, ĩ); zkratky jsou rozepsány.

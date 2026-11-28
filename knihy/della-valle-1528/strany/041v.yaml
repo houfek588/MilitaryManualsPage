@@ -2,6 +2,26 @@ id: 041v
 list: '41'
 strana: verso
 sken: 102
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    & ad quindici, et ad cique, & ad cinque, & cento uinti, che restano in doi partite, & fanne doi braza como per auanti appare, E da notare che queste braza non debbeno uscire per drieto, finche non e intrato lo spicolo, & fara gran cose.
+  cs: |-
+    a po patnácti, po pěti a po pěti; sto dvacet [mužů], kteří zbývají, rozděl na dvě části a udělej z nich dvě ramena, jak je vidět výše.[^1] A je třeba dbát, aby tato ramena nevyrazila zezadu dříve, než do [nepřítele] vnikne hrot {spicolo}; pak [bataillon] vykoná velké věci.
+- typ: odstavec
+  de: o.5.20.2.5.5. Picche.300.
+  cs: o. 5. 20. 2. 5. 5. Pik {Picche} 300.[^2]
+- typ: obrazek
+  soubor: drevorez-102.jpg
+  popis: |-
+    Obrazec bataillonu o 300 pikách ve tvaru nůžek (ke kapitole XXI na [[042r|listu 42 r]]): nahoře dvě šikmá ramena rozevřená do písmene V, každé z hustých řad písmen p a d, s nápisy FRONTE (čelo) na čelních stranách i uvnitř rozevření a SCHENA (schiena – týl, záda) na vnější zadní straně. Ve vrcholu V je klínek písmen d. Pod ním obdélníkový blok písmen P s praporem B uprostřed, který ze tří stran obepíná podkova (U) z řad písmen p a P, na vnějším obvodu lemovaná střídavě písmeny P a o; na obou bocích podkovy je nápis FRONTE a pod jejím obloukem rovněž FRONTE. Mezi rameny nahoře je vysázena číselná řada „o.5.20.2.5.5.“ a „Picche.300.“.
+poznamky:
+- n: 1
+  text: |-
+    „Per auanti“ – výše, tj. na obrazci nad nadpisem kapitoly na [[041r|listu 41 r]]. „Cique“ je tisková chyba za „cinque“.
+- n: 2
+  text: |-
+    Číselná řada patří ke kapitole XXI (nůžky, [[042r|list 42 r]]: šik po 5, dělení 20 a 25 řad); „2.5“ je patrně „25“ s nadbytečnou tečkou. K zápisu viz poznámku na [[040r|listu 40 r]].

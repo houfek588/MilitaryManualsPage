@@ -2,6 +2,53 @@ id: 030r
 list: '30'
 strana: recto
 sken: 79
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: Cap. I.
+  cs: Kapitola I.
+- typ: odstavec
+  de: Ordinanza de cento picche senza le lancie spezate e Capi de Squadra e sergenti.
+  cs: Šik {Ordinanza} o sto pikách {picche} bez lance spezzate {lancie spezate}[^1], desátníků {Capi de Squadra} a šikovatelů {sergenti}.
+- typ: odstavec
+  de: Ordinanza per unire a battaglioni.
+  cs: Šik ke spojení do bataillonů {battaglioni}.
+- typ: obrazek
+  soubor: drevorez-79.jpg
+  popis: |-
+    Pochodový šik sta pikenýrů (kapitola I), sázený z písmen do úzkého svislého sloupce po třech mužích v řadě, 40 řad. První a poslední řadu tvoří střídavě „o“ a „d“ („ododod“); jinak sloupec tvoří písmena „d“ (pikenýři), v několika řadách „o“ (ručničáři – podle textu na [[031v|listu 31 v]] znamenají „o“ nebo tečky mezi pikenýry ručnice) a v horní polovině tři řady „p“ s praporem „B“ (bandiera) uprostřed. Tečky vpravo vedle sloupce značí další ručničáře. Vpravo od sloupce nápisy (gotickým písmem): „Ordinanza de cento picche senza le lancie spezate e Capi de Squadra e sergenti“ – šik o sto pikách bez lance spezzate, desátníků a šikovatelů; „Ordinanza per unire a battaglioni“ – šik ke spojení do bataillonů.
+- typ: nadpis
+  uroven: 2
+  de: Ca. II.
+  cs: Kapitola II.
+- typ: odstavec
+  de: Ordinanza de. 200. Picche o.5.5. 14.10. 14.per. 14.15.
+  cs: Šik o 200 pikenýrech. o.5.5. 14.10. 14.per. 14.15.[^2]
+- typ: odstavec
+  de: Ordinanza per unire a battaglioni.
+  cs: Šik ke spojení do bataillonů.
+- typ: obrazek
+  soubor: drevorez-79b.jpg
+  popis: |-
+    Pochodový šik dvou set pikenýrů (kapitola II): svislý sloupec po pěti mužích v řadě, asi 45 řad. Nahoře řada „dododod“, pod ní 13 řad „d“ (pikenýři), dvě řady „o“ (ručničáři), pět řad „d“, tři řady „p“ s praporem „B“ uprostřed, čtyři řady „d“, dvě řady „o“ a asi 13 řad „d“. Vpravo nápisy gotickým písmem „Ca. II.“, „Ordinanza de. 200. Picche o.5.5. 14.10. 14.per. 14.15.“ a „Ordinanza per unire a battaglioni“ (šik ke spojení do bataillonů).
+- typ: nadpis
+  uroven: 2
+  de: C. III.
+  cs: Kapitola III.
+- typ: odstavec
+  de: Ordinanza de. 300. Picche. o.6.5. 17.12. 17.per 17.18.
+  cs: Šik o 300 pikenýrech. o.6.5. 17.12. 17.per 17.18.
+- typ: odstavec
+  de: Ordinanza per unire a battaglioni.
+  cs: Šik ke spojení do bataillonů.
+- typ: obrazek
+  soubor: drevorez-79c.jpg
+  popis: |-
+    Pochodový šik tří set pikenýrů (kapitola III): svislý sloupec po šesti mužích v řadě, přes 50 řad až k dolnímu okraji strany. Nahoře řada „dodododod“, pak asi 16 řad „d“ (pikenýři), řada „o“ (ručničáři), šest řad „d“, dvě řady „p“ s praporem „B“, šest řad „d“, řada „o“ a asi 17 řad „d“. Vpravo nápisy gotickým písmem „C. III.“, „Ordinanza de. 300. Picche. o.6.5. 17.12. 17.per 17.18.“ a „Ordinanza per unire a battaglioni“.
+poznamky:
+- n: 1
+  text: 'V obrazcích bataillonů stojí lance spezzate kolem praporu „B“ na prostranství (piaza) uvnitř šiku; v pochodových šicích této strany se nepočítají.'
+- n: 2
+  text: 'Číselná šifra šiku, kterou autor vykládá až v kapitole XLI ([[050r|list 50 r]]): o. = šik (ordinanza) s počtem mužů v řadě pochodového sloupce (zde 5); následují počty řad, na něž se sloupec rozdělí (14, 10, 14), a „per“ (po boku) s počty mužů na stranách hotového bataillonu (dvě strany po 14, dvě po 15). Druhá „5“ stojí na místě písmene p. (partire – rozdělit) ze šifry na listu 50 r; čtení „5“ je v tisku jisté a opakuje se u všech šiků, edice je ponechává. Údaj b. (řada praporu, u 200 pikenýrů b.19) tu na rozdíl od listu 50 r chybí.'

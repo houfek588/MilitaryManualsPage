@@ -2,6 +2,26 @@ id: 068v
 list: '68'
 strana: verso
 sken: 156
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    ciaschuna uolta reiterando le querelle che erano per combatterse, & in quel instante comparera un che manifestara la causa dello impedimento, uerbi gratia essere stato infermo, & della infirmita approbata per fede de medico, e scusato. & non se puo depingere, ouero anchora per presone non finte, & fede de Signori, o popoli, o per impedimento de fiumara, o altro iusto impedimento. Et perche para che dala ragione sia constretto chel suo impedimento non resolua totalmente la parte comparsa, li conuien chel sia tenuto alle spese fatte a tal condurre, & cosi non se puo seguire nisuno acto contra quello che non sara comparso, quando como e ditto che lo impedimento non sia fentiuo, & facendo altro se potrebbe opponere per contrario, & in preiudicio de quello che non gli paresse restare satisfatto, & se gli sono refatte le spese.
+  cs: |-
+    každém [vyvolání] zopakuje spory {querelle}, pro které měli bojovat. Dostaví-li se v tu chvíli někdo, kdo oznámí příčinu překážky, například že [protivník] byl nemocen a nemoc je doložena lékařským osvědčením, je omluven a nelze ho potupně vymalovat {depingere}; anebo také [je omluven] nepředstíraným vězením a svědectvím pánů nebo obcí, anebo překážkou rozvodněné řeky či jinou spravedlivou překážkou. Protože se však zdá, že ho právo zavazuje, aby jeho překážka nešla zcela k tíži strany, která se dostavila, musí jí nahradit výlohy vynaložené na takovou cestu. A tak nelze proti tomu, kdo se nedostavil, podniknout žádný úkon, pokud, jak bylo řečeno, překážka není předstíraná {fentiuo}[^1]; kdyby se jednalo jinak, mohl by [onen] podat námitku, a to k újmě toho, kdo by se nepokládal za uspokojeného, ač mu byly výlohy nahrazeny.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE VNO CHE SERA INIVRIATO da unaltro & uolendo domandare & non chiarire in che e stato leso, ma uoler sapere se e stato offeso da quello in alcuna cosa, si ouero no. Cap. XXXII.
+  cs: |-
+    O tom, kdo je jiným urážen {iniuriato} a chce se ptát, ale nevysvětlit, v čem byl poškozen, nýbrž chce [jen] vědět, zda ho onen v něčem urazil, či nikoli. Kapitola XXXII.
+- typ: odstavec
+  de: |-
+    DIcesi per lo actore al reo che lui tiene de essere offeso in alchuna cosa non licita, & per honesta non conuiene chiarirse, & maxime essendo in honore de donne, ma li basta solo che lui habia ad respondere se lo ha offeso si ouer no che dicendo de si lui fara quanto li conuiene tenendo che lhabia fatto male, & loro se intendeno, lun dice esser offeso al suo
+  cs: |-
+    Vyzyvatel {actore} říká vyzvanému {reo}, že se pokládá za uraženého v nějaké nedovolené věci, kterou ze slušnosti nesluší objasňovat, zvláště když jde o čest žen; stačí mu jen, aby [vyzvaný] odpověděl, zda ho urazil, či nikoli. Řekne-li „ano“, učiní [vyzyvatel], co se mu sluší, maje za to, že [vyzvaný] jednal zle; a oni si rozumějí: jeden říká, že je uražen ve své
+poznamky:
+- n: 1
+  text: 'Fentiuo (fintivo) – předstíraný, smyšlený.'

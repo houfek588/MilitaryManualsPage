@@ -2,6 +2,33 @@ id: 040r
 list: '40'
 strana: recto
 sken: 99
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: seznam
+  de:
+  - Picche.250.
+  - o.6.5.19.15.6.a.ala piaza.
+  cs:
+  - Pik {Picche} 250.
+  - 'o. 6. 5. 19. 15. 6. a. na prostranství {piaza}.[^1]'
+- typ: obrazek
+  soubor: drevorez-99.jpg
+  popis: |-
+    Obrazec bataillonu o 250 pikách v trojúhelníku (kapitola XVIII): šik ve tvaru trojúhelníku se zaobleným spodkem, hrotem nahoru pod nápisem „Fronte“ (čelo); podél obou šikmých stran nápis FRONTE, pod spodní stranou vzhůru nohama nápis „Schino“ (týl). Muži jsou znázorněni písmeny d, celý obvod lemuje střídavá řada písmen d a o. Uprostřed je volné trojúhelníkové prostranství s písmenem B (Bandera – prapor). Křídla (ramena) šik nemá.
+- typ: nadpis
+  uroven: 2
+  de: A far un battaglione de.250.picche. Cap.XVIII.
+  cs: Jak udělat bataillon o 250 pikách. Kapitola XVIII.
+- typ: odstavec
+  de: |-
+    DA fare el ditto battaglione de ducento cinquanta picche in triangolo, bisogna mettere inordinanza ad sei, & partire ad decenoue, & a quindeci ad modo de uno, A, et ad sei, & auanza tre filara qual uanno imutile como appare, & cosi smembra la prima, & la seconda schiera, & la terza schiera, da una banda sono decenoue, dallaltra uinti, dala terza uintiuna senza alchuna ala, ouero braccio, ma quando fosse
+  cs: |-
+    Chceš-li udělat tento bataillon {battaglione} o dvou stech padesáti pikách {picche} do trojúhelníku {triangolo}, je třeba postavit muže do šiku {ordinanza} po šesti a rozdělit je po devatenácti [řadách], po patnácti do tvaru písmene A a po šesti; zbudou tři řady {filara}, které přebývají,[^2] jak je vidět. A tak odděl první, druhý i třetí šik {schiera}: na jedné straně je [řad] devatenáct, na druhé dvacet, na třetí dvacet jedna, bez jakéhokoli křídla {ala} čili ramene. Kdyby ses však
+poznamky:
+- n: 1
+  text: |-
+    Zkrácený návod pro šikovatele (šifry viz [[050r|list 50 r]]): „o.6“ = šik po šesti, „5“ stojí na místě písmene p. (partire – rozdělit), následují čísla dělení (19, 15, 6 řad), „a.“ = avanza (zbývá) a „ala piaza“ = [zbytek jde] na prostranství kolem praporu. Význam písmen v obrazci tisk nevysvětluje; d jsou zřejmě pikenýři, o na obvodu snad střelci.
+- n: 2
+  text: |-
+    „Qual uanno imutile“ – doslova „které jdou nazmar“, tj. nevejdou se do obrazce (podle číselné řady se dávají na prostranství k praporu). „Imutile“ je tisková chyba za „inutile“.

@@ -2,6 +2,23 @@ id: 046v
 list: '46'
 strana: verso
 sken: 112
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: obrazek
+  soubor: drevorez-112.jpg
+  popis: |-
+    Nafukovací plovací pás (kapitola XXXVI): plochý kožený prstenec (mezikruží) se švy vyznačenými přerušovanou čarou; nahoře je rozříznutý a oba konce mají po třech očkách či knoflících ke sepnutí kolem těla. Vlevo nahoře je do pásu zasazena soustružená trubička s náustkem, jíž se pás nafukuje.
+- typ: nadpis
+  uroven: 2
+  de: PER FAR VNA CENTVRA PER militi ouer per piscatori. Capitolo.XXXVI.
+  cs: Jak udělat plovací pás pro vojáky nebo pro rybáře. Kapitola XXXVI.
+- typ: odstavec
+  de: |-
+    QVesta e una centura tonda de pelle conciata a modo che si concia per fare le palle ad uento, con uno suffiaturo como sta ad una fistula, ouero Zampogna, la quale cintura si cenge sopra de larme, quando el milite e per passare fumara che cinto che le soffia tanto che la centura sia piena di uento, & cossi passara caminando a piedi quantunque sia profunda lacqua, che non andarai sotto, Saluo che dala centa in giu, & e cosa molto utile a gente di ferro.
+  cs: |-
+    Toto je kulatý pás {centura} z kůže vydělané tak, jak se vydělává na nafukovací míče, s nafukovací trubičkou, jakou má píšťala čili dudy. Tento pás se připíná přes zbroj, když má voják {milite} přejít řeku {fumara}:[^1] opáše se jím a nafukuje ho tak dlouho, až je pás plný vzduchu, a tak přejde pěšky, ať je voda jakkoli hluboká; nepotopíš se, leda od pasu dolů. Je to věc velmi užitečná pro obrněné muže.
+poznamky:
+- n: 1
+  text: |-
+    Fumara (jihoital. fiumara) – řeka, horský tok, který se v jižní Itálii po deštích rozvodňuje. Nafukovací pásy z kůže znali už antičtí autoři (Vegetius, Valturio) a objevují se i v rukopisech renesančních inženýrů. „Palle ad uento“ – nafukovací kožené míče pro hru pallone; „gente di ferro“ (doslova „železní lidé“) – obrnění muži.

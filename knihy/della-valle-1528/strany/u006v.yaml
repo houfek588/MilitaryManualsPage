@@ -2,6 +2,16 @@ id: u006v
 list: '[6] v'
 strana: verso
 sken: 16
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    facendoli un coperchio simplice de carta ligato atorno con spago et fance un busetto in mezo la carta nel qual metterai un stopino impoluerato bene, elqual facilmente e presto con la corda si possa accendere il fuoco, essendo condutto a fronte del nemico, queste seranno de gran factione dando gran terrore e spauento al milite assaltato & ualeno piu la notte chel giorno per rispetto della luce.
+  cs: |-
+    a udělej jí jednoduché víčko z papíru, dokola převázané motouzem. Uprostřed papíru v něm udělej malý otvor a do něj vlož dobře naprášený doutnák {stopino}, od něhož se pak dá hořící šňůrou {corda} snadno a rychle zapálit oheň, když se [trouba] donese před nepřítele. Tyto trouby budou velmi účinné {de gran factione}, neboť napadeným vojákům {milite} nahánějí velkou hrůzu a strach, a v noci mají kvůli světlu větší cenu než ve dne.[^1]
+poznamky:
+- n: 1
+  text: |-
+    „Stopino impoluerato“ – doutnák (zápalnice) napuštěný prachem, zastrčený do otvoru ve víčku; „corda“ je hořící šňůra (lunta), jakou nosili ručničáři, a od ní se doutnák zapálí. Zbytek strany je v tisku prázdný.

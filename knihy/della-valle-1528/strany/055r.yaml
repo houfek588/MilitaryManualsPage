@@ -2,6 +2,32 @@ id: 055r
 list: '55'
 strana: recto
 sken: 129
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    non hanno officio de gouernare popoli, hanno el modo in lor case continuamente guadagni honorati con prezo & estimatione.
+  cs: |-
+    nemají úřad spravovat lid, mají možnost ustavičně si ve svých domech čestně vydělávat, s odměnou i vážností.
+- typ: nadpis
+  uroven: 2
+  de: DELO CONTENDERE DE LI militi contra li sapienti. Cap. IIII.
+  cs: O sporu vojáků proti učencům. Kapitola IIII.
+- typ: odstavec
+  de: |-
+    OR qui bisogna pur rispondere quanto e lo errore de literati che militi son purgatorii de peccati, destrugitori de loro superbie reueditori da loro persuasione, & loro adulare, & che tali uitii de crudelta non regnano ad uirili magnanimi solum contra inimici le quale legge Longobarda imperiale non ueta che al nemico se damnifica in qual se uoglia modo inquanto al uero necessita non ha legge alchun tempo, & quando non se exercita il mestiero se uiue honoratamente con suoi quartieri, & paghe & dinari de grandi standose ad piacere li ueneno li dinari da fare buona cera, & uiuere nobile, perche son denari de nobili, & non sou tenuti se non ad seruire nobili. Ma literati uiueno de dinari de mendichi, & poueri, & ad quelli sono obligati seruire ad forza, che quando litigii non ue fossero morerebbeno de fame, non hauendo del proprio, o quante cose sarebbe, da dire piu oltra, ma la honesta me strenge.
+  cs: |-
+    Nyní je přece třeba odpovědět, jak velký je omyl učenců {literati}. Vojáci {militi} jsou očistcem hříchů, ničiteli jejich pýchy a nápravci jejich přemlouvání a lichocení. A takové neřesti krutosti nevládnou u mužných a velkodušných [lidí] jinak než proti nepřátelům, a to imperiální langobardské právo[^1] nezakazuje, totiž škodit nepříteli jakýmkoli způsobem, neboť po pravdě nouze nikdy nezná zákona. A když se řemeslo [války] neprovozuje, žije se čestně ze čtvrtletního služného {quartieri},[^2] žoldu a peněz od velmožů; i když si [vojáci] hoví, přicházejí jim peníze, aby se mohli dobře mít a žít urozeně, protože jsou to peníze šlechticů a jsou povinni sloužit jen šlechticům. Učenci však žijí z peněz žebráků a chudých a jsou nuceni jim sloužit, takže kdyby nebylo soudních pří, zemřeli by hlady, neboť nemají nic vlastního. Ó, kolik věcí by se dalo říci dále, ale slušnost mě zdržuje.
+- typ: nadpis
+  uroven: 2
+  de: DE LA DIVISIONE DEL MENTIRE et in quanti modi e il loro procedere. Capitolo V.
+  cs: O rozdělení obvinění ze lži a o tom, kolika způsoby se při nich postupuje. Kapitola V.
+poznamky:
+- n: 1
+  text: |-
+    Langobardské právo (Lex Longobarda, ve sbírce Liber Papiensis a „Lombarda“) bylo spolu s římským právem základem práva v jižní Itálii; Della Valle se na ně v knize IV odvolává jako na „imperiální“ zákon. „Necessita non ha legge“ – latinské úsloví „necessitas non habet legem“.
+- n: 2
+  text: |-
+    Quartiere – čtvrtletní služné (provize), které páni a státy vypláceli vojákům a kondotiérům i v době míru. Tisk má „sou tenuti“ (obrácené n, místo „son tenuti“), ověřeno ve skenu.

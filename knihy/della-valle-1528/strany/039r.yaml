@@ -2,6 +2,25 @@ id: 039r
 list: '39'
 strana: recto
 sken: 97
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: A FARE VNO BATTAGLIONE DE TRECENTO PICCHE. CAPITOLO. XVI.
+  cs: Jak udělat bataillon o třech stech pikách. Kapitola XVI.
+- typ: odstavec
+  de: |-
+    PEr fare el ditto battaglione de trecento picche, bisogna mettere inordinanza ad quattro et partire ad uinticinque, & ad uinticinque smembra, & fa una meza luna, & poi smembra dallaltra parte, & fa laltra meza luna per fianco, & poi fa laltra al laltro fianco como qni alincontro appare, & la Bandera in mezo con suoi lanze spezate, & arteglierie, e da notare che quando una de epse lunette spengesse troppo le due altre serrate, e quasi abbracciare la Bandera, per non lasciare aperto & chel nemico furasse el tempo.
+  cs: |-
+    Chceš-li udělat tento bataillon {battaglione} o třech stech pikách {picche}, je třeba postavit muže do šiku {ordinanza} po čtyřech a rozdělit je po dvaceti pěti [řadách]. Dvacet pět jich odděl {smembra} a udělej z nich jeden půlměsíc {meza luna}; pak odděl [dalších dvacet pět] z druhé strany a udělej druhý půlměsíc na bok {fianco} a potom třetí na druhý bok, jak je vidět tady naproti.[^1] Prapor {Bandera} dej doprostřed s jeho lance spezzate {lanze spezate}[^2] a s děly {arteglierie}. A je třeba dbát, aby se v případě, že by se jeden z těch půlměsíců {lunette} vysunul příliš dopředu, zbylé dva semkly a takřka objaly prapor, aby nezůstalo nic otevřeno a nepřítel nevyužil chvíle.[^3]
+poznamky:
+- n: 1
+  text: |-
+    Obrazec k této kapitole je na protější straně [[038v|38 v]]. Počet sedí: 4 muži v řadě × 25 řad = 100 mužů na každý ze tří půlměsíců, celkem 300. „Qni“ je tisková chyba (obrácené u) za „qui“. Iniciála P nebyla vytištěna, v prázdném místě je jen návěstí „p“; doplněno „PEr“.
+- n: 2
+  text: |-
+    V obrazcích je zřejmě označují písmena p kolem praporu B.
+- n: 3
+  text: |-
+    „Chel nemico furasse el tempo“ – doslova „aby nepřítel neukradl čas“, tj. nevyužil chvíle a nevnikl do mezery mezi půlměsíci.

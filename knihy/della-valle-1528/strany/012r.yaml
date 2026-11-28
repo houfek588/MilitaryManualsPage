@@ -2,6 +2,40 @@ id: 012r
 list: '12'
 strana: recto
 sken: 43
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: |-
+    PIglia spago & fallo bolire con lessia, & mettice uno poco de Salmitro, & fallo asseccare per terzo, & nota che lo ditto spago uole essere battuto sopra uno sasso con uno maglio, de legno & fallo assecare alombra.
+  cs: |-
+    Vezmi motouz, dej ho vařit v louhu, přidej do toho trochu ledku {Salmitro} a nech ho vyvařit na třetinu.[^1] A pamatuj, že ten motouz má být otlučen na kameni dřevěnou palicí; pak ho nech uschnout ve stínu.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER FARE VNALTRO MODO di fuoco con mistura bullita insieme. Capi. XIX.
+  cs: |-
+    Jak udělat jiný druh ohně se směsí svařenou dohromady. Kapitola XIX.
+- typ: odstavec
+  de: |-
+    BIsogna pigliare Carboni de salici, Salmitro, Aqua uite, Sulphuro, Pece naura, ouer pegola de naue, Rasapina, Camphora, Oglio de sasso, Vernice liquida, Trementina, & nota che li ua tanto de luno quanto di laltro, & cossi facendo mescolando ogni cosa insieme, & poi piglia una borsetta di tela, & impila di poluere grossa, & intorno ala borsa falli una uesta di mistura preditta, & un poco di stoppa quanto ui parera di farla grossa & poi fatelli uno buso elquale uada nel centro di epsa palla con poluere ad tale che mettendo fuoco possa porgere aiuto al fuoco la ditta poluere che gli e messa nella borsa.
+  cs: |-
+    Je třeba vzít vrbové uhlí {Carboni}, ledek, pálenku {Aqua uite}, síru {Sulphuro}, lodní smolu {Pece naura}[^2] čili smolu z lodí, borovou pryskyřici {Rasapina}, kafr {Camphora}, kamenný olej {Oglio de sasso}, tekutý lak a terpentýn {Trementina}; a pamatuj, že od jednoho se dává tolik co od druhého. Tak to všechno smíchej dohromady; pak vezmi plátěný měšeček, naplň ho hrubým prachem a kolem měšce mu udělej kabátek z uvedené směsi a trochu koudele, tak tlustý, jak se vám bude zdát. Potom do koule udělejte díru, která vede do jejího středu až k prachu, aby po zapálení ohni pomohl prach vložený v měšci.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER FARE FVOCO TERMINAto in tante hore abrusiare una monitione de poluere, o altra cosa. Capitolo. XX.
+  cs: |-
+    Jak udělat oheň načasovaný tak, aby za určitý počet hodin zapálil zásobu prachu nebo jinou věc. Kapitola XX.
+- typ: odstavec
+  de: |-
+    BIsogna hauere Spago dico cordella cotta como auanti ui e notato per uno altro Capitolo, & habbi a misurare tanti palmi & poi sonato che hara lo Arlogio appicia lo stoppino, & quando sonara unaltra uolta lhora smorza lo stoppino, & misura
+  cs: |-
+    Je třeba mít motouz, totiž provázek vyvařený, jak vám bylo výše ukázáno v jiné kapitole,[^3] a odměřit [na něm] několik pídí {palmi}. Až odbijí hodiny {Arlogio}, zapal doutnák {stoppino}, a až hodina odbije znovu, doutnák uhas a změř,
+poznamky:
+- n: 1
+  text: „Fallo asseccare per terzo“ – nejasné; patrně „nech [roztok] vyvařit (vysušit) o třetinu“, případně „usušit potřetí“.
+- n: 2
+  text: Pece naura – tisková chyba za „pece nauale“ (lodní smola), srv. „pezze nauara“ na listu 10 r.
+- n: 3
+  text: Viz kapitolu XVIII o doutnáku, výše na této straně.

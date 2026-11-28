@@ -2,6 +2,30 @@ id: 012v
 list: '12'
 strana: verso
 sken: 44
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    & uedi quanta corda e consumata dala misura prima, & cossi partisse tanto spagho se consumato per hora, & hauendo questo intendimento bisogna hauere tanti cannoli de canna quanto basta ad nascondere lo stopino & nota che li canelli ce bisogna che abino alcuni busetti con uno pontarolo, acio possa uscire el fumo de lo stoppino, & farne uno riuolto de tutti insieme, & nota che ale teste deli cannoli ce bisogna uno pezo de Zuccha, ouero cocoza, ouero uaso como uno boccaletto, ouer pignato sboccato dal fondi, & da uno canto uole uscire da lultimo cannello uno pezzo di stoppino, & el ditto capo del stopino uorebbe toccare una palla di mestura como per alcuni Capitoli ui e notato per auanti, & quella palla darra fuoco, & quando non hauesti la palla habi doi, o tre razi ouer fulguri, li canelli son questi como qui si uede.
+  cs: |-
+    a podívej se, kolik provázku ubylo z původní míry; tak rozpočítáš, kolik motouzu se spálí za hodinu. Když to víš, je třeba mít tolik rákosových trubiček, kolik stačí na ukrytí doutnáku {stopino}; a pamatuj, že ty trubičky musí mít několik dírek [udělaných] šídlem, aby mohl vycházet dým z doutnáku; a ze všech dohromady udělej jeden závit. Dále pamatuj, že na konce trubiček je třeba dát kus tykve čili dýně nebo nádobu jako džbánek nebo hrnec s vyraženým dnem; a na jednom konci má z poslední trubičky vycházet kus doutnáku a ten konec doutnáku by se měl dotýkat koule ze směsi {mestura}, jak vám bylo výše ukázáno v několika kapitolách; a ta koule zapálí. Kdybys neměl kouli, měj dvě nebo tři rakety {razi} čili „blesky“.[^1] Trubičky jsou takové, jak je vidět zde.
+- typ: obrazek
+  soubor: drevorez-44.jpg
+  popis: |-
+    Dřevořez bez nápisů k [[012r|kapitole XX]] (časovaný oheň): pět rákosových trubiček s řadou dírek na dým, položených vedle sebe a spojených na koncích obloučky doutnáku do jednoho klikatého závitu. Vlevo nahoře z první trubičky vyčnívá konec doutnáku k zapálení, vpravo dole vede doutnák z poslední trubičky do kulaté ohnivé koule ze směsi, z níž vyrážejí čárky (jiskry). Konce trubiček zakrývají dva obloukovité kryty s řadou dírek – kusy tykve nebo hrnce, o nichž mluví text.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER APPICIARE EL FVOCO nel legname senza fuoco con altro mezo. C. XXI.
+  cs: |-
+    Jak zapálit oheň ve dřevě bez ohně, jiným prostředkem. Kapitola XXI.
+- typ: odstavec
+  de: |-
+    PEr fare appiciare el fuoco a legname da per loro, che da epso legname uscira fuoco, & se generera senza altro mezo, bisogna che habiate doi
+  cs: |-
+    Chcete-li, aby se dřevo samo od sebe vznítilo, takže z toho dřeva vyšlehne oheň a vznikne bez jiného prostředku, je třeba, abyste měli dva
+poznamky:
+- n: 1
+  text: Razzo – raketa, ohnivý šíp; fulgure („blesk“) – zde patrně jiný druh zápalné rakety či prskavky.

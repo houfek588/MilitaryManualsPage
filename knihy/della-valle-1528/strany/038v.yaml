@@ -2,6 +2,16 @@ id: 038v
 list: '38'
 strana: verso
 sken: 96
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: o.4.5.25. Picche.300.
+  cs: o.4.5.25. 300 pikenýrů {Picche}.[^1]
+- typ: obrazek
+  soubor: drevorez-96.jpg
+  popis: |-
+    Bataillon tří set pikenýrů ze tří půlměsíců (ke kapitole XVI na [[039r|listu 39 r]]), sázený z písmen přes celou stranu. Uprostřed malé prostranství se čtyřmi řadami „p“ (lance spezzate) kolem praporu „B“. Kolem něj tři zahnuté pruhy (půlměsíce), každý asi ze čtyř řad pikenýrů („d“ a „p“) lemovaných ručničáři („dodo…“, „popo…“): horní oblouk s nápisem FRONTE – čelo uvnitř a s rohy vybíhajícími vzhůru (na jejich koncích nápis Fronte), a dva boční oblouky, které se dole rozbíhají do stran (vlevo a vpravo svislý nápis FRONTE, na koncích rohů nápisy FRONTE a „FROTE“). Mezi oblouky stojí tři dřevořezová děla na kolových lafetách: dvě nahoře šikmo vlevo a vpravo, třetí dole ústím dolů, pod ním nápis FRONTE vzhůru nohama. Úplně dole ještě nápisy Fronte (vlevo vzhůru nohama) a Fronte (vpravo). Bataillon je tak obrácen čelem na všechny strany a děla střílejí mezerami mezi půlměsíci.
+poznamky:
+- n: 1
+  text: 'Šifra (srov. [[050r|list 50 r]]): o.4 = šik po čtyřech, jak předepisuje kapitola XVI („mettere inordinanza ad quattro“); 25 = rozdělení po 25 řadách na každý půlměsíc (4 × 75 řad = 300, tři půlměsíce po 100). Druhá „5“ stojí na místě písmene p. (partire – rozdělit). Nápis „FROTE“ vlevo nahoře je tisková chyba za FRONTE (vynechané n, snad zkratka s nadtržením, která se neotiskla).'

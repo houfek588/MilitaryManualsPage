@@ -2,7 +2,7 @@ id: 062v
 list: '62'
 strana: verso
 sken: 144
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,13 +10,13 @@ bloky:
   de: |-
     chel primo obligo, & e prima uenditione, e ualida, & come e piu anchora el primo genito heredita lo stato Cossi el primo matrimonio uiuente uale, & non el secondo. Se risponde per lo secondo de no, atteso che lui ce ha acquistato piu faticha, & pericolo perche lo ha trouato piu recordato nella militia, & ha menato de alcuno atto chel fosse mancato per prima, & piu chel fu dal primo libero & sciolto de potere combattere che quando non ci fosse dissiolto non manco haueria possuto obligare ad altri, & non haueria uento niente, Ma perche li fu dato licentia per uencere cossi se intende al perdere, Anchora che se un ioca cento ducati donati, ouero che doi habbino messo cinquanta per uno, & iocandoli son uenti gia, per loro son persi, perche ce ne sono stati li altri ad fronte, & cossi se al combattere se mette communamente la uita, & lhonore a quello che ui sta luno, sta laltro, & anchora sel primo obligo, & prima uenditione uale, Ancho lultimo testamento non si puo negare & molte uendite ce la uenditione, Apresso, e quello non potere negare niente, & concludemo chel secondo uencitore con ragione debbe possedere
   cs: |-
-    že platí první závazek a první prodej; a jako navíc prvorozený dědí panství, tak za života platí první manželství, a ne druhé. Za druhého se odpovídá, že nikoli, ježto on na něm vydobyl víc námahy a nebezpečí, protože ho shledal zkušenějším ve válečném řemesle {militia}, a dovedl ho k nějakému činu, který mu předtím chyběl[^1]; a navíc ho první propustil a zprostil, aby mohl bojovat – kdyby ho nebyl zprostil, nebyl by se mohl zavázat jiným a [druhý] by nic nezískal. Ale protože mu bylo dáno dovolení k vítězství, rozumí se tím i [dovolení] k porážce. Dále: hraje-li někdo o sto darovaných dukátů {ducati}, anebo vsadí-li dva po padesáti a při hře je prohrají, jsou pro ně ztraceny, protože proti nim stáli jiní. A stejně tak, když se v boji obecně klade v sázku život a čest {honore}, kdo v tom stojí za jednoho, stojí i za druhého. A i když platí první závazek a první prodej, nelze popřít ani poslední závěť, a z mnoha prodejů platí [ten poslední] prodej[^2]. Dále, onen [první] nemůže nic popírat. A uzavíráme, že druhý vítěz má [zajatce] právem držet.
+    že platí první závazek a první prodej; a jako navíc prvorozený dědí panství, tak platí první manželství, dokud [manžel] žije, a ne druhé. Za druhého [vítěze] se odpovídá, že nikoli, ježto on ho získal s větší námahou a nebezpečím, protože ho zastihl zkušenějšího ve vojenství {militia}, a dovedl [ho] k činu, který mu předtím nevyšel[^1]. Navíc ho první propustil a zprostil [závazku], aby mohl bojovat; kdyby ho nebyl zprostil, nebyl by se mohl zavázat jiným a [druhý] by nic nezískal. Protože mu však bylo dáno dovolení k vítězství, rozumí se tím i [dovolení] k porážce. Dále: hraje-li někdo se sto darovanými dukáty anebo vsadí-li dva po padesáti a při hře je prohrají, jsou pro ně ztraceny, protože proti nim stáli jiní. A stejně tak, když se v boji obecně klade v sázku život a čest {honore}, jak v tom stojí jeden, tak stojí i druhý. A i když platí první závazek a první prodej, nelze popřít ani poslední závěť, a z mnoha prodejů platí [poslední] prodej[^2]. A onen [první] nadto nemůže nic namítat. Uzavíráme tedy, že druhý vítěz má [zajatce] právem držet.
 - typ: nadpis
   uroven: 2
   de: |-
     DE VNO CHE IN ABSENTIA se li facesse carrico de parole & se li desse taccia ouer pecco de poltrone, & quello li fosse riportato, & epso non se ne fa stima, Con dire chel debbe dire in presentia, o per cartello se le taccia o no. Capitolo XIX.
   cs: |-
-    O tom, komu by v nepřítomnosti byla učiněna urážka {carrico} slovy a kdo by byl nařčen {taccia} či obviněn ze zbabělosti {poltrone}, a bylo by mu to doneseno, a on si z toho nic nedělá s tím, že [onen] to musí říci v jeho přítomnosti nebo vyzývacím listem {cartello} – zda je mu to ke cti na škodu, či nikoli. Kapitola XIX.
+    O tom, komu by byla v nepřítomnosti učiněna urážka {carrico} slovy a kdo by byl nařčen {taccia} či obviněn ze zbabělosti {poltrone}, a bylo by mu to doneseno, a on si z toho nic nedělá s tím, že [onen] to musí říci v jeho přítomnosti nebo vyzývacím listem {cartello} – zda je to pro něho pohana, či nikoli. Kapitola XIX.
 - typ: odstavec
   de: |-
     MOuese el dubio se uno fosse ingiuriato da unaltro da lonzi, & non in presentia, & quello li fusse reportato da alcun beniuolo o
@@ -24,6 +24,6 @@ bloky:
     Vzniká pochybnost, kdyby byl někdo urážen {ingiuriato} jiným zdálky, a ne v jeho přítomnosti, a doneslo by mu to nějaký příznivec nebo
 poznamky:
 - n: 1
-  text: '„ha menato de alcuno atto chel fosse mancato per prima“ – nejasné místo; smysl snad je, že druhý vítěz dosáhl na zajatci činu (vítězství), který prvnímu dříve nevyšel, nebo že zajatce přivedl k zápasu, v němž předtím selhal.'
+  text: '„ha menato de alcuno atto chel fosse mancato per prima“ – nejasné místo; smysl snad je, že druhý vítěz dosáhl na zajatci činu (vítězství), který mu dříve chyběl, nebo že zajatce přivedl k zápasu, v němž předtím selhal.'
 - n: 2
   text: '„& molte uendite ce la uenditione“ – stručné a nejasné; patrně: z několika po sobě jdoucích prodejů téže věci platí ten poslední (obdobně jako poslední závěť ruší dřívější).'

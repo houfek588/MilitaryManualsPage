@@ -2,6 +2,38 @@ id: 013v
 list: '13'
 strana: verso
 sken: 46
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: |-
+    TOgliete Camphora parte tre, Salmitro ben refinato parte doi Calcina uiua parte doa, Sulphuro parte doa, & de tutte queste cose ben piste con doi corizoli ben stopati con lota sapientia, et mettilo in fornace, & quando cauaretti li uasi pigliareti anco el tuo magisterio, & sera fatto.
+  cs: |-
+    Vezměte kafru {Camphora} tři díly, dobře přečištěného ledku {Salmitro} dva díly, nehašeného vápna dva díly, síry {Sulphuro} dva díly; a se všemi těmito věcmi dobře roztlučenými [naplňte] dva kelímky dobře utěsněné mudrcovskou hlínou {lota sapientia}, a dejte to do pece; a až vytáhnete nádoby, vezmete si i svůj výrobek a bude hotovo.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER FARE LOTA SAPIENTIA Capitolo. XXIIII.
+  cs: |-
+    Jak udělat mudrcovskou hlínu. Kapitola XXIV.
+- typ: odstavec
+  de: |-
+    AFare lota sapientia pigliate terra Cetrina parte cinque sterco de asino parte una, poluere di ferro che sta sul ceppo delancudine de Fabri parte una, cimatura parte meza, & fa la ditta lota con aqua, & farai quanta uorai al tuo bisogno.
+  cs: |-
+    Chcete-li udělat mudrcovskou hlínu {lota sapientia}, vezměte žluté hlíny {terra Cetrina}[^1] pět dílů, oslího trusu jeden díl, železného prachu, který leží na špalku kovářské kovadliny [tj. okují], jeden díl, postřižků sukna půl dílu; z toho s vodou udělej tu hlínu a uděláš jí, kolik budeš potřebovat.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER FARE TORZE ET RESISTERE ad uento & ancho a lacqua per guidare exercito per fortunal tempo & lochi stretti. Cap. XXV.
+  cs: |-
+    Jak udělat pochodně, které odolají větru i vodě, k vedení vojska za bouřlivého počasí a úzkými místy. Kapitola XXV.
+- typ: odstavec
+  de: |-
+    BIsogna che lo stopino sia cotto con aqua de Salmitro, & poi bene assutto, & ben bagnato de poluere de Sulphuro con aqua uita stemperato insieme tanto che basti, & poi cera parte tre, Rasapina parte do, Sulphuro parte una, Camphora parte meza. Trementina parte meza, pece greca ouer pegola spagna parte una, & fa che copri lo ditto stopino con queste cose, & nota che ciascuno stopino bisogna che sia uno poco grosetto, & uoleno essere quatro, & in mezo delli quatro stopini per quello cannone impirlo de calcina uiua parte tre, & Sulphuro uiuo parte una, & fara la torza qual sara utilissima per muraglia, & per campagna per guidare el tuo exercito per luochi sterili senza lanterne
+  cs: |-
+    Knot {stopino} je třeba vyvařit ve vodě s ledkem {Salmitro}, pak dobře usušit a dobře namočit v sirném prachu rozmíchaném s pálenkou {aqua uita}, kolik stačí. Pak [vezmi] vosku tři díly, borové pryskyřice {Rasapina} dva díly, síry jeden díl, kafru půl dílu, terpentýnu {Trementina} půl dílu, řecké smoly {pece greca} čili španělské smoly jeden díl, a postarej se, abys tím knot obalil. A pamatuj, že každý knot má být poněkud tlustší a mají být čtyři; a prostředek mezi čtyřmi knoty, onen kanálek,[^2] naplň třemi díly nehašeného vápna a jedním dílem přírodní síry; tak vznikne pochodeň {torza}, která bude velmi užitečná na hradbách i v poli, abys vedl své vojsko {exercito} pustými místy bez luceren
+poznamky:
+- n: 1
+  text: Terra cetrina – doslova „citronová (žlutá) hlína“, patrně žlutý jíl či okr. Na konci odstavce tisk čte „uordi“ (stejně poškozené a jako v „marduiglia“ na listu 7 r); přepsáno uorai.
+- n: 2
+  text: V tisku „cannone“ – zde dutina (kanálek) uprostřed svazku knotů, nikoli dělo.

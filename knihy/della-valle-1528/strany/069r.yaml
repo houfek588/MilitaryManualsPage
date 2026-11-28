@@ -2,6 +2,23 @@ id: 069r
 list: '69'
 strana: recto
 sken: 157
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    honore, & laltro accetta & confessa hauer offeso se puo combattere per comune acordo, & non conuiene al iudice competente uolere esser constretto de loro secreti. Et piu quando lo recercato respondesse che lui uuole intendere la causa el caso in che lui hauesse offeso che quando se auedesse del suo errore ne uorra fare la satisfattione, & non uenire al combattere col torto, ma remetterse. Se responde per lo recercatore che la offensione quale tiene esserli fatta non sta ben chiarirla perche sono molte querele da tacere, che conueria limarle piu & piu gente che doi, & per impedire tal fine, quando se potesse resoluere per doi, quattro, o sei, e meglio che con cento, o ducento per questo como sapendose el caso della iniuria, e per resoluersi tamen, e molto meglio ad dire de non hauere offeso, e fatta la satisfactione in questo caso, & fa busadro el reportatore, & placata le parte con tale zelo.
+  cs: |-
+    cti {honore} a druhý to přijímá a doznává, že ho urazil; mohou tedy bojovat po společné dohodě a příslušnému soudci {iudice competente} nesluší chtít být zasvěcen do jejich tajemství. A dále: kdyby vyzvaný odpověděl, že chce znát příčinu a případ, v němž ho urazil, protože kdyby poznal svůj omyl, chtěl by za něj dát zadostiučinění {satisfattione}, a ne jít do boje s nepravdou, nýbrž se podrobit, odpovídá se za vyzyvatele, že urážku, o níž má za to, že mu byla učiněna, není dobré objasňovat, protože je mnoho sporů, o nichž je třeba mlčet a které by musel urovnávat [nejen] dva, ale víc a víc lidí. A aby se takovému konci zabránilo: dá-li se věc vyřešit mezi dvěma, čtyřmi nebo šesti, je to lepší než se stem nebo dvěma sty. Proto, jako by byl případ urážky {iniuria} znám a měl se přesto vyřešit, je mnohem lepší říci, že [ho] neurazil: tím je v tomto případě dáno zadostiučinění, z donašeče {reportatore} se stává lhář {busadro} a strany jsou takovou dobrou vůlí usmířeny.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    SERAN DOI INIMICI, ET VNALTRO terzo reportera ad un de epsi alchuno caso & ueneno ad termine per combattere quella ditta del reportatore el principale nega non essere lo uero, se e resoluto lo offeso, si ouero no. Cap. XXXIII.
+  cs: |-
+    Jsou dva nepřátelé a jiný, třetí, donese jednomu z nich nějakou věc, a dojdou až k boji; avšak hlavní [strana] popírá, že by výrok donašeče {reportatore} byl pravdivý – zda je tím uražený vyrovnán, či nikoli. Kapitola XXXIII.
+- typ: odstavec
+  de: |-
+    MOuesi el dubio che seranno doi amici, ouero inimici, & una terza persona se moue & reporta adun de epsi che laltro li ha incaricato, o in fatti, ouero in parole. Se moue el Lite dalo offeso o in presentia, o per terza persona, o per cartello.
+  cs: |-
+    Vzniká pochybnost, když jsou dva přátelé nebo nepřátelé a třetí osoba se přichomýtne a donese jednomu z nich, že ho ten druhý urazil {incaricato}, buď činy, nebo slovy. Spor {Lite} vznáší uražený, buď osobně, nebo prostřednictvím třetí osoby, nebo vyzývacím listem {cartello}.

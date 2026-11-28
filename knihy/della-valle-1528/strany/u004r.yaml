@@ -2,6 +2,99 @@ id: u004r
 list: '[4] r'
 strana: recto
 sken: 11
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: seznam
+  de:
+  - |-
+    A far doi battaglioni luno in forfice & laltro in triangolo non se molestando loro. car. 53.
+  cs:
+  - |-
+    Jak udělat dva bataillony {battaglioni}, jeden do nůžek {forfice} a druhý do trojúhelníku {triangolo}, aniž by si navzájem překážely. – [[053r|list 53]]
+- typ: nadpis
+  uroven: 2
+  de: 'LIBRO QVARTO'
+  cs: 'Kniha čtvrtá'
+- typ: seznam
+  de:
+  - |-
+    DEla nobilita de litere. car. 53.
+  - |-
+    Della nobilita della militia, car. 54.
+  - |-
+    Del contendere de literati con militi. c. 54.
+  - |-
+    Del contendere de militi contra li sapienti. car. 55.
+  - |-
+    Dela diuisione del mentire. car. 55.
+  - |-
+    Delo honestissimo modo del replicare car. 55.
+  - |-
+    Del sostenire una cosa sele desfida o no. car. 56.
+  - |-
+    De desfida uoler mantenere alchune differentie. c. 56.
+  - |-
+    De uno che dice poltrone & traditore a laltro & sta per menarli un buffetto a man alzata se gli ha dato el buffetto o no. car. 57.
+  - |-
+    De doi combattenti receuuta una ferita per uno & dispartiti chi el perditore. car. 57.
+  - |-
+    De doi feriti luno in testa & laltro nela mano car. 58.
+  - |-
+    De uno che a torto hauera uictoria. car. 58.
+  - |-
+    Dele forze & pianeti & segni fanno perdere. car. 59.
+  - |-
+    De doi combattenti lo desfidato appresenta le arme. c. 60
+  - |-
+    De doi combattenti li conuiene elegere le arme. c. 60.
+  - |-
+    De doi che combatteno ad tre colpi de ferite. car. 61.
+  - |-
+    De doi che uoleno combattere luno ad pede & laltro a cauallo. car. 61.
+  - |-
+    De uno combattente preso dal suo nimico, & con licentia uenne al secondo combattere, acquista el secondo & uiene recercato tutti doi dal primo ad chi e obligato. car. 62.
+  cs:
+  - |-
+    O šlechtictví {nobilita} učenosti {litere}. – [[053v|list 53]]
+  - |-
+    O šlechtictví vojenství {militia}. – [[054r|list 54]]
+  - |-
+    O sporu učenců {literati} s vojáky {militi}. – [[054v|list 54]]
+  - |-
+    O sporu vojáků s mudrci. – [[055r|list 55]]
+  - |-
+    O rozdělení obvinění ze lži {mentire}. – [[055r|list 55]]
+  - |-
+    O nejčestnějším způsobu odpovědi. – [[055v|list 55]]
+  - |-
+    O hájení nějaké věci – zda je to výzva {desfida}, či ne. – [[055v|list 56]]
+  - |-
+    O výzvě, když chce [někdo] hájit nějaké spory. – [[056v|list 56]]
+  - |-
+    O tom, kdo druhému řekne „zbabělče {poltrone} a zrádce {traditore}“, a ten se chystá udeřit ho zdviženou rukou políčkem {buffetto} – zda se má za to, že mu políček dal, či ne.[^1] – [[057r|list 57]]
+  - |-
+    O dvou bojovnících, z nichž každý utržil jednu ránu a byli rozděleni – kdo z nich je poražený. – [[057v|list 57]]
+  - |-
+    O dvou raněných, z nichž jeden byl zasažen do hlavy a druhý do ruky. – [[058r|list 58]]
+  - |-
+    O tom, kdo zvítězí neprávem. – [[058v|list 58]]
+  - |-
+    O silách planet a znamení, [zda] způsobují porážku. – [[059r|list 59]]
+  - |-
+    O dvou bojovnících, z nichž vyzvaný {desfidato} předloží zbraně. – [[060r|list 60]]
+  - |-
+    O dvou bojovnících: komu z nich přísluší volba zbraní. – [[060v|list 60]]
+  - |-
+    O dvou, kteří bojují na tři rány. – [[061r|list 61]]
+  - |-
+    O dvou, kteří chtějí bojovat, jeden pěšky a druhý na koni. – [[061r|list 61]]
+  - |-
+    O bojovníkovi, kterého zajal jeho nepřítel a který s jeho svolením šel k druhému souboji; i druhý [protivník] ho získá [jako zajatce] a oba ho pak žádají – komu je zavázán.[^2] – [[062r|list 62]]
+poznamky:
+- n: 1
+  text: |-
+    Podle nadpisu kapitoly IX (list 57 r) políček rozpřahuje druhý z obou, ale nezasáhne a řekne jen „málem…“.
+- n: 2
+  text: |-
+    Obsah je zde zhuštěný a gramaticky nejasný („acquista el secondo & uiene recercato tutti doi dal primo“); překlad se řídí nadpisem kapitoly XVIII (list 62 r), kde je bojovník přemožen i druhým protivníkem a oba ho pak žádají jako zajatce.

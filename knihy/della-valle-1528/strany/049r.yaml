@@ -2,6 +2,22 @@ id: 049r
 list: '49'
 strana: recto
 sken: 117
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE SBARRATO. Cap.XXXIX.
+  cs: Jak udělat zahrazený bataillon. Kapitola XXXIX.
+- typ: odstavec
+  de: |-
+    PEr fare el ditto battaglione sbarrato, bisogna mettere in ordinanza ad quattro, & partire ad uintisette, ad uinticinque, ad sedeci, & smembra, & mette la prima parte da capo, & la seconda da piedi & la terza che saranno sedeci filara trasi ad cinque filara, & lassala per fianco, piglia le sedece altre restante che e la quarta parte, & metti allaltro fianco dentro cinque altre filara, & lasciala per laltro fianco per longo como qui allincontro appare, & la Bandera in mezo con suoi lanze spezate. E da notare chel ditto battaglione moltiplicando de numero et con questo ordine se fa de migliara. Et e da sapere che quando la testa fosse desertata & sualisata, & e da farse la Bandera un poco indrieto, & serrare da capo, & uerra spicolo de triangolo, & calare le picche al suo bisogno, & spengendo poi fare buso.
+  cs: |-
+    Chceš-li udělat tento zahrazený {sbarrato} bataillon {battaglione}, je třeba postavit muže do šiku {ordinanza} po čtyřech a rozdělit je po dvaceti sedmi, po dvaceti pěti a po šestnácti [řadách]. Pak odděl {smembra} a postav první část do čela a druhou k patě; třetí, která bude mít šestnáct řad {filara}, vsuň o pět řad dovnitř a nech ji na boku {fianco}; vezmi zbylých šestnáct, což je čtvrtá část, postav [je] na druhý bok o dalších pět řad dovnitř a nech je podélně na druhém boku, jak je vidět tady naproti;[^1] a prapor {Bandera} doprostřed s jeho lance spezzate {lanze spezate}. A je třeba si všimnout, že když se tento bataillon tímto řádem rozmnoží, dělá se i o tisících. A je třeba vědět, že kdyby čelo bylo rozbité a prořídlé,[^2] má se prapor posunout trochu dozadu a [bataillon] se má v čele semknout; vznikne tak hrot {spicolo} trojúhelníku. Pak se mají sklonit píky {picche} podle potřeby a tlakem prorazit průlom.
+poznamky:
+- n: 1
+  text: |-
+    Obrazec je na protější straně [[048v|48 v]]: první a druhá část tvoří příčné lišty o čtyřech řadách nahoře a dole, třetí a čtvrtá boky o šestnácti řadách. Počet: (27 + 25 + 16 + 16) řad po 4 mužích = 336, k tomu lance spezzate u praporu – asi 350, jak uvádí obrazec. „Trasi“ = trasci, vsuň (neapol. trasire, vejít).
+- n: 2
+  text: |-
+    „Desertata & sualisata“ – nejisté: desertata = zpustošená, vyprázdněná; sualisata snad od neapol. „svaligiare“ (vyloupit, vyprázdnit) či „sbaragliata“ (rozprášená). Smysl: když první řady padnou, bataillon se v čele zúží do klínu a prorazí nepřítele.

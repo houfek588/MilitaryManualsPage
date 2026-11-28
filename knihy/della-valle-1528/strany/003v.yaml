@@ -2,6 +2,31 @@ id: 003v
 list: '3'
 strana: verso
 sken: 26
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    guardie, ad questo li conuiene fare continuamente demonstratione per essere queste doe parte de tanta importantia, perche non uale li Militi essere grandi, belli de statura, non uale essere piccoli, & apti, ne ancho possenti, & forti de membra, non uale a essere magnanimi de core ma solo questo e il tutto, la compagnia debbe essere obediente non mancando un punto del suo ordine, si che concludo che beato e quello Capitano che ha perfetta obedientia da suoi strenui Militi, o che gratia diuina li e prestata chi con fede & amore e seruitto, che e per possibile che ogni suo disegno habia perfetto, & honorabile fine.
+  cs: |-
+    na stráži {guardie}. V tom musí [kapitán] ustavičně dávat příklad, neboť tyto dvě věci jsou tak důležité, že nic neplatí, jsou-li vojáci {Militi} velcí a krásné postavy, nic neplatí, jsou-li malí a obratní, ani silní a pevných údů, nic neplatí, mají-li velkodušné srdce; jen to jediné je vším: rota {compagnia} musí být poslušná a nesmí ani v jediném bodě porušit svůj řád. Proto uzavírám: blažený je ten kapitán {Capitano}, koho jeho stateční vojáci dokonale poslouchají. Ó, jaká božská milost je dána tomu, komu se slouží s věrností a láskou: každý jeho záměr pak může dojít dokonalého a čestného konce!
+- typ: nadpis
+  uroven: 2
+  de: DE LA PVNITIONE DEL DIsobedeinte, & traditore al suo capitano. Cap. III.
+  cs: O trestání toho, kdo je neposlušný a zrádný ke svému kapitánovi.[^1] Kapitola III.
+- typ: odstavec
+  de: |-
+    ANchora dico conclusiuamente che quando al Capitano se gli mancasse de obedientia, o uero nelle guardie, & scolte, & al dare de nomi alcuni preteriscono del suo ordine, dico non solo conuiene sualisarli de Arme, & Caualli, denari, & robbe, & ne anco resoluerlo di alcuno supplicio & Castigo, ma pena arbitraria de condennarlo ad morte, & como per usanza se costuma de passarlo per le picche, & de questo modo, facendo un battaglione lassandoce in mezo una strata larga per dui picche, & metterlo li in mezo, & prima che se incomenza ad calar le picche per ciascun lato, conuiene che quello tale ingenochiandosi domandi perdono al suo Capitano tre uolte & ala terza il Capitano debbe pigliare la bandera dal suo banderale, & pigliare il ferro in mano, & non spiegata, ma recolta,
+  cs: |-
+    Dále na závěr pravím: když se kapitánovi nedostává poslušnosti nebo když někteří při strážích {guardie} a hlídkách {scolte} a při vydávání hesel {nomi} poruší jeho řád, pak nestačí je jen zbavit zbraní a koní, peněz a věcí, ani [viníka] odbýt nějakým [tělesným] trestem a pokáráním, nýbrž [je třeba] uložit mu trest podle uvážení {pena arbitraria} a odsoudit ho na smrt, a to, jak je zvykem, tak, že se nechá projít píkami {picche}.[^2] Děje se to takto: udělá se bataillon {battaglione}, v jehož středu se nechá ulička široká na dvě píky, a do ní se [odsouzený] postaví. Než se začnou z obou stran sklápět píky, musí ten člověk na kolenou třikrát prosit svého kapitána o milost. Při třetí prosbě má kapitán vzít praporečníkovi {banderale} prapor {bandera} a uchopit ho za železo,[^3] a ne rozvinutý, nýbrž svinutý,
+poznamky:
+- n: 1
+  text: |-
+    V nadpisu tisková chyba „disobedeinte“ (za disobediente), ponechána.
+- n: 2
+  text: |-
+    „Passare per le picche“ – procházení píkami (něm. „durch die Spieße jagen“), trest smrti obvyklý u lancknechtů i italské pěchoty: odsouzený musí projít uličkou mezi sklopenými píkami a je jimi proboden.
+- n: 3
+  text: |-
+    „Pigliare il ferro in mano“ – kapitán drží svinutý prapor za železný hrot, aby mohl odsouzeného udeřit do hlavy koncem žerdi („troncone“), jak pokračuje text na listu 4 r.

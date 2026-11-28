@@ -2,6 +2,25 @@ id: 032v
 list: '32'
 strana: verso
 sken: 84
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: Picche.300. o.4.5.26.6.6.4.4.4.4.8.
+  cs: 300 pikenýrů {Picche}. o.4.5.26.6.6.4.4.4.4.8.[^1]
+- typ: obrazek
+  soubor: drevorez-84.jpg
+  popis: |-
+    Bataillon tří set pikenýrů „na způsob štíra“ (ke kapitole VIII), sázený z písmen. Nahoře dvě „klepeta“ – vlevo a vpravo bloky 4 × 4 písmen „d“; pod nimi tělo ze čtyř plných řad po 26 „d“. Uprostřed prostranství s praporem „B“ obklopeným šestnácti písmeny „p“ (lance spezzate; dvě dvojřady po čtyřech nad ním a dvě pod ním), po jeho stranách dva svislé bloky po čtyřech „d“ v šesti řadách a vně ještě dva menší boční bloky po čtyřech „d“ ve třech řadách. Pod nimi opět čtyři plné řady „d“ (první z nich je delší a sahá až pod boční bloky, v poslední je jedno „p“) a z nich vybíhá doprava zahnutý „ocas“ z osmi řad po čtyřech „p“, sázených stále šikměji. Nápisy na obrazci nejsou.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE EL DICTO BATTAglione de trecento picche. Ca. VIII.
+  cs: Jak udělat řečený bataillon o třech stech pikách. Kapitola VIII.
+- typ: odstavec
+  de: |-
+    PEr fare el ditto battaglione de trecento picche a modo de scorpione bisogna mettere inordenanza a quatro, & smembrare a uintisei & mette parte per longo da capo, & ad sei per deritto, & sei altri filare el simele, & quattro da capo, & quattro altri da laltro pizo. E cosi alaltra parte desotto che a ciascuno
+  cs: |-
+    Chceš-li postavit řečený bataillon {battaglione} o třech stech pikách {picche} na způsob štíra {scorpione}, je třeba [je] seřadit do šiku {ordinanza} po čtyřech, oddělit {smembrare} dvacet šest [řad] a tuto část postavit podélně v čele; pak po šesti [řadách] svisle a dalších šest řad stejně, a čtyři v čele a čtyři další na druhém rohu {pizo}. A stejně tak na druhé, dolní straně, takže na každém
+poznamky:
+- n: 1
+  text: 'Šifra (srov. kapitolu XLI na [[050r|listu 50 r]]): o.4 = šik po čtyřech v řadě; 26 = řady po 26 mužích napříč; 6.6 = dva svislé bloky po šesti řadách; 4.4.4.4 = čtyři bloky po čtyřech (klepeta a boční bloky); 8 = osm řad „ocasu“. Druhá „5“ stojí na místě písmene p. (partire – rozdělit) ze šifry na listu 50 r. Součet nevychází: 4 × (26 + 6 + 6 + 4 + 4 + 4 + 4 + 8) = 248 mužů, zbylých 52 (13 řad) patří patrně do dolní části těla, kterou šifra neuvádí; obrazec je sázen volněji a má přes 300 písmen.'

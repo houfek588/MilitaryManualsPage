@@ -2,6 +2,19 @@ id: u007r
 list: '[7] r'
 strana: recto
 sken: 17
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: PER FAR BALLE DE BRONzo da trazere in un battaglion de fanti, lequale schiopando fan grandissimo danno. Cap. II.
+  cs: Jak udělat bronzové koule {BALLE DE BRONzo} k vrhání do bataillonu {battaglion} pěchoty {fanti}, které se roztrhnou a způsobí převelikou škodu. Kapitola II.
+- typ: odstavec
+  de: |-
+    LE necessario che uolendo sapere larte compiuta de sopraditte balle bisogna prima saperle butar in forma & farle, & poi sapere la mistura dela poluere, con laqual le habbi a impire poi saper a tempo adoperarle, & prima bisogna a farle, tenire questo modo, habbi creta impastata con cimatura sotillissimamente al modo che se fa per butar campane et de quella farai una balla tonda, ne laquale sia fitto uno ferro nel mezo longo un palmo & grosso quanto la ponta del dito piccolo de la mano de un huomo & lassa sugare poi sutto poni sopra la ditta balla una mano de cera laqual cera sia per sopra grossa tre bone coste de cortello equale atorno atorno poi metti sopra ditta cera unaltra mano di creta laquale sia grossa bonamente affirmandola bene atorno el ferro, & questo perche essendo sutta bene & uolendo liquefar la cera & cauarla fora non se possa mouere la crosta disopra & per fare che ditta cera uenga fora, el ti bisogna hauer un legnetto fatto aposta, elquale tenerai nella cera fitto allincontro del fuso de ferro, cioe chel fuso staga disotto, & lo legnetto disopra, elqual legnetto sara largheto disopra & sotile abasso doue lo ficherai ne la cera & mettendo poi la creta per sopra lo ditto legnetto reseruera uno bocchame per el quale uscira la cera & gitterassi delli el bronzo colato, elquale uuol essere bronzo cioe rame parte tre, & stagno parte una, et bisogna colar el rame prima puoi metterli lo stagno, &
+  cs: |-
+    Kdo chce znát úplné umění výše řečených koulí {balle}, musí je nejprve umět odlít do formy a zhotovit, potom znát směs {mistura} prachu {poluere}, kterou je má naplnit, a nakonec je umět v pravou chvíli použít. Abys je nejprve udělal, postupuj takto: měj hlínu {creta} co nejjemněji uhnětenou s postřižinami {cimatura},[^1] tak jak se dělá k lití zvonů, a udělej z ní kulatou kouli, do jejíhož středu je vraženo železo dlouhé jednu píď {palmo} a silné jako špička malíčku mužské ruky, a nech ji vyschnout. Když je suchá, nanes na kouli vrstvu vosku, a ten vosk ať je navrchu silný dobré tři hřbety nože, stejnoměrně dokola. Potom na vosk dej další vrstvu hlíny, pořádně silnou, a kolem železa ji dobře upevni; to proto, aby se vrchní kůra nemohla pohnout, až dobře vyschne a budeš chtít vosk roztavit a vypustit ven. Aby vosk vytekl, musíš mít k tomu zvlášť udělané dřívko, které budeš držet zabodnuté ve vosku naproti železnému trnu {fuso}, totiž tak, aby trn byl dole a dřívko nahoře. Dřívko bude nahoře širší a dole, kde je zabodneš do vosku, tenké; když pak přes ně navrch naneseš hlínu, zůstane po něm otvor {bocchame}, kterým vyteče vosk a kterým se pak vlije roztavený bronz. Bronz má být složen ze tří dílů mědi a jednoho dílu cínu; je třeba nejprve roztavit měď, potom k ní přidat cín a
+poznamky:
+- n: 1
+  text: |-
+    „Cimatura“ – postřižiny ze sukna (chlupy odstřižené při úpravě látky), které se přidávaly do hlíny na slévačské formy, aby nepraskala; postup odpovídá lití zvonů metodou ztraceného vosku.

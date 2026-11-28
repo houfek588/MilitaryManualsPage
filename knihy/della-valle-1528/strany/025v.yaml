@@ -2,6 +2,26 @@ id: 025v
 list: '25'
 strana: verso
 sken: 70
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    aiuta ad guidarla doue e el parere de piantarla, laquale messa che le con questi brocchi, o rampini de ferro non se po rebuttare indrieto, ne ancho tagliare, & questa scala se po fare de piu pezi, & larga, quanto e bisogno al suo parere.
+  cs: |-
+    pomáhá navést tam, kde se uzná za dobré ji postavit. Když je jednou nasazena s těmito železnými háky či skobami, nelze ji odstrčit zpět ani přetnout. Tento žebřík {scala} lze udělat z více kusů a tak široký, jak je podle uvážení potřeba.
+- typ: nadpis
+  uroven: 2
+  de: MODELLO DE SCALA ad argano con el coperto disopra. Capitolo. X.
+  cs: Stroj – žebřík s rumpálem a se střechou nahoře. Kapitola X.
+- typ: odstavec
+  de: |-
+    QVesta e unaltra maniera de scala con una corda sopra, & laltra sotto, laquale scala sera molto grande, atteso lo modello e questo qui alincontro, e questa ue per carecarla de huomini che facino fattione assai, & ancho se potrano callare luno laltro con cappello de cantini, o uero tauoloni, & questo e per denfendere da sassi che uenisseno dalle muraglie.
+  cs: |-
+    Toto je jiný způsob žebříku, s jedním lanem nahoře a druhým dole. Tento žebřík bude velmi velký, jak ukazuje stroj {modello} zde naproti[^1], a slouží k tomu, aby se naložil muži, kteří svedou pořádný boj. Také se budou moci jeden za druhým spouštět pod stříškou z latí nebo fošen[^2]; ta slouží k ochraně před kameny, které by padaly z hradeb {muraglie}.
+poznamky:
+- n: 1
+  text: 'Vyobrazení je na protější straně [[026r|26 r]]. Zbytek strany je v tisku prázdný.'
+- n: 2
+  text: '„cappello de cantini, o uero tauoloni“ – stříška z latí (cantinelle) nebo z fošen. V tisku „per denfendere“ – tisková chyba za „defendere“.'

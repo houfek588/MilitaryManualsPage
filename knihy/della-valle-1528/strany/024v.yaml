@@ -2,6 +2,22 @@ id: 024v
 list: '24'
 strana: verso
 sken: 68
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: obrazek
+  soubor: drevorez-68.jpg
+  popis: |-
+    Skládací (rozevírací) žebřík ke kapitole VIII ve složeném stavu, jak se nosí: dva těsně k sobě přiložené štěříny se železnými hroty dole a se společným velkým hákem nahoře, kterým se žebřík zachytí za hradbu. Z obou stran trčí krátké příčle (vlevo šest, vpravo sedm), mezi nimi jsou na pravém štěřínu otvory pro příčle druhé strany; po rozevření štěřínů vznikne žebřík s příčlemi.
+- typ: nadpis
+  uroven: 2
+  de: MODELLO DE SCALA CHE E PIANTATA ET SE ALLARGA. Capitolo.VIII.
+  cs: Stroj – žebřík, který se postaví a rozevře. Kapitola VIII.
+- typ: odstavec
+  de: |-
+    E Anchora questa e una altra sorta di scala laquale ua appogiata ale muraglie se apre & sera attale che con buono modo se potra montare, & portase cossi stretta como qui appare.
+  cs: |-
+    Také toto je další druh žebříku {scala}: opírá se o hradby {muraglie}, otvírá se a zavírá, takže se po něm dá pohodlně vystoupit nahoru; nosí se takto stažený, jak je zde vidět[^1].
+poznamky:
+- n: 1
+  text: 'Vyobrazení ukazuje žebřík složený; rozevřený podobný žebřík je na [[025r|25 r]]. Konce řádků zasahují na skenu do hřbetu vazby (questa, sorta, laquale, modo, qui), jsou však čitelné ze smyslu. Zbytek strany pod textem je prázdný.'

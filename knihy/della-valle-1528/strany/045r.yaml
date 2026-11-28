@@ -2,6 +2,33 @@ id: 045r
 list: '45'
 strana: recto
 sken: 109
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: |-
+    DA fare uno battaglione de nouecento picche in quadrangolo bisigna mettere in ordinanza ad undeci, & la Bandera ad quaranta parti ad trentauno, a disnoue a trentauno, & smembra & unisce como e ditto che saranno per doi faze trentadoi & per doi altre trentauno & ne auanza sei picche le quale le metterai intorno della piaza che sta nel centro di esso.
+  cs: |-
+    Chceš-li udělat bataillon {battaglione} o devíti stech pikách {picche} ve čtyřúhelníku {quadrangolo}, je třeba[^1] postavit muže do šiku {ordinanza} po jedenácti a prapor {Bandera} na čtyřicátou [řadu]. Rozděl je po třiceti jedné, po devatenácti a po třiceti jedné [řadách], odděl {smembra} a spoj, jak bylo řečeno; na dvou stranách {faze} tak bude třicet dva [pik] a na dvou dalších třicet jedna. Zbude šest pik, které postavíš kolem prostranství {piaza} v jeho středu.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE de picche.1000. Capitolo.XXXI.
+  cs: Jak udělat bataillon o 1000 pikách. Kapitola XXXI.
+- typ: odstavec
+  de: |-
+    DA fare uno battaglione de mille picche in quadrangolo bisogna mettere in ordinanza ad undeci & la Bandera ad quarantaquatro partire a trentadoi, a uintitre ad trentadoi, & per doi fianchi trentadoi, & per doi altri trentatre & ne auanza sei picche le quale andaranno nella piaza, E da notare che li scopetteri non sonno a numero, & perche sempre lhuomo non ha quanto fa mestiero, che se ne hauesse assai li metteria doppio con questo ordine se ne uenne pocchi pur ua cossi, mettendoli per difuora & dal carcare se retirano dentro de loro strade, & andando poi al litto per trazere. Et cossi con questo ordine moltiplica, & diminuisce, & cossi farai li toi battaglioni de doi tre, o quatro sei migliara, Impero io son di parere che uno exercito de diece, & uintimilia, se ne debbe fare piu, & piu numero de battaglioni, uero e che secondo doue lhuomo si troua de terreno, & paese. Ma concludo doue li e piu uale & per piu respetti,
+  cs: |-
+    Chceš-li udělat bataillon o tisíci pikách ve čtyřúhelníku, je třeba postavit muže do šiku po jedenácti a prapor na čtyřicátou čtvrtou [řadu] a rozdělit je po třiceti dvou, po dvaceti třech a po třiceti dvou [řadách];[^2] na dvou bocích {fianchi} [bude] třicet dva a na dvou dalších [stranách] třicet tři. Zbude šest pik, které půjdou na prostranství. A je třeba si všimnout, že ručničáři {scopetteri} se do počtu nezapočítávají. Člověk jich totiž nemá vždycky tolik, kolik je třeba: kdybych jich měl dost, postavil bych je tímto řádem zdvojeně, a když jich přijde málo, jde to i tak. Stavějí se zvenčí, k nabíjení se stahují dovnitř do svých uliček {strade} a pak vycházejí na okraj [šiku] střílet.[^3] Tímto řádem [bataillon] rozmnožuj i zmenšuj; tak sestavíš své bataillony o dvou, třech, čtyřech či šesti tisících. Jsem však toho názoru, že z vojska {exercito} o deseti či dvaceti tisících [mužů] se má udělat víc a víc bataillonů – pravda ovšem, že podle toho, v jakém terénu a v jaké krajině se člověk nachází. Ale uzavírám, [že je to lepší] tam, kde to víc platí,[^4] a to z více důvodů:
+poznamky:
+- n: 1
+  text: |-
+    „Bisigna“ je tisková chyba za „bisogna“. Počet: 31 + 19 + 31 = 81 řad po 11 mužích = 891, se šesti přebývajícími 897; prapor na 40. řadě stojí uprostřed.
+- n: 2
+  text: |-
+    Řádky „la Bandera ad quarantaquatro / partire a trentadoi, a uintitre ad trentadoi“ jsou ve skenu poškozené přehybem papíru (ověřeno ve zvětšeném výřezu); ze slova „uintitre“ je vidět jen „uin…“, doplněno podle obdoby předchozích kapitol, kde prapor stojí v prostřední řadě (87 : 2 ≈ 44). Počet: 32 + 23 + 32 = 87 řad po 11 mužích = 957, se šesti přebývajícími 963 – tisícovku doplňují ručničáři a desátníci na místech dělení.
+- n: 3
+  text: |-
+    Ručničáři stojí vně pikenýrů; po výstřelu se stáhnou do uliček (strade) mezi řadami, nabijí a znovu vyjdou na okraj (litto, doslova „břeh“) šiku ke střelbě. „Se ne uenne pocchi“ chápeme jako „se ne uengono pochi“ (když jich přijde málo).
+- n: 4
+  text: |-
+    Tisk má zřetelně „piu uale“ (snad „più vale“ – víc platí, nebo tisková chyba za „piu utile“ – užitečnější). Slovo „pri-“ na konci řádku pokračuje na [[045v|listu 45 v]] („prima“).

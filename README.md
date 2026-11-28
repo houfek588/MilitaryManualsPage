@@ -76,7 +76,9 @@ Knihy: `fronsberger-1564` (Fronsperger, Kriegs Ordnung vnd Regiment, sken BSB), 
 `ott-1530` (Michael Ott von Echterdingen, Kriegsordnung, Augsburg kolem 1530; sken BSB bsb00089558)
 `wintzenberger-1588` (Daniel Wintzenberger, Beschreibung einer Kriegs-Ordnung, Drážďany 1588; sken BSB bsb00032546)
 a `tartaglia-1554` (Niccolò Tartaglia, Quesiti et inventioni diverse, Benátky 1554 – **italský originál**, `jazyk: it`;
-sken BSB bsb11221340; přeloženy knihy I–VI s dodatkem).
+sken BSB bsb11221340; přeloženy knihy I–VI s dodatkem)
+a `della-valle-1528` (Battista della Valle, Vallo, Benátky 1528 – italsky; sken Getty Research Institute v Internet
+Archive vallolibrocotine00dell).
 
 ## Web
 - čtení po **kapitolách** (`#/kap/<id>`) i po **stranách tisku** (`#/strana/018r`), šipky ← → listují,

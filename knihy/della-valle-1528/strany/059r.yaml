@@ -2,6 +2,18 @@ id: 059r
 list: '59'
 strana: recto
 sken: 137
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    exempio & e da notare utile, Et piu se dice che quello che hauera perso li parera a suo iudicio hauere ragione, & hauera torto, ouer li parera esserce portato bene, & sara un poltrone & hauera da contendere con uno ualente huomo, & la ragione non li presta tanto fauore, che basta per lui & li e mancato la forza, ouero anchora per piu potentissima causa che sara un grandissimo peccatore non recognoscendo Idio, ne soa matre Maria, & par che da lui procede ogni suo bene senza mezo diuino, Ma concludo affirmatiuamente che essendo doi Re redutti al combattere per causa de honore grande, et non poco, & ciascuno de loro remettendose a Dio dicendo che a forza & per lo honore li strenge a quello, & che inquanto a Dio lor son malcontenti pensando che in parte offendeno esso eterno Idio, & ancho confessarse ciascun dessi & non a disprezo del deuere uenire ad tal termine, & ancho siano equalmente ualenti huomini, che resolutamente e certo senza dubio quello che hauera ragione sara uittorioso, & preciato, & si Pompeo fu uinto per combattere la ragione, E meglio a dire che fu li peccati de Romani, & lor commune superbia, che dare diffetto ala iustitia diuina, laquale doue importa la uita, & lhonore & lanima conuiene che nhabia el carico, perho e da pensare che non manca senza causa.
+  cs: |-
+    příklad, a je užitečné si toho povšimnout. A dále se říká, že ten, kdo prohrál, si podle svého úsudku myslí, že měl pravdu, a přitom byl v neprávu; nebo si myslí, že si počínal dobře, a přitom je to zbabělec {poltrone} a měl se utkat se statečným mužem, a pravda mu nepřála natolik, aby mu to stačilo, a chyběla mu síla; anebo z ještě mocnější příčiny: že je to veliký hříšník, který neuznává Boha ani jeho matku Marii a myslí si, že všechno jeho dobro pochází od něho samého bez Božího přispění. Ale uzavírám kladně: dojde-li mezi dvěma králi k souboji kvůli velké, a ne malé věci cti, a každý z nich se svěří Bohu a řekne, že ho k tomu nutí síla [okolností] a čest a že je vůči Bohu nerad, neboť pomýšlí, že tím zčásti uráží věčného Boha; vyzpovídá-li se každý z nich, a to ne z pohrdání tím, že musí dojít až k takovému konci; a jsou-li oba stejně stateční muži – pak rozhodně, jistě a bez pochyby zvítězí a bude oslaven ten, kdo má pravdu. A byl-li Pompeius poražen, ačkoli bojoval za pravdu, je lépe říci, že to způsobily hříchy Římanů a jejich obecná pýcha, než přičítat vinu Boží spravedlnosti, které přísluší rozhodnutí tam, kde jde o život, čest a duši; proto je třeba myslet, že neselhává bez příčiny.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    SE LE FORZE DE PIANETTI & segni faran perdere quello che combatte la rasone per non prendere li loro ascendenti, & hore & ponti o si o no. Capitolo. XIII.
+  cs: |-
+    Zda síly planet a znamení způsobí, že prohraje ten, kdo bojuje za pravdu, protože nezvolil jejich ascendenty, hodiny a okamžiky, nebo ne. Kapitola XIII.

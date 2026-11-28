@@ -2,6 +2,21 @@ id: 002r
 list: '2'
 strana: recto
 sken: 23
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    grande la mia perpetua seruitu uerso uostra excellentissima signoria causa, & principio & origine de queste nostre fatiche per non defraudare il proprio authore, & inuentore, ad quella la presente opera intitulare. Benche dela Militia habia solo preso le mobile, uerde, & suaue fronde, Nientedimeno chi legera questo piccolo libretto grandissimo diletto, & utilita ne prendera, quando il modo de tenere defendere, & expugnare una Cita trouera, & como debbe essere lo Capitano, & in che modo, & quanti li strenui, robusti, & intrepidi militi da prudenti, & sagaci Capitani instruire, & ponere in ordinanza, smembrare, & unire in battaglione se debiano, & con qual ingegno perspicacissimo consiglio fidelissimo, & arte ferma, & certissima, ponti, & tutte sorte de artellarie, poluere fare se debiano, & altri secreti ad larte Militare necessarii breuemente, & claramente declarati como per diuersi Capitoli dentro distintamente scripto habiamo, che al fine uno saporissimo, & salutifero frutto sende cogliera. Per tanto prego uostra excellentissima Signoria che alcuna uolta hauendo ocio se digna del mandato dono per memoria, & recordo del uostro seruitore auscultare alcuno Capitolo.
+  cs: |-
+    moje ustavičná služba Vaší převznešené Milosti – připsat tento spis jí, příčině, počátku a původu těchto našich prací, abych neošidil jeho pravého původce a vynálezce. Ačkoli jsem z vojenství {Militia} sebral jen pohyblivé, zelené a líbezné listí, přesto kdo bude číst tuto malou knížku, nalezne v ní převelikou potěchu a užitek: najde tu způsob, jak udržet, bránit a dobýt město {Cita}; jaký má být kapitán {Capitano}; jak a v jakém počtu mají moudří a bystří kapitáni statečné, silné a neohrožené vojáky {militi} cvičit, stavět do šiku {ordinanza}, rozdělovat a spojovat do bataillonu {battaglione}; s jakým důvtipem, nejbystřejší a nejvěrnější radou a pevným a nejjistějším uměním se mají dělat mosty {ponti}, všechny druhy děl {artellarie} a prach {poluere}; a další tajemství nezbytná pro válečné umění, krátce a jasně vyložená, jak jsme je uvnitř v rozličných kapitolách odděleně sepsali, takže se z toho nakonec sklidí přechutný a blahodárný plod. Proto prosím Vaši převznešenou Milost, aby, až bude mít volnou chvíli, ráčila z poslaného daru na památku a připomínku svého služebníka vyslechnout některou kapitolu.
+- typ: nadpis
+  uroven: 2
+  de: DEL SAPERE DE CAPITANI CAPITOLO PRIMO.
+  cs: O vědění kapitánů {CAPITANI}. Kapitola první.
+- typ: odstavec
+  de: |-
+    QVANTVNQVE molti famosi scriptori de scientia, & arte Militare & de Duello scripto habbiano opere molto utile, & de memoria dignissime con altiloquo stilo, & terse,
+  cs: |-
+    Ačkoli mnozí slavní spisovatelé napsali o válečné vědě a umění i o souboji {Duello} díla velmi užitečná a nejvýš hodná paměti, vznešeným a uhlazeným slohem,

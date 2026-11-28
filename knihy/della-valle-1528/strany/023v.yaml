@@ -2,6 +2,28 @@ id: 023v
 list: '23'
 strana: verso
 sken: 66
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    so delquale io smarisco de senso uolerlo in cartha narrare la sua diuina uirtu & maxime nella militia haime quello suo ameno orare, & inculcare de exercito, uno gubernare de campo, uno iudicio per defendere un prouedere de offendere, imperho ne stopisco, che de li Romani fatti lui fu concesso, & ad me non par che lice parlare sia piu oltra, perche da quello piu, & piu uolte io so exaltato in Capitano de fantarie, ma me refido ad tante charte che de lui se stende & sopplendo al mio basso ingegno.
+  cs: |-
+    o němž – to vím[^1] – ztrácím smysly, chci-li jeho božskou ctnost vylíčit na papíře, a zvláště ve vojenství {militia}: ach, ta jeho líbezná řeč, to vštěpování [kázně] vojsku {exercito}, to řízení ležení, ten úsudek při obraně a ta prozíravost při útoku! Proto žasnu, že mu bylo dopřáno činů Římanů[^2]. A nezdá se mi, že by mi slušelo mluvit dál, protože jsem jím byl víckrát povýšen na kapitána pěchoty {Capitano de fantarie}[^3]; spoléhám tedy na tolik listů, které se o něm píší, a ty doplní můj chabý důvtip.
+- typ: nadpis
+  uroven: 2
+  de: MODELLO DE SCALA AD argano con ponte. Cap.VII.
+  cs: Stroj – žebřík s rumpálem a mostem. Kapitola VII.
+- typ: odstavec
+  de: |-
+    A Dare notitia anchora de questa scala ad modo de ponte, quanto e utile piantarlo a muraglia uero e che bisogna conseruar de molti toi archibusi & scopetteri per dritto, & per ciascuno fianco acio che questo magisterio possa accostarse alla muraglia, et che quelli di dentro siano impeditti dalli toi scoppetteri Et nota che sarebbe assai meglio che molti de quelli che stanno in su questo ponte che portasseno alcune trombe de fuoco incima delle picche con qualche palla, o pignato di fuoco per dare piu terrore ad quelli di dentro che piu facilmente li faranno, et lassanronli intrare portando fuoco che con epso e molto piu utile, & piu al proposito a farse far largo.
+  cs: |-
+    Podám zprávu i o tomto žebříku {scala} na způsob mostu {ponte}: jak užitečné je postavit jej k hradbě {muraglia}! Je ovšem pravda, že je třeba jej chránit mnoha tvými arkebuzami {archibusi} a ručničáři {scopetteri} zpředu i z každého boku, aby se toto zařízení {magisterio} mohlo k hradbě přiblížit a aby obránci byli tvými ručničáři zdržováni. A pamatuj, že by bylo mnohem lepší, kdyby mnozí z těch, kdo stojí na tomto mostě, nesli na hrotech pík {picche} nějaké ohnivé trouby {trombe de fuoco} s nějakou koulí {palla} nebo ohnivým hrncem {pignato}, aby obráncům nahnali víc strachu; ti jim pak snáze ustoupí a nechají je vniknout dovnitř, když nesou oheň, neboť ohněm se mnohem lépe a vhodněji zjednává průchod.
+poznamky:
+- n: 1
+  text: 'Konec předchozí strany a začátek této zní „Duca de Vrbino che | so delquale“; „che so“ je chápáno jako vsuvka „což vím“. Možné je i neapolské „so“ = sono („jehož jsem [člověkem]“), srov. níže „io so exaltato“ = byl jsem povýšen.'
+- n: 2
+  text: 'Narážka na římský úřad prefekta Města (viz [[023r|23 r]]) a na vévodovy činy srovnatelné s antickými Římany.'
+- n: 3
+  text: 'Della Valle uvádí, že jej vévoda z Urbina (od roku 1523 generální kapitán Benátek) několikrát jmenoval kapitánem pěchoty.'

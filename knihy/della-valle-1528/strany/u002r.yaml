@@ -2,7 +2,7 @@ id: u002r
 list: '[2] r'
 strana: recto
 sken: 7
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: nadpis
@@ -67,17 +67,17 @@ bloky:
   - |-
     O trestání neposlušného a zrádce. – [[003r|list 3]]
   - |-
-    O tom, co přísluší kapitánům, kteří očekávají nepřátelské vojsko {campo}.[^1] – [[004r|list 4]]
+    O tom, co přísluší kapitánům, kteří očekávají obléhání.[^1] – [[004r|list 4]]
   - |-
-    O tom, co přísluší ke správě města {terra}. – [[004r|list 4]]
+    O tom, co přísluší ke správě města. – [[004r|list 4]]
   - |-
-    O opevnění {fortificare} města. – [[004r|list 4]]
+    O opevnění města. – [[004r|list 4]]
   - |-
     Jak postavit čtverhrannou baštu {Bastione}. – [[006r|list 6]]
   - |-
     Jak postavit okrouhlou baštu. – [[007r|list 7]]
   - |-
-    Jak sepnout náspy {ripari}, aby se svažovaly dolů, i s jejich střílnami {candonere}.[^2] – [[008r|list 8]]
+    Jak sepnout kotvami záštity {ripari}, které se svažují dolů, s jejich střílnami {candonere}.[^2] – [[008r|list 8]]
   - |-
     O opevnění města. – [[008r|list 8]]
   - |-
@@ -93,21 +93,24 @@ bloky:
   - |-
     Jak bránit město ohnivými troubami {trombe di fuoco}. – [[011r|list 11]]
   - |-
-    K obraně ohnivými kotouči {Rotelle di fuoco}. – [[011r|list 11]]
+    K obraně ohnivými štíty {Rotelle di fuoco}.[^3] – [[011r|list 11]]
   - |-
     Jak udělat doutnák {stoppino} pro ručnici {scoppetto}. – [[012r|list 12]]
   - |-
-    Jak udělat oheň z vařené směsi {mestura}. – [[012r|list 12]]
+    Jak udělat oheň z vařené zápalné směsi {mestura}. – [[012r|list 12]]
   - |-
     Jak udělat oheň, který vzplane v určenou hodinu. – [[012r|list 12]]
   - |-
     Jak rozdělat oheň dřevem o dřevo bez křesadla {focile}. – [[012r|list 12]]
   - |-
-    Jak udělat směs v podobě ohnivého kamene, který se zapálí vodou nebo slinou. – [[013r|list 13]]
+    Jak udělat směs v ohnivém kameni, který se zapálí vodou nebo slinou. – [[013r|list 13]]
 poznamky:
 - n: 1
   text: |-
-    „Campo“ – polní vojsko, zvláště nepřátelské vojsko, které se položí před město k obléhání; „aspettare il campo“ = očekávat obléhání.
+    „Expettano campo“ – doslova „očekávají [nepřátelské] vojsko“, tj. že se před město položí nepřátelský tábor k obléhání.
 - n: 2
   text: |-
-    V textu na listu 8 r zní nadpis kapitoly „Modo de inchinare uno riparo, el quale viene a calare secondo il riparo con le soe candonere“ (způsob, jak naklonit násep, který se svažuje podle valu, se svými střílnami). „Inchiauare“ (sepnout klíny, svázat) a „inchinare“ (naklonit) se v tisku střídají; „candonere“ je patrně tiskový nebo nářeční tvar slova „cannoniere“ (střílny). Slova „calare bassar“ (spustit, snížit) stojí v obsahu vedle sebe jako dvojí výraz.
+    Nadpis kapitoly 9 na listu 8 r má místo „inchiauare“ (sepnout kotvami, od chiaue) tvar „inchinare“ (naklonit). „Calare bassar“ jsou dva souznačné výrazy (svažovat se, snižovat se); „candonere“ je nářeční tvar slova „cannoniere“ (střílny).
+- n: 3
+  text: |-
+    Rotella – okrouhlý štít; v kapitole 17 (list 11 v) je na něm připevněno několik ohnivých trub, které se zapalují jedna od druhé.

@@ -2,6 +2,23 @@ id: u006r
 list: '[6] r'
 strana: recto
 sken: 15
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: CAPITOLI TRE DE ARTEFICII de fuoco nouamente aggionti.
+  cs: Tři kapitoly o ohňostrojných zbraních {ARTEFICII de fuoco}, nově přidané
+- typ: nadpis
+  uroven: 2
+  de: PER FAR TROMBE DE FVOco de mirabile factione, Cap. I,
+  cs: Jak udělat ohnivé trouby {TROMBE DE FVOco} podivuhodného zhotovení. Kapitola I.
+- typ: odstavec
+  de: |-
+    PRima fa fare una cana al torno de buon legno grosso quanto el stinco de un huomo & chence uada per entro el buso la largheza della palma de una mano dhuomo stretta et fa che al fondo de ditta tromba sia uno buso piccolo nel qual ci uada unasta de partesana de un passo de longheza che non entri nel altro, et liga con filo de ferro sotile la ditta tromba adalto abasso, & in mezo per piu segurta che non si rompa per la furia del fuoco poi empila dela sotto scritta mistura, Recipe poluere de bombarda libre. 4. peza greca ouer pegola spagna libre una. Camphora libre meza. uitro pisto onze. 4. & missia ogni cosa insieme, poi comincia a impire & metti nella tua tromba un pugno de poluere de bombarda laqual non sia misturata, poi un pugno de mistura, poi un pocho de poluere poi un solaretto de bombace infuso in olio de ginepro, & mettili dentro sopra ditto bombace como hai fatto prima, cioe poluere poi mistura & c. E cosi farai insin atanto che sera piena calcando tutta uia legiermente la robba, & auertissi che si tu bagnassi con acqua de uita el bombace e perfetta cosa, non trouando olio de ginepro, & non hauendo lun ne laltro bagna in olio comune misto con uernice liquida, & metti per ogni posta de poluere alquanto argento uiuo, poi che sara piena metti in bocca la poluere bona
+  cs: |-
+    Nejprve dej na soustruhu udělat z dobrého dřeva troubu {cana} silnou jako lidská holeň, a to tak, aby vývrt uvnitř měl šíři sevřené mužské dlaně. Na dně této trouby {tromba} ať je malý otvor, do něhož se vsadí ratiště partyzány {partesana} dlouhé jeden krok {passo}, které však nesmí proniknout do vnitřní [dutiny]. Troubu pak pro větší jistotu svaž tenkým železným drátem odshora dolů i uprostřed, aby ji zuřivost ohně neroztrhla. Potom ji naplň níže popsanou směsí {mistura}. Vezmi 4 libry {libre} prachu do bombard {poluere de bombarda}, jednu libru řecké smoly {peza greca} čili španělské smoly {pegola spagna}, půl libry kafru {Camphora} a 4 unce {onze} roztlučeného skla[^1] a všechno smíchej. Pak začni plnit: dej do své trouby hrst prachu do bombard, který není smíchán [se směsí], potom hrst směsi, potom trochu prachu, potom vrstvičku {solaretto} bavlny {bombace} namočené v jalovcovém oleji a na tuto bavlnu dávej znovu totéž jako předtím, totiž prach, potom směs atd. Tak pokračuj, dokud nebude plná, a náplň přitom stále lehce upěchovávej. A věz, že nenajdeš-li jalovcový olej, bude dokonalé namočit bavlnu v pálence {acqua de uita}; a nemáš-li ani jedno, ani druhé, namoč ji v obyčejném oleji smíchaném s tekutým fermežem {uernice liquida}. Ke každé dávce prachu přidej trochu rtuti {argento uiuo}. Když bude plná, dej do ústí {bocca} dobrý prach
+poznamky:
+- n: 1
+  text: |-
+    „Uitro pisto“ – roztlučené sklo; nelze vyloučit tiskovou chybu za „nitro pisto“ (roztlučený ledek), který do zápalných směsí patří. Ponecháno podle tisku.

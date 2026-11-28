@@ -2,6 +2,26 @@ id: 068r
 list: '68'
 strana: recto
 sken: 155
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    esser tristo. Et non solo fatto lacto, & recercandose lui stesso lo castigo ingenochione, dico resolutamente che se deue perdonare atteso che un milite conuien essere magnanimo che se a questo fosse uillano parebbe darseli taccia non per gentile, ma per core rustico perche se ben se pensa che uno huomo di ferro & de ualore armato, come el buon poeta dice. Per mille morte a cotal modo non se remetterebbe, perche combattendo ad doi tratti se desse per presone li sarebbe piu honore, & non accaderia cotanto dire, & non staria bene & non lice per forza darli morte, ma dimettere tutti li falli.
+  cs: |-
+    že je ničema. A když nejen učiní tento úkon, ale sám si na kolenou žádá trest, pravím rozhodně, že se mu má odpustit. Voják {milite} totiž musí být velkomyslný, a kdyby se v tom zachoval hrubě, zdálo by se, že na sebe uvaluje pohanu, že nemá urozené, nýbrž selské srdce. Uváží-li se totiž dobře, muž „železem a udatností ozbrojený“, jak praví dobrý básník[^1], by se takovým způsobem nepodrobil ani za tisíc smrtí – vždyť kdyby se v boji po dvou ranách vzdal jako zajatec, bylo by to pro něj čestnější a nebylo by třeba tolik řečí. Nebylo by tedy správné a nesluší se dát mu násilím smrt, nýbrž [je třeba] odpustit všechna provinění.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE VNO CHE HA ASPETATO lo inimico al Campo, & quello non e comparso al di deputato con causa licita ad che e tenuto per non se hauer possuto correre el Campo Cap. XXXI.
+  cs: |-
+    O tom, kdo čekal na nepřítele na kolbišti, a ten se v určený den z oprávněné příčiny nedostavil – k čemu je zavázán, když se kolbiště nemohlo objet. Kapitola XXXI.
+- typ: odstavec
+  de: |-
+    SI moue el lite per quello che sera comparso al Campo al di deputato per combatere dicendo che de molti tempi prima se e eletto da luna parte, & laltra la giornata per definire le defferentie importante a lhonore, & che lui e per fare el suo debito, & che intende de non esser uenuto in darno con tanta spesa, & par che sia dala parte beffato, et par che non lhabia da stimare del suo trastulare, che per questo intende con ragione fare correre el campo in preiudicio della parte atteso che le mancato in quel di deputato, & mostra chel sia proceduto per uilta, & cosi farne fare fede acio se possa manifestare col depingere da chi e uenuto lo mancare de non farse il debito, per tanto hara chiamato lo inimico tre uolte insul campo, & per
+  cs: |-
+    Spor {lite} vznáší ten, kdo se v určený den dostavil na kolbiště k boji, a říká, že dlouho předtím byl z jedné i z druhé strany zvolen den, aby se rozhodly rozepře týkající se cti {honore}, a že on je připraven učinit, co je povinen, a nehodlá přijít nadarmo s tak velkými výlohami; zdá se mu, že si z něho protistrana tropí posměch, a nemíní trpět, aby si s ním zahrávala. Proto zamýšlí právem dát objet kolbiště k újmě protistrany, ježto v ten určený den selhala, a ukazuje, že se tak stalo ze zbabělosti {uilta}; a dát o tom vydat svědectví, aby se potupným vymalováním {depingere} mohlo veřejně ukázat, kdo zavinil, že nebylo učiněno, co bylo povinností. Proto třikrát vyvolá nepřítele na kolbišti a při
+poznamky:
+- n: 1
+  text: 'Dobrý básník – Francesco Petrarca; obrat „gente di ferro e di valore armata“ je z Triumfu slávy (Triumphus Fame I, v. 28), srov. [[067r|list 67 r]].'

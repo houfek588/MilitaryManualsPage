@@ -2,6 +2,19 @@ id: 047v
 list: '47'
 strana: verso
 sken: 114
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    attale che con quelle molte pieghe che fanno se debbia stendere, & da grugliare cioe arronchiare secondo el bisogno, Et piu e da intendere che descenda fin ad un pappafico anchora de ditto coramo, che e lo pappafico ce bisogna che ui sia una rotella di uitro con una carratura intorno, attale che si possa legare el pappafico ad modo che si lega la nocella in uno pallone cioe palla da uento che dal ditto pezo di uetro el si possa uedere a modo di ochiali, & messo che te hauerai lo pappafico bisogna che habi da incollarlo in su le spalle molto bene, & la colla si e questa Visco da aqua con trementina bona, et quando lo uorai leuare el ditto pappafico per manco fastidio habbi Oglio commune, et aduertissi chel ditto magisterio cioe il trombone con lo pappafico uorebe essere de doi & tre dopi e fodrato, & cosito molto bene, & bisogna che sia longo quanto sara el fondito de lacqua che uorai andare, & e uno nobile modo de stare sotto aqua.
+  cs: |-
+    aby se [trouba] díky těm mnoha záhybům, které tvoří, mohla podle potřeby natahovat a stahovat, totiž svraštit.[^1] Dále je třeba vědět, že [trouba] sestupuje až do kukly {pappafico}, rovněž z uvedené kůže. V kukle musí být skleněné kolečko s obrubou {carratura} kolem dokola, aby se kukla dala [kolem něj] převázat tak, jako se převazuje ventil {nocella} v nafukovacím míči, totiž míči na vzduch, a aby se tím kouskem skla dalo vidět jako brýlemi. Když si kuklu nasadíš, musíš ji velmi dobře přilepit na ramena; lepidlo je toto: lep proti vodě {Visco da aqua} s dobrým terpentýnem {trementina}. Až budeš chtít kuklu sundat, měj pro menší obtíže obyčejný olej. A pamatuj, že toto dílo, totiž trouba s kuklou, má být dvakrát i třikrát zdvojené, podšité a velmi dobře sešité; a musí být tak dlouhé, jak hluboká bude voda, do níž budeš chtít jít. Je to ušlechtilý způsob, jak pobývat pod vodou.[^2]
+poznamky:
+- n: 1
+  text: |-
+    „Da grugliare cioe arronchiare“ – nářeční (neapolské) výrazy pro svinování, nabírání do záhybů. Nocella – patrně ventil či průchodka (doslova „oříšek“), jíž se nafukoval kožený míč pallone a kolem níž se kůže převazovala; carratura – snad obruba či objímka, do níž je sklo zasazeno. „Visco“ je ptačí lep (z jmelí).
+- n: 2
+  text: |-
+    Konec odstavce je v tisku sázen do zužujícího se trojúhelníku; zbytek strany je prázdný.

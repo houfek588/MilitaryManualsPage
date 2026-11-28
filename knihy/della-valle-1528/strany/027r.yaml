@@ -2,6 +2,28 @@ id: 027r
 list: '27'
 strana: recto
 sken: 73
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    facendo cosi spesso se potrebbe scassare ogni gran muraglia, pur che non ce sia impazio per li fianchi, & dalli ditti fianchi se potrebbe andare con alchuni sacchi pieni de lana, ouero strame icima de alcuni legni alti, et cercare le candonere della muraglia quale ui potrebbe offendere.
+  cs: |-
+    když se to dělá takto často, dala by se rozbít každá velká hradba {muraglia}, jen když tomu nebrání [palba] z boků {fianchi}[^1]. A proti těmto bokům by se dalo jít s pytli naplněnými vlnou nebo slámou na vrcholu vysokých tyčí a vyhledávat [a zakrývat] jimi střílny {candonere} hradby, které by vás mohly zraňovat.
+- typ: obrazek
+  soubor: drevorez-73.jpg
+  popis: |-
+    Krytý vůz pro přiblížení k hradbě (ke kapitole XII): dlouhá dřevěná bouda na plných kolech, s pultovou střechou z prken a stěnami z vodorovných fošen. Vpředu má vyšší část se sedlovou střechou a čtverhranným otvorem; po stranách čela jsou šikmo rozevřena dvě prkenná křídla (zástěny), která podle textu na [[027v|27 v]] chrání muže, když vycházejí k práci u zdi. Vpravo dole vyčnívá hrot nebo čep.
+- typ: nadpis
+  uroven: 2
+  de: MODELLO PER ROMPERE una muraglia de unaltro modo. Capitolo.XII.
+  cs: Stroj na prolomení hradby jiným způsobem. Kapitola XII.
+- typ: odstavec
+  de: |-
+    QVesto e unaltro modello per accostarse alla muraglia con li militi che hanno da portare pali de ferro per scassare in alchuni lochi, ma uero bisogna quando non ue se potesse andare commodatamente, farce alchuna trinciera, & quando ce fossero fossi de acqua, in questo modello se ponno mettere certi trauati per sotto como qui innanti ue se
+  cs: |-
+    Toto je jiný stroj {modello}, s nímž se lze přiblížit k hradbě s vojáky {militi}, kteří mají nést železná páčidla, aby na některých místech zeď rozbíjeli. Ovšem kdyby se k ní nedalo pohodlně dojít, je třeba udělat nějaký zákop {trinciera}; a kdyby tam byly vodní příkopy {fossi}, lze pod tento stroj podložit trámoví, jak se vám zde výše
+poznamky:
+- n: 1
+  text: 'Tj. jen když obránci nemohou útočníky u zdi ostřelovat z boků (z bašt a bočních střílen) – proto se jejich střílny vyhledávají a zakrývají pytli s vlnou či slámou na tyčích. „icima“ je v tisku bez viditelné vlnovky (= in cima).'

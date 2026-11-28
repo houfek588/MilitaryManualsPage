@@ -2,6 +2,18 @@ id: 029v
 list: '29'
 strana: verso
 sken: 78
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 1
+  de: LIBRO TERZO
+  cs: Kniha třetí
+- typ: odstavec
+  de: |-
+    HAVENDO INSINO adesso scritto el modo de defendere, & pigliare una citta in questo terzo libro diremo de battaglioni, quali in campagna fare se uolessero con larte uera che non se possa dare pecco de dire che ciascuno battaglione de qual se uoglia numero che siano falsi, ma con ragione uera, et quando se mouesse altro ordine che questo credo che per ognimodo se retroueria falsi, & perho prendendo lo mio ordine e le certissimo che seranno perfetti e da dare uinto, ad chi contradire uolesse. Et nota che ciascuno battaglione e numero & recercare la sua ordinanza dedita secondo trouerai ali sequenti capitoli.
+  cs: |-
+    Když jsem až dosud popsal způsob, jak hájit a dobýt město, budeme v této třetí knize mluvit o bataillonech {battaglioni}, které by se chtěly stavět v poli, a to pravým uměním, aby nikdo nemohl vytknout chybu {pecco}[^1] a říci, že ten či onen bataillon o jakémkoli počtu [mužů] je chybný – [jsou totiž postaveny] podle správného počtu. A kdyby se postupovalo podle jiného řádu než tohoto, věřím, že by se [bataillony] v každém případě ukázaly chybné. Proto kdo se přidrží mého řádu, je naprosto jisté, že budou dokonalé a že je lze obhájit proti každému, kdo by chtěl odporovat. A pamatuj, že každý bataillon je určitý počet a vyžaduje svůj náležitý šik {ordinanza}, jak najdeš v následujících kapitolách.
+poznamky:
+- n: 1
+  text: 'Pecco (lat. peccatum) – chyba, vada. Velkou figurální iniciálu H (vousatý muž v turbanu u sloupu) edice doplňuje do slova „HAVENDO“.'

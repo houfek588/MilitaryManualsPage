@@ -23,6 +23,10 @@ hesla:
   - artegliarie
   - artigliarie
   - artiglierie
+  - artellarie
+  - artellaria
+  - arteglierie
+  - arteglieria
   kategorie: delostrelectvo
   hledat:
   - \bdělostřelectv\w*
@@ -38,6 +42,8 @@ hesla:
   - pezzo di artegliaria
   - pezzo di artiglieria
   - pezzi di artegliaria
+  - pezo
+  - pezi
   kategorie: delostrelectvo
   hledat:
   - \bděl(o|a|u|em|ech|ům|y)\b
@@ -149,6 +155,10 @@ hesla:
   - scoppietti
   - schioppetto
   - schioppetti
+  - scopetti
+  - scoppetti
+  - scoppetto
+  - scopetto
   kategorie: zbrane
   hledat:
   - \bručnic\w*
@@ -179,6 +189,8 @@ hesla:
   - salnitro
   - salnitrio
   - salnitri
+  - Salmitro
+  - salmitro
   kategorie: delostrelectvo
   hledat:
   - \bledk\w*
@@ -189,6 +201,12 @@ hesla:
   - solfo
   - zolfo
   - solfere
+  - Sulphuro
+  - sulphure
+  - sulphuro
+  - sulfure
+  - Solfore
+  - solfore
   kategorie: delostrelectvo
   hledat:
   - \bsír(a|y|u|ou)\b
@@ -324,6 +342,10 @@ hesla:
   - fila
   - file
   - filo
+  - filara
+  - filaro
+  - filare
+  - filari
   kategorie: jednotky
   hledat: []
   pozn: Fila – řada mužů v šiku (řada / rota podle smyslu); Tartaglia počítá šiky jako čtverce a obdélníky.
@@ -335,6 +357,7 @@ hesla:
   - piccheri
   - picchieri
   - piche
+  - calare delle picche
   kategorie: jednotky
   hledat:
   - \bpikenýr\w*
@@ -345,6 +368,8 @@ hesla:
   - fanteria
   - fanti
   - fante
+  - Fantaria
+  - fantaria
   kategorie: jednotky
   hledat:
   - \bpěchot\w*
@@ -377,6 +402,9 @@ hesla:
   - capitani
   - capitanii
   - capitaneo
+  - capitano de Fantaria
+  - Capitano de fantarie
+  - capitano de fantaria
   kategorie: velitele
   hledat:
   - \bkapitán\w*
@@ -430,6 +458,9 @@ hesla:
   - città
   - citta
   - cittade
+  - Cita
+  - cita
+  - citade
   kategorie: opevneni
   hledat: []
 - id: opevneni
@@ -512,6 +543,9 @@ hesla:
   - cannonera
   - bombardera
   - bombardiera
+  - candonere
+  - candonera
+  - candoner
   kategorie: opevneni
   hledat:
   - \bstříln\w*
@@ -521,6 +555,10 @@ hesla:
   de:
   - fianco
   - fianchi
+  - per fianco
+  - per fiancho
+  - fianco dextro
+  - fianco sinistro
   kategorie: opevneni
   hledat: []
 - id: mina
@@ -542,6 +580,7 @@ hesla:
   - assedio
   - oppugnatione
   - batteria
+  - battaria
   kategorie: opevneni
   hledat:
   - \bobléh\w*
@@ -871,6 +910,8 @@ hesla:
   - sargente
   - Sargenti
   - sargenti
+  - sergenti
+  - sergente
   kategorie: velitele
   hledat:
   - \bšikovatel\w*
@@ -894,6 +935,8 @@ hesla:
   de:
   - forfice
   - forbice
+  - forfece
+  - forfici
   kategorie: jednotky
   hledat:
   - \bnůžk\w*
@@ -985,6 +1028,10 @@ hesla:
   - Schioppettero
   - schioppettero
   - schioppetteri
+  - scopetteri
+  - scoppetteri
+  - scopettero
+  - scoppettero
   kategorie: jednotky
   hledat:
   - \bručničář\w*
@@ -1201,9 +1248,7 @@ hesla:
   - \bvěží\b
 - id: plosina
   cs: plošina (dělová)
-  de:
-  - piazza
-  - piazze
+  de: []
   kategorie: opevneni
   hledat:
   - \bplošin\w*
@@ -1256,6 +1301,8 @@ hesla:
   - trincea
   - trincee
   - trinciera
+  - trenciere
+  - trencieri
   kategorie: opevneni
   hledat:
   - \bzákop(|u|y|ů|ech)\b
@@ -1288,6 +1335,8 @@ hesla:
   de:
   - spanna
   - spanne
+  - palmi
+  - palmo
   kategorie: miry
   hledat:
   - \bpíd(|i|ě|í|ích)\b
@@ -1407,6 +1456,8 @@ hesla:
   - huomini d'arme
   - homo d'arme
   - homini d'arme
+  - huomo darme
+  - huomini darme
   kategorie: jednotky
   hledat:
   - \bkyrysní\w*
@@ -1458,6 +1509,11 @@ hesla:
   - bandiere
   - insegna
   - insegne
+  - Bandera
+  - bandera
+  - Bandere
+  - bandere
+  - banderale
   kategorie: jednotky
   hledat:
   - \bprapor(|u|em|y|ů|ech)\b
@@ -1468,6 +1524,7 @@ hesla:
   - scale
   - schala
   - schale
+  - scalare
   kategorie: opevneni
   hledat:
   - \bžebří\w*
@@ -1518,6 +1575,8 @@ hesla:
   de:
   - disfida
   - disfide
+  - desfida
+  - desfide
   kategorie: pravo
   hledat:
   - \bvýzv\w*
@@ -1544,6 +1603,8 @@ hesla:
   de:
   - mentita
   - mentite
+  - mentire
+  - mentisse
   kategorie: pravo
   hledat:
   - \bobviněn\w* ze lži
@@ -1584,6 +1645,9 @@ hesla:
   de:
   - attore
   - prouocante
+  - actore
+  - desfidatore
+  - disfidatore
   kategorie: pravo
   hledat:
   - \bvyzyvatel\w*
@@ -1592,6 +1656,9 @@ hesla:
   de:
   - reo
   - prouocato
+  - desfidato
+  - desfidati
+  - rei
   kategorie: pravo
   hledat:
   - \bvyzvan\w*
@@ -1624,3 +1691,746 @@ hesla:
   hledat:
   - \bPandon\w*
   pozn: Enrico Pandone, hrabě z Venafra (zemř. 1528), jemuž je kniha věnována.
+- id: vojak
+  cs: voják
+  de:
+  - militi
+  - milite
+  - soldato
+  - soldati
+  - militanti
+  kategorie: jednotky
+  hledat: []
+  pozn: Milite – voják, válečník.
+- id: vojenstvi
+  cs: vojenství (válečné řemeslo)
+  de:
+  - militia
+  - militie
+  kategorie: jednotky
+  hledat:
+  - \bválečn\w* řemesl\w*
+  - \bvojenstv\w*
+- id: prostranstvi
+  cs: prostranství (v šiku)
+  de:
+  - piaza
+  - piazza
+  - piaze
+  kategorie: jednotky
+  hledat:
+  - \bprostranstv\w*
+  pozn: Piazza – volné místo uvnitř bataillonu, kde stojí prapor, střelci nebo zavazadla.
+- id: straz
+  cs: stráž
+  de:
+  - guardia
+  - guardie
+  kategorie: jednotky
+  hledat: []
+- id: obchuzka
+  cs: vrchní stráž (obchůzka)
+  de:
+  - sopra guardia
+  - sopra guardie
+  - sopraguardia
+  kategorie: jednotky
+  hledat:
+  - \bobchůz\w*
+  - \bvrchní\w* stráž\w*
+  pozn: Sopra guardia – obchůzka, která kontroluje stráže a ptá se jich na heslo.
+- id: heslo
+  cs: heslo (stráže)
+  de:
+  - nome
+  - nomi
+  - contrasegno
+  kategorie: jednotky
+  hledat: []
+  pozn: Nome – tajné heslo, které si stráže a obchůzky vyměňují.
+- id: lance-spezzate
+  cs: lance spezzate
+  de:
+  - lanze spezate
+  - lance spezzate
+  - lancie spezzate
+  - lanze spezzate
+  kategorie: jednotky
+  hledat:
+  - \blance spezzate
+  pozn: Doslova „zlomená kopí“ – vybraní vojáci bez stálého útvaru (často sesazení jezdci), osobní záloha velitele.
+- id: ctyruhelnik
+  cs: čtyřúhelník (šik)
+  de:
+  - quadrangolo
+  - quadrangoli
+  - quadrangulo
+  kategorie: jednotky
+  hledat:
+  - \bčtyřúhelník\w*
+- id: trojuhelnik
+  cs: trojúhelník (šik)
+  de:
+  - triangolo
+  - triangoli
+  - Triangolo
+  kategorie: jednotky
+  hledat:
+  - \btrojúhelník\w*
+- id: pulmesic
+  cs: půlměsíc (šik)
+  de:
+  - lunetta
+  - lunette
+  - meza luna
+  - meze lunette
+  kategorie: jednotky
+  hledat:
+  - \bpůlměsíc\w*
+  pozn: Lunetta – srpkovitě zahnutý šik nebo křídlo bataillonu.
+- id: kridlo
+  cs: křídlo (šiku)
+  de:
+  - ala
+  - ale
+  - alla
+  kategorie: jednotky
+  hledat:
+  - \bkřídl\w*
+  - \bkřídel\b
+- id: tyl
+  cs: týl (šiku)
+  de:
+  - schino
+  - schina
+  - SCHINO
+  kategorie: jednotky
+  hledat:
+  - \btýl\w*
+  pozn: Schino (záda) – zadní strana bataillonu; v obrazcích nápis SCHINO.
+- id: hrot
+  cs: hrot (šiku)
+  de:
+  - spicolo
+  - spigolo
+  kategorie: jednotky
+  hledat:
+  - \bhrot\w*
+- id: stir
+  cs: štír (šik)
+  de:
+  - scorpione
+  - scorpioni
+  kategorie: jednotky
+  hledat:
+  - \bštír\w*
+  pozn: Šik ve tvaru štíra s rameny vysunutými dopředu.
+- id: kos
+  cs: koš (gabion)
+  de:
+  - gabione
+  - gabioni
+  - cesta
+  - ceste
+  kategorie: opevneni
+  hledat:
+  - \bkoš(|e|ů|i|ích|ích)\b
+  - \bgabion\w*
+  pozn: Gabbione – proutěný koš plněný zeminou jako přenosná záštita děl a střelců.
+- id: zastita
+  cs: záštita (kryt)
+  de:
+  - riparo
+  - ripari
+  - reparo
+  - repari
+  - reparare
+  kategorie: opevneni
+  hledat:
+  - \bzáštit\w*
+  pozn: Riparo – narychlo zřízený kryt nebo náspy za průlomem.
+- id: kotva
+  cs: kotva (bašty)
+  de:
+  - chiaue
+  - chiaui
+  - chiave
+  kategorie: opevneni
+  hledat:
+  - \bkotv\w*
+  pozn: Chiave – trám nebo klín, který spojuje dřevěnou kostru hliněné bašty.
+- id: stroj
+  cs: stroj (model)
+  de:
+  - modello
+  - modelli
+  kategorie: opevneni
+  hledat:
+  - \bstroj\w*
+  pozn: Modello – Della Valle tak nazývá své útočné a mostní stroje (vyobrazené dřevořezem).
+- id: smes
+  cs: zápalná směs
+  de:
+  - mistura
+  - misture
+  - compositione
+  - mestura
+  kategorie: delostrelectvo
+  hledat:
+  - \bsměs\w*
+- id: terpentyn
+  cs: terpentýn
+  de:
+  - trementina
+  - Trementina
+  kategorie: delostrelectvo
+  hledat:
+  - \bterpentýn\w*
+- id: kafr
+  cs: kafr
+  de:
+  - Camphora
+  - camphora
+  - canfora
+  kategorie: delostrelectvo
+  hledat:
+  - \bkafr\w*
+- id: mudrcovska-hlina
+  cs: mudrcovská hlína
+  de:
+  - lota sapientia
+  - luto sapientiae
+  - lota sapientie
+  kategorie: delostrelectvo
+  hledat:
+  - \bmudrcovsk\w* hlín\w*
+  pozn: Lutum sapientiae – alchymistická jílová směs k utěsnění nádob.
+- id: palenka
+  cs: pálenka
+  de:
+  - aqua uita
+  - aqua uite
+  - aqua vita
+  - acqua uita
+  - acqua de uita
+  kategorie: delostrelectvo
+  hledat:
+  - \bpálenk\w*
+- id: doutnak
+  cs: doutnák
+  de:
+  - stoppino
+  - stoppini
+  - stopino
+  - miccia
+  kategorie: delostrelectvo
+  hledat:
+  - \bdoutnák\w*
+  - \bknot\w*
+- id: hodiny
+  cs: hodiny
+  de:
+  - arlogio
+  - Arlogio
+  - horologio
+  - orologio
+  kategorie: mereni
+  hledat:
+  - \bhodin(y|ách|ami)\b
+  pozn: Della Valle popisuje vodní hodiny pro měření hlídek.
+- id: zradce
+  cs: zrádce (obvinění ze zrady)
+  de:
+  - traditore
+  - traditori
+  - tradimento
+  kategorie: pravo
+  hledat:
+  - \bzrád\w*
+- id: urazka
+  cs: urážka
+  de:
+  - iniuria
+  - iniurie
+  - ingiuria
+  - offesa
+  kategorie: pravo
+  hledat:
+  - \burážk\w*
+- id: spor
+  cs: spor (rozepře)
+  de:
+  - querela
+  - querele
+  - lite
+  - liti
+  kategorie: pravo
+  hledat:
+  - \bspor(|u|y|ů|em)\b
+- id: donasec
+  cs: donašeč
+  de:
+  - reportatore
+  - reportatori
+  - relatore
+  kategorie: pravo
+  hledat:
+  - \bdonašeč\w*
+  pozn: Reportatore – kdo vynáší cizí slova; Della Valle řeší, kdy lze donašeči obvinit ze lži.
+- id: vymalovani
+  cs: potupné vymalování
+  de:
+  - depingere
+  - pingere
+  - dipingere
+  kategorie: pravo
+  hledat:
+  - \bvymal\w*
+  - \bna hanbu
+  pozn: Pingere – namalovat nepřítele potupně (hlavou dolů) a vystavit obraz, když se nedostaví k souboji.
+- id: ucenost
+  cs: učenost (litery)
+  de:
+  - litere
+  - littere
+  - lettere
+  - literati
+  - Literati
+  kategorie: pravo
+  hledat:
+  - \bučenost\w*
+  pozn: Spor, zda má přednost vojenství, nebo učenost (Kniha IV).
+- id: plovaci-pas
+  cs: plovací pás
+  de:
+  - centura
+  - cintura
+  kategorie: zbrane
+  hledat:
+  - \bplovac\w* pás\w*
+- id: rytir
+  cs: rytíř
+  de:
+  - caualiero
+  - caualieri
+  - Caualiero
+  - caualier
+  kategorie: pravo
+  hledat:
+  - \brytí\w*
+  pozn: Cavaliero – rytíř, urozený voják; Kniha IV je psána pro souboje rytířů.
+- id: zbabelec
+  cs: zbabělec
+  de:
+  - poltrone
+  - poltroni
+  - poltronaria
+  - codardo
+  - uilita
+  kategorie: pravo
+  hledat:
+  - \bzbaběl\w*
+  pozn: Poltrone – zbabělec; urážka, která volá po souboji.
+- id: na-smrt
+  cs: na smrt (do posledního)
+  de:
+  - ad tutta oltranza
+  - a tutta oltranza
+  - ad oltranza
+  kategorie: pravo
+  hledat:
+  - \bna smrt\b
+  pozn: A tutta oltranza – souboj, který končí až smrtí nebo vzdáním jednoho z bojovníků.
+- id: zajatec
+  cs: zajatec
+  de:
+  - presone
+  - presoni
+  - pregione
+  - prigione
+  kategorie: pravo
+  hledat:
+  - \bzajat\w*
+- id: hlidka
+  cs: hlídka
+  de:
+  - scolta
+  - scolte
+  - ascolta
+  kategorie: jednotky
+  hledat:
+  - \bhlídk\w*
+- id: fasina
+  cs: fašina
+  de:
+  - fascine
+  - fascina
+  - fassine
+  kategorie: opevneni
+  hledat:
+  - \bfašin\w*
+- id: ohnivy-hrnec
+  cs: ohnivý hrnec
+  de:
+  - pignata
+  - pignate
+  - pignato
+  - pignatelle
+  - pignatella
+  kategorie: delostrelectvo
+  hledat:
+  - \bhrn(ec|ce|ců|ečk)\w*
+  pozn: Pignatta – hliněný hrnec se zápalnou směsí, který se hází na nepřítele.
+- id: sekera
+  cs: sekera
+  de:
+  - cetta
+  - cette
+  - accetta
+  - accette
+  kategorie: zbrane
+  hledat:
+  - \bseker\w*
+- id: ohnivy-stit
+  cs: ohnivý štít
+  de:
+  - rotella de fuoco
+  - rotelle de fuoco
+  - rotella
+  - rotelle
+  kategorie: delostrelectvo
+  hledat:
+  - \bohniv\w* štít\w*
+  pozn: Rotella – kulatý štít obložený zápalnou směsí, kterým se odráží útok na hradbách.
+- id: ohniva-koule
+  cs: ohnivá koule
+  de:
+  - balla de fuoco
+  - balle de fuoco
+  - palla de fuoco
+  kategorie: delostrelectvo
+  hledat:
+  - \bohniv\w* koul\w*
+- id: horici-snura
+  cs: hořící šňůra
+  de:
+  - corda
+  - corde
+  kategorie: delostrelectvo
+  hledat:
+  - \bhořící\w* šňůr\w*
+  pozn: Corda – doutnající šňůra (zápalná); odlišná od doutnáku (stoppino) v hrnci či kouli.
+- id: pochoden
+  cs: pochodeň
+  de:
+  - torza
+  - torze
+  - torcia
+  - torce
+  kategorie: delostrelectvo
+  hledat:
+  - \bpochod(eň|ně|ní|němi)\b
+- id: raketa
+  cs: raketa
+  de:
+  - razo
+  - razi
+  - raggio
+  kategorie: delostrelectvo
+  hledat:
+  - \braket\w*
+- id: kolecko-zamek
+  cs: kolečkový zámek
+  de:
+  - chiauetta ad rotelle
+  - chiauetta a rotella
+  kategorie: zbrane
+  hledat:
+  - \bkolečkov\w* zám\w*
+  pozn: Zámek palné zbraně, v němž ocelové kolečko křeše jiskry o pyrit.
+- id: hlaska
+  cs: hláska (předsunutá hlídka)
+  de:
+  - uedetta
+  - uedette
+  - vedetta
+  - vedette
+  kategorie: jednotky
+  hledat:
+  - \bhlásk\w*
+- id: zaloha
+  cs: záloha (léčka)
+  de:
+  - imboscata
+  - imboscate
+  - aguato
+  kategorie: jednotky
+  hledat:
+  - \bzáloh\w*
+  - \bléčk\w*
+- id: sarvatka
+  cs: šarvátka
+  de:
+  - scaramuza
+  - scaramuze
+  - scaramuccia
+  - scaramuccie
+  kategorie: jednotky
+  hledat:
+  - \bšarvát\w*
+- id: zold
+  cs: žold
+  de:
+  - stipendio
+  - stipendii
+  - paga
+  - paghe
+  kategorie: jednotky
+  hledat:
+  - \bžold\w*
+- id: beranidlo
+  cs: beranidlo
+  de:
+  - ariete
+  - arieti
+  - montone
+  kategorie: opevneni
+  hledat:
+  - \bberanid\w*
+- id: tajna-branka
+  cs: tajná branka
+  de:
+  - porta falsa
+  - porte false
+  kategorie: opevneni
+  hledat:
+  - \btajn\w* brank\w*
+- id: mech
+  cs: měch
+  de:
+  - mantice
+  - mantici
+  kategorie: opevneni
+  hledat:
+  - \bměch\w*
+- id: komora-miny
+  cs: komora miny
+  de:
+  - tomba
+  - tombe
+  kategorie: opevneni
+  hledat:
+  - \bkomor\w* min\w*
+- id: kryty-most
+  cs: krytý most
+  de:
+  - ponte coperto
+  - ponti coperti
+  kategorie: opevneni
+  hledat:
+  - \bkryt\w* most\w*
+- id: lhar
+  cs: lhář
+  de:
+  - busardo
+  - bosardo
+  - bugiardo
+  - busardi
+  kategorie: pravo
+  hledat:
+  - \blhář\w*
+- id: zadostiucineni
+  cs: zadostiučinění
+  de:
+  - satisfattione
+  - satisfactione
+  - satisfatione
+  kategorie: pravo
+  hledat:
+  - \bzadostiučiněn\w*
+- id: listina
+  cs: listina (zápis o souboji)
+  de:
+  - instrumento
+  - instrumenti
+  kategorie: pravo
+  hledat:
+  - \blistin\w*
+- id: zastupce
+  cs: zástupce (v souboji)
+  de:
+  - campione
+  - campioni
+  kategorie: pravo
+  hledat:
+  - \bzástupc\w*
+  - \bzástupce\b
+  pozn: Campione – kdo bojuje v souboji za jiného (např. za ženu, starce nebo kněze).
+- id: nareceni
+  cs: nařčení (hanba)
+  de:
+  - taccia
+  - taccie
+  - carrico
+  - carico
+  - pecco
+  kategorie: pravo
+  hledat:
+  - \bnařčen\w*
+- id: bezpecny-pruvod
+  cs: bezpečný průvod
+  de:
+  - saluo condutto
+  - saluocondutto
+  - saluaguardia
+  kategorie: pravo
+  hledat:
+  - \bbezpečn\w* průvod\w*
+- id: strana-siku
+  cs: strana (šiku)
+  de:
+  - faze
+  - facie
+  - faccia
+  - faccie
+  kategorie: jednotky
+  hledat: []
+- id: rozclenit
+  cs: rozčlenění (šiku)
+  de:
+  - smembrare
+  - smembra
+  - smembrato
+  kategorie: jednotky
+  hledat:
+  - \brozčlen\w*
+  - \boddělit\b
+  pozn: Smembrare – rozdělit bataillon na části, aby mohl projít úžinou nebo změnit tvar.
+- id: zahrazeny-bataillon
+  cs: zahrazený bataillon
+  de:
+  - battaglione sbarrato
+  - sbarrato
+  kategorie: jednotky
+  hledat:
+  - \bzahrazen\w* bataillon\w*
+- id: kukla
+  cs: potápěčská kukla
+  de:
+  - pappafico
+  - papafico
+  kategorie: zbrane
+  hledat:
+  - \bkukl\w*
+  pozn: Pappafico – kožená kukla se sklem a dýchací troubou na potápění (kniha III, kap. XXXVII).
+- id: korek
+  cs: korek
+  de:
+  - suro
+  - sughero
+  kategorie: zbrane
+  hledat:
+  - \bkor(ek|ku|kem|kový)\w*
+- id: buben
+  cs: buben
+  de:
+  - tamburro
+  - tamburri
+  - tamburo
+  kategorie: jednotky
+  hledat:
+  - \bbub(en|nu|nem|ny|nů)\b
+- id: dyka
+  cs: dýka
+  de:
+  - daga
+  - daghe
+  - pugnale
+  kategorie: zbrane
+  hledat:
+  - \bdýk\w*
+- id: recka-smola
+  cs: řecká smola
+  de:
+  - peza greca
+  - pece greca
+  kategorie: delostrelectvo
+  hledat:
+  - \břeck\w* smol\w*
+  pozn: Kalafuna – přísada zápalných směsí.
+- id: kamenny-olej
+  cs: kamenný olej
+  de:
+  - Oglio de sasso
+  - oglio de sasso
+  - olio di sasso
+  kategorie: delostrelectvo
+  hledat:
+  - \bkamenn\w* olej\w*
+  pozn: Petroleum – nafta z povrchových výronů, přísada zápalných směsí.
+- id: policek
+  cs: políček
+  de:
+  - boffetto
+  - boffetti
+  - guanciata
+  - sguanzata
+  - schiaffo
+  kategorie: pravo
+  hledat:
+  - \bpolíč\w*
+  pozn: Políček – urážka, po které má uražený právo vyzvat k souboji.
+- id: darebak
+  cs: darebák
+  de:
+  - tristo
+  - tristi
+  kategorie: pravo
+  hledat:
+  - \bdarebá\w*
+- id: herold
+  cs: herold
+  de:
+  - araldo
+  - araldi
+  - herald
+  kategorie: pravo
+  hledat:
+  - \bherold\w*
+- id: rukavice
+  cs: rukavice (výzva)
+  de:
+  - guanto
+  - guanti
+  kategorie: pravo
+  hledat:
+  - \brukavic\w*
+- id: zneuziti-prevahy
+  cs: zneužití převahy
+  de:
+  - superchiaria
+  - soperchiaria
+  - superchiarie
+  kategorie: pravo
+  hledat:
+  - \bzneužit\w* převah\w*
+  pozn: Superchiaria – nečestná převaha (přesila, výhoda zbraní), která zbavuje vítězství cti.
+- id: volba-zbrani
+  cs: volba zbraní
+  de:
+  - actione delle arme
+  - electione delle arme
+  - elettione delle arme
+  kategorie: pravo
+  hledat:
+  - \bvolb\w* zbraní
+  pozn: Právo zvolit zbraně příslušelo vyzvanému.
+- id: celedin
+  cs: čeledín (sakoman)
+  de:
+  - saccomanno
+  - saccomanni
+  kategorie: jednotky
+  hledat:
+  - \bčeledín\w*
+  - \bsakoman\w*

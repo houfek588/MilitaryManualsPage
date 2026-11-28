@@ -2,6 +2,18 @@ id: 022r
 list: '22'
 strana: recto
 sken: 63
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: MODO DI FARE TRENCIERI, ET GABIONI. CAPITOLO TERZO.
+  cs: Jak dělat zákopy a koše. Kapitola třetí.
+- typ: odstavec
+  de: |-
+    MOdo de fare trencieri cauati ad modo de fossa ad cubiti cioe ad uolte, & con epsi accostarse ala muraglia, & condure le artellarie per fare la battaglia, e da notare che ad ciascuna uolta ce bibisogna uno gabione pieno di terra acio che non ui possi offendere nel menar le artellarie.
+  cs: |-
+    [Toto je] způsob, jak dělat zákopy {trencieri} vykopané jako příkop, se zalomeními {cubiti}, totiž se zatáčkami, jak se jimi přiblížit k hradbě {muraglia} a přivézt děla {artellarie} k útoku[^1]. Je třeba poznamenat, že u každé zatáčky je potřeba koš {gabione} plný zeminy, aby vás [obránci] nemohli zranit, když přisunujete děla.
+poznamky:
+- n: 1
+  text: '„per fare la battaglia“ – k útoku na hradbu (srov. [[021r|21 r]]). Vyobrazení je na protější straně [[021v|21 v]]. „bibisogna“ – v tisku zdvojená slabika při dělení slova (bi-|bisogna). Zbytek strany je v tisku prázdný.'

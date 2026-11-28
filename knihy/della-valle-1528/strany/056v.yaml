@@ -2,6 +2,26 @@ id: 056v
 list: '56'
 strana: verso
 sken: 132
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE DOI CHE VENERO IN DESFIDA. El primo scriue uolere mantenere alchune loro differentie, laltro ad respondere ancho di uolere far buono, chi e lo desfidato de lor doi. Capi. VIII.
+  cs: |-
+    O dvou, kteří došli k výzvě: první píše, že chce hájit jisté jejich spory, druhý odpovídá, že tomu chce také dostát – kdo z nich dvou je vyzvaný. Kapitola VIII.
+- typ: odstavec
+  de: |-
+    SEran doi in querela de combattere alchune loro pertinentie, & quello quale se persuade essere leso, manda lo Araldo con litere de disfida dicendo li uolerli combattere, o uero mantenere con le arme in mano de tale & tale querele, & laltro a respondere se ua aspettando con lo suo modo, & cosi tra laltre uscira como corriuo, o poco sauio, che acceptara o negara dicendo che le per farlo buono anchora lui. Se moue el dubio quale de loro e actore, & quale conuiene dare el campo, & chi le arme. Alchuno che la causa moue lo affecto tanto piu per primo & obstinato & aperto ad scriuere uolere combattere, & uoler mantenere quelle che dice, se potria dire essere lo primo actore, & tanto piu che e prohibito ad militi magnanimi mancare ad quello che prometteno, & togli lo exempio antiquamente da Romani, che quelli erano nobili militanti che iurauano obseruare quello fossero tenuti, & non mancando ala militia, adoncha il primo guanto, & primo obligo annulla li futuri Se responde che qual se uoglia che dice uoler mantenere desfida, resolutamente per dirlo depoi le pur detto, & io tel presto conuiene tu farlo, tanto piu che io tel uo dare, & tu nol uoi, & uolendo monstrare maggior animo che quello che da altro poi
+  cs: |-
+    Jsou-li dva ve sporu {querela}, že se budou bít o nějaké své záležitosti, a ten, kdo je přesvědčen, že byl dotčen, pošle herolda {Araldo} s výzvou {disfida} a píše v ní, že se s ním chce bít čili hájit se zbraní v ruce ten a ten spor, a druhý si s odpovědí dává načas po svém, a tak mezi jiným vyjde najevo jako ukvapený či málo rozvážný, když přijme nebo popře a řekne, že i on je připraven tomu dostát – vzniká pochybnost, kdo z nich je vyzyvatel {actore}, kdo má dát kolbiště a kdo [volí] zbraně.[^1] Někteří [říkají], že ten, koho věc rozněcuje víc, protože byl první, zatvrzelý a otevřený, když napsal, že se chce bít a hájit, co říká, by se mohl nazvat prvním vyzyvatelem; tím spíše, že velkodušným vojákům {militi} je zapovězeno nedostát tomu, co slibují. A vezmi si příklad ze starých Římanů: ti byli urozenými vojáky, kteří přísahali dodržet, k čemu byli zavázáni, a vojenství se nezpronevěřili. Tedy první rukavice {guanto}[^2] a první závazek ruší ty pozdější. Odpovídá se, že kdokoli řekne, že chce hájit, vyzývá,[^3] a to rozhodně, protože to říká poté, co už to bylo řečeno: „Já ti to propůjčuji, musíš to udělat ty – tím spíš, že ti to chci dát, a ty to nechceš.“ A chceš-li ukázat větší odvahu, než jakou můžeš
+poznamky:
+- n: 1
+  text: |-
+    Podle soubojových zvyklostí dával vyzvaný (reo) kolbiště (campo) a volil zbraně; v kapitolách VII–VIII jde proto o to, kdo je vyzyvatel (actore) a kdo vyzvaný. „Corriuo“ – ukvapený, lehkověrný.
+- n: 2
+  text: Hozená rukavice (guanto) byla znamením výzvy k souboji; její přijetí zavazovalo k boji.
+- n: 3
+  text: |-
+    Tisk má „desfida“ – vyzývá. Překladatel zvažoval čtení „[je] desfida[to]“ (je vyzván) podle kapitoly VII, edice však ponechává doslovné znění: autor tu podle všeho řeší jiný případ než v kap. VII – kdo své „chci tomu dostát“ prohlásí až v odpovědi na cizí prohlášení, ujímá se úlohy vyzyvatele (srov. na další straně „poslední vůle platí stejně jako první závazek“). Výklad zůstává nejistý. Pod textem stojí kustoda „uere,“ (dokončení slova „hauere“ na další straně).

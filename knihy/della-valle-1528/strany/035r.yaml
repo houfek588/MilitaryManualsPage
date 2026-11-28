@@ -2,6 +2,29 @@ id: 035r
 list: '35'
 strana: recto
 sken: 89
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: B.26. Picche.550. o.7.5.21.15.21, Scopetti.121. Bandere & lanze spezate.
+  cs: B.26. 550 pikenýrů {Picche}. o.7.5.21.15.21. Ručničářů {Scopetti} 121. Prapory {Bandere} a lance spezzate {lanze spezate}.[^1]
+- typ: obrazek
+  soubor: drevorez-89.jpg
+  popis: |-
+    Bataillon 550 pikenýrů s křídlem (ke kapitole XI), sázený z písmen. Hlavní čtverec má 21 řad po 21 mužích (včetně horní řady „dodo…“); nahoře nápis Fronte – čelo a podél levého okraje svisle FRONTE. První řadu tvoří střídavě „d“ a „o“ (pikenýři a ručničáři), ostatní řady písmena „d“. Uprostřed horní poloviny je prázdné prostranství (6 řad × 7 mužů) s nápisem „Bandere & Lanze spezate“ – prapory a lance spezzate. Na pravém dolním rohu je připojeno šikmo vybočené křídlo (rameno) z asi sedmi řad po sedmi „d“, lemované ručničáři „o“, které se vějířovitě stáčí vzhůru doprava – „ala“, jež má podle textu vyrazit do šířky a udeřit nepříteli do boku.
+- typ: nadpis
+  uroven: 2
+  de: Battaglione de.550.picche. Capitolo. xi.
+  cs: Bataillon o 550 pikách. Kapitola XI.
+- typ: odstavec
+  de: |-
+    E Da notare chel presente battaglione de.550.picche se departe & smembra & vnisse como e ditto de questo de.400. auanti. Uero che e da hauere intendimento che questa ala deue stare qua distesa dritto & non appare como se uede fin che non sono appizati & questo brazo ha da dare per largo & dare per fiancho dello inimico & perche non e auantagio a questa mano: atteso che lo inimico se para con la spalla sinistra & gamba & cosi mostra tutto el fianco a questa ala: quale e da pensare che habia tanta uirtu de dare principio & fine & materia de sbarattare lo battaglione contrario.
+  cs: |-
+    Je třeba poznamenat, že tento bataillon {battaglione} o 550 pikách {picche} se rozdělí, rozčlení a spojí tak, jak bylo výše řečeno o tom o 400 pikách. Ovšem je třeba rozumět tomu, že toto křídlo {ala} má stát zde rovně natažené a není vidět tak, jak je zobrazeno, dokud [vojska] nejsou v boji {appizati}[^2]; a toto rameno má vyrazit do šířky a udeřit nepříteli do boku {per fiancho}. A [stojí] na této ruce proto, že tu [nepřítel] nemá výhodu: nepřítel se totiž kryje levým ramenem a nohou, a tak ukazuje tomuto křídlu celý bok. Lze tedy soudit, že [křídlo] má takovou sílu, že dá začátek i konec a příležitost k rozprášení nepřátelského bataillonu.[^3]
+poznamky:
+- n: 1
+  text: 'Šifra (srov. [[050r|list 50 r]]): B.26 = prapor v 26. řadě; o.7 = šik po sedmi; rozdělení na 21, 15 a 21 řad (7 × 57 = 399 mužů, zbytek do 550 připadá patrně na křídlo); k 550 pikenýrům patří 121 ručničářů. Druhá „5“ stojí na místě písmene p. (partire – rozdělit).'
+- n: 2
+  text: '„Appizati“ – patrně „appiccati“ (zaklesnutí, v boji zblízka; srov. appiccare la battaglia – svést bitvu); křídlo se z bataillonu vysune teprve ve chvíli srážky.'
+- n: 3
+  text: 'Celý výklad kapitoly XI je jako na [[050r|listu 50 r]] sázen gotickým písmem (rotundou) s množstvím zkratek; zkratky jsou v přepisu rozepsány (q̃sta → questa, nõ → non, ꝑ → per, ⁊ → &).'

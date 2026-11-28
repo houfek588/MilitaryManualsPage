@@ -2,7 +2,7 @@ id: u001v
 list: '[1] v'
 strana: verso
 sken: 6
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: verse
@@ -16,13 +16,13 @@ bloky:
   - Per dar ne larme (al bon soldato) lume
   - Et adottarlo al martial costume.
   cs:
-  - Touží-li srdce smělé získat sobě
-  - ve válečném umění čest znamenitou
-  - a slávu svých činů vznést až
+  - Touží-li srdce smělé dobýt si
+  - ve válečném umění čest přeslavnou
+  - a nechat slávu svých činů vzlétnout
   - do pátého nebe, k sídlu válečnému,[^1]
-  - ať čte tuto knížku, jež se jmenuje
-  - VAL a stojí za každý poklad i cenu,[^2]
-  - aby (dobrému vojákovi) ve zbrani dala světlo
+  - ať čte tuto knížku, jež se nazývá
+  - VAL a vyváží každý poklad i cenu,[^2]
+  - aby (dobrému vojákovi) ve zbrani svítila
   - a přivykla ho válečnému mravu.
 poznamky:
 - n: 1

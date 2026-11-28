@@ -2,6 +2,26 @@ id: 010v
 list: '10'
 strana: verso
 sken: 40
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    sale non pista.
+  cs: |-
+    netlučené soli.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    AD DEFENDERE CON PALle di fuoco. Capitolo. XV.
+  cs: |-
+    Jak bránit ohnivými koulemi. Kapitola XV.
+- typ: odstavec
+  de: |-
+    ET piu son sforzato ad prieghieri de populi dare piu altri modi di fuoco per ben defendere lor Muraglie, & bastioni, & ripari ad lor bisogno dico che per fare alcuna quantita de palle di fuoco utilissime per trare con artellarie, & anchora con mano, bisogna fare a questo modo la mistura, habbi parte cinque de poluere de artellaria grossa, parte tre de Salmitro refinato, parte doa de Solfore, parte una de Rasapina, parte meza de Camphora, parte meza de Trementina, parte meza de Vitro pisto, non troppo, parte meza de Sal commune, parte meza de Oglio de sasso & Oglio de lino ana cioe equale parte, et parte meza de aqua uita, & tutte queste cose mescolando insieme molto ben forte, dapoi piglia una peza de tela quanto uoi fare la palla, & falla ad modo duna borsa, & impila de ditta mistura & poi farai uno buso con uno ferro tondo uno poco grosseto piu di uno pontale, & farne doi, o tre secondo parera & alli ditti busi metterai uno bastonetto. E da notare che la ditta mistura si puo fare anchora al fuoco cioe in uno caldaro, & fare una borsetta da poluere grossa, & poi inuoltala piu, & piu uolte con la mistura mescolandola, facendoli alcuna uesta di stoppa, & cossi facendo de la ditta palla impiastrando con stoppa di caneuo, & farai doi o tre coperte ala ditta palla da poi che sera uno poco secca caua gli ditti bastonetti dalli busi & impili di poluere di artellaria de mezo de
+  cs: |-
+    Dále jsem na prosby lidu nucen podat ještě další ohňové způsoby, jak dobře bránit jejich hradby {Muraglie}, bašty {bastioni} a záštity {ripari}, jak potřebují. Říkám, že chceš-li udělat nějaké množství ohnivých koulí {palle di fuoco}, velmi užitečných ke střelbě z děl {artellarie} i k házení rukou, je třeba připravit směs {mistura} tímto způsobem. Vezmi pět dílů hrubého dělového prachu {poluere}, tři díly přečištěného ledku {Salmitro}, dva díly síry {Solfore}, jeden díl borové pryskyřice {Rasapina}, půl dílu kafru {Camphora}, půl dílu terpentýnu {Trementina}, půl dílu tlučeného skla – ne příliš [jemně] –, půl dílu obecné soli, půl dílu kamenného oleje {Oglio de sasso}[^1] a lněného oleje, od každého stejně {ana}, to jest stejný díl, a půl dílu pálenky {aqua uita}; a všechny tyto věci velmi důkladně smíchej. Potom vezmi kus plátna tak velký, jak velkou chceš kouli mít, udělej z něj jakoby měšec a naplň ho touto směsí. Pak železným kulatým trnem, o něco tlustším než hrot, udělej otvor, a to dva nebo tři, jak se bude zdát [vhodné], a do těch otvorů vstrč tyčinku. Je třeba poznamenat, že tuto směs lze připravit také na ohni, totiž v kotli; a udělat měšeček s hrubým prachem a pak ho znovu a znovu obalovat směsí, promíchávat ji a dělat mu jakýsi kabátek z koudele; a tak tu kouli obmazávat konopnou koudelí a udělat té kouli dva nebo tři obaly. Když bude trochu suchá, vytáhni ty tyčinky z otvorů a naplň je dělovým prachem středního zrna,
+poznamky:
+- n: 1
+  text: Oglio de sasso (oleum petrae) – kamenný olej, tj. ropa (petrolej) ze zemních vývěrů.

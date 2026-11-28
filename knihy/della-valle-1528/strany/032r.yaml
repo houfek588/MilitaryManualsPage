@@ -2,6 +2,18 @@ id: 032r
 list: '32'
 strana: recto
 sken: 83
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: |-
+    E Da notare per fare el preditto battaglione de ducento picche, bisogna mettere ad ordinanza ad cinque, & la bandiera con le soe lanze spezate ad diece, noue filara, & departili cosi, conta insino a quatordece filara, & metti doi filara de scoppetteri, & poi conta ad diece filara de picche senza gli fili delle lanze spezate, & bandiere diece altre. Et poi ad quattordece altre filare, et metti doi altri filara de scoppetti, che uoleno essere dieci scoppetti. Et piu hai da notare .13. scoppetti ad uno, ad uno per lo fianco dextro, comenzando da capo che ueneranno al primo partimento delle doe filara che mettesti prima & poi metterai tredece altri scoppetteri per lo fianco sinistro da piedi si come mettesti da capo al fianco dextro dellordinanza. Et notta che auanzara doi filara de picche, quale le collocarai intorno della piaza, doue son le lanze spezate con la bandera, & poi smembra le quattordece filara doue son li doi primi filara de scoppetti, & uno lascia, & laltro piglia delli scoppetteri, & tira per fianco ala testa. Et poi piglia doue son le altre doi filara de scoppetti uno lascia & laltro piglia, & tira ala testa, & cosi uenera in quadro & in spicolo, come qui alincontro appare. Et nota che li quattordece scoppetteri uenne con lordenanza come se demostra intorno alincontro battaglione.
+  cs: |-
+    Je třeba poznamenat, že chceš-li postavit předřečený bataillon {battaglione} o dvou stech pikách {picche}, musíš je seřadit do šiku {ordinanza} po pěti a prapor {bandiera} s jeho lance spezzate {lanze spezate} do devatenácté řady {filara}[^1]. A rozděl je takto: odpočítej čtrnáct řad a postav [za ně] dvě řady ručničářů {scoppetteri}; potom odpočítej deset řad pikenýrů, nepočítaje řady lance spezzate a praporu, tedy deset dalších [řad]. Potom [odpočítej] dalších čtrnáct řad a postav [za ně] další dvě řady ručničářů, což má být deset ručničářů. A dále si pamatuj [postavit] 13 ručničářů jednoho po druhém podél pravého boku {fianco}, počínaje od hlavy, takže dojdou k prvnímu oddílu dvou řad, které jsi postavil předtím; potom postavíš třináct dalších ručničářů podél levého boku od paty [šiku], tak jako jsi je postavil od hlavy na pravý bok šiku. A pamatuj, že přebudou dvě řady pikenýrů; ty rozestavíš kolem prostranství {piaza}, kde stojí lance spezzate s praporem. Potom odděl {smembra} čtrnáct řad tam, kde jsou první dvě řady ručničářů: jednu [řadu] ručničářů nech a druhou vezmi a táhni [ji] podél boku k hlavě. Potom [jdi] tam, kde jsou další dvě řady ručničářů, jednu nech a druhou vezmi a táhni k hlavě. A tak [bataillon] vyjde do čtverce a na hrot {in spicolo}[^2], jak je vidět na protější straně. A pamatuj, že čtrnáct ručničářů přišlo se šikem, jak je ukázáno kolem bataillonu na protější straně.[^3]
+poznamky:
+- n: 1
+  text: '„Ad diece, noue filara“ – čárka v tisku rozděluje číslovku „diecenove“ (devatenáct); šifra nad obrazcem na protější straně má „B.19“ – prapor v devatenácté řadě.'
+- n: 2
+  text: '„In spicolo“ (spigolo – hrana, roh) – bataillon postavený rohem napřed, tedy jako kosočtverec, jak ukazuje obrazec na [[031v|listu 31 v]].'
+- n: 3
+  text: 'Kontrola počtů: 5 × (14 + 10 + 14) = 190 pikenýrů v řadách + 2 přebývající řady (10) = 200. Ručničářů je v textu 2 × 10 v řadách a 2 × 13 po bocích, celkem 46; „čtrnáct ručničářů“ v poslední větě s těmito čísly nesouhlasí a smysl věty je nejasný.'

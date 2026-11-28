@@ -2,6 +2,22 @@ id: 037v
 list: '37'
 strana: verso
 sken: 94
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    smembra & metti per fiancho che sarano tre smembra & fa laltro quadro che sarano quatro como e per auanti, et in mezo metterite le Bandere, et artellarie et habiate intendimento de calare le picche, che luno guarda laltro lo schino mettendo li scoppetti como se demostra per auanti.
+  cs: |-
+    odděl [další část] a postav ji po boku {per fiancho}, takže budou tři; odděl a udělej poslední čtverec {quadro}, takže budou čtyři, jak je [vyobrazeno] na předchozí straně. Doprostřed postavíte prapory {Bandere} a dělostřelectvo {artellarie} a pamatujte na sklápění pík {calare le picche}, tak aby jeden [čtverec] kryl druhému týl {schino}; ručničáře {scoppetti} postavte, jak je ukázáno na předchozí straně.
+- typ: odstavec
+  de: B.25. o.6.5.25. Picche.300.
+  cs: B.25. o.6.5.25. 300 pikenýrů {Picche}.[^1]
+- typ: obrazek
+  soubor: drevorez-94.jpg
+  popis: |-
+    Bataillon tří set pikenýrů „o dvou půlměsících“ (ke [[038r|kapitole XV]]), sázený z písmen. Uprostřed malý čtverec asi sedmi řad písmen „p“ (lance spezzate) kolem praporu „B“, po obou bocích lemovaný řadami „d“ a „o“ s nápisem ·FRONTE· – čelo (svisle vlevo i vpravo). Nad ním a pod ním je po jednom půlměsíci (lunetě): oblouk ze šesti řad pikenýrů sázených paprsčitě, s vnějším okrajem z ručničářů „o“ (řady „dodo…“, „PoPo…“) a s nápisem ·FRONTE· uprostřed vnějšího oblouku; konce rohů obou půlměsíců mají vlastní nápis ·FRONTE· (nahoře vlevo a vpravo, dole vlevo a vpravo). Celek tak připomíná písmeno X nebo dvě proti sobě obrácené misky, čelem na všechny strany.
+poznamky:
+- n: 1
+  text: 'Šifra (srov. [[050r|list 50 r]]): B.25 = prapor ve 25. řadě; o.6 = šik po šesti, jak předepisuje text kapitoly XV na protější straně; 25 = rozdělení po 25 řadách (na každý půlměsíc). Kontrola: 6 × 50 řad = 300, tj. dva půlměsíce po 150. Druhá „5“ stojí na místě písmene p. (partire – rozdělit).'

@@ -2,6 +2,16 @@ id: 035v
 list: '35'
 strana: verso
 sken: 90
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: o.8.5.3.5.56.
+  cs: o.8.5.3.5.56.[^1]
+- typ: obrazek
+  soubor: drevorez-90.jpg
+  popis: |-
+    Velký bataillon ve tvaru kříže (ke [[036r|kapitole XII]] o bataillonu čtyř, šesti nebo deseti tisíc pikenýrů), sázený z písmen přes celou stranu. Střed tvoří svislé rameno – dutý obdélník lemovaný ručničáři („dodo…“, „PoPo…“), v jehož horní a dolní části jsou krátké vodorovné řady pikenýrů obrácených k oběma bokům (písmena „d“ a „p“ položená na bok) a uprostřed prostranství s nápisem „Bandiere, Capitani, lanze spezate & Homini grandi & artelarie“ – prapory, kapitáni, lance spezzate, velcí páni a dělostřelectvo. Nahoře nápis Fronte – čelo, dole FRONTE vzhůru nohama. Ke čtyřem rohům ramene jsou připojeny čtyři obdélníkové bloky (nahoře dva bloky asi 8 řad po 12–13 „d“, každý s nápisem Fronte nahoře; dole dva bloky se čtyřmi řadami „d“ a čtyřmi řadami „p“, s nápisem Fronte nahoře, dole vzhůru nohama a vlevo i svisle na boku). Poslední řady horních bloků a dolního pravého bloku jsou proloženy tečkami (ručničáři).
+poznamky:
+- n: 1
+  text: 'Šifra bataillonu v záhlaví (srov. kapitolu XLI na [[050r|listu 50 r]]): o.8 = šik po osmi mužích v řadě, jak předepisuje text kapitoly XII na protější straně; význam dalších čísel (3.5.56) autor nevykládá. Druhá „5“ stojí jako u ostatních šifer na místě písmene p. (partire – rozdělit).'

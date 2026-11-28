@@ -2,7 +2,7 @@ id: 063v
 list: '63'
 strana: verso
 sken: 146
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,7 +10,7 @@ bloky:
   de: |-
     militanti non conuiene parlare ponti de honori, ma ogniuno ala sua arte. Per tanto dico che se deue intendere per septe, & per noue, & per tredece le cose che tocca alhonore & facendo altro che non resaldare lhonore suo mal puo resoluere quel della patria, o quel del suo signore.
   cs: |-
-    nejsou válečníky {militanti}; [s těmi] se nesluší mluvit o bodech cti {ponti de honori}, nýbrž každý ať [hledí] svého řemesla. Proto pravím, že věci, které se dotýkají cti {honore}, je třeba zvažovat sedmkrát, devětkrát i třináctkrát; a kdo dělá cokoli jiného, než že by si svou čest napravil, těžko může hájit čest vlasti nebo čest svého pána.
+    vojáky {militanti}, nesluší se mluvit o bodech cti {ponti de honori}; ať každý hledí svého řemesla. Proto pravím, že věci, které se dotýkají cti {honore}, je třeba zvažovat sedmkrát, devětkrát i třináctkrát; a kdo dělá cokoli jiného, než aby si napravil svou čest, sotva může hájit čest vlasti nebo čest svého pána.
 - typ: nadpis
   uroven: 2
   de: |-
@@ -21,7 +21,7 @@ bloky:
   de: |-
     SE moue el dubio che alchuno dice che dire cornuto e maggior caricho, atteso che una cosa che senne fa tanta stima piu che thesoro, e uita perche nol stima, e cosa reseruata sol per lui e cosa che non conuiene ad padre ne ad figlio, ne ad amico, ne ad parenti ne ad persona al mondo che sia se deue quello che tal pregio non stima, ne ama se puo dire cosa non accostabile alla natura, & non degno de uita, Atteso non e solo la sua uergogna ma da parenti da luna parte & laltra offendere, & danihilare tanti honori de quel che se confidano, & che tali huomini che tal taccia o uero pecco apportano de arme non son degni, & anchora prendendo lo exempio ali animali senza ragione ne per cotal pregii ad morte se inducino. Se responde per laltra parte che un traditore non solo offende a se, & ad parenti, ma destrue & annihila honori de patria, & maxime dandola in preda ad nimici chence ua lhonore commune de donne, & perditione de anime comprendendo el caso ue e tradimento ad signori che le si titulato et
   cs: |-
-    Vzniká pochybnost, když někdo říká, že říci „paroháč“ je větší urážka {caricho}, ježto jde o věc, které si člověk cení víc než pokladu a života; [kdo] si jí neváží – [a] je to věc vyhrazená jen jemu, věc, která nepřísluší otci ani synovi, ani příteli, ani příbuzným, ani komukoli na světě –, o tom, kdo takové ceny neváží ani nemiluje, lze říci, že je to věc přírodě nepřiměřená a nehodná života[^1]. Neboť to není jen jeho hanba, ale uráží to i příbuzné z jedné i z druhé strany a ničí to tolik cti, na niž spoléhají; a takoví muži, kteří nesou takové nařčení {taccia} či vadu {pecco}, nejsou hodni zbraní. A bere se i příklad z nerozumných zvířat, která se pro takové ceny dají až na smrt. Za druhou stranu se odpovídá, že zrádce {traditore} uráží nejen sebe a příbuzné, ale ničí a hubí čest vlasti, a zvláště když ji vydá nepřátelům za kořist, čímž přichází [vniveč] společná čest žen a duše propadají záhubě; [a to] zahrnuje-li případ zradu na pánech, což je tak pojmenovaná a
+    Vzniká pochybnost, když někdo tvrdí, že říci „paroháč“ je větší urážka {caricho}: jde totiž o věc, které si [muž] cení víc než pokladu a života, věc vyhrazenou jen jemu, která nepřísluší otci ani synovi, příteli ani příbuzným, ani nikomu na světě; a o tom, kdo si takové ceny neváží a nemiluje ji, lze říci, že je čímsi přírodě odporným a nehodným života[^1]. Neboť to není jen jeho hanba, nýbrž urážka příbuzných z jedné i druhé strany a zmaření tolika cti, na niž spoléhají; a muži, kteří na sebe uvedou takové nařčení {taccia} či vadu {pecco}, nejsou hodni zbraní. Uvádí se i příklad nerozumných zvířat, která se pro takovou cenu vydávají až na smrt. Za druhou stranu se odpovídá, že zrádce uráží nejen sebe a příbuzné, ale ničí a hubí čest vlasti, zvláště když ji vydá nepřátelům za kořist, čímž jde vniveč společná čest žen a duše propadají záhubě; a týká-li se případ zrady na pánech, je to tak cejchovaná a
 poznamky:
 - n: 1
-  text: 'Souvětí je v tisku nepřehledné („una cosa che senne fa tanta stima piu che thesoro, e uita perche nol stima, e cosa reseruata …“); překlad sleduje patrný smysl: věrnost manželky je statek vyhrazený jen manželovi a kdo si jí neváží, je proti přírodě.'
+  text: 'Souvětí je v tisku nepřehledné („una cosa che senne fa tanta stima piu che thesoro, e uita perche nol stima, e cosa reseruata …“); překlad sleduje patrný smysl: věrnost manželky je statek vyhrazený jen manželovi a kdo si jí neváží, jedná proti přírodě.'

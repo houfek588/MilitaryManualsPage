@@ -2,6 +2,36 @@ id: 011v
 list: '11'
 strana: verso
 sken: 42
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    noce aduolta con peza, & piena de poluere grossa con doi o tra busetti piccoli, ma aduoltate di mistura, & caneuo queste trombe sonno de gran facione.
+  cs: |-
+    ořechu, zabalenou do hadříku a plnou hrubého prachu, se dvěma nebo třemi[^1] malými dírkami, ale obalenou směsí a konopím. Tyto trouby mají velký účinek.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    AD DEFENSIONE CON ROtelle di fuoco. Capitolo. XVII.
+  cs: |-
+    K obraně ohnivými štíty. Kapitola XVII.
+- typ: odstavec
+  de: |-
+    PEr fare uno altro bello mestiero di fuoco si ad muraglie, como per strade, & maxime de notte habiate delle ditte trombe de rame, & inchiauatele in una Rotela ouer imbraciatura quante ui parera, o sei, otto, o diece, & le ditte trombe impiteli de ditta mistura non cotta col ditto modo, uero e che al mio parere le rotelle non siano ad modo che tutte le trombe diano fuoco insieme, ma me piace per durare piu lo contendere se facessero cossi, che alcuni cannoni quanto uno ditto luno pur de rame che ponga il fuoco ad alcune trombe incima di epse che fossero alcuni altri cannoni che escano da piedi de quelle che abrusia, che essendo al fine diano fuoco ale altre prendendo il fuoco da piedi, & dando a laltre incima, & cossi facendo, e uno bellissimo mestiero, per benche sta sogetto a locchio el dire de la uirtu de queste rotelle, ma e da notare che le ditte rotelle bisogna siano coperte de tela negra, acio non para el dare del fuoco, una a laltra e dello dar del fuoco, e dico che lo dare del primo fuoco e cossi bello darlo con una chiauetta ad rotelle como si usa ad alcuni scopetti per non portare il stoppino con lui ma lo stoppino e piu securo.
+  cs: |-
+    Chcete-li udělat jiné pěkné ohňové dílo, ať na hradby, nebo do ulic, a zvláště v noci, mějte zmíněné měděné trouby {trombe} a přibijte jich na okrouhlý štít {Rotela} čili štít na paži tolik, kolik se vám bude zdát, šest, osm nebo deset; ty trouby naplňte zmíněnou nevařenou směsí uvedeným způsobem. Podle mého mínění však nemají být štíty upraveny tak, aby všechny trouby chrlily oheň najednou; aby boj trval déle, líbí se mi, kdyby se to dělalo takto: [udělat] několik rovněž měděných trubiček,[^2] každou tlustou jako prst, které by předaly oheň některým troubám na jejich horním konci, a další trubičky, které by vycházely od spodku těch, jež hoří, takže když dohoří, zapálí další – oheň berou zespodu a předávají ho dalším nahoře. Když se to tak udělá, je to překrásné dílo, i když sílu těchto štítů lépe než slova ukáže oko. Je však třeba poznamenat, že ty štíty musí být potaženy černým plátnem, aby nebylo vidět zapalování ani to, jak jedna [trouba] zapaluje druhou. A říkám, že první oheň je pěkné zapálit kolečkovým zámkem {chiauetta ad rotelle},[^3] jaký se užívá u některých ručnic {scopetti}, aby se s sebou nemusel nosit doutnák {stoppino}; doutnák je však spolehlivější.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    PER FARE LO STOPINO PER scopetto. Capitolo. XVIII.
+  cs: |-
+    Jak udělat doutnák pro ručnici. Kapitola XVIII.
+poznamky:
+- n: 1
+  text: V tisku „o tra“, tisková chyba za „o tre“ (nebo tři).
+- n: 2
+  text: V originále „cannoni“ – zde trubičky (zápalné kanálky), nikoli děla.
+- n: 3
+  text: Chiavetta a rotelle – kolečkový zámek, v němž ozubené kolečko křeše jiskry z pyritu. Della Valle jej v roce 1528 zmiňuje u „některých ručnic“; patří k raným italským dokladům tohoto vynálezu.

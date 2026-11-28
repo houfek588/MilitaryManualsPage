@@ -2,6 +2,28 @@ id: 067v
 list: '67'
 strana: verso
 sken: 154
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: |-
+    SE VNA INIVRIA FATTA IN parole grauose dandoli uno buffetto, ouer calci ouero bastonate sel se resolue si ouero no. Capitolo XXIX.
+  cs: |-
+    Zda se urážka {iniuria} učiněná těžkými slovy vyrovná, když se [urážejícímu] dá políček {buffetto}, kopance nebo rány holí, či nikoli. Kapitola XXIX.
+- typ: odstavec
+  de: |-
+    SE moue el dubio, & dicesi che dalle parole ne descendeno gran cose, & fatti pur in se la parola e principio lo iocare de mane, & assignare ue e lo moto, che e principio, ue e lo dare che e il mezo, & ue il fatto che e la fine, & per esser principio mezo & fine senza dubio e resoluta la iniuria.
+  cs: |-
+    Vzniká pochybnost a říká se, že ze slov vycházejí velké věci a činy; slovo samo o sobě je však jen počátek. Ve vztažení ruky a uštědření [rány] je pohyb, který je počátkem, úder, který je středem, a čin, který je koncem; a protože je v tom počátek, střed i konec, je urážka bezpochyby vyrovnána.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    SE DE DIRE AD VNO TRADITORE, ouer poltrone, ouer dar de ferite, se po resoluere senza uenire a fatti ma con parole, si ouer no. Cap. XXX.
+  cs: |-
+    Zda lze [urážku], že někomu řekl „zrádce“ {traditore} nebo „zbabělec“ {poltrone} anebo mu zasadil rány, vyrovnat bez toho, aby se přišlo k činům, jen slovy, či nikoli. Kapitola XXX.
+- typ: odstavec
+  de: |-
+    SE moue el dubio che le pur gran cosa che uno habia inteso iniuriarse per traditore, & poltrone & ancho dandoli de le ferite che se possa resoluere senza combattimento o far el simile Se responde che per simile cause se e uisto combattere ad tutta oltranza, & combattendo o con ferite, ouero senza quello sie arreso, & restato presone con honore de nemico, & restorato alla satisfactione. Per tanto piu se dice che si senza uenire a tal pericolo se prende como a presone, par che basta, zoe quando se remettesse, & non essere huomo per lui & domandando perdono per lo amore de Dio, & del mondo, & per quanto honore se fa et importa alla militia. Confessando hauer fatto da tristo, & dire
+  cs: |-
+    Vzniká pochybnost, zda – když je to přece velká věc, že někdo slyší, jak je urážen jako zrádce a zbabělec, a navíc dostane rány – se to dá vyrovnat bez boje nebo bez toho, že by učinil totéž. Odpovídá se, že pro podobné příčiny se vídalo bojovat na smrt {ad tutta oltranza}; a v boji, ať s ranami, nebo bez nich, se [urážející] vzdal, zůstal zajatcem {presone} ke cti nepřítele a ten dostal zadostiučinění {satisfactione}. Proto se dále říká, že vydá-li se [urážející] bez takového nebezpečí sám jako zajatec, zdá se, že to stačí – totiž když se podrobí, [prohlásí], že se mu nemůže rovnat, a prosí o odpuštění pro lásku Boží, pro [čest] světa a pro všechnu čest, kterou vojenství {militia} prokazuje a na níž mu záleží; když dozná, že jednal jako ničema {tristo}, a řekne,

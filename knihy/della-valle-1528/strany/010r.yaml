@@ -2,6 +2,41 @@ id: 010r
 list: '10'
 strana: recto
 sken: 39
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    a morire mille exerciti, che a esser una terra distrutta.
+  cs: |-
+    zahyne tisíc vojsk {exerciti}, než aby bylo zničeno [jediné] město.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE DEFENDERE VNA TERra con fuoco de Artellarie. Capi. XIII.
+  cs: |-
+    O obraně města ohněm z děl. Kapitola XIII.
+- typ: odstavec
+  de: |-
+    SOn sforzato anchora per lon gran piangere, & stridore de Vedoe, Maritate, Citelle, figliolette, et bambini de fascia aloro prieghi dare anchora unaltro modo de reparare, & defendere li loro honori corpi & anime, dico anchora al bon Capitano procuratore, & aduocatore de costoro, li bisogna adoperare questi honesti modi, & acti amoreuoli, quando dal inimico e conuitato ad toccare la mano, de salutarlo de bone saette, de scopetti, & archibusi, de bombardelle, de faconetti, de mortari, de sagre, de colubrine, de passauolanti, de cannoni, de aquili, de basilischi, & altre bombarde, queste siano le prime carezze gli primi honori, & non troppo da lonzi.
+  cs: |-
+    Pro veliký pláč a křik vdov, vdaných žen, panen, dcerek a nemluvňat v plenkách jsem na jejich prosby nucen podat ještě jiný způsob, jak ochránit a ubránit jejich čest, těla i duše. Říkám dále dobrému kapitánovi {Capitano}, jejich ochránci a zastánci: musí užít těchto počestných způsobů a láskyplných skutků, když ho nepřítel vyzve, aby si s ním podal ruku – totiž pozdravit ho pořádnými šípy, ručnicemi {scopetti} a arkebuzami {archibusi}, bombardelami {bombardelle}, falkonety {faconetti},[^1] moždíři {mortari}, sakry {sagre}, kolubrinami {colubrine}, passavolanty {passauolanti}, kanony {cannoni}, orly {aquili}, basilišky {basilischi}[^2] a jinými bombardami {bombarde}. To ať jsou první lichotky a první pocty, a ne z příliš velké dálky.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE DEFENDERE VNA TERra con fuoco. Capitolo. XIIII.
+  cs: |-
+    O obraně města ohněm. Kapitola XIV.
+- typ: odstavec
+  de: |-
+    ET piu anchora conuiene ad defensione de costoro hauere certa quantita de pignatelle non cotte alla fornace ma secche al forno, Dapoi el cauar del pane, & queste pignate uoleno essere piene de questa mestura cioe poluere de artellaria grossa, parte tre, de salmitro, parte una de trementina parte meza, pezze nauara ouer pegola de naue, parte meza, sulphure parte una, & queste pignate conuiene trazere alli nimici, quando le trarai fali accender il fuoco, lequale sara parte de le facione in tuo seruitio con parte meza de
+  cs: |-
+    Dále se k jejich obraně hodí mít jisté množství ohnivých hrnečků {pignatelle}, nevypálených v hrnčířské peci, ale vysušených v [chlebové] peci, když se z ní vytáhne chléb. Tyto hrnce mají být plné této směsi {mestura}, totiž: hrubého dělového prachu {poluere} tři díly, ledku {salmitro} jeden díl, terpentýnu {trementina} půl dílu, lodní smoly {pezze nauara} čili smoly z lodí půl dílu, síry {sulphure} jeden díl. Tyto hrnce je třeba házet na nepřátele; když je budeš házet, zapal je, a budou ti v boji dobře sloužit,[^3] [přidá-li se] půl dílu
+poznamky:
+- n: 1
+  text: Faconetti – patrně tisková chyba za „falconetti“ (falkonety).
+- n: 2
+  text: Aquila (orel) a basilisco (bazilišek) – názvy těžkých děl podle zvířecích symbolů, jaké nesla na hlavních; bazilišek byl velmi dlouhé dělo velké ráže.
+- n: 3
+  text: Sporné místo „lequale sara parte de le facione in tuo seruitio con parte meza de sale non pista“. Facione chápeme jako fazione (bojová akce, účinek), srov. list 11 v „trombe sonno de gran facione“; půl dílu netlučené soli (dokončení věty na listu 10 v) je patrně ještě jedna přísada do směsi.

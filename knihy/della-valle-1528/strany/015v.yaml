@@ -2,6 +2,32 @@ id: 015v
 list: '15'
 strana: verso
 sken: 50
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    guardie, & chel ditto contrasegno non sia noto ad altri, che ale guardie che stanno intorno della terra ad luochi ordinati, & cossi ala piaza doue stanno quelli che sonno deputati per sopra guardie, et questo contrasegno, ouer nome di alcuno santo, saria ben meglio quando se mutassero di nouo contrasegno tre, quatro, o sei uolte la notte, attale che non ui sia indicio el nome a chi uolesse fare una captiuita, anchora e da notare che ciascuno non si debbe partire de guardia posto che le, per niun modo, atteso che partendose si potria dare lo intendimento del nome ad nimici, si di fuora como di dentro, quando ui fossero, & sappi che le uno grandissimo fallo senza remissione de uita, lo exercitare dele sopraditte guardie per lo sequente Capitolo lo dechiararemo meglio.
+  cs: |-
+    stráži; a aby to poznávací znamení {contrasegno} nebylo známo nikomu jinému než strážím, které stojí kolem města na určených místech, a rovněž na náměstí, kde stojí ti, kdo jsou určeni za vrchní stráže {sopra guardie}. Toto znamení čili jméno nějakého světce[^1] by bylo mnohem lepší měnit za noc třikrát, čtyřikrát nebo šestkrát za nové znamení, aby heslo neprozradilo nic tomu, kdo by chtěl spáchat nějakou ničemnost.[^4] Dále je třeba poznamenat, že nikdo nesmí, jakmile je postaven na stráž, nijak ze stráže odejít, protože kdyby odešel, mohl by heslo prozradit nepřátelům, ať venku, nebo uvnitř, kdyby tam nějací byli. A věz, že je to velmi těžké provinění, [trestané] smrtí bez milosti.[^2] Výkon zmíněných stráží vyložíme lépe v následující kapitole.
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE GVARDIE Capi. XXXI.
+  cs: |-
+    O strážích. Kapitola XXXI.[^3]
+- typ: odstavec
+  de: |-
+    QVelli che stanno in guardia deputati bisogna che siano partiti tanti per ciascuna hora, ouero in doi hore fare la guardia, & quelli stare uigilanti, & quieti per intendere se nimici facessero alcuno modello per scalare, o uero ordinarlo ad tempo commodo ad loro, ouero intendere altri motiui fra loro, & guarda che non si dimentichi il nome dato dal Capitano, quelli della sopra guardia se debbino spartire anchora loro, ad recercare le guardie, in questo modo uadino tanti di loro per ciascuna guardia che li dintorno, & che uno di quelli cioe quelli della sopra guardia debbe essere recercato da quelli della guardia del nome, & quelli della sopra guardia debbeno dire el
+  cs: |-
+    Ti, kdo jsou určeni na stráž {guardia}, musí být rozděleni po určitém počtu na každou hodinu nebo na dvě hodiny, aby drželi stráž; a mají bdít a být zticha, aby postřehli, zda nepřátelé nechystají nějaký stroj {modello} ke zlézání hradeb {scalare} nebo ho nepřipravují na dobu, která se jim hodí, anebo aby postřehli jiné pohyby mezi nimi. A dbej, aby nikdo nezapomněl heslo {nome} vydané kapitánem {Capitano}. Ti z vrchní stráže {sopra guardia} se mají také rozdělit, aby obcházeli a kontrolovali stráže, a to tak, že ke každé stráži, která je okolo, jich jde určitý počet; a každý z nich, totiž z vrchní stráže, má být strážnými tázán na heslo, a ti z vrchní stráže mají říci
+poznamky:
+- n: 1
+  text: Hesla se tehdy běžně volila podle jmen světců (např. „San Marco“, „San Giorgio“).
+- n: 2
+  text: „Senza remissione de uita“ – doslova „bez prominutí života“.
+- n: 3
+  text: Tisk přeskakuje číslo XXX – po kapitole XXIX následuje XXXI (srov. i dvojí číslo XXVIII na listech 14 r a 14 v).
+- n: 4
+  text: Captiuita (cattività) – ničemnost, zlý skutek; zde zrada stráže nebo přepadení.

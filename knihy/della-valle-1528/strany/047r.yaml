@@ -2,6 +2,23 @@ id: 047r
 list: '47'
 strana: recto
 sken: 113
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO PAPPAFICO de corame con cerchi de ferro suro & canello di andare sotto aqua. Cap. XXXVII.
+  cs: Jak udělat koženou kuklu se železnými obručemi, korkem a trubicí, abys mohl jít pod vodu. Kapitola XXXVII.
+- typ: odstavec
+  de: |-
+    VNaltro modo per fiadare sotto aqua per fare alcuna opera como per busare Naue, o uer acconciare, o anchora per andare in fiumare per fare ponti e trouare luoco piu apto, o per altre imprese, Et se uole aduertire che el tondo largo de cima dello modello, si e uno Suro & in mezo e uno buso laltro sie uno cannello che passa per il mezo del Suro, che auanza di sopra quanto sara el parere, & nella parte di sotto lie uno trombone longo como tu uedi de coramo concio ad aqua, cosito con molti pezzi & con molti cerchi de filo di ferro filato, & che fra luno cerchio, & laltro faci piegha,
+  cs: |-
+    Jiný způsob, jak dýchat pod vodou, abys mohl vykonat nějakou práci, například provrtat loď {Naue} nebo ji opravit, anebo také jít do řeky, stavět mosty {ponti} a najít vhodnější místo, či pro jiné podniky. Je třeba vědět, že široký kruh nahoře na stroji {modello} je korek {Suro}[^1] a uprostřed má otvor; druhá věc je trubice {cannello}, která prochází středem korku a vyčnívá nad něj, kolik se uzná za dobré. Ve spodní části je dlouhá trouba, jak vidíš, z kůže vydělané proti vodě, sešitá z mnoha kusů a s mnoha obručemi z taženého železného drátu; a mezi jednou obručí a druhou ať dělá záhyb,
+- typ: obrazek
+  soubor: drevorez-113.jpg
+  popis: |-
+    Potápěčská kukla s dýchací troubou (kapitola XXXVII): vpravo dole kápě (pappafico), šrafovaná, zakrývající hlavu i krk, s kulatým okénkem; z ní vede obloukem a pak svisle vzhůru dlouhá kožená trouba zpevněná řadou obručí, mezi nimiž se kůže vyboulí v záhybech. Nahoře trouba prochází plochým kotoučem korku, nad nímž vyčnívá trubička. Popisky: „Canello / Suro“ (trubice / korek) u horního konce, svisle podél trouby „Coramo concio ad acqua con cerchi di ferro p[er] fiadare sotto aqua“ (kůže vydělaná proti vodě s železnými obručemi, k dýchání pod vodou) a u kápě „Pappafico con una rotella di uetro“ (kukla se skleněným kolečkem – okénkem).
+poznamky:
+- n: 1
+  text: |-
+    Suro (neapol., ital. sughero) – korek; korkový kotouč drží horní konec trouby na hladině. Pappafico – kápě zakrývající hlavu, krk a tvář (původně námořnická kápě proti větru). Podobná dýchací zařízení kreslili v té době i Leonardo da Vinci a jiní inženýři; skutečná použitelnost dlouhé trouby je sporná, protože tlak vody v hloubce dýchání znemožňuje.

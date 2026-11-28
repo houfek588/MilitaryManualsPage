@@ -2,6 +2,15 @@ id: 034v
 list: '34'
 strana: verso
 sken: 88
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    desopra la parte de mezo spartila de lordinanza per fiancho ala prima parte, & la terza dispartila et mettila al fianco della seconda parte, attal che quella parte che staua in mezo allordinanza sta anchora in mezo al battaglione. Et e da notare che li conuiene .80. scoppetteri como qui dauanti se demostra, & pur che se habino da trouare in altri lochi e tutto ad un tratto e da fare cosi, metterai sette scoppetteri alla fronte dellordinanza, & conta a uintiuno filaro, & mettenci quattordeci scoppetti che son doi filara, & doi altri ad quattordeci filara, doi altri filara de scoppetti, & sette drieto alla coda, & quando parti lascia uno filaro, & laltro piglia, & cosi quanti ne porti da capo al fronte, tanto ne lascia da piedi, & anchora te uoglio recordare do mettere al fianco dextro dalla prima parte uintiuno, & dalla terza parte ultima ad mano sinistra altri uintiuno, & sera perfetto.
+  cs: |-
+    výše, prostřední část šiku {ordinanza} oddělej a postav ji k boku {fiancho} první části, a třetí oddělej a postav ji k boku druhé části, takže ta část, která stála uprostřed šiku, stojí i nadále uprostřed bataillonu {battaglione}. A je třeba poznamenat, že k němu patří 80 ručničářů {scoppetteri}, jak je ukázáno na předchozí straně; a i kdyby se měli najít na jiných místech, všechno se má udělat najednou, a to takto: postavíš sedm ručničářů do čela {fronte} šiku a odpočítáš dvacet jedna řad {filaro} a dáš tam čtrnáct ručničářů, což jsou dvě řady; a po dalších čtrnácti řadách další dvě řady ručničářů a sedm na konec [šiku]. A když [šik] rozděluješ, jednu řadu [ručničářů] nech a druhou vezmi; a kolik jich takto přeneseš od hlavy do čela, tolik jich nech u paty. A ještě ti chci připomenout, abys na pravý bok u první části postavil dvacet jedna [ručničářů] a u třetí, poslední části na levou ruku dalších dvacet jedna, a [bataillon] bude dokonalý.[^1]
+poznamky:
+- n: 1
+  text: 'Vyjmenovaných ručničářů je 7 + 14 + 14 + 7 + 21 + 21 = 84, ne 80; rozdíl dají patrně rohoví muži počítaní dvakrát (srov. obdobný rozdíl u bataillonu 300 pikenýrů na [[033v|listu 33 v]]).'

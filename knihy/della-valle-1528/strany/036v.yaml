@@ -2,6 +2,33 @@ id: 036v
 list: '36'
 strana: verso
 sken: 92
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: Picche.500. o.6.5.17.12.17.le ale.15.a.10.metti ale teste dele ale li.10.restante
+  cs: 500 pikenýrů {Picche}. o.6.5.17.12.17. Křídla {ale} 15, a.10. Zbývajících 10 postav k hlavám křídel.[^1]
+- typ: odstavec
+  de: 'Questa ala bisogna uscire prima de laltra: & dassaltare il fianco de lo contrario: & questa leua lo romore de quella altra batte el nemico per schina de la fronte.'
+  cs: Toto křídlo {ala} musí vyrazit dřív než druhé a napadnout bok {fianco} nepřítele; a zatímco toto [křídlo] strhne povyk, to druhé udeří na nepřítele zezadu {per schina}[^2] od čela.
+- typ: odstavec
+  de: 'Questa ala bisogna andare in su per lo fianco: & poi allargarse: & dare per el fianco dello battaglione contrario.'
+  cs: Toto křídlo musí jít vzhůru podél boku, potom se rozvinout do šířky a udeřit do boku nepřátelského bataillonu {battaglione}.
+- typ: obrazek
+  soubor: drevorez-92.jpg
+  popis: |-
+    Bataillon pěti set pikenýrů se dvěma křídly (ke kapitole XIII), sázený z písmen; nápisy gotickým písmem jsou přepsány výše. Nahoře čtverec asi 17 řad po 17 mužích s nápisem Fronte – čelo nahoře a Fianco – bok vlevo i vpravo. První řadu a oba boky tvoří ručničáři „o“ střídaní s pikenýry „d“, uvnitř jsou řady „d“ a v horní polovině prostranství se třemi řadami „p“ (lance spezzate) kolem praporu „B“. Pod čtvercem vyrážejí šikmo dolů dvě křídla, každé asi ze sto pikenýrů, sázená jako rozevřený vějíř: levé z písmen „d“ položených na bok, lemované řadou „o“, pravé zrcadlově z písmen „p“ s řadou „o“. Vlevo od čtverce je text o levém křídle, vpravo o pravém.
+- typ: nadpis
+  uroven: 2
+  de: Per fare uno battaglione de.500. Picche. Cap. XIII.
+  cs: Jak udělat bataillon o 500 pikách. Kapitola XIII.
+- typ: odstavec
+  de: |-
+    PEr fare el ditto battaglione bisogna mettere inordinanza a sei picche smembrarlo a.17.filara, ad 12.ad.17. & unisce como appare, & li ducento che restano parti per mita, & fa queste dui braze che uenero de cento picche luna, & nota che li scoppetteri non sono ad numero.
+  cs: |-
+    Chceš-li postavit řečený bataillon, je třeba seřadit šik {ordinanza} po šesti pikenýrech, rozčlenit {smembrarlo} ho na 17 řad {filara}, na 12 a na 17 a spojit, jak je vidět; dvě stě, kteří zbývají, rozděl napůl a udělej z nich tato dvě ramena, z nichž každé bude mít sto pikenýrů. A pamatuj, že ručničáři {scoppetteri} nejsou započítáni.
+poznamky:
+- n: 1
+  text: 'Šifra (srov. [[050r|list 50 r]]): o.6 = šik po šesti; rozdělení na 17, 12 a 17 řad; křídla po 15 [řadách]; a.10 = přebývá 10 pikenýrů, kteří se postaví k hlavám křídel. Druhá „5“ stojí na místě písmene p. (partire – rozdělit). Počty přesně nesedí: 6 × (17 + 12 + 17) = 276, z 500 by tedy zbylo 224, text však mluví o dvou stech ve dvou ramenech po sto; i s deseti muži „a.10“ je to 486. Čísla jsou ponechána podle tisku.'
+- n: 2
+  text: '„Per schina“ (per schiena) – zezadu, do zad. „Leua lo romore“ – doslova „zvedá hluk“: první křídlo útokem na bok upoutá nepřítele, zatímco druhé ho obejde a udeří mu do zad.'

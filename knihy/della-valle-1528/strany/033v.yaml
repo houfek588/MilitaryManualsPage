@@ -2,6 +2,14 @@ id: 033v
 list: '33'
 strana: verso
 sken: 86
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: |-
+    E Da notare chel ditto battaglione che e per dauanti e de .300. picche, e de gran uirtu e de fare ogni gran cosa contra caualli in qual se uoglia piano, ma non mancando delli sexantaotto scoppetteri qual conuiene al sopraditto, Et per fare el ditto battaglione bisogna mettere ad ordinanza ad sei, & partire a decedotto filara con doi filara de scoppetteri, ad quattordece altre filara, con doi altri filara de scoppetteri, et uno da capo & uno da piedi, & smembra el primo de doi filara de scopetti, & una lascia, & laltra piglia, & tira per fianco, & poi speza la terza parte della ordinanza, & metti per fianco, & uerra como per dauanti appare. Ma e da notare como e ditto per li altri che delle tre parte che tu fai de lordinanza ala prima parte metterai per lo fianco dextro zoe de fuora tanti scoppetti ala fila quanti uanno in fino ali .18. filari, & poi ala terza parte dellordinanza che e lultima metterai ad mano sinistra como hai fatto ala dextra, ala prima parte da capo, & cosi ueneranno li ditti scoppetteri intorno como per dauanti se uede, & dal calare delle picche, & del exercitare de epsi depende al bon Capitano & sergente, & uirtu commune de li militi.
+  cs: |-
+    Je třeba poznamenat, že řečený bataillon {battaglione}, který je [vyobrazen] na předchozí straně a má 300 pikenýrů {picche}, má velkou sílu a dokáže vykonat každou velkou věc proti jízdě {caualli} na jakékoli rovině, ovšem nesmí mu chybět šedesát osm ručničářů {scoppetteri}, kteří k němu patří. Chceš-li postavit řečený bataillon, je třeba [muže] seřadit do šiku {ordinanza} po šesti a rozdělit na osmnáct řad {filara} se dvěma řadami ručničářů, [pak] na dalších čtrnáct řad s dalšími dvěma řadami ručničářů, a jednu [řadu ručničářů] v čele a jednu u paty. Odděl {smembra} první ze dvou řad ručničářů: jednu nech, druhou vezmi a táhni po boku; potom odlom {speza} třetí část šiku a postav ji po boku, a vyjde to, jak je vidět na předchozí straně. Ale je třeba poznamenat, jak bylo řečeno u ostatních, že ze tří částí, které ze šiku uděláš, postavíš k první části na pravý bok {fianco}, totiž zvenku, tolik ručničářů do řady, kolik jich jde až k 18 řadám; a potom ke třetí části šiku, která je poslední, je postavíš na levou ruku, jako jsi to udělal napravo u první části v čele. A tak se řečení ručničáři dostanou kolem dokola, jak je vidět na předchozí straně. Sklápění pík {calare delle picche} a výcvik v něm závisí na dobrém kapitánovi {Capitano} a šikovateli {sergente} a na společné zdatnosti vojáků {militi}.[^1]
+poznamky:
+- n: 1
+  text: 'Kontrola: 6 × (18 + 14 + 18) = 300 pikenýrů. Ručničářů podle textu: čtyři řady po šesti uvnitř šiku (24), řada v čele a u paty (12) a po 18 na každém boku (36), celkem 72; do udávaných 68 se dostaneme, počítají-li se čtyři rohoví muži jen jednou.'

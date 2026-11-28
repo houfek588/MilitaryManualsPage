@@ -2,7 +2,7 @@ id: 016r
 list: '16'
 strana: recto
 sken: 51
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: odstavec
@@ -10,29 +10,27 @@ bloky:
   de: |-
     nome che e fra loro, & quando non dessero el nome uero, quelli della guardia debbeno mettere mano ale arme, et fare ogni debito di amazare, atteso che in quello luoco e piu sospetto de nimici che di amici, & per bandi, & per precepti dati che non conuiene andare a tale hora, quelli che non sonno deputati, & per questo rispetto con uera ragione li ponno amazare.
   cs: |-
-    heslo {nome}, které je mezi nimi dohodnuto. A kdyby neřekli pravé heslo, mají strážní {guardia} sáhnout po zbrani a učinit, co je jejich povinností, totiž zabíjet; neboť na takovém místě je větší podezření z nepřátel než z přátel, a podle vyhlášek {bandi} a vydaných rozkazů nesmějí v takovou hodinu chodit ti, kdo k tomu nejsou určeni. Z toho důvodu je mohou právem zabít.
+    heslo {nome}, které mezi sebou mají. A kdyby neřekli pravé heslo, mají strážní {guardia} sáhnout po zbrani a učinit, co je jejich povinností, totiž zabíjet; neboť na takovém místě lze spíše tušit nepřítele než přítele, a podle vyhlášek {bandi} a vydaných rozkazů nesmějí ti, kdo k tomu nejsou určeni, v takovou hodinu chodit. Z toho důvodu je mohou právem zabít.
 - typ: nadpis
   uroven: 2
   de: DE MONITIONE DE SOpra guardie. Capitolo.XXXII.
-  cs: O poučení obchůzek. Kapitola XXXII.
+  cs: O poučení vrchních stráží. Kapitola XXXII.
 - typ: odstavec
   de: |-
     E Da notare anchora che le sopra guardie debbeno continuamente pratticare, & andare ale guardie, & arriuati che sonno ala prima, laltro debbe partire, ad tale che non conuiene aspettare dali primi mandati tornar perche andando luno inanti laltro uno poco non si potria fare captiuita de pigritia, & anchora bisogna che ciascun che e fatto sopra guardie debbeno domandare alle guardie che cosa hanno ueduto, & inteso, & quello referire ala piaza al Capitano cossi fare ciascuno di loro mandati per sopraguardie.
   cs: |-
-    Dále je třeba poznamenat, že obchůzky {sopra guardie}[^1] mají neustále chodit a obcházet stráže {guardie}: jakmile jedna dojde k první stráži, má vyrazit druhá, takže se nemá čekat, až se vrátí ti, kdo byli posláni první. Když totiž jde jedna jen chvíli před druhou, nemůže se nikdo dopustit nepravosti z lenosti. A dále je třeba, aby se každý, kdo je ustanoven do obchůzky, ptal stráží, co viděly a slyšely, a to oznámil kapitánovi {Capitano} na náměstí {piaza}; tak mají činit všichni, kdo jsou posláni na obchůzku.
+    Dále je třeba poznamenat, že vrchní stráže {sopra guardie} mají neustále obcházet a chodit ke strážím {guardie}: jakmile jedna dojde k první stráži, má vyrazit další, takže se nemusí čekat, až se vrátí ti, kdo byli vysláni první. Když totiž jde jedna jen kousek před druhou, nemůže se nikdo z lenosti dopustit nekalosti. Dále je třeba, aby se každý, kdo je ustanoven do vrchní stráže, ptal stráží, co viděly a slyšely, a to oznámil kapitánovi {Capitano} na náměstí; tak mají činit všichni, kdo jsou vysláni na vrchní stráž.
 - typ: nadpis
   uroven: 2
   de: DA GIONGERE GVARDIE sopra guardie. Capitolo.XXXIII.
-  cs: O přidávání stráží k obchůzkám. Kapitola XXXIII.[^2]
+  cs: O přidávání stráží a vrchních stráží. Kapitola XXXIII.[^1]
 - typ: odstavec
   de: |-
     ET piu quando sara la matina alalba con piu suspitione debbe stare lhuomo piu acorto usando questo modo, fatto el di chiaro di caziare alcuno milite discreto for di la terra, & inenire & cercare e spiare qual loco doue fosse possibile essere alcuna iboscata de inimici che de di alla secura potesse fare alcuna cosa i lor
   cs: |-
-    A dále: když nastane ráno za úsvitu, kdy je podezření větší, má být člověk ještě obezřetnější. Postupuje se takto: jakmile se rozední, vyšle se několik rozvážných vojáků {milite} ven z města {terra}, aby šli[^3], hledali a vyzvěděli, zda je někde místo, kde by mohla být nepřátelská záloha {iboscata}, jež by za dne mohla beze strachu podniknout něco ke svému
+    A dále: ráno za úsvitu, kdy hrozí větší nebezpečí, má být člověk ještě ostražitější a postupovat takto: jakmile se rozední, vyšli několik rozvážných vojáků {milite} ven z města, aby šli[^2], hledali a vyzvěděli, zda je někde místo, kde by se mohla skrývat nepřátelská záloha {iboscata}, jež by za dne mohla bezpečně podniknout něco ke svému
 poznamky:
 - n: 1
-  text: 'Sopra guardie (sopraguardie) – „nadstráže“, hlídky, které v noci obcházejí jednotlivé stráže na hradbách, vyžadují od nich heslo a hlásí kapitánovi, co stráže zjistily; jejich stanovištěm je náměstí (piazza) uprostřed města (viz předchozí kapitolu XXXI).'
+  text: 'Nadpis doslova „o přidávání stráží [a] vrchních stráží“. Kapitola radí nestahovat ráno všechny noční stráže a doplnit je za dne hláskami na výšinách.'
 - n: 2
-  text: 'Nadpis „Da giongere guardie sopra guardie“ doslova „o přidávání stráží nad stráže“; kapitola pojednává o ranním průzkumu okolí a o denních hlídkách (vedette) na vyvýšených místech, které doplňují noční stráže a obchůzky.'
-- n: 3
-  text: '„inenire“ – tak v tisku, patrně tisková chyba za „inuenire“ (najít) nebo „uenire“ (jít).'
+  text: '„inenire“ – tak v tisku, patrně tisková chyba za „uenire“ (jít) nebo „inuenire“ (nalézt).'

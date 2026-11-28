@@ -2,6 +2,36 @@ id: 044r
 list: '44'
 strana: recto
 sken: 107
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  de: |-
+    BAttaglione de quatrocento picche bisogna mettere in ordinanza ad septe, & la Bandera ad uintinoue, & smembra ad uintiuno, et ad quatordeci, & ad uintiuno, & unisci como ui e noto che sara per doi faze uinti, & per doi altre uintiuno, & auanzasi quatro picche le quale collocarai nella piaza della bandera, & sara perfetto & buono.
+  cs: |-
+    Bataillon {battaglione} o čtyřech stech pikách {picche}: je třeba postavit muže do šiku {ordinanza} po sedmi a prapor {Bandera} na dvacátou devátou [řadu]. Odděl {smembra} po dvaceti jedné, po čtrnácti a po dvaceti jedné [řadách] a spoj, jak už víte; na dvou stranách {faze} tak bude dvacet [pik] a na dvou dalších dvacet jedna. Zbudou čtyři piky, které umístíš na prostranství {piaza} praporu;[^1] a bude to dokonalé a dobré.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE de picche.500. Capitolo.XXVI.
+  cs: Jak udělat bataillon o 500 pikách. Kapitola XXVI.
+- typ: odstavec
+  de: |-
+    AFare uno battaglione de.500. Fanti in quadrangolo bisogna mettere in ordinanza otto fanti per filaro, & la bandera a trenta doi filara, & poi diparti con scopetteri, o uero con alcuni Capi di squadra ale uintitre filara, ali sedeci, ali uintitre, & unisci como ui e stato noto per prima che sara in quadrangolo, & per doi faze che saranno picche uintitre, & sopra doi picche che ua nella piaza, & per doi altre uintiquatro, & lo calare delle picche sta sogetto al buon Capitano, & sergente, & allo adoperare della uirtu commune de militi.
+  cs: |-
+    Chceš-li udělat bataillon o 500 pěšácích {Fanti} ve čtyřúhelníku {quadrangolo}, je třeba postavit do šiku osm pěšáků v řadě {filaro} a prapor na třicátou druhou řadu. Pak rozděl s ručničáři {scopetteri} anebo s několika desátníky {Capi di squadra} po dvaceti třech řadách, po šestnácti a po dvaceti třech a spoj, jak vám bylo ukázáno předtím, takže [bataillon] bude ve čtyřúhelníku: na dvou stranách bude dvacet tři pik a navíc dvě piky, které jdou na prostranství, a na dvou dalších [stranách] dvacet čtyři. Sklápění pík závisí na dobrém kapitánovi {Capitano} a šikovateli {sergente} a na tom, jak se uplatní společná zdatnost vojáků {militi}.[^2]
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAGLIONE de picche.600. Capitolo.XXVII.
+  cs: Jak udělat bataillon o 600 pikách. Kapitola XXVII.
+- typ: odstavec
+  de: |-
+    DA fare uno battaglione de seicento picche in quadrangolo bisogna mettere in ordinanza ad noue, & departi ad uinticinque, ad sedeci, ad uinticinque, & smembra, & inquadra
+  cs: |-
+    Chceš-li udělat bataillon o šesti stech pikách ve čtyřúhelníku, je třeba postavit muže do šiku po devíti a rozdělit je po dvaceti pěti, po šestnácti a po dvaceti pěti [řadách]; pak odděl a sestav do čtverce,
+poznamky:
+- n: 1
+  text: |-
+    Počet: 21 + 14 + 21 = 56 řad po 7 mužích = 392, se čtyřmi přebývajícími 396. Prapor stojí zhruba v prostřední řadě (28.), tisk uvádí 29.
+- n: 2
+  text: |-
+    Poslední slovo je ve skenu čitelné spíš jako „milin“ (poškozená litera); čteme „militi“ (vojáci). Počet: 23 + 16 + 23 = 62 řad po 8 mužích = 496.

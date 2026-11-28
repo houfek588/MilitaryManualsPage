@@ -2,7 +2,7 @@ id: u002v
 list: '[2] v'
 strana: verso
 sken: 8
-stav: prelozeno
+stav: zkontrolovano
 overeno_clovekem: false
 bloky:
 - typ: seznam
@@ -41,9 +41,9 @@ bloky:
   - |-
     Jak udělat kámen, který se zapálí slinou nebo vodou. – [[013r|list 13]]
   - |-
-    Jak udělat „hlínu moudrosti“ {Lota sapientia}.[^1] – [[013r|list 13]]
+    Jak udělat mudrcovskou hlínu {Lota sapientia}. – [[013r|list 13]]
   - |-
-    Jak udělat pochodeň {torcia} odolnou proti větru, která vydrží i ve vodě. – [[013r|list 13]]
+    Jak udělat pochodeň {torcia}, která odolá větru i vodě. – [[013r|list 13]]
   - |-
     Jak udělat hrubý prach {poluere} do bombard {bombarde}. – [[014r|list 14]]
   - |-
@@ -53,19 +53,19 @@ bloky:
   - |-
     O povzbuzování a příkladech. – [[014r|list 14]]
   - |-
-    Jak stavět stráže {guardie} a dozorčí stráže {sopra guardie}.[^2] – [[015r|list 15]]
+    Jak rozestavit stráže {guardie} a vrchní stráže {sopra guardie}. – [[015r|list 15]]
   - |-
     O strážích. – [[015r|list 15]]
   - |-
-    O poučení dozorčích stráží. – [[016r|list 16]]
+    O napomínání vrchních stráží. – [[016r|list 16]]
   - |-
-    O přidávání stráží a dozorčích stráží. – [[016r|list 16]]
+    O přidávání stráží a vrchních stráží. – [[016r|list 16]]
   - |-
     Napomenutí vojákům {milite}, kteří mají uhájit nějaké místo. – [[016r|list 16]]
   - |-
     Jak udělat vodní hodiny {arlogio}. – [[017r|list 17]]
   - |-
-    Jak udělat vodní hodiny.[^3] – [[017r|list 17]]
+    Jak udělat vodní hodiny.[^1] – [[017r|list 17]]
   - |-
     Jak psát na dálku bez posla. – [[019r|list 19]]
 - typ: nadpis
@@ -100,34 +100,25 @@ bloky:
   - |-
     Jak začít s dobýváním města. – [[021r|list 21]]
   - |-
-    Jak dělat zákopy {trencieri} čili koše {gabioni}.[^4] – [[022r|list 22]]
+    Jak dělat zákopy {trencieri} čili koše {gabioni}. – [[022r|list 22]]
   - |-
-    Pamětní návod, jak vést útok {battaglia} na hradbu {muraglia}. – [[023r|list 23]]
+    Připomenutí, jak útočit {battaglia} na hradby {muraglia}. – [[023r|list 23]]
   - |-
     Omluva autora {compositore}. – [[023r|list 23]]
   - |-
-    Model žebříku {scala} s rumpálem {argano} a můstkem. – [[023r|list 23]]
+    Stroj {Modello} – žebřík {scala} s rumpálem {argano} a mostem {ponte}. – [[023r|list 23]]
   - |-
-    Model žebříku, který se po postavení roztahuje. – [[024r|list 24]]
+    Stroj – žebřík, který se po postavení rozevře. – [[024r|list 24]]
   - |-
-    Model žebříku skládaného z kusů. – [[025r|list 25]]
+    Stroj – žebřík skládaný z kusů. – [[025r|list 25]]
   - |-
-    Model žebříku s rumpálem a se „kloboukem“ {capello}.[^5] – [[025r|list 25]]
+    Stroj – žebřík s rumpálem a se stříškou {capello}.[^2] – [[025r|list 25]]
   - |-
-    Model [stroje], jak prolomit hradbu. – [[026r|list 26]]
+    Stroj na prolomení hradby. – [[026r|list 26]]
 poznamky:
 - n: 1
   text: |-
-    „Lota sapientia“ = lat. lutum sapientiae, „hlína (tmel) moudrosti“ – alchymistický tmel z hlíny, trusu a železných okují, jímž se utěsňují a obalují nádoby vkládané do pece (recept na listu 13 v).
+    Položka je v tisku zdvojena (podruhé s pravopisem „aqua“); obě odkazují na list 17.
 - n: 2
   text: |-
-    „Sopraguardie“ – stráže, které obcházejí a kontrolují hlídky (dozorčí hlídky, ronda).
-- n: 3
-  text: |-
-    Položka je v tisku zdvojena (podruhé s pravopisem „aqua“); obě odkazují na list 17.
-- n: 4
-  text: |-
-    „Gabbioni“ – proutěné koše plněné zeminou, kterými se kryjí děla a zákopníci (šanckoše).
-- n: 5
-  text: |-
-    „Capello“ (klobouk) – patrně ochranná stříška nebo krytý koš na vrcholu žebříku; výklad podá kapitola na listu 25.
+    „Capello“ (klobouk) – ochranná stříška na vrcholu žebříku, viz kapitolu X na listu 25 v.

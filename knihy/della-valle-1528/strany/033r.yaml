@@ -2,6 +2,26 @@ id: 033r
 list: '33'
 strana: recto
 sken: 85
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    fianco quatro altre filare se demonstra, otto altre filare restante qui per coda, & girare per ciascuno fiancho che fara el bisogno.
+  cs: |-
+    boku {fianco} se ukazují čtyři další řady {filare}, [a] osm dalších zbývajících řad zde jako ocas, který se otočí ke kterémukoli boku, kde toho bude třeba.
+- typ: odstavec
+  de: b.25. 1 2 Picche.300. o.6.5.18.14.18.18,18 bisogna.2.
+  cs: b.25. 1 2. 300 pikenýrů {Picche}. o.6.5.18.14.18.18,18. Je třeba 2.[^1]
+- typ: obrazek
+  soubor: drevorez-85.jpg
+  popis: |-
+    Bataillon tří set pikenýrů, který je čelem na všechny strany (ke kapitole IX), sázený z písmen do čtverce asi 18 × 19 mužů. Nahoře nápis Fronte – čelo nad samostatnou řadou 18 písmen „d“, která stojí před bataillonem; nápis Fronte je i u obou jejích konců a dole pod bataillonem. Obvod tvoří řady střídající pikenýry a ručničáře „o“ (nahoře „dodo…“, dole a po bocích „PoPo…“). Horní čtvrtina je z písmen „d“ hledících vzhůru, levý bok z „d“ položených na bok (hledí vlevo), pravý bok z „p“ položených na druhý bok (hledí vpravo) a dolní část z „p“ hledících dolů; v rozích jsou písmena sázena šikmo. Uprostřed prostranství s praporem „B“ mezi šesti řadami po osmi „p“ (lance spezzate), tři nad ním a tři pod ním.
+- typ: nadpis
+  uroven: 2
+  de: PER FARE VNO BATTAglione de trecento picche. Cap. IX.
+  cs: Jak udělat bataillon o třech stech pikách. Kapitola IX.
+poznamky:
+- n: 1
+  text: 'Šifra (srov. [[050r|list 50 r]]): b.25 = prapor ve 25. řadě; o.6 = šik po šesti; rozdělení na 18, 14 a 18 řad; strany bataillonu mají 18 a 18 mužů; „bisogna 2“ = je třeba [ještě] dvou. Kontrola: 6 × (18 + 14 + 18) = 300; padesát řad, prapor uprostřed (25. řada). Údaj „1 2“ odpovídá dvojici „2 2“ v šifře na listu 50 r (počet stran s daným počtem mužů); jeho smysl tu není zřejmý. Druhá „5“ stojí na místě písmene p. (partire – rozdělit).'

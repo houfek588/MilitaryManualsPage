@@ -15,7 +15,7 @@ Výchozí německá terminologie z PRAVIDLA § 3 neplatí; platí glosář knihy
 ## Strany
 - Strany jsou kostry (`stav: chybi_original`, `bloky: []`) založené `nastroje/zaloz_strany.py`. Pole `id`, `list`,
   `strana`, `sken` neměň. Úvod: `titul` (sken 5), `u001v` … `u008v` (nečíslované listy [1] v – [8] v, skeny 6–20);
-  text: `001r` … `071v` (list N r = sken 2N + 19) a `072r` (tiskařský znak, sken 163).
+  text: `001r` … `071v` (list N r = sken 2N + 19; tiráž 71 r, tiskařský znak 71 v).
 - **Originál PŘEPISUJ ZE SKENU.** OCR archivu (`zdroje/ocr_ia/NNNN.txt`, NNNN = sken na 4 číslice) je velmi špatné,
   slouží jen k orientaci. Sken (jedno číslo = `sken`, BEZ doplňování nulami):
   `curl -sL -o <tvoje-podsložka-scratchpadu>/sNNN.jpg "https://iiif.archive.org/iiif/vallolibrocotine00dell%24<sken>/full/1600,/0/default.jpg"`

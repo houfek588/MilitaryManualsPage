@@ -2,6 +2,33 @@ id: 057v
 list: '57'
 strana: verso
 sken: 134
-stav: chybi_original
+stav: zkontrolovano
 overeno_clovekem: false
-bloky: []
+bloky:
+- typ: odstavec
+  pokracovani: true
+  de: |-
+    Se potria dire essere data la guanciata, atteso che de lhuomo se ne nota lo animo & lo intento nella cosa, & maxime nela salute de lanima. Se responde che una cosa sol pensata non se puo dire fatta, che e a similitudine del peccato ueniale & mortale, & che son differente, et cosi anchora fu lo animo de Nembrot col suo gran principio de andare al cielo, non fu pero niente dapresso e anchora piu, quando el gran pensamento de Lucifero fo per farse signore del tutto largamente ne fo expulsato, siche concludo che nessuna cosa che non e non puo essere, & se un dice nanti che uenga al delicto che uuole amazare uno, & poi ua & dalli una ferita, confessa che non e restato da lui, & che lo intento non sia restato per amazarlo, ma non e uenuto fatto, per tanto questo non e iustificato per homicidiale, ma se li tagliara la mano.
+  cs: |-
+    dalo by se říci, že facka {guanciata} byla dána, protože u člověka se v každé věci hledí na úmysl a záměr, a nejvíce ve věci spásy duše. Odpovídá se, že věc jen pomyšlená se nedá nazvat vykonanou; je to podobné jako s hříchem všedním a smrtelným, které se od sebe liší. Tak měl i Nimrod[^1] se svým velikým počinem v úmyslu dojít až do nebe, a přece se mu ani zdaleka nepřiblížil. A co víc: když Lucifer pojal velikou myšlenku stát se pánem všeho, byl odtamtud daleko vyhnán. Proto uzavírám, že nic, co není, nemůže být [pokládáno za skutečné]. A řekne-li někdo dříve, než dojde k činu, že chce někoho zabít, a pak jde a zasadí mu ránu, přiznává tím, že na něm to nezůstalo a že úmysl zabít ho trval, ale nepodařilo se to; proto ho nepotrestají jako vraha, ale usekne se mu ruka.[^2]
+- typ: nadpis
+  uroven: 2
+  de: |-
+    DE DOI COMBATTENTI AL fin del combattere doue per lo iudice competente, zoe quello, che da el campo, leuato che lhara una ferita per uno li disparte chi sera lo perditore. Cap. X.
+  cs: |-
+    O dvou bojovnících na konci souboje, když je příslušný soudce, totiž ten, kdo dává kolbiště, rozdělí poté, co každý utrpěl jednu ránu – kdo bude poraženým. Kapitola X.
+- typ: odstavec
+  de: |-
+    MOuesi el dubio per lo actore, quale dice uoler fare bono che lui ha messo ad effetto dare el campo, monstrarse con le arme, menate le mane conuenientemente, el restare de non combattere, & fare piu resoluta fine, non e processo da lui, ma da chi e commune terzo, essendo nelle forze soe, e processo da lui. Se responde per lo reo, che lo actore qual desfida se persuade che sia leso & hauer la ragione, & per
+  cs: |-
+    Vyzyvatel {actore} vznáší pochybnost a říká, že chce prokázat, že on sám vykonal, co měl: zasadil se o udělení kolbiště,[^3] ukázal se ve zbroji a náležitě se bil; že se dál nebojovalo a souboj nedošel rozhodnějšího konce, nevzešlo od něho, nýbrž od toho, kdo je společnou třetí stranou – protože to bylo v jeho moci, vzešlo to od něho. Za vyzvaného {reo} se odpovídá, že vyzyvatel, který vyzývá, je přesvědčen, že byl dotčen a má pravdu, a proto
+poznamky:
+- n: 1
+  text: |-
+    Nimrod (tisk Nembrot), biblický „udatný lovec“ (Gn 10,8–10), jemuž středověká tradice připisovala stavbu babylonské věže, jež měla dosáhnout nebe.
+- n: 2
+  text: |-
+    Narážka na trest useknutí ruky za zranění (útok se zbraní) v protikladu k trestu smrti za vraždu; úmysl bez dokonaného činu se podle autora trestá jen podle toho, co bylo skutečně spácháno.
+- n: 3
+  text: |-
+    Soudce (iudice competente) je zde pán, který bojovníkům „dal kolbiště“ (campo franco) a souboj řídil; mohl jej kdykoli zastavit, např. hozením hůlky, a bojující rozdělit.
